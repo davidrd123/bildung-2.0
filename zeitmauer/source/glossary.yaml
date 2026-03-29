@@ -26,7 +26,7 @@
     - "Measurable Time and Destinal Time"
     - "Measured Time and Time of Destiny"
   status: tentative
-  notes: "Needs to stay paired and conceptually legible."
+  notes: "Still workable after §§4-6. The surrounding fate-compounds keep the register elevated without forcing `destinal` yet."
 
 - term: "Schicksalszeit"
   kind: concept
@@ -35,7 +35,7 @@
     - "destinal time"
     - "time of destiny"
   status: tentative
-  notes: "Important to keep distinct from chronological or measurable time without sounding inflated."
+  notes: "Sections 4-6 support `fateful time`: the neighboring compounds stay concrete (`Schicksalsweisung`, `Schicksalsdeutung`, `Schicksalsqualitäten`) while retaining metaphysical weight."
 
 - term: "mantisch"
   kind: concept
@@ -43,7 +43,7 @@
   alternatives:
     - "divinatory"
   status: tentative
-  notes: "The technical feel of `mantic` may be worth preserving."
+  notes: "Sections 1 and 4 support the technical feel of `mantic`: the word sits beside augury, omens, and oracle practices rather than generalized mysticism."
 
 - term: "Urgrund"
   kind: concept

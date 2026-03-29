@@ -32,3 +32,21 @@ Current bias:
 - keep the English dignified but readable
 - preserve Jünger's analogical movement and conceptual repetition
 - avoid flattening difficult terms too early
+
+## 2026-03-29 - Second Calibration Batch
+
+Extended the calibration into `§§4-6` under `parts/02-messbare-und-schicksalszeit.md`.
+
+Results:
+
+- `mantisch -> mantic` still looks right
+- `Schicksalszeit -> fateful time` still looks right
+- `Bruchstelle` remains open because this batch does not sharpen it further
+
+New pressure points:
+
+- `Da-Sein / So-Sein`
+- `Duktus`
+- `der Hinzutretende`
+
+Decision for now: keep translating forward in small batches, but update the glossary when a term starts to recur structurally rather than incidentally.
