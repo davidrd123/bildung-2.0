@@ -1,0 +1,550 @@
+# Escolios a un texto implícito I — Nicolás Gómez Dávila (1977)
+# Cleaned from OCR. Page numbers reference the original edition.
+# Tags accumulate across passes — not exhaustive, just what resonates.
+
+- id: 1
+  page: 11
+  es: >
+    Un texto breve no es un pronunciamiento presuntuoso,
+    sino un gesto que se disipa apenas esbozado.
+  tags: [form, writing]
+
+- id: 2
+  page: 11
+  es: >
+    El pensamiento que quiere ser siempre justo se paraliza.
+    El pensamiento progresa cuando camina entre injusticias
+    simétricas, como entre dos filas de ahorcados.
+  tags: [thought, method]
+
+- id: 3
+  page: 11
+  es: >
+    Los hombres cambian menos de ideas que las ideas de disfraz.
+    En el decurso de los siglos las mismas voces dialogan.
+  tags: [history, ideas]
+
+- id: 4
+  page: 11
+  es: >
+    El lector no encontrará aforismos en estas páginas.
+    Mis breves frases son los toques cromáticos de una
+    composición "pointilliste".
+  tags: [form, writing, method]
+
+- id: 5
+  page: 11
+  es: >
+    Limitar nuestro auditorio limita nuestras claudicaciones.
+    La soledad es el único árbitro insobornable.
+  tags: [solitude, integrity]
+
+- id: 6
+  page: 11
+  es: >
+    Los significados se aprehenden en un acto garantizado
+    tan sólo por la seca dicha que nos colma.
+    El significado es gesto del objeto que ordena arriesgar
+    la inteligencia y la vida.
+  tags: [meaning, epistemology]
+
+- id: 7
+  page: 12
+  es: >
+    La sórdida penumbra orgánica donde nace la idea no
+    importa, sino su dura punta de diamante.
+  tags: [ideas, form]
+
+- id: 8
+  page: 12
+  es: >
+    La originalidad de una obra depende a veces de lo que
+    su autor no sabe hacer.
+    Hay una impotencia creadora.
+  tags: [creativity, limitation]
+
+- id: 9
+  page: 12
+  es: >
+    El filósofo ambiciona uncir bajo el mismo yugo dos
+    tendencias divergentes del espíritu: su fuga hacia el
+    concepto, su avidez de lo concreto.
+    El grado en que lo logra mide el rango de una filosofía.
+  tags: [philosophy, method]
+
+- id: 10
+  page: 12
+  es: >
+    Es fácil creer que participamos de ciertas virtudes cuando
+    compartimos los defectos que implican.
+  tags: [self-deception, virtue]
+
+- id: 11
+  page: 12
+  es: >
+    El hombre inteligente no vive nunca en ambientes mediocres.
+    Un ambiente mediocre es aquél donde no hay hombres inteligentes.
+  tags: [intelligence, society]
+
+- id: 12
+  page: 12
+  es: >
+    Quienes gimen sobre la estrechez del medio en que viven
+    pretenden que los acontecimientos, los vecinos, los paisajes,
+    les den la sensibilidad y la inteligencia que la naturaleza les negó.
+  tags: [intelligence, self-deception]
+
+- id: 13
+  page: 13
+  es: >
+    En este siglo toda empresa colectiva edifica prisiones.
+    Sólo el egoismo nos impide colaborar en vilezas.
+    Hoy los copartícipes terminan en cómplices.
+  tags: [politics, modernity, individualism]
+
+- id: 14
+  page: 13
+  es: >
+    Adaptarse es sacrificar un bien remoto a una urgencia inmediata.
+  tags: [modernity, conformity]
+
+- id: 15
+  page: 13
+  es: >
+    La madurez del espíritu comienza cuando dejamos de
+    sentirnos encargados del mundo.
+  tags: [maturity, humility]
+
+- id: 16
+  page: 13
+  es: >
+    Después de definir al hombre tenemos que modificar
+    inmediatamente nuestra definición, porque la conciencia
+    de esa definición lo transforma.
+  tags: [anthropology, self-knowledge, reflexivity]
+
+- id: 17
+  page: 13
+  es: >
+    La obra de arte y la vida de su autor no son traducciones
+    recíprocas y obligadas. Su incongruencia no malogra
+    su autenticidad paralela.
+    El autor es simultáneamente el aleve personaje de su
+    biografía y el noble prosador de sus textos.
+  tags: [art, biography, authenticity]
+
+- id: 18
+  page: 13
+  es: >
+    En las horas tediosas de la inteligencia maduran sus
+    vecinas primaveras.
+    Sólo el escritor paciente y laborioso sirve manjares
+    suculentos al lector.
+  tags: [writing, patience, craft]
+
+- id: 19
+  page: 13
+  es: >
+    Nada suele ser más difícil que no fingir comprender.
+  tags: [honesty, intelligence]
+
+- id: 20
+  page: 13
+  es: >
+    El volumen de aplausos no mide el valor de una idea.
+    La doctrina imperante puede ser una estupidez pomposa.
+    Tan trivial reparo suele escapar, sin embargo, al espectador
+    amedrentado.
+  tags: [ideas, conformity, courage]
+
+- id: 21
+  page: 14
+  es: >
+    El amor es el órgano con que percibimos la inconfundible
+    individualidad de los seres.
+  tags: [love, individuality, epistemology]
+
+- id: 22
+  page: 14
+  es: >
+    La verdad se pervierte cuando olvida el concreto proceso
+    en que nace.
+  tags: [truth, method]
+
+- id: 23
+  page: 14
+  es: >
+    Una muchedumbre homogénea no reclama libertad.
+    La sociedad jerarquizada no es meramente la única donde
+    el hombre puede ser libre, sino también la única donde
+    le urge serlo.
+  tags: [liberty, hierarchy, democracy]
+
+- id: 24
+  page: 14
+  es: >
+    La libertad no es fin, sino medio. Quien la toma por fin
+    no sabe qué hacer cuando la obtiene.
+  tags: [liberty, purpose]
+
+- id: 25
+  page: 14
+  es: >
+    Satisfacer el orgullo del hombre es quizá más fácil de
+    lo que nuestro orgullo imagina.
+  tags: [pride, self-knowledge]
+
+- id: 26
+  page: 14
+  es: >
+    Cuando la ciencia ostenta pretensiones filosóficas, la
+    epistemología le recuerda sus postulados.
+    Contra sus pretensiones al imperio la epistemología le
+    exhibe su origen servil.
+    Extra epistemologian nulla salus.
+  tags: [science, epistemology, philosophy]
+
+- id: 27
+  page: 14
+  es: >
+    El individuo es el escollo de las filosofías de la historia.
+  tags: [individuality, history, philosophy]
+
+- id: 28
+  page: 14
+  es: >
+    Hay mil verdades, el error es uno.
+  tags: [truth, error]
+
+- id: 29
+  page: 15
+  es: >
+    El sabor inconfundible de los seres es la bebida de los dioses.
+  tags: [individuality, beauty, the-sacred]
+
+- id: 30
+  page: 15
+  es: >
+    Nuestra última esperanza está en la injusticia de Dios.
+  tags: [God, hope, grace]
+
+- id: 31
+  page: 15
+  es: >
+    El relato inteligente de la derrota es la sutil victoria
+    del vencido.
+  tags: [defeat, intelligence, writing]
+
+- id: 32
+  page: 15
+  es: >
+    Para Dios no hay sino individuos.
+  tags: [God, individuality]
+
+- id: 33
+  page: 15
+  es: >
+    Las ideas son frases que tienen color, olor, sonoridad,
+    peso, — lo que la memoria llama idea es meramente un bagazo.
+  tags: [ideas, sensory, form]
+
+- id: 34
+  page: 15
+  es: >
+    Cuando las cosas nos parecen ser sólo lo que parecen,
+    pronto nos parecen ser menos aún.
+  tags: [appearance, metaphysics]
+
+- id: 35
+  page: 15
+  es: >
+    El psicólogo habita los suburbios del alma, como el
+    sociólogo la periferia de la sociedad.
+  tags: [psychology, sociology, criticism]
+
+- id: 36
+  page: 16
+  es: >
+    Los errores son proletarios insurrectos. Verdades refractarias
+    a su oficio y su rango.
+    Una proposición es falsa cuando obstruye proposiciones más veraces.
+  tags: [truth, error, hierarchy]
+
+- id: 37
+  page: 16
+  es: >
+    Las verdades no están en la circunferencia de un círculo
+    cuyo centro es el hombre.
+    Las verdades se levantan en parajes fragosos que el hombre
+    recorre siguiendo los meandros de una senda sinuosa que
+    las revela, las oculta, finalmente las ostenta o las esconde.
+  tags: [truth, epistemology, anti-anthropocentrism]
+
+- id: 38
+  page: 16
+  es: >
+    Sin actos intencionales los hechos no son ni necesarios, ni casuales.
+    Sin intenciones, el mundo es bloque de sucesiones brutas.
+    La intención funda la casualidad cuando las cosas la sorprenden
+    y la causalidad cuando no la desconciertan.
+    La razón establece funciones, la intención necesidad y contingencia.
+  tags: [intention, causality, phenomenology]
+
+- id: 39
+  page: 16
+  es: >
+    El ser rezuma por todos los poros del mundo.
+  tags: [being, metaphysics]
+
+- id: 40
+  page: 16
+  es: >
+    La razón es un acto del espíritu que analiza un acto espiritual previo.
+    La razón no engendra, sino educa lo engendrado.
+  tags: [reason, spirit, method]
+
+- id: 41
+  page: 17
+  es: >
+    Al corregir la natural ambivalencia de los sentimientos,
+    la razón los corrompe y mutila el universo.
+    Quien suprime las secretas connivencias entre sus amores
+    y sus odios, se vuelve un fanático que camina entre esquemas.
+  tags: [reason, feeling, fanaticism]
+
+- id: 42
+  page: 17
+  es: >
+    En la coherencia de ciertos sistemas, una visión se articula;
+    otras resultan de la mera inercia de una idea.
+  tags: [philosophy, systems, vision]
+
+- id: 43
+  page: 17
+  es: >
+    La ética nace de la conjunción de circunstancias empíricas
+    con la norma trascendente que las circunstancias revelan.
+  tags: [ethics, transcendence, empiricism]
+
+- id: 44
+  page: 17
+  es: >
+    Una presencia voluptuosa comunica su esplendor sensual a toda cosa.
+  tags: [beauty, sensuality, presence]
+
+- id: 45
+  page: 17
+  es: >
+    Todo fin diferente de Dios nos deshonra.
+  tags: [God, purpose, honor]
+
+- id: 46
+  page: 17
+  es: >
+    La inteligencia no aspira a liberarse, sino a someterse.
+    La verdad es el resplandor de la necesidad.
+  tags: [intelligence, truth, submission]
+
+- id: 47
+  page: 18
+  es: >
+    Sólo la libertad limita las abusivas intervenciones de la ignorancia.
+    La política es la ciencia de las estructuras sociales adecuadas
+    a la convivencia de seres ignorantes.
+  tags: [liberty, politics, ignorance]
+
+- id: 48
+  page: 18
+  es: >
+    Una "sociedad ideal" sería el cementerio de la grandeza humana.
+  tags: [utopia, greatness, politics]
+
+- id: 49
+  page: 18
+  es: >
+    Después de toda revolución el revolucionario enseña que
+    la revolución verdadera será la revolución de mañana.
+    El revolucionario explica que un miserable traicionó
+    la revolución de ayer.
+  tags: [revolution, politics, illusion]
+
+- id: 50
+  page: 18
+  es: >
+    Si Sócrates realmente nada sabe, ¿por qué no acepta
+    meramente lo que su interlocutor propone?
+    ¿Espera, tal vez, que la verdad nazca de la congruencia de caprichos?
+    ¿Creerá Sócrates, quizá, que el "bien" consiste en lo que
+    los votantes unánimemente aprueban?, ¿será Sócrates demócrata?
+    ¡No!
+    Como todo reaccionario, Sócrates sabe que en una democracia
+    no es lícito enseñar. El demócrata necesita creer que inventa
+    lo que le sugieren.
+  tags: [Socrates, democracy, teaching, reactionary]
+
+- id: 51
+  page: 19
+  es: >
+    Los parlamentos democráticos no son recintos donde se discute,
+    sino donde el absolutismo popular registra sus edictos.
+  tags: [democracy, parliament, absolutism]
+
+- id: 52
+  page: 19
+  es: >
+    El burgués entrega el poder para salvar el dinero; después
+    entrega el dinero para salvar el pellejo; y finalmente lo ahorcan.
+  tags: [bourgeoisie, politics, history]
+
+- id: 53
+  page: 19
+  es: >
+    Burguesía es todo conjunto de individuos inconformes con lo
+    que tienen y satisfechos de lo que son.
+  tags: [bourgeoisie, self-satisfaction]
+
+- id: 54
+  page: 19
+  es: >
+    Los marxistas definen económicamente a la burguesía para
+    ocultarnos que pertenecen a ella.
+  tags: [marxism, bourgeoisie, hypocrisy]
+
+- id: 55
+  page: 19
+  es: >
+    Sólo sus enemigos saben estimar la grandeza del comunismo.
+    La tesis marxista difama tanto los motivos del comunista
+    como los de su adversario.
+  tags: [communism, marxism, greatness]
+
+- id: 56
+  page: 20
+  es: >
+    Quienes disculpan su abyección pretendiéndose "víctimas de
+    las circunstancias" son socialistas doctrinarios.
+    El socialismo es la filosofía de la culpabilidad ajena.
+  tags: [socialism, responsibility, blame]
+
+- id: 57
+  page: 20
+  es: >
+    El militante comunista antes de su victoria merece el mayor respeto.
+    Después no es más que un burgués atareado.
+  tags: [communism, bourgeoisie, irony]
+
+- id: 58
+  page: 20
+  es: >
+    Quienes defienden lo existente luchan por algo concreto:
+    un privilegio, una estructura social, un bien encarnado;
+    en contra, quien batalla por un programa abstracto puede
+    creer que defiende lo universal.
+    El izquierdista se cree generoso porque sus metas son borrosas.
+  tags: [left-right, politics, abstraction, concreteness]
+
+- id: 59
+  page: 20
+  es: >
+    Este siglo de pedagogía proletaria predica la dignidad del
+    trabajo, como un esclavo que calumnia el ocio inteligente y voluptuoso.
+  tags: [work, leisure, modernity]
+
+- id: 60
+  page: 20
+  es: >
+    Las superestructuras cambian, cuando las "fuerzas de producción"
+    varían; pero como cada configuración de fuerzas encierra una
+    pluralidad virtual de estructuras, la que se realiza no depende
+    de motivos económicos.
+  tags: [marxism, economics, determinism]
+
+- id: 61
+  page: 20
+  es: >
+    El amor al pueblo es vocación de aristócrata. El demócrata
+    no lo ama sino en período electoral.
+  tags: [aristocracy, democracy, love, the-people]
+
+- id: 62
+  page: 21
+  es: >
+    A medida que el estado crece el individuo disminuye.
+  tags: [state, individuality, politics]
+
+- id: 63
+  page: 21
+  es: >
+    No logrando realizar lo que anhela, el "progreso" bautiza
+    anhelo lo que realiza.
+  tags: [progress, illusion, modernity]
+
+- id: 64
+  page: 21
+  es: >
+    La técnica no cumple los viejos sueños del hombre, sino
+    los remeda con sorna.
+  tags: [technology, progress, irony]
+
+- id: 65
+  page: 21
+  es: >
+    Como el triunfo de cualquier virtud mutila a otras, todo
+    "progreso" acarrea un regreso simétrico.
+  tags: [progress, virtue, symmetry]
+
+- id: 66
+  page: 21
+  es: >
+    El pueblo no se rebela nunca contra el despotismo sino
+    contra la mala alimentación.
+  tags: [the-people, revolution, materialism]
+
+- id: 67
+  page: 21
+  es: >
+    Cuando se deje de luchar por la posesión de la propiedad
+    privada se luchará por el usufructo de la propiedad colectiva.
+  tags: [property, politics, conflict]
+
+- id: 68
+  page: 21
+  es: >
+    La movilidad social ocasiona la lucha de clases.
+    El enemigo de las clases altas no es el inferior carente de
+    toda posibilidad de ascenso, sino el que no logra ascender
+    cuando otros ascienden.
+  tags: [class, social-mobility, resentment]
+
+- id: 69
+  page: 22
+  es: >
+    Nada más noble que el aristócrata liberal — como Tocqueville —
+    para quien la libertad de todos es el privilegio que compete
+    defender a la clase dirigente.
+  tags: [aristocracy, liberalism, Tocqueville, liberty]
+
+- id: 70
+  page: 22
+  es: >
+    Cierta manera desdeñosa de hablar del pueblo denuncia
+    al plebeyo disfrazado.
+  tags: [the-people, aristocracy, self-deception]
+
+- id: 71
+  page: 22
+  es: >
+    Si el hombre es el único fin del hombre, una reciprocidad
+    inane nace de ese principio como el mutuo reflejarse de
+    dos espejos vacíos.
+  tags: [humanism, God, purpose, nihilism]
+
+- id: 72
+  page: 22
+  es: >
+    Ni cristianismo, ni paganismo, enseñan éticas altruístas.
+    Tanto la moral cristiana, como la moral pagana, son
+    individualismos éticos, que imponen deberes sociales tan
+    sólo como medios de nuestra perfección terrestre o de
+    nuestra salvación enigmática.
+  tags: [christianity, paganism, ethics, individualism]

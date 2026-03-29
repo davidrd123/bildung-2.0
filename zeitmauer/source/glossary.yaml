@@ -1,0 +1,82 @@
+# Working glossary for recurring terms.
+# `preferred` can remain null while the term is still unstable.
+
+- term: "An der Zeitmauer"
+  kind: title
+  preferred: null
+  alternatives:
+    - "At the Time Wall"
+    - "On the Time Wall"
+    - "By the Time Wall"
+  status: open
+  notes: "Keep the German title at project level until the metaphor settles across later sections."
+
+- term: "Fremde Vögel"
+  kind: section_title
+  preferred: "Strange Birds"
+  alternatives:
+    - "Foreign Birds"
+  status: tentative
+  notes: "The section treats migratory birds as omens or indicators, not merely exotic species."
+
+- term: "Meßbare und Schicksalszeit"
+  kind: section_title
+  preferred: "Measurable Time and Fateful Time"
+  alternatives:
+    - "Measurable Time and Destinal Time"
+    - "Measured Time and Time of Destiny"
+  status: tentative
+  notes: "Needs to stay paired and conceptually legible."
+
+- term: "Schicksalszeit"
+  kind: concept
+  preferred: "fateful time"
+  alternatives:
+    - "destinal time"
+    - "time of destiny"
+  status: tentative
+  notes: "Important to keep distinct from chronological or measurable time without sounding inflated."
+
+- term: "mantisch"
+  kind: concept
+  preferred: "mantic"
+  alternatives:
+    - "divinatory"
+  status: tentative
+  notes: "The technical feel of `mantic` may be worth preserving."
+
+- term: "Urgrund"
+  kind: concept
+  preferred: "primal ground"
+  alternatives:
+    - "ground of being"
+    - "deep ground"
+  status: open
+  notes: "Needs wider context from the final section before fixing."
+
+- term: "erdgeschichtlich"
+  kind: concept
+  preferred: "earth-historical"
+  alternatives:
+    - "geo-historical"
+  status: tentative
+  notes: "The term needs to remain visibly larger in scale than ordinary history."
+
+- term: "Weltplan"
+  kind: concept
+  preferred: "world-plan"
+  alternatives:
+    - "cosmic plan"
+    - "plan of the world"
+  status: tentative
+  notes: "Hyphenation keeps the German compound visible."
+
+- term: "Bruchstelle"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "fault line"
+    - "fracture point"
+    - "break point"
+  status: open
+  notes: "Jünger uses it both conceptually and imagistically. The English choice may need to shift by context."
