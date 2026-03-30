@@ -10,12 +10,13 @@ A disciplined transformation of Dick's recursive archive into a readable map —
 
 - `../books/The Exegesis of Philip K. Dick - Dick, Philip K_.txt` — ebook text of the 2011 Jackson/Lethem abridgement
 - The published Exegesis is itself an abridgement of ~8,000 handwritten pages into ~800
+- The current ebook source yields **1009 indexed pieces** across **75 folders**: **988 journal entries** and **21 indexed letters**
 
 ## Structure
 
 ```
 source/
-  entries.yaml          # one record per bracketed entry [folder:page], preserving archival IDs
+  entries.yaml          # one record per bracketed entry; source_id preserves printed [folder:page], id disambiguates repeats
 threads/
   README.md             # master thread list and definitions
   zebra-valis.md        # living dossier — grows entry by entry
@@ -27,7 +28,14 @@ threads/
   the-dialectic.md
   2-3-74.md
 passes/
-  01-folder-04.md       # reading batches in archival order
+  01-folder-04.md       # calibration pass: raw aftermath and first frameworks
+  02-folder-23.md       # system-building pass: James-James, prison-world, anamnesis
+  03-folder-24.md       # Brahman, the Black Iron Prison, and the mimicking entity
+  04-folder-25.md       # Zebra named: signals, providence, and fiction as prior contact
+  05-folder-26.md       # Process God, Spirit in history, and anamnesis as memory architecture
+  06-folder-27.md       # Psychosis, bicamerality, Zebra as king, and layered-time retrieval
+  07-folder-28.md       # Thomas explicit, sacred time, and Ubik as scripture
+  08-folder-29.md       # Timaeus, St. Sophia, anti-information, and religion as intervention
 scripts/
   extract_entries.py    # rebuilds source/entries.yaml from the ebook text
 journal.md              # the reader's changing model of Dick
@@ -39,7 +47,7 @@ The escolios workflow treats each aphorism as an independent unit that gets two 
 
 - The text is already in English — the problem isn't linguistic transfer
 - Individual entries are not self-contained — meaning lives in recurrence, mutation, and self-contradiction across entries
-- The archive is massive (~743 bracketed entries across ~65 folders, plus ~33 letters) and obsessively recursive
+- Even the published abridgement is large: the current extraction yields 1009 indexed pieces across 75 folders, and the text remains obsessively recursive
 
 The **entry** is the archival unit; the **thread** is the interpretive unit.
 
@@ -49,7 +57,8 @@ The **entry** is the archival unit; the **thread** is the interpretive unit.
 
 Each bracketed entry receives:
 - **Claim** — the core insight or assertion in 1–2 sentences
-- **Threads** — which recurring strands this connects to
+- **Threads** — recurring strands that are already active in the entry as written
+- **Foreshadows** — optional; later-named strands that are only latent here
 - **Drift** — how this relates to earlier/later versions of the same idea; does Dick know he's revising?
 - **Echoes** — specific entries this repeats, contradicts, or transforms
 - **Sources** — crux references noted (not full parallel text — that's a later phase)
@@ -86,3 +95,5 @@ Tracks the reader's changing model of Dick and of the Exegesis itself. With this
 ```bash
 python3 exegesis/scripts/extract_entries.py
 ```
+
+The extraction script validates the current corpus counts and fails if obvious preview junk or count drift appears.

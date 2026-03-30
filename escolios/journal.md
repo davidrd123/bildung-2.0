@@ -79,3 +79,79 @@ Confirmed the earlier observation that the shortest aphorisms (§75, §82, §85,
 §98: OCR had *lama* (mud) for what should be *llama* (flame). "The philosopher is nothing but the mud that..." makes no sense; "the flame that burns him" is clearly right. Should verify against the PDF. Also §106: OCR had *AÁducir* — cleaned to *Aducir*. These corrections are small but matter.
 
 ---
+
+## 2026-03-29 — Section 06 complete (§109–146, pp. 28–34)
+
+### The Revelation Aphorism (§110) as Methodological Key
+
+"Revelation consists not so much in teaching a new notion as in authenticating an existing one." This is not just theology — it's a description of what the *Escolios* themselves do. They don't teach new ideas; they *authenticate* ideas the reader already half-knew. The "dry joy" of §6 — the feeling that guarantees meaning — is the reader's experience of authentication. You read an aphorism and feel not "I didn't know that" but "I always knew that, and now I'm certain." The Escolios are a secular revelation: confirmation from outside of what was already suspected from inside.
+
+### The Zeitmauer Connection (§144)
+
+"We are entering epochs that expect from the philosopher not an explanation nor a transformation of the world, but the construction of shelters against the inclemency of time." This is the most direct bridge to the Jünger project yet. The *Zeitmauer* is exactly this: an attempt to build a conceptual shelter against the time-crisis. And the Mumford connection deepens — Mumford's *Pentagon of Power* diagnoses the same storm; Jünger and Gómez Dávila are both building shelters against it, one in German, one in Spanish. §144 could serve as an epigraph for the entire bildung-2.0 project.
+
+### §112 as Philosophical Infrastructure
+
+The science/philosophy distinction (propositions vs. statements, falsification vs. authentication, experiment vs. experience) is load-bearing for everything that follows. It's why Gómez Dávila can dismiss scientism (§26, §102, §103) without being anti-science: science and philosophy are doing different things with different criteria. You don't refute Plato with an experiment any more than you falsify a chemical equation with a poem. This framework also protects the *Escolios* from the most common criticism ("these are just assertions!") — yes, and philosophical statements are *supposed* to be assertions. The criterion is authenticity, not proof.
+
+### The Anti-Hegel (§136)
+
+The dialectic critique is his longest sustained argument in pages. Worth noting that it echoes the Exegesis project: Dick's "dialectic" thread tracks how PKD uses thesis/antithesis/synthesis — but Dick's dialectic is *experiential* (he lives the contradictions), not *logical* (he doesn't resolve them by definition). Gómez Dávila would approve of Dick's dialectic and despise Hegel's, for exactly the reason stated in §136: Dick's contradictions are between *realities*, Hegel's between *definitions*.
+
+### §145 as Structural Confession
+
+"Two contrary philosophical theses complete each other, but only God knows how." This explains the aphoristic form better than any other single sentence. If Gómez Dávila could see the completion, he'd write a treatise. He can't. So he writes fragments — pointillist dots (§4) that gesture toward a picture only God can see. The "implicit text" is the divine synthesis. The Escolios are the human fragments.
+
+---
+
+## 2026-03-29 — Section 07 complete (§147–170, pp. 34–38)
+
+### The Bildung Aphorism (§161)
+
+"The book does not educate the one who reads it with the aim of educating himself." This sentence might be the most important one for the entire bildung-2.0 project. It's a warning embedded in the very practice we're doing: formation happens only as a side effect of genuine encounter. The moment you instrumentalize the reading — "I'm reading Gómez Dávila *in order to* be formed" — you block the formation. The project's structure (translation as practice, not product) is already designed around this principle, but it's worth stating: the *Escolios* are teaching us something we can only learn by *not trying to learn it*.
+
+### §163 — The Temporal Theory of Pleasure
+
+"Pleasure is the mocking flash of lightning where desire meets nostalgia." This may be the most philosophically compressed aphorism since §30. It encodes a complete metaphysics of time in one image: the present doesn't exist except as the collision of two absences (desire = what isn't yet; nostalgia = what isn't anymore). The lightning flash is the infinitesimal point where these two non-beings meet and discharge. And it *mocks* — because the discharge is too brief to inhabit. This connects to Jünger's *Schicksalszeit* versus *Meßbare Zeit*: measurable time tries to capture the flash; fateful time knows it can't be held.
+
+### The *Escollo/Escolio* Constellation
+
+Third appearance of *escollo* (reef/stumbling block) in §169. Previous: §27 (the individual is the reef of philosophies of history). The near-pun with *escolio* (the book's title) is now a confirmed pattern, not an accident. In §169, "perfection is the reef of those who don't understand it comes from impure acts" — which means the *Escolios* (scholia) are themselves impure acts that gestures toward a perfection that would destroy them if achieved. The title names both the form (scholia: marginal notes) and its obstacle (reef: what prevents completion). The implicit text can't be written because writing it would be reaching perfection, and perfection comes only from impure acts — which are the scholia themselves. A perfect loop.
+
+### Compression Reaching Its Limit
+
+This section contains the densest cluster of single-sentence aphorisms yet: §149, §150, §158, §160, §165, §168. Several are under ten words. The dual-translation method is almost irrelevant for these — the close and free versions differ by at most one or two word choices. The method is most productive on the medium-length aphorisms (§147, §154, §163, §164) where structural choices diverge. Going forward, might be worth noting when the gap between versions is especially revealing vs. when it collapses — the pattern itself tells us something about where the interesting translation problems live.
+
+---
+
+## 2026-03-29 — Cross-Project Note: The Goethe+Leibniz Frame
+
+A parallel conversation (see `00-Notes/cross-domain-synthesis-threads.md`) traced the post-1800 split between formalism (Leibniz lineage) and participatory perception (Goethe lineage) through to the present. The Escolios project maps onto this as follows:
+
+Gómez Dávila is on the Goethe side. His method — aphorism, *Anschauung*, trained attention to the particular — is anti-formal and anti-systematic by design. The "implicit text" can't be written because writing it would be the Leibnizian move: formalizing what can only be perceived. §112 (science makes propositions, philosophy makes statements — different criteria entirely) is his clearest articulation of why the two domains can't be unified by the same method. §145 (contrary theses complete each other, but only God knows how) is his confession that the unity exists but exceeds human formalization.
+
+The dual-translation method enacts this split at the sentence level. The "close" translation is Leibnizian — structural fidelity, syntactic mapping. The "free" translation aspires to be Goethean — capturing the *gesture*, the perception, the snap. Neither is adequate alone. The gap between them is the semantic residue that Rosen calls the difference between a simulation and a model. We're producing both, and the meaning lives in the difference.
+
+Cassirer is the figure who could bridge Gómez Dávila and Jünger philosophically — his irreducibility of symbolic forms maps onto GD's §112, while his *Substanzbegriff und Funktionsbegriff* maps onto Jünger's structural analogies. The first three volumes of the *Erkenntnisproblem* (still untranslated from German) would be a natural future candidate for the `sources/german/` layer or even a fourth sub-project.
+
+---
+
+## 2026-03-30 — Section 08 complete (§171–210, pp. 38–47)
+
+### The Sacramental Turn
+
+§208 ("The world is sacramental or dull") and §209 ("Only one thing is not vain: the sensual perfection of the instant") sit side by side and together form the theological-aesthetic core of the entire *Escolios*. The sacrament is experienced *in* the instant of sensual perfection — not beyond it, not through it, but *as* it. This is Gómez Dávila's version of Hopkins's "inscape" or Jünger's *Annäherung* — the point where the concrete particular becomes so fully itself that it opens onto the sacred. The anti-progressive politics, the anti-systematic epistemology, the defense of hierarchy — all of it serves this: creating the conditions under which the sacramental instant can be perceived.
+
+### §194 as Philosophical Manifesto
+
+"Feelings are attributes of the object, like sensations." This overturns the subjectivist tradition (Descartes → Kant → modern neuroscience) in two sentences. Beauty is *in* the sunset. Sadness is *in* the ruin. Modern philosophy's move of assigning these to the subject was a useful method but a metaphysical crime. This is the realist epistemology that grounds everything: §6 (meaning is a gesture of the object), §21 (love perceives real perfections), §109 (love doesn't invent what it sees). All rest on §194's claim: the qualities belong to the world, not to us. We *receive* them.
+
+### §205 and the Zeitmauer
+
+"Man declared matter inert so he could assault the world with a clear conscience." This is the Escolios' most direct convergence with Jünger's diagnosis. The declaration that matter is inert (Descartes, the scientific revolution, the disenchantment of the world) is not a neutral discovery — it's a *moral decision* that licenses exploitation. Jünger's "time wall" stands between the world experienced as alive (mantic, sacramental, fateful) and the world experienced as dead matter (measurable, exploitable, dull). Gómez Dávila adds the motive the historians leave out: it wasn't curiosity that killed enchantment. It was greed.
+
+### §199 and the Exegesis
+
+"Mysticism is the empiricism of transcendent knowledge." Dick is a mystical empiricist. The Exegesis is field notes from the transcendent. The method is the same as scientific empiricism — observe, record, hypothesize, test — but the domain is different. Gómez Dávila would recognize Dick's practice even while rejecting most of his frameworks. The convergence is in the method, not the conclusions.
+
+---

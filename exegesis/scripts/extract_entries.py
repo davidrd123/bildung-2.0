@@ -15,6 +15,16 @@ PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
 SOURCE_FILE = PROJECT_ROOT / "books" / "The Exegesis of Philip K. Dick - Dick, Philip K_.txt"
 OUTPUT_FILE = Path(__file__).resolve().parent.parent / "source" / "entries.yaml"
 
+# Canonical counts for the current ebook source. If the source text changes,
+# regenerate intentionally and update these after reviewing the diff.
+EXPECTED_INDEX = {
+    "total_entries": 1009,
+    "letters": 21,
+    "journal_entries": 988,
+    "folders": 75,
+    "missing_previews": 26,
+}
+
 # Folder date ranges from the published edition's chronological markers
 FOLDER_DATES = {
     4: "1974-1976",
@@ -98,23 +108,81 @@ ENTRY_RE = re.compile(r"^\[(\d+\*?):([^\]]+)\]")
 LETTER_RE = re.compile(r"^Letter to (.+?),\d*\s*(.+?)$")
 FOLDER_RE = re.compile(r"^Folder (\d+\*?)$")
 PART_RE = re.compile(r"^PART (ONE|TWO|THREE|FOUR)$")
+PREVIEW_FOOTNOTE_RE = re.compile(r"^\d{1,2}\s+")
+PREVIEW_UNAVAILABLE = "[preview unavailable in ebook text]"
+
+
+def clean_preview_text(text):
+    """Trim obvious ebook footnote artifacts from preview text."""
+    cleaned = re.sub(r"\s+", " ", text.strip())
+    if not cleaned:
+        return ""
+    if cleaned.isdigit():
+        return ""
+    cleaned = PREVIEW_FOOTNOTE_RE.sub("", cleaned)
+    return cleaned.strip()
 
 
 def extract_first_line(lines, start_idx, max_chars=120):
     """Get first non-empty content line after the entry marker."""
-    for i in range(start_idx, min(start_idx + 10, len(lines))):
+    for i in range(start_idx, min(start_idx + 20, len(lines))):
         line = lines[i].strip()
+        if i > start_idx and (ENTRY_RE.match(line) or LETTER_RE.match(line)):
+            break
         # Skip empty lines and the entry marker itself
         if not line or ENTRY_RE.match(line) or LETTER_RE.match(line):
             # But entry markers sometimes have content on the same line
             if ENTRY_RE.match(line):
-                rest = ENTRY_RE.sub("", line).strip()
+                rest = clean_preview_text(ENTRY_RE.sub("", line).strip())
                 if rest:
                     return rest[:max_chars]
             continue
-        if line:
-            return line[:max_chars]
-    return ""
+        cleaned = clean_preview_text(line)
+        if cleaned:
+            return cleaned[:max_chars]
+    return PREVIEW_UNAVAILABLE
+
+
+def validate_entries(entries):
+    """Fail fast if extraction drifted or obvious preview junk leaked through."""
+    unique_ids = set()
+    for entry in entries:
+        entry_id = entry["id"]
+        if entry_id in unique_ids:
+            raise ValueError(f"Duplicate entry id detected: {entry_id}")
+        unique_ids.add(entry_id)
+
+        if entry["part"] is None:
+            raise ValueError(f"Missing part metadata for {entry_id}")
+
+        preview = entry["first_line"]
+        if preview.isdigit():
+            raise ValueError(f"Digit-only preview leaked through for {entry_id}: {preview!r}")
+
+        if entry["type"] == "letter":
+            if "recipient" not in entry or "letter_date" not in entry:
+                raise ValueError(f"Incomplete letter metadata for {entry_id}")
+
+    letters = sum(1 for e in entries if e["type"] == "letter")
+    journal_entries = sum(1 for e in entries if e["type"] == "entry")
+    folders = len(set(e["folder"] for e in entries))
+    missing_previews = sum(1 for e in entries if e["first_line"] == PREVIEW_UNAVAILABLE)
+
+    actual = {
+        "total_entries": len(entries),
+        "letters": letters,
+        "journal_entries": journal_entries,
+        "folders": folders,
+        "missing_previews": missing_previews,
+    }
+
+    if actual != EXPECTED_INDEX:
+        raise ValueError(
+            "Extracted corpus stats changed. "
+            f"Expected {EXPECTED_INDEX}, got {actual}. Review the source text and update intentionally."
+        )
+
+    return actual
 
 
 def main():
@@ -127,15 +195,24 @@ def main():
     current_folder = None
     current_part = None
     letter_context = {}  # line_number -> letter info
+    source_id_counts = {}
+    source_id_seen = {}
 
     # First pass: find all letters (they appear just before their entry)
     for i, line in enumerate(lines):
-        m = LETTER_RE.match(line.strip())
+        stripped = line.strip()
+
+        m = LETTER_RE.match(stripped)
         if m:
             letter_context[i] = {
                 "recipient": m.group(1).strip(),
                 "date": m.group(2).strip().rstrip("*"),
             }
+
+        em = ENTRY_RE.match(stripped)
+        if em:
+            source_id = f"{em.group(1).rstrip('*')}:{em.group(2).strip()}"
+            source_id_counts[source_id] = source_id_counts.get(source_id, 0) + 1
 
     # Second pass: extract entries
     for i, line in enumerate(lines):
@@ -161,6 +238,14 @@ def main():
             folder_str = em.group(1).rstrip("*")
             page_str = em.group(2).strip()
             folder = int(folder_str)
+            source_id = f"{folder}:{page_str}"
+
+            occurrence = source_id_seen.get(source_id, 0) + 1
+            source_id_seen[source_id] = occurrence
+
+            entry_id = source_id
+            if source_id_counts[source_id] > 1:
+                entry_id = f"{source_id}#{occurrence}"
 
             # Check if preceded by a letter heading (within 10 lines)
             letter_info = None
@@ -170,7 +255,8 @@ def main():
                     break
 
             entry = {
-                "id": f"{folder}:{page_str}",
+                "id": entry_id,
+                "source_id": source_id,
                 "folder": folder,
                 "page": page_str,
                 "line": i + 1,  # 1-indexed
@@ -180,16 +266,22 @@ def main():
                 "first_line": extract_first_line(lines, i),
             }
 
+            if source_id_counts[source_id] > 1:
+                entry["occurrence"] = occurrence
+
             if letter_info:
                 entry["recipient"] = letter_info["recipient"]
                 entry["letter_date"] = letter_info["date"]
 
             entries.append(entry)
 
-    print(f"Extracted {len(entries)} entries")
-    print(f"  Letters: {sum(1 for e in entries if e['type'] == 'letter')}")
-    print(f"  Journal entries: {sum(1 for e in entries if e['type'] == 'entry')}")
-    print(f"  Folders represented: {len(set(e['folder'] for e in entries))}")
+    stats = validate_entries(entries)
+
+    print(f"Extracted {stats['total_entries']} entries")
+    print(f"  Letters: {stats['letters']}")
+    print(f"  Journal entries: {stats['journal_entries']}")
+    print(f"  Folders represented: {stats['folders']}")
+    print("Validation: OK")
 
     # Write YAML
     OUTPUT_FILE.parent.mkdir(parents=True, exist_ok=True)
@@ -197,11 +289,12 @@ def main():
     header = (
         "# The Exegesis of Philip K. Dick — Entry Index\n"
         "# Extracted from the 2011 Jackson/Lethem abridgement.\n"
-        "# Archival IDs follow the [folder:page] scheme from Paul Williams's numbering.\n"
+        "# source_id preserves the printed [folder:page] scheme from Paul Williams's numbering.\n"
+        "# When the ebook repeats a printed ID, id receives a #n suffix and occurrence records the repeat order.\n"
         "#\n"
-        f"# Total entries: {len(entries)}\n"
-        f"# Letters: {sum(1 for e in entries if e['type'] == 'letter')}\n"
-        f"# Journal entries: {sum(1 for e in entries if e['type'] == 'entry')}\n\n"
+        f"# Total entries: {stats['total_entries']}\n"
+        f"# Letters: {stats['letters']}\n"
+        f"# Journal entries: {stats['journal_entries']}\n\n"
     )
 
     with open(OUTPUT_FILE, "w", encoding="utf-8") as f:

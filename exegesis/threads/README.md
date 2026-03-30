@@ -4,8 +4,8 @@ Living dossiers for the major recurring strands of the Exegesis. Each file grows
 
 ## Core Threads
 
-| Thread | File | First Appearance | Description |
-|--------|------|-----------------|-------------|
+| Thread | File | Canonical Crystallization | Description |
+|--------|------|---------------------------|-------------|
 | 2-3-74 | `2-3-74.md` | [4:1] | The originating experience — visions of February/March 1974 and their immediate aftermath |
 | Zebra / VALIS | `zebra-valis.md` | [4:1] | The entity Dick perceives — shifts from "plasmatic fire" to "Zebra" to "VALIS" to "the AI voice" |
 | Orthogonal Time | `orthogonal-time.md` | [4:1] | Time as a force-field; the "real" time axis running at right angles to experienced time |
@@ -14,6 +14,12 @@ Living dossiers for the major recurring strands of the Exegesis. Each file grows
 | Black Iron Prison / Empire | `black-iron-prison.md` | [24:47] | "The Empire never ended" — reality as prison, Rome superimposed on California |
 | Fiction as Prophecy | `fiction-as-prophecy.md` | [4:1] | Dick's novels (esp. Ubik, VALIS, Tears) read as unconscious precursors to 2-3-74 |
 | The Dialectic | `the-dialectic.md` | [11:42] | Binary paratruths, matched opposites, the Empire vs. the Logos as cosmic dialectic |
+
+## Tagging Semantics
+
+- `Threads` means the concept is already active in the entry as written, even if the later vocabulary has not stabilized yet
+- `Foreshadows` means the entry clearly seeds a later concept, but Dick has not yet articulated that thread explicitly
+- The table above records the first canonical or especially concentrated formulation for each thread, not every earlier activation or precursor
 
 ## Thread Rules
 

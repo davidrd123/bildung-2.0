@@ -69,6 +69,23 @@ What this batch clarified:
 
 Decision for now: keep the batch size at three sections. The conceptual load is increasing, and the smaller unit still yields better glossary discipline.
 
+## 2026-03-29 - First Arc Closed
+
+Extended the next batch to `§§10-13` under `parts/04-messbare-und-schicksalszeit.md`.
+
+Reason:
+
+- `§12` clearly leans into `§13`, and `§13` closes the first astrology argument by naming the horoscope as `Schicksalsuhr`
+
+What this batch clarified:
+
+- `So-Sein` is now load-bearing in §11
+- `bildender Kraft` is an active pressure point, though not yet a glossary entry
+- `Schicksalszeit` remains best rendered as `fateful time`
+- `zeitsetzende / zeitempfangende` and `Schicksalsuhr` are terms to watch in later sections
+
+Decision for now: return to three-section batches after this capstone, unless another section-boundary argues strongly against it.
+
 ## 2026-03-29 — Mumford as Bridge Text
 
 Lewis Mumford's work on technology and time converges with Jünger's from the opposite direction. Worth tracking the intersection as the translation progresses — not as a parallel project but as a reference layer that surfaces naturally.
@@ -100,3 +117,17 @@ The temptation is to frame Mumford as the accessible bridge and Jünger as the d
 Not now — the core vocabulary hasn't settled yet. The natural entry point is §§4–31 (*Meßbare und Schicksalszeit*), where the time-measurement argument is most directly in play. Let the cross-references emerge from the translation rather than imposing them in advance.
 
 Neither Mumford (d. 1990) nor Jünger (d. 1998) fully grasped what the computer would do. But both frameworks predict the digital revolution with eerie precision. Mumford's megamachine — humans organized into a computational system — is now literally true. Jünger's quantification of the Gestalt — everything made measurable and stripped of its metaphysical dimension — is the world of data and algorithms. The translation arrives at the moment their shared diagnosis has been fully realized.
+
+## 2026-03-29 — Cross-Project Note: Jünger in the Goethe+Leibniz Frame
+
+A parallel conversation (see `00-Notes/cross-domain-synthesis-threads.md`) traced a genealogy from German *Naturphilosophie* through the cybernetics diaspora. Jünger's position in this lineage is distinctive: he bridges the Goethe and Leibniz sides in a way that neither Mumford nor the cyberneticists managed.
+
+**Goethean**: Jünger's method is analogical, morphological, perceptual. §1 doesn't argue that astrology is a time-sign — it *shows* you the waxwing and lets the structural parallel emerge. The waxwing is functioning as a Goethean *Urphänomen*: a concrete particular that makes a general principle visible without abstracting from it. The translation needs to preserve this — Jünger's arguments *are* his images, not illustrations bolted onto arguments.
+
+**Leibnizian**: But Jünger also builds structural frameworks — *Meßbare und Schicksalszeit* as a formal distinction, the section map as an architectonic. He wants the analogies to add up to something systematic. The Gestalt concept itself is an attempt to name a structural invariant across domains.
+
+**The tension**: Jünger never fully resolves it, and that's the interest. The "time wall" is the point where the Leibnizian framework (measurable time, quantification, the clock) meets something it can't formalize (*Schicksalszeit*, mantic knowledge, the *Urgrund*). The wall itself is the Goethe/Leibniz boundary.
+
+**Cassirer connection**: The *Erkenntnisproblem* (untranslated vols 1-3) traces how each era's concept of knowledge reconstitutes what can be known. Jünger's "time wall" is a description of the same reconstitution from within — the experience of living through a transformation that Cassirer would have analyzed philosophically. When the translation reaches §§32-84 (*Humane Einteilungen*), the Cassirer framework may become load-bearing for the commentary.
+
+**Rosen connection**: The Zeitmauer's organism-vs-mechanism thread (the waxwing as living sign vs. the clock as mechanical sign) maps onto Rosen's distinction between models and simulations. A model participates in the structure of what it represents; a simulation merely mirrors input-output. Jünger's mantic knowledge is modelling in Rosen's sense — the diviner *participates* in the temporal field. Measurable time is simulation — the clock mirrors temporal sequence without participating in it. This is speculative but worth tracking as the translation proceeds.

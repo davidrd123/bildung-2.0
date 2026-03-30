@@ -26,7 +26,7 @@
     - "Measurable Time and Destinal Time"
     - "Measured Time and Time of Destiny"
   status: tentative
-  notes: "Still workable after §§4-6. The surrounding fate-compounds keep the register elevated without forcing `destinal` yet."
+  notes: "Still workable after §§4-13. By §§9 and 13 the pair clearly names qualitative time against measurable time without requiring the inflated `destinal`."
 
 - term: "Schicksalszeit"
   kind: concept
@@ -35,7 +35,7 @@
     - "destinal time"
     - "time of destiny"
   status: tentative
-  notes: "Sections 4-6 support `fateful time`: the neighboring compounds stay concrete (`Schicksalsweisung`, `Schicksalsdeutung`, `Schicksalsqualitäten`) while retaining metaphysical weight."
+  notes: "Sections 4-13 support `fateful time`: the neighboring compounds stay concrete (`Schicksalsweisung`, `Schicksalsdeutung`, `Schicksalsqualitäten`, `Schicksalsuhr`) while retaining metaphysical weight."
 
 - term: "mantisch"
   kind: concept
@@ -43,7 +43,7 @@
   alternatives:
     - "divinatory"
   status: tentative
-  notes: "Sections 1 and 4 support the technical feel of `mantic`: the word sits beside augury, omens, and oracle practices rather than generalized mysticism."
+  notes: "Sections 1, 4, and 7 support the technical feel of `mantic`: the word sits beside augury, omens, oracle practices, and later `divination` rather than generalized mysticism."
 
 - term: "Urgrund"
   kind: concept
@@ -80,3 +80,21 @@
     - "break point"
   status: open
   notes: "Jünger uses it both conceptually and imagistically. The English choice may need to shift by context."
+
+- term: "der Hinzutretende"
+  kind: concept
+  preferred: "the one who comes in addition"
+  alternatives:
+    - "the one who steps alongside"
+    - "the supplementary one"
+  status: tentative
+  notes: "By §§6-9 this is structural: interpreter, guarantor, and priestly figure who adds no new facts but confers assurance and meaning."
+
+- term: "Da-Sein / So-Sein"
+  kind: concept_pair
+  preferred: "that-he-is / what-he-is"
+  alternatives:
+    - "being-there / being-so"
+    - "existence / essence"
+  status: tentative
+  notes: "Keep the pair visibly Germanic. §11 makes `So-Sein` load-bearing. `Existence / essence` is too Latinate and collapses a distinction Jünger is deliberately not naming that way."
