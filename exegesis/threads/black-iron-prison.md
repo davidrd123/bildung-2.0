@@ -30,3 +30,18 @@ A more abstract version of the BIP: any system of rigid control that congeals th
 - `[28:29]` the prison is treated as the defeated side of a transtemporal war whose victory may already have ended the generation of linear time
 - `[29:7]` minor pattern shifts are said to generate alternate universes, tying the prison more tightly to perceptual and temporal interpolation
 - `[29:53–56]` the BIP becomes fraudulent echosphere and dream-time: 1974 California as Rome A.D. 70 under spurious temporal output
+- `[30:15]` the prison is reinterpreted as one of two hologram-source universes, with the experienced world as their unstable admixture
+- `[30:20]` hyperuniverse II is treated as a dead but still projecting counterfeit source whose corpse continues to simulate life
+- `[14:2], [14:8–9]` the BIP is hardened into the dead twin's endlessly repeated self-image, fixed at A.D. 70 because the first advent killed its psyche
+- `[14:59]` the prison's power is relativized in stages: first evil and coercive, then ultimately illusory once resisted and seen through
+- `[15:12–14]` the BIP is redescribed as a deterministic signal-firing structure rather than a world proper: a black iron building enslaving subjects through bogus data
+- `[15:36–47]` the prison becomes the scripted stage whose programming must be balked against for salvation to begin
+- `[15:87]` Dick's recurrent fiction-formula is identified with collective hallucination: the prison-world is socially shared, not merely private delusion
+- `[15:116]` the BIP remains the laminated adversary whose time-structure can only be read from outside the local circumference
+- `[16:6–14]` USA 1974 is formalized as an expendable alibi-world masking the real Acts-world and enforcing programmed assent
+- `[16:62–74]` the prison is identified with the whole sin-punishment-work machine that converts freedom into further tyranny and recodes play as guilt
+- `[38:22–23]` Rome/BIP becomes dead repetition opposed by a growing brain of freedom and historic intervention
+- `[38:88]` the prison is finally translated into entropy and thermal sameness: Christianity becomes the negentropic counterforce
+- `[18:11–17]` the BIP is treated as the specific degradation pattern of the Acts-signal inside `Tears`: localized imperial entropy detected and rectified by the brain
+- `[18:66–78]` the prison becomes the magnet or pathogen enclosed by a larger brain/phagocyte and eventually dismantled into usable parts
+- `[18:84–86]` the prison's most radical feature is spurious elapsed time itself: the 1,900 years since Acts are interpolation layered over the apostolic present

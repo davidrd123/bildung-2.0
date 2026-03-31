@@ -34,3 +34,25 @@ Dick's most vertiginous move: he reads his novels as prophecy, then writes new n
 - `[29:2]` *Ubik* and *Maze* are reread through Timaean disorder and overruled entropy
 - `[29:9–11]` Burroughs is added to the triangulation: parasitic language and jammed information independently echo Dick's own revealed signal-world
 - `[29:56]` *Eye in the Sky* is elevated as a model of spurious time-worlds unreeling while only a sliver of real time passes
+- `[30:11–15]` *Maze*, *Stigmata*, *Eye*, and *Ubik* are absorbed into the two-source hologram model as prior fictional approaches to the composite universe
+- `[14:72]` Dick explicitly treats his own trash-loving, surreal, rapidly re-patterning fiction method as what made revelation-recognition possible
+- `[15:12]` writing about counterfeit worlds is now given explicit salvific worth: it morally and intellectually trains resistance to bogus data
+- `[15:32]` `Tears` becomes a host-vector for living information, with "Felix" as replicating cell rather than mere symbol
+- `[15:85]` pop fiction and media are theorized as the ideal covert carriers for cryptic salvific communication
+- `[15:87]` Dick bluntly declares his major novels to be one repeated mass-hallucination narrative, confirming recurrence as diagnosis rather than creative limitation
+- `[15:100]` `Tears` becomes living developmental code, an entelechial DNA-script guiding growth through narrative form
+- `[15:114]` words are upgraded from symbols to causal agents in a plastic universe; narrative can make itself true
+- `[15:133–141]` Dick treats his writing as salvific dharma and his 2-3-74 discovery as possibly programmed by the same intelligence he had been writing about
+- `[16:10]` the pre-1974 simulated-world novels are reread as nearly exact analogs of the alibi-world revelation
+- `[16:45–55]` Dick tests whether the entire fiction-career means nothing, then rebuilds its validity through the stubborn evidence-chain around `Tears`
+- `[16:69–74]` `Scanner` and `Tears` are reread as anti-punishment books disclosing the prison's punitive logic rather than merely depicting altered states
+- `[16:102]` `Tears` is treated as still carrying the true kerygma against the apostatic Christian mainstream
+- `[38:29]` Dick's writing is assigned a concrete function inside the brain: message-transmission between its distributed parts
+- `[38:41]` `Ubik`, `Tears`, `Maze`, and `Stigmata` are treated as books cued by the brain's latent message-system
+- `[38:72]` `Ubik` is declared self-proving because only Ubik itself could have authored it correctly
+- `[38:79]` `Tears` becomes an interface between 1974 and Acts rather than merely a predictive novel
+- `[38:95]` Dick and `Tears` are recast as elements in a self-monitoring feedback loop used by the brain to rectify signal degradation in history
+- `[18:11–17]` `Tears` is sharpened from hidden-message novel into diagnostic printout: what mattered was the exact way the Acts-signal had degraded into BIP form
+- `[18:66]` Dick reclaims his whole "silly putty universe" corpus as evidence that reality-generation itself is hologrammatic and obligingly world-producing
+- `[18:84]` `Tears` is again treated as the direct depiction of Acts beneath the false world, now explicitly attributed to Thomas rather than PKD
+- `[18:86]` Dick's 27-year writing career is assigned covert apostolic authorship: Thomas has supposedly been masterminding it all along

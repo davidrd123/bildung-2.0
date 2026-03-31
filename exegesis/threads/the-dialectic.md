@@ -39,3 +39,15 @@ Every truth Dick arrives at generates its opposite. This is not failure — it's
 - `[27:61]` freedom is glossed as entelechial completion rather than mere release from structure
 - `[28:29]` Dick tentatively declares the dialectical combat concluded: Christ has won, the prison has been broken, and what remains is silent expectation
 - `[29:1–4]` the dialectic is given a Timaean basis: divine reason versus irreducible disorder inside the world soul itself
+- `[30:20]` the combat is redescribed as living signal versus dead source, with the world as admixture and battleground rather than neutral stage
+- `[14:14–15]` the dialectic is recast as healthy twin versus dead twin, alive source versus corpse-source, without collapsing into simple dualism
+- `[14:66]` discernment hinges ethically on power versus gentleness: the false god coerces, the true one reasons and loves
+- `[15:47–51]` the dialectic becomes existentially actionable: one must rebel against the fallen order so the higher sentient order can begin to overrule it
+- `[15:113–116]` contradictory propositions are allowed to be equally true because reality is laminated; dialectic becomes layered ontology rather than mere opposition
+- `[16:14]` world and God are redescribed as mask and hidden visage, preserving the moral puzzle without reducing it to one plane
+- `[16:72–82]` the dialectic shifts from sin versus punishment toward punishment versus innocence, coercion versus grace
+- `[38:22–23]` dead repetition and living freedom are recast historically as Rome's reflex-system versus the brain's evolving homeostasis
+- `[38:88]` the struggle receives its broadest cosmological form: entropy and thermal sameness versus negentropic form-life
+- `[18:1]` dialectic becomes formally three-valued: reversal does not restore the original, but yields a richer A-prime that is and is-not A
+- `[18:66–78]` the opposition is redescribed as brain versus magnet, phagocyte versus pathogen, and finally as one totality incorporating its fossil opponent
+- `[18:81]` contradiction becomes personal and temporal: Thomas is both me and not-me, present and not-in-this-century, without the paradox dissolving

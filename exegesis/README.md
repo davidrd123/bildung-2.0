@@ -36,6 +36,12 @@ passes/
   06-folder-27.md       # Psychosis, bicamerality, Zebra as king, and layered-time retrieval
   07-folder-28.md       # Thomas explicit, sacred time, and Ubik as scripture
   08-folder-29.md       # Timaeus, St. Sophia, anti-information, and religion as intervention
+  09-folder-30.md       # Hologram composite universe and anomaly as sign of the real
+  10-folder-14.md       # Out-of-order 1978 block: dead twin, Sophia whisper, and anti-power discernment
+  11-folder-15.md       # Living information, rebellion, and books as hosts
+  12-folder-16.md       # Alibi-world, anti-punishment kerygma, and inner illumination
+  13-folder-38.md       # The macro-brain, Paraclete, and living-information swarm
+  14-folder-18.md       # A-prime logic, Thomas as cohabitant, and Tears as diagnostic signal
 scripts/
   extract_entries.py    # rebuilds source/entries.yaml from the ebook text
 journal.md              # the reader's changing model of Dick

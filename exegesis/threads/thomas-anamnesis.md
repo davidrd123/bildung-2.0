@@ -31,3 +31,11 @@ Memory as an organ of perception — not metaphorically but literally. Through a
 - `[27:96]` remembering is redescribed spatially as descent through time-layers into earlier strata of the self
 - `[28:14]` anamnesis is explicitly defined as an organ of temporal perception through which the one organism becomes visible
 - `[28:31]` the canonical Thomas claim arrives: PKD is the memory-less mask and Thomas the authentic self; there was no theolepsy, only anamnesis
+- `[15:39–48]` anamnesis is now treated as what the books and signals are trying to trigger: the self remembering itself through living information and rebellion against the script
+- `[16:55]` Dick explicitly theorizes two persons in one evidence-chain: the one who knew Rome and wrote from it, and the one who did not consciously recognize what he knew
+- `[38:55–61]` anamnesis is redescribed as the growth of a salvific info-bit into totality inside the subject rather than as recollection alone
+- `[38:82–83]` Thomas's return is reinterpreted through the mystical body that spans living and dead, this world and the next
+- `[18:11]` Thomas returns in crisis as proof that the brain spans both worlds and that Dick still remains inside the larger body
+- `[18:42]` Thomas-memory is retold as sacred biography: early Christian life, Sophia's voice, and ongoing participation in the anti-prison struggle
+- `[18:81]` Thomas becomes the strongest paradox yet: both co-inhabiting intelligence and apparently other-century self inside the same head
+- `[18:84–86]` Dick moves beyond reincarnation language toward the idea of immortal apostolic Christians still active beneath the present, with Thomas as covert author and operator

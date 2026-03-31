@@ -86,6 +86,22 @@ What this batch clarified:
 
 Decision for now: return to three-section batches after this capstone, unless another section-boundary argues strongly against it.
 
+## 2026-03-30 - Planning, Catastrophe, and Religious Instinct
+
+Translated `§§14-16` under `parts/05-messbare-und-schicksalszeit.md`.
+
+What this batch clarified:
+
+- the distinction in `Meßbare und Schicksalszeit` now governs more than astrology; it bears on planning, ceremony, catastrophe, and religion
+- `Schicksalsseite` begins to work as a directional metaphor for the side toward which life seeks sealing, deepening, or covering
+- `religiöser Instinkt` is the main conceptual pressure point in `§16`, but it still appears too locally to justify a glossary entry
+- `Durchschuß` should stay visibly textile if it returns; the metaphor is structural, not decorative
+
+Decision for now:
+
+- keep `§17` for the next batch; `§16` closes one movement and `§17` opens the `Zwischengemächer` problem cleanly
+- keep the Mumford comparison in the journal layer only. `§15` strengthens the clock and record parallel, but the translation should keep following Jünger's own vocabulary until `Plan / Weltplan` thickens further
+
 ## 2026-03-29 — Mumford as Bridge Text
 
 Lewis Mumford's work on technology and time converges with Jünger's from the opposite direction. Worth tracking the intersection as the translation progresses — not as a parallel project but as a reference layer that surfaces naturally.
