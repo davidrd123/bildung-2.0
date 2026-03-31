@@ -35,6 +35,35 @@ The architectural problems are identical. The substrates are different.
 | Single atom pool, many lenses | Rotating hierarchy (any layer can be primary) | No fixed ground floor |
 | Deferred structure (not structure-at-entry) | Holding terms `status: open` until evidence settles them | Negative capability as method |
 
+## The Bridge Is Now Concrete at the Handle Layer
+
+`patterns/handle-schema.md` changes the status of this note.
+The intersection is no longer only analogical.
+
+`bildung-2.0` now has an explicit handle grammar for sections, chunks, terms, notes, threads, evidence chains, and frames:
+
+- `zm:14`
+- `zm:14:p3`
+- `term:schicksalszeit`
+- `thread:time-crisis`
+- `frame:goethe-leibniz`
+
+The schema also defines loose-coupled cross-system references:
+
+- `vault:atom:agentic-cowriting-as-performative-form`
+- `vault:frame:writing-practice`
+- `b2:zm:14`
+
+That matters because it lowers the interoperability requirement. The two projects do not need a merged ontology or a single shared atom pool in order to collaborate. They need stable, resolvable identifiers and a compact relation vocabulary so that each system can point at the other's objects without importing them wholesale.
+
+In practice this means:
+
+- Vault atoms and frames can cite `b2:` handles when a writing or frame operation touches a passage, term, or thread in `bildung-2.0`
+- `bildung-2.0` notes can cite `vault:` handles when a Vault atom, frame, or memory pattern becomes relevant
+- agent memory can remain local to each repo while still preserving cross-system referential continuity
+
+This strengthens Model A and Model B. It also makes Model C less urgent, because the main practical bridge no longer depends on a fully shared ontology.
+
 ## The Strongest Overlap
 
 ### 1. Both reject knowledge work as throughput
@@ -261,17 +290,18 @@ The most ambitious model:
 - `bildung-2.0` becomes one deployable / ingestible domain ecology within it
 - the recovery work becomes one living branch of a larger system for thought
 
-This is interesting, but likely premature unless the shared ontology becomes much clearer.
+This is interesting, but likely premature unless the loose handle layer proves inadequate.
 
 ## Near-Term Moves
 
 If we want practical intersection without overcommitting:
 
 1. Keep the repos separate.
-2. Let `bildung-2.0` borrow the raw/structured distinction and frame concept.
-3. Let `Symbiotic-Vault` borrow the stronger formation / transmission language.
-4. Treat `bildung-2.0` as a proving ground for whether vault ecology can support serious civilizational-intellectual work.
-5. Revisit later whether a shared atomic ontology makes sense.
+2. Use namespaced handle references (`vault:*`, `b2:*`) for cross-system pointing.
+3. Let `bildung-2.0` borrow the raw/structured distinction and frame concept.
+4. Let `Symbiotic-Vault` borrow the stronger formation / transmission language.
+5. Treat `bildung-2.0` as a proving ground for whether vault ecology can support serious civilizational-intellectual work.
+6. Revisit only later whether anything stronger than loose-coupled handles is needed.
 
 ## Deeper Convergences (from 2026-03-31 session)
 

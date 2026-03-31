@@ -143,13 +143,25 @@ Shared across all handle types that have lifecycle.
 
 | Status | Meaning | Promotion criterion |
 |--------|---------|-------------------|
-| `seed` | First appearance, untested | Exists in source or single note |
-| `tentative` | Exercised, provisional choice holding | Tested across 2+ sections/contexts |
-| `stable` | Confirmed by sustained use, unlikely to change | Tested across a full part or multiple projects |
-| `open` | Genuinely undecided, multiple live alternatives | Evidence doesn't converge; alternatives remain equally valid |
+| `seed` | First appearance, untested | Exists in source, a note, or a newly introduced handle |
+| `tentative` | Exercised, provisional choice holding | Tested across 2+ sections/contexts or one coherent traversal path |
+| `stable` | Confirmed by sustained use, unlikely to change | Survives repeated use across a full part, repeated traversal, or multiple projects without an equally live rival |
+| `open` | Genuinely undecided, multiple live alternatives | Evidence or traversal is rich, but the alternatives remain genuinely live |
 | `archived` | Superseded or no longer active | Replaced by a better formulation |
 
 `open` is not a lesser status than `stable`. It is a positive determination that the material resists resolution. An `open` term with a rich evidence chain is more valuable than a `stable` term with a thin one.
+
+### Promotion Gates
+
+These are criteria, not metrics. They exist to make promotion legible, not mechanical.
+
+| Object | `seed → tentative` | `tentative → stable` | `any → open` |
+|--------|-------------------|---------------------|--------------|
+| `term:*` | Exercised across 2+ sections/contexts | Evidence chain survives a full part or cross-project reuse; no equally live rival | Evidence is rich but 2+ alternatives remain equally supported |
+| `thread:*` | Traversal path links 3+ grounded handles | Later rereading uses the thread without re-deriving its organizing claim | Recurrence is real but the organizing interpretation is still under pressure |
+| `frame:*` | At least one frame-read yields non-obvious connections | Repeated frame-reads across distinct anchors/projects continue to illuminate | Frame produces insight but also systematic blind spots |
+
+Promotion follows evidence density and reuse, not rhetorical force.
 
 ## Implementation Notes
 
@@ -175,6 +187,12 @@ The HTML instrument reads the index and renders navigable, layered views. Handle
 ### Phase 4: Agent integration
 
 Agents read and write against handles, not loose prose. An agent can say "I found that `zm:22` echoes `esc:145`" and the claim is verifiable, linkable, and persistent. Agent memory entries use handles for `atoms_touched` (borrowing the Vault convention).
+
+## Agent Authority Boundary
+
+Agents may create `seed` handles, propose relations, and suggest promotions.
+
+Agents do not have a direct path to `stable` by prose fluency alone. Promotion is grounded by evidence handles, traversal reuse, and canonical-source updates. If the chain is not there, the proposal stays `seed`, `tentative`, or `open`.
 
 ## Interoperability with Symbiotic-Vault
 

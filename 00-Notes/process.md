@@ -2,6 +2,12 @@
 
 How material flows through `bildung-2.0`: from conversation to synthesis to crystallized architecture.
 
+## Standing State
+
+`right-now.md` is the standing snapshot for cold starts: what is proven, what is current, what is next, and what decision is live.
+
+`process.md` is not the standing snapshot. It describes workflow, authority, and upkeep.
+
 ## Two Layers
 
 | Layer | Location | Character | Changes when... |
@@ -10,6 +16,18 @@ How material flows through `bildung-2.0`: from conversation to synthesis to crys
 | **Crystallized** | `patterns/` | Stable, referenceable, canonical | The intellectual work forces a structural revision |
 
 The living layer feeds the crystallized layer. The crystallized layer constrains and organizes the living layer. Neither replaces the other.
+
+## Authority
+
+When different layers disagree, use this precedence:
+
+1. `patterns/charter.md` — purpose, scope, and layer split
+2. `patterns/handle-schema.md` — handle grammar, relation vocabulary, shared maturity language
+3. Subproject canonical files — `texts/*/source/*.yaml`, translation/commentary files, journals, and thread dossiers
+4. Derived indexes such as `texts/*/source/handles.yaml` — navigational structure that must resolve back to canonical files
+5. Living synthesis notes in `00-Notes/` — exploratory unless crystallized elsewhere
+
+If a living note proposes something that the canonical layer does not yet support, treat it as a proposal, not as settled architecture.
 
 ## Ingestion
 
@@ -94,6 +112,7 @@ Living list. Updated as threads advance or stall.
 ## Maintenance
 
 This doc should be updated:
+- When standing state changes materially (update `right-now.md`)
 - After any chat distillation (update threads-in-flight)
 - After any crystallization into `patterns/` (update architectural threads)
 - After subproject work sessions (update subproject status)
