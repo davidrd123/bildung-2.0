@@ -8,8 +8,8 @@ A slow translation of Gómez Dávila's scholia, treated as a practice of reading
 
 ## Source
 
-- `../books/escolios.txt` — OCR text from Internet Archive
-- `../books/Gómez Dávila, N. - Escolios a un texto implícito I [ocr] [1977].pdf` — original scan
+- `../../books/escolios.txt` — OCR text from Internet Archive
+- `../../books/Gómez Dávila, N. - Escolios a un texto implícito I [ocr] [1977].pdf` — original scan
 - [Don Colacho's Aphorisms](https://don-colacho.blogspot.com/) — existing English translations for reference/comparison
 
 ## Structure

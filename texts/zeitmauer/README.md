@@ -6,7 +6,7 @@ Ernst Jünger, *An der Zeitmauer* (1959)
 
 This project tracks a working English translation of Jünger's main text in numbered units.
 
-- Source corpus: sections `1-186` from `../books/An der Zeitmauer_ Mit Adnoten v - Ernst Jnger;.txt`
+- Source corpus: sections `1-186` from `../../books/An der Zeitmauer_ Mit Adnoten v - Ernst Jnger;.txt`
 - Excluded from the translation corpus: Detlev Schöttker's adnotes and the appended author bio
 - Default translation unit: the numbered section, not the sentence and not the full chapter
 
@@ -55,7 +55,7 @@ The starting batch should stay small, usually `3-5` sections, until the title la
 ## Regeneration
 
 ```bash
-python3 zeitmauer/scripts/extract_sections.py
+python3 texts/zeitmauer/scripts/extract_sections.py
 ```
 
 The extractor is intentionally simple and reproducible. It preserves the numbered prose units and drops the later adnotes.

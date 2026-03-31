@@ -106,3 +106,13 @@ Entry points: *Understanding Islam* (accessible method demonstration), *Logic an
 The teammate's Symbiotic-Vault project (`/home/davidrd/Projects/Learning/SelfStructure/Symbiotic-Vault`) is building the same architecture from a different substrate. See `symbiotic-vault-intersection.md` for the full mapping. The core structural isomorphisms: journal = source text, atoms = glossary entries, frames = commentary layers, reflect = translation journal, atomize = extract, tend = glossary review, frame-read = perspectival commentary. Both projects implement Cassirer's irreducible symbolic forms architecturally and both instantiate negative capability (deferred structure) as method.
 
 The intersection becomes concrete at the schema level: shared IDs for sections, chunks, terms, notes, threads, and relation types would make the two projects interoperable rather than merely analogous.
+
+## Repo Placement
+
+See `genealogy-to-instrument.md` for the repo-centered version of this genealogy.
+
+That note does three things this one does not:
+
+- maps the major figures in the genealogy onto concrete `bildung-2.0` files
+- diagnoses what the current repo already instantiates structurally
+- names the missing architectural pieces between the current markdown/YAML practice and the fuller multi-layer instrument

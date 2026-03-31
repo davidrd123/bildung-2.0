@@ -100,9 +100,9 @@ If that is possible at all, it likely begins at small scale:
 
 The existing projects already express different parts of the larger purpose:
 
-- `escolios/` trains precision of reading, doubleness of translation, and exegesis as attention
-- `zeitmauer/` trains long-form translation, conceptual patience, and layered commentary around time, fate, technique, and modernity
-- `exegesis/` trains thread-building, dossier logic, and the mapping of recursive archives without flattening them
+- `texts/escolios/` trains precision of reading, doubleness of translation, and exegesis as attention
+- `texts/zeitmauer/` trains long-form translation, conceptual patience, and layered commentary around time, fate, technique, and modernity
+- `texts/exegesis/` trains thread-building, dossier logic, and the mapping of recursive archives without flattening them
 - `00-Notes/` holds the higher-order synthesis work that ties the projects together
 
 Together they point toward a single ecology rather than three unrelated projects.
@@ -139,6 +139,8 @@ This is not a viewer or an editor. It is a **space where layers speak to each ot
 2. **Structured extraction layer** — section handles, passage/chunk handles, term handles, commentary handles, cross-project reference handles. Stable IDs that UI, notes, and agents can all point to.
 3. **Dynamic view layer** — HTML app for reading, searching, toggling layers, following links, and supporting recursive rereading.
 4. **Agent layer** — agents read and write against the structured handles, not against loose prose only.
+
+For the genealogy that leads to this instrument, and for a concrete diagnosis of what the repo still lacks architecturally, see `genealogy-to-instrument.md`.
 
 ### The Schuon limit
 

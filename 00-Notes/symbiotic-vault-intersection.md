@@ -305,6 +305,8 @@ Both projects have hit the same design wall. Obsidian for the Vault, markdown+YA
 
 The Vault's design experiments (THE_TABLE, THE_MEMBRANE, THE_DRIFT) probe this from the Obsidian/plugin side. bildung-2.0 is converging on a dynamic HTML instrument from the translation side. These are the same problem. A shared solution would serve both.
 
+For the repo-centered version of that diagnosis — the intellectual genealogy, the thinker-to-file map, and the list of what `bildung-2.0` still lacks architecturally — see `genealogy-to-instrument.md`.
+
 ## One-Line Distillation
 
 `Symbiotic-Vault` is building the habitat for symbiotic thought. `bildung-2.0` is proving what that habitat is for.

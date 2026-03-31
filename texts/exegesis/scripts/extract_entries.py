@@ -4,7 +4,7 @@ Extract bracketed entries and letters from the Exegesis ebook text.
 Produces source/entries.yaml with one record per entry.
 
 Usage:
-    python3 exegesis/scripts/extract_entries.py
+    python3 texts/exegesis/scripts/extract_entries.py
 """
 
 import re

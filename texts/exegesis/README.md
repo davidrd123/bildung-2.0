@@ -8,7 +8,7 @@ A disciplined transformation of Dick's recursive archive into a readable map —
 
 ## Source
 
-- `../books/The Exegesis of Philip K. Dick - Dick, Philip K_.txt` — ebook text of the 2011 Jackson/Lethem abridgement
+- `../../books/The Exegesis of Philip K. Dick - Dick, Philip K_.txt` — ebook text of the 2011 Jackson/Lethem abridgement
 - The published Exegesis is itself an abridgement of ~8,000 handwritten pages into ~800
 - The current ebook source yields **1009 indexed pieces** across **75 folders**: **988 journal entries** and **21 indexed letters**
 
@@ -102,7 +102,7 @@ Tracks the reader's changing model of Dick and of the Exegesis itself. With this
 ## Regeneration
 
 ```bash
-python3 exegesis/scripts/extract_entries.py
+python3 texts/exegesis/scripts/extract_entries.py
 ```
 
 The extraction script validates the current corpus counts and fails if obvious preview junk or count drift appears.
