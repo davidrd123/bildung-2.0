@@ -92,6 +92,24 @@ Folder 18 feels like the first place where the system becomes explicitly non-bin
 
 It is also the harshest stress-test yet for the revelatory model. Dick gives the psychosis account unusually full weight, but the result is not surrender. What survives the reduction is Sophia, companionship, guidance, and the stubborn Thomas-problem: someone else inside the head who is nevertheless also oneself, and who seems locked into the apostolic present beneath false elapsed time.
 
+## 2026-03-31 — September 1978 Model B
+
+Folder 2 is the point where Dick accepts that the Thomas paradox has changed the scale of the problem. One hidden world behind one false world is no longer enough. He now needs a macrobrain or information-processing entity, a push-pull simulation system, and a Brahmanic matrix capable of generating many worlds and selves while still allowing Acts to break through as privileged disclosure.
+
+This is also where the Exegesis becomes overtly a wake-up drama. Siddhartha sleeps beneath the calcified region, Sophia calls from outside it, Christ enters as living information, and anamnesis broadens into enlightenment. The prison is no longer merely false appearance; it is the whole repetitive, noisy, dead regime of unawakened consciousness.
+
+## 2026-03-31 — September 1978 Bruno and the Anti-Fugue
+
+Folder 3 gives Dick the confidence of ancestry. Bruno, Paracelsus, Virgil, Orphism, Buddhism, Boehme, and the macro-microcosm tradition all become witnesses that his 3-74 system is not an arbitrary personal mythology. `Ubik` stops being just a weird novel and becomes deliberate-seeming exoteric dissemination of an esoteric cosmology.
+
+The most important moral change is the anti-fugue turn. Dick no longer treats simulated worlds as sheer victimization. He admits that we wanted them. They spared us the burden of seeing Empire clearly and fighting it. That turns the fiction sequence into something harsher and more serious: a long effort to break collusion, not just to reveal hidden ontology.
+
+## 2026-03-31 — September-October 1978 The Key Book
+
+Folder 19 is where `A Scanner Darkly` unexpectedly becomes central. Dick decides that the deepest thing the novel records is not addiction or surveillance but occlusion itself: a damaged mind trying and failing to monitor its own damage. That makes `Scanner` indispensable because without it the prison-world remains abstract; with it, the inner mechanics of captivity become visible.
+
+Just as important, the archive briefly organizes itself from within. Dick gives one of his clearest reading-orders for the corpus, with each major novel assigned a function in the larger kerygma. That is an unusually strong moment of self-curation inside the Exegesis and a direct vindication of the atlas method.
+
 ## 2026-03-29 — Cross-Project Note: Dick in the Goethe+Leibniz Frame
 
 A parallel conversation (see `00-Notes/cross-domain-synthesis-threads.md`) traced the post-1800 split between formalism (Leibniz) and participatory perception (Goethe). Dick is the wild card in this genealogy.

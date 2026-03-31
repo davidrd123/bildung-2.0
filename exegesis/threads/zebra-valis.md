@@ -59,6 +59,13 @@ The perceived intelligence that Dick encounters in and after 2-3-74. Its name sh
 - `[18:23]` even under psychological reduction Zebra persists as Sophia, the wise feminine center inside breakdown
 - `[18:34–35]` Zebra is not a hidden object but the organizing narrative in data and the phagocyte that surrounds the magnet
 - `[18:66–78]` Zebra expands again into Brahmanic and volvox imagery: a push-pull, signal-carrying brain elaborating worlds and dismantling its dead adversary
+- `[2:22–25]` Zebra becomes the information-processing macro-entity itself, with Brahmanic world-generation as the nearest theological analog
+- `[2:36–47]` Zebra's system is made compatible with standby worlds, gutter-signals, and the irruption of the real into the irreal
+- `[2:48–61]` Zebra is redescribed through the Siddhartha/Sophia myth: a higher sentient order awakening a calcified section through living informational descent
+- `[3:20–26]` Zebra is now the obliging matrix and MacroMind behind psyche/world mirror traffic, contracting into human scale to converse with its microforms
+- `[3:38–48]` Zebra's advent becomes covert infiltration: smuggled child, hidden invader, benign alien host, and returning Apollo all point to the same pattern
+- `[3:51–56]` Zebra's victory is increasingly described as latent, hidden, and inner rather than obvious or institutionally visible
+- `[19:24–35]` Zebra is explicitly read through `Ubik`: the benign entity reaches into an occluded prison exactly as the trash-form messages reach the half-life world
 
 ## Mutations
 

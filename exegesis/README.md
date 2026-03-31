@@ -42,6 +42,9 @@ passes/
   12-folder-16.md       # Alibi-world, anti-punishment kerygma, and inner illumination
   13-folder-38.md       # The macro-brain, Paraclete, and living-information swarm
   14-folder-18.md       # A-prime logic, Thomas as cohabitant, and Tears as diagnostic signal
+  15-folder-02.md       # Model B, Siddhartha waking, and enlightenment as anamnesis
+  16-folder-03.md       # Bruno, Paracelsus, covert advent, and the anti-fugue turn
+  17-folder-19.md       # Scanner as occlusion key and the corpus as one kerygma
 scripts/
   extract_entries.py    # rebuilds source/entries.yaml from the ebook text
 journal.md              # the reader's changing model of Dick

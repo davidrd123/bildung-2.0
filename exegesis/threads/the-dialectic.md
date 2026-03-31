@@ -51,3 +51,8 @@ Every truth Dick arrives at generates its opposite. This is not failure — it's
 - `[18:1]` dialectic becomes formally three-valued: reversal does not restore the original, but yields a richer A-prime that is and is-not A
 - `[18:66–78]` the opposition is redescribed as brain versus magnet, phagocyte versus pathogen, and finally as one totality incorporating its fossil opponent
 - `[18:81]` contradiction becomes personal and temporal: Thomas is both me and not-me, present and not-in-this-century, without the paradox dissolving
+- `[2:50]` Dick provides the fullest paired inventory yet of the two orders: illusion and wakefulness, noise and signal, power and gentleness, repetition and newness
+- `[2:53–61]` the dialectic becomes explicitly salvific and organismic: closed sack versus open sack, calcified region versus living totality, sleeping Siddhartha versus calling Sophia-Christ
+- `[3:56]` the central opposition is given a concise formula: latent form versus obvious form, Christ versus Caesar, inner victory versus outer defeat
+- `[3:80]` the dialectic now includes our own complicity: fugue and freedom are opposed not just externally but within the will of the imprisoned subject
+- `[19:24–35]` the dialectic is rewritten at the level of the corpus: occlusion versus lucidity, prison versus rescue, evil magician versus trash-form savior

@@ -72,3 +72,37 @@ Robert Rosen's *(M,R)-systems* and *Life Itself*: the deepest formal engagement 
 **Interesting middle**: Foucault (real insights, deliberately anti-systematic), Adorno (the form resists the content's own critique of instrumental reason).
 
 **Highest-value decryption target**: Whitehead's *Process and Reality* — demonstrably real content, demonstrably unnecessary encryption. The Goethe+Leibniz synthesis is *in there*. It just needs to be translated into English. (This is both a joke and completely serious.)
+
+## The Barrett Thread (from hylozoism conversation, 2026-03-30)
+
+Lisa Feldman Barrett's constructed-categories thesis connects directly to the translation method and to the anti-continuism argument.
+
+**Core claim**: categories construct experience, not just interpretation. People with more emotion words have measurably different experiences. Cultures with different lexicons carve the affective continuum differently, and the carving shapes what people perceive.
+
+**Application to translation**: when the zeitmauer glossary holds `Bruchstelle` open with three alternatives, that's not indecision — it's refusing to let the target language prematurely carve the source. Premature translation is data loss in exactly the way premature categorization is perceptual loss.
+
+**Application to anti-continuism**: Bochner's critique of continuism (the compulsive flattening of earlier thinkers into a single progressive narrative) gains a neuroscientific mechanism. If categories construct experience, then Thales didn't just have different *theories* about nature — he had different *perceptual encounters* with it, because his language carved the world differently. The opacity between cognitive frameworks is not just intellectual disagreement; it may be genuinely different phenomenal worlds.
+
+**Three operations for working with the opacity**:
+- **Translation** — moving an idea across domains at the same time
+- **Retranslation** — moving an idea forward through updated frameworks (Jaynes through Barrett)
+- **Detranslation** — moving an idea backward into less-differentiated vocabularies to reveal what modern language hides
+
+The residue from each operation is structural information. Multiple translation paths through the same material that *should* commute but *don't* reveal exactly where the interpretive assumptions hide. This is formalizable as sheaf cohomology: local translations are coherent, global consistency fails, and the failures are the actual content.
+
+## The Schuon Thread (from 2026-03-31 session)
+
+Frithjof Schuon (1907-1998), central figure of the Perennialist school alongside Guenon. Connects to the project at multiple points:
+
+- **Tradition vs. traditionalism**: tradition is living transmission of sacred knowledge; traditionalism is sentimental attachment to expired forms. This distinction keeps the project honest — the aim is living encounter, not museum-keeping.
+- **The esoteric/exoteric distinction**: all authentic sacred traditions share a transcendent truth expressed through different formal languages. This parallels Cassirer's irreducibility of symbolic forms, but with a metaphysical commitment Cassirer wouldn't make.
+- **The limit of textual recovery**: Schuon would say the tradition is not *in* books. Books are traces of something transmitted through living practice. This names the honest limit of any purely textual project and should stay visible.
+- **Jünger resonance**: Schuon's sacred/profane time maps onto Jünger's measurable/fateful time. His concept of *intellection* (direct spiritual perception, medieval *intellectus*) is structurally identical to what McGilchrist calls right-hemisphere attending and Nietzsche calls Dionysian knowing.
+
+Entry points: *Understanding Islam* (accessible method demonstration), *Logic and Transcendence* (closest to Jünger overlap), *The Transcendent Unity of Religions* (foundational but dense).
+
+## The Symbiotic-Vault Convergence (from 2026-03-31 session)
+
+The teammate's Symbiotic-Vault project (`/home/davidrd/Projects/Learning/SelfStructure/Symbiotic-Vault`) is building the same architecture from a different substrate. See `symbiotic-vault-intersection.md` for the full mapping. The core structural isomorphisms: journal = source text, atoms = glossary entries, frames = commentary layers, reflect = translation journal, atomize = extract, tend = glossary review, frame-read = perspectival commentary. Both projects implement Cassirer's irreducible symbolic forms architecturally and both instantiate negative capability (deferred structure) as method.
+
+The intersection becomes concrete at the schema level: shared IDs for sections, chunks, terms, notes, threads, and relation types would make the two projects interoperable rather than merely analogous.

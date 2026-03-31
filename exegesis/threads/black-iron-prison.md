@@ -45,3 +45,9 @@ A more abstract version of the BIP: any system of rigid control that congeals th
 - `[18:11–17]` the BIP is treated as the specific degradation pattern of the Acts-signal inside `Tears`: localized imperial entropy detected and rectified by the brain
 - `[18:66–78]` the prison becomes the magnet or pathogen enclosed by a larger brain/phagocyte and eventually dismantled into usable parts
 - `[18:84–86]` the prison's most radical feature is spurious elapsed time itself: the 1,900 years since Acts are interpolation layered over the apostolic present
+- `[2:48–61]` the BIP becomes the form of death itself: the calcified section where the last thought simply recirculates and nothing new enters
+- `[2:77]` the prison's function is reframed as noise-generation that cuts this region off from the brain's voice
+- `[3:56]` the prison is the obvious outer Caesar-form defeated by Christ's latent inner victory
+- `[3:80]` Dick adds the strongest complicity thesis yet: the prison fed on humanity's desire for fugue, comfort, and hallucinatory escape from the fight
+- `[19:1–5]` the prison's most insidious weapon is occlusion itself: damaged minds unable to monitor their own damage
+- `[19:24–35]` the BIP is re-described as a sinister life form that protects itself through negative hallucination, church-subversion, and cognitive impairment

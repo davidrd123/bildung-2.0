@@ -56,3 +56,12 @@ Dick's most vertiginous move: he reads his novels as prophecy, then writes new n
 - `[18:66]` Dick reclaims his whole "silly putty universe" corpus as evidence that reality-generation itself is hologrammatic and obligingly world-producing
 - `[18:84]` `Tears` is again treated as the direct depiction of Acts beneath the false world, now explicitly attributed to Thomas rather than PKD
 - `[18:86]` Dick's 27-year writing career is assigned covert apostolic authorship: Thomas has supposedly been masterminding it all along
+- `[2:12]` Dick states the recurring paradigm of his fiction in its cleanest form: false world, recovered real world, and returning true memories
+- `[2:30]` he momentarily worries that his own fictional models govern him too much, marking a rare methodological recoil inside the prophecy thesis
+- `[2:41]` `Ubik` is explicitly recovered as the low-form literary site where the holy had already hidden itself
+- `[2:65]` the whole writing career is redescribed as a march toward enlightenment, not merely prophecy in fragments
+- `[3:2–10]` `Ubik` is reclassified as a covert hylozoic, macro-microcosm cosmology rather than just skeptical SF
+- `[3:28–33]` Dick openly describes himself as exoterically disseminating an esoteric worldview through popular fiction
+- `[3:80]` six major novels are finally yoked into one anti-fugue sequence meant to disclose the BIP and jog readers out of collusive sleep
+- `[19:1–5]` `A Scanner Darkly` is promoted to the key text of occluded consciousness: the book that shows why damaged minds cannot recognize their own damage
+- `[19:24–35]` Dick gives his clearest internal canon and reading order for the novels, assigning each a distinct revelatory function inside one kerygma

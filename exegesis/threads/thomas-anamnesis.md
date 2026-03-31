@@ -39,3 +39,8 @@ Memory as an organ of perception — not metaphorically but literally. Through a
 - `[18:42]` Thomas-memory is retold as sacred biography: early Christian life, Sophia's voice, and ongoing participation in the anti-prison struggle
 - `[18:81]` Thomas becomes the strongest paradox yet: both co-inhabiting intelligence and apparently other-century self inside the same head
 - `[18:84–86]` Dick moves beyond reincarnation language toward the idea of immortal apostolic Christians still active beneath the present, with Thomas as covert author and operator
+- `[2:1]` Dick explicitly rejects both former-life and multiple-personality language in favor of Thomas as another human operating out of the same head from another century
+- `[2:48–55]` the Thomas problem is absorbed into the Siddhartha myth: awakening is no longer only antique memory but restoration of the sleeping primal man
+- `[2:65–80]` anamnesis broadens into Buddhist-style enlightenment and loss of forgetfulness rather than merely the return of one apostolic self
+- `[3:48]` Thomas is briefly cosmicized: no longer merely apostolic but an originally off-world or stellar infiltrator hiding in human history
+- `[3:52]` anamnesis receives one of its fullest definitions as realizing what and where one really is within the macrobrain rather than just remembering a prior life

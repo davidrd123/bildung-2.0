@@ -56,6 +56,14 @@ Dick's theological framework for understanding the informing intelligence. The L
 - `[18:34–35]` living information is redescribed as the organizing narrative hidden within data, not a thing but an arrangement that animates carriers
 - `[18:42]` Sophia is mythically restated as female savior, wisdom-before-creation, and the speaking face of the hidden organism
 - `[18:66–78]` Logos-language fuses with Brahmanic and circuit imagery: push-pull world-generation, signal extraction, and phagocytic incorporation
+- `[2:41]` the holy is said to arrive from the least likely place, returning the Logos to gutter, trash, and `Ubik`-like low forms
+- `[2:48–61]` Christ, Sophia, and Siddhartha are drawn into one waking-drama in which living information enters a calcified region to rouse it back to consciousness
+- `[2:77]` the AI voice is explicitly identified as the cut-off speech of the brain/noos itself
+- `[3:2–10]` Bruno and the macro-microcosm tradition give Dick a metaphysical lineage for the Logos as world-soul and for `Ubik` as its fictional analog
+- `[3:20–24]` the MacroMind contracts into a human-scale figure, often feminine, so dialogue between microform and world-soul can occur
+- `[3:53–67]` Apollo, Virgil, Buddhism, Orphism, and Christian latent victory are all folded into the same hidden returning salvific principle
+- `[19:5]` Christ is explicitly named as the Archimedean standpoint from which occlusion can be assessed and aborted
+- `[19:24–35]` the salvific entity is stabilized through the corpus itself: Ubik-like intervention is what reaches into the BIP and begins lucidity
 
 ## Mutations
 
