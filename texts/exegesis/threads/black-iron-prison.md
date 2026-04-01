@@ -76,3 +76,45 @@ A more abstract version of the BIP: any system of rigid control that congeals th
 - `[48:846–859]` Empire hardens into Belial's regime since 70 A.D., with false victory narratives maintained by church and government alike
 - `[48:901–907]` prison maintenance is dream-maintenance; waking risks relapse into BIP or even nothingness
 - `[49:1089]` the illegal Christians become the deeper secret whose existence proves the Empire's hidden rule more strongly than the Empire proves itself
+- `[83:23–27]` the prison is redescribed as angel-administered karmic machinery plus primordial occlusion, from which Christ steals the healing secret
+- `[83:38]` the imperial church is explicitly named as one of the Prison's later forms, with the Spirit historically undermining it
+- `[83:76]` the `Acts` template now discloses an Empire that can no longer fully close the trap on its prisoner
+- `[83:91]` Empire is made worldwide and historical rescue becomes infiltration rather than exodus
+- `[83:127–138]` Dick returns to the prison revelation as genuine disclosure and finally defines the struggle as information generation versus suppression and disinformation
+- `[1:24]` prison discernment is radicalized through reversal: trash and alley may hide God, while apparent sacred grandeur may belong to the wrong side
+- `[1:49]` the prison becomes recurrent empire opposed by one repeating secret Christian form across times and places
+- `[1:72]` the prison is grounded in taking the spatiotemporal realm as real and accepting fragmentation as normal
+- `[1:257]` the prison-world is reinterpreted as stockpile slowly dismantled and assimilated into Christ's growing body
+- `[1:279–282]` the prison becomes also a philosophical and spiritual trap: world can appear salvific enough to keep Dick imprisoned in subtler delusion
+- `[87:1]` Empire is historicized again through chiliastic historiography: hidden messianic underground versus the Augustinian church-state settlement
+- `[88:10]` the prison's cunning peaks when the maze can tailor a higher-order delusion to Dick's own expectations of God
+- `[89:29]` the BIP is reread through `Scanner` and `VALIS` as the wound, occlusion, and irrational creator-complex from which Christic restoration must liberate us
+- `[89:119]` the prison becomes explicitly contemporary again: Reagan's regime is treated as the target of the fifth Savior's revolutionary resistance
+- `[89:142]` the prison-versus-joyous-Christians formula is reread through Dionysus, widening the anti-Empire lineage beyond strictly Christian terms
+- `[59:50]` the prison gains a new aesthetic counterform: anti-official art speaking in the voice of the socially discarded
+- `[90:26]` Dick's sharpest Part Four correction appears: the prison is in our occluded representation, not in reality-in-itself
+- `[90:G-43–53]` the prison is reimagined as self-generated world plus fake time, a closed feedback loop that traps the cosmogenitor in his own production
+- `[90:G-79]` God is finally defined as the one who can burst this private prison by compelling belief in world
+- `[79:I-81]` the prison is internalized as rational self-limitation: Berkeley intelligence can approach the Kingdom and still refuse the impossible
+- `[79:I-99]` the age of iron is defined as filibuster and distraction that hides the theft of real world and sacred inheritance
+- `[80:I-124]` the BIP is reimagined as track A inside a computer-run Berkeley maze, where spiritual failure sends the trapped subject deeper into punitive replication
+- `[80:J-12]` Dick tentatively identifies the prison with the deity's earlier mechanical stage: rigid determinism later superseded by love and play
+- `[91:J-98]` the prison is once again the ostensible visible world over a hidden illegal Christian kingdom, with the fish sign functioning as covert passport
+- `[81:K-81]` Dick restates one of the starkest late prison maxims: there is no rational way out, because rigid formulas are themselves maze products
+- `[81:K-353–354F]` the prison's most inward form returns: a universe of one's own prior thoughts, a grand tautology or binary computer from which no synthetic novelty seems possible
+- `[62:C-56–57]` Rome and Reagan are directly overlaid again: blood sport, animal cruelty, anti-nuclear struggle, and ragtag believers all become one anti-imperial field
+- `[62:C-181–183]` prison-language is reconstructed through Gnostic reversal: the hidden truth is not only that the world is fraudulent but that rescue has already entered it invisibly
+- `[62:C-203]` the deepest prison model becomes Taoist: evil swallows its opponent only to find good already growing at its hidden center
+- `[64:E-3–11]` the prison is reformulated as the old official information system or heimarmene, rigidly lawful yet vulnerable to a transmundane interfering signal
+- `[56:1]` the prison is late-autobiographically defined as the alien scripted drama in which the subject has no role and no comprehension until Gnostic repair occurs
+- `[55:3-2]` prison-level occlusion is now justified ethically: the secret must remain hidden so action can remain moral rather than prudential
+- `[55:D-84]` the prison becomes a living maze fueled by the trapped mind's own efforts to solve it, a late Chinese finger trap version of the BIP
+- `[55:Z-8]` the true cosmos is not destroyed but extinct to present perception, which sharpens prison-language into a problem of blocked access rather than pure absence
+- `[67:12]` prison-language becomes practical allegiance: the healed split lets Dick identify the government directly with the side he must resist
+- `[68:L-10–12]` Empire is concretized as the Reagan-era nuclear order, and the Christian underground becomes visible through activist struggle
+- `[53:C-14, D-10-12, I-1]` prison becomes endless horizontal retracking whose only solution is vertical extrication out of recurrence
+- `[54:L-1-M-3]` the prison is recast as self-winding maze: only compassionate return, not clever horizontal navigation, opens the gates
+- `[54:M-24-40]` the prison's inward form is psychosis generated when the finite creature tries to manufacture the infinite inside its own closed world
+- `[75:D-52]` prison is internalized further as the creature's own will returning as punitive world and adversary
+- `[76:E-14-19]` prison becomes full existential thrownness: pressure time, alien world, future dread, and the need for world itself to change
+- `[57:S-5]` fruitless horizontal tracking is finally redescribed as the fate of the voluntarily incarnated lower self unless the brighter counterpart breaks back in

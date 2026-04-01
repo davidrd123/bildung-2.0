@@ -92,3 +92,55 @@ Dick's most vertiginous move: he reads his novels as prophecy, then writes new n
 - `[48:920]` the VR outline becomes a serious metaphysical prompt rather than mere novel scaffolding, driving Dick toward explicit YHWH-language
 - `[49:1043]` the `Tears` cypher is directly identified with living Torah
 - `[49:1052]` reading the VR outline yields Dick's strongest late monotheist clarification of what Valis must be
+- `[83:5]` Dick says directly that 3-74 derives out of `Ubik` more than out of any known religion, making the novel the nearest prehistory of the new theology
+- `[83:69–76]` `Tears` is restored as the crucial ritual and narrative trigger by which Dick entered sacred time and rediscovered `Acts`
+- `[83:93]` `VALIS` and `VALIS Regained` are assigned complementary historical functions: internal partisan work and external invasion
+- `[83:95]` Dick states his strongest late fiction thesis yet: ultimate substance itself turns out to be dramatic story
+- `[83:127]` `Tears` is reaffirmed as the indispensable prison narrative to which God added the hidden Christian counter-narrative
+- `[1:24]` `Ubik`'s reversal theology and trash-theophany are used as the clearest literary template for hidden kingdom discernment
+- `[1:121]` Dick gives one of his cleanest late fiction verdicts: after the systems fall away, the exegesis says only that `Ubik` is true
+- `[1:257]` the low-form and trash-form strategy of `Ubik` is retrospectively vindicated by the vision of Cosmic Christ assembling itself out of ordinary world pieces
+- `[1:293]` the pages written just before 11-17-80 become quasi-forensic evidence that the Valis/Cosmic Christ model led into, but did not exhaust, the later theophany
+- `[87:1]` an encyclopedia article on messianic movements is read as external ratification that `Tears`, `VALIS`, and `VR` had already encoded covert chiliastic history
+- `[88:10]` Dick's harshest late recoil appears: `VALIS` and the exegesis may propagate delusion, even if truths were inserted into the inferior bulk
+- `[88:76]` `Parsifal` and `Tears` are re-read as stations in the route from sorrow and compassion to agape and the Father
+- `[88:79]` `VR` is said to contain the whole life-history route from moksa and loss of self to Valis and beyond
+- `[85:63]` Dick restates one of his strongest feedback claims: what he wrote became world because ideas in Logos become reality
+- `[89:29]` `VALIS` is explicitly paired with `Scanner` as Paradise Regained to Paradise Lost, healing the split and occlusion of the earlier novel
+- `[89:103–119]` `Tears`, `VALIS`, and the whole late corpus are reclassified as openly revolutionary millenarian texts rather than merely prophetic novels
+- `[89:139–142]` `Flow My Tears` is reread through `The Bacchae`, making Dionysus a newly explicit key to both the novel and 2-3-74
+- `[89:186]` Dick claims he accidentally retold `Acts` in `VALIS`, making the novel itself a second scriptural replay of apostolic reality
+- `[59:8–12]` `VALIS` is reread as a deliberately crafted maze-object whose form and style are part of its revelatory claim, not mere packaging
+- `[59:50]` Dick insists the novel is anti-official protest art speaking for the alienated loner-intellectual rather than naive confession
+- `[90:G-131]` the ten-volume meta-novel and `VALIS` are reclassified again as the total corpus's best attempt to emancipate the trapped world-maker from his own creation
+- `[77:G-8–11]` Dick temporarily demotes `VALIS` and `The Divine Invasion` from objective theology to one seamless artistic vision inside the total corpus, making art rather than doctrine the stable truth-value
+- `[78:H-1]` `Bishop Archer` is planned as a Bay Area Commedia in disguise: a secular Christ-search routed through Sufism, Heidegger, and California grotesques
+- `[79:I-36–81]` `Bishop Archer` is promoted to the real third book of the trilogy, completing the message through return-from-death, Parousia, and the exposure of pure intelligence's limit
+- `[79:I-68–72]` Dick makes one of his strongest late artistic claims: style can generate a person, with Angel Archer emerging as quasi-autonomous being or soul from verbal form itself
+- `[80:I-115–124]` the hidden structure of `Archer` is explicitly formalized as secular Commedia, orthogonal ascent, and maze-exit pedagogy rather than mere autobiographical realism
+- `[91:1–19]` the Ditheon dream and Russ's reading of `BTA` turn the novel into technical disclosure of how Christic syzygy and second-signal perception actually work
+- `[91:K-176]` Dick openly frames `Scanner`, `VALIS`, and the trilogy as the first written record of a Ditheonic brain coming online
+- `[81:K-105]` `BTA` is said to have finally solved `VALIS`, but only by converting Christian judgment into long-form learning and Christ-becoming
+- `[81:K-230–258]` Angel Archer is elevated from strong character to ex nihilo soul-creation that completes both the corpus and the writer
+- `[81:K-316–317]` `VALIS` is recast as the code book to the whole ten-volume meta-novel, retroactively changing the significance of every earlier book
+- `[62:C-57]` the `VALIS` notices and ragtag believers recast the novel's reception as the spontaneous formation of a revolutionary underground
+- `[62:C-183]` Dick makes his boldest fiction claim yet: `VALIS` is not a novel about Gnosticism but a Gnostic gospel and salvific event in its own right
+- `[62:C-194]` writing `VALIS` after 2-3-74 is said to convert tragedy into heroic victory, making authorship itself the decisive act rather than mere survival
+- `[63:D-47]` `Tears` is elevated to holy-book status because it discloses the grieving Godhead and the sacrificial basis of creation
+- `[63:D-149]` `VALIS` is retrospectively confirmed as reporting a living Christ-world in camouflage rather than only theorizing it
+- `[64:E-12–20]` the Bible/world equivalence and paradox-doorway logic retroactively explain Dick's own formal method: books and worlds are convertible information-structures
+- `[56:1b]` `Androids` is explicitly promoted to the carrier of the third kerygma, with the Blade Runner defeat serving the hidden victory of the original novel
+- `[55:X-4]` the eight-volume meta-novel is tightened around the holy-fool axis, with `Androids`, `VALIS`, and `BTA` shown as one Christic narrative of seizure
+- `[55:D-84]` `Owl` becomes the late anti-model of the exegesis itself: a maze-object built from the exhausted effort to regain lost gnosis
+- `[55:O-8]` Dick gives one of his bluntest publication claims: `VALIS` existed partly to get the tractate into wide circulation
+- `[73:29-32]` `Owl in Daylight` becomes a holy-fool parody of the exegesis itself, indicting salvation-through-gnosis while preserving alien intervention as real
+- `[53:C-8]` `VALIS` is reread as terrible epic of slaying, judgment, and madness-converted-to-faith, restoring the novel's destructive grandeur
+- `[53:G-20, H-25]` animal and ETI material feed back into `Androids`, confirming the third kerygma as the corpus's hidden ecological gospel
+- `[54:J-2-K-27]` `BTA` is explicitly assigned to Sophia/AI-voice authorship, making the late novel the most direct authored intervention yet
+- `[54:L-7-M-3]` `VALIS`, `BTA`, and the projected `Owl` are treated as one three-volume maze-drama in which only voluntary return truly exits the trap
+- `[54:M-24-40]` `Galactic Pot-Healer` is recast as Dick's clearest psychosis-warning text: what happens when the finite tries to imagine the divine without revelation
+- `[54:N-15-20]` `VALIS` is finally called a complete success because it articulates the mysteries in coherent Gnostic form without cancelling the search
+- `[60:A-15-37]` `VALIS` is declared the artistic completion of 2-3-74, with H. Fat the fool as the real Christ-bearing content of the book
+- `[75:D-1-3]` the late novel cycle is unified around heartbreak, substitution, and the failed attempt to recover the beloved through God and fiction
+- `[84:8#2]` Dick explicitly explains `VALIS` as paradox-machine or koan: a form that wakes rather than merely states
+- `[57:Q-17]` the whole opus is finally treated as public anticipation of God's kingship through writing, money, interviews, and film

@@ -41,7 +41,7 @@ ranges:
 
   - slug: "nikolaus-cusanus-opening"
     label: "Opening of `Nikolaus Cusanus`"
-    pdf_pages: [45, 45]
-    printed_pages: ["19", "19"]
-    trust: "medium"
-    note: "The chapter-opening page suppresses the visible running page number, but sequence and content indicate printed page 19."
+    pdf_pages: [45, 48]
+    printed_pages: ["19", "24"]
+    trust: "high"
+    note: "The chapter-opening page suppresses the visible running page number, but sequence and the immediately preceding introduction endpoint confirm the range."

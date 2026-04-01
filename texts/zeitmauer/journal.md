@@ -490,3 +490,22 @@ The `zm:43:two-houses` anchor correctly crystallizes `thread:time-crisis` becaus
 ### `[visual candidate]` Vertebrae diagram
 
 §41's vertebrae image: chronological years as vertebrae along a spine, with invisible transition points where the bones pass from skull to spine to tail — marking qualitative changes in fateful time that mechanical counting misses. Simpler than the warp/weft diagram but equally important: it shows that continuous sequence can mask discontinuous essence.
+
+## 2026-04-01 — Earth-History and the Dawn of Historiography
+
+Translated `§§44-46` under `parts/15-humane-einteilungen.md`.
+
+This batch presses Part 3 beyond human history in the narrow sense. `§44` shifts the argument into earth-history and makes the decisive claim that species-loss and species-emergence are not only power-questions but time-questions. `§45` then asks whether even coarse historical facts can exceed the means of historical contemplation if the relevant cycle is larger than history's normal measure. `§46` finally turns historical consciousness itself into a dated event: Herodotus stands at dawn between mythic night and the clear light of historical science.
+
+Working observations:
+
+- `§44` is the key section of the batch. `A new earth-style demanded other formations, other models` is the strongest Part 3 statement yet that qualitative time may govern even the loss of species and the defeat in the struggle for existence.
+- `§45` sharpens the selectivity of historiography. Not everything that happened while humans existed is already `world-history in our sense`; history has its own eros and its own threshold conditions.
+- `§46` makes the birth of historiography itself into a temporal division. `Two kinds of time, two kinds of light` is not only a statement about Herodotus; it also widens the whole Part 3 inquiry from divisions within history to divisions between mythic and historical consciousness.
+- The section title `Humane Einteilungen` remains workable, but it is now under new pressure: the part is no longer only about humanly imposed divisions, but about the limits of those divisions when earth-history, prehistory, and mythic night press back against them.
+
+Decisions:
+
+- no new glossary entries yet; the existing carrier terms still suffice
+- extend the local `time-crisis` thread through `§44`, where questions of power are explicitly subordinated to questions of time
+- keep batch size at three; the part is dense but still moving in clear argumentative steps

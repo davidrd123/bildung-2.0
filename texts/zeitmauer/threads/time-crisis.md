@@ -13,6 +13,10 @@ The main thread so far in `texts/zeitmauer`: the collision between measurable ti
 - `zm:25:plan-freedom` pushes the crisis into insurance, plan-accounting, and the immediate language of freedom.
 - `zm:28:periodicity` extends the crisis into flattened rhythms, denied sacrifice, and catastrophe.
 - `zm:31:so-sein-gleichsein` closes the part where the crisis becomes one of singular form versus uniformity and mass fate.
+- `zm:32:spiral` reopens it as a problem of how world-time and great ages are divided at all.
+- `zm:38:logos-nomos` reconnects the Part 3 problem explicitly to measurable astronomical time and interpreted fateful time.
+- `zm:43:two-houses` crystallizes the limit of morphology: historical similarity can conceal radical difference in fateful time.
+- `zm:44:zeitfragen` extends the crisis beyond human history: behind questions of power, questions of time are at work.
 - `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.
 - `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.
 
@@ -30,6 +34,10 @@ Jünger's strategy is to lead the reader out of the apparently "occult" cases an
 - insurance, plan-accounting, and free musische speech in `zm:25:plan-freedom`
 - periodicity, raised dikes, and enlarged catastrophe in `zm:28:periodicity`
 - `So-Sein`, sameness, and resistance to Leviathan in `zm:31:so-sein-gleichsein`
+- line, circle, and spiral at the opening of `Humane Einteilungen` in `zm:32:spiral`
+- `Logos`, `Nomos`, and the methodological return of `Schicksalszeit` in `zm:38:logos-nomos`
+- two houses historically similar yet fateful-time different in `zm:43:two-houses`
+- species-loss and species-emergence pushed behind time-questions in `zm:44:zeitfragen`
 
 ## Commentary Use
 

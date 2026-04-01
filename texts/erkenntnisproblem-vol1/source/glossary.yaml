@@ -70,6 +70,123 @@
   status: tentative
   notes: "Preserve the philosophical term without flattening it into generic `prior assumption`. In adjectival contexts, prefer `a priori` or `aprioristic` according to the sentence."
 
+- term: "docta ignorantia"
+  handle: "term:docta-ignorantia"
+  kind: concept
+  preferred: "learned ignorance"
+  alternatives:
+    - "the doctrine of learned ignorance"
+    - "the science of not-knowing"
+  status: tentative
+  notes: "Keep the Latin when Cassirer is explicitly naming Cusa's formula or book-title. In expository paraphrase, `learned ignorance` is the current front-runner."
+
+- term: "conjectura"
+  handle: "term:conjectura"
+  kind: concept
+  preferred: "conjecture"
+  alternatives:
+    - "assumption"
+    - "conjectural assertion"
+  status: tentative
+  notes: "A technical Cusan term, not just a casual guess. Cassirer sometimes paraphrases it as `Annahme`, but the Latin should stay visible where the term itself is doing philosophical work."
+
+- term: "similitudo"
+  handle: "term:similitudo"
+  kind: concept
+  preferred: "likeness"
+  alternatives:
+    - "resemblance"
+    - "similarity"
+  status: tentative
+  notes: "In the Cusa chapter this names the older, more passive model of cognition as resemblance to what is already there."
+
+- term: "assimilatio"
+  handle: "term:assimilatio"
+  kind: concept
+  preferred: "assimilation"
+  alternatives:
+    - "self-assimilation"
+    - "active assimilation"
+  status: tentative
+  notes: "The key Cusan reversal. Cassirer uses it for the active process by which mind establishes the relation to its objects and, in mathematics, measures them from forms it finds in itself."
+
+- term: "complicatio"
+  handle: "term:complicatio"
+  kind: concept
+  preferred: "enfolding"
+  alternatives:
+    - "complication"
+    - "implicit containment"
+  status: tentative
+  notes: "A central Cusan term. In Cassirer it names the simple or implicit mode in which multiplicity is contained before development."
+
+- term: "explicatio"
+  handle: "term:explicatio"
+  kind: concept
+  preferred: "unfolding"
+  alternatives:
+    - "explication"
+    - "development"
+  status: tentative
+  notes: "The counterpart to `complicatio`: the developed articulation of what was previously enfolded."
+
+- term: "coincidentia oppositorum"
+  handle: "term:coincidentia-oppositorum"
+  kind: concept
+  preferred: "coincidence of opposites"
+  alternatives:
+    - "unity of opposites"
+  status: tentative
+  notes: "The classic Cusan formula standing behind Cassirer's German `Coincidenz der Gegensätze`. Keep the Latin visible where the technical doctrine, not just a generic paradox, is at stake. In the current Cusa tranches Cassirer pressures it toward a methodological/logical category, not merely a mystical slogan."
+
+- term: "ratio"
+  handle: "term:ratio"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "reason"
+    - "understanding"
+  status: open
+  notes: "A major pressure point in the Cusa chapter. Cassirer locally aligns it with `Verstand` and discursive, abstractive cognition governed by the excluded middle; do not settle the English globally too early."
+
+- term: "intellectus"
+  handle: "term:intellectus"
+  kind: concept
+  preferred: "intellect"
+  alternatives:
+    - "understanding"
+    - "intellection"
+  status: tentative
+  notes: "In the current tranche this is the higher faculty that comprehends principle and totality in a single act. The phrase `visus intellectualis` names its operative mode."
+
+- term: "Praecision"
+  handle: "term:praecision"
+  kind: concept
+  preferred: "precision"
+  alternatives:
+    - "exactness"
+  status: tentative
+  notes: "Cassirer is still using the Latinized form in the Cusa chapter; `precision` is the current default, but the term may later need differentiation from ordinary exactness."
+
+- term: "quidditas"
+  handle: "term:quidditas"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "whatness"
+    - "essence"
+  status: open
+  notes: "Keep the Latin visible where Cusa explicitly contrasts `quidditas` with `quantitas`. `Whatness` is philosophically pointed, but can sound too scholastic if overused."
+
+- term: "quantitas"
+  handle: "term:quantitas"
+  kind: concept
+  preferred: "quantity"
+  alternatives:
+    - "magnitude"
+  status: tentative
+  notes: "Usually `quantity`, but preserve the Latin in the explicit Cusan contrast with `quidditas`."
+
 - term: "Wissenschaft"
   handle: "term:wissenschaft"
   kind: concept

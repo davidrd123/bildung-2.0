@@ -1,6 +1,10 @@
 # Escolios a un texto implícito I — Nicolás Gómez Dávila (1977)
 # Cleaned from OCR. Page numbers reference the original edition.
 # Tags accumulate across passes — not exhaustive, just what resonates.
+# Canonical tags prefer singular nouns, lowercase concepts,
+# capitalized proper names, and no leading articles.
+# Preserve distinct concept-tags like Bildung when the
+# untranslated term carries semantic weight of its own.
 
 - id: 1
   page: 11
@@ -121,7 +125,7 @@
     Después de definir al hombre tenemos que modificar
     inmediatamente nuestra definición, porque la conciencia
     de esa definición lo transforma.
-  tags: [anthropology, self-knowledge, reflexivity]
+  tags: [human-nature, self-knowledge, reflexivity]
 
 - id: 17
   page: 13
@@ -220,7 +224,7 @@
   page: 15
   es: >
     El sabor inconfundible de los seres es la bebida de los dioses.
-  tags: [individuality, beauty, the-sacred]
+  tags: [individuality, beauty, sacred]
 
 - id: 30
   page: 15
@@ -464,7 +468,7 @@
   es: >
     El amor al pueblo es vocación de aristócrata. El demócrata
     no lo ama sino en período electoral.
-  tags: [aristocracy, democracy, love, the-people]
+  tags: [aristocracy, democracy, love, people]
 
 - id: 62
   page: 21
@@ -498,7 +502,7 @@
   es: >
     El pueblo no se rebela nunca contra el despotismo sino
     contra la mala alimentación.
-  tags: [the-people, revolution, materialism]
+  tags: [people, revolution, materialism]
 
 - id: 67
   page: 21
@@ -529,7 +533,7 @@
   es: >
     Cierta manera desdeñosa de hablar del pueblo denuncia
     al plebeyo disfrazado.
-  tags: [the-people, aristocracy, self-deception]
+  tags: [people, aristocracy, self-deception]
 
 - id: 71
   page: 22
@@ -547,14 +551,14 @@
     individualismos éticos, que imponen deberes sociales tan
     sólo como medios de nuestra perfección terrestre o de
     nuestra salvación enigmática.
-  tags: [christianity, paganism, ethics, individualism]
+  tags: [Christianity, paganism, ethics, individualism]
 
 - id: 73
   page: 23
   es: >
     En toda época, felizmente, hay tontos indefinidamente
     capaces de lo obvio.
-  tags: [intelligence, irony, the-obvious]
+  tags: [intelligence, irony, obvious]
 
 - id: 74
   page: 23
@@ -605,13 +609,13 @@
   page: 23
   es: >
     Pensar suele reducirse a inventar razones para dudar de lo evidente.
-  tags: [thought, doubt, the-obvious]
+  tags: [thought, doubt, obvious]
 
 - id: 82
   page: 24
   es: >
     Negarse a admirar es la marca de la bestia.
-  tags: [admiration, vulgarity, the-sacred]
+  tags: [admiration, vulgarity, sacred]
 
 - id: 83
   page: 24
@@ -782,7 +786,7 @@
 - id: 106
   page: 27
   es: >
-    Aducir la belleza de una cosa en su defensa irrita al
+    Aducir la belleza de una cosa en su defensa, irrita al
     alma plebeya.
   tags: [beauty, vulgarity, defense]
 
@@ -847,7 +851,7 @@
   es: >
     Todo es trivial si el universo no está comprometido en
     una aventura metafísica.
-  tags: [metaphysics, meaning, the-sacred]
+  tags: [metaphysics, meaning, sacred]
 
 - id: 114
   page: 29
@@ -897,7 +901,7 @@
   es: >
     La presencia política de la muchedumbre culmina siempre en
     un apocalipsis infernal.
-  tags: [the-people, politics, apocalypse]
+  tags: [people, politics, apocalypse]
 
 - id: 121
   page: 30
@@ -1264,7 +1268,7 @@
   es: >
     El supuesto progreso en el conocimiento del hombre consiste
     en la exageración alterna de uno de sus rasgos conocidos.
-  tags: [progress, anthropology, exaggeration]
+  tags: [progress, human-nature, exaggeration]
 
 - id: 172
   page: 38
@@ -1516,7 +1520,7 @@
   page: 46
   es: >
     El mundo es sacramental o soso.
-  tags: [sacrament, meaning, the-sacred]
+  tags: [sacrament, meaning, sacred]
 
 - id: 209
   page: 46
@@ -1665,7 +1669,7 @@
   page: 52
   es: >
     Lo que no es religioso no es interesante.
-  tags: [religion, interest, the-sacred]
+  tags: [religion, interest, sacred]
 
 - id: 231
   page: 52
@@ -1721,7 +1725,7 @@
   page: 54
   es: >
     Educar al hombre es impedirle la "libre expresión de su personalidad".
-  tags: [education, personality, Bildung, formation]
+  tags: [education, personality, Bildung]
 
 - id: 239
   page: 54
@@ -1823,7 +1827,7 @@
   page: 58
   es: >
     La ética es la primera etapa en la desacralización del universo.
-  tags: [ethics, desacralization, the-sacred]
+  tags: [ethics, desacralization, sacred]
 
 - id: 255
   page: 58
@@ -2045,7 +2049,7 @@
   es: >
     Elegancia, dignidad, nobleza, son los únicos valores que la vida
     no logra irrespetar.
-  tags: [elegance, dignity, nobility, values]
+  tags: [elegance, dignity, nobility, value]
 
 - id: 287
   page: 68
@@ -2082,7 +2086,7 @@
     La violencia no basta para destruir una civilización.
     Cada civilización muere de la indiferencia ante los valores
     peculiares que la fundan.
-  tags: [civilization, violence, indifference, values, death]
+  tags: [civilization, violence, indifference, value, death]
 
 - id: 292
   page: 69
@@ -2259,7 +2263,7 @@
   es: >
     Dios nace donde un mito etiológico se combine con una
     experiencia sagrada.
-  tags: [God, myth, sacred-experience, origin]
+  tags: [God, myth, sacred, origin]
 
 - id: 316
   page: 79
@@ -2534,7 +2538,7 @@
   page: 99
   es: >
     Los viñedos de la tierra florecen para invisibles vendimias.
-  tags: [vineyard, harvest, invisibility, the-sacred]
+  tags: [vineyard, harvest, invisibility, sacred]
 
 - id: 356
   page: 99
@@ -2646,21 +2650,434 @@
   tags: [formula, salvation, form]
 
 - id: 372
-  page: 106
+  page: 107
   es: >
     La fe que no sepa burlarse de sí misma debe dudar de su autenticidad.
     La sonrisa es el disolvente del simulacro.
   tags: [faith, self-mockery, authenticity, simulacrum]
 
 - id: 373
-  page: 106
+  page: 107
   es: >
     Lo que no es complicado es falso.
   tags: [complexity, falsity, simplicity]
 
 - id: 374
-  page: 106
+  page: 107
   es: >
     ¿Quién no compadece el dolor del que se siente repudiado? — ¿pero
     quién medita sobre la angustia del que se teme elegido?
   tags: [rejection, election, anguish, compassion]
+
+# --- Section 14: Rite and Reaction (§375–402, pp. 107–110) ---
+
+- id: 375
+  page: 107
+  es: >
+    Sólo los personajes de novelas mediocres resuelven sus problemas.
+  tags: [fiction, problem, mediocrity]
+
+- id: 376
+  page: 107
+  es: >
+    El mal humor es el padre de la crítica literaria; la admiración
+    no es más que la madrina.
+  tags: [criticism, admiration, temper]
+
+- id: 377
+  page: 107
+  es: >
+    Ninguna idea que necesite apoyo lo merece.
+  tags: [idea, independence, strength]
+
+- id: 378
+  page: 107
+  es: >
+    Los grandes escritores se hermanan en la resonancia imperial
+    de sus textos.
+  tags: [writing, greatness, resonance]
+
+- id: 379
+  page: 107
+  es: >
+    Lo que requiere lucha para ser conseguido muere de ser alcanzado.
+  tags: [struggle, achievement, death]
+
+- id: 380
+  page: 108
+  es: >
+    Basta un solo discípulo para que el maestro prevarique.
+  tags: [master, disciple, corruption]
+
+- id: 381
+  page: 108
+  es: >
+    El cadáver del gran hombre sólo se descompone definitivamente
+    en manos de sus biógrafos.
+  tags: [biography, greatness, decomposition]
+
+- id: 382
+  page: 108
+  es: >
+    Discrepar es riesgo que no debe asumir sino la conciencia
+    madura y precavida.
+    La sinceridad no protege ni del error, ni de la tontería.
+  tags: [dissent, sincerity, maturity]
+
+- id: 383
+  page: 108
+  es: >
+    Sólo sabemos resolver los problemas que no importan.
+  tags: [problem, importance, limitation]
+
+- id: 384
+  page: 108
+  es: >
+    Dudar del progreso es el único progreso.
+  tags: [progress, doubt, irony]
+
+- id: 385
+  page: 108
+  es: >
+    Los años nos portan amodorridos de la cuna a la fosa.
+  tags: [time, sleep, mortality]
+
+- id: 386
+  page: 108
+  es: >
+    Los que no quieren responder de sus opiniones deciden
+    que son reflejos pasivos del mundo.
+  tags: [opinion, responsibility, determinism]
+
+- id: 387
+  page: 108
+  es: >
+    Toda perfección colma y deprime.
+  tags: [perfection, satiety, depression]
+
+- id: 388
+  page: 108
+  es: >
+    Creer que el interés personal determina exclusivamente
+    nuestras convicciones, se convierte en una convicción que
+    puede determinar nuestros actos de manera tal que el
+    motivo de toda convicción llega a ser el exclusivo interés personal.
+  tags: [conviction, self-interest, circularity]
+
+- id: 389
+  page: 109
+  es: >
+    El rito no engendra mitos, sino después que el mito lo engendra.
+  tags: [rite, myth, origin]
+
+- id: 390
+  page: 109
+  es: >
+    Para desarzonar a quien nos hostiga basta insinuarle
+    que dice lo que dice porque es quien es.
+    La emboscada ideológica es ardid infalible.
+    Pero obviamente no es victoria en campo abierto.
+  tags: [ideology, rhetoric, polemic]
+
+- id: 391
+  page: 109
+  es: >
+    Nadie es inocente ni de lo que hace, ni de lo que cree.
+  tags: [innocence, action, belief]
+
+- id: 392
+  page: 109
+  es: >
+    La sola imparcialidad en que confiamos es la del alma
+    en que se escucha un rebullir de fieras.
+  tags: [impartiality, soul, passion]
+
+- id: 393
+  page: 109
+  es: >
+    La prueba de superioridad del que se aburre no la da
+    su tedio, sino la calidad de la ocupación que lo disipa.
+  tags: [boredom, superiority, occupation]
+
+- id: 394
+  page: 109
+  es: >
+    La explicación que no haga parecer más misterioso lo
+    que explica ha fracasado.
+  tags: [explanation, mystery, failure]
+
+- id: 395
+  page: 109
+  es: >
+    En el artista subalterno el estilo precede la obra.
+  tags: [style, art, mediocrity]
+
+- id: 396
+  page: 110
+  es: >
+    La creación es el nexo entre la eternidad y la historia.
+  tags: [creation, eternity, history]
+
+- id: 397
+  page: 110
+  es: >
+    La obra de arte es la detención casual del proceso que
+    liga su inexistencia primeriza a su inimaginable perfección.
+  tags: [art, process, perfection]
+
+- id: 398
+  page: 110
+  es: >
+    Capacidad destructora de la sonrisa del imbécil.
+  tags: [stupidity, smile, destruction]
+
+- id: 399
+  page: 110
+  es: >
+    El optimismo es la adulteración de la esperanza.
+    El pesimismo su posesión viril.
+  tags: [optimism, pessimism, hope]
+
+- id: 400
+  page: 110
+  es: >
+    El pueblo no elige a quien lo cura, sino a quien lo droga.
+  tags: [people, democracy, deception]
+
+- id: 401
+  page: 110
+  es: >
+    La vida compasiva concede, a veces, soluciones que
+    cierto pundonor intelectual obliga a rechazar.
+  tags: [compassion, intellect, honor]
+
+- id: 402
+  page: 110
+  es: >
+    El auténtico humanismo se edifica sobre el discernimiento
+    de la insuficiencia humana.
+  tags: [humanism, insufficiency, discernment]
+
+# --- Section 15: Education and Ruin (§403–434, pp. 111–116) ---
+
+- id: 403
+  page: 111
+  es: >
+    El individuo se rebela hoy contra la inalterable naturaleza
+    humana para abstenerse de enmendar su corregible naturaleza propia.
+  tags: [rebellion, human-nature, self-knowledge]
+
+- id: 404
+  page: 111
+  es: >
+    Un conflicto ridículo requiere soluciones grotescas.
+  tags: [conflict, absurdity, proportion]
+
+- id: 405
+  page: 111
+  es: >
+    Lo popular se volvió vulgar cuando el pueblo renunció
+    a copiar ingenuamente la cultura aristocrática para comprar
+    la cultura "popular" que le manufactura la burguesía.
+  tags: [popular-culture, vulgarity, aristocracy, bourgeoisie]
+
+- id: 406
+  page: 111
+  es: >
+    Quien trata de educar y no de explotar, tanto a un pueblo
+    como a un niño, no les habla imitando a media lengua
+    un lenguaje infantil.
+  tags: [education, condescension, people]
+
+- id: 407
+  page: 111
+  es: >
+    Tener libertad de pensar no basta a la mentalidad moderna.
+    El majadero se siente obligado a hacerlo.
+    Los archivos de esta sociedad rica en "pensamientos libres"
+    ofrecerán diversiones deliciosas a los eruditos futuros.
+  tags: [liberty, modernity, stupidity]
+
+- id: 408
+  page: 112
+  es: >
+    Para que una verdad nos convenza se requiere que una
+    verdad equivalente madure en nuestras almas.
+  tags: [truth, conviction, soul]
+
+- id: 409
+  page: 112
+  es: >
+    La idea no es un espectro, sino un cuerpo verbal, denso,
+    sonoro, luminoso.
+  tags: [idea, language, embodiment]
+
+- id: 410
+  page: 112
+  es: >
+    La idea es la combustión interna y espontánea de una
+    expresión incandescente.
+  tags: [idea, expression, fire]
+
+- id: 411
+  page: 112
+  es: >
+    La lucidez de la conciencia es privilegio de quienes carecen
+    de la estulticia necesaria a las convicciones victoriosas.
+  tags: [lucidity, stupidity, conviction]
+
+- id: 412
+  page: 112
+  es: >
+    Nada más retórico que literatura de pueblo joven que
+    se expresa en idioma viejo.
+  tags: [rhetoric, literature, language]
+
+- id: 413
+  page: 112
+  es: >
+    La perfección es el punto donde coinciden lo que podemos
+    hacer y lo que queremos hacer con lo que debemos hacer.
+  tags: [perfection, will, duty]
+
+- id: 414
+  page: 113
+  es: >
+    Entre la anarquía de los instintos y la tiranía de las normas
+    se extiende el fugitivo y puro territorio de la perfección humana.
+  tags: [perfection, instinct, norm]
+
+- id: 415
+  page: 113
+  es: >
+    El hombre sólo juzga auténtica y patente la victoria que
+    coronan los más sórdidos placeres y las recompensas más vulgares.
+  tags: [victory, pleasure, vulgarity]
+
+- id: 416
+  page: 113
+  es: >
+    La posibilidad de salvaguardar nuestra dignidad es inversamente
+    proporcional a la integración económica de la sociedad.
+  tags: [dignity, economy, society]
+
+- id: 417
+  page: 113
+  es: >
+    A las clases sociales no debemos atribuirles rasgos que
+    no dependan de la función que las define.
+    A la burguesía se le han asignado vicios meramente humanos
+    y al proletariado virtudes humanas meramente.
+  tags: [class, bourgeoisie, proletariat]
+
+- id: 418
+  page: 113
+  es: >
+    Como si las más nobles cosas de la tierra fuesen fragmentos
+    dispersos de nuestro bien perdido...
+  tags: [nobility, fragment, loss]
+
+- id: 419
+  page: 113
+  es: >
+    Belleza, heroísmo, gloria, se nutren del corazón del hombre
+    como llamas silenciosas.
+  tags: [beauty, heroism, glory, fire]
+
+- id: 420
+  page: 114
+  es: >
+    Verdad es aquello que cualquier imbécil refuta.
+  tags: [truth, stupidity, refutation]
+
+- id: 421
+  page: 114
+  es: >
+    El hombre es el refugio más deleznable del hombre.
+  tags: [human-nature, fragility, refuge]
+
+- id: 422
+  page: 114
+  es: >
+    Curar un alma enferma es casi siempre privarla de su
+    única espiritualidad.
+  tags: [soul, sickness, spirituality]
+
+- id: 423
+  page: 114
+  es: >
+    El hombre vive de sus problemas y muere de sus soluciones.
+  tags: [problem, solution, life, death]
+
+- id: 424
+  page: 114
+  es: >
+    La verdad es la suma de las contradicciones en que
+    incurren los hombres inteligentes.
+  tags: [truth, contradiction, intelligence]
+
+- id: 425
+  page: 114
+  es: >
+    La nivelación es el substituto bárbaro del orden.
+  tags: [leveling, order, barbarism]
+
+- id: 426
+  page: 114
+  es: >
+    La sinceridad escrupulosa falsifica la verdad.
+  tags: [sincerity, truth, falsification]
+
+- id: 427
+  page: 115
+  es: >
+    Raros son los que perdonan que compliquemos sus claudicaciones.
+  tags: [forgiveness, compromise, honesty]
+
+- id: 428
+  page: 115
+  es: >
+    La continuidad de Occidente se quebró desde que el libro
+    viejo dejó de contener enseñanzas para volverse documento.
+  tags: [tradition, continuity, book]
+
+- id: 429
+  page: 115
+  es: >
+    El progresista siempre triunfa y el reaccionario siempre tiene razón.
+    Tener razón en política no consiste en ocupar el escenario,
+    sino en anunciar desde el primer acto los cadáveres del quinto.
+  tags: [reactionary, politics, progress]
+
+- id: 430
+  page: 115
+  es: >
+    Los programas revolucionarios son meras ideologías de la
+    revolución pura.
+  tags: [revolution, ideology, program]
+
+- id: 431
+  page: 115
+  es: >
+    El revolucionario no odia porque ama, sino ama porque odia.
+  tags: [revolution, hate, love]
+
+- id: 432
+  page: 115
+  es: >
+    La civilización se derrumba cuando su éxito insinúa que
+    sobran las virtudes que la afianzan.
+  tags: [civilization, virtue, decline]
+
+- id: 433
+  page: 116
+  es: >
+    Toda solución se anula cuando su vocabulario se propaga
+    entre quienes ignoran su problema.
+  tags: [solution, vocabulary, problem]
+
+- id: 434
+  page: 116
+  es: >
+    Siempre se trata de suicidio, cuando algo auténtico muere.
+  tags: [authenticity, suicide, death]

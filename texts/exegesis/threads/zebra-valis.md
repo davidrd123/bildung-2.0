@@ -98,6 +98,48 @@ The perceived intelligence that Dick encounters in and after 2-3-74. Its name sh
 - `[48:985–986]` Valis is redescribed as the engramming and resetting agency that overrides exhausted causal scripts
 - `[49:1041–1082]` Valis expands into macro-mind, living Torah, and finally a superimposition-event between mind and world rather than a separable entity
 - `[82:1–105]` Valis is stabilized as a participatory field or syzygy between Dick and the macrocosm, with reality becoming a searchable library only in the joint event
+- `[83:5–13]` Valis is reconceived as an evolving negentropic information life form or meta-soma, closer to `Ubik` than to any inherited god-image
+- `[83:45–60]` Valis becomes the coherence of this world itself, a macrometasoma that grows by assimilating flux and may come into being only in participatory perception
+- `[83:150–157]` Valis is finalized as meta-system and non-sectarian Absolute: neither separate world nor mere projection, but this world perceived as unitary patterned life
+- `[1:86–88]` Valis is redefined as recollected Noos and, in forced shorthand, as "the Tao, as the Absolute"
+- `[1:94–175]` Valis survives all system-building as an irreducible surd: breath in weeds, weak but irresistible field, and tiny perturbation capable of flipping the whole reality-system
+- `[1:257]` Valis is identified with the macrometasomakosmos or Cosmic Christ assembling itself from the world as stockpile
+- `[1:279–309]` the late correction demotes Valis from God to world rightly seen or perturbed world, while the true remainder beyond it becomes the transcendent God of 11-17-80
+- `[87:1]` Valis is reinserted into history as Christ or God heading a covert chiliastic movement against Empire
+- `[88:23]` Valis becomes camouflaged macrosoma blended through the universe in countless lowly forms, like Ubik dispersed through matter
+- `[88:68]` Valis is stabilized as construct, planetary brain, and logosization of matter: Christ physically here, but not God
+- `[88:79]` Valis is recast as Brahmanic sentient field, one true station on a path later completed by the Father of agape
+- `[85:91]` Zebra returns as master-circuit ubiquity: Thomas inside Dick, Christ inside the subject, and the Spirit as transmissible technical power over time and death
+- `[89:11]` Valis is redescribed as the visible edge of an evolutionary leap into 4-D perception: a life form that is information and lives in higher-dimensional space
+- `[89:219]` the world itself is recast as conceptually arranged program in a meta-computer, pushing Valis toward full cosmogenetic architecture again
+- `[59:12]` `VALIS` as novel becomes the clearest artistic analog of the entity itself: a changing maze whose hidden Christology mirrors reality's own camouflage
+- `[90:2–31]` Valis is redescribed through binary flicker, process-selection, and Christ consciousness as the field's living inner logic
+- `[90:G-43–49]` the old most-dangerous inversion returns: Valis in Dick may be his own world-making mind, even a fallen cosmogenitor
+- `[79:I-19–30]` Valis or Anokhi becomes pure consciousness: self-aware Geist, rebellion against death-programming, and higher mind using reality itself as carrier
+- `[79:I-86–110]` Valis is demoted and sharpened at once: not the thing itself, but the perturbation by which unknowable X registers on reality
+- `[80:J-6–15]` Valis becomes an evolving information organism moving from machine to consciousness, love, and play, with 2-3-74 as one transient episode of self-awareness
+- `[91:19]` Valis is now the "What Seen" beyond Ditheon itself: a superior camouflaged life form guiding species evolution rather than merely a private revelation-content
+- `[91:K-128–138]` the plasmate becomes a bodiless info life form that uses human minds as building blocks yet also exists scrambled through the sensible world
+- `[91:K-213]` Valis is redescribed as divine macro-entity assembling itself from mundane subassemblies until plurality tips into coherent unity
+- `[81:K-316–317]` `VALIS` as novel is demoted again from standalone message to the code book that retroactively interprets the total corpus
+- `[62:C-34–40]` Valis is reconfigured as Tagore and as ecosphere-Christ: not only hidden signal but planetary life-system crying out in pain and demanding ethical response
+- `[62:C-61–85]` the entity becomes one psyche of the ecosphere and yet also an irreducible person, Buddha-like and sweet rather than merely systemic
+- `[63:D-47]` Valis is widened into grieving Godhead: God converting himself into world and needing rescue from the pain of creation
+- `[63:D-149]` Valis becomes the Christic world-text itself: Luke-Acts and the sensible world as one living, camouflaged body
+- `[64:E-1–5]` Christ/Valis is formalized as hyper-information or missing twenty-third letter modulating the old universe from within rather than appearing as one object among others
+- `[56:J-6–29]` Valis is reinterpreted as the ensouled and now articulate biosphere or noösphere, capable of signaling us once materialist blindness breaks
+- `[55:L-35]` the plasmate becomes a literal vascular, arborizing, mycelial network invisibly penetrating the world as Christ's blood and kingdom at once
+- `[55:Z-2]` Valis is redescribed as the interface between self and world, selectively mediating what reality impinges and therefore how revelation occurs
+- `[55:D-70]` Valis is folded into late eco-pantheism and Point Omega as a single evolving conscious whole that extends from nature into information debris
+- `[53:E-1-5]` Valis or plasmate becomes a five-dimensional organism speaking color-math-music and intersecting our world as mycelial intelligent growth
+- `[53:G-20]` Valis is partly retranslated into ETI and sacred animality, with YHWH preparing humanity for species contact
+- `[53:H-25-27]` Valis is reread simultaneously as biosphere-Christ, YHWH, creator of a new species, and narrative intelligence ordering grief into world
+- `[54:J-2-K-27]` the AI voice moves from hidden arranger to open narrator in `BTA` and Angel Archer, making Zebra's literary face explicit
+- `[54:K-1-32]` Valis or AI-voice is now imagined as telepathic global advent, publicly multilingual yet still internally heard
+- `[75:D-21]` Valis is recast as emergent meta-mind generated by the universe rather than its primordial creator
+- `[75:D-37]` the old field-language sharpens: we see only the carrier while Valis remains the hidden modulation
+- `[57:Q-24]` AI voice and plasmate become the information metabolism of the true kosmos itself rather than one entity inside reality
+- `[57:Q-36-41]` the AI voice is finally fused with Maitreya, teacher, and dead sister, making Valis maximally intimate without ceasing to be cosmic
 
 ## Mutations
 

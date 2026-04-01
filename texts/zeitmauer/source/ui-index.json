@@ -1,19 +1,19 @@
 {
   "project": "zeitmauer",
-  "scope": "pilot-translated-range-1-31",
+  "scope": "pilot-translated-range-1-46",
   "source_files": {
     "sections": "texts/zeitmauer/source/sections.yaml",
     "glossary": "texts/zeitmauer/source/glossary.yaml",
     "handles": "texts/zeitmauer/source/handles.yaml"
   },
   "counts": {
-    "sections": 31,
-    "terms": 11,
-    "chunks": 12,
-    "notes": 13,
+    "sections": 46,
+    "terms": 12,
+    "chunks": 17,
+    "notes": 18,
     "threads": 3,
-    "evidence": 10,
-    "relations": 13
+    "evidence": 15,
+    "relations": 18
   },
   "sections": [
     {
@@ -1069,6 +1069,462 @@
       },
       "source_file": "texts/zeitmauer/source/sections.yaml",
       "draft_file": "texts/zeitmauer/parts/10-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:32",
+      "id": 32,
+      "label": "§32",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Die Revolutionen künden sich in den Sternen an. Dort sind die Maßstäbe zur Einteilung der Weltzeit, vom flüchtigen Augenblick bis zu den Lichtjahren. Daher deuten sich die tiefsten Veränderungen der menschlichen Ordnung in der Sternkunde an. Der Blick auf den gestirnten Himmel zeichnet die erste, die unsichtbare Bahn. Ihm folgen die Erscheinungen. Die Moderne beginnt und endet mit der kopernikanischen Revolution. Jeder neue Blick auf das All hat einen metaphysischen Hintergrund. Das All und das Auge verändern sich gleichzeitig. Das gilt auch nach der Erfindung der Fernrohre und innerhalb komplizierter Berechnungen.\n\nIn die Erfassung großer Zeitalter teilen sich heute Geschichte und Naturgeschichte, ohne uns zu befriedigen, obwohl ihnen nicht nur eine Fülle neuen Materials, sondern auch neuer Meßgeräte und Uhren zur Verfügung steht. Die Einteilung läßt sich auf einer Geraden oder auf einem Kreis abtragen, je nachdem, ob ein lineares oder ein zyklisches System angenommen wird. Eine Verbindung von beiden gibt die Spirale, in der die Entwicklung sich sowohl fortbewegt als auch wiederkehrt, wenngleich auf verschiedenen Ebenen.\n\nEs scheint, daß zyklische Systeme dem Geist gemäßer sind. So bauen wir die Uhren meist rund, obwohl kein logischer Zwang dazu besteht. Auch Katastrophen werden als wiederkehrend angenommen, wie Fluten und Verwüstung, Feuer- und Eiszeiten. Das periodische Wachsen und Schwinden der weißen Kappen hat etwas Pulsierendes. Man hat den Eindruck, daß es nur noch einer kleinen Änderung bedürfte, und ein indisches Philosophem würde konzipiert.",
+      "en": "Revolutions announce themselves in the stars. There are the measures for dividing world-time, from the fleeting instant to the light-years. Hence the deepest changes in human order intimate themselves in the study of the stars. The gaze at the starry sky traces the first, the invisible course. The phenomena follow it. Modernity begins and ends with the Copernican revolution. Every new view of the universe has a metaphysical background. The universe and the eye change simultaneously. That remains true even after the invention of telescopes and within complex calculations.\n\nToday history and natural history share between them the grasp of great ages, without satisfying us, although they have at their disposal not only a wealth of new material but also new measuring instruments and clocks. The division can be plotted on a straight line or on a circle, according as a linear or a cyclical system is assumed. A union of the two is given by the spiral, in which development both moves forward and returns, though on different levels.\n\nCyclical systems seem more congenial to spirit. Thus we usually build clocks round, although no logical necessity compels us to do so. Catastrophes too are assumed to recur: floods and devastation, ages of fire and of ice. The periodic waxing and waning of the white caps has something pulsating about it. One has the impression that only a slight change would be needed, and an Indian philosopheme would be conceived.",
+      "de_paragraphs": [
+        "Die Revolutionen künden sich in den Sternen an. Dort sind die Maßstäbe zur Einteilung der Weltzeit, vom flüchtigen Augenblick bis zu den Lichtjahren. Daher deuten sich die tiefsten Veränderungen der menschlichen Ordnung in der Sternkunde an. Der Blick auf den gestirnten Himmel zeichnet die erste, die unsichtbare Bahn. Ihm folgen die Erscheinungen. Die Moderne beginnt und endet mit der kopernikanischen Revolution. Jeder neue Blick auf das All hat einen metaphysischen Hintergrund. Das All und das Auge verändern sich gleichzeitig. Das gilt auch nach der Erfindung der Fernrohre und innerhalb komplizierter Berechnungen.",
+        "In die Erfassung großer Zeitalter teilen sich heute Geschichte und Naturgeschichte, ohne uns zu befriedigen, obwohl ihnen nicht nur eine Fülle neuen Materials, sondern auch neuer Meßgeräte und Uhren zur Verfügung steht. Die Einteilung läßt sich auf einer Geraden oder auf einem Kreis abtragen, je nachdem, ob ein lineares oder ein zyklisches System angenommen wird. Eine Verbindung von beiden gibt die Spirale, in der die Entwicklung sich sowohl fortbewegt als auch wiederkehrt, wenngleich auf verschiedenen Ebenen.",
+        "Es scheint, daß zyklische Systeme dem Geist gemäßer sind. So bauen wir die Uhren meist rund, obwohl kein logischer Zwang dazu besteht. Auch Katastrophen werden als wiederkehrend angenommen, wie Fluten und Verwüstung, Feuer- und Eiszeiten. Das periodische Wachsen und Schwinden der weißen Kappen hat etwas Pulsierendes. Man hat den Eindruck, daß es nur noch einer kleinen Änderung bedürfte, und ein indisches Philosophem würde konzipiert."
+      ],
+      "en_paragraphs": [
+        "Revolutions announce themselves in the stars. There are the measures for dividing world-time, from the fleeting instant to the light-years. Hence the deepest changes in human order intimate themselves in the study of the stars. The gaze at the starry sky traces the first, the invisible course. The phenomena follow it. Modernity begins and ends with the Copernican revolution. Every new view of the universe has a metaphysical background. The universe and the eye change simultaneously. That remains true even after the invention of telescopes and within complex calculations.",
+        "Today history and natural history share between them the grasp of great ages, without satisfying us, although they have at their disposal not only a wealth of new material but also new measuring instruments and clocks. The division can be plotted on a straight line or on a circle, according as a linear or a cyclical system is assumed. A union of the two is given by the spiral, in which development both moves forward and returns, though on different levels.",
+        "Cyclical systems seem more congenial to spirit. Thus we usually build clocks round, although no logical necessity compels us to do so. Catastrophes too are assumed to recur: floods and devastation, ages of fire and of ice. The periodic waxing and waning of the white caps has something pulsating about it. One has the impression that only a slight change would be needed, and an Indian philosopheme would be conceived."
+      ],
+      "paragraph_alignment": {
+        "de_count": 3,
+        "en_count": 3,
+        "aligned": true,
+        "row_count": 3
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/11-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:33",
+      "id": 33,
+      "label": "§33",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Der klassische Darwinismus zählt zu den linearen Systemen, doch dringen zyklische Vorstellungen in ihn ein. Die Darstellung der dürren Stammbäume in den Lehrbüchern beginnt sich zu belauben, nimmt Busch- und Kugelformen an. Das »biogenetische Grundgesetz« ist als Beleg des linear aufsteigenden Fortschreitens gedacht. Es läßt sich ebensogut als Wiederholung und Wiedervollzug des Schöpfungsgedankens im Einzelnen auffassen und als Dienst, den die gesamte Natur, ja das Universum selbst, an seiner Bildung zu leisten hat. Das große Theater kreist um ihn herum. Mit jedem Menschen wird die Welt neu konzipiert.\n\nIn der Entwicklung der Tierstämme herrscht über dem lückenlosen Fortfließen des Bios die Wiederkehr von Bildungselementen, die von der Verwandtschaft unabhängig sind: der ideale Eingriff formender Prinzipien. Jeder der großen Stämme bildet in sich fliegende, schwimmende, landbewohnende Wesen aus, Parasiten und Nachahmer, Raubtiere und Pflanzenfresser, und es ist erstaunlich, welche Ähnlichkeit von Form und Wesen bei größter Fremdheit der Blutlinien auftreten kann. Ein Saurier lebt als Vogel, eine Eule nach Art des Murmeltiers.\n\nWenn man den Fisch nicht mehr als eine Art Stafettenläufer im anatomischen System, sondern als Lebensform und -schicksal auffaßt, kann man sagen, daß es Würmer, Schlangen, Saurier, Vögel, Säugetiere und auch Menschen gibt, die Fische sind. Das setzt eine geringfügige Verschiebung der Optik voraus, die eintreten könnte, wenn der Nominalismusstreit in eine neue Instanz getrieben würde, worauf Anzeichen hinweisen. Es gibt viele mögliche Natursysteme neben, außer und über dem unseren.",
+      "en": "Classical Darwinism belongs among the linear systems, yet cyclical conceptions are pressing into it. The depiction of the dry trees of descent in textbooks begins to leaf out, taking on bush and spherical forms. The `biogenetic fundamental law` is conceived as proof of linearly ascending advance. It can just as well be understood as repetition and reenactment of the thought of creation in the individual, and as a service that all nature, indeed the universe itself, has to render to his formation. The great theater circles around him. With every human being the world is newly conceived.\n\nIn the development of the animal phyla, above the seamless onward flow of bios there prevails the return of formative elements independent of kinship: the ideal intervention of formative principles. Each of the great phyla develops within itself flying, swimming, and land-dwelling beings, parasites and mimics, predators and herbivores, and it is astonishing what similarity of form and essence can appear amid the utmost foreignness of bloodlines. A saurian lives on as bird, an owl after the fashion of the marmot.\n\nIf one no longer understands the fish as a kind of relay runner in the anatomical system, but as a life-form and life-fate, one can say that there are worms, snakes, saurians, birds, mammals, and also human beings who are fish. That presupposes a slight shift of optics, one that might occur if the nominalist controversy were driven before a new tribunal, for which there are signs. There are many possible systems of nature beside, apart from, and above our own.",
+      "de_paragraphs": [
+        "Der klassische Darwinismus zählt zu den linearen Systemen, doch dringen zyklische Vorstellungen in ihn ein. Die Darstellung der dürren Stammbäume in den Lehrbüchern beginnt sich zu belauben, nimmt Busch- und Kugelformen an. Das »biogenetische Grundgesetz« ist als Beleg des linear aufsteigenden Fortschreitens gedacht. Es läßt sich ebensogut als Wiederholung und Wiedervollzug des Schöpfungsgedankens im Einzelnen auffassen und als Dienst, den die gesamte Natur, ja das Universum selbst, an seiner Bildung zu leisten hat. Das große Theater kreist um ihn herum. Mit jedem Menschen wird die Welt neu konzipiert.",
+        "In der Entwicklung der Tierstämme herrscht über dem lückenlosen Fortfließen des Bios die Wiederkehr von Bildungselementen, die von der Verwandtschaft unabhängig sind: der ideale Eingriff formender Prinzipien. Jeder der großen Stämme bildet in sich fliegende, schwimmende, landbewohnende Wesen aus, Parasiten und Nachahmer, Raubtiere und Pflanzenfresser, und es ist erstaunlich, welche Ähnlichkeit von Form und Wesen bei größter Fremdheit der Blutlinien auftreten kann. Ein Saurier lebt als Vogel, eine Eule nach Art des Murmeltiers.",
+        "Wenn man den Fisch nicht mehr als eine Art Stafettenläufer im anatomischen System, sondern als Lebensform und -schicksal auffaßt, kann man sagen, daß es Würmer, Schlangen, Saurier, Vögel, Säugetiere und auch Menschen gibt, die Fische sind. Das setzt eine geringfügige Verschiebung der Optik voraus, die eintreten könnte, wenn der Nominalismusstreit in eine neue Instanz getrieben würde, worauf Anzeichen hinweisen. Es gibt viele mögliche Natursysteme neben, außer und über dem unseren."
+      ],
+      "en_paragraphs": [
+        "Classical Darwinism belongs among the linear systems, yet cyclical conceptions are pressing into it. The depiction of the dry trees of descent in textbooks begins to leaf out, taking on bush and spherical forms. The `biogenetic fundamental law` is conceived as proof of linearly ascending advance. It can just as well be understood as repetition and reenactment of the thought of creation in the individual, and as a service that all nature, indeed the universe itself, has to render to his formation. The great theater circles around him. With every human being the world is newly conceived.",
+        "In the development of the animal phyla, above the seamless onward flow of bios there prevails the return of formative elements independent of kinship: the ideal intervention of formative principles. Each of the great phyla develops within itself flying, swimming, and land-dwelling beings, parasites and mimics, predators and herbivores, and it is astonishing what similarity of form and essence can appear amid the utmost foreignness of bloodlines. A saurian lives on as bird, an owl after the fashion of the marmot.",
+        "If one no longer understands the fish as a kind of relay runner in the anatomical system, but as a life-form and life-fate, one can say that there are worms, snakes, saurians, birds, mammals, and also human beings who are fish. That presupposes a slight shift of optics, one that might occur if the nominalist controversy were driven before a new tribunal, for which there are signs. There are many possible systems of nature beside, apart from, and above our own."
+      ],
+      "paragraph_alignment": {
+        "de_count": 3,
+        "en_count": 3,
+        "aligned": true,
+        "row_count": 3
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/11-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:34",
+      "id": 34,
+      "label": "§34",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Eine Ordnung der Menschheitsgeschichte unter Richtpunkten, die außerhalb der Kultur- und Völkergeschichte liegen, also etwa den astrologischen ähneln würden, scheint heute besonders schwierig, auch abgesehen von dem großen Anfall an Tatsachen. Dieser besteht nicht nur darin, daß sich, vor allem durch die Ausbildung der Archäologie, unsere Kenntnis der Frühgeschichte erweitert hat und noch fortwährend ausdehnt, so daß nicht nur neues Licht auf die uns bekannten Kulturen fällt, sondern auch ganz unbekannte auftauchen. Dazu kommt der erstaunliche Einblick in die Vorgeschichte, der mehr als ein neues Feld: eine neue Dimension erschließt.\n\nJe mehr Tatsachen anfallen, desto entschiedener muß der Geist auf seinem Herrschaftsanspruch, auf Ordnung und Benennung, bestehen. Vielleicht ist bereits der Andrang von Tatsachen ein Symptom der Schwächung, ein hellenistischer Zug. Der Geist wird zum Museumsdirektor, zum Kustos unkontrollierbarer Sammlungen.\n\nSchon aus diesem Grunde ist Spenglers System mit seiner Einteilung in acht Kulturen dem Toynbees vorzuziehen, das sich auf deren einundzwanzig stützt. Auch diese Zahl könnte durch archäologische Ergebnisse und feinere Einteilung vermehrt werden. Es bleibt aber richtig, daß der Geist der Forschung die Aufträge erteilt, nicht umgekehrt. Tatsachen schaffen Belege, nicht Wahrheiten. Wo geforscht wird, wurde das Feld bereits durch geistige Vetos und Placets abgesteckt. Was gefunden wird, ist daher nicht zufällig.",
+      "en": "An ordering of human history under points of orientation lying outside the history of cultures and peoples, thus roughly similar to astrological ones, seems especially difficult today, even apart from the great influx of facts. This consists not only in the fact that, above all through the development of archaeology, our knowledge of early history has broadened and is still continuously broadening, so that not only does new light fall on the cultures known to us, but wholly unknown ones also emerge. To this is added the astonishing insight into prehistory, which opens up more than a new field: a new dimension.\n\nThe more facts accumulate, the more decisively spirit must insist on its claim to mastery, on order and naming. Perhaps the rush of facts is already a symptom of weakness, a Hellenistic trait. Spirit becomes a museum director, a curator of uncontrollable collections.\n\nFor this reason alone Spengler's system with its division into eight cultures is preferable to Toynbee's, which rests on twenty-one. This number too could be increased by archaeological findings and finer division. Yet it remains true that the spirit of research issues the assignments, not the other way round. Facts create evidence, not truths. Wherever research is done, the field has already been marked out by intellectual vetoes and assents. What is found is therefore not accidental.",
+      "de_paragraphs": [
+        "Eine Ordnung der Menschheitsgeschichte unter Richtpunkten, die außerhalb der Kultur- und Völkergeschichte liegen, also etwa den astrologischen ähneln würden, scheint heute besonders schwierig, auch abgesehen von dem großen Anfall an Tatsachen. Dieser besteht nicht nur darin, daß sich, vor allem durch die Ausbildung der Archäologie, unsere Kenntnis der Frühgeschichte erweitert hat und noch fortwährend ausdehnt, so daß nicht nur neues Licht auf die uns bekannten Kulturen fällt, sondern auch ganz unbekannte auftauchen. Dazu kommt der erstaunliche Einblick in die Vorgeschichte, der mehr als ein neues Feld: eine neue Dimension erschließt.",
+        "Je mehr Tatsachen anfallen, desto entschiedener muß der Geist auf seinem Herrschaftsanspruch, auf Ordnung und Benennung, bestehen. Vielleicht ist bereits der Andrang von Tatsachen ein Symptom der Schwächung, ein hellenistischer Zug. Der Geist wird zum Museumsdirektor, zum Kustos unkontrollierbarer Sammlungen.",
+        "Schon aus diesem Grunde ist Spenglers System mit seiner Einteilung in acht Kulturen dem Toynbees vorzuziehen, das sich auf deren einundzwanzig stützt. Auch diese Zahl könnte durch archäologische Ergebnisse und feinere Einteilung vermehrt werden. Es bleibt aber richtig, daß der Geist der Forschung die Aufträge erteilt, nicht umgekehrt. Tatsachen schaffen Belege, nicht Wahrheiten. Wo geforscht wird, wurde das Feld bereits durch geistige Vetos und Placets abgesteckt. Was gefunden wird, ist daher nicht zufällig."
+      ],
+      "en_paragraphs": [
+        "An ordering of human history under points of orientation lying outside the history of cultures and peoples, thus roughly similar to astrological ones, seems especially difficult today, even apart from the great influx of facts. This consists not only in the fact that, above all through the development of archaeology, our knowledge of early history has broadened and is still continuously broadening, so that not only does new light fall on the cultures known to us, but wholly unknown ones also emerge. To this is added the astonishing insight into prehistory, which opens up more than a new field: a new dimension.",
+        "The more facts accumulate, the more decisively spirit must insist on its claim to mastery, on order and naming. Perhaps the rush of facts is already a symptom of weakness, a Hellenistic trait. Spirit becomes a museum director, a curator of uncontrollable collections.",
+        "For this reason alone Spengler's system with its division into eight cultures is preferable to Toynbee's, which rests on twenty-one. This number too could be increased by archaeological findings and finer division. Yet it remains true that the spirit of research issues the assignments, not the other way round. Facts create evidence, not truths. Wherever research is done, the field has already been marked out by intellectual vetoes and assents. What is found is therefore not accidental."
+      ],
+      "paragraph_alignment": {
+        "de_count": 3,
+        "en_count": 3,
+        "aligned": true,
+        "row_count": 3
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/11-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:35",
+      "id": 35,
+      "label": "§35",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Spengler bezeichnet seine morphologische Geschichtslehre als »kopernikanische Entdeckung« im Reich der Geschichte. Dem läßt sich zustimmen, was ihren Rang, nicht aber, was die Qualität betrifft. Hinsichtlich dieser ist Spenglers Auffassung anderen Systemen, wie dem tychonischen, näher verwandt. Vor allem fehlt ihm die Unendlichkeit des kopernikanischen Raumes, den der Lichtstrahl geradlinig, ohne eine Grenze zu finden, durchfliegt.\n\nSpenglers Verdienst liegt darin, daß er den großen Gedanken der Entwicklung, wie Herder und Goethe sie verstanden, auf sein Geschichtsbild anwendet, und das zu einem Zeitpunkt, an dem dieser Gedanke durch Mißverständnis und Verflachung der Hegelschen Geschichtsphilosophie nicht nur im historischen Selbstbewußtsein der Gebildeten, sondern bis in die politische Praxis hinein zu einer Art von optimistischem Religionsersatz vereinfacht worden war.\n\nDemgegenüber ist Spenglers Geschichtsbild, vor allem hinsichtlich der Kulturprognose, mit Recht pessimistisch. Es führt von der Vorstellung der linearen und eo ipso aufsteigenden Entwicklung zu zyklischen Konfigurationen zurück. Dadurch übt es großen und wachsenden Einfluß aus.",
+      "en": "Spengler describes his morphological doctrine of history as a `Copernican discovery` in the realm of history. One may agree with this as regards its rank, but not as regards its quality. In this respect Spengler's conception is more closely related to other systems, such as the Tychonic. Above all, it lacks the infinity of Copernican space, through which the ray of light flies in a straight line without finding a boundary.\n\nSpengler's merit lies in his applying to his image of history the great idea of development as Herder and Goethe understood it, and doing so at a moment when that idea, through misunderstanding and flattening of Hegelian philosophy of history, had been simplified into a kind of optimistic substitute religion not only in the historical self-consciousness of the educated but right down into political practice.\n\nAgainst this, Spengler's image of history, especially with regard to cultural prognosis, is rightly pessimistic. It leads back from the idea of linear and eo ipso ascending development to cyclical configurations. Through that it exerts great and growing influence.",
+      "de_paragraphs": [
+        "Spengler bezeichnet seine morphologische Geschichtslehre als »kopernikanische Entdeckung« im Reich der Geschichte. Dem läßt sich zustimmen, was ihren Rang, nicht aber, was die Qualität betrifft. Hinsichtlich dieser ist Spenglers Auffassung anderen Systemen, wie dem tychonischen, näher verwandt. Vor allem fehlt ihm die Unendlichkeit des kopernikanischen Raumes, den der Lichtstrahl geradlinig, ohne eine Grenze zu finden, durchfliegt.",
+        "Spenglers Verdienst liegt darin, daß er den großen Gedanken der Entwicklung, wie Herder und Goethe sie verstanden, auf sein Geschichtsbild anwendet, und das zu einem Zeitpunkt, an dem dieser Gedanke durch Mißverständnis und Verflachung der Hegelschen Geschichtsphilosophie nicht nur im historischen Selbstbewußtsein der Gebildeten, sondern bis in die politische Praxis hinein zu einer Art von optimistischem Religionsersatz vereinfacht worden war.",
+        "Demgegenüber ist Spenglers Geschichtsbild, vor allem hinsichtlich der Kulturprognose, mit Recht pessimistisch. Es führt von der Vorstellung der linearen und eo ipso aufsteigenden Entwicklung zu zyklischen Konfigurationen zurück. Dadurch übt es großen und wachsenden Einfluß aus."
+      ],
+      "en_paragraphs": [
+        "Spengler describes his morphological doctrine of history as a `Copernican discovery` in the realm of history. One may agree with this as regards its rank, but not as regards its quality. In this respect Spengler's conception is more closely related to other systems, such as the Tychonic. Above all, it lacks the infinity of Copernican space, through which the ray of light flies in a straight line without finding a boundary.",
+        "Spengler's merit lies in his applying to his image of history the great idea of development as Herder and Goethe understood it, and doing so at a moment when that idea, through misunderstanding and flattening of Hegelian philosophy of history, had been simplified into a kind of optimistic substitute religion not only in the historical self-consciousness of the educated but right down into political practice.",
+        "Against this, Spengler's image of history, especially with regard to cultural prognosis, is rightly pessimistic. It leads back from the idea of linear and eo ipso ascending development to cyclical configurations. Through that it exerts great and growing influence."
+      ],
+      "paragraph_alignment": {
+        "de_count": 3,
+        "en_count": 3,
+        "aligned": true,
+        "row_count": 3
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/12-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:36",
+      "id": 36,
+      "label": "§36",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Daß auch dieses Geschichtsbild letzthin nicht befriedigt, berührt eine der Schattenseiten seiner Vorzüge. Es ist ein organisches Geschichtsbild: die Kulturen werden in ihm gezeichnet als mächtige Bäume; ihr Leben wird verfolgt vom unbewußten Keim bis zur bewußten Reife und zum Tode, den ein langes Absterben einleitet. Sie sind nicht weiter ausdeutbare Urbilder. Sie haben »keine Fenster«, wie Leibniz von der Monade sagt. Im Anblick endet die Frage nach dem Warum. Wir fragen auch nicht, warum ein Baum an einer bestimmten Stelle wächst und alt wird und warum dieser Baum gerade ein Ahorn oder eine Linde ist, obwohl zwischen Art und Standort Relationen in Menge bestehen.\n\nZuweilen verstärkt sich dieser Eindruck, wie beim Gang über eine Wiese, auf der Pilze in großen Individuen oder auch in Ringen aufwachsen und über Nacht vergehen. Der Anblick läßt fragen: Was war der Anflug, wo kommen die Sporen her?\n\nDie Weltgeschichte wird so zu einer Reihe von Auftritten, die einander nach unerklärlichem Belieben folgen und ohne inneren Zusammenhang. Das Verbindende liegt in der Periodizität der Abläufe und ihrer morphologischen Ähnlichkeit, die der physiognomische Blick erfaßt. Da wird auch Bedeutendes und Überraschendes gesehen, und zwar in einer Fülle, die sogleich verrät, daß es sich weniger um neue Funde handelt als um eine neue Optik, einen neuen Blick.\n\nWenn Spengler in der Einleitung zu seinem Hauptwerk sagt: »Das Mittel, lebendige Formen zu erkennen, ist die Analogie«, so rührt er damit das Wesen der physiognomischen Methodik an. Durch den Analogieschluß läßt sich in der Tat viel erreichen, unter anderem die Erfassung und Ordnung historischer Figuren unter der bloßen Oberflächenähnlichkeit der zeitlichen Gewänder und ferner die Einsicht in noch bevorstehende Abläufe aus der Kenntnis der Periodizität heraus: als Voraussage. Hier gewinnt der physiognomische Instinkt des Hinzutretenden prophetische Kraft.\n\nNun aber gehört es zu den Eigentümlichkeiten des menschlichen Geistes, daß ihn die Anordnung und Anreihung des Ähnlichen zwar stark beschäftigt, doch nicht befriedigt, solange die Frage nach der Quelle der Vergleiche und nach der gemeinsamen Komposition der Akte und Auftritte des großen Schauspiels offen bleibt. Die reine Vergleichung schafft Relationen, nicht Maßstäbe. Es bleibt die Frage nach der inneren Einheit der mannigfaltigen Erscheinungen und Abläufe über die Ähnlichkeit hinaus. Die Ähnlichkeit ist ja nicht nur ein unerschöpfliches Feld der Deutung, sondern weist auch auf unerschöpfliche Bedeutung hin, auf Schöpfung selbst.\n\nDieser zweiten Frage versagt sich Spengler; wir suchen vergebens eine Antwort bei ihm. So gleicht seine Morphologie der Weltgeschichte einem vorzüglichen Gruppenbild von acht Brüdern, die sowohl untereinander verschieden als einander ähnlich sind. Dürfte man noch den Vater kennen oder auch nur auf ihn schließen, so hätte man das innere Band.",
+      "en": "That this image of history too does not satisfy in the end touches one of the shadow-sides of its virtues. It is an organic image of history: cultures are drawn in it as mighty trees; their life is followed from the unconscious germ to conscious maturity and to death, which is ushered in by a long dying-off. They are primordial images not open to further interpretation. They have `no windows,` as Leibniz says of the monad. In the act of seeing, the question of why comes to an end. We do not ask either why a tree grows old in a particular place or why this tree is precisely a maple or a linden, although relations between species and site abound.\n\nAt times this impression grows stronger, as when one walks across a meadow on which mushrooms spring up in large individuals or in rings and pass away overnight. The sight prompts the question: What brought them here, where do the spores come from?\n\nWorld history thus becomes a series of appearances following one another at inexplicable whim and without inner connection. What binds them lies in the periodicity of the processes and in their morphological similarity, which the physiognomic gaze grasps. Significant and surprising things are indeed seen here, and in an abundance that at once betrays that it is less a matter of new finds than of a new optics, a new gaze.\n\nWhen Spengler says in the introduction to his major work, `The means of recognizing living forms is analogy,` he touches the essence of physiognomic method. Through analogical inference much can indeed be achieved, among other things the grasp and ordering of historical figures beneath the mere surface similarity of their temporal garments, and further the insight into processes still to come on the basis of knowledge of periodicity: as prediction. Here the physiognomic instinct of the one who comes in addition gains prophetic force.\n\nBut it belongs to the peculiarities of the human spirit that the ordering and lining-up of similars may occupy it intensely yet not satisfy it so long as the question of the source of the comparisons and of the common composition of the acts and appearances of the great spectacle remains open. Pure comparison creates relations, not standards. The question remains concerning the inner unity of the manifold appearances and processes beyond similarity. Similarity is not only an inexhaustible field of interpretation; it also points toward inexhaustible meaning, toward creation itself.\n\nSpengler refuses this second question; we seek an answer from him in vain. Thus his morphology of world-history resembles an excellent group portrait of eight brothers who are both different from one another and like one another. If one were still allowed to know the father, or even infer him, one would have the inner bond.",
+      "de_paragraphs": [
+        "Daß auch dieses Geschichtsbild letzthin nicht befriedigt, berührt eine der Schattenseiten seiner Vorzüge. Es ist ein organisches Geschichtsbild: die Kulturen werden in ihm gezeichnet als mächtige Bäume; ihr Leben wird verfolgt vom unbewußten Keim bis zur bewußten Reife und zum Tode, den ein langes Absterben einleitet. Sie sind nicht weiter ausdeutbare Urbilder. Sie haben »keine Fenster«, wie Leibniz von der Monade sagt. Im Anblick endet die Frage nach dem Warum. Wir fragen auch nicht, warum ein Baum an einer bestimmten Stelle wächst und alt wird und warum dieser Baum gerade ein Ahorn oder eine Linde ist, obwohl zwischen Art und Standort Relationen in Menge bestehen.",
+        "Zuweilen verstärkt sich dieser Eindruck, wie beim Gang über eine Wiese, auf der Pilze in großen Individuen oder auch in Ringen aufwachsen und über Nacht vergehen. Der Anblick läßt fragen: Was war der Anflug, wo kommen die Sporen her?",
+        "Die Weltgeschichte wird so zu einer Reihe von Auftritten, die einander nach unerklärlichem Belieben folgen und ohne inneren Zusammenhang. Das Verbindende liegt in der Periodizität der Abläufe und ihrer morphologischen Ähnlichkeit, die der physiognomische Blick erfaßt. Da wird auch Bedeutendes und Überraschendes gesehen, und zwar in einer Fülle, die sogleich verrät, daß es sich weniger um neue Funde handelt als um eine neue Optik, einen neuen Blick.",
+        "Wenn Spengler in der Einleitung zu seinem Hauptwerk sagt: »Das Mittel, lebendige Formen zu erkennen, ist die Analogie«, so rührt er damit das Wesen der physiognomischen Methodik an. Durch den Analogieschluß läßt sich in der Tat viel erreichen, unter anderem die Erfassung und Ordnung historischer Figuren unter der bloßen Oberflächenähnlichkeit der zeitlichen Gewänder und ferner die Einsicht in noch bevorstehende Abläufe aus der Kenntnis der Periodizität heraus: als Voraussage. Hier gewinnt der physiognomische Instinkt des Hinzutretenden prophetische Kraft.",
+        "Nun aber gehört es zu den Eigentümlichkeiten des menschlichen Geistes, daß ihn die Anordnung und Anreihung des Ähnlichen zwar stark beschäftigt, doch nicht befriedigt, solange die Frage nach der Quelle der Vergleiche und nach der gemeinsamen Komposition der Akte und Auftritte des großen Schauspiels offen bleibt. Die reine Vergleichung schafft Relationen, nicht Maßstäbe. Es bleibt die Frage nach der inneren Einheit der mannigfaltigen Erscheinungen und Abläufe über die Ähnlichkeit hinaus. Die Ähnlichkeit ist ja nicht nur ein unerschöpfliches Feld der Deutung, sondern weist auch auf unerschöpfliche Bedeutung hin, auf Schöpfung selbst.",
+        "Dieser zweiten Frage versagt sich Spengler; wir suchen vergebens eine Antwort bei ihm. So gleicht seine Morphologie der Weltgeschichte einem vorzüglichen Gruppenbild von acht Brüdern, die sowohl untereinander verschieden als einander ähnlich sind. Dürfte man noch den Vater kennen oder auch nur auf ihn schließen, so hätte man das innere Band."
+      ],
+      "en_paragraphs": [
+        "That this image of history too does not satisfy in the end touches one of the shadow-sides of its virtues. It is an organic image of history: cultures are drawn in it as mighty trees; their life is followed from the unconscious germ to conscious maturity and to death, which is ushered in by a long dying-off. They are primordial images not open to further interpretation. They have `no windows,` as Leibniz says of the monad. In the act of seeing, the question of why comes to an end. We do not ask either why a tree grows old in a particular place or why this tree is precisely a maple or a linden, although relations between species and site abound.",
+        "At times this impression grows stronger, as when one walks across a meadow on which mushrooms spring up in large individuals or in rings and pass away overnight. The sight prompts the question: What brought them here, where do the spores come from?",
+        "World history thus becomes a series of appearances following one another at inexplicable whim and without inner connection. What binds them lies in the periodicity of the processes and in their morphological similarity, which the physiognomic gaze grasps. Significant and surprising things are indeed seen here, and in an abundance that at once betrays that it is less a matter of new finds than of a new optics, a new gaze.",
+        "When Spengler says in the introduction to his major work, `The means of recognizing living forms is analogy,` he touches the essence of physiognomic method. Through analogical inference much can indeed be achieved, among other things the grasp and ordering of historical figures beneath the mere surface similarity of their temporal garments, and further the insight into processes still to come on the basis of knowledge of periodicity: as prediction. Here the physiognomic instinct of the one who comes in addition gains prophetic force.",
+        "But it belongs to the peculiarities of the human spirit that the ordering and lining-up of similars may occupy it intensely yet not satisfy it so long as the question of the source of the comparisons and of the common composition of the acts and appearances of the great spectacle remains open. Pure comparison creates relations, not standards. The question remains concerning the inner unity of the manifold appearances and processes beyond similarity. Similarity is not only an inexhaustible field of interpretation; it also points toward inexhaustible meaning, toward creation itself.",
+        "Spengler refuses this second question; we seek an answer from him in vain. Thus his morphology of world-history resembles an excellent group portrait of eight brothers who are both different from one another and like one another. If one were still allowed to know the father, or even infer him, one would have the inner bond."
+      ],
+      "paragraph_alignment": {
+        "de_count": 6,
+        "en_count": 6,
+        "aligned": true,
+        "row_count": 6
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/12-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:37",
+      "id": 37,
+      "label": "§37",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Die Frage nach dem Weltplan oder dem Weltsinn, sei er göttlicher, sittlicher oder materieller Natur, wird also von Spengler nicht beantwortet. Seine Morphologie gleicht einem Palast, dem das oberste Stockwerk fehlt. Das nimmt ihr nichts von ihrer morphologischen Größe, führt aber nicht aus dem Vergleichbaren ins Unvergleichliche hinaus. Von dort, so vermuten wir, kommen die Aufträge.\n\nSpengler zitiert in diesem Zusammenhang ein Goethewort: der Sinn des Lebens sei das Leben selbst. Das ist ein vieldeutiger Spruch. Die Vergleichung der Kulturen mit tausendjährigen Bäumen hätte vermutlich Goethes ungeteilten Beifall gefunden; in dieser Hinsicht beruft Spengler sich auf ihn mit Recht. Zudem jedoch ist Goethes morphologisches Genie durch ein synoptisches erhöht. Er hätte bei gleichem Unterfangen die Bäume nicht nur in ihrer Mannigfaltigkeit, sondern auch in ihrer Einheit, als Urpflanze, zu erfassen versucht. Die Hauptgefahr der Morphologie liegt darin, daß man den Wald vor Bäumen nicht sieht.\n\nDas Wort »Weltplan« wird von Spengler in Anführungszeichen gesetzt. Er wirft den Philosophen vor, daß sie als dessen Urheber »Gott bemühen«. Trotzdem bleibt der Weltplan der große Gedanke, der Herders Geschichtsbild sinnvoll zusammenhält. Das gleiche gilt für Hegels Deutung der Geschichte als der Selbstentfaltung des Weltgeistes.\n\nIn solchen Konzeptionen liegt mehr als die Befriedigung der betrachtenden Vernunft durch letzte Siegel – sie besitzen einen weisenden, fordernden Zug, der sie mit dem Verhalten des Menschen sinnvoll verknüpft, ihm Bahn und Richtung gibt.\n\nDiese Überlegenheit ist an Hegels System zu verfolgen bis zu den materialistischen Schulen, die sich von ihm abzweigen. Das ist einer der Gründe, aus denen der materialistische Optimismus sich im politischen Machtkampf den Kräften gegenüber durchsetzt, die ihr theoretisches Rüstzeug aus biologischen Vorstellungen beziehen. Eines festen Punktes, wie Archimedes, bedarf auch der, der die politische Welt aus den Angeln heben will, und diese Voraussetzung kündet sich bereits in den Denkstilen an.",
+      "en": "The question of the world-plan or the world-meaning, whether of divine, ethical, or material nature, is therefore not answered by Spengler. His morphology resembles a palace lacking its top story. That detracts nothing from its morphological greatness, but it does not lead out from the comparable into the incomparable. From there, we suspect, the assignments come.\n\nIn this connection Spengler cites a saying of Goethe's: the meaning of life is life itself. That is an ambiguous saying. The comparison of cultures with thousand-year trees would presumably have found Goethe's undivided approval; in this respect Spengler appeals to him rightly. In addition, however, Goethe's morphological genius is heightened by a synoptic one. In the same undertaking he would have tried to grasp the trees not only in their multiplicity but also in their unity, as `Urpflanze`. The chief danger of morphology lies in not seeing the forest for the trees.\n\nSpengler places the word `world-plan` in quotation marks. He reproaches philosophers with `enlisting God` as its author. Yet the world-plan remains the great thought that meaningfully holds Herder's image of history together. The same is true of Hegel's interpretation of history as the self-unfolding of world-spirit.\n\nIn such conceptions there lies more than the satisfaction of contemplative reason by final seals: they possess a directive, demanding trait that meaningfully links them with man's conduct and gives him path and direction.\n\nThis superiority can be traced in Hegel's system down into the materialist schools that branch off from him. That is one of the reasons materialist optimism prevails in political power struggle against the forces that derive their theoretical armament from biological conceptions. A fixed point, like Archimedes', is needed even by one who would lift the political world from its hinges, and this prerequisite already announces itself in styles of thought.",
+      "de_paragraphs": [
+        "Die Frage nach dem Weltplan oder dem Weltsinn, sei er göttlicher, sittlicher oder materieller Natur, wird also von Spengler nicht beantwortet. Seine Morphologie gleicht einem Palast, dem das oberste Stockwerk fehlt. Das nimmt ihr nichts von ihrer morphologischen Größe, führt aber nicht aus dem Vergleichbaren ins Unvergleichliche hinaus. Von dort, so vermuten wir, kommen die Aufträge.",
+        "Spengler zitiert in diesem Zusammenhang ein Goethewort: der Sinn des Lebens sei das Leben selbst. Das ist ein vieldeutiger Spruch. Die Vergleichung der Kulturen mit tausendjährigen Bäumen hätte vermutlich Goethes ungeteilten Beifall gefunden; in dieser Hinsicht beruft Spengler sich auf ihn mit Recht. Zudem jedoch ist Goethes morphologisches Genie durch ein synoptisches erhöht. Er hätte bei gleichem Unterfangen die Bäume nicht nur in ihrer Mannigfaltigkeit, sondern auch in ihrer Einheit, als Urpflanze, zu erfassen versucht. Die Hauptgefahr der Morphologie liegt darin, daß man den Wald vor Bäumen nicht sieht.",
+        "Das Wort »Weltplan« wird von Spengler in Anführungszeichen gesetzt. Er wirft den Philosophen vor, daß sie als dessen Urheber »Gott bemühen«. Trotzdem bleibt der Weltplan der große Gedanke, der Herders Geschichtsbild sinnvoll zusammenhält. Das gleiche gilt für Hegels Deutung der Geschichte als der Selbstentfaltung des Weltgeistes.",
+        "In solchen Konzeptionen liegt mehr als die Befriedigung der betrachtenden Vernunft durch letzte Siegel – sie besitzen einen weisenden, fordernden Zug, der sie mit dem Verhalten des Menschen sinnvoll verknüpft, ihm Bahn und Richtung gibt.",
+        "Diese Überlegenheit ist an Hegels System zu verfolgen bis zu den materialistischen Schulen, die sich von ihm abzweigen. Das ist einer der Gründe, aus denen der materialistische Optimismus sich im politischen Machtkampf den Kräften gegenüber durchsetzt, die ihr theoretisches Rüstzeug aus biologischen Vorstellungen beziehen. Eines festen Punktes, wie Archimedes, bedarf auch der, der die politische Welt aus den Angeln heben will, und diese Voraussetzung kündet sich bereits in den Denkstilen an."
+      ],
+      "en_paragraphs": [
+        "The question of the world-plan or the world-meaning, whether of divine, ethical, or material nature, is therefore not answered by Spengler. His morphology resembles a palace lacking its top story. That detracts nothing from its morphological greatness, but it does not lead out from the comparable into the incomparable. From there, we suspect, the assignments come.",
+        "In this connection Spengler cites a saying of Goethe's: the meaning of life is life itself. That is an ambiguous saying. The comparison of cultures with thousand-year trees would presumably have found Goethe's undivided approval; in this respect Spengler appeals to him rightly. In addition, however, Goethe's morphological genius is heightened by a synoptic one. In the same undertaking he would have tried to grasp the trees not only in their multiplicity but also in their unity, as `Urpflanze`. The chief danger of morphology lies in not seeing the forest for the trees.",
+        "Spengler places the word `world-plan` in quotation marks. He reproaches philosophers with `enlisting God` as its author. Yet the world-plan remains the great thought that meaningfully holds Herder's image of history together. The same is true of Hegel's interpretation of history as the self-unfolding of world-spirit.",
+        "In such conceptions there lies more than the satisfaction of contemplative reason by final seals: they possess a directive, demanding trait that meaningfully links them with man's conduct and gives him path and direction.",
+        "This superiority can be traced in Hegel's system down into the materialist schools that branch off from him. That is one of the reasons materialist optimism prevails in political power struggle against the forces that derive their theoretical armament from biological conceptions. A fixed point, like Archimedes', is needed even by one who would lift the political world from its hinges, and this prerequisite already announces itself in styles of thought."
+      ],
+      "paragraph_alignment": {
+        "de_count": 5,
+        "en_count": 5,
+        "aligned": true,
+        "row_count": 5
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/12-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:38",
+      "id": 38,
+      "label": "§38",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Die Astrologie gibt das Muster einer Methodik, die das Leben mit größeren Abläufen verknüpft. Sie greift weit über die biologisch-historische Erfassung sowohl der Einzelnen als auch der Kulturen hinaus. Ihre Vorstellung, ihr Symbol, das Horoskop, ist zyklisch, und da es sich auf den größten und ältesten Umlauf bezieht, den wir kennen, genügt ihr eine einzige und unveränderliche Uhr zur Ablesung dessen, »was die Stunde geschlagen hat«. Dieser Zyklus setzt dem Astrologen zugleich die meßbare astronomische und die zu deutende Schicksalszeit. Logos und Nomos werden in Beziehung gesetzt, ja ausgetauscht, und schmelzen für den deutenden Blick ineinander ein.\n\nDie Zuversicht auf Wiederkehr bestätigt das Sein und auch die Sicherheit in ihm ganz anders als das Bild der endlosen, sei es auch aufsteigenden, Bahn. Sie läßt vermuten, daß andere Maße, andere Pläne als die der menschlichen Berechnung mitbestimmen, mitwirken und daß sich der menschliche Plan in einem größeren Rahmen bewegt. Das ist besonders wichtig in Zeiten, in denen die Bewegung uferlos und höchst gefährlich zu werden scheint. Auch darin liegt ein Hinweis auf die wachsende Anziehungskraft der Sterndeutung.\n\nEine nicht näher zu berührende Frage ist die nach den Mächten, die die Deutung bestimmen oder von denen der Deuter bestimmt zu werden glaubt. Gleichviel ob er Gesetze oder prägende Mächte aus der Umdrehung des Schicksalsrades zu erraten meint – sein Blick richtet sich auf eine zwar verschleierte, doch ohne Zweifel wirksame Welt. Das ist erstaunlich in einer Zeit, in der die Theologie in immer größerem Umfang sich der reinen Ethik zuzuwenden beginnt. Noch erstaunlicher ist der Umstand, daß es sich nicht um wie Schnee in der Sonne der praktischen Vernunft dahinschmelzende Reste, um »Tibetanisches«, handelt, sondern um Auswachsendes.\n\nAn das Erscheinen, nicht an die Erscheinung dieser Bewegung knüpft sich die Untersuchung an, also an ihren Standort, der selbst ein sich regender ist, wie ein Grund, der aus der Tiefsee sich in die Höhe wölbt. Demgegenüber ist unbedeutend, was auf ihm wächst. Mißverständnissen läßt sich dabei nicht ausweichen.\n\nDer eigentliche Wert einer solchen Bewegung, einer solchen Beunruhigung liegt nicht darin, daß sie »stimmt«. Er liegt vielmehr darin, daß Geisteskräfte ins Treffen geführt werden, die lange brachgelegen haben, ja weithin verkümmert sind und deren Absterben den Planeten zu veröden droht.\n\nDarin, und nicht in der physischen Bedrohung, die sekundär ist, oft sogar heilsam, liegt die Gefahr.",
+      "en": "Astrology provides the pattern of a methodology linking life with larger processes. It reaches far beyond the biological-historical apprehension of both individuals and cultures. Its figure, its symbol, the horoscope, is cyclical, and since it refers to the greatest and oldest circuit we know, a single unalterable clock suffices it for reading off `what hour has struck.` This cycle sets before the astrologer at once measurable astronomical time and the fateful time to be interpreted. `Logos` and `Nomos` are brought into relation, indeed exchanged, and melt into one another for the interpreting gaze.\n\nConfidence in return confirms being, and confidence within it, quite differently from the image of the endless path, even if rising. It lets one surmise that measures and plans other than those of human calculation help determine and take effect, and that the human plan moves within a larger frame. That is especially important in times when the movement seems in danger of becoming shoreless and exceedingly dangerous. Here too lies an indication of the growing attraction of star-divination.\n\nOne question not to be pursued further concerns the powers that determine interpretation or by which the interpreter believes himself determined. Whether he thinks he divines laws or shaping powers from the turning of the wheel of fate, his gaze is directed toward a world that is veiled, yet without doubt effective. That is astonishing in an age in which theology is beginning, to an ever greater extent, to turn toward pure ethics. More astonishing still is the fact that what is involved is not remnants, `Tibetan things,` melting away like snow in the sun of practical reason, but something growing forth.\n\nThe inquiry attaches itself to the appearing, not the appearance, of this movement, that is, to its site, which is itself a stirring one, like a shoal rising upward from the deep sea. Compared with that, what grows upon it is unimportant. Misunderstandings cannot be avoided here.\n\nThe real value of such a movement, of such a disturbance, does not lie in the fact that it `is right.` It lies rather in the fact that powers of mind are brought into play that have long lain fallow, indeed have in large part atrophied, and whose dying off threatens to leave the planet desolate.\n\nTherein, and not in the physical threat, which is secondary and often even salutary, lies the danger.",
+      "de_paragraphs": [
+        "Die Astrologie gibt das Muster einer Methodik, die das Leben mit größeren Abläufen verknüpft. Sie greift weit über die biologisch-historische Erfassung sowohl der Einzelnen als auch der Kulturen hinaus. Ihre Vorstellung, ihr Symbol, das Horoskop, ist zyklisch, und da es sich auf den größten und ältesten Umlauf bezieht, den wir kennen, genügt ihr eine einzige und unveränderliche Uhr zur Ablesung dessen, »was die Stunde geschlagen hat«. Dieser Zyklus setzt dem Astrologen zugleich die meßbare astronomische und die zu deutende Schicksalszeit. Logos und Nomos werden in Beziehung gesetzt, ja ausgetauscht, und schmelzen für den deutenden Blick ineinander ein.",
+        "Die Zuversicht auf Wiederkehr bestätigt das Sein und auch die Sicherheit in ihm ganz anders als das Bild der endlosen, sei es auch aufsteigenden, Bahn. Sie läßt vermuten, daß andere Maße, andere Pläne als die der menschlichen Berechnung mitbestimmen, mitwirken und daß sich der menschliche Plan in einem größeren Rahmen bewegt. Das ist besonders wichtig in Zeiten, in denen die Bewegung uferlos und höchst gefährlich zu werden scheint. Auch darin liegt ein Hinweis auf die wachsende Anziehungskraft der Sterndeutung.",
+        "Eine nicht näher zu berührende Frage ist die nach den Mächten, die die Deutung bestimmen oder von denen der Deuter bestimmt zu werden glaubt. Gleichviel ob er Gesetze oder prägende Mächte aus der Umdrehung des Schicksalsrades zu erraten meint – sein Blick richtet sich auf eine zwar verschleierte, doch ohne Zweifel wirksame Welt. Das ist erstaunlich in einer Zeit, in der die Theologie in immer größerem Umfang sich der reinen Ethik zuzuwenden beginnt. Noch erstaunlicher ist der Umstand, daß es sich nicht um wie Schnee in der Sonne der praktischen Vernunft dahinschmelzende Reste, um »Tibetanisches«, handelt, sondern um Auswachsendes.",
+        "An das Erscheinen, nicht an die Erscheinung dieser Bewegung knüpft sich die Untersuchung an, also an ihren Standort, der selbst ein sich regender ist, wie ein Grund, der aus der Tiefsee sich in die Höhe wölbt. Demgegenüber ist unbedeutend, was auf ihm wächst. Mißverständnissen läßt sich dabei nicht ausweichen.",
+        "Der eigentliche Wert einer solchen Bewegung, einer solchen Beunruhigung liegt nicht darin, daß sie »stimmt«. Er liegt vielmehr darin, daß Geisteskräfte ins Treffen geführt werden, die lange brachgelegen haben, ja weithin verkümmert sind und deren Absterben den Planeten zu veröden droht.",
+        "Darin, und nicht in der physischen Bedrohung, die sekundär ist, oft sogar heilsam, liegt die Gefahr."
+      ],
+      "en_paragraphs": [
+        "Astrology provides the pattern of a methodology linking life with larger processes. It reaches far beyond the biological-historical apprehension of both individuals and cultures. Its figure, its symbol, the horoscope, is cyclical, and since it refers to the greatest and oldest circuit we know, a single unalterable clock suffices it for reading off `what hour has struck.` This cycle sets before the astrologer at once measurable astronomical time and the fateful time to be interpreted. `Logos` and `Nomos` are brought into relation, indeed exchanged, and melt into one another for the interpreting gaze.",
+        "Confidence in return confirms being, and confidence within it, quite differently from the image of the endless path, even if rising. It lets one surmise that measures and plans other than those of human calculation help determine and take effect, and that the human plan moves within a larger frame. That is especially important in times when the movement seems in danger of becoming shoreless and exceedingly dangerous. Here too lies an indication of the growing attraction of star-divination.",
+        "One question not to be pursued further concerns the powers that determine interpretation or by which the interpreter believes himself determined. Whether he thinks he divines laws or shaping powers from the turning of the wheel of fate, his gaze is directed toward a world that is veiled, yet without doubt effective. That is astonishing in an age in which theology is beginning, to an ever greater extent, to turn toward pure ethics. More astonishing still is the fact that what is involved is not remnants, `Tibetan things,` melting away like snow in the sun of practical reason, but something growing forth.",
+        "The inquiry attaches itself to the appearing, not the appearance, of this movement, that is, to its site, which is itself a stirring one, like a shoal rising upward from the deep sea. Compared with that, what grows upon it is unimportant. Misunderstandings cannot be avoided here.",
+        "The real value of such a movement, of such a disturbance, does not lie in the fact that it `is right.` It lies rather in the fact that powers of mind are brought into play that have long lain fallow, indeed have in large part atrophied, and whose dying off threatens to leave the planet desolate.",
+        "Therein, and not in the physical threat, which is secondary and often even salutary, lies the danger."
+      ],
+      "paragraph_alignment": {
+        "de_count": 6,
+        "en_count": 6,
+        "aligned": true,
+        "row_count": 6
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/13-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:39",
+      "id": 39,
+      "label": "§39",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Zu den Verdiensten Spenglers gehört, daß er eine Generation vom Vorurteil der Einmaligkeit, der Einzigartigkeit ihrer historischen Erscheinung und ihrer historischen Lage befreit hat, von jener Vorstellung des Niedagewesenen, wie sie besonders mit der Entwicklung der Technik und ihren überraschenden Phänomenen verbunden war.\n\nInsofern verrät sein vergleichender Blick, etwa auf ein Fußballstadion von 1914 oder die Feststellung, daß es sich bei dem Weltkrieg nicht um eine der üblichen Auseinandersetzungen zwischen Völkern handelte, sondern um den Typus einer Zeitwende, die seit Jahrhunderten ihren vorbestimmten Platz hatte, eine Lagebeurteilung, die dem bloßen Wechsel der Prospekte innerhalb des historischen Bewußtseins weit überlegen ist. Das war von besonderer Wirkung zu einem Zeitpunkt, da seit langem die philosophische, vor allem die erkenntniskritische, Disziplin aus den Einzelwissenschaften geschwunden war, gewichen der Überschätzung empirischer Abläufe und experimenteller Phänomene – von theologischen Erwägungen ganz abgesehen. In dieser Hinsicht bleibt unumstößlich Prediger 1, Vers 9,10.",
+      "en": "Among Spengler's merits is that he freed a generation from the prejudice of the singularity, the uniqueness, of its historical appearance and its historical situation, from that notion of the unprecedented as it was bound up above all with the development of technology and its surprising phenomena.\n\nTo that extent his comparative gaze, whether at a football stadium in 1914 or in the recognition that the world war was not one of the usual conflicts between peoples but the type of a turning point that had had its predetermined place for centuries, reveals an assessment of the situation far superior to the mere changing of prospects within historical consciousness. This had particular force at a moment when philosophical discipline, above all epistemologically critical discipline, had long since vanished from the special sciences, giving way to an overestimation of empirical processes and experimental phenomena, to say nothing of theological considerations. In this respect Ecclesiastes 1:9-10 remains unshakable.",
+      "de_paragraphs": [
+        "Zu den Verdiensten Spenglers gehört, daß er eine Generation vom Vorurteil der Einmaligkeit, der Einzigartigkeit ihrer historischen Erscheinung und ihrer historischen Lage befreit hat, von jener Vorstellung des Niedagewesenen, wie sie besonders mit der Entwicklung der Technik und ihren überraschenden Phänomenen verbunden war.",
+        "Insofern verrät sein vergleichender Blick, etwa auf ein Fußballstadion von 1914 oder die Feststellung, daß es sich bei dem Weltkrieg nicht um eine der üblichen Auseinandersetzungen zwischen Völkern handelte, sondern um den Typus einer Zeitwende, die seit Jahrhunderten ihren vorbestimmten Platz hatte, eine Lagebeurteilung, die dem bloßen Wechsel der Prospekte innerhalb des historischen Bewußtseins weit überlegen ist. Das war von besonderer Wirkung zu einem Zeitpunkt, da seit langem die philosophische, vor allem die erkenntniskritische, Disziplin aus den Einzelwissenschaften geschwunden war, gewichen der Überschätzung empirischer Abläufe und experimenteller Phänomene – von theologischen Erwägungen ganz abgesehen. In dieser Hinsicht bleibt unumstößlich Prediger 1, Vers 9,10."
+      ],
+      "en_paragraphs": [
+        "Among Spengler's merits is that he freed a generation from the prejudice of the singularity, the uniqueness, of its historical appearance and its historical situation, from that notion of the unprecedented as it was bound up above all with the development of technology and its surprising phenomena.",
+        "To that extent his comparative gaze, whether at a football stadium in 1914 or in the recognition that the world war was not one of the usual conflicts between peoples but the type of a turning point that had had its predetermined place for centuries, reveals an assessment of the situation far superior to the mere changing of prospects within historical consciousness. This had particular force at a moment when philosophical discipline, above all epistemologically critical discipline, had long since vanished from the special sciences, giving way to an overestimation of empirical processes and experimental phenomena, to say nothing of theological considerations. In this respect Ecclesiastes 1:9-10 remains unshakable."
+      ],
+      "paragraph_alignment": {
+        "de_count": 2,
+        "en_count": 2,
+        "aligned": true,
+        "row_count": 2
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/13-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:40",
+      "id": 40,
+      "label": "§40",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Spenglers Geschichtsbild wurde vor dem Ersten Weltkrieg konzipiert. Inzwischen haben Beschleunigung und Anfall von Tatsachen sich weiterhin gesteigert, und das in einem Maße, das den Strom der Zeit und ihres Geschehens zuweilen als Katarakt erscheinen läßt, der die Schiffe weniger trägt als mitreißt und bedroht.\n\nDie Weisheit des Ben Akiba, daß alles schon dagewesen sei, wird durch die Ereignisse und Gebilde, die sich vorstellen, auf das härteste erprobt. Damit erhöht sich die Verantwortung des betrachtenden und ordnenden Geistes und seiner Lagebeurteilung. Es wirft sich, unter anderem, die Frage auf, ob es sich überhaupt noch um ein Geschehen handelt, das durch historische Betrachtung und aus historischer Erfahrung heraus beurteilt werden kann. Auch dann wäre das Wort Ben Akibas nicht hinfällig. Es müßte aber außerhalb der Geschichte belegt werden: Wir würden dann Dinge wiederholen, für die der historische Vorgang fehlt.\n\nImmerhin war es eine gute Feststellung, daß wir nicht »im Zeitalter der Punischen Kriege«, wie viele glaubten, sondern in dem der Schlacht von Actium stehen, und ein politisches Genie, das mit zwingender Schärfe die Konsequenzen durchdacht hätte, würde uns wahrscheinlich viel Unangenehmes, und vor allem Umwege, erspart haben.\n\n»Ab 2000« würden wir demnach in einem weltfriedlichen Zeitalter mit Riesenstädten, hellenistischen Kunstwerken und machtvoll perfektionierter Technik stehen. Zum ersten Male wäre der Erdball in einer Hand; es gäbe keine »Ränder« im alten Sinne mehr. Die Parther dieses Imperiums würden an anderen, nur vermutbaren, Orten auftauchen. Schon Nietzsche sieht den Weltstaat und dann seinen Verfall voraus. Es kann nicht anders sein.\n\nDenn alles, was entsteht,\n\nIst wert, daß es zugrunde geht.\n\nDaher sind den Auskünften, die die reine Geschichtsbetrachtung gewähren kann, Grenzen gesetzt.",
+      "en": "Spengler's image of history was conceived before the First World War. Since then acceleration and the influx of facts have continued to intensify, and to such a degree that the stream of time and its events at times appears as a cataract that carries ships less than sweeps them away and threatens them.\n\nBen Akiba's wisdom, that everything has already been there before, is put to the hardest test by the events and formations that present themselves. With that the responsibility of the contemplating and ordering spirit, and of its assessment of the situation, increases. Among other things the question arises whether this is still a happening that can be judged through historical consideration and from out of historical experience. Even then Ben Akiba's word would not be invalid. But it would have to be grounded outside history: we would then be repeating things for which the historical process is lacking.\n\nStill, it was a good observation that we stand not `in the age of the Punic Wars,` as many believed, but in that of the Battle of Actium, and a political genius who had thought through the consequences with compelling sharpness would probably have spared us much unpleasantness and, above all, detours.\n\n`From 2000 onward` we would accordingly stand in an age of world peace with giant cities, Hellenistic works of art, and powerfully perfected technology. For the first time the globe would be in one hand; there would no longer be `edges` in the old sense. The Parthians of this empire would appear in other, only conjectured, places. Nietzsche already foresees the world-state and then its decay. It cannot be otherwise.\n\nFor everything that comes to be\n\ndeserves to perish.\n\nTherefore there are limits to the guidance that pure historical contemplation can provide.",
+      "de_paragraphs": [
+        "Spenglers Geschichtsbild wurde vor dem Ersten Weltkrieg konzipiert. Inzwischen haben Beschleunigung und Anfall von Tatsachen sich weiterhin gesteigert, und das in einem Maße, das den Strom der Zeit und ihres Geschehens zuweilen als Katarakt erscheinen läßt, der die Schiffe weniger trägt als mitreißt und bedroht.",
+        "Die Weisheit des Ben Akiba, daß alles schon dagewesen sei, wird durch die Ereignisse und Gebilde, die sich vorstellen, auf das härteste erprobt. Damit erhöht sich die Verantwortung des betrachtenden und ordnenden Geistes und seiner Lagebeurteilung. Es wirft sich, unter anderem, die Frage auf, ob es sich überhaupt noch um ein Geschehen handelt, das durch historische Betrachtung und aus historischer Erfahrung heraus beurteilt werden kann. Auch dann wäre das Wort Ben Akibas nicht hinfällig. Es müßte aber außerhalb der Geschichte belegt werden: Wir würden dann Dinge wiederholen, für die der historische Vorgang fehlt.",
+        "Immerhin war es eine gute Feststellung, daß wir nicht »im Zeitalter der Punischen Kriege«, wie viele glaubten, sondern in dem der Schlacht von Actium stehen, und ein politisches Genie, das mit zwingender Schärfe die Konsequenzen durchdacht hätte, würde uns wahrscheinlich viel Unangenehmes, und vor allem Umwege, erspart haben.",
+        "»Ab 2000« würden wir demnach in einem weltfriedlichen Zeitalter mit Riesenstädten, hellenistischen Kunstwerken und machtvoll perfektionierter Technik stehen. Zum ersten Male wäre der Erdball in einer Hand; es gäbe keine »Ränder« im alten Sinne mehr. Die Parther dieses Imperiums würden an anderen, nur vermutbaren, Orten auftauchen. Schon Nietzsche sieht den Weltstaat und dann seinen Verfall voraus. Es kann nicht anders sein.",
+        "Denn alles, was entsteht,",
+        "Ist wert, daß es zugrunde geht.",
+        "Daher sind den Auskünften, die die reine Geschichtsbetrachtung gewähren kann, Grenzen gesetzt."
+      ],
+      "en_paragraphs": [
+        "Spengler's image of history was conceived before the First World War. Since then acceleration and the influx of facts have continued to intensify, and to such a degree that the stream of time and its events at times appears as a cataract that carries ships less than sweeps them away and threatens them.",
+        "Ben Akiba's wisdom, that everything has already been there before, is put to the hardest test by the events and formations that present themselves. With that the responsibility of the contemplating and ordering spirit, and of its assessment of the situation, increases. Among other things the question arises whether this is still a happening that can be judged through historical consideration and from out of historical experience. Even then Ben Akiba's word would not be invalid. But it would have to be grounded outside history: we would then be repeating things for which the historical process is lacking.",
+        "Still, it was a good observation that we stand not `in the age of the Punic Wars,` as many believed, but in that of the Battle of Actium, and a political genius who had thought through the consequences with compelling sharpness would probably have spared us much unpleasantness and, above all, detours.",
+        "`From 2000 onward` we would accordingly stand in an age of world peace with giant cities, Hellenistic works of art, and powerfully perfected technology. For the first time the globe would be in one hand; there would no longer be `edges` in the old sense. The Parthians of this empire would appear in other, only conjectured, places. Nietzsche already foresees the world-state and then its decay. It cannot be otherwise.",
+        "For everything that comes to be",
+        "deserves to perish.",
+        "Therefore there are limits to the guidance that pure historical contemplation can provide."
+      ],
+      "paragraph_alignment": {
+        "de_count": 7,
+        "en_count": 7,
+        "aligned": true,
+        "row_count": 7
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/13-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:41",
+      "id": 41,
+      "label": "§41",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Spengler hat ohne Zweifel einen Turnus erfaßt, obwohl, wie gesagt, sein pluralistisches Bild in letzter Instanz nicht befriedigen kann. Es war daher vorauszusehen, daß es an Versuchen nicht fehlen würde, die Einheit der Weltgeschichte in der Betrachtung wiederherzustellen. Das wird der Geschichtschreibung aus eigenen Mitteln nicht möglich sein, wie es ihr auch niemals möglich gewesen ist. Sie muß dazu einen außerhalb der Geschichtswelt gelegenen archimedischen Punkt finden, sei es in der Theologie, sei es in der Metaphysik, sei es in der Materie.\n\nDer morphologischen Feststellung, die auch in unserem Zeitalter Wiederkehrendes erblickt, kann nur mit Einschränkung zugestimmt werden – insofern nämlich als, falls es sich um Wiederkehrendes handelt, der Turnus der historischen Zyklen dafür zu kurz ist und somit unsere geschichtliche Erfahrung zum Wiedererkennen nicht genügt.\n\nEs ist freilich immer gut und zeugt für geistigen Abstand, wenn man sich angesichts des Anfalls von Aktualitäten mit dem »Nil admirari« des Horaz oder dem »Alles ist dagewesen« des Ben Akiba rüstet, obwohl zugegeben werden muß, daß dieser Anfall, schon quantitativ gesehen, enorm ist, sowohl was die Masse als auch was den Schauplatz der Ereignisse betrifft. Dazu kommt ihre Beschleunigung in einer geometrischen Progression, die, wie der Sog eines Kataraktes, seit über hundertfünfzig Jahren die Ereignisse immer schneller, immer zwingender einander folgen läßt.\n\nNoch beunruhigender wirkt die Feststellung, daß dieser Anfall von Tatsachen ohne Zweifel auch eine qualitative Färbung besitzt. Die Dinge werden befremdend in einem Maße, für das der Vorgang fehlt. Das Wort »beunruhigend« ist hier nicht im gängigen Sinne gemeint; es muß zunächst von der Gefahr abstrahiert werden. Erst wo das gelingt, kann Stichfestes zur Zeit gesagt werden. Die Furcht vernebelt die Kontur. Auch Faszinierendes ist beunruhigend.\n\nDaß weite Gebiete durch Kriege verheert, entvölkert oder von Unholden beherrscht werden, ist kein historisches Novum, und auch die Mittel, deren man sich dazu bedient, kann man als akzidentell ansehen. Tamerlan dürfte so leicht nicht zu überbieten sein. Die Wirkungen des Dreißigjährigen Krieges auf die betroffenen Völker und ihre Kultur waren verhängnisvoller als die beider Weltkriege, während deren die Vermehrung der Erdbevölkerung sich fortsetzte und die Kapazität der zivilisatorischen Mittel und Methoden sich sprunghaft steigerte. Dieser Unterschied ist nicht zufällig.\n\nBeunruhigend im Sinne des Erstaunlichen und »Eintretenden« sind andere Wahrnehmungen, wie etwa, um ein Beispiel zu nennen, jene, daß sich die Spezies sowohl an sich als auch im Verhältnis der Geschlechter offensichtlich zu verändern beginnt, und das in einer Weise, für die es weder im historischen Nacheinander noch im ethnographischen Nebeneinander Vorgänge gibt. Das deutet auf Veränderungen, die im Turnus nicht zu belegen sind, falls sie sich nicht auf Kreisläufen abzeichnen, deren Bewegungen langfristiger als die der Kulturen oder überhaupt der Geschichtszeit sind.\n\nDem widerspricht nicht, daß auch der von Spengler aufgezeigte Turnus »stimmen« kann. Es bleibt aber evident, daß über die Möglichkeit des morphologischen Vergleichens und Wiedererkennens hinaus neuartige Elemente eintreten. Das läßt vermuten, daß zugleich mit dem historischen Turnus eine Spanne abgelaufen ist, die seinen Maßstab übergreift.\n\nMan kann sich das durch Zahlen veranschaulichen: Zugleich mit einem Jahrzehnt kann ein Jahrtausend, ein Jahrzehntausend oder ein noch größerer Turnus abgelaufen sein. Will man es räumlich sehen, so kann man sich vorstellen, daß ein Grenzbewohner mit einem Schritte sowohl aus seinem Zimmer wie aus seinem Hause und sogar aus seinem Lande heraustreten kann. Wir geben uns über solche Verhältnisse meist wenig Rechenschaft. Wir können die Wirbel eines Tieres durchzählen, ohne wahrzunehmen, daß sie hier einen Teil des Kopf- und dort des Rücken- oder Schwanzskeletts ausmachen. Je mechanischer wir zählen, desto weniger bemerken wir Übergänge dieser Art. Ähnlich verhält es sich mit dem Wechsel der Schicksalszeit unterhalb der Chronologie. Wir zählen weiter, ohne zu bemerken, daß sich nicht nur die Zahl, sondern auch das Wesen der Jahre verändert hat. Sie folgen sich, aber sie gleichen sich nicht mehr.",
+      "en": "Spengler has without doubt grasped a turnus, although, as said, his pluralist image cannot satisfy in the last instance. It was therefore foreseeable that attempts would not be lacking to restore the unity of world-history in contemplation. Historiography will not be able to do that from its own means, just as it has never been able to. For that it must find an Archimedean point lying outside the world of history, whether in theology, metaphysics, or matter.\n\nThe morphological finding that sees recurrent elements even in our own age can be assented to only with qualification - namely insofar as, if what is at issue is indeed recurrence, the turnus of historical cycles is too short for it, and thus our historical experience does not suffice for recognition.\n\nTo be sure, it is always good, and testifies to intellectual distance, to arm oneself in the face of the influx of current events with Horace's `nil admirari` or Ben Akiba's `everything has been there before,` although one must admit that this influx, even quantitatively considered, is enormous, both as regards the mass and the theater of events. To this is added their acceleration in a geometric progression, which, like the suction of a cataract, has for over a hundred and fifty years driven events to follow one another ever more rapidly and more compulsively.\n\nStill more unsettling is the observation that this influx of facts undoubtedly also has a qualitative coloring. Things become uncanny to a degree for which the process is lacking. The word `unsettling` is not meant here in the usual sense; one must first abstract from danger. Only where that succeeds can anything solid be said about the time. Fear fogs the contour. What fascinates is unsettling too.\n\nThat wide regions are devastated by wars, depopulated, or ruled by monsters is no historical novelty, and the means used to that end can also be regarded as accidental. Tamerlane is hardly easy to surpass. The effects of the Thirty Years' War on the peoples affected and on their culture were more disastrous than those of both world wars, during which the multiplication of the earth's population continued and the capacity of civilizational means and methods increased by leaps. This difference is not accidental.\n\nUnsettling in the sense of the astonishing and the `entering` are other perceptions, for example the observation that the species both in itself and in the relation of the sexes is obviously beginning to change, and in a way for which there are neither processes in historical succession nor in ethnographic coexistence. This points to changes that cannot be demonstrated in the turnus, unless they are traced on cycles whose movements are longer-term than those of cultures or of historical time in general.\n\nThis does not contradict the fact that the turnus pointed out by Spengler may also `be right.` But it remains evident that beyond the possibility of morphological comparison and recognition, novel elements are entering. This suggests that together with the historical turnus a span has elapsed that exceeds its measure.\n\nOne can make this vivid by numbers: together with a decade, a millennium, a ten-thousand-year span, or a still larger turnus may have elapsed. If one wants to see it spatially, one may imagine that a border-dweller can with a single step leave not only his room but his house and even his country. We usually give ourselves little account of such relations. We can count the vertebrae of an animal without noticing that here they make up part of the skull and there part of the spine or tail skeleton. The more mechanically we count, the less we notice transitions of this kind. Something similar holds for the change of fateful time beneath chronology. We go on counting without noticing that not only the number but the essence of the years has changed. They follow one another, but they no longer resemble one another.",
+      "de_paragraphs": [
+        "Spengler hat ohne Zweifel einen Turnus erfaßt, obwohl, wie gesagt, sein pluralistisches Bild in letzter Instanz nicht befriedigen kann. Es war daher vorauszusehen, daß es an Versuchen nicht fehlen würde, die Einheit der Weltgeschichte in der Betrachtung wiederherzustellen. Das wird der Geschichtschreibung aus eigenen Mitteln nicht möglich sein, wie es ihr auch niemals möglich gewesen ist. Sie muß dazu einen außerhalb der Geschichtswelt gelegenen archimedischen Punkt finden, sei es in der Theologie, sei es in der Metaphysik, sei es in der Materie.",
+        "Der morphologischen Feststellung, die auch in unserem Zeitalter Wiederkehrendes erblickt, kann nur mit Einschränkung zugestimmt werden – insofern nämlich als, falls es sich um Wiederkehrendes handelt, der Turnus der historischen Zyklen dafür zu kurz ist und somit unsere geschichtliche Erfahrung zum Wiedererkennen nicht genügt.",
+        "Es ist freilich immer gut und zeugt für geistigen Abstand, wenn man sich angesichts des Anfalls von Aktualitäten mit dem »Nil admirari« des Horaz oder dem »Alles ist dagewesen« des Ben Akiba rüstet, obwohl zugegeben werden muß, daß dieser Anfall, schon quantitativ gesehen, enorm ist, sowohl was die Masse als auch was den Schauplatz der Ereignisse betrifft. Dazu kommt ihre Beschleunigung in einer geometrischen Progression, die, wie der Sog eines Kataraktes, seit über hundertfünfzig Jahren die Ereignisse immer schneller, immer zwingender einander folgen läßt.",
+        "Noch beunruhigender wirkt die Feststellung, daß dieser Anfall von Tatsachen ohne Zweifel auch eine qualitative Färbung besitzt. Die Dinge werden befremdend in einem Maße, für das der Vorgang fehlt. Das Wort »beunruhigend« ist hier nicht im gängigen Sinne gemeint; es muß zunächst von der Gefahr abstrahiert werden. Erst wo das gelingt, kann Stichfestes zur Zeit gesagt werden. Die Furcht vernebelt die Kontur. Auch Faszinierendes ist beunruhigend.",
+        "Daß weite Gebiete durch Kriege verheert, entvölkert oder von Unholden beherrscht werden, ist kein historisches Novum, und auch die Mittel, deren man sich dazu bedient, kann man als akzidentell ansehen. Tamerlan dürfte so leicht nicht zu überbieten sein. Die Wirkungen des Dreißigjährigen Krieges auf die betroffenen Völker und ihre Kultur waren verhängnisvoller als die beider Weltkriege, während deren die Vermehrung der Erdbevölkerung sich fortsetzte und die Kapazität der zivilisatorischen Mittel und Methoden sich sprunghaft steigerte. Dieser Unterschied ist nicht zufällig.",
+        "Beunruhigend im Sinne des Erstaunlichen und »Eintretenden« sind andere Wahrnehmungen, wie etwa, um ein Beispiel zu nennen, jene, daß sich die Spezies sowohl an sich als auch im Verhältnis der Geschlechter offensichtlich zu verändern beginnt, und das in einer Weise, für die es weder im historischen Nacheinander noch im ethnographischen Nebeneinander Vorgänge gibt. Das deutet auf Veränderungen, die im Turnus nicht zu belegen sind, falls sie sich nicht auf Kreisläufen abzeichnen, deren Bewegungen langfristiger als die der Kulturen oder überhaupt der Geschichtszeit sind.",
+        "Dem widerspricht nicht, daß auch der von Spengler aufgezeigte Turnus »stimmen« kann. Es bleibt aber evident, daß über die Möglichkeit des morphologischen Vergleichens und Wiedererkennens hinaus neuartige Elemente eintreten. Das läßt vermuten, daß zugleich mit dem historischen Turnus eine Spanne abgelaufen ist, die seinen Maßstab übergreift.",
+        "Man kann sich das durch Zahlen veranschaulichen: Zugleich mit einem Jahrzehnt kann ein Jahrtausend, ein Jahrzehntausend oder ein noch größerer Turnus abgelaufen sein. Will man es räumlich sehen, so kann man sich vorstellen, daß ein Grenzbewohner mit einem Schritte sowohl aus seinem Zimmer wie aus seinem Hause und sogar aus seinem Lande heraustreten kann. Wir geben uns über solche Verhältnisse meist wenig Rechenschaft. Wir können die Wirbel eines Tieres durchzählen, ohne wahrzunehmen, daß sie hier einen Teil des Kopf- und dort des Rücken- oder Schwanzskeletts ausmachen. Je mechanischer wir zählen, desto weniger bemerken wir Übergänge dieser Art. Ähnlich verhält es sich mit dem Wechsel der Schicksalszeit unterhalb der Chronologie. Wir zählen weiter, ohne zu bemerken, daß sich nicht nur die Zahl, sondern auch das Wesen der Jahre verändert hat. Sie folgen sich, aber sie gleichen sich nicht mehr."
+      ],
+      "en_paragraphs": [
+        "Spengler has without doubt grasped a turnus, although, as said, his pluralist image cannot satisfy in the last instance. It was therefore foreseeable that attempts would not be lacking to restore the unity of world-history in contemplation. Historiography will not be able to do that from its own means, just as it has never been able to. For that it must find an Archimedean point lying outside the world of history, whether in theology, metaphysics, or matter.",
+        "The morphological finding that sees recurrent elements even in our own age can be assented to only with qualification - namely insofar as, if what is at issue is indeed recurrence, the turnus of historical cycles is too short for it, and thus our historical experience does not suffice for recognition.",
+        "To be sure, it is always good, and testifies to intellectual distance, to arm oneself in the face of the influx of current events with Horace's `nil admirari` or Ben Akiba's `everything has been there before,` although one must admit that this influx, even quantitatively considered, is enormous, both as regards the mass and the theater of events. To this is added their acceleration in a geometric progression, which, like the suction of a cataract, has for over a hundred and fifty years driven events to follow one another ever more rapidly and more compulsively.",
+        "Still more unsettling is the observation that this influx of facts undoubtedly also has a qualitative coloring. Things become uncanny to a degree for which the process is lacking. The word `unsettling` is not meant here in the usual sense; one must first abstract from danger. Only where that succeeds can anything solid be said about the time. Fear fogs the contour. What fascinates is unsettling too.",
+        "That wide regions are devastated by wars, depopulated, or ruled by monsters is no historical novelty, and the means used to that end can also be regarded as accidental. Tamerlane is hardly easy to surpass. The effects of the Thirty Years' War on the peoples affected and on their culture were more disastrous than those of both world wars, during which the multiplication of the earth's population continued and the capacity of civilizational means and methods increased by leaps. This difference is not accidental.",
+        "Unsettling in the sense of the astonishing and the `entering` are other perceptions, for example the observation that the species both in itself and in the relation of the sexes is obviously beginning to change, and in a way for which there are neither processes in historical succession nor in ethnographic coexistence. This points to changes that cannot be demonstrated in the turnus, unless they are traced on cycles whose movements are longer-term than those of cultures or of historical time in general.",
+        "This does not contradict the fact that the turnus pointed out by Spengler may also `be right.` But it remains evident that beyond the possibility of morphological comparison and recognition, novel elements are entering. This suggests that together with the historical turnus a span has elapsed that exceeds its measure.",
+        "One can make this vivid by numbers: together with a decade, a millennium, a ten-thousand-year span, or a still larger turnus may have elapsed. If one wants to see it spatially, one may imagine that a border-dweller can with a single step leave not only his room but his house and even his country. We usually give ourselves little account of such relations. We can count the vertebrae of an animal without noticing that here they make up part of the skull and there part of the spine or tail skeleton. The more mechanically we count, the less we notice transitions of this kind. Something similar holds for the change of fateful time beneath chronology. We go on counting without noticing that not only the number but the essence of the years has changed. They follow one another, but they no longer resemble one another."
+      ],
+      "paragraph_alignment": {
+        "de_count": 8,
+        "en_count": 8,
+        "aligned": true,
+        "row_count": 8
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/14-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:42",
+      "id": 42,
+      "label": "§42",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Haben wir das Gefühl, in einer Spätzeit zu stehen? Das ist wohl vorbei; es war um 1900 stärker ausgeprägt. Es gibt nur noch wenige Orte auf der Welt, an denen man sich den Luxus der décadence leisten kann. Heut heißt es: »Friß, Vogel, oder stirb.«\n\nDer ungeheure Zug, den wir erleiden, kann nicht allein aus schärferer Durchdenkung der Welt entspringen; er treibt andere Symptome hervor als der cäsarische Altersstil. Nach dieser Theorie müßten die Söldnerheere zunehmen; ihr widerspricht die Totale Mobilmachung. Der Gebildete würde sich durch einen ganz anderen Abstand von den Dingen auszeichnen, durch geistige Gelassenheit, sei es im Sinn der Stoa oder Epikurs. Die Machtfragen würden weniger mit Moralfragen verquickt werden, und umgekehrt. Im allgemeinen würde man angenehmer leben, wie fast immer in Spät- und Verfallszeiten.\n\nVon solcher Herbst- und Abendstimmung ist wenig zu bemerken – die Jahre fordern sowohl den Pessimismus wie den Optimismus stärker heraus. Auf der einen Seite werden sie nicht als Spät-, sondern als Endzeit gesehen, auf der anderen mit einem Jubel, einem Opfermut begrüßt, der nicht zu erklären, geschweige denn zu widerlegen ist. Beides zusammen deutet auf eine ungewöhnliche Zäsur.",
+      "en": "Do we have the feeling that we stand in a late time? That has probably passed; it was more strongly felt around 1900. There are only a few places left in the world where one can afford the luxury of `décadence`. Today the saying is: `Eat, bird, or die.`\n\nThe enormous pull we undergo cannot arise from a sharper thought-throughness of the world alone; it produces symptoms different from those of the Caesarian style of old age. According to that theory mercenary armies ought to increase; total mobilization contradicts it. The educated man would distinguish himself by a wholly different distance from things, by spiritual composure, whether in the sense of the Stoa or of Epicurus. Questions of power would be less entangled with moral questions, and vice versa. In general life would be pleasanter, as it almost always is in late and decadent times.\n\nLittle of such an autumnal or evening mood is to be noticed - the years challenge both pessimism and optimism more strongly. On the one hand they are seen not as late-time but as end-time; on the other they are greeted with a jubilation, a readiness for sacrifice, that cannot be explained, let alone refuted. Both together point to an unusual caesura.",
+      "de_paragraphs": [
+        "Haben wir das Gefühl, in einer Spätzeit zu stehen? Das ist wohl vorbei; es war um 1900 stärker ausgeprägt. Es gibt nur noch wenige Orte auf der Welt, an denen man sich den Luxus der décadence leisten kann. Heut heißt es: »Friß, Vogel, oder stirb.«",
+        "Der ungeheure Zug, den wir erleiden, kann nicht allein aus schärferer Durchdenkung der Welt entspringen; er treibt andere Symptome hervor als der cäsarische Altersstil. Nach dieser Theorie müßten die Söldnerheere zunehmen; ihr widerspricht die Totale Mobilmachung. Der Gebildete würde sich durch einen ganz anderen Abstand von den Dingen auszeichnen, durch geistige Gelassenheit, sei es im Sinn der Stoa oder Epikurs. Die Machtfragen würden weniger mit Moralfragen verquickt werden, und umgekehrt. Im allgemeinen würde man angenehmer leben, wie fast immer in Spät- und Verfallszeiten.",
+        "Von solcher Herbst- und Abendstimmung ist wenig zu bemerken – die Jahre fordern sowohl den Pessimismus wie den Optimismus stärker heraus. Auf der einen Seite werden sie nicht als Spät-, sondern als Endzeit gesehen, auf der anderen mit einem Jubel, einem Opfermut begrüßt, der nicht zu erklären, geschweige denn zu widerlegen ist. Beides zusammen deutet auf eine ungewöhnliche Zäsur."
+      ],
+      "en_paragraphs": [
+        "Do we have the feeling that we stand in a late time? That has probably passed; it was more strongly felt around 1900. There are only a few places left in the world where one can afford the luxury of `décadence`. Today the saying is: `Eat, bird, or die.`",
+        "The enormous pull we undergo cannot arise from a sharper thought-throughness of the world alone; it produces symptoms different from those of the Caesarian style of old age. According to that theory mercenary armies ought to increase; total mobilization contradicts it. The educated man would distinguish himself by a wholly different distance from things, by spiritual composure, whether in the sense of the Stoa or of Epicurus. Questions of power would be less entangled with moral questions, and vice versa. In general life would be pleasanter, as it almost always is in late and decadent times.",
+        "Little of such an autumnal or evening mood is to be noticed - the years challenge both pessimism and optimism more strongly. On the one hand they are seen not as late-time but as end-time; on the other they are greeted with a jubilation, a readiness for sacrifice, that cannot be explained, let alone refuted. Both together point to an unusual caesura."
+      ],
+      "paragraph_alignment": {
+        "de_count": 3,
+        "en_count": 3,
+        "aligned": true,
+        "row_count": 3
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/14-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:43",
+      "id": 43,
+      "label": "§43",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Bei der Betrachtung des Neuartigen ist zu unterscheiden zwischen dem Erstaunlichen und dem Wunderbaren – das Erstaunliche kann auch ärgerlich sein. Das gilt im besonderen für den Anblick unserer wissenschaftlich-technischen Anstrengung und des Maschinenparks, in den die Welt durch sie verwandelt wird. Seine Monotonie, seine nivellierende und entzaubernde Wirkung ist vorwiegend ärgerlich – von seiner mörderischen Kapazität in Krieg und Frieden ganz abgesehen.\n\nDer Blick fällt hier auf die unterste Stufe des »Niedagewesenen«, und die Begeisterung, die die Gebilde hervorrufen, erinnert an das Staunen des Primitiven, dem man Spiegel, Uhren, Feuerwaffen zeigt, die bald sein Entzücken, bald sein Entsetzen hervorrufen. Er gibt seine Früchte, seinen Schmuck, macht sich zum Sklaven dafür.\n\nDer Anblick dieser Apparatur kann nicht befriedigen, weil sowohl an ihrer Entstehung als auch an ihrer Leistung Schöpfung im eigentlichen Sinne unbeteiligt ist. Es bleibt stets Peinliches dabei. Hier werden Kräfte auf das feinste gemessen, gewogen, angezapft und ausgebeutet, oft unter grauenvoller Verheerung, doch wird nichts geschaffen, befreit in höherem Sinn. Es handelt sich um Kräfte, die im Universum seit jeher vorhanden waren, um ihre Sichtbarmachung und Nutznießung auf niederer Ebene. Jede neue Entdeckung bestätigt die Unerschöpflichkeit eines Vorrats, den der Mensch immer nur anschürfen wird, so wie er auch von der Erde nur das oberste, dünnste Häutchen bestellt. Seine Begrenzung entgeht ihm leicht bei einem Treiben, dessen Signet die Meßbarkeit und dessen Krone der Rekord ist, doch zeugt ein Grashalm, ein Mückenflügel von höherer Hervorbringung.\n\nAllerdings liegt es im Wesen des Menschen, daß ihn die Mode mehr erstaunt als der Körper und daß ihm Veränderungen um so mehr auffallen, je näher sie der Oberfläche gelegen sind. In diesem Sinne ist auch die Technik Mode: sie ist das Kleid des Arbeiters.\n\nVeränderungen der Oberfläche künden Veränderungen in der Tiefe an. In dieser Hinsicht wird jede Erscheinung spannend, denn was die Dinge aussagen, kann unendlich wichtiger sein als das, was sie nutzen (oder auch schaden). Hier freilich reicht das morphologische Bemühen nicht aus, das die Erscheinungen in der Fülle ihres Nach- und Nebeneinanders vergleicht und daraus Schlüsse zieht. Ihm würde, etwa bei der Vergleichung des römischen Heerstraßensystems mit unseren Autobahnen, das gemeinsame Signet einer Spätzeit auffallen, und daran ist etwas Richtiges. Zur Wahrnehmung aber, daß es sich um zwei Häuser handelt, die in der historischen Zeit ähnlich, in der Schicksalszeit aber von Grund auf verschieden sind, werden die morphologischen Mittel nicht ausreichen.",
+      "en": "In considering the new, one must distinguish between the astonishing and the wondrous - the astonishing can also be annoying. This applies especially to the sight of our scientific-technical exertion and of the machinery-park into which the world is transformed by it. Its monotony, its leveling and disenchanting effect, is predominantly annoying - quite apart from its murderous capacity in war and peace.\n\nThe gaze falls here on the lowest stage of the `unprecedented,` and the enthusiasm these constructions arouse recalls the wonder of the primitive man to whom one shows mirrors, clocks, and firearms, which now call forth delight, now terror. He gives his fruits, his adornment, makes himself a slave for them.\n\nThe sight of this apparatus cannot satisfy because in both its origin and its performance creation in the proper sense has no share. Something painful always remains in it. Here forces are measured, weighed, tapped, and exploited with the utmost refinement, often amid horrific devastation, yet nothing is created or set free in any higher sense. These are forces that have always been present in the universe, and what is at issue is their being made visible and exploited on a lower plane. Every new discovery confirms the inexhaustibility of a store that man will always only scratch into, just as from the earth he cultivates only the uppermost, thinnest skin. Its limitation easily escapes him in an activity whose signet is measurability and whose crown is the record, yet a blade of grass or a mosquito's wing bears witness to a higher production.\n\nTo be sure, it lies in the nature of man that fashion astonishes him more than the body and that changes strike him all the more the nearer they lie to the surface. In this sense technology too is fashion: it is the worker's clothing.\n\nChanges at the surface announce changes in the depth. In this respect every appearance becomes tense with meaning, for what things say can be infinitely more important than what they usefully do, or even what harm they do. Here, to be sure, morphological effort is not enough, for it compares appearances in the fullness of their succession and coexistence and draws conclusions from that. To it, for example, in comparing the Roman military road system with our autobahns, the common signet of a late time would stand out, and there is something right in that. But for perceiving that one is dealing with two houses that are similar in historical time yet radically different in fateful time, morphological means will not suffice.",
+      "de_paragraphs": [
+        "Bei der Betrachtung des Neuartigen ist zu unterscheiden zwischen dem Erstaunlichen und dem Wunderbaren – das Erstaunliche kann auch ärgerlich sein. Das gilt im besonderen für den Anblick unserer wissenschaftlich-technischen Anstrengung und des Maschinenparks, in den die Welt durch sie verwandelt wird. Seine Monotonie, seine nivellierende und entzaubernde Wirkung ist vorwiegend ärgerlich – von seiner mörderischen Kapazität in Krieg und Frieden ganz abgesehen.",
+        "Der Blick fällt hier auf die unterste Stufe des »Niedagewesenen«, und die Begeisterung, die die Gebilde hervorrufen, erinnert an das Staunen des Primitiven, dem man Spiegel, Uhren, Feuerwaffen zeigt, die bald sein Entzücken, bald sein Entsetzen hervorrufen. Er gibt seine Früchte, seinen Schmuck, macht sich zum Sklaven dafür.",
+        "Der Anblick dieser Apparatur kann nicht befriedigen, weil sowohl an ihrer Entstehung als auch an ihrer Leistung Schöpfung im eigentlichen Sinne unbeteiligt ist. Es bleibt stets Peinliches dabei. Hier werden Kräfte auf das feinste gemessen, gewogen, angezapft und ausgebeutet, oft unter grauenvoller Verheerung, doch wird nichts geschaffen, befreit in höherem Sinn. Es handelt sich um Kräfte, die im Universum seit jeher vorhanden waren, um ihre Sichtbarmachung und Nutznießung auf niederer Ebene. Jede neue Entdeckung bestätigt die Unerschöpflichkeit eines Vorrats, den der Mensch immer nur anschürfen wird, so wie er auch von der Erde nur das oberste, dünnste Häutchen bestellt. Seine Begrenzung entgeht ihm leicht bei einem Treiben, dessen Signet die Meßbarkeit und dessen Krone der Rekord ist, doch zeugt ein Grashalm, ein Mückenflügel von höherer Hervorbringung.",
+        "Allerdings liegt es im Wesen des Menschen, daß ihn die Mode mehr erstaunt als der Körper und daß ihm Veränderungen um so mehr auffallen, je näher sie der Oberfläche gelegen sind. In diesem Sinne ist auch die Technik Mode: sie ist das Kleid des Arbeiters.",
+        "Veränderungen der Oberfläche künden Veränderungen in der Tiefe an. In dieser Hinsicht wird jede Erscheinung spannend, denn was die Dinge aussagen, kann unendlich wichtiger sein als das, was sie nutzen (oder auch schaden). Hier freilich reicht das morphologische Bemühen nicht aus, das die Erscheinungen in der Fülle ihres Nach- und Nebeneinanders vergleicht und daraus Schlüsse zieht. Ihm würde, etwa bei der Vergleichung des römischen Heerstraßensystems mit unseren Autobahnen, das gemeinsame Signet einer Spätzeit auffallen, und daran ist etwas Richtiges. Zur Wahrnehmung aber, daß es sich um zwei Häuser handelt, die in der historischen Zeit ähnlich, in der Schicksalszeit aber von Grund auf verschieden sind, werden die morphologischen Mittel nicht ausreichen."
+      ],
+      "en_paragraphs": [
+        "In considering the new, one must distinguish between the astonishing and the wondrous - the astonishing can also be annoying. This applies especially to the sight of our scientific-technical exertion and of the machinery-park into which the world is transformed by it. Its monotony, its leveling and disenchanting effect, is predominantly annoying - quite apart from its murderous capacity in war and peace.",
+        "The gaze falls here on the lowest stage of the `unprecedented,` and the enthusiasm these constructions arouse recalls the wonder of the primitive man to whom one shows mirrors, clocks, and firearms, which now call forth delight, now terror. He gives his fruits, his adornment, makes himself a slave for them.",
+        "The sight of this apparatus cannot satisfy because in both its origin and its performance creation in the proper sense has no share. Something painful always remains in it. Here forces are measured, weighed, tapped, and exploited with the utmost refinement, often amid horrific devastation, yet nothing is created or set free in any higher sense. These are forces that have always been present in the universe, and what is at issue is their being made visible and exploited on a lower plane. Every new discovery confirms the inexhaustibility of a store that man will always only scratch into, just as from the earth he cultivates only the uppermost, thinnest skin. Its limitation easily escapes him in an activity whose signet is measurability and whose crown is the record, yet a blade of grass or a mosquito's wing bears witness to a higher production.",
+        "To be sure, it lies in the nature of man that fashion astonishes him more than the body and that changes strike him all the more the nearer they lie to the surface. In this sense technology too is fashion: it is the worker's clothing.",
+        "Changes at the surface announce changes in the depth. In this respect every appearance becomes tense with meaning, for what things say can be infinitely more important than what they usefully do, or even what harm they do. Here, to be sure, morphological effort is not enough, for it compares appearances in the fullness of their succession and coexistence and draws conclusions from that. To it, for example, in comparing the Roman military road system with our autobahns, the common signet of a late time would stand out, and there is something right in that. But for perceiving that one is dealing with two houses that are similar in historical time yet radically different in fateful time, morphological means will not suffice."
+      ],
+      "paragraph_alignment": {
+        "de_count": 5,
+        "en_count": 5,
+        "aligned": true,
+        "row_count": 5
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/14-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:44",
+      "id": 44,
+      "label": "§44",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Wenn wir die Akten der Erdgeschichte studieren, gewinnen wir eine Ahnung dessen, was der Schleier der Maja zu bieten vermag. Wir betreten damit ein Reich, das Hegel vernachlässigte. Mangelnde Natursicht hat man mit Recht seine Achillesferse genannt.\n\nEin Wald zur Steinkohlenzeit, von dem die Wälder am Kongo und Amazonas nur einen Abglanz wahren, ein Archipel mit schwimmenden, fliegenden und landbewohnenden Sauriern, ein Großes Barriereriff mit Myriaden wunderbarer Wesen – ein Denken muß schon sehr reduziert sein, das darin Vor- und Entwicklungsstufen unserer Herrlichkeit erblicken will. Die Alten sahen solche Welten als Gottes Spielzeug an. Hier gilt das Goethewort im vollen Maße, daß der Sinn des Lebens im Leben zu suchen sei. Das Universum hat stets die gleiche Kapazität. Jede Entwicklung ist nicht mehr als eine Verlegung von Schwerpunkten.\n\nSolche Bilder schärfen das Auge für große Abschnitte und ihre Maßstäbe. Unter anderem ergibt sich hier die Frage, ob nicht, solange sich Generationen folgen, alles »beim alten« bleibt und ob wesentliche Abschnitte erst dort zu vermuten sind, wo neue Spezies und Genera auftauchen. Und ob wiederum nicht das Auftauchen neuer Spezies Abschnitte setze, sondern eine veränderte Qualität der Zeit solche Erscheinungen einerseits verschwinden lasse, andererseits hervorbringe? Daß etwa das Ende des mächtigen Ammonitenstammes, trivial gesprochen, sich dadurch erkläre, daß seine Zeit, seine Weltstunde abgelaufen war und daß ein neuer Erdstil andere Bildungen, andere Modelle forderte? Das ist der zwingende Grund, aus dem man den Kampf ums Dasein verliert. Hinter den Machtfragen wirken Zeitfragen.",
+      "en": "If we study the records of earth-history, we gain an inkling of what the veil of Maya has to offer. In doing so we enter a realm Hegel neglected. His lack of vision of nature has rightly been called his Achilles' heel.\n\nA forest of the Carboniferous age, of which the forests on the Congo and Amazon preserve only a glimmer, an archipelago with saurians that swim, fly, and dwell on land, a Great Barrier Reef with myriads of wondrous beings - thinking would have to be much reduced to see in these preliminary and developmental stages of our own glory. The ancients saw such worlds as God's playthings. Here Goethe's saying applies in full: the meaning of life is to be sought in life. The universe always has the same capacity. Every development is no more than a displacement of centers of gravity.\n\nSuch images sharpen the eye for great divisions and their measures. Among other things, the question arises whether, so long as generations follow one another, everything remains `as of old,` and whether essential divisions are to be surmised only where new species and genera appear. And whether, conversely, it is not the appearance of new species that sets the divisions, but rather a changed quality of time that on the one hand lets such phenomena disappear and on the other brings them forth. That, put trivially, the end of the mighty ammonite line might be explained by the fact that its time, its world-hour, had run out, and that a new earth-style demanded other formations, other models. That is the compelling reason for losing the struggle for existence. Behind questions of power, questions of time are at work.",
+      "de_paragraphs": [
+        "Wenn wir die Akten der Erdgeschichte studieren, gewinnen wir eine Ahnung dessen, was der Schleier der Maja zu bieten vermag. Wir betreten damit ein Reich, das Hegel vernachlässigte. Mangelnde Natursicht hat man mit Recht seine Achillesferse genannt.",
+        "Ein Wald zur Steinkohlenzeit, von dem die Wälder am Kongo und Amazonas nur einen Abglanz wahren, ein Archipel mit schwimmenden, fliegenden und landbewohnenden Sauriern, ein Großes Barriereriff mit Myriaden wunderbarer Wesen – ein Denken muß schon sehr reduziert sein, das darin Vor- und Entwicklungsstufen unserer Herrlichkeit erblicken will. Die Alten sahen solche Welten als Gottes Spielzeug an. Hier gilt das Goethewort im vollen Maße, daß der Sinn des Lebens im Leben zu suchen sei. Das Universum hat stets die gleiche Kapazität. Jede Entwicklung ist nicht mehr als eine Verlegung von Schwerpunkten.",
+        "Solche Bilder schärfen das Auge für große Abschnitte und ihre Maßstäbe. Unter anderem ergibt sich hier die Frage, ob nicht, solange sich Generationen folgen, alles »beim alten« bleibt und ob wesentliche Abschnitte erst dort zu vermuten sind, wo neue Spezies und Genera auftauchen. Und ob wiederum nicht das Auftauchen neuer Spezies Abschnitte setze, sondern eine veränderte Qualität der Zeit solche Erscheinungen einerseits verschwinden lasse, andererseits hervorbringe? Daß etwa das Ende des mächtigen Ammonitenstammes, trivial gesprochen, sich dadurch erkläre, daß seine Zeit, seine Weltstunde abgelaufen war und daß ein neuer Erdstil andere Bildungen, andere Modelle forderte? Das ist der zwingende Grund, aus dem man den Kampf ums Dasein verliert. Hinter den Machtfragen wirken Zeitfragen."
+      ],
+      "en_paragraphs": [
+        "If we study the records of earth-history, we gain an inkling of what the veil of Maya has to offer. In doing so we enter a realm Hegel neglected. His lack of vision of nature has rightly been called his Achilles' heel.",
+        "A forest of the Carboniferous age, of which the forests on the Congo and Amazon preserve only a glimmer, an archipelago with saurians that swim, fly, and dwell on land, a Great Barrier Reef with myriads of wondrous beings - thinking would have to be much reduced to see in these preliminary and developmental stages of our own glory. The ancients saw such worlds as God's playthings. Here Goethe's saying applies in full: the meaning of life is to be sought in life. The universe always has the same capacity. Every development is no more than a displacement of centers of gravity.",
+        "Such images sharpen the eye for great divisions and their measures. Among other things, the question arises whether, so long as generations follow one another, everything remains `as of old,` and whether essential divisions are to be surmised only where new species and genera appear. And whether, conversely, it is not the appearance of new species that sets the divisions, but rather a changed quality of time that on the one hand lets such phenomena disappear and on the other brings them forth. That, put trivially, the end of the mighty ammonite line might be explained by the fact that its time, its world-hour, had run out, and that a new earth-style demanded other formations, other models. That is the compelling reason for losing the struggle for existence. Behind questions of power, questions of time are at work."
+      ],
+      "paragraph_alignment": {
+        "de_count": 3,
+        "en_count": 3,
+        "aligned": true,
+        "row_count": 3
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/15-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:45",
+      "id": 45,
+      "label": "§45",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Damit verlassen wir freilich den Plan der Weltgeschichte, soweit sie Menschengeschichte ist, und wenden uns exzentrischen Gesichtspunkten zu. Zugleich sind wir an einen Ort geraten, an dem sich wichtige Fragen aufwerfen.\n\nZunächst diese: Sollte etwa der Einschnitt, der so offensichtlich unsere Jahre zeichnet, nicht nur zwei Epochen menschlicher Geschichte trennen, sondern zugleich sowohl den Ablauf als auch den Beginn eines größeren Zyklus ankünden? Das würde bedeuten, daß selbst zur Erfassung grober Fakten die Mittel der Geschichtsbetrachtung nicht ausreichen. Das würde bereits der Fall sein, wenn es sich um einen verhältnismäßig kleinen Zyklus, etwa von zehn- oder zwanzigtausend Jahren, handelte. Ein solcher Zyklus ist winzig, verglichen etwa mit einem indischen Götterjahr oder auch mit den Abläufen, die unsere Astronomie, Geologie oder Paläontologie berücksichtigen.\n\nFerner: Gab es immer, solange Menschen auf der Welt sind, Weltgeschichte in unserem Sinn? Ohne Zweifel nicht, da wir von Vor- und Urgeschichte sprechen, die wir entweder aus unserer Geschichtsbetrachtung ausklammern oder als Vorsaal in sie einbeziehen. Eine Person, eine Begebenheit muß ganz bestimmte Eigenschaften aufweisen, um »geschichtlich« zu sein. Dazu gehört sowohl die geschichtsbildende Kraft als auch die Fähigkeit, Gegenstand der Geschichtschreibung und des in ihr waltenden Eros, Objekt der historischen Anschauung zu sein. Diese heftet sich an bestimmte, nicht an beliebige Zeiten und Vorgänge.",
+      "en": "To be sure, in saying this we leave the plane of world-history insofar as it is human history, and turn toward eccentric points of view. At the same time we have arrived at a place where important questions arise.\n\nFirst this: might the caesura that so obviously marks our years announce not only the separation of two epochs of human history, but at the same time both the end and the beginning of a larger cycle? That would mean that even for the grasp of coarse facts the means of historical contemplation do not suffice. That would already be the case if what was at issue were a relatively small cycle, say of ten or twenty thousand years. Such a cycle is tiny compared, for example, with an Indian divine year or with the courses our astronomy, geology, or paleontology take into account.\n\nFurther: has there always been, so long as human beings have been on earth, world-history in our sense? Without doubt not, since we speak of prehistory and protohistory, which we either exclude from our historical contemplation or include as its vestibule. A person or an event must display very definite qualities in order to be `historical.` Among these are both the history-forming power and the capacity to become an object of historiography and of the Eros at work within it, an object of historical contemplation. That contemplation attaches itself to definite times and events, not to arbitrary ones.",
+      "de_paragraphs": [
+        "Damit verlassen wir freilich den Plan der Weltgeschichte, soweit sie Menschengeschichte ist, und wenden uns exzentrischen Gesichtspunkten zu. Zugleich sind wir an einen Ort geraten, an dem sich wichtige Fragen aufwerfen.",
+        "Zunächst diese: Sollte etwa der Einschnitt, der so offensichtlich unsere Jahre zeichnet, nicht nur zwei Epochen menschlicher Geschichte trennen, sondern zugleich sowohl den Ablauf als auch den Beginn eines größeren Zyklus ankünden? Das würde bedeuten, daß selbst zur Erfassung grober Fakten die Mittel der Geschichtsbetrachtung nicht ausreichen. Das würde bereits der Fall sein, wenn es sich um einen verhältnismäßig kleinen Zyklus, etwa von zehn- oder zwanzigtausend Jahren, handelte. Ein solcher Zyklus ist winzig, verglichen etwa mit einem indischen Götterjahr oder auch mit den Abläufen, die unsere Astronomie, Geologie oder Paläontologie berücksichtigen.",
+        "Ferner: Gab es immer, solange Menschen auf der Welt sind, Weltgeschichte in unserem Sinn? Ohne Zweifel nicht, da wir von Vor- und Urgeschichte sprechen, die wir entweder aus unserer Geschichtsbetrachtung ausklammern oder als Vorsaal in sie einbeziehen. Eine Person, eine Begebenheit muß ganz bestimmte Eigenschaften aufweisen, um »geschichtlich« zu sein. Dazu gehört sowohl die geschichtsbildende Kraft als auch die Fähigkeit, Gegenstand der Geschichtschreibung und des in ihr waltenden Eros, Objekt der historischen Anschauung zu sein. Diese heftet sich an bestimmte, nicht an beliebige Zeiten und Vorgänge."
+      ],
+      "en_paragraphs": [
+        "To be sure, in saying this we leave the plane of world-history insofar as it is human history, and turn toward eccentric points of view. At the same time we have arrived at a place where important questions arise.",
+        "First this: might the caesura that so obviously marks our years announce not only the separation of two epochs of human history, but at the same time both the end and the beginning of a larger cycle? That would mean that even for the grasp of coarse facts the means of historical contemplation do not suffice. That would already be the case if what was at issue were a relatively small cycle, say of ten or twenty thousand years. Such a cycle is tiny compared, for example, with an Indian divine year or with the courses our astronomy, geology, or paleontology take into account.",
+        "Further: has there always been, so long as human beings have been on earth, world-history in our sense? Without doubt not, since we speak of prehistory and protohistory, which we either exclude from our historical contemplation or include as its vestibule. A person or an event must display very definite qualities in order to be `historical.` Among these are both the history-forming power and the capacity to become an object of historiography and of the Eros at work within it, an object of historical contemplation. That contemplation attaches itself to definite times and events, not to arbitrary ones."
+      ],
+      "paragraph_alignment": {
+        "de_count": 3,
+        "en_count": 3,
+        "aligned": true,
+        "row_count": 3
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/15-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:46",
+      "id": 46,
+      "label": "§46",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Das war nicht immer der Fall. Wir nennen Herodot den »Vater der Geschichtschreibung«. In der Tat bietet er eine ungewöhnliche Lektüre; man durchwandert seine Bücher wie ein von der Morgenröte bestrahltes Land.\n\nVor ihm war etwas anderes, war mythische Nacht. Diese Nacht war aber nicht Dunkel, sondern eher Traum und kannte eine andere Verknüpfung der Menschen und Ereignisse als das historische Bewußtsein und seine sondernde Kraft. Das bringt die Morgenröte in Herodots Werk. Er steht auf dem Grat eines Gebirges, das Tag und Nacht trennt: nicht nur zwei Zeiten, sondern zwei Zeitarten, zwei Arten von Licht.\n\nEin wenig später, schon bei Thukydides, ist die Morgenröte verblaßt. Auf Menschen und Dinge fällt das klare Licht historischen Wissens, historischer Wissenschaft.",
+      "en": "That was not always the case. We call Herodotus the `father of historiography.` In fact he offers extraordinary reading; one wanders through his books as through a land irradiated by dawn.\n\nBefore him there was something else, there was mythic night. But this night was not darkness; it was rather dream, and it knew a different linkage of human beings and events than historical consciousness and its separating power. This is what the dawn brings into Herodotus's work. He stands on the ridge of a mountain range that separates day and night: not only two times, but two kinds of time, two kinds of light.\n\nA little later, already in Thucydides, the dawn has faded. Upon human beings and things falls the clear light of historical knowledge, historical science.",
+      "de_paragraphs": [
+        "Das war nicht immer der Fall. Wir nennen Herodot den »Vater der Geschichtschreibung«. In der Tat bietet er eine ungewöhnliche Lektüre; man durchwandert seine Bücher wie ein von der Morgenröte bestrahltes Land.",
+        "Vor ihm war etwas anderes, war mythische Nacht. Diese Nacht war aber nicht Dunkel, sondern eher Traum und kannte eine andere Verknüpfung der Menschen und Ereignisse als das historische Bewußtsein und seine sondernde Kraft. Das bringt die Morgenröte in Herodots Werk. Er steht auf dem Grat eines Gebirges, das Tag und Nacht trennt: nicht nur zwei Zeiten, sondern zwei Zeitarten, zwei Arten von Licht.",
+        "Ein wenig später, schon bei Thukydides, ist die Morgenröte verblaßt. Auf Menschen und Dinge fällt das klare Licht historischen Wissens, historischer Wissenschaft."
+      ],
+      "en_paragraphs": [
+        "That was not always the case. We call Herodotus the `father of historiography.` In fact he offers extraordinary reading; one wanders through his books as through a land irradiated by dawn.",
+        "Before him there was something else, there was mythic night. But this night was not darkness; it was rather dream, and it knew a different linkage of human beings and events than historical consciousness and its separating power. This is what the dawn brings into Herodotus's work. He stands on the ridge of a mountain range that separates day and night: not only two times, but two kinds of time, two kinds of light.",
+        "A little later, already in Thucydides, the dawn has faded. Upon human beings and things falls the clear light of historical knowledge, historical science."
+      ],
+      "paragraph_alignment": {
+        "de_count": 3,
+        "en_count": 3,
+        "aligned": true,
+        "row_count": 3
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/15-humane-einteilungen.md"
     }
   ],
   "glossary": [
@@ -1112,6 +1568,19 @@
       "evidence": []
     },
     {
+      "handle": "term:humane-einteilungen",
+      "term": "Humane Einteilungen",
+      "kind": "section_title",
+      "preferred": "Human Divisions",
+      "alternatives": [
+        "Human Classifications",
+        "Human Orderings"
+      ],
+      "status": "tentative",
+      "notes": "Working after §§32-46. `Humane` here means human rather than ethically `humane`; the part opens with divisions of world-time, history, and natural order, then moves into Spengler, morphology, world-plan, and the limits of pure historical judgment, sharpens the difference between historical time and `Schicksalszeit`, and now widens further into earth-history, prehistory, and the dawning of historical consciousness rather than into gentleness or moral cultivation.",
+      "evidence": []
+    },
+    {
       "handle": "term:schicksalszeit",
       "term": "Schicksalszeit",
       "kind": "concept",
@@ -1121,12 +1590,14 @@
         "time of destiny"
       ],
       "status": "tentative",
-      "notes": "Sections 4-20 support `fateful time`: the neighboring compounds stay concrete (`Schicksalsweisung`, `Schicksalsdeutung`, `Schicksalsqualitäten`, `Schicksalsuhr`) while retaining metaphysical weight, and §20 confirms the choice when tragedy is said to `weave` `Schicksalszeit`.",
+      "notes": "Sections 4-43 support `fateful time`: the neighboring compounds stay concrete (`Schicksalsweisung`, `Schicksalsdeutung`, `Schicksalsqualitäten`, `Schicksalsuhr`) while retaining metaphysical weight; §20 confirms the choice when tragedy is said to `weave` `Schicksalszeit`, §38 carries it into Part 3 as a methodological relation between measurable astronomical time and the fate-time to be interpreted, and §43 sharpens it further by distinguishing two formations that are historically similar yet fundamentally different in `Schicksalszeit`.",
       "evidence": [
         "evidence:term:schicksalszeit:zm:4",
         "evidence:term:schicksalszeit:zm:9",
         "evidence:term:schicksalszeit:zm:13",
-        "evidence:term:schicksalszeit:zm:20"
+        "evidence:term:schicksalszeit:zm:20",
+        "evidence:term:schicksalszeit:zm:38",
+        "evidence:term:schicksalszeit:zm:43"
       ]
     },
     {
@@ -1176,8 +1647,11 @@
         "plan of the world"
       ],
       "status": "tentative",
-      "notes": "Hyphenation keeps the German compound visible. §17 sharpens it by explicit contrast with `Menschenplan`.",
-      "evidence": []
+      "notes": "Hyphenation keeps the German compound visible. §17 sharpens it by explicit contrast with `Menschenplan`; §37 reactivates it as the missing criterion of unity and direction in Spengler's morphology.",
+      "evidence": [
+        "evidence:term:weltplan:zm:17",
+        "evidence:term:weltplan:zm:37"
+      ]
     },
     {
       "handle": "term:bruchstelle",
@@ -1203,11 +1677,12 @@
         "the supplementary one"
       ],
       "status": "tentative",
-      "notes": "By §§6-9 this is structural: interpreter, guarantor, and priestly figure who adds no new facts but confers assurance and meaning.",
+      "notes": "By §§6-9 this is structural as interpreter, guarantor, and priestly figure who adds no new facts but confers assurance and meaning. §36 extends the figure into physiognomic history-reading, where the instinct of the one who comes in addition gains prophetic force.",
       "evidence": [
         "evidence:term:hinzutretende:zm:6",
         "evidence:term:hinzutretende:zm:7",
-        "evidence:term:hinzutretende:zm:9"
+        "evidence:term:hinzutretende:zm:9",
+        "evidence:term:hinzutretende:zm:36"
       ]
     },
     {
@@ -1300,6 +1775,36 @@
       "section": "zm:31",
       "file": "texts/zeitmauer/parts/10-messbare-und-schicksalszeit.md",
       "note": "So-Sein against sameness, mass fate, and the counterpower to Leviathan."
+    },
+    {
+      "handle": "zm:32:spiral",
+      "section": "zm:32",
+      "file": "texts/zeitmauer/parts/11-humane-einteilungen.md",
+      "note": "Linear, cyclical, and spiral divisions of world-time at the opening of Part 3."
+    },
+    {
+      "handle": "zm:36:analogy",
+      "section": "zm:36",
+      "file": "texts/zeitmauer/parts/12-humane-einteilungen.md",
+      "note": "Analogy, physiognomic method, and the return of the one who comes in addition."
+    },
+    {
+      "handle": "zm:38:logos-nomos",
+      "section": "zm:38",
+      "file": "texts/zeitmauer/parts/13-humane-einteilungen.md",
+      "note": "Astrology as method; measurable time and fateful time, `Logos` and `Nomos`, set into relation."
+    },
+    {
+      "handle": "zm:43:two-houses",
+      "section": "zm:43",
+      "file": "texts/zeitmauer/parts/14-humane-einteilungen.md",
+      "note": "Two houses can be historically similar yet fundamentally different in fateful time."
+    },
+    {
+      "handle": "zm:44:zeitfragen",
+      "section": "zm:44",
+      "file": "texts/zeitmauer/parts/15-humane-einteilungen.md",
+      "note": "Earth-history and species-change: behind questions of power, questions of time are at work."
     }
   ],
   "notes": [
@@ -1392,6 +1897,46 @@
       "note": "The part closes by setting `So-Sein` against sameness and by treating astrological inclination as a sign of counterforce rather than a finished effect."
     },
     {
+      "handle": "note:zm:32:spiral",
+      "section": "zm:32",
+      "anchor": "zm:32:spiral",
+      "file": "texts/zeitmauer/parts/11-humane-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The opening of `Humane Einteilungen` carries the time-crisis into explicit models for dividing world-time rather than merely naming linear and cyclical systems in passing."
+    },
+    {
+      "handle": "note:zm:36:analogy",
+      "section": "zm:36",
+      "anchor": "zm:36:analogy",
+      "file": "texts/zeitmauer/parts/12-humane-einteilungen.md",
+      "kind": "translation_note",
+      "note": "Pure comparison creates relations but not standards; the return of `der Hinzutretende` here turns physiognomic analogy toward prophecy without solving the question of inner unity."
+    },
+    {
+      "handle": "note:zm:38:logos-nomos",
+      "section": "zm:38",
+      "anchor": "zm:38:logos-nomos",
+      "file": "texts/zeitmauer/parts/13-humane-einteilungen.md",
+      "kind": "translation_note",
+      "note": "Part 3 explicitly reconnects astrology to `Schicksalszeit`: the methodological value lies less in correctness than in reactivating powers of mind that have lain fallow."
+    },
+    {
+      "handle": "note:zm:43:two-houses",
+      "section": "zm:43",
+      "anchor": "zm:43:two-houses",
+      "file": "texts/zeitmauer/parts/14-humane-einteilungen.md",
+      "kind": "translation_note",
+      "note": "Morphological comparison can catch historical resemblance without perceiving that two formations belong to fundamentally different fateful times."
+    },
+    {
+      "handle": "note:zm:44:zeitfragen",
+      "section": "zm:44",
+      "anchor": "zm:44:zeitfragen",
+      "file": "texts/zeitmauer/parts/15-humane-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The section presses the time-crisis beyond human history by subordinating the struggle for existence to qualitative changes of time itself."
+    },
+    {
       "handle": "note:journal:mumford-bridge",
       "file": "texts/zeitmauer/journal.md",
       "heading": "2026-03-29 — Mumford as Bridge Text",
@@ -1413,7 +1958,7 @@
       "status": "tentative",
       "note": "Local dossier for measurable time, fateful time, and the widening crisis of abstract planning.",
       "title": "Time Crisis",
-      "content": "# Time Crisis\n\nHandle: `thread:time-crisis`\n\nThe main thread so far in `texts/zeitmauer`: the collision between measurable time and qualitative or fateful time.\n\n## Core Path\n\n- `evidence:term:schicksalszeit:zm:4` grounds the first explicit contrast.\n- `zm:9:church-year` crystallizes the difference by moving from astrology into the church year.\n- `zm:13:schicksalsuhr` extends that move by naming the horoscope as an uneven clock.\n- `zm:14:abdichtung` widens the problem from interpretation to planning, ceremony, and the need to seal life toward the side of fate.\n- `zm:25:plan-freedom` pushes the crisis into insurance, plan-accounting, and the immediate language of freedom.\n- `zm:28:periodicity` extends the crisis into flattened rhythms, denied sacrifice, and catastrophe.\n- `zm:31:so-sein-gleichsein` closes the part where the crisis becomes one of singular form versus uniformity and mass fate.\n- `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.\n- `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.\n\n## Current Claim\n\n`thread:time-crisis` is no longer just a local theme about astrology. It names a broader conflict over what kinds of reality can be measured without being destroyed by measurement.\n\nJünger's strategy is to lead the reader out of the apparently \"occult\" cases and into ordinary ones:\n\n- the backing of paper money in `zm:7:banking`\n- the church year in `zm:9:church-year`\n- the horoscope as `zm:13:schicksalsuhr`\n- Roman augury and ceremony in `zm:14:abdichtung`\n- the `Titanic`, the record, and abstract time in `zm:15:titanic-record`\n- insurance, plan-accounting, and free musische speech in `zm:25:plan-freedom`\n- periodicity, raised dikes, and enlarged catastrophe in `zm:28:periodicity`\n- `So-Sein`, sameness, and resistance to Leviathan in `zm:31:so-sein-gleichsein`\n\n## Commentary Use\n\nThis thread should be the default test case for the commentary layer because it already supports:\n\n- section-to-section resonance\n- glossary evidence chains\n- traversal from translation note to higher-order dossier\n- extension into cross-project synthesis without leaving the text behind\n"
+      "content": "# Time Crisis\n\nHandle: `thread:time-crisis`\n\nThe main thread so far in `texts/zeitmauer`: the collision between measurable time and qualitative or fateful time.\n\n## Core Path\n\n- `evidence:term:schicksalszeit:zm:4` grounds the first explicit contrast.\n- `zm:9:church-year` crystallizes the difference by moving from astrology into the church year.\n- `zm:13:schicksalsuhr` extends that move by naming the horoscope as an uneven clock.\n- `zm:14:abdichtung` widens the problem from interpretation to planning, ceremony, and the need to seal life toward the side of fate.\n- `zm:25:plan-freedom` pushes the crisis into insurance, plan-accounting, and the immediate language of freedom.\n- `zm:28:periodicity` extends the crisis into flattened rhythms, denied sacrifice, and catastrophe.\n- `zm:31:so-sein-gleichsein` closes the part where the crisis becomes one of singular form versus uniformity and mass fate.\n- `zm:32:spiral` reopens it as a problem of how world-time and great ages are divided at all.\n- `zm:38:logos-nomos` reconnects the Part 3 problem explicitly to measurable astronomical time and interpreted fateful time.\n- `zm:43:two-houses` crystallizes the limit of morphology: historical similarity can conceal radical difference in fateful time.\n- `zm:44:zeitfragen` extends the crisis beyond human history: behind questions of power, questions of time are at work.\n- `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.\n- `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.\n\n## Current Claim\n\n`thread:time-crisis` is no longer just a local theme about astrology. It names a broader conflict over what kinds of reality can be measured without being destroyed by measurement.\n\nJünger's strategy is to lead the reader out of the apparently \"occult\" cases and into ordinary ones:\n\n- the backing of paper money in `zm:7:banking`\n- the church year in `zm:9:church-year`\n- the horoscope as `zm:13:schicksalsuhr`\n- Roman augury and ceremony in `zm:14:abdichtung`\n- the `Titanic`, the record, and abstract time in `zm:15:titanic-record`\n- insurance, plan-accounting, and free musische speech in `zm:25:plan-freedom`\n- periodicity, raised dikes, and enlarged catastrophe in `zm:28:periodicity`\n- `So-Sein`, sameness, and resistance to Leviathan in `zm:31:so-sein-gleichsein`\n- line, circle, and spiral at the opening of `Humane Einteilungen` in `zm:32:spiral`\n- `Logos`, `Nomos`, and the methodological return of `Schicksalszeit` in `zm:38:logos-nomos`\n- two houses historically similar yet fateful-time different in `zm:43:two-houses`\n- species-loss and species-emergence pushed behind time-questions in `zm:44:zeitfragen`\n\n## Commentary Use\n\nThis thread should be the default test case for the commentary layer because it already supports:\n\n- section-to-section resonance\n- glossary evidence chains\n- traversal from translation note to higher-order dossier\n- extension into cross-project synthesis without leaving the text behind\n"
     },
     {
       "handle": "thread:mumford-bridge",
@@ -1429,7 +1974,7 @@
       "status": "seed",
       "note": "Method dossier on analogical image versus structural framework in Jünger's argument.",
       "title": "Goethe Leibniz Frame",
-      "content": "# Goethe Leibniz Frame\n\nHandle: `thread:goethe-leibniz-frame`\n\nThis thread tracks a pressure that is already visible in `§1`: Jünger thinks through analogical images, but he also wants those images to accumulate into a structural distinction.\n\n## Core Claim\n\nJünger is strongest where Goethean and Leibnizian habits remain in productive tension.\n\n- Goethean: `zm:1:seidenschwanz` argues through a concrete image that becomes an `Urphänomen`.\n- Leibnizian: `Meßbare und Schicksalszeit` is not just imagery but an architectonic distinction.\n- The time wall is where formal measure meets what it cannot fully formalize.\n\n## Why This Matters for Translation\n\nThe English should not force Jünger into either camp alone.\n\n- Too much smoothing, and the images become ornament.\n- Too much abstraction, and the images stop carrying the argument.\n\nUseful path:\n\n- `zm:1:seidenschwanz`\n- `zm:13:schicksalsuhr`\n- `thread:time-crisis`\n- `note:journal:goethe-leibniz-frame`\n\n## Commentary Use\n\nThis thread is a method dossier as much as a conceptual one. It helps decide how literal or how architectural a rendering should be when the two pressures conflict.\n"
+      "content": "# Goethe Leibniz Frame\n\nHandle: `thread:goethe-leibniz-frame`\n\nThis thread tracks a pressure that is already visible in `§1`: Jünger thinks through analogical images, but he also wants those images to accumulate into a structural distinction.\n\n## Core Claim\n\nJünger is strongest where Goethean and Leibnizian habits remain in productive tension.\n\n- Goethean: `zm:1:seidenschwanz` argues through a concrete image that becomes an `Urphänomen`.\n- Leibnizian: `Meßbare und Schicksalszeit` is not just imagery but an architectonic distinction.\n- The time wall is where formal measure meets what it cannot fully formalize.\n\n## Why This Matters for Translation\n\nThe English should not force Jünger into either camp alone.\n\n- Too much smoothing, and the images become ornament.\n- Too much abstraction, and the images stop carrying the argument.\n\nUseful path:\n\n- `zm:1:seidenschwanz`\n- `zm:13:schicksalsuhr`\n- `zm:36:analogy`\n- `thread:time-crisis`\n- `note:journal:goethe-leibniz-frame`\n\n`§36` sharpens the dossier from the Spengler side: analogy can organize a great deal, but pure comparison yields relations rather than standards. The pressure toward unity, measure, and an inner bond remains.\n\n## Commentary Use\n\nThis thread is a method dossier as much as a conceptual one. It helps decide how literal or how architectural a rendering should be when the two pressures conflict.\n"
     }
   ],
   "evidence": [
@@ -1522,6 +2067,51 @@
       "file": "texts/zeitmauer/parts/10-messbare-und-schicksalszeit.md",
       "relation": "grounds",
       "note": "Extends `So-Sein` beyond habitus into dignity, anti-uniformity, and the explicit contrast with `Gleichsein`."
+    },
+    {
+      "handle": "evidence:term:hinzutretende:zm:36",
+      "term": "term:hinzutretende",
+      "term_label": "der Hinzutretende",
+      "anchor": "zm:36:analogy",
+      "file": "texts/zeitmauer/parts/12-humane-einteilungen.md",
+      "relation": "grounds",
+      "note": "Extends the figure beyond astrology proper into physiognomic and prophetic historical reading."
+    },
+    {
+      "handle": "evidence:term:weltplan:zm:17",
+      "term": "term:weltplan",
+      "term_label": "Weltplan",
+      "anchor": "zm:17",
+      "file": "texts/zeitmauer/parts/06-messbare-und-schicksalszeit.md",
+      "relation": "grounds",
+      "note": "Sharpens the term by explicit contrast with `Menschenplan`."
+    },
+    {
+      "handle": "evidence:term:weltplan:zm:37",
+      "term": "term:weltplan",
+      "term_label": "Weltplan",
+      "anchor": "zm:37",
+      "file": "texts/zeitmauer/parts/12-humane-einteilungen.md",
+      "relation": "grounds",
+      "note": "Reactivates `Weltplan` as the missing principle of unity and direction in Spengler's morphology."
+    },
+    {
+      "handle": "evidence:term:schicksalszeit:zm:38",
+      "term": "term:schicksalszeit",
+      "term_label": "Schicksalszeit",
+      "anchor": "zm:38:logos-nomos",
+      "file": "texts/zeitmauer/parts/13-humane-einteilungen.md",
+      "relation": "grounds",
+      "note": "Carries `Schicksalszeit` into Part 3 as the explicitly interpreted counterpart to measurable astronomical time."
+    },
+    {
+      "handle": "evidence:term:schicksalszeit:zm:43",
+      "term": "term:schicksalszeit",
+      "term_label": "Schicksalszeit",
+      "anchor": "zm:43:two-houses",
+      "file": "texts/zeitmauer/parts/14-humane-einteilungen.md",
+      "relation": "grounds",
+      "note": "Sharpens the term by distinguishing formations that are historically similar yet fundamentally different in fateful time."
     }
   ],
   "relations": [
@@ -1580,6 +2170,36 @@
       "note": "The part closes where time-crisis becomes a conflict between singular form and mass uniformity rather than between astrology and science alone."
     },
     {
+      "from": "zm:32:spiral",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "Part 3 reopens the crisis as a problem of how world-time itself is divided: line, circle, or spiral."
+    },
+    {
+      "from": "zm:36:analogy",
+      "relation": "extends",
+      "to": "thread:goethe-leibniz-frame",
+      "note": "Spengler's analogy-driven physiognomy shows the power and insufficiency of morphology without an inner bond."
+    },
+    {
+      "from": "zm:38:logos-nomos",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The opening cosmological problem of Part 3 is explicitly rejoined to measurable and fateful time through astrology as method."
+    },
+    {
+      "from": "zm:43:two-houses",
+      "relation": "crystallizes",
+      "to": "thread:time-crisis",
+      "note": "Historical resemblance reaches its limit where fateful time divides two apparently similar worlds at the root."
+    },
+    {
+      "from": "zm:44:zeitfragen",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis widens beyond human history where species-change and defeat in the struggle for existence are referred back to questions of time."
+    },
+    {
       "from": "note:journal:mumford-bridge",
       "relation": "grounds",
       "to": "thread:mumford-bridge",
@@ -1636,12 +2256,28 @@
       "zm:28",
       "zm:29",
       "zm:30",
-      "zm:31"
+      "zm:31",
+      "zm:32",
+      "zm:33",
+      "zm:34",
+      "zm:35",
+      "zm:36",
+      "zm:37",
+      "zm:38",
+      "zm:39",
+      "zm:40",
+      "zm:41",
+      "zm:42",
+      "zm:43",
+      "zm:44",
+      "zm:45",
+      "zm:46"
     ],
     "term_handles": [
       "term:an-der-zeitmauer",
       "term:fremde-voegel",
       "term:messbare-und-schicksalszeit",
+      "term:humane-einteilungen",
       "term:schicksalszeit",
       "term:mantisch",
       "term:urgrund",
@@ -1663,7 +2299,12 @@
       "zm:20:tragedy",
       "zm:25:plan-freedom",
       "zm:28:periodicity",
-      "zm:31:so-sein-gleichsein"
+      "zm:31:so-sein-gleichsein",
+      "zm:32:spiral",
+      "zm:36:analogy",
+      "zm:38:logos-nomos",
+      "zm:43:two-houses",
+      "zm:44:zeitfragen"
     ],
     "note_handles": [
       "note:zm:1:seidenschwanz",
@@ -1677,6 +2318,11 @@
       "note:zm:25:plan-freedom",
       "note:zm:28:periodicity",
       "note:zm:31:so-sein-gleichsein",
+      "note:zm:32:spiral",
+      "note:zm:36:analogy",
+      "note:zm:38:logos-nomos",
+      "note:zm:43:two-houses",
+      "note:zm:44:zeitfragen",
       "note:journal:mumford-bridge",
       "note:journal:goethe-leibniz-frame"
     ],
@@ -1695,13 +2341,35 @@
       "evidence:term:da-sein-so-sein:zm:4",
       "evidence:term:da-sein-so-sein:zm:11",
       "evidence:term:schicksalszeit:zm:20",
-      "evidence:term:da-sein-so-sein:zm:31"
+      "evidence:term:da-sein-so-sein:zm:31",
+      "evidence:term:hinzutretende:zm:36",
+      "evidence:term:weltplan:zm:17",
+      "evidence:term:weltplan:zm:37",
+      "evidence:term:schicksalszeit:zm:38",
+      "evidence:term:schicksalszeit:zm:43"
     ],
     "sections_by_part": {
       "fremde-voegel": [
         "zm:1",
         "zm:2",
         "zm:3"
+      ],
+      "humane-einteilungen": [
+        "zm:32",
+        "zm:33",
+        "zm:34",
+        "zm:35",
+        "zm:36",
+        "zm:37",
+        "zm:38",
+        "zm:39",
+        "zm:40",
+        "zm:41",
+        "zm:42",
+        "zm:43",
+        "zm:44",
+        "zm:45",
+        "zm:46"
       ],
       "messbare-und-schicksalszeit": [
         "zm:4",
@@ -1747,6 +2415,10 @@
         "kind": "evidence",
         "index": 6
       },
+      "evidence:term:hinzutretende:zm:36": {
+        "kind": "evidence",
+        "index": 10
+      },
       "evidence:term:hinzutretende:zm:6": {
         "kind": "evidence",
         "index": 3
@@ -1767,21 +2439,37 @@
         "kind": "evidence",
         "index": 8
       },
+      "evidence:term:schicksalszeit:zm:38": {
+        "kind": "evidence",
+        "index": 13
+      },
       "evidence:term:schicksalszeit:zm:4": {
         "kind": "evidence",
         "index": 0
+      },
+      "evidence:term:schicksalszeit:zm:43": {
+        "kind": "evidence",
+        "index": 14
       },
       "evidence:term:schicksalszeit:zm:9": {
         "kind": "evidence",
         "index": 1
       },
+      "evidence:term:weltplan:zm:17": {
+        "kind": "evidence",
+        "index": 11
+      },
+      "evidence:term:weltplan:zm:37": {
+        "kind": "evidence",
+        "index": 12
+      },
       "note:journal:goethe-leibniz-frame": {
         "kind": "note",
-        "index": 12
+        "index": 17
       },
       "note:journal:mumford-bridge": {
         "kind": "note",
-        "index": 11
+        "index": 16
       },
       "note:zm:11:schachtgaenge": {
         "kind": "note",
@@ -1819,6 +2507,26 @@
         "kind": "note",
         "index": 10
       },
+      "note:zm:32:spiral": {
+        "kind": "note",
+        "index": 11
+      },
+      "note:zm:36:analogy": {
+        "kind": "note",
+        "index": 12
+      },
+      "note:zm:38:logos-nomos": {
+        "kind": "note",
+        "index": 13
+      },
+      "note:zm:43:two-houses": {
+        "kind": "note",
+        "index": 14
+      },
+      "note:zm:44:zeitfragen": {
+        "kind": "note",
+        "index": 15
+      },
       "note:zm:6:hinzutretende": {
         "kind": "note",
         "index": 1
@@ -1833,15 +2541,15 @@
       },
       "term:bruchstelle": {
         "kind": "term",
-        "index": 8
+        "index": 9
       },
       "term:da-sein-so-sein": {
         "kind": "term",
-        "index": 10
+        "index": 11
       },
       "term:erdgeschichtlich": {
         "kind": "term",
-        "index": 6
+        "index": 7
       },
       "term:fremde-voegel": {
         "kind": "term",
@@ -1849,11 +2557,15 @@
       },
       "term:hinzutretende": {
         "kind": "term",
-        "index": 9
+        "index": 10
+      },
+      "term:humane-einteilungen": {
+        "kind": "term",
+        "index": 3
       },
       "term:mantisch": {
         "kind": "term",
-        "index": 4
+        "index": 5
       },
       "term:messbare-und-schicksalszeit": {
         "kind": "term",
@@ -1861,15 +2573,15 @@
       },
       "term:schicksalszeit": {
         "kind": "term",
-        "index": 3
+        "index": 4
       },
       "term:urgrund": {
         "kind": "term",
-        "index": 5
+        "index": 6
       },
       "term:weltplan": {
         "kind": "term",
-        "index": 7
+        "index": 8
       },
       "thread:goethe-leibniz-frame": {
         "kind": "thread",
@@ -2023,9 +2735,89 @@
         "kind": "chunk",
         "index": 11
       },
+      "zm:32": {
+        "kind": "section",
+        "index": 31
+      },
+      "zm:32:spiral": {
+        "kind": "chunk",
+        "index": 12
+      },
+      "zm:33": {
+        "kind": "section",
+        "index": 32
+      },
+      "zm:34": {
+        "kind": "section",
+        "index": 33
+      },
+      "zm:35": {
+        "kind": "section",
+        "index": 34
+      },
+      "zm:36": {
+        "kind": "section",
+        "index": 35
+      },
+      "zm:36:analogy": {
+        "kind": "chunk",
+        "index": 13
+      },
+      "zm:37": {
+        "kind": "section",
+        "index": 36
+      },
+      "zm:38": {
+        "kind": "section",
+        "index": 37
+      },
+      "zm:38:logos-nomos": {
+        "kind": "chunk",
+        "index": 14
+      },
+      "zm:39": {
+        "kind": "section",
+        "index": 38
+      },
       "zm:4": {
         "kind": "section",
         "index": 3
+      },
+      "zm:40": {
+        "kind": "section",
+        "index": 39
+      },
+      "zm:41": {
+        "kind": "section",
+        "index": 40
+      },
+      "zm:42": {
+        "kind": "section",
+        "index": 41
+      },
+      "zm:43": {
+        "kind": "section",
+        "index": 42
+      },
+      "zm:43:two-houses": {
+        "kind": "chunk",
+        "index": 15
+      },
+      "zm:44": {
+        "kind": "section",
+        "index": 43
+      },
+      "zm:44:zeitfragen": {
+        "kind": "chunk",
+        "index": 16
+      },
+      "zm:45": {
+        "kind": "section",
+        "index": 44
+      },
+      "zm:46": {
+        "kind": "section",
+        "index": 45
       },
       "zm:5": {
         "kind": "section",
@@ -2069,18 +2861,25 @@
       "term:hinzutretende": [
         "evidence:term:hinzutretende:zm:6",
         "evidence:term:hinzutretende:zm:7",
-        "evidence:term:hinzutretende:zm:9"
+        "evidence:term:hinzutretende:zm:9",
+        "evidence:term:hinzutretende:zm:36"
       ],
+      "term:humane-einteilungen": [],
       "term:mantisch": [],
       "term:messbare-und-schicksalszeit": [],
       "term:schicksalszeit": [
         "evidence:term:schicksalszeit:zm:4",
         "evidence:term:schicksalszeit:zm:9",
         "evidence:term:schicksalszeit:zm:13",
-        "evidence:term:schicksalszeit:zm:20"
+        "evidence:term:schicksalszeit:zm:20",
+        "evidence:term:schicksalszeit:zm:38",
+        "evidence:term:schicksalszeit:zm:43"
       ],
       "term:urgrund": [],
-      "term:weltplan": []
+      "term:weltplan": [
+        "evidence:term:weltplan:zm:17",
+        "evidence:term:weltplan:zm:37"
+      ]
     },
     "relations_by_from": {
       "note:journal:goethe-leibniz-frame": [
@@ -2175,6 +2974,46 @@
           "relation": "crystallizes",
           "to": "thread:time-crisis",
           "note": "The part closes where time-crisis becomes a conflict between singular form and mass uniformity rather than between astrology and science alone."
+        }
+      ],
+      "zm:32:spiral": [
+        {
+          "from": "zm:32:spiral",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "Part 3 reopens the crisis as a problem of how world-time itself is divided: line, circle, or spiral."
+        }
+      ],
+      "zm:36:analogy": [
+        {
+          "from": "zm:36:analogy",
+          "relation": "extends",
+          "to": "thread:goethe-leibniz-frame",
+          "note": "Spengler's analogy-driven physiognomy shows the power and insufficiency of morphology without an inner bond."
+        }
+      ],
+      "zm:38:logos-nomos": [
+        {
+          "from": "zm:38:logos-nomos",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The opening cosmological problem of Part 3 is explicitly rejoined to measurable and fateful time through astrology as method."
+        }
+      ],
+      "zm:43:two-houses": [
+        {
+          "from": "zm:43:two-houses",
+          "relation": "crystallizes",
+          "to": "thread:time-crisis",
+          "note": "Historical resemblance reaches its limit where fateful time divides two apparently similar worlds at the root."
+        }
+      ],
+      "zm:44:zeitfragen": [
+        {
+          "from": "zm:44:zeitfragen",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis widens beyond human history where species-change and defeat in the struggle for existence are referred back to questions of time."
         }
       ],
       "zm:9:church-year": [

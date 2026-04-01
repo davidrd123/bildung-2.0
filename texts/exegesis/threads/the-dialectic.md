@@ -85,3 +85,55 @@ Every truth Dick arrives at generates its opposite. This is not failure — it's
 - `[48:907]` dialectic becomes risk-logic: striving toward PTG may drop one into BIP, so revelation is also gamble
 - `[49:1081]` the interaction of the two information sources is said to generate our universe as an increasingly complex informational world
 - `[49:1132–1151]` the deepest version arrives: the Godhead splits against itself because the beauty of kosmos morally conflicts with the suffering it requires
+- `[83:5]` the dialectic is rewritten as negentropy versus entropy, God versus Counter-God, inside a new hybrid theology
+- `[83:91]` historical dialectic is openly Hegelianized again: freedom advances through recurring anti-imperial struggle
+- `[83:136–138]` Empire and Christians are finally defined as anti-information versus information, and the Cosmic Christ grows by feeding on their conflict
+- `[1:24]` enantiodromia now governs discernment itself: trash may hide God while monuments and cathedrals may hide the adversary
+- `[1:49]` Christianity and Neoplatonism become opposed but necessary registers that Dick must hold together as role and truth
+- `[1:88]` Tao is installed as regulator of the dialectic rather than merely one participant within it
+- `[1:127–170]` one tiny new act or perturbation can trigger field-wide macroenantiodromia and overturn the closed system
+- `[1:282–286]` intellect both traps Dick inside world-tailored delusion and, by exhausting itself into infinite regress, leads him beyond it
+- `[87:1]` historical dialectic is specified as a five-empires struggle culminating in Christ's kingdom against Augustinian resignation
+- `[87:17]` reason and justice remain real but are subordinated to agape as a principle higher than dialectical order
+- `[88:10]` dialectic becomes pedagogy: Satanic delusion is permitted because its exhaustion drives Dick toward God
+- `[88:68]` Valis is stabilized as world reason and historical regulator, halfway between theology and conspiracy
+- `[89:29]` Part Four replays the dialectic as wounded Christic rationality versus insane creator and cosmic occlusion
+- `[89:103–119]` political revolution is no longer metaphor but the explicit worldly arm of the dialectic, with `VALIS` made into handbook and manifesto
+- `[89:139–142]` Dionysus versus the King of Tears becomes a Greek restatement of prison versus joyous Christians, tragedy versus agape
+- `[90:2]` the dialectic receives its strongest process restatement yet: Boehme's no/yes becomes a binary universe of cancellation and actualization
+- `[90:13–19]` Christ consciousness is defined as perceiving and participating in this choosing structure rather than in old causality
+- `[90:G-43–49]` the whole conflict turns inward again: creator and prisoner may be one, and the war may be the mind's struggle with its own worlds
+- `[77:G-8–11]` truth splits into artistic vision versus objective doctrine: the late archive refuses to collapse one register into the other
+- `[79:I-13–15]` Satanic desire to know God, divine intoxication, and sober essence become a new tragic version of the yes-no struggle
+- `[79:I-81]` reason versus faith is made fully explicit: intelligence can diagnose the prison but cannot leap out of it
+- `[80:J-6–12]` rigid machine or Torah versus love and play becomes the latest historical form of the living-dead opposition
+- `[91:J-89]` the dialectic is pushed back into Godhead self-knowledge itself: self-map versus reality, descending forgetfulness versus provident restoration
+- `[91:K-157–208]` Torah, Christ, and Spirit become developmental stages inside one information organism, turning opposition into accelerated internal evolution
+- `[81:K-262]` the dialectic is biological and informational at once: two distinct centers survive by entering syzygy rather than by fusing into sameness
+- `[81:K-353–354F]` the cosmocrator nightmare returns in grim form: the whole binary computer may still be built from our own prior thought
+- `[62:C-56–57]` eco-theology becomes political dialectic: Caesar/Reagan, public cruelty, and the ragtag believers restage the Empire conflict in anti-nuclear terms
+- `[62:C-86–87]` Christianity versus maya yields a sharper middle position: obliging illusion is neither pure nothing nor solid reality, and dialectic moves into ontology itself
+- `[62:C-181–203]` revelation is restated as reversal, rescue, and heroic victory hidden inside sacrifice; good wins by being swallowed at evil's center
+- `[64:E-3–11]` the late dialectic becomes explicit information war: official twenty-two-letter cosmos versus hyper-informational twenty-third-letter correction, tragic heimarmene versus heroic/Faustian freedom
+- `[64:E-20]` paradox is treated as engine rather than embarrassment; runaway positive feedback is how the field flips into disclosure
+- `[56:H-10–25]` the dialectic is recast as atomist discontinuity versus continuum/noös, with the modern world inheriting the darkening and post-Newtonian physics making reversal conceivable
+- `[55:L-18]` Dick returns to the royal inversion grammar with unusual late clarity: usurper versus rightful king, old ruler versus young fool, appearance versus true sovereignty
+- `[55:X-4]` iron age and gold age return in ecstatic form: Christianity becomes the hidden overthrow of the king of tears by joyful Dionysian Christ
+- `[55:D-84]` the dialectic turns inward again as self-winding maze: the creature's effort to solve it fuels it
+- `[55:D-85]` YHWH and Sophia reframe the conflict as morality-and-life versus sin-and-death, with law and creation shown as one preserving order
+- `[55:D-110–115]` passion and ecstasy become the Christian version of the yes-no struggle: suffering is not negated but converted through agape into its opposite
+- `[67:12]` the old lifelong split of allegiance is finally healed, making political resistance feel like obedience to God rather than secular dissent
+- `[68:L-10–12]` Empire becomes palpably current through Reagan-era nuclear politics, with Armageddon no longer visionary but historically visible
+- `[69:I-8]` Dick openly revolts against hair-shirt Christianity, restoring dignity and self-respect against shame-based religion
+- `[73:29–54]` gnosis is parodied, esoteric overreading is retracted, and the dialectic is forced back from mythic secret history to the actual behavior of reality
+- `[53:C-8]` `VALIS` is reread as slaying-wisdom rather than agape, restoring the terrifying pole of the late God-image
+- `[53:F-5]` Dantean triune structure lets the dialectic span atomized machine world, empathic common world, and total informational harmony
+- `[54:L-5-M-1]` the dialectic of escape becomes paradoxical: compassion and voluntary return, not unilateral ascent, solve the maze
+- `[54:M-8]` Boehme's inner divine dialectic is explicitly installed inside `The Divine Invasion`
+- `[54:M-24-40]` psychosis becomes the negative dialectical twin of revelation: finite mind supposing the infinite without gift
+- `[54:N-20]` Gnosticism is retained only by redefining knowing as negentropic growth rather than as static possession
+- `[60:A-34-37]` doubt versus pistis, fool versus scholar, and grief beyond agape sharpen the archive's late moral and epistemic oppositions
+- `[75:D-52]` the dialectic is internalized as will-world versus agape, with love defeating the adversary by renouncing self-primacy
+- `[76:E-2-19]` running versus facing fate, and alien world versus hospitable world, become the stripped existential form of the conflict
+- `[84:5-8]` Christ as newness and paradox as awakening compress the dialectic into event and koan
+- `[57:Q-36, S-5]` pain and hope, Yang and Yin, upper rescuer and lower incarnate self become the final paired structure of the archive

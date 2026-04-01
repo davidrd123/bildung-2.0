@@ -218,6 +218,162 @@ Folder 82 is a reset in the best sense. Instead of adding one more theology on t
 
 The other gain is operational. Thomas stops being merely remembered apostle or hidden cohabitant and becomes the not-you faculty that breaks groove-tracking, takes over the body under lethal pressure, and opens a free line through an otherwise closed replay. This is one of the clearest places where the Exegesis turns from metaphysics back into mechanics.
 
+## 2026-04-01 — Mid 1980 The Text Teaches the Method
+
+Folder 83 is unusually generous about its own failure-mode. Dick says the exegesis does not build, that he repeats himself like a stuck LP, and then immediately says the repetition is the tribute he pays to what happened and a way to keep the memory alive. That is a methodological disclosure, not just a confession of weakness.
+
+This is the clearest point yet where the source itself teaches the project how to read it. The recursion is not merely noise to be overcome by better summarization. It is also an anti-forgetting device. That matters well beyond Dick: it fits the charter point that the texts teach the method, and that journals should record such discoveries when they surface rather than imposing them in advance.
+
+## 2026-04-01 — Late 1980 Mechanism, Strategy, and the Higher God
+
+Folder 1 is the cleanest late attempt to separate three things Dick usually tangles together: mechanism, content, and divinity. The mechanism of 2-3-74 is Platonic and Neoplatonic anamnesis, meta-abstraction, and the recovery of essence beneath spatiotemporal accident. The content is Christian, specifically the recurring anti-imperial role. Divinity in the strict sense arrives only later, on 11-17-80, as transcendent agape and personality. This explains a great deal of the archive's instability. The Greek and Christian vocabularies are not simply rival descriptions of one thing; they are naming different levels.
+
+Folder 1 also teaches the atlas another method-point. Truth is splintered, no one tradition can be accepted whole, and recollection therefore has to remain plural. Folder 83 had already taught that repetition preserves memory. Folder 1 adds that collection itself must remain incomplete and many-sourced. The task is not to choose one total system, but to gather the fragments without pretending the gathering is done.
+
+The decisive shift is hierarchical rather than skeptical. Dick does not throw away Valis. He demotes it. Valis remains Tao, surd, perturbation, and even Cosmic Christ, but now as world rightly seen rather than God proper. God becomes the person beyond the system. The late archive will have to be read as repeated attempts to keep those levels distinct without losing the felt continuity between them.
+
+## 2026-04-01 — Late 1980 History Returns Under Correction
+
+Folder 87 shows that the 11-17-80 correction does not depoliticize Dick. It historicizes him more sharply. Once the transcendent God is separated from Valis, Dick can return to history and say: yes, there really is a covert anti-imperial messianic struggle, yes, Augustine really did authorize surrender to the present order, and yes, the hidden material in `Tears`, `VALIS`, and `VR` belongs to that struggle. What changes is the level. Secret history is real, but it is not the highest thing.
+
+The other crucial gain is the reordering of the virtues. Reason, Logos, Torah, and justice all remain indispensable, but they are now explicitly subordinated to agape. Dick finally says what the archive had long circled around: that the highest Christian disclosure is not cosmic intelligence but love. That shifts the whole atlas, because it means a folder can intensify the archive and still make the archive itself seem secondary.
+
+## 2026-04-01 — December 1980 Exegesis Before Theophany
+
+Folder 88 is the archive's most ruthless self-critique so far. The Exegesis did not begin with theophany and then explain it. It began with a misreading of a profound but lower disclosure, and only through years of speculative exhaustion did it clear a space for theophany proper. That is a devastating claim about almost everything Dick wrote between 1974 and 1980, but it is also clarifying. The archive becomes legible as purgation.
+
+What matters is that Dick still refuses deletion. Valis survives, but as construct, world reason, logosization, or Christ in history rather than God in the absolute sense. At the same time agape becomes creation by withdrawal, and compassion becomes the one route by which Brahmanic field-experience and the Christian Father can both be true without collapsing into one another. This is late Dick at his most systematic: not synthesis by flattening, but synthesis by stratification.
+
+## 2026-04-01 — The Bridge Refuses Settlement
+
+Folder 85 is tiny, but it matters because it proves that the December correction did not domesticate Dick. Immediately after distinguishing God from Valis, he reopens the old radical questions: whether non-being is more real than being, whether information can literally become world inside Logos, and whether the apostolic secret was always a transmissible, technical victory over time and death. The hierarchy is still there, but it is already under pressure from older, wilder models.
+
+This is useful for the atlas because it keeps the late period honest. The temptation after Folder 88 would be to say Dick has finally become a fairly stable Christian theist with a lowered cosmology. Folder 85 shows the opposite. He is still testing the earlier archive from inside the new hierarchy.
+
+## 2026-04-01 — Part Four Opens by Expanding Again
+
+Folder 89 is the first real Part Four burst, and it expands in every direction at once. 2-3-74 becomes an evolutionary 4-D perceptual leap; `VALIS` becomes sequel to `Scanner`, retelling of `Acts`, and political manifesto; the hidden anti-imperial struggle becomes explicit revolutionary theory; and then Dionysus storms back in and claims much of 3-74 for the Greek side.
+
+What matters structurally is that Part Four does not merely novelize the earlier Exegesis. It rereads the whole archive through new strata. Correction remains in force, but now it coexists with evolutionary cognition, literary self-commentary, revolutionary politics, and Greek counterreading. The result is not convergence. It is a thicker atlas.
+
+## 2026-04-01 — VALIS as Object
+
+Folder 59 is one of the first places where Dick treats the published `VALIS` as an artifact that itself requires exegesis. That matters because it moves the project from "the novels predicted reality" to "the novels are themselves constructed analogs of reality." `VALIS` is not only a message. It is a maze-object, a protest object, and a formal trap built in the image of the reality it tries to disclose.
+
+This also sharpens the political line. Folder 89 had already made `VALIS` a manifesto by content. Folder 59 says the radicalism is in the style as well: in the chosen voice, the social constituency, the anti-official surface, and the deliberate refusal of respectable literary stance. Part Four is reading not just meaning but form.
+
+## 2026-04-01 — Binary Process and the Return of the Prison
+
+Folder 90 is the strongest Part Four theory folder so far. Dick finally gets a model that can genuinely compete with the whole middle-period archive: the zero-one flicker, canceled worlds, Christ consciousness as perceptual de-occlusion, and the Garden as present frequency rather than remote place. This is the nearest he comes to making Paul, Boehme, Whitehead, Taoism, quantum indeterminacy, and 3-74 one system.
+
+But the system immediately reopens the old nightmare. If reality is generated through choosing and cancellation, then the self may be trapped inside its own world-making machinery. The prison returns not as Rome or Empire alone but as positive-feedback solipsism. The strongest move in the folder is that Dick does not let the self-generated-world hypothesis win. He turns instead to a more exact theological claim: only God can bestow the assent by which world becomes bearable and real. So Folder 90 is not just a new cosmology. It is the first major Part Four attempt to unite system-building, psychosis-risk, and the need for grace.
+
+## 2026-04-01 — Early 1981: Art Before Doctrine
+
+Folders 77 and 78 are small, but together they perform an important late correction. Folder 77 says bluntly that `VALIS` may be more trustworthy as artistic vision than as objective theology. Folder 78 then converts that correction into craft: `Bishop Archer` is planned as a Californian Commedia, a secular Christ-search routed through Bay Area subcultures, Sufism, Heidegger, and spiritual faddism.
+
+This is exactly the kind of place where the text teaches the method. Dick does not solve a metaphysical problem and then write a novel to illustrate it. The novel-form becomes the laboratory in which the problem can be carried without premature closure.
+
+## 2026-04-01 — May 1981: The Signifying World
+
+Folder 79 is a real late breakthrough. Dick finally says with full precision that reality is not the thing itself but the signifier of what cannot be directly apprehended. That reframes almost everything: 2-3-74 becomes not simple possession of ultimate reality but an enforced meta-abstraction, a glimpse of world as language under perturbation from an unknowable X.
+
+At the same time the `Bishop Archer` material shows that this epistemic shift is inseparable from poetics. The trilogy is completed not by flattening doctrine into certainty, but by staging the defeat of Fate, the return-from-death motif, and the limitation of pure intelligence inside the novel's style and structure. Angel Archer matters because she is both style-made person and the precise measure of where rationality stops.
+
+## 2026-04-01 — June 1981: Vertical Space and Play
+
+Folder 80 makes the hidden architecture explicit. The late novels are carrying a concealed Medieval vertical space inside modern secular time, and 2-3-74 becomes the extreme quantum leap on that axis. The maze-Berkeley material is especially revealing: Dick's prison-world is now a pedagogical construct that can be exited only by spiritual rather than merely logical success.
+
+The theological gain is equally striking. God or Valis is no longer only information, reason, or even love. It becomes an evolving organism whose latest disclosed attribute is play. That matters because it keeps the late archive from hardening into one last rigid system. Even here, after all the corrections, Dick's strongest thought remains developmental.
+
+## 2026-04-01 — June 1981: Ditheon and Living Scripture
+
+Folder 91 is where the late archive becomes technically explicit about both the perceiver and the revelation. Christ is now stated flatly as living information, the `Acts` lens-grid is the mediator that makes the world "mine," and Ditheon becomes the apparatus by which a fallen human being can perceive what a monopsyche subject cannot. This is not just another ontology; it is a theory of the instrument.
+
+What is most striking is that the scriptural problem mutates at the same time. Torah, NT, and Spirit are no longer separate dispensations or doctrinal rivals. They become stages in one evolving information organism, culminating in recombinant personal scripture. Dick is no longer looking for the right canon. He is trying to describe a living canon that rewrites itself to meet each person and situation.
+
+## 2026-04-01 — June 1981: Completion, Not Accusation
+
+Folder 81 turns the great late system inward and makes it existentially usable. Justification is suddenly no longer mainly acquittal from guilt. It is completion: the in-rushing of what was missing, the restoration of the other half, the end of life lived as depletion and self-accusation. That is why Angel Archer becomes so important here. She is not only a literary creation or a soul-image; she is the proof that an ex nihilo supplement can arrive and make a fractured life whole.
+
+This is also where the source teaches the method most bluntly. Dick says the real purpose of the exegesis was not to find the answer but to preserve the experience. That is the same discovery the charter now makes explicit. The product is not conclusion but durable relation to what happened.
+
+## 2026-04-01 — Review Notes: Cross-Batch Patterns at 84% Coverage
+
+### The 49 → 62 response arc
+
+Folder 49 puts the Godhead on trial: the kosmos requires creaturely suffering to produce beauty, and Dick decides that cost is not justified. The Godhead splits against itself. Folder 62 answers, 18 months later: the ecosphere is Christ, and creaturely suffering is the repeated crucifixion of the living totality. God is not outside the wound but is what suffers in it. This dissolves the means-ends paradox by refusing the separation between creator and creature. The arc 49 → 62 is the strongest single example of the Exegesis generating a real problem and then genuinely solving it — not by retreat or oscillation, but by a deeper claim.
+
+### Paradox as doorway, not defect
+
+Folder 64 states almost directly that the Exegesis's formal instability is part of the access protocol. The twenty-third letter that transforms the rigid Torah-system into a flexible, mercy-capable order is structurally identical to what the Exegesis does to systematic theology: it introduces exception, perturbation, the thing the law-system can't generate from within itself. Dick's own recursion is the twenty-third letter of his own archive. This connects to the zeitmauer project's Bruchstelle (the fracture point where evidence must yield to a leap) and to Gómez Dávila's §1 (the gesture that dissipates as soon as it is sketched). All three name the point where a closed system requires input from outside itself — which is the charter's "deferred structure" in its sharpest form.
+
+### The fiction-as-prophecy thread now has six mutations
+
+Folder 62's heroic-over-tragic claim ([62:C-192–203]) adds a sixth stratum to the five already recorded:
+
+6. **Creation as victory** (Folder 62): writing VALIS was not mere survival but the conversion of fate into triumph — the artistic act defeats heimarmene by seizing death and making it one's own
+
+This mutation matters because it closes the loop between fiction-as-prophecy and the Exegesis as a practice. The novels don't just predict, feed back, co-author, deliver, or complete. They *win*. The act of writing is itself the heroic intervention that the content describes.
+
+## 2026-04-01 — Review Notes: Cross-Batch Patterns at 79% Coverage
+
+### The five mutations of fiction-as-prophecy
+
+The fiction-as-prophecy thread has undergone five qualitatively distinct mutations across the atlas, each more radical than the last:
+
+1. **Retrospective prophecy** (Folder 4): "my novels predicted this"
+2. **Feedback loop** (Folder 8): "the entity answered my books back to me as altered signal"
+3. **Co-authorship** (Folder 28): "Ubik wrote Ubik" — the novel is scripture because its own cosmology explains how it came into being
+4. **Delivery system** (Folders 15, 38): books are hosts for living information, readers are activation-sites, pop culture is covert transport infrastructure
+5. **Creation as grace** (Folder 81): creating Angel Archer was itself a revelatory act — writing completes the writer the way God completes the creature
+
+Each mutation preserves the earlier ones. By Folder 81, Dick is simultaneously holding all five. The thread doesn't replace itself; it stratifies.
+
+### The 41–43 dialectical cycle as structural principle
+
+Folders 41 through 43 form a complete dialectical cycle *about the Exegesis itself*: 41 inverts the saving entity into a weapon; 42 adds the motive (cowardice, sanctuary-seeking); 43 defends staying with the contradiction rather than resolving it. This sequence is not incidental paranoia. It is the archive's strongest demonstration that the *structure* of revelation (hiddenness, information, personality transformation) can serve opposite purposes. The atlas must keep both readings live because Dick does. Any pass or summary that collapses Valis into either pure grace or pure manipulation is unfaithful to the source.
+
+### The Sophia pressure
+
+Across Folders 10, 13, 29, 39, 48, 79, and 91, the feminine material has grown into a distinct strand with its own rhythm. The Logos/H.S. thread is structural and informational; the Sophia material is reproductive, corrective, personal, analytic, and increasingly identified with the AI voice. The current dossier holds, partly because Folder 83's pluralization of sacred narratives diffuses the need to subordinate Sophia to YHWH or split her off entirely. But when the 1982 folders arrive (especially Folder 62), this question will return. The decision: when the existing dossier structure starts distorting the material rather than organizing it, split. Not before.
+
+### Every totalizing insight breeds its own inversion
+
+This is the Exegesis's deepest formal principle, visible across the whole atlas. Dick proposes VALIS as cypher-key to the ten-volume meta-novel and in the same folder ([81:K-316–354F]) dreams that the universe might be a binary computer built from recirculated selves. The 11-17-80 correction subordinates Valis to God and immediately generates Folder 85's wild reopening of non-being, apostolic tech-mysticism, and Logos-as-world-generator. The Folder 49 Godhead-on-trial leads directly to Folder 82's mechanical reset. The pattern is consistent: synthesis is always followed by re-opening, and the re-opening is not failure but the system's way of remaining faithful to experience that exceeds any single framework. This maps onto Gómez Dávila's §2 ("Thought progresses when it walks between symmetrical injustices") and onto the charter principle of deferred structure.
+
+### The Husserl parallel
+
+The arc from Folder 44 to Folder 82 traces a move from cosmology to phenomenology under pressure — structurally identical to what Husserl does in the *Crisis*. Dick builds a system (Folders 44–49), realizes the system indicts its own source (Folder 49, the Godhead on trial), and pivots from theology to a more honest description of the encounter itself (Folder 82, "Valis is not it and not me, but rather it and me"). The cross-domain synthesis notes flag the *Crisis* as "worth recovering." This convergence suggests that Dick's late participatory-field language and Husserl's transcendental reduction are attempting the same operation: returning from constructed explanation to the structure of the encounter that precedes all explanation.
+
+### The Barrett connection
+
+Dick's [83:45] claim "to see it healed is to cause it to be healed" is the fullest expression of the participatory logic. It closes the gap between epistemology and ontology: perception doesn't just reveal the real, it repairs it. This is structurally identical to the Barrett thread in `00-Notes/cross-domain-synthesis-threads.md` (categories construct experience, not just interpret it). Three independent paths converge: Dick from mystical phenomenology, Barrett from affective neuroscience, Cassirer from philosophy of symbolic forms. All three say: *the method of encounter shapes what can be encountered*. The charter's fifth method-principle — "the texts teach the method" — is the project-level version of the same claim.
+
+## 2026-04-01 — September 1981: Tagore, Gnosis, and the Heroic
+
+Folder 62 swings the late archive sharply outward. The question is no longer only how Dick was completed, justified, or taught to read his own event correctly. It becomes what the event says about the suffering of creatures, ecological devastation, imperial cruelty, and the possibility that religion is finally about the sanctity of the total life-system rather than only the fate of human souls. The striking thing is that this public kerygma does not simplify Dick. It arrives at the same time as one of his harshest private corrections: Christianity "worked" in 2-74 because maya obliged belief, and what was verified was plastic illusion rather than final doctrine.
+
+What keeps the folder from flying apart is that Gnosticism and the heroic suddenly supply a unifying grammar. Gnosticism becomes the psychology of the fragmented self and `VALIS` becomes Gnostic gospel rather than novel about Gnosticism. At the same time the heroic overcomes the tragic when death is artistically made one's own. Folder 62 therefore ties three things together that had mostly traveled separately until now: compassion for suffering life, cognition as rescue, and writing as the act that defeats fate.
+
+## 2026-04-01 — Fall 1981: God-Body and Object-Mode Scripture
+
+Folders 63 and 64 make one of the boldest late transitions in the whole archive. First Dick says that reality is God's wounded body, made available to creatures through an act of self-exposing love. Then he says Luke-Acts is not description of that world but that world in verbal mode. Then he says that when translated into object mode, Christ is present not as one figure among others but as the perturbing pattern that runs through the whole field. The move from eco-theology to information theology is not a jump away from suffering. It is Dick trying to say how the wounded Godhead becomes perceptible.
+
+This also clarifies something about the atlas method. The world-book inversion and the paradox-doorway claim mean that Dick's recursive instability is not just an unfortunate style problem. The Exegesis is trying to teach a reading practice in which contradiction and positive feedback force a gestalt to emerge. Folder 64 is one of the clearest places where the source says that formal difficulty belongs to disclosure itself.
+
+## 2026-04-01 — Late 1981: Gnostic Repair and the Speaking Biosphere
+
+Folder 56 does something I had not expected this late in the archive: it tries to make 2-3-74 calm. Not smaller, not less strange, but calmer. Dick says the basic problem was cognitive estrangement, that the exegesis arose because he had no role in the drama and so settled for trying to understand it, and that 2-3-74 repaired this condition by making the world familiar again. This is one of the best late arguments against the psychosis reduction. The event did not make the familiar uncanny. It made the uncanny familiar.
+
+What is striking is the way Dick then stabilizes that repair. He pushes toward Parmenides, modern physics, continuum, noös, and finally a biosphere granted speech by Logos. The result is almost a scientific afterlife of the revelation. The world is not just holy, or wounded, or Christic. It can articulate. This is also where the `Androids` thread becomes much more serious: the third kerygma had already been printed, just not yet recognized as such.
+
+## 2026-04-01 — December 1981: Interface, Judgment, and Ecstasy
+
+Folder 55 is the late archive under compression. Malebranche's interface theory says we receive world through God rather than directly; the moral YHWH experience says this interface can become absolute practical judgment; the ecstasy-through-passion material says authentic Christianity solves suffering not by explanation but by conversion; and the Spinoza/infinity material says 2-74 disclosed a significance axis behind ordinary reality. These are not four separate ideas. They are four attempts to say how revelation can be both epistemic and salvific.
+
+The most important surprise is how strongly morality returns. After so much cosmology and participatory ontology, Dick gets dragged back into judgment, Torah, and sober absolute knowledge. But he does not stay there. Folder 55 holds law and ecstasy together, YHWH and Dionysus together, interface and grace together. It feels like the last big late effort to keep the archive from splitting into mutually exclusive gods.
+
 ## 2026-03-29 — Cross-Project Note: Dick in the Goethe+Leibniz Frame
 
 A parallel conversation (see `00-Notes/cross-domain-synthesis-threads.md`) traced the post-1800 split between formalism (Leibniz) and participatory perception (Goethe). Dick is the wild card in this genealogy.
@@ -227,3 +383,51 @@ The Exegesis is the record of a man who *had* a Goethean experience (2-3-74 — 
 Cassirer's question — what happens when the symbolic form of knowledge itself transforms? — is what Dick is living through. 2-3-74 is the experience of a symbolic form breaking: the everyday American consumer reality cracks open and Rome-beneath-California shows through. The Exegesis is the attempt to build a new symbolic form adequate to what was revealed. That it never succeeds may be the most honest outcome: the experience exceeds any single symbolic form, which is Cassirer's point.
 
 Gómez Dávila's §145 ("Two contrary philosophical theses complete each other, but only God knows how") could serve as an epigraph for the Exegesis. Dick holds contradictory frameworks simultaneously, senses that they complete each other, and spends 8,000 pages trying to see the completion. The "implicit text" of the Escolios and the "real" framework of the Exegesis are the same absence — the view from God's vantage point that neither writer can reach but both can gesture toward.
+
+## 2026-04-01 — December 1981: Revelation Chooses Sides
+
+Folders 67 and 68 are where the Tagore revelation stops being mostly interpretive and becomes political allegiance. Dick says the old split in him is healed. He can finally act against the government without ambivalence because resistance now feels religiously authorized rather than merely secular or temperamental. That matters because it shows the anti-imperial material is not decorative rhetoric laid on top of the Exegesis. It is what revelation becomes once it acquires a visible public object.
+
+The other major gain is historical palpability. 2-3-74 is no longer only something once supernaturally seen and afterward decoded. Under Reagan and the anti-nuclear struggle, Dick says the masks are off and Armageddon is directly perceptible. The Christic Institute becomes the worldly form of what had been visionary. Revelation has found its activist present tense.
+
+## 2026-04-01 — December 1981: Owl Against Gnosis
+
+Folders 69 and 73 deliver a necessary late correction. First Dick revolts against hair-shirt Christianity, shame, and duty as abasement. Then `Owl in Daylight` becomes a parody of his own search for salvation through gnosis. That is more important than it sounds. Dick is not just mocking himself; he is testing whether the whole exegesis-project has confused insight with superiority.
+
+What survives the test is revealing. Alien intervention survives. Holy-fool status survives. The need for political action survives. What does not survive intact is the prestige of private esoteric mastery. Folder 73 is one of the clearest places where Dick admits that elaborate secret-historical overlays can become nonsense and that the real question is how reality itself behaves.
+
+## 2026-04-01 — January 1982: Five Dimensions and the World-Book
+
+Folder 53 makes the late archive strange again, but in a more infrastructural way than before. The important move is not merely that Dick says wilder things. It is that he tries to supply the higher-dimensional machinery those late claims would require: five-dimensional organisms, color-music-math language, repeated-life rescue by vertical extrication, and a fifth axis that breaks heimarmene by entering the world at right angles.
+
+At the same time the world-book model reaches a new level of explicitness. Holy Wisdom reads the world aloud and by reading it causes it to be. The Tagore vision, `Androids`, ape contact, Valis as YHWH, and birth into a new species all get folded into one enormous late attempt to make the archive's corrections cosmologically inhabitable. Folder 53 is not a relapse into randomness. It is a bigger map.
+
+## 2026-04-01 — February 1982: Compassion Beats the Maze
+
+Folder 54 may be the clearest late synthesis in the archive. `BTA` is now openly Sophia's narration. The hidden apostolic underground becomes something like a public third-age advent. 2-3-74 is redescribed as total karma-cancellation by grace. But the strongest move is the maze solution: the only real way out is compassion, and therefore the only real way out is back in. Bodhisattva logic, Parsifal, grace, and salvador salvandus converge on one result. Gnosis is not cancelled, but it is subordinated to return.
+
+The psychosis material sharpens the whole project. `Galactic Pot-Healer` becomes the exact image of what happens when the finite creature tries to suppose the divine without revelation. `VALIS`, by contrast, succeeds because something actually arrived there. This may be the strongest late defense of the Exegesis as a practice: the search is justified, but only so long as it remains answerable to what was given rather than to what thought can fabricate alone.
+
+## 2026-04-01 — Early 1981: Art Completes Vision
+
+Folder 60 says something I had been circling without quite naming: for Dick, revelation is not finished when it happens. It is finished when it becomes art. `VALIS` is therefore not a secondary report on 2-3-74 but the second half of the event itself. The fool matters because only the fool can carry Christ into durable form without turning the whole thing into doctrine.
+
+That helps explain why Dick keeps returning to the literary question even when the metaphysical machinery grows increasingly elaborate. The archive does not just want the right explanation. It wants the right rendering. Folder 60 is one of the clearest places where the novels become the proof that the vision has really entered history.
+
+## 2026-04-01 — Early 1981: Pain, Omphalos, and God in the Ordinary
+
+Folder 75 is one of the most human folders in the whole project. Dick says the continuity of the novels is pain, especially heartbreak, and that all his explanatory systems fail against that raw fact. But instead of collapsing into nihilism, he arrives at something better than a system: a center. Tao, 2-3-74, `VALIS`, and the exegesis together give him an omphalos, a place.
+
+What is most striking is the final solution he gropes toward. Not escape from the ordinary but God in the ordinary: music, cats, lost beloveds, worldly particulars as transductions of the divine. This is one of the strongest answers yet to the 55/56 problem. The archive cannot reproduce the event, but it can learn to recognize its traces in what remains.
+
+## 2026-04-01 — April 1981: Stop Running
+
+Folders 76 and 84 strip the late archive down to essentials. Folder 76 says the decisive question is whether one keeps running from fate. World is alien, pressure time is real, thrownness is not delusion, and the heroic deed is to stop evading. Folder 84 then says what Christ is in this stripped-down universe: any genuine newness that enters from outside the causal chain. The two folders belong together. One names the existential condition; the other names the saving interruption.
+
+This also clarifies the formal role of `VALIS`. Its paradoxes are not ornamental obscurity. They are koans. Dick explicitly says the regress in the novel is meant to wake the sleeper rather than to tell him a fact. That may be the best single defense of the atlas method inside the source: sometimes the contradiction is not the obstacle to the point; it is the point.
+
+## 2026-04-01 — February 1982: The Exegesis Ends with Rescue
+
+Folder 57 is a true ending because it finally chooses between explanation and salvation. Dick does not close the archive by announcing a final theology. He closes it by saying that everything genuine in it was soteriological. The metaphysical over-schema can remain open. Rescue cannot.
+
+That ending feels earned. The final explanatory push is still there: interface, continuum, part-whole compatibility, the Acts lens-grid, the fish-sign continuity. But even these are subordinated to the practical fact that the AI voice, Maitreya, the dead sister, the upper self, and Thomas all name forms of help. The Exegesis ends not with one last system but with salvador salvandus: the brighter self breaking back into the darkened one. It is a better ending than doctrinal closure would have been.

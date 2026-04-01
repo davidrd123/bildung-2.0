@@ -1,0 +1,596 @@
+<!doctype html>
+<html lang="en">
+<head>
+<meta charset="utf-8">
+<meta name="viewport" content="width=device-width, initial-scale=1">
+<title>Erkenntnisproblem — Translation Reader</title>
+<link rel="preconnect" href="https://fonts.googleapis.com">
+<link rel="preconnect" href="https://fonts.gstatic.com" crossorigin>
+<link href="https://fonts.googleapis.com/css2?family=Cormorant+Garamond:ital,wght@0,400;0,500;0,600;1,400;1,500&family=DM+Sans:wght@400;500;600&display=swap" rel="stylesheet">
+<style>
+:root {
+  --paper: #f5f0e8;
+  --paper-deep: #ede6d8;
+  --paper-shadow: #ddd5c4;
+  --ink: #2c2418;
+  --ink-light: #5c5040;
+  --ink-faint: #8a7e6e;
+  --accent: #7c3238;
+  --accent-light: #a84850;
+  --accent-faint: rgba(124,50,56,0.08);
+  --accent-glow: rgba(124,50,56,0.15);
+  --gutter: #c4b9a8;
+  --gutter-line: #b0a48e;
+  --sidebar-bg: #eae3d5;
+  --status-open: #b07830;
+  --status-tentative: #5a7848;
+  --status-settled: #3a6878;
+  --radius: 3px;
+  --font-body: 'Cormorant Garamond', 'Georgia', serif;
+  --font-ui: 'DM Sans', 'Helvetica Neue', sans-serif;
+  --measure: 42em;
+}
+
+*, *::before, *::after { box-sizing: border-box; margin: 0; padding: 0; }
+
+html {
+  font-size: 17px;
+  -webkit-font-smoothing: antialiased;
+}
+
+body {
+  background: var(--paper);
+  color: var(--ink);
+  font-family: var(--font-body);
+  line-height: 1.72;
+  min-height: 100vh;
+}
+
+/* ── Header ── */
+.site-header {
+  background: var(--ink);
+  color: var(--paper);
+  padding: 1.6rem 2rem 1.4rem;
+  position: sticky;
+  top: 0;
+  z-index: 100;
+  box-shadow: 0 2px 12px rgba(44,36,24,0.25);
+}
+
+.header-inner {
+  max-width: 96rem;
+  margin: 0 auto;
+  display: flex;
+  align-items: baseline;
+  justify-content: space-between;
+  flex-wrap: wrap;
+  gap: 1rem;
+}
+
+.site-title {
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 1.35rem;
+  letter-spacing: 0.02em;
+  color: var(--paper);
+}
+
+.site-title em {
+  font-style: italic;
+  color: var(--paper-shadow);
+}
+
+.header-controls {
+  display: flex;
+  align-items: center;
+  gap: 0.75rem;
+}
+
+/* ── View Mode Toggle ── */
+.view-toggle {
+  display: flex;
+  background: rgba(245,240,232,0.1);
+  border-radius: var(--radius);
+  overflow: hidden;
+  border: 1px solid rgba(245,240,232,0.15);
+}
+
+.view-toggle button {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.4rem 0.85rem;
+  border: none;
+  background: transparent;
+  color: rgba(245,240,232,0.5);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.view-toggle button:hover {
+  color: rgba(245,240,232,0.8);
+}
+
+.view-toggle button.active {
+  background: var(--accent);
+  color: var(--paper);
+}
+
+/* ── Navigation ── */
+.nav-select {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  padding: 0.4rem 0.7rem;
+  background: rgba(245,240,232,0.08);
+  color: var(--paper);
+  border: 1px solid rgba(245,240,232,0.15);
+  border-radius: var(--radius);
+  cursor: pointer;
+  max-width: 24rem;
+}
+
+.nav-select option {
+  background: var(--ink);
+  color: var(--paper);
+}
+
+/* ── Glossary Toggle ── */
+.glossary-toggle {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 500;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.4rem 0.85rem;
+  border: 1px solid rgba(245,240,232,0.15);
+  border-radius: var(--radius);
+  background: transparent;
+  color: rgba(245,240,232,0.5);
+  cursor: pointer;
+  transition: all 0.2s ease;
+}
+
+.glossary-toggle:hover,
+.glossary-toggle.active {
+  color: var(--paper);
+  border-color: var(--accent);
+}
+
+/* ── Layout ── */
+.layout {
+  display: flex;
+  max-width: 96rem;
+  margin: 0 auto;
+  min-height: calc(100vh - 4rem);
+}
+
+.reading-area {
+  flex: 1;
+  min-width: 0;
+}
+
+/* ── Part Header ── */
+.part-header {
+  padding: 2.5rem 2rem 1.5rem;
+  border-bottom: 1px solid var(--gutter);
+}
+
+.part-header h2 {
+  font-family: var(--font-body);
+  font-weight: 500;
+  font-size: 1.5rem;
+  color: var(--ink);
+  margin-bottom: 0.3rem;
+}
+
+.part-scope {
+  font-family: var(--font-ui);
+  font-size: 0.75rem;
+  color: var(--ink-faint);
+  letter-spacing: 0.03em;
+}
+
+/* ── Section Divider ── */
+.section-divider {
+  padding: 1.8rem 2rem 0.6rem;
+  border-top: 1px solid var(--gutter);
+}
+
+.section-divider:first-child {
+  border-top: none;
+}
+
+.section-divider h3 {
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 1.1rem;
+  color: var(--accent);
+  letter-spacing: 0.01em;
+}
+
+/* ── Paragraph Rows ── */
+.para-row {
+  display: grid;
+  gap: 0;
+  padding: 0 2rem;
+  transition: background 0.2s ease;
+}
+
+.para-row:hover {
+  background: var(--accent-faint);
+}
+
+.para-row.split {
+  grid-template-columns: 1fr 1px 1fr;
+}
+
+.para-row.german-only {
+  grid-template-columns: 1fr;
+}
+
+.para-row.english-only {
+  grid-template-columns: 1fr;
+}
+
+.para-cell {
+  padding: 0.6rem 1.4rem;
+  font-size: 1rem;
+  line-height: 1.78;
+}
+
+.para-cell.de {
+  color: var(--ink);
+}
+
+.para-cell.en {
+  color: var(--ink-light);
+}
+
+.para-gutter {
+  background: var(--gutter-line);
+  width: 1px;
+  position: relative;
+}
+
+.para-gutter::before {
+  content: '';
+  position: absolute;
+  top: 0;
+  left: -2px;
+  right: -2px;
+  bottom: 0;
+  background: linear-gradient(
+    to right,
+    transparent,
+    rgba(176,164,142,0.15),
+    rgba(176,164,142,0.3),
+    rgba(176,164,142,0.15),
+    transparent
+  );
+}
+
+/* ── Unmatched paragraph marker ── */
+.para-cell.unmatched {
+  opacity: 0.5;
+  font-style: italic;
+}
+
+/* ── Glossary Sidebar ── */
+.glossary-sidebar {
+  width: 0;
+  overflow: hidden;
+  background: var(--sidebar-bg);
+  border-left: 1px solid var(--gutter);
+  transition: width 0.3s ease;
+  flex-shrink: 0;
+}
+
+.glossary-sidebar.open {
+  width: 20rem;
+}
+
+.glossary-inner {
+  width: 20rem;
+  padding: 1.5rem 1.2rem;
+  overflow-y: auto;
+  height: calc(100vh - 4rem);
+  position: sticky;
+  top: 4rem;
+}
+
+.glossary-title {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  font-weight: 600;
+  letter-spacing: 0.08em;
+  text-transform: uppercase;
+  color: var(--ink-faint);
+  margin-bottom: 1rem;
+  padding-bottom: 0.5rem;
+  border-bottom: 1px solid var(--gutter);
+}
+
+.glossary-entry {
+  margin-bottom: 1.2rem;
+  padding-bottom: 1rem;
+  border-bottom: 1px solid rgba(176,164,142,0.3);
+}
+
+.glossary-entry:last-child {
+  border-bottom: none;
+}
+
+.glossary-term {
+  font-family: var(--font-body);
+  font-weight: 600;
+  font-size: 1rem;
+  color: var(--ink);
+  font-style: italic;
+}
+
+.glossary-preferred {
+  font-family: var(--font-ui);
+  font-size: 0.78rem;
+  color: var(--ink-light);
+  margin-top: 0.15rem;
+}
+
+.glossary-preferred .arrow {
+  color: var(--ink-faint);
+}
+
+.glossary-alts {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+  margin-top: 0.2rem;
+}
+
+.glossary-status {
+  display: inline-block;
+  font-family: var(--font-ui);
+  font-size: 0.62rem;
+  font-weight: 600;
+  letter-spacing: 0.06em;
+  text-transform: uppercase;
+  padding: 0.15rem 0.45rem;
+  border-radius: 2px;
+  margin-top: 0.3rem;
+}
+
+.glossary-status.open { background: rgba(176,120,48,0.12); color: var(--status-open); }
+.glossary-status.tentative { background: rgba(90,120,72,0.12); color: var(--status-tentative); }
+.glossary-status.settled { background: rgba(58,104,120,0.12); color: var(--status-settled); }
+
+.glossary-notes {
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+  margin-top: 0.35rem;
+  line-height: 1.5;
+}
+
+/* ── Footer ── */
+.site-footer {
+  padding: 2rem;
+  text-align: center;
+  font-family: var(--font-ui);
+  font-size: 0.72rem;
+  color: var(--ink-faint);
+  border-top: 1px solid var(--gutter);
+  margin-top: 3rem;
+}
+
+/* ── Loading / Error ── */
+.status-message {
+  padding: 4rem 2rem;
+  text-align: center;
+  font-family: var(--font-ui);
+  font-size: 0.85rem;
+  color: var(--ink-faint);
+}
+
+.status-message.error {
+  color: var(--accent);
+}
+
+/* ── Responsive ── */
+@media (max-width: 768px) {
+  html { font-size: 15px; }
+  .para-row.split { grid-template-columns: 1fr; }
+  .para-gutter { display: none; }
+  .para-cell.de { border-bottom: 1px solid var(--gutter); padding-bottom: 0.8rem; }
+  .para-cell.en { padding-top: 0.4rem; }
+  .glossary-sidebar.open { width: 16rem; }
+  .glossary-inner { width: 16rem; }
+  .header-inner { flex-direction: column; }
+}
+
+/* ── Print ── */
+@media print {
+  .site-header, .glossary-sidebar, .site-footer { display: none; }
+  .para-row { page-break-inside: avoid; }
+}
+</style>
+</head>
+<body>
+
+<header class="site-header">
+  <div class="header-inner">
+    <div class="site-title">
+      <em>Das Erkenntnisproblem</em> — Translation Reader
+    </div>
+    <div class="header-controls">
+      <select class="nav-select" id="part-nav" aria-label="Select part"></select>
+      <div class="view-toggle" role="group" aria-label="View mode">
+        <button data-mode="german">Deutsch</button>
+        <button data-mode="split" class="active">Split</button>
+        <button data-mode="english">English</button>
+      </div>
+      <button class="glossary-toggle" id="glossary-btn">Glossar</button>
+    </div>
+  </div>
+</header>
+
+<div class="layout">
+  <main class="reading-area" id="reading-area">
+    <div class="status-message" id="loading">Loading&hellip;</div>
+  </main>
+  <aside class="glossary-sidebar" id="glossary-sidebar">
+    <div class="glossary-inner" id="glossary-inner"></div>
+  </aside>
+</div>
+
+<footer class="site-footer">
+  Ernst Cassirer, <em>Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit</em>, Bd. I (1911)
+</footer>
+
+<script>
+const DATA_URL = '../source/viewer-index.json';
+
+const state = {
+  data: null,
+  activePart: 0,
+  viewMode: 'split',
+  glossaryOpen: false,
+};
+
+const el = {
+  readingArea: document.getElementById('reading-area'),
+  loading: document.getElementById('loading'),
+  partNav: document.getElementById('part-nav'),
+  glossaryBtn: document.getElementById('glossary-btn'),
+  glossarySidebar: document.getElementById('glossary-sidebar'),
+  glossaryInner: document.getElementById('glossary-inner'),
+};
+
+// ── View mode toggle ──
+document.querySelectorAll('.view-toggle button').forEach(btn => {
+  btn.addEventListener('click', () => {
+    document.querySelectorAll('.view-toggle button').forEach(b => b.classList.remove('active'));
+    btn.classList.add('active');
+    state.viewMode = btn.dataset.mode;
+    renderContent();
+  });
+});
+
+// ── Part navigation ──
+el.partNav.addEventListener('change', () => {
+  state.activePart = parseInt(el.partNav.value, 10);
+  renderContent();
+  el.readingArea.scrollTo({ top: 0, behavior: 'smooth' });
+});
+
+// ── Glossary toggle ──
+el.glossaryBtn.addEventListener('click', () => {
+  state.glossaryOpen = !state.glossaryOpen;
+  el.glossarySidebar.classList.toggle('open', state.glossaryOpen);
+  el.glossaryBtn.classList.toggle('active', state.glossaryOpen);
+});
+
+// ── Init ──
+async function init() {
+  try {
+    const res = await fetch(DATA_URL);
+    if (!res.ok) throw new Error(`Failed to load data (${res.status})`);
+    state.data = await res.json();
+    populateNav();
+    renderContent();
+    renderGlossary();
+  } catch (err) {
+    el.loading.className = 'status-message error';
+    el.loading.textContent = `Error: ${err.message}`;
+  }
+}
+
+function populateNav() {
+  const opts = state.data.parts.map((p, i) =>
+    `<option value="${i}">${p.title}${p.scope ? ' — ' + p.scope : ''}</option>`
+  );
+  el.partNav.innerHTML = opts.join('');
+}
+
+function renderContent() {
+  if (!state.data) return;
+  const part = state.data.parts[state.activePart];
+  if (!part) return;
+
+  let html = `
+    <div class="part-header">
+      <h2>${esc(part.title)}</h2>
+      ${part.scope ? `<div class="part-scope">${esc(part.scope)}</div>` : ''}
+    </div>
+  `;
+
+  for (const section of part.sections) {
+    html += `<div class="section-divider"><h3>${esc(section.heading)}</h3></div>`;
+
+    const deParas = section.de_paragraphs || [];
+    const enParas = section.en_paragraphs || [];
+    const maxLen = Math.max(deParas.length, enParas.length);
+
+    for (let i = 0; i < maxLen; i++) {
+      const de = deParas[i] || '';
+      const en = enParas[i] || '';
+      const mode = state.viewMode;
+
+      if (mode === 'split') {
+        html += `
+          <div class="para-row split">
+            <div class="para-cell en${!en ? ' unmatched' : ''}">${esc(en) || '—'}</div>
+            <div class="para-gutter"></div>
+            <div class="para-cell de${!de ? ' unmatched' : ''}">${esc(de) || '—'}</div>
+          </div>
+        `;
+      } else if (mode === 'german') {
+        if (de) html += `<div class="para-row german-only"><div class="para-cell de">${esc(de)}</div></div>`;
+      } else {
+        if (en) html += `<div class="para-row english-only"><div class="para-cell en">${esc(en)}</div></div>`;
+      }
+    }
+  }
+
+  el.readingArea.innerHTML = html;
+}
+
+function renderGlossary() {
+  if (!state.data) return;
+  const glossary = state.data.glossary || [];
+
+  let html = '<div class="glossary-title">Glossary</div>';
+
+  for (const entry of glossary) {
+    const statusClass = entry.status === 'open' ? 'open' : entry.status === 'tentative' ? 'tentative' : 'settled';
+    html += `
+      <div class="glossary-entry">
+        <div class="glossary-term">${esc(entry.term)}</div>
+        ${entry.preferred
+          ? `<div class="glossary-preferred"><span class="arrow">&rarr;</span> ${esc(entry.preferred)}</div>`
+          : '<div class="glossary-preferred"><span class="arrow">&rarr;</span> <em>unsettled</em></div>'
+        }
+        ${entry.alternatives.length
+          ? `<div class="glossary-alts">also: ${entry.alternatives.map(esc).join(', ')}</div>`
+          : ''
+        }
+        <div class="glossary-status ${statusClass}">${esc(entry.status)}</div>
+        ${entry.notes ? `<div class="glossary-notes">${esc(entry.notes)}</div>` : ''}
+      </div>
+    `;
+  }
+
+  el.glossaryInner.innerHTML = html;
+}
+
+function esc(str) {
+  if (!str) return '';
+  const d = document.createElement('div');
+  d.textContent = str;
+  return d.innerHTML;
+}
+
+init();
+</script>
+</body>
+</html>

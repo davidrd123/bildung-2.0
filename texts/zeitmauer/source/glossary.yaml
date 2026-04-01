@@ -31,6 +31,16 @@
   status: tentative
   notes: "Still workable after the full run of §§4-31. By §§9 and 13 the pair clearly names qualitative time against measurable time; by §§14-16 it also begins to organize planning, ceremony, catastrophe, and religion; by §§17-19 it presses into science, medicine, and epistemic modesty; by §§20-22 it extends into character, tragedy, recurrence, and fortune; by §§23-25 it bears directly on happiness-loss, omen-like decision, insurance, and the plan's fear of free musische speech; by §§26-28 it returns to astrology as revolutionary symptom and expands into changed optics, periodicity, flattened rhythms, sacrifice, and catastrophe; by §§29-31 it closes on singular destiny, `So-Sein` versus uniformity, mass fate, and the first stirring of a counterpower to Leviathan without requiring the inflated `destinal`."
 
+- term: "Humane Einteilungen"
+  handle: "term:humane-einteilungen"
+  kind: section_title
+  preferred: "Human Divisions"
+  alternatives:
+    - "Human Classifications"
+    - "Human Orderings"
+  status: tentative
+  notes: "Working after §§32-46. `Humane` here means human rather than ethically `humane`; the part opens with divisions of world-time, history, and natural order, then moves into Spengler, morphology, world-plan, and the limits of pure historical judgment, sharpens the difference between historical time and `Schicksalszeit`, and now widens further into earth-history, prehistory, and the dawning of historical consciousness rather than into gentleness or moral cultivation."
+
 - term: "Schicksalszeit"
   handle: "term:schicksalszeit"
   kind: concept
@@ -44,7 +54,9 @@
     - "evidence:term:schicksalszeit:zm:9"
     - "evidence:term:schicksalszeit:zm:13"
     - "evidence:term:schicksalszeit:zm:20"
-  notes: "Sections 4-20 support `fateful time`: the neighboring compounds stay concrete (`Schicksalsweisung`, `Schicksalsdeutung`, `Schicksalsqualitäten`, `Schicksalsuhr`) while retaining metaphysical weight, and §20 confirms the choice when tragedy is said to `weave` `Schicksalszeit`."
+    - "evidence:term:schicksalszeit:zm:38"
+    - "evidence:term:schicksalszeit:zm:43"
+  notes: "Sections 4-43 support `fateful time`: the neighboring compounds stay concrete (`Schicksalsweisung`, `Schicksalsdeutung`, `Schicksalsqualitäten`, `Schicksalsuhr`) while retaining metaphysical weight; §20 confirms the choice when tragedy is said to `weave` `Schicksalszeit`, §38 carries it into Part 3 as a methodological relation between measurable astronomical time and the fate-time to be interpreted, and §43 sharpens it further by distinguishing two formations that are historically similar yet fundamentally different in `Schicksalszeit`."
 
 - term: "mantisch"
   handle: "term:mantisch"
@@ -82,7 +94,10 @@
     - "cosmic plan"
     - "plan of the world"
   status: tentative
-  notes: "Hyphenation keeps the German compound visible. §17 sharpens it by explicit contrast with `Menschenplan`."
+  evidence:
+    - "evidence:term:weltplan:zm:17"
+    - "evidence:term:weltplan:zm:37"
+  notes: "Hyphenation keeps the German compound visible. §17 sharpens it by explicit contrast with `Menschenplan`; §37 reactivates it as the missing criterion of unity and direction in Spengler's morphology."
 
 - term: "Bruchstelle"
   handle: "term:bruchstelle"
@@ -107,7 +122,8 @@
     - "evidence:term:hinzutretende:zm:6"
     - "evidence:term:hinzutretende:zm:7"
     - "evidence:term:hinzutretende:zm:9"
-  notes: "By §§6-9 this is structural: interpreter, guarantor, and priestly figure who adds no new facts but confers assurance and meaning."
+    - "evidence:term:hinzutretende:zm:36"
+  notes: "By §§6-9 this is structural as interpreter, guarantor, and priestly figure who adds no new facts but confers assurance and meaning. §36 extends the figure into physiognomic history-reading, where the instinct of the one who comes in addition gains prophetic force."
 
 - term: "Da-Sein / So-Sein"
   handle: "term:da-sein-so-sein"

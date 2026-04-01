@@ -680,7 +680,7 @@ Perhaps the most melancholy aphorism yet. He believes in the unity of truth (§2
 
 ## §106
 
-> Aducir la belleza de una cosa en su defensa irrita al alma plebeya.
+> Aducir la belleza de una cosa en su defensa, irrita al alma plebeya.
 
 **Close:** To adduce the beauty of a thing in its defense irritates the plebeian soul.
 
@@ -688,6 +688,7 @@ Perhaps the most melancholy aphorism yet. He believes in the unity of truth (§2
 
 **Notes:**
 - *aducir* — to adduce, to put forward as evidence. A legal term: beauty as evidence in the defense of a thing's right to exist.
+- OCR had *AÁducir*; verified against the PDF as *Aducir*. The printed text also keeps the comma after *defensa*.
 - *alma plebeya* — "plebeian soul." Returns to *vulgo* territory (§77). The plebeian soul doesn't recognize beauty as a valid argument.
 
 **Exegesis:**

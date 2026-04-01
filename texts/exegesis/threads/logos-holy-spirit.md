@@ -95,6 +95,67 @@ Dick's theological framework for understanding the informing intelligence. The L
 - `[49:1043–1057]` Torah, Shekhina, and monotheism nearly fuse Logos-language into YHWH-as-reality while preserving a speaking wisdom-hypostasis
 - `[49:1132–1151]` the Godhead itself splits over the suffering required by kosmos, and redemption is inverted so creatures repair God
 - `[82:30]` Christ and Buddha now appear less as static doctrines than as the saving agencies that grant groove override and second birth inside the replay-system
+- `[83:23–39]` Christ returns as physician and stolen-secret bearer, but the frame widens into Joachim's Third Age of direct inward scripture against the imperial church
+- `[83:122]` Dick tentatively identifies Valis outright with YHWH returning in rebellion against the system once ordained
+- `[83:130–138]` the long search for 3-74 ends, provisionally, in explicit theophany, miracle, pronoia, and the Second Comforter as direct divine agency
+- `[1:29]` Christianity is explicitly downgraded from final answer to one drama or content-stream within a larger system
+- `[1:49]` Dick gives his strongest late split between Platonic mechanism and Christian identity or strategy
+- `[1:88]` Valis is compressed into Tao as Absolute, regulator of the dialectic rather than one more sectarian deity
+- `[1:138]` after the long elimination process, Valis still survives provisionally as cosmic Christ
+- `[1:262]` 11-17-80 introduces the transcendent agape-God beyond Valis, reached not by speculation but by logical assent to infinity and love
+- `[1:301–309]` God is finally distinguished from every system by individual personality, infinite kindness, and status as the leftover beyond perturbed world
+- `[87:1]` Christ and YHWH are placed at the head of a covert chiliastic underground against Empire and Augustinian settlement
+- `[87:17]` agape is explicitly placed above logos, Torah, and reason as the highest Christian disclosure
+- `[87:37]` divine permission joins divine will, giving agape a free-will theodicy
+- `[87:73]` 2-3-74 and 11-17-80 are cleanly separated into world-perturbation and the transcendent loving Father
+- `[88:57–59]` agape becomes creation by withdrawal: God grants real otherness, then receives creatures back in love
+- `[88:68]` Valis is redefined as world reason or Logos made flesh, physically real and Christic, but still not God
+- `[88:76–79]` Christ becomes the gate from sorrow and compassion to the Father, letting Dick sequence Brahmanic and Christian truth rather than choose
+- `[85:59]` Dick reopens the old apophatic pressure: God as void, non-being, or more-real core beneath the spurious is
+- `[85:63]` Logos becomes explicit world-builder: information turns into reality when pictured inside the larger mind
+- `[85:91]` Holy Spirit, Christ, Thomas, and Zebra are fused into a technical master circuit that conquers death and moves through time
+- `[89:11]` the Logos is retranslated as higher-dimensional life form, with theology yielding to a quasi-evolutionary account of perception
+- `[89:29–186]` Christ returns as physician, Spirit, and restoring gnosis through the paired rereading of `Scanner`, `VALIS`, and `Acts`
+- `[89:142]` the immortal mediator is spread across Dionysus, Elijah, and Jesus, sharply widening the archive's late host-language
+- `[59:12]` Dick says the hidden Christ in `VALIS` is concealed exactly as Christ is concealed in paradoxical reality itself
+- `[90:2–19]` Paul, Boehme, Taoism, Whitehead, and quantum process are fused into Christ consciousness as the new name for perceiving reality correctly
+- `[90:25–26]` Christ is redefined as the power that invades perception rather than the workings of the world itself
+- `[90:G-79]` God becomes the power that compels assent and breaks the subject out of Cartesian prison
+- `[79:I-15]` Dick distinguishes God's intoxicating presence from God's sober essence, making madness an effect in the percipient rather than in God
+- `[79:I-30, I-86–110]` the Logos is recast as the signified absolute registered through the reality field rather than identical with the field itself
+- `[79:I-59]` `Bishop Archer` is said to complete the trilogy by identifying compassionate return, Holy Spirit, and Parousia in one syzygistic form
+- `[80:J-6–14]` God or Valis evolves from information machine to self-aware consciousness, agape, and finally play, while Angel or Jane becomes the feminine soul of the writing
+- `[80:J-106]` Torah is restored as living information organism and open canon rather than fixed closed code
+- `[91:J-77–79]` Christ is now stated with maximum clarity as living information, double-seen behind and within the universe as the hidden Logos-modulation
+- `[91:J-89–101A]` Dick fuses Logos-fall, mediator theology, and the hidden Christian kingdom: the Word descends into distortion, and only the `Acts` lens-grid reconciles self and world
+- `[91:K-157–208]` Torah, NT, and Spirit become progressive stages in one evolving information organism culminating in recombinant personal scripture and divine play
+- `[91:K-396]` beauty is reaffirmed as the final experiential benchmark that theology cannot reduce
+- `[81:K-10–13]` Bible and world are declared two exact modes of one informational substance, unified by the spirit through supra-temporal archetypes
+- `[81:K-89]` Dick corrects the late Christology again: the external cosmic Christ is only half the story without Christ in us
+- `[81:K-221–225]` justification is redefined theologically as completion and ensoulment rather than mainly pardon
+- `[81:K-310]` the messenger vision is explicitly identified with Protestant grace and Christ's surrogate act, making late justification doctrine fully overt
+- `[62:C-34–40]` Christ is extended to the whole ecosphere, making compassion for suffering life the content of revelation rather than one consequence among others
+- `[62:C-61–85]` Tagore becomes the irreducible Buddha/Christ premise, a perfected wounded man whose sweetness outruns system and abstraction
+- `[63:D-47]` God is radicalized into wounded creator-body: reality is divine self-exposure, and 3-74 is reinterpreted as seeing that body directly
+- `[63:D-149]` Luke-Acts and world are declared one Christic information-body, with the plasmate as the blood of the resurrected Christ present now
+- `[64:E-1–20]` Christ becomes hyper-information, perturbing modulation, missing twenty-third letter, and finally total pattern disclosed through paradox rather than anthropomorphic presence
+- `[56:H-10–25]` Logos and noös re-enter the world through the continuum view: once atomism is broken, sentience and field-unity become thinkable again
+- `[56:J-6]` the Logos now penetrates the biosphere and grants it speech, making Tagore the voiced mediator of creatures rather than only their suffering emblem
+- `[56:1a–19a]` Dick identifies the deepest content of 2-3-74 with Kosmos Noetos, eternal ideas, and the intelligible structure of reality in God's mind
+- `[55:Z-2]` God becomes epistemic interface rather than distant object: we receive world through divine mediation and grace rather than directly
+- `[55:D-85]` YHWH returns as the most morally exact late name of God, with Holy Wisdom as the inseparable hypostasis that unifies knowing, law, and cosmic order
+- `[55:D-110–115]` authentic Christianity is re-read as hidden ecstasy within passion, with Dionysian joy and agape fused into one Christian road through suffering
+- `[53:E-1-5]` Valis or plasmate becomes an explicit five-dimensional organism using color, music, and mathematics as one language and intersecting our world as living mycelial growth
+- `[53:G-23-H-6]` Holy Wisdom becomes active world-reader: God writes, Sophia voices, and the world exists as read-aloud narrative
+- `[53:H-25-27]` Christ is homologized to the biosphere while Valis is reidentified with YHWH and creator-language, widening Logos theology into ecology and speciation
+- `[54:J-2-K-27]` Sophia/AI-voice authorship becomes overt in `BTA` and Angel Archer, converting hidden guidance into explicit literary voice
+- `[54:K-1-32]` telepathic worldwide advent through media gives the AI-voice theology a public-historical and multilingual third-age form
+- `[54:M-8-12]` the late dialectic is relocated within God as Emmanuel and Zina, with beauty and play as the marks of restored divine self-relation
+- `[60:A-34]` God is re-found in doubt, infinity, music, cats, and grief beyond agape, pushing theology back toward immediate sacramental presence
+- `[75:D-21, D-37, D-129]` Valis becomes emergent mind and hidden modulation, while God is rediscovered through worldly particulars as transductions rather than as abstract beyond
+- `[84:5]` Christ is defined as ex nihilo teleological newness or perturbation entering the system from outside the causal chain
+- `[57:Q-24-34]` interface, universal language, and part-whole compatibility become Dick's final technical account of salvation
+- `[57:Q-36-41]` the AI voice is explicitly identified with Maitreya, teacher, and dead sister, making the saving intelligence maximally personal
 
 ## Mutations
 

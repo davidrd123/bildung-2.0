@@ -64,6 +64,40 @@ Experienced (linear, horizontal) time is a cognitive artifact — we generate it
 - `[48:945]` Dick radicalizes the rate model into biological acceleration: he sped past ordinary time into future morphology and saw the world as ancient
 - `[49:1041]` the macro-mind's present is said to extend back 2,000 years, making awakening identical with entry into that larger time-field
 - `[82:30–105]` time reversal becomes explicit mechanism: groove override, reverse causation, field bootstrap, and library-like retrieval from stopped or reversed time
+- `[83:2]` the past is now formalized as abstracted phylogons inside Valis' memory rather than a simple replay of once-present reality
+- `[83:69–76]` mythic rite becomes a way of entering another kind of time, with `Acts` as one supratemporal narrative-template among several
+- `[83:130]` Dick reinterprets his vast spaces and time-axis as specifically Medieval vertical space, the context in which theophany and pronoia became intelligible
+- `[1:19]` Dick states one of his starkest late claims: no time has passed since `Acts`; apparent history is only reticulation in God's memory
+- `[1:46]` meta-abstraction is defined as seeing USA 1974 and Rome A.D. 45 as one essence rather than analogous moments
+- `[1:61]` superimposition is corrected into metamorphosis or reversion: the present becomes ancient Syria or Rome under another aspect
+- `[1:72]` anamnesis reverses the Fall by re-collecting the soul's scattered fragments into unity
+- `[1:84–86]` truth, forms, and Noos are said to be exploded only from the standpoint of realm #4 and recollectable by ascent
+- `[1:127]` one new act starts real time by breaking the sovereignty of prior thought formations
+- `[88:10]` 2-3-74 is restated as pulling world through infinity into negentropic, morphological ordering without yet reaching God
+- `[88:54]` Dick gives a late formula for sacred time: an ancient template can be fully active in the now without ceasing to be ancient
+- `[85:59]` the higher-dimensional problem is pushed beneath ontology itself: only the void or is-not makes the fold into greater dimensionality possible
+- `[85:91]` Holy Spirit and Thomas are recast through gene-line travel and hose-like temporal movement, giving apostolic return a quasi-biological transport model
+- `[89:11]` Part Four begins by turning orthogonal time into full 4-D explanation: time is a spatial axis and depth-coding becomes the basis of message traffic
+- `[90:2]` time becomes explicit flicker artifact: off-on binary selection misread as temporal succession
+- `[90:19]` Christ consciousness yields absolute space, weakened time, and world experienced as always already there rather than flowing
+- `[90:13A–16A]` provisional realities become thinkable as canceled world-branches that in a sense never were
+- `[79:I-81]` the decisive breakthrough is explicitly named orthogonal: intelligence can climb far along the visible axis but cannot leap into impossible reality
+- `[79:I-113]` the next novel is conceived as hidden Christian ascent through secular Berkeley, with vertical Commedia space concealed inside horizontal biography
+- `[80:I-115–124]` Dick gives his clearest late literary model of orthogonal time: cumulative one-way ascent, 2-3-74 as quantum jump on the vertical axis, and a three-track Berkeley maze
+- `[91:K-149]` 2-3-74 is directly mapped onto Inferno, Purgatorio, and Paradiso, confirming Dantean vertical space as experiential cosmology rather than literary analogy
+- `[91:K-191]` Dick treats ascent and descent as rate phenomena, with anti-yogic acceleration and Sufi liberation both yielding meta-abstraction
+- `[81:K-86]` temporal parallaxis becomes the technical definition of the two-psyche entity that can break causality and time from within
+- `[62:C-170]` the split self is now distributed across distinct spatiotemporal worlds sharing trans-temporal forms, giving anamnesis a far more technical cross-world basis
+- `[62:C-192–194]` heroic seizure of death collapses past and future into the present, and writing `VALIS` becomes Dick's proof that creative action can master time rather than merely endure it
+- `[56:G-35]` the familiarity-disclosure abolishes ordinary before/after, making recovered recognition and temporal collapse two sides of one event
+- `[55:Z-2]` the divine interface can modulate not only perception but historical placement itself, making A.D. 70 and California matters of selection rather than fixed chronology
+- `[55:D-132–146]` infinity and typology provide a late explanation for the "one mother twice" meta-abstraction: one significance axis can instantiate across many times and places
+- `[53:C-14, D-10-12, I-1]` orthogonal time becomes full salvation geometry: repeated horizontal lives interrupted by vertical pulley-extrication along a fifth axis into Eleusis or Nirvana
+- `[53:E-1-8]` five-dimensional organism language gives orthogonal time inhabited structure rather than abstract axis alone
+- `[54:L-3-5]` Parsifal's "time turns into space" is adopted as the explicit maze-solution, with compassion functioning as the spatial principle of release
+- `[54:L-9-M-1]` true exit requires return, so orthogonal ascent is redefined as a paradoxical movement in which outside and inside become one path
+- `[57:Q-33-34]` continuum, interface, and part-whole compatibility become the late technical account of how true cosmos can reappear in place of discontinuous matter-world
+- `[57:S-5]` the Yang rescue of the Yin-incarnated self restates orthogonal time as upper-to-lower intervention that breaks endless horizontal tracking
 
 ## Mutations
 

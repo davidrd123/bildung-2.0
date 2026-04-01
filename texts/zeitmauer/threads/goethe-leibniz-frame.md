@@ -23,8 +23,11 @@ Useful path:
 
 - `zm:1:seidenschwanz`
 - `zm:13:schicksalsuhr`
+- `zm:36:analogy`
 - `thread:time-crisis`
 - `note:journal:goethe-leibniz-frame`
+
+`§36` sharpens the dossier from the Spengler side: analogy can organize a great deal, but pure comparison yields relations rather than standards. The pressure toward unity, measure, and an inner bond remains.
 
 ## Commentary Use
 

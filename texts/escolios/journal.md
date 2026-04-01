@@ -76,7 +76,7 @@ Confirmed the earlier observation that the shortest aphorisms (§75, §82, §85,
 
 ### OCR Note
 
-§98: OCR had *lama* (mud) for what should be *llama* (flame). "The philosopher is nothing but the mud that..." makes no sense; "the flame that burns him" is clearly right. Should verify against the PDF. Also §106: OCR had *AÁducir* — cleaned to *Aducir*. These corrections are small but matter.
+§98: OCR had *lama* (mud) for what should be *llama* (flame). Verified against the PDF: *llama* is correct. Also §106: OCR had *AÁducir* — verified as *Aducir* in the PDF, with the comma after *defensa* retained from the printed text. These corrections are small but matter.
 
 ---
 
@@ -263,5 +263,57 @@ The last section changes the method because the text itself changes state. The d
 ### The Final Turn of the Screw
 
 The section closes by moving simultaneously toward nihilism, irony, and election. §370 says that without God the conclusion is not permission but insignificance. §372 insists that faith unable to laugh at itself should doubt its authenticity. §374 asks who thinks about the anguish of the one who fears he is chosen. These belong together. Only a faith secure enough to survive irony can endure the terror of vocation, and only a world where meaning is real can make election frightening rather than theatrical. The final note is not triumph but trembling.
+
+---
+
+## Review Notes — Escolios Arc Through §374 (Retrospective)
+
+### §194 as the Realist Counterweight to Cassirer's Cusa
+
+"Feelings are attributes of the object, like sensations." This is the `similitudo` position — insisting that qualities belong to the world, not to mind's self-measurement. It pushes directly against the `assimilatio` move that Cassirer's Cusanus chapter celebrates (mind discovers its own forms in the world). Gómez Dávila would say: no, the beauty really is in the sunset. The sadness really is in the ruin. The `assimilatio` move, for all its epistemological sophistication, risks losing what §194 insists on — that the world has qualities independent of whether mind measures them.
+
+The two positions are held across the project without resolution. Per §325: contrary evidences demanding simultaneous obedience.
+
+### §374 and the Exegesis — The Anguish of Election
+
+"Who meditates on the anguish of the one who fears he is chosen?" This is the single most accurate description of the emotional substrate of Dick's Exegesis that exists anywhere. Dick's anguish is not the madman's (who is certain something happened) or the skeptic's (who dismisses it). It is the anguish of the *possibly* chosen — the man who suspects something real happened on 2-3-74 and can't decide whether to be more terrified of the yes or the no. Two men who never knew each other, never read each other, wrote in different languages for different audiences, and yet §374 names what Dick spent 8,000 pages processing. This is what the "implicit text" looks like when two fragments from different writers suddenly align: not agreement on doctrine but convergence on an experience both recognize and neither can explain.
+
+### The Via Negativa Structure (§288-289)
+
+Intelligence consumes all its fuel, then feeds on itself (§288). The soul passes through the dark defile of despair and emerges into a universe no longer fogged by desire (§289). These are sequential: the auto-consumption of intelligence *is* the dark defile, and what comes out the other side is a vision cleared of wanting. This is the mystical via negativa compressed to two sentences. It also describes what sustained translation practice does at its best: you burn through your assumptions about the text (intelligence consuming its fuel), arrive at a place where you genuinely don't know what the sentence means (the dark pass), and then — sometimes — the meaning appears in a clarity that your prior understanding had been blocking. The "dry joy" of §6 is what waits on the other side of §289's defile.
+
+### The Sacramental Core as the Project's Implicit Theology
+
+§208 ("the world is sacramental or dull"), §209 ("only one thing is not vain: the sensual perfection of the instant"), and §242 ("God is the substance of what we love") form a triangle that may be the theological center of the entire Escolios. The sacrament is experienced *in* the instant of sensual perfection; the substance of what is loved in that instant is God. If these three hold, then the translation practice — which demands sustained sensual attention to the texture of sentences — is itself a minor sacramental act. Not in any pietistic sense, but in the precise sense that attending closely to the concrete particular (this word, this rhythm, this gap between close and free) is the practice through which the sacred becomes perceptible. §312 (before apologetics, restore the perception of the sacred) names this as method. The translation project is one of the "methodical introductions to the worldview without which religious vocabulary is meaningless."
+
+---
+
+## 2026-04-01 — Sections 14–15 (§375–434, pp. 107–116)
+
+Sixty aphorisms in ten pages. The highest sustained density in the book — four to seven per page, most of them single sentences. The method established in section 13 (selective exegesis, all aphorisms catalogued) now runs at full speed. Twenty of the sixty received full treatment; the rest stand with close and free translations only. The principle: exegesis goes where it *adds* something the two renderings alone can't supply.
+
+### The Circularity Trap (§388)
+
+The longest and most structurally intricate aphorism in the batch: believing that self-interest exclusively determines all conviction is itself a conviction that reshapes behavior until self-interest really does become the only motive. The debunking thesis creates the world it claims to describe. This is Gómez Dávila's sharpest attack on reductive explanation, and it has a formal structure the shorter aphorisms lack — a single coiling sentence that enacts the circularity it names. It also connects backward to §112 (science makes propositions, philosophy makes statements) and forward to §386 (those who won't answer for their opinions call them reflections of reality). The reductionist doesn't refute idealism; he makes idealism impossible by redescribing all conviction as interest. The philosophical crime is performative.
+
+### Rite Before Ritual (§389)
+
+The rite/myth priority claim is the section 14 aphorism that gives the section its title. Myth creates rite; only afterward can rite sustain myth. Against the sociological reflex that treats ritual as the generator of belief, Gómez Dávila insists on the opposite order: the sacred imagination comes first, and the rite crystallizes around it. Mere preservation of forms without the original vision produces dead ceremony. This connects directly to the Zeitmauer: Jünger's *Schicksalszeit* is the temporal mode in which myth and rite are still alive. *Meßbare Zeit* is what remains when the vessel has outlasted its content.
+
+### The Verbal Body (§409–410)
+
+Two consecutive aphorisms on the materiality of ideas: the idea is a verbal body (dense, sonorous, luminous), and the idea is the spontaneous combustion of an incandescent expression. These are the strongest aphoristic defense of the dual-translation method in the entire text. If ideas are linguistic bodies rather than disembodied concepts, then two English bodies for the same idea are not redundant but revelatory. Each body has its own weight, music, and light. The "gap" between close and free versions isn't a failure of translation but a demonstration that meaning lives in the concrete properties of the body, not behind it.
+
+### The Document Catastrophe (§428)
+
+"The continuity of the West was broken from the moment the old book ceased to contain teachings and became a document." This may be the most important aphorism for the project's self-understanding — more important even than §360 (the intact star) or §161 (the book does not educate the one who reads with the aim of educating himself). §360 says the star is still there. §161 warns against instrumentalizing the reading. §428 names the specific historical catastrophe: the shift from *enseñanza* to *documento*, from formative authority to archival specimen. The bildung-2.0 project exists on one side of that line. We read these texts as teachers, not as documents. The moment we stop, we join the catastrophe we're trying to resist.
+
+### Translation Pattern: The Fusillade
+
+At this density, the dual-translation method reveals a new pattern. The very short aphorisms (§375, §377, §383, §384, §387, §391, §398, §420, §423, §425, §426, §434) barely differ between close and free — they're already at maximum compression. The medium-length ones (§388, §390, §405, §407, §417, §429) show the biggest gap and yield the most interesting translation problems. The longest ones (§388, §407) are where structural decisions diverge most: whether to preserve the coiling Spanish syntax or break it into English clarity. The emerging rule: the shorter the aphorism, the less exegesis it needs and the more it should be left to stand on its own. The section 13 method was right.
+
+### Cross-Project: The Frankfurt School From the Right
+
+§405 (popular culture became vulgar when the people stopped imitating aristocratic culture and started buying bourgeois-manufactured "popular" culture) is Gómez Dávila's closest convergence with the Frankfurt School. Adorno's culture-industry argument arrives from the opposite political direction but diagnoses the same double dispossession: the people lose both their own culture and access to the genuine article. The convergence is not accidental. Both traditions — the reactionary Catholic and the Marxist critical — share a hostility to the administered life, to the reduction of cultural formation to consumer choice. What they disagree about is the remedy: Adorno wants emancipation through dialectical critique; Gómez Dávila wants restoration of the hierarchical conditions under which genuine culture (aristocratic or popular) could exist. Neither got his wish.
 
 ---
