@@ -361,3 +361,48 @@ Decision for now:
 - keep the batch size at three for the first stretch of Part 3
 - add `Humane Einteilungen` as a tentative section-title entry
 - add only one light cross-part anchor (`zm:32:spiral`) until the commentary needs of Part 3 become clearer
+
+## 2026-04-01 - Spengler, Analogy, and World-Plan
+
+Translated `§§35-37` under `parts/12-humane-einteilungen.md`.
+
+What this batch clarified:
+
+- Part 3 is now explicitly a critique of historical morphology from within rather than a mere adoption of cyclical models
+- `der Hinzutretende` returns in `§36`, but transformed: the figure is no longer only priestly or interpretive in the narrower astrological sense, but also physiognomic and prophetic in historical reading
+- `Weltplan` is active again in `§37`; the term now names the missing upper story in Spengler's palace and the criterion by which Jünger finds pure morphology insufficient
+- `Optik` continues to carry real weight across the part, but still not enough to justify a glossary entry before it recurs again
+
+Decision for now:
+
+- keep the batch size at three
+- strengthen evidence for `der Hinzutretende` and `Weltplan`, but do not add new concept-level glossary entries yet
+- let `§36-37` extend the `goethe-leibniz-frame` rather than spawning a new thread prematurely
+
+## 2026-04-01 — Review Notes: §§35-37 (Spengler Convergence)
+
+### The three threads converge on a single problem
+
+`thread:time-crisis`, `thread:goethe-leibniz-frame`, and `thread:mumford-bridge` had been running in parallel. §§35-37 force them into the same room:
+
+- **time-crisis**: Spengler's cyclical model is a response to the time-crisis (rejecting linear progress), but insufficient because it lacks a vertical dimension — world-plan, world-meaning — that would give the cycles *measure*
+- **goethe-leibniz-frame**: Spengler has Goethe's morphological eye without Goethe's synoptic unity (Urpflanze) and without Leibniz's demand for a ground. Analogy is powerful but needs to open onto something beyond analogy.
+- **mumford-bridge**: Mumford's historical diagnosis parallels Spengler's cyclical model but shares the same limitation — diagnosis without measure. Both see the pattern; neither supplies the fixed point.
+
+The question they share: **what supplies the measure that pure comparison cannot?** Spengler says nothing (the top story is missing). Jünger says: the world-plan, the Urpflanze, the father of the brothers — something *incomparable* that gives the comparable its meaning.
+
+### `der Hinzutretende` has genuinely developed
+
+The glossary note says "By §§6-9 this is structural: interpreter, guarantor, and priestly figure." §36 widens the figure: the Hinzutretende's "physiognomic instinct gains prophetic force" — reading *historical* forms, not just personal horoscopes. The concept has crossed from the astrology arc into the civilizational-morphology arc. The evidence chain should be extended.
+
+### `Optik` approaching glossary readiness
+
+Now appeared in §§27, 33, and 36. Three occurrences across two parts, doing consistent work: naming the shift in perceptual framework that makes new patterns visible. One more occurrence likely earns a glossary entry.
+
+### §36's key sentence for the project's own method
+
+"Pure comparison creates relations, not standards." This diagnoses the limit of the project's own handle system: handles create relations (echoes, extends, parallels), but the *measure* that decides whether a relation is substantial or decorative comes from the encounter with the texts, not from the handles themselves. §34's "facts create evidence, not truths" applies to our own infrastructure: handles create evidence, not understanding.
+
+### `[visual candidate]` Three-thread convergence diagram
+
+A diagram showing `thread:time-crisis`, `thread:goethe-leibniz-frame`, and `thread:mumford-bridge` as separate paths converging on the Spengler critique at §§35-37, with the "missing top story" as the unresolved center.
