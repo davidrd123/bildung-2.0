@@ -334,3 +334,30 @@ The warp/weft model holds: measurable time is the regular structure, fateful tim
 Part 3 is more than twice the length of Part 2. The title suggests a shift from cosmic and metaphysical time-keeping toward the human institutions that divide and organize time — calendars, ages, historical periodizations. The terms most likely to carry forward: `Schicksalszeit`, `So-Sein`, the textile vocabulary, and whatever `An der Zeitmauer` means when it finally becomes a load-bearing concept rather than just a title. The terms most likely to drop away: the astrology-specific vocabulary (`Hinzutretende`, `mantisch`, `Horoskop`) unless they're transformed.
 
 The batch size may need to flex. Part 2's three-section rhythm worked well for 28 sections of medium density. Part 3 has 53 sections — if the density changes, the batch size should follow the argument rather than a fixed number.
+
+### Visual candidates (§§1-34)
+
+These passages or structures would benefit from diagrams or illustrations at some point. Not to be produced now — just marked for later.
+
+- `[visual candidate]` **The widening spiral of Part 2.** The seven concentric rings of the argument (astrology → planning → science → tragedy → happiness → periodicity → So-Sein) could be shown as a spiral diagram where each ring applies the measurable/fateful distinction to a new domain.
+- `[visual candidate]` **The warp/weft model.** Measurable time as warp (regular, structural), fateful time as weft (irregular, pattern-making). The fabric only exists where both meet. A simple loom diagram with §§6/14/20/22/25/28 as the sections where the weft-thread enters.
+- `[visual candidate]` **The evidence chain for `term:schicksalszeit`.** A timeline or graph showing the four confirmations (zm:4 compound, zm:9 liturgical, zm:13 cosmological, zm:20 tragic) each in a different register. Shows how the same rendering was tested under different loads.
+- `[visual candidate]` **Line / circle / spiral (§32).** Jünger's three models of world-time. The simplest diagram in the set — a literal line, circle, and spiral — but worth having for the viewer because it anchors the Part 3 argument visually.
+- `[visual candidate]` **The section map as architecture.** The five parts of *An der Zeitmauer* shown as a building or landscape: Fremde Vögel as porch, Meßbare und Schicksalszeit as first hall, Humane Einteilungen as central space, Siderische Einteilungen as observatory, Urgrund und Person as foundation. This is speculative but Jünger's own architectural vocabulary (houses, chambers, vestibules, windows, walls) invites it.
+
+## 2026-04-01 - World-Time, Spiral, and Facts
+
+Translated `§§32-34` under `parts/11-humane-einteilungen.md`, opening Part 3.
+
+What this batch clarified:
+
+- `Humane Einteilungen` works provisionally as `Human Divisions`; the title is about human orderings and partitions of time and history, not about the `humane`
+- the new part extends the previous one immediately: `§32` carries the time-crisis into linear, cyclical, and spiral divisions of world-time
+- `§33` keeps `Optik` active and reopens `Bildung` inside biology, but still as a local pressure rather than a glossary term
+- `§34` states a method principle that will likely matter for the whole part: facts yield evidence, not truth, because research already moves within prior acts of spirit
+
+Decision for now:
+
+- keep the batch size at three for the first stretch of Part 3
+- add `Humane Einteilungen` as a tentative section-title entry
+- add only one light cross-part anchor (`zm:32:spiral`) until the commentary needs of Part 3 become clearer

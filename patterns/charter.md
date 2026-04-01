@@ -39,6 +39,8 @@ If a review surfaces a cross-batch pattern spanning 3+ sections or a finding abo
 
 The rule: if you noticed it and it matters across more than the current batch, it goes in the journal.
 
+When reviewing, also note passages, structures, or conceptual models that would benefit from visual treatment — diagrams, maps, illustrations. Tag these in journal review notes with `[visual candidate]` so they can be collected later. The viewer or a future publication layer may need them. Don't produce the visuals prematurely; just mark the opportunity.
+
 ## Layers
 
 1. `00-Notes/` — living intellectual workspace: chats, synthesis notes, exploratory writing
