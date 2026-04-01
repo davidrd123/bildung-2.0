@@ -29,7 +29,7 @@
     - "Measurable Time and Destinal Time"
     - "Measured Time and Time of Destiny"
   status: tentative
-  notes: "Still workable after §§4-16. By §§9 and 13 the pair clearly names qualitative time against measurable time; by §§14-16 it also begins to organize planning, ceremony, catastrophe, and religion without requiring the inflated `destinal`."
+  notes: "Still workable after the full run of §§4-31. By §§9 and 13 the pair clearly names qualitative time against measurable time; by §§14-16 it also begins to organize planning, ceremony, catastrophe, and religion; by §§17-19 it presses into science, medicine, and epistemic modesty; by §§20-22 it extends into character, tragedy, recurrence, and fortune; by §§23-25 it bears directly on happiness-loss, omen-like decision, insurance, and the plan's fear of free musische speech; by §§26-28 it returns to astrology as revolutionary symptom and expands into changed optics, periodicity, flattened rhythms, sacrifice, and catastrophe; by §§29-31 it closes on singular destiny, `So-Sein` versus uniformity, mass fate, and the first stirring of a counterpower to Leviathan without requiring the inflated `destinal`."
 
 - term: "Schicksalszeit"
   handle: "term:schicksalszeit"
@@ -43,7 +43,8 @@
     - "evidence:term:schicksalszeit:zm:4"
     - "evidence:term:schicksalszeit:zm:9"
     - "evidence:term:schicksalszeit:zm:13"
-  notes: "Sections 4-13 support `fateful time`: the neighboring compounds stay concrete (`Schicksalsweisung`, `Schicksalsdeutung`, `Schicksalsqualitäten`, `Schicksalsuhr`) while retaining metaphysical weight."
+    - "evidence:term:schicksalszeit:zm:20"
+  notes: "Sections 4-20 support `fateful time`: the neighboring compounds stay concrete (`Schicksalsweisung`, `Schicksalsdeutung`, `Schicksalsqualitäten`, `Schicksalsuhr`) while retaining metaphysical weight, and §20 confirms the choice when tragedy is said to `weave` `Schicksalszeit`."
 
 - term: "mantisch"
   handle: "term:mantisch"
@@ -52,7 +53,7 @@
   alternatives:
     - "divinatory"
   status: tentative
-  notes: "Sections 1, 4, and 7 support the technical feel of `mantic`: the word sits beside augury, omens, oracle practices, and later `divination` rather than generalized mysticism."
+  notes: "Sections 1, 4, 7, and 17 support the technical feel of `mantic`: the word sits beside augury, omens, oracle practices, geomancy, and later `divination` rather than generalized mysticism."
 
 - term: "Urgrund"
   handle: "term:urgrund"
@@ -81,7 +82,7 @@
     - "cosmic plan"
     - "plan of the world"
   status: tentative
-  notes: "Hyphenation keeps the German compound visible."
+  notes: "Hyphenation keeps the German compound visible. §17 sharpens it by explicit contrast with `Menschenplan`."
 
 - term: "Bruchstelle"
   handle: "term:bruchstelle"
@@ -119,4 +120,5 @@
   evidence:
     - "evidence:term:da-sein-so-sein:zm:4"
     - "evidence:term:da-sein-so-sein:zm:11"
-  notes: "Keep the pair visibly Germanic. §11 makes `So-Sein` load-bearing. `Existence / essence` is too Latinate and collapses a distinction Jünger is deliberately not naming that way."
+    - "evidence:term:da-sein-so-sein:zm:31"
+  notes: "Keep the pair visibly Germanic. §11 makes `So-Sein` load-bearing; §31 extends it into the contrast with `Gleichsein`, dignity, and resistance to uniform abstraction. `Existence / essence` is too Latinate and collapses a distinction Jünger is deliberately not naming that way."

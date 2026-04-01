@@ -1,19 +1,19 @@
 {
   "project": "zeitmauer",
-  "scope": "pilot-translated-range-1-16",
+  "scope": "pilot-translated-range-1-31",
   "source_files": {
     "sections": "texts/zeitmauer/source/sections.yaml",
     "glossary": "texts/zeitmauer/source/glossary.yaml",
     "handles": "texts/zeitmauer/source/handles.yaml"
   },
   "counts": {
-    "sections": 16,
+    "sections": 31,
     "terms": 11,
-    "chunks": 8,
-    "notes": 9,
+    "chunks": 12,
+    "notes": 13,
     "threads": 3,
-    "evidence": 8,
-    "relations": 9
+    "evidence": 10,
+    "relations": 13
   },
   "sections": [
     {
@@ -585,6 +585,490 @@
       },
       "source_file": "texts/zeitmauer/source/sections.yaml",
       "draft_file": "texts/zeitmauer/parts/05-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:17",
+      "id": 17,
+      "label": "§17",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Wenn wir Begriff und Anschauung oder Wissen und Deuten zwei Häusern verglichen haben, so muß dazu bemerkt werden, daß es auch Zwischengemächer gibt. Daß diese Zwischengemächer sich ausdehnen, ist eines der Anzeichen dafür, daß wir eine Nahtstelle erreicht haben. Damit werden Gebiete wissenschaftlich diskutabel, werden zu »Fächern«, von denen man das früher nicht geahnt hätte. Daß es sich um Zwischengemächer handelt, ist auch daran zu erkennen, daß in sie sowohl Begriffe wie Zeichen eintreten.\n\nDiese Ausweitung läßt verschiedene Erklärungen zu – etwa die, daß die Wissenschaft durch einen Verlust an logischer Strenge zugänglicher wird. Man könnte aber auch behaupten, daß das Bewußtsein neue Felder erobert und sie der wissenschaftlichen Durchdringung erschließt. Es führt Licht in entlegene Schächte ein.\n\nVerfeinerungen in der Methodik, auch in der Praxis, können die Folge sein. Man weiß heute – das heißt, es ist wissenschaftlich anerkannt – daß es günstige und ungünstige Tage zum Operieren gibt. Wir verdanken diese Einsicht Kombinationen statistischer, meteorologischer und medizinischer Art. Es wäre auch vertretbar, einen Eingriff zu unterlassen, weil man vom Patienten einen abweisenden Traum erfahren hat, denn auch die wissenschaftliche Traumdeutung macht Fortschritte. Man würde aber nicht daran denken, den Bau des ganzen Krankenhauses an einem astrologisch günstigen Tage und an einem geomantisch erkundeten Ort zu beginnen oder ihn deshalb zu unterlassen, weil ein Orakel ihn untersagt.\n\nDagegen ist es nicht nur denkbar, sondern auch wahrscheinlich, daß hygienische, klimatologische, strahlungsastronomische und -geologische Vorstellungen sich in einer Weise verfeinern werden, die nicht nur auf die Anlage, sondern auch auf die Form solcher Bauten Einfluß übt. Und wiederum ist es möglich, daß man dabei auf ähnliche Orte und Zeiten verfallen wird wie auf die ehedem mantisch erkundeten.\n\nEs ist nicht selten, daß schärferes Durchdenken in kühner Schleife ein längst vergessenes Gut entdeckt. Die Behandlung der Paralyse durch Heilfieber, wie wir sie seit 1917 kennen, wurde seit langem von afrikanischen Medizinmännern praktiziert, wenngleich unter anderen Vorstellungen. Sumpfdämonen spielten eine Rolle dabei. Dem liegt zugrunde, daß das Fieber, wie das Fasten, das Atmen und der Schlaf, zu den wirklichen Heilkräften zählt, zu denen alle Heilmittel nur im Verhältnis von Türöffnern stehen. Je komplizierter eine Medizin, desto verdächtiger.\n\nMan kann den Medizinmann, wenn man ihm einen weißen Kittel anzieht und ihn hinter ein Mikroskop setzt, in einigen Jahren dazu bringen, die Spirochaeten zu sehen. Es handelt sich dabei ja nicht um einen rein optischen Akt. Vergeblich würde sich aber der Medizinmann bemühen, seinen europäischen Kollegen mit den Zusammenhängen vertraut zu machen, die ihn zur Heilung befähigen. Man wird sich dahin vergleichen, daß er empirisch einen Befund ertastet hatte, den das Wissen sieht.\n\nIm Grunde hat jede Ordnung ihre Heilkunst, in die auch die Schattenseiten der Zeit einfließen, wie in die unsere die technische Differenzierung, die statistische Behandlung und das Rekordwesen. Die Kunst bleibt unbegrenzt. Der Grund ist zwingend: Der Menschenplan beschränkt sich auf die Heilung, während der Weltplan nicht nur diese, sondern auch Krankheit und Tod umschließt. Das bringt die Medizin in Konflikte, die auf ihrem eigenen Felde unlösbar sind, und diese Konflikte müssen wachsen im Maße, in dem die Medizin sich spezialisiert.\n\nDer Buschmann war dem Weißen ohne Zweifel an Wissen weit unterlegen, doch unterschied er sich von ihm dadurch, daß er nicht nur eine Funktion ausübte, sondern noch ein Amt versah, dessen er nicht durch bloßes Wissen teilhaftig geworden war. Damit hängt eng zusammen, daß er den Kranken und seine Krankheit, wenn auch in unserem Sinne unzureichend, als Ganzes auffaßte. Daß nicht nur unsere Medizin, sondern die Naturwissenschaft überhaupt auf die Ausscheidung gerade dieser Qualität abzielt, um größere Durchschlagskraft zu erreichen, ist bekannt.\n\nDas Volk fühlt diesen Mangel, wie unter anderem der Zulauf, den die periodisch auftretenden Wundermänner finden, verrät. Es liegt ein Protest in seinem Wunderglauben und der Verdacht, daß das Studium einen ungünstigen Einfluß auf die Heilkraft ausübe, die immer noch mehr als das Wissen und mehr als jede Technik ausweist, wer ein guter Arzt ist und wer nicht.",
+      "en": "If we have compared concept and intuition, or knowledge and interpretation, to two houses, then it must be added that there are also intermediate chambers. That these intermediate chambers are expanding is one of the signs that we have reached a seam. In this way regions become open to scientific discussion, become `disciplines`, of which one earlier had no inkling. That these are intermediate chambers is also evident from the fact that both concepts and signs enter into them.\n\nThis expansion permits various explanations - for instance, that science becomes more accessible through a loss of logical rigor. But one might just as well claim that consciousness is conquering new fields and opening them to scientific penetration. It carries light into remote shafts.\n\nRefinements in method, and in practice as well, can be the result. Today one knows - that is, it is scientifically acknowledged - that there are favorable and unfavorable days for operating. We owe this insight to combinations of a statistical, meteorological, and medical kind. It would also be defensible to refrain from an intervention because one had heard from the patient of a forbidding dream, for scientific dream interpretation too is making progress. Yet no one would think of beginning the construction of the whole hospital on an astrologically favorable day and on a geomantically surveyed site, or of omitting it because an oracle forbids it.\n\nBy contrast, it is not only conceivable but probable that hygienic, climatological, radiation-astronomical, and radiation-geological ideas will be refined in such a way as to influence not only the siting but also the form of such buildings. And here again it is possible that one will hit upon places and times similar to those formerly explored by mantic means.\n\nIt is not uncommon for sharper reflection, in a bold loop, to recover some good long forgotten. The treatment of paresis by therapeutic fever, as we have known it since 1917, had long been practiced by African medicine men, though under different conceptions. Swamp demons played a role in it. What underlies this is that fever, like fasting, breathing, and sleep, counts among the real healing powers, to which all remedies stand only in the relation of door-openers. The more complicated a medicine, the more suspect it is.\n\nOne can, by putting a white coat on the medicine man and setting him behind a microscope, bring him within a few years to the point of seeing the spirochetes. This is, after all, not a purely optical act. But the medicine man would strive in vain to make his European colleague familiar with the connections that enable him to heal. One will finally settle on saying that he had empirically felt his way to a finding that knowledge can see.\n\nAt bottom every order has its own art of healing, into which the shadow sides of the time also flow, as into ours technical differentiation, statistical treatment, and the cult of records. The art remains unbounded. The reason is compelling: the human plan confines itself to healing, whereas the world-plan includes not only this but also illness and death. That brings medicine into conflicts that are insoluble on its own field, and these conflicts must grow in proportion as medicine becomes more specialized.\n\nThe Bushman was without doubt far inferior to the white man in knowledge, yet he differed from him in that he exercised not only a function but also held an office to which he had not attained through mere knowledge alone. Closely bound up with this is that he grasped the sick person and his illness as a whole, though admittedly inadequately in our sense. It is well known that not only our medicine, but natural science in general, aims at eliminating precisely this quality in order to gain greater penetrative force.\n\nThe people feels this lack, as is shown among other things by the crowds that periodically appearing wonder-workers attract. There lies in its belief in miracles a protest and the suspicion that study exerts an unfavorable influence on the healing power which, still more than knowledge and more than any technique, shows who is a good doctor and who is not.",
+      "de_paragraphs": [
+        "Wenn wir Begriff und Anschauung oder Wissen und Deuten zwei Häusern verglichen haben, so muß dazu bemerkt werden, daß es auch Zwischengemächer gibt. Daß diese Zwischengemächer sich ausdehnen, ist eines der Anzeichen dafür, daß wir eine Nahtstelle erreicht haben. Damit werden Gebiete wissenschaftlich diskutabel, werden zu »Fächern«, von denen man das früher nicht geahnt hätte. Daß es sich um Zwischengemächer handelt, ist auch daran zu erkennen, daß in sie sowohl Begriffe wie Zeichen eintreten.",
+        "Diese Ausweitung läßt verschiedene Erklärungen zu – etwa die, daß die Wissenschaft durch einen Verlust an logischer Strenge zugänglicher wird. Man könnte aber auch behaupten, daß das Bewußtsein neue Felder erobert und sie der wissenschaftlichen Durchdringung erschließt. Es führt Licht in entlegene Schächte ein.",
+        "Verfeinerungen in der Methodik, auch in der Praxis, können die Folge sein. Man weiß heute – das heißt, es ist wissenschaftlich anerkannt – daß es günstige und ungünstige Tage zum Operieren gibt. Wir verdanken diese Einsicht Kombinationen statistischer, meteorologischer und medizinischer Art. Es wäre auch vertretbar, einen Eingriff zu unterlassen, weil man vom Patienten einen abweisenden Traum erfahren hat, denn auch die wissenschaftliche Traumdeutung macht Fortschritte. Man würde aber nicht daran denken, den Bau des ganzen Krankenhauses an einem astrologisch günstigen Tage und an einem geomantisch erkundeten Ort zu beginnen oder ihn deshalb zu unterlassen, weil ein Orakel ihn untersagt.",
+        "Dagegen ist es nicht nur denkbar, sondern auch wahrscheinlich, daß hygienische, klimatologische, strahlungsastronomische und -geologische Vorstellungen sich in einer Weise verfeinern werden, die nicht nur auf die Anlage, sondern auch auf die Form solcher Bauten Einfluß übt. Und wiederum ist es möglich, daß man dabei auf ähnliche Orte und Zeiten verfallen wird wie auf die ehedem mantisch erkundeten.",
+        "Es ist nicht selten, daß schärferes Durchdenken in kühner Schleife ein längst vergessenes Gut entdeckt. Die Behandlung der Paralyse durch Heilfieber, wie wir sie seit 1917 kennen, wurde seit langem von afrikanischen Medizinmännern praktiziert, wenngleich unter anderen Vorstellungen. Sumpfdämonen spielten eine Rolle dabei. Dem liegt zugrunde, daß das Fieber, wie das Fasten, das Atmen und der Schlaf, zu den wirklichen Heilkräften zählt, zu denen alle Heilmittel nur im Verhältnis von Türöffnern stehen. Je komplizierter eine Medizin, desto verdächtiger.",
+        "Man kann den Medizinmann, wenn man ihm einen weißen Kittel anzieht und ihn hinter ein Mikroskop setzt, in einigen Jahren dazu bringen, die Spirochaeten zu sehen. Es handelt sich dabei ja nicht um einen rein optischen Akt. Vergeblich würde sich aber der Medizinmann bemühen, seinen europäischen Kollegen mit den Zusammenhängen vertraut zu machen, die ihn zur Heilung befähigen. Man wird sich dahin vergleichen, daß er empirisch einen Befund ertastet hatte, den das Wissen sieht.",
+        "Im Grunde hat jede Ordnung ihre Heilkunst, in die auch die Schattenseiten der Zeit einfließen, wie in die unsere die technische Differenzierung, die statistische Behandlung und das Rekordwesen. Die Kunst bleibt unbegrenzt. Der Grund ist zwingend: Der Menschenplan beschränkt sich auf die Heilung, während der Weltplan nicht nur diese, sondern auch Krankheit und Tod umschließt. Das bringt die Medizin in Konflikte, die auf ihrem eigenen Felde unlösbar sind, und diese Konflikte müssen wachsen im Maße, in dem die Medizin sich spezialisiert.",
+        "Der Buschmann war dem Weißen ohne Zweifel an Wissen weit unterlegen, doch unterschied er sich von ihm dadurch, daß er nicht nur eine Funktion ausübte, sondern noch ein Amt versah, dessen er nicht durch bloßes Wissen teilhaftig geworden war. Damit hängt eng zusammen, daß er den Kranken und seine Krankheit, wenn auch in unserem Sinne unzureichend, als Ganzes auffaßte. Daß nicht nur unsere Medizin, sondern die Naturwissenschaft überhaupt auf die Ausscheidung gerade dieser Qualität abzielt, um größere Durchschlagskraft zu erreichen, ist bekannt.",
+        "Das Volk fühlt diesen Mangel, wie unter anderem der Zulauf, den die periodisch auftretenden Wundermänner finden, verrät. Es liegt ein Protest in seinem Wunderglauben und der Verdacht, daß das Studium einen ungünstigen Einfluß auf die Heilkraft ausübe, die immer noch mehr als das Wissen und mehr als jede Technik ausweist, wer ein guter Arzt ist und wer nicht."
+      ],
+      "en_paragraphs": [
+        "If we have compared concept and intuition, or knowledge and interpretation, to two houses, then it must be added that there are also intermediate chambers. That these intermediate chambers are expanding is one of the signs that we have reached a seam. In this way regions become open to scientific discussion, become `disciplines`, of which one earlier had no inkling. That these are intermediate chambers is also evident from the fact that both concepts and signs enter into them.",
+        "This expansion permits various explanations - for instance, that science becomes more accessible through a loss of logical rigor. But one might just as well claim that consciousness is conquering new fields and opening them to scientific penetration. It carries light into remote shafts.",
+        "Refinements in method, and in practice as well, can be the result. Today one knows - that is, it is scientifically acknowledged - that there are favorable and unfavorable days for operating. We owe this insight to combinations of a statistical, meteorological, and medical kind. It would also be defensible to refrain from an intervention because one had heard from the patient of a forbidding dream, for scientific dream interpretation too is making progress. Yet no one would think of beginning the construction of the whole hospital on an astrologically favorable day and on a geomantically surveyed site, or of omitting it because an oracle forbids it.",
+        "By contrast, it is not only conceivable but probable that hygienic, climatological, radiation-astronomical, and radiation-geological ideas will be refined in such a way as to influence not only the siting but also the form of such buildings. And here again it is possible that one will hit upon places and times similar to those formerly explored by mantic means.",
+        "It is not uncommon for sharper reflection, in a bold loop, to recover some good long forgotten. The treatment of paresis by therapeutic fever, as we have known it since 1917, had long been practiced by African medicine men, though under different conceptions. Swamp demons played a role in it. What underlies this is that fever, like fasting, breathing, and sleep, counts among the real healing powers, to which all remedies stand only in the relation of door-openers. The more complicated a medicine, the more suspect it is.",
+        "One can, by putting a white coat on the medicine man and setting him behind a microscope, bring him within a few years to the point of seeing the spirochetes. This is, after all, not a purely optical act. But the medicine man would strive in vain to make his European colleague familiar with the connections that enable him to heal. One will finally settle on saying that he had empirically felt his way to a finding that knowledge can see.",
+        "At bottom every order has its own art of healing, into which the shadow sides of the time also flow, as into ours technical differentiation, statistical treatment, and the cult of records. The art remains unbounded. The reason is compelling: the human plan confines itself to healing, whereas the world-plan includes not only this but also illness and death. That brings medicine into conflicts that are insoluble on its own field, and these conflicts must grow in proportion as medicine becomes more specialized.",
+        "The Bushman was without doubt far inferior to the white man in knowledge, yet he differed from him in that he exercised not only a function but also held an office to which he had not attained through mere knowledge alone. Closely bound up with this is that he grasped the sick person and his illness as a whole, though admittedly inadequately in our sense. It is well known that not only our medicine, but natural science in general, aims at eliminating precisely this quality in order to gain greater penetrative force.",
+        "The people feels this lack, as is shown among other things by the crowds that periodically appearing wonder-workers attract. There lies in its belief in miracles a protest and the suspicion that study exerts an unfavorable influence on the healing power which, still more than knowledge and more than any technique, shows who is a good doctor and who is not."
+      ],
+      "paragraph_alignment": {
+        "de_count": 9,
+        "en_count": 9,
+        "aligned": true,
+        "row_count": 9
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/06-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:18",
+      "id": 18,
+      "label": "§18",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Es gibt Beurteiler, die nach dem berühmten Wort Pascals, daß »viel Wissen zu Gott zurückführt«, meinen, die wachsende Verfeinerung der Einsicht könne allmählich einen Grad gewinnen, bei dem das Wissen sich wie eine feine Haut dem Grundgerüst, dem Bauplan der Welt auflege. Dadurch könne sich der Unterschied zwischen Wissen und Glauben verringern bis auf einen unwägbaren Rest. Wissenschaft könne Religion werden.\n\nDas ist nicht der Fall. Es gibt wohl eine Annäherung zwischen Wissen und Nichtwissen bis zum völligen Übergang, eine Annäherung, die einem allmählichen Lichteinfall zu vergleichen ist. Es gibt auch eine Annäherung zwischen Glauben und Nichtglauben bis zum völligen Übergang, der zuweilen sogar als jäher Lichteinfall, als Lichtflut, stattfinden kann. Zwischen Wissen und Glauben aber gibt es nur Analogien; es bleibt stets eine Kluft und ein Sprung, der gewagt werden muß. Weder Beweis noch Wille überbrücken sie.\n\nDas schließt nicht aus, daß sich das Wissen als Ganzes auf eine Weise bewegt, die dem Plan widerspricht und die besonders spürbar wird in der schubhaften Phase, in der wir begriffen sind. Das Bewußtsein verliert die Kontrolle über die Gesamtrichtung, während die Details schärfer hervortreten. Das deutet auf ein Bewegendes außerhalb des Wissens, das durch den Plan nicht zu erfassen, geschweige denn zu lenken ist. Die Wissenschaft bleibt im Zusammenhang, doch wird sie im ganzen angehoben wie ein Schiff. Wir sehen noch die vertrauten Maße und Gegenstände, denen jedoch der Ortswechsel eine neue Bedeutung verlieh.",
+      "en": "There are judges who, following Pascal's famous saying that `much knowledge leads back to God`, think that the growing refinement of insight could gradually reach a degree at which knowledge lays itself like a delicate skin over the underlying framework, the blueprint of the world. In this way the difference between knowledge and faith could diminish to an imponderable residue. Science could become religion.\n\nThis is not the case. There is indeed an approach between knowledge and nonknowledge up to the point of complete transition, an approach comparable to a gradual influx of light. There is also an approach between faith and unbelief up to the point of complete transition, a transition that may sometimes even take place as a sudden influx of light, as a flood of light. Between knowledge and faith, however, there are only analogies; there always remains a chasm and a leap that must be dared. Neither proof nor will bridges it.\n\nThis does not exclude that knowledge as a whole moves in a way that contradicts the plan, and that becomes especially palpable in the fitful phase in which we find ourselves. Consciousness loses control over the overall direction while the details stand out more sharply. This points to a moving force outside knowledge that cannot be grasped by the plan, much less steered by it. Science remains internally connected, yet as a whole it is lifted like a ship. We still see the familiar measures and objects, to which the change of place has given a new significance.",
+      "de_paragraphs": [
+        "Es gibt Beurteiler, die nach dem berühmten Wort Pascals, daß »viel Wissen zu Gott zurückführt«, meinen, die wachsende Verfeinerung der Einsicht könne allmählich einen Grad gewinnen, bei dem das Wissen sich wie eine feine Haut dem Grundgerüst, dem Bauplan der Welt auflege. Dadurch könne sich der Unterschied zwischen Wissen und Glauben verringern bis auf einen unwägbaren Rest. Wissenschaft könne Religion werden.",
+        "Das ist nicht der Fall. Es gibt wohl eine Annäherung zwischen Wissen und Nichtwissen bis zum völligen Übergang, eine Annäherung, die einem allmählichen Lichteinfall zu vergleichen ist. Es gibt auch eine Annäherung zwischen Glauben und Nichtglauben bis zum völligen Übergang, der zuweilen sogar als jäher Lichteinfall, als Lichtflut, stattfinden kann. Zwischen Wissen und Glauben aber gibt es nur Analogien; es bleibt stets eine Kluft und ein Sprung, der gewagt werden muß. Weder Beweis noch Wille überbrücken sie.",
+        "Das schließt nicht aus, daß sich das Wissen als Ganzes auf eine Weise bewegt, die dem Plan widerspricht und die besonders spürbar wird in der schubhaften Phase, in der wir begriffen sind. Das Bewußtsein verliert die Kontrolle über die Gesamtrichtung, während die Details schärfer hervortreten. Das deutet auf ein Bewegendes außerhalb des Wissens, das durch den Plan nicht zu erfassen, geschweige denn zu lenken ist. Die Wissenschaft bleibt im Zusammenhang, doch wird sie im ganzen angehoben wie ein Schiff. Wir sehen noch die vertrauten Maße und Gegenstände, denen jedoch der Ortswechsel eine neue Bedeutung verlieh."
+      ],
+      "en_paragraphs": [
+        "There are judges who, following Pascal's famous saying that `much knowledge leads back to God`, think that the growing refinement of insight could gradually reach a degree at which knowledge lays itself like a delicate skin over the underlying framework, the blueprint of the world. In this way the difference between knowledge and faith could diminish to an imponderable residue. Science could become religion.",
+        "This is not the case. There is indeed an approach between knowledge and nonknowledge up to the point of complete transition, an approach comparable to a gradual influx of light. There is also an approach between faith and unbelief up to the point of complete transition, a transition that may sometimes even take place as a sudden influx of light, as a flood of light. Between knowledge and faith, however, there are only analogies; there always remains a chasm and a leap that must be dared. Neither proof nor will bridges it.",
+        "This does not exclude that knowledge as a whole moves in a way that contradicts the plan, and that becomes especially palpable in the fitful phase in which we find ourselves. Consciousness loses control over the overall direction while the details stand out more sharply. This points to a moving force outside knowledge that cannot be grasped by the plan, much less steered by it. Science remains internally connected, yet as a whole it is lifted like a ship. We still see the familiar measures and objects, to which the change of place has given a new significance."
+      ],
+      "paragraph_alignment": {
+        "de_count": 3,
+        "en_count": 3,
+        "aligned": true,
+        "row_count": 3
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/06-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:19",
+      "id": 19,
+      "label": "§19",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Die Hochzucht der Naturwissenschaften hat außerordentliche Wirkungen hervorgebracht. Sie konnte nur erreicht werden durch die Beschneidung der Geisteswissenschaften und durch die Bevorzugung der funktionalen Regionen in der Mathematik und den Naturwissenschaften selbst.\n\nDaß auch die philosophische Betrachtung der Naturwissenschaften, wie sie noch in der Romantik geübt werden konnte, zurücktreten und sogar verdächtig werden mußte, liegt auf der Hand. Daher können in den Naturwissenschaften Geister wie Goethe, Schelling oder Alexander von Humboldt nicht mehr auftreten – Geister, die mit ruhendem Blick das Gebiet in seinem Umfang und seiner Tiefe erfassen und die dazu mehr als Wissen mitbringen.\n\nEs fehlt aber, trotz aller Ernte an Kenntnissen selbst, an erkenntniskritisch geschulten Köpfen, wie sie noch weit in das 19. Jahrhundert hineinreichen. Daher geht auch die logische Unterscheidung verloren zwischen dem, was gewußt, und dem, was nicht gewußt werden kann, das heißt: die kantianische Bescheidenheit. Die Sichtbarkeit wird zum Prüfstein der Wirklichkeit. Der Blick verkümmert, der die Fülle der natura naturata noch von der Einheit der natura naturans zu trennen vermag. Ihm verschwimmen sowohl die Moral- wie die Machtfragen.\n\nDamit wächst nicht nur die unkontrollierte Bewegung, sondern ist auch unmittelbar Gefahr verbunden, da der Plan sich vom eigentlichen Weltbau und der ihm innewohnenden Ordnung entfernt. Sein Risiko nimmt zu.\n\nDas sind Gefahren, die sich bereits aus einer unzureichenden Lagebeurteilung ergeben, aus der unscharfen Erfassung der Welt als Gegenstand. Sie können daher durch jeden gesunden Verstand begriffen werden, ohne daß metaphysische Spekulationen nötig sind. Sie werden auch allgemein empfunden, wenngleich meist in der Form des Mißbehagens, des warnenden Instinkts, der ahnt, daß ungeachtet aller Intelligenzanwendung die Dinge nicht in der Ordnung sind.",
+      "en": "The high cultivation of the natural sciences has produced extraordinary effects. It could be achieved only through the pruning of the human sciences and through the privileging of the functional regions within mathematics and the natural sciences themselves.\n\nThat the philosophical contemplation of the natural sciences, such as was still possible in Romanticism, had to recede and even become suspect, is obvious. For that reason minds like Goethe, Schelling, or Alexander von Humboldt can no longer appear in the natural sciences - minds who grasp the field in its breadth and depth with a steady gaze and bring with them more than knowledge.\n\nBut despite all the harvest of knowledge itself, there is a lack of minds schooled in the critique of knowledge, of the sort that still reached far into the nineteenth century. Hence the logical distinction is also lost between what can be known and what cannot be known, that is: Kantian modesty. Visibility becomes the touchstone of reality. The gaze atrophies that is still able to distinguish the fullness of `natura naturata` from the unity of `natura naturans`. For it both moral and power questions blur.\n\nThus not only does uncontrolled movement grow, but danger is also immediately bound up with it, since the plan moves away from the actual structure of the world and the order inherent in it. Its risk increases.\n\nThese are dangers that already arise from an inadequate assessment of the situation, from an imprecise apprehension of the world as object. They can therefore be understood by any sound understanding without need of metaphysical speculations. They are also generally felt, though usually in the form of unease, of the warning instinct that senses that, for all the application of intelligence, things are not in order.",
+      "de_paragraphs": [
+        "Die Hochzucht der Naturwissenschaften hat außerordentliche Wirkungen hervorgebracht. Sie konnte nur erreicht werden durch die Beschneidung der Geisteswissenschaften und durch die Bevorzugung der funktionalen Regionen in der Mathematik und den Naturwissenschaften selbst.",
+        "Daß auch die philosophische Betrachtung der Naturwissenschaften, wie sie noch in der Romantik geübt werden konnte, zurücktreten und sogar verdächtig werden mußte, liegt auf der Hand. Daher können in den Naturwissenschaften Geister wie Goethe, Schelling oder Alexander von Humboldt nicht mehr auftreten – Geister, die mit ruhendem Blick das Gebiet in seinem Umfang und seiner Tiefe erfassen und die dazu mehr als Wissen mitbringen.",
+        "Es fehlt aber, trotz aller Ernte an Kenntnissen selbst, an erkenntniskritisch geschulten Köpfen, wie sie noch weit in das 19. Jahrhundert hineinreichen. Daher geht auch die logische Unterscheidung verloren zwischen dem, was gewußt, und dem, was nicht gewußt werden kann, das heißt: die kantianische Bescheidenheit. Die Sichtbarkeit wird zum Prüfstein der Wirklichkeit. Der Blick verkümmert, der die Fülle der natura naturata noch von der Einheit der natura naturans zu trennen vermag. Ihm verschwimmen sowohl die Moral- wie die Machtfragen.",
+        "Damit wächst nicht nur die unkontrollierte Bewegung, sondern ist auch unmittelbar Gefahr verbunden, da der Plan sich vom eigentlichen Weltbau und der ihm innewohnenden Ordnung entfernt. Sein Risiko nimmt zu.",
+        "Das sind Gefahren, die sich bereits aus einer unzureichenden Lagebeurteilung ergeben, aus der unscharfen Erfassung der Welt als Gegenstand. Sie können daher durch jeden gesunden Verstand begriffen werden, ohne daß metaphysische Spekulationen nötig sind. Sie werden auch allgemein empfunden, wenngleich meist in der Form des Mißbehagens, des warnenden Instinkts, der ahnt, daß ungeachtet aller Intelligenzanwendung die Dinge nicht in der Ordnung sind."
+      ],
+      "en_paragraphs": [
+        "The high cultivation of the natural sciences has produced extraordinary effects. It could be achieved only through the pruning of the human sciences and through the privileging of the functional regions within mathematics and the natural sciences themselves.",
+        "That the philosophical contemplation of the natural sciences, such as was still possible in Romanticism, had to recede and even become suspect, is obvious. For that reason minds like Goethe, Schelling, or Alexander von Humboldt can no longer appear in the natural sciences - minds who grasp the field in its breadth and depth with a steady gaze and bring with them more than knowledge.",
+        "But despite all the harvest of knowledge itself, there is a lack of minds schooled in the critique of knowledge, of the sort that still reached far into the nineteenth century. Hence the logical distinction is also lost between what can be known and what cannot be known, that is: Kantian modesty. Visibility becomes the touchstone of reality. The gaze atrophies that is still able to distinguish the fullness of `natura naturata` from the unity of `natura naturans`. For it both moral and power questions blur.",
+        "Thus not only does uncontrolled movement grow, but danger is also immediately bound up with it, since the plan moves away from the actual structure of the world and the order inherent in it. Its risk increases.",
+        "These are dangers that already arise from an inadequate assessment of the situation, from an imprecise apprehension of the world as object. They can therefore be understood by any sound understanding without need of metaphysical speculations. They are also generally felt, though usually in the form of unease, of the warning instinct that senses that, for all the application of intelligence, things are not in order."
+      ],
+      "paragraph_alignment": {
+        "de_count": 5,
+        "en_count": 5,
+        "aligned": true,
+        "row_count": 5
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/06-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:20",
+      "id": 20,
+      "label": "§20",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Zu den Fächern, die im Zwischengemach auftauchen, gehört die Charakterologie, ein Gebiet von unbestimmtem Umfang, das eng und weit gefaßt werden kann. Wesen und Ausdruck des Menschen: das ist eine Welt.\n\nDie Betrachtung der Charaktere führt uns in die Nähe der Astrologie. Charakterdeutung oder, besser, Charakterergründung sind Hauptaufgaben des Horoskops. Die Charakterologie gilt in unseren Tagen als Wissenschaft, obwohl sie erst durch Elemente fruchtbar wird, die jenseits des Wissens gelegen sind und sie den Künsten annähern. Charakterdeutung setzt eine Art von Musikalität voraus. Es muß ein Fluidum zwischen dem Beurteiler und dem zu Beurteilenden bestehen, auch Kongenialität. Dadurch beschränkt sich die Reichweite der angewandten Psychologie, die man als eines der Unterfächer der Charakterologie betrachten kann. Die Beurteilung spiegelt den Beurteilenden. Aus der Beurteilung seiner Untergebenen läßt sich der Charakter des Chefs ablesen.\n\nDie Auslese auf Grund der Charakterbeurteilung geschieht in der Praxis, und nicht auf wissenschaftliche Art. So hat in der Armee der Kommandeur und nicht der Psychologe das letzte Wort. Das Gegenteil würde ein schlechtes Zeichen sein. Nach einer Reihe von Jahren, vielleicht erst auf dem Schlachtfeld, stellt sich der prognostische Wert einer Beurteilung heraus. Es wird sichtbar, ob der Blender überschätzt, das große Talent, das erst zum Selbstbewußtsein kommen mußte, unterschätzt worden ist.\n\nZu solcher Überprüfung wird sich fast immer Gelegenheit bieten, denn das Vorrücken in die eigentliche Bestimmung entscheidet nicht die Beurteilung allein. Es findet bei starken Charakteren, bei »unbequemen Untergebenen«, oft gegen sie statt. Im allgemeinen erreicht der Mensch den Platz, der ihm gebührt. Diese Bemerkung darf nicht nur positiv verstanden werden: die Bestimmung des Menschen kann auch sein, daß er versagt. Damit treten wir aus den Bereichen der Charakterologie, besonders aus ihren ethischen Bezirken, bereits in eine horoskopische Betrachtung ein. Das Versagen, der Fehler, kann, ähnlich wie die Krankheit, als Bestimmung nur erkannt werden durch einen Blick, der große Pläne, der Konstellationen auszudeuten vermag.\n\nAls der Hahn zum dritten Mal krähte, das heißt: als die Stimme des Weltgewissens erscholl, wurde Petrus zum Verräter an seinem Meister – nicht nur deshalb, weil er zu schwach zum Bekenntnis war, sondern auch deshalb, weil es eine Prophezeiung zu erfüllen galt. Hätte er die Wahrheit bekannt, so würde er den Meister Lügen gestraft haben. Die Ehre des Individuums zerbricht unter der Last einer ihm unbekannten Ordnung, die über es verfügt. Das ist ein Schicksalszug, und ihn in den Künsten darzustellen Aufgabe des Tragikers, der ihn im Spiel wiederholt. Die Tragödie ist kultisches Spiel. In ihr wirkt das Schicksal mit seinen Mächten, webt Schicksalszeit. In der meßbaren Zeit kennt man das Tragische nicht. Es gilt als vermeidbar – dann gibt es nur Unfälle.\n\nWo schwere Entscheidungen zu treffen und Opfer auszurichten sind, wie bei der Heerführung, wird dem Charakter gegenüber dem Intellekt der Vorrang eingeräumt. Der Kommandierende ist daher meist einfacher, »beschränkter« als sein Stabschef, der Kriegskunst als Wissenschaft betreibt. Dafür werden Festigkeit in bedrohter Lage, ausstrahlende Autorität und väterliche Größe von ihm verlangt. Blücher nannte Gneisenau »seinen Kopf«. Aber: »Die großen Gedanken entspringen im Herzen«, sagt Vauvenargues.",
+      "en": "Among the disciplines that appear in the intermediate chamber is characterology, a field of indeterminate extent that can be understood narrowly or broadly. The essence and expression of man: that is a world.\n\nThe consideration of characters leads us into the vicinity of astrology. Character interpretation, or better, character exploration, is one of the horoscope's principal tasks. Characterology counts in our day as a science, although it becomes fruitful only through elements that lie beyond knowledge and draw it closer to the arts. Character interpretation presupposes a kind of musicality. There must be a certain atmosphere, and a congeniality too, between the judge and the one judged. That is what limits the reach of applied psychology, which can be regarded as one of the subfields of characterology. The judgment mirrors the judge. From a chief's assessment of his subordinates one can read off the chief's own character.\n\nSelection on the basis of character-assessment happens in practice, and not in a scientific way. Thus in the army it is the commander, not the psychologist, who has the last word. The opposite would be a bad sign. After a number of years, perhaps only on the battlefield, the prognostic value of an assessment becomes clear. It becomes visible whether the bluffer has been overrated, whether the great talent that first had to arrive at self-confidence has been underrated.\n\nThere will almost always be occasion for such verification, for advancement into one's actual vocation is not decided by assessment alone. In the case of strong characters, of `difficult subordinates`, it often takes place against the assessment. In general man reaches the place that is due to him. This remark must not be understood only positively: a man's vocation may also be that he fails. With that we step out of the region of characterology, especially out of its ethical districts, already into a horoscopic mode of consideration. Failure, error, like illness, can be recognized as vocation only through a gaze capable of interpreting large plans, the plans of constellations.\n\nWhen the cock crowed for the third time, that is, when the voice of the conscience of the world rang out, Peter became a traitor to his master - not only because he was too weak for confession, but also because a prophecy had to be fulfilled. Had he acknowledged the truth, he would have proved the master a liar. The honor of the individual breaks beneath the weight of an order unknown to him, an order that disposes over him. That is a trait of fate, and to represent it in the arts is the task of the tragedian, who repeats it in play. Tragedy is cultic play. In it fate works with its powers, weaving fateful time. In measurable time the tragic is unknown. There it counts as something avoidable - then there are only accidents.\n\nWhere grave decisions must be taken and sacrifices apportioned, as in command, character is given precedence over intellect. The commander is therefore usually simpler, more `limited`, than his chief of staff, who practices the art of war as a science. In return firmness in threatened situations, radiating authority, and fatherly greatness are demanded of him. Blücher called Gneisenau `his head`. But: `Great thoughts arise in the heart`, says Vauvenargues.",
+      "de_paragraphs": [
+        "Zu den Fächern, die im Zwischengemach auftauchen, gehört die Charakterologie, ein Gebiet von unbestimmtem Umfang, das eng und weit gefaßt werden kann. Wesen und Ausdruck des Menschen: das ist eine Welt.",
+        "Die Betrachtung der Charaktere führt uns in die Nähe der Astrologie. Charakterdeutung oder, besser, Charakterergründung sind Hauptaufgaben des Horoskops. Die Charakterologie gilt in unseren Tagen als Wissenschaft, obwohl sie erst durch Elemente fruchtbar wird, die jenseits des Wissens gelegen sind und sie den Künsten annähern. Charakterdeutung setzt eine Art von Musikalität voraus. Es muß ein Fluidum zwischen dem Beurteiler und dem zu Beurteilenden bestehen, auch Kongenialität. Dadurch beschränkt sich die Reichweite der angewandten Psychologie, die man als eines der Unterfächer der Charakterologie betrachten kann. Die Beurteilung spiegelt den Beurteilenden. Aus der Beurteilung seiner Untergebenen läßt sich der Charakter des Chefs ablesen.",
+        "Die Auslese auf Grund der Charakterbeurteilung geschieht in der Praxis, und nicht auf wissenschaftliche Art. So hat in der Armee der Kommandeur und nicht der Psychologe das letzte Wort. Das Gegenteil würde ein schlechtes Zeichen sein. Nach einer Reihe von Jahren, vielleicht erst auf dem Schlachtfeld, stellt sich der prognostische Wert einer Beurteilung heraus. Es wird sichtbar, ob der Blender überschätzt, das große Talent, das erst zum Selbstbewußtsein kommen mußte, unterschätzt worden ist.",
+        "Zu solcher Überprüfung wird sich fast immer Gelegenheit bieten, denn das Vorrücken in die eigentliche Bestimmung entscheidet nicht die Beurteilung allein. Es findet bei starken Charakteren, bei »unbequemen Untergebenen«, oft gegen sie statt. Im allgemeinen erreicht der Mensch den Platz, der ihm gebührt. Diese Bemerkung darf nicht nur positiv verstanden werden: die Bestimmung des Menschen kann auch sein, daß er versagt. Damit treten wir aus den Bereichen der Charakterologie, besonders aus ihren ethischen Bezirken, bereits in eine horoskopische Betrachtung ein. Das Versagen, der Fehler, kann, ähnlich wie die Krankheit, als Bestimmung nur erkannt werden durch einen Blick, der große Pläne, der Konstellationen auszudeuten vermag.",
+        "Als der Hahn zum dritten Mal krähte, das heißt: als die Stimme des Weltgewissens erscholl, wurde Petrus zum Verräter an seinem Meister – nicht nur deshalb, weil er zu schwach zum Bekenntnis war, sondern auch deshalb, weil es eine Prophezeiung zu erfüllen galt. Hätte er die Wahrheit bekannt, so würde er den Meister Lügen gestraft haben. Die Ehre des Individuums zerbricht unter der Last einer ihm unbekannten Ordnung, die über es verfügt. Das ist ein Schicksalszug, und ihn in den Künsten darzustellen Aufgabe des Tragikers, der ihn im Spiel wiederholt. Die Tragödie ist kultisches Spiel. In ihr wirkt das Schicksal mit seinen Mächten, webt Schicksalszeit. In der meßbaren Zeit kennt man das Tragische nicht. Es gilt als vermeidbar – dann gibt es nur Unfälle.",
+        "Wo schwere Entscheidungen zu treffen und Opfer auszurichten sind, wie bei der Heerführung, wird dem Charakter gegenüber dem Intellekt der Vorrang eingeräumt. Der Kommandierende ist daher meist einfacher, »beschränkter« als sein Stabschef, der Kriegskunst als Wissenschaft betreibt. Dafür werden Festigkeit in bedrohter Lage, ausstrahlende Autorität und väterliche Größe von ihm verlangt. Blücher nannte Gneisenau »seinen Kopf«. Aber: »Die großen Gedanken entspringen im Herzen«, sagt Vauvenargues."
+      ],
+      "en_paragraphs": [
+        "Among the disciplines that appear in the intermediate chamber is characterology, a field of indeterminate extent that can be understood narrowly or broadly. The essence and expression of man: that is a world.",
+        "The consideration of characters leads us into the vicinity of astrology. Character interpretation, or better, character exploration, is one of the horoscope's principal tasks. Characterology counts in our day as a science, although it becomes fruitful only through elements that lie beyond knowledge and draw it closer to the arts. Character interpretation presupposes a kind of musicality. There must be a certain atmosphere, and a congeniality too, between the judge and the one judged. That is what limits the reach of applied psychology, which can be regarded as one of the subfields of characterology. The judgment mirrors the judge. From a chief's assessment of his subordinates one can read off the chief's own character.",
+        "Selection on the basis of character-assessment happens in practice, and not in a scientific way. Thus in the army it is the commander, not the psychologist, who has the last word. The opposite would be a bad sign. After a number of years, perhaps only on the battlefield, the prognostic value of an assessment becomes clear. It becomes visible whether the bluffer has been overrated, whether the great talent that first had to arrive at self-confidence has been underrated.",
+        "There will almost always be occasion for such verification, for advancement into one's actual vocation is not decided by assessment alone. In the case of strong characters, of `difficult subordinates`, it often takes place against the assessment. In general man reaches the place that is due to him. This remark must not be understood only positively: a man's vocation may also be that he fails. With that we step out of the region of characterology, especially out of its ethical districts, already into a horoscopic mode of consideration. Failure, error, like illness, can be recognized as vocation only through a gaze capable of interpreting large plans, the plans of constellations.",
+        "When the cock crowed for the third time, that is, when the voice of the conscience of the world rang out, Peter became a traitor to his master - not only because he was too weak for confession, but also because a prophecy had to be fulfilled. Had he acknowledged the truth, he would have proved the master a liar. The honor of the individual breaks beneath the weight of an order unknown to him, an order that disposes over him. That is a trait of fate, and to represent it in the arts is the task of the tragedian, who repeats it in play. Tragedy is cultic play. In it fate works with its powers, weaving fateful time. In measurable time the tragic is unknown. There it counts as something avoidable - then there are only accidents.",
+        "Where grave decisions must be taken and sacrifices apportioned, as in command, character is given precedence over intellect. The commander is therefore usually simpler, more `limited`, than his chief of staff, who practices the art of war as a science. In return firmness in threatened situations, radiating authority, and fatherly greatness are demanded of him. Blücher called Gneisenau `his head`. But: `Great thoughts arise in the heart`, says Vauvenargues."
+      ],
+      "paragraph_alignment": {
+        "de_count": 6,
+        "en_count": 6,
+        "aligned": true,
+        "row_count": 6
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/07-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:21",
+      "id": 21,
+      "label": "§21",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Bei der Betrachtung der Charaktere ist sowohl die wissenschaftliche Methode als auch eine von ihr verschiedene Anschauung anwendbar. Wir nähern uns der astrologischen Zeichensprache dort, wo die Charaktere eine Macht gewinnen, die sowohl die persönliche Eigenart wie auch die geschichtliche Einmaligkeit sprengt. Dort scheint etwas wiederzukehren, ein Altbekanntes wird zeitlich sichtbar und von den Völkern nicht mehr durch Gründe begriffen, sondern als sich enthüllende Gestalt.\n\nTierbilder werden sichtbar, wenn Moses und Alexander mit Hörnern geschaut werden, wenn Christus spricht: »Ich bin das Lamm«, wenn Heinrich als Löwe, Clemenceau als Tiger erscheint. Auch mythische Figuren feiern in der Erinnerung der Völker Wiederkehr. Zu ihren Kennzeichen gehört der Zweifel daran, ob sie gelebt haben.\n\nInnerhalb des historischen Rahmens gibt es Wiederholung, doch keine Wiederkehr. Achilles kehrt in Alexander, doch der erste Napoleon kehrt nicht im dritten zurück. Innerhalb der berechenbaren Zeit gibt es Analogien, aber keine Identität. Es können also Väter, nicht aber der Vater auftreten. Hierauf bezog sich der Arianische Streit, der um Wesensähnlichkeit oder Wesensgleichheit des Sohnes geführt wurde. Es ging um Zeitfragen im tiefsten Sinn.\n\nMit der Wiederkehr zieht etwas Stärkeres in den Menschen ein als die Erinnerung. Es wird identisch mit ihm, wie Mann und Frau identisch werden in der Zeugung, in der zeitlose Schöpfungsmacht in das zeitliche Leben wiederkehrt. Ohne Wiederkehr gibt es nur noch Daten, doch keine Feste mehr.",
+      "en": "In the consideration of characters, both the scientific method and an intuition different from it are applicable. We approach the sign-language of astrology where characters acquire a power that bursts both personal peculiarity and historical singularity. There something seems to return; something long familiar becomes temporally visible and is grasped by peoples no longer through reasons but as a form unveiling itself.\n\nAnimal-images become visible when Moses and Alexander are seen with horns, when Christ says, `I am the lamb`, when Henry appears as a lion and Clemenceau as a tiger. Mythic figures too celebrate a return in the memory of peoples. One of their marks is the doubt whether they ever lived.\n\nWithin the historical frame there is repetition, but no return. Achilles returns in Alexander, but the first Napoleon does not return in the third. Within calculable time there are analogies, but no identity. Fathers can therefore appear, but not the Father. That was what the Arian dispute concerned, the dispute over likeness of essence or equality of essence in the Son. At stake were questions of time in the deepest sense.\n\nWith return something stronger enters into man than memory. It becomes identical with him, as man and woman become identical in conception, where timeless creative power returns into temporal life. Without return there are only data left, but no festivals any longer.",
+      "de_paragraphs": [
+        "Bei der Betrachtung der Charaktere ist sowohl die wissenschaftliche Methode als auch eine von ihr verschiedene Anschauung anwendbar. Wir nähern uns der astrologischen Zeichensprache dort, wo die Charaktere eine Macht gewinnen, die sowohl die persönliche Eigenart wie auch die geschichtliche Einmaligkeit sprengt. Dort scheint etwas wiederzukehren, ein Altbekanntes wird zeitlich sichtbar und von den Völkern nicht mehr durch Gründe begriffen, sondern als sich enthüllende Gestalt.",
+        "Tierbilder werden sichtbar, wenn Moses und Alexander mit Hörnern geschaut werden, wenn Christus spricht: »Ich bin das Lamm«, wenn Heinrich als Löwe, Clemenceau als Tiger erscheint. Auch mythische Figuren feiern in der Erinnerung der Völker Wiederkehr. Zu ihren Kennzeichen gehört der Zweifel daran, ob sie gelebt haben.",
+        "Innerhalb des historischen Rahmens gibt es Wiederholung, doch keine Wiederkehr. Achilles kehrt in Alexander, doch der erste Napoleon kehrt nicht im dritten zurück. Innerhalb der berechenbaren Zeit gibt es Analogien, aber keine Identität. Es können also Väter, nicht aber der Vater auftreten. Hierauf bezog sich der Arianische Streit, der um Wesensähnlichkeit oder Wesensgleichheit des Sohnes geführt wurde. Es ging um Zeitfragen im tiefsten Sinn.",
+        "Mit der Wiederkehr zieht etwas Stärkeres in den Menschen ein als die Erinnerung. Es wird identisch mit ihm, wie Mann und Frau identisch werden in der Zeugung, in der zeitlose Schöpfungsmacht in das zeitliche Leben wiederkehrt. Ohne Wiederkehr gibt es nur noch Daten, doch keine Feste mehr."
+      ],
+      "en_paragraphs": [
+        "In the consideration of characters, both the scientific method and an intuition different from it are applicable. We approach the sign-language of astrology where characters acquire a power that bursts both personal peculiarity and historical singularity. There something seems to return; something long familiar becomes temporally visible and is grasped by peoples no longer through reasons but as a form unveiling itself.",
+        "Animal-images become visible when Moses and Alexander are seen with horns, when Christ says, `I am the lamb`, when Henry appears as a lion and Clemenceau as a tiger. Mythic figures too celebrate a return in the memory of peoples. One of their marks is the doubt whether they ever lived.",
+        "Within the historical frame there is repetition, but no return. Achilles returns in Alexander, but the first Napoleon does not return in the third. Within calculable time there are analogies, but no identity. Fathers can therefore appear, but not the Father. That was what the Arian dispute concerned, the dispute over likeness of essence or equality of essence in the Son. At stake were questions of time in the deepest sense.",
+        "With return something stronger enters into man than memory. It becomes identical with him, as man and woman become identical in conception, where timeless creative power returns into temporal life. Without return there are only data left, but no festivals any longer."
+      ],
+      "paragraph_alignment": {
+        "de_count": 4,
+        "en_count": 4,
+        "aligned": true,
+        "row_count": 4
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/07-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:22",
+      "id": 22,
+      "label": "§22",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Man sagt, daß der Charakter das Schicksal formt. Das lehrt uns die eigene Erfahrung – etwa indem wir im Rückblick erkennen, wie immer wieder dieselben Fehler uns schädigten. Es ist schwer, ja fast unmöglich, sie zu vermeiden, weil die Anlässe, die sie provozieren, sich uns in wunderlichen, stets wechselnden Verkleidungen darbieten. Daß der Fehler begangen wird, obwohl wir gerade vor ihm gewarnt wurden, ist eines der großen Themen von »Tausendundeiner Nacht«.\n\nDie starken Charaktere sind durch Fehler nicht minder gefährdet als die schwachen und richten oft größeres Unheil an. Wir müssen uns hüten, den Charakter mit dem Willen zu identifizieren, wie das in unserer Welt fast selbstverständlich geworden ist. Man meint hier ausgesprochen Willen, wo man vom »starken Charakter« spricht. »Ducunt volentem fata, nolentem trahunt« – wie viele Sprichwörter, läßt sich auch dieses umkehren. Ein Charakter kann sich auch durch Nicht-Wollen bewähren, etwa durch »Passen« im Sinne des Kartenspiels. Ein großer Gewinn kann gerade in Möglichkeiten schlummern, die man vorübergehen läßt. Sie werden zum Kapital der Aktion. Das gilt vor allem, wo Gut und Böse in die Entschlüsse einspielen, wo also die Entscheidung moralische Qualitäten gewinnt.\n\nWir mögen aber den Charakter so oder so auffassen, mögen selbst einen vollkommenen Charakter annehmen, so stellt er doch nur eine der Komponenten der Schicksalsbahn. Die gleiche Erfahrung, die uns immer wieder durch das Beispiel des Mannes erquickt, »der seinen Weg macht«, befremdet, erschreckt uns ebensooft durch den Anblick des Gegenteils. Wie viele tüchtige, gerechte, kluge und gute Menschen scheitern auf eine Weise, die unerklärlich, ja sinnlos scheint. Wie viele erliegen den Krankheiten, den Unfällen, der Bösartigkeit der Welt und der Mitmenschen. Und auf der anderen Seite: wie oft neigt sich das Füllhorn über jenen, der es nicht zu verdienen scheint. Da sind die großen Gewinne, die glücklichen Heiraten, die Erbschaften, die wunderbaren Errettungen aus Schiffbrüchen und anderen Unfällen. Das ist der unberechenbare Einschuß in den Lebensstoff.\n\nWenn wir diese andere Seite die Glücksseite nennen wollen, so werden wir finden, daß die Menschen auch diese ihrem Wesen, ihrer Qualität zurechnen, ja oft auf sie sich mehr als auf ihr Wissen und Können zugute tun. Napoleon berief sich auf seinen Stern und sah in ihm vor allem die hinter seinem Aufstieg wirkende Macht. Solange dieser Glücksstern strahle, könne nichts ihn aus seiner Bahn werfen, und, wenn er unterginge, genüge ein Stäubchen dazu. Sulla, ein scharfsinniger Kopf, ließ sich »felix« nennen; er sah im Glück eine göttliche Macht, die ihn begünstigte.\n\nDas Glück scheint in der Tat an manchem Menschen so eng zu haften, daß es als Eigenschaft empfunden wird. Und wenn wir mit einem Glückspilz sprechen, werden wir bald merken, daß er sich wirklich in mehr oder minder bescheidener Weise sein Glück als Verdienst zuschreibt. Daran ist etwas Richtiges, obwohl es intelligente Geister zu verstimmen pflegt. Aber der Anblick des Glücklichen hat etwas Erfreuliches. Er läßt auf den Überfluß der Welt schließen. Der arme Sindbad preist angesichts des reichen Sindbad und seiner Schätze Allah, der solche Gaben verleiht.",
+      "en": "It is said that character shapes fate. Our own experience teaches us this - for instance when in retrospect we recognize how the same errors have harmed us again and again. It is difficult, indeed almost impossible, to avoid them, because the occasions that provoke them present themselves to us in strange and ever-changing disguises. That the error is committed even though we were just warned against it is one of the great themes of `The Thousand and One Nights`.\n\nStrong characters are no less endangered by error than weak ones and often do greater harm. We must guard against identifying character with will, as in our world has become almost self-evident. What is explicitly meant here by `strong character` is will. `Ducunt volentem fata, nolentem trahunt` - like so many proverbs, this one too can be reversed. Character can also prove itself through not-willing, for instance through `passing` in the sense of card-playing. A great gain may lie sleeping precisely in possibilities one lets pass by. They become the capital of action. This holds above all where good and evil play into decisions, where decision thus acquires moral qualities.\n\nBut however we may conceive character, even if we assume a perfect character, it still represents only one of the components of the path of fate. The same experience that again and again refreshes us through the example of the man `who makes his way` alienates and frightens us just as often through the sight of the opposite. How many capable, just, intelligent, and good people fail in a way that seems inexplicable, indeed senseless. How many succumb to illness, to accidents, to the malice of the world and of their fellow men. And on the other side: how often the cornucopia bends down over the one who does not seem to deserve it. There are the great winnings, the fortunate marriages, the inheritances, the wonderful rescues from shipwrecks and other accidents. That is the incalculable weft-thread shot into the stuff of life.\n\nIf we wish to call this other side the side of fortune, we shall find that people reckon this too to their essence, to their quality, and often pride themselves on it even more than on their knowledge and ability. Napoleon appealed to his star and saw in it above all the power working behind his rise. So long as this lucky star shone, nothing could throw him from his course, and if it were to sink, a speck of dust would suffice. Sulla, a keen mind, liked to call himself `felix`; he saw in fortune a divine power that favored him.\n\nFortune does indeed seem to cling to some people so closely that it is felt as a property. And when we speak with one of fortune's favorites, we soon notice that he really does, in a more or less modest way, ascribe his luck to merit. There is something right in this, although it tends to irritate intelligent minds. But the sight of the fortunate man has something gladdening about it. It lets us infer the abundance of the world. Poor Sindbad, in the presence of rich Sindbad and his treasures, praises Allah, who bestows such gifts.",
+      "de_paragraphs": [
+        "Man sagt, daß der Charakter das Schicksal formt. Das lehrt uns die eigene Erfahrung – etwa indem wir im Rückblick erkennen, wie immer wieder dieselben Fehler uns schädigten. Es ist schwer, ja fast unmöglich, sie zu vermeiden, weil die Anlässe, die sie provozieren, sich uns in wunderlichen, stets wechselnden Verkleidungen darbieten. Daß der Fehler begangen wird, obwohl wir gerade vor ihm gewarnt wurden, ist eines der großen Themen von »Tausendundeiner Nacht«.",
+        "Die starken Charaktere sind durch Fehler nicht minder gefährdet als die schwachen und richten oft größeres Unheil an. Wir müssen uns hüten, den Charakter mit dem Willen zu identifizieren, wie das in unserer Welt fast selbstverständlich geworden ist. Man meint hier ausgesprochen Willen, wo man vom »starken Charakter« spricht. »Ducunt volentem fata, nolentem trahunt« – wie viele Sprichwörter, läßt sich auch dieses umkehren. Ein Charakter kann sich auch durch Nicht-Wollen bewähren, etwa durch »Passen« im Sinne des Kartenspiels. Ein großer Gewinn kann gerade in Möglichkeiten schlummern, die man vorübergehen läßt. Sie werden zum Kapital der Aktion. Das gilt vor allem, wo Gut und Böse in die Entschlüsse einspielen, wo also die Entscheidung moralische Qualitäten gewinnt.",
+        "Wir mögen aber den Charakter so oder so auffassen, mögen selbst einen vollkommenen Charakter annehmen, so stellt er doch nur eine der Komponenten der Schicksalsbahn. Die gleiche Erfahrung, die uns immer wieder durch das Beispiel des Mannes erquickt, »der seinen Weg macht«, befremdet, erschreckt uns ebensooft durch den Anblick des Gegenteils. Wie viele tüchtige, gerechte, kluge und gute Menschen scheitern auf eine Weise, die unerklärlich, ja sinnlos scheint. Wie viele erliegen den Krankheiten, den Unfällen, der Bösartigkeit der Welt und der Mitmenschen. Und auf der anderen Seite: wie oft neigt sich das Füllhorn über jenen, der es nicht zu verdienen scheint. Da sind die großen Gewinne, die glücklichen Heiraten, die Erbschaften, die wunderbaren Errettungen aus Schiffbrüchen und anderen Unfällen. Das ist der unberechenbare Einschuß in den Lebensstoff.",
+        "Wenn wir diese andere Seite die Glücksseite nennen wollen, so werden wir finden, daß die Menschen auch diese ihrem Wesen, ihrer Qualität zurechnen, ja oft auf sie sich mehr als auf ihr Wissen und Können zugute tun. Napoleon berief sich auf seinen Stern und sah in ihm vor allem die hinter seinem Aufstieg wirkende Macht. Solange dieser Glücksstern strahle, könne nichts ihn aus seiner Bahn werfen, und, wenn er unterginge, genüge ein Stäubchen dazu. Sulla, ein scharfsinniger Kopf, ließ sich »felix« nennen; er sah im Glück eine göttliche Macht, die ihn begünstigte.",
+        "Das Glück scheint in der Tat an manchem Menschen so eng zu haften, daß es als Eigenschaft empfunden wird. Und wenn wir mit einem Glückspilz sprechen, werden wir bald merken, daß er sich wirklich in mehr oder minder bescheidener Weise sein Glück als Verdienst zuschreibt. Daran ist etwas Richtiges, obwohl es intelligente Geister zu verstimmen pflegt. Aber der Anblick des Glücklichen hat etwas Erfreuliches. Er läßt auf den Überfluß der Welt schließen. Der arme Sindbad preist angesichts des reichen Sindbad und seiner Schätze Allah, der solche Gaben verleiht."
+      ],
+      "en_paragraphs": [
+        "It is said that character shapes fate. Our own experience teaches us this - for instance when in retrospect we recognize how the same errors have harmed us again and again. It is difficult, indeed almost impossible, to avoid them, because the occasions that provoke them present themselves to us in strange and ever-changing disguises. That the error is committed even though we were just warned against it is one of the great themes of `The Thousand and One Nights`.",
+        "Strong characters are no less endangered by error than weak ones and often do greater harm. We must guard against identifying character with will, as in our world has become almost self-evident. What is explicitly meant here by `strong character` is will. `Ducunt volentem fata, nolentem trahunt` - like so many proverbs, this one too can be reversed. Character can also prove itself through not-willing, for instance through `passing` in the sense of card-playing. A great gain may lie sleeping precisely in possibilities one lets pass by. They become the capital of action. This holds above all where good and evil play into decisions, where decision thus acquires moral qualities.",
+        "But however we may conceive character, even if we assume a perfect character, it still represents only one of the components of the path of fate. The same experience that again and again refreshes us through the example of the man `who makes his way` alienates and frightens us just as often through the sight of the opposite. How many capable, just, intelligent, and good people fail in a way that seems inexplicable, indeed senseless. How many succumb to illness, to accidents, to the malice of the world and of their fellow men. And on the other side: how often the cornucopia bends down over the one who does not seem to deserve it. There are the great winnings, the fortunate marriages, the inheritances, the wonderful rescues from shipwrecks and other accidents. That is the incalculable weft-thread shot into the stuff of life.",
+        "If we wish to call this other side the side of fortune, we shall find that people reckon this too to their essence, to their quality, and often pride themselves on it even more than on their knowledge and ability. Napoleon appealed to his star and saw in it above all the power working behind his rise. So long as this lucky star shone, nothing could throw him from his course, and if it were to sink, a speck of dust would suffice. Sulla, a keen mind, liked to call himself `felix`; he saw in fortune a divine power that favored him.",
+        "Fortune does indeed seem to cling to some people so closely that it is felt as a property. And when we speak with one of fortune's favorites, we soon notice that he really does, in a more or less modest way, ascribe his luck to merit. There is something right in this, although it tends to irritate intelligent minds. But the sight of the fortunate man has something gladdening about it. It lets us infer the abundance of the world. Poor Sindbad, in the presence of rich Sindbad and his treasures, praises Allah, who bestows such gifts."
+      ],
+      "paragraph_alignment": {
+        "de_count": 5,
+        "en_count": 5,
+        "aligned": true,
+        "row_count": 5
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/07-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:23",
+      "id": 23,
+      "label": "§23",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Das Abendland hat viele Wissenschaften und versteht auch das Kleinste zur Wissenschaft zu machen, aber es fehlt ihm die Wissenschaft vom Glück.\n\nEher läßt sich behaupten, daß überall, wo es mit seinen Methoden und Apparaten eindringt, zwar Energien zuströmen, das Glück aber Abschied nimmt. Die Menschen werden mächtiger und reicher, aber nicht glücklicher. Im Maße, in dem die Mittel wachsen, entschwindet die Zufriedenheit. Wahrscheinlich sind dieser Schwund und dieses Wachstum aufeinander angelegt: es muß Glück konsumiert werden.\n\nDer Mensch, der keine Zeit hat – und das ist eines unserer Kennzeichen – kann schwerlich Glück haben. Notwendig verschließen sich ihm große Quellen und Mächte wie die der Muße, des Glaubens, der Schönheit in Kunst und Natur. Damit entgeht ihm die Krönung, der Segen der Arbeit, der in Nicht-Arbeit, und die Ergänzung, der Sinn des Wissens, der im Nicht-Wissen liegt. Das wird im Absinken dessen, was wir Kultur nennen, unmittelbar anschaulich.\n\nMan könnte befürchten, daß der Schwund sich einem Punkte nähert, an dem er nicht mehr als solcher empfunden wird – einem Punkt, an dem Komfort das Glück ersetzt, der Kunsttrieb durch Maschinen befriedigt und Schönheit meßbar wird. Es bleiben aber immer, wenn nicht andere Räume, so doch andere Zeiten zum Vergleich, etwa Zeiten, von denen Mozarts Musik kündet. Daß ein Mangel empfunden wird, verrät auch das außerordentliche Erstaunen, das die Massen ergreift, wenn ein Weiser in ihren Gesichtskreis gerät.\n\nAber es sind nicht nur andere Zeiten und Räume, nicht nur Ausnahmen, die dem Menschen den Schwund anzeigen. Er fühlt ihn in seiner Brust. Er fühlt ihn als Mangel und sucht Auswege aus der strengen Ordnung, die die methodische Eroberung der Welt vorzeichnet. Er fühlt sich von ihr umgeben wie von den kahlen Wänden einer Zelle, die er mit der Hand abtastet, um eine Fuge zu spüren oder den Umriß eines Fensters, das vermauert worden ist.\n\nMan kann, hinsichtlich seiner Vernunftansprüche, den Menschen minimal halten, ihn auf das billigste abspeisen. Wenn man ihn in einen dunklen Turm sperrt und er sich dort an der Wand entlangtastet, wird er sich überzeugen lassen, daß er sich am Unendlichen bewegt. Aber er wird sich nicht einreden lassen, daß er glücklich sei. Immer, und bis zum letzten Atemzug unzerstörbar, wird in ihm die Ahnung von einem Anderen, unendlich Großen leben, von einer Lichtflut, die ihn erlöst, befriedet, auch wenn er die Sonne nie gesehen, nie ihren Namen vernommen hat.",
+      "en": "The West has many sciences and even knows how to make the smallest thing into a science, but it lacks a science of happiness.\n\nOne might sooner claim that everywhere it enters with its methods and apparatus, energies do indeed stream in, but happiness takes its leave. Men become more powerful and richer, but not happier. In proportion as the means increase, contentment slips away. Probably this dwindling and that growth are arranged toward one another: happiness has to be consumed.\n\nThe man who has no time - and that is one of our marks - can scarcely be happy. Great sources and powers such as leisure, faith, and beauty in art and nature necessarily close themselves to him. With that he misses the crowning thing, the blessing of work, which lies in non-work, and the complement, the meaning of knowledge, which lies in not-knowing. This becomes immediately visible in the sinking of what we call culture.\n\nOne might fear that the dwindling is approaching a point at which it is no longer felt as such - a point at which comfort replaces happiness, the artistic impulse is satisfied by machines, and beauty becomes measurable. Yet there always remain, if not other spaces, then at least other times for comparison, times to which Mozart's music bears witness. That a lack is felt is also betrayed by the extraordinary astonishment that seizes the masses when a wise man enters their horizon.\n\nBut it is not only other times and spaces, not only exceptions, that show man the dwindling. He feels it in his breast. He feels it as lack and seeks ways out of the strict order prescribed by the methodical conquest of the world. He feels himself surrounded by it as by the bare walls of a cell, which he traces with his hand in order to detect a seam or the outline of a window that has been bricked up.\n\nAs regards his rational claims, one can keep man to a minimum, fob him off with the cheapest fare. If one locks him in a dark tower and he gropes there along the wall, he can be persuaded that he is moving along the infinite. But he will not let himself be persuaded that he is happy. Always, and indestructibly to his last breath, there will live in him the inkling of an Other, infinitely great, of a flood of light that redeems and pacifies him, even if he has never seen the sun, never heard its name.",
+      "de_paragraphs": [
+        "Das Abendland hat viele Wissenschaften und versteht auch das Kleinste zur Wissenschaft zu machen, aber es fehlt ihm die Wissenschaft vom Glück.",
+        "Eher läßt sich behaupten, daß überall, wo es mit seinen Methoden und Apparaten eindringt, zwar Energien zuströmen, das Glück aber Abschied nimmt. Die Menschen werden mächtiger und reicher, aber nicht glücklicher. Im Maße, in dem die Mittel wachsen, entschwindet die Zufriedenheit. Wahrscheinlich sind dieser Schwund und dieses Wachstum aufeinander angelegt: es muß Glück konsumiert werden.",
+        "Der Mensch, der keine Zeit hat – und das ist eines unserer Kennzeichen – kann schwerlich Glück haben. Notwendig verschließen sich ihm große Quellen und Mächte wie die der Muße, des Glaubens, der Schönheit in Kunst und Natur. Damit entgeht ihm die Krönung, der Segen der Arbeit, der in Nicht-Arbeit, und die Ergänzung, der Sinn des Wissens, der im Nicht-Wissen liegt. Das wird im Absinken dessen, was wir Kultur nennen, unmittelbar anschaulich.",
+        "Man könnte befürchten, daß der Schwund sich einem Punkte nähert, an dem er nicht mehr als solcher empfunden wird – einem Punkt, an dem Komfort das Glück ersetzt, der Kunsttrieb durch Maschinen befriedigt und Schönheit meßbar wird. Es bleiben aber immer, wenn nicht andere Räume, so doch andere Zeiten zum Vergleich, etwa Zeiten, von denen Mozarts Musik kündet. Daß ein Mangel empfunden wird, verrät auch das außerordentliche Erstaunen, das die Massen ergreift, wenn ein Weiser in ihren Gesichtskreis gerät.",
+        "Aber es sind nicht nur andere Zeiten und Räume, nicht nur Ausnahmen, die dem Menschen den Schwund anzeigen. Er fühlt ihn in seiner Brust. Er fühlt ihn als Mangel und sucht Auswege aus der strengen Ordnung, die die methodische Eroberung der Welt vorzeichnet. Er fühlt sich von ihr umgeben wie von den kahlen Wänden einer Zelle, die er mit der Hand abtastet, um eine Fuge zu spüren oder den Umriß eines Fensters, das vermauert worden ist.",
+        "Man kann, hinsichtlich seiner Vernunftansprüche, den Menschen minimal halten, ihn auf das billigste abspeisen. Wenn man ihn in einen dunklen Turm sperrt und er sich dort an der Wand entlangtastet, wird er sich überzeugen lassen, daß er sich am Unendlichen bewegt. Aber er wird sich nicht einreden lassen, daß er glücklich sei. Immer, und bis zum letzten Atemzug unzerstörbar, wird in ihm die Ahnung von einem Anderen, unendlich Großen leben, von einer Lichtflut, die ihn erlöst, befriedet, auch wenn er die Sonne nie gesehen, nie ihren Namen vernommen hat."
+      ],
+      "en_paragraphs": [
+        "The West has many sciences and even knows how to make the smallest thing into a science, but it lacks a science of happiness.",
+        "One might sooner claim that everywhere it enters with its methods and apparatus, energies do indeed stream in, but happiness takes its leave. Men become more powerful and richer, but not happier. In proportion as the means increase, contentment slips away. Probably this dwindling and that growth are arranged toward one another: happiness has to be consumed.",
+        "The man who has no time - and that is one of our marks - can scarcely be happy. Great sources and powers such as leisure, faith, and beauty in art and nature necessarily close themselves to him. With that he misses the crowning thing, the blessing of work, which lies in non-work, and the complement, the meaning of knowledge, which lies in not-knowing. This becomes immediately visible in the sinking of what we call culture.",
+        "One might fear that the dwindling is approaching a point at which it is no longer felt as such - a point at which comfort replaces happiness, the artistic impulse is satisfied by machines, and beauty becomes measurable. Yet there always remain, if not other spaces, then at least other times for comparison, times to which Mozart's music bears witness. That a lack is felt is also betrayed by the extraordinary astonishment that seizes the masses when a wise man enters their horizon.",
+        "But it is not only other times and spaces, not only exceptions, that show man the dwindling. He feels it in his breast. He feels it as lack and seeks ways out of the strict order prescribed by the methodical conquest of the world. He feels himself surrounded by it as by the bare walls of a cell, which he traces with his hand in order to detect a seam or the outline of a window that has been bricked up.",
+        "As regards his rational claims, one can keep man to a minimum, fob him off with the cheapest fare. If one locks him in a dark tower and he gropes there along the wall, he can be persuaded that he is moving along the infinite. But he will not let himself be persuaded that he is happy. Always, and indestructibly to his last breath, there will live in him the inkling of an Other, infinitely great, of a flood of light that redeems and pacifies him, even if he has never seen the sun, never heard its name."
+      ],
+      "paragraph_alignment": {
+        "de_count": 6,
+        "en_count": 6,
+        "aligned": true,
+        "row_count": 6
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/08-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:24",
+      "id": 24,
+      "label": "§24",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Als Goethe sich entschlossen hatte, Marianne von Willemer noch einmal zu sehen, brach kurz hinter Weimar ein Rad seines Wagens entzwei. Er ließ darauf umkehren und verzichtete für immer auf die Fahrt. Damit folgte er einer Art des Orakels, das die Römer als »ex diris« bezeichneten, einem abweisenden Vorzeichen. Wir brauchen daraus nicht zu schließen, daß er abergläubisch war, sondern dürfen eher vermuten, daß ein großes Für und Wider ihn bewegt hatte und daß dieser Unfall den Ausschlag gab.\n\nEine ähnliche Weisung erteilte wohl das augurium vor der Schlacht. Wir haben Beispiele dafür, daß der Feldherr, wenn die Lage günstig war, auch gegen das augurium handelte. Dann hielt er seine strategische Einsicht für stärker als die Schau. Umgekehrt kann heute der Kommandierende sich über den Einspruch seines Stabschefs hinwegsetzen. Dann traut er seinem Sterne mehr als der Wissenschaft. Es handelt sich um zwei Auffassungen von Zeit. Das Ideal bleibt, daß beide übereinstimmen.",
+      "en": "Once Goethe had resolved to see Marianne von Willemer one last time, a wheel of his carriage broke in two shortly outside Weimar. He then had it turn back and gave up the journey forever. In that he followed a kind of oracle that the Romans designated `ex diris`, a forbidding omen. We need not conclude from this that he was superstitious; we may rather suppose that weighty pros and cons had been moving him and that this accident tipped the balance.\n\nA similar guidance was probably given by the `augurium` before battle. We have examples of the commander acting against the `augurium` when the situation was favorable. Then he held his strategic insight to be stronger than the vision. Conversely, today the commander can override the objection of his chief of staff. Then he trusts his star more than science. What is at stake are two conceptions of time. The ideal remains that the two agree.",
+      "de_paragraphs": [
+        "Als Goethe sich entschlossen hatte, Marianne von Willemer noch einmal zu sehen, brach kurz hinter Weimar ein Rad seines Wagens entzwei. Er ließ darauf umkehren und verzichtete für immer auf die Fahrt. Damit folgte er einer Art des Orakels, das die Römer als »ex diris« bezeichneten, einem abweisenden Vorzeichen. Wir brauchen daraus nicht zu schließen, daß er abergläubisch war, sondern dürfen eher vermuten, daß ein großes Für und Wider ihn bewegt hatte und daß dieser Unfall den Ausschlag gab.",
+        "Eine ähnliche Weisung erteilte wohl das augurium vor der Schlacht. Wir haben Beispiele dafür, daß der Feldherr, wenn die Lage günstig war, auch gegen das augurium handelte. Dann hielt er seine strategische Einsicht für stärker als die Schau. Umgekehrt kann heute der Kommandierende sich über den Einspruch seines Stabschefs hinwegsetzen. Dann traut er seinem Sterne mehr als der Wissenschaft. Es handelt sich um zwei Auffassungen von Zeit. Das Ideal bleibt, daß beide übereinstimmen."
+      ],
+      "en_paragraphs": [
+        "Once Goethe had resolved to see Marianne von Willemer one last time, a wheel of his carriage broke in two shortly outside Weimar. He then had it turn back and gave up the journey forever. In that he followed a kind of oracle that the Romans designated `ex diris`, a forbidding omen. We need not conclude from this that he was superstitious; we may rather suppose that weighty pros and cons had been moving him and that this accident tipped the balance.",
+        "A similar guidance was probably given by the `augurium` before battle. We have examples of the commander acting against the `augurium` when the situation was favorable. Then he held his strategic insight to be stronger than the vision. Conversely, today the commander can override the objection of his chief of staff. Then he trusts his star more than science. What is at stake are two conceptions of time. The ideal remains that the two agree."
+      ],
+      "paragraph_alignment": {
+        "de_count": 2,
+        "en_count": 2,
+        "aligned": true,
+        "row_count": 2
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/08-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:25",
+      "id": 25,
+      "label": "§25",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Schillers »Wallenstein« ist eine Fundgrube astrologischer Anschauung. »In deiner Brust sind deines Schicksals Sterne«, heißt es in »Die Piccolomini«. Dort findet sich auch das Wort: »Die Uhr schlägt keinem Glücklichen.« So ist es bedeutender als in der Fassung, in der es gewöhnlich zitiert wird: »Dem Glücklichen schlägt keine Stunde.« Von dort stammt auch »des Dienstes immer gleichgestellte Uhr«.\n\nDiese Uhr bestimmt heute nicht nur den Dienst. Die meßbare und knapp zugemessene Zeit nimmt fast den ganzen Tag in Anspruch, und nur der Schlaf mit seinen Träumen entzieht sich ihrer Macht. Die Uhren sind zahlreich, sie begleiten den Menschen auch auf den Vergnügungsfahrten und unterrichten ihn, während er am Steuer sitzt, nicht nur über die Zeit, sondern auch über die Geschwindigkeit und den Konsum.\n\nDazu kommt die Versicherungsordnung, durch die das Glück notwendig ausgeschlossen wird. Das Mißliche liegt in der Tatsache, nicht in der Menge der Zumessung. Es gibt Länder, in denen jeder, dem man begegnet, mehrfach versichert ist und in denen man dennoch das Gefühl hat, daß nicht nur die Unzufriedenheit, das Mißbehagen, sondern sogar die Unsicherheit ununterbrochen zunehmen: »Pas de chance« könnte über den Eingangsportalen stehen. »Jeder ist seines Glückes Schmied« – ein gutes Sprichwort, aber es gibt auch ein Unglück, gibt Ketten, an denen jeder mitschmiedet.\n\nDaß die ökonomische Revolution das Glück nicht herbeiführen konnte, war vorauszusehen und hat sich in gewaltigen Experimenten gezeigt. Der Einwand ist deshalb statthaft, weil messianische Versprechungen ihr vorausgegangen sind. Sonst ließe sich erwidern, daß es sich nicht um Glücks-, sondern um Machtfragen handelte und daß in dieser Hinsicht der Erfolg jede Erwartung übersteigt. Weltreiche wurden aufgerichtet, und zwar gerade durch Glückskonsum. Freilich ist es kein Trost für den Gefangenen, daß am Gefängnis fortwährend neue Flügel anwachsen. Endlich kommt er auf den Gedanken, im Inneren der Titanenbauten und ihrer Zellen müsse etwas geschehn.\n\nDieser Gedanke bedroht den Plan. Er gefährdet die Buchhaltung der Planwirte. Das erklärt ihr Bestreben, die Revolution auf dem rationalen, vor allem auf dem technisch-ökonomischen Sektor zu halten und zu verhindern, daß sie auf andere Felder übergreift. Dieselben Typen, die wir unbedenklich in der Enteignung, der Tötung, der Verfügung über das Volksvermögen verfahren sehen, entwickeln zugleich eine seltsame Prüderie gegenüber Veränderungen innerhalb der musischen Welt. Damit decken sie ihre schwächste Stelle ab. Es gibt eine unmittelbare Sprache der Freiheit, die gefährlicher ist als jeder Gegenbeweis und jedes technische Machtmittel. Sie braucht kein System; sie kann durch ein Lied, eine Melodie, einen Tanz sprechen.",
+      "en": "Schiller's `Wallenstein` is a treasure-house of astrological vision. `In your breast are the stars of your fate,` it says in `The Piccolomini`. There too one finds the line: `The clock strikes for no happy man.` In this form it is more significant than in the version in which it is usually quoted: `No hour strikes for the happy man.` From there too comes `the ever-evenly-set clock of duty.`\n\nToday this clock governs more than duty alone. Measurable and tightly allotted time claims almost the whole day, and only sleep with its dreams withdraws from its power. Clocks are numerous; they accompany man even on pleasure drives and inform him, while he sits at the wheel, not only about the time but also about speed and consumption.\n\nIn addition there is the insurance order, through which fortune is necessarily excluded. The trouble lies in the fact of apportionment, not in the amount apportioned. There are countries in which everyone one meets is insured several times over and where one nevertheless has the feeling that not only dissatisfaction and malaise but even insecurity are increasing without cease: `Pas de chance` could stand over the entrance portals. `Every man is the smith of his own fortune` is a good proverb, but there is misfortune too; there are chains at which everyone helps forge.\n\nThat the economic revolution could not bring about happiness was foreseeable and has shown itself in vast experiments. The objection is warranted because messianic promises preceded it. Otherwise one could reply that the issue was not happiness but power, and that in this respect success exceeds every expectation. World-empires were erected, and precisely through the consumption of happiness. Of course it is no comfort to the prisoner that new wings are continually being added to the prison. At last he begins to think that something must happen inside the titan-buildings and their cells.\n\nThis thought threatens the plan. It endangers the bookkeeping of the plan-managers. That explains their effort to keep the revolution on the rational, above all the techno-economic, sector and to prevent it from spilling over into other fields. The same types whom we see proceeding without scruple in expropriation, killing, and disposal over the wealth of the people at the same time develop a strange prudery toward changes within the world of the muses. By that they cover their weakest point. There is an immediate language of freedom more dangerous than any counterproof and any technical means of power. It needs no system; it can speak through a song, a melody, a dance.",
+      "de_paragraphs": [
+        "Schillers »Wallenstein« ist eine Fundgrube astrologischer Anschauung. »In deiner Brust sind deines Schicksals Sterne«, heißt es in »Die Piccolomini«. Dort findet sich auch das Wort: »Die Uhr schlägt keinem Glücklichen.« So ist es bedeutender als in der Fassung, in der es gewöhnlich zitiert wird: »Dem Glücklichen schlägt keine Stunde.« Von dort stammt auch »des Dienstes immer gleichgestellte Uhr«.",
+        "Diese Uhr bestimmt heute nicht nur den Dienst. Die meßbare und knapp zugemessene Zeit nimmt fast den ganzen Tag in Anspruch, und nur der Schlaf mit seinen Träumen entzieht sich ihrer Macht. Die Uhren sind zahlreich, sie begleiten den Menschen auch auf den Vergnügungsfahrten und unterrichten ihn, während er am Steuer sitzt, nicht nur über die Zeit, sondern auch über die Geschwindigkeit und den Konsum.",
+        "Dazu kommt die Versicherungsordnung, durch die das Glück notwendig ausgeschlossen wird. Das Mißliche liegt in der Tatsache, nicht in der Menge der Zumessung. Es gibt Länder, in denen jeder, dem man begegnet, mehrfach versichert ist und in denen man dennoch das Gefühl hat, daß nicht nur die Unzufriedenheit, das Mißbehagen, sondern sogar die Unsicherheit ununterbrochen zunehmen: »Pas de chance« könnte über den Eingangsportalen stehen. »Jeder ist seines Glückes Schmied« – ein gutes Sprichwort, aber es gibt auch ein Unglück, gibt Ketten, an denen jeder mitschmiedet.",
+        "Daß die ökonomische Revolution das Glück nicht herbeiführen konnte, war vorauszusehen und hat sich in gewaltigen Experimenten gezeigt. Der Einwand ist deshalb statthaft, weil messianische Versprechungen ihr vorausgegangen sind. Sonst ließe sich erwidern, daß es sich nicht um Glücks-, sondern um Machtfragen handelte und daß in dieser Hinsicht der Erfolg jede Erwartung übersteigt. Weltreiche wurden aufgerichtet, und zwar gerade durch Glückskonsum. Freilich ist es kein Trost für den Gefangenen, daß am Gefängnis fortwährend neue Flügel anwachsen. Endlich kommt er auf den Gedanken, im Inneren der Titanenbauten und ihrer Zellen müsse etwas geschehn.",
+        "Dieser Gedanke bedroht den Plan. Er gefährdet die Buchhaltung der Planwirte. Das erklärt ihr Bestreben, die Revolution auf dem rationalen, vor allem auf dem technisch-ökonomischen Sektor zu halten und zu verhindern, daß sie auf andere Felder übergreift. Dieselben Typen, die wir unbedenklich in der Enteignung, der Tötung, der Verfügung über das Volksvermögen verfahren sehen, entwickeln zugleich eine seltsame Prüderie gegenüber Veränderungen innerhalb der musischen Welt. Damit decken sie ihre schwächste Stelle ab. Es gibt eine unmittelbare Sprache der Freiheit, die gefährlicher ist als jeder Gegenbeweis und jedes technische Machtmittel. Sie braucht kein System; sie kann durch ein Lied, eine Melodie, einen Tanz sprechen."
+      ],
+      "en_paragraphs": [
+        "Schiller's `Wallenstein` is a treasure-house of astrological vision. `In your breast are the stars of your fate,` it says in `The Piccolomini`. There too one finds the line: `The clock strikes for no happy man.` In this form it is more significant than in the version in which it is usually quoted: `No hour strikes for the happy man.` From there too comes `the ever-evenly-set clock of duty.`",
+        "Today this clock governs more than duty alone. Measurable and tightly allotted time claims almost the whole day, and only sleep with its dreams withdraws from its power. Clocks are numerous; they accompany man even on pleasure drives and inform him, while he sits at the wheel, not only about the time but also about speed and consumption.",
+        "In addition there is the insurance order, through which fortune is necessarily excluded. The trouble lies in the fact of apportionment, not in the amount apportioned. There are countries in which everyone one meets is insured several times over and where one nevertheless has the feeling that not only dissatisfaction and malaise but even insecurity are increasing without cease: `Pas de chance` could stand over the entrance portals. `Every man is the smith of his own fortune` is a good proverb, but there is misfortune too; there are chains at which everyone helps forge.",
+        "That the economic revolution could not bring about happiness was foreseeable and has shown itself in vast experiments. The objection is warranted because messianic promises preceded it. Otherwise one could reply that the issue was not happiness but power, and that in this respect success exceeds every expectation. World-empires were erected, and precisely through the consumption of happiness. Of course it is no comfort to the prisoner that new wings are continually being added to the prison. At last he begins to think that something must happen inside the titan-buildings and their cells.",
+        "This thought threatens the plan. It endangers the bookkeeping of the plan-managers. That explains their effort to keep the revolution on the rational, above all the techno-economic, sector and to prevent it from spilling over into other fields. The same types whom we see proceeding without scruple in expropriation, killing, and disposal over the wealth of the people at the same time develop a strange prudery toward changes within the world of the muses. By that they cover their weakest point. There is an immediate language of freedom more dangerous than any counterproof and any technical means of power. It needs no system; it can speak through a song, a melody, a dance."
+      ],
+      "paragraph_alignment": {
+        "de_count": 5,
+        "en_count": 5,
+        "aligned": true,
+        "row_count": 5
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/08-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:26",
+      "id": 26,
+      "label": "§26",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Das Wiederaufleben der Astrologie, das uns jetzt, beim Eintritt in ein neues, ungewisses Jahr, wieder durch eine Flut von Horoskopen überrascht, ist weniger ein Zeichen der Unsicherheit als einer Unzufriedenheit, die mehr empfunden denn begriffen wird. Daher wird es auch gern als Krankheit aufgefaßt. Ist aber ein Fieber eine Krankheit oder ein Krankheitsmerkmal, ein Merkmal dafür, daß der Körper ein verloren gegangenes Gleichgewicht wieder herstellen will?\n\nDas Eindringen der Astrologie, das zur Hauptströmung der Zeit in so erstaunlichem Widerspruch steht, ist ein revolutionäres Vorzeichen. Die Astrologie hat nicht nur eine unwissenschaftliche Struktur, sondern auch eine gegen das Nivellement gerichtete Tendenz, insofern sie auf der schicksalsmäßigen Eigenart, auf der angeborenen Ungleichheit der Menschen besteht. Damit mißachtet sie die beiden Kardinalpunkte der heutigen Welt. Es ist vorauszusehen, daß sich das Ärgernis, das sie erregt, in Zukunft verstärken wird.\n\nDaß es sich um eine revolutionäre Tatsache handelt, läßt sich schon daraus schließen, daß sie »von unten« kommt. Sie unterscheidet sich dadurch von ähnlichen Bewegungen, die entweder in kleinen Zirkeln gehütet werden und Sekten bilden oder, falls sie, wie die Physiognomik, volkstümlich werden, auf bedeutende Geister zurückgehen. Die Astrologie »spricht sich herum«, und zwar auf spielerische Art. In diesem Sinne könnte man sie als Mode auffassen. Aber Moden sind nur Verhüllungen.",
+      "en": "The revival of astrology, which now, as we enter a new and uncertain year, surprises us again with a flood of horoscopes, is less a sign of uncertainty than of a dissatisfaction that is felt more than understood. That is why it is also readily regarded as a sickness. But is a fever a sickness, or a symptom of sickness, a sign that the body wants to restore a lost equilibrium?\n\nThe spread of astrology, which stands in such astonishing contradiction to the main current of the age, is a revolutionary omen. Astrology has not only an unscientific structure but also a tendency directed against leveling, insofar as it insists on the fateful distinctness, on the inborn inequality, of human beings. By doing so it disregards the two cardinal points of today's world. It is foreseeable that the offense it arouses will intensify in future.\n\nThat this is a revolutionary fact can already be inferred from the fact that it comes `from below`. In that it differs from similar movements that are either guarded within small circles and form sects or, if they become popular, as physiognomy did, go back to great minds. Astrology `gets around`, and in a playful way. In this sense one could regard it as a fashion. But fashions are only veils.",
+      "de_paragraphs": [
+        "Das Wiederaufleben der Astrologie, das uns jetzt, beim Eintritt in ein neues, ungewisses Jahr, wieder durch eine Flut von Horoskopen überrascht, ist weniger ein Zeichen der Unsicherheit als einer Unzufriedenheit, die mehr empfunden denn begriffen wird. Daher wird es auch gern als Krankheit aufgefaßt. Ist aber ein Fieber eine Krankheit oder ein Krankheitsmerkmal, ein Merkmal dafür, daß der Körper ein verloren gegangenes Gleichgewicht wieder herstellen will?",
+        "Das Eindringen der Astrologie, das zur Hauptströmung der Zeit in so erstaunlichem Widerspruch steht, ist ein revolutionäres Vorzeichen. Die Astrologie hat nicht nur eine unwissenschaftliche Struktur, sondern auch eine gegen das Nivellement gerichtete Tendenz, insofern sie auf der schicksalsmäßigen Eigenart, auf der angeborenen Ungleichheit der Menschen besteht. Damit mißachtet sie die beiden Kardinalpunkte der heutigen Welt. Es ist vorauszusehen, daß sich das Ärgernis, das sie erregt, in Zukunft verstärken wird.",
+        "Daß es sich um eine revolutionäre Tatsache handelt, läßt sich schon daraus schließen, daß sie »von unten« kommt. Sie unterscheidet sich dadurch von ähnlichen Bewegungen, die entweder in kleinen Zirkeln gehütet werden und Sekten bilden oder, falls sie, wie die Physiognomik, volkstümlich werden, auf bedeutende Geister zurückgehen. Die Astrologie »spricht sich herum«, und zwar auf spielerische Art. In diesem Sinne könnte man sie als Mode auffassen. Aber Moden sind nur Verhüllungen."
+      ],
+      "en_paragraphs": [
+        "The revival of astrology, which now, as we enter a new and uncertain year, surprises us again with a flood of horoscopes, is less a sign of uncertainty than of a dissatisfaction that is felt more than understood. That is why it is also readily regarded as a sickness. But is a fever a sickness, or a symptom of sickness, a sign that the body wants to restore a lost equilibrium?",
+        "The spread of astrology, which stands in such astonishing contradiction to the main current of the age, is a revolutionary omen. Astrology has not only an unscientific structure but also a tendency directed against leveling, insofar as it insists on the fateful distinctness, on the inborn inequality, of human beings. By doing so it disregards the two cardinal points of today's world. It is foreseeable that the offense it arouses will intensify in future.",
+        "That this is a revolutionary fact can already be inferred from the fact that it comes `from below`. In that it differs from similar movements that are either guarded within small circles and form sects or, if they become popular, as physiognomy did, go back to great minds. Astrology `gets around`, and in a playful way. In this sense one could regard it as a fashion. But fashions are only veils."
+      ],
+      "paragraph_alignment": {
+        "de_count": 3,
+        "en_count": 3,
+        "aligned": true,
+        "row_count": 3
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/09-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:27",
+      "id": 27,
+      "label": "§27",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Der große Gedanke der kosmischen Einwirkung auf den Menschen kann auch von Gegnern der Astrologie nicht bestritten werden. Er führt auf die Gebiete der Rassen-, Völker- und Stammeskunde, der Klimatologie und Physiologie. Daß die Breitengrade mehr als den körperlichen Habitus, daß sie Recht und Moral bestimmen, haben schon Pascal und nach ihm Stendhal betont. Selbst innerhalb kleiner Völker unterscheiden sich die Menschen des Nord- und des Südrandes.\n\nGrößere Schwierigkeit bereitet schon der Gedanke, daß nicht nur der Ort, sondern auch die Zeit der Geburt formende Macht haben soll. Aber wenn der Rhythmus des Meeres mit seinen Phasen im körperlichen Haushalt des Menschen nachzuweisen ist, dann kann es nicht unbedeutend sein, in welcher Mondphase er gezeugt und geboren ist.\n\nDas bleiben Erwägungen im Zwischenfeld. Das innere Gefüge der Astrologie läßt sich ebensowenig nachmessen wie ein Bild oder ein Gedicht. Es läßt sich weder beweisen noch statistisch nachprüfen. Infolgedessen kann die astrologische Betrachtung heute nicht als »wahr« gelten. Eine andere Frage ist, ob sie einmal »wahr werden« wird. Das würde eine Veränderung der inneren Optik voraussetzen, deren Bilder heute vom Pol des Wissens aus geprägt werden.\n\nDas Bevorstehen einer solchen Veränderung gehört zu den Voraussagen, die sich an den Eintritt in eine neue Weltzeit, in ein neues Großjahr anknüpfen.",
+      "en": "The great idea of cosmic influence upon man cannot be disputed even by astrology's opponents. It leads into the fields of the study of race, peoples, and tribes, of climatology and physiology. Pascal, and after him Stendhal, already stressed that latitudes determine more than bodily habitus, that they determine law and morality as well. Even within small peoples, those at the northern and southern edges differ.\n\nThe thought that not only the place but also the time of birth should have formative power already poses greater difficulty. But if the rhythm of the sea with its phases can be demonstrated in man's bodily economy, then it cannot be insignificant in which phase of the moon he was conceived and born.\n\nThese remain considerations in the intermediate field. The inner fabric of astrology can no more be measured than a picture or a poem. It can be neither proved nor statistically verified. Consequently the astrological mode of regard cannot count as `true` today. Another question is whether it will one day `become true`. That would presuppose a change in inner optics, whose images are today shaped from the pole of knowledge.\n\nThe imminence of such a change belongs to the predictions attached to the entry into a new world-age, a new great year.",
+      "de_paragraphs": [
+        "Der große Gedanke der kosmischen Einwirkung auf den Menschen kann auch von Gegnern der Astrologie nicht bestritten werden. Er führt auf die Gebiete der Rassen-, Völker- und Stammeskunde, der Klimatologie und Physiologie. Daß die Breitengrade mehr als den körperlichen Habitus, daß sie Recht und Moral bestimmen, haben schon Pascal und nach ihm Stendhal betont. Selbst innerhalb kleiner Völker unterscheiden sich die Menschen des Nord- und des Südrandes.",
+        "Größere Schwierigkeit bereitet schon der Gedanke, daß nicht nur der Ort, sondern auch die Zeit der Geburt formende Macht haben soll. Aber wenn der Rhythmus des Meeres mit seinen Phasen im körperlichen Haushalt des Menschen nachzuweisen ist, dann kann es nicht unbedeutend sein, in welcher Mondphase er gezeugt und geboren ist.",
+        "Das bleiben Erwägungen im Zwischenfeld. Das innere Gefüge der Astrologie läßt sich ebensowenig nachmessen wie ein Bild oder ein Gedicht. Es läßt sich weder beweisen noch statistisch nachprüfen. Infolgedessen kann die astrologische Betrachtung heute nicht als »wahr« gelten. Eine andere Frage ist, ob sie einmal »wahr werden« wird. Das würde eine Veränderung der inneren Optik voraussetzen, deren Bilder heute vom Pol des Wissens aus geprägt werden.",
+        "Das Bevorstehen einer solchen Veränderung gehört zu den Voraussagen, die sich an den Eintritt in eine neue Weltzeit, in ein neues Großjahr anknüpfen."
+      ],
+      "en_paragraphs": [
+        "The great idea of cosmic influence upon man cannot be disputed even by astrology's opponents. It leads into the fields of the study of race, peoples, and tribes, of climatology and physiology. Pascal, and after him Stendhal, already stressed that latitudes determine more than bodily habitus, that they determine law and morality as well. Even within small peoples, those at the northern and southern edges differ.",
+        "The thought that not only the place but also the time of birth should have formative power already poses greater difficulty. But if the rhythm of the sea with its phases can be demonstrated in man's bodily economy, then it cannot be insignificant in which phase of the moon he was conceived and born.",
+        "These remain considerations in the intermediate field. The inner fabric of astrology can no more be measured than a picture or a poem. It can be neither proved nor statistically verified. Consequently the astrological mode of regard cannot count as `true` today. Another question is whether it will one day `become true`. That would presuppose a change in inner optics, whose images are today shaped from the pole of knowledge.",
+        "The imminence of such a change belongs to the predictions attached to the entry into a new world-age, a new great year."
+      ],
+      "paragraph_alignment": {
+        "de_count": 4,
+        "en_count": 4,
+        "aligned": true,
+        "row_count": 4
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/09-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:28",
+      "id": 28,
+      "label": "§28",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Wir sehen das Schicksal gern als Linie. Näher kommen seinem Wesen wahrscheinlich Anschauungen, die es als Ring oder als Kreisbahn sehen, die sich um einen Mittelpunkt bewegt. Das entspricht nicht nur den großen Zyklen, die wir im Universum wahrnehmen, und ihrer Wiederkehr, sondern auch der Unveränderlichkeit des Gesetzes, »nach dem du angetreten«. Sie deutet auf einen festen Punkt.\n\nDas führt uns, abgesehen vom charakterologischen Wert der astrologischen Typenlehre, zu der nicht minder wichtigen Wahrnehmung der Periodizität. Daß Mächte periodisch auf uns einwirken und daß zu diesen Mächten die Gestirne zählen, vor allem Erde, Sonne und Mond, ist ja von jeher bekannt. Es ist aber auch nicht zu leugnen, daß diese Kenntnis mit dem Fortschreiten der Zivilisation, das als geradlinig und aufsteigend betrachtet wird, weithin verloren geht. Wie alle Unterschiede, so werden auch die von Tag und Nacht, von Klimaten und Jahreszeiten angezehrt. Das Ziel des Vorganges ist die Vereinfachung und Abflachung der natürlichen und der kosmischen Rhythmen zu einer mit wachsender Beschleunigung verbundenen Monotonie.\n\nNun kann der Mensch zwar seinen Lebensrhythmus ändern, er kann der Erde, dem Monde, der Sonne ihr Recht verweigern und ihre Wirkung weithin durch seine Kunst ersetzen; es bleibt jedoch ihr Anspruch an ihn bestehen. Er lädt die Unbilden auf sich, die die Verweigerung des Opfers nach sich zieht. Dafür gibt es zahllose Beispiele.\n\nWenn Tag und Nacht und wenn die Klimate sich angleichen, so hat das große Vorteile, sowohl was den Genuß als auch was die Leistung betrifft. Es hat aber noch stärkere Nachteile insofern, als sowohl dem Tage wie auch der Nacht ihr Recht entzogen wird. Das führt zu einer künstlichen Abflachung. Der Schicksalsanspruch aber bleibt der gleiche und wird noch stärker: die Dämme müssen erhöht werden. Was im kleinen gespart wird, wird im großen eingefordert; der Umfang der Katastrophen wächst.\n\nWenn die Bedeutung der Astrologie nur darin bestände, den Menschen auf den Sinn der großen Kreisläufe und auf die Achtung vor ihnen hinzuweisen, so würde das schon unschätzbar sein, auch ohne überzeugende Beziehung auf das Schicksal des Einzelnen.",
+      "en": "We like to see fate as a line. Closer to its essence are probably conceptions that see it as a ring or a circular course moving around a center. This corresponds not only to the great cycles we perceive in the universe and their return, but also to the immutability of the law `according to which you set out`. It points to a fixed point.\n\nApart from the characterological value of astrology's doctrine of types, this leads us to the no less important perception of periodicity. That powers act upon us periodically, and that among these powers the heavenly bodies count, above all earth, sun, and moon, has of course been known from time immemorial. But it cannot be denied either that this knowledge is largely lost as civilization advances, an advance regarded as linear and ascending. Like all differences, so too those indicated by day and night, by climates and seasons, are worn away. The goal of the process is the simplification and flattening of natural and cosmic rhythms into a monotony bound up with increasing acceleration.\n\nMan can indeed alter his rhythm of life; he can deny earth, moon, and sun their due and replace their effect to a great extent by his art; yet their claim upon him remains. He takes upon himself the hardships that the refusal of sacrifice brings in its train. There are countless examples of this.\n\nWhen day and night, and when climates, are leveled, that has great advantages as regards both enjoyment and performance. But it has even greater disadvantages insofar as both day and night are deprived of their due. That leads to an artificial flattening. The claim of fate, however, remains the same and becomes stronger still: the dikes have to be raised. What is saved on the small scale is exacted on the large; the scope of catastrophes grows.\n\nIf astrology's significance consisted only in pointing man toward the meaning of the great cycles and toward respect for them, that alone would already be inestimable, even without a compelling relation to the fate of the individual.",
+      "de_paragraphs": [
+        "Wir sehen das Schicksal gern als Linie. Näher kommen seinem Wesen wahrscheinlich Anschauungen, die es als Ring oder als Kreisbahn sehen, die sich um einen Mittelpunkt bewegt. Das entspricht nicht nur den großen Zyklen, die wir im Universum wahrnehmen, und ihrer Wiederkehr, sondern auch der Unveränderlichkeit des Gesetzes, »nach dem du angetreten«. Sie deutet auf einen festen Punkt.",
+        "Das führt uns, abgesehen vom charakterologischen Wert der astrologischen Typenlehre, zu der nicht minder wichtigen Wahrnehmung der Periodizität. Daß Mächte periodisch auf uns einwirken und daß zu diesen Mächten die Gestirne zählen, vor allem Erde, Sonne und Mond, ist ja von jeher bekannt. Es ist aber auch nicht zu leugnen, daß diese Kenntnis mit dem Fortschreiten der Zivilisation, das als geradlinig und aufsteigend betrachtet wird, weithin verloren geht. Wie alle Unterschiede, so werden auch die von Tag und Nacht, von Klimaten und Jahreszeiten angezehrt. Das Ziel des Vorganges ist die Vereinfachung und Abflachung der natürlichen und der kosmischen Rhythmen zu einer mit wachsender Beschleunigung verbundenen Monotonie.",
+        "Nun kann der Mensch zwar seinen Lebensrhythmus ändern, er kann der Erde, dem Monde, der Sonne ihr Recht verweigern und ihre Wirkung weithin durch seine Kunst ersetzen; es bleibt jedoch ihr Anspruch an ihn bestehen. Er lädt die Unbilden auf sich, die die Verweigerung des Opfers nach sich zieht. Dafür gibt es zahllose Beispiele.",
+        "Wenn Tag und Nacht und wenn die Klimate sich angleichen, so hat das große Vorteile, sowohl was den Genuß als auch was die Leistung betrifft. Es hat aber noch stärkere Nachteile insofern, als sowohl dem Tage wie auch der Nacht ihr Recht entzogen wird. Das führt zu einer künstlichen Abflachung. Der Schicksalsanspruch aber bleibt der gleiche und wird noch stärker: die Dämme müssen erhöht werden. Was im kleinen gespart wird, wird im großen eingefordert; der Umfang der Katastrophen wächst.",
+        "Wenn die Bedeutung der Astrologie nur darin bestände, den Menschen auf den Sinn der großen Kreisläufe und auf die Achtung vor ihnen hinzuweisen, so würde das schon unschätzbar sein, auch ohne überzeugende Beziehung auf das Schicksal des Einzelnen."
+      ],
+      "en_paragraphs": [
+        "We like to see fate as a line. Closer to its essence are probably conceptions that see it as a ring or a circular course moving around a center. This corresponds not only to the great cycles we perceive in the universe and their return, but also to the immutability of the law `according to which you set out`. It points to a fixed point.",
+        "Apart from the characterological value of astrology's doctrine of types, this leads us to the no less important perception of periodicity. That powers act upon us periodically, and that among these powers the heavenly bodies count, above all earth, sun, and moon, has of course been known from time immemorial. But it cannot be denied either that this knowledge is largely lost as civilization advances, an advance regarded as linear and ascending. Like all differences, so too those indicated by day and night, by climates and seasons, are worn away. The goal of the process is the simplification and flattening of natural and cosmic rhythms into a monotony bound up with increasing acceleration.",
+        "Man can indeed alter his rhythm of life; he can deny earth, moon, and sun their due and replace their effect to a great extent by his art; yet their claim upon him remains. He takes upon himself the hardships that the refusal of sacrifice brings in its train. There are countless examples of this.",
+        "When day and night, and when climates, are leveled, that has great advantages as regards both enjoyment and performance. But it has even greater disadvantages insofar as both day and night are deprived of their due. That leads to an artificial flattening. The claim of fate, however, remains the same and becomes stronger still: the dikes have to be raised. What is saved on the small scale is exacted on the large; the scope of catastrophes grows.",
+        "If astrology's significance consisted only in pointing man toward the meaning of the great cycles and toward respect for them, that alone would already be inestimable, even without a compelling relation to the fate of the individual."
+      ],
+      "paragraph_alignment": {
+        "de_count": 5,
+        "en_count": 5,
+        "aligned": true,
+        "row_count": 5
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/09-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:29",
+      "id": 29,
+      "label": "§29",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Der Einzelne, und zwar jeder Einzelne, glaubt, daß er ein besonderes Schicksal und also auch eine besondere Stellung im Universum besitzt. Der Glaube ist durchaus berechtigt; mit jedem Menschen, der geboren wird, wird die Welt neu konzipiert. Er hat sein Leben, sein Schicksal, seine Aufgabe für sich; seine Organe umringen einen eigenen Mittelpunkt. Jede Lehre, die behauptet, daß der Mensch a priori für den Staat oder die Gesellschaft geboren sei, ist eine Irrlehre. Der Mensch ist geboren, damit er sein eigenes Schicksal lebt. Und er verfährt danach. »So mußt du sein, dir kannst du nicht entfliehen.« Alle weiteren Pflichten kommen a posteriori, folgen aus speziellen Qualitäten: als Mann, als Frau, als Vater, als Mitglied von Völkern und Gemeinschaften.\n\nDaß er sein eigenes Gesetz hat und daß dieses Gesetz ihm zeitlich und räumlich Grenzen steckt, das wird der Einzelne, der über sich nachdenkt, bald wahrnehmen. Aber auch ohne sich darüber Rechenschaft zu geben, wird er Zeit und Ort in einer Weise vermeiden oder wählen, die bereits in seinem So-Sein, also in seinem Habitus und seinem Charakter im weitesten Umfang, begründet liegt.\n\nWenn wir, um ein einfaches Beispiel zu wählen, auf einer grell besonnten Straße stehen, während eine Fabrik oder eine Schule die Tore öffnet, so werden wir beobachten, daß von der ausströmenden Menge der größere Teil die Schattenseite aufsucht, während einige wenige sich offenbar in der prallen Sonne wohl fühlen. Wir dürfen vermuten, daß diese in den heißen Klimaten ihre Kraft entfalten und auf Reisen südliche Länder bevorzugen. Damit hängt wiederum zusammen, daß bestimmte Krankheiten sie häufiger, andere sie seltener aufsuchen, daß einige Berufe sich für sie besser eignen als andere, daß überhaupt, um es kurz auszudrücken, ihr Leben unter dem Zeichen der Sonne steht. Das läßt sich bis in die Einzelheiten, bei Nietzsche etwa bis in Feinheiten der Bildwelt und der Prosa, nachweisen.\n\nWenn wir, vielleicht in einem Bahnhof, auf der obersten Stufe einer Treppe stehen, so werden wir sehen, daß von den Aufsteigenden die meisten den Blick auf die Stufen richten und das Haupt gesenkt tragen. Einige wenige blicken empor. Auch daraus lassen sich Schlüsse ziehen.\n\nEs gibt Menschen, die das Wasser in dem Maße vermeiden, daß sie nie ein Boot besteigen, ja sich schon unwohl fühlen, wenn sie über eine Brücke gehen. Andere suchen die Ozeane auf. Daß die Periodizität im Leben eines Seemanns sich unterscheidet von der eines Hirten, eines Ackerbauers oder eines Landstreichers, erklärt sich aus der Verschiedenheit der Elemente – wie aber erklärt sich die Verschiedenheit der Neigungen, der Zug zu den Elementen selbst? Er ist tief eingewurzelt; E. Th. A. Hoffmann gibt in »Die Bergwerke zu Falun« ein Beispiel für seine Macht.\n\nDer Zug zum Meere wiederum erfährt Modifikationen, je nachdem ob ihm der Seemann, der Händler, der Krieger oder der Forscher folgt. Eine dieser Qualitäten kann dominieren; es können auch mehrere, »Krieg, Handel und Piraterie«, in der Person vereinigt sein.",
+      "en": "The individual, and indeed every individual, believes that he possesses a particular fate and hence also a particular place in the universe. The belief is entirely justified; with every human being who is born, the world is newly conceived. He has his life, his fate, his task to himself; his organs surround a center of their own. Every doctrine that claims man is born a priori for the state or for society is a false doctrine. Man is born in order to live his own fate. And he acts accordingly. `So must you be; you cannot flee yourself.` All further duties come a posteriori and follow from special qualities: as man, as woman, as father, as member of peoples and communities.\n\nThat he has his own law and that this law sets temporal and spatial limits to him, the individual who reflects on himself will soon perceive. But even without giving himself an account of it, he will avoid or choose time and place in a way already grounded in his what-he-is, that is, in his habitus and character in the broadest sense.\n\nIf, to choose a simple example, we stand on a brightly sun-struck street while a factory or a school opens its gates, we shall observe that from the outflowing crowd the greater part seeks the shady side, while a few clearly feel at ease in the blazing sun. We may suppose that these unfold their strength in hot climates and on journeys prefer southern lands. Connected with this in turn is the fact that certain illnesses seek them more often, others less often, that some professions suit them better than others, that in general, to put it briefly, their life stands under the sign of the sun. This can be demonstrated down to particulars, in Nietzsche for example down to subtleties of imagery and prose.\n\nIf, perhaps in a railway station, we stand on the top step of a staircase, we shall see that of those ascending, most direct their gaze to the steps and carry the head lowered. A few look upward. Conclusions too can be drawn from that.\n\nThere are people who avoid the water to such a degree that they never board a boat, indeed already feel unwell when they cross a bridge. Others seek out the oceans. That the periodicity in the life of a seaman differs from that of a shepherd, a farmer, or a tramp is explained by the difference of the elements - but how is the difference of inclinations explained, the attraction to the elements themselves? It is deeply rooted; E. T. A. Hoffmann gives in `The Mines of Falun` an example of its power.\n\nThe attraction to the sea in turn undergoes modifications according to whether sailor, merchant, warrior, or explorer follows it. One of these qualities may dominate; several too, `war, trade, and piracy,` may be united in one person.",
+      "de_paragraphs": [
+        "Der Einzelne, und zwar jeder Einzelne, glaubt, daß er ein besonderes Schicksal und also auch eine besondere Stellung im Universum besitzt. Der Glaube ist durchaus berechtigt; mit jedem Menschen, der geboren wird, wird die Welt neu konzipiert. Er hat sein Leben, sein Schicksal, seine Aufgabe für sich; seine Organe umringen einen eigenen Mittelpunkt. Jede Lehre, die behauptet, daß der Mensch a priori für den Staat oder die Gesellschaft geboren sei, ist eine Irrlehre. Der Mensch ist geboren, damit er sein eigenes Schicksal lebt. Und er verfährt danach. »So mußt du sein, dir kannst du nicht entfliehen.« Alle weiteren Pflichten kommen a posteriori, folgen aus speziellen Qualitäten: als Mann, als Frau, als Vater, als Mitglied von Völkern und Gemeinschaften.",
+        "Daß er sein eigenes Gesetz hat und daß dieses Gesetz ihm zeitlich und räumlich Grenzen steckt, das wird der Einzelne, der über sich nachdenkt, bald wahrnehmen. Aber auch ohne sich darüber Rechenschaft zu geben, wird er Zeit und Ort in einer Weise vermeiden oder wählen, die bereits in seinem So-Sein, also in seinem Habitus und seinem Charakter im weitesten Umfang, begründet liegt.",
+        "Wenn wir, um ein einfaches Beispiel zu wählen, auf einer grell besonnten Straße stehen, während eine Fabrik oder eine Schule die Tore öffnet, so werden wir beobachten, daß von der ausströmenden Menge der größere Teil die Schattenseite aufsucht, während einige wenige sich offenbar in der prallen Sonne wohl fühlen. Wir dürfen vermuten, daß diese in den heißen Klimaten ihre Kraft entfalten und auf Reisen südliche Länder bevorzugen. Damit hängt wiederum zusammen, daß bestimmte Krankheiten sie häufiger, andere sie seltener aufsuchen, daß einige Berufe sich für sie besser eignen als andere, daß überhaupt, um es kurz auszudrücken, ihr Leben unter dem Zeichen der Sonne steht. Das läßt sich bis in die Einzelheiten, bei Nietzsche etwa bis in Feinheiten der Bildwelt und der Prosa, nachweisen.",
+        "Wenn wir, vielleicht in einem Bahnhof, auf der obersten Stufe einer Treppe stehen, so werden wir sehen, daß von den Aufsteigenden die meisten den Blick auf die Stufen richten und das Haupt gesenkt tragen. Einige wenige blicken empor. Auch daraus lassen sich Schlüsse ziehen.",
+        "Es gibt Menschen, die das Wasser in dem Maße vermeiden, daß sie nie ein Boot besteigen, ja sich schon unwohl fühlen, wenn sie über eine Brücke gehen. Andere suchen die Ozeane auf. Daß die Periodizität im Leben eines Seemanns sich unterscheidet von der eines Hirten, eines Ackerbauers oder eines Landstreichers, erklärt sich aus der Verschiedenheit der Elemente – wie aber erklärt sich die Verschiedenheit der Neigungen, der Zug zu den Elementen selbst? Er ist tief eingewurzelt; E. Th. A. Hoffmann gibt in »Die Bergwerke zu Falun« ein Beispiel für seine Macht.",
+        "Der Zug zum Meere wiederum erfährt Modifikationen, je nachdem ob ihm der Seemann, der Händler, der Krieger oder der Forscher folgt. Eine dieser Qualitäten kann dominieren; es können auch mehrere, »Krieg, Handel und Piraterie«, in der Person vereinigt sein."
+      ],
+      "en_paragraphs": [
+        "The individual, and indeed every individual, believes that he possesses a particular fate and hence also a particular place in the universe. The belief is entirely justified; with every human being who is born, the world is newly conceived. He has his life, his fate, his task to himself; his organs surround a center of their own. Every doctrine that claims man is born a priori for the state or for society is a false doctrine. Man is born in order to live his own fate. And he acts accordingly. `So must you be; you cannot flee yourself.` All further duties come a posteriori and follow from special qualities: as man, as woman, as father, as member of peoples and communities.",
+        "That he has his own law and that this law sets temporal and spatial limits to him, the individual who reflects on himself will soon perceive. But even without giving himself an account of it, he will avoid or choose time and place in a way already grounded in his what-he-is, that is, in his habitus and character in the broadest sense.",
+        "If, to choose a simple example, we stand on a brightly sun-struck street while a factory or a school opens its gates, we shall observe that from the outflowing crowd the greater part seeks the shady side, while a few clearly feel at ease in the blazing sun. We may suppose that these unfold their strength in hot climates and on journeys prefer southern lands. Connected with this in turn is the fact that certain illnesses seek them more often, others less often, that some professions suit them better than others, that in general, to put it briefly, their life stands under the sign of the sun. This can be demonstrated down to particulars, in Nietzsche for example down to subtleties of imagery and prose.",
+        "If, perhaps in a railway station, we stand on the top step of a staircase, we shall see that of those ascending, most direct their gaze to the steps and carry the head lowered. A few look upward. Conclusions too can be drawn from that.",
+        "There are people who avoid the water to such a degree that they never board a boat, indeed already feel unwell when they cross a bridge. Others seek out the oceans. That the periodicity in the life of a seaman differs from that of a shepherd, a farmer, or a tramp is explained by the difference of the elements - but how is the difference of inclinations explained, the attraction to the elements themselves? It is deeply rooted; E. T. A. Hoffmann gives in `The Mines of Falun` an example of its power.",
+        "The attraction to the sea in turn undergoes modifications according to whether sailor, merchant, warrior, or explorer follows it. One of these qualities may dominate; several too, `war, trade, and piracy,` may be united in one person."
+      ],
+      "paragraph_alignment": {
+        "de_count": 6,
+        "en_count": 6,
+        "aligned": true,
+        "row_count": 6
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/10-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:30",
+      "id": 30,
+      "label": "§30",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Die Astrologie hat eine Kurzschrift geschaffen, einen Vorrat an festen Zeichen, durch den diese Mannigfaltigkeit lesbar und ablesbar gemacht werden soll. Es sind Buchstaben in älterem Sinne, Ideogramme, aus denen sich diese Schrift zusammensetzt. Sie gehören zu den frühesten Schriftzeichen und können daher auch nicht kursiv gelesen, sondern müssen synoptisch erfaßt werden. Bedeutung und Deutung sind eng miteinander verknüpft. Eine solche Schrift kann auch nicht gelesen werden wie eine mathematische Gleichung oder eine Formel; sie wird eher nach der Art eines Kunstwerks erfaßt, dessen Harmonie wohl evident, aber nicht beweisbar ist und nicht belegbar durch das Experiment.\n\nEine andere Frage ist die der praktischen Brauchbarkeit. Sie hängt vom Bedürfnis, von den Ansprüchen ab. Die Heiratsanzeigen in den Zeitungen sind in dieser Hinsicht eine Fundgrube. Sie breiten eine große Skala von Ansprüchen aus, die an den idealen Partner gestellt werden und die sich nach dem vortrefflichen Schema Schopenhauers einteilen lassen in das, was einer ist, was er hat und was er vorstellt. Rechnen wir den Charakter zu dem, was einer ist, zum eigentlichen Sein des Menschen, das alles weit übertrifft, was er haben oder vorstellen kann, so stoßen wir nicht nur auf die Schwierigkeit der Detaillierung und Präzisierung, sondern auch der plastischen Schilderung der ergänzenden Anlage. Auch ist der Mensch unfähig, seinen eigenen Charakter zu erkennen und also zu beschreiben; er bedarf des Hinzutretenden.\n\nHier bietet die Entwicklung von Figuren- und Typenlehren ein unschätzbares Hilfsmittel, vor allem wenn sie den körperlichen, geistigen und moralischen Habitus aus einer jenseits von Gut und Böse gelegenen Notwendigkeit heraus erfaßt. Schlachthäuser sind gewiß vom Übel; wer aber einen »Löwen« als Partner sucht, will keinen Vegetarier. Man findet zuweilen in diesen Anzeigen Filmschauspieler als Idealfiguren benannt. Das ist immerhin präziser als eine Reihung von unbestimmten Charakterzügen, obwohl es, ähnlich wie das Zeitungshoroskop, zu den Aushilfen innerhalb einer abgeflachten Schicksalswelt gehört.",
+      "en": "Astrology has created a shorthand, a stock of fixed signs by means of which this multiplicity is meant to be made legible and capable of being read off. They are letters in the older sense, ideograms, of which this writing is composed. They belong to the earliest written signs and therefore cannot be read cursively either, but must be grasped synoptically. Meaning and interpretation are closely intertwined. Such a script cannot be read like a mathematical equation or formula either; it is grasped more after the manner of a work of art, whose harmony may well be evident but is not provable and cannot be demonstrated by experiment.\n\nAnother question is that of practical usefulness. It depends on need, on requirements. The marriage advertisements in the newspapers are a mine in this respect. They spread out a wide scale of demands made of the ideal partner, and these can be divided, following Schopenhauer's excellent schema, into what a person is, what he has, and what he represents. If we reckon character among what a person is, among man's actual being, which surpasses everything he can have or represent, we run up against not only the difficulty of detail and precision but also that of vividly portraying the complementary disposition. Man is also incapable of recognizing and thus describing his own character; he needs the one who comes in addition.\n\nHere the development of doctrines of figures and types offers an invaluable aid, above all when it grasps bodily, mental, and moral habitus out of a necessity lying beyond good and evil. Slaughterhouses are certainly an evil; but whoever seeks a `lion` as a partner does not want a vegetarian. One sometimes finds film actors named in these advertisements as ideal figures. That is at least more precise than a string of indefinite character traits, although, like the newspaper horoscope, it belongs to the expedients within a flattened world of fate.",
+      "de_paragraphs": [
+        "Die Astrologie hat eine Kurzschrift geschaffen, einen Vorrat an festen Zeichen, durch den diese Mannigfaltigkeit lesbar und ablesbar gemacht werden soll. Es sind Buchstaben in älterem Sinne, Ideogramme, aus denen sich diese Schrift zusammensetzt. Sie gehören zu den frühesten Schriftzeichen und können daher auch nicht kursiv gelesen, sondern müssen synoptisch erfaßt werden. Bedeutung und Deutung sind eng miteinander verknüpft. Eine solche Schrift kann auch nicht gelesen werden wie eine mathematische Gleichung oder eine Formel; sie wird eher nach der Art eines Kunstwerks erfaßt, dessen Harmonie wohl evident, aber nicht beweisbar ist und nicht belegbar durch das Experiment.",
+        "Eine andere Frage ist die der praktischen Brauchbarkeit. Sie hängt vom Bedürfnis, von den Ansprüchen ab. Die Heiratsanzeigen in den Zeitungen sind in dieser Hinsicht eine Fundgrube. Sie breiten eine große Skala von Ansprüchen aus, die an den idealen Partner gestellt werden und die sich nach dem vortrefflichen Schema Schopenhauers einteilen lassen in das, was einer ist, was er hat und was er vorstellt. Rechnen wir den Charakter zu dem, was einer ist, zum eigentlichen Sein des Menschen, das alles weit übertrifft, was er haben oder vorstellen kann, so stoßen wir nicht nur auf die Schwierigkeit der Detaillierung und Präzisierung, sondern auch der plastischen Schilderung der ergänzenden Anlage. Auch ist der Mensch unfähig, seinen eigenen Charakter zu erkennen und also zu beschreiben; er bedarf des Hinzutretenden.",
+        "Hier bietet die Entwicklung von Figuren- und Typenlehren ein unschätzbares Hilfsmittel, vor allem wenn sie den körperlichen, geistigen und moralischen Habitus aus einer jenseits von Gut und Böse gelegenen Notwendigkeit heraus erfaßt. Schlachthäuser sind gewiß vom Übel; wer aber einen »Löwen« als Partner sucht, will keinen Vegetarier. Man findet zuweilen in diesen Anzeigen Filmschauspieler als Idealfiguren benannt. Das ist immerhin präziser als eine Reihung von unbestimmten Charakterzügen, obwohl es, ähnlich wie das Zeitungshoroskop, zu den Aushilfen innerhalb einer abgeflachten Schicksalswelt gehört."
+      ],
+      "en_paragraphs": [
+        "Astrology has created a shorthand, a stock of fixed signs by means of which this multiplicity is meant to be made legible and capable of being read off. They are letters in the older sense, ideograms, of which this writing is composed. They belong to the earliest written signs and therefore cannot be read cursively either, but must be grasped synoptically. Meaning and interpretation are closely intertwined. Such a script cannot be read like a mathematical equation or formula either; it is grasped more after the manner of a work of art, whose harmony may well be evident but is not provable and cannot be demonstrated by experiment.",
+        "Another question is that of practical usefulness. It depends on need, on requirements. The marriage advertisements in the newspapers are a mine in this respect. They spread out a wide scale of demands made of the ideal partner, and these can be divided, following Schopenhauer's excellent schema, into what a person is, what he has, and what he represents. If we reckon character among what a person is, among man's actual being, which surpasses everything he can have or represent, we run up against not only the difficulty of detail and precision but also that of vividly portraying the complementary disposition. Man is also incapable of recognizing and thus describing his own character; he needs the one who comes in addition.",
+        "Here the development of doctrines of figures and types offers an invaluable aid, above all when it grasps bodily, mental, and moral habitus out of a necessity lying beyond good and evil. Slaughterhouses are certainly an evil; but whoever seeks a `lion` as a partner does not want a vegetarian. One sometimes finds film actors named in these advertisements as ideal figures. That is at least more precise than a string of indefinite character traits, although, like the newspaper horoscope, it belongs to the expedients within a flattened world of fate."
+      ],
+      "paragraph_alignment": {
+        "de_count": 3,
+        "en_count": 3,
+        "aligned": true,
+        "row_count": 3
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/10-messbare-und-schicksalszeit.md"
+    },
+    {
+      "handle": "zm:31",
+      "id": 31,
+      "label": "§31",
+      "part_slug": "messbare-und-schicksalszeit",
+      "part_title_de": "Meßbare und Schicksalszeit",
+      "part_title_en": "Measurable Time and Fateful Time",
+      "de": "Die Deutungen der Astrologie, die ins Große gehen, erscheinen zwingender als die horoskopische Beurteilung der Individuen. So sind auch die großen Bewegungen im Kosmos, die Bahnen der Sonnen, Monde und Planeten berechenbarer als der Weg des Einzelnen.\n\nEbenso lassen sich über das Schicksal eines Schwarmes mit größerer Sicherheit Voraussagen treffen als über das der Geschöpfe, die ihn bilden; ihre kleinen Bewegungen verschwinden in den größeren Abläufen. Über das Schicksal eines Herings, eines Maikäfers pflegen wir kaum nachzusinnen, obwohl das Auftreten der Art in der Schwarmzeit selbst den Kindern zu denken gibt.\n\nDie ungeheure Vermehrung der Bevölkerungen in unserem Zeitalter bringt die Gefahr mit sich, daß wir den Menschen in ähnlicher Weise sehen. Nicht nur die Massenhaftigkeit, sondern auch die Gleichförmigkeit nimmt zu und damit die Versuchung, den Einzelnen abstrakt zu nehmen, sei es als mechanische Einheit oder als zoologische Spezies.\n\nDie Einbeziehung in das Massenschicksal und der Grad ihrer Notwendigkeit, ja Unentrinnbarkeit, bildet eines unserer täglichen Probleme, und eines der schwierigsten. Eine große Katastrophe wie die von Stalingrad ist leichter vorauszusehen als das Schicksal des Einzelnen in ihr. Hier blenden die Ziffer und der mechanische Aspekt. Dennoch hält der Einzelne, der dem Malstrom entronnen ist und der vielleicht sogar gewonnen hat durch die Begegnung, das nicht für Zufall, und mit Recht.\n\nDer drohenden Verflachung gegenüber bewahrt der Astrologe einen sicheren Blick für die angeborene Würde des Menschen, ohne sich auf abstrakte Formeln von Gleichheit und Freiheit einzulassen; das So-Sein bildet die Voraussetzung dafür. Er meint, daß mit dem Einzelnen, und zwar mit jedem Einzelnen, nicht nur ein neues Bild der Spezies, sondern auch eine neue Welt geboren wird. Damit räumt er ihm einen höheren Rang ein, als abstraktes Denken, abstrakte Zuteilung, ihm gewähren kann.\n\nZu unseren großen Fragen gehört auch diese: ob im So-Sein oder im Gleichsein das Glück liege. Sie wird ununterbrochen beantwortet, aber nie gelöst werden. Es handelt sich um eine jener geistigen Bewegungen, die sich wellenförmig fortpflanzen. Die Frage beginnt gerade dann von neuem anzusetzen, wenn ihre Lösung gelungen scheint.\n\nHieraus erklären sich sowohl die Unterbrechungen des Fortschrittes und seiner berechenbaren Bahnen als auch die Tatsache, daß in der Lebensgeschichte der Einzelnen und der Völker oft Extreme sich ablösen, ja herausfordern. In dieser Hinsicht ist die Entwicklung reich an Überraschungen und spottet der Voraussagen. Wer hätte etwa geahnt, daß gerade China, das Land des Tao und des konfuzianischen Familienkultes, der Monotonie der Arbeitswelt mit einem Furor Opfer bringen würde, der im Westen seinesgleichen sucht?\n\nAndererseits ist das Anwachsen astrologischer Neigungen ein Anzeichen dafür, daß der Mensch der Uniformierung müde zu werden beginnt, die ihn vielleicht vor kurzem noch begeisterte. Dabei ist, wie gesagt, zu unterscheiden zwischen Anzeichen und Effekt. Der Wert des Anzeichens ist unabhängig vom Effekt. Seine Bedeutung liegt darin, daß hier, zunächst verhüllt und zweideutig, sich eine Gegenmacht zum Leviathan zu regen beginnt, die aus ganz anderen Tiefen als der liberale Individualismus stammt.\n\nDas sind Zeichen, die mehr als einen Stilbruch anzeigen. Ein Klimawechsel kündet sich in ihnen an.\n\nAN DER ZEITMAUER\n\nHUMANE EINTEILUNGEN",
+      "en": "The interpretations of astrology that concern the large scale appear more compelling than the horoscopic assessment of individuals. So too the great movements in the cosmos, the paths of suns, moons, and planets, are more calculable than the path of the individual.\n\nLikewise predictions about the fate of a swarm can be made with greater certainty than about that of the creatures composing it; their small movements disappear within the larger processes. We hardly ever ponder the fate of a herring or a maybug, although the appearance of the species in swarming season gives even children something to think about.\n\nThe enormous multiplication of populations in our age brings with it the danger that we see man in a similar way. Not only sheer mass but also uniformity increases, and with it the temptation to take the individual abstractly, whether as a mechanical unit or a zoological species.\n\nInclusion in mass fate and the degree of its necessity, indeed inescapability, forms one of our daily problems, and one of the most difficult. A great catastrophe like Stalingrad is easier to foresee than the fate of the individual within it. Here number and the mechanical aspect blind us. Yet the individual who has escaped the maelstrom, and perhaps even gained through the encounter, does not take that for chance, and rightly so.\n\nAgainst the threatening flattening, the astrologer preserves a sure eye for the inborn dignity of man without indulging in abstract formulas of equality and freedom; what-he-is forms the precondition for this. He holds that with the individual, and indeed with every individual, not only a new image of the species but a new world is born. In that he accords him a higher rank than abstract thought and abstract allocation can grant him.\n\nThis too belongs to our great questions: whether happiness lies in what-he-is or in sameness. It is answered without ceasing, but will never be solved. It is one of those movements of mind that propagate themselves in waves. The question begins precisely to set in anew when its solution seems to have succeeded.\n\nThis explains both the interruptions of progress and its calculable courses and the fact that in the life-history of individuals and peoples alike extremes often replace, indeed challenge, one another. In this respect development is rich in surprises and mocks prediction. Who would have guessed, for example, that China of all places, the land of the Tao and of Confucian family cult, would offer sacrifice to the monotony of the world of labor with a furor that seeks its equal in the West?\n\nOn the other hand, the growth of astrological inclinations is a sign that man is beginning to grow weary of the uniformization that perhaps quite recently still excited him. Here, as I said, one must distinguish between sign and effect. The value of the sign is independent of the effect. Its significance lies in the fact that here, at first veiled and ambiguous, a counterpower to Leviathan begins to stir, one springing from quite different depths than liberal individualism.\n\nThese are signs that indicate more than a mere break in style. A change of climate announces itself in them.\n\nAN DER ZEITMAUER\n\nHUMAN DIVISIONS",
+      "de_paragraphs": [
+        "Die Deutungen der Astrologie, die ins Große gehen, erscheinen zwingender als die horoskopische Beurteilung der Individuen. So sind auch die großen Bewegungen im Kosmos, die Bahnen der Sonnen, Monde und Planeten berechenbarer als der Weg des Einzelnen.",
+        "Ebenso lassen sich über das Schicksal eines Schwarmes mit größerer Sicherheit Voraussagen treffen als über das der Geschöpfe, die ihn bilden; ihre kleinen Bewegungen verschwinden in den größeren Abläufen. Über das Schicksal eines Herings, eines Maikäfers pflegen wir kaum nachzusinnen, obwohl das Auftreten der Art in der Schwarmzeit selbst den Kindern zu denken gibt.",
+        "Die ungeheure Vermehrung der Bevölkerungen in unserem Zeitalter bringt die Gefahr mit sich, daß wir den Menschen in ähnlicher Weise sehen. Nicht nur die Massenhaftigkeit, sondern auch die Gleichförmigkeit nimmt zu und damit die Versuchung, den Einzelnen abstrakt zu nehmen, sei es als mechanische Einheit oder als zoologische Spezies.",
+        "Die Einbeziehung in das Massenschicksal und der Grad ihrer Notwendigkeit, ja Unentrinnbarkeit, bildet eines unserer täglichen Probleme, und eines der schwierigsten. Eine große Katastrophe wie die von Stalingrad ist leichter vorauszusehen als das Schicksal des Einzelnen in ihr. Hier blenden die Ziffer und der mechanische Aspekt. Dennoch hält der Einzelne, der dem Malstrom entronnen ist und der vielleicht sogar gewonnen hat durch die Begegnung, das nicht für Zufall, und mit Recht.",
+        "Der drohenden Verflachung gegenüber bewahrt der Astrologe einen sicheren Blick für die angeborene Würde des Menschen, ohne sich auf abstrakte Formeln von Gleichheit und Freiheit einzulassen; das So-Sein bildet die Voraussetzung dafür. Er meint, daß mit dem Einzelnen, und zwar mit jedem Einzelnen, nicht nur ein neues Bild der Spezies, sondern auch eine neue Welt geboren wird. Damit räumt er ihm einen höheren Rang ein, als abstraktes Denken, abstrakte Zuteilung, ihm gewähren kann.",
+        "Zu unseren großen Fragen gehört auch diese: ob im So-Sein oder im Gleichsein das Glück liege. Sie wird ununterbrochen beantwortet, aber nie gelöst werden. Es handelt sich um eine jener geistigen Bewegungen, die sich wellenförmig fortpflanzen. Die Frage beginnt gerade dann von neuem anzusetzen, wenn ihre Lösung gelungen scheint.",
+        "Hieraus erklären sich sowohl die Unterbrechungen des Fortschrittes und seiner berechenbaren Bahnen als auch die Tatsache, daß in der Lebensgeschichte der Einzelnen und der Völker oft Extreme sich ablösen, ja herausfordern. In dieser Hinsicht ist die Entwicklung reich an Überraschungen und spottet der Voraussagen. Wer hätte etwa geahnt, daß gerade China, das Land des Tao und des konfuzianischen Familienkultes, der Monotonie der Arbeitswelt mit einem Furor Opfer bringen würde, der im Westen seinesgleichen sucht?",
+        "Andererseits ist das Anwachsen astrologischer Neigungen ein Anzeichen dafür, daß der Mensch der Uniformierung müde zu werden beginnt, die ihn vielleicht vor kurzem noch begeisterte. Dabei ist, wie gesagt, zu unterscheiden zwischen Anzeichen und Effekt. Der Wert des Anzeichens ist unabhängig vom Effekt. Seine Bedeutung liegt darin, daß hier, zunächst verhüllt und zweideutig, sich eine Gegenmacht zum Leviathan zu regen beginnt, die aus ganz anderen Tiefen als der liberale Individualismus stammt.",
+        "Das sind Zeichen, die mehr als einen Stilbruch anzeigen. Ein Klimawechsel kündet sich in ihnen an.",
+        "AN DER ZEITMAUER",
+        "HUMANE EINTEILUNGEN"
+      ],
+      "en_paragraphs": [
+        "The interpretations of astrology that concern the large scale appear more compelling than the horoscopic assessment of individuals. So too the great movements in the cosmos, the paths of suns, moons, and planets, are more calculable than the path of the individual.",
+        "Likewise predictions about the fate of a swarm can be made with greater certainty than about that of the creatures composing it; their small movements disappear within the larger processes. We hardly ever ponder the fate of a herring or a maybug, although the appearance of the species in swarming season gives even children something to think about.",
+        "The enormous multiplication of populations in our age brings with it the danger that we see man in a similar way. Not only sheer mass but also uniformity increases, and with it the temptation to take the individual abstractly, whether as a mechanical unit or a zoological species.",
+        "Inclusion in mass fate and the degree of its necessity, indeed inescapability, forms one of our daily problems, and one of the most difficult. A great catastrophe like Stalingrad is easier to foresee than the fate of the individual within it. Here number and the mechanical aspect blind us. Yet the individual who has escaped the maelstrom, and perhaps even gained through the encounter, does not take that for chance, and rightly so.",
+        "Against the threatening flattening, the astrologer preserves a sure eye for the inborn dignity of man without indulging in abstract formulas of equality and freedom; what-he-is forms the precondition for this. He holds that with the individual, and indeed with every individual, not only a new image of the species but a new world is born. In that he accords him a higher rank than abstract thought and abstract allocation can grant him.",
+        "This too belongs to our great questions: whether happiness lies in what-he-is or in sameness. It is answered without ceasing, but will never be solved. It is one of those movements of mind that propagate themselves in waves. The question begins precisely to set in anew when its solution seems to have succeeded.",
+        "This explains both the interruptions of progress and its calculable courses and the fact that in the life-history of individuals and peoples alike extremes often replace, indeed challenge, one another. In this respect development is rich in surprises and mocks prediction. Who would have guessed, for example, that China of all places, the land of the Tao and of Confucian family cult, would offer sacrifice to the monotony of the world of labor with a furor that seeks its equal in the West?",
+        "On the other hand, the growth of astrological inclinations is a sign that man is beginning to grow weary of the uniformization that perhaps quite recently still excited him. Here, as I said, one must distinguish between sign and effect. The value of the sign is independent of the effect. Its significance lies in the fact that here, at first veiled and ambiguous, a counterpower to Leviathan begins to stir, one springing from quite different depths than liberal individualism.",
+        "These are signs that indicate more than a mere break in style. A change of climate announces itself in them.",
+        "AN DER ZEITMAUER",
+        "HUMAN DIVISIONS"
+      ],
+      "paragraph_alignment": {
+        "de_count": 11,
+        "en_count": 11,
+        "aligned": true,
+        "row_count": 11
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/10-messbare-und-schicksalszeit.md"
     }
   ],
   "glossary": [
@@ -624,7 +1108,7 @@
         "Measured Time and Time of Destiny"
       ],
       "status": "tentative",
-      "notes": "Still workable after §§4-16. By §§9 and 13 the pair clearly names qualitative time against measurable time; by §§14-16 it also begins to organize planning, ceremony, catastrophe, and religion without requiring the inflated `destinal`.",
+      "notes": "Still workable after the full run of §§4-31. By §§9 and 13 the pair clearly names qualitative time against measurable time; by §§14-16 it also begins to organize planning, ceremony, catastrophe, and religion; by §§17-19 it presses into science, medicine, and epistemic modesty; by §§20-22 it extends into character, tragedy, recurrence, and fortune; by §§23-25 it bears directly on happiness-loss, omen-like decision, insurance, and the plan's fear of free musische speech; by §§26-28 it returns to astrology as revolutionary symptom and expands into changed optics, periodicity, flattened rhythms, sacrifice, and catastrophe; by §§29-31 it closes on singular destiny, `So-Sein` versus uniformity, mass fate, and the first stirring of a counterpower to Leviathan without requiring the inflated `destinal`.",
       "evidence": []
     },
     {
@@ -637,11 +1121,12 @@
         "time of destiny"
       ],
       "status": "tentative",
-      "notes": "Sections 4-13 support `fateful time`: the neighboring compounds stay concrete (`Schicksalsweisung`, `Schicksalsdeutung`, `Schicksalsqualitäten`, `Schicksalsuhr`) while retaining metaphysical weight.",
+      "notes": "Sections 4-20 support `fateful time`: the neighboring compounds stay concrete (`Schicksalsweisung`, `Schicksalsdeutung`, `Schicksalsqualitäten`, `Schicksalsuhr`) while retaining metaphysical weight, and §20 confirms the choice when tragedy is said to `weave` `Schicksalszeit`.",
       "evidence": [
         "evidence:term:schicksalszeit:zm:4",
         "evidence:term:schicksalszeit:zm:9",
-        "evidence:term:schicksalszeit:zm:13"
+        "evidence:term:schicksalszeit:zm:13",
+        "evidence:term:schicksalszeit:zm:20"
       ]
     },
     {
@@ -653,7 +1138,7 @@
         "divinatory"
       ],
       "status": "tentative",
-      "notes": "Sections 1, 4, and 7 support the technical feel of `mantic`: the word sits beside augury, omens, oracle practices, and later `divination` rather than generalized mysticism.",
+      "notes": "Sections 1, 4, 7, and 17 support the technical feel of `mantic`: the word sits beside augury, omens, oracle practices, geomancy, and later `divination` rather than generalized mysticism.",
       "evidence": []
     },
     {
@@ -691,7 +1176,7 @@
         "plan of the world"
       ],
       "status": "tentative",
-      "notes": "Hyphenation keeps the German compound visible.",
+      "notes": "Hyphenation keeps the German compound visible. §17 sharpens it by explicit contrast with `Menschenplan`.",
       "evidence": []
     },
     {
@@ -735,10 +1220,11 @@
         "existence / essence"
       ],
       "status": "tentative",
-      "notes": "Keep the pair visibly Germanic. §11 makes `So-Sein` load-bearing. `Existence / essence` is too Latinate and collapses a distinction Jünger is deliberately not naming that way.",
+      "notes": "Keep the pair visibly Germanic. §11 makes `So-Sein` load-bearing; §31 extends it into the contrast with `Gleichsein`, dignity, and resistance to uniform abstraction. `Existence / essence` is too Latinate and collapses a distinction Jünger is deliberately not naming that way.",
       "evidence": [
         "evidence:term:da-sein-so-sein:zm:4",
-        "evidence:term:da-sein-so-sein:zm:11"
+        "evidence:term:da-sein-so-sein:zm:11",
+        "evidence:term:da-sein-so-sein:zm:31"
       ]
     }
   ],
@@ -790,6 +1276,30 @@
       "section": "zm:15",
       "file": "texts/zeitmauer/parts/05-messbare-und-schicksalszeit.md",
       "note": "The Titanic, the record, and clock-measured performance."
+    },
+    {
+      "handle": "zm:20:tragedy",
+      "section": "zm:20",
+      "file": "texts/zeitmauer/parts/07-messbare-und-schicksalszeit.md",
+      "note": "Tragedy as cultic play that weaves fateful time."
+    },
+    {
+      "handle": "zm:25:plan-freedom",
+      "section": "zm:25",
+      "file": "texts/zeitmauer/parts/08-messbare-und-schicksalszeit.md",
+      "note": "The plan, plan-accounting, and the immediate language of freedom."
+    },
+    {
+      "handle": "zm:28:periodicity",
+      "section": "zm:28",
+      "file": "texts/zeitmauer/parts/09-messbare-und-schicksalszeit.md",
+      "note": "Periodicity, flattened rhythms, raised dikes, and catastrophe."
+    },
+    {
+      "handle": "zm:31:so-sein-gleichsein",
+      "section": "zm:31",
+      "file": "texts/zeitmauer/parts/10-messbare-und-schicksalszeit.md",
+      "note": "So-Sein against sameness, mass fate, and the counterpower to Leviathan."
     }
   ],
   "notes": [
@@ -850,6 +1360,38 @@
       "note": "The record language has to keep abstract time visible without flattening the shipwreck into allegory."
     },
     {
+      "handle": "note:zm:20:tragedy",
+      "section": "zm:20",
+      "anchor": "zm:20:tragedy",
+      "file": "texts/zeitmauer/parts/07-messbare-und-schicksalszeit.md",
+      "kind": "translation_note",
+      "note": "The explicit statement that tragedy `weaves` `Schicksalszeit` is a major confirmation of the current fate-language."
+    },
+    {
+      "handle": "note:zm:25:plan-freedom",
+      "section": "zm:25",
+      "anchor": "zm:25:plan-freedom",
+      "file": "texts/zeitmauer/parts/08-messbare-und-schicksalszeit.md",
+      "kind": "translation_note",
+      "note": "The danger to the plan is not only error but a non-systematic language of freedom that speaks through the musische sphere."
+    },
+    {
+      "handle": "note:zm:28:periodicity",
+      "section": "zm:28",
+      "anchor": "zm:28:periodicity",
+      "file": "texts/zeitmauer/parts/09-messbare-und-schicksalszeit.md",
+      "kind": "translation_note",
+      "note": "The section links flattened rhythms and denied sacrifice to enlarged catastrophe rather than to liberation from fate."
+    },
+    {
+      "handle": "note:zm:31:so-sein-gleichsein",
+      "section": "zm:31",
+      "anchor": "zm:31:so-sein-gleichsein",
+      "file": "texts/zeitmauer/parts/10-messbare-und-schicksalszeit.md",
+      "kind": "translation_note",
+      "note": "The part closes by setting `So-Sein` against sameness and by treating astrological inclination as a sign of counterforce rather than a finished effect."
+    },
+    {
       "handle": "note:journal:mumford-bridge",
       "file": "texts/zeitmauer/journal.md",
       "heading": "2026-03-29 — Mumford as Bridge Text",
@@ -871,7 +1413,7 @@
       "status": "tentative",
       "note": "Local dossier for measurable time, fateful time, and the widening crisis of abstract planning.",
       "title": "Time Crisis",
-      "content": "# Time Crisis\n\nHandle: `thread:time-crisis`\n\nThe main thread so far in `texts/zeitmauer`: the collision between measurable time and qualitative or fateful time.\n\n## Core Path\n\n- `evidence:term:schicksalszeit:zm:4` grounds the first explicit contrast.\n- `zm:9:church-year` crystallizes the difference by moving from astrology into the church year.\n- `zm:13:schicksalsuhr` extends that move by naming the horoscope as an uneven clock.\n- `zm:14:abdichtung` widens the problem from interpretation to planning, ceremony, and the need to seal life toward the side of fate.\n- `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.\n- `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.\n\n## Current Claim\n\n`thread:time-crisis` is no longer just a local theme about astrology. It names a broader conflict over what kinds of reality can be measured without being destroyed by measurement.\n\nJünger's strategy is to lead the reader out of the apparently \"occult\" cases and into ordinary ones:\n\n- the backing of paper money in `zm:7:banking`\n- the church year in `zm:9:church-year`\n- the horoscope as `zm:13:schicksalsuhr`\n- Roman augury and ceremony in `zm:14:abdichtung`\n- the `Titanic`, the record, and abstract time in `zm:15:titanic-record`\n\n## Commentary Use\n\nThis thread should be the default test case for the commentary layer because it already supports:\n\n- section-to-section resonance\n- glossary evidence chains\n- traversal from translation note to higher-order dossier\n- extension into cross-project synthesis without leaving the text behind\n"
+      "content": "# Time Crisis\n\nHandle: `thread:time-crisis`\n\nThe main thread so far in `texts/zeitmauer`: the collision between measurable time and qualitative or fateful time.\n\n## Core Path\n\n- `evidence:term:schicksalszeit:zm:4` grounds the first explicit contrast.\n- `zm:9:church-year` crystallizes the difference by moving from astrology into the church year.\n- `zm:13:schicksalsuhr` extends that move by naming the horoscope as an uneven clock.\n- `zm:14:abdichtung` widens the problem from interpretation to planning, ceremony, and the need to seal life toward the side of fate.\n- `zm:25:plan-freedom` pushes the crisis into insurance, plan-accounting, and the immediate language of freedom.\n- `zm:28:periodicity` extends the crisis into flattened rhythms, denied sacrifice, and catastrophe.\n- `zm:31:so-sein-gleichsein` closes the part where the crisis becomes one of singular form versus uniformity and mass fate.\n- `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.\n- `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.\n\n## Current Claim\n\n`thread:time-crisis` is no longer just a local theme about astrology. It names a broader conflict over what kinds of reality can be measured without being destroyed by measurement.\n\nJünger's strategy is to lead the reader out of the apparently \"occult\" cases and into ordinary ones:\n\n- the backing of paper money in `zm:7:banking`\n- the church year in `zm:9:church-year`\n- the horoscope as `zm:13:schicksalsuhr`\n- Roman augury and ceremony in `zm:14:abdichtung`\n- the `Titanic`, the record, and abstract time in `zm:15:titanic-record`\n- insurance, plan-accounting, and free musische speech in `zm:25:plan-freedom`\n- periodicity, raised dikes, and enlarged catastrophe in `zm:28:periodicity`\n- `So-Sein`, sameness, and resistance to Leviathan in `zm:31:so-sein-gleichsein`\n\n## Commentary Use\n\nThis thread should be the default test case for the commentary layer because it already supports:\n\n- section-to-section resonance\n- glossary evidence chains\n- traversal from translation note to higher-order dossier\n- extension into cross-project synthesis without leaving the text behind\n"
     },
     {
       "handle": "thread:mumford-bridge",
@@ -962,6 +1504,24 @@
       "file": "texts/zeitmauer/parts/04-messbare-und-schicksalszeit.md",
       "relation": "grounds",
       "note": "Makes `So-Sein` load-bearing in the argument about astrological types."
+    },
+    {
+      "handle": "evidence:term:schicksalszeit:zm:20",
+      "term": "term:schicksalszeit",
+      "term_label": "Schicksalszeit",
+      "anchor": "zm:20:tragedy",
+      "file": "texts/zeitmauer/parts/07-messbare-und-schicksalszeit.md",
+      "relation": "grounds",
+      "note": "Confirms the choice when tragedy is said to `weave` `Schicksalszeit` and measurable time is said to know only accidents."
+    },
+    {
+      "handle": "evidence:term:da-sein-so-sein:zm:31",
+      "term": "term:da-sein-so-sein",
+      "term_label": "Da-Sein / So-Sein",
+      "anchor": "zm:31:so-sein-gleichsein",
+      "file": "texts/zeitmauer/parts/10-messbare-und-schicksalszeit.md",
+      "relation": "grounds",
+      "note": "Extends `So-Sein` beyond habitus into dignity, anti-uniformity, and the explicit contrast with `Gleichsein`."
     }
   ],
   "relations": [
@@ -994,6 +1554,30 @@
       "relation": "parallels",
       "to": "thread:mumford-bridge",
       "note": "The Titanic and the record make the clock-time problem concrete inside the text itself."
+    },
+    {
+      "from": "zm:20:tragedy",
+      "relation": "crystallizes",
+      "to": "thread:time-crisis",
+      "note": "The tragic is distinguished from mere accident precisely by its belonging to fateful rather than measurable time."
+    },
+    {
+      "from": "zm:25:plan-freedom",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis of measurable order reaches its political edge where the plan tries to contain freedom within techno-economic bookkeeping."
+    },
+    {
+      "from": "zm:28:periodicity",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "Flattened rhythms and denied sacrifice do not erase fate's claim; they enlarge catastrophe."
+    },
+    {
+      "from": "zm:31:so-sein-gleichsein",
+      "relation": "crystallizes",
+      "to": "thread:time-crisis",
+      "note": "The part closes where time-crisis becomes a conflict between singular form and mass uniformity rather than between astrology and science alone."
     },
     {
       "from": "note:journal:mumford-bridge",
@@ -1037,7 +1621,22 @@
       "zm:13",
       "zm:14",
       "zm:15",
-      "zm:16"
+      "zm:16",
+      "zm:17",
+      "zm:18",
+      "zm:19",
+      "zm:20",
+      "zm:21",
+      "zm:22",
+      "zm:23",
+      "zm:24",
+      "zm:25",
+      "zm:26",
+      "zm:27",
+      "zm:28",
+      "zm:29",
+      "zm:30",
+      "zm:31"
     ],
     "term_handles": [
       "term:an-der-zeitmauer",
@@ -1060,7 +1659,11 @@
       "zm:11:schachtgaenge",
       "zm:13:schicksalsuhr",
       "zm:14:abdichtung",
-      "zm:15:titanic-record"
+      "zm:15:titanic-record",
+      "zm:20:tragedy",
+      "zm:25:plan-freedom",
+      "zm:28:periodicity",
+      "zm:31:so-sein-gleichsein"
     ],
     "note_handles": [
       "note:zm:1:seidenschwanz",
@@ -1070,6 +1673,10 @@
       "note:zm:13:schicksalsuhr",
       "note:zm:14:abdichtung",
       "note:zm:15:titanic-record",
+      "note:zm:20:tragedy",
+      "note:zm:25:plan-freedom",
+      "note:zm:28:periodicity",
+      "note:zm:31:so-sein-gleichsein",
       "note:journal:mumford-bridge",
       "note:journal:goethe-leibniz-frame"
     ],
@@ -1086,7 +1693,9 @@
       "evidence:term:hinzutretende:zm:7",
       "evidence:term:hinzutretende:zm:9",
       "evidence:term:da-sein-so-sein:zm:4",
-      "evidence:term:da-sein-so-sein:zm:11"
+      "evidence:term:da-sein-so-sein:zm:11",
+      "evidence:term:schicksalszeit:zm:20",
+      "evidence:term:da-sein-so-sein:zm:31"
     ],
     "sections_by_part": {
       "fremde-voegel": [
@@ -1107,13 +1716,32 @@
         "zm:13",
         "zm:14",
         "zm:15",
-        "zm:16"
+        "zm:16",
+        "zm:17",
+        "zm:18",
+        "zm:19",
+        "zm:20",
+        "zm:21",
+        "zm:22",
+        "zm:23",
+        "zm:24",
+        "zm:25",
+        "zm:26",
+        "zm:27",
+        "zm:28",
+        "zm:29",
+        "zm:30",
+        "zm:31"
       ]
     },
     "by_handle": {
       "evidence:term:da-sein-so-sein:zm:11": {
         "kind": "evidence",
         "index": 7
+      },
+      "evidence:term:da-sein-so-sein:zm:31": {
+        "kind": "evidence",
+        "index": 9
       },
       "evidence:term:da-sein-so-sein:zm:4": {
         "kind": "evidence",
@@ -1135,6 +1763,10 @@
         "kind": "evidence",
         "index": 2
       },
+      "evidence:term:schicksalszeit:zm:20": {
+        "kind": "evidence",
+        "index": 8
+      },
       "evidence:term:schicksalszeit:zm:4": {
         "kind": "evidence",
         "index": 0
@@ -1145,11 +1777,11 @@
       },
       "note:journal:goethe-leibniz-frame": {
         "kind": "note",
-        "index": 8
+        "index": 12
       },
       "note:journal:mumford-bridge": {
         "kind": "note",
-        "index": 7
+        "index": 11
       },
       "note:zm:11:schachtgaenge": {
         "kind": "note",
@@ -1170,6 +1802,22 @@
       "note:zm:1:seidenschwanz": {
         "kind": "note",
         "index": 0
+      },
+      "note:zm:20:tragedy": {
+        "kind": "note",
+        "index": 7
+      },
+      "note:zm:25:plan-freedom": {
+        "kind": "note",
+        "index": 8
+      },
+      "note:zm:28:periodicity": {
+        "kind": "note",
+        "index": 9
+      },
+      "note:zm:31:so-sein-gleichsein": {
+        "kind": "note",
+        "index": 10
       },
       "note:zm:6:hinzutretende": {
         "kind": "note",
@@ -1283,6 +1931,18 @@
         "kind": "section",
         "index": 15
       },
+      "zm:17": {
+        "kind": "section",
+        "index": 16
+      },
+      "zm:18": {
+        "kind": "section",
+        "index": 17
+      },
+      "zm:19": {
+        "kind": "section",
+        "index": 18
+      },
       "zm:1:bruchstelle": {
         "kind": "chunk",
         "index": 1
@@ -1295,9 +1955,73 @@
         "kind": "section",
         "index": 1
       },
+      "zm:20": {
+        "kind": "section",
+        "index": 19
+      },
+      "zm:20:tragedy": {
+        "kind": "chunk",
+        "index": 8
+      },
+      "zm:21": {
+        "kind": "section",
+        "index": 20
+      },
+      "zm:22": {
+        "kind": "section",
+        "index": 21
+      },
+      "zm:23": {
+        "kind": "section",
+        "index": 22
+      },
+      "zm:24": {
+        "kind": "section",
+        "index": 23
+      },
+      "zm:25": {
+        "kind": "section",
+        "index": 24
+      },
+      "zm:25:plan-freedom": {
+        "kind": "chunk",
+        "index": 9
+      },
+      "zm:26": {
+        "kind": "section",
+        "index": 25
+      },
+      "zm:27": {
+        "kind": "section",
+        "index": 26
+      },
+      "zm:28": {
+        "kind": "section",
+        "index": 27
+      },
+      "zm:28:periodicity": {
+        "kind": "chunk",
+        "index": 10
+      },
+      "zm:29": {
+        "kind": "section",
+        "index": 28
+      },
       "zm:3": {
         "kind": "section",
         "index": 2
+      },
+      "zm:30": {
+        "kind": "section",
+        "index": 29
+      },
+      "zm:31": {
+        "kind": "section",
+        "index": 30
+      },
+      "zm:31:so-sein-gleichsein": {
+        "kind": "chunk",
+        "index": 11
       },
       "zm:4": {
         "kind": "section",
@@ -1337,7 +2061,8 @@
       "term:bruchstelle": [],
       "term:da-sein-so-sein": [
         "evidence:term:da-sein-so-sein:zm:4",
-        "evidence:term:da-sein-so-sein:zm:11"
+        "evidence:term:da-sein-so-sein:zm:11",
+        "evidence:term:da-sein-so-sein:zm:31"
       ],
       "term:erdgeschichtlich": [],
       "term:fremde-voegel": [],
@@ -1351,7 +2076,8 @@
       "term:schicksalszeit": [
         "evidence:term:schicksalszeit:zm:4",
         "evidence:term:schicksalszeit:zm:9",
-        "evidence:term:schicksalszeit:zm:13"
+        "evidence:term:schicksalszeit:zm:13",
+        "evidence:term:schicksalszeit:zm:20"
       ],
       "term:urgrund": [],
       "term:weltplan": []
@@ -1417,6 +2143,38 @@
           "relation": "grounds",
           "to": "thread:goethe-leibniz-frame",
           "note": "The waxwing passage shows Jünger arguing through image without surrendering structure."
+        }
+      ],
+      "zm:20:tragedy": [
+        {
+          "from": "zm:20:tragedy",
+          "relation": "crystallizes",
+          "to": "thread:time-crisis",
+          "note": "The tragic is distinguished from mere accident precisely by its belonging to fateful rather than measurable time."
+        }
+      ],
+      "zm:25:plan-freedom": [
+        {
+          "from": "zm:25:plan-freedom",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis of measurable order reaches its political edge where the plan tries to contain freedom within techno-economic bookkeeping."
+        }
+      ],
+      "zm:28:periodicity": [
+        {
+          "from": "zm:28:periodicity",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "Flattened rhythms and denied sacrifice do not erase fate's claim; they enlarge catastrophe."
+        }
+      ],
+      "zm:31:so-sein-gleichsein": [
+        {
+          "from": "zm:31:so-sein-gleichsein",
+          "relation": "crystallizes",
+          "to": "thread:time-crisis",
+          "note": "The part closes where time-crisis becomes a conflict between singular form and mass uniformity rather than between astrology and science alone."
         }
       ],
       "zm:9:church-year": [

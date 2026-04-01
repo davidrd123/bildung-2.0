@@ -9,8 +9,7 @@ const state = {
   sectionFilter: "",
   termFilter: "",
   globalSearch: "",
-  showGerman: true,
-  showEnglish: true,
+  viewMode: "split",
   loadError: null,
 };
 
@@ -20,8 +19,9 @@ const el = {
   jumpResults: document.querySelector("#jump-results"),
   sectionFilter: document.querySelector("#section-filter"),
   termFilter: document.querySelector("#term-filter"),
-  toggleGerman: document.querySelector("#toggle-german"),
-  toggleEnglish: document.querySelector("#toggle-english"),
+  modeGerman: document.querySelector("#mode-german"),
+  modeSplit: document.querySelector("#mode-split"),
+  modeEnglish: document.querySelector("#mode-english"),
   sectionNav: document.querySelector("#section-nav"),
   sectionPanel: document.querySelector("#section-panel"),
   termList: document.querySelector("#term-list"),
@@ -44,22 +44,9 @@ el.termFilter.addEventListener("input", (event) => {
   state.termFilter = event.target.value.trim().toLowerCase();
   renderTermList();
 });
-el.toggleGerman.addEventListener("click", () => {
-  state.showGerman = !state.showGerman;
-  if (!state.showGerman && !state.showEnglish) {
-    state.showEnglish = true;
-  }
-  renderSectionDetail();
-  renderModeButtons();
-});
-el.toggleEnglish.addEventListener("click", () => {
-  state.showEnglish = !state.showEnglish;
-  if (!state.showGerman && !state.showEnglish) {
-    state.showGerman = true;
-  }
-  renderSectionDetail();
-  renderModeButtons();
-});
+el.modeGerman.addEventListener("click", () => setViewMode("german"));
+el.modeSplit.addEventListener("click", () => setViewMode("split"));
+el.modeEnglish.addEventListener("click", () => setViewMode("english"));
 
 init();
 
@@ -192,8 +179,15 @@ function renderDatasetStats() {
 }
 
 function renderModeButtons() {
-  el.toggleGerman.classList.toggle("is-active", state.showGerman);
-  el.toggleEnglish.classList.toggle("is-active", state.showEnglish);
+  el.modeGerman.classList.toggle("is-active", state.viewMode === "german");
+  el.modeSplit.classList.toggle("is-active", state.viewMode === "split");
+  el.modeEnglish.classList.toggle("is-active", state.viewMode === "english");
+}
+
+function setViewMode(mode) {
+  state.viewMode = mode;
+  renderSectionDetail();
+  renderModeButtons();
 }
 
 function renderJumpResults() {
@@ -370,15 +364,11 @@ function renderSectionDetail() {
       </div>
     </header>
 
+    ${renderSectionCommentary(sectionThreads)}
+
     ${renderParallelText(section)}
 
     <section class="support-grid">
-      ${renderArtifactBlock(
-        "Commentary Threads",
-        sectionThreads,
-        renderThreadTouchpointCard,
-        "No commentary threads touch this section directly yet.",
-      )}
       ${renderArtifactBlock("Named Chunks", sectionChunks, renderChunkCard, "No named chunks yet.")}
       ${renderArtifactBlock("Notes", sectionNotes, renderNoteCard, "No section notes attached.")}
       ${renderArtifactBlock(
@@ -397,6 +387,26 @@ function renderSectionDetail() {
   `;
 }
 
+function renderSectionCommentary(threads) {
+  if (!threads.length) {
+    return `
+      <section class="section-commentary detail-block">
+        <h3>Commentary Threads</h3>
+        <div class="empty-state">No commentary threads touch this section directly yet.</div>
+      </section>
+    `;
+  }
+
+  return `
+    <section class="section-commentary detail-block">
+      <h3>Commentary Threads</h3>
+      <div class="artifact-list">
+        ${threads.map(renderThreadTouchpointCard).join("")}
+      </div>
+    </section>
+  `;
+}
+
 function renderParallelText(section) {
   const deParagraphs = section.de_paragraphs ?? splitParagraphs(section.de);
   const enParagraphs = section.en_paragraphs ?? splitParagraphs(section.en);
@@ -407,8 +417,12 @@ function renderParallelText(section) {
     row_count: Math.max(deParagraphs.length, enParagraphs.length),
   };
   const languages = [
-    state.showGerman ? { key: "de", label: "German Source", paragraphs: deParagraphs } : null,
-    state.showEnglish ? { key: "en", label: "English Draft", paragraphs: enParagraphs } : null,
+    state.viewMode !== "english"
+      ? { key: "de", label: "German Source", paragraphs: deParagraphs }
+      : null,
+    state.viewMode !== "german"
+      ? { key: "en", label: "English Draft", paragraphs: enParagraphs }
+      : null,
   ].filter(Boolean);
 
   const columnCount = languages.length || 1;
@@ -533,23 +547,55 @@ function renderRelationCard(relation) {
 }
 
 function collectSectionThreads(relations) {
-  const seen = new Set();
-  const threads = [];
+  const grouped = new Map();
 
   for (const relation of relations) {
     for (const handle of [relation.from, relation.to]) {
       const resolved = resolveHandle(handle);
-      if (resolved?.kind === "thread" && !seen.has(handle)) {
-        seen.add(handle);
-        threads.push(resolved.item);
+      if (resolved?.kind !== "thread") {
+        continue;
       }
+
+      const existing = grouped.get(handle) ?? {
+        thread: resolved.item,
+        touches: [],
+      };
+
+      existing.touches.push({
+        from: relation.from,
+        to: relation.to,
+        relation: relation.relation,
+        note: relation.note,
+      });
+
+      grouped.set(handle, existing);
     }
   }
 
-  return threads;
+  return Array.from(grouped.values());
 }
 
-function renderThreadTouchpointCard(thread) {
+function renderThreadTouchpointCard(entry) {
+  const { thread, touches } = entry;
+  const touchMarkup = touches.length
+    ? `
+      <div class="thread-touch-list">
+        ${touches
+          .map(
+            (touch) => `
+              <div class="thread-touch">
+                <div class="relation-line">
+                  ${handleButton(touch.from)} <small>${escapeHtml(touch.relation)}</small> ${handleButton(touch.to)}
+                </div>
+                <p>${escapeHtml(touch.note ?? "")}</p>
+              </div>
+            `,
+          )
+          .join("")}
+      </div>
+    `
+    : "";
+
   return `
     <article class="artifact-card ${state.focusHandle === thread.handle ? "is-focus" : ""}">
       <div class="handle-row">
@@ -558,6 +604,7 @@ function renderThreadTouchpointCard(thread) {
       </div>
       <h3>${escapeHtml(thread.title ?? thread.handle)}</h3>
       <p>${escapeHtml(thread.note ?? "")}</p>
+      ${touchMarkup}
       <div class="artifact-meta">${escapeHtml(thread.file ?? "")}</div>
     </article>
   `;

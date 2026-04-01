@@ -538,6 +538,16 @@ input {
   font-size: 0.98rem;
 }
 
+.section-commentary {
+  border-color: rgba(13, 92, 99, 0.24);
+  background:
+    linear-gradient(135deg, rgba(13, 92, 99, 0.08), rgba(255, 250, 240, 0.96));
+}
+
+.section-commentary h3 {
+  color: var(--accent);
+}
+
 .context-column {
   display: grid;
   gap: 1rem;

@@ -183,6 +183,56 @@ Decision for now:
 - add evidence where the text itself sharpens an existing choice
 - hold off on new glossary entries until recurrence becomes structural rather than merely striking
 
+## 2026-04-01 - Happiness, Omen, and the Plan
+
+Translated `§§23-25` under `parts/08-messbare-und-schicksalszeit.md`.
+
+What this batch clarified:
+
+- the distinction in `Meßbare und Schicksalszeit` now governs happiness-loss under measurable order, omen-like decision, insurance, and plan-management
+- `Glück` is now clearly a contextual pressure point rather than a stable glossary candidate: `§23` wants `happiness`, while `§25` moves among `happy`, `fortune`, and `luck`
+- `§24` states the central contrast almost diagrammatically as `two conceptions of time`; `ex diris` and `augurium` should therefore remain Latinized
+- `§25` sharpens the political edge of the part: the plan fears not only error or counterargument, but any immediate language of freedom that can move outside system and proof
+
+Decision for now:
+
+- keep the batch size at three sections
+- make no new glossary entries yet
+- if the `Glück` pressure returns in `§§26-28` or later, treat it first as a local cluster or thread problem rather than forcing a single term entry too early
+
+## 2026-04-01 - Revolution from Below and Periodicity
+
+Translated `§§26-28` under `parts/09-messbare-und-schicksalszeit.md`.
+
+What this batch clarified:
+
+- the return of astrology is now framed less as uncertainty than as dissatisfaction and latent revolt inside the dominant order; `§26` makes this explicit by calling it revolutionary and `from below`
+- `§27` sharpens the truth-problem: astrology may not count as `true` now, yet it may later `become true` if the `inner optics` of an age change
+- `§28` turns the argument from individual horoscope toward periodicity, sacrifice, flattened rhythms, acceleration, and catastrophe; this strengthens the broader `time-crisis` thread more than the narrower astrology problem
+- `Zwischenfeld`, `Großjahr`, and `Schicksalsanspruch` are now real pressure points, but they still need recurrence before they deserve glossary promotion
+
+Decision for now:
+
+- keep the batch size at three sections
+- make no new glossary entries yet
+- if `Großjahr` or `Schicksalsanspruch` recur in `§§29-31`, promote them only if they prove structurally necessary for closing the part
+
+## 2026-04-01 - Mass Fate, So-Sein, and Leviathan
+
+Translated `§§29-31` under `parts/10-messbare-und-schicksalszeit.md`, completing Part 2.
+
+What this batch clarified:
+
+- `So-Sein` is now decisively structural in the part. `§29` grounds it in habitus and choice of element; `§31` sets it directly against `Gleichsein`
+- astrology is defended here less as forecast than as a shorthand for singularity, dignity, and non-uniform pattern against mass fate
+- `§31` closes the part by naming the real counterforce at stake: not liberal individualism, but a deeper resistance to Leviathan and uniformization
+- the transition into `AN DER ZEITMAUER / HUMANE EINTEILUNGEN` should remain visible as a real hinge, not just a file boundary
+
+Decision for now:
+
+- treat `Meßbare und Schicksalszeit` as a complete argumentative unit
+- add evidence to `Da-Sein / So-Sein`, but resist broader glossary expansion until the opening of `Humane Einteilungen` shows what actually carries forward
+
 ## 2026-04-01 — Review Notes: Cross-Batch Patterns (§§1-22)
 
 These observations come from reviewing the cumulative arc, not from any single batch. They track patterns the batch-level journal entries don't capture.
@@ -218,3 +268,69 @@ Peter betrays not because he is weak but because a prophecy must be fulfilled. H
 ### The part title's scope has expanded well beyond astrology
 
 By §22 the part is using horoscope-language to think about: character and vocation (§20), tragic necessity (§20), return vs. repetition (§21), fortune as a component of fate distinct from character and will (§22). The astrology argument of §§1-13 was the entry point; the actual subject is the full range of what `Schicksalszeit` names. This is worth noting because it means the second half of the part (§§23-31) will likely push further still — possibly into history, cosmology, or the conditions for the time-wall itself.
+
+## 2026-04-01 — Review Notes: Part 2 Complete (§§4-31)
+
+The entire "Meßbare und Schicksalszeit" is now translated. This review captures what the complete arc reveals that the batch-level entries couldn't.
+
+### The part's argumentative structure is a widening spiral
+
+The part moves through concentric rings of application for the measurable/fateful distinction:
+
+1. **§§4-13** — Astrology as entry point. Chess, games, oracles, the church year, the horoscope as fate-clock. The argument establishes that fateful time is not superstition but a structural feature of experience that measurable time can't capture without destroying.
+2. **§§14-16** — Planning, catastrophe, religion. The plan needs sealing from the fate-side. The Titanic as the model case for the failure of abstract time. The religious instinct as deeper than institutional religion.
+3. **§§17-19** — Science, medicine, epistemic modesty. The intermediate chambers between knowledge and interpretation. The medicine man's office versus the specialist's function. The loss of Kantian modesty. Natura naturata / natura naturans.
+4. **§§20-22** — Character, tragedy, return, fortune. Fateful time disposes over persons (Peter). Return versus repetition. Fortune as the incalculable weft-thread.
+5. **§§23-25** — Happiness, omen, the plan's fear of freedom. Measurable order consumes happiness. The plan fears not counterargument but the musische — art, song, immediate perception.
+6. **§§26-28** — Revolution from below, periodicity, catastrophe. Astrology returns as revolutionary symptom. Flattened rhythms and denied sacrifice enlarge catastrophe rather than preventing it.
+7. **§§29-31** — So-Sein versus Gleichsein, mass fate, Leviathan. The part closes not on astrology but on the deepest political question: whether singular destiny survives the uniformizing pressure of the modern state.
+
+Each ring applies the same distinction to a new domain. The astrology was never the point — it was the thinnest edge of a wedge that by §31 has opened into a civilizational diagnosis.
+
+### Glossary health at Part 2 close
+
+The glossary held up well across 28 sections without bloating:
+
+- `Schicksalszeit` → "fateful time": **confirmed**. Evidence chain across four distinct registers (compound, liturgical, cosmological, tragic). The §§23-31 expansion didn't pressure the rendering — it extended its scope.
+- `mantisch` → "mantic": **confirmed**. Technical usage consistent through §17.
+- `Meßbare und Schicksalszeit` → "Measurable Time and Fateful Time": **confirmed**. "Destinal" was never needed.
+- `der Hinzutretende` → "the one who comes in addition": **confirmed** through §§6-9. Did not recur in §§10-31, suggesting it belongs to the astrology arc specifically.
+- `Da-Sein / So-Sein` → "that-he-is / what-he-is": **strengthened**. §31 extends So-Sein against Gleichsein, making the pair load-bearing for the political argument as well as the metaphysical one.
+- `Bruchstelle`: **still open**. Did not recur in Part 2 in a way that settled it.
+- `An der Zeitmauer`: **still open**. The title-metaphor appeared as section heading between Parts 2 and 3 but not yet as a concept exercised in argument.
+
+No new glossary entries were needed for the entire second half of the part. The discipline of waiting for structural recurrence rather than promoting on first impression proved correct.
+
+### Terms that were pressure points but did not earn glossary entries
+
+These appeared forcefully but locally, without the cross-batch recurrence that would justify promotion:
+
+- `Wiederkehr` / `Wiederholung` (return vs. repetition) — concentrated in §21, not yet structural beyond it
+- `Glück` — context-dependent across §§22-25 (happiness, fortune, luck); a translation cluster problem, not a single-term problem
+- `Zwischengemächer` (intermediate chambers) — important in §17, but the image rather than the term did the work
+- `Großjahr`, `Zwischenfeld`, `Schicksalsanspruch` — local pressure points in §§26-28
+- `Weltplan` / `Menschenplan` — sharpened by contrast in §17 but did not recur as a pair
+- `Einschuß`, `Glücksseite`, `Schicksalsseite` — textile and directional metaphors that enriched the weaving vocabulary but did not crystallize into glossary-requiring terms
+
+If any of these recur in "Humane Einteilungen," they earn promotion. If they don't, they were local.
+
+### The textile thread confirmed
+
+The §§1-22 review noted the weaving vocabulary as becoming structural. §§23-31 confirmed it:
+
+- `§25`: insurance and the plan as fabric that must be woven tightly enough
+- `§28`: flattened rhythms as damaged textile — the warp without the weft
+
+The warp/weft model holds: measurable time is the regular structure, fateful time is the qualitative pattern-thread. This deserves a thread dossier if it continues into Part 3.
+
+### What the texts taught about method in §§23-31
+
+- `§25`: the deepest threat to the plan is not argument but an immediate language of freedom — song, art, musische perception. This is a finding about why translation and commentary matter: they are musische practices that resist the plan's monopoly on meaning.
+- `§27`: truth may "become true" if the inner optics of an age change. This is a finding about deferred structure: holding a term open is not agnosticism but readiness for a shift in perceptual conditions.
+- `§31`: singularity and dignity resist uniformization not through argument but through form. This is a finding about the project's own counterforce: the careful, particular, patient practice of translation is itself a form of So-Sein against Gleichsein.
+
+### What to expect from "Humane Einteilungen" (§§32-84)
+
+Part 3 is more than twice the length of Part 2. The title suggests a shift from cosmic and metaphysical time-keeping toward the human institutions that divide and organize time — calendars, ages, historical periodizations. The terms most likely to carry forward: `Schicksalszeit`, `So-Sein`, the textile vocabulary, and whatever `An der Zeitmauer` means when it finally becomes a load-bearing concept rather than just a title. The terms most likely to drop away: the astrology-specific vocabulary (`Hinzutretende`, `mantisch`, `Horoskop`) unless they're transformed.
+
+The batch size may need to flex. Part 2's three-section rhythm worked well for 28 sections of medium density. Part 3 has 53 sections — if the density changes, the batch size should follow the argument rather than a fixed number.
