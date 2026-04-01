@@ -602,6 +602,29 @@ Decisions:
 - extend `thread:time-crisis` through `§54`, where the crisis becomes a light-question rather than a simple contest between history and myth
 - keep `Wiederkehr`, `Hochgrad`, and `geschichtsbildende Kraft` in the journal layer for now
 
+## 2026-04-01 — Contextualization: An der Zeitmauer in the Anglo Landscape
+
+This note records what the translation is gaining relative to comparable works in English, based on 55 translated sections.
+
+### The nearest Anglo comparators (all published within a decade of the 1959 original)
+
+- **Mumford** (*Technics and Civilization*, 1934; *The Myth of the Machine*, 1967/70) — closest on the clock-time diagnosis. Both see measurable time as civilizational infrastructure, not neutral backdrop. But Mumford is a pragmatist who thinks reform is possible; Jünger is a metaphysician who thinks only a leap through the time wall reaches what's needed.
+- **Heidegger** ("The Question Concerning Technology," 1953) — closest intellectual neighbor. Adjacent territory: technology as Gestell, reduction to standing reserve. But Heidegger works through etymological excavation; Jünger works through concrete analogy. Heidegger tells you what Being does. Jünger shows you through waxwings and chess games and vertebrae.
+- **Eliade** (*The Sacred and the Profane*, 1957) — closest on qualitative time. Sacred vs. profane maps onto Schicksalszeit vs. meßbare Zeit. But Eliade is descriptive (what archaic societies had). Jünger is diagnostic (what modernity is losing and what might come next).
+- **Kuhn** (*The Structure of Scientific Revolutions*, 1962) — closest on paradigm discontinuity. But Kuhn stays within the history of science; Jünger applies the same insight to civilizational time itself.
+- **McLuhan** (*Understanding Media*, 1964) — closest on media as perceptual environment. But McLuhan stays technological; Jünger goes metaphysical.
+- **Jaspers** (*The Origin and Goal of History*, 1949) — closest on civilizational thresholds. But Jaspers names a past threshold (the Axial Age); Jünger names a present one (the time wall).
+
+### What exists nowhere in English
+
+No single Anglo work holds together: argument-through-image (Goethean morphology applied to civilizational diagnosis), the textile model of temporal intersection (warp/weft as measurable/fateful), the Hinzutretende (the interpreter who adds meaning without adding facts), the naming crisis (future things arriving before their names), and the time wall as present ontological threshold — all in a single sustained argument.
+
+Each element exists somewhere in the scattered Anglo tradition. The combination does not. The translation is recovering a *position*, not just a text.
+
+### What this means for the project
+
+The bildung-2.0 claim — that important texts were institutionally buried, not merely neglected — is confirmed by the specific content of what's being recovered. Jünger's position (neither progressivist nor primitivist, neither Spenglerian pessimist nor techno-optimist, standing at a present threshold and describing what can be seen from there) occupies a space that the Anglo tradition left empty after 1945. The emptiness wasn't accidental; it was the cost of the post-war institutional sorting the origin conversation diagnosed.
+
 ## 2026-04-01 — Review Notes: §§53-55 (Bruchstelle Returns)
 
 ### `Bruchstelle` finally has a chain — and it confirms the `open` status
@@ -628,3 +651,23 @@ Both sentences say the same thing from different angles: the real movement happe
 ### Glossary at §55
 
 Still 12 terms for 55 sections. `Bruchstelle` gained evidence without changing status — the right outcome. No new entries promoted. The pressure-point list grows (`Wiederkehr`, `Hochgrad`, `geschichtsbildende Kraft`, `Optik`, `Geschichtswahrung`), but none has yet crossed the threshold of cross-batch structural recurrence that would justify promotion over the existing 12.
+
+## 2026-04-01 — Prehistory, Primal History, and the Golden Age
+
+Translated `§§56-58` under `parts/19-humane-einteilungen.md`.
+
+This batch widens Part 3 from the end of history into the instability of prehistory itself. `§56` asks why prehistoric art becomes visible precisely now and explicitly says that the question leads to the `Bruchstelle`. `§57` then shows that `prehistory` is not a neutral chronological label but a category produced by the historical spirit's own gaze. `§58` moves underneath both history and myth into `Urgeschichte`, the Golden Age, and the power of `Urbild` and `Vorbild`.
+
+Working observations:
+
+- `§56` is the structural center of the batch. The sudden visibility of cave art is not treated as a mere accumulation of finds but as a symptom of our own temporal position. Discovery itself becomes evidence of the fracture point.
+- `Bruchstelle` now has a third, distinct force: in `§1` it was a found site, in `§54` a wound-edge, and in `§56` the point where the timing of our own discoveries becomes suspicious. That confirms the value of leaving the English open while the evidence thickens.
+- `§57` is a strong companion to the naming sections. Just as future things arrive before settled names can catch them, so `prehistory` itself is already shaped by the history-forming power that names it. The categories are not neutral containers.
+- `§58` introduces a serious new cluster - `Urgeschichte`, `Urbild`, `Vorbild`, Golden Age - but this is still first concentrated exposure rather than tested recurrence. It belongs in the journal layer first.
+- The humane/heroic contrast at the end of `§58` is important: humane ideals prevail not because they are modern, but because they reach further down, nearer the core of the human race. That is a major finding for the project's own language of formation.
+
+Decisions:
+
+- extend `Bruchstelle` with `§56` rather than adding new concept entries
+- extend `thread:time-crisis` through `§56`, where discovery itself becomes a sign that the historical field may already have been left
+- keep `Urgeschichte`, `Urbild`, `Vorbild`, and `geschichtsbildende Macht` in the journal layer for now
