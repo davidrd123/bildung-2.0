@@ -396,6 +396,23 @@ Decision for now:
 - extend `Schicksalszeit` with `§38` as a Part 3 methodological confirmation
 - avoid further glossary growth until either `Optik` recurs again or a new carrier term stabilizes across multiple batches
 
+## 2026-04-01 - Turnus, End-Time, and Two Houses
+
+Translated `§§41-43` under `parts/14-humane-einteilungen.md`.
+
+What this batch clarified:
+
+- `§41` makes explicit that historical turnus may be real and still too short to register what is changing; years can continue chronologically while changing in essence
+- `§42` rejects the simple diagnosis of `Spätzeit` and instead describes an unusual caesura in which end-time fear and sacrificial jubilation coexist
+- `§43` gives one of the clearest Part 3 formulations yet of the difference between historical and fateful time: two formations may be historically similar and yet, in `Schicksalszeit`, different from the ground up
+- the part is now edging unmistakably toward the time-wall boundary, where morphology and historical comparison cease to be sufficient guides
+
+Decision for now:
+
+- keep the batch size at three
+- extend `Schicksalszeit` with `§43` as a Part 3 historical-time confirmation
+- still hold off on new glossary entries; the existing carrier terms continue to do the real work
+
 ## 2026-04-01 — Review Notes: §§35-37 (Spengler Convergence)
 
 ### The three threads converge on a single problem
@@ -447,3 +464,29 @@ This is the clearest single statement of what the part title names. Measurable a
 ### Glossary health
 
 The discipline continues to hold. `Schicksalszeit` gained its fifth evidence point (zm:38). `Weltplan` gained evidence handles at zm:17 and zm:37 — it now has a proper chain. `Hinzutretende` extended to zm:36 with the physiognomic-prophetic widening noted. `Humane Einteilungen` note extended through §§32-40. No new concept entries. The glossary is 12 terms for 40 sections — lean and justified.
+
+## 2026-04-01 — Review Notes: §§41-43 (Approaching the Time-Wall)
+
+### §41 is the longest and most complex section translated so far
+
+It deserves attention beyond the batch entry because it contains several structurally important moves:
+
+**The vertebrae image.** "We can count the vertebrae of an animal without noticing that here they make up part of the skull and there part of the spine or tail skeleton. The more mechanically we count, the less we notice transitions of this kind. Something similar holds for the change of fateful time beneath chronology." This is a `[visual candidate]` — a diagram showing chronological years as vertebrae, with invisible transitions between skull/spine/tail marking qualitative changes in fateful time. It's also a finding about method: mechanical counting (handles, evidence chains, section numbers) can miss qualitative transitions if the counter isn't watching for them.
+
+**The border-dweller image.** "A border-dweller can with a single step leave not only his room but his house and even his country." Multiple timescales can elapse simultaneously — a decade, a millennium, a ten-thousand-year cycle. This is Jünger's version of what the hylozoism/Barrett conversation called "multiple cognitive frameworks constituting different experiences of the same event." The same historical facts (the years 1940-1960) might belong to radically different temporal orders depending on which turnus you're measuring.
+
+**The final sentence echoes the part title's core claim.** "They follow one another, but they no longer resemble one another." This is the same formulation from §9 (the church year: "its hours follow one another but are not alike") and §13 (the fate-clock: "the hours follow one another without being alike"). The formula has now appeared three times across Parts 2 and 3. It's becoming Jünger's definition of qualitative time.
+
+### §43's "two houses" is a crystallization event
+
+"Two houses that are similar in historical time yet radically different in fateful time" — this closes the Spengler argument. Roman roads and autobahns share a morphological signature (late-time infrastructure), but in Schicksalszeit they belong to fundamentally different orders. Morphology sees the resemblance; it cannot see the difference. This is the limit that §§35-37 diagnosed (pure comparison creates relations, not standards) now stated as a concrete example.
+
+The `zm:43:two-houses` anchor correctly crystallizes `thread:time-crisis` because it's the point where Jünger stops diagnosing the insufficiency of historical comparison and states what would be needed instead: a kind of seeing that grasps fateful-time differences beneath historical-time similarities. That's the gaze the time-wall demands.
+
+### §42's diagnosis applies to the project itself
+
+"On the one hand they are seen not as late-time but as end-time; on the other they are greeted with a jubilation, a readiness for sacrifice, that cannot be explained." The project's own situation — recovering buried texts in an age of AI-mediated knowledge — has this double character. The tradition's burial could be read as terminal (end-time), or the recovery tools now available could be read as unprecedented opportunity (sacrificial jubilation). Jünger says both together point to "an unusual caesura." The project should hold both readings without collapsing into either.
+
+### `[visual candidate]` Vertebrae diagram
+
+§41's vertebrae image: chronological years as vertebrae along a spine, with invisible transition points where the bones pass from skull to spine to tail — marking qualitative changes in fateful time that mechanical counting misses. Simpler than the warp/weft diagram but equally important: it shows that continuous sequence can mask discontinuous essence.
