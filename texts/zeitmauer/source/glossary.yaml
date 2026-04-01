@@ -10,7 +10,9 @@
     - "On the Time Wall"
     - "By the Time Wall"
   status: open
-  notes: "Keep the German title at project level until the metaphor settles across later sections."
+  evidence:
+    - "evidence:term:an-der-zeitmauer:zm:48"
+  notes: "Keep the German title at project level until the metaphor settles across later sections. §48 is the first explicit internal occurrence and makes the image spatial and dangerous at once: the future outlines itself beyond the time wall, and naming that zone is itself risky."
 
 - term: "Fremde Vögel"
   handle: "term:fremde-voegel"
@@ -39,7 +41,7 @@
     - "Human Classifications"
     - "Human Orderings"
   status: tentative
-  notes: "Working after §§32-46. `Humane` here means human rather than ethically `humane`; the part opens with divisions of world-time, history, and natural order, then moves into Spengler, morphology, world-plan, and the limits of pure historical judgment, sharpens the difference between historical time and `Schicksalszeit`, and now widens further into earth-history, prehistory, and the dawning of historical consciousness rather than into gentleness or moral cultivation."
+  notes: "Working after §§32-52. `Humane` here means human rather than ethically `humane`; the part opens with divisions of world-time, history, and natural order, then moves into Spengler, morphology, world-plan, and the limits of pure historical judgment, sharpens the difference between historical time and `Schicksalszeit`, widens into earth-history, prehistory, and the dawning of historical consciousness, reaches the preservation and injury of historical man, and now turns toward mythic return, naming-crisis, sacrifice, and the waning of the hero rather than toward gentleness or moral cultivation."
 
 - term: "Schicksalszeit"
   handle: "term:schicksalszeit"
@@ -137,4 +139,5 @@
     - "evidence:term:da-sein-so-sein:zm:4"
     - "evidence:term:da-sein-so-sein:zm:11"
     - "evidence:term:da-sein-so-sein:zm:31"
-  notes: "Keep the pair visibly Germanic. §11 makes `So-Sein` load-bearing; §31 extends it into the contrast with `Gleichsein`, dignity, and resistance to uniform abstraction. `Existence / essence` is too Latinate and collapses a distinction Jünger is deliberately not naming that way."
+    - "evidence:term:da-sein-so-sein:zm:49"
+  notes: "Keep the pair visibly Germanic. §11 makes `So-Sein` load-bearing; §31 extends it into the contrast with `Gleichsein`, dignity, and resistance to uniform abstraction; §49 extends it further into the nomos and dignity of historical man. `Existence / essence` is too Latinate and collapses a distinction Jünger is deliberately not naming that way."

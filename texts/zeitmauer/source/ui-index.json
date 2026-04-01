@@ -1,19 +1,19 @@
 {
   "project": "zeitmauer",
-  "scope": "pilot-translated-range-1-46",
+  "scope": "pilot-translated-range-1-52",
   "source_files": {
     "sections": "texts/zeitmauer/source/sections.yaml",
     "glossary": "texts/zeitmauer/source/glossary.yaml",
     "handles": "texts/zeitmauer/source/handles.yaml"
   },
   "counts": {
-    "sections": 46,
+    "sections": 52,
     "terms": 12,
-    "chunks": 17,
-    "notes": 18,
+    "chunks": 19,
+    "notes": 20,
     "threads": 3,
-    "evidence": 15,
-    "relations": 18
+    "evidence": 17,
+    "relations": 20
   },
   "sections": [
     {
@@ -1525,6 +1525,196 @@
       },
       "source_file": "texts/zeitmauer/source/sections.yaml",
       "draft_file": "texts/zeitmauer/parts/15-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:47",
+      "id": 47,
+      "label": "§47",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Es fragt sich nun: Hat auch dieses Licht seine Zeit? Stehen wir in einer ähnlichen Wende wie Herodot oder in einer noch bedeutsameren? Sind die Ereignisse, die sich darbieten, nicht mehr auf jene Art verknüpft, die wir gewöhnt sind, Geschichte zu nennen, sondern auf eine andere, die wir noch nicht benannt haben?\n\nDas würde Schwierigkeiten erklären, die sich zunehmend aufdrängen, vor allem das offensichtliche Versagen der Geschichtschreibung gegenüber der Bildflut, die anbrandet. Es liegt nicht am Mangel an begabten Beobachtern, sondern daran, daß immer mehr Figuren und Ereignisse sich nicht in den historischen Rahmen und seine Begriffe einfügen. Aus der Welt verschwindet mit den historischen Bindungen und Landschaften auch das Verhalten, das sich nach geschichtlichen Vorbildern beurteilen und prognostizieren läßt. Daher beginnen auch Wörter trügerisch zu werden, die zum eisernen Bestand des geschichtlichen Handelns und der Verträge gehörten, wie »Krieg« und »Frieden«, »Volk«, »Staat«, »Familie«, »Freiheit«, »Recht«.\n\nIn dieser babylonischen Verwirrung sucht die Geschichtschreibung Anleihen zu machen, sei es bei der Theologie, der Mythologie und Dämonologie, sei es bei der Psychologie und Moral, oder sei es einfach bei der Politik. In der Tat kann man kaum noch ein Buch zur Zeitgeschichte aufschlagen, bei dem nicht sein politischer Standort, und damit mehr Absicht als Ansicht, sogleich durchleuchtet.\n\nEs muß aber dem, der wissen will, was vorgeht, mehr an einer Typologie unserer Welt und ihrer Vorgänge als an ihrer polemischen Beleuchtung gelegen sein.",
+      "en": "The question now is: does this light too have its time? Do we stand at a turn similar to Herodotus's, or at an even more significant one? Are the events presenting themselves no longer linked in the way we are accustomed to call history, but in another way that we have not yet named?\n\nThat would explain difficulties that increasingly press themselves upon us, above all the obvious failure of historiography before the flood of images that is breaking over us. It is not due to a lack of gifted observers, but to the fact that more and more figures and events do not fit into the historical frame and its concepts. Together with historical bonds and landscapes there also vanishes from the world the kind of conduct that can be judged and forecast by historical models. Hence words too begin to grow deceptive that belonged to the iron stock of historical action and treaties, such as `war` and `peace,` `people,` `state,` `family,` `freedom,` `right.`\n\nIn this Babylonian confusion historiography seeks to borrow, whether from theology, mythology, and demonology, or from psychology and morality, or simply from politics. In fact one can scarcely open a book on contemporary history in which its political standpoint, and thus more intention than view, does not at once shine through.\n\nBut the one who wants to know what is going on must care more for a typology of our world and its processes than for their polemical illumination.",
+      "de_paragraphs": [
+        "Es fragt sich nun: Hat auch dieses Licht seine Zeit? Stehen wir in einer ähnlichen Wende wie Herodot oder in einer noch bedeutsameren? Sind die Ereignisse, die sich darbieten, nicht mehr auf jene Art verknüpft, die wir gewöhnt sind, Geschichte zu nennen, sondern auf eine andere, die wir noch nicht benannt haben?",
+        "Das würde Schwierigkeiten erklären, die sich zunehmend aufdrängen, vor allem das offensichtliche Versagen der Geschichtschreibung gegenüber der Bildflut, die anbrandet. Es liegt nicht am Mangel an begabten Beobachtern, sondern daran, daß immer mehr Figuren und Ereignisse sich nicht in den historischen Rahmen und seine Begriffe einfügen. Aus der Welt verschwindet mit den historischen Bindungen und Landschaften auch das Verhalten, das sich nach geschichtlichen Vorbildern beurteilen und prognostizieren läßt. Daher beginnen auch Wörter trügerisch zu werden, die zum eisernen Bestand des geschichtlichen Handelns und der Verträge gehörten, wie »Krieg« und »Frieden«, »Volk«, »Staat«, »Familie«, »Freiheit«, »Recht«.",
+        "In dieser babylonischen Verwirrung sucht die Geschichtschreibung Anleihen zu machen, sei es bei der Theologie, der Mythologie und Dämonologie, sei es bei der Psychologie und Moral, oder sei es einfach bei der Politik. In der Tat kann man kaum noch ein Buch zur Zeitgeschichte aufschlagen, bei dem nicht sein politischer Standort, und damit mehr Absicht als Ansicht, sogleich durchleuchtet.",
+        "Es muß aber dem, der wissen will, was vorgeht, mehr an einer Typologie unserer Welt und ihrer Vorgänge als an ihrer polemischen Beleuchtung gelegen sein."
+      ],
+      "en_paragraphs": [
+        "The question now is: does this light too have its time? Do we stand at a turn similar to Herodotus's, or at an even more significant one? Are the events presenting themselves no longer linked in the way we are accustomed to call history, but in another way that we have not yet named?",
+        "That would explain difficulties that increasingly press themselves upon us, above all the obvious failure of historiography before the flood of images that is breaking over us. It is not due to a lack of gifted observers, but to the fact that more and more figures and events do not fit into the historical frame and its concepts. Together with historical bonds and landscapes there also vanishes from the world the kind of conduct that can be judged and forecast by historical models. Hence words too begin to grow deceptive that belonged to the iron stock of historical action and treaties, such as `war` and `peace,` `people,` `state,` `family,` `freedom,` `right.`",
+        "In this Babylonian confusion historiography seeks to borrow, whether from theology, mythology, and demonology, or from psychology and morality, or simply from politics. In fact one can scarcely open a book on contemporary history in which its political standpoint, and thus more intention than view, does not at once shine through.",
+        "But the one who wants to know what is going on must care more for a typology of our world and its processes than for their polemical illumination."
+      ],
+      "paragraph_alignment": {
+        "de_count": 4,
+        "en_count": 4,
+        "aligned": true,
+        "row_count": 4
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/16-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:48",
+      "id": 48,
+      "label": "§48",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Die groben Einbrüche, die an vielen Stellen die Geschichtslandschaften in elementare verwandeln, verhüllen Veränderungen feinerer, aber durchdringenderer Art. Bedenklicher ist, daß sich der Mensch in seinem Wesen, als Wesen, zu verändern beginnt. Es tritt etwas Neues und Fremdartiges in ihn ein, und zwar generell, über Nationen, Rassen und Bildungsstufen hinweg, auf planetarische Art. Diese Veränderungen sind unsichtbarer als die der Technik, obwohl sie mit ihr zusammenhängen, und sind ursächlicher.\n\nNun ist es freilich eine der ältesten Feststellungen, daß der Mensch sich verändert, und es hat wohl kaum eine Generation gegeben, die das nicht verkündete. Veränderungen sind auch immer vorhanden, wenngleich sie meist überschätzt werden, in negativer Richtung von den Alten, in positiver von den »Kommenden«.\n\nHier handelt es sich jedoch um anderes, um mehr als einen bloßen Stilwechsel, auch wenn man das Wort »Kostüm« im weitesten Sinne begreift. Von Jahr zu Jahr wird beklemmender, mächtiger spürbar, daß Dinge im Werden sind, vor denen auch Ben Akiba erstaunen würde – eben deshalb, weil sie im Geschichtlichen nicht unterzubringen sind. Das eben bezeugt auch die Tatsache der astrologischen Beunruhigung, von der wir ausgegangen sind. Daß Millionen ihr Horoskop verfolgen, mag als Faktum unwichtig sein. Das ändert wenig oder nichts, Höchst aufschlußreich dagegen ist es als Symptom.\n\nWenn wir annehmen, daß wir uns am Abschluß eines Zyklus befinden, der die Geschichte, ja vielleicht die menschliche Existenz auf dieser Erde übergreift und daß bereits ein neuer Zeitgroßraum auf den Menschen einwirkt, so dürfen wir folgern, daß Erscheinungen eintreten werden oder bereits eingetreten sind, wie sie geschichtlich oder selbst anthropologisch noch nicht fixiert wurden. Da Erdgeschichte aber die Menschengeschichte weit überdauert, könnte aus ihr als einer umfassenden Kategorie vielleicht Vergleichbares geschöpft werden.\n\nDabei ergibt sich eine nur anzudeutende Schwierigkeit. Es wiederholt sich die Lage des Herodot mit umgekehrten Vorzeichen. Herodot blickte aus dem historischen Raum, den er soeben betreten hatte, auf den mythischen zurück. Er tat es mit Scheu. Die gleiche Scheu ist heute dort geboten, wo sich jenseits der Zeitmauer Zukünftiges abzeichnet. In jeder Benennung schlummert Gefahr.\n\nWo Herodot sich, etwa während seiner Reise nach Ägypten, in die Mysterien, die noch überall begangen wurden, einweihen ließ, erwähnt er die Tatsache, aber verschweigt, was er erfahren hat. Das Mythische ist eine Macht für ihn, die sich in die Heiligtümer zurückgezogen hat, doch deren Grenzen zu beachten sind.\n\nÜbrigens setzt sich dieses Verhältnis, wenn nicht in der späteren Geschichtschreibung, so doch in der Geschichte fort. Die Bilder, Personen, Ereignisse im Geschichtsfeld sind immer in Gefahr, vom Mythos angestrahlt und überwältigt zu werden, und das gerade in Augenblicken, in denen das Historische zu kulminieren scheint.\n\nEine der großen Anstrengungen der nachherodotischen, also der abendländischen Kultur im weiteren (nicht im Spenglerschen) Sinne besteht daher in der Wahrung ihrer geschichtlichen Struktur, sei es der des Staates, des Denkens oder der Person und ihres Freiheitsanspruchs, gegen den Angriff mythischer Mächte und ihrer Wiederkehr. Das, und nicht der Kampf zwischen Nationen und Wirtschaftsformen, gehört zur wesentlichen Erfassung des Abschnittes, der hinter uns liegt. Von Geschichtswahrung, von Geschichtsbewußtsein überhaupt in diesem Sinne, kann nur in ihm die Rede sein.",
+      "en": "The coarse irruptions that in many places transform historical landscapes into elemental ones conceal changes of a subtler but more penetrating kind. More troubling is that man is beginning to change in his very being, as a being. Something new and strange enters into him, and this generally, across nations, races, and levels of education, on a planetary scale. These changes are less visible than those of technology, although they are connected with it, and are more causal.\n\nNow it is admittedly one of the oldest observations that man changes, and there has scarcely been a generation that did not proclaim it. Changes are always present too, though they are usually overestimated, in a negative direction by the old, in a positive one by the `coming ones.`\n\nHere, however, something else is at issue, more than a mere change of style, even if one understands the word `costume` in the widest sense. From year to year it is felt more oppressively, more powerfully, that things are coming into being before which even Ben Akiba would be astonished - precisely because they cannot be accommodated within the historical. This too is attested by the fact of astrological disquiet from which we set out. That millions follow their horoscope may as a fact be unimportant. That changes little or nothing; by contrast it is highly revealing as a symptom.\n\nIf we assume that we find ourselves at the end of a cycle that exceeds history, indeed perhaps human existence on this earth, and that a new great temporal realm is already acting upon man, then we may infer that phenomena will enter, or have already entered, of a kind not yet fixed historically or even anthropologically. But since earth-history far outlasts human history, perhaps comparable things could be drawn from it as from a more comprehensive category.\n\nAt this point a difficulty arises that can only be indicated. The situation of Herodotus repeats itself with reversed signs. Herodotus looked back from the historical space he had just entered into the mythic. He did so with awe. The same awe is required today where the future begins to outline itself beyond the time wall. In every act of naming danger slumbers.\n\nWhere Herodotus, for example during his journey to Egypt, let himself be initiated into the mysteries that were still being celebrated everywhere, he mentions the fact but conceals what he learned. The mythic is for him a power that has withdrawn into the sanctuaries, yet one whose boundaries must be respected.\n\nMoreover, this relation continues, if not in later historiography, then at least in history itself. The images, persons, and events in the historical field are always in danger of being irradiated and overwhelmed by myth, and precisely at moments when the historical seems to culminate.\n\nOne of the great exertions of post-Herodotean, that is, of Western culture in the broader sense (not Spengler's), therefore consists in preserving its historical structure, whether that of the state, of thought, or of the person and his claim to freedom, against the assault of mythic powers and their return. That, and not the struggle between nations and economic forms, belongs to the essential grasp of the period behind us. Only within it can there be talk of preserving history, of historical consciousness at all in this sense.",
+      "de_paragraphs": [
+        "Die groben Einbrüche, die an vielen Stellen die Geschichtslandschaften in elementare verwandeln, verhüllen Veränderungen feinerer, aber durchdringenderer Art. Bedenklicher ist, daß sich der Mensch in seinem Wesen, als Wesen, zu verändern beginnt. Es tritt etwas Neues und Fremdartiges in ihn ein, und zwar generell, über Nationen, Rassen und Bildungsstufen hinweg, auf planetarische Art. Diese Veränderungen sind unsichtbarer als die der Technik, obwohl sie mit ihr zusammenhängen, und sind ursächlicher.",
+        "Nun ist es freilich eine der ältesten Feststellungen, daß der Mensch sich verändert, und es hat wohl kaum eine Generation gegeben, die das nicht verkündete. Veränderungen sind auch immer vorhanden, wenngleich sie meist überschätzt werden, in negativer Richtung von den Alten, in positiver von den »Kommenden«.",
+        "Hier handelt es sich jedoch um anderes, um mehr als einen bloßen Stilwechsel, auch wenn man das Wort »Kostüm« im weitesten Sinne begreift. Von Jahr zu Jahr wird beklemmender, mächtiger spürbar, daß Dinge im Werden sind, vor denen auch Ben Akiba erstaunen würde – eben deshalb, weil sie im Geschichtlichen nicht unterzubringen sind. Das eben bezeugt auch die Tatsache der astrologischen Beunruhigung, von der wir ausgegangen sind. Daß Millionen ihr Horoskop verfolgen, mag als Faktum unwichtig sein. Das ändert wenig oder nichts, Höchst aufschlußreich dagegen ist es als Symptom.",
+        "Wenn wir annehmen, daß wir uns am Abschluß eines Zyklus befinden, der die Geschichte, ja vielleicht die menschliche Existenz auf dieser Erde übergreift und daß bereits ein neuer Zeitgroßraum auf den Menschen einwirkt, so dürfen wir folgern, daß Erscheinungen eintreten werden oder bereits eingetreten sind, wie sie geschichtlich oder selbst anthropologisch noch nicht fixiert wurden. Da Erdgeschichte aber die Menschengeschichte weit überdauert, könnte aus ihr als einer umfassenden Kategorie vielleicht Vergleichbares geschöpft werden.",
+        "Dabei ergibt sich eine nur anzudeutende Schwierigkeit. Es wiederholt sich die Lage des Herodot mit umgekehrten Vorzeichen. Herodot blickte aus dem historischen Raum, den er soeben betreten hatte, auf den mythischen zurück. Er tat es mit Scheu. Die gleiche Scheu ist heute dort geboten, wo sich jenseits der Zeitmauer Zukünftiges abzeichnet. In jeder Benennung schlummert Gefahr.",
+        "Wo Herodot sich, etwa während seiner Reise nach Ägypten, in die Mysterien, die noch überall begangen wurden, einweihen ließ, erwähnt er die Tatsache, aber verschweigt, was er erfahren hat. Das Mythische ist eine Macht für ihn, die sich in die Heiligtümer zurückgezogen hat, doch deren Grenzen zu beachten sind.",
+        "Übrigens setzt sich dieses Verhältnis, wenn nicht in der späteren Geschichtschreibung, so doch in der Geschichte fort. Die Bilder, Personen, Ereignisse im Geschichtsfeld sind immer in Gefahr, vom Mythos angestrahlt und überwältigt zu werden, und das gerade in Augenblicken, in denen das Historische zu kulminieren scheint.",
+        "Eine der großen Anstrengungen der nachherodotischen, also der abendländischen Kultur im weiteren (nicht im Spenglerschen) Sinne besteht daher in der Wahrung ihrer geschichtlichen Struktur, sei es der des Staates, des Denkens oder der Person und ihres Freiheitsanspruchs, gegen den Angriff mythischer Mächte und ihrer Wiederkehr. Das, und nicht der Kampf zwischen Nationen und Wirtschaftsformen, gehört zur wesentlichen Erfassung des Abschnittes, der hinter uns liegt. Von Geschichtswahrung, von Geschichtsbewußtsein überhaupt in diesem Sinne, kann nur in ihm die Rede sein."
+      ],
+      "en_paragraphs": [
+        "The coarse irruptions that in many places transform historical landscapes into elemental ones conceal changes of a subtler but more penetrating kind. More troubling is that man is beginning to change in his very being, as a being. Something new and strange enters into him, and this generally, across nations, races, and levels of education, on a planetary scale. These changes are less visible than those of technology, although they are connected with it, and are more causal.",
+        "Now it is admittedly one of the oldest observations that man changes, and there has scarcely been a generation that did not proclaim it. Changes are always present too, though they are usually overestimated, in a negative direction by the old, in a positive one by the `coming ones.`",
+        "Here, however, something else is at issue, more than a mere change of style, even if one understands the word `costume` in the widest sense. From year to year it is felt more oppressively, more powerfully, that things are coming into being before which even Ben Akiba would be astonished - precisely because they cannot be accommodated within the historical. This too is attested by the fact of astrological disquiet from which we set out. That millions follow their horoscope may as a fact be unimportant. That changes little or nothing; by contrast it is highly revealing as a symptom.",
+        "If we assume that we find ourselves at the end of a cycle that exceeds history, indeed perhaps human existence on this earth, and that a new great temporal realm is already acting upon man, then we may infer that phenomena will enter, or have already entered, of a kind not yet fixed historically or even anthropologically. But since earth-history far outlasts human history, perhaps comparable things could be drawn from it as from a more comprehensive category.",
+        "At this point a difficulty arises that can only be indicated. The situation of Herodotus repeats itself with reversed signs. Herodotus looked back from the historical space he had just entered into the mythic. He did so with awe. The same awe is required today where the future begins to outline itself beyond the time wall. In every act of naming danger slumbers.",
+        "Where Herodotus, for example during his journey to Egypt, let himself be initiated into the mysteries that were still being celebrated everywhere, he mentions the fact but conceals what he learned. The mythic is for him a power that has withdrawn into the sanctuaries, yet one whose boundaries must be respected.",
+        "Moreover, this relation continues, if not in later historiography, then at least in history itself. The images, persons, and events in the historical field are always in danger of being irradiated and overwhelmed by myth, and precisely at moments when the historical seems to culminate.",
+        "One of the great exertions of post-Herodotean, that is, of Western culture in the broader sense (not Spengler's), therefore consists in preserving its historical structure, whether that of the state, of thought, or of the person and his claim to freedom, against the assault of mythic powers and their return. That, and not the struggle between nations and economic forms, belongs to the essential grasp of the period behind us. Only within it can there be talk of preserving history, of historical consciousness at all in this sense."
+      ],
+      "paragraph_alignment": {
+        "de_count": 8,
+        "en_count": 8,
+        "aligned": true,
+        "row_count": 8
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/16-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:49",
+      "id": 49,
+      "label": "§49",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Diese Geschichtswahrung ist das große Thema der abendländischen Kultur. Das unterscheidet sie von allen anderen. Ihr gegenüber wird die Streitfrage, ob Geschichte als Staaten- und Kriegs- oder als Kulturgeschichte im engeren Sinn behandelt werden sollte, zweiten Ranges – das Wesentliche ist die Wahrung eines eigentümlichen Nomos, eines So-Seins, das sich in der Kultur bestätigt, im Kampf verteidigt wird. Es ist die Würde des historischen Menschen, die sich gegen Naturgewalten und Barbarenvölker einerseits, gegen die Wiederkehr mythischer und magischer Mächte andererseits zu behaupten sucht. Diese Würde ist eigentümlich; Bewußtheit, Freiheit, Recht, Personalität durchdringen sich in ihr auf besondere Weise oder strahlen von ihr aus als von einem Urphänomen. Sie bestimmt den Gang der schaffenden und handelnden Menschen, der »Großen«, der Vorbilder in Werken und Taten, und sie begrenzt, was dem leidenden Menschen zugemutet werden darf. Dieses Maß und dieses Maßhalten wird oft verletzt, wird oft vergessen, aber es zieht sich als Höhenlinie, als Maßstab der Menschen und Dinge durch das Massiv des Geschehens, und auch die große Geschichtschreibung setzt sich auf dieser Gratlinie fort.\n\nDas alles tritt sogleich bei Herodot, besonders in seiner Schilderung der Perserkriege, auf das klarste hervor und macht sein Werk zu einer großen Lektüre an einer Wende, an der das So-Sein des historischen Menschen Verletzungen erlitten hat und noch erleidet, die vielleicht nie wieder herzustellen sind.\n\nWir wollen zunächst von Art und Schwere dieser Verletzungen und von der naheliegenden Frage, ob sie heilbar sind oder nicht, absehen und uns mit ihrem Sinn beschäftigen. Im besonderen ist zu erwägen, ob es sich um eine Wiederkehr handelt, etwa um die Wiederkehr mythischer Mächte, die unter Verhüllungen in die zerbröckelnde Geschichtswelt und ihre Lücken eindringen, oder ob diese Möglichkeit ausgeschlossen ist.",
+      "en": "This preservation of history is the great theme of Western culture. That is what distinguishes it from all others. Compared with it, the disputed question whether history ought to be treated as the history of states and wars or as cultural history in the narrower sense becomes secondary - what matters is the preservation of a peculiar nomos, a what-he-is, that confirms itself in culture and is defended in struggle. It is the dignity of historical man that seeks to assert itself against forces of nature and barbarian peoples on the one hand, against the return of mythic and magical powers on the other. This dignity is peculiar; consciousness, freedom, right, and personality interpenetrate within it in a special way, or radiate from it as from an Ur-phenomenon. It determines the course of creating and acting human beings, of the `great,` the exemplars in works and deeds, and it limits what may be demanded of suffering man. This measure and this restraint are often violated, often forgotten, but they run like a contour line, like a standard of human beings and things, through the massif of events, and great historiography too continues along this ridgeline.\n\nAll this emerges with the greatest clarity already in Herodotus, especially in his depiction of the Persian Wars, and makes his work great reading at a turn in which the what-he-is of historical man has suffered injuries, and still suffers injuries, that may never again be repaired.\n\nFor the moment we want to set aside the nature and gravity of these injuries and the obvious question whether they are curable or not, and concern ourselves with their meaning. In particular, one must consider whether this is a recurrence, perhaps the return of mythic powers that, under veils, enter into the crumbling world of history and its gaps, or whether that possibility is excluded.",
+      "de_paragraphs": [
+        "Diese Geschichtswahrung ist das große Thema der abendländischen Kultur. Das unterscheidet sie von allen anderen. Ihr gegenüber wird die Streitfrage, ob Geschichte als Staaten- und Kriegs- oder als Kulturgeschichte im engeren Sinn behandelt werden sollte, zweiten Ranges – das Wesentliche ist die Wahrung eines eigentümlichen Nomos, eines So-Seins, das sich in der Kultur bestätigt, im Kampf verteidigt wird. Es ist die Würde des historischen Menschen, die sich gegen Naturgewalten und Barbarenvölker einerseits, gegen die Wiederkehr mythischer und magischer Mächte andererseits zu behaupten sucht. Diese Würde ist eigentümlich; Bewußtheit, Freiheit, Recht, Personalität durchdringen sich in ihr auf besondere Weise oder strahlen von ihr aus als von einem Urphänomen. Sie bestimmt den Gang der schaffenden und handelnden Menschen, der »Großen«, der Vorbilder in Werken und Taten, und sie begrenzt, was dem leidenden Menschen zugemutet werden darf. Dieses Maß und dieses Maßhalten wird oft verletzt, wird oft vergessen, aber es zieht sich als Höhenlinie, als Maßstab der Menschen und Dinge durch das Massiv des Geschehens, und auch die große Geschichtschreibung setzt sich auf dieser Gratlinie fort.",
+        "Das alles tritt sogleich bei Herodot, besonders in seiner Schilderung der Perserkriege, auf das klarste hervor und macht sein Werk zu einer großen Lektüre an einer Wende, an der das So-Sein des historischen Menschen Verletzungen erlitten hat und noch erleidet, die vielleicht nie wieder herzustellen sind.",
+        "Wir wollen zunächst von Art und Schwere dieser Verletzungen und von der naheliegenden Frage, ob sie heilbar sind oder nicht, absehen und uns mit ihrem Sinn beschäftigen. Im besonderen ist zu erwägen, ob es sich um eine Wiederkehr handelt, etwa um die Wiederkehr mythischer Mächte, die unter Verhüllungen in die zerbröckelnde Geschichtswelt und ihre Lücken eindringen, oder ob diese Möglichkeit ausgeschlossen ist."
+      ],
+      "en_paragraphs": [
+        "This preservation of history is the great theme of Western culture. That is what distinguishes it from all others. Compared with it, the disputed question whether history ought to be treated as the history of states and wars or as cultural history in the narrower sense becomes secondary - what matters is the preservation of a peculiar nomos, a what-he-is, that confirms itself in culture and is defended in struggle. It is the dignity of historical man that seeks to assert itself against forces of nature and barbarian peoples on the one hand, against the return of mythic and magical powers on the other. This dignity is peculiar; consciousness, freedom, right, and personality interpenetrate within it in a special way, or radiate from it as from an Ur-phenomenon. It determines the course of creating and acting human beings, of the `great,` the exemplars in works and deeds, and it limits what may be demanded of suffering man. This measure and this restraint are often violated, often forgotten, but they run like a contour line, like a standard of human beings and things, through the massif of events, and great historiography too continues along this ridgeline.",
+        "All this emerges with the greatest clarity already in Herodotus, especially in his depiction of the Persian Wars, and makes his work great reading at a turn in which the what-he-is of historical man has suffered injuries, and still suffers injuries, that may never again be repaired.",
+        "For the moment we want to set aside the nature and gravity of these injuries and the obvious question whether they are curable or not, and concern ourselves with their meaning. In particular, one must consider whether this is a recurrence, perhaps the return of mythic powers that, under veils, enter into the crumbling world of history and its gaps, or whether that possibility is excluded."
+      ],
+      "paragraph_alignment": {
+        "de_count": 3,
+        "en_count": 3,
+        "aligned": true,
+        "row_count": 3
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/16-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:50",
+      "id": 50,
+      "label": "§50",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "An sich können mythische Mächte in der Geschichtswelt nicht entbehrt werden. Weder der Staat noch die Gesellschaft können rein dem politischen Plan folgen, ob er sich nun als Staatsräson oder als Sozialordnung darstelle.\n\nEs handelt sich dabei nicht um bloße Erinnerungen, wie sie die Heiligtümer und auch die Menschen in ihren Krypten bergen oder von denen die Dichtung zehrt und die von mächtigen Symbolen zu bloßen Allegorien und endlich zu Phrasen abblassen. Mythische Zeit ist in der historischen auch wirklich, etwa in dem Sinne, in dem Bronze auch in der Eisenzeit eine Rolle spielt. Beide sind aber zu trennen wie Ströme, deren Berührung große Wirkung, doch auch Gefahren bringt. In dieser Hinsicht sind, um bei dem erwähnten Beispiel zu bleiben, aufschlußreich die Stellen der Schrift, an denen gesagt wird, daß über den Kultbau »kein Eisen fahren« darf – wie etwa 5. Mose 27,5.\n\nDie mythische Bildwelt ist gegenwärtig, und daher führen ihre Nichtachtung, ihre Verbannung zu wachsender Anstauung und endlich zu Dammbrüchen. Sie muß also innerhalb der Kultur gehegt werden, ja Kultur ist nur möglich, wo diese Hegung wahrgenommen wird. Das Mythische muß seinen besonderen Ort im historischen Raum, seinen besonderen Turnus innerhalb der historischen Zeit haben. Beide fehlen im atheistischen Staatswesen, das ja nicht nur die Götter entthront. Hölderlin hat diese Lücke mit vollkommener Klarheit gesehen und vor der Wiederkehr »uralter Verwirrung« in seinem Gedicht »Der Rhein« gewarnt.\n\nDer große Gewinn, den heute noch die Lektüre des Herodot spendet, liegt nicht nur darin, daß dort Geschichte als ein neues Medium für und zwischen Menschen gesehen wird. Es kommt die Abgrenzung zwischen historischer und mythischer Zeit, zwischen ihren verschiedenen Ansprüchen und den ihnen zu bringenden Opfern hinzu. Der Mythos wird nicht als abgedankte Macht behandelt; er wird gehegt.\n\nHier äußert sich ein Grad von Freiheit, der vorbildlich geblieben ist. Abwegig ist es, ihn als eine noch unvollkommene Befreiung anzusehen. Wie Sokrates für alle Zeiten ein Muster für das Verhalten des geistig freien Menschen bildet, so tritt in Herodot die Würde des historischen Menschen und seine Tugend, »Bestehendes wohl zu achten«, gleich zu Beginn als Vorbild auf. Freiheit und Bindung können nicht ohne einander sein.",
+      "en": "Mythic powers cannot, as such, be dispensed with in the world of history. Neither the state nor society can follow a purely political plan, whether it presents itself as raison d'etat or as social order.\n\nWhat is at issue here is not mere memories such as the sanctuaries - and human beings too in their crypts - harbor, or on which poetry feeds, and which fade from mighty symbols into mere allegories and finally into phrases. Mythic time is truly present in historical time as well, for example in the sense in which bronze still plays a role in the Iron Age. Yet the two must be distinguished like streams whose contact brings great effects, but dangers as well. In this respect, to remain with the example mentioned, illuminating are the passages of Scripture where it is said that no iron may `pass over` the cultic structure - as, for example, in Deuteronomy 27:5.\n\nThe mythic world of images is present, and therefore its disregard, its banishment, leads to growing accumulation and finally to dam-bursts. It must therefore be tended within culture; indeed culture is possible only where this tending is carried out. The mythic must have its special place in historical space, its special turnus within historical time. Both are lacking in the atheistic polity, which does not merely dethrone the gods. Hölderlin saw this gap with complete clarity and warned of the return of `ancient confusion` in his poem `The Rhine.`\n\nThe great gain that reading Herodotus still grants today lies not only in the fact that history is seen there as a new medium for and between human beings. To this is added the demarcation between historical and mythic time, between their different claims and the sacrifices to be brought to them. Myth is not treated as an abdicated power; it is tended.\n\nWhat expresses itself here is a degree of freedom that has remained exemplary. It is misguided to regard it as a liberation not yet perfected. Just as Socrates for all time forms a model for the conduct of the spiritually free man, so in Herodotus the dignity of historical man and his virtue of `holding what endures in due esteem` appear from the very beginning as an exemplar. Freedom and binding cannot exist without one another.",
+      "de_paragraphs": [
+        "An sich können mythische Mächte in der Geschichtswelt nicht entbehrt werden. Weder der Staat noch die Gesellschaft können rein dem politischen Plan folgen, ob er sich nun als Staatsräson oder als Sozialordnung darstelle.",
+        "Es handelt sich dabei nicht um bloße Erinnerungen, wie sie die Heiligtümer und auch die Menschen in ihren Krypten bergen oder von denen die Dichtung zehrt und die von mächtigen Symbolen zu bloßen Allegorien und endlich zu Phrasen abblassen. Mythische Zeit ist in der historischen auch wirklich, etwa in dem Sinne, in dem Bronze auch in der Eisenzeit eine Rolle spielt. Beide sind aber zu trennen wie Ströme, deren Berührung große Wirkung, doch auch Gefahren bringt. In dieser Hinsicht sind, um bei dem erwähnten Beispiel zu bleiben, aufschlußreich die Stellen der Schrift, an denen gesagt wird, daß über den Kultbau »kein Eisen fahren« darf – wie etwa 5. Mose 27,5.",
+        "Die mythische Bildwelt ist gegenwärtig, und daher führen ihre Nichtachtung, ihre Verbannung zu wachsender Anstauung und endlich zu Dammbrüchen. Sie muß also innerhalb der Kultur gehegt werden, ja Kultur ist nur möglich, wo diese Hegung wahrgenommen wird. Das Mythische muß seinen besonderen Ort im historischen Raum, seinen besonderen Turnus innerhalb der historischen Zeit haben. Beide fehlen im atheistischen Staatswesen, das ja nicht nur die Götter entthront. Hölderlin hat diese Lücke mit vollkommener Klarheit gesehen und vor der Wiederkehr »uralter Verwirrung« in seinem Gedicht »Der Rhein« gewarnt.",
+        "Der große Gewinn, den heute noch die Lektüre des Herodot spendet, liegt nicht nur darin, daß dort Geschichte als ein neues Medium für und zwischen Menschen gesehen wird. Es kommt die Abgrenzung zwischen historischer und mythischer Zeit, zwischen ihren verschiedenen Ansprüchen und den ihnen zu bringenden Opfern hinzu. Der Mythos wird nicht als abgedankte Macht behandelt; er wird gehegt.",
+        "Hier äußert sich ein Grad von Freiheit, der vorbildlich geblieben ist. Abwegig ist es, ihn als eine noch unvollkommene Befreiung anzusehen. Wie Sokrates für alle Zeiten ein Muster für das Verhalten des geistig freien Menschen bildet, so tritt in Herodot die Würde des historischen Menschen und seine Tugend, »Bestehendes wohl zu achten«, gleich zu Beginn als Vorbild auf. Freiheit und Bindung können nicht ohne einander sein."
+      ],
+      "en_paragraphs": [
+        "Mythic powers cannot, as such, be dispensed with in the world of history. Neither the state nor society can follow a purely political plan, whether it presents itself as raison d'etat or as social order.",
+        "What is at issue here is not mere memories such as the sanctuaries - and human beings too in their crypts - harbor, or on which poetry feeds, and which fade from mighty symbols into mere allegories and finally into phrases. Mythic time is truly present in historical time as well, for example in the sense in which bronze still plays a role in the Iron Age. Yet the two must be distinguished like streams whose contact brings great effects, but dangers as well. In this respect, to remain with the example mentioned, illuminating are the passages of Scripture where it is said that no iron may `pass over` the cultic structure - as, for example, in Deuteronomy 27:5.",
+        "The mythic world of images is present, and therefore its disregard, its banishment, leads to growing accumulation and finally to dam-bursts. It must therefore be tended within culture; indeed culture is possible only where this tending is carried out. The mythic must have its special place in historical space, its special turnus within historical time. Both are lacking in the atheistic polity, which does not merely dethrone the gods. Hölderlin saw this gap with complete clarity and warned of the return of `ancient confusion` in his poem `The Rhine.`",
+        "The great gain that reading Herodotus still grants today lies not only in the fact that history is seen there as a new medium for and between human beings. To this is added the demarcation between historical and mythic time, between their different claims and the sacrifices to be brought to them. Myth is not treated as an abdicated power; it is tended.",
+        "What expresses itself here is a degree of freedom that has remained exemplary. It is misguided to regard it as a liberation not yet perfected. Just as Socrates for all time forms a model for the conduct of the spiritually free man, so in Herodotus the dignity of historical man and his virtue of `holding what endures in due esteem` appear from the very beginning as an exemplar. Freedom and binding cannot exist without one another."
+      ],
+      "paragraph_alignment": {
+        "de_count": 5,
+        "en_count": 5,
+        "aligned": true,
+        "row_count": 5
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/17-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:51",
+      "id": 51,
+      "label": "§51",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Herodot sah aus der Morgenröte der Geschichte zurück in die mythische Nacht. Das neue Licht warf einen starken Schein, der selbst auf Götter fiel. Es gibt einen historischen Christus, aber keinen historischen Jupiter. Wir dagegen stehen in der Mitternacht der Geschichte; es hat zwölf geschlagen, und wir blicken voraus in ein Dunkel, in dem künftige Dinge sich abzeichnen. Dieser Blick ist von Grauen begleitet, von schweren Ahnungen. Es ist eine Todesstunde, aber auch eine Geburtsstunde. Die Dinge, die wir sehen oder zu sehen glauben, haben noch keinen Namen, sind namen-los. Wenn wir sie mit Worten ansprechen, so treffen wir sie ungenau und zwingen sie nicht in unseren Bann. Wo wir »Frieden« sagen, kann es Krieg geben. Glückspläne schlagen in mörderische um, oft über Nacht. Die historische Benennung gilt nur noch in Reservaten, ähnlich wie die klassische Physik oder der herkömmliche Krieg. Die Dinge verändern sich uns unter der Hand. Die Wände sind eng geworden, innerhalb deren unser Wortschatz noch überzeugt. Die Dichtung bestätigt es. Auch das zeugt für mehr, für anderes als für den Anbruch einer neuen Geschichtsepoche, eines historisch vergleichbaren Abschnittes.\n\nWir benennen bereits die Ereignisse nicht mehr zwingend, die wir erlebt haben. Was ist Freiheit, Nation, Demokratie? Was ist ein Verbrechen, ein Soldat, ein Angriffskrieg? Darüber sind die Ansichten babylonisch geteilt, nicht nur deshalb, weil die Wörter porös, weil sie vieldeutig geworden sind.\n\nIn der Benennung künftiger Dinge liegt eine große Verantwortung. Das ist schon immer so gewesen und gilt jetzt in verstärktem Maß. Die Namen sind nicht nur Begriffe für Bekanntes; sie haben beschwörende Kraft. Auch unter diesem Gesichtswinkel scheint es ratsam, den alten Universalienstreit bei neuem Lichte zu besehen. Es könnte sein, daß auch die Stunde unserer Wissenschaft, auf die er so großen Einfluß übte, geschlagen hat. Sie würde dann etwas anderes, vielleicht auch Größeres, ihr heutiges Sein Vorstufe.",
+      "en": "Herodotus looked back from the dawn of history into mythic night. The new light cast a strong gleam that fell even upon gods. There is a historical Christ, but no historical Jupiter. We, by contrast, stand in the midnight of history; twelve has struck, and we look ahead into a darkness in which future things begin to outline themselves. This gaze is accompanied by horror, by grave forebodings. It is an hour of death, but also an hour of birth. The things we see, or believe we see, still have no name, are name-less. When we address them with words, we strike them imprecisely and do not force them under our spell. Where we say `peace,` there may be war. Plans of happiness turn murderous, often overnight. Historical naming now counts only in reservations, much like classical physics or conventional war. Things change on us under the hand. The walls have grown narrow within which our vocabulary still convinces. Poetry confirms it. This too testifies to more, to something other, than the dawn of a new historical epoch, of a historically comparable period.\n\nWe no longer name compellingly even the events we have lived through. What is freedom, nation, democracy? What is a crime, a soldier, a war of aggression? On these matters opinions are Babylonically divided, and not only because the words have grown porous, because they have become ambiguous.\n\nIn the naming of future things there lies a great responsibility. That has always been so and now applies with increased force. Names are not only concepts for what is known; they have conjuring power. From this angle too it seems advisable to look again at the old dispute over universals in a new light. It may be that the hour of our science too, on which that dispute exercised so great an influence, has struck. It would then become something else, perhaps something greater, its present being a preliminary stage.",
+      "de_paragraphs": [
+        "Herodot sah aus der Morgenröte der Geschichte zurück in die mythische Nacht. Das neue Licht warf einen starken Schein, der selbst auf Götter fiel. Es gibt einen historischen Christus, aber keinen historischen Jupiter. Wir dagegen stehen in der Mitternacht der Geschichte; es hat zwölf geschlagen, und wir blicken voraus in ein Dunkel, in dem künftige Dinge sich abzeichnen. Dieser Blick ist von Grauen begleitet, von schweren Ahnungen. Es ist eine Todesstunde, aber auch eine Geburtsstunde. Die Dinge, die wir sehen oder zu sehen glauben, haben noch keinen Namen, sind namen-los. Wenn wir sie mit Worten ansprechen, so treffen wir sie ungenau und zwingen sie nicht in unseren Bann. Wo wir »Frieden« sagen, kann es Krieg geben. Glückspläne schlagen in mörderische um, oft über Nacht. Die historische Benennung gilt nur noch in Reservaten, ähnlich wie die klassische Physik oder der herkömmliche Krieg. Die Dinge verändern sich uns unter der Hand. Die Wände sind eng geworden, innerhalb deren unser Wortschatz noch überzeugt. Die Dichtung bestätigt es. Auch das zeugt für mehr, für anderes als für den Anbruch einer neuen Geschichtsepoche, eines historisch vergleichbaren Abschnittes.",
+        "Wir benennen bereits die Ereignisse nicht mehr zwingend, die wir erlebt haben. Was ist Freiheit, Nation, Demokratie? Was ist ein Verbrechen, ein Soldat, ein Angriffskrieg? Darüber sind die Ansichten babylonisch geteilt, nicht nur deshalb, weil die Wörter porös, weil sie vieldeutig geworden sind.",
+        "In der Benennung künftiger Dinge liegt eine große Verantwortung. Das ist schon immer so gewesen und gilt jetzt in verstärktem Maß. Die Namen sind nicht nur Begriffe für Bekanntes; sie haben beschwörende Kraft. Auch unter diesem Gesichtswinkel scheint es ratsam, den alten Universalienstreit bei neuem Lichte zu besehen. Es könnte sein, daß auch die Stunde unserer Wissenschaft, auf die er so großen Einfluß übte, geschlagen hat. Sie würde dann etwas anderes, vielleicht auch Größeres, ihr heutiges Sein Vorstufe."
+      ],
+      "en_paragraphs": [
+        "Herodotus looked back from the dawn of history into mythic night. The new light cast a strong gleam that fell even upon gods. There is a historical Christ, but no historical Jupiter. We, by contrast, stand in the midnight of history; twelve has struck, and we look ahead into a darkness in which future things begin to outline themselves. This gaze is accompanied by horror, by grave forebodings. It is an hour of death, but also an hour of birth. The things we see, or believe we see, still have no name, are name-less. When we address them with words, we strike them imprecisely and do not force them under our spell. Where we say `peace,` there may be war. Plans of happiness turn murderous, often overnight. Historical naming now counts only in reservations, much like classical physics or conventional war. Things change on us under the hand. The walls have grown narrow within which our vocabulary still convinces. Poetry confirms it. This too testifies to more, to something other, than the dawn of a new historical epoch, of a historically comparable period.",
+        "We no longer name compellingly even the events we have lived through. What is freedom, nation, democracy? What is a crime, a soldier, a war of aggression? On these matters opinions are Babylonically divided, and not only because the words have grown porous, because they have become ambiguous.",
+        "In the naming of future things there lies a great responsibility. That has always been so and now applies with increased force. Names are not only concepts for what is known; they have conjuring power. From this angle too it seems advisable to look again at the old dispute over universals in a new light. It may be that the hour of our science too, on which that dispute exercised so great an influence, has struck. It would then become something else, perhaps something greater, its present being a preliminary stage."
+      ],
+      "paragraph_alignment": {
+        "de_count": 3,
+        "en_count": 3,
+        "aligned": true,
+        "row_count": 3
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/17-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:52",
+      "id": 52,
+      "label": "§52",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Soviel über Benennungen in ungewisser Zeit. Das betrifft auch das Blutopfer. Der Name kommt aus der Sakralsprache. Blut wurde als höchste Spende angesehen. »Und es wird fast alles mit Blut gereinigt nach dem Gesetz.« (Hebr. 9,22) Zur Erfassung solcher Zusammenhänge fehlen uns die Voraussetzungen. Zuweilen hat es den Anschein, als ob gerade der Untäter eine unheimliche Witterung für das sakralfähige Opfer besäße, jenen Instinkt, aus dem heraus die Menge nicht den Barrabas, sondern Christus forderte.\n\nIm Mythos ist es der Heros, der das Opfer bringt. Auf seinem Blut beruht die Gründung der Reiche, wie die Stiftung der Kirchen auf dem sakralfähigen Blut. Auf dem Blut des Untäters beruht die Sühne und damit das Recht. Nicht vollzogene Sühne bedeutet Gemeingefahr. Daher sagte man früher, daß »Blut nicht auf dem Lande bleiben darf«.\n\nDas mythische Opfer kehrt in den historischen Kriegen wieder, bis spät in unsere Zeit. In diesem Sinne hat der Nationalheld noch mythische Größe, das Vaterland hat mythische Macht, wie sie der Staat als solcher nicht verleihen kann. Im Vaterland geschichtlicher Nationen verbirgt sich der ältere Anspruch der irdischen Heimat, wie sie, als Frau verkörpert, als Große Mutter, als Furie, als Nike die Söhne zum Siege führend, auf den Triumphbögen erscheint.\n\nDas Opfer im mythischen Sinne setzt Freiwilligkeit voraus, Begeisterung, wie sie die Griechen gegenüber den Persern und wie sie noch den Ausbruch des Ersten Weltkrieges dem des Zweiten gegenüber auszeichnet.\n\nDaß der Heros, nicht nur in Kunst und Dichtung, sondern auch im Allgemeinbewußtsein, als Vorbild schwindet, ist nicht aus der Maschinentechnik und ihrer Massenwirkung abzuleiten, wie oft versucht wird, sondern aus dem Ermatten geschichtsbildender Kraft. Mit ihm ist eng verbunden das Schwinden der Namen, der Personalität. Die Leistung kann dabei die gleiche bleiben, sich sogar steigern, doch tritt sie in andere Relationen, wie die der Arbeit und des Rekordes, ein. Hier messen sich andere Kräfte; es wird, wie bei den Wettkämpfen, der Mensch als Gegner, der Gegner als Mensch nicht mehr gesehen. Daß die technische Apparatur nicht als heroisches Mittel gehandhabt werden kann, wodurch sich etwa der Kampfwagen des Diomedes von einem heutigen unterscheidet, erklärt sich nicht aus der Erscheinung dieser Waffen, sondern aus der Verschiedenheit zweier Weltalter.\n\nDer Unbekannte Soldat ist daher nicht Heros, nicht Held in diesem Sinn. Er hat weder Personalität noch Individualität, an seine Taten knüpft sich kein Epos, kein Bericht. Er hat keinen Namen, im Grunde kein Vaterland. Er ist ein Erdsohn, ein dunkler Heimkehrer, ist weder Stifter noch Gründer, ist eher Befruchter der Erdmutter.",
+      "en": "So much for namings in uncertain time. That also concerns blood sacrifice. The name comes from sacrificial language. Blood was regarded as the highest offering. `And almost all things are by the law purged with blood.` (Heb. 9:22) We lack the prerequisites for grasping such connections. At times it seems as though precisely the evildoer possessed an uncanny scent for the sacrally fit sacrifice, that instinct out of which the crowd demanded not Barabbas but Christ.\n\nIn myth it is the hero who brings the sacrifice. On his blood rests the founding of realms, just as the founding of churches rests on sacrally fit blood. On the blood of the evildoer rests expiation and thereby law. Expiation not carried out means common danger. Hence earlier it was said that `blood must not remain on the land.`\n\nThe mythic sacrifice returns in historical wars, down into our late time. In this sense the national hero still has mythic greatness, and the fatherland mythic power, such as the state as such cannot confer. In the fatherland of historical nations the older claim of the earthly homeland lies concealed, as it appears embodied as woman - as Great Mother, as Fury, as Nike leading the sons to victory - on triumphal arches.\n\nSacrifice in the mythic sense presupposes voluntariness, enthusiasm, such as distinguished the Greeks in relation to the Persians and such as still distinguished the outbreak of the First World War from that of the Second.\n\nThat the hero dwindles as exemplar, not only in art and poetry but also in common consciousness, is not to be derived from machine technology and its mass effect, as is often attempted, but from the flagging of history-forming force. Closely bound up with him is the dwindling of names, of personality. The performance can remain the same, can even increase, yet it enters into other relations, such as those of labor and record. Here other forces measure themselves; as in the competitions, man as opponent, the opponent as man, is no longer seen. That technical apparatus cannot be handled as a heroic means, whereby the chariot of Diomedes differs from a present-day one, is explained not by the appearance of these weapons but by the difference between two world-ages.\n\nThe Unknown Soldier is therefore not a hero, not a hero in this sense. He has neither personality nor individuality; no epic, no report attaches to his deeds. He has no name, at bottom no fatherland. He is an earth-son, a dark homecomer, is neither institutor nor founder, is rather one who makes the earth-mother fruitful.",
+      "de_paragraphs": [
+        "Soviel über Benennungen in ungewisser Zeit. Das betrifft auch das Blutopfer. Der Name kommt aus der Sakralsprache. Blut wurde als höchste Spende angesehen. »Und es wird fast alles mit Blut gereinigt nach dem Gesetz.« (Hebr. 9,22) Zur Erfassung solcher Zusammenhänge fehlen uns die Voraussetzungen. Zuweilen hat es den Anschein, als ob gerade der Untäter eine unheimliche Witterung für das sakralfähige Opfer besäße, jenen Instinkt, aus dem heraus die Menge nicht den Barrabas, sondern Christus forderte.",
+        "Im Mythos ist es der Heros, der das Opfer bringt. Auf seinem Blut beruht die Gründung der Reiche, wie die Stiftung der Kirchen auf dem sakralfähigen Blut. Auf dem Blut des Untäters beruht die Sühne und damit das Recht. Nicht vollzogene Sühne bedeutet Gemeingefahr. Daher sagte man früher, daß »Blut nicht auf dem Lande bleiben darf«.",
+        "Das mythische Opfer kehrt in den historischen Kriegen wieder, bis spät in unsere Zeit. In diesem Sinne hat der Nationalheld noch mythische Größe, das Vaterland hat mythische Macht, wie sie der Staat als solcher nicht verleihen kann. Im Vaterland geschichtlicher Nationen verbirgt sich der ältere Anspruch der irdischen Heimat, wie sie, als Frau verkörpert, als Große Mutter, als Furie, als Nike die Söhne zum Siege führend, auf den Triumphbögen erscheint.",
+        "Das Opfer im mythischen Sinne setzt Freiwilligkeit voraus, Begeisterung, wie sie die Griechen gegenüber den Persern und wie sie noch den Ausbruch des Ersten Weltkrieges dem des Zweiten gegenüber auszeichnet.",
+        "Daß der Heros, nicht nur in Kunst und Dichtung, sondern auch im Allgemeinbewußtsein, als Vorbild schwindet, ist nicht aus der Maschinentechnik und ihrer Massenwirkung abzuleiten, wie oft versucht wird, sondern aus dem Ermatten geschichtsbildender Kraft. Mit ihm ist eng verbunden das Schwinden der Namen, der Personalität. Die Leistung kann dabei die gleiche bleiben, sich sogar steigern, doch tritt sie in andere Relationen, wie die der Arbeit und des Rekordes, ein. Hier messen sich andere Kräfte; es wird, wie bei den Wettkämpfen, der Mensch als Gegner, der Gegner als Mensch nicht mehr gesehen. Daß die technische Apparatur nicht als heroisches Mittel gehandhabt werden kann, wodurch sich etwa der Kampfwagen des Diomedes von einem heutigen unterscheidet, erklärt sich nicht aus der Erscheinung dieser Waffen, sondern aus der Verschiedenheit zweier Weltalter.",
+        "Der Unbekannte Soldat ist daher nicht Heros, nicht Held in diesem Sinn. Er hat weder Personalität noch Individualität, an seine Taten knüpft sich kein Epos, kein Bericht. Er hat keinen Namen, im Grunde kein Vaterland. Er ist ein Erdsohn, ein dunkler Heimkehrer, ist weder Stifter noch Gründer, ist eher Befruchter der Erdmutter."
+      ],
+      "en_paragraphs": [
+        "So much for namings in uncertain time. That also concerns blood sacrifice. The name comes from sacrificial language. Blood was regarded as the highest offering. `And almost all things are by the law purged with blood.` (Heb. 9:22) We lack the prerequisites for grasping such connections. At times it seems as though precisely the evildoer possessed an uncanny scent for the sacrally fit sacrifice, that instinct out of which the crowd demanded not Barabbas but Christ.",
+        "In myth it is the hero who brings the sacrifice. On his blood rests the founding of realms, just as the founding of churches rests on sacrally fit blood. On the blood of the evildoer rests expiation and thereby law. Expiation not carried out means common danger. Hence earlier it was said that `blood must not remain on the land.`",
+        "The mythic sacrifice returns in historical wars, down into our late time. In this sense the national hero still has mythic greatness, and the fatherland mythic power, such as the state as such cannot confer. In the fatherland of historical nations the older claim of the earthly homeland lies concealed, as it appears embodied as woman - as Great Mother, as Fury, as Nike leading the sons to victory - on triumphal arches.",
+        "Sacrifice in the mythic sense presupposes voluntariness, enthusiasm, such as distinguished the Greeks in relation to the Persians and such as still distinguished the outbreak of the First World War from that of the Second.",
+        "That the hero dwindles as exemplar, not only in art and poetry but also in common consciousness, is not to be derived from machine technology and its mass effect, as is often attempted, but from the flagging of history-forming force. Closely bound up with him is the dwindling of names, of personality. The performance can remain the same, can even increase, yet it enters into other relations, such as those of labor and record. Here other forces measure themselves; as in the competitions, man as opponent, the opponent as man, is no longer seen. That technical apparatus cannot be handled as a heroic means, whereby the chariot of Diomedes differs from a present-day one, is explained not by the appearance of these weapons but by the difference between two world-ages.",
+        "The Unknown Soldier is therefore not a hero, not a hero in this sense. He has neither personality nor individuality; no epic, no report attaches to his deeds. He has no name, at bottom no fatherland. He is an earth-son, a dark homecomer, is neither institutor nor founder, is rather one who makes the earth-mother fruitful."
+      ],
+      "paragraph_alignment": {
+        "de_count": 6,
+        "en_count": 6,
+        "aligned": true,
+        "row_count": 6
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/17-humane-einteilungen.md"
     }
   ],
   "glossary": [
@@ -1539,8 +1729,10 @@
         "By the Time Wall"
       ],
       "status": "open",
-      "notes": "Keep the German title at project level until the metaphor settles across later sections.",
-      "evidence": []
+      "notes": "Keep the German title at project level until the metaphor settles across later sections. §48 is the first explicit internal occurrence and makes the image spatial and dangerous at once: the future outlines itself beyond the time wall, and naming that zone is itself risky.",
+      "evidence": [
+        "evidence:term:an-der-zeitmauer:zm:48"
+      ]
     },
     {
       "handle": "term:fremde-voegel",
@@ -1577,7 +1769,7 @@
         "Human Orderings"
       ],
       "status": "tentative",
-      "notes": "Working after §§32-46. `Humane` here means human rather than ethically `humane`; the part opens with divisions of world-time, history, and natural order, then moves into Spengler, morphology, world-plan, and the limits of pure historical judgment, sharpens the difference between historical time and `Schicksalszeit`, and now widens further into earth-history, prehistory, and the dawning of historical consciousness rather than into gentleness or moral cultivation.",
+      "notes": "Working after §§32-52. `Humane` here means human rather than ethically `humane`; the part opens with divisions of world-time, history, and natural order, then moves into Spengler, morphology, world-plan, and the limits of pure historical judgment, sharpens the difference between historical time and `Schicksalszeit`, widens into earth-history, prehistory, and the dawning of historical consciousness, reaches the preservation and injury of historical man, and now turns toward mythic return, naming-crisis, sacrifice, and the waning of the hero rather than toward gentleness or moral cultivation.",
       "evidence": []
     },
     {
@@ -1695,11 +1887,12 @@
         "existence / essence"
       ],
       "status": "tentative",
-      "notes": "Keep the pair visibly Germanic. §11 makes `So-Sein` load-bearing; §31 extends it into the contrast with `Gleichsein`, dignity, and resistance to uniform abstraction. `Existence / essence` is too Latinate and collapses a distinction Jünger is deliberately not naming that way.",
+      "notes": "Keep the pair visibly Germanic. §11 makes `So-Sein` load-bearing; §31 extends it into the contrast with `Gleichsein`, dignity, and resistance to uniform abstraction; §49 extends it further into the nomos and dignity of historical man. `Existence / essence` is too Latinate and collapses a distinction Jünger is deliberately not naming that way.",
       "evidence": [
         "evidence:term:da-sein-so-sein:zm:4",
         "evidence:term:da-sein-so-sein:zm:11",
-        "evidence:term:da-sein-so-sein:zm:31"
+        "evidence:term:da-sein-so-sein:zm:31",
+        "evidence:term:da-sein-so-sein:zm:49"
       ]
     }
   ],
@@ -1805,6 +1998,18 @@
       "section": "zm:44",
       "file": "texts/zeitmauer/parts/15-humane-einteilungen.md",
       "note": "Earth-history and species-change: behind questions of power, questions of time are at work."
+    },
+    {
+      "handle": "zm:48:zeitmauer",
+      "section": "zm:48",
+      "file": "texts/zeitmauer/parts/16-humane-einteilungen.md",
+      "note": "The first explicit internal naming of the time wall: the future outlines itself beyond it, and naming that zone carries danger."
+    },
+    {
+      "handle": "zm:51:namenlos",
+      "section": "zm:51",
+      "file": "texts/zeitmauer/parts/17-humane-einteilungen.md",
+      "note": "Midnight of history: future things are still nameless, and historically valid naming survives only in reservations."
     }
   ],
   "notes": [
@@ -1937,6 +2142,22 @@
       "note": "The section presses the time-crisis beyond human history by subordinating the struggle for existence to qualitative changes of time itself."
     },
     {
+      "handle": "note:zm:48:zeitmauer",
+      "section": "zm:48",
+      "anchor": "zm:48:zeitmauer",
+      "file": "texts/zeitmauer/parts/16-humane-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The title-metaphor finally appears inside the text itself, but under an explicit warning that every naming at that threshold is dangerous."
+    },
+    {
+      "handle": "note:zm:51:namenlos",
+      "section": "zm:51",
+      "anchor": "zm:51:namenlos",
+      "file": "texts/zeitmauer/parts/17-humane-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The section turns the title-metaphor into a naming crisis: future things are dimly visible before they can be forced under historically binding names."
+    },
+    {
       "handle": "note:journal:mumford-bridge",
       "file": "texts/zeitmauer/journal.md",
       "heading": "2026-03-29 — Mumford as Bridge Text",
@@ -1958,7 +2179,7 @@
       "status": "tentative",
       "note": "Local dossier for measurable time, fateful time, and the widening crisis of abstract planning.",
       "title": "Time Crisis",
-      "content": "# Time Crisis\n\nHandle: `thread:time-crisis`\n\nThe main thread so far in `texts/zeitmauer`: the collision between measurable time and qualitative or fateful time.\n\n## Core Path\n\n- `evidence:term:schicksalszeit:zm:4` grounds the first explicit contrast.\n- `zm:9:church-year` crystallizes the difference by moving from astrology into the church year.\n- `zm:13:schicksalsuhr` extends that move by naming the horoscope as an uneven clock.\n- `zm:14:abdichtung` widens the problem from interpretation to planning, ceremony, and the need to seal life toward the side of fate.\n- `zm:25:plan-freedom` pushes the crisis into insurance, plan-accounting, and the immediate language of freedom.\n- `zm:28:periodicity` extends the crisis into flattened rhythms, denied sacrifice, and catastrophe.\n- `zm:31:so-sein-gleichsein` closes the part where the crisis becomes one of singular form versus uniformity and mass fate.\n- `zm:32:spiral` reopens it as a problem of how world-time and great ages are divided at all.\n- `zm:38:logos-nomos` reconnects the Part 3 problem explicitly to measurable astronomical time and interpreted fateful time.\n- `zm:43:two-houses` crystallizes the limit of morphology: historical similarity can conceal radical difference in fateful time.\n- `zm:44:zeitfragen` extends the crisis beyond human history: behind questions of power, questions of time are at work.\n- `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.\n- `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.\n\n## Current Claim\n\n`thread:time-crisis` is no longer just a local theme about astrology. It names a broader conflict over what kinds of reality can be measured without being destroyed by measurement.\n\nJünger's strategy is to lead the reader out of the apparently \"occult\" cases and into ordinary ones:\n\n- the backing of paper money in `zm:7:banking`\n- the church year in `zm:9:church-year`\n- the horoscope as `zm:13:schicksalsuhr`\n- Roman augury and ceremony in `zm:14:abdichtung`\n- the `Titanic`, the record, and abstract time in `zm:15:titanic-record`\n- insurance, plan-accounting, and free musische speech in `zm:25:plan-freedom`\n- periodicity, raised dikes, and enlarged catastrophe in `zm:28:periodicity`\n- `So-Sein`, sameness, and resistance to Leviathan in `zm:31:so-sein-gleichsein`\n- line, circle, and spiral at the opening of `Humane Einteilungen` in `zm:32:spiral`\n- `Logos`, `Nomos`, and the methodological return of `Schicksalszeit` in `zm:38:logos-nomos`\n- two houses historically similar yet fateful-time different in `zm:43:two-houses`\n- species-loss and species-emergence pushed behind time-questions in `zm:44:zeitfragen`\n\n## Commentary Use\n\nThis thread should be the default test case for the commentary layer because it already supports:\n\n- section-to-section resonance\n- glossary evidence chains\n- traversal from translation note to higher-order dossier\n- extension into cross-project synthesis without leaving the text behind\n"
+      "content": "# Time Crisis\n\nHandle: `thread:time-crisis`\n\nThe main thread so far in `texts/zeitmauer`: the collision between measurable time and qualitative or fateful time.\n\n## Core Path\n\n- `evidence:term:schicksalszeit:zm:4` grounds the first explicit contrast.\n- `zm:9:church-year` crystallizes the difference by moving from astrology into the church year.\n- `zm:13:schicksalsuhr` extends that move by naming the horoscope as an uneven clock.\n- `zm:14:abdichtung` widens the problem from interpretation to planning, ceremony, and the need to seal life toward the side of fate.\n- `zm:25:plan-freedom` pushes the crisis into insurance, plan-accounting, and the immediate language of freedom.\n- `zm:28:periodicity` extends the crisis into flattened rhythms, denied sacrifice, and catastrophe.\n- `zm:31:so-sein-gleichsein` closes the part where the crisis becomes one of singular form versus uniformity and mass fate.\n- `zm:32:spiral` reopens it as a problem of how world-time and great ages are divided at all.\n- `zm:38:logos-nomos` reconnects the Part 3 problem explicitly to measurable astronomical time and interpreted fateful time.\n- `zm:43:two-houses` crystallizes the limit of morphology: historical similarity can conceal radical difference in fateful time.\n- `zm:44:zeitfragen` extends the crisis beyond human history: behind questions of power, questions of time are at work.\n- `zm:48:zeitmauer` names the threshold directly: beyond the time wall the future begins to outline itself, and naming that zone becomes dangerous.\n- `zm:51:namenlos` extends the threshold into a naming crisis: future things are visible before historically binding words can catch them.\n- `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.\n- `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.\n\n## Current Claim\n\n`thread:time-crisis` is no longer just a local theme about astrology. It names a broader conflict over what kinds of reality can be measured without being destroyed by measurement.\n\nJünger's strategy is to lead the reader out of the apparently \"occult\" cases and into ordinary ones:\n\n- the backing of paper money in `zm:7:banking`\n- the church year in `zm:9:church-year`\n- the horoscope as `zm:13:schicksalsuhr`\n- Roman augury and ceremony in `zm:14:abdichtung`\n- the `Titanic`, the record, and abstract time in `zm:15:titanic-record`\n- insurance, plan-accounting, and free musische speech in `zm:25:plan-freedom`\n- periodicity, raised dikes, and enlarged catastrophe in `zm:28:periodicity`\n- `So-Sein`, sameness, and resistance to Leviathan in `zm:31:so-sein-gleichsein`\n- line, circle, and spiral at the opening of `Humane Einteilungen` in `zm:32:spiral`\n- `Logos`, `Nomos`, and the methodological return of `Schicksalszeit` in `zm:38:logos-nomos`\n- two houses historically similar yet fateful-time different in `zm:43:two-houses`\n- species-loss and species-emergence pushed behind time-questions in `zm:44:zeitfragen`\n- the future outlining itself beyond the `Zeitmauer` in `zm:48:zeitmauer`\n- the name-less future and the shrinking reservation of historical naming in `zm:51:namenlos`\n\n## Commentary Use\n\nThis thread should be the default test case for the commentary layer because it already supports:\n\n- section-to-section resonance\n- glossary evidence chains\n- traversal from translation note to higher-order dossier\n- extension into cross-project synthesis without leaving the text behind\n"
     },
     {
       "handle": "thread:mumford-bridge",
@@ -2112,6 +2333,24 @@
       "file": "texts/zeitmauer/parts/14-humane-einteilungen.md",
       "relation": "grounds",
       "note": "Sharpens the term by distinguishing formations that are historically similar yet fundamentally different in fateful time."
+    },
+    {
+      "handle": "evidence:term:an-der-zeitmauer:zm:48",
+      "term": "term:an-der-zeitmauer",
+      "term_label": "An der Zeitmauer",
+      "anchor": "zm:48:zeitmauer",
+      "file": "texts/zeitmauer/parts/16-humane-einteilungen.md",
+      "relation": "grounds",
+      "note": "The title-image first appears internally as the dangerous boundary beyond which the future begins to take shape."
+    },
+    {
+      "handle": "evidence:term:da-sein-so-sein:zm:49",
+      "term": "term:da-sein-so-sein",
+      "term_label": "Da-Sein / So-Sein",
+      "anchor": "zm:49",
+      "file": "texts/zeitmauer/parts/16-humane-einteilungen.md",
+      "relation": "grounds",
+      "note": "Extends `So-Sein` beyond personal or anti-uniform contexts into the nomos, dignity, and measure of historical man."
     }
   ],
   "relations": [
@@ -2200,6 +2439,18 @@
       "note": "The crisis widens beyond human history where species-change and defeat in the struggle for existence are referred back to questions of time."
     },
     {
+      "from": "zm:48:zeitmauer",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The threshold is named directly: beyond the time wall the future begins to outline itself, and historical language reaches its limit."
+    },
+    {
+      "from": "zm:51:namenlos",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now appears directly as a crisis of naming: future things arrive before historically binding words can catch them."
+    },
+    {
       "from": "note:journal:mumford-bridge",
       "relation": "grounds",
       "to": "thread:mumford-bridge",
@@ -2271,7 +2522,13 @@
       "zm:43",
       "zm:44",
       "zm:45",
-      "zm:46"
+      "zm:46",
+      "zm:47",
+      "zm:48",
+      "zm:49",
+      "zm:50",
+      "zm:51",
+      "zm:52"
     ],
     "term_handles": [
       "term:an-der-zeitmauer",
@@ -2304,7 +2561,9 @@
       "zm:36:analogy",
       "zm:38:logos-nomos",
       "zm:43:two-houses",
-      "zm:44:zeitfragen"
+      "zm:44:zeitfragen",
+      "zm:48:zeitmauer",
+      "zm:51:namenlos"
     ],
     "note_handles": [
       "note:zm:1:seidenschwanz",
@@ -2323,6 +2582,8 @@
       "note:zm:38:logos-nomos",
       "note:zm:43:two-houses",
       "note:zm:44:zeitfragen",
+      "note:zm:48:zeitmauer",
+      "note:zm:51:namenlos",
       "note:journal:mumford-bridge",
       "note:journal:goethe-leibniz-frame"
     ],
@@ -2346,7 +2607,9 @@
       "evidence:term:weltplan:zm:17",
       "evidence:term:weltplan:zm:37",
       "evidence:term:schicksalszeit:zm:38",
-      "evidence:term:schicksalszeit:zm:43"
+      "evidence:term:schicksalszeit:zm:43",
+      "evidence:term:an-der-zeitmauer:zm:48",
+      "evidence:term:da-sein-so-sein:zm:49"
     ],
     "sections_by_part": {
       "fremde-voegel": [
@@ -2369,7 +2632,13 @@
         "zm:43",
         "zm:44",
         "zm:45",
-        "zm:46"
+        "zm:46",
+        "zm:47",
+        "zm:48",
+        "zm:49",
+        "zm:50",
+        "zm:51",
+        "zm:52"
       ],
       "messbare-und-schicksalszeit": [
         "zm:4",
@@ -2403,6 +2672,10 @@
       ]
     },
     "by_handle": {
+      "evidence:term:an-der-zeitmauer:zm:48": {
+        "kind": "evidence",
+        "index": 15
+      },
       "evidence:term:da-sein-so-sein:zm:11": {
         "kind": "evidence",
         "index": 7
@@ -2414,6 +2687,10 @@
       "evidence:term:da-sein-so-sein:zm:4": {
         "kind": "evidence",
         "index": 6
+      },
+      "evidence:term:da-sein-so-sein:zm:49": {
+        "kind": "evidence",
+        "index": 16
       },
       "evidence:term:hinzutretende:zm:36": {
         "kind": "evidence",
@@ -2465,11 +2742,11 @@
       },
       "note:journal:goethe-leibniz-frame": {
         "kind": "note",
-        "index": 17
+        "index": 19
       },
       "note:journal:mumford-bridge": {
         "kind": "note",
-        "index": 16
+        "index": 18
       },
       "note:zm:11:schachtgaenge": {
         "kind": "note",
@@ -2526,6 +2803,14 @@
       "note:zm:44:zeitfragen": {
         "kind": "note",
         "index": 15
+      },
+      "note:zm:48:zeitmauer": {
+        "kind": "note",
+        "index": 16
+      },
+      "note:zm:51:namenlos": {
+        "kind": "note",
+        "index": 17
       },
       "note:zm:6:hinzutretende": {
         "kind": "note",
@@ -2819,9 +3104,41 @@
         "kind": "section",
         "index": 45
       },
+      "zm:47": {
+        "kind": "section",
+        "index": 46
+      },
+      "zm:48": {
+        "kind": "section",
+        "index": 47
+      },
+      "zm:48:zeitmauer": {
+        "kind": "chunk",
+        "index": 17
+      },
+      "zm:49": {
+        "kind": "section",
+        "index": 48
+      },
       "zm:5": {
         "kind": "section",
         "index": 4
+      },
+      "zm:50": {
+        "kind": "section",
+        "index": 49
+      },
+      "zm:51": {
+        "kind": "section",
+        "index": 50
+      },
+      "zm:51:namenlos": {
+        "kind": "chunk",
+        "index": 18
+      },
+      "zm:52": {
+        "kind": "section",
+        "index": 51
       },
       "zm:6": {
         "kind": "section",
@@ -2849,12 +3166,15 @@
       }
     },
     "evidence_by_term": {
-      "term:an-der-zeitmauer": [],
+      "term:an-der-zeitmauer": [
+        "evidence:term:an-der-zeitmauer:zm:48"
+      ],
       "term:bruchstelle": [],
       "term:da-sein-so-sein": [
         "evidence:term:da-sein-so-sein:zm:4",
         "evidence:term:da-sein-so-sein:zm:11",
-        "evidence:term:da-sein-so-sein:zm:31"
+        "evidence:term:da-sein-so-sein:zm:31",
+        "evidence:term:da-sein-so-sein:zm:49"
       ],
       "term:erdgeschichtlich": [],
       "term:fremde-voegel": [],
@@ -3014,6 +3334,22 @@
           "relation": "extends",
           "to": "thread:time-crisis",
           "note": "The crisis widens beyond human history where species-change and defeat in the struggle for existence are referred back to questions of time."
+        }
+      ],
+      "zm:48:zeitmauer": [
+        {
+          "from": "zm:48:zeitmauer",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The threshold is named directly: beyond the time wall the future begins to outline itself, and historical language reaches its limit."
+        }
+      ],
+      "zm:51:namenlos": [
+        {
+          "from": "zm:51:namenlos",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now appears directly as a crisis of naming: future things arrive before historically binding words can catch them."
         }
       ],
       "zm:9:church-year": [

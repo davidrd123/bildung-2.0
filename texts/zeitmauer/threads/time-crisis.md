@@ -17,6 +17,8 @@ The main thread so far in `texts/zeitmauer`: the collision between measurable ti
 - `zm:38:logos-nomos` reconnects the Part 3 problem explicitly to measurable astronomical time and interpreted fateful time.
 - `zm:43:two-houses` crystallizes the limit of morphology: historical similarity can conceal radical difference in fateful time.
 - `zm:44:zeitfragen` extends the crisis beyond human history: behind questions of power, questions of time are at work.
+- `zm:48:zeitmauer` names the threshold directly: beyond the time wall the future begins to outline itself, and naming that zone becomes dangerous.
+- `zm:51:namenlos` extends the threshold into a naming crisis: future things are visible before historically binding words can catch them.
 - `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.
 - `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.
 
@@ -38,6 +40,8 @@ Jünger's strategy is to lead the reader out of the apparently "occult" cases an
 - `Logos`, `Nomos`, and the methodological return of `Schicksalszeit` in `zm:38:logos-nomos`
 - two houses historically similar yet fateful-time different in `zm:43:two-houses`
 - species-loss and species-emergence pushed behind time-questions in `zm:44:zeitfragen`
+- the future outlining itself beyond the `Zeitmauer` in `zm:48:zeitmauer`
+- the name-less future and the shrinking reservation of historical naming in `zm:51:namenlos`
 
 ## Commentary Use
 

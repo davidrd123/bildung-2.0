@@ -509,3 +509,75 @@ Decisions:
 - no new glossary entries yet; the existing carrier terms still suffice
 - extend the local `time-crisis` thread through `§44`, where questions of power are explicitly subordinated to questions of time
 - keep batch size at three; the part is dense but still moving in clear argumentative steps
+
+## 2026-04-01 — Time Wall Named, Historical Man Injured
+
+Translated `§§47-49` under `parts/16-humane-einteilungen.md`.
+
+This batch reaches the threshold the whole book has been approaching. `§47` asks whether historical light also has its time and whether the events presenting themselves are still linked in a way we can properly call history. `§48` explicitly names the `Zeitmauer`, but does so under a warning: where the future outlines itself beyond the time wall, danger slumbers in every naming. `§49` then makes the preservation of history and the `So-Sein` of historical man the great task of Western culture.
+
+Working observations:
+
+- `§47` is Jünger's sharpest statement so far about the exhaustion of historical vocabulary. Words like `war`, `peace`, `state`, and `freedom` grow deceptive not because language has decayed, but because the events no longer fit the frame those words presuppose.
+- `§48` is the title-section in substance even though the title has not yet become a heading. The reversed-Herodotus figure is decisive: just as he looked back from the newly historical into the mythic with awe, we must look ahead from the historical toward what outlines itself beyond the time wall with the same caution.
+- `§49` extends `So-Sein` into the dignity, nomos, and measure of historical man. This is not the `So-Sein` of personal type alone, nor only the anti-uniform `So-Sein` of §31. It is now civilizational and normative.
+- The real historical struggle in this frame is not primarily between nations or economic systems, but over the preservation of historical structure against mythic return. That reframes much of Part 2 from a different height.
+
+Decisions:
+
+- extend the open title entry `An der Zeitmauer` with its first explicit internal evidence at `§48`
+- extend the `Da-Sein / So-Sein` evidence chain with `§49`
+- keep the glossary lean; `Nomos` and `Geschichtswahrung` are active pressure points, not yet glossary terms
+
+## 2026-04-01 — Naming Crisis, Mythic Return, Unknown Soldier
+
+Translated `§§50-52` under `parts/17-humane-einteilungen.md`.
+
+This batch works out the consequences of the threshold just named. `§50` insists that mythic powers cannot be expelled from the historical world without cultural damage. `§51` deepens the naming crisis: future things can be dimly seen before they can be adequately named, while even the names for lived events lose force. `§52` shifts from naming to sacrifice and heroism, ending with the Unknown Soldier as a figure of depersonalized late historical war.
+
+Working observations:
+
+- `§50` is Jünger's clearest rejection so far of a purely political order. Mythic time must have a place and turnus inside historical time, or pressure builds toward dam-burst. This is not nostalgia for myth but a structural claim about culture.
+- `§51` may be the strongest naming section in the whole book so far. The point is not only that our vocabulary is stale, but that names retain conjuring force while the things now arriving evade historically settled naming.
+- `§52` ties the waning of the hero to the waning of `geschichtsbildender Kraft` and of names themselves. The Unknown Soldier has no name, no epic, no real fatherland in the old sense; that is a statement about world-age, not about insufficient patriotic feeling.
+- The older problem of `Wiederkehr` is now clearly active again, but still in too many registers to settle into one glossary entry without more pressure.
+
+Decisions:
+
+- extend `thread:time-crisis` through the naming crisis in `§51`
+- keep `Geschichtswahrung`, `geschichtsbildende Kraft`, and `Wiederkehr` in the journal layer for now
+- keep batch size at three; the pace is still letting the conceptual recurrences show themselves before they harden into glossary bureaucracy
+
+## 2026-04-01 — Review Notes: §§44-52 (The Time Wall Named)
+
+### The book has reached its own title
+
+§48 is a structural event for the whole project. `An der Zeitmauer` — the phrase that names the book, the translation project, and the glossary's most persistently `open` entry — finally appears inside the argument itself. The glossary note now records: "§48 is the first explicit internal occurrence and makes the image spatial and dangerous at once: the future outlines itself beyond the time wall, and naming that zone is itself risky."
+
+This changes the status of the title entry. It's still `open` (At? On? By?), but it's no longer untested. §48 gives us the first evidence for what the metaphor actually does in use: the time wall is a *threshold* between the historical and whatever comes after it. The preposition `An` in German carries proximity, adjacency, contact — not just "at" (a location) but "up against" (a surface you touch). The English rendering will need to preserve that spatial danger.
+
+### The argument's two-phase structure is now visible
+
+§§32-43 were diagnostic: what are the limits of historical comparison, morphological method, and cyclical models? The answer (from §36 through §43): pure comparison finds relations but not measure, and two formations can be historically similar while being fatefully different.
+
+§§44-52 are consequential: given that diagnosis, what happens to the categories that historical consciousness depends on? The answer: earth-history overflows historical time (§44), historiography itself becomes a dated event (§46), the time wall names the threshold beyond which historical vocabulary fails (§48), the preservation of historical man becomes a civilizational task (§49), naming itself breaks (§51), and the hero wanes into the Unknown Soldier (§52).
+
+This two-phase structure (diagnosis → consequence) echoes Part 2's own movement: §§4-13 diagnosed the measurable/fateful split, §§14-31 worked out consequences for planning, medicine, tragedy, fortune, periodicity, and uniformity. Part 3 is doing the same thing at a larger scale: the diagnosis is civilizational (not just epistemic), and the consequences reach into naming, sacrifice, and cultural form.
+
+### `[visual candidate]` The reversed Herodotus
+
+§48's image: Herodotus stood at the dawn of history looking back into mythic darkness with awe. We stand at what may be history's evening, looking forward through the time wall toward something that outlines itself but cannot yet be named. A diagram showing two figures at opposite ends of the historical span, both facing a threshold — one at dawn, one at dusk — with the time wall between the historical zone and the nameless future. This would anchor the Part 3 argument visually better than any abstract timeline.
+
+### The naming crisis is a finding about the project's own method
+
+§51: future things are visible before they can be named. Names retain conjuring force while the things now arriving evade historically settled naming. This is directly relevant to the glossary discipline. The glossary holds terms `open` not because the translator is indecisive but because — as §51 says — premature naming can misrepresent what is still emerging. The project's `open` status is the translation-level equivalent of Jünger's claim that the future arrives before its names do.
+
+§47's version: words like "war," "peace," "state," and "freedom" grow deceptive not because language has decayed but because the events no longer fit the frame those words presuppose. This is the Barrett/continuism insight (categories construct experience; old categories applied to new phenomena distort rather than clarify) stated as a civilizational diagnosis.
+
+### The glossary at §52
+
+Still 12 terms for 52 sections. `An der Zeitmauer` gained its first evidence point. `Da-Sein / So-Sein` gained evidence at §49 (civilizational/normative register, not just personal type). No new entries promoted. The pressure points accumulating — `Geschichtswahrung`, `geschichtsbildende Kraft`, `Wiederkehr`, `Nomos`, the naming crisis — are real, but none has yet recurred with enough cross-batch structural force to justify promotion over what the existing 12 terms already carry. That may change as §§53-84 unfold.
+
+### Where Part 3 is heading
+
+20 of 53 Part 3 sections translated. The argument has moved from divisions-of-time (§§32-37) through limits-of-morphology (§§38-43) into threshold-and-consequence (§§44-52). The next stretch (§§53-84) is 32 sections — the longest remaining run. The part title "Human Divisions" is starting to reveal its deeper meaning: not just how humans divide time, but what happens to human categories when the time being divided exceeds them. The time wall is the place where human divisions stop working.

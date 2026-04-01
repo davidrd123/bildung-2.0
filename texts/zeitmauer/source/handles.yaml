@@ -2,7 +2,7 @@
 # Canonical authority remains: `sections.yaml`, `glossary.yaml`, `parts/`, `threads/`, and `journal.md`.
 
 project: zeitmauer
-scope: "pilot-translated-range-1-46"
+scope: "pilot-translated-range-1-52"
 
 sections:
   - handle: "zm:1"
@@ -235,6 +235,36 @@ sections:
     label: "§46"
     part_slug: "humane-einteilungen"
     source: "source/sections.yaml"
+  - handle: "zm:47"
+    id: 47
+    label: "§47"
+    part_slug: "humane-einteilungen"
+    source: "source/sections.yaml"
+  - handle: "zm:48"
+    id: 48
+    label: "§48"
+    part_slug: "humane-einteilungen"
+    source: "source/sections.yaml"
+  - handle: "zm:49"
+    id: 49
+    label: "§49"
+    part_slug: "humane-einteilungen"
+    source: "source/sections.yaml"
+  - handle: "zm:50"
+    id: 50
+    label: "§50"
+    part_slug: "humane-einteilungen"
+    source: "source/sections.yaml"
+  - handle: "zm:51"
+    id: 51
+    label: "§51"
+    part_slug: "humane-einteilungen"
+    source: "source/sections.yaml"
+  - handle: "zm:52"
+    id: 52
+    label: "§52"
+    part_slug: "humane-einteilungen"
+    source: "source/sections.yaml"
 
 chunks:
   - handle: "zm:1:seidenschwanz"
@@ -305,6 +335,14 @@ chunks:
     section: "zm:44"
     file: "parts/15-humane-einteilungen.md"
     note: "Earth-history and species-change: behind questions of power, questions of time are at work."
+  - handle: "zm:48:zeitmauer"
+    section: "zm:48"
+    file: "parts/16-humane-einteilungen.md"
+    note: "The first explicit internal naming of the time wall: the future outlines itself beyond it, and naming that zone carries danger."
+  - handle: "zm:51:namenlos"
+    section: "zm:51"
+    file: "parts/17-humane-einteilungen.md"
+    note: "Midnight of history: future things are still nameless, and historically valid naming survives only in reservations."
 
 notes:
   - handle: "note:zm:1:seidenschwanz"
@@ -403,6 +441,18 @@ notes:
     file: "parts/15-humane-einteilungen.md"
     kind: "translation_note"
     note: "The section presses the time-crisis beyond human history by subordinating the struggle for existence to qualitative changes of time itself."
+  - handle: "note:zm:48:zeitmauer"
+    section: "zm:48"
+    anchor: "zm:48:zeitmauer"
+    file: "parts/16-humane-einteilungen.md"
+    kind: "translation_note"
+    note: "The title-metaphor finally appears inside the text itself, but under an explicit warning that every naming at that threshold is dangerous."
+  - handle: "note:zm:51:namenlos"
+    section: "zm:51"
+    anchor: "zm:51:namenlos"
+    file: "parts/17-humane-einteilungen.md"
+    kind: "translation_note"
+    note: "The section turns the title-metaphor into a naming crisis: future things are dimly visible before they can be forced under historically binding names."
   - handle: "note:journal:mumford-bridge"
     file: "journal.md"
     heading: "2026-03-29 — Mumford as Bridge Text"
@@ -519,6 +569,18 @@ evidence:
     file: "parts/14-humane-einteilungen.md"
     relation: "grounds"
     note: "Sharpens the term by distinguishing formations that are historically similar yet fundamentally different in fateful time."
+  - handle: "evidence:term:an-der-zeitmauer:zm:48"
+    term: "term:an-der-zeitmauer"
+    anchor: "zm:48:zeitmauer"
+    file: "parts/16-humane-einteilungen.md"
+    relation: "grounds"
+    note: "The title-image first appears internally as the dangerous boundary beyond which the future begins to take shape."
+  - handle: "evidence:term:da-sein-so-sein:zm:49"
+    term: "term:da-sein-so-sein"
+    anchor: "zm:49"
+    file: "parts/16-humane-einteilungen.md"
+    relation: "grounds"
+    note: "Extends `So-Sein` beyond personal or anti-uniform contexts into the nomos, dignity, and measure of historical man."
 
 relations:
   - from: "zm:1:seidenschwanz"
@@ -577,6 +639,14 @@ relations:
     relation: "extends"
     to: "thread:time-crisis"
     note: "The crisis widens beyond human history where species-change and defeat in the struggle for existence are referred back to questions of time."
+  - from: "zm:48:zeitmauer"
+    relation: "extends"
+    to: "thread:time-crisis"
+    note: "The threshold is named directly: beyond the time wall the future begins to outline itself, and historical language reaches its limit."
+  - from: "zm:51:namenlos"
+    relation: "extends"
+    to: "thread:time-crisis"
+    note: "The crisis now appears directly as a crisis of naming: future things arrive before historically binding words can catch them."
   - from: "note:journal:mumford-bridge"
     relation: "grounds"
     to: "thread:mumford-bridge"
