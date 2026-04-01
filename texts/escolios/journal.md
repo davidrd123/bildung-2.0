@@ -155,3 +155,25 @@ Cassirer is the figure who could bridge Gómez Dávila and Jünger philosophical
 "Mysticism is the empiricism of transcendent knowledge." Dick is a mystical empiricist. The Exegesis is field notes from the transcendent. The method is the same as scientific empiricism — observe, record, hypothesize, test — but the domain is different. Gómez Dávila would recognize Dick's practice even while rejecting most of his frameworks. The convergence is in the method, not the conclusions.
 
 ---
+
+## 2026-03-31 — Section 09 complete (§211–250, pp. 48–57)
+
+### §225 and the Barrett Connection
+
+"To meditate is to translate an instant of lucidity into the idiom of an epoch and the lexicon of a guild." This is the most direct statement of what the translation project is *actually doing* — and it connects to the Barrett thread in the cross-domain notes. Barrett's claim: categories construct experience, not just interpretation. Applied here: when we translate *seca dicha* as "dry joy" or "austere happiness," we're not just choosing a rendering; we're constructing different English *experiences* of the same Spanish lucidity. The target language shapes the perception. Every translation is a new meditation on the same instant of lucidity, constrained by a different epoch and a different lexicon.
+
+This also sharpens the "detranslation" operation from the Barrett thread: moving backward into less-differentiated vocabulary to reveal what modern language hides. When Gómez Dávila writes in Spanish — a language that preserves more Latin architecture than English — he's already working in a less-differentiated register than English forces. Some of his aphorisms sound more "natural" in Spanish not because Spanish is better but because it hasn't yet carved the distinctions that English imposes.
+
+### §241 — The Absurdity Proof
+
+"God is the transcendental condition of the absurdity of the universe." This is the most philosophically rigorous aphorism since §112. If you can experience the universe as *absurd* (Camus), then something in you expects it to make sense — and that expectation is the evidence of God. A truly godless universe wouldn't be absurd; it would be nothing at all. Absurdity is a *relational* property: it requires a standard of meaning that the universe fails to meet. The standard is God. The atheist who feels the absurd is closer to God than the comfortable believer who doesn't.
+
+### §247 as Project Motto
+
+"All literature is contemporary for the reader who knows how to read." This should be somewhere visible in the project — README, or pinned in the journal. It's the single sentence that justifies the entire practice: we're not doing historical recovery. We're meeting living texts in the present. Homer, Gómez Dávila, Jünger, Dick — all are contemporary. The temporal distance is an illusion of bad reading.
+
+### Density Acceleration
+
+40 aphorisms in 10 pages (4 per page) vs. the earlier rate of roughly 2-3 per page. The aphorisms are getting shorter and the ratio of exegesis-worthy to transitional is shifting — more of them are one-liners that need only the close and free versions. The exegetical density should decrease proportionally in future sections. The diamonds don't all need equal setting; some shine on their own.
+
+---
