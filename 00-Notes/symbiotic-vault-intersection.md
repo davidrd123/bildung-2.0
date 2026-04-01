@@ -337,6 +337,66 @@ The Vault's design experiments (THE_TABLE, THE_MEMBRANE, THE_DRIFT) probe this f
 
 For the repo-centered version of that diagnosis — the intellectual genealogy, the thinker-to-file map, and the list of what `bildung-2.0` still lacks architecturally — see `genealogy-to-instrument.md`.
 
+## Where Things Stand Now (2026-04-01)
+
+Since the initial writing of this note, both projects have advanced substantially. The intersection is no longer speculative.
+
+### bildung-2.0 concretizations
+
+**The viewer exists.** `texts/zeitmauer/viewer/` is a working three-column read-only prototype: section navigation (left), parallel German/English text (center), glossary + threads + handle inspector (right). Everything connected through clickable handles. The "instrument frontier" named in the earlier sections of this doc is no longer missing — it has a first instantiation.
+
+**Thread dossiers are the commentary layer.** Three local threads now live in `texts/zeitmauer/threads/`: `thread:time-crisis` (traversal from `zm:4` through `zm:14:abdichtung` to `zm:15:titanic-record`), `thread:mumford-bridge` (the clock-time bridge-text), and `thread:goethe-leibniz-frame` (a *method* dossier — how to translate when analogical image and structural framework conflict). These are not notes or footnotes. They are reusable dossiers at equal dignity to translation, navigable in the viewer through clickable handles.
+
+**The export script bridges YAML to JSON.** `export_ui_index.py` reads canonical sources and emits `ui-index.json`. It now includes paragraph-level alignment data (`de_paragraphs`, `en_paragraphs`, `aligned: true/false`) and inlines thread document content. The canonical files stay authoritative; the JSON is regenerable.
+
+**Erkenntnisproblem Vol. 1 started.** A fourth text project — Cassirer's untranslated first volume — is scaffolded with source extraction, glossary, outline, and a first batch. This was the #1 priority on the untranslated works list.
+
+**Promotion gates and agent authority boundaries added to handle schema.** Agents may create `seed` handles and propose relations but cannot promote to `stable` on fluency alone. Promotion follows evidence density and reuse. This borrows the Vault's discipline around agent/human surface boundaries.
+
+### Symbiotic-Vault concretizations
+
+**47 atoms, 7 frames, first atomize+tend cycle complete.** The atom pool has grown substantially. Two frames have been proposed by the tend skill based on atom clustering. The skill system is no longer just designed — it's been exercised.
+
+**The Factory design spec.** The Vault's highest-level aspiration is now explicit: the vault cocreates a creative persona. Projects emerge from momentum. The reaction system (yes/no/try-again/not-yet) gives the agent structured learning signals. The metaphor is Warhol's Factory: the agent produces, the human reacts, the reactions refine the shared sensibility.
+
+**The reaction system.** Four signals with optional rationale. `→ try again — less Baudrillard, more about what happens when the vault knows me better than I know myself` teaches the agent more than any structured preference. This is a concrete operationalization of the Hinzutretende model: the agent interprets, the human's reaction steers, neither controls alone.
+
+### What the convergence now looks like in practice
+
+| Capability | Symbiotic-Vault | bildung-2.0 |
+|---|---|---|
+| Structured atomic layer | 47 atoms, status lifecycle | 11 glossary terms + 7 named chunks + 8 evidence items |
+| Perspective lenses | 7 frames | 3 thread dossiers (local to zeitmauer) |
+| Dynamic view | Obsidian + dataview queries | HTML viewer prototype with handle resolution |
+| Agent-human boundary | Explicit surface access tiers per skill | Promotion gates, agent authority boundary |
+| Reaction/feedback loop | yes/no/try-again/not-yet signals | Glossary evidence chains (§§4-6 support X, §§7-9 confirm) |
+| Cross-skill coordination | `atoms_touched` in memory entries | Handle references in journal entries |
+| Operational snapshot | HOME.md momentum zone | `right-now.md` + `process.md` |
+
+### What has been proven
+
+1. **Handles work.** The viewer proves that a small, stable ID grammar makes an entire navigable instrument possible. The Vault's atom filenames serve the same function. The `vault:*` / `b2:*` cross-reference scheme is ready to use.
+
+2. **Threads are frames.** bildung-2.0's thread dossiers are structurally identical to the Vault's frames — perspective lenses that traverse the same material from different angles. The goethe-leibniz-frame thread is explicitly a *method frame*, not just a content theme. This validates the Vault's claim that frames are "lenses, not territories."
+
+3. **The export script is the atomize skill.** `export_ui_index.py` bridges canonical sources to a derived navigable layer, exactly as `atomize` bridges `_journal` to `_atoms`. Both preserve canonical authority while producing derived structure.
+
+4. **The Factory and the translation practice are the same loop.** The Factory's reaction cycle (agent produces → human reacts → reaction refines sensibility) maps onto the translation cycle (agent helps draft → translator revises → revision refines glossary and thread understanding). The Vault names this "cocreating a creative persona." bildung-2.0 names this "formation through slow contact." Same loop, different self-description.
+
+### What remains different and should stay different
+
+The Vault's **Factory** aspiration — cocreating a creative persona through reaction signals — has no equivalent in bildung-2.0 and shouldn't. bildung-2.0's formation is directed by the texts, not by creative momentum. The glossary doesn't need a `→ try again` signal because the evidence chain *is* the signal: the text either exercises a term successfully or it doesn't. The Vault's human-agent feedback loop is expressive and creative. bildung-2.0's is evidentiary and philological. Both are legitimate. Collapsing them would weaken both.
+
+The Vault's **Compost experiment** — recycling failed atoms back into raw material — has a bildung-2.0 analogue in the glossary's `archived` status, but the Vault version is more interesting because it treats failure as *generative material*, not just as deprecated entries. bildung-2.0 could learn from this: a term rendered `archived` because a better formulation emerged still carries information about what the first attempt got wrong, and that information might be useful later.
+
+### Updated near-term moves
+
+1. Keep the repos separate. The loose handle layer works.
+2. Test `vault:` and `b2:` references in practice — one bildung-2.0 thread citing a Vault atom, one Vault reflection citing a bildung-2.0 thread. See if the cross-reference adds value or is just notation.
+3. bildung-2.0 should continue translating (§§17-31 to finish Part 2) before expanding the viewer. The viewer proves the stack works; the translation generates the material the stack organizes.
+4. The Vault should exercise the Factory reaction loop against real project experiments. The atomize+tend cycle is proven; the Factory is still spec-only.
+5. Revisit this note after both projects have a month more material.
+
 ## One-Line Distillation
 
 `Symbiotic-Vault` is building the habitat for symbiotic thought. `bildung-2.0` is proving what that habitat is for.
