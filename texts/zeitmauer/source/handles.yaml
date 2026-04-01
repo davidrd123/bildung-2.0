@@ -1,5 +1,5 @@
 # Pilot handle index for translated Zeitmauer material.
-# Canonical authority remains: `sections.yaml`, `glossary.yaml`, `parts/`, and `journal.md`.
+# Canonical authority remains: `sections.yaml`, `glossary.yaml`, `parts/`, `threads/`, and `journal.md`.
 
 project: zeitmauer
 scope: "pilot-translated-range-1-16"
@@ -115,6 +115,10 @@ chunks:
     section: "zm:14"
     file: "parts/05-messbare-und-schicksalszeit.md"
     note: "Sealing life toward the side of fate."
+  - handle: "zm:15:titanic-record"
+    section: "zm:15"
+    file: "parts/05-messbare-und-schicksalszeit.md"
+    note: "The Titanic, the record, and clock-measured performance."
 
 notes:
   - handle: "note:zm:1:seidenschwanz"
@@ -153,6 +157,12 @@ notes:
     file: "parts/05-messbare-und-schicksalszeit.md"
     kind: "translation_note"
     note: "The directional metaphor matters more than elegant English."
+  - handle: "note:zm:15:titanic-record"
+    section: "zm:15"
+    anchor: "zm:15:titanic-record"
+    file: "parts/05-messbare-und-schicksalszeit.md"
+    kind: "translation_note"
+    note: "The record language has to keep abstract time visible without flattening the shipwreck into allegory."
   - handle: "note:journal:mumford-bridge"
     file: "journal.md"
     heading: "2026-03-29 — Mumford as Bridge Text"
@@ -166,9 +176,17 @@ notes:
 
 threads:
   - handle: "thread:time-crisis"
-    file: "../../00-Notes/threads/time-crisis.md"
+    file: "threads/time-crisis.md"
+    status: "tentative"
+    note: "Local dossier for measurable time, fateful time, and the widening crisis of abstract planning."
+  - handle: "thread:mumford-bridge"
+    file: "threads/mumford-bridge.md"
     status: "seed"
-    note: "Pilot cross-project thread for measurable time, fateful time, and modern technique."
+    note: "Bridge dossier for the clock-time diagnosis and the failure of the plan."
+  - handle: "thread:goethe-leibniz-frame"
+    file: "threads/goethe-leibniz-frame.md"
+    status: "seed"
+    note: "Method dossier on analogical image versus structural framework in Jünger's argument."
 
 evidence:
   - handle: "evidence:term:schicksalszeit:zm:4"
@@ -225,6 +243,10 @@ relations:
     relation: "echoes"
     to: "zm:7:banking"
     note: "Both begin as analogies and become the argument itself."
+  - from: "zm:1:seidenschwanz"
+    relation: "grounds"
+    to: "thread:goethe-leibniz-frame"
+    note: "The waxwing passage shows Jünger arguing through image without surrendering structure."
   - from: "zm:9:church-year"
     relation: "crystallizes"
     to: "thread:time-crisis"
@@ -233,11 +255,23 @@ relations:
     relation: "extends"
     to: "zm:9:church-year"
     note: "The horoscope as fate-clock names directly what the church-year passage had already modeled."
+  - from: "zm:15:titanic-record"
+    relation: "parallels"
+    to: "thread:mumford-bridge"
+    note: "The Titanic and the record make the clock-time problem concrete inside the text itself."
   - from: "note:journal:mumford-bridge"
+    relation: "grounds"
+    to: "thread:mumford-bridge"
+    note: "The journal entry is the source note for the bridge dossier."
+  - from: "note:journal:goethe-leibniz-frame"
+    relation: "grounds"
+    to: "thread:goethe-leibniz-frame"
+    note: "The journal entry is the source note for the method dossier."
+  - from: "thread:mumford-bridge"
     relation: "parallels"
     to: "thread:time-crisis"
     note: "Mumford supplies the historical clock-time diagnosis that runs alongside Jünger's metaphysical one."
-  - from: "note:journal:goethe-leibniz-frame"
+  - from: "thread:goethe-leibniz-frame"
     relation: "grounds"
     to: "thread:time-crisis"
     note: "The split between formalism and participatory perception underlies the whole time-crisis problem."

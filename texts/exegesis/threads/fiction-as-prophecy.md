@@ -83,3 +83,12 @@ Dick's most vertiginous move: he reads his novels as prophecy, then writes new n
 - `[41:31]` `Tears` is reread again, this time as deliberate bait or trace planted by an intelligence apparatus to draw out hidden contacts
 - `[44:12]` Dick explicitly roots the 2-74 blitz in prior fictional analogs, making fiction the precondition for the reality-dialogue itself
 - `[44:82]` `Tears` is once more the privileged diagnostic novel, now as the exact image of a 2,000-year ossified complex dissolved by intrusion
+- `[45:358]` Dick's trash/divine reintegration retrospectively vindicates the low-form strategy of `Ubik` and later TV-commercial theology
+- `[46:436]` `Tears` regains privileged status because the `Acts` grid discloses the Christian underground hidden inside the Empire-world
+- `[47:628–630]` Dick explicitly treats his inner-space fiction and even Beethoven-like spatial expansion as politically subversive training in escape from the prison
+- `[48:850]` `3 Women` becomes the filmic key that raises the question Valis later answers: dream-world or reality support
+- `[48:859]` `Stigmata` and `"Faith"` are recruited as anti-Belial disclosures, while `Ubik` is again named the real support hidden in trash
+- `[48:865]` `Ubik` is reaffirmed as the closest fictional statement of our actual postmortem or Bardo-like condition
+- `[48:920]` the VR outline becomes a serious metaphysical prompt rather than mere novel scaffolding, driving Dick toward explicit YHWH-language
+- `[49:1043]` the `Tears` cypher is directly identified with living Torah
+- `[49:1052]` reading the VR outline yields Dick's strongest late monotheist clarification of what Valis must be

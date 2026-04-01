@@ -89,6 +89,15 @@ The perceived intelligence that Dick encounters in and after 2-3-74. Its name sh
 - `[39:19–30]` Zebra is translated into Sophia/Tao logic: living sister, macrobrain, part-whole loop, and oscillating riddle identical with `Ubik`
 - `[41:31–60]` Zebra/Valis is violently secularized into a possible military doomsday device, self-replicating info-weapon, and source of authoritarian override
 - `[44:63–68]` the other mind oscillates between psychotic residue, twin-sister presence, and divine adoption-source without stabilizing
+- `[45:273–358]` Valis is redefined by selective incorporation and by Dick's active reintegration of trash and divinity into a readable hieroglyphic world
+- `[46:426–433]` Valis becomes lifelong trainer and the projected divine mind or Hagia Sophia inside Dick rather than a merely external invader
+- `[47:630]` Valis proves there is an outside to the high-speed prison-world
+- `[47:676–707]` Valis is recast in Spinozan terms as physical thought or the living brain of reality itself
+- `[48:834–842]` Valis is analytically extracted from camouflage by Sophia and then partly subordinated to the explicit name YHWH
+- `[48:926–928]` Valis becomes the system that renders Torah-information into reality
+- `[48:985–986]` Valis is redescribed as the engramming and resetting agency that overrides exhausted causal scripts
+- `[49:1041–1082]` Valis expands into macro-mind, living Torah, and finally a superimposition-event between mind and world rather than a separable entity
+- `[82:1–105]` Valis is stabilized as a participatory field or syzygy between Dick and the macrocosm, with reality becoming a searchable library only in the joint event
 
 ## Mutations
 

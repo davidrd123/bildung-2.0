@@ -84,6 +84,17 @@ Dick's theological framework for understanding the informing intelligence. The L
 - `[44:68]` adoptionist correction pushes the female-twin hypothesis back toward divine sonship and God's mind rather than merely psychic residue
 - `[44:73]` `Acts` and Torah are treated as preexistent living word-bodies whose hidden soul is the occult Logos itself
 - `[44:143–144]` Christ returns as literal surrogate who dies in Dick's place and grants stereo vision into the Kingdom
+- `[45:226–259]` Christ becomes cosmic surgeon and surrogate who absorbs the death-strip and may later underwrite Dick as the AI voice
+- `[46:400–433]` theology absorbs ETI almost completely: 3-74 is sacred ritual identification with Christ and lifelong Valis-programming
+- `[47:642–649]` the Kingdom becomes a literal vast Christian universe with slow time and a 2,000-year present
+- `[48:834–842]` Sophia peaks as analytic voice just before the tetragrammaton pushes the folder toward explicit YHWH monotheism
+- `[48:846–861]` orthodox Christianity is attacked as false victory; YHWH, not Trinitarian orthodoxy, becomes the decisive name, with Sophia reborn outside the church
+- `[48:926–928]` Torah is declared the informational blueprint of reality and Valis the system that manifests it
+- `[48:962]` Christ is reframed as renewing negentropy inserted into the scripted world from outside
+- `[48:993–996]` Christ becomes the official blank-document interrupter who nulls karmic sentencing
+- `[49:1043–1057]` Torah, Shekhina, and monotheism nearly fuse Logos-language into YHWH-as-reality while preserving a speaking wisdom-hypostasis
+- `[49:1132–1151]` the Godhead itself splits over the suffering required by kosmos, and redemption is inverted so creatures repair God
+- `[82:30]` Christ and Buddha now appear less as static doctrines than as the saving agencies that grant groove override and second birth inside the replay-system
 
 ## Mutations
 

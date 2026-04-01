@@ -39,19 +39,19 @@ introduction:
   title_de: "Einleitung"
   title_en: "Introduction"
   start_page_printed: 1
-  end_page_printed: 28
-  note: "The current calibration tranche covers only the opening pages."
+  end_page_printed: 18
+  note: "Verified from the page sequence: the introduction ends on printed page 18, followed by an unnumbered `Erstes Buch` divider."
 
 books:
   - slug: "renaissance-des-erkenntnisproblems"
     title_de: "Die Renaissance des Erkenntnisproblems"
     title_en: "The Renaissance of the Problem of Knowledge"
-    start_page_printed: 29
+    start_page_printed: 19
     end_page_printed: 200
     chapters:
       - slug: "nikolaus-cusanus"
         title_de: "Nikolaus Cusanus"
-        start_page_printed: 29
+        start_page_printed: 19
       - slug: "humanismus-und-der-kampf-der-platonischen-und-aristotelischen-philosophie"
         title_de: "Der Humanismus und der Kampf der Platonischen und Aristotelischen Philosophie"
         start_page_printed: 73

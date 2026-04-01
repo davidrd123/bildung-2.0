@@ -59,6 +59,12 @@ passes/
   29-folder-42.md       # Survival recoil, self-deflation, and residual enemy-image
   30-folder-43.md       # Irreality, perturbation, and the methodological defense of the enigma
   31-folder-44.md       # Psychosis cross-examination, living scripture, and Christic surrogation
+  32-folder-45.md       # Death-strip surgery, divine trash, and the fish's secret victory
+  33-folder-46.md       # Ritual identification, lifelong programming, and the richer Christian universe
+  34-folder-47.md       # Beethoven, the Christian urwelt, and Spinozan world-brain monism
+  35-folder-48.md       # YHWH, Torah, the false church, and the blank-document Christ
+  36-folder-49.md       # Macro-mind monotheism, tragic kosmos, and the Godhead split
+  37-folder-82.md       # Participatory Valis, groove override, and the survival faculty
 scripts/
   extract_entries.py    # rebuilds source/entries.yaml from the ebook text
 journal.md              # the reader's changing model of Dick

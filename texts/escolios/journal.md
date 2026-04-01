@@ -177,3 +177,91 @@ This also sharpens the "detranslation" operation from the Barrett thread: moving
 40 aphorisms in 10 pages (4 per page) vs. the earlier rate of roughly 2-3 per page. The aphorisms are getting shorter and the ratio of exegesis-worthy to transitional is shifting — more of them are one-liners that need only the close and free versions. The exegetical density should decrease proportionally in future sections. The diamonds don't all need equal setting; some shine on their own.
 
 ---
+
+## 2026-04-01 — Section 10 backfill (§251–291, pp. 57–69)
+
+Backfilling the missing notes after the section files moved ahead of the journal. By this point the register has changed: the moralist is still present, but he is no longer mainly diagnosing others. The aphorisms turn inward and become riskier. Conviction is what remains after proof has disappointed, history has buried its philosophies, and intelligence has burned through its own fuel.
+
+### Truth Leaves the Propositional Order
+
+§272 ("Truth is a person") and §283 ("God is the substance not only of what I hope but of what I live") mark the sharpest turn yet from thesis to encounter. Earlier sections argued that philosophy authenticates rather than proves (§112) and that love perceives real perfections (§109); here the claims become explicitly personal. Truth is not something one possesses but someone one meets. God is not the conclusion of an argument but the substance of lived experience. The theological register stops being structural and becomes autobiographical.
+
+### Bildung as Deserving to Be Moved
+
+§263 may be the project's clearest methodological statement after §161: "Let us not emulate the work that moves us, but try to deserve being moved by it." That is the right correction to every acquisitive version of reading. The task is not to extract concepts from a great text or imitate its style but to become the sort of reader who can receive it. Translation is useful here precisely because it slows reading down into deserving. Wrestling with a sentence is a way of earning the right to be changed by it.
+
+### The Despair Sequence
+
+§266, §285, §288, and §289 form a remarkable sequence. Every demonstration disappoints; fulfillment requires desolate resignation; intelligence eventually feeds on its own fires; despair becomes the dark pass through which the soul ascends toward a less clouded universe. This is not existentialist theater. It is a purgatorial psychology. What is burned away is not only illusion but appetite itself — the greed that fogs perception. Despair is not celebrated as an end-state but as a passage that clears the air.
+
+### Christianity's Sinister Children
+
+§278 and §291 show the historical consequence of the same inward drama. Modernity is not external to Christianity but one of its increasingly sinister offspring once hope forgets original sin. Civilizations die not from violence alone but from indifference to their founding values. These two aphorisms belong together: forgetting original sin produces the technocratic confidence that hollows a civilization from within. What destroys the tradition is not first its enemies but its heirs no longer caring enough to bear it.
+
+---
+
+## 2026-04-01 — Section 11 backfill (§292–323, pp. 69–81)
+
+This section justifies the form of the entire book. Gómez Dávila says as clearly as he ever will that philosophy fails when it tries to speak the whole in the language of the parts, and that honest thought should not explain mystery but circumscribe it. The *Escolios* are not an eccentric preference for fragments. They are the formally honest response to an impossible object.
+
+### Circumscribing the Mystery
+
+§297 and §306 are the methodological center of gravity. Philosophy fails because it must speak of totality in the idioms of its parts; honest philosophy therefore draws a line around mystery instead of pretending to dissolve it. This clarifies §4 retroactively. The pointillist form is not coyness or aristocratic fastidiousness. It is the admission that every full system is a lie of overreach. The fragment is the unit of intellectual honesty.
+
+### Formation by Forgetting
+
+§299 is as important for the bildung project as §161: "The soul is enriched only by the ideas it forgets." Formation is not accumulation but sedimentation. The thoughts that matter most stop appearing as detachable thoughts and become part of the reader's angle of vision. Paired with §309 (some visit their intelligence; others dwell in it), the point becomes sharper: the goal is not to retain a notebook of aphorisms but to become a person who now sees through them without needing to cite them.
+
+### Before Apologetics, Perception
+
+§312 may be the most pastorally exact aphorism in the whole first volume. Before defending Christianity, one must restore the plausibility of the sacred as such. Don't talk about God to those who cannot yet imagine the gods. This reframes secularization as a perceptual problem rather than an argumentative one. Modern irreligion is not chiefly a bad conclusion; it is a damaged organ of attention. The work of reading, translating, and dwelling with older texts becomes a small exercise in repairing that organ.
+
+### The Death-of-God Trilogy
+
+§321-323 close the section with a direct settlement of accounts with Nietzsche and the absurdists. Rebellion against God is mad but meaningful; rebellion against an indifferent universe is simply pointless. The death of God is the devil's false news bulletin. Authentic atheism is thinkable only as the myriagon is thinkable: reason can define it, but imagination cannot inhabit it. The point is not a proof of God's existence. The point is that without God the human gestures of rebellion, resignation, and meaning lose their interlocutor.
+
+---
+
+## 2026-04-01 — Section 12 backfill (§324–349, pp. 81–94)
+
+After the theological ascent, the moralist returns — but he returns altered. The observations about vanity, forgiveness, love, civilization, and discipline now carry the weight of the previous section's metaphysical claims. What looked earlier like brilliance of social diagnosis now reveals itself as a style of spiritual perception.
+
+### Truth as Simultaneous Obedience
+
+§325 and §337 should be read together. Every truth is a tension between contrary evidences demanding simultaneous obedience; coherence proves only itself, while truth is a sum of incoherent evidences. This may be the single clearest epistemic axiom of the project. The modern temptation is always to resolve the tension into a clean system. Gómez Dávila's counterclaim is that the tangle is not a defect in thought but fidelity to reality. The dual-translation method belongs here: close and free renderings are contrary evidences that must be obeyed together.
+
+### The Seduction of Christian Insolence
+
+§327 is the strongest personal statement of faith so far because it explains why Christianity attracts him: not by its morality, nor by its rational defensibility, but by the marvelous insolence of its doctrines. That fits everything earlier. If ethics is already the first stage of desacralization (§254), then the attraction of Christianity cannot lie in ethics. It lies in its audacity — the Creator born in a stable, bread as body, resurrection as fact. The faith seduces by refusing to become reasonable on modern terms.
+
+### Love, Death, and the Scale of the Concrete
+
+This section keeps returning to the concrete with unusual tenderness. §330 says the existence of the beloved is enough. §338 says every civilization is a dialogue with death. §340 says the modern world rots without military virtues and destroys itself through their technological exercise. These aphorisms are not abstract theses but scales of attention: the beloved person, the civilizational form, the technological contradiction. He keeps moving between them to show that reality is always local and always terminal.
+
+### Show the Noble
+
+§347 and §349 amount to a working ethic for the whole repository. What is effective is not denouncing the vile but showing the noble; excellence comes not from which rule is obeyed but from the manner of obedience. This is a decisive corrective to the temptation toward critique. The project does not need more denunciations of modernity. It needs acts of attention carried out with a certain manner — patient, exacting, and ungreedy enough to let nobility become visible.
+
+---
+
+## 2026-04-01 — Section 13 backfill (§350–374, pp. 94–107)
+
+The last section changes the method because the text itself changes state. The density is too high to justify equal treatment for every aphorism; many no longer need much exegesis because they already arrive in finished form. The right response is selection and distillation. Instead of expanding every sentence, the translator has to decide which ones are structurally load-bearing and which ones should be left almost untouched.
+
+### Words Do Not Communicate
+
+§351 may be the best single defense of the dual-translation method. If words do not communicate but remind, then translation cannot be a transfer of content from one container to another. It is a search for neighboring reminders in the target language. This retroactively explains the entire practice with *seca dicha*, *inconfundible*, and *escollo*: the English phrase does not carry the Spanish intact. It summons an adjacent experience and hopes the overlap is enough.
+
+### The Intact Star
+
+§360 is the clearest statement yet of what this project thinks it is doing. Values do not die; the historical structures that made them perceptible die. Then, if a kindred historian appears, he sees the star intact. That image should govern the relation to tradition across the repo. We are not excavating dead artifacts. We are trying to recover the atmospheric conditions under which still-existing stars become visible again.
+
+### Against the Suicide of Ideas
+
+§364, §365, and §373 form the final anti-systematic triad. An idea developed into a system commits suicide. The hardest task is keeping an idea in the place where it is true. Whatever is not complicated is false. Together they restate the book's deepest polemic: error is rarely invented from nothing; it is usually a truth displaced, overextended, or purified into falsity. The fragment protects truth by refusing to let it wander too far from the place where it lives.
+
+### The Final Turn of the Screw
+
+The section closes by moving simultaneously toward nihilism, irony, and election. §370 says that without God the conclusion is not permission but insignificance. §372 insists that faith unable to laugh at itself should doubt its authenticity. §374 asks who thinks about the anguish of the one who fears he is chosen. These belong together. Only a faith secure enough to survive irony can endure the terror of vocation, and only a world where meaning is real can make election frightening rather than theatrical. The final note is not triumph but trembling.
+
+---

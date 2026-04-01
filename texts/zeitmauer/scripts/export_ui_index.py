@@ -27,6 +27,7 @@ PARTS_DIR = PROJECT_ROOT / "parts"
 
 SECTION_HEADER_RE = re.compile(r"^## §(\d+)\s*$", re.MULTILINE)
 DRAFT_BLOCK_RE = re.compile(r"\*\*Draft\*\*\s+```text\n(.*?)\n```", re.DOTALL)
+TITLE_RE = re.compile(r"^#\s+(.+)$", re.MULTILINE)
 
 
 def load_yaml(path: Path) -> object:
@@ -57,6 +58,10 @@ def normalize_project_file(raw_path: str | None) -> str | None:
     return repo_relative((PROJECT_ROOT / raw_path).resolve())
 
 
+def split_paragraphs(text: str) -> list[str]:
+    return [paragraph.strip() for paragraph in re.split(r"\n\s*\n", text) if paragraph.strip()]
+
+
 def load_translation_drafts() -> dict[int, dict[str, str]]:
     drafts: dict[int, dict[str, str]] = {}
 
@@ -80,6 +85,15 @@ def load_translation_drafts() -> dict[int, dict[str, str]]:
             }
 
     return drafts
+
+
+def load_markdown_doc(path: Path) -> dict[str, str]:
+    content = path.read_text(encoding="utf-8")
+    title_match = TITLE_RE.search(content)
+    return {
+        "title": title_match.group(1).strip() if title_match else path.stem,
+        "content": content,
+    }
 
 
 def main() -> None:
@@ -109,6 +123,8 @@ def main() -> None:
         draft = translation_drafts.get(section_id)
         if draft is None:
             raise SystemExit(f"missing translation draft for section {section_id} in {PARTS_DIR}")
+        de_paragraphs = split_paragraphs(str(source["de"]))
+        en_paragraphs = split_paragraphs(str(draft["en"]))
 
         exported_sections.append(
             {
@@ -120,6 +136,14 @@ def main() -> None:
                 "part_title_en": source["part_title_en"],
                 "de": source["de"],
                 "en": draft["en"],
+                "de_paragraphs": de_paragraphs,
+                "en_paragraphs": en_paragraphs,
+                "paragraph_alignment": {
+                    "de_count": len(de_paragraphs),
+                    "en_count": len(en_paragraphs),
+                    "aligned": len(de_paragraphs) == len(en_paragraphs),
+                    "row_count": max(len(de_paragraphs), len(en_paragraphs)),
+                },
                 "source_file": normalize_project_file(str(item["source"])),
                 "draft_file": draft["draft_file"],
             }
@@ -176,10 +200,17 @@ def main() -> None:
     for item in handles.get("threads", []):
         if not isinstance(item, dict):
             continue
+        resolved_file = normalize_project_file(str(item.get("file")))
+        doc = load_markdown_doc(ROOT / resolved_file) if resolved_file else {
+            "title": str(item["handle"]),
+            "content": "",
+        }
         exported_threads.append(
             {
                 **item,
-                "file": normalize_project_file(str(item.get("file"))),
+                "file": resolved_file,
+                "title": doc["title"],
+                "content": doc["content"],
             }
         )
 

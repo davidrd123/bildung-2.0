@@ -49,6 +49,27 @@
   status: tentative
   notes: "Do not vary casually. Cassirer often builds arguments by repetition and recombination."
 
+- term: "Rechenmarken"
+  handle: "term:rechenmarken"
+  kind: metaphor
+  preferred: null
+  alternatives:
+    - "reckoning-marks"
+    - "tally-marks"
+    - "counters"
+  status: open
+  notes: "A bookkeeping and calculation image for concepts reduced to provisional devices. `Counters` is too flat, while `tokens` now carries avoidable computational baggage."
+
+- term: "Apriori"
+  handle: "term:apriori"
+  kind: concept
+  preferred: "a priori"
+  alternatives:
+    - "aprioric"
+    - "aprioristic"
+  status: tentative
+  notes: "Preserve the philosophical term without flattening it into generic `prior assumption`. In adjectival contexts, prefer `a priori` or `aprioristic` according to the sentence."
+
 - term: "Wissenschaft"
   handle: "term:wissenschaft"
   kind: concept
@@ -95,7 +116,18 @@
     - "mind"
     - "spirit"
   status: open
-  notes: "Use contextually. The calibration tranche pressures both `mind` and `spirit`; do not settle the term globally too early."
+  notes: "Use contextually. The calibration tranche pressures both `mind` and `spirit`; do not settle the term globally too early. The continuation on introduction p. 9 leans toward `mind` where Cassirer rejects the picture of `Geist` as a finished substance."
+
+- term: "Geisteswissenschaften"
+  handle: "term:geisteswissenschaften"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "human sciences"
+    - "sciences of mind"
+    - "cultural sciences"
+  status: open
+  notes: "Needs contextual care. `Human sciences` is the current front-runner in the introduction, but the term remains bound to the unresolved pressure on `Geist`."
 
 - term: "Vorstellung"
   handle: "term:vorstellung"

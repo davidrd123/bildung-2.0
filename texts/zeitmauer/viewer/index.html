@@ -1,0 +1,118 @@
+<!doctype html>
+<html lang="en">
+  <head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1" />
+    <title>Zeitmauer Atlas</title>
+    <link rel="stylesheet" href="./styles.css" />
+    <script type="module" src="./app.js"></script>
+  </head>
+  <body>
+    <div class="page-glow page-glow-a"></div>
+    <div class="page-glow page-glow-b"></div>
+
+    <div class="app-shell">
+      <header class="app-header">
+        <div>
+          <p class="eyebrow">Zeitmauer Atlas</p>
+          <h1>Read the text as a layered object.</h1>
+          <p class="deck">
+            A read-only prototype for sections, glossary evidence, and thread traversal.
+          </p>
+        </div>
+
+        <div class="header-tools">
+          <label class="field">
+            <span>Jump</span>
+            <input
+              id="global-search"
+              type="search"
+              autocomplete="off"
+              placeholder="Search handles, terms, notes, sections"
+            />
+          </label>
+          <div id="jump-results" class="jump-results" aria-live="polite"></div>
+        </div>
+      </header>
+
+      <section class="status-strip">
+        <div id="dataset-stats" class="status-cluster"></div>
+        <div class="status-cluster">
+          <span class="status-label">Mode</span>
+          <button id="toggle-german" class="toggle-pill is-active" type="button">German</button>
+          <button id="toggle-english" class="toggle-pill is-active" type="button">English</button>
+        </div>
+      </section>
+
+      <main class="workspace-grid">
+        <aside class="panel rail">
+          <div class="panel-head">
+            <div>
+              <p class="panel-kicker">Chronology</p>
+              <h2>Sections</h2>
+            </div>
+            <label class="field compact">
+              <span>Filter</span>
+              <input
+                id="section-filter"
+                type="search"
+                autocomplete="off"
+                placeholder="Find a section"
+              />
+            </label>
+          </div>
+          <div id="section-nav" class="section-nav"></div>
+        </aside>
+
+        <section class="panel focus-panel">
+          <div id="section-panel" class="section-panel"></div>
+        </section>
+
+        <aside class="context-column">
+          <section class="panel context-panel">
+            <div class="panel-head">
+              <div>
+                <p class="panel-kicker">Concept Layer</p>
+                <h2>Glossary</h2>
+              </div>
+              <label class="field compact">
+                <span>Filter</span>
+                <input
+                  id="term-filter"
+                  type="search"
+                  autocomplete="off"
+                  placeholder="Find a term"
+                />
+              </label>
+            </div>
+            <div class="context-split">
+              <div id="term-list" class="term-list"></div>
+              <div id="term-detail" class="term-detail"></div>
+            </div>
+          </section>
+
+          <section class="panel context-panel">
+            <div class="panel-head">
+              <div>
+                <p class="panel-kicker">Traversal Layer</p>
+                <h2>Threads</h2>
+              </div>
+            </div>
+            <div id="thread-list" class="thread-list"></div>
+            <div id="thread-detail" class="thread-detail"></div>
+          </section>
+
+          <section class="panel context-panel">
+            <div class="panel-head">
+              <div>
+                <p class="panel-kicker">Handle Layer</p>
+                <h2>Inspector</h2>
+              </div>
+            </div>
+            <div id="handle-inspector" class="handle-inspector"></div>
+          </section>
+        </aside>
+      </main>
+    </div>
+  </body>
+</html>

@@ -27,9 +27,13 @@ source/
   glossary.yaml        # key term decisions and unresolved concepts
 parts/
   01-fremde-voegel.md  # translation batches in reading order
+threads/
+  time-crisis.md       # commentary dossiers anchored in the translated text
 journal.md             # process notes, open problems, drift in decisions
 scripts/
   extract_sections.py  # rebuilds source/sections.yaml from the ebook text
+viewer/
+  index.html           # read-only HTML prototype for the translated range
 ```
 
 ## Section Map
@@ -59,3 +63,25 @@ python3 texts/zeitmauer/scripts/extract_sections.py
 ```
 
 The extractor is intentionally simple and reproducible. It preserves the numbered prose units and drops the later adnotes.
+
+## Viewer Prototype
+
+A small read-only viewer now lives in `viewer/`. It reads `source/ui-index.json` and exposes:
+
+- section navigation with German and English aligned by paragraph row
+- glossary terms with evidence chains
+- thread traversal through clickable handles and exported dossier content
+
+To refresh the data for the viewer:
+
+```bash
+python3 texts/zeitmauer/scripts/export_ui_index.py
+```
+
+To serve the prototype locally from the repo root:
+
+```bash
+python3 -m http.server
+```
+
+Then open `/texts/zeitmauer/viewer/` in a browser.

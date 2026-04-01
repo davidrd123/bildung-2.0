@@ -29,6 +29,7 @@ Each subproject is an organ of one system, not a standalone effort.
 - **Commentary as equal in dignity to translation** — journals, glossaries, and cross-project notes preserve how understanding develops
 - **Cross-domain synthesis** — connecting texts that institutions keep apart, tracing buried genealogies, making structural echoes visible
 - **Deferred structure** — terms held `open` or `tentative` until evidence settles them; premature resolution is data loss
+- **The texts teach the method** — the project discovers its own principles through the material it translates, not in advance of it. When Gómez Dávila says "the soul is enriched only by the ideas it forgets" (§299), that is a finding about formation. When Jünger argues that measurable knowledge destroys what it measures (§8), that is a finding about deferred structure. When Cassirer says philosophy and science must be read as coequal symptoms of one intellectual development, that is a finding about cross-domain synthesis. These are not illustrations of pre-existing commitments. They are discoveries made through slow contact with the source. Journals should record them when they surface, because they accumulate into the project's self-understanding
 
 ## Layers
 

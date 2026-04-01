@@ -57,6 +57,13 @@ Experienced (linear, horizontal) time is a cognitive artifact — we generate it
 - `[39:1–9]` 3-74 is pushed back into 1971 and reframed as long-duration track-switch rather than one isolated event
 - `[43:83]` parallel worlds phasing in and out are now tied directly to memory/history disagreement as an ongoing condition
 - `[44:82]` Dick restates one of his starkest claims: no real time has passed since `Acts`; the frozen complex simply stopped admitting newness
+- `[46:430]` ordinary chronology is further destabilized when 1963 and 1974 are treated as if separated by millennia
+- `[47:626–649]` Beethoven, the Christian urwelt, and the conversion of time into space become the strongest spatial formulation yet of orthogonal time
+- `[47:720]` Dick gives a technical de-occlusion model: synchronized inner and outer tapes must be sundered so the slower real world becomes visible
+- `[48:812–823]` ascent through Dantean and Plotinian layers turns orthogonal time into a lifetime movement through coaxial ontological pages
+- `[48:945]` Dick radicalizes the rate model into biological acceleration: he sped past ordinary time into future morphology and saw the world as ancient
+- `[49:1041]` the macro-mind's present is said to extend back 2,000 years, making awakening identical with entry into that larger time-field
+- `[82:30–105]` time reversal becomes explicit mechanism: groove override, reverse causation, field bootstrap, and library-like retrieval from stopped or reversed time
 
 ## Mutations
 

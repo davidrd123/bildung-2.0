@@ -6,6 +6,12 @@ Nicolás Gómez Dávila, *Escolios a un texto implícito I* (1977)
 
 A slow translation of Gómez Dávila's scholia, treated as a practice of reading — not just a product. Each aphorism gets two English renderings (close and free), translation notes, and exegesis. The journal tracks the process itself: what the act of translating reveals.
 
+## Reading Claim
+
+> "All literature is contemporary for the reader who knows how to read."
+
+The wager here is not historical recovery for its own sake. The text is being read in the present tense, and translation is one way of earning that contemporaneity.
+
 ## Source
 
 - `../../books/escolios.txt` — OCR text from Internet Archive

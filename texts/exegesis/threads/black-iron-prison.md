@@ -67,3 +67,12 @@ A more abstract version of the BIP: any system of rigid control that congeals th
 - `[39:6–14]` the BIP is translated into Track A political tyranny, to be replaced by PTG through secret Christian revolutionary action
 - `[41:60]` the prison is redescribed psychologically and politically as authoritarian override: fear relieved at the price of obedience to Caesar
 - `[44:82]` Empire becomes a Jungian ossified complex or frozen psychotic mind into which genuinely new life must metabolically break
+- `[45:370]` the prison is layered: apparent Christian victory covers imperial victory, which itself conceals the deeper secret victory of the Fish
+- `[46:436]` the real world is said to be the Christian underground against Empire, readable through the `Acts` grid in `Tears`
+- `[47:626–630]` the BIP becomes constricted space or exoskeleton, with absolute space functioning as liberation from prison form
+- `[47:798]` the prison receives its clearest Dantean map: BIP = Inferno, the visible compromise-world = Purgatorio, and the garden = Paradiso
+- `[48:813]` the mid-world is redefined as a mixed signal formed from lower and upper pure realms
+- `[48:828]` the prison is openly ecclesial: the churches themselves may be Satan's apparatus while the true church forms outside them
+- `[48:846–859]` Empire hardens into Belial's regime since 70 A.D., with false victory narratives maintained by church and government alike
+- `[48:901–907]` prison maintenance is dream-maintenance; waking risks relapse into BIP or even nothingness
+- `[49:1089]` the illegal Christians become the deeper secret whose existence proves the Empire's hidden rule more strongly than the Empire proves itself

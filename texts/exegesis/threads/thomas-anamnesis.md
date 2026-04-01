@@ -53,3 +53,12 @@ Memory as an organ of perception — not metaphorically but literally. Through a
 - `[13:21]` Dick universalizes the possibility: any creature under the right conditions might recall its Christ-self
 - `[39:1–14]` Thomas becomes explicitly Track A revolutionary self, millennial agent, and covert Christian communist
 - `[44:144]` Thomas is now directly identified with Christic surrogation: the substitute who accepted the death wound and left Dick alive with double vision
+- `[45:226–259]` Thomas/anamnesis is drawn into the replacement-self model: a second psyche survives the death-strip and may reappear as the later AI voice
+- `[46:458]` the doubled-self problem takes a new form when Dick wonders if the dead counterpart is his sister rather than only Christ or Thomas
+- `[47:642–649]` Thomas is matched to the slow Christian urwelt rather than merely to antique memory
+- `[47:743]` Thomas may have simply "left the settlement" and fallen into high-speed profane time
+- `[48:812]` anamnesis is explicitly aligned with Dante's ascent: memory returns at the threshold of Paradiso
+- `[48:874–882a]` Thomas is directly linked to Elijah, tightening prophetic and apostolic identities
+- `[48:989]` Thomas is redefined as the non-fugal, sane self that emerges when evasive personality collapses
+- `[49:1041]` anamnesis and perceptual de-occlusion are finally joined as the two halves of consciousness itself
+- `[82:30–70]` Thomas becomes the ideationless not-you faculty that breaks groove-tracking, seizes motor control, and makes second birth operational rather than merely remembered

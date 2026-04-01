@@ -24,3 +24,24 @@ ranges:
     printed_pages: ["1", "4"]
     trust: "high"
     note: "PDF page 25 begins with the introduction heading."
+
+  - slug: "einleitung-conclusion"
+    label: "Conclusion of the introduction"
+    pdf_pages: [41, 42]
+    printed_pages: ["17", "18"]
+    trust: "high"
+    note: "The introduction ends on printed page 18."
+
+  - slug: "erstes-buch-divider"
+    label: "Book I divider"
+    pdf_pages: [43, 44]
+    printed_pages: ["divider", "blank"]
+    trust: "high"
+    note: "PDF page 43 is the unnumbered divider `Erstes Buch / Die Renaissance des Erkenntnisproblems`; PDF page 44 is blank."
+
+  - slug: "nikolaus-cusanus-opening"
+    label: "Opening of `Nikolaus Cusanus`"
+    pdf_pages: [45, 45]
+    printed_pages: ["19", "19"]
+    trust: "medium"
+    note: "The chapter-opening page suppresses the visible running page number, but sequence and content indicate printed page 19."

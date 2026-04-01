@@ -76,3 +76,12 @@ Every truth Dick arrives at generates its opposite. This is not failure — it's
 - `[43:83]` Dick explicitly defends holding irreality, intelligence, and structure together at once rather than forcing premature reduction
 - `[44:12]` reality's mimetic obligingness is turned into a method: contradiction can be induced through push-pull dialogue with the field itself
 - `[44:82]` the dialectic becomes therapeutic and metabolic: the frozen iron complex is invaded and dissolved by something new entering it
+- `[45:370]` the conflict becomes vertically layered rather than simply opposed: surface Christian victory, hidden imperial victory, deepest fish-victory
+- `[47:617]` two systems of information intersect to generate spatial reality, shifting dialectic toward holographic ontology
+- `[47:649]` the higher horn's victory becomes rate-dependent: slowed perception reveals the inevitable triumphs of the wiser pole
+- `[47:798]` prison, mid-world, and garden are mapped as Inferno, Purgatorio, and Paradiso
+- `[48:813]` the dialectic is purified into two absolute realms whose admixture creates the ambiguous middle world
+- `[48:847]` YHWH and Satan are now read as antagonists inside a single historical falsework that God can reverse by making the lie true
+- `[48:907]` dialectic becomes risk-logic: striving toward PTG may drop one into BIP, so revelation is also gamble
+- `[49:1081]` the interaction of the two information sources is said to generate our universe as an increasingly complex informational world
+- `[49:1132–1151]` the deepest version arrives: the Godhead splits against itself because the beauty of kosmos morally conflicts with the suffering it requires

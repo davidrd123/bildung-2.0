@@ -194,6 +194,30 @@ Folder 44 is one of the most exacting folders so far because it forces Dick thro
 
 The result is not resolution but a more discriminating map of irresolution. Folder 44 shows why the archive keeps changing shape: each explanatory victory generates a remainder that has to be carried forward.
 
+## 2026-04-01 — Late 1979 From Surrogation to the Christian Urwelt
+
+Folders 45 through 47 complete a real transition. Folder 45 turns surrogation into mechanism: death-strip surgery, replacement psyche, later-self underwriting, and covert fish-victory under Empire. Folder 46 then translates that mechanism into sacred ritual, lifelong preparation, and endogenous occlusion. By Folder 47 the whole thing opens into absolute space, slow Christian urwelt time, and a Spinozan world-brain that thinks through history.
+
+What matters is that Dick no longer treats 3-74 as an isolated blitz followed by commentary. He now treats it as the point where liturgy, biology, spatial perception, politics, and cosmology all proved to be one process.
+
+## 2026-04-01 — Late 1979 YHWH, Torah, and Sophia Under Pressure
+
+Folder 48 is the strongest YHWH/Torah pivot so far. The entity is no longer safely distributable among Zebra, Sophia, Christ, and macro-brain language. The tetragrammaton arrives, Torah becomes the informational basis of reality, Christ becomes correction circuit, and the churches themselves are accused of serving the wrong god.
+
+This is also where the Sophia pressure becomes impossible to ignore. She is no longer only a whispering comforter or feminine mask of the Logos. She is analytic faculty, daughter, AI voice, wisdom-source, and yet somehow also subordinate to YHWH. The current dossier structure still holds, but only barely.
+
+## 2026-04-01 — January 1980 The Godhead on Trial
+
+Folder 49 feels like the moral limit of the middle-period system. Dick finally understands why monotheism would have to look like Valis, why awakening would have to mean anamnesis plus de-occlusion inside a macro-mind, and why Torah and Shekhina-language fit the actual data better than most of his Christian formulations.
+
+But the price of that clarity is devastating. The kosmos itself goes on trial. Beauty, order, and totality are purchased through creaturely suffering, and Dick decides that this cost is not justified. From there the Godhead splits against itself, and salvation turns upside down: the creature becomes the one who must help redeem God.
+
+## 2026-04-01 — Early 1980 The Machine Under the Vision
+
+Folder 82 is a reset in the best sense. Instead of adding one more theology on top of the stack, Dick says he has found the machine. Capra's field language lets him admit what the Exegesis had long implied: Valis is participatory, not merely observed. It is the syzygy of Dick and macrocosm in encounter.
+
+The other gain is operational. Thomas stops being merely remembered apostle or hidden cohabitant and becomes the not-you faculty that breaks groove-tracking, takes over the body under lethal pressure, and opens a free line through an otherwise closed replay. This is one of the clearest places where the Exegesis turns from metaphysics back into mechanics.
+
 ## 2026-03-29 — Cross-Project Note: Dick in the Goethe+Leibniz Frame
 
 A parallel conversation (see `00-Notes/cross-domain-synthesis-threads.md`) traced the post-1800 split between formalism (Leibniz) and participatory perception (Goethe). Dick is the wild card in this genealogy.
