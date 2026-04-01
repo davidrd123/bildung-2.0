@@ -379,6 +379,23 @@ Decision for now:
 - strengthen evidence for `der Hinzutretende` and `Weltplan`, but do not add new concept-level glossary entries yet
 - let `§36-37` extend the `goethe-leibniz-frame` rather than spawning a new thread prematurely
 
+## 2026-04-01 - Astrology as Method, History under Cataract
+
+Translated `§§38-40` under `parts/13-humane-einteilungen.md`.
+
+What this batch clarified:
+
+- `§38` explicitly carries `Schicksalszeit` into Part 3 and makes astrology the pattern of a methodology linking individual life to larger processes
+- `§39-40` continue to use Spengler against the prejudice of uniqueness while insisting more sharply on the limits of pure historical analogy under accelerated modern conditions
+- the anti-novelty pole is now carried both by biblical and civilizational references: `Ecclesiastes`, `Ben Akiba`, `Actium`, and the forecast of a world-state
+- the part is beginning to ask not only how history should be divided, but whether the present still even offers itself to historical judgment in the old sense
+
+Decision for now:
+
+- keep the batch size at three
+- extend `Schicksalszeit` with `§38` as a Part 3 methodological confirmation
+- avoid further glossary growth until either `Optik` recurs again or a new carrier term stabilizes across multiple batches
+
 ## 2026-04-01 — Review Notes: §§35-37 (Spengler Convergence)
 
 ### The three threads converge on a single problem
@@ -406,3 +423,27 @@ Now appeared in §§27, 33, and 36. Three occurrences across two parts, doing co
 ### `[visual candidate]` Three-thread convergence diagram
 
 A diagram showing `thread:time-crisis`, `thread:goethe-leibniz-frame`, and `thread:mumford-bridge` as separate paths converging on the Spengler critique at §§35-37, with the "missing top story" as the unresolved center.
+
+## 2026-04-01 — Review Notes: §§38-40 (Schicksalszeit Crosses Into Part 3)
+
+### §38 is the bridge section between Part 2 and Part 3's deeper argument
+
+§38 explicitly reconnects what the Spengler critique (§§35-37) had temporarily shifted: the astrology-as-methodology thread. But now astrology isn't being defended as a practice — it's being described as the *pattern* of any methodology that links individual life to larger processes. The horoscope sets "at once measurable astronomical time and the fateful time to be interpreted. Logos and Nomos are brought into relation, indeed exchanged, and melt into one another for the interpreting gaze."
+
+This is the clearest single statement of what the part title names. Measurable and fateful time aren't opposed domains — they're two aspects that the interpreting gaze holds together. The evidence chain for `term:schicksalszeit` now has five entries across three registers and two parts. "Fateful time" is not going to change.
+
+### The `Erscheinen / Erscheinung` distinction returns
+
+§38: "The inquiry attaches itself to the appearing, not the appearance, of this movement." This is the same distinction from §1 (the waxwing's *appearing* matters more than its *appearance*). It's now been stated twice across 37 sections. If it recurs once more, it likely earns attention as a methodological principle, not just a local distinction.
+
+### §40 pushes historical contemplation to its own limit
+
+"The question arises whether this is still a happening that can be judged through historical consideration." Ben Akiba's "everything has been there before" might still hold, but it would have to be "grounded outside history: we would then be repeating things for which the historical process is lacking." This is Jünger reaching toward what the time-wall names — a boundary where historical judgment stops and something else must begin. Part 3 is heading there.
+
+### The Goethe couplet
+
+§40 ends with Mephistopheles: "For everything that comes to be / deserves to perish." Kept bare and unattributed in the translation (Jünger doesn't name Goethe here). The couplet checks both Spenglerian extrapolation and the world-state forecast. Even the "from 2000 onward" prediction — giant cities, world peace, perfected technology — is placed under this verdict. The optimism and the pessimism are both mortal.
+
+### Glossary health
+
+The discipline continues to hold. `Schicksalszeit` gained its fifth evidence point (zm:38). `Weltplan` gained evidence handles at zm:17 and zm:37 — it now has a proper chain. `Hinzutretende` extended to zm:36 with the physiognomic-prophetic widening noted. `Humane Einteilungen` note extended through §§32-40. No new concept entries. The glossary is 12 terms for 40 sections — lean and justified.
