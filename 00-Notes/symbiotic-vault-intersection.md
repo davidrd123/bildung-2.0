@@ -4,21 +4,26 @@ Working bridge note between `bildung-2.0` and the teammate project at `/home/dav
 
 ## Short Version
 
-`bildung-2.0` and `Symbiotic-Vault` are not doing the same job, but they are building the same architecture from opposite ends: a multi-layered instrument where raw material gets interpreted through multiple frames without premature flattening.
+Both projects build multi-layered instruments where raw material gets interpreted through multiple frames without premature flattening. One does it for philosophical translation. The other does it for creative writing practice. The architectural problems are identical. The substrates are different. And they've now converged far enough to prove it.
 
-- `bildung-2.0` is a reconstruction project for whole knowing through translation, commentary, and civilizational recovery.
-- `Symbiotic-Vault` is an operational design for human-agent cohabitation around writing, memory, structure, and emergence.
+## The Pitch
 
-One is more outward-facing and text-transmissive.
-The other is more inward-facing and infrastructural.
+bildung-2.0 has a working viewer where you click a glossary term and see every section that tested it, with evidence for why the current rendering holds or doesn't. You click a thread and walk a path through passages connected by a conceptual claim. You toggle German and English side by side. You inspect any handle and see what it is, where it lives, and what it touches.
 
-Together they suggest a larger ecology: a habitat for living thinking, and a set of recovery projects that give that habitat something serious to think with.
+The Vault has a working skill system where atoms get extracted from journals, connected by a tend pass, read through frames, and reflected on by the agent. The reaction system lets the human steer with yes/no/try-again signals. The Factory spec describes how the whole loop cocreates a creative persona.
 
-## The Pitch (for when "translating language material" doesn't land)
+These are the same instrument in different clothing:
 
-The translation project *is* a vault. The German source text is the journal. The glossary is the atom pool. The commentary layers are frames. And both projects hit the same instrument-design problem: how do you build a dynamic interface where multiple interpretive layers can speak to each other without collapsing into one?
+- **Raw layer** — The Vault has `_journal`. bildung-2.0 has German source text.
+- **Atomic layer** — The Vault has 47 atoms with status lifecycle. bildung-2.0 has glossary terms with `open/tentative/stable` and machine-readable evidence chains.
+- **Perspective layer** — The Vault has 7 frames. bildung-2.0 has thread dossiers that work identically: the goethe-leibniz-frame thread is a *method lens* for translation decisions, same way writing-practice is a method lens for the Vault's creative output.
+- **Derived view** — The Vault uses Obsidian + dataview. bildung-2.0 uses an HTML viewer reading from exported JSON.
+- **Agent boundary** — The Vault has explicit surface access tiers. bildung-2.0 has promotion gates and an agent authority boundary.
+- **Feedback loop** — The Vault's `→ try again — less Baudrillard` teaches the agent through the human's reaction. bildung-2.0's evidence chains teach the glossary through the text's resistance: §4 tests a term, §9 stress-tests it, §13 confirms or breaks it.
 
-The architectural problems are identical. The substrates are different.
+The difference isn't what they're building. It's what they're reading. The Vault reads the human's creative practice. bildung-2.0 reads buried philosophical texts. The architecture that lets you do one lets you do the other.
+
+What bildung-2.0 adds that generic PKM doesn't: *content so hard it breaks naive tooling*. Untranslated German philosophy with unstable vocabulary, cross-linguistic drift, commentary layers that can't be reduced to tags, and evidence chains that span 16 sections and counting. If the shared architecture can hold this, it can hold anything the Vault might encounter.
 
 ## Precise Structural Isomorphisms
 
