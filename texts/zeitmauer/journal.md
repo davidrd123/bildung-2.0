@@ -581,3 +581,50 @@ Still 12 terms for 52 sections. `An der Zeitmauer` gained its first evidence poi
 ### Where Part 3 is heading
 
 20 of 53 Part 3 sections translated. The argument has moved from divisions-of-time (§§32-37) through limits-of-morphology (§§38-43) into threshold-and-consequence (§§44-52). The next stretch (§§53-84) is 32 sections — the longest remaining run. The part title "Human Divisions" is starting to reveal its deeper meaning: not just how humans divide time, but what happens to human categories when the time being divided exceeds them. The time wall is the place where human divisions stop working.
+
+## 2026-04-01 — Blood-Toll, False Return, and Summation
+
+Translated `§§53-55` under `parts/18-humane-einteilungen.md`.
+
+This batch clarifies what the threshold does not mean. `§53` argues that the bloodshed of the present can no longer be understood as crusade, heroism, or even valid practical sacrifice; it remains blood demanded without visible sacrifice. `§54` then explicitly rejects the simple thesis of mythic return: mythic powers can still press into weak historical forms, but they cannot rule again in the old light. What approaches would have to be something other, a new `Hochgrad` rather than a restoration. `§55` recapitulates the cycle-question by shifting from numerical analogy to qualitative summation.
+
+Working observations:
+
+- `§53` is the blood-toll section. `We see no sacrifice, but we pay a toll` is the clearest statement so far that valid meaning has withdrawn from killing without the demand for blood having withdrawn.
+- `§54` is the strongest section of the batch and one of the most important in Part 3. The denial of simple mythic return matters just as much as the admission that mythic powers still press into weak forms. The category Jünger is after is neither secular progress nor mythic restoration.
+- `Bruchstelle` has now clearly recurred. In `§1` it marked the time-break as a found site; in `§54` the plural marks wound-edges where mythic force presses into weakened historical form. The English should stay open.
+- `§54` also sharpens the method question: `Facts do not change; they indicate changes.` Facts arrive as fruits after the real shift has already happened.
+- `§55` keeps the cycle argument from drifting into numerology. The right analogy is not mere calendar overlap but storm-tide, deluge, disappearance, resettlement.
+
+Decisions:
+
+- extend `Bruchstelle` with an evidence chain instead of forcing a preferred rendering
+- extend `thread:time-crisis` through `§54`, where the crisis becomes a light-question rather than a simple contest between history and myth
+- keep `Wiederkehr`, `Hochgrad`, and `geschichtsbildende Kraft` in the journal layer for now
+
+## 2026-04-01 — Review Notes: §§53-55 (Bruchstelle Returns)
+
+### `Bruchstelle` finally has a chain — and it confirms the `open` status
+
+In §1: "The fracture point at issue here names a mystery of time. Fracture points are places where something is found." Conceptual, almost aphoristic — a single image establishing the term.
+
+In §54: "The mythic wants to press into the fracture points as into wound-edges, but it cannot unfold there in the old force, for the substrate is too weak." Concrete, plural, imagistic — fracture points are now physical boundaries where one kind of power presses into another's weakened territory.
+
+These two uses are structurally different enough that the glossary note is correct to say "the English choice may need to remain context-sensitive across fracture, breach, and fault-line registers." The evidence doesn't converge on one rendering — it confirms that `Bruchstelle` genuinely works differently in different contexts. `open` is the right status, and now it's `open` *with evidence* rather than `open` by default. That's the maturity model working: `open` is not failure to decide, it's a positive determination backed by structural data.
+
+### §54's method sentence
+
+"Facts do not change; they indicate changes." This is a companion to §34's "facts create evidence, not truths." Together they form a pair:
+
+- §34: facts come after the spirit has already marked the field (facts as evidence, not truth)
+- §54: facts don't change themselves; they indicate that something else has changed (facts as symptoms, not causes)
+
+Both sentences say the same thing from different angles: the real movement happens beneath the factual surface. For the project: the translations, the glossary entries, the handle counts — these are facts that indicate changes in understanding, but they are not the understanding itself. The understanding lives in the encounter, which the facts serve.
+
+### §54 as the denial that completes the §48 threshold
+
+§48 named the time wall. §54 says what the time wall is *not*: it is not simple mythic return. The mythic can press into the historical world's fracture points, but it cannot restore itself in the old form. What approaches is "a new high degree" — neither historical progress nor mythic recurrence but something for which adequate names don't yet exist (§51's naming crisis). This is Jünger's most careful position statement in Part 3 so far: he is not a traditionalist (myth cannot simply return), not a progressivist (history's measures are failing), and not a pessimist (something genuinely new is approaching). He is standing at the time wall and describing what he can see from there.
+
+### Glossary at §55
+
+Still 12 terms for 55 sections. `Bruchstelle` gained evidence without changing status — the right outcome. No new entries promoted. The pressure-point list grows (`Wiederkehr`, `Hochgrad`, `geschichtsbildende Kraft`, `Optik`, `Geschichtswahrung`), but none has yet crossed the threshold of cross-batch structural recurrence that would justify promotion over the existing 12.

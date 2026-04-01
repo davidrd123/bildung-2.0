@@ -41,7 +41,7 @@
     - "Human Classifications"
     - "Human Orderings"
   status: tentative
-  notes: "Working after §§32-52. `Humane` here means human rather than ethically `humane`; the part opens with divisions of world-time, history, and natural order, then moves into Spengler, morphology, world-plan, and the limits of pure historical judgment, sharpens the difference between historical time and `Schicksalszeit`, widens into earth-history, prehistory, and the dawning of historical consciousness, reaches the preservation and injury of historical man, and now turns toward mythic return, naming-crisis, sacrifice, and the waning of the hero rather than toward gentleness or moral cultivation."
+  notes: "Working after §§32-55. `Humane` here means human rather than ethically `humane`; the part opens with divisions of world-time, history, and natural order, then moves into Spengler, morphology, world-plan, and the limits of pure historical judgment, sharpens the difference between historical time and `Schicksalszeit`, widens into earth-history, prehistory, and the dawning of historical consciousness, reaches the preservation and injury of historical man, turns toward mythic return, naming-crisis, sacrifice, and the waning of the hero, and now clarifies false recurrence, blood-toll, and qualitative summation rather than gentleness or moral cultivation."
 
 - term: "Schicksalszeit"
   handle: "term:schicksalszeit"
@@ -110,7 +110,10 @@
     - "fracture point"
     - "break point"
   status: open
-  notes: "Jünger uses it both conceptually and imagistically. The English choice may need to shift by context."
+  evidence:
+    - "evidence:term:bruchstelle:zm:1"
+    - "evidence:term:bruchstelle:zm:54"
+  notes: "Jünger uses it both conceptually and imagistically. By §54 the term clearly names weak boundaries or wound-edges where other powers press in, so the English choice may need to remain context-sensitive across fracture, breach, and fault-line registers."
 
 - term: "der Hinzutretende"
   handle: "term:hinzutretende"

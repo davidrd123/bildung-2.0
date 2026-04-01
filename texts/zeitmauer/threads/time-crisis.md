@@ -19,6 +19,7 @@ The main thread so far in `texts/zeitmauer`: the collision between measurable ti
 - `zm:44:zeitfragen` extends the crisis beyond human history: behind questions of power, questions of time are at work.
 - `zm:48:zeitmauer` names the threshold directly: beyond the time wall the future begins to outline itself, and naming that zone becomes dangerous.
 - `zm:51:namenlos` extends the threshold into a naming crisis: future things are visible before historically binding words can catch them.
+- `zm:54:lichtfrage` clarifies that the threshold is not simple mythic return; the issue is a changed light and the approach of a new order.
 - `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.
 - `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.
 
@@ -42,6 +43,7 @@ Jünger's strategy is to lead the reader out of the apparently "occult" cases an
 - species-loss and species-emergence pushed behind time-questions in `zm:44:zeitfragen`
 - the future outlining itself beyond the `Zeitmauer` in `zm:48:zeitmauer`
 - the name-less future and the shrinking reservation of historical naming in `zm:51:namenlos`
+- the light-question and the non-return of mythic rule in `zm:54:lichtfrage`
 
 ## Commentary Use
 

@@ -2,7 +2,7 @@
 # Canonical authority remains: `sections.yaml`, `glossary.yaml`, `parts/`, `threads/`, and `journal.md`.
 
 project: zeitmauer
-scope: "pilot-translated-range-1-52"
+scope: "pilot-translated-range-1-55"
 
 sections:
   - handle: "zm:1"
@@ -265,6 +265,21 @@ sections:
     label: "§52"
     part_slug: "humane-einteilungen"
     source: "source/sections.yaml"
+  - handle: "zm:53"
+    id: 53
+    label: "§53"
+    part_slug: "humane-einteilungen"
+    source: "source/sections.yaml"
+  - handle: "zm:54"
+    id: 54
+    label: "§54"
+    part_slug: "humane-einteilungen"
+    source: "source/sections.yaml"
+  - handle: "zm:55"
+    id: 55
+    label: "§55"
+    part_slug: "humane-einteilungen"
+    source: "source/sections.yaml"
 
 chunks:
   - handle: "zm:1:seidenschwanz"
@@ -343,6 +358,10 @@ chunks:
     section: "zm:51"
     file: "parts/17-humane-einteilungen.md"
     note: "Midnight of history: future things are still nameless, and historically valid naming survives only in reservations."
+  - handle: "zm:54:lichtfrage"
+    section: "zm:54"
+    file: "parts/18-humane-einteilungen.md"
+    note: "Mythic return is denied as a simple restoration; the issue is a changed light and the approach of a new high degree."
 
 notes:
   - handle: "note:zm:1:seidenschwanz"
@@ -453,6 +472,12 @@ notes:
     file: "parts/17-humane-einteilungen.md"
     kind: "translation_note"
     note: "The section turns the title-metaphor into a naming crisis: future things are dimly visible before they can be forced under historically binding names."
+  - handle: "note:zm:54:lichtfrage"
+    section: "zm:54"
+    anchor: "zm:54:lichtfrage"
+    file: "parts/18-humane-einteilungen.md"
+    kind: "translation_note"
+    note: "The end of the historical world is not read as mythic return; the decisive question is one of light, with a new `Hochgrad` rather than restored ancient figures."
   - handle: "note:journal:mumford-bridge"
     file: "journal.md"
     heading: "2026-03-29 — Mumford as Bridge Text"
@@ -581,6 +606,18 @@ evidence:
     file: "parts/16-humane-einteilungen.md"
     relation: "grounds"
     note: "Extends `So-Sein` beyond personal or anti-uniform contexts into the nomos, dignity, and measure of historical man."
+  - handle: "evidence:term:bruchstelle:zm:1"
+    term: "term:bruchstelle"
+    anchor: "zm:1:bruchstelle"
+    file: "parts/01-fremde-voegel.md"
+    relation: "grounds"
+    note: "Introduces the time-break as a found site rather than a merely terminal rupture."
+  - handle: "evidence:term:bruchstelle:zm:54"
+    term: "term:bruchstelle"
+    anchor: "zm:54"
+    file: "parts/18-humane-einteilungen.md"
+    relation: "grounds"
+    note: "Reactivates the term at weak historical boundaries where mythic force presses in like at wound-edges."
 
 relations:
   - from: "zm:1:seidenschwanz"
@@ -647,6 +684,10 @@ relations:
     relation: "extends"
     to: "thread:time-crisis"
     note: "The crisis now appears directly as a crisis of naming: future things arrive before historically binding words can catch them."
+  - from: "zm:54:lichtfrage"
+    relation: "extends"
+    to: "thread:time-crisis"
+    note: "The crisis is clarified as a light-question: what approaches after history is not simply mythic return, but a new order that old categories cannot yet name."
   - from: "note:journal:mumford-bridge"
     relation: "grounds"
     to: "thread:mumford-bridge"

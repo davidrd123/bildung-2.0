@@ -1,19 +1,19 @@
 {
   "project": "zeitmauer",
-  "scope": "pilot-translated-range-1-52",
+  "scope": "pilot-translated-range-1-55",
   "source_files": {
     "sections": "texts/zeitmauer/source/sections.yaml",
     "glossary": "texts/zeitmauer/source/glossary.yaml",
     "handles": "texts/zeitmauer/source/handles.yaml"
   },
   "counts": {
-    "sections": 52,
+    "sections": 55,
     "terms": 12,
-    "chunks": 19,
-    "notes": 20,
+    "chunks": 20,
+    "notes": 21,
     "threads": 3,
-    "evidence": 17,
-    "relations": 20
+    "evidence": 19,
+    "relations": 21
   },
   "sections": [
     {
@@ -1715,6 +1715,108 @@
       },
       "source_file": "texts/zeitmauer/source/sections.yaml",
       "draft_file": "texts/zeitmauer/parts/17-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:53",
+      "id": 53,
+      "label": "§53",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Die großen Blutopfer dieser Jahre können nicht als die eines Religionskrieges, etwa eines Kreuzzuges, und auch nicht mythisch-heroisch wie in den Väterzeiten geschaut werden, weder von der Geschichtschreibung noch von der Dichtung, noch am verlassenen Herd.\n\nWenn etwas wiederkehrt oder wenn ein Rückschritt statthat, so muß er in ältere, namenlose Schichten führen, in götter- und heldenloses, in vorhomerisches, ja vorherakleisches Land. Das Geschehen trägt einen elementarischen, titanischtellurischen Zug, bei dem die materielle Ordnung die paternitäre überwiegt, altes Recht, alte Sitte, alte Freiheit fragwürdig wird. Dem entspricht die maßlose, prometheische Kühnheit der Mittel und Methoden, der Vulkanismus, das Feuer, die Regung der Erdschlange, das Auftauchen von Unholden, ihre Straflosigkeit. Dem entspricht auch der Vorrang von Energien vor der durchgeistigten Form, sei es im Staat, im Kunstwerk oder in der Strategie. Nicht etwa tritt der Krieg ins Licht geläuterter Gesittung und wird dort hinfällig, sondern er zerfällt in sich, wird zum unscharfen und unberechenbaren, sogar selbstmörderischen Mittel der Politik, zur Sackgasse.\n\nDamit verliert auch die Tötung ihren berechenbaren Sinn, tritt aus der überlieferten Gesetzmäßigkeit heraus. Der Unterschied zwischen dem Menschen, der wie der Richter oder der Feldherr auf legale Weise über das Leben verfügt, gegenüber dem Henker und dem Mörder wird unscharf, kann diskutiert werden, während zugleich zahllose Unschuldige wegen geringfügiger sozialer oder ökonomischer Differenzen des Lebens beraubt werden oder als Sklaven dahinschmachten.\n\nDemgegenüber kann von Opfern weder im sakralen Sinne, etwa von Kreuzzügen, noch im heroischen noch selbst im praktischen, etwa der Staatsräson, mehr die Rede sein. Wir müssen dieser Tötung auch jene abstrakten Formen zurechnen, die wir als Unfall ansehen. Sie reichen nicht nur rein zahlenmäßig an frühere Kriegsverluste heran, sondern es zeichnet sich sogar die Gefahr von Massenkatastrophen ab. Auch das fällt unter die Verantwortung.\n\nAllerdings hat noch keine Veränderung auf der Erde stattgefunden, die nicht Blut gefordert hätte. Wir wissen nicht, ob und in welchem Sinne gültige Opfer gebracht werden. Aber wir können nicht daran zweifeln, daß Blut gefordert wird. Daß es nicht den Sinn haben kann, den die Blutvergießenden meinen, ist nicht nur wahrscheinlich; es ist auch der einzige Gedanke, der Erlösung, Versöhnung verspricht.\n\nWir sehen kein Opfer, aber wir zahlen einen Zoll.",
+      "en": "The great blood sacrifices of these years cannot be viewed as those of a religious war, say a crusade, nor mythically-heroically as in the fathers' times, neither by historiography nor by poetry nor at the abandoned hearth.\n\nIf something is returning, or if a regression is taking place, it must lead into older, nameless layers, into land without gods and heroes, into pre-Homeric, indeed pre-Heraclean land. The happening bears an elemental, titanic-telluric cast in which the material order outweighs the paternal one, old right, old custom, old freedom become questionable. Corresponding to this are the measureless, Promethean audacity of means and methods, volcanism, fire, the stirring of the earth-serpent, the emergence of monsters, their impunity. Corresponding to it as well is the precedence of energies over spiritualized form, whether in the state, in the work of art, or in strategy. War does not enter the light of purified civilization and there become obsolete; rather it disintegrates within itself, becomes the blurred and incalculable, even self-murderous, means of politics, a dead end.\n\nWith that, killing too loses its calculable meaning and steps out of inherited lawfulness. The distinction between the man who, like the judge or the field commander, disposes legally over life, and the executioner and the murderer becomes blurred, becomes debatable, while at the same time countless innocents are robbed of life for slight social or economic differences or languish away as slaves.\n\nAgainst this background one can no longer speak of sacrifices either in the sacred sense, say of crusades, or in the heroic, or even in the practical sense, say of raison d'etat. To this killing we must also reckon those abstract forms we regard as accident. They not only approach earlier wartime losses in sheer numbers; the danger of mass catastrophes even begins to outline itself. That too falls under responsibility.\n\nTo be sure, no change has yet taken place on earth that did not demand blood. We do not know whether, or in what sense, valid sacrifices are being offered. But we cannot doubt that blood is being demanded. That it cannot have the meaning intended by those who shed it is not only probable; it is also the only thought that promises redemption and reconciliation.\n\nWe see no sacrifice, but we pay a toll.",
+      "de_paragraphs": [
+        "Die großen Blutopfer dieser Jahre können nicht als die eines Religionskrieges, etwa eines Kreuzzuges, und auch nicht mythisch-heroisch wie in den Väterzeiten geschaut werden, weder von der Geschichtschreibung noch von der Dichtung, noch am verlassenen Herd.",
+        "Wenn etwas wiederkehrt oder wenn ein Rückschritt statthat, so muß er in ältere, namenlose Schichten führen, in götter- und heldenloses, in vorhomerisches, ja vorherakleisches Land. Das Geschehen trägt einen elementarischen, titanischtellurischen Zug, bei dem die materielle Ordnung die paternitäre überwiegt, altes Recht, alte Sitte, alte Freiheit fragwürdig wird. Dem entspricht die maßlose, prometheische Kühnheit der Mittel und Methoden, der Vulkanismus, das Feuer, die Regung der Erdschlange, das Auftauchen von Unholden, ihre Straflosigkeit. Dem entspricht auch der Vorrang von Energien vor der durchgeistigten Form, sei es im Staat, im Kunstwerk oder in der Strategie. Nicht etwa tritt der Krieg ins Licht geläuterter Gesittung und wird dort hinfällig, sondern er zerfällt in sich, wird zum unscharfen und unberechenbaren, sogar selbstmörderischen Mittel der Politik, zur Sackgasse.",
+        "Damit verliert auch die Tötung ihren berechenbaren Sinn, tritt aus der überlieferten Gesetzmäßigkeit heraus. Der Unterschied zwischen dem Menschen, der wie der Richter oder der Feldherr auf legale Weise über das Leben verfügt, gegenüber dem Henker und dem Mörder wird unscharf, kann diskutiert werden, während zugleich zahllose Unschuldige wegen geringfügiger sozialer oder ökonomischer Differenzen des Lebens beraubt werden oder als Sklaven dahinschmachten.",
+        "Demgegenüber kann von Opfern weder im sakralen Sinne, etwa von Kreuzzügen, noch im heroischen noch selbst im praktischen, etwa der Staatsräson, mehr die Rede sein. Wir müssen dieser Tötung auch jene abstrakten Formen zurechnen, die wir als Unfall ansehen. Sie reichen nicht nur rein zahlenmäßig an frühere Kriegsverluste heran, sondern es zeichnet sich sogar die Gefahr von Massenkatastrophen ab. Auch das fällt unter die Verantwortung.",
+        "Allerdings hat noch keine Veränderung auf der Erde stattgefunden, die nicht Blut gefordert hätte. Wir wissen nicht, ob und in welchem Sinne gültige Opfer gebracht werden. Aber wir können nicht daran zweifeln, daß Blut gefordert wird. Daß es nicht den Sinn haben kann, den die Blutvergießenden meinen, ist nicht nur wahrscheinlich; es ist auch der einzige Gedanke, der Erlösung, Versöhnung verspricht.",
+        "Wir sehen kein Opfer, aber wir zahlen einen Zoll."
+      ],
+      "en_paragraphs": [
+        "The great blood sacrifices of these years cannot be viewed as those of a religious war, say a crusade, nor mythically-heroically as in the fathers' times, neither by historiography nor by poetry nor at the abandoned hearth.",
+        "If something is returning, or if a regression is taking place, it must lead into older, nameless layers, into land without gods and heroes, into pre-Homeric, indeed pre-Heraclean land. The happening bears an elemental, titanic-telluric cast in which the material order outweighs the paternal one, old right, old custom, old freedom become questionable. Corresponding to this are the measureless, Promethean audacity of means and methods, volcanism, fire, the stirring of the earth-serpent, the emergence of monsters, their impunity. Corresponding to it as well is the precedence of energies over spiritualized form, whether in the state, in the work of art, or in strategy. War does not enter the light of purified civilization and there become obsolete; rather it disintegrates within itself, becomes the blurred and incalculable, even self-murderous, means of politics, a dead end.",
+        "With that, killing too loses its calculable meaning and steps out of inherited lawfulness. The distinction between the man who, like the judge or the field commander, disposes legally over life, and the executioner and the murderer becomes blurred, becomes debatable, while at the same time countless innocents are robbed of life for slight social or economic differences or languish away as slaves.",
+        "Against this background one can no longer speak of sacrifices either in the sacred sense, say of crusades, or in the heroic, or even in the practical sense, say of raison d'etat. To this killing we must also reckon those abstract forms we regard as accident. They not only approach earlier wartime losses in sheer numbers; the danger of mass catastrophes even begins to outline itself. That too falls under responsibility.",
+        "To be sure, no change has yet taken place on earth that did not demand blood. We do not know whether, or in what sense, valid sacrifices are being offered. But we cannot doubt that blood is being demanded. That it cannot have the meaning intended by those who shed it is not only probable; it is also the only thought that promises redemption and reconciliation.",
+        "We see no sacrifice, but we pay a toll."
+      ],
+      "paragraph_alignment": {
+        "de_count": 6,
+        "en_count": 6,
+        "aligned": true,
+        "row_count": 6
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/18-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:54",
+      "id": 54,
+      "label": "§54",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Hier ist die Möglichkeit eines Irrtums, der sich gebildet haben könnte, zu berücksichtigen. Es ist richtig, daß mythische Mächte, besonders wenn sie nicht gehegt werden, in die Geschichtswelt eindringen. Das Ende der Geschichtswelt darf aber nicht so gedeutet werden, als ob sie vom Mythos und seiner Wiederkehr überwältigt würde, etwa in der erwähnten Form, daß die helle, geschichtliche Bewußtheit gleich einem Tageslauf zwischen zwei Nächte fällt.\n\nEin solches Eindringen kann nur partiell, nur innerhalb des Tages stattfinden. Das zu befürchten oder zu erwarten, gibt es freilich einigen Grund. Hierher gehört zwar nicht die Macht der mythischen Bildwelt, wohl aber der sich an sie heftende Wille, gehören die Wunschträume. Sie erklären sich aus dem Protest gegen den Schwund der geschichtsbildenden Kraft und führen in der Kunst selbst starke Begabungen in eine anspruchsvolle Leere, in der Politik auf verhängnisvolle Irrwege.\n\nMythisches ist, wie gesagt, immer lebendig, besonders an den zeitlichen Grenzen, bei Geburt und Tod, in Kriegen und Katastrophen aller Art. Die mythischen Mächte in unserer Gegenwart sind aber nicht an sich stark, sondern deshalb, weil die geschichtlichen Formen und ihr Personal schwach geworden sind. Mythisches will an den Bruchstellen eindringen wie in Wundränder, aber es kann sich dort nicht in der alten Kraft entfalten, denn das Substrat ist zu schwach. So kommt es zum schauspielerischen Treiben stellvertretender Sänger und Akteure, zum Aufzug von Heroen- und Dämonenmasken, hinter denen sogleich die platte Physiognomie erscheint.\n\nAuch das ist ein Zeichen der Nahtstelle. Daneben klafft fürchterliche, konzentrierte Realität. Das kann zu einer vexierbildhaften Doppelsinnigkeit des Vorgangs führen, bei dem der Leidende den Rang gewinnt, den der Täter zu besitzen meint. Es liegt nicht daran, daß der Leidende »besser« ist. Es liegt daran, daß er in das Leiden als in die dichtere Wirklichkeit eintritt und daß dort durch ihn Wichtigeres als durch den Täter geschieht. Der Leidende ist näher an der Geburt. Er zahlt den größeren Zoll, zahlt für die anderen mit. In Stalingrad ändert sich mehr als bei Sedan. Allerdings ist auch der Täter notwendig. Er ist notwendig in dem Sinn, in dem auch die Wissenschaft notwendig ist, nicht als Veränderer, sondern als Werkzeug zur Veränderung der Welt.\n\nDaß mythische Mächte herrschend, persönlich und sachlich überzeugend nicht wiederkehren können, ist eine Lichtfrage. Seit Herodots Morgenröte gibt es im alten Sinne nicht mehr die Nacht. Die alten Bilder wurden in der Strahlung des geschichtlichen Bewußtseins scheuer, empfindlicher. Sie können sich nur hervorwagen in dem Maße, in dem das Bewußtsein schwächer wird, im Traum, im Schlaf, der seherischen und schöpferischen Ekstasis, auch in den Umstürzen. Der Austritt aus dem Geschichtsfeld ist aber keineswegs mit einer Bewußtseinsminderung verbunden; das kritische Vermögen nimmt im Gegenteil ununterbrochen zu. Schon das spricht gegen mythische Wiederkehr.\n\nDie Schwächung des Mythischen ist unwiderruflich, weil der Geist seit Herodot einen neuen Charakter, einen neuen Aspekt gewonnen hat. Das ist ein character indelebilis, ist eine Weihe, die keine Untat, kein Zwang und kein Verbrechen ihm nehmen, auslöschen kann. Wir wissen ja seit langem, daß unser Inneres sowohl ein Ganzes wie ein Zusammengesetztes ist. Wenn seine Häupter sich versammeln, werden immer mythische darunter sein, auch solche von großer Macht. Sie müssen sich indessen beugen, wenn Bewußtseinsmächte eintreten: Hochgrade. Und das wird immer, selbst in den schlimmsten Zeiten, zu erwarten sein.\n\nIm Ethischen ist es ähnlich: Gewisse Dinge sind, zwar nicht tatsächlich, doch in der Anschauung, unmöglich, seit Christus, das »neue Licht«, erschienen ist. Die Kirchen können längst in Museen, Remisen oder Lichtspielhäuser verwandelt sein; es bleibt ein unausrottbares Bewußtsein für das, was im ethischen Sinne schön oder häßlich ist. Dieses Häßliche kann in mythischer Zeit schön gewesen sein – wie etwa das Schauspiel der Blutopfer auf den mexikanischen Pyramiden – es wurde im Augenblick zum Frevel, in dem christliche Augen es wahrnahmen. Damit ist nicht gesagt, daß Christen nicht ähnliches zuzutrauen wäre, aber es fehlt nun der Bluttat der mythische Glanz, die Weihe, das Selbstbewußtsein der antiken Macht. Das ist ein für alle Mal dem Menschen abgedungen und abgekauft.\n\nSoviel, um anzumerken, daß Wiederkehr mythischer Figuren zur Herrschaft nicht zu erwarten ist. Dem widerspricht nicht, daß das historische Bewußtsein als geschichtsbildende Macht seinerseits aus der Herrschaft scheidet, vielleicht bereits geschieden ist, und zwar auf ähnliche Weise, wie es den Mythos ablöste. Um bei dem Bilde der Versammlung im Inneren des Menschen zu bleiben: Es würde dann ein neuer Hochgrad eintreten, der zwar die alten Zeichen kennt, doch unbekannte Weihen empfangen haben muß. Sie könnten dem Blutzoll Sinn geben.\n\nDas würde sich zuerst durch das Kostüm ausweisen, das heißt: durch Tatsachen, die mit herkömmlichen Mitteln nicht mehr zu deuten sind. Solche Tatsachen sind zunächst vereinzelt eingetreten; sie konnten nicht oder nur unvollkommen in die gewohnten Systeme gebracht werden. Sie haben sich schnell an Zahl und Gewicht vermehrt, so daß es sich nicht mehr darum handelt, ob sie noch einzufangen sind. Sie verlangen nicht Einbeziehung in die alte Ordnung und ihre Fächer, sondern Systembildung.\n\nDie Tatsachen verändern nicht; sie zeigen Veränderungen an. Sie sind schon Früchte; längst vorher, »wenn die Nacht am tiefsten war«, wurden sie gezeugt. Längst vorher wurde es unheimlich.",
+      "en": "Here one must take into account the possibility of an error that may have formed. It is true that mythic powers, especially when they are not tended, press into the world of history. But the end of the world of history must not be interpreted as though it were being overwhelmed by myth and its return, say in the form mentioned, that bright historical consciousness, like the course of a day, falls between two nights.\n\nSuch an intrusion can occur only partially, only within the day. To fear or expect that there is admittedly some reason. What belongs here is not the power of the mythic world of images itself, but the will that clings to it, the wish-dreams. They explain themselves out of the protest against the dwindling of history-forming force and lead even strong gifts in art into an ambitious emptiness, in politics onto disastrous wrong paths.\n\nAs said, the mythic is always alive, especially at temporal boundaries, in birth and death, in wars and catastrophes of every kind. But the mythic powers in our present are not strong in themselves; they are strong because historical forms and their personnel have grown weak. The mythic wants to press into the fracture points as into wound-edges, but it cannot unfold there in the old force, for the substrate is too weak. Thus there arises the histrionic business of substitute singers and actors, the parade of hero- and demon-masks behind which the flat physiognomy at once appears.\n\nThis too is a sign of the seam. Beside it gapes terrible, concentrated reality. That can lead to an optical-puzzle-like doubleness in the process, in which the sufferer gains the rank the perpetrator thinks he possesses. This does not lie in the sufferer being `better.` It lies in his entering into suffering as into denser reality, and in the fact that something more important happens through him there than through the perpetrator. The sufferer is closer to birth. He pays the greater toll, pays it for the others as well. More changes in Stalingrad than at Sedan. The perpetrator too, admittedly, is necessary. He is necessary in the sense in which science too is necessary, not as changer, but as a tool for changing the world.\n\nThat mythic powers cannot return as ruling powers, convincingly in personal and objective terms, is a question of light. Since Herodotus's dawn there is no longer night in the old sense. The old images became shyer, more sensitive in the radiance of historical consciousness. They can venture forth only to the extent that consciousness grows weaker, in dream, in sleep, in visionary and creative ecstasy, also in upheavals. But the exit from the historical field is by no means bound up with a lessening of consciousness; critical capacity, on the contrary, increases without interruption. That alone speaks against mythic return.\n\nThe weakening of the mythic is irreversible because since Herodotus spirit has gained a new character, a new aspect. This is a `character indelebilis`, a consecration that no crime, no compulsion, no offense can take from it or erase. We have long known, after all, that our interior is both a whole and a composite. When its heads assemble, there will always be mythic ones among them, even ones of great power. They must, however, bow when powers of consciousness enter: high degrees. And that will always be to be expected, even in the worst of times.\n\nIn the ethical sphere it is similar: certain things are impossible, if not in fact then in the view of things, since Christ, the `new light,` appeared. The churches may long since have been turned into museums, depots, or cinemas; there remains an ineradicable consciousness of what is beautiful or ugly in the ethical sense. This ugliness may have been beautiful in mythic time - as, for example, the spectacle of blood sacrifices on the Mexican pyramids - it became sacrilege at the moment Christian eyes perceived it. That is not to say that something similar could not be expected of Christians, but the blood-deed now lacks the mythic splendor, the consecration, the self-confidence of ancient power. That has been bargained away and bought off from man once and for all.\n\nSo much to note that the return of mythic figures to rule is not to be expected. This does not contradict the possibility that historical consciousness, as a history-forming power, is itself departing from rule, perhaps has already departed, and indeed in a way similar to that in which it displaced myth. To remain with the image of the assembly in the interior of man: a new high degree would then enter, one that knows the old signs but must have received unknown consecrations. They could give meaning to the blood-toll.\n\nThis would first show itself in the costume, that is: in facts that can no longer be interpreted by customary means. Such facts first entered singly; they could not, or only imperfectly, be brought into the accustomed systems. They have quickly multiplied in number and weight, so that the issue is no longer whether they can still be captured. They demand not inclusion in the old order and its compartments, but the formation of a system.\n\nFacts do not change; they indicate changes. They are already fruits; long before, `when the night was deepest,` they were engendered. Long before, things had become uncanny.",
+      "de_paragraphs": [
+        "Hier ist die Möglichkeit eines Irrtums, der sich gebildet haben könnte, zu berücksichtigen. Es ist richtig, daß mythische Mächte, besonders wenn sie nicht gehegt werden, in die Geschichtswelt eindringen. Das Ende der Geschichtswelt darf aber nicht so gedeutet werden, als ob sie vom Mythos und seiner Wiederkehr überwältigt würde, etwa in der erwähnten Form, daß die helle, geschichtliche Bewußtheit gleich einem Tageslauf zwischen zwei Nächte fällt.",
+        "Ein solches Eindringen kann nur partiell, nur innerhalb des Tages stattfinden. Das zu befürchten oder zu erwarten, gibt es freilich einigen Grund. Hierher gehört zwar nicht die Macht der mythischen Bildwelt, wohl aber der sich an sie heftende Wille, gehören die Wunschträume. Sie erklären sich aus dem Protest gegen den Schwund der geschichtsbildenden Kraft und führen in der Kunst selbst starke Begabungen in eine anspruchsvolle Leere, in der Politik auf verhängnisvolle Irrwege.",
+        "Mythisches ist, wie gesagt, immer lebendig, besonders an den zeitlichen Grenzen, bei Geburt und Tod, in Kriegen und Katastrophen aller Art. Die mythischen Mächte in unserer Gegenwart sind aber nicht an sich stark, sondern deshalb, weil die geschichtlichen Formen und ihr Personal schwach geworden sind. Mythisches will an den Bruchstellen eindringen wie in Wundränder, aber es kann sich dort nicht in der alten Kraft entfalten, denn das Substrat ist zu schwach. So kommt es zum schauspielerischen Treiben stellvertretender Sänger und Akteure, zum Aufzug von Heroen- und Dämonenmasken, hinter denen sogleich die platte Physiognomie erscheint.",
+        "Auch das ist ein Zeichen der Nahtstelle. Daneben klafft fürchterliche, konzentrierte Realität. Das kann zu einer vexierbildhaften Doppelsinnigkeit des Vorgangs führen, bei dem der Leidende den Rang gewinnt, den der Täter zu besitzen meint. Es liegt nicht daran, daß der Leidende »besser« ist. Es liegt daran, daß er in das Leiden als in die dichtere Wirklichkeit eintritt und daß dort durch ihn Wichtigeres als durch den Täter geschieht. Der Leidende ist näher an der Geburt. Er zahlt den größeren Zoll, zahlt für die anderen mit. In Stalingrad ändert sich mehr als bei Sedan. Allerdings ist auch der Täter notwendig. Er ist notwendig in dem Sinn, in dem auch die Wissenschaft notwendig ist, nicht als Veränderer, sondern als Werkzeug zur Veränderung der Welt.",
+        "Daß mythische Mächte herrschend, persönlich und sachlich überzeugend nicht wiederkehren können, ist eine Lichtfrage. Seit Herodots Morgenröte gibt es im alten Sinne nicht mehr die Nacht. Die alten Bilder wurden in der Strahlung des geschichtlichen Bewußtseins scheuer, empfindlicher. Sie können sich nur hervorwagen in dem Maße, in dem das Bewußtsein schwächer wird, im Traum, im Schlaf, der seherischen und schöpferischen Ekstasis, auch in den Umstürzen. Der Austritt aus dem Geschichtsfeld ist aber keineswegs mit einer Bewußtseinsminderung verbunden; das kritische Vermögen nimmt im Gegenteil ununterbrochen zu. Schon das spricht gegen mythische Wiederkehr.",
+        "Die Schwächung des Mythischen ist unwiderruflich, weil der Geist seit Herodot einen neuen Charakter, einen neuen Aspekt gewonnen hat. Das ist ein character indelebilis, ist eine Weihe, die keine Untat, kein Zwang und kein Verbrechen ihm nehmen, auslöschen kann. Wir wissen ja seit langem, daß unser Inneres sowohl ein Ganzes wie ein Zusammengesetztes ist. Wenn seine Häupter sich versammeln, werden immer mythische darunter sein, auch solche von großer Macht. Sie müssen sich indessen beugen, wenn Bewußtseinsmächte eintreten: Hochgrade. Und das wird immer, selbst in den schlimmsten Zeiten, zu erwarten sein.",
+        "Im Ethischen ist es ähnlich: Gewisse Dinge sind, zwar nicht tatsächlich, doch in der Anschauung, unmöglich, seit Christus, das »neue Licht«, erschienen ist. Die Kirchen können längst in Museen, Remisen oder Lichtspielhäuser verwandelt sein; es bleibt ein unausrottbares Bewußtsein für das, was im ethischen Sinne schön oder häßlich ist. Dieses Häßliche kann in mythischer Zeit schön gewesen sein – wie etwa das Schauspiel der Blutopfer auf den mexikanischen Pyramiden – es wurde im Augenblick zum Frevel, in dem christliche Augen es wahrnahmen. Damit ist nicht gesagt, daß Christen nicht ähnliches zuzutrauen wäre, aber es fehlt nun der Bluttat der mythische Glanz, die Weihe, das Selbstbewußtsein der antiken Macht. Das ist ein für alle Mal dem Menschen abgedungen und abgekauft.",
+        "Soviel, um anzumerken, daß Wiederkehr mythischer Figuren zur Herrschaft nicht zu erwarten ist. Dem widerspricht nicht, daß das historische Bewußtsein als geschichtsbildende Macht seinerseits aus der Herrschaft scheidet, vielleicht bereits geschieden ist, und zwar auf ähnliche Weise, wie es den Mythos ablöste. Um bei dem Bilde der Versammlung im Inneren des Menschen zu bleiben: Es würde dann ein neuer Hochgrad eintreten, der zwar die alten Zeichen kennt, doch unbekannte Weihen empfangen haben muß. Sie könnten dem Blutzoll Sinn geben.",
+        "Das würde sich zuerst durch das Kostüm ausweisen, das heißt: durch Tatsachen, die mit herkömmlichen Mitteln nicht mehr zu deuten sind. Solche Tatsachen sind zunächst vereinzelt eingetreten; sie konnten nicht oder nur unvollkommen in die gewohnten Systeme gebracht werden. Sie haben sich schnell an Zahl und Gewicht vermehrt, so daß es sich nicht mehr darum handelt, ob sie noch einzufangen sind. Sie verlangen nicht Einbeziehung in die alte Ordnung und ihre Fächer, sondern Systembildung.",
+        "Die Tatsachen verändern nicht; sie zeigen Veränderungen an. Sie sind schon Früchte; längst vorher, »wenn die Nacht am tiefsten war«, wurden sie gezeugt. Längst vorher wurde es unheimlich."
+      ],
+      "en_paragraphs": [
+        "Here one must take into account the possibility of an error that may have formed. It is true that mythic powers, especially when they are not tended, press into the world of history. But the end of the world of history must not be interpreted as though it were being overwhelmed by myth and its return, say in the form mentioned, that bright historical consciousness, like the course of a day, falls between two nights.",
+        "Such an intrusion can occur only partially, only within the day. To fear or expect that there is admittedly some reason. What belongs here is not the power of the mythic world of images itself, but the will that clings to it, the wish-dreams. They explain themselves out of the protest against the dwindling of history-forming force and lead even strong gifts in art into an ambitious emptiness, in politics onto disastrous wrong paths.",
+        "As said, the mythic is always alive, especially at temporal boundaries, in birth and death, in wars and catastrophes of every kind. But the mythic powers in our present are not strong in themselves; they are strong because historical forms and their personnel have grown weak. The mythic wants to press into the fracture points as into wound-edges, but it cannot unfold there in the old force, for the substrate is too weak. Thus there arises the histrionic business of substitute singers and actors, the parade of hero- and demon-masks behind which the flat physiognomy at once appears.",
+        "This too is a sign of the seam. Beside it gapes terrible, concentrated reality. That can lead to an optical-puzzle-like doubleness in the process, in which the sufferer gains the rank the perpetrator thinks he possesses. This does not lie in the sufferer being `better.` It lies in his entering into suffering as into denser reality, and in the fact that something more important happens through him there than through the perpetrator. The sufferer is closer to birth. He pays the greater toll, pays it for the others as well. More changes in Stalingrad than at Sedan. The perpetrator too, admittedly, is necessary. He is necessary in the sense in which science too is necessary, not as changer, but as a tool for changing the world.",
+        "That mythic powers cannot return as ruling powers, convincingly in personal and objective terms, is a question of light. Since Herodotus's dawn there is no longer night in the old sense. The old images became shyer, more sensitive in the radiance of historical consciousness. They can venture forth only to the extent that consciousness grows weaker, in dream, in sleep, in visionary and creative ecstasy, also in upheavals. But the exit from the historical field is by no means bound up with a lessening of consciousness; critical capacity, on the contrary, increases without interruption. That alone speaks against mythic return.",
+        "The weakening of the mythic is irreversible because since Herodotus spirit has gained a new character, a new aspect. This is a `character indelebilis`, a consecration that no crime, no compulsion, no offense can take from it or erase. We have long known, after all, that our interior is both a whole and a composite. When its heads assemble, there will always be mythic ones among them, even ones of great power. They must, however, bow when powers of consciousness enter: high degrees. And that will always be to be expected, even in the worst of times.",
+        "In the ethical sphere it is similar: certain things are impossible, if not in fact then in the view of things, since Christ, the `new light,` appeared. The churches may long since have been turned into museums, depots, or cinemas; there remains an ineradicable consciousness of what is beautiful or ugly in the ethical sense. This ugliness may have been beautiful in mythic time - as, for example, the spectacle of blood sacrifices on the Mexican pyramids - it became sacrilege at the moment Christian eyes perceived it. That is not to say that something similar could not be expected of Christians, but the blood-deed now lacks the mythic splendor, the consecration, the self-confidence of ancient power. That has been bargained away and bought off from man once and for all.",
+        "So much to note that the return of mythic figures to rule is not to be expected. This does not contradict the possibility that historical consciousness, as a history-forming power, is itself departing from rule, perhaps has already departed, and indeed in a way similar to that in which it displaced myth. To remain with the image of the assembly in the interior of man: a new high degree would then enter, one that knows the old signs but must have received unknown consecrations. They could give meaning to the blood-toll.",
+        "This would first show itself in the costume, that is: in facts that can no longer be interpreted by customary means. Such facts first entered singly; they could not, or only imperfectly, be brought into the accustomed systems. They have quickly multiplied in number and weight, so that the issue is no longer whether they can still be captured. They demand not inclusion in the old order and its compartments, but the formation of a system.",
+        "Facts do not change; they indicate changes. They are already fruits; long before, `when the night was deepest,` they were engendered. Long before, things had become uncanny."
+      ],
+      "paragraph_alignment": {
+        "de_count": 10,
+        "en_count": 10,
+        "aligned": true,
+        "row_count": 10
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/18-humane-einteilungen.md"
+    },
+    {
+      "handle": "zm:55",
+      "id": 55,
+      "label": "§55",
+      "part_slug": "humane-einteilungen",
+      "part_title_de": "Humane Einteilungen",
+      "part_title_en": "Human Divisions",
+      "de": "Hier ist eine Wiederholung am Platz. Rein chronologisch gesehen, läuft in jedem Augenblick ein Zeitraum von beliebiger Länge ab und fängt ein neuer an. An jedem Tage sind tausend oder hunderttausend Jahre verflossen – es fragt sich aber, ob solche Spannen über ihre meßbare Dauer hinaus Qualität haben. Es muß also zugleich ein Zyklus in dieser Dauer wahrzunehmen sein.\n\nSollte es sich nun um einen großen Zyklus handeln, so ist anzunehmen, daß sich auch eine Anzahl von Abschnitten mit ihm beschließt. Mit dem Jahrtausend endet ja auch sein letztes Jahrhundert und Jahrzehnt. Das ist nur in den Ziffern eine Analogie. Qualitativ könnte man eher an Summierungen denken, so wie bei gewissen astronomischen Konstellationen nicht Flut, sondern Sturmflut oder auch Sintflut sich erhebt. Eine Insel verschwindet und mit ihr die Wesen, die sie bewohnt haben. Korallen siedeln sich auf ihr an.",
+      "en": "Here a repetition is in place. Seen purely chronologically, at every moment a span of whatever length runs out and a new one begins. Every day a thousand or a hundred thousand years have elapsed - but the question is whether such spans have quality beyond their measurable duration. Thus a cycle must at the same time be perceptible in this duration.\n\nIf it is now a matter of a great cycle, then one may assume that a number of divisions also come to a close with it. With the millennium, after all, its last century and decade also end. That is an analogy only in the figures. Qualitatively one might better think of accumulations, as when under certain astronomical constellations not a tide but a storm tide or even a deluge rises. An island disappears, and with it the beings that inhabited it. Corals settle upon it.",
+      "de_paragraphs": [
+        "Hier ist eine Wiederholung am Platz. Rein chronologisch gesehen, läuft in jedem Augenblick ein Zeitraum von beliebiger Länge ab und fängt ein neuer an. An jedem Tage sind tausend oder hunderttausend Jahre verflossen – es fragt sich aber, ob solche Spannen über ihre meßbare Dauer hinaus Qualität haben. Es muß also zugleich ein Zyklus in dieser Dauer wahrzunehmen sein.",
+        "Sollte es sich nun um einen großen Zyklus handeln, so ist anzunehmen, daß sich auch eine Anzahl von Abschnitten mit ihm beschließt. Mit dem Jahrtausend endet ja auch sein letztes Jahrhundert und Jahrzehnt. Das ist nur in den Ziffern eine Analogie. Qualitativ könnte man eher an Summierungen denken, so wie bei gewissen astronomischen Konstellationen nicht Flut, sondern Sturmflut oder auch Sintflut sich erhebt. Eine Insel verschwindet und mit ihr die Wesen, die sie bewohnt haben. Korallen siedeln sich auf ihr an."
+      ],
+      "en_paragraphs": [
+        "Here a repetition is in place. Seen purely chronologically, at every moment a span of whatever length runs out and a new one begins. Every day a thousand or a hundred thousand years have elapsed - but the question is whether such spans have quality beyond their measurable duration. Thus a cycle must at the same time be perceptible in this duration.",
+        "If it is now a matter of a great cycle, then one may assume that a number of divisions also come to a close with it. With the millennium, after all, its last century and decade also end. That is an analogy only in the figures. Qualitatively one might better think of accumulations, as when under certain astronomical constellations not a tide but a storm tide or even a deluge rises. An island disappears, and with it the beings that inhabited it. Corals settle upon it."
+      ],
+      "paragraph_alignment": {
+        "de_count": 2,
+        "en_count": 2,
+        "aligned": true,
+        "row_count": 2
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/18-humane-einteilungen.md"
     }
   ],
   "glossary": [
@@ -1769,7 +1871,7 @@
         "Human Orderings"
       ],
       "status": "tentative",
-      "notes": "Working after §§32-52. `Humane` here means human rather than ethically `humane`; the part opens with divisions of world-time, history, and natural order, then moves into Spengler, morphology, world-plan, and the limits of pure historical judgment, sharpens the difference between historical time and `Schicksalszeit`, widens into earth-history, prehistory, and the dawning of historical consciousness, reaches the preservation and injury of historical man, and now turns toward mythic return, naming-crisis, sacrifice, and the waning of the hero rather than toward gentleness or moral cultivation.",
+      "notes": "Working after §§32-55. `Humane` here means human rather than ethically `humane`; the part opens with divisions of world-time, history, and natural order, then moves into Spengler, morphology, world-plan, and the limits of pure historical judgment, sharpens the difference between historical time and `Schicksalszeit`, widens into earth-history, prehistory, and the dawning of historical consciousness, reaches the preservation and injury of historical man, turns toward mythic return, naming-crisis, sacrifice, and the waning of the hero, and now clarifies false recurrence, blood-toll, and qualitative summation rather than gentleness or moral cultivation.",
       "evidence": []
     },
     {
@@ -1856,8 +1958,11 @@
         "break point"
       ],
       "status": "open",
-      "notes": "Jünger uses it both conceptually and imagistically. The English choice may need to shift by context.",
-      "evidence": []
+      "notes": "Jünger uses it both conceptually and imagistically. By §54 the term clearly names weak boundaries or wound-edges where other powers press in, so the English choice may need to remain context-sensitive across fracture, breach, and fault-line registers.",
+      "evidence": [
+        "evidence:term:bruchstelle:zm:1",
+        "evidence:term:bruchstelle:zm:54"
+      ]
     },
     {
       "handle": "term:hinzutretende",
@@ -2010,6 +2115,12 @@
       "section": "zm:51",
       "file": "texts/zeitmauer/parts/17-humane-einteilungen.md",
       "note": "Midnight of history: future things are still nameless, and historically valid naming survives only in reservations."
+    },
+    {
+      "handle": "zm:54:lichtfrage",
+      "section": "zm:54",
+      "file": "texts/zeitmauer/parts/18-humane-einteilungen.md",
+      "note": "Mythic return is denied as a simple restoration; the issue is a changed light and the approach of a new high degree."
     }
   ],
   "notes": [
@@ -2158,6 +2269,14 @@
       "note": "The section turns the title-metaphor into a naming crisis: future things are dimly visible before they can be forced under historically binding names."
     },
     {
+      "handle": "note:zm:54:lichtfrage",
+      "section": "zm:54",
+      "anchor": "zm:54:lichtfrage",
+      "file": "texts/zeitmauer/parts/18-humane-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The end of the historical world is not read as mythic return; the decisive question is one of light, with a new `Hochgrad` rather than restored ancient figures."
+    },
+    {
       "handle": "note:journal:mumford-bridge",
       "file": "texts/zeitmauer/journal.md",
       "heading": "2026-03-29 — Mumford as Bridge Text",
@@ -2179,7 +2298,7 @@
       "status": "tentative",
       "note": "Local dossier for measurable time, fateful time, and the widening crisis of abstract planning.",
       "title": "Time Crisis",
-      "content": "# Time Crisis\n\nHandle: `thread:time-crisis`\n\nThe main thread so far in `texts/zeitmauer`: the collision between measurable time and qualitative or fateful time.\n\n## Core Path\n\n- `evidence:term:schicksalszeit:zm:4` grounds the first explicit contrast.\n- `zm:9:church-year` crystallizes the difference by moving from astrology into the church year.\n- `zm:13:schicksalsuhr` extends that move by naming the horoscope as an uneven clock.\n- `zm:14:abdichtung` widens the problem from interpretation to planning, ceremony, and the need to seal life toward the side of fate.\n- `zm:25:plan-freedom` pushes the crisis into insurance, plan-accounting, and the immediate language of freedom.\n- `zm:28:periodicity` extends the crisis into flattened rhythms, denied sacrifice, and catastrophe.\n- `zm:31:so-sein-gleichsein` closes the part where the crisis becomes one of singular form versus uniformity and mass fate.\n- `zm:32:spiral` reopens it as a problem of how world-time and great ages are divided at all.\n- `zm:38:logos-nomos` reconnects the Part 3 problem explicitly to measurable astronomical time and interpreted fateful time.\n- `zm:43:two-houses` crystallizes the limit of morphology: historical similarity can conceal radical difference in fateful time.\n- `zm:44:zeitfragen` extends the crisis beyond human history: behind questions of power, questions of time are at work.\n- `zm:48:zeitmauer` names the threshold directly: beyond the time wall the future begins to outline itself, and naming that zone becomes dangerous.\n- `zm:51:namenlos` extends the threshold into a naming crisis: future things are visible before historically binding words can catch them.\n- `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.\n- `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.\n\n## Current Claim\n\n`thread:time-crisis` is no longer just a local theme about astrology. It names a broader conflict over what kinds of reality can be measured without being destroyed by measurement.\n\nJünger's strategy is to lead the reader out of the apparently \"occult\" cases and into ordinary ones:\n\n- the backing of paper money in `zm:7:banking`\n- the church year in `zm:9:church-year`\n- the horoscope as `zm:13:schicksalsuhr`\n- Roman augury and ceremony in `zm:14:abdichtung`\n- the `Titanic`, the record, and abstract time in `zm:15:titanic-record`\n- insurance, plan-accounting, and free musische speech in `zm:25:plan-freedom`\n- periodicity, raised dikes, and enlarged catastrophe in `zm:28:periodicity`\n- `So-Sein`, sameness, and resistance to Leviathan in `zm:31:so-sein-gleichsein`\n- line, circle, and spiral at the opening of `Humane Einteilungen` in `zm:32:spiral`\n- `Logos`, `Nomos`, and the methodological return of `Schicksalszeit` in `zm:38:logos-nomos`\n- two houses historically similar yet fateful-time different in `zm:43:two-houses`\n- species-loss and species-emergence pushed behind time-questions in `zm:44:zeitfragen`\n- the future outlining itself beyond the `Zeitmauer` in `zm:48:zeitmauer`\n- the name-less future and the shrinking reservation of historical naming in `zm:51:namenlos`\n\n## Commentary Use\n\nThis thread should be the default test case for the commentary layer because it already supports:\n\n- section-to-section resonance\n- glossary evidence chains\n- traversal from translation note to higher-order dossier\n- extension into cross-project synthesis without leaving the text behind\n"
+      "content": "# Time Crisis\n\nHandle: `thread:time-crisis`\n\nThe main thread so far in `texts/zeitmauer`: the collision between measurable time and qualitative or fateful time.\n\n## Core Path\n\n- `evidence:term:schicksalszeit:zm:4` grounds the first explicit contrast.\n- `zm:9:church-year` crystallizes the difference by moving from astrology into the church year.\n- `zm:13:schicksalsuhr` extends that move by naming the horoscope as an uneven clock.\n- `zm:14:abdichtung` widens the problem from interpretation to planning, ceremony, and the need to seal life toward the side of fate.\n- `zm:25:plan-freedom` pushes the crisis into insurance, plan-accounting, and the immediate language of freedom.\n- `zm:28:periodicity` extends the crisis into flattened rhythms, denied sacrifice, and catastrophe.\n- `zm:31:so-sein-gleichsein` closes the part where the crisis becomes one of singular form versus uniformity and mass fate.\n- `zm:32:spiral` reopens it as a problem of how world-time and great ages are divided at all.\n- `zm:38:logos-nomos` reconnects the Part 3 problem explicitly to measurable astronomical time and interpreted fateful time.\n- `zm:43:two-houses` crystallizes the limit of morphology: historical similarity can conceal radical difference in fateful time.\n- `zm:44:zeitfragen` extends the crisis beyond human history: behind questions of power, questions of time are at work.\n- `zm:48:zeitmauer` names the threshold directly: beyond the time wall the future begins to outline itself, and naming that zone becomes dangerous.\n- `zm:51:namenlos` extends the threshold into a naming crisis: future things are visible before historically binding words can catch them.\n- `zm:54:lichtfrage` clarifies that the threshold is not simple mythic return; the issue is a changed light and the approach of a new order.\n- `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.\n- `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.\n\n## Current Claim\n\n`thread:time-crisis` is no longer just a local theme about astrology. It names a broader conflict over what kinds of reality can be measured without being destroyed by measurement.\n\nJünger's strategy is to lead the reader out of the apparently \"occult\" cases and into ordinary ones:\n\n- the backing of paper money in `zm:7:banking`\n- the church year in `zm:9:church-year`\n- the horoscope as `zm:13:schicksalsuhr`\n- Roman augury and ceremony in `zm:14:abdichtung`\n- the `Titanic`, the record, and abstract time in `zm:15:titanic-record`\n- insurance, plan-accounting, and free musische speech in `zm:25:plan-freedom`\n- periodicity, raised dikes, and enlarged catastrophe in `zm:28:periodicity`\n- `So-Sein`, sameness, and resistance to Leviathan in `zm:31:so-sein-gleichsein`\n- line, circle, and spiral at the opening of `Humane Einteilungen` in `zm:32:spiral`\n- `Logos`, `Nomos`, and the methodological return of `Schicksalszeit` in `zm:38:logos-nomos`\n- two houses historically similar yet fateful-time different in `zm:43:two-houses`\n- species-loss and species-emergence pushed behind time-questions in `zm:44:zeitfragen`\n- the future outlining itself beyond the `Zeitmauer` in `zm:48:zeitmauer`\n- the name-less future and the shrinking reservation of historical naming in `zm:51:namenlos`\n- the light-question and the non-return of mythic rule in `zm:54:lichtfrage`\n\n## Commentary Use\n\nThis thread should be the default test case for the commentary layer because it already supports:\n\n- section-to-section resonance\n- glossary evidence chains\n- traversal from translation note to higher-order dossier\n- extension into cross-project synthesis without leaving the text behind\n"
     },
     {
       "handle": "thread:mumford-bridge",
@@ -2351,6 +2470,24 @@
       "file": "texts/zeitmauer/parts/16-humane-einteilungen.md",
       "relation": "grounds",
       "note": "Extends `So-Sein` beyond personal or anti-uniform contexts into the nomos, dignity, and measure of historical man."
+    },
+    {
+      "handle": "evidence:term:bruchstelle:zm:1",
+      "term": "term:bruchstelle",
+      "term_label": "Bruchstelle",
+      "anchor": "zm:1:bruchstelle",
+      "file": "texts/zeitmauer/parts/01-fremde-voegel.md",
+      "relation": "grounds",
+      "note": "Introduces the time-break as a found site rather than a merely terminal rupture."
+    },
+    {
+      "handle": "evidence:term:bruchstelle:zm:54",
+      "term": "term:bruchstelle",
+      "term_label": "Bruchstelle",
+      "anchor": "zm:54",
+      "file": "texts/zeitmauer/parts/18-humane-einteilungen.md",
+      "relation": "grounds",
+      "note": "Reactivates the term at weak historical boundaries where mythic force presses in like at wound-edges."
     }
   ],
   "relations": [
@@ -2451,6 +2588,12 @@
       "note": "The crisis now appears directly as a crisis of naming: future things arrive before historically binding words can catch them."
     },
     {
+      "from": "zm:54:lichtfrage",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis is clarified as a light-question: what approaches after history is not simply mythic return, but a new order that old categories cannot yet name."
+    },
+    {
       "from": "note:journal:mumford-bridge",
       "relation": "grounds",
       "to": "thread:mumford-bridge",
@@ -2528,7 +2671,10 @@
       "zm:49",
       "zm:50",
       "zm:51",
-      "zm:52"
+      "zm:52",
+      "zm:53",
+      "zm:54",
+      "zm:55"
     ],
     "term_handles": [
       "term:an-der-zeitmauer",
@@ -2563,7 +2709,8 @@
       "zm:43:two-houses",
       "zm:44:zeitfragen",
       "zm:48:zeitmauer",
-      "zm:51:namenlos"
+      "zm:51:namenlos",
+      "zm:54:lichtfrage"
     ],
     "note_handles": [
       "note:zm:1:seidenschwanz",
@@ -2584,6 +2731,7 @@
       "note:zm:44:zeitfragen",
       "note:zm:48:zeitmauer",
       "note:zm:51:namenlos",
+      "note:zm:54:lichtfrage",
       "note:journal:mumford-bridge",
       "note:journal:goethe-leibniz-frame"
     ],
@@ -2609,7 +2757,9 @@
       "evidence:term:schicksalszeit:zm:38",
       "evidence:term:schicksalszeit:zm:43",
       "evidence:term:an-der-zeitmauer:zm:48",
-      "evidence:term:da-sein-so-sein:zm:49"
+      "evidence:term:da-sein-so-sein:zm:49",
+      "evidence:term:bruchstelle:zm:1",
+      "evidence:term:bruchstelle:zm:54"
     ],
     "sections_by_part": {
       "fremde-voegel": [
@@ -2638,7 +2788,10 @@
         "zm:49",
         "zm:50",
         "zm:51",
-        "zm:52"
+        "zm:52",
+        "zm:53",
+        "zm:54",
+        "zm:55"
       ],
       "messbare-und-schicksalszeit": [
         "zm:4",
@@ -2675,6 +2828,14 @@
       "evidence:term:an-der-zeitmauer:zm:48": {
         "kind": "evidence",
         "index": 15
+      },
+      "evidence:term:bruchstelle:zm:1": {
+        "kind": "evidence",
+        "index": 17
+      },
+      "evidence:term:bruchstelle:zm:54": {
+        "kind": "evidence",
+        "index": 18
       },
       "evidence:term:da-sein-so-sein:zm:11": {
         "kind": "evidence",
@@ -2742,11 +2903,11 @@
       },
       "note:journal:goethe-leibniz-frame": {
         "kind": "note",
-        "index": 19
+        "index": 20
       },
       "note:journal:mumford-bridge": {
         "kind": "note",
-        "index": 18
+        "index": 19
       },
       "note:zm:11:schachtgaenge": {
         "kind": "note",
@@ -2811,6 +2972,10 @@
       "note:zm:51:namenlos": {
         "kind": "note",
         "index": 17
+      },
+      "note:zm:54:lichtfrage": {
+        "kind": "note",
+        "index": 18
       },
       "note:zm:6:hinzutretende": {
         "kind": "note",
@@ -3140,6 +3305,22 @@
         "kind": "section",
         "index": 51
       },
+      "zm:53": {
+        "kind": "section",
+        "index": 52
+      },
+      "zm:54": {
+        "kind": "section",
+        "index": 53
+      },
+      "zm:54:lichtfrage": {
+        "kind": "chunk",
+        "index": 19
+      },
+      "zm:55": {
+        "kind": "section",
+        "index": 54
+      },
       "zm:6": {
         "kind": "section",
         "index": 5
@@ -3169,7 +3350,10 @@
       "term:an-der-zeitmauer": [
         "evidence:term:an-der-zeitmauer:zm:48"
       ],
-      "term:bruchstelle": [],
+      "term:bruchstelle": [
+        "evidence:term:bruchstelle:zm:1",
+        "evidence:term:bruchstelle:zm:54"
+      ],
       "term:da-sein-so-sein": [
         "evidence:term:da-sein-so-sein:zm:4",
         "evidence:term:da-sein-so-sein:zm:11",
@@ -3350,6 +3534,14 @@
           "relation": "extends",
           "to": "thread:time-crisis",
           "note": "The crisis now appears directly as a crisis of naming: future things arrive before historically binding words can catch them."
+        }
+      ],
+      "zm:54:lichtfrage": [
+        {
+          "from": "zm:54:lichtfrage",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis is clarified as a light-question: what approaches after history is not simply mythic return, but a new order that old categories cannot yet name."
         }
       ],
       "zm:9:church-year": [
