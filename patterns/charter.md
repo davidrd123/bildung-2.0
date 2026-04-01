@@ -31,6 +31,14 @@ Each subproject is an organ of one system, not a standalone effort.
 - **Deferred structure** — terms held `open` or `tentative` until evidence settles them; premature resolution is data loss
 - **The texts teach the method** — the project discovers its own principles through the material it translates, not in advance of it. When Gómez Dávila says "the soul is enriched only by the ideas it forgets" (§299), that is a finding about formation. When Jünger argues that measurable knowledge destroys what it measures (§8), that is a finding about deferred structure. When Cassirer says philosophy and science must be read as coequal symptoms of one intellectual development, that is a finding about cross-domain synthesis. These are not illustrations of pre-existing commitments. They are discoveries made through slow contact with the source. Journals should record them when they surface, because they accumulate into the project's self-understanding
 
+## Review Discipline
+
+When reviewing work — translation batches, reading passes, thread dossiers, or architectural changes — record observations that the original work session couldn't see. Batch entries capture decisions. Reviews capture the arc: patterns emerging across batches, evidence chains gaining new registers, metaphors becoming structural, terms approaching glossary readiness, the text teaching something about the project's own method.
+
+If a review surfaces a cross-batch pattern spanning 3+ sections or a finding about method, **write it down** in the relevant journal as a review-notes entry. Observations left only in conversation context are lost when the session ends. This applies to every collaborator and every agent working on any subproject.
+
+The rule: if you noticed it and it matters across more than the current batch, it goes in the journal.
+
 ## Layers
 
 1. `00-Notes/` — living intellectual workspace: chats, synthesis notes, exploratory writing
