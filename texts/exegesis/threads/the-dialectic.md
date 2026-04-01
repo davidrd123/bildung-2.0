@@ -56,3 +56,23 @@ Every truth Dick arrives at generates its opposite. This is not failure — it's
 - `[3:56]` the central opposition is given a concise formula: latent form versus obvious form, Christ versus Caesar, inner victory versus outer defeat
 - `[3:80]` the dialectic now includes our own complicity: fugue and freedom are opposed not just externally but within the will of the imprisoned subject
 - `[19:24–35]` the dialectic is rewritten at the level of the corpus: occlusion versus lucidity, prison versus rescue, evil magician versus trash-form savior
+- `[20:16]` the dialectic briefly becomes intra-divine: God against himself, bright and dark, lucidity and occlusion as one palintropos respiration
+- `[20:36–38]` Dick's system is checked by a renewed asymmetry of election: not all are saved, and orthodoxy partially reasserts itself
+- `[21:1–12]` the dialectic is distributed across four coordinated deformations rather than one prison-image alone
+- `[21:50–60]` the age of iron versus age of gold opposition is fused with fake time, hidden victory, and the awakening of Siddhartha
+- `[22:9–13]` rebellion versus rescue returns, but now inside a maze-theory where error may be intellectual before it is moral
+- `[22:51–55]` dark and light are again subordinated to a higher accreting totality that uses anomie as stockpile for later order
+- `[9:2a–7]` rational God versus irrational cosmos recasts the dialectic as invasion of reason into madness rather than mere historical opposition
+- `[9:55–61]` realm I and realm II, Christ and maybe-not-Christ, organism and maze begin collapsing into one unstable process model
+- `[11:27–48]` the dialectic becomes explicit binary computer logic: matched paratruths, endless oscillation, and self-generating process
+- `[8:5]` Empire is defined as congealed dialectic or stasis
+- `[8:9]` "one mind there is; but under it two principles contend" supplies a compact formula for the whole conflict
+- `[6:23–25]` truth is made nanosecondal and self-canceling: each frame generates its opposite before memory can retain it
+- `[6:62–66]` the dialectic is rendered as a 0/1 mega-brain grid whose irrational and rational beliefs generate worlds
+- `[10:27–29]` closed-system fate versus negentropic cut-in becomes a cybernetic restatement of the conflict
+- `[13:4–12]` the dialectic becomes also a camouflage device: endless true-yet-null models protecting identity and origin
+- `[13:41–46]` the on/off binary computer evolves toward total connection, making dialectic the growth-process of an ultra-thought
+- `[39:19–30]` the dialectic is finally glossed through Tao and oscillation truth: stable synthesis gives way to recurrent pluriform models
+- `[43:83]` Dick explicitly defends holding irreality, intelligence, and structure together at once rather than forcing premature reduction
+- `[44:12]` reality's mimetic obligingness is turned into a method: contradiction can be induced through push-pull dialogue with the field itself
+- `[44:82]` the dialectic becomes therapeutic and metabolic: the frozen iron complex is invaded and dissolved by something new entering it

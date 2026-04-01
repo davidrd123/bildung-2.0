@@ -1,0 +1,86 @@
+# High-level outline for volume 1.
+# Page numbers are printed-page numbers from the book's own table of contents.
+# End pages are provisional where the OCR table is noisy; verify during later passes.
+
+metadata:
+  work: "Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit"
+  volume: 1
+  author: "Ernst Cassirer"
+  edition: "12th revised edition"
+  year: 1911
+  source_pdf: "../../books/Erkenntnisproblem/Vol1/daserkenntnispro01cass.pdf"
+  source_ocr: "../../books/Erkenntnisproblem/Vol1/daserkenntnispro01cass_hocr_searchtext.txt"
+  confidence: "partial-manual"
+
+front_matter:
+  - slug: "vorrede-1906"
+    kind: "preface"
+    title_de: "Vorrede"
+    title_en: "Preface"
+    start_page_printed: "V"
+    end_page_printed: "IX"
+    note: "Original preface dated Berlin, January 1906."
+  - slug: "vorrede-zur-zweiten-auflage-1910"
+    kind: "preface"
+    title_de: "Zur zweiten Auflage"
+    title_en: "To the Second Edition"
+    start_page_printed: "IX"
+    end_page_printed: "X"
+    note: "Retained revision note dated Berlin, November 1910."
+  - slug: "inhalts-verzeichnis"
+    kind: "contents"
+    title_de: "Inhalts-Verzeichnis"
+    title_en: "Contents"
+    start_page_printed: "XI"
+    end_page_printed: "XVII"
+
+introduction:
+  slug: "einleitung"
+  title_de: "Einleitung"
+  title_en: "Introduction"
+  start_page_printed: 1
+  end_page_printed: 28
+  note: "The current calibration tranche covers only the opening pages."
+
+books:
+  - slug: "renaissance-des-erkenntnisproblems"
+    title_de: "Die Renaissance des Erkenntnisproblems"
+    title_en: "The Renaissance of the Problem of Knowledge"
+    start_page_printed: 29
+    end_page_printed: 200
+    chapters:
+      - slug: "nikolaus-cusanus"
+        title_de: "Nikolaus Cusanus"
+        start_page_printed: 29
+      - slug: "humanismus-und-der-kampf-der-platonischen-und-aristotelischen-philosophie"
+        title_de: "Der Humanismus und der Kampf der Platonischen und Aristotelischen Philosophie"
+        start_page_printed: 73
+      - slug: "der-skepticismus"
+        title_de: "Der Skepticismus"
+        start_page_printed: 176
+
+  - slug: "entdeckung-des-naturbegriffs"
+    title_de: "Die Entdeckung des Naturbegriffs"
+    title_en: "The Discovery of the Concept of Nature"
+    start_page_printed: 201
+    end_page_printed: 438
+    chapters:
+      - slug: "die-naturphilosophie"
+        title_de: "Die Naturphilosophie"
+        start_page_printed: 205
+      - slug: "die-entstehung-der-exakten-wissenschaft"
+        title_de: "Die Entstehung der exakten Wissenschaft"
+        start_page_printed: 314
+
+  - slug: "grundlegung-des-idealismus"
+    title_de: "Die Grundlegung des Idealismus"
+    title_en: "The Grounding of Idealism"
+    start_page_printed: 439
+    end_page_printed: 601
+    chapters:
+      - slug: "descartes"
+        title_de: "Descartes"
+        start_page_printed: 442
+      - slug: "fortbildung-der-cartesischen-philosophie"
+        title_de: "Die Fortbildung der Cartesischen Philosophie"
+        start_page_printed: 510

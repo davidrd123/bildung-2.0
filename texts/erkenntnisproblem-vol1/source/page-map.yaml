@@ -1,0 +1,26 @@
+# Trusted PDF-to-printed-page anchors for the current calibration tranche.
+# These ranges are intentionally small and can tolerate overlap at boundaries.
+
+source_pdf: "../../books/Erkenntnisproblem/Vol1/daserkenntnispro01cass.pdf"
+
+ranges:
+  - slug: "vorrede-1906"
+    label: "1906 preface"
+    pdf_pages: [9, 13]
+    printed_pages: ["V", "IX"]
+    trust: "medium"
+    note: "PDF page 13 crosses from the end of the 1906 preface into the 1910 revision preface."
+
+  - slug: "vorrede-zur-zweiten-auflage-1910"
+    label: "1910 preface headed `Zur zweiten Auflage`"
+    pdf_pages: [13, 14]
+    printed_pages: ["IX", "X"]
+    trust: "medium"
+    note: "Starts mid-page on PDF page 13; retained inside the 1911 twelfth revised edition."
+
+  - slug: "einleitung-opening"
+    label: "Opening of the introduction"
+    pdf_pages: [25, 28]
+    printed_pages: ["1", "4"]
+    trust: "high"
+    note: "PDF page 25 begins with the introduction heading."

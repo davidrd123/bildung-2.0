@@ -45,6 +45,20 @@ passes/
   15-folder-02.md       # Model B, Siddhartha waking, and enlightenment as anamnesis
   16-folder-03.md       # Bruno, Paracelsus, covert advent, and the anti-fugue turn
   17-folder-19.md       # Scanner as occlusion key and the corpus as one kerygma
+  18-folder-20.md       # Creator in amnesia, Christological correction, and writing as outgoing signal
+  19-folder-21.md       # Four deformations, homoplasmate doctrine, and the road into VALIS
+  20-folder-22.md       # Crossbonding, maze theory, tractate, and the final exegesis handoff
+  21-folder-09.md       # Fat frame, irrational cosmos, and VALIS as new organism
+  22-folder-11.md       # Laminated time, perturbation in the reality field, and binary paratruths
+  23-folder-08.md       # Books as contact protocol, Empire as stasis, and Ubik overlaid with VALIS
+  24-folder-06.md       # Previous-frame anamnesis, Bardo world, and the potentiated past
+  25-folder-10.md       # Negentropic cut-in, Sophia as whisper, and the hidden female deity
+  26-folder-13.md       # Idea computer, tragedy, and Valis as ultra-thought
+  27-folder-39.md       # Track switch, Thomas as revolutionary, and Sophia-Tao oscillation
+  28-folder-41.md       # Valis as doomsday device and authoritarian override
+  29-folder-42.md       # Survival recoil, self-deflation, and residual enemy-image
+  30-folder-43.md       # Irreality, perturbation, and the methodological defense of the enigma
+  31-folder-44.md       # Psychosis cross-examination, living scripture, and Christic surrogation
 scripts/
   extract_entries.py    # rebuilds source/entries.yaml from the ebook text
 journal.md              # the reader's changing model of Dick

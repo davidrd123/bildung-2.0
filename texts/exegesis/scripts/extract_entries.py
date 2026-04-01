@@ -11,8 +11,8 @@ import re
 import yaml
 from pathlib import Path
 
-PROJECT_ROOT = Path(__file__).resolve().parent.parent.parent
-SOURCE_FILE = PROJECT_ROOT / "books" / "The Exegesis of Philip K. Dick - Dick, Philip K_.txt"
+REPO_ROOT = Path(__file__).resolve().parents[3]
+SOURCE_FILE = REPO_ROOT / "books" / "The Exegesis of Philip K. Dick - Dick, Philip K_.txt"
 OUTPUT_FILE = Path(__file__).resolve().parent.parent / "source" / "entries.yaml"
 
 # Canonical counts for the current ebook source. If the source text changes,
@@ -54,22 +54,22 @@ FOLDER_DATES = {
     20: "1979",
     21: "1979",
     22: "1979",
-    9: "Early 1979",
-    11: "Early 1979",
+    9: "December 1978",
+    11: "December 1979",
     8: "Early 1979",
-    6: "1979",
-    10: "1979",
-    13: "1979-1980",
-    39: "1979-1980",
-    41: "1980",
-    42: "1980",
-    43: "1980",
-    44: "1980",
-    45: "1980",
-    46: "1980",
-    47: "1980",
-    48: "1980",
-    49: "1980-1981",
+    6: "Early 1979",
+    10: "Early 1979",
+    13: "Early 1979",
+    39: "March 1979",
+    41: "Spring 1979",
+    42: "Spring 1979",
+    43: "Spring 1979",
+    44: "Spring 1979 - January 1980",
+    45: "Spring 1979 - January 1980",
+    46: "Spring 1979 - January 1980",
+    47: "Spring 1979 - January 1980",
+    48: "Spring 1979 - January 1980",
+    49: "Spring 1979 - January 1980",
     82: "1981",
     83: "1981",
     58: "1981",

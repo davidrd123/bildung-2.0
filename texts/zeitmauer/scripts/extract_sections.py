@@ -12,9 +12,9 @@ import re
 from pathlib import Path
 
 
-ROOT = Path(__file__).resolve().parents[2]
+ROOT = Path(__file__).resolve().parents[3]
 SOURCE = ROOT / "books" / "An der Zeitmauer_ Mit Adnoten v - Ernst Jnger;.txt"
-TARGET = ROOT / "zeitmauer" / "source" / "sections.yaml"
+TARGET = ROOT / "texts" / "zeitmauer" / "source" / "sections.yaml"
 SECTION_RE = re.compile(r"^\s*(\d{1,3})\s*$")
 
 PARTS = [

@@ -65,3 +65,21 @@ Dick's most vertiginous move: he reads his novels as prophecy, then writes new n
 - `[3:80]` six major novels are finally yoked into one anti-fugue sequence meant to disclose the BIP and jog readers out of collusive sleep
 - `[19:1–5]` `A Scanner Darkly` is promoted to the key text of occluded consciousness: the book that shows why damaged minds cannot recognize their own damage
 - `[19:24–35]` Dick gives his clearest internal canon and reading order for the novels, assigning each a distinct revelatory function inside one kerygma
+- `[20:20]` `Scanner` is elevated again as the detoxifying book that justifies why Philip had to suffer through the years that made it writable
+- `[20:79–80]` the fiction corpus is reinterpreted as outgoing distress traffic rather than merely incoming revelation
+- `[21:1]` the kerygma is restated through five novels as a nearly complete true account of prison, occlusion, rescue, and the Logos
+- `[21:51]` Dick explicitly assigns different novels different doctrinal functions and recognizes `VALIS` as the missing account of redeemed state
+- `[22:13–18]` `Maze` is re-centered as the key conceptual novel for the maze itself, with TENCH as one of the clearest fictional anticipations of Zebra
+- `[22:72–86]` early `VALIS` fragments and the tractate mark the point where exegesis begins consciously turning itself into fiction
+- `[9:1–11]` the Exegesis is explicitly reframed as the prehistory and source-text of `VALIS` through the Fat narrative
+- `[11:2]` `Ubik` is retroactively verified as the same reality later named `VALIS`, turning fiction from analogy into revelation
+- `[11:18–22]` Dick starts treating `VALIS` as approved or even authored by the higher controllers disclosed in 3-74
+- `[8:4–13]` the strongest feedback formulation arrives: the books go out as queries and return as altered signal from the entity itself
+- `[8:19–21]` `Ubik` and `VALIS` are overlaid as paired fictional disclosures of one Gnostic structure
+- `[6:44–66]` `Ubik` becomes the most concrete example of fiction as world-modulation: a deliberate Bardo model that later returned as rescuing force
+- `[10:78]` Dick explicitly rereads the `Ubik` commercial/program contrast as a clue to the voice and to Valis' intervention logic
+- `[39:6–9]` `Flow My Tears` is elevated from prophecy to documentary clue of a real track-switch already accomplished
+- `[39:19–30]` `Ubik` and `The Man in the High Castle` are reread as the clearest literary forms of part-whole recursion and oscillation truth
+- `[41:31]` `Tears` is reread again, this time as deliberate bait or trace planted by an intelligence apparatus to draw out hidden contacts
+- `[44:12]` Dick explicitly roots the 2-74 blitz in prior fictional analogs, making fiction the precondition for the reality-dialogue itself
+- `[44:82]` `Tears` is once more the privileged diagnostic novel, now as the exact image of a 2,000-year ossified complex dissolved by intrusion

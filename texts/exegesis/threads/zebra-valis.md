@@ -66,6 +66,29 @@ The perceived intelligence that Dick encounters in and after 2-3-74. Its name sh
 - `[3:38–48]` Zebra's advent becomes covert infiltration: smuggled child, hidden invader, benign alien host, and returning Apollo all point to the same pattern
 - `[3:51–56]` Zebra's victory is increasingly described as latent, hidden, and inner rather than obvious or institutionally visible
 - `[19:24–35]` Zebra is explicitly read through `Ubik`: the benign entity reaches into an occluded prison exactly as the trash-form messages reach the half-life world
+- `[20:18–22]` Zebra is radically identified with Christ, Thomas, and even the remembering self as creator in self-forgetting exile
+- `[20:79–80]` Zebra is reconceived as the outside help answering outgoing reports smuggled through Dick's writing
+- `[21:14–30]` Zebra becomes the macroplasmate whose microtemplate creates homoplasmates, restores faculties, and aligns subjects to the Logos pattern
+- `[21:41]` Zebra is named as supreme deity, Simon Magus in true form, and the power acting in syzygy with Dick's writing-life
+- `[21:82]` Zebra is clarified as awakened living reality camouflaged as world, not world's creator in the simple sense but its systematic replacer
+- `[22:18–28]` Zebra is the only real intrusion into the maze, TENCH outside the fusion-world, the narrow gate to the real and the source of revealed Gnosis
+- `[22:39–46]` Zebra's plasmate form is treated as dormant, replicatory, and text-borne, capable of long latency before renewed proliferation through hosts and books
+- `[9:14–24]` Zebra becomes vortex of will, feminine speaking presence, and field-continuity between Dick and the invading real
+- `[9:37–61]` Valis is alternately Kingdom, Paraclete, future child, and maybe a genuinely new organism rather than a familiar theological person
+- `[11:1–14]` Zebra is continuous with Thomas and PKD across laminated time, breaking the reality field as advocate and mentor
+- `[11:18–27]` Zebra becomes cold-pac breaker, maze-liberator, and arrangement or pattern rather than thing
+- `[11:40–43]` Valis oscillates between God, machine, ship-board computer, and private delusion through binary paratruths
+- `[8:4–13]` Zebra is recast as a feedback intelligence that answered Dick's books in a mimetic form he could recognize
+- `[8:19–21]` Valis and Ubik are finally overlaid as the real upper realm invading the simulated lower one
+- `[6:24–25]` Zebra becomes a smiling nanosecondal presence, reconstituted through flip-flops and linked to anamnetic control over future reality
+- `[6:41–66]` Valis is fused with Ubik, Bardo rescue, and even the multipersonal mega-brain itself
+- `[10:27–29]` Valis is defined as negentropic cut-in and signal-restoring feedback inside a closed system
+- `[10:49–98]` Zebra's feminine aspect hardens into Sophia/Diana: whispering advocate, womb-source, and secret deity behind exoteric Christianity
+- `[13:4–12]` Zebra is redescribed as idea-computer and scramble-device whose infinite self-negating models camouflage the truth it carries
+- `[13:41–46]` Valis becomes ultra-thought and living beauty, a self-constructing seed-cosmos growing through the irrational
+- `[39:19–30]` Zebra is translated into Sophia/Tao logic: living sister, macrobrain, part-whole loop, and oscillating riddle identical with `Ubik`
+- `[41:31–60]` Zebra/Valis is violently secularized into a possible military doomsday device, self-replicating info-weapon, and source of authoritarian override
+- `[44:63–68]` the other mind oscillates between psychotic residue, twin-sister presence, and divine adoption-source without stabilizing
 
 ## Mutations
 

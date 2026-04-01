@@ -44,3 +44,12 @@ Memory as an organ of perception — not metaphorically but literally. Through a
 - `[2:65–80]` anamnesis broadens into Buddhist-style enlightenment and loss of forgetfulness rather than merely the return of one apostolic self
 - `[3:48]` Thomas is briefly cosmicized: no longer merely apostolic but an originally off-world or stellar infiltrator hiding in human history
 - `[3:52]` anamnesis receives one of its fullest definitions as realizing what and where one really is within the macrobrain rather than just remembering a prior life
+- `[20:18–22]` Thomas is temporarily collapsed into Christ and creator: the remembering apostolic self becomes the vehicle of divine self-recollection
+- `[21:52]` Thomas is folded into a hidden fish-Christian society and linked again to direct initiation by the Savior
+- `[22:39–46]` Thomas is reinterpreted through long plasmate latency, Qumran transmission, and host succession rather than through simple reincarnation alone
+- `[11:1]` Thomas is folded into a multiplex self-field spanning California 1974 and Syria A.D. 45, tightening identity with Zebra without erasing alterity
+- `[6:7–25]` anamnesis becomes literal memory of the immediately previous frame rather than merely apostolic recollection
+- `[10:49–83]` Thomas is recast as apostolic psyche transferred into Dick as a new womb for second birth
+- `[13:21]` Dick universalizes the possibility: any creature under the right conditions might recall its Christ-self
+- `[39:1–14]` Thomas becomes explicitly Track A revolutionary self, millennial agent, and covert Christian communist
+- `[44:144]` Thomas is now directly identified with Christic surrogation: the substitute who accepted the death wound and left Dick alive with double vision

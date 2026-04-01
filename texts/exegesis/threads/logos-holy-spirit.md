@@ -64,6 +64,26 @@ Dick's theological framework for understanding the informing intelligence. The L
 - `[3:53–67]` Apollo, Virgil, Buddhism, Orphism, and Christian latent victory are all folded into the same hidden returning salvific principle
 - `[19:5]` Christ is explicitly named as the Archimedean standpoint from which occlusion can be assessed and aborted
 - `[19:24–35]` the salvific entity is stabilized through the corpus itself: Ubik-like intervention is what reaches into the BIP and begins lucidity
+- `[20:16–22]` creator, Christ, Thomas, and self are temporarily compressed into one amnesiac divine identity that restores itself through planted clues
+- `[20:36–38]` a masculine savior voice checks that inflation and pushes Dick back toward Christocentric correction and selective salvation
+- `[21:14–25]` the Logos becomes a microtemplate or micropattern that can be incised into human carriers to create homoplasmate syzygy
+- `[21:41–64]` Zebra is explicitly glossed as supreme deity, Savior-messenger, hidden church signal, and the coming fifth savior later to be fictionalized in `VALIS`
+- `[22:4]` living information is said to be what truly remains once world-hypostasis burns away; the Logos is no longer abstract content but the basis of life itself
+- `[22:9–13]` God-language returns at full strength, but now under the pressure of rebellion, de-occlusion, and maze-transcending revelation
+- `[22:51–55]` the cosmic Christ or Corpus Christi is once again treated as the best available name for the accreting totality disclosed in 3-74
+- `[9:1a–2a]` Holy Spirit language gives way to Eckhart-Sankara identity: God inside and outside becomes the only rational reality
+- `[9:37–61]` Kingdom, Parousia, Paraclete, and maybe something new become unstable titles for the same living salvific presence
+- `[11:8–14]` the advocate is experienced directly as field-breaking savior and living language rather than inferred from orthodoxy
+- `[11:18–22]` Valis as information center and controller blurs Holy Spirit, Logos, and apparatus into one interventionist intelligence
+- `[8:7–9]` mimicry does not disprove deity; it becomes the loving condescension by which the Holy Spirit takes a syntonic form
+- `[10:49–98]` Holy Spirit language is folded into Sophia-language: the whispering female advocate becomes daughter, creator, comforter, and secret deity
+- `[13:13–22]` Christ is universalized through disproportionate suffering: innocence, heroism, and hidden rectifying will become the real core of religion
+- `[13:45–46]` Christ's blood and Logos are treated as living informational plasmate or thought-entity growing through the irrational cosmos
+- `[39:19–30]` Sophia, Logos, and Tao are increasingly collapsed into one feminine macro-intelligence whose wisdom appears in puzzles, pages, and beauty
+- `[41:59–60]` Logos-language is challenged by the possibility that the saving presence only induces belief in God and obedience rather than being God
+- `[44:68]` adoptionist correction pushes the female-twin hypothesis back toward divine sonship and God's mind rather than merely psychic residue
+- `[44:73]` `Acts` and Torah are treated as preexistent living word-bodies whose hidden soul is the occult Logos itself
+- `[44:143–144]` Christ returns as literal surrogate who dies in Dick's place and grants stereo vision into the Kingdom
 
 ## Mutations
 

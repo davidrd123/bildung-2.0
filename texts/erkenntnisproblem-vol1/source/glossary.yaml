@@ -1,0 +1,117 @@
+# Working glossary for recurring terms.
+# `preferred` can remain null while the English pressure is still unsettled.
+
+- term: "Erkenntnisproblem"
+  handle: "term:erkenntnisproblem"
+  kind: concept
+  preferred: "problem of knowledge"
+  alternatives:
+    - "epistemological problem"
+  status: tentative
+  notes: "The title term is broader and more historical than ordinary academic `epistemology`."
+
+- term: "Erkenntnis"
+  handle: "term:erkenntnis"
+  kind: concept
+  preferred: "knowledge"
+  alternatives:
+    - "cognition"
+    - "knowing"
+  status: open
+  notes: "Needs contextual discipline. `Knowledge` is the default, but some passages may require a more active rendering."
+
+- term: "Gegenstand"
+  handle: "term:gegenstand"
+  kind: concept
+  preferred: "object"
+  alternatives:
+    - "object of knowledge"
+    - "object-domain"
+  status: tentative
+  notes: "Keep pressure on the Kantian background without overloading every occurrence."
+
+- term: "Grundbegriff"
+  handle: "term:grundbegriff"
+  kind: concept
+  preferred: "basic concept"
+  alternatives:
+    - "fundamental concept"
+    - "ground concept"
+  status: tentative
+  notes: "Likely to recur structurally in the introduction and later chapter summaries."
+
+- term: "Begriff"
+  handle: "term:begriff"
+  kind: concept
+  preferred: "concept"
+  alternatives:
+    - "notion"
+  status: tentative
+  notes: "Do not vary casually. Cassirer often builds arguments by repetition and recombination."
+
+- term: "Wissenschaft"
+  handle: "term:wissenschaft"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "science"
+    - "systematic knowledge"
+    - "scholarship"
+  status: open
+  notes: "A major pressure point. English `science` is often too narrow, but `knowledge` is too broad. In the calibration tranche the current bias is still to use `science` unless the sentence clearly means something wider."
+
+- term: "Erfahrung"
+  handle: "term:erfahrung"
+  kind: concept
+  preferred: "experience"
+  alternatives:
+    - "empirical experience"
+  status: tentative
+  notes: "Keep open where Cassirer is explicitly distinguishing historical, psychological, and scientific layers."
+
+- term: "exakte Wissenschaft"
+  handle: "term:exakte-wissenschaft"
+  kind: concept
+  preferred: "exact science"
+  alternatives:
+    - "exact sciences"
+  status: tentative
+  notes: "Likely to be singular or plural by context; preserve the historical phrase where possible."
+
+- term: "transscendentale Methode"
+  handle: "term:transscendentale-methode"
+  kind: concept
+  preferred: "transcendental method"
+  alternatives:
+    - "transcendental procedure"
+  status: tentative
+  notes: "Preserve the explicit methodological claim rather than smoothing it into generic critical philosophy."
+
+- term: "Geist"
+  handle: "term:geist"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "mind"
+    - "spirit"
+  status: open
+  notes: "Use contextually. The calibration tranche pressures both `mind` and `spirit`; do not settle the term globally too early."
+
+- term: "Vorstellung"
+  handle: "term:vorstellung"
+  kind: concept
+  preferred: "representation"
+  alternatives:
+    - "idea"
+    - "presentation"
+  status: tentative
+  notes: "The Kantian background matters. `Idea` is often too loose."
+
+- term: "Selbstbewußtsein"
+  handle: "term:selbstbewusstsein"
+  kind: concept
+  preferred: "self-consciousness"
+  alternatives:
+    - "self-awareness"
+  status: tentative
+  notes: "Prefer `self-consciousness` in methodological or historical-philosophical passages unless the psychological sense dominates."

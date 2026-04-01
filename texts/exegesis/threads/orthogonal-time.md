@@ -42,6 +42,21 @@ Experienced (linear, horizontal) time is a cognitive artifact — we generate it
 - `[2:80]` 3-74 is said to reveal eight progressively deeper layers of reality after forgetfulness is lost
 - `[3:24–26]` time and place are explicitly treated as selectable simulations coordinated by psyche-world push-pull and synchronized by a clock-like system
 - `[3:55]` Dick radicalizes the model by suggesting that what has already happened can be revoked or recalled in time
+- `[20:18–22]` clue-placement is now distributed deliberately in time as a fail-safe against endless imprisonment inside counterfeit duration
+- `[21:8–12]` fake time is formalized as the persistence of the age of iron after it should already have yielded to the age of gold
+- `[21:57–60]` apparent temporal passage is reduced to look-differents and memory-scanned permutations of one underlying thing
+- `[21:108]` Dick gives one of his starkest formulations: if things only look different so time seems to pass, then no time has actually passed since Thomas' world
+- `[22:82]` Parsifal's formula "time turns into space" is explicitly attached to 3-74 and to the transition into sacred reality
+- `[9:14–22]` the vortex abolishes time, space, causality, and ego at once, making transubstantiation a present event rather than a past miracle
+- `[9:37]` Valis is imagined as a future child moving retrograde through time to assemble itself
+- `[11:1–2]` time-to-space lamination becomes explicit, and `Ubik` is retrospectively read as the fictional discovery of the same structure
+- `[6:7–25]` time becomes a rapid sequence of unstable frames; anamnesis is memory of the immediately previous configuration
+- `[6:66]` the past can arc forward with amplified force into a weakened future, giving Dick a new mechanism for temporal intervention
+- `[10:29]` Dick converts time into helical spatial correction, with the source at the spiral center and correction increasing as drift accumulates
+- `[13:9]` frame-worlds are multiplied into an infinitude, stitched only by sustains and true memory
+- `[39:1–9]` 3-74 is pushed back into 1971 and reframed as long-duration track-switch rather than one isolated event
+- `[43:83]` parallel worlds phasing in and out are now tied directly to memory/history disagreement as an ongoing condition
+- `[44:82]` Dick restates one of his starkest claims: no real time has passed since `Acts`; the frozen complex simply stopped admitting newness
 
 ## Mutations
 

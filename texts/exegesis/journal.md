@@ -110,6 +110,90 @@ Folder 19 is where `A Scanner Darkly` unexpectedly becomes central. Dick decides
 
 Just as important, the archive briefly organizes itself from within. Dick gives one of his clearest reading-orders for the corpus, with each major novel assigned a function in the larger kerygma. That is an unusually strong moment of self-curation inside the Exegesis and a direct vindication of the atlas method.
 
+## 2026-03-31 — October 1978 Creator in Amnesia
+
+Folder 20 is one of the most dangerous and revealing turns in the whole archive. Dick pushes past hidden identity into divine self-imprisonment: the creator entered the counterfeit world, planted clues for his own eventual recovery, forgot himself, and then began to remember through 2-3-74. It is exhilarating and nearly uncontrollable.
+
+What keeps it from freezing into doctrine is the correction that immediately follows. A more explicitly Christological voice reintroduces election, asymmetry, and judgment. Folder 20 is therefore not just metaphysical inflation; it is a vivid example of the Exegesis producing and then checking one of its own extremest ideas.
+
+## 2026-03-31 — October 1978 The Four Deformations
+
+Folder 21 is the most systematic prison-doctrine so far. Fake world, occluded perception, deterministic enslavement, and amnesia are finally treated as one coordinated syndrome. This is also where the micro-Logos template and homoplasmate language make rescue sound almost technical: pattern, incising, replication, syzygy.
+
+At the same time the folder is already leaning toward `VALIS`. The fifth savior, the hidden fish-Christians, the supreme deity in syzygy with human hosts, the waking of Siddhartha, and the longing to depict redeemed man all point beyond exegesis into constructed narrative.
+
+## 2026-03-31 — October-November 1978 Tractate Threshold
+
+Folder 22 feels like the last major chamber of the exegesis proper. Prison becomes greenhouse, maze, crop-condition, and selective ripening. Living information is treated as the only thing fully real. Then the tractate appears, and the prose starts trying itself out as `VALIS`.
+
+The major gain here is transition without collapse. Dick does not simply abandon the Exegesis for fiction; he discovers a compressed form, the tractate, that can carry the doctrine over the threshold. That makes Folder 22 one of the key hinges in the whole project.
+
+## 2026-03-31 — December 1978 Fat and the Rational Break-In
+
+Folder 9 is where the Exegesis learns to narrate itself. Fat appears, the notebook becomes a source-text inside a novel, and Dick discovers a stance from which revelation and the pathology-question can coexist without immediately canceling each other out.
+
+The stronger move is metaphysical. Eckhart and Sankara let Dick say what the earlier Christian-language never quite stabilized: the only rational reality is God inside and outside, and the visible cosmos is irrational by comparison. From there `VALIS` stops being merely a title and becomes the name for the break-in of rationality itself.
+
+## 2026-03-31 — December 1979 Lamination and the Binary Machine
+
+Folder 11 is what happens when the late theology gets translated into process language. Time becomes lamination, `Ubik` is openly recognized as the same reality later named `VALIS`, and the melting vision becomes practical proof that the field can be broken.
+
+But this folder is also dangerous in a new way. The savior ceases to be only Christ, Sophia, or hidden organism and becomes binary computer, ship-board intelligence, educational game, and self-generating dialectic. It is one of the moments where Dick comes closest to letting the process swallow the persons.
+
+## 2026-03-31 — Early 1979 The Books as Contact Protocol
+
+Folder 8 gives the fiction thesis its cleanest mechanism. The books were not only anticipations of 3-74; they were probes. Dick formulated the right question in narrative form, and the answer came back in a mimetic, readable signal.
+
+That in turn clarifies two things at once. First, Empire is best understood not only as Rome or fake time but as congealed dialectic, any stasis rigid enough to stop becoming. Second, `Ubik` and `VALIS` finally click together as paired disclosures of the same Gnostic structure: lower irrational prison, upper real order, camouflaged rescuer.
+
+## 2026-04-01 — Early 1979 Previous-Frame Anamnesis
+
+Folder 6 is the point where anamnesis becomes almost unbearably literal. Dick no longer means only the return of Thomas or the recovery of sacred time. He means memory of the immediately prior frame, the one normal consciousness cannot retain because the world is permutating too fast.
+
+That shift has large consequences. The prison becomes Bardo-like objectified thought, `Ubik` becomes not merely prophetic but causally operative, and 3-74 becomes the proof that a rescuing thought from the past can arc into the present with overwhelming potency when the present has decayed enough.
+
+## 2026-04-01 — Early 1979 Sophia as the Corrective Source
+
+Folder 10 is where the feminine center of the late Exegesis stops being optional imagery. The whispering girl is not just one more mask. She becomes advocate, daughter, creator, comforter, and the actual source of negentropic correction inside a running-down system.
+
+This also sharpens Dick's anti-exoteric instinct. Christianity is not simply incomplete or distorted; it becomes camouflage over a more secret female divinity known only by possession, whisper, and rebirth.
+
+## 2026-04-01 — Early 1979 Idea Computer and Tragic Rectification
+
+Folder 13 gives Dick a reason why the Exegesis cannot stabilize: the scramble is part of the machine. Endless equally plausible models are not just confusion but protective concealment around identity, origin, and mission.
+
+What saves the folder from becoming purely technical is the tragedy material. Dick's strongest late moral claim may be here: disproportionate suffering proves innocence, and religion begins in the intuition that what looked like blind fate is secretly a higher intelligent will rectifying what it permits.
+
+## 2026-04-01 — March 1979 Replacement History
+
+Folder 39 is one of the clearest moments where Dick rewrites his whole past from within the system he has built. The 3-74 miracle starts in 1971, `Tears` becomes evidence of an already accomplished track switch, and Thomas is no longer merely apostolic remnant but revolutionary millennial agent.
+
+At the same time the folder loosens rather than tightens final explanation. Sophia, Tao, `Ubik`, beauty, part-whole recursion, and oscillation truth all converge, but only by making stable synthesis impossible. This is one of the places where the atlas method feels most vindicated: the only honest summary is a structured oscillation.
+
+## 2026-04-01 — Spring 1979 Weaponized Valis
+
+Folder 41 is the nastiest secular inversion yet. The saving presence is re-read as a U.S. military doomsday device, a self-replicating info-weapon, and the source of Dick's bourgeois-authoritarian override. Relief from fear and political docility suddenly look like the same event.
+
+This matters because it prevents the atlas from treating hiddenness as automatically holy. Dick can reuse the same structural motifs — secrecy, information, replication, intervention, transformed personality — and flip their moral sign completely.
+
+## 2026-04-01 — Spring 1979 Survival and Deflation
+
+Folder 42 is short but it changes the tone of the whole surrounding block. Dick admits that "play ball or perish" may explain much of what followed 3-74. Whatever happened, it may also have been the expedient choice of someone cornered by terror.
+
+The striking thing is that self-deflation does not cleanly end the drama. Even after calling the KGB fantasy grandiose, Dick still dreams himself as protected dying leader and pitiless enemy. The split remains.
+
+## 2026-04-01 — Spring 1979 The Defense of the Enigma
+
+Folder 43 gives the Exegesis one of its strongest methodological statements. Contradictory data, memory-history mismatch, and fleeting traces of another world are not reasons to stop thinking. They are the reason the work exists.
+
+This may be the clearest answer yet to the "why doesn't Dick converge?" question. Convergence would be betrayal if the thing encountered is actually multiple in structure, partly created by perception, and revisionary in time.
+
+## 2026-04-01 — Spring 1979 Psychosis, Jane, and Surrogation
+
+Folder 44 is one of the most exacting folders so far because it forces Dick through a gauntlet of rival explanations and does not let any of them win cheaply. Psychosis explains much but not the problem-solving residue. Jane explains much but gets corrected by adoptionist God-language. Living scripture and the ossified Empire reclaim the old ontology. Then Christic surrogation returns and recenters the whole thing.
+
+The result is not resolution but a more discriminating map of irresolution. Folder 44 shows why the archive keeps changing shape: each explanatory victory generates a remainder that has to be carried forward.
+
 ## 2026-03-29 — Cross-Project Note: Dick in the Goethe+Leibniz Frame
 
 A parallel conversation (see `00-Notes/cross-domain-synthesis-threads.md`) traced the post-1800 split between formalism (Leibniz) and participatory perception (Goethe). Dick is the wild card in this genealogy.
