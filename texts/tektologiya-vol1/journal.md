@@ -197,3 +197,80 @@ Review notes:
 
 - [visual candidate] a three-step map: conjugation -> chain connection -> ingression
 - [visual candidate] symmetry / asymmetry as two forms of chain connection
+
+## 2026-04-02 - Deingression Becomes Generative
+
+`3.a.5-3.a.7` extend the chapter-3 mechanism grammar in a way that matters.
+
+Up to `3.a.4`, `deingression` could still be heard mainly as the negative twin of `ingression`: a formal name for destructive counter-linkage. In `3.a.5-3.a.7`, that no longer suffices. Bogdanov uses it to derive `separateness`, then to compress all crises into rupture or formation of boundary, and finally to reinterpret sensation and experience in terms of incomplete deingression, differences in tension that unsettle an actual boundary.
+
+What this batch clarified:
+
+- `3.a.5` makes `separateness` a practical interruption of activities-resistances, not a primitive metaphysical fact
+- fictive separations and analytical abstractions still fit the same scheme because thought constructs psychophysically real deingressions
+- `3.a.6` makes `crisis` a formal boundary-event rather than a merely catastrophic one
+- `3.a.7` turns differences in energy-tension into the operative condition of sensation, action, and experience
+
+Current conclusion:
+
+- chapter `3.a` is no longer just a lexicon of process-names; it is becoming a grammar of boundary and transformation
+- `boundary` is now load-bearing, but the English remains transparent enough that it does not yet need glossary promotion
+- the next clean move is `3.a.8`, because it returns to ingression on the cognitive side and likely closes this first mechanism-cycle
+
+Review notes:
+
+- [visual candidate] a branching map: deingression -> separateness / crisis / experience
+- [visual candidate] migration of a boundary under unequal tensions
+
+## 2026-04-02 - Ingression Becomes Universal
+
+`3.a.8-3.a.9` close the formative mechanism-cycle by widening `ingression` as far as it can go.
+
+In `3.a.3`, ingression first appeared as mediated linkage. In `3.a.8`, it becomes the basis of cognition itself: generalization, philological reconstruction, criticism, and even the persistence of mathematical equality are all re-described as ingressive operations. In `3.a.9`, the same pattern is then extended into society and finally into the continuity-principle of the world.
+
+What this batch clarified:
+
+- `3.a.8` shows that ingression is not merely connective but also disorganizing when a new bond pulls a complex away from an older one
+- the mathematical passages matter because equality is treated as a bond between cognitive characteristics, not between the things themselves
+- approximation is not an embarrassment to mathematical cognition here but one of its operative conditions
+- `3.a.9` refuses to derive society from already-shared ideology; ideology is derivative from cooperative labor and remains an instrument of coordinated effort
+- `common environment` is crucial for labor but is explicitly denied the status of bond within social ingression
+- world ingression is stated as the continuity principle: between any two complexes, sufficient inquiry establishes intermediate links
+
+Current conclusion:
+
+- chapter `3.a` now looks locally complete
+- `bond` has finally earned glossary status because it recurs structurally and is explicitly named in the closing inventory of formative concepts
+- the next clean move is `3.b.1`, where Bogdanov turns from the formation of complexes to their regulation
+
+Review notes:
+
+- [visual candidate] a ladder: labor -> speech -> ideology -> cognition -> universal continuity
+- [visual candidate] equality as cognitive bond rather than thing-to-thing identity
+
+## 2026-04-02 - Regulating Mechanism Opens
+
+`3.b.1-3.b.3` begin by changing the status of preservation itself.
+
+`3.b.1` introduces `selection` as the universal name of the regulating mechanism, explicitly stripped of the merely biological narrowing carried by `natural selection`. The section is still working at the level of a first abstraction, but it already matters that Bogdanov analyzes the mechanism through three elements: object, agent, basis. That gives the chapter an immediately reusable scheme rather than a loose metaphor.
+
+`3.b.2` then removes the possibility of reading preservation as stasis. Every preservation of form is re-described as `mobile equilibrium`, the practical balancing of opposed changes. The biological pair `assimilation / deassimilation` is generalized with it, and the consequence is sharp: `conservative selection` can only be a first schematic approximation.
+
+The opening of `3.b.3` pushes this further. In a changing environment, actual preservation is possible only through growth, an increase in the sum of activities. Decline is the inverse case. This is what Bogdanov names `progressive selection`, and it means that the regulating mechanism no longer merely sorts already-given forms but tracks their development and exhaustion.
+
+Cross-batch consequence:
+
+- the regulating layer is not cut off from the formative one
+- negative progressive selection is already described through `deingression`, as the invasion of external activities that paralyze the complex's own resistances
+- chapter `3.b` therefore begins not by abandoning the `3.a` grammar but by reusing it under the question of preservation and decline
+
+Current conclusion:
+
+- Bogdanov's regulating mechanism is holding at the same density as the formative mechanism
+- `selection`, `mobile equilibrium`, and `progressive selection` have all earned glossary status
+- the next useful continuation is deeper into `3.b.3`, where quantitative growth and decline begin to turn into structural transformation and crisis
+
+Review notes:
+
+- [visual candidate] a triad diagram for `3.b.1`: object -> agent -> basis
+- [visual candidate] a transition map: conservative selection -> mobile equilibrium -> progressive selection

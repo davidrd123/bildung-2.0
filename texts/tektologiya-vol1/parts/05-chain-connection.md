@@ -117,7 +117,7 @@ In many combinations of organic and inorganic nature, chain connection is establ
 - `3.a.2` is the actual bridge between `conjugation` and `ingression`. `Conjugation` names the primary joining-act; `chain connection` names the organized form in which transformed complexes remain linked; `ingression` then names the operative method for producing such linkage when direct common elements are absent or insufficient.
 - The strongest clarification here is that `common` means coincidence, not mere similarity.
 - `Chain connection` works better than a smoother English alternative because Bogdanov wants the image of linked elements to remain explicit while still speaking at a fully formal level.
-- `Bond` for `связка` is usable in local prose, but it has not yet earned glossary promotion.
+- `Bond` for `связка` is usable in local prose. At this stage it had not yet earned glossary promotion; later sections made it structurally real.
 - The last paragraph is methodologically decisive: `chain connection` is not merely something found in the world; it is also the form through which thought represents organized combinations, even when it must construct the linking elements theoretically.
 
 ## Next Move

@@ -1,0 +1,41 @@
+source:
+  file: "../../../books/Die Antiquiertheit des Menschen - Gunther Anders.txt"
+  format: "txt"
+  anchor_mode: "line_range"
+  notes: "EPUB-derived source text. Clean enough to use directly; line ranges serve as the stable first-pass anchors."
+
+encounters:
+  - id: "01"
+    slug: "preface-and-introduction"
+    title: "Vorwort / Einleitung"
+    line_start: 65
+    line_end: 199
+    notes: "Late preface, introduction, apparatus as Vorentscheidung, prometheisches Gefaelle, and methodological overstatement."
+
+  - id: "02"
+    slug: "prometheische-scham"
+    title: "Ueber prometheische Scham, sections 1-2"
+    line_start: 255
+    line_end: 368
+    notes: "First naming of prometheische Scham, made-versus-born contrast, and the initial objection structure."
+
+  - id: "03"
+    slug: "phantom-und-matrize"
+    title: "Die Welt als Phantom und Matrize, sections 1-2"
+    line_start: 1052
+    line_end: 1121
+    notes: "No medium is merely a means; mass consumption as solistic production of the Massenmensch."
+
+  - id: "04"
+    slug: "sein-ohne-zeit"
+    title: "Sein ohne Zeit, sections 1-2"
+    line_start: 2177
+    line_end: 2227
+    notes: "Negative parable, worldlessness, and waiting as the misreading of bare continued existence."
+
+  - id: "05"
+    slug: "apokalypseblindheit"
+    title: "Ueber die Bombe..., sections 1-2"
+    line_start: 2315
+    line_end: 2401
+    notes: "Bomb opening, overstatement as method, and the first pressure on Apokalypseblindheit."

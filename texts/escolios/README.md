@@ -28,6 +28,10 @@ The current source surface is `Escolios a un texto implícito I` only. The trans
 
 So the immediate work is no longer extending section count inside volume I. It is deepening use of the translated material without overbuilding new infrastructure.
 
+The current second-pass work is intentionally limited to one reread memo focused on the load-bearing aphorisms already anchoring the project. It is not a separate synthesis tree.
+
+A sibling intake scaffold for volume II now exists at [texts/escolios-ii](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/README.md), built from the currently available Italian translation witness.
+
 ## Structure
 
 ```
@@ -37,6 +41,7 @@ source/
 sections/
   01-prolegomena.md     # sequential batches, bilingual + commentary
   02-...
+selective-second-pass.md # reread memo for volume I load-bearing aphorisms
 journal.md              # translation diary / process reflections
 ```
 

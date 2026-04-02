@@ -58,10 +58,10 @@ Ranking criteria:
 ### Next up
 
 1. **Günther Anders — *Die Antiquiertheit des Menschen*** (German)
-   Best bridge between Cassirer's historical epistemology and Jünger's phenomenology of the technological threshold. `Prometheanische Scham` names the human experience of morphological inferiority before its own apparatus-world.
+   Band I is now locally present as `books/Die Antiquiertheit des Menschen - Gunther Anders.txt`, and a bounded source campaign has been scaffolded under `sources/german/anders-antiquiertheit-des-menschen-band1/`. Keep this line source-layer for now. The first encounter arc tests `prometheische Scham`, apparatus-world, `Phantom` / `Matrize`, `Sein ohne Zeit`, and `Apokalypseblindheit`.
 
 2. **Jakob von Uexküll — key passages from *Theoretische Biologie* and related works** (German, source-layer first)
-   More urgent as targeted source work than as a full retranslation. Grounds organism/world coupling and strengthens the emerging earth-thread.
+   The initial five-encounter source campaign is now complete under `sources/german/uexkuell-theoretische-biologie/`. Keep this line source-layer for now rather than promote it to a full retranslation. It grounds organism/world coupling, subject-cut objects, and overlapping Umwelten carried by invariant `Funktionskreise`.
 
 3. **Raymond Ruyer — *La Cybernétique et l'origine de l'information*** (French)
    High-yield support for the Rosen thread: meaning and morphogenesis against the flattening of information into syntax.
@@ -100,9 +100,9 @@ Cassirer is the figure who most directly connects the bildung-2.0 texts to the b
 
 The most urgent missing bridge is not simply more formal architecture or more biological grounding, but a diagnosis of what it feels like for the human being to be overtaken by its own apparatus-world.
 
-That is why Anders rises in priority. He sits between Cassirer's account of symbolic-form transformation and Jünger's phenomenology of the time wall. What Jünger describes as naming crisis and new optics, Anders diagnoses as `Prometheanische Scham`: the human being's experience of morphological inferiority before the precision, durability, and reliability of its own technical products.
+That is why Anders rises in priority. He sits between Cassirer's account of symbolic-form transformation and Jünger's phenomenology of the time wall. What Jünger describes as naming crisis and new optics, Anders diagnoses as `prometheische Scham`: the human being's experience of morphological inferiority before the precision, durability, and reliability of its own technical products.
 
-This makes Anders a better immediate next target than more distant comparative systems. He is close to the current language, close to the current historical problem, and close to the current method.
+This keeps Anders as a live working line rather than a distant comparator. He is close to the current language, close to the current historical problem, and close to the current method. The question now is no longer whether he belongs in the queue, but whether the first bounded source campaign earns promotion beyond source-layer work.
 
 ## The Rosen Thread
 
@@ -242,6 +242,26 @@ Two imagistic models have emerged from the translation that have no precedent in
 **The earth thread** (Erd- compounds): §§52, 56, 62, 63, 64. Erdmutter (§52), Erdgeschichte (§56 and beyond), Erdrecht (§62), Erdheimat (§63), Erdvergeistigung (§63). These form a second imagistic axis running through Parts 3–4: the ground beneath history, the earth that is older than any human temporal order. The sequence moves from earth-mother (mythic) through earth-history (geological) through earth-right (magical-juridical) to earth-home and earth-spiritualization (what comes after historical time). If the textile model is horizontal (time-orders interwoven), the earth model is vertical (depth beneath the historical surface).
 
 **Together** they give Jünger a coordinate system — horizontal weaving and vertical depth — that is architecturally richer than any single comparator's model and is one of the things the translation uniquely recovers for English-language readers.
+
+## The Action-Conditioned Real (from von Foerster + late `Zeitmauer` + Cassirer + Dick, 2026-04-02)
+
+A new thread surfaced while reviewing the von Foerster encounter against the late `Zeitmauer` material and the existing Cassirer / Dick notes: the deepest issue may not be that reality is *constructed*, but that access to different layers of reality is *conditioned by action*.
+
+That is a stronger claim than constructivism. It says the decisive difference is not between passive realism and active cognition, but between kinds of participation. Some realities do not become visible through better representation alone. They become visible only after a change in conduct, endurance, or form of life.
+
+**Von Foerster** reaches this most explicitly. The Principle of Relativity is not deduced; it is adopted. `Reality = Community` follows from a choice, and the paper ends not with a theorem but with the twin imperatives: increase choices; if you want to see, learn how to act. Even the earlier experiments point the same way. The scotoma case is not solved by finer inspection but by altered sensorimotor engagement. Seeing is won through changed practice.
+
+**Cassirer's Cusa** gives the older epistemological form of the same pattern. `Ratio` does not simply receive truth and fail; it reaches a limit that can only be crossed by a different kind of operation. `Conjectura`, `assimilatio`, the `Zirkel im Geiste`, and finally `scientia infinita` all name constructive acts, not improved copies. Exactness comes when mind brings forth the form by which the object becomes intelligible. The passage from `ratio` to `intellectus` is therefore not mere contemplation of a higher content, but a shift in what the knower does.
+
+**Late Jünger** pushes the same issue out of epistemology and into history. The decisive late sections are no longer primarily about diagnosis but about passage-figures: `zm:103:through-the-wall`, `zm:119:new-freedom`, `zm:120:spiritual-sovereignty`, `zm:121:volunteers`, `zm:123:meteorological-augur`. These are not new descriptions of the same world. They are modes of comportment by which another world becomes legible. The augur, the sovereign, and the one who passes through the wall are not spectators with better theories. They are figures whose disciplined relation to danger, sacrifice, invisibility, and earth-sense lets them perceive what ordinary historical consciousness cannot.
+
+**Dick** supplies the wilder modern extreme. In the `Exegesis`, reality does not reopen through interpretation alone. `[1:127]` says one new act starts real time by breaking prior thought-formations. `[62:C-192–194]` says creative action can master time rather than merely endure it. Anamnesis itself increasingly behaves less like retrieval of stored information than like a practical rupture that re-situates the self within another order of time.
+
+This suggests a correction to the strongest current Barrett-style thread. Constructed categories are real, but lexical recarving is not the whole story. Some categories can be revised by naming; others only by practice. The observer may need to become a different kind of being before the relevant distinctions can even appear. In that sense, Jünger's naming crisis is not only semantic. It is ethical and initiatory: the old words fail because the old forms of life no longer grant access.
+
+It also sharpens the project's own method. Close translation, glossary pressure, handles, and commentary are not just descriptive instruments. At their best they are small disciplines that alter what can be seen. The free rendering is not merely a looser paraphrase that comes after a strict one; it is what becomes possible once enough action has been taken on the material for another layer of reality to disclose itself.
+
+Compressed claim: the common problem across these materials is not "Is reality constructed?" but "What kind of action must a knower undergo before a different reality can appear?"
 
 ## Repo Placement
 

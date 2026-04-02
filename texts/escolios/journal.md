@@ -365,3 +365,19 @@ That changes the kind of work that counts as primary here. "Keep going" no longe
 - or extending the project only when another source volume is actually brought into the workspace
 
 This is a useful correction. The project was starting to look unfinished because it had not yet grown the kinds of auxiliary surfaces the other projects had. But the primary work on volume I is now substantial and real: `499` aphorisms translated, `17` section files, a journal with retrospective review notes, and a handle layer just large enough to make the source addressable. The right next discipline is not to fake forward motion by generating more architecture.
+
+---
+
+## 2026-04-02 — Selective Second Pass
+
+With the first pass complete, the right next move was not another section file but a reread of the aphorisms that have become load-bearing for the project's own method. `selective-second-pass.md` now gathers that small set (`§2`, `§4`, `§6`, `§110`, `§145`, `§161`, `§194`, `§199`, `§225`, `§247`, `§297`, `§299`, `§306`, `§428`, with a few supporting companions) and asks what they say together after the full sweep through volume I.
+
+The strongest second-pass gain is not a new doctrine but a clearer line of force:
+
+- fragment is discipline, not defect
+- truth arrives as recognition under translation pressure
+- formation is indirect
+- reality keeps its qualities
+- books stop teaching when they become documents
+
+That is enough for now. One reread memo is the right scale. More would risk rebuilding the same self-feeding apparatus that just had to be pruned from the cross-project layer.

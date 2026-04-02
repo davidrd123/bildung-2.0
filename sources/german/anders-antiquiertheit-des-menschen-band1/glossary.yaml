@@ -1,0 +1,73 @@
+# Seed glossary for the Anders Band I source campaign.
+# Only terms already active in the first encounter queue belong here.
+
+- term: "prometheische Scham"
+  handle: "term:prometheische-scham"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "Promethean shame"
+    - "promethean shame"
+  status: seed
+  notes: "The campaign's most obvious pressure point, but not yet ready for fluent English. The mythic register, the lower-case German adjective, and the relation to `prometheisches Gefälle` should stay visible until encounter 02 is worked."
+
+- term: "prometheisches Gefälle"
+  handle: "term:prometheisches-gefaelle"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "Promethean gap"
+    - "Promethean gradient"
+    - "promethean disparity"
+  status: seed
+  notes: "Names the asynchronous relation among making, imagining, feeling, responsibility, and embodiment. Encounter 01 should decide whether any English option can keep both the structural and directional force."
+
+- term: "Vorentscheidung"
+  handle: "term:vorentscheidung"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "predecision"
+    - "prior decision"
+  status: seed
+  notes: "The introduction's device thesis turns apparatuses from neutral means into prior decisions imposed before we act. Keep it open until encounter 01 clarifies whether the force is conceptual, polemical, or both."
+
+- term: "Weltphantom"
+  handle: "term:weltphantom"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "world-phantom"
+    - "phantom world"
+  status: seed
+  notes: "The point is not simply image or representation, but a world encountered in phantom form. Encounter 01 and 03 should decide whether any English can carry that without flattening it into media theory shorthand."
+
+- term: "Phantom / Matrize"
+  handle: "term:phantom-matrize"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "phantom / matrix"
+    - "phantom / mold"
+  status: seed
+  notes: "This pair appears to do one architectural job and should not be normalized term by term too early. Encounter 03 should test whether the pair remains most legible in German."
+
+- term: "Sein ohne Zeit"
+  handle: "term:sein-ohne-zeit"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "being without time"
+    - "existence without time"
+  status: seed
+  notes: "The Beckett essay is not an ornamental detour. This phrase likely names a structural condition of worldlessness, waiting, and non-action rather than a one-off literary slogan."
+
+- term: "Apokalypseblindheit"
+  handle: "term:apokalypseblindheit"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "apocalypse-blindness"
+    - "apocalyptic blindness"
+  status: seed
+  notes: "Likely one of the campaign's load-bearing terms. Keep the relation to incapacity of imagination, emotion, and responsibility visible before choosing an English form."
