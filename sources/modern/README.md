@@ -42,6 +42,7 @@ Concepts referenced in project prose but not yet encountered. Ordered by anchor 
 | Compression | Freedman et al., "Compression Is All You Need" (2026) | `esc:4` (pointillism), handle schema | Prior conversation |
 | Local/global failure | Spivak or Bredon on sheaf theory | `esc:2` (symmetric injustices), close/free residue | Cross-domain synthesis |
 | Active inference | Friston, "The Free Energy Principle" (2010) | exegesis (recursive model-revision) | Exegesis second pass |
+| Negative prehension / concrescence | Whitehead, *Process and Reality* Part III (via Sherburne key) | Bogdanov deingression (Tekt 3.a.5-7), `zm:6` Hinzutretende (supplementary phase), Erkenntnisproblem (Cassirer as near-contemporary process-thinker) | **Trigger conditions**: (1) Tektologiya translation reaches a point where Bogdanov's boundary grammar needs a vocabulary for how exclusion is productive beyond activities-resistances; or (2) Erkenntnisproblem reaches Kant and needs Whitehead's explicit revision of the categories; or (3) a zeitmauer passage forces the Hinzutretende beyond interpretation into the question of how novelty enters an occasion. Do not encounter speculatively — PR is 500 pages and has consumed careers. Use Sherburne as guide, PR as source, selective passages only. |
 
 ## Current Encounters
 
@@ -49,7 +50,8 @@ Concepts referenced in project prose but not yet encountered. Ordered by anchor 
 |------|---------|--------|
 | `rosen-closure-efficient-causation.md` | Closure to efficient causation | open (headline theorem corrected; organizational insight stable, anti-machine proof disputed) |
 | `von-foerster-constructing-reality.md` | Observer-dependent reality, recursive cognition, cognitive closure | open (first pressure confirmed in Erkenntnisproblem Part 45; changed the read of Montaigne's organ-conditioned knowledge passage; broader validation still pending) |
-| `montevil-mossio-closure-of-constraints.md` | Closure of constraints, constraint/process distinction, time-scale relativity | open (corrects Rosen; bridges to Bogdanov boundary analysis; time-scale parameter τ as genuine contribution) |
+| `montevil-mossio-closure-of-constraints.md` | Closure of constraints, constraint/process distinction, time-scale relativity | open (grounds Rosen; bridges to Bogdanov boundary analysis; time-scale parameter τ as genuine contribution) |
+| `eilenberg-maclane-natural-equivalences.md` | Natural equivalences, functors, categories, commutativity as criterion | open (Introduction only; Substanzbegriff → Funktionsbegriff formalized; commutativity as residue-detection; all project parallels marked as transfer heuristics) |
 
 ## Sketches
 
