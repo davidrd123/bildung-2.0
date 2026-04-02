@@ -25,9 +25,14 @@ greek/          # Homer, Sophocles, Plato, Diogenes Laertius, Heraclitus...
 latin/          # Seneca, Petrarch, Aquinas, liturgical formulae...
 german/         # Nietzsche, Hegel, Hölderlin... (beyond the Zeitmauer project)
 french/         # La Rochefoucauld, Valéry, Montaigne, Tocqueville...
+modern/         # Post-1950 concepts: Rosen, von Foerster, autopoiesis, compression...
 ```
 
+The `modern/` directory applies the same encounter discipline to concepts the project already references but has not yet subjected to primary reading. See `modern/README.md` for format, queue, and trigger rules.
+
 Each file is one encounter: a passage, an attempt, notes. Files are named by author and reference, not numbered.
+
+When a source line grows beyond one-off encounters but has not yet earned a full `texts/` subproject, it may instead receive a bounded campaign folder inside the language directory. That folder may keep its own `README.md`, `journal.md`, `glossary.yaml`, `source/`, and `encounters/` files so the work can accumulate pressure without prematurely becoming a standing translation project.
 
 ## Thread Index
 
@@ -39,3 +44,4 @@ Each file is one encounter: a passage, an attempt, notes. Files are named by aut
 | `french/la-rochefoucauld-maximes.md` | French | Escolios §10, §25, §84, §96 | La Rochefoucauld, *Maximes* |
 | `latin/petrarch-epist-xix-7.md` | Latin | Escolios epigraph | Petrarch, *Epist. rer. famil.* XIX.7 |
 | `french/valery-charmes.md` | French | Escolios epigraph | Valéry, *Charmes* |
+| `german/uexkuell-theoretische-biologie/README.md` | German | Cross-domain synthesis thread; organism/world coupling line | Jakob von Uexküll, *Theoretische Biologie* (2nd ed., 1928) |
