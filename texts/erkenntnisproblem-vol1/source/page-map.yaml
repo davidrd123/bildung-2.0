@@ -45,3 +45,80 @@ ranges:
     printed_pages: ["19", "24"]
     trust: "high"
     note: "The chapter-opening page suppresses the visible running page number, but sequence and the immediately preceding introduction endpoint confirm the range."
+
+  - slug: "carolus-bovillus-opening"
+    label: "Opening of `Carolus Bovillus` section"
+    pdf_pages: [86, 88]
+    printed_pages: ["62", "64"]
+    trust: "high"
+    note: "This internal section within `Nikolaus Cusanus` begins on printed page 62. The transition sentence introducing Bovillus starts on the preceding printed page 61 / PDF page 85."
+
+  - slug: "humanism-chapter-opening"
+    label: "Opening of `Der Humanismus und der Kampf der Platonischen und Aristotelischen Philosophie`"
+    pdf_pages: [97, 100]
+    printed_pages: ["73", "76"]
+    trust: "high"
+    note: "The second chapter begins on printed page 73 / PDF page 97 and opens with a methodological survey of Renaissance unity around the problem of knowledge."
+
+  - slug: "platonic-renewal-opening"
+    label: "Opening of `I. Die Erneuerung der Platonischen Philosophie`"
+    pdf_pages: [104, 108]
+    printed_pages: ["80", "84"]
+    trust: "high"
+    note: "Section I opens on printed page 80 / PDF page 104 and immediately frames the Plato/Aristotle conflict as coextensive with the history of modern thought."
+
+  - slug: "aristotelian-psychology-opening"
+    label: "Opening of `II. Die Reform der Aristotelischen Psychologie`"
+    pdf_pages: [122, 124]
+    printed_pages: ["98", "100"]
+    trust: "high"
+    note: "Section II begins on printed page 98 / PDF page 122 and shifts the center of the Aristotelian question from cosmology to psychology and the concept of consciousness."
+
+  - slug: "scholastic-logic-opening"
+    label: "Opening of `III. Die Auflösung der scholastischen Logik`"
+    pdf_pages: [145, 148]
+    printed_pages: ["121", "124"]
+    trust: "high"
+    note: "Section III begins at the foot of printed page 120 / PDF page 144; the first full pages on PDF 145-148 show the opening argument moving from humanist style-critique toward Valla and Vives."
+
+  - slug: "petrus-ramus-opening"
+    label: "Opening of the Petrus Ramus discussion within section `III`"
+    pdf_pages: [154, 156]
+    printed_pages: ["130", "132"]
+    trust: "high"
+    note: "The Ramus transition begins after the centered divider on printed page 130 / PDF page 154 and reframes dialectic around Platonic recollection, mathematics, and `natural dialectic`."
+
+  - slug: "zabarella-within-scholastic-logic"
+    label: "Opening of the Zabarella discussion within section `III`"
+    pdf_pages: [160, 160]
+    printed_pages: ["136", "136"]
+    trust: "high"
+    note: "The Zabarella transition begins on printed page 136 / PDF page 160 and shifts the anti-scholastic critique into an immanent Aristotelian reorganization of method."
+
+  - slug: "francesco-pico-within-scholastic-logic"
+    label: "Opening of the Francesco Pico discussion within section `III`"
+    pdf_pages: [168, 168]
+    printed_pages: ["144", "144"]
+    trust: "high"
+    note: "The Francesco Pico transition begins after the centered divider on printed page 144 / PDF page 168 and reopens the problem of metaphysical residues inside Aristotle's theory of cognition."
+
+  - slug: "nizolius-within-scholastic-logic"
+    label: "Opening of the Nizolius discussion within section `III`"
+    pdf_pages: [174, 176]
+    printed_pages: ["150", "152"]
+    trust: "high"
+    note: "The Nizolius transition begins on the preceding printed page 149 / PDF page 173, but the first full Nizolius pages begin on printed page 150 / PDF page 174 and introduce `Comprehension` against scholastic abstraction."
+
+  - slug: "renewal-of-nature-and-history-opening"
+    label: "Opening of `IV. Die Erneuerung der Natur- und Geschichtsansicht`"
+    pdf_pages: [177, 180]
+    printed_pages: ["153", "156"]
+    trust: "high"
+    note: "Section IV begins on printed page 153 / PDF page 177 and opens by linking new historical self-consciousness, humanist scholarship, exact observation, and Giovanni Pico's anti-astrology polemic."
+
+  - slug: "skepticism-chapter-opening"
+    label: "Opening of `Drittes Kapitel. Der Skepticismus`"
+    pdf_pages: [196, 196]
+    printed_pages: ["172", "172"]
+    trust: "medium"
+    note: "The chapter opening is on PDF page 196. The running printed page number is suppressed on the chapter-opening page, but sequence from printed page 171 on the preceding page makes `172` the expected continuation."

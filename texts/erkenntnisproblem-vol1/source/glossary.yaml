@@ -38,7 +38,7 @@
     - "fundamental concept"
     - "ground concept"
   status: tentative
-  notes: "Likely to recur structurally in the introduction and later chapter summaries."
+  notes: "Use for load-bearing logical units rather than for any merely important notion. In the introduction Cassirer treats `Grundbegriffe` as the conceptual means by which science orders experience, and later chapters reactivate the pressure when historical epochs reformulate the basic conditions of knowing."
 
 - term: "Begriff"
   handle: "term:begriff"
@@ -137,7 +137,7 @@
   alternatives:
     - "unity of opposites"
   status: tentative
-  notes: "The classic Cusan formula standing behind Cassirer's German `Coincidenz der Gegensätze`. Keep the Latin visible where the technical doctrine, not just a generic paradox, is at stake. In the current Cusa tranches Cassirer pressures it toward a methodological/logical category, not merely a mystical slogan."
+  notes: "The classic Cusan formula standing behind Cassirer's German `Coincidenz der Gegensätze`. Keep the Latin visible where the technical doctrine, not just a generic paradox, is at stake. Distinguish two pressures: an early mystical/theological sense in which oppositions are resolved in the divine infinite, and the current Cassirerian methodological/logical sense in which apparently separated domains are linked through a productive rule or continuous transition."
 
 - term: "ratio"
   handle: "term:ratio"
@@ -149,6 +149,28 @@
   status: open
   notes: "A major pressure point in the Cusa chapter. Cassirer locally aligns it with `Verstand` and discursive, abstractive cognition governed by the excluded middle; do not settle the English globally too early."
 
+- term: "leidender Verstand"
+  handle: "term:leidender-verstand"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "passive intellect"
+    - "receptive intellect"
+    - "passive understanding"
+  status: open
+  notes: "In the Aristotelian psychology section this renders the `nous pathetikos`: the understanding insofar as it receives and gathers the material offered by sense and imagination. Technical context may favor `intellect` over literal `understanding`."
+
+- term: "tätiger Verstand"
+  handle: "term:taetiger-verstand"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "active intellect"
+    - "agent intellect"
+    - "active understanding"
+  status: open
+  notes: "In the Aristotelian psychology section this names the power treated as independent of sensible conditioning and later radicalized in Averroism. Keep open whether the historical register is better served by `active intellect` or `agent intellect`."
+
 - term: "intellectus"
   handle: "term:intellectus"
   kind: concept
@@ -158,6 +180,121 @@
     - "intellection"
   status: tentative
   notes: "In the current tranche this is the higher faculty that comprehends principle and totality in a single act. The phrase `visus intellectualis` names its operative mode."
+
+- term: "emanatio"
+  handle: "term:emanatio"
+  kind: concept
+  preferred: "emanation"
+  alternatives:
+    - "outflow"
+    - "derivation"
+  status: tentative
+  notes: "In the current Cusa tranche Cassirer rereads the Neoplatonic term methodologically: not merely a cosmological descent, but the logical demand to derive the particular from an originating ground."
+
+- term: "non aliud"
+  handle: "term:non-aliud"
+  kind: concept
+  preferred: "not-other"
+  alternatives:
+    - "the not-other"
+  status: tentative
+  notes: "Cusa's late title-formula. Cassirer treats it as holding together two claims at once: the absolute as immanent to finite things, and the absolute as not determinable like any individual thing. Keep the Latin visible where the treatise-title or technical doctrine is in view."
+
+- term: "scientia infinita"
+  handle: "term:scientia-infinita"
+  kind: concept
+  preferred: "infinite knowledge"
+  alternatives:
+    - "infinite science"
+    - "infinite knowing"
+  status: tentative
+  notes: "In the current Cusa tranche this names the presupposed unity of all knowing. Cassirer uses it to mark the shift from an ontological grounding in absolute being toward an inner certainty native to inquiry itself."
+
+- term: "Ars oppositorum"
+  handle: "term:ars-oppositorum"
+  kind: concept
+  preferred: "art of opposites"
+  alternatives:
+    - "art of contraries"
+    - "art of opposing terms"
+  status: tentative
+  notes: "In the Bovillus section this names the goal of a true logic capable of presenting opposed moments, their relation, and their eventual coincidence. Keep the Latin visible when Cassirer is naming Bovillus's formula or work-title."
+
+- term: "Identität von Mikrokosmos und Makrokosmos"
+  handle: "term:microcosm-macrocosm-identity"
+  kind: concept
+  preferred: "identity of microcosm and macrocosm"
+  alternatives:
+    - "microcosm-macrocosm identity"
+  status: tentative
+  notes: "Cassirer treats this as only touched by Cusa but first given determinate Renaissance form in Bovillus, before it reappears more forcefully in Paracelsus."
+
+- term: "Spezies"
+  handle: "term:species"
+  kind: concept
+  preferred: "species"
+  alternatives:
+    - "intelligible species"
+    - "formal image"
+  status: tentative
+  notes: "A scholastic technical term left partially Latinized in English. In the Bovillus tranche it carries a deliberate doubleness: both the formal content of the thing and the sensible or conceptual image received from it."
+
+- term: "Phantasma"
+  handle: "term:phantasma"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "phantasm"
+    - "image"
+    - "image of presentation"
+  status: open
+  notes: "In the Aristotelian psychology section this names the image-content on whose ground thought, as a psychological act, must still arise. `Phantasm` preserves the scholastic-Aristotelian register, but can sound too technical if overused."
+
+- term: "Substanzbegriff"
+  handle: "term:substanzbegriff"
+  kind: concept
+  preferred: "concept of substance"
+  alternatives:
+    - "substance-concept"
+  status: tentative
+  notes: "In the current Bovillus conclusion Cassirer names the contradiction within the Aristotelian `Substanzbegriff`: the individual thing as true substance, yet also an inner substantial essence reached only through universal form."
+
+- term: "substantielle Form"
+  handle: "term:substantielle-form"
+  kind: concept
+  preferred: "substantial form"
+  alternatives:
+    - "substantive form"
+  status: tentative
+  notes: "The opening thesis of the Humanism chapter. Cassirer treats the Renaissance as united above all by a struggle against the scholastic doctrine of the `substantial form`."
+
+- term: "Funktionsbegriff"
+  handle: "term:funktionsbegriff"
+  kind: concept
+  preferred: "concept of function"
+  alternatives:
+    - "functional concept"
+  status: tentative
+  notes: "Explicitly paired with `Substanzbegriff` in the Humanism chapter: modern physics first accomplishes the step from being to activity by moving from a substance-concept to a function-concept."
+
+- term: "Logos-Lehre"
+  handle: "term:logos-lehre"
+  kind: concept
+  preferred: "doctrine of the Logos"
+  alternatives:
+    - "Logos doctrine"
+  status: tentative
+  notes: "In the Platonism section this names the Greek speculative content that Christianity had absorbed and that Renaissance Platonism seeks to restore beyond merely theological use."
+
+- term: "Wiedererinnerung"
+  handle: "term:wiedererinnerung"
+  kind: concept
+  preferred: "recollection"
+  alternatives:
+    - "anamnesis"
+    - "remembrance"
+  status: tentative
+  notes: "The Platonic doctrine of recollection. In the Ficino tranche Cassirer treats its transmission as a fixed historical center for the modern development of the concept of consciousness."
 
 - term: "Praecision"
   handle: "term:praecision"
@@ -187,6 +324,24 @@
   status: tentative
   notes: "Usually `quantity`, but preserve the Latin in the explicit Cusan contrast with `quidditas`."
 
+- term: "Qualität"
+  handle: "term:qualitaet"
+  kind: concept
+  preferred: "quality"
+  alternatives:
+    - "determinate quality"
+  status: tentative
+  notes: "The Ficino tranche makes this structurally important: a non-compositional determination such as light or color, present whole in each part and mediating between body and soul."
+
+- term: "Quantität"
+  handle: "term:quantitaet"
+  kind: concept
+  preferred: "quantity"
+  alternatives:
+    - "magnitude"
+  status: tentative
+  notes: "In the current Ficino tranche this names the order of divisible extension and composition. Cassirer isolates the distinction between `Quantität` and `Qualität` as the passage's pure logical core."
+
 - term: "Wissenschaft"
   handle: "term:wissenschaft"
   kind: concept
@@ -196,7 +351,7 @@
     - "systematic knowledge"
     - "scholarship"
   status: open
-  notes: "A major pressure point. English `science` is often too narrow, but `knowledge` is too broad. In the calibration tranche the current bias is still to use `science` unless the sentence clearly means something wider."
+  notes: "A major pressure point. English `science` is often too narrow, but `knowledge` is too broad. In the introduction Cassirer often means the rational or scientific disciplines that furnish critique with its current foothold, while other contexts widen toward systematic knowledge or learned inquiry."
 
 - term: "Erfahrung"
   handle: "term:erfahrung"
@@ -205,7 +360,7 @@
   alternatives:
     - "empirical experience"
   status: tentative
-  notes: "Keep open where Cassirer is explicitly distinguishing historical, psychological, and scientific layers."
+  notes: "Keep open where Cassirer is explicitly distinguishing historical, psychological, and scientific layers. In the introduction it is not mere raw givenness, but the field whose content is selected, organized, and repeatedly redefined by scientific work."
 
 - term: "exakte Wissenschaft"
   handle: "term:exakte-wissenschaft"
@@ -214,7 +369,7 @@
   alternatives:
     - "exact sciences"
   status: tentative
-  notes: "Likely to be singular or plural by context; preserve the historical phrase where possible."
+  notes: "Likely to be singular or plural by context; preserve the historical phrase where possible. In the introduction this names the domain, above all mathematical natural science, in which the unity of the concept of knowledge first gains steady proof and historical efficacy."
 
 - term: "transscendentale Methode"
   handle: "term:transscendentale-methode"
@@ -233,7 +388,7 @@
     - "mind"
     - "spirit"
   status: open
-  notes: "Use contextually. The calibration tranche pressures both `mind` and `spirit`; do not settle the term globally too early. The continuation on introduction p. 9 leans toward `mind` where Cassirer rejects the picture of `Geist` as a finished substance."
+  notes: "Use contextually. The calibration tranche pressures both `mind` and `spirit`; do not settle the term globally too early. The introduction now leans toward `mind`, `intellectual`, or `conceptual` where Cassirer rejects `Geist` as a finished substance or names the non-religious sphere of thought and culture."
 
 - term: "Geisteswissenschaften"
   handle: "term:geisteswissenschaften"
@@ -254,7 +409,7 @@
     - "idea"
     - "presentation"
   status: tentative
-  notes: "The Kantian background matters. `Idea` is often too loose."
+  notes: "The Kantian background matters. In the introduction prefer `representation` where Cassirer is measuring truth against `Vorstellungen`; `idea` is often too loose for those epistemic contexts."
 
 - term: "Selbstbewußtsein"
   handle: "term:selbstbewusstsein"
@@ -264,3 +419,58 @@
     - "self-awareness"
   status: tentative
   notes: "Prefer `self-consciousness` in methodological or historical-philosophical passages unless the psychological sense dominates."
+
+- term: "kompositive Methode"
+  handle: "term:kompositive-methode"
+  kind: concept
+  preferred: "compositive method"
+  alternatives:
+    - "synthetic method"
+  status: tentative
+  notes: "In the Zabarella tranche Cassirer explicitly renders the modern stake of this term as the deductive movement from causes or presuppositions toward effects. Keep the historical term visible where it is paired with `resolutive Methode`."
+
+- term: "resolutive Methode"
+  handle: "term:resolutive-methode"
+  kind: concept
+  preferred: "resolutive method"
+  alternatives:
+    - "method of resolution"
+  status: tentative
+  notes: "Load-bearing in the Zabarella tranches. Distinguish it from mathematical `analysis`: in the strict sense it names the natural-scientific path from effects toward the discovery of hidden causes, with `inventio` rather than completed `scientia` as its immediate goal."
+
+- term: "beweisende Induktion"
+  handle: "term:beweisende-induktion"
+  kind: concept
+  preferred: "demonstrative induction"
+  alternatives:
+    - "proof-yielding induction"
+  status: tentative
+  notes: "Cassirer's key bridge from Zabarella to Galileo. Not mere accumulation of cases, but induction exercised on `necessary matter` and essential connection, such that a universal law is seen in and through particular examples."
+
+- term: "Comprehension"
+  handle: "term:comprehension"
+  kind: concept
+  preferred: "comprehension"
+  alternatives:
+    - "comprehensive contraction"
+  status: tentative
+  notes: "Nizolius's counter-term to scholastic abstraction. The universal concept does not isolate a hidden common nature, but contracts the verified judgments about individuals into a concise linguistic and logical expression."
+
+- term: "Cabbala"
+  handle: "term:cabbala"
+  kind: concept
+  preferred: "Cabbala"
+  alternatives:
+    - "Kabbalah"
+  status: tentative
+  notes: "Keep the historical spelling where Cassirer is following Reuchlin's Renaissance universal-tradition model. In the current section it names the unitary stream into which Greek and Hebrew wisdom are made to converge."
+
+- term: "perennis philosophia"
+  handle: "term:perennis-philosophia"
+  kind: concept
+  preferred: "perennial philosophy"
+  alternatives:
+    - "perennis philosophia"
+    - "everlasting philosophy"
+  status: tentative
+  notes: "Load-bearing in the history-philosophy tranche. Cassirer uses the Latin formula not as a loose slogan, but as the ordering principle under which a universal history of philosophy is first constructed; keep the Latin visible where the Renaissance self-description itself is in view."

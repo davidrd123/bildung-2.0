@@ -32,6 +32,8 @@ source/
 parts/
   01-prefaces-and-introduction.md
 journal.md              # process notes, drift in term choices, cleanup rules
+interpretive-notes.md   # project-side analogies and method extrapolations
+review-checklist.md     # periodic quality and maintenance prompts
 scripts/
   extract_page_range.py # raw PDF text extraction by page range
   normalize_pages.py    # conservative cleanup of raw extracts
@@ -44,7 +46,21 @@ scripts/
 3. Correct the German against the PDF for the active tranche only.
 4. Translate in small batches.
 5. Record unstable terms in `source/glossary.yaml`.
-6. Keep methodological drift and cross-project notes in `journal.md`.
+6. Keep source-bound workflow drift in `journal.md` and exploratory cross-project notes in `interpretive-notes.md`.
+
+The split between note files is intentional:
+
+- `journal.md` stays source-bound and workflow-bound
+- `interpretive-notes.md` holds exploratory analogies, external comparisons, and project-side method extrapolations
+
+## Ongoing Maintenance
+
+- Run a harmonization pass after each major chapter arc, or once a cluster of glossary decisions has clearly stabilized.
+- Revisit earlier parts against the current glossary, especially where open terms like `Geist`, `Wissenschaft`, and `Vorstellung` were translated before later pressure emerged.
+- Expand glossary notes whenever an entry lists renderings but still underdescribes what the term is doing philosophically in the translated material.
+- Recheck viewer and PDF stitching whenever a tranche ends mid-sentence or when export-facing headings and paragraph alignment change.
+- Keep source-bound judgments in `journal.md`; move comparative or project-side extrapolations to `interpretive-notes.md`.
+- Treat `source/viewer-index.json` and the export script as the authoritative current status rather than hardcoding moving progress counts here.
 
 ## Calibration Tranche
 

@@ -77,7 +77,7 @@ def build_preamble(split: bool = False) -> str:
 
 % Section formatting
 \titleformat{{\section}}{{\Large\bfseries\color{{accent}}}}{{}}{{0pt}}{{}}
-\titleformat{{\subsection}}{{\large\itshape\color{{accent}}}}{{}}{{\hskip 0pt}}{{}}
+\titleformat{{\subsection}}{{\large\itshape\color{{accent}}}}{{}}{{0pt}}{{}}
 \titlespacing*{{\section}}{{0pt}}{{2em}}{{0.8em}}
 \titlespacing*{{\subsection}}{{0pt}}{{1.5em}}{{0.5em}}
 

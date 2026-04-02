@@ -24,7 +24,7 @@ def extract_blocks(md_text: str) -> list[dict]:
     """Extract German/English block pairs from a part file.
 
     Each pair is a section within the file delimited by ## headings,
-    containing **German (corrected)** and **Draft** code blocks.
+    containing **German (corrected)** and an English draft code block.
     """
     sections = re.split(r"^## ", md_text, flags=re.MULTILINE)
     results = []
@@ -41,7 +41,7 @@ def extract_blocks(md_text: str) -> list[dict]:
             re.DOTALL,
         )
         en_blocks = re.findall(
-            r"\*\*Draft\*\*\s+```text\n(.*?)\n```",
+            r"\*\*(?:Draft|English(?:\s+\([^)]*\))?)\*\*\s+```text\n(.*?)\n```",
             section,
             re.DOTALL,
         )
@@ -62,6 +62,23 @@ def extract_blocks(md_text: str) -> list[dict]:
             r"|Chapter (?:One|Two|Three)\.?"                    # chapter markers (EN)
             r"|Nikolaus Cusanus\.?"                             # chapter title (DE)
             r"|Nicholas of Cusa\.?"                             # chapter title (EN)
+            r"|Der Humanismus und der Kampf der Platonischen und Aristotelischen Philosophie\.?"
+            r"|Humanism and the Conflict of Platonic and Aristotelian Philosophy\.?"
+            r"|Der Skepticismus\.?"
+            r"|Skepticism\.?"
+            r"|Die Naturphilosophie\.?"
+            r"|Natural Philosophy\.?"
+            r"|Die Entstehung der exakten Wissenschaft\.?"
+            r"|The Emergence of Exact Science\.?"
+            r"|Die Erneuerung der Platonischen Philosophie\.?"
+            r"|The Renewal of Platonic Philosophy\.?"
+            r"|Die Reform der Aristotelischen Psychologie\.?"
+            r"|The Reform of Aristotelian Psychology\.?"
+            r"|Descartes\.?"
+            r"|Die Fortbildung der Cartesischen Philosophie\.?"
+            r"|The Development of Cartesian Philosophy\.?"
+            r"|Die Auflösung der scholastischen Logik\.?"
+            r"|The Dissolution of Scholastic Logic\.?"
             r"|[IVXLC]+\.?"                                    # roman numeral section markers
             r")\s*$",
             re.MULTILINE,
