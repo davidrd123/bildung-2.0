@@ -1,0 +1,119 @@
+# High-level outline for Bogdanov volume 1, derived from the FB2 hierarchy.
+
+metadata:
+  work_ru: "Всеобщая организационная наука (тектология)"
+  author: "Александр Александрович Богданов"
+  volume: 1
+  edition_note: "1989 reprint; main text headed `Часть 1`, third revised and expanded edition."
+  source_fb2: "../../books/Bogdanov/Тектология (всеобщая организационная наука) -- 1989.fb2"
+  source_facsimile: "../../books/Bogdanov/Тектология_ Всеобщая организационная наука кн_1.djvu"
+  auxiliary_bodies:
+    - "Примечания"
+    - "Комментарии"
+
+front_matter:
+  - id: "front.01"
+    slug: "ot-izdatelstva"
+    title_ru: "От издательства"
+  - id: "front.02"
+    slug: "predislovie"
+    title_ru: "Предисловие"
+  - id: "front.03"
+    slug: "a-a-bogdanov-biograficheskii-ocherk"
+    title_ru: "А. А. Богданов. Биографический очерк"
+  - id: "front.04"
+    slug: "ot-avtora"
+    title_ru: "От автора"
+  - id: "front.05"
+    slug: "predislovie-k-nemetskomu-perevodu"
+    title_ru: "Предисловие к немецкому переводу"
+  - id: "front.06"
+    slug: "predislovie-k-1-mu-izdaniiu-i-chasti"
+    title_ru: "Предисловие к 1-му изданию I части"
+  - id: "front.07"
+    slug: "predislovie-k-1-mu-izdaniiu-ii-chasti"
+    title_ru: "Предисловие к 1-му изданию II части"
+  - id: "front.08"
+    slug: "predislovie-ko-2-mu-izdaniiu"
+    title_ru: "Предисловие ко 2-му изданию"
+  - id: "front.09"
+    slug: "predislovie-k-3-mu-izdaniiu-ii-chasti"
+    title_ru: "Предисловие к 3-му изданию II части"
+  - id: "front.10"
+    slug: "predislovie-ko-2-mu-izdaniiu-iii-chasti-83"
+    title_ru: "Предисловие ко 2-му изданию III части[83]"
+
+main_text:
+  title_ru: "Том 1"
+  chapters:
+    - chapter_index: 1
+      slug: "glava-1-vvedenie"
+      title_ru: "Глава 1. Введение"
+      subtitle_ru: "Историческая необходимость и научная возможность тектологии"
+      units:
+        - "1.1"
+        - "1.2"
+        - "1.3"
+        - "1.4"
+    - chapter_index: 2
+      slug: "glava-2"
+      title_ru: "Глава 2"
+      groups:
+        - slug: "organizovannost-i-dezorganizovannost"
+          label: "А."
+          title_ru: "Организованность и дезорганизованность"
+          units:
+            - "2.a.1"
+            - "2.a.2"
+            - "2.a.3"
+        - slug: "metody-tektologii"
+          label: "В."
+          title_ru: "Методы тектологии"
+          units:
+            - "2.b"
+        - slug: "otnoshenie-tektologii-k-chastnym-naukam-i-k-filosofii"
+          label: "С."
+          title_ru: "Отношение тектологии к частным наукам и к философии"
+          units:
+            - "2.c"
+    - chapter_index: 3
+      slug: "glava-3-osnovnye-organizatsionnye-mekhanizmy"
+      title_ru: "Глава 3. Основные организационные механизмы"
+      groups:
+        - slug: "mekhanizm-formiruiushchii"
+          label: "А."
+          title_ru: "Механизм формирующий"
+          units:
+            - "3.a.1"
+            - "3.a.2"
+            - "3.a.3"
+            - "3.a.4"
+            - "3.a.5"
+            - "3.a.6"
+            - "3.a.7"
+            - "3.a.8"
+            - "3.a.9"
+        - slug: "mekhanizm-reguliruiushchii"
+          label: "В."
+          title_ru: "Механизм регулирующий"
+          units:
+            - "3.b.1"
+            - "3.b.2"
+            - "3.b.3"
+    - chapter_index: 4
+      slug: "glava-iv-ustoichivost-i-organizovannost-form"
+      title_ru: "Глава IV. Устойчивость и организованность форм"
+      units:
+        - "4.1"
+        - "4.2"
+        - "4.3"
+        - "4.4"
+        - "4.5"
+    - chapter_index: 5
+      slug: "prilozheniia"
+      title_ru: "Приложения"
+      units:
+        - "5.1"
+        - "5.2"
+        - "5.3"
+        - "5.4"

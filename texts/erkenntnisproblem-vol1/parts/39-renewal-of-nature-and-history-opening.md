@@ -60,5 +60,6 @@ But to be sure, astrology has not thereby escaped the sphere of subjectivity bey
 - Giovanni Pico's anti-astrology treatise matters precisely because it is anomalous within his own symbolic and mystical worldview. The empirical impulse shows up first as tension inside an otherwise analogical cosmos.
 - Cassirer’s construction of astrology is subtle. It is both a break from the dominance of religious subjectivity and still not true causal science, because what governs it remains an organismic nexus of ends rather than law.
 - The historically important move is that religion and historical becoming are now drawn into nature’s order. Even when the mediation is astrological, this already destabilizes the medieval partition between grace-history and worldly process.
+- The earlier `relations and circumstances` rendering is deliberate. When Cassirer later turns to literal astral `Konstellationen` in the same section, the English keeps `constellations` there and only there.
 - `[visual candidate]` The three-world fire/water sequence is a natural diagram: earthly, heavenly, and supercelestial analogues aligned by element and function.
 - The tranche stops mid-sentence exactly where Cassirer is about to explain how astrology’s organismic world-picture links distant points of the universe without tracing the chain of intermediate causes.

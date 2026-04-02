@@ -1,0 +1,93 @@
+# Working glossary for recurring terms.
+# `preferred` can remain null while the term is still unstable.
+
+- term: "Тектология"
+  kind: title_term
+  preferred: "Tektology"
+  alternatives:
+    - "Tektologiya"
+    - "Universal Organizational Science"
+    - "Organizational Science"
+  status: open
+  notes: "Keep the English title pressure visible at the project level. The known English `Tektology` is strong, but the full title keeps pressing toward something broader than a bare transliteration. By `2.b-2.c` Bogdanov explicitly frames it both as the `completion of the cycle of the sciences` and as a `universal natural science`, which makes the scope claim harder to soften."
+
+- term: "организационная точка зрения"
+  kind: concept
+  preferred: "organizational point of view"
+  alternatives:
+    - "organizational viewpoint"
+    - "organizational perspective"
+  status: tentative
+  notes: "The opening section treats this as the governing methodological claim, not a passing phrase. `Point of view` stays closest to the explicit polemical broadening of the term. By `2.c` it is no longer just a way of rereading existing material: it is also what allows Bogdanov to claim that any scientific question can be reposited organizationally and that wholly new cross-domain questions can be generated from that stance."
+
+- term: "комплекс"
+  kind: concept
+  preferred: "complex"
+  alternatives:
+    - "formation"
+    - "configuration"
+  status: tentative
+  notes: "By `2.a.1-2.a.3` the term is structurally unavoidable. `Complex` is still the least distortive starting point, but it must be watched for overly psychological or casual English overtones."
+
+- term: "конъюгация"
+  kind: concept
+  preferred: "conjugation"
+  alternatives:
+    - "combination"
+    - "conjoining"
+  status: tentative
+  notes: "By `3.a.1` this becomes the primary formative tektological mechanism: the joining of complexes from which separation appears only as a derivative result. `Conjugation` is preferable because the term has to remain fully formal, applying equally to cooperation, war, chemical combination, perception, and other cases."
+
+- term: "ингрессия"
+  kind: concept
+  preferred: "ingression"
+  alternatives:
+    - "mediated linkage"
+    - "intermediary linkage"
+  status: tentative
+  notes: "By `3.a.3` this names the basic organizational linkage achieved through common elements or, when direct linkage is impossible, through intermediary complexes. The borrowed technical form is preferable to paraphrase because Bogdanov is naming a general mechanism."
+
+- term: "дезингрессия"
+  kind: concept
+  preferred: "deingression"
+  alternatives:
+    - "negative ingression"
+    - "disingression"
+  status: tentative
+  notes: "By `3.a.4` this names the basic form of disorganization corresponding to ingression. The English is awkward, but that awkwardness is methodological: Bogdanov is introducing a formal counter-mechanism rather than a familiar process-name."
+
+- term: "цепная связь"
+  kind: concept
+  preferred: "chain connection"
+  alternatives:
+    - "chain linkage"
+    - "linked connection"
+  status: tentative
+  notes: "By `3.a.2` this becomes the structural bridge term between `conjugation` and `ingression`: the organized form produced through common links. `Chain connection` is slightly hard in English, but it preserves both the linked-image and the formal generality Bogdanov wants."
+
+- term: "организованность / дезорганизованность"
+  kind: concept_pair
+  preferred: "organizedness / disorganizedness"
+  alternatives:
+    - "organization / disorganization"
+    - "organized character / disorganized character"
+  status: tentative
+  notes: "By `2.a.1-2.a.3` this pair governs the whole local argument. The main risk is collapsing a property of structured combination into a looser sociological or managerial register. The harder `organizedness / disorganizedness` currently looks preferable because it keeps the conceptual pressure visible."
+
+- term: "активности-сопротивления"
+  kind: concept
+  preferred: "activities-resistances"
+  alternatives:
+    - "activity-resistances"
+    - "activities and resistances"
+  status: tentative
+  notes: "Introduced structurally in `2.a.2` as the reducible elements of organizational analysis. The hyphen matters because Bogdanov is not merely naming two classes of things but insisting on their reversibility."
+
+- term: "нейтральные комплексы"
+  kind: concept
+  preferred: "neutral complexes"
+  alternatives:
+    - "neutral combinations"
+    - "neutral systems"
+  status: tentative
+  notes: "Introduced in `2.a.2` as the third basic type beside organized and disorganized complexes. The term becomes philosophically weighty when mathematics is defined as the `tektology of neutral complexes`."
