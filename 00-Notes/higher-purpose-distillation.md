@@ -6,7 +6,7 @@ Working distillation from the chat corpus in `00-Notes/Chats/` as of `2026-03-31
 
 `bildung-2.0` exists to rebuild a broken transmission chain: to recover buried texts, reconnect severed lineages of thought, and cultivate a form of human formation that can hold deep reading, cross-domain synthesis, and self-transformation together again.
 
-This is not just a translation project, not just a notes repository, and not just a knowledge-management system. It is a reconstruction project.
+This is not just a translation project, not just a notes repository, and not just a knowledge-management system. It is a reconstruction project. Here `translation` is understood broadly: not only moving between natural languages, but also decryption and disciplined re-articulation when a text resists absorption through recursion, terminological density, or historical distance.
 
 ## The Problem It Responds To
 
@@ -38,17 +38,18 @@ In shorter form:
 
 ## What This Means In Practice
 
-### 1. Translation as transmission
+### 1. Translation and decryption as transmission
 
 The translation work is not secondary. It is one of the main mechanisms of recovery.
 
 - untranslated or undertranslated works are treated as broken links in the transmission chain
+- opacity is not only linguistic; some sources require same-language decryption or reformulation before they become transmissible again
 - translation is treated as a mode of reading intense enough to change the translator
 - notes, glossary decisions, and journals matter because the process of understanding is part of what is being preserved
 
 ### 2. Commentary as equal in dignity to translation
 
-The purpose is not just to move words from one language to another.
+The purpose is not just to move words from one language to another, nor merely to paraphrase an English source into simpler prose.
 
 - commentary tracks why a choice matters
 - journals track how the model of the text changes
@@ -102,7 +103,7 @@ The existing projects already express different parts of the larger purpose:
 
 - `texts/escolios/` trains precision of reading, doubleness of translation, and exegesis as attention
 - `texts/zeitmauer/` trains long-form translation, conceptual patience, and layered commentary around time, fate, technique, and modernity
-- `texts/exegesis/` trains thread-building, dossier logic, and the mapping of recursive archives without flattening them
+- `texts/exegesis/` trains thread-building, dossier logic, and the same-language decryption of recursive archives without flattening them
 - `00-Notes/` holds the higher-order synthesis work that ties the projects together
 
 Together they point toward a single ecology rather than three unrelated projects.

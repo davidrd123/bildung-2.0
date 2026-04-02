@@ -79,10 +79,12 @@ Living list. Updated as threads advance or stall.
 | Goethe/Leibniz split | Active — central diagnostic | `cross-domain-synthesis-threads.md` | 2026-03-31 |
 | Cybernetics braided river | Active — genealogy mapped, tributaries identified | `cross-domain-synthesis-threads.md` | 2026-03-29 |
 | The Cassirer node | Active — connects all three texts | `cross-domain-synthesis-threads.md` | 2026-03-29 |
-| Barrett constructed categories | Active — epistemological ground for translation method | `cross-domain-synthesis-threads.md` | 2026-03-30 |
+| Barrett constructed categories | Active — epistemological ground for the translation / decryption method | `cross-domain-synthesis-threads.md` | 2026-03-30 |
 | Schuon limit | Placed — names the honest boundary of textual recovery | `cross-domain-synthesis-threads.md` | 2026-03-31 |
 | Rosen: models vs. simulations | Placed — maps onto close/free split | `cross-domain-synthesis-threads.md` | 2026-03-29 |
-| Untranslated works priority | Seeded — list exists, no action yet | `cross-domain-synthesis-threads.md` | 2026-03-29 |
+| Practice queue (source encounter + decryption) | Active — revised around practical coupling to live work and generalized opacity | `cross-domain-synthesis-threads.md` | 2026-04-01 |
+| Anders bridge | Active — Cassirer/Jünger apparatus-world connector | `cross-domain-synthesis-threads.md` | 2026-04-01 |
+| Empirical morphogenesis line | Active — Levin corpus linked to the braided river | `cross-domain-synthesis-threads.md` | 2026-04-01 |
 | Whitehead decryption | Seeded — identified as target, not started | `cross-domain-synthesis-threads.md` | 2026-03-29 |
 | Symbiotic-Vault convergence | Active — structural isomorphisms mapped | `symbiotic-vault-intersection.md` | 2026-03-31 |
 | The instrument (rotating hierarchy) | Active — architecture sketched, not built | `higher-purpose-distillation.md`, `genealogy-to-instrument.md` | 2026-03-31 |

@@ -1,0 +1,418 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+<meta charset="UTF-8">
+<meta name="viewport" content="width=device-width, initial-scale=1.0">
+<title>Rosen (M,R)-System — Closure to Efficient Causation</title>
+<style>
+  @import url('https://fonts.googleapis.com/css2?family=Crimson+Pro:ital,wght@0,300;0,400;0,600;1,300;1,400&family=JetBrains+Mono:wght@300;400&display=swap');
+
+  * { margin: 0; padding: 0; box-sizing: border-box; }
+
+  body {
+    background: #0a0a0c;
+    color: #c8c4b8;
+    font-family: 'Crimson Pro', Georgia, serif;
+    min-height: 100vh;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    overflow-x: hidden;
+  }
+
+  header {
+    text-align: center;
+    padding: 2.5rem 1.5rem 1rem;
+    max-width: 600px;
+  }
+
+  header h1 {
+    font-weight: 300;
+    font-size: 1.4rem;
+    letter-spacing: 0.08em;
+    color: #e8e4d8;
+    margin-bottom: 0.4rem;
+  }
+
+  header p {
+    font-size: 0.85rem;
+    font-style: italic;
+    color: #7a7668;
+    line-height: 1.5;
+  }
+
+  .canvas-wrap {
+    position: relative;
+    width: 100%;
+    max-width: 520px;
+    aspect-ratio: 1;
+    margin: 1rem auto;
+  }
+
+  canvas {
+    width: 100%;
+    height: 100%;
+    cursor: pointer;
+  }
+
+  .status {
+    text-align: center;
+    padding: 0 1.5rem;
+    max-width: 500px;
+    min-height: 4.5rem;
+  }
+
+  .status .state {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    font-weight: 300;
+    letter-spacing: 0.06em;
+    text-transform: uppercase;
+    margin-bottom: 0.5rem;
+  }
+
+  .status .state.alive { color: #8fbc6a; }
+  .status .state.dead { color: #c45c4a; }
+
+  .status .gloss {
+    font-size: 0.95rem;
+    line-height: 1.6;
+    color: #9a9588;
+    font-style: italic;
+  }
+
+  .legend {
+    text-align: center;
+    padding: 1.5rem;
+    max-width: 500px;
+  }
+
+  .legend p {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.65rem;
+    color: #5a5648;
+    letter-spacing: 0.04em;
+    line-height: 1.8;
+  }
+
+  .instructions {
+    text-align: center;
+    padding: 0.5rem 1.5rem 2rem;
+    max-width: 440px;
+  }
+
+  .instructions p {
+    font-size: 0.8rem;
+    color: #5a5648;
+    line-height: 1.6;
+  }
+
+  .anchors {
+    padding: 1rem 1.5rem 3rem;
+    max-width: 500px;
+    border-top: 1px solid #1a1a1c;
+    margin-top: 1rem;
+  }
+
+  .anchors h2 {
+    font-weight: 300;
+    font-size: 0.75rem;
+    letter-spacing: 0.1em;
+    text-transform: uppercase;
+    color: #5a5648;
+    margin-bottom: 0.8rem;
+  }
+
+  .anchors p {
+    font-size: 0.85rem;
+    line-height: 1.7;
+    color: #7a7668;
+  }
+
+  .anchors code {
+    font-family: 'JetBrains Mono', monospace;
+    font-size: 0.75rem;
+    color: #a89878;
+  }
+</style>
+</head>
+<body>
+
+<header>
+  <h1>Closure to Efficient Causation</h1>
+  <p>Rosen's (M,R)-system: each mapping produces the conditions for the next. No root. No external builder. Remove any one and the others go undefined.</p>
+</header>
+
+<div class="canvas-wrap">
+  <canvas id="c"></canvas>
+</div>
+
+<div class="status">
+  <div class="state alive" id="stateLabel">CLOSED — ALIVE</div>
+  <div class="gloss" id="gloss">The system produces the conditions of its own production.</div>
+</div>
+
+<div class="instructions">
+  <p>Click a node to sever it. Click again to restore. Watch what "undefined" looks like.</p>
+</div>
+
+<div class="legend">
+  <p>f : A → B &nbsp;(metabolism) · &nbsp;Φ : B → Hom(A,B) &nbsp;(repair) · &nbsp;β : Hom(A,B) → Hom(B,Hom(A,B)) &nbsp;(replication)</p>
+</div>
+
+<div class="anchors">
+  <h2>Anchors into bildung-2.0</h2>
+  <p>
+    <code>zm:1</code> — the waxwing: observation produces the observer.<br>
+    <code>zm:6</code> — der Hinzutretende: the one who enters changes what they enter.<br>
+    <code>zm:11</code> — bildende Kraft: the organism shapes itself.<br>
+    <code>esc:2</code> — thought walks between symmetric injustices. The path produces the walker.<br>
+    <code>esc:1</code> — a gesture that dissipates as soon as it is sketched.
+  </p>
+</div>
+
+<script>
+const canvas = document.getElementById('c');
+const ctx = canvas.getContext('2d');
+const stateLabel = document.getElementById('stateLabel');
+const glossEl = document.getElementById('gloss');
+
+const dpr = window.devicePixelRatio || 1;
+let W, H, cx, cy, R;
+
+function resize() {
+  const rect = canvas.getBoundingClientRect();
+  W = rect.width * dpr;
+  H = rect.height * dpr;
+  canvas.width = W;
+  canvas.height = H;
+  cx = W / 2;
+  cy = H / 2;
+  R = Math.min(W, H) * 0.3;
+}
+resize();
+window.addEventListener('resize', resize);
+
+const TAU = Math.PI * 2;
+
+const nodes = [
+  {
+    label: 'f', sublabel: 'metabolism',
+    desc: 'A → B',
+    color: '#8fbc6a', colorDim: '#3a4a2e',
+    active: true, pulse: 0, phase: 0
+  },
+  {
+    label: 'Φ', sublabel: 'repair',
+    desc: 'B → Hom(A,B)',
+    color: '#6a9ebc', colorDim: '#2e3e4a',
+    active: true, pulse: 0, phase: TAU / 3
+  },
+  {
+    label: 'β', sublabel: 'replication',
+    desc: 'Hom(A,B) → ...',
+    color: '#bc8a6a', colorDim: '#4a3a2e',
+    active: true, pulse: 0, phase: TAU * 2 / 3
+  }
+];
+
+const glosses = {
+  allAlive: 'The system produces the conditions of its own production.',
+  fDead: 'Metabolism severed. No products. Repair has nothing to work with. Replication has nothing to replicate. Not broken — undefined.',
+  phiDead: 'Repair severed. Metabolism runs but degrades. Nothing rebuilds the builder. The system consumes itself.',
+  betaDead: 'Replication severed. Metabolism and repair run, but repair cannot be renewed. A generation of function, then silence.',
+  twoDead: 'Two components severed. The remaining one is a map with no domain and no codomain. A verb without a sentence.',
+  allDead: 'Nothing. Not even the parts. The parts were never separable from the whole.'
+};
+
+function getNodePos(i, time) {
+  const n = nodes[i];
+  const angle = -Math.PI / 2 + (TAU / 3) * i;
+  const breathe = n.active ? Math.sin(time * 0.8 + i * 2) * 3 : 0;
+  return {
+    x: cx + Math.cos(angle) * (R + breathe),
+    y: cy + Math.sin(angle) * (R + breathe)
+  };
+}
+
+let time = 0;
+let flowPos = 0;
+
+function isAlive() {
+  return nodes.every(n => n.active);
+}
+
+function activeCount() {
+  return nodes.filter(n => n.active).length;
+}
+
+function updateStatus() {
+  const count = activeCount();
+  if (count === 3) {
+    stateLabel.textContent = 'CLOSED — ALIVE';
+    stateLabel.className = 'state alive';
+    glossEl.textContent = glosses.allAlive;
+  } else if (count === 0) {
+    stateLabel.textContent = 'UNDEFINED';
+    stateLabel.className = 'state dead';
+    glossEl.textContent = glosses.allDead;
+  } else if (count === 1) {
+    stateLabel.textContent = 'UNDEFINED';
+    stateLabel.className = 'state dead';
+    glossEl.textContent = glosses.twoDead;
+  } else {
+    stateLabel.textContent = 'OPEN — UNDEFINED';
+    stateLabel.className = 'state dead';
+    const dead = nodes.findIndex(n => !n.active);
+    if (dead === 0) glossEl.textContent = glosses.fDead;
+    else if (dead === 1) glossEl.textContent = glosses.phiDead;
+    else glossEl.textContent = glosses.betaDead;
+  }
+}
+
+function drawArrow(from, to, alpha, time) {
+  const dx = to.x - from.x;
+  const dy = to.y - from.y;
+  const dist = Math.sqrt(dx * dx + dy * dy);
+  const nx = dx / dist;
+  const ny = dy / dist;
+
+  const nodeR = 32 * dpr;
+  const startX = from.x + nx * nodeR;
+  const startY = from.y + ny * nodeR;
+  const endX = to.x - nx * (nodeR + 10 * dpr);
+  const endY = to.y - ny * (nodeR + 10 * dpr);
+
+  ctx.beginPath();
+  ctx.moveTo(startX, startY);
+  ctx.lineTo(endX, endY);
+  ctx.strokeStyle = `rgba(200, 196, 184, ${alpha * 0.3})`;
+  ctx.lineWidth = 1.5 * dpr;
+  ctx.stroke();
+
+  // arrowhead
+  const aLen = 8 * dpr;
+  const aAng = 0.4;
+  ctx.beginPath();
+  ctx.moveTo(endX, endY);
+  ctx.lineTo(endX - aLen * Math.cos(Math.atan2(ny, nx) - aAng),
+             endY - aLen * Math.sin(Math.atan2(ny, nx) - aAng));
+  ctx.moveTo(endX, endY);
+  ctx.lineTo(endX - aLen * Math.cos(Math.atan2(ny, nx) + aAng),
+             endY - aLen * Math.sin(Math.atan2(ny, nx) + aAng));
+  ctx.strokeStyle = `rgba(200, 196, 184, ${alpha * 0.5})`;
+  ctx.lineWidth = 1.5 * dpr;
+  ctx.stroke();
+
+  // flow particle
+  if (alpha > 0.5) {
+    const fp = (flowPos + from.x * 0.001) % 1;
+    const px = startX + (endX - startX) * fp;
+    const py = startY + (endY - startY) * fp;
+    ctx.beginPath();
+    ctx.arc(px, py, 2.5 * dpr, 0, TAU);
+    ctx.fillStyle = `rgba(232, 228, 216, ${alpha * 0.7})`;
+    ctx.fill();
+  }
+}
+
+function drawNode(i, time) {
+  const n = nodes[i];
+  const pos = getNodePos(i, time);
+  const r = 28 * dpr;
+
+  const targetAlpha = n.active ? 1 : 0.12;
+  n.pulse += (targetAlpha - n.pulse) * 0.04;
+  const alpha = n.pulse;
+
+  // glow
+  if (alpha > 0.5) {
+    const glow = ctx.createRadialGradient(pos.x, pos.y, r * 0.5, pos.x, pos.y, r * 2.5);
+    const glowAlpha = 0.08 + Math.sin(time * 1.2 + i * 2.1) * 0.04;
+    glow.addColorStop(0, n.color + Math.round(glowAlpha * 255).toString(16).padStart(2, '0'));
+    glow.addColorStop(1, 'transparent');
+    ctx.beginPath();
+    ctx.arc(pos.x, pos.y, r * 2.5, 0, TAU);
+    ctx.fillStyle = glow;
+    ctx.fill();
+  }
+
+  // circle
+  ctx.beginPath();
+  ctx.arc(pos.x, pos.y, r, 0, TAU);
+  ctx.fillStyle = `rgba(10, 10, 12, ${0.8})`;
+  ctx.fill();
+  ctx.strokeStyle = alpha > 0.5 ? n.color : n.colorDim;
+  ctx.lineWidth = (alpha > 0.5 ? 2 : 1) * dpr;
+  ctx.stroke();
+
+  // label
+  const fontSize = 18 * dpr;
+  ctx.font = `300 ${fontSize}px 'Crimson Pro', Georgia, serif`;
+  ctx.textAlign = 'center';
+  ctx.textBaseline = 'middle';
+  ctx.fillStyle = alpha > 0.5 ? n.color : n.colorDim;
+  ctx.fillText(n.label, pos.x, pos.y - 2 * dpr);
+
+  // sublabel
+  const subSize = 8 * dpr;
+  ctx.font = `300 ${subSize}px 'JetBrains Mono', monospace`;
+  ctx.fillStyle = `rgba(200, 196, 184, ${alpha * 0.5})`;
+  ctx.fillText(n.sublabel, pos.x, pos.y + 14 * dpr);
+}
+
+function draw() {
+  time += 0.016;
+  flowPos = (flowPos + 0.006) % 1;
+
+  ctx.clearRect(0, 0, W, H);
+
+  // draw arrows
+  for (let i = 0; i < 3; i++) {
+    const j = (i + 1) % 3;
+    const from = getNodePos(i, time);
+    const to = getNodePos(j, time);
+    const alpha = (nodes[i].active && nodes[j].active) ? 1 : 0.1;
+    drawArrow(from, to, alpha, time);
+  }
+
+  // draw nodes
+  for (let i = 0; i < 3; i++) {
+    drawNode(i, time);
+  }
+
+  // center text when alive
+  if (isAlive()) {
+    const breathe = Math.sin(time * 0.5) * 0.08 + 0.2;
+    ctx.font = `italic 300 ${10 * dpr}px 'Crimson Pro', Georgia, serif`;
+    ctx.textAlign = 'center';
+    ctx.textBaseline = 'middle';
+    ctx.fillStyle = `rgba(200, 196, 184, ${breathe})`;
+    ctx.fillText('closed', cx, cy);
+  }
+
+  requestAnimationFrame(draw);
+}
+
+// click handling
+canvas.addEventListener('click', (e) => {
+  const rect = canvas.getBoundingClientRect();
+  const mx = (e.clientX - rect.left) * dpr;
+  const my = (e.clientY - rect.top) * dpr;
+
+  for (let i = 0; i < 3; i++) {
+    const pos = getNodePos(i, time);
+    const dx = mx - pos.x;
+    const dy = my - pos.y;
+    if (dx * dx + dy * dy < (40 * dpr) * (40 * dpr)) {
+      nodes[i].active = !nodes[i].active;
+      updateStatus();
+      return;
+    }
+  }
+});
+
+draw();
+</script>
+</body>
+</html>

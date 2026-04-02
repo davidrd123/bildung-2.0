@@ -1,0 +1,139 @@
+# Working glossary for recurring terms in the Uexkuell source campaign.
+# `preferred` can remain null while the English pressure is still unsettled.
+
+- term: "Umwelt"
+  handle: "term:umwelt"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "environment"
+    - "surrounding world"
+    - "own-world"
+  status: open
+  notes: "Do not settle this early. Encounter 02 makes the pressure stronger: `Umwelt` is not a neutral external container but the articulated whole formed by `Merkwelt` and `Wirkwelt`. Encounter 05 confirms that it should not harden into a merely private bubble either: bodies pass across many Umwelten under different functional cuts. In running drafts it should stay German until the family of terms is less fragile."
+
+- term: "Umwelttunnel"
+  handle: "term:umwelttunnel"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "environment-tunnel"
+    - "world-tunnel"
+    - "Umwelt tunnel"
+  status: open
+  notes: "Encounter 05 earns this term. It gives the temporal form of an individual Umwelt from birth to death and makes visible how objects become tunnel-specific things. Keep it untranslated for now; the English calques are orienting at best and flatten the term's role in the late culmination."
+
+- term: "Funktionskreis"
+  handle: "term:funktionskreis"
+  kind: concept
+  preferred: "functional circle"
+  alternatives:
+    - "functional cycle"
+    - "function-circle"
+  status: tentative
+  notes: "The current front-runner because Uexkuell is naming a closed circuit rather than a linear process. Encounter 05 expands it dramatically: the `Funktionskreis` becomes the one unwandelbare factor that bears and forms the whole weave of Umwelten. Keep pressure on whether `circle` is too static once the later passages on overlap and re-entry are translated."
+
+- term: "Merkwelt"
+  handle: "term:merkwelt"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "perceptual world"
+    - "mark-world"
+    - "cue-world"
+    - "world of marks"
+  status: open
+  notes: "Needs to stay visibly linked to `Merkzeichen`, `Merkmal`, and to the functional-circle structure. Encounter 02 showed that smooth English hides too much, so the current running draft leaves `Merkwelt` in German."
+
+- term: "Wirkwelt"
+  handle: "term:wirkwelt"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "action world"
+    - "effector world"
+    - "world of effects"
+  status: open
+  notes: "Should remain paired with `Merkwelt`. Encounter 02 supports leaving it in German in running drafts, because no current English option carries both the active and structural force without sounding either technical or flat."
+
+- term: "Innenwelt"
+  handle: "term:innenwelt"
+  kind: concept
+  preferred: "inner world"
+  alternatives:
+    - "interior world"
+  status: tentative
+  notes: "Encounter 02 puts this under less pressure than `Merkwelt`, `Wirkwelt`, and `Umwelt`. `Inner world` is currently serviceable and does not seem to distort the local argument."
+
+- term: "Merkzeichen"
+  handle: "term:merkzeichen"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "cue-sign"
+    - "perceptual sign"
+    - "mark-sign"
+  status: open
+  notes: "This is not just ordinary `sign` and not just raw `quality`. Encounter 03 defines it through threshold-determination as the just-noticeable change in the content of attention. That makes it part of a larger `Merk-` architecture rather than a freestanding semiotic token."
+
+- term: "Merkmal"
+  handle: "term:merkmal"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "mark"
+    - "cue"
+    - "feature"
+  status: open
+  notes: "Encounter 03 sharpens the sequence: the `Merkzeichen` of attention become the `Merkmale` of the world. `Mark` remains awkward, but it still preserves the lexical family better than `feature`, which sounds fluent at exactly the point where Uexkuell is transferring the same structure from inner sign to outer feature."
+
+- term: "Planmäßigkeit"
+  handle: "term:planmaessigkeit"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "planfulness"
+    - "purposive order"
+    - "ordered fittedness"
+  status: open
+  notes: "A major pressure point from the prefaces onward. Encounter 02 confirms that it often works better in prose as `planfulness` or `built according to plan` than as any stronger teleological abstraction. Encounter 03 ties it directly to the lawfulness binding subject and `Umwelt` against mere causality. Encounter 04 then names it outright as a rule-binding `Naturkraft`. It should not be flattened into subjective intention or naive teleology."
+
+- term: "Gerüst"
+  handle: "term:geruest"
+  kind: metaphor
+  preferred: "scaffold"
+  alternatives:
+    - "scaffolding"
+    - "framework"
+  status: tentative
+  notes: "The prefaces make this metaphor structurally important. The point is not just abstract organization but a temporary support built against nature, useful precisely because it does not belong to nature itself."
+
+- term: "Fügung"
+  handle: "term:fuegung"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "fittedness"
+    - "fitting"
+    - "ordained fit"
+  status: open
+  notes: "Likely one of the most difficult terms in the campaign. Encounter 04 sharpens it as an exact fit between organism, act, and counterpart, but without reducing that fit either to mechanism or to conscious foresight. `Fittedness` works locally, yet still feels too static where Uexkuell is describing an operative binding relation."
+
+- term: "Psychoid"
+  handle: "term:psychoid"
+  kind: concept
+  preferred: "psychoid"
+  alternatives:
+    - "psychoid factor"
+  status: tentative
+  notes: "Keep the inherited technical term visible. The current passage brings it in through Driesch as a way to avoid simply projecting our own psyche into the animal."
+
+- term: "Gegenstand / Objekt"
+  handle: "term:gegenstand-objekt"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "functional object / object"
+    - "object-for-the-animal / object-as-such"
+  status: open
+  notes: "Encounter 02 makes this unavoidable. English `object` collapses a distinction Uexkuell is using methodologically: the biologically relevant thing within a functional circle is not the same as the object described exhaustively under physical categories."

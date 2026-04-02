@@ -8,7 +8,7 @@ The post-war Anglosphere inherited institutional power while losing contact with
 
 ## Aim
 
-Rebuild a broken transmission chain: recover buried texts, reconnect severed lineages of thought, and cultivate a practice of reading, translation, commentary, and synthesis that forms the reader rather than merely informs them.
+Rebuild a broken transmission chain: recover buried texts, reconnect severed lineages of thought, and cultivate a practice of reading, translation, decryption, commentary, and synthesis that forms the reader rather than merely informs them.
 
 Not nostalgia. Not anti-modernism. Not academic neutralism. Recovery with discrimination, synthesis with rigor, formation without illusion.
 
@@ -23,9 +23,11 @@ Each subproject is an organ of one system, not a standalone effort.
 | `texts/exegesis/` | Philip K. Dick | Recursive mapping — thread dossiers convert a spiraling archive into something navigable without pretending the recursion is noise |
 | `sources/` | (triggered by the above) | Original-language encounter — formation tied to small acts of contact with source languages |
 
+Across the repo, `translation` is broader than foreign-language transfer. It includes any disciplined re-articulation of an opaque source: cross-linguistic translation, same-language decryption of recursive archives, and clarifying reformulation of terminologically resistant prose when the aim is recovery without flattening.
+
 ## Method
 
-- **Translation as transmission** — not secondary output but one of the main mechanisms of recovery
+- **Translation / decryption as transmission** — not secondary output but one of the main mechanisms of recovery; opacity may be linguistic, structural, recursive, or terminological
 - **Commentary as equal in dignity to translation** — journals, glossaries, and cross-project notes preserve how understanding develops
 - **Cross-domain synthesis** — connecting texts that institutions keep apart, tracing buried genealogies, making structural echoes visible
 - **Deferred structure** — terms held `open` or `tentative` until evidence settles them; premature resolution is data loss

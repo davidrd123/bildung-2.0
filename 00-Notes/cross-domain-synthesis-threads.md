@@ -35,20 +35,57 @@ Tributaries that flourished: control theory, information theory, computation/AI,
 
 Tributaries pruned: relational biology after Rosen, unified theory of semantics/meaning in living systems, Cassirer's program extended to post-war science, Bertalanffy's stronger dream, second-order cybernetics, cybernetic art/design as knowledge practice.
 
-## Untranslated Works Priority List
+## Practice Queue (source encounter and decryption, revised 2026-04-01)
 
-Texts identified as most relevant to the cross-domain synthesis project, still inaccessible in English:
+This is not a reading list ranked by abstract importance. It is a queue of next source encounters, decryption targets, and translation projects for the current `bildung-2.0` practice.
 
-| Priority | Author | Work | Language | Relevance |
-|----------|--------|------|----------|-----------|
-| 1 | Cassirer | *Erkenntnisproblem* vols 1-3 | German | Philosophical infrastructure — how knowledge transforms across epochs |
-| 2 | Nishida Kitarō | Later works on *basho* logic | Japanese | Convergence with topos theory and Cassirer's symbolic forms |
-| 3 | Koselleck | *Geschichtliche Grundbegriffe* (8 vols) | German | Richest source for conceptual transformation data |
-| 4 | Simondon | Unpublished lectures and notes | French | More rigorous formulations than published work |
-| 5 | Mou Zongsan | On intellectual intuition / Kant | Chinese | Whether *Anschauung* can be formalized without being destroyed |
-| 6 | Bogdanov | Complete *Tektologiya* | Russian | Ur-text of general systems theory, pre-Bertalanffy |
+The governing problem is opacity, not foreignness. Some texts resist through language, others through recursive structure, terminological density, or historical distance. The same method applies across those cases.
 
-Other untranslated/undertranslated: Luhmann (full corpus), Blumenberg (later work), Plessner, Hans Jonas (German-language), complete Uexküll, Merleau-Ponty lecture courses, Ruyer, Watsuji, Mulla Sadra.
+Ranking criteria:
+
+- direct pressure from live work and thread development
+- tractability within the current method
+- likelihood of producing semantic residue rather than imported theory
+- risk of domain drift if a framework is imported too early
+
+### Active practice
+
+- **`Escolios`** — Spanish → English; cross-linguistic translation where the distance between close and free renderings is itself evidence.
+- **`Zeitmauer`** — German → English; long-form translation where major terms stay open until the source resists premature carving.
+- **`Erkenntnisproblem`** — German → English; historical epistemology recovered through translation, glossary pressure, and conceptual review.
+- **`Exegesis`** — English → English; atlas and decryption work where the opacity is structural and recursive rather than cross-linguistic.
+
+### Next up
+
+1. **Günther Anders — *Die Antiquiertheit des Menschen*** (German)
+   Best bridge between Cassirer's historical epistemology and Jünger's phenomenology of the technological threshold. `Prometheanische Scham` names the human experience of morphological inferiority before its own apparatus-world.
+
+2. **Jakob von Uexküll — key passages from *Theoretische Biologie* and related works** (German, source-layer first)
+   More urgent as targeted source work than as a full retranslation. Grounds organism/world coupling and strengthens the emerging earth-thread.
+
+3. **Raymond Ruyer — *La Cybernétique et l'origine de l'information*** (French)
+   High-yield support for the Rosen thread: meaning and morphogenesis against the flattening of information into syntax.
+
+4. **Gilbert Simondon — unpublished lectures and notes** (French)
+   Still strategically important, especially where individuation, technology, and perception need a stronger bridge.
+
+5. **Bogdanov — complete *Tektologiya*** (Russian)
+   Remains a major systems headwater, but is less directly coupled to the current German translation practice than Anders or Uexküll.
+
+### Horizon / wait until demanded
+
+- **Natorp**
+  Likely crucial later, but the current Cassirer work is still teaching the Marburg engine historically. Bring Natorp forward when the project needs the engine directly rather than the history of it.
+- **Whitehead**
+  Not a foreign-language target but a real decryption candidate. Bring *Process and Reality* forward when the project needs a sustained same-language pass on terminological opacity and the Goethe+Leibniz synthesis.
+- **Nishida / Mou Zongsan**
+  High upside, high drift risk. Do not import before the existing translations generate a specific pressure that requires those vocabularies.
+- **Lupasco**
+  Possible formal resource for dynamic contradiction, but keep on the bench until the material itself demands that kind of logic.
+- **Koselleck**
+  Deprioritized. The theoretical yield is largely available in English; return only if the project needs lexicographical mining of specific German concept-histories.
+
+Also noted, not queued: Luhmann (full corpus), Blumenberg (later work), Plessner, Hans Jonas (German-language), Merleau-Ponty lecture courses, Watsuji, Mulla Sadra.
 
 ## The Cassirer Node
 
@@ -59,9 +96,38 @@ Cassirer is the figure who most directly connects the bildung-2.0 texts to the b
 - **To Dick**: Cassirer's question — what happens when the symbolic form of knowledge itself transforms? — is what Dick is living through in the Exegesis. 2-3-74 is the experience of a symbolic form breaking.
 - **To the Davos debate**: Cassirer (symbolic forms as liberation) vs. Heidegger (technology as enframing) is the meta-question hovering over all three texts: does modernity expand knowing or contract it?
 
+## The Anders Bridge
+
+The most urgent missing bridge is not simply more formal architecture or more biological grounding, but a diagnosis of what it feels like for the human being to be overtaken by its own apparatus-world.
+
+That is why Anders rises in priority. He sits between Cassirer's account of symbolic-form transformation and Jünger's phenomenology of the time wall. What Jünger describes as naming crisis and new optics, Anders diagnoses as `Prometheanische Scham`: the human being's experience of morphological inferiority before the precision, durability, and reliability of its own technical products.
+
+This makes Anders a better immediate next target than more distant comparative systems. He is close to the current language, close to the current historical problem, and close to the current method.
+
 ## The Rosen Thread
 
 Robert Rosen's *(M,R)-systems* and *Life Itself*: the deepest formal engagement with "what is organization?" since Kant. Core claim: living systems are closed to efficient causation in a way that no machine is. Implication for AI: purely syntactic systems may hit a fundamental limit. Implication for the project: the distinction between models (participatory, Goethean) and simulations (syntactic, Leibnizian) maps onto the dual-translation method — the "close" version is a simulation, the "free" version aspires to be a model, and the gap between them is the semantic residue that formalism can't capture.
+
+## The Empirical Morphogenesis Line (from Michael Levin's recommendations, 2026-04-01)
+
+Michael Levin's recommended corpus is the empirical genealogy of the same braided river traced here philosophically. It heavily covers morphology, organismic form, basal cognition, self-organization, and the biological ground of world-relative meaning.
+
+This line does not alter the practice queue, because the works are largely available in English. Its importance is integrative rather than recovery-through-translation.
+
+Direct convergence points:
+
+- **D'Arcy Thompson** — mathematical morphology
+- **Uexküll** — organism/world coupling
+- **Rosen** — organization and the model/simulation distinction
+- **Maturana & Varela** — autopoiesis
+- **Pattee** — the symbol/matter boundary
+- **Oyama** — information as developmental construction
+- **Noble** — biological relativity and non-privileged levels of causation
+
+Practical consequence for `bildung-2.0`:
+
+- Uexküll and Ruyer remain the strongest convergence points between the philosophical and biological genealogies
+- Pattee should likely enter as a `sources/` encounter or thread note, not as a translation target
 
 ## Modern/Postmodern Philosophy Triage
 
@@ -75,7 +141,7 @@ Robert Rosen's *(M,R)-systems* and *Life Itself*: the deepest formal engagement 
 
 ## The Barrett Thread (from hylozoism conversation, 2026-03-30)
 
-Lisa Feldman Barrett's constructed-categories thesis connects directly to the translation method and to the anti-continuism argument.
+Lisa Feldman Barrett's constructed-categories thesis connects directly to the project's generalized translation/decryption method and to the anti-continuism argument.
 
 **Core claim**: categories construct experience, not just interpretation. People with more emotion words have measurably different experiences. Cultures with different lexicons carve the affective continuum differently, and the carving shapes what people perceive.
 
@@ -89,6 +155,16 @@ Lisa Feldman Barrett's constructed-categories thesis connects directly to the tr
 - **Detranslation** — moving an idea backward into less-differentiated vocabularies to reveal what modern language hides
 
 The residue from each operation is structural information. Multiple translation paths through the same material that *should* commute but *don't* reveal exactly where the interpretive assumptions hide. This is formalizable as sheaf cohomology: local translations are coherent, global consistency fails, and the failures are the actual content.
+
+**Textual evidence from the translation (§§1–64)**:
+
+The Barrett thesis was theoretical when first stated. 64 sections of Jünger now ground it:
+
+- **§34** (facts create evidence, not truths): Jünger says facts *create* evidence but never truths — which is Barrett's claim restated in historical epistemology. The glossary's evidence-chain model instantiates this: handles create evidence for a term's behavior, not final understanding.
+- **§41** (vertebrae warning): mechanical counting misses qualitative transitions that happen *under* the chronological sequence. Barrett's constructed categories make this precise: the counting frame itself prevents seeing the transition, because the transition is a change of category, not a change of quantity.
+- **§47** (Babylonian confusion): historical naming is failing because events no longer fit the historical frame. This is Barrett's prediction made civilizational: when the categories that construct historical experience lose their binding force, the vocabulary goes porous — not because the words are vague, but because the perceptual world they organized is dissolving.
+- **§51** (naming crisis): names have conjuring power, not just descriptive function. Jünger calls the old universals dispute relevant again. Barrett would recognize this: naming is not labeling an already-perceived world, it is constituting the perceptual field within which that world appears.
+- **§63** (nomos shift): the nomos of the hunter differs from that of the shepherd and farmer, and the idea of boundary itself constructs what war means. When nomos changes, the entire category of conflict changes with it — not just the tactics, but what counts as a boundary, a threat, a legitimate use of force.
 
 ## The Schuon Thread (from 2026-03-31 session)
 
@@ -106,6 +182,66 @@ Entry points: *Understanding Islam* (accessible method demonstration), *Logic an
 The teammate's Symbiotic-Vault project (`/home/davidrd/Projects/Learning/SelfStructure/Symbiotic-Vault`) is building the same architecture from a different substrate. See `symbiotic-vault-intersection.md` for the full mapping. The core structural isomorphisms: journal = source text, atoms = glossary entries, frames = commentary layers, reflect = translation journal, atomize = extract, tend = glossary review, frame-read = perspectival commentary. Both projects implement Cassirer's irreducible symbolic forms architecturally and both instantiate negative capability (deferred structure) as method.
 
 The intersection becomes concrete at the schema level: shared IDs for sections, chunks, terms, notes, threads, and relation types would make the two projects interoperable rather than merely analogous.
+
+## What the Translation Has Tested (§§1–64, updated 2026-04-01)
+
+The threads above were extracted from conversations *before* most of the translation happened. 64 sections of Jünger (34.4% of 186) now provide evidence. Here is what held, what shifted, and what surfaced.
+
+### What held
+
+- **Goethe+Leibniz bridge**: confirmed throughout. The warp/weft model (§§6/14/20/22/25/28) is Goethean imagistic thinking applied to temporal structure; the widening spiral of Part 2 (seven concentric rings applying the measurable/fateful distinction to astrology → planning → science → tragedy → happiness → periodicity → So-Sein) is structurally ambitious in a Leibnizian sense. Jünger genuinely does both at once.
+- **Cassirer node**: §§47–48 describe from within exactly the reconstitution of knowledge that Cassirer traces from without. The time wall *is* a symbolic-form boundary.
+- **Rosen connection**: the semantic residue between German and English drafts has been consistently productive, not a failure. The glossary's `open` status (Bruchstelle: three alternatives with evidence showing genuine context-dependence) is the translation-level instantiation of Rosen's claim that the model/simulation gap carries real content.
+- **Schuon resonance**: measurable/fateful maps onto profane/sacred time. But Jünger does something Schuon wouldn't — he treats historical man's dignity as worth preserving rather than as a lower rung to be transcended. This keeps the Schuon thread honest: resonance, not identity.
+
+### What shifted
+
+- **Anglo comparators now precisely mapped**: Jünger vs. Mumford (clock-time genealogy but no Schicksalszeit or fateful time), Heidegger (Seinsgeschichte but no textile model, no political afterimage), Eliade (sacred/profane but no civilizational diagnosis from inside), Kuhn (paradigm shift but no temporal ontology), McLuhan (medium-as-message but no fateful time), Jaspers (Axial Age but no time wall as present threshold). None combines all of Jünger's elements: argument-through-image, textile temporal model, Hinzutretende, naming crisis, time wall as present threshold.
+- **Barrett thread grounded in text**: was theoretical; now has five textual evidence points (§§34, 41, 47, 51, 63). See Barrett thread above.
+- **Schuon more precisely placed**: tradition-as-living-transmission is confirmed as relevant, but Jünger's position is not perennialist. He is working to preserve historical man's So-Sein, not to dissolve it upward into an esoteric unity. The Schuon limit stays honest: the tradition is not in books, but what *is* in books can be a trace worth following.
+
+### What surfaced (no prior thread)
+
+- **The Hinzutretende**: no Anglo equivalent, no comparator figure. See new thread below.
+- **The naming crisis** (§§47–51): a sustained argument, not an aside. Connects Barrett to civilizational vocabulary failure. See new thread below.
+- **The textile and earth models**: two imagistic coordinate systems with no precedent in comparator works. See new thread below.
+- **Deferred structure as philosophically grounded**: §§8, 27, 34, 48, 51 each independently argue for why naming should be delayed and why premature fixation destroys what it captures. This is not just a practical glossary strategy — the text teaches it as method.
+
+## The Hinzutretende Thread (from translation, §§6–36)
+
+The figure of *der Hinzutretende* — the one who comes in addition — has no Anglo equivalent and no comparator in the works against which Jünger is usually read (Heidegger, Spengler, Eliade, Mumford). The Hinzutretende adds no new facts but confers assurance and meaning: priest, astrologer, interpreter, counselor. By §36, the figure extends into physiognomic history-reading, where the instinct of the one who steps alongside gains prophetic force.
+
+**Cross-domain connections**:
+- **Barrett**: the Hinzutretende is the figure who operates on the constructed-category level. He doesn't change the data; he changes what the data means by supplying the interpretive frame. This is precisely Barrett's claim about emotional granularity: the expert perceiver doesn't see more facts, but carves them differently.
+- **Symbiotic-Vault**: the Hinzutretende was identified as a generalizable agent model — the interpreter who adds meaning without adding facts. The Factory's creative-persona loop and bildung-2.0's evidentiary-formation loop are structurally the same loop with different self-descriptions.
+- **Rosen**: the Hinzutretende operates through efficient causation that is invisible to the syntactic level. He is the figure Rosen's formalism predicts but cannot formalize: the one whose contribution is relational, not material.
+- **Cassirer**: the Hinzutretende's function is the construction of a new symbolic form around existing material — exactly Cassirer's claim about how myth, art, and science each reconstitute the same world.
+
+## The Naming Crisis Thread (from translation, §§47–51)
+
+Sections 47–51 build a sustained argument about what happens when historical naming loses its binding force. This is not a complaint about vagueness or propaganda — it is a structural claim about the end of a naming regime.
+
+**The argument in sequence**:
+- §47: events no longer fit the historical frame; words like "war," "peace," "state," "freedom" grow deceptive
+- §48: the time wall is named; the future outlines itself beyond it; naming that zone is itself dangerous
+- §49: preserving history is the great theme of Western culture — what is threatened is not a style but a nomos
+- §51: future things are name-less; names have conjuring power; the old universals dispute is relevant again
+
+**Cross-domain connections**:
+- **Barrett**: this is the civilizational-scale version of Barrett's claim. When the categories that construct experience fail, the world doesn't become "uncertain" — it becomes genuinely unstructured, and new categories must be constructed before experience can resume.
+- **Goethe+Leibniz**: the naming crisis is the point where both halves of the split fail simultaneously. Formalism can't name what's coming (too structural for the old vocabulary), and participatory perception can't name it either (the images are still forming). The time wall is the place where both Goethe and Leibniz run out.
+- **Cassirer/Davos**: the naming crisis is Cassirer's question — what happens when a symbolic form transforms? — lived from inside. Jünger is the phenomenologist of symbolic-form breakdown; Cassirer was its historian.
+- **Schuon limit**: the naming crisis is also where the Schuon thread bites hardest. If tradition is living transmission and not textual recovery, then the naming crisis cannot be solved by finding better words. It requires a changed relation to what is being named — which is what Jünger means by a new "optics."
+
+## The Textile and Earth Models (from translation, §§6–64)
+
+Two imagistic models have emerged from the translation that have no precedent in the comparator works.
+
+**The temporal textile** (warp/weft): §§6, 14, 20, 22, 25, 28. Measurable time runs as warp; fateful time weaves as weft. The loom produces the fabric of history. When one thread weakens, the whole textile degrades. This is not metaphor — Jünger treats it as a structural description. No comparator (Mumford, Heidegger, Eliade, Spengler) uses a textile model for temporal orders.
+
+**The earth thread** (Erd- compounds): §§52, 56, 62, 63, 64. Erdmutter (§52), Erdgeschichte (§56 and beyond), Erdrecht (§62), Erdheimat (§63), Erdvergeistigung (§63). These form a second imagistic axis running through Parts 3–4: the ground beneath history, the earth that is older than any human temporal order. The sequence moves from earth-mother (mythic) through earth-history (geological) through earth-right (magical-juridical) to earth-home and earth-spiritualization (what comes after historical time). If the textile model is horizontal (time-orders interwoven), the earth model is vertical (depth beneath the historical surface).
+
+**Together** they give Jünger a coordinate system — horizontal weaving and vertical depth — that is architecturally richer than any single comparator's model and is one of the things the translation uniquely recovers for English-language readers.
 
 ## Repo Placement
 
