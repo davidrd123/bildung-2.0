@@ -27,7 +27,7 @@ Not every encounter needs every register. The residue matrix is where the actual
 
 ## Status
 
-All encounters carry `status: open` until a translation session reaches for the concept and the encounter changes how the passage is read. Confirmation that the concept "fits" is not enough. The encounter must teach something unexpected.
+All encounters carry `status: open` until a translation session reaches for the concept and the encounter changes how the passage is read. Confirmation that the concept "fits" is not enough. The encounter must teach something unexpected. After that first validation, an encounter may still remain `open` if its wider transfer range or unresolved claims are still under test.
 
 ## Queue
 
@@ -35,18 +35,21 @@ Concepts referenced in project prose but not yet encountered. Ordered by anchor 
 
 | Concept | Key source | Anchors | Triggered by |
 |---------|-----------|---------|-------------|
-| Observer-dependent reality | von Foerster, "On Constructing a Reality" (1973) | `zm:6`–`zm:9` (Hinzutretende chain) | Zeitmauer glossary |
+| Closure of constraints | Montévil & Mossio (2015) | `zm:1`, `zm:11`, Rosen correction, Bogdanov boundary | Rosen encounter correction |
+| Natural equivalences | Eilenberg & Mac Lane (1945), Introduction + §1 | Erkenntnisproblem (Substanzbegriff → Funktionsbegriff), handle schema relations | Cassirer genealogy |
+| Organization as theoretical principle | Mossio, Montévil & Longo (2016) | Erkenntnisproblem (Kant → Goethe → Cuvier genealogy), braided river | Erkenntnisproblem Skepticism chapter |
 | Autopoiesis | Maturana & Varela, "Autopoiesis" (1973) | exegesis (VALIS as living information), zeitmauer (time wall as threshold) | Agüera y Arcas hierarchy |
 | Compression | Freedman et al., "Compression Is All You Need" (2026) | `esc:4` (pointillism), handle schema | Prior conversation |
 | Local/global failure | Spivak or Bredon on sheaf theory | `esc:2` (symmetric injustices), close/free residue | Cross-domain synthesis |
 | Active inference | Friston, "The Free Energy Principle" (2010) | exegesis (recursive model-revision) | Exegesis second pass |
-| Closure of constraints | Montévil & Mossio (2015) | `zm:1`, `zm:11`, autonomy theory | Rosen encounter correction |
 
 ## Current Encounters
 
 | File | Concept | Status |
 |------|---------|--------|
 | `rosen-closure-efficient-causation.md` | Closure to efficient causation | open (headline theorem corrected; organizational insight stable, anti-machine proof disputed) |
+| `von-foerster-constructing-reality.md` | Observer-dependent reality, recursive cognition, cognitive closure | open (first pressure confirmed in Erkenntnisproblem Part 45; changed the read of Montaigne's organ-conditioned knowledge passage; broader validation still pending) |
+| `montevil-mossio-closure-of-constraints.md` | Closure of constraints, constraint/process distinction, time-scale relativity | open (corrects Rosen; bridges to Bogdanov boundary analysis; time-scale parameter τ as genuine contribution) |
 
 ## Sketches
 

@@ -44,4 +44,5 @@ When a source line grows beyond one-off encounters but has not yet earned a full
 | `french/la-rochefoucauld-maximes.md` | French | Escolios §10, §25, §84, §96 | La Rochefoucauld, *Maximes* |
 | `latin/petrarch-epist-xix-7.md` | Latin | Escolios epigraph | Petrarch, *Epist. rer. famil.* XIX.7 |
 | `french/valery-charmes.md` | French | Escolios epigraph | Valéry, *Charmes* |
+| `german/anders-antiquiertheit-des-menschen-band1/README.md` | German | Cross-domain synthesis thread; Anders bridge; apparatus-world line | Günther Anders, *Die Antiquiertheit des Menschen*, Band I |
 | `german/uexkuell-theoretische-biologie/README.md` | German | Cross-domain synthesis thread; organism/world coupling line | Jakob von Uexküll, *Theoretische Biologie* (2nd ed., 1928) |
