@@ -27,6 +27,7 @@ Useful path:
 - `zm:59:gestaltlehren`
 - `zm:73:poetry-abundance`
 - `zm:79:kentauren`
+- `zm:129:night-view`
 - `thread:time-crisis`
 - `note:journal:goethe-leibniz-frame`
 
@@ -37,6 +38,8 @@ Useful path:
 `§73` sharpens it from the poetic side: the poet gives more convincing images than science because he has deeper home-right in the `then` that science can only reconstruct. Poetry is treated not as ornament to truth but as one of the primary ways the undivided first speaks.
 
 `§79` sharpens it from the visionary side: Guérin's centaur world is valuable not as scholarship but because the poet can make visible more than the researcher and penetrate other connections. From him come the assignments.
+
+`§129` sharpens it from the Naturphilosophie side: without a worthy intuition of electricity and other earth-powers, knowledge remains a mechanized `night-view` that extracts only the part of reality suited to its titanically provisional style. The missing share remains active and demands re-entry.
 
 ## Commentary Use
 

@@ -81,3 +81,30 @@ Promote this campaign out of `sources/` only if the work starts to demand:
 - recurring journal drift that exceeds source-bound note-taking
 - a fuller glossary than a bounded campaign can manage
 - stable cross-project reuse strong enough to justify a standing `texts/` subproject
+
+## First-Pass Assessment
+
+The initial five-encounter queue is now complete.
+
+What it earned:
+
+- `Umwelt` remains decisively open and should stay German in running drafts. The late pages confirm that it is neither neutral environment nor sealed private bubble, but part of a weave of overlapping worlds.
+- `Funktionskreis` survives provisionally as `functional circle`, but the late culmination enlarges its force enough that it is still not ready for stable status.
+- The `Merk*` family, `Fügung`, and `Planmäßigkeit` all proved structurally real. None of them was simplified by the later tranches; each became harder and more connected.
+- The bounded campaign form held. The glossary is still lean, the journal is still source-bound, and the work has not yet demanded a sequential whole-book lane.
+
+Promotion decision:
+
+Stay under `sources/` for now.
+
+What has not yet been earned:
+
+- no full `texts/` promotion
+- no larger subproject machinery than this campaign already has
+- no standing cross-project dossier beyond the current source-bound notes
+
+Best next routes from here:
+
+- let existing cross-project notes point to this campaign explicitly
+- return to related Uexküll texts only when a live thread demands them
+- reconsider promotion only if later work starts pulling on these terms more often than this bounded form can hold

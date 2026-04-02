@@ -151,3 +151,32 @@ The initial five-encounter queue has now done what it needed to do. Uexküll ent
 **Review notes**
 
 - [visual candidate] overlapping Umwelten carried by invariant `Funktionskreise`
+
+## 2026-04-02 — Queue assessment after five encounters
+
+**Decision**
+
+The initial Uexküll queue has earned completion as a bounded source campaign, but not promotion to `texts/`.
+
+**Why it stays bounded**
+
+- there is still no sustained sequential translation pressure
+- the glossary remains lean enough for a `sources/` campaign
+- the journal drift is still source-bound rather than project-architectural
+- the strongest yields are concentrated terms and patterns, not yet a wider tranche workflow
+
+**What the queue established**
+
+- `Umwelt` must stay open and German in the running draft
+- `Funktionskreis` remains usable as `functional circle`, but still not stable
+- the `Merk*` family, `Fügung`, and `Planmäßigkeit` all intensified rather than collapsing into smoother English
+- the late pages confirmed that the campaign does not terminate in private worlds, but in overlapping Umwelten carried by invariant `Funktionskreise`
+
+**What has not yet been earned**
+
+- no standing cross-project dossier yet
+- no need for new local layers beyond README / glossary / journal / encounters / source files
+
+**Implication**
+
+The intermediate `sources/` form is no longer hypothetical. Uexküll has now demonstrated that it can hold a full conceptual arc without either shrinking back to one-off encounters or inflating prematurely into a whole-book project.
