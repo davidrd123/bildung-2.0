@@ -23,6 +23,7 @@ The wager here is not historical recovery for its own sake. The text is being re
 ```
 source/
   aphorisms.yaml        # cleaned Spanish, numbered, thematically tagged
+  handles.yaml          # lean handle/evidence index for current load-bearing aphorisms
 sections/
   01-prolegomena.md     # sequential batches, bilingual + commentary
   02-...
@@ -39,6 +40,8 @@ Each aphorism receives:
 - **Exegesis** — meaning, resonances, connections
 
 Sections follow Gómez Dávila's original sequence. Thematic tags accumulate in `aphorisms.yaml` for future cross-reference passes.
+
+The handle layer stays intentionally lean: section-range handles plus stable evidence handles for the aphorisms already carrying method or cross-project weight. It is not yet a full thread apparatus.
 
 ## Translation Philosophy
 

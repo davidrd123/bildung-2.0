@@ -317,3 +317,37 @@ At this density, the dual-translation method reveals a new pattern. The very sho
 §405 (popular culture became vulgar when the people stopped imitating aristocratic culture and started buying bourgeois-manufactured "popular" culture) is Gómez Dávila's closest convergence with the Frankfurt School. Adorno's culture-industry argument arrives from the opposite political direction but diagnoses the same double dispossession: the people lose both their own culture and access to the genuine article. The convergence is not accidental. Both traditions — the reactionary Catholic and the Marxist critical — share a hostility to the administered life, to the reduction of cultural formation to consumer choice. What they disagree about is the remedy: Adorno wants emancipation through dialectical critique; Gómez Dávila wants restoration of the hierarchical conditions under which genuine culture (aristocratic or popular) could exist. Neither got his wish.
 
 ---
+
+## 2026-04-01 — Sections 16–17 (§435–499, pp. 116–126)
+
+Sixty-five aphorisms in ten pages. The fusillade continues. Both sections are scatter — moralist, theologian, aesthete, and political diagnostician trading fire — but each has a structural backbone. Section 16 builds a defense of ceremony as technology for transmitting the undemonstrable (§389 → §441 → §451). Section 17 traces the relation between given norms and invented caprice, culminating in the claim that caprice is safe only inside acknowledged hierarchy (§471, §489, §546 in the next batch).
+
+### The Rite Triad Completed (§389, §441, §451)
+
+The three aphorisms together constitute a complete defense of ritual. §389 (section 14): myth creates rite, not the other way around — the sacred imagination comes first. §441: ceremony is the "technical procedure" for teaching truths that cannot be demonstrated — rite is technology, not decoration. §451: those who despise rite are demanding that each individual reinvent the human adventure from scratch — the cost of abolishing ceremony is not freedom but abandonment. The triad answers the modern objection to ritual at every level: origin (myth, not sociology), function (pedagogy, not ornament), consequence (isolation, not liberation). It also connects to the Zeitmauer: Jünger's *Schicksalszeit* is the temporal mode in which the triad is still operative; *Meßbare Zeit* is what remains when all three links have been severed.
+
+### The *Inconfundible* Thread Reaches §497
+
+The word *inconfundible* (unmistakable, irreducible) has appeared at §21 (the unmistakable flavor of beings), §29, §32, and now §497 (the unmistakable tone that we call a poem's sincerity). Each time it names a quality that cannot be faked, analyzed, or decomposed — it can only be perceived. In §497, this quality becomes the *definition* of sincerity: sincerity is not a method (being spontaneous, confessional, unguarded) but a result (achieving a certain tone). The implication is that craft and artifice are legitimate routes to the authentic, which dissolves the Romantic opposition between genuine feeling and technical mastery. Tracking *inconfundible* across the full text continues to be one of the most productive threads — it marks the places where Gómez Dávila's epistemology of perception is at its sharpest.
+
+### Intelligence as Gossip (§484)
+
+The comparison of the cultured person to a "gossipy spinster" who cares about things that are none of her business is one of the funniest and most structurally important aphorisms in the batch. It connects directly to §459 (only the gratuitous is venerable): culture is gratuitous interest, and gratuitous interest looks exactly like gossip from the outside. The difference is not in the structure of attention but in the quality of the objects attended to. The *Escolios* themselves are a form of gossip — unsolicited commentary on texts that have nothing to do with the commentator's material survival. The project is gossip about philosophy, which is gossip about the universe.
+
+### Reductionism as Magic (§446)
+
+"Doctrines that explain the superior by the inferior are appendices to a manual of magic." This is the most compressed statement of Gómez Dávila's anti-reductionism, and it names the paradox exactly: the reductionist claims to be the enemy of magic, but he is performing the most magical operation of all — making the greater emerge from the lesser by verbal incantation. The neuroscientist who "explains" consciousness by neural firing, the evolutionary psychologist who "explains" love by reproductive fitness, the Marxist who "explains" art by class interest — all are performing sleight-of-hand that would embarrass an honest magician. Connects to §112 (science makes propositions, philosophy makes statements), §388 (the reductive thesis creates the world it describes), and §445 (determinist philosophies dilute their own theses to remain livable).
+
+### Translation Observation: The Domesticating Pressure
+
+At this velocity, there is a constant temptation to domesticate the Spanish — to make Gómez Dávila sound reasonable, measured, familiar. The "free" translation pulls hardest toward this domestication: §485 becomes "the pastime of a prisoner" instead of something that preserves the Spanish bite of *presidiario resignado a su condena*. §461 becomes "man puffs up his void" where the Spanish *infla su vacío* has a physical grotesqueness that "puffs up" partially flattens. The discipline is to resist the pull toward the middle register. The close translation is the anchor: it preserves the strangeness that the free version risks normalizing. The gap between the two is where the translator notices what pressure he's under.
+
+---
+
+## 2026-04-02 — Minimal Handle Layer
+
+The cross-project work exposed a real asymmetry: `Zeitmauer` and the `Exegesis` had addressable source surfaces, while `Escolios` still had only `aphorisms.yaml`, section files, and the journal. That made specific aphorisms easy to cite informally but harder to chain as evidence.
+
+So `source/handles.yaml` now exists, but in the smallest form that solves the actual problem. It maps the translated section ranges, defines the stable `es:<id>` handle scheme, and names a small evidence set for the aphorisms already carrying methodological or cross-project weight (`§2`, `§4`, `§110`, `§145`, `§297`, `§299`, `§306`, and a few others). No threads, no crosswalk tree, no UI layer. The point is to make the source addressable without repeating the over-architecture problem just pruned from `cross-project/`.
+
+This feels consistent with the text itself. If the fragment is the honest scale, then the handle layer should also stay fragmentary and earned. Extend it only when later reading generates pressure for more, not because every project must grow the same apparatus.
