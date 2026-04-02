@@ -12,7 +12,10 @@
   status: open
   evidence:
     - "evidence:term:an-der-zeitmauer:zm:48"
-  notes: "Keep the German title at project level until the metaphor settles across later sections. §48 is the first explicit internal occurrence and makes the image spatial and dangerous at once: the future outlines itself beyond the time wall, and naming that zone is itself risky."
+    - "evidence:term:an-der-zeitmauer:zm:102"
+    - "evidence:term:an-der-zeitmauer:zm:103"
+    - "evidence:term:an-der-zeitmauer:zm:114"
+  notes: "Keep the German title at project level until the metaphor settles across later sections. §48 is the first explicit internal occurrence and makes the image spatial and dangerous at once: the future outlines itself beyond the time wall, and naming that zone is itself risky. §102 deepens the image by naming the `terrible interplay at the time wall`: monotony robs within historical space while future things knock from the transhistorical, and the unreceipted part of the surrender accumulates there. §103 adds the passage-image directly: the way leads over the line, over the time wall, and through it. §114 makes the title methodological as well as imagistic: the question whether human plan-induced change belongs to geology is said to be answered differently on this side and beyond the time wall."
 
 - term: "Fremde Vögel"
   handle: "term:fremde-voegel"
@@ -41,7 +44,17 @@
     - "Human Classifications"
     - "Human Orderings"
   status: tentative
-  notes: "Working after §§32-55. `Humane` here means human rather than ethically `humane`; the part opens with divisions of world-time, history, and natural order, then moves into Spengler, morphology, world-plan, and the limits of pure historical judgment, sharpens the difference between historical time and `Schicksalszeit`, widens into earth-history, prehistory, and the dawning of historical consciousness, reaches the preservation and injury of historical man, turns toward mythic return, naming-crisis, sacrifice, and the waning of the hero, and now clarifies false recurrence, blood-toll, and qualitative summation rather than gentleness or moral cultivation."
+  notes: "Working after the complete run of §§32-84. `Humane` here means human rather than ethically `humane`; the part opens with divisions of world-time, history, and natural order, then moves into Spengler, morphology, world-plan, and the limits of pure historical judgment, sharpens the difference between historical time and `Schicksalszeit`, widens into earth-history, prehistory, and the dawning of historical consciousness, reaches the preservation and injury of historical man, turns toward mythic return, naming-crisis, sacrifice, false recurrence, blood-toll, and qualitative summation, presses further into `Urgeschichte`, typology, the last aids of knowledge, carries the Golden Age run into hunting, boundary, earth-home, and the first measured riches, differentiates `erdgeistig` from the looser `magisch`, reworks the Silver Age as a zone of earth-spiritual recurrence and formal hardening, turns tool-history toward prosthesis, nervous system, and projected spirit, pauses to justify its own mixed method of epochs and layers while granting the poet a deeper home-right in the Golden Age than scientific reconstruction can claim, reaches fooldom, transformation, the Golden Calf, and Moses as a figure standing at one of the great fracture points where metahistorical time-division becomes explicit, sharpens the fairy-tale/myth distinction while treating the poet's earth-sight as capable of making visible what research alone cannot, and closes by turning fear, economy, religion, state, and `Urgrund` into tests for judging the present from a metahistorical height."
+
+- term: "Siderische Einteilungen"
+  handle: "term:siderische-einteilungen"
+  kind: section_title
+  preferred: "Sidereal Divisions"
+  alternatives:
+    - "Sidereal Orderings"
+    - "Astral Divisions"
+  status: tentative
+  notes: "Working after §§85-114. `Siderisch` here begins not as astrology in the narrow sense but as earth-history viewed as the history of a heavenly body, widening at once into cosmogony, apocalypse, technical catastrophe, and the question of whether even cyclical cosmologies still require an axis, a body, and limits to time. By §§88-90 the part also binds modern doom to human work, technocracy, the loss of transcendental counterweight, and the claim that catastrophe can remain collectively unavoidable yet become intensively solvable for the individual. By §§91-93 it adds the martyr standard, the image of the world as a burnable house in human hands, and the first explicit forecasts of political unity, overstrain, and planetary process. By §§94-96 it turns spaceflight into an earth-historical sign, approaches Nietzsche's `wars without powder`, and makes the mismatch between transhistorical means and historical war explicit. By §§97-99 it shifts into atmosphere, monotony, substance-loss, and the possibility that metaphysical hunger itself could die away under technical perfection. By §§100-102 it closes the first substance-account of the part through credit, debt, and countervalue, presses equality into inner `So-Sein`, and binds the whole exchange directly to the title-image at the time wall. By §§103-105 it turns crisis into initiation and passage, reintroduces astrology as the model of a superior synoptic method, and widens the cut into geological epochs, great years, and nearly invisible partial catastrophes. By §§106-108 it rebalances catastrophe by the entry of new types, treats geological disquiet as prior to objective findings, and closes on ice and climate under the sign of a larger cosmic economy. By §§109-111 it tests geological unrest against happiness, reintroduces harmony above death through `Schöpfungsplan` and `Weltplan`, and returns to the measurable field through the geometry of progression: altered earth-color, diminishing wilderness, angle, and row. By §§112-114 it sharpens that progression into the right angle, the nest-versus-plan conflict, the threatened Faustian plan, and finally the methodological claim that geology, history, and freedom are answered differently on this side and beyond the time wall."
 
 - term: "Schicksalszeit"
   handle: "term:schicksalszeit"
@@ -77,7 +90,9 @@
     - "ground of being"
     - "deep ground"
   status: open
-  notes: "Needs wider context from the final section before fixing."
+  evidence:
+    - "evidence:term:urgrund:zm:82"
+  notes: "Still needs wider context from the final section before fixing. §82 gives the first real pressure in the translated range by reaching `Urgrund` through matter, visibility, and identity rather than through later overtly theological language."
 
 - term: "erdgeschichtlich"
   handle: "term:erdgeschichtlich"
@@ -86,7 +101,25 @@
   alternatives:
     - "geo-historical"
   status: tentative
-  notes: "The term needs to remain visibly larger in scale than ordinary history."
+  evidence:
+    - "evidence:term:erdgeschichtlich:zm:67"
+  notes: "The term needs to remain visibly larger in scale than ordinary history. §67 makes it load-bearing by naming man not only as a world-historical being but as an earth-historical one, that is, as species under catastrophe."
+
+- term: "erdgeistig"
+  handle: "term:erdgeistig"
+  kind: concept
+  preferred: "earth-spiritual"
+  alternatives:
+    - "telluric-spiritual"
+    - "earth-spirited"
+  status: tentative
+  evidence:
+    - "evidence:term:erdgeistig:zm:67"
+    - "evidence:term:erdgeistig:zm:68"
+    - "evidence:term:erdgeistig:zm:70"
+    - "evidence:term:erdgeistig:zm:76"
+    - "evidence:term:erdgeistig:zm:97"
+  notes: "§67 explicitly qualifies the vocabulary: `magisch` is too loose and should, where possible, give way to `erdgeistig`. §68 then makes the term period-forming in the Silver Age through priesthood, formula, magical city-form, and technique; §70 extends it further by saying that technology is not merely a world of abstractions but immediately earth-spiritual reality; §76 carries the same field into revelation, where `Erdgeistigkeit` condenses once more into creative power but under direction, law, and separation. §97 proves the field continues into Part 4: the measurable objects of fear are called merely the age-style behind which `Erdgeistiges` is concealed. Keep the English visibly awkward enough to preserve the distinction from generic `magical` while remaining paired with `Erdgeist` as `earth-spirit`."
 
 - term: "Weltplan"
   handle: "term:weltplan"
@@ -99,7 +132,8 @@
   evidence:
     - "evidence:term:weltplan:zm:17"
     - "evidence:term:weltplan:zm:37"
-  notes: "Hyphenation keeps the German compound visible. §17 sharpens it by explicit contrast with `Menschenplan`; §37 reactivates it as the missing criterion of unity and direction in Spengler's morphology."
+    - "evidence:term:weltplan:zm:110"
+  notes: "Hyphenation keeps the German compound visible. §17 sharpens it by explicit contrast with `Menschenplan`; §37 reactivates it as the missing criterion of unity and direction in Spengler's morphology; §110 carries it into Part 4, where the state-plan leaps beyond the historical field into the world-plan, receives new alignment there, and draws on a hidden share of world-reason within every human plan."
 
 - term: "Bruchstelle"
   handle: "term:bruchstelle"
@@ -113,7 +147,9 @@
   evidence:
     - "evidence:term:bruchstelle:zm:1"
     - "evidence:term:bruchstelle:zm:54"
-  notes: "Jünger uses it both conceptually and imagistically. By §54 the term clearly names weak boundaries or wound-edges where other powers press in, so the English choice may need to remain context-sensitive across fracture, breach, and fault-line registers."
+    - "evidence:term:bruchstelle:zm:56"
+    - "evidence:term:bruchstelle:zm:76"
+  notes: "Jünger uses it both conceptually and imagistically. By §§54 and 56 the term clearly names not only weak boundaries or wound-edges where other powers press in, but also the suspicious point where discovery itself becomes a temporal symptom. §76 adds a further force: the epochal threshold from which a revelatory figure like Moses protrudes across millennia. The English choice may therefore need to remain context-sensitive across fracture, breach, fault-line, and threshold registers."
 
 - term: "der Hinzutretende"
   handle: "term:hinzutretende"
@@ -143,4 +179,5 @@
     - "evidence:term:da-sein-so-sein:zm:11"
     - "evidence:term:da-sein-so-sein:zm:31"
     - "evidence:term:da-sein-so-sein:zm:49"
-  notes: "Keep the pair visibly Germanic. §11 makes `So-Sein` load-bearing; §31 extends it into the contrast with `Gleichsein`, dignity, and resistance to uniform abstraction; §49 extends it further into the nomos and dignity of historical man. `Existence / essence` is too Latinate and collapses a distinction Jünger is deliberately not naming that way."
+    - "evidence:term:da-sein-so-sein:zm:100"
+  notes: "Keep the pair visibly Germanic. §11 makes `So-Sein` load-bearing; §31 extends it into the contrast with `Gleichsein`, dignity, and resistance to uniform abstraction; §49 extends it further into the nomos and dignity of historical man; §100 gives it a new collective-political pressure, where equality no longer stops at legal form but presses into inner `So-Sein`, producing homogeneous stocks. `Existence / essence` is too Latinate and collapses a distinction Jünger is deliberately not naming that way."

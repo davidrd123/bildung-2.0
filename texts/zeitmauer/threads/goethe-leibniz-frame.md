@@ -24,10 +24,19 @@ Useful path:
 - `zm:1:seidenschwanz`
 - `zm:13:schicksalsuhr`
 - `zm:36:analogy`
+- `zm:59:gestaltlehren`
+- `zm:73:poetry-abundance`
+- `zm:79:kentauren`
 - `thread:time-crisis`
 - `note:journal:goethe-leibniz-frame`
 
 `§36` sharpens the dossier from the Spengler side: analogy can organize a great deal, but pure comparison yields relations rather than standards. The pressure toward unity, measure, and an inner bond remains.
+
+`§59` sharpens it from the anthropological and typological side: the decisive move is from properties to forms, from analytic decomposition toward a synthetic or synoptic method. `Gestaltlehren` become the last aids of knowledge before encounters that can no longer be mastered by knowledge alone.
+
+`§73` sharpens it from the poetic side: the poet gives more convincing images than science because he has deeper home-right in the `then` that science can only reconstruct. Poetry is treated not as ornament to truth but as one of the primary ways the undivided first speaks.
+
+`§79` sharpens it from the visionary side: Guérin's centaur world is valuable not as scholarship but because the poet can make visible more than the researcher and penetrate other connections. From him come the assignments.
 
 ## Commentary Use
 

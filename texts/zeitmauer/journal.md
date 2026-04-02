@@ -671,3 +671,382 @@ Decisions:
 - extend `Bruchstelle` with `§56` rather than adding new concept entries
 - extend `thread:time-crisis` through `§56`, where discovery itself becomes a sign that the historical field may already have been left
 - keep `Urgeschichte`, `Urbild`, `Vorbild`, and `geschichtsbildende Macht` in the journal layer for now
+
+## 2026-04-01 — Primal History and the Last Aids of Knowledge
+
+Translated `§§59-61` under `parts/20-humane-einteilungen.md`.
+
+This batch continues the Golden Age and prehistory argument by making `Urgeschichte` explicit and then folding it back into the question of culture. `§59` says that primal history is not prehistory or ethnology but a deep human layer of psychically undivided force; `§60` aligns, without collapsing, the ancient ages with Stone and Bronze Age motifs and insists again that myth cannot be politically restored; `§61` judges the historical encounter with the Stone Age harshly and then relocates culture away from cranial or civilizational measures into unconscious harmony.
+
+Working observations:
+
+- `§59` is the structural center of the batch. The sequence from `Know thyself` to Delphi to the cell where the future reveals itself is one of the clearest statements so far that knowledge reaches a threshold and then gives way to another kind of readiness.
+- `§59` also belongs directly to the method dossier. `To visit man in his depth` means not to see properties but forms; `Gestaltlehren` are the last aids of knowledge before encounters individuals and peoples cannot withstand. That is a compressed defense of the project's own reluctance to reduce persons or ages to trait-lists.
+- `§60` extends `§54`'s denial of mythic restoration into political history. Myth can break volcanically through the crust of history, but it cannot create a world-climate again. That line does real work on the twentieth-century examples.
+- `§60` is also where the Golden Age cluster stops being merely antiquarian. The humane is older, deeper, and closer to the core of the human race than the heroic; that is why it outlasts and out-carries the heroic.
+- `§61` is brutal but precise: the historical man's contact with the Stone Age begins in taboo-breaking and ends in extermination. The closing sentence matters because it denies that culture is secured by greater consciousness or finer measurement.
+
+Decisions:
+
+- no new glossary entries; `Urgeschichte`, `Gestaltlehren`, and `geschichtsbildende Macht` still need recurrence outside this cluster
+- extend `thread:goethe-leibniz-frame` through `§59`, where synoptic method and the seeing of forms are named directly
+- keep the main handle pressure on one new anchor rather than scattering structural hooks across all three sections
+
+## 2026-04-01 — Earth-Home, Boundary, and Early Abundance
+
+Translated `§§62-64` under `parts/21-humane-einteilungen.md`.
+
+This batch carries the Golden Age run into hunting, boundary, and the first measured riches of historical culture. `§62` treats the earliest hunt as an `earth-right` held under taboo, sacrifice, and compensation; `§63` ties boundary and war together and then says that reducing war at the root would require a weakening of the idea of boundary through a new conception of `Erdheimat`; `§64` lets the early abundance continue to gleam through Mesopotamia, Egypt, Canaan, Midas, and Croesus.
+
+Working observations:
+
+- `§62` matters because it reframes hunting historically: from magical earth-right, to heroic privilege, to princely or regal right. That is one more version of the part's larger shift from undivided relation to divided order.
+- `§63` is the structural center. `Boundary and war are primally akin` is a strong political proposition, but Jünger immediately blocks the easy reading: the weakening of boundary cannot come by negation, only through a new conception of earth-home.
+- The final sentence of `§63` is important enough to carry forward: technology belongs here as the form and first approach of a new earth-spiritualization at the end of historical time. That is not a standard anti-technology line; it treats technique as part of whatever comes after the historical field.
+- `§64` gives the cleanest local contrast so far between Midas and Croesus. Midas still belongs to a realm where wealth is fabulous and mythically misread; Croesus already belongs to the age in which wealth becomes visible, measurable, and therefore stealable.
+
+Decisions:
+
+- no new glossary entries; `Nomos`, `Erdheimat`, and `Erdvergeistigung` are live pressure points but still local
+- extend `thread:time-crisis` through `§63`, where border, war, blood-toll, and technique are placed inside one changing order of earth
+- keep the Golden Age cluster mostly in the journal layer until it either disperses or recurs beyond this run
+
+## 2026-04-01 — Broken Appearances and Earth-Spirit
+
+Translated `§§65-67` under `parts/22-humane-einteilungen.md`.
+
+This batch closes one layer of the Golden Age run and opens another. `§65` insists that no age of abundance can be absolutized and that even the Stone Age carries shadow, execution, and archaic killing. `§66` then moves behind both mythic and historical man to a prior magical security and common spirit. `§67` qualifies that language sharply: `magisch` is too loose, and where possible should be replaced by `erdgeistig`.
+
+Working observations:
+
+- `§65` keeps the Golden Age from curdling into idyll. The crucial distinction is between conflict and war: strife existed, but not boundary in the later sense, and therefore not war in either heroic or strategic form.
+- `§66` is the structural center of the batch. It gives one of the clearest statements so far that priest, knower, artist, and sanctuary are late differentiations out of an earlier undivided condition. Historical and mythic man alike are called `broken` appearances by comparison with that prior security.
+- `§67` earns a real glossary addition. Jünger is not merely using `magisch`; he explicitly limits it and tells us to prefer `erdgeistig` where possible. That is the strongest kind of evidence a term can get.
+- `erdgeschichtlich` also finally carries real weight in the translated range: man can be threatened not only as a world-historical being, but as an earth-historical one, that is, as species.
+- The earth-thread is no longer just lexical. `Erdrecht -> Erdheimat -> Erdvergeistigung -> erdgeistig / Erdgeist -> erdgeschichtlich` now forms a genuine pressure line across `§§62-67`. That is worth recording, though still not yet worth spinning into a separate thread dossier before seeing whether it persists through the rest of Part 3.
+
+Decisions:
+
+- add `erdgeistig` to the glossary with first evidence from `§67`
+- extend `erdgeschichtlich` with real evidence from `§67`
+- extend `thread:time-crisis` through `§67`, where the crisis moves from time and boundary into species-level earth-force and technique
+
+## 2026-04-01 — Silver Age, Tools, and Projected Spirit
+
+Translated `§§68-70` under `parts/23-humane-einteilungen.md`.
+
+This batch does two things at once. `§68` defines the Silver Age as the zone where earth-spiritual recurrence stiffens into formula, priesthood, and magical city-form. `§§69-70` then turn from age-language to tool-history, but without leaving the same argument: the question becomes what powers tools imitate, and how far technique remains tied to the earth.
+
+Working observations:
+
+- `§68` makes `erdgeistig` unmistakably structural. The term now governs not only recurrence and catastrophe, as in `§67`, but also the Silver Age's hardening into priesthoods, formulas, sanctuaries, fortresses, and magical technique.
+- `§69` matters because it blocks a naive material chronology. What matters is not wood versus stone, but use versus working-over versus composition. The tool-age begins only when matter is shaped.
+- `§70` is the structural center of the batch. Jünger first treats tools as prostheses of limbs, then shifts to apparatuses that imitate the nervous system, and finally says that technology is `projected spirit` and immediately `earth-spiritual reality`. That line belongs to the same field as `Erdvergeistigung` and `erdgeistig`, not to a separate anti-technical argument.
+- The earth-thread has now plainly continued beyond `§67`: `Erdrecht -> Erdheimat -> Erdvergeistigung -> erdgeistig / Erdgeist -> erdgeschichtlich -> projected spirit as immediately earth-spiritual reality`. The recurrence is no longer lexical accident.
+- This batch also sharpens the Mumford bridge without requiring a new conceptual layer. The issue is not just clock-time or industrial organization, but the point at which technique begins imitating central rather than peripheral powers.
+
+Decisions:
+
+- extend `erdgeistig` with evidence from `§68` and `§70`
+- extend `thread:time-crisis` through `§70`, where technology is no longer merely instrumental abstraction but an earth-spiritual projection
+- add a `zm:70:projected-spirit` handle rather than scattering smaller hooks across the tool-history sequence
+
+## 2026-04-01 — Planetary Aura and the Poet's Home-Right
+
+Translated `§§71-73` under `parts/24-humane-einteilungen.md`.
+
+This batch first extends the technics line and then pauses to justify the method itself. `§71` treats the elaborate means of modern technique as a toll paid for simpler fulfillments and reads the planet's new aura of signals, messages, images, and melodies as a metahistorical stage of earth-spiritualization. `§72` then says openly that history, prehistory, and primal history are not only external periods but deposits within us. `§73` closes by giving the poet priority over science in the Golden Age, because he has the deepest home-right in that `then`.
+
+Working observations:
+
+- `§71` is the strongest continuation of the `projected spirit` line so far. The key point is not futurist excitement but the claim that the planet's technical aura already belongs to a metahistorical order behind history.
+- `§72` is a direct method note. The slippage between `epoch` and `layer` is defended rather than corrected, and `Vermutungen` are admitted to be also `Mutungen`: conjecture here is partly sensing.
+- `§73` is the structural center of the batch. The poet gives more convincing images than science because he belongs earlier to the `then` science can only reconstruct. Poetry is not decoration added to abundance; it is one of abundance's native forms and one of its dispensers.
+- The economist/poet contrast at the end of `§73` matters for the whole project. Where economic thinking gains precedence, depletion has already begun. The poem is more important than any science in exactly the zone where the undivided is at issue.
+- No new glossary entries are earned here. The batch sharpens method, commentary, and thread structure rather than recurring technical vocabulary.
+
+Decisions:
+
+- extend `thread:time-crisis` through `§71`, where the planetary aura of technics is explicitly called metahistorical
+- extend `thread:goethe-leibniz-frame` through `§73`, where poetic image is granted precedence over scientific reconstruction without becoming mere ornament
+- keep `Mutung`, `Heimatrecht`, and the poetry/economy contrast in the journal layer for now
+
+## 2026-04-01 — Fooldom, Golden Calf, and Moses at the Fracture Point
+
+Translated `§§74-76` under `parts/25-humane-einteilungen.md`.
+
+This batch moves from the pre-sacral field of dance and fooldom into the Golden Calf and then to Moses as figure of revelation. `§74` says that transformation belongs to an older world of abundance and is neither miracle nor sacrament. `§75` shows the Golden Calf as a late, diminished attempt to regain lost visibility. `§76` then gathers the whole sequence in Moses, whose figure stands at one of the great `Bruchstellen` and already turns the inquiry toward metahistorical division of time for judging the present.
+
+Working observations:
+
+- `§74` is the most surprising section of the batch. Fooldom is older than gods and idols; it belongs to the same natural transformation as spring, swarming, and courtship. That means later festivals are not simply pagan survivals but diminished and divided recurrences of something older.
+- The key distinction in `§74` is transformation versus miracle or sacrament. In the older, abundance-flooded world, transformation is only a phase or wave within human identity. It becomes miracle only after the marvelous has ceased to be the world's ordinary character.
+- `§75` matters because the Golden Calf is treated as a symptom of loss. Visibility has withdrawn into the Holy of Holies, and the people longs back toward older immediacy.
+- `§76` is the structural center. Moses stands at one of the great fracture points: earth-spirituality condenses once more into creative power, but now under direction, law, impurity, sacred/profane separation, and rapid hardening.
+- `Bruchstelle` gains a new range here. In `§1` it was a found site, in `§54` a wound-edge, in `§56` the suspicious timing of discovery, and in `§76` an epochal threshold through which a revelatory figure protrudes across millennia. That strengthens the case for leaving the term open.
+- The last sentence of `§76` is the plainest method statement in the batch: the point is not antiquarian reconstruction but the possibility of metahistorical time-division for judging the present.
+
+Decisions:
+
+- extend `Bruchstelle` with `§76`
+- extend `erdgeistig` with `§76` through the noun form `Erdgeistigkeit`
+- extend `thread:time-crisis` through `§76`, where metahistorical time-division is named as an instrument for present judgment
+
+## 2026-04-01 — Fairy Tale, Earth-Sight, and the Poet's Assignments
+
+Translated `§§77-79` under `parts/26-humane-einteilungen.md`.
+
+This batch moves from guiltless knowledge and healing into the fairy tale and then to the centaurs. `§77` says the unbroken human being has knowledge but no science and knows beings by their virtues rather than their properties. `§78` distinguishes fairy tale sharply from myth and argues that astrology remains worth studying because it presupposes the older mode of immediate and undivided seeing. `§79` then makes the poet's priority over the researcher explicit through Maurice de Guérin's centaur-world.
+
+Working observations:
+
+- `§77` gives one of the cleanest statements so far of the knowledge/science distinction. The physician heals first by hearing what the patient's deepest ground asks for; only afterward come the aids that otherwise merely confuse.
+- `§78` is the structural center of the batch. Fairy tale is maternal, nameless, unbroken, and abundant; myth is heroic, genealogical, masculine, and war-centered. The distinction is sharper than one might expect and should not be blurred in translation.
+- `§78` also matters because astrology is defended here not by accuracy claims but because it preserves a form of seeing in which cause and effect are not yet severed from connection.
+- `§79` sharpens the method dossier again: the poet can make visible more than the researcher and penetrate into other connections. `From him come the assignments` is one of the strongest statements yet for the project's own conviction that texts teach the method.
+- The Antaeus and centaur material says that what is lost is not just an old mythology but an earth-sight still unconsciously active in diagnosis and foresight.
+- No new glossary entries are earned. `Märchen`, `Erdsinn`, `Erdsicht`, and the fairy-tale/myth distinction still belong in the journal layer until they recur beyond this cluster.
+
+Decisions:
+
+- extend `thread:goethe-leibniz-frame` through `§79`
+- add a single anchor at `zm:79:kentauren` rather than scattering hooks across the whole fairy-tale section
+- keep the fairy-tale/myth and physician/seer material in the journal layer for now
+
+## 2026-04-01 — Chiron, Fear, and the Close of Human Divisions
+
+Translated `§§80-84` under `parts/27-humane-einteilungen.md` and `parts/28-humane-einteilungen.md`, completing `Humane Einteilungen`.
+
+This closing run first follows the centauric world through Chiron and then turns fear, economy, afterlife, religion, and government into measures of the present. `§80` asks whether the state-forming line was a side-line of truly humane formation. `§§81-82` reject the projection of fear and economy back into the primitive world and end with `Urgrund` and Nietzsche's `God is dead` as a signal of entering powers. `§§83-84` then close the part by tying fear to walls, state, and education while refusing to derive religion from fear alone.
+
+Working observations:
+
+- `§80` matters because Chiron is not merely another centaur figure. He is the highest type that recognizes the turn and yields immortality to Prometheus. The question of the state enters here directly and sharply.
+- `§81-82` are the strongest attack yet on modern projection. Fear and economy are not treated as constants but as dominant marks of later and especially present orders. The hunter's afterlife is concrete, immediate, and uncostly; later afterlife systems become art, science, administration, and terror.
+- `§82` gives `Urgrund` its first real pressure in the translated range. Materialism is said to have to deserve its name by descending into the deepest ground of matter. That is enough for evidence, not enough to settle the English permanently.
+- `§83` turns the argument openly political: the first wall is one of the ways freedom ends, and the only freedom that can still offer check to the state is that of the poet.
+- `§84` is the right close to the part. Religion may arise from fear, but equally from joy; the unsolved character of the question indicates rank. Fear remains one of government's oldest resources, especially now that it has become atmospheric.
+- With `§84`, `Humane Einteilungen` reads as a completed unit. The part begins by dividing time and history and ends by using those metahistorical divisions to judge fear, economy, religion, state, and the present age.
+
+Decisions:
+
+- add first evidence for `Urgrund` from `§82`
+- extend `thread:time-crisis` through `§82`, where materialism, the deepest ground of matter, and the announcement of new powers come together
+- close Part 3 without promoting new glossary entries beyond evidence added to already existing terms
+
+## 2026-04-01 — Sidereal Opener, Apocalypse, and the Titanic Model
+
+Translated `§§85-87` under `parts/29-siderische-einteilungen.md`.
+
+This opening batch of `Siderische Einteilungen` scales outward without abandoning the prior problem. `§85` turns from human divisions of history to sidereal ones and immediately makes clear that even cyclical cosmology cannot avoid the question of axis, body, and the limits of time. `§86` then gives the apocalyptic mood of the present without counterweight and reads Nietzsche as one of the figures in whom thought breaks across into poetry because the old insulation has grown brittle. `§87` returns to the `Titanic`, now no longer as a shipwreck within the time-crisis alone but as a standing model of technical catastrophe and plan-failure.
+
+Working observations:
+
+- `§85` is the real hinge. The new part does not begin with astronomy in the narrow sense, but with earth-history as the history of a heavenly body. The last paragraph is the structural center: the endlessly rolling wheel still demands an axis, and the changing fabric of time still demands a body. That is why religions are said not to be simply `wegzudenken`.
+- `§86` matters because it names the present mood of doom as lacking counterweight. The attempt to retrieve spiritual substance from fairy tale, myth, or history is said to fail in its romantic form, and Nietzsche appears at the threshold where thought can no longer remain purely philosophical.
+- `§87` gives the strongest return yet of the `Titanic`. What mattered in `§15` as record, abstract time, and the failure of the plan returns here as a model of technical catastrophe in general. The point is not the uniqueness of one shipwreck but the emergence of a new type of downfall.
+- The last paragraph of `§87` also sharpens the worker-line. The figure of the worker rises from every conflagration and is still not in its pure casting; much hollow mold remains in it.
+- No concept-level glossary expansion is earned yet beyond the new part title. The opener is doing scale-change and reorientation rather than settling fresh terminology.
+
+Decisions:
+
+- add a section-title entry for `Siderische Einteilungen`
+- extend `thread:time-crisis` through `§85`, where cyclical cosmology still forces the question of axis, body, and the limits of time
+- extend `thread:mumford-bridge` through `§87`, where the `Titanic` returns as a standing model of technical catastrophe
+
+## 2026-04-01 — Technocracy, Intensive Solution, and the Individual Under Catastrophe
+
+Translated `§§88-90` under `parts/30-siderische-einteilungen.md`.
+
+This batch turns the sidereal opener from cosmology and apocalypse into an argument about modern doom and the individual's freedom under catastrophe. `§88` says modern doom is linked materially to human work and therefore loses the dimension of judgment; what appears instead is a one-dimensional moralism without an Archimedean point, and behind that the grimmest prospect of all, technocracy. `§89` answers by moving from painted terror to intensive freedom: the individual can step out of number and statistics and meet downfall in another law. `§90` then refuses the charge that this privatizes participation and treats mastery over panic, illness, and catastrophe as a real measure of rank.
+
+Working observations:
+
+- `§88` is the structural center. The world-downfall imagined as immediate consequence of human labor is new in kind. Biblical catastrophe was judgment; modern catastrophe is imagined materially and therefore tends to become morally one-dimensional. The sentence on moralism without an Archimedean point is one of the sharpest in the part so far.
+- `§89` introduces a distinction worth watching: problems can be extensively insoluble yet intensively soluble. This is not quietism. It is a claim that the individual's freedom can move onto another plane of law when collective calculation and statistics have no answer.
+- `§89` also gives the part one of its strongest Herder moments. World-history is a pedagogical course, and once that layer is reached the world can no longer simply `go under`.
+- `§90` matters because it keeps the turn toward the individual from curdling into private consolation. The objection is anticipated and refused. The test is practical as well as metaphysical: who keeps his head, who humanizes catastrophe, who orders the temporal before leaving it.
+- No new glossary terms are earned here. `Archimedean point`, `extensive/intensive`, and the idiom around `das Zeitliche segnen` are under real pressure, but still local.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§88-90`
+- extend `thread:time-crisis` through `§88`, where modern doom becomes one-dimensional in the absence of a transcendental point
+- extend `thread:time-crisis` again through `§89`, where catastrophe becomes intensively soluble for the individual without ceasing to be collectively unavoidable
+
+## 2026-04-01 — Burnable House, Martyr Standard, and World-Unity Forecasts
+
+Translated `§§91-93` under `parts/31-siderische-einteilungen.md`.
+
+This batch first gives a standard and then moves into explicit prognostics. `§91` presents the martyrs as a measure: inner light stronger than imperial spectacle. `§92` then names as a novelty the image of world-downfall placed in human hands and reads it as another sign of exit from historical space. `§93` turns from the fear of cosmic catastrophe to political forecasts about the fate of man as a state-forming being.
+
+Working observations:
+
+- `§91` is brief but decisive. The point is not pathos but standard. The handful in the arena are overwhelmed numerically and theatrically, yet the inner light is stronger than the sun. That is the measure the surrounding catastrophe lacks.
+- `§92` is the structural center. The world as burnable house and men as children with matches is one of the starkest new images in the part. Catastrophe is now placed in human hands, but Jünger still refuses to let it become numerically legible or morally flat.
+- `§92` also pushes further the critique of bare number. Statistical prediction fails here as elsewhere because catastrophe has place and task in the world and must be seen, if at all, from some point within the plan.
+- `§93` matters because it moves from atmosphere to scenario. `Welteinheit`, `Weltregal`, `pénétration pacifique`, and `Erdströmung` all belong to one attempt to think political futures at planetary scale without reducing them to ideology.
+- The section's four possibilities are not really four separate programs. They are variant forms of one process whose unity lies ahead, in the future result, not in present agreement.
+- No new glossary entries are earned. `Welteinheit`, `Weltregal`, and `Erdströmung` are under real pressure, but they have not yet recurred enough to justify promotion.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§91-93`
+- extend `thread:time-crisis` through `§92`, where catastrophe enters human agency as the world becomes a burnable house
+- extend `thread:time-crisis` through `§93`, where planetary danger becomes explicit political prognosis
+
+## 2026-04-02 — Spaceflight, Wars Without Powder, and Transhistorical Means
+
+Translated `§§94-96` under `parts/32-siderische-einteilungen.md`.
+
+This batch moves from prognosis into transformed power. `§94` treats spaceflight as an earth-historical surprise and one of the pleasures of the worker in his entry into the lordly estate. `§95` argues that this no longer fits inherited schemas of war: the contest now moves by position, keys, and experiment, coming near Nietzsche's `wars without powder.` `§96` then names the real danger as the use of transhistorical means in the historical sense, above all in material war.
+
+Working observations:
+
+- `§94` is the batch's visual center. Spaceflight is not a mere technical feat or Cold War episode; it is read as a sign of mounting charge and of the planet equipping itself with a new, unified formal idiom. The worker has entered the estate of lords.
+- `§94` also matters because technique loses the giant character of its beginnings and becomes elegant, playful, and miniature. The image of enormous exertion issuing into a lighter and freer principle is one of the strongest development-images in the part so far.
+- `§95` is the bridge section. The decisive sentence is the shift from arsenals to keys. Boldness relocates into experiment, and classical war is retrospectively treated both as self-driving absurdity and as pedagogical instruction.
+- `§96` is the conceptual center. The danger lies not in new means as such but in transhistorical means being used historically. That is the strongest statement yet of the mismatch between scale of power and inherited categories of war.
+- `§96` also gives one of the clearest worker passages since the earlier part: limitation arrives only when the figure of the worker fills the world's frame without hollow space and the means find their legitimate sovereign.
+- No new glossary entries are earned here. `Herrenstand`, `wars without powder`, `transhistorical means`, and `world-rule` are all under real pressure, but still local.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§94-96`
+- extend `thread:time-crisis` through `§94`, where spaceflight becomes an earth-historical sign and technique enters a lighter, freer principle
+- extend `thread:time-crisis` through `§96`, where the mismatch between transhistorical means and historical war becomes explicit
+
+## 2026-04-02 — Fear as Passage, Collective Substance, and the Last Man
+
+Translated `§§97-99` under `parts/33-siderische-einteilungen.md`.
+
+This batch turns from power and war to atmosphere, monotony, and substance-loss. `§97` treats fear as a necessary passage and reads the world of clocks, monotony, and technique as the age-style behind which something earth-spiritual is concealed. `§98` asks whether collective gain masks absolute loss of value. `§99` then sharpens the danger: metaphysical hunger itself could die away, and the `Last Man` could populate the earth as an intelligent insect type with technically producible art.
+
+Working observations:
+
+- `§97` is the structural center. The ruling fear is not only fear of an end-time but also the unrest of great departures. That combination strips downfall of hopelessness without stripping it of terror.
+- `§97` also matters because `Erdgeistiges` returns explicitly in Part 4. The measurable objects of fear are treated as the style of the age behind which something earth-spiritual hides. That earns a real new evidence point for the glossary.
+- The clockwork passage in `§97` is one of the strongest time-crisis formulations since the earlier parts: the world fills with clocks, becomes clockwork, and fear suspects that all the clocks are set to an hour.
+- `§98` keeps the pressure on substance. The collective may gain power, but unless it grows its own poets, theologians, and philosophers as organs, the suspicion of disguised loss remains justified.
+- `§99` is the batch's sharpest warning. The deepest danger is not crude destruction but the death of metaphysical hunger, the loosening of happiness from freedom, and the rise of the `Last Man` with technically producible art.
+- No new glossary entries are earned beyond the new evidence on `erdgeistig`. `Gestell`, `higher man`, and `Last Man` are all under real pressure, but still local.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§97-99`
+- extend `erdgeistig` with a new evidence point from `§97`
+- extend `thread:time-crisis` through `§97`, where the world becomes clockwork and technique is treated as scenery or `Gestell`
+- extend `thread:time-crisis` through `§99`, where technical perfection threatens to detach art and happiness from freedom
+
+## 2026-04-02 — Substance-Surrender, Credit, and the Terrible Interplay at the Time Wall
+
+Translated `§§100-102` under `parts/34-siderische-einteilungen.md`.
+
+This batch closes the first account of `Substanzabgabe` in Part 4 and binds it directly to the book's title image. `§100` argues that the surrender is real not because nothing is gained, but because what is gained in power, technical splendor, and representative force is not equivalent in value to what is yielded. `§101` then treats unease as evidence rather than sentiment: the absent countervalue means we remain creditors. `§102` gathers the whole argument at the time wall, where monotony robs within historical space while future things knock from the transhistorical.
+
+Working observations:
+
+- `§100` is the structural center. The strongest line is not about nihilism but about investment: substance has been surrendered and invested into concentrated power, homogeneity, and a representational splendor that even critics cannot escape.
+- `§100` also gives `So-Sein` a new kind of pressure. Equality no longer remains at the juridical surface but presses into inner `So-Sein`, producing conductive, inducible, magnetizable stocks. That earns a real new evidence point for the glossary pair.
+- `§101` matters because it sharpens the accounting logic without collapsing into economics. `Gutschrift`, `Gläubiger`, and `Gegenwert` make the loss legible as an unsettled claim. The discomfort is necessary because it indicates that the account has not closed.
+- `§102` is the strongest internal pressure on the title since `§48`. The `furchtbare Wechselspiel an der Zeitmauer` defines the boundary dynamically rather than pictorially: monotony strips away within history while the transhistorical knocks from outside it.
+- `§102` also gathers several Part 4 motifs at once: `Initiationswehe`, the whistle of the mechanical workshop, monotony, fear, the hoped-for and feared outside, and the unreceipted part of the surrender. The title-image now carries exchange, debt, and accumulation, not only threshold and danger.
+- No new glossary entries are earned. The real gains are one new evidence point for `Da-Sein / So-Sein` and one for `An der Zeitmauer`.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§100-102`
+- extend `Da-Sein / So-Sein` with a new evidence point from `§100`
+- extend `An der Zeitmauer` with a second internal evidence point from `§102`
+- extend `thread:time-crisis` through `§100`, where equality penetrates inner `So-Sein` and substance-loss becomes an invested political-technical process
+- extend `thread:time-crisis` through `§102`, where the terrible interplay at the time wall defines how historical monotony and transhistorical approach belong together
+
+## 2026-04-02 — Initiation, Astrological Method, and Geological Great Years
+
+Translated `§§103-105` under `parts/35-siderische-einteilungen.md`.
+
+This batch turns the sidereal argument from unsettled account into lived passage and widened scale. `§103` insists that crisis has to be undergone: initiation includes emptying-out, dying, the zero point, and passage over the line and through the time wall. `§104` then says the great cut may exceed ordinary world-history even if not absolute, and it gives astrology new weight as the model of a superior method rather than as dogma. `§105` pushes the same question into geology, where catastrophe and development are both `right` depending on the scale and perceptibility of the transition.
+
+Working observations:
+
+- `§103` is the structural center. The strongest line is the explicit one: the way leads over the line, over the time wall, and through it. This is the title-image no longer as a boundary merely seen or sensed, but as a passage that must be crossed.
+- `§103` also matters because of the `geweißt / geweiht` field. The house is whitewashed, the grave is whitewashed, and death must have hallowed the house. The section is not dramatizing emptiness for its own sake; it is preparing consecrated vacancy for what is to come.
+- `§104` is the methodological hinge. Astrology is reintroduced not because its doctrine is taken literally, but because it gives the model of a procedure that measures while remaining related to metaphysical qualities. The charge against historical and scientific method is now said openly as a lack of `Synoptik`.
+- `§105` broadens the whole inquiry. Once the cut is asked geologically, the question becomes not only whether catastrophe occurs but on what scale and with what visibility. The invisible catastrophe becomes as important as the spectacular one.
+- `§105` also reactivates an older concern from the project's method side: the loss of the eye for connections, the displacement of harmonious theories by mechanistic ones, and the impossibility of a work like Humboldt's `Kosmos`.
+- No new glossary entries are earned. The real gain is a new evidence point for `An der Zeitmauer`, plus a stronger articulation of what `Siderische Einteilungen` is actually doing.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§103-105`
+- extend `An der Zeitmauer` with another internal evidence point from `§103`
+- extend `thread:time-crisis` through `§103`, where crisis becomes passage through the wall rather than mere approach to it
+- extend `thread:time-crisis` through `§104`, where astrology is named as the model of a synoptic procedure superior to ordinary historical and scientific method
+- extend `thread:time-crisis` through `§105`, where the cut is widened into geological epochs, great years, and nearly invisible partial catastrophes
+
+## 2026-04-02 — New Types, Geological Disquiet, and the Treasure of Ice
+
+Translated `§§106-108` under `parts/36-siderische-einteilungen.md`.
+
+This batch carries the widened cut into explicitly geological and climatic registers. `§106` argues that `catastrophe` is already a one-sided naming because it emphasizes death and downfall over their equivalent, the entry of what is coming in. `§107` then makes geological disquiet itself the real signal, one that precedes instruments and findings. `§108` closes with ice as a measurable case where gain and loss must still be read within a wider cosmic economy.
+
+Working observations:
+
+- `§107` is the structural center. The strongest move is the reversal of explanatory order: refined instruments do not create the unrest, they organize it. Geological disquiet is prior to its findings.
+- `§106` matters because it rebalances the whole catastrophe vocabulary. The entrance and spread of new types are said to be linked with the more or less visible catastrophes that opened the door to them. The cut is therefore not merely destructive but style-forming.
+- `§106` also keeps the positional language alive: `struggle for life` is treated as secondary symptom, preceded by a gain of position. That keeps the argument from collapsing into Darwinian competition.
+- `§107` is one of the strongest method sections in Part 4. Nietzsche's `seismographic existence`, Goethe's sensing of Messina, Bloy's paradoxical finger-pointing, and the claim that the apparatuses are `feelers` all put priority back on purified perception.
+- `§108` matters because it shows how measured gain remains double. Climate improvement, resettlement, and arable land do not settle the account; they may be offset elsewhere, and the ice itself is treated as treasure within a cosmic economy rather than dead stock.
+- No new glossary entries are earned. The real gain is a further extension of `Siderische Einteilungen` into geological embedding, seismographic unrest, and measured climate-shift without abandoning the wider metaphysical frame.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§106-108`
+- extend `thread:time-crisis` through `§106`, where catastrophe is rebalanced by the entry of new types and new world-style
+- extend `thread:time-crisis` through `§107`, where geological disquiet is prior to apparatus and objective finding
+- extend `thread:time-crisis` through `§108`, where measurable climate gain is still subordinated to a larger cosmic economy
+
+## 2026-04-02 — Great Winters, World-Plan, and the Geometry of Progression
+
+Translated `§§109-111` under `parts/37-siderische-einteilungen.md`.
+
+This batch moves the sidereal-geological argument from climate and unrest into harmony, world-plan, and formal signatures of terrestrial transformation. `§109` tests geological unease by reversing the example and asking whether even a new ice age might be a stroke of luck when judged dynamically. `§110` then gives the real hinge: above death stands harmony, and human and state plans are bounded by larger ones. `§111` closes by returning to the measurable field, where progression shows itself in the changing face of the earth and in the spread of angle and row.
+
+Working observations:
+
+- `§110` is the structural center. The strongest claim is that the human plan is enclosed by a greater one and corrected within it. This is the clearest `Weltplan` passage since the Spengler critique.
+- `§110` also matters because it distinguishes `Schöpfungsplan` and `Weltplan` without separating them. The first gives the enclosing and judging frame, the second names the boundless plan within which state and human plans overrun the historical field and receive new alignment.
+- `§109` is not just an excursus on climate. It sharpens the question of `Glück` by making happiness historically layered and prehistorically remembered. The southward turning toward happiness is treated as recognition rather than fantasy.
+- `§111` is the batch's formal counterweight to `§110`. After the language of harmony and plan it shows how progression appears in measurable signs: altered coloration of the earth, retreat of wilderness, and especially the spread of angle and row as the marks of conquered measure-power.
+- `§111` also exploits `Vermessen` in its double sense. Surveying increases, but so does overreaching. That lets the measurable field carry a moral and civilizational charge without leaving the concrete.
+- No new glossary entries are earned beyond one added `Weltplan` evidence point. The main gains are one stronger world-plan chain and three new section anchors.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§109-111`
+- extend `Weltplan` with a new evidence point from `§110`
+- extend `thread:time-crisis` through `§109`, where glaciation, happiness, and world-style are forced into one frame
+- extend `thread:time-crisis` through `§110`, where the world-plan corrects and redirects the human and state plans beyond the historical field
+- extend `thread:time-crisis` through `§111`, where progression becomes visible as altered earth-color, diminishing wilderness, and the geometry of angle and seriality
+
+## 2026-04-02 — Right Angle, Faustian Plan, and Geology Beyond the Wall
+
+Translated `§§112-114` under `parts/38-siderische-einteilungen.md`.
+
+This batch carries the measurable signatures of progression into a direct methodological problem. `§112` sharpens angle and row into the right angle, the rectangle, the cadastral sheet, and the destruction of nests by the Faustian plan. `§113` then says the real unrest has less to do with lost historical stock than with changes threatening that plan itself. `§114` makes the decisive split explicit: whether human plan-induced changes belong to geology is answered differently on this side and beyond the time wall.
+
+Working observations:
+
+- `§114` is the structural center. The title now governs the method directly: geology, earth-history, and human freedom are arranged differently depending on the side of the wall from which the inquiry proceeds.
+- `§112` matters because the progression visible in `§111` hardens here into the right angle and its world: room, city-plan, cadastral sheet, and the replacement of nests by planned order. Faust and Philemon-Baucis make the conflict civilizational rather than merely geometric.
+- `§113` sharpens antaean unrest. The deepest mistrust is not nostalgic loss of historical stock but the sense that the Faustian plan is itself threatened, and that even theories of moving earth-crust become thinkable only once property, boundary, and security are doubtful `from the ground up.`
+- `§114` also justifies the widening method. Geology and biology overlap, the world-city is legible like a coral reef, and the sciences are shown as partitions of knowledge that interlock rather than remain sealed.
+- No new glossary entries are earned beyond a new evidence point for `An der Zeitmauer`. The main gains are three new anchors and a sharper sense that Part 4 is asking when the human plan itself becomes geological.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§112-114`
+- extend `An der Zeitmauer` with a new internal evidence point from `§114`
+- extend `thread:time-crisis` through `§112`, where angle hardens into the right angle and the cadastral order of the Faustian plan
+- extend `thread:time-crisis` through `§113`, where geological mistrust threatens the Faustian plan and makes property, boundary, and security doubtful from the ground up
+- extend `thread:time-crisis` through `§114`, where geology, history, and freedom are explicitly said to be answered differently on this side and beyond the time wall

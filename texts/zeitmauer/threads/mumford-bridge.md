@@ -11,7 +11,7 @@ Mumford and Jünger converge on the same problem from opposite directions.
 - Mumford diagnoses clock-time historically: the clock makes time divisible, fungible, exchangeable.
 - Jünger diagnoses it metaphysically: measurable time crowds out `Schicksalszeit`.
 
-The overlap becomes concrete in `zm:15:titanic-record`, where the `Titanic`, the record, and clock-measured performance expose the failure of the plan and the violence of abstract time.
+The overlap becomes concrete in `zm:15:titanic-record`, where the `Titanic`, the record, and clock-measured performance expose the failure of the plan and the violence of abstract time. It widens again in `zm:70:projected-spirit`, where technique is no longer treated as mere external machinery but as projected spirit, moving from limb-prosthesis toward the imitation of central powers. It widens once more in `zm:87:titanic-model`, where the `Titanic` returns not as one disaster among others but as a standing model of technical catastrophe and civilizational plan-failure without counterweight.
 
 ## Why This Matters
 
@@ -20,6 +20,8 @@ The point is not to translate Jünger through Mumford. The point is to keep visi
 Useful path:
 
 - `zm:15:titanic-record`
+- `zm:87:titanic-model`
+- `zm:70:projected-spirit`
 - `thread:time-crisis`
 - `note:journal:mumford-bridge`
 

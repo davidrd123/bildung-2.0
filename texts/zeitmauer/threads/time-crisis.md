@@ -20,6 +20,36 @@ The main thread so far in `texts/zeitmauer`: the collision between measurable ti
 - `zm:48:zeitmauer` names the threshold directly: beyond the time wall the future begins to outline itself, and naming that zone becomes dangerous.
 - `zm:51:namenlos` extends the threshold into a naming crisis: future things are visible before historically binding words can catch them.
 - `zm:54:lichtfrage` clarifies that the threshold is not simple mythic return; the issue is a changed light and the approach of a new order.
+- `zm:56:bruchstelle` extends the fracture into discovery itself: prehistoric visibility becomes a symptom of where we stand in time.
+- `zm:63:erdheimat` extends the crisis into boundary and earth-order: blood-toll, weakened borders, and technique belong to a changing nomos of the earth.
+- `zm:67:erdgeistig` extends the crisis into earth-spiritual force and species-level threat: technique, recurrence, and catastrophe now exceed merely historical categories.
+- `zm:70:projected-spirit` extends the crisis into technology itself: the decisive threshold is no longer limb-prosthesis but the imitation of nervous and geistige powers.
+- `zm:71:planetary-aura` extends the crisis to planetary scale: the new skin of signals and messages is read as a metahistorical stage of earth-spiritualization.
+- `zm:76:moses-bruchstelle` extends the crisis back through revelation: metahistorical time-division is now named explicitly as a means of judging the present.
+- `zm:82:urgrund` extends the crisis into fear, state doctrine, and materialism: the farther view opens only if thought descends into the deepest ground of matter.
+- `zm:85:axis` extends the crisis to cosmic scale: even the eternally rolling wheel demands an axis, a body, and limits to time.
+- `zm:88:archimedean-point` extends the crisis into modern doom itself: once catastrophe is tied to human work alone, moralism circles helplessly unless a transcendental point is regained.
+- `zm:89:intensive-solution` answers the crisis at another scale: what cannot be solved extensively may still become intensively solvable for the individual.
+- `zm:92:burnable-house` extends the crisis into direct human agency: the world becomes a burnable house, and catastrophe is imagined as lying in human hands.
+- `zm:93:world-unity` extends the crisis into explicit planetary prognosis: unity, overstrain, and positional gain are future forms of one process rather than separate political options.
+- `zm:94:spaceflight` extends the crisis into planetary charge and transformed technique: spaceflight becomes an earth-historical sign and the worker's lighter, freer principle.
+- `zm:96:transhistorical-means` makes the mismatch explicit: the danger lies in transhistorical means being used historically, above all as material war.
+- `zm:97:clockwork-hour` extends the crisis into atmosphere itself: the world fills with clocks, becomes clockwork, and fear suspects that all are set to an hour.
+- `zm:99:last-man` extends the crisis into substance-loss: technical perfection threatens to detach happiness, freedom, and even art from metaphysical hunger.
+- `zm:100:substance-surrender` extends the crisis into social and political accounting: equality now penetrates inner `So-Sein`, and the loss appears as invested substance rather than mere nihilistic dwindling.
+- `zm:102:wechselspiel` crystallizes the title-image again: monotony robs within historical space while the transhistorical knocks from outside it, and the unreceipted part of the surrender accumulates at the time wall.
+- `zm:103:through-the-wall` crystallizes the passage-form of the crisis: initiation requires crossing the line, the wall, and death itself rather than merely reflecting on them.
+- `zm:104:astrological-model` extends the crisis into method directly: astrology is valued not as doctrine but as the model of a synoptic procedure that can keep measure and metaphysical quality together.
+- `zm:105:grossjahre` extends the crisis into geology and long duration: the cut may separate not just historical epochs but geological ones, and catastrophe can be partial, regional, and nearly invisible.
+- `zm:106:new-types` extends the crisis into entry and world-style: what appears as catastrophe has to be thought together with the entrance of new types and new harmonies.
+- `zm:107:geological-disquiet` crystallizes the priorness of unrest: geological findings do not create the disturbance but organize it, and the apparatuses are feelers.
+- `zm:108:cosmic-economy` extends the crisis into measurable climate-shift: gain and loss remain double, and ice itself belongs to a larger cosmic economy.
+- `zm:109:great-winter` extends the crisis into happiness and memory: glaciation itself may become a stroke of luck when judged dynamically, and climate carries prehistorical memory within human longing.
+- `zm:110:world-plan` crystallizes the plan-problem at a higher level: harmony stands above death, and human and state plans are corrected within the world-plan once they pass beyond the historical field.
+- `zm:111:angle` extends the crisis back into the measurable field: progression is visible in altered earth-color, diminishing wilderness, and the spread of angle and row as marks of conquered measure-power.
+- `zm:112:right-angle` extends the crisis into settlement-form itself: angle and row harden into the right angle, the rectangle, the cadastral sheet, and the destruction of nests by the Faustian plan.
+- `zm:113:faustian-plan` extends the crisis into ground-level mistrust: what is threatened is no longer only historical stock but the Faustian plan itself, with property, boundary, and security becoming doubtful from the ground up.
+- `zm:114:beyond-the-wall` crystallizes the methodological split: the question whether human plan-induced change belongs to geology is answered differently on this side and beyond the time wall.
 - `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.
 - `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.
 
@@ -44,6 +74,36 @@ Jünger's strategy is to lead the reader out of the apparently "occult" cases an
 - the future outlining itself beyond the `Zeitmauer` in `zm:48:zeitmauer`
 - the name-less future and the shrinking reservation of historical naming in `zm:51:namenlos`
 - the light-question and the non-return of mythic rule in `zm:54:lichtfrage`
+- the suspicious `Why now?` of prehistoric discovery in `zm:56:bruchstelle`
+- border-weakening, earth-home, and technique as earth-spiritualization in `zm:63:erdheimat`
+- `magisch` narrowed toward `erdgeistig`, with technique and species-threat folded in at `zm:67:erdgeistig`
+- prosthesis, nervous-system imitation, and technology as projected spirit in `zm:70:projected-spirit`
+- the planet's woven aura of messages and melodies in `zm:71:planetary-aura`
+- Moses at one of the great fracture points in `zm:76:moses-bruchstelle`
+- fear, judgment, and `Urgrund` in `zm:82:urgrund`
+- the axis behind the eternally rolling wheel and time's limits in `zm:85:axis`
+- moralism without an Archimedean point and the specter of technocracy in `zm:88:archimedean-point`
+- intensive solution beyond number and statistics in `zm:89:intensive-solution`
+- the world as burnable house in `zm:92:burnable-house`
+- world-unity, overstrain, and planetary political prognosis in `zm:93:world-unity`
+- spaceflight as earth-historical sign in `zm:94:spaceflight`
+- transhistorical means used historically in `zm:96:transhistorical-means`
+- the world as clockwork and the hour set in `zm:97:clockwork-hour`
+- the `Last Man` and technically producible art in `zm:99:last-man`
+- equality invading inner `So-Sein` and invested substance-loss in `zm:100:substance-surrender`
+- the terrible interplay at the time wall in `zm:102:wechselspiel`
+- crossing the wall itself in `zm:103:through-the-wall`
+- astrology as model of a superior synoptic procedure in `zm:104:astrological-model`
+- geological epochs and vast great years in `zm:105:grossjahre`
+- catastrophe and the entry of new types in `zm:106:new-types`
+- geological unrest prior to its instruments in `zm:107:geological-disquiet`
+- ice as hoarded treasure of the cosmic economy in `zm:108:cosmic-economy`
+- great winters, hominization, and the layered question of happiness in `zm:109:great-winter`
+- the correction of state and human plans within `Weltplan` in `zm:110:world-plan`
+- angle and serial ordering as signatures of measured progression in `zm:111:angle`
+- the right angle, the cadastral sheet, and the destruction of nests by the Faustian plan in `zm:112:right-angle`
+- the threatened Faustian plan and the doubt cast on property, boundary, and security in `zm:113:faustian-plan`
+- the geology-history overlap answered differently on this side and beyond the wall in `zm:114:beyond-the-wall`
 
 ## Commentary Use
 

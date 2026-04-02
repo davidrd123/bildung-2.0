@@ -85,3 +85,25 @@ python3 -m http.server
 ```
 
 Then open `/texts/zeitmauer/viewer/` in a browser.
+
+## Visual Candidates
+
+The translation journal now contains explicit `[visual candidate]` entries for
+diagrams that have been earned by the text. A lightweight Gemini generation
+tool lives at [`tools/vision.py`](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/tools/vision.py).
+
+List the current candidates:
+
+```bash
+python3 tools/vision.py --pretty list-candidates texts/zeitmauer
+```
+
+Generate a first-pass image from one of them:
+
+```bash
+python3 tools/vision.py --pretty edit "loom diagram of measurable and fateful time" --label warp-weft
+```
+
+Default outputs go to `texts/zeitmauer/visuals/out/`. See
+[`texts/zeitmauer/visuals/README.md`](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/README.md)
+for the workflow.
