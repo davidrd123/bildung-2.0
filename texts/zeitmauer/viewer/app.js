@@ -1,7 +1,9 @@
 const DATA_URL = "../source/ui-index.json";
+const KEEPERS_URL = "../visuals/keepers/keepers.json";
 
 const state = {
   data: null,
+  keepers: [],
   activeSection: null,
   activeTerm: null,
   activeThread: null,
@@ -28,6 +30,7 @@ const el = {
   termDetail: document.querySelector("#term-detail"),
   threadList: document.querySelector("#thread-list"),
   threadDetail: document.querySelector("#thread-detail"),
+  keeperGallery: document.querySelector("#keeper-gallery"),
   handleInspector: document.querySelector("#handle-inspector"),
 };
 
@@ -57,12 +60,40 @@ async function init() {
       throw new Error(`Could not load ${DATA_URL} (${response.status})`);
     }
     state.data = await response.json();
+    state.keepers = await loadKeepers();
     seedState();
     renderAll();
   } catch (error) {
     state.loadError = error;
     renderLoadError();
   }
+}
+
+async function loadKeepers() {
+  try {
+    const response = await fetch(KEEPERS_URL);
+    if (!response.ok) {
+      if (response.status === 404) {
+        return [];
+      }
+      throw new Error(`Could not load ${KEEPERS_URL} (${response.status})`);
+    }
+    const payload = await response.json();
+    return normalizeKeepers(payload);
+  } catch (error) {
+    console.warn("Could not load keepers gallery.", error);
+    return [];
+  }
+}
+
+function normalizeKeepers(payload) {
+  if (Array.isArray(payload)) {
+    return payload;
+  }
+  if (Array.isArray(payload?.items)) {
+    return payload.items;
+  }
+  return [];
 }
 
 function seedState() {
@@ -133,6 +164,7 @@ function renderAll() {
   renderTermDetail();
   renderThreadList();
   renderThreadDetail();
+  renderKeepers();
   renderInspector();
 }
 
@@ -157,6 +189,7 @@ function renderLoadError() {
   el.termDetail.innerHTML = "";
   el.threadList.innerHTML = "";
   el.threadDetail.innerHTML = "";
+  el.keeperGallery.innerHTML = "";
   el.handleInspector.innerHTML = "";
 }
 
@@ -168,6 +201,7 @@ function renderDatasetStats() {
     ["evidence", counts.evidence],
     ["threads", counts.threads],
     ["relations", counts.relations],
+    ["keepers", state.keepers.length],
   ];
 
   el.datasetStats.innerHTML = items
@@ -743,6 +777,107 @@ function renderThreadDetail() {
   `;
 }
 
+function renderKeepers() {
+  if (!state.keepers.length) {
+    el.keeperGallery.innerHTML = `<div class="empty-state">No promoted visuals yet.</div>`;
+    return;
+  }
+
+  el.keeperGallery.innerHTML = state.keepers.map(renderKeeperCard).join("");
+}
+
+function renderKeeperCard(item) {
+  const imageUrl = keeperImageUrl(item);
+  const title = keeperTitle(item);
+  const candidateSummary = keeperSummary(item);
+  const meta = keeperMeta(item);
+
+  return `
+    <article class="keeper-card">
+      <a
+        class="keeper-image-link"
+        href="${escapeAttr(imageUrl)}"
+        target="_blank"
+        rel="noreferrer"
+      >
+        <img
+          class="keeper-thumb"
+          src="${escapeAttr(imageUrl)}"
+          alt="${escapeAttr(title)}"
+          loading="lazy"
+        />
+      </a>
+      <div class="keeper-copy">
+        <h3>${escapeHtml(title)}</h3>
+        ${
+          item.note
+            ? `<p class="keeper-note">${escapeHtml(item.note)}</p>`
+            : ""
+        }
+        ${
+          candidateSummary
+            ? `<p class="keeper-summary">${escapeHtml(candidateSummary)}</p>`
+            : ""
+        }
+        <div class="artifact-meta">${escapeHtml(meta)}</div>
+      </div>
+    </article>
+  `;
+}
+
+function keeperImageUrl(item) {
+  const relativePath = item?.keeper?.relativePath ?? "";
+  const encodedPath = relativePath
+    .split("/")
+    .map((part) => encodeURIComponent(part))
+    .join("/");
+  return `../visuals/keepers/${encodedPath}`;
+}
+
+function keeperTitle(item) {
+  const candidateText = item?.candidate?.text?.trim();
+  if (!candidateText) {
+    return humanizeSlug(item.slug ?? "untitled keeper");
+  }
+
+  const sentence = candidateText.match(/^(.{1,120}?[.!?])(?:\s|$)/)?.[1] ?? candidateText;
+  return sentence.replace(/[.!?]+$/, "");
+}
+
+function keeperSummary(item) {
+  const candidateText = item?.candidate?.text?.trim();
+  if (!candidateText) {
+    return "";
+  }
+
+  const title = keeperTitle(item);
+  if (candidateText === title || candidateText === `${title}.`) {
+    return "";
+  }
+
+  return truncateText(candidateText, 220);
+}
+
+function keeperMeta(item) {
+  const pieces = [];
+
+  if (item?.candidate?.ref) {
+    pieces.push(shortCandidateRef(item.candidate.ref));
+  }
+
+  if (item?.promotedAt) {
+    pieces.push(`promoted ${formatDate(item.promotedAt)}`);
+  }
+
+  return pieces.join(" · ");
+}
+
+function shortCandidateRef(ref) {
+  const [path, line] = String(ref).split(":");
+  const shortPath = path.split("/").slice(-2).join("/");
+  return line ? `${shortPath}:${line}` : shortPath;
+}
+
 function renderThreadDocument(thread) {
   if (!thread?.content) {
     return `<div class="empty-state">No thread dossier content has been exported yet.</div>`;
@@ -975,6 +1110,33 @@ function formatInline(text) {
 function firstSentence(text) {
   const sentence = splitParagraphs(text)[0] ?? "";
   return sentence.length > 210 ? `${sentence.slice(0, 207)}...` : sentence;
+}
+
+function truncateText(text, limit) {
+  const value = String(text ?? "").trim();
+  if (!value || value.length <= limit) {
+    return value;
+  }
+  return `${value.slice(0, limit - 3).trimEnd()}...`;
+}
+
+function humanizeSlug(value) {
+  return String(value ?? "")
+    .replace(/[-_]+/g, " ")
+    .replace(/\s+/g, " ")
+    .trim();
+}
+
+function formatDate(value) {
+  const date = new Date(value);
+  if (Number.isNaN(date.getTime())) {
+    return String(value);
+  }
+  return date.toLocaleDateString(undefined, {
+    year: "numeric",
+    month: "short",
+    day: "numeric",
+  });
 }
 
 function escapeHtml(value) {

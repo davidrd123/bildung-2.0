@@ -50,6 +50,21 @@ The main thread so far in `texts/zeitmauer`: the collision between measurable ti
 - `zm:112:right-angle` extends the crisis into settlement-form itself: angle and row harden into the right angle, the rectangle, the cadastral sheet, and the destruction of nests by the Faustian plan.
 - `zm:113:faustian-plan` extends the crisis into ground-level mistrust: what is threatened is no longer only historical stock but the Faustian plan itself, with property, boundary, and security becoming doubtful from the ground up.
 - `zm:114:beyond-the-wall` crystallizes the methodological split: the question whether human plan-induced change belongs to geology is answered differently on this side and beyond the time wall.
+- `zm:115:layer-forming` extends the crisis into stratigraphy itself: man becomes layer-forming and layer-determining, and the transition is said to lie at the time wall.
+- `zm:116:mass-revolution` extends the crisis into demography and labor: mass increase and even mass revolution are treated as signs of a deeper common process rather than as simple effects of machine-technology.
+- `zm:117:urgrund-workman` crystallizes the deepest register yet: `Urgrund` returns as earth-power, and human work becomes a possible medium of world-spiritualization.
+- `zm:118:earth-sense` extends the crisis into the earth-sense of human activity itself: man spiritually penetrates the layer he forms, and `Urgrund` is explicitly preferred to `Weltgeist` as the deeper register.
+- `zm:119:new-freedom` crystallizes the freedom problem at the wall: beyond the line and beyond the time wall, compulsion and freedom can invert, and new fields of freedom begin to widen.
+- `zm:120:spiritual-sovereignty` extends the crisis into the rare individual case: spiritual sovereignty is exacting, non-activist, and bound to inspection, declaration, and rightful letting-pass.
+- `zm:121:volunteers` extends the crisis into voluntariness itself: time-boundaries exact freedom in motion, while the good cause stays invisible and spiritual freedom remains a different register.
+- `zm:122:fifth-element` extends the crisis into the elements and the laboratory: acceleration conceals a flight tendency, experiment enters the geological and cosmic household, and overreach becomes epochal.
+- `zm:123:meteorological-augur` crystallizes the crisis as daily planetary science: meteorology becomes the most sensitive unrest and restores the augur-function within technical knowledge.
+- `zm:124:lightning-rod` extends the crisis into electrification: the lightning rod becomes an earth-historical sign, and electricity opens a new dynamic age through subtle invisible ordering.
+- `zm:125:identity-process` crystallizes the crisis at the deepest interior point so far: matter's self-liberation and man's self-knowledge are posed together as a seam-point task at the wall.
+- `zm:126:franklin` extends the crisis into tragic disproportion: new ages enter through weak points, hidden fields, and meager advance forms before historical understanding can justify them.
+- `zm:127:first-organ` extends the crisis into the electrical body itself: the lightning rod becomes first organ, and the globe-spanning web of wires and antennas begins to resemble nerves and senses.
+- `zm:128:invisible-democracy` crystallizes the crisis politically: visible democracy hides a more compelling invisible one, where world-opinion and world-will move under the world-plan.
+- `zm:129:night-view` extends the crisis methodologically: measurable electrical facts are only examples, while the real unrest comes from a mechanized night-view that reaches too little of reality.
 - `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.
 - `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.
 
@@ -104,6 +119,21 @@ Jünger's strategy is to lead the reader out of the apparently "occult" cases an
 - the right angle, the cadastral sheet, and the destruction of nests by the Faustian plan in `zm:112:right-angle`
 - the threatened Faustian plan and the doubt cast on property, boundary, and security in `zm:113:faustian-plan`
 - the geology-history overlap answered differently on this side and beyond the wall in `zm:114:beyond-the-wall`
+- the human as layer-forming and layer-determining being at the wall in `zm:115:layer-forming`
+- mass increase and mass revolution as epochal symptoms in `zm:116:mass-revolution`
+- `Urgrund` as earth-power taking man as workman in `zm:117:urgrund-workman`
+- the earth-sense of human activity and the deliberate choice of `Urgrund` over `Weltgeist` in `zm:118:earth-sense`
+- new freedom widening beyond the line and beyond the wall in `zm:119:new-freedom`
+- spiritual sovereignty as exactness, inspection, and declaration in `zm:120:spiritual-sovereignty`
+- voluntariness, invisible cause, and time-boundaries in `zm:121:volunteers`
+- flight tendency toward a fifth element and experiment in the geological and cosmic household in `zm:122:fifth-element`
+- meteorology as daily planetary science and restored augur-function in `zm:123:meteorological-augur`
+- the lightning rod as earth-historical sign and electrification as invisible ordering in `zm:124:lightning-rod`
+- the seam-point of matter's self-liberation and man's self-knowledge in `zm:125:identity-process`
+- Franklin, hidden city-fields, and the tragedy of weak heralds in `zm:126:franklin`
+- the lightning rod as first organ and the electrical web as nerve-like spiritualization in `zm:127:first-organ`
+- invisible democracy, world-opinion, and world-will under `Weltplan` in `zm:128:invisible-democracy`
+- the mechanized night-view and the demand for a fuller ensouled recognition of nature in `zm:129:night-view`
 
 ## Commentary Use
 

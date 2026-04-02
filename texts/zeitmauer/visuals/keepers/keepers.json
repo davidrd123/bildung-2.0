@@ -1,0 +1,137 @@
+{
+  "items": [
+    {
+      "promotedAt": "2026-04-02T16:05:26-07:00",
+      "slug": "line-circle-spiral-32",
+      "note": "Top-ranked minimal anchor diagram; exact line-circle-spiral reading.",
+      "keeper": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/keepers/line-circle-spiral-32.png",
+        "relativePath": "line-circle-spiral-32.png"
+      },
+      "sourceImage": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/out/2026-04-01/line-circle-spiral_002.png"
+      },
+      "candidate": {
+        "ref": "texts/zeitmauer/journal.md:345",
+        "path": "texts/zeitmauer/journal.md",
+        "line": 345,
+        "slug": "line-circle-spiral-32",
+        "text": "Line / circle / spiral (\u00a732). J\u00fcnger's three models of world-time. The simplest diagram in the set \u2014 a literal line, circle, and spiral \u2014 but worth having for the viewer because it anchors the Part 3 argument visually."
+      }
+    },
+    {
+      "promotedAt": "2026-04-02T16:05:27-07:00",
+      "slug": "the-evidence-chain-for-term",
+      "note": "Top-ranked evidence-chain image; preserves distinct registers and load markings.",
+      "keeper": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/keepers/the-evidence-chain-for-term.png",
+        "relativePath": "the-evidence-chain-for-term.png"
+      },
+      "sourceImage": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/out/2026-04-01/schicksalszeit-chain_002.png"
+      },
+      "candidate": {
+        "ref": "texts/zeitmauer/journal.md:344",
+        "path": "texts/zeitmauer/journal.md",
+        "line": 344,
+        "slug": "the-evidence-chain-for-term",
+        "text": "The evidence chain for term:schicksalszeit. A timeline or graph showing the four confirmations (zm:4 compound, zm:9 liturgical, zm:13 cosmological, zm:20 tragic) each in a different register. Shows how the same rendering was tested under different loads."
+      }
+    },
+    {
+      "promotedAt": "2026-04-02T16:05:28-07:00",
+      "slug": "the-section-map-as-architecture",
+      "note": "Most complete five-zone architectural mapping, despite label clutter.",
+      "keeper": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/keepers/the-section-map-as-architecture.png",
+        "relativePath": "the-section-map-as-architecture.png"
+      },
+      "sourceImage": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/out/2026-04-01/section-map-architecture_001.png"
+      },
+      "candidate": {
+        "ref": "texts/zeitmauer/journal.md:346",
+        "path": "texts/zeitmauer/journal.md",
+        "line": 346,
+        "slug": "the-section-map-as-architecture",
+        "text": "The section map as architecture. The five parts of *An der Zeitmauer* shown as a building or landscape: Fremde V\u00f6gel as porch, Me\u00dfbare und Schicksalszeit as first hall, Humane Einteilungen as central space, Siderische Einteilungen as observatory, Urgrund und Person as foundation. This is speculative but J\u00fcnger's own architectural vocabulary (houses, chambers, vestibules, windows, walls) invites it."
+      }
+    },
+    {
+      "promotedAt": "2026-04-02T16:05:29-07:00",
+      "slug": "the-reversed-herodotus",
+      "note": "Best symbolic plate for the reversed-Herodotus threshold image.",
+      "keeper": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/keepers/the-reversed-herodotus.png",
+        "relativePath": "the-reversed-herodotus.png"
+      },
+      "sourceImage": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/out/2026-04-01/reversed-herodotus_001.png"
+      },
+      "candidate": {
+        "ref": "texts/zeitmauer/journal.md:567",
+        "path": "texts/zeitmauer/journal.md",
+        "line": 567,
+        "slug": "the-reversed-herodotus",
+        "text": "The reversed Herodotus"
+      }
+    },
+    {
+      "promotedAt": "2026-04-02T16:05:30-07:00",
+      "slug": "three-thread-convergence-diagram",
+      "note": "Best full convergence image when judged against the fuller journal prompt.",
+      "keeper": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/keepers/three-thread-convergence-diagram.png",
+        "relativePath": "three-thread-convergence-diagram.png"
+      },
+      "sourceImage": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/out/2026-04-01/three-thread-convergence_001.png"
+      },
+      "candidate": {
+        "ref": "texts/zeitmauer/journal.md:440",
+        "path": "texts/zeitmauer/journal.md",
+        "line": 440,
+        "slug": "three-thread-convergence-diagram",
+        "text": "Three-thread convergence diagram"
+      }
+    },
+    {
+      "promotedAt": "2026-04-02T16:05:30-07:00",
+      "slug": "vertebrae-diagram",
+      "note": "Best of the vertebrae set under the fuller masking-sequence brief.",
+      "keeper": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/keepers/vertebrae-diagram.png",
+        "relativePath": "vertebrae-diagram.png"
+      },
+      "sourceImage": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/out/2026-04-01/vertebrae-time_002.png"
+      },
+      "candidate": {
+        "ref": "texts/zeitmauer/journal.md:490",
+        "path": "texts/zeitmauer/journal.md",
+        "line": 490,
+        "slug": "vertebrae-diagram",
+        "text": "Vertebrae diagram"
+      }
+    },
+    {
+      "promotedAt": "2026-04-02T16:05:31-07:00",
+      "slug": "the-warpweft-model",
+      "note": "Most concept-explicit warp/weft image; keep as a pedagogical version, not a final plate.",
+      "keeper": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/keepers/the-warpweft-model.png",
+        "relativePath": "the-warpweft-model.png"
+      },
+      "sourceImage": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/zeitmauer/visuals/out/2026-04-01/warp-weft_002.png"
+      },
+      "candidate": {
+        "ref": "texts/zeitmauer/journal.md:343",
+        "path": "texts/zeitmauer/journal.md",
+        "line": 343,
+        "slug": "the-warpweft-model",
+        "text": "The warp/weft model. Measurable time as warp (regular, structural), fateful time as weft (irregular, pattern-making). The fabric only exists where both meet. A simple loom diagram with \u00a7\u00a76/14/20/22/25/28 as the sections where the weft-thread enters."
+      }
+    }
+  ]
+}

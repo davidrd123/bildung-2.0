@@ -1050,3 +1050,118 @@ Decisions:
 - extend `thread:time-crisis` through `§112`, where angle hardens into the right angle and the cadastral order of the Faustian plan
 - extend `thread:time-crisis` through `§113`, where geological mistrust threatens the Faustian plan and makes property, boundary, and security doubtful from the ground up
 - extend `thread:time-crisis` through `§114`, where geology, history, and freedom are explicitly said to be answered differently on this side and beyond the time wall
+
+## 2026-04-02 — Layer-Forming Humanity, Mass Revolution, and Urgrund as Earth-Power
+
+Translated `§§115-117` under `parts/39-siderische-einteilungen.md`.
+
+This batch turns the geological-methodological question into one about the human layer itself. `§115` argues that the transition at the time wall begins when man is found not only in a layer but as a layer-forming, layer-determining being. `§116` then reads population growth and mass revolution less as effects of machine technology than as parallel symptoms of a third common process. `§117` carries the argument into two possible meanings of spiritualization, culminating in `Urgrund` as earth-power taking man into service.
+
+Working observations:
+
+- `§117` is the structural center. The decisive move is that spiritualization can be imagined either as an artistic weaving-out of matter's hidden potency or as an earth-power that seizes man as its workman. That is one of the strongest `Urgrund` passages in the translated range so far.
+- `§115` matters because it gives the title another strong internal pressure point. The exit from the historical field lies at the time wall where man becomes layer-forming and layer-determining, and historical places sink to `knottings` and primary stages.
+- `§115` also sharpens the excavation problem. `Ausgrabung` and `Grabung` are not variants but different acts: one historical and interhuman, the other paleontological and often accidental.
+- `§116` reverses the easy machine-causality. Mass increase and even the beginnings of mass revolution are treated as prior or parallel signs rather than simple consequences of the steam engine.
+- `§117` keeps the textile logic alive inside a new register. The first model of spiritualization is explicitly one of weaving hidden potency into world-style, while the second model shifts from weaving to seizure and service.
+- No new glossary entries are earned beyond new evidence points for `An der Zeitmauer` and `Urgrund`. The main gains are three new anchors and a clearer sense that Part 4 is now treating humanity as geological symptom, geological agent, and possible medium of world-spiritualization.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§115-117`
+- extend `An der Zeitmauer` with a new internal evidence point from `§115`
+- extend `Urgrund` with a new evidence point from `§117`
+- extend `thread:time-crisis` through `§115`, where the human becomes a layer-forming being and the transition lies at the time wall
+- extend `thread:time-crisis` through `§116`, where mass increase and mass revolution are treated as epochal symptoms rather than simple machine-effects
+- extend `thread:time-crisis` through `§117`, where `Urgrund` returns as earth-power and world-spiritualization becomes the deepest available explanatory frame
+
+## 2026-04-02 — Earth-Sense, New Freedom, and Spiritual Sovereignty
+
+Translated `§§118-120` under `parts/40-siderische-einteilungen.md`.
+
+This batch carries the human-geological argument into the problem of earth-sense, new freedom, and rare sovereignty. `§118` takes up the second subquestion directly, the earth-sense of human activity, and uses it to sharpen `Urgrund` against `Weltgeist.` `§119` then moves the wall-image into the freedom problem: beyond the line and beyond the time wall, compulsion and freedom can change places. `§120` closes by narrowing the field to the rare case of spiritual sovereignty and the exactness of letting things pass only after they have been seen and declared.
+
+Working observations:
+
+- `§118` is the structural center. The decisive move is not only the return of `Urgrund`, but the explicit explanation of why that word is being chosen over `Weltgeist`: the new register must be less progressive, less anthropocentric, and more adequate to nature- and earth-history.
+- `§118` also matters because it splits the human geology problem in two. Man is both layer-forming and the first living being that spiritually penetrates his own layer through digging, excavation, curiosity, and response from the ground he touches.
+- `§119` gives the title one of its strongest freedom-passages so far. Beyond the line and beyond the time wall, what is now endured as compulsion can be felt as freedom, and the points and surfaces of new freedom are said to be expanding.
+- `§120` refuses to sentimentalize independence. Spiritual sovereignty is rare, non-revolutionary, and closer to inspection, declaration, and rightful letting-pass than to noise about freedom.
+- No new glossary entries are earned beyond new evidence points for `Urgrund` and `An der Zeitmauer`. The main gains are three new anchors and a clearer sense that Part 4 is now pressing from geology into freedom, sovereignty, and invisible prejudice.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§118-120`
+- extend `Urgrund` with a new evidence point from `§118`
+- extend `An der Zeitmauer` with a new internal evidence point from `§119`
+- extend `thread:time-crisis` through `§118`, where earth-sense, human layer-penetration, and the deliberate choice of `Urgrund` sharpen the deep register of the part
+- extend `thread:time-crisis` through `§119`, where freedom and compulsion invert beyond the line and beyond the time wall
+- extend `thread:time-crisis` through `§120`, where spiritual sovereignty appears as rare exactness rather than activism or moral posturing
+
+## 2026-04-02 — Voluntariness, Antaean Flight, and Meteorology as Augury
+
+Translated `§§121-123` under `parts/41-siderische-einteilungen.md`.
+
+This batch carries the sidereal register from freedom and sovereignty into voluntariness, element-mistrust, and meteorology as planetary science. `§121` insists that an age may live by its volunteers while voluntariness still remains distinct from spiritual freedom and draws from trust in an invisible good cause rather than from insight. `§122` then reads acceleration as a flight tendency away from the classical elements and treats experimental overreach into the geological and cosmic household as an epochal sign. `§123` closes by making meteorology the most sensitive daily form of antaean unrest and by restoring the augur-function inside a fully technical science.
+
+Working observations:
+
+- `§122` is the structural center. The decisive move is that man is frightened chiefly by the consequences of his own activity, knows it, could stop, and yet sends means and energies precisely to the hotspots. The section treats that not as a merely human failing but as an epochal sign.
+- `§121` matters because it sharply distinguishes `Freiwilligkeit` from spiritual freedom. The age lives by its volunteers, yet voluntariness presupposes cession, trust, invisibility, and belief. The `good cause` cannot become fully visible without ceasing to be what it is.
+- `§121` also matters because it keeps freedom mobile and uneven. At the bottlenecks and time-boundaries freedom is exacted by fate and its lesser controllers, while the salmon image makes ascent legible as passage into another freedom rather than simple loss.
+- `§123` makes meteorology methodologically important. The meteorologist enters the role of the augur, and weather science becomes exemplary because it belongs to the earth as such, depends on a planetary system, and yet remains immediately practical.
+- No new glossary entries are earned. The main gains are three new anchors and a clearer extension of `Siderische Einteilungen` into voluntariness, technical flight, and earth-assigned science.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§121-123`
+- extend `thread:time-crisis` through `§121`, where voluntariness is split from spiritual freedom and time-boundaries exact motion
+- extend `thread:time-crisis` through `§122`, where antaean unrest becomes flight from the elements and experimental intervention in the geological and cosmic household
+- extend `thread:time-crisis` through `§123`, where meteorology becomes the most sensitive daily unrest and revives the augur-function within planetary science
+
+## 2026-04-02 — Lightning Rod, Electrification, and the Seam-Point of Matter
+
+Translated `§§124-126` under `parts/42-siderische-einteilungen.md`.
+
+This batch carries the sidereal register from meteorology into electrification, matter, and the subtle infrastructures of the new age. `§124` treats the first lightning rod as not only world-historical but earth-historical, mythologically a signal of titanic revolt and historically the threshold of a new dynamic age. `§125` then moves into electricity and radiation as finer domains than mere mechanics and makes one of the strongest method-claims in Part 4: the seam-point, even the identity, of human and material self-liberation is a task posed at the time wall. `§126` returns to Franklin and the city-field in order to show how epochal change enters through weak, cheap, and seemingly minor forms before historical understanding catches up.
+
+Working observations:
+
+- `§125` is the structural center. The decisive move is that matter is not only manipulated from outside; it undergoes something like self-knowledge and self-liberation alongside man. To grasp the seam-point, indeed the identity, of the two processes is said to be one of the tasks set at the time wall.
+- `§124` matters because it gives `erdgeschichtlich` a concrete datum. The lightning rod is declared earth-historical, not just world-historical, and this turns electrification into more than a technical innovation.
+- `§124` also sharpens the steam/electricity distinction. Steam is gross, visible, brutal, and immediately recognized as overturning; electricity enters quietly, binds with fine invisible threads, and becomes the better model for incorporation into the technical collective.
+- `§126` matters because it denies that what heralds a new age must look grand in itself. The new seeks the weakest points, often appears through cheap solutions and meager types, and therefore belongs as much to tragedy as to causal explanation.
+- The Mumford bridge widens naturally here. The problem is no longer only clock-time and the record, but electrification as invisible ordering, democratic incorporation, and the technical collective.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§124-126`
+- extend `erdgeschichtlich` with a new evidence point from `§124`
+- extend `thread:time-crisis` through `§124`, where the lightning rod becomes an earth-historical sign and electrification opens a new dynamic age
+- extend `thread:time-crisis` through `§125`, where matter's self-liberation and human self-knowledge meet at the time wall
+- extend `thread:time-crisis` through `§126`, where the new enters through weak points, hidden fields, and tragic disproportion
+- extend `thread:mumford-bridge` through `§124`, where electrification and the technical collective widen the historical-technical bridge beyond steam and clock-time
+
+## 2026-04-02 — First Organ, Invisible Democracy, and the Night-View
+
+Translated `§§127-129` under `parts/43-siderische-einteilungen.md`.
+
+This batch carries the electrical argument from the first organ of antaean unrest into politics and then into method. `§127` treats the lightning rod as an early bristling and lets the electrical web of wires, antennas, transmitters, and receivers grow into the earth's nervous system. `§128` then pushes the same logic into democracy, where invisible conductivity matters more than visible form and where the worker acts as layer-forming species under `Weltplan`. `§129` closes by making electricity only an analogy and by naming the present style of knowledge as a provisional, mechanized night-view of nature.
+
+Working observations:
+
+- `§128` is the structural center. The decisive move is that beneath visible democracy there is an invisible, more compelling one, and that the world-plan controls every social and state plan from behind for reasons closed even to the sharpest insight.
+- `§127` matters because it sharpens the muscle/nerve distinction inside technics. Steam and motor enter the muscular region; electricity enters the region of nerves, senses, transmission, and reception.
+- `§127` also matters because it treats the lightning rod not as an isolated trick but as the first stone in a globe-spanning mosaic, an earth increasingly overspun with wires and signals.
+- `§129` is the methodological hinge. Electricity is chosen only as analogy; the deeper complaint is that our life-image of plants and animals remains intolerably mechanized and that knowledge, like every titanic conception, is limited to a night-view that extracts only the portion of reality suited to it.
+- `§129` also brings the Goethe/Schelling/Fechner line back into force. The desired corrective is not mere additional data but a worthy intuition of earth-powers and an ensouled recognition of nature in its full extent.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§127-129`
+- extend `An der Zeitmauer` with a new internal evidence point from `§125`
+- extend `Weltplan` with a new evidence point from `§128`
+- extend `thread:time-crisis` through `§127`, where the lightning rod becomes first organ and the electrical web spiritualizes the technical world
+- extend `thread:time-crisis` through `§128`, where invisible democracy, world-opinion, and world-will appear under the world-plan
+- extend `thread:time-crisis` through `§129`, where the unrest is said to reach beneath standards and the mechanized night-view is exposed as provisional
+- extend `thread:goethe-leibniz-frame` through `§129`, where worthy intuition, ensoulment, and the critique of the titanically mechanized life-image become explicit
