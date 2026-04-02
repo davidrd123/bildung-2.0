@@ -351,3 +351,17 @@ The cross-project work exposed a real asymmetry: `Zeitmauer` and the `Exegesis` 
 So `source/handles.yaml` now exists, but in the smallest form that solves the actual problem. It maps the translated section ranges, defines the stable `es:<id>` handle scheme, and names a small evidence set for the aphorisms already carrying methodological or cross-project weight (`§2`, `§4`, `§110`, `§145`, `§297`, `§299`, `§306`, and a few others). No threads, no crosswalk tree, no UI layer. The point is to make the source addressable without repeating the over-architecture problem just pruned from `cross-project/`.
 
 This feels consistent with the text itself. If the fragment is the honest scale, then the handle layer should also stay fragmentary and earned. Extend it only when later reading generates pressure for more, not because every project must grow the same apparatus.
+
+---
+
+## 2026-04-02 — Volume I First Pass Complete
+
+The important clarification after sections 16–17 and the handle layer: `Escolios I` is no longer "mid-project" in the simple sequential sense. The current source file ends at `§499`, and the section run now reaches that end. So the first pass through the available volume is complete.
+
+That changes the kind of work that counts as primary here. "Keep going" no longer means adding `Section 18` inside the same source. It means either:
+
+- dwelling longer with the translated material already present
+- selectively thickening the load-bearing aphorisms when later work genuinely needs it
+- or extending the project only when another source volume is actually brought into the workspace
+
+This is a useful correction. The project was starting to look unfinished because it had not yet grown the kinds of auxiliary surfaces the other projects had. But the primary work on volume I is now substantial and real: `499` aphorisms translated, `17` section files, a journal with retrospective review notes, and a handle layer just large enough to make the source addressable. The right next discipline is not to fake forward motion by generating more architecture.

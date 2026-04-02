@@ -18,6 +18,16 @@ The wager here is not historical recovery for its own sake. The text is being re
 - `../../books/Gómez Dávila, N. - Escolios a un texto implícito I [ocr] [1977].pdf` — original scan
 - [Don Colacho's Aphorisms](https://don-colacho.blogspot.com/) — existing English translations for reference/comparison
 
+## Current Status
+
+The current source surface is `Escolios a un texto implícito I` only. The translated and annotated first pass now covers the full available volume:
+
+- `499` aphorisms
+- `17` section files
+- pages `11-126` of the 1977 volume
+
+So the immediate work is no longer extending section count inside volume I. It is deepening use of the translated material without overbuilding new infrastructure.
+
 ## Structure
 
 ```
