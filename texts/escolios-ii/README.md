@@ -17,13 +17,16 @@ So this scaffold is no longer an Italian-only intake problem. It is now a primar
 
 - the original Spanish volume II PDF is present in the workspace
 - the Spanish PDF now yields `2442` recovered aphorism starts into `source/aphorisms.yaml`
+- one conservative cleanup pass on the Spanish extractor is complete
+- the Spanish extraction currently carries one flagged OCR-heavy entry: `id 1189`
 - the Italian witness file is now correctly labeled as volume II
 - the Italian witness body has been isolated as lines `392-14325`
 - that witness yields `3833` aphorism blocks
 - endnotes begin at line `14326`; postface begins at line `14442`
 - two aphorisms in the Italian witness appear to have truncated openings
+- the first two real batches now exist in `sections/01-history-and-ruin.md` and `sections/02-judgment-and-civilization.md`
 
-The immediate task here is to stabilize the Spanish extraction enough for the first batch and use the Italian extraction as a check, not as the primary basis of the project.
+The immediate task here is no longer intake triage. It is to keep batching from the cleaned Spanish source and use the Italian extraction as a check, not as the primary basis of the project.
 
 ## Structure
 
@@ -49,6 +52,6 @@ First tasks:
 1. preserve the Spanish extraction as the working source
 2. preserve the Italian witness as a secondary control surface
 3. determine where the Spanish and Italian block counts diverge and why
-4. inspect OCR-heavy Spanish entries and damaged Italian entries before batching
+4. inspect OCR-heavy Spanish entries and damaged Italian entries as they begin to affect batching
 
 Do not assume this project is interchangeable with volume I. Volume II now has the original Spanish print PDF, but not yet the clean OCR surface that made volume I easy to batch.

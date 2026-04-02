@@ -37,6 +37,8 @@ SKIP_PREFIXES = (
     "IMPRESO EN EDITORIAL ANDES",
 )
 PRINTED_PAGE_RE = re.compile(r"^[0-9 ]+$")
+
+
 def repo_root() -> Path:
     return Path(__file__).resolve().parents[3]
 
@@ -97,6 +99,67 @@ def join_line(buffer: list[str], line: str) -> None:
     buffer.append(line)
 
 
+def normalize_text(text: str) -> str:
+    value = text.strip()
+    # Repair obvious inline line-break hyphenation from OCR/PDF extraction.
+    value = re.sub(
+        r"\b([A-Za-zÁÉÍÓÚáéíóúÑñÜü]{2,})-\s+([a-záéíóúñü])",
+        r"\1\2",
+        value,
+    )
+    # Fix simple digit-for-letter OCR noise inside words.
+    value = re.sub(r"(?<=[A-Za-zÁÉÍÓÚáéíóúÑñÜü])1(?=[A-Za-zÁÉÍÓÚáéíóúÑñÜü])", "l", value)
+    value = re.sub(r"\bE1\b", "El", value)
+    # Strip stray apostrophes inserted ahead of lowercase words.
+    value = re.sub(r"(?<=\s)'(?=[a-záéíóúñü])", "", value)
+    # Remove spacing glitches around punctuation.
+    value = re.sub(r"\s+([,.;:])", r"\1", value)
+    value = re.sub(r"([,.;:]){2,}", r"\1", value)
+    # Drop obvious separator noise while keeping real emphatic punctuation intact.
+    value = re.sub(r"\s+!{2,}(?=\s|$)", "", value)
+    value = value.replace("!—", "—")
+    # Drop dangling OCR separators at entry ends.
+    value = re.sub(r"\s+-$", "", value)
+    # Fix recurrent witness-specific OCR seams that survive the generic cleanup.
+    replacements = {
+        "seresindeleblemente": "seres indeleblemente",
+        "conciste": "consiste",
+        "periódico-envilece": "periódico envilece",
+        "al que. no": "al que no",
+        "no,es": "no es",
+        "aficionado,a": "aficionado a",
+        "ideas:que": "ideas que",
+        "del. cambio.": "del cambio.",
+        "a, sentirse": "a sentirse",
+        "creer, en Dios": "creer en Dios",
+        "no, tiene": "no tiene",
+        "La,objetividad": "La objetividad",
+    }
+    for old, new in replacements.items():
+        value = value.replace(old, new)
+    value = re.sub(r"\.(\d{2,4})$", ".", value)
+    value = re.sub(r"\s+\d+'\d+$", "", value)
+    return value.strip()
+
+
+def detect_issues(text_value: str) -> list[str]:
+    issues: list[str] = []
+    if "  " in text_value:
+        issues.append("double-space")
+    if re.search(r"(?:\b\w\s+){6,}", text_value):
+        issues.append("spaced-letter-ocr")
+    if re.search(r"\b\w+-\s+[a-záéíóúñü]", text_value):
+        issues.append("inline-hyphenation")
+    if re.search(
+        r"(?<=[A-Za-zÁÉÍÓÚáéíóúÑñÜü])\d(?=[A-Za-zÁÉÍÓÚáéíóúÑñÜü])|\.\d{2,4}$|\d+'\d+$",
+        text_value,
+    ):
+        issues.append("digit-in-word")
+    if re.search(r"!{2,}|!—", text_value):
+        issues.append("separator-noise")
+    return issues
+
+
 def extract_entries(text: str) -> list[dict[str, object]]:
     pages = text.split("\f")
     page_payloads: list[tuple[int, list[str], str | None]] = []
@@ -129,7 +192,7 @@ def extract_entries(text: str) -> list[dict[str, object]]:
         for line in lines:
             if line.startswith("—"):
                 if current_lines:
-                    text_value = " ".join(current_lines)
+                    text_value = normalize_text(" ".join(current_lines))
                     entry: dict[str, object] = {
                         "id": len(entries) + 1,
                         "pdf_page": current_page,
@@ -137,11 +200,7 @@ def extract_entries(text: str) -> list[dict[str, object]]:
                     }
                     if current_printed:
                         entry["print_page"] = current_printed
-                    issues: list[str] = []
-                    if "  " in text_value:
-                        issues.append("double-space")
-                    if re.search(r"(?:\b\w\s+){6,}", text_value):
-                        issues.append("spaced-letter-ocr")
+                    issues = detect_issues(text_value)
                     if issues:
                         entry["issues"] = issues
                     entries.append(entry)
@@ -155,7 +214,7 @@ def extract_entries(text: str) -> list[dict[str, object]]:
                 join_line(current_lines, line)
 
     if current_lines:
-        text_value = " ".join(current_lines)
+        text_value = normalize_text(" ".join(current_lines))
         entry = {
             "id": len(entries) + 1,
             "pdf_page": current_page,
@@ -163,11 +222,7 @@ def extract_entries(text: str) -> list[dict[str, object]]:
         }
         if current_printed:
             entry["print_page"] = current_printed
-        issues: list[str] = []
-        if "  " in text_value:
-            issues.append("double-space")
-        if re.search(r"(?:\b\w\s+){6,}", text_value):
-            issues.append("spaced-letter-ocr")
+        issues = detect_issues(text_value)
         if issues:
             entry["issues"] = issues
         entries.append(entry)

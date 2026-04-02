@@ -39,10 +39,10 @@ These boundaries are good enough for reproducible extraction of the Italian witn
 
 ## Extraction Questions
 
-1. Which OCR or conversion artifacts in the Spanish extraction need systematic cleanup before batching?
-2. The Italian body contains `3833` extracted blocks. The Spanish primary currently yields `2442` recovered aphorism starts. Why do the witnesses segment so differently?
-3. Is any page structure recoverable from the print edition?
-4. What batch size makes sense for the first real section given the current state of the Spanish surface?
+1. The Italian body contains `3833` extracted blocks. The Spanish primary currently yields `2442` recovered aphorism starts. Why do the witnesses segment so differently?
+2. Is any page structure recoverable from the print edition beyond what `print_page` currently captures?
+3. When a Spanish OCR problem appears, can the Italian witness clarify it without quietly becoming the authority?
+4. What batch size continues to make sense now that the first two Spanish sections are in place?
 
 ## Current Working Extraction
 
@@ -55,8 +55,9 @@ The Spanish extraction is now the project's working source. The Italian extracti
 
 In the Spanish extraction:
 
-- OCR spacing and line-break artifacts survive in places
-- some entries contain letter-spaced or otherwise damaged typography that will need cleanup
+- one conservative cleanup pass has already been applied to line-break, punctuation, and page-number noise
+- one entry remains explicitly flagged for OCR damage:
+  - `id: 1189`
 
 In the Italian witness:
 

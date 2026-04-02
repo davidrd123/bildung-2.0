@@ -54,7 +54,7 @@
     - "negative ingression"
     - "disingression"
   status: tentative
-  notes: "By `3.a.4-3.a.7` this names the basic form of disorganization corresponding to ingression, and then the mechanism through which Bogdanov derives separateness, crisis, and incomplete boundary-conditions of experience. The English is awkward, but that awkwardness is methodological: Bogdanov is introducing a formal counter-mechanism rather than a familiar process-name."
+  notes: "By `3.a.4-3.b.3` this names the basic form of disorganization corresponding to ingression, then the mechanism through which Bogdanov derives separateness, crisis, and incomplete boundary-conditions of experience, and finally the operative negative side of progressive selection, where external activities invade and deassimilate a complex. The English is awkward, but that awkwardness is methodological: Bogdanov is introducing a formal counter-mechanism rather than a familiar process-name."
 
 - term: "отдельность"
   kind: concept
@@ -71,8 +71,8 @@
   alternatives:
     - "organizational crisis"
     - "critical transformation"
-  status: open
-  notes: "By `3.a.6` Bogdanov gives this ordinary-looking word a strict technical role: rupture or formation of tektological boundary. Keep the plain English term, but guard against reading it only as catastrophe."
+  status: tentative
+  notes: "By `3.a.6` and `3.b.3` Bogdanov gives this ordinary-looking word a strict technical role: first rupture or formation of tektological boundary, then the threshold at which cumulative structural changes under progressive selection pass into qualitative transformation. Keep the plain English term, but guard against reading it only as catastrophe."
 
 - term: "связка"
   kind: concept
@@ -135,7 +135,7 @@
     - "preservative selection"
     - "selection of preservation"
   status: tentative
-  notes: "Introduced at the close of `3.b.1` as the first, abstract schema in which only preservation or non-preservation is at issue. The term matters because `3.b.2-3.b.3` immediately show it to be insufficient once preservation is reinterpreted as mobile equilibrium and development."
+  notes: "Introduced at the close of `3.b.1` as the first, abstract schema in which only preservation or non-preservation is at issue. `3.b.2-3.b.3` show it to be insufficient once preservation is reinterpreted as mobile equilibrium and development, but not obsolete: it still governs cases where complexes are treated as available material rather than as developing formations."
 
 - term: "подвижное равновесие"
   kind: concept
@@ -162,4 +162,22 @@
     - "developmental selection"
     - "progressive regulation"
   status: tentative
-  notes: "By the opening of `3.b.3` this names the deeper schema in which preservation in a changing environment requires growth of activities and decline is expressed as the predominance of deassimilation. The term should stay formally organizational rather than being moralized as `progress`."
+  notes: "By `3.b.3` this names the deeper schema in which preservation in a changing environment requires growth of activities, decline is expressed as the predominance of deassimilation, and both positive and negative selection alter structure until they pass into crisis. The term should stay formally organizational rather than being moralized as `progress`."
+
+- term: "количественная устойчивость"
+  kind: concept
+  preferred: "quantitative stability"
+  alternatives:
+    - "quantitative persistence"
+    - "stability in quantity"
+  status: tentative
+  notes: "By `4.1` this names stability in the direct sense of the summed quantity of activities-resistances concentrated in a complex. Positive selection is identified with its increase, negative selection with its decrease. The term is comparatively straightforward, but it matters because Bogdanov now explicitly separates it from structural stability."
+
+- term: "структурная устойчивость"
+  kind: concept
+  preferred: "structural stability"
+  alternatives:
+    - "organizational stability"
+    - "stability of structure"
+  status: tentative
+  notes: "By `4.1` this becomes the more delicate and important counterpart to quantitative stability. It depends on the character of the organizational connection and is always relative to definite impacts or to a bounded environment. The central pressure of the section is that positive selection can reduce it while negative selection can, within limits, increase it."

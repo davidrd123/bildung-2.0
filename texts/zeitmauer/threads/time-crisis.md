@@ -65,6 +65,9 @@ The main thread so far in `texts/zeitmauer`: the collision between measurable ti
 - `zm:127:first-organ` extends the crisis into the electrical body itself: the lightning rod becomes first organ, and the globe-spanning web of wires and antennas begins to resemble nerves and senses.
 - `zm:128:invisible-democracy` crystallizes the crisis politically: visible democracy hides a more compelling invisible one, where world-opinion and world-will move under the world-plan.
 - `zm:129:night-view` extends the crisis methodologically: measurable electrical facts are only examples, while the real unrest comes from a mechanized night-view that reaches too little of reality.
+- `zm:130:world-language` extends the crisis beyond history proper: the charged earth-envelope carries a world-language in every transmission, and not only knowledge but substance changes.
+- `zm:131:intelligent-ship` crystallizes the crisis as magnetic passage: the ship itself has become intelligent, stronger answers arrive, and the earth as `Urgrund` seeks new fertility through godfall.
+- `zm:132:mantic-compass` extends the crisis into freedom and navigation: the compass becomes mantic precisely where responsibility becomes uncontrollable and steering itself doubtful.
 - `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.
 - `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.
 
@@ -134,6 +137,9 @@ Jünger's strategy is to lead the reader out of the apparently "occult" cases an
 - the lightning rod as first organ and the electrical web as nerve-like spiritualization in `zm:127:first-organ`
 - invisible democracy, world-opinion, and world-will under `Weltplan` in `zm:128:invisible-democracy`
 - the mechanized night-view and the demand for a fuller ensouled recognition of nature in `zm:129:night-view`
+- the charged earth-envelope, world-language, and changing substance in `zm:130:world-language`
+- the intelligent ship in a magnetic world and the earth as `Urgrund` seeking new fertility in `zm:131:intelligent-ship`
+- freedom's changing concept and the compass as mantic device in `zm:132:mantic-compass`
 
 ## Commentary Use
 

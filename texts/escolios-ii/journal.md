@@ -63,3 +63,31 @@ This is still a gain. The project now has:
 - an explicit statement of where they diverge
 
 That is enough to begin honest work on the first batch without pretending the intake problem has vanished.
+
+## 2026-04-02 — Section 01 Started
+
+The first real batch now covers `§1-27` / printed pages `5-10` in [sections/01-history-and-ruin.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/01-history-and-ruin.md).
+
+The opening of volume II is immediately less methodological and more civilizational than volume I. Instead of telling the reader how to assemble a pointillist whole, Gómez Dávila begins with historiography, cultural decay, residual Christianity, and the incapacity of modern criticism and modern theology to preserve what they touch.
+
+The batch also gives the first practical answer to the witness problem: use the Spanish extraction as primary, but consult the Italian witness when the PDF leaves obvious line-break damage or when an entry may have fused with a neighbor. The goal is not to harmonize the two witnesses prematurely; it is to keep the source pressure visible while still moving.
+
+## 2026-04-02 — Spanish Cleanup Pass
+
+One conservative cleanup pass has now been folded back into `scripts/extract_spanish_aphorisms.py`.
+
+The purpose was narrow: repair obvious line-break hyphenation, punctuation noise, and page-number bleed without pretending to solve the whole OCR problem by force. The extractor now writes a materially cleaner `source/aphorisms.yaml`, and the cleanup is reproducible rather than hand-corrected in downstream section files.
+
+This matters because volume II no longer needs to be treated as a fragile intake at every step. The source is still imperfect, but it is now clean enough for honest batching. At the moment only one Spanish entry remains explicitly flagged for OCR damage:
+
+- `id: 1189`
+
+Everything else should now be treated as readable unless a section exposes a new source problem.
+
+## 2026-04-02 — Section 02 Added
+
+The second real batch now covers `§28-60` / printed pages `11-16` in [sections/02-judgment-and-civilization.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/02-judgment-and-civilization.md).
+
+This cluster confirms the early shape of volume II. The opening is not merely anti-modern in a general way; it is ordered by rank. History must judge instead of hiding behind neutrality. Civilization requires the demotion of economics. Literary intelligence outranks philosophical and scientific specialization because it can still hold plurality and judgment together. Authenticity is not a universal right. Abstraction empowers man and then masters him.
+
+The practical result is equally important: after one cleanup pass, the Spanish PDF is now genuinely usable as the working surface for ongoing sections. The Italian witness remains valuable, but more and more as control material instead of rescue text.

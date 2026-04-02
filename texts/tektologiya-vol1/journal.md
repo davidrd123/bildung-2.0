@@ -274,3 +274,51 @@ Review notes:
 
 - [visual candidate] a triad diagram for `3.b.1`: object -> agent -> basis
 - [visual candidate] a transition map: conservative selection -> mobile equilibrium -> progressive selection
+
+## 2026-04-02 - Progressive Selection Turns Structural
+
+The rest of `3.b.3` closes an important ambiguity in Bogdanov's regulating grammar.
+
+At the opening of the section, `progressive selection` could still be heard mainly as a quantitative schema: more activities or fewer, more assimilation or more deassimilation. The remaining paragraphs show that this is only the first layer. Progressive selection changes the internal structure of complexes. Positive selection tends toward greater complexity and heterogeneity; negative selection toward simplification and greater homogeneity. In both cases the process runs until a threshold is crossed and crisis appears.
+
+That matters because `crisis` is no longer only a doctrine of boundary from `3.a.6`. It now becomes the point at which cumulative structural change under regulation produces a qualitative break. The water-drop example is the clearest compact model: growth deforms the drop until it bursts, depletion regularizes it until it disappears.
+
+Two further clarifications matter just as much.
+
+First, `conservative selection` is not simply superseded by `progressive selection`. The latter governs developing complexes; the former still governs cases where complexes are treated as given material to be filtered, retained, or eliminated. The distinction is methodological, not merely chronological.
+
+Second, and more importantly, `3.b.3` explicitly denies that the regulating mechanism is a separate layer standing above the formative one. The most elementary acts of selection decompose into `conjugation` and `deingression`. Regulation is therefore not a new ontological tier but a specific combination of the mechanisms already introduced in `3.a`.
+
+Current conclusion:
+
+- chapter `3.b` is continuing at full density
+- `progressive selection` now looks like a true bridge-term between quantity, structure, and crisis
+- Bogdanov's system is getting tighter rather than merely broader: later mechanisms are repeatedly revealed as combinations or redescriptions of earlier ones
+
+Review notes:
+
+- [visual candidate] positive selection -> complexity / heterogeneity -> crisis; negative selection -> simplification / homogeneity -> crisis
+- [visual candidate] a recomposition map: selection = conjugation + deingression
+
+## 2026-04-02 - Stability Splits in Two
+
+`4.1` opens chapter 4 by forcing a distinction that reorganizes the whole regulating layer.
+
+Bogdanov now separates `quantitative stability` from `structural stability`. The first is comparatively direct: a larger sum of activities-resistances means more that can be opposed to the environment. The second is harder and more important: it depends on the manner of combination, the character of the organizational linkage, and therefore on the kind of impacts in view. This means that positive selection and negative selection can no longer be read simply as gain and loss. Positive selection raises quantitative stability but may lower structural stability by increasing heterogeneity; negative selection lowers quantitative stability but may, within limits, increase structural stability by pruning weak or contradictory elements and connections.
+
+The organism examples make this especially clear. Temporary deprivation, illness, or injury can, if the organism survives, produce a more stable organization by removing weaker elements. But Bogdanov immediately blocks any cheap glorification of that process: beyond certain limits it becomes simple degradation, and if the destructive influence is too alien to the organism's usual environment, the result is not strengthening but mere injury. Viability is relative.
+
+The social examples carry the same lesson on a larger scale. Prosperity increases complexity, divergence, and inequality; crisis follows from the accumulation of internal instability; then negative selection may reorder the system by destroying the least viable forms. But again this is a blind and wasteful process, not a clean therapeutic one. `4.1` is important precisely because it refuses both sentimental praise of prosperity and romantic praise of catastrophe.
+
+The closing synthesis matters for the whole Bogdanov run. Positive selection supplies the world with increasingly differentiated material; negative selection simplifies, orders, and systematizes that material. The pair becomes almost cosmological here, but in a way still tied to the practical question of stability.
+
+Current conclusion:
+
+- chapter `4` is not just continuing `3.b`; it is refining it into a two-axis grammar of stability
+- `quantitative stability` and `structural stability` have both earned glossary status
+- the next step is `4.2`, where Bogdanov turns from the two-axis distinction to the law of the weakest relative point
+
+Review notes:
+
+- [visual candidate] a two-axis map: quantitative stability up / structural stability down under positive selection, and the inverse tendency under negative selection
+- [visual candidate] prosperity -> heterogeneity -> crisis -> negative selection -> reordered growth

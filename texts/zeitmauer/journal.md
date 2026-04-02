@@ -1165,3 +1165,27 @@ Decisions:
 - extend `thread:time-crisis` through `§128`, where invisible democracy, world-opinion, and world-will appear under the world-plan
 - extend `thread:time-crisis` through `§129`, where the unrest is said to reach beneath standards and the mechanized night-view is exposed as provisional
 - extend `thread:goethe-leibniz-frame` through `§129`, where worthy intuition, ensoulment, and the critique of the titanically mechanized life-image become explicit
+
+## 2026-04-02 — Earth-Envelope, Intelligent Ship, and the Mantic Compass
+
+Translated `§§130-132` under `parts/44-siderische-einteilungen.md`.
+
+This batch carries the sidereal-electrical argument from invisible democracy into the charged earth-envelope, the intelligent ship, and the freedom of mantic navigation. `§130` insists that the electrical transformation has both a world-historical and an earth-historical aspect, and that the latter overarches the former. `§131` sharpens the danger: the plan moves on a narrow track, provokes stronger responses, and enters a magnetic world where the ship itself has become intelligent. `§132` closes by shifting the freedom problem onto the compass, which becomes not only automatic but mantic.
+
+Working observations:
+
+- `§131` is the structural center. The decisive move is that the ship itself has become intelligent and field-charged, moving in a magnetic world under infra-intelligent attraction, while the earth as `Urgrund,` as chaos, seeks new fertility through the downfall of gods.
+- `§130` matters because it makes the earth-historical aspect explicitly superior to the world-historical. Electrical sending is not just communication but also transformation: every transmission carries hieroglyphs no language grasps, and with that not only knowledge but substance changes.
+- `§130` also matters because it gives the charged earth a visionary image. Were we able to perceive electrical fields directly, the earth-envelope would appear luminous, netted, woven, and volcanic, and it would become immediately visible that something more than world-history is taking place.
+- `§132` reconnects freedom and mantic procedure. The freedom-concept changes while freedom remains, and the compass becomes a mantic instrument precisely when command becomes doubtful and observation more anxious.
+- `§132` also gives the strongest recent confirmation that `mantisch` belongs to a technical-interpretive register rather than to generalized mysticism. The closing satirical `lamas` passage keeps that vigilance on the edge between measurement, augury, and panic.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§130-132`
+- extend `erdgeschichtlich` with a new evidence point from `§130`
+- extend `Urgrund` with a new evidence point from `§131`
+- tighten the `mantisch` glossary note through `§132`
+- extend `thread:time-crisis` through `§130`, where the charged earth-envelope, world-language, and changing substance overarch world-history
+- extend `thread:time-crisis` through `§131`, where the intelligent ship enters a magnetic world and the earth as `Urgrund` seeks new fertility through godfall
+- extend `thread:time-crisis` through `§132`, where the compass becomes mantic under growing doubt about whether any steering still occurs

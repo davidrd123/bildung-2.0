@@ -83,8 +83,9 @@ Living list. Updated as threads advance or stall.
 | Schuon limit | Placed — names the honest boundary of textual recovery | `cross-domain-synthesis-threads.md` | 2026-03-31 |
 | Rosen: models vs. simulations | Placed — maps onto close/free split | `cross-domain-synthesis-threads.md` | 2026-03-29 |
 | Practice queue (source encounter + decryption) | Active — revised around practical coupling to live work and generalized opacity | `cross-domain-synthesis-threads.md` | 2026-04-01 |
-| Anders bridge | Active — Cassirer/Jünger apparatus-world connector | `cross-domain-synthesis-threads.md` | 2026-04-02 |
+| Anders bridge | Active — source campaign in progress, first encounters underway | `cross-domain-synthesis-threads.md` | 2026-04-02 |
 | Empirical morphogenesis line | Active — Levin corpus linked to the braided river | `cross-domain-synthesis-threads.md` | 2026-04-01 |
+| Action-conditioned real | Active — von Foerster + late Zeitmauer + Cassirer + Dick | `cross-domain-synthesis-threads.md` | 2026-04-02 |
 | Whitehead decryption | Seeded — identified as target, not started | `cross-domain-synthesis-threads.md` | 2026-03-29 |
 | Symbiotic-Vault convergence | Active — structural isomorphisms mapped | `symbiotic-vault-intersection.md` | 2026-03-31 |
 | The instrument (rotating hierarchy) | Active — architecture sketched, not built | `higher-purpose-distillation.md`, `genealogy-to-instrument.md` | 2026-03-31 |
@@ -106,10 +107,13 @@ Living list. Updated as threads advance or stall.
 
 | Project | Progress | Current edge |
 |---------|----------|-------------|
+| `texts/erkenntnisproblem-vol1/` | 45 parts; section IV closed; harmonization pass done | Skepticism chapter, Part 46 from broken Montaigne sentence |
+| `texts/zeitmauer/` | 44 parts (§§123+) | Siderische Einteilungen; handle pilot live, thread extraction growing |
+| `texts/tektologiya-vol1/` | 10 parts | Progressive selection / structural crisis |
 | `texts/escolios/` | §§1-108 translated (8 section files) | Continuing sequential batches |
-| `texts/zeitmauer/` | §§1-16 translated | §§14-16 most recent; glossary accreting |
-| `texts/exegesis/` | 17 passes (folders 02-04, 14-19, 23-30, 38); 3 thread dossiers | Thread dossiers growing; source encounters deferred |
-| `sources/` | Uexkuell campaign complete; Anders Band I scaffolded | Anders encounter queue opened from clean EPUB-derived source |
+| `texts/escolios-ii/` | 2 section files; extraction pipeline building | History-and-ruin opening; aphorisms.yaml restructuring |
+| `texts/exegesis/` | 17 passes (folders 02-04, 14-19, 23-30, 38); 3 thread dossiers | Stable; no recent pushes |
+| `sources/` | Uexküll complete (5 encounters); Anders in progress (2 encounters); modern sources growing | Von Foerster first validation seam confirmed |
 
 ## Maintenance
 

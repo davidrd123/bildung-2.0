@@ -8,8 +8,8 @@
   alternatives:
     - "Promethean shame"
     - "promethean shame"
-  status: seed
-  notes: "The campaign's most obvious pressure point, but not yet ready for fluent English. The mythic register, the lower-case German adjective, and the relation to `prometheisches Gefälle` should stay visible until encounter 02 is worked."
+  status: open
+  notes: "Encounter 02 confirms that this is not yet ready for fluent English. The term is entangled with `prometheischer Stolz`, `prometheischer Trotz`, the made-versus-born contrast, and a new stage of reification in which not-being-thing is felt as deficiency. Keep it visibly German in the running draft; `Promethean shame` can serve only as an orienting gloss for now."
 
 - term: "prometheisches Gefälle"
   handle: "term:prometheisches-gefaelle"
@@ -19,18 +19,18 @@
     - "Promethean gap"
     - "Promethean gradient"
     - "promethean disparity"
-  status: seed
-  notes: "Names the asynchronous relation among making, imagining, feeling, responsibility, and embodiment. Encounter 01 should decide whether any English option can keep both the structural and directional force."
+  status: open
+  notes: "Encounter 01 makes this structurally real and still unresolved. It names the widening asynchronicity between products and the human capacities meant to keep pace with them: imagining, feeling, responsibility, embodiment. Keep it German in the running draft for now; `gap`, `gradient`, and `disparity` each catch only part of the force."
 
 - term: "Vorentscheidung"
   handle: "term:vorentscheidung"
   kind: concept
-  preferred: null
+  preferred: "predecision"
   alternatives:
     - "predecision"
     - "prior decision"
-  status: seed
-  notes: "The introduction's device thesis turns apparatuses from neutral means into prior decisions imposed before we act. Keep it open until encounter 01 clarifies whether the force is conceptual, polemical, or both."
+  status: tentative
+  notes: "Encounter 01 is enough to let `predecision` stand provisionally. The point is not just background influence but a decision already made over us before local choice begins. Keep pressure on the singular formulation: apparatuses are not merely many predecisions, but in the strongest claim the predecision."
 
 - term: "Weltphantom"
   handle: "term:weltphantom"
@@ -39,8 +39,8 @@
   alternatives:
     - "world-phantom"
     - "phantom world"
-  status: seed
-  notes: "The point is not simply image or representation, but a world encountered in phantom form. Encounter 01 and 03 should decide whether any English can carry that without flattening it into media theory shorthand."
+  status: open
+  notes: "Encounter 01 already puts real pressure here, and encounter 03 confirms that the point is not simply image, representation, or illusion, but a world encountered in phantomized form. `Phantom world` makes the world itself sound unreal; `world-phantom` is nearer but still stiff. Keep the German for now."
 
 - term: "Phantom / Matrize"
   handle: "term:phantom-matrize"
@@ -49,8 +49,19 @@
   alternatives:
     - "phantom / matrix"
     - "phantom / mold"
-  status: seed
-  notes: "This pair appears to do one architectural job and should not be normalized term by term too early. Encounter 03 should test whether the pair remains most legible in German."
+  status: open
+  notes: "Encounter 03 confirms that this pair is architectural and not confined to radio and television. `Phantom` can come over provisionally as `phantom`, but the pair should remain open because `Matrize` is still not ready for a stable English (`matrix` is too abstract; `mold` is too physical on its own)."
+
+- term: "Massenmensch"
+  handle: "term:massenmensch"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "mass man"
+    - "mass human"
+    - "mass-person"
+  status: open
+  notes: "Encounters 03 and 04 are enough to show that this is structurally real. Anders is not merely naming a crowd-member but a manufactured human type. `Mass man` is historically familiar but too culturally preloaded; `mass human` is clumsier but closer to the local force. Keep it open for now."
 
 - term: "Sein ohne Zeit"
   handle: "term:sein-ohne-zeit"
@@ -59,8 +70,8 @@
   alternatives:
     - "being without time"
     - "existence without time"
-  status: seed
-  notes: "The Beckett essay is not an ornamental detour. This phrase likely names a structural condition of worldlessness, waiting, and non-action rather than a one-off literary slogan."
+  status: open
+  notes: "Encounter 04 confirms that this is not an ornamental essay title. The phrase names a structural condition of worldlessness, stalled action, and waiting. `Being without time` is intelligible but too quickly metaphysical; keep the German in running drafts for now."
 
 - term: "Apokalypseblindheit"
   handle: "term:apokalypseblindheit"
@@ -69,5 +80,5 @@
   alternatives:
     - "apocalypse-blindness"
     - "apocalyptic blindness"
-  status: seed
-  notes: "Likely one of the campaign's load-bearing terms. Keep the relation to incapacity of imagination, emotion, and responsibility visible before choosing an English form."
+  status: open
+  notes: "Encounter 01 shows that the term first enters as methodically produced unseeing, and encounter 05 confirms that it names a central incapacity of the epoch. `Apocalypse-blindness` is the current front-runner, but keep the German in running drafts until the relation to imagination, fear, and responsibility is less fragile."

@@ -1,19 +1,19 @@
 {
   "project": "zeitmauer",
-  "scope": "pilot-translated-range-1-129",
+  "scope": "pilot-translated-range-1-132",
   "source_files": {
     "sections": "texts/zeitmauer/source/sections.yaml",
     "glossary": "texts/zeitmauer/source/glossary.yaml",
     "handles": "texts/zeitmauer/source/handles.yaml"
   },
   "counts": {
-    "sections": 129,
+    "sections": 132,
     "terms": 14,
-    "chunks": 70,
-    "notes": 71,
+    "chunks": 73,
+    "notes": 74,
     "threads": 3,
-    "evidence": 40,
-    "relations": 73
+    "evidence": 42,
+    "relations": 76
   },
   "sections": [
     {
@@ -4273,6 +4273,98 @@
       },
       "source_file": "texts/zeitmauer/source/sections.yaml",
       "draft_file": "texts/zeitmauer/parts/43-siderische-einteilungen.md"
+    },
+    {
+      "handle": "zm:130",
+      "id": 130,
+      "label": "§130",
+      "part_slug": "siderische-einteilungen",
+      "part_title_de": "Siderische Einteilungen",
+      "part_title_en": "Sidereal Divisions",
+      "de": "Hinsichtlich der Aufladung der Erdhülle und der sie begleitenden Unruhe, wie wir sie seit zweihundert Jahren beobachten, gibt es einen weltgeschichtlichen und einen erdgeschichtlichen Aspekt. Der erdgeschichtliche übergreift den weltgeschichtlichen. Der Mensch, als intelligenter Sohn der Erde, hat eine neue Kraft, eine neue Eigenschaft seiner Mutter entdeckt, wie sie deren viele, bekannte und unbekannte, besitzt. Er isoliert sie und stellt sie in seinen Dienst. Das ist ein großes Datum innerhalb des Systems, das er Weltgeschichte nennt.\n\nZugleich geschieht etwas mehr, insofern als jeder Eroberer auch selbst erobert wird. Die Kraft, die er in wachsenden Strömen der Erde entzieht und ihr entquellen läßt, besitzt neben den Eigenschaften, die zu seinen Formeln passen, auch solche, die er nicht überblickt. Sie dient ihm willig, wenn er seine Alphabete sendet, und trägt sie wie ein Strom, der Schiffe führt. Doch das sind Abzweigungen. In jede Sendung sind Hieroglyphen eingeschlossen, die keine Sprache faßt. Das ist die Weltsprache. Daher verändert sich nicht nur das Wissen, sondern es ändert sich auch die Substanz.\n\nWürden wir, ähnlich den Lichtaugen, Augen für die Wahrnehmung elektrischer Ströme und Felder besitzen, so würde uns die große Verwandlung unmittelbar sichtbar sein. Daß unsere Städte zu Lichtburgen werden, ist nur ein Abglanz, eine Abzweigung davon. Wir würden sehen, daß die Erdhülle nach kurzer Dämmerung leuchtend geworden ist. Wir würden unter dieser Aura ein glühendes Netz sehen und überall webende und rotierende Bewegungen. Ihr Schimmer würde durchbrochen werden durch die Emanationen einer Unzahl von Vulkanen, die, besonders von den gemäßigten Gürteln des Planeten, einen immer stärkeren Glanz, eine blendende Kraftflut aussendeten. Es würde greifbar, daß hier mehr als Weltgeschichtliches, daß Erdgeschichtliches vor sich geht und das Geschichtsbild übergreift.\n\nUm einem solchen Ausbruch Vergleichbares zu finden, müßten wir weit auf vorgeschichtliche Landschaften zurückblicken. Aber das neue Leuchten ist subtiler, dem Geist verwandter als die magmatische Glut. Sein Strahl fährt tiefer in den Kosmos, durchdringt auch die Schleier der Materie, vermählt sich mit den Elementen, deren Macht und Schrecken er enthüllt.",
+      "en": "With respect to the charging of the earth-envelope and the unrest accompanying it, as we have observed it for two hundred years, there is a world-historical and an earth-historical aspect. The earth-historical overarches the world-historical. Man, as the intelligent son of the earth, has discovered a new force, a new property of his mother, of which she possesses many, known and unknown. He isolates it and places it in his service. That is a great date within the system he calls world-history.\n\nAt the same time, something more occurs, insofar as every conqueror is himself conquered. The force that he draws from the earth in growing currents and lets gush forth from her possesses, alongside the properties that fit his formulas, others that he does not survey. It serves him willingly when he sends his alphabets and carries them like a current that carries ships. But those are only branchings. In every transmission hieroglyphs are enclosed that no language grasps. That is the world-language. Therefore not only knowledge changes; substance changes as well.\n\nWere we to possess, analogous to our eyes for light, eyes for the perception of electrical currents and fields, the great transformation would become immediately visible to us. That our cities become light-citadels is only a reflection, an offshoot, of it. We would see that the earth-envelope, after a brief twilight, had become luminous. Under this aura we would see a glowing net and everywhere weaving and rotating movements. Its shimmer would be broken by the emanations of an innumerable host of volcanoes that, especially from the temperate belts of the planet, sent out an ever stronger glow, a blinding flood of force. It would become palpable that more than world-history, that earth-history is taking place here and overarches the historical image.\n\nTo find something comparable to such an eruption, we would have to look far back toward prehistoric landscapes. But the new radiance is subtler, more akin to spirit than magmatic glow. Its ray drives deeper into the cosmos, penetrates even the veils of matter, weds itself to the elements whose power and terror it reveals.",
+      "de_paragraphs": [
+        "Hinsichtlich der Aufladung der Erdhülle und der sie begleitenden Unruhe, wie wir sie seit zweihundert Jahren beobachten, gibt es einen weltgeschichtlichen und einen erdgeschichtlichen Aspekt. Der erdgeschichtliche übergreift den weltgeschichtlichen. Der Mensch, als intelligenter Sohn der Erde, hat eine neue Kraft, eine neue Eigenschaft seiner Mutter entdeckt, wie sie deren viele, bekannte und unbekannte, besitzt. Er isoliert sie und stellt sie in seinen Dienst. Das ist ein großes Datum innerhalb des Systems, das er Weltgeschichte nennt.",
+        "Zugleich geschieht etwas mehr, insofern als jeder Eroberer auch selbst erobert wird. Die Kraft, die er in wachsenden Strömen der Erde entzieht und ihr entquellen läßt, besitzt neben den Eigenschaften, die zu seinen Formeln passen, auch solche, die er nicht überblickt. Sie dient ihm willig, wenn er seine Alphabete sendet, und trägt sie wie ein Strom, der Schiffe führt. Doch das sind Abzweigungen. In jede Sendung sind Hieroglyphen eingeschlossen, die keine Sprache faßt. Das ist die Weltsprache. Daher verändert sich nicht nur das Wissen, sondern es ändert sich auch die Substanz.",
+        "Würden wir, ähnlich den Lichtaugen, Augen für die Wahrnehmung elektrischer Ströme und Felder besitzen, so würde uns die große Verwandlung unmittelbar sichtbar sein. Daß unsere Städte zu Lichtburgen werden, ist nur ein Abglanz, eine Abzweigung davon. Wir würden sehen, daß die Erdhülle nach kurzer Dämmerung leuchtend geworden ist. Wir würden unter dieser Aura ein glühendes Netz sehen und überall webende und rotierende Bewegungen. Ihr Schimmer würde durchbrochen werden durch die Emanationen einer Unzahl von Vulkanen, die, besonders von den gemäßigten Gürteln des Planeten, einen immer stärkeren Glanz, eine blendende Kraftflut aussendeten. Es würde greifbar, daß hier mehr als Weltgeschichtliches, daß Erdgeschichtliches vor sich geht und das Geschichtsbild übergreift.",
+        "Um einem solchen Ausbruch Vergleichbares zu finden, müßten wir weit auf vorgeschichtliche Landschaften zurückblicken. Aber das neue Leuchten ist subtiler, dem Geist verwandter als die magmatische Glut. Sein Strahl fährt tiefer in den Kosmos, durchdringt auch die Schleier der Materie, vermählt sich mit den Elementen, deren Macht und Schrecken er enthüllt."
+      ],
+      "en_paragraphs": [
+        "With respect to the charging of the earth-envelope and the unrest accompanying it, as we have observed it for two hundred years, there is a world-historical and an earth-historical aspect. The earth-historical overarches the world-historical. Man, as the intelligent son of the earth, has discovered a new force, a new property of his mother, of which she possesses many, known and unknown. He isolates it and places it in his service. That is a great date within the system he calls world-history.",
+        "At the same time, something more occurs, insofar as every conqueror is himself conquered. The force that he draws from the earth in growing currents and lets gush forth from her possesses, alongside the properties that fit his formulas, others that he does not survey. It serves him willingly when he sends his alphabets and carries them like a current that carries ships. But those are only branchings. In every transmission hieroglyphs are enclosed that no language grasps. That is the world-language. Therefore not only knowledge changes; substance changes as well.",
+        "Were we to possess, analogous to our eyes for light, eyes for the perception of electrical currents and fields, the great transformation would become immediately visible to us. That our cities become light-citadels is only a reflection, an offshoot, of it. We would see that the earth-envelope, after a brief twilight, had become luminous. Under this aura we would see a glowing net and everywhere weaving and rotating movements. Its shimmer would be broken by the emanations of an innumerable host of volcanoes that, especially from the temperate belts of the planet, sent out an ever stronger glow, a blinding flood of force. It would become palpable that more than world-history, that earth-history is taking place here and overarches the historical image.",
+        "To find something comparable to such an eruption, we would have to look far back toward prehistoric landscapes. But the new radiance is subtler, more akin to spirit than magmatic glow. Its ray drives deeper into the cosmos, penetrates even the veils of matter, weds itself to the elements whose power and terror it reveals."
+      ],
+      "paragraph_alignment": {
+        "de_count": 4,
+        "en_count": 4,
+        "aligned": true,
+        "row_count": 4
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/44-siderische-einteilungen.md"
+    },
+    {
+      "handle": "zm:131",
+      "id": 131,
+      "label": "§131",
+      "part_slug": "siderische-einteilungen",
+      "part_title_de": "Siderische Einteilungen",
+      "part_title_en": "Sidereal Divisions",
+      "de": "Daß nun der Glanz sehr stark, fast unerträglich wird, ist offenbar. Der Plan mit seiner bohrenden und schneidenden Intelligenz und seiner Summe an historischer und technischer Erfahrung bewegt sich auf einer schmalen Bahn. Er nimmt provozierenden Charakter an, fordert immer stärkere Antworten heraus, die ihm zuteil werden. Er führt in Regionen, in denen die Vernunft, als Menschenverstand betrachtet, sagen müßte: Hier wird die Abweisung zu stark.\n\nIn der Tat hört man die Warnung überall. Das ist die Depression vom Abend des 13. Septembers 1492, an dem Kolumbus die Variation des Kompasses entdeckte, eine bisher unbekannte Erscheinung, durch die seine Mannschaft in Schrecken versetzt wurde. Dem folgte das Licht von Guanahani, das Licht in der Dunkelheit.\n\nAber auch wenn Kolumbus gewendet hätte, wäre die Neue Welt entdeckt worden. »Die Stunde war da, und der Mensch auch.« Das gilt in erhöhtem Maß für unsere Zeit mit ihrem kollektiven Wissen und der undefinierbar gewordenen Verantwortung. Das Schiff an sich ist intelligent geworden, feldmäßig aufgeladen, und es bewegt sich in einer magnetischen Welt, im Bannkreis infraintelligenter Anziehung.\n\nLautréamont ist der erste, der diese Bewegung erfaßt und sogleich ihre wichtigste Voraussetzung, den Göttersturz, nicht nur begriffen hat, sondern auch begrüßt. Wenn die Erde als Urgrund, als Chaos neue Fruchtbarkeit entfalten, ein neues Kleid anlegen will, müssen Göttergeschlechter dahinsinken, wie schon Hesiod es beschrieben hat (»Theogonie« 159–200) und wie wir es heute universal beobachten. Aber schon bei Lautréamont deutet sich die neue Gefahr an: die magische Erstarrung des sich befreienden Erdgeistes, die er hellsichtig mit der Technik verknüpft. Wenn Nietzsche, der eine so feine Witterung besaß, diesen Zeitgenossen gekannt hätte, so würde ihm das manchen Umweg erspart haben. Auch Lautréamont starb früh, wie jeder, dem im 19. Jahrhundert eine Vorschau zuteil wurde.",
+      "en": "That the radiance now becomes very strong, almost unbearable, is obvious. The plan, with its drilling and cutting intelligence and its sum of historical and technical experience, moves on a narrow track. It takes on a provocative character, calls forth ever stronger responses, and they are granted to it. It leads into regions where reason, considered as common sense, would have to say: here the pushback grows too strong.\n\nIn fact one hears the warning everywhere. It is the depression of the evening of September 13, 1492, when Columbus discovered the variation of the compass, a previously unknown phenomenon by which his crew was thrown into terror. This was followed by the light of Guanahani, the light in the darkness.\n\nYet even if Columbus had turned back, the New World would have been discovered. `The hour was there, and the man too.` This applies in heightened measure to our time with its collective knowledge and its responsibility become undefinable. The ship itself has become intelligent, field-charged, and it moves in a magnetic world, in the spell-circle of infraintelligent attraction.\n\nLautréamont is the first to grasp this movement and at once not only to understand but also to welcome its most important precondition, the downfall of the gods. If the earth as `Urgrund,` as chaos, wants to unfold new fertility and put on a new garment, generations of gods must sink down, as Hesiod already described it (`Theogony` 159-200) and as we observe it universally today. But already in Lautréamont the new danger announces itself: the magical rigidification of the earth-spirit freeing itself, which he clairvoyantly links with technics. If Nietzsche, who possessed such a fine scent, had known this contemporary, it would have spared him many a detour. Lautréamont too died early, like everyone to whom a preview was granted in the nineteenth century.",
+      "de_paragraphs": [
+        "Daß nun der Glanz sehr stark, fast unerträglich wird, ist offenbar. Der Plan mit seiner bohrenden und schneidenden Intelligenz und seiner Summe an historischer und technischer Erfahrung bewegt sich auf einer schmalen Bahn. Er nimmt provozierenden Charakter an, fordert immer stärkere Antworten heraus, die ihm zuteil werden. Er führt in Regionen, in denen die Vernunft, als Menschenverstand betrachtet, sagen müßte: Hier wird die Abweisung zu stark.",
+        "In der Tat hört man die Warnung überall. Das ist die Depression vom Abend des 13. Septembers 1492, an dem Kolumbus die Variation des Kompasses entdeckte, eine bisher unbekannte Erscheinung, durch die seine Mannschaft in Schrecken versetzt wurde. Dem folgte das Licht von Guanahani, das Licht in der Dunkelheit.",
+        "Aber auch wenn Kolumbus gewendet hätte, wäre die Neue Welt entdeckt worden. »Die Stunde war da, und der Mensch auch.« Das gilt in erhöhtem Maß für unsere Zeit mit ihrem kollektiven Wissen und der undefinierbar gewordenen Verantwortung. Das Schiff an sich ist intelligent geworden, feldmäßig aufgeladen, und es bewegt sich in einer magnetischen Welt, im Bannkreis infraintelligenter Anziehung.",
+        "Lautréamont ist der erste, der diese Bewegung erfaßt und sogleich ihre wichtigste Voraussetzung, den Göttersturz, nicht nur begriffen hat, sondern auch begrüßt. Wenn die Erde als Urgrund, als Chaos neue Fruchtbarkeit entfalten, ein neues Kleid anlegen will, müssen Göttergeschlechter dahinsinken, wie schon Hesiod es beschrieben hat (»Theogonie« 159–200) und wie wir es heute universal beobachten. Aber schon bei Lautréamont deutet sich die neue Gefahr an: die magische Erstarrung des sich befreienden Erdgeistes, die er hellsichtig mit der Technik verknüpft. Wenn Nietzsche, der eine so feine Witterung besaß, diesen Zeitgenossen gekannt hätte, so würde ihm das manchen Umweg erspart haben. Auch Lautréamont starb früh, wie jeder, dem im 19. Jahrhundert eine Vorschau zuteil wurde."
+      ],
+      "en_paragraphs": [
+        "That the radiance now becomes very strong, almost unbearable, is obvious. The plan, with its drilling and cutting intelligence and its sum of historical and technical experience, moves on a narrow track. It takes on a provocative character, calls forth ever stronger responses, and they are granted to it. It leads into regions where reason, considered as common sense, would have to say: here the pushback grows too strong.",
+        "In fact one hears the warning everywhere. It is the depression of the evening of September 13, 1492, when Columbus discovered the variation of the compass, a previously unknown phenomenon by which his crew was thrown into terror. This was followed by the light of Guanahani, the light in the darkness.",
+        "Yet even if Columbus had turned back, the New World would have been discovered. `The hour was there, and the man too.` This applies in heightened measure to our time with its collective knowledge and its responsibility become undefinable. The ship itself has become intelligent, field-charged, and it moves in a magnetic world, in the spell-circle of infraintelligent attraction.",
+        "Lautréamont is the first to grasp this movement and at once not only to understand but also to welcome its most important precondition, the downfall of the gods. If the earth as `Urgrund,` as chaos, wants to unfold new fertility and put on a new garment, generations of gods must sink down, as Hesiod already described it (`Theogony` 159-200) and as we observe it universally today. But already in Lautréamont the new danger announces itself: the magical rigidification of the earth-spirit freeing itself, which he clairvoyantly links with technics. If Nietzsche, who possessed such a fine scent, had known this contemporary, it would have spared him many a detour. Lautréamont too died early, like everyone to whom a preview was granted in the nineteenth century."
+      ],
+      "paragraph_alignment": {
+        "de_count": 4,
+        "en_count": 4,
+        "aligned": true,
+        "row_count": 4
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/44-siderische-einteilungen.md"
+    },
+    {
+      "handle": "zm:132",
+      "id": 132,
+      "label": "§132",
+      "part_slug": "siderische-einteilungen",
+      "part_title_de": "Siderische Einteilungen",
+      "part_title_en": "Sidereal Divisions",
+      "de": "Die Heimat der Freiheit ist das Grenzenlose; sie ist ein kosmisches Absolutum, das im Begrenzten als Spezifikum erscheint. Das heißt, daß jedem Zustand und jedem Menschen die Freiheit eignet, die ihm zukommt und die er verdient. Wer in eine neue Welt vordringt, hat nicht nur den Raum zu entdecken, sondern auch die Freiheit dazu. Erst dann beherrscht er ihn. Der Freiheitsbegriff wechselt, die Freiheit bleibt.\n\nUm zu dem Schiff zurückzukehren: Im Maß, in dem die Verantwortung unkontrollierbar wird, in dem also Kapitän und Steuermann fragwürdig oder sogar gefährlich werden, gewinnt der Kompaß einen neuen Sinn. Er wird nicht nur zum automatischen, sondern zum mantischen Gerät. Dieser Veränderung wird heute große Aufmerksamkeit gezollt.\n\nWährend die Anziehung und mit ihr die Geschwindigkeit zunehmen, breiten sich unter der Besatzung nicht nur Zweifel an der Art der Steuerung aus, sondern auch daran, ob überhaupt eine Steuerung stattfindet – darüber also, ob die Bewegung noch von einem Schub historischer Kräfte oder von einem Zug aus empirisch nicht oder noch nicht einzuordnenden Regionen verursacht wird. Je mehr nun der Zweifel wächst, ob der Kompaß noch regiert wird, desto schärfer wird er beobachtet, auch desto ängstlicher.\n\nZu dieser Beobachtung gehört, um das Kapitel zu schließen, die meteorologische Beunruhigung als einer der Zweige der antaiischen Wachsamkeit. Es gehören dazu die Lamas, die ihre Abfälle untersuchen und Unheil prophezeien. Sie messen die Quisquilien im Luftstaub, im Regenwasser, im Tang der Meere, in den Enteneiern, den Fischlebern. Da scheint es nicht gut zu riechen, trotz aller Hygiene, aller Sauberkeit. Dann sieht man die gleichen Lamas große Mengen der Nahrung horten, die doch so schwer verdaulich ist.\n\nEs handelt sich offenbar um einen Nahrungswechsel; ein Wesen, das vegetarisch lebte, versucht sich im karnivorischen Experiment. Die Indigestion ist unausbleiblich; da heißt es nun, entweder zu den Kräutern zurückkehren oder die Konstitution ändern. Im ersten Falle wäre ein Machtspruch unumgänglich, wie ihn die Kirche 1633 Galilei gegenüber durchsetzte. Sonst heißt es: »Friß, Vogel, oder stirb.«",
+      "en": "The homeland of freedom is the boundless; it is a cosmic absolute that appears in the bounded as a specificity. That means that to every condition and every human being belongs the freedom proper to him and that he deserves. Whoever presses into a new world has to discover not only the space but also the freedom for it. Only then does he master it. The concept of freedom changes; freedom remains.\n\nTo return to the ship: in the measure that responsibility becomes uncontrollable, that is, captain and helmsman become questionable or even dangerous, the compass acquires a new meaning. It becomes not only an automatic but also a mantic instrument. Great attention is paid today to this change.\n\nWhile attraction, and with it speed, increase, there spread among the crew not only doubts about the manner of steering but also doubts whether any steering is taking place at all - that is, whether the movement is still caused by a thrust of historical forces or by a pull from regions not empirically classifiable, or not yet classifiable. The more this doubt grows, whether the compass is still being governed, the more sharply it is observed, and the more anxiously as well.\n\nBelonging to this observation, to close the chapter, is meteorological disquiet as one of the branches of antaean vigilance. Belong to it the lamas who inspect their wastes and prophesy disaster. They measure the minutiae in air-dust, in rainwater, in sea-kelp, in duck eggs, in fish livers. Something does not seem to smell right there, despite all hygiene and cleanliness. Then one sees the same lamas hoarding great quantities of the food that is after all so hard to digest.\n\nIt is evidently a change of diet; a being that lived as a vegetarian tries itself in the carnivorous experiment. Indigestion is unavoidable; then it means either returning to the herbs or changing the constitution. In the first case an exercise of power would be unavoidable, like the one the Church enforced against Galileo in 1633. Otherwise it is: `Eat, bird, or die.`",
+      "de_paragraphs": [
+        "Die Heimat der Freiheit ist das Grenzenlose; sie ist ein kosmisches Absolutum, das im Begrenzten als Spezifikum erscheint. Das heißt, daß jedem Zustand und jedem Menschen die Freiheit eignet, die ihm zukommt und die er verdient. Wer in eine neue Welt vordringt, hat nicht nur den Raum zu entdecken, sondern auch die Freiheit dazu. Erst dann beherrscht er ihn. Der Freiheitsbegriff wechselt, die Freiheit bleibt.",
+        "Um zu dem Schiff zurückzukehren: Im Maß, in dem die Verantwortung unkontrollierbar wird, in dem also Kapitän und Steuermann fragwürdig oder sogar gefährlich werden, gewinnt der Kompaß einen neuen Sinn. Er wird nicht nur zum automatischen, sondern zum mantischen Gerät. Dieser Veränderung wird heute große Aufmerksamkeit gezollt.",
+        "Während die Anziehung und mit ihr die Geschwindigkeit zunehmen, breiten sich unter der Besatzung nicht nur Zweifel an der Art der Steuerung aus, sondern auch daran, ob überhaupt eine Steuerung stattfindet – darüber also, ob die Bewegung noch von einem Schub historischer Kräfte oder von einem Zug aus empirisch nicht oder noch nicht einzuordnenden Regionen verursacht wird. Je mehr nun der Zweifel wächst, ob der Kompaß noch regiert wird, desto schärfer wird er beobachtet, auch desto ängstlicher.",
+        "Zu dieser Beobachtung gehört, um das Kapitel zu schließen, die meteorologische Beunruhigung als einer der Zweige der antaiischen Wachsamkeit. Es gehören dazu die Lamas, die ihre Abfälle untersuchen und Unheil prophezeien. Sie messen die Quisquilien im Luftstaub, im Regenwasser, im Tang der Meere, in den Enteneiern, den Fischlebern. Da scheint es nicht gut zu riechen, trotz aller Hygiene, aller Sauberkeit. Dann sieht man die gleichen Lamas große Mengen der Nahrung horten, die doch so schwer verdaulich ist.",
+        "Es handelt sich offenbar um einen Nahrungswechsel; ein Wesen, das vegetarisch lebte, versucht sich im karnivorischen Experiment. Die Indigestion ist unausbleiblich; da heißt es nun, entweder zu den Kräutern zurückkehren oder die Konstitution ändern. Im ersten Falle wäre ein Machtspruch unumgänglich, wie ihn die Kirche 1633 Galilei gegenüber durchsetzte. Sonst heißt es: »Friß, Vogel, oder stirb.«"
+      ],
+      "en_paragraphs": [
+        "The homeland of freedom is the boundless; it is a cosmic absolute that appears in the bounded as a specificity. That means that to every condition and every human being belongs the freedom proper to him and that he deserves. Whoever presses into a new world has to discover not only the space but also the freedom for it. Only then does he master it. The concept of freedom changes; freedom remains.",
+        "To return to the ship: in the measure that responsibility becomes uncontrollable, that is, captain and helmsman become questionable or even dangerous, the compass acquires a new meaning. It becomes not only an automatic but also a mantic instrument. Great attention is paid today to this change.",
+        "While attraction, and with it speed, increase, there spread among the crew not only doubts about the manner of steering but also doubts whether any steering is taking place at all - that is, whether the movement is still caused by a thrust of historical forces or by a pull from regions not empirically classifiable, or not yet classifiable. The more this doubt grows, whether the compass is still being governed, the more sharply it is observed, and the more anxiously as well.",
+        "Belonging to this observation, to close the chapter, is meteorological disquiet as one of the branches of antaean vigilance. Belong to it the lamas who inspect their wastes and prophesy disaster. They measure the minutiae in air-dust, in rainwater, in sea-kelp, in duck eggs, in fish livers. Something does not seem to smell right there, despite all hygiene and cleanliness. Then one sees the same lamas hoarding great quantities of the food that is after all so hard to digest.",
+        "It is evidently a change of diet; a being that lived as a vegetarian tries itself in the carnivorous experiment. Indigestion is unavoidable; then it means either returning to the herbs or changing the constitution. In the first case an exercise of power would be unavoidable, like the one the Church enforced against Galileo in 1633. Otherwise it is: `Eat, bird, or die.`"
+      ],
+      "paragraph_alignment": {
+        "de_count": 5,
+        "en_count": 5,
+        "aligned": true,
+        "row_count": 5
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/44-siderische-einteilungen.md"
     }
   ],
   "glossary": [
@@ -4346,7 +4438,7 @@
         "Astral Divisions"
       ],
       "status": "tentative",
-      "notes": "Working after §§85-129. `Siderisch` here begins not as astrology in the narrow sense but as earth-history viewed as the history of a heavenly body, widening at once into cosmogony, apocalypse, technical catastrophe, and the question of whether even cyclical cosmologies still require an axis, a body, and limits to time. By §§88-90 the part also binds modern doom to human work, technocracy, the loss of transcendental counterweight, and the claim that catastrophe can remain collectively unavoidable yet become intensively solvable for the individual. By §§91-93 it adds the martyr standard, the image of the world as a burnable house in human hands, and the first explicit forecasts of political unity, overstrain, and planetary process. By §§94-96 it turns spaceflight into an earth-historical sign, approaches Nietzsche's `wars without powder`, and makes the mismatch between transhistorical means and historical war explicit. By §§97-99 it shifts into atmosphere, monotony, substance-loss, and the possibility that metaphysical hunger itself could die away under technical perfection. By §§100-102 it closes the first substance-account of the part through credit, debt, and countervalue, presses equality into inner `So-Sein`, and binds the whole exchange directly to the title-image at the time wall. By §§103-105 it turns crisis into initiation and passage, reintroduces astrology as the model of a superior synoptic method, and widens the cut into geological epochs, great years, and nearly invisible partial catastrophes. By §§106-108 it rebalances catastrophe by the entry of new types, treats geological disquiet as prior to objective findings, and closes on ice and climate under the sign of a larger cosmic economy. By §§109-111 it tests geological unrest against happiness, reintroduces harmony above death through `Schöpfungsplan` and `Weltplan`, and returns to the measurable field through the geometry of progression: altered earth-color, diminishing wilderness, angle, and row. By §§112-114 it sharpens that progression into the right angle, the nest-versus-plan conflict, the threatened Faustian plan, and finally the methodological claim that geology, history, and freedom are answered differently on this side and beyond the time wall. By §§115-117 it treats humanity itself as layer-forming, reads mass increase and mass revolution as epochal symptoms rather than as mere machine-effects, and reaches `Urgrund` again through two models of world-spiritualization, one artistic and one earth-force. By §§118-120 it turns the same register toward earth-sense, the deliberate preference for `Urgrund` over `Weltgeist`, the possibility of new freedom beyond the wall, and the rare discipline of spiritual sovereignty. By §§121-123 it binds that freedom-problem to voluntariness, invisible cause, antaean mistrust of the elements, technical flight into experiment, and meteorology as a daily planetary science that revives the augur-function inside human knowledge. By §§124-126 it turns the same movement toward electrification: the lightning rod as earth-historical sign, electricity as invisible ordering distinct from steam's brutal visibility, the seam-point of matter and mind at the time wall, and Franklin's city-fields as heralds of a new age entering through weak and meager forms. By §§127-129 it extends electrification into the first organ of antaean unrest, the nerve-like refinement and spiritualization of the technical world, the invisible democracy and world-will moving under `Weltplan`, and finally the explicit admission that the whole electrical argument is analogical and that the present night-view of nature is only a provisional workshop-style awaiting a fuller, ensouled recognition.",
+      "notes": "Working after §§85-132. `Siderisch` here begins not as astrology in the narrow sense but as earth-history viewed as the history of a heavenly body, widening at once into cosmogony, apocalypse, technical catastrophe, and the question of whether even cyclical cosmologies still require an axis, a body, and limits to time. By §§88-90 the part also binds modern doom to human work, technocracy, the loss of transcendental counterweight, and the claim that catastrophe can remain collectively unavoidable yet become intensively solvable for the individual. By §§91-93 it adds the martyr standard, the image of the world as a burnable house in human hands, and the first explicit forecasts of political unity, overstrain, and planetary process. By §§94-96 it turns spaceflight into an earth-historical sign, approaches Nietzsche's `wars without powder`, and makes the mismatch between transhistorical means and historical war explicit. By §§97-99 it shifts into atmosphere, monotony, substance-loss, and the possibility that metaphysical hunger itself could die away under technical perfection. By §§100-102 it closes the first substance-account of the part through credit, debt, and countervalue, presses equality into inner `So-Sein`, and binds the whole exchange directly to the title-image at the time wall. By §§103-105 it turns crisis into initiation and passage, reintroduces astrology as the model of a superior synoptic method, and widens the cut into geological epochs, great years, and nearly invisible partial catastrophes. By §§106-108 it rebalances catastrophe by the entry of new types, treats geological disquiet as prior to objective findings, and closes on ice and climate under the sign of a larger cosmic economy. By §§109-111 it tests geological unrest against happiness, reintroduces harmony above death through `Schöpfungsplan` and `Weltplan`, and returns to the measurable field through the geometry of progression: altered earth-color, diminishing wilderness, angle, and row. By §§112-114 it sharpens that progression into the right angle, the nest-versus-plan conflict, the threatened Faustian plan, and finally the methodological claim that geology, history, and freedom are answered differently on this side and beyond the time wall. By §§115-117 it treats humanity itself as layer-forming, reads mass increase and mass revolution as epochal symptoms rather than as mere machine-effects, and reaches `Urgrund` again through two models of world-spiritualization, one artistic and one earth-force. By §§118-120 it turns the same register toward earth-sense, the deliberate preference for `Urgrund` over `Weltgeist`, the possibility of new freedom beyond the wall, and the rare discipline of spiritual sovereignty. By §§121-123 it binds that freedom-problem to voluntariness, invisible cause, antaean mistrust of the elements, technical flight into experiment, and meteorology as a daily planetary science that revives the augur-function inside human knowledge. By §§124-126 it turns the same movement toward electrification: the lightning rod as earth-historical sign, electricity as invisible ordering distinct from steam's brutal visibility, the seam-point of matter and mind at the time wall, and Franklin's city-fields as heralds of a new age entering through weak and meager forms. By §§127-129 it extends electrification into the first organ of antaean unrest, the nerve-like refinement and spiritualization of the technical world, the invisible democracy and world-will moving under `Weltplan`, and finally the explicit admission that the whole electrical argument is analogical and that the present night-view of nature is only a provisional workshop-style awaiting a fuller, ensouled recognition. By §§130-132 it turns the same movement toward the charged earth-envelope and the intelligent ship: the earth-historical aspect overarches the world-historical, transmission becomes world-language and substance-change, the plan enters a magnetic world of stronger answers, and freedom migrates toward the mantic compass under conditions where steering itself becomes doubtful.",
       "evidence": []
     },
     {
@@ -4378,7 +4470,7 @@
         "divinatory"
       ],
       "status": "tentative",
-      "notes": "Sections 1, 4, 7, and 17 support the technical feel of `mantic`: the word sits beside augury, omens, oracle practices, geomancy, and later `divination` rather than generalized mysticism.",
+      "notes": "Sections 1, 4, 7, 17, and 132 support the technical feel of `mantic`: the word sits beside augury, omens, oracle practices, geomancy, the role of `divination`, and finally the compass as `mantisches Gerät,` rather than generalized mysticism.",
       "evidence": []
     },
     {
@@ -4391,11 +4483,12 @@
         "deep ground"
       ],
       "status": "open",
-      "notes": "Still needs wider context from the final section before fixing. §82 gives the first real pressure in the translated range by reaching `Urgrund` through matter, visibility, and identity rather than through later overtly theological language. §117 carries the term into direct earth-power and world-spiritualization: matter in its deepest form, as `Urgrund,` seizes man as its workman and presses him into service. §118 is the strongest conceptual pressure yet: the term is chosen explicitly over `Weltgeist`, criticized for progressive and anthropocentric residue, and tied to the claim that being is now widely imagined as dwelling in the `Urgrund` rather than in spirit.",
+      "notes": "Still needs wider context from the final section before fixing. §82 gives the first real pressure in the translated range by reaching `Urgrund` through matter, visibility, and identity rather than through later overtly theological language. §117 carries the term into direct earth-power and world-spiritualization: matter in its deepest form, as `Urgrund,` seizes man as its workman and presses him into service. §118 is the strongest conceptual pressure yet: the term is chosen explicitly over `Weltgeist`, criticized for progressive and anthropocentric residue, and tied to the claim that being is now widely imagined as dwelling in the `Urgrund` rather than in spirit. §131 extends it into a mythic-cosmogonic register: the earth as `Urgrund,` as chaos, seeks new fertility and a new garment through the downfall of gods.",
       "evidence": [
         "evidence:term:urgrund:zm:82",
         "evidence:term:urgrund:zm:117",
-        "evidence:term:urgrund:zm:118"
+        "evidence:term:urgrund:zm:118",
+        "evidence:term:urgrund:zm:131"
       ]
     },
     {
@@ -4407,10 +4500,11 @@
         "geo-historical"
       ],
       "status": "tentative",
-      "notes": "The term needs to remain visibly larger in scale than ordinary history. §67 makes it load-bearing by naming man not only as a world-historical being but as an earth-historical one, that is, as species under catastrophe. §124 gives it a concrete technical-historical datum: the first lightning rod is declared not only world-historical but earth-historical, so electrification itself enters the argument as more than a merely human or civilizational event.",
+      "notes": "The term needs to remain visibly larger in scale than ordinary history. §67 makes it load-bearing by naming man not only as a world-historical being but as an earth-historical one, that is, as species under catastrophe. §124 gives it a concrete technical-historical datum: the first lightning rod is declared not only world-historical but earth-historical, so electrification itself enters the argument as more than a merely human or civilizational event. §130 makes the relation explicit: the earth-historical aspect overarches the world-historical, and the charged earth-envelope transforms not only knowledge but substance.",
       "evidence": [
         "evidence:term:erdgeschichtlich:zm:67",
-        "evidence:term:erdgeschichtlich:zm:124"
+        "evidence:term:erdgeschichtlich:zm:124",
+        "evidence:term:erdgeschichtlich:zm:130"
       ]
     },
     {
@@ -4927,6 +5021,24 @@
       "section": "zm:129",
       "file": "texts/zeitmauer/parts/43-siderische-einteilungen.md",
       "note": "Electricity is retained only as analogy; the deeper complaint is that the present mechanized night-view of nature is provisional and leaves an active share of reality out."
+    },
+    {
+      "handle": "zm:130:world-language",
+      "section": "zm:130",
+      "file": "texts/zeitmauer/parts/44-siderische-einteilungen.md",
+      "note": "The charged earth-envelope is said to have both a world-historical and an earth-historical aspect, and every transmission carries hieroglyphs of a world-language that alter substance as well as knowledge."
+    },
+    {
+      "handle": "zm:131:intelligent-ship",
+      "section": "zm:131",
+      "file": "texts/zeitmauer/parts/44-siderische-einteilungen.md",
+      "note": "The plan moves on a narrow track, the ship itself becomes intelligent and field-charged, and the earth as `Urgrund` seeks new fertility through godfall."
+    },
+    {
+      "handle": "zm:132:mantic-compass",
+      "section": "zm:132",
+      "file": "texts/zeitmauer/parts/44-siderische-einteilungen.md",
+      "note": "Freedom persists while its concept changes; the compass becomes a mantic instrument under growing doubt about whether any steering still takes place."
     }
   ],
   "notes": [
@@ -5483,6 +5595,30 @@
       "note": "The section is methodological rather than merely descriptive; `night-view`, `ensoulment`, and `view/intention` have to keep the critique of mechanized knowledge visible."
     },
     {
+      "handle": "note:zm:130:world-language",
+      "section": "zm:130",
+      "anchor": "zm:130:world-language",
+      "file": "texts/zeitmauer/parts/44-siderische-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The section depends on keeping the earth-historical scale, the `world-language`, and the charged visionary image of the earth-envelope visible at once."
+    },
+    {
+      "handle": "note:zm:131:intelligent-ship",
+      "section": "zm:131",
+      "anchor": "zm:131:intelligent-ship",
+      "file": "texts/zeitmauer/parts/44-siderische-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The ship passage only lands if `field-charged`, `infraintelligent attraction`, and `Urgrund` remain live in the same sentence-world."
+    },
+    {
+      "handle": "note:zm:132:mantic-compass",
+      "section": "zm:132",
+      "anchor": "zm:132:mantic-compass",
+      "file": "texts/zeitmauer/parts/44-siderische-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The section clarifies `mantisch` through navigation rather than astrology; the closing lamas and `Eat, bird, or die` have to keep their satirical roughness."
+    },
+    {
       "handle": "note:journal:mumford-bridge",
       "file": "texts/zeitmauer/journal.md",
       "heading": "2026-03-29 — Mumford as Bridge Text",
@@ -5504,7 +5640,7 @@
       "status": "tentative",
       "note": "Local dossier for measurable time, fateful time, and the widening crisis of abstract planning.",
       "title": "Time Crisis",
-      "content": "# Time Crisis\n\nHandle: `thread:time-crisis`\n\nThe main thread so far in `texts/zeitmauer`: the collision between measurable time and qualitative or fateful time.\n\n## Core Path\n\n- `evidence:term:schicksalszeit:zm:4` grounds the first explicit contrast.\n- `zm:9:church-year` crystallizes the difference by moving from astrology into the church year.\n- `zm:13:schicksalsuhr` extends that move by naming the horoscope as an uneven clock.\n- `zm:14:abdichtung` widens the problem from interpretation to planning, ceremony, and the need to seal life toward the side of fate.\n- `zm:25:plan-freedom` pushes the crisis into insurance, plan-accounting, and the immediate language of freedom.\n- `zm:28:periodicity` extends the crisis into flattened rhythms, denied sacrifice, and catastrophe.\n- `zm:31:so-sein-gleichsein` closes the part where the crisis becomes one of singular form versus uniformity and mass fate.\n- `zm:32:spiral` reopens it as a problem of how world-time and great ages are divided at all.\n- `zm:38:logos-nomos` reconnects the Part 3 problem explicitly to measurable astronomical time and interpreted fateful time.\n- `zm:43:two-houses` crystallizes the limit of morphology: historical similarity can conceal radical difference in fateful time.\n- `zm:44:zeitfragen` extends the crisis beyond human history: behind questions of power, questions of time are at work.\n- `zm:48:zeitmauer` names the threshold directly: beyond the time wall the future begins to outline itself, and naming that zone becomes dangerous.\n- `zm:51:namenlos` extends the threshold into a naming crisis: future things are visible before historically binding words can catch them.\n- `zm:54:lichtfrage` clarifies that the threshold is not simple mythic return; the issue is a changed light and the approach of a new order.\n- `zm:56:bruchstelle` extends the fracture into discovery itself: prehistoric visibility becomes a symptom of where we stand in time.\n- `zm:63:erdheimat` extends the crisis into boundary and earth-order: blood-toll, weakened borders, and technique belong to a changing nomos of the earth.\n- `zm:67:erdgeistig` extends the crisis into earth-spiritual force and species-level threat: technique, recurrence, and catastrophe now exceed merely historical categories.\n- `zm:70:projected-spirit` extends the crisis into technology itself: the decisive threshold is no longer limb-prosthesis but the imitation of nervous and geistige powers.\n- `zm:71:planetary-aura` extends the crisis to planetary scale: the new skin of signals and messages is read as a metahistorical stage of earth-spiritualization.\n- `zm:76:moses-bruchstelle` extends the crisis back through revelation: metahistorical time-division is now named explicitly as a means of judging the present.\n- `zm:82:urgrund` extends the crisis into fear, state doctrine, and materialism: the farther view opens only if thought descends into the deepest ground of matter.\n- `zm:85:axis` extends the crisis to cosmic scale: even the eternally rolling wheel demands an axis, a body, and limits to time.\n- `zm:88:archimedean-point` extends the crisis into modern doom itself: once catastrophe is tied to human work alone, moralism circles helplessly unless a transcendental point is regained.\n- `zm:89:intensive-solution` answers the crisis at another scale: what cannot be solved extensively may still become intensively solvable for the individual.\n- `zm:92:burnable-house` extends the crisis into direct human agency: the world becomes a burnable house, and catastrophe is imagined as lying in human hands.\n- `zm:93:world-unity` extends the crisis into explicit planetary prognosis: unity, overstrain, and positional gain are future forms of one process rather than separate political options.\n- `zm:94:spaceflight` extends the crisis into planetary charge and transformed technique: spaceflight becomes an earth-historical sign and the worker's lighter, freer principle.\n- `zm:96:transhistorical-means` makes the mismatch explicit: the danger lies in transhistorical means being used historically, above all as material war.\n- `zm:97:clockwork-hour` extends the crisis into atmosphere itself: the world fills with clocks, becomes clockwork, and fear suspects that all are set to an hour.\n- `zm:99:last-man` extends the crisis into substance-loss: technical perfection threatens to detach happiness, freedom, and even art from metaphysical hunger.\n- `zm:100:substance-surrender` extends the crisis into social and political accounting: equality now penetrates inner `So-Sein`, and the loss appears as invested substance rather than mere nihilistic dwindling.\n- `zm:102:wechselspiel` crystallizes the title-image again: monotony robs within historical space while the transhistorical knocks from outside it, and the unreceipted part of the surrender accumulates at the time wall.\n- `zm:103:through-the-wall` crystallizes the passage-form of the crisis: initiation requires crossing the line, the wall, and death itself rather than merely reflecting on them.\n- `zm:104:astrological-model` extends the crisis into method directly: astrology is valued not as doctrine but as the model of a synoptic procedure that can keep measure and metaphysical quality together.\n- `zm:105:grossjahre` extends the crisis into geology and long duration: the cut may separate not just historical epochs but geological ones, and catastrophe can be partial, regional, and nearly invisible.\n- `zm:106:new-types` extends the crisis into entry and world-style: what appears as catastrophe has to be thought together with the entrance of new types and new harmonies.\n- `zm:107:geological-disquiet` crystallizes the priorness of unrest: geological findings do not create the disturbance but organize it, and the apparatuses are feelers.\n- `zm:108:cosmic-economy` extends the crisis into measurable climate-shift: gain and loss remain double, and ice itself belongs to a larger cosmic economy.\n- `zm:109:great-winter` extends the crisis into happiness and memory: glaciation itself may become a stroke of luck when judged dynamically, and climate carries prehistorical memory within human longing.\n- `zm:110:world-plan` crystallizes the plan-problem at a higher level: harmony stands above death, and human and state plans are corrected within the world-plan once they pass beyond the historical field.\n- `zm:111:angle` extends the crisis back into the measurable field: progression is visible in altered earth-color, diminishing wilderness, and the spread of angle and row as marks of conquered measure-power.\n- `zm:112:right-angle` extends the crisis into settlement-form itself: angle and row harden into the right angle, the rectangle, the cadastral sheet, and the destruction of nests by the Faustian plan.\n- `zm:113:faustian-plan` extends the crisis into ground-level mistrust: what is threatened is no longer only historical stock but the Faustian plan itself, with property, boundary, and security becoming doubtful from the ground up.\n- `zm:114:beyond-the-wall` crystallizes the methodological split: the question whether human plan-induced change belongs to geology is answered differently on this side and beyond the time wall.\n- `zm:115:layer-forming` extends the crisis into stratigraphy itself: man becomes layer-forming and layer-determining, and the transition is said to lie at the time wall.\n- `zm:116:mass-revolution` extends the crisis into demography and labor: mass increase and even mass revolution are treated as signs of a deeper common process rather than as simple effects of machine-technology.\n- `zm:117:urgrund-workman` crystallizes the deepest register yet: `Urgrund` returns as earth-power, and human work becomes a possible medium of world-spiritualization.\n- `zm:118:earth-sense` extends the crisis into the earth-sense of human activity itself: man spiritually penetrates the layer he forms, and `Urgrund` is explicitly preferred to `Weltgeist` as the deeper register.\n- `zm:119:new-freedom` crystallizes the freedom problem at the wall: beyond the line and beyond the time wall, compulsion and freedom can invert, and new fields of freedom begin to widen.\n- `zm:120:spiritual-sovereignty` extends the crisis into the rare individual case: spiritual sovereignty is exacting, non-activist, and bound to inspection, declaration, and rightful letting-pass.\n- `zm:121:volunteers` extends the crisis into voluntariness itself: time-boundaries exact freedom in motion, while the good cause stays invisible and spiritual freedom remains a different register.\n- `zm:122:fifth-element` extends the crisis into the elements and the laboratory: acceleration conceals a flight tendency, experiment enters the geological and cosmic household, and overreach becomes epochal.\n- `zm:123:meteorological-augur` crystallizes the crisis as daily planetary science: meteorology becomes the most sensitive unrest and restores the augur-function within technical knowledge.\n- `zm:124:lightning-rod` extends the crisis into electrification: the lightning rod becomes an earth-historical sign, and electricity opens a new dynamic age through subtle invisible ordering.\n- `zm:125:identity-process` crystallizes the crisis at the deepest interior point so far: matter's self-liberation and man's self-knowledge are posed together as a seam-point task at the wall.\n- `zm:126:franklin` extends the crisis into tragic disproportion: new ages enter through weak points, hidden fields, and meager advance forms before historical understanding can justify them.\n- `zm:127:first-organ` extends the crisis into the electrical body itself: the lightning rod becomes first organ, and the globe-spanning web of wires and antennas begins to resemble nerves and senses.\n- `zm:128:invisible-democracy` crystallizes the crisis politically: visible democracy hides a more compelling invisible one, where world-opinion and world-will move under the world-plan.\n- `zm:129:night-view` extends the crisis methodologically: measurable electrical facts are only examples, while the real unrest comes from a mechanized night-view that reaches too little of reality.\n- `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.\n- `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.\n\n## Current Claim\n\n`thread:time-crisis` is no longer just a local theme about astrology. It names a broader conflict over what kinds of reality can be measured without being destroyed by measurement.\n\nJünger's strategy is to lead the reader out of the apparently \"occult\" cases and into ordinary ones:\n\n- the backing of paper money in `zm:7:banking`\n- the church year in `zm:9:church-year`\n- the horoscope as `zm:13:schicksalsuhr`\n- Roman augury and ceremony in `zm:14:abdichtung`\n- the `Titanic`, the record, and abstract time in `zm:15:titanic-record`\n- insurance, plan-accounting, and free musische speech in `zm:25:plan-freedom`\n- periodicity, raised dikes, and enlarged catastrophe in `zm:28:periodicity`\n- `So-Sein`, sameness, and resistance to Leviathan in `zm:31:so-sein-gleichsein`\n- line, circle, and spiral at the opening of `Humane Einteilungen` in `zm:32:spiral`\n- `Logos`, `Nomos`, and the methodological return of `Schicksalszeit` in `zm:38:logos-nomos`\n- two houses historically similar yet fateful-time different in `zm:43:two-houses`\n- species-loss and species-emergence pushed behind time-questions in `zm:44:zeitfragen`\n- the future outlining itself beyond the `Zeitmauer` in `zm:48:zeitmauer`\n- the name-less future and the shrinking reservation of historical naming in `zm:51:namenlos`\n- the light-question and the non-return of mythic rule in `zm:54:lichtfrage`\n- the suspicious `Why now?` of prehistoric discovery in `zm:56:bruchstelle`\n- border-weakening, earth-home, and technique as earth-spiritualization in `zm:63:erdheimat`\n- `magisch` narrowed toward `erdgeistig`, with technique and species-threat folded in at `zm:67:erdgeistig`\n- prosthesis, nervous-system imitation, and technology as projected spirit in `zm:70:projected-spirit`\n- the planet's woven aura of messages and melodies in `zm:71:planetary-aura`\n- Moses at one of the great fracture points in `zm:76:moses-bruchstelle`\n- fear, judgment, and `Urgrund` in `zm:82:urgrund`\n- the axis behind the eternally rolling wheel and time's limits in `zm:85:axis`\n- moralism without an Archimedean point and the specter of technocracy in `zm:88:archimedean-point`\n- intensive solution beyond number and statistics in `zm:89:intensive-solution`\n- the world as burnable house in `zm:92:burnable-house`\n- world-unity, overstrain, and planetary political prognosis in `zm:93:world-unity`\n- spaceflight as earth-historical sign in `zm:94:spaceflight`\n- transhistorical means used historically in `zm:96:transhistorical-means`\n- the world as clockwork and the hour set in `zm:97:clockwork-hour`\n- the `Last Man` and technically producible art in `zm:99:last-man`\n- equality invading inner `So-Sein` and invested substance-loss in `zm:100:substance-surrender`\n- the terrible interplay at the time wall in `zm:102:wechselspiel`\n- crossing the wall itself in `zm:103:through-the-wall`\n- astrology as model of a superior synoptic procedure in `zm:104:astrological-model`\n- geological epochs and vast great years in `zm:105:grossjahre`\n- catastrophe and the entry of new types in `zm:106:new-types`\n- geological unrest prior to its instruments in `zm:107:geological-disquiet`\n- ice as hoarded treasure of the cosmic economy in `zm:108:cosmic-economy`\n- great winters, hominization, and the layered question of happiness in `zm:109:great-winter`\n- the correction of state and human plans within `Weltplan` in `zm:110:world-plan`\n- angle and serial ordering as signatures of measured progression in `zm:111:angle`\n- the right angle, the cadastral sheet, and the destruction of nests by the Faustian plan in `zm:112:right-angle`\n- the threatened Faustian plan and the doubt cast on property, boundary, and security in `zm:113:faustian-plan`\n- the geology-history overlap answered differently on this side and beyond the wall in `zm:114:beyond-the-wall`\n- the human as layer-forming and layer-determining being at the wall in `zm:115:layer-forming`\n- mass increase and mass revolution as epochal symptoms in `zm:116:mass-revolution`\n- `Urgrund` as earth-power taking man as workman in `zm:117:urgrund-workman`\n- the earth-sense of human activity and the deliberate choice of `Urgrund` over `Weltgeist` in `zm:118:earth-sense`\n- new freedom widening beyond the line and beyond the wall in `zm:119:new-freedom`\n- spiritual sovereignty as exactness, inspection, and declaration in `zm:120:spiritual-sovereignty`\n- voluntariness, invisible cause, and time-boundaries in `zm:121:volunteers`\n- flight tendency toward a fifth element and experiment in the geological and cosmic household in `zm:122:fifth-element`\n- meteorology as daily planetary science and restored augur-function in `zm:123:meteorological-augur`\n- the lightning rod as earth-historical sign and electrification as invisible ordering in `zm:124:lightning-rod`\n- the seam-point of matter's self-liberation and man's self-knowledge in `zm:125:identity-process`\n- Franklin, hidden city-fields, and the tragedy of weak heralds in `zm:126:franklin`\n- the lightning rod as first organ and the electrical web as nerve-like spiritualization in `zm:127:first-organ`\n- invisible democracy, world-opinion, and world-will under `Weltplan` in `zm:128:invisible-democracy`\n- the mechanized night-view and the demand for a fuller ensouled recognition of nature in `zm:129:night-view`\n\n## Commentary Use\n\nThis thread should be the default test case for the commentary layer because it already supports:\n\n- section-to-section resonance\n- glossary evidence chains\n- traversal from translation note to higher-order dossier\n- extension into cross-project synthesis without leaving the text behind\n"
+      "content": "# Time Crisis\n\nHandle: `thread:time-crisis`\n\nThe main thread so far in `texts/zeitmauer`: the collision between measurable time and qualitative or fateful time.\n\n## Core Path\n\n- `evidence:term:schicksalszeit:zm:4` grounds the first explicit contrast.\n- `zm:9:church-year` crystallizes the difference by moving from astrology into the church year.\n- `zm:13:schicksalsuhr` extends that move by naming the horoscope as an uneven clock.\n- `zm:14:abdichtung` widens the problem from interpretation to planning, ceremony, and the need to seal life toward the side of fate.\n- `zm:25:plan-freedom` pushes the crisis into insurance, plan-accounting, and the immediate language of freedom.\n- `zm:28:periodicity` extends the crisis into flattened rhythms, denied sacrifice, and catastrophe.\n- `zm:31:so-sein-gleichsein` closes the part where the crisis becomes one of singular form versus uniformity and mass fate.\n- `zm:32:spiral` reopens it as a problem of how world-time and great ages are divided at all.\n- `zm:38:logos-nomos` reconnects the Part 3 problem explicitly to measurable astronomical time and interpreted fateful time.\n- `zm:43:two-houses` crystallizes the limit of morphology: historical similarity can conceal radical difference in fateful time.\n- `zm:44:zeitfragen` extends the crisis beyond human history: behind questions of power, questions of time are at work.\n- `zm:48:zeitmauer` names the threshold directly: beyond the time wall the future begins to outline itself, and naming that zone becomes dangerous.\n- `zm:51:namenlos` extends the threshold into a naming crisis: future things are visible before historically binding words can catch them.\n- `zm:54:lichtfrage` clarifies that the threshold is not simple mythic return; the issue is a changed light and the approach of a new order.\n- `zm:56:bruchstelle` extends the fracture into discovery itself: prehistoric visibility becomes a symptom of where we stand in time.\n- `zm:63:erdheimat` extends the crisis into boundary and earth-order: blood-toll, weakened borders, and technique belong to a changing nomos of the earth.\n- `zm:67:erdgeistig` extends the crisis into earth-spiritual force and species-level threat: technique, recurrence, and catastrophe now exceed merely historical categories.\n- `zm:70:projected-spirit` extends the crisis into technology itself: the decisive threshold is no longer limb-prosthesis but the imitation of nervous and geistige powers.\n- `zm:71:planetary-aura` extends the crisis to planetary scale: the new skin of signals and messages is read as a metahistorical stage of earth-spiritualization.\n- `zm:76:moses-bruchstelle` extends the crisis back through revelation: metahistorical time-division is now named explicitly as a means of judging the present.\n- `zm:82:urgrund` extends the crisis into fear, state doctrine, and materialism: the farther view opens only if thought descends into the deepest ground of matter.\n- `zm:85:axis` extends the crisis to cosmic scale: even the eternally rolling wheel demands an axis, a body, and limits to time.\n- `zm:88:archimedean-point` extends the crisis into modern doom itself: once catastrophe is tied to human work alone, moralism circles helplessly unless a transcendental point is regained.\n- `zm:89:intensive-solution` answers the crisis at another scale: what cannot be solved extensively may still become intensively solvable for the individual.\n- `zm:92:burnable-house` extends the crisis into direct human agency: the world becomes a burnable house, and catastrophe is imagined as lying in human hands.\n- `zm:93:world-unity` extends the crisis into explicit planetary prognosis: unity, overstrain, and positional gain are future forms of one process rather than separate political options.\n- `zm:94:spaceflight` extends the crisis into planetary charge and transformed technique: spaceflight becomes an earth-historical sign and the worker's lighter, freer principle.\n- `zm:96:transhistorical-means` makes the mismatch explicit: the danger lies in transhistorical means being used historically, above all as material war.\n- `zm:97:clockwork-hour` extends the crisis into atmosphere itself: the world fills with clocks, becomes clockwork, and fear suspects that all are set to an hour.\n- `zm:99:last-man` extends the crisis into substance-loss: technical perfection threatens to detach happiness, freedom, and even art from metaphysical hunger.\n- `zm:100:substance-surrender` extends the crisis into social and political accounting: equality now penetrates inner `So-Sein`, and the loss appears as invested substance rather than mere nihilistic dwindling.\n- `zm:102:wechselspiel` crystallizes the title-image again: monotony robs within historical space while the transhistorical knocks from outside it, and the unreceipted part of the surrender accumulates at the time wall.\n- `zm:103:through-the-wall` crystallizes the passage-form of the crisis: initiation requires crossing the line, the wall, and death itself rather than merely reflecting on them.\n- `zm:104:astrological-model` extends the crisis into method directly: astrology is valued not as doctrine but as the model of a synoptic procedure that can keep measure and metaphysical quality together.\n- `zm:105:grossjahre` extends the crisis into geology and long duration: the cut may separate not just historical epochs but geological ones, and catastrophe can be partial, regional, and nearly invisible.\n- `zm:106:new-types` extends the crisis into entry and world-style: what appears as catastrophe has to be thought together with the entrance of new types and new harmonies.\n- `zm:107:geological-disquiet` crystallizes the priorness of unrest: geological findings do not create the disturbance but organize it, and the apparatuses are feelers.\n- `zm:108:cosmic-economy` extends the crisis into measurable climate-shift: gain and loss remain double, and ice itself belongs to a larger cosmic economy.\n- `zm:109:great-winter` extends the crisis into happiness and memory: glaciation itself may become a stroke of luck when judged dynamically, and climate carries prehistorical memory within human longing.\n- `zm:110:world-plan` crystallizes the plan-problem at a higher level: harmony stands above death, and human and state plans are corrected within the world-plan once they pass beyond the historical field.\n- `zm:111:angle` extends the crisis back into the measurable field: progression is visible in altered earth-color, diminishing wilderness, and the spread of angle and row as marks of conquered measure-power.\n- `zm:112:right-angle` extends the crisis into settlement-form itself: angle and row harden into the right angle, the rectangle, the cadastral sheet, and the destruction of nests by the Faustian plan.\n- `zm:113:faustian-plan` extends the crisis into ground-level mistrust: what is threatened is no longer only historical stock but the Faustian plan itself, with property, boundary, and security becoming doubtful from the ground up.\n- `zm:114:beyond-the-wall` crystallizes the methodological split: the question whether human plan-induced change belongs to geology is answered differently on this side and beyond the time wall.\n- `zm:115:layer-forming` extends the crisis into stratigraphy itself: man becomes layer-forming and layer-determining, and the transition is said to lie at the time wall.\n- `zm:116:mass-revolution` extends the crisis into demography and labor: mass increase and even mass revolution are treated as signs of a deeper common process rather than as simple effects of machine-technology.\n- `zm:117:urgrund-workman` crystallizes the deepest register yet: `Urgrund` returns as earth-power, and human work becomes a possible medium of world-spiritualization.\n- `zm:118:earth-sense` extends the crisis into the earth-sense of human activity itself: man spiritually penetrates the layer he forms, and `Urgrund` is explicitly preferred to `Weltgeist` as the deeper register.\n- `zm:119:new-freedom` crystallizes the freedom problem at the wall: beyond the line and beyond the time wall, compulsion and freedom can invert, and new fields of freedom begin to widen.\n- `zm:120:spiritual-sovereignty` extends the crisis into the rare individual case: spiritual sovereignty is exacting, non-activist, and bound to inspection, declaration, and rightful letting-pass.\n- `zm:121:volunteers` extends the crisis into voluntariness itself: time-boundaries exact freedom in motion, while the good cause stays invisible and spiritual freedom remains a different register.\n- `zm:122:fifth-element` extends the crisis into the elements and the laboratory: acceleration conceals a flight tendency, experiment enters the geological and cosmic household, and overreach becomes epochal.\n- `zm:123:meteorological-augur` crystallizes the crisis as daily planetary science: meteorology becomes the most sensitive unrest and restores the augur-function within technical knowledge.\n- `zm:124:lightning-rod` extends the crisis into electrification: the lightning rod becomes an earth-historical sign, and electricity opens a new dynamic age through subtle invisible ordering.\n- `zm:125:identity-process` crystallizes the crisis at the deepest interior point so far: matter's self-liberation and man's self-knowledge are posed together as a seam-point task at the wall.\n- `zm:126:franklin` extends the crisis into tragic disproportion: new ages enter through weak points, hidden fields, and meager advance forms before historical understanding can justify them.\n- `zm:127:first-organ` extends the crisis into the electrical body itself: the lightning rod becomes first organ, and the globe-spanning web of wires and antennas begins to resemble nerves and senses.\n- `zm:128:invisible-democracy` crystallizes the crisis politically: visible democracy hides a more compelling invisible one, where world-opinion and world-will move under the world-plan.\n- `zm:129:night-view` extends the crisis methodologically: measurable electrical facts are only examples, while the real unrest comes from a mechanized night-view that reaches too little of reality.\n- `zm:130:world-language` extends the crisis beyond history proper: the charged earth-envelope carries a world-language in every transmission, and not only knowledge but substance changes.\n- `zm:131:intelligent-ship` crystallizes the crisis as magnetic passage: the ship itself has become intelligent, stronger answers arrive, and the earth as `Urgrund` seeks new fertility through godfall.\n- `zm:132:mantic-compass` extends the crisis into freedom and navigation: the compass becomes mantic precisely where responsibility becomes uncontrollable and steering itself doubtful.\n- `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.\n- `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.\n\n## Current Claim\n\n`thread:time-crisis` is no longer just a local theme about astrology. It names a broader conflict over what kinds of reality can be measured without being destroyed by measurement.\n\nJünger's strategy is to lead the reader out of the apparently \"occult\" cases and into ordinary ones:\n\n- the backing of paper money in `zm:7:banking`\n- the church year in `zm:9:church-year`\n- the horoscope as `zm:13:schicksalsuhr`\n- Roman augury and ceremony in `zm:14:abdichtung`\n- the `Titanic`, the record, and abstract time in `zm:15:titanic-record`\n- insurance, plan-accounting, and free musische speech in `zm:25:plan-freedom`\n- periodicity, raised dikes, and enlarged catastrophe in `zm:28:periodicity`\n- `So-Sein`, sameness, and resistance to Leviathan in `zm:31:so-sein-gleichsein`\n- line, circle, and spiral at the opening of `Humane Einteilungen` in `zm:32:spiral`\n- `Logos`, `Nomos`, and the methodological return of `Schicksalszeit` in `zm:38:logos-nomos`\n- two houses historically similar yet fateful-time different in `zm:43:two-houses`\n- species-loss and species-emergence pushed behind time-questions in `zm:44:zeitfragen`\n- the future outlining itself beyond the `Zeitmauer` in `zm:48:zeitmauer`\n- the name-less future and the shrinking reservation of historical naming in `zm:51:namenlos`\n- the light-question and the non-return of mythic rule in `zm:54:lichtfrage`\n- the suspicious `Why now?` of prehistoric discovery in `zm:56:bruchstelle`\n- border-weakening, earth-home, and technique as earth-spiritualization in `zm:63:erdheimat`\n- `magisch` narrowed toward `erdgeistig`, with technique and species-threat folded in at `zm:67:erdgeistig`\n- prosthesis, nervous-system imitation, and technology as projected spirit in `zm:70:projected-spirit`\n- the planet's woven aura of messages and melodies in `zm:71:planetary-aura`\n- Moses at one of the great fracture points in `zm:76:moses-bruchstelle`\n- fear, judgment, and `Urgrund` in `zm:82:urgrund`\n- the axis behind the eternally rolling wheel and time's limits in `zm:85:axis`\n- moralism without an Archimedean point and the specter of technocracy in `zm:88:archimedean-point`\n- intensive solution beyond number and statistics in `zm:89:intensive-solution`\n- the world as burnable house in `zm:92:burnable-house`\n- world-unity, overstrain, and planetary political prognosis in `zm:93:world-unity`\n- spaceflight as earth-historical sign in `zm:94:spaceflight`\n- transhistorical means used historically in `zm:96:transhistorical-means`\n- the world as clockwork and the hour set in `zm:97:clockwork-hour`\n- the `Last Man` and technically producible art in `zm:99:last-man`\n- equality invading inner `So-Sein` and invested substance-loss in `zm:100:substance-surrender`\n- the terrible interplay at the time wall in `zm:102:wechselspiel`\n- crossing the wall itself in `zm:103:through-the-wall`\n- astrology as model of a superior synoptic procedure in `zm:104:astrological-model`\n- geological epochs and vast great years in `zm:105:grossjahre`\n- catastrophe and the entry of new types in `zm:106:new-types`\n- geological unrest prior to its instruments in `zm:107:geological-disquiet`\n- ice as hoarded treasure of the cosmic economy in `zm:108:cosmic-economy`\n- great winters, hominization, and the layered question of happiness in `zm:109:great-winter`\n- the correction of state and human plans within `Weltplan` in `zm:110:world-plan`\n- angle and serial ordering as signatures of measured progression in `zm:111:angle`\n- the right angle, the cadastral sheet, and the destruction of nests by the Faustian plan in `zm:112:right-angle`\n- the threatened Faustian plan and the doubt cast on property, boundary, and security in `zm:113:faustian-plan`\n- the geology-history overlap answered differently on this side and beyond the wall in `zm:114:beyond-the-wall`\n- the human as layer-forming and layer-determining being at the wall in `zm:115:layer-forming`\n- mass increase and mass revolution as epochal symptoms in `zm:116:mass-revolution`\n- `Urgrund` as earth-power taking man as workman in `zm:117:urgrund-workman`\n- the earth-sense of human activity and the deliberate choice of `Urgrund` over `Weltgeist` in `zm:118:earth-sense`\n- new freedom widening beyond the line and beyond the wall in `zm:119:new-freedom`\n- spiritual sovereignty as exactness, inspection, and declaration in `zm:120:spiritual-sovereignty`\n- voluntariness, invisible cause, and time-boundaries in `zm:121:volunteers`\n- flight tendency toward a fifth element and experiment in the geological and cosmic household in `zm:122:fifth-element`\n- meteorology as daily planetary science and restored augur-function in `zm:123:meteorological-augur`\n- the lightning rod as earth-historical sign and electrification as invisible ordering in `zm:124:lightning-rod`\n- the seam-point of matter's self-liberation and man's self-knowledge in `zm:125:identity-process`\n- Franklin, hidden city-fields, and the tragedy of weak heralds in `zm:126:franklin`\n- the lightning rod as first organ and the electrical web as nerve-like spiritualization in `zm:127:first-organ`\n- invisible democracy, world-opinion, and world-will under `Weltplan` in `zm:128:invisible-democracy`\n- the mechanized night-view and the demand for a fuller ensouled recognition of nature in `zm:129:night-view`\n- the charged earth-envelope, world-language, and changing substance in `zm:130:world-language`\n- the intelligent ship in a magnetic world and the earth as `Urgrund` seeking new fertility in `zm:131:intelligent-ship`\n- freedom's changing concept and the compass as mantic device in `zm:132:mantic-compass`\n\n## Commentary Use\n\nThis thread should be the default test case for the commentary layer because it already supports:\n\n- section-to-section resonance\n- glossary evidence chains\n- traversal from translation note to higher-order dossier\n- extension into cross-project synthesis without leaving the text behind\n"
     },
     {
       "handle": "thread:mumford-bridge",
@@ -5658,6 +5794,15 @@
       "file": "texts/zeitmauer/parts/43-siderische-einteilungen.md",
       "relation": "grounds",
       "note": "Extends the term into democracy and planning directly: the world-plan is said to be more comprehensive than every social and state plan and to control planning from behind."
+    },
+    {
+      "handle": "evidence:term:erdgeschichtlich:zm:130",
+      "term": "term:erdgeschichtlich",
+      "term_label": "erdgeschichtlich",
+      "anchor": "zm:130:world-language",
+      "file": "texts/zeitmauer/parts/44-siderische-einteilungen.md",
+      "relation": "grounds",
+      "note": "Makes the scale-relation explicit: the earth-historical aspect is said to overarch the world-historical, and the charged earth-envelope changes substance as well as knowledge."
     },
     {
       "handle": "evidence:term:schicksalszeit:zm:38",
@@ -5874,6 +6019,15 @@
       "file": "texts/zeitmauer/parts/40-siderische-einteilungen.md",
       "relation": "grounds",
       "note": "Makes the term explicitly programmatic: `Urgrund` is chosen over `Weltgeist`, criticized for progressive and anthropocentric residue, and linked to the belief that being dwells there rather than in spirit."
+    },
+    {
+      "handle": "evidence:term:urgrund:zm:131",
+      "term": "term:urgrund",
+      "term_label": "Urgrund",
+      "anchor": "zm:131:intelligent-ship",
+      "file": "texts/zeitmauer/parts/44-siderische-einteilungen.md",
+      "relation": "grounds",
+      "note": "Extends the term into a mythic-cosmogonic register: the earth as `Urgrund,` as chaos, seeks new fertility and a new garment through the downfall of gods."
     },
     {
       "handle": "evidence:term:an-der-zeitmauer:zm:125",
@@ -6301,6 +6455,24 @@
       "note": "The method dossier is sharpened from the Naturphilosophie side: worthy intuition, ensoulment, and the critique of the titanically mechanized life-image are stated directly."
     },
     {
+      "from": "zm:130:world-language",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now overtly exceeds world-history: the charged earth-envelope carries a world-language in every transmission, and substance changes alongside knowledge."
+    },
+    {
+      "from": "zm:131:intelligent-ship",
+      "relation": "crystallizes",
+      "to": "thread:time-crisis",
+      "note": "The crisis now takes the form of an intelligent ship in a magnetic world, where stronger answers arrive and the earth as `Urgrund` seeks new fertility through the fall of gods."
+    },
+    {
+      "from": "zm:132:mantic-compass",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now shifts into navigation itself: freedom remains while its concept changes, and the compass becomes a mantic device under growing doubt about whether any steering still occurs."
+    },
+    {
       "from": "note:journal:mumford-bridge",
       "relation": "grounds",
       "to": "thread:mumford-bridge",
@@ -6455,7 +6627,10 @@
       "zm:126",
       "zm:127",
       "zm:128",
-      "zm:129"
+      "zm:129",
+      "zm:130",
+      "zm:131",
+      "zm:132"
     ],
     "term_handles": [
       "term:an-der-zeitmauer",
@@ -6543,7 +6718,10 @@
       "zm:126:franklin",
       "zm:127:first-organ",
       "zm:128:invisible-democracy",
-      "zm:129:night-view"
+      "zm:129:night-view",
+      "zm:130:world-language",
+      "zm:131:intelligent-ship",
+      "zm:132:mantic-compass"
     ],
     "note_handles": [
       "note:zm:1:seidenschwanz",
@@ -6615,6 +6793,9 @@
       "note:zm:127:first-organ",
       "note:zm:128:invisible-democracy",
       "note:zm:129:night-view",
+      "note:zm:130:world-language",
+      "note:zm:131:intelligent-ship",
+      "note:zm:132:mantic-compass",
       "note:journal:mumford-bridge",
       "note:journal:goethe-leibniz-frame"
     ],
@@ -6639,6 +6820,7 @@
       "evidence:term:weltplan:zm:37",
       "evidence:term:weltplan:zm:110",
       "evidence:term:weltplan:zm:128",
+      "evidence:term:erdgeschichtlich:zm:130",
       "evidence:term:schicksalszeit:zm:38",
       "evidence:term:schicksalszeit:zm:43",
       "evidence:term:an-der-zeitmauer:zm:48",
@@ -6663,6 +6845,7 @@
       "evidence:term:urgrund:zm:82",
       "evidence:term:urgrund:zm:117",
       "evidence:term:urgrund:zm:118",
+      "evidence:term:urgrund:zm:131",
       "evidence:term:an-der-zeitmauer:zm:125"
     ],
     "sections_by_part": {
@@ -6801,57 +6984,60 @@
         "zm:126",
         "zm:127",
         "zm:128",
-        "zm:129"
+        "zm:129",
+        "zm:130",
+        "zm:131",
+        "zm:132"
       ]
     },
     "by_handle": {
       "evidence:term:an-der-zeitmauer:zm:102": {
         "kind": "evidence",
-        "index": 18
+        "index": 19
       },
       "evidence:term:an-der-zeitmauer:zm:103": {
         "kind": "evidence",
-        "index": 19
+        "index": 20
       },
       "evidence:term:an-der-zeitmauer:zm:114": {
         "kind": "evidence",
-        "index": 20
+        "index": 21
       },
       "evidence:term:an-der-zeitmauer:zm:115": {
         "kind": "evidence",
-        "index": 21
+        "index": 22
       },
       "evidence:term:an-der-zeitmauer:zm:119": {
         "kind": "evidence",
-        "index": 22
+        "index": 23
       },
       "evidence:term:an-der-zeitmauer:zm:125": {
         "kind": "evidence",
-        "index": 39
+        "index": 41
       },
       "evidence:term:an-der-zeitmauer:zm:48": {
         "kind": "evidence",
-        "index": 17
+        "index": 18
       },
       "evidence:term:bruchstelle:zm:1": {
         "kind": "evidence",
-        "index": 25
+        "index": 26
       },
       "evidence:term:bruchstelle:zm:54": {
         "kind": "evidence",
-        "index": 26
+        "index": 27
       },
       "evidence:term:bruchstelle:zm:56": {
         "kind": "evidence",
-        "index": 27
+        "index": 28
       },
       "evidence:term:bruchstelle:zm:76": {
         "kind": "evidence",
-        "index": 35
+        "index": 36
       },
       "evidence:term:da-sein-so-sein:zm:100": {
         "kind": "evidence",
-        "index": 24
+        "index": 25
       },
       "evidence:term:da-sein-so-sein:zm:11": {
         "kind": "evidence",
@@ -6867,35 +7053,39 @@
       },
       "evidence:term:da-sein-so-sein:zm:49": {
         "kind": "evidence",
-        "index": 23
+        "index": 24
       },
       "evidence:term:erdgeistig:zm:67": {
         "kind": "evidence",
-        "index": 30
+        "index": 31
       },
       "evidence:term:erdgeistig:zm:68": {
         "kind": "evidence",
-        "index": 31
+        "index": 32
       },
       "evidence:term:erdgeistig:zm:70": {
         "kind": "evidence",
-        "index": 32
+        "index": 33
       },
       "evidence:term:erdgeistig:zm:76": {
         "kind": "evidence",
-        "index": 33
+        "index": 34
       },
       "evidence:term:erdgeistig:zm:97": {
         "kind": "evidence",
-        "index": 34
+        "index": 35
       },
       "evidence:term:erdgeschichtlich:zm:124": {
         "kind": "evidence",
-        "index": 29
+        "index": 30
+      },
+      "evidence:term:erdgeschichtlich:zm:130": {
+        "kind": "evidence",
+        "index": 15
       },
       "evidence:term:erdgeschichtlich:zm:67": {
         "kind": "evidence",
-        "index": 28
+        "index": 29
       },
       "evidence:term:hinzutretende:zm:36": {
         "kind": "evidence",
@@ -6923,7 +7113,7 @@
       },
       "evidence:term:schicksalszeit:zm:38": {
         "kind": "evidence",
-        "index": 15
+        "index": 16
       },
       "evidence:term:schicksalszeit:zm:4": {
         "kind": "evidence",
@@ -6931,7 +7121,7 @@
       },
       "evidence:term:schicksalszeit:zm:43": {
         "kind": "evidence",
-        "index": 16
+        "index": 17
       },
       "evidence:term:schicksalszeit:zm:9": {
         "kind": "evidence",
@@ -6939,15 +7129,19 @@
       },
       "evidence:term:urgrund:zm:117": {
         "kind": "evidence",
-        "index": 37
+        "index": 38
       },
       "evidence:term:urgrund:zm:118": {
         "kind": "evidence",
-        "index": 38
+        "index": 39
+      },
+      "evidence:term:urgrund:zm:131": {
+        "kind": "evidence",
+        "index": 40
       },
       "evidence:term:urgrund:zm:82": {
         "kind": "evidence",
-        "index": 36
+        "index": 37
       },
       "evidence:term:weltplan:zm:110": {
         "kind": "evidence",
@@ -6967,11 +7161,11 @@
       },
       "note:journal:goethe-leibniz-frame": {
         "kind": "note",
-        "index": 70
+        "index": 73
       },
       "note:journal:mumford-bridge": {
         "kind": "note",
-        "index": 69
+        "index": 72
       },
       "note:zm:100:substance-surrender": {
         "kind": "note",
@@ -7092,6 +7286,18 @@
       "note:zm:129:night-view": {
         "kind": "note",
         "index": 68
+      },
+      "note:zm:130:world-language": {
+        "kind": "note",
+        "index": 69
+      },
+      "note:zm:131:intelligent-ship": {
+        "kind": "note",
+        "index": 70
+      },
+      "note:zm:132:mantic-compass": {
+        "kind": "note",
+        "index": 71
       },
       "note:zm:13:schicksalsuhr": {
         "kind": "note",
@@ -7576,6 +7782,30 @@
       "zm:13": {
         "kind": "section",
         "index": 12
+      },
+      "zm:130": {
+        "kind": "section",
+        "index": 129
+      },
+      "zm:130:world-language": {
+        "kind": "chunk",
+        "index": 70
+      },
+      "zm:131": {
+        "kind": "section",
+        "index": 130
+      },
+      "zm:131:intelligent-ship": {
+        "kind": "chunk",
+        "index": 71
+      },
+      "zm:132": {
+        "kind": "section",
+        "index": 131
+      },
+      "zm:132:mantic-compass": {
+        "kind": "chunk",
+        "index": 72
       },
       "zm:13:schicksalsuhr": {
         "kind": "chunk",
@@ -8146,7 +8376,8 @@
       ],
       "term:erdgeschichtlich": [
         "evidence:term:erdgeschichtlich:zm:67",
-        "evidence:term:erdgeschichtlich:zm:124"
+        "evidence:term:erdgeschichtlich:zm:124",
+        "evidence:term:erdgeschichtlich:zm:130"
       ],
       "term:fremde-voegel": [],
       "term:hinzutretende": [
@@ -8170,7 +8401,8 @@
       "term:urgrund": [
         "evidence:term:urgrund:zm:82",
         "evidence:term:urgrund:zm:117",
-        "evidence:term:urgrund:zm:118"
+        "evidence:term:urgrund:zm:118",
+        "evidence:term:urgrund:zm:131"
       ],
       "term:weltplan": [
         "evidence:term:weltplan:zm:17",
@@ -8454,6 +8686,30 @@
           "relation": "extends",
           "to": "thread:goethe-leibniz-frame",
           "note": "The method dossier is sharpened from the Naturphilosophie side: worthy intuition, ensoulment, and the critique of the titanically mechanized life-image are stated directly."
+        }
+      ],
+      "zm:130:world-language": [
+        {
+          "from": "zm:130:world-language",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now overtly exceeds world-history: the charged earth-envelope carries a world-language in every transmission, and substance changes alongside knowledge."
+        }
+      ],
+      "zm:131:intelligent-ship": [
+        {
+          "from": "zm:131:intelligent-ship",
+          "relation": "crystallizes",
+          "to": "thread:time-crisis",
+          "note": "The crisis now takes the form of an intelligent ship in a magnetic world, where stronger answers arrive and the earth as `Urgrund` seeks new fertility through the fall of gods."
+        }
+      ],
+      "zm:132:mantic-compass": [
+        {
+          "from": "zm:132:mantic-compass",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now shifts into navigation itself: freedom remains while its concept changes, and the compass becomes a mantic device under growing doubt about whether any steering still occurs."
         }
       ],
       "zm:13:schicksalsuhr": [

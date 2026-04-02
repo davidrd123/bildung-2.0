@@ -82,3 +82,30 @@ Promote this campaign out of `sources/` only if the work starts to demand:
 - recurring journal drift that exceeds source-bound note-taking
 - a glossary larger than a bounded campaign can honestly carry
 - stable cross-project reuse strong enough to justify a standing `texts/` subproject
+
+## First-Pass Assessment
+
+The initial five-encounter queue is now complete.
+
+What it earned:
+
+- `Vorentscheidung` can stand provisionally as `predecision`, but only provisionally. The stronger singular claim still matters.
+- `prometheische Scham`, `prometheisches Gefaelle`, `Weltphantom`, `Phantom / Matrize`, `Sein ohne Zeit`, `Massenmensch`, and `Apokalypseblindheit` all proved structurally real and remain genuinely open.
+- The Beckett and bomb essays did not break the line opened by the first two encounters; they intensified it.
+- The bounded campaign form held. A clean TXT source plus line-anchored encounter dossiers was enough to carry the first pass without spawning unnecessary workflow.
+
+Promotion decision:
+
+Stay under `sources/` for now.
+
+What has not yet been earned:
+
+- no full `texts/` promotion
+- no local tranche-extraction machinery by default
+- no standing cross-project dossier beyond the current source-bound notes
+
+Best next routes from here:
+
+- let existing cross-project notes point to this campaign explicitly when Anders is invoked
+- return to specific later sections only when a live thread demands them
+- reconsider promotion only if later work starts pulling on these terms more often than this bounded form can hold
