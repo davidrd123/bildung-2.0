@@ -122,3 +122,10 @@ ranges:
     printed_pages: ["172", "172"]
     trust: "medium"
     note: "The chapter opening is on PDF page 196. The running printed page number is suppressed on the chapter-opening page, but sequence from printed page 171 on the preceding page makes `172` the expected continuation."
+
+  - slug: "montaigne-within-skepticism"
+    label: "Opening of section `I` / Montaigne discussion within `Der Skepticismus`"
+    pdf_pages: [198, 198]
+    printed_pages: ["174", "174"]
+    trust: "high"
+    note: "Section `I` begins on printed page 174 / PDF page 198 with Montaigne's `Apologie de Raimond de Sabonde` as the first full embodiment of modern skepticism."

@@ -901,3 +901,71 @@ Decision for now:
 - stop the section here and begin the next tranche cleanly at `Drittes Kapitel. Der Skepticismus`
 - add the chapter-opening page-map anchor now that PDF page `196` has confirmed the structural break
 - keep `religio indita` off the glossary for the moment; it matters here, but has not yet shown the recurrence needed for stable tracking
+
+## 2026-04-02 - Skepticism Opening and Montaigne
+
+Completed the opening tranche of `Drittes Kapitel. Der Skepticismus`:
+
+- printed pages `172-175`
+- PDF pages `196-199`
+
+What this tranche clarified:
+
+- Cassirer treats skepticism from the outset not as a merely negative doctrine but as an inner motor of modern thought, able to join itself to otherwise opposed directions without collapsing into any one of them
+- the Goethe citation sets the governing contrast with unusual sharpness: Renaissance doubt is fruitful because it becomes a vehicle of self-knowledge and a means by which reason discovers its own independence
+- the comparison with antiquity is formally conservative but functionally radical; Montaigne receives the same skeptical arguments as Sextus Empiricus, yet they now carry the sign of a beginning rather than an end
+- Montaigne's `Apologie` is therefore interpreted less as a confession of private worldview than as the place where the medieval unity of nature and revelation is made visible precisely in order to be dissolved
+- the positive philosophical gain is already explicit at the end of the tranche: the rejection of material purposiveness yields a new concept of law and with it a new concept of objective nature
+
+Decision for now:
+
+- continue directly from the broken Montaigne quotation on the next page, since Cassirer is clearly about to press the critique of `Zweckursachen` further
+- add the Montaigne subsection anchor now that section `I` is visible in the source
+- keep `Historismus` on watch only; the reviewer's caution is right, but the term has not yet recurred inside the skepticism chapter itself
+
+## 2026-04-02 - Harmonization Pass Through Parts 01-44
+
+Completed a bounded terminology harmonization pass across the existing translated material:
+
+- audited the working glossary against Parts `01-44`
+- patched only older tranches where later glossary pressure showed accidental drift, not where contextual variation remained justified
+
+What this pass clarified:
+
+- the main real inconsistency was the `Vorstellung` family in the Aristotelian psychology sequence; earlier tranches had let it drift into `presentation`, whereas the project's settled default is now `representation`
+- a second local inconsistency concerned faculty-uses of `Geist` inside the same psychology material; where the argument is explicitly about intellective function rather than religious or cultural spirit, `intellect` / `mind` now gives the clearer and more stable rendering
+- broader variation in `Erkenntnis`, `Wissenschaft`, and `Geist` should not be mechanically ironed out; in the audited passages the remaining differences are genuinely contextual rather than accidental
+- the pass therefore confirms the right scope for future harmonization: glossary discipline, not retroactive stylistic flattening
+
+Concrete changes landed:
+
+- normalized `presentation` -> `representation` in the `Vorstellung` passages of Parts `28-30`
+- normalized a few faculty-level `Geist` renderings in Part `26` and Part `30` toward `intellect` / `mind`
+- verified the existing local note in Part `39` so the deliberate contrast between `relations and circumstances` and later literal astral `constellations` remains explicit in the audit record
+- checked the remaining audited parts and found no further accidental term drift requiring correction
+
+Decision for now:
+
+- continue the skepticism chapter from the broken Montaigne quotation rather than expanding the harmonization pass further
+- keep `Historismus` and `religio indita` on watch, but do not promote either into the glossary until recurrence, not anticipation, forces the issue
+
+## 2026-04-02 - Montaigne, the Organ, and the Skeptical Turn
+
+Completed the next tranche of `Drittes Kapitel. Der Skepticismus`:
+
+- printed pages `176-179`
+- PDF pages `200-203`
+
+What this tranche clarified:
+
+- Cassirer turns the critique of `Zweckursachen` into a more radical point: once cognition is treated as a natural process inside nature as a whole, its reach and validity become bound to the contingent natural conditions of its own genesis
+- the microcosm / macrocosm formula is attacked at its strongest point; if the individual is conditioned by the whole, then the whole would already have to be known before the individual could be understood
+- Montaigne and Sanchez thereby expose the unproved postulate in early attempts to harmonize thought and being: absolute being is still treated as the wider logical genus under which thought falls as a special case
+- the decisive pages on the organ, the senses, and the hypothetical acquisition of new sensory powers made the von Foerster encounter bite for the first time; the blindspot and undifferentiated-encoding material did not merely fit the passage, but sharpened it toward a theory of structural mediation rather than generic sensory unreliability
+- skepticism now dissolves both poles of the epistemic relation at once: the object as fixed transcendent given, and the subject as stable norm
+
+Decision for now:
+
+- continue directly from the broken `der logischen Schlußfolgerung` sentence, since Cassirer is clearly reopening the Sextus problem of infinite regress in procedural form
+- keep `Historismus` off the glossary for now; the term has not recurred inside the skepticism chapter itself
+- record the first successful von Foerster test in `sources/modern/`, but leave the broader encounter status open until it proves equally generative beyond this single seam
