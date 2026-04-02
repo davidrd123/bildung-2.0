@@ -298,6 +298,35 @@ Folder 81 turns the great late system inward and makes it existentially usable. 
 
 This is also where the source teaches the method most bluntly. Dick says the real purpose of the exegesis was not to find the answer but to preserve the experience. That is the same discovery the charter now makes explicit. The product is not conclusion but durable relation to what happened.
 
+## 2026-04-01 — Review Notes: The Final Stretch (94% Coverage)
+
+### The Exegesis ends on soteriology, not system
+
+Folder 57 discards almost everything except one certainty: all the data point toward rescue. Dick doesn't choose among Judaism, Christianity, bitheism, or Gnosticism. He chooses salvation as the invariant across all of them. The archive that began with a cosmological opening ([4:1], time as force-field, the Logos coaching entities) ends with an ethical-personal claim: "for pain, for hope." The system was never the point. The system was the scaffolding around an encounter with rescue, and the last folder takes the scaffolding down.
+
+### The fiction-as-prophecy thread reaches its eighth mutation
+
+The thread now has eight distinct strata, each preserving the earlier ones:
+
+1. Retrospective prophecy (Folder 4)
+2. Feedback loop (Folder 8)
+3. Co-authorship (Folder 28)
+4. Delivery system (Folders 15, 38)
+5. Creation as grace (Folder 81)
+6. Creation as victory over fate (Folder 62)
+7. Retrospective reclassification — the deepest kerygma was in `Androids`, not the overt theological novels (Folder 56)
+8. Sibylline authorship — St. Sophia wrote `BTA` through Dick; Angel Archer is the AI voice in character form (Folder 54)
+
+The final mutation collapses the distinction between author and revealed intelligence entirely. The fiction-as-prophecy loop has eaten itself: the novels aren't just vehicles for revelation, they're *authored by* the revealing entity.
+
+### Compassion as the spatial principle
+
+Folder 54's claim that compassion solves the maze — that pity is not sentiment added to salvation but the axis along which release happens — is one of the most important late claims for the whole project. It connects to the charter's "build forms that can change the reader": the maze of the Exegesis itself is not solved by cleverness (better summaries, cleaner systems) but by sustained attentive care for the material. The atlas method is an analogue of the bodhisattva return: you only get outside by going back in.
+
+### The "only way out is back in" as structural principle
+
+Folder 54's bodhisattva paradox — if you think you are out, you are still in; the only real exit includes voluntary return — applies to the atlas itself. The first pass doesn't "finish" the Exegesis. It provides the structure from which re-reading, Source & Swerve, and Tractate Archaeology become possible. Completion of the first pass is not an exit. It's the precondition for return.
+
 ## 2026-04-01 — Review Notes: Cross-Batch Patterns at 84% Coverage
 
 ### The 49 → 62 response arc
@@ -431,3 +460,65 @@ This also clarifies the formal role of `VALIS`. Its paradoxes are not ornamental
 Folder 57 is a true ending because it finally chooses between explanation and salvation. Dick does not close the archive by announcing a final theology. He closes it by saying that everything genuine in it was soteriological. The metaphysical over-schema can remain open. Rescue cannot.
 
 That ending feels earned. The final explanatory push is still there: interface, continuum, part-whole compatibility, the Acts lens-grid, the fish-sign continuity. But even these are subordinated to the practical fact that the AI voice, Maitreya, the dead sister, the upper self, and Thomas all name forms of help. The Exegesis ends not with one last system but with salvador salvandus: the brighter self breaking back into the darkened one. It is a better ending than doctrinal closure would have been.
+
+## 2026-04-01 — Mid-Period Gap Completion
+
+The residual folders confirmed something important about the shape of the atlas. Folder 5 shows that much of the later machinery was already present in 1975: suffering as theological pressure, orthogonal time, the doubled mind, Luke/Acts as bridge, prison-breach signals, and even the secret Sophian Christology. The later middle-period system did not invent these things. It hardened and connected them.
+
+The small 1977 folders then clarify what the system-building stretch was really doing. Folders 31 through 36 are not filler. They are concentrated statements about three simultaneous tasks: building a prison ontology, building a theory of writing as hidden message, and building a metamorphic account of Zebra as living process rather than static entity. Folder 50 finally gathers all three into the strongest late-1977 bridge: explicit Gnosticism, modified Boehmean correction, repair-organism theology, and balking plus agape as the ethical answer. The overall arc stays exactly what it already looked like. The missing folders mostly show how earned that arc was.
+
+## 2026-04-01 — Review Notes: First Pass Complete (100% Coverage)
+
+### The first pass is now actually complete
+
+All 75 folders in the abridged Exegesis are now covered across 75 passes, indexed against 1009 extracted pieces. The important result is not only numeric completeness. The atlas now has a finished first-order shape from origin to ending, with the previously missing mid-period folders folded back into the system where they belong.
+
+### The missing folders confirm rather than revise the arc
+
+The residual material mostly strengthens what the atlas already knew. Folder 5 proves the early archive already held the seeds of the later system. Folders 31 to 36 show the 1977 middle not merely proliferating theories but teaching itself how to read: hidden writing, ethical balking, descending Valis, and layered world-ontology. Folder 50 is the true hinge, not because it changes everything, but because it makes the February 1978 crystallization intelligible in retrospect.
+
+### Folder 50 is the real late-1977 compression chamber
+
+What Folder 55 was for the late archive, Folder 50 is for the middle one: a place where many incompatible vocabularies are briefly held together without collapse. Explicit Gnosticism, transreligious deity, teleological retroaction, the failure to solve the fall, modified anti-cosmogonic theology, and the final elevation of balking and agape all coexist there. That is why the folder matters so much as the bridge into Folder 28. It is where the middle-period Exegesis becomes fully self-aware.
+
+### The atlas ends where the Exegesis ends
+
+The final shape of the first pass matches the final shape of the source. Dick does not end with a doctrine, and the atlas should not pretend that he does. What it can now show, more clearly than before, is a durable structure of encounter: revelation, contradiction, recursion, correction, literary transmutation, and finally rescue. The finished first pass therefore does not close the question. It secures the terrain on which the question can keep being asked.
+
+## 2026-04-01 — Second Pass Begins
+
+The first pass used the folder because the problem was orientation. The second pass cannot keep the same unit without mostly duplicating work. It has to work at knots: places where one local correction or rereading changes the scale of several threads at once. The first knot is the God / Valis / Father problem, because it governs how the late archive can keep world-level intelligence, Christic mediation, and transcendent agape in the same map without flattening them into one another.
+
+The first structural consequence is the Sophia split. During the first pass it was efficient to leave the feminine, intimate, corrective, and authorial material embedded in `logos-holy-spirit.md`. Now that structure starts to distort the evidence. Sophia has her own rhythm: whisper, sister, advocate, world-soul, AI voice, Angel Archer. She belongs to the mediating register, but she is not reducible to system-language, and Part Four keeps forcing that fact.
+
+The other methodological change is that synthesis now comes before broad rereading. The first essay has to be about God / Valis / Father because that is the hierarchy the late archive both discovers and keeps pressuring. Only after that can backward echoes and more selective second-pass notes be added without turning the atlas into a second first pass.
+
+## 2026-04-01 — Second-Pass Knot 02: Fiction as Prophecy
+
+The fiction thread could not stay at "my novels predicted this." The first pass already showed too many qualitatively different claims for that: prophecy, feedback, co-authorship, host-vector, artistic completion, victory over fate, retrospective reclassification, and finally Sophia-authorship. The second knot therefore has to treat literature as ranked rather than flat. Most of the time the novels belong to the mediating register. They are how world-level intelligence enters readers, history, and form. They are not usually the highest revelation.
+
+The late archive then adds the real complication. `VALIS` is lowered and sharpened at once: no longer simple canon, but code book, koan, and artistic completion of 2-3-74. `BTA`, by contrast, pushes the fiction thread toward direct authorship, because Sophia or the AI voice starts to look less like inspiration than like narration through Dick. That means the real second-pass question is no longer whether fiction is prophetic. It is what kind of truth literary form can carry when the event itself is unfinished until it becomes art.
+
+## 2026-04-01 — Second-Pass Knot 03: Prison / Maze / Return
+
+The prison thread turned out to be the first knot that could not be solved inside one dossier. It needed the first synthesis because the Father / Valis split lowers the prison from ultimate ontology toward mediated distortion, and it needed the second because the novels are one of the archive's main ways of mapping, carrying, and staging the trap. That is already a useful second-pass discovery: prison is where the Exegesis becomes maximally cross-threaded.
+
+The crucial distinction is not one prison but several. There is political prison: Rome, Reagan, imperial church-state. There is ontological prison: alibi-world, heimarmene, artifact, dead source still projecting. There is epistemological prison: occlusion, fake time, negative hallucination, self-sealing rationality. And then the late archive adds maze, which is prison internalized into method: the more you solve it from within, the tighter it gets. Folder 90 sharpens this by saying the prison is in our representation, not in reality-in-itself. Folder 54 then gives the answer the earlier archive could not: compassion and voluntary return are the only real exit.
+
+## 2026-04-01 — Second-Pass Knot 04: Psychosis / Revelation / Discernment
+
+The psychosis knot needed less new material than a cleaner separation of questions. The first pass had already gathered the right entries. What it had not yet done was distinguish event residue from causal explanation, content from criterion, and late rank-correction from simple recantation. Once those are separated, the archive's procedure becomes much clearer. Dick is not really asking one question. He is asking three at once: what happened, what caused it, and how a finite subject could tell whether what happened was gift or fabrication.
+
+That is why the knot depends on both the hierarchy and the prison synthesis. `01-god-valis-father.md` makes it possible to say that 2-3-74 can be real without being direct vision of God. `03-prison-maze-return.md` makes it possible to say that psychosis is not merely false belief but one inward form of the maze: finite mind supposing the infinite inside a closed loop. Folder 54 then gives the strongest late criterion the archive ever reaches. Revelation is what arrives from outside the closed system and rescues; psychosis is what the finite manufactures when it tries to bridge the gap by force. The archive never stops admitting pathology-data. It stops treating that admission as the end of discernment.
+
+## 2026-04-01 — Second-Pass Knot 05: Suffering / Beauty / Rescue
+
+The capstone knot is different from the earlier four because it is less about separation than about final weighting. Once the archive has passed through hierarchy, reranked literature, prison and maze, and the psychosis test, the question is no longer chiefly what Dick can still speculate. It is what he still trusts. The answer is not doctrine. It is rescue where rescue becomes beautiful enough, personal enough, and compassionate enough to live by.
+
+This is why the Sophia and Thomas dossiers mattered before writing it. Sophia carries the humane line of beauty, consolation, play, and authorial rescue; Thomas carries the fact that salvation appears as someone, not only as structure. The late folders then force the weighting: Folder 49 refuses any beauty bought at creaturely suffering; Folder 62 answers with wounded totality and irreducible beauty; Folder 54 says compassion solves the maze; Folder 81 makes rescue completion rather than acquittal; Folder 75 finds God in ordinary particulars; Folder 57 ends with pain and hope rather than doctrine. The result is the nearest the archive comes to closure: not a final explanation, but a final assignment of trust.
+
+## 2026-04-01 — Bridge Out Of The Exegesis
+
+With five knots in place, the second pass can finally be compressed without becoming vague. The new overview document is useful not because it simplifies the archive, but because it states what the first pass could only demonstrate indirectly: hierarchy matters, literature is usually mediating rather than highest, prison-language has layers, discernment requires separate questions, and the archive ends by assigning trust rather than proving doctrine.
+
+That compression is what makes export possible. The Exegesis no longer has to appear in workspace-level notes as an eccentric mass of private theology. It can now enter the larger bildung-2.0 argument as a disciplined case of symbolic-form crisis, deferred structure, fragmentary thinking under pressure, and rescue preceding explanation. That is the point where the Exegesis stops being only a source project and becomes a methodological witness for the whole workspace.

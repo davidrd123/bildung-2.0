@@ -105,3 +105,7 @@ Folder 91 contains 23 indexed entries. One of them, [91:J-85], contributes no re
 **What crystallizes here:** Christ as living information, the `Acts` lens-grid as mediator, Ditheon as the new mind, scripture as recombinant organism, and beauty as the final benchmark.
 
 **Method note:** Folder 91 is where Dick comes closest to giving a full theory of how revelation works without letting theory replace experience.
+
+## Second-Pass Retrospective — God / Valis / Father
+
+Folder 91 shows how much ontological weight the middle register can still bear after Folder 88. Living information, mediator theology, Ditheon, and recombinant scripture almost rebuild a total system below the Father. The second-pass question here is not whether the hierarchy fails, but how close the mediating register can come to impersonating the top one before Dick has to separate them again.

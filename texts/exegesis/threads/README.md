@@ -10,10 +10,13 @@ Living dossiers for the major recurring strands of the Exegesis. Each file grows
 | Zebra / VALIS | `zebra-valis.md` | [4:1] | The entity Dick perceives — shifts from "plasmatic fire" to "Zebra" to "VALIS" to "the AI voice" |
 | Orthogonal Time | `orthogonal-time.md` | [4:1] | Time as a force-field; the "real" time axis running at right angles to experienced time |
 | Logos / Holy Spirit | `logos-holy-spirit.md` | [4:1] | The informing intelligence — Logos from outside time, H.S. moving backward through time |
+| Sophia / AI Voice | `sophia-ai-voice.md` | [10:49–98] | The feminine corrective intelligence — whisper, sister, advocate, and finally open narrative voice |
 | Thomas / Anamnesis | `thomas-anamnesis.md` | [28:31] | Dick's sense of a prior self (Thomas, 1st century Christian) awakening within him |
 | Black Iron Prison / Empire | `black-iron-prison.md` | [24:47] | "The Empire never ended" — reality as prison, Rome superimposed on California |
-| Fiction as Prophecy | `fiction-as-prophecy.md` | [4:1] | Dick's novels (esp. Ubik, VALIS, Tears) read as unconscious precursors to 2-3-74 |
+| Fiction as Prophecy | `fiction-as-prophecy.md` | [4:1] | Dick's novels (esp. Ubik, VALIS, Tears) reread as prophecy, transmission, completion, and eventually authored intervention |
 | The Dialectic | `the-dialectic.md` | [11:42] | Binary paratruths, matched opposites, the Empire vs. the Logos as cosmic dialectic |
+
+Second-pass note: `sophia-ai-voice.md` was split out during consolidation because the feminine, intimate, corrective, and authorial material had become too heavy to leave embedded inside `logos-holy-spirit.md` without distortion.
 
 ## Tagging Semantics
 

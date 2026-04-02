@@ -6,6 +6,16 @@ Dick's most distinctive metaphysical concept: the "real" time axis runs at right
 
 Experienced (linear, horizontal) time is a cognitive artifact — we generate it to anchor perception and maintain identity. The real time axis is orthogonal: forms (entelechies) grow toward completion along it. This is the time Joe Chip sees in Ubik when objects regress through their Platonic archetypes.
 
+## Second-Pass Orientation
+
+The first pass established orthogonal time as one of Dick's master technical ideas. The second pass has to ask what register that idea belongs to after the late hierarchy correction.
+
+- **Prison time**: horizontal duration, scanned permutations, fake elapsed history, and recurrence without newness
+- **Mediating vertical time**: Valis / Logos / Christ disclose or manipulate a real axis along which correction, anamnesis, and sacred templates become possible
+- **Transcendent pressure**: after 11-17-80, Dick increasingly implies that the Father is not simply one more position on the vertical axis but what exceeds the whole timed structure
+- **Spatialization**: late folders turn time into space, track, page, layer, maze, and Commedia architecture in order to make escape thinkable
+- **Return paradox**: the last movement refuses simple ascent; outside and inside become one path, and release includes voluntary return
+
 ## Sources Dick Draws On
 
 - Plato's Forms / exemplar archetypes
@@ -98,7 +108,23 @@ Experienced (linear, horizontal) time is a cognitive artifact — we generate it
 - `[54:L-9-M-1]` true exit requires return, so orthogonal ascent is redefined as a paradoxical movement in which outside and inside become one path
 - `[57:Q-33-34]` continuum, interface, and part-whole compatibility become the late technical account of how true cosmos can reappear in place of discontinuous matter-world
 - `[57:S-5]` the Yang rescue of the Yin-incarnated self restates orthogonal time as upper-to-lower intervention that breaks endless horizontal tracking
+- `[5:31–35]` one of the earliest full formulations appears: growth-time runs orthogonally to decay-time, and the two minds travel at right angles until anamnetic rejoining
+- `[50:63]` Dick gives the strongest late-1977 teleological account of time: the future uses the past as stockpile and final causes pull events into cosmos
+- `[50:82]` orthogonal intervention is likened to Timaean steering-correction, with history adjusted by periodic pressure from outside its apparent track
 
 ## Mutations
 
-How the concept develops — from speculative physics to mystical theology to literary device.
+The concept changes less by replacement than by deepening and re-ranking:
+
+- **Speculative physics**: ergic fields, tachyons, retrocausation, and layered tracks supply the first non-linear model
+- **Sacred-historical collapse**: Acts, Rome, and California occupy one preserved drama, with fake elapsed centuries exposed as interpolation
+- **Morphological correction**: orthogonal time becomes the medium of rectification, retrieval, and intervention by a world-level intelligence
+- **Spatial cosmology**: time turns into space, layers, Dantean pages, depth-coding, and vertical ascent concealed in ordinary biography
+- **Hierarchy pressure**: late folders increasingly distinguish world-level temporal ordering from what lies beyond that ordering, especially after Folder 88
+- **Return model**: the final shift says orthogonal ascent is not mere escape but compassionate return and upper-to-lower rescue
+
+## Open Questions
+
+- After the Father / Valis split, does orthogonal time belong mainly to the mediating register, or can Dick still use it for genuinely transcendent disclosure?
+- Is the strongest late model vertical ascent, flicker-selection, or paradoxical return?
+- When Dick says no real time has passed since Acts, is he making an ontological claim about reality, or a claim about how occluded subjects experience mediation?

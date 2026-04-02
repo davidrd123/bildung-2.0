@@ -6,6 +6,16 @@
 
 The Black Iron Prison (BIP) is the true shape of the world when the veil is lifted. It is Rome — specifically the Rome that destroyed the Temple and persecuted early Christians. It has not gone away; it has only been overlaid by a "fraudulent echosphere" that we mistake for 1974 California.
 
+## Second-Pass Orientation
+
+The first pass was right to treat the BIP as one of the archive's most stable threads. The second pass has to stop treating that stability as simplicity.
+
+- **Political prison**: Rome, Nixon, Reagan, church-state settlement, and every historical regime in which domination hardens into transpersonal pattern
+- **Ontological prison**: counterfeit world, artifact, alibi-world, heimarmene, or dead source still projecting a false cosmos
+- **Epistemological prison**: occlusion, negative hallucination, fake time, and the inability to see what is already there
+- **Maze form**: the prison's late inward turn, where the trap is sustained by the subject's own attempts to solve it from inside
+- **Late correction**: after the Father / Valis split, the prison is less often reality-in-itself and more often a fallen representation, closed feedback loop, or mediated distortion of the real
+
 ## The Empire
 
 A more abstract version of the BIP: any system of rigid control that congeals the dialectic. "The Empire never ended" means the pattern of domination is transhistorical — it wears different costumes (Rome, the Nixon administration, corporate capitalism) but the structure persists.
@@ -15,6 +25,8 @@ A more abstract version of the BIP: any system of rigid control that congeals th
 - The veil / dokos — the false reality layered over the BIP
 - Zebra/VALIS as the force that *breaks* the prison
 - Thomas/anamnesis as the experience of *seeing through* the prison
+- Orthogonal time as the prison's temporal form: fake duration, recurrence, and blocked newness
+- Compassion / return as the late solution once prison becomes maze
 - Dick's own novels (esp. Eye in the Sky, Time out of Joint, Ubik) as descriptions of constructed realities
 
 ## Key Entries
@@ -118,3 +130,25 @@ A more abstract version of the BIP: any system of rigid control that congeals th
 - `[75:D-52]` prison is internalized further as the creature's own will returning as punitive world and adversary
 - `[76:E-14-19]` prison becomes full existential thrownness: pressure time, alien world, future dread, and the need for world itself to change
 - `[57:S-5]` fruitless horizontal tracking is finally redescribed as the fate of the voluntarily incarnated lower self unless the brighter counterpart breaks back in
+- `[5:182–193]` prison is already imagined as a hidden metal enclosure breached by secret signals, with evil hollowed out from within by regular divine counterpressure
+- `[32:3–5]` the prison becomes the alienating layer between man and God and is countered by ethical balking plus withdrawal of assent
+- `[34:6–11]` the prison is demoted from total explanation to one stage inside a four-world metamorphic sequence
+- `[50:11–14]` Dick openly identifies the prison as counterfeit world and treats writing itself as active attack on it
+- `[50:76–93]` prison-language is corrected by modified Gnosticism: the artifact-world remains oppressive, but no evil creator is required for its existence
+
+## Mutations
+
+The prison thread is stable because it keeps changing level without disappearing:
+
+- **Historical substrate**: Rome beneath California, Empire beneath modern states, persecution beneath normality
+- **Counterfeit ontology**: prison as artifact-world, alibi-world, dead projection, or rigid official information-system
+- **Occlusion apparatus**: prison as negative hallucination, fake time, damaged monitoring, and the inability to recognize captivity
+- **Maze and inward trap**: prison as self-winding loop, psychosis-risk, rational deadlock, or tautological world generated from one's own prior thought
+- **Lowered but not abolished**: late folders increasingly place the prison in mediated representation rather than in reality-in-itself, but do not therefore treat it as unreal or trivial
+- **Return-governed exit**: the last major shift says one does not simply flee the prison; one exits by compassion, rescue, and voluntary return
+
+## Open Questions
+
+- After Folders 88 and 90, is the prison best understood as ontological condition, epistemic distortion, or some layered combination of the two?
+- When Dick says Empire never ended, which level is doing the real work: politics, metaphysics, or cognition?
+- Does the late maze-and-return model replace the earlier prison model, or disclose its most inward form?

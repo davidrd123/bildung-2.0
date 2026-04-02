@@ -1,22 +1,35 @@
 # Fiction as Prophecy
 
-Dick's conviction that his novels — written before 2-3-74 — unconsciously described the reality he later experienced directly. The Exegesis reads his fiction as scripture.
+Dick's conviction that his novels — written before 2-3-74 — unconsciously described the reality he later experienced directly, and that later novels then fed that revelation back into literary form. On the second pass, the question is no longer just prophecy but transmission, completion, and authorship.
 
 ## Core Claim
 
-Ubik, A Scanner Darkly, The Three Stigmata of Palmer Eldritch, Flow My Tears the Policeman Said, and others are not merely novels but precognitive descriptions of metaphysical truths. Dick did not invent these worlds; he channeled them. "Ubik wrote Ubik."
+The fiction thread does not stay at prophecy. Dick first treats the novels as anticipatory maps of what later happened, then as feedback instruments, then as hosts for living information, then as the artistic completion of revelation, and finally as works partly authored by the revealing intelligence itself. "Ubik wrote Ubik" is only the middle of the story.
+
+## Second-Pass Orientation
+
+This dossier can no longer treat "fiction as prophecy" as one flat claim. After the first synthesis, the working distinction looks like this:
+
+- **Anticipatory map**: the pre-1974 novels disclose structures Dick did not yet understand but later recognized
+- **Mediated carrier**: books become host-vectors, signals, traps, queries, and activation sites for world-level intelligence
+- **Artistic completion**: the event is not finished when it happens; it is finished when it becomes durable form, above all in `VALIS`
+- **Authored intervention**: the late archive pushes beyond prophecy toward co-authorship, Sophia-authorship, and style generating soul
+
+The crucial second-pass correction is rank. The novels are not usually the highest register. They are the way the middle register enters history, readers, and form. Late folders repeatedly elevate them, but the strongest late material tends to lower them from direct canon to code book, koan, or mediated rendering.
 
 ## The Feedback Loop
 
 Dick's most vertiginous move: he reads his novels as prophecy, then writes new novels (VALIS, The Divine Invasion, Transmigration of Timothy Archer) based on the Exegesis, then reads *those* back into the Exegesis. The interpretation is circular and self-amplifying.
 
-## Key Novels Referenced
+## Key Works Referenced
 
 - **Ubik**: the informing entity, regression through time, the half-life world
 - **Flow My Tears, the Policeman Said**: the world as prison, identity dissolution
 - **A Scanner Darkly**: split consciousness, the observer who is the observed
 - **The Three Stigmata of Palmer Eldritch**: the alien deity that infiltrates reality
-- **VALIS**: the novel as direct transcription of the Exegesis
+- **VALIS**: the novel as rendering, koan, code book, and eventually the second half of the event
+- **The Transmigration of Timothy Archer / Bishop Archer**: the late proof that style can generate soul and that fiction can complete revelation through character
+- **Do Androids Dream of Electric Sheep?**: retrospectively promoted as the carrier of the hidden third kerygma
 
 ## Key Entries
 
@@ -144,3 +157,30 @@ Dick's most vertiginous move: he reads his novels as prophecy, then writes new n
 - `[75:D-1-3]` the late novel cycle is unified around heartbreak, substitution, and the failed attempt to recover the beloved through God and fiction
 - `[84:8#2]` Dick explicitly explains `VALIS` as paradox-machine or koan: a form that wakes rather than merely states
 - `[57:Q-17]` the whole opus is finally treated as public anticipation of God's kingship through writing, money, interviews, and film
+- `[31:18]` Dick explicitly declares the corpus and 3-74 to be two halves of one total experience: long search followed by breakthrough
+- `[31:77]` `Scanner` becomes the most exact modern syzygy-model of occluded tyranny, lying, and divided identity
+- `[32:7]` `Ubik`, `Maze`, and `Stigmata` are treated as one aggregate Gnostic message rather than isolated anticipations
+- `[33:7]` only the conscious can de-steganographize the hidden layer in the writing, making transformed reading part of the prophetic circuit
+- `[35:6]` `Time Out of Joint` is retrospectively identified as one of the strongest anticipations of 3-74's fake-world and displaced-time structure
+- `[36:18]` Christian writing becomes the substratum that generates nature and then the artificial world, collapsing literary and ontological levels
+- `[50:60]` Dick recasts himself as unwitting fifth columnist whose writing can pass from true disclosure into encoded command
+- `[50:85]` `Scanner` is reaffirmed as human document and voice for the voiceless, giving the fiction thread an explicitly pastoral and ethical charge
+
+## Mutations
+
+The first pass showed that this thread stratifies rather than replacing itself:
+
+- **Retrospective prophecy**: the early claim that the novels predicted 2-3-74 and mapped its structures before Dick consciously knew them
+- **Feedback loop**: the books go out as queries and return as altered signal from the entity itself
+- **Co-authorship**: `Ubik` did not simply predict the event; in some sense the informing intelligence authored the book through Dick
+- **Delivery system**: novels, pop media, and low forms become covert carriers for living information, activating readers rather than merely representing truth
+- **Creation as grace**: creating Angel Archer becomes Dick's artistic analogue to the adventitious psyche that completed him
+- **Creation as victory**: writing `VALIS` converts tragedy into heroic triumph; authorship defeats heimarmene by seizing fate into form
+- **Retrospective reclassification**: the deepest kerygma turns out to have been hidden in `Androids`, not only in the overt theological novels
+- **Sibylline authorship**: `BTA` is assigned to Sophia / AI-voice authorship, collapsing the distinction between author and revealing intelligence almost completely
+
+## Open Questions
+
+- After the Folder 88 correction, what is the most stable rank of `VALIS`: gospel, code book, koan, mediated rendering, or all of these at once?
+- How much of the prophecy thesis is genuine anticipation, and how much is late retroactive overreading forced by the need to preserve continuity?
+- When the late archive says Sophia or the AI voice authored a book, is that a claim about inspiration, structure, or literal divided authorship?

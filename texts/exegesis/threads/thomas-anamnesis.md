@@ -16,6 +16,16 @@ Memory as an organ of perception — not metaphorically but literally. Through a
 - Dick alternates between taking Thomas literally (time-travel) and metaphorically (Jungian archetype, past life)
 - Connection to the bicameral mind theory (Julian Jaynes)
 
+## Second-Pass Orientation
+
+This dossier matters to the capstone knot because Thomas is where rescue becomes personal rather than merely systemic.
+
+- **Antique identity**: the apostolic or hidden-Christian self remembered beneath PKD
+- **Mechanism of unforgetting**: anamnesis as the faculty by which identity and world are recollected together
+- **Completing other**: Thomas increasingly overlaps with second psyche, adventitious supplement, or upper self arriving on Dick's behalf
+- **Rescue as person**: the late archive cares less about proving first-century identity for its own sake than about the fact that help appeared as someone, not only as information
+- **Reunified whole**: the final Yang/Yin and salvador salvandus models turn Thomas from antique puzzle into the personal form of rescue itself
+
 ## Key Entries
 
 - `[4:132]` the unconscious is said to contain strata that were once conscious, but "not of any living men," an early seed of anamnesis
@@ -87,3 +97,7 @@ Memory as an organ of perception — not metaphorically but literally. Through a
 - `[54:N-20]` Dick's final Gnosticism makes knowing itself ontologically primary, turning the exegesis into life-process rather than failed hunt for one final answer
 - `[60:A-15-37]` Thomas is explicitly folded into H. Fat and Jack Isidore, making the fool who finds Christ the artistic form of Dick's doubled self
 - `[57:S-5]` the final anamnesis-model appears: Thomas or the upper Yang-self breaks into PKD as the lower Yin-self, and rescue becomes re-unification of one voluntary divided whole
+- `[5:31–35]` orthogonal growth-time and the returning signal provide one of the earliest technical models for the doubled self and anamnetic reunion
+- `[5:67]` the Rome vision is explicitly paired with Dick's changed identity as one of the hidden fish-sign Christians
+- `[50:101–109]` anamnesis becomes wake-up clue plus Christ or Hagia Sophia igniting the human from within
+- `[50:142]` balking and agape push anamnesis toward restored primordial wholeness rather than only antique recollection

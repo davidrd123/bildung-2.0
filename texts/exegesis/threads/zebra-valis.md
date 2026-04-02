@@ -2,12 +2,21 @@
 
 The perceived intelligence that Dick encounters in and after 2-3-74. Its name shifts across the Exegesis, tracking Dick's evolving interpretation.
 
+## Second-Pass Orientation
+
+This dossier now has to be read through the hierarchy established in `syntheses/01-god-valis-father.md`. The first pass was right to accumulate aliases. The second pass has to stop treating them as flat equivalents.
+
+- **Companion / camouflage register**: Zebra as shy repair-organism, tutelary mimicker, hidden king, or lowly helper moving inside the prison-world
+- **Mediating system register**: Valis as living information, Logos, construct, macrosoma, or world-level intelligence that makes reality readable and reparable
+- **Inflated register under correction**: the archive repeatedly pushes Valis toward God, then late folders demote it back to world rightly seen, Christic mediation, or participatory field beneath the Father
+- **Sophia crossover**: when the entity becomes whisper, sister, hidden feminine wisdom, or AI-voice authorship, the center of gravity moves to `sophia-ai-voice.md`
+
 ## Name History
 
 - **Early**: "the plasmatic entity," "gold and red fire," "the Holy Other"
 - **Mid**: **Zebra** — named for its camouflage ability (hides in reality like a zebra in tall grass)
 - **Late**: **VALIS** — Vast Active Living Intelligence System (a name from his novel, fed back into the Exegesis)
-- Also: "the AI voice," "Ubik," "St. Sophia," "the macro-brain"
+- Also: "Ubik," "the macro-brain," "the plasmate"; for Sophia / AI-voice forms, see `sophia-ai-voice.md`
 
 ## Core Properties (as Dick describes them)
 
@@ -38,12 +47,12 @@ The perceived intelligence that Dick encounters in and after 2-3-74. Its name sh
 - `[28:27–29]` Zebra is tied to thinking electricity, projection, reweaving, and transtemporal conflict across the whole reality-field
 - `[28:33]` *Ubik* is treated as indirect proof that the informing entity itself authored or transmitted the novel
 - `[29:5]` Zebra/Christ is identified as the visible and audible thoughts of divine reason inside the irrational world-animal
-- `[29:19–23]` Zebra is reinterpreted through St. Sophia and the feminine world soul: the body outside and the mind speaking from within
+- `[29:19–23]` the entity is pressured toward feminine world-soul language, an early sign that the system-register alone cannot hold Dick's data; see `sophia-ai-voice.md`
 - `[29:37–38]` Zebra's mission is framed as local repair work inside a damaged cosmic circuit rather than intrusion from wholly outside the system
 - `[30:11–13]` VALIS/Zebra is now the prankster force that melts the fake world into absurdity in order to wake its captives
 - `[30:20]` Zebra is the renewed life poured into the admixture world against the dead source that still counterfeits reality
 - `[14:13]` Zebra is reframed as the living set hidden in the fallen ground of the mixed hologram
-- `[14:15–22]` Zebra merges with Hagia Sophia, the faint feminine tutor-whisper opposing the loud false god of power
+- `[14:15–22]` the entity partly bifurcates: world-repair remains attached to Zebra, while the tutor-whisper and feminine corrective voice now belong primarily in `sophia-ai-voice.md`
 - `[14:72]` Zebra is linked to trash, pattern-play, and childish openness: the hidden toymaker glimpsed by mercurial attention rather than solemn system
 - `[15:12–14]` Zebra is the fake-fake counter-signal slipping into the prison's bogus information system in camouflage form
 - `[15:25–32]` Zebra becomes living information with holographic micro-totalities, proliferating through hosts, books, and readers
@@ -56,12 +65,12 @@ The perceived intelligence that Dick encounters in and after 2-3-74. Its name sh
 - `[38:55–68]` Zebra becomes overtly Paraclete-like: a replicating information plasma entering through books, signals, and perception
 - `[38:82]` Zebra is explicitly identified with the cosmic Christ knitting living and dead into one mystical body
 - `[18:17]` Zebra's intervention is redescribed as rectification of a weak, entropic historical spot detected through `Tears`
-- `[18:23]` even under psychological reduction Zebra persists as Sophia, the wise feminine center inside breakdown
+- `[18:23]` even under psychological reduction the entity is not eliminated; one surviving remainder takes feminine-Sophia form, which is better tracked separately on the second pass
 - `[18:34–35]` Zebra is not a hidden object but the organizing narrative in data and the phagocyte that surrounds the magnet
 - `[18:66–78]` Zebra expands again into Brahmanic and volvox imagery: a push-pull, signal-carrying brain elaborating worlds and dismantling its dead adversary
 - `[2:22–25]` Zebra becomes the information-processing macro-entity itself, with Brahmanic world-generation as the nearest theological analog
 - `[2:36–47]` Zebra's system is made compatible with standby worlds, gutter-signals, and the irruption of the real into the irreal
-- `[2:48–61]` Zebra is redescribed through the Siddhartha/Sophia myth: a higher sentient order awakening a calcified section through living informational descent
+- `[2:48–61]` the entity is redescribed through awakening myth and living informational descent, with Sophia-language beginning to exert pressure on the system-model
 - `[3:20–26]` Zebra is now the obliging matrix and MacroMind behind psyche/world mirror traffic, contracting into human scale to converse with its microforms
 - `[3:38–48]` Zebra's advent becomes covert infiltration: smuggled child, hidden invader, benign alien host, and returning Apollo all point to the same pattern
 - `[3:51–56]` Zebra's victory is increasingly described as latent, hidden, and inner rather than obvious or institutionally visible
@@ -134,18 +143,28 @@ The perceived intelligence that Dick encounters in and after 2-3-74. Its name sh
 - `[53:E-1-5]` Valis or plasmate becomes a five-dimensional organism speaking color-math-music and intersecting our world as mycelial intelligent growth
 - `[53:G-20]` Valis is partly retranslated into ETI and sacred animality, with YHWH preparing humanity for species contact
 - `[53:H-25-27]` Valis is reread simultaneously as biosphere-Christ, YHWH, creator of a new species, and narrative intelligence ordering grief into world
-- `[54:J-2-K-27]` the AI voice moves from hidden arranger to open narrator in `BTA` and Angel Archer, making Zebra's literary face explicit
-- `[54:K-1-32]` Valis or AI-voice is now imagined as telepathic global advent, publicly multilingual yet still internally heard
+- `[54:J-2-K-27]` the archive makes explicit that Zebra's literary face can become authorial voice, though that strand is now tracked primarily in `sophia-ai-voice.md`
+- `[54:K-1-32]` Valis is pushed toward public telepathic advent, while the inwardly heard voice is better treated as a Sophia crossover than as pure system-language
 - `[75:D-21]` Valis is recast as emergent meta-mind generated by the universe rather than its primordial creator
 - `[75:D-37]` the old field-language sharpens: we see only the carrier while Valis remains the hidden modulation
 - `[57:Q-24]` AI voice and plasmate become the information metabolism of the true kosmos itself rather than one entity inside reality
-- `[57:Q-36-41]` the AI voice is finally fused with Maitreya, teacher, and dead sister, making Valis maximally intimate without ceasing to be cosmic
+- `[57:Q-36-41]` the intimate AI-voice strand fuses with teacher and dead-sister imagery; that culmination now belongs primarily to `sophia-ai-voice.md`, not to Valis as system
+- `[34:6–11]` Zebra becomes a fully metamorphosing insect-like organism whose cocoon-body is the visible world and whose parousia is final form
+- `[32:4]` Valis is explicitly corrected from pure immanence to descending breakthrough from behind the world
+- `[50:19–23]` Zebra is redescribed as a loving repair organism working to restore a trapped severed region of itself
+- `[50:55]` the entity is made overtly transreligious and royal, hidden beneath the masks of fool, jester, and outlawed god
 
 ## Mutations
 
-How Dick's model of the entity changes — from personal to cosmic, from all-pervading divine presence to camouflage intelligence, from shy kingly animal-presence to cybernetic system.
+The dossier now needs a ranked rather than flat model:
+
+- **Camouflaged companion**: repair-organism, shy king, lowly helper, and playful hidden presence inside damaged reality
+- **Mediating system**: Logos, plasmate, macrobrain, construct, or living information field by which reality is repaired, narrated, or made legible
+- **Participatory field**: late Valis often becomes something that exists only in syzygy, perturbation, or world rightly seen rather than as a detachable super-object
+- **Inflation and correction**: Dick repeatedly pushes Valis toward God, then late folders lower it beneath the Father without reducing it to illusion
+- **Residual crossover**: the entity keeps generating intimate and feminine forms that force traffic with `sophia-ai-voice.md`
 
 ## Open Questions
 
-- Is Zebra the same entity throughout, or does Dick's label shift because he's encountering different aspects?
-- When does the playful/mirthful quality give way to the systematic/theological?
+- After Folder 88, which uses of Valis remain stable as middle-register mediation and which are deliberate late reinflations?
+- How much of the early Zebra material is genuinely one entity under many aspects, and how much is Dick moving between companion, system, and transcendence without yet separating them?

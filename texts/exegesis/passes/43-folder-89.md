@@ -77,3 +77,7 @@ Folder 89 contains 11 indexed entries. This pass treats the main conceptual clus
 **What crystallizes here:** 2-3-74 as 4-D evolutionary perception, `VALIS` as sequel to `Scanner` and retelling of `Acts`, the novel corpus as revolutionary manifesto, and Dionysus as the recovered Greek key to both `Tears` and 3-74.
 
 **Method note:** Part Four begins by showing that late Dick's corrections are additive rather than subtractive. Each correction creates a new stratum, and then the next folder rereads the whole archive through that stratum.
+
+## Second-Pass Retrospective — God / Valis / Father
+
+Part Four should not be read as a recantation of Folder 88. Folder 89 re-expands the lower register through perception theory, politics, and Greek host-language while leaving the Father / Valis distinction formally intact. Second-pass reading should treat this folder as additive pressure on the hierarchy, not as its abolition.

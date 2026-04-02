@@ -93,3 +93,7 @@ Folder 1 contains 38 indexed entries. This pass treats the main conceptual clust
 **What crystallizes here:** the mechanism/content split, truth as splintered and recollectable, Valis as Tao-surd-Cosmic Christ, 11-17-80 as true theophany, and God as person beyond system.
 
 **Method note:** Folder 1 teaches that exegesis can be both indispensable and misleading. It preserves data and exhausts false absolutes, but it does not itself produce God. The archive is less a staircase than a purgation device.
+
+## Second-Pass Retrospective — God / Valis / Father
+
+This is the decisive stratification pass. Its key gain is not merely the demotion of Valis but the separation of levels: Platonic anamnesis explains the mechanism, Christian insurgent memory names much of the recovered content, and the Father remains beyond both. Second-pass work should treat Folder 1 as the first clean map of the hierarchy rather than as one more late correction among many.

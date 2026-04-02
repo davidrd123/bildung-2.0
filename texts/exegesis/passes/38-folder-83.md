@@ -93,3 +93,7 @@ Folder 83 contains 28 indexed entries. This pass treats the main conceptual clus
 **What crystallizes here:** Valis as evolving meta-system, the Third Age and stolen secret, sacred narratives as selectable programs, `Tears` as indispensable historical tracing, and the Exegesis itself as memory-work against forgetting.
 
 **Method note:** Folder 83 is one of the clearest points where the text teaches the method. Dick's complaint that the exegesis does not build is immediately corrected by his admission that repetition preserves the cherished memory of what happened. The recursion is not only a defect. It is also a discipline of retention.
+
+## Second-Pass Retrospective — God / Valis / Father
+
+Folder 83 is now easiest to read as the last great inflation of the middle register. Valis is asked to carry ontology, history, scripture, participation, and divine self-disclosure all at once. The importance of Folder 1 and Folder 88 is not that they refute this folder, but that they reassign it. Second-pass reading should therefore treat Folder 83 as the maximum pressure-test of world-level divinity before the transcendent correction becomes unavoidable.

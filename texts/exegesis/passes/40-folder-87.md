@@ -61,3 +61,7 @@ Folder 87 contains 4 indexed entries. This pass treats all of them at full depth
 **What crystallizes here:** anti-Augustinian millenarian politics, the hidden messianic underground, agape above logos and reason, and a more stable reconciliation between 2-3-74 and the transcendent God.
 
 **Method note:** Folder 87 shows that correction in the Exegesis rarely means deletion. Dick keeps the older data, reassigns its level, and then lets the reassignment alter the politics.
+
+## Second-Pass Retrospective — God / Valis / Father
+
+Folder 87 keeps the late correction from collapsing into private metaphysics. Secret history, anti-Empire politics, and hidden Christianity all survive, but below agape. The second-pass lesson is that the Father / Valis distinction does not depoliticize the archive; it subordinates politics to love without erasing the historical struggle.

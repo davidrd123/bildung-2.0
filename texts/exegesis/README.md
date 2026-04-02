@@ -11,6 +11,7 @@ A disciplined transformation of Dick's recursive archive into a readable map —
 - `../../books/The Exegesis of Philip K. Dick - Dick, Philip K_.txt` — ebook text of the 2011 Jackson/Lethem abridgement
 - The published Exegesis is itself an abridgement of ~8,000 handwritten pages into ~800
 - The current ebook source yields **1009 indexed pieces** across **75 folders**: **988 journal entries** and **21 indexed letters**
+- The first reading pass now covers **all 75 folders** in the abridgement
 
 ## Structure
 
@@ -24,9 +25,18 @@ threads/
   thomas-anamnesis.md
   orthogonal-time.md
   logos-holy-spirit.md
+  sophia-ai-voice.md
   fiction-as-prophecy.md
   the-dialectic.md
   2-3-74.md
+syntheses/
+  README.md             # second-pass knot index
+  00-five-knot-overview.md
+  01-god-valis-father.md
+  02-fiction-as-prophecy.md
+  03-prison-maze-return.md
+  04-psychosis-revelation-discernment.md
+  05-suffering-beauty-rescue.md
 passes/
   01-folder-04.md       # calibration pass: raw aftermath and first frameworks
   02-folder-23.md       # system-building pass: James-James, prison-world, anamnesis
@@ -95,6 +105,14 @@ passes/
   65-folder-76.md       # Stop running: fate, thrownness, and world-transformation
   66-folder-84.md       # Christ as ex nihilo newness and VALIS as paradox-machine
   67-folder-57.md       # Final folder: soteriology, interface, Maitreya, and Yang-Yin rescue
+  68-folder-05.md       # Early apparatus: suffering, orthogonal time, Luke, prison breach, and secret Sophia
+  69-folder-34.md       # Four worlds, insect metamorphosis, and Zebra's cocoon-body
+  70-folder-33.md       # Hidden writing readable only by the conscious
+  71-folder-35.md       # Oracle, mystery, Time Out of Joint, and the Bible as door
+  72-folder-36.md       # Logos substratum, flesh wall, and the artificial world above it
+  73-folder-31.md       # Writing as upward thrust, counterculture revolution, and Scanner's syzygy
+  74-folder-32.md       # Ethical balking, descending VALIS, and fiction as Gnostic strike
+  75-folder-50.md       # Explicit Gnosticism, repair organism, modified Boehme, and the bridge to Folder 28
 scripts/
   extract_entries.py    # rebuilds source/entries.yaml from the ebook text
 journal.md              # the reader's changing model of Dick
@@ -138,16 +156,21 @@ The reading passes respect the source's chronology because the *kind* of thinkin
 - **Early (1974–76, Folder 4)**: experiential, epistolary, raw shock of 2-3-74
 - **Middle (1977–79, Folders 23–50)**: theoretical system-building, attempts at coherence
 - **Late (1980–82, the out-of-order Folder 1 block plus the scattered 1980s folders across 53–91)**: literary self-awareness, corrective theology, public apocalypse, writing VALIS and Timothy Archer, and reading them back into the Exegesis
+- **Residual retrofill (Passes 68–75, Folders 5, 31–36, 50)**: older skipped folders that thicken the system-building arc without altering the atlas's overall trajectory
 
 ### Journal
 
 Tracks the reader's changing model of Dick and of the Exegesis itself. With this text, the changing model is part of the read.
 
+### Second Pass
+
+The first pass solved orientation by folder. The second pass works at knots: places where several threads cross, later folders retrospectively reassign earlier ones, and a local correction changes the scale of the whole archive. The new `syntheses/` directory now contains a five-knot sequence: hierarchy (`01-god-valis-father.md`), literature reranked (`02-fiction-as-prophecy.md`), prison/maze/return (`03-prison-maze-return.md`), psychosis versus revelation as a discernment problem (`04-psychosis-revelation-discernment.md`), and the capstone where suffering, beauty, and rescue receive the archive's final weight (`05-suffering-beauty-rescue.md`). `00-five-knot-overview.md` is the short bridge document that says, in one place, what the second pass can now show that the first one could not.
+
 ## Deferred (Phase 2+)
 
 - **Source & Swerve**: parallel texts of Dick's citations vs. actual sources (Heraclitus, Parmenides, Gnostic texts, Kant, etc.)
 - **Tractate Archaeology**: reverse-engineering the Tractates Cryptica Scriptura back into the Exegesis
-- **Cross-project resonances**: connections to Jünger (Zeitmauer/time-crisis) and Gómez Dávila (scholia to an implicit text)
+- **Cross-project resonances**: connections to Jünger (Zeitmauer/time-crisis) and Gómez Dávila (scholia to an implicit text); see `../../00-Notes/cross-project/dick-junger-gomez-cassirer.md` for the first bridge note
 
 ## Regeneration
 

@@ -83,3 +83,7 @@ Folder 81 contains 19 indexed entries.
 **What crystallizes here:** Bible and world as one information-field, justification as completion, Angel Archer as ex nihilo soul, Ditheon as negentropic syzygy, and `VALIS` as the code book to the whole corpus.
 
 **Method note:** Folder 81 says almost directly what the atlas itself has been learning: the point of the exegesis is not simply to solve the event but to preserve it against loss while building the forms that can bear it.
+
+## Second-Pass Retrospective — God / Valis / Father
+
+Here the hierarchy becomes existentially usable. Justification, completion, Angel Archer, and the code-book claim all internalize the difference between transcendent source and mediating supplement. Second-pass work should treat Folder 81 less as new cosmology than as the point where the late settlement becomes livable.

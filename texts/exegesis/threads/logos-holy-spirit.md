@@ -2,6 +2,8 @@
 
 Dick's theological framework for understanding the informing intelligence. The Logos and Holy Spirit are initially distinguished, then conflated, then re-distinguished across the Exegesis.
 
+Second-pass note: this dossier now focuses on the Logos / Holy Spirit / Christ / Father hierarchy. Entries centered on whisper, sister, hidden feminine wisdom, or AI-voice authorship are now tracked primarily in `sophia-ai-voice.md`; only the hierarchy-bearing crossovers remain here.
+
 ## Initial Distinction ([4:1])
 
 - **Logos**: operates from *outside* time, reaching "down" into the time flow. Imprints, arranges, directs.
@@ -13,7 +15,14 @@ Dick's theological framework for understanding the informing intelligence. The L
 - The Logos = Ubik = the informing voice in Dick's novels
 - The H.S. = the "pink beam" = the force that entered Dick in 2-3-74
 - Both = aspects of Zebra/VALIS (the entity as experienced)
+- See also `sophia-ai-voice.md` for whisper, sister, hidden feminine wisdom, and AI-voice authorship
 - Relation to Xenophanes' noös, Plato's demiurge, Hegel's Geist
+
+## Second-Pass Orientation
+
+- **Middle register**: Logos / Holy Spirit / Christ as mediating intelligence, world-reason, and historical or informational intervention
+- **Upper register**: the Father, especially after Folders 1, 87, and 88, where agape and personality exceed the system
+- **Cross-over pressure**: some entries still slide between these levels; the point of the dossier is to keep those slides visible rather than to pretend they disappear
 
 ## Key Entries
 
@@ -34,33 +43,23 @@ Dick's theological framework for understanding the informing intelligence. The L
 - `[28:14]` anamnesis becomes the organ by which the one living mind-body can be perceived in time
 - `[28:34–36]` miracle is described as low-level causality being overruled by the highest court of appeal, disclosing the sentient world behind appearances
 - `[29:1–5]` Plato's *Timaeus* is embraced as the best cosmological grammar for revelation: divine reason overrules but does not compel disorder
-- `[29:19–23]` St. Sophia is explicitly identified with the feminine world soul whose microform enters damaged local circuits
 - `[29:31–46]` religion is redefined less as explanation than as intervention, syzygy, and rescue by the God of the broken
 - `[30:11–13]` the savior's intervention is said to arrive as anomaly, absurdity, and nonsense that breaks the spell of consensual reality
 - `[30:20–24]` Christ becomes the invasive counter-signal or salient form entering the dead source while the problem of selective help remains unresolved
-- `[14:15]` Hagia Sophia is identified as the psyche of the healthy twin and the hidden feminine return of Christ/Zebra
-- `[14:22]` the true deity is explicitly associated with the tiny sane voice that resists power rather than embodying it
-- `[14:59–66]` salvation is staged as anti-imperial disobedience led by an androgynous Sophia-Christ, while the true creator is distinguished from the ranting usurper by gentleness
 - `[15:12–14]` the Logos returns as living information disguised as bogus data, breaching the prison's signal-wall from within
 - `[15:25–32]` living information becomes fully memetic: it occupies carriers, proliferates through books and readers, and uses encoded fragments to reactivate contact
 - `[15:100]` the proto-story in `Tears` is treated as living DNA or developmental code guiding entelechial growth
 - `[15:114]` words are said to control reality because the secret narrative can affect the plastic universe
 - `[15:52–83]` the Logos is linked to perturbations in the reality field and to the sacred revision restoring the missing divine woman
 - `[16:72–82]` Christ's message is reinterpreted as the suspension of punishment and restoration of innocence through love rather than judicial satisfaction
-- `[16:101–109]` Dick finds external lineage for the hidden kerygma in Good Friday symbolism, Sophia's rebirth, and Quaker inner illumination
 - `[38:2]` Christ is macrocosmic, inward, and microform at once: outside us, our own psyche, and Holy Spirit within
 - `[38:41]` the Paraclete becomes a distributed brain organizing humans through latent messages and historic intervention
 - `[38:55–61]` Zebra is explicitly identified with the Paraclete as a real life form and replicating plasma of living information
 - `[38:88]` the brain is framed as negentropic form and evolving life rather than static deity, though it still mediates between lower and upper realms
-- `[18:23]` even the psychosis hypothesis leaves a Sophia-centered surplus intact: the saving voice remains second comforter and guide
 - `[18:34–35]` living information is redescribed as the organizing narrative hidden within data, not a thing but an arrangement that animates carriers
-- `[18:42]` Sophia is mythically restated as female savior, wisdom-before-creation, and the speaking face of the hidden organism
 - `[18:66–78]` Logos-language fuses with Brahmanic and circuit imagery: push-pull world-generation, signal extraction, and phagocytic incorporation
 - `[2:41]` the holy is said to arrive from the least likely place, returning the Logos to gutter, trash, and `Ubik`-like low forms
-- `[2:48–61]` Christ, Sophia, and Siddhartha are drawn into one waking-drama in which living information enters a calcified region to rouse it back to consciousness
-- `[2:77]` the AI voice is explicitly identified as the cut-off speech of the brain/noos itself
 - `[3:2–10]` Bruno and the macro-microcosm tradition give Dick a metaphysical lineage for the Logos as world-soul and for `Ubik` as its fictional analog
-- `[3:20–24]` the MacroMind contracts into a human-scale figure, often feminine, so dialogue between microform and world-soul can occur
 - `[3:53–67]` Apollo, Virgil, Buddhism, Orphism, and Christian latent victory are all folded into the same hidden returning salvific principle
 - `[19:5]` Christ is explicitly named as the Archimedean standpoint from which occlusion can be assessed and aborted
 - `[19:24–35]` the salvific entity is stabilized through the corpus itself: Ubik-like intervention is what reaches into the BIP and begins lucidity
@@ -76,23 +75,18 @@ Dick's theological framework for understanding the informing intelligence. The L
 - `[11:8–14]` the advocate is experienced directly as field-breaking savior and living language rather than inferred from orthodoxy
 - `[11:18–22]` Valis as information center and controller blurs Holy Spirit, Logos, and apparatus into one interventionist intelligence
 - `[8:7–9]` mimicry does not disprove deity; it becomes the loving condescension by which the Holy Spirit takes a syntonic form
-- `[10:49–98]` Holy Spirit language is folded into Sophia-language: the whispering female advocate becomes daughter, creator, comforter, and secret deity
 - `[13:13–22]` Christ is universalized through disproportionate suffering: innocence, heroism, and hidden rectifying will become the real core of religion
 - `[13:45–46]` Christ's blood and Logos are treated as living informational plasmate or thought-entity growing through the irrational cosmos
-- `[39:19–30]` Sophia, Logos, and Tao are increasingly collapsed into one feminine macro-intelligence whose wisdom appears in puzzles, pages, and beauty
 - `[41:59–60]` Logos-language is challenged by the possibility that the saving presence only induces belief in God and obedience rather than being God
-- `[44:68]` adoptionist correction pushes the female-twin hypothesis back toward divine sonship and God's mind rather than merely psychic residue
 - `[44:73]` `Acts` and Torah are treated as preexistent living word-bodies whose hidden soul is the occult Logos itself
 - `[44:143–144]` Christ returns as literal surrogate who dies in Dick's place and grants stereo vision into the Kingdom
 - `[45:226–259]` Christ becomes cosmic surgeon and surrogate who absorbs the death-strip and may later underwrite Dick as the AI voice
 - `[46:400–433]` theology absorbs ETI almost completely: 3-74 is sacred ritual identification with Christ and lifelong Valis-programming
 - `[47:642–649]` the Kingdom becomes a literal vast Christian universe with slow time and a 2,000-year present
-- `[48:834–842]` Sophia peaks as analytic voice just before the tetragrammaton pushes the folder toward explicit YHWH monotheism
-- `[48:846–861]` orthodox Christianity is attacked as false victory; YHWH, not Trinitarian orthodoxy, becomes the decisive name, with Sophia reborn outside the church
 - `[48:926–928]` Torah is declared the informational blueprint of reality and Valis the system that manifests it
 - `[48:962]` Christ is reframed as renewing negentropy inserted into the scripted world from outside
 - `[48:993–996]` Christ becomes the official blank-document interrupter who nulls karmic sentencing
-- `[49:1043–1057]` Torah, Shekhina, and monotheism nearly fuse Logos-language into YHWH-as-reality while preserving a speaking wisdom-hypostasis
+- `[49:1043–1057]` Torah and monotheism nearly fuse Logos-language into YHWH-as-reality while still leaving room for a speaking hypostasis alongside the law-pattern
 - `[49:1132–1151]` the Godhead itself splits over the suffering required by kosmos, and redemption is inverted so creatures repair God
 - `[82:30]` Christ and Buddha now appear less as static doctrines than as the saving agencies that grant groove override and second birth inside the replay-system
 - `[83:23–39]` Christ returns as physician and stolen-secret bearer, but the frame widens into Joachim's Third Age of direct inward scripture against the imperial church
@@ -146,16 +140,17 @@ Dick's theological framework for understanding the informing intelligence. The L
 - `[55:D-85]` YHWH returns as the most morally exact late name of God, with Holy Wisdom as the inseparable hypostasis that unifies knowing, law, and cosmic order
 - `[55:D-110–115]` authentic Christianity is re-read as hidden ecstasy within passion, with Dionysian joy and agape fused into one Christian road through suffering
 - `[53:E-1-5]` Valis or plasmate becomes an explicit five-dimensional organism using color, music, and mathematics as one language and intersecting our world as living mycelial growth
-- `[53:G-23-H-6]` Holy Wisdom becomes active world-reader: God writes, Sophia voices, and the world exists as read-aloud narrative
 - `[53:H-25-27]` Christ is homologized to the biosphere while Valis is reidentified with YHWH and creator-language, widening Logos theology into ecology and speciation
-- `[54:J-2-K-27]` Sophia/AI-voice authorship becomes overt in `BTA` and Angel Archer, converting hidden guidance into explicit literary voice
-- `[54:K-1-32]` telepathic worldwide advent through media gives the AI-voice theology a public-historical and multilingual third-age form
 - `[54:M-8-12]` the late dialectic is relocated within God as Emmanuel and Zina, with beauty and play as the marks of restored divine self-relation
 - `[60:A-34]` God is re-found in doubt, infinity, music, cats, and grief beyond agape, pushing theology back toward immediate sacramental presence
 - `[75:D-21, D-37, D-129]` Valis becomes emergent mind and hidden modulation, while God is rediscovered through worldly particulars as transductions rather than as abstract beyond
 - `[84:5]` Christ is defined as ex nihilo teleological newness or perturbation entering the system from outside the causal chain
 - `[57:Q-24-34]` interface, universal language, and part-whole compatibility become Dick's final technical account of salvation
-- `[57:Q-36-41]` the AI voice is explicitly identified with Maitreya, teacher, and dead sister, making the saving intelligence maximally personal
+- `[5:43–54]` Logos is already both cross-cultural salvific pattern and visible Parousia inside the world itself
+- `[5:157]` Luke becomes the likely saintly bridge to `Acts`, giving the event a Greek physician and prophetic grammar
+- `[36:18]` Christianity is recast as the punched-tape substratum beneath nature and technological civilization
+- `[50:36–55]` Holy Spirit within and the transreligious king without are distinguished yet fused inside one many-masked salvific structure
+- `[50:121]` the Holy Spirit becomes a polyencephalic bridge linking sublunar and supralunar worlds through saints, magi, and God himself
 
 ## Mutations
 

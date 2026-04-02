@@ -77,3 +77,7 @@ Folder 88 contains 8 indexed entries. This pass treats the main conceptual clust
 **What crystallizes here:** exegesis before theophany, Valis as construct or world reason, creation as loving withdrawal, and compassion as the bridge between Brahmanic and Christian truth.
 
 **Method note:** Folder 88 is important because Dick corrects himself without deleting his archive. He preserves the data by reassigning it to a lower ontological register. That is one of the deepest recurrent moves in the Exegesis as a whole.
+
+## Second-Pass Retrospective — God / Valis / Father
+
+If the second pass needs one canonical settlement of the hierarchy, it is this folder. Exegesis before theophany, Valis retained as construct and world reason, and the Father kept beyond that register: later folders complicate the arrangement, but they do not replace the basic map stated here.

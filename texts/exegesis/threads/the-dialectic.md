@@ -8,6 +8,16 @@ Dick's framework for the cosmic struggle: two principles contending under one mi
 
 Every truth Dick arrives at generates its opposite. This is not failure — it's the structure of reality. The Exegesis is a record of the dialectic in action: each theory is both true and not-true, and the oscillation between them is itself meaningful.
 
+## Second-Pass Orientation
+
+This dossier matters to the discernment knot because Dick almost never treats revelation versus delusion as a simple binary. He turns it into a matched-pair problem.
+
+- **Matched-pair logic**: contradictory readings can both carry data, so the existence of an opposite hypothesis does not by itself disqualify a claim
+- **Discernment engine**: revelation must survive the generation of its opposite, including weapon hypothesis, projection hypothesis, private delusion, and psychosis reduction
+- **Inward inversion**: the late archive repeatedly turns the conflict inward until creator and prisoner, saving signal and deceiving signal, may arise inside one mind
+- **Pedagogical dialectic**: after Folder 88, false absolute and exhausted delusion can become part of the route to genuine theophany rather than mere error
+- **Non-closure**: the task is not to force contradiction to disappear, but to learn which oscillations preserve encounter and which collapse back into self-enclosure
+
 ## The Matched Pairs ([11:42])
 
 - Evil (Palmer Eldritch) / Good (Logos)
@@ -23,6 +33,7 @@ Every truth Dick arrives at generates its opposite. This is not failure — it's
 - Hegel (thesis/antithesis/synthesis — but Dick's dialectic rarely synthesizes)
 - Gnosticism (light/dark, pleroma/kenoma)
 - The BIP as congealed dialectic (stasis = entropy = Empire)
+- 2-3-74 as the event whose contradictory readings drive the archive's hardest discernment problem
 
 ## Key Entries
 
@@ -137,3 +148,8 @@ Every truth Dick arrives at generates its opposite. This is not failure — it's
 - `[76:E-2-19]` running versus facing fate, and alien world versus hospitable world, become the stripped existential form of the conflict
 - `[84:5-8]` Christ as newness and paradox as awakening compress the dialectic into event and koan
 - `[57:Q-36, S-5]` pain and hope, Yang and Yin, upper rescuer and lower incarnate self become the final paired structure of the archive
+- `[5:14]` Tony Boucher's death makes pain-versus-love an early existential problem rather than a later abstract system issue
+- `[34:6–11]` the dialectic is given biological form as metamorphosis: prison, world, garden, and final state are one painful remolding sequence
+- `[35:3]` contradiction is preserved methodologically because revelation points to mystery instead of dissolving it into explanation
+- `[50:87–93]` modified Gnosticism restates the conflict as divine modulation versus blind process rather than good creator versus bad creator
+- `[50:142]` balking, agape, paradox, and restored wholeness compress the whole dialectic into one late-1977 ethical formula
