@@ -134,7 +134,7 @@ A compact vocabulary for how handles connect. Used in notes, future graph layer,
 | `crystallizes` | makes latent pattern explicit | `thread:time-crisis crystallizes [zm:4, zm:9, zm:13]` |
 | `pressures` | creates unresolved tension | `zm:11:bildender-kraft pressures term:bildung` |
 | `parallels` | independent convergence | `esc:112 parallels zm:10` (knowledge vs. interpretation) |
-| `challenges` | contradiction or counter-evidence | (reserved) |
+| `challenges` | contradiction or counter-evidence | `evidence:term:schicksalszeit:zm:22 challenges term:schicksalszeit` |
 | `grounds` | provides foundation or justification | `evidence:term:schicksalszeit:zm:9 grounds term:schicksalszeit` |
 
 ## Maturity Statuses

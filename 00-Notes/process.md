@@ -68,6 +68,49 @@ When a synthesis note converges on something stable enough to reference without 
 
 The test for crystallization: would a future session need to re-derive this from scratch, or can it just read the pattern?
 
+## Adversarial Practice
+
+The project's default failure mode is absorbing critique as better prose rather than harder tests. This section exists to counter that. It adds friction, not architecture.
+
+### For translation batches
+
+After each batch, note one passage where the rendering might be *wrong*, not just improvable. Classify the difficulty:
+
+| Type | Meaning | What resolves it |
+|------|---------|-----------------|
+| **lexical** | dictionary, usage, or period-specific meaning problem | a better lexicon, a native speaker, a parallel passage |
+| **contextual** | depends on surrounding argument not yet translated | later sections may settle it |
+| **edition** | variant readings, textual corruption, or editorial choices | critical apparatus, rival editions |
+| **residual** | genuine resistance to single rendering after the above are exhausted | this is the real `open` |
+
+These types can be mixed — a term may be partly contextual and partly residual. A term with `status: open` should say which types of difficulty keep it open. If the difficulty is primarily lexical or edition, the right move is research, not patience.
+
+### For thread dossiers and cross-project claims
+
+Each thread dossier or cross-project note that makes a developmental or structural claim should include:
+
+- **Rival reading** — at least one alternative interpretation of the same evidence that the project does not currently hold. Not a strawman. A reading a competent scholar in the relevant field might actually advance.
+- **Weakening evidence** — what specific passages, facts, or counter-examples would weaken the thread's organizing claim? If nothing would weaken it, the claim is unfalsifiable, not strong.
+
+These belong as sections in the dossier itself, not as separate files.
+
+### For the handle layer
+
+`challenges` is an active relation type (see `patterns/handle-schema.md`). Use it when:
+
+- a passage puts a glossary term's current rendering under pressure
+- a later section contradicts the developmental arc of a thread
+- a cross-project resonance breaks down on closer inspection
+- a modern-source retranslation produces a reading that does not fit the source
+
+Evidence handles can carry negative evidence: `evidence:term:schicksalszeit:zm:22 challenges term:schicksalszeit` means §22 puts the current rendering under pressure rather than confirming it.
+
+### For the project as a whole
+
+The test for whether the adversarial practice is working: could the current batch, dossier, or glossary decision survive being read by a hostile but competent specialist in the relevant field? Not "would they agree" — would they find enough rigor to engage with?
+
+This is not a publication standard. It is a contestability standard. The work does not need to be sent out. It needs to be *sendable*.
+
 ## Threads in Flight
 
 Living list. Updated as threads advance or stall.
