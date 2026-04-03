@@ -15,3 +15,4 @@ Current seed threads:
 - `thread:time-crisis`
 - `thread:mumford-bridge`
 - `thread:goethe-leibniz-frame`
+- `thread:predecided-world`

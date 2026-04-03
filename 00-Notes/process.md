@@ -83,7 +83,8 @@ Living list. Updated as threads advance or stall.
 | Schuon limit | Placed — names the honest boundary of textual recovery | `cross-domain-synthesis-threads.md` | 2026-03-31 |
 | Rosen: models vs. simulations | Placed — maps onto close/free split | `cross-domain-synthesis-threads.md` | 2026-03-29 |
 | Practice queue (source encounter + decryption) | Active — revised around practical coupling to live work and generalized opacity | `cross-domain-synthesis-threads.md` | 2026-04-01 |
-| Anders bridge | Active — source campaign in progress, first encounters underway | `cross-domain-synthesis-threads.md` | 2026-04-02 |
+| Anders bridge | Active — source campaign complete; bridge clarified | `cross-domain-synthesis-threads.md` | 2026-04-02 |
+| Predecided world | Active — Uexküll/Cassirer/Anders/Jünger world-cut connector | `cross-domain-synthesis-threads.md` | 2026-04-02 |
 | Empirical morphogenesis line | Active — Levin corpus linked to the braided river | `cross-domain-synthesis-threads.md` | 2026-04-01 |
 | Action-conditioned real | Active — von Foerster + late Zeitmauer + Cassirer + Dick | `cross-domain-synthesis-threads.md` | 2026-04-02 |
 | Whitehead decryption | Seeded — identified as target, not started | `cross-domain-synthesis-threads.md` | 2026-03-29 |
@@ -113,7 +114,7 @@ Living list. Updated as threads advance or stall.
 | `texts/escolios/` | §§1-108 translated (8 section files) | Continuing sequential batches |
 | `texts/escolios-ii/` | 2 section files; extraction pipeline building | History-and-ruin opening; aphorisms.yaml restructuring |
 | `texts/exegesis/` | 17 passes (folders 02-04, 14-19, 23-30, 38); 3 thread dossiers | Stable; no recent pushes |
-| `sources/` | Uexküll complete (5 encounters); Anders in progress (2 encounters); modern sources growing | Von Foerster first validation seam confirmed |
+| `sources/` | Uexküll complete (5 encounters); Anders Band I complete (5 encounters); modern sources growing | Next source move should be demand-led rather than queue-filling by default |
 
 ## Maintenance
 

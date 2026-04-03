@@ -181,3 +181,30 @@
     - "stability of structure"
   status: tentative
   notes: "By `4.1` this becomes the more delicate and important counterpart to quantitative stability. It depends on the character of the organizational connection and is always relative to definite impacts or to a bounded environment. The central pressure of the section is that positive selection can reduce it while negative selection can, within limits, increase it."
+
+- term: "относительное сопротивление"
+  kind: concept
+  preferred: "relative resistance"
+  alternatives:
+    - "relative resilience"
+    - "resistance ratio"
+  status: tentative
+  notes: "By `4.2-4.3` this becomes the operational term through which Bogdanov states when a whole holds or fails and then how it must be organized in practice. The key threshold is `1`: at that level full deingression occurs between the opposed terms, and below it destructive breakdown follows. `4.3` also shows the two main practical uses that grow out of the term: concentration of resistances where impacts can be foreseen, and equalization across threatened links where they cannot."
+
+- term: "закон наименьших"
+  kind: concept
+  preferred: "law of leasts"
+  alternatives:
+    - "law of least favorable conditions"
+    - "law of the minimum"
+  status: tentative
+  notes: "By `4.2-4.3` Bogdanov presents this as the looser, more usable formula of the law of relative resistances, especially for social-organizational practice. `4.3` makes it into a practical schema across technique, pedagogy, politics, and cultural explanation: under determinate impacts it yields concentration and shielding, under indeterminate ones equalization. `Law of the minimum` remains necessary for Liebig's agronomic case, but `law of leasts` better preserves Bogdanov's own generalized, slightly hard wording. The section also marks a limit: explaining `leveling to the lowest` is not yet the same as solving it."
+
+- term: "слитность / четочность"
+  kind: concept_pair
+  preferred: "fusedness / beadedness"
+  alternatives:
+    - "fused / beaded structure"
+    - "compactness / beadedness"
+  status: tentative
+  notes: "By `4.4` this pair becomes structurally real. Bogdanov himself says the terms are only provisional and should not be taken as literal physical imagery: what they name is the relative quantity and evenness of a complex's contacts with its environment. `Fusedness` is favored under negative selection, `beadedness` under positive selection, so long as the environment is treated as indeterminate in the sense clarified at the end of the section."

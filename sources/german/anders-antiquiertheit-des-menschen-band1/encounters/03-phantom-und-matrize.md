@@ -55,7 +55,7 @@ damit auch den Stil unserer Beschäftigung und unseres Lebens, kurz: uns.
 ## Draft
 
 ```text
-Its validity is more than doubtful. The freedom to dispose over technology
+Its validity is more than doubtful. The freedom to dispose of technology
 that it presupposes, its belief that there are pieces of our world that are
 nothing but "means," to which one can attach "good ends" ad libitum, is a
 pure illusion. The apparatuses themselves are facts, and indeed facts that
@@ -67,7 +67,7 @@ service. But what shapes or transforms us in that case, whether we want it
 or not, just as strongly as the service itself, is the fact that we do not
 take part in it at all, but consume only its image. This picture-book
 effect is obviously not merely different from the intended effect but its
-opposite. What shapes and unshapes us, forms and deformes us, are not only
+opposite. What shapes and unshapes us, forms and deforms us, are not only
 the objects mediated by the "means," but the means themselves, the devices
 themselves: not only objects of possible use, but things that by their
 fixed structure and function already determine their own use and thereby

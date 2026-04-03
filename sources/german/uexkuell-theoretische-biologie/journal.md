@@ -180,3 +180,15 @@ The initial Uexküll queue has earned completion as a bounded source campaign, b
 **Implication**
 
 The intermediate `sources/` form is no longer hypothetical. Uexküll has now demonstrated that it can hold a full conceptual arc without either shrinking back to one-off encounters or inflating prematurely into a whole-book project.
+
+## 2026-04-02 — Cross-project synthesis note
+
+**What the repo-level pass clarified**
+
+- The Uexkuell queue now stands more clearly as one root of a larger cross-project thread: the world is never given neutrally, but cut in advance through specific forms of access and action.
+- `Umwelt`, `Funktionskreis`, `Merkwelt`, and `Wirkwelt` therefore matter not only biologically, but architecturally. They show one way a world is pre-shaped before description begins.
+- The Anders queue historicizes this pressure at the level of apparatus and mass society, while Cassirer names it at the level of symbolic forms and Juenger at the level of civilizational threshold.
+
+**Implication**
+
+Uexkuell is no longer only a biological support line in the repo. He is now one of the clearest anchors for the emerging predecided-world thread.

@@ -58,7 +58,7 @@ Ranking criteria:
 ### Next up
 
 1. **Günther Anders — *Die Antiquiertheit des Menschen*** (German)
-   Band I is now locally present as `books/Die Antiquiertheit des Menschen - Gunther Anders.txt`, and a bounded source campaign has been scaffolded under `sources/german/anders-antiquiertheit-des-menschen-band1/`. Keep this line source-layer for now. The first encounter arc tests `prometheische Scham`, apparatus-world, `Phantom` / `Matrize`, `Sein ohne Zeit`, and `Apokalypseblindheit`.
+   The initial five-encounter Band I source campaign is now complete under `sources/german/anders-antiquiertheit-des-menschen-band1/`. Keep this line source-layer for now rather than promote it to `texts/`. It grounds `prometheische Scham`, apparatus-world, `Phantom` / `Matrize`, `Sein ohne Zeit`, `Massenmensch`, and `Apokalypseblindheit`.
 
 2. **Jakob von Uexküll — key passages from *Theoretische Biologie* and related works** (German, source-layer first)
    The initial five-encounter source campaign is now complete under `sources/german/uexkuell-theoretische-biologie/`. Keep this line source-layer for now rather than promote it to a full retranslation. It grounds organism/world coupling, subject-cut objects, and overlapping Umwelten carried by invariant `Funktionskreise`.
@@ -102,7 +102,41 @@ The most urgent missing bridge is not simply more formal architecture or more bi
 
 That is why Anders rises in priority. He sits between Cassirer's account of symbolic-form transformation and Jünger's phenomenology of the time wall. What Jünger describes as naming crisis and new optics, Anders diagnoses as `prometheische Scham`: the human being's experience of morphological inferiority before the precision, durability, and reliability of its own technical products.
 
-This keeps Anders as a live working line rather than a distant comparator. He is close to the current language, close to the current historical problem, and close to the current method. The question now is no longer whether he belongs in the queue, but whether the first bounded source campaign earns promotion beyond source-layer work.
+This keeps Anders as a live working line rather than a distant comparator. He is close to the current language, close to the current historical problem, and close to the current method. The initial five-encounter Band I source campaign confirmed the bridge, but did not yet earn promotion beyond source-layer work.
+
+## What the Anders Queue Tested (Band I, encounters 01-05, updated 2026-04-02)
+
+The Anders queue was initially justified as a bridge between Cassirer and Jünger. Five encounters now let the repo say more precisely what kind of bridge it is.
+
+### What held
+
+- Anders is not only a source for `prometheische Scham`. The five encounters confirm one continuous diagnosis linking apparatus, media phantomization, worldlessness, and apocalypse.
+- Jünger's historical threshold and Anders's anthropological diagnosis meet at the same pressure point: human capacities do not keep pace with the world they have produced. Jünger names the civilizational side of the mismatch; Anders names the experiential and moral side as `prometheisches Gefälle`.
+- Cassirer's question about transformed symbolic forms continues here at a harder register. In Anders, form does not remain only symbolic or discursive; it is embodied in apparatuses that pre-shape perception and action.
+
+### What shifted
+
+- The stronger unexpected bridge is to Uexküll. Uexküll shows that there is no neutral world, only subject-bound meaningful worlds; Anders shows that the modern human world is no longer experienced as a neutral shared world either, but as a technically pre-cut one. `Vorentscheidung`, `Weltphantom`, and `Phantom / Matrize` describe a historical apparatus-world where the cut precedes local choice.
+- The Beckett essay cannot be treated as a literary side trip. `Sein ohne Zeit` turns out to be the lived temporality of the `Massenmensch`, and therefore a real bridge back into Jünger's time crisis.
+- `Apokalypseblindheit` is not a separate political add-on. It is the planetary form of the same disproportion already visible in `prometheische Scham` and `prometheisches Gefälle`: making outruns imagining, feeling, and responsibility.
+
+### What surfaced
+
+- A new cross-project thread: the predecided world. Uexküll's subject-cuts, Cassirer's symbolic forms, Anders's apparatuses, and Jünger's time wall all concern ways a world is structured before it can be neutrally surveyed.
+- The strongest methodological result is that world-forms in this repo are not merely conceptual overlays. They are operative conditions of access, perception, and action. That matters architecturally because the eventual instrument has to represent not just texts and terms, but the different world-cuts in which those texts operate.
+
+## The Predecided World Thread (from Uexküll + Cassirer + Anders + Jünger, 2026-04-02)
+
+The strongest new thread to surface from the Anders queue is that the decisive problem is not only what world a subject sees, but how the relevant world has already been cut before explicit reflection begins.
+
+- **Uexküll**: there is no neutral environment waiting to be described. Each subject inhabits an `Umwelt`, a world cut through its own `Funktionskreis`, `Merkwelt`, and `Wirkwelt`.
+- **Cassirer**: forms of world-disclosure are historically constituted and irreducible. The same reality does not simply appear under different labels; it is organized differently by different symbolic forms.
+- **Anders**: the modern human world is technically pre-cut. Apparatuses are `Vorentscheidungen`; the device-system is not a means inside a prior world but a macro-device that becomes world. `Weltphantom`, `Phantom`, and `Matrize` name the ways that access, reality, and human type are shaped in advance.
+- **Jünger**: at the time wall, inherited naming, planning, and measurement fail because the world-form itself is shifting. The naming crisis is therefore not just semantic confusion but the breakdown of an old cut.
+
+This matters because it revises the repo's own problem-description. The issue is not merely that modernity forgot a richer relation to reality. It is also that reality now reaches the subject through infrastructural forms that pre-decide the available field of action and perception.
+
+That makes the Anders line more than a bridge-text. It turns the Uexküll and Cassirer pressures historical and technical. The eventual instrument will need to track not only terms and frames, but different ways worlds are pre-cut for their inhabitants.
 
 ## The Rosen Thread
 

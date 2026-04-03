@@ -322,3 +322,70 @@ Review notes:
 
 - [visual candidate] a two-axis map: quantitative stability up / structural stability down under positive selection, and the inverse tendency under negative selection
 - [visual candidate] prosperity -> heterogeneity -> crisis -> negative selection -> reordered growth
+
+## 2026-04-02 - The Weakest Relative Point
+
+`4.2` sharpens the regulating layer again by turning the question of stability into a law of the weakest relative point.
+
+The core claim is simple and very strong: the stability of a whole depends on the least relative resistance of its parts at a given moment. What matters is not average strength and not the best-developed part, but the point at which the relation between local resistance and local impact falls furthest. This is why Bogdanov insists on the threshold of `1`: when relative resistance falls to one or below, breakdown becomes possible or unavoidable.
+
+The section matters methodologically because it keeps reformulating the same law without changing the structure. It can be stated as least relative resistances of the parts, as least relative activities of the complex, as greatest relative resistances of the environment, or more loosely as the `law of least favorable conditions`. That flexibility is what lets the law travel from chains and disease to fleets, apertures, temporal processes, offices, and political blocs.
+
+The Liebig connection is clarifying. `Law of the minimum` is not treated as a privileged scientific origin but as one rediscovery among others, in this case the agronomic version of a more general tektological law. Bogdanov's move is to universalize it.
+
+Current conclusion:
+
+- `4.2` is one of the clearest practical sections so far
+- the regulating grammar is now no longer only about growth, decline, and crisis, but about diagnosable weak points
+- the next large question is how this universal law gets used in deliberate practical construction, which is exactly what `4.3` appears to take up
+
+Review notes:
+
+- [visual candidate] a chain / squadron / Liebig-tub triptych all expressing the same law
+- [visual candidate] a threshold diagram for relative resistance at `>1`, `=1`, and `<1`
+
+## 2026-04-02 - The Law of Leasts Becomes Method
+
+`4.3` matters because it does not merely add more examples to `4.2`. It converts the law of leasts into an explicit method-suite for practical organization.
+
+The first clarification is the split between two task-types. Where impacts can be foreseen in their unequal distribution, the method is concentration: strengthen the points of greatest strain, reduce unnecessary exposure, and where possible redirect hostile activity toward points of greater resistance or lesser consequence. Where impacts are indeterminate, the method is different: maximum stability requires an even distribution of activities-resistances across threatened links. Bogdanov then adds an important tactical wrinkle: initiative is valuable because it can convert a second-type problem into a first-type one by forcing the environment into a more chosen and calculable shape.
+
+The pedagogy stretch is structurally stronger than it first appears. Education is recast as a dual organizational task. `Specialization` prepares a person for chosen, determinate resistances and is what allows stable advantage in a contradictory society. But that cannot suffice, because outside the chosen line of work the person remains exposed to indeterminate conditions. Hence the second demand: physical education and `general education` as preparation for unforeseeable shifts in natural and social environment. This is one of the clearest places so far where Bogdanov turns an abstract organizational law into a full social program.
+
+The closing analysis of parties, crisis, and crowd-action is the strongest payoff of the section. Organizations usually do not use the law of leasts as an instrument; they suffer it. In practice they move along the line of the least present resistance rather than along the line of the greatest foreseeable future impact. From there Bogdanov derives the explanatory value of the law for cultural regression: heterogeneous societies and heterogeneous persons can still display the same outward barbarism because action gets bottlenecked by the lower layers. His phrase `равнение по низшему` is the clearest local name for that phenomenon.
+
+Current conclusion:
+
+- `4.3` makes the law of leasts operational rather than merely diagnostic
+- no new coined term forced glossary expansion here; the pressure fell instead on deeper use of `relative resistance` and `law of leasts`
+- the section ends by marking its own limit: the formula of leasts is insufficient for the transition from lower to middle magnitudes
+- the next step should therefore be `4.4`, because Bogdanov explicitly says another tektological move is now required
+
+Review notes:
+
+- [visual candidate] a two-method diagram: concentration under determinate impacts / equalization under indeterminate ones
+- [visual candidate] a pedagogy cross: specialization vs. general education under the two task-types
+- [visual candidate] a `leveling to the lowest` diagram for crowd-action and cultural regression
+
+## 2026-04-02 - Contact Structure Enters
+
+`4.4` adds another structural dimension to the whole chapter. After the weakest-relative-point logic of `4.2` and the method split of `4.3`, Bogdanov now asks how widely and unevenly a complex touches its environment in the first place.
+
+The new pair, `слитность / четочность`, matters because it is not merely geometric. Bogdanov explicitly says the terms are provisional and that they do not really name visible shape as such. What they name is the relative quantity and evenness of contacts with the environment. That is why the pair can move from metal rods to child psychology, scientific classification, party organization, and finally to rhythms and wavelengths in time.
+
+The governing rule is clean. Under negative selection, more fused structure is more favorable; under positive selection, more beaded structure is more favorable. That is the first half of the section. The second half is just as important, because it prevents the rule from hardening into a slogan. The centralist / federative comparison makes the point socially visible, the time-structure passages widen it beyond space, and the final paragraph explicitly restores the distinction of `4.3`: where external pressures are stably concentrated on particular parts, purposeful unevenness may be required. The general schema is for indeterminate environments; determinate ones modify it.
+
+What this means for the chapter as a whole is that Bogdanov is no longer only talking about stability in terms of quantity, weakest points, and tactical allocation. He is also talking about contact-geometry. A complex can preserve itself not only by strengthening a weak link, but by changing the pattern of its openings onto the environment.
+
+Current conclusion:
+
+- `4.4` earns real glossary pressure through `слитность / четочность`
+- the section gives the extra structural step that `4.3` said was needed, but it does so under an explicit limit-condition
+- chapter `4` is becoming a layered grammar: quantity / structure, weakest point, method under determinate vs. indeterminate impacts, then contact-structure
+- the next step should be `4.5`, because equilibrium systems look like the next level of formal consolidation
+
+Review notes:
+
+- [visual candidate] a rod pair: even cylinder vs. beaded rod, with positive and negative selection arrows
+- [visual candidate] centralist / federative mapped onto fused / beaded under good and bad conditions
+- [visual candidate] temporal beadedness: long vs. short wavelength and day / night oscillation

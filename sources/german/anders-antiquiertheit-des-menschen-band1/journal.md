@@ -178,3 +178,15 @@ The initial Anders queue has earned completion as a bounded source campaign, but
 **Implication**
 
 The first five encounters confirm Anders as a major live line in the repo, but still as a bounded source campaign rather than a standing translation project.
+
+## 2026-04-02 — Cross-project synthesis note
+
+**What the repo-level pass clarified**
+
+- The strongest cross-project thread to emerge from this queue is not only technique-and-modernity in general, but the predecided world.
+- `Vorentscheidung`, `Weltphantom`, and `Phantom / Matrize` now read less as isolated Anders terms than as one historical answer to a wider repo problem: how a world is already cut before explicit reflection or choice.
+- That makes Anders a live connector between Uexkuell's subject-cut worlds, Cassirer's historically constituted world-forms, and Juenger's naming and time crisis.
+
+**Implication**
+
+The Anders queue did more than add a modern technology line. It made visible that the repo needs to track not only concepts inside worlds, but the technical and historical cuts by which worlds arrive in advance.

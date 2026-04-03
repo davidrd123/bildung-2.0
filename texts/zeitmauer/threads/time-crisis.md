@@ -68,6 +68,7 @@ The main thread so far in `texts/zeitmauer`: the collision between measurable ti
 - `zm:130:world-language` extends the crisis beyond history proper: the charged earth-envelope carries a world-language in every transmission, and not only knowledge but substance changes.
 - `zm:131:intelligent-ship` crystallizes the crisis as magnetic passage: the ship itself has become intelligent, stronger answers arrive, and the earth as `Urgrund` seeks new fertility through godfall.
 - `zm:132:mantic-compass` extends the crisis into freedom and navigation: the compass becomes mantic precisely where responsibility becomes uncontrollable and steering itself doubtful.
+- `thread:predecided-world` extracts one decisive branch of the dossier: the field of action, naming, and perception is being cut in advance by plan, measure, and technical ordering.
 - `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.
 - `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.
 
@@ -140,6 +141,18 @@ Jünger's strategy is to lead the reader out of the apparently "occult" cases an
 - the charged earth-envelope, world-language, and changing substance in `zm:130:world-language`
 - the intelligent ship in a magnetic world and the earth as `Urgrund` seeking new fertility in `zm:131:intelligent-ship`
 - freedom's changing concept and the compass as mantic device in `zm:132:mantic-compass`
+- anthropological disquiet and the question whether change now reaches the biological being in `zm:133:anthropological-disquiet`
+- the walk to the time wall as listening for signals scarcely distinguishable from Heimdall's horn in `zm:134:heimdals-horn`
+- absolute time and earth-revolutionary time-setting in `zm:135:absolute-time`
+- qualitative station-time and Sindbad's fish-island in `zm:136:sindbad-fish`
+- extinction as earth-household management and geological page-turning in `zm:137:extinction-economy`
+- total life-movement beyond mechanistic theory in `zm:138:life-movement`
+- volcanic period and Bloy's `first hint` in `zm:139:bloy-volcano`
+- solar cycles, atmospheric unrest, and personal orientation-instruments in `zm:140:atmospheric-instruments`
+- Darwinian continuity reframed by spiral catastrophe-theory and `genes` versus `Genesis` in `zm:141:spiral-course`
+- recourse to undifferentiated reserves and primal generation in `zm:142:primal-generation`
+- hominisation crisis where world-history and earth-history collide in `zm:143:hominisation-crisis`
+- the time wall as last boundary-mark in the antaean revolt in `zm:144:time-wall-revolt`
 
 ## Commentary Use
 

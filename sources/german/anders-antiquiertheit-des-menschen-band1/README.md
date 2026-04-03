@@ -62,7 +62,7 @@ These passages matter because they are where Anders most clearly forces the repo
    The naming of `prometheische Scham`, the made/born contrast, and the first defense against objections.
 
 3. `03-phantom-und-matrize.md`
-   Lines `1052-1121`.
+   Main lines `1052-1121`, with a later confirmatory return to `§27`.
    `Phantom` / `Matrize`, the thesis that no medium is merely a means, and the distributed production of the mass human.
 
 4. `04-sein-ohne-zeit.md`

@@ -1,4 +1,4 @@
 books/
 __pycache__/
 .obsidian/
-texts/erkenntnisproblem-vol1/output/
+texts/*/output/

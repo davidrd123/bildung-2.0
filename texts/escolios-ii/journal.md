@@ -91,3 +91,43 @@ The second real batch now covers `§28-60` / printed pages `11-16` in [sections/
 This cluster confirms the early shape of volume II. The opening is not merely anti-modern in a general way; it is ordered by rank. History must judge instead of hiding behind neutrality. Civilization requires the demotion of economics. Literary intelligence outranks philosophical and scientific specialization because it can still hold plurality and judgment together. Authenticity is not a universal right. Abstraction empowers man and then masters him.
 
 The practical result is equally important: after one cleanup pass, the Spanish PDF is now genuinely usable as the working surface for ongoing sections. The Italian witness remains valuable, but more and more as control material instead of rescue text.
+
+## 2026-04-02 — Section 03 Added
+
+The third batch now covers `§61-80` / printed pages `16-19` in [sections/03-history-and-the-dying-century.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/03-history-and-the-dying-century.md).
+
+This stretch confirms that volume II is not only civilizational in tone but historiographical in method. The historian reconstructs consciousness rather than extracting structures, imagination becomes a condition of rigor rather than an enemy of it, and historicism is treated as one of the century's most dangerous vanities. The second motif running through the same cluster is inundation: the modern century rises like floodwater, forcing delicacy, nobility, and depth into a few surviving souls.
+
+The practical lesson was equally useful. A tiny follow-up cleanup in the Spanish extractor corrected a couple of obvious OCR slips right where batching had reached them, but without reopening the whole source problem. That is the right rhythm for this volume: keep the source honest, repair only what the section work exposes, and keep moving.
+
+## 2026-04-02 — Section 04 Added
+
+The fourth batch now covers `§81-100` / printed pages `20-23` in [sections/04-christianity-and-servility.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/04-christianity-and-servility.md).
+
+This cluster widens the early volume-II pattern. Christianity is repeatedly measured by its resistance to middle-class adaptation, literature by its refusal of social usefulness, aristocracy by the soul's capacity for gratitude and allegiance, and politics by whether it preserves vertical form or collapses into administration, commerce, or democratic abstraction. The anti-modern note here is not merely temperamental disgust; it is a repeated argument about rank and servility.
+
+The source lesson remained the same. Another handful of exact OCR lies had to be corrected at the point where they began to obstruct the batch, but the extractor still only carries one explicitly flagged Spanish casualty (`id 1189`). That is the right threshold: repair only the places the live work encounters, and let the sections dictate what counts as a real source problem.
+
+## 2026-04-02 — Sections 05 And 06 Added
+
+The run now continues through `§140` with two more batches:
+
+- `§101-124` / printed pages `23-27` in [sections/05-culture-and-concrete-value.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/05-culture-and-concrete-value.md)
+- `§125-140` / printed pages `28-30` in [sections/06-historiography-and-tragic-man.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/06-historiography-and-tragic-man.md)
+
+These two batches deepen the project's real center of gravity. The early pages are no longer merely anti-modern fragments; they are building a positive account of culture, education, reading, and historiography. Civilization is what arises indirectly rather than by direct project. Education replaces low appetites with cultivated noble ones. History is possible only through present traces, imagination, and judgment of concrete value. Reading transforms the reader before it becomes fully intelligible. Christianity radicalizes the tragic rather than abolishing it. Modernity, finally, is not pagan residue but a new claim about the sovereignty of man.
+
+The source discipline held. Another small set of exact OCR repairs had to be folded into the extractor where the live batches exposed them, but the source remains stable and the explicit Spanish casualty list is still down to one flagged entry: `id 1189`. That means volume II is now behaving much more like a real ongoing translation project than an intake problem.
+
+## 2026-04-02 — Sections 07 And 08 Added
+
+The run now reaches `§180` with two more sections:
+
+- `§141-165` / printed pages `31-35` in [sections/07-order-and-its-ruins.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/07-order-and-its-ruins.md)
+- `§166-180` / printed pages `35-38` in [sections/08-mythology-and-technique.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/08-mythology-and-technique.md)
+
+What mattered in this stretch was less the recurrence of a topic than the recurrence of a standard. Architecture, liturgy, education, art, politics, science, and culture are all being tested by the same question: do they still preserve durable form, or have they dissolved into project, parody, ideological disguise, and technical self-importance? `§163` on *ordo* is the densest statement in the whole new range, because it explains why Gómez Dávila refuses both naïve order-talk and modern disorder-talk. Order is not furniture inside the world. It is what can still be seen through the world without belonging to it.
+
+The second stretch, `§166-180`, sharpens another line that will matter later: many forces modernity calls explanatory are in fact displaced mythologies. Science becomes historical only when it operates like religion; technique mistakes teachability for superiority; "cultures" are neither sealed off nor transparent; God names the universe's insufficiency, not one more object inside the whole. The tone gets stranger there because the argument is no longer simply anti-modern disgust. It becomes a theory of what modern explanation keeps smuggling in under other names.
+
+The source discipline remained stable. A few more exact OCR lies had to be corrected where live reading exposed them, but again the extractor was changed only under pressure from the pages actually being translated. The source still carries only one explicit Spanish casualty: `id 1189`.

@@ -131,9 +131,23 @@ def normalize_text(text: str) -> str:
         "ideas:que": "ideas que",
         "del. cambio.": "del cambio.",
         "a, sentirse": "a sentirse",
+        "a, envejecer": "a envejecer",
         "creer, en Dios": "creer en Dios",
         "no, tiene": "no tiene",
         "La,objetividad": "La objetividad",
+        "uña imaginación": "una imaginación",
+        "co-. mo": "como",
+        "estructuras feudales América": "estructuras feudales en América",
+        "feudalismo,\\": "feudalismo,",
+        "codi-¡ cia": "codicia",
+        "de' la": "de la",
+        "anda mar de poetas": "anda mal de poetas",
+        "textos=": "textos",
+        "enjambre humanó": "enjambre humano",
+        "inte ligencias": "inteligencias",
+        "hue lias": "huellas",
+        "La' literatura": "La literatura",
+        "no es' el": "no es el",
     }
     for old, new in replacements.items():
         value = value.replace(old, new)

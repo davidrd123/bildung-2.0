@@ -969,3 +969,85 @@ Decision for now:
 - continue directly from the broken `der logischen Schlußfolgerung` sentence, since Cassirer is clearly reopening the Sextus problem of infinite regress in procedural form
 - keep `Historismus` off the glossary for now; the term has not recurred inside the skepticism chapter itself
 - record the first successful von Foerster test in `sources/modern/`, but leave the broader encounter status open until it proves equally generative beyond this single seam
+
+## 2026-04-02 - Montaigne, Ataraxia, and the Moral Reversal
+
+Completed the next tranche of `Drittes Kapitel. Der Skepticismus`:
+
+- printed pages `180-183`
+- PDF pages `204-207`
+
+What this tranche clarified:
+
+- Cassirer carries the Sextus-style regress problem only briefly before shifting the real center of gravity into ethics; skepticism becomes philosophically productive most clearly at the point where objective moral standards seem to dissolve
+- the moral argument repeats the same structure as the epistemological one in a new key: what first appears as pure loss - the disappearance of objective value - becomes the condition for a more inward and autonomous grounding
+- Montaigne's `Subjektivismus` is therefore not treated as ethical relativism in the flat sense; the claim that we bring value to things becomes the positive presupposition for rebuilding norm from within
+- the Stoic line is now unmistakable; `Ataraxie`, Seneca, and Hegel's pairing of skepticism and Stoicism all converge on the same point: skeptical freedom from external fixation becomes inward lawfulness rather than mere suspension
+- nature returns under a transformed aspect: not as the unstable field of impressions discussed in the preceding tranche, but as the concealed common law that skeptical criticism restores by stripping away the sophistications of reason
+- methodologically, this also clarifies the scope of the von Foerster encounter: its pressure was real and productive in the organ-conditioned knowledge passage, but it does not govern the ethical turn in the same direct way
+
+Decision for now:
+
+- continue directly from the broken `Und wenngleich die Theorie der Wissenschaft` sentence, since Cassirer is clearly about to widen the moral turn into a larger reshaping of the `Geisteswissenschaften`
+- keep the glossary unchanged for now; `Ataraxie` and `Subjektivismus` are now genuine watch terms, but neither has yet shown the recurrence needed for promotion
+
+## 2026-04-02 - Montaigne, Pedagogy, History, and Aesthetics
+
+Completed the next tranche of `Drittes Kapitel. Der Skepticismus`:
+
+- printed pages `184-187`
+- PDF pages `208-211`
+
+What this tranche clarified:
+
+- Cassirer now makes explicit how the ethical reversal rebounds into the `Geisteswissenschaften`; pedagogy, history, and aesthetics all become domains in which genuine form must arise from inner self-activity rather than from scholastic transmission
+- the educational passages are especially sharp: memory, rhetoric, and verbal accumulation are opposed to judgment, and Montaigne's bee image states the criterion of true formation as transformation of borrowed matter into something wholly one's own
+- the relation to antiquity is clarified with unusual precision; the Greeks matter not as a treasury of settled doctrine, but as awakener and historical warrant for the productive force of reason
+- history is redefined from antiquarian philology toward a psychology of the human being, while aesthetics is redefined from rhetorical display toward `Naivität`, `Natürlichkeit`, and psychological truth
+- the chapter's larger movement continues: what had dissolved into heterogeneity at the level of skeptical analysis is gradually won back in new form at the level of value, personality, and style
+
+Decision for now:
+
+- continue directly from the broken `daß die Schilderung` sentence, since Cassirer is still completing the reflection on Montaigne's philosophical style
+- keep the glossary unchanged; the pressure here is on the widening argumentative arc rather than on a newly recurring technical term
+
+## 2026-04-02 - Montaigne, Religion, and the Ethical Reading of Death
+
+Completed the next tranche of `Drittes Kapitel. Der Skepticismus`:
+
+- printed pages `188-191`
+- PDF pages `212-215`
+
+What this tranche clarified:
+
+- Cassirer now makes the philosophical use of Montaigne's self-portrait explicit; the autobiographical form matters because the individual, purified of professional and social accidents, discovers in itself the universal human form
+- at the same time the limit of skepticism is stated more sharply than before: its newly won values remain centered in thinking self-consciousness and do not seize the will strongly enough to justify reshaping the political and social world
+- the critique of religion is correspondingly displaced; the positive dogmas are not directly dismantled, but their empirical forms are traced back to birth, party spirit, advantage, and anthropological difference, so that their exclusion from inquiry becomes itself an ironic demotion into the order of `Gebräuche`
+- the real criterion of religion is moved into ethics; what would distinguish truth is not miracle, ceremony, or profession, but virtue
+- the immortality passage repeats the same overall structure once more: rational psychology is dissolved, but the deeper gain lies in an ethical reinterpretation of death within immanent nature rather than in any positive doctrine of a beyond
+
+Decision for now:
+
+- continue directly from the broken Montaigne quotation on `Verlasse diese Welt`, since Cassirer is still inside the death problem and has not yet turned to a new skeptical figure
+- keep the glossary unchanged; the pressure here is on the large argumentative pattern rather than on a term that has newly crossed into stable recurrence
+
+## 2026-04-02 - Montaigne by Contrast, Charron by Explicit Consequence
+
+Completed the next tranche of `Drittes Kapitel. Der Skepticismus`:
+
+- printed pages `192-195`
+- PDF pages `216-219`
+
+What this tranche clarified:
+
+- Cassirer closes Montaigne by contrast with Agrippa von Nettesheim; the real difference is not argumentative inventory but mood and orientation, despair and mystical recoil on one side, humanist acceptance of life and immanent tasks on the other
+- the death passage now reaches its positive completion; mortality is treated not as loss of value but as what gives life intensity, order, and measure
+- the comparison with Agrippa also sharpens Cassirer's historical criterion for philosophical significance: Montaigne solves nothing directly, but frees the spiritual forces that make future problem-formation possible
+- the centered divider marks a real internal turn inside the skepticism chapter; Montaigne is now treated as the completed whole, while Charron is introduced as the thinker who makes one latent consequence fully explicit
+- that explicit consequence is the opposition between autonomous morality and positive dogma; religion is now criticized less as failed knowledge than as heteronomous ethics
+
+Decision for now:
+
+- continue directly from the broken `Gott und Vernunft` sentence, since Cassirer is clearly still in the opening statement of Charron's position
+- add the Charron page-map anchor now that the transition is visible in the source
+- keep the glossary unchanged for now; the structural pressure is clear, but no single new term has yet forced stable tracking

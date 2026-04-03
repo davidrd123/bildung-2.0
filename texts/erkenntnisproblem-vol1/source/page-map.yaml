@@ -129,3 +129,10 @@ ranges:
     printed_pages: ["174", "174"]
     trust: "high"
     note: "Section `I` begins on printed page 174 / PDF page 198 with Montaigne's `Apologie de Raimond de Sabonde` as the first full embodiment of modern skepticism."
+
+  - slug: "charron-within-skepticism"
+    label: "Opening of the Charron discussion within `Der Skepticismus`"
+    pdf_pages: [219, 219]
+    printed_pages: ["195", "195"]
+    trust: "high"
+    note: "The transition to Charron begins after the centered divider on printed page 194 / PDF page 218, but the first full Charron page is printed page 195 / PDF page 219."

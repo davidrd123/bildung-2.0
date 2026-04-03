@@ -217,6 +217,26 @@ Decision for now:
 - make no new glossary entries yet
 - if `Großjahr` or `Schicksalsanspruch` recur in `§§29-31`, promote them only if they prove structurally necessary for closing the part
 
+## 2026-04-02 — Cross-Project Note: The Predecided World
+
+The Uexkuell and Anders source campaigns clarified one branch of `Zeitmauer` that had been present but not yet isolated locally.
+
+What this pass clarified:
+
+- `thread:time-crisis` is not only a dossier about measurable time versus fateful time. It also contains a recurring problem of world-cuts made in advance by plan, naming, built form, and technical media.
+- `§25`, `§51`, `§70`, `§110`, `§112`, and `§128-130` are the strongest local anchors for that pressure so far.
+- This makes Jünger a stronger bridge to Uexkuell and Anders than the repo had yet recorded: not because he shares their vocabulary, but because he is already describing worlds whose conditions of access arrive prior to explicit reflection.
+
+Decision for now:
+
+- add a local dossier, `thread:predecided-world`
+- keep it subordinate to the translated sections rather than letting the cross-project note outrun the text
+- let `thread:time-crisis` remain the wider dossier and treat the new thread as one sharpened branch inside it
+
+Implication:
+
+The time wall is not only a threshold in chronology. It is also one place where an inherited world-cut fails and another begins to take hold.
+
 ## 2026-04-01 - Mass Fate, So-Sein, and Leviathan
 
 Translated `§§29-31` under `parts/10-messbare-und-schicksalszeit.md`, completing Part 2.
@@ -1189,3 +1209,93 @@ Decisions:
 - extend `thread:time-crisis` through `§130`, where the charged earth-envelope, world-language, and changing substance overarch world-history
 - extend `thread:time-crisis` through `§131`, where the intelligent ship enters a magnetic world and the earth as `Urgrund` seeks new fertility through godfall
 - extend `thread:time-crisis` through `§132`, where the compass becomes mantic under growing doubt about whether any steering still occurs
+
+## 2026-04-02 — Anthropological Disquiet, Heimdall's Horn, and Absolute Time
+
+Translated `§§133-135` under `parts/45-siderische-einteilungen.md`.
+
+This batch carries Part 4 from the intelligent ship into anthropology, reconnaissance at the wall, and absolute time. `§133` makes the human measure itself questionable and lets antaean unrest take anthropological character. `§134` then turns the walk to the time wall into a listening-post: one listens through confusion for signals almost indistinguishable from Heimdall's horn, yet cosmic catastrophe is bracketed and attention is forced back onto terrestrial change. `§135` closes by making absolute time and earth-time into an earth-revolutionary setting of time that subordinates historical and biological chronistics to an earth-historical system.
+
+Working observations:
+
+- `§135` is the structural center. The decisive move is that absolute time is not treated as a merely technical refinement but as an earth-revolutionary `Zeitsetzung` that orders historical and biological chronistics within a larger earth-historical system.
+- `§134` matters because it gives the title-image another strong internal pressure point. Going to the time wall is explicitly figured as listening and reconnaissance, but the section simultaneously excludes cosmic catastrophe and insists on earthly, measurable change as the real field of judgment.
+- `§133` matters because the crisis now reaches anthropology directly. Historical concepts and conduct no longer suffice; the old sentence that man is the measure of all things becomes questionable again, and the text presses toward biological transformation.
+- `§135` also matters because it sharpens the earth-history/world-history relation one step further. What was recently an over-arching aspect now becomes a system, a coordinate frame, and a possible zero-point for every other dating practice.
+- No new glossary entries are earned. The main gains are three new anchors, one new title evidence point, one new `erdgeschichtlich` evidence point, and a clean extension of `thread:time-crisis` into anthropology, wall-listening, and absolute dating.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§133-135`
+- extend `An der Zeitmauer` with a new internal evidence point from `§134`
+- extend `erdgeschichtlich` with a new evidence point from `§135`
+- extend `thread:time-crisis` through `§133`, where antaean unrest becomes anthropological and the human measure turns questionable
+- extend `thread:time-crisis` through `§134`, where going to the time wall becomes listening for signals almost indistinguishable from Heimdall's horn
+- extend `thread:time-crisis` through `§135`, where absolute time becomes earth-revolutionary time-setting and historical chronistics are subordinated to an earth-historical system
+
+## 2026-04-02 — Qualitative Stations, Extinction-Economy, and Life-Movement
+
+Translated `§§136-138` under `parts/46-siderische-einteilungen.md`.
+
+This batch carries Part 4 from absolute time into qualitative stations, extinction-economy, and total life-movement. `§136` revises phylogenetic time through the new clocks and contrasts continuous mechanical transit with qualitative houses and stations, culminating in Sindbad's fish-island. `§137` then turns the stirring depth into monoculture, extinction, and the tragic end of the witnesses of sinking ages. `§138` closes by arguing that the spread of types expresses a total movement of life and earth that only non-mechanistic theory can begin to grasp.
+
+Working observations:
+
+- `§138` is the structural center. The decisive move is that the mass spread of types is said to express not merely a zoological or historical sequence but a total movement of life corresponding to the movement of the so-called inanimate earth.
+- `§136` matters because the new clocks revise more than measurement. They reopen qualitative time, so that evolution is no longer only a smooth glide from threshold to threshold but can be imagined as a stay among houses and stations with changing interiors.
+- `§136` also matters because the Sindbad image binds human action and cosmic motion in one of the strongest narrative analogies of Part 4. The fish-island turns station-time into danger-time, and the Age of Pisces is invoked without dropping the ironic register.
+- `§137` matters because extinction is given two faces at once: visible economic management of the earth-household and the invisible old-age death by which the earth calls its creatures back.
+- `§138` matters because it widens the earth-history line into theory. A total movement of life is said to presuppose movement in the inanimate earth as well, and every non-mechanistic theory is thereby placed under an earth-historical or even cosmological demand.
+- No new glossary entries are earned. The main gains are three new anchors, one new `erdgeschichtlich` evidence point, and a clean extension of `thread:time-crisis` into qualitative station-time, extinction-management, and total life-movement.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§136-138`
+- extend `erdgeschichtlich` with a new evidence point from `§138`
+- extend `thread:time-crisis` through `§136`, where elementary clocks revise phylogenetic time and Sindbad's fish turns station-time into danger-time
+- extend `thread:time-crisis` through `§137`, where extinction appears as both earth-household management and geological page-turning
+- extend `thread:time-crisis` through `§138`, where the spread of types is treated as a total life-movement beyond mechanistic theory
+
+## 2026-04-02 — Volcanic Period, Atmospheric Instruments, and Spiral Catastrophe-Theory
+
+Translated `§§139-141` under `parts/47-siderische-einteilungen.md`.
+
+This batch carries Part 4 from total life-movement into volcanic periods, atmospheric instrumentation, and spiral catastrophe-theory. `§139` turns the eye toward volcanoes and the shortness of historical experience, ending with Bloy's catastrophe-scent and the eruption as `first hint.` `§140` then widens attention from telluric to solar and atmospheric unrest and makes highly sensitive instruments part of ordinary orientation. `§141` closes by keeping Darwin intact while revising periodization, catastrophe-theory, and the spiral recurrence of great ideas.
+
+Working observations:
+
+- `§141` is the structural center. The decisive move is that Darwin remains intact in essentials while branching, periodization, and catastrophe-theory are repositioned under the sign of the spiral course rather than of regress.
+- `§140` matters because it binds solar cycles, atmospheric unrest, carbon release, and everyday instrumentation into one frame. The crisis now enters ordinary orientation directly: high-sensitivity instruments are expected to become part of personal equipment.
+- `§139` matters because it keeps historical experience visibly too short for the relevant volcanic period and then lets Bloy read catastrophe as `first hint,` linking eruption, moral unease, and the fragility of urban security.
+- `§141` also matters because it sharpens the theoretical stakes of `erdgeschichtlich`. Development beyond zoological or historical courses is explicitly said to require earth-historical or even cosmological grasp, and modern thought is shown preferring `genes` to `Genesis`.
+- No new glossary entries are earned. The main gains are three new anchors, one new `erdgeschichtlich` evidence point, and a clean extension of `thread:time-crisis` into volcanic period, atmospheric instrumentation, and spiral catastrophe-theory.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§139-141`
+- extend `erdgeschichtlich` with a new evidence point from `§141`
+- extend `thread:time-crisis` through `§139`, where volcanic period exceeds historical memory and Bloy reads eruption as first hint
+- extend `thread:time-crisis` through `§140`, where solar cycles, atmospheric unrest, and high-sensitivity instruments enter ordinary orientation
+- extend `thread:time-crisis` through `§141`, where Darwinian continuity is reframed by spiral recurrence, catastrophe-theory, and the genes-versus-Genesis split
+
+## 2026-04-02 — Primal Generation, Hominisation Crisis, and the Last Boundary-Mark
+
+Translated `§§142-144` under `parts/48-siderische-einteilungen.md`.
+
+This batch carries Part 4 from spiral catastrophe-theory into primal generation, hominisation crisis, and antaean revolt at the time wall. `§142` argues that catastrophe cannot suffice to explain a new surge of species and that a stronger recourse to undifferentiated reserves must be assumed. `§143` then makes the decisive move: a self-conscious being now works on layer-formation itself, so hominisation enters a crisis where world- and earth-history collide. `§144` closes by turning from mass catastrophe to specific horror, from factory misbirths to mythic godfall, and finally to man as destroyer of the last boundary-mark, the time wall.
+
+Working observations:
+
+- `§143` is the structural center. The decisive move is that hominisation is declared unfinished and now in crisis, where history and natural history, world-history and earth-history, freedom and determination collide.
+- `§142` matters because it refuses catastrophe as sufficient explanation and insists on recourse to undifferentiated substance and `Urzeugung`; systems that ignore that can offer only special, partial insights.
+- `§144` matters because it gives the strongest recent title-pressure. The time wall is named as the last boundary-mark, and Nietzsche's `God is dead` is recast as a postulate or incantation of the Golden Age rather than as mere judgment.
+- `§144` also matters because it shows how small local figurations can outrank mass catastrophe symbolically. The horror of factory misbirths opens directly onto myth, godfall, and the uprising of the formless.
+- No new glossary entries are earned. The main gains are three new anchors, one new title evidence point, and a clean extension of `thread:time-crisis` into primal generation, hominisation crisis, and the mythic horror of border-dissolution.
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§142-144`
+- extend `An der Zeitmauer` with a new internal evidence point from `§144`
+- extend `thread:time-crisis` through `§142`, where catastrophe is made insufficient and recourse to undifferentiated reserves and primal generation is required
+- extend `thread:time-crisis` through `§143`, where hominisation enters crisis and world-history collides with earth-history
+- extend `thread:time-crisis` through `§144`, where the time wall becomes the last boundary-mark in an antaean revolt after godfall
