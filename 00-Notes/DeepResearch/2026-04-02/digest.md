@@ -2,6 +2,7 @@
 
 This note condenses the strongest signal from the new DeepResearch returns, especially:
 
+- `Q_set02/main_reply_actual.md`
 - `Q_set02/followup.md`
 - `Q_set03/reply.md`
 - `Q_set04/reply.md`
@@ -13,6 +14,7 @@ The aim is not to preserve every good phrase. It is to identify what is worth ke
 Three different kinds of value appeared:
 
 - `Q_set03/reply.md` is the strongest conceptual and methodological answer.
+- `Q_set02/main_reply_actual.md` is the strongest genuinely outside-facing classification.
 - `Q_set02/followup.md` is the strongest high-level synthesis.
 - `Q_set04/reply.md` contains usable local judgments, but is the weakest document because the working audit is not preserved in-repo.
 
@@ -75,7 +77,48 @@ This is the most useful formulation so far because it lowers the rhetorical temp
 - how to distinguish source-generated from model-generated residue
 - how to make residue first-class across projects rather than a high-quality prose effect
 
-## 2. Best high-level synthesis: Q_set02 followup
+## 2. Best outside-facing classification: Q_set02 main reply actual
+
+`Q_set02/main_reply_actual.md` is the best answer in the batch if the question is: what does this look like from outside the house style?
+
+Its strongest moves:
+
+- It classifies the project functionally before reaching for historical prestige comparisons.
+- It uses comparisons from outside the usual literary-philosophical set: legal reasoning, clinical training, archival editing, software verification, ecological restoration.
+- It identifies the most embarrassing comparison well: archival editing.
+- It identifies the most clarifying comparison well: legal reasoning.
+
+The single best compression in the note is:
+
+> a one-person textual research lab with a custom operating protocol
+
+That is better than most of the grander self-descriptions because it captures what has actually been demonstrated:
+
+- controlled interpretation of difficult source material
+- explicit status and evidence discipline
+- AI used as structural aid rather than semantic sovereign
+
+### What to keep from Q_set02 main reply actual
+
+- The project is strongest when described as a research lab for controlled interpretation, not as a completed instrument.
+- The legal-reasoning comparison is genuinely clarifying:
+  - claims are treated as traceable and revisable
+  - evidence is attached to local decisions
+  - AI can help draft and summarize, but should not decide the case
+- The archival-editing comparison is the right deflationary check:
+  - much of the demonstrated work is recognizable scholarly labor
+  - the project is more unusual in integration and explicitness than in raw category
+- The note is right that public seriousness would require:
+  - one externally legible output
+  - bounded claims outsiders can contest
+  - apparatus another reader can actually use
+  - less dependence on house rhetoric
+
+### What to be careful with
+
+This note is better than the earlier Q2 draft precisely because it does not over-romanticize the project. It still may slightly understate the distinctive role of the modern-encounter layer, but as an outside description that is a tolerable error. Better slight understatement than prestige inflation.
+
+## 3. Best high-level synthesis: Q_set02 followup
 
 `Q_set02/followup.md` is the strongest visionary note in the new set.
 
@@ -109,7 +152,7 @@ This note still leans toward the repo's preferred elevated diction. Phrases like
 
 may be good vision-language, but they should not be used as current-state descriptions. The note is strongest when read as directional synthesis, not as status report.
 
-## 3. Useful but weakest: Q_set04
+## 4. Useful but weakest: Q_set04
 
 `Q_set04/reply.md` contains worthwhile local judgments, but the document is weakened by the fact that the detailed audit itself lives in an external sandbox link rather than the repo.
 
@@ -127,7 +170,7 @@ So the conclusions are usable, but the answer is less trustworthy as a durable a
 
 Because the supporting working is not preserved locally, this note should be treated as a prompt for targeted review, not as something to promote directly into canon.
 
-## 4. What actually changes practice
+## 5. What actually changes practice
 
 Only a few things here should alter the repo's next moves.
 
@@ -179,7 +222,7 @@ Specific Q4 alternatives worth testing on next revision pass (the audit itself i
 - `zm:11` final litotes: "it does not come out empty-handed" rather than "it does not remain without yield"
 - `bagazo` (esc:33): "the spent cane" rather than "bagasse" or "pulp left over"
 
-## 5. What not to do
+## 6. What not to do
 
 This batch does **not** justify:
 
