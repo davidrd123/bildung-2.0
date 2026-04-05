@@ -30,6 +30,8 @@ source/
   cusanus-generative-chain.yaml  # first-pass transformation chain for Parts 06-16
   raw/                  # page-range extracts from the PDF text layer
   normalized/           # lightly normalized working text, still to be verified
+reading/
+  close-reading-ledger.md  # sentence- and paragraph-scale findings that arise directly from close translation
 parts/
   01-prefaces-and-introduction.md
 journal.md              # process notes, drift in term choices, cleanup rules
@@ -47,10 +49,12 @@ scripts/
 3. Correct the German against the PDF for the active tranche only.
 4. Translate in small batches.
 5. Record unstable terms in `source/glossary.yaml`.
-6. Keep source-bound workflow drift in `journal.md` and exploratory cross-project notes in `interpretive-notes.md`.
+6. Record paragraph-scale translation findings in `reading/close-reading-ledger.md` when they are too important to lose but too local for the journal.
+7. Keep source-bound workflow drift in `journal.md` and exploratory cross-project notes in `interpretive-notes.md`.
 
 The split between note files is intentional:
 
+- `reading/close-reading-ledger.md` catches sentence- and paragraph-level gains from slow translation before they either disappear or get overpromoted
 - `journal.md` stays source-bound and workflow-bound
 - `interpretive-notes.md` holds exploratory analogies, external comparisons, and project-side method extrapolations
 

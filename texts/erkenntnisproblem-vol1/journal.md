@@ -1218,3 +1218,30 @@ Decision for now:
 - use the new note as the project-facing filter for this long April 4 chat
 - treat the first-node refinement as earned and keep the rest of the chat under the new `survey / verification / analytical` discipline
 - only build the construction-kit glossary if the next rounds of close reading keep forcing morphology-level tracking often enough to justify a new layer
+
+## 2026-04-04 - Close-reading capture gap named and local ledger added
+
+The current Cassirer workflow has been good at catching:
+
+- tranche-local summary points in `parts/*.md`
+- cross-batch or method findings in `journal.md`
+- later bounded distillations when a long conversation deserved review
+
+But it has still been easy for paragraph-scale gains from close translation to disappear into conversation context before they found a stable home. This became especially visible in the April 4 Cusanus work, where only a few paragraphs generated more lexical, syntactic, and methodological pressure than the tranche notes or journal alone could comfortably hold.
+
+Concrete change:
+
+- added `reading/close-reading-ledger.md` as a thin local layer for sentence- and paragraph-scale findings that arise directly from slow translation
+
+Use rule:
+
+- capture there when a close-reading gain is too important to lose but too local to justify immediate journal promotion
+- move later into `journal.md`, `source/glossary.yaml`, or a distillation note only if repeated use or wider pressure earns that promotion
+
+Initial entries:
+
+- the `Erkennen` / `Messen` / `Gleichung` triad
+- the `Bestimmtheit` / `Bestimmung` pressure
+- directional force in `Hinwegschreiten`
+- reflexive self-movement
+- the periodic `da ... so` deduction sentence

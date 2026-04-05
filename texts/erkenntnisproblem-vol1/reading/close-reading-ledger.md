@@ -1,0 +1,131 @@
+# Close Reading Ledger
+
+Purpose: capture source-bound findings that arise directly from close translation work before they either vanish into conversation context or get overpromoted into larger method claims.
+
+This file sits between:
+
+- tranche-local `Notes` in `parts/*.md`
+- broader cross-batch or method findings in `journal.md`
+- bounded distillation notes in `reading/`
+
+Use it for paragraph-scale or sentence-scale gains that are:
+
+- too important to lose
+- too local to belong in the journal yet
+- too source-bound to be filed immediately as cross-project synthesis
+
+Each entry should stay tied to an actual passage and should prefer local pressure over retrospective framework.
+
+## Current entries
+
+### Cusanus opening: cognition defined as measuring
+
+Passage base:
+
+- Part `06`
+- opening negative-theology paragraphs
+
+Finding:
+
+- `Erkennen` is not treated generically but is explicitly defined through `Messen`
+- `Messen` is then specified as a `Gleichung` between sought content and known elements
+
+Why it matters:
+
+- the opening blockage is epistemic before it is merely theological
+- the later reversal has to answer a problem in the concept of knowing itself, not just restore dignity to the creature
+
+Current downstream use:
+
+- reflected in `source/cusanus-generative-chain.yaml` node `negative-theology-to-symbolic-creature`
+
+### Cusanus opening: `Bestimmtheit` vs `Bestimmung`
+
+Passage base:
+
+- Part `06`
+- same opening sequence
+
+Finding:
+
+- the passage pressures the distinction between finite `Bestimmtheit` and `Inhaltsbestimmung`
+- the paradox is that the procedure claims to reach content-determination by stripping away every finite determinacy
+
+Why it matters:
+
+- this is the crux that makes the later reversal internally demanded rather than externally imported
+- the English can flatten the distinction if both are rendered too loosely as `determination`
+
+Current downstream use:
+
+- promoted into the April 4 Cusanus distillation note
+- reflected in the first node of `source/cusanus-generative-chain.yaml`
+
+### Cusanus opening: directional force in `Hinwegschreiten`
+
+Passage base:
+
+- Part `06`
+- closing movement of the first negative-theology sequence
+
+Finding:
+
+- the German verb carries an active directional force that `transcend` only partially preserves
+- the motion is not abstract elevation but stepping beyond, leaving the sphere of proportion behind
+
+Why it matters:
+
+- the text is arguing through directional morphology, not only through explicit conceptual content
+- later reversals in directional vocabulary are therefore philosophically loaded, not stylistic coincidence
+
+Current downstream use:
+
+- promoted in the April 4 Cusanus distillation under the five compression layers
+
+### Cusanus opening: reflexives encode self-movement
+
+Passage base:
+
+- Part `06`
+- discussion around `sich konzentrieren`, `sich spiegeln`, and related forms
+
+Finding:
+
+- reflexive constructions repeatedly carry the thought that development is internally driven rather than externally assigned
+
+Why it matters:
+
+- this supports Cassirer's way of presenting conceptual transformation as self-moving
+- English often forces a choice between passive and plain intransitive forms, weakening that internal agency
+
+Current downstream use:
+
+- promoted in the April 4 Cusanus distillation under the five compression layers
+
+### Cusanus opening: periodic sentence as logical experience
+
+Passage base:
+
+- Part `06`
+- the long `da ... so` sentence around `Messen`, `Gleichung`, and the inaccessibility of the infinite
+
+Finding:
+
+- the sentence does not merely state a deduction; its delayed resolution makes the reader carry the premises until the conclusion arrives
+
+Why it matters:
+
+- a major part of the reasoning lives in temporal suspension, not just in paraphrasable content
+- English preserves the claim but flattens the experience of the deduction
+
+Current downstream use:
+
+- promoted in the April 4 Cusanus distillation under the five compression layers
+
+## Boundary
+
+This ledger is not a second journal and not a free synthesis file.
+
+- if a finding becomes cross-batch or method-defining, move it into `journal.md`
+- if a finding drives glossary stabilization, reflect it in `source/glossary.yaml`
+- if a finding becomes cross-project or architectural, it still needs a separate distillation pass before promotion

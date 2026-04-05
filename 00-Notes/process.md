@@ -17,6 +17,36 @@ How material flows through `bildung-2.0`: from conversation to synthesis to crys
 
 The living layer feeds the crystallized layer. The crystallized layer constrains and organizes the living layer. Neither replaces the other.
 
+## Exploratory Weaving
+
+Exploratory weaving is legitimate in the living layer.
+
+By `weaving` this project means:
+
+- associative cross-links
+- personal or practice-level engagement
+- tentative frame-reads
+- speculative syntheses
+- language that is trying to find a shape before the shape is fully earned
+
+This is not contamination by itself. The living layer exists partly to make this possible.
+
+Contamination begins when exploratory material crosses into canonical language without passing through resistance. In practice that means:
+
+- no clear source trigger
+- no distinction between `survey`, `verification`, and `analytical` mode
+- no weakening evidence or rival reading where one is needed
+- reuse alone making a claim feel settled
+
+The rule is simple:
+
+- weave freely in `00-Notes/`
+- mark the mode when it matters
+- keep the source pressure visible
+- promote only what survives contestation, reuse, and contact with the material
+
+Exploratory weaving is therefore a protected activity in the living layer and a controlled substance in the crystallized layer.
+
 ## Authority
 
 When different layers disagree, use this precedence:
