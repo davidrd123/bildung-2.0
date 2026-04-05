@@ -106,7 +106,9 @@ Evidence handles make the glossary's evidence chain machine-readable. The chain 
 
 ### Frame handles
 
-Perspective lenses for cross-project reading. (Not yet implemented in the repo; anticipated from `genealogy-to-instrument.md`.)
+Perspective lenses for cross-project reading.
+
+The namespace is reserved now, but the frame layer is not yet a fully earned canonical object layer. Actual frames should remain experimental in living notes or trial dossiers until repeated use proves they illuminate more than they distort.
 
 Format: `frame:{slug}`
 
@@ -118,6 +120,12 @@ Examples:
 - `frame:technique-and-modernity`
 - `frame:commentary-as-form`
 - `frame:symbolic-form-rupture`
+
+Current discipline:
+
+- treat these examples as reserved / provisional frame handles, not as already-crystallized frame documents
+- use frame handles in living notes when a perspective read yields real non-obvious leverage
+- do not promote a frame into stable architecture merely because the handle grammar can represent it
 
 ## Relation Types
 
@@ -162,6 +170,8 @@ These are criteria, not metrics. They exist to make promotion legible, not mecha
 | `frame:*` | At least one frame-read yields non-obvious connections | Repeated frame-reads across distinct anchors/projects continue to illuminate | Frame produces insight but also systematic blind spots |
 
 Promotion follows evidence density and reuse, not rhetorical force.
+
+For now, `frame:*` is best understood as a reserved type ahead of a fully realized layer. The namespace is stable; the object layer is still experimental.
 
 ## Implementation Notes
 

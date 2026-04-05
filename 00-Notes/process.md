@@ -64,7 +64,7 @@ When a synthesis note converges on something stable enough to reference without 
 - A relation type that keeps recurring → `patterns/relations.md`
 - An object lifecycle that's settled → `patterns/objects.md`
 - A convention for agent work → `patterns/agent-conventions.md`
-- A frame definition → `patterns/frames/`
+- A frame definition → `patterns/frames/` only after repeated frame-reads have survived reuse and shown their blind spots
 
 The test for crystallization: would a future session need to re-derive this from scratch, or can it just read the pattern?
 
@@ -130,6 +130,7 @@ Living list. Updated as threads advance or stall.
 | Predecided world | Active — Uexküll/Cassirer/Anders/Jünger world-cut connector | `cross-domain-synthesis-threads.md` | 2026-04-02 |
 | Empirical morphogenesis line | Active — Levin corpus linked to the braided river | `cross-domain-synthesis-threads.md` | 2026-04-01 |
 | Action-conditioned real | Active — von Foerster + late Zeitmauer + Cassirer + Dick | `cross-domain-synthesis-threads.md` | 2026-04-02 |
+| Peirce reserve | Seeded — architecture-level convergences noted; no primary encounter campaign yet | `2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md` | 2026-04-04 |
 | Whitehead decryption | Seeded — identified as target, not started | `cross-domain-synthesis-threads.md` | 2026-03-29 |
 | Symbiotic-Vault convergence | Active — structural isomorphisms mapped | `symbiotic-vault-intersection.md` | 2026-03-31 |
 | The instrument (rotating hierarchy) | Active — architecture sketched, not built | `higher-purpose-distillation.md`, `genealogy-to-instrument.md` | 2026-03-31 |
@@ -139,7 +140,7 @@ Living list. Updated as threads advance or stall.
 | Thread | Status | Home | Next move |
 |--------|--------|------|-----------|
 | Project charter | **Done** | `patterns/charter.md` | — |
-| Frame layer | Missing — frames exist in practice, not as objects | `genealogy-to-instrument.md` §1 | Define frame format, seed 2-3 frames |
+| Frame layer | Reserved in schema, experimental in practice — not yet earned as a crystallized object layer | `genealogy-to-instrument.md` §1 | Keep frame use in living dossiers; crystallize only after repeated frame-reads across anchors/projects |
 | Cross-project atomic layer | Missing — atomic candidates in prose only | `genealogy-to-instrument.md` §2 | Pick format, extract highest-value atoms |
 | Relation vocabulary | Missing — types identified, not codified | `genealogy-to-instrument.md` §3 | Write `patterns/relations.md` |
 | Object lifecycles | Missing — statuses exist per-project, not unified | `genealogy-to-instrument.md` §4-7 | Write `patterns/objects.md` |
