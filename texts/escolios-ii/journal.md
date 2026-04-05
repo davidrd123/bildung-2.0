@@ -131,3 +131,16 @@ What mattered in this stretch was less the recurrence of a topic than the recurr
 The second stretch, `§166-180`, sharpens another line that will matter later: many forces modernity calls explanatory are in fact displaced mythologies. Science becomes historical only when it operates like religion; technique mistakes teachability for superiority; "cultures" are neither sealed off nor transparent; God names the universe's insufficiency, not one more object inside the whole. The tone gets stranger there because the argument is no longer simply anti-modern disgust. It becomes a theory of what modern explanation keeps smuggling in under other names.
 
 The source discipline remained stable. A few more exact OCR lies had to be corrected where live reading exposed them, but again the extractor was changed only under pressure from the pages actually being translated. The source still carries only one explicit Spanish casualty: `id 1189`.
+
+## 2026-04-05 — Sections 09 And 10 Added
+
+The run now reaches `§220` with two more sections:
+
+- `§181-200` / printed pages `38-41` in [sections/09-scale-luck-and-authority.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/09-scale-luck-and-authority.md)
+- `§201-220` / printed pages `42-45` in [sections/10-sacred-remnant.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/10-sacred-remnant.md)
+
+These pages keep reducing the prestige of modern explanatory habits. Straight lines lead to hell, political science without ends and means is a catalogue of accidents, explanation breaks down before individuality, and bureaucracy keeps displacing civilizing authority. The running contrast is no longer only between old order and modern disorder, but between living scale and systems that overclaim what they can explain.
+
+The second section turns more explicitly toward what survives reduction. The sacred, myth, poetry, lesser divinities, and sacramental presence all return at once. `§213`-`§220` are among the clearest statements yet that modernity does not abolish transcendence; it depletes the world's intermediate density and then comforts itself by reducing what remains to psychology, ethics, or culture. `§217` is especially important because it states the immediate task without system-building: save the consciousness of the sacred.
+
+Just as important: no new extractor changes were needed for this stretch. The source held as-is. That is the first real sign that the earlier cleanup discipline is paying off. The explicit Spanish casualty list remains unchanged at a single flagged entry: `id 1189`.

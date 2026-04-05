@@ -1245,3 +1245,23 @@ Initial entries:
 - directional force in `Hinwegschreiten`
 - reflexive self-movement
 - the periodic `da ... so` deduction sentence
+
+## 2026-04-04 - Second Naturphilosophie Tranche
+
+Completed a second full `Naturphilosophie` tranche:
+
+- printed pages `208-211`
+- PDF pages `232-235`
+
+What this tranche clarified:
+
+- the `Weltorganismus` is now named explicitly as the first form in which the self-sufficiency of natural laws clothes itself, so the organism-image here functions as the symbolic shell of causal closure rather than as a rival to mechanism
+- `natürliche Magie` marks a real transitional shift: away from the magic of symbols and words and toward mastery through the regular inner dispositions and capacities of things
+- the historical order is reversed on purpose: the concrete unity of movement and life is presented as the precondition from which the concept of mechanism is analytically won
+- Campanella now makes the `Bewußtsein` / `Kraft` knot explicit, and Cassirer names Leibniz directly as the later philosopher whose organism-theory is materially prepared here
+- the local `Wissenschaft` pressure from Part `52` remains watch-only; the `Naturphilosophie` / `Wissenschaft der Natur` / `exakte Forschung` contrast is sharper now, but still not yet strong enough to force a glossary update
+
+Decision for now:
+
+- continue directly into the next `Naturphilosophie` tranche from the broken Campanella footnote and ensuing argument
+- keep `Allbeseelung` / `Belebtheit des Alls` under pressure without settling a new glossary term yet

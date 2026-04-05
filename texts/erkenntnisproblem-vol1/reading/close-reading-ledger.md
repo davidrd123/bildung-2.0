@@ -122,6 +122,49 @@ Current downstream use:
 
 - promoted in the April 4 Cusanus distillation under the five compression layers
 
+### Book II opening: organism-language as the first clothing of law
+
+Passage base:
+
+- Parts `52-53`
+- `Weltorganismus` opening and immediate Agrippa continuation
+
+Finding:
+
+- Cassirer explicitly says the concept of the world-organism is `die erste Form`, in which the thought of the self-sufficiency of natural laws clothes itself
+- the accompanying language of world-soul and universal animation is therefore not merely decorative vitalism added to a causal picture from outside
+
+Why it matters:
+
+- it blocks an easy opposition between organism-language and mechanism
+- the mechanism concept is said to be won analytically out of an earlier concrete unity of movement and life
+
+Current downstream use:
+
+- reflected in Part `53`
+- candidate for later Book II journal wording if the same pattern recurs
+
+### Agrippa: `natürliche Magie` as transitional causal mastery
+
+Passage base:
+
+- Part `53`
+- page `209` continuation after the broken Agrippa quotation
+
+Finding:
+
+- Cassirer distinguishes the older magic of symbols and signs from a `natural magic` that seeks mastery through the regular inner dispositions and capacities of things
+
+Why it matters:
+
+- Agrippa is not functioning here as mere residue or error
+- the passage marks a real transition from symbolic/word efficacy toward internal regularity and law-governed powers
+
+Current downstream use:
+
+- reflected in Part `53`
+- held locally for now rather than promoted into the glossary
+
 ## Boundary
 
 This ledger is not a second journal and not a free synthesis file.
