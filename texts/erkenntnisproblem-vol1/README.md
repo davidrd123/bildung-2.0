@@ -27,6 +27,7 @@ source/
   outline.yaml          # high-level map of books, chapters, and tranche boundaries
   page-map.yaml         # trusted PDF/printed-page anchors for current work
   glossary.yaml         # recurring term decisions and unresolved pressure points
+  cusanus-generative-chain.yaml  # first-pass transformation chain for Parts 06-16
   raw/                  # page-range extracts from the PDF text layer
   normalized/           # lightly normalized working text, still to be verified
 parts/
@@ -58,6 +59,7 @@ The split between note files is intentional:
 - Run a harmonization pass after each major chapter arc, or once a cluster of glossary decisions has clearly stabilized.
 - Revisit earlier parts against the current glossary, especially where open terms like `Geist`, `Wissenschaft`, and `Vorstellung` were translated before later pressure emerged.
 - Expand glossary notes whenever an entry lists renderings but still underdescribes what the term is doing philosophically in the translated material.
+- Build structured transformation chains only where the text itself forces them; the current first-pass example is the Cusanus chapter in `source/cusanus-generative-chain.yaml`.
 - Recheck viewer and PDF stitching whenever a tranche ends mid-sentence or when export-facing headings and paragraph alignment change.
 - Keep source-bound judgments in `journal.md`; move comparative or project-side extrapolations to `interpretive-notes.md`.
 - Treat `source/viewer-index.json` and the export script as the authoritative current status rather than hardcoding moving progress counts here.

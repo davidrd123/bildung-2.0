@@ -136,3 +136,31 @@ ranges:
     printed_pages: ["195", "195"]
     trust: "high"
     note: "The transition to Charron begins after the centered divider on printed page 194 / PDF page 218, but the first full Charron page is printed page 195 / PDF page 219."
+
+  - slug: "sanchez-and-la-mothe-within-skepticism"
+    label: "Opening of the Sanchez / La Mothe le Vayer discussion within `Der Skepticismus`"
+    pdf_pages: [222, 222]
+    printed_pages: ["198", "198"]
+    trust: "high"
+    note: "The first full page of the Sanchez / La Mothe le Vayer turn is printed page 198 / PDF page 222, where Cassirer shifts skepticism from Charron's moral-religious development back toward nature-knowledge, anti-syllogistics, and the later anthropological limit of critique."
+
+  - slug: "zweites-buch-divider"
+    label: "Book II divider"
+    pdf_pages: [225, 226]
+    printed_pages: ["201", "202"]
+    trust: "high"
+    note: "PDF page 225 is the centered divider `Zweites Buch / Die Entdeckung des Naturbegriffs`; PDF page 226 is the blank verso. The next visible running number is `204` on PDF page 228, confirming these as printed pages `201-202`."
+
+  - slug: "naturphilosophie-opening"
+    label: "Opening of `Erstes Kapitel. Die Naturphilosophie`"
+    pdf_pages: [227, 228]
+    printed_pages: ["203", "204"]
+    trust: "high"
+    note: "The chapter-opening page on PDF page 227 suppresses the printed number; the visible `204` on PDF page 228 confirms the opening page as printed `203`."
+
+  - slug: "weltorganismus-opening"
+    label: "Opening of `A) Der Begriff des Weltorganismus` within `Die Naturphilosophie`"
+    pdf_pages: [229, 229]
+    printed_pages: ["205", "205"]
+    trust: "high"
+    note: "The first subsection of `Die Naturphilosophie` begins on printed page 205 / PDF page 229 and opens the Neoplatonic-organic conception of nature."

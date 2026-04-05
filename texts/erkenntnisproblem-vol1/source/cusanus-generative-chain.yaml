@@ -1,0 +1,322 @@
+# First-pass structured representation of the generative chain in the
+# `Nikolaus Cusanus` chapter.
+#
+# Scope:
+# - built from translated Parts 06-16 plus journal/glossary notes
+# - meant to preserve internal pressure, operation, and conditions of use
+# - not a replacement for the tranche files
+# - status remains provisional until reused in later passes or contact tests
+
+chapter: "Nikolaus Cusanus"
+status: "first-pass"
+scope:
+  parts: [6, 16]
+  printed_pages: ["19", "64"]
+  purpose: "Track how Cassirer's Cusanus concepts arise from the insufficiency of prior positions."
+
+schema:
+  position: "What the current stage claims or presupposes."
+  internal_pressure: "Where the stage fails or becomes unstable on its own terms."
+  operation: "The specific conceptual transformation Cassirer attributes to Cusa."
+  yield: "What new resource becomes available after the transformation."
+  generated_problem: "What the new position still cannot handle and therefore passes forward."
+  conditions_of_application: "When the concept is doing valid work and when it should not be detached into a free template."
+
+nodes:
+  - id: "negative-theology-to-symbolic-creature"
+    label: "From negative theology to the creature as symbol"
+    parts: [6]
+    printed_pages: ["19-24"]
+    resolves_pressure_from: null
+    anchor_terms:
+      - "Erkennen"
+      - "Messen"
+      - "Gleichung"
+      - "Inhaltsbestimmung"
+      - "Andersheit"
+      - "negative theology"
+      - "creature"
+      - "symbol"
+    position:
+      - "Knowing is initially defined as measuring, proportioning, and equating the sought content with known elements."
+      - "Concept and language operate through difference, opposition, and finite determination."
+      - "The absolute is therefore approached only by negating finite determination, proportion, and opposition."
+      - "The creature appears as contingent remainder and obstacle to genuine knowledge of God."
+    internal_pressure:
+      - "If all knowing is measuring by proportion, then the infinite remains inaccessible not only to finite objects but to the very function of concept and language."
+      - "The procedure claims to reach `Inhaltsbestimmung` of the absolute precisely by removing every `Bestimmtheit` proper to knowledge and its object."
+      - "The creature loses intelligibility together with God; once multiplicity and disjunction are expelled from the divine ground, the Einzelwesen can no longer be conceptually derived except as irrational fact."
+    operation:
+      - "Cusa's later position reverses the valuation of finitude from within the theological problem itself rather than by abandoning the earlier pressure."
+      - "The creature is restored as complete in its own kind and as the necessary symbolic point of departure for approaching the infinite."
+    yield:
+      - "Finite being regains epistemic dignity instead of being treated only as obstruction."
+      - "Inherited theological material becomes available for a new mode of questioning rather than simply being discarded."
+    generated_problem:
+      - "How can finite cognition approach the infinite if knowing still seems constitutionally defined by proportional comparison and differentiating opposition?"
+      - "How can the restored creature mediate truth without collapsing back into contingent appearance?"
+    conditions_of_application:
+      - "Use only where a negative-theological position generates its own reversal from internal strain in the concept of knowing itself, not merely from devotional dissatisfaction."
+      - "Do not treat this as a generic claim that every finite thing is already transparent to the absolute."
+
+  - id: "docta-ignorantia-as-positive-method"
+    label: "Docta ignorantia as positive method"
+    parts: [7, 8]
+    printed_pages: ["25-32"]
+    resolves_pressure_from: "negative-theology-to-symbolic-creature"
+    anchor_terms:
+      - "docta ignorantia"
+      - "infinity"
+      - "polygon-circle"
+      - "relativity"
+    position:
+      - "The infinite cannot be enclosed by finite concepts or exact proportion."
+      - "Not-knowing first appears as the limit of discursive possession."
+    internal_pressure:
+      - "If this remains merely privative, the result is only skeptical paralysis or renewed transcendence."
+      - "Knowledge needs a positive account of why incompletability is not simple failure."
+    operation:
+      - "Infinity is shifted from the object of knowledge to the function of knowing."
+      - "The polygon/circle relation recasts cognition as lawful approximation rather than failed possession."
+    yield:
+      - "`Docta ignorantia` becomes a method: the mark of reason's power is that it advances without exhaustively closing its task."
+      - "The same move opens cosmological relativity and the decentering of absolute spatial order."
+    generated_problem:
+      - "What gives relative knowing a positive standing rather than reducing it to weaker copies of absolute truth?"
+      - "How can the changing field of appearances be ordered once total completion is renounced?"
+    conditions_of_application:
+      - "It works only after the ideal of complete conceptual possession has been taken seriously and shown to fail on its own terms."
+      - "It does not mean 'embrace uncertainty' in general; it names a specific transformation of the ideal of knowledge."
+
+  - id: "conjectura-grounded-in-mind"
+    label: "Conjectura grounded in the unity of mind"
+    parts: [8]
+    printed_pages: ["29-32"]
+    resolves_pressure_from: "docta-ignorantia-as-positive-method"
+    anchor_terms:
+      - "conjectura"
+      - "unity of mind"
+      - "religious tolerance"
+      - "logos"
+    position:
+      - "Finite knowledge remains non-absolute and revisable."
+      - "Religious and cosmological plurality now stand openly in view."
+    internal_pressure:
+      - "Without a positive ground, relativity and plurality threaten to dissolve into arbitrariness."
+      - "The principle of not-knowing still needs to explain why finite claims have any truth-content at all."
+    operation:
+      - "Cusa grounds conjecture in the unity and self-unfolding of mind rather than in a dead copy of a ready-made truth."
+      - "The same principle is carried into ethics and religion, where dogmatic multiplicity is measured against the incomprehensible one."
+    yield:
+      - "`Conjectura` becomes a positive epistemic act rather than a mere admission of ignorance."
+      - "The science of not-knowing becomes the basis of religious tolerance and a logos-centered reinterpretation of dogma."
+    generated_problem:
+      - "How does mind pass from sensible stimulation to genuine conceptual determination?"
+      - "What differentiates fruitful conjecture from merely empirical or conventional belief?"
+    conditions_of_application:
+      - "Requires the unity of mind as the source that gives individual conjectures coherence."
+      - "Does not imply that all conjectures are equal or that tolerance is simple indifference."
+
+  - id: "similitudo-to-assimilatio"
+    label: "From similitudo to assimilatio"
+    parts: [8, 9]
+    printed_pages: ["31-36"]
+    resolves_pressure_from: "conjectura-grounded-in-mind"
+    anchor_terms:
+      - "similitudo"
+      - "assimilatio"
+      - "measure"
+      - "mind"
+    position:
+      - "Discursive thought sorts and interprets sensible impressions."
+      - "On the older model, mind knows by conforming itself to what is already there."
+    internal_pressure:
+      - "Passive likeness leaves thought trapped among images and signs, unable to reach essence."
+      - "Discursive classification remains dependent on alien matter and cannot reach precision."
+    operation:
+      - "Cusa shifts from likeness present in things to the process by which mind actively establishes harmony with them."
+      - "Measuring objects is reinterpreted as mind's effort to attain the measure of itself and its powers."
+    yield:
+      - "Mind becomes the new speculative comparison point in place of the world as a fixed external order."
+      - "The empirical world-picture itself appears as a joint product of perception and conceptual differentiation."
+    generated_problem:
+      - "How can active assimilation produce exact certainty rather than only better conjecture?"
+      - "What secures truth if signs still mediate access to things?"
+    conditions_of_application:
+      - "Requires preserving sensibility as stimulus and resistance; it is not arbitrary projection."
+      - "Do not use `assimilatio` as a generic synonym for participation or harmony. Here it names an active epistemic operation."
+
+  - id: "mathematical-assimilation-and-signs"
+    label: "Mathematical assimilation and the lawful status of signs"
+    parts: [10]
+    printed_pages: ["37-40"]
+    resolves_pressure_from: "similitudo-to-assimilatio"
+    anchor_terms:
+      - "assimilatio"
+      - "circle in mind"
+      - "sign"
+      - "precision"
+    position:
+      - "So long as cognition remains tied to empirical content, pure forms appear only as shadowed approximations."
+      - "Discursive reason reaches only relative certainty."
+    internal_pressure:
+      - "If concepts are merely extracted from impressions, exact knowledge never arrives."
+      - "A merely sign-based knowledge would seem to confirm nominalist skepticism."
+    operation:
+      - "Cusa reverses the direction of certainty: exact concepts are presuppositions, not residues."
+      - "The `circle in mind` becomes the model and measure of any circle drawn in matter."
+      - "Signs are reinterpreted as lawful products of mind's own activity rather than arbitrary substitutes."
+    yield:
+      - "Mathematics becomes the clearest site where mind measures objects from forms it finds in itself."
+      - "Nominalism is folded back into idealism because the sign-system arises from the law of mind itself."
+    generated_problem:
+      - "How must magnitude, continuity, and substantial unity be reconceived if exact knowledge begins from mind's own forms?"
+      - "What new concept of being corresponds to this mathematical certainty?"
+    conditions_of_application:
+      - "Applies where the concept is generated from mind's formal simplicity, not abstracted from material instances."
+      - "Does not mean empirical knowledge is abolished; it distinguishes the conditions of exact certainty from those of approximation."
+
+  - id: "infinitesimal-and-new-substance"
+    label: "The infinitely small and the new concept of substance"
+    parts: [11]
+    printed_pages: ["41-44"]
+    resolves_pressure_from: "mathematical-assimilation-and-signs"
+    anchor_terms:
+      - "Unendlich-Kleinen"
+      - "point"
+      - "quidditas"
+      - "quantitas"
+    position:
+      - "Mathematical certainty must still account for magnitude, motion, and the unity behind sensible multiplicity."
+      - "Ordinary quantity and mass still tempt thought to treat substance as extension."
+    internal_pressure:
+      - "Finite magnitudes cannot yield the pure concept by simple analysis."
+      - "A concept of substance grounded in sheer mass or size cannot explain true power or form."
+    operation:
+      - "Cusa derives magnitude from the indivisible point and movement from ordered rest."
+      - "He shifts emphasis from `quantitas` to `quidditas`, treating unity as generative rather than extensive."
+    yield:
+      - "Cassirer reads this as a logical prehistory of the infinitely small."
+      - "The chapter reaches a proto-Leibnizian concept of substance grounded in function, force, and inner determination."
+    generated_problem:
+      - "What logical category lets the same move bind theology and mathematics rather than leaving them as parallel achievements?"
+      - "How can the move from unity to multiplicity be stated without falling back into empty symbolism?"
+    conditions_of_application:
+      - "Requires generation from an indivisible principle, not mere enlargement or aggregation."
+      - "Do not treat the point as a tiny thing; here it functions as a generative ground."
+
+  - id: "complicatio-explicatio-and-mathematica-perfectio"
+    label: "Complicatio / explicatio and mathematica perfectio"
+    parts: [12]
+    printed_pages: ["45-48"]
+    resolves_pressure_from: "infinitesimal-and-new-substance"
+    anchor_terms:
+      - "complicatio"
+      - "explicatio"
+      - "mathematica perfectio"
+      - "ratio"
+    position:
+      - "`Complicatio` and `explicatio` originally articulate the relation between God and world."
+      - "Earlier mathematical examples often functioned only as symbolic likenesses for theological content."
+    internal_pressure:
+      - "If those categories remain purely transcendent or purely symbolic, they cannot explain the actual mathematical gains already won."
+      - "The old use of mathematics as emblem leaves mathematical content itself underdeveloped."
+    operation:
+      - "Cassirer shows Cusa widening `complicatio` / `explicatio` into finite being, conceptual development, and magnitude itself."
+      - "Mathematics moves from serving theology symbolically to `mathematica perfectio` as an end in itself."
+    yield:
+      - "A genuine mediation between theology and mathematics becomes thinkable."
+      - "The focus shifts from the infinitely large to the generative power of the infinitely small and finite articulation."
+    generated_problem:
+      - "Which faculty can ground this mathematics if `ratio` remains the abstractive power governed by the excluded middle?"
+      - "How can the new unity of theology and mathematics avoid collapse into mystical wordplay?"
+    conditions_of_application:
+      - "Requires distinguishing later mathematical construction from earlier emblematic or analogical symbolism."
+      - "Do not detach `complicatio` / `explicatio` as free metaphors from the transformation that made them operative inside finite cognition."
+
+  - id: "ratio-to-intellectus-and-coincidentia"
+    label: "From ratio to intellectus and the constrained meaning of coincidence"
+    parts: [12, 13]
+    printed_pages: ["47-52"]
+    resolves_pressure_from: "complicatio-explicatio-and-mathematica-perfectio"
+    anchor_terms:
+      - "ratio"
+      - "intellectus"
+      - "visus intellectualis"
+      - "coincidentia oppositorum"
+    position:
+      - "`Ratio` individuates, compares, and orders under the principle of the excluded middle."
+      - "Mathematics now seems to demand a grasp of total series and generating rules that abstraction cannot supply."
+    internal_pressure:
+      - "`Ratio` secures fixed oppositions but cannot generate or survey the continuous transitions linking them."
+      - "If mathematics is kept wholly on the side of discursive understanding, the new exact constructions become unintelligible."
+    operation:
+      - "Cusa transfers mathematics to `intellectus` and `visus intellectualis`."
+      - "Coincidence is reinterpreted as a lawful, continuous transition generated from one principle, not as the annihilation of distinct finite terms."
+    yield:
+      - "Principle and totality can be grasped in one act rather than by stepwise enumeration."
+      - "Mathematical and mystical ascent disclose a shared logical form."
+    generated_problem:
+      - "What mediating category links this intellectual construction back to metaphysical language without losing mathematical content?"
+      - "How can intellect's insight return to ratio without being reduced to an empty formula?"
+    conditions_of_application:
+      - "Requires real finite oppositions first; their validity is preserved in their own domain."
+      - "Do not use `coincidentia oppositorum` as a blanket slogan that 'all opposites are one.' Here it operates only through generated continuity or a standpoint beyond ratio."
+
+  - id: "emanation-non-aliud-and-scientia-infinita"
+    label: "Emanation, non aliud, and scientia infinita"
+    parts: [14, 15]
+    printed_pages: ["53-60"]
+    resolves_pressure_from: "ratio-to-intellectus-and-coincidentia"
+    anchor_terms:
+      - "emanatio"
+      - "non aliud"
+      - "scientia infinita"
+      - "consciousness"
+    position:
+      - "The later doctrine must connect active intellect, divine being, and the truth of inquiry without reverting to passive copy-theory."
+      - "The antinomy of transcendence and immanence still threatens to break the system."
+    internal_pressure:
+      - "Mathematics and mysticism can still drift apart into parallel discourses unless one mediating category unites them."
+      - "Theological language risks swallowing the epistemic transformation it was supposed to illuminate."
+    operation:
+      - "Cusa's `emanatio` is reread as the methodological principle of pure deduction."
+      - "`Non aliud` holds together two claims at once: the absolute is immanent as the inner being of things, yet not determinable as any one thing."
+      - "The center of gravity shifts from absolute being to `scientia infinita` as the presupposed unity of all inquiry."
+    yield:
+      - "Negative theology is transformed into a doctrine of consciousness and knowing."
+      - "Every genuine question of knowledge now carries an inner certainty and light within itself."
+    generated_problem:
+      - "How does this transformed doctrine take historical effect rather than remaining a purely speculative culmination?"
+      - "What immediate successor translates the motive into a new Renaissance program?"
+    conditions_of_application:
+      - "Applies only where the comparison point is the active operation of intellect, not any fixed object-content."
+      - "Do not turn `non aliud` into a generic claim of vague unity; its force lies in holding immanence and non-objectifiability together without reducing either."
+
+  - id: "historical-threshold-to-bovillus"
+    label: "The historical threshold from Cusa to Bovillus"
+    parts: [16]
+    printed_pages: ["61-64"]
+    resolves_pressure_from: "emanation-non-aliud-and-scientia-infinita"
+    anchor_terms:
+      - "docta ignorantia"
+      - "operations"
+      - "Bovillus"
+      - "microcosm and macrocosm"
+    position:
+      - "Cusa culminates in divine seeing and in the relocation of certainty into the active unfolding of knowing."
+      - "The chapter must now show historical efficacy, not only systematic closure."
+    internal_pressure:
+      - "Without a determinate successor, the doctrine risks remaining an isolated metaphysical summit."
+      - "The new concept of knowledge still needs to show how it enters Renaissance natural philosophy and logic."
+    operation:
+      - "Cassirer translates the Cusan motif into a historical claim: the being of the genuine concept is grounded in its becoming and in the operations it presupposes."
+      - "Bovillus appears as the first direct effect of this shift, carrying the motive into `ars oppositorum` and the microcosm / macrocosm identity."
+    yield:
+      - "The chapter turns from Cusa's limit-point to a Renaissance program that can enter nature-philosophy."
+      - "Cusa's gains become historically transmissible rather than merely speculative."
+    generated_problem:
+      - "How will these motives interact with Aristotelian psychology, substantial form, and later natural philosophy?"
+    conditions_of_application:
+      - "Preserve the difference between Cusa's own limit-point and later Renaissance elaborations."
+      - "Do not treat Bovillus as a mere repetition of Cusa; the motive is inherited under new pressures."

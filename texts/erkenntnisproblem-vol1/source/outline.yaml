@@ -67,7 +67,7 @@ books:
     chapters:
       - slug: "die-naturphilosophie"
         title_de: "Die Naturphilosophie"
-        start_page_printed: 205
+        start_page_printed: 203
       - slug: "die-entstehung-der-exakten-wissenschaft"
         title_de: "Die Entstehung der exakten Wissenschaft"
         start_page_printed: 314

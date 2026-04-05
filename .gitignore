@@ -2,3 +2,4 @@ books/
 __pycache__/
 .obsidian/
 texts/*/output/
+sources/modern/incoming/books/
