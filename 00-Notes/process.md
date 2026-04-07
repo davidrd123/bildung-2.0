@@ -186,7 +186,7 @@ Living list. Updated as threads advance or stall.
 | Predecided world | Active — Uexküll/Cassirer/Anders/Jünger world-cut connector | `cross-domain-synthesis-threads.md` | 2026-04-02 |
 | Empirical morphogenesis line | Active — Levin corpus linked to the braided river | `cross-domain-synthesis-threads.md` | 2026-04-01 |
 | Action-conditioned real | Active — von Foerster + late Zeitmauer + Cassirer + Dick | `cross-domain-synthesis-threads.md` | 2026-04-02 |
-| Peirce reserve | Seeded — architecture-level convergences noted; no primary encounter campaign yet | `2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md` | 2026-04-04 |
+| Peirce reserve | Seeded — architecture-level convergences noted; no primary encounter campaign yet | `distillations/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md` | 2026-04-04 |
 | Whitehead decryption | Seeded — identified as target, not started | `cross-domain-synthesis-threads.md` | 2026-03-29 |
 | Symbiotic-Vault convergence | Active — structural isomorphisms mapped | `symbiotic-vault-intersection.md` | 2026-03-31 |
 | The instrument (rotating hierarchy) | Active — architecture sketched, not built | `higher-purpose-distillation.md`, `genealogy-to-instrument.md` | 2026-03-31 |

@@ -94,7 +94,7 @@ Files to attach:
 - `texts/erkenntnisproblem-vol1/interpretive-notes.md`
 - `texts/erkenntnisproblem-vol1/source/cusanus-generative-chain.yaml`
 - `texts/erkenntnisproblem-vol1/reading/2026-04-04-earned-distillation-from-cusanus-generative-chains-chat.md`
-- `00-Notes/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
+- `00-Notes/distillations/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
 
 Tasks:
 
@@ -143,7 +143,7 @@ Files to attach:
 - `patterns/handle-schema.md`
 - `texts/zeitmauer/threads/goethe-leibniz-frame.md`
 - `texts/erkenntnisproblem-vol1/reading/2026-04-04-earned-distillation-from-cusanus-generative-chains-chat.md`
-- `00-Notes/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
+- `00-Notes/distillations/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
 - `00-Notes/genealogy-to-instrument.md`
 
 Tasks:
@@ -292,7 +292,7 @@ Files to attach:
 - `00-Notes/cross-domain-synthesis-threads.md`
 - `00-Notes/genealogy-to-instrument.md`
 - `texts/erkenntnisproblem-vol1/reading/2026-04-04-earned-distillation-from-cusanus-generative-chains-chat.md`
-- `00-Notes/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
+- `00-Notes/distillations/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
 - `00-Notes/cross-project/dick-junger-hinzutretende-and-carriers.md`
 - `texts/zeitmauer/source/glossary.yaml`
 
@@ -351,7 +351,7 @@ Files to attach:
 - `00-Notes/Chats/2026-04-04/2026-04-04_18-38-23_Claude_Chat_Nicolas_of_Cusa_and_generative_chains.md`
 - `texts/erkenntnisproblem-vol1/reading/2026-04-04-earned-distillation-from-cusanus-generative-chains-chat.md`
 - `00-Notes/Chats/2026-04-04/2026-04-04_22-12-47_Claude_Chat_Learning_from_Peirce's_thinking_methods.md`
-- `00-Notes/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
+- `00-Notes/distillations/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
 
 Tasks:
 

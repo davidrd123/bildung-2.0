@@ -21,7 +21,7 @@ For the April 4 Peirce chat, this is the right lane.
 Files to attach when relevant:
 
 - `00-Notes/Chats/2026-04-04/2026-04-04_22-12-47_Claude_Chat_Learning_from_Peirce's_thinking_methods.md`
-- `00-Notes/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
+- `00-Notes/distillations/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
 - any local note that names the current interest or friction
 
 ---

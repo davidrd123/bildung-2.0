@@ -11,6 +11,7 @@ It is not the primary workspace for ordinary translation sessions.
 - `2026-04-04/exploratory-hard-questions.md` — bounded prompts for mining chats into real open questions and sending them to a harder model without treating the result as authority.
 - `2026-04-04/peirce-gpt5pro-queue.md` — paste-ready GPT-5 Pro questions for the April 4 Peirce chat, ordered by priority.
 - `2026-04-04/punishing/` — harder audit prompts for protocol pressure, overclaim checks, and method hardening.
+- `2026-04-06/README.md` — post-processed intake surface for the April 6 source-role research set. Use this if the task is deciding whether an item is source-language commentary, continued primary work pressure, or thinker-on-thinker encounter.
 
 ## Use
 
@@ -46,5 +47,13 @@ If the work is:
 - pressure the project's purpose claims
 
 use `2026-04-04/punishing/`.
+
+If the work is:
+
+- route the April 6 bibliography set by source role
+- choose between the `5Pro`, `Opus`, and raw `DR` variants
+- prepare a later agent or feature pass to pick up the category-2 / category-4 distinction cleanly
+
+start with `2026-04-06/README.md`.
 
 The default should be the productive surface, not the punishing one.

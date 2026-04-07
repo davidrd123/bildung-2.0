@@ -74,7 +74,7 @@ Core documents to attach:
 - `AGENTS.md`
 - `texts/zeitmauer/threads/goethe-leibniz-frame.md`
 - `texts/erkenntnisproblem-vol1/reading/2026-04-04-earned-distillation-from-cusanus-generative-chains-chat.md`
-- `00-Notes/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
+- `00-Notes/distillations/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
 
 Tasks:
 
@@ -134,7 +134,7 @@ Files to attach:
 - `patterns/handle-schema.md`
 - `00-Notes/process.md`
 - `texts/zeitmauer/threads/goethe-leibniz-frame.md`
-- `00-Notes/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
+- `00-Notes/distillations/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
 
 Tasks:
 

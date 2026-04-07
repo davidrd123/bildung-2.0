@@ -15,7 +15,7 @@ Do not overthink the workflow:
 Primary files:
 
 - `00-Notes/Chats/2026-04-04/2026-04-04_22-12-47_Claude_Chat_Learning_from_Peirce's_thinking_methods.md`
-- `00-Notes/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
+- `00-Notes/distillations/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md`
 
 Standard rule already assumed in every task below:
 
@@ -46,7 +46,7 @@ Use when you want pressure on whether `Secondness` is doing real work or just de
 
 Task line:
 
-`00-Notes/Chats/2026-04-04/2026-04-04_22-12-47_Claude_Chat_Learning_from_Peirce's_thinking_methods.md + 00-Notes/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md — Evaluate whether Peirce's notion of Secondness adds anything beyond existing AI terms like grounding, embodiment, tool feedback, evaluation, and world-model error. If it does, specify the surplus precisely. If it does not, say the vocabulary is ornamental. Separate what Secondness names well from what current technical language already handles.`
+`00-Notes/Chats/2026-04-04/2026-04-04_22-12-47_Claude_Chat_Learning_from_Peirce's_thinking_methods.md + 00-Notes/distillations/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md — Evaluate whether Peirce's notion of Secondness adds anything beyond existing AI terms like grounding, embodiment, tool feedback, evaluation, and world-model error. If it does, specify the surplus precisely. If it does not, say the vocabulary is ornamental. Separate what Secondness names well from what current technical language already handles.`
 
 ---
 
@@ -56,7 +56,7 @@ Use when you want pressure on the claim that the Goethe / Leibniz split is incom
 
 Task line:
 
-`00-Notes/Chats/2026-04-04/2026-04-04_22-12-47_Claude_Chat_Learning_from_Peirce's_thinking_methods.md + 00-Notes/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md — Evaluate whether introducing Peirce's Secondness genuinely improves a Goethe / Leibniz style dyad of participatory perception and formal articulation, or whether it mostly renames tensions already present inside the dyad. State the strongest version of the triadic claim, then say exactly what explanatory work it does that the dyad could not already do. If the triadic move is real, specify its necessity. If not, say the move is inflationary.`
+`00-Notes/Chats/2026-04-04/2026-04-04_22-12-47_Claude_Chat_Learning_from_Peirce's_thinking_methods.md + 00-Notes/distillations/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md — Evaluate whether introducing Peirce's Secondness genuinely improves a Goethe / Leibniz style dyad of participatory perception and formal articulation, or whether it mostly renames tensions already present inside the dyad. State the strongest version of the triadic claim, then say exactly what explanatory work it does that the dyad could not already do. If the triadic move is real, specify its necessity. If not, say the move is inflationary.`
 
 ---
 
@@ -66,7 +66,7 @@ Use when you want pressure on one of the strongest but slipperiest analogies in 
 
 Task line:
 
-`00-Notes/Chats/2026-04-04/2026-04-04_22-12-47_Claude_Chat_Learning_from_Peirce's_thinking_methods.md + 00-Notes/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md — Evaluate whether Peirce's triadic semiosis is actually a good model for autoregressive language generation, or whether that analogy is too loose to do real explanatory work. Distinguish sign-object-interpretant from token-by-token continuation, and say exactly where the comparison illuminates something and where it misleads.`
+`00-Notes/Chats/2026-04-04/2026-04-04_22-12-47_Claude_Chat_Learning_from_Peirce's_thinking_methods.md + 00-Notes/distillations/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md — Evaluate whether Peirce's triadic semiosis is actually a good model for autoregressive language generation, or whether that analogy is too loose to do real explanatory work. Distinguish sign-object-interpretant from token-by-token continuation, and say exactly where the comparison illuminates something and where it misleads.`
 
 Why this is next:
 
@@ -82,7 +82,7 @@ Use when you want pressure on whether Peirce gives a better vocabulary than the 
 
 Task line:
 
-`00-Notes/Chats/2026-04-04/2026-04-04_22-12-47_Claude_Chat_Learning_from_Peirce's_thinking_methods.md + 00-Notes/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md — Evaluate whether Peirce's notion of habit genuinely improves the question of whether models "know" things, or whether it is mostly a more elegant redescription of dispositions, capabilities, or function approximation. Say what becomes clearer if we use "habit," and what becomes sloppier. Separate philosophical illumination from terminological uplift.`
+`00-Notes/Chats/2026-04-04/2026-04-04_22-12-47_Claude_Chat_Learning_from_Peirce's_thinking_methods.md + 00-Notes/distillations/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md — Evaluate whether Peirce's notion of habit genuinely improves the question of whether models "know" things, or whether it is mostly a more elegant redescription of dispositions, capabilities, or function approximation. Say what becomes clearer if we use "habit," and what becomes sloppier. Separate philosophical illumination from terminological uplift.`
 
 Why this is high value:
 
@@ -98,7 +98,7 @@ Use when you want pressure on the inference claim itself rather than the surroun
 
 Task line:
 
-`00-Notes/Chats/2026-04-04/2026-04-04_22-12-47_Claude_Chat_Learning_from_Peirce's_thinking_methods.md + 00-Notes/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md — Evaluate whether the claim that LLM inference is structurally abductive is actually correct in a Peircean sense, or whether it is a seductive analogy. Separate abduction, probabilistic completion, and explanatory hypothesis generation. Say where the comparison helps and where it hides the real issues.`
+`00-Notes/Chats/2026-04-04/2026-04-04_22-12-47_Claude_Chat_Learning_from_Peirce's_thinking_methods.md + 00-Notes/distillations/2026-04-04-earned-distillation-from-peirce-thinking-methods-chat.md — Evaluate whether the claim that LLM inference is structurally abductive is actually correct in a Peircean sense, or whether it is a seductive analogy. Separate abduction, probabilistic completion, and explanatory hypothesis generation. Say where the comparison helps and where it hides the real issues.`
 
 Why this comes after Q3 and Q4:
 
