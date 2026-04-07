@@ -1,6 +1,6 @@
 # 2026-04-06 DeepResearch
 
-Imported deep-research outputs on two different source roles:
+Imported deep-research outputs centered on two source roles:
 
 - source-language commentary
 - thinker-on-thinker encounters
@@ -42,14 +42,15 @@ Use `DR` only when you need to recover the older trace surface.
 
 ## Strongest 5Pro Additions
 
-These are the main reasons to prefer the `5Pro` thinker-on-thinker file as the working surface:
+These are the main reasons to prefer the `5Pro` thinker-on-thinker file as the working surface for category-4 routing:
 
 - Hoesle on Gomez Davila
 - Canguilhem on Uexkuell
 - Plessner on Uexkuell stated more strongly and correctly positioned
 - Blanchot on Juenger
 - Koyre as the main mediating node in the Cassirer -> Kuhn line
-- Cariani and Deacon as cleaner Pattee continuation lines
+
+Separate note: `Thinker_on_Thinker_5Pro.md` also sharpens some category-3 continuation lines at the margins, especially Cariani and Deacon on Pattee, but those belong with `sources/modern/` style routing rather than with the main thinker-on-thinker queue.
 
 ## Use
 
