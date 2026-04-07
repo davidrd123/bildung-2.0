@@ -24,7 +24,7 @@ So this scaffold is no longer an Italian-only intake problem. It is now a primar
 - that witness yields `3833` aphorism blocks
 - endnotes begin at line `14326`; postface begins at line `14442`
 - two aphorisms in the Italian witness appear to have truncated openings
-- the first ten real batches now exist in `sections/01-history-and-ruin.md`, `sections/02-judgment-and-civilization.md`, `sections/03-history-and-the-dying-century.md`, `sections/04-christianity-and-servility.md`, `sections/05-culture-and-concrete-value.md`, `sections/06-historiography-and-tragic-man.md`, `sections/07-order-and-its-ruins.md`, `sections/08-mythology-and-technique.md`, `sections/09-scale-luck-and-authority.md`, and `sections/10-sacred-remnant.md`
+- the first fourteen real batches now exist in `sections/01-history-and-ruin.md`, `sections/02-judgment-and-civilization.md`, `sections/03-history-and-the-dying-century.md`, `sections/04-christianity-and-servility.md`, `sections/05-culture-and-concrete-value.md`, `sections/06-historiography-and-tragic-man.md`, `sections/07-order-and-its-ruins.md`, `sections/08-mythology-and-technique.md`, `sections/09-scale-luck-and-authority.md`, `sections/10-sacred-remnant.md`, `sections/11-poterna-and-pretension.md`, `sections/12-soul-forgiveness-authority.md`, `sections/13-love-method-and-homage.md`, and `sections/14-grace-and-the-legitimate.md`
 
 The immediate task here is no longer intake triage. It is to keep batching from the cleaned Spanish source and use the Italian extraction as a check, not as the primary basis of the project.
 

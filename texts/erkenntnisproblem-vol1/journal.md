@@ -1265,3 +1265,48 @@ Decision for now:
 
 - continue directly into the next `Naturphilosophie` tranche from the broken Campanella footnote and ensuing argument
 - keep `Allbeseelung` / `Belebtheit des Alls` under pressure without settling a new glossary term yet
+
+## 2026-04-05 - Third Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `212-215`
+- PDF pages `236-239`
+
+What this tranche clarified:
+
+- Campanella's force-concept is now explicitly read forward into the later metaphysical opposition of occasionalism and pre-established harmony
+- the critique of Aristotelian `Potenz` is stated with unusual sharpness: a pure boundary concept of thought is turned into a metaphysical determination of being, and scholasticism then oscillates inside the ambiguity that results
+- Cardano, Telesio, and Patrizzi are grouped by one common reversal: matter, seed, and force are treated as positive actuality rather than inert possibility awaiting form from without
+- the internal heading `Die Definition der Substanz` shows that the potency critique is not local; it is carried directly into a broader attack on Aristotelian substance through Patrizzi
+- no glossary update is forced yet; `Potenz` and `Substanz` are live pressure points in this tranche, but still not recurrent enough in the current local run to justify adding entries ahead of the larger chapter arc
+
+Decision for now:
+
+- continue directly into the next `Naturphilosophie` tranche from the broken Patrizzi quotation
+- keep watching whether `Potenz` and `Substanz` remain local argument-terms or become chapter-level watch terms that deserve glossary treatment
+
+Method note:
+
+- the brief `Meta-Harness` encounter reinforced a process lesson that had already emerged locally from the Cassirer work: do not compress experience too early
+- that lesson should be treated here as encounter-earned rather than imported from engineering folklore; the local warrant was the close-reading capture gap that led to `reading/close-reading-ledger.md`, and the modern paper supplied an external analogue rather than the original source of the rule
+
+## 2026-04-05 - Fourth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `216-219`
+- PDF pages `240-243`
+
+What this tranche clarified:
+
+- Patrizzi's attack on `Substanz` now closes one line of the anti-Aristotelian critique by pushing so-called form down into the concrete qualities and operations that actually explain a body's mode of being
+- Telesio's reform of teleology makes the point sharper: only the immanence of purpose can restore independence, fullness, and articulated multiplicity to beings; an external `unbewegter Beweger` dissolves individual forms into idle fictions
+- the `Weltorganismus` concept is here used explicitly against instrumental hierarchy, since no species is merely a means for a higher one but each limited being embodies the total law in its own way
+- the Agrippa / Paracelsus transition turns microcosm doctrine into an epistemic claim: man is the `Bild des Bildes`, knowable only through the mediation of the whole organic reality
+- no glossary update is forced yet; `Mikrokosmos` / `Makrokosmos` and the `Bild des Bildes` formulation are now clear watch-points, but the local recurrence is not yet sufficient to settle them as standing entries
+
+Decision for now:
+
+- continue directly into the next `Naturphilosophie` tranche from the broken sentence on the bodily processes in Paracelsus
+- keep watching whether the mediated-self-knowledge structure remains central enough in the Paracelsus run to deserve a glossary or cross-project trace

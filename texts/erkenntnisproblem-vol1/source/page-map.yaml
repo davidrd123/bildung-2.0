@@ -164,3 +164,31 @@ ranges:
     printed_pages: ["205", "205"]
     trust: "high"
     note: "The first subsection of `Die Naturphilosophie` begins on printed page 205 / PDF page 229 and opens the Neoplatonic-organic conception of nature."
+
+  - slug: "potenzbegriff-critique-within-naturphilosophie"
+    label: "Opening of `Die Kritik des Potenzbegriffs` within `Die Naturphilosophie`"
+    pdf_pages: [237, 237]
+    printed_pages: ["213", "213"]
+    trust: "high"
+    note: "The internal heading on printed page 213 / PDF page 237 marks the shift from the world-organism and natural-magic arc into an explicit critique of Aristotelian potency."
+
+  - slug: "definition-der-substanz-within-naturphilosophie"
+    label: "Opening of `Die Definition der Substanz` within `Die Naturphilosophie`"
+    pdf_pages: [239, 239]
+    printed_pages: ["215", "215"]
+    trust: "high"
+    note: "The internal heading on printed page 215 / PDF page 239 carries Patrizzi's potency critique forward into a direct attack on the Aristotelian definition of substance."
+
+  - slug: "bewegung-und-unbewegter-beweger-within-naturphilosophie"
+    label: "Opening of `Die Bewegung und der ,,unbewegte Beweger"` within `Die Naturphilosophie`"
+    pdf_pages: [241, 241]
+    printed_pages: ["217", "217"]
+    trust: "high"
+    note: "The running internal heading on printed page 217 / PDF page 241 marks the turn from Patrizzi's substance-critique toward Telesio's reform of teleology and the critique of the Aristotelian unmoved mover."
+
+  - slug: "paracelsus-opening-within-naturphilosophie"
+    label: "Opening of `Paracelsus` within `Die Naturphilosophie`"
+    pdf_pages: [242, 242]
+    printed_pages: ["218", "218"]
+    trust: "high"
+    note: "Printed page 218 / PDF page 242 begins the Paracelsus movement after the centered divider and shifts the world-organism arc into the microcosm / macrocosm relation and the epistemic program of medicine."

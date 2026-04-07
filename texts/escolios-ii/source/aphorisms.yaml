@@ -1846,7 +1846,7 @@
   print_page: 51
   es: >
     El hombre no puede ni condenarse a sí mismo, ni absolverse. El hombre no es
-    más que una capacidad dé ser perdonado.
+    más que una capacidad de ser perdonado.
 
 - id: 254
   pdf_page: 94
@@ -1920,8 +1920,8 @@
     También las virtudes son intraducibles. Unas no hablan sino latín. Otras
     sólo saben inglés. Hay exquisitas en francés que se depravan en otros
     idiomas. Algunas necesitan el alemán para expresar su escrupulosa seriedad.
-    Varias sólo en español no parecen meros ademanes plebeyos Del griego, en
-    fin, nadie ha podido traducir una sola ! virtud.
+    Varias sólo en español no parecen meros ademanes plebeyos. Del griego, en
+    fin, nadie ha podido traducir una sola virtud.
 
 - id: 263
   pdf_page: 98
@@ -2085,7 +2085,7 @@
   print_page: 57
   es: >
     Así como en el XIX existieron dos pinturas paralelas: una oficial, auténtica
-    la otra; así fluye en cauces paralelos el pensamiento del siglo.Los
+    la otra; así fluye en cauces paralelos el pensamiento del siglo. Los
     reaccionarios son los impresionistas de este siglo.
 
 - id: 287
@@ -2320,40 +2320,41 @@
   print_page: 63
   es: >
     El historiador trata la historia en retratista. El sociólogo en policía que
-    la ficha. − El incrédulo n o perdona al apóstata que le confirme su
-    incredulidad.
+    la ficha.
 
 - id: 320
+  pdf_page: 118
+  print_page: 63
+  es: >
+    El incrédulo no perdona al apóstata que le confirme su incredulidad.
+
+- id: 321
   pdf_page: 118
   print_page: 63
   es: >
     Los católicos no sospechan que el mundo se siente estafado con cada
     concesión que el catolicismo le hace.
 
-- id: 321
+- id: 322
   pdf_page: 118
   print_page: 63
   es: >
     Sobre el campanario de la iglesia moderna, el clero progresista, en vez de
     cruz, coloca una veleta.
 
-- id: 322
+- id: 323
   pdf_page: 118
   print_page: 63
   es: >
-    La revolución —toda revolución, la revolución en síes la matriz de las
+    La revolución —toda revolución, la revolución en sí es la matriz de las
     burguesías.
-
-- id: 323
-  pdf_page: 119
-  es: >
-    Rentista, profesor jubilado, señorito sometido a tutela,
 
 - id: 324
   pdf_page: 119
   es: >
-    ¿concibe un intelectual de izquierda peores parásitos burgueses?
-    Kierkegaard, Nietzsche, Baudelaire.
+    Rentista, profesor jubilado, señorito sometido a tutela, ¿concibe un
+    intelectual de izquierda peores parásitos burgueses? Kierkegaard, Nietzsche,
+    Baudelaire.
 
 - id: 325
   pdf_page: 120
@@ -2390,7 +2391,7 @@
   pdf_page: 120
   print_page: 64
   es: >
-    El hombre sólo consiguelo que quiere cuando menos lo sospecha.
+    El hombre sólo consigue lo que quiere cuando menos lo sospecha.
 
 - id: 330
   pdf_page: 120

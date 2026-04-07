@@ -144,3 +144,25 @@ These pages keep reducing the prestige of modern explanatory habits. Straight li
 The second section turns more explicitly toward what survives reduction. The sacred, myth, poetry, lesser divinities, and sacramental presence all return at once. `§213`-`§220` are among the clearest statements yet that modernity does not abolish transcendence; it depletes the world's intermediate density and then comforts itself by reducing what remains to psychology, ethics, or culture. `§217` is especially important because it states the immediate task without system-building: save the consciousness of the sacred.
 
 Just as important: no new extractor changes were needed for this stretch. The source held as-is. That is the first real sign that the earlier cleanup discipline is paying off. The explicit Spanish casualty list remains unchanged at a single flagged entry: `id 1189`.
+
+## 2026-04-05 — Sections 11 And 12 Added
+
+The run now reaches `§270` with two more sections:
+
+- `§221-240` / printed pages `45-48` in [sections/11-poterna-and-pretension.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/11-poterna-and-pretension.md)
+- `§241-270` / printed pages `48-54` in [sections/12-soul-forgiveness-authority.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/12-soul-forgiveness-authority.md)
+
+This pair is one of the clearest turns yet from polemic into positive pressure. `§223` names aesthetic experience as a side gate into the sacred, `§238` says the senses require rites rather than one more round of refutations, and `§239` strips away the easy consolation that truth, beauty, religion, and art are guaranteed by human nature. The next section then drives deeper into the consequences: truth is not an instrument, forgiveness cannot be self-administered, timeless norms can still command disaster against the facts, Catholicism is treated as hierarchical ordering rather than progressive flattening, and authority is something recognized in excellence rather than manufactured by command.
+
+The source work stayed narrow and earned. No new cleanup campaign was opened. The only live witness repairs folded into the extractor were the ones these pages actually forced: `§253` now reads `capacidad de ser perdonado`, and `§262` now carries the restored punctuation and line around `plebeyos. Del griego ... una sola virtud`. The explicit Spanish casualty list still remains unchanged at a single flagged entry: `id 1189`.
+
+## 2026-04-05 — Sections 13 And 14 Added
+
+The run now reaches `§330` with two more sections:
+
+- `§271-300` / printed pages `54-59` in [sections/13-love-method-and-homage.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/13-love-method-and-homage.md)
+- `§301-330` / printed pages `59-64` in [sections/14-grace-and-the-legitimate.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/14-grace-and-the-legitimate.md)
+
+This stretch sharpened several lines already active in the volume without needing a large framing essay around them. `§271`, `§280`, `§292`, and `§300` keep returning to the same question from different angles: how does one preserve rank, form, and admiration without collapsing them into system or egalitarian flatness? `§301`, `§306`, `§315`, and `§328` then move the pressure toward grace, legitimacy, and history, treating progress less as neutral development than as a rival definition of what may count as real, good, or lawful.
+
+These pages also forced the first non-trivial source seam repair since the early cleanup passes. The extractor now corrects a few exact witness problems that began to matter only once the live work reached them: `§286` now restores the sentence break after `siglo.`, `§329` now reads `consigue lo`, and `§319-324` have been locally repacked so that one fused aphorism is split and one split aphorism is merged without changing the overall extracted count. The explicit Spanish casualty list still remains unchanged at a single flagged entry: `id 1189`.

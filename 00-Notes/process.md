@@ -141,6 +141,32 @@ The test for whether the adversarial practice is working: could the current batc
 
 This is not a publication standard. It is a contestability standard. The work does not need to be sent out. It needs to be *sendable*.
 
+## Secondary Trace Diagnostic (2026-04-05)
+
+The current repo does not have one secondary-trace format. It has at least two, and that is not a defect by itself.
+
+- `texts/erkenntnisproblem-vol1/` is currently the richest **prose** trace environment: tranche notes, close-reading ledger, distillation notes, journal, glossary pressure, and the Cusanus chain.
+- `texts/zeitmauer/` is currently the richest **relational** trace environment: `source/handles.yaml` carries section handles, anchor handles, translation-note handles, evidence chains, thread links, and journal-note links through the translated range.
+
+In practice that means the `Zeitmauer` work is already generating secondary traces in the handle layer itself, not in a separate `reading/` directory: the handles are not just navigation there, but a real retrieval and evidence surface.
+
+So the right contrast is not `rich` versus `thin`, but different media shaped by different textual grain.
+
+- Cassirer's pressure often needs sentence- or paragraph-scale prose traces.
+- Jünger's pressure often needs recurrence, drift, and section-to-thread retrieval.
+
+The practical standard is therefore not uniformity of format but discoverability:
+
+- can a cold start reconstruct why a local decision was made?
+- can a modern-source / primary-text contact be found from both sides without rereading whole journals?
+- can the trace medium used by one subproject point cleanly into the trace medium used by another?
+
+Current working judgment:
+
+- do not force all subprojects into a `reading/` layer
+- do not treat `handles.yaml` as mere derived navigation where it is already functioning as a real secondary-trace surface
+- do make cross-project and modern-source contact traces lighter and more routine, because that is still the weakest interoperability point
+
 ## Threads in Flight
 
 Living list. Updated as threads advance or stall.
@@ -182,8 +208,8 @@ Living list. Updated as threads advance or stall.
 
 | Project | Progress | Current edge |
 |---------|----------|-------------|
-| `texts/erkenntnisproblem-vol1/` | 45 parts; section IV closed; harmonization pass done | Skepticism chapter, Part 46 from broken Montaigne sentence |
-| `texts/zeitmauer/` | 44 parts (§§123+) | Siderische Einteilungen; handle pilot live, thread extraction growing |
+| `texts/erkenntnisproblem-vol1/` | 54 parts; Book II `Naturphilosophie` active; close-reading ledger live | Part 55 from the broken Patrizzi quotation |
+| `texts/zeitmauer/` | 52 parts (§§156) | Late Siderische Einteilungen; protean-power / new-type / decadence-scale run active, handle pilot live through the translated range |
 | `texts/tektologiya-vol1/` | 10 parts | Progressive selection / structural crisis |
 | `texts/escolios/` | §§1-108 translated (8 section files) | Continuing sequential batches |
 | `texts/escolios-ii/` | 2 section files; extraction pipeline building | History-and-ruin opening; aphorisms.yaml restructuring |

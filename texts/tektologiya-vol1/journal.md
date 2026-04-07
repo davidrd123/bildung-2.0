@@ -389,3 +389,114 @@ Review notes:
 - [visual candidate] a rod pair: even cylinder vs. beaded rod, with positive and negative selection arrows
 - [visual candidate] centralist / federative mapped onto fused / beaded under good and bad conditions
 - [visual candidate] temporal beadedness: long vs. short wavelength and day / night oscillation
+
+## 2026-04-05 - Equilibrium Returns as Derivation
+
+`4.5` is the formal close of chapter 4, and its strongest move comes at the end.
+
+At first the section looks like a straightforward universalization of Le Chatelier. Bogdanov defines `equilibrium systems`, extends the law across chemistry, organisms, sensation, and social life, and then uses `false equilibrium` to name cases in which real transformation is already underway but remains below the threshold of direct detection. That distinction is already important: false equilibrium is not rest, only hidden process.
+
+But the real gain is sharper than that. Bogdanov insists that Le Chatelier-type counteraction is not the same thing as active struggle against an external force. The tortoise withdrawing into its shell fits the equilibrium schema because its internal rearrangement directly reduces the immediate effect of the hostile impact. A counterattack would be something different: it might later reduce the danger, but it first increases the mechanical difference and therefore belongs to an unbalanced pattern. This is one of the cleanest places where Bogdanov refuses verbal common sense in favor of structural analysis.
+
+The practical passages then push the distinction into character and politics. Passive or self-limiting natures correspond to equilibrium-seeking reactions; combative and expansive ones to unbalanced reactions. The same applies to ideologies and organizations. What matters is not the label attached to a movement or army, but the type of internal reaction it shows under pressure, and especially whether that reaction is changing. Bogdanov is treating this as a real diagnostic instrument.
+
+Then comes the key closure: equilibrium is not left standing as a separate principle. `4.5` explicitly reduces it to a special case of `analytic sum`. That is the chapter-level consolidation. The whole long run from `3.b` through `4.5` has kept introducing new distinctions, but at decisive points Bogdanov repeatedly recomposes them under prior mechanisms or principles rather than letting them proliferate autonomously.
+
+Current conclusion:
+
+- chapter `4` now looks locally complete
+- `equilibrium system / unbalanced system` and `false equilibrium` have earned glossary status
+- the strongest conceptual pressure of `4.5` is not equilibrium itself, but the derivation of equilibrium from `analytic sum`
+- the next clean move is `5.1`, where the project turns from chapter-4 formal consolidation toward labor and need
+
+Review notes:
+
+- [visual candidate] a three-way diagram: true equilibrium / false equilibrium / unbalanced system
+- [visual candidate] tortoise withdrawal vs. counterattack as the contrast between internal counteraction and active struggle
+- [visual candidate] analytic-sum derivation of Le Chatelier
+
+## 2026-04-05 - Equilibrium Turns Into Distribution
+
+`5.1` carries the project into a new register without loosening its density. The opening move is simple but decisive: the question of wages and needs is recast neither morally nor juridically, but organizationally. The worker's life is treated as a balance of expenditure and restoration, and distribution is judged by whether it preserves and develops the labor-power on which the collective depends.
+
+The first gain is that Bogdanov does not stop at calories. He begins there because the relation is easier to calculate, but he quickly generalizes through the `law of leasts`: proteins, shoes, tea, tobacco, newspapers, books can all become limiting links once they are necessary conditions of a given labor-power. The worker is therefore not a bearer of a single wage datum but a complex of mutually necessary conditions. This is one of the clearest local widenings of the law of leasts so far.
+
+The middle of the section sharpens the political point. The critique of `everyone alike` is not a defense of privilege. Bogdanov's argument is that equal pay under unequal expenditure is real inequality. The proper object of equalization is the relation between energy spent and energy restored. That is then pressed further through the distinction between collective production and distribution, which increase force, and personal consumption, which remains individual in character. Whatever one thinks of the political edge of that claim, it is structurally central to the section.
+
+The closing gain comes with `responsible` and `creative` work. Both are cases in which slight economies can produce disproportionate losses. Responsible work fails through distraction at the weakest point; creative work fails because its highest-tension portion disappears first. Chapter 4's theme of nonlinear decline thus returns inside the theory of labor and need: what looks like saving at the level of immediate outlay can become waste at the level of social function.
+
+Current conclusion:
+
+- `5.1` is a real continuation, not a looser appendix
+- no new opaque technical term forced glossary expansion, but `law of leasts` clearly deepens here
+- `organizational balance` looks important, but remains transparent enough to stay out of the glossary for now
+- the next clean move is `5.2`, where Bogdanov appears to widen from the worker's balance to the principles of the unified economic plan
+
+Review notes:
+
+- [visual candidate] a worker-balance diagram: expenditure / restoration / breakdown threshold
+- [visual candidate] a needs-bundle diagram under the law of leasts: calories / protein / shoes / reading
+- [visual candidate] a nonlinear loss curve comparing ordinary, responsible, and creative work
+
+## 2026-04-05 - The Plan Is Calculated Backward
+
+`5.2` is the first place where Bogdanov gives a genuinely compact planning grammar rather than a set of social-economic judgments. The section begins from Marx's critique of capitalist anarchy, but then strips the matter down to two tektological premises: society is a system of activities in an environment, and each of its parts stands in a functional relation to the whole. Everything else in the section is a consequence of those two premises.
+
+The strongest consequence is the direction of calculation. Bogdanov says the plan must begin from the final link of the chain mechanism, human needs, and work backward toward the upstream branches that make their satisfaction possible. That means planning is not a matter of projecting forward from available industrial capacity. It is a matter of deriving a norm of equilibrium from normalized budgets of labor-powers and dependents, then inferring the necessary production of means of consumption, then the necessary production of the means for producing those means, and so on through the whole chain.
+
+This makes `chain connection` and the `law of leasts` newly strong again. In `3.a.2` chain connection named a general connective form; here it becomes the grammar of interbranch dependence. In `4.2-4.3` the law of leasts named weakness and method; here it becomes the rule both of economic expansion and of post-catastrophe restoration. The most lagging branches become the practical bottlenecks, the places to be raised first. The planning problem is therefore not `everything at once`, but ordered ascent from the minima.
+
+What complicates the picture does not abolish it. Immediate survival can force a breach in the order of pure economic expediency. Foreign trade alters the coefficients. The peasant economy cannot be fully absorbed into the state plan, yet cannot be treated as external either. These are all boundary-conditions on the plan, not refutations of planfulness.
+
+Current conclusion:
+
+- `5.2` is a load-bearing section in chapter `5`, not a mere policy aside
+- no new term forced a new glossary entry, but both `chain connection` and `law of leasts` clearly deepen here
+- the most important local finding is methodological: the plan is calculated backward from needs
+- the next clean move is `5.3`, where Bogdanov appears to turn from planning method toward the doctrine of analogy
+
+Review notes:
+
+- [visual candidate] a backward-planning diagram: needs -> consumption goods -> means of production
+- [visual candidate] an interbranch chain with return-branches tightening the network
+- [visual candidate] a restoration ladder raising `0.2A -> 0.3B -> 0.5C ...` in order of minimality
+
+## 2026-04-05 - Delayed Review Notes on `4.5` and the Project Arc
+
+The strongest delayed question concerns the derivation at the end of `4.5`. I do not think Passage `E` alone fully derives Le Chatelier behavior. Taken by itself, it shows only that any incoming activity joining an equilibrium complex must lose some magnitude through deingression, so that the effective result is less than the arithmetic sum. That is enough to show compatibility with Le Chatelier's formula of counteraction, but not yet enough to explain the specifically directional character of that counteraction.
+
+The directional half of the derivation is given earlier, in Passage `B`. There Bogdanov analyzes the opposed micro-processes in the equilibrium complex and shows why, under disturbance, the changes that deepen the deviation from equilibrium are less stable while those that diminish it persist. That is what explains why the resulting process runs `against` the disturbance rather than merely falling short of its full arithmetic magnitude. The best reading, then, is that `B` and `E` are complementary halves of one derivation: `B` explains the directional asymmetry characteristic of equilibrium systems, while `E` shows that this asymmetry does not require a separate law beyond `analytic sum` once the equilibrium structure is given.
+
+At the whole-project level another conclusion now looks solid. By the end of chapter `4`, Bogdanov's system really does seem to operate with very few primitives: the four formative mechanisms, the regulating mechanism of selection, and the quantitative principle of `analytic sum`. The rest of the named concepts are repeatedly derived from or recomposed under those. This is no longer just programmatic self-description on Bogdanov's part; the run through chapters `2` to `4` has supplied enough evidence to treat it as a real structural feature of the system.
+
+One further project-level point now seems earned: volume `1` has a natural boundary. With chapter `5` underway, this is no longer an indefinite march but a finite run toward the close of the volume. That matters for discipline: broader synthesis promotion should probably wait for that local arc to finish.
+
+Current conclusion:
+
+- on `4.5`, Passage `E` alone gives compatibility, not the full derivation
+- the reduction works if `B` and `E` are read together as a two-stage argument
+- the system-tightness of the project now looks confirmed rather than merely suspected
+- the strongest cross-project convergence still appears to be the critique of naive addition alongside Jünger, but it should remain local until chapter `5` is complete
+
+## 2026-04-05 - Analogy Is Not Yet Tektology
+
+`5.3` is a methodological hinge. Bogdanov uses Petrovich's doctrine of analogies not simply to review a neighboring project, but to define the line where a neighboring project stops short of tektology.
+
+The positive side is substantial. Analogies are not dismissed as mere ornament. They can begin in metaphor, become heuristic instruments, guide the search for mechanisms, permit the transfer of methods from one domain to another, and even ground predictions about the course of phenomena. Petrovich's work is valuable because it systematizes those possibilities instead of leaving them at the level of occasional ingenuity.
+
+But the limit is equally sharp. Collecting analogies, classifying roles, and even verifying some analogical transfers still does not explain why the analogies hold. Bogdanov's decisive move is to demand grounds. If human and microbial functions are analogous, that is not only because similar curves or roles can be observed, but because a determinate structure underlies the functions in both cases. Analogy, then, becomes scientifically complete only when it points through itself toward universal types and regularities of structure.
+
+That makes this section unusually relevant to the present project. It offers a direct methodological warning against mistaking cross-domain resonance for structural convergence. An echo between texts may be real and worth recording, but until some explanatory ground can be shown it remains analogy in Bogdanov's sense, valuable but incomplete. `5.3` therefore gives a principled basis for the restraint the project has been practicing with deferred synthesis notes.
+
+Current conclusion:
+
+- `5.3` is one of the clearest negative definitions of tektology in the volume
+- no new lexical pressure forced glossary change; the yield is methodological
+- the section justifies a stricter standard for promoting cross-project convergences beyond local journals
+- the next clean move is `5.4`, the final section of the volume
+
+Review notes:
+
+- [visual candidate] a ladder: metaphor -> scientific analogy -> structural explanation
+- [visual candidate] an analogy map showing course-similarity / role-similarity / mechanism / structural ground
+- [visual candidate] Newton's apple recast as the shift from accidental analogy to planful heuristic use

@@ -68,6 +68,18 @@ The main thread so far in `texts/zeitmauer`: the collision between measurable ti
 - `zm:130:world-language` extends the crisis beyond history proper: the charged earth-envelope carries a world-language in every transmission, and not only knowledge but substance changes.
 - `zm:131:intelligent-ship` crystallizes the crisis as magnetic passage: the ship itself has become intelligent, stronger answers arrive, and the earth as `Urgrund` seeks new fertility through godfall.
 - `zm:132:mantic-compass` extends the crisis into freedom and navigation: the compass becomes mantic precisely where responsibility becomes uncontrollable and steering itself doubtful.
+- `zm:145:proteus-work` extends the crisis into experiment directly: the will is free to act but not to turn back, and where the plan collides with the individual it prevails as toll.
+- `zm:146:world-plan-research` crystallizes the crisis as research-legitimation: successful experiment appears as visible progress in `Weltplan`, and degrading intrusions are moralized by number.
+- `zm:147:method-way` crystallizes the crisis beneath explicit debate: method is tied back to way, and decision or dialectic only continue a prior yes.
+- `zm:148:vorweisung` extends the crisis into general consciousness: the researcher shows in advance what the age is already becoming able to accept, and conductivity replaces astonishment.
+- `zm:149:nomos-loss` crystallizes the crisis at the level of boundary itself: the deepest shudder lies not in physical threat alone, but in the vanishing of nomos and of divine guardianship over form.
+- `zm:150:artificial-insemination` extends the crisis into species-technique: a seemingly limited procedure is judged more consequential by principle than even the world wars.
+- `zm:151:new-descent` extends the crisis into legal lag: acceptance precedes legislation, and biological novelty outruns juridical foresight.
+- `zm:152:father-claim` crystallizes the crisis again at the time wall: the father-claim and the new human category appear where debate circles but practice advances, and the invisible share outweighs the visible.
+- `zm:153:evolution-responsibility` extends the crisis into state uptake and evolutionary guilt: registry, monopolization, earth-spiritual differentiation, and responsibility for evolution all belong to one line.
+- `zm:154:protean-power` crystallizes the crisis beneath experiment itself: the laboratory and its specific intelligence are only auxiliary signs of a deeper protean movement.
+- `zm:155:new-type` extends the crisis into anthropological formation: the `New House` changes the setup itself, a new type forms nations and races, and potential multiplies under contradictory environmental signs.
+- `zm:156:decadence-insular` extends the crisis into scale and historical judgment: `décadence` becomes second-rank and insular once the larger formation comes into view, while barbarism emerges as the sharper danger.
 - `thread:predecided-world` extracts one decisive branch of the dossier: the field of action, naming, and perception is being cut in advance by plan, measure, and technical ordering.
 - `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.
 - `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.
@@ -153,6 +165,18 @@ Jünger's strategy is to lead the reader out of the apparently "occult" cases an
 - recourse to undifferentiated reserves and primal generation in `zm:142:primal-generation`
 - hominisation crisis where world-history and earth-history collide in `zm:143:hominisation-crisis`
 - the time wall as last boundary-mark in the antaean revolt in `zm:144:time-wall-revolt`
+- the return to experimental intervention and the plan's victory over the individual in `zm:145:proteus-work`
+- research as visible progress in `Weltplan` and statistics as morality of the digit in `zm:146:world-plan-research`
+- method as way, and the inviolability of science as continuation of a prior yes, in `zm:147:method-way`
+- `Vorweisung`, acceptance by general consciousness, and accelerating conductivity in `zm:148:vorweisung`
+- nomos-loss and the protean shudder as attack from the birthing `Urgrund` in `zm:149:nomos-loss`
+- artificial insemination as a species-level fate-change by principle rather than extent in `zm:150:artificial-insemination`
+- new descent and the already-accomplished acceptance of the `Vorweisung` in `zm:151:new-descent`
+- the father-claim, the new human category, and the experiment advancing through circular debate at the time wall in `zm:152:father-claim`
+- concealed descent, registry, state monopolization, and responsibility for evolution in `zm:153:evolution-responsibility`
+- the experimental surface demoted before a deeper protean causality in `zm:154:protean-power`
+- the `New House`, the new type, and the multiplication of potential in `zm:155:new-type`
+- `décadence` reduced to an insular late-sign under enlarged scale in `zm:156:decadence-insular`
 
 ## Commentary Use
 

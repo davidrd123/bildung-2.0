@@ -148,6 +148,12 @@ def normalize_text(text: str) -> str:
         "hue lias": "huellas",
         "La' literatura": "La literatura",
         "no es' el": "no es el",
+        "capacidad dé ser": "capacidad de ser",
+        "plebeyos Del griego": "plebeyos. Del griego",
+        "una sola ! virtud": "una sola virtud",
+        "siglo.Los": "siglo. Los",
+        "en síes la": "en sí es la",
+        "consiguelo que": "consigue lo que",
     }
     for old, new in replacements.items():
         value = value.replace(old, new)
@@ -172,6 +178,47 @@ def detect_issues(text_value: str) -> list[str]:
     if re.search(r"!{2,}|!—", text_value):
         issues.append("separator-noise")
     return issues
+
+
+def update_entry(entry: dict[str, object], text_value: str) -> None:
+    entry["es"] = normalize_text(text_value)
+    entry.pop("issues", None)
+    issues = detect_issues(str(entry["es"]))
+    if issues:
+        entry["issues"] = issues
+
+
+def repair_live_seams(entries: list[dict[str, object]]) -> None:
+    by_id = {int(entry["id"]): entry for entry in entries}
+
+    # A minus-sign variant in the PDF fused two aphorisms, while the next page
+    # split one aphorism in two. Repack this local pocket so later batching
+    # uses the printed sequence without renumbering the whole file.
+    snapshot = {i: by_id[i].copy() for i in range(319, 325)}
+
+    fused = str(snapshot[319]["es"])
+    left, right = fused.split("−", 1)
+
+    update_entry(by_id[319], left.strip())
+    update_entry(
+        by_id[320],
+        right.strip().replace("n o perdona", "no perdona"),
+    )
+    update_entry(by_id[321], str(snapshot[320]["es"]))
+    update_entry(by_id[322], str(snapshot[321]["es"]))
+
+    by_id[323]["pdf_page"] = snapshot[322]["pdf_page"]
+    if "print_page" in snapshot[322]:
+        by_id[323]["print_page"] = snapshot[322]["print_page"]
+    update_entry(by_id[323], str(snapshot[322]["es"]))
+
+    by_id[324]["pdf_page"] = snapshot[323]["pdf_page"]
+    if "print_page" in by_id[324]:
+        by_id[324].pop("print_page", None)
+    update_entry(
+        by_id[324],
+        f"{str(snapshot[323]['es']).strip()} {str(snapshot[324]['es']).strip()}",
+    )
 
 
 def extract_entries(text: str) -> list[dict[str, object]]:
@@ -241,6 +288,7 @@ def extract_entries(text: str) -> list[dict[str, object]]:
             entry["issues"] = issues
         entries.append(entry)
 
+    repair_live_seams(entries)
     return entries
 
 

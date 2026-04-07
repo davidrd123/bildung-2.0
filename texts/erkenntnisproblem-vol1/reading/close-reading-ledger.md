@@ -165,6 +165,50 @@ Current downstream use:
 - reflected in Part `53`
 - held locally for now rather than promoted into the glossary
 
+### Potency critique: boundary concept turned metaphysical essence
+
+Passage base:
+
+- Part `54`
+- Campanella to Patrizzi transition on printed pages `212-214`
+
+Finding:
+
+- Cassirer locates the fault-line in Aristotle's concept of `Potenz` at the point where a pure `Grenzbegriff des Denkens` is transformed into a metaphysical determination of being
+- the later scholastic oscillation between passive possibility and active self-striving is treated as the consequence of that original ontological confusion
+
+Why it matters:
+
+- this is not just another Renaissance polemic against scholasticism
+- the critique is methodological and genealogical: a logical negation has been reified into a factor of nature
+
+Current downstream use:
+
+- reflected in Part `54`
+- candidate for later cross-reference if Book II keeps tracing reified abstractions back into scientific concepts
+
+### Agrippa / Paracelsus: the human as `Bild des Bildes`
+
+Passage base:
+
+- Part `55`
+- printed pages `217-219`
+
+Finding:
+
+- Cassirer now gives the Agrippa-to-Paracelsus turn a precise epistemic form: the human being is not the direct image of the divine, but the `image of the image`
+- self-knowledge is therefore mediated through the whole organic reality rather than secured by inward immediacy
+
+Why it matters:
+
+- the microcosm doctrine is doing more than repeating an analogy between man and world
+- it makes the knowledge of the human dependent on a prior reading of the total law embodied in nature
+
+Current downstream use:
+
+- reflected in Part `55`
+- held locally for now while the Paracelsus arc shows whether this mediated-knowledge structure keeps governing the chapter
+
 ## Boundary
 
 This ledger is not a second journal and not a free synthesis file.

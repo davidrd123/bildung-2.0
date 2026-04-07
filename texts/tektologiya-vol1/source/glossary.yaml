@@ -90,7 +90,7 @@
     - "chain linkage"
     - "linked connection"
   status: tentative
-  notes: "By `3.a.2` this becomes the structural bridge term between `conjugation` and `ingression`: the organized form produced through common links. `Chain connection` is slightly hard in English, but it preserves both the linked-image and the formal generality Bogdanov wants."
+  notes: "By `3.a.2` this becomes the structural bridge term between `conjugation` and `ingression`: the organized form produced through common links. By `5.2` it is widened into a macro-economic planning term: branches of production stand in chain connection because each furnishes conditions for the others, with return-branches tightening rather than weakening the linkage. `Chain connection` is slightly hard in English, but it preserves both the linked-image and the formal generality Bogdanov wants."
 
 - term: "организованность / дезорганизованность"
   kind: concept_pair
@@ -198,7 +198,7 @@
     - "law of least favorable conditions"
     - "law of the minimum"
   status: tentative
-  notes: "By `4.2-4.3` Bogdanov presents this as the looser, more usable formula of the law of relative resistances, especially for social-organizational practice. `4.3` makes it into a practical schema across technique, pedagogy, politics, and cultural explanation: under determinate impacts it yields concentration and shielding, under indeterminate ones equalization. `Law of the minimum` remains necessary for Liebig's agronomic case, but `law of leasts` better preserves Bogdanov's own generalized, slightly hard wording. The section also marks a limit: explaining `leveling to the lowest` is not yet the same as solving it."
+  notes: "By `4.2-4.3` Bogdanov presents this as the looser, more usable formula of the law of relative resistances, especially for social-organizational practice. `4.3` makes it into a practical schema across technique, pedagogy, politics, and cultural explanation: under determinate impacts it yields concentration and shielding, under indeterminate ones equalization. `5.1` then extends it inward to the worker-complex itself: calories, proteins, shoes, and even stabilized cultural supports can all function as limiting links. `5.2` generalizes it once more to the economy as a whole: expansion is bounded by the most lagging branch, and reconstruction must proceed by raising the minimal coefficients first. `Law of the minimum` remains necessary for Liebig's agronomic case, but `law of leasts` better preserves Bogdanov's own generalized, slightly hard wording. The section also marks a limit: explaining `leveling to the lowest` is not yet the same as solving it."
 
 - term: "слитность / четочность"
   kind: concept_pair
@@ -208,3 +208,21 @@
     - "compactness / beadedness"
   status: tentative
   notes: "By `4.4` this pair becomes structurally real. Bogdanov himself says the terms are only provisional and should not be taken as literal physical imagery: what they name is the relative quantity and evenness of a complex's contacts with its environment. `Fusedness` is favored under negative selection, `beadedness` under positive selection, so long as the environment is treated as indeterminate in the sense clarified at the end of the section."
+
+- term: "система равновесия / неуравновешенная система"
+  kind: concept_pair
+  preferred: "equilibrium system / unbalanced system"
+  alternatives:
+    - "system of equilibrium / nonequilibrium system"
+    - "equilibrated / unequilibrated system"
+  status: tentative
+  notes: "By `4.5` this pair becomes structurally load-bearing. The point is not static rest, but whether a system preserves a given structure in a given environment by internal counter-processes, or instead continues to transform in one prevailing direction. `Unbalanced` currently works better than `nonequilibrium` because the latter sounds too much like imported later terminology."
+
+- term: "ложное равновесие"
+  kind: concept
+  preferred: "false equilibrium"
+  alternatives:
+    - "apparent equilibrium"
+    - "pseudo-equilibrium"
+  status: tentative
+  notes: "By `4.5` this names a system that only seems equilibrated because the ongoing transformation is too slow or too fine for current observation. The detonating-gas example matters because the later explosion is not a new process but the acceleration of the process already underway."

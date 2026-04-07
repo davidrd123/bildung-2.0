@@ -10,7 +10,7 @@ They are not replacements for:
 
 They sit between those layers. A thread gathers a recurring problem, image, or conceptual path into a reusable dossier that the viewer, notes, and agents can traverse directly.
 
-Current seed threads:
+Current threads:
 
 - `thread:time-crisis`
 - `thread:mumford-bridge`

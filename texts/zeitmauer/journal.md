@@ -1299,3 +1299,121 @@ Decisions:
 - extend `thread:time-crisis` through `§142`, where catastrophe is made insufficient and recourse to undifferentiated reserves and primal generation is required
 - extend `thread:time-crisis` through `§143`, where hominisation enters crisis and world-history collides with earth-history
 - extend `thread:time-crisis` through `§144`, where the time wall becomes the last boundary-mark in an antaean revolt after godfall
+
+## 2026-04-05 — Proteus-Work, World-Plan Research, and Method as Way
+
+Translated `§§145-147` under `parts/49-siderische-einteilungen.md`.
+
+This batch carries Part 4 from mythic revolt into experiment, research-legitimation, and method as a path already affirmed before explicit choice. `§145` returns to the factory wastewaters and argues that the horror is not directed at laboratories as such but at the phenomena that answer them; the plan, where it collides with the individual, is said to prevail. `§146` then gives research one of its strongest justifications in the book: the successful experiment appears as visible progress in `Weltplan`, beyond ordinary political and moral resistance. `§147` closes by pushing the whole problem below debate. Method is tied back to `way`, and every decision or dialectic is said only to confirm a deeper yes already lodged beneath thought.
+
+Working observations:
+
+- `§147` is the structural center. The decisive move is that method is said to be affirmed in a deep layer prior to thought, so that explicit decision does not found the direction but merely continues it.
+- `§146` matters because it sharpens `Weltplan` in a new register. Research is not only tolerated or funded; it is legitimated as visible progress in a plan superior to the state plans, and that is why it receives `world-sympathy`.
+- `§145` matters because it gives the clearest recent asymmetry of freedom. The will is free to act, but not to turn back or not to act, and that pushes the `predecided-world` thread deeper into the experiment itself.
+- `§146-147` also matter because they clarify why resistance remains weak. The experiment is treated as value-free, near-playful, and structurally immune from the questions normally asked of politics; by `§147` that immunity is traced to an assent deeper than argument.
+- No new glossary entries are earned. The main gains are three new anchors, one new `Weltplan` evidence point, a strong extension of `thread:predecided-world`, and a continued extension of `thread:time-crisis`.
+
+One passage still at risk:
+
+- `Proteusarbeit -> Proteus-work` in `§145` remains somewhat risky.
+- difficulty type: `contextual` plus `residual`
+- why: the mythic-metabolic force is clear, but it is still not certain whether later pages will justify the slightly hard noun or force a smoother `Protean work`
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§145-147`
+- extend `Weltplan` with a new evidence point from `§146`
+- extend `thread:time-crisis` through `§145`, where the will is free to act but not to reverse course and the plan prevails over the individual
+- extend `thread:time-crisis` through `§146`, where research appears as visible progress in `Weltplan` and statistics become the morality of the digit
+- extend `thread:time-crisis` through `§147`, where method is tied back to way and science's inviolability is grounded beneath explicit decision
+- extend `thread:predecided-world` through `§145`, `§146`, and `§147`, where experiment, research, and method all appear as prior structuring forces rather than neutral instruments
+
+## 2026-04-05 — Vorweisung, Nomos-Loss, and Artificial Insemination
+
+Translated `§§148-150` under `parts/50-siderische-einteilungen.md`.
+
+This batch carries Part 4 from method as way into `Vorweisung`, nomos-loss, and the artificial-insemination example. `§148` argues that the difference between scientific and `Allgemeinbewußtsein` is only gradual, not substantial, and names the researcher as `Vorweiser`, the one who shows in advance what soon becomes ordinary setup. `§149` deepens the same line through the disappearance of boundaries and the fading of divine guardianship over form, so that the protean display awakens horror less as destruction than as an attack from the generative `Urgrund`. `§150` then makes the issue concrete: artificial insemination is treated as a seemingly modest operation whose principle bears more heavily on human fate than even the world wars.
+
+Working observations:
+
+- `§148` is the structural center. The decisive move is that `Vorweisung` is treated as a mechanism of advance acceptance by general consciousness: the researcher does not create a private exception, but shows ahead what the age is already becoming able to receive.
+- `§149` matters because it relocates the shudder. The deepest horror does not lie only in visible deformity or physical threat, but in the recession of nomos and of the gods as guardians of form.
+- `§150` matters because it gives the strongest concrete case so far of a procedure that matters by principle rather than by scale. Artificial insemination is said to announce a possible species-level `Schicksalsveränderung`.
+- `§148-150` also deepen `thread:predecided-world`: not only the experiment itself but its reception is pre-shaped. Conductivity increases, resistance weakens, and the display is accepted before the discussion can master it.
+- No new glossary entries are earned yet. The main gains are three new anchors, a strong extension of `thread:predecided-world`, and a continued extension of `thread:time-crisis` through `Vorweisung`, nomos-loss, and species-technique.
+
+One passage still at risk:
+
+- `Vorweiser / Vorweisung` left in German in `§148-150`
+- difficulty type: `contextual` plus `residual`
+- why: the family is clearly structural, but it is still not clear whether later sections will justify a stable English pair or require continued local handling
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§148-150`
+- do not yet promote `Vorweiser / Vorweisung` into the glossary
+- extend `thread:time-crisis` through `§148`, where advance showing and general consciousness become a new acceleration-mechanism
+- extend `thread:time-crisis` through `§149`, where nomos-loss and the protean shudder move the problem from visible threat to boundary-collapse
+- extend `thread:time-crisis` through `§150`, where artificial insemination is judged more consequential by principle than the world wars
+- extend `thread:predecided-world` through `§148-150`, where the display, its acceptance, and its species-level consequences are all treated as prior structuring forces rather than neutral events
+
+## 2026-04-05 — New Descent, Father-Claim, and Evolutionary Responsibility
+
+Translated `§§151-153` under `parts/51-siderische-einteilungen.md`.
+
+This batch carries Part 4 from the exemplary case of artificial insemination into descent, registration, and state uptake. `§151` argues that the weak attention paid to the procedure is itself a sign of world-turn and that the acceptance of the `Vorweisung` is already accomplished. `§152` then shifts the issue beneath moral and juridical categories into the claim to a father, a new human category, and an experiment that advances through circular debate into practice at the time wall. `§153` closes by widening the same process into concealed descent, compulsory registers, state monopolization, earth-spiritual differentiation, and the guilty freedom of taking responsibility for evolution.
+
+Working observations:
+
+- `§152` is the structural center. The decisive move is that the novelty is said not to belong primarily to morality or law, but to a new human category whose visible share is smaller than its invisible consequences.
+- `§151` matters because it removes the issue from the register of pending debate. The acceptance of the `Vorweisung` is already said to have occurred, and law can only channel a biological novelty whose consequences outrun it.
+- `§153` matters because it joins administrative, biological, and political uptake in one view: registry, new estate, state monopolization, earth-spiritual differentiation, and the assumption of responsibility for evolution are treated as one process.
+- `§152-153` also deepen `thread:predecided-world`: not only the display and its reception, but descent, registration, and even the state's future role are pre-shaped before the discussions can master them.
+- No new glossary entries are earned yet. The main gains are one new title evidence point, new `erdgeistig` and `erdgeschichtlich` evidence points, and strong extensions of `thread:time-crisis` and `thread:predecided-world`.
+
+One passage still at risk:
+
+- `Artung` left in German in `§151`
+- difficulty type: `lexical` plus `residual`
+- why: the word names more than a new category or species but less than a fully settled doctrine; the local pressure is real, but the English is not yet earned
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§151-153`
+- extend `An der Zeitmauer` with a new internal evidence point from `§152`, where the experiment is said to move in the intermediate field at the time wall and the invisible share outweighs the visible
+- extend `erdgeistig` with a new evidence point from `§153`, where the plan's reduction of erotic life corresponds to a tendency visible wherever nature approaches state-formation
+- extend `erdgeschichtlich` with a new evidence point from `§153`, where human guilt and freedom are said to do more than merely perceive an earth-historical movement
+- extend `thread:time-crisis` through `§151`, where acceptance precedes legislation and biological novelty outruns juridical foresight
+- extend `thread:time-crisis` through `§152`, where the father-claim and circular debate place the experiment in the intermediate field at the time wall
+- extend `thread:time-crisis` through `§153`, where registry, monopolization, and evolutionary responsibility appear as one line
+- extend `thread:predecided-world` through `§151-153`, where descent, registration, and state uptake are shown as shaped in advance rather than neutrally emerging
+
+## 2026-04-05 — Protean Power, New Type, and Decadence Rescaled
+
+Translated `§§154-156` under `parts/52-siderische-einteilungen.md`.
+
+This batch carries Part 4 from evolutionary responsibility into the deeper power behind experiment, the emergence of a new type beyond Spengler's late-time schema, and the downgrading of `décadence` under a larger scale of view. `§154` argues that the genetic experiment and the specific intelligence bound up with it are only auxiliary signs of a deeper protean power, not its cause. `§155` then generalizes the change beyond experiment into habitus, type, worker-optimism, population, and the multiplication of potential. `§156` closes by treating `décadence` as second-rank and insular once the map is enlarged, while barbarism appears as the graver danger.
+
+Working observations:
+
+- `§154` is the structural center. The decisive move is that experiment and the intelligence operating with it are demoted from cause to symptom and assistance; the real movement comes from a deeper power working through them.
+- `§155` matters because it refuses to localize the change in the laboratory. The `New House` changes the setup itself, a new type forms nations and races, and even contradictory environmental signs are subordinated to a multiplication of reserves and potential.
+- `§156` matters because it rescales the whole diagnosis. `Décadence` is no longer the dominant horizon; seen in a larger formation, it becomes local and even preservative, while barbarism becomes the sharper threat.
+- `§154-155` also deepen `thread:predecided-world`: not only the experiment and its reception, but the very intelligence that carries it is treated as an instrument of a prior shaping power.
+- No new glossary entries are earned yet. The main gains are three new anchors, a strong extension of `thread:time-crisis`, and a more cautious extension of `thread:predecided-world`.
+
+One passage still at risk:
+
+- `Spitzenbegegnungen -> surface encounters` in `§154`
+- difficulty type: `lexical` plus `residual`
+- why: the point is clearly that the debate meets the process only at exposed points, but the exact English register is still not fully settled
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§154-156`
+- extend `thread:time-crisis` through `§154`, where experiment and specific intelligence are reduced to auxiliary signs of a deeper protean power
+- extend `thread:time-crisis` through `§155`, where the `New House`, the new type, and the multiplication of potential generalize the change beyond experiment
+- extend `thread:time-crisis` through `§156`, where `décadence` becomes second-rank and insular under a larger scale of view
+- extend `thread:predecided-world` through `§154`, where experiment is explicitly treated as assistance rather than origin
+- extend `thread:predecided-world` through `§155`, where the setup itself changes and a new type forms nations and races before any single experiment can account for it
