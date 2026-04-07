@@ -7,6 +7,7 @@ Inputs:
 - `00-Notes/DeepResearch/2026-04-04/replies/01A.md`
 - `00-Notes/DeepResearch/2026-04-04/replies/01B_03A.md`
 - `00-Notes/DeepResearch/2026-04-04/replies/03B_03G.md`
+- `00-Notes/DeepResearch/2026-04-04/replies/productive-generative.md`
 
 This note treats the returns as useful pressure, not as authority.
 
@@ -19,6 +20,16 @@ The replies are strong enough to keep. They cite specific files, make clean clas
 - the filter is stronger against loud inflation than against quiet, plausible overreach
 
 That is the main keeper.
+
+The later `productive-generative` return also confirms that the translation-first surface is working as intended:
+
+- pressure types are being cleanly distinguished
+- immediate fixes are being separated from honest deferrals
+- glossary discipline is being preserved
+- journal extraction is finding real cross-batch observations
+- the next-move selector is staying source-bound
+
+So the productive surface currently looks like a keeper, not a problem.
 
 ## Most valuable findings
 
@@ -108,6 +119,29 @@ It is:
 
 That is the right level of honesty.
 
+### 6. The productive-generative prompts are doing real work
+
+The `productive-generative` reply is strong for a different reason than the audit-style returns.
+
+It shows that the lighter surface can produce:
+
+- real pressure classification
+- clean `fix now` versus `wait` decisions
+- disciplined "none are forced" glossary outcomes
+- small journal findings that actually matter beyond the batch
+- a single concrete next move without meta-inflation
+
+That is exactly what that surface was supposed to do.
+
+The most useful specific confirmation is that the classifications lead to different actions:
+
+- `lexical` means fix the English now
+- `contextual` means carry the pair or argument forward together
+- `edition` means recheck the source before polishing
+- `residual` means accept real resistance and wait for more context
+
+That is a good sign that the prompt is not just producing polished commentary. It is producing operational distinctions.
+
 ## What converges across the replies
 
 The single most actionable recommendation appears more than once:
@@ -175,6 +209,18 @@ They show:
 
 That is a more grounded picture than the older audit frame implied.
 
+### 4. Do not burden the productive surface too early
+
+The `productive-generative` reply is confident and clean, and one possible watchpoint is that it may become too confirmatory over repeated use.
+
+That is worth watching, but not yet worth solving by making Prompt A heavier.
+
+If the pattern repeats, the right move is probably not to burden every run. It is to add an occasional spot-check question such as:
+
+- identify one place where the current draft may be wrong, not merely rough
+
+For now, the better judgment is to keep the productive surface light and watch whether the confirmatory tendency becomes real.
+
 ## Practical takeaway
 
 Keep these as the actual conclusions from the reply set:
@@ -184,11 +230,13 @@ Keep these as the actual conclusions from the reply set:
 3. Reserve can become ambient pre-earning through repetition.
 4. The handle schema is real grammar, but not yet fully proven ontology.
 5. The work remains text-led because countermeasures are active.
+6. The productive-generative prompts are functioning well and should stay light unless a confirmatory groove becomes obvious.
 
 If anything should change from these replies, keep it small:
 
 1. Add the handle-schema scope sentence.
 2. Use rival-reading / weakening-evidence selectively on important distillations and architectural notes.
 3. Watch reserve creep, especially around Peirce, rather than merely naming it.
+4. Leave `productive-generative.md` alone for now; if repeated runs become too confirmatory, add an occasional wrongness-check rather than making the whole surface heavier.
 
 That is enough. The replies do not justify another wave of meta-process.

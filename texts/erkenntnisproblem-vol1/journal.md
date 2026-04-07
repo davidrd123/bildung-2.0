@@ -1310,3 +1310,55 @@ Decision for now:
 
 - continue directly into the next `Naturphilosophie` tranche from the broken sentence on the bodily processes in Paracelsus
 - keep watching whether the mediated-self-knowledge structure remains central enough in the Paracelsus run to deserve a glossary or cross-project trace
+
+## 2026-04-06 - Second-pass pressure map for the late Cusanus arc
+
+With the source PDF absent in this checkout, a fresh tranche continuation was blocked. So instead of forcing speculative forward motion, I ran a bounded second-pass reread across Parts `12-15`, using only:
+
+- the corrected German already embedded in the tranche files
+- `source/cusanus-generative-chain.yaml`
+- the current glossary and prior review notes
+
+What this pass clarified:
+
+- the real second-pass unit is not an isolated page or paragraph, but the late Cusanus culmination from `mathematica perfectio` through `scientia infinita`
+- the main reread criterion is whether the English preserves conceptual transfer rather than merely sentence-level adequacy
+- four pressure clusters now stand out clearly: symbolic mathematics -> productive mathematics, `ratio` -> `intellectus`, `emanatio` -> logical relation, and `non aliud` / absolute being -> `scientia infinita`
+- the current English was mostly sound at the sentence level, but several places were still too inert or too jargon-heavy to carry the generative movement Cassirer is tracking
+
+Concrete changes landed:
+
+- added `reading/2026-04-06-cusanus-second-pass-pressure-map.md`
+- tightened selected English phrasing in Parts `12-15` where the current draft flattened the movement or stiffened into dead technical language
+
+Decision for now:
+
+- use this bounded late-Cusanus reread as the template for future second passes in this project: closed arc, existing corrected German, glossary check, argument-pressure first
+- do not widen this into a full Cusanus harmonization pass yet
+- keep the construction-kit glossary only as a candidate until repeated rereads actually force it
+
+## 2026-04-06 - Second pass on Cusanus Parts 10-11
+
+To close the Cusanus chapter as a reread unit, I ran the same bounded second pass on Parts `10-11` that I had just used on Parts `12-15`.
+
+Constraint remained the same:
+
+- no fresh PDF audit; work based only on the corrected German embedded in the tranche files
+- checked against `source/cusanus-generative-chain.yaml`, especially the `mathematical-assimilation-and-signs` and `infinitesimal-and-new-substance` nodes
+
+What this pass clarified:
+
+- Part `10` is the real hinge where `assimilatio` becomes explicitly mathematical and where the doctrine of signs is folded back into idealism
+- the English was already accurate in the large, but several sentences still made the reversal sound too reportorial: exact concepts are not extracted from impressions, but function as presuppositions and measures
+- Part `11` works best when the line / point, time / now, and motion / rest sequence is felt as one generative chain leading toward the `quidditas` / `quantitas` distinction and the new concept of substance
+- the carbuncle passage has to stay functional, not merely illustrative: substance is being detached from mass and reread through efficacy
+
+Concrete changes landed:
+
+- tightened selected English phrasing in Parts `10-11` to make the mathematical reversal and the lawful status of signs more explicit
+- clarified the infinitesimal sequence in Part `11` so the transition from indivisible ground to proto-Leibnizian substance reads as one continuous argument
+
+Decision for now:
+
+- treat Parts `10-15` as the reread-stable late Cusanus run for this chapter
+- keep `source/glossary.yaml` unchanged until repeated pressure forces term-level revision

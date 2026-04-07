@@ -124,6 +124,19 @@ Each thread dossier or cross-project note that makes a developmental or structur
 
 These belong as sections in the dossier itself, not as separate files.
 
+### Retrieval-visible cues
+
+When close reading yields a clearly earned distinction that later search would likely miss, record that distinction once in the nearest existing artifact.
+
+Prefer local additions over new structures. Good forms include:
+
+- a false-friend warning in a glossary entry
+- a `do not confuse with` line in a thread dossier
+- a short bridge phrase in an encounter note
+- a thread pointer or alternate phrasing in a journal entry
+
+Keep these cues compact. They are not a new metadata layer. They are a way of making source-earned distinctions easier to find later without flattening them into a retrieval ontology.
+
 ### For the handle layer
 
 `challenges` is an active relation type (see `patterns/handle-schema.md`). Use it when:
@@ -177,12 +190,12 @@ Living list. Updated as threads advance or stall.
 |--------|--------|------|-------------|
 | Goethe/Leibniz split | Active — central diagnostic | `cross-domain-synthesis-threads.md` | 2026-03-31 |
 | Cybernetics braided river | Active — genealogy mapped, tributaries identified | `cross-domain-synthesis-threads.md` | 2026-03-29 |
-| The Cassirer node | Active — connects all three texts | `cross-domain-synthesis-threads.md` | 2026-03-29 |
+| The Cassirer node | Active — connects all three texts and now has denser local apparatus inside Cassirer work | `cross-domain-synthesis-threads.md` | 2026-04-04 |
 | Barrett constructed categories | Active — epistemological ground for the translation / decryption method | `cross-domain-synthesis-threads.md` | 2026-03-30 |
 | Schuon limit | Placed — names the honest boundary of textual recovery | `cross-domain-synthesis-threads.md` | 2026-03-31 |
 | Rosen: models vs. simulations | Placed — maps onto close/free split | `cross-domain-synthesis-threads.md` | 2026-03-29 |
-| Practice queue (source encounter + decryption) | Active — revised around practical coupling to live work and generalized opacity | `cross-domain-synthesis-threads.md` | 2026-04-01 |
-| Anders bridge | Active — source campaign complete; bridge clarified | `cross-domain-synthesis-threads.md` | 2026-04-02 |
+| Practice queue (source encounter + decryption) | Active — revised around practical coupling to live work and generalized opacity | `cross-domain-synthesis-threads.md`, `00-Notes/Chats/2026-04-06/extractions/2026-04-06_actual-questions-from-planmaessigkeit-uexkuell-chat.md` | 2026-04-06 |
+| Anders bridge | Placed — Band I campaign complete; bridge clarified and available for demand-led reuse | `cross-domain-synthesis-threads.md` | 2026-04-02 |
 | Predecided world | Active — Uexküll/Cassirer/Anders/Jünger world-cut connector | `cross-domain-synthesis-threads.md` | 2026-04-02 |
 | Empirical morphogenesis line | Active — Levin corpus linked to the braided river | `cross-domain-synthesis-threads.md` | 2026-04-01 |
 | Action-conditioned real | Active — von Foerster + late Zeitmauer + Cassirer + Dick | `cross-domain-synthesis-threads.md` | 2026-04-02 |
@@ -196,9 +209,10 @@ Living list. Updated as threads advance or stall.
 | Thread | Status | Home | Next move |
 |--------|--------|------|-----------|
 | Project charter | **Done** | `patterns/charter.md` | — |
+| Handle schema | **Done** | `patterns/handle-schema.md` | Extend only under live pilot pressure; keep strongest implementation local to `texts/zeitmauer/` until a second pilot is earned |
 | Frame layer | Reserved in schema, experimental in practice — not yet earned as a crystallized object layer | `genealogy-to-instrument.md` §1 | Keep frame use in living dossiers; crystallize only after repeated frame-reads across anchors/projects |
 | Cross-project atomic layer | Missing — atomic candidates in prose only | `genealogy-to-instrument.md` §2 | Pick format, extract highest-value atoms |
-| Relation vocabulary | Missing — types identified, not codified | `genealogy-to-instrument.md` §3 | Write `patterns/relations.md` |
+| Relation vocabulary | Partial — compact types exist in `patterns/handle-schema.md` and the `zeitmauer` pilot; a separate crystallized doc is not yet earned | `genealogy-to-instrument.md` §3 | Keep using the compact vocabulary in live work; split into `patterns/relations.md` only if cross-project reuse forces it |
 | Object lifecycles | Missing — statuses exist per-project, not unified | `genealogy-to-instrument.md` §4-7 | Write `patterns/objects.md` |
 | Agent-memory conventions | Missing | `genealogy-to-instrument.md` §5 | Write `patterns/agent-conventions.md` |
 | Dynamic view layer | Missing — the instrument frontier | `genealogy-to-instrument.md` §6 | Design spike after handles stabilize |
@@ -208,13 +222,13 @@ Living list. Updated as threads advance or stall.
 
 | Project | Progress | Current edge |
 |---------|----------|-------------|
-| `texts/erkenntnisproblem-vol1/` | 54 parts; Book II `Naturphilosophie` active; close-reading ledger live | Part 55 from the broken Patrizzi quotation |
-| `texts/zeitmauer/` | 52 parts (§§156) | Late Siderische Einteilungen; protean-power / new-type / decadence-scale run active, handle pilot live through the translated range |
-| `texts/tektologiya-vol1/` | 10 parts | Progressive selection / structural crisis |
-| `texts/escolios/` | §§1-108 translated (8 section files) | Continuing sequential batches |
-| `texts/escolios-ii/` | 2 section files; extraction pipeline building | History-and-ruin opening; aphorisms.yaml restructuring |
-| `texts/exegesis/` | 17 passes (folders 02-04, 14-19, 23-30, 38); 3 thread dossiers | Stable; no recent pushes |
-| `sources/` | Uexküll complete (5 encounters); Anders Band I complete (5 encounters); modern sources growing | Next source move should be demand-led rather than queue-filling by default |
+| `texts/erkenntnisproblem-vol1/` | 55 parts; Book II `Naturphilosophie` active; close-reading ledger live; Cusanus second-pass map added | Part 56 from the broken sentence on bodily processes in Paracelsus; keep the Cusanus apparatus local unless later pressure forces promotion |
+| `texts/zeitmauer/` | 52 parts (`§§1-156`); handle pilot live through the translated range; thread extraction and visuals growing | Late `Siderische Einteilungen`; protean-power / new-type / decadence-scale run active; keep extending the pilot through live translation rather than widening by symmetry |
+| `texts/tektologiya-vol1/` | 17 parts; chapter 4 now well underway | Equilibrium / false equilibrium, labor and needs, unified plan, and doctrine of analogies |
+| `texts/escolios/` | Volume I first pass complete: 17 section files, `§§1-499`, minimal handle layer, selective second pass | Thicken only the load-bearing aphorisms when later work forces it |
+| `texts/escolios-ii/` | 15 real section files; Spanish source stabilized; Italian witness secondary | Keep batching from the cleaned Spanish source; repair extractor only where live reading exposes exact lies |
+| `texts/exegesis/` | 75 passes; first pass complete; second-pass knot syntheses and 10 thread files | Use the new knot structure to bridge the archive into workspace-level method without restarting a second first pass |
+| `sources/` | Uexküll complete; Anders Band I complete; modern source shelf present and growing | Next source move should stay demand-led rather than queue-filling by default |
 
 ## Maintenance
 
