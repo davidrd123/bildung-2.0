@@ -3,3 +3,4 @@ __pycache__/
 .obsidian/
 texts/*/output/
 sources/modern/incoming/books/
+sources/modern/incoming/local/

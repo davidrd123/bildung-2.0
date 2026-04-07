@@ -8,9 +8,9 @@ Documents referenced in project conversations but not yet stored. Enough context
 
 - **Mythos Preview System Card (full, ~240 pages)**
   Anthropic internal. Sections on welfare assessment, impressions, "The Sign Painter," cyber capabilities, interpretability. Meta-Harness.pdf in `incoming/` is a subset, not the full card.
+  → Store in `incoming/local/` (too large for git, ~20MB)
 
-- **"Everything Oscillates Together" — Bagatolli / Ling / yeast metabolic oscillations**
-  Substack: `anabology` publication. Yang-Ling isotherm replacing Michaelis-Menten. Three axioms (Generic Coupling, Biophysical Sufficiency, Tissue Coherence). Pressure on `term:substanzbegriff` / `term:funktionsbegriff`.
+- ~~**"Everything Oscillates Together" — Bagatolli / Ling / yeast metabolic oscillations**~~ → `incoming/anabology-everything-oscillates-together.md`
 
 - **@amahury0 thread — computation ≠ life, Cariani, semantic closure**
   Twitter/X thread. Shared as screenshot in Warburg chat. Parallel derivation of Rosen's closure argument from Cariani's cybernetics. "Which aspects of life are usefully computable and which depend on embodiment?"
