@@ -12,6 +12,9 @@ It is not the primary workspace for ordinary translation sessions.
 - `2026-04-04/peirce-gpt5pro-queue.md` — paste-ready GPT-5 Pro questions for the April 4 Peirce chat, ordered by priority.
 - `2026-04-04/punishing/` — harder audit prompts for protocol pressure, overclaim checks, and method hardening.
 - `2026-04-06/README.md` — post-processed intake surface for the April 6 source-role research set. Use this if the task is deciding whether an item is source-language commentary, continued primary work pressure, or thinker-on-thinker encounter.
+- `2026-04-07/warburg-mythos-chat-review.md` — bounded multi-pass review surface for the April 7 Warburg / Mythos chat pair. Use this before distilling or acting on their method claims.
+  Strong `5 Pro` use here is the skeptical pass, not the final return-path pass.
+- `2026-04-07/warburg-mythos-gpt5pro-queue.md` — paste-ready `5 Pro` tasks for the same chat pair once the review questions are sharp enough.
 
 ## Use
 
@@ -55,5 +58,13 @@ If the work is:
 - prepare a later agent or feature pass to pick up the category-2 / category-4 distinction cleanly
 
 start with `2026-04-06/README.md`.
+
+If the work is:
+
+- pass one rich chat or one paired chat set through multiple competing reads before distillation
+- separate immediate test objects from attractive overbuild
+- make a chat answer to repo evidence instead of to its own rhetoric
+
+start with `2026-04-07/warburg-mythos-chat-review.md`.
 
 The default should be the productive surface, not the punishing one.
