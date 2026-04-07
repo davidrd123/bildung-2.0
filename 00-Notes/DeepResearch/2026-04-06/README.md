@@ -1,16 +1,17 @@
 # 2026-04-06 DeepResearch
 
-Imported deep-research outputs centered on two source roles:
+Imported deep-research outputs centered on two candidate source roles:
 
 - source-language commentary
 - thinker-on-thinker encounters
 
 This folder is a post-processed staging surface, not a canonical layer.
+The role labels used here are provisional routing labels inferred from bibliographic and research context, not encounter-earned classifications of the unread texts themselves.
 
 ## Source-Role View
 
-- `Secondary_Sources_*` — mostly `2` = source-language commentary
-- `Thinker_on_Thinker_*` — mostly `4` = thinker-on-thinker encounter / `Auseinandersetzung`
+- `Secondary_Sources_*` — mostly candidate `2` = source-language commentary
+- `Thinker_on_Thinker_*` — mostly candidate `4` = thinker-on-thinker encounter / `Auseinandersetzung`
 
 What is mostly *not* in this folder is `3` = continued primary work. That role is already handled in practice by `sources/modern/`, and only appears here at the margins as descendant-line pressure.
 
@@ -70,3 +71,4 @@ If the work is:
 use this folder together with the two distillation notes above.
 
 Do not treat the imported files themselves as settled authority. Treat them as ranked intake surfaces.
+Do not treat a role assignment here as having passed through encounter. The point is to choose what to test next, not to settle what an unread text definitively is.
