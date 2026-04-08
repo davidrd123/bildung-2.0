@@ -231,6 +231,72 @@ Current downstream use:
 - reflected in Part `56`
 - held locally while the `Licht der Natur` continuation shows whether the same split keeps organizing the argument
 
+### Fracastoro: anti-dualism still requires a mediating `species`
+
+Passage base:
+
+- Part `57`
+- printed pages `226-227`
+
+Finding:
+
+- the reduction of knowledge to immediate perception does not eliminate mediation
+- Fracastoro still explains cognition through a middle being, the `species`, and explicitly denies any independent activity of the soul in representation
+
+Why it matters:
+
+- the anti-scholastic simplification does not simply dissolve the old problem
+- it reproduces a new inner difficulty: outer reality is atomized into fixed objects, while consciousness becomes a storehouse of representational images
+
+Current downstream use:
+
+- reflected in Part `57`
+- held locally while the next tranche shows how Cassirer unfolds the difficulty this representational psychology generates
+
+### Fracastoro: self-consciousness breaks the sensualist schema
+
+Passage base:
+
+- Part `58`
+- printed pages `230-231`
+
+Finding:
+
+- Fracastoro's derivation of universals from perception does not stabilize the psychology of knowing
+- the mind's own operations have to be granted an `esse ab anima`, objective determination without thing-like existence, and that pressure pushes the account beyond its own first/second-intention scheme
+
+Why it matters:
+
+- the real difficulty is no longer just how outer objects are represented, but how the soul's own acts can be both inward and objectively valid
+- Cassirer is marking the point where self-consciousness exceeds a merely sensualist decomposition of fixed contents and begins to force a different architecture of knowing
+
+Current downstream use:
+
+- reflected in Part `58`
+- held locally while the continuation shows how Cassirer differentiates spatial, numerical, and relational concepts from simple generic abstractions
+
+### Telesio: `Verstand` as physiological memory
+
+Passage base:
+
+- Part `59`
+- printed pages `234-235`
+
+Finding:
+
+- Telesio does not give `Verstand` an independent critical role over sensation
+- mediate inference is reduced to reproduction of prior motions, analogical recollection, and an associative transition from part-perception to remembered whole
+
+Why it matters:
+
+- this is stronger than a generic appeal to empiricism or sensation
+- the intellect becomes a fallback organ for absent objects, while the real explanatory work stays with embodied perception and memory
+
+Current downstream use:
+
+- reflected in Part `59`
+- held locally while the continuation shows why Cassirer thinks this still differs in kind from later sensualism
+
 ## Boundary
 
 This ledger is not a second journal and not a free synthesis file.

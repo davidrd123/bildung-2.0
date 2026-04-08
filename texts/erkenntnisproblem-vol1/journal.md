@@ -1383,3 +1383,67 @@ Decision for now:
 - continue directly into the next tranche from the opening of the `Licht der Natur` double meaning
 - keep watching whether `Erfahrung`, `Invention`, and `Licht der Natur` remain chapter-local method terms or build enough pressure for glossary treatment
 - treat the `Sichtiges` / `Unsichtiges` pair as a strong local watch-point, but do not yet promote it beyond source-bound notes
+
+## 2026-04-07 - Sixth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `224-227`
+- PDF pages `248-251`
+
+What this tranche clarified:
+
+- `Licht der Natur` now shows its double meaning openly: it is both the law of reality against speculative arbitrariness and an inner source in the subject itself
+- Cassirer explicitly says that the unity-drive of this moment still borders on mysticism, because the identity of subjective and objective is only darkly anticipated and science is not yet ripe enough to guide it
+- the new subsection `Die Psychologie des Erkennens` marks a real increase in abstraction: the process and conditions of experience themselves now become an object of reflection, even if still only as an `Außenwerk`
+- the Telesio-side solution to the Aristotelian soul-dualism is radical reduction: concept-formation and inference must be shown back in sensible impressions if knowledge is to remain unified
+- Fracastoro is introduced as a transitional figure whose anti-dualist empiricism still depends on the inherited `Species` theory and on a passive model of cognition as mediated representation
+
+Decision for now:
+
+- continue directly into the next tranche from the Fracastoro `Species` continuation
+- keep watching whether `Licht der Natur` and `Species` remain local transition terms or start forcing glossary pressure
+- treat the Paracelsus -> psychology-of-knowing turn as chapter-level method pressure, but keep it source-bound for now
+
+## 2026-04-07 - Seventh Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `228-231`
+- PDF pages `252-255`
+
+What this tranche clarified:
+
+- Fracastoro's psychology now tries to explain the rise of the universal from within sensible content itself by means of an active but prelogical function, `subnotio`
+- universal concepts are treated as isolated likenesses across varying perceptual complexes, while the individual `species` remains only the symbolic carrier of that relation
+- the Occamist distinction between first and second intentions reappears, but it does not suffice to classify the mind's own operations; these are granted not only an `esse in anima` but an `esse ab anima`
+- Cassirer's real pressure point is therefore no longer the rejection of scholastic mediation alone, but the way the problem of self-consciousness breaks the sensualist frame from inside
+- to preserve the soul's own reality, Fracastoro is pushed toward an Averroist one-intellect move that re-hypostatizes a new universal in tension with his own epistemology
+
+Decision for now:
+
+- continue directly into the next tranche from the broken question about whether space, figure, magnitude, and number can be treated like generic abstractions
+- keep watching whether `subnotio`, `Species`, and `esse ab anima` remain local transition terms or begin forcing glossary pressure
+- treat the Fracastoro sequence as a real bridge from perceptual sensualism to the problem of self-consciousness, but keep it source-bound for now
+
+## 2026-04-07 - Eighth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `232-235`
+- PDF pages `256-259`
+
+What this tranche clarified:
+
+- Cassirer now says explicitly that the difficulty already visible in Fracastoro cannot be fully clarified until science itself produces a `logic of relations`
+- the Telesio case shifts the psychology of knowing onto the broader substrate of the new biology and cosmology: cognition is treated as a transformation of the life of the whole into individual sensation
+- `Erkennen` as `Leiden` is made literal through a tactile model of knowledge: all cognition becomes transmitted motion in a subtle bodily medium, and even thinking is treated as a form of contact
+- the Stoic `Pneuma` line is now clearly in play; `spiritus` becomes the continuous corporeal carrier through which warmth, cold, and motion affect the soul
+- `Verstand` is not a critical power over sense, but the broad application of physiological memory and associative reproduction when direct sensation is absent
+- the church-compatible `forma superaddita` remains inert inside the explanatory structure, so the real line of force stays with sensation, reproduction, and analogy
+
+Decision for now:
+
+- continue directly into the next tranche from Cassirer's qualification that Telesio is not simply a precursor of later sensualism
+- keep watching whether `Leiden`, `Tastwahrnehmung`, `spiritus`, and `Gedächtnis` remain chapter-local or begin forcing glossary pressure
+- treat the Telesio sequence as a real shift from representational mediation to embodied process and analogical memory, but keep it source-bound for now

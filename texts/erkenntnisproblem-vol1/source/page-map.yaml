@@ -192,3 +192,59 @@ ranges:
     printed_pages: ["218", "218"]
     trust: "high"
     note: "Printed page 218 / PDF page 242 begins the Paracelsus movement after the centered divider and shifts the world-organism arc into the microcosm / macrocosm relation and the epistemic program of medicine."
+
+  - slug: "psychologie-des-erkennens-within-naturphilosophie"
+    label: "Opening of `B) Die Psychologie des Erkennens` within `Die Naturphilosophie`"
+    pdf_pages: [249, 249]
+    printed_pages: ["225", "225"]
+    trust: "high"
+    note: "Printed page 225 / PDF page 249 opens the new subsection that turns from Paracelsus's experiential medicine toward reflection on the process and conditions of knowing."
+
+  - slug: "fracastoro-opening-within-psychologie-des-erkennens"
+    label: "Opening of `I.` / Fracastoro within `Die Psychologie des Erkennens`"
+    pdf_pages: [250, 250]
+    printed_pages: ["226", "226"]
+    trust: "high"
+    note: "Printed page 226 / PDF page 250 begins the first concrete case in the psychology-of-knowing sequence, introducing Girolamo Fracastoro as a transitional figure between scholasticism and the modern mode of thought."
+
+  - slug: "speciestheorie-within-fracastoro"
+    label: "Opening of `Die Speciestheorie` within the Fracastoro discussion"
+    pdf_pages: [251, 251]
+    printed_pages: ["227", "227"]
+    trust: "high"
+    note: "The running internal heading on printed page 227 / PDF page 251 marks the turn into Fracastoro's theory of `species` as the explanatory medium of perception."
+
+  - slug: "problem-der-allgemeinbegriffe-within-fracastoro"
+    label: "Opening of `Das Problem der Allgemeinbegriffe` within the Fracastoro discussion"
+    pdf_pages: [253, 253]
+    printed_pages: ["229", "229"]
+    trust: "high"
+    note: "The running internal heading on printed page 229 / PDF page 253 marks the shift from `species` as perceptual medium to the derivation of universals through differentiation, resemblance, and `subnotio`."
+
+  - slug: "begriffe-der-seelischen-taetigkeiten-within-fracastoro"
+    label: "Opening of `Die Begriffe der seelischen Tätigkeiten` within the Fracastoro discussion"
+    pdf_pages: [255, 255]
+    printed_pages: ["231", "231"]
+    trust: "high"
+    note: "The running internal heading on printed page 231 / PDF page 255 marks the point where Fracastoro's sensualist account runs into the objective status of the mind's own operations and the pressure of self-consciousness."
+
+  - slug: "telesio-opening-within-psychologie-des-erkennens"
+    label: "Opening of `II.` / Telesio within `Die Psychologie des Erkennens`"
+    pdf_pages: [256, 256]
+    printed_pages: ["232", "232"]
+    trust: "high"
+    note: "Printed page 232 / PDF page 256 begins the Telesio case and shifts the psychology of knowing from Fracastoro's representational problem to a biologically grounded account of perception."
+
+  - slug: "theorie-der-wahrnehmung-within-telesio"
+    label: "Opening of `Die Theorie der Wahrnehmung` within the Telesio discussion"
+    pdf_pages: [257, 257]
+    printed_pages: ["233", "233"]
+    trust: "high"
+    note: "The running internal heading on printed page 233 / PDF page 257 marks the point where Telesio's psychology is spelled out as bodily motion, tactile perception, and `spiritus`."
+
+  - slug: "verstand-und-gedaechtnis-within-telesio"
+    label: "Opening of `Verstand und Gedächtnis` within the Telesio discussion"
+    pdf_pages: [259, 259]
+    printed_pages: ["235", "235"]
+    trust: "high"
+    note: "The running internal heading on printed page 235 / PDF page 259 marks the reduction of `Verstand` to mediated sensory apprehension and physiological memory."
