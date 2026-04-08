@@ -1,14 +1,62 @@
 # Source Acquisition List
 
 **Status**: living-layer working list
-**Date**: 2026-04-07
+**Date**: 2026-04-08
 **Purpose**: rank-ordered list of secondary and thinker-on-thinker sources to track down, filtered by what the live translation lines actually need now
 
 Sources tagged by role:
 - `2` = source-language commentary
 - `4` = thinker-on-thinker encounter
+- `OG` = contemporaneous interlocutor or same-problem witness
 
 Entries marked ⚠️ need existence/bibliographic verification before purchase — details may be LLM-generated.
+
+---
+
+## Tier 0 — OG contemporaneous sources (Erkenntnisproblem field)
+
+These are not later scholars looking back. They are witnesses to the original conversation — direct reviewers, same-problem interlocutors, and institutional participants from Cassirer's own generation. Source: `00-Notes/DeepResearch/2026-04-08/Secondary_Sources_OGs_5Pro.md`.
+
+### Direct reviews and critiques
+
+0a. `OG` **Richard Hönigswald, "Substanzbegriff und Funktionsbegriff. Kritische Betrachtungen"** (*Deutsche Literaturzeitung* 33, 1912, cols. 2821-2843 and 2885-2902). The most important old-style direct critique of *Substanzbegriff* from inside German Erkenntniskritik. Two-part review.
+   - Where to look: *Deutsche Literaturzeitung* archive, HathiTrust, academic libraries
+
+0b. `OG` **Moritz Schlick, "Kritizistische oder empiristische Deutung der neuen Physik?"** (*Kant-Studien* 26, 1921, 96-111). The essential direct controversy piece — Schlick vs. Cassirer on the Einstein book, in the flagship journal, while the relativity debate was still open.
+   - Where to look: De Gruyter / *Kant-Studien* archive, JSTOR
+
+0c. `OG` **Gerard Heymans, "Zur Cassirerschen Reform der Begriffslehre"** (*Kant-Studien* 33, 1928, 109-128). Later contemporaneous assessment of *Substanzbegriff*; one of the few pieces modern scholarship still points back to.
+   - Where to look: De Gruyter / *Kant-Studien* archive
+
+0d. `OG` **Uebinger, review of *Das Erkenntnisproblem*** (*Philosophisches Jahrbuch* 22, 1909, 80-82). The clearest early German review of EP itself — almost the only direct contemporaneous reception.
+   - Where to look: *Philosophisches Jahrbuch* archive
+
+### Same-problem interlocutors
+
+0e. `OG` **Hans Reichenbach, *Relativitätstheorie und Erkenntnis apriori*** (1920). Explicitly engages Cassirer's just-appeared Einstein book as the first major neo-Kantian attempt on general relativity. Links Cassirer's dissolution of the substance concept to relativity. Also contains Hilbert/implicit-definition material.
+   - Where to look: **Project Gutenberg** (free, downloadable now: gutenberg.org/cache/epub/57240)
+
+0f. `OG` **Ewald Sellien, *Die erkenntnistheoretische Bedeutung der Relativitätstheorie*** (1919, *Kant-Studien* Ergänzungsheft 48). Pre-Cassirer neo-Kantian relativity benchmark.
+   - Where to look: **Internet Archive** (free: archive.org/details/dieerkenntnisthe00sell)
+
+0g. `OG` **Ilse Schneider (Lengyel), *Das Raum-Zeit-Problem bei Kant und Einstein*** (Springer, 1921). Same-year neo-Kantian relativity book; closest contemporaneous comparandum for Cassirer's Einstein book.
+   - Where to look: **Internet Archive** (free: archive.org/details/dasraumzeitprobl00leng)
+
+### Warburg/Hamburg field context
+
+0h. `OG` **Cassirer, "Der Begriff der symbolischen Form im Aufbau der Geisteswissenschaften"** in *Vorträge der Bibliothek Warburg* 1921-1922, pp. 11-39. Cassirer as active participant in the Hamburg field, not as object of commentary.
+   - Where to look: Heidelberg digitized historical collections (digi.ub.uni-heidelberg.de)
+
+0i. `OG` **Cassirer, *Individuum und Kosmos in der Philosophie der Renaissance*** (*Studien der Bibliothek Warburg*, Band 10, 1927). The key older Warburg-side item for the Renaissance natural-philosophy line that EP Vol. 1 covers.
+   - Where to look: Heidelberg digitized collections, academic libraries
+
+### Reconcentration volumes
+
+0j. `OG` **Raymond Klibansky and H. J. Paton (eds.), *Philosophy and History: Essays Presented to Ernst Cassirer*** (Oxford: Clarendon, 1936). The best old-style volume for seeing Cassirer inside a living field. Edited with Warburg Institute support. Key essays: Huizinga on the concept of history, Edgar Wind on contact between history and natural sciences.
+   - Where to look: academic libraries, used bookshops, possibly digitized
+
+0k. `OG` **Paul Arthur Schilpp (ed.), *The Philosophy of Ernst Cassirer*** (Library of Living Philosophers, 1949). Stronger on the science-method side than usually remembered. Key essays: Kaufmann on scientific knowledge, Gawronsky on epistemology of physics, Smart on mathematical concepts, Solmitz on Galileo, Randall on Renaissance thought.
+   - Where to look: Library of Living Philosophers series, academic libraries, used bookshops, widely available
 
 ---
 
@@ -97,7 +145,10 @@ Entries marked ⚠️ need existence/bibliographic verification before purchase 
 
 ## Notes
 
-- Items 1-9 are ordered by relevance to what codex is translating right now
+- Tier 0 items are contemporaneous witnesses, not later scholarship — they show the original conversation Cassirer was part of
+- Items 0e-0g (Reichenbach, Sellien, Schneider) are **free online now** via Project Gutenberg and Internet Archive
+- Items 0j-0k (1936 Festschrift, Schilpp 1949) are the two reconcentration volumes — widely available used
+- Tier 1 items 1-9 are ordered by relevance to what codex is translating right now
 - Items 6-7 (Schöttker + Koslowski) are the strongest candidates for the source-language commentary test: read one before the next Zeitmauer translation pass
 - Items 1-3 (Ferrari + González Ríos) are the Erkenntnisproblem equivalents
 - ⚠️ items need bibliographic verification before spending money

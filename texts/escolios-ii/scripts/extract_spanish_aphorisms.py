@@ -203,6 +203,17 @@ def normalize_text(text: str) -> str:
         "acción catalitica": "acción catalítica",
         "di vinidad de Cristo": "divinidad de Cristo",
         "determinismo económico etc, cada": "determinismo económico etc., cada",
+        "El pueblo no Se casa": "El pueblo no se casa",
+        "— Las concesiones son los peldaños del patíbulo.": "Las concesiones son los peldaños del patíbulo.",
+        "Unica alternativa": "Única alternativa",
+        "una.generación futura": "una generación futura",
+        "belleza. Sino de complicidad": "belleza, sino de complicidad",
+        "El amor que no se cree: justificado": "El amor que no se cree justificado",
+        "coherencia lógica. Sino estructura": "coherencia lógica, sino estructura",
+        "Que, el cristianismo no resuelva": "Que el cristianismo no resuelva",
+        "los que, olvidan": "los que olvidan",
+        "Dios. Sino una sociedad": "Dios, sino una sociedad",
+        "insigne a qué pertenecen": "insigne a que pertenecen",
     }
     for old, new in replacements.items():
         value = value.replace(old, new)

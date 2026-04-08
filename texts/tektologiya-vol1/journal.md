@@ -809,6 +809,18 @@ Current conclusion:
 - seven core diagrams are enough for packet `01`
 - the composite mechanism poster should follow the core packet, not replace it
 
+## 2026-04-08 - Prompt-First Gemini Pass Beats SVG-First For The Early Plates
+
+The first Gemini generation pass for packet `01` clarified something practical. The local SVG plates were useful as control surfaces, but they were not the main source of quality. What mattered most was the written brief: exact labels, exact relation, explicit spatial demand, and a strong negative list. Once the prompt carried that burden in detail, the model produced usable variants for both the volume arc and the mechanism split without needing the SVG as a reference image.
+
+That does not make the SVG work pointless. It changes its role. The SVG is best treated as a fallback constraint surface for moments when the model starts drifting on topology, branch count, or stage order. But the primary instrument is now the prompt itself. The compare pass confirmed that the best mechanism-split image was the one that stayed closest to the explicitly described branching logic, while the weaker variant began inventing extra subordinate branches. The arc pair showed the complementary issue: one image honored the arc-shape more literally but degraded under text clutter, while the stronger keeper preserved the labels and sequence cleanly even in a more chevron-like arrangement.
+
+Current conclusion:
+
+- prompt-first Gemini generation is the default for the current Tektologiya visual track
+- SVG plates remain useful as fallback controls, not as the main source of visual intelligence
+- for the next plate, the prompt should keep pressing exact topology and exact allowed text before it asks for atmosphere
+
 ## 2026-04-08 - Source-Language Commentary Probe: Takhtajan On `Тектология`
 
 **Question**

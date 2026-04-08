@@ -407,3 +407,234 @@ sessions:
       - "The strongest clarification here is that hypothesis is not an optional scientific overlay; it is the first rational grip on the problem."
       - "The Kepler/Patrizzi contrast makes the stakes unusually visible because it turns the appeal to pure observation into a source of miracle-thinking."
       - "The cosmophysics move now feels earned rather than retrospective."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 87
+
+    state_on_entry:
+      - "Part 86 had defined hypothesis as the rational beginning of empirical science, but the broader historical contrast around Copernicus and Osiander was still only reopened."
+      - "The main open question was whether Kepler's position would resolve into simple realism or into a more exact theory of scientific concept-formation."
+
+    what_shifted:
+      - "Cassirer now makes the contrast explicit: Kepler stands against both teleological physicalism and merely computational astronomy."
+      - "Osiander's reading of Copernicus is rejected because Copernicus changes the concept of force and natural explanation, not just the efficiency of astronomical reckoning."
+      - "Kepler's own alternative is clarified as hypothetical rational imaging of nature rather than access to ultimate substantial causes."
+      - "Hypothesis is defended as the lifeblood of astronomy, because without it calculation loses its concept and observation loses its direction."
+      - "Mathematics is simultaneously separated from mystical number-play by being bound to strict causal analysis and future observational fruitfulness."
+
+    unresolved:
+      - "Need the next tranche from printed 348-351 / PDF 372-375."
+      - "Need to see how the cut-off claim about mathematics as a condition of empirical causal inquiry is completed."
+      - "Need to see whether the Kepler section is nearing a local resting point or still opening further mechanics material."
+
+    re_entry_instructions:
+      - "Read Part 87 first; the live edge is the broken sentence after the opening of `Die Hypothese als Grundlage des Calculs`."
+      - "Extract the next raw page range: printed 348-351 / PDF 372-375."
+      - "Keep the chain perception as construction -> hypothesis as beginning -> Copernicus against Osiander -> hypothesis as basis of calculation -> math against mysticism in view."
+      - "Watch whether the next pages complete the method contrast or begin handing off to a new topic."
+
+    formation_notes:
+      - "The strongest gain here is that Kepler's method is now fully visible as a theory of scientific concept-formation rather than only an astronomy case."
+      - "The Osiander contrast helps because it shows how close a computational-only reading still was at the time."
+      - "The next pages should show whether the section now resolves cleanly or still widens."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 88
+
+    state_on_entry:
+      - "Part 87 had stabilized Kepler's hypothesis doctrine, but the cut-off continuation still had to show how mathematics was being separated from mystical and merely symbolic uses."
+      - "The main open question was whether the next step would remain local to Fludd or widen into a deeper conflict over scientific form itself."
+
+    what_shifted:
+      - "Kepler now states the anti-mystical boundary with unusual precision: symbols prove nothing unless they express real modes and causes of connection."
+      - "Fludd becomes the foil for a stronger realism-through-abstraction claim: mathematical concepts can image reality more faithfully than imagistic immediacy."
+      - "Cassirer then widens the dispute from mysticism to the Aristotelian-scholastic world of substantial forms."
+      - "Kepler's mathematical form-concept is defined through mediation, degree, and the geometry of more/less rather than the bare opposition of identity and otherness."
+      - "The earlier Leonardo / Fracastoro conflict is now recapitulated at a more explicit methodological level."
+
+    unresolved:
+      - "Need the next tranche from printed 352-355 / PDF 376-379."
+      - "Need to see how the cut-off anti-Aristotelian comparison is completed."
+      - "Need to see whether the Kepler section is now approaching a real local resting point."
+
+    re_entry_instructions:
+      - "Read Part 88 first; the live edge is the broken sentence after the opening of `Der ontologische und der mathematische Formbegriff`."
+      - "Extract the next raw page range: printed 352-355 / PDF 376-379."
+      - "Keep the chain hypothesis against mysticism -> math as causal analysis -> Fludd dispute -> geometry over number -> mathematical form against substantial form in view."
+      - "Watch whether the next pages finish the anti-Aristotelian line or hand off to a new figure/problem."
+
+    formation_notes:
+      - "The strongest new gain is that Kepler's mathematical form-concept is not just anti-mystical but anti-substantialist in a very exact sense."
+      - "The Fludd exchange makes Cassirer's realism-through-abstraction line unusually concrete."
+      - "The next tranche should show whether this is the real local crest of the Kepler run."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 89
+
+    state_on_entry:
+      - "Part 88 had clarified Kepler's anti-mystical and anti-substantialist form-concept, but the cut-off continuation still had to show how that line passed into the force concept."
+      - "The main open question was whether `Kraft` would simply replace `Seele` rhetorically or be methodically earned."
+
+    what_shifted:
+      - "Cassirer now links the anti-Aristotelian form line directly to the modern concept of force."
+      - "The historical field is made explicit: the ensouled-cosmos view still governs astronomy broadly, and even Kepler begins inside it."
+      - "Kepler's decisive move is the inference that the moving cause weakens with solar distance in a mathematically ordered way, which forces a bodily interpretation of the cause."
+      - "`Seele` and `Kraft` thereby become conceptual opposites rather than neighboring names."
+      - "The clockwork image and the emerging concept of `Naturkraft` then mark the break from entelechy and substantial form toward law-governed physical dependence."
+
+    unresolved:
+      - "Need the next tranche from printed 356-359 / PDF 380-383."
+      - "Need to see how the cut-off definition of lawful `Naturkraft` is completed."
+      - "Need to see whether the Kepler force line settles locally or opens a larger mechanics development."
+
+    re_entry_instructions:
+      - "Read Part 89 first; the live edge is the broken sentence after the opening of `Kraftbegriff und Seelenbegriff`."
+      - "Extract the next raw page range: printed 356-359 / PDF 380-383."
+      - "Keep the chain mathematical form against substantial form -> force from soul -> bodily dependence via solar distance -> clockwork cosmos -> lawful `Naturkraft` in view."
+      - "Watch whether the next pages stabilize the force concept or widen the mechanics line further."
+
+    formation_notes:
+      - "The strongest gain here is that the break from soul to force is not asserted abstractly; it is forced by a mathematical dependence."
+      - "The early modern force concept still has more life in it than a later mechanicist reading would suggest."
+      - "The next tranche should show whether the lawful scope of `Naturkraft` is now fully stabilized."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 90
+
+    state_on_entry:
+      - "Part 89 had completed the break from soul to force, but the new lawful scope of `Naturkraft` was still cut off before its exact conceptual shape became clear."
+      - "The main open question was whether force would now be stabilized as a mathematical relation or simply broadened rhetorically."
+
+    what_shifted:
+      - "Cassirer now makes the decisive move explicit: the concept of cause dissolves into a system of mathematically determinable conditions."
+      - "Outside spiritual agency and Aristotelian teleology are both excluded because they would introduce geometric uncertainty into the demonstrative derivation of nature."
+      - "Force is positively rooted in number and statics, with the lever law giving the nearest historical model for lawful decrease with distance."
+      - "Kepler still fails to reach a true arithmetic of basic forces, but the ideal of modern dynamics is now openly formulated."
+      - "The gravity problem is prepared concretely through the handoff to Gilbert."
+
+    unresolved:
+      - "Need the next tranche from printed 360-363 / PDF 384-387."
+      - "Need to see how Gilbert's magnetism is taken up into Kepler's gravity line."
+      - "Need to see whether the force concept is now transformed into an explicit law concept."
+
+    re_entry_instructions:
+      - "Read Part 90 first; the live edge is the broken sentence after the opening of `Die Arithmetik der Kräfte`."
+      - "Extract the next raw page range: printed 360-363 / PDF 384-387."
+      - "Keep the chain force from soul -> lawful `Naturkraft` -> cause as function -> exclusion of outside agency -> arithmetic of forces -> Gilbert handoff in view."
+      - "Watch whether the next pages make gravity concrete or widen the mechanics line more abstractly."
+
+    formation_notes:
+      - "The strongest gain here is that exact science now recasts the concept of cause itself."
+      - "The ban on external agency is methodological and mathematical before it is metaphysical."
+      - "Newton now becomes legible as a later fulfillment of an already explicit demand."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 91
+
+    state_on_entry:
+      - "Part 90 had formulated the force/function framework, but the concrete gravity case and the historical role of Gilbert were still only opened."
+      - "The main open question was whether Gilbert would remain background context or actually transform Kepler's concept of natural force."
+
+    what_shifted:
+      - "Gilbert now appears as the anti-ontological reformer of attraction: no privileged place, no substantial affinities, no physical prerogative of the world-center."
+      - "Gravity becomes a general natural cause rooted in bodies themselves and delimited by distance."
+      - "Kepler extends attraction beyond a body's relation to its own parts and turns it into an interaction between cosmological masses."
+      - "Magnetism itself helps force Kepler's transition from spirit to nature."
+      - "Gravity is explicitly redefined as reciprocal interaction, so the central question becomes the law of variation."
+
+    unresolved:
+      - "Need the next tranche from printed 364-367 / PDF 388-391."
+      - "Need to see how the correlate concept of matter is drawn into the same law-structure."
+      - "Need to see whether the Newton line becomes more explicit or remains only anticipatory."
+
+    re_entry_instructions:
+      - "Read Part 91 first; the live edge is the broken sentence after the opening of `Die Theorie der Gravitation`."
+      - "Extract the next raw page range: printed 364-367 / PDF 388-391."
+      - "Keep the chain force as function -> Gilbert against privileged place -> attraction between masses -> magnetism from spirit to nature -> reciprocal gravitation in view."
+      - "Watch whether the next pages turn from the force-law question to matter, mass, and inertia."
+
+    formation_notes:
+      - "Gilbert matters here because he clears away place-based and affinity-based pseudo-causes."
+      - "The move from spirit to nature is again earned through fixed quanta, not asserted by fiat."
+      - "Reciprocity is the real hinge that makes the law-question unavoidable."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 92
+
+    state_on_entry:
+      - "Part 91 had defined gravity as reciprocal interaction, but the correlate concept of matter was still only implicit."
+      - "The main open question was whether the next step would simply refine the force-law or whether it would also reconstruct matter through that same framework."
+
+    what_shifted:
+      - "Kepler now explicitly poses gravitation as a numerical law-question, even though he still misses the inverse-square result."
+      - "Matter acquires scientific determination through mass, inertia, and quantitative resistance."
+      - "The vocabulary of `Masse`, `Gewicht`, and `Trägheit` is still unstable, but the conceptual direction is already clear."
+      - "Matter and force are transformed from metaphysical opposites into corresponding sides of one mathematical causality."
+      - "`ubi materia, ibi geometria` and the opening of `Der Begriff des Gesetzes` now make the next methodological turn explicit."
+
+    unresolved:
+      - "Need the next tranche from printed 368-371 / PDF 392-395."
+      - "Need to see why geometry receives first methodological place over the other mathematical disciplines."
+      - "Need to see whether the Kepler section is nearing closure or widening into a broader account of mathematical science."
+
+    re_entry_instructions:
+      - "Read Part 92 first; the live edge is the broken sentence after the opening of `c) Der Begriff des Gesetzes`."
+      - "Extract the next raw page range: printed 368-371 / PDF 392-395."
+      - "Keep the chain force as function -> gravitation as reciprocity -> law-question -> mass / inertia -> matter with geometry -> `Der Begriff des Gesetzes` in view."
+      - "Watch whether the next pages justify the primacy of geometry or reorganize the mathematical sciences more broadly."
+
+    formation_notes:
+      - "The failure to reach inverse-square law matters less than the fact that the right law-question is finally explicit."
+      - "Matter's new dignity here is inseparable from its geometrization."
+      - "The Kepler run is now turning from natural-force formation toward an explicit method of law."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 93
+
+    state_on_entry:
+      - "Part 92 had opened `Der Begriff des Gesetzes`, but only as a heading; the real question was how geometry would now be justified as method and how that related to the Kepler law-line already earned."
+      - "The main open pressure was whether the next step would remain abstractly methodological or stay tied to concrete scientific construction."
+
+    what_shifted:
+      - "Kepler now defends Euclid against Ramist criticism by treating the element as form of connection rather than a heap of conceptual material."
+      - "Geometry is explicitly given first methodological rank, and pure number is subordinated to it."
+      - "The regular heptagon example separates algebraic definability from scientific possibility, which still requires geometric describability."
+      - "Kepler is thereby distinguished more sharply from both simple Pythagoreanism and the later Cartesian generalization of magnitude."
+      - "The ellipse then appears as the decisive empirical break by which lawful nonuniformity first becomes scientifically admissible."
+
+    unresolved:
+      - "Need the next tranche from printed 372-375 / PDF 396-399."
+      - "Need to see how the Fabricius continuation develops the relation between ellipse, empirical pressure, and method."
+      - "Need to see whether the Kepler section is nearing a local settling point or still widening the concept of mathematical science."
+
+    re_entry_instructions:
+      - "Read Part 93 first; the live edge is the broken sentence after the opening of `Die Gesetzlichkeit des Ungleichförmigen`."
+      - "Extract the next raw page range: printed 372-375 / PDF 396-399."
+      - "Keep the chain geometry first -> number from geometry -> scientific possibility as describability -> ellipse against circular perfection -> lawful nonuniformity in view."
+      - "Watch whether the next pages stay with ellipse and observation or broaden the account of mathematical law further."
+
+    formation_notes:
+      - "The strongest gain here is that geometry is no longer just preferred; it becomes a criterion of scientific possibility."
+      - "The ellipse matters methodologically because it legitimates the lawful nonuniform."
+      - "Kepler now looks less like a precursor of general math-physics in the abstract and more like a very specific reformer of lawful construction."

@@ -13,6 +13,8 @@ actually help a reader grasp the architecture of volume `1`.
   architectural diagrams, drafted directly from journal candidates
 - `plates/01-volume-1-arc.svg` and `plates/02-mechanism-split.svg` — the first
   rendered SVG plates from packet `01`
+- `keepers/` — first prompt-only Gemini keepers for the volume arc and
+  mechanism split
 
 ## Rule
 
@@ -27,3 +29,7 @@ the journal, the glossary, or the translation batches.
 If image generation is resumed, mirror the lighter workflow already tested in
 [`texts/zeitmauer/visuals/README.md`](../../zeitmauer/visuals/README.md)
 and keep provenance tied back to the originating `[visual candidate]` lines.
+
+For Tektologiya so far, the strongest lever is a highly specific prompt rather
+than the SVG anchor. Use the SVGs as fallback control surfaces when branching
+logic or stage order starts drifting, not as the default starting point.

@@ -65,7 +65,7 @@ Eine ähnliche Weisung erteilte wohl das augurium vor der Schlacht. Wir haben Be
 ```text
 Once Goethe had resolved to see Marianne von Willemer one last time, a wheel of his carriage broke in two shortly outside Weimar. He then had it turn back and gave up the journey forever. In that he followed a kind of oracle that the Romans designated `ex diris`, a forbidding omen. We need not conclude from this that he was superstitious; we may rather suppose that weighty pros and cons had been moving him and that this accident tipped the balance.
 
-A similar guidance was probably given by the `augurium` before battle. We have examples of the commander acting against the `augurium` when the situation was favorable. Then he held his strategic insight to be stronger than the vision. Conversely, today the commander can override the objection of his chief of staff. Then he trusts his star more than science. What is at stake are two conceptions of time. The ideal remains that the two agree.
+A similar indication was probably given by the `augurium` before battle. We have examples of the commander acting against the `augurium` when the situation was favorable. Then he held his strategic insight to be stronger than the vision. Conversely, today the commander can override the objection of his chief of staff. Then he trusts his star more than science. What is at stake are two conceptions of time. The ideal remains that the two agree.
 ```
 
 **Notes**

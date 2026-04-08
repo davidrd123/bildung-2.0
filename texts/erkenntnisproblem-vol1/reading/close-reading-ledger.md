@@ -904,6 +904,174 @@ Current downstream use:
 - reflected in Part `86`
 - held locally while the next tranche shows how Cassirer develops the reopened historical contrast between mathematical and physical hypothesis
 
+### Kepler: hypothesis gives astronomy its concept and separates math from mysticism
+
+Passage base:
+
+- Part `87`
+- printed pages `344-347`
+
+Finding:
+
+- Kepler rejects both the teleological fixing of nature in advance and the merely computational treatment of astronomy as neutral calculation
+- hypothesis is the rational image of nature that must guide calculation and then be tested by future observation
+- this lets Kepler defend Copernicus against Osiander without collapsing into metaphysical substantialism
+- mathematics becomes scientifically legitimate only when it serves causal analysis rather than mystical or allegorical number-play
+
+Why it matters:
+
+- this is the clearest place where Cassirer turns the Kepler section into an explicit theory of what scientific concept-formation is
+- it also stabilizes the whole optics/hypothesis sequence: sensory signs, harmonic relation, and astronomical calculation are all subordinate to rationally formed and empirically controlled hypotheses
+
+Current downstream use:
+
+- reflected in Part `87`
+- held locally while the next tranche shows how Cassirer completes the cut-off contrast and whether the Kepler section is about to settle
+
+### Kepler: mathematical form defeats mystical symbol and ontological form
+
+Passage base:
+
+- Part `88`
+- printed pages `348-351`
+
+Finding:
+
+- Kepler distinguishes legitimate mathematical symbolization from empty symbolic play by demanding demonstrable causal connection
+- against Fludd, abstraction is defended as the truest image of relational reality rather than a fall away from concrete nature
+- Cassirer then widens the clash from mysticism to the Aristotelian-scholastic doctrine of substantial forms
+- Kepler's mathematical form-concept is characterized by mediation, gradation, and `more/less`, not by bare logical opposition of same and other
+
+Why it matters:
+
+- this is the clearest anti-mystical and anti-substantialist statement in the Kepler run so far
+- it also makes explicit that the deeper methodological struggle is over what kind of form can count as scientifically real
+
+Current downstream use:
+
+- reflected in Part `88`
+- held locally while the next tranche shows how the cut-off anti-Aristotelian comparison is completed
+
+### Kepler: force breaks from soul through mathematical dependence
+
+Passage base:
+
+- Part `89`
+- printed pages `352-355`
+
+Finding:
+
+- the anti-Aristotelian mathematical form line now opens directly into the modern concept of force
+- early modern nature still first understands force through life and soul, especially in astronomy
+- Kepler's decisive break comes when the moving cause is inferred to weaken with solar distance in a mathematically ordered way, forcing a bodily rather than psychic interpretation
+- `Seele`, `Kraft`, `Energie`, and clockwork are then arranged into a new concept of law-governed nature that cuts loose from entelechy and substantial form
+
+Why it matters:
+
+- this is one of the clearest local passages where Cassirer shows a modern scientific concept being formed by transforming, not merely discarding, the older metaphysical field
+- it also keeps the Kepler run from looking merely epistemological: the theory of concept now becomes a theory of natural force
+
+Current downstream use:
+
+- reflected in Part `89`
+- held locally while the next tranche shows how Cassirer completes the definition of lawful `Naturkraft`
+
+### Kepler: force becomes mathematical function and an arithmetic of forces
+
+Passage base:
+
+- Part `90`
+- printed pages `356-359`
+
+Finding:
+
+- cause is no longer sought as an inner mover behind motion but recast as a complex of mathematically determinable conditions
+- outside agency and Aristotelian teleology are excluded on the same ground: exact science cannot tolerate geometric uncertainty inside the derivation of nature
+- force is rooted positively in number and statics, and the possibility of a genuine `Arithmetik der Kräfte` is opened
+- Kepler does not yet fulfill this demand, but the ideal of modern dynamics is already clearly formulated
+
+Why it matters:
+
+- this is the clearest local passage yet where Cassirer transforms the very concept of cause rather than merely adding another scientific example
+- it also makes Newton legible as a later execution of a methodological program rather than as a sheer break from Kepler
+
+Current downstream use:
+
+- reflected in Part `90`
+- held locally while Gilbert and gravity test the force/function framework concretely
+
+### Gilbert and Kepler: gravitation becomes reciprocal interaction
+
+Passage base:
+
+- Part `91`
+- printed pages `360-363`
+
+Finding:
+
+- Gilbert breaks with privileged place and substantial affinity by grounding attraction in bodies themselves rather than in spatial positions or hidden sympathies
+- Kepler extends attraction between cosmological masses and uses the magnetism line to move explicitly from spirit to nature
+- the earth / moon application already anticipates the tide problem in a Newton-relevant way
+- gravity is finally defined as reciprocal interaction, so the dominant question shifts from force-substance to force-law
+
+Why it matters:
+
+- this is the strongest local bridge from Kepler's force concept to an actual theory of gravitation
+- it also shows that the anti-animist turn is being earned through mathematically bounded natural causes rather than by flat denial
+
+Current downstream use:
+
+- reflected in Part `91`
+- held locally while the next tranche draws the correlate concept of matter into the same law-structure
+
+### Kepler: mass and inertia geometrize matter
+
+Passage base:
+
+- Part `92`
+- printed pages `364-367`
+
+Finding:
+
+- the true gain of the failed inverse-square discussion is that gravitation is now explicitly posed as a numerical law-question
+- matter acquires scientific determination through mass, inertia, and quantitative resistance rather than through inherited ontology
+- matter and force are transformed from metaphysical opposites into corresponding sides of one mathematical causality
+- `ubi materia, ibi geometria` names the new dignity of matter and nature inside exact science
+
+Why it matters:
+
+- this is one of the clearest places in the chapter where objecthood is rebuilt through mathematical law
+- it also prepares the turn to `Der Begriff des Gesetzes` without treating that methodological shift as detached from natural science
+
+Current downstream use:
+
+- reflected in Part `92`
+- held locally while the next tranche shows why geometry is methodologically first for Kepler
+
+### Kepler: geometry grounds scientific possibility and lawfulness of the nonuniform
+
+Passage base:
+
+- Part `93`
+- printed pages `368-371`
+
+Finding:
+
+- Kepler defends Euclid by treating the element as form of connection rather than a mere store of definitions
+- pure number remains subordinate to geometry, which is why Kepler cannot be reduced to simple Pythagoreanism
+- the regular heptagon example separates algebraic definability from scientific possibility, which still depends on geometrical describability
+- observationally forced ellipses then loosen the old fusion of law and shape and make lawful nonuniformity scientifically admissible
+
+Why it matters:
+
+- this is the clearest local place where Cassirer turns Kepler's geometry into an explicit criterion of scientific possibility
+- it also names the methodological importance of the ellipse in a deeper way than a simple correction of orbit-shape
+
+Current downstream use:
+
+- reflected in Part `93`
+- held locally while the next tranche shows how the Fabricius continuation develops the empirical and methodological consequences
+
 ### Bruno: two realms without mathematics
 
 Passage base:

@@ -1,0 +1,42 @@
+{
+  "items": [
+    {
+      "promotedAt": "2026-04-08T01:32:30-07:00",
+      "slug": "volume-1-arc-prompt-v1-keeper",
+      "note": "Best of first prompt-only Gemini pass; strongest label fidelity, even though the arc is more chevron-linear than curved.",
+      "keeper": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/tektologiya-vol1/visuals/keepers/volume-1-arc-prompt-v1-keeper.png",
+        "relativePath": "volume-1-arc-prompt-v1-keeper.png"
+      },
+      "sourceImage": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/tektologiya-vol1/visuals/out/2026-04-08/tektologiya-volume-1-arc-prompt-v1_001.png"
+      },
+      "candidate": {
+        "ref": "texts/tektologiya-vol1/journal.md:524",
+        "path": "texts/tektologiya-vol1/journal.md",
+        "line": 524,
+        "slug": "a-volume-1-arc-diagram",
+        "text": "a volume-1 arc diagram: point of view -> mechanisms -> regulation -> applications -> polemical recap"
+      }
+    },
+    {
+      "promotedAt": "2026-04-08T01:32:30-07:00",
+      "slug": "mechanism-split-prompt-v1-keeper",
+      "note": "Best of first prompt-only Gemini pass; clean split, no extra branches, strongest conceptual fidelity.",
+      "keeper": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/tektologiya-vol1/visuals/keepers/mechanism-split-prompt-v1-keeper.png",
+        "relativePath": "mechanism-split-prompt-v1-keeper.png"
+      },
+      "sourceImage": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/tektologiya-vol1/visuals/out/2026-04-08/tektologiya-mechanism-split-prompt-v1_001.png"
+      },
+      "candidate": {
+        "ref": "texts/tektologiya-vol1/journal.md:164",
+        "path": "texts/tektologiya-vol1/journal.md",
+        "line": 164,
+        "slug": "a-small-mechanism-map",
+        "text": "a small mechanism map: conjugation -> ingression / deingression"
+      }
+    }
+  ]
+}

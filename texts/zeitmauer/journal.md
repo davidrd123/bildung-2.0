@@ -1536,3 +1536,62 @@ Decisions:
 - extend `thread:time-crisis` through `§168`, where the church's remaining institutional presence still helps keep atrocities legible as atrocities
 - extend `thread:time-crisis` through `§169`, where metaphysical interregnum and attack on the churches are read as part of the same dangerous sequence
 - extend `thread:time-crisis` through `§170`, where `Great Houses`, second religiosity, and second `décadence` become preserving and retarding powers under conditions of motion
+
+## 2026-04-08 — Second-pass pressure map for `Meßbare und Schicksalszeit`
+
+Wrote `second-pass-messbare-und-schicksalszeit.md` to define what a true bounded reread of the completed Part 2 should check.
+
+Reason for the file shape:
+
+- `Zeitmauer` already has a strong secondary-trace surface in `journal.md`, `source/glossary.yaml`, `source/handles.yaml`, and `threads/time-crisis.md`
+- the right move here is therefore not to introduce a permanent `reading/` layer by symmetry with Cassirer
+- instead, use one bounded memo to sharpen the next reread of `§§4-31`
+
+What the map fixes:
+
+- the main unit is the full widening spiral from astrology into civilizational and political diagnosis, not isolated favorite passages
+- the main risks are flattening structural images into decoration and flattening the measurable/fateful distinction into generic science-versus-spirit language
+- the load-bearing second-pass watchpoints are the opening wedge (`§§4-13`), the plan/seam field (`§§14-19`), the person-scale center (`§§20-25`), and the political close (`§§26-31`)
+- the part's current apparatus is already enough: `Schicksalszeit`, `der Hinzutretende`, `Da-Sein / So-Sein`, the existing evidence chains, and `thread:time-crisis`
+
+Decision for now:
+
+- use the new memo as the checklist for any actual Part 2 reread
+- do not treat the memo itself as a new standing layer
+- do not use this reread to smuggle in the Cassirer-Jünger contact essay before the local `Zeitmauer` arc has been pressure-tested on its own terms
+
+## 2026-04-08 — Bounded second pass on `Meßbare und Schicksalszeit` (`§§4-31`)
+
+Ran the actual bounded reread of the completed Part 2 against `second-pass-messbare-und-schicksalszeit.md`.
+
+Main judgment:
+
+- the local apparatus already holds
+- the real gain of the reread was not new ontology but a clearer sense of what the existing English must keep from flattening
+
+What the reread confirmed:
+
+- `Schicksalszeit -> fateful time` still holds across the whole part; the issue is not the label but whether local sentences keep unequal, qualitative, disposing time rather than psychological destiny
+- `der Hinzutretende` still works best as a figure of added relation and assurance rather than as a role-name to be naturalized
+- `Da-Sein / So-Sein` still benefits from awkwardness; no Latinate smoothing would improve the part
+- the existing `journal + glossary + handles + thread` surface was enough for a real second pass; no new trace layer was needed
+
+What actually needed patching:
+
+- only a few places where the English had become flatter or more inert than the argument:
+  - `§15` on the `Titanic` as model case for the failure of plan
+  - `§20` on Peter and the tragic `Schicksalszug`
+  - `§24` on the battle `augurium`
+  - `§31` where the political close risked sounding merely sociological
+
+What the reread clarified structurally:
+
+- `Meßbare und Schicksalszeit` should now be considered reread-stable as a widening spiral from astrology into plan, catastrophe, epistemic seam, person-scale tragedy, managed happiness, revolutionary dissatisfaction, and finally anti-uniform political closure
+- the second-pass unit was therefore correctly chosen as the whole completed part, not a favorite subsection inside it
+
+Decision for now:
+
+- no new glossary entries
+- no glossary status promotions
+- no new thread dossier
+- use this completed reread, together with the pressure-map memo, as the honest local precondition for any later Cassirer-Jünger contact test

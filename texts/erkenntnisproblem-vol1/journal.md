@@ -2150,3 +2150,179 @@ Decision for now:
 - keep the Kepler hypothesis line in view as a real method-bearing gain, not just a local astronomy note
 - continue into the next tranche before deciding whether the Kepler section now has a stable local resting point
 - still no glossary promotion; the current gains are structural, but the text is carrying them adequately in the parts and journal
+
+## 2026-04-08 - Thirty-Sixth Naturphilosophie Tranche
+
+Advanced Kepler through printed pages `344-347` and wrote Part `87`.
+
+What was clarified:
+
+- the historical contrast behind Kepler's hypothesis doctrine is now explicit: against both teleological physicalism and merely computational astronomy, he wants a unified natural system
+- Osiander's reading of Copernicus as a convenient fiction is exactly what Kepler rejects, because Copernicus changes the concept of force and the scope of natural explanation rather than just simplifying planetary reckoning
+- Kepler's own position is more exact than simple realism: the point is not access to ultimate substances, but hypothetical rational forms of nature that guide calculation and are judged by future observational fruitfulness
+- this makes the hypothesis / calculus relation parallel to the earlier harmony / perception relation: the rule is intellectually formed first, then tested in the field of appearance
+- the Ramus passage is useful because it defines the boundary sharply: eliminate blind-belief assumptions, not hypotheses as such
+- the break from Renaissance number-mysticism is also cleaner now; mathematics becomes scientific only when it serves strict causal analysis of phenomena
+
+Decision for now:
+
+- keep the Kepler hypothesis line as a real method-bearing result, not only as an astronomy-historical episode
+- continue into the cut-off continuation before deciding whether this section has reached a local resting point
+- still no glossary promotion; the current conceptual load is better carried by the parts, journal, and page-map anchors
+
+## 2026-04-08 - Leonardo / Kepler method check through Ihmig and Ferrari
+
+Ran a bounded reread of Parts `80-86` against the new Ihmig and Ferrari reading notes and wrote `reading/2026-04-08-leonardo-to-kepler-reread-through-ihmig-and-ferrari.md`.
+
+What was clarified:
+
+- Leonardo already earns much more method than a loose threshold contrast allows; law, analysis, anti-magic, and the `resolutive Methode` line are all already explicit before Kepler
+- the strongest local use of Ihmig is therefore to frame the transition as continuity plus mutation in the structure of cognition rather than as simple rupture
+- Kepler's real gain is not that method first appears, but that observational control, pure relation, and mathematical hypothesis become strict enough to reorganize the concept of experience itself
+- Ferrari helps mainly as a guardrail here; the Kepler pages themselves already resist any crude empiricist reading because objectivity remains tied to unifying acts of mind
+- the perception line in Parts `84-86` should now be treated as method-bearing rather than decorative, since harmony, relation, and empirical judgment are being developed together
+
+Decision for now:
+
+- keep the Leonardo to Kepler line framed as `framework opened` versus `framework tightened`, not as `pre-scientific` versus `scientific`
+- keep `Erfahrung`, `Relation`, and `Hypothese` tied together in the next Kepler tranches before promoting any one of them in apparatus
+- do not widen glossary or thread structure yet; the gain is a cleaner local reading rule, not a new repo layer
+
+## 2026-04-08 - Thirty-Seventh Naturphilosophie Tranche
+
+Advanced Kepler through printed pages `348-351` and wrote Part `88`.
+
+What was clarified:
+
+- Kepler now states the anti-mystical boundary as clearly as anything in the chapter: symbolic play is admissible only as play unless secure reasons show real causal connection
+- the Fludd exchange sharpens the reality claim: abstraction is not an escape from the real, but the most faithful image of relational structure
+- the Phaedo line returns here with real force; Cassirer is explicitly folding Kepler back into the same anti-hieroglyphic, anti-image-thinking line that opened the chapter
+- the deeper target is no longer only mysticism but the whole Aristotelian-scholastic world of substantial forms
+- the strongest new gain is Kepler's recasting of difference itself: not identity versus bare otherness, but graded mediation, `more` and `less`, under the sovereignty of geometry wherever matter is at issue
+- this is also the sharpest reprise so far of the earlier Leonardo / Fracastoro conflict, but now at a higher level of methodological clarity
+
+Decision for now:
+
+- keep the geometry/mediation line visible; it now feels like a real Kepler signature rather than a passing comparison
+- continue into the next tranche because the anti-Aristotelian comparison is still open at the cut
+- still no glossary promotion; the concept-pressure is real, but the section is still actively specifying it
+
+## 2026-04-08 - Thirty-Eighth Naturphilosophie Tranche
+
+Advanced Kepler through printed pages `352-355` and wrote Part `89`.
+
+What was clarified:
+
+- the anti-Aristotelian form line now feeds directly into the force line; the same shift from absolute oppositions to mediated scientific determinations becomes the precondition for the new concept of force
+- Cassirer is very explicit that the early modern force problem first appears fused with life; the ensouled-cosmos view is the common field, not an eccentric residue
+- Kepler's decisive move is methodological rather than merely polemical: the mathematically ordered weakening of the moving cause with solar distance forces a bodily interpretation of the cause
+- this is where `Seele` and `Kraft` stop being neighboring names and become genuine conceptual opposites
+- the clockwork image matters because it marks the break from divine-animal cosmology without collapsing nature into inert dead mass
+- the line through `Energie`, `Naturkraft`, and lawful bodily dependence is one of the clearest places so far where Cassirer shows a modern concept being cut out of an older metaphysical field
+
+Decision for now:
+
+- keep the force line visible as a real local hinge, not just as another Kepler subtopic
+- continue into the next tranche because the lawful scope of `Naturkraft` is still cut off mid-definition
+- still no glossary promotion; the journal and part files are carrying the pressure adequately for now
+
+## 2026-04-08 - Context packages and Bruno chain externalized
+
+Built two new retrieval artifacts from the whole-run / apparatus probe:
+
+- `reading/context-packages.md`
+- `source/bruno-generative-chain.yaml`
+
+What was clarified:
+
+- the repo now has enough compression layers that session startup should be explicit rather than improvised; `kernel + overlay` is the right operating rule for `Erkenntnisproblem`
+- the parts remain the translation and truth surface, while the journal, ledger, and scratch notes function as retrieval surfaces that should be loaded selectively rather than all at once
+- whole-run reading loses resolution unless noticing is externalized as it happens, especially in late Bruno where the rate of internal correction is too high to survive compaction
+- the Bruno run can now be held at roughly the same retrieval resolution as the Cusanus line: Copernican method break, inward shift of truth, aesthetic mediation, two-realm near-modernity, relation and development, all-nature and rule, the `Minimum` repair, `Grenze` as relation-level law, the return of pure quantity, and the final collapse of method into mathematical magic
+- context pressure should prefer slices over bulk preload: active parts, matching journal entries, matching ledger entries, active glossary pressure, then structured chain files
+
+Concrete project changes:
+
+- added `reading/context-packages.md` as a session-start manifest for future human / LLM work
+- added `source/bruno-generative-chain.yaml` as the first structured recovery surface for the late Bruno sequence
+
+Decision for now:
+
+- use `reading/context-packages.md` as the default startup guide for future `Erkenntnisproblem` sessions
+- use `source/bruno-generative-chain.yaml` for any bounded reread of late Bruno, especially Parts `76-79`
+- leave the post-Bruno exact-science threshold unchained for now; first earn a bounded reread note on the Leonardo / early Kepler stretch before deciding whether it needs a comparable structured artifact
+
+## 2026-04-08 - Thirty-Ninth Naturphilosophie Tranche
+
+Advanced Kepler through printed pages `356-359` and wrote Part `90`.
+
+What was clarified:
+
+- the force line now receives its exact methodological form: cause is no longer an inner mover behind motion, but a set of mathematically determinable conditions
+- this is the sharpest exclusion yet of outside spiritual agency from physics, because any such appeal would introduce a geometric uncertainty into the demonstrative derivation of the universe
+- Aristotelian teleology falls under the same verdict; cause and effect must belong to one homogeneous mathematical order
+- the positive side is named just as strongly: force is rooted in number and statics, with Archimedes and Stevin providing the nearest secure historical model
+- Kepler does not yet reach the arithmetic of basic forces, but the ideal of modern dynamics is now stated with unusual clarity and Newton becomes legible as the later execution of this demand
+- the Gilbert handoff is now earned rather than incidental; gravity is about to become the concrete test of the force/function framework
+
+Decision for now:
+
+- keep the force/function line visible; it is stronger than a generic `Kraft` note and carries real method
+- continue directly into the Gilbert / gravity tranche before deciding whether the Kepler mechanics line has reached a local resting point
+- still no glossary promotion; the gains are carried adequately by the parts, journal, and page-map anchors
+
+## 2026-04-08 - Fortieth Naturphilosophie Tranche
+
+Advanced Kepler through printed pages `360-363` and wrote Part `91`.
+
+What was clarified:
+
+- Gilbert's real significance here is anti-ontological and methodological: he strips gravity of privileged place, fixed directional oppositions, and vague substantial affinities
+- attraction now becomes a general natural cause rooted in bodies themselves and delimited by distance and range
+- Kepler radicalizes Gilbert in two directions: attraction extends between cosmological masses, and magnetism itself helps force the move from spirit to nature
+- the earth / moon and tide application shows why the Newton line is already historically relevant without collapsing Kepler into Newton retrospectively
+- the deepest shift at the cut is the definition of gravity as reciprocal interaction; the real question becomes the law of variation, not the metaphysical substance of force
+
+Decision for now:
+
+- keep Gilbert as part of the live Kepler line rather than demoting him to background history
+- continue immediately into the correlate concept of matter, since the law-question now clearly requires it
+- still no glossary promotion; the main gain is structural and remains local to the current chain
+
+## 2026-04-08 - Forty-First Naturphilosophie Tranche
+
+Advanced Kepler through printed pages `364-367` and wrote Part `92`.
+
+What was clarified:
+
+- the inverse-square result is still missed, but the real gain is that the gravitation problem is now explicitly posed as a numerical law-question
+- the correlate concept is finally earned: matter first becomes scientifically firm through mass, inertia, and quantitative resistance
+- Kepler's vocabulary is still unstable between `Masse`, `Gewicht`, and `Trägheit`, but the conceptual move is clear enough to matter historically
+- matter and force no longer stand as metaphysical opposites; they become corresponding sides of one mathematical causality
+- `ubi materia, ibi geometria` is one of the strongest local formulas in the whole Kepler run, because it explains at once the revaluation of matter, nature, and geometry
+- the opening of `c) Der Begriff des Gesetzes` now makes the next methodological turn explicit
+
+Decision for now:
+
+- keep the mass/inertia line in view as a genuine conceptual gain, not just a pre-Newtonian curiosity
+- continue into `Der Begriff des Gesetzes` before deciding whether the Kepler section is nearing closure
+- still no glossary promotion; the apparatus pressure is real, but the section is still actively unfolding
+
+## 2026-04-08 - Forty-Second Naturphilosophie Tranche
+
+Advanced Kepler through printed pages `368-371` and wrote Part `93`.
+
+What was clarified:
+
+- the law section opens by defending Euclid against Ramist method-talk; the element matters as form of connection, not as a stockpile of materials
+- geometry is now methodologically first in a more exact sense, and this is also why pure number remains derivative rather than sovereign
+- the seven-gon passage is one of the clearest local distinctions so far between algebraic definability and scientific possibility
+- `scientiae possibilitatem praecedit descriptionis possibilitas` is the strongest formula in the tranche; scientific possibility remains tied to geometrical describability
+- Kepler is therefore not simply a Pythagorean, and the contrast with Descartes is also cleaner now: synthetic geometry still governs the whole line
+- the real empirical break is the ellipse; by giving up circular perfection under observational pressure, Kepler first makes the lawfulness of the nonuniform scientifically real
+
+Decision for now:
+
+- keep the geometry / number / description line visible; it now feels like a genuine method-bearing gain rather than a side note
+- continue into the Fabricius continuation before deciding whether the Kepler section is nearing a local resting point
+- still no glossary promotion; the section is earning method, but the current apparatus is sufficient

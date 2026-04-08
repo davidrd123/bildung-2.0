@@ -1,0 +1,312 @@
+# First-pass structured representation of the Bruno sequence that closes
+# Renaissance `Naturphilosophie` and opens the threshold of exact science.
+#
+# Scope:
+# - built from translated Parts 68-79 plus journal / ledger notes
+# - meant to preserve the rate of internal correction across the Bruno run
+# - not a replacement for the parts
+# - status remains provisional until reused in later rereads or contact tests
+
+chapter: "Bruno and the threshold of exact science"
+status: "first-pass"
+scope:
+  parts: [68, 79]
+  printed_pages: ["268", "315"]
+  purpose: "Track how Cassirer grants Bruno maximal cosmological, epistemic, and ontological gains, then shows why exact science still fails without mathematical mediation."
+
+schema:
+  position: "What the current stage claims or presupposes."
+  internal_pressure: "Where the stage fails or becomes unstable on its own terms."
+  operation: "The specific conceptual transformation Cassirer attributes to Bruno or to the Bruno threshold."
+  yield: "What new resource becomes available after the transformation."
+  generated_problem: "What the new position still cannot handle and therefore passes forward."
+  conditions_of_application: "When the concept is doing valid work and when it should not be detached into a free template."
+
+nodes:
+  - id: "copernican-method-break-and-bruno-entry"
+    label: "Copernican method break and Bruno's entry point"
+    parts: [68, 69, 70]
+    printed_pages: ["268-279"]
+    resolves_pressure_from: null
+    anchor_terms:
+      - "infinite"
+      - "Copernicus"
+      - "Sinnenschein"
+      - "mit beiden Augen"
+      - "Harmonie"
+      - "Weltseele"
+      - "erkenntnistheoretisches Fundament"
+    position:
+      - "The infinite opens beyond every finite `here` and `now`, and the Copernican world-picture becomes a correction of immediate sight by mathematical construction, principled unity, and harmony."
+      - "Galileo's and Copernicus' astronomy already treats the truth of facts as a matter of scientific experience and demonstrative method."
+      - "Bruno enters under this pressure, but still carries world-soul, inner sense, sympathy, and ensouled heavens as causal and cognitive residues."
+    internal_pressure:
+      - "Cosmological boldness and infinite-world language do not yet prove a new concept of knowing."
+      - "If psychic mediation still organizes causality and cognition, the gain remains natural-philosophical rather than scientifically grounded."
+    operation:
+      - "Cassirer shifts the test from doctrine and world-picture to grounding: Bruno must be judged by the form of cognition his position can actually justify."
+    yield:
+      - "The Bruno stretch is framed from the start as a method problem, not just as a more daring cosmology."
+    generated_problem:
+      - "Can Bruno produce a genuine epistemic break, or does the Copernican enlargement remain metabolized by world-metaphysics?"
+    conditions_of_application:
+      - "Use when a Copernican or anti-Ptolemaic gain still needs to be distinguished from a mathematically grounded science."
+      - "Do not treat Bruno as already Galilean on the basis of infinite worlds or anti-centrality alone."
+
+  - id: "infinity-moves-truth-inward"
+    label: "Infinity moves truth inward, but not yet critically"
+    parts: [71]
+    printed_pages: ["280-283"]
+    resolves_pressure_from: "copernican-method-break-and-bruno-entry"
+    anchor_terms:
+      - "infinity"
+      - "Vernunft"
+      - "Intellekt"
+      - "Geist"
+      - "Selbstbewusstsein"
+      - "intellectio"
+      - "interna lectio"
+      - "Pantheismus"
+    position:
+      - "Truth begins from sense but no longer has its seat there; the real source of certainty shifts toward reason, intellect, and spirit."
+      - "Copernican decentering enlarges self-consciousness because infinite objective tasks reveal the independence and productivity of thought."
+      - "`Intellectio` is recast as `interna lectio`, no longer as mere inward reception of outwardly given matter."
+    internal_pressure:
+      - "Bruno's theory of knowledge is still derived from the metaphysics of one infinite substance active in everything."
+      - "Logical genesis and metaphysical genesis therefore remain fused."
+    operation:
+      - "Cassirer gives Bruno his strongest anti-sensualist break by tying infinity, self-consciousness, and intellect together."
+    yield:
+      - "The seat of truth is relocated inward, and the dependence of cognition on immediate sense is decisively broken."
+    generated_problem:
+      - "How can this inward turn be converted into a distinct logic of science rather than a special case of the world-process?"
+    conditions_of_application:
+      - "Use only where anti-sensualism is tied to infinity and self-consciousness together."
+      - "Do not collapse this node into generic inwardness or mere idealist rhetoric."
+
+  - id: "beauty-and-imagination-mediate"
+    label: "Beauty and imagination mediate, but do not yet separate"
+    parts: [72]
+    printed_pages: ["284-287"]
+    resolves_pressure_from: "infinity-moves-truth-inward"
+    anchor_terms:
+      - "Plotinus"
+      - "das Schone"
+      - "spiritualita"
+      - "Imagination"
+      - "self-return"
+    position:
+      - "Matter is no longer only shadow and fall, but also bears an inner striving toward form."
+      - "Beauty mediates between sensible and intelligible world, and imagination becomes the link between passive affection and rational activity."
+      - "The path upward runs through return into the depth of the self rather than through mere contemplation of the stars."
+    internal_pressure:
+      - "This mediation remains aesthetic and metaphysical before it becomes scientific."
+      - "Sense is no longer simply rejected, but its relation to knowledge is still not differentiated into a lawful theory of cognition."
+    operation:
+      - "Cassirer gives Bruno the richest middle term available to him before mathematics properly enters."
+    yield:
+      - "Sensation becomes reflexive in imagination, and reason remains materially tethered rather than severed from appearance."
+    generated_problem:
+      - "Can the distinct conditions of sensible and intelligible cognition now be articulated without slipping back into metaphysical unity?"
+    conditions_of_application:
+      - "Use when the issue is Bruno's strongest mediation between appearance and thought."
+      - "Do not detach imagination here as a free-standing generic bridge concept."
+
+  - id: "two-realms-without-mathematics"
+    label: "Two realms without mathematics"
+    parts: [73]
+    printed_pages: ["288-291"]
+    resolves_pressure_from: "beauty-and-imagination-mediate"
+    anchor_terms:
+      - "relative truth"
+      - "two realms"
+      - "Kant comparison"
+      - "Mathematik"
+      - "Analyse"
+      - "Abstraktion"
+    position:
+      - "Sense and intellect are now granted genuinely different conditions of cognition and must not be judged by one common measure."
+      - "Empirical truth is valid according to the proper measure of appearance and the sensing subject."
+      - "Cognition is redirected away from genus-abstraction toward analysis of moments and relations within a whole."
+    internal_pressure:
+      - "Bruno still cannot isolate universally valid relations within the phenomenal world."
+      - "The genuine middle term of mathematics is missing, so the cooperation of sense and thought cannot become exact science."
+    operation:
+      - "Cassirer gives Bruno his strongest near-modern position while immediately limiting it."
+    yield:
+      - "A real two-domain distinction appears, and relation takes priority over empty logical abstraction."
+    generated_problem:
+      - "Can analysis ground lawful phenomenal knowledge if mathematics remains absent and appearance retains only relative truth?"
+    conditions_of_application:
+      - "Use to mark Bruno's closest approach to a relation-centered science."
+      - "Do not flatten the limit by treating the Kant comparison as fulfillment rather than pressure."
+
+  - id: "analysis-sharpens-then-yields-to-development"
+    label: "Analysis sharpens, then yields to force and development"
+    parts: [74]
+    printed_pages: ["292-295"]
+    resolves_pressure_from: "two-realms-without-mathematics"
+    anchor_terms:
+      - "Subsumption"
+      - "Analyse"
+      - "circle"
+      - "Kraft"
+      - "Potenz"
+      - "Werden"
+      - "Zeit"
+    position:
+      - "Understanding means grasping determinations in a unity of rule rather than merely subsuming particulars under higher genera."
+      - "The mathematical circle shows that perception cannot even identify exact circularity without law-governed understanding."
+      - "From there the argument shifts into force, potency, becoming, and time."
+    internal_pressure:
+      - "Multiplicity still appears only as a lower and obstructive moment rather than as a positive condition of cognition."
+      - "The epistemic problem therefore cannot be completed within logic and is displaced into natural philosophy."
+    operation:
+      - "Cassirer lets relation and law sharpen, then moves the unresolved problem into a dynamic matter concept governed by development."
+    yield:
+      - "The finite / infinite relation becomes temporally and developmentally articulated instead of resting on static spatial analogy."
+    generated_problem:
+      - "How can universality and singular empirical being be held together once the real work has moved from logic into dynamic nature?"
+    conditions_of_application:
+      - "Use when Bruno's positive relation-language needs to be distinguished from mathematical reconciliation."
+      - "Do not treat the move to force and development as a solution to the problem of exact science."
+
+  - id: "all-nature-and-rule"
+    label: "Substance dissolves into all-nature and rule"
+    parts: [75]
+    printed_pages: ["296-299"]
+    resolves_pressure_from: "analysis-sharpens-then-yields-to-development"
+    anchor_terms:
+      - "individual substance"
+      - "substrate"
+      - "all-nature"
+      - "universale Regel"
+      - "Natur = Gesetz"
+    position:
+      - "True being belongs not to the singular thing bound to `here` and `now`, but to enduring unity, substrate, and all-nature."
+      - "Rational cognition therefore targets not the natural thing but nature as unified ground and universal rule."
+    internal_pressure:
+      - "The universality gained here remains ontological and substantial rather than mathematical."
+      - "Empirical nature still lacks exact scientific intelligibility as a field of lawful phenomenal relations."
+    operation:
+      - "Bruno gives pantheism a retrospective epistemological function and prepares the passage from nature toward law on the side of ontology."
+    yield:
+      - "Cassirer can now say precisely how Bruno both approaches and differs from Galileo."
+    generated_problem:
+      - "If universality is secured only as substance or substrate, how can singular phenomena become exact objects of knowledge?"
+    conditions_of_application:
+      - "Use when Bruno's `Natur = Gesetz` pressure is at issue."
+      - "Do not treat this node as evidence that Bruno already possesses mathematical law."
+
+  - id: "minimum-as-repair-and-closure"
+    label: "Minimum restores the singular by closing the continuum"
+    parts: [76]
+    printed_pages: ["300-303"]
+    resolves_pressure_from: "all-nature-and-rule"
+    anchor_terms:
+      - "innere Antinomie"
+      - "Minimum"
+      - "measure"
+      - "irrational"
+      - "continuum"
+      - "history of empirical nature"
+    position:
+      - "Bruno's earlier universalism has dissolved empirical physics into metaphysics and left only a history of empirical nature, not an exact science."
+      - "The doctrine of the minimum tries to rebuild singularity and qualitative difference through domain-specific elementary unities."
+    internal_pressure:
+      - "The repair immediately turns into closure once the irrational and the continuum are rejected."
+      - "Measure is tied to discrete proportional minima alone."
+    operation:
+      - "Cassirer shows Bruno trying to restore the singular by synthetic primitive positings rather than by mathematical relation."
+    yield:
+      - "The inner antinomy of the Bruno sequence becomes explicit instead of remaining implicit."
+    generated_problem:
+      - "What happens to relations, boundaries, and lawful structures that are not compositional products of minima?"
+    conditions_of_application:
+      - "Use only together with the antinomy that forced the minimum-doctrine."
+      - "Do not isolate the minimum as a merely curious mathematical mistake."
+
+  - id: "boundary-exposes-relation-level-law"
+    label: "Boundary exposes what minimum cannot absorb"
+    parts: [77]
+    printed_pages: ["304-307"]
+    resolves_pressure_from: "minimum-as-repair-and-closure"
+    anchor_terms:
+      - "Minimum"
+      - "Grenze"
+      - "terminus"
+      - "exact equality"
+      - "transformation"
+      - "geometry"
+    position:
+      - "Geometry is reconstrued as a synthesis of discrete quasi-physical minima, so exact equality and exact transformation become illegitimate."
+      - "Bruno sharply distinguishes minimum from boundary or `terminus`."
+    internal_pressure:
+      - "Boundary is not a part and not a minimum, yet it has its own lawful role."
+      - "This admits structures and relations that cannot be exhausted by composition out of elements."
+    operation:
+      - "Cassirer turns Bruno's own distinction against the doctrine and reopens scientific geometry from within the minimum framework."
+    yield:
+      - "A relation-level lawfulness emerges that composition alone cannot master."
+    generated_problem:
+      - "Can interval, pure quantity, and pure space now be granted autonomous status rather than being pushed back under discrete synthesis?"
+    conditions_of_application:
+      - "Use when the Bruno problem needs to be stated as one of pure relation and boundary-structure, not merely of irrational magnitude."
+      - "Do not reduce this node to the claim that Bruno simply 'disliked infinity.'"
+
+  - id: "pure-quantity-returns-through-a-broken-detour"
+    label: "Pure quantity returns, but only through a broken detour"
+    parts: [78]
+    printed_pages: ["308-311"]
+    resolves_pressure_from: "boundary-exposes-relation-level-law"
+    anchor_terms:
+      - "Intervall"
+      - "void"
+      - "pure quantity"
+      - "Democritus"
+      - "Leibniz"
+      - "relation"
+      - "continuum"
+    position:
+      - "Bruno's own distinction between minimum and boundary forces interval, void, pure quantity, and relation back into view."
+      - "The comparison to Democritus and especially Leibniz clarifies that Bruno still burdens the minimum with extension as a metaphysical predicate."
+    internal_pressure:
+      - "Bruno cannot let pure quantity and relation stand autonomously."
+      - "To generate geometry he must already presuppose geometry, and discrete number remains the hidden sovereign of thought."
+    operation:
+      - "Cassirer isolates the exact point where the minimum-doctrine both anticipates and blocks the later path toward infinitesimal analysis."
+    yield:
+      - "The Bruno line can now be treated as a real prehistory of modern mathematical pressure without granting it modern fulfillment."
+    generated_problem:
+      - "If the continuum breaks the old harmony between intellect and nature, how can mathematics become a true theory of experience?"
+    conditions_of_application:
+      - "Use as prehistory only."
+      - "Do not read Bruno directly into Leibniz, calculus, or modern analysis."
+
+  - id: "method-collapses-and-exact-science-opens"
+    label: "Mathematics remains model, but method collapses"
+    parts: [79]
+    printed_pages: ["312-315"]
+    resolves_pressure_from: "pure-quantity-returns-through-a-broken-detour"
+    anchor_terms:
+      - "mathematics as middle"
+      - "mathematical magic"
+      - "Lullian memory art"
+      - "logoi"
+      - "pragmata"
+      - "exact science"
+    position:
+      - "Bruno still acknowledges mathematics as model and as the middle between perception and pure ideas."
+      - "Yet he also lets magic claim the same middle place, and his doctrine of method slides into mnemonic and magical technique."
+    internal_pressure:
+      - "Without a mathematical theory of experience, the acknowledged model cannot govern scientific practice."
+      - "The divergence between the conditions of mind and the conditions of being now becomes explicit."
+    operation:
+      - "Cassirer closes the Bruno sequence with a methodological verdict and reopens the next chapter through Plato's relation of `logoi` to `pragmata`."
+    yield:
+      - "Bruno is fixed as the last great ontological preparation-field before exact science, not as a partial Galileo."
+    generated_problem:
+      - "The positive chapter on exact science must now show how concept and experience become lawfully correlated rather than merely juxtaposed."
+    conditions_of_application:
+      - "Use as the closure of the Bruno line and as the opening condition for Leonardo and Kepler."
+      - "Do not treat the verdict as a dismissal of the Renaissance effort as such; it is a precise failure of mediation."

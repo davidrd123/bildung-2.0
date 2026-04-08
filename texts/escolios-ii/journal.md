@@ -276,3 +276,16 @@ The run now reaches `§780` with two more sections:
 The first section keeps the pressure on metaphysics, value, and education: metaphysics dies when read literally, values are treated as realities that cannot be naturalized into the world, and modern man is diagnosed less as possessed than as colonized by stupid ideas. The next section turns toward inheritance, transcendence, and imprisonment. Definition is assigned to the immanent, description to the transcendent, inheritance becomes nourishment rather than burden, and science is explicitly demoted to an inventory of the prison rather than a route out of it.
 
 This stretch only forced one exact repair in the live source: `§777` now restores the printed `etc.,` punctuation in the sequence of humiliations. The extracted count still holds at `2442`, and the only flagged casualty remains `id 1189`.
+
+## 2026-04-08 — Sections 35 Through 38 Added
+
+The run now reaches `§860` with four more sections:
+
+- `§781-800` / printed pages `139-142` in [sections/35-scandal-and-admiration.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/35-scandal-and-admiration.md)
+- `§801-820` / printed pages `142-145` in [sections/36-politics-and-vacuity.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/36-politics-and-vacuity.md)
+- `§821-840` / printed pages `145-148` in [sections/37-reaction-and-complicity.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/37-reaction-and-complicity.md)
+- `§841-860` / printed pages `149-152` in [sections/38-christendom-and-paradox.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/38-christendom-and-paradox.md)
+
+This longer run keeps several major lines in motion at once without letting any one of them turn into system. `§781-800` turns around scandal, admiration, history, and the great dead as the real discipline of intelligence. `§801-820` becomes more openly political, but the governing issue is vacuity: collectivity used as alibi, vocation versus exterior assignment, and politics as the occupation of empty souls. `§821-840` then hardens the reactionary line without reducing it to slogan: hierarchy rescues contradiction, beauty and religion are complicit rather than interchangeable, and metanoia matters more than counter-revolutionary theatrics. The last section, `§841-860`, is the most constructively political stretch yet, because it keeps distinguishing discipline from theocracy, Christendom from the kingdom of God, and paradoxical structure from coherent system.
+
+This stretch forced a single local cleanup pass across the source pocket, but the repairs remained exact and limited: `§777`, `§818`, `§821`, `§823`, `§826`, `§832`, `§833`, `§854`, `§855`, `§856`, and `§860`. The extracted count still holds at `2442`, and the only flagged casualty remains `id 1189`.

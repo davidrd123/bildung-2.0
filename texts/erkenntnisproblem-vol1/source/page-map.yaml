@@ -633,3 +633,108 @@ ranges:
     printed_pages: ["343", "343"]
     trust: "high"
     note: "The running internal heading on printed page 343 / PDF page 367 marks Kepler's integration of astronomical formula and physical ground-relation within a unified mathematically-physical account of phenomena."
+
+  - slug: "realistische-und-idealistische-deutung-der-astronomischen-hypothesen-within-kepler"
+    label: "Opening of `Realistische und idealistische Deutung der astronomischen Hypothesen` within the Kepler section"
+    pdf_pages: [369, 369]
+    printed_pages: ["345", "345"]
+    trust: "high"
+    note: "The running internal heading on printed page 345 / PDF page 369 marks the conflict between Osiander's merely computational reading of Copernicus and Kepler's demand for a unified natural system."
+
+  - slug: "die-hypothese-als-grundlage-des-calculs-within-kepler"
+    label: "Opening of `Die Hypothese als Grundlage des Calculs` within the Kepler section"
+    pdf_pages: [371, 371]
+    printed_pages: ["347", "347"]
+    trust: "high"
+    note: "The running internal heading on printed page 347 / PDF page 371 marks Kepler's strongest defense of hypothesis as the lifeblood of astronomy and the condition under which mathematics escapes mystical allegory."
+
+  - slug: "mathematische-und-mystische-naturanschauung-within-kepler"
+    label: "Opening of `Mathematische und mystische Naturanschauung` within the Kepler section"
+    pdf_pages: [373, 373]
+    printed_pages: ["349", "349"]
+    trust: "high"
+    note: "The running internal heading on printed page 349 / PDF page 373 marks Kepler's explicit separation of proof-bearing mathematical science from mystical symbolism and imagistic immediacy."
+
+  - slug: "der-ontologische-und-der-mathematische-formbegriff-within-kepler"
+    label: "Opening of `Der ontologische und der mathematische Formbegriff` within the Kepler section"
+    pdf_pages: [375, 375]
+    printed_pages: ["351", "351"]
+    trust: "high"
+    note: "The running internal heading on printed page 351 / PDF page 375 marks the widening of the Kepler/Fludd dispute into a deeper conflict with Aristotelian substantial form and the logic of identity versus mathematical mediation."
+
+  - slug: "der-begriff-der-kraft-within-kepler"
+    label: "Opening of `b) Der Begriff der Kraft` within the Kepler section"
+    pdf_pages: [377, 377]
+    printed_pages: ["353", "353"]
+    trust: "high"
+    note: "The internal section opening on printed page 353 / PDF page 377 marks the point where the Kepler run turns from mathematical form to the modern concept of force."
+
+  - slug: "kraftbegriff-und-seelenbegriff-within-kepler"
+    label: "Opening of `Kraftbegriff und Seelenbegriff` within the Kepler section"
+    pdf_pages: [379, 379]
+    printed_pages: ["355", "355"]
+    trust: "high"
+    note: "The running internal heading on printed page 355 / PDF page 379 marks Kepler's break from planetary soul to law-governed nature-force and the clockwork conception of the cosmos."
+
+  - slug: "kraftbegriff-und-funktionsbegriff-within-kepler"
+    label: "Opening of `Kraftbegriff und Funktionsbegriff` within the Kepler section"
+    pdf_pages: [381, 381]
+    printed_pages: ["357", "357"]
+    trust: "high"
+    note: "The running internal heading on printed page 357 / PDF page 381 marks the point where Kepler's force-concept is explicitly recast as a mathematically conditioned function-concept."
+
+  - slug: "die-arithmetik-der-kraefte-within-kepler"
+    label: "Opening of `Die Arithmetik der Kräfte` within the Kepler section"
+    pdf_pages: [383, 383]
+    printed_pages: ["359", "359"]
+    trust: "high"
+    note: "The running internal heading on printed page 359 / PDF page 383 marks Cassirer's strongest local statement that force must be rooted in number, statics, and the still-unfinished ideal of dynamics."
+
+  - slug: "die-theorie-des-magnetismus-within-kepler"
+    label: "Opening of `Die Theorie des Magnetismus. — Gilbert.` within the Kepler section"
+    pdf_pages: [385, 385]
+    printed_pages: ["361", "361"]
+    trust: "high"
+    note: "The running internal heading on printed page 361 / PDF page 385 marks Gilbert's anti-ontological reformulation of attraction and the break from privileged place-based gravity."
+
+  - slug: "die-theorie-der-gravitation-within-kepler"
+    label: "Opening of `Die Theorie der Gravitation` within the Kepler section"
+    pdf_pages: [387, 387]
+    printed_pages: ["363", "363"]
+    trust: "high"
+    note: "The running internal heading on printed page 363 / PDF page 387 marks Kepler's shift from magnetism as analogy to gravity as reciprocal interaction between masses."
+
+  - slug: "der-massenbegriff-within-kepler"
+    label: "Opening of `Der Massenbegriff` within the Kepler section"
+    pdf_pages: [389, 389]
+    printed_pages: ["365", "365"]
+    trust: "high"
+    note: "The running internal heading on printed page 365 / PDF page 389 marks the point where matter first receives scientific determination through mass, resistance, and quantitative correlation with force."
+
+  - slug: "die-traegheit-der-materie-within-kepler"
+    label: "Opening of `Die \"Trägheit\" der Materie` within the Kepler section"
+    pdf_pages: [391, 391]
+    printed_pages: ["367", "367"]
+    trust: "high"
+    note: "The running internal heading on printed page 367 / PDF page 391 marks the transformation of inertia from a sensible image into a mathematical principle and the rejoining of matter with force inside one causal order."
+
+  - slug: "der-begriff-des-gesetzes-within-kepler"
+    label: "Opening of `c) Der Begriff des Gesetzes` within the Kepler section"
+    pdf_pages: [391, 391]
+    printed_pages: ["367", "367"]
+    trust: "high"
+    note: "The internal section opening on printed page 367 / PDF page 391 marks the turn from force and matter to Kepler's explicit methodology of law and the primacy of geometry."
+
+  - slug: "verhaeltnis-des-zahlbegriffs-zum-raumbegriff-within-kepler"
+    label: "Opening of `Verhältnis des Zahlbegriffs zum Raumbegriff` within the Kepler section"
+    pdf_pages: [393, 393]
+    printed_pages: ["369", "369"]
+    trust: "high"
+    note: "The running internal heading on printed page 369 / PDF page 393 marks Kepler's subordination of pure number to geometry and his distance from a simple Pythagorean reading."
+
+  - slug: "die-gesetzlichkeit-des-ungleichfoermigen-within-kepler"
+    label: "Opening of `Die Gesetzlichkeit des Ungleichförmigen` within the Kepler section"
+    pdf_pages: [395, 395]
+    printed_pages: ["371", "371"]
+    trust: "high"
+    note: "The running internal heading on printed page 371 / PDF page 395 marks the decisive methodological turn by which Kepler's ellipse makes lawful nonuniformity scientifically admissible."
