@@ -1,0 +1,57 @@
+## Question Restated At Full Strength
+
+The strongest version of the question is not “does grounding matter?” It is this: does the Peircean label **Secondness** identify a real bottleneck in current AI—namely, the lack of resistant interaction with something outside the model’s own sign-processing—and, if so, does that bottleneck explain an important slice of current failure modes better than existing terms like grounding, embodiment, verification, or tool use? It also asks whether systems that learn through executable or embodied feedback show a distinct capability profile from text-only systems, whether that profile can be scaled, and whether Sutton’s Bitter Lesson supports that view or cuts against it.
+
+## Best Current Answer
+
+The overlap with the grounding literature is real, but it is not an exact match. Harnad’s symbol grounding problem asks how symbols get meaning from anything other than other symbols; Brooks argues that direct perception-action coupling can make heavy internal representation unnecessary; Barsalou’s perceptual-symbol view grounds concepts in multimodal reenactments; Bisk et al. argue that language understanding depends on shared worldly and social experience; and Chandu et al. distinguish **static grounding** from **dynamic grounding** built through clarification, correction, and common-ground construction. Current grounded-cognition work is also not purely sensorimotor anymore; hybrid views are common. So the “Secondness” claim is not discovering an untouched problem so much as re-weighting an existing cluster of concerns around interaction, correction, and contact with a world outside text. ([sciencedirect.com][1])
+
+The real difference is that “Secondness” bundles together three things that the literature usually keeps apart: **semantic grounding**, **resistant feedback**, and **live world-contact**. That bundle is useful only if it stays explicit. A theorem prover or compiler gives resistant feedback without sensorimotor grounding. A multimodal model may get richer perceptual association without the kind of non-negotiable correction the chat is after. And the current literature is genuinely split: Harnad still argues LLMs lack sensorimotor grounding, while Gubelmann argues the symbol-grounding problem does not straightforwardly apply to LLMs, and Mandelkern and Linzen argue LMs may achieve reference through causal-historical embedding in a speech community rather than direct bodily coupling. So “missing Secondness” is a substantive proposal, not a settled restatement of current theory. ([Frontiers][2])
+
+Empirically, thin channels of resistant feedback do help a great deal. In closed formal environments, AlphaZero reached superhuman play from random play with no domain knowledge beyond the rules; AlphaProof interacts with Lean as a verifiable environment; AlphaCode 2 executes samples on public tests and filters out about 95% of them; and execution-feedback methods such as PerfCodeGen and RankEF report sizable gains over non-execution baselines. That is strong evidence for a **modest** claim: scalable search/learning gets better when an environment can cheaply and repeatedly reject bad candidates. ([AI Lab UA][3])
+
+But those successes are strongest where the “world” is already formalized. Games, compilers, test suites, and theorem provers are resistant, but they are closed and highly specified. That means they are excellent evidence for scalable **verifiable feedback**, but weaker evidence for full open-world grounding. The limit shows up quickly: benchmarks for formally verified code generation such as FVAPPS and CLEVER still show strong models struggling when correctness must be proved rather than merely guessed or unit-tested. So resistant feedback helps, but it does not by itself yield human-like semantics or general reliability. ([arXiv][4])
+
+Robotics is the strongest evidence for something closer to worldly Secondness, and also the strongest evidence that it is hard to scale. RT-2 reports more than 3x gains on emergent-skill evaluations and raises unseen-scenario performance from 32% to 62%; BrainBody-LLM reports a 29% improvement in task success with closed-loop state feedback. But RT-2 builds on RT-1 data collected with 13 robots over 17 months, robot-learning surveys still identify closing the perception-action loop as a core challenge, and a 2025 survey on force/tactile foundation models says current imitation-learning systems are often not yet operating at dynamics where force truly matters. So the present evidence is: embodied feedback matters, but it is far costlier, sparser, and more brittle than web-text scaling. ([Google DeepMind][5])
+
+That makes the sentence “you can’t scale Secondness” too blunt. If “Secondness” means **any resistant external constraint**, then it already scales in closed domains: self-play, theorem proving, and code execution are examples. If it means **open physical and social contact with a partially specified world**, then the claim becomes much more plausible—but also much more empirical. The right version is comparative, not absolute: web-text scales cheaply; code/Lean/game feedback scales well in closed worlds; embodied and socially interactive feedback currently scale much worse. That is testable. Evidence against it would be robust scaling laws for embodied or social interaction that continue to beat text-only baselines on calibration, recovery from error, and reference-heavy tasks. Evidence for it would be persistent cost/benefit gaps, poor transfer from formal/simulated feedback to open-world tasks, and diminishing returns from more interaction data. Right now the evidence supports the weaker comparative claim, not the absolute one. ([AI Lab UA][3])
+
+The Bitter Lesson gloss in the chat is partly illuminating and partly domesticating. It is illuminating because Sutton really is attacking hand-imposed domain knowledge and praising search and learning that exploit computation. But as exegesis, “bad Thirdness loses to emergent Thirdness” is too friendly. Sutton’s actual claim is methodological and economic: general methods that leverage computation win in the long run, and “building in how we think we think” plateaus and inhibits progress. Recasting that as a semiotic story makes him sound closer to the chat’s framework than he really is. The better synthesis is: **the Bitter Lesson says don’t hand-code the structure; the Secondness question asks what kinds of environments scalable methods need in order not to spin free of reality.** 
+
+## Where The Thinking Needs More Pressure
+
+1. The argument needs a three-way distinction it currently lacks: **formal-verifiable feedback**, **embodied-physical feedback**, and **social-pragmatic feedback**. Lean and chess are not the same thing as tactile manipulation, and neither is the same as clarification, joint attention, and norm-sensitive repair in dialogue. Chandu and Bisk make that social/dynamic layer central, while AlphaProof shows that formal resistance can be very powerful without being worldly in the ordinary sense. ([CMU School of Computer Science][6])
+
+2. It needs to separate **meaning** from **correction**. A compiler or theorem prover can reject a bad move without settling whether the system’s concepts are grounded in Harnad’s or Barsalou’s sense. The live debate between Harnad, Gubelmann, and Mandelkern/Linzen exists precisely because semantic reference and external correction are not the same claim. ([sciencedirect.com][1])
+
+3. It needs causal evidence, not a gallery of suggestive cases. Right now the evidence says “feedback helps” far more clearly than it says “Secondness is the master variable.” The clean test would hold model family and compute roughly fixed, vary only the feedback channel, and measure calibration, error recovery, clarification behavior, and out-of-distribution reference. Existing results are too heterogeneous to prove a single law. ([CMU School of Computer Science][6])
+
+4. It needs to distinguish **scaling difficulty** from **metaphysical impossibility**. Robotics may scale badly because the data are expensive, dangerous, noisy, and heterogeneous—not because worldly feedback is in principle unscalable. The current surveys point much more strongly to engineering bottlenecks than to a demonstrated categorical ceiling. ([Google DeepMind][5])
+
+## Where A Softer Model Would Probably Go Wrong
+
+1. It would treat any external feedback as proof of genuine grounding. That overreads games, compilers, and theorem provers, which are resistant but closed. ([AI Lab UA][3])
+
+2. It would accept “hallucination = lack of Secondness” as the whole story. The evidence supports that as one important factor, not as a complete diagnosis.
+
+3. It would redescribe Sutton into the preferred philosophical vocabulary and miss the sting of his actual claim, which is anti-handcraft and pro-computation, not a latent theory of semiosis. 
+
+4. It would romanticize embodiment and ignore that the clearest current wins still come when scalable search/learning are paired with an environment that can cheaply say no. 
+
+## What Would Actually Move This Forward
+
+1. First, sharpen the concept. Split “Secondness” into at least three testable subtypes: **formal-verifiable**, **embodied-physical**, and **social-pragmatic**. Without that, evidence keeps sliding from one case to another too easily. ([CMU School of Computer Science][6])
+
+2. Second, run matched comparisons: the same base model under text-only training, retrieval/static grounding, execution feedback, theorem-prover interaction, simulator/robot interaction, and human clarification loops. Evaluate not just task success, but calibration after failure, willingness to ask for clarification, revisability, and transfer under environment shift. That would test dynamic grounding, not just answer production. ([CMU School of Computer Science][6])
+
+3. Third, report **performance per interaction dollar**, not just raw accuracy. That is the real place the “can it scale?” question lives. Closed formal environments may already show that resistant feedback scales; the open question is whether embodied and social feedback can become cheap enough to generate the same kind of compounding gains. ([Google DeepMind][5])
+
+4. Until that exists, the strongest current conclusion is narrower than the chat: **verifiable and embodied feedback matter a lot; closed-formal Secondness already scales; open-world Secondness is much harder and is still an empirical frontier, not a settled impossibility.** ([Nature][7])
+
+[1]: https://www.sciencedirect.com/science/article/pii/0167278990900876?utm_source=chatgpt.com "The symbol grounding problem"
+[2]: https://www.frontiersin.org/journals/artificial-intelligence/articles/10.3389/frai.2024.1490698/full "Frontiers | Language writ large: LLMs, ChatGPT, meaning, and understanding"
+[3]: https://ailab-ua.github.io/courses/resources/science_alphazero_december_2018.pdf "Science Journals — AAAS"
+[4]: https://arxiv.org/abs/2502.05714 "[2502.05714] Proving the Coding Interview: A Benchmark for Formally Verified Code Generation"
+[5]: https://deepmind.google/blog/rt-2-new-model-translates-vision-and-language-into-action/ "RT-2: New model translates vision and language into action — Google DeepMind"
+[6]: https://www.cs.cmu.edu/~awb/papers/2021.findings-acl.375.pdf "Grounding 'Grounding' in NLP"
+[7]: https://www.nature.com/articles/s41586-025-09833-y "Olympiad-level formal mathematical reasoning with reinforcement learning | Nature"

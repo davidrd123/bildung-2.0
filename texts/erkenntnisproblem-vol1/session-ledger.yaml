@@ -1,0 +1,76 @@
+# Session ledger for Erkenntnisproblem translation.
+# Experimental handoff file for session re-entry.
+#
+# Keep the scaffolding in English for fast cross-collaborator re-entry.
+# Keep German inline where the term itself carries the conceptual load
+# (for example: Potenz, Substanz, Weltorganismus, Bild des Bildes).
+# One record per session. Blocked sessions can still be recorded if they
+# sharpen the re-entry edge. `formation_notes` is optional raw trace, not a
+# required prose layer.
+
+sessions:
+  - date: 2026-04-07
+    collaborator: claude-opus-4.6-cli
+    session_outcome: blocked-no-source-pdf
+    parts_touched:
+      - 55
+
+    state_on_entry:
+      - "55 parts translated, through printed page 219 (PDF 243)."
+      - "Book II Naturphilosophie is at the Campanella -> Cardano/Telesio/Patrizzi -> Paracelsus transition."
+      - "Part 55 breaks mid-sentence on Paracelsus and bodily processes; Cassirer is about to carry the microcosmic medicine line further."
+      - "Patrizzi's Substanzkritik and Telesio's teleological reversal are locally closed."
+      - "Weltorganismus has become explicitly anti-instrumental by Part 55."
+      - "Paracelsus's Bild des Bildes is now live: self-knowledge is mediated through the whole organic reality."
+      - "No glossary update is forced yet; Potenz, Substanz, and Mikrokosmos/Makrokosmos remain under pressure."
+      - "The previous session (2026-04-06) was a Cusanus second-pass reread, not forward translation."
+
+    what_shifted:
+      - "The immediate blocker is material, not conceptual: the next source range is absent in this checkout."
+      - "The re-entry edge is now sharper: start at Part 55's broken sentence and the turn into Paracelsian medicine."
+
+    unresolved:
+      - "Need the source PDF or the next extracted range for printed pages 220-223 / PDF 244-247."
+      - "Need to see whether Bild des Bildes stays strong enough in the Paracelsus section to earn a glossary entry or cross-project trace."
+      - "Need to see whether Potenz and Substanz remain local argument terms or widen into chapter-level glossary pressure."
+      - "Need to decide whether Naturphilosophie's gains belong in close-reading-ledger.md or remain journal-scale."
+
+    re_entry_instructions:
+      - "Read Part 55 and local notes first; the live edge is the broken sentence on bodily processes."
+      - "Extract the next raw page range: printed 220-223 / PDF 244-247."
+      - "Expect the Paracelsus section to continue the Mikrokosmos/Makrokosmos claim into medicine and chemistry."
+      - "Watch whether Cassirer introduces new technical vocabulary or whether the existing Naturphilosophie terms keep carrying the load."
+
+    formation_notes: []  # optional; leave empty when nothing real happened
+
+  - date: 2026-04-07
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 55
+      - 56
+
+    state_on_entry:
+      - "Arrived with the ledger still treating the next Paracelsus tranche as blocked on source access."
+      - "The live textual edge remained Part 55's broken sentence on bodily processes and the turn into empirical medicine."
+      - "Main open pressure was whether mediated self-knowledge would stay central, and whether Paracelsian method terms would remain chapter-local."
+
+    what_shifted:
+      - "Verified that the source PDF is present in this checkout and extracted PDF 244-247."
+      - "Completed Part 56 through printed page 223."
+      - "The strongest new pressure is methodological: Paracelsus now splits Erfahrung into grounded analytical experiment versus the Irrsaal of disconnected observation."
+      - "The Sichtiges / Unsichtiges pair now reads as a methodological unity rather than a simple domain distinction."
+
+    unresolved:
+      - "Need the next tranche from printed 224-227 / PDF 248-251."
+      - "Need to see how the double meaning of Licht der Natur resolves and whether it forces glossary pressure."
+      - "Need to see whether Erfahrung, Invention, and Experiment remain local method terms or widen into chapter-level watch terms."
+
+    re_entry_instructions:
+      - "Read Part 56 first; the new edge is the opening of Licht der Natur at the end of printed page 223."
+      - "Extract the next raw page range: printed 224-227 / PDF 248-251."
+      - "Watch whether Cassirer keeps the method split between grounded experience and observational patchwork active."
+      - "Keep one eye on whether mediated self-knowledge recedes behind methodological vocabulary or remains structurally active."
+
+    formation_notes:
+      - "I came in expecting a straightforward praise of Paracelsian empiricism, but the text instead split Erfahrung in two and made experiment a disciplined use of forces rather than mere accumulation of observations."

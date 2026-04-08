@@ -209,6 +209,28 @@ Current downstream use:
 - reflected in Part `55`
 - held locally for now while the Paracelsus arc shows whether this mediated-knowledge structure keeps governing the chapter
 
+### Paracelsus: `Erfahrung` splits into method and `Irrsaal`
+
+Passage base:
+
+- Part `56`
+- printed pages `222-223`
+
+Finding:
+
+- Cassirer does not let `Erfahrung` remain a unitary positive term
+- Paracelsus is made to distinguish between a grounded, analytical, experiment-bearing experience and a merely additive accumulation of cases
+
+Why it matters:
+
+- this blocks a lazy reading of the Paracelsus run as simple proto-empiricism
+- the text is already pressing a criterion for when observation becomes method rather than remaining a patchwork of impressions
+
+Current downstream use:
+
+- reflected in Part `56`
+- held locally while the `Licht der Natur` continuation shows whether the same split keeps organizing the argument
+
 ## Boundary
 
 This ledger is not a second journal and not a free synthesis file.

@@ -1,14 +1,13 @@
 # Wanted Sources
 
-Documents referenced in project conversations but not yet stored. Enough context to reconstruct from bookmarks, chat exports, or web searches.
+Documents referenced in project conversations. Strike through items once they have been stored locally or otherwise reconstructed from bookmarks, chat exports, or web searches.
 
 ---
 
 ## From 2026-04-06 chats (Warburg + Mythos unpacking)
 
-- **Mythos Preview System Card (full, ~240 pages)**
-  Anthropic internal. Sections on welfare assessment, impressions, "The Sign Painter," cyber capabilities, interpretability. Meta-Harness.pdf in `incoming/` is a subset, not the full card.
-  → Store in `incoming/local/` (too large for git, ~20MB)
+- ~~**Mythos Preview System Card (full, ~240 pages)**~~
+  Anthropic internal. Stored locally in `incoming/local/` with a full Markdown conversion and a smaller working extract.
 
 - ~~**"Everything Oscillates Together" — Bagatolli / Ling / yeast metabolic oscillations**~~ → `incoming/anabology-everything-oscillates-together.md`
 

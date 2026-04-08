@@ -1362,3 +1362,24 @@ Decision for now:
 
 - treat Parts `10-15` as the reread-stable late Cusanus run for this chapter
 - keep `source/glossary.yaml` unchanged until repeated pressure forces term-level revision
+
+## 2026-04-07 - Fifth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `220-223`
+- PDF pages `244-247`
+
+What this tranche clarified:
+
+- the Paracelsus movement now cashes out the microcosm / macrocosm claim in methodological terms: disease and cure must be understood from the inner law of the individual organism rather than from externally attached causes alone
+- `Sichtiges` and `Unsichtiges` are not opposed as two domains, but held together as one methodological demand: concepts must be answerable to sensible intuition without collapsing into bare immediacy
+- `Erfahrung` now explicitly bifurcates into two senses: the physician's grounded, analytical, experimental art and the `Irrsaal` of disconnected observation
+- Cassirer's judgment on Paracelsus remains sharply qualified: he treats him as a real carrier of the new empirical demand, but withholds the decisive methodological breakthrough for the mathematically grounded founders of modern science
+- `Experiment` is no longer passive exposure to appearances, but a guided and force-sensitive use of instruments, already close to a methodological concept of experiment in the stronger modern sense
+
+Decision for now:
+
+- continue directly into the next tranche from the opening of the `Licht der Natur` double meaning
+- keep watching whether `Erfahrung`, `Invention`, and `Licht der Natur` remain chapter-local method terms or build enough pressure for glossary treatment
+- treat the `Sichtiges` / `Unsichtiges` pair as a strong local watch-point, but do not yet promote it beyond source-bound notes

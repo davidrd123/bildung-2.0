@@ -22,6 +22,7 @@ For each query:
 | `predecided world` | repo-native | `texts/zeitmauer/threads/predecided-world.md`; `sources/german/anders-antiquiertheit-des-menschen-band1/journal.md`; `sources/german/uexkuell-theoretische-biologie/journal.md` | should be an easy baseline |
 | `time-crisis` | repo-native | `texts/zeitmauer/threads/time-crisis.md`; `texts/zeitmauer/journal.md` | tests dossier retrieval |
 | `Goethe/Leibniz split` | repo-native | `texts/zeitmauer/threads/goethe-leibniz-frame.md`; `00-Notes/cross-domain-synthesis-threads.md` | tests thread vs omnibus-note competition |
+| `Planmäßigkeit as Naturkraft` | repo-native | `sources/german/uexkuell-theoretische-biologie/encounters/04-fuegung.md`; `sources/german/uexkuell-theoretische-biologie/journal.md`; `sources/german/uexkuell-theoretische-biologie/glossary.yaml` | tests whether the compressed repo phrase reaches the explicit rule-binding force passage |
 | `planfulness outside the body` | source-close English | `sources/german/uexkuell-theoretische-biologie/encounters/02b-funktionskreis-undrafted.md` | should hit Uexküll directly |
 | `leading and accompanying properties` | source-close English | `sources/german/uexkuell-theoretische-biologie/encounters/02b-funktionskreis-undrafted.md` | distinction-heavy local phrase |
 | `switch standpoints` | source-close English | `sources/german/uexkuell-theoretische-biologie/encounters/02b-funktionskreis-undrafted.md` | anti-psychologism test |
@@ -31,7 +32,7 @@ For each query:
 | `where is empathy methodologically blocked?` | natural-language synthesis | `sources/german/uexkuell-theoretische-biologie/encounters/02b-funktionskreis-undrafted.md`; `sources/german/uexkuell-theoretische-biologie/encounters/03-merkzeichen-und-umwelten.md` | tests abstract paraphrase of the anti-psychologism line |
 | `constitutive fit rather than adaptation` | natural-language synthesis | `sources/german/uexkuell-theoretische-biologie/encounters/04-fuegung.md`; `sources/german/uexkuell-theoretische-biologie/encounters/05-welt-und-umwelt.md` | tests whether the model can find fit-language without exact repo wording |
 | `Vorentscheidung` | cross-language | `sources/german/anders-antiquiertheit-des-menschen-band1/glossary.yaml`; `sources/german/anders-antiquiertheit-des-menschen-band1/journal.md`; `texts/zeitmauer/threads/predecided-world.md` | tests German term to cross-project thread |
-| `Umwelt` | cross-language | `sources/german/uexkuell-theoretische-biologie/glossary.yaml`; `sources/german/uexkuell-theoretische-biologie/encounters/02-funktionskreis.md`; `encounters/05-welt-und-umwelt.md` | tests term retrieval vs commentary noise |
+| `Umwelt` | cross-language | `sources/german/uexkuell-theoretische-biologie/glossary.yaml`; `sources/german/uexkuell-theoretische-biologie/encounters/02-funktionskreis.md`; `sources/german/uexkuell-theoretische-biologie/encounters/05-welt-und-umwelt.md` | tests term retrieval vs commentary noise |
 | `what says the world is cut in advance by plan and naming?` | cross-language synthesis | `texts/zeitmauer/journal.md`; `00-Notes/cross-domain-synthesis-threads.md`; `sources/german/anders-antiquiertheit-des-menschen-band1/encounters/03-phantom-und-matrize.md` | tests multi-author paraphrase |
 
 ## Minimal scoring rubric
