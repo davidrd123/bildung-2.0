@@ -35,6 +35,19 @@ For each query:
 | `Umwelt` | cross-language | `sources/german/uexkuell-theoretische-biologie/glossary.yaml`; `sources/german/uexkuell-theoretische-biologie/encounters/02-funktionskreis.md`; `sources/german/uexkuell-theoretische-biologie/encounters/05-welt-und-umwelt.md` | tests term retrieval vs commentary noise |
 | `what says the world is cut in advance by plan and naming?` | cross-language synthesis | `texts/zeitmauer/journal.md`; `00-Notes/cross-domain-synthesis-threads.md`; `sources/german/anders-antiquiertheit-des-menschen-band1/encounters/03-phantom-und-matrize.md` | tests multi-author paraphrase |
 
+## Paired query tests
+
+For selected high-pressure terms, run paired A/B queries with the source-language term retained versus translated into smoother English.
+
+Suggested pairs:
+
+- `Planmäßigkeit` vs `planfulness`
+- `Umwelt` vs `environment`
+- `Fügung` vs `fittedness`
+- `Merkwelt` vs `perceptual world`
+
+The question is not which query gets more hits. The question is whether keeping the source term intact retrieves stronger anchors with less conceptual smoothing.
+
 ## Minimal scoring rubric
 
 For each query, record:
@@ -57,6 +70,7 @@ Use one or more of these:
 - `missing-dossier`
 - `missing-unit`
 - `cross-language-miss`
+- `translation-bottleneck`
 - `model-smoothing`
 
 ## Current hypothesis

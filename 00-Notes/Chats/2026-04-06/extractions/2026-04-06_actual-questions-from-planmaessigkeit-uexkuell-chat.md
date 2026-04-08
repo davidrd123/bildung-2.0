@@ -37,6 +37,7 @@ What kind of representation could preserve clash, asymmetry, and residue instead
 ## Practical next moves suggested by the chat
 
 - Add a `what did the resistance reveal?` field when a term stays open.
+- Watch for conceptual false friends: renderings that are lexically plausible but activate the wrong conceptual network (`environment` for `Umwelt`, `feature` for `Merkmal`).
 - Try one morphological-bridging pass on the `Merk*` family as an experiment, not as publication language.
 - Treat the German term as a first-class annotation beside provisional English, not only as a replacement target.
 
