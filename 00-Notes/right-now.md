@@ -1,6 +1,6 @@
 # Right Now
 
-Last updated: 2026-04-06
+Last updated: 2026-04-08
 
 ## Proven
 
@@ -16,9 +16,9 @@ Last updated: 2026-04-06
 
 - **Erkenntnisproblem** is still the most active translation line: 55 parts on disk, Book II `Naturphilosophie` underway, the close-reading ledger is live, and a real local apparatus now exists around the Cusanus chain, bounded reading distillations, and the second-pass pressure map.
 - **Zeitmauer** is still the most structurally advanced subproject: 52 parts on disk, now through `§156`, with the handle pilot, evidence chains, thread dossiers, and visual experiments all serving live translation work rather than replacing it.
-- **Tektologiya** is at 17 parts and is clearly inside chapter 4's regulating grammar: quantitative vs. structural stability, equilibrium and false equilibrium, labor and needs, unified planning, and analogy as organizational method.
+- **Tektologiya** now has 27 part files on disk: the first pass through volume-1 main text is complete through `1.1-5.4`, the selective front-matter pass is complete through `front.10`, packet `01` now curates the first seven architectural diagrams, the first two SVG plates are on disk, and the glossary carries a compact stable core of organizational vocabulary. Its next value is likely as a demand-led instrument for selected cross-project and modern-source use, not as another linear march.
 - **Escolios I** remains in selective second-pass mode: the first pass through the available source is complete at 17 section files, with a minimal handle layer and a load-bearing reread bias rather than ongoing sequential expansion.
-- **Escolios II** is no longer just a scaffold: 15 real section files are now on disk, the Spanish extraction has stabilized enough for honest batching, and the Italian witness has settled into a secondary control role.
+- **Escolios II** is no longer just a scaffold: 32 real section files are now on disk, the Spanish extraction has stabilized enough for honest batching, and the Italian witness has settled into a secondary control role.
 - **Exegesis** is structurally farther along than the old standing note said: the first pass is complete at 75 passes, second-pass knot syntheses are underway, and the project now has a clearer bridge into workspace-level method.
 - **Sources**: Uexküll is complete, Anders Band I is complete, and the modern-source shelf remains active but should stay demand-led rather than queue-led.
 
@@ -26,6 +26,7 @@ Last updated: 2026-04-06
 
 - Continue Erkenntnisproblem directly from the broken sentence on bodily processes in Paracelsus into the next `Naturphilosophie` tranche while keeping the Cusanus apparatus local unless more pressure earns promotion.
 - Return to `Zeitmauer` into `§§157-159`, where the run turns from decadence and scale toward freedom, revolution, and the utopian archive.
+- Extend Tektologiya packet `01` beyond the first two plates, probably with the selection transition or law-of-leasts fork, and keep the composite mechanism poster deferred until the simpler grammar has a stable visual language.
 - Keep batching `Escolios II` from the cleaned Spanish source and let source trouble surface locally rather than reopening the whole intake problem.
 - Keep crystallizing only what the work forces. The journals, glossaries, ledgers, and thread dossiers are doing the catching.
 
@@ -33,6 +34,7 @@ Last updated: 2026-04-06
 
 - Which parts of Cassirer's growing local apparatus, if any, deserve promotion beyond project-local use?
 - How should lightweight cross-project and modern-source contact traces be recorded across different secondary-trace media (`handles.yaml`, ledgers, journals, encounter files) without forcing one format on every subproject?
+- When has another text actually earned a tektological rereading instead of merely tolerating one?
 
 ## Do Not Do Yet
 

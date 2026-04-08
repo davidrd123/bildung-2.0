@@ -65,6 +65,11 @@ sessions:
       - 67
       - 68
       - 69
+      - 70
+      - 71
+      - 72
+      - 73
+      - 74
 
     state_on_entry:
       - "Arrived with the ledger still treating the next Paracelsus tranche as blocked on source access."
@@ -72,24 +77,29 @@ sessions:
       - "Main open pressure was whether mediated self-knowledge would stay central, and whether Paracelsian method terms would remain chapter-local."
 
     what_shifted:
-      - "Verified the source PDF in this checkout and pushed the run from the blocked Part 55 edge through Part 69."
+      - "Verified the source PDF in this checkout and pushed the run from the blocked Part 55 edge through Part 73."
       - "Paracelsus turned the microcosm line into method: Erfahrung split into grounded experiment versus Irrsaal, and Sichtiges / Unsichtiges became a methodological unity."
       - "Fracastoro carried the chapter into psychology-of-knowing: species, subnotio, and esse ab anima exposed self-consciousness and relation as pressures the sensualist frame could not stabilize."
       - "Telesio grounded cognition in bodily process and physiological memory, but could not generate mathematics or pure relations from within the system; Aristotelian form survives in psychology."
       - "Campanella and Patrizzi drove the whole approach into the explicit Raum/Zeit problem: mathematical relation forced ontological rescue, continuum was made prior to number, and the missed route toward the analysis of the infinite became visible."
       - "The Campanella line then bent back through the Unendliche itself: nature's own totality and infinity now visibly exceed the first sensualist epistemology and hand the pressure forward into Bruno."
       - "With Copernicus the astronomical world-picture becomes openly methodological and ethical: mathematical construction, harmony, and the unity of nature and Erkenntnisgesetz now move together."
+      - "Galilei then hardens Copernicanism into the self-assertion of reason, while Bruno's first profile remains entangled with Weltseele and sympathy; the decisive question shifts to epistemic grounding."
+      - "Bruno's real advance is now explicit: infinity relocates truth from sense to intellect and self-consciousness, but the whole gain remains derived from pantheistic metaphysics rather than critically separated from it."
+      - "Bruno then qualifies that break through beauty and imagination: mediation becomes richer and more inward, but still not yet specifically scientific or critically autonomous."
+      - "Bruno now comes as close as he will to a two-realm epistemology and relation-centered science, but Cassirer says the whole attempt still fails scientifically because the middle term of mathematics is missing."
+      - "The next Bruno move makes the boundary explicit: analysis and law are real gains, but multiplicity still counts only as a lower moment, so the transformation passes out of logic into the dynamic natural-philosophical line of force, becoming, and development."
 
     unresolved:
-      - "Need the next tranche from printed 276-279 / PDF 300-303."
-      - "Need to see how Bruno's own formulation carries the Copernican method-pressure and whether infinity remains tied chiefly to harmony, metaphysics, or explicit epistemology."
-      - "Need to see whether mit beiden Augen, Methode, Harmonie, and the unity of Natur / Erkenntnisgesetz remain section-local or force glossary / thread pressure."
+      - "Need the next tranche from printed 296-299 / PDF 320-323."
+      - "Need to see how far the dynamic matter/form line runs before Bruno gives way to another figure or subsection."
+      - "Need to see whether Kraft, Potenz, Entwicklung, and the Raum -> Zeit shift remain section-local or force glossary / thread pressure."
 
     re_entry_instructions:
-      - "Read Part 69 first; the live edge is the Bruno/Copernicus continuation after the ethical and methodological uptake of the astronomical shift."
-      - "Extract the next raw page range: printed 276-279 / PDF 300-303."
-      - "Watch how Bruno's own formulation extends the relation between mathematical world-order, metaphysics, and knowledge."
-      - "Keep the chain reiner Raum -> Continuum / Zahl -> analysis of the infinite -> Campanella's Naturbegriff -> Copernican Methode / Harmonie -> Bruno in view."
+      - "Read Part 74 first; the live edge is the broken sentence after the opening of `Materie und Form`."
+      - "Extract the next raw page range: printed 296-299 / PDF 320-323."
+      - "Watch whether Bruno's dynamic matter/force/development line continues inside the same subsection or whether Cassirer now pivots to a different figure or historical transition."
+      - "Keep the chain two realms -> missing Mathematik -> Analyse -> Grenze der Erkenntnislehre -> Kraft / Werden / Entwicklung in view."
 
     formation_notes:
       - "I came in expecting a straightforward praise of Paracelsian empiricism, but the text instead split Erfahrung in two and made experiment a disciplined use of forces rather than mere accumulation of observations."
@@ -106,3 +116,294 @@ sessions:
       - "The newest clarification is that Patrizzi gets genuinely close to a later mathematical breakthrough only where he fails: continuum before number and the minimum-doctrine show the path toward infinity-analysis precisely by missing it."
       - "The latest shift is that Campanella's correction of sensualism comes less from importing a higher faculty than from the infinity of nature itself, which perception cannot bring into proportion with its bounded objects."
       - "The Copernican surprise is that mathematical rigor is not opposed to aesthetic or ethical force here; harmony, beauty, and enlarged self-consciousness arrive together with method."
+      - "The Bruno surprise is negative first: Cassirer refuses the easy modernization and makes me sit with how much world-soul and psychic mediation still remain before the real break can be named."
+      - "The next Bruno surprise is double: the break really is there at the level of truth and self-consciousness, but Cassirer immediately narrows it by folding intellect back under the metaphysics of infinite substance."
+      - "The newest Bruno turn is subtler: beauty and imagination feel like real mediation, but Cassirer keeps them from turning into method by binding them to soul, inward return, and metaphysical form."
+      - "The latest Bruno turn is almost frustratingly close: Cassirer lets him reach two different conditions of knowledge and even analysis of relations, then blocks the full move by naming mathematics as the absent middle."
+      - "The newest turn is that the blocked epistemology does not simply stall; it spills into a richer natural-philosophical register where force, becoming, and development do the conceptual work that logic could not complete."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 73
+      - 74
+      - 75
+      - 76
+      - 77
+      - 78
+      - 79
+
+    state_on_entry:
+      - "The Bruno edge had advanced concurrently through Part 74, but the worktree still contained competing Part 73 / raw-file variants for printed 312-315."
+      - "After reconciliation the canonical live edge was Part 74 on printed pages 292-295, with the transition from development into substance still open."
+      - "The main open pressure was whether the shift from force and becoming to substance would stay inside Bruno or trigger a new historical handoff."
+
+    what_shifted:
+      - "Reconciled the concurrent Bruno collision by keeping the stronger two-realms / analysis branch canonical and removing the weaker duplicate variant."
+      - "Bruno's anti-Aristotelian critique now moves from matter/form to individual substance itself: true reality belongs only to enduring unity, not to the singular thing bound to `Hier` and `Jetzt`."
+      - "Cassirer now states Bruno's strict epistemic object directly: not the natural thing, but nature as the one abiding ground and universal rule of appearances."
+      - "This gives Bruno's pantheism a retrospective epistemological foundation and clarifies the exact proximity and distance to Galileo: Bruno prepares nature-as-law ontologically, while Galileo secures it mathematically."
+      - "Cassirer then names Bruno's inner antinomy directly: the same epistemology that was supposed to ground the empirical heavens dissolves exact physics into metaphysics and leaves only a history of facts."
+      - "The late doctrine of the `Minimum` is Bruno's repair attempt: domain-specific elementary unities are meant to restore the singular and qualitative difference to intelligibility."
+      - "The repair immediately becomes a closure, because the irrational and incommensurable are rejected in the name of measure and reason, blocking the very mathematical development modern analysis will later require."
+      - "Cassirer then sharpens the paradox further: Bruno opposes mathematical reason with a rival logical-ontological rationalism and rebuilds geometry as a synthesis of discrete minima."
+      - "But the distinction Bruno needs between `Minimum` and `Grenze` reopens what the doctrine cannot absorb: lawful relations and termini are not reducible to the composition of elements."
+      - "Cassirer now makes the correction explicit: interval, pure quantity, and relation return as conditions Bruno's doctrine presupposes but cannot autonomously admit."
+      - "The Leibniz comparison then fixes the residue exactly: Bruno's minimum still carries extension as an absolute predicate, so the older harmony of thought and nature breaks at the continuum."
+      - "Cassirer then closes Bruno methodologically: mathematics remains the acknowledged model and middle, but because no mathematical theory of experience is secured, the path falls back into magic and mnemonic technique."
+      - "The next chapter opens the positive counter-image through Plato's Phaedo: exact science begins from concepts and original thought-positings rather than immediate sensory fusion with things."
+
+    unresolved:
+      - "Need the next tranche from printed 316-319 / PDF 340-343."
+      - "Need to see how the new chapter develops the positive method of exact science after the anti-analogical opening and the Telesio example."
+      - "Need to see whether `logoi`, `pragmata`, exact observation, lawful order, and the critique of analogy remain chapter-local or begin forcing glossary / thread pressure."
+
+    re_entry_instructions:
+      - "Read Part 79 first; the live edge is the continuation after the opening of `Die Entstehung der exakten Wissenschaft`."
+      - "Extract the next raw page range: printed 316-319 / PDF 340-343."
+      - "Keep the chain missing Mathematik -> Analyse -> Grenze der Erkenntnislehre -> Kraft / Entwicklung -> Substanz -> Allnatur / Gesetz -> Minimum / Maß -> Grenze / Terminus -> Intervall / Kontinuität / Zahl -> logoi / pragmata in view."
+      - "Watch how the new chapter turns the critique of sense-led analogy into a positive account of exact method."
+
+    formation_notes:
+      - "The surprise here is that Bruno's pantheism is not treated merely as a metaphysical excess; Cassirer makes it do real epistemic work by turning science away from the singular thing."
+      - "The sharper limit is that the same universality that prepares modern law still remains substantial and ontological, not yet mathematical."
+      - "The newest turn is that Bruno's system now tries to repair itself from within: the `Minimum` is not just another metaphysical flourish, but an attempt to win back determinate singularity for thought."
+      - "The real shock is that the repair works only by abolishing the irrational and the continuum, so the same demand for intelligibility becomes the blockage of modern mathematics."
+      - "The newest clarification is that Bruno's anti-mathematical move is not anti-rational; it is a rival rationalism, and that makes the eventual crack more interesting."
+      - "The sharpest new pressure is the distinction between element and boundary: the doctrine that wanted everything through composition now has to admit a law of relation it cannot reduce."
+      - "The newest gain is more double-edged: interval, pure quantity, and even a prehistory of infinitesimal thinking come into view, but only through a doctrine that cannot stop reducing everything back to discrete number."
+      - "The final Bruno clarification is methodological: the real failure is not lack of mathematical respect, but inability to turn that respect into a mathematical theory of experience."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 80
+
+    state_on_entry:
+      - "A concurrent journal addition had stabilized the Ferrari frame across Parts 68-77, but the live primary edge still stood at Part 79 and the opening of `Die Entstehung der exakten Wissenschaft`."
+      - "The main open question was whether the chapter would stay negative against sense-led analogy or begin stating positively what exact science does."
+
+    what_shifted:
+      - "Cassirer now answers that question directly: science begins where fixed things are dissolved into mathematical functions and processes."
+      - "The appeal from scholastic concepts to experience is explicitly retained, but its result is no victory of raw sensation; it becomes a new conception and systematics of the concept and therefore a reform of logic."
+      - "Astronomy is then named as the concrete chief problem where method and world-picture coincide, and Copernicus / Galilei become the clearest case of reason winning a new right without erasing perception."
+      - "Leonardo enters as the first case within the new chapter not because of sheer encyclopedic breadth, but because his many fields are held together by a unitary methodological ground-thought."
+      - "At the same time, Leonardo's opening still rests in part on an organismic and artistic image of nature, so the new method has not yet shed all older residues."
+
+    unresolved:
+      - "Need the next tranche from printed 320-323 / PDF 344-347."
+      - "Need to see how Leonardo's organismic natural imagery is reworked into a stricter theory of knowledge and method."
+      - "Need to see whether `Begriff und Erfahrung`, `λόγοι`, or the reform-of-logic line recur strongly enough to force glossary or thread pressure."
+
+    re_entry_instructions:
+      - "Read Part 80 first; the live edge is the broken Leonardo sentence at the end of printed page 319."
+      - "Extract the next raw page range: printed 320-323 / PDF 344-347."
+      - "Keep the chain logoi / pragmata -> functions and processes -> concept / experience -> reform of logic -> Copernicus / Galilei -> Leonardo's methodological unity in view."
+      - "Watch whether Leonardo's artistic-organismic opening is progressively subordinated to mathematical and epistemic method, or whether Cassirer keeps both strands active."
+
+    formation_notes:
+      - "The cleanest surprise here is that Cassirer finally states the positive formula Bruno had been circling: science begins by dissolving fixed things into mathematical functions and processes."
+      - "The second surprise is that the appeal to experience becomes more conceptual, not less; perception wins only by forcing a reform of logic."
+      - "Leonardo arrives under stricter discipline than I expected: not as a polymathic wonder-cabinet, but as a test of whether many fields can be held under one method-thought."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 81
+
+    state_on_entry:
+      - "Part 80 had just established the positive exact-science formula and the methodological importance of Leonardo, but the case was still open as to how Cassirer would concretize it."
+      - "The main pressure was whether Leonardo would remain in organismic imagery or whether mathematics, necessity, and law would become explicit."
+
+    what_shifted:
+      - "Cassirer now binds Leonardo's dynamics directly back to Cusanus, especially through continuum-analysis and the coincidence of greatest and least."
+      - "The continuity is selective: Leonardo strips away the metaphysical moments of that inheritance and keeps its mathematical content."
+      - "Mathematics therefore becomes more than subjective certainty; it is the necessary preliminary for fixing rule and law in nature and for separating science from sophistry."
+      - "The anti-magical break is made explicit: spirit-causation, immaterial force, and perpetual-motion fantasy are rejected under materially conditioned mathematical analysis."
+      - "Cassirer also sharpens the logical payoff: mathematical method reforms the concept of cause, mechanics becomes the `Frucht der Mathematik`, and even time is drawn into the widened domain of mathematical inquiry without simple reduction to geometry."
+      - "The measure of knowledge is now overtly relocated from dignity of object to degree of proof-certainty."
+
+    unresolved:
+      - "Need the next tranche from printed 324-327 / PDF 348-351."
+      - "Need to see whether Leonardo now develops the mechanics/time line more concretely or pivots toward a broader account of exact-science method."
+      - "Need to see whether the time-continuum pressure stays local or becomes a real cross-batch thread."
+
+    re_entry_instructions:
+      - "Read Part 81 first; the live edge is the continuation after the Fracastoro contrast at printed page 323."
+      - "Extract the next raw page range: printed 324-327 / PDF 348-351."
+      - "Keep the chain concept / experience -> reform of logic -> Leonardo as methodic unity -> Cusanus mathematical residue -> law / necessity -> anti-magic -> causality -> time in view."
+      - "Watch whether Cassirer now differentiates mechanics, temporality, and proof further or starts handing off to a new figure."
+
+    formation_notes:
+      - "The strongest surprise is how explicit the Leonardo/Cusanus continuity becomes once the text turns from atmosphere to method."
+      - "The sharper gain is that mathematics now carries law and necessity, not just certainty, and this is what lets Leonardo destroy magic cleanly."
+      - "The time discussion matters because it blocks an easy reading of this as mere geometric reduction; mathematics widens by differentiating its own domains."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 82
+
+    state_on_entry:
+      - "Part 81 had established the Leonardo/Cusanus continuity and the anti-magical role of mathematical necessity, but it remained unclear how experience, theory, and imagination would be joined."
+      - "The main open pressure was whether Leonardo would now turn from law and causality toward a full account of method."
+
+    what_shifted:
+      - "Cassirer now makes the answer explicit: experience is preserved only as the outward form of rational lawfulness."
+      - "Experiment begins inquiry, but analysis must reverse the order of nature and recover the simple grounds from the complex effect."
+      - "Cassirer names this directly as a prefiguration of Galileo's resolutive method."
+      - "Theory becomes the compass of particulars, geometry the embodiment of rational rule, and painting a legitimate analogue of philosophy because it concretizes lawful form."
+      - "Imagination is retained as a condition of theoretical research only insofar as mathematics provides its rule and limit."
+      - "The batch then opens a wider Renaissance comparison by handing the imagination problem toward Campanella."
+
+    unresolved:
+      - "Need the next tranche from printed 328-331 / PDF 352-355."
+      - "Need to see how far the Campanella comparison remains under Leonardo's discipline or begins reopening older tensions."
+      - "Need to see whether the imagination line becomes a real chapter thread or stays a local hinge."
+
+    re_entry_instructions:
+      - "Read Part 82 first; the live edge is the Campanella handoff at the end of printed page 327."
+      - "Extract the next raw page range: printed 328-331 / PDF 352-355."
+      - "Keep the chain law / necessity -> anti-magic -> causality -> reason / experience -> resolutive method -> geometry / painting -> disciplined imagination in view."
+      - "Watch whether Cassirer now widens the imagination problem into a broader Renaissance comparison or returns to a more determinate epistemic line."
+
+    formation_notes:
+      - "The most important shift here is that Leonardo's method is no longer just mathematical in the narrow sense; it becomes a full ordering of experiment, analysis, law, and even painting."
+      - "The clearest gain is the direct naming of the resolutive method, which retrospectively sharpens the whole Leonardo sequence."
+      - "The imagination turn is less romantic than it first sounds, because Cassirer only admits it once mathematics has already given it form and limit."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 83
+
+    state_on_entry:
+      - "Part 82 had reached the Campanella handoff and opened the broader imagination problem, but it was not yet clear where the new concept of experience would actually stabilize."
+      - "The main open question was whether Kepler would simply continue Leonardo's disciplined imagination or produce a genuinely new scientific synthesis."
+
+    what_shifted:
+      - "Cassirer now answers that question directly: only with Kepler does the new concept of experience fully arise."
+      - "The eight-minute Mars discrepancy becomes the concrete fulcrum of the claim, since observational exactness now forces theoretical reform rather than being absorbed by approximation."
+      - "Kepler's science nevertheless remains double in a productive way: strict objective order and the self-active productivity of mind are joined without being confused."
+      - "The Platonic recollection motive remains, but it is being stripped of mythical residue and turned toward logical significance."
+      - "Harmony is introduced as the unifying concept of Kepler's whole science, first as objective cosmic order and then as an inward relation to spirit."
+
+    unresolved:
+      - "Need the next tranche from printed 332-335 / PDF 356-359."
+      - "Need to see how `Die Harmonie als Schöpfung des Geistes` develops beyond the opening inward turn."
+      - "Need to see whether Kepler's subjective/objective unity stays stable or reopens tensions that were only provisionally resolved in Leonardo."
+
+    re_entry_instructions:
+      - "Read Part 83 first; the live edge is the broken sentence after the opening of `Die Harmonie als Schöpfung des Geistes`."
+      - "Extract the next raw page range: printed 332-335 / PDF 356-359."
+      - "Keep the chain disciplined imagination -> Campanella limit -> Kepler's real experience -> eight-minute discrepancy -> recollection demythologized -> harmony as world-order / spirit in view."
+      - "Watch whether harmony now becomes more explicitly transcendental, theological, or methodological in the next pages."
+
+    formation_notes:
+      - "The cleanest Kepler gain is that exact observation finally stops being a slogan and becomes a force strong enough to reform the system."
+      - "The second gain is that this still does not dissolve inner productivity; Kepler keeps the mind active without letting it become arbitrary."
+      - "The harmony concept feels like the first genuinely chapter-commanding Kepler handle, but it still needs the next tranche to show its full range."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 84
+
+    state_on_entry:
+      - "Part 83 had established exact induction and introduced harmony, but the inward turn of harmony and its bearing on cognition were still only opened."
+      - "The main open question was whether Kepler's subjective side would remain a residue or become logically productive."
+
+    what_shifted:
+      - "Harmony is now defined as a pure relation, not as the being of a thing."
+      - "Cassirer makes this depend explicitly on the mind's comparing and unifying acts, so Kepler's spiritual side becomes logically necessary rather than merely biographical."
+      - "The world-soul motif is retained only as a transitional carrier and is recast toward functional relation."
+      - "The aesthetic line deepens: musical pleasure becomes a middle between sense and intellect, and apparent passivity is redescribed as the spirit's own activity."
+      - "This same structure then opens the general theory of perception, which is the next live pressure point."
+
+    unresolved:
+      - "Need the next tranche from printed 336-339 / PDF 360-363."
+      - "Need to see how far Kepler can move beyond traditional species-language in the theory of perception."
+      - "Need to see whether harmony remains the dominant Kepler concept or yields to a more explicit perception/form line."
+
+    re_entry_instructions:
+      - "Read Part 84 first; the live edge is the broken sentence after the opening of `Die Theorie der Wahrnehmung`."
+      - "Extract the next raw page range: printed 336-339 / PDF 360-363."
+      - "Keep the chain eight-minute induction -> harmony as world-order -> harmony as relation -> aesthetic middle -> opening of perception theory in view."
+      - "Watch especially whether Kepler overcomes the causal-species picture or only modifies it from within."
+
+    formation_notes:
+      - "The biggest surprise here is how directly Cassirer defines harmony as relation; the Kepler run is more logically explicit than the Leonardo run ever became."
+      - "The aesthetic material is doing real epistemic work, not just historical color."
+      - "The next serious test is perception: whether this relation-model can actually transform the inherited sensory doctrine."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 85
+
+    state_on_entry:
+      - "Part 84 had opened the theory of perception, but it was still unclear whether Kepler's relation-model would actually transform the inherited species-picture."
+      - "The main open pressure was whether the Platonic and geometric side would stay ornamental or become constitutive."
+
+    what_shifted:
+      - "Cassirer now makes the answer explicit: sensory contents may come from outside, but harmony and proportion as such are recognized only by comparison with inner archetypes of order."
+      - "Kepler's Platonism is consequently redefined around relation-concepts rather than hypostatized things."
+      - "Geometry is privileged over bare number, and the eye itself is explained from the mind's prior grasp of geometric form."
+      - "Optics becomes a doctrine of constructed spatial order: position, distance, and magnitude are not simply given but intellectually won from sensory indications."
+      - "The earlier Cusanus / Leonardo correlation of sense and thought is now recovered in a much sharper and more operational form."
+
+    unresolved:
+      - "Need the next tranche from printed 340-343 / PDF 364-367."
+      - "Need to see how the cut-off sentence completes the logical character of empirical judgment in Kepler's optics."
+      - "Need to see whether the geometry-over-number line remains local or becomes a more durable Kepler signature."
+
+    re_entry_instructions:
+      - "Read Part 85 first; the live edge is the broken sentence after the opening of `Das Wahrnehmungsproblem in Keplers Optik`."
+      - "Extract the next raw page range: printed 340-343 / PDF 364-367."
+      - "Keep the chain harmony as relation -> Platonic archetypes as relations -> geometry over number -> eye from spirit -> perception as constructed spatial order in view."
+      - "Watch especially whether Kepler now defines the logical status of empirical judgment more sharply or pivots into a new figure/section."
+
+    formation_notes:
+      - "The sharpest gain here is that the perception problem is no longer half-metaphorical; Cassirer now gives it a real epistemic architecture."
+      - "The geometry-over-number preference feels like a deep signature of Kepler rather than a passing observation."
+      - "The next tranche should tell whether that signature drives the rest of the optics section or only prepares it."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 86
+
+    state_on_entry:
+      - "Part 85 had shown that optics constructs spatial order from sensory indications, but the logical status of empirical judgment and hypothesis was still open."
+      - "The main pressure was whether Kepler's hypothesis-language would reintroduce hidden powers or instead clarify the scientific role of rational form."
+
+    what_shifted:
+      - "Cassirer now answers that question directly: empirical knowledge must extract mathematically graspable relations from the given."
+      - "The mathematical hypothesis is therefore recast as the rational beginning of problem-formation, not as a later computational convenience."
+      - "Patrizzi becomes the foil showing what happens when this demand is dropped: miracle and mysticism re-enter under the banner of pure observation."
+      - "Kepler's distinction between astronomical and physical hypothesis is clarified as a demand for mathematically-physical grounding still wholly within the phenomenal field."
+      - "Astronomy is thereby subordinated to a wider system of physical principles, and cosmography is explicitly pushed toward cosmophysics."
+
+    unresolved:
+      - "Need the next tranche from printed 344-347 / PDF 368-371."
+      - "Need to see how the reopened historical contrast between mathematical and physical hypothesis is completed."
+      - "Need to see whether the Kepler section is approaching a local resting point or still preparing a larger mechanics line."
+
+    re_entry_instructions:
+      - "Read Part 86 first; the live edge is the broken sentence after the opening of `Die astronomische und die physische Hypothese`."
+      - "Extract the next raw page range: printed 344-347 / PDF 368-371."
+      - "Keep the chain constructed perception -> geometry over number -> mathematical hypothesis as beginning -> Patrizzi foil -> astronomical / physical hypothesis -> cosmophysics in view."
+      - "Watch whether Cassirer now closes the historical contrast or turns more directly toward mechanics and gravitation."
+
+    formation_notes:
+      - "The strongest clarification here is that hypothesis is not an optional scientific overlay; it is the first rational grip on the problem."
+      - "The Kepler/Patrizzi contrast makes the stakes unusually visible because it turns the appeal to pure observation into a source of miracle-thinking."
+      - "The cosmophysics move now feels earned rather than retrospective."

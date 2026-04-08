@@ -87,6 +87,15 @@ Distillation targets (not all needed every time):
 | Genealogy → architecture | `genealogy-to-instrument.md` |
 | New standalone thread | New file in `00-Notes/` |
 
+When a distillation surfaces a claim that matters but is not yet a repo
+finding, keep it visible without overpromoting it:
+
+- `promoted claims` for what current evidence licenses
+- `held below promotion` for what remains live but unearned
+
+This preserves pressure without quietly converting conversation residue into
+framework.
+
 ### 3. Crystallization
 
 When a synthesis note converges on something stable enough to reference without re-reading the exploration, extract it into `patterns/`:
@@ -196,6 +205,7 @@ Living list. Updated as threads advance or stall.
 | Rosen: models vs. simulations | Placed — maps onto close/free split | `cross-domain-synthesis-threads.md` | 2026-03-29 |
 | Practice queue (source encounter + decryption) | Active — revised around practical coupling to live work and generalized opacity | `cross-domain-synthesis-threads.md`, `00-Notes/Chats/2026-04-06/extractions/2026-04-06_actual-questions-from-planmaessigkeit-uexkuell-chat.md` | 2026-04-06 |
 | Anders bridge | Placed — Band I campaign complete; bridge clarified and available for demand-led reuse | `cross-domain-synthesis-threads.md` | 2026-04-02 |
+| Tektologiya as demand-led instrument | Active — bounded reuse rule clarified; visual packet and Rosen encounter now define the next honest tests | `distillations/2026-04-08-earned-distillation-from-opus-on-tektologiya-instrument-pressure.md`, `cross-domain-synthesis-threads.md` | 2026-04-08 |
 | Predecided world | Active — Uexküll/Cassirer/Anders/Jünger world-cut connector | `cross-domain-synthesis-threads.md` | 2026-04-02 |
 | Empirical morphogenesis line | Active — Levin corpus linked to the braided river | `cross-domain-synthesis-threads.md` | 2026-04-01 |
 | Action-conditioned real | Active — von Foerster + late Zeitmauer + Cassirer + Dick | `cross-domain-synthesis-threads.md` | 2026-04-02 |
@@ -224,9 +234,9 @@ Living list. Updated as threads advance or stall.
 |---------|----------|-------------|
 | `texts/erkenntnisproblem-vol1/` | 55 parts; Book II `Naturphilosophie` active; close-reading ledger live; Cusanus second-pass map added | Part 56 from the broken sentence on bodily processes in Paracelsus; keep the Cusanus apparatus local unless later pressure forces promotion |
 | `texts/zeitmauer/` | 52 parts (`§§1-156`); handle pilot live through the translated range; thread extraction and visuals growing | Late `Siderische Einteilungen`; protean-power / new-type / decadence-scale run active; keep extending the pilot through live translation rather than widening by symmetry |
-| `texts/tektologiya-vol1/` | 17 parts; chapter 4 now well underway | Equilibrium / false equilibrium, labor and needs, unified plan, and doctrine of analogies |
+| `texts/tektologiya-vol1/` | 27 parts; volume-1 main text complete; selective front-matter pass through `front.10`; packet `01` on disk with first two plates | Keep extending packet `01` without turning it into a synthesis sprawl; keep Bogdanov's cross-project use demand-led |
 | `texts/escolios/` | Volume I first pass complete: 17 section files, `§§1-499`, minimal handle layer, selective second pass | Thicken only the load-bearing aphorisms when later work forces it |
-| `texts/escolios-ii/` | 15 real section files; Spanish source stabilized; Italian witness secondary | Keep batching from the cleaned Spanish source; repair extractor only where live reading exposes exact lies |
+| `texts/escolios-ii/` | 32 real section files; Spanish source stabilized enough for ongoing batching; Italian witness secondary | Keep batching from the cleaned Spanish source; repair extractor only where live reading exposes exact lies |
 | `texts/exegesis/` | 75 passes; first pass complete; second-pass knot syntheses and 10 thread files | Use the new knot structure to bridge the archive into workspace-level method without restarting a second first pass |
 | `sources/` | Uexküll complete; Anders Band I complete; modern source shelf present and growing | Next source move should stay demand-led rather than queue-filling by default |
 

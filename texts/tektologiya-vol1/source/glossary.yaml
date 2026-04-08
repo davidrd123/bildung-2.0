@@ -9,7 +9,7 @@
     - "Universal Organizational Science"
     - "Organizational Science"
   status: open
-  notes: "Keep the English title pressure visible at the project level. The known English `Tektology` is strong, but the full title keeps pressing toward something broader than a bare transliteration. By `2.b-2.c` Bogdanov explicitly frames it both as the `completion of the cycle of the sciences` and as a `universal natural science`, which makes the scope claim harder to soften."
+  notes: "Keep the English title pressure visible at the project level. The known English `Tektology` is strong, but the full title keeps pressing toward something broader than a bare transliteration. By `2.b-2.c` Bogdanov explicitly frames it both as the `completion of the cycle of the sciences` and as a `universal natural science`, which makes the scope claim harder to soften. A Takhtajan commentary probe sharpens the same point from the reception side: the work should not be reduced to a systems-theory curiosity or a mere analogy-machine. Later cybernetic and systems parallels are real, but they do not exhaust what the title is claiming."
 
 - term: "организационная точка зрения"
   kind: concept
@@ -62,8 +62,8 @@
   alternatives:
     - "distinctness"
     - "separate form"
-  status: tentative
-  notes: "By `3.a.5` Bogdanov treats this not as a primitive metaphysical fact but as the practical interruption of activities-resistances, and therefore as something derivable from deingression. `Separateness` is slightly hard in English, but `distinctness` would make the category too purely epistemic."
+  status: stable
+  notes: "By `3.a.5` Bogdanov treats this not as a primitive metaphysical fact but as the practical interruption of activities-resistances, and therefore as something derivable from deingression. The term then stays active in the local crisis and cognition material and is already prefigured in `1.1` as the still-unovercome isolation of organizing forces. `Separateness` is slightly hard in English, but that hardness now looks earned: `distinctness` would make the category too purely epistemic, while no stronger rival emerged in the completed volume."
 
 - term: "кризис"
   kind: concept
@@ -80,8 +80,8 @@
   alternatives:
     - "link"
     - "tie"
-  status: tentative
-  notes: "By `3.a.8-3.a.9` this has become structurally real rather than merely local. It names the coinciding or mediating part through which an ingressive relation holds. `Bond` works if kept formal and structural rather than psychological or sentimental."
+  status: stable
+  notes: "By `3.a.8-3.a.9` this has become structurally real rather than merely local. It names the coinciding or mediating part through which an ingressive relation holds, appears in the mathematical equality discussion, and is explicitly listed at the close of `3.a.9` among the core concepts of the formative mechanism. `Bond` is still slightly exposed in English, but it now looks preferable to `link`, which would blur too easily into `chain connection` and other looser linkage-language."
 
 - term: "цепная связь"
   kind: concept
@@ -116,8 +116,8 @@
   alternatives:
     - "neutral combinations"
     - "neutral systems"
-  status: tentative
-  notes: "Introduced in `2.a.2` as the third basic type beside organized and disorganized complexes. The term becomes philosophically weighty when mathematics is defined as the `tektology of neutral complexes`."
+  status: stable
+  notes: "Introduced in `2.a.2` as the third basic type beside organized and disorganized complexes. The term becomes philosophically weighty when mathematics is defined as the `tektology of neutral complexes`, and it recurs in `2.c` as part of the argument about the scope of tektology and the place of mathematics within it. No stronger English rival emerged in the completed volume, so the term now looks settled even if its main pressure remains concentrated in the opening architecture."
 
 - term: "подбор"
   kind: concept
@@ -164,6 +164,14 @@
   status: stable
   notes: "By `3.b.3` this names the deeper schema in which preservation in a changing environment requires growth of activities, decline is expressed as the predominance of deassimilation, and both positive and negative selection alter structure until they pass into crisis. The term should stay formally organizational rather than being moralized as `progress`."
 
+- term: "аналитическая сумма"
+  kind: concept
+  preferred: "analytic sum"
+  alternatives:
+    - "analytical sum"
+  status: stable
+  notes: "By the end of `4.5` this has emerged as one of the system's very few real primitives: whenever combined activities enter into relations of deingression, the effective result is less than their arithmetic sum. `Front.08` retrospectively confirms the terminology by saying that Bogdanov replaced the earlier `conjugational sum` with the more exact `analytic sum`. The earlier phrase should therefore be treated as a superseded historical label, not as a live English rival."
+
 - term: "количественная устойчивость"
   kind: concept
   preferred: "quantitative stability"
@@ -198,7 +206,7 @@
     - "law of least favorable conditions"
     - "law of the minimum"
   status: stable
-  notes: "By `4.2-4.3` Bogdanov presents this as the looser, more usable formula of the law of relative resistances, especially for social-organizational practice. `4.3` makes it into a practical schema across technique, pedagogy, politics, and cultural explanation: under determinate impacts it yields concentration and shielding, under indeterminate ones equalization. `5.1` then extends it inward to the worker-complex itself: calories, proteins, shoes, and even stabilized cultural supports can all function as limiting links. `5.2` generalizes it once more to the economy as a whole: expansion is bounded by the most lagging branch, and reconstruction must proceed by raising the minimal coefficients first. `5.4` then clarifies the most important practical misunderstanding: the law diagnoses the bottleneck; it does not prescribe leveling downward to it. `Law of the minimum` remains necessary for Liebig's agronomic case, but `law of leasts` better preserves Bogdanov's own generalized, slightly hard wording."
+  notes: "By `4.2-4.3` Bogdanov presents this as the looser, more usable formula of the law of relative resistances, especially for social-organizational practice. `4.3` makes it into a practical schema across technique, pedagogy, politics, and cultural explanation: under determinate impacts it yields concentration and shielding, under indeterminate ones equalization. `5.1` then extends it inward to the worker-complex itself: calories, proteins, shoes, and even stabilized cultural supports can all function as limiting links. `5.2` generalizes it once more to the economy as a whole: expansion is bounded by the most lagging branch, and reconstruction must proceed by raising the minimal coefficients first. `5.4` then clarifies the most important practical misunderstanding: the law diagnoses the bottleneck; it does not prescribe leveling downward to it. A Takhtajan commentary probe is useful here because it treats Ashby's later `veto` theory as a partial echo of the same structure, which supports keeping the term broader than Liebig's agronomic minimum or a merely managerial bottleneck. `Law of the minimum` remains necessary for Liebig's case, but `law of leasts` better preserves Bogdanov's own generalized, slightly hard wording."
 
 - term: "слитность / четочность"
   kind: concept_pair
@@ -207,7 +215,7 @@
     - "fused / beaded structure"
     - "compactness / beadedness"
   status: tentative
-  notes: "By `4.4` this pair becomes structurally real. Bogdanov himself says the terms are only provisional and should not be taken as literal physical imagery: what they name is the relative quantity and evenness of a complex's contacts with its environment. `Fusedness` is favored under negative selection, `beadedness` under positive selection, so long as the environment is treated as indeterminate in the sense clarified at the end of the section."
+  notes: "By `4.4` this pair becomes structurally real, but Bogdanov himself says the terms are only provisional and should not be taken as literal physical imagery. What they name is the relative quantity and evenness of a complex's contacts with its environment. `Fusedness / beadedness` remains usable and internally coherent, and the surrounding prose can also lean on `fused / beaded structure`; but the pair should stay tentative because the source itself keeps their naming conditional and image-prone."
 
 - term: "система равновесия / неуравновешенная система"
   kind: concept_pair

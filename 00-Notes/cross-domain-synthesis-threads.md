@@ -70,7 +70,7 @@ Ranking criteria:
    Still strategically important, especially where individuation, technology, and perception need a stronger bridge.
 
 5. **Bogdanov — complete *Tektologiya*** (Russian)
-   Remains a major systems headwater, but is less directly coupled to the current German translation practice than Anders or Uexküll.
+   Remains a major systems headwater, but is less directly coupled to the current German translation practice than Anders or Uexküll. The completed volume-1 pass now leaves behind a compact organizational vocabulary with real cross-project pressure; use it as a demand-led instrument, not as a standing framework for the other texts.
 
 ### Horizon / wait until demanded
 

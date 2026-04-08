@@ -330,9 +330,9 @@ def render_images(
     while len(images) < requested_outputs and attempts < requested_outputs:
         attempts += 1
         response = client.models.generate_content(model=model, contents=contents, config=config)
-        candidates = getattr(response, "candidates", None) or []
-        for candidate in candidates:
-            content = getattr(candidate, "content", None) or candidate
+        response_candidates = getattr(response, "candidates", None) or []
+        for response_candidate in response_candidates:
+            content = getattr(response_candidate, "content", None) or response_candidate
             parts = getattr(content, "parts", None) or []
             for part in parts:
                 if hasattr(part, "as_image") and callable(getattr(part, "as_image")):

@@ -30,7 +30,7 @@ So the immediate work is no longer extending section count inside volume I. It i
 
 The current second-pass work is intentionally limited to one reread memo focused on the load-bearing aphorisms already anchoring the project. It is not a separate synthesis tree.
 
-A sibling intake scaffold for volume II now exists at [texts/escolios-ii](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/README.md), built from the currently available Italian translation witness.
+A sibling intake scaffold for volume II now exists at [texts/escolios-ii](../escolios-ii/README.md), built from the currently available Italian translation witness.
 
 ## Structure
 

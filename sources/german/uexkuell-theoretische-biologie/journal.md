@@ -206,3 +206,29 @@ The April 6 chat generated a broader exploration of untranslatability, KR, and c
 **What stays in the chat, not here**
 
 The fourfold failure-mode taxonomy, KR/ontology-alignment parallels, functorial mappings, ologs, Leibniz's characteristica, conceptual blending, and interpretability speculation. See `00-Notes/distillations/2026-04-07-earned-distillation-from-planmaessigkeit-uexkuell-chat.md` for the full filtration.
+
+## 2026-04-08 — Source-language commentary probe: Schnödl / Sprenger on `Umwelt`
+
+**Question**
+
+Does one German-language commentary slice make the `Umwelt` pressure more legible before any next return to translation, or does it merely confirm the existing warning against `environment`?
+
+**Probe**
+
+Read pp. `183-187` of Gottfried Schnödl / Florian Sprenger, *Uexkülls Umgebungen: Umweltlehre und rechtes Denken* (2021), focusing on the contrast between `Umwelt`, `milieu`, and `environment`.
+
+**What it taught**
+
+- The translation pressure is not only lexical. The commentary makes the centering of `Umwelt` more explicit: unlike `milieu` as a more homogeneous extension, `Umwelt` is organized from a living center through `Merkwelt` and `Wirkwelt`.
+- That changes the force of the existing glossary warning. `Environment` is not just thinner English; it suppresses the organism-bound production of the world that the term is carrying.
+- The same slice also sharpens a pressure inside `Planmäßigkeit`: the term can bear a whole order of lawful placement, not merely local purposiveness. Even if Schnödl / Sprenger's political reading proves too strong in places, it blocks any innocently neutral rendering.
+
+**Result**
+
+This probe taught rather than merely confirmed. It did not overturn the existing glossary choices, but it made two distinctions more retrieval-visible: `Umwelt` should not be treated as interchangeable with `milieu` or `environment`, and `Planmäßigkeit` cannot be neutralized into generic purposiveness without loss.
+
+**Decision**
+
+- keep the commentary result local to this campaign for now
+- tighten the glossary notes for `Umwelt` and `Planmäßigkeit`
+- do not treat this one critical source as settling the political reading of Uexküll by itself

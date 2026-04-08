@@ -1,6 +1,6 @@
 # 2026-04-07 - Earned distillation from Planmäßigkeit / Uexküll chat
 
-Purpose: preserve the narrow translation-resistance method findings from the April 6 chat that the broader distillation set did not adequately keep. This note is not about KR, ologs, embeddings, interpretability, or Leibniz's dream — those were the chat's exploratory weaving and belong only in the chat export.
+Purpose: preserve the narrow translation-resistance method findings from the April 6 chat that the broader distillation set did not adequately keep. This note is not about KR, ologs, embeddings, interpretability, or larger universal-language speculation. Those belonged to the chat's exploratory weaving and stay in the chat export.
 
 Inputs:
 
@@ -21,7 +21,7 @@ Current support:
 
 ### 1. Translation resistance is evidence, not a bug to solve
 
-This is the chat's core finding and it is already live in repo practice. The glossary's `status: open` entries, the close-reading ledger's paragraph-scale resistance captures, and the Uexküll encounter notes all treat untranslatable terms as load-bearing signals rather than gaps to fill.
+This is the chat's core finding and it is already live in repo practice. The glossary's `status: open` entries, the close-reading ledger's paragraph-scale resistance captures, and the Uexküll encounter notes all treat resistant terms as load-bearing signals rather than gaps to fill.
 
 What the chat adds is a sharper framing: the resistance tells you where two languages carve reality differently, and the shape of the failure is itself a finding about conceptual structure. The practical moves are: note what the resistance revealed (not just that it occurred), watch for conceptual false friends (renderings that are lexically plausible but activate the wrong network), and treat the German term as first-class annotation beside provisional English.
 
@@ -31,23 +31,23 @@ This does not need a new canonical status or schema. It needs continued attentio
 
 The chat arrived at this independently of the source-role taxonomy chat, and the convergence strengthens both.
 
-The argument: a German scholar writing about Uexküll in German operates inside the same morphological field as the source. Their commentary can be about the concepts rather than about the translation problem. The accumulated source-language secondary literature represents a community of formed readers whose insights are downstream of exactly the kind of slow encounter the project values.
+The argument: a German scholar writing about Uexküll in German works inside the same morphological field as the source. Their commentary can stay closer to the conceptual pressure because it is not forced through the translation problem first. That makes source-language commentary a distinct evidence type, not just a better bibliography.
 
 This connects directly to the source-role taxonomy's category 2 (source-language commentary) and the DeepResearch April 6 routing tags. The practical next step is already stated: on the next Uexküll or Zeitmauer return, bring one source-language commentary piece into the session before translating.
 
-### 3. The German term as first-class annotation is already the project's working practice
+### 3. Keeping the German term beside provisional English is already a real working practice
 
-The chat named this as a proposal, but the glossary is already doing it. Every `preferred: null` entry with alternatives is treating the German as primary and the English candidates as provisional approximations. The session ledger now holds German inline where the term carries the conceptual load.
+The chat named this as a proposal, but local practice already does it. `preferred: null` entries with alternatives already treat the German as primary and the English candidates as provisional approximations. The session ledger also keeps German inline where the term carries the conceptual load.
 
-What the chat adds: the deliberate choice to keep German in synthesis prose (not just in glossaries) is not scholarly affectation. It preserves a vector of residual meaning — the direction from the English toward the German — that a translated-only text loses.
+What the chat adds is a cleaner rationale for carrying that practice into synthesis prose: keeping the German term live preserves a direction of pressure back toward the source that translated-only prose loses.
 
 ## Held as productive prompts, not findings
 
-- The fourfold failure-mode taxonomy (family architecture, premature fluency, lexical gap, methodological signal) — emerged from the KR detour, maps onto real phenomena, but risks reintroducing framework language if promoted; keep as a diagnostic lens, not as a standing schema
+- The fourfold failure-mode taxonomy (family architecture, premature fluency, lexical gap, methodological signal) — emerged from the KR detour and should not become standing repo language; at most, keep it as a private diagnostic lens
 - A `what did the resistance reveal?` field or annotation when a term stays open — worth trying, not yet standard
 - Morphological bridging as a bounded experiment (coining `mark-sign`, `mark-feature`, etc. to feel where the binding holds or fails) — worth trying on one family, not as a method
 - Multilingual context engineering: keeping source-language terms and passages in prompts to prevent the model from routing through English defaults — plausible, testable, not yet tested
-- The Gegenstand/Objekt mapping onto KR (a knowledge graph node is constitutively an Objekt) — one journal line, not a framework
+- The Gegenstand/Objekt mapping onto KR (a knowledge graph node as `Objekt`) — one journal line, not a framework
 
 ## Rejected or not yet earned from this chat
 

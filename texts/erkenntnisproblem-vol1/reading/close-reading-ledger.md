@@ -517,6 +517,415 @@ Current downstream use:
 - reflected in Part `69`
 - held locally while the next tranche shows how Bruno's own formulation of the infinite world carries this method-pressure further
 
+### Galilei and Bruno: self-assertion of reason meets world-soul residue
+
+Passage base:
+
+- Part `70`
+- printed pages `276-279`
+
+Finding:
+
+- Galilei assigns the truth of facts to scientific experience and demonstrative method, while religion is restricted to moral and salvific truth; the Copernican system thereby becomes equivalent to the self-assertion of reason
+- Bruno's first presentation is then deliberately non-triumphal: world-soul, inner sense, sympathy, and ensouled heavens still carry causality and cognition
+
+Why it matters:
+
+- this fixes the exact risk in treating Bruno as simply already modern; cosmological boldness alone is not enough if the causal and cognitive framework still runs through psychic mediation
+- it also sharpens the next question: the real break, if there is one, must be sought at the level of grounding and epistemological foundation rather than surface doctrine
+
+Current downstream use:
+
+- reflected in Part `70`
+- held locally while the next tranche shows where Cassirer locates Bruno's actual break with the sense-first premise
+
+### Bruno: infinity moves truth inward, but not yet critically
+
+Passage base:
+
+- Part `71`
+- printed pages `280-283`
+
+Finding:
+
+- Cassirer locates Bruno's actual advance in the shift from sense to intellect: truth begins from the senses but does not have its seat there; `intellectio` becomes `interna lectio`
+- this shift is tied to infinity and self-consciousness at once: Copernicus enlarges the self because infinite objective tasks let thought become conscious of its own independence
+
+Why it matters:
+
+- this is the clearest Bruno passage so far for the repo's recurring problem of when object-pressure forces a new account of knowing
+- but it also names the limit with equal force: Bruno still derives epistemology from pantheistic metaphysics, so logical and metaphysical genesis remain fused
+
+Current downstream use:
+
+- reflected in Part `71`
+- held locally while the next tranche shows whether Bruno can specify a form of science that is not just an analogue of the world-process
+
+### Bruno: beauty and imagination mediate, but do not yet separate
+
+Passage base:
+
+- Part `72`
+- printed pages `284-287`
+
+Finding:
+
+- Cassirer now gives Bruno a mediating route between idea and appearance: beauty makes sensible form legible as the shine of `spiritualità`, and imagination becomes the link between passive sensation and rational cognition
+- the path upward therefore runs through inner return rather than outer star-gazing, but it still does not yield a distinct scientific logic
+
+Why it matters:
+
+- this is the clearest local place where Bruno seems closest to a productive account of mediation rather than mere opposition
+- but the same passage shows why Cassirer still withholds full modernity: the mediation is aesthetic-metaphysical first, not yet a differentiated account of scientific knowledge
+
+Current downstream use:
+
+- reflected in Part `72`
+- held locally while the next tranche shows how the unfinished account of Vernunft's double tendency is resolved
+
+### Bruno: relative truth without phenomenal science
+
+Passage base:
+
+- Part `73`
+- printed pages `288-291`
+
+Finding:
+
+- Bruno now grants sense and intellect distinct rights: empirical truth is relative to the subject's proper measure, while the intelligible belongs to a different condition of cognition altogether
+- Cassirer simultaneously says this nearly yields a Kant-like split and that it still cannot support an exact science of phenomena, because Bruno cannot isolate universally valid relations within appearance and lacks mathematics as the genuine middle term
+
+Why it matters:
+
+- this is the sharpest local statement so far of the difference between aesthetic-metaphysical mediation and scientific grounding
+- it also shows a genuine positive gain beneath the failure: once sensibility is marked by relativity, thought is redirected toward relation, analysis, and ordered totality rather than mere classifying abstraction
+
+Current downstream use:
+
+- reflected in Part `73`
+- held locally while the next tranche shows whether `Abstraktion und Analyse` turns this methodological residue into a more determinate theory of cognition
+
+### Bruno: analysis sharpens, then yields to force and development
+
+Passage base:
+
+- Part `74`
+- printed pages `292-295`
+
+Finding:
+
+- Bruno's strongest remaining epistemic gain is now stated through law and analysis: cognition means grasping determinations in a unity of rule, not merely subsuming particulars under empty genera
+- but this line hits its own boundary because multiplicity still counts only as an inferior moment; the real transformation therefore shifts out of logic and into a dynamic Naturphilosophie of `Kraft`, `Potenz`, and development
+
+Why it matters:
+
+- this is the clearest local explanation yet for why Bruno cannot become Galileo: relation and law are present, but multiplicity is not yet granted constitutive status and mathematics is still absent as the middle term
+- it also shows the positive route forward inside the chapter: the finite/infinite relation becomes conceptually sharper only once time, becoming, and developmental matter displace static spatial analogy
+
+Current downstream use:
+
+- reflected in Part `74`
+- held locally while the next tranche shows how far the dynamic matter/form correction can go before a new figure or framework takes over
+
+### Bruno: substance dissolves into all-nature and rule
+
+Passage base:
+
+- Part `75`
+- printed pages `296-299`
+
+Finding:
+
+- Cassirer now makes Bruno's anti-Aristotelian move explicit at the level of substance itself: true being belongs not to the singular thing, but to enduring unity, substrate, and the universal rule of appearances
+- this gives Bruno's pantheism a retrospective epistemological foundation and lets Cassirer say that Bruno prepares the passage from nature to law, but only in ontological form
+
+Why it matters:
+
+- this is the clearest local statement yet of Bruno's precise proximity and distance to Galileo after all the earlier anticipations: both need universality, but Bruno's universal remains substantial while Galileo's is mathematical
+- it also clarifies why Bruno can matter to the emergence of modern science without yet possessing an exact science of phenomena
+
+Current downstream use:
+
+- reflected in Part `75`
+- held locally while the next tranche shows whether the all-nature / law line is tightened further or gives way to a more explicit Galilean contrast
+
+### Bruno: minimum restores the singular by closing the continuum
+
+Passage base:
+
+- Part `76`
+- printed pages `300-303`
+
+Finding:
+
+- Bruno's late doctrine of the `Minimum` is driven by an internal antinomy: his earlier universalism leaves empirical nature without exact scientific intelligibility, so the singular has to be rebuilt through qualitatively distinct elementary unities
+- this repair becomes a closure the moment it rejects the irrational and the continuum, because measure is now tied to discrete proportional minima alone
+
+Why it matters:
+
+- this is the clearest local place where Bruno's system tries to correct itself rather than merely advance one-sidedly
+- it also marks the exact threshold Cassirer cares about: the same demand for intelligibility that looks promising at the level of mediation turns into a blockage of modern analysis once the irrational is denied
+
+Current downstream use:
+
+- reflected in Part `76`
+- held locally while the next tranche shows how Cassirer unfolds the announced paradoxical consequences of the minimum-doctrine
+
+### Bruno: boundary exposes what minimum cannot absorb
+
+Passage base:
+
+- Part `77`
+- printed pages `304-307`
+
+Finding:
+
+- Bruno's minimum-doctrine turns geometry into a synthesis of discrete quasi-physical elements, so exact transformation and exact equality become illegitimate or merely sensory
+- but Bruno's own distinction between `Minimum` and `Grenze` admits a relation-level lawfulness that cannot be reduced to composition, and this begins to reopen scientific geometry from inside the doctrine itself
+
+Why it matters:
+
+- this is the clearest local place where Cassirer turns Bruno's own premises against him without abandoning the real motive of the doctrine
+- it also sharpens the modern threshold beyond the irrational issue alone: what Bruno cannot master is not just continuum, but the autonomy of pure relation and lawful boundary-structure
+
+Current downstream use:
+
+- reflected in Part `77`
+- held locally while the next tranche shows whether Cassirer now restates mathematics explicitly as a doctrine of termini and relations
+
+### Bruno: pure quantity returns, but only through a broken detour
+
+Passage base:
+
+- Part `78`
+- printed pages `308-311`
+
+Finding:
+
+- Bruno's own distinction between minimum and boundary forces interval, pure quantity, and relation back into the picture, but he cannot let them stand autonomously and keeps everything under discrete composition
+- this is why the doctrine both anticipates infinitesimal pressure and blocks it, and why Leibniz becomes the exact contrast term
+
+Why it matters:
+
+- this is the clearest local statement yet that the real issue is not just whether Bruno accepts the irrational, but whether he can grant autonomous status to pure relational lawfulness
+- it also shows why the minimum-doctrine keeps collapsing under its own ambition: in order to generate geometry, it must secretly presuppose geometry
+
+Current downstream use:
+
+- reflected in Part `78`
+- held locally while the next tranche shows whether Cassirer now redefines mathematical operation more positively beyond Bruno's broken harmony
+
+### Bruno: mathematics remains model, but method collapses
+
+Passage base:
+
+- Part `79`
+- printed pages `312-315`
+
+Finding:
+
+- Cassirer's final Bruno judgment is methodological: mathematics remains the acknowledged model and middle term, but because Bruno cannot secure a mathematical theory of experience, method slips back into magic and mnemonic technique
+- the chapter opening then states the positive alternative in Platonic form: exact science proceeds from concepts and original thought-positions, not from immediate sensory merger with things
+
+Why it matters:
+
+- this passage converts the whole Bruno run from a sequence of near-misses into a determinate method verdict
+- it also cleanly opens the next phase of Book II by naming what the Renaissance lacked most sharply: not effort, but lawful conceptual mediation
+
+Current downstream use:
+
+- reflected in Part `79`
+- held locally while the next tranche shows how the new chapter constructs the positive method of exact science beyond the anti-analogical opening
+
+### Exact science begins when experience reforms the concept
+
+Passage base:
+
+- Part `80`
+- printed pages `316-319`
+
+Finding:
+
+- Cassirer now states the positive exact-science threshold explicitly: sensation becomes scientifically relevant only when fixed things are dissolved into mathematical functions and processes
+- the appeal from scholastic words to empirical things therefore culminates not in raw empiricism, but in a new systematics of the concept and a reform of logic
+- astronomy is the concrete proving ground of this shift, and Leonardo's importance appears at once as the unity of a methodological ground-thought rather than encyclopedic abundance alone
+
+Why it matters:
+
+- this is the first direct positive statement after the Bruno sequence of what a mathematical theory of experience actually does
+- it also keeps the Leonardo opening from being misread as merely another thinker-portrait: Cassirer inserts him precisely where method and world-picture have become one problem
+
+Current downstream use:
+
+- reflected in Part `80`
+- held locally while the next tranche shows how far Leonardo's organismic starting point is converted into determinate scientific method and whether `Begriff und Erfahrung` stays local or earns wider pressure
+
+### Leonardo: mathematics becomes the criterion of law and the end of magic
+
+Passage base:
+
+- Part `81`
+- printed pages `320-323`
+
+Finding:
+
+- Leonardo receives decisive pressure from Cusanus, but only after the metaphysical shell has been stripped off; what remains is continuum-analysis and a mathematically organized concept of nature
+- mathematics now functions as the criterion that fixes law, necessity, and causal intelligibility in nature, rather than merely offering inward certainty
+- this is why the anti-magical consequence is so harsh: spirit-causation, immaterial force, and perpetual-motion fantasy are all eliminated by the demand for materially conditioned and mathematically analyzable processes
+- the discussion of time shows the same method widening its domain rather than collapsing everything into geometry, while proof-certainty becomes the measure of knowledge itself
+
+Why it matters:
+
+- this is the first place in the Leonardo run where Cassirer makes the positive exact-science turn historically concrete rather than merely methodological
+- it also recovers a precise continuity with the earlier Cusanus material without erasing the real break produced by mathematics, necessity, and anti-magical causal analysis
+
+Current downstream use:
+
+- reflected in Part `81`
+- held locally while the next tranche shows whether Leonardo now develops these gains through more determinate mechanics, temporality, or method statements
+
+### Leonardo: experience becomes law-guided inquiry and imagination is disciplined
+
+Passage base:
+
+- Part `82`
+- printed pages `324-327`
+
+Finding:
+
+- Leonardo overturns the older ranking of knowledge by tying value to truth and proof rather than nobility of object
+- experience matters only as the outer form of rational lawfulness, so experiment begins inquiry but analysis must recover the necessary grounds of the phenomenon
+- Cassirer identifies this directly as a prefiguration of Galileo's resolutive method
+- law, geometry, painting, and imagination are then gathered into one structure: theory steers practice, geometry embodies rational rule, painting becomes a concrete analogue of philosophy, and imagination counts only under mathematical limit
+
+Why it matters:
+
+- this is the place where the Leonardo run stops being merely a case of mathematical certainty and becomes a full statement of how exact inquiry is supposed to proceed
+- it also explains why the imagination problem can now widen beyond Leonardo without becoming a regression: the issue is no longer fantasy versus reason, but the disciplined productive role of inner construction
+
+Current downstream use:
+
+- reflected in Part `82`
+- held locally while the next tranche shows how the Campanella comparison expands or complicates this disciplined-imagination line
+
+### Kepler: experience becomes exact induction without surrendering spirit
+
+Passage base:
+
+- Part `83`
+- printed pages `328-331`
+
+Finding:
+
+- Cassirer identifies Kepler as the first figure in whom the new concept of experience actually comes into being
+- the local fulcrum is the eight-minute Mars discrepancy, where exact observation gains enough authority to force reform of the whole astronomical system
+- yet Kepler's science is not passive empiricism: the Platonic recollection motive remains as a progressively demythologized account of the mind's productive role
+- harmony gathers both sides together, first as objective geometric-musical order and then as the beginning of an inward function of spirit
+
+Why it matters:
+
+- this is the first truly stable union in the chapter of exact observational control and productive inner form
+- it also gives the Kepler run a clear organizing concept from the outset, so later pages can be judged by whether they clarify harmony as world-order, spirit-function, or both
+
+Current downstream use:
+
+- reflected in Part `83`
+- held locally while the next tranche shows how the inward turn of harmony deepens and whether Kepler's subjective/objective unity remains stable
+
+### Kepler: harmony becomes pure relation and opens perception theory
+
+Passage base:
+
+- Part `84`
+- printed pages `332-335`
+
+Finding:
+
+- Kepler's harmony is now defined as a pure relation rather than a property of things, and it depends on mind's comparing and unifying activity
+- the remaining world-soul language is transformed toward functional relation rather than efficient cosmic force
+- aesthetic pleasure becomes an epistemic middle term between sensation and intellectual creation, so the spirit's apparent passivity before beauty is reinterpreted as its own activity
+- this same structure becomes the opening motive for a general theory of perception
+
+Why it matters:
+
+- this is the point where Kepler's science takes on its clearest logical form inside Cassirer's reconstruction
+- it also provides the bridge from harmony as a scientific principle to perception as a problem of form, rather than mere causal affection
+
+Current downstream use:
+
+- reflected in Part `84`
+- held locally while the next tranche shows how far Kepler can move beyond traditional species-talk in the theory of perception
+
+### Kepler: Platonic relation and geometric construction govern perception
+
+Passage base:
+
+- Part `85`
+- printed pages `336-339`
+
+Finding:
+
+- Kepler's outward optics still uses species-language, but the decisive act of relation and harmony is irreducibly intellectual
+- Platonic archetypes are construed as relations rather than things, so their status depends on thought without collapsing into private subjectivism
+- geometry is privileged over bare number, and the eye itself is understood from mind's prior grasp of geometric form
+- optics thereby becomes a theory in which spatial position and distance are intellectually constructed from sensory indications
+
+Why it matters:
+
+- this is the clearest place so far where Cassirer connects Kepler's idealism directly to a concrete scientific domain rather than treating it as biographical atmosphere
+- it also sharpens the whole Renaissance line: Cusanus and Leonardo were seeking the correlation of sense and thought, but Kepler makes it methodically explicit
+
+Current downstream use:
+
+- reflected in Part `85`
+- held locally while the next tranche shows how the cut-off sentence completes Kepler's account of empirical judgment and whether a stable optics thread has now formed
+
+### Kepler: hypothesis is the rational beginning of empirical science
+
+Passage base:
+
+- Part `86`
+- printed pages `340-343`
+
+Finding:
+
+- empirical cognition is now defined as the extraction of mathematically graspable relations from the given
+- the mathematical hypothesis is therefore foundational rather than instrumental: it gives the initial form under which the scientific problem can be posed
+- the opposition between astronomical and physical hypothesis is not one between formula and occult depth, but between mere computational fit and mathematically-physical grounding within phenomena
+- astronomy becomes legitimate only within a wider system of physical principles, which is why Kepler can already move from cosmography toward cosmophysics
+
+Why it matters:
+
+- this is the clearest methodological statement yet in the Kepler run of how perception, relation, geometry, and theory of science actually hang together
+- it also gives the earlier optics pages a stronger role: they were not just about visual perception, but about the conditions under which any empirical material becomes scientifically usable
+
+Current downstream use:
+
+- reflected in Part `86`
+- held locally while the next tranche shows how Cassirer develops the reopened historical contrast between mathematical and physical hypothesis
+
+### Bruno: two realms without mathematics
+
+Passage base:
+
+- Part `73`
+- printed pages `288-291`
+
+Finding:
+
+- Cassirer gives Bruno a real two-domain distinction: sensible and intelligible cognition obey different conditions and cannot be judged by one measure
+- but Bruno still cannot ground exact science of phenomena, because universally valid relations within appearance require the missing middle term of mathematics
+
+Why it matters:
+
+- this is the clearest point where Bruno comes closest to a modern relation-centered account without fully reaching it
+- it also names the exact threshold for the whole chapter: without mathematics, the reconciliation of Anschauung and Denken remains aesthetic or metaphysical rather than scientific
+
+Current downstream use:
+
+- reflected in Part `73`
+- held locally while the next tranche completes the analysis line opened at the end of the passage
+
 ## Boundary
 
 This ledger is not a second journal and not a free synthesis file.

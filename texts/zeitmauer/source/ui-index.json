@@ -8,12 +8,12 @@
   },
   "counts": {
     "sections": 166,
-    "terms": 14,
-    "chunks": 107,
-    "notes": 109,
+    "terms": 15,
+    "chunks": 111,
+    "notes": 113,
     "threads": 4,
     "evidence": 51,
-    "relations": 135
+    "relations": 139
   },
   "sections": [
     {
@@ -5535,6 +5535,19 @@
       "evidence": []
     },
     {
+      "handle": "term:urgrund-und-person",
+      "term": "Urgrund und Person",
+      "kind": "section_title",
+      "preferred": "Primal Ground and Person",
+      "alternatives": [
+        "Deep Ground and Person",
+        "Primal Ground and the Person"
+      ],
+      "status": "tentative",
+      "notes": "Working after §§167-170. The opening does not yet unfold `Urgrund` directly in the body text; instead it enters the part through the father-question, the withdrawal of the personal gods, church as institution, metaphysical interregnum, `Great Houses`, and `Second Religiosity`. `Primal Ground and Person` therefore remains workable as a title-level choice because the personal pole is already under pressure while the `Urgrund` pole is still being approached.",
+      "evidence": []
+    },
+    {
       "handle": "term:schicksalszeit",
       "term": "Schicksalszeit",
       "kind": "concept",
@@ -6342,6 +6355,30 @@
       "section": "zm:166",
       "file": "texts/zeitmauer/parts/55-siderische-einteilungen.md",
       "note": "On this side of the line the decisive question becomes what of the historical-human inheritance may be carried across and not sacrificed."
+    },
+    {
+      "handle": "zm:167:father-cannot-follow",
+      "section": "zm:167",
+      "file": "texts/zeitmauer/parts/56-urgrund-und-person.md",
+      "note": "Aeneas carrying the father becomes the cardinal question of the new part, but the answer is that the father cannot simply be taken along and the personal gods are withdrawing."
+    },
+    {
+      "handle": "zm:168:churches-and-mercilessness",
+      "section": "zm:168",
+      "file": "texts/zeitmauer/parts/56-urgrund-und-person.md",
+      "note": "The church's remaining institutional presence still helps keep atrocities legible as atrocities, while planning without metaphysical check reaches absolute mercilessness."
+    },
+    {
+      "handle": "zm:169:metaphysical-interregnum",
+      "section": "zm:169",
+      "file": "texts/zeitmauer/parts/56-urgrund-und-person.md",
+      "note": "Liberalism opens the door, metaphysical interregnum removes the risk, and attacks on the churches become ominous signs within the workshop-landscape."
+    },
+    {
+      "handle": "zm:170:second-religiosity",
+      "section": "zm:170",
+      "file": "texts/zeitmauer/parts/56-urgrund-und-person.md",
+      "note": "Churches appear as `Great Houses`, while `Second Religiosity` and second `décadence` become preserving and retarding powers rather than mere decline."
     }
   ],
   "notes": [
@@ -7192,6 +7229,38 @@
       "file": "texts/zeitmauer/parts/55-siderische-einteilungen.md",
       "kind": "translation_note",
       "note": "The section depends on keeping the layered-wall image, the line, and the inheritance-selection question together, with `Vererzung` left visibly more than generic hardening."
+    },
+    {
+      "handle": "note:zm:167:father-cannot-follow",
+      "section": "zm:167",
+      "anchor": "zm:167:father-cannot-follow",
+      "file": "texts/zeitmauer/parts/56-urgrund-und-person.md",
+      "kind": "translation_note",
+      "note": "The section only lands if Troy, Aeneas, the father-question, and Bloy's `Dieu se retire` stay in one frame without collapsing into simple secularization talk."
+    },
+    {
+      "handle": "note:zm:168:churches-and-mercilessness",
+      "section": "zm:168",
+      "anchor": "zm:168:churches-and-mercilessness",
+      "file": "texts/zeitmauer/parts/56-urgrund-und-person.md",
+      "kind": "translation_note",
+      "note": "The section depends on holding church as institution apart from sanctity while still making its restraining effect on atrocity and reason of state explicit."
+    },
+    {
+      "handle": "note:zm:169:metaphysical-interregnum",
+      "section": "zm:169",
+      "anchor": "zm:169:metaphysical-interregnum",
+      "file": "texts/zeitmauer/parts/56-urgrund-und-person.md",
+      "kind": "translation_note",
+      "note": "The section works only if the political sequence, the metaphysical interregnum, and the workshop-landscape remain visibly one problem."
+    },
+    {
+      "handle": "note:zm:170:second-religiosity",
+      "section": "zm:170",
+      "anchor": "zm:170:second-religiosity",
+      "file": "texts/zeitmauer/parts/56-urgrund-und-person.md",
+      "kind": "translation_note",
+      "note": "The section depends on keeping `Great Houses`, second religiosity, and second `décadence` together, with Huysmans neither dismissed as decadence alone nor promoted as a simple cure."
     },
     {
       "handle": "note:journal:mumford-bridge",
@@ -8486,6 +8555,30 @@
       "note": "The crisis now closes the part on the selection-question itself: on this side of the line it must be decided what historical-human inheritance is carried across and what may be left behind."
     },
     {
+      "from": "zm:167:father-cannot-follow",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now enters the father-question directly: the personal gods withdraw, yet altars and prayers remain, so the age is named by retreat rather than simple absence."
+    },
+    {
+      "from": "zm:168:churches-and-mercilessness",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now reaches institution and atrocity directly: the church's continued presence still makes horrors legible as horrors, while planning without metaphysical check reaches absolute mercilessness."
+    },
+    {
+      "from": "zm:169:metaphysical-interregnum",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now takes interregnal-political form: the workshop-landscape hums with activity while attacks on churches become preparatory signs of what follows."
+    },
+    {
+      "from": "zm:170:second-religiosity",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now turns toward survivals and retardation: `Great Houses`, second religiosity, and second `décadence` preserve and slow what the first accelerative phase had set in motion."
+    },
+    {
       "from": "note:journal:mumford-bridge",
       "relation": "grounds",
       "to": "thread:mumford-bridge",
@@ -8697,6 +8790,7 @@
       "term:messbare-und-schicksalszeit",
       "term:humane-einteilungen",
       "term:siderische-einteilungen",
+      "term:urgrund-und-person",
       "term:schicksalszeit",
       "term:mantisch",
       "term:urgrund",
@@ -8814,7 +8908,11 @@
       "zm:163:representative-freedom",
       "zm:164:last-man-overman",
       "zm:165:state-optical-illusion",
-      "zm:166:historical-human-inheritance"
+      "zm:166:historical-human-inheritance",
+      "zm:167:father-cannot-follow",
+      "zm:168:churches-and-mercilessness",
+      "zm:169:metaphysical-interregnum",
+      "zm:170:second-religiosity"
     ],
     "note_handles": [
       "note:zm:1:seidenschwanz",
@@ -8923,6 +9021,10 @@
       "note:zm:164:last-man-overman",
       "note:zm:165:state-optical-illusion",
       "note:zm:166:historical-human-inheritance",
+      "note:zm:167:father-cannot-follow",
+      "note:zm:168:churches-and-mercilessness",
+      "note:zm:169:metaphysical-interregnum",
+      "note:zm:170:second-religiosity",
       "note:journal:mumford-bridge",
       "note:journal:goethe-leibniz-frame",
       "note:journal:predecided-world"
@@ -9369,15 +9471,15 @@
       },
       "note:journal:goethe-leibniz-frame": {
         "kind": "note",
-        "index": 107
+        "index": 111
       },
       "note:journal:mumford-bridge": {
         "kind": "note",
-        "index": 106
+        "index": 110
       },
       "note:journal:predecided-world": {
         "kind": "note",
-        "index": 108
+        "index": 112
       },
       "note:zm:100:substance-surrender": {
         "kind": "note",
@@ -9659,6 +9761,22 @@
         "kind": "note",
         "index": 105
       },
+      "note:zm:167:father-cannot-follow": {
+        "kind": "note",
+        "index": 106
+      },
+      "note:zm:168:churches-and-mercilessness": {
+        "kind": "note",
+        "index": 107
+      },
+      "note:zm:169:metaphysical-interregnum": {
+        "kind": "note",
+        "index": 108
+      },
+      "note:zm:170:second-religiosity": {
+        "kind": "note",
+        "index": 109
+      },
       "note:zm:1:seidenschwanz": {
         "kind": "note",
         "index": 0
@@ -9809,19 +9927,19 @@
       },
       "term:bruchstelle": {
         "kind": "term",
-        "index": 11
+        "index": 12
       },
       "term:da-sein-so-sein": {
         "kind": "term",
-        "index": 13
+        "index": 14
       },
       "term:erdgeistig": {
         "kind": "term",
-        "index": 9
+        "index": 10
       },
       "term:erdgeschichtlich": {
         "kind": "term",
-        "index": 8
+        "index": 9
       },
       "term:fremde-voegel": {
         "kind": "term",
@@ -9829,7 +9947,7 @@
       },
       "term:hinzutretende": {
         "kind": "term",
-        "index": 12
+        "index": 13
       },
       "term:humane-einteilungen": {
         "kind": "term",
@@ -9837,7 +9955,7 @@
       },
       "term:mantisch": {
         "kind": "term",
-        "index": 6
+        "index": 7
       },
       "term:messbare-und-schicksalszeit": {
         "kind": "term",
@@ -9845,7 +9963,7 @@
       },
       "term:schicksalszeit": {
         "kind": "term",
-        "index": 5
+        "index": 6
       },
       "term:siderische-einteilungen": {
         "kind": "term",
@@ -9853,11 +9971,15 @@
       },
       "term:urgrund": {
         "kind": "term",
-        "index": 7
+        "index": 8
+      },
+      "term:urgrund-und-person": {
+        "kind": "term",
+        "index": 5
       },
       "term:weltplan": {
         "kind": "term",
-        "index": 10
+        "index": 11
       },
       "thread:goethe-leibniz-frame": {
         "kind": "thread",
@@ -10455,9 +10577,25 @@
         "kind": "chunk",
         "index": 106
       },
+      "zm:167:father-cannot-follow": {
+        "kind": "chunk",
+        "index": 107
+      },
+      "zm:168:churches-and-mercilessness": {
+        "kind": "chunk",
+        "index": 108
+      },
+      "zm:169:metaphysical-interregnum": {
+        "kind": "chunk",
+        "index": 109
+      },
       "zm:17": {
         "kind": "section",
         "index": 16
+      },
+      "zm:170:second-religiosity": {
+        "kind": "chunk",
+        "index": 110
       },
       "zm:18": {
         "kind": "section",
@@ -11036,6 +11174,7 @@
         "evidence:term:urgrund:zm:118",
         "evidence:term:urgrund:zm:131"
       ],
+      "term:urgrund-und-person": [],
       "term:weltplan": [
         "evidence:term:weltplan:zm:17",
         "evidence:term:weltplan:zm:37",
@@ -11767,6 +11906,38 @@
           "relation": "extends",
           "to": "thread:time-crisis",
           "note": "The crisis now closes the part on the selection-question itself: on this side of the line it must be decided what historical-human inheritance is carried across and what may be left behind."
+        }
+      ],
+      "zm:167:father-cannot-follow": [
+        {
+          "from": "zm:167:father-cannot-follow",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now enters the father-question directly: the personal gods withdraw, yet altars and prayers remain, so the age is named by retreat rather than simple absence."
+        }
+      ],
+      "zm:168:churches-and-mercilessness": [
+        {
+          "from": "zm:168:churches-and-mercilessness",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now reaches institution and atrocity directly: the church's continued presence still makes horrors legible as horrors, while planning without metaphysical check reaches absolute mercilessness."
+        }
+      ],
+      "zm:169:metaphysical-interregnum": [
+        {
+          "from": "zm:169:metaphysical-interregnum",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now takes interregnal-political form: the workshop-landscape hums with activity while attacks on churches become preparatory signs of what follows."
+        }
+      ],
+      "zm:170:second-religiosity": [
+        {
+          "from": "zm:170:second-religiosity",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now turns toward survivals and retardation: `Great Houses`, second religiosity, and second `décadence` preserve and slow what the first accelerative phase had set in motion."
         }
       ],
       "zm:1:seidenschwanz": [

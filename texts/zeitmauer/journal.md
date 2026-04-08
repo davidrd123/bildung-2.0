@@ -1507,3 +1507,32 @@ Decisions:
 - extend `thread:time-crisis` through `§164`, where the departing train and the Overman/Last Man pair recast the task as exit from history rather than lordship
 - extend `thread:time-crisis` through `§165`, where the state is reduced to station-illusion and the shove is shown driving the states
 - extend `thread:time-crisis` through `§166`, where the real selection-question concerns what historical-human inheritance may be carried across the line
+
+## 2026-04-07 — The Father Cannot Be Carried Over, But the Great Houses Still Hold
+
+Translated `§§167-170` under `parts/56-urgrund-und-person.md`.
+
+This batch opens `Urgrund und Person` through the father-question, the withdrawal of the personal gods, church as institution, metaphysical interregnum, and the doubled figure of `Second Religiosity` and second `décadence`. `§167` begins from Troy and Aeneas carrying the father only to answer that the father cannot simply be taken along; the stronger formula is not simple atheism but Bloy's `Dieu se retire.` `§168-169` then treat the church from the outside, as a remaining site where atrocities are still recognized as atrocities and where reason of state can still meet metaphysical control. `§170` closes the opening by treating churches as `Great Houses` and by showing how second religiosity and second `décadence` can become preserving or retarding powers once the first accelerative phase has passed.
+
+Working observations:
+
+- `§167` is the structural center. The decisive move is that the father cannot be heroically carried across as Anchises was. What is happening is better named as withdrawal of the personal gods than as simple disappearance.
+- `§168` matters because it distinguishes institutional church-presence from heroic sanctity. Even weakened churches still keep atrocities from becoming festival.
+- `§169` matters because it binds metaphysical interregnum to political sequence. The workshop-landscape hums with activity while attacks on the churches appear low-risk, yet those attacks become ominous signs of what follows.
+- `§170` matters because it keeps `Second Religiosity` and `décadence` from flattening into mere decline. The first phase accelerates catastrophe; the second can resist total politicization and preserve a delayed homesickness for the gods.
+- No new concept glossary entries are earned yet. The main gains are four new anchors, a section-title note for `Urgrund und Person`, and a continued extension of `thread:time-crisis` into paternity, institution, and survivals.
+
+One passage still at risk:
+
+- `die beiden gemeinsame robuste Gesundheit ohne Hintergründe` in `§170`
+- difficulty type: `lexical` plus `residual`
+- why: the English can stay close enough for now, but the exact force of `Hintergründe` in relation to democratic nationalism and naturalism is not yet settled
+
+Decisions:
+
+- add `Urgrund und Person` as a new section-title note in the glossary
+- do not yet promote `Dieu se retire`, `Zweite Religiosität`, `Große Häuser`, or `Staatsräson` into the glossary
+- extend `thread:time-crisis` through `§167`, where the father-question opens onto the withdrawal of the personal gods
+- extend `thread:time-crisis` through `§168`, where the church's remaining institutional presence still helps keep atrocities legible as atrocities
+- extend `thread:time-crisis` through `§169`, where metaphysical interregnum and attack on the churches are read as part of the same dangerous sequence
+- extend `thread:time-crisis` through `§170`, where `Great Houses`, second religiosity, and second `décadence` become preserving and retarding powers under conditions of motion

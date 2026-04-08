@@ -1,0 +1,52 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Tektologiya Volume 1 Arc</title>
+  <desc id="desc">A stepped diagram showing the arc of Tektologiya volume one: organizational point of view, mechanisms, regulation, applications, and polemical recap.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f6f0e6"/>
+      <stop offset="100%" stop-color="#ece2d2"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto-start-reverse">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#2d2a26"/>
+    </marker>
+    <style>
+      .eyebrow { font: 600 24px "Avenir Next", "Segoe UI", sans-serif; letter-spacing: 0.18em; text-transform: uppercase; fill: #7b5d43; }
+      .title { font: 700 54px "Cormorant Garamond", Georgia, serif; fill: #201b17; }
+      .label { font: 700 34px "Cormorant Garamond", Georgia, serif; fill: #1f1915; }
+      .caption { font: 500 21px "Avenir Next", "Segoe UI", sans-serif; fill: #5a4a3b; }
+      .frame { fill: none; stroke: #b79d83; stroke-width: 2; }
+      .arrow { fill: none; stroke: #2d2a26; stroke-width: 4; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="48" y="48" width="1504" height="804" rx="28" class="frame"/>
+
+  <text x="118" y="108" class="eyebrow">Tektologiya, Volume I</text>
+  <text x="118" y="170" class="title">Volume-1 Arc</text>
+  <text x="118" y="210" class="caption">Packet 01, Plate 01</text>
+
+  <rect x="128" y="228" width="438" height="116" rx="26" fill="#efe4cb" stroke="#8e765f" stroke-width="3"/>
+  <text x="347" y="277" text-anchor="middle" class="label">organizational</text>
+  <text x="347" y="318" text-anchor="middle" class="label">point of view</text>
+
+  <rect x="1034" y="306" width="438" height="116" rx="26" fill="#dce6d4" stroke="#5f7560" stroke-width="3"/>
+  <text x="1253" y="375" text-anchor="middle" class="label">mechanisms</text>
+
+  <rect x="128" y="466" width="438" height="116" rx="26" fill="#d9e6e2" stroke="#5f7472" stroke-width="3"/>
+  <text x="347" y="535" text-anchor="middle" class="label">regulation</text>
+
+  <rect x="1034" y="544" width="438" height="116" rx="26" fill="#ead8b7" stroke="#8c714b" stroke-width="3"/>
+  <text x="1253" y="613" text-anchor="middle" class="label">applications</text>
+
+  <rect x="582" y="698" width="436" height="122" rx="28" fill="#d97b54" stroke="#8f4428" stroke-width="4"/>
+  <text x="800" y="748" text-anchor="middle" class="label" fill="#16120e">polemical</text>
+  <text x="800" y="791" text-anchor="middle" class="label" fill="#16120e">recap</text>
+
+  <path d="M 566 286 C 716 286, 832 316, 1034 364" class="arrow"/>
+  <path d="M 1034 394 C 854 424, 710 456, 566 524" class="arrow"/>
+  <path d="M 566 544 C 748 544, 874 560, 1034 602" class="arrow"/>
+  <path d="M 1253 660 C 1170 748, 1018 792, 800 792" class="arrow"/>
+
+  <text x="118" y="820" class="caption">point of view -&gt; mechanisms -&gt; regulation -&gt; applications -&gt; polemical recap</text>
+</svg>

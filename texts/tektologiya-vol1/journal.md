@@ -548,9 +548,6 @@ These are not all equally elegant. Some are stable precisely because their awkwa
 Other terms should stay under pressure:
 
 - `Tektology` remains `open` at the project-title level because the transliterated title and the fuller scope-translation still pull against each other
-- `neutral complexes` remains useful but not yet volume-wide enough to harden
-- `separateness` still looks methodologically right, but more local than some of the truly governing terms
-- `bond` remains the weakest of the mechanism nouns in English
 - `fusedness / beadedness` should remain tentative because Bogdanov himself marks the pair as provisional and image-prone
 
 The consolidation memo `selective-second-pass.md` therefore should be read not as a second tree of doctrine, but as a bounded review of what the completed main-text run now seems to say together.
@@ -558,6 +555,18 @@ The consolidation memo `selective-second-pass.md` therefore should be read not a
 Current conclusion:
 
 - the local glossary is no longer only a running intake list; it now has a stable core
+
+## 2026-04-08 - The Tentative Set Shrinks To One Real Lexical Problem
+
+After a precision pass through the remaining tentative entries and their translated occurrences, three of the four look earned as stable. `Separateness` is not one of the volume's most global words, but the English is now clearly settled: it is the derived category of interrupted activities-resistances in `3.a.5`, tied forward to crisis and already prefigured in `1.1` as the isolation of organizing forces. `Bond` also now looks stable, not because it became elegant, but because it proved structurally necessary and no better rival appeared. `Link` would blur too quickly into the already separate language of `chain connection`, whereas `bond` can carry the mediating or coinciding element that holds an ingressive relation together. `Neutral complexes` likewise now looks settled: it is one of the opening basic triplet terms and becomes philosophically load-bearing once mathematics is defined as the tektology of neutral complexes.
+
+Only `fusedness / beadedness` remains genuinely tentative. That is not mainly because the English failed. It is because Bogdanov himself marks the naming as conditional and image-prone. The translation can use the pair coherently, and can often lean on the surrounding prose of `fused / beaded structure`, but the source never lets the label become fully innocent.
+
+Current conclusion:
+
+- `separateness`, `bond`, and `neutral complexes` now count as stable glossary decisions for volume `1`
+- the one remaining real lexical pressure-point is `fusedness / beadedness`
+- `Tektology` remains separately `open` because its title-level pressure is of a different order than these local mechanism terms
 - the stable core is mostly mechanism-language plus the main stability/planning vocabulary
 - the still-open terms are open for real reasons, not from neglect
 - the next frontier should be selective front matter, beginning with author-facing material, not an indiscriminate march through every prefatory page
@@ -623,3 +632,206 @@ Review notes:
 
 - [visual candidate] a four-factor field for war organization: terrain / people / technique / morale, with compensatory substitution arrows
 - [visual candidate] a contrast diagram: routine labor = partial organizational domains; war = integral organizational field
+
+## 2026-04-07 - The Sympathetic Reviewer Forces the Sharpest Anti-Philosophy Line
+
+The remainder of `front.07` is one of the strongest places yet for understanding what Bogdanov means by refusing philosophy. The point is not simple anti-philosophical posture. The reviewer is sympathetic and wants to honor the project by treating it as a new phase of philosophy. Bogdanov rejects the gesture because he thinks the name would miseducate the work from the start. Philosophy suggests contemplative explanation, moral guidance, and a demand for total world-schemes; tektology instead means practical mastery, experiment, and stepwise scientific construction.
+
+The most decisive sentence may be the challenge to imagine a `philosophical experiment`. It sounds impossible because philosophy, as such, is not organized around repeated, planful testing in experience. Tektology is. This sharpens the line already visible in `2.c`, but here the issue is no longer only classification. It becomes institutional and social: tektology must not become the affair of philosopher-specialists, but of broadly educated workers in science and practice.
+
+The answer to the complaint about `not embracing all phenomena` is equally important. Bogdanov denies that a universal science must explain everything at once. He compares his schemes to a law like conservation of energy: universal in scope, but only with respect to one side of phenomena. That is a strong clarification of how the project's abstract schemas are meant to function. They are not total world-pictures; they are universally portable instruments.
+
+There is also an important historical gain here. In 1916 Bogdanov still says that the fuller treatment of qualitative change will come with the doctrine of system crises. For the present edition this is no longer a future promise, but the preface preserves the growth-line of the project and shows why the critic's objection could only be partly answered at that moment.
+
+Finally, the `1917` postscript widens the horizon from war to revolution. The necessity of tektology is no longer grounded only in catastrophic destruction between states, but in the deeper problem of reconstructing and replacing organizational forms themselves. That is one of the clearest statements yet that tektology claims historical urgency, not just theoretical legitimacy.
+
+Current conclusion:
+
+- the sharpest anti-philosophy line in the subproject so far comes from a sympathetic reviewer, not a hostile critic
+- `philosophical experiment` is the cleanest local criterion separating tektology from philosophy
+- universality here means applicability to a determinate side of all phenomena, not exhaustive explanation of everything
+- the preface preserves an earlier stage in which crises were still future work, which matters for architectural reading
+- the `1917` postscript makes revolution, not only war, the historical accelerator of tektology
+
+## 2026-04-07 - The Second Edition Explains the Present Architecture
+
+The opening of `front.08` is unusually valuable because it stops being programmatic and becomes editorially explicit. Bogdanov says the earlier exposition had proceeded along the line of least resistance rather than of greatest logical sequence, and that a reworking was necessary. That is the clearest authorial warrant yet for treating the present printed order as a retrospective reconstruction of the project, not as its untouched original unfolding.
+
+The decisive sentence is the architectural one: the formative mechanism is now placed before the regulating mechanism, and a general survey of both is given before the more detailed investigation. This does not merely explain the order of chapters in some bibliographical sense. It also confirms that the local read through volume `1` has been following a genuinely intended logic rather than only an inherited arrangement of publication.
+
+The terminology note is equally important. `Analytic sum` now gains explicit historical support because Bogdanov himself says he replaced `conjugational sum` with it as the more exact expression. That matters for the project's glossary discipline. The current English choice is not just a translator's convenience inferred from later arguments in `4.5`; it is anchored in authorial revision.
+
+One more gain is architectural in a different sense. The new third part on crises and organizational dialectic is said to complete the exposition of the general theory, after which special applications should follow. This helps separate two levels that could otherwise blur together: general tektological theory on the one hand, and later transformation of special sciences on the other.
+
+Source note:
+
+- the available witness breaks in the middle of the next sentence after `Первая из них даже отчасти опубликована`; that break should be kept visible rather than silently patched
+
+Current conclusion:
+
+- `front.08` is direct evidence for reading the present volume as a re-architected sequence
+- the basic order `formative before regulating` is explicitly authorial, not merely editorial
+- `analytic sum` is now fully earned as a stable glossary term
+- crises and organizational dialectic are marked here as the closure of general theory before special applications
+- the next clean move is the later clean portion of `front.08`, after the damaged break
+
+## 2026-04-07 - The Second Edition Also Declares the Application Cycle Open
+
+The later clean portion of `front.08` matters because it prevents the preface from being read only as an editorial note on architecture. Bogdanov says he has already been applying tektological methods, even without naming them as such, in political economy and the development of ideologies. That is a strong authorial confirmation that the project's application-side is not a speculative future appendage. It was already underway in neighboring work.
+
+The line about the `new cycle of works` is therefore important. The present book is described as a general basis from which more special applications are to proceed. This sharpens the distinction between the role of `Tektology` itself and the role of later transformations of special sciences. It also helps explain why the planning sections in chapter `5` should not feel like an alien intrusion: applied work was part of the intended horizon from the outset of the revised edition.
+
+The timeliness claim has now fully reversed. In `front.06` the task was necessary but lonely and risky. Here Bogdanov says that the years of great disorganization and great organizational attempts have produced a world demand for scientific organization-questions. Partial applied sciences are proliferating, but they remain empirically shaky because they do not yet rise to universal regularities. That is one of the clearest arguments in the front matter for why a general organizational science should now become historically unavoidable.
+
+Most striking for the present project is the concrete list of live fronts where Bogdanov says collaborators are already working: the state-economic plan, pedagogy, transitional economic forms, socio-psychological types. This list directly links the front matter back to some of the most important material in the main-text run. It also gives the strongest answer yet to the solitude note of `front.06`: by `1921`, the hoped-for co-workers have appeared.
+
+Current conclusion:
+
+- `front.08` is not only a note on re-architecture but a declaration that the application cycle is already open
+- the current volume is framed as a general base for later special works
+- historical untimeliness has turned into historical urgency
+- planning and pedagogy are explicitly named as active tektological fronts by Bogdanov himself
+- the collaborator motif now closes one of the strongest front-matter arcs: from solitary beginning to first cohort
+
+Review notes:
+
+- [visual candidate] a front-matter arc: solitary initiative -> war-school -> anti-philosophy clarification -> re-architecture -> co-workers and application cycle
+
+## 2026-04-08 - The Point of View Enters the Atmosphere
+
+`front.09` is one of the clearest places where Bogdanov stops arguing directly for tektology and instead claims that reality is already arguing for it. The point is no longer only that universal organizational science should exist, or that it has become historically timely. The point is that contemporary thought is beginning to produce tektological comparisons on its own. Formerly inadmissible juxtapositions across remote domains are becoming natural because their structural identities are becoming visible.
+
+The three chosen examples are well judged because they are not all the same kind. The optics case is a clean analogy across media and movement. The Tadiev case is a broader style of parallel biological schematization, where different organisms are described in nearly identical formulas once one abstracts to structural relations and environmental dependence. The Robertson case is the strongest because it goes beyond stylistic parallelism toward a determinate organizational law: a chain of processes governed by its slowest link, explicitly illustrated through factory production and then transferred to living matter.
+
+For the present project this matters methodologically. `5.3` warned that analogy is not yet tektology unless explanatory ground can be shown. `Front.09` does not abolish that standard, but it gives a stronger account of how structural convergence begins to appear historically. A field can come under enough pressure that it independently rediscovers the same organizational schemas. Robertson is the best case so far: Bogdanov can point to the passage and say that, unnamed, it already reads like a chapter from the law of leasts.
+
+The closing editorial note also earns attention. `Hedonic Selection` was not abandoned as false, but withdrawn as too compressed for too large a subject. And the afterword is added precisely because criticism and polemic now have to be answered. That helps explain why the critical appendix belongs organically to the late shape of the volume rather than as an accidental add-on.
+
+Current conclusion:
+
+- `front.09` shifts the claim from timeliness to atmospheric convergence
+- the Robertson example is the strongest outside confirmation yet of the local reading of `law of leasts`
+- this preface refines, rather than cancels, the distinction between analogy and structural convergence
+- the late editorial notes explain both the absent `Hedonic Selection` chapter and the presence of the polemical afterword
+
+## 2026-04-08 - The Editorial Necrology Recasts Tektology as a Coordinate System
+
+The opening of `front.10` has to be read with a stricter authority discipline than the authorial prefaces. It is an editorial necrology, not Bogdanov speaking in his own name. That matters. Still, it earns attention because it offers one of the sharpest compressed formulations yet of what tektology is supposed to be: a new system of coordinates for the world of experience, centered on organization.
+
+The strongest part is the Copernicus/Marx comparison. Its point is not only homage. It says that what is scientifically decisive in both cases is a change of point of view that makes an already lawful field newly intelligible. Read in that light, tektology is not primarily a new domain next to existing sciences, but a changed center from which heterogeneous domains can be read together.
+
+The editor's compressed summary of the first two volumes is also useful. It states volume `1` through the pair `ingression` and `selection`, then volume `2` through the fate of organizational forms in environment and the laws of divergence and convergence. That should not override the finer distinctions earned in the local batch files, but it is good evidence for how a near-contemporary, sympathetic editor understood the major architecture of the project.
+
+One further gain is practical. The necrological opening ties Bogdanov's blood-transfusion work directly to tektology, not merely biographically but methodologically, as experiment on the increase of viability through a general organizational logic of combination. That is an editorial claim, but it illuminates why the transfusion work mattered inside his own self-understanding.
+
+Current conclusion:
+
+- `front.10` is secondary in authority but not devoid of value
+- the coordinate-system formula is one of the cleanest late summaries of the organizational point of view
+- the Copernicus/Marx analogy restates tektology as a changed center of intelligibility rather than a merely added specialty
+- the editor's summary of volumes `1-2` is useful as reception evidence, though not as a replacement for the translated text itself
+
+## 2026-04-08 - The Necrology Turns Encyclopedism Into Method
+
+The later portion of `front.10` makes the editorial argument more precise. Bogdanov's spread across astronomy, higher mathematics, relativity, biology, social science, psychology, and finally blood transfusion is not presented as the accidental breadth of a gifted polymath. It is interpreted as the natural consequence of a science for which everything is equally available as organizational material. That is what the editor calls `cosmic universalism`, and the phrase is worth keeping visible precisely because it names the scale of the ambition without pretending that the ambition is merely ornamental.
+
+The strongest image here is not even the universalist formula itself, but the furrow line: one and the same furrow, but passing through the heart of the world. That is a concise editorial answer to a possible misreading of the corpus as dispersion. It says that the materials changed, not the governing aim.
+
+The blood-transfusion section is also more important than it first appears. The editor explicitly interprets the Institute not just as medical work or biography, but as a partial practical application and experimental verification of tektology. The fusion of blood is placed under the same organizational angle as the mixing of liquids, cells, communities, languages, and nations. Whether or not one accepts every extrapolation, this is strong evidence for how closely practical experiment and universal organizational reasoning were bound together around the end of Bogdanov's life.
+
+Current conclusion:
+
+- the editorial voice reads Bogdanov's encyclopedism as methodological rather than merely temperamental
+- `cosmic universalism` is a useful reception-term for the scale of the project
+- the blood-transfusion work is presented as tektological experiment, not only as external biography
+- the editor's closing move broadens combination and increased structural stability across cases from the cellular to the social
+
+## 2026-04-08 - Selective Front-Matter Pass Reaches Its Boundary
+
+With `front.04` through `front.10` now worked, the selective front-matter pass has reached a natural stopping point. The active entry sequence proved to be coherent: author-note to German preface, then the 1912 and 1916/1917 self-positionings, then the second- and third-edition retrospective explanations, and finally the posthumous editorial framing. That sequence yields a much clearer outer arc for volume `1` than an indiscriminate march through all prefatory pages would have done.
+
+One strong consequence is that the front matter no longer looks merely supplementary to the completed main-text run. It sharpens several of its decisive conclusions: tektology begins from generalized problem-posing; practical applicability belongs to the project from the start; war and revolution act as accelerants of organizational thought; the present architecture is retrospective and deliberate; atmospheric convergence in other sciences matters; and the late editorial reception understood the whole as a coordinate shift centered on organization.
+
+What remains untouched in the front matter, `front.01-03`, is of a different order. Those pieces are editorial and contextual, but they are not the authorial or near-terminal framing texts that most directly reorganize the reading of the book itself. They may still be worth visiting later, but they no longer feel like the immediate frontier.
+
+Current conclusion:
+
+- the selective front-matter pass has done what it needed to do
+- `front.04-10` now form a usable outer arc around the completed main-text pass
+- the next worthwhile move is likely consolidation of the whole volume-level read, not blind continuation
+- if front matter is resumed later, `front.01-03` should be treated as a secondary contextual track
+
+## 2026-04-08 - The Inner Arc And Outer Arc Now Land On The Same Claim
+
+With the consolidation now written back into the reread memo, the volume-level picture is sharper than either the main-text pass or the front-matter pass could make it alone. The inner arc established a compact mechanism-set, a disciplined theory of transfer, and a diagnostic-first reading of the law of leasts. The outer arc then clarified how Bogdanov wanted that apparatus understood: not as philosophy, not as mere analogy, and not as a timeless curiosity, but as a practical science pressed forward by historical crisis and reconstruction.
+
+Two gains matter most. First, the front matter confirms that practical applicability is original to the project rather than a late appendage. Second, it shows that the present printed order is retrospective and deliberate: formative before regulating, general theory before special applications, and criticism answered because the science had reached the point where its enemies and near-allies both had to be answered explicitly.
+
+The editorial necrology should still be held at lower authority than the authorial prefaces. But even there the `coordinate-system` formula earns a limited use, because it names something the local translation work has also been finding: tektology is meant as a shift in center of intelligibility across heterogeneous material, not simply as one more specialty among specialties.
+
+Current conclusion:
+
+- the volume's inner arc and outer arc now support the same reading rather than competing ones
+- tektology in volume `1` is best understood as a compact, portable, experimentally answerable organizational method
+- the front matter strengthens the case that application, planning, and reconstruction belong to the project from the start
+- the present shape of the book should be read as a later architecture, not as an innocent first sequence
+- further work should probably return to local unresolved text pressure rather than manufacture a larger synthesis tree
+
+## 2026-04-08 - Volume I Leaves Behind A Loaded Instrument
+
+With the stable core of the glossary now in place, the main result of the subproject is no longer only a translated run of sections. It is a compact mechanism-vocabulary for organizational analysis: a small set of terms that has been forced through the whole volume rather than imported from retrospective systems summaries. That gives the project something powerful and risky at once. The vocabulary now wants to travel.
+
+The risk is obvious. `Tektologiya` is the one live subproject that most explicitly claims to be a method for re-posing problems across domains. If its vocabulary is carried too quickly into Jünger, Gómez Dávila, Cassirer, or modern sources, it stops being an earned instrument and turns into a framework imposed in advance. That would violate the repo's own discipline. Bogdanov can be useful beyond his own volume only when another text generates organizational pressure locally and the tektological distinction clarifies something the source was already making difficult.
+
+The strongest immediate uses therefore look bounded rather than imperial. One is external: a real encounter with Rosen, where `organization` and `closure` are already the explicit problem and the comparison would be anchored on both sides. One is internal: using `fusedness / beadedness` experimentally on the workspace or project ecology before pretending the pair has fully hardened. One is visual: a compact mechanism map showing how `conjugation`, `ingression`, `bond`, `deingression`, `crisis`, `selection`, and `mobile equilibrium` actually hang together.
+
+Current conclusion:
+
+- volume `1` now leaves behind a portable organizational vocabulary, not only completed batches
+- that vocabulary should function as a demand-led instrument, not as a standing framework for the rest of the repo
+- the most promising next tests are bounded: Rosen encounter, internal `fused / beaded` test, and mechanism diagram
+
+Review notes:
+
+- [visual candidate] a single-sheet mechanism map: `conjugation -> ingression -> bond / chain connection -> deingression -> crisis`, with `selection`, `mobile equilibrium`, and `law of leasts` shown as the regulating and diagnostic continuations
+
+## 2026-04-08 - The First Visual Packet Should Stay Architectural
+
+The visual inventory in the journal is now large enough that the next problem is not scarcity but selection. The first packet should therefore not try to honor every candidate evenly. It should teach the architecture of volume `1`.
+
+That means preferring the diagrams that show the burden of the book at one glance: the volume arc, the formative mechanism split, the bridge through chain connection, the transition into regulating mechanism, the threshold logic of relative resistance, the methodological ladder from analogy to structural explanation, and the practical fork of the law of leasts. These seven are enough to let a reader see what Bogdanov is building without needing to absorb the full volume first.
+
+This also implies a restraint. The newer single-sheet mechanism poster is probably the best synthesis plate, but it should come after the simpler architectural packet, not before it. Likewise, application diagrams, front-matter diagrams, and local physical illustrations should be held for later rounds. The first packet has to teach the grammar before it can teach the elaborations.
+
+Current conclusion:
+
+- the first Tektologiya visual packet should stay architectural rather than encyclopedic
+- seven core diagrams are enough for packet `01`
+- the composite mechanism poster should follow the core packet, not replace it
+
+## 2026-04-08 - Source-Language Commentary Probe: Takhtajan On `Тектология`
+
+**Question**
+
+Does one Russian commentary slice change how the finished volume-`1` result should be described: an early systems-theory precursor, or a broader organizational instrument whose later systems echoes are only partial?
+
+**Probe**
+
+Read A. L. Takhtajan, `Слово о тектологии`, focusing on the parts that define tektology as a universal science of organization and disorganization, then compare Bogdanov with Bertalanffy, cybernetics, Ashby, and practical planning. This is a bounded proxy for the Takhtajan line, not a replacement for the full 1971 essay `Тектология: история и проблемы`.
+
+**What it taught**
+
+- Takhtajan does not read Bogdanov as merely a maker of suggestive analogies. He treats tektology as a general science of organizational and disorganizational forms across heterogeneous materials and levels.
+- The systems and cybernetics parallels are real but secondary. Bertalanffy, feedback, and Ashby's `veto` theory appear as later partial convergences, not as the horizon that fully explains Bogdanov's project.
+- That sharpens the current instrument-pressure note. The safest description of what volume `1` leaves behind is not `proto-systems theory`, but a portable organizational method that can later be put into contact with systems work under pressure.
+- The commentary also reinforces a practical point already visible in the front matter and in chapters `5.1-5.2`: planning and reconstruction are not late opportunistic applications, but intrinsic to how Bogdanov and his serious readers understood the science.
+
+**Result**
+
+This probe taught rather than merely confirmed. It did not widen the immediate cross-project license of Bogdanov, but it clarified the level on which comparison should occur: not `Bogdanov predicted cybernetics`, but `later systems work partially reoccupies terrain that tektology had already organized more broadly`.
+
+**Decision**
+
+- keep the Takhtajan result local to `tektologiya-vol1` for now
+- tighten the glossary notes for `Тектология` and `закон наименьших`
+- keep Rosen as the clearest next external test, because that is where the systems comparison can be pressure-tested rather than only asserted

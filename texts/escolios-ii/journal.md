@@ -188,3 +188,91 @@ The run now reaches `§450` with two more sections:
 This pair keeps turning modern language against itself. `§391`, `§396`, `§404`, and `§418` all refuse surface reductions: authenticity is not mere sincerity, institutions cannot survive pure efficiency, the sacred middle cannot be collapsed into the profane or the divine, and reality resists reading because it lacks punctuation rather than because it is sealed. The next section moves more directly through orthodoxy, revelation, monastic witness, literature, and capitalism, but without becoming a second-pass synthesis. The task remained local: keep the aphorisms readable, and mark only the handful that force a little more structure into view.
 
 This stretch also forced another exact OCR pass in the extractor, and one more local seam repair around `§446-447`. The working source now cleans up `§396`, `§399`, `§407`, `§409`, `§416`, `§420`, `§426`, `§430`, and the damaged `vocablo significativo` pocket, while leaving the rest of the source alone. The explicit Spanish casualty list still remains unchanged at a single flagged entry: `id 1189`.
+
+## 2026-04-07 — Sections 19 And 20 Added
+
+The run now reaches `§510` with two more sections:
+
+- `§451-480` / printed pages `84-90` in [sections/19-judgment-and-two-faiths.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/19-judgment-and-two-faiths.md)
+- `§481-510` / printed pages `90-94` in [sections/20-beauty-and-vertical-order.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/20-beauty-and-vertical-order.md)
+
+The first of these sections keeps pushing against flattening habits that try to replace judgment with sociology, theology with communal behavior, or faith with optimism and solutions. The second turns more quietly toward custody rather than demolition: beauty, loyalty, order, mystery, natural theology, and transcendence are all treated as things one receives without forcing them into premature coherence.
+
+This stretch needed another exact source-repair pass, but nothing broader than that. The extractor now corrects `§451`, `§454`, `§463`, `§467-468`, `§478-479`, `§508`, and `§510` where the live batching exposed them, and the overall extracted count remains `2442`. The explicit Spanish casualty list still remains unchanged at a single flagged entry: `id 1189`.
+
+## 2026-04-08 — Sections 21 And 22 Added
+
+The run now reaches `§545` with two more sections:
+
+- `§511-526` / printed pages `95-97` in [sections/21-hyperchronism-and-fealty.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/21-hyperchronism-and-fealty.md)
+- `§527-545` / printed pages `98-100` in [sections/22-trivialization-and-place.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/22-trivialization-and-place.md)
+
+The first of these sections keeps tightening the historical line: irrepetible causes, conscious partiality, the danger of classification without understanding, and a feudal reading of Christian loyalty. The next section turns toward trivialization and placement: how style without art, bureaucracy, bad contexts, clean ground, and vanished hierarchies all flatten the world's texture rather than merely disorganizing it.
+
+This stretch only forced four exact source repairs in the extractor and the canonical YAML surface: `§525`, `§526`, `§530`, and `§538`. Nothing broader was needed, and the extracted count still holds at `2442` with the same single flagged casualty: `id 1189`.
+
+## 2026-04-08 — Sections 23 And 24 Added
+
+The run now reaches `§580` with two more sections:
+
+- `§546-557` / printed pages `101-102` in [sections/23-vigency-and-partiality.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/23-vigency-and-partiality.md)
+- `§558-580` / printed pages `103-106` in [sections/24-providence-and-tension.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/24-providence-and-tension.md)
+
+The first section tightens the line on inheritance and judgment: what lacks vigency may still educate, impartiality means conscious partiality rather than neutrality theater, and named faith matters more than generic agreement. The second section moves through providence, liberty, theological tension, historical causality, and ethical form without turning those themes into one more system. The pressure in both is against flattening: against fashion, against false peace, against theories that explain away the capable person or the real object of belief.
+
+This stretch only forced two exact repairs in the live source: `§554` now ends cleanly, and `§577` now reads `compra` on witness support rather than `compro`. The extracted count still holds at `2442`, and the only flagged casualty remains `id 1189`.
+
+## 2026-04-08 — Sections 25 And 26 Added
+
+The run now reaches `§620` with two more sections:
+
+- `§581-597` / printed pages `107-108` in [sections/25-resurrection-and-form.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/25-resurrection-and-form.md)
+- `§598-620` / printed pages `109-113` in [sections/26-autonomy-and-remedy.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/26-autonomy-and-remedy.md)
+
+The first section keeps returning to what survives apparent exhaustion: old age, resurrected literary blocks, poetry, exact language, and forms whose vigency depends on the reader rather than on fashion. The next section turns more directly toward autonomy, discipline, imitation, forgiveness, and false remedies. What matters in both is not nostalgia by itself, but the pressure to distinguish living form from the substitutes that modern self-sufficiency keeps offering.
+
+This stretch only forced four exact repairs in the live source: `§583`, `§585`, `§607`, and `§619`. The extracted count still holds at `2442`, and the only flagged casualty remains `id 1189`.
+
+## 2026-04-08 — Sections 27 And 28 Added
+
+The run now reaches `§660` with two more sections:
+
+- `§621-640` / printed pages `114-116` in [sections/27-history-and-conversion.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/27-history-and-conversion.md)
+- `§641-660` / printed pages `117-120` in [sections/28-mystery-and-diagnosis.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/28-mystery-and-diagnosis.md)
+
+These pages sharpen two already active lines without needing a heavy new frame. The first section turns around value, history, and conversion: courage without rules, nature inside history, reason's limit before spiritual error, poetry as allusion to the real, and resurrection as the most rational enterprise. The next section makes diagnosis harder rather than easier: mystery educates, transcendence interrupts immanence, rhetoric remains necessary, Marxism is demoted from explanation to symptom, and bureaucracy becomes frightening not because it fails but because it works.
+
+This stretch only forced four exact repairs in the live source: `§623`, `§636`, `§647`, and `§655`. The extracted count still holds at `2442`, and the only flagged casualty remains `id 1189`.
+
+## 2026-04-08 — Sections 29 And 30 Added
+
+The run now reaches `§700` with two more sections:
+
+- `§661-680` / printed pages `120-123` in [sections/29-history-and-failure.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/29-history-and-failure.md)
+- `§681-700` / printed pages `123-126` in [sections/30-justice-and-aggiornamento.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/30-justice-and-aggiornamento.md)
+
+These pages push two lines very hard at once. The first section shows modern success hollowing out its own supports: custom collapses under speed and anonymity, revolutions disclose changes already accomplished, and bureaucracy becomes frightening because it functions. The next section turns directly on political and ecclesial vocabulary: "social justice," demagogy, prophecy, poetry, Paul's counsel, and *aggiornamento* are all tested by whether they still answer to transcendence rather than to ideological fashion.
+
+This stretch only forced three exact repairs in the live source: `§678`, `§694`, and `§696`. The extracted count still holds at `2442`, and the only flagged casualty remains `id 1189`.
+
+## 2026-04-08 — Sections 31 And 32 Added
+
+The run now reaches `§740` with two more sections:
+
+- `§701-720` / printed pages `127-129` in [sections/31-structures-and-evangelisms.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/31-structures-and-evangelisms.md)
+- `§721-740` / printed pages `130-132` in [sections/32-imagination-and-survival.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/32-imagination-and-survival.md)
+
+The first of these sections works by rank and grammar: values are treated as personal realities rather than propositions, societies as structures rather than combinable mechanisms, and historical explanation as least trustworthy where it sounds most coherent. The next section presses harder on imagination and method. Myth becomes the only way to state simple truths, historical objectivity is named as task rather than postulate, and the imagination returns at the end not as fantasy but as the only inhabitable interior space left after so much flattening.
+
+This stretch only forced three exact repairs in the live source: `§704`, `§705`, and `§708`. The extracted count still holds at `2442`, and the only flagged casualty remains `id 1189`.
+
+## 2026-04-08 — Sections 33 And 34 Added
+
+The run now reaches `§780` with two more sections:
+
+- `§741-760` / printed pages `132-135` in [sections/33-values-and-colonization.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/33-values-and-colonization.md)
+- `§761-780` / printed pages `136-139` in [sections/34-inheritance-and-prison.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/34-inheritance-and-prison.md)
+
+The first section keeps the pressure on metaphysics, value, and education: metaphysics dies when read literally, values are treated as realities that cannot be naturalized into the world, and modern man is diagnosed less as possessed than as colonized by stupid ideas. The next section turns toward inheritance, transcendence, and imprisonment. Definition is assigned to the immanent, description to the transcendent, inheritance becomes nourishment rather than burden, and science is explicitly demoted to an inventory of the prison rather than a route out of it.
+
+This stretch only forced one exact repair in the live source: `§777` now restores the printed `etc.,` punctuation in the sequence of humiliations. The extracted count still holds at `2442`, and the only flagged casualty remains `id 1189`.

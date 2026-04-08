@@ -19,3 +19,30 @@ Documents referenced in project conversations. Strike through items once they ha
 
 - **"Semantic mining / auto-refutation" Twitter post**
   Pasted as text in Warburg chat. Author unclear. Pure Leibniz counterpoint — "refutations per token per watt." Lower priority; useful as foil, not as source.
+
+---
+
+## From 2026-04-08 Cassirer reception gap pass
+
+Targets that would likely recover the missing "older serious scholarship" layer around Cassirer more effectively than generic later collections.
+
+- **Direct responses to `Substanzbegriff und Funktionsbegriff`**
+  Reviews, controversy pieces, or early discussions that show how Cassirer's science-method argument was actually received.
+
+- **Direct responses to `Das Erkenntnisproblem`**
+  Especially journal-era notices or pieces focused on Vol. 1 and the scientific-historiographical method.
+
+- **Direct responses to `Zur Einsteinschen Relativitätstheorie`**
+  Especially material tying Cassirer to the relativity and geometry debates of the 1910s-1920s.
+
+- **Schlick / Reichenbach / Carnap materials with direct Cassirer overlap**
+  Not generic histories of logical empiricism, but pieces where Cassirer is used, criticized, or absorbed in the same debate.
+
+- **Hilbert / Erlanger Program / non-Euclidean geometry material with Cassirer overlap**
+  Older work on Cassirer's relation to axiomatics, invariants, and constitutive principles.
+
+- **Warburg / Hamburg context around Cassirer**
+  Material that places Cassirer inside the Hamburg field rather than treating him only as an isolated philosopher.
+
+- **Exile and immediate postwar reception fragments**
+  Material explaining why Cassirer produced influence without producing a strong school.

@@ -1,0 +1,44 @@
+{
+  "command": "edit",
+  "createdAt": "2026-04-08T01:31:54-07:00",
+  "prompt": "Design a rigorous branching organizational diagram for Alexander Bogdanov's Tektologiya. This should look like a finished editorial plate for a serious book on conceptual structures, not a tech flowchart and not a classroom worksheet. The composition should make one split visually primary: a single top concept dividing into two divergent organizational outcomes. Use a restrained scholarly palette and strong legibility.\n\nThe content must consist of exactly three labels, rendered verbatim: conjugation, ingression, deingression. Put conjugation at the top or upper center as the originating node. From it, create a clear two-way split downward or outward so that ingression and deingression are felt as distinct branches, not items in a list. The branch itself is the concept. Make the divergence visually decisive. Do not add other terms, subtitles, examples, icons, or metaphors. Do not turn it into a ladder. Do not surround it with explanatory prose.\n\nVisual direction: landscape conceptual diagram, warm cream or parchment background, dark ink lines, one muted green family for one branch and one faded clay or terracotta family for the other. Clean vector-like edges, slightly printmaking or editorial texture, crisp type, generous negative space. The result should feel calm, exact, and formal. Avoid clutter, ornamental symbols, photorealism, glossy gradients, app-interface aesthetics, and invented text.",
+  "model": "gemini-3.1-flash-image-preview",
+  "temperature": 0.2,
+  "systemPrompt": "",
+  "aspectRatio": null,
+  "imageSize": null,
+  "label": "tektologiya-mechanism-split-prompt-v1",
+  "input_count": 0,
+  "inputs": [],
+  "requested_outputs": 2,
+  "attempts": 2,
+  "output_count": 2,
+  "outputRoot": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/tektologiya-vol1/visuals/out",
+  "outputDir": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/tektologiya-vol1/visuals/out/2026-04-08",
+  "sdk": {
+    "googleGenaiVersion": "1.66.0",
+    "imageConfigSupported": true
+  },
+  "text": null,
+  "outputs": [
+    {
+      "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/tektologiya-vol1/visuals/out/2026-04-08/tektologiya-mechanism-split-prompt-v1_001.png",
+      "relativePath": "2026-04-08/tektologiya-mechanism-split-prompt-v1_001.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/tektologiya-vol1/visuals/out/2026-04-08/tektologiya-mechanism-split-prompt-v1_002.png",
+      "relativePath": "2026-04-08/tektologiya-mechanism-split-prompt-v1_002.png",
+      "width": 1376,
+      "height": 768
+    }
+  ],
+  "candidate": {
+    "ref": "texts/tektologiya-vol1/journal.md:164",
+    "path": "texts/tektologiya-vol1/journal.md",
+    "line": 164,
+    "slug": "a-small-mechanism-map",
+    "text": "a small mechanism map: conjugation -> ingression / deingression"
+  }
+}

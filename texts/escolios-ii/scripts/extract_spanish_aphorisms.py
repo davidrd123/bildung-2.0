@@ -173,6 +173,36 @@ def normalize_text(text: str) -> str:
         "de la, nueva": "de la nueva",
         "El. moralismo": "El moralismo",
         "ridículo. — Es": "ridículo. Es",
+        "de -turnó": "de turno",
+        "La historia pierde su color .y su relieve si el historiador no arriesga juicios de valor. --El optimismo es gesto de enfermo asustado.": "La historia pierde su color y su relieve si el historiador no arriesga juicios de valor. El optimismo es gesto de enfermo asustado.",
+        "ideología dé comportamientos": "ideología de comportamientos",
+        "Ser auténticamente moderno' es, en cualquier siglo, indicio de mediocridad.": "Ser auténticamente moderno es, en cualquier siglo, indicio de mediocridad.",
+        "La humanidad actual sustituyó el mito de una pretérita dad de oro con el de Una futura edad de plástico.": "La humanidad actual sustituyó el mito de una pretérita edad de oro con el de una futura edad de plástico.",
+        "Comparado a un iglesia románica": "Comparado a una iglesia románica",
+        "para Sentir vértigo": "para sentir vértigo",
+        "sabe lo que dice,-": "sabe lo que dice,",
+        "La trascendencia no puede ser corolario de ninguna inmanencia. Sino vertical irrupción de lo divino.": "La trascendencia no puede ser corolario de ninguna inmanencia, sino vertical irrupción de lo divino.",
+        "man-. tenerse": "mantenerse",
+        "elimina r a la persona": "eliminar a la persona",
+        'sólo hubo un "arte sin estilo", m la segunda mitad': 'sólo hubo un "arte sin estilo", en la segunda mitad',
+        "Las historia es": "La historia es",
+        "tener fe en el Dios en que se debe tener fe,": "tener fe en el Dios en que se debe tener fe.",
+        "el burgués de hoy no los compro cuando tienen": "el burgués de hoy no los compra cuando tienen",
+        "podemos tratar como iguales. nos": "nos podemos tratar como iguales.",
+        "con tesis de otro,": "con tesis de otro.",
+        "el útimo recurso": "el último recurso",
+        "ateismo dionisfaco de Nietzsche": "ateísmo dionisíaco de Nietzsche",
+        "Corno el valor": "Como el valor",
+        "expresaranen prosa": "expresaran en prosa",
+        "como lo creíamos. sino": "como lo creíamos, sino",
+        '"quieren ser como los demás". los que "no quieren ser como los demás".': '"quieren ser como los demás"; los que "no quieren ser como los demás".',
+        "hecho s estéticos -mirar": "hechos estéticos - mirar",
+        "construir él futuro": "construir el futuro",
+        'a que fuimos\' llamados"': 'a que fuimos llamados"',
+        "programas politicos": "programas políticos",
+        "acción catalitica": "acción catalítica",
+        "di vinidad de Cristo": "divinidad de Cristo",
+        "determinismo económico etc, cada": "determinismo económico etc., cada",
     }
     for old, new in replacements.items():
         value = value.replace(old, new)
@@ -251,6 +281,22 @@ def repair_live_seams(entries: list[dict[str, object]]) -> None:
         "El tiempo modifica la topografía de nuestras convicciones. La "
         "historia suele consistir en problemas que interesan al hombre "
         "inteligente, sin ser problemas de hombre inteligente.",
+    )
+    update_entry(
+        by_id[454],
+        "La historia pierde su color y su relieve si el historiador no "
+        "arriesga juicios de valor. El optimismo es gesto de enfermo "
+        "asustado.",
+    )
+    update_entry(
+        by_id[467],
+        "Ser auténticamente moderno es, en cualquier siglo, indicio de "
+        "mediocridad.",
+    )
+    update_entry(
+        by_id[468],
+        "La humanidad actual sustituyó el mito de una pretérita edad de oro "
+        "con el de una futura edad de plástico.",
     )
 
 

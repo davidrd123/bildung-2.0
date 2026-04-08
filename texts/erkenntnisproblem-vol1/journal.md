@@ -1666,3 +1666,487 @@ Decision for now:
 - continue directly into the next tranche from the Bruno/Copernicus continuation after printed page `275`
 - keep watching whether `mit beiden Augen`, `Methode`, `Harmonie`, and the unity of `Natur` and `Erkenntnisgesetz` remain section-local or begin forcing glossary or thread pressure
 - treat this as the point where the astronomical revolution becomes openly methodological and value-laden, but keep it source-bound for now
+
+## 2026-04-07 - Nineteenth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `276-279`
+- PDF pages `300-303`
+
+What this tranche clarified:
+
+- the Copernican controversy now becomes explicit as a conflict over the boundaries of religion and science, faith and reason; Galilei's trial only makes fully visible a problem that had already been clearly formulated in his own letters
+- Galilei removes `doppelte Wahrheit` and gives the truth of facts entirely to scientific experience and demonstrative method, while religion is restricted to the mediation of moral `Heilswahrheiten`
+- this is why Cassirer can say directly that for Galilei the assertion of the Copernican system becomes the self-assertion of reason
+- Bruno then enters under a deliberate correction: what makes him important is not simply a new general concept of nature, because mathematische Kausalität still remains foreign to him
+- the live Bruno residues are strong: `Weltseele`, `innerer Sinn`, sympathy/antipathy, and even the ensoulment of the heavens still organize both causality and cognition
+- the real pressure is therefore shifted from doctrinal content to the level of Begründung: if Bruno differs from older Naturphilosophie, the break will have to appear in his erkenntnistheoretisches Fundament
+
+Decision for now:
+
+- continue directly into the next tranche from the broken Bruno contrast after printed page `279`
+- keep watching whether `doppelte Wahrheit`, `Heilswahrheiten`, `Weltseele`, and `Begründung` / `erkenntnistheoretisches Fundament` remain section-local or begin forcing glossary or thread pressure
+- treat this tranche as a corrective against reading Bruno as simply already Galilean, but keep it source-bound for now
+
+## 2026-04-07 - Twentieth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `280-283`
+- PDF pages `304-307`
+
+What this tranche clarified:
+
+- Cassirer now states Bruno's real break directly: the concept of the infinite shifts the seat of truth away from sense and into Vernunft, Intellekt, and Geist
+- this break is tied explicitly to self-consciousness; Copernicus matters because he breaks the sensory prison of the spheres and thereby expands the self's knowledge-power into the immeasurable
+- the decisive local formula is `intellectio = interna lectio`; unlike Campanella, intellect is no longer described merely as inward reception of outwardly given sensible matter
+- the anti-sensualist pressure is now stronger than anywhere earlier in the chapter: to deny the non-sensible would be to deny one's own being and essence
+- but Cassirer immediately limits the gain: Bruno's theory of knowledge is not autonomous, because it is derived from the metaphysics of one infinite substance whose activity unfolds in everything
+- this is why the final verdict stays provisional: logical genesis and metaphysical genesis remain intertwined, so the specifically scientific form of cognition is still dissolved into the general world-process
+
+Decision for now:
+
+- continue directly into the next tranche from the Bruno continuation after printed page `283`
+- keep watching whether `interna lectio`, `Selbstbewußtsein`, `Pantheismus`, and the distinction between logical and metaphysical `Genese` remain section-local or begin forcing glossary or thread pressure
+- treat this as the strongest Bruno gain so far, but also as the clearest statement of its remaining limit, and keep it source-bound for now
+
+## 2026-04-07 - Twenty-First Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `284-287`
+- PDF pages `308-311`
+
+What this tranche clarified:
+
+- Cassirer qualifies Bruno's anti-sensualist turn through a Plotinian counter-move: matter is no longer only fall and shadow, but also bears an inner striving toward form
+- this is the point where `das Schöne` becomes an actual mediator between sensible and intelligible world; harmony is read as soul-borne and bodily beauty as the shine of an intellectual archetype
+- the way upward is now stated in a distinctly inward form: not the starry heavens as such, but the return into the depth of the self mediates ascent to the world of ideas
+- nevertheless sense is not simply discarded; Bruno now lets `Sinn` and `Intellekt` contest with one another, and introduces `Imagination` as the middle term between passive affection and rational act
+- this makes imagination methodologically important: sensation becomes reflexive in it, while reason remains materially tethered through it
+- the larger limit still holds: even this richer mediation remains embedded in Bruno's metaphysical picture, not yet in a distinct logic of scientific cognition
+
+Decision for now:
+
+- continue directly into the next tranche from the broken sentence on Vernunft's double tendency after printed page `287`
+- keep watching whether `das Schöne`, `spiritualità`, `Imagination`, and the relation of self-return to cognition remain section-local or begin forcing glossary or thread pressure
+- treat this as Bruno's strongest mediating move so far, but keep it source-bound and subordinate to the standing question about logical versus metaphysical grounding
+
+## 2026-04-07 - Twenty-Second Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `288-291`
+- PDF pages `312-315`
+
+What this tranche clarified:
+
+- Cassirer now grants Bruno his strongest near-modern position: sensible and intelligible cognition are governed by genuinely different conditions and must not be judged by one common measure
+- the comparison to Kant's early two-world formulation is made explicitly, but it is immediately restricted
+- the restriction is decisive: Bruno cannot produce universally valid relations within the phenomenal world, because he lacks the genuine middle term of mathematics
+- this is why Galilei remains the implicit contrast throughout: Bruno can aesthetically anticipate the unity of Vernunft and Erfahrung, but cannot yet ground exact science
+- the positive remainder is still important: once sense is understood as relative, cognition is redirected away from genus-abstraction toward `Analyse`, that is, toward the determination of moments by their relations within a whole
+- the Bruno line is therefore now very sharp: real pressure toward relation and analysis, but no full scientific reconciliation of Anschauung and Denken
+
+Decision for now:
+
+- continue directly into the next tranche from the broken analytic sentence after printed page `291`
+- keep watching whether `Relativität`, `Mathematik` as missing middle term, and `Analyse` remain section-local or begin forcing glossary or thread pressure
+- treat this as Bruno's closest approach to a relation-centered science, while keeping the failure of exact phenomenal method equally in view
+
+## 2026-04-08 - Twenty-Third Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `292-295`
+- PDF pages `316-319`
+
+What this tranche clarified:
+
+- Cassirer first sharpens Bruno's positive epistemic remainder: understanding means not logical subsumption but the grasp of determinations in a unity of rule
+- the mathematical circle is the key local example: perception cannot even identify exact circularity, because the concept requires the law of an unlimited manifold ordered to a center
+- Bruno's faculty-symbolism is now at its clearest: sense as straight line, intellect as circle, human reason as oblique line carrying traces of both
+- but the limit appears immediately afterward with equal force: multiplicity still counts only as a lower and obstructive moment, so relation to the manifold is not yet a positive condition of cognition
+- Cassirer marks the boundary explicitly: from here the transformation no longer belongs primarily to logic but to Naturphilosophie
+- that natural-philosophical turn begins through `Kraft`: the Aristotelian matter/form dualism is criticized from within, and `Potenz` comes to mean inner tendency, tension, and development rather than bare possibility
+- the strongest constructive move in the second half is temporal: only when `Werden` displaces static `Dasein`, and time displaces space, can the relation of finite and infinite be given sharper conceptual form
+- this yields the local developmental formula: matter is not passively formed from outside, but unfolds its shapes from its own fertile interior and becomes the living `Samen` of forms
+
+Decision for now:
+
+- continue directly into the next tranche from the broken sentence after printed page `295`
+- keep watching whether `Kraft`, `Potenz`, `Entwicklung`, and the shift from `Raum` to `Zeit` remain section-local or begin forcing glossary or thread pressure
+- treat this as the point where Bruno's epistemic limit and his strongest dynamic natural-philosophical gain are made visible together
+
+## 2026-04-08 - Twenty-Fourth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `296-299`
+- PDF pages `320-323`
+
+What this tranche clarified:
+
+- Cassirer now sharpens the anti-Aristotelian line from `Materie und Form` into a direct critique of `individuelle Substanz`: true reality cannot belong to the singular thing bound to `Hier` and `Jetzt`
+- the logical motive becomes explicit alongside the metaphysical one: only what endures can satisfy thought's demand for the stable identity of its object
+- this is why Bruno now privileges the one abiding substrate over all determinate formations and why `Erhaltung` becomes the decisive sign of substance
+- the contrast to Telesio and his school is exact: they preserved the particular object by sacrificing the universality of cognition, whereas Bruno preserves universality by sacrificing the cognitive standing of the singular thing
+- Cassirer can therefore state Bruno's strict epistemic object directly: not the natural thing, but nature as the one abiding ground and universal rule on which appearances rest
+- the strongest structural result is the final `Natur und Gesetz` turn: Bruno is now said to give his pantheism a retrospective epistemological foundation
+- this also fixes Bruno's exact proximity and distance to Galileo: both require universality, but Bruno's universal is the alldurchdringende Substanz, while Galileo's is the order of mathematical law
+- Bruno thus prepares `Natur = Gesetz` only on the side of ontology; exact science still has not yet emerged from this line itself
+
+Decision for now:
+
+- continue directly into the next tranche from after printed page `299`
+- keep watching whether the nature-as-law line remains ontological or starts forcing a more explicit distinction from Galilean mathematical law
+- watch whether `Substanz`, `Allnatur`, `Gesetz`, and the substrate / entelechy contrast remain section-local or begin forcing glossary or thread pressure
+- treat this as the point where Bruno comes closest to modern universality by way of ontology, while still not yet reaching the logic of exact science
+
+## 2026-04-08 - Twenty-Fifth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `300-303`
+- PDF pages `324-327`
+
+What this tranche clarified:
+
+- Cassirer now names Bruno's inner contradiction directly: the same theory of knowledge developed from Naturphilosophie leaves the empirical heavens without strict scientific knowability
+- this is the sharpest local statement yet that Bruno's route has dissolved physics into metaphysics; empirical nature yields facts and history, but not exact science
+- the pressure for correction therefore comes from within Bruno's own system: astronomical experience still matters, so the singular has to be logically restored somehow
+- `de triplici minimo et mensura` is introduced as exactly that repair attempt: the `Minimum` becomes a new support-point for the relation of universal and particular
+- the positive aim is real and now very explicit: the world of perception should be intelligible as a system of qualitatively determinate and differentiated unities
+- this is why the minima are domain-specific: atom, point, letter; the issue is not mere quantity but elementary units adequate to distinct fields
+- Bruno's construction is radically synthetic and discrete: thought begins from primitive positings, and geometry is rebuilt without a spatial continuum
+- the decisive negative result follows immediately: the irrational and incommensurable are rejected as defeats of reason, so Bruno closes off precisely the mathematical development that modern analysis will later need
+- Cassirer pauses at the end to separate motive from failure before moving on to Bruno's paradoxical consequences
+
+Decision for now:
+
+- continue directly into the next tranche from after printed page `303`
+- keep watching whether the late Bruno correction stays within the minimum-doctrine or now moves into the paradoxes Cassirer has just announced
+- watch whether `Minimum`, `Maß`, `Irrationales`, and the discrete / continuum opposition remain section-local or begin forcing glossary or thread pressure
+- treat this as the point where Bruno most clearly tries to rescue empirical determinacy from inside his own system, while simultaneously blocking the mathematics of the modern breakthrough
+
+## 2026-04-08 - Twenty-Sixth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `304-307`
+- PDF pages `328-331`
+
+What this tranche clarified:
+
+- Cassirer now sharpens the paradox of the late Bruno line: mathematics is attacked not from empiricism, but from a rival rationalism grounded in logic and ontology
+- the Berkeley comparison makes the structure exact: both want ultimate discrete simples, but Berkeley locates them in impression while Bruno posits a metaphysical atom through thought
+- this lets Cassirer state the anti-mathematical stake precisely: the incommensurable is rejected because it escapes the medium of discrete number, not because it escapes perception
+- the constructive doctrine of the `Minimum` is then laid out concretely: figures are treated as quasi-physical composites of circular minima, with fixed arithmetic rules of growth and no exact conversion from one figure-kind to another
+- exact equality itself is now demoted to a sensory illusion, which shows how far Bruno's doctrine has moved away from scientific geometry
+- the decisive turn comes with the distinction between `Minimum` and `Grenze` / `terminus`: boundary is not a part, does not generate extension, and cannot be reduced to composition out of elements
+- that distinction immediately yields Cassirer's real point: lawful geometrical structure exceeds the doctrine of summed minima, because contact and relation produce a new order not identical with the composing elements
+- the tranche therefore ends at the moment where geometry starts to reappear, from within Bruno's own premises, as a doctrine of lawful termini rather than of atomic minima
+
+Decision for now:
+
+- continue directly into the next tranche from the broken sentence after printed page `307`
+- keep watching whether Cassirer now fully restates mathematics at the level of `termini` and relations, or whether the argument first detours through further Bruno paradoxes
+- watch whether `Minimum`, `Grenze`, `Terminus`, equality, and relation remain section-local or begin forcing glossary or thread pressure
+- treat this as the point where Bruno's discrete rationalism most clearly generates the relation-level law it cannot itself master
+
+## 2026-04-08 - Twenty-Seventh Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `308-311`
+- PDF pages `332-335`
+
+What this tranche clarified:
+
+- Cassirer now states the correction to Bruno's own doctrine explicitly: if `Minimum` and `Grenze` are not the same kind of quantum, then a higher and purer category of quantity must already be presupposed
+- this is the point where `Intervall`, void, and pure space return as necessary conditions of magnitude, even though Bruno still tries to hold them under the minimum-doctrine
+- the comparison to Democritus sharpens the exact limit: Bruno cannot grant non-being / empty space equal logical standing as a source of relation
+- the critique then turns inward again: the doctrine that wanted to derive the complex from the simple instead proliferates qualitatively different minima and cannot explain how plurality emerges from the one
+- when Bruno derives figures from different placements of a circular minimum, he has already smuggled in the geometrical order and configuration he was supposed to generate
+- the local positive gain remains important: Cassirer can still say the minimum-problem belongs to the prehistory of infinitesimal thought, because a figure may be thought in its qualitative relations apart from full extension
+- but the restriction is equally sharp: Bruno can carry this only through the analogy of discrete number, so all thinking remains `Zusammensetzen`
+- the Leibniz contrast then makes the decisive metaphysical residue visible: Bruno's minimum still bears extension as an absolute predicate, whereas Leibniz dissolves extension into ideal relations and truths
+- this breaks the earlier harmony of thought and nature: at the continuum, nature demands fixed boundaries while geometrical imagination oversteps them
+
+Decision for now:
+
+- continue directly into the next tranche from the broken sentence after printed page `311`
+- keep watching whether Cassirer now pushes from the broken harmony of nature and imagination to a more explicit positive account of mathematical operation
+- watch whether `Intervall`, `reiner Raum`, `Kontinuität`, `Zahl`, and the Leibniz contrast remain section-local or begin forcing glossary or thread pressure
+- treat this as the point where Bruno most clearly half-opens the door to pure relation while remaining structurally bound to discrete synthesis
+
+## 2026-04-08 - Twenty-Eighth Naturphilosophie Tranche
+
+Completed the next transition tranche:
+
+- printed pages `312-315`
+- PDF pages `336-339`
+
+What this tranche clarified:
+
+- Cassirer now closes the Bruno sequence at the level of method: mathematics is acknowledged as model, middle, and even `Königsweg`, but Bruno cannot turn that claim into a mathematical theory of experience
+- the most compressed sign of failure is `mathematische Magie`: because empirical verification and autonomous thought are not grasped in their reciprocal determination, the method-path falls back into magic and Lullian memory art
+- this is the strongest local statement yet of Bruno's historical doubleness: he contains real preconditions of modern science, but not their explicit methodic synthesis
+- the new chapter then opens by giving the positive counter-image through Plato's Phaedo: exact science begins not by sensible fusion with things, but by retreat to concepts and original thought-positings
+- the relation of `logoi` to `pragmata` now becomes the chapter-level organizing problem
+- Cassirer immediately historicizes the contrast: Renaissance Naturphilosophie fails not because it sought nature, but because vague sensible analogy still governs where exact observation and lawful articulation should begin
+- the Telesio fall-speed example makes the target vivid: even the turn from purpose to force leaves the content of force anthropomorphic unless the method itself changes
+
+Decision for now:
+
+- continue directly into the next tranche from the broken sentence after printed page `315`
+- keep watching how the new chapter develops the positive side of exact science rather than only the critique of Naturphilosophie
+- watch whether `logoi`, `pragmata`, exact observation, lawful order, and the critique of analogy remain chapter-local or begin forcing glossary or thread pressure
+- treat this as a real chapter hinge: Bruno is now methodically closed, and the explicit story of exact science has begun
+
+## 2026-04-08 - Ferrari and Gonzalez Rios distilled into project-facing use rules
+
+Reviewed two local secondary-source returns on Cassirer and wrote a bounded reading note in `reading/2026-04-08-earned-distillation-from-ferrari-and-gonzalez-rios.md`.
+
+What was promoted:
+
+- Ferrari as a method check on the larger `Erkenntnisproblem` arc: read the Renaissance chapters as a reconstruction of changing forms of lawful cognition, not as a neutral sequence of doctrines
+- Gonzalez Rios as a local pressure source on the Cusanus chapter: Cusanus matters for Cassirer first by `Denkweg`, not by topic-matching
+- the internal Cusanus sequence from `docta ignorantia` through `coniectura` and finite mediation as a staged development that should stay visible across Parts `06-15`
+- the later language / symbolic-form bridge as real reserve pressure, but not yet chapter-shaping authority
+
+What was held back:
+
+- any claim that these secondary sources settle primary-text disputes by themselves
+- any direct import of the symbolic-forms framework into the current tranche apparatus
+- any widening of glossary, handles, or project structure on the basis of these two items alone
+
+Decision for now:
+
+- use the new note as a bounded secondary-source aid for future Cusanus rereads and for the current Book II method frame
+- keep the primary text and existing chain files authoritative
+
+## 2026-04-08 - Cassirer reception gap and 1997 science volume sorted
+
+Reviewed the current Cassirer packet against the question of what older serious scholarship seems to be missing, and wrote a routing note in `reading/2026-04-08-cassirer-reception-gap-and-1997-volume-priorities.md`.
+
+What was clarified:
+
+- the gap is not simply "too little Cassirer scholarship," but too little of the right kind: direct interlocutors, review-era responses, and journal / collected-volume material around the same science-method problems
+- the 1997 volume `Von der Philosophie zur Wissenschaft` is a real hit, not just reserve background
+- within that volume, the strongest current-use chapters are Ihmig on Hilbert and scientific progress, Ferrari on logical empiricism and neo-Kantianism, then Rudolph on space / time and Stamatescu on quantum mechanics
+
+Concrete project changes:
+
+- added a reading note that maps the missing older-target acquisition types and gives a chapter-priority order for the 1997 volume
+- extended `sources/modern/incoming/wanted.md` with a concrete older-target acquisition list for Cassirer-adjacent science-method materials
+
+Decision for now:
+
+- treat the 1997 volume as active reserve, especially the Ihmig and Ferrari chapters
+- look for older Cassirer-adjacent interlocutors and review literature rather than expecting a single continuous Cassirer-school bibliography to appear
+
+## 2026-04-08 - Ihmig extracted for the science-method line
+
+Ran a bounded first pass on Karl-Norbert Ihmig's chapter from the 1997 science volume and wrote a working note in `reading/2026-04-08-ihmig-on-cassirer-scientific-progress.md`.
+
+What was promoted:
+
+- Cassirer should be read through a continuity-plus-mutation model rather than through either pure accumulation or pure rupture
+- the real object of historical analysis is the changing framework of concepts and relations, not a heap of doctrines or statements
+- Hilbert helps sharpen why Cassirer cares about deepening, generalization, invariants, and unification
+- this gives a cleaner background test for the current Bruno material: is a figure changing the form of lawful cognition, or only speaking more grandly about nature?
+
+Decision for now:
+
+- use the Ihmig note as a method check for the current Book II run
+- keep Ferrari's 1997 chapter as the next companion pass for the Schlick / Reichenbach placement line
+
+## 2026-04-08 - Gonzalez Rios checked back against the Cusanus parts
+
+Tested the Gonzalez Rios gains against the direct evidence in Parts `06-15` and wrote a sorting note in `reading/2026-04-08-direct-check-on-gonzalez-rios-against-cusanus-parts.md`.
+
+What was clarified:
+
+- the strongest Gonzalez Rios gains are mostly sharpenings of what the chapter already says rather than wholly new discoveries
+- the opening Cusanus claim about modernity by transformed questioning is already strongly earned in Part `06`
+- the staged reading from `docta ignorantia` through conjecture, mathematics, `ratio` / `intellectus`, `emanatio`, `non aliud`, and `scientia infinita` is also already textually earned
+- the later language / symbolic-forms bridge remains the clearest genuinely new pressure, but still only in reserve form
+
+Decision for now:
+
+- use the new note to keep the depth of the Gonzalez Rios gain honest during future rereads
+- let the primary chapter remain the main authority for the Cusanus line
+
+## 2026-04-08 - Ferrari 1997 extracted for the Schlick / Reichenbach line
+
+Ran a bounded pass on Massimo Ferrari's chapter from the 1997 science volume and wrote a working note in `reading/2026-04-08-ferrari-1997-on-cassirer-and-logical-empiricism.md`.
+
+What was promoted:
+
+- the standard anti-Kant origin story of logical empiricism is too crude for current purposes
+- early Schlick is much closer to neo-Kantian science-philosophy than the textbook story allows, while still breaking decisively with Marburg over the productive role of pure thought and the status of the given
+- Reichenbach remains closer to Cassirer than his anti-Kant polemics suggest, especially around the relativized a priori and the constitutive role of scientific principles
+- early Carnap also belongs to this same continental problem-field and should not be flattened into crude positivist reductionism
+
+Decision for now:
+
+- use the Ferrari note as the field-placement companion to the Ihmig note
+- keep chasing older interlocutors and review-era materials rather than generic later Cassirer commentary
+
+## 2026-04-08 - Ferrari method frame tested against Copernicus / Bruno
+
+Tested the Ferrari 2012 working extract in `sources/modern/incoming/2012-ferrari-erkenntnisproblem-working-extract.md` back against the live primary material in Parts `68-77`.
+
+What was clarified:
+
+- Ferrari's strongest current use is methodological, not local commentary: the Renaissance run should be read as a reconstruction of changing forms of lawful cognition, not as a shelf of thinker-portraits
+- Part `69` is the first unmistakable method-break in this stretch: Copernicus / Galileo overrule immediate `Sinnenschein` by mathematical construction, principled unity, and secure proof
+- the aesthetic and ethical language in the Copernican tranche is not drift beside the science; it belongs to the same transformation of world-order, method, and self-understanding
+- the full Bruno run (`70-77`) is now sharper under this frame: Bruno is not simply an early Galilean, but the last great ontological pressure-chamber before the modern breakthrough
+- Bruno's real gains are substantial: truth shifts away from sense, `Analyse` displaces mere `Subsumption`, `Natur` approaches universal rule, and `Natur = Gesetz` is prepared on the side of ontology
+- Bruno's failure is equally precise: he cannot ground universally valid phenomenal relations because the genuine middle term of mathematics is missing
+- the late `Minimum` doctrine shows the break in its clearest form: Bruno attacks mathematics from a rival rationalism, rejects continuum and irrational magnitude, and thereby blocks the very development Cassirer treats as decisive for exact science
+- the `Minimum` / `Grenze` distinction then exposes from within Bruno's own premises what scientific geometry really needs: lawful relation and boundary-structure irreducible to composition out of elements
+- this yields the clean continuity / discontinuity balance Ferrari had stabilized: Bruno prepares Galileo in universality, anti-Aristotelian pressure, and the move toward law, but the mathematical mediation that would make exact science possible is still absent
+
+Decision for now:
+
+- keep using the Ferrari frame as a local method check on the early Kepler / Galileo line
+- treat Bruno as the last major preparatory field for modern science, not as a partially completed version of it
+- keep watching where Cassirer first makes mathematics fully positive as the organ of lawful phenomenal knowledge, rather than as an anticipated absence or blocked possibility
+
+## 2026-04-08 - Twenty-Ninth Naturphilosophie Tranche
+
+Advanced the chapter opening of `Die Entstehung der exakten Wissenschaft` through the first Leonardo pages and wrote Part `80` on printed pages `316-319`.
+
+What was clarified:
+
+- Cassirer now states the positive method of exact science with unusual directness: the object of research arises only through a processing of sensation that dissolves fixed things into mathematical functions and processes
+- the anti-scholastic appeal from words to things does not terminate in sensation-rule; once the battle for perception is won, the actual result is a new conception and systematics of the concept, hence a reform of logic
+- this makes `Begriff und Erfahrung` the local hinge of the chapter: experience matters most where it forces conceptual work, not where it displaces it
+- the concrete field in which this is tested is astronomy, where Copernicus and Galilei bind world-picture and method together and where the right of reason is won without canceling the right of perception
+- Leonardo's importance is now framed methodologically rather than encyclopedically: what matters is the unity of a governing method-thought across his many domains
+- at the same time, Leonardo's opening still begins from an older organismic image of nature, so the next tranche has to watch how far this artistic-natural-philosophical residue gets transformed
+
+Decision for now:
+
+- keep `λόγοι`, `pragmata`, and `Begriff und Erfahrung` local until the Leonardo run shows whether they recur beyond the chapter opening
+- keep the Ferrari method frame in reserve only; the primary text is now carrying the positive exact-science turn directly
+- continue with Leonardo before making any lexical or structural promotions
+
+## 2026-04-08 - Thirtieth Naturphilosophie Tranche
+
+Advanced Leonardo through printed pages `320-323` and wrote Part `81`.
+
+What was clarified:
+
+- Leonardo's opening is now historically bounded instead of being left as singular genius-language: Cassirer ties his dynamics directly back to Cusanus, especially through continuum-analysis and the coincidence of greatest and least
+- the continuity is sharply selective: what survives from Cusanus is not metaphysical doctrine but mathematical residue, and Cassirer says this explicitly
+- this makes `Die mathematische Gewißheit` a stronger hinge than I first expected: mathematics counts not only for `certezza`, but as the necessary way to fix rule and law in nature
+- the real anti-magical break is now local and explicit; Leonardo rejects spirit-causation, direct immaterial force, and perpetual-motion fantasy under the demand that force be materially conditioned and mathematically analyzable
+- Cassirer also makes the logical gain precise: mathematical method sharpens the concept of cause, and mechanics becomes the place where one reaches the `Frucht der Mathematik`
+- the time discussion matters because it prevents a crude geometric reduction: time shares the law of continuity with space, but still requires description in its own specificity
+- the measure of knowledge is now overtly shifted from nobility of object to degree of proof-certainty
+- [visual candidate] the Leonardo relation point : line :: moment : time-stretch under a shared law of continuity but with irreducible domain-specific difference
+
+Decision for now:
+
+- keep the Leonardo/Cusanus continuity in the journal and part files only; it is earned as local historical recovery, not as a new repo layer
+- do not promote the time discussion yet; wait to see whether it becomes structurally recurrent in the Leonardo run
+- continue forward before deciding whether `Notwendigkeit`, `Gesetz`, or the mechanics/time line needs glossary pressure
+
+## 2026-04-08 - Thirty-First Naturphilosophie Tranche
+
+Advanced Leonardo through printed pages `324-327` and wrote Part `82`.
+
+What was clarified:
+
+- the Leonardo line now becomes explicitly methodological rather than only anti-magical; Cassirer openly opposes the older object-ranking of knowledge with truth, certainty, and demonstrative force
+- `Vernunft und Erfahrung` is the actual middle term of the Leonardo chapter: experience is preserved, but only as the phenomenal appearance of rational lawfulness
+- experiment is not sovereign evidence but the opening problem; the decisive move is analytical reversal from complex effect back to simple grounds
+- Cassirer now says this out loud as a prefiguration of Galileo's `resolutive Methode`, which is a major threshold in the chapter
+- theory and practice are no longer opposed: law is the compass for particulars, geometry embodies rational rule, and painting becomes a legitimate analogue of philosophy because it renders lawful form concretely
+- imagination is admitted, but only under mathematical discipline; the Leonardo case therefore becomes the bridge into a wider Renaissance problem rather than a loose celebration of creative genius
+
+Decision for now:
+
+- keep the Leonardo painting / geometry / philosophy triad local until the next tranche shows whether it generates a recurring method thread
+- do not promote `Imagination` yet; the text is just opening the wider Renaissance comparison
+- follow the Campanella handoff before deciding whether the current gains stay inside Leonardo or become a broader chapter-structure
+
+## 2026-04-08 - Thirty-Second Naturphilosophie Tranche
+
+Advanced through the Campanella handoff into Kepler on printed pages `328-331` and wrote Part `83`.
+
+What was clarified:
+
+- Cassirer now marks an actual threshold figure: only with Kepler does the new concept of experience fully arise
+- the decisive local proof is the Mars discrepancy; the refusal to ignore eight minutes becomes the hinge from near-fit hypothesis to reform of astronomy
+- this gives `Erfahrung` real content for the first time because observational control is now strict enough to force theory-change
+- Kepler nevertheless does not collapse into empiricism; the Platonic recollection line remains, but it is progressively demythologized into a logical account of the mind's own productive role
+- `Harmonie` is therefore double from the start: first objective cosmological order, then the beginning of an inward account of spiritual form
+- the Campanella comparison is now decisive in retrospect: imagination-politics was not enough for nature; Kepler is the first genuine union of aesthetic productivity and mathematical science
+
+Decision for now:
+
+- keep the eight-minute Mars difference visible as the local fulcrum of the Kepler run
+- continue directly into `Die Harmonie als Schöpfung des Geistes` before making any larger claims about Kepler's place in Book II
+- do not add new glossary pressure yet; the chapter is still earning its Kepler-specific conceptual configuration
+
+## 2026-04-08 - Thirty-Third Naturphilosophie Tranche
+
+Advanced Kepler through printed pages `332-335` and wrote Part `84`.
+
+What was clarified:
+
+- the inward turn of harmony is now explicit and logically stronger than I expected: harmony is not a property of things but a pure relation that exists only through unifying acts of mind
+- this lets Cassirer retain the older world-soul vocabulary while substantially transforming it; the soul is thinned from quasi-causal force into functional relation
+- the aesthetic line is now structurally central, not decorative: musical pleasure becomes the middle between bare sensation and intellectual production
+- Kepler's apparent passivity before beauty is redescribed as the spirit's own activity under instinctive guidance, which makes aesthetic response a genuine epistemic clue
+- from there Cassirer can open the theory of perception without a hard break; the same structure that explains harmony is now treated as the seed of sensory cognition generally
+
+Decision for now:
+
+- keep harmony as the operative local concept for the Kepler run until the perception pages show whether it has to split into distinct lines
+- do not promote `Relation` or `Weltseele` yet; both are still being specified inside the text
+- continue immediately into the perception tranche, since the current part ends exactly at the point where Kepler's residual species-theory has to be tested
+
+## 2026-04-08 - Thirty-Fourth Naturphilosophie Tranche
+
+Advanced Kepler through printed pages `336-339` and wrote Part `85`.
+
+What was clarified:
+
+- the inherited species-language in Kepler is now clearly secondary to the real logical move; sensory affection supplies material, but relation and harmony are produced only through intellectual comparison and valuation
+- the Platonic line is sharpened decisively: Kepler's archetypes are relations, not things, which is why Cassirer can say Aristotle misses the target by ignoring pure relation-concepts
+- geometry now outranks abstract number in a way that feels structurally important for the whole Kepler run
+- the strongest single claim in the tranche may be that the eye is to be understood from geometry, not geometry from the eye
+- this makes the Kepler optics line explicit: spatial order, magnitude, and distance are not given, but constructed by intellect on the basis of sensory indications
+- the earlier Cusanus / Leonardo search for a correlation of sense and thought is now recovered in a much sharper form
+
+Decision for now:
+
+- keep the geometry-over-number line visible; it may matter beyond the immediate optics passage
+- do not yet promote a separate perception thread; first see how the cut-off continuation defines the logical character of empirical judgment
+- continue one more tranche before deciding whether the Kepler section has reached a local resting point
+
+## 2026-04-08 - Thirty-Fifth Naturphilosophie Tranche
+
+Advanced Kepler through printed pages `340-343` and wrote Part `86`.
+
+What was clarified:
+
+- Cassirer now states the empirical task in its sharpest Kepler form: empirical knowledge must extract mathematically graspable basic relations from the given
+- this is why the mathematical hypothesis matters so much; it is not a convenience of later calculation but the initial form in which a scientific problem becomes thinkable at all
+- the Patrizzi contrast is useful because it shows the alternative plainly: once strict mathematical lawfulness is no longer presupposed, ostensible fidelity to observation collapses into wonders and mysticism
+- the distinction between astronomical and physical hypothesis is also cleaner now: Kepler is not reaching behind mathematics to occult powers, but demanding that astronomical formulas be grounded in physical relations still wholly within phenomenal inquiry
+- this is the real force of the cosmography / cosmophysics turn; astronomy is checked and confirmed only through a wider mathematically-physical system
+- the general gravitation remark is now visible as a principled gain, even though Cassirer is postponing its fuller development
+
+Decision for now:
+
+- keep the Kepler hypothesis line in view as a real method-bearing gain, not just a local astronomy note
+- continue into the next tranche before deciding whether the Kepler section now has a stable local resting point
+- still no glossary promotion; the current gains are structural, but the text is carrying them adequately in the parts and journal

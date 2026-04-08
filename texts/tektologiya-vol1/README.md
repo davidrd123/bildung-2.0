@@ -21,8 +21,14 @@ The translated first pass through the volume-1 main text is now complete:
 So the immediate work is no longer extending the main-text sequence. It is bounded consolidation:
 
 - tightening glossary statuses only where the full volume earned it
-- keeping one reread memo for the load-bearing arc of volume `1`
+- keeping one reread memo for the load-bearing arc of volume `1`, now extended by the earned outer framing from `front.04-10`
 - approaching front matter selectively rather than turning it into an automatic second linear march
+- beginning a first architectural visual packet from the journal's earned diagram candidates
+
+That selective front-matter pass has now been carried through the main authorial and late framing units:
+
+- `front.04` through `front.10`
+- with `front.01-03` still remaining secondary editorial material rather than the active entry path
 
 ## Why This Is Not `zeitmauer` or `erkenntnisproblem`
 
@@ -51,8 +57,11 @@ source/
   glossary.yaml         # recurring term decisions and active pressure points
 parts/
   01-calibration.md     # initial translation batch
-selective-second-pass.md # bounded reread memo for the completed main-text pass
+selective-second-pass.md # bounded consolidation memo for the main-text arc plus the earned front-matter outer arc
+what-tektologiya-is-for-in-bildung.md # bounded local positioning note for repo-level use
 journal.md              # source-bound process notes and decision drift
+visuals/
+  packet-01-volume-1-architecture.md # first curated set of architectural diagram drafts
 scripts/
   extract_sections.py   # rebuilds the extracted source files from the FB2
 ```
@@ -90,3 +99,11 @@ python3 texts/tektologiya-vol1/scripts/extract_sections.py
 ```
 
 The extractor is intentionally conservative. It preserves the FB2 hierarchy, splits out front matter from the main volume, and keeps note markers visible rather than silently deleting them.
+
+## Visual Candidates
+
+The journal now contains a dense set of earned `[visual candidate]` notes. The
+first curated packet lives in
+[`visuals/packet-01-volume-1-architecture.md`](visuals/packet-01-volume-1-architecture.md)
+and stays focused on the architecture of volume `1` rather than section-level
+illustrations.

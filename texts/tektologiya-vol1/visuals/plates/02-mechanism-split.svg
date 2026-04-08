@@ -1,0 +1,46 @@
+<svg xmlns="http://www.w3.org/2000/svg" width="1600" height="900" viewBox="0 0 1600 900" role="img" aria-labelledby="title desc">
+  <title id="title">Tektologiya Mechanism Split</title>
+  <desc id="desc">A branching diagram showing conjugation dividing into ingression and deingression.</desc>
+  <defs>
+    <linearGradient id="bg" x1="0" y1="0" x2="1" y2="1">
+      <stop offset="0%" stop-color="#f5efe4"/>
+      <stop offset="100%" stop-color="#e7dcc8"/>
+    </linearGradient>
+    <marker id="arrow" viewBox="0 0 10 10" refX="9" refY="5" markerWidth="8" markerHeight="8" orient="auto">
+      <path d="M 0 0 L 10 5 L 0 10 z" fill="#292521"/>
+    </marker>
+    <style>
+      .eyebrow { font: 600 24px "Avenir Next", "Segoe UI", sans-serif; letter-spacing: 0.18em; text-transform: uppercase; fill: #775c45; }
+      .title { font: 700 54px "Cormorant Garamond", Georgia, serif; fill: #1f1914; }
+      .label { font: 700 44px "Cormorant Garamond", Georgia, serif; fill: #191411; }
+      .sub { font: 500 22px "Avenir Next", "Segoe UI", sans-serif; fill: #5c4d40; }
+      .frame { fill: none; stroke: #b49a7c; stroke-width: 2; }
+      .arrow { fill: none; stroke: #292521; stroke-width: 5; marker-end: url(#arrow); }
+    </style>
+  </defs>
+
+  <rect width="1600" height="900" fill="url(#bg)"/>
+  <rect x="48" y="48" width="1504" height="804" rx="28" class="frame"/>
+
+  <text x="118" y="108" class="eyebrow">Tektologiya, Volume I</text>
+  <text x="118" y="170" class="title">Mechanism Split</text>
+  <text x="118" y="210" class="sub">Packet 01, Plate 02</text>
+
+  <rect x="470" y="174" width="660" height="156" rx="34" fill="#efe1c5" stroke="#8b7356" stroke-width="3"/>
+  <text x="800" y="264" text-anchor="middle" class="label">conjugation</text>
+
+  <path d="M 800 330 L 800 420" class="arrow"/>
+  <circle cx="800" cy="448" r="18" fill="#292521"/>
+  <path d="M 800 448 C 676 448, 598 500, 494 614" class="arrow"/>
+  <path d="M 800 448 C 924 448, 1002 500, 1106 614" class="arrow"/>
+
+  <rect x="164" y="614" width="520" height="172" rx="34" fill="#d6e4d4" stroke="#5d735f" stroke-width="3"/>
+  <text x="424" y="705" text-anchor="middle" class="label">ingression</text>
+  <text x="424" y="744" text-anchor="middle" class="sub">organized linkage through a mediating bond</text>
+
+  <rect x="916" y="614" width="520" height="172" rx="34" fill="#e7d1c3" stroke="#8b5d4c" stroke-width="3"/>
+  <text x="1176" y="705" text-anchor="middle" class="label">deingression</text>
+  <text x="1176" y="744" text-anchor="middle" class="sub">counter-tendency, separation, or boundary formation</text>
+
+  <text x="800" y="830" text-anchor="middle" class="sub">The first formative branching is not a ladder but a split in possible organizational outcome.</text>
+</svg>

@@ -1,0 +1,44 @@
+{
+  "command": "edit",
+  "createdAt": "2026-04-08T01:31:54-07:00",
+  "prompt": "Design a rigorous editorial infographic diagram for Alexander Bogdanov's Tektologiya, volume one. This should read like a plate in a serious intellectual book, not a slide deck, app mockup, or corporate process chart. The image should communicate a five-stage conceptual arc across the page, with strong visual hierarchy, generous spacing, and legible large labels. The tone should feel scholarly, architectural, restrained, and a little surprising, using a warm print-like atmosphere rather than sterile digital flatness.\n\nThe content must consist of exactly five labeled conceptual stages arranged in a clear sequence: organizational point of view, mechanisms, regulation, applications, polemical recap. Preserve that order exactly. Treat the sequence as an arc across the composition rather than a monotone vertical ladder. Use distinct but harmonized blocks or fields for each stage, connected by a visible flow that implies development from one to the next. The last stage, polemical recap, should feel like a terminal sharpening or return stroke rather than just another equal box.\n\nVisual direction: landscape infographic, parchment and muted mineral palette, warm cream ground, faded sage, oxidized teal, ochre, terracotta, dark ink lines. Use elegant diagrammatic forms, not icons and not figurative imagery. Typography should be crisp and readable. Render the exact labels verbatim and do not add any other conceptual text. No legends, no decorative symbols, no fake handwriting, no arrows exploding in every direction, no photorealism, no purple gradients, no UI chrome.",
+  "model": "gemini-3.1-flash-image-preview",
+  "temperature": 0.2,
+  "systemPrompt": "",
+  "aspectRatio": null,
+  "imageSize": null,
+  "label": "tektologiya-volume-1-arc-prompt-v1",
+  "input_count": 0,
+  "inputs": [],
+  "requested_outputs": 2,
+  "attempts": 2,
+  "output_count": 2,
+  "outputRoot": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/tektologiya-vol1/visuals/out",
+  "outputDir": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/tektologiya-vol1/visuals/out/2026-04-08",
+  "sdk": {
+    "googleGenaiVersion": "1.66.0",
+    "imageConfigSupported": true
+  },
+  "text": null,
+  "outputs": [
+    {
+      "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/tektologiya-vol1/visuals/out/2026-04-08/tektologiya-volume-1-arc-prompt-v1_001.png",
+      "relativePath": "2026-04-08/tektologiya-volume-1-arc-prompt-v1_001.png",
+      "width": 1376,
+      "height": 768
+    },
+    {
+      "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/tektologiya-vol1/visuals/out/2026-04-08/tektologiya-volume-1-arc-prompt-v1_002.png",
+      "relativePath": "2026-04-08/tektologiya-volume-1-arc-prompt-v1_002.png",
+      "width": 1376,
+      "height": 768
+    }
+  ],
+  "candidate": {
+    "ref": "texts/tektologiya-vol1/journal.md:524",
+    "path": "texts/tektologiya-vol1/journal.md",
+    "line": 524,
+    "slug": "a-volume-1-arc-diagram",
+    "text": "a volume-1 arc diagram: point of view -> mechanisms -> regulation -> applications -> polemical recap"
+  }
+}

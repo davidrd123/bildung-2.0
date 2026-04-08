@@ -180,7 +180,7 @@ ranges:
     note: "The internal heading on printed page 215 / PDF page 239 carries Patrizzi's potency critique forward into a direct attack on the Aristotelian definition of substance."
 
   - slug: "bewegung-und-unbewegter-beweger-within-naturphilosophie"
-    label: "Opening of `Die Bewegung und der ,,unbewegte Beweger"` within `Die Naturphilosophie`"
+    label: 'Opening of `Die Bewegung und der ,,unbewegte Beweger"` within `Die Naturphilosophie`'
     pdf_pages: [241, 241]
     printed_pages: ["217", "217"]
     trust: "high"
@@ -395,3 +395,241 @@ ranges:
     printed_pages: ["275", "275"]
     trust: "high"
     note: "The running internal heading on printed page 275 / PDF page 299 marks the point where the Copernican world-picture is extended into ethics, history, and the unity of nature and law of knowledge."
+
+  - slug: "naturbegriff-und-offenbarungsbegriff-within-bruno"
+    label: "Opening of `Naturbegriff und Offenbarungsbegriff` within the Bruno section"
+    pdf_pages: [301, 301]
+    printed_pages: ["277", "277"]
+    trust: "high"
+    note: "The running internal heading on printed page 277 / PDF page 301 marks Galilei's delimitation of scientific fact-truth from scriptural and salvific truth and the explicit self-assertion of reason."
+
+  - slug: "der-begriff-der-weltseele-within-bruno"
+    label: "Opening of `Der Begriff der Weltseele` within the Bruno section"
+    pdf_pages: [303, 303]
+    printed_pages: ["279", "279"]
+    trust: "high"
+    note: "The running internal heading on printed page 279 / PDF page 303 marks Cassirer's first deflationary presentation of Bruno: world-soul, sympathy, and psychic mediation remain central, while the real contrast is relocated to epistemic grounding."
+
+  - slug: "der-begriff-des-unendlichen-within-bruno"
+    label: "Opening of `Der Begriff des Unendlichen` within the Bruno section"
+    pdf_pages: [305, 305]
+    printed_pages: ["281", "281"]
+    trust: "high"
+    note: "The running internal heading on printed page 281 / PDF page 305 marks the point where infinity is tied directly to self-consciousness, Copernican liberation, and the shift of truth from sense to reason and intellect."
+
+  - slug: "die-metaphysischen-grundlagen-von-brunos-erkenntnislehre-within-bruno"
+    label: "Opening of `Die metaphysischen Grundlagen von Brunos Erkenntnislehre` within the Bruno section"
+    pdf_pages: [307, 307]
+    printed_pages: ["283", "283"]
+    trust: "high"
+    note: "The running internal heading on printed page 283 / PDF page 307 marks Cassirer's immediate limitation of Bruno's gain: epistemology remains derived from pantheistic metaphysics, and logical and metaphysical genesis are not yet distinguished."
+
+  - slug: "die-idee-des-schoenen-within-bruno"
+    label: "Opening of `Die Idee des Schönen` within the Bruno section"
+    pdf_pages: [309, 309]
+    printed_pages: ["285", "285"]
+    trust: "high"
+    note: "The running internal heading on printed page 285 / PDF page 309 marks the Plotinian counter-motive in Bruno, where matter's striving toward form and beauty mediate between the sensible and intelligible worlds."
+
+  - slug: "idee-und-erscheinung-within-bruno"
+    label: "Opening of `Idee und Erscheinung` within the Bruno section"
+    pdf_pages: [311, 311]
+    printed_pages: ["287", "287"]
+    trust: "high"
+    note: "The running internal heading on printed page 287 / PDF page 311 marks the turn inward through beauty and the introduction of imagination as the middle term between sensation and rational cognition."
+
+  - slug: "die-sinnliche-und-die-intelligible-welt-within-bruno"
+    label: "Opening of `Die sinnliche und die intelligible Welt` within the Bruno section"
+    pdf_pages: [313, 313]
+    printed_pages: ["289", "289"]
+    trust: "high"
+    note: "The running internal heading on printed page 289 / PDF page 313 marks Cassirer's strongest two-realm formulation for Bruno: sensible and intelligible cognition are governed by different conditions, but exact phenomenal science still lacks a route."
+
+  - slug: "abstraktion-und-analyse-within-bruno"
+    label: "Opening of `Abstraktion und Analyse` within the Bruno section"
+    pdf_pages: [315, 315]
+    printed_pages: ["291", "291"]
+    trust: "high"
+    note: "The running internal heading on printed page 291 / PDF page 315 marks the positive remainder in Bruno: cognition is redirected from genus-abstraction toward analysis of determinate relations within a whole, even though the mathematical middle term is still missing."
+
+  - slug: "einheit-und-vielheit-within-bruno"
+    label: "Opening of `Einheit und Vielheit` within the Bruno section"
+    pdf_pages: [317, 317]
+    printed_pages: ["293", "293"]
+    trust: "high"
+    note: "The running internal heading on printed page 293 / PDF page 317 marks the point where Bruno's relation-model hits its limit: multiplicity remains a lower moment, so the boundary of his epistemology is reached."
+
+  - slug: "materie-und-form-within-bruno"
+    label: "Opening of `Materie und Form` within the Bruno section"
+    pdf_pages: [319, 319]
+    printed_pages: ["295", "295"]
+    trust: "high"
+    note: "The running internal heading on printed page 295 / PDF page 319 marks the handoff from Bruno's logical boundary to the dynamic Naturphilosophie of force, development, and matter as living seed."
+
+  - slug: "der-begriff-der-substanz-within-bruno"
+    label: "Opening of `Der Begriff der Substanz` within the Bruno section"
+    pdf_pages: [321, 321]
+    printed_pages: ["297", "297"]
+    trust: "high"
+    note: "The running internal heading on printed page 297 / PDF page 321 marks the point where Bruno's dynamic matter-line becomes a direct critique of individual substance and aligns real being with enduring substrate rather than entelechial singularity."
+
+  - slug: "natur-und-gesetz-within-bruno"
+    label: "Opening of `Natur und Gesetz` within the Bruno section"
+    pdf_pages: [323, 323]
+    printed_pages: ["299", "299"]
+    trust: "high"
+    note: "The running internal heading on printed page 299 / PDF page 323 marks Cassirer's precise half-modern verdict on Bruno: all-nature becomes the universal rule of appearances and begins to pass into the concept of law, though not yet into Galileo's mathematical law."
+
+  - slug: "der-begriff-des-minimums-within-bruno"
+    label: "Opening of `Der Begriff des Minimums` within the Bruno section"
+    pdf_pages: [325, 325]
+    printed_pages: ["301", "301"]
+    trust: "high"
+    note: "The running internal heading on printed page 301 / PDF page 325 marks Bruno's late attempt to restore the singular through domain-specific minima and a system of qualitatively determinate elementary unities."
+
+  - slug: "das-minimum-als-mass-der-dinge-within-bruno"
+    label: "Opening of `Das Minimum als Maß der Dinge` within the Bruno section"
+    pdf_pages: [327, 327]
+    printed_pages: ["303", "303"]
+    trust: "high"
+    note: "The running internal heading on printed page 303 / PDF page 327 marks the point where Bruno turns the minimum into a discrete doctrine of measure and rejects the irrational and incommensurable, thereby blocking the later mathematical route Cassirer needs."
+
+  - slug: "die-entstehung-der-einzelgestalten-within-bruno"
+    label: "Opening of `Die Entstehung der Einzelgestalten` within the Bruno section"
+    pdf_pages: [329, 329]
+    printed_pages: ["305", "305"]
+    trust: "high"
+    note: "The running internal heading on printed page 305 / PDF page 329 marks Bruno's constructive geometry of figures as summed minima and pushes exact transformation and equality into question."
+
+  - slug: "minimum-und-grenze-within-bruno"
+    label: "Opening of `Minimum und Grenze` within the Bruno section"
+    pdf_pages: [331, 331]
+    printed_pages: ["307", "307"]
+    trust: "high"
+    note: "The running internal heading on printed page 307 / PDF page 331 marks the decisive crack in Bruno's doctrine: boundary-relations are distinguished from minima as parts, opening the lawfulness scientific geometry actually claims."
+
+  - slug: "kritik-der-minimum-lehre-within-bruno"
+    label: "Opening of `Kritik der Minimum-Lehre` within the Bruno section"
+    pdf_pages: [333, 333]
+    printed_pages: ["309", "309"]
+    trust: "high"
+    note: "The running internal heading on printed page 309 / PDF page 333 marks Cassirer's direct critique that Bruno's minimum-doctrine cannot derive equality, relation, or multiplicity on its own terms."
+
+  - slug: "kontinuitaet-und-zahl-within-bruno"
+    label: "Opening of `Kontinuität und Zahl` within the Bruno section"
+    pdf_pages: [335, 335]
+    printed_pages: ["311", "311"]
+    trust: "high"
+    note: "The running internal heading on printed page 311 / PDF page 335 marks the contrast between Bruno's discrete quantity and Leibniz's relational resolution of extension, and the break between nature's fixed limits and mathematical imagination."
+
+  - slug: "die-stellung-der-mathematik-in-brunos-methodenlehre-within-bruno"
+    label: "Opening of `Die Stellung der Mathematik in Brunos Methodenlehre` within the Bruno section"
+    pdf_pages: [337, 337]
+    printed_pages: ["313", "313"]
+    trust: "high"
+    note: "The running internal heading on printed page 313 / PDF page 337 marks Cassirer's final Bruno verdict: mathematics remains model and middle, but the path of method slides back into magic and mnemonic art."
+
+  - slug: "die-entstehung-der-exakten-wissenschaft-opening"
+    label: "Opening of `Zweites Kapitel. Die Entstehung der exakten Wissenschaft`"
+    pdf_pages: [338, 339]
+    printed_pages: ["314", "315"]
+    trust: "high"
+    note: "The chapter opening on printed page 314 / PDF page 338 recasts the methodological problem through Plato's Phaedo and frames exact science against sense-led Renaissance natural philosophy."
+
+  - slug: "begriff-und-erfahrung-within-exact-science"
+    label: "Opening of `Begriff und Erfahrung` within `Die Entstehung der exakten Wissenschaft`"
+    pdf_pages: [341, 341]
+    printed_pages: ["317", "317"]
+    trust: "high"
+    note: "The running internal heading on printed page 317 / PDF page 341 marks Cassirer's positive exact-science formula: the appeal from scholastic concepts to experience yields a new systematics of concept and a reform of logic."
+
+  - slug: "leonardo-da-vinci-within-exact-science"
+    label: "Opening of `1. Leonardo da Vinci` within `Die Entstehung der exakten Wissenschaft`"
+    pdf_pages: [342, 343]
+    printed_pages: ["318", "319"]
+    trust: "high"
+    note: "The numbered section opening on printed page 318 / PDF page 342 shifts from the chapter's methodological program to Leonardo as first case, where encyclopedic breadth is subordinated to a unitary methodological ground-thought."
+
+  - slug: "die-mathematische-gewissheit-within-leonardo"
+    label: "Opening of `Die mathematische Gewißheit` within the Leonardo section"
+    pdf_pages: [345, 345]
+    printed_pages: ["321", "321"]
+    trust: "high"
+    note: "The running internal heading on printed page 321 / PDF page 345 marks the point where Leonardo's Cusanus inheritance is stripped to mathematical content and mathematics becomes the criterion of law, necessity, and science."
+
+  - slug: "mathematik-und-magie-within-leonardo"
+    label: "Opening of `Mathematik und Magie` within the Leonardo section"
+    pdf_pages: [347, 347]
+    printed_pages: ["323", "323"]
+    trust: "high"
+    note: "The running internal heading on printed page 323 / PDF page 347 marks Cassirer's strongest Leonardo verdict against magic: mathematical method destroys spirit-causation, sharpens causality, and extends itself even into the concept of time."
+
+  - slug: "vernunft-und-erfahrung-within-leonardo"
+    label: "Opening of `Vernunft und Erfahrung` within the Leonardo section"
+    pdf_pages: [349, 349]
+    printed_pages: ["325", "325"]
+    trust: "high"
+    note: "The running internal heading on printed page 325 / PDF page 349 marks the Leonardo formula in which experience becomes the outer form of rational law, experiment becomes a problem, and analysis anticipates Galileo's resolutive method."
+
+  - slug: "die-logische-bedeutung-der-imagination-within-leonardo"
+    label: "Opening of `Die logische Bedeutung der \"Imagination\"` within the Leonardo section"
+    pdf_pages: [351, 351]
+    printed_pages: ["327", "327"]
+    trust: "high"
+    note: "The running internal heading on printed page 327 / PDF page 351 marks the point where Leonardo's disciplined imagination becomes the bridge to a broader Renaissance analysis of imagination's logical role."
+
+  - slug: "der-begriff-der-harmonie-within-kepler"
+    label: "Opening of `a) Der Begriff der Harmonie` within the Kepler section"
+    pdf_pages: [353, 353]
+    printed_pages: ["329", "329"]
+    trust: "high"
+    note: "The running internal heading on printed page 329 / PDF page 353 marks the point where Kepler gives experience real inductive content through exact observation and unifies his science under the objective concept of harmony."
+
+  - slug: "die-harmonie-als-schoepfung-des-geistes-within-kepler"
+    label: "Opening of `Die Harmonie als Schöpfung des Geistes` within the Kepler section"
+    pdf_pages: [355, 355]
+    printed_pages: ["331", "331"]
+    trust: "high"
+    note: "The running internal heading on printed page 331 / PDF page 355 marks the inward turn of harmony from objective cosmic relation toward a logical function of spirit itself."
+
+  - slug: "die-sinnliche-und-die-intellektuelle-harmonie-within-kepler"
+    label: "Opening of `Die sinnliche und die intellektuelle Harmonie` within the Kepler section"
+    pdf_pages: [357, 357]
+    printed_pages: ["333", "333"]
+    trust: "high"
+    note: "The running internal heading on printed page 333 / PDF page 357 marks Cassirer's strongest Kepler claim that harmony is a pure relation dependent on mind's comparing and unifying acts."
+
+  - slug: "die-theorie-der-wahrnehmung-within-kepler"
+    label: "Opening of `Die Theorie der Wahrnehmung` within the Kepler section"
+    pdf_pages: [359, 359]
+    printed_pages: ["335", "335"]
+    trust: "high"
+    note: "The running internal heading on printed page 335 / PDF page 359 marks the point where Kepler's theory of harmony begins to generate a general theory of sensory perception."
+
+  - slug: "verhaeltnis-zur-platonischen-ideenlehre-within-kepler"
+    label: "Opening of `Verhältnis zur Platonischen Ideenlehre` within the Kepler section"
+    pdf_pages: [361, 361]
+    printed_pages: ["337", "337"]
+    trust: "high"
+    note: "The running internal heading on printed page 337 / PDF page 361 marks Kepler's reinterpretation of Platonic ideas as relation-concepts rather than hypostatized things."
+
+  - slug: "das-wahrnehmungsproblem-in-keplers-optik-within-kepler"
+    label: "Opening of `Das Wahrnehmungsproblem in Keplers Optik` within the Kepler section"
+    pdf_pages: [363, 363]
+    printed_pages: ["339", "339"]
+    trust: "high"
+    note: "The running internal heading on printed page 339 / PDF page 363 marks the point where Kepler's optics is explicitly read as an intellectual construction of spatial order from sensory indications."
+
+  - slug: "der-begriff-der-hypothese-within-kepler"
+    label: "Opening of `Der Begriff der Hypothese` within the Kepler section"
+    pdf_pages: [365, 365]
+    printed_pages: ["341", "341"]
+    trust: "high"
+    note: "The running internal heading on printed page 341 / PDF page 365 marks the point where Kepler's mathematical hypothesis is treated as the opening condition of scientific problem-formation rather than as a mere computational device."
+
+  - slug: "die-astronomische-und-die-physische-hypothese-within-kepler"
+    label: "Opening of `Die astronomische und die physische Hypothese` within the Kepler section"
+    pdf_pages: [367, 367]
+    printed_pages: ["343", "343"]
+    trust: "high"
+    note: "The running internal heading on printed page 343 / PDF page 367 marks Kepler's integration of astronomical formula and physical ground-relation within a unified mathematically-physical account of phenomena."

@@ -19,7 +19,10 @@ Each subproject is an organ of one system, not a standalone effort.
 | Project | Author | What it trains |
 |---------|--------|----------------|
 | `texts/escolios/` | Nicolás Gómez Dávila | Semantic doubleness — the distance between close and free translation is understanding, not error |
+| `texts/escolios-ii/` | Nicolás Gómez Dávila | Continuity under source resistance — keep the close/free discipline alive when the witness is noisier and less settled |
 | `texts/zeitmauer/` | Ernst Jünger | Conceptual patience — major terms stay open until the source resists premature carving |
+| `texts/erkenntnisproblem-vol1/` | Ernst Cassirer | Historical reconstruction of knowledge-forms — how scientific problems migrate, harden, and change register across epochs |
+| `texts/tektologiya-vol1/` | Alexander Bogdanov | Organizational vocabulary — a compact portable method for parts, mediation, bottlenecks, and the line between analogy and structural explanation |
 | `texts/exegesis/` | Philip K. Dick | Recursive mapping — thread dossiers convert a spiraling archive into something navigable without pretending the recursion is noise |
 | `sources/` | (triggered by the above) | Original-language encounter — formation tied to small acts of contact with source languages |
 
