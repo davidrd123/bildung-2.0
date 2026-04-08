@@ -58,6 +58,9 @@ sessions:
       - 60
       - 61
       - 62
+      - 63
+      - 64
+      - 65
 
     state_on_entry:
       - "Arrived with the ledger still treating the next Paracelsus tranche as blocked on source access."
@@ -65,22 +68,22 @@ sessions:
       - "Main open pressure was whether mediated self-knowledge would stay central, and whether Paracelsian method terms would remain chapter-local."
 
     what_shifted:
-      - "Verified the source PDF in this checkout and pushed the run from the blocked Part 55 edge through Part 62."
+      - "Verified the source PDF in this checkout and pushed the run from the blocked Part 55 edge through Part 65."
       - "Paracelsus turned the microcosm line into method: Erfahrung split into grounded experiment versus Irrsaal, and Sichtiges / Unsichtiges became a methodological unity."
       - "Fracastoro carried the chapter into psychology-of-knowing: species, subnotio, and esse ab anima exposed self-consciousness and relation as pressures the sensualist frame could not stabilize."
       - "Telesio grounded cognition in bodily process and physiological memory, but could not generate mathematics or pure relations from within the system; Aristotelian form survives in psychology."
-      - "Campanella drove the whole approach to breaking point: immutatio, trace, and motion-language could redescribe cognition, but not explain synthesis, representation, or the subject's resistance to alienation."
+      - "Campanella drove the whole approach to breaking point and then partially reversed it from within: alienation opened into self-certainty, perception itself became a judgment-act, and mathematics forced the text into the explicit Raum/Zeit problem."
 
     unresolved:
-      - "Need the next tranche from printed 248-251 / PDF 272-275."
-      - "Need to see how Campanella completes the alienation formula and whether any non-sensory certainty remains standing beside it."
-      - "Need to see whether Abstraktion, Bestimmung, alienari, and experimentorum-multorum-coacervatio remain chapter-local or force glossary pressure."
+      - "Need the next tranche from printed 260-263 / PDF 284-287."
+      - "Need to see how the Telesio space/time line continues after the opening threshold at printed page 259."
+      - "Need to see whether reiner Raum, Ort, Leeres, and the independence of Zeit remain section-local or force glossary pressure."
 
     re_entry_instructions:
-      - "Read Part 62 first; the live edge is Campanella's unfinished alienation formula after the skepticism/abstraction critique."
-      - "Extract the next raw page range: printed 248-251 / PDF 272-275."
-      - "Watch whether Cassirer now rebuilds certainty from self-awareness, or whether the skeptical collapse keeps spreading."
-      - "Keep the chain Campanella immutatio -> skepticism -> abstraction-loss -> alienation in view."
+      - "Read Part 65 first; the live edge is the Telesio Raum/Zeit continuation after the opening threshold on printed page 259."
+      - "Extract the next raw page range: printed 260-263 / PDF 284-287."
+      - "Watch whether the new space/time concepts become genuinely independent, or whether substance and motion still quietly dominate them."
+      - "Keep the chain Campanella mathematics -> reiner Raum -> Patrizzi space -> Cardano/Scaliger -> Telesio Raum/Zeit in view."
 
     formation_notes:
       - "I came in expecting a straightforward praise of Paracelsian empiricism, but the text instead split Erfahrung in two and made experiment a disciplined use of forces rather than mere accumulation of observations."
@@ -90,3 +93,6 @@ sessions:
       - "The sharpest clarification in the Telesio conclusion was that the problem is not too much epistemology but too little: physics fills the frame so completely that cognition can only be modeled as a thing-like transfer."
       - "Campanella made the limit visible: once the old metaphysical content is translated into motion-language, the resulting account can redescribe cognition but not yet explain what synthesis or representation actually are."
       - "The next pressure is harsher: once abstraction itself looks like loss rather than determination, the collapse threatens not only object-knowledge but the self that knows."
+      - "The decisive surprise was that Campanella does not leave the self in collapse; the same line that reaches alienation is forced into a primitive self-certainty the old object-model cannot account for."
+      - "The next break is that Campanella cannot keep judgment and reason outside sensation after all; the system needs them as real powers exactly where it still distrusts pure mathematical relation."
+      - "What first looked like a merely anti-mathematical residue turned into a real threshold: geometry is rescued only by ontologizing space, and that immediately opens the explicit problem of Raum und Zeit."

@@ -4,7 +4,7 @@ Purpose: recover the real question-stack from the April 6 chat without promoting
 
 Input:
 
-- `00-Notes/Chats/2026-04-06/2026-04-06_16-58-08_Claude_Chat_Funktionsmäßigkeit_statt_Planmäßigkeit.md`
+- `00-Notes/Chats/2026-04-06/2026-04-07_06-32-18_Claude_Chat_Funktionsmäßigkeit_statt_Planmäßigkeit.md`
 
 Status:
 

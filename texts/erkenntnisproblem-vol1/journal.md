@@ -1512,3 +1512,69 @@ Decision for now:
 - continue directly into the next tranche from Campanella's `scire est alienari` continuation
 - keep watching whether `Abstraktion`, `Bestimmung`, `experimentorum multorum coacervatio`, and `alienari` remain chapter-local or start forcing glossary pressure
 - treat this Campanella run as the point where Cassirer most openly contrasts the Renaissance abstraction-model with the modern logic of relations, but keep it source-bound for now
+
+## 2026-04-07 - Twelfth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `248-251`
+- PDF pages `272-275`
+
+What this tranche clarified:
+
+- Campanella's `alienari` paradox does not simply end in epistemic collapse; it forces a bifurcation between a metaphysical repair through divine participation and a psychological repair through self-certainty
+- the metaphysical line closes the logical gap from above: the self is not truly lost in things because all objects lead back to the same divine source, and cognition becomes fusion with the highest reason
+- the psychological line is historically sharper: doubt already presupposes truth and yields self-existence as indubitable, so Campanella becomes an actual mediator between Augustin and Descartes
+- this exposes the inner limit of the natural-philosophic theory of cognition from within its own terms: where act and content are identical, the object-effect model can no longer explain `Selbstbewußtsein`
+- passive receptivity must therefore be corrected by an original self-active movement; `esse animae et cujuslibet cognoscentis est cognitio sui` becomes the local formula of the turn
+- the hierarchy of knowing is now being internally reordered: self-consciousness is both `verborgen` and `gewiß`, while the treatment of universals begins to move from nominalist naming toward divine ideas and participation
+
+Decision for now:
+
+- continue directly into the next tranche from the broken sentence on the spirit's participation in the schöpferische `Ur-` powers
+- keep watching whether `alienari`, `Selbstbewußtsein`, `verborgen` / `gewiß`, and `realiter` / `fundamentaliter` remain chapter-local or begin forcing glossary pressure
+- treat this Campanella turn as the point where the alienation-model partially reverses into a primitive certainty of self, but keep it source-bound for now
+
+## 2026-04-07 - Thirteenth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `252-255`
+- PDF pages `276-279`
+
+What this tranche clarified:
+
+- Campanella can no longer hold perception at the level of passive affection alone; `Wahrnehmung` now explicitly includes a logical operation and `Urteilsakt`
+- this forces a further internal shift: reason is no longer treated as a mere `ens rationis`, but as a real power and a Grundakt of cognition, even while the system still tries to subsume it under `Empfindung`
+- Cassirer reads this as a real internal conflict rather than a loose inconsistency: Campanella cannot dispense with rational factors, although his opening epistemic premises had denied them independent standing
+- mathematics becomes the sharpest diagnostic of that limit; relations, signs, and identities still count only as auxiliary fragments so long as they do not reach real physical causes
+- this is why Campanella's restriction is methodological, not merely cosmological: it helps explain why he remains bound to the medieval astronomical picture even against the later Keplerian distinction of mathematical model and physical cause
+- geometry is partially rescued only through ontology: `reiner absoluter Raum` becomes the real substrate that gives ideal constructions a new kind of validity
+
+Decision for now:
+
+- continue directly into the next tranche from the broken line `Wenn wir etwa davon reden, daß eine Linie ...`
+- keep watching whether `Urteilsakt`, `ratio non est Ens rationis`, `Verhältnis zur Mathematik`, and `absoluter Raum` remain chapter-local or begin forcing glossary pressure
+- treat the mathematics discussion as the sharpest local sign that Campanella still cannot grant pure relations critical autonomy, but keep it source-bound for now
+
+## 2026-04-07 - Fourteenth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `256-259`
+- PDF pages `280-283`
+
+What this tranche clarified:
+
+- Campanella's final rescue of mathematics is ontological rather than critical: ideal constructions are granted validity by being given real counterparts in `reiner Raum`
+- Cassirer immediately turns that move into a larger historical threshold: the validity of mathematics is now bound to the metaphysical question of the essence of space, and Patrizzi's Raumlehre becomes the decisive background
+- the new section `C) Die Begriffe des Raumes und der Zeit` opens by tracing the slow Italian break with Aristotelian `Ort` through Cardano and Scaliger
+- Scaliger loosens place from mere enclosing surface and ties it to geometric content, but still leaves space subordinate to substance and time derivative from already-given motion
+- Telesio removes that last barrier more radically: space and time become independent existences, and the new concept of space is said to require a new physics
+- the pressure point remains visible: relation does not yet win autonomy through critique alone, but only by being secured through ontological standing
+
+Decision for now:
+
+- continue directly into the next tranche from the Telesio space/time continuation after printed page `259`
+- keep watching whether `reiner Raum`, `Ort`, `Leeres`, and the independence of `Zeit` remain section-local or begin forcing glossary pressure
+- treat this threshold as the point where the mathematics problem opens into the explicit conceptual history of space and time, but keep it source-bound for now

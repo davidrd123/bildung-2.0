@@ -297,3 +297,45 @@ ranges:
     printed_pages: ["247", "247"]
     trust: "high"
     note: "The running internal heading on printed page 247 / PDF page 271 marks Cassirer's contrast between abstraction as loss and the modern logic of relations as progressive determination."
+
+  - slug: "problem-des-selbstbewusstseins-within-campanella"
+    label: "Opening of `Das Problem des Selbstbewußtseins` within the Campanella discussion"
+    pdf_pages: [273, 273]
+    printed_pages: ["249", "249"]
+    trust: "high"
+    note: "The running internal heading on printed page 249 / PDF page 273 marks the turn from Campanella's alienation paradox toward self-certainty, doubt, and the first explicit bridge from Augustine to Descartes."
+
+  - slug: "intuitive-und-reflexive-erkenntnis-des-ich-within-campanella"
+    label: "Opening of `Intuitive und reflexive Erkenntnis des Ich` within the Campanella discussion"
+    pdf_pages: [275, 275]
+    printed_pages: ["251", "251"]
+    trust: "high"
+    note: "The running internal heading on printed page 251 / PDF page 275 marks the point where self-consciousness becomes both `verborgen` and `gewiß` and begins to reorder the hierarchy of cognition."
+
+  - slug: "wahrnehmung-und-urteilsakt-within-campanella"
+    label: "Opening of `Wahrnehmung und Urteilsakt` within the Campanella discussion"
+    pdf_pages: [277, 277]
+    printed_pages: ["253", "253"]
+    trust: "high"
+    note: "The running internal heading on printed page 253 / PDF page 277 marks the point where perception itself is said to include judgment and Campanella's rational turn becomes explicit."
+
+  - slug: "verhaeltnis-zur-mathematik-within-campanella"
+    label: "Opening of `Verhältnis zur Mathematik` within the Campanella discussion"
+    pdf_pages: [279, 279]
+    printed_pages: ["255", "255"]
+    trust: "high"
+    note: "The running internal heading on printed page 255 / PDF page 279 marks Cassirer's sharpest statement of Campanella's inability to grant mathematics and pure relations full cognitive standing without a real substrate."
+
+  - slug: "begriffe-des-raumes-und-der-zeit-opening-within-naturphilosophie"
+    label: "Opening of `C) Die Begriffe des Raumes und der Zeit` within `Die Naturphilosophie`"
+    pdf_pages: [281, 281]
+    printed_pages: ["257", "257"]
+    trust: "high"
+    note: "Printed page 257 / PDF page 281 opens the `Raum und Zeit` section by tying the validity of mathematics to the metaphysical essence of space and then tracing the Italian break from Aristotelian place."
+
+  - slug: "raumbegriff-und-koerperbegriff-within-raum-und-zeit"
+    label: "Opening of `Raumbegriff und Körperbegriff` within `Die Begriffe des Raumes und der Zeit`"
+    pdf_pages: [283, 283]
+    printed_pages: ["259", "259"]
+    trust: "high"
+    note: "The running internal heading on printed page 259 / PDF page 283 marks the point where Telesio's independent space concept is contrasted with bodily mass and explicitly made to require a new physics."

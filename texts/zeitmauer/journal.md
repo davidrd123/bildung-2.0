@@ -1417,3 +1417,33 @@ Decisions:
 - extend `thread:time-crisis` through `§156`, where `décadence` becomes second-rank and insular under a larger scale of view
 - extend `thread:predecided-world` through `§154`, where experiment is explicitly treated as assistance rather than origin
 - extend `thread:predecided-world` through `§155`, where the setup itself changes and a new type forms nations and races before any single experiment can account for it
+
+## 2026-04-07 — Progress in Freedom, Insect-State Solutions, and Utopian Return
+
+Translated `§§157-159` under `parts/53-siderische-einteilungen.md`.
+
+This batch carries Part 4 from rescaled `décadence` into the historian's progress in freedom, the danger of human sidelining under hardened insect-state solutions, and the utopian image-world from Campanella to Fourier. `§157` contrasts metaphysical invariance with historical progress in freedom and shows revolutions narrowing and consuming the very freedom they first name as goal. `§158` then asks about human responsibility for evolution, imagines man shunted onto a siding, and reads `ratio` and insect-state formation as one line of hardening. `§159` closes by revisiting Campanella and Fourier as utopian prefigurations of state-regulated life, then distinguishing their poetic intention from the state-plan before which every happiness-dream fades.
+
+Working observations:
+
+- `§157` is the structural center. The decisive move is that historical progress is reduced to progress in freedom, yet revolution is said to consume freedom and to realize aims deeper than the political ones it names.
+- `§158` matters because it turns the same problem into evolutionary responsibility and possible sidelining. Man can miss the departure or be shunted aside, while `ratio` and insect-state solutions reactivate very old principles.
+- `§159` matters because it makes utopia historical without simply dismissing it. Campanella and Fourier prefigure state-regulated life, but their poetic intention may regain attraction where earth-revolutionary powers emerge from world-revolutionary plans.
+- `§157` and `§159` also deepen `thread:predecided-world`: revolutionary and utopian projects alike are overtaken by ends other than the ones explicitly intended.
+- No new glossary entries are earned yet. The main gains are three new anchors, a continued extension of `thread:time-crisis`, and narrower but real extensions of `thread:predecided-world`.
+
+One passage still at risk:
+
+- `Ratio -> ratio` left in Latin in `§158`
+- difficulty type: `lexical` plus `residual`
+- why: the section treats it not as generic reason but as a measuring force that can harden life into insect-state solutions; it is still unclear whether later sections will force a more settled Englishing
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§157-159`
+- do not yet promote `ratio` or the utopia-family into the glossary
+- extend `thread:time-crisis` through `§157`, where revolutions consume freedom and political aims yield to deeper intentions
+- extend `thread:time-crisis` through `§158`, where man can be left behind or shunted aside and insect-state solutions reactivate under `ratio`
+- extend `thread:time-crisis` through `§159`, where utopian systems meet the state-plan and may return only in altered relation to earth-revolutionary powers
+- extend `thread:predecided-world` through `§157`, where the goal is always other than intended and constitution emerges from fading constituent forces
+- extend `thread:predecided-world` through `§159`, where world-revolutionary plans are overtaken by deeper earth-revolutionary powers

@@ -7,13 +7,13 @@
     "handles": "texts/zeitmauer/source/handles.yaml"
   },
   "counts": {
-    "sections": 156,
+    "sections": 159,
     "terms": 14,
-    "chunks": 97,
-    "notes": 99,
+    "chunks": 100,
+    "notes": 102,
     "threads": 4,
     "evidence": 51,
-    "relations": 121
+    "relations": 126
   },
   "sections": [
     {
@@ -5131,6 +5131,98 @@
       },
       "source_file": "texts/zeitmauer/source/sections.yaml",
       "draft_file": "texts/zeitmauer/parts/52-siderische-einteilungen.md"
+    },
+    {
+      "handle": "zm:157",
+      "id": 157,
+      "label": "§157",
+      "part_slug": "siderische-einteilungen",
+      "part_title_de": "Siderische Einteilungen",
+      "part_title_en": "Sidereal Divisions",
+      "de": "Der Frage des Fortschrittes gegenüber nimmt der Metaphysiker eine andere Haltung ein als der Geschichtsphilosoph. Metaphysisch gesehen, bleibt die Potenz des Kosmos ein und dieselbe; kein Vor- oder Rückschreiten, kein Auf- oder Untergang verändert sie. Sein Wert bleibt stets der gleiche; er ruht in sich. Auch die Freiheit ist ewig und unzerstörbar, gleichviel ob sie in der Zeit sichtbar wird oder nicht. Dort wird sie stets hinfällig sein.\n\nDer Geschichtsphilosoph dagegen beschäftigt sich mit einem Reich, in dem die Zeit gerichtet abläuft; er muß die Freiheit auf die Zeit beziehen und auf die Art, in der sie sichtbar wird. Fortschreiten kann für ihn im wesentlichen nur ein Fortschreiten in der Freiheit sein. Das ist die große Evolution, die das rechtliche, politische, ökonomische Fortschreiten fundiert. Der Freiheit folgen Freiheiten.\n\nEs erhebt sich nun die Frage, ob die Beleuchtung von Geschichtsvorgängen an der Zeitmauer, also von außergeschichtlichem Standort aus, die Idee eines solchen Fortschreitens nicht illusorisch macht. Diese Frage berührt einmal das Verhältnis von Schicksal und Freiheit, das immer wieder erwogen wurde in der Kontroverse, »ob die Sterne zwingend sind«. Sie berührt zum anderen das Verhältnis von Freiheit und Instinkt, das allzu häufig verwischt wird dadurch, daß man den Verstand als Vergleichsmittel nimmt. Unfreiheit ist möglich bei jedem Stande der Intelligenz.\n\nWährend der Revolutionen wird die Freiheit geringer; der Schub konsumiert. Zunächst war Freiheit als Ziel gemeint. Dann beschleunigt sich die Entwicklung auf schmalerer Bahn, macht jähe Wendungen. Das sind die Kurven, in denen die Liberalen abspringen.\n\nDas Ziel ist stets ein anderes als das gemeinte; in ihm realisieren sich tiefere als die politischen Absichten. Nun verblassen die konstituierenden Elemente; die Konstitution tritt hervor. Die beweglichen, verändernden Kräfte werden schwächer; eine neue Harmonie wird gewonnen, ein neues Gleichgewicht stellt sich her.\n\nDabei können die sich bildenden Typen den überwundenen recht ähnlich sein. Das führt zu, oft verblüffenden, Wiederholungen innerhalb der Stufungen, zu einer Auffrischung alter Prinzipien. Das wiederum ist die Strecke, auf der die Revolutionäre abspringen oder die Revolution ihre Kinder verschlingt.",
+      "en": "The metaphysician takes a different stance toward the question of progress than the philosopher of history. Seen metaphysically, the potency of the cosmos remains one and the same; no advancing or receding, no rise or downfall alters it. Its value always remains the same; it rests in itself. Freedom too is eternal and indestructible, whether or not it becomes visible in time. There it will always be liable to lapse.\n\nThe philosopher of history, by contrast, deals with a realm in which time runs in one direction; he must relate freedom to time and to the way in which it becomes visible. For him progress can essentially only be progress in freedom. That is the great evolution that grounds legal, political, and economic progress. Freedoms follow freedom.\n\nNow the question arises whether viewing historical processes at the time wall, that is, from an extra-historical standpoint, does not make the idea of such progress illusory. The question touches, first, the relation of fate and freedom, repeatedly considered in the controversy over `whether the stars compel.` It touches, secondly, the relation of freedom and instinct, all too often blurred because understanding is taken as the means of comparison. Unfreedom is possible at every level of intelligence.\n\nDuring revolutions, freedom diminishes; the shove consumes. At first freedom was meant as the goal. Then the development accelerates on a narrower track and makes abrupt turns. These are the curves at which the liberals jump off.\n\nThe goal is always other than the one intended; in it intentions deeper than the political realize themselves. Now the constituent elements fade; the constitution comes forward. The mobile, changing forces grow weaker; a new harmony is won, a new equilibrium sets in.\n\nIn the process, the types taking shape can be quite similar to the ones overcome. That leads to repetitions within the gradations, often startling ones, to a refreshing of old principles. That, in turn, is the stretch on which the revolutionaries jump off, or the revolution devours its children.",
+      "de_paragraphs": [
+        "Der Frage des Fortschrittes gegenüber nimmt der Metaphysiker eine andere Haltung ein als der Geschichtsphilosoph. Metaphysisch gesehen, bleibt die Potenz des Kosmos ein und dieselbe; kein Vor- oder Rückschreiten, kein Auf- oder Untergang verändert sie. Sein Wert bleibt stets der gleiche; er ruht in sich. Auch die Freiheit ist ewig und unzerstörbar, gleichviel ob sie in der Zeit sichtbar wird oder nicht. Dort wird sie stets hinfällig sein.",
+        "Der Geschichtsphilosoph dagegen beschäftigt sich mit einem Reich, in dem die Zeit gerichtet abläuft; er muß die Freiheit auf die Zeit beziehen und auf die Art, in der sie sichtbar wird. Fortschreiten kann für ihn im wesentlichen nur ein Fortschreiten in der Freiheit sein. Das ist die große Evolution, die das rechtliche, politische, ökonomische Fortschreiten fundiert. Der Freiheit folgen Freiheiten.",
+        "Es erhebt sich nun die Frage, ob die Beleuchtung von Geschichtsvorgängen an der Zeitmauer, also von außergeschichtlichem Standort aus, die Idee eines solchen Fortschreitens nicht illusorisch macht. Diese Frage berührt einmal das Verhältnis von Schicksal und Freiheit, das immer wieder erwogen wurde in der Kontroverse, »ob die Sterne zwingend sind«. Sie berührt zum anderen das Verhältnis von Freiheit und Instinkt, das allzu häufig verwischt wird dadurch, daß man den Verstand als Vergleichsmittel nimmt. Unfreiheit ist möglich bei jedem Stande der Intelligenz.",
+        "Während der Revolutionen wird die Freiheit geringer; der Schub konsumiert. Zunächst war Freiheit als Ziel gemeint. Dann beschleunigt sich die Entwicklung auf schmalerer Bahn, macht jähe Wendungen. Das sind die Kurven, in denen die Liberalen abspringen.",
+        "Das Ziel ist stets ein anderes als das gemeinte; in ihm realisieren sich tiefere als die politischen Absichten. Nun verblassen die konstituierenden Elemente; die Konstitution tritt hervor. Die beweglichen, verändernden Kräfte werden schwächer; eine neue Harmonie wird gewonnen, ein neues Gleichgewicht stellt sich her.",
+        "Dabei können die sich bildenden Typen den überwundenen recht ähnlich sein. Das führt zu, oft verblüffenden, Wiederholungen innerhalb der Stufungen, zu einer Auffrischung alter Prinzipien. Das wiederum ist die Strecke, auf der die Revolutionäre abspringen oder die Revolution ihre Kinder verschlingt."
+      ],
+      "en_paragraphs": [
+        "The metaphysician takes a different stance toward the question of progress than the philosopher of history. Seen metaphysically, the potency of the cosmos remains one and the same; no advancing or receding, no rise or downfall alters it. Its value always remains the same; it rests in itself. Freedom too is eternal and indestructible, whether or not it becomes visible in time. There it will always be liable to lapse.",
+        "The philosopher of history, by contrast, deals with a realm in which time runs in one direction; he must relate freedom to time and to the way in which it becomes visible. For him progress can essentially only be progress in freedom. That is the great evolution that grounds legal, political, and economic progress. Freedoms follow freedom.",
+        "Now the question arises whether viewing historical processes at the time wall, that is, from an extra-historical standpoint, does not make the idea of such progress illusory. The question touches, first, the relation of fate and freedom, repeatedly considered in the controversy over `whether the stars compel.` It touches, secondly, the relation of freedom and instinct, all too often blurred because understanding is taken as the means of comparison. Unfreedom is possible at every level of intelligence.",
+        "During revolutions, freedom diminishes; the shove consumes. At first freedom was meant as the goal. Then the development accelerates on a narrower track and makes abrupt turns. These are the curves at which the liberals jump off.",
+        "The goal is always other than the one intended; in it intentions deeper than the political realize themselves. Now the constituent elements fade; the constitution comes forward. The mobile, changing forces grow weaker; a new harmony is won, a new equilibrium sets in.",
+        "In the process, the types taking shape can be quite similar to the ones overcome. That leads to repetitions within the gradations, often startling ones, to a refreshing of old principles. That, in turn, is the stretch on which the revolutionaries jump off, or the revolution devours its children."
+      ],
+      "paragraph_alignment": {
+        "de_count": 6,
+        "en_count": 6,
+        "aligned": true,
+        "row_count": 6
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/53-siderische-einteilungen.md"
+    },
+    {
+      "handle": "zm:158",
+      "id": 158,
+      "label": "§158",
+      "part_slug": "siderische-einteilungen",
+      "part_title_de": "Siderische Einteilungen",
+      "part_title_en": "Sidereal Divisions",
+      "de": "Inwiefern ist der Mensch für seine Evolution verantwortlich? Inwieweit kann er kontrollieren, ob, vor allem hinsichtlich der Freiheit, sein Fortschreiten ein Aufwärtsschreiten, ein Stillstand oder ein Rückschreiten ist? Und woran kann diese Verantwortung sich heften inmitten der Einsamkeit der Wüste, im götterleeren Raum? Erwägungen, Hoffnungen, Befürchtungen, Konzepte dieser Art haben Nietzsche als ersten bewegt und heftig erschüttert; das war sein Schicksal, bleibt sein Verdienst. Die Verantwortung behielt er dem »höheren« Menschen vor.\n\nKehren wir nochmals zum Bild des Bahnhofes zurück. Es wäre denkbar, daß der Zug ohne den Menschen weiterfährt, der über seinen Geschäften die Abfahrt versäumt. Es wäre auch denkbar, daß der Mensch auf ein Nebengeleis geschoben wird. Das wäre eine Bewegung, wie sie im Lauf der Erdgeschichte schon oftmals stattgefunden hat.\n\nBefürchtungen in dieser Hinsicht mehren sich – Vermutungen, daß Formen der Verhärtung, Verholzung, Versteinerung drohen. Das Leben läßt in solchen Fällen seine Maske zurück. In jedem Tiergarten hat man diesen Eindruck starrer, oft wundervoller, unwandelbarer Perfektion.\n\nErstarrung droht heute durch die Ratio mit ihrer präzisen, unbarmherzigen Maßgebung, vor allem im technischen Bereich. Der Vergleich mit dem Insektenreich und insbesondere mit seinen staatenbildenden Arten liegt daher nah. Er gibt einen guten Beleg für die erwähnte Wiederkehr der Prinzipien.\n\nAuf den verschiedensten Stufen setzt das Leben zu solchen Lösungen an. Zu den gemeinsamen Kennzeichen gehören Staaten-, Stock- und Koloniebildung, Schaffung von biologischen Klassen, die stärker differenzieren als soziale und ökonomische, Spezialisierung und Sozialisierung des Geschlechtlichen, kollektive Brutfürsorge, Großbauten, Speicherwirtschaft und anderes. Es muß sich hier um ein großes und ständiges Anliegen handeln, das sich bereits an den frühesten Formen erprobt und mit ihnen experimentiert.",
+      "en": "To what extent is man responsible for his evolution? To what extent can he control whether, especially with respect to freedom, his progress is an ascent, a standstill, or a regression? And to what can this responsibility attach itself amid the loneliness of the desert, in god-empty space? Reflections, hopes, fears, concepts of this kind were the first to move Nietzsche and shake him violently; that was his fate and remains his merit. He reserved responsibility for the `higher` man.\n\nLet us return once more to the image of the railway station. It would be conceivable that the train goes on without the man who, preoccupied with his affairs, misses the departure. It would also be conceivable that man is shunted onto a siding. That would be a movement of the kind that has already happened many times in the course of earth-history.\n\nFears in this regard are growing - suspicions that forms of hardening, lignification, petrification threaten. In such cases life leaves its mask behind. In every zoological garden one has this impression of rigid, often marvelous, unalterable perfection.\n\nToday ossification threatens through `ratio` with its precise, merciless imposition of measure, above all in the technical sphere. The comparison with the insect realm and especially with its state-forming species therefore lies close at hand. It furnishes good evidence for the recurrence of principles already mentioned.\n\nAt the most various levels, life moves toward such solutions. Among the common marks are state-, hive-, and colony-formation, the creation of biological classes that differentiate more sharply than social and economic ones, specialization and socialization of the sexual, collective brood-care, grand constructions, storage economy, and more besides. What must be at work here is a great and constant concern that already tries itself out on the earliest forms and experiments with them.",
+      "de_paragraphs": [
+        "Inwiefern ist der Mensch für seine Evolution verantwortlich? Inwieweit kann er kontrollieren, ob, vor allem hinsichtlich der Freiheit, sein Fortschreiten ein Aufwärtsschreiten, ein Stillstand oder ein Rückschreiten ist? Und woran kann diese Verantwortung sich heften inmitten der Einsamkeit der Wüste, im götterleeren Raum? Erwägungen, Hoffnungen, Befürchtungen, Konzepte dieser Art haben Nietzsche als ersten bewegt und heftig erschüttert; das war sein Schicksal, bleibt sein Verdienst. Die Verantwortung behielt er dem »höheren« Menschen vor.",
+        "Kehren wir nochmals zum Bild des Bahnhofes zurück. Es wäre denkbar, daß der Zug ohne den Menschen weiterfährt, der über seinen Geschäften die Abfahrt versäumt. Es wäre auch denkbar, daß der Mensch auf ein Nebengeleis geschoben wird. Das wäre eine Bewegung, wie sie im Lauf der Erdgeschichte schon oftmals stattgefunden hat.",
+        "Befürchtungen in dieser Hinsicht mehren sich – Vermutungen, daß Formen der Verhärtung, Verholzung, Versteinerung drohen. Das Leben läßt in solchen Fällen seine Maske zurück. In jedem Tiergarten hat man diesen Eindruck starrer, oft wundervoller, unwandelbarer Perfektion.",
+        "Erstarrung droht heute durch die Ratio mit ihrer präzisen, unbarmherzigen Maßgebung, vor allem im technischen Bereich. Der Vergleich mit dem Insektenreich und insbesondere mit seinen staatenbildenden Arten liegt daher nah. Er gibt einen guten Beleg für die erwähnte Wiederkehr der Prinzipien.",
+        "Auf den verschiedensten Stufen setzt das Leben zu solchen Lösungen an. Zu den gemeinsamen Kennzeichen gehören Staaten-, Stock- und Koloniebildung, Schaffung von biologischen Klassen, die stärker differenzieren als soziale und ökonomische, Spezialisierung und Sozialisierung des Geschlechtlichen, kollektive Brutfürsorge, Großbauten, Speicherwirtschaft und anderes. Es muß sich hier um ein großes und ständiges Anliegen handeln, das sich bereits an den frühesten Formen erprobt und mit ihnen experimentiert."
+      ],
+      "en_paragraphs": [
+        "To what extent is man responsible for his evolution? To what extent can he control whether, especially with respect to freedom, his progress is an ascent, a standstill, or a regression? And to what can this responsibility attach itself amid the loneliness of the desert, in god-empty space? Reflections, hopes, fears, concepts of this kind were the first to move Nietzsche and shake him violently; that was his fate and remains his merit. He reserved responsibility for the `higher` man.",
+        "Let us return once more to the image of the railway station. It would be conceivable that the train goes on without the man who, preoccupied with his affairs, misses the departure. It would also be conceivable that man is shunted onto a siding. That would be a movement of the kind that has already happened many times in the course of earth-history.",
+        "Fears in this regard are growing - suspicions that forms of hardening, lignification, petrification threaten. In such cases life leaves its mask behind. In every zoological garden one has this impression of rigid, often marvelous, unalterable perfection.",
+        "Today ossification threatens through `ratio` with its precise, merciless imposition of measure, above all in the technical sphere. The comparison with the insect realm and especially with its state-forming species therefore lies close at hand. It furnishes good evidence for the recurrence of principles already mentioned.",
+        "At the most various levels, life moves toward such solutions. Among the common marks are state-, hive-, and colony-formation, the creation of biological classes that differentiate more sharply than social and economic ones, specialization and socialization of the sexual, collective brood-care, grand constructions, storage economy, and more besides. What must be at work here is a great and constant concern that already tries itself out on the earliest forms and experiments with them."
+      ],
+      "paragraph_alignment": {
+        "de_count": 5,
+        "en_count": 5,
+        "aligned": true,
+        "row_count": 5
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/53-siderische-einteilungen.md"
+    },
+    {
+      "handle": "zm:159",
+      "id": 159,
+      "label": "§159",
+      "part_slug": "siderische-einteilungen",
+      "part_title_de": "Siderische Einteilungen",
+      "part_title_en": "Sidereal Divisions",
+      "de": "Utopien, die in diese Richtung zielen, sind häufig ausgesponnen worden, so bereits in Campanellas um 1602 entworfenem »Sonnenstaat«. Campanella nimmt eine doppelte Offenbarung an: durch die Bibel und durch die Natur. Der Physiker darf sich ebensowenig auf die Bibel berufen wie der Theologe auf das Naturgesetz. Die Kluft zwischen beiden überbrückt synoptisch der Metaphysiker. An der Spitze des Sonnenstaates steht ein priesterlicher Monarch. Es gibt keine Grenzen, kein Privateigentum. Der Arbeitstag hat vier Stunden, die Kindererzeugung und -erziehung regelt der Staat.\n\nIn Fouriers System eines utopischen Sozialismus, das während des ersten Drittels des 19. Jahrhunderts entwickelt wurde, wird die Welt als eine im Guß mißlungene Schöpfung betrachtet, die aus sich heraus durch Elementarereignisse höhere Phasen gebiert. Der Mensch trägt durch seine Wissenschaft dazu bei. So bildet er über dem Nordpol eine Lichtkrone, deren Aura die vereisten Länder belebt und fruchtbar macht. Der Mensch verändert sich physiologisch, er wird größer und weit über hundert Jahre alt. Auch in die Tierwelt greift er genetisch ein. Die Erdbevölkerung erreicht bei drei Milliarden eine konstante Zahl. Die Frauen sondern sich in biologische Klassen, von denen die Erzeugerinnen Kinder gebären; die Geliebten bleiben kinderlos. Die Welt wird durch einen Omniarchen regiert. Die musische Begabung wird generell; eine Periode des Glückes wirkt sich nicht nur auf den Menschen, sondern auch auf die Tierwelt und die unbelebte Schöpfung aus. Fouriers Lehre hat, ähnlich wie die von Saint-Simon, besonders in der Geschichte des französischen Sozialismus und der Julirevolution eine Rolle gespielt. Sie hat syndikalistische und anarchistische Geister ebenso befruchtet wie fast jedes sozialistische Bestreben in seinen Anfängen. Daher hat sie viel zu den Umstürzen beigetragen, mußte aber, wie jeder Glückstraum, verblassen, wo sie dem Staatsplan und seiner Räson begegnete. Dennoch ist es möglich, daß sie, zwar nicht in den oft absurden Details, wohl aber in ihrer dichterischen Absicht, neue Anziehung gewinnt, wenn erdrevolutionäre Mächte aus den weltrevolutionären Plänen stärker hervortreten.",
+      "en": "Utopias aiming in this direction have often been spun out, already in Campanella's `City of the Sun,` drafted around 1602. Campanella assumes a double revelation: through the Bible and through nature. The physicist may no more appeal to the Bible than the theologian to natural law. The metaphysician bridges the gulf between the two synoptically. At the head of the `City of the Sun` stands a priestly monarch. There are no borders, no private property. The working day lasts four hours; the state regulates the begetting and upbringing of children.\n\nIn Fourier's system of utopian socialism, developed during the first third of the nineteenth century, the world is regarded as a creation that miscarried in the casting and that of itself gives birth to higher phases through elemental events. Man contributes to this through his science. Thus he forms above the North Pole a crown of light whose aura revivifies the frozen lands and makes them fruitful. Man changes physiologically; he grows larger and lives well beyond a hundred years. He intervenes genetically in the animal world as well. The earth's population reaches a constant number at three billion. Women sort themselves into biological classes, of which the begetters bear children; the beloved remain childless. The world is governed by an Omniarch. The gift of the Muses becomes general; a period of happiness affects not only man but also the animal world and inanimate creation. Fourier's doctrine, like that of Saint-Simon, played a role above all in the history of French socialism and the July Revolution. It fertilized syndicalist and anarchist spirits just as it did almost every socialist endeavor in its beginnings. It therefore contributed much to the upheavals, but like every dream of happiness it had to fade where it encountered the state-plan and its reason. Yet it is possible that, if not in its often absurd details, then in its poetic intention, it may regain attraction when earth-revolutionary powers step more strongly forth from the world-revolutionary plans.",
+      "de_paragraphs": [
+        "Utopien, die in diese Richtung zielen, sind häufig ausgesponnen worden, so bereits in Campanellas um 1602 entworfenem »Sonnenstaat«. Campanella nimmt eine doppelte Offenbarung an: durch die Bibel und durch die Natur. Der Physiker darf sich ebensowenig auf die Bibel berufen wie der Theologe auf das Naturgesetz. Die Kluft zwischen beiden überbrückt synoptisch der Metaphysiker. An der Spitze des Sonnenstaates steht ein priesterlicher Monarch. Es gibt keine Grenzen, kein Privateigentum. Der Arbeitstag hat vier Stunden, die Kindererzeugung und -erziehung regelt der Staat.",
+        "In Fouriers System eines utopischen Sozialismus, das während des ersten Drittels des 19. Jahrhunderts entwickelt wurde, wird die Welt als eine im Guß mißlungene Schöpfung betrachtet, die aus sich heraus durch Elementarereignisse höhere Phasen gebiert. Der Mensch trägt durch seine Wissenschaft dazu bei. So bildet er über dem Nordpol eine Lichtkrone, deren Aura die vereisten Länder belebt und fruchtbar macht. Der Mensch verändert sich physiologisch, er wird größer und weit über hundert Jahre alt. Auch in die Tierwelt greift er genetisch ein. Die Erdbevölkerung erreicht bei drei Milliarden eine konstante Zahl. Die Frauen sondern sich in biologische Klassen, von denen die Erzeugerinnen Kinder gebären; die Geliebten bleiben kinderlos. Die Welt wird durch einen Omniarchen regiert. Die musische Begabung wird generell; eine Periode des Glückes wirkt sich nicht nur auf den Menschen, sondern auch auf die Tierwelt und die unbelebte Schöpfung aus. Fouriers Lehre hat, ähnlich wie die von Saint-Simon, besonders in der Geschichte des französischen Sozialismus und der Julirevolution eine Rolle gespielt. Sie hat syndikalistische und anarchistische Geister ebenso befruchtet wie fast jedes sozialistische Bestreben in seinen Anfängen. Daher hat sie viel zu den Umstürzen beigetragen, mußte aber, wie jeder Glückstraum, verblassen, wo sie dem Staatsplan und seiner Räson begegnete. Dennoch ist es möglich, daß sie, zwar nicht in den oft absurden Details, wohl aber in ihrer dichterischen Absicht, neue Anziehung gewinnt, wenn erdrevolutionäre Mächte aus den weltrevolutionären Plänen stärker hervortreten."
+      ],
+      "en_paragraphs": [
+        "Utopias aiming in this direction have often been spun out, already in Campanella's `City of the Sun,` drafted around 1602. Campanella assumes a double revelation: through the Bible and through nature. The physicist may no more appeal to the Bible than the theologian to natural law. The metaphysician bridges the gulf between the two synoptically. At the head of the `City of the Sun` stands a priestly monarch. There are no borders, no private property. The working day lasts four hours; the state regulates the begetting and upbringing of children.",
+        "In Fourier's system of utopian socialism, developed during the first third of the nineteenth century, the world is regarded as a creation that miscarried in the casting and that of itself gives birth to higher phases through elemental events. Man contributes to this through his science. Thus he forms above the North Pole a crown of light whose aura revivifies the frozen lands and makes them fruitful. Man changes physiologically; he grows larger and lives well beyond a hundred years. He intervenes genetically in the animal world as well. The earth's population reaches a constant number at three billion. Women sort themselves into biological classes, of which the begetters bear children; the beloved remain childless. The world is governed by an Omniarch. The gift of the Muses becomes general; a period of happiness affects not only man but also the animal world and inanimate creation. Fourier's doctrine, like that of Saint-Simon, played a role above all in the history of French socialism and the July Revolution. It fertilized syndicalist and anarchist spirits just as it did almost every socialist endeavor in its beginnings. It therefore contributed much to the upheavals, but like every dream of happiness it had to fade where it encountered the state-plan and its reason. Yet it is possible that, if not in its often absurd details, then in its poetic intention, it may regain attraction when earth-revolutionary powers step more strongly forth from the world-revolutionary plans."
+      ],
+      "paragraph_alignment": {
+        "de_count": 2,
+        "en_count": 2,
+        "aligned": true,
+        "row_count": 2
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/53-siderische-einteilungen.md"
     }
   ],
   "glossary": [
@@ -5207,7 +5299,7 @@
         "Astral Divisions"
       ],
       "status": "tentative",
-      "notes": "Working after §§85-156. `Siderisch` here begins not as astrology in the narrow sense but as earth-history viewed as the history of a heavenly body, widening at once into cosmogony, apocalypse, technical catastrophe, and the question of whether even cyclical cosmologies still require an axis, a body, and limits to time. By §§88-90 the part also binds modern doom to human work, technocracy, the loss of transcendental counterweight, and the claim that catastrophe can remain collectively unavoidable yet become intensively solvable for the individual. By §§91-93 it adds the martyr standard, the image of the world as a burnable house in human hands, and the first explicit forecasts of political unity, overstrain, and planetary process. By §§94-96 it turns spaceflight into an earth-historical sign, approaches Nietzsche's `wars without powder`, and makes the mismatch between transhistorical means and historical war explicit. By §§97-99 it shifts into atmosphere, monotony, substance-loss, and the possibility that metaphysical hunger itself could die away under technical perfection. By §§100-102 it closes the first substance-account of the part through credit, debt, and countervalue, presses equality into inner `So-Sein`, and binds the whole exchange directly to the title-image at the time wall. By §§103-105 it turns crisis into initiation and passage, reintroduces astrology as the model of a superior synoptic method, and widens the cut into geological epochs, great years, and nearly invisible partial catastrophes. By §§106-108 it rebalances catastrophe by the entry of new types, treats geological disquiet as prior to objective findings, and closes on ice and climate under the sign of a larger cosmic economy. By §§109-111 it tests geological unrest against happiness, reintroduces harmony above death through `Schöpfungsplan` and `Weltplan`, and returns to the measurable field through the geometry of progression: altered earth-color, diminishing wilderness, angle, and row. By §§112-114 it sharpens that progression into the right angle, the nest-versus-plan conflict, the threatened Faustian plan, and finally the methodological claim that geology, history, and freedom are answered differently on this side and beyond the time wall. By §§115-117 it treats humanity itself as layer-forming, reads mass increase and mass revolution as epochal symptoms rather than as mere machine-effects, and reaches `Urgrund` again through two models of world-spiritualization, one artistic and one earth-force. By §§118-120 it turns the same register toward earth-sense, the deliberate preference for `Urgrund` over `Weltgeist`, the possibility of new freedom beyond the wall, and the rare discipline of spiritual sovereignty. By §§121-123 it binds that freedom-problem to voluntariness, invisible cause, antaean mistrust of the elements, technical flight into experiment, and meteorology as a daily planetary science that revives the augur-function inside human knowledge. By §§124-126 it turns the same movement toward electrification: the lightning rod as earth-historical sign, electricity as invisible ordering distinct from steam's brutal visibility, the seam-point of matter and mind at the time wall, and Franklin's city-fields as heralds of a new age entering through weak and meager forms. By §§127-129 it extends electrification into the first organ of antaean unrest, the nerve-like refinement and spiritualization of the technical world, the invisible democracy and world-will moving under `Weltplan`, and finally the explicit admission that the whole electrical argument is analogical and that the present night-view of nature is only a provisional workshop-style awaiting a fuller, ensouled recognition. By §§130-132 it turns the same movement toward the charged earth-envelope and the intelligent ship: the earth-historical aspect overarches the world-historical, transmission becomes world-language and substance-change, the plan enters a magnetic world of stronger answers, and freedom migrates toward the mantic compass under conditions where steering itself becomes doubtful. By §§133-135 it pushes the same movement into anthropology, reconnaissance at the wall, and absolute dating: the unrest becomes biological, going to the time wall becomes listening for signals, and historical and biological chronistics are subordinated to an earth-historical, earth-revolutionary system of time-setting. By §§136-138 it turns the same movement into qualitative station-time, extinction-economy, and total life-movement: elementary clocks revise phylogenetic time, Sindbad's fish-island ties human action to cosmic motion, extinction follows a new management of the earth-household, and the spread of types is treated as a total movement to be grasped earth-historically or even cosmologically. By §§139-141 it turns the same movement toward volcanic and solar periods, atmospheric instrumentation, and spiral catastrophe-theory: historical memory proves too short for the relevant scales, atmospheric unrest becomes part of everyday orientation, and Darwinian continuity is re-read through periodization, Cuvier, and the modern preference for `genes` over `Genesis`. By §§142-144 it turns the same movement toward primal generation, hominisation crisis, and mythic godfall: catastrophe is made insufficient, undifferentiated reserves are reintroduced beneath species-formation, self-conscious layer-work brings freedom and responsibility into collision with earth-history, and the time wall appears as the last boundary-mark in an antaean revolt after the fall of the gods. By §§145-147 it turns the same movement toward experiment, research, and method itself: Proteus-work, mutation-gardens, and the plan's victory over the individual, then research as visible progress in `Weltplan`, and finally method as a way already affirmed beneath thought. By §§148-150 it turns the same movement toward advance showing, nomos-loss, and species-technique: the researcher becomes `Vorweiser`, conductivity and acceptance accelerate, the fading of divine boundary-guardianship deepens the protean shudder, and artificial insemination is judged more consequential by principle than by scale. By §§151-153 it turns the same movement toward descent, registration, and evolutionary responsibility: acceptance is treated as already accomplished, the experiment enters the intermediate field at the time wall, descent becomes a registry and power problem, and the state is drawn toward simplification and monopolization under an earth-spiritual and earth-historical pressure. By §§154-156 it turns the same movement toward deeper causality, new type, and scale correction: experiment and specific intelligence are reduced to auxiliaries of a protean power, the `New House` changes the setup itself and multiplies reserves, and `décadence` becomes insular once the larger formation comes into view.",
+      "notes": "Working after §§85-159. `Siderisch` here begins not as astrology in the narrow sense but as earth-history viewed as the history of a heavenly body, widening at once into cosmogony, apocalypse, technical catastrophe, and the question of whether even cyclical cosmologies still require an axis, a body, and limits to time. By §§88-90 the part also binds modern doom to human work, technocracy, the loss of transcendental counterweight, and the claim that catastrophe can remain collectively unavoidable yet become intensively solvable for the individual. By §§91-93 it adds the martyr standard, the image of the world as a burnable house in human hands, and the first explicit forecasts of political unity, overstrain, and planetary process. By §§94-96 it turns spaceflight into an earth-historical sign, approaches Nietzsche's `wars without powder`, and makes the mismatch between transhistorical means and historical war explicit. By §§97-99 it shifts into atmosphere, monotony, substance-loss, and the possibility that metaphysical hunger itself could die away under technical perfection. By §§100-102 it closes the first substance-account of the part through credit, debt, and countervalue, presses equality into inner `So-Sein`, and binds the whole exchange directly to the title-image at the time wall. By §§103-105 it turns crisis into initiation and passage, reintroduces astrology as the model of a superior synoptic method, and widens the cut into geological epochs, great years, and nearly invisible partial catastrophes. By §§106-108 it rebalances catastrophe by the entry of new types, treats geological disquiet as prior to objective findings, and closes on ice and climate under the sign of a larger cosmic economy. By §§109-111 it tests geological unrest against happiness, reintroduces harmony above death through `Schöpfungsplan` and `Weltplan`, and returns to the measurable field through the geometry of progression: altered earth-color, diminishing wilderness, angle, and row. By §§112-114 it sharpens that progression into the right angle, the nest-versus-plan conflict, the threatened Faustian plan, and finally the methodological claim that geology, history, and freedom are answered differently on this side and beyond the time wall. By §§115-117 it treats humanity itself as layer-forming, reads mass increase and mass revolution as epochal symptoms rather than as mere machine-effects, and reaches `Urgrund` again through two models of world-spiritualization, one artistic and one earth-force. By §§118-120 it turns the same register toward earth-sense, the deliberate preference for `Urgrund` over `Weltgeist`, the possibility of new freedom beyond the wall, and the rare discipline of spiritual sovereignty. By §§121-123 it binds that freedom-problem to voluntariness, invisible cause, antaean mistrust of the elements, technical flight into experiment, and meteorology as a daily planetary science that revives the augur-function inside human knowledge. By §§124-126 it turns the same movement toward electrification: the lightning rod as earth-historical sign, electricity as invisible ordering distinct from steam's brutal visibility, the seam-point of matter and mind at the time wall, and Franklin's city-fields as heralds of a new age entering through weak and meager forms. By §§127-129 it extends electrification into the first organ of antaean unrest, the nerve-like refinement and spiritualization of the technical world, the invisible democracy and world-will moving under `Weltplan`, and finally the explicit admission that the whole electrical argument is analogical and that the present night-view of nature is only a provisional workshop-style awaiting a fuller, ensouled recognition. By §§130-132 it turns the same movement toward the charged earth-envelope and the intelligent ship: the earth-historical aspect overarches the world-historical, transmission becomes world-language and substance-change, the plan enters a magnetic world of stronger answers, and freedom migrates toward the mantic compass under conditions where steering itself becomes doubtful. By §§133-135 it pushes the same movement into anthropology, reconnaissance at the wall, and absolute dating: the unrest becomes biological, going to the time wall becomes listening for signals, and historical and biological chronistics are subordinated to an earth-historical, earth-revolutionary system of time-setting. By §§136-138 it turns the same movement into qualitative station-time, extinction-economy, and total life-movement: elementary clocks revise phylogenetic time, Sindbad's fish-island ties human action to cosmic motion, extinction follows a new management of the earth-household, and the spread of types is treated as a total movement to be grasped earth-historically or even cosmologically. By §§139-141 it turns the same movement toward volcanic and solar periods, atmospheric instrumentation, and spiral catastrophe-theory: historical memory proves too short for the relevant scales, atmospheric unrest becomes part of everyday orientation, and Darwinian continuity is re-read through periodization, Cuvier, and the modern preference for `genes` over `Genesis`. By §§142-144 it turns the same movement toward primal generation, hominisation crisis, and mythic godfall: catastrophe is made insufficient, undifferentiated reserves are reintroduced beneath species-formation, self-conscious layer-work brings freedom and responsibility into collision with earth-history, and the time wall appears as the last boundary-mark in an antaean revolt after the fall of the gods. By §§145-147 it turns the same movement toward experiment, research, and method itself: Proteus-work, mutation-gardens, and the plan's victory over the individual, then research as visible progress in `Weltplan`, and finally method as a way already affirmed beneath thought. By §§148-150 it turns the same movement toward advance showing, nomos-loss, and species-technique: the researcher becomes `Vorweiser`, conductivity and acceptance accelerate, the fading of divine boundary-guardianship deepens the protean shudder, and artificial insemination is judged more consequential by principle than by scale. By §§151-153 it turns the same movement toward descent, registration, and evolutionary responsibility: acceptance is treated as already accomplished, the experiment enters the intermediate field at the time wall, descent becomes a registry and power problem, and the state is drawn toward simplification and monopolization under an earth-spiritual and earth-historical pressure. By §§154-156 it turns the same movement toward deeper causality, new type, and scale correction: experiment and specific intelligence are reduced to auxiliaries of a protean power, the `New House` changes the setup itself and multiplies reserves, and `décadence` becomes insular once the larger formation comes into view. By §§157-159 it turns the same movement toward progress in freedom, revolutionary consumption, insect-state hardening, and utopian return: metaphysical freedom is distinguished from historical freedoms, revolutions are said to realize deeper ends than the political ones they name, insect-state solutions reappear under `ratio`, and older utopian intentions from Campanella and Fourier are reread against state-plan and earth-revolutionary power.",
       "evidence": []
     },
     {
@@ -5958,6 +6050,24 @@
       "section": "zm:156",
       "file": "texts/zeitmauer/parts/52-siderische-einteilungen.md",
       "note": "`Décadence` becomes second-rank and insular under enlarged scale, while barbarism appears as the graver danger."
+    },
+    {
+      "handle": "zm:157:progress-in-freedom",
+      "section": "zm:157",
+      "file": "texts/zeitmauer/parts/53-siderische-einteilungen.md",
+      "note": "Historical progress is reduced to progress in freedom, yet revolutions consume freedom and realize ends other than the political ones they intend."
+    },
+    {
+      "handle": "zm:158:insect-state",
+      "section": "zm:158",
+      "file": "texts/zeitmauer/parts/53-siderische-einteilungen.md",
+      "note": "Man can be left behind or shunted aside, while `ratio` and insect-state solutions reactivate old principles as one line of hardening."
+    },
+    {
+      "handle": "zm:159:utopian-intention",
+      "section": "zm:159",
+      "file": "texts/zeitmauer/parts/53-siderische-einteilungen.md",
+      "note": "Campanella and Fourier prefigure state-regulated life, but utopian poetic intention may return only in altered relation to state-plan and earth-revolutionary power."
     }
   ],
   "notes": [
@@ -6728,6 +6838,30 @@
       "file": "texts/zeitmauer/parts/52-siderische-einteilungen.md",
       "kind": "translation_note",
       "note": "The short section works only if enlarged scale, insular `décadence`, and barbarism's greater danger stay in one view."
+    },
+    {
+      "handle": "note:zm:157:progress-in-freedom",
+      "section": "zm:157",
+      "anchor": "zm:157:progress-in-freedom",
+      "file": "texts/zeitmauer/parts/53-siderische-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The section only lands if metaphysical freedom, historical freedoms, revolutionary consumption, and the shift from constituent elements to constitution stay ordered."
+    },
+    {
+      "handle": "note:zm:158:insect-state",
+      "section": "zm:158",
+      "anchor": "zm:158:insect-state",
+      "file": "texts/zeitmauer/parts/53-siderische-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The section depends on keeping responsibility, possible human sidelining, `ratio`, and insect-state solutions together without flattening them into simple dystopia."
+    },
+    {
+      "handle": "note:zm:159:utopian-intention",
+      "section": "zm:159",
+      "anchor": "zm:159:utopian-intention",
+      "file": "texts/zeitmauer/parts/53-siderische-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The section works only if Campanella/Fourier detail, state-plan, and the possible return of utopian poetic intention under earth-revolutionary powers stay in one frame."
     },
     {
       "handle": "note:journal:mumford-bridge",
@@ -7938,6 +8072,36 @@
       "note": "The crisis now changes scale: `décadence` becomes a second-rank, local sign under enlarged view, while barbarism appears as the greater danger."
     },
     {
+      "from": "zm:157:progress-in-freedom",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now turns the progress-question against itself: revolutions consume freedom, narrow the track, and end in a constitution other than the one politically intended."
+    },
+    {
+      "from": "zm:157:progress-in-freedom",
+      "relation": "extends",
+      "to": "thread:predecided-world",
+      "note": "The goal is always other than the one intended; deeper intentions than the political ones realize themselves, and the settled constitution steps out of fading constituent forces."
+    },
+    {
+      "from": "zm:158:insect-state",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now threatens human sidelining directly: man can miss the departure or be shunted aside while `ratio` and insect-state solutions reactivate old principles."
+    },
+    {
+      "from": "zm:159:utopian-intention",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now passes through utopian form: Campanella and Fourier prefigure state-regulated life, but utopian happiness fades before state-plan and may return only under altered earth-revolutionary pressure."
+    },
+    {
+      "from": "zm:159:utopian-intention",
+      "relation": "extends",
+      "to": "thread:predecided-world",
+      "note": "World-revolutionary plans do not exhaust the movement; deeper earth-revolutionary powers overtake them and may reactivate only their poetic intention."
+    },
+    {
       "from": "note:journal:mumford-bridge",
       "relation": "grounds",
       "to": "thread:mumford-bridge",
@@ -8131,7 +8295,10 @@
       "zm:153",
       "zm:154",
       "zm:155",
-      "zm:156"
+      "zm:156",
+      "zm:157",
+      "zm:158",
+      "zm:159"
     ],
     "term_handles": [
       "term:an-der-zeitmauer",
@@ -8246,7 +8413,10 @@
       "zm:153:evolution-responsibility",
       "zm:154:protean-power",
       "zm:155:new-type",
-      "zm:156:decadence-insular"
+      "zm:156:decadence-insular",
+      "zm:157:progress-in-freedom",
+      "zm:158:insect-state",
+      "zm:159:utopian-intention"
     ],
     "note_handles": [
       "note:zm:1:seidenschwanz",
@@ -8345,6 +8515,9 @@
       "note:zm:154:protean-power",
       "note:zm:155:new-type",
       "note:zm:156:decadence-insular",
+      "note:zm:157:progress-in-freedom",
+      "note:zm:158:insect-state",
+      "note:zm:159:utopian-intention",
       "note:journal:mumford-bridge",
       "note:journal:goethe-leibniz-frame",
       "note:journal:predecided-world"
@@ -8571,7 +8744,10 @@
         "zm:153",
         "zm:154",
         "zm:155",
-        "zm:156"
+        "zm:156",
+        "zm:157",
+        "zm:158",
+        "zm:159"
       ]
     },
     "by_handle": {
@@ -8781,15 +8957,15 @@
       },
       "note:journal:goethe-leibniz-frame": {
         "kind": "note",
-        "index": 97
+        "index": 100
       },
       "note:journal:mumford-bridge": {
         "kind": "note",
-        "index": 96
+        "index": 99
       },
       "note:journal:predecided-world": {
         "kind": "note",
-        "index": 98
+        "index": 101
       },
       "note:zm:100:substance-surrender": {
         "kind": "note",
@@ -9026,6 +9202,18 @@
       "note:zm:156:decadence-insular": {
         "kind": "note",
         "index": 95
+      },
+      "note:zm:157:progress-in-freedom": {
+        "kind": "note",
+        "index": 96
+      },
+      "note:zm:158:insect-state": {
+        "kind": "note",
+        "index": 97
+      },
+      "note:zm:159:utopian-intention": {
+        "kind": "note",
+        "index": 98
       },
       "note:zm:15:titanic-record": {
         "kind": "note",
@@ -9738,6 +9926,30 @@
       "zm:156:decadence-insular": {
         "kind": "chunk",
         "index": 96
+      },
+      "zm:157": {
+        "kind": "section",
+        "index": 156
+      },
+      "zm:157:progress-in-freedom": {
+        "kind": "chunk",
+        "index": 97
+      },
+      "zm:158": {
+        "kind": "section",
+        "index": 157
+      },
+      "zm:158:insect-state": {
+        "kind": "chunk",
+        "index": 98
+      },
+      "zm:159": {
+        "kind": "section",
+        "index": 158
+      },
+      "zm:159:utopian-intention": {
+        "kind": "chunk",
+        "index": 99
       },
       "zm:15:titanic-record": {
         "kind": "chunk",
@@ -10947,6 +11159,42 @@
           "relation": "extends",
           "to": "thread:time-crisis",
           "note": "The crisis now changes scale: `décadence` becomes a second-rank, local sign under enlarged view, while barbarism appears as the greater danger."
+        }
+      ],
+      "zm:157:progress-in-freedom": [
+        {
+          "from": "zm:157:progress-in-freedom",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now turns the progress-question against itself: revolutions consume freedom, narrow the track, and end in a constitution other than the one politically intended."
+        },
+        {
+          "from": "zm:157:progress-in-freedom",
+          "relation": "extends",
+          "to": "thread:predecided-world",
+          "note": "The goal is always other than the one intended; deeper intentions than the political ones realize themselves, and the settled constitution steps out of fading constituent forces."
+        }
+      ],
+      "zm:158:insect-state": [
+        {
+          "from": "zm:158:insect-state",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now threatens human sidelining directly: man can miss the departure or be shunted aside while `ratio` and insect-state solutions reactivate old principles."
+        }
+      ],
+      "zm:159:utopian-intention": [
+        {
+          "from": "zm:159:utopian-intention",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now passes through utopian form: Campanella and Fourier prefigure state-regulated life, but utopian happiness fades before state-plan and may return only under altered earth-revolutionary pressure."
+        },
+        {
+          "from": "zm:159:utopian-intention",
+          "relation": "extends",
+          "to": "thread:predecided-world",
+          "note": "World-revolutionary plans do not exhaust the movement; deeper earth-revolutionary powers overtake them and may reactivate only their poetic intention."
         }
       ],
       "zm:15:titanic-record": [

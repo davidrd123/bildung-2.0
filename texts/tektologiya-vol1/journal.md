@@ -500,3 +500,25 @@ Review notes:
 - [visual candidate] a ladder: metaphor -> scientific analogy -> structural explanation
 - [visual candidate] an analogy map showing course-similarity / role-similarity / mechanism / structural ground
 - [visual candidate] Newton's apple recast as the shift from accidental analogy to planful heuristic use
+
+## 2026-04-07 - The Closing Polemic Restates the Volume
+
+`5.4` matters less for the weakness of the named critics than for the form of the reply. Bogdanov uses them to restate three claims that the volume had already been building piece by piece. The first is the difference between diagnosis and prescription. A tektological law says where a system actually breaks, bottlenecks, or changes course; it does not by itself `call` anyone to imitate the weak point. The practical inference is the opposite: strengthen the weakest link. That point had already been developed through `4.2`, `4.3`, `5.1`, and `5.2`, but here Bogdanov finally says it in polemical plainness.
+
+The second gain is that the defense of terminology is now explicit. From `3.a` onward the project increasingly relied on coined mechanism-terms because the argument was no longer only declaring a universal science but building its inner grammar. `5.4` shows that Bogdanov knew exactly how exposed this would look from outside. The jargon is not incidental ornament. It is the cost of naming portable organizational forms in a way that can eventually replace masses of older, domain-bound vocabulary.
+
+Third, the answer to the charge of `idealism` reaffirms the boundary with philosophy laid down in `2.c`. Tektology does not need to deny `matter in itself` or `spirit`; it simply has nowhere to use them. That is an important clarification of method. The science remains within phenomena, their linkage, and their regularities. Optional metaphysical completions may be added by readers if they wish, but they do no work inside the analysis itself.
+
+The closing standard for criticism is therefore stronger than the specific rebuttals. Before mocking the terms or alleging political consequences, criticism has to face the prior question: is a universal organizational science possible? If not, why not? If yes, then the dispute becomes one of how well its foundations are being laid. That is a better statement of the burden of volume `1` than many of its own opening declarations.
+
+Current conclusion:
+
+- `5.4` is not a detachable appendix but the adversarial recap of the whole volume
+- no new glossary term is earned here; the section pressure-tests `complex`, `elements`, `activities-resistances`, and `law of leasts`
+- the first sequential pass through the volume-1 main text is now complete
+- the next clean move is consolidation rather than immediate widening
+
+Review notes:
+
+- [visual candidate] a fork diagram for `law of leasts`: descriptive bottleneck -> practical reinforcement, not normative downward leveling
+- [visual candidate] a volume-1 arc diagram: point of view -> mechanisms -> regulation -> applications -> polemical recap

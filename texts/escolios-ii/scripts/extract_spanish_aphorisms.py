@@ -154,6 +154,13 @@ def normalize_text(text: str) -> str:
         "siglo.Los": "siglo. Los",
         "en síes la": "en sí es la",
         "consiguelo que": "consigue lo que",
+        "la critica como": "la crítica como",
+        "se, encuentra": "se encuentra",
+        "en la que detesta": "en lo que detesta",
+        "vida' privada": "vida privada",
+        "tiende ganas": "tiene ganas",
+        "mena graves": "menos graves",
+        "el qué los comete": "el que los comete",
     }
     for old, new in replacements.items():
         value = value.replace(old, new)

@@ -192,3 +192,17 @@ The intermediate `sources/` form is no longer hypothetical. Uexküll has now dem
 **Implication**
 
 Uexkuell is no longer only a biological support line in the repo. He is now one of the clearest anchors for the emerging predecided-world thread.
+
+## 2026-04-07 — Translation-resistance method note
+
+**What the Planmäßigkeit / Uexküll chat surfaced**
+
+The April 6 chat generated a broader exploration of untranslatability, KR, and conceptual representation. Most of that was exploratory weaving. Two method findings survive and belong here because a cold return to this campaign should find them:
+
+- **Translation resistance is evidence, not a deficit.** The project already treats `status: open` entries and untranslated German as positive methodological states. What the chat sharpened: the *shape* of the failure — where and how English breaks — is itself a finding about conceptual structure. When a term resists, note what the resistance revealed, not just that it occurred. Watch for conceptual false friends (renderings that are lexically plausible but activate the wrong network, like `environment` for `Umwelt`).
+
+- **Source-language secondary commentary is underused.** German-language scholars writing about Uexküll operate inside the same morphological field. Their commentary can engage the concepts directly without the translation overhead. On the next return, bring one German-language secondary piece and see whether it changes what the passage makes visible. This converges with the source-role taxonomy's category 2 (see `00-Notes/distillations/2026-04-07-earned-distillation-from-source-role-taxonomy-chat-and-deepresearch.md`).
+
+**What stays in the chat, not here**
+
+The fourfold failure-mode taxonomy, KR/ontology-alignment parallels, functorial mappings, ologs, Leibniz's characteristica, conceptual blending, and interpretability speculation. See `00-Notes/distillations/2026-04-07-earned-distillation-from-planmaessigkeit-uexkuell-chat.md` for the full filtration.

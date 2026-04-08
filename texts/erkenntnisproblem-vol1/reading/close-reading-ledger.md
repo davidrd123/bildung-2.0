@@ -363,6 +363,72 @@ Current downstream use:
 - reflected in Part `62`
 - held locally while the next tranche shows how Campanella turns alienation into the subjective consequence of this model
 
+### Campanella: self-consciousness interrupts alienation
+
+Passage base:
+
+- Part `63`
+- printed pages `248-251`
+
+Finding:
+
+- Campanella's `alienari` formula is not left standing as the final word; it forces a second route in which doubt already contains certainty and self-consciousness no longer fits the model of object acting on organ
+- at that point `cognoscere` and `esse` become only formally separable, while `Selbstbewußtsein` is described as both `verborgen` and `gewiß`
+
+Why it matters:
+
+- this is the place where the natural-philosophic epistemology is compelled to admit a non-objective certainty it cannot explain with its earlier motion-and-effect schema
+- it also makes `alienari` translation-resistant in a useful way: the term cannot be flattened into harmless estrangement because the passage drives it all the way to `furor` and `insania` before reversing toward self-certainty
+
+Current downstream use:
+
+- reflected in Part `63`
+- held locally while the next tranche shows whether participation in divine ideas stabilizes this repair or reabsorbs it into metaphysical theology
+
+### Campanella: `ratio` refuses to stay an `ens rationis`
+
+Passage base:
+
+- Part `64`
+- printed pages `252-255`
+
+Finding:
+
+- Campanella now says that perception itself includes a logical operation and `Urteilsakt`, so the receptive taking-in of a content cannot be separated from its discursive consideration
+- this yields the sharp local formula `ratio non est Ens rationis`: the basic acts of reason are treated as real powers, not as fictive abstractions
+
+Why it matters:
+
+- the system can no longer sustain a purely sensualist beginning without strain, because determinate perception itself now depends on what it still wants to name only an `unvollkommener Sinn`
+- mathematics becomes the clearest pressure-point for that contradiction: pure relations remain devalued until they are given a real substrate in `absoluter Raum`
+
+Current downstream use:
+
+- reflected in Part `64`
+- held locally while the next tranche shows whether the new ideal/real correspondence actually stabilizes geometry or only ontologizes it
+
+### `Raum und Zeit` opening: mathematical validity is rescued by ontologized space
+
+Passage base:
+
+- Part `65`
+- printed pages `256-259`
+
+Finding:
+
+- Campanella's mathematics problem is answered not by granting pure relation critical autonomy, but by positing `reiner Raum` as a real counterpart and substrate for ideal figures
+- the new `Raum und Zeit` section then makes this explicit by tracing how Italian natural philosophy slowly separates space from body and time from motion
+
+Why it matters:
+
+- this shows the exact form of the transition: relation is being freed, but only under ontological protection
+- Telesio's move is therefore stronger than Cardano's or Scaliger's, because space and time become independent existences whose concepts can no longer be reduced to material content or change of place
+
+Current downstream use:
+
+- reflected in Part `65`
+- held locally while the next tranche shows how far the Telesio line can carry the conceptual independence of space and time
+
 ## Boundary
 
 This ledger is not a second journal and not a free synthesis file.

@@ -166,3 +166,14 @@ The run now reaches `§330` with two more sections:
 This stretch sharpened several lines already active in the volume without needing a large framing essay around them. `§271`, `§280`, `§292`, and `§300` keep returning to the same question from different angles: how does one preserve rank, form, and admiration without collapsing them into system or egalitarian flatness? `§301`, `§306`, `§315`, and `§328` then move the pressure toward grace, legitimacy, and history, treating progress less as neutral development than as a rival definition of what may count as real, good, or lawful.
 
 These pages also forced the first non-trivial source seam repair since the early cleanup passes. The extractor now corrects a few exact witness problems that began to matter only once the live work reached them: `§286` now restores the sentence break after `siglo.`, `§329` now reads `consigue lo`, and `§319-324` have been locally repacked so that one fused aphorism is split and one split aphorism is merged without changing the overall extracted count. The explicit Spanish casualty list still remains unchanged at a single flagged entry: `id 1189`.
+
+## 2026-04-07 — Sections 15 And 16 Added
+
+The run now reaches `§390` with two more sections:
+
+- `§331-360` / printed pages `65-70` in [sections/15-belief-style-and-homage.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/15-belief-style-and-homage.md)
+- `§361-390` / printed pages `70-75` in [sections/16-tragedy-mystery-and-order.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/16-tragedy-mystery-and-order.md)
+
+This pair pushes the volume's methodological and civilizational lines closer together. `§332`, `§350`, and `§358` insist that history cannot be written without value, style, and resistance to hidden anachronism; `§340`, `§344`, and `§360` sharpen the political side of the same argument by showing democracy and despotism as degradations of homage, charity, and public life. The next section then turns more explicitly toward structure: tragedy rather than blunder, mystery rather than mere explanation, legitimacy rather than simple chronology, and tradition not as incoherence but as a fuller field of conditions than the so-called rational society can still recognize.
+
+This stretch also forced another exact source-repair pass, but again only where the live batching encountered it. The extractor now restores `§332`'s `crítica`, fixes `§348`, `§359`, `§360`, `§363`, `§379`, and `§380`, and leaves the rest of the source untouched. The explicit Spanish casualty list still remains unchanged at a single flagged entry: `id 1189`.
