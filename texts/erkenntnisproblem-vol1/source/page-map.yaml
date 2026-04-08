@@ -339,3 +339,59 @@ ranges:
     printed_pages: ["259", "259"]
     trust: "high"
     note: "The running internal heading on printed page 259 / PDF page 283 marks the point where Telesio's independent space concept is contrasted with bodily mass and explicitly made to require a new physics."
+
+  - slug: "der-raum-und-das-kategoriensystem-within-raum-und-zeit"
+    label: "Opening of `Der Raum und das Kategoriensystem` within `Die Begriffe des Raumes und der Zeit`"
+    pdf_pages: [285, 285]
+    printed_pages: ["261", "261"]
+    trust: "high"
+    note: "The running internal heading on printed page 261 / PDF page 285 marks Patrizzi's attempt to think space beyond the inherited categories of substance, accident, body, and spirit."
+
+  - slug: "die-metaphysische-stellung-des-raumes-within-raum-und-zeit"
+    label: "Opening of `Die metaphysische Stellung des Raumes` within `Die Begriffe des Raumes und der Zeit`"
+    pdf_pages: [287, 287]
+    printed_pages: ["263", "263"]
+    trust: "high"
+    note: "The running internal heading on printed page 263 / PDF page 287 marks the turn from the category-break of space toward a metaphysical reconciliation through development and primordial physical filling."
+
+  - slug: "zahl-und-continuum-within-raum-und-zeit"
+    label: "Opening of `Zahl und Continuum` within `Die Begriffe des Raumes und der Zeit`"
+    pdf_pages: [289, 289]
+    printed_pages: ["265", "265"]
+    trust: "high"
+    note: "The running internal heading on printed page 265 / PDF page 289 marks Patrizzi's subordination of arithmetic to geometry and the claim that continuum precedes number."
+
+  - slug: "die-anfaenge-des-differentialbegriffs-within-raum-und-zeit"
+    label: "Opening of `Die Anfänge des Differentialbegriffs` within `Die Begriffe des Raumes und der Zeit`"
+    pdf_pages: [291, 291]
+    printed_pages: ["267", "267"]
+    trust: "high"
+    note: "The running internal heading on printed page 267 / PDF page 291 marks Cassirer's explicit judgment that Patrizzi's minimum-doctrine contains a fruitful motive for the later differential concept while still missing the true analysis of the infinite."
+
+  - slug: "der-begriff-des-unendlichen-within-raum-und-zeit"
+    label: "Opening of `Der Begriff des Unendlichen` within `Die Begriffe des Raumes und der Zeit`"
+    pdf_pages: [293, 293]
+    printed_pages: ["269", "269"]
+    trust: "high"
+    note: "The running internal heading on printed page 269 / PDF page 293 marks the point where Campanella's philosophy of religion and doctrine of spirit are mediated by the idea of the infinite and where Cassirer says the concept of nature itself already corrects the first sensualist epistemology."
+
+  - slug: "kopernikanisches-weltsystem-und-metaphysik-opening-within-naturphilosophie"
+    label: "Opening of `D) Das Kopernikanische Weltsystem und die Metaphysik. — Giordano Bruno` within `Die Naturphilosophie`"
+    pdf_pages: [295, 295]
+    printed_pages: ["271", "271"]
+    trust: "high"
+    note: "Printed page 271 / PDF page 295 opens the Bruno section by fusing the logical and cosmological problems of the infinite under the new astronomical image of the universe."
+
+  - slug: "mathematische-und-aesthetische-momente-des-weltbegriffs-within-bruno"
+    label: "Opening of `Mathematische und ästhetische Momente des Weltbegriffs` within the Bruno section"
+    pdf_pages: [297, 297]
+    printed_pages: ["273", "273"]
+    trust: "high"
+    note: "The running internal heading on printed page 273 / PDF page 297 marks the point where Copernicus' true world-order becomes a question of method, principled unity, and aesthetic harmony."
+
+  - slug: "astronomische-weltansicht-im-verhaeltnis-zu-den-geisteswissenschaften-within-bruno"
+    label: "Opening of `Die astronomische Weltansicht im Verhältnis zu den Geisteswissenschaften` within the Bruno section"
+    pdf_pages: [299, 299]
+    printed_pages: ["275", "275"]
+    trust: "high"
+    note: "The running internal heading on printed page 275 / PDF page 299 marks the point where the Copernican world-picture is extended into ethics, history, and the unity of nature and law of knowledge."

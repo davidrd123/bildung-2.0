@@ -4,11 +4,25 @@ Alexander Bogdanov, *Всеобщая организационная наука 
 
 ## Scope
 
-This project tracks a working English translation of Bogdanov's volume-1 main text.
+This project tracks a working English translation of Bogdanov's volume-1 main text, with front matter retained as a secondary but real part of scope.
 
 - Source FB2: `../../books/Bogdanov/Тектология (всеобщая организационная наука) -- 1989.fb2`
 - Source facsimile: `../../books/Bogdanov/Тектология_ Всеобщая организационная наука кн_1.djvu`
 - Immediate scope: volume-1 front matter plus the main text headed `Том 1`
+
+## Current Status
+
+The translated first pass through the volume-1 main text is now complete:
+
+- `18` part files
+- chapters `1-5`
+- leaf units `1.1` through `5.4`
+
+So the immediate work is no longer extending the main-text sequence. It is bounded consolidation:
+
+- tightening glossary statuses only where the full volume earned it
+- keeping one reread memo for the load-bearing arc of volume `1`
+- approaching front matter selectively rather than turning it into an automatic second linear march
 
 ## Why This Is Not `zeitmauer` or `erkenntnisproblem`
 
@@ -37,6 +51,7 @@ source/
   glossary.yaml         # recurring term decisions and active pressure points
 parts/
   01-calibration.md     # initial translation batch
+selective-second-pass.md # bounded reread memo for the completed main-text pass
 journal.md              # source-bound process notes and decision drift
 scripts/
   extract_sections.py   # rebuilds the extracted source files from the FB2
@@ -49,6 +64,8 @@ scripts/
 3. Record unstable terms in `source/glossary.yaml`.
 4. Keep source-bound decisions in `journal.md`.
 5. Use the DJVU only as a facsimile check when the FB2 wording looks suspicious.
+
+After a bounded sequential run is complete, prefer one selective reread memo before widening into a new track.
 
 The source is structurally cleaner than a raw OCR text, but it should still be treated as a working source rather than unquestioned authority. Obvious scan-era oddities can be corrected during active tranches instead of pre-cleaning the whole book.
 

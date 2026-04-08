@@ -1578,3 +1578,91 @@ Decision for now:
 - continue directly into the next tranche from the Telesio space/time continuation after printed page `259`
 - keep watching whether `reiner Raum`, `Ort`, `Leeres`, and the independence of `Zeit` remain section-local or begin forcing glossary pressure
 - treat this threshold as the point where the mathematics problem opens into the explicit conceptual history of space and time, but keep it source-bound for now
+
+## 2026-04-07 - Fifteenth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `260-263`
+- PDF pages `284-287`
+
+What this tranche clarified:
+
+- Cassirer now says directly that Telesio's own Erkenntnistheorie cannot justify `reiner Raum` and `reine Zeit`; physics points beyond the sensualist frame more clearly than the theory of knowledge can ground
+- in Patrizzi the problem changes level: space can no longer be handled as one more worldly thing, because every inherited category misfires on it
+- the decisive local formula is the oxymoron `corpus incorporeum est et non corpus corporeum`; this is where Cassirer says the scientific concept of space first wins autonomy over the scholastic Begriffs- und Kategoriensystem
+- the historical line is widened explicitly forward: Euler, Gassendi, Henry More, and then Newton are now said to stand in the wake of this problem-complex
+- but the metaphysical reconciliation carries its own cost: space becomes the first phase in a process of development and then the prior ground of physical filling, so a logical condition hardens into primordial physical stuff
+- the limit of the whole move is now visible from inside: once space becomes one element among `spatium`, `lumen`, `calor`, and `fluor`, it no longer remains merely the condition of concrete being
+
+Decision for now:
+
+- continue directly into the next tranche from the broken sentence on `gedankliche Grundbestimmungen der absoluten Ausdehnung`
+- keep watching whether `Mittleres`, `corpus incorporeum`, `Raum und das Kategoriensystem`, and the development-model remain section-local or begin forcing glossary pressure
+- treat this Patrizzi turn as the clearest local moment where conceptual autonomy is won only by being reabsorbed into metaphysical genesis, but keep it source-bound for now
+
+## 2026-04-07 - Sixteenth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `264-267`
+- PDF pages `288-291`
+
+What this tranche clarified:
+
+- Patrizzi now explicitly reverses the local hierarchy of the chapter: geometry is prior to physics because extension is not abstracted from bodies but conditions their very determinability
+- the mathematical concepts arise from two factors together: an absolute being of space and a subjective act of cutting, delimiting, and imagining
+- from this follows the basic asymmetry of the section: `Continuum` is prior, while number and plurality are produced through division within that prior whole
+- Cassirer gives the minimum-doctrine a double judgment at once: it contains a genuinely fruitful motive of the later differential concept, but it still fails because it tries to satisfy the discrete standpoint instead of moving toward analysis of the infinite
+- the problem of `Stetiges` and `Diskretes` is therefore named explicitly and also declared unresolved
+- the handoff to Campanella is now immediate: once space remains an absolute being without a proper principle, it is hypostatized into a spiritual essence and tied directly to speculative theology
+
+Decision for now:
+
+- continue directly into the next tranche after the break marker on printed page `267`
+- keep watching whether `Continuum`, `Minimum`, `Zahl`, and the analysis-of-the-infinite line remain section-local or begin forcing glossary pressure
+- treat this as the clearest local bridge from Cusanus-scale minimum/maximum pressure into later mathematical method, but keep it source-bound for now
+
+## 2026-04-07 - Seventeenth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `268-271`
+- PDF pages `292-295`
+
+What this tranche clarified:
+
+- the return from Naturphilosophie into religion is not treated as sheer relapse; Cassirer says the connection had to be broken for the scientific concept of nature, but the religious problem itself is deepened by the new pressure
+- in Campanella the concept of the infinite now mediates the passage from the circle of self-consciousness into absolute being and functions as a proof that intellect cannot be derived from sensible reality alone
+- the key correction falls back on the concept of nature itself: nature cannot be built as an aggregate of perceptions because its totality and infinity are what first make the individual intelligible
+- this means the dualism in Campanella's doctrine of spirit is not merely imposed from outside by theology; it expresses a contradiction already latent in the Naturbegriff, which is both sensible-concrete and marked by infinity
+- the strongest local resistance point is `Proportion`: Cassirer says explicitly that between Sinnlichkeit and the infinite there is no proportion, because perception can present only bounded singular forms
+- the Bruno section opens exactly at this threshold: the problem of the infinite matters historically because the new image of the universe had made it at once logical and cosmological
+
+Decision for now:
+
+- continue directly into the next tranche from the broken Galileo sentence at the opening of the Bruno section
+- keep watching whether `Unendliches`, `Proportion`, and the demand for a new `Erkenntnislehre` remain section-local or begin forcing glossary or thread pressure
+- treat this tranche as the point where Campanella's own Naturbegriff visibly outruns the first sensualist epistemology and hands the pressure into Bruno, but keep it source-bound for now
+
+## 2026-04-07 - Eighteenth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `272-275`
+- PDF pages `296-299`
+
+What this tranche clarified:
+
+- Galileo and Copernicus make the astronomical shift explicit as a new relation between `Verstand` and `Sinnlichkeit`: the immediate `Sinnenschein` is overruled by the conceptual construction of scientific experience
+- Copernicus turns the issue of world-order directly into a question of method and proof; the Ptolemaic system fails not because it fits no appearances, but because it lacks principled unity
+- the local formula `mit beiden Augen` is decisive: sensible surface-view must be completed by the depth-view of mathematical reason
+- mathematical truth is not left abstract or merely technical; Copernicus' own presentation binds it to symmetry, harmony, and aesthetic completeness
+- Cassirer now widens the consequence beyond cosmology: the changed image of objective reality determines the content and stamp of the `Geisteswissenschaften`
+- the Copernican turn is therefore ethical as well as epistemic; Kepler, Gilbert, and Goethe all become witnesses that the loss of centrality can elevate rather than diminish the subject
+
+Decision for now:
+
+- continue directly into the next tranche from the Bruno/Copernicus continuation after printed page `275`
+- keep watching whether `mit beiden Augen`, `Methode`, `Harmonie`, and the unity of `Natur` and `Erkenntnisgesetz` remain section-local or begin forcing glossary or thread pressure
+- treat this as the point where the astronomical revolution becomes openly methodological and value-laden, but keep it source-bound for now

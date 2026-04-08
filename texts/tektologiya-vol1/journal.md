@@ -522,3 +522,104 @@ Review notes:
 
 - [visual candidate] a fork diagram for `law of leasts`: descriptive bottleneck -> practical reinforcement, not normative downward leveling
 - [visual candidate] a volume-1 arc diagram: point of view -> mechanisms -> regulation -> applications -> polemical recap
+
+## 2026-04-07 - Volume-1 Consolidation Decisions
+
+The first pass through the volume-1 main text is now complete enough to justify a limited glossary hardening. The operative word is limited. The point is not to stabilize every coined term just because the sequence is finished. The point is to distinguish between terms whose English now looks settled for this local project and terms whose resistance is still productive.
+
+The strongest promotions are the terms that survived repeated use across the whole arc without an equally live English rival:
+
+- `organizational point of view`
+- `complex`
+- `organizedness / disorganizedness`
+- `activities-resistances`
+- `conjugation`, `ingression`, `deingression`
+- `selection`, `conservative selection`, `progressive selection`
+- `mobile equilibrium`
+- `quantitative stability`, `structural stability`
+- `relative resistance`
+- `law of leasts`
+- `equilibrium system / unbalanced system`
+- `false equilibrium`
+- `chain connection`
+
+These are not all equally elegant. Some are stable precisely because their awkwardness has proved functional rather than accidental. `Selection` remains an imperfect compression of the source pair `отбор / подбор`, but no better English emerged across the volume. `Law of leasts` is still slightly hard, but by now that hardness is earned; it preserves Bogdanov's generalized usage better than the smoother `law of the minimum`. `Complex` and `activities-resistances` were both pressure-tested again in `5.4`, where Bogdanov effectively defends the need for a general, cross-domain vocabulary against philosophical and political caricature.
+
+Other terms should stay under pressure:
+
+- `Tektology` remains `open` at the project-title level because the transliterated title and the fuller scope-translation still pull against each other
+- `neutral complexes` remains useful but not yet volume-wide enough to harden
+- `separateness` still looks methodologically right, but more local than some of the truly governing terms
+- `bond` remains the weakest of the mechanism nouns in English
+- `fusedness / beadedness` should remain tentative because Bogdanov himself marks the pair as provisional and image-prone
+
+The consolidation memo `selective-second-pass.md` therefore should be read not as a second tree of doctrine, but as a bounded review of what the completed main-text run now seems to say together.
+
+Current conclusion:
+
+- the local glossary is no longer only a running intake list; it now has a stable core
+- the stable core is mostly mechanism-language plus the main stability/planning vocabulary
+- the still-open terms are open for real reasons, not from neglect
+- the next frontier should be selective front matter, beginning with author-facing material, not an indiscriminate march through every prefatory page
+
+## 2026-04-07 - The German Preface Is The Real Entrance
+
+Beginning front matter with `front.04-05` now looks clearly right. `front.04` is only a bridge note, but it is a bridge note with instructions: do not look here for the real preface; look at the one written for the German translation, and put the remarks on criticism at the end. That means Bogdanov himself maps the proper threshold of the book as `front.05` plus the later critical appendix. The completed main-text pass makes that instruction more legible than it would have been at the beginning.
+
+`front.05` is stronger than I expected. It does not merely summarize the book. It states its motive more nakedly than most of the main text does. The governing claim is not first that the world is one substance or one metaphysical order. It is that tasks become more soluble as they are posed more generally, and that the universal organizational posing of tasks is therefore the path to a universal science. That is a practical and methodological beginning, not a speculative one.
+
+The preface also sharpens the relation to philosophy. `2.c` had already shown that tektology stands above philosophy by being experimental, practical, and organizational. `front.05` says the same thing from the entrance of the project, but with more polemical force. Philosophy may explain, illuminate, sanction, or offer universal guidance. Dialectic may describe development at a high level of generality. But none of these gives an instrument comparable to mathematics for the direct investigation and solution of concrete tasks. That stronger formulation helps explain the severity of some later anti-philosophical passages in the main text.
+
+Another gain is that chapter `5` no longer looks like a late application tacked onto an earlier mechanism-book. The seeds are already here. The examples of household economy, class disorganization, world war, and the need for one organization of things, people, and ideas all point forward to the labor, plan, analogy, and criticism sections. In that sense `front.05` is not only a preface to the volume. It is the shortest anticipatory map of its full arc.
+
+Source note:
+
+- the FB2 is good enough for live work, but `front.05` contains a few obvious scars; for this tranche the needed normalizations were minimal and clear: `будем`, `брошюры`, `все же`
+
+Current conclusion:
+
+- front matter should be entered through authorial and programmatic pieces, not editorial commentary
+- `front.05` is one of the clearest statements in the whole subproject of tektology as generalized problem-posing
+- the front matter strengthens, rather than merely repeats, the completed main-text reading
+- the next clean move is `front.06`
+
+## 2026-04-07 - The 1912 Preface Records the Risk of Beginning
+
+`front.06` does something the larger and later prefaces do not quite do. It shows the project before retrospective triumph or retrospective defense, at the point where Bogdanov is deciding to begin despite knowing that a failed beginning could discredit the entire task. The most striking tone is not triumphal but responsible. A universal organizational science is treated as necessary; precisely for that reason, an erroneous first formulation would be dangerous.
+
+The preface also records an earlier architecture of the work. The first part is described as an investigation of two universal organizational principles, `ingression` and `мировой подбор`. That should not be forced directly onto the present printed volume as though nothing changed in the intervening revisions. Rather, it is a valuable historical marker. It shows how early Bogdanov wanted the science to proceed by a minimal mechanism-set, even before the later architecture and terminology reached the form we have just translated through the main-text run.
+
+The phrase `мировой подбор` is worth noticing but not promoting. It is too local and historical to justify reopening the now-stabilized glossary choice of `selection`. If anything, it confirms that the regulating mechanism passed through an earlier, more explicitly universal wording before settling into the leaner language of the mature exposition.
+
+Most important for the present reading, the preface insists that tektology should show practical applicability from the beginning through concrete life-illustrations. That strongly supports the conclusion already emerging from `front.05` and chapter `5`: the practical turn is not an afterthought or a late concession. It belongs to the project from the outset.
+
+Current conclusion:
+
+- `front.06` is best read as the risk-statement of the project's beginning
+- the original first-part framing already points toward a very small mechanism-set
+- `мировой подбор` is historically useful but does not overturn the working glossary settlement on `selection`
+- the practical claim of tektology is original, not late
+- the next clean move is `front.07`
+
+## 2026-04-07 - War Appears as the Harsh School of Tektology
+
+The opening tranche of `front.07` changes the status of war in the project. It is not treated as one more applied example beside labor, pedagogy, or science. It becomes the historical circumstance in which organizational questions are posed with maximum sharpness and continuity. In ordinary labor the problem of coordinating forces is often solved by inherited routine inside a comparatively stable setting. In war the setting itself changes continuously, so the organizational question remains permanently `actual`. Habit and template can no longer quietly carry the process.
+
+Even stronger is the claim about integrality. Bogdanov says peaceful life usually isolates the task into one region at a time: things, people, or ideas. War, by contrast, forces all three into one field. Terrain, manpower, machines, and morale appear together as elements of a single calculation. This matters because it is one of the clearest authorial statements yet of what truly `tektological` thinking means: not simply higher abstraction, but the unification of heterogeneous materials under common methods and laws.
+
+The substitution argument is perhaps the sharpest single gain. Shortage of people can be compensated by position, by technical means, by ideological elevation, or by their combination; conversely, weakness in technique can be offset by human expenditure, and weakening morale by retreat to natural barriers. This is more than an observation about military improvisation. It is an explicit claim of relative equivalence among heterogeneous organizational elements. The point of view already present in the main text is here stated with unusual nakedness.
+
+Finally, the move from war to reconstruction matters. The need for universal organizational science does not arise only because war is terrible. It arises because the aftermath will demand even broader positive organization across all damaged conditions of life, including nature and ideology. In that sense the preface becomes a bridge from war-analysis toward planning and reconstruction rather than a detour away from them.
+
+Current conclusion:
+
+- war is treated here as a concentrated pedagogical crisis for organizational thinking
+- the triad `things / people / ideas` is now one of the clearest front-matter organizing cues
+- relative equivalence and substitution across heterogeneous factors are explicit already in the preface
+- the reconstruction horizon links this wartime argument forward to later planning material
+- the next clean move is the remainder of `front.07`, especially the anti-philosophy reply and `1917` postscript
+
+Review notes:
+
+- [visual candidate] a four-factor field for war organization: terrain / people / technique / morale, with compensatory substitution arrows
+- [visual candidate] a contrast diagram: routine labor = partial organizational domains; war = integral organizational field

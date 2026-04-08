@@ -17,8 +17,8 @@
   alternatives:
     - "organizational viewpoint"
     - "organizational perspective"
-  status: tentative
-  notes: "The opening section treats this as the governing methodological claim, not a passing phrase. `Point of view` stays closest to the explicit polemical broadening of the term. By `2.c` it is no longer just a way of rereading existing material: it is also what allows Bogdanov to claim that any scientific question can be reposited organizationally and that wholly new cross-domain questions can be generated from that stance."
+  status: stable
+  notes: "The opening section treats this as the governing methodological claim, not a passing phrase. `Point of view` stays closest to the explicit polemical broadening of the term. By `2.c` it is no longer just a way of rereading existing material: it is also what allows Bogdanov to claim that any scientific question can be reposited organizationally and that wholly new cross-domain questions can be generated from that stance. By the close of volume `1`, especially in `5.4`, it has proved to be the stable English for the book's most general methodological self-description."
 
 - term: "комплекс"
   kind: concept
@@ -26,8 +26,8 @@
   alternatives:
     - "formation"
     - "configuration"
-  status: tentative
-  notes: "By `2.a.1-2.a.3` the term is structurally unavoidable. `Complex` is still the least distortive starting point, but it must be watched for overly psychological or casual English overtones."
+  status: stable
+  notes: "By `2.a.1-2.a.3` the term is structurally unavoidable. `Complex` is still the least distortive starting point, but it must be watched for overly psychological or casual English overtones. `5.4` pressure-tests the term directly in Bogdanov's reply to the charge of idealism, and by the end of the volume no equally live English rival remains."
 
 - term: "конъюгация"
   kind: concept
@@ -35,7 +35,7 @@
   alternatives:
     - "combination"
     - "conjoining"
-  status: tentative
+  status: stable
   notes: "By `3.a.1` this becomes the primary formative tektological mechanism: the joining of complexes from which separation appears only as a derivative result. `Conjugation` is preferable because the term has to remain fully formal, applying equally to cooperation, war, chemical combination, perception, and other cases."
 
 - term: "ингрессия"
@@ -44,7 +44,7 @@
   alternatives:
     - "mediated linkage"
     - "intermediary linkage"
-  status: tentative
+  status: stable
   notes: "By `3.a.3-3.a.9` this names the basic organizational linkage achieved through common elements or, when direct linkage is impossible, through intermediary complexes; then it expands into a basis of cognition, criticism, social coordination, and finally the continuity-principle of the world. The borrowed technical form is preferable to paraphrase because Bogdanov is naming a general mechanism."
 
 - term: "дезингрессия"
@@ -53,7 +53,7 @@
   alternatives:
     - "negative ingression"
     - "disingression"
-  status: tentative
+  status: stable
   notes: "By `3.a.4-3.b.3` this names the basic form of disorganization corresponding to ingression, then the mechanism through which Bogdanov derives separateness, crisis, and incomplete boundary-conditions of experience, and finally the operative negative side of progressive selection, where external activities invade and deassimilate a complex. The English is awkward, but that awkwardness is methodological: Bogdanov is introducing a formal counter-mechanism rather than a familiar process-name."
 
 - term: "отдельность"
@@ -71,7 +71,7 @@
   alternatives:
     - "organizational crisis"
     - "critical transformation"
-  status: tentative
+  status: stable
   notes: "By `3.a.6` and `3.b.3` Bogdanov gives this ordinary-looking word a strict technical role: first rupture or formation of tektological boundary, then the threshold at which cumulative structural changes under progressive selection pass into qualitative transformation. Keep the plain English term, but guard against reading it only as catastrophe."
 
 - term: "связка"
@@ -89,8 +89,8 @@
   alternatives:
     - "chain linkage"
     - "linked connection"
-  status: tentative
-  notes: "By `3.a.2` this becomes the structural bridge term between `conjugation` and `ingression`: the organized form produced through common links. By `5.2` it is widened into a macro-economic planning term: branches of production stand in chain connection because each furnishes conditions for the others, with return-branches tightening rather than weakening the linkage. `Chain connection` is slightly hard in English, but it preserves both the linked-image and the formal generality Bogdanov wants."
+  status: stable
+  notes: "By `3.a.2` this becomes the structural bridge term between `conjugation` and `ingression`: the organized form produced through common links. By `5.2` it is widened into a macro-economic planning term: branches of production stand in chain connection because each furnishes conditions for the others, with return-branches tightening rather than weakening the linkage. `Chain connection` is slightly hard in English, but it preserves both the linked-image and the formal generality Bogdanov wants. The volume-wide reuse from mechanism-theory to planning gives it a stable local status."
 
 - term: "организованность / дезорганизованность"
   kind: concept_pair
@@ -98,8 +98,8 @@
   alternatives:
     - "organization / disorganization"
     - "organized character / disorganized character"
-  status: tentative
-  notes: "By `2.a.1-2.a.3` this pair governs the whole local argument. The main risk is collapsing a property of structured combination into a looser sociological or managerial register. The harder `organizedness / disorganizedness` currently looks preferable because it keeps the conceptual pressure visible."
+  status: stable
+  notes: "By `2.a.1-2.a.3` this pair governs the whole local argument. The main risk is collapsing a property of structured combination into a looser sociological or managerial register. The harder `organizedness / disorganizedness` currently looks preferable because it keeps the conceptual pressure visible. The English remains somewhat hard, but by the end of volume `1` that hardness looks earned rather than provisional."
 
 - term: "активности-сопротивления"
   kind: concept
@@ -107,8 +107,8 @@
   alternatives:
     - "activity-resistances"
     - "activities and resistances"
-  status: tentative
-  notes: "Introduced structurally in `2.a.2` as the reducible elements of organizational analysis. The hyphen matters because Bogdanov is not merely naming two classes of things but insisting on their reversibility."
+  status: stable
+  notes: "Introduced structurally in `2.a.2` as the reducible elements of organizational analysis. The hyphen matters because Bogdanov is not merely naming two classes of things but insisting on their reversibility. `5.4` pressure-tests the term directly in the reply to the charge of idealism, which strengthens the case that the current English is the right kind of formal awkwardness."
 
 - term: "нейтральные комплексы"
   kind: concept
@@ -125,8 +125,8 @@
   alternatives:
     - "sorting"
     - "selective filtering"
-  status: tentative
-  notes: "By `3.b.1-3.b.3` Bogdanov has generalized the biologically inherited term into the universal name of the regulating mechanism. The opening pair `отбор / подбор` cannot be cleanly preserved in English without false nuance, so the working draft collapses them into `selection`. The main discipline is to keep the term broader than Darwinian natural selection or mere screening."
+  status: stable
+  notes: "By `3.b.1-3.b.3` Bogdanov has generalized the biologically inherited term into the universal name of the regulating mechanism. The opening pair `отбор / подбор` cannot be cleanly preserved in English without false nuance, so the working draft collapses them into `selection`. The main discipline is to keep the term broader than Darwinian natural selection or mere screening. This is a stable-but-imperfect rendering: the source nuance is compressed, but no stronger English rival emerged across the full volume."
 
 - term: "консервативный подбор"
   kind: concept
@@ -134,7 +134,7 @@
   alternatives:
     - "preservative selection"
     - "selection of preservation"
-  status: tentative
+  status: stable
   notes: "Introduced at the close of `3.b.1` as the first, abstract schema in which only preservation or non-preservation is at issue. `3.b.2-3.b.3` show it to be insufficient once preservation is reinterpreted as mobile equilibrium and development, but not obsolete: it still governs cases where complexes are treated as available material rather than as developing formations."
 
 - term: "подвижное равновесие"
@@ -143,7 +143,7 @@
   alternatives:
     - "dynamic equilibrium"
     - "moving equilibrium"
-  status: tentative
+  status: stable
   notes: "By `3.b.2-3.b.3` this replaces any notion of pure preservation: a form persists only through opposed changes balancing one another. `Mobile equilibrium` is preferable because Bogdanov is naming not mere motion but a preserved relation of changes."
 
 - term: "ассимиляция / дезассимиляция"
@@ -152,7 +152,7 @@
   alternatives:
     - "assimilation / disassimilation"
     - "appropriation / loss"
-  status: tentative
+  status: stable
   notes: "In `3.b.2-3.b.3` the biological pair is generalized to all tektological forms as the two opposed streams of mobile equilibrium and its deviations. `Deassimilation` is slightly hard in English, but it preserves the formal relation to `assimilation` and fits the deliberate technicality of the Russian."
 
 - term: "прогрессивный подбор"
@@ -161,7 +161,7 @@
   alternatives:
     - "developmental selection"
     - "progressive regulation"
-  status: tentative
+  status: stable
   notes: "By `3.b.3` this names the deeper schema in which preservation in a changing environment requires growth of activities, decline is expressed as the predominance of deassimilation, and both positive and negative selection alter structure until they pass into crisis. The term should stay formally organizational rather than being moralized as `progress`."
 
 - term: "количественная устойчивость"
@@ -170,7 +170,7 @@
   alternatives:
     - "quantitative persistence"
     - "stability in quantity"
-  status: tentative
+  status: stable
   notes: "By `4.1` this names stability in the direct sense of the summed quantity of activities-resistances concentrated in a complex. Positive selection is identified with its increase, negative selection with its decrease. The term is comparatively straightforward, but it matters because Bogdanov now explicitly separates it from structural stability."
 
 - term: "структурная устойчивость"
@@ -179,7 +179,7 @@
   alternatives:
     - "organizational stability"
     - "stability of structure"
-  status: tentative
+  status: stable
   notes: "By `4.1` this becomes the more delicate and important counterpart to quantitative stability. It depends on the character of the organizational connection and is always relative to definite impacts or to a bounded environment. The central pressure of the section is that positive selection can reduce it while negative selection can, within limits, increase it."
 
 - term: "относительное сопротивление"
@@ -188,7 +188,7 @@
   alternatives:
     - "relative resilience"
     - "resistance ratio"
-  status: tentative
+  status: stable
   notes: "By `4.2-4.3` this becomes the operational term through which Bogdanov states when a whole holds or fails and then how it must be organized in practice. The key threshold is `1`: at that level full deingression occurs between the opposed terms, and below it destructive breakdown follows. `4.3` also shows the two main practical uses that grow out of the term: concentration of resistances where impacts can be foreseen, and equalization across threatened links where they cannot."
 
 - term: "закон наименьших"
@@ -197,8 +197,8 @@
   alternatives:
     - "law of least favorable conditions"
     - "law of the minimum"
-  status: tentative
-  notes: "By `4.2-4.3` Bogdanov presents this as the looser, more usable formula of the law of relative resistances, especially for social-organizational practice. `4.3` makes it into a practical schema across technique, pedagogy, politics, and cultural explanation: under determinate impacts it yields concentration and shielding, under indeterminate ones equalization. `5.1` then extends it inward to the worker-complex itself: calories, proteins, shoes, and even stabilized cultural supports can all function as limiting links. `5.2` generalizes it once more to the economy as a whole: expansion is bounded by the most lagging branch, and reconstruction must proceed by raising the minimal coefficients first. `Law of the minimum` remains necessary for Liebig's agronomic case, but `law of leasts` better preserves Bogdanov's own generalized, slightly hard wording. The section also marks a limit: explaining `leveling to the lowest` is not yet the same as solving it."
+  status: stable
+  notes: "By `4.2-4.3` Bogdanov presents this as the looser, more usable formula of the law of relative resistances, especially for social-organizational practice. `4.3` makes it into a practical schema across technique, pedagogy, politics, and cultural explanation: under determinate impacts it yields concentration and shielding, under indeterminate ones equalization. `5.1` then extends it inward to the worker-complex itself: calories, proteins, shoes, and even stabilized cultural supports can all function as limiting links. `5.2` generalizes it once more to the economy as a whole: expansion is bounded by the most lagging branch, and reconstruction must proceed by raising the minimal coefficients first. `5.4` then clarifies the most important practical misunderstanding: the law diagnoses the bottleneck; it does not prescribe leveling downward to it. `Law of the minimum` remains necessary for Liebig's agronomic case, but `law of leasts` better preserves Bogdanov's own generalized, slightly hard wording."
 
 - term: "слитность / четочность"
   kind: concept_pair
@@ -215,7 +215,7 @@
   alternatives:
     - "system of equilibrium / nonequilibrium system"
     - "equilibrated / unequilibrated system"
-  status: tentative
+  status: stable
   notes: "By `4.5` this pair becomes structurally load-bearing. The point is not static rest, but whether a system preserves a given structure in a given environment by internal counter-processes, or instead continues to transform in one prevailing direction. `Unbalanced` currently works better than `nonequilibrium` because the latter sounds too much like imported later terminology."
 
 - term: "ложное равновесие"
@@ -224,5 +224,5 @@
   alternatives:
     - "apparent equilibrium"
     - "pseudo-equilibrium"
-  status: tentative
+  status: stable
   notes: "By `4.5` this names a system that only seems equilibrated because the ongoing transformation is too slow or too fine for current observation. The detonating-gas example matters because the later explosion is not a new process but the acceleration of the process already underway."

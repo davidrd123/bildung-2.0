@@ -7,13 +7,13 @@
     "handles": "texts/zeitmauer/source/handles.yaml"
   },
   "counts": {
-    "sections": 159,
+    "sections": 166,
     "terms": 14,
-    "chunks": 100,
-    "notes": 102,
+    "chunks": 107,
+    "notes": 109,
     "threads": 4,
     "evidence": 51,
-    "relations": 126
+    "relations": 135
   },
   "sections": [
     {
@@ -5223,6 +5223,238 @@
       },
       "source_file": "texts/zeitmauer/source/sections.yaml",
       "draft_file": "texts/zeitmauer/parts/53-siderische-einteilungen.md"
+    },
+    {
+      "handle": "zm:160",
+      "id": 160,
+      "label": "§160",
+      "part_slug": "siderische-einteilungen",
+      "part_title_de": "Siderische Einteilungen",
+      "part_title_en": "Sidereal Divisions",
+      "de": "Auch die Wendung der Utopie zum Pessimismus, wie wir sie seit einiger Zeit, besonders seit dem Ersten Weltkrieg, beobachten, hat prognostischen Wert, indem sie nachweist, daß innerhalb eines stark determinierten Schubes an gewissen Punkten noch Übersicht, noch geistige Unabhängigkeit besteht.\n\nDas ist ein günstiges Anzeichen und sogar Vorzeichen. Auf diese Weise vollzieht sich die geistige Kritik der sozialen und technischen Pläne und ihrer weltverändernden Absichten. Diese Kritik ist willensfreier und schmerzloser als die Kritik der Tatsachen und fordert auch keine Menschenopfer ein.\n\nZur Schaffung solcher Gemälde scheint besonders ein bitterer Swiftscher Humor geeignet, und es ist wohl kein Zufall, daß sich Angelsachsen darin auszeichnen. Hier ist vor allem Orwell zu nennen mit seiner bereits auf das Jahr 1984 datierten Vision. Sie hat auf viele wie ein Schreckschuß gewirkt. Erstaunlich ist auch seine »Farm der Tiere«, eine Fabel, die selbst Swift Ehre gemacht hätte.\n\nHuxley beleuchtet die Bestände eher demokratisch, geht auf ihre Komfortseite ein. Er schildert den »Letzten Menschen« Zarathustras: »Wir haben das Glück erfunden – sagen die Letzten Menschen und blinzeln.«\n\nDas erfundene Glück wird ebenso unzulässig wie der technische Plan mit der Idee der Freiheit verknüpft. Da sehen die Dichter schon mehr. Zarathustra nennt das Kapitel vom Letzten Menschen »seine Vorrede«. Huxley, der bedeutende biologische Kenntnisse besitzt, geht ebenso wie Orwell auf die Verstaatlichung des Geschlechtslebens ein, die in der Tat sowohl hinsichtlich der Typenschaffung wie auch der Arbeitsteilung von entscheidender Bedeutung ist. Im Gegensatz zu Orwell bleibt die Geschlechtsliebe bei ihm erhalten. Sie wird als Zuckerbrot auf die Komfortseite übertragen, wird zum Gesellschaftsspiel inmitten der Langeweile, die notwendig wächst. Das ist die Zeit, in der der Mensch kein Chaos mehr in sich trägt und keinen Stern mehr gebären kann, heißt es in Zarathustras Vorrede. Chaos ist Urgrund und die Erde der Stern.\n\nHuxley führt einen Zustand vor, in dem nicht nur die künstliche Befruchtung, sondern auch die Entwicklung vollautomatisch abläuft, was heute noch stark utopisch scheint. Aber wir dürfen uns hier auf große Überraschungen gefaßt machen. Wir berühren die Gene der Pflanzen, der Tiere und auch des Menschen vorerst wie Einzelsteinchen, wie Tasten eines Instruments, doch ist vorauszusehen, daß es bei diesem Spiel zu ungeahnten Kompositionen kommen wird. Vorerst scheint die Konstanz, die genetische Unantastbarkeit der Arten noch durch sehr starke Riegel geschützt. Sie würden wohl kaum zu brechen sein, wenn nicht das Ungesonderte von der anderen Seite der Mauer aus mit anhöbe. Wenn hier die Sonderungen fallen, werden Dinge möglich, von denen man sich auch heute noch nichts träumen läßt.\n\nMöglich ist bereits heute, daß ein Vater mehr Kinder als der König Priamus hat. Die Lösung ist auch in den Insektenstaaten vorgebildet, wo ein Männchen die Königin begattet, die Tausende gebiert. Daß nach einem unausgesprochenen, aber starken Gesetz der Name des Vaters verheimlicht, tabuiert werden muß, gehört in eine andere Kette von Erwägungen.\n\nZu den Kriterien des Staatsplanes zählt auch Friedrich Georg Jüngers »Perfektion der Technik«, ein unmittelbar vor dem Zweiten Weltkrieg abgeschlossenes Werk, das den technischen Fortschritt vor allem nach der Glücksseite hin durchrechnet.\n\nDas Gemeinsame dieser Verwahrungen liegt darin, daß der musische Mensch aus der ihm eingeborenen Freiheit heraus gegen die reine Anwendung des logischen Kalküls Einspruch erhebt, wobei er sich eines starken wissenschaftlichen Rüstzeuges bedient. Hinzu kommt, was beim Kalkül vermißt wird: die Wahrnehmung des Verlustes und seine Wertung vom musischen, metaphysischen oder theologischen Standort aus.",
+      "en": "The turn of utopia toward pessimism, as we have observed it for some time now, especially since the First World War, also has prognostic value, in that it proves that within a strongly determined shove there still exists at certain points both overview and intellectual independence.\n\nThat is a favorable sign and even a portent. In this way the intellectual critique of the social and technical plans and of their world-altering intentions is carried out. This critique is less driven by will and more painless than the critique carried out by facts, and it exacts no human sacrifices.\n\nA bitter Swiftian humor seems especially suited to the creation of such pictures, and it is probably no accident that Anglo-Saxons excel in it. Here Orwell above all must be named, with his vision dated already to the year 1984. It struck many like a warning shot. Remarkable too is his `Animal Farm,` a fable that would have done Swift honor.\n\nHuxley illuminates the arrangements more democratically and attends to their comfort-side. He depicts Zarathustra's `Last Man`: `We have invented happiness, say the Last Men, and they blink.`\n\nThe invented happiness is linked with the idea of freedom just as inadmissibly as the technical plan is. There the poets already see further. Zarathustra calls the chapter on the `Last Man` `his preface.` Huxley, who possesses significant biological knowledge, touches, like Orwell, on the state-regulation of sexual life, which is in fact of decisive importance both for type-formation and for the division of labor. Unlike Orwell, sexual love remains with him. It is shifted over to the comfort-side as a sweetener; it becomes a social game amid the boredom that necessarily grows. This is the time, says Zarathustra's preface, in which man no longer carries chaos within himself and can no longer give birth to a star. Chaos is `Urgrund`, and the earth the star.\n\nHuxley presents a condition in which not only artificial insemination but development too proceeds fully automatically, which still seems strongly utopian today. But we should be prepared here for great surprises. For the present we touch the genes of plants, animals, and of man too like individual stones, like the keys of an instrument, yet it is foreseeable that this play will lead to unimagined compositions. For the present the constancy, the genetic inviolability of the species, still seems protected by very strong bars. They would hardly be breakable if the undivided were not already lifting with them from the other side of the wall. When the differentiations fall here, things will become possible of which even today one still cannot dream.\n\nEven today it is possible for a father to have more children than King Priam. The solution is prefigured even in the insect-states, where a male impregnates the queen, who bears thousands. That by an unspoken but powerful law the name of the father must be concealed, tabooed, belongs to another chain of considerations.\n\nAmong the criteria of the state-plan is Friedrich Georg Jünger's `The Perfection of Technology` as well, a work completed immediately before the Second World War that reckons through technical progress above all from the side of happiness.\n\nWhat these reservations share is that the man of the Muses, out of the freedom native to him, raises an objection to the pure application of logical calculus while making use of a strong scientific armament. Added to that is what the calculus lacks: the perception of loss and its valuation from the standpoint of the Muses, of metaphysics, or of theology.",
+      "de_paragraphs": [
+        "Auch die Wendung der Utopie zum Pessimismus, wie wir sie seit einiger Zeit, besonders seit dem Ersten Weltkrieg, beobachten, hat prognostischen Wert, indem sie nachweist, daß innerhalb eines stark determinierten Schubes an gewissen Punkten noch Übersicht, noch geistige Unabhängigkeit besteht.",
+        "Das ist ein günstiges Anzeichen und sogar Vorzeichen. Auf diese Weise vollzieht sich die geistige Kritik der sozialen und technischen Pläne und ihrer weltverändernden Absichten. Diese Kritik ist willensfreier und schmerzloser als die Kritik der Tatsachen und fordert auch keine Menschenopfer ein.",
+        "Zur Schaffung solcher Gemälde scheint besonders ein bitterer Swiftscher Humor geeignet, und es ist wohl kein Zufall, daß sich Angelsachsen darin auszeichnen. Hier ist vor allem Orwell zu nennen mit seiner bereits auf das Jahr 1984 datierten Vision. Sie hat auf viele wie ein Schreckschuß gewirkt. Erstaunlich ist auch seine »Farm der Tiere«, eine Fabel, die selbst Swift Ehre gemacht hätte.",
+        "Huxley beleuchtet die Bestände eher demokratisch, geht auf ihre Komfortseite ein. Er schildert den »Letzten Menschen« Zarathustras: »Wir haben das Glück erfunden – sagen die Letzten Menschen und blinzeln.«",
+        "Das erfundene Glück wird ebenso unzulässig wie der technische Plan mit der Idee der Freiheit verknüpft. Da sehen die Dichter schon mehr. Zarathustra nennt das Kapitel vom Letzten Menschen »seine Vorrede«. Huxley, der bedeutende biologische Kenntnisse besitzt, geht ebenso wie Orwell auf die Verstaatlichung des Geschlechtslebens ein, die in der Tat sowohl hinsichtlich der Typenschaffung wie auch der Arbeitsteilung von entscheidender Bedeutung ist. Im Gegensatz zu Orwell bleibt die Geschlechtsliebe bei ihm erhalten. Sie wird als Zuckerbrot auf die Komfortseite übertragen, wird zum Gesellschaftsspiel inmitten der Langeweile, die notwendig wächst. Das ist die Zeit, in der der Mensch kein Chaos mehr in sich trägt und keinen Stern mehr gebären kann, heißt es in Zarathustras Vorrede. Chaos ist Urgrund und die Erde der Stern.",
+        "Huxley führt einen Zustand vor, in dem nicht nur die künstliche Befruchtung, sondern auch die Entwicklung vollautomatisch abläuft, was heute noch stark utopisch scheint. Aber wir dürfen uns hier auf große Überraschungen gefaßt machen. Wir berühren die Gene der Pflanzen, der Tiere und auch des Menschen vorerst wie Einzelsteinchen, wie Tasten eines Instruments, doch ist vorauszusehen, daß es bei diesem Spiel zu ungeahnten Kompositionen kommen wird. Vorerst scheint die Konstanz, die genetische Unantastbarkeit der Arten noch durch sehr starke Riegel geschützt. Sie würden wohl kaum zu brechen sein, wenn nicht das Ungesonderte von der anderen Seite der Mauer aus mit anhöbe. Wenn hier die Sonderungen fallen, werden Dinge möglich, von denen man sich auch heute noch nichts träumen läßt.",
+        "Möglich ist bereits heute, daß ein Vater mehr Kinder als der König Priamus hat. Die Lösung ist auch in den Insektenstaaten vorgebildet, wo ein Männchen die Königin begattet, die Tausende gebiert. Daß nach einem unausgesprochenen, aber starken Gesetz der Name des Vaters verheimlicht, tabuiert werden muß, gehört in eine andere Kette von Erwägungen.",
+        "Zu den Kriterien des Staatsplanes zählt auch Friedrich Georg Jüngers »Perfektion der Technik«, ein unmittelbar vor dem Zweiten Weltkrieg abgeschlossenes Werk, das den technischen Fortschritt vor allem nach der Glücksseite hin durchrechnet.",
+        "Das Gemeinsame dieser Verwahrungen liegt darin, daß der musische Mensch aus der ihm eingeborenen Freiheit heraus gegen die reine Anwendung des logischen Kalküls Einspruch erhebt, wobei er sich eines starken wissenschaftlichen Rüstzeuges bedient. Hinzu kommt, was beim Kalkül vermißt wird: die Wahrnehmung des Verlustes und seine Wertung vom musischen, metaphysischen oder theologischen Standort aus."
+      ],
+      "en_paragraphs": [
+        "The turn of utopia toward pessimism, as we have observed it for some time now, especially since the First World War, also has prognostic value, in that it proves that within a strongly determined shove there still exists at certain points both overview and intellectual independence.",
+        "That is a favorable sign and even a portent. In this way the intellectual critique of the social and technical plans and of their world-altering intentions is carried out. This critique is less driven by will and more painless than the critique carried out by facts, and it exacts no human sacrifices.",
+        "A bitter Swiftian humor seems especially suited to the creation of such pictures, and it is probably no accident that Anglo-Saxons excel in it. Here Orwell above all must be named, with his vision dated already to the year 1984. It struck many like a warning shot. Remarkable too is his `Animal Farm,` a fable that would have done Swift honor.",
+        "Huxley illuminates the arrangements more democratically and attends to their comfort-side. He depicts Zarathustra's `Last Man`: `We have invented happiness, say the Last Men, and they blink.`",
+        "The invented happiness is linked with the idea of freedom just as inadmissibly as the technical plan is. There the poets already see further. Zarathustra calls the chapter on the `Last Man` `his preface.` Huxley, who possesses significant biological knowledge, touches, like Orwell, on the state-regulation of sexual life, which is in fact of decisive importance both for type-formation and for the division of labor. Unlike Orwell, sexual love remains with him. It is shifted over to the comfort-side as a sweetener; it becomes a social game amid the boredom that necessarily grows. This is the time, says Zarathustra's preface, in which man no longer carries chaos within himself and can no longer give birth to a star. Chaos is `Urgrund`, and the earth the star.",
+        "Huxley presents a condition in which not only artificial insemination but development too proceeds fully automatically, which still seems strongly utopian today. But we should be prepared here for great surprises. For the present we touch the genes of plants, animals, and of man too like individual stones, like the keys of an instrument, yet it is foreseeable that this play will lead to unimagined compositions. For the present the constancy, the genetic inviolability of the species, still seems protected by very strong bars. They would hardly be breakable if the undivided were not already lifting with them from the other side of the wall. When the differentiations fall here, things will become possible of which even today one still cannot dream.",
+        "Even today it is possible for a father to have more children than King Priam. The solution is prefigured even in the insect-states, where a male impregnates the queen, who bears thousands. That by an unspoken but powerful law the name of the father must be concealed, tabooed, belongs to another chain of considerations.",
+        "Among the criteria of the state-plan is Friedrich Georg Jünger's `The Perfection of Technology` as well, a work completed immediately before the Second World War that reckons through technical progress above all from the side of happiness.",
+        "What these reservations share is that the man of the Muses, out of the freedom native to him, raises an objection to the pure application of logical calculus while making use of a strong scientific armament. Added to that is what the calculus lacks: the perception of loss and its valuation from the standpoint of the Muses, of metaphysics, or of theology."
+      ],
+      "paragraph_alignment": {
+        "de_count": 9,
+        "en_count": 9,
+        "aligned": true,
+        "row_count": 9
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/54-siderische-einteilungen.md"
+    },
+    {
+      "handle": "zm:161",
+      "id": 161,
+      "label": "§161",
+      "part_slug": "siderische-einteilungen",
+      "part_title_de": "Siderische Einteilungen",
+      "part_title_en": "Sidereal Divisions",
+      "de": "Jede Erwägung der Zukunft, auf wie verschlungenen Pfaden sie sich auch bewegen möge, führt immer wieder zum Mittelpunkt der tragischen Landschaft zurück – dorthin, wo sich die Wege und Abwege schneiden, zum Obelisken, der nach Clausewitz’ schönem Bilde den Standort des Feldherrn kennzeichnet. Der Feldherr, möge er siegen oder fallen, kann nur der Mensch, wenn nicht im vollen Besitze, so doch im vollen Bewußtsein seiner Willensfreiheit sein. Nicht umsonst hat die deutsche Metaphysik in den letzten hundert Jahren gerade die Willensfrage mit solcher Gründlichkeit untersucht. Hier ist das Zentrum der Aktion, nicht in den Großräumen.\n\nDaß der Mensch in seine Evolution eingreift, und zwar auf eine Weise, die sich deutlich von den alten Rezepten des Hungers und der Liebe unterscheidet – also sowohl vom »Kampf ums Dasein« in seiner politischen und ökonomischen Mannigfaltigkeit als auch von der »Zuchtwahl« – daß er vielmehr darüber hinaus in eine Reihe von grandiosen Experimenten eingetreten ist: das ist ein Neues auf dieser Welt. Dafür zeugt, daß es weder dem Umfang noch der Art nach in das Geschichtsbild einzuordnen ist.\n\nDem widerspricht nicht die Feststellung, daß die Rolle der menschlichen Autorschaft und ihre intelligente Einwirkung auf den Prozeß überschätzt wird und daß es sich um einen Vorgang handelt, der auch ohne den Menschen stattfinden würde, obwohl er in die menschliche Geschichte fällt und ihr das Ende setzt. Es ist ein Vorgang, bei dem das Universum mitwirkt, die Sterne zwingend stehen.\n\nDennoch widerstrebt es dem Menschen, sich in die Rolle eines Wesens zu versetzen, das im Zuge einer Seinsveränderung geboren oder neugeboren wird und das sich letzthin diesem Geburtsakt und seiner stärkeren Folgerichtigkeit anvertraut. Es widerstrebt ihm aus dem Grunde, aus dem Descartes sein »cogito« setzte, es widerstrebt ihm vor allem deshalb, weil Freiheit ein unausrottbares menschliches Gattungskennzeichen ist.\n\nWo der Mensch im Spiel ist, kann ein Geschehen daher nicht völlig vorbestimmt ablaufen, weder im mechanischen noch im zoologischen noch im astrologischen Sinn. Indem es bedacht wird, erfährt es bereits Veränderung, und sei es noch so determiniert.",
+      "en": "Every consideration of the future, however winding the paths on which it moves, leads again and again back to the midpoint of the tragic landscape - to the place where the paths and the wrong paths cross, to the obelisk that, in Clausewitz's beautiful image, marks the commander's position. The commander, whether he wins or falls, can only be man, if not in full possession, then at least in full consciousness of his freedom of will. It is not for nothing that German metaphysics in the last hundred years has investigated precisely the question of will with such thoroughness. Here is the center of action, not in the large spaces.\n\nThat man intervenes in his evolution, and in a way that differs clearly from the old recipes of hunger and love - thus both from the `struggle for existence` in its political and economic multiplicity and from `selection in breeding` - that beyond this he has entered into a series of grand experiments: that is something new in this world. Witness to that is the fact that it cannot be fitted into the image of history either by scope or by kind.\n\nThis does not contradict the observation that the role of human authorship and its intelligent effect on the process is overestimated, and that what is at issue is a process that would take place even without man, although it falls within human history and brings it to an end. It is a process in which the universe cooperates; the stars stand compelling.\n\nYet man resists putting himself into the role of a being that is born or reborn in the course of a change in being and that in the end entrusts itself to this act of birth and to its stronger inner logic. He resists it for the same reason Descartes posited his `cogito`; above all he resists it because freedom is an ineradicable species-mark of man.\n\nWhere man is in play, an event therefore cannot unfold wholly predetermined, whether in the mechanical, the zoological, or the astrological sense. By being thought about, it already undergoes change, however determined it may be.",
+      "de_paragraphs": [
+        "Jede Erwägung der Zukunft, auf wie verschlungenen Pfaden sie sich auch bewegen möge, führt immer wieder zum Mittelpunkt der tragischen Landschaft zurück – dorthin, wo sich die Wege und Abwege schneiden, zum Obelisken, der nach Clausewitz’ schönem Bilde den Standort des Feldherrn kennzeichnet. Der Feldherr, möge er siegen oder fallen, kann nur der Mensch, wenn nicht im vollen Besitze, so doch im vollen Bewußtsein seiner Willensfreiheit sein. Nicht umsonst hat die deutsche Metaphysik in den letzten hundert Jahren gerade die Willensfrage mit solcher Gründlichkeit untersucht. Hier ist das Zentrum der Aktion, nicht in den Großräumen.",
+        "Daß der Mensch in seine Evolution eingreift, und zwar auf eine Weise, die sich deutlich von den alten Rezepten des Hungers und der Liebe unterscheidet – also sowohl vom »Kampf ums Dasein« in seiner politischen und ökonomischen Mannigfaltigkeit als auch von der »Zuchtwahl« – daß er vielmehr darüber hinaus in eine Reihe von grandiosen Experimenten eingetreten ist: das ist ein Neues auf dieser Welt. Dafür zeugt, daß es weder dem Umfang noch der Art nach in das Geschichtsbild einzuordnen ist.",
+        "Dem widerspricht nicht die Feststellung, daß die Rolle der menschlichen Autorschaft und ihre intelligente Einwirkung auf den Prozeß überschätzt wird und daß es sich um einen Vorgang handelt, der auch ohne den Menschen stattfinden würde, obwohl er in die menschliche Geschichte fällt und ihr das Ende setzt. Es ist ein Vorgang, bei dem das Universum mitwirkt, die Sterne zwingend stehen.",
+        "Dennoch widerstrebt es dem Menschen, sich in die Rolle eines Wesens zu versetzen, das im Zuge einer Seinsveränderung geboren oder neugeboren wird und das sich letzthin diesem Geburtsakt und seiner stärkeren Folgerichtigkeit anvertraut. Es widerstrebt ihm aus dem Grunde, aus dem Descartes sein »cogito« setzte, es widerstrebt ihm vor allem deshalb, weil Freiheit ein unausrottbares menschliches Gattungskennzeichen ist.",
+        "Wo der Mensch im Spiel ist, kann ein Geschehen daher nicht völlig vorbestimmt ablaufen, weder im mechanischen noch im zoologischen noch im astrologischen Sinn. Indem es bedacht wird, erfährt es bereits Veränderung, und sei es noch so determiniert."
+      ],
+      "en_paragraphs": [
+        "Every consideration of the future, however winding the paths on which it moves, leads again and again back to the midpoint of the tragic landscape - to the place where the paths and the wrong paths cross, to the obelisk that, in Clausewitz's beautiful image, marks the commander's position. The commander, whether he wins or falls, can only be man, if not in full possession, then at least in full consciousness of his freedom of will. It is not for nothing that German metaphysics in the last hundred years has investigated precisely the question of will with such thoroughness. Here is the center of action, not in the large spaces.",
+        "That man intervenes in his evolution, and in a way that differs clearly from the old recipes of hunger and love - thus both from the `struggle for existence` in its political and economic multiplicity and from `selection in breeding` - that beyond this he has entered into a series of grand experiments: that is something new in this world. Witness to that is the fact that it cannot be fitted into the image of history either by scope or by kind.",
+        "This does not contradict the observation that the role of human authorship and its intelligent effect on the process is overestimated, and that what is at issue is a process that would take place even without man, although it falls within human history and brings it to an end. It is a process in which the universe cooperates; the stars stand compelling.",
+        "Yet man resists putting himself into the role of a being that is born or reborn in the course of a change in being and that in the end entrusts itself to this act of birth and to its stronger inner logic. He resists it for the same reason Descartes posited his `cogito`; above all he resists it because freedom is an ineradicable species-mark of man.",
+        "Where man is in play, an event therefore cannot unfold wholly predetermined, whether in the mechanical, the zoological, or the astrological sense. By being thought about, it already undergoes change, however determined it may be."
+      ],
+      "paragraph_alignment": {
+        "de_count": 5,
+        "en_count": 5,
+        "aligned": true,
+        "row_count": 5
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/54-siderische-einteilungen.md"
+    },
+    {
+      "handle": "zm:162",
+      "id": 162,
+      "label": "§162",
+      "part_slug": "siderische-einteilungen",
+      "part_title_de": "Siderische Einteilungen",
+      "part_title_en": "Sidereal Divisions",
+      "de": "Um zum Bilde des Eisberges zurückzukehren: Wenn Determination die gesamte Masse, Freiheit die oberste Kuppe durchwaltet, so ist zugleich der Gedanke zulässig, daß in diesem sichtbaren Teil, in diesem caput ein höheres Selbstbewußtsein, eine überlegene Qualität residiert.\n\nDieses Selbstbewußtsein kann nicht gegen die Gesamtmasse, nicht gegen die Schwerkraft der Determination arbeiten, aber es kann in sie die Freiheit als Qualität einführen. Auf diese Weise wird nicht nur das Werden mit Augen versehen, nobilitiert, sondern es wird auch sinnvoll – und sinnvoll für den Menschen kann es nur vom Menschen gemacht werden. Sonst geht es an ihm vorüber, durch ihn hindurch und über ihn hinweg. So aber wird es auch heilsam, nach dem alten »Ducunt volentem fata, nolentem trahunt«, dem immer wahren, die Freiheit sowohl ehrenden wie begrenzenden Spruch.\n\nDer Geist wacht an der Schranke; schon dadurch ändert sich, was er passieren läßt, auch wenn er keine Verfügungsgewalt besitzt. Die Wehen freilich bleiben der eigentliche Zoll.",
+      "en": "To return to the image of the iceberg: if determination pervades the whole mass and freedom the uppermost crest, then the thought is likewise permissible that in this visible part, in this `caput`, a higher self-consciousness, a superior quality, resides.\n\nThis self-consciousness cannot work against the whole mass, against the gravity of determination, but it can introduce freedom into it as a quality. In this way becoming is not only endowed with eyes, ennobled; it also becomes meaningful - and meaningful for man it can be only when made so by man. Otherwise it passes by him, through him, and over him. In this way, however, it becomes salutary as well, according to the old `Ducunt volentem fata, nolentem trahunt,` the ever-true maxim that both honors and limits freedom.\n\nSpirit keeps watch at the barrier; by that alone what it lets pass changes, even if it possesses no power of disposal. The pangs, to be sure, remain the true toll.",
+      "de_paragraphs": [
+        "Um zum Bilde des Eisberges zurückzukehren: Wenn Determination die gesamte Masse, Freiheit die oberste Kuppe durchwaltet, so ist zugleich der Gedanke zulässig, daß in diesem sichtbaren Teil, in diesem caput ein höheres Selbstbewußtsein, eine überlegene Qualität residiert.",
+        "Dieses Selbstbewußtsein kann nicht gegen die Gesamtmasse, nicht gegen die Schwerkraft der Determination arbeiten, aber es kann in sie die Freiheit als Qualität einführen. Auf diese Weise wird nicht nur das Werden mit Augen versehen, nobilitiert, sondern es wird auch sinnvoll – und sinnvoll für den Menschen kann es nur vom Menschen gemacht werden. Sonst geht es an ihm vorüber, durch ihn hindurch und über ihn hinweg. So aber wird es auch heilsam, nach dem alten »Ducunt volentem fata, nolentem trahunt«, dem immer wahren, die Freiheit sowohl ehrenden wie begrenzenden Spruch.",
+        "Der Geist wacht an der Schranke; schon dadurch ändert sich, was er passieren läßt, auch wenn er keine Verfügungsgewalt besitzt. Die Wehen freilich bleiben der eigentliche Zoll."
+      ],
+      "en_paragraphs": [
+        "To return to the image of the iceberg: if determination pervades the whole mass and freedom the uppermost crest, then the thought is likewise permissible that in this visible part, in this `caput`, a higher self-consciousness, a superior quality, resides.",
+        "This self-consciousness cannot work against the whole mass, against the gravity of determination, but it can introduce freedom into it as a quality. In this way becoming is not only endowed with eyes, ennobled; it also becomes meaningful - and meaningful for man it can be only when made so by man. Otherwise it passes by him, through him, and over him. In this way, however, it becomes salutary as well, according to the old `Ducunt volentem fata, nolentem trahunt,` the ever-true maxim that both honors and limits freedom.",
+        "Spirit keeps watch at the barrier; by that alone what it lets pass changes, even if it possesses no power of disposal. The pangs, to be sure, remain the true toll."
+      ],
+      "paragraph_alignment": {
+        "de_count": 3,
+        "en_count": 3,
+        "aligned": true,
+        "row_count": 3
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/54-siderische-einteilungen.md"
+    },
+    {
+      "handle": "zm:163",
+      "id": 163,
+      "label": "§163",
+      "part_slug": "siderische-einteilungen",
+      "part_title_de": "Siderische Einteilungen",
+      "part_title_en": "Sidereal Divisions",
+      "de": "Freiheit als Gattungsmerkmal – das ist als Repräsentativcharakter zu verstehen. Sie ist ein Häuptlingskennzeichen, gehört zu den Würden, die wenige für viele, für alle mittragen. Wie bei den staatenbildenden Tieren einige für alle Geschlecht tragen, so haben einige für viele Freiheit im Menschenstand. Sokrates war nicht für sich allein frei; seine Freiheit wirkte für viele und wirkt bis heute nach.\n\nDer Mensch als Spezies bewegt sich in der unsichtbaren Masse des Eisberges, determiniert, instinkthaft, wobei im Sinne der Determination auch die Intelligenz, selbst in ihren schärfsten Ausprägungen, zu den Instinkten zählt. Um das paradox zur Anschauung zu bringen, hat Dostojewski seinen »Idioten« zur Darstellung des höheren Typus gewählt. Die Intelligenz kann Freiheit, die viel tiefer und höher wohnt, nicht schaffen, wohl aber ihr Arsenal füllen.\n\nGeistige Freiheit kennzeichnet die Menschenart. Man findet sie bei ihr allein. Politisches Wesen, Staatenbildung dagegen ist kein dem Menschen vorbehaltenes Kennzeichen. Der Mensch hat lange ohne Staaten gelebt und wird vielleicht wieder dazu fähig sein. Die Fähigkeit zur Staatenbildung ist an einem gewissen Punkte seiner Entwicklung an ihn als Bildungsprinzip herangetragen worden, so wie das auch bei anderen Spezies geschehen ist.\n\nDie Bildungsprinzipien wiederholen sich, wenn sie einmal mit dem Leben verknüpft waren. Sie schweben als Keime, als Möglichkeiten in seinem ungesonderten Fluß. So erklären sich die stets wiederholten Ansätze zur Staatenbildung von den Coelenteraten, ja von den Urtieren an. Freiheit im geistigen Sinne trat erst mit dem Menschen in den Fluß des Lebens ein. Von nun an kann auch die Freiheit nicht verloren gehen. In dieser Hinsicht dürfen wir Hegel zustimmen.\n\nAndererseits ist die Wahrung der Freiheit menschliche Aufgabe. Sie geht, da sie das Humane stärker kennzeichnet als die Staatenbildung, der Wahrung des Staates voran. Nicht der Staat kann daher die Freiheit garantieren, sondern nur der Mensch selbst. Das schließt nicht aus, daß er sich auch des Staates in dieser Absicht bedient.",
+      "en": "Freedom as a species-mark - that is to be understood as representative character. It is a chieftain's mark, belongs to the dignities that a few bear along for many, for all. As among the state-forming animals some bear sex for all, so among mankind some have freedom for many. Socrates was not free for himself alone; his freedom worked for many and works on to this day.\n\nMan as species moves in the invisible mass of the iceberg, determined, instinctively, where in the sense of determination intelligence too, even in its sharpest forms, counts among the instincts. To bring this paradox before the eye, Dostoevsky chose his `Idiot` to depict the higher type. Intelligence cannot create freedom, which dwells much deeper and higher, but it can fill its arsenal.\n\nSpiritual freedom marks the human species. It is found in it alone. Political being, state-formation, by contrast, is not a mark reserved to man. Man lived long without states and may perhaps become capable of that again. The capacity for state-formation was brought to him at a certain point in his development as a formative principle, just as this has happened with other species.\n\nFormative principles repeat themselves once they have been linked with life. They float as germs, as possibilities in its undivided flow. Thus are explained the ever-repeated beginnings of state-formation from the coelenterates, indeed from the protozoa onward. Freedom in the spiritual sense entered the stream of life only with man. From now on freedom too cannot be lost. In this respect we may agree with Hegel.\n\nOn the other hand, the preservation of freedom is man's task. Since it marks the human more strongly than state-formation, it takes precedence over the preservation of the state. It is not the state, therefore, that can guarantee freedom, but only man himself. That does not exclude his making use of the state in this intention as well.",
+      "de_paragraphs": [
+        "Freiheit als Gattungsmerkmal – das ist als Repräsentativcharakter zu verstehen. Sie ist ein Häuptlingskennzeichen, gehört zu den Würden, die wenige für viele, für alle mittragen. Wie bei den staatenbildenden Tieren einige für alle Geschlecht tragen, so haben einige für viele Freiheit im Menschenstand. Sokrates war nicht für sich allein frei; seine Freiheit wirkte für viele und wirkt bis heute nach.",
+        "Der Mensch als Spezies bewegt sich in der unsichtbaren Masse des Eisberges, determiniert, instinkthaft, wobei im Sinne der Determination auch die Intelligenz, selbst in ihren schärfsten Ausprägungen, zu den Instinkten zählt. Um das paradox zur Anschauung zu bringen, hat Dostojewski seinen »Idioten« zur Darstellung des höheren Typus gewählt. Die Intelligenz kann Freiheit, die viel tiefer und höher wohnt, nicht schaffen, wohl aber ihr Arsenal füllen.",
+        "Geistige Freiheit kennzeichnet die Menschenart. Man findet sie bei ihr allein. Politisches Wesen, Staatenbildung dagegen ist kein dem Menschen vorbehaltenes Kennzeichen. Der Mensch hat lange ohne Staaten gelebt und wird vielleicht wieder dazu fähig sein. Die Fähigkeit zur Staatenbildung ist an einem gewissen Punkte seiner Entwicklung an ihn als Bildungsprinzip herangetragen worden, so wie das auch bei anderen Spezies geschehen ist.",
+        "Die Bildungsprinzipien wiederholen sich, wenn sie einmal mit dem Leben verknüpft waren. Sie schweben als Keime, als Möglichkeiten in seinem ungesonderten Fluß. So erklären sich die stets wiederholten Ansätze zur Staatenbildung von den Coelenteraten, ja von den Urtieren an. Freiheit im geistigen Sinne trat erst mit dem Menschen in den Fluß des Lebens ein. Von nun an kann auch die Freiheit nicht verloren gehen. In dieser Hinsicht dürfen wir Hegel zustimmen.",
+        "Andererseits ist die Wahrung der Freiheit menschliche Aufgabe. Sie geht, da sie das Humane stärker kennzeichnet als die Staatenbildung, der Wahrung des Staates voran. Nicht der Staat kann daher die Freiheit garantieren, sondern nur der Mensch selbst. Das schließt nicht aus, daß er sich auch des Staates in dieser Absicht bedient."
+      ],
+      "en_paragraphs": [
+        "Freedom as a species-mark - that is to be understood as representative character. It is a chieftain's mark, belongs to the dignities that a few bear along for many, for all. As among the state-forming animals some bear sex for all, so among mankind some have freedom for many. Socrates was not free for himself alone; his freedom worked for many and works on to this day.",
+        "Man as species moves in the invisible mass of the iceberg, determined, instinctively, where in the sense of determination intelligence too, even in its sharpest forms, counts among the instincts. To bring this paradox before the eye, Dostoevsky chose his `Idiot` to depict the higher type. Intelligence cannot create freedom, which dwells much deeper and higher, but it can fill its arsenal.",
+        "Spiritual freedom marks the human species. It is found in it alone. Political being, state-formation, by contrast, is not a mark reserved to man. Man lived long without states and may perhaps become capable of that again. The capacity for state-formation was brought to him at a certain point in his development as a formative principle, just as this has happened with other species.",
+        "Formative principles repeat themselves once they have been linked with life. They float as germs, as possibilities in its undivided flow. Thus are explained the ever-repeated beginnings of state-formation from the coelenterates, indeed from the protozoa onward. Freedom in the spiritual sense entered the stream of life only with man. From now on freedom too cannot be lost. In this respect we may agree with Hegel.",
+        "On the other hand, the preservation of freedom is man's task. Since it marks the human more strongly than state-formation, it takes precedence over the preservation of the state. It is not the state, therefore, that can guarantee freedom, but only man himself. That does not exclude his making use of the state in this intention as well."
+      ],
+      "paragraph_alignment": {
+        "de_count": 5,
+        "en_count": 5,
+        "aligned": true,
+        "row_count": 5
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/55-siderische-einteilungen.md"
+    },
+    {
+      "handle": "zm:164",
+      "id": 164,
+      "label": "§164",
+      "part_slug": "siderische-einteilungen",
+      "part_title_de": "Siderische Einteilungen",
+      "part_title_en": "Sidereal Divisions",
+      "de": "Wenn der Zug abfährt, ist es möglich, daß er nur wenige Reisende mitführt – nur jene, die die Stunde nicht versäumt haben. Es wäre auch möglich, daß die meisten die Stunde versäumen wollen, weil ihnen die Station angenehmer, heimischer, vertrauter erscheint als die Fahrt.\n\nEin ähnliches Schema muß Nietzsche vorgeschwebt haben, als er das Bild vom »Übermenschen« und vom »Letzten Menschen« entwarf. Daß er das Mitleid als Unterscheidungsmerkmal einführte, ist ein genialer, weidlich mißverstandener Zug.\n\nTerminologisch gesehen ist das Wort vom Letzten Menschen glücklicher als das vom Übermenschen gewählt, unter dem wir hier den Typus verstehen, dem der Austritt aus der Geschichte gelingt. Das ist die Aufgabe, um sie dreht sich die Bewegung an der Zeitmauer.\n\nDer Übermensch kann nicht ohne den Letzten, das heißt: den reduzierten Menschen gedacht werden. Es kommt darauf an – um ein allzu bekannt gewordenes Wort Gottfried Benns zu verwenden – was einer aus seinem Nihilismus macht. Aber ehe man aus dem Nihilismus etwas machen kann, muß er vorhanden sein. Oder, wie Nietzsche sagte: »Die Deutschen sind noch nichts. Das heißt, sie sind allerhand.«\n\nUm zur Station zurückzukehren: Der Zug wird abfahren, gleichviel ob wenig in ihm sitzen oder viele; die Bremsen sind gelöst. Er wird auch abfahren, wenn überhaupt kein Mensch in ihm sitzt. Das entspräche einem Großteil der heutigen Befürchtungen. Aber dann kann auch von der Station keine Rede mehr sein. Der Geschichtsphilosoph kann seine Betrachtungen abschließen. Nicht so der Metaphysiker. Sein Standort kann von bloßen Kategorien der Bewegung, von Fortschritt und Rückschritt, Revolution und Reaktion, Aufgang und Untergang nicht berührt werden, falls er seinen Namen verdient. Darin gleicht er dem Christen in seiner besten Zeit.\n\nEs konnte nicht ausbleiben, daß das Verhältnis des »Übermenschen« zu den »Vielzuvielen« als Versuch einer Wiedereinführung der Sklaverei interpretiert wurde. Abgesehen davon, daß solche Versuche heute aus ganz anderer Richtung kommen, hat man über Nietzsche alle Dummheiten gehört, die denkbar sind, und dazu noch eine Anzahl solcher, die unausdenkbar sind. Daß er durch Deutschlands Schicksalsstunde in Mitleidenschaft gezogen, nach jeder Richtung verfälscht, verdächtigt wurde, berührt sein Werk nicht; es bleibt ein Intelligenztest an der Zeitwende, und noch einiges mehr. Ihn ortet nicht die Kritik, sie rangiert sich an ihm.\n\nDer neue Typus ist nicht der kommende Großherr, sondern er gibt den »Vielzuvielen« ihre Würde, ihre Bedeutung zurück. Ein Gerechter hätte Sodom gerettet – und säße in unserem Zuge nur ein Einzelner, der ein neues Ziel erreichte, so wäre damit auch Myriaden auf der Station Verbliebener gedient.",
+      "en": "When the train departs, it is possible that it carries only a few travelers - only those who have not missed the hour. It would also be possible that most want to miss the hour because the station appears to them more pleasant, more homelike, more familiar than the journey.\n\nSomething similar must have hovered before Nietzsche when he drafted the image of the `Overman` and the `Last Man.` That he introduced pity as the distinguishing mark is a genial move, lavishly misunderstood.\n\nTerminologically speaking, the word of the `Last Man` is more happily chosen than that of the `Overman,` by which we here understand the type to whom exit from history succeeds. That is the task; around it the movement at the time wall turns.\n\nThe `Overman` cannot be thought without the last, that is, the reduced man. What matters - to use an all-too-well-known word of Gottfried Benn - is what one makes of one's nihilism. But before one can make something out of nihilism, it must be there. Or, as Nietzsche said: `The Germans are still nothing. That is, they are all sorts of things.`\n\nTo return to the station: the train will depart whether few sit in it or many; the brakes are released. It will also depart if no human being at all sits in it. That would correspond to a large part of today's fears. But then there can be no talk of the station either. The philosopher of history can conclude his considerations. Not so the metaphysician. His standpoint cannot be touched by mere categories of motion, of progress and regress, revolution and reaction, rise and downfall, if he deserves the name. In that he resembles the Christian in his best time.\n\nIt could not fail that the relation of the `Overman` to the `many-too-many` was interpreted as an attempt to reintroduce slavery. Quite apart from the fact that such attempts today come from altogether different directions, one has heard about Nietzsche every stupidity that can be thought, and besides a number that cannot be thought. That he was caught up in Germany's fateful hour, falsified in every direction, made suspect, does not touch his work; it remains an intelligence test at the turn of the age, and something more besides. Criticism does not situate him; it takes its rank from him.\n\nThe new type is not the coming great lord; rather, he gives the `many-too-many` back their dignity, their significance. One righteous man would have saved Sodom - and if in our train there sat only a single individual who reached a new goal, then myriads left behind on the station would thereby have been served as well.",
+      "de_paragraphs": [
+        "Wenn der Zug abfährt, ist es möglich, daß er nur wenige Reisende mitführt – nur jene, die die Stunde nicht versäumt haben. Es wäre auch möglich, daß die meisten die Stunde versäumen wollen, weil ihnen die Station angenehmer, heimischer, vertrauter erscheint als die Fahrt.",
+        "Ein ähnliches Schema muß Nietzsche vorgeschwebt haben, als er das Bild vom »Übermenschen« und vom »Letzten Menschen« entwarf. Daß er das Mitleid als Unterscheidungsmerkmal einführte, ist ein genialer, weidlich mißverstandener Zug.",
+        "Terminologisch gesehen ist das Wort vom Letzten Menschen glücklicher als das vom Übermenschen gewählt, unter dem wir hier den Typus verstehen, dem der Austritt aus der Geschichte gelingt. Das ist die Aufgabe, um sie dreht sich die Bewegung an der Zeitmauer.",
+        "Der Übermensch kann nicht ohne den Letzten, das heißt: den reduzierten Menschen gedacht werden. Es kommt darauf an – um ein allzu bekannt gewordenes Wort Gottfried Benns zu verwenden – was einer aus seinem Nihilismus macht. Aber ehe man aus dem Nihilismus etwas machen kann, muß er vorhanden sein. Oder, wie Nietzsche sagte: »Die Deutschen sind noch nichts. Das heißt, sie sind allerhand.«",
+        "Um zur Station zurückzukehren: Der Zug wird abfahren, gleichviel ob wenig in ihm sitzen oder viele; die Bremsen sind gelöst. Er wird auch abfahren, wenn überhaupt kein Mensch in ihm sitzt. Das entspräche einem Großteil der heutigen Befürchtungen. Aber dann kann auch von der Station keine Rede mehr sein. Der Geschichtsphilosoph kann seine Betrachtungen abschließen. Nicht so der Metaphysiker. Sein Standort kann von bloßen Kategorien der Bewegung, von Fortschritt und Rückschritt, Revolution und Reaktion, Aufgang und Untergang nicht berührt werden, falls er seinen Namen verdient. Darin gleicht er dem Christen in seiner besten Zeit.",
+        "Es konnte nicht ausbleiben, daß das Verhältnis des »Übermenschen« zu den »Vielzuvielen« als Versuch einer Wiedereinführung der Sklaverei interpretiert wurde. Abgesehen davon, daß solche Versuche heute aus ganz anderer Richtung kommen, hat man über Nietzsche alle Dummheiten gehört, die denkbar sind, und dazu noch eine Anzahl solcher, die unausdenkbar sind. Daß er durch Deutschlands Schicksalsstunde in Mitleidenschaft gezogen, nach jeder Richtung verfälscht, verdächtigt wurde, berührt sein Werk nicht; es bleibt ein Intelligenztest an der Zeitwende, und noch einiges mehr. Ihn ortet nicht die Kritik, sie rangiert sich an ihm.",
+        "Der neue Typus ist nicht der kommende Großherr, sondern er gibt den »Vielzuvielen« ihre Würde, ihre Bedeutung zurück. Ein Gerechter hätte Sodom gerettet – und säße in unserem Zuge nur ein Einzelner, der ein neues Ziel erreichte, so wäre damit auch Myriaden auf der Station Verbliebener gedient."
+      ],
+      "en_paragraphs": [
+        "When the train departs, it is possible that it carries only a few travelers - only those who have not missed the hour. It would also be possible that most want to miss the hour because the station appears to them more pleasant, more homelike, more familiar than the journey.",
+        "Something similar must have hovered before Nietzsche when he drafted the image of the `Overman` and the `Last Man.` That he introduced pity as the distinguishing mark is a genial move, lavishly misunderstood.",
+        "Terminologically speaking, the word of the `Last Man` is more happily chosen than that of the `Overman,` by which we here understand the type to whom exit from history succeeds. That is the task; around it the movement at the time wall turns.",
+        "The `Overman` cannot be thought without the last, that is, the reduced man. What matters - to use an all-too-well-known word of Gottfried Benn - is what one makes of one's nihilism. But before one can make something out of nihilism, it must be there. Or, as Nietzsche said: `The Germans are still nothing. That is, they are all sorts of things.`",
+        "To return to the station: the train will depart whether few sit in it or many; the brakes are released. It will also depart if no human being at all sits in it. That would correspond to a large part of today's fears. But then there can be no talk of the station either. The philosopher of history can conclude his considerations. Not so the metaphysician. His standpoint cannot be touched by mere categories of motion, of progress and regress, revolution and reaction, rise and downfall, if he deserves the name. In that he resembles the Christian in his best time.",
+        "It could not fail that the relation of the `Overman` to the `many-too-many` was interpreted as an attempt to reintroduce slavery. Quite apart from the fact that such attempts today come from altogether different directions, one has heard about Nietzsche every stupidity that can be thought, and besides a number that cannot be thought. That he was caught up in Germany's fateful hour, falsified in every direction, made suspect, does not touch his work; it remains an intelligence test at the turn of the age, and something more besides. Criticism does not situate him; it takes its rank from him.",
+        "The new type is not the coming great lord; rather, he gives the `many-too-many` back their dignity, their significance. One righteous man would have saved Sodom - and if in our train there sat only a single individual who reached a new goal, then myriads left behind on the station would thereby have been served as well."
+      ],
+      "paragraph_alignment": {
+        "de_count": 7,
+        "en_count": 7,
+        "aligned": true,
+        "row_count": 7
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/55-siderische-einteilungen.md"
+    },
+    {
+      "handle": "zm:165",
+      "id": 165,
+      "label": "§165",
+      "part_slug": "siderische-einteilungen",
+      "part_title_de": "Siderische Einteilungen",
+      "part_title_en": "Sidereal Divisions",
+      "de": "Noch einmal zum Eisberg: Der große Schub findet im Unsichtbaren, im Unbewußten, in der blinden Masse statt. Das gilt auch dort, wo der Staat als Promotor erscheint. Vielen, die sich mit Nietzsches Vision beschäftigt haben, wird seine Mißachtung des Staates aufgefallen sein. Wie kann ein Krieger staatsfeindlich sein? Er sah im Staat den Drachen, das tausendschuppige Ungeheuer, also Hobbes’ Leviathan.\n\nIndessen gehört die Rolle, die wir dem Staat zuschreiben, zu den optischen Täuschungen auf der Station. Es sind nicht die Staaten, die den Schub bewirken, sondern der Schub treibt auch die Staaten vor. Der Geist erstaunt über die Funktionen und Blendwerke, die diese Bewegung hervorzubringen scheinen, aber er staunt auch über die Wirkungen, und er erschrickt bei dem Gedanken, daß diese Mischung sich im Weltstaat noch akkumulieren wird.\n\nAuch das sah Nietzsche voraus, und auch die Zersprengung des Weltstaates infolge der Akkumulation. Doch das sind fernere Sorgen, sie berühren uns nicht. Da sich Wörter wie »Krieg« und »Frieden« ändern, ist es wahrscheinlich, daß sich jenseits der Zeitmauer auch Wörter wie »Staat« ändern. Vermutlich wird der Weltstaat einen Status, eine Station bezeichnen, deren Formen und deren Dauer nicht abzusehen sind. Die absolute Zeitrechnung kennt längere Rhythmen als die historische. Es ist zu vermuten, daß die »Große Fahrt« nur Augenblicke in Anspruch nimmt, zwischen die sich unvorstellbar lange Pausen einschieben. Die Erde trägt, wie Bohrungen erwiesen haben, Korallenstöcke, deren Gründung bis auf das Eozoikum zurückgeht, die Morgenröte nicht der Geschichte, sondern des Lebens überhaupt.\n\nDaß Nietzsche dem Staat abhold sein mußte – und darin trifft er sich mit einem Antipoden wie Rousseau – ist eine Frage des Standortes. Im Staate kann und darf nicht volle Willensfreiheit sein. Wer letzte Dinge zu sagen hat, muß außerhalb des Staates stehen, das ist sein Kennzeichen. Es ist sein Schicksal und, wo die Sterne zwingen, sein Untergang.\n\nBei Nietzsche wird das deutlich; er hat das Leben eines Unbehausten, in Hölderlins Sinne Unstädtischen, geführt. Er hat sich inmitten des 19. Jahrhunderts in der Landschaft bewegt, in der erdgeistige Seher wie Chiron und Melampus heimisch gewesen sind. Adler und Schlange: das ist kentaurischer Geist, ist große, erdgeistige Wiederkehr.",
+      "en": "Once more to the iceberg: the great shove takes place in the invisible, in the unconscious, in the blind mass. This holds even where the state appears as promoter. Many who have occupied themselves with Nietzsche's vision will have noticed his disregard for the state. How can a warrior be hostile to the state? He saw in the state the dragon, the thousand-scaled monster, that is, Hobbes's Leviathan.\n\nMeanwhile the role we ascribe to the state belongs to the optical illusions on the station. It is not the states that bring about the shove; the shove drives the states onward as well. Spirit marvels at the functions and dazzlements this movement seems to bring forth, but it marvels also at the effects, and recoils at the thought that this mixture will still accumulate in the world-state.\n\nNietzsche foresaw that too, and also the blasting-apart of the world-state as a consequence of accumulation. But those are remoter worries; they do not touch us. Since words like `war` and `peace` change, it is likely that beyond the time wall words like `state` change too. Presumably the world-state will designate a status, a station, whose forms and duration cannot be foreseen. Absolute time-reckoning knows longer rhythms than the historical. It is to be assumed that the `Great Journey` takes only moments, between which unimaginably long pauses insert themselves. As drillings have shown, the earth bears coral stocks whose founding reaches back to the Eozoic, the dawn not of history but of life itself.\n\nThat Nietzsche had to be hostile to the state - and in that he meets an antipode like Rousseau - is a question of standpoint. In the state there can and may not be full freedom of will. Whoever has ultimate things to say must stand outside the state; that is his distinguishing mark. It is his fate and, where the stars compel, his downfall.\n\nWith Nietzsche this becomes clear; he led the life of one without a house, in Hölderlin's sense one without a city. In the midst of the nineteenth century he moved in the landscape in which earth-spiritual seers like Chiron and Melampus had been at home. Eagle and serpent: that is centauric spirit, is great, earth-spiritual recurrence.",
+      "de_paragraphs": [
+        "Noch einmal zum Eisberg: Der große Schub findet im Unsichtbaren, im Unbewußten, in der blinden Masse statt. Das gilt auch dort, wo der Staat als Promotor erscheint. Vielen, die sich mit Nietzsches Vision beschäftigt haben, wird seine Mißachtung des Staates aufgefallen sein. Wie kann ein Krieger staatsfeindlich sein? Er sah im Staat den Drachen, das tausendschuppige Ungeheuer, also Hobbes’ Leviathan.",
+        "Indessen gehört die Rolle, die wir dem Staat zuschreiben, zu den optischen Täuschungen auf der Station. Es sind nicht die Staaten, die den Schub bewirken, sondern der Schub treibt auch die Staaten vor. Der Geist erstaunt über die Funktionen und Blendwerke, die diese Bewegung hervorzubringen scheinen, aber er staunt auch über die Wirkungen, und er erschrickt bei dem Gedanken, daß diese Mischung sich im Weltstaat noch akkumulieren wird.",
+        "Auch das sah Nietzsche voraus, und auch die Zersprengung des Weltstaates infolge der Akkumulation. Doch das sind fernere Sorgen, sie berühren uns nicht. Da sich Wörter wie »Krieg« und »Frieden« ändern, ist es wahrscheinlich, daß sich jenseits der Zeitmauer auch Wörter wie »Staat« ändern. Vermutlich wird der Weltstaat einen Status, eine Station bezeichnen, deren Formen und deren Dauer nicht abzusehen sind. Die absolute Zeitrechnung kennt längere Rhythmen als die historische. Es ist zu vermuten, daß die »Große Fahrt« nur Augenblicke in Anspruch nimmt, zwischen die sich unvorstellbar lange Pausen einschieben. Die Erde trägt, wie Bohrungen erwiesen haben, Korallenstöcke, deren Gründung bis auf das Eozoikum zurückgeht, die Morgenröte nicht der Geschichte, sondern des Lebens überhaupt.",
+        "Daß Nietzsche dem Staat abhold sein mußte – und darin trifft er sich mit einem Antipoden wie Rousseau – ist eine Frage des Standortes. Im Staate kann und darf nicht volle Willensfreiheit sein. Wer letzte Dinge zu sagen hat, muß außerhalb des Staates stehen, das ist sein Kennzeichen. Es ist sein Schicksal und, wo die Sterne zwingen, sein Untergang.",
+        "Bei Nietzsche wird das deutlich; er hat das Leben eines Unbehausten, in Hölderlins Sinne Unstädtischen, geführt. Er hat sich inmitten des 19. Jahrhunderts in der Landschaft bewegt, in der erdgeistige Seher wie Chiron und Melampus heimisch gewesen sind. Adler und Schlange: das ist kentaurischer Geist, ist große, erdgeistige Wiederkehr."
+      ],
+      "en_paragraphs": [
+        "Once more to the iceberg: the great shove takes place in the invisible, in the unconscious, in the blind mass. This holds even where the state appears as promoter. Many who have occupied themselves with Nietzsche's vision will have noticed his disregard for the state. How can a warrior be hostile to the state? He saw in the state the dragon, the thousand-scaled monster, that is, Hobbes's Leviathan.",
+        "Meanwhile the role we ascribe to the state belongs to the optical illusions on the station. It is not the states that bring about the shove; the shove drives the states onward as well. Spirit marvels at the functions and dazzlements this movement seems to bring forth, but it marvels also at the effects, and recoils at the thought that this mixture will still accumulate in the world-state.",
+        "Nietzsche foresaw that too, and also the blasting-apart of the world-state as a consequence of accumulation. But those are remoter worries; they do not touch us. Since words like `war` and `peace` change, it is likely that beyond the time wall words like `state` change too. Presumably the world-state will designate a status, a station, whose forms and duration cannot be foreseen. Absolute time-reckoning knows longer rhythms than the historical. It is to be assumed that the `Great Journey` takes only moments, between which unimaginably long pauses insert themselves. As drillings have shown, the earth bears coral stocks whose founding reaches back to the Eozoic, the dawn not of history but of life itself.",
+        "That Nietzsche had to be hostile to the state - and in that he meets an antipode like Rousseau - is a question of standpoint. In the state there can and may not be full freedom of will. Whoever has ultimate things to say must stand outside the state; that is his distinguishing mark. It is his fate and, where the stars compel, his downfall.",
+        "With Nietzsche this becomes clear; he led the life of one without a house, in Hölderlin's sense one without a city. In the midst of the nineteenth century he moved in the landscape in which earth-spiritual seers like Chiron and Melampus had been at home. Eagle and serpent: that is centauric spirit, is great, earth-spiritual recurrence."
+      ],
+      "paragraph_alignment": {
+        "de_count": 5,
+        "en_count": 5,
+        "aligned": true,
+        "row_count": 5
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/55-siderische-einteilungen.md"
+    },
+    {
+      "handle": "zm:166",
+      "id": 166,
+      "label": "§166",
+      "part_slug": "siderische-einteilungen",
+      "part_title_de": "Siderische Einteilungen",
+      "part_title_en": "Sidereal Divisions",
+      "de": "Das ist das Schauspiel am Abgrund, hoch auf der geschichteten Mauer, die »Geschichte« heißt: daß der Mensch sich nicht nur zum Sprung gezwungen sieht, sondern daß er ihn sogar wagen will. Damit verändern sich sowohl Determination wie Evolution.\n\nDer Mensch fühlt, daß ihm als Menschen die Vernichtung droht. Oft zeichnete der Mythos dieses Schicksal vor. Legt aber der Mensch das Menschliche ab wie eine verbrauchte Maske, ein verschlissenes Gewand, so droht ihm Schlimmeres. Es droht das Schicksal der Ehernen Schlange, droht die Vererzung in zoologischen, magischen, titanischen Ordnungen.\n\nWir sahen, daß von Willensfreiheit nur auf einer schmalen Kuppe gesprochen werden kann. Doch gerade hier wird entschieden, was unentbehrlich ist bei der Verwandlung, wertvoller als Leben, und nicht geopfert werden darf. Solange in dieser Hinsicht Zweifel herrschen, aber auch solange sie noch nicht geherrscht haben, sind wir noch innerhalb der nihilistischen Passage, diesseits der Linie.\n\nDer Mensch kann nicht darüber entscheiden, was an archaischer und mythischer Substanz, wohl aber darüber, was an geschichtlich-humanem Erbe mitgenommen wird. Hier spricht Bewußtsein mit, und damit Verantwortung. Das kann auch Reinigung bedeuten, indem es zugleich möglich erscheint, daß historisch-politische Elemente der Selektion zum Opfer fallen und als überwunden zurückbleiben, vielleicht sogar der Staat. Darin vollzieht sich mehr und Schmerzhafteres als im bloßen Wechsel moralischer Anschauungen, wie ihn die Panik erzeugt. Sie ist kein Zoll für den Eintritt in die transhistorische Welt.\n\nURGRUND UND PERSON",
+      "en": "That is the spectacle over the abyss, high upon the layered wall called `history`: that man sees himself not only compelled to leap, but even willing to dare it. By that both determination and evolution change.\n\nMan feels that annihilation threatens him as man. Myth often sketched this fate in advance. But if man lays aside the human like a used-up mask, a worn-out garment, then something worse threatens him. The fate of the `Brazen Serpent` threatens, the turning-to-bronze within zoological, magical, titanic orders.\n\nWe saw that freedom of will can be spoken of only on a narrow crest. Yet it is precisely here that what is indispensable in the transformation, more valuable than life, and not to be sacrificed, is decided. So long as doubts prevail in this respect, but also so long as they have not yet prevailed, we are still within the nihilistic passage, on this side of the line.\n\nMan cannot decide over what of archaic and mythic substance is carried over, but he can decide over what of the historical-human inheritance is taken along. Here consciousness speaks with it, and with that responsibility. This can also mean purification, since at the same time it appears possible that historical-political elements fall victim to selection and remain behind as overcome, perhaps even the state. More and more painfully is enacted here than in the mere change of moral views that panic produces. It is no toll for entry into the transhistorical world.\n\nPRIMAL GROUND AND PERSON",
+      "de_paragraphs": [
+        "Das ist das Schauspiel am Abgrund, hoch auf der geschichteten Mauer, die »Geschichte« heißt: daß der Mensch sich nicht nur zum Sprung gezwungen sieht, sondern daß er ihn sogar wagen will. Damit verändern sich sowohl Determination wie Evolution.",
+        "Der Mensch fühlt, daß ihm als Menschen die Vernichtung droht. Oft zeichnete der Mythos dieses Schicksal vor. Legt aber der Mensch das Menschliche ab wie eine verbrauchte Maske, ein verschlissenes Gewand, so droht ihm Schlimmeres. Es droht das Schicksal der Ehernen Schlange, droht die Vererzung in zoologischen, magischen, titanischen Ordnungen.",
+        "Wir sahen, daß von Willensfreiheit nur auf einer schmalen Kuppe gesprochen werden kann. Doch gerade hier wird entschieden, was unentbehrlich ist bei der Verwandlung, wertvoller als Leben, und nicht geopfert werden darf. Solange in dieser Hinsicht Zweifel herrschen, aber auch solange sie noch nicht geherrscht haben, sind wir noch innerhalb der nihilistischen Passage, diesseits der Linie.",
+        "Der Mensch kann nicht darüber entscheiden, was an archaischer und mythischer Substanz, wohl aber darüber, was an geschichtlich-humanem Erbe mitgenommen wird. Hier spricht Bewußtsein mit, und damit Verantwortung. Das kann auch Reinigung bedeuten, indem es zugleich möglich erscheint, daß historisch-politische Elemente der Selektion zum Opfer fallen und als überwunden zurückbleiben, vielleicht sogar der Staat. Darin vollzieht sich mehr und Schmerzhafteres als im bloßen Wechsel moralischer Anschauungen, wie ihn die Panik erzeugt. Sie ist kein Zoll für den Eintritt in die transhistorische Welt.",
+        "URGRUND UND PERSON"
+      ],
+      "en_paragraphs": [
+        "That is the spectacle over the abyss, high upon the layered wall called `history`: that man sees himself not only compelled to leap, but even willing to dare it. By that both determination and evolution change.",
+        "Man feels that annihilation threatens him as man. Myth often sketched this fate in advance. But if man lays aside the human like a used-up mask, a worn-out garment, then something worse threatens him. The fate of the `Brazen Serpent` threatens, the turning-to-bronze within zoological, magical, titanic orders.",
+        "We saw that freedom of will can be spoken of only on a narrow crest. Yet it is precisely here that what is indispensable in the transformation, more valuable than life, and not to be sacrificed, is decided. So long as doubts prevail in this respect, but also so long as they have not yet prevailed, we are still within the nihilistic passage, on this side of the line.",
+        "Man cannot decide over what of archaic and mythic substance is carried over, but he can decide over what of the historical-human inheritance is taken along. Here consciousness speaks with it, and with that responsibility. This can also mean purification, since at the same time it appears possible that historical-political elements fall victim to selection and remain behind as overcome, perhaps even the state. More and more painfully is enacted here than in the mere change of moral views that panic produces. It is no toll for entry into the transhistorical world.",
+        "PRIMAL GROUND AND PERSON"
+      ],
+      "paragraph_alignment": {
+        "de_count": 5,
+        "en_count": 5,
+        "aligned": true,
+        "row_count": 5
+      },
+      "source_file": "texts/zeitmauer/source/sections.yaml",
+      "draft_file": "texts/zeitmauer/parts/55-siderische-einteilungen.md"
     }
   ],
   "glossary": [
@@ -5299,7 +5531,7 @@
         "Astral Divisions"
       ],
       "status": "tentative",
-      "notes": "Working after §§85-159. `Siderisch` here begins not as astrology in the narrow sense but as earth-history viewed as the history of a heavenly body, widening at once into cosmogony, apocalypse, technical catastrophe, and the question of whether even cyclical cosmologies still require an axis, a body, and limits to time. By §§88-90 the part also binds modern doom to human work, technocracy, the loss of transcendental counterweight, and the claim that catastrophe can remain collectively unavoidable yet become intensively solvable for the individual. By §§91-93 it adds the martyr standard, the image of the world as a burnable house in human hands, and the first explicit forecasts of political unity, overstrain, and planetary process. By §§94-96 it turns spaceflight into an earth-historical sign, approaches Nietzsche's `wars without powder`, and makes the mismatch between transhistorical means and historical war explicit. By §§97-99 it shifts into atmosphere, monotony, substance-loss, and the possibility that metaphysical hunger itself could die away under technical perfection. By §§100-102 it closes the first substance-account of the part through credit, debt, and countervalue, presses equality into inner `So-Sein`, and binds the whole exchange directly to the title-image at the time wall. By §§103-105 it turns crisis into initiation and passage, reintroduces astrology as the model of a superior synoptic method, and widens the cut into geological epochs, great years, and nearly invisible partial catastrophes. By §§106-108 it rebalances catastrophe by the entry of new types, treats geological disquiet as prior to objective findings, and closes on ice and climate under the sign of a larger cosmic economy. By §§109-111 it tests geological unrest against happiness, reintroduces harmony above death through `Schöpfungsplan` and `Weltplan`, and returns to the measurable field through the geometry of progression: altered earth-color, diminishing wilderness, angle, and row. By §§112-114 it sharpens that progression into the right angle, the nest-versus-plan conflict, the threatened Faustian plan, and finally the methodological claim that geology, history, and freedom are answered differently on this side and beyond the time wall. By §§115-117 it treats humanity itself as layer-forming, reads mass increase and mass revolution as epochal symptoms rather than as mere machine-effects, and reaches `Urgrund` again through two models of world-spiritualization, one artistic and one earth-force. By §§118-120 it turns the same register toward earth-sense, the deliberate preference for `Urgrund` over `Weltgeist`, the possibility of new freedom beyond the wall, and the rare discipline of spiritual sovereignty. By §§121-123 it binds that freedom-problem to voluntariness, invisible cause, antaean mistrust of the elements, technical flight into experiment, and meteorology as a daily planetary science that revives the augur-function inside human knowledge. By §§124-126 it turns the same movement toward electrification: the lightning rod as earth-historical sign, electricity as invisible ordering distinct from steam's brutal visibility, the seam-point of matter and mind at the time wall, and Franklin's city-fields as heralds of a new age entering through weak and meager forms. By §§127-129 it extends electrification into the first organ of antaean unrest, the nerve-like refinement and spiritualization of the technical world, the invisible democracy and world-will moving under `Weltplan`, and finally the explicit admission that the whole electrical argument is analogical and that the present night-view of nature is only a provisional workshop-style awaiting a fuller, ensouled recognition. By §§130-132 it turns the same movement toward the charged earth-envelope and the intelligent ship: the earth-historical aspect overarches the world-historical, transmission becomes world-language and substance-change, the plan enters a magnetic world of stronger answers, and freedom migrates toward the mantic compass under conditions where steering itself becomes doubtful. By §§133-135 it pushes the same movement into anthropology, reconnaissance at the wall, and absolute dating: the unrest becomes biological, going to the time wall becomes listening for signals, and historical and biological chronistics are subordinated to an earth-historical, earth-revolutionary system of time-setting. By §§136-138 it turns the same movement into qualitative station-time, extinction-economy, and total life-movement: elementary clocks revise phylogenetic time, Sindbad's fish-island ties human action to cosmic motion, extinction follows a new management of the earth-household, and the spread of types is treated as a total movement to be grasped earth-historically or even cosmologically. By §§139-141 it turns the same movement toward volcanic and solar periods, atmospheric instrumentation, and spiral catastrophe-theory: historical memory proves too short for the relevant scales, atmospheric unrest becomes part of everyday orientation, and Darwinian continuity is re-read through periodization, Cuvier, and the modern preference for `genes` over `Genesis`. By §§142-144 it turns the same movement toward primal generation, hominisation crisis, and mythic godfall: catastrophe is made insufficient, undifferentiated reserves are reintroduced beneath species-formation, self-conscious layer-work brings freedom and responsibility into collision with earth-history, and the time wall appears as the last boundary-mark in an antaean revolt after the fall of the gods. By §§145-147 it turns the same movement toward experiment, research, and method itself: Proteus-work, mutation-gardens, and the plan's victory over the individual, then research as visible progress in `Weltplan`, and finally method as a way already affirmed beneath thought. By §§148-150 it turns the same movement toward advance showing, nomos-loss, and species-technique: the researcher becomes `Vorweiser`, conductivity and acceptance accelerate, the fading of divine boundary-guardianship deepens the protean shudder, and artificial insemination is judged more consequential by principle than by scale. By §§151-153 it turns the same movement toward descent, registration, and evolutionary responsibility: acceptance is treated as already accomplished, the experiment enters the intermediate field at the time wall, descent becomes a registry and power problem, and the state is drawn toward simplification and monopolization under an earth-spiritual and earth-historical pressure. By §§154-156 it turns the same movement toward deeper causality, new type, and scale correction: experiment and specific intelligence are reduced to auxiliaries of a protean power, the `New House` changes the setup itself and multiplies reserves, and `décadence` becomes insular once the larger formation comes into view. By §§157-159 it turns the same movement toward progress in freedom, revolutionary consumption, insect-state hardening, and utopian return: metaphysical freedom is distinguished from historical freedoms, revolutions are said to realize deeper ends than the political ones they name, insect-state solutions reappear under `ratio`, and older utopian intentions from Campanella and Fourier are reread against state-plan and earth-revolutionary power.",
+      "notes": "Working after §§85-166. `Siderisch` here begins not as astrology in the narrow sense but as earth-history viewed as the history of a heavenly body, widening at once into cosmogony, apocalypse, technical catastrophe, and the question of whether even cyclical cosmologies still require an axis, a body, and limits to time. By §§88-90 the part also binds modern doom to human work, technocracy, the loss of transcendental counterweight, and the claim that catastrophe can remain collectively unavoidable yet become intensively solvable for the individual. By §§91-93 it adds the martyr standard, the image of the world as a burnable house in human hands, and the first explicit forecasts of political unity, overstrain, and planetary process. By §§94-96 it turns spaceflight into an earth-historical sign, approaches Nietzsche's `wars without powder`, and makes the mismatch between transhistorical means and historical war explicit. By §§97-99 it shifts into atmosphere, monotony, substance-loss, and the possibility that metaphysical hunger itself could die away under technical perfection. By §§100-102 it closes the first substance-account of the part through credit, debt, and countervalue, presses equality into inner `So-Sein`, and binds the whole exchange directly to the title-image at the time wall. By §§103-105 it turns crisis into initiation and passage, reintroduces astrology as the model of a superior synoptic method, and widens the cut into geological epochs, great years, and nearly invisible partial catastrophes. By §§106-108 it rebalances catastrophe by the entry of new types, treats geological disquiet as prior to objective findings, and closes on ice and climate under the sign of a larger cosmic economy. By §§109-111 it tests geological unrest against happiness, reintroduces harmony above death through `Schöpfungsplan` and `Weltplan`, and returns to the measurable field through the geometry of progression: altered earth-color, diminishing wilderness, angle, and row. By §§112-114 it sharpens that progression into the right angle, the nest-versus-plan conflict, the threatened Faustian plan, and finally the methodological claim that geology, history, and freedom are answered differently on this side and beyond the time wall. By §§115-117 it treats humanity itself as layer-forming, reads mass increase and mass revolution as epochal symptoms rather than as mere machine-effects, and reaches `Urgrund` again through two models of world-spiritualization, one artistic and one earth-force. By §§118-120 it turns the same register toward earth-sense, the deliberate preference for `Urgrund` over `Weltgeist`, the possibility of new freedom beyond the wall, and the rare discipline of spiritual sovereignty. By §§121-123 it binds that freedom-problem to voluntariness, invisible cause, antaean mistrust of the elements, technical flight into experiment, and meteorology as a daily planetary science that revives the augur-function inside human knowledge. By §§124-126 it turns the same movement toward electrification: the lightning rod as earth-historical sign, electricity as invisible ordering distinct from steam's brutal visibility, the seam-point of matter and mind at the time wall, and Franklin's city-fields as heralds of a new age entering through weak and meager forms. By §§127-129 it extends electrification into the first organ of antaean unrest, the nerve-like refinement and spiritualization of the technical world, the invisible democracy and world-will moving under `Weltplan`, and finally the explicit admission that the whole electrical argument is analogical and that the present night-view of nature is only a provisional workshop-style awaiting a fuller, ensouled recognition. By §§130-132 it turns the same movement toward the charged earth-envelope and the intelligent ship: the earth-historical aspect overarches the world-historical, transmission becomes world-language and substance-change, the plan enters a magnetic world of stronger answers, and freedom migrates toward the mantic compass under conditions where steering itself becomes doubtful. By §§133-135 it pushes the same movement into anthropology, reconnaissance at the wall, and absolute dating: the unrest becomes biological, going to the time wall becomes listening for signals, and historical and biological chronistics are subordinated to an earth-historical, earth-revolutionary system of time-setting. By §§136-138 it turns the same movement into qualitative station-time, extinction-economy, and total life-movement: elementary clocks revise phylogenetic time, Sindbad's fish-island ties human action to cosmic motion, extinction follows a new management of the earth-household, and the spread of types is treated as a total movement to be grasped earth-historically or even cosmologically. By §§139-141 it turns the same movement toward volcanic and solar periods, atmospheric instrumentation, and spiral catastrophe-theory: historical memory proves too short for the relevant scales, atmospheric unrest becomes part of everyday orientation, and Darwinian continuity is re-read through periodization, Cuvier, and the modern preference for `genes` over `Genesis`. By §§142-144 it turns the same movement toward primal generation, hominisation crisis, and mythic godfall: catastrophe is made insufficient, undifferentiated reserves are reintroduced beneath species-formation, self-conscious layer-work brings freedom and responsibility into collision with earth-history, and the time wall appears as the last boundary-mark in an antaean revolt after the fall of the gods. By §§145-147 it turns the same movement toward experiment, research, and method itself: Proteus-work, mutation-gardens, and the plan's victory over the individual, then research as visible progress in `Weltplan`, and finally method as a way already affirmed beneath thought. By §§148-150 it turns the same movement toward advance showing, nomos-loss, and species-technique: the researcher becomes `Vorweiser`, conductivity and acceptance accelerate, the fading of divine boundary-guardianship deepens the protean shudder, and artificial insemination is judged more consequential by principle than by scale. By §§151-153 it turns the same movement toward descent, registration, and evolutionary responsibility: acceptance is treated as already accomplished, the experiment enters the intermediate field at the time wall, descent becomes a registry and power problem, and the state is drawn toward simplification and monopolization under an earth-spiritual and earth-historical pressure. By §§154-156 it turns the same movement toward deeper causality, new type, and scale correction: experiment and specific intelligence are reduced to auxiliaries of a protean power, the `New House` changes the setup itself and multiplies reserves, and `décadence` becomes insular once the larger formation comes into view. By §§157-159 it turns the same movement toward progress in freedom, revolutionary consumption, insect-state hardening, and utopian return: metaphysical freedom is distinguished from historical freedoms, revolutions are said to realize deeper ends than the political ones they name, insect-state solutions reappear under `ratio`, and older utopian intentions from Campanella and Fourier are reread against state-plan and earth-revolutionary power. By §§160-162 it turns the same movement toward dystopian warning, will-freedom, and iceberg consciousness: literary critiques expose the state-plan from `musische`, metaphysical, and theological standpoints, no humanly considered process is allowed to run wholly predetermined, and freedom enters the determined mass as a qualitative, meaning-giving cap. By §§163-166 it closes the part through representative freedom, the Overman/Last Man pair, the state demoted to a station-illusion, and the final selection-question on this side of the line: what of the historical-human inheritance may be carried across before `Urgrund und Person` begins.",
       "evidence": []
     },
     {
@@ -6068,6 +6300,48 @@
       "section": "zm:159",
       "file": "texts/zeitmauer/parts/53-siderische-einteilungen.md",
       "note": "Campanella and Fourier prefigure state-regulated life, but utopian poetic intention may return only in altered relation to state-plan and earth-revolutionary power."
+    },
+    {
+      "handle": "zm:160:musische-objection",
+      "section": "zm:160",
+      "file": "texts/zeitmauer/parts/54-siderische-einteilungen.md",
+      "note": "Orwell, Huxley, and Friedrich Georg Jünger become prognostic warnings against state-plan and pure logical calculus from a musische standpoint."
+    },
+    {
+      "handle": "zm:161:will-freedom",
+      "section": "zm:161",
+      "file": "texts/zeitmauer/parts/54-siderische-einteilungen.md",
+      "note": "Human intervention in evolution is new, yet where man is in play no process can run wholly predetermined."
+    },
+    {
+      "handle": "zm:162:iceberg-caput",
+      "section": "zm:162",
+      "file": "texts/zeitmauer/parts/54-siderische-einteilungen.md",
+      "note": "Freedom as higher self-consciousness in the iceberg's visible cap cannot master the mass, but it can introduce quality and meaning into it."
+    },
+    {
+      "handle": "zm:163:representative-freedom",
+      "section": "zm:163",
+      "file": "texts/zeitmauer/parts/55-siderische-einteilungen.md",
+      "note": "Freedom is restated as representative human dignity, while state-formation is reduced to a recurring biological principle rather than the human mark."
+    },
+    {
+      "handle": "zm:164:last-man-overman",
+      "section": "zm:164",
+      "file": "texts/zeitmauer/parts/55-siderische-einteilungen.md",
+      "note": "The Overman is read through the departing train and the Last Man: not as coming great lord, but as the type to whom exit from history succeeds."
+    },
+    {
+      "handle": "zm:165:state-optical-illusion",
+      "section": "zm:165",
+      "file": "texts/zeitmauer/parts/55-siderische-einteilungen.md",
+      "note": "The state is demoted to an optical illusion on the station; the shove drives the states, and world-state may name only a status or station in longer rhythms."
+    },
+    {
+      "handle": "zm:166:historical-human-inheritance",
+      "section": "zm:166",
+      "file": "texts/zeitmauer/parts/55-siderische-einteilungen.md",
+      "note": "On this side of the line the decisive question becomes what of the historical-human inheritance may be carried across and not sacrificed."
     }
   ],
   "notes": [
@@ -6862,6 +7136,62 @@
       "file": "texts/zeitmauer/parts/53-siderische-einteilungen.md",
       "kind": "translation_note",
       "note": "The section works only if Campanella/Fourier detail, state-plan, and the possible return of utopian poetic intention under earth-revolutionary powers stay in one frame."
+    },
+    {
+      "handle": "note:zm:160:musische-objection",
+      "section": "zm:160",
+      "anchor": "zm:160:musische-objection",
+      "file": "texts/zeitmauer/parts/54-siderische-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The section only lands if Orwell/Huxley warning, the Last Man, and the musische objection to logical calculus stay together without collapsing into generic anti-technology."
+    },
+    {
+      "handle": "note:zm:161:will-freedom",
+      "section": "zm:161",
+      "anchor": "zm:161:will-freedom",
+      "file": "texts/zeitmauer/parts/54-siderische-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The section depends on keeping strong determination and irreducible human freedom together, and on letting that pressure qualify rather than erase the predecided-world line."
+    },
+    {
+      "handle": "note:zm:162:iceberg-caput",
+      "section": "zm:162",
+      "anchor": "zm:162:iceberg-caput",
+      "file": "texts/zeitmauer/parts/54-siderische-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The section works only if the iceberg image, `caput`, and the barrier-toll figure keep freedom as quality rather than as sovereign control over the whole mass."
+    },
+    {
+      "handle": "note:zm:163:representative-freedom",
+      "section": "zm:163",
+      "anchor": "zm:163:representative-freedom",
+      "file": "texts/zeitmauer/parts/55-siderische-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The section depends on keeping representative freedom and recurring state-formation distinct, without flattening freedom into equal distribution or the state into the human essence."
+    },
+    {
+      "handle": "note:zm:164:last-man-overman",
+      "section": "zm:164",
+      "anchor": "zm:164:last-man-overman",
+      "file": "texts/zeitmauer/parts/55-siderische-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The section only lands if the Overman/Last Man pair, the departing train, and the anti-slavery clarification stay together without collapsing into crude hierarchy-talk."
+    },
+    {
+      "handle": "note:zm:165:state-optical-illusion",
+      "section": "zm:165",
+      "anchor": "zm:165:state-optical-illusion",
+      "file": "texts/zeitmauer/parts/55-siderische-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The section works only if the state is demoted without disappearing: what matters is that the shove drives the states and loosens even the word `state` beyond the time wall."
+    },
+    {
+      "handle": "note:zm:166:historical-human-inheritance",
+      "section": "zm:166",
+      "anchor": "zm:166:historical-human-inheritance",
+      "file": "texts/zeitmauer/parts/55-siderische-einteilungen.md",
+      "kind": "translation_note",
+      "note": "The section depends on keeping the layered-wall image, the line, and the inheritance-selection question together, with `Vererzung` left visibly more than generic hardening."
     },
     {
       "handle": "note:journal:mumford-bridge",
@@ -8102,6 +8432,60 @@
       "note": "World-revolutionary plans do not exhaust the movement; deeper earth-revolutionary powers overtake them and may reactivate only their poetic intention."
     },
     {
+      "from": "zm:160:musische-objection",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now gains its literary-prognostic register: dystopian warning and musische objection expose state-plan and pure logical calculus without waiting for factual catastrophe."
+    },
+    {
+      "from": "zm:160:musische-objection",
+      "relation": "extends",
+      "to": "thread:goethe-leibniz-frame",
+      "note": "The split is restated almost programmatically: logical calculus and technical planning are opposed by musische freedom that still makes use of scientific armament."
+    },
+    {
+      "from": "zm:161:will-freedom",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now returns to its human center: intervention in evolution is real and new, yet the real center remains will-freedom rather than scale, planning, or large spaces."
+    },
+    {
+      "from": "zm:161:will-freedom",
+      "relation": "challenges",
+      "to": "thread:predecided-world",
+      "note": "A needed weakening pressure on the dossier: where man is in play, no process runs wholly predetermined, because being thought already alters it."
+    },
+    {
+      "from": "zm:162:iceberg-caput",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now receives a qualitative answer: freedom as higher self-consciousness cannot master the determined mass, but can still introduce meaning and healing force into it."
+    },
+    {
+      "from": "zm:163:representative-freedom",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now restates freedom as representative human dignity and demotes state-formation to a recurrent biological principle rather than the decisive human mark."
+    },
+    {
+      "from": "zm:164:last-man-overman",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now returns to Nietzsche explicitly: the departing train and the Overman/Last Man pair turn the task toward exit from history rather than toward coming lordship."
+    },
+    {
+      "from": "zm:165:state-optical-illusion",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now demotes the state sharply: the shove drives the states, and even the world-state belongs to longer, non-historical rhythms beyond the station's political optics."
+    },
+    {
+      "from": "zm:166:historical-human-inheritance",
+      "relation": "extends",
+      "to": "thread:time-crisis",
+      "note": "The crisis now closes the part on the selection-question itself: on this side of the line it must be decided what historical-human inheritance is carried across and what may be left behind."
+    },
+    {
       "from": "note:journal:mumford-bridge",
       "relation": "grounds",
       "to": "thread:mumford-bridge",
@@ -8298,7 +8682,14 @@
       "zm:156",
       "zm:157",
       "zm:158",
-      "zm:159"
+      "zm:159",
+      "zm:160",
+      "zm:161",
+      "zm:162",
+      "zm:163",
+      "zm:164",
+      "zm:165",
+      "zm:166"
     ],
     "term_handles": [
       "term:an-der-zeitmauer",
@@ -8416,7 +8807,14 @@
       "zm:156:decadence-insular",
       "zm:157:progress-in-freedom",
       "zm:158:insect-state",
-      "zm:159:utopian-intention"
+      "zm:159:utopian-intention",
+      "zm:160:musische-objection",
+      "zm:161:will-freedom",
+      "zm:162:iceberg-caput",
+      "zm:163:representative-freedom",
+      "zm:164:last-man-overman",
+      "zm:165:state-optical-illusion",
+      "zm:166:historical-human-inheritance"
     ],
     "note_handles": [
       "note:zm:1:seidenschwanz",
@@ -8518,6 +8916,13 @@
       "note:zm:157:progress-in-freedom",
       "note:zm:158:insect-state",
       "note:zm:159:utopian-intention",
+      "note:zm:160:musische-objection",
+      "note:zm:161:will-freedom",
+      "note:zm:162:iceberg-caput",
+      "note:zm:163:representative-freedom",
+      "note:zm:164:last-man-overman",
+      "note:zm:165:state-optical-illusion",
+      "note:zm:166:historical-human-inheritance",
       "note:journal:mumford-bridge",
       "note:journal:goethe-leibniz-frame",
       "note:journal:predecided-world"
@@ -8747,7 +9152,14 @@
         "zm:156",
         "zm:157",
         "zm:158",
-        "zm:159"
+        "zm:159",
+        "zm:160",
+        "zm:161",
+        "zm:162",
+        "zm:163",
+        "zm:164",
+        "zm:165",
+        "zm:166"
       ]
     },
     "by_handle": {
@@ -8957,15 +9369,15 @@
       },
       "note:journal:goethe-leibniz-frame": {
         "kind": "note",
-        "index": 100
+        "index": 107
       },
       "note:journal:mumford-bridge": {
         "kind": "note",
-        "index": 99
+        "index": 106
       },
       "note:journal:predecided-world": {
         "kind": "note",
-        "index": 101
+        "index": 108
       },
       "note:zm:100:substance-surrender": {
         "kind": "note",
@@ -9218,6 +9630,34 @@
       "note:zm:15:titanic-record": {
         "kind": "note",
         "index": 6
+      },
+      "note:zm:160:musische-objection": {
+        "kind": "note",
+        "index": 99
+      },
+      "note:zm:161:will-freedom": {
+        "kind": "note",
+        "index": 100
+      },
+      "note:zm:162:iceberg-caput": {
+        "kind": "note",
+        "index": 101
+      },
+      "note:zm:163:representative-freedom": {
+        "kind": "note",
+        "index": 102
+      },
+      "note:zm:164:last-man-overman": {
+        "kind": "note",
+        "index": 103
+      },
+      "note:zm:165:state-optical-illusion": {
+        "kind": "note",
+        "index": 104
+      },
+      "note:zm:166:historical-human-inheritance": {
+        "kind": "note",
+        "index": 105
       },
       "note:zm:1:seidenschwanz": {
         "kind": "note",
@@ -9958,6 +10398,62 @@
       "zm:16": {
         "kind": "section",
         "index": 15
+      },
+      "zm:160": {
+        "kind": "section",
+        "index": 159
+      },
+      "zm:160:musische-objection": {
+        "kind": "chunk",
+        "index": 100
+      },
+      "zm:161": {
+        "kind": "section",
+        "index": 160
+      },
+      "zm:161:will-freedom": {
+        "kind": "chunk",
+        "index": 101
+      },
+      "zm:162": {
+        "kind": "section",
+        "index": 161
+      },
+      "zm:162:iceberg-caput": {
+        "kind": "chunk",
+        "index": 102
+      },
+      "zm:163": {
+        "kind": "section",
+        "index": 162
+      },
+      "zm:163:representative-freedom": {
+        "kind": "chunk",
+        "index": 103
+      },
+      "zm:164": {
+        "kind": "section",
+        "index": 163
+      },
+      "zm:164:last-man-overman": {
+        "kind": "chunk",
+        "index": 104
+      },
+      "zm:165": {
+        "kind": "section",
+        "index": 164
+      },
+      "zm:165:state-optical-illusion": {
+        "kind": "chunk",
+        "index": 105
+      },
+      "zm:166": {
+        "kind": "section",
+        "index": 165
+      },
+      "zm:166:historical-human-inheritance": {
+        "kind": "chunk",
+        "index": 106
       },
       "zm:17": {
         "kind": "section",
@@ -11203,6 +11699,74 @@
           "relation": "parallels",
           "to": "thread:mumford-bridge",
           "note": "The Titanic and the record make the clock-time problem concrete inside the text itself."
+        }
+      ],
+      "zm:160:musische-objection": [
+        {
+          "from": "zm:160:musische-objection",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now gains its literary-prognostic register: dystopian warning and musische objection expose state-plan and pure logical calculus without waiting for factual catastrophe."
+        },
+        {
+          "from": "zm:160:musische-objection",
+          "relation": "extends",
+          "to": "thread:goethe-leibniz-frame",
+          "note": "The split is restated almost programmatically: logical calculus and technical planning are opposed by musische freedom that still makes use of scientific armament."
+        }
+      ],
+      "zm:161:will-freedom": [
+        {
+          "from": "zm:161:will-freedom",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now returns to its human center: intervention in evolution is real and new, yet the real center remains will-freedom rather than scale, planning, or large spaces."
+        },
+        {
+          "from": "zm:161:will-freedom",
+          "relation": "challenges",
+          "to": "thread:predecided-world",
+          "note": "A needed weakening pressure on the dossier: where man is in play, no process runs wholly predetermined, because being thought already alters it."
+        }
+      ],
+      "zm:162:iceberg-caput": [
+        {
+          "from": "zm:162:iceberg-caput",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now receives a qualitative answer: freedom as higher self-consciousness cannot master the determined mass, but can still introduce meaning and healing force into it."
+        }
+      ],
+      "zm:163:representative-freedom": [
+        {
+          "from": "zm:163:representative-freedom",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now restates freedom as representative human dignity and demotes state-formation to a recurrent biological principle rather than the decisive human mark."
+        }
+      ],
+      "zm:164:last-man-overman": [
+        {
+          "from": "zm:164:last-man-overman",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now returns to Nietzsche explicitly: the departing train and the Overman/Last Man pair turn the task toward exit from history rather than toward coming lordship."
+        }
+      ],
+      "zm:165:state-optical-illusion": [
+        {
+          "from": "zm:165:state-optical-illusion",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now demotes the state sharply: the shove drives the states, and even the world-state belongs to longer, non-historical rhythms beyond the station's political optics."
+        }
+      ],
+      "zm:166:historical-human-inheritance": [
+        {
+          "from": "zm:166:historical-human-inheritance",
+          "relation": "extends",
+          "to": "thread:time-crisis",
+          "note": "The crisis now closes the part on the selection-question itself: on this side of the line it must be decided what historical-human inheritance is carried across and what may be left behind."
         }
       ],
       "zm:1:seidenschwanz": [

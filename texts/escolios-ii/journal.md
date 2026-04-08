@@ -177,3 +177,14 @@ The run now reaches `§390` with two more sections:
 This pair pushes the volume's methodological and civilizational lines closer together. `§332`, `§350`, and `§358` insist that history cannot be written without value, style, and resistance to hidden anachronism; `§340`, `§344`, and `§360` sharpen the political side of the same argument by showing democracy and despotism as degradations of homage, charity, and public life. The next section then turns more explicitly toward structure: tragedy rather than blunder, mystery rather than mere explanation, legitimacy rather than simple chronology, and tradition not as incoherence but as a fuller field of conditions than the so-called rational society can still recognize.
 
 This stretch also forced another exact source-repair pass, but again only where the live batching encountered it. The extractor now restores `§332`'s `crítica`, fixes `§348`, `§359`, `§360`, `§363`, `§379`, and `§380`, and leaves the rest of the source untouched. The explicit Spanish casualty list still remains unchanged at a single flagged entry: `id 1189`.
+
+## 2026-04-07 — Sections 17 And 18 Added
+
+The run now reaches `§450` with two more sections:
+
+- `§391-420` / printed pages `75-80` in [sections/17-authenticity-and-mystery.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/17-authenticity-and-mystery.md)
+- `§421-450` / printed pages `80-84` in [sections/18-revelation-and-the-significant-word.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/18-revelation-and-the-significant-word.md)
+
+This pair keeps turning modern language against itself. `§391`, `§396`, `§404`, and `§418` all refuse surface reductions: authenticity is not mere sincerity, institutions cannot survive pure efficiency, the sacred middle cannot be collapsed into the profane or the divine, and reality resists reading because it lacks punctuation rather than because it is sealed. The next section moves more directly through orthodoxy, revelation, monastic witness, literature, and capitalism, but without becoming a second-pass synthesis. The task remained local: keep the aphorisms readable, and mark only the handful that force a little more structure into view.
+
+This stretch also forced another exact OCR pass in the extractor, and one more local seam repair around `§446-447`. The working source now cleans up `§396`, `§399`, `§407`, `§409`, `§416`, `§420`, `§426`, `§430`, and the damaged `vocablo significativo` pocket, while leaving the rest of the source alone. The explicit Spanish casualty list still remains unchanged at a single flagged entry: `id 1189`.

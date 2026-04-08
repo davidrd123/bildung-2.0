@@ -161,6 +161,18 @@ def normalize_text(text: str) -> str:
         "tiende ganas": "tiene ganas",
         "mena graves": "menos graves",
         "el qué los comete": "el que los comete",
+        "Be quebrantan": "se quebrantan",
+        "tecni fican": "tecnifican",
+        "lo isterioso": "lo misterioso",
+        "arios ennoblezcan": "años ennoblezcan",
+        "mul titudinaria": "multitudinaria",
+        "-- Individualismo o subjetitivismo": "Individualismo o subjetivismo",
+        "subjetitivismo": "subjetivismo",
+        "si no V las": "si no las",
+        "Las ideas. tontas son inmortales Cada nueva generación": "Las ideas tontas son inmortales. Cada nueva generación",
+        "de la, nueva": "de la nueva",
+        "El. moralismo": "El moralismo",
+        "ridículo. — Es": "ridículo. Es",
     }
     for old, new in replacements.items():
         value = value.replace(old, new)
@@ -225,6 +237,20 @@ def repair_live_seams(entries: list[dict[str, object]]) -> None:
     update_entry(
         by_id[324],
         f"{str(snapshot[323]['es']).strip()} {str(snapshot[324]['es']).strip()}",
+    )
+
+    # A later page break dropped one aphorism ending and fused the next two
+    # starts. Keep ids stable, but restore the local textual shape.
+    update_entry(
+        by_id[446],
+        "La literatura es el arte de devolver al vocablo significativo la "
+        "función expresiva del grito.",
+    )
+    update_entry(
+        by_id[447],
+        "El tiempo modifica la topografía de nuestras convicciones. La "
+        "historia suele consistir en problemas que interesan al hombre "
+        "inteligente, sin ser problemas de hombre inteligente.",
     )
 
 

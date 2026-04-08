@@ -4,3 +4,4 @@ __pycache__/
 texts/*/output/
 sources/modern/incoming/books/
 sources/modern/incoming/local/
+sources/modern/incoming/acquisition-list/

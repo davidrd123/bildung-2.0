@@ -1447,3 +1447,63 @@ Decisions:
 - extend `thread:time-crisis` through `§159`, where utopian systems meet the state-plan and may return only in altered relation to earth-revolutionary powers
 - extend `thread:predecided-world` through `§157`, where the goal is always other than intended and constitution emerges from fading constituent forces
 - extend `thread:predecided-world` through `§159`, where world-revolutionary plans are overtaken by deeper earth-revolutionary powers
+
+## 2026-04-07 — Dystopian Warning, Will-Freedom, and the Iceberg Cap
+
+Translated `§§160-162` under `parts/54-siderische-einteilungen.md`.
+
+This batch carries Part 4 from the utopian archive into dystopian warning, the renewed center of will-freedom, and the iceberg image of higher self-consciousness. `§160` treats Orwell, Huxley, and Friedrich Georg Jünger as prognostic critics of the state-plan and pure logical calculus, with the `musische` objection still carrying real overview and geistige independence inside a determined shove. `§161` then returns every future-consideration to the obelisk of command and makes the decisive qualification: human authorship is overstated, yet where man is in play no process can run wholly predetermined. `§162` closes by answering the determinism problem through the iceberg image, where freedom as higher self-consciousness cannot overturn the whole mass but can still introduce quality, meaning, and healing force into it.
+
+Working observations:
+
+- `§161` is the structural center. The decisive move is that the process is larger than man and even cooperative with the universe, yet human freedom remains an ineradicable species-mark and already alters what is thought.
+- `§160` matters because it gives literary anti-utopia real standing inside the argument. Orwell and Huxley are not treated as ornaments but as warnings and criteria, and the decisive objection comes from the `musische`, metaphysical, or theological side against pure logical calculus.
+- `§162` matters because it gives the clearest recent answer to the freedom problem. Spirit does not command the whole mass, but its watch at the barrier changes what passes.
+- `§160` also sharpens `thread:goethe-leibniz-frame`: the split is restated almost programmatically as logical calculus on one side and `musische` freedom with scientific armament on the other.
+- `§161` pressures `thread:predecided-world` rather than simply extending it. The field may be shaped in advance, but Jünger now says directly that a humanly considered process is already changed by that consideration.
+- No new glossary entries are earned yet. The main gains are three new anchors, a continued extension of `thread:time-crisis`, one explicit pressure-point on `thread:predecided-world`, and a local reinforcement of the method thread.
+
+One passage still at risk:
+
+- `das Ungesonderte ... von der anderen Seite der Mauer aus mit anhöbe` in `§160`
+- difficulty type: `contextual` plus `residual`
+- why: the sentence has to keep the genetic bars, the wall-image, and the older `ungesondert / gesondert` pressure together; the English can be made workable, but the full force of the noun-form is not yet settled
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§160-162`
+- do not yet promote `das Ungesonderte`, `musische Mensch`, or the Orwell/Huxley line into the glossary
+- extend `thread:time-crisis` through `§160`, where dystopian warning and the `musische` objection criticize state-plan and logical calculus
+- extend `thread:time-crisis` through `§161`, where human intervention in evolution is declared new yet never wholly predetermined where freedom enters
+- extend `thread:time-crisis` through `§162`, where freedom as qualitative cap of the iceberg introduces meaning into determination
+- extend `thread:goethe-leibniz-frame` through `§160`, where pure logical calculus is opposed by `musische` objection armed with scientific knowledge
+- let `§161` pressure `thread:predecided-world`, where thought itself changes what would otherwise seem wholly pre-cut
+
+## 2026-04-07 — Representative Freedom, the State Demoted, and What Is Carried Across
+
+Translated `§§163-166` under `parts/55-siderische-einteilungen.md`.
+
+This batch closes `Siderische Einteilungen` through representative freedom, the Overman/Last Man pair at the departing train, the demotion of the state to an optical illusion on the station, and the final question of what may be carried across the line. `§163` treats freedom as a representative species-mark rather than an evenly possessed attribute and sharply distinguishes it from state-formation. `§164-165` then return to Nietzsche: the Overman is read as the type to whom exit from history succeeds, while the state is reduced to a secondary appearance driven onward by a deeper shove. `§166` closes high on the layered wall called `history`, where man must decide what of the historical-human inheritance is not to be sacrificed before the next title, `Urgrund und Person`, appears.
+
+Working observations:
+
+- `§166` is the structural center. The decisive move is that the real selection-question concerns historical-human inheritance, not archaic or mythic substance, and that this question is still posed on this side of the line.
+- `§164` matters because it keeps Nietzsche from collapsing into a crude hierarchy-doctrine. The new type is not the coming great lord but the one whose achieved exit from history could already serve the many-too-many left behind.
+- `§165` matters because it demotes the state sharply. States do not produce the shove; the shove drives states, and even the world-state may name only a status or station within much longer rhythms.
+- `§163` matters because it treats freedom as representative dignity and not as evenly distributed possession. Some bear it for many, while state-formation belongs to a recurring biological repertoire.
+- No new glossary entries are earned yet. The main gains are four new anchors and a continued extension of `thread:time-crisis` through the end of `Siderische Einteilungen`.
+
+One passage still at risk:
+
+- `Vererzung` in `§166`
+- difficulty type: `lexical` plus `residual`
+- why: the warning clearly names more than hardening and less than a simple Bronze-Age reference; the English needs to keep the serpent, the brazen register, and the fall into zoological-magical-titanic order together
+
+Decisions:
+
+- extend `Siderische Einteilungen` as a section-title note through `§§163-166`
+- do not yet promote `Übermensch / Letzter Mensch`, `Vielzuvielen`, or `Vererzung` into the glossary
+- extend `thread:time-crisis` through `§163`, where freedom is restated as representative human dignity and state-formation is demoted to recurring biological principle
+- extend `thread:time-crisis` through `§164`, where the departing train and the Overman/Last Man pair recast the task as exit from history rather than lordship
+- extend `thread:time-crisis` through `§165`, where the state is reduced to station-illusion and the shove is shown driving the states
+- extend `thread:time-crisis` through `§166`, where the real selection-question concerns what historical-human inheritance may be carried across the line

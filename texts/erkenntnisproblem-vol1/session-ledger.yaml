@@ -61,6 +61,10 @@ sessions:
       - 63
       - 64
       - 65
+      - 66
+      - 67
+      - 68
+      - 69
 
     state_on_entry:
       - "Arrived with the ledger still treating the next Paracelsus tranche as blocked on source access."
@@ -68,22 +72,24 @@ sessions:
       - "Main open pressure was whether mediated self-knowledge would stay central, and whether Paracelsian method terms would remain chapter-local."
 
     what_shifted:
-      - "Verified the source PDF in this checkout and pushed the run from the blocked Part 55 edge through Part 65."
+      - "Verified the source PDF in this checkout and pushed the run from the blocked Part 55 edge through Part 69."
       - "Paracelsus turned the microcosm line into method: Erfahrung split into grounded experiment versus Irrsaal, and Sichtiges / Unsichtiges became a methodological unity."
       - "Fracastoro carried the chapter into psychology-of-knowing: species, subnotio, and esse ab anima exposed self-consciousness and relation as pressures the sensualist frame could not stabilize."
       - "Telesio grounded cognition in bodily process and physiological memory, but could not generate mathematics or pure relations from within the system; Aristotelian form survives in psychology."
-      - "Campanella drove the whole approach to breaking point and then partially reversed it from within: alienation opened into self-certainty, perception itself became a judgment-act, and mathematics forced the text into the explicit Raum/Zeit problem."
+      - "Campanella and Patrizzi drove the whole approach into the explicit Raum/Zeit problem: mathematical relation forced ontological rescue, continuum was made prior to number, and the missed route toward the analysis of the infinite became visible."
+      - "The Campanella line then bent back through the Unendliche itself: nature's own totality and infinity now visibly exceed the first sensualist epistemology and hand the pressure forward into Bruno."
+      - "With Copernicus the astronomical world-picture becomes openly methodological and ethical: mathematical construction, harmony, and the unity of nature and Erkenntnisgesetz now move together."
 
     unresolved:
-      - "Need the next tranche from printed 260-263 / PDF 284-287."
-      - "Need to see how the Telesio space/time line continues after the opening threshold at printed page 259."
-      - "Need to see whether reiner Raum, Ort, Leeres, and the independence of Zeit remain section-local or force glossary pressure."
+      - "Need the next tranche from printed 276-279 / PDF 300-303."
+      - "Need to see how Bruno's own formulation carries the Copernican method-pressure and whether infinity remains tied chiefly to harmony, metaphysics, or explicit epistemology."
+      - "Need to see whether mit beiden Augen, Methode, Harmonie, and the unity of Natur / Erkenntnisgesetz remain section-local or force glossary / thread pressure."
 
     re_entry_instructions:
-      - "Read Part 65 first; the live edge is the Telesio Raum/Zeit continuation after the opening threshold on printed page 259."
-      - "Extract the next raw page range: printed 260-263 / PDF 284-287."
-      - "Watch whether the new space/time concepts become genuinely independent, or whether substance and motion still quietly dominate them."
-      - "Keep the chain Campanella mathematics -> reiner Raum -> Patrizzi space -> Cardano/Scaliger -> Telesio Raum/Zeit in view."
+      - "Read Part 69 first; the live edge is the Bruno/Copernicus continuation after the ethical and methodological uptake of the astronomical shift."
+      - "Extract the next raw page range: printed 276-279 / PDF 300-303."
+      - "Watch how Bruno's own formulation extends the relation between mathematical world-order, metaphysics, and knowledge."
+      - "Keep the chain reiner Raum -> Continuum / Zahl -> analysis of the infinite -> Campanella's Naturbegriff -> Copernican Methode / Harmonie -> Bruno in view."
 
     formation_notes:
       - "I came in expecting a straightforward praise of Paracelsian empiricism, but the text instead split Erfahrung in two and made experiment a disciplined use of forces rather than mere accumulation of observations."
@@ -96,3 +102,7 @@ sessions:
       - "The decisive surprise was that Campanella does not leave the self in collapse; the same line that reaches alienation is forced into a primitive self-certainty the old object-model cannot account for."
       - "The next break is that Campanella cannot keep judgment and reason outside sensation after all; the system needs them as real powers exactly where it still distrusts pure mathematical relation."
       - "What first looked like a merely anti-mathematical residue turned into a real threshold: geometry is rescued only by ontologizing space, and that immediately opens the explicit problem of Raum und Zeit."
+      - "Patrizzi sharpened the issue further: space only becomes self-standing by breaking the categories, but that victory is immediately paid for by turning it into the first metaphysical-physical filling of the world."
+      - "The newest clarification is that Patrizzi gets genuinely close to a later mathematical breakthrough only where he fails: continuum before number and the minimum-doctrine show the path toward infinity-analysis precisely by missing it."
+      - "The latest shift is that Campanella's correction of sensualism comes less from importing a higher faculty than from the infinity of nature itself, which perception cannot bring into proportion with its bounded objects."
+      - "The Copernican surprise is that mathematical rigor is not opposed to aesthetic or ethical force here; harmony, beauty, and enlarged self-consciousness arrive together with method."

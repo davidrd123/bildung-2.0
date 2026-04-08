@@ -429,6 +429,94 @@ Current downstream use:
 - reflected in Part `65`
 - held locally while the next tranche shows how far the Telesio line can carry the conceptual independence of space and time
 
+### Patrizzi: space breaks the category system
+
+Passage base:
+
+- Part `66`
+- printed pages `260-263`
+
+Finding:
+
+- Patrizzi's space-concept cannot be placed under the usual alternatives of substance / accident or material / immaterial, and Cassirer marks this through the oxymoron `corpus incorporeum est et non corpus corporeum`
+- this is the point where the scientific concept of space first gains self-standing against the scholastic category system
+
+Why it matters:
+
+- the gain is real, but it is not yet critical in the later sense: space is freed from the old categories only by being taken up into a metaphysical development-process
+- that is why the same move both liberates the concept of space and re-physicalizes it, turning it into primordial substrate and into one member of the sequence `spatium`, `lumen`, `calor`, `fluor`
+
+Current downstream use:
+
+- reflected in Part `66`
+- held locally while the next tranche shows how the doctrine of absolute extension is completed from this metaphysical basis
+
+### Patrizzi: continuum is prior, number is produced
+
+Passage base:
+
+- Part `67`
+- printed pages `264-267`
+
+Finding:
+
+- Patrizzi treats `Continuum` as the more fundamental term and number as the result of the mind's dividing act within a prior absolute extension
+- Cassirer explicitly says the minimum-doctrine carries a fruitful motive of the future differential concept while still missing the analysis of the infinite
+
+Why it matters:
+
+- this is one of the strongest local bridges between the space/time problem and the later logic of mathematical method
+- it also names the exact limit: the relation of `Stetiges` and `Diskretes` is not solved, because the continuous is still being forced back under the demands of discrete measure
+
+Current downstream use:
+
+- reflected in Part `67`
+- held locally while the next tranche shows how the Campanella handoff develops the theological hypostasis of space
+
+### Campanella: the infinite corrects sensualism from within
+
+Passage base:
+
+- Part `68`
+- printed pages `268-271`
+
+Finding:
+
+- Cassirer now says that the content of the Naturbegriff itself already corrects the first sensualist starting-point of the theory of knowledge, because nature is not merely a set of sensations but the totality and infinity of being through which the individual first becomes intelligible
+- the dualism of `spiritus` and `mens` is therefore not just a theological interruption; it is the local sign that the sensible-concrete and the infinite are both being demanded of nature at once
+
+Why it matters:
+
+- this is the clearest point so far where the text says that the pressure for a new Erkenntnislehre comes from the transformed object-concept, not just from an imported rational faculty
+- `Proportion` becomes a useful resistance term here: there is no proportion between Sinnlichkeit and the infinite, because perception can only present bounded individuals
+
+Current downstream use:
+
+- reflected in Part `68`
+- held locally while the next tranche shows how Bruno and the Copernican world-picture turn this pressure into an explicit epistemic program
+
+### Copernicus: world-order becomes method and harmony
+
+Passage base:
+
+- Part `69`
+- printed pages `272-275`
+
+Finding:
+
+- Galileo and Copernicus treat the new astronomy as a correction of mere seeing by conceptual construction: the world must be viewed `mit beiden Augen`, through sense and through mathematical reason
+- the anti-Ptolemaic argument is therefore methodological and not only astronomical; principled unity and harmonious total form become criteria of truth
+
+Why it matters:
+
+- this is the point where the altered world-picture becomes openly epistemological: `Methode`, `Beweis`, and the lawfulness of scientific construction move to the front
+- it also explains why Cassirer immediately widens the reach into `Geisteswissenschaften`, ethics, and history: the same Copernican move reorders the subject's place in value as well as in knowledge
+
+Current downstream use:
+
+- reflected in Part `69`
+- held locally while the next tranche shows how Bruno's own formulation of the infinite world carries this method-pressure further
+
 ## Boundary
 
 This ledger is not a second journal and not a free synthesis file.
