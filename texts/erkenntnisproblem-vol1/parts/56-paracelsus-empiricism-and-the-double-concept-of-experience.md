@@ -66,7 +66,7 @@ As previously speculative thought had to be tested in the sensible, so conversel
 The history of medicine and natural inquiry must decide how far Paracelsus attained in his own research the model he here sketched. The two chief and basic moments of every empirical science he did generally recognize and designate. A developed theory of induction one will of course not expect at the stage of philosophical reflection on which we here stand. How difficult it still is for Paracelsus to separate the self and nature, the world of objects and the proper function of mind, and yet bring them into accord and equilibrium, can be seen most clearly from the double meaning possessed by his fundamental concept of the "light of nature." The "light of nature" is for him, on the one hand, the law of objectively real actuality as against specu-
 ```
 
-**Draft Footnotes**
+**Working Commentary**
 
 ```text
 1) Paragranum, p. 58.

@@ -297,6 +297,72 @@ Current downstream use:
 - reflected in Part `59`
 - held locally while the continuation shows why Cassirer thinks this still differs in kind from later sensualism
 
+### Telesio: Aristotelian form survives in psychology
+
+Passage base:
+
+- Part `60`
+- printed pages `238-239`
+
+Finding:
+
+- Cassirer's historical diagnosis is that Telesio overcomes the Aristotelian form-concept in physics but preserves it in psychology
+- the survival-point is twofold: the scholastic `species` schema and the assumption that the things themselves enter the spirit with part of their essence
+
+Why it matters:
+
+- this explains why Telesio cannot generate pure relations, mathematics, or consciousness from within the system's own terms
+- once cognition is still modeled as a passage from object to object, mind and thought themselves are forced to become thing-like and finally bodily
+
+Current downstream use:
+
+- reflected in Part `60`
+- held locally while the Patrizzi continuation shows how that unresolved pressure is rerouted into a Neoplatonic model of cognition
+
+### Campanella: mechanical analogy fails at synthesis
+
+Passage base:
+
+- Part `61`
+- printed pages `242-243`
+
+Finding:
+
+- Campanella redescribes cognition as trace, motion, and `immutatio`, but Cassirer insists that mechanical fusion cannot account for intellectual synthesis
+- present bodily state also cannot distinguish the trace of the past from the direct impression of the object
+
+Why it matters:
+
+- this is the point where the physiological translation of the inherited Peripatetic account reaches its internal limit
+- the problem is no longer just whether the soul is bodily, but whether motion-language can preserve differentiated moments and temporal representation at all
+
+Current downstream use:
+
+- reflected in Part `61`
+- held locally while the next tranche shows how far Campanella levels discursive thought and concept into sensation
+
+### Campanella: abstraction becomes loss, not determination
+
+Passage base:
+
+- Part `62`
+- printed pages `245-247`
+
+Finding:
+
+- Campanella's skeptical turn follows directly from treating knowledge as abbreviation of singular impressions
+- under that model abstraction threatens to sacrifice the essential case, and universality becomes a faded genus-copy rather than a law-governed gain in determination
+
+Why it matters:
+
+- this is where Cassirer states the alternative most explicitly: modern logic and science proceed by relations, laws, and progressive determination, not by pale extraction from sensed things
+- the skeptical problem is therefore structural, not rhetorical, and it rebounds from the object onto the subject itself
+
+Current downstream use:
+
+- reflected in Part `62`
+- held locally while the next tranche shows how Campanella turns alienation into the subjective consequence of this model
+
 ## Boundary
 
 This ledger is not a second journal and not a free synthesis file.

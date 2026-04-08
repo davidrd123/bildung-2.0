@@ -68,7 +68,7 @@ Necessarily, however, such apprehension remains fragmentary and incomplete in co
 Telesio has been called a precursor of sensualism on the strength of these sentences; but in spite of all the outward agreement in the principal theses, that does not yet correctly capture the center and the historical distinctiveness of his doctrine...
 ```
 
-**Draft Footnotes**
+**Working Commentary**
 
 ```text
 1) Cassirer marks the outstanding problem already visible in Fracastoro: concepts of place, figure, quantity, and number cannot simply be handled like generic abstractions from repeated sensory cases.

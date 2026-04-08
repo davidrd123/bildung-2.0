@@ -248,3 +248,52 @@ ranges:
     printed_pages: ["235", "235"]
     trust: "high"
     note: "The running internal heading on printed page 235 / PDF page 259 marks the reduction of `Verstand` to mediated sensory apprehension and physiological memory."
+
+  - slug: "verhaeltnis-zum-modernen-sensualismus-within-telesio"
+    label: "Opening of `Verhältnis zum modernen Sensualismus` within the Telesio discussion"
+    pdf_pages: [261, 261]
+    printed_pages: ["237", "237"]
+    trust: "high"
+    note: "The running internal heading on printed page 237 / PDF page 261 marks Cassirer's explicit contrast between Telesio's physics-first psychology and later sensualism."
+
+  - slug: "verdinglichung-des-geistes-und-der-erkenntnis-within-telesio"
+    label: "Opening of `Die Verdinglichung des Geistes und der Erkenntnis` within the Telesio discussion"
+    pdf_pages: [263, 263]
+    printed_pages: ["239", "239"]
+    trust: "high"
+    note: "The running internal heading on printed page 239 / PDF page 263 marks Cassirer's diagnosis that mind and cognition are reified when the Aristotelian form-concept survives in psychology, and it also opens the Patrizzi successor turn."
+
+  - slug: "campanella-opening-within-naturphilosophie"
+    label: "Opening of `III.` / Campanella within `Die Naturphilosophie`"
+    pdf_pages: [264, 264]
+    printed_pages: ["240", "240"]
+    trust: "high"
+    note: "Printed page 240 / PDF page 264 begins the Campanella case as the closing figure of natural philosophy and concentrates the epoch's empirical, metaphysical, and mystical tensions."
+
+  - slug: "verwandlung-des-ich-in-die-dinge-within-campanella"
+    label: "Opening of `Die Verwandlung des Ich in die Dinge` within the Campanella discussion"
+    pdf_pages: [265, 265]
+    printed_pages: ["241", "241"]
+    trust: "high"
+    note: "The running internal heading on printed page 241 / PDF page 265 marks the radicalization of cognition into self-transformation, `cognoscere est fieri rem cognitam`, and the shift from `informatio` to `immutatio`."
+
+  - slug: "bewegung-und-denken-within-campanella"
+    label: "Opening of `Bewegung und Denken` within the Campanella discussion"
+    pdf_pages: [267, 267]
+    printed_pages: ["243", "243"]
+    trust: "high"
+    note: "The running internal heading on printed page 243 / PDF page 267 marks Cassirer's critique of Campanella's attempt to translate Aristotelian cognition into mechanical motion and physiology."
+
+  - slug: "skeptische-kritik-der-erkenntnis-within-campanella"
+    label: "Opening of `Die skeptische Kritik der Erkenntnis` within the Campanella discussion"
+    pdf_pages: [269, 269]
+    printed_pages: ["245", "245"]
+    trust: "high"
+    note: "The running internal heading on printed page 245 / PDF page 269 marks the point where Campanella's skepticism is presented as the natural reverse side of his epistemic ideal."
+
+  - slug: "umfang-und-inhalt-des-begriffs-within-campanella"
+    label: "Opening of `Umfang und Inhalt des Begriffs` within the Campanella discussion"
+    pdf_pages: [271, 271]
+    printed_pages: ["247", "247"]
+    trust: "high"
+    note: "The running internal heading on printed page 247 / PDF page 271 marks Cassirer's contrast between abstraction as loss and the modern logic of relations as progressive determination."

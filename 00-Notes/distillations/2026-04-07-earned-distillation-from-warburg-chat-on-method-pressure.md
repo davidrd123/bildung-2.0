@@ -7,7 +7,7 @@ This note is not a ratification of the Warburg chat as a whole. It filters out t
 Inputs:
 
 - `00-Notes/Chats/2026-04-06/2026-04-07_20-49-26_Claude_Chat_Aby_Warburg's_library.md`
-- `00-Notes/DeepResearch/2026-04-07/warburg-mythos-chat-review.md`
+- `00-Notes/DeepResearch/2026-04-07/archive/warburg-mythos-chat-review.md`
 - `sources/modern/README.md`
 - `00-Notes/genealogy-to-instrument.md`
 - `00-Notes/process.md`

@@ -8,7 +8,7 @@ Inputs:
 
 - `00-Notes/Chats/2026-04-06/2026-04-07_20-51-40_Claude_Chat_Unpacking_in_detail.md`
 - `00-Notes/Chats/2026-04-06/2026-04-07_20-49-26_Claude_Chat_Aby_Warburg's_library.md`
-- `00-Notes/DeepResearch/2026-04-07/warburg-mythos-chat-review.md`
+- `00-Notes/DeepResearch/2026-04-07/archive/warburg-mythos-chat-review.md`
 - `00-Notes/distillations/2026-04-07-earned-distillation-from-mythos-preview-system-card.md`
 - `00-Notes/process.md`
 - `00-Notes/right-now.md`

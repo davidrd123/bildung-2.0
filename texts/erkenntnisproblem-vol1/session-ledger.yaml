@@ -5,8 +5,11 @@
 # Keep German inline where the term itself carries the conceptual load
 # (for example: Potenz, Substanz, Weltorganismus, Bild des Bildes).
 # One record per session. Blocked sessions can still be recorded if they
-# sharpen the re-entry edge. `formation_notes` is optional raw trace, not a
-# required prose layer.
+# sharpen the re-entry edge.
+# `what_shifted` should stay short: only the pivots that matter for re-entry,
+# not a tranche-by-tranche log. `journal.md` carries the running archive.
+# `formation_notes` is optional raw trace and should only keep real shifts in
+# stance or framing, not recap.
 
 sessions:
   - date: 2026-04-07
@@ -52,6 +55,9 @@ sessions:
       - 57
       - 58
       - 59
+      - 60
+      - 61
+      - 62
 
     state_on_entry:
       - "Arrived with the ledger still treating the next Paracelsus tranche as blocked on source access."
@@ -59,35 +65,28 @@ sessions:
       - "Main open pressure was whether mediated self-knowledge would stay central, and whether Paracelsian method terms would remain chapter-local."
 
     what_shifted:
-      - "Verified that the source PDF is present in this checkout and extracted PDF 244-247."
-      - "Completed Part 56 through printed page 223."
-      - "The strongest new pressure is methodological: Paracelsus now splits Erfahrung into grounded analytical experiment versus the Irrsaal of disconnected observation."
-      - "The Sichtiges / Unsichtiges pair now reads as a methodological unity rather than a simple domain distinction."
-      - "Completed Part 57 through printed page 227."
-      - "Licht der Natur now shows a double meaning: objective law against speculation and an inner source in the subject itself."
-      - "The chapter has turned into an explicit psychology-of-knowing sequence, with Fracastoro introduced as a transitional figure who still depends on species and passive representation."
-      - "Completed Part 58 through printed page 231."
-      - "Fracastoro now introduces subnotio as an active analytic transition already operating within perception itself."
-      - "The derivation of universals through resemblance and first/second intentions does not stabilize the model; the mind's own operations have to be granted an esse ab anima."
-      - "The pressure point has shifted from representational mediation to self-consciousness breaking the sensualist schema from inside."
-      - "Completed Part 59 through printed page 235."
-      - "Cassirer now says openly that the Fracastoro problem points beyond the current frame toward a future logic of relations."
-      - "The Telesio case grounds cognition in embodied process: Erkennen becomes Leiden, perception becomes transferred motion, and spiritus carries the affective chain through the nervous system."
-      - "Verstand is reduced to physiological memory and analogical recollection rather than a critical faculty over the senses."
+      - "Verified the source PDF in this checkout and pushed the run from the blocked Part 55 edge through Part 62."
+      - "Paracelsus turned the microcosm line into method: Erfahrung split into grounded experiment versus Irrsaal, and Sichtiges / Unsichtiges became a methodological unity."
+      - "Fracastoro carried the chapter into psychology-of-knowing: species, subnotio, and esse ab anima exposed self-consciousness and relation as pressures the sensualist frame could not stabilize."
+      - "Telesio grounded cognition in bodily process and physiological memory, but could not generate mathematics or pure relations from within the system; Aristotelian form survives in psychology."
+      - "Campanella drove the whole approach to breaking point: immutatio, trace, and motion-language could redescribe cognition, but not explain synthesis, representation, or the subject's resistance to alienation."
 
     unresolved:
-      - "Need the next tranche from printed 236-239 / PDF 260-263."
-      - "Need to see how Cassirer distinguishes Telesio from later sensualism after reducing intellect to embodied memory."
-      - "Need to see whether Leiden, spiritus, Gedächtnis, and Tastwahrnehmung remain chapter-local or force glossary pressure."
+      - "Need the next tranche from printed 248-251 / PDF 272-275."
+      - "Need to see how Campanella completes the alienation formula and whether any non-sensory certainty remains standing beside it."
+      - "Need to see whether Abstraktion, Bestimmung, alienari, and experimentorum-multorum-coacervatio remain chapter-local or force glossary pressure."
 
     re_entry_instructions:
-      - "Read Part 59 first; the live edge is Cassirer's qualification that Telesio cannot simply be classified as a precursor of later sensualism."
-      - "Extract the next raw page range: printed 236-239 / PDF 260-263."
-      - "Watch how Cassirer separates embodied perception-plus-memory from later sense-theories that use similar language."
-      - "Keep the chain Fracastoro relations-problem -> Telesio bodily perception -> physiological memory in view."
+      - "Read Part 62 first; the live edge is Campanella's unfinished alienation formula after the skepticism/abstraction critique."
+      - "Extract the next raw page range: printed 248-251 / PDF 272-275."
+      - "Watch whether Cassirer now rebuilds certainty from self-awareness, or whether the skeptical collapse keeps spreading."
+      - "Keep the chain Campanella immutatio -> skepticism -> abstraction-loss -> alienation in view."
 
     formation_notes:
       - "I came in expecting a straightforward praise of Paracelsian empiricism, but the text instead split Erfahrung in two and made experiment a disciplined use of forces rather than mere accumulation of observations."
       - "The next surprise was that the push toward empiricism did not simply leave mysticism behind; it bent back into the double meaning of Licht der Natur, and then immediately into a mediated species-psychology."
       - "I expected the universals discussion to stay terminist, but the real hinge turned out to be the mind's own reality: self-consciousness, not abstraction alone, is what finally breaks the schema."
       - "The Telesio turn made clear that the real novelty here is not just sense-primacy, but the reduction of intellect to remote touch and physiological memory."
+      - "The sharpest clarification in the Telesio conclusion was that the problem is not too much epistemology but too little: physics fills the frame so completely that cognition can only be modeled as a thing-like transfer."
+      - "Campanella made the limit visible: once the old metaphysical content is translated into motion-language, the resulting account can redescribe cognition but not yet explain what synthesis or representation actually are."
+      - "The next pressure is harsher: once abstraction itself looks like loss rather than determination, the collapse threatens not only object-knowledge but the self that knows."

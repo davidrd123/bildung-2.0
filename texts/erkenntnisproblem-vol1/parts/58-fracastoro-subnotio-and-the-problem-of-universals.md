@@ -60,7 +60,7 @@ This solution, preserved unchanged in Berkeley's theory of concepts, leads backw
 The operations of mind "are in the soul as if they were outside it": they bear the character of objective determinacy and in this sense are to be counted among concepts of the first order, without thereby possessing thing-like existence4). Thus we see, and this development will later become still clearer, how in the end precisely the central problem of self-consciousness breaks through the frame and schema that a sensualist psychology of knowing has drafted. In fact Fracastoro, in order to preserve for the soul its distinctive "reality," finds himself almost driven toward the Averroist doctrine of the one all-encompassing intellect, whereby in contradiction to his own theory of knowledge a new "universal" is once again hypostatized. And another question also presses itself forward at this point. When Fracastoro undertook to show the genesis of the universal from the particular, his interest here was directed only toward class-concepts, not toward the universal relations of mind and their validity. But is the problem thereby exhausted? Is it permissible to place concepts such as space and figure, magnitude and number, together with the concept of "white," which we abstract from the individual perceptions of snow and milk, on the same footing...
 ```
 
-**Draft Footnotes**
+**Working Commentary**
 
 ```text
 1) Fracastoro introduces `subnotio` as a prelogical but active inner motion that carries the soul from one sensible content to another and is already operative in the first formation of perceptual content.

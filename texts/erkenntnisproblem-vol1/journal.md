@@ -1447,3 +1447,68 @@ Decision for now:
 - continue directly into the next tranche from Cassirer's qualification that Telesio is not simply a precursor of later sensualism
 - keep watching whether `Leiden`, `Tastwahrnehmung`, `spiritus`, and `Gedächtnis` remain chapter-local or begin forcing glossary pressure
 - treat the Telesio sequence as a real shift from representational mediation to embodied process and analogical memory, but keep it source-bound for now
+
+## 2026-04-07 - Ninth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `236-239`
+- PDF pages `260-263`
+
+What this tranche clarified:
+
+- Cassirer now distinguishes Telesio from later sensualism in the sharpest possible way: Telesio does not begin from the problem of cognition, but from a physical dogma and only then moves into physiology and psychology
+- vision is described as a transfer through bodily medium, and even spatial relations are treated as directly carried over in the light-process rather than generated through an analysis of perceptual order
+- because the system starts from finished things, it cannot account for pure relations or mathematical forms from within its own premises; `reiner Raum` becomes the clearest stress-point
+- the historical diagnosis is explicit: the Aristotelian form-concept is overcome in physics but still rules in psychology through `species` and the assumption that the things themselves enter the spirit
+- once the substantial spiritual being of Aristotelian metaphysics has vanished, the inherited model of cognition can only degenerate into a material transition between objects and consciousness
+- the unresolved pressure now bifurcates: empirically toward the observational program of Cosenza, and metaphysically back toward Patrizzi's Neoplatonic `Logos` and the equation of `cognitio` with reunion
+
+Decision for now:
+
+- continue directly into the next tranche from the Patrizzi opening and the `coitio cum suo cognobili` formula
+- keep watching whether `reiner Raum`, `species`, `Verdinglichung`, and `Logos` remain chapter-local or start forcing glossary pressure
+- treat the Telesio conclusion as a genuine historical diagnosis rather than a loose label for empiricism, but keep it source-bound for now
+
+## 2026-04-07 - Tenth Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `240-243`
+- PDF pages `264-267`
+
+What this tranche clarified:
+
+- Campanella now appears as the closing condensation of the whole arc: empiricism, speculative mysticism, Thomist metaphysics, and a new appeal to consciousness all coexist in one unstable formation
+- his epistemic formula radicalizes the earlier line rather than escaping it: `cognoscere est fieri rem cognitam`, but the formal transfer of the object is narrowed into `immutatio`, not abandoned
+- the physiological account turns memory and connection into traces, scars, and renewed motions, so no distinct psychic power of reproduction or synthesis is supposed to be needed
+- Cassirer's central objection is logical, not merely historical: the translation of Aristotelian cognition into mechanical motion cannot explain the preservation of differentiated moments in synthesis or the representation of the past as past
+- this is where the natural-philosophic theory of knowledge begins to dissolve itself from within; the inherited metaphysical content has only been redescribed in empirical language, not critically transformed
+
+Decision for now:
+
+- continue directly into the next tranche from Campanella's leveling of thought and concept into the same circle as sensation
+- keep watching whether `immutatio`, `cognoscere est fieri rem cognitam`, `Narbe`, and the motion/synthesis contrast remain chapter-local or start forcing glossary pressure
+- treat the Campanella case as a real internal stress-test of the whole natural-philosophic epistemology, but keep it source-bound for now
+
+## 2026-04-07 - Eleventh Naturphilosophie Tranche
+
+Completed the next `Naturphilosophie` tranche:
+
+- printed pages `244-247`
+- PDF pages `268-271`
+
+What this tranche clarified:
+
+- Campanella's skepticism is not incidental rhetoric, but the natural reverse side of the epistemic ideal produced by the same sensory and reconstructive model of knowing
+- reason is explicitly lowered beneath sensation: it only fills gaps in experience by similarity and associative expectation, while sensation is treated as self-warranting evidence
+- on those premises abstraction becomes structurally suspect: universality looks like a blurred and impoverished copy of the singular rather than a gain in determination
+- Cassirer now states the modern alternative directly in his own voice: genuine universality belongs to laws and relations, and concretion comes through further determination, not through genus-copies
+- Campanella blocks that alternative because his concept of experience remains aggregate observation, `experimentorum multorum coacervatio`, rather than the Galilean treatment of mathematical relations
+- the pressure now turns back on the subject: if knowing is becoming-the-known, then alienation and even madness stand structurally close to cognition
+
+Decision for now:
+
+- continue directly into the next tranche from Campanella's `scire est alienari` continuation
+- keep watching whether `Abstraktion`, `Bestimmung`, `experimentorum multorum coacervatio`, and `alienari` remain chapter-local or start forcing glossary pressure
+- treat this Campanella run as the point where Cassirer most openly contrasts the Renaissance abstraction-model with the modern logic of relations, but keep it source-bound for now
