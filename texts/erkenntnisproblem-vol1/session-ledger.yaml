@@ -1826,3 +1826,1090 @@ sessions:
       - "Volume I now closes on the distinction between destructive critique and constructive science."
       - "The Bayle/Voltaire handoff is the real forward bridge left by the volume."
       - "Any next move should respect that the forward-translation arc of Volume I is complete."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-started
+    parts_touched:
+      - 82
+      - 83
+      - 84
+
+    state_on_entry:
+      - "Volume I had already been completed as a source-backed scaffold through Part 149."
+      - "The honest English repair boundary stood at Part 82."
+      - "The first repair question was whether the Leonardo / early Kepler block could be restored without reopening the surrounding trace layers."
+
+    what_shifted:
+      - "The English blocks in Parts 82-84 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 82 to Part 85."
+      - "No changes were needed to page-map, glossary, or export surfaces."
+      - "The local close-review and integrity notes were updated to reflect the new repair boundary."
+
+    unresolved:
+      - "Parts 85-149 still remain in the gloss zone."
+      - "The German completeness question for Parts 82-133 remains separate from the English repair pass."
+      - "Need to decide how large the next repair batch should be after Part 84."
+
+    re_entry_instructions:
+      - "Read Part 84 first; the repaired Kepler relation/perception opening is the current handoff edge."
+      - "Continue the English repair at Part 85 rather than reopening earlier repaired parts."
+      - "Use the listed source window for Part 85 and restore only the English block unless source pressure forces more."
+      - "Keep the integrity audit and close-review note aligned with the live repair boundary as it moves."
+      - "Do not treat the remaining gloss zone as translation-complete."
+
+    formation_notes:
+      - "The first repair batch confirms that the gloss zone can be reversed locally without disturbing the rest of the completed scaffold."
+      - "The right unit for this work is a small sequential block, not a global rewrite."
+      - "Repair now has a clean live edge at Part 85."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 85
+      - 86
+
+    state_on_entry:
+      - "Parts 82-84 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 85."
+      - "The next test was whether the Kepler perception/hypothesis transition could be repaired without widening into a second source pass."
+
+    what_shifted:
+      - "The English blocks in Parts 85-86 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 85 to Part 87."
+      - "The volume-close and integrity notes were advanced to the new boundary."
+      - "No derived export work was needed."
+
+    unresolved:
+      - "Parts 87-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether to keep working in two-part or larger repair batches."
+
+    re_entry_instructions:
+      - "Read Part 86 first; the repaired Kepler hypothesis block is the current handoff edge."
+      - "Continue the English repair at Part 87."
+      - "Repair the English block locally against the listed normalized source window before touching any surrounding apparatus."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 87-149 as translation-complete."
+
+    formation_notes:
+      - "The repair pass still works best as a bounded local restoration, not as a chapter-scale rewrite."
+      - "The Kepler transition confirms that continuity of argument can be recovered without changing the underlying scaffold."
+      - "Repair now has a clean live edge at Part 87."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 87
+      - 88
+
+    state_on_entry:
+      - "Parts 82-86 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 87."
+      - "The next test was whether the historical-method Kepler block could be restored without widening the repair surface."
+
+    what_shifted:
+      - "The English blocks in Parts 87-88 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 87 to Part 89."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The Kepler hypothesis / Fludd sequence is now translation-grade on the English side."
+
+    unresolved:
+      - "Parts 89-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether to keep repair moving through the rest of Kepler before pausing."
+
+    re_entry_instructions:
+      - "Read Part 88 first; the anti-Fludd and mathematical-form block is the current repaired edge."
+      - "Continue the English repair at Part 89."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 89-149 as translation-complete."
+
+    formation_notes:
+      - "The repair pass is recovering not only sentence fidelity but continuity of Cassirer's method argument across the Kepler run."
+      - "Small sequential batches remain the right scale."
+      - "Repair now has a clean live edge at Part 89."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 89
+      - 90
+
+    state_on_entry:
+      - "Parts 82-88 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 89."
+      - "The next target was the Kepler force/function block."
+
+    what_shifted:
+      - "The English blocks in Parts 89-90 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 89 to Part 91."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The Kepler force/function sequence is now translation-grade on the English side."
+
+    unresolved:
+      - "Parts 91-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether to keep moving through Kepler before pausing at the Galileo threshold."
+
+    re_entry_instructions:
+      - "Read Part 90 first; the repaired force/function block is the current handoff edge."
+      - "Continue the English repair at Part 91."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 91-149 as translation-complete."
+
+    formation_notes:
+      - "The repair pass is now recovering the central Kepler methodological arc, not only isolated tranche prose."
+      - "Small sequential batches remain effective."
+      - "Repair now has a clean live edge at Part 91."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 91
+      - 92
+
+    state_on_entry:
+      - "Parts 82-90 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 91."
+      - "The next target was the Kepler gravitation/mass block."
+
+    what_shifted:
+      - "The English blocks in Parts 91-92 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 91 to Part 93."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The Kepler gravitation/matter sequence is now translation-grade on the English side."
+
+    unresolved:
+      - "Parts 93-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether to stop at the end of Kepler or keep the repair moving into Galileo."
+
+    re_entry_instructions:
+      - "Read Part 92 first; the repaired mass/inertia block is the current handoff edge."
+      - "Continue the English repair at Part 93."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 93-149 as translation-complete."
+
+    formation_notes:
+      - "The repair pass is now recovering the strongest late-Kepler conceptual sequence in full."
+      - "Small sequential batches continue to work."
+      - "Repair now has a clean live edge at Part 93."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 93
+      - 94
+
+    state_on_entry:
+      - "Parts 82-92 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 93."
+      - "The next target was the end of the Kepler run and the law/causality transition."
+
+    what_shifted:
+      - "The English blocks in Parts 93-94 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 93 to Part 95."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The Kepler line is now translation-grade through the turn from being to becoming."
+
+    unresolved:
+      - "Parts 95-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether to continue directly into the Galileo opening while the transition is still active."
+
+    re_entry_instructions:
+      - "Read Part 94 first; the repaired law/causality transition is the current handoff edge."
+      - "Continue the English repair at Part 95."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 95-149 as translation-complete."
+
+    formation_notes:
+      - "The Kepler run now closes cleanly on the English side."
+      - "The next question is whether the same bounded repair method transfers cleanly into Galileo."
+      - "Repair now has a clean live edge at Part 95."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 95
+      - 96
+
+    state_on_entry:
+      - "Parts 82-94 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 95."
+      - "The next target was the Kepler/Galileo transition and the Galileo opening."
+
+    what_shifted:
+      - "The English blocks in Parts 95-96 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 95 to Part 97."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The Galileo opening is now translation-grade on the English side."
+
+    unresolved:
+      - "Parts 97-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide how far into Galileo to keep rolling before pausing."
+
+    re_entry_instructions:
+      - "Read Part 96 first; the repaired Galileo opening is the current handoff edge."
+      - "Continue the English repair at Part 97."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 97-149 as translation-complete."
+
+    formation_notes:
+      - "The bounded repair method carries cleanly across the Kepler/Galileo seam."
+      - "The Galileo section should be repairable by the same local sequential method."
+      - "Repair now has a clean live edge at Part 97."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 97
+      - 98
+
+    state_on_entry:
+      - "Parts 82-96 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 97."
+      - "The next target was the early Galileo matter/quality sequence."
+
+    what_shifted:
+      - "The English blocks in Parts 97-98 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 97 to Part 99."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The early Galileo matter/quality line is now translation-grade on the English side."
+
+    unresolved:
+      - "Parts 99-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide how far to keep rolling through Galileo before pausing."
+
+    re_entry_instructions:
+      - "Read Part 98 first; the repaired matter/quality block is the current handoff edge."
+      - "Continue the English repair at Part 99."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 99-149 as translation-complete."
+
+    formation_notes:
+      - "The Galileo repair now includes the first explicit doctrine of sensible qualities."
+      - "The bounded sequential method is still working."
+      - "Repair now has a clean live edge at Part 99."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 99
+      - 100
+      - 101
+      - 102
+
+    state_on_entry:
+      - "Parts 82-98 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 99."
+      - "The next target was the central Galileo method sequence."
+
+    what_shifted:
+      - "The English blocks in Parts 99-102 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 99 to Part 103."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The core Galileo method line is now translation-grade through conservation, inertia, substance/function, and intensive certainty."
+
+    unresolved:
+      - "Parts 103-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide how far through the Galileo close to keep rolling before pausing."
+
+    re_entry_instructions:
+      - "Read Part 102 first; the repaired intensive-certainty block is the current handoff edge."
+      - "Continue the English repair at Part 103."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 103-149 as translation-complete."
+
+    formation_notes:
+      - "The strongest epistemic claims in the Galileo run are now visible again in translation-grade English."
+      - "The bounded sequential method is still holding through the denser philosophy sections."
+      - "Repair now has a clean live edge at Part 103."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 103
+      - 104
+      - 105
+
+    state_on_entry:
+      - "Parts 82-102 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 103."
+      - "The next target was the Galileo close and the turn into mathematics."
+
+    what_shifted:
+      - "The English blocks in Parts 103-105 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 103 to Part 106."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The Galileo section now closes on the English side without depending on paraphrase."
+
+    unresolved:
+      - "Parts 106-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide how far into the mathematics section to keep rolling before pausing."
+
+    re_entry_instructions:
+      - "Read Part 105 first; the repaired Galileo close is the current handoff edge."
+      - "Continue the English repair at Part 106."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 106-149 as translation-complete."
+
+    formation_notes:
+      - "The Galileo close now joins cleanly to the mathematics opening on the English side."
+      - "The bounded sequential method is still working across chapter seams."
+      - "Repair now has a clean live edge at Part 106."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 106
+      - 107
+
+    state_on_entry:
+      - "Parts 82-105 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 106."
+      - "The next target was the opening mathematics sequence on infinity and the continuum."
+
+    what_shifted:
+      - "The English blocks in Parts 106-107 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 106 to Part 108."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The mathematics section now begins in translation-grade English rather than paraphrase."
+
+    unresolved:
+      - "Parts 108-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide how large the next mathematics repair batch should be."
+
+    re_entry_instructions:
+      - "Read Part 107 first; the repaired continuum/indivisibles block is the current handoff edge."
+      - "Continue the English repair at Part 108."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 108-149 as translation-complete."
+
+    formation_notes:
+      - "The repair method transfers cleanly from Galileo into the mathematics section."
+      - "The infinite/continuum material is denser, but still manageable by the same local repair pattern."
+      - "Repair now has a clean live edge at Part 108."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 108
+      - 109
+
+    state_on_entry:
+      - "Parts 82-107 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 108."
+      - "The next target was the transition from projective geometry into the expanded concept of number."
+
+    what_shifted:
+      - "The English blocks in Parts 108-109 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 108 to Part 110."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The mathematics run now carries cleanly from projection into Vieta, logarithms, and the opening imaginary-number discussion."
+
+    unresolved:
+      - "Parts 110-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether to keep repairing in small two-part batches or take a longer number-concept run next."
+
+    re_entry_instructions:
+      - "Read Part 109 first; the repaired Vieta/logarithm block is the current handoff edge."
+      - "Continue the English repair at Part 110."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 110-149 as translation-complete."
+
+    formation_notes:
+      - "The repair method is still stable in the denser mathematics section."
+      - "Definition-versus-abstraction pressure is now stronger and will likely matter in the next batch."
+      - "Repair now has a clean live edge at Part 110."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 110
+      - 111
+      - 112
+
+    state_on_entry:
+      - "Parts 82-109 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 110."
+      - "The next target was the Descartes opening and the first method-line tranches."
+
+    what_shifted:
+      - "The English blocks in Parts 110-112 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 110 to Part 113."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The Descartes opening is now translation-grade on the English side through the new organon, the method/metaphysics split, and the first relational logic tranche."
+
+    unresolved:
+      - "Parts 113-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether to keep Descartes in three-part batches or shift back to two-part repair units."
+
+    re_entry_instructions:
+      - "Read Part 112 first; the repaired relational-logic block is the current handoff edge."
+      - "Continue the English repair at Part 113."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 113-149 as translation-complete."
+
+    formation_notes:
+      - "The repair crosses cleanly from mathematics into Book III without needing journal updates."
+      - "The method-line in Descartes is now readable again as translation rather than summary."
+      - "Repair now has a clean live edge at Part 113."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 113
+      - 114
+
+    state_on_entry:
+      - "Parts 82-112 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 113."
+      - "The next target was the analytic-geometry / extension bridge in early Descartes."
+
+    what_shifted:
+      - "The English blocks in Parts 113-114 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 113 to Part 115."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The Descartes run now carries cleanly from universal mathematics into analytic geometry and the spatial grounding of physics."
+
+    unresolved:
+      - "Parts 115-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether to keep the Descartes repair in two-part units or widen the next batch."
+
+    re_entry_instructions:
+      - "Read Part 114 first; the repaired extension/common-measure block is the current handoff edge."
+      - "Continue the English repair at Part 115."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 115-149 as translation-complete."
+
+    formation_notes:
+      - "The Descartes repair continues to hold together best as method-connected local units."
+      - "The journal did not need updating; the repair is staying in the status surfaces as intended."
+      - "Repair now has a clean live edge at Part 115."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 115
+      - 116
+      - 117
+
+    state_on_entry:
+      - "Parts 82-114 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 115."
+      - "The next target was the early Cartesian physics run from innate idea through statics and the problem of experience."
+
+    what_shifted:
+      - "The English blocks in Parts 115-117 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 115 to Part 118."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The Descartes run now carries cleanly through innate idea, the spatial grounding of physics, relativity of motion, and the opening logic of experience."
+
+    unresolved:
+      - "Parts 118-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether to keep the next Descartes repairs in two- or three-part batches."
+
+    re_entry_instructions:
+      - "Read Part 117 first; the repaired conservation/experience block is the current handoff edge."
+      - "Continue the English repair at Part 118."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 118-149 as translation-complete."
+
+    formation_notes:
+      - "The early Cartesian physics line remains coherent enough to repair in a single local batch."
+      - "The journal still did not need updating; the repair remains a fidelity pass rather than a new interpretive pass."
+      - "Repair now has a clean live edge at Part 118."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 118
+      - 119
+      - 120
+
+    state_on_entry:
+      - "Parts 82-117 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 118."
+      - "The next target was the Cartesian experience/hypothesis sequence through the transition to metaphysics."
+
+    what_shifted:
+      - "The English blocks in Parts 118-120 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 118 to Part 121."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The Descartes run now carries cleanly through experimental construction, the logic of hypothesis, and the internal critique that opens metaphysics."
+
+    unresolved:
+      - "Parts 121-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether the metaphysics opening should be repaired in another three-part batch or a shorter unit."
+
+    re_entry_instructions:
+      - "Read Part 120 first; the repaired transition-to-metaphysics block is the current handoff edge."
+      - "Continue the English repair at Part 121."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 121-149 as translation-complete."
+
+    formation_notes:
+      - "The Descartes experience/hypothesis line also holds together as a single local repair batch."
+      - "The journal still did not need updating; the work remains a fidelity repair rather than a new reading pass."
+      - "Repair now has a clean live edge at Part 121."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 121
+      - 122
+      - 123
+      - 124
+
+    state_on_entry:
+      - "Parts 82-120 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 121."
+      - "The next target was the metaphysical opening from pure intellect through eternal truths and the infinite."
+
+    what_shifted:
+      - "The English blocks in Parts 121-124 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 121 to Part 125."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The Descartes run now carries cleanly through pure intellect, judgment-function, the God-guarantee, and the internal critique of eternal truths and the infinite."
+
+    unresolved:
+      - "Parts 125-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether the remaining late Descartes run should be repaired as one longer batch or broken at the Pascal turn."
+
+    re_entry_instructions:
+      - "Read Part 124 first; the repaired eternal-truths/infinite block is the current handoff edge."
+      - "Continue the English repair at Part 125."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 125-149 as translation-complete."
+
+    formation_notes:
+      - "The metaphysical opening also holds together best as a single local repair unit."
+      - "The journal still did not need updating; the work remains a fidelity repair rather than a new interpretive pass."
+      - "Repair now has a clean live edge at Part 125."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 125
+      - 126
+      - 127
+      - 128
+
+    state_on_entry:
+      - "Parts 82-124 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 125."
+      - "The next target was the Descartes close and the methodological opening of Pascal."
+
+    what_shifted:
+      - "The English blocks in Parts 125-128 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 125 to Part 129."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The handoff now crosses cleanly from the late Descartes difficulties into Pascal's positive methodological line on science, geometry, and the infinite."
+
+    unresolved:
+      - "Parts 129-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether the remainder of Pascal and the post-Cartesian logic run should be repaired as one larger continuity block or in thinker-sized units."
+
+    re_entry_instructions:
+      - "Read Part 128 first; the repaired geometric-method/infinite block is the current handoff edge."
+      - "Continue the English repair at Part 129."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 129-149 as translation-complete."
+
+    formation_notes:
+      - "The Descartes close and Pascal opening repair well as one continuity unit because the criterion-of-certainty problem runs straight through them."
+      - "The journal still did not need updating; the work remains a fidelity repair rather than a new interpretive pass."
+      - "Repair now has a clean live edge at Part 129."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 129
+      - 130
+      - 131
+
+    state_on_entry:
+      - "Parts 82-128 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 129."
+      - "The next target was the remainder of the Pascal run through its ethical, skeptical, and authority turns."
+
+    what_shifted:
+      - "The English blocks in Parts 129-131 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 129 to Part 132."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The Pascal run is now repaired through its local close, including the turn to original sin, the displacement of first principles into feeling, and the final contrast with Montaigne."
+
+    unresolved:
+      - "Parts 132-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether the post-Pascal logic and category run should be repaired as one sustained block or split at the Malebranche turn."
+
+    re_entry_instructions:
+      - "Read Part 131 first; the repaired Pascal/Montaigne contrast is the current handoff edge."
+      - "Continue the English repair at Part 132."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 132-149 as translation-complete."
+
+    formation_notes:
+      - "The remainder of Pascal also repaired cleanly as a single thinker-sized unit."
+      - "The journal still did not need updating; the work remains a fidelity repair rather than a new interpretive pass."
+      - "Repair now has a clean live edge at Part 132."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 132
+      - 133
+
+    state_on_entry:
+      - "Parts 82-131 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 132."
+      - "The next target was the logic/categories opening and the first Geulincx corrective move."
+
+    what_shifted:
+      - "The English blocks in Parts 132-133 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 132 to Part 134."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The repair now crosses cleanly from Pascal's close into the logic section and the first Geulincx critique of allegorical metaphysics."
+
+    unresolved:
+      - "Parts 134-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether the longer Geulincx/Burthogge/Malebranche run should be repaired in multi-part conceptual blocks or thinker-sized blocks."
+
+    re_entry_instructions:
+      - "Read Part 133 first; the repaired Geulincx opening is the current handoff edge."
+      - "Continue the English repair at Part 134."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 134-149 as translation-complete."
+
+    formation_notes:
+      - "The post-Pascal transition repaired best in a smaller unit because Part 134 opens mid-paragraph and wants a more careful pass."
+      - "The journal still did not need updating; the work remains a fidelity repair rather than a new interpretive pass."
+      - "Repair now has a clean live edge at Part 134."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 134
+      - 135
+      - 136
+
+    state_on_entry:
+      - "Parts 82-133 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 134."
+      - "The next target was the longer Geulincx/Burthogge category run through the positive `modus concipiendi` line."
+
+    what_shifted:
+      - "The English blocks in Parts 134-136 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 134 to Part 137."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The repaired zone now carries cleanly through teleology, dogmatism, method-order, the critique of the thing-concept, and Burthogge's positive category-language."
+
+    unresolved:
+      - "Parts 137-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether the remaining Burthogge/Malebranche/Bayle line should be repaired in larger continuity blocks or in shorter transitions."
+
+    re_entry_instructions:
+      - "Read Part 136 first; the repaired `modus concipiendi` / relative-cognition block is the current handoff edge."
+      - "Continue the English repair at Part 137."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 137-149 as translation-complete."
+
+    formation_notes:
+      - "The Geulincx/Burthogge category run holds together as one conceptual repair block even though Parts 134 and 135 open mid-paragraph."
+      - "The journal still did not need updating; the work remains a fidelity repair rather than a new interpretive pass."
+      - "Repair now has a clean live edge at Part 137."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 137
+      - 138
+
+    state_on_entry:
+      - "Parts 82-136 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 137."
+      - "The next target was Burthogge's causal relapse and the Malebranche opening."
+
+    what_shifted:
+      - "The English blocks in Parts 137-138 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 137 to Part 139."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The repaired zone now carries cleanly through Burthogge's relapse-point at causality and into Malebranche's psychological opening."
+
+    unresolved:
+      - "Parts 139-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether the Malebranche and Bayle run should be repaired in one final long block or in two thinker-sized blocks."
+
+    re_entry_instructions:
+      - "Read Part 138 first; the repaired Malebranche opening is the current handoff edge."
+      - "Continue the English repair at Part 139."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 139-149 as translation-complete."
+
+    formation_notes:
+      - "The Burthogge close and Malebranche opening repair best together because the retrospective standard and the new psychological line are stated in one movement."
+      - "The journal still did not need updating; the work remains a fidelity repair rather than a new interpretive pass."
+      - "Repair now has a clean live edge at Part 139."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 139
+      - 140
+      - 141
+
+    state_on_entry:
+      - "Parts 82-138 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 139."
+      - "The next target was the first late-Malebranche block through force, relation, and the divine-law turn."
+
+    what_shifted:
+      - "The English blocks in Parts 139-141 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 139 to Part 142."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The repaired zone now carries cleanly through the self-knowledge asymmetry, the anti-force critique, and the metaphysical reanchoring of law in divine will."
+
+    unresolved:
+      - "Parts 142-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Need to decide whether the remaining Malebranche/Arnauld/Bayle tail should be repaired in one final long block or split once more at Bayle."
+
+    re_entry_instructions:
+      - "Read Part 141 first; the repaired divine-law / psychological-idealism turn is the current handoff edge."
+      - "Continue the English repair at Part 142."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 142-149 as translation-complete."
+
+    formation_notes:
+      - "The first late-Malebranche block holds together as one repair unit because force, relation, and divine-law efficacy belong to a single argument."
+      - "The journal still did not need updating; the work remains a fidelity repair rather than a new interpretive pass."
+      - "Repair now has a clean live edge at Part 142."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-continued
+    parts_touched:
+      - 142
+      - 143
+      - 144
+      - 145
+      - 146
+
+    state_on_entry:
+      - "Parts 82-141 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 142."
+      - "The next target was the remaining Malebranche/Arnauld line through the Bayle opening."
+
+    what_shifted:
+      - "The English blocks in Parts 142-146 were restored from gloss into draft translation."
+      - "The repair boundary moved forward from Part 142 to Part 147."
+      - "The volume-close and integrity notes were advanced again to match the text."
+      - "The repaired zone now carries cleanly through the anti-ontological turn, intelligible extension, the Arnauld dispute, the anti-voluntarist close of Malebranche, and the handoff to Bayle."
+
+    unresolved:
+      - "Parts 147-149 still remain in the gloss zone."
+      - "The German completeness question remains separate from the English repair pass."
+      - "Only the Bayle closing run remains to be repaired."
+
+    re_entry_instructions:
+      - "Read Part 146 first; the repaired Bayle opening is the current handoff edge."
+      - "Continue the English repair at Part 147."
+      - "Use the listed normalized source window for the next tranche and repair the English block locally."
+      - "Keep the audit and close-review note aligned with the moving boundary."
+      - "Do not treat Parts 147-149 as translation-complete."
+
+    formation_notes:
+      - "The late Malebranche/Arnauld line repaired best as one thinker-sized block because the idea/perception dispute and the anti-voluntarist close belong to one argument."
+      - "The journal still did not need updating; the work remains a fidelity repair rather than a new interpretive pass."
+      - "Repair now has a clean live edge at Part 147."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: translation-repair-completed
+    parts_touched:
+      - 147
+      - 148
+      - 149
+
+    state_on_entry:
+      - "Parts 82-146 had already been restored to draft translation."
+      - "The live English repair boundary stood at Part 147."
+      - "Only the Bayle closing run remained in gloss form."
+
+    what_shifted:
+      - "The English blocks in Parts 147-149 were restored from gloss into draft translation."
+      - "The English repair pass for Volume I is now complete."
+      - "The volume-close and integrity notes were rewritten from live-boundary language into completed-state language."
+      - "Volume I now carries a continuous translation-grade English layer from Part 1 through Part 149."
+
+    unresolved:
+      - "The German completeness question remains separate from the English repair pass."
+      - "Parts 82-133 remain the first recheck zone for late-run source-density."
+      - "The late English remains working draft translation rather than publication-polished prose."
+
+    re_entry_instructions:
+      - "If you need the completed English repair edge, read Part 149 and the updated integrity audit."
+      - "Do not look for any remaining English gloss zone in Volume I; there is none."
+      - "If local repair continues, shift from English fidelity to German source-completeness."
+      - "Otherwise open Volume II or work from the completed Volume I scaffold."
+      - "Keep the journal untouched unless a new primary pass earns fresh cross-batch findings."
+
+    formation_notes:
+      - "The Bayle close repaired cleanly as one final unit and completed the English side of the volume."
+      - "The journal still did not need updating; the work remained a fidelity repair rather than a new interpretive pass."
+      - "The real remaining debt in Volume I is now German source-completeness, not English gloss recovery."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: german-completeness-rechecked
+    parts_touched:
+      - 111
+      - 116
+      - 132
+      - 134
+      - 138
+      - 149
+
+    state_on_entry:
+      - "The English repair pass for Volume I was complete."
+      - "The standing honesty notes still described the German debt too broadly as `82-133` with a simple `134-149` recovery."
+      - "The next question was whether the late German layer really broke at Part 82, or whether the debt map had become too coarse."
+
+    what_shifted:
+      - "A ratio scan against the normalized source windows, followed by direct spot-checks, refined the German debt map materially."
+      - "Parts 82-110 are still comparatively full and should not be treated as the first German recheck zone."
+      - "The real primary compression begins around late Descartes and runs through Parts 111-133."
+      - "Parts 134-141 show a real but uneven recovery."
+      - "Parts 142-149 thin out again, with the Bayle close the strongest late-tail compression."
+      - "The integrity audit and volume-close note were updated to match this sharper map."
+
+    unresolved:
+      - "No German expansion pass has been done yet; this session only rechecked and reclassified the debt."
+      - "Need to decide whether local repair should begin with Part 111 or whether Volume II now takes priority."
+      - "Need to keep the journal untouched unless a true source recheck produces a cross-batch finding rather than a status correction."
+
+    re_entry_instructions:
+      - "If local repair continues, start with Part 111 rather than Part 82."
+      - "Use the updated artifact-integrity audit as the first routing surface for German completeness work."
+      - "Treat Parts 111-133 as the primary recheck zone."
+      - "After that, inspect the renewed thin tail in Parts 142-149."
+      - "Do not reopen the journal just to mirror the honesty notes."
+
+    formation_notes:
+      - "The first late-run break is later than it looked during the English repair; the real German compression begins with late Descartes, not with Leonardo."
+      - "The Bayle close is not just late and final; it is also structurally the thinnest German tail in the volume."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: german-completeness-continued
+    parts_touched:
+      - 111
+      - 113
+      - 114
+      - 115
+      - 116
+      - 117
+      - 118
+
+    state_on_entry:
+      - "The English repair pass for Volume I was complete."
+      - "The refined honesty notes had identified Parts 111-133 as the first German recheck zone."
+      - "The immediate question was whether the late Descartes opening could be restored back to near full corrected-source density before the logic run."
+
+    what_shifted:
+      - "Fuller German tranche bodies were restored in Parts 111 and 113-118."
+      - "Part 112 was rechecked and already stood close enough to full corrected-source density to leave unchanged."
+      - "The late Descartes opening now carries source-near German bodies through the experience / induction turn."
+      - "The first remaining compressed German zone now begins at Part 119 rather than Part 111."
+      - "The integrity audit and volume-close note were updated to reflect the moved boundary."
+
+    unresolved:
+      - "Parts 119-133 remain the first unrepaired German compression band."
+      - "Parts 142-149 still form the later thin tail, with Bayle the strongest compression."
+      - "No journal update is justified; this remains a source-completeness repair, not a new interpretive pass."
+
+    re_entry_instructions:
+      - "If German completeness work continues, start at Part 119."
+      - "Use the normalized source window for Part 119 as the next repair basis."
+      - "Treat Parts 119-133 as the current primary recheck band."
+      - "After that, inspect the renewed thin tail in Parts 142-149."
+      - "Keep the journal untouched unless source re-expansion produces a true cross-batch finding."
+
+    formation_notes:
+      - "The late Descartes problem was not uniform collapse; much of the opening could be restored back to near-full bodies cleanly."
+      - "The real first remaining pressure now lies in the experimental / hypothesis / post-physics transition after Part 118."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: german-completeness-continued
+    parts_touched:
+      - 119
+      - 120
+      - 121
+      - 122
+      - 123
+      - 124
+      - 125
+      - 126
+
+    state_on_entry:
+      - "The German completeness pass had already restored the late Descartes opening through Part 118."
+      - "The honesty notes now treated Parts 119-133 as the first remaining compressed band."
+      - "The immediate question was whether the hypothesis / metaphysics / chapter-close sequence still needed the same level of German restoration."
+
+    what_shifted:
+      - "Fuller German tranche bodies were restored in Parts 119-126."
+      - "The late Descartes run now carries near-full corrected-source bodies through the end of the chapter."
+      - "The first remaining compressed German zone has moved forward again and now begins at Part 127."
+      - "The integrity audit and volume-close note were advanced to reflect that new boundary."
+
+    unresolved:
+      - "Parts 127-133 remain the first unrepaired German compression band."
+      - "Parts 142-149 still form the later thin tail, with Bayle the strongest compression."
+      - "No journal update is justified; this remains a source-completeness repair, not a new interpretive pass."
+
+    re_entry_instructions:
+      - "If German completeness work continues, start at Part 127."
+      - "Use the normalized source window for Part 127 as the next repair basis."
+      - "Treat Parts 127-133 as the current primary recheck band."
+      - "After that, inspect the renewed thin tail in Parts 142-149."
+      - "Keep the journal untouched unless source re-expansion produces a true cross-batch finding."
+
+    formation_notes:
+      - "The later Descartes problem was also not a simple collapse; even the metaphysical turn could be restored back to near-full tranche bodies once the function drift was corrected."
+      - "The remaining primary pressure now lies not in Descartes but in the Pascal / logic transition that follows him."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: german-completeness-continued
+    parts_touched:
+      - 127
+      - 128
+      - 129
+      - 130
+      - 131
+      - 132
+      - 133
+
+    state_on_entry:
+      - "The German completeness pass had already restored the late Descartes run through Part 126."
+      - "The honesty notes now treated Parts 127-133 as the first remaining compressed band."
+      - "The immediate question was whether the Pascal transition and logic opening were still carrying only excerpt-level German rather than near-full tranche bodies."
+
+    what_shifted:
+      - "Fuller German tranche bodies were restored in Parts 127-133."
+      - "The Pascal transition and the opening of `Logik und Kategorienlehre` now sit back near normalized-source density."
+      - "The first remaining German debt no longer begins at Pascal; the standing notes were updated so Parts 82-133 now count as comparatively full."
+      - "The integrity audit and volume-close note now route future repair work toward the uneven middle band 134-141 and the thinner late tail 142-149."
+
+    unresolved:
+      - "Parts 134-141 remain uneven rather than uniformly thin."
+      - "Parts 142-149 still form the strongest remaining German compression tail, especially in the Bayle close."
+      - "No journal update is justified; this remained a source-completeness repair, not a new interpretive pass."
+
+    re_entry_instructions:
+      - "If German completeness work continues, start with the thin late tail in Parts 142-149."
+      - "After that, inspect Parts 134-141 selectively rather than assuming they all need the same level of repair."
+      - "Use the updated artifact-integrity audit as the first routing surface for any further Volume I German repair."
+      - "Keep the journal untouched unless source re-expansion produces a true cross-batch finding."
+
+    formation_notes:
+      - "The Pascal / logic transition showed the same function drift as late Descartes: the argumentative spine was preserved, but connective method lines, quotations, and examples had been stripped out."
+      - "Once those were restored, the real remaining German debt no longer sat at the chapter boundary but in the later uneven and Bayle-tail bands."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: german-completeness-continued
+    parts_touched:
+      - 142
+      - 145
+      - 146
+      - 147
+      - 148
+      - 149
+
+    state_on_entry:
+      - "The integrity notes already treated the late tail 142-149 as the clearest remaining German-completeness debt."
+      - "The immediate question was whether that tail was uniformly thin, or whether a few high-value internal omissions could be repaired before a full-body re-expansion."
+
+    what_shifted:
+      - "Parts 142, 145, and 146 were thickened locally with omitted argumentative detail from the normalized source windows."
+      - "Bayle's opening and antinomy tranches, Parts 147 and 148, were also expanded where the source-critical and Eleatic setup had been overly compressed."
+      - "Part 149 recovered a fuller ethical opening, including Bayle's comparison of religions and the link to toleration."
+      - "These repairs improved the tail materially, but they did not yet eliminate it as the primary remaining debt band."
+
+    unresolved:
+      - "Parts 142-149 still remain the strongest German-completeness problem in Volume I, with Bayle still the thinnest local stretch."
+      - "The middle band 134-141 still remains uneven, but the Bayle tail is the clearer next target."
+      - "No journal update is justified; this is still document repair rather than a new interpretive pass."
+
+    re_entry_instructions:
+      - "If German completeness work resumes, stay in the Bayle tail rather than jumping back to the middle band."
+      - "Treat Parts 147-149 as the clearest next local targets for fuller tranche-body restoration."
+      - "Do not move the global honesty boundary yet; the late tail still needs more than selective thickening."
+      - "Keep using the normalized windows directly and avoid blind OCR-style replacement."
+
+    formation_notes:
+      - "In the late tail, the problem is less simple truncation than selective loss of examples, quotations, and connective argument."
+      - "Bayle especially was carrying the thesis skeleton without enough of the evidentiary pressure that makes Cassirer's close persuasive."

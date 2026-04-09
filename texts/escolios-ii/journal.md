@@ -305,3 +305,19 @@ The run now reaches `§1000` with seven more sections:
 This longer run pushes several of the volume's main lines into a much denser register. `§861-900` keeps hope, gratuity, progress, and ugliness under pressure, refusing both restoration and terrestrial destiny. `§901-940` sharpens the methodological and political line at once: values are discovered rather than invented, history has center rather than route, justice and posterity are repeatedly unmasked, and the Gospel is protected from being confused with sedition. `§941-1000` is the strongest theological-philosophical stretch yet: eschatology is detached from historicism, Catholicism is figured as a wake of triumphant shipwrecks, reaction is defined by complexity rather than solutions, ontology is subordinated to axiology, and the closing pages keep dismantling the worship of the natural, the future, and intramundane nakedness.
 
 This stretch forced two local cleanup passes, but again only at the points where live batching exposed clear witness lies. The repairs were exact and confined to the active pocket: `§868`, `§873`, `§877`, `§881`, `§887`, `§890`, `§897`, `§898`, `§903`, `§918`, `§922`, `§924`, `§928`, `§931`, `§933`, `§943`, `§951`, `§965`, `§985`, `§991`, and `§996`. The extracted count still holds at `2442`, and the only flagged casualty remains `id 1189`.
+
+## 2026-04-08 — Sections 46 Through 50 Added
+
+The run now reaches `§1100` with five more sections:
+
+- `§1001-1020` / printed pages `175-178` in [sections/46-state-and-continuity.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/46-state-and-continuity.md)
+- `§1021-1040` / printed pages `178-181` in [sections/47-geometry-and-postration.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/47-geometry-and-postration.md)
+- `§1041-1060` / printed pages `181-184` in [sections/48-posterities-and-readings.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/48-posterities-and-readings.md)
+- `§1061-1080` / printed pages `184-187` in [sections/49-mediocrity-and-exposure.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/49-mediocrity-and-exposure.md)
+- `§1081-1100` / printed pages `188-190` in [sections/50-faith-and-prohibition.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/50-faith-and-prohibition.md)
+
+These pages keep several mature lines in motion without needing a new frame. `§1001-1020` turns around state, institution, seriousness, and the rank-question. `§1021-1040` presses harder on structural reading, embodied truth, kneeling, and inherited interpretation. `§1041-1060` becomes a pocket about angle and posterity: benefactors are those who alter light, cultures fecundate through imperfect contact, and whole traditions are distinguished by what sort of readings they authorize. `§1061-1080` exposes the public life of mediocrity more directly: bourgeois intellectuality, aesthetic exploitation, progressive historians, and the tribunal of the dead. `§1081-1100` closes on writing, faith, taboo, and moral form, ending by relocating war from politics to the interior of man.
+
+This stretch only forced a very small repair set in the live source, and it was possible to keep it that small because the earlier cleanup discipline has finally started to hold. The exact repairs were `§1012` (`está`), `§1015` (`Nadie debe tomarse en serio. Sólo esperar resultar tal.`), `§1021` (the broken `Sino` sentence), `§1051` (`Así`), and `§1083` (removing the stray comma after `Nunca`). Two resistant lines were left untouched because the witness pressure is still not decisive enough to justify a forced correction: `§1028` and `§1087`.
+
+The extracted count still holds at `2442`, and the only flagged casualty remains `id 1189`.

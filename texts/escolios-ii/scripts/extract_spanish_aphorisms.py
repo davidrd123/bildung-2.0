@@ -237,6 +237,11 @@ def normalize_text(text: str) -> str:
         "y_se confunde": "y se confunde",
         "la diferencia dé las otras": "la diferencia de las otras",
         "particular, dé absolutos": "particular, de absolutos",
+        "La memoria de una civilización esta": "La memoria de una civilización está",
+        "Nadie debe tomarse a lo serio. Esperar tan sólo resultarlo.": "Nadie debe tomarse en serio. Sólo esperar resultar tal.",
+        "El hombre actual no vive en el espacio y en el tiempo. Sino en la geometría y los cronómetros.": "El hombre actual no vive en el espacio y en el tiempo, sino en la geometría y los cronómetros.",
+        "Asi como la interpretación alegórica": "Así como la interpretación alegórica",
+        "Nunca, hay demasiados escritores": "Nunca hay demasiados escritores",
     }
     for old, new in replacements.items():
         value = value.replace(old, new)

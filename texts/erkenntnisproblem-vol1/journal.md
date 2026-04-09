@@ -3357,3 +3357,196 @@ Decision for now:
 - Volume I is now structurally complete through printed page `601`
 - no new glossary promotion; the pressure remained architectonic through the close
 - the next move is no longer forward translation in this volume, but either a review/repair pass on the completed scaffold or the opening of Volume II
+
+## 2026-04-08 - Repair pass opened on Leonardo / early Kepler
+
+Repaired the English layer in Parts `82-84` from gloss back into draft translation.
+
+What was clarified:
+
+- the honest repair boundary can now move forward from Part `82` to Part `85`
+- the first Leonardo/Kepler block does support sentence-level English recovery without changing the German blocks, commentary, or trace structure
+- the immediate gain of the repair is fidelity, not new doctrine; the underlying philosophical line remains the same as in the existing journal entries
+- this confirms that the right repair method is local and sequential: restore the English block, leave the rest of the scaffold intact unless the source itself forces a correction
+
+Decision for now:
+
+- continue repair sequentially from Part `85` if the translation pass remains local to Volume I
+- do not reopen page-map, glossary, or export work unless a repair tranche forces a source correction beyond the English layer
+- keep the volume-close notes in `reading/` aligned with the live repair boundary as it moves
+
+## 2026-04-08 - Repair pass continued through the Kepler hypothesis block
+
+Repaired the English layer in Parts `85-86` from gloss back into draft translation.
+
+What was clarified:
+
+- the honest repair boundary can now move forward from Part `85` to Part `87`
+- the Kepler optics / hypothesis transition also supports local English restoration without forcing any structural revision in the German or trace layers
+- the restored English is enough to make the Kepler perception-to-hypothesis sequence readable again as actual translation rather than argument summary
+
+Decision for now:
+
+- continue sequentially from Part `87` if the repair pass stays local to Volume I
+- keep treating German completeness as a separate later question from the English repair
+- keep the audit, close review, and session ledger synchronized with the live repair boundary
+
+## 2026-04-08 - Repair pass continued through late Kepler
+
+Repaired the English layer in Parts `87-88` from gloss back into draft translation.
+
+What was clarified:
+
+- the honest repair boundary can now move forward from Part `87` to Part `89`
+- the Copernicus / Osiander / Fludd sequence is now readable again as actual translation rather than compressed summary
+- the strongest repair gain here is continuity of the historical-method argument: hypothesis, anti-mystical mathematics, and the mathematical concept of form now hold together on the English side
+
+Decision for now:
+
+- continue sequentially from Part `89` if the repair pass stays local to Volume I
+- keep the repair local to the English block unless a later tranche forces renewed German correction
+- keep the status surfaces honest about the live remaining gloss zone
+
+## 2026-04-08 - Repair pass continued through the Kepler force block
+
+Repaired the English layer in Parts `89-90` from gloss back into draft translation.
+
+What was clarified:
+
+- the honest repair boundary can now move forward from Part `89` to Part `91`
+- the Kepler transition from cosmic soul to force/function is now readable again as actual translation rather than compressed summary
+- the repaired English keeps the internal sequence clearer: anti-Aristotelian mediation -> force against soul -> cause as mathematical condition -> the ideal of an arithmetic of forces
+
+Decision for now:
+
+- continue sequentially from Part `91` while the Kepler chapter is still open in local context
+- keep the repair local to the English block unless a source check forces more
+- keep audit, close review, and session ledger synchronized with the live repair boundary
+
+## 2026-04-08 - Repair pass continued through Kepler gravitation and matter
+
+Repaired the English layer in Parts `91-92` from gloss back into draft translation.
+
+What was clarified:
+
+- the honest repair boundary can now move forward from Part `91` to Part `93`
+- the Kepler gravitation/mass/inertia sequence is now readable again as actual translation, which matters because this is where Cassirer explicitly binds force, matter, and law into one mathematical causality
+- the restored English makes the Newton-facing line much cleaner without changing the existing local argument structure
+
+Decision for now:
+
+- continue sequentially from Part `93` if the repair pass stays local to Volume I
+- keep the repair local to the English block unless later source pressure forces more
+- keep the status surfaces synchronized with the live boundary before moving into the law/Galileo transition
+
+## 2026-04-08 - Repair pass continued through Kepler law and transition
+
+Repaired the English layer in Parts `93-94` from gloss back into draft translation.
+
+What was clarified:
+
+- the honest repair boundary can now move forward from Part `93` to Part `95`
+- the end of the Kepler run is now translation-grade on the English side through the explicit turn from being to becoming
+- this matters because the Galileo threshold is no longer hanging on paraphrase; the law/relativity/cause transition is again textually visible
+
+Decision for now:
+
+- continue sequentially from Part `95` if the repair pass stays local to Volume I
+- keep the repair local to the English block unless the transition into Galileo forces a closer source check
+- keep audit, close review, and session ledger synchronized with the live repair boundary
+
+## 2026-04-08 - Repair pass carried into the Galileo opening
+
+Repaired the English layer in Parts `95-96` from gloss back into draft translation.
+
+What was clarified:
+
+- the honest repair boundary can now move forward from Part `95` to Part `97`
+- the Kepler/Galileo handoff and the opening statement of Galileo's positive method are now readable again as actual translation
+- the bounded repair method still transfers cleanly across the chapter seam; no extra structural repair was needed
+
+Decision for now:
+
+- continue sequentially from Part `97` if the repair pass stays local to Volume I
+- keep the repair local to the English block unless later Galileo tranches force closer source checking
+- keep audit, close review, and session ledger synchronized with the live repair boundary
+
+## 2026-04-08 - Repair pass continued through Galileo matter and sensible qualities
+
+Repaired the English layer in Parts `97-98` from gloss back into draft translation.
+
+What was clarified:
+
+- the honest repair boundary can now move forward from Part `97` to Part `99`
+- the early Galileo matter/quality line is now readable again as actual translation, including the applied-mathematics defense and the method-led derivation of the sensible-qualities doctrine
+- the bounded repair method is still holding; no wider structural correction was needed
+
+Decision for now:
+
+- continue sequentially from Part `99` if the repair pass stays local to Volume I
+- keep the repair local to the English block unless later Galileo tranches force closer source checking
+- keep audit, close review, and session ledger synchronized with the live repair boundary
+
+## 2026-04-08 - Repair pass continued through Galileo conservation, inertia, and phenomenal knowledge
+
+Repaired the English layer in Parts `99-102` from gloss back into draft translation.
+
+What was clarified:
+
+- the honest repair boundary can now move forward from Part `99` to Part `103`
+- the central Galileo method line is now translation-grade on the English side through conservation, inertia, the shift from substance to function, and the intensive standard of certainty
+- this matters because the strongest local epistemic claims in the Galileo run no longer hang on paraphrase: `Erhaltung des Stoffes`, `Beharrungsgesetz`, `Substanz -> Funktion`, and the intensive/exhaustive contrast are again visible in something closer to Cassirer's own prose
+
+Decision for now:
+
+- continue sequentially from Part `103` if the repair pass stays local to Volume I
+- keep the repair local to the English block unless the next Galileo tranches force renewed German checking
+- keep audit, close review, and session ledger synchronized with the live repair boundary
+
+## 2026-04-08 - Repair pass carried the Galileo section to its close
+
+Repaired the English layer in Parts `103-105` from gloss back into draft translation.
+
+What was clarified:
+
+- the honest repair boundary can now move forward from Part `103` to Part `106`
+- the Galileo section is now translation-grade on the English side through the `resolutive` / `kompositive` method line, the critique of teleological `a priori`, the break with harmony, and the turn into mathematics
+- this matters because the volume can now be re-entered at the mathematics section without the Galileo close depending on compressed paraphrase
+
+Decision for now:
+
+- continue sequentially from Part `106` if the repair pass stays local to Volume I
+- keep the repair local to the English block unless the mathematics section forces renewed German checking
+- keep audit, close review, and session ledger synchronized with the live repair boundary
+
+## 2026-04-08 - Repair pass opened the mathematics section
+
+Repaired the English layer in Parts `106-107` from gloss back into draft translation.
+
+What was clarified:
+
+- the honest repair boundary can now move forward from Part `106` to Part `108`
+- the mathematics section is now translation-grade on the English side through the first infinite/continuum sequence
+- this matters because the repair has now crossed cleanly from the Galileo close into the new mathematical problem-field without changing method
+
+Decision for now:
+
+- continue sequentially from Part `108` if the repair pass stays local to Volume I
+- keep the repair local to the English block unless later mathematics tranches force renewed German checking
+- keep audit, close review, and session ledger synchronized with the live repair boundary
+
+## 2026-04-08 - Repair pass continued through the geometry-to-algebra transition
+
+Repaired the English layer in Parts `108-109` from gloss back into draft translation.
+
+What was clarified:
+
+- the honest repair boundary can now move forward from Part `108` to Part `110`
+- the mathematics run is now translation-grade on the English side through Cavalieri/Roberval/Desargues and into Vieta, logarithms, and the opening of the new number-concept
+- this matters because the repair no longer breaks across the key shift from geometric transformation to algebraic symbolization
+
+Decision for now:
+
+- continue sequentially from Part `110` if the repair pass stays local to Volume I
+- keep the repair local to the English block unless the later number-concept tranches force renewed German checking
+- keep audit, close review, and session ledger synchronized with the live repair boundary
