@@ -738,3 +738,479 @@ ranges:
     printed_pages: ["371", "371"]
     trust: "high"
     note: "The running internal heading on printed page 371 / PDF page 395 marks the decisive methodological turn by which Kepler's ellipse makes lawful nonuniformity scientifically admissible."
+
+  - slug: "die-konstanz-der-naturgesetze-within-kepler"
+    label: "Opening of `Die Konstanz der Naturgesetze` within the Kepler section"
+    pdf_pages: [397, 397]
+    printed_pages: ["373", "373"]
+    trust: "high"
+    note: "The running internal heading on printed page 373 / PDF page 397 marks the point where constancy is relocated from fixed figure to exceptionless natural law."
+
+  - slug: "der-grund-des-seins-und-das-gesetz-des-werdens-within-kepler"
+    label: "Opening of `Der Grund des Seins und das Gesetz des Werdens` within the Kepler section"
+    pdf_pages: [399, 399]
+    printed_pages: ["375", "375"]
+    trust: "high"
+    note: "The running internal heading on printed page 375 / PDF page 399 marks Kepler's transition from metaphysical explanation of being toward lawful explanation of becoming."
+
+  - slug: "galilei-section-opening"
+    label: "Opening of `3. Galilei.`"
+    pdf_pages: [401, 401]
+    printed_pages: ["377", "377"]
+    trust: "high"
+    note: "The internal section opening on printed page 377 / PDF page 401 marks the chapter's explicit turn from Kepler's law concept to Galilei."
+
+  - slug: "der-briefwechsel-zwischen-kepler-und-galilei-within-galilei"
+    label: "Opening of `Der Briefwechsel zwischen Kepler und Galilei` within the Galilei section"
+    pdf_pages: [401, 401]
+    printed_pages: ["377", "377"]
+    trust: "high"
+    note: "The running internal heading on printed page 377 / PDF page 401 marks Cassirer's use of the correspondence as the first exemplary surface of Galilei's scientific character."
+
+  - slug: "der-kampf-gegen-die-syllogistik-within-galilei"
+    label: "Opening of `Der Kampf gegen die Syllogistik` within the Galilei section"
+    pdf_pages: [403, 403]
+    printed_pages: ["379", "379"]
+    trust: "high"
+    note: "The running internal heading on printed page 379 / PDF page 403 marks the explicit confrontation between the new science and scholastic syllogistic logic."
+
+  - slug: "abstraktion-und-erfahrung-within-galilei"
+    label: "Opening of `Abstraktion und Erfahrung` within the Galilei section"
+    pdf_pages: [405, 405]
+    printed_pages: ["381", "381"]
+    trust: "high"
+    note: "The running internal heading on printed page 381 / PDF page 405 marks Cassirer's positive rehabilitation of abstraction as the analytic core of Galilei's method."
+
+  - slug: "begriff-und-wirklichkeit-within-galilei"
+    label: "Opening of `Begriff und Wirklichkeit` within the Galilei section"
+    pdf_pages: [407, 407]
+    printed_pages: ["383", "383"]
+    trust: "high"
+    note: "The running internal heading on printed page 383 / PDF page 407 marks the explicit reworking of the concept/reality problem under Galilei's scientific self-certainty."
+
+  - slug: "reine-und-angewandte-mathematik-within-galilei"
+    label: "Opening of `Reine und angewandte Mathematik` within the Galilei section"
+    pdf_pages: [409, 409]
+    printed_pages: ["385", "385"]
+    trust: "high"
+    note: "The running internal heading on printed page 385 / PDF page 409 marks Galilei's strongest local defense of one and the same mathematical certainty across pure and applied domains."
+
+  - slug: "der-begriff-der-materie-within-galilei"
+    label: "Opening of `Der Begriff der Materie` within the Galilei section"
+    pdf_pages: [411, 411]
+    printed_pages: ["387", "387"]
+    trust: "high"
+    note: "The running internal heading on printed page 387 / PDF page 411 marks the beginning of Galilei's recasting of matter as the homogeneous, geometrically determinable correlate of mathematical form."
+
+  - slug: "verhaeltnis-zur-antiken-atomistik-within-galilei"
+    label: "Opening of `Verhältnis zur antiken Atomistik` within the Galilei section"
+    pdf_pages: [413, 413]
+    printed_pages: ["389", "389"]
+    trust: "high"
+    note: "The running internal heading on printed page 389 / PDF page 413 marks Cassirer's explicit placement of Galilei between Democritean logical materialism and Platonic science."
+
+  - slug: "die-subjektivitaet-der-sinnlichen-qualitaeten-within-galilei"
+    label: "Opening of `Die Subjektivität der sinnlichen Qualitäten` within the Galilei section"
+    pdf_pages: [415, 415]
+    printed_pages: ["391", "391"]
+    trust: "high"
+    note: "The running internal heading on printed page 391 / PDF page 415 marks the point where the Galilean object-delimitation yields the doctrine of secondary qualities as mere names."
+
+  - slug: "die-erhaltung-des-stoffes-within-galilei"
+    label: "Opening of `Die Erhaltung des Stoffes` within the Galilei section"
+    pdf_pages: [417, 417]
+    printed_pages: ["393", "393"]
+    trust: "high"
+    note: "The running internal heading on printed page 393 / PDF page 417 marks the derivation of material conservation from the homogeneous concept of body."
+
+  - slug: "die-bewegung-als-objekt-der-reinen-mathematik-within-galilei"
+    label: "Opening of `Die Bewegung als Objekt der reinen Mathematik` within the Galilei section"
+    pdf_pages: [419, 419]
+    printed_pages: ["395", "395"]
+    trust: "high"
+    note: "The running internal heading on printed page 395 / PDF page 419 marks the explicit admission of motion as a fully legitimate mathematical object and the renewed anti-Peripatetic method claim."
+
+  - slug: "das-beharrungsgesetz-within-galilei"
+    label: "Opening of `Das Beharrungsgesetz` within the Galilei section"
+    pdf_pages: [421, 421]
+    printed_pages: ["397", "397"]
+    trust: "high"
+    note: "The running internal heading on printed page 397 / PDF page 421 marks Cassirer's explicit tying of inertia to Galilei's whole method of conceptual construction and observational regulation."
+
+  - slug: "quantitative-und-qualitative-naturansicht-within-galilei"
+    label: "Opening of `Quantitative und qualitative Naturansicht` within the Galilei section"
+    pdf_pages: [423, 423]
+    printed_pages: ["399", "399"]
+    trust: "high"
+    note: "The running internal heading on printed page 399 / PDF page 423 marks the sharp contrast between Aristotelian teleological nature and Galilei's necessity-governed quantitative view."
+
+  - slug: "sein-und-wirken-within-galilei"
+    label: "Opening of `Sein und Wirken` within the Galilei section"
+    pdf_pages: [425, 425]
+    printed_pages: ["401", "401"]
+    trust: "high"
+    note: "The running internal heading on printed page 401 / PDF page 425 marks the inversion of `operari sequitur esse` and the primacy of lawful operation over thing-classification."
+
+  - slug: "substantielle-und-phaenomenale-erkenntnis-within-galilei"
+    label: "Opening of `Substantielle und phänomenale Erkenntnis` within the Galilei section"
+    pdf_pages: [427, 427]
+    printed_pages: ["403", "403"]
+    trust: "high"
+    note: "The running internal heading on printed page 403 / PDF page 427 marks Galilei's explicit distinction between inaccessible substantial essence and knowable empirical `affezioni`."
+
+  - slug: "extensiver-und-intensiver-massstab-des-wissens-within-galilei"
+    label: "Opening of `Extensiver und intensiver Maßstab des Wissens` within the Galilei section"
+    pdf_pages: [429, 429]
+    printed_pages: ["405", "405"]
+    trust: "high"
+    note: "The running internal heading on printed page 405 / PDF page 429 marks Cassirer's recasting of certainty from extensive possession of objects toward intensive mathematical validity."
+
+  - slug: "die-relativitaet-der-erkenntnis-within-galilei"
+    label: "Opening of `Die Relativität der Erkenntnis` within the Galilei section"
+    pdf_pages: [431, 431]
+    printed_pages: ["407", "407"]
+    trust: "high"
+    note: "The running internal heading on printed page 407 / PDF page 431 marks the turn where relation and the relativity of motion are treated as enabling conditions of exact knowledge rather than as obstacles to it."
+
+  - slug: "kompositive-und-resolutive-methode-within-galilei"
+    label: "Opening of `Kompositive und resolutive Methode` within the Galilei section"
+    pdf_pages: [433, 433]
+    printed_pages: ["409", "409"]
+    trust: "high"
+    note: "The running internal heading on printed page 409 / PDF page 433 marks the point where Galilei's analysis-first method is named explicitly against empirical accident and thing-centered explanation."
+
+  - slug: "das-phaenomen-und-seine-wahrheit-within-galilei"
+    label: "Opening of `Das Phänomen und seine Wahrheit` within the Galilei section"
+    pdf_pages: [435, 435]
+    printed_pages: ["411", "411"]
+    trust: "high"
+    note: "The running internal heading on printed page 411 / PDF page 435 marks Cassirer's definition of scientific truth as the unification of the totality of phenomena under one rule and opens the direct confrontation with Peripatetic astronomy."
+
+  - slug: "das-apriori-der-idee-und-das-apriori-des-zwecks-within-galilei"
+    label: "Opening of `Das Apriori der Idee und das Apriori des Zwecks` within the Galilei section"
+    pdf_pages: [437, 437]
+    printed_pages: ["413", "413"]
+    trust: "high"
+    note: "The running internal heading on printed page 413 / PDF page 437 marks Cassirer's distinction between the a priori of mathematical idea and the a priori of teleological purpose."
+
+  - slug: "gesetzesbegriff-und-harmoniebegriff-within-galilei"
+    label: "Opening of `Gesetzesbegriff und Harmoniebegriff` within the Galilei section"
+    pdf_pages: [439, 439]
+    printed_pages: ["415", "415"]
+    trust: "high"
+    note: "The running internal heading on printed page 415 / PDF page 439 marks Galilei's critical break with the Keplerian harmony-concept and the replacement of cosmic perfection by lawful determination."
+
+  - slug: "die-philosophische-bedeutung-von-galileis-wissenschaft-within-galilei"
+    label: "Opening of `Die philosophische Bedeutung von Galileis Wissenschaft` within the Galilei section"
+    pdf_pages: [441, 441]
+    printed_pages: ["417", "417"]
+    trust: "high"
+    note: "The running internal heading on printed page 417 / PDF page 441 gathers the whole Galilei sequence into a statement of its epistemological meaning: necessity, relation, and function."
+
+  - slug: "die-mathematik-opening-within-entstehung-der-exakten-wissenschaft"
+    label: "Opening of `4. Die Mathematik` within `Die Entstehung der exakten Wissenschaft`"
+    pdf_pages: [442, 442]
+    printed_pages: ["418", "418"]
+    trust: "high"
+    note: "Printed page 418 / PDF page 442 opens the mathematics subsection and shifts from Galilei's scientific ideal toward the reciprocal development of mathematical language and physical concept-formation."
+
+  - slug: "die-wechselwirkung-zwischen-mathematik-und-physik-within-die-mathematik"
+    label: "Opening of `Die Wechselwirkung zwischen Mathematik und Physik` within `Die Mathematik`"
+    pdf_pages: [443, 443]
+    printed_pages: ["419", "419"]
+    trust: "high"
+    note: "The running internal heading on printed page 419 / PDF page 443 marks Cassirer's claim that the new physics does not merely apply inherited mathematics but helps reshape it."
+
+  - slug: "der-begriff-des-unendlichen-within-die-mathematik"
+    label: "Opening of `Der Begriff des Unendlichen` within `Die Mathematik`"
+    pdf_pages: [445, 445]
+    printed_pages: ["421", "421"]
+    trust: "high"
+    note: "The running internal heading on printed page 421 / PDF page 445 marks the turn where the infinite is treated as a positive scientific operator in variation, integration, and aggregate magnitude."
+
+  - slug: "gleichheit-und-ungleichheit-unendlicher-inbegriffe-within-die-mathematik"
+    label: "Opening of `Gleichheit und Ungleichheit unendlicher Inbegriffe` within `Die Mathematik`"
+    pdf_pages: [447, 447]
+    printed_pages: ["423", "423"]
+    trust: "high"
+    note: "The running internal heading on printed page 423 / PDF page 447 marks Cassirer's use of Galileo's paradoxes to show that infinite multiplicities require a newly constructed criterion of equality."
+
+  - slug: "das-continuum-und-seine-elemente-within-die-mathematik"
+    label: "Opening of `Das Continuum und seine Elemente` within `Die Mathematik`"
+    pdf_pages: [449, 449]
+    printed_pages: ["425", "425"]
+    trust: "high"
+    note: "The running internal heading on printed page 425 / PDF page 449 marks the point where indivisibles are reinterpreted as relation-moments and the continuum problem shifts from static space to motion."
+
+  - slug: "das-indivisible-und-die-erneuerung-der-geometrie-within-die-mathematik"
+    label: "Opening of `Das Indivisible und die Erneuerung der Geometrie` within `Die Mathematik`"
+    pdf_pages: [451, 451]
+    printed_pages: ["427", "427"]
+    trust: "high"
+    note: "The running internal heading on printed page 427 / PDF page 451 marks Cavalieri's renewal of geometry through flowing rules, indivisibles, and latent relational variables."
+
+  - slug: "das-tangentenproblem-und-die-anfaenge-der-analytischen-geometrie-within-die-mathematik"
+    label: "Opening of `Das Tangentenproblem und die Anfänge der analytischen Geometrie` within `Die Mathematik`"
+    pdf_pages: [453, 453]
+    printed_pages: ["429", "429"]
+    trust: "high"
+    note: "The running internal heading on printed page 429 / PDF page 453 marks the turn from Cavalieri to Roberval and Fermat, where curve, tangent, and figure are reconstructed through synthesis of motions and rule-governed points."
+
+  - slug: "die-projektive-geometrie-within-die-mathematik"
+    label: "Opening of `Die projektive Geometrie` within `Die Mathematik`"
+    pdf_pages: [455, 455]
+    printed_pages: ["431", "431"]
+    trust: "high"
+    note: "The running internal heading on printed page 431 / PDF page 455 marks Desargues' projective geometry as another expression of the modern concepts of infinity, variation, and exact correspondence."
+
+  - slug: "buchstabenrechnung-und-logarithmen-within-die-mathematik"
+    label: "Opening of `Buchstabenrechnung und Logarithmen` within `Die Mathematik`"
+    pdf_pages: [457, 457]
+    printed_pages: ["433", "433"]
+    trust: "high"
+    note: "The running internal heading on printed page 433 / PDF page 457 marks the turn from geometric comparison to symbolic homogenization, logarithms, and variable number."
+
+  - slug: "die-negative-und-die-imaginaere-zahl-within-die-mathematik"
+    label: "Opening of `Die negative und die imaginäre Zahl` within `Die Mathematik`"
+    pdf_pages: [459, 459]
+    printed_pages: ["435", "435"]
+    trust: "high"
+    note: "The running internal heading on printed page 435 / PDF page 459 marks the point where number-concepts cease to require direct object-correspondence and are justified by conceptual function."
+
+  - slug: "drittes-buch-divider"
+    label: "Book III divider and chapter opening"
+    pdf_pages: [460, 460]
+    printed_pages: ["divider", "chapter-opening"]
+    trust: "medium"
+    note: "PDF page 460 carries `Drittes Buch / Die Grundlegung des Idealismus / Erstes Kapitel Descartes`; the running printed number is suppressed on the opening page."
+
+  - slug: "descartes-opening"
+    label: "Opening of `Descartes`"
+    pdf_pages: [461, 461]
+    printed_pages: ["440", "440"]
+    trust: "high"
+    note: "Printed page 440 / PDF page 461 opens Cassirer's Descartes chapter by distinguishing the new Organon from looser earlier appeals to method."
+
+  - slug: "das-problem-der-notwendigkeit-within-descartes"
+    label: "Opening of `Das Problem der Notwendigkeit` within `Descartes`"
+    pdf_pages: [462, 462]
+    printed_pages: ["441", "441"]
+    trust: "high"
+    note: "The running internal heading on printed page 441 / PDF page 462 marks the point where Descartes inherits the scientific concept of necessity and turns it into a philosophical problem."
+
+  - slug: "die-einheit-der-erkenntnis-within-descartes"
+    label: "Opening of `Die Einheit der Erkenntnis` within `Descartes`"
+    pdf_pages: [463, 463]
+    printed_pages: ["443", "443"]
+    trust: "high"
+    note: "The running internal heading on printed page 443 / PDF page 463 marks the shift from unity of being to unity of knowledge as Descartes' governing problem."
+
+  - slug: "methodenlehre-und-metaphysik-within-descartes"
+    label: "Opening of `Methodenlehre und Metaphysik` within `Descartes`"
+    pdf_pages: [469, 469]
+    printed_pages: ["445", "445"]
+    trust: "high"
+    note: "The running internal heading on printed page 445 / PDF page 469 marks Cassirer's separation of the method-line from the later justificatory metaphysics."
+
+  - slug: "die-universalmathematik-within-descartes"
+    label: "Opening of `Die Universalmathematik` within `Descartes`"
+    pdf_pages: [471, 471]
+    printed_pages: ["447", "447"]
+    trust: "high"
+    note: "The running internal heading on printed page 447 / PDF page 471 marks the project of a pure science of proportions and relations independent of special objects."
+
+  - slug: "die-kritik-der-syllogistik-within-descartes"
+    label: "Opening of `Die Kritik der Syllogistik` within `Descartes`"
+    pdf_pages: [473, 473]
+    printed_pages: ["449", "449"]
+    trust: "high"
+    note: "The running internal heading on printed page 449 / PDF page 473 marks Descartes' subordination of syllogistic synthesis to a prior analytical discovery of principles."
+
+  - slug: "die-philosophische-bedeutung-der-analytischen-methode-within-descartes"
+    label: "Opening of `Die philosophische Bedeutung der analytischen Methode` within `Descartes`"
+    pdf_pages: [475, 475]
+    printed_pages: ["451", "451"]
+    trust: "high"
+    note: "The running internal heading on printed page 451 / PDF page 475 marks the return to Plato's `Menon` and the claim that inquiry contains the conditions of its own solution."
+
+  - slug: "die-grundlegung-der-analytischen-geometrie-within-descartes"
+    label: "Opening of `Die Grundlegung der analytischen Geometrie` within `Descartes`"
+    pdf_pages: [477, 477]
+    printed_pages: ["453", "453"]
+    trust: "high"
+    note: "The running internal heading on printed page 453 / PDF page 477 marks the turn where Cartesian method is demonstrated in geometry as a unified lawful field of derivable problems."
+
+  - slug: "die-ausdehnung-als-gemeinsames-groessenmass-within-descartes"
+    label: "Opening of `Die Ausdehnung als gemeinsames Größenmaß` within `Descartes`"
+    pdf_pages: [479, 479]
+    printed_pages: ["455", "455"]
+    trust: "high"
+    note: "The running internal heading on printed page 455 / PDF page 479 marks the point where order is made prior to measure and extension emerges as the common medium of exact comparison."
+
+  - slug: "raumbegriff-und-groessenbegriff-within-descartes"
+    label: "Opening of `Raumbegriff und Größenbegriff` within `Descartes`"
+    pdf_pages: [481, 481]
+    printed_pages: ["457", "457"]
+    trust: "high"
+    note: "The running internal heading on printed page 457 / PDF page 481 marks the move from generated point-relations to the coordinate-style grounding of scientific comparison."
+
+  - slug: "die-grundlegung-der-physik-within-descartes"
+    label: "Opening of `Die Grundlegung der Physik` within `Descartes`"
+    pdf_pages: [483, 483]
+    printed_pages: ["459", "459"]
+    trust: "high"
+    note: "The running internal heading on printed page 459 / PDF page 483 marks the explicit reconstruction of the physical object through extension as a sign and schema of cognition."
+
+  - slug: "die-ausdehnung-als-eingeborene-idee-within-descartes"
+    label: "Opening of `Die Ausdehnung als eingeborene Idee` within `Descartes`"
+    pdf_pages: [485, 485]
+    printed_pages: ["461", "461"]
+    trust: "high"
+    note: "The running internal heading on printed page 461 / PDF page 485 marks the shift from extension as methodological sign to extension as an innate intellectual norm organizing experience."
+
+  - slug: "der-begriff-der-substanz-within-descartes"
+    label: "Opening of `Der Begriff der Substanz` within `Descartes`"
+    pdf_pages: [487, 487]
+    printed_pages: ["463", "463"]
+    trust: "high"
+    note: "The running internal heading on printed page 463 / PDF page 487 marks Cassirer's effort to hold Cartesian substance within a relation-and-function concept of nature."
+
+  - slug: "das-grundproblem-der-statik-within-descartes"
+    label: "Opening of `Das Grundproblem der Statik` within `Descartes`"
+    pdf_pages: [489, 489]
+    printed_pages: ["465", "465"]
+    trust: "high"
+    note: "The running internal heading on printed page 465 / PDF page 489 marks the derivation of machines from the common work-principle and the first direct application of universal mathematics in Cartesian physics."
+
+  - slug: "die-relativitaet-der-bewegung-within-descartes"
+    label: "Opening of `Die Relativität der Bewegung` within `Descartes`"
+    pdf_pages: [491, 491]
+    printed_pages: ["467", "467"]
+    trust: "high"
+    note: "The running internal heading on printed page 467 / PDF page 491 marks the shift where motion becomes frame-relative and Cartesian method turns directly against the hypostasis of absolute space."
+
+  - slug: "die-erhaltung-der-bewegung-within-descartes"
+    label: "Opening of `Die Erhaltung der Bewegung` within `Descartes`"
+    pdf_pages: [493, 493]
+    printed_pages: ["469", "469"]
+    trust: "high"
+    note: "The running internal heading on printed page 469 / PDF page 493 gathers Cartesian causality under the conserved quantity of motion and restates method as the recovery of the chain of sciences beneath their special masks."
+
+  - slug: "das-problem-der-erfahrung-within-descartes"
+    label: "Opening of `Das Problem der Erfahrung` within `Descartes`"
+    pdf_pages: [495, 495]
+    printed_pages: ["471", "471"]
+    trust: "high"
+    note: "The running internal heading on printed page 471 / PDF page 495 opens the question of how experience can re-enter a method still governed by intuition, deduction, and phenomenal truth."
+
+  - slug: "die-voraussetzungen-der-induktion-within-descartes"
+    label: "Opening of `Die Voraussetzungen der Induktion` within `Descartes`"
+    pdf_pages: [497, 497]
+    printed_pages: ["473", "473"]
+    trust: "high"
+    note: "The running internal heading on printed page 473 / PDF page 497 marks the point where analysis is said to prepare unambiguous experiment by isolating the simple conditions of the problem."
+
+  - slug: "induktion-und-enumeration-within-descartes"
+    label: "Opening of `Induktion und Enumeration` within `Descartes`"
+    pdf_pages: [499, 499]
+    printed_pages: ["475", "475"]
+    trust: "high"
+    note: "The running internal heading on printed page 475 / PDF page 499 marks Cartesian enumeration as a preparatory stage of deduction rather than as an independent rival method."
+
+  - slug: "die-wirkliche-und-die-moegliche-welt-within-descartes"
+    label: "Opening of `Die wirkliche und die mögliche Welt` within `Descartes`"
+    pdf_pages: [501, 501]
+    printed_pages: ["477", "477"]
+    trust: "high"
+    note: "The running internal heading on printed page 477 / PDF page 501 marks the distinction between mathematically constructed possible worlds and the empirical world that selects among their true series."
+
+  - slug: "die-hypothesen-der-physik-within-descartes"
+    label: "Opening of `Die Hypothesen der Physik` within `Descartes`"
+    pdf_pages: [503, 503]
+    printed_pages: ["479", "479"]
+    trust: "high"
+    note: "The running internal heading on printed page 479 / PDF page 503 marks Cassirer's defense of scientific hypothesis and his claim that the real weakness of Cartesian physics lies in its impatient special-case buildup, not in hypothesis itself."
+
+  - slug: "verhaeltnis-zu-galilei-within-descartes"
+    label: "Opening of `Verhältnis zu Galilei` within `Descartes`"
+    pdf_pages: [505, 505]
+    printed_pages: ["481", "481"]
+    trust: "high"
+    note: "The running internal heading on printed page 481 / PDF page 505 marks the point where Descartes' polemic against Galilei reveals his betrayal of his own better account of abstraction and hypothesis."
+
+  - slug: "fundament-und-ausbau-der-cartesischen-physik-within-descartes"
+    label: "Opening of `Fundament und Ausbau der Cartesischen Physik` within `Descartes`"
+    pdf_pages: [507, 507]
+    printed_pages: ["483", "483"]
+    trust: "high"
+    note: "The running internal heading on printed page 483 / PDF page 507 marks Cassirer's distinction between the secure methodological foundation of Cartesian physics and its unstable special-case construction, and opens the pressure toward metaphysics."
+
+  - slug: "der-begriff-des-reinen-verstandes-within-descartes"
+    label: "Opening of `Der Begriff des reinen Verstandes` within `Descartes`"
+    pdf_pages: [509, 509]
+    printed_pages: ["485", "485"]
+    trust: "high"
+    note: "The running internal heading on printed page 485 / PDF page 509 marks the recasting of Cartesian metaphysics as an inquiry into the stable formal principles of cognition rather than an immediate proof of substantial subjectivity."
+
+  - slug: "die-analyse-des-gegenstandes-within-descartes"
+    label: "Opening of `Die Analyse des Gegenstandes` within `Descartes`"
+    pdf_pages: [511, 511]
+    printed_pages: ["487", "487"]
+    trust: "high"
+    note: "The running internal heading on printed page 487 / PDF page 511 marks the wax analysis as a proof that object-unity is constituted by the pure intellect, not by sensation or imagination."
+
+  - slug: "das-problem-des-selbstbewusstseins-within-descartes"
+    label: "Opening of `Das Problem des Selbstbewußtseins` within `Descartes`"
+    pdf_pages: [513, 513]
+    printed_pages: ["489", "489"]
+    trust: "high"
+    note: "The running internal heading on printed page 489 / PDF page 513 marks the move where perception is reinterpreted as sign-language and self-consciousness is defended against species-theory and sensualism."
+
+  - slug: "der-gegenstand-und-die-urteilsfunktion-within-descartes"
+    label: "Opening of `Der Gegenstand und die Urteilsfunktion` within `Descartes`"
+    pdf_pages: [515, 515]
+    printed_pages: ["491", "491"]
+    trust: "high"
+    note: "The running internal heading on printed page 491 / PDF page 515 marks the point where judgment becomes the source of objecthood, truth, and the two-sided certainty of `cogito`."
+
+  - slug: "die-gottesidee-within-descartes"
+    label: "Opening of `Die Gottesidee` within `Descartes`"
+    pdf_pages: [517, 517]
+    printed_pages: ["493", "493"]
+    trust: "high"
+    note: "The running internal heading on printed page 493 / PDF page 517 marks the move where the ontological proof is repurposed to secure the reality of nature rather than to found theology as such."
+
+  - slug: "der-absolute-und-der-endliche-verstand-within-descartes"
+    label: "Opening of `Der absolute und der endliche Verstand` within `Descartes`"
+    pdf_pages: [519, 519]
+    printed_pages: ["495", "495"]
+    trust: "high"
+    note: "The running internal heading on printed page 495 / PDF page 519 marks Cassirer's claim that the divine guarantee adds no new content and moves in a circle around the self-certifying force of cognition."
+
+  - slug: "gott-und-die-ewigen-wahrheiten-within-descartes"
+    label: "Opening of `Gott und die ewigen Wahrheiten` within `Descartes`"
+    pdf_pages: [521, 521]
+    printed_pages: ["497", "497"]
+    trust: "high"
+    note: "The running internal heading on printed page 497 / PDF page 521 marks the anti-voluntarist break where eternal truths become products of divine will and rational necessity is thereby weakened."
+
+  - slug: "der-begriff-des-unendlichen-within-descartes"
+    label: "Opening of `Der Begriff des Unendlichen` within `Descartes`"
+    pdf_pages: [523, 523]
+    printed_pages: ["499", "499"]
+    trust: "high"
+    note: "The running internal heading on printed page 499 / PDF page 523 marks the point where Cassirer argues that infinity belongs to the inner function of thought rather than to a transcendent original beyond it."
+
+  - slug: "die-eingeborenen-ideen-within-descartes"
+    label: "Opening of `Die eingeborenen Ideen` within `Descartes`"
+    pdf_pages: [525, 525]
+    printed_pages: ["501", "501"]
+    trust: "high"
+    note: "The running internal heading on printed page 501 / PDF page 525 marks the split of `eingeboren` into productive mental capacity and passive metaphysical imprint."
+
+  - slug: "der-zusammenhang-von-geist-und-koerper-within-descartes"
+    label: "Opening of `Der Zusammenhang von Geist und Körper` within `Descartes`"
+    pdf_pages: [527, 527]
+    printed_pages: ["503", "503"]
+    trust: "high"
+    note: "The running internal heading on printed page 503 / PDF page 527 marks the point where imagination is made to support real distinction and the mind-body relation loses genuine mediation."

@@ -37,6 +37,25 @@
         "slug": "a-small-mechanism-map",
         "text": "a small mechanism map: conjugation -> ingression / deingression"
       }
+    },
+    {
+      "promotedAt": "2026-04-08T17:24:23-07:00",
+      "slug": "volume-1-arc-curved-v2-keeper",
+      "note": "Curved-band rerun from the first keeper; preserves exact labels and finally achieves a true arc rather than a chevron chain.",
+      "keeper": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/tektologiya-vol1/visuals/keepers/volume-1-arc-curved-v2-keeper.png",
+        "relativePath": "volume-1-arc-curved-v2-keeper.png"
+      },
+      "sourceImage": {
+        "path": "/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/tektologiya-vol1/visuals/out/2026-04-08/tektologiya-volume-1-arc-curved-v2_001.png"
+      },
+      "candidate": {
+        "ref": "texts/tektologiya-vol1/journal.md:524",
+        "path": "texts/tektologiya-vol1/journal.md",
+        "line": 524,
+        "slug": "a-volume-1-arc-diagram",
+        "text": "a volume-1 arc diagram: point of view -> mechanisms -> regulation -> applications -> polemical recap"
+      }
     }
   ]
 }

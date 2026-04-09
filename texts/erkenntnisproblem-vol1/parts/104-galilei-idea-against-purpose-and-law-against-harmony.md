@@ -1,0 +1,62 @@
+# Part 104: Galilei, Idea Against Purpose and Law Against Harmony
+
+Cassirer now sharpens the anti-Peripatetic break beyond motion and relation into the very meaning of the a priori. The Aristotelian-Cremonini position lets teleological `allgemeine Natur` decide in advance what experience may count for, and therefore never resolves the relation of reason and observation. Galileo's answer is not anti-a priori in general, but a rejection of the a priori of purpose in favor of the a priori of mathematical idea. That same struggle then reaches its deepest temptation in aesthetics. Copernicus and especially Kepler still bind cosmic order to harmony and perfection of form; Galileo breaks the link and lets law replace harmony as the true scientific criterion.
+
+## Scope
+
+- printed pages `412-415`, PDF pages `436-439`
+
+## Working Files
+
+- `source/raw/105-galilei-idea-against-purpose-and-law-against-harmony-pdf-436-439.txt`
+- `source/normalized/105-galilei-idea-against-purpose-and-law-against-harmony-pdf-436-439.txt`
+- `source/page-map.yaml`
+- `journal.md`
+- `reading/close-reading-ledger.md`
+- `session-ledger.yaml`
+
+## Galilei, Idea Against Purpose and Law Against Harmony
+
+**German (corrected)**
+
+```text
+... Beobachtungen berichtigt werden könne: habe doch Aristoteles seine Lehre nicht mit Rücksicht auf das Bekannte und Unbekannte, sondern mit Rücksicht auf die allgemeine Natur der Dinge ausgebildet. Diese „allgemeine Natur“ ist durch die teleologische Betrachtung ein für alle Mal erkannt und festgesetzt: die Vollkommenheit des Himmels bestimmt mit einer inneren Notwendigkeit, an die keine andersartige Erfahrung heranreicht, die Art und Gestalt seiner Bewegungen. Wenn in der individuellen Substanz die eigentliche Grundlage im Voraus bekannt ist, so genügt es, aus ihr die Einzelbestimmungen und Accidenzen rein deduktiv zu entwickeln; wenn in dem immanenten Zweck eines Dinges seine Wesenheit offen zu Tage liegt, so begreift es sich, daß alle entgegengesetzten Anzeichen, die Experiment und Beobachtung uns bieten, danach berichtigt und umgedeutet werden müssen. Das Verhältnis zwischen Vernunft und Erfahrung, zwischen Apriori und Aposteriori ist hier - wie Galilei nicht müde wird, zu zeigen - nicht zu klarer prinzipieller Entscheidung gelangt. Statt sich gegenseitig in ihrer Notwendigkeit und ihrer besonderen Eigenart anzuerkennen, gehen beide Momente nur eine äußere und zufällige Mischung ein. Der Blick richtet sich anfangs von der sinnlichen Welt hinweg auf ein rein „ideales“ Universum, um in ihm das architektonische Vorbild der Sinnenerfahrung zu entdecken. Der Begriff der Bewegung wird als wesentlicher Inhalt des Naturbegriffs herausgehoben; die Arten der Bewegung werden bestimmt und unterschieden. Aber in diese Unterscheidung bereits, die nach der Absicht des Ganzen aus allgemeinen spekulativen Gesichtspunkten erfolgen sollte, mischt sich ein spezielles empirisches Moment. Indem die Sonderung der Bewegung der Sonderung der Elemente folgt, indem dem Feuer eine absolute Aufwärtsbewegung, der Erde eine absolute Abwärtsbewegung zugesprochen wird, sind damit die Begriffe des „Oben“ und „Unten“, die nur in der fertigen materiellen Welt Sinn und Bedeutung haben, in die allgemeine Prinzipienlehre aufgenommen.
+
+„Die Karten werden uns unter der Hand vertauscht: statt den erfahrungsmäßigen Bau der Welt gemäß den Vorschriften des ideellen Grundrisses auszuführen, wird der Plan selbst unvermerkt dem vorhandenen Gebäude angepaßt.“ So erweist sich der Zweckbegriff innerhalb der theoretischen Naturbetrachtung durchgehends als ὕστερον πρότερον: wie er auf der einen Seite Verhältnisse, die der konkreten Welt entlehnt sind, zu allgemeinen Axiomen erhöht, so macht er andrerseits an Stelle der reinen objektiven Gesetze die subjektive Vorstellung und das subjektive Gefallen des Individuums zum Maßstab. Wenn Galilei es als eine Verwegenheit bezeichnet, den Verstand und die Wirksamkeit der Natur nach den engen Schranken unseres Verstehens zu bemessen, so kann dies, verglichen mit den früheren Entwicklungen, zunächst als befremdlich erscheinen: denn stammen nach ihm nicht auch die mathematischen Prinzipien, die die wahre Bestimmung und Begrenzung der Wirklichkeit abgeben, „aus uns selbst“ und dem Gesetze unseres Begreifens? Der Zusammenhang indes, in dem diese und ähnlich lautende Sätze sich finden, klärt sogleich über ihren Sinn auf: nicht das „a priori“ der mathematischen Idee, sondern das des Zwecks soll damit getroffen werden. Das Postulat, in das absolute Innere der Dinge einzudringen, sie nach ihrem Sinn und ihrer Bedeutung für uns abzuschätzen, wird zurückgewiesen; denn wie erhaben und rein hier auch das Kriterium genommen zu sein scheint, es enthüllt sich zuletzt doch immer als durch die zufälligen Wünsche und die empirischen Bedürfnisse des Individuums bedingt.
+
+„Es ist eine Anmaßung, zu verlangen, daß die bloße Sorge um uns der adäquate Ausdruck und die Grenze für das Wirken Gottes sei. Wenn man mir entgegenhält, daß ein unermeßlicher sternenleerer Raum zwischen den Planetenbahnen und der Sternensphäre nutzlos und müßig sei, daß ferner eine unermeßliche, all unsere Fassungskraft übersteigende Ausdehnung, die die Fixsterne in sich faßt, überflüssig wäre, so erwidere ich, daß es vermessen ist, unsern schwachen Verstand zum Richter über die Werke Gottes zu machen und alles im Universum, was nicht unserm Nutzen dient, eitel und überflüssig zu nennen.“ Die Einsicht in den Nutzen: das ist die falsche Forderung des Verstehens, die es abzuwehren gilt; ihr tritt der Hinweis auf den allumfassenden „Verstand der Natur“ entgegen, der sich wiederum rein in den Gesetzen der Mathematik erschließt.
+
+Es ist indes nur die gröbere und äußerliche Form der Teleologie, die sich in der Frage nach dem Nutzen ausspricht: der tiefere Reiz und die gefährlichere Lockung des Zweckgedankens liegt nicht in dieser Richtung, sondern in dem Zusammenhang mit den ästhetischen Problemen. Hier hatte, wie wir sahen, auch Copernicus den Standpunkt der Betrachtung nicht geändert: auch ihm bildet die „Vollkommenheit“ der geometrischen Gestalt die letzte Ursache und den letzten Beweisgrund der Verfassung des Universums. Der Begriff des Kosmos fordert den Begriff der Harmonie als Ergänzung und als Maßstab. Und dieser Begriff war es, der weiterhin bei Kepler zum Schlußstein seines philosophischen und astronomischen Systems geworden war.
+
+Es war der letzte und geschichtlich vielleicht der schwerste Schritt, den Galilei vollzog, indem er auch diesen Zusammenhang kritisch auflöste. In seinem mechanischen Grundwerk wird gelegentlich der Satz abgeleitet, daß ein Körper, der von dem höchsten Punkte einer Kreisperipherie herabfällt, alle Sehnen des Kreises, die von diesem Punkt aus gezogen werden können, in gleicher Zeit durchmißt: denken wir uns also eine Mannigfaltigkeit von Körpern von einem gemeinsamen Ausgangspunkte aus nach allen Richtungen auf unendlich vielen, schiefen Ebenen von verschiedener Neigung herabrollen, und betrachten wir die verschiedenen Lagen, die sie nach einer bestimmten Zeit einnehmen, so wird der Inbegriff von Punkten, der dadurch entsteht, stets einen Teil einer Kugelperipherie ausmachen. Simplicio knüpft an diesen Satz die Bemerkung, daß hier ein großes Mysterium und einer jener verborgenen Gründe berührt zu werden scheine, die die Erschaffung des Alls selbst geleitet haben: eine Andeutung, die ersichtlich auf Kepler zielt, der in der Tat wiederholt mit dem Gedanken gespielt hatte, daß die Weltschöpfung nach der Analogie und dem Sinnbilde der geometrischen Gestalt der Kugel zu begreifen sei. Um so charakteristischer und geschichtlich bedeutungsvoller wirkt in diesem Zusammenhang die Entgegnung Galileis: er wolle solchen tiefen Betrachtungen nicht widerstreben, nur führten sie auf Lehren, zu deren Höhe er selber nicht aufstrebe: „uns muß es genügen, daß wir jene weniger erhabenen Werkleute sind, die den Marmor aus der Tiefe hervorsuchen und ans Licht fördern, aus dem der Fleiß des Künstlers sodann die wunderbaren Gebilde erzeugt, die unter seiner rauhen und einförmigen Hülle verborgen lagen“. In der stolzen Selbstbescheidung dieser Worte sondert sich für immer das Gebiet der wissenschaftlichen Forschung und der ästhetischen Phantasie, wandelt sich Keplers Zweckbegriff der Harmonie in den Gesetzesbegriff der neueren Zeit. Scharfer und mit der ganzen Kraft von Galileis polemischem Stil kommt der gleiche Gedanke dort zur Entfaltung, wo er sich gegen die herrschende Schulphilosophie wendet. Er habe - bemerkt Galilei gegen Sarsi - niemals die Chroniken und Adelsregister der geometrischen Figuren studiert, könne somit nicht darüber entscheiden, welche unter ihnen von älterem und höherem Rang seien. Vielmehr glaube er, daß sie alle in ihrer Art vollkommen und altehrwürdig oder, besser gesagt, daß sie an sich weder edel noch unedel, weder vollkommen noch unvollkommen seien; nur daß freilich, wenn es sich um das Aufführen von Mauern handele, die viereckige Form größere Vollkommenheit als die sphärische besitze, und daß für das Fortrollen eines Wagens die Rundung ...
+```
+
+**English (draft)**
+
+```text
+... later observations could correct Aristotle's cosmology. For the Peripatetic this objection misses the point, because the doctrine was never built from what is known and unknown, but from the general nature of things. Teleology therefore fixes in advance what heaven must be, and experience can only be adjusted to that prior essence. Cassirer's point is that reason and experience are not actually reconciled here at all; they are only externally mixed.
+
+Galileo's answer does not reject the a priori as such. It rejects the a priori of purpose while preserving the a priori of mathematical idea. What must be refused is the demand to judge things by their meaning or usefulness for us. Utility is the coarse form of teleology, but the deeper temptation lies in aesthetics, in the appeal to harmony and perfection of form as the key to the cosmos.
+
+This is why Galileo's break with Kepler is so important. Even harmony must yield to law. Galileo separates scientific inquiry from aesthetic imagination and refuses any hierarchy of noble geometric figures grounded in metaphysical or artistic prestige. The true criterion is no longer beauty or purposive completion, but lawful determination.
+```
+
+**Working Commentary**
+
+```text
+1) Cremonini matters here because he shows that the old position fails not by lack of data alone, but by the way teleology pre-judges what data may mean.
+
+2) The distinction between the a priori of idea and the a priori of purpose is one of the cleanest local clarifications in the whole Galileo run.
+
+3) Cassirer now identifies utility as only the coarsest form of teleology; the harder break is with aesthetic harmony.
+
+4) The Kepler line is not erased here, but critically surpassed.
+
+5) `Gesetzesbegriff und Harmoniebegriff` is a major hinge: law takes over the work harmony had previously done for cosmic intelligibility.
+```
+
+**Notes**
+
+- This tranche closes one of the last major residues tying exact science to the older cosmological ideal of perfection.
+- The Sarsi passage is only opening at the page break; the next tranche should carry the anti-hierarchy of figures into its broader philosophical consequence.
+- Still no glossary promotion; the gains are strong, but the local carry remains adequate.

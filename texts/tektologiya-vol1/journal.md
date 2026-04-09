@@ -815,10 +815,13 @@ The first Gemini generation pass for packet `01` clarified something practical. 
 
 That does not make the SVG work pointless. It changes its role. The SVG is best treated as a fallback constraint surface for moments when the model starts drifting on topology, branch count, or stage order. But the primary instrument is now the prompt itself. The compare pass confirmed that the best mechanism-split image was the one that stayed closest to the explicitly described branching logic, while the weaker variant began inventing extra subordinate branches. The arc pair showed the complementary issue: one image honored the arc-shape more literally but degraded under text clutter, while the stronger keeper preserved the labels and sequence cleanly even in a more chevron-like arrangement.
 
+One more step sharpened the method further. The first arc keeper was then fed back into Gemini as an edit target with a much stricter curved-band instruction. That produced a second keeper which preserved the successful label discipline of the original while correcting the main remaining weakness: the earlier image still behaved like a chevron chain more than a true arc. So the practical sequence now looks clearer: prompt-first generation to discover the strongest baseline, then keeper-to-edit refinement when one remaining structural defect can be named exactly.
+
 Current conclusion:
 
 - prompt-first Gemini generation is the default for the current Tektologiya visual track
 - SVG plates remain useful as fallback controls, not as the main source of visual intelligence
+- the best refinement loop is prompt-first, then keeper-to-edit correction for one named structural defect
 - for the next plate, the prompt should keep pressing exact topology and exact allowed text before it asks for atmosphere
 
 ## 2026-04-08 - Source-Language Commentary Probe: Takhtajan On `Тектология`

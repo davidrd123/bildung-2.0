@@ -7,7 +7,7 @@ They are not binding translation decisions and should not outrank the source-bou
 ## Thematic Guide
 
 - Method findings: `Charter Method Note`; `The quidditas/quantitas Pair as Method Finding`; `Cusa's Three-Stage Epistemology Maps onto the Translation Method`; `Abstractive vs. Constructive: One Cognition at Two Depths`; `Subordination and Return`; `The Presupposition Structure as Method Finding`; `The Mint-Master / Money-Changer Image`; `Scientia Infinita and the Charter`
-- Cross-project connections: `The Goethe+Leibniz Genealogy Made Explicit`; `Motus est ordinata quies and the Zeitmauer`; `The Barrett Connection Surfaces from the Material`; `The similitudo/assimilatio Turn as Cross-Project Structural Key`; `Intellectus and Intellection: The Schuon Thread Grounded`; `The Ratio/Intellectus Pressure Point Coming`
+- Cross-project connections: `The Goethe+Leibniz Genealogy Made Explicit`; `Motus est ordinata quies and the Zeitmauer`; `The Barrett Connection Surfaces from the Material`; `The similitudo/assimilatio Turn as Cross-Project Structural Key`; `Intellectus and Intellection: The Schuon Thread Grounded`; `The Ratio/Intellectus Pressure Point Coming`; `Cassirer/Juenger Measure Watchpoint`
 - Visual candidates: `The Angle Construction as Method Finding`; `The Migration of Transcendent Categories into Immanent Tools`
 - Provenance rule: entries here may guide future reading and translation, but they do not override the source-bound notebook in `journal.md`
 
@@ -125,3 +125,35 @@ The value distinction (God stamps, mind authenticates) is the most precise state
 ### Scientia Infinita and the Charter
 
 The shift from "certainty comes from absolute being" to "certainty is uncovered within inquiry itself" is a restatement of the charter's "the texts teach the method" clause. The project doesn't import its principles from outside and then apply them to the texts. The principles are *discovered within* the translation work — presupposed by it, uncovered through it. Every question the project asks (how should this term be rendered? what connects Cusa to Dick? how does the dual-translation method work?) carries within itself "the germ of its solution." The charter's method clause is Cusa's *scientia infinita* at project scale.
+
+## 2026-04-08 - Cassirer/Juenger Measure Watchpoint
+
+The bounded note in `00-Notes/cross-project/cassirer-junger-method-break-and-time-crisis.md` should not interrupt forward translation, but it should remain locally visible as a reread trigger on the Cassirer side.
+
+Trigger only if a live tranche widens from the emergence of scientific objectivity into one of the following:
+
+- myth or symbolic world-order
+- state, culture, or collective formation
+- the civilizational generalization of measure, allotment, or administrative sameness
+- a life-world diagnosis that makes scientific authority look like one case of a broader ordering power
+
+If such a trigger appears:
+
+- stop after the tranche
+- compare the passage and the latest journal entry against the bounded Cassirer/Juenger memo
+- only reopen cross-project synthesis if the contact is sharper than broad modernity-talk
+
+If it later seems that a trigger may already have been passed:
+
+- do not rewind the whole Descartes run
+- reread the last one to three parts and the latest journal entry against the memo
+- record the result locally before widening any architecture or standing notes
+
+Current state:
+
+- no obvious trigger has appeared yet in the Descartes run through Parts `120-125`; the material is still inside judgment, perception, innate ideas, and the `Geist/Körper` difficulty
+
+Decision for now:
+
+- keep this as a watchpoint, not a standing thread
+- carry it into `session-ledger.yaml` only at the next clean handoff, not mid-pass

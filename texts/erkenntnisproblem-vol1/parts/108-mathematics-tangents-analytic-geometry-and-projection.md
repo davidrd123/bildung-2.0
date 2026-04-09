@@ -1,0 +1,61 @@
+# Part 108: Mathematics, Tangents, Analytic Geometry, and Projection
+
+Cassirer now carries Cavalieri’s indivisibles into a broader geometric transformation. The infinite remains legitimate only as a methodological and relational device, not as a self-subsisting being; on that point Cavalieri is still unstable. But the main line advances through Roberval, Fermat, and Desargues. Tangency is reconstructed from the synthesis of distinct motions, the curve is treated as governed by a general rule rather than as an isolated figure-kind, and projective geometry shows the same modern turn by translating qualitative oppositions into variations of degree. By the end of the tranche, algebra and geometry are already being brought under one common logical problem: quantity and quality.
+
+## Scope
+
+- printed pages `428-431`, PDF pages `452-455`
+
+## Working Files
+
+- `source/raw/109-mathematics-tangents-analytic-geometry-and-projection-pdf-452-455.txt`
+- `source/normalized/109-mathematics-tangents-analytic-geometry-and-projection-pdf-452-455.txt`
+- `source/page-map.yaml`
+- `journal.md`
+- `reading/close-reading-ledger.md`
+- `session-ledger.yaml`
+
+## Mathematics, Tangents, Analytic Geometry, and Projection
+
+**German (corrected)**
+
+```text
+... Cavalieri beständig zu ringen hat: daß das geometrisch Unendliche nichts an sich selbst, kein für sich bestehendes Sein bedeutet, sondern daß es lediglich das Instrument und die konzentrierte Darstellung der Proportionen des Endlichen bilden will: daß es - wie Cavalieri es in der Schulsprache bezeichnet - kein „Infinitum simpliciter“, sondern ein „Infinitum secundum quid“ besagt. Um es vor der metaphysischen Hypostasierung zu wahren, wird es daher - wie später von Leibniz - mit den Methoden- und Operationsbegriffen der Algebra verglichen: mit dem x der Gleichung, dessen „Sein“ ja auch darin aufgeht, als Ansatzpunkt und als ideelles Subjekt zur Aussprache von Größenrelationen zu dienen. Dennoch ist gerade im Verhältnis zur Metaphysik endgültige Klarheit von Cavalieri nicht erreicht: so sieht er sich, um den „philosophischen“ Einwänden zu entgehen, zuletzt zu dem Eingeständnis gezwungen, daß er niemals das Kontinuum selbst mit der Allheit seiner Elemente gleichgesetzt, sondern nur behauptet habe, daß dieselben numerischen Verhältnisse, wie zwischen den fertigen stetigen Gebilden, zwischen den Gesamtheiten ihrer Linien obwalten. Wenn aber in jeder zahlenmäßigen Vergleichung, in jedem mathematischen Urteil also, das Kontinuum durch die Allheit seiner Konstituentien bezeichnet und ersetzt werden kann, so fällt beider begriffliches Sein vom Standpunkt wissenschaftlicher Erkenntnis allerdings zusammen: und es verrät einen falschen Maßstab, wenn man beides in irgend einem inneren Merkmal und irgend einer „inneren Wesenheit“ noch zu trennen sucht.
+
+Das Verfahren Cavalieris findet seine Ausbildung und Fortsetzung bei Roberval, in dessen Tangentenmethode sich zugleich eine Erweiterung des logischen Gesichtskreises vollzieht. War bisher der Begriff der Bewegung anerkannt, aber auf die Entstehung eines einzelnen Gebildes aus seinem Element beschränkt worden, so soll jetzt die Tangente aus einer Vereinigung und Wechselbestimmung verschiedenartiger Bewegungen bestimmt und erkannt werden. Die verschiedenen Bedingungen, denen die Kurve ihrem Begriffe nach genügen muß, erscheinen als ebensoviele Kräfte, die in ihrer Zusammenwirkung die Richtung in jedem Momente eindeutig bestimmen. Die Grundlage und das Schema dieser Zusammensetzung wird von Roberval in dem Satz von dem Parallelogramm der Geschwindigkeiten richtig erkannt. So sehen wir, wie Geometrie und Mechanik unter einem gemeinsamen Gesichtspunkt vereint werden: eine Verbindung, die nur darum keinen logischen Sprung darstellt, weil das physische Sein der Bewegung und der Kraft zuvor seinen absoluten Charakter eingebüßt und sich in einen Inbegriff von Relationen aufgelöst hatte. Bei Galilei bereits zeigte es sich, wie er in der Konstruktion der Wurflinie, in dem Ausgleich, den er hier zwischen „natürlicher“ und „gewaltsamer“ Bewegung vollzog, die qualitative Scheidung des Geraden und Krummen aufhob: jetzt tritt deutlicher hervor, daß das Krumme keinen unauflöslichen, primären Inhalt, sondern gleichsam eine Durchdringung und Synthese einfacher „Bewegungen“ darstellt. Die Richtung selbst, aus deren stetiger Veränderung die Kurve hervorgehend gedacht wird, ist nichts schlechthin Einfaches; auch das scheinbare „Element“ zerlegt sich für die fortschreitende Analyse in eine Mehrheit von Bestimmungen. In diesem Gedanken nähern wir uns bereits den Problemen der analytischen Geometrie, wie sie schon vor der eigentlichen prinzipiellen Ausführung bei Descartes durch Fermat festgestellt waren. Während für die unmittelbare Anschauung, an der die antike Geometrie haften blieb, jedes Einzelgebilde ein für sich gegebenes und in sich selbst ruhendes Ganze ausmacht, wird hier zum ersten Male gleichsam der allgemeine Begriff der Figur entdeckt. Wiederum lösen sich die einzelnen Gestalten zunächst in eine unendliche Mannigfaltigkeit von Punkten auf, deren Einheit und Zusammenhang jedoch durch die gemeinsame Regel, an der sie teilhaben, verbürgt ist: durch die Form der Beziehung, die zwischen jedem Gliede des Inbegriffs und den beiden willkürlich fixierten Koordinatenaxen besteht. Diese universale begriffliche Grundbestimmung sprengt die festen Schranken der konkreten geometrischen Sonderobjekte. Eine einfache algebraische Operation genügt jetzt häufig, um den analytischen Ausdruck der einen Gestalt in den der andern überzuführen und beide somit in ihrer Verwandtschaft erkennen zu lassen; die bloße Variation eines Parameters läßt Gebilde, die sonst verschiedenen Gattungen zugerechnet wurden, aus einander hervorgehen.
+
+Dieser Grundzug wird weiterhin auch von derjenigen geometrischen Ansicht und Betrachtungsweise bestätigt, die sonst überall wie der Gegensatz und das Widerspiel zur algebraischen Methode erscheint: auch die projektive Geometrie, wie sie jetzt von Desargues ausgebildet wird, lenkt nicht zur antiken synthetischen Auffassung zurück, sondern hat den modernen Grundbegriff des Unendlichen und der Veränderung in sich aufgenommen und verarbeitet. So wird hier z. B. eine allgemeine Definition des Kegelschnittes zugrunde gelegt, aus der durch Abstufung eines bestimmten Einzelmerkmals die besonderen Unterarten erst entwickelt und die verschiedenen möglichen Einzelgestalten abgeleitet werden. Wieder bewährt sich die neue Denkrichtung darin, daß dasjenige, was zuvor als begriffliche Trennung erschien, auf einen bloßen quantitativen Unterschied zurückgedeutet wird; - daß, nach dem Worte Keplers, der kontradiktorische Gegensatz in eine Differenz des „Mehr und Weniger“ sich auflöst. Die Methode der Projektion wird zum Mittel, ein und dieselbe qualitative Bestimmtheit gleichsam unter verschiedenen quantitativen Formen und Abwandlungen zu betrachten und zu beurteilen.
+
+Wie sehr diese Wendung der abstrakten Mathematik geeignet war, das Fundament des Aristotelischen Weltgebäudes zu untergraben, zeigt ein Einwand, den Benedetti, der bedeutendste der Vorgänger Galileis, gegen Aristoteles erhebt. Dieser hatte behauptet, daß auf einer endlichen Geraden keine ununterbrochene Bewegung möglich sei: der Körper müsse am Ende der Bahn notwendig zur Ruhe kommen, ehe er in entgegengesetztem Sinne zurückkehre. Um diesen Satz zu widerlegen, geht Benedetti davon aus, zunächst die Bewegung des Körpers auf einer geschlossenen Kreislinie zu betrachten und das Ergebnis, das sich ihm hier darbietet, dadurch auf die Gerade zu übertragen, daß er sich jeden einzelnen Punkt der Kreisperipherie auf diese projiziert denkt. Die vollkommene geometrische Entsprechung und Abhängigkeit, die sich hierbei zeigt, gilt ihm als Beweis dafür, daß auch die Bewegung auf beiden Bahnen keine inneren, wesentlichen Unterschiede aufweisen kann, daß sie also in dem einen, wie im andern Falle kontinuierlich verlaufen muß. Das Verhältnis der eindeutigen Zuordnung, das wir vermöge der Methode der Projektion entdecken, hebt den angeblichen Gegensatz des Begriffs und des physikalischen Verhaltens auf.
+
+Blicken wir nunmehr von der Geometrie zur Algebra hinüber, so steht auch hier das logische Verhältnis von Quantität und Qualität im Mittelpunkt der Betrachtung. Die Einführung der Buchstabenrechnung, die den Keim der künftigen Entwicklung in sich enthält, nimmt von einer neuen Beziehung zwischen Zahl und Raum, zwischen der abstrakten Quantität und der benannten Größe ihren Ausgang. Die reinen arithmetischen Operationen bleiben nicht länger isoliert; sie nehmen eine Bezeichnung und eine Ausdrucksform an, die sie unmittelbar zur Wiedergabe der Verknüpfung und konstruktiven Vereinigung räumlicher Größen befähigt. Die Symbole, mit denen gerechnet wird, sind nichts anderes, als die Zeichen für bestimmte Grundgebilde des Raumes: die „figürliche“ Analysis unterscheidet sich von der gewöhnlichen dadurch, daß sie statt mit Zahlen mit den Gestalten und Formen der Dinge operiert.
+```
+
+**English (draft)**
+
+```text
+... Cavalieri still has to struggle to keep the geometrical infinite from becoming a metaphysical being. It should mean only a tool for expressing finite proportions, an `infinitum secundum quid`, comparable to the algebraic `x`. Even if Cavalieri hesitates philosophically, Cassirer’s own point is clear: if the continuum can everywhere be replaced by the totality of its constituents for mathematical judgment, then no hidden inner essence can matter for science.
+
+The line then advances through Roberval. A tangent is no longer found by intuitive contact with a finished curve, but by the synthesis of different motions. Geometry and mechanics therefore converge under one logical viewpoint, and the curve itself becomes intelligible as a lawful composition rather than as a primitive qualitative kind. This is the threshold of analytic geometry and of a general concept of figure.
+
+Desargues’ projective geometry confirms the same transformation from another side. Conceptual oppositions become quantitative variations, and projection reveals an exact correspondence between geometrical and physical behavior. By the end of the tranche, the transition to algebra is prepared as a problem of quantity and quality rather than as a mere change of technical notation.
+```
+
+**Working Commentary**
+
+```text
+1) The important Cavalieri point is not just `infinitum secundum quid`, but the comparison with algebraic `x` as a pure relational placeholder.
+
+2) Roberval matters because tangent construction becomes a synthesis of motions, not a local visual property.
+
+3) Cassirer is using the curve to destroy the old notion of figure as an isolated species.
+
+4) Projective geometry confirms the same modern tendency by translating qualitative difference into parametric variation.
+
+5) The Benedetti example matters because projection directly mediates between concept and physical behavior.
+```
+
+**Notes**
+
+- This tranche is the clean bridge from indivisibles to analytic geometry.
+- The next pages clearly belong with Vieta, logarithms, and the number-concept expansion.

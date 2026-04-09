@@ -638,3 +638,550 @@ sessions:
       - "The strongest gain here is that geometry is no longer just preferred; it becomes a criterion of scientific possibility."
       - "The ellipse matters methodologically because it legitimates the lawful nonuniform."
       - "Kepler now looks less like a precursor of general math-physics in the abstract and more like a very specific reformer of lawful construction."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 94
+
+    state_on_entry:
+      - "Part 93 had justified geometry as the criterion of scientific possibility, but the Fabricius continuation still had to show how that criterion governed actual lawfulness in planetary motion."
+      - "The main open question was whether the ellipse would be stabilized merely as an empirical exception or as the expression of a deeper law concept."
+
+    what_shifted:
+      - "Fabricius now makes the old demand explicit: constancy must lie in circular figure and equal motion."
+      - "Kepler answers by relocating constancy into the principles of force and function rather than the visible path."
+      - "The unity of nature is strengthened by the same move: there are no celestial exceptions, and terrestrial phenomena can exemplify cosmic law."
+      - "`Naturgesetz` is used terminologically for Kepler's three rules, with change and necessity now thought together."
+      - "The cause-problem begins to turn from explanation of being toward explanation of becoming."
+
+    unresolved:
+      - "Need the next tranche from printed 376-379 / PDF 400-403."
+      - "Need to see how the Galileo opening receives the Kepler law line."
+      - "Need to see whether the new science is first defined by doctrine, method, or scientific character."
+
+    re_entry_instructions:
+      - "Read Part 94 first; the live edge is the broken sentence after the opening of `Der Grund des Seins und das Gesetz des Werdens`."
+      - "Extract the next raw page range: printed 376-379 / PDF 400-403."
+      - "Keep the chain lawful nonuniformity -> constancy in force/function -> unity of nature -> relativity in physics -> from being to becoming in view."
+      - "Watch whether the Galileo opening treats this as a direct logical continuation or as a new front altogether."
+
+    formation_notes:
+      - "The strongest gain here is that constancy now means law-governed variation rather than static form."
+      - "The unity of nature is earned from the law concept, not simply asserted."
+      - "Kepler's late line now visibly bends toward Galilean physics."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 95
+
+    state_on_entry:
+      - "Part 94 had brought Kepler to the threshold of the Galileo logic, but the chapter had not yet shown how the new science would appear in personal and methodological form."
+      - "The main open question was whether the Galileo section would begin with theory, with empirical result, or with a different kind of evidential posture."
+
+    what_shifted:
+      - "Kepler's late self-correction rejects false ontological questions about world-position and orientation by insisting on the unity of empirical lawfulness."
+      - "Galilei is introduced first through the correspondence with Kepler, so scientific character and evidential courage become part of the story."
+      - "Kepler recognizes Galilei's method in his style even before direct instrumental verification."
+      - "The common front against scholasticism is defined through the fight against syllogistic, book-centered logic."
+      - "The transition therefore suggests that the next Galileo pages will need to revalue abstraction and experience positively rather than merely polemically."
+
+    unresolved:
+      - "Need the next tranche from printed 380-383 / PDF 404-407."
+      - "Need to see how Cassirer positively redefines abstraction once the anti-syllogistic polemic is in place."
+      - "Need to see how Galilei's method moves from character and correspondence into concept."
+
+    re_entry_instructions:
+      - "Read Part 95 first; the live edge is the broken sentence after the opening of `Der Kampf gegen die Syllogistik`."
+      - "Extract the next raw page range: printed 380-383 / PDF 404-407."
+      - "Keep the chain unity of experience -> false ontology refused -> Kepler / Galilei correspondence -> style as method -> anti-syllogistic front in view."
+      - "Watch especially how Cassirer now rehabilitates abstraction without surrendering empirical concreteness."
+
+    formation_notes:
+      - "The strongest gain here is that Galilei first appears as a scientific bearing, not yet as a doctrine."
+      - "Style matters because it is treated as the visible reflex of method."
+      - "The next tranche should show how this bearing becomes a positive logic of experience."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 96
+
+    state_on_entry:
+      - "Part 95 had established the Galileo opening through correspondence, style, and the anti-syllogistic front, but the positive structure of Galilean method was still only implied."
+      - "The main open question was how Cassirer would now rehabilitate abstraction without surrendering empirical concreteness."
+
+    what_shifted:
+      - "The opposition between exact observation and dry abstraction is now explicitly demoted to a merely subjective expression of the break with scholasticism."
+      - "Galilei's true method is defined through analysis and the decomposition of the phenomenon into determining conditions."
+      - "The critics' countercharge makes the reality of the scientific concept a live issue again."
+      - "Galilei is clarified as a practitioner with a stable conviction of thought/nature harmony rather than an explicit epistemological system-builder."
+      - "The Simplicio discussion opens the concept/reality problem in mathematical form."
+
+    unresolved:
+      - "Need the next tranche from printed 384-387 / PDF 408-411."
+      - "Need to see how the concept/reality issue is answered positively through applied mathematics."
+      - "Need to see how the matter-problem enters the Galileo line."
+
+    re_entry_instructions:
+      - "Read Part 96 first; the live edge is the broken sentence after the opening of `Begriff und Wirklichkeit`."
+      - "Extract the next raw page range: printed 384-387 / PDF 408-411."
+      - "Keep the chain anti-syllogistic front -> analysis as method -> abstraction rehabilitated -> concept/reality problem in view."
+      - "Watch whether the next pages solve this by lowering mathematics or by transforming the notion of application."
+
+    formation_notes:
+      - "The strongest gain here is that abstraction is now admitted as the positive core of Galilei's method."
+      - "The concept/reality problem has re-entered, but under mathematical rather than scholastic conditions."
+      - "The next tranche should show how certainty survives application."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 97
+
+    state_on_entry:
+      - "Part 96 had reopened the concept/reality problem and named analysis as Galilei's operative power, but the concrete form of scientific certainty was still open."
+      - "The main open question was whether application would weaken certainty or whether the theory/phenomenon gap would be recast altogether."
+
+    what_shifted:
+      - "Galilei now dissolves the dualism between mathematical truth and physical reality by refusing any degraded empirical mode of existence for mathematical form."
+      - "Pure and applied mathematics are given one and the same certainty whenever the relevant conditions are fulfilled."
+      - "The hypothesis method is clarified as deduction first, comparison after."
+      - "The theory/phenomenon gap is reinterpreted as a task for analysis and calculation rather than as an ontological split."
+      - "The matter-concept begins to turn decisively into a homogeneous, measurable correlate of mathematical necessity."
+
+    unresolved:
+      - "Need the next tranche from printed 388-391 / PDF 412-415."
+      - "Need to see how the new matter concept develops into the thesis of secondary qualities."
+      - "Need to see whether the Galileo section now reaches a stable local plateau or continues deepening the ontology/method relation."
+
+    re_entry_instructions:
+      - "Read Part 97 first; the live edge is the broken sentence after the opening of `Der Begriff der Materie`."
+      - "Extract the next raw page range: printed 388-391 / PDF 412-415."
+      - "Keep the chain concept/reality dualism refused -> one mathematical certainty -> theory/phenomenon as task -> hypothesis/deduction/comparison -> matter as homogeneous correlate in view."
+      - "Watch especially for the secondary-quality doctrine and its relation to the new matter concept."
+
+    formation_notes:
+      - "The strongest gain here is that application no longer weakens mathematical certainty."
+      - "Matter is now being drawn inside the concept-system instead of opposing it."
+      - "The next tranche should make the sensory-quality consequence explicit."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 98
+      - 99
+
+    state_on_entry:
+      - "Part 97 had turned matter into the homogeneous correlate of mathematical necessity, but the sensory-quality consequence and the status of scientific fact were still open."
+      - "The main open pressure was whether the Galileo line would stop at the matter-concept or carry it through into conservation and motion."
+
+    what_shifted:
+      - "Cassirer now sharpens Galilei's antiquity relation: the real kinship with Demokrit lies in the logical demand for enduring identity within phenomena, not in local atomistic doctrine."
+      - "The Platonic line is carried directly onto physical nature by geometric delimitation of what counts as the true object."
+      - "The doctrine of the subjectivity of sensible qualities is now stated as a direct consequence of this object-constitution rather than as a merely physiological thesis."
+      - "Immediate perception itself is then inverted into the status of `Name` wherever it cannot be redeemed by quantitative determination."
+      - "The conservation of matter follows directly from the homogeneous and enduring concept of body."
+      - "Scientific fact is redefined through coherence with the whole of phenomena rather than through immediacy alone."
+      - "Motion is now admitted as a fully legitimate mathematical object, and the demand for a distinct `physische Methode` is explicitly refused."
+
+    unresolved:
+      - "Need the next tranche from printed 396-399 / PDF 420-423."
+      - "Need to see how the hydrostatics example completes the anti-Peripatetic method argument."
+      - "Need to see whether Galilei now turns from motion and method into a further mechanics line or begins closing the section."
+
+    re_entry_instructions:
+      - "Read Part 99 first; the live edge is the broken sentence after the hydrostatics example has opened."
+      - "Extract the next raw page range: printed 396-399 / PDF 420-423."
+      - "Keep the chain matter as homogeneous correlate -> sensible qualities as `Namen` -> conservation -> fact as systematic coherence -> motion as mathematical object in view."
+      - "Watch whether the next pages deepen the method dispute, extend the mechanics line, or begin to gather the Galileo section toward closure."
+
+    formation_notes:
+      - "The strongest surprise here is the full inversion: the early appeal to sense comes back against perception itself once quantitative objecthood is fixed."
+      - "The conservation thesis feels more earned than expected because it is derived immediately from the body-concept rather than appended as later doctrine."
+      - "The new gain is that motion now stands inside mathematics with almost no residue."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 100
+      - 101
+
+    state_on_entry:
+      - "Part 99 had admitted motion fully into mathematics, but the hydrostatics example and the broader worldview contrast were still open."
+      - "The main open pressure was whether the next pages would stay within mechanics or widen into a more explicit philosophical turn."
+
+    what_shifted:
+      - "The hydrostatics dispute is now generalized: Galilean cause means the totality of determining conditions and relations sufficient for the effect."
+      - "Experience is clarified as both beginning and goal, but only as observation transformed by geometrical schemata into necessary connection."
+      - "The inertia principle is explicitly tied to Galilei's whole method rather than treated as a separate theorem."
+      - "The empirical/aprioric dispute over inertia is demoted because the relevant facts themselves had first to be analytically won."
+      - "The projectile critique shows the same thing concretely: Aristotelian explanation fails both logically and quantitatively."
+      - "Fracastoro then provides the strongest late qualitative counter-image, still explaining place and motion through sympathy, antipathy, and organismic teleology."
+      - "Cassirer now states the deeper philosophical shift directly: the real issue is no longer empiricism versus rationalism, but things versus relations, substance versus function."
+      - "Galilei's sunspot-letter passage formulates the gain with unusual clarity: substantial essence is inaccessible, but empirical `affezioni` are knowable and scientifically decisive."
+
+    unresolved:
+      - "Need the next tranche from printed 404-407 / PDF 428-431."
+      - "Need to see how Cassirer completes the sunspot-letter argument after the break on `angeblich unmittelbar be-`."
+      - "Need to see whether the next pages stay with phenomenal knowledge and distance, or begin handing the Galileo line toward a broader methodological close."
+
+    re_entry_instructions:
+      - "Read Part 101 first; the live edge is the broken sentence after the sunspot-letter argument has turned against the privilege of nearness."
+      - "Extract the next raw page range: printed 404-407 / PDF 428-431."
+      - "Keep the chain motion as mathematical object -> inertia as regulative law -> critique of qualitative nature -> `operari sequitur esse` overturned -> substance/function -> `affezioni` in view."
+      - "Watch whether the next pages deepen the phenomenal-knowledge line or pivot toward a larger closure of the Galileo section."
+
+    formation_notes:
+      - "The strongest new gain is that inertia now reads less like an isolated mechanics insight and more like a condensed statement of Galilean method."
+      - "The philosophical shift came earlier and more explicitly than expected: Cassirer names `Substanz` and `Funktion` almost without mediation."
+      - "The sunspot-letter passage makes nearness look epistemically provincial, which sharpens the whole anti-naive thrust of the section."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 102
+      - 103
+
+    state_on_entry:
+      - "Part 101 had opened the strongest local statement of phenomenal knowledge, but the sunspot-letter argument and its method consequences were still incomplete."
+      - "The main open pressure was whether Cassirer would keep this at the level of `affezioni` and distance, or widen it into a fuller account of scientific certainty, relation, and truth."
+
+    what_shifted:
+      - "Galilei's renunciation of metaphysical essence is now stated explicitly as the price of empirical certainty rather than as skeptical retreat."
+      - "The `affezioni` line broadens into a full view of science as open-ended progress from appearance to appearance."
+      - "The extensive/intensive distinction relocates exact knowledge from exhaustive possession of objects to validity and certainty, culminating in the formula that there is no knowledge of the Absolute but there are absolutely certain cognitions."
+      - "Induction is explicitly denied as simple summation of cases and rebuilt around mathematically grounded universal relation."
+      - "The relativity of motion is recast as a condition of exact knowability."
+      - "Projectile decomposition now gives the clearest method-example of the Galilean turn: common measure, arithmetic of forces, and analysis before composition."
+      - "Cassirer hardens the function/thing reversal by allowing scientific law to abstract not only from qualities but from the existence of the empirical thing."
+      - "Space is recast as scientific construction, and truth is defined by the unification of all phenomena under one rule."
+      - "The Cremonini opening starts the direct confrontation with Peripatetic refusal of mathematics as philosophy-relevant science."
+
+    unresolved:
+      - "Need the next tranche from printed 412-415 / PDF 436-439."
+      - "Need to see how the Cremonini / Peripatetic astronomy confrontation is carried through after the break on `Man wende nicht ein,`."
+      - "Need to see whether the Galilei section now closes the `Phänomen` line or opens a broader transition toward the chapter ending."
+
+    re_entry_instructions:
+      - "Read Part 103 first; the live edge is the broken sentence after the Cremonini opening in `Das Phänomen und seine Wahrheit`."
+      - "Extract the next raw page range: printed 412-415 / PDF 436-439."
+      - "Keep the chain `affezioni` -> intensive certainty -> mathematically grounded induction -> relativity as condition of knowledge -> resolutive analysis -> constructed space -> phenomenal truth in view."
+      - "Watch whether the next pages keep pressing the astronomy/philosophy split, or begin gathering the Galilei run toward local closure."
+
+    formation_notes:
+      - "The strongest new gain is that phenomenal knowledge has now become a positive account of certainty rather than only a restriction."
+      - "The space passage makes the Galileo line look even more like a reconstruction of objecthood than I expected."
+      - "The next tranche should show whether `Das Phänomen und seine Wahrheit` remains local controversy or becomes a larger methodological closure."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 104
+      - 105
+
+    state_on_entry:
+      - "Part 103 had opened the direct confrontation with Peripatetic astronomy, but the teleology / harmony residue and the overall closure of the Galileo run were still open."
+      - "The main pressure was whether Cassirer would end by opposing observation to dogma, or by articulating a deeper break in the concept of a priori order and mathematical form."
+
+    what_shifted:
+      - "The Cremonini line now shows the old position failing structurally: teleological `allgemeine Natur` fixes in advance what experience may count for."
+      - "Cassirer distinguishes the a priori of mathematical idea from the a priori of purpose."
+      - "Utility is rejected as the coarsest teleological criterion, while the deeper break is made against aesthetic harmony and perfection of form."
+      - "Galilei's law-concept explicitly supersedes the Keplerian harmony-concept."
+      - "The anti-hierarchy of geometric figures carries the same break into geometry itself and redefines perfection as lawful determinacy."
+      - "Cassirer then gathers the whole Galilei sequence as an implicit theory of knowledge in act, organized by necessity, relation, and function."
+      - "The mathematics subsection opens cleanly and states that the new physics does not merely apply inherited mathematics, but helps reshape it."
+
+    unresolved:
+      - "Need the next tranche from printed 420-423 / PDF 444-447."
+      - "Need to see how the mathematics section immediately develops the reciprocal formation of mathematical method and physical concept."
+      - "Need to watch whether the next pages stay programmatic or move into a specific mathematical innovation line."
+
+    re_entry_instructions:
+      - "Read Part 105 first; the live edge is the broken sentence after the opening of `Die Wechselwirkung zwischen Mathematik und Physik`."
+      - "Extract the next raw page range: printed 420-423 / PDF 444-447."
+      - "Keep the chain purpose/harmony refused -> lawful determinacy -> relation/function gathered -> mathematics and physics as reciprocal in view."
+      - "Watch for the first concrete mathematical development Cassirer uses to cash out the new subsection."
+
+    formation_notes:
+      - "The strongest gain here is that the Galileo sequence is now locally complete enough to function as a gathered method-arc rather than a string of episodes."
+      - "The mathematics opening is better than expected because it blocks the lazy reading that physics merely borrows a finished language."
+      - "The next tranche should be treated as a new subsection pickup, not as tail-cleanup from Galileo."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 106
+      - 107
+
+    state_on_entry:
+      - "Part 105 had opened the mathematics subsection programmatically, but the first concrete mathematical development was still completely ahead."
+      - "The main pressure was whether Cassirer would proceed by thinker-by-thinker history or by concept-clusters continuous with the earlier relation/function line."
+
+    what_shifted:
+      - "The first mathematics cluster now centers on the infinite as a positive scientific operator rather than a merely dialectical topic."
+      - "Kepler's use of the infinite is clarified through variation, integration, and aggregate magnitude."
+      - "Galileo's paradoxes show that equality, greater, and smaller cannot simply be transferred from finite to infinite multiplicities."
+      - "Cassirer explicitly uses this to restate the ideal character of mathematical criteria."
+      - "The continuum problem then refuses the shelter of the actual/potential distinction."
+      - "Indivisibles are only workable as relation-moments, not as miniature substances."
+      - "The first real clarification of the infinite comes through motion, speed, moment, and differential quotient."
+      - "Cavalieri renews geometry by carrying the same logic of lawful generation and latent variable back into figure-construction."
+
+    unresolved:
+      - "Need the next tranche from printed 428-431 / PDF 452-455."
+      - "Need to see how Cassirer continues the Cavalieri line after the break on the latent second relation-point."
+      - "Need to watch whether the mathematics section stays on geometry/continuity or opens a new cluster after Cavalieri."
+
+    re_entry_instructions:
+      - "Read Part 107 first; the live edge is the broken sentence after Cavalieri's latent second variable in `Das Indivisible und die Erneuerung der Geometrie`."
+      - "Extract the next raw page range: printed 428-431 / PDF 452-455."
+      - "Keep the chain infinite aggregate -> equality redefined -> indivisible as relation-moment -> motion/moment/differential quotient -> Cavalieri's flowing rule in view."
+      - "Watch for the next concrete mathematical consequence Cassirer draws from the latent common variable."
+
+    formation_notes:
+      - "The strongest gain here is that the mathematics section immediately proves to be continuous with the earlier method-arc rather than a detached technical appendix."
+      - "The differential-quotient line gives the first really stable foothold for the infinitesimal issue."
+      - "The next tranche should stay inside the Cavalieri development before deciding whether a larger subsection turn has arrived."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 108
+      - 109
+
+    state_on_entry:
+      - "Part 107 had made the continuum, moment, and Cavalieri line live, but the latent-variable point and the transition into algebra were still open."
+      - "The main pressure was whether the next pages would remain inside indivisibles or open a broader transformation of figure and number."
+
+    what_shifted:
+      - "Cavalieri's geometrical infinite is now explicitly stabilized as methodological relation, not metaphysical being."
+      - "Roberval's tangent method reconstructs the curve from synthesis of motions and extends the same relation-first logic."
+      - "Analytic geometry appears as discovery of a general concept of figure governed by coordinate rule."
+      - "Projective geometry confirms the same tendency by turning qualitative oppositions into quantitative variation and exact correspondence."
+      - "Vieta's homogeneity principle then shows how algebra requires and produces symbolic sameness across apparently heterogeneous contents."
+      - "Logarithms admit variation itself as pure intelligible relation."
+      - "Negative and imaginary numbers sharpen the break with the old ideal of knowledge by showing that valid concepts need not mirror pre-given objects."
+      - "Definition now stands out as the operative source of mathematical concept-formation."
+
+    unresolved:
+      - "Need the next tranche from printed 436-439 / PDF 460-463."
+      - "Need to see how the imaginary-number argument is completed after the break on the developed validity of thought-relations."
+      - "Need to watch whether the next pages stay on the number-concept or open a fresh mathematical cluster."
+
+    re_entry_instructions:
+      - "Read Part 109 first; the live edge is the broken sentence after the definition/abstraction contrast in `Die negative und die imaginäre Zahl`."
+      - "Extract the next raw page range: printed 436-439 / PDF 460-463."
+      - "Keep the chain indivisible as instrument -> tangent as synthesis of motions -> figure as rule -> symbolic homogeneity -> logarithms -> definition over abstraction in view."
+      - "Watch whether Cassirer completes the number-concept argument before turning to a new subsection."
+
+    formation_notes:
+      - "The strongest gain here is that the mathematics section is now clearly developing by one logic across geometry, algebra, and arithmetic."
+      - "The logarithm passage is more philosophically important than it first looked because it licenses variation as pure relation."
+      - "The next tranche should continue directly through the imaginary-number argument before deciding on any larger resting point."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 110
+      - 111
+      - 112
+
+    state_on_entry:
+      - "Part 109 had left what looked like an open edge in the imaginary-number argument."
+      - "The main pressure was whether the mathematics section actually continued or whether the source was already at a book transition."
+
+    what_shifted:
+      - "The source closes `Die Mathematik` directly and opens Book III with `Descartes`; the previous expected continuation was a false edge."
+      - "Descartes is distinguished from earlier method-talk by making method a generative source of pure knowledge."
+      - "The scientific concept of necessity is turned into a philosophical problem of the relation between necessary judgment and necessary being."
+      - "The Descartes chapter immediately shifts the unity problem from being to knowledge."
+      - "Cassirer then sharply separates the primary method-line from the later justificatory metaphysics."
+      - "The `mathesis universalis` is defined as a science of order, measure, proportion, and relation."
+      - "Descartes' categories are ordered by the dependencies of knowledge, not by the hierarchy of being."
+      - "Syllogistic synthesis is subordinated to prior analysis, and the equation becomes the clearest model of internally guided problem-solution."
+      - "The `Menon` return fixes analysis as philosophically exemplary."
+
+    unresolved:
+      - "Need the next tranche from printed 452-455 / PDF 476-479."
+      - "Need to see how the `Menon` line and the self-sufficiency of inquiry are developed after the break."
+      - "Need to watch whether the next pages stay on method or reopen the metaphysical line."
+
+    re_entry_instructions:
+      - "Read Part 112 first; the live edge is the break after Plato's `Menon` has been reintroduced as the background of Cartesian analysis."
+      - "Extract the next raw page range: printed 452-455 / PDF 476-479."
+      - "Keep the chain new Organon -> necessity problem -> method over metaphysical priority -> universal mathematics -> logic of relations -> analysis as self-sufficient inquiry in view."
+      - "Watch whether the next pages continue the Platonic/problem-structure line or pivot toward doubt and metaphysical grounding."
+
+    formation_notes:
+      - "The strongest gain here is that Book III opens as a continuation of the earlier relation/function history rather than a rupture with it."
+      - "The false mathematics edge was worth correcting immediately; the local trace is much cleaner now."
+      - "The next tranche should continue directly through the `Menon`-analysis argument before stopping."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 113
+      - 114
+      - 115
+      - 116
+
+    state_on_entry:
+      - "Part 112 had reopened Plato's `Menon` and left the self-sufficiency of inquiry as the live edge."
+      - "The main pressure was whether Descartes would stay on the method-line or pivot quickly into metaphysical interiority."
+
+    what_shifted:
+      - "Cassirer carried the method-line directly into geometry by redefining mathematics as a unified lawful field rather than a cabinet of separate problems."
+      - "`Dimension` was made explicitly anti-ontological and tied to rule-governed measurability."
+      - "Extension emerged as the common substrate and coordinate-framework of exact comparison."
+      - "The same relational structure was then used to ground physics without positing a new bodily ontology."
+      - "Extension was recast as `Zeichen der Erkenntnis` and then as `eingeborene Idee`, making space, figure, and motion intellectual norms of objectivation."
+      - "Cassirer explicitly reactivated the Cusanus `Assimilation` line inside the Descartes chapter."
+      - "The Gassendi objection was answered by making mathematical construction the only binding criterion of rational judgment about nature."
+      - "Special physics then opened through the work-principle, geometric treatment of falling bodies, and the relativity of motion."
+      - "The final pages reopened the causal contrast with Bruno rather than closing on a purely Cartesian interior argument."
+
+    unresolved:
+      - "Need the next tranche from printed 468-471 / PDF 492-495."
+      - "Need to see how the Bruno comparison is completed after the break on mechanized causality."
+      - "Need to watch whether Cassirer now deepens the causal argument or pivots to another physics cluster."
+
+    re_entry_instructions:
+      - "Read Part 116 first; the live edge is the Bruno comparison at the end of the relativity-of-motion passage."
+      - "Extract the next raw page range: printed 468-471 / PDF 492-495."
+      - "Keep the chain analysis -> analytic geometry -> extension as sign -> innate idea -> substance held in method -> work principle -> motion relativity in view."
+      - "Watch whether the next pages cash out the causal contrast with Bruno or turn to a different Cartesian physics problem."
+
+    formation_notes:
+      - "The strongest gain here is that the Descartes chapter stayed inside the relation/function line much longer and more concretely than the opening could yet prove."
+      - "The Cusanus return was earned from the primary text and should stay visible as a live cross-batch pattern."
+      - "The next tranche should continue from the Bruno comparison, not reset to a generic Descartes-metaphysics frame."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 117
+      - 118
+      - 119
+
+    state_on_entry:
+      - "Part 116 had reopened the causal contrast with Bruno after statics, motion, and the relativity of space."
+      - "The main pressure was whether Cassirer would let Descartes slide into abstract epistemology or derive a real logic of experience from the physics line itself."
+
+    what_shifted:
+      - "Cartesian causality was gathered under a conserved quantity of motion and treated as redistribution rather than inward sympathetic process."
+      - "The sciences-as-masks image made method appear as the recovery of a common chain beneath special objects."
+      - "Experience was reopened as an explicit internal problem of method rather than as an external supplement."
+      - "The `Dioptrik`, magnet, and rainbow examples clarified that experiment controls hypotheses only after analysis has isolated the simple conditions."
+      - "Model-building and thought experiment emerged as constitutive moments of real induction."
+      - "Enumeration was explicitly subordinated to deduction as its preparatory stage."
+      - "Cassirer then made the possible-world construction explicit: thought first generates a mathematically lawful world and empirical description later selects among the true deductive series."
+      - "The Baconian history of phenomena was admitted only as descriptive orientation, not as proof."
+      - "Scientific hypothesis was defended strongly, and the real weakness of Cartesian physics was relocated from hypothesis as such to the impatient leap into special cases."
+
+    unresolved:
+      - "Need the next tranche from printed 480-483 / PDF 504-507."
+      - "Need to see how the internal critique of Cartesian collision-laws is tied to the transition toward metaphysics."
+      - "Need to watch whether the chapter now opens a new subsection or continues the self-critique of physics directly."
+
+    re_entry_instructions:
+      - "Read Part 119 first; the live edge is the claim that the trouble in Cartesian experience-theory lies not in hypothesis itself but in the special buildup of the physics."
+      - "Extract the next raw page range: printed 480-483 / PDF 504-507."
+      - "Keep the chain conservation -> experience as method-problem -> analysis before experiment -> model/thought-experiment -> possible world -> phenomenon-history -> hypothesis defense in view."
+      - "Watch for the exact point where the self-critique of physics becomes the transition to metaphysics."
+
+    formation_notes:
+      - "The strongest gain here is that Descartes' experience-theory now looks internally coherent and much less like a simple apriorist foil."
+      - "The possible-world / empirical-selection distinction feels structurally important beyond this batch and should stay visible in the journal."
+      - "The next tranche should continue from the collision-law critique rather than resetting to the metaphysical endpoint too early."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 120
+      - 121
+      - 122
+
+    state_on_entry:
+      - "Part 119 had defended Cartesian hypothesis and located the real weakness of the system in the impatient special buildup of the physics."
+      - "The main pressure was whether the next pages would still belong to the experience-theory critique or would turn cleanly into metaphysics."
+
+    what_shifted:
+      - "The collision-laws passage confirmed that the failure is internal to Cartesian physics: method no longer governs case-construction."
+      - "Descartes' criticism of Galilei exposed a relapse against abstraction and idealization that his own method should have protected."
+      - "Cassirer explicitly defined the idealist position through a maintained gap between truth and empirical actuality."
+      - "The pressure toward metaphysics then became intelligible as Descartes' refusal to leave the existence of things unsecured by method."
+      - "The opening of the `Meditationen` was reconstructed as a search for a criterion of certainty rather than an immediate proof of substantial subjectivity."
+      - "The `reine Verstand` was reconnected directly to the stable formal side of universal mathematics."
+      - "The wax analysis showed that object-unity itself is an achievement of intellect rather than a content delivered by sensation or imagination."
+      - "Perception was then rebuilt as sign-language, with localization, correction, and memory all made dependent on judgment."
+      - "The `cogito` acquired a two-sided form: immediate lived certainty and inseparable object-reference."
+
+    unresolved:
+      - "Need the next tranche from printed 492-495 / PDF 516-519."
+      - "Need to see how Cassirer develops the two-sided `cogito` beyond the first judgment-function settlement."
+      - "Need to watch whether the next pages stay with object-reference or open a new metaphysical cluster."
+
+    re_entry_instructions:
+      - "Read Part 122 first; the live edge is the two-sided clarification of `cogito` at the end of the judgment-function passage."
+      - "Extract the next raw page range: printed 492-495 / PDF 516-519."
+      - "Keep the chain physics self-critique -> truth/reality gap -> method-born metaphysics -> pure intellect -> wax -> perception as sign -> judgment as object-constitution in view."
+      - "Watch for the next real hinge after the first `cogito` clarification, not merely the next metaphysical keyword."
+
+    formation_notes:
+      - "The strongest gain here is that the transition from Cartesian physics to metaphysics is now internally earned rather than merely chronological."
+      - "Judgment is emerging as the real hinge-term of the whole opening metaphysical run."
+      - "The next tranche should continue from the two-sided `cogito`, not reset to an abstract summary of the Meditations."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 123
+      - 124
+      - 125
+
+    state_on_entry:
+      - "Part 122 had clarified `cogito` in a two-sided way: immediate lived certainty and inseparable object-reference."
+      - "The main pressure was whether the next pages would stabilize that gain or let the metaphysical guarantee begin to distort it."
+
+    what_shifted:
+      - "The ontological proof was recast as a guarantee of nature rather than primarily as theology."
+      - "Cassirer showed that God adds no new content to the system and that the guarantee therefore moves in a circle around cognition."
+      - "The relation between God and the eternal truths then exposed the anti-rationalist cost of the metaphysical turn."
+      - "Infinity was reclaimed as a functional feature of pure thought rather than a sign of a transcendent original."
+      - "The doctrine of innate ideas split into a productive methodological sense and a passive metaphysical sense."
+      - "Imagination shifted from an indispensable cognitive instrument to an argument for real distinction."
+      - "The Geist/Körper problem emerged as a direct consequence of these prior shifts rather than as an independent puzzle."
+
+    unresolved:
+      - "Need the next tranche from printed 504-507 / PDF 528-531."
+      - "Need to see how Cassirer develops the mind-body difficulty after the first diagnosis that no genuine mediation remains."
+      - "Need to watch whether the next pages stay with Descartes or begin the chapter's closing outward turn."
+
+    re_entry_instructions:
+      - "Read Part 125 first; the live edge is the collapse of genuine mediation at the end of `Der Zusammenhang von Geist und Körper`."
+      - "Extract the next raw page range: printed 504-507 / PDF 528-531."
+      - "Keep the chain judgment-function -> God as guarantee -> eternal truths/infinite -> split-`eingeboren` -> imagination -> Geist/Körper difficulty in view."
+      - "Watch for the first real hinge after the mind-body diagnosis, not merely the next metaphysical slogan."
+
+    formation_notes:
+      - "The strongest gain here is that the whole Descartes metaphysics run now reads as a progressive deformation of earlier methodological strengths."
+      - "Infinity and `eingeboren` both now look like structurally important test-terms for later returns."
+      - "The next tranche should continue from the Geist/Körper difficulty rather than resetting to a broad Descartes overview."

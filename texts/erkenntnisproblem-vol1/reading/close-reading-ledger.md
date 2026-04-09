@@ -1072,6 +1072,475 @@ Current downstream use:
 - reflected in Part `93`
 - held locally while the next tranche shows how the Fabricius continuation develops the empirical and methodological consequences
 
+### Kepler: constancy shifts from figure to law and from being to becoming
+
+Passage base:
+
+- Part `94`
+- printed pages `372-375`
+
+Finding:
+
+- Fabricius still seeks constancy in circular form, but Kepler relocates it to the principles of force and function
+- variation is no longer the enemy of unity; lawful variation is the way unity becomes scientifically thinkable
+- the same move yields the unity of nature, excluding celestial exceptions and allowing terrestrial cases to stand for cosmic law
+- the cause-problem is reoriented away from metaphysical explanation of being toward lawful explanation of becoming
+
+Why it matters:
+
+- this is the clearest local statement yet that modern lawfulness is not sameness of appearance but constancy through variation
+- it also shows how directly the late Kepler line is preparing Galilean physics
+
+Current downstream use:
+
+- reflected in Part `94`
+- held locally while the Galileo opening shows how this law concept is taken up in a new scientific style
+
+### From Kepler to Galilei: scientific character against syllogistic logic
+
+Passage base:
+
+- Part `95`
+- printed pages `376-379`
+
+Finding:
+
+- Kepler's late notes reject pseudo-problems of world-orientation by appealing to the unity of empirical lawfulness
+- the Galilei section opens through correspondence, public defense, and shared scientific character rather than through doctrine alone
+- Kepler recognizes in Galilei's style the reflection of a common method
+- the shared front against scholasticism is defined first of all as a struggle against syllogistic, book-centered logic
+
+Why it matters:
+
+- this is the clearest transition point where the new science appears as a moral and methodological bearing, not just a set of results
+- it also prepares the next Galileo pages to redefine abstraction and experience without falling back into the old empiricism/rationalism split
+
+Current downstream use:
+
+- reflected in Part `95`
+- held locally while the next tranche develops Galilei's positive account of abstraction and experience
+
+### Galilei: abstraction returns as the positive core of experience
+
+Passage base:
+
+- Part `96`
+- printed pages `380-383`
+
+Finding:
+
+- the simple opposition between observation and abstraction is rejected as merely the subjective form of the break with scholasticism
+- Galilei's real method lies in analytic decomposition of the phenomenon into isolable determining conditions
+- criticism of this method reopens the reality of the scientific concept at a higher level
+- Galilei proceeds from a stable but unargued conviction of harmony between mathematics and nature rather than from explicit epistemology
+
+Why it matters:
+
+- this is the first fully positive formulation of Galilei's method in the chapter
+- it also prepares the concept/reality issue without collapsing back into the old empiricism/rationalism split
+
+Current downstream use:
+
+- reflected in Part `96`
+- held locally while the next tranche shows how applied mathematical certainty and matter are rebuilt on this basis
+
+### Galilei: one mathematical certainty and a new concept of matter
+
+Passage base:
+
+- Part `97`
+- printed pages `384-387`
+
+Finding:
+
+- the opposition between theory and phenomenon is recast as an unfinished task of analysis rather than a metaphysical split
+- pure and applied mathematics share one and the same certainty whenever the relevant conditions are fulfilled
+- Galilei's hypothetical method is explicit: deduction precedes comparison, but only in order to return more strictly to observation
+- matter is transformed from the resistant other of form into the homogeneous, measurable correlate of mathematical necessity
+
+Why it matters:
+
+- this is one of the strongest local defenses of applied mathematical science in the whole volume
+- it also marks the point where the Galilean matter concept begins to close the older Aristotelian opposition between form and matter
+
+Current downstream use:
+
+- reflected in Part `97`
+- held locally while the next tranche develops the secondary-quality line opened with `Der Begriff der Materie`
+
+### Galilei: ancient atomism without atomistic physics
+
+Passage base:
+
+- Part `98`
+- printed pages `388-391`
+
+Finding:
+
+- Galilei's kinship with Democritus lies in the logical demand to secure enduring identity within phenomena, not in atomism as a local doctrine
+- the Platonic ideal of knowledge is extended directly onto physical nature through geometric delimitation
+- the doctrine of sensible qualities follows from this object-delimitation itself rather than from later physiological argument
+- body is scientifically thinkable only through magnitude, figure, place, time, and motion, while qualitative predicates survive only as names in the sentient organism
+
+Why it matters:
+
+- this shows that the Galilean object is method-constituted, not merely observed and then described
+- it also ties the new physics backward to both Democritus and Plato without reducing it to either line
+
+Current downstream use:
+
+- reflected in Part `98`
+- held locally while the next tranche carries the inversion through conservation and the mathematical concept of motion
+
+### Galilei: conservation and motion as mathematical object
+
+Passage base:
+
+- Part `99`
+- printed pages `392-395`
+
+Finding:
+
+- immediate perception is now the thing demoted to mere `Name` unless it can be quantitatively redeemed
+- conservation follows directly from the homogeneous and enduring concept of matter
+- scientific fact depends on systematic coherence with the whole of phenomena, not on immediacy alone
+- motion is admitted as a fully legitimate mathematical object, and the claim for a separate physical method is explicitly refused
+
+Why it matters:
+
+- this is where the matter doctrine becomes a criterion of scientific fact rather than only a metaphysical recasting
+- it also clears the way for later mechanics by placing motion inside mathematics rather than outside it
+
+Current downstream use:
+
+- reflected in Part `99`
+- held locally while the next tranche continues the hydrostatics and anti-Peripatetic method argument from the broken page edge
+
+### Galilei: inertia as method-bearing law
+
+Passage base:
+
+- Part `100`
+- printed pages `396-399`
+
+Finding:
+
+- Galilei's concept of cause is the totality of determining conditions and relations, not an isolated material moment
+- inertia is treated as inseparable from Galilei's whole method and not reducible to a simple datum of observation
+- the dispute over empirical versus aprioric origin is demoted because the relevant facts themselves had first to be analytically isolated
+- the critique of projectile motion joins logical and quantitative pressure against Aristotelian medium-theory
+- the quantitative view of nature replaces teleological quality with general law and necessity
+
+Why it matters:
+
+- this is one of the clearest local statements that Galilean mechanics is method before it is doctrine
+- it also turns velocity itself into a lawful object rather than a fleeting sensible content
+
+Current downstream use:
+
+- reflected in Part `100`
+- held locally while the next tranche shows how this mechanics line becomes a more general contrast of substance and function
+
+### Galilei: from substance to function
+
+Passage base:
+
+- Part `101`
+- printed pages `400-403`
+
+Finding:
+
+- Fracastoro still explains order and motion through qualitative affinity, sympathy, and organismic teleology
+- Galilei overturns `operari sequitur esse` by beginning from a general lawfulness of operation
+- Cassirer explicitly replaces the empiricism/rationalism contrast with the deeper problem of things versus relations, substance versus function
+- Galilei's own distinction between inaccessible substantial essence and knowable `affezioni` states phenomenal knowledge with unusual precision
+- nearness loses epistemic privilege once lawful phenomenal determination becomes the criterion of knowledge
+
+Why it matters:
+
+- this is one of the strongest local bridges between the history of exact science and Cassirer's later systematic language
+- it also gives a compact statement of why phenomenal knowledge is not epistemic resignation but scientific gain
+
+Current downstream use:
+
+- reflected in Part `101`
+- held locally while the next tranche completes the sunspot-letter argument past the current page break
+
+### Galilei: intensive certainty and the relativity of knowledge
+
+Passage base:
+
+- Part `102`
+- printed pages `404-407`
+
+Finding:
+
+- renunciation of metaphysical essence is stated as the price of secure empirical knowledge, not as skeptical resignation
+- `affezioni` become the positive starting-points of science and make its open-endedness methodically necessary
+- the extensive/intensive distinction relocates exact knowledge from exhaustive possession of objects to validity and certainty
+- induction is explicitly refused as mere summation of cases; its universal premise must be a mathematically grounded relation
+- the relativity of motion is treated as a condition of exact knowability rather than as a limit on it
+
+Why it matters:
+
+- this is one of the clearest local places where Cassirer's Galileo line becomes an epistemology of exact science rather than only a history of doctrines
+- it also sharpens why phenomenal knowledge is gain and not loss
+
+Current downstream use:
+
+- reflected in Part `102`
+- held locally while the next tranche turns relativity into the concrete method-example of projectile decomposition
+
+### Galilei: analysis, constructed space, and phenomenal truth
+
+Passage base:
+
+- Part `103`
+- printed pages `408-411`
+
+Finding:
+
+- projectile motion becomes the canonical case of relation-first explanation through a common mathematical measure
+- the `kompositive` path to the concrete is said to depend on prior `resolutive` analysis of general relations
+- Cassirer explicitly states the hyperbolic consequence: law may abstract not only from qualities but from the very existence of the empirical thing
+- scientific space is recast as a product of advancing construction rather than a ready-given sensible order
+- truth is defined as unification of the totality of phenomena under one rule
+- the Cremonini opening marks the direct conflict with the view that mathematical astronomy belongs to a different science than philosophy
+
+Why it matters:
+
+- this is where Galileo's method becomes visibly identical with a new concept of object, space, and truth
+- it also gives one of the strongest local formulations of the priority of function over thing in the whole volume
+
+Current downstream use:
+
+- reflected in Part `103`
+- held locally while the next tranche continues the Cremonini confrontation and tests how fully the `Phänomen` line closes
+
+### Galilei: idea against purpose, law against harmony
+
+Passage base:
+
+- Part `104`
+- printed pages `412-415`
+
+Finding:
+
+- the Peripatetic position now shows its structural defect: teleological `allgemeine Natur` determines in advance what experience is allowed to mean
+- Galilei's target is not the a priori as such, but the a priori of purpose; the a priori of mathematical idea remains intact
+- utility is rejected as the grossest form of teleology, but the deeper struggle is against aesthetic harmony as explanatory principle
+- Copernicus and Kepler are thereby critically surpassed rather than simply discarded
+- lawful determination replaces harmony as the criterion of intelligibility
+
+Why it matters:
+
+- this is one of the clearest late places where exact science separates itself from the last cosmological residues of perfection-thinking
+- it also clarifies why the Galileo line is philosophically stronger than a mere victory of observation over dogma
+
+Current downstream use:
+
+- reflected in Part `104`
+- held locally while the next tranche completes the anti-hierarchy of figures and gathers the whole Galileo run retrospectively
+
+### Galilei: scientific self-consciousness and the mathematics turn
+
+Passage base:
+
+- Part `105`
+- printed pages `416-419`
+
+Finding:
+
+- continuity among geometric forms dissolves the old hierarchy of noble figures and redefines perfection as lawful determinacy
+- Cassirer explicitly gathers the Galileo sequence as an enacted theory of knowledge grounded in necessity, relation, and function
+- Galilei's logic is treated as a positive `Organon` of discovery rather than as a scholastic residue
+- the mathematics subsection opens by refusing any one-way dependence of physics on inherited geometry
+- the new physical task compels a new mathematical language and feeds back into mathematical concept-formation itself
+
+Why it matters:
+
+- this is the strongest local closure of the Galileo arc and the cleanest bridge into the next concept-history
+- it also gives a precise reason not to read the mathematics section as detachable technical supplement
+
+Current downstream use:
+
+- reflected in Part `105`
+- held locally while the next tranche enters the mathematical development on its own terms
+
+### Mathematics: the infinite as aggregate and comparison problem
+
+Passage base:
+
+- Part `106`
+- printed pages `420-423`
+
+Finding:
+
+- the mathematics section opens by treating technical innovations as paradigms of a transformed knowledge-problem
+- the infinite becomes positive once inquiry shifts from fixed form to variation, integration, and aggregate magnitude
+- Kepler's scientific use outruns his explicit older doctrine of the `apeiron`
+- Galileo's paradoxes show that equality, greater, and smaller cannot be carried over unchanged from finite to infinite multiplicities
+- the criterion of equality for infinite sets must be newly defined and constructed
+
+Why it matters:
+
+- this is the first clear sign that the mathematics section is continuous with the earlier function/relation line rather than a detached history of methods
+- it also sharpens the ideal character of mathematical relations beyond the sensible model
+
+Current downstream use:
+
+- reflected in Part `106`
+- held locally while the next tranche turns from equality to the continuum, moment, and indivisibility problem
+
+### Mathematics: continuum, moment, and indivisibles
+
+Passage base:
+
+- Part `107`
+- printed pages `424-427`
+
+Finding:
+
+- Galileo's continuum problem refuses the actual/potential distinction as explanatory shelter
+- indivisibles only work if understood as relation-moments rather than tiny self-subsisting parts
+- motion provides the first real clarification of the infinite because the law must hold in every moment
+- the differential quotient, not isolated differentials of space or time, is the logical starting-point
+- Cavalieri renews geometry by treating figure as generated through flowing rules under a latent common variable
+
+Why it matters:
+
+- this is where the mathematics section stops being merely programmatic and becomes method-bearing in the strongest sense
+- it also gives a precise local bridge from Galilean mechanics into the conceptual reconstruction of geometry
+
+Current downstream use:
+
+- reflected in Part `107`
+- held locally while the next tranche continues Cavalieri and tests how far Cassirer cashes out the latent-variable thought
+
+### Mathematics: tangents, figure, and projection
+
+Passage base:
+
+- Part `108`
+- printed pages `428-431`
+
+Finding:
+
+- Cavalieri's infinite remains legitimate only as relational instrument, not as metaphysical being
+- Roberval reconstructs the tangent through synthesis of motions and the parallelogram of velocities
+- the curve becomes intelligible as lawful composition rather than as an isolated qualitative form
+- analytic geometry emerges as a general concept of figure governed by coordinate relation
+- projective geometry confirms the same modern logic by translating qualitative opposition into quantitative variation
+
+Why it matters:
+
+- this is where the mathematics section clearly leaves static figure-taxonomy behind
+- it also gives the cleanest bridge from indivisibles to the coordinate and projective concept of form
+
+Current downstream use:
+
+- reflected in Part `108`
+- held locally while the next tranche turns from figure to symbolic homogenization and the widened number-concept
+
+### Mathematics: homogeneity, logarithms, and the new number-concept
+
+Passage base:
+
+- Part `109`
+- printed pages `432-435`
+
+Finding:
+
+- Vieta's homogeneity principle requires conceptual sameness before algebraic comparison, but thereby enables a wider symbolic unification
+- Galilei's comparison of space, time, and impulse is treated as a concrete case of figural symbolic homogenization
+- logarithms make variation itself mathematically thinkable as pure relation
+- Kepler sharpens this through `quantitas mentalis` and common measure of relations
+- negative and imaginary numbers make clear that mathematical legitimacy cannot depend on direct object-correspondence
+- definition displaces abstraction-from-things as the operative source of valid mathematical concepts
+
+Why it matters:
+
+- this is the strongest number-side expression yet of the same function-first turn Cassirer traced earlier through exact science
+- it also explains why the widening of number is philosophically decisive rather than only technically useful
+
+Current downstream use:
+
+- reflected in Part `109`
+- held locally while the next tranche continues the imaginary-number argument beyond the current break
+
+### Descartes: new Organon and necessity
+
+Passage base:
+
+- Part `110`
+- printed pages `440-443`
+
+Finding:
+
+- Descartes is distinguished from earlier method-talk because method becomes a productive source of pure knowledge rather than a mere auxiliary
+- the real bridge from the sciences to philosophy is the problem of necessity
+- scientific necessity is accepted as fact, but its transfer from judgment to being is turned into a philosophical problem
+- the unity at stake shifts from unity of being to unity of knowledge
+
+Why it matters:
+
+- this secures the book transition and prevents a flattened reading of Descartes as simply another advocate of method
+- it also ties Book III tightly back to the strongest gains of Book II
+
+Current downstream use:
+
+- reflected in Part `110`
+- held locally while the next tranche separates the method-line from the metaphysical line more sharply
+
+### Descartes: method, metaphysics, and universal mathematics
+
+Passage base:
+
+- Part `111`
+- printed pages `444-447`
+
+Finding:
+
+- the methodological line is historically primary in Descartes and carries his enduring force
+- metaphysics enters later as confirmation, not discovery, of scientific principles
+- logic, geometry, and algebra are fused into a `mathesis universalis`
+- the real object of this universal mathematics is relation, proportion, order, and measure
+
+Why it matters:
+
+- this is the clearest guard against reading Descartes' system from metaphysics downward
+- it also shows how Book III continues the earlier relation-centered concept-history instead of abandoning it
+
+Current downstream use:
+
+- reflected in Part `111`
+- held locally while the next tranche gives this relation-first logic a more explicit anti-syllogistic form
+
+### Descartes: relational logic and the analytic method
+
+Passage base:
+
+- Part `112`
+- printed pages `448-451`
+
+Finding:
+
+- Descartes' categories are ordered by the dependencies of knowledge, not by the hierarchy of beings
+- syllogistic synthesis is retained only as secondary to prior analysis
+- the equation becomes the clearest model of how problem-posing already determines the path of solution
+- analysis is philosophically exemplary because knowledge is treated as self-sufficient and internally rule-governed
+- the `Menon` return grounds this in a renewed Platonic account of inquiry
+
+Why it matters:
+
+- this is the first full logical body of Descartes' method in Cassirer's reconstruction
+- it also provides a precise conceptual link between mathematical procedure and philosophical self-knowledge
+
+Current downstream use:
+
+- reflected in Part `112`
+- held locally while the next tranche continues the `Menon` line beyond the current break
+
 ### Bruno: two realms without mathematics
 
 Passage base:
@@ -1093,6 +1562,331 @@ Current downstream use:
 
 - reflected in Part `73`
 - held locally while the next tranche completes the analysis line opened at the end of the passage
+
+### Descartes: analytic geometry and common measure
+
+Passage base:
+
+- Part `113`
+- printed pages `452-455`
+
+Finding:
+
+- Descartes' geometry is introduced as a unification of the problem-field rather than as a new isolated technique
+- `Ordnung` and `Maß` exhaust mathematics, and `Messen` is treated as a pure form of relation
+- `Dimension` is a rule of measurability, not a kind of being
+- the continuous/discrete divide is methodically bridgeable through arbitrary unit-choice
+- generated figure is grounded in point-order, so order is prior to later measurement
+
+Why it matters:
+
+- this is the cleanest statement yet of how Cartesian method becomes concrete mathematical construction
+- it also sharpens the transition from relation-logic to analytic geometry without importing later frameworks
+
+Current downstream use:
+
+- reflected in Part `113`
+- held locally while the next tranche carries the common-measure line into physics
+
+### Descartes: space, magnitude, and the foundation of physics
+
+Passage base:
+
+- Part `114`
+- printed pages `456-459`
+
+Finding:
+
+- exact comparison requires a `gemeinsame Natur`, and extension becomes the common substrate of all magnitude-comparison
+- the curve is reconstructed through point-relations to fixed lines, which brings analytic geometry to the threshold explicitly
+- Cartesian physics is grounded in the same logical center as geometry
+- the physical body is defined through spatial dimensions without positing a new ontological item
+- extension functions as `Zeichen der Erkenntnis`, and analogy is reduced to proportion
+
+Why it matters:
+
+- this is the strongest local bridge yet from mathematical method to scientific object-construction
+- it also prevents a flattened reading of Cartesian extension as immediate metaphysical body-substance
+
+Current downstream use:
+
+- reflected in Part `114`
+- held locally while the next tranche tests the sign/schema line against innate ideas and substance-language
+
+### Descartes: innate extension and substance
+
+Passage base:
+
+- Part `115`
+- printed pages `460-463`
+
+Finding:
+
+- the magnet example gives Cassirer's clearest local anti-occult research rule in the Descartes chapter
+- extension is still first an intellectual substrate of measurability, not an occult body-essence
+- `eingeborene Idee` names the intellectual conditions of science rather than a withdrawal from it
+- extension, figure, and motion function as norms and measures prior to sensible givenness
+- Cusanus' `Assimilation` is explicitly reactivated
+- Cartesian `Substanz` is still being interpreted inside a relation-and-function concept of nature
+
+Why it matters:
+
+- this passage ties the Descartes chapter directly back to the strongest Cusanus line
+- it also blocks the lazy reading that Book III has now abandoned the constructive concept-history of lawful cognition
+
+Current downstream use:
+
+- reflected in Part `115`
+- held locally while the next tranche tests the Gassendi objection and the turn to special physics
+
+### Descartes: statics, motion, and relativity
+
+Passage base:
+
+- Part `116`
+- printed pages `464-467`
+
+Finding:
+
+- the reply to Gassendi makes mathematical construction the indispensable criterion of rational judgment about nature
+- statics is unified through the work-principle rather than through separate machine-problems
+- dynamics is approached through geometric representation of velocity and summation
+- motion is explicitly relational and frame-dependent
+- this relativity blocks the hypostasis of space and already bears philosophical weight before Newton
+- the Bruno comparison reopens the causal contrast between mechanized law and animate continuity
+
+Why it matters:
+
+- this is the strongest Cartesian physics gathering yet, because method, ontology, and concrete physical examples meet in one place
+- it also sharpens the coming causal contrast with the older Naturphilosophie field
+
+Current downstream use:
+
+- reflected in Part `116`
+- held locally while the next tranche continues the Bruno comparison beyond the current break
+
+### Descartes: conservation of motion and the experience problem
+
+Passage base:
+
+- Part `117`
+- printed pages `468-471`
+
+Finding:
+
+- mechanized causality is reconstructed through redistribution of a conserved quantity of motion
+- the concept of cause is reduced to what arithmetic and geometry can articulate
+- the `Larven` image gathers science under one method beneath its special masks
+- experience reappears as an explicit internal problem of method rather than as an external check imported afterward
+- the truth of phenomena is retained, but only within a law-governed deductive frame
+
+Why it matters:
+
+- this is the strongest local gathering yet of Descartes' physics and method in one movement
+- it also explains why the experience question arises from the success of mechanism itself
+
+Current downstream use:
+
+- reflected in Part `117`
+- held locally while the next tranche turns the experience question into experimental method
+
+### Descartes: experimental construction and induction
+
+Passage base:
+
+- Part `118`
+- printed pages `472-475`
+
+Finding:
+
+- experience functions as a control of hypothesis, not as an origin of truth
+- analysis determines the relevant simple conditions before experiment is queried
+- the optics case makes clear that unmediated observation cannot identify the decisive factor by itself
+- the rainbow passage shows model-building and thought experiment as constitutive of real induction
+- enumeration is a preparatory stage of deduction
+
+Why it matters:
+
+- this is the clearest local statement yet that Cartesian experience is actively constructed rather than passively received
+- it also gives the strongest concrete shape so far to Cassirer's broader claim that lawful cognition is built, not read off
+
+Current downstream use:
+
+- reflected in Part `118`
+- held locally while the next tranche gathers possible worlds, phenomenon-history, and hypothesis
+
+### Descartes: possible worlds and physical hypotheses
+
+Passage base:
+
+- Part `119`
+- printed pages `476-479`
+
+Finding:
+
+- experiments have value only when analysis has isolated the typifying case
+- thought constructs a possible world from mathematical principles before empirical selection returns
+- Baconian phenomenon-history is admitted as descriptive orientation rather than proof
+- mathematical assumptions are confirmed by explanatory and predictive success without collapsing into logical circularity
+- Huyghens ratifies the method while rejecting specific Cartesian physics
+- the weakness lies in Descartes' impatient special-physics buildup, not in hypothesis itself
+
+Why it matters:
+
+- this is Cassirer's strongest local defense of scientific hypothesis in the Descartes chapter
+- it also explains why the next criticism of Cartesian physics can be internal rather than anti-idealistic
+
+Current downstream use:
+
+- reflected in Part `119`
+- held locally while the next tranche turns to the collision-law critique and the pressure toward metaphysics
+
+### Descartes: collision laws and the turn to metaphysics
+
+Passage base:
+
+- Part `120`
+- printed pages `480-483`
+
+Finding:
+
+- Cartesian physics fails internally where special-case derivation stops obeying the continuity demanded by method
+- the collision laws reveal the gap between sound foundations and unstable construction
+- Descartes' critique of Galilei betrays his own better account of abstraction and hypothesis
+- the real methodological fault is the demand for immediate coincidence between rational law and empirical actuality
+- a genuine idealism keeps a truth/reality gap; metaphysics begins by trying to close it
+
+Why it matters:
+
+- this is the sharpest internal criticism of Cartesian physics in the whole chapter so far
+- it also explains why the metaphysical turn is structurally earned rather than externally imposed
+
+Current downstream use:
+
+- reflected in Part `120`
+- held locally while the next tranche reconstructs the `Meditationen` opening from method
+
+### Descartes: pure intellect and object analysis
+
+Passage base:
+
+- Part `121`
+- printed pages `484-487`
+
+Finding:
+
+- the opening of the `Meditationen` is directed first toward a criterion of certainty, not toward proving a substantial self
+- the `reine Verstand` is continuous with the stable formal side of universal mathematics
+- doubt does not touch the inner validity of those principles
+- the wax example shows that object-identity cannot be delivered by sensation or imagination
+- the unity of the object is constituted through `inspection de l'esprit`
+
+Why it matters:
+
+- this is the strongest local guard yet against reading Descartes as simply turning away from method into inward metaphysics
+- it also deepens the object-side of the earlier relation/function line rather than abandoning it
+
+Current downstream use:
+
+- reflected in Part `121`
+- held locally while the next tranche carries the same point into perception and judgment
+
+### Descartes: perception, self-consciousness, and judgment
+
+Passage base:
+
+- Part `122`
+- printed pages `488-491`
+
+Finding:
+
+- perception is reconstructed as sign-language rather than resemblance
+- localization, correction of appearances, and memory all require intellect and cannot be reduced to raw sensory data
+- truth and falsity arise only at the level of judgment
+- the judgment-function becomes the source of objecthood itself
+- `cogito` is clarified both as immediate certainty of lived consciousness and as inseparable object-reference within every act of thought
+
+Why it matters:
+
+- this is the strongest anti-copy-theory and anti-sensualist passage in the Descartes run so far
+- it also gives the clearest local statement of how self-reference and object-reference arise together
+
+Current downstream use:
+
+- reflected in Part `122`
+- held locally while the next tranche continues from the two-sided `cogito`
+
+### Descartes: God's idea and reality-guarantee
+
+Passage base:
+
+- Part `123`
+- printed pages `492-495`
+
+Finding:
+
+- the ontological proof is being used to secure the reality of nature rather than to found theology
+- God adds no new determinate content to the methodically won system
+- the divine guarantee is circular because its meaning is borrowed from the order of cognition it is asked to ground
+- `Wahrhaftigkeit Gottes` reduces to the self-validating force of the highest cognitive principles
+
+Why it matters:
+
+- this is the clearest local statement yet that Cartesian metaphysics remains parasitic on the method it claims to ground
+- it also sharpens the difference between an internal criterion of certainty and an external guarantee of reality
+
+Current downstream use:
+
+- reflected in Part `123`
+- held locally while the next tranche tests the content of that guarantee in eternal truths and infinity
+
+### Descartes: eternal truths and the infinite
+
+Passage base:
+
+- Part `124`
+- printed pages `496-499`
+
+Finding:
+
+- eternal truths are turned from conditions of intelligibility into products of divine will
+- rational necessity is thereby weakened into contingent arrangement
+- the infinite is displaced from the functional life of thought into a transcendent original
+- Cassirer answers that the infinity of thought is already present in the inner rule-structure of number and relation
+
+Why it matters:
+
+- this is the strongest anti-voluntarist point in the chapter so far
+- it also shows most clearly how metaphysics can damage scientific rationality instead of completing it
+
+Current downstream use:
+
+- reflected in Part `124`
+- held locally while the next tranche follows the same pressure into innate ideas and imagination
+
+### Descartes: innate ideas, imagination, and mind-body
+
+Passage base:
+
+- Part `125`
+- printed pages `500-503`
+
+Finding:
+
+- `eingeboren` splits between active rational productivity and passive metaphysical impress
+- imagination shifts from exact cognitive instrument to alleged evidence for real distinction
+- the move from relation to independent body-substance is made without genuine mediation
+- the mind-body problem appears as a result of the metaphysical recoding of earlier methodological gains
+
+Why it matters:
+
+- this is the clearest point yet where the metaphysical turn produces obscurity rather than additional grounding
+- it also makes the later Geist/Körper difficulty intelligible as structurally earned within the chapter
+
+Current downstream use:
+
+- reflected in Part `125`
+- held locally while the next tranche continues from the mind-body difficulty
 
 ## Boundary
 

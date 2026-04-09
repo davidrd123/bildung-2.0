@@ -1,0 +1,64 @@
+# Part 100: Galilei, Inertia and the Quantitative View of Nature
+
+Cassirer now turns the hydrostatics dispute into a general method-statement. Experience remains both beginning and goal, but only insofar as it is methodically won and then transformed by geometrical schemata into necessary connection. On that basis the law of inertia becomes the exemplary case: neither mere perception nor pure speculation, but a conceptual construction that guides and judges observation. Galileo's critique of the Aristotelian theory of projectile motion then makes the deeper shift explicit. Causality is regulated by exact functional dependence, and nature is no longer understood teleologically through the qualitative form of a single motion, but through general laws of conservation and necessity.
+
+## Scope
+
+- printed pages `396-399`, PDF pages `420-423`
+
+## Working Files
+
+- `source/raw/101-galilei-inertia-and-the-quantitative-view-of-nature-pdf-420-423.txt`
+- `source/normalized/101-galilei-inertia-and-the-quantitative-view-of-nature-pdf-420-423.txt`
+- `source/page-map.yaml`
+- `journal.md`
+- `reading/close-reading-ledger.md`
+- `session-ledger.yaml`
+
+## Galilei, Inertia and the Quantitative View of Nature
+
+**German (corrected)**
+
+```text
+... Für den Peripatetiker bedeutet die materiale „Ursache“ eines Geschehens nur ein isoliertes Teilmoment, dessen Erfolg und Wirksamkeit von der innerlichen Beschaffenheit des „Subjekts“, auf das sie gerichtet ist, abhängig ist, während Galilei in ihr den Inbegriff aller Bedingungen und aller äußeren wie inneren Relationen zusammenfaßt, deren Setzung einen bestimmten Effekt mit Notwendigkeit in sich schließt. Hier läßt sich Galileis Gesamtanschauung der Natur nach beiden Richtungen und Tendenzen, die in ihr wirksam sind, übersehen.
+
+Die Erfahrung bildet den Anfang wie das Ziel seiner Forschung: aber wenn sie als Anfang nur einen Inbegriff methodisch gewonnener und gesichteter Einzelbeobachtungen ausmacht, so steht ihm als Ziel jener kritische Erfahrungsbegriff vor Augen, den Kant in dem Satze formuliert hat, daß Erfahrung nur durch die Vorstellung einer notwendigen Verknüpfung der Wahrnehmungen möglich sei. Diese Notwendigkeit erreichen wir, indem wir die Beobachtungen auf ideelle geometrische Grundschemata beziehen und ihnen deren logische Form aufprägen. Das einzelne Ereignis gewinnt damit, nach vorwärts wie nach rückwärts, als Ursache wie als Wirkung, jene Festigkeit des Zusammenhangs, jene eindeutige Stellung und Begrenzung in der räumlich-zeitlichen Ordnung, kraft welcher es erst in den Umkreis der naturwissenschaftlichen Wirklichkeit aufgenommen erscheint. Das Problem besteht darin, die Verknüpfung, wie sie zwischen den Prämissen und den Folgerungen des geometrischen Beweises besteht, auf die Erkenntnis der Einzeltatsachen zu übertragen: und dieses Problem löst sich fortschreitend in dem Maße, als wir die „Tatsachen“ selbst in einen Inbegriff von Größen und Zahlen auflösen.
+
+Der erste Schritt auf diesem Wege besteht darin, daß wir im Begriff der Bewegung - analog der Entwicklung, die der Begriff der Materie nahm - einen gleichbleibenden quantitativen Grundbestand fixieren. Die Entdeckung des Beharrungsgesetzes hängt daher mit dem Ausgangspunkt und den Grundgedanken von Galileis Forschung innig und unverkennbar zusammen. Schon aus der Betrachtung dieses Zusammenhangs heraus sollte jeder Zweifel daran schwinden, ob Galilei die volle Einsicht von der Allgemeinheit und Tragweite seines neuen Grundsatzes gewonnen hat. Die Beweisgründe, die in neuerer Zeit dagegen angeführt worden sind, beleuchten nur die geschichtlichen Schwierigkeiten, die sich dem Gewinn der neuen Erkenntnis entgegenstellten, zeigen nur die mannigfachen psychologischen Vermittlungen und Vorstufen, die notwendig waren, ehe der Gedanke sich in voller Reinheit herauslösen konnte. So sehr es von historischem Interesse ist, diesen stetigen Gang der Entdeckung zu verfolgen: die Klarheit und Sicherheit des Ergebnisses, wie es uns vor allem in den „Discorsi“ entgegentritt, wird dadurch nicht berührt. Der Gedanke, der zunächst an einem bestimmten Umkreis von Einzelphänomenen und somit in eingeschränkter Geltung erfaßt wird, wächst zu immer größerer Bedeutung und Universalität heran, indem er sich als ein allgemeines Regulativ erweist, nach welchem wir die Beobachtung beurteilen. Die Ableitung des Trägheitssatzes, die die Discorsi geben, kann daher wiederum als ein Musterbeispiel für das Verhältnis von Denken und Empfindung gelten. Von einer Vorbereitung, von einem Ansatz des Denkens geht die Untersuchung aus: es ist eine reine „Konzeption des Geistes“, an die die Frage sich richtet. Der Streit über den „empirischen“ oder „apriorischen“ Ursprung des Beharrungsgesetzes ist daher im Grunde müßig: denn so wenig es eines Wortes darüber bedarf, daß das Gesetz nur an den Tatsachen der Erfahrung zur Entdeckung kommen konnte, so deutlich wird auf der anderen Seite, daß eben jene Tatsachen selbst nicht der direkten Wahrnehmung bloßlagen, sondern durch das Denken der „resolutiven Methode“ erst herauszusondern und zu gewinnen waren.
+
+In meisterhafter Weise hat Galilei diese Kunst der Analyse in der Kritik der Aristotelischen Auffassung der Wurfbewegung bewährt. Hier ist es, wie bekannt, das Medium, das zur Erklärung der Fortsetzung der Bewegung herbeigezogen wird: beim Fortschleudern eines schweren Körpers wird zunächst die benachbarte Luft in schnelle kreisende Bewegung versetzt, die allmählich immer weitere Teile ergreift und damit mittelbar auch dem bewegten Körper in jedem Moment einen neuen Impuls mitteilt. Dabei werden drei verschiedene Phasen begrifflich unterschieden und die Erfahrungen des Wurfes nach ihnen gedeutet; im Anfang, da die Gesamtmasse der Luft noch nicht von der Bewegung ergriffen worden ist, schreitet der Körper langsam fort, erreicht dann einen bestimmten, höchsten Wert der Geschwindigkeit, um von ihm, je mehr die übertragene Bewegung der Luftteilchen sich abschwächt, wieder allmählich herabzusinken. Galilei deckt zunächst den logischen Grundmangel dieser angeblichen Erklärung auf: sie setzt voraus, daß wenigstens der Luft die Fähigkeit zukommt, einen empfangenen Eindruck über den ersten Moment hinaus während einer bestimmten Zeitdauer zu bewahren und festzuhalten; sie muß also dem Medium eben jene Eigenschaft zugestehen, die sie für den bewegten Körper selbst leugnete. Die Schwierigkeit ist hier nicht gelöst, sondern ersichtlich nur um einen Grad zurückgeschoben. Denken wir uns ferner das Verhältnis zwischen Ursache und Wirkung als strenge quantitative Bestimmtheit, so müßte, wenn das Medium die Ursache der Erhaltung und Fortpflanzung der Bewegung wäre, die Größe der Geschwindigkeit proportional der Dichtigkeit des Mediums zunehmen, während die Erfahrung das Gegenteil zeigt. Hier wie bei Kepler ist es der Gedanke der exakten funktionalen Abhängigkeit, der die Anwendung des Kausalbegriffs regelt und einschränkt.
+
+Wenn Aristoteles weiterhin die Erhaltung der „natürlichen“ Bewegung zugestanden, die der „gewaltsamen“ dagegen bestritten hatte, so zeigt sich auch an diesem Punkt das Charakteristische der neuen Denkart. Die Natur im Aristotelischen Sinne steht unter dem Gesichtspunkt und der Vorherrschaft des Zweckbegriffs: natürlich ist die Bewegung, die dem inneren Wesen des Subjekts und seinem immanenten Formprinzip angemessen ist. Für die moderne Wissenschaft dagegen ist es, wie sich zeigte, der Gedanke der Notwendigkeit, der den Sinn und Inhalt des Naturbegriffs ausmacht. Sie schließt demnach nicht von der Qualität und Beschaffenheit einer vereinzelten Bewegungsform auf ihre Beharrung und Fortdauer, sondern umgekehrt ist es das allgemeine Gesetz der Erhaltung, durch das ihr die Geschwindigkeit, die in der unmittelbaren, naiven Auffassung nur wie ein beliebig auftauchender und verschwindender Inhalt erscheint, zur Realität im Sinne der Erkenntnis, zur dauernden und bestimmten „Wesenheit“ wird.
+
+Wir müssen an diesem Punkte länger verweilen: denn hier stehen wir an einem Wendepunkt, an dem sich die Zeitalter scheiden. Um uns den Stand des Problems, wie Galilei ihn vorfand, völlig zu vergegenwärtigen, dürfen wir nicht sowohl die Aristotelische Ansicht selbst, wie ihre Ausführung und Darstellung in der neueren Naturphilosophie zu Grunde legen. Hier bietet uns insbesondere die Bewegungslehre des Fracastoro ein typisches Beispiel: denn dieser faßt die überlieferte Theorie noch einmal prägnant zusammen, wie er anderseits, als Arzt und Naturforscher bemüht ist, sie der Erfahrung und Einzelbeobachtung zu nähern und anzupassen. Die inneren Schwierigkeiten, die sich der neuen Fragestellung entgegenstellten, können wir uns hier am Beispiel eines Denkers verdeutlichen, der die Bekämpfung der „dunklen Qualitäten“ und die Erforschung der echten, realen Mittelursachen bereits als Grundaufgabe der Forschung erkennt und ausspricht. Auch bei ihm ist es noch der Begriff der quali-
+```
+
+**English (draft)**
+
+```text
+... for the Peripatetic, material cause is only one isolated moment whose efficacy depends on the inner constitution of the subject it affects. Galileo instead takes cause as the totality of conditions and relations whose positing entails the effect with necessity. Experience therefore remains both beginning and goal, but only as methodically won observation transformed by geometrical schemata into necessary connection.
+
+On that basis inertia becomes exemplary. Its discovery is inseparable from Galileo's whole starting point. The law is neither read off directly from perception nor imposed from outside as empty apriority; the relevant facts had first to be isolated by the `resolutive method`. The critique of Aristotelian projectile theory shows the same thing more concretely: the medium-theory merely displaces the problem, and once cause is understood quantitatively, it collapses against experience.
+
+This is the deeper shift in the concept of nature. Aristotle lets persistence depend on the qualitative character of a particular motion and its teleological fit with the thing. Modern science reverses the order. General law first confers reality on velocity itself, and necessity replaces purpose as the content of nature.
+```
+
+**Working Commentary**
+
+```text
+1) The Kant line matters because Cassirer is now explicit: Galileo's experience-concept is already critical, not merely accumulative.
+
+2) Inertia is treated as a regulative construction guiding observation, not as a simple datum.
+
+3) The projectile example shows Galileo's analysis at full strength: Aristotelian explanation does not fail only empirically, but logically.
+
+4) Exact functional dependence now disciplines causality just as strongly here as it did earlier for Kepler.
+
+5) The decisive reversal is from teleological quality to lawful necessity: velocity becomes scientifically real only through a general conservation principle.
+```
+
+**Notes**
+
+- `Das Beharrungsgesetz` is a real hinge, not just a mechanics aside.
+- The move from medium-explanation to function-law is one of the clearest local signs that the Galilean method has become fully operative.
+- The next tranche should continue directly into the Fracastoro comparison, since the page break is already shifting from inertia to the older qualitative worldview it displaces.

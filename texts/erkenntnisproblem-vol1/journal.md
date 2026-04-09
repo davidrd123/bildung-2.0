@@ -2326,3 +2326,608 @@ Decision for now:
 - keep the geometry / number / description line visible; it now feels like a genuine method-bearing gain rather than a side note
 - continue into the Fabricius continuation before deciding whether the Kepler section is nearing a local resting point
 - still no glossary promotion; the section is earning method, but the current apparatus is sufficient
+
+## 2026-04-08 - Forty-Third Naturphilosophie Tranche
+
+Advanced Kepler through printed pages `372-375` and wrote Part `94`.
+
+What was clarified:
+
+- Fabricius forces the law-problem into its sharpest form: constancy is no longer sought in circular figure, but in the principles of force and function
+- the law concept now explicitly binds variation instead of cancelling it; the `Arithmetik der Kräfte` line becomes the true locus of uniformity
+- the unity of nature is also stronger here than before; the same law excludes celestial exception and allows terrestrial cases like gravity to stand for cosmic relations
+- the relativity motive now enters physics cleanly: no privileged place in space, and therefore no privileged region of nature
+- `Naturgesetz` is here used in explicit terminological fashion for Kepler's three basic rules
+- the cause-problem also begins to turn decisively; the modern task is no longer explanation of being, but of becoming
+
+Decision for now:
+
+- keep the constancy-through-variation line visible; it is one of the strongest gains in the whole Kepler run
+- continue into the Galileo opening, since the Galilean logic is already being announced at the close of the tranche
+- still no glossary promotion; the gains are strong but still best carried by parts, journal, and anchors
+
+## 2026-04-08 - Forty-Fourth Naturphilosophie Tranche
+
+Advanced the transition through printed pages `376-379` and wrote Part `95`.
+
+What was clarified:
+
+- Kepler's late self-correction finally rejects a whole family of false ontological questions about direction, orientation, and world-position by insisting on the unity of experience and its principles
+- the Galileo section opens through correspondence rather than doctrine, which is revealing: scientific character and evidential courage are part of the argument
+- Kepler's trust in Galilei is method-recognition before direct inspection; optics, observation, and style already hang together
+- the fight against scholasticism is now made explicit as a fight against syllogistic and bookish logic that would rather dispute than look
+- the new science therefore appears first not as anti-conceptual empiricism, but as a different relation among observation, method, and concept
+
+Decision for now:
+
+- keep the Kepler / Galilei handoff visible; it is not merely editorial transition but a real continuity of method
+- continue into the next Galileo tranche before deciding whether the opening settles into a stable local pattern
+- still no glossary promotion; the section is clarifying method rather than forcing new apparatus terms
+
+## 2026-04-08 - Forty-Fifth Naturphilosophie Tranche
+
+Advanced Galilei through printed pages `380-383` and wrote Part `96`.
+
+What was clarified:
+
+- Cassirer explicitly refuses the lazy contrast between exact observation and dry abstraction; that contrast describes an affective break, not the actual scientific method
+- Galilei's operative power is analysis: decomposing the phenomenon into isolable determining conditions
+- this is why abstraction returns as a positive scientific force and why Galilei unexpectedly becomes the defender of concept-formation
+- the old realism / nominalism pressure visibly returns at a higher level once critics accuse him of dissolving concrete reality into formula
+- Galilei is nevertheless not an epistemological system-builder; his starting point is an unargued but stable conviction of harmony between thought and nature
+- the Simplicio exchange opens the concept / reality problem in its most concrete mathematical form
+
+Decision for now:
+
+- keep the analysis / abstraction line visible; it is the first real positive statement of Galilean method in the chapter
+- continue directly into the pure/applied mathematics and matter tranche before deciding whether the Galileo line has found a local resting point
+- still no glossary promotion; the current apparatus remains sufficient
+
+## 2026-04-08 - Forty-Sixth Naturphilosophie Tranche
+
+Advanced Galilei through printed pages `384-387` and wrote Part `97`.
+
+What was clarified:
+
+- Galilei dissolves the dualism of mathematical truth and physical reality by refusing any second-rate notion of empirical existence for mathematical form
+- pure and applied mathematics are now tied together through one and the same certainty; the gap between theory and phenomenon becomes a task of analysis and reckoning, not an ontological split
+- the hypothetical method is stated with unusual precision: define, deduce, then compare with experience
+- the Archimedean example helps because it shows that proof-validity does not depend on immediate empirical instantiation
+- the concept of matter then turns decisively: it is no longer the resistant opposite of form, but the homogeneous, geometrically determinable correlate of mathematical necessity
+- this is also where the Kepler line pays off, since Galilei completes the matter-concept Kepler was still struggling to stabilize
+
+Decision for now:
+
+- keep the theory / phenomenon line visible; it is now one of the strongest method-bearing gains in the Galileo sequence
+- continue into the next tranche because `Der Begriff der Materie` has only just opened and the secondary-quality line is clearly imminent
+- still no glossary promotion; the conceptual pressure is rising, but the local files are carrying it
+
+## 2026-04-08 - Forty-Seventh Naturphilosophie Tranche
+
+Advanced Galilei through printed pages `388-391` and wrote Part `98`.
+
+What was clarified:
+
+- the Democritus comparison is now sharply delimited: Galilei's true kinship is not atomistic mechanism, but the logical demand to secure enduring identity within phenomena
+- the Platonic line remains just as strong; what for Plato had full validity only in mathematics is now directed immediately onto physical objects
+- nature is scientifically delimited by geometry and necessity rather than by probable discourse
+- the doctrine of the subjectivity of sensible qualities is said to follow from this object-constitution itself, not primarily from physiology
+- body is thinkable only through magnitude, figure, place, time, and motion, while color, tone, taste, and smell become mere names grounded in the sentient organism
+- the matter-concept is therefore no longer just opened; it is now visibly being purified into a quantitative object of science
+
+Decision for now:
+
+- keep the Democritus / Plato double line visible; it prevents a flattened reading of Galilei as either mere ancient revival or pure break
+- continue directly into the next tranche because the page `391` break clearly turns the qualitative doctrine back against the earlier appeal to sense
+- still no glossary promotion; the present apparatus is carrying the pressure cleanly
+
+## 2026-04-08 - Forty-Eighth Naturphilosophie Tranche
+
+Advanced Galilei through printed pages `392-395` and wrote Part `99`.
+
+What was clarified:
+
+- Cassirer now states the inversion explicitly: immediate perception itself counts as mere `Name` unless it can be redeemed in quantitative determination
+- even weight and tactile resistance are withheld from the strict concept of body at this stage; the guiding interest remains logical and geometrical
+- the conservation of matter follows directly from the homogeneous, enduring concept of body rather than being added from empirical accumulation
+- scientific fact is redefined: not every observation counts, only what coheres with the whole of phenomena under systematic principles
+- movement is admitted as a fully legitimate mathematical object, so the theory/application barrier falls here just as it had fallen for matter
+- the hydrostatics example sharpens the method dispute by contrasting universal law with the Peripatetic multiplication of qualitative distinctions
+
+Decision for now:
+
+- keep the conservation / motion line visible; it is one of the strongest local Galileo gains so far
+- continue immediately into the next tranche because the hydrostatics dispute breaks mid-argument and the anti-Peripatetic method claim is still unfolding
+- still no glossary promotion; the gains remain local and well-supported by the current files
+
+## 2026-04-08 - Forty-Ninth Naturphilosophie Tranche
+
+Advanced Galilei through printed pages `396-399` and wrote Part `100`.
+
+What was clarified:
+
+- the hydrostatics dispute is now recast as a general method statement: Galilean cause means the totality of determining conditions and relations sufficient for the effect
+- experience is explicitly both beginning and goal, but only as methodically won observation transformed by geometrical schemata into necessary connection
+- the inertia principle is treated as inseparable from Galilei's whole starting point, not as an isolated mechanics theorem
+- Cassirer sharply refuses the usual empirical/aprioristic quarrel over inertia by insisting that the relevant facts themselves had first to be isolated by thought
+- the critique of Aristotelian projectile theory now runs on two levels at once: logical displacement of the problem onto the medium, and quantitative failure against experience
+- the deepest reversal is again from teleological quality to lawful necessity; velocity becomes a determinate `Wesenheit` only under a general law of preservation
+
+Decision for now:
+
+- keep the inertia line visible as method, not merely mechanics
+- continue directly into the Fracastoro comparison, since Cassirer is clearly widening the issue from one law to a whole contrast of worldviews
+- still no glossary promotion; the current apparatus is sufficient
+
+## 2026-04-08 - Fiftieth Naturphilosophie Tranche
+
+Advanced Galilei through printed pages `400-403` and wrote Part `101`.
+
+What was clarified:
+
+- Fracastoro now functions as the strongest late qualitative counter-image: order, place, and motion are still explained through sympathy, antipathy, and organismic self-preservation
+- `operari sequitur esse` is explicitly overturned; Galilei begins from lawful operation and only then lets kinds of being become distinguishable
+- the older `Empirismus / Rationalismus` opposition is now demoted as too shallow for the Galilean system
+- Cassirer replaces it with the stronger contrast: things or relations, substance or function
+- the link to later philosophy is made fully explicit here; Descartes and Leibniz are treated as later phases of the same shift forced by exact science
+- the sunspot-letter passage gives Galilei's own formulation: substantial essence is inaccessible, but empirical `affezioni` are knowable and can ground stricter science than alleged nearness to things
+- nearness therefore loses epistemic privilege; distance can be better known than proximity when law and measurable determination lead
+
+Decision for now:
+
+- keep the substance/function line visible in the journal, but do not yet widen the glossary on the basis of one strong passage
+- continue directly into the next tranche because the sunspot-letter argument is still unfinished at the page break
+- still no glossary promotion; the terms are live, but the local carry is adequate
+
+## 2026-04-08 - Fifty-First Naturphilosophie Tranche
+
+Advanced Galilei through printed pages `404-407` and wrote Part `102`.
+
+What was clarified:
+
+- Cassirer makes the anti-skeptical point explicit: the renunciation of metaphysical essence is the price of empirical certainty, not a retreat from knowledge
+- the `affezioni` line now broadens into a full view of science as necessarily open-ended progress from appearance to appearance
+- the extensive / intensive distinction sharply redefines scientific value: exact knowledge is measured by validity and certainty, not by exhaustive object-possession
+- the sentence `Es gibt keine Erkenntnis vom Absoluten, wohl aber absolut gewisse Erkenntnisse` is one of the clearest local summaries of the whole Galileo turn
+- induction is now stated in a way that blocks any flattening of Galilei into naive empiricism; the universal premise must be a mathematically grounded relation
+- relation and the relativity of motion are no longer treated as defects but as enabling conditions of exact judgment
+
+Decision for now:
+
+- keep the intensive-certainty line visible; it gives a clean answer to the pressure opened by phenomenal knowledge in Part `101`
+- continue directly into the next tranche because the relativity argument is already turning into the concrete method-example of projectile motion
+- still no glossary promotion; the pressure on `Relation`, `Funktion`, and `Phänomen` is rising, but the current local apparatus still carries it
+
+## 2026-04-08 - Fifty-Second Naturphilosophie Tranche
+
+Advanced Galilei through printed pages `408-411` and wrote Part `103`.
+
+What was clarified:
+
+- the projectile parabola now functions as the clearest method-example of the Galilean turn: different motions become intelligible only through a common mathematical measure
+- `propensione intrinseca` names the exact sort of qualitative residue that must be eliminated before gravity can enter scientific explanation as acceleration
+- the `kompositive` / `resolutive` distinction states with unusual force that application depends on prior analysis of general relations
+- Cassirer now hardens the function/thing reversal: scientific law may abstract not only from the qualities of the empirical thing, but even from its existence
+- the physical concept of space is recast as a product of scientific construction rather than a ready-given sensible order
+- truth is defined operationally: a scientific thesis is true insofar as it gathers the totality of phenomena under one rule
+- the Cremonini turn opens the next direct confrontation between mathematical science and the Peripatetic claim that astronomy belongs to another domain than philosophy
+
+Decision for now:
+
+- keep the space / truth line visible; it is one of the strongest methodological gains in the whole Galileo sequence
+- continue directly into the Cremonini continuation, since the new `Das Phänomen und seine Wahrheit` section is only opening at the break
+- still no glossary promotion; the existing journal and page-map structure remain sufficient
+
+## 2026-04-08 - Fifty-Third Naturphilosophie Tranche
+
+Advanced Galilei through printed pages `412-415` and wrote Part `104`.
+
+What was clarified:
+
+- the Cremonini line now shows the older position failing structurally, not merely factually: teleological `allgemeine Natur` decides in advance what experience may count for
+- Cassirer distinguishes with unusual sharpness between the a priori of mathematical idea and the a priori of purpose
+- the false demand to understand nature by usefulness is rejected as only the coarsest form of teleology
+- the harder break lies with the aesthetic temptation of harmony and perfection of form, where Copernicus and Kepler still remain partly bound
+- Galilei's real advance here is not anti-order but anti-harmony as explanatory principle; lawful determination takes over the work harmony had previously done
+- the polemic against rankings of noble geometric figures starts the same break at the level of mathematical form itself
+
+Decision for now:
+
+- keep the law / harmony line visible; it is one of the strongest late gains in the Galileo arc
+- continue directly into the anti-hierarchy of figures and the retrospective summary, since the Sarsi turn clearly continues beyond the page break
+- still no glossary promotion; the pressure is high, but the current local apparatus still carries it
+
+## 2026-04-08 - Fifty-Fourth Naturphilosophie Tranche
+
+Advanced through printed pages `416-419` and wrote Part `105`, closing the Galilei sequence and opening `4. Die Mathematik`.
+
+What was clarified:
+
+- the anti-hierarchy of figures now completes the break with aesthetic teleology inside geometry itself; `Vollkommenheit` means lawful determinacy, not privileged form
+- Cassirer explicitly gathers the entire Galilei run as an implicit theory of knowledge in act: experience as necessary connection, matter and motion under law, relation and function as governing forms
+- the Campanella / Lyra lines sharpen Galilei's role as inventor of an epistemic instrument rather than only discoverer of scattered results
+- the new mathematics subsection opens by correcting an oversimple reading of the `book of nature` formula
+- physics does not merely receive ready-made geometry; the new physical task forces a new mathematical language and even retroacts upon mathematical concept-formation
+- this is the cleanest local transition yet from thinker-centered history into concept-history of method
+
+Decision for now:
+
+- treat the Galilei arc as locally gathered; the next work should proceed from the mathematics subsection rather than reopening Galileo biographically
+- continue directly into the mathematical development from the new subsection opening
+- still no glossary promotion; the present journals, parts, and anchors are adequate
+
+## 2026-04-08 - Fifty-Fifth Naturphilosophie Tranche
+
+Advanced `Die Mathematik` through printed pages `420-423` and wrote Part `106`.
+
+What was clarified:
+
+- Cassirer sharply narrows the task: the mathematics section is not a technical chronicle but a paradigmatic history of concept-formation
+- the first decisive paradigm is the infinite, treated not only in its explicit formulations but in the actual scientific work it performs
+- Kepler still names the infinite under the older sign of the `apeiron`, but the shift from constant form to variation turns it into a positive operator
+- the integral emerges here less as a formal technique than as the logical power to gather infinitely many varying magnitudes into one determinate whole
+- Galilei's paradoxes then show that `gleich`, `größer`, and `kleiner` cannot simply be transferred from finite to infinite multiplicities
+- the equality problem returns Cassirer to a higher Platonic point: the criterion is ideal and must be constructed, not read off from sensible things
+
+Decision for now:
+
+- keep the integration / equality line visible; it is the cleanest first answer to what the mathematics section is doing philosophically
+- continue directly into the continuum problem, since the infinite-set comparison is already turning into indivisibility and relation
+- still no glossary promotion; `Mächtigkeit` is important, but only as local historical pressure
+
+## 2026-04-08 - Fifty-Sixth Naturphilosophie Tranche
+
+Advanced `Die Mathematik` through printed pages `424-427` and wrote Part `107`.
+
+What was clarified:
+
+- the old actual/potential infinity distinction is now treated as conceptual cover rather than genuine clarification
+- the continuum must be thought as both inexhaustible by division and grounded in indivisible elements
+- this is only coherent if the `Indivisible` is taken as a relation-moment rather than a miniature substance
+- the decisive clarification of the infinite comes not from space alone but from motion, speed, moment, and differential quotient
+- Cassirer is explicit that functional relation provides the first real scientific footing for infinitesimal thought
+- Cavalieri then carries the same logic back into geometry by treating figure as generated through the flowing rule and a latent common variable of continuous change
+
+Decision for now:
+
+- keep the motion / differential-quotient line visible; it is the strongest gain of this first mathematics run
+- continue directly from Cavalieri, since the latent second-variable point is still unfolding at the break
+- still no glossary promotion; `Moment`, `Differentialquotient`, and `Indivisible` remain live local signals rather than stable apparatus terms
+
+## 2026-04-08 - Fifty-Seventh Naturphilosophie Tranche
+
+Advanced `Die Mathematik` through printed pages `428-431` and wrote Part `108`.
+
+What was clarified:
+
+- Cavalieri's `infinitum secundum quid` is only secure if the geometrical infinite is treated as a relational instrument rather than as a being
+- the comparison with algebraic `x` gives the cleanest local expression of that point
+- Roberval's tangent method widens the whole field by deriving the curve from the synthesis of motions
+- Fermat and early analytic geometry appear here as the discovery of a general concept of figure governed by a rule rather than by isolated species
+- projective geometry confirms the same modern turn by translating qualitative opposition into quantitative variation
+- the Benedetti example is strong because projection directly mediates conceptual and physical continuity
+
+Decision for now:
+
+- keep the tangent / figure line visible; it is the clearest bridge from indivisibles to analytic geometry
+- continue directly into Vieta and logarithms, since the transition to algebra is already open at the break
+- still no glossary promotion; the current local apparatus carries the new anchors well
+
+## 2026-04-08 - Fifty-Eighth Naturphilosophie Tranche
+
+Advanced `Die Mathematik` through printed pages `432-435` and wrote Part `109`.
+
+What was clarified:
+
+- Vieta's law of homogeneity is both limit and gain: it requires prior conceptual sameness, but thereby opens a more general symbolic comparability
+- Cassirer uses Galilei's one-line comparison of space, time, and impulse as a concrete case of mathematical homogenization
+- logarithms matter philosophically because they admit variation itself as pure intelligible relation
+- Kepler's `quantitas mentalis` formulation sharpens the point without erasing the fertility of Neper's motion analogy
+- negative and imaginary numbers force the strongest break yet with the older ideal of cognition as mirrored object-content
+- `Definition` now emerges against `Abstraktion vom Einzelnen` as the operative source of valid mathematical concepts
+
+Decision for now:
+
+- keep the definition / function line visible; it is the sharpest current gain in the mathematics run
+- continue directly into the imaginary-number continuation, since the argument breaks while the anti-substantialist point is still unfolding
+- still no glossary promotion; the pressure is real, but still best held in the local files
+
+## 2026-04-08 - Fifty-Ninth Naturphilosophie Tranche
+
+The expected continuation of the number-concept line was a false edge. The source closes `Die Mathematik` directly and opens Book III with `Descartes`; I wrote Part `110` from that actual transition.
+
+What was clarified:
+
+- the Descartes chapter does not begin with inner experience in abstraction, but with the whole anti-syllogistic field already prepared by skepticism, humanism, natural philosophy, and science
+- Cassirer sharply distinguishes Descartes from earlier method-talk: Bacon, Bruno, and Campanella still treat method as auxiliary, not generative
+- the real bridge from Book II to Book III is `Notwendigkeit`, not introspection
+- Descartes starts where exact science had to stop: the scientific use of necessity is accepted, but its transfer from judgment to being is turned into a philosophical problem
+- the Plotinus image now changes function; unity is no longer primarily the unity of being, but the unity of knowledge
+
+Decision for now:
+
+- treat the mathematics run as locally closed; the new work is no longer continuation but a genuine book transition
+- continue directly into the split between method and metaphysics inside the Descartes chapter
+- still no glossary promotion; the new terms are being carried well by the local parts and journal
+
+## 2026-04-08 - Sixtieth Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `444-447` and wrote Part `111`.
+
+What was clarified:
+
+- Cassirer makes the internal separation of method and metaphysics explicit and historically consequential
+- the method-line is primary in Descartes' own development and is the source of his enduring effect
+- metaphysics does not discover scientific principles but later confirms and legitimates them
+- the new `mathesis universalis` emerges from the fusion of logic, geometry, and algebra
+- its real object is not any special domain, but order, measure, proportion, and relation as such
+- this makes Book III feel continuous with the relation/function line rather than a departure into pure inwardness
+
+Decision for now:
+
+- keep the method/metaphysics distinction visible; it is the cleanest anti-misreading guard for the whole Descartes run
+- continue directly into the anti-Aristotelian logic of relations and the critique of syllogistic proof
+- still no glossary promotion; the current apparatus remains sufficient
+
+## 2026-04-08 - Sixty-First Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `448-451` and wrote Part `112`.
+
+What was clarified:
+
+- Descartes' categories are ordered by the requirements of knowledge rather than by the order of being
+- `Logik der Relationen` is now stated as the philosophical result of the scientific developments tracked earlier through Kepler and Galilei
+- Cassirer does not simply reject syllogism; he subordinates synthesis to a prior analytical discovery of principles
+- the geometric construction case and the algebraic equation case show the same thing: once the problem is properly posed, the route to the solution is internally fixed
+- the return to Plato's `Menon` is structural, not ornamental; analysis is exemplary because the problem already contains the conditions of its own resolution
+
+Decision for now:
+
+- keep the analysis / self-sufficiency line visible; it is the strongest current gain in the Descartes opening
+- continue directly from the `Menon` line, since the philosophical meaning of method is still unfolding at the break
+- still no glossary promotion; the present journal and anchors are enough
+
+## 2026-04-08 - Sixty-Second Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `452-455` and wrote Part `113`.
+
+What was clarified:
+
+- Cassirer treats Cartesian geometry first as a reform of the problem-field itself, not as a later symbolic technique
+- the `Geometrie` is the demonstrative proof of method because it overcomes the old isolation of individual problems through a common derivational rule
+- `Ordnung` and `Maß` now exhaust mathematics more sharply than before, and `Messen` is defined as a pure form of `Beziehen`
+- `Dimension` is explicitly anti-ontological: it is a rule of measurability, not a new kind of being added to things
+- the bridge from continuous to discrete magnitude is methodological, through arbitrary unit-choice, rather than metaphysical
+- the point / generated-figure line matters because it makes order prior to later measurement and prepares extension as common measure
+
+Decision for now:
+
+- keep the order-before-measure line visible; it is the strongest gain in this tranche
+- continue directly into the common-nature / common-substrate argument, since the physics consequence is already opening
+- still no glossary promotion; the local parts and new anchors carry the pressure
+
+## 2026-04-08 - Sixty-Third Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `456-459` and wrote Part `114`.
+
+What was clarified:
+
+- exact comparison requires a `gemeinsame Natur`, and Descartes cashes this out through extension as the common substrate of magnitude-comparison
+- the curve / point / fixed-lines construction carries the whole passage directly to the threshold of Cartesian analytic geometry
+- Cassirer explicitly treats this as the logical center from which Descartes' physics proceeds
+- the physical object is reconstructed through spatial dimensions without positing a new ontology of body
+- `Analogie` is reduced to `Proportion`, which is the cleanest local anti-scholastic compression so far
+- extension now functions as `Zeichen der Erkenntnis`: a symbol-schema for scientific objectivation, not a self-standing thing
+
+Decision for now:
+
+- keep the sign/schema line visible; it sharpens the continuity from geometry into physics
+- continue directly into the magnet / innate-idea turn, since the anti-hypostasis warning is still unfolding
+- still no glossary promotion; the present apparatus is enough
+
+## 2026-04-08 - Sixty-Fourth Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `460-463` and wrote Part `115`.
+
+What was clarified:
+
+- the magnet example gives the clearest concrete anti-occult rule in the Descartes chapter so far: gather experiments first, then analyze the simple natures required to generate them
+- extension is still not yet absolute body-substance; it remains an intellectual substrate for measurability and comprehensibility
+- the doctrine of the `eingeborene Idee` is introduced as a positive condition of science, not as a retreat from it
+- extension, figure, and motion are treated as norms and measures of the sensible, not as copies drawn from sensation
+- Cassirer explicitly reconnects this move to Cusanus' `Assimilation`
+- Cartesian `Substanz` is still being held within the relation/function line, because the object of science remains a field of proportions and functions
+
+Decision for now:
+
+- keep the Cusanus / innate-idea line visible; it is the strongest new gain here
+- continue directly into the Gassendi objection and the opening of special physics, since the anti-hypostasis test is already live
+- still no glossary promotion; the current files are carrying the pressure cleanly
+
+## 2026-04-08 - Sixty-Fifth Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `464-467` and wrote Part `116`.
+
+What was clarified:
+
+- the reply to Gassendi makes the anti-anti-mathematical wager fully explicit: if mathematics is excluded from nature, rational judgment loses its criterion
+- special physics is said to follow the same method-rule: admit only what can be expressed as exact magnitude-relation
+- statics becomes philosophically legible through the common work-principle rather than through a list of separate machines
+- the free-fall discussion shows again how geometric representation functions as the key symbolic instrument for physical determination
+- `Relativität der Bewegung` is already philosophically active in Descartes; it blocks the reification of motion and guards against the hypostasis of absolute space
+- the closing Bruno comparison signals that mechanized causality is about to be set against the older animate continuity-model
+
+Decision for now:
+
+- keep the Gassendi / work / relativity chain visible; it is the strongest current gathering of the Descartes physics line
+- continue directly from the Bruno comparison, since the causality contrast is only just opening
+- still no glossary promotion; the journal, parts, and anchors are sufficient
+
+## 2026-04-08 - Sixty-Sixth Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `468-471` and wrote Part `117`.
+
+What was clarified:
+
+- Cassirer now makes Cartesian mechanism fully methodological: the old animate continuity-model is displaced by lawful redistribution of a conserved `Quantität der Bewegung`
+- causality is reduced to a new distribution of motion, leaving the analysis no final residue beyond arithmetic and geometry
+- the diary image of the sciences wearing `Larven` gives the cleanest local formulation yet of method as the recovery of a common chain beneath special objects
+- experience is not excluded by this gathering, but it is explicitly reopened as a method problem
+- the `Regeln` are now read as containing not only a logic of mathematics, but a still only partially executed logic of experience
+- the `truth of the phenomenon` remains decisive, yet always within a law-governed deductive frame rather than as immediate empirical givenness
+
+Decision for now:
+
+- keep the motion-conservation / problem-of-experience line visible; it is the strongest gain of this tranche
+- continue directly into the `Dioptrik` and experimental line, since the experience question is only now becoming concrete
+- still no glossary promotion; the present local apparatus remains sufficient
+
+## 2026-04-08 - Sixty-Seventh Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `472-475` and wrote Part `118`.
+
+What was clarified:
+
+- experience is acknowledged as control of scientific assumption, but never as a source from which truth can simply be read off
+- the magnet and light examples sharpen the same rule: science succeeds by constructing combinations of known simple elements that reproduce the effects
+- analysis determines where and how experiment may legitimately enter
+- the optics example makes this precise by decomposing the refraction problem into simple conditions before observation is allowed to decide
+- the rainbow discussion shows that real induction presupposes a `Modell` and a prior `Gedankenexperiment`
+- `Enumeration` is now explicitly treated as a preparatory stage of deduction rather than as an alternative method
+
+Decision for now:
+
+- keep the analysis-before-experiment line visible; it is the strongest present gain in the experience cluster
+- continue directly into the possible-world and hypothesis line, since the enumeration argument is still unfolding
+- still no glossary promotion; the current parts and anchors carry the pressure
+
+## 2026-04-08 - Sixty-Eighth Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `476-479` and wrote Part `119`.
+
+What was clarified:
+
+- the value of experiment depends not on bare repetition but on whether analysis has isolated the truly typical case
+- Cartesian thought now explicitly constructs a `mögliche Welt` from mathematical principles before returning to the empirical world
+- perception is readmitted not as proof-ground but as selector among the many true deductive series that pure principles make possible
+- the `Geschichte der Phänomene` in Baconian style is admitted as a descriptive orientation layer, not as a rival logic
+- Cassirer gives his strongest local defense yet of scientific hypothesis: explanation and prediction confirm mathematically grounded assumptions without reducing science to a vicious circle
+- the real weakness of Cartesian physics is therefore not hypothesis as such, but the impatience with which Descartes jumps from general principles to complex special phenomena
+
+Decision for now:
+
+- keep the possible-world / hypothesis-defense line visible; it is the clearest current gathering of Cartesian experience theory
+- continue directly into the collision-laws and self-critique line, since that is now the live edge of the chapter
+- still no glossary promotion; the journal, parts, and anchors remain enough
+
+## 2026-04-08 - Sixty-Ninth Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `480-483` and wrote Part `120`.
+
+What was clarified:
+
+- Cassirer now gives the strongest internal critique yet of Cartesian physics: the foundations are sound, but the concrete derivation of cases ceases to obey them
+- the collision-laws example is decisive because it shows Descartes failing the `kontinuierliche Bewegung des Denkens` test set by the `Regeln`
+- Descartes' attack on Galilei is revealing because it rejects abstraction and idealization at exactly the point where his own method should defend them
+- the real methodological error is not hypothesis but the demand for an immediate Deckung between rational law and concrete empirical actuality
+- Cassirer explicitly defines genuine idealism by a maintained distance between `Wahrheit` and `Wirklichkeit`
+- the pressure toward metaphysics is now intelligible from within the physics itself: the laws of thought do not yet guarantee the existence of things
+
+Decision for now:
+
+- keep the truth/reality-gap line visible; it is the strongest gain of this tranche
+- continue directly into the `Meditationen` opening, since metaphysics is arising here from method-pressure rather than from a topic change
+- still no glossary promotion; the current local files remain sufficient
+
+## 2026-04-08 - Seventieth Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `484-487` and wrote Part `121`.
+
+What was clarified:
+
+- Cassirer sharply restricts the opening of the `Meditationen`: the first aim is not to prove a substantial thinker, but to secure a criterion of certainty
+- the metaphysical turn is reconstructed as a generalization of the analytical method of the `Regeln`
+- the `reine Verstand` is first defined through the stable formal principles of cognition, continuous with universal mathematics
+- doubt does not touch the inner systematic truth of these principles
+- the wax example is now made decisive at a deeper level: not merely primary qualities, but the unity of the object itself cannot be supplied by sensation or imagination
+- object-identity is therefore shown to be a work of `inspection de l'esprit`
+
+Decision for now:
+
+- keep the criterion-of-certainty / object-unity line visible; it is the strongest present gain in the metaphysical turn
+- continue directly into perception and judgment, since the wax analysis is already opening beyond the object to the function of intellect
+- still no glossary promotion; the present parts and anchors carry the pressure
+
+## 2026-04-08 - Seventy-First Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `488-491` and wrote Part `122`.
+
+What was clarified:
+
+- Cassirer now treats perception explicitly as a sign-language rather than a copy of things
+- Gassendi's objection is answered by denying that cognition begins from a dogmatically assumed real commerce between mind and thing
+- sensations, localization, and even memory are all recast as intellect-dependent operations
+- `Wahrheit` and `Falschheit` arise only at the level of the understanding and its judgment-function
+- the function of `Urteil` now gathers objecthood, truth, and the correction of appearances into one point
+- the `cogito` receives a two-sided clarification: immediate certainty of lived consciousness and inseparable object-reference in every act of thought
+
+Decision for now:
+
+- keep the sign-language / judgment-function line visible; it is the strongest current gain in the Descartes metaphysics run
+- continue directly from the two-sided `cogito`, since the argument is still unfolding
+- still no glossary promotion; the local apparatus remains adequate
+
+## 2026-04-08 - Seventy-Second Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `492-495` and wrote Part `123`.
+
+What was clarified:
+
+- Cassirer now makes explicit that the metaphysical shift does not arise because the methodical object-analysis is exhausted, but because Descartes wants the whole field of clear and distinct cognition secured as reality
+- the ontological argument is repurposed here less as theology than as a proof of nature
+- the divine guarantee adds no new determinate content to the deductive system; it tries only to confer a new form of Geltung
+- this makes the move circular, since the Gottesbegriff receives its meaning only from the order of cognition it is supposed to ground
+- `Wahrhaftigkeit Gottes` is thus reduced to the unbedingte Wahrhaftigkeit der obersten Erkenntnisprinzipien
+
+Decision for now:
+
+- keep the God-as-guarantee line visible; it is the strongest gain of this tranche
+- continue directly into the eternal-truths and infinity problem, since the real pressure now falls on the content of the guarantee
+- still no glossary promotion; the present local files remain sufficient
+
+## 2026-04-08 - Seventy-Third Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `496-499` and wrote Part `124`.
+
+What was clarified:
+
+- the actual limit of Cartesian metaphysics appears where `ewige Wahrheiten` become products of divine will rather than conditions of intelligibility
+- this move sacrifices the core principle of rationalism by turning cognitive laws into contingent Einrichtungen
+- the same reversal appears in the treatment of the `Unendliche`, which is expelled from the inner function of thought and relocated into a transcendent original
+- Cassirer answers by insisting that infinity is already functionally present in pure thought, for instance in the number progression from `n` to `n + 1`
+- the metaphysical guarantee is now shown not merely to add something unnecessary, but to damage the structure of reason it was meant to secure
+
+Decision for now:
+
+- keep the anti-voluntarist / functional-infinity line visible; it is the strongest current gain in the metaphysical critique
+- continue directly into `eingeborene Ideen` and imagination, since the same instability is about to spread there
+- still no glossary promotion; the present apparatus is enough
+
+## 2026-04-08 - Seventy-Fourth Naturphilosophie Tranche
+
+Advanced `Descartes` through printed pages `500-503` and wrote Part `125`.
+
+What was clarified:
+
+- `eingeboren` splits into two incompatible meanings: productive capacity of method and passive imprint of metaphysical psychology
+- in its first sense Descartes remains a rationalist of activity; in the second the doctrine becomes vulnerable to the sensualist critique
+- the problem of imagination is now the key diagnostic term of the whole slide from method to metaphysics
+- the same faculty that had served as indispensable instrument of exact cognition is made to support the real distinction of mind and body
+- once the act of relation to body is reinterpreted as proof of body as independent substance, genuine mediation between Geist and Körper collapses
+- the mind-body problem is thus shown as a downstream consequence of earlier conceptual shifts rather than as an isolated puzzle
+
+Decision for now:
+
+- keep the split-`eingeboren` / imagination line visible; it is the clearest gain of this tranche
+- continue directly from the Geist/Körper difficulty, since that is now the live edge of the chapter
+- still no glossary promotion; the local apparatus remains adequate
