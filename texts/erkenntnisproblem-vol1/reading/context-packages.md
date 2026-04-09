@@ -226,7 +226,47 @@ Why:
 Avoid:
 
 - loading large primary prose bodies from both projects together
+- comparing by author-mapping before the local problem-structure is clear
 - answering the cross-project question before both sides have earned it from direct reading
+
+### Package 7: Volume I high-level integration
+
+Use when:
+
+- writing a high-level synthesis of completed Volume I
+- preparing a bounded cross-volume handoff
+- checking what is mature enough for controlled cross-project comparison
+
+Load on top of Package 1:
+
+1. `texts/erkenntnisproblem-vol1/reading/2026-04-08-volume-i-close-review.md`
+2. `texts/erkenntnisproblem-vol1/reading/2026-04-08-earned-distillation-from-volume-i.md`
+3. `texts/erkenntnisproblem-vol1/reading/2026-04-08-whole-run-parts-journal-ledger-scratch-note.md`
+4. `texts/erkenntnisproblem-vol1/reading/2026-04-08-artifact-integrity-audit.md`
+5. `texts/erkenntnisproblem-vol1/journal.md`
+
+Optional bounded check:
+
+- `texts/erkenntnisproblem-vol1/interpretive-notes.md` only after the source-bound synthesis is already written, and only to test whether a comparison remains at the level of problem-structure rather than author-mapping
+
+Suggested output shape:
+
+1. main intellectual arc
+2. major internal transitions
+3. strongest findings now earned
+4. live unresolved pressures and debts
+5. what is mature enough for cross-project comparison, and what should remain local
+
+Why:
+
+- these files are now the smallest trustworthy set for a source-bound whole-volume integration
+- they preserve both argument arc and honesty about the late-run debt map
+
+Avoid:
+
+- starting from all `parts/*.md`
+- using `interpretive-notes.md` as a primary authority surface
+- exporting cross-project analogies before the local synthesis is stable
 
 ## Current use notes
 
