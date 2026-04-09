@@ -1888,6 +1888,598 @@ Current downstream use:
 - reflected in Part `125`
 - held locally while the next tranche continues from the mind-body difficulty
 
+### Descartes: limits and clear-distinct criterion
+
+Passage base:
+
+- Part `126`
+- printed pages `504-507`
+
+Finding:
+
+- Descartes fails where method is forced to solve the problem of absolute substance
+- the historical gain survives that failure because metaphysical conflict itself has been transferred onto methodological ground
+- the real successor-problem becomes the fate of `klarer und deutlicher Erkenntnis`
+- clear and distinct cognition begins as self-active rational production and loses force when referred back to God as origin
+
+Why it matters:
+
+- this is the clearest point yet where Cassirer's Descartes judgment becomes simultaneously critical and affirmative
+- it also opens the full post-Cartesian field through a criterion-of-certainty problem rather than a thinker-by-thinker survey
+
+Current downstream use:
+
+- reflected in Part `126`
+- held locally while the next tranche follows the Augustinian recoding of the criterion into Pascal
+
+### Cartesianism, Augustinianism, and Pascal's rational knowledge
+
+Passage base:
+
+- Part `127`
+- printed pages `508-511`
+
+Finding:
+
+- modern grounding requires principles to prove themselves in scientific consequences rather than in metaphysical origin
+- Augustine and Descartes differ less by their use of mathematics than by what mathematics is for
+- Pascal enters as anti-Cartesian in dogma but Cartesian in scientific-method temper
+- the `Traité du vide` establishes Pascal's early commitment to reason, experience, and indefinite advance
+
+Why it matters:
+
+- this is the clearest local statement yet of Cassirer's forward-justification rule for modern thought
+- it also prevents Pascal from being flattened into a merely religious figure from the start
+
+Current downstream use:
+
+- reflected in Part `127`
+- held locally while the next tranche tests the geometry-fragment against the later skeptical Pascal
+
+### Pascal: geometry, first principles, and the infinite
+
+Passage base:
+
+- Part `128`
+- printed pages `512-515`
+
+Finding:
+
+- geometry remains the model because it joins rigorous analysis with a lucid recognition of first principles
+- `natürliches Licht` still grounds confidence in space, time, and motion
+- the infinite is still an internal demand of thought and geometry rather than a transcendent humiliation of reason
+- the real conflict is still between intellect and imagination
+
+Why it matters:
+
+- this is the strongest positive Pascal tranche in the run so far
+- it also sets up the later reversal with much more precision than a generic contrast between science and faith would allow
+
+Current downstream use:
+
+- reflected in Part `128`
+- held locally while the next tranche follows the redirection of thought into ethics
+
+### Pascal: dignity of thought and ethics
+
+Passage base:
+
+- Part `129`
+- printed pages `516-519`
+
+Finding:
+
+- thought becomes Pascal's ethical center rather than the organ of exact science
+- the greatness / misery contradiction is built from the text as an analytical structure
+- Pascal still acts as a psychological analyst while displacing science from philosophical centrality
+- reason can diagnose the ethical contradiction but not resolve it
+
+Why it matters:
+
+- this is the tranche where the Pascal line turns decisively without yet surrendering analysis
+- it also prepares original sin as an explanatory move rather than a sudden dogmatic intrusion
+
+Current downstream use:
+
+- reflected in Part `129`
+- held locally while the next tranche tests how the contradiction is dogmatically closed
+
+### Pascal: original sin, skepticism, and God-truth
+
+Passage base:
+
+- Part `130`
+- printed pages `520-523`
+
+Finding:
+
+- original sin is installed as the sole explanatory hypothesis for the human contradiction
+- skepticism becomes the necessary ally of faith rather than its opponent
+- `les principes se sentent` relocates even mathematical first principles from thought to feeling
+- Cassirer ties this crisis back to Descartes' own destabilization of necessary truth
+
+Why it matters:
+
+- this is the sharpest negative hinge in the whole Pascal run
+- it also makes the Pascal crisis genealogical rather than merely confessional
+
+Current downstream use:
+
+- reflected in Part `130`
+- held locally while the next tranche follows the authority-turn and the Montaigne contrast
+
+### Pascal: authority and the Montaigne break
+
+Passage base:
+
+- Part `131`
+- printed pages `524-527`
+
+Finding:
+
+- the deepest loss in Pascal is ethical and social: humanity yields to the elect and morality to redemption-doctrine
+- the unresolved Cartesian will/intellect relation remains active in the background
+- grace detached from self-activity drives practice toward ritual and external mechanism
+- Montaigne's doubt remains method, whereas Pascal's doubt becomes a fixed result explained by dogma
+
+Why it matters:
+
+- this is the cleanest closure of the Pascal line now available in the chapter
+- it also gives a strong criterion for distinguishing modern skeptical method from anti-rational dogmatic skepticism
+
+Current downstream use:
+
+- reflected in Part `131`
+- held locally while the next tranche reopens at `Logik und Kategorienlehre`
+
+### Logic and categories: psychology and the reality of ideas
+
+Passage base:
+
+- Part `132`
+- printed pages `528-531`
+
+Finding:
+
+- the new science demands a new logic, but the Cartesian school largely leaves the old Aristotelian proof-framework standing
+- Clauberg and Port-Royal modernize examples more than structure and drift toward psychology
+- the criterion of clear and distinct knowledge is reopened through the problem of reality
+- Regis turns ideas, innate concepts, and eternal truths back toward representational realism and created substrata
+
+Why it matters:
+
+- this is the real opening of the post-Pascal field in Book III
+- it also shows that the logical crisis is not separate from the metaphysical one already tracked in Descartes and Pascal
+
+Current downstream use:
+
+- reflected in Part `132`
+- held locally while the next tranche tests Geulincx as the first real critical recovery
+
+### Geulincx: critique of understanding and allegorical metaphysics
+
+Passage base:
+
+- Part `133`
+- printed pages `532-535`
+
+Finding:
+
+- Geulincx sharply separates forms of understanding from the being of things
+- the critique of secondary qualities is extended to the categories of thought themselves
+- cognition cannot escape its conditioned standpoint, but it can know that standpoint as conditioned
+- the old metaphysics persists through allegory and explanatory imagery even where it claims to reason
+
+Why it matters:
+
+- this is the first real advance in the logic section beyond compromise and relapse
+- it also sharpens the anti-Aristotelian struggle into a critique of projected ontology and rhetorical explanation
+
+Current downstream use:
+
+- reflected in Part `133`
+- held locally while the next tranche continues from the anti-allegorical polemic
+
+### Geulincx: teleology, dogmatism, and concept-illusion
+
+Passage base:
+
+- Part `134`
+- printed pages `536-539`
+
+Finding:
+
+- teleology is now criticized as explanatory ornament: beauty, harmony, hierarchy, and symbolic correspondence are treated as seductions of reason rather than grounds of knowledge
+- metaphysical dogmatism is exposed by contrast with mathematics, where alleged `forms` and axioms would immediately fail if forced into real proof
+- Geulincx' positive sequence is explicit: arithmetic and geometry, then deduction, then metaphysics, then natural science through facts, experiment, and physical hypothesis
+- scholastic philosophy is recast as a unified illusion of the concept, in which operations of thought are reified into object-properties
+- the live hinge is the shift from fixed conceptual products to the synthesizing acts that generate them
+
+Why it matters:
+
+- this is the tranche where Geulincx becomes more than a critic of rhetoric and appears as a real post-Cartesian organizer of method
+- it also opens the stronger anti-ontological line by treating `being`, unity, whole/part, and related notions as functions of thought rather than furniture of things
+
+Current downstream use:
+
+- reflected in Part `134`
+- held locally while the next tranche continues from `Die Verdinglichung der geistigen Funktionen`
+
+### Geulincx and Burthogge: thing-concept, dualism, and `modus concipiendi`
+
+Passage base:
+
+- Part `135`
+- printed pages `540-543`
+
+Finding:
+
+- Geulincx extends the critique of scholasticism into the thing-concept itself by tracing substance back to grammar and the sentence-form
+- Cassirer states the stronger unrealized consequence explicitly: objectivity should shift from transcendent things to scientific understanding
+- Geulincx fails at the point of Cartesian dualism and rebuilds metaphysics through occasionalism
+- Burthogge appears as a real continuer because `notion` is defined as `modus concipiendi`, a procedure and point of view under which objects are apprehended
+- the active problem is no longer only false ontology but the positive relation between category, apprehension, and objectivity
+
+Why it matters:
+
+- this is the cleanest hinge yet from critique to successor-construction in the logic section
+- it also gives a sharp criterion for later figures: whether they continue the operation-level critique or relapse into dualist metaphysics
+
+Current downstream use:
+
+- reflected in Part `135`
+- held locally while the next tranche continues directly into Burthogge's category analysis
+
+### Burthogge: system of concepts and substance as category
+
+Passage base:
+
+- Part `136`
+- printed pages `544-547`
+
+Finding:
+
+- Burthogge explicitly treats entity, thing, substance, accident, cause, whole, and part as forms under which the mind apprehends objects
+- the understanding is conditioned no less than sense; it is another medium through which reality is refracted
+- the thing-concept is exposed as a highly general notion rather than a primitive realist anchor
+- substance and accident become `modi concipiendi`, not object-properties
+- the mental/physical distinction is thereby reopened as a problem of category-use rather than as a comparison of ready-made substances
+
+Why it matters:
+
+- this is the strongest positive advance in the section after the Geulincx critique
+- it also sets a clear test for the next pages: whether Burthogge can remain within this critical line once causality and metaphysical reality return
+
+Current downstream use:
+
+- reflected in Part `136`
+- held locally while the next tranche tests where Burthogge starts to yield ground
+
+### Burthogge: matter, thought, and the causal relapse
+
+Passage base:
+
+- Part `137`
+- printed pages `548-551`
+
+Finding:
+
+- Burthogge can distinguish matter and thought critically as long as he stays within phenomena and the concepts that order them
+- `the Real Notional way` names this disciplined, concept-mediated realism from within
+- the relapse occurs at a single category: cause and effect are no longer left as `esse cognitum` but are made to certify transcendent being
+- this produces a hybrid structure: epistemology above, dynamic spiritualized nature-philosophy below
+- force displaces substance only to reinstall a metaphysical energetic cosmos
+
+Why it matters:
+
+- this is the cleanest case so far of a nearly critical line collapsing at one load-bearing category
+- it also sets up the next comparison sharply, since Malebranche will now enter under a more explicit idealist and psychological pressure
+
+Current downstream use:
+
+- reflected in Part `137`
+- held locally while the next tranche closes the Burthogge comparison and stabilizes the Malebranche opening
+
+### Burthogge retrospective and Malebranche's psychological opening
+
+Passage base:
+
+- Part `138`
+- printed pages `552-555`
+
+Finding:
+
+- Geulincx and Burthogge are now measured explicitly against a stronger standard than their own negative critique can meet
+- the real missing step is the positive grounding of categories in the possibility of experience
+- Malebranche opens as the point where idealism turns toward psychology, imagination, and the causes of error
+- self-consciousness is denied the role of direct epistemic foundation because the soul is given only confusedly, not in a distinct scientific idea
+- psychology becomes the preparatory labor of knowledge rather than a privileged inward revelation
+
+Why it matters:
+
+- this is the cleanest transition yet between major figures in Book III
+- it also establishes the real problem-field of the Malebranche section before metaphysical details proliferate
+
+Current downstream use:
+
+- reflected in Part `138`
+- held locally while the next tranche continues the self-knowledge and soul/body line in Malebranche
+
+### Malebranche: self-knowledge, occasionalism, and the end of absolute matter
+
+Passage base:
+
+- Part `139`
+- printed pages `556-559`
+
+Finding:
+
+- self-consciousness guarantees the soul's existence more immediately than the body's, but gives no distinct scientific idea of its nature
+- clear ideas remain relations; psychic contents become objectively knowable only through lawful correlation with physical processes
+- Malebranche's occasionalism is therefore recast as an epistemic demand, not merely as an externally imposed divine arrangement
+- the critique of substance now governs psychology and physics alike by restricting both to phenomena and their lawful connection
+- `absolute matter` is eliminated as a useless hidden substrate, and the next explicit target becomes causal force
+
+Why it matters:
+
+- this is the cleanest Malebranche gain so far, because the section's psychological opening now locks directly into its methodological payoff
+- it also sets the next test sharply: whether the same phenomenal restriction can really dislodge efficacy and force rather than only hidden substance
+
+Current downstream use:
+
+- reflected in Part `139`
+- held locally while the next tranche completes the force/causality critique opened at the end of page `559`
+
+### Malebranche: force, relativism, and the concept of relation
+
+Passage base:
+
+- Part `140`
+- printed pages `560-563`
+
+Finding:
+
+- force is denied any intelligible standing in either outer or inner experience; only lawful relation among motions remains
+- Cassirer distinguishes Malebranche sharply from Hume by preserving the intelligibility of exact mechanics under quantitative law
+- the scientific line is reconnected explicitly to Kepler and Galilei through the transformation of force into function
+- `Relativismus` is first treated as biological and psychological limitation, tied to Baconian error-analysis and the senses' practical role
+- the deeper gain comes at `Der Grundbegriff der Relation`, where truth itself is defined as `reale Beziehung` and method is gathered under universal geometry
+
+Why it matters:
+
+- this is the point where the Malebranche section stops being mainly critical and begins to rebuild a positive theory of scientific intelligibility
+- it also sets the next question sharply: what kinds of contents can count within truth as relation, once psychology is no longer doing the main work
+
+Current downstream use:
+
+- reflected in Part `140`
+- held locally while the next tranche continues from `Wahrheit` as `reale Beziehung`
+
+### Malebranche: relation, divine law, and psychological idealism
+
+Passage base:
+
+- Part `141`
+- printed pages `564-567`
+
+Finding:
+
+- the doctrine of relation is completed positively: ideal relations are eternal and become the measure of all sciences
+- `Relativität` thereby changes meaning from limitation of knowledge to the very intelligible form of its completion
+- the unresolved problem then shifts to law itself: once things no longer act, the efficacy of laws is grounded in divine will
+- this produces the continuous-creation picture and breaks the continuity of motion at the metaphysical level
+- the opening of `Der psychologische Idealismus` turns the section toward representation, dream, illusion, and the non-givenness of transcendent bodies
+
+Why it matters:
+
+- this is the clearest internal fracture in the Malebranche run so far: the method-line reaches its high point and then immediately seeks metaphysical security
+- it also establishes the next problem sharply, since the proof-of-bodies issue now returns under a stronger idealist pressure than in Descartes
+
+Current downstream use:
+
+- reflected in Part `141`
+- held locally while the next tranche continues the psychological-idealist line from the body-proof problem
+
+### Malebranche: critique of the ontological proof and idea versus perception
+
+Passage base:
+
+- Part `142`
+- printed pages `568-571`
+
+Finding:
+
+- Malebranche abandons the Cartesian proof of bodies and treats the move from ideas to material things as a product of prejudice rather than logic
+- the anti-Spinozist point is exact: intelligible extension does not entail existing substrate, and existence cannot be extracted from the clarity of the idea
+- revelation appears only as a non-philosophical restoration of bodies, which makes the philosophical critique of `absolute matter` sharper rather than weaker
+- Cassirer now states the Berkeley pressure openly through the question of the eternal truths
+- `Idee und Perception` turns the whole problem from objecthood toward the need for `dauernde Gedanken` beyond the flow of perceptions
+
+Why it matters:
+
+- this is the point where the Malebranche line stops being mainly anti-material and becomes a direct problem about universality and scientific constancy
+- it also sets the next task cleanly: the section now has to show how rule and truth survive once objects no longer ground them
+
+Current downstream use:
+
+- reflected in Part `142`
+- held locally while the next tranche continues from `dauernde Gedanken`
+
+### Malebranche: idea, infinity, and intelligible extension
+
+Passage base:
+
+- Part `143`
+- printed pages `572-575`
+
+Finding:
+
+- `Idee` and `Perception` are separated cleanly as object-side rule versus subjective state
+- mathematics shows that deduction depends on the object of thought, not on the inner condition of the thinker
+- infinity and generality block the psychological theory of concepts by making the universal prior to its instances
+- hyperbola/asymptote and one all-encompassing space become the decisive examples of that priority
+- the final move is metaphysical: `intelligible Ausdehnung` names the common luminous ground from which certainty comes
+
+Why it matters:
+
+- this is the positive reconstruction that answers the Berkeley threat without restoring material objecthood
+- it also sets the final question of the section cleanly: how far this Augustinian ground extends into the whole field of objective knowledge
+
+Current downstream use:
+
+- reflected in Part `143`
+- held locally while the next tranche generalizes `intelligible Ausdehnung`
+
+### Malebranche: eternal truths and Arnauld's objection
+
+Passage base:
+
+- Part `144`
+- printed pages `576-579`
+
+Finding:
+
+- intelligible extension is now generalized into ordinary perception, so empirical objecthood itself depends on the idea-world
+- Malebranche's historical middle position is made fully explicit: modern epistemic necessity secured by older metaphysical ontology
+- the function of validity hardens into contents and powers of the divine intellect
+- the problem of eternal truths is therefore the exact point where strength and weakness coincide
+- Arnauld's opening objection targets the ontological duplication of idea and perception rather than their relational distinction as such
+
+Why it matters:
+
+- this is the clearest statement yet of the structural defect Cassirer sees in Malebranche
+- it also sets the next edge sharply: the Arnauld debate now becomes the instrument for pressing that defect to its limit
+
+Current downstream use:
+
+- reflected in Part `144`
+- held locally while the next tranche continues the Arnauld critique
+
+### Arnauld, optics, and the unconditioned eternal truths
+
+Passage base:
+
+- Part `145`
+- printed pages `580-583`
+
+Finding:
+
+- Arnauld exposes the sophism of treating object-presence as a prior metaphysical fact rather than as the bare givenness of content
+- he nonetheless fails to reconstruct the path from sensory signs to objective determination
+- Malebranche therefore retains the methodological advantage through optics and the spatial objectification of sensation
+- that advantage deforms again once ideal extension is treated as an affecting cause rather than as a rule
+- the turn to the eternal truths shows Malebranche rejecting voluntarism because science requires unconditional necessity
+
+Why it matters:
+
+- this is the clearest balance-point yet between Arnauld's critical force and Malebranche's constructive superiority
+- it also sets the next edge sharply: how Malebranche will hold unconditional truth together with his metaphysical framework
+
+Current downstream use:
+
+- reflected in Part `145`
+- held locally while the next tranche continues the eternal-truth problem
+
+### Malebranche, objective rational law, and the Bayle opening
+
+Passage base:
+
+- Part `146`
+- printed pages `584-587`
+
+Finding:
+
+- Malebranche's anti-voluntarism reaches its sharpest form: eternal truths are necessary in themselves and reason is not subordinate to decree
+- the remaining weakness is the continuing pull toward a legislator behind the law
+- Bayle is introduced as a real Cartesian outcome, especially through Malebranche's transformed concept of eternal truths and ideality
+- the comparison with Montaigne shows that Bayle's heavy learned form serves a new positive task rather than simple scholastic relapse
+- the new pressure-point is explicit: Cartesianism lacks a true grounding of ethics and history, not just of logic
+
+Why it matters:
+
+- this is a genuine historical handoff, not a mere page break
+- it also gives the Bayle chapter its real starting pressure before any local doctrines proliferate
+
+Current downstream use:
+
+- reflected in Part `146`
+- held locally while the next tranche continues Bayle as the critical continuer of Cartesianism
+
+### Bayle: historical critique, reason, and revelation
+
+Passage base:
+
+- Part `147`
+- printed pages `588-591`
+
+Finding:
+
+- Bayle's skepticism starts from rational authority over history and tradition rather than from their suspension
+- the `historique` and the `critique` sides of the Dictionnaire form one program
+- conscience and universal rational rule remain the tribunal for revelation and ethics
+- the skeptical line is still structurally close to the Reformation motive of inward testing
+- the theoretical scope of Bayle's skepticism is delimited at the edge: things, not concepts, are the target
+
+Why it matters:
+
+- this is the cleanest opening of Bayle's project as a positive rational-historical critique
+- it also prevents a later misreading of Bayle as beginning from pure negation
+
+Current downstream use:
+
+- reflected in Part `147`
+- held locally while the next tranche follows the Eleatic/antinomic turn
+
+### Bayle: antinomies of the infinite and the fate of theoretical reason
+
+Passage base:
+
+- Part `148`
+- printed pages `592-595`
+
+Finding:
+
+- Bayle turns the antinomies of the infinite into a weapon against absolute matter and motion
+- ideality is strengthened, not weakened, by this move
+- conceptual truth survives, but absolute thing-being does not
+- the result for revelation is total non-mediation: either unconditional submission or contradiction
+- Bayle keeps the unity of theoretical reason only to surrender it wholly
+
+Why it matters:
+
+- this is the decisive theoretical Bayle gain in Volume I
+- it also explains why the ethical counter-line now has to appear if the position is to remain livable at all
+
+Current downstream use:
+
+- reflected in Part `148`
+- held locally while the next tranche reconstructs the ethical reversal
+
+### Bayle: ethical reason, psychological motive, and the limits of critique
+
+Passage base:
+
+- Part `149`
+- printed pages `596-601`
+
+Finding:
+
+- Bayle preserves ethical reason and toleration by sacrificing theoretical reason
+- his practical end is freedom of conscience rather than scientific completion
+- the deeper motive is anthropological pessimism rather than simple dogmatic obedience
+- his reason remains too scholastic and dissolving to complete the critical work it begins
+- Voltaire and Newton are named as the necessary continuation beyond Bayle
+
+Why it matters:
+
+- this is the actual close of Volume I and Cassirer's final balance on Bayle
+- it also marks the correct next move: not more forward translation here, but post-volume review or Volume II
+
+Current downstream use:
+
+- reflected in Part `149`
+- held as the closure state of Volume I
+
 ## Boundary
 
 This ledger is not a second journal and not a free synthesis file.

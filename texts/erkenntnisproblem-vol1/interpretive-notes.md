@@ -151,9 +151,9 @@ If it later seems that a trigger may already have been passed:
 
 Current state:
 
-- no obvious trigger has appeared yet in the Descartes run through Parts `120-125`; the material is still inside judgment, perception, innate ideas, and the `Geist/Körper` difficulty
+- no obvious trigger has appeared yet through Parts `126-133`; the run has moved through Pascal, authority, and post-Cartesian logic, but not yet into myth, state, culture, or the civilizational generalization of measure
 
 Decision for now:
 
 - keep this as a watchpoint, not a standing thread
-- carry it into `session-ledger.yaml` only at the next clean handoff, not mid-pass
+- carry it in `session-ledger.yaml` at clean handoff points, not as a standing interruption to forward translation

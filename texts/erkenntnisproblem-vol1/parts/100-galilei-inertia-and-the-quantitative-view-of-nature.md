@@ -33,7 +33,7 @@ Wenn Aristoteles weiterhin die Erhaltung der „natürlichen“ Bewegung zugesta
 Wir müssen an diesem Punkte länger verweilen: denn hier stehen wir an einem Wendepunkt, an dem sich die Zeitalter scheiden. Um uns den Stand des Problems, wie Galilei ihn vorfand, völlig zu vergegenwärtigen, dürfen wir nicht sowohl die Aristotelische Ansicht selbst, wie ihre Ausführung und Darstellung in der neueren Naturphilosophie zu Grunde legen. Hier bietet uns insbesondere die Bewegungslehre des Fracastoro ein typisches Beispiel: denn dieser faßt die überlieferte Theorie noch einmal prägnant zusammen, wie er anderseits, als Arzt und Naturforscher bemüht ist, sie der Erfahrung und Einzelbeobachtung zu nähern und anzupassen. Die inneren Schwierigkeiten, die sich der neuen Fragestellung entgegenstellten, können wir uns hier am Beispiel eines Denkers verdeutlichen, der die Bekämpfung der „dunklen Qualitäten“ und die Erforschung der echten, realen Mittelursachen bereits als Grundaufgabe der Forschung erkennt und ausspricht. Auch bei ihm ist es noch der Begriff der quali-
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 ... for the Peripatetic, material cause is only one isolated moment whose efficacy depends on the inner constitution of the subject it affects. Galileo instead takes cause as the totality of conditions and relations whose positing entails the effect with necessity. Experience therefore remains both beginning and goal, but only as methodically won observation transformed by geometrical schemata into necessary connection.

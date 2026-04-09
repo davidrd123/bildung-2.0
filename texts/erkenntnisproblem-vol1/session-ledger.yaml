@@ -11,6 +11,24 @@
 # `formation_notes` is optional raw trace and should only keep real shifts in
 # stance or framing, not recap.
 
+standing_watchpoints:
+  - name: cassirer_junger_measure_watchpoint
+    status: active
+    scope: "Local hook for `erkenntnisproblem-vol1` only; not a repo-wide convention."
+    trigger:
+      - "A live tranche widens from scientific objectivity into myth or symbolic world-order."
+      - "A live tranche widens into state, culture, or collective formation."
+      - "A live tranche treats measure, allotment, or sameness as a broader civilizational ordering power."
+      - "A live tranche makes scientific authority look like one case of a wider life-world or administrative ordering."
+    action:
+      - "Finish the tranche, then stop."
+      - "Compare the last one to three parts and the latest journal entry against `00-Notes/cross-project/cassirer-junger-method-break-and-time-crisis.md`."
+      - "Record the result locally before widening any architecture or standing notes."
+      - "If the contact is only broad modernity-talk, drop it and continue translating."
+    current_state:
+      - "No obvious trigger has appeared yet through Parts 126-133."
+      - "The run has moved through Pascal, authority, and post-Cartesian logic, but not yet into myth, state, culture, or the civilizational generalization of measure."
+
 sessions:
   - date: 2026-04-07
     collaborator: claude-opus-4.6-cli
@@ -1185,3 +1203,626 @@ sessions:
       - "The strongest gain here is that the whole Descartes metaphysics run now reads as a progressive deformation of earlier methodological strengths."
       - "Infinity and `eingeboren` both now look like structurally important test-terms for later returns."
       - "The next tranche should continue from the Geist/Körper difficulty rather than resetting to a broad Descartes overview."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 126
+      - 127
+      - 128
+      - 129
+      - 130
+      - 131
+
+    state_on_entry:
+      - "Part 125 had ended with the collapse of genuine mediation in `Der Zusammenhang von Geist und Körper`."
+      - "The main pressure was whether the next pages would merely tidy Descartes' ending or would open a new successor-problem through the criterion of certainty."
+
+    what_shifted:
+      - "Descartes was closed by a double judgment: failure at absolute substance, but historical victory through the transfer of metaphysical conflict into the methodological field."
+      - "The post-Cartesian problem was explicitly recast as the fate of `klarer und deutlicher Erkenntnis` rather than as a bare doctrine of substances."
+      - "Pascal first emerged on the side of scientific method rather than dogma, through the `Traité du vide` and the geometry-fragment."
+      - "The geometry-fragment kept `natürliches Licht` and the infinite inside reason as an internal demand of thought."
+      - "The ethical turn then displaced science from the center without abandoning analysis; greatness and misery were earned as a real contradiction."
+      - "Original sin became the sole explanatory hypothesis for that contradiction, and skepticism became the necessary ally of faith."
+      - "Mathematical first principles were relocated from thought to feeling through `les principes se sentent`."
+      - "The Pascal line closed in authority, ritual, and the break with Montaigne's skeptical method, while also exposing the unresolved Cartesian will/intellect problem behind it."
+
+    unresolved:
+      - "Need the next tranche from printed 528-531 / PDF 552-555."
+      - "Need to see how `Logik und Kategorienlehre` reopens the field after the Pascal close."
+      - "Need to watch whether the new logic sequence stays psychologized or whether Cassirer immediately forces it back toward mathematics and method."
+
+    re_entry_instructions:
+      - "Read Part 131 first; the live edge is the contrast between Montaigne's doubt as method and Pascal's doubt as dogmatically fixed result."
+      - "Extract the next raw page range: printed 528-531 / PDF 552-555."
+      - "Keep the chain Descartes-limit -> criterion-shift -> Augustine/cartesianism -> Pascal-method -> ethics -> original-sin hypothesis -> skepticism/heart -> authority/Montaigne in view."
+      - "Watch how Cassirer reopens logic after Pascal rather than resetting to a generic survey of schools."
+
+    formation_notes:
+      - "The strongest gain here is that Pascal now reads as the anti-Cartesian completion of a crisis internal to Cartesianism, not as an external religious digression."
+      - "The `Traité du vide` / geometry-fragment / `Pensées` contrast feels like a stable local structure for later returns."
+      - "The next tranche should begin at `Logik und Kategorienlehre`, not continue to treat Pascal as still open."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 132
+      - 133
+
+    state_on_entry:
+      - "Part 131 had closed Pascal through the authority-turn and the contrast with Montaigne."
+      - "The main pressure was whether `Logik und Kategorienlehre` would open as a fresh formal section or remain tied to the Descartes/Pascal crisis already earned."
+
+    what_shifted:
+      - "The logic section opened under the same basic alternative: knowledge must stand at the beginning if it is not to be denied."
+      - "Cassirer showed that the Cartesian school mostly failed to produce a genuinely new logic and instead psychologized the field."
+      - "Clauberg and Port-Royal modernized examples while leaving Aristotelian proof-structure largely intact."
+      - "Regis then supplied the clearest relapse, making ideas and eternal truths depend on created or external reality."
+      - "Geulincx became the first real critical recovery by sharply separating forms of understanding from the being of things."
+      - "The secondary-quality move was extended into the categories of thought themselves."
+      - "The anti-allegorical polemic made clear that old metaphysics survives not only in doctrines but in explanatory style."
+
+    unresolved:
+      - "Need the next tranche from printed 536-539 / PDF 560-563."
+      - "Need to see how far the anti-allegorical and anti-Aristotelian logic critique is carried after the present cut."
+      - "Need to watch whether the next pages stay with Geulincx or widen to another post-Cartesian figure."
+      - "Need to keep the bounded Cassirer/Juenger measure watchpoint active without interrupting translation: only pause if a later tranche widens from scientific objectivity into myth, state, culture, collective formation, or the civilizational generalization of measure."
+
+    re_entry_instructions:
+      - "Read Part 133 first; the live edge is the anti-allegorical critique at the end of `Die allegorischen Bestandteile der Metaphysik`."
+      - "Extract the next raw page range: printed 536-539 / PDF 560-563."
+      - "Keep the chain Pascal-alternative -> new logic demanded -> school psychologizes logic -> Regis relapse -> Geulincx critique of understanding -> anti-allegorical polemic in view."
+      - "Watch whether Cassirer deepens the Geulincx line or pivots to a new logical figure."
+      - "If a later tranche widens into myth or symbolic world-order, state/culture/collective formation, or measure/allotment/sameness as a broader ordering power, stop after that tranche and compare the last one to three parts plus the latest journal entry against `00-Notes/cross-project/cassirer-junger-method-break-and-time-crisis.md`; otherwise ignore the memo and keep translating."
+
+    formation_notes:
+      - "The strongest gain here is that `Logik und Kategorienlehre` no longer reads like a detached survey; it is structurally continuous with the Descartes/Pascal crisis."
+      - "Geulincx now looks like the first serious post-Cartesian figure in this section rather than a name in a list."
+      - "The next tranche should continue from the anti-allegorical critique, not reset to a broad summary of the logic chapter."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 134
+
+    state_on_entry:
+      - "Part 133 had ended with the anti-allegorical polemic and the first strong Geulincx recovery of the Cartesian critical line."
+      - "The main pressure was whether the next pages would remain merely anti-rhetorical or would produce a positive post-scholastic order of method."
+
+    what_shifted:
+      - "Geulincx widened the critique from allegory to teleology and then to metaphysical dogmatism."
+      - "Cassirer made the positive order of inquiry explicit: mathematics, then deduction, then metaphysics, then natural inquiry under experiment and hypothesis."
+      - "The humanist and early-scientific attacks on the schools were gathered into one tighter methodological diagnosis."
+      - "Scholasticism was then recast as a single illusion of the concept rather than only as a rhetoric of images or a naivete of sense."
+      - "The last page shifted the live edge to the reification of logical functions: subject, being, unity, whole and part are being treated as products of synthesis rather than things."
+
+    unresolved:
+      - "Need the next tranche from printed 540-543 / PDF 564-567."
+      - "Need to see how far Cassirer carries the move from `Unum` to `unio` before a new figure enters."
+      - "Need to watch for the internal heading `Der Dingbegriff als Kategorie` and whether Burthogge opens within the next four pages."
+
+    re_entry_instructions:
+      - "Read Part 134 first; the live edge is the unfinished move from `Unum` to `unio` at the end of `Die Verdinglichung der geistigen Funktionen`."
+      - "Extract the next raw page range: printed 540-543 / PDF 564-567."
+      - "Keep the chain allegory -> teleology -> dogmatism -> method-order -> concept-illusion in view."
+      - "Watch for the point where fixed thing-concepts are explicitly replaced by categories or operations."
+      - "If Burthogge opens, note whether he continues or redirects the Geulincx line."
+
+    formation_notes:
+      - "The strongest gain here is that Geulincx now supplies not only a critique of scholastic error but a positive order of modern inquiry."
+      - "The live philosophical pressure has shifted from images and rhetorical explanation to the reification of the intellect's own functions."
+      - "The next tranche should continue from the operation-level critique, not reset to a generic survey of post-Cartesian schools."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 135
+
+    state_on_entry:
+      - "Part 134 had ended with the strongest Geulincx diagnosis so far: scholasticism as illusion of the concept."
+      - "The main pressure was whether the next pages would carry that critique into the thing-concept itself or retreat into a safer summary."
+
+    what_shifted:
+      - "Cassirer carried the Geulincx line into the concept of thing and substance by tracing both back to grammar and predication."
+      - "He also stated the unrealized radical consequence directly: objectivity should move from transcendent things to the lawful standpoint of understanding."
+      - "The real limit of Geulincx then appeared at Cartesian dualism, where the critique hardens into occasionalist metaphysics."
+      - "Burthogge entered as a genuine continuer of the stronger line rather than as an appendix, because `notion` was recast as `modus concipiendi`."
+      - "The live edge shifted from exposing scholastic error to building a positive account of category as operation."
+
+    unresolved:
+      - "Need the next tranche from printed 544-547 / PDF 568-571."
+      - "Need to see how fully Burthogge carries `thing`, `substance`, and `accident` into forms of apprehension."
+      - "Need to watch where the heading `Das Absolute und das System der Begriffe` opens and whether `Die Kategorie der Substanz` is fully contained in the next range."
+
+    re_entry_instructions:
+      - "Read Part 135 first; the live edge is Burthogge's opening definition of `notion` as `modus concipiendi`."
+      - "Extract the next raw page range: printed 544-547 / PDF 568-571."
+      - "Keep the chain concept-illusion -> thing-concept as category -> Geulincx limit at dualism -> Burthogge as continuer in view."
+      - "Watch for the stronger positive vocabulary of apprehension, category, and objectivity."
+      - "Track exactly where `Das Absolute und das System der Begriffe` and `Die Kategorie der Substanz` stabilize."
+
+    formation_notes:
+      - "The strongest gain here is that the logic section now has a real successor line rather than only a sequence of post-Cartesian failures."
+      - "Burthogge looks structurally closer to later critical philosophy than to Lockean empiricism in this opening."
+      - "The next tranche should stay with Burthogge until his category-language is explicit enough to test against Geulincx's limit."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 136
+
+    state_on_entry:
+      - "Part 135 had opened Burthogge as a continuer of the stronger Geulincx line through `notion` as `modus concipiendi`."
+      - "The main pressure was whether the next pages would make category as operation explicit or drift back into mere doctrinal summary."
+
+    what_shifted:
+      - "Burthogge explicitly treated thing, substance, accident, cause, whole, and part as forms of apprehension rather than structures in things."
+      - "Cassirer made the conditioning of understanding itself far sharper by describing intellect as another refracting medium."
+      - "The thing-concept was reduced to a limit-case of generality rather than a primitive realist anchor."
+      - "The category of substance was recast as `modus concipiendi`."
+      - "The mind-body question was reopened on methodological rather than ontological terms."
+
+    unresolved:
+      - "Need the next tranche from printed 548-551 / PDF 572-575."
+      - "Need to see where Burthogge begins to yield ground once causality and metaphysical reality are pressed more directly."
+      - "Need to watch whether `Materie und Denken` and `Der Kausalbegriff` both enter the next range."
+
+    re_entry_instructions:
+      - "Read Part 136 first; the live edge is Burthogge's treatment of substance and accident as `modi concipiendi`."
+      - "Extract the next raw page range: printed 548-551 / PDF 572-575."
+      - "Keep the chain Geulincx limit -> Burthogge as continuer -> understanding as conditioned medium -> substance as category in view."
+      - "Watch for the point where causality starts reopening a route to transcendent reality."
+      - "Track the heading transitions into `Materie und Denken` and `Der Kausalbegriff`."
+
+    formation_notes:
+      - "The strongest gain here is that Burthogge now carries an authentically positive category-critique rather than only a negative anti-realism."
+      - "The key structural term is not `notion` by itself but the relation between apprehension, category, and conditioned objectivity."
+      - "The next tranche should stay with Burthogge until the relapse-point is textually explicit."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 137
+
+    state_on_entry:
+      - "Part 136 had established Burthogge as the clearest positive continuer of the Geulincx line, with substance and accident treated as `modi concipiendi`."
+      - "The main pressure was whether he could hold that line once causality and metaphysical reality were explicitly tested."
+
+    what_shifted:
+      - "Burthogge preserved the critical line while matter and thought were kept within phenomenal cognition."
+      - "Cassirer named Burthogge's own procedure more clearly as `the Real Notional way`."
+      - "The exact relapse-point appeared at causality, which Burthogge let function as a guarantee of transcendent reality."
+      - "From there his work became a hybrid of epistemology and dynamic spiritualized nature-philosophy."
+      - "The section now has a precise test-case for how a nearly critical philosophy can still return to metaphysics."
+
+    unresolved:
+      - "Need the next tranche from printed 552-555 / PDF 576-579."
+      - "Need to finish Cassirer's retrospective comparison of Geulincx and Burthogge."
+      - "Need to see how the Malebranche opening reframes the idealist line once psychology moves to the center."
+
+    re_entry_instructions:
+      - "Read Part 137 first; the live edge is the causal relapse at the end of the Burthogge section."
+      - "Extract the next raw page range: printed 552-555 / PDF 576-579."
+      - "Keep the chain Geulincx limit -> Burthogge positive category-critique -> causality as relapse-point in view."
+      - "Watch for the transition from retrospective comparison into `Die Ideenlehre. Malebranche.`"
+      - "Track where psychology displaces mathematics and physics as the governing pressure."
+
+    formation_notes:
+      - "The strongest gain here is the exact localization of the relapse-point: not substance, not thinghood, but causality."
+      - "Burthogge now looks less like a proto-Kant in general and more like a thinker who nearly arrives and then turns back at one decisive hinge."
+      - "The next tranche should close the Burthogge comparison and establish the Malebranche problem-field cleanly."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 138
+
+    state_on_entry:
+      - "Part 137 had isolated the exact relapse-point in Burthogge: causality as the route back to transcendent reality."
+      - "The main pressure was whether the next pages would merely summarize that failure or would open a new problem-field cleanly."
+
+    what_shifted:
+      - "Cassirer used the Burthogge/Geulincx retrospective to state the distance from Kant explicitly."
+      - "The section shifted its center from mathematics and physics toward psychology, imagination, and error-analysis."
+      - "Malebranche entered first as a psychologist rather than simply as an occasionalist."
+      - "Self-consciousness was denied the role of exact epistemic foundation because the soul is not given in a distinct deducible idea."
+      - "The new live edge became the contrast between certainty of the soul's existence and knowledge of its nature."
+
+    unresolved:
+      - "Need the next tranche from printed 556-559 / PDF 580-583."
+      - "Need to see how Malebranche handles soul/body cognition once the self-knowledge line is sharpened."
+      - "Need to watch where the next internal heading after `Die Anfänge der modernen Psychologie` stabilizes."
+
+    re_entry_instructions:
+      - "Read Part 138 first; the live edge is the unresolved contrast between certainty of existence and knowledge of nature in the Malebranche opening."
+      - "Extract the next raw page range: printed 556-559 / PDF 580-583."
+      - "Keep the chain Burthogge relapse -> Kant-distance -> psychology as condition of knowledge -> anti-Cartesian self-knowledge in view."
+      - "Watch for the point where Malebranche turns from psychology of error to a more positive theory of ideas or soul/body relation."
+      - "Track the next internal heading in the Malebranche sequence."
+
+    formation_notes:
+      - "The strongest gain here is that Malebranche now has a clear local problem-field before metaphysics reenters."
+      - "Psychology is functioning here as critique of distortion, not as privileged inward access."
+      - "The next tranche should continue directly; the opening distinction is not yet worked through."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 139
+
+    state_on_entry:
+      - "Part 138 had opened Malebranche as the first real modern psychologist and left the contrast between certainty of existence and knowledge of nature unresolved."
+      - "The main pressure was whether the next pages would keep psychology merely introductory or convert it into a real methodological claim."
+
+    what_shifted:
+      - "Cassirer made the anti-Cartesian asymmetry explicit: the soul is more immediate in existence but less available to exact knowledge than the body."
+      - "Clear ideas were restricted to relations, which blocked direct measurement of psychic contents and forced a psychophysical correlate model."
+      - "Malebranche's occasionalism was recast as an epistemic demand of lawful correspondence rather than as a merely external metaphysical arrangement."
+      - "The critique of substance crossed fully from physics into psychology and unified both under the phenomenal method."
+      - "The heading `Die Aufhebung der absoluten Materie` made hidden material substrate scientifically empty and opened the next attack on causal force."
+
+    unresolved:
+      - "Need the next tranche from printed 560-563 / PDF 584-587."
+      - "Need to see how fully the force/causality critique is carried through once the anti-substrate point is complete."
+      - "Need to watch where the next internal heading after `Die Aufhebung der absoluten Materie` stabilizes."
+
+    re_entry_instructions:
+      - "Read Part 139 first; the live edge is the opening critique of causal force at the end of page 559."
+      - "Extract the next raw page range: printed 560-563 / PDF 584-587."
+      - "Keep the chain anti-Cartesian self-knowledge -> epistemic parallelism -> phenomenal restriction of science -> end of absolute matter in view."
+      - "Watch for whether causality is dissolved with the same rigor as substance or whether a new compromise appears."
+      - "Track the next internal heading in the Malebranche sequence."
+
+    formation_notes:
+      - "The strongest gain here is that psychology, occasionalism, and phenomenal method have now actually fused into one line rather than sitting side by side."
+      - "Malebranche's originality is showing up less in theology than in the epistemic form of lawful correlation."
+      - "The next tranche should continue immediately, because causal force is now the last obvious residue of hidden efficacy."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 140
+
+    state_on_entry:
+      - "Part 139 had carried the phenomenal method through the critique of hidden substrate and opened the attack on causal force."
+      - "The main pressure was whether Malebranche would now collapse into skepticism or preserve a positive scientific line."
+
+    what_shifted:
+      - "Force was dissolved into lawful quantitative relation rather than left as a hidden efficacy."
+      - "Cassirer bounded the Hume comparison by preserving exact mechanics as intelligible under law."
+      - "The line back to Kepler and Galilei became explicit through the transformation of force into function."
+      - "Relativism was split into a lower psychological-biological register and a higher methodological register."
+      - "Truth emerged as `reale Beziehung`, with universal geometry and relation-of-relations as the positive framework."
+
+    unresolved:
+      - "Need the next tranche from printed 564-567 / PDF 588-591."
+      - "Need to see how Cassirer specifies the contents that fall under truth as relation once the definition is stated."
+      - "Need to watch where the next internal heading after `Der Grundbegriff der Relation` stabilizes."
+
+    re_entry_instructions:
+      - "Read Part 140 first; the live edge is the unfinished sentence after truth as `reale Beziehung`."
+      - "Extract the next raw page range: printed 564-567 / PDF 588-591."
+      - "Keep the chain anti-force -> law -> quantitative relation -> psychological relativism -> truth as objective relation in view."
+      - "Watch for whether Malebranche now classifies kinds of truths or turns more directly to method."
+      - "Track the next internal heading in the Malebranche sequence."
+
+    formation_notes:
+      - "The strongest gain here is that Malebranche now looks like a positive method-thinker rather than only a destroyer of naive causality."
+      - "The Hume comparison is now finally in the right proportion: genealogically real, structurally limited."
+      - "The next tranche should stay close to the relation-concept, since that is now carrying the section."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 141
+
+    state_on_entry:
+      - "Part 140 had turned force into law and law into relation, leaving truth as `reale Beziehung` as the live edge."
+      - "The main pressure was whether this relation-line could remain self-sufficient or would require a new metaphysical guarantee."
+
+    what_shifted:
+      - "Ideal relations became the immutable measure of all sciences and gave `Relativität` a positive scientific meaning."
+      - "Absolute soul-substance and absolute matter were shown to be eliminable because science is now organized as a field of relations."
+      - "The efficacy of laws was then reanchored in divine will, producing a metaphysical guarantee where method alone did not suffice."
+      - "Continuous creation became the price of that move and broke the continuity of motion at the metaphysical level."
+      - "Psychological idealism opened through representation, dream, and illusion as the next live problem-field."
+
+    unresolved:
+      - "Need the next tranche from printed 568-571 / PDF 592-595."
+      - "Need to see how Cassirer handles the proof-of-bodies question once psychological idealism is fully underway."
+      - "Need to watch where the next internal heading after `Der psychologische Idealismus` stabilizes."
+
+    re_entry_instructions:
+      - "Read Part 141 first; the live edge is the reopening of the Cartesian body-proof problem under psychological idealism."
+      - "Extract the next raw page range: printed 568-571 / PDF 592-595."
+      - "Keep the chain relation as truth -> efficacy of laws -> divine will -> continuous creation -> psychological idealism in view."
+      - "Watch for whether the representation line remains methodological or expands into ontology."
+      - "Track the next internal heading in the Malebranche sequence."
+
+    formation_notes:
+      - "The strongest gain here is the exact visibility of Malebranche's inner fracture: method reaches its highest clarity just where metaphysical guarantee reenters."
+      - "The relation-concept is still the organizing achievement even where Cassirer begins to show its deformation."
+      - "The next tranche should stay close to the body-proof and illusion material, since that is where the new pressure is now concentrated."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 142
+
+    state_on_entry:
+      - "Part 141 had opened psychological idealism and left the body-proof problem as the next live edge."
+      - "The main pressure was whether Malebranche would restore bodies philosophically or let the anti-material line continue."
+
+    what_shifted:
+      - "The Cartesian proof of bodies was abandoned rather than repaired."
+      - "Malebranche's anti-Spinozist position was clarified through the refusal to infer being from intelligible extension."
+      - "Revelation appeared as the only remaining warrant for bodies, which sharpened rather than softened the philosophical critique of absolute matter."
+      - "The Berkeley pressure became explicit through the question of what happens to eternal truths."
+      - "The section turned from objecthood to the need for durable thoughts beyond the stream of perceptions."
+
+    unresolved:
+      - "Need the next tranche from printed 572-575 / PDF 596-599."
+      - "Need to see how Cassirer rebuilds constancy and universality once `Idee und Perception` is fully underway."
+      - "Need to watch where the next internal heading after `Idee und Perception` stabilizes."
+
+    re_entry_instructions:
+      - "Read Part 142 first; the live edge is the demand for `dauernde Gedanken` against the flux of perceptions."
+      - "Extract the next raw page range: printed 572-575 / PDF 596-599."
+      - "Keep the chain anti-body-proof -> anti-Spinozism -> revelation only -> Berkeley pressure -> durable thought in view."
+      - "Watch for how Malebranche secures universality without restoring naive objecthood."
+      - "Track the next internal heading in the Malebranche sequence."
+
+    formation_notes:
+      - "The strongest gain here is that the real problem is no longer bodies but constancy of truth."
+      - "Cassirer now has Malebranche standing almost exactly on the Berkeley threshold, but with a different answer still pending."
+      - "The next tranche should stay close to the idea/perception distinction, since it is now carrying the whole section."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 143
+
+    state_on_entry:
+      - "Part 142 had opened the need for durable thoughts beyond the stream of perceptions."
+      - "The main pressure was whether Malebranche could secure universality without restoring either bodies or naive objecthood."
+
+    what_shifted:
+      - "Idea and perception were separated cleanly as different orders rather than different strengths of one content."
+      - "Mathematics supplied the decisive evidence that objectivity cannot be reduced to subjective states."
+      - "Infinity and generality became the sharpest weapons against the psychological theory of concepts."
+      - "The one space and the hyperbola relation clarified universality as condition rather than aggregate."
+      - "Intelligible extension emerged as the Augustinian ground of certainty beyond the finite subject."
+
+    unresolved:
+      - "Need the next tranche from printed 576-579 / PDF 600-603."
+      - "Need to see how Cassirer generalizes intelligible extension from eternal truths to the full field of objectual knowledge."
+      - "Need to watch whether the volume ends inside the Malebranche section or opens a final transition."
+
+    re_entry_instructions:
+      - "Read Part 143 first; the live edge is the unfinished generalization from intelligible extension to all knowledge."
+      - "Extract the next raw page range: printed 576-579 / PDF 600-603."
+      - "Keep the chain idea/perception -> infinity -> universality as rule -> intelligible extension in view."
+      - "Watch for whether Cassirer stays Augustinian or folds the result back toward a broader critical synthesis."
+      - "Track the next internal heading or volume close carefully."
+
+    formation_notes:
+      - "The strongest gain here is that Malebranche's positive answer is finally fully visible and is far more mathematical than merely introspective."
+      - "The Augustinian turn is not a retreat from modern epistemology here; it is Cassirer's diagnosis of how Malebranche secures modern objectivity."
+      - "The next tranche should stay very close to the final generalization, since the volume is near its end."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 144
+
+    state_on_entry:
+      - "Part 143 had reached intelligible extension and left its generalization to all objectual knowledge unfinished."
+      - "The main pressure was whether this final generalization would stabilize the section or expose a new defect."
+
+    what_shifted:
+      - "Intelligible extension was extended into ordinary perception itself."
+      - "Malebranche's historical middle position was made explicit as a modern problem answered by older metaphysical means."
+      - "The function of validity hardened into contents and powers of the divine intellect."
+      - "The problem of eternal truths became the exact point where the system's gain and weakness coincide."
+      - "Arnauld's objection opened by targeting the ontological duplication of idea and perception."
+
+    unresolved:
+      - "Need the next tranche from printed 580-583 / PDF 604-607."
+      - "Need to see how fully Arnauld presses the critique of inner presence, transmission, and dual entity-talk."
+      - "Need to watch whether the volume ends inside the Arnauld dispute or opens a concluding synthesis."
+
+    re_entry_instructions:
+      - "Read Part 144 first; the live edge is the opening of Arnauld's objection against the hypostasis of ideas."
+      - "Extract the next raw page range: printed 580-583 / PDF 604-607."
+      - "Keep the chain intelligible extension -> eternal truths -> reification of validity -> Arnauld's objection in view."
+      - "Watch for the point where the critique turns from ontology back toward a cleaner theory of consciousness or relation."
+      - "Track the next internal heading or volume close carefully."
+
+    formation_notes:
+      - "The strongest gain here is that the Malebranche chapter's true hinge is no longer hidden: it is the reification of validity."
+      - "Arnauld now matters as an internal critic of that hinge, not merely as an external opponent."
+      - "The next tranche should stay with the dispute until its structural lesson is explicit."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 145
+
+    state_on_entry:
+      - "Part 144 had opened Arnauld's objection at the point where Malebranche hypostatizes ideas."
+      - "The main pressure was whether Arnauld's critique would simply win or whether Malebranche would retain a constructive advantage."
+
+    what_shifted:
+      - "Arnauld's strongest point became explicit in the critique of object-presence as a prior metaphysical fact."
+      - "His constructive weakness also became explicit in the failure to account for the distance between impression and object."
+      - "Malebranche regained methodological superiority through optics and the objectification of sensation into spatial order."
+      - "That superiority once again deformed into metaphysics when ideal extension became an affecting cause."
+      - "The discussion turned to the unconditional status of eternal truths and Malebranche's anti-voluntarism."
+
+    unresolved:
+      - "Need the next tranche from printed 584-587 / PDF 608-611."
+      - "Need to see how Malebranche secures unconditional truth without collapsing back into the voluntarist structure he rejects."
+      - "Need to watch whether the volume ends in the eternal-truth discussion or returns to the Arnauld dispute."
+
+    re_entry_instructions:
+      - "Read Part 145 first; the live edge is the anti-voluntarist eternal-truth argument."
+      - "Extract the next raw page range: printed 584-587 / PDF 608-611."
+      - "Keep the chain Arnauld's critique -> optics -> hypostasis again -> anti-voluntarist truth in view."
+      - "Watch for whether Cassirer resolves the tension or leaves it as the final historical verdict on Malebranche."
+      - "Track the next internal heading or volume close carefully."
+
+    formation_notes:
+      - "The strongest gain here is the exact balance between Arnauld's critical success and Malebranche's constructive superiority."
+      - "The eternal-truth problem is now clearly the final closure pressure of the chapter."
+      - "The next tranche should stay close to that pressure rather than widening back out."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 146
+
+    state_on_entry:
+      - "Part 145 had left the Malebranche line at the anti-voluntarist eternal-truth argument."
+      - "The main pressure was whether that line would stabilize itself or open directly into the next historical figure."
+
+    what_shifted:
+      - "Malebranche's anti-voluntarism reached its strongest formulation, with reason no longer subordinate to decree."
+      - "Cassirer still marked the unresolved pull from law back to lawgiver."
+      - "Bayle entered as an immanent outcome of Cartesianism rather than an external skeptic."
+      - "The inheritance from Malebranche was specified around eternal truths and ideality."
+      - "The missing foundation of ethics and history became explicit as the next pressure-point of the Cartesian legacy."
+
+    unresolved:
+      - "Need the next tranche from printed 588-591 / PDF 612-615."
+      - "Need to see how Bayle turns the Cartesian inheritance into a broader critique."
+      - "Need to watch whether ethics/history or skepticism becomes the first dominant line in Bayle."
+
+    re_entry_instructions:
+      - "Read Part 146 first; the live edge is Bayle as the Cartesian continuer beyond Malebranche."
+      - "Extract the next raw page range: printed 588-591 / PDF 612-615."
+      - "Keep the chain anti-voluntarist reason -> unresolved lawgiver -> Bayle as outcome -> ethics/history pressure in view."
+      - "Watch for the first place Bayle's critique moves beyond the problem of eternal truths."
+      - "Track the next internal heading in the Bayle sequence."
+
+    formation_notes:
+      - "The strongest gain here is that the Bayle chapter now opens with a real historical and structural stake rather than a mere thinker switch."
+      - "The handoff from Malebranche to Bayle is itself one of the things Cassirer wants understood."
+      - "The next tranche should stay with Bayle until his specific critical method is textually explicit."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 147
+
+    state_on_entry:
+      - "Part 146 had opened Bayle as the Cartesian continuer beyond Malebranche."
+      - "The main pressure was whether Bayle's skepticism would begin from negation or from a stronger assertion of reason."
+
+    what_shifted:
+      - "Bayle's opening was shown to begin from rational authority over history and tradition."
+      - "The unity of historical criticism and dogma-critique in the Dictionnaire became explicit."
+      - "Conscience and universal rational law emerged as the tribunal for revelation and ethics."
+      - "The Reformation kinship of Bayle's skepticism became clearer."
+      - "The theoretical scope of his skepticism was delimited to thing-existence rather than conceptual truth."
+
+    unresolved:
+      - "Need the next tranche from printed 592-595 / PDF 616-619."
+      - "Need to see how the Eleatic and antinomic material supports Bayle's idealist turn."
+      - "Need to watch how theoretical skepticism alters the relation between reason and revelation."
+
+    re_entry_instructions:
+      - "Read Part 147 first; the live edge is the Eleatic opening of Bayle's theoretical skepticism."
+      - "Extract the next raw page range: printed 592-595 / PDF 616-619."
+      - "Keep the chain historical critique -> rational tribunal -> ethical conscience -> things not concepts in view."
+      - "Watch for the exact role of antinomies in Bayle's idealism."
+      - "Track the next internal heading in the Bayle sequence."
+
+    formation_notes:
+      - "The strongest gain here is that Bayle now opens positively rather than merely negatively."
+      - "The theoretical skepticism should now be read as a second movement, not as the whole of his project."
+      - "The next tranche should stay with that second movement until its logic is explicit."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: forward-translation-complete
+    parts_touched:
+      - 148
+
+    state_on_entry:
+      - "Part 147 had delimited the theoretical scope of Bayle's skepticism without yet showing its full mechanism."
+      - "The main pressure was whether Bayle's idealist turn would be merely psychological or structurally antinomic."
+
+    what_shifted:
+      - "Bayle's use of antinomies as a basis for idealism became explicit."
+      - "Absolute matter and motion were shown to collapse only as things-in-themselves, not as ideal structures."
+      - "The distinction between conceptual truth and absolute being sharpened decisively."
+      - "The consequence for revelation became unconditional non-mediation."
+      - "Bayle's recognition and sacrifice of the unity of theoretical reason became the live contradiction of the chapter."
+
+    unresolved:
+      - "Need the next tranche from printed 596-601 / PDF 620-625."
+      - "Need to see how Bayle preserves ethical reason after surrendering theoretical reason."
+      - "Need to watch how the psychological motive of his skepticism is grounded."
+
+    re_entry_instructions:
+      - "Read Part 148 first; the live edge is the turn from theoretical sacrifice to the ethical counter-line."
+      - "Extract the next raw page range: printed 596-601 / PDF 620-625."
+      - "Keep the chain antinomies -> ideality -> no rational mediation of revelation -> unity of theoretical reason in view."
+      - "Watch for the point where ethical reason is exempted and why."
+      - "Track the final Bayle headings carefully; this should be the close of the volume."
+
+    formation_notes:
+      - "The strongest gain here is that Bayle's skepticism is now structurally exact rather than atmospherically skeptical."
+      - "The ethical reversal is now clearly required by the position rather than externally added to it."
+      - "The next tranche should close the volume if the remaining Bayle material behaves as expected."
+
+  - date: 2026-04-08
+    collaborator: codex-gpt-5
+    session_outcome: volume-complete
+    parts_touched:
+      - 149
+
+    state_on_entry:
+      - "Part 148 had sacrificed theoretical reason and left the ethical counter-line and its motive unresolved."
+      - "The main pressure was whether Bayle's apparent contradiction could be reconstructed without reducing it to hypocrisy."
+
+    what_shifted:
+      - "Bayle's preservation of ethical reason and toleration was made explicit as the practical purpose of his sacrifice of theoretical reason."
+      - "The deeper psychological motive was grounded in Bayle's pessimistic anthropology."
+      - "The contrast with Montaigne clarified why Bayle cannot trust natural innocence as a foundation."
+      - "Cassirer's final limit-judgment became explicit: Bayle's critique remains scholastic and non-constructive."
+      - "The bridge forward to Voltaire and Newton closed Volume I."
+
+    unresolved:
+      - "Volume I primary scaffold is complete through printed page 601."
+      - "Translation-repair boundary from Part 82 onward still remains a separate follow-up task."
+      - "Next substantive move is either post-volume review/repair or opening Volume II."
+
+    re_entry_instructions:
+      - "Read Part 149 first if you need the closing state of Volume I."
+      - "There is no further forward translation inside Volume I; stop before the advertisement pages."
+      - "If continuing text work, choose explicitly between a repair pass on the Part 82+ gloss zone and the opening of Volume II."
+      - "If reviewing structure, start from journal.md and page-map.yaml to verify the Volume I close."
+      - "Keep the Bayle close as the final state: ethical reason preserved, theoretical reason sacrificed, critique limited by lack of scientific construction."
+
+    formation_notes:
+      - "Volume I now closes on the distinction between destructive critique and constructive science."
+      - "The Bayle/Voltaire handoff is the real forward bridge left by the volume."
+      - "Any next move should respect that the forward-translation arc of Volume I is complete."

@@ -33,7 +33,7 @@ Wenngleich also sachlich die stetige und die diskrete Größe, die Raumgröße u
 Die Verschiedenheit der Gestalten ist demgemäß durch die Verschiedenheit der Bewegungen von Punkten zu bezeichnen. Wenn Ordnung und Maß als die Grundmittel mathematischen Denkens bezeichnet waren, so sehen wir jetzt, wie zwischen diesen beiden Faktoren selbst eine logische Unterordnung und Abhängigkeit sich ergibt. Die geometrischen Gebilde werden, ehe sie der exakten Messung unterworfen gedacht werden, in Ordnungen von Punkten aufgelöst, die nach einer bestimmten Regel auf einander folgen. Der Punkt darf vom Standpunkt der Erkenntnis als ein Letztes gelten; aber dies hindert nicht, daß wir seine eigene Bestimmtheit durch eine Beziehung ausdrücken. Das `Absolute` bezeichnet hier die grundlegenden Verhältnisbegriffe selbst. So wird die einfache `Lage` im Raum durch eine arithmetische Relation ausgedrückt, und jede streng methodische Untersuchung verlangt, daß das Gesuchte in jeder Phase durch sein Verhältnis zu gegebenen Elementen genau bestimmt sei.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 If geometry could ever serve as an entrance-gate to philosophy, then it cannot be a heap of separate theorems and tricks. Descartes' real innovation begins exactly here: geometry must be rebuilt as a unified lawful field in which every problem can be derived from a common rule. The `Geometrie` is therefore not just one application among others, but the strongest proof that the new method is true.

@@ -37,7 +37,7 @@ In diesem Zusammenhange eröffnet sich zugleich das Verständnis des philosophis
 Aber selbst abgesehen von diesem fundamentalen empirischen Ergebnis, läßt sich ein rein logischer Kern aus dem Begriff der Harmonie herausschälen. Die Betrachtung nimmt zunächst eine neue Richtung, indem sie sich von den Beziehungen, die unter den Objekten herrschen, zu ihrem Ursprung zurückwendet: indem sie somit die Harmonie nicht als ein Attribut der Dinge, sondern des Geistes zu verstehen und zu entwickeln sucht. Die harmonischen Verhältnisse der Objekte bilden das Korrelat, dessen der Geist zu seiner eigenen Ergänzung und Vervollkommnung notwendig bedarf: die zahlenmäßigen Beziehungen am Himmel sind die Erquickung und Nahrung der Seele, ohne die sie verkümmern müßte. Die Welt ist nach dem Muster der ...
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 ... in willing and acting as well. It is characteristic of Campanella that he claims imagination above all for politics, where his own ideal formative power found its purest exercise. For the problem of knowledge of nature, however, the new spiritual function he tried generally to ground could not become fruitful. Only with Kepler does the new concept of experience arise from the union of the two basic traits that also marked Leonardo: the freedom and vitality of aesthetic imagination and the purity and depth of mathematical speculation.

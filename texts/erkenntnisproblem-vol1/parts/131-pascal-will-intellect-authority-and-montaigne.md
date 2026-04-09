@@ -29,7 +29,7 @@ So endet Pascal zuletzt mit innerer Notwendigkeit in dem Autoritätsprinzip, das
 Und dennoch hat der Zweifel bei Montaigne und Pascal eine diametral entgegengesetzte Bedeutung. Für Montaigne ist er ein durchgehend angewandtes, intellektuelles Verfahren, die Art und rastlose Betätigung der Forschung. Für Pascal dagegen bedeuten die skeptischen Instanzen ein feststehendes Ergebnis, von dem er ausgeht, während er das Prinzip zu ihrer Erklärung und Begründung im Dogma findet. Das endliche Dasein erhält ihm erst, indem er es an eine jenseitige Ordnung anknüpft, Sein und Zusammenhang; es bleibt, für sich selbst betrachtet, ohne Wert und ohne Bedeutung.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 Cassirer now treats Pascal's real catastrophe as ethical and social, not merely epistemic. Humanity as such disappears behind the community of the elect, and any morality not grounded in sin and redemption becomes empty. The destruction of autonomous reason culminates in the destruction of a common moral world.

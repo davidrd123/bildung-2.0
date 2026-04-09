@@ -29,7 +29,7 @@ Ein Anhänger Descartes' ist Pascal niemals in dem Sinne gewesen, daß er die en
 Die Grenzlinie zwischen der theologischen und historischen Forschung, die sich auf Überlieferung und somit auf Autorität stützen muß, und dem Verfahren der theoretischen Naturwissenschaft, das keinen andern Richter über sich als Vernunft und Erfahrung anerkennt, ist in Pascals Fragment über das Leere in voller Schärfe gezogen. Von Geschichte im wahren Sinne läßt sich nur innerhalb der Menschheit sprechen, die wie ein einziges Individuum ist, das stetig fortdauert und sich beständig weiter- und höher entwickelt.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 The modern continuation of Cartesianism would require a very specific move: first principles would have to prove themselves by their unfolding into scientific experience, not by being led backward into a metaphysical source. That is Cassirer's criterion for staying on the genuinely modern path. Augustine and Descartes can both begin from self-consciousness and mathematics, but only Descartes uses mathematics as a means for understanding empirical reality. Augustine uses it as a springboard into the intelligible.

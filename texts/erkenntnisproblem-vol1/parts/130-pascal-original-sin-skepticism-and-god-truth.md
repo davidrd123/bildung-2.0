@@ -29,7 +29,7 @@ Nun begreift man, daß die Skepsis Pascals nicht der Gegensatz, sondern die notw
 Die evidenten Grundwahrheiten der Mathematik, vor denen die Analyse der methodischen Hauptschrift Halt machte, werden jetzt in den Kreis der Skepsis hineingezogen. Ihre Wahrheit ist nicht die des Denkens, das von sich selbst und seinem Grunde Rechenschaft abzulegen vermag, sondern die des Gefühls: `les principes se sentent`. Das Herz ist es, das uns die Gewißheit der Grundbegriffe von Raum und Zeit, Bewegung und Zahl verbürgt. So sehen wir, wie der Begriff der `klaren und deutlichen Perception` sich unfähig erweist, der metaphysischen Entwertung und Vernichtung der Wissenschaft entgegenzutreten. Und den Anfang und Grund zu der inneren Krisis, die dieser Begriff jetzt durchläuft, müssen wir im Systeme Descartes' selbst suchen.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 Pascal's method now becomes openly paradoxical. What analysis uncovers in the human condition is said to be intelligible only if an incomprehensible mystery is admitted as its ground. Original sin becomes not merely a doctrine, but the only permissible explanatory hypothesis.

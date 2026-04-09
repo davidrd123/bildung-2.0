@@ -27,7 +27,7 @@ Vor jeder objektiven Untersuchung gilt es die `Instrumente der Erkenntnis` zu pr
 Die `Meditationen` ziehen nun auch die rein logische Natur der Objektbeziehung in die Analyse. Was der Gegenstand an sich ist, mag dunkel bleiben; Klarheit muß sich darüber erreichen lassen, was im Gedanken des Gegenstandes liegt. Am Wachsbeispiel zeigt sich dies. Da Farbe, Härte, Duft und alle sonstigen Merkmale wechseln können, ohne daß wir aufhören, von demselben Ding zu sprechen, kann seine Einheit nicht in einer dieser Formen oder in ihrer Summe enthalten sein. Auch die unendliche Reihe möglicher Veränderungen kann die Phantasie nicht vollständig durchlaufen. Die Einheit des Gegenstandes ist und bleibt ein Werk des `reinen Verstandes`, der die successiven Vorstellungen auf einen gemeinsamen Mittelpunkt bezieht. Darum ist die Wahrnehmung des Wachses `une inspection de l'esprit`.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 Cassirer's key restriction is decisive: the opening of the `Meditationen` is not first about proving that a thinker exists, but about grounding a criterion of certainty. The metaphysical turn begins as a generalization of analytic method.

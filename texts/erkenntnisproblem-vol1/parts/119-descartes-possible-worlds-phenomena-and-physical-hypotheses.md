@@ -31,7 +31,7 @@ Wenn Descartes logische Notwendigkeit für die Physik verlangt, so steht dies da
 Wenn der Erfahrungsbegriff der Cartesianischen Philosophie dennoch Schwierigkeiten bereitet, so treffen sie nicht die Grundlegung, sondern den speziellen Ausbau der Physik. Der Mangel liegt nicht in der Schätzung der `Hypothese` als solcher, sondern darin, daß Descartes den stetigen Ausbau seiner mathematischen Voraussetzungen verläßt und zu rasch auf verwickelte Sonderphänomene überspringt. Damit ist die nächste Wendung der Kritik vorbereitet.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 The experimental point is now sharpened. What matters is not brute accumulation of cases, but whether analysis has isolated the `typical` case in which the decisive conditions are actually present. Repetition alone does not guarantee epistemic value; only structured isolation does. Induction and deduction are therefore not rivals but interlocking sides of one method.

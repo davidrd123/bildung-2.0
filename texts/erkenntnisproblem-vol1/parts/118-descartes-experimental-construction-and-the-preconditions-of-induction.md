@@ -31,7 +31,7 @@ In den `Meteoren` wird dieselbe Methode am Regenbogen durchgeführt. Descartes b
 Neben `Intuition` und `Deduktion` tritt daher im Fortgang der `Regeln` die `Enumeration` oder `Induktion`. Sie ist kein Gegenprinzip zur Deduktion, sondern deren Vorstadium: ein Mittel, Probleme, die zunächst nicht in ihrer notwendigen Verknüpfung erkannt sind, der deduktiven Behandlung zuzuführen.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 Cassirer's answer is precise: experience controls, but analysis leads. To know the magnet or light is not to penetrate some hidden essence, but to find a combination of known elements capable of producing the observed effects. A scientific assumption is judged by whether it can deduce the phenomena, not by whether it gives a sensuous picture of what things are "in themselves."

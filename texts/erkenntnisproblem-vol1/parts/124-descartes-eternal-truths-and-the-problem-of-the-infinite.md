@@ -27,7 +27,7 @@ Dieselbe Umkehr zeigt sich am Begriff des `Unendlichen`. Er wird zum Mittelglied
 Indem Descartes in der Unendlichkeit überall ein jenseitiges Sein sucht, schaltet er aus dem System der Begriffe und Prinzipien, die den Aufbau der Erfahrungswelt tragen, ein unentbehrliches Moment aus.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 For Cassirer, the decisive break comes when eternal truths cease to constrain even the highest being and instead become arbitrary products of divine creation. At that point rational necessity is no longer intrinsic to thought; it is reduced to a contingent arrangement. The metaphysical guarantee thus destroys what it was supposed to secure.

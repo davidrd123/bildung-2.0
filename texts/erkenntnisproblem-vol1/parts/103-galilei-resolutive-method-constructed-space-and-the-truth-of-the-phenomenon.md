@@ -31,7 +31,7 @@ Unmittelbar deutlich offenbart sich die neue Ansicht weiterhin in der verändert
 Wiederum tritt der Unterschied der beiden Auffassungen, die sich an diesem Punkte begegnen, am schärfsten und eindringlichsten hervor, wenn man die Peripatetische Himmelskunde in der bestimmten Gestalt und Ausbildung betrachtet, die sie zu Galileis Zeiten erhalten hatte. Im Jahre 1613 - nach dem Erscheinen von Keplers Werk über die Marsbewegung und nach Galileis Entdeckung der Jupitertrabanten - veröffentlicht Cremonini, der angesehenste italienische Aristoteliker der Zeit, einen Kommentar zur Schrift „de coelo“, in dem die Lehre des Copernicus als eine „moderne astronomische Kuriosität“ erwähnt und abgetan wird: sie gehöre einem „anderen Wissensgebiet“ an, um das der „Philosoph“ sich nicht zu kümmern habe. Man wende nicht ein,
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 ... the decomposition of velocity into horizontal and vertical components and their recomposition into the projectile parabola supplies the clear methodological example. Galileo can unify the two motions only because both are first brought under a common mathematical measure. Gravity, so long as it is treated as an inner inclination, cannot enter that unity; it becomes scientifically usable only when objectified as acceleration, as pure magnitude.

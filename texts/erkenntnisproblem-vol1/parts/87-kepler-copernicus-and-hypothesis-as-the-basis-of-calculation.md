@@ -31,7 +31,7 @@ In dem Motto, das er seiner Schrift über die Marsbewegungen voranstellt, nimmt 
 Hier liegt denn auch die scharfe Grenzscheide, die Keplers Harmoniebegriff von der Neuplatonischen und Neupythagoreischen Konzeption des Alls sondert, mit der er anfangs noch eng verbunden und verquickt scheint. Die Mathematik als solche und ohne schärfere logische Bestimmung und Kennzeichnung vermag die Trennung nicht zu vollziehen: war sie doch innerhalb der Renaissance, und noch zuletzt bei Agrippa von Nettesheim, selbst in den Dienst der Mystik und Magie gedrängt worden. Der Versuch, die Wirklichkeit in reine Zahlenverhältnisse aufzulösen, führt zu bloßen allegorischen Spielen, wenn er sich nicht von Anfang an in den Dienst der strengen, kausalen Analyse der Naturvorgänge stellt, wenn er die Mathematik nicht als eine Bedingung der empi-
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 The older conflict is now drawn sharply. One line, dominant in medieval physicalism, fixes in advance what must be physically true by teleological ideas of cosmic perfection. The other, descending from Ptolemy, treats astronomical constructions as useful devices for calculation while suspending judgment on their physical reality. Osiander's preface to Copernicus stands in this latter line. Kepler opposes it because Copernicus does not merely simplify planetary equations; he changes the very concept of force and seeks one theory spanning heaven and earth.

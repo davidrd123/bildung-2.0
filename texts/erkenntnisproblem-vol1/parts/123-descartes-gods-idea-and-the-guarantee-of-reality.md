@@ -27,7 +27,7 @@ Descartes beantwortet diese Frage dadurch, daß innerhalb der Welt des Bewußtse
 Der Gottesbegriff erweitert den Inhalt der Grundwahrheiten nicht; er versucht nur, dem Ganzen der Deduktion nachträglich eine neue Form der Geltung zu geben. Gerade darin liegt aber der Zirkel. Es ist vergeblich, für die Erkenntnis als Ganzes eine Bürgschaft zu verlangen, die außerhalb ihrer selbst liegt. Alles, was der Gottesbegriff bedeutet, empfängt er nur von jenen Regeln und Zusammenhängen der Erkenntnis, über die er hinauszuführen beansprucht. Die `Wahrhaftigkeit Gottes` besagt in Wahrheit nichts anderes als die unbedingte Wahrhaftigkeit der obersten Prinzipien der Erkenntnis.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 Cassirer's point is exact. After object-reference has been secured methodically, Descartes could have proceeded by differentiating grades of objectivity within experience. Instead he radicalizes the question and asks whether the totality of experience itself requires an absolute ground.

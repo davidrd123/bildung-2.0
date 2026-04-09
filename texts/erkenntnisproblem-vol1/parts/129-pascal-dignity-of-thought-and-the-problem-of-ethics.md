@@ -29,7 +29,7 @@ Und dennoch ist es bezeichnenderweise nicht die Geschichte und die theologische 
 Zu der intellektuellen Verzweiflung gesellt sich das Gefühl unserer moralischen Doppelnatur, der gemäß wir beständig in einer unhaltbaren Mitte dahinleben. Jeder Ausgleich und jede Einigung, die versucht wird, führt uns nur um so tiefer in ein trügerisches Sophisma. Das Recht ist dem Streite der Meinungen unterworfen, die Gewalt dagegen ist zweifellos und an deutlichen Anzeichen erkennbar. Die Vernunft bietet sich zur Entscheidung an; aber sie erweist sich alsbald als ein gefügiges Werkzeug, das allen Parteien gleichmäßig zur Verfügung steht. So bildet das Dogma der Erbsünde die letzte und einzige Lösung.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 Pascal does not revoke the dignity of thought. He radicalizes it by changing its use. Thought is no longer chiefly the organ of exact science; it becomes the site at which the human condition knows its own misery and greatness. That is why `right thinking` becomes the principle of morality.

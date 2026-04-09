@@ -2931,3 +2931,429 @@ Decision for now:
 - keep the split-`eingeboren` / imagination line visible; it is the clearest gain of this tranche
 - continue directly from the Geist/Körper difficulty, since that is now the live edge of the chapter
 - still no glossary promotion; the local apparatus remains adequate
+
+## 2026-04-08 - Seventy-Fifth Naturphilosophie Tranche
+
+Advanced through printed pages `504-507` and wrote Part `126`.
+
+What was clarified:
+
+- the Descartes chapter now closes with a deliberate double judgment: the system fails at absolute substance, but its historical greatness lies in having transferred that conflict into the field of method
+- the mind-body move is shown to break exact quantitative unity from within, since soul is allowed to alter motion in a way no exact magnitude can govern
+- the real successor-problem is no longer merely substance-dualism, but the fate of the criterion of `klarer und deutlicher Erkenntnis`
+- that criterion begins as self-active rational production and loses its distinctively modern force once it is referred back to God as origin
+
+Decision for now:
+
+- keep the historical-positive / doctrinal-negative Descartes judgment visible; it is the strongest gain of this tranche
+- continue directly into the Augustinian recoding of the criterion and Pascal's place within it
+- still no glossary promotion; the local apparatus is carrying the pressure
+
+## 2026-04-08 - Seventy-Sixth Naturphilosophie Tranche
+
+Advanced through printed pages `508-511` and wrote Part `127`.
+
+What was clarified:
+
+- Cassirer now states the genuinely modern continuation-rule with unusual sharpness: first principles must be justified through their scientific consequences, not by being traced back to a metaphysical origin
+- the decisive Descartes / Augustine difference is not the presence of mathematics, but its use: empirical intelligibility for the one, ascent to the intelligible for the other
+- Pascal enters as the strongest carrier of the contradiction, not as a simple Cartesian follower or anti-Cartesian opponent
+- the `Traité du vide` confirms that Pascal's early methodological nerve still belongs to the side of reason, experience, and indefinite scientific advance
+
+Decision for now:
+
+- keep the forward-justification line visible; it is the key successor test Cassirer is now using
+- continue directly into the geometry-fragment, since that is where Pascal's rational ideal takes its cleanest positive form
+- still no glossary promotion; the present files remain sufficient
+
+## 2026-04-08 - Seventy-Seventh Naturphilosophie Tranche
+
+Advanced through printed pages `512-515` and wrote Part `128`.
+
+What was clarified:
+
+- the early Pascal fragment keeps geometry as the model of method without demanding impossible proof for absolutely everything
+- first principles still function here as limits of analysis, not as defects in it
+- `natürliches Licht` remains a genuine confidence-term in this tranche rather than an object of suspicion
+- the infinite is still treated as an internal demand of thought and geometry, not yet as a transcendent scandal against reason
+
+Decision for now:
+
+- keep the geometry / first-principles / infinite line visible; it is the clearest positive Pascal gain in the chapter
+- continue directly into the dignity-of-thought and ethics turn, since that is where this method-line is about to be redirected
+- still no glossary promotion; the concept-pressure is real but not yet stabilization-worthy
+
+## 2026-04-08 - Seventy-Eighth Naturphilosophie Tranche
+
+Advanced through printed pages `516-519` and wrote Part `129`.
+
+What was clarified:
+
+- thought is not revoked here but reassigned: it becomes Pascal's ethical center rather than the organ of exact science
+- the human contradiction of greatness and misery is now earned from the text as a real analytical problem, not as borrowed Pascal lore
+- Pascal still proceeds as a psychological analyst even while displacing science from philosophical centrality
+- reason fails in this stretch less as a diagnostic power than as a practical resolver of the ethical and social contradiction
+
+Decision for now:
+
+- keep the dignity-of-thought / ethics line visible; it is the strongest turning point in this tranche
+- continue directly into original sin and Jansenism, since that is where the diagnostic line hardens into dogma
+- still no glossary promotion; the local files remain adequate
+
+## 2026-04-08 - Seventy-Ninth Naturphilosophie Tranche
+
+Advanced through printed pages `520-523` and wrote Part `130`.
+
+What was clarified:
+
+- Pascal's procedure is now openly paradoxical: the unintelligible is installed as the condition of intelligibility
+- original sin functions here as an explanatory hypothesis rather than as a merely appended article of belief
+- skepticism is no longer the enemy of faith but its necessary ally and middle term
+- `les principes se sentent` completes the reversal of the early geometry-fragment by relocating mathematical first principles from thought to feeling
+- Cassirer ties this crisis back into Descartes by showing that the subordination of necessary truth to God had already destabilized the criterion from within
+
+Decision for now:
+
+- keep the mystery / skepticism / heart line visible; it is the decisive negative hinge of the Pascal run
+- continue directly into the ethical and practical consequences, since the authority-turn is now imminent
+- still no glossary promotion; the current apparatus is enough
+
+## 2026-04-08 - Eightieth Naturphilosophie Tranche
+
+Advanced through printed pages `524-527` and wrote Part `131`.
+
+What was clarified:
+
+- the deepest loss in Pascal is now ethical and social, not only theoretical: humanity as such yields to the community of the elect
+- the unresolved Cartesian relation of will and intellect remains active as a background condition of Pascal's authority-turn
+- grace detached from the necessary work of the self drives practice toward ritual, mechanism, and external obedience
+- the Montaigne comparison is decisive because it separates skepticism as an active method of inquiry from skepticism as a fixed result interpreted by dogma
+- Pascal now reads as the anti-Cartesian completion of a crisis internal to Cartesianism rather than as an external religious interruption
+
+Decision for now:
+
+- stop the Pascal line here; it has reached a clean local close
+- reopen at `Logik und Kategorienlehre`, where the next problem is the post-Cartesian fate of logic rather than the continuation of Pascal
+- still no glossary promotion; nothing in this stretch forced a lexical stabilization
+
+## 2026-04-08 - Eighty-First Naturphilosophie Tranche
+
+Advanced through printed pages `528-531` and wrote Part `132`.
+
+What was clarified:
+
+- the logic section opens under the same Pascal alternative: knowledge, no less than God, must stand at the beginning or it is denied altogether
+- the Cartesian school mostly fails to produce the new logic its science requires; old Aristotelian proof-forms survive beneath modern examples
+- Clauberg and Port-Royal are pressured here less as logicians than as psychologizers of the thinking process
+- the real philosophical relapse appears in Regis, where `eingeborene` ideas and even `ewige Wahrheiten` are made dependent on external or created reality
+
+Decision for now:
+
+- keep the logic / psychology / reality-of-ideas line visible; it is the strongest gain of the section opening
+- continue directly into Geulincx, since that is where Cassirer first locates a real deepening of the critical line
+- still no glossary promotion; the present files continue to carry the pressure
+
+## 2026-04-08 - Eighty-Second Naturphilosophie Tranche
+
+Advanced through printed pages `532-535` and wrote Part `133`.
+
+What was clarified:
+
+- Geulincx is the first figure in this section who clearly recovers Descartes' stronger starting point instead of blunting it
+- the secondary-quality distinction is now extended into the very categories of thought; genus, species, relation, whole and part are forms of intellect rather than properties of things
+- the real task of critique is not to abolish conditioned cognition but to know it as conditioned and judge accordingly
+- the attack on allegory matters because old metaphysics survives not only in doctrine but in explanatory style, where images keep displacing reasons
+
+Decision for now:
+
+- keep the Geulincx / critique-of-understanding line visible; it is the real live edge of `Logik und Kategorienlehre`
+- continue directly from the anti-allegorical polemic, since the logic critique is still unfolding
+- still no glossary promotion; nothing here has yet forced stabilization
+
+## 2026-04-08 - Eighty-Third Naturphilosophie Tranche
+
+Advanced through printed pages `536-539` and wrote Part `134`.
+
+What was clarified:
+
+- Geulincx' critique now widens in a strict sequence: allegory, teleology, dogmatism, then the deeper illusion of the concept itself
+- the anti-teleological line matters because it rejects beauty, hierarchy, and symbolic correspondence as explanatory principles rather than merely correcting a cosmological picture
+- the strongest positive gain in the tranche is the explicit order of inquiry: mathematics, then a general doctrine of deduction, then metaphysics, then natural research under experiment and physical hypothesis
+- Cassirer is no longer diagnosing scholasticism only as rhetoric or sensory naivete; it now appears as a reification of the mind's own logical functions
+- the page `539` turn is the real live edge: `Sein`, unity, whole/part, and similar determinations are being recast as results of synthesis rather than properties of things
+
+Decision for now:
+
+- keep the anti-teleology / anti-dogmatism / method-order line visible; it is the positive structure that keeps Geulincx from being merely another polemicist
+- continue directly from `Die Verdinglichung der geistigen Funktionen`, since the move from `Unum` to `unio` is now about to become explicit
+- still no glossary promotion; the present pressure is structural rather than lexical
+
+## 2026-04-08 - Eighty-Fourth Naturphilosophie Tranche
+
+Advanced through printed pages `540-543` and wrote Part `135`.
+
+What was clarified:
+
+- Geulincx reaches his strongest critical point by reducing the Aristotelian thing-concept and even substance itself to grammar, predication, and the mind's own modes of synthesis
+- Cassirer explicitly states the unrealized consequence of this move: if Geulincx had carried it through, objectivity would have shifted from transcendent things to the lawful standpoint of scientific understanding
+- the real limit then appears cleanly: the critique stops at Cartesian dualism and turns back into metaphysics through occasionalism
+- Burthogge matters immediately as a continuer of the stronger line, because `notion` is recast as `modus concipiendi`, a way of apprehending rather than a ready-made content
+- the live pressure has now shifted from exposing scholastic illusion to building a positive account of category as operation
+
+Decision for now:
+
+- keep the thing-concept / dualism / Burthogge-successor line visible; it is the real hinge out of Geulincx
+- continue directly into Burthogge's treatment of `thing`, `substance`, and `accident`, since that is where the operation-language should become fully explicit
+- still no glossary promotion; the pressure remains architectonic rather than lexical
+
+## 2026-04-08 - Eighty-Fifth Naturphilosophie Tranche
+
+Advanced through printed pages `544-547` and wrote Part `136`.
+
+What was clarified:
+
+- Burthogge makes the positive critical move more explicit than Geulincx: `thing`, `substance`, `accident`, cause, whole, and part are forms under which intellect apprehends objects, not ontological furniture already waiting in them
+- the understanding is now treated as another conditioned medium rather than as an escape from conditionedness; it refracts no less structurally than sense
+- the category of substance is thereby detached from naive realism and turned into a `modus concipiendi`
+- this gives the mind-body problem a new form, since the issue is no longer the comparison of ready-made things but the use of concepts in organizing what is given
+- Burthogge now looks like a real continuer of the stronger line in `Logik und Kategorienlehre`, not merely an English echo of Geulincx
+
+Decision for now:
+
+- keep the Burthogge / conditioned-understanding / substance-as-category line visible; it is the strongest gain of the section so far after Geulincx
+- continue directly into the next pages, since the later relapse-point has not yet been reached and the causal question is still pending
+- still no glossary promotion; the pressure is on structure and method, not yet on one lexical decision
+
+## 2026-04-08 - Eighty-Sixth Naturphilosophie Tranche
+
+Advanced through printed pages `548-551` and wrote Part `137`.
+
+What was clarified:
+
+- Burthogge can preserve the critical line as long as matter and thought are treated within phenomenal cognition and concept-mediated objectivity
+- `the Real Notional way` now names the positive discipline of this phase more clearly than any later retrospective summary could
+- the relapse-point is exact: causality, unlike the other categories, is made to guarantee transcendent reality
+- once that breach is opened, Burthogge's work turns into a hybrid of epistemology and dynamic spiritualized nature-philosophy
+- Cassirer's local lesson is sharper than before: a concept-critique can survive many reductions, but if causality is left absolute, metaphysics returns immediately
+
+Decision for now:
+
+- keep the Burthogge / causal-relapse line visible; it is the decisive gain of this stretch
+- continue directly into the retrospective comparison and Malebranche opening, since the Burthogge line is now nearly complete
+- still no glossary promotion; the pressure remains entirely architectonic
+
+## 2026-04-08 - Eighty-Seventh Naturphilosophie Tranche
+
+Advanced through printed pages `552-555` and wrote Part `138`.
+
+What was clarified:
+
+- Cassirer now states the real distance from Kant explicitly: Geulincx and Burthogge only reach the negative claim that absolute reality is unknowable through our concepts, not the positive grounding of categories in the possibility of experience
+- the Malebranche opening marks a genuine shift of center from mathematics and physics toward psychology, imagination, error, and self-knowledge
+- Malebranche is introduced first as the first real modern psychologist, not merely as an occasionalist metaphysician
+- the anti-Cartesian turn is already sharp: self-consciousness gives immediate assurance of existence, but not a distinct scientific idea of the soul
+- psychology matters here not as introspective privilege but as preparatory critique of the conditions under which knowledge is distorted
+
+Decision for now:
+
+- keep the Kant-distance / psychological turn / anti-Cartesian self-knowledge line visible; it is the real gain of the transition
+- continue directly into the next Malebranche tranche, since the distinction between certainty of existence and knowledge of nature is still open
+- still no glossary promotion; nothing lexical has yet outrun the structural pressure
+
+## 2026-04-08 - Eighty-Eighth Naturphilosophie Tranche
+
+Advanced through printed pages `556-559` and wrote Part `139`.
+
+What was clarified:
+
+- the anti-Cartesian asymmetry is now explicit: the soul is more immediate in existence than the body, but less available to exact knowledge of its nature
+- Malebranche keeps the Cartesian doctrine of clear ideas only by narrowing it to relations; this is why psychic contents cannot be measured directly against one another
+- psychophysical correspondence is therefore not a merely external metaphysical arrangement but an epistemic requirement of objective knowability
+- the critique of substance has now crossed fully from physics into psychology: both sciences are confined to phenomena, lawful sequence, and correlation
+- `Die Aufhebung der absoluten Materie` is the real payoff of the tranche: hidden material substrate becomes scientifically empty, and the next live target is causal force itself
+
+Decision for now:
+
+- keep the self-knowledge / epistemic parallelism / phenomenal-method line visible; it is the strongest gain of the Malebranche run so far
+- continue directly into the next tranche, since the causal-force critique has only just opened and is clearly the live edge
+- still no glossary promotion; the pressure remains structural rather than lexical
+
+## 2026-04-08 - Eighty-Ninth Naturphilosophie Tranche
+
+Advanced through printed pages `560-563` and wrote Part `140`.
+
+What was clarified:
+
+- Malebranche's critique of force is now explicit: neither outer collision nor inner willing gives an intelligible idea of efficacy; only laws remain genuinely `wirkend`
+- the Hume comparison is now properly bounded: Malebranche supplies the anti-anthropomorphic critique of cause, but not a warrant to dissolve exact mechanics itself
+- Cassirer reconnects the line to Kepler and Galilei directly by treating force as something that becomes function and quantitative law
+- `Relativismus` first appears as a biological and psychological limitation of perception, but this is only the lower register of the concept
+- the stronger register arrives with `Der Grundbegriff der Relation`: truth itself is now gathered under `reale Beziehung`, universal geometry, and `Beziehungen der Beziehungen`
+
+Decision for now:
+
+- keep the force / law / relation line visible; it is the real structural gain of the tranche
+- continue directly into the next pages, since the truth-as-relation formula ends mid-sentence and is clearly the live edge
+- still no glossary promotion; the pressure remains architectonic
+
+## 2026-04-08 - Ninetieth Naturphilosophie Tranche
+
+Advanced through printed pages `564-567` and wrote Part `141`.
+
+What was clarified:
+
+- the relation-doctrine now reaches its strongest positive form: ideal relations are the immutable rule of all other knowledge, and `Relativität` becomes a name for the intelligible completion of science rather than only its limitation
+- this also clarifies why absolute soul-substance and absolute matter had to be removed: the sciences are now organized as a single field of relations under mathematical measure
+- the unresolved residue appears immediately after: once efficacy is assigned to laws instead of things, Malebranche reanchors the laws themselves in divine will
+- continuous creation is the real metaphysical price of that move, since motion loses its continuity and becomes successive recreation
+- `Der psychologische Idealismus` opens as the next stage of the same tension: representation, dream, and illusion now become the route by which Malebranche radicalizes the non-givenness of transcendent things
+
+Decision for now:
+
+- keep the relation / divine-law / psychological-idealism line visible; it is the real structural gain and fracture of the tranche
+- continue directly into the next pages, since the Cartesian proof-of-bodies problem has just reopened and is clearly the live edge
+- still no glossary promotion; the pressure remains on method and structure
+
+## 2026-04-08 - Ninety-First Naturphilosophie Tranche
+
+Advanced through printed pages `568-571` and wrote Part `142`.
+
+What was clarified:
+
+- Malebranche drops the Cartesian proof of bodies entirely; once the critique of sensory predicates and imagination is radicalized, no logical route from idea to material thing remains
+- the anti-Spinozist edge is equally sharp: intelligible extension and actual existing substrate are not internally linked, and existence is not smuggled out of the idea
+- the theological fallback only intensifies the philosophical result, since bodies now survive by revelation rather than by argument
+- Cassirer explicitly shows the line pressing toward Berkeley: once `absolute matter` is gone, the next question is not objecthood but the fate of eternal truths
+- `Idee und Perception` opens with the exact counter-demand that the rest of the section must answer: how to secure constancy, universality, and `dauernde Gedanken` against the stream of perceptions
+
+Decision for now:
+
+- keep the anti-ontological / Berkeley-pressure / durable-thought line visible; it is the real gain of the tranche
+- continue directly into the next pages, since the rebuilding of constancy beyond perception is now the live edge
+- still no glossary promotion; the pressure remains structural
+
+## 2026-04-08 - Ninety-Second Naturphilosophie Tranche
+
+Advanced through printed pages `572-575` and wrote Part `143`.
+
+What was clarified:
+
+- Malebranche's real answer to the Berkeley pressure is now explicit: `Idee` and `Perception` are not two grades of the same thing but different orders, object-side rule versus subject-side state
+- mathematics supplies the decisive proof of this distinction, because deduction depends on what is thought, not on the changing psychical condition of the thinker
+- infinity becomes the sharpest anti-psychologist argument in the section: a genuine concept precedes its instances and cannot be composed out of them
+- the one space and the formula of the hyperbola show how universality functions as condition rather than aggregate
+- `intelligible Ausdehnung` is the full metaphysical consequence: the source of certainty lies beyond the finite subject, in the Augustinian light that grounds the objectivity of knowledge
+
+Decision for now:
+
+- keep the idea / infinity / intelligible-extension line visible; it is the real constructive answer of the late Malebranche run
+- continue directly into the next pages, since Cassirer has only just begun to generalize this result from eternal truths to all objectual knowledge
+- still no glossary promotion; the pressure remains architectonic
+
+## 2026-04-08 - Ninety-Third Naturphilosophie Tranche
+
+Advanced through printed pages `576-579` and wrote Part `144`.
+
+What was clarified:
+
+- Cassirer now fully extends the `intelligible extension` result into ordinary perception: even empirical objecthood is completed only through the idea-world
+- this lets him state Malebranche's historical middle position with maximal clarity: a modern problem of scientific necessity answered through older metaphysical means
+- the decisive deformation is now explicit: the function of validity hardens into contents of the divine intellect and then into efficacious powers acting on consciousness
+- `Das Problem der ewigen Wahrheiten` is therefore not a side issue but the exact place where the gain of the system becomes its weakness
+- Arnauld's objection opens on the right line: he contests not the relation-structure itself but the duplication of one conscious act into two beings
+
+Decision for now:
+
+- keep the eternal-truth / reification / Arnauld-objection line visible; it is the real live pressure at the current edge
+- continue directly into the next pages, since the Arnauld dispute has only just begun and clearly carries the critique forward
+- still no glossary promotion; the pressure remains structural
+
+## 2026-04-08 - Ninety-Fourth Naturphilosophie Tranche
+
+Advanced through printed pages `580-583` and wrote Part `145`.
+
+What was clarified:
+
+- Arnauld's real strength is now explicit: he breaks the false analogy of object-transfer and shows that `presence` in consciousness is a tautological epistemic relation, not a prior metaphysical fact
+- his weakness is equally clear: in rejecting the false metaphysical problem, he also neglects the constructive distance between raw impression and objective determination
+- this is where Malebranche regains the advantage, and optics now carries that advantage concretely through the progressive objectification of color and brightness into spatial order
+- the same methodological gain once again hardens into metaphysics when ideal extension is made to affect the soul and become the cause of perceptions
+- the turn to `Die Unbedingtheit der ewigen Wahrheiten` sharpens the tension even further: Malebranche rejects voluntarism because science would collapse if truth depended on decree
+
+Decision for now:
+
+- keep the Arnauld / optics / anti-voluntarist line visible; it is the real gain of the tranche
+- continue directly into the next pages, since the eternal-truth discussion is now the live edge
+- still no glossary promotion; the pressure remains architectonic
+
+## 2026-04-08 - Ninety-Fifth Naturphilosophie Tranche
+
+Advanced through printed pages `584-587` and wrote Part `146`.
+
+What was clarified:
+
+- Malebranche reaches his strongest anti-voluntarist formulation here: eternal truths have no deeper cause, and reason is not valid because God commands it
+- the real inversion is now explicit: not the will as divine and rational, but reason as universal and therefore divine
+- Cassirer still marks the surviving weakness cleanly, since the question of the legislator keeps drawing the law back toward a lawgiver
+- Bayle enters exactly at that unresolved point, not as an external skeptic but as one of the real outcomes of Cartesianism and Malebranche's transformation of eternal truths
+- the Bayle/Montaigne comparison opens the new pressure clearly: Cartesianism mastered nature but never gave ethics and history an equally firm foundation
+
+Decision for now:
+
+- keep the anti-voluntarist Malebranche close and the Bayle opening together; the handoff itself is the gain of the tranche
+- continue directly into Bayle, since his role as the critical continuer of the Cartesians has only just opened
+- still no glossary promotion; the pressure remains structural
+
+## 2026-04-08 - Ninety-Sixth Naturphilosophie Tranche
+
+Advanced through printed pages `588-591` and wrote Part `147`.
+
+What was clarified:
+
+- Bayle's skepticism begins by enlarging the jurisdiction of reason, not by renouncing it
+- the historical and the critical sides of the `Dictionnaire` belong together, because dogma must first be attacked through source-criticism and the rational sorting of tradition
+- conscience and the universal rule of reason remain the tribunal for ethical claims, revelations, miracles, and scriptural interpretation
+- Bayle's skepticism is therefore still structurally allied with the Reformation motive of inward testing
+- the theoretical line opens only at the end, and its scope is carefully delimited: not the truth of concepts, but the absolute existence of things is what comes under attack
+
+Decision for now:
+
+- keep the history / reason / revelation line visible; it is the real Bayle opening
+- continue directly into the Eleatic and antinomic material, since the theoretical scope of Bayle's skepticism has just been stated
+- still no glossary promotion; the pressure remains structural
+
+## 2026-04-08 - Ninety-Seventh Naturphilosophie Tranche
+
+Advanced through printed pages `592-595` and wrote Part `148`.
+
+What was clarified:
+
+- Bayle's original move is now exact: he recognizes the force of antinomies for idealism
+- absolute matter and motion become internally contradictory as soon as they are treated as things-in-themselves rather than as ideal structures
+- the contradiction does not strike conceptual truth as such, but the claim that concepts must correspond to absolute being outside all relation to knowledge
+- this yields Bayle's harshest theoretical conclusion: revelation and reason cannot be mediated, only opposed
+- Bayle's real pathos lies in having recognized the indivisible unity of theoretical reason just when he gives it up altogether
+
+Decision for now:
+
+- keep the antinomy / idealism / sacrifice-of-theoretical-reason line visible; it is the real gain of the tranche
+- continue directly into the ethical reversal and its psychological ground
+- still no glossary promotion; the pressure remains architectonic
+
+## 2026-04-08 - Ninety-Eighth Naturphilosophie Tranche
+
+Advanced through printed pages `596-601` and wrote Part `149`, completing Volume I.
+
+What was clarified:
+
+- Bayle's apparent contradiction is now reconstructed as deliberate structure: theoretical reason is sacrificed to secure ethical autonomy and religious toleration
+- the aim of his enlightenment is not scientific completion but freedom of conscience
+- the deeper source of the split lies in his anthropology: unlike Montaigne, Bayle sees not natural innocence but radical misery and wickedness in history
+- this pessimism explains both his distrust of reason's empirical realization and his attraction to positive dogma
+- Cassirer's final limit-judgment is methodological: Bayle's reason remains too scholastic and dissolving, too distant from the constructive force of modern science, so Voltaire and Newton must take the critique farther
+
+Decision for now:
+
+- Volume I is now structurally complete through printed page `601`
+- no new glossary promotion; the pressure remained architectonic through the close
+- the next move is no longer forward translation in this volume, but either a review/repair pass on the completed scaffold or the opening of Volume II

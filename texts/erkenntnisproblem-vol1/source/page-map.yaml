@@ -1214,3 +1214,374 @@ ranges:
     printed_pages: ["503", "503"]
     trust: "high"
     note: "The running internal heading on printed page 503 / PDF page 527 marks the point where imagination is made to support real distinction and the mind-body relation loses genuine mediation."
+
+  - slug: "die-grenzen-der-cartesischen-philosophie-within-descartes"
+    label: "Opening of `Die Grenzen der Cartesischen Philosophie` within `Descartes`"
+    pdf_pages: [529, 529]
+    printed_pages: ["505", "505"]
+    trust: "high"
+    note: "The running internal heading on printed page 505 / PDF page 529 marks Cassirer's closing judgment that Cartesian method fails at absolute substance yet historically wins by transferring metaphysical conflict into the methodological field."
+
+  - slug: "die-fortbildung-der-cartesischen-philosophie-opening"
+    label: "Opening of `Die Fortbildung der Cartesischen Philosophie`"
+    pdf_pages: [530, 530]
+    printed_pages: ["506", "506"]
+    trust: "high"
+    note: "The centered subsection heading on printed page 506 / PDF page 530 opens the post-Cartesian problem as a history of transformations in the criterion of clear and distinct knowledge."
+
+  - slug: "das-kriterium-der-klaren-und-deutlichen-perzeption-within-fortbildung-der-cartesischen-philosophie"
+    label: "Opening of `Das Kriterium der klaren und deutlichen Perzeption` within `Die Fortbildung der Cartesischen Philosophie`"
+    pdf_pages: [531, 531]
+    printed_pages: ["507", "507"]
+    trust: "high"
+    note: "The running internal heading on printed page 507 / PDF page 531 marks the shift from self-active rational production toward the Augustinian re-grounding of clarity in God."
+
+  - slug: "cartesianismus-und-augustinismus-within-fortbildung-der-cartesischen-philosophie"
+    label: "Opening of `Cartesianismus und Augustinismus` within `Die Fortbildung der Cartesischen Philosophie`"
+    pdf_pages: [533, 533]
+    printed_pages: ["509", "509"]
+    trust: "high"
+    note: "The running internal heading on printed page 509 / PDF page 533 marks the successor field in which Arnauld, Malebranche, and Jansenism all gather around the Augustinian recoding of Cartesianism."
+
+  - slug: "pascal-opening"
+    label: "Opening of `Pascal`"
+    pdf_pages: [534, 534]
+    printed_pages: ["510", "510"]
+    trust: "high"
+    note: "The figure heading on printed page 510 / PDF page 534 introduces Pascal as the thinker who lives the Cartesian and Augustinian contradiction most intensely."
+
+  - slug: "die-idee-der-rationalen-erkenntnis-within-pascal"
+    label: "Opening of `Die Idee der rationalen Erkenntnis` within `Pascal`"
+    pdf_pages: [535, 535]
+    printed_pages: ["511", "511"]
+    trust: "high"
+    note: "The running internal heading on printed page 511 / PDF page 535 marks Pascal's early scientific-method line in the `Traité du vide`, where reason and experience are separated sharply from authority."
+
+  - slug: "die-methode-der-geometrie-within-pascal"
+    label: "Opening of `Die Methode der Geometrie` within `Pascal`"
+    pdf_pages: [537, 537]
+    printed_pages: ["513", "513"]
+    trust: "high"
+    note: "The running internal heading on printed page 513 / PDF page 537 marks Pascal's strongest positive statement of geometric method, first principles, and `natürliches Licht`."
+
+  - slug: "das-problem-des-unendlichen-within-pascal"
+    label: "Opening of `Das Problem des Unendlichen` within `Pascal`"
+    pdf_pages: [539, 539]
+    printed_pages: ["515", "515"]
+    trust: "high"
+    note: "The running internal heading on printed page 515 / PDF page 539 marks the stage where the infinite is still treated as an internal demand of thought rather than as a transcendent humiliation of it."
+
+  - slug: "die-wuerde-des-denkens-within-pascal"
+    label: "Opening of `Die Würde des Denkens` within `Pascal`"
+    pdf_pages: [541, 541]
+    printed_pages: ["517", "517"]
+    trust: "high"
+    note: "The running internal heading on printed page 517 / PDF page 541 marks the shift by which thinking becomes Pascal's ethical center rather than the organ of exact science."
+
+  - slug: "das-problem-der-ethik-within-pascal"
+    label: "Opening of `Das Problem der Ethik` within `Pascal`"
+    pdf_pages: [543, 543]
+    printed_pages: ["519", "519"]
+    trust: "high"
+    note: "The running internal heading on printed page 519 / PDF page 543 marks the point where greatness and misery, right and force, and the failure of reason are gathered into the ethical contradiction."
+
+  - slug: "das-mysterium-der-erbsuende-within-pascal"
+    label: "Opening of `Das Mysterium der Erbsünde` within `Pascal`"
+    pdf_pages: [545, 545]
+    printed_pages: ["521", "521"]
+    trust: "high"
+    note: "The running internal heading on printed page 521 / PDF page 545 marks the Jansenist turn where original sin becomes the sole explanatory hypothesis for the human contradiction."
+
+  - slug: "gottesbegriff-und-wahrheitsbegriff-within-pascal"
+    label: "Opening of `Gottesbegriff und Wahrheitsbegriff` within `Pascal`"
+    pdf_pages: [547, 547]
+    printed_pages: ["523", "523"]
+    trust: "high"
+    note: "The running internal heading on printed page 523 / PDF page 547 marks the collapse of mathematical first principles into feeling and the explicit linkage of Pascal's crisis back to Descartes."
+
+  - slug: "wille-und-intellekt-within-pascal"
+    label: "Opening of `Wille und Intellekt` within `Pascal`"
+    pdf_pages: [549, 549]
+    printed_pages: ["525", "525"]
+    trust: "high"
+    note: "The running internal heading on printed page 525 / PDF page 549 marks Cassirer's claim that Pascal's authority-turn also exposes the unresolved moral problem in Descartes' relation of will and intellect."
+
+  - slug: "verhaeltnis-zu-montaigne-within-pascal"
+    label: "Opening of `Verhältnis zu Montaigne` within `Pascal`"
+    pdf_pages: [551, 551]
+    printed_pages: ["527", "527"]
+    trust: "high"
+    note: "The running internal heading on printed page 527 / PDF page 551 marks the decisive contrast between Montaigne's doubt as method and Pascal's doubt as a fixed result interpreted by dogma."
+
+  - slug: "logik-und-kategorienlehre-opening"
+    label: "Opening of `B) Logik und Kategorienlehre`"
+    pdf_pages: [552, 552]
+    printed_pages: ["528", "528"]
+    trust: "high"
+    note: "The subsection opening on printed page 528 / PDF page 552 turns from Pascal's anti-rational completion of the Cartesian crisis to the need for a new logic adequate to the new mathematics and physics."
+
+  - slug: "verhaeltnis-der-logik-zur-psychologie-within-logik-und-kategorienlehre"
+    label: "Opening of `Verhältnis der Logik zur Psychologie` within `Logik und Kategorienlehre`"
+    pdf_pages: [553, 553]
+    printed_pages: ["529", "529"]
+    trust: "high"
+    note: "The running internal heading on printed page 529 / PDF page 553 marks Cassirer's claim that the Cartesian school largely psychologized logic instead of rebuilding it from mathematics and method."
+
+  - slug: "das-substrat-der-ewigen-wahrheiten-within-logik-und-kategorienlehre"
+    label: "Opening of `Das Substrat der ewigen Wahrheiten` within `Logik und Kategorienlehre`"
+    pdf_pages: [555, 555]
+    printed_pages: ["531", "531"]
+    trust: "high"
+    note: "The running internal heading on printed page 531 / PDF page 555 marks the Regis relapse in which ideas, innate concepts, and even eternal truths are made dependent on created reality."
+
+  - slug: "die-kritik-des-verstandes-within-logik-und-kategorienlehre"
+    label: "Opening of `Die Kritik des Verstandes` within `Logik und Kategorienlehre`"
+    pdf_pages: [557, 557]
+    printed_pages: ["533", "533"]
+    trust: "high"
+    note: "The running internal heading on printed page 533 / PDF page 557 marks Geulincx's deeper critical move: the forms of understanding are not to be projected directly into the structure of things."
+
+  - slug: "die-allegorischen-bestandteile-der-metaphysik-within-logik-und-kategorienlehre"
+    label: "Opening of `Die allegorischen Bestandteile der Metaphysik` within `Logik und Kategorienlehre`"
+    pdf_pages: [559, 559]
+    printed_pages: ["535", "535"]
+    trust: "high"
+    note: "The running internal heading on printed page 535 / PDF page 559 marks the polemic against explanatory images and anthropomorphic metaphors that still masquerade as metaphysical reasons."
+
+  - slug: "der-dogmatismus-der-metaphysik-within-logik-und-kategorienlehre"
+    label: "Opening of `Der Dogmatismus der Metaphysik` within `Logik und Kategorienlehre`"
+    pdf_pages: [561, 561]
+    printed_pages: ["537", "537"]
+    trust: "high"
+    note: "The running internal heading on printed page 537 / PDF page 561 marks the turn from allegorical and teleological explanation to the critique of self-certifying metaphysical axioms and the demand for a real method-order."
+
+  - slug: "die-verdinglichung-der-geistigen-funktionen-within-logik-und-kategorienlehre"
+    label: "Opening of `Die Verdinglichung der geistigen Funktionen` within `Logik und Kategorienlehre`"
+    pdf_pages: [563, 563]
+    printed_pages: ["539", "539"]
+    trust: "high"
+    note: "The running internal heading on printed page 539 / PDF page 563 marks the sharper critical move in which scholasticism is diagnosed as the reification of operations of thought into thing-like predicates and ontological furniture."
+
+  - slug: "der-dingbegriff-als-kategorie-within-logik-und-kategorienlehre"
+    label: "Opening of `Der Dingbegriff als Kategorie` within `Logik und Kategorienlehre`"
+    pdf_pages: [565, 565]
+    printed_pages: ["541", "541"]
+    trust: "high"
+    note: "The running internal heading on printed page 541 / PDF page 565 marks the point where the critique of scholastic reification reaches the thing-concept itself and presses toward a category-theory of objectivity."
+
+  - slug: "der-metaphysische-dualismus-von-leib-und-seele-within-logik-und-kategorienlehre"
+    label: "Opening of `Der metaphysische Dualismus von Leib und Seele` within `Logik und Kategorienlehre`"
+    pdf_pages: [567, 567]
+    printed_pages: ["543", "543"]
+    trust: "high"
+    note: "The running internal heading on printed page 543 / PDF page 567 marks Cassirer's judgment that Geulincx's critical method halts before Cartesian dualism and hardens into occasionalist metaphysics."
+
+  - slug: "das-absolute-und-das-system-der-begriffe-within-logik-und-kategorienlehre"
+    label: "Opening of `Das Absolute und das System der Begriffe` within `Logik und Kategorienlehre`"
+    pdf_pages: [569, 569]
+    printed_pages: ["545", "545"]
+    trust: "high"
+    note: "The running internal heading on printed page 545 / PDF page 569 marks Burthogge's stronger formulation of object, thing, and understanding as mediated by concepts and thus as intrinsically phenomenal for us."
+
+  - slug: "die-kategorie-der-substanz-within-logik-und-kategorienlehre"
+    label: "Opening of `Die Kategorie der Substanz` within `Logik und Kategorienlehre`"
+    pdf_pages: [571, 571]
+    printed_pages: ["547", "547"]
+    trust: "high"
+    note: "The running internal heading on printed page 547 / PDF page 571 marks the application of Burthogge's concept-critique to the distinction between mental and bodily substance."
+
+  - slug: "materie-und-denken-within-logik-und-kategorienlehre"
+    label: "Opening of `Materie und Denken` within `Logik und Kategorienlehre`"
+    pdf_pages: [573, 573]
+    printed_pages: ["549", "549"]
+    trust: "high"
+    note: "The running internal heading on printed page 549 / PDF page 573 marks Burthogge's insistence that matter and thought may be distinguished within phenomenal cognition without any successful metaphysical theory of their inner essence."
+
+  - slug: "der-kausalbegriff-within-logik-und-kategorienlehre"
+    label: "Opening of `Der Kausalbegriff` within `Logik und Kategorienlehre`"
+    pdf_pages: [575, 575]
+    printed_pages: ["551", "551"]
+    trust: "high"
+    note: "The running internal heading on printed page 551 / PDF page 575 marks the exact relapse-point at which Burthogge lets causality reopen the route from conditioned cognition to transcendent reality."
+
+  - slug: "die-ideenlehre-malebranche-opening"
+    label: "Opening of `C) Die Ideenlehre. — Malebranche`"
+    pdf_pages: [577, 577]
+    printed_pages: ["553", "553"]
+    trust: "high"
+    note: "The subsection opening on printed page 553 / PDF page 577 turns from the limits of Geulincx and Burthogge to the idealist line as it is reconfigured by psychology, imagination, and the analysis of error."
+
+  - slug: "die-anfaenge-der-modernen-psychologie-within-die-ideenlehre-malebranche"
+    label: "Opening of `Die Anfänge der modernen Psychologie` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [579, 579]
+    printed_pages: ["555", "555"]
+    trust: "high"
+    note: "The running internal heading on printed page 555 / PDF page 579 marks Malebranche's entry as the first genuine psychologist of modern philosophy and the shift from epistemic foundations to the psychological sources of error."
+
+  - slug: "das-problem-der-selbsterkenntnis-within-die-ideenlehre-malebranche"
+    label: "Opening of `Das Problem der Selbsterkenntnis` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [581, 581]
+    printed_pages: ["557", "557"]
+    trust: "high"
+    note: "The running internal heading on printed page 557 / PDF page 581 marks Malebranche's asymmetry between immediate certainty of the soul's existence and the lack of a distinct scientific idea of its nature."
+
+  - slug: "die-aufhebung-der-absoluten-materie-within-die-ideenlehre-malebranche"
+    label: "Opening of `Die Aufhebung der \"absoluten Materie\"` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [583, 583]
+    printed_pages: ["559", "559"]
+    trust: "high"
+    note: "The running internal heading on printed page 559 / PDF page 583 marks the rejection of hidden material substrate as scientifically empty and opens the further attack on causal force."
+
+  - slug: "die-kritik-des-kraftbegriffs-within-die-ideenlehre-malebranche"
+    label: "Opening of `Die Kritik des Kraftbegriffs` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [585, 585]
+    printed_pages: ["561", "561"]
+    trust: "high"
+    note: "The running internal heading on printed page 561 / PDF page 585 marks the reduction of force and efficacy to lawful quantitative relation and the explicit distinction from Hume."
+
+  - slug: "der-grundbegriff-der-relation-within-die-ideenlehre-malebranche"
+    label: "Opening of `Der Grundbegriff der Relation` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [587, 587]
+    printed_pages: ["563", "563"]
+    trust: "high"
+    note: "The running internal heading on printed page 563 / PDF page 587 marks the shift from merely psychological relativity to truth itself as objective relation and relation-of-relations."
+
+  - slug: "kraftbegriff-und-gesetzesbegriff-within-die-ideenlehre-malebranche"
+    label: "Opening of `Kraftbegriff und Gesetzesbegriff` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [589, 589]
+    printed_pages: ["565", "565"]
+    trust: "high"
+    note: "The running internal heading on printed page 565 / PDF page 589 marks the turn where efficacy is transferred from things to laws and then grounded metaphysically in divine will."
+
+  - slug: "der-psychologische-idealismus-within-die-ideenlehre-malebranche"
+    label: "Opening of `Der psychologische Idealismus` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [591, 591]
+    printed_pages: ["567", "567"]
+    trust: "high"
+    note: "The running internal heading on printed page 567 / PDF page 591 marks the shift to representation, dream, illusion, and the psychological route into Malebranche's idealism."
+
+  - slug: "die-kritik-des-ontologischen-beweises-within-die-ideenlehre-malebranche"
+    label: "Opening of `Die Kritik des ontologischen Beweises` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [593, 593]
+    printed_pages: ["569", "569"]
+    trust: "high"
+    note: "The running internal heading on printed page 569 / PDF page 593 marks Malebranche's rejection of the move from intelligible idea to actual being and his explicit distance from Spinozist ontology."
+
+  - slug: "idee-und-perception-within-die-ideenlehre-malebranche"
+    label: "Opening of `Idee und Perception` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [595, 595]
+    printed_pages: ["571", "571"]
+    trust: "high"
+    note: "The running internal heading on printed page 571 / PDF page 595 marks the turn from the stream of perceptions to the demand for durable thoughts and stable rule."
+
+  - slug: "die-idee-des-unendlichen-und-die-mathematik-within-die-ideenlehre-malebranche"
+    label: "Opening of `Die Idee des Unendlichen und die Mathematik` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [597, 597]
+    printed_pages: ["573", "573"]
+    trust: "high"
+    note: "The running internal heading on printed page 573 / PDF page 597 marks the use of infinity and mathematical generality against the psychological derivation of concepts."
+
+  - slug: "der-begriff-der-intelligiblen-ausdehnung-within-die-ideenlehre-malebranche"
+    label: "Opening of `Der Begriff der \"intelligiblen Ausdehnung\"` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [599, 599]
+    printed_pages: ["575", "575"]
+    trust: "high"
+    note: "The running internal heading on printed page 575 / PDF page 599 marks the transition from idea and infinity to the Augustinian ground of intelligible certainty."
+
+  - slug: "das-problem-der-ewigen-wahrheiten-within-die-ideenlehre-malebranche"
+    label: "Opening of `Das Problem der ewigen Wahrheiten` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [601, 601]
+    printed_pages: ["577", "577"]
+    trust: "high"
+    note: "The running internal heading on printed page 577 / PDF page 601 marks the tension between modern scientific necessity and Malebranche's metaphysical reification of ideas into divine being."
+
+  - slug: "arnaulds-einwaende-gegen-die-ideenlehre-within-die-ideenlehre-malebranche"
+    label: "Opening of `Arnaulds Einwände gegen die Ideenlehre` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [603, 603]
+    printed_pages: ["579", "579"]
+    trust: "high"
+    note: "The running internal heading on printed page 579 / PDF page 603 marks the critique that idea and perception are two relations of one consciousness-act, not two separate beings."
+
+  - slug: "die-vorstellung-und-ihr-gegenstand-within-die-ideenlehre-malebranche"
+    label: "Opening of `Die Vorstellung und ihr Gegenstand` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [605, 605]
+    printed_pages: ["581", "581"]
+    trust: "high"
+    note: "The running internal heading on printed page 581 / PDF page 605 marks the dispute over whether object-reference requires a prior metaphysical presence beyond consciousness."
+
+  - slug: "die-unbedingtheit-der-ewigen-wahrheiten-within-die-ideenlehre-malebranche"
+    label: "Opening of `Die Unbedingtheit der ewigen Wahrheiten` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [607, 607]
+    printed_pages: ["583", "583"]
+    trust: "high"
+    note: "The running internal heading on printed page 583 / PDF page 607 marks Malebranche's anti-voluntarist insistence that truth cannot depend on a free decree without destroying science."
+
+  - slug: "die-ideen-als-objektive-vernunftgesetze-within-die-ideenlehre-malebranche"
+    label: "Opening of `Die Ideen als objektive Vernunftgesetze` within `Die Ideenlehre. — Malebranche`"
+    pdf_pages: [609, 609]
+    printed_pages: ["585", "585"]
+    trust: "high"
+    note: "The running internal heading on printed page 585 / PDF page 609 marks the strongest rationalist formulation of Malebranche's anti-voluntarism, while still leaving reason tied back to a lawgiver."
+
+  - slug: "der-ausgang-der-cartesischen-philosophie-bayle-opening"
+    label: "Opening of `D) Der Ausgang der Cartesischen Philosophie. — Bayle`"
+    pdf_pages: [609, 609]
+    printed_pages: ["585", "585"]
+    trust: "high"
+    note: "The subsection opening on printed page 585 / PDF page 609 turns from Malebranche's unresolved rational law to Bayle as an immanent outcome of Cartesianism."
+
+  - slug: "bayle-und-montaigne-within-der-ausgang-der-cartesischen-philosophie-bayle"
+    label: "Opening of `Bayle und Montaigne` within `Der Ausgang der Cartesischen Philosophie. — Bayle`"
+    pdf_pages: [611, 611]
+    printed_pages: ["587", "587"]
+    trust: "high"
+    note: "The running internal heading on printed page 587 / PDF page 611 marks the comparison that relocates skepticism from Montaigne's anti-pedantry to Bayle's learned critical method and the missing foundation of the human sciences."
+
+  - slug: "das-problem-der-geisteswissenschaft-within-der-ausgang-der-cartesischen-philosophie-bayle"
+    label: "Opening of `Das Problem der Geisteswissenschaft` within `Der Ausgang der Cartesischen Philosophie. — Bayle`"
+    pdf_pages: [613, 613]
+    printed_pages: ["589", "589"]
+    trust: "high"
+    note: "The running internal heading on printed page 589 / PDF page 613 marks Bayle's use of rational criteria to found historical criticism and the human sciences against mere tradition."
+
+  - slug: "vernunft-und-offenbarung-within-der-ausgang-der-cartesischen-philosophie-bayle"
+    label: "Opening of `Vernunft und Offenbarung` within `Der Ausgang der Cartesischen Philosophie. — Bayle`"
+    pdf_pages: [615, 615]
+    printed_pages: ["591", "591"]
+    trust: "high"
+    note: "The running internal heading on printed page 591 / PDF page 615 marks Bayle's claim that revelation must justify itself before conscience and the natural light."
+
+  - slug: "die-antinomien-des-unendlichen-within-der-ausgang-der-cartesischen-philosophie-bayle"
+    label: "Opening of `Die Antinomien des Unendlichen` within `Der Ausgang der Cartesischen Philosophie. — Bayle`"
+    pdf_pages: [617, 617]
+    printed_pages: ["593", "593"]
+    trust: "high"
+    note: "The running internal heading on printed page 593 / PDF page 617 marks Bayle's discovery of antinomies as a basis for idealism against absolute matter."
+
+  - slug: "die-aufhebung-der-logischen-grundwahrheiten-within-der-ausgang-der-cartesischen-philosophie-bayle"
+    label: "Opening of `Die Aufhebung der logischen Grundwahrheiten` within `Der Ausgang der Cartesischen Philosophie. — Bayle`"
+    pdf_pages: [619, 619]
+    printed_pages: ["595", "595"]
+    trust: "high"
+    note: "The running internal heading on printed page 595 / PDF page 619 marks the point where submission to revelation dissolves even the unity of theoretical reason."
+
+  - slug: "das-ethische-ziel-der-bayleschen-skepsis-within-der-ausgang-der-cartesischen-philosophie-bayle"
+    label: "Opening of `Das ethische Ziel der Bayleschen Skepsis` within `Der Ausgang der Cartesischen Philosophie. — Bayle`"
+    pdf_pages: [621, 621]
+    printed_pages: ["597", "597"]
+    trust: "high"
+    note: "The running internal heading on printed page 597 / PDF page 621 marks Bayle's sacrifice of theoretical reason in order to secure ethical autonomy and toleration."
+
+  - slug: "das-psychologische-motiv-der-bayleschen-skepsis-within-der-ausgang-der-cartesischen-philosophie-bayle"
+    label: "Opening of `Das psychologische Motiv der Bayleschen Skepsis` within `Der Ausgang der Cartesischen Philosophie. — Bayle`"
+    pdf_pages: [623, 623]
+    printed_pages: ["599", "599"]
+    trust: "high"
+    note: "The running internal heading on printed page 599 / PDF page 623 marks Bayle's pessimistic anthropology as the deeper source of his skeptical split."
+
+  - slug: "die-grenzen-von-bayles-kritik-within-der-ausgang-der-cartesischen-philosophie-bayle"
+    label: "Opening of `Die Grenzen von Bayles Kritik` within `Der Ausgang der Cartesischen Philosophie. — Bayle`"
+    pdf_pages: [625, 625]
+    printed_pages: ["601", "601"]
+    trust: "high"
+    note: "The running internal heading on printed page 601 / PDF page 625 marks Cassirer's final judgment that Bayle's critique remains scholastic and needs the constructive force of modern science to be completed."

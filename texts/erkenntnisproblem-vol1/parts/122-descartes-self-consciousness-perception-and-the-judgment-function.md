@@ -29,7 +29,7 @@ Dieselbe Grundansicht wird auch gegen den Sensualismus des Gedächtnisses durchg
 So ist der Zusammenhang von Denken und Sein nach zwei Seiten bestimmt. Für die reinen Bewußtseinsphänomene bedarf das `cogito ergo sum` keines Beweises; im Akt des Erlebens ist das Erlebte unmittelbar gegeben. Aber auch hinsichtlich der Gegenstandserkenntnis bleibt sicher, daß die `Gegenstandsbeziehung` dem Gedanken wesentlich ist. In jedem tatsächlichen Denkakt ist nicht nur das Bewußtsein eines denkenden Ich, sondern auch das Bewußtsein eines gedachten Etwas eingeschlossen.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 Perception does not need to resemble its object materially. It only needs a functional correlation in which differences in the object correspond to differences in experience. Cassirer therefore treats sensation as a sign-language: not imitation, but analogical articulation of relations.

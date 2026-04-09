@@ -24,6 +24,12 @@ arbitrary prompting.
 The packet notes here are derived exploratory artifacts. They do not replace
 the journal, the glossary, or the translation batches.
 
+Repo policy:
+
+- `visuals/out/` is local scratch for raw Gemini runs and compare metadata
+- `keepers/` is the curated layer worth carrying in git
+- `plates/raster-ref/` is temporary conversion material, not a durable asset layer
+
 ## Later use
 
 If image generation is resumed, mirror the lighter workflow already tested in

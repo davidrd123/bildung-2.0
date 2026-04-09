@@ -29,7 +29,7 @@ Denn daß wir in ihnen nicht lediglich Kopien äußerer Dinge, sondern Erzeugnis
 So erkennen wir, daß derjenige Begriff der Natur, den die wissenschaftliche Forschung zugrunde legt, erst dadurch entsteht, daß wir mit unseren reinen logischen und mathematischen Idealbegriffen dem empirisch gegebenen Wahrnehmungsmaterial gegenübertreten und es nach ihnen umformen; ein Grundgedanke, der zuerst von Nikolaus Cusanus in seinem Begriff der `Assimilation` ausgesprochen war. Der Gegenstand der Naturerkenntnis besteht daher allein in Verhältnissen und Funktionen, die wir durch Proportionen zwischen Strecken anschaulich darzustellen haben. Wenn die Ausdehnung als `Substanz` bezeichnet wird, so bedeutet dies zunächst keine Abweichung von diesem Weg: da die Erkenntnis kein anderes Material als Raumgrößen und ihre Verhältnisse kennt, so ist auch das Sein des Objekts in ihnen hinlänglich bestimmt; Wahrheit und Sein sind Wechselbegriffe.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 Extension still does not mean a hidden bodily substance. It means the intellectual substrate we lay under appearances so that they become measurable and therefore comprehensible. The magnet example shows the rule: do not hunt an occult inner essence; gather the experiments and ask what combination of simple natures can generate the appearances.

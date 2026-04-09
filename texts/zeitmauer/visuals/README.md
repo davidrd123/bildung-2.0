@@ -7,6 +7,12 @@ The rule from the project charter still applies: visuals should begin from
 review-noted candidates, not from arbitrary prompt-chasing. Generated images are
 derived exploratory artifacts, not canonical source material.
 
+Repo policy:
+
+- `visuals/out/` is local scratch for raw runs, comparisons, and run metadata
+- `visuals/keepers/` is the curated layer that may belong in git
+- keep only the smallest durable set of winning images and provenance notes
+
 ## Default Output
 
 `python3 tools/vision.py edit ...` writes PNGs by default to:
@@ -16,6 +22,9 @@ texts/zeitmauer/visuals/out/YYYY-MM-DD/
 ```
 
 Use `--output-dir` if a different root is needed.
+
+That `out/` tree is intentionally not a durable publication layer. It is for
+working runs, not for filling the repository with every experiment.
 
 ## Install
 
@@ -161,6 +170,9 @@ Useful flags:
 - `--keepers-dir /tmp/vision-keepers` for testing
 - `--slug line-circle-spiral` to override the default keeper name
 - `--json-out path/to/promote-result.json`
+
+The keepers folder is the repo-facing layer. Promote only images that still
+look worth carrying after the compare pass.
 
 ## Current note
 

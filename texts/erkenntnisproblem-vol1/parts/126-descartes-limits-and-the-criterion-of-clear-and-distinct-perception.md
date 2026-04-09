@@ -29,7 +29,7 @@ Die Philosophie Descartes' beginnt mit der Frage nach der Geltung und den Grenze
 Der Wertausdruck des `Klaren und Deutlichen` kommt ursprünglich und zunächst denjenigen Begriffen und Sätzen zu, die der Geist aus seinem eigenen Grunde und aus eigenem Vermögen selbsttätig entwickelt. Die Wahrheit jeglicher Erkenntnis ist dadurch bedingt, daß die Mittel, die wir zu ihrer Formung und Gestaltung verwenden, nicht von außen, von dem Zeugnis der Sinne, entlehnt, noch durch irgendeine jenseitige Offenbarung gegeben sind. Je mehr indes Gott als der Grund für das Dasein und die Verknüpfung der Dinge herausgehoben wurde, um so mehr mußte auch der Ursprung der Erkenntnis auf diesen alleinigen Mittelpunkt zurückbezogen werden. Mit dieser Wendung hat das Prinzip des `Cogito` seine eigentümliche und moderne Bedeutung eingebüßt.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 Cassirer's closing diagnosis is severe. Descartes can only explain mind-body efficacy by falling back into an anthropomorphic and quasi-scholastic picture, and once the soul is allowed to alter the direction of motion, exact quantitative unity is broken from within. The Cartesian method fails where it tries to solve the problem of absolute substance.

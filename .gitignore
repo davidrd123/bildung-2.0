@@ -2,6 +2,8 @@ books/
 __pycache__/
 .obsidian/
 texts/*/output/
+texts/*/visuals/out/
+texts/*/visuals/plates/raster-ref/
 sources/modern/incoming/books/
 sources/modern/incoming/local/
 sources/modern/incoming/acquisition-list/

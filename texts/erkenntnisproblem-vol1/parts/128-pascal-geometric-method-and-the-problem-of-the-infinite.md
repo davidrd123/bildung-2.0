@@ -29,7 +29,7 @@ Von der Skepsis, die später in den `Pensées` gegen unsere `Natur` und ihre unm
 Auch ihr gilt als feststehend, daß das Unendliche, von dessen Existenz uns notwendige und zwingende Gründe überzeugen, uns seiner Natur nach unbegreiflich bleibt. Hier aber ist es der Verstand selbst, der das Sein des Unendlichen verficht und behauptet; hier sind es die unbestreitbaren Prinzipien der Geometrie, die die Wahrheit der schrankenlosen Ausdehnung und Teilbarkeit der Materie erhärten. Hier ist somit das Unendliche noch nicht das Beispiel eines transscendenten Inhalts, der das System unserer `natürlichen Begriffe` entwertet; es ist eine Forderung dieses Systems selbst.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 Pascal's methodological ideal is uncompromising: nothing should count as known unless its structure has been analyzed and derived from first grounds. Yet this rigor does not lead him to demand discursive proof for absolutely everything. The first principles of mathematics are limits of analysis, but not defects in it. Their immediate evidence belongs to the nature of our knowing.

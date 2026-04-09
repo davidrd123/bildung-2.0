@@ -29,7 +29,7 @@ Es ist außerordentlich lehrreich zu verfolgen, wie sich der neue Gedanke aus ei
 In der Methodik der mathematischen Wissenschaften steht somit die Geometrie für Kepler an erster Stelle. Sie ist das Muster, an dem er sich über den Erkenntniswert des Mathematischen überhaupt orientiert. In dieser Beschränkung zeigt er seine logische Meisterschaft. So befestigt
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 ... in the relations of heavenly bodies as well, gravity implies not only a movement of the earth toward the moon but also of the moon toward the earth. Only in this thought of relativity is animism finally uprooted. Metaphysics' purely inner forces disappear; force no longer belongs to one isolated subject but already contains relation to a second, external element. The dominant question therefore shifts from the concept of force to the law of force. Kepler even explicitly considers inverse-square attraction, though he rejects it because he still thinks gravity propagates only within the plane of the planetary orbits. Cassirer still treats this as a genuine historical emergence of the gravitation problem, because Kepler has already made the core thought discussable.

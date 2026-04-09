@@ -29,7 +29,7 @@ In der Schilderung, die der „Discours de la methode“ von der Entstehung des 
 Von der Logik entlehnt diese neue Wissenschaft das Ideal des streng deduktiven Aufbaus und die Forderung erster „evidenter“ Grundlagen der Beweisführung: nach dem Vorbild der Geometrie und Algebra bestimmt sie den Inhalt, den sie diesen Grundlagen gibt. Wenn wir untersuchen, welcher Art dieser Inhalt ist, wenn wir fragen, warum nicht nur die Lehre von den Zahlen, sondern auch die Astronomie, die Musik, die Optik, die Mechanik der „Mathematik“ zugerechnet werden: so finden wir, daß die Gemeinsamkeit ihres Objekts und ihres Verfahrens in dem Begriff der Ordnung und des Maßes wurzelt, den sie insgesamt zugrunde legen. Man mag diese Ordnung in den Gestalten oder Zahlen, in den Gestirnen oder Tönen aufsuchen und bestimmen; immer bleibt der allgemeine Gedanke des Verhältnisses und der Beziehung der einzelne Ausgangspunkt. Eine reine Wissenschaft von „Proportionen“ und „Relationen“ - unabhängig von aller Besonderheit der Objekte, in denen sie sich darstellen und verkörpern - bildet somit die erste Forderung und den ersten Gegenstand, auf den die Methode sich richtet.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 ... once the pure intellect has become the first object in the order of truths, a second distinction becomes necessary. Descartes’ philosophy develops along two lines: the inner unity of intellect unfolding into mathematics and science, and the later attempt to ground this whole body of knowledge in highest metaphysical being. Cassirer’s historical decision is clear: the method-line carries the real enduring force, while metaphysics comes later and fractures quickly in the successors.

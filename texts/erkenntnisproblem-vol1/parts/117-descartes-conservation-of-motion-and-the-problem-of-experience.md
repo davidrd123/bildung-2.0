@@ -29,7 +29,7 @@ Hier steht Cassirer vor dem neuen Problem: welcher Wert kommt der `Erfahrung` zu
 `Intuition` und `Deduktion` bleiben die Grundmittel des Geistes. Alles Wissen muß vom Einfachen zum Zusammengesetzten, von den Ursachen zu den Wirkungen fortschreiten. Die Erfahrung vermag einen verwickelten Vorgang niemals vollständig aufzuklären; ihre Antwort ist selbst mehrdeutig und bedarf der Interpretation durch den Begriff. Und doch ist dies kein scholastischer Apriorismus: die `Wahrheit der Erscheinung` bleibt das, was bestimmt werden muß, und die Erklärung `aus den Ursachen` ist nichts anderes als Deduktion aus einem universellen Gesetz.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 For Cassirer, Cartesian mechanism is not a return to crude matter-talk but a purification of causality. No inward sympathy is needed; a constant `quantity of motion` and its redistribution are enough to make causal transition intelligible. Cause is reduced to what arithmetic and geometry can articulate.

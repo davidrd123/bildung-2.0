@@ -29,7 +29,7 @@ Dasselbe zeigt sich am Problem der `Einbildungskraft`. Innerhalb der Methode war
 Zwischen den beiden Hälften des Seins ist dann keine wahre Vermittlung mehr möglich. Zwar versucht Descartes durch eine dritte Klasse ursprünglicher Begriffe den Zusammenhang von Geist und Körper darzustellen; was sich aber für Erkenntnisfunktionen und mathematische Relationen verstehen läßt, bleibt dunkel, sobald von einer fremden heterogenen Substanz gehandelt werden soll.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 At first `innate ideas` mean exactly what Cassirer wants them to mean: not ready-made contents, but the mind's capacity to generate determinate concepts through methodical activity. In that sense Descartes remains a rationalist of production rather than of implanted entities.

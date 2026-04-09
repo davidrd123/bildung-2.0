@@ -29,7 +29,7 @@ Dies zeigt sich auch im Verhältnis zu Galilei. Wenn Descartes dem Fallgesetz vo
 Der falsche `Apriorismus` beginnt dort, wo eine unmittelbare Deckung zwischen rationaler Grundlage und sinnlich gegebener Erfahrung behauptet wird. Für die echte idealistische Auffassung bleibt ein Abstand zwischen `Wahrheit` und `Wirklichkeit` bestehen. Wo dagegen die volle Identität zwischen Begriff und Sein gefordert wird, geraten wir bereits in den Bannkreis der Metaphysik. Von hier aus wird verständlich, warum Descartes sich zu dieser Fragestellung gedrängt fühlte: ihm ging es um den `Begriff der Wirklichkeit` selbst, und die Logik der Gesetze verbürgte noch nicht die Existenz der Dinge.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 Cassirer's complaint is precise. Cartesian physics fails not because its foundations are wrong, but because Descartes does not let those foundations govern the concrete derivation of cases. The collision laws should have unfolded continuously from one conserved equation; instead they appear as disconnected special rules. The same impatience shows up where Descartes treats direction-change as costless and so abandons his own principle of exact quantitative determinability.

@@ -31,7 +31,7 @@ An dieser Stelle aber wird zugleich deutlich, wie sehr der Idealismus Keplers mi
 Die reine Erkenntnis unterscheidet sich freilich von der empirischen dadurch, daß in ihr auch die Materie des Wissens nicht von außen stammt, sondern konstruktiv nach Gesetzen des Denkens erschaffen ist. Nicht nur die geometrischen Relationen, auch die Inhalte, die in diesen Relationen stehen, auch der Punkt, die Gerade, der Kreis gehören dem Gesetze des „Geistes selbst“ an und sind dadurch völlig beherrschbar. Aber auch dort, wo dies nicht der Fall ist; - auch dort, wo die besonderen Gegenstände, von denen das Urteil gilt, nicht anders als durch die Empfindung bekannt sind, wird hierdurch der logische Charakter der Ver-
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 ... Kepler still remains outwardly entangled in Aristotelian and scholastic optics. Light is treated as an immaterial essence and perception as dependent on effluxes from objects. But these material assumptions no longer explain the decisive act. Sensory contents may come from outside, yet the relating of them does not. The senses offer only a chaotic multiplicity; unity and order arise only through intellectual appraisal. A proportion is not recognized as harmonious unless spirit compares the given contents with an inner archetype of order and consonance.

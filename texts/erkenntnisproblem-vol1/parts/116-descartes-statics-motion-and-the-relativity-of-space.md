@@ -29,7 +29,7 @@ Die Fruchtbarkeit dieses Gedankens erweist sich zunächst an den Problemen der S
 Beim Übergang zur Dynamik zeigt sich derselbe Zug. Der freie Fall wird geometrisch dargestellt; die in jedem Moment erworbenen Geschwindigkeiten werden durch Linien repräsentiert und summiert. Dadurch tritt der Gedanke der `Relativität der Bewegung` hervor: Bewegung ist keine absolute innere Eigenschaft des Körpers, sondern nur Stellenwechsel im Raum, der ohne ein Bezugssystem keinen Inhalt hat. `Ruhend` und `fest` ist, was wir im Denken so setzen. Gerade darin liegt die philosophische Bedeutung der Descartes'schen Raumauffassung: sie bewahrt vor der Hypostasierung des Raumes zu einer eigenen geistigen Wirklichkeit. Von hier aus öffnet sich am Ende bereits der schärfere Gegensatz zur älteren belebten Naturansicht, den Cassirer mit dem Vergleich zu Bruno vorbereitet.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 The reply to Gassendi is blunt: if mathematical space is dismissed as a mere thought-thing, then everything genuinely understood must be excluded from reality. Descartes' wager is that exact concepts are the only binding criterion available to reason, even if they are not claimed as direct mirrors of absolute being.

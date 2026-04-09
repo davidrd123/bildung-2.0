@@ -31,7 +31,7 @@ Dies allein bedeutet es, wenn wir aussprechen, daß der physikalische Körper ni
 In allen diesen Entwicklungen fungiert die Ausdehnung als ein `Zeichen der Erkenntnis`, mit dessen Hilfe wir die Beschaffenheiten des wahrnehmbaren Stoffes dem Geiste vorstellen. Nicht die Dinge selbst, sondern bestimmte räumliche Symbole und `Abkürzungen` von ihnen sind der Betrachtung zu unterbreiten. Auch hier gilt: man darf den selbstgeschaffenen Bildungen des Denkens keine neue selbständige Wesenheit unterschieben.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 The methodological claim now becomes exact. Comparison is possible only where both terms admit `more` and `less`, and this is why extension becomes the universal substrate of exact determination. Space is the coordinate-system to which all problems of magnitude-comparison must be referred.

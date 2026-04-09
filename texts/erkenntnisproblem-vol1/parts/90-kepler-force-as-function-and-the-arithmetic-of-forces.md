@@ -29,7 +29,7 @@ Für die geschichtliche Problemlage ist es hierbei bezeichnend, daß er sich, um
 Keplers empirische Erklärung der Schwere, in der sich sein allgemeiner Begriff der Kraft bewährt und mit konkretem Inhalt erfüllt, knüpft geschichtlich an Gilberts Theorie des Magnetismus an. Gilberts Werk "Über den Magneten", das im Jahre 1600 erschien, ist eines der frühesten Zeugnisse des modernen induktiven Verfahrens und wird als solches von Kepler und Galilei gleichmäßig hochgehalten. Beide knüpfen nicht nur an die Ergebnisse der Schrift an, die sie weiter ausbauen und aus allgemeinen theoretischen
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 ... as magnitudes dependent on the given numerical elements of the orbit. The closer analysis distinguishes three groups of such elements: the measure of the force belonging to a planet at a given segment of its path is determined by the size of the radius vectors for the points of the orbit, by the length of the traversed arc, and by the time required to cover that path. What is sought is not the inner driving cause of motion; the very concept of cause dissolves into a complex of mathematical conditions. Cassirer says this formulation already governs Kepler's later theory of gravitation step by step. It also excludes supersensible and immaterial interventions from nature, because only within bodily extension can fixed measure and exact causality be applied. Any appeal to an outside agent would introduce a geometric uncertainty into a universe whose true divine constitution requires each element to be derivable from the others in demonstrative fashion.

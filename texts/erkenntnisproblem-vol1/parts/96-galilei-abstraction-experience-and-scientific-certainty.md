@@ -33,7 +33,7 @@ Eins freilich müssen wir uns hier von Anfang an gegenwärtig halten: daß Galil
 Der Gegensatz zur scholastischen Denkweise findet seine vollendete Darstellung in einer Stelle der "Dialoge über die Weltsysteme", in der die Anwendbarkeit der geometrischen Begriffe und Sätze auf die Gegenstände der unmittelbaren sinnlichen Erfahrung erörtert wird. Der Schulphilosophie, wie sie hier in Simplicio verkörpert wird, bietet diese Frage keine Schwierigkeit. Die mathematischen Spitzfindigkeiten mögen, abstrakt genommen, richtig und zutreffend sein; aber es wäre unbillig, für sie eine genaue und exakte Entsprechung in der "sinnlichen und physischen Materie" zu fordern. Daß eine Kugel eine Ebene nur in einem Punkte berühre, trifft zwar in der Theorie, nicht aber in der Welt der Wirklichkeit zu. In der Analyse dieses Satzes geht Galilei vor allem davon aus, den Dualismus zwischen Wahrheit und Wirklichkeit, der hier vorausgesetzt wird, zu beseitigen. Die Kugel, wie die Ebene besitzen keine andere "Existenz", als die Wahrheit und Bestimmtheit,
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 ... the early Renaissance formula opposing exact observation to dry abstraction is, Cassirer says, only the subjective affect of the break with scholasticism. It does not yet state the real scientific problem. Galileo's actual genius lies in analysis: the decomposition of complex phenomena into their conditions and the isolated pursuit of each condition. Abstraction therefore returns in a new and fruitful sense. This is why the roles reverse. Galileo, who began by opposing syllogistic generality in the name of concrete reality, becomes the defender of scientific concept-formation.

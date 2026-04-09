@@ -31,7 +31,7 @@ Wie sehr diese Wendung der abstrakten Mathematik geeignet war, das Fundament des
 Blicken wir nunmehr von der Geometrie zur Algebra hinüber, so steht auch hier das logische Verhältnis von Quantität und Qualität im Mittelpunkt der Betrachtung. Die Einführung der Buchstabenrechnung, die den Keim der künftigen Entwicklung in sich enthält, nimmt von einer neuen Beziehung zwischen Zahl und Raum, zwischen der abstrakten Quantität und der benannten Größe ihren Ausgang. Die reinen arithmetischen Operationen bleiben nicht länger isoliert; sie nehmen eine Bezeichnung und eine Ausdrucksform an, die sie unmittelbar zur Wiedergabe der Verknüpfung und konstruktiven Vereinigung räumlicher Größen befähigt. Die Symbole, mit denen gerechnet wird, sind nichts anderes, als die Zeichen für bestimmte Grundgebilde des Raumes: die „figürliche“ Analysis unterscheidet sich von der gewöhnlichen dadurch, daß sie statt mit Zahlen mit den Gestalten und Formen der Dinge operiert.
 ```
 
-**English (draft)**
+**English (gloss)**
 
 ```text
 ... Cavalieri still has to struggle to keep the geometrical infinite from becoming a metaphysical being. It should mean only a tool for expressing finite proportions, an `infinitum secundum quid`, comparable to the algebraic `x`. Even if Cavalieri hesitates philosophically, Cassirer’s own point is clear: if the continuum can everywhere be replaced by the totality of its constituents for mathematical judgment, then no hidden inner essence can matter for science.
