@@ -1,40 +1,43 @@
 # Right Now
 
-Last updated: 2026-04-08
+Last updated: 2026-04-09
 
 ## Proven
 
 - The repo has a usable layer split: `patterns/charter.md` states purpose, `00-Notes/process.md` states workflow, `patterns/handle-schema.md` states reference grammar.
-- The handle/evidence/thread pilot is real in `texts/zeitmauer/source/handles.yaml` through `§§1-156`. Evidence chains for `term:schicksalszeit`, `term:hinzutretende`, `term:da-sein-so-sein`, `term:weltplan`, and `term:erdgeschichtlich` are machine-readable. `thread:time-crisis` and `thread:predecided-world` now have workable traversals, and `zeitmauer` remains the strongest canonical implementation of the handle layer.
+- The handle/evidence/thread pilot is real in `texts/zeitmauer/source/handles.yaml` through `§§1-175`. Evidence chains for `term:schicksalszeit`, `term:hinzutretende`, `term:da-sein-so-sein`, `term:weltplan`, and `term:erdgeschichtlich` are machine-readable. `thread:time-crisis` and `thread:predecided-world` now have workable traversals, and `zeitmauer` remains the strongest canonical implementation of the handle layer.
 - Symbiotic-Vault interoperability is concrete at the handle layer through loose-coupled `vault:*` and `b2:*` references.
 - The architecture designed for three subprojects is now silently supporting five, plus two completed bounded source campaigns and a modern-sources directory. The layer split, journals, and glossaries are carrying the load without needing more ontology.
 - CLAUDE.md guardrails are in place, broadcasting the Goethe/Leibniz balance, deferred structure, evidence-before-framework, and opacity-not-foreignness principles to every agent session.
-- The April 4 DeepResearch synthesis clarified the actual project state more precisely: the repo remains text-led because the filtration discipline is active; the real watchpoint is quiet reserve-creep and modest overreach, not only loud architectural inflation.
 - The practice queue has been reframed from "translation" to "source encounter and decryption" — governing problem is opacity, not foreignness.
+- Erkenntnisproblem Volume I is now a completed, source-backed node: 149 parts through printed page 601, with an earned distillation, whole-run scratch note, close-reading ledger, glossary (49 entries), session ledger, and a cross-project review batch (Tasks 01-04). The completed run gives the repo a trustworthy local authority surface for Cassirer's historical epistemology of lawful cognition.
+- A Cassirer-pressure note for Zeitmauer is now filed at `texts/zeitmauer/threads/cassirer-pressure-on-zeitmauer.md`, giving four operational constraints and honest negatives for cross-project use.
+- The Uexküll source campaign is complete (5 encounters) with a 02b candidate (3 undrafted passages from pp. 102-103) filed but not yet reviewed.
+- A qmd retrieval experiment confirmed that BM25 over authority-separated collections works for repo-native queries. Retrieval roadmap and eval seed are filed.
+- The source-role taxonomy (primary / source-language commentary / continued primary work / thinker-on-thinker) is in living-layer use as a reading filter, with provisional source-role tags for the April 6 DeepResearch batch.
 
 ## Current
 
-- **Erkenntnisproblem** is still the most active translation line: 55 parts on disk, Book II `Naturphilosophie` underway, the close-reading ledger is live, and a real local apparatus now exists around the Cusanus chain, bounded reading distillations, and the second-pass pressure map.
-- **Zeitmauer** is still the most structurally advanced subproject: 52 parts on disk, now through `§156`, with the handle pilot, evidence chains, thread dossiers, and visual experiments all serving live translation work rather than replacing it.
-- **Tektologiya** now has 27 part files on disk: the first pass through volume-1 main text is complete through `1.1-5.4`, the selective front-matter pass is complete through `front.10`, packet `01` now curates the first seven architectural diagrams, the first two SVG plates are on disk, and the glossary carries a compact stable core of organizational vocabulary. Its next value is likely as a demand-led instrument for selected cross-project and modern-source use, not as another linear march.
-- **Escolios I** remains in selective second-pass mode: the first pass through the available source is complete at 17 section files, with a minimal handle layer and a load-bearing reread bias rather than ongoing sequential expansion.
-- **Escolios II** is no longer just a scaffold: 32 real section files are now on disk, the Spanish extraction has stabilized enough for honest batching, and the Italian witness has settled into a secondary control role.
-- **Exegesis** is structurally farther along than the old standing note said: the first pass is complete at 75 passes, second-pass knot syntheses are underway, and the project now has a clearer bridge into workspace-level method.
-- **Sources**: Uexküll is complete, Anders Band I is complete, and the modern-source shelf remains active but should stay demand-led rather than queue-led.
+- **Erkenntnisproblem** Volume I is complete. 149 parts, the English layer repaired, the review apparatus filed. The next legitimate moves are: bounded late German repair (Parts 142-149), opening Volume II, or bounded cross-volume synthesis. No further forward translation inside Volume I.
+- **Zeitmauer** is the most active translation line: 57 parts on disk, now through `§175` (`Urgrund und Person`), with the handle pilot, evidence chains, thread dossiers, and the new Cassirer-pressure note all serving live translation work.
+- **Tektologiya** has 27 part files on disk: the first pass through volume-1 main text is complete through `1.1-5.4`, the selective front-matter pass is complete through `front.10`, and the glossary carries a compact stable core of organizational vocabulary. Its next value is likely demand-led, not linear.
+- **Escolios I** remains in selective second-pass mode: 17 section files, minimal handle layer, load-bearing reread bias.
+- **Escolios II** has 51 section files on disk. The Spanish extraction has stabilized for honest batching.
+- **Exegesis** first pass complete at 75 passes, second-pass knot syntheses underway.
+- **Sources**: Uexküll complete, Anders Band I complete, modern-source shelf active but demand-led. Acquisition list filed with tiered priorities.
 
 ## Next
 
-- Continue Erkenntnisproblem directly from the broken sentence on bodily processes in Paracelsus into the next `Naturphilosophie` tranche while keeping the Cusanus apparatus local unless more pressure earns promotion.
-- Return to `Zeitmauer` into `§§157-159`, where the run turns from decadence and scale toward freedom, revolution, and the utopian archive.
-- Extend Tektologiya packet `01` beyond the first two plates, probably with the selection transition or law-of-leasts fork, and keep the composite mechanism poster deferred until the simpler grammar has a stable visual language.
-- Keep batching `Escolios II` from the cleaned Spanish source and let source trouble surface locally rather than reopening the whole intake problem.
+- Continue Zeitmauer into `§§176+`, where the run moves beyond `Urgrund und Person`.
+- Decide whether to open Erkenntnisproblem Volume II or let the completed Volume I sit while other subprojects advance.
+- Keep batching Escolios II from the cleaned Spanish source.
 - Keep crystallizing only what the work forces. The journals, glossaries, ledgers, and thread dossiers are doing the catching.
 
 ## Live Question
 
-- Which parts of Cassirer's growing local apparatus, if any, deserve promotion beyond project-local use?
-- How should lightweight cross-project and modern-source contact traces be recorded across different secondary-trace media (`handles.yaml`, ledgers, journals, encounter files) without forcing one format on every subproject?
-- When has another text actually earned a tektological rereading instead of merely tolerating one?
+- The Cassirer-pressure note gives Zeitmauer four constraints (measure is constitutive, Weltplan anti-reification, naming crisis ≠ anti-concept, Urgrund must earn ground). Do these change what the next Zeitmauer batch makes visible, or are they inert?
+- The source-role taxonomy proposes reading one source-language commentary piece before a translation return. When is the right moment to run that test — next Zeitmauer session? Next erk return?
+- The glossary audit flagged five missed promotions (Relation, Unendliches, Kraft, Gesetz, Potenz) and one homeless pattern (reification). Should these be carved now or only when re-entry demands it?
 
 ## Do Not Do Yet
 
@@ -43,4 +46,5 @@ Last updated: 2026-04-08
 - Do not build the dynamic view layer before handle practice stabilizes beyond one strong pilot.
 - Do not promote anything to `stable` on agent fluency alone.
 - Do not let reserve vocabulary quietly pre-earn a framework.
-- Do not turn hardening moves into universal overhead for ordinary translation flow.
+- Do not open Volume II as an escape from late Volume I repair if the Bayle tail still needs German density work.
+- Do not expand the retrieval stack (BGE-M3, ColBERT, reranking) before the BM25 baseline has a proper evaluation set.

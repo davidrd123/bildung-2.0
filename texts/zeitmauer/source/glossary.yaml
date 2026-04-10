@@ -70,7 +70,7 @@
     - "Deep Ground and Person"
     - "Primal Ground and the Person"
   status: tentative
-  notes: "Working after §§167-170. The opening does not yet unfold `Urgrund` directly in the body text; instead it enters the part through the father-question, the withdrawal of the personal gods, church as institution, metaphysical interregnum, `Great Houses`, and `Second Religiosity`. `Primal Ground and Person` therefore remains workable as a title-level choice because the personal pole is already under pressure while the `Urgrund` pole is still being approached."
+  notes: "Working after §§176-180. The part still does not unfold `Urgrund` directly as a settled body-term; instead it advances through the father-question, the withdrawal of the personal gods, church as institution, metaphysical interregnum, `Great Houses`, and `Second Religiosity`, then through church versus `kosmisch-metaphysische Gesamtlage`, late church as surviving power-station, paternal law as `nachwirkende Macht`, the return of `der Hinzutretende`, and emptiness rather than nothing as the remaining gap in `Weltplan`, before reopening the worker/materialism line and letting `Urgrund` return through the maternal register, anti-paternal transformation, and nihilism as transit. `Primal Ground and Person` therefore remains workable as a title-level choice because the personal pole is under continuous pressure while the `Urgrund` pole is still being approached obliquely rather than unfolded directly."
 
 - term: "Schicksalszeit"
   handle: "term:schicksalszeit"
@@ -111,7 +111,8 @@
     - "evidence:term:urgrund:zm:117"
     - "evidence:term:urgrund:zm:118"
     - "evidence:term:urgrund:zm:131"
-  notes: "Still needs wider context from the final section before fixing. §82 gives the first real pressure in the translated range by reaching `Urgrund` through matter, visibility, and identity rather than through later overtly theological language. §117 carries the term into direct earth-power and world-spiritualization: matter in its deepest form, as `Urgrund,` seizes man as its workman and presses him into service. §118 is the strongest conceptual pressure yet: the term is chosen explicitly over `Weltgeist`, criticized for progressive and anthropocentric residue, and tied to the claim that being is now widely imagined as dwelling in the `Urgrund` rather than in spirit. §131 extends it into a mythic-cosmogonic register: the earth as `Urgrund,` as chaos, seeks new fertility and a new garment through the downfall of gods."
+    - "evidence:term:urgrund:zm:179"
+  notes: "The final section now sharpens the term without fully settling the English. §82 gives the first real pressure in the translated range by reaching `Urgrund` through matter, visibility, and identity rather than through later overtly theological language. §117 carries the term into direct earth-power and world-spiritualization: matter in its deepest form, as `Urgrund,` seizes man as its workman and presses him into service. §118 is the strongest conceptual pressure yet: the term is chosen explicitly over `Weltgeist`, criticized for progressive and anthropocentric residue, and tied to the claim that being is now widely imagined as dwelling in the `Urgrund` rather than in spirit. §131 extends it into a mythic-cosmogonic register: the earth as `Urgrund,` as chaos, seeks new fertility and a new garment through the downfall of gods. §179 extends it into the maternal register of the final section: the mother embodies `Urgrund` from herself and gives birth out of it, so father-right loses force to matriarchal power."
 
 - term: "erdgeschichtlich"
   handle: "term:erdgeschichtlich"
@@ -161,7 +162,9 @@
     - "evidence:term:weltplan:zm:110"
     - "evidence:term:weltplan:zm:128"
     - "evidence:term:weltplan:zm:146"
-  notes: "Hyphenation keeps the German compound visible. §17 sharpens it by explicit contrast with `Menschenplan`; §37 reactivates it as the missing criterion of unity and direction in Spengler's morphology; §110 carries it into Part 4, where the state-plan leaps beyond the historical field into the world-plan, receives new alignment there, and draws on a hidden share of world-reason within every human plan. §128 extends that pressure into democracy itself: the world-plan is said to be more comprehensive than every social and state plan and to control planning from behind for reasons closed even to sharp insight. §146 sharpens it again in the register of research: the successful experiment counts as visible progress in `Weltplan`, and research gains legitimacy because it works inside a plan superior to the state plans."
+    - "evidence:term:weltplan:zm:175"
+    - "evidence:term:weltplan:zm:180"
+  notes: "Hyphenation keeps the German compound visible. §17 sharpens it by explicit contrast with `Menschenplan`; §37 reactivates it as the missing criterion of unity and direction in Spengler's morphology; §110 carries it into Part 4, where the state-plan leaps beyond the historical field into the world-plan, receives new alignment there, and draws on a hidden share of world-reason within every human plan. §128 extends that pressure into democracy itself: the world-plan is said to be more comprehensive than every social and state plan and to control planning from behind for reasons closed even to sharp insight. §146 sharpens it again in the register of research: the successful experiment counts as visible progress in `Weltplan`, and research gains legitimacy because it works inside a plan superior to the state plans. §175 extends it into the register of emptiness and search: a gap internal to the world-plan remains, one that no thinking and no `Staatsplan` can fill. §180 extends it into the register of nihilism and state-swelling: clearing-away belongs to `Weltplan` only transitively, and the intensification of the state is treated as a final exertion rather than a lasting final form."
 
 - term: "Bruchstelle"
   handle: "term:bruchstelle"
@@ -192,7 +195,8 @@
     - "evidence:term:hinzutretende:zm:7"
     - "evidence:term:hinzutretende:zm:9"
     - "evidence:term:hinzutretende:zm:36"
-  notes: "By §§6-9 this is structural as interpreter, guarantor, and priestly figure who adds no new facts but confers assurance and meaning. §36 extends the figure into physiognomic history-reading, where the instinct of the one who comes in addition gains prophetic force."
+    - "evidence:term:hinzutretende:zm:174"
+  notes: "By §§6-9 this is structural as interpreter, guarantor, and priestly figure who adds no new facts but confers assurance and meaning. §36 extends the figure into physiognomic history-reading, where the instinct of the one who comes in addition gains prophetic force. §174 returns the figure in a stronger later register: the man in the street resembles the Pythia, his judgments are deep but require interpretation, and the one who comes in addition is rejoined to faith, method, and relation to being rather than left inside astrology alone."
 
 - term: "Da-Sein / So-Sein"
   handle: "term:da-sein-so-sein"

@@ -1595,3 +1595,99 @@ Decision for now:
 - no glossary status promotions
 - no new thread dossier
 - use this completed reread, together with the pressure-map memo, as the honest local precondition for any later Cassirer-Jünger contact test
+
+## 2026-04-09 — Pre-batch integrity check for `Urgrund und Person` (`§§171-175`)
+
+Ran a narrow pre-batch check before continuing `Urgrund und Person`, using the current translated edge, the open next sections in `source/sections.yaml`, and the local source-language commentary queue.
+
+Main judgment:
+
+- no broad `Zeitmauer` audit is needed here; unlike the late `Erkenntnisproblem` repair situation, the current edge does not yet show systemic drift from draft-translation into explanatory gloss
+- the next live pressure is local and bounded: `§§171-175` reopen the church/metaphysics distinction, paternity and law as after-effect, the return of `der Hinzutretende`, and the difference between emptiness and nothing
+- the commentary test should therefore stay lightweight and preparatory rather than becoming a second interpretive layer
+
+What the commentary check showed:
+
+- the current local Schöttker materials are more useful than the EPUB alone first suggested: the plain-text export makes the numbered book sections directly searchable, but the appended Schöttker commentary still reads as continuous framing rather than as a keyed adnote surface for `§§171-175`
+- the local Koslowski book looks more promising for the `Urgrund` line at the scale of earth-history, post-history, and theological/mythic framing, but not as a substitute for local sentence-level translation decisions
+
+Watchpoints for the next batch:
+
+- `§171`: church as institution versus the `kosmisch-metaphysische Gesamtlage`; metaphysics as possible bridge to transcendence; law resting on truths not juridically ascertainable
+- `§172`: the late church as surviving power station and sheltering structure; the force of `Als ob`; the replacement of authority by critical or hämisch spirit
+- `§173`: `nachwirkende Macht`; the father gone from the house while the law still holds for a time
+- `§174`: explicit return of `der Hinzutretende`; faith as gift, instinct, and relation to being rather than merit, proof, or will
+- `§175`: ebb/tide, emptiness rather than nothing, and the gap in `Weltplan` that no `Staatsplan` can fill
+
+Decision for now:
+
+- proceed with the next translation batch
+- keep commentary as pressure rather than framework
+- do not widen the apparatus unless `§§171-175` force it
+
+## 2026-04-09 — Institution, Afterworking Law, and Emptiness after Faith
+
+Translated `§§171-175` under `parts/57-urgrund-und-person.md`.
+
+This batch carries `Urgrund und Person` from the distinction between church as institution and the cosmic-metaphysical total situation into the late church as surviving power-station, afterworking paternity and law, the return of `der Hinzutretende`, and finally ebb, emptiness, and the unfilled gap in `Weltplan`. `§171` distinguishes the institutional church from the wider metaphysical situation and makes metaphysics a possible bridge to transcendence even after the gods have withdrawn. `§172-173` then treat the late church as sheltering structure and the father as absent source of law that still works on. `§174` becomes the structural center by reactivating `der Hinzutretende` inside faith, interpretation, and relation to being. `§175` closes by refusing nihilistic flattening: what remains after faith wanes is not nothing but emptiness, attraction, search, and the gap no `Staatsplan` can fill.
+
+Working observations:
+
+- `§174` is the structural center. The decisive move is that `der Hinzutretende` returns here not in astrology or physiognomic reading but inside the faith-problem itself: the judgments of the man in the street are deep, yet they still require interpretation, and faith is recast as gift, instinct, and relation to being rather than as merit, proof, or will.
+- `§171` matters because it sharply distinguishes the church as ordering and helping institution from the `kosmisch-metaphysische Gesamtlage.` Theology may remain possible under withdrawal, but metaphysics remains the bridge to transcendence, and law is said to rest on truths no juridical procedure can establish.
+- `§172` matters because it recasts the late church as a surviving power-station. The upper waters have dwindled, yet the structure still shelters; the age of the `Als ob` and of authority replaced by critical or mocking spirit is one of the section's main diagnostic lines.
+- `§173` matters because it names `nachwirkende Macht` directly. The father may have left the house, yet the law continues to hold for a time; only later does appeal to the father weaken and become absurd.
+- `§175` matters because it refuses the shortcut from waning faith to nothingness. What remains is emptiness with suction and attraction, initiation-pain, and the gap in `Weltplan` that no thinking and no `Staatsplan` can fill.
+- No new concept glossary entries are earned. The main gains are five new anchors, a new evidence point for `der Hinzutretende`, a new pressure point on `Weltplan`, and a continued extension of `thread:time-crisis` into institution, afterworking law, faith, and emptiness.
+
+One passage still at risk:
+
+- `Unergänzte -> the uncompleted` in `§175`
+- difficulty type: `lexical` plus `residual`
+- why: the sentence clearly names a gap internal to `Weltplan`, but the noun still resists fully natural English and should stay visibly awkward until later context either confirms or corrects it
+
+Decisions:
+
+- extend `Urgrund und Person` as a section-title note through `§§171-175`
+- do not yet promote `Leere`, `Seinsgrund`, or `nachwirkende Macht` into the glossary
+- extend `term:hinzutretende` with a new evidence point from `§174`, where the figure returns inside faith and interpretation rather than astrology
+- extend `Weltplan` with a new evidence point from `§175`, where the world-plan is named through a gap no `Staatsplan` fills
+- extend `thread:time-crisis` through `§171`, where institution and metaphysical total situation are sharply distinguished
+- extend `thread:time-crisis` through `§172`, where the late church survives as structure and shelter even after its upper currents have dwindled
+- extend `thread:time-crisis` through `§173`, where paternal law persists as afterworking power after the father's departure
+- extend `thread:time-crisis` through `§174`, where faith, interpretation, and `der Hinzutretende` are rejoined against method alone
+- extend `thread:time-crisis` through `§175`, where emptiness rather than nothing names the remaining unrest and the gap in `Weltplan`
+
+## 2026-04-09 — Worker-Display, Mother-Earth, and Nihilism as Transit
+
+Translated `§§176-180` under `parts/58-urgrund-und-person.md`.
+
+This batch carries `Urgrund und Person` from the waning bearability of personal gods and the exhausted echo of `Second Religiosity` into the worker/materialism line and then into nihilism as a transitional force. `§176` closes the personal-gods sequence by arguing that atheism is no longer enough, institutions outlast their contents, and Hamann's `Ur-Kunde` stands apart from Pietist echo. `§§177-179` then reopen the worker as metaphysical figure, rationalism as first clearing force, materialism as earth-power, and the mother-earth shift that imperils father-right. `§180` closes by recasting nihilism not as terminal nothingness but as an institution-bound transit force inside `Weltplan`, while the state swells as final exertion rather than final form.
+
+Working observations:
+
+- `§179` is the structural center. Materialism is no longer treated as merely flat doctrine: matter, the earth as mother, begins to stir of itself, man as her son grasps that stirring, and the two are said to stand in mirrored simultaneity rather than in cause and effect. From there follow the retreat of personal gods, the worsening augury of restored monarchy, the spread of democratic forms, and the shift from father-right toward matriarchal power.
+- `§177` matters because it explicitly reopens the worker not as empirical class but as metaphysical `Gestalt.` Rationalism is the first destroying wave, yet materialism becomes the deeper earth-power, and the means of the worker matter less through their visible effects than through their sheer existence as displays of a new spirit and style.
+- `§178` matters because it sharpens the invisible/visible sequence. Technology is treated as armor for the worker, tragedy repeats necessary failure inside `Weltplan`, statecraft must scent invisible foundations before visible building begins, and materialism's rational theories are said to miss the stronger charge they represent.
+- `§180` matters because it narrows nihilism. It is strong only while father-right institutions still stand, can attach itself interimistically to emptied apparatus-institutions, and loses its own sense once clearing-away has been accomplished. The rise of the state is therefore not a final answer, but a condensation of final exertions before borders and states themselves begin to lose significance.
+- `§176` matters because it closes the faith-problem without restoring the old gods. Faith in personal gods becomes less bearable across the planet, `atheism` no longer suffices, Pietism is absorbed into `Second Religiosity`, and Hamann's `Ur-Kunde` is marked as something other than echo.
+- No new concept glossary entries are earned. The main gains are five new anchors, one new `Urgrund` evidence point, one new `Weltplan` evidence point, a continued extension of `thread:time-crisis`, and a live pressure point where `§177` reopens the `predecided-world` problem through display, taboo-breaking means, and the sheer force of apparatus-existence.
+
+One passage still at risk:
+
+- `Ur-Kunde` in `§176`
+- difficulty type: `lexical` plus `residual`
+- why: the Hamann line clearly marks something other than Pietist echo, but no English equivalent is yet earned; the German should remain visible until later context either confirms or sharpens it
+
+Decisions:
+
+- extend `Urgrund und Person` as a section-title note through `§§176-180`
+- do not yet promote `Second Religiosity`, `Ur-Kunde`, `Materialismus`, or `Nihilismus` into the glossary
+- extend `term:Urgrund` with a new evidence point from `§179`, where the mother embodies it from herself and gives birth out of it
+- extend `Weltplan` with a new evidence point from `§180`, where clearing-away belongs to it only transitively and state-swelling is treated as final exertion rather than final form
+- extend `thread:time-crisis` through `§176`, where personal gods become less bearable and institutions outlast contents
+- extend `thread:time-crisis` through `§177`, where worker-apparatus and taboo-breaking display reopen the crisis from the side of material power
+- extend `thread:time-crisis` through `§178`, where invisible foundations are said to precede visible building
+- extend `thread:time-crisis` through `§179`, where matter's stirring and mirrored simultaneity threaten father-right directly
+- extend `thread:time-crisis` through `§180`, where nihilism becomes a transit-force and the state appears as condensation of final exertions
+- extend `thread:predecided-world` locally through `§177`, where apparatuses matter through advance display and the sheer fact of their existence

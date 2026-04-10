@@ -80,6 +80,20 @@ The main thread so far in `texts/zeitmauer`: the collision between measurable ti
 - `zm:154:protean-power` crystallizes the crisis beneath experiment itself: the laboratory and its specific intelligence are only auxiliary signs of a deeper protean movement.
 - `zm:155:new-type` extends the crisis into anthropological formation: the `New House` changes the setup itself, a new type forms nations and races, and potential multiplies under contradictory environmental signs.
 - `zm:156:decadence-insular` extends the crisis into scale and historical judgment: `décadence` becomes second-rank and insular once the larger formation comes into view, while barbarism emerges as the sharper danger.
+- `zm:167:father-cannot-follow` extends the crisis into the withdrawal of the personal gods: the father cannot simply be carried across, and the age is named by retreat rather than simple absence.
+- `zm:168:churches-and-mercilessness` extends the crisis into institution and atrocity directly: the church's continued presence still helps keep horrors legible as horrors, while planning without metaphysical check reaches mercilessness.
+- `zm:169:metaphysical-interregnum` extends the crisis into dangerous sequence: the workshop-landscape hums while attacks on churches become preparatory signs of what follows.
+- `zm:170:second-religiosity` extends the crisis into survivals and retardation: `Great Houses`, second religiosity, and second `décadence` preserve and slow what the first accelerative phase had set in motion.
+- `zm:171:church-and-total-situation` extends the crisis into the distinction between institution and the wider metaphysical total situation, while law is tied to truths no juridical procedure can establish.
+- `zm:172:late-church-power-station` extends the crisis into shelter-form: the late church survives as a structure after its upper currents have dwindled, and the age of the `Als ob` becomes explicit.
+- `zm:173:afterworking-law` extends the crisis into paternal law that persists after departure: appeal to the father may weaken, but only after law has continued to work on.
+- `zm:174:faith-hinzutretende` extends the crisis into faith and interpretation directly: the man in the street, `der Hinzutretende`, and the limits of method enter the same field.
+- `zm:175:emptiness-not-nothing` extends the crisis beyond nihilistic closure: waning faith leaves emptiness, attraction, and an unfilled gap in `Weltplan`, not simple nothingness.
+- `zm:176:personal-gods-bearability` extends the crisis into exhausted theism directly: personal gods become less bearable, atheism no longer suffices, and institutions outlast their contents.
+- `zm:177:worker-display` extends the crisis into worker-power and display: rationalism clears first, materialism deepens beneath it, and apparatus-existence itself becomes decisive.
+- `zm:178:invisible-foundations` extends the crisis into invisible foundations: tragedy follows catastrophe, but statecraft must scent what supports the visible before buildings rise.
+- `zm:179:matter-mother-shift` extends the crisis into mother-earth and anti-paternal transformation: matter stirs, man grasps, and older bonds lose force.
+- `zm:180:nihilism-transit-state` extends the crisis into transit nihilism and swollen statehood: neither is the lasting terminus of the movement.
 - `thread:predecided-world` extracts one decisive branch of the dossier: the field of action, naming, and perception is being cut in advance by plan, measure, and technical ordering.
 - `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.
 - `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.
@@ -177,6 +191,20 @@ Jünger's strategy is to lead the reader out of the apparently "occult" cases an
 - the experimental surface demoted before a deeper protean causality in `zm:154:protean-power`
 - the `New House`, the new type, and the multiplication of potential in `zm:155:new-type`
 - `décadence` reduced to an insular late-sign under enlarged scale in `zm:156:decadence-insular`
+- the father who cannot simply be carried across, and the personal gods withdrawing rather than simply vanishing, in `zm:167:father-cannot-follow`
+- the church as remaining brake on atrocity and reason of state in `zm:168:churches-and-mercilessness`
+- metaphysical interregnum and attack on the churches as one dangerous sequence in `zm:169:metaphysical-interregnum`
+- `Great Houses`, second religiosity, and second `décadence` as preserving and retarding powers in `zm:170:second-religiosity`
+- the distinction between church as institution and the wider cosmic-metaphysical total situation in `zm:171:church-and-total-situation`
+- the late church as surviving power-station and sheltering structure in `zm:172:late-church-power-station`
+- afterworking paternal law in `zm:173:afterworking-law`
+- the return of `der Hinzutretende` inside faith, interpretation, and relation to being in `zm:174:faith-hinzutretende`
+- emptiness rather than nothing, and the gap in `Weltplan` no `Staatsplan` fills, in `zm:175:emptiness-not-nothing`
+- personal gods becoming less bearable, and institutions surviving their emptied contents, in `zm:176:personal-gods-bearability`
+- the worker as metaphysical figure, and apparatuses as displays of a new spirit, in `zm:177:worker-display`
+- invisible foundations preceding visible building in `zm:178:invisible-foundations`
+- matter as mother, mirrored simultaneity, and anti-paternal transformation in `zm:179:matter-mother-shift`
+- nihilism as transit and the state as condensation of final exertions in `zm:180:nihilism-transit-state`
 
 ## Commentary Use
 

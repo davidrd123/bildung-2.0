@@ -17,6 +17,7 @@ Jünger's time wall is also a world-cut.
 - `zm:148:vorweisung`, `zm:149:nomos-loss`, and `zm:150:artificial-insemination` show the same problem at the level of reception and species-technique: general consciousness accepts the display in advance, nomos recedes, and a technical procedure announces a possible alteration of human fate.
 - `zm:151:new-descent`, `zm:152:father-claim`, and `zm:153:evolution-responsibility` show the same problem in juridical-administrative form: acceptance is already accomplished, the experiment outruns debate at the time wall, and descent, registry, and state uptake begin to re-cut the human field.
 - `zm:154:protean-power` and `zm:155:new-type` show the same problem at the causal-anthropological level: experiment is only assistance, not origin, and the setup changes with the `New House` as a new type begins shaping nations and races.
+- `zm:177:worker-display` reopens the same problem from the side of worker-metaphysics: demonstration suffices, taboo-breaking means are accepted, and the apparatus matters through the sheer fact of its existence as display.
 
 ## Why This Matters
 
@@ -50,6 +51,7 @@ Useful path:
 - `zm:153:evolution-responsibility`
 - `zm:154:protean-power`
 - `zm:155:new-type`
+- `zm:177:worker-display`
 - `thread:time-crisis`
 - `thread:mumford-bridge`
 - `thread:goethe-leibniz-frame`
@@ -70,6 +72,8 @@ Useful path:
 `§151-153` sharpen it from the juridical-administrative and evolutionary side: the acceptance is already said to have occurred, the experiment moves in the intermediate field at the time wall while arguments circle helplessly, and descent becomes a matter of registry, state simplification, and responsibility for evolution.
 
 `§154-155` sharpen it from the causal-anthropological side: experiment and specific intelligence are explicitly reduced to assistance and symptom, while the `New House` changes the setup itself and a new type begins reshaping populations before any single intervention could explain the change.
+
+`§177` sharpens it from the side of display itself: the worker's means break taboos, demonstration is enough, and apparatuses shape the field through the advance showing of a new spirit before visible effects have done their work.
 
 ## Rival Reading
 
