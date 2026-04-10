@@ -94,6 +94,12 @@ The main thread so far in `texts/zeitmauer`: the collision between measurable ti
 - `zm:178:invisible-foundations` extends the crisis into invisible foundations: tragedy follows catastrophe, but statecraft must scent what supports the visible before buildings rise.
 - `zm:179:matter-mother-shift` extends the crisis into mother-earth and anti-paternal transformation: matter stirs, man grasps, and older bonds lose force.
 - `zm:180:nihilism-transit-state` extends the crisis into transit nihilism and swollen statehood: neither is the lasting terminus of the movement.
+- `zm:181:religions-world-plan` extends the crisis into sacred time and religion directly: world religions outlast state-plans because they remain more tightly bound to `Weltplan`.
+- `zm:182:earth-experiment` extends the crisis into earth-historical questioning: experiment responds to a prior stirring of the earth and must spiritualize itself.
+- `zm:183:earths-true-partner` crystallizes the crisis at the `Verstand`/`Geist` split: understanding opens the gate, but spirit is named as the earth's true partner.
+- `zm:184:church-foundation` extends the crisis into the church's deeper footing: personality may dissolve, yet spirit retains place and rank in transcendence.
+- `zm:185:faith-abbreviations` extends the crisis into cult and belief directly: faith and consciousness fail to coincide exactly, so abbreviation and `der Hinzutretende` remain necessary.
+- `zm:186:spirit-hope` closes the dossier under a new orientation: spirit rather than understanding remains the earth's partner, and hope is preferred to fear.
 - `thread:predecided-world` extracts one decisive branch of the dossier: the field of action, naming, and perception is being cut in advance by plan, measure, and technical ordering.
 - `thread:mumford-bridge` parallels the same crisis historically through clock-time and the record.
 - `thread:goethe-leibniz-frame` grounds the deeper split between formal measure and participatory seeing.
@@ -205,6 +211,12 @@ Jünger's strategy is to lead the reader out of the apparently "occult" cases an
 - invisible foundations preceding visible building in `zm:178:invisible-foundations`
 - matter as mother, mirrored simultaneity, and anti-paternal transformation in `zm:179:matter-mother-shift`
 - nihilism as transit and the state as condensation of final exertions in `zm:180:nihilism-transit-state`
+- world religions as sacred-time bearers more tightly bound to `Weltplan` than to state-plans in `zm:181:religions-world-plan`
+- earth-historical experiment and the spiritualization of questioning in `zm:182:earth-experiment`
+- spirit rather than understanding as the earth's true partner in `zm:183:earths-true-partner`
+- the church's deeper foundation and the equal rank of spirit in `zm:184:church-foundation`
+- cultic abbreviation and the renewed need for `der Hinzutretende` in `zm:185:faith-abbreviations`
+- the hopeful coda in which spirit remains the earth's partner and hope leads farther than fear in `zm:186:spirit-hope`
 
 ## Commentary Use
 

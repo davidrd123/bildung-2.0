@@ -1691,3 +1691,98 @@ Decisions:
 - extend `thread:time-crisis` through `§179`, where matter's stirring and mirrored simultaneity threaten father-right directly
 - extend `thread:time-crisis` through `§180`, where nihilism becomes a transit-force and the state appears as condensation of final exertions
 - extend `thread:predecided-world` locally through `§177`, where apparatuses matter through advance display and the sheer fact of their existence
+
+## 2026-04-09 — Sacred Time, Earth-Experiment, and Spirit as the Earth's Partner
+
+Translated `§§181-186` under `parts/59-urgrund-und-person.md`.
+
+This closing batch carries `Urgrund und Person` through world religions, sacred time, earth-historical experiment, spirit as the earth's true partner, the church's deeper footing, the final return of `der Hinzutretende`, and the book's hopeful coda. `§181` matters because it keeps the withdrawal of personal gods from becoming simple collapse: religions outlast states, remain more tightly bound to `Weltplan`, and show that high cultures can also live from a nonpersonal, qualityless `Urgrund`. `§182-183` form the structural center by turning experiment into an earth-historical questioning that must spiritualize itself and by sharply opposing `Geist` to `Verstand` as the earth's true partner. `§184-186` then defend the church's deep footing, return `der Hinzutretende` in compressed late form, and close by treating hope as stronger than fear within a coming spiritual epoch.
+
+Working observations:
+
+- `§183` is the structural center. The decisive move is that the earth's true partner is not `Verstand` but `Geist`, so the dissolutions performed by understanding can count only as preparation for a new spiritual occupation; art and science alike become threshold-zones rather than final forms of mastery.
+- `§182` matters because it gives the sharpest late methodological statement in the book. The `Urgrund` begins to stir, man asks and the earth answers, and the needed correction to questioning cannot be methodological refinement alone but a spiritualization of the question itself.
+- `§181` matters because it binds religion, sacred time, and `Weltplan` together against simple secular collapse. The contrast between world religions and state-plans keeps the plan-problem open at a higher register, while the nonpersonal `Urgrund` is said to remain fully compatible with durable high culture.
+- `§184` matters because it gives the strongest late church defense in the translated range. Personality may dissolve, yet the godhead as spirit retains place and representation in transcendence; the church is borderless but grounded and may answer the earth-revolutionary claim more deeply than rational materialism.
+- `§185` matters because it returns `der Hinzutretende` in minimal but decisive form. Faith and consciousness do not coincide exactly, so cult and abbreviation remain necessary aids, and the personal/nonpersonal as well as subject/object distinctions begin to melt under stronger light.
+- `§186` matters as coda rather than further doctrine. The earth may use man as its cleverest son, but spirit remains its true partner, and the final preference is explicitly for hope over fear.
+- No new concept glossary entries are earned. The main gains are six new anchors, one new `Urgrund` evidence point, one new `Weltplan` evidence point, one new `der Hinzutretende` evidence point, and the closing extension of `thread:time-crisis` through the end of the book.
+
+One passage still at risk:
+
+- `auf Vorrat gedacht -> stored for future need` in `§184`
+- difficulty type: `residual`
+- why: the long-range provisioning image is clear, but the English remains slightly makeshift and should stay close rather than be smoothed into abstract foresight too early
+
+Decisions:
+
+- extend `Urgrund und Person` as a section-title note through `§186`
+- do not yet promote `sakrale Zeit`, `Geist`, `Verstand`, `initiatio`, or `Optimismus` into the glossary
+- extend `term:Weltplan` with a new evidence point from `§181`, where world religions are said to remain more tightly bound to it than state-plans
+- extend `term:Urgrund` with a new evidence point from `§182`, where earth-historical questioning is grounded in a prior stirring of the earth as `Urgrund`
+- extend `term:hinzutretende` with a new evidence point from `§185`, where the mismatch between faith and consciousness makes the figure newly necessary
+- extend `thread:time-crisis` through `§181`, where sacred time and world religions outlast state-plans
+- extend `thread:time-crisis` through `§182`, where experiment becomes earth-historical questioning that must spiritualize itself
+- extend `thread:time-crisis` through `§183`, where spirit rather than understanding becomes the earth's true partner
+- extend `thread:time-crisis` through `§184`, where the church's deeper foundation is opposed both to secular attack and to alliance with the national state
+- extend `thread:time-crisis` through `§185`, where cult and abbreviation answer the inexact overlap between belief and consciousness
+- extend `thread:time-crisis` through `§186`, where hope rather than fear becomes the closing orientation of the movement
+
+## 2026-04-09 — Bounded second pass on `Urgrund und Person` (`§§167-186`)
+
+Wrote `second-pass-urgrund-und-person.md` and ran the actual bounded reread of the completed part against `parts/56-59`, the current glossary and handle evidence, and `thread:time-crisis`.
+
+Main judgment:
+
+- no broad repair is needed; `Urgrund und Person` is reread-stable enough to stand as the completed closing unit of the translated run
+- the real risk is not sentence-level mistranslation so much as flattening the unit into one of three wrong forms:
+  - generic church apologetics
+  - generic anti-modern metaphysics
+  - a loose series of late intensities without clear movement
+
+What the reread clarified structurally:
+
+- the part does **not** simply move from personal gods to impersonal `Urgrund`. Its actual movement is fourfold:
+  - withdrawal of the personal gods and persistence of institutions
+  - church/metaphysics/faith/emptiness as one late diagnostic field
+  - worker/materialism/mother-earth/nihilism as earth-power and transit
+  - sacred time, earth-experiment, spirit, cultic abbreviation, and hope as the closing recomposition
+- `der Hinzutretende` is now decisively no longer astrology-local. The late return in `§§174` and `185` confirms the figure as one of added interpretation and completion where faith and consciousness fail to coincide exactly.
+- `Urgrund` and `Weltplan` remain strongest when they are not turned into settled doctrine. The part keeps reopening them through earth-power, gap, transit, sacred time, and experiment rather than defining them cleanly once.
+- the church passages must not be read merely devotionally. Their function in the part is structural: institution, shelter, reserve, deeper foundation, and nonidentity with the wider metaphysical total situation.
+- the close of the book must not be flattened into consolation. The preference for hope over fear only lands because the whole part has passed through withdrawal, emptiness, catastrophe, and transit first.
+
+What actually needed patching:
+
+- only a few places where the English had become inert rather than wrong:
+  - `§168`, where the church's bare existence needed to stay structurally visible
+  - `§181`, where the movement from the undivided into and back from the highest images needed to read more clearly as movement
+  - `§182`, where the concealed commonality behind the appearances needed a less wooden opening
+
+Decision for now:
+
+- treat `Urgrund und Person` as a completed local unit with a usable second-pass memo
+- do not widen the glossary beyond the current three late evidence extensions
+- use this reread, together with `second-pass-messbare-und-schicksalszeit.md`, as the honest local precondition for any later source-language commentary test or higher-order `Zeitmauer` synthesis
+
+## 2026-04-09 — Controlled commentary probe on the completed closing unit
+
+Ran one bounded commentary contact after the local second pass, using the current Schöttker plain-text file and a narrow Koslowski scrape around the `Urgrund` / earth-history passages.
+
+What changed:
+
+- Schöttker confirms the broad frame of the book and especially the ending: `An der Zeitmauer` is not to be read as apocalypse pure and simple, and the late optimism is real, though not naive. That supports the current handling of `§186` as hard-won orientation rather than soft consolation.
+- Koslowski sharpens the earth-revolt line around `§179` and `§182`: the modern upheaval is read as alliance of man with earth against the gods, with the stirring of `Urgrund` marking the closure of human history into earth-history and posthistory. This strengthens the existing local decision to keep the maternal, earth-power, and transit language radical rather than sociological.
+
+What did not change:
+
+- neither source forced new lexical decisions in the closing unit
+- neither source earned new glossary entries or thread dossiers
+- Schöttker still functions mainly as broad framing rather than keyed local adnotes for this stretch
+- Koslowski is more useful as philosophical pressure on the completed arc than as sentence-level translation aid
+
+Decision for now:
+
+- keep both sources in the role of corroborative pressure
+- do not rewrite the closing batch under commentary influence
+- use the local source pass, the second-pass memo, and this small commentary check as the actual precondition for any later higher-order `Zeitmauer` synthesis
