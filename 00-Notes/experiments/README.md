@@ -40,6 +40,8 @@ Use the smallest control that can still answer the question.
 - prefer earned local surfaces over broad thematic inventory
 - keep the packet small enough that a negative remains informative
 - name one sharp question before reading
+- when an experiment is actually run and likely to be reused, preserve the as-run packet as a standalone packet note
+- if the packet was not written in advance, reconstruct it immediately afterward while the loci and controls are still exact
 
 ### Result discipline
 

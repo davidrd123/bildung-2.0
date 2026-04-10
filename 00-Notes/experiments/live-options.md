@@ -14,6 +14,9 @@ Completed so far:
 - `experiment-03a-german-source-check.md`
 - `experiment-03b-independent-subagent-check.md`
 - `experiment-03c-second-independent-subagent.md`
+- `experiment-04-reification-detection.md`
+- `experiment-05-bruno-shaped-gap-completion.md`
+- `experiment-06-translation-residue-clustering.md`
 
 What that chain established:
 
@@ -28,85 +31,7 @@ What that chain established:
 These are the next experiments most clearly indicated by the current work.
 They remain the first-priority queue.
 
-### 1. Reification-detection test
-
-Question:
-
-- can Cassirer's reification pressure discriminate between productive and hardened uses of ordering terms in `Zeitmauer`
-
-Likely materials:
-
-- Cassirer passages where methodological gains harden into metaphysical guarantees
-- `Zeitmauer` terms under pressure:
-  - `Weltplan`
-  - `Urgrund`
-  - possibly `Schöpfungsplan`
-
-Success condition:
-
-- one or two clear discriminating cases
-- one clear non-case where the term stays productive rather than reified
-
-Failure condition:
-
-- the Cassirer packet only redescribes everything as suspicious depth-language
-
-Why it is promising:
-
-- grounded in earned `Erkenntnisproblem` work
-- directly pressures live `Zeitmauer` vocabulary
-- falsifiable and narrow
-
-### 2. Shaped-gap completion test
-
-Question:
-
-- can a structural gap clearly marked in one source be illuminated by material from another source without collapsing into decoration or analogy
-
-Control requirement:
-
-- include one plausible decoy completion that should fail
-
-Success condition:
-
-- the candidate completion survives return to both sources
-- the decoy is rejected for a specific reason
-
-Failure condition:
-
-- every candidate looks suggestive, and no rejection is discriminating
-
-Why it is promising:
-
-- this is the strongest concrete form of the "shaped absence" idea
-- Experiments 01-03 already act as prototypes for it
-
-### 3. Translation-residue clustering
-
-Question:
-
-- do recorded close-reading losses cluster around specific kinds of German reasoning-pressure, or are they mainly local quirks
-
-Likely materials:
-
-- `texts/erkenntnisproblem-vol1/reading/close-reading-ledger.md`
-- relevant `Zeitmauer` journal pressure points
-- a bounded set of translation-resistance examples
-
-Success condition:
-
-- one or two recurring residue types become visible
-
-Failure condition:
-
-- the examples refuse meaningful grouping
-
-Why it is promising:
-
-- grounded in actual translation work
-- could improve both future translation and future packet construction
-
-### 4. Inverse-Bayle / self-critique test
+### 1. Inverse-Bayle / self-critique test
 
 Question:
 
@@ -131,7 +56,7 @@ These are not next by default.
 
 They become live when a modern question actually demands outward deployment of earned material rather than another inward-facing comparison. Movement from the near-term queue into this section is demand-driven, not count-driven.
 
-### 5. Chain-of-thought as discursive adequacy test
+### 2. Chain-of-thought as discursive adequacy test
 
 Question:
 
@@ -156,7 +81,7 @@ Why it is promising:
 - it would use earned philosophical material on a live modern question
 - it is outward-facing without requiring a full theory of LLM cognition
 
-### 6. Constitutive vs. indicative in LLM outputs
+### 3. Constitutive vs. indicative in LLM outputs
 
 Question:
 
@@ -204,7 +129,7 @@ Why held:
 
 - would require direct encounter with the relevant `Philosophy of Symbolic Forms` material, not just `Erkenntnisproblem` and secondary exposition
 - Hamburg and Festschrift encounters are moving this closer to readiness faster than expected
-- revisit after the reification-detection test and at least one deployment candidate
+- the reification-detection test is now complete; revisit after at least one deployment candidate
 
 ### Formal perception
 
