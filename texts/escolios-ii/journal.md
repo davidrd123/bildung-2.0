@@ -321,3 +321,19 @@ These pages keep several mature lines in motion without needing a new frame. `§
 This stretch only forced a very small repair set in the live source, and it was possible to keep it that small because the earlier cleanup discipline has finally started to hold. The exact repairs were `§1012` (`está`), `§1015` (`Nadie debe tomarse en serio. Sólo esperar resultar tal.`), `§1021` (the broken `Sino` sentence), `§1051` (`Así`), and `§1083` (removing the stray comma after `Nunca`). Two resistant lines were left untouched because the witness pressure is still not decisive enough to justify a forced correction: `§1028` and `§1087`.
 
 The extracted count still holds at `2442`, and the only flagged casualty remains `id 1189`.
+
+## 2026-04-09 — Sections 51 Through 55 Added
+
+The run now reaches `§1200` with five more sections:
+
+- `§1101-1120` / printed pages `191-194` in [sections/51-noble-conflict-and-humanism.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/51-noble-conflict-and-humanism.md)
+- `§1121-1140` / printed pages `194-196` in [sections/52-reticence-and-adult-intelligence.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/52-reticence-and-adult-intelligence.md)
+- `§1141-1160` / printed pages `196-200` in [sections/53-counterrevolution-and-loyalty.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/53-counterrevolution-and-loyalty.md)
+- `§1161-1180` / printed pages `200-203` in [sections/54-historicity-and-judgment.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/54-historicity-and-judgment.md)
+- `§1181-1200` / printed pages `203-206` in [sections/55-taste-and-demythologization.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/texts/escolios-ii/sections/55-taste-and-demythologization.md)
+
+This stretch keeps the volume's later lines tight without needing a larger frame. `§1101-1120` turns on petty versus noble conflict, the danger of benevolent stupidity, and the refusal to equate decipherment with paraphrase. `§1121-1140` becomes a compact discipline section: reticence, the education of taste, the public's mawkish habits, and the adult intelligence of critical history. `§1141-1160` presses history and counterrevolution together: theories overfit history, noble pages require restored dimension, and validity remains untouched by historical placement. `§1161-1180` is the densest methodological cluster in the run: historicity is exemplified rather than defined, judgment remains absolute without becoming ahistorical, and language, hierarchy, and civilizational mortality are all read through that pressure. `§1181-1200` closes on taste, demythologization, sociology, and divine reserve.
+
+This run also marks the first point at which the old explicit OCR casualty list has actually cleared. The live repairs were all exact and local: `§1111`, `§1115`, `§1123`, `§1132`, `§1141`, `§1142`, `§1159`, `§1161`, `§1163`, `§1137`, and `§1189`. One structural wrinkle remains visible rather than resolved away: `§1163` still fuses two printed aphorisms across a page break in the current extraction. The corrupted word inside it is now corrected (`historicista`), but the numbering is being left stable for the moment rather than reopened mid-run.
+
+The extracted count still holds at `2442`, and there are now `0` entries flagged for OCR cleanup review.

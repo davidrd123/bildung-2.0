@@ -3550,3 +3550,26 @@ Decision for now:
 - continue sequentially from Part `110` if the repair pass stays local to Volume I
 - keep the repair local to the English block unless the later number-concept tranches force renewed German checking
 - keep audit, close review, and session ledger synchronized with the live repair boundary
+
+## 2026-04-09 - Late Bruno package test run against Parts 76-79
+
+Ran the new `Package 3` reread workflow on late Bruno and wrote `reading/2026-04-09-late-bruno-reread-through-bruno-chain-and-ferrari.md`.
+
+What was clarified:
+
+- the package works as intended: the Bruno chain, matching tranche entries, and matching ledger entries preserve the rate of internal correction that a parts-only reread tends to flatten
+- late Bruno is best held as a four-step sequence rather than as one diffuse collapse: `Minimum` as repair, `Grenze` as relation-level crack, `Intervall` / pure quantity as a broken correction, and final method collapse through failure of mathematical mediation
+- the real threshold is sharper than `irrational` versus `continuum` alone; what Bruno cannot grant is the autonomous standing of pure relation, boundary-structure, interval, and quantity
+- Ferrari's use remains narrow but real: it stabilizes the method level and keeps Bruno framed as a problem in changing forms of lawful cognition rather than as either premature Galileo or mere dead end
+- the active glossary slice was nearly empty, and that proved informative rather than problematic: late Bruno is currently being carried structurally by parts, journal, ledger, and chain rather than by promoted terminology
+
+Concrete project changes:
+
+- added `reading/2026-04-09-late-bruno-reread-through-bruno-chain-and-ferrari.md`
+- updated `reading/context-packages.md` so Package `3` explicitly allows a thin or empty glossary slice without treating that as a prompt for premature glossary expansion
+
+Decision for now:
+
+- use the new reread note and `source/bruno-generative-chain.yaml` together for future late-Bruno work instead of reconstructing the sequence from memory
+- keep the main Bruno result framed as failed autonomy of relation and mathematical mediation, not just rejection of the irrational in the abstract
+- do not widen glossary or thread structure from this reread alone; the gain is a cleaner reading rule and a confirmed package workflow

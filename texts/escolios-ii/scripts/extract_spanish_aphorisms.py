@@ -242,6 +242,17 @@ def normalize_text(text: str) -> str:
         "El hombre actual no vive en el espacio y en el tiempo. Sino en la geometría y los cronómetros.": "El hombre actual no vive en el espacio y en el tiempo, sino en la geometría y los cronómetros.",
         "Asi como la interpretación alegórica": "Así como la interpretación alegórica",
         "Nunca, hay demasiados escritores": "Nunca hay demasiados escritores",
+        "Hoy, curiosamente, -no se llama humanismo": "Hoy, curiosamente, no se llama humanismo",
+        "conspíración": "conspiración",
+        "El impacto de un -texto": "El impacto de un texto",
+        "atríbuyen": "atribuyen",
+        "casos a qué aplicarse": "casos a que aplicarse",
+        "Las naciones tíenen": "Las naciones tienen",
+        "allana, el suelo": "allana el suelo",
+        "de la historia, el mismo líquido": "de la historia el mismo líquido",
+        "individualismo historieta": "individualismo historicista",
+        "exístentes": "existentes",
+        "P a r a d e s a c r e d i t a r a l o s b u rg u e s e s, M a r x, simpáticamente, traspasa al servicio del proletariado la noción de \"clase social sin intereses particulares\", que Voltaire inventó en provecho de la burguesía.": "Para desacreditar a los burgueses, Marx, simpáticamente, traspasa al servicio del proletariado la noción de \"clase social sin intereses particulares\", que Voltaire inventó en provecho de la burguesía.",
     }
     for old, new in replacements.items():
         value = value.replace(old, new)

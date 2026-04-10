@@ -140,6 +140,10 @@ Load on top of Package 1:
 5. relevant chain file, if one exists
 6. one secondary-source working note only if it bears directly on the same pressure
 
+Glossary note:
+
+- if the active glossary slice is thin or empty, treat that as a real state of the apparatus rather than a prompt to promote terms prematurely
+
 Typical examples:
 
 - late Cusanus reread: `Parts 12-15` + Cusanus chain

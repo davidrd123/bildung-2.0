@@ -55,10 +55,15 @@ The forward run originally completed the volume without full English translation
 
 The late run is source-backed, but not every `German (corrected)` block should be treated as equivalent to the early full-page corrected bodies.
 
+For this reason, Volume I should be judged by `main-prose full density`, not by raw file-line counts. Several parts that look thin on a simple line or character scan turn out, on manual recheck, to be carrying Cassirer's main prose adequately while the normalized source window is inflated by footnote apparatus or chapter-edge spillover.
+
 - Parts `1-81` are the strongest source-correction zone
 - Parts `82-133` now remain comparatively full and close to corrected-source standard
-- Parts `134-141` show an uneven recovery of fuller tranche bodies
-- Parts `142-149` thin out again, with the Bayle close the strongest late-tail compression and the clearest remaining local repair priority
+- Parts `134-149` no longer form one simple late-tail decline; the remaining German debt is pocketed
+- Parts `134-138` are mostly recovered; `136` remains comparatively thin, but this now looks mainly footnote-driven rather than structurally broken
+- Parts `139-142` remain usable but thinner than the early full-body standard
+- Parts `143-144` are no longer a broken pocket, but they remain the thinnest citation-heavy pair, with `144` still the weaker tranche
+- Part `145` and Parts `146-149` have been materially recovered and are no longer the first local priority
 
 ### C. No further forward work inside Volume I
 
@@ -79,7 +84,7 @@ These are not polished outputs, but they do preserve the actual argument-pressur
 
 Only three next moves are locally justified:
 
-1. Recheck late German source-completeness only where it still remains uneven: first in the Bayle tail `142-149`, then in the middle recovery band `134-141` as needed.
+1. Recheck late German source-completeness only if a stricter full-body standard is still wanted: reopen `144` or `136` as needed, but do not treat either as a broken local reconstruction edge.
 2. Open Volume II as a new primary run.
 3. Write bounded cross-volume or concept-level syntheses from the completed Volume I scaffold.
 

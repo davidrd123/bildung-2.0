@@ -7700,7 +7700,7 @@
   pdf_page: 373
   print_page: 192
   es: >
-    Hoy, curiosamente, -no se llama humanismo lo que enseñaría un humanista
+    Hoy, curiosamente, no se llama humanismo lo que enseñaría un humanista
     florentino, sino lo que enseñaba el averroísta paduano.
 
 - id: 1112
@@ -7727,7 +7727,7 @@
   pdf_page: 375
   print_page: 193
   es: >
-    Que el cristianismo haya nacido como conspíración de proletarios sólo puede
+    Que el cristianismo haya nacido como conspiración de proletarios sólo puede
     creerlo quien siente que la riqueza colmaría su corazón.
 
 - id: 1116
@@ -7781,7 +7781,7 @@
   pdf_page: 377
   print_page: 194
   es: >
-    El impacto de un -texto es proporcional a la astucia de sus reticencias.
+    El impacto de un texto es proporcional a la astucia de sus reticencias.
 
 - id: 1124
   pdf_page: 377
@@ -7844,7 +7844,7 @@
   pdf_page: 381
   print_page: 196
   es: >
-    El público no tiene sosíego, mientras los periodistas no atríbuyen al
+    El público no tiene sosíego, mientras los periodistas no atribuyen al
     contemporáneo ilustre rasgos de sentimentalismo ñoño.
 
 - id: 1133
@@ -7879,7 +7879,7 @@
   es: >
     La voluntad no es motor, sino freno. La conciencia no puede querer sino lo
     que quiere, pero puede vedarse lo que quiere. La conciencia elige entre
-    tendencias exístentes la que ha de prevalecer mediante la voluntad que
+    tendencias existentes la que ha de prevalecer mediante la voluntad que
     subyuga las que le son adversas. La tendencia así elegida crece y se expande
     en expresión positiva de la voluntad.
 
@@ -7904,12 +7904,12 @@
   pdf_page: 383
   es: >
     Tal es la complejidad de los hechos históricos que toda teoría encuentra
-    casos a qué aplicarse.
+    casos a que aplicarse.
 
 - id: 1142
   pdf_page: 383
   es: >
-    Las naciones tíenen dos modalidades nobles de existencia: ascenso o
+    Las naciones tienen dos modalidades nobles de existencia: ascenso o
     decadencia, y una modalidad vulgar: prosperidad.
 
 - id: 1143
@@ -8019,7 +8019,7 @@
   pdf_page: 389
   print_page: 200
   es: >
-    El individualismo doctrinario allana, el suelo, para que el colectivismo
+    El individualismo doctrinario allana el suelo, para que el colectivismo
     edifique.
 
 - id: 1160
@@ -8034,7 +8034,7 @@
   print_page: 200
   es: >
     El historiador progresista y demócrata vierte en los odres multiformes de la
-    historia, el mismo líquido incoloro, inodoro, e insípido.
+    historia el mismo líquido incoloro, inodoro, e insípido.
 
 - id: 1162
   pdf_page: 389
@@ -8049,7 +8049,7 @@
   print_page: 200
   es: >
     Para el individualismo doctrinario, la ética es iusnaturalista o
-    sociológica. Para el individualismo historieta, la ética no es ni
+    sociológica. Para el individualismo historicista, la ética no es ni
     absolutista, ni relativista. Ni lo primero, porque la percepción del valor
     es relativa a situaciones concretas. Ni lo segundo, porque desde cada
     situación se percibe un absoluto.
@@ -8223,12 +8223,10 @@
 
 - id: 1189
   pdf_page: 398
-  issues: [spaced-letter-ocr]
   es: >
-    P a r a d e s a c r e d i t a r a l o s b u rg u e s e s, M a r x,
-    simpáticamente, traspasa al servicio del proletariado la noción de "clase
-    social sin intereses particulares", que Voltaire inventó en provecho de la
-    burguesía.
+    Para desacreditar a los burgueses, Marx, simpáticamente, traspasa al
+    servicio del proletariado la noción de "clase social sin intereses
+    particulares", que Voltaire inventó en provecho de la burguesía.
 
 - id: 1190
   pdf_page: 399

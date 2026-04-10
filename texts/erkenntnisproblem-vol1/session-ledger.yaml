@@ -2913,3 +2913,205 @@ sessions:
     formation_notes:
       - "In the late tail, the problem is less simple truncation than selective loss of examples, quotations, and connective argument."
       - "Bayle especially was carrying the thesis skeleton without enough of the evidentiary pressure that makes Cassirer's close persuasive."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: german-completeness-continued
+    parts_touched:
+      - 139
+      - 140
+      - 143
+      - 144
+      - 146
+      - 148
+      - 149
+
+    state_on_entry:
+      - "The ledger still treated Parts 142-149 as the main remaining German-completeness band."
+      - "Selective thickening had already improved the Bayle tail, but the standing honesty notes still routed future work toward it as a single weak zone."
+      - "The open question was whether that picture still held after another direct source pass."
+
+    what_shifted:
+      - "The Bayle tail was strengthened further, especially Part 149, which now carries a much fuller corrected German body."
+      - "Re-measuring the late run showed that the remaining debt no longer sits primarily in Bayle; the weaker pocket now lies in the Malebranche / Arnauld middle."
+      - "Parts 143, 144, and 145 were then expanded with the missing mathematical, Augustinian, eternal-truth, and Arnauld-transition material that had been compressed out."
+      - "Parts 139 and 140 were also tightened where methodological sentences about psychophysics, force, and relativism had dropped out."
+      - "The integrity audit and close-review note were updated to treat the late debt as pocketed rather than as a single tail."
+
+    unresolved:
+      - "Parts 143-144 now form the clearest remaining local German-completeness pocket."
+      - "Part 145 has been improved enough to fall out of the first-priority pocket."
+      - "Parts 139-142 remain usable but still thinner than early full-body standard."
+      - "Part 136 should be rechecked after the Malebranche / Arnauld pocket is settled, but its thinness is partly inflated by footnote-heavy source."
+      - "No journal update is justified; this remained document repair rather than a new interpretive pass."
+
+    re_entry_instructions:
+      - "If German completeness work resumes, start with Parts 143-144."
+      - "After that, inspect Parts 139-142 selectively rather than assuming the whole late band needs equal repair."
+      - "Use the updated artifact-integrity audit first; the old `Bayle tail first` routing is no longer accurate."
+      - "Keep the journal untouched unless fuller source contact forces a real cross-batch finding."
+
+    formation_notes:
+      - "The late-run debt turned out not to be a smooth decline but a patchwork of compressed local pockets."
+      - "Bayle looked worst first because the close had lost visible rhetorical pressure, but once that was restored the deeper weakness shifted back into Malebranche / Arnauld."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: german-completeness-continued
+    parts_touched:
+      - 141
+      - 142
+      - 143
+      - 144
+
+    state_on_entry:
+      - "The integrity notes had already been corrected away from a generic Bayle-tail priority."
+      - "The live question was whether the remaining Malebranche / Arnauld pocket still sat in 143-144 alone, or whether 141-142 also needed more body-level repair."
+
+    what_shifted:
+      - "Part 141 was tightened with the stronger truth/measure formulation and the explicit line that metaphysics supplies what experience had failed to give."
+      - "Part 142 absorbed the missing question about what secures the universal validity of results drawn from individual consciousness."
+      - "Parts 143 and 144 were cleaned further at the exact hinge: infinity/generality in 143, and the sensible-objects-in-God bridge plus the Arnauld opening in 144."
+      - "After recheck, 141 now sits clearly above the remaining weak pocket; 144 remains the thinnest local tranche."
+
+    unresolved:
+      - "Part 144 is still the clearest remaining German-completeness problem in the late run."
+      - "Part 143 remains thinner than the early full-body standard, though no longer as exposed as 144."
+      - "Parts 141-142 are now usable enough to drop behind 143-144 in priority."
+      - "No journal update is justified; this remained a source-body repair pass."
+
+    re_entry_instructions:
+      - "If German completeness work resumes, start with Part 144."
+      - "Keep Part 143 paired with it as the secondary local target."
+      - "Treat 141-142 as follow-up only if new source contact exposes another omitted connective block."
+      - "Do not reopen Bayle unless a later audit shows a real missed body-level omission."
+
+    formation_notes:
+      - "The closer this run gets to completion, the more the remaining debt looks like local connective omissions rather than whole missing argumentative sections."
+      - "Malebranche's middle is still the pressure point because its metaphysical turns depend on explicit transitions; Bayle was hurt more by visible rhetorical thinning than by hidden structural gaps."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: german-completeness-recheck
+    parts_touched:
+      - 143
+      - 144
+
+    state_on_entry:
+      - "The live honesty notes still treated Parts 143-144 as the sharpest remaining German-completeness pocket."
+      - "Part 144 had already been locally repaired with the sensible-objects-in-God bridge and a cleaner Arnauld opening, but it still measured as the thinnest visible tranche."
+      - "The open question was whether a direct source recheck would expose another missing argumentative bridge or only omitted citation density."
+
+    what_shifted:
+      - "A direct recheck of Part 144 against its normalized source window did not expose a further missing structural step beyond what had already been restored."
+      - "The remaining weakness in Parts 143-144 now looks mainly like citation-heavy thinness rather than a broken argumentative pocket."
+      - "The routing notes were updated so the late Malebranche pair is treated as usable but comparatively thin, with Part 144 still the weakest local tranche."
+
+    unresolved:
+      - "Parts 139-144 remain thinner than the early full-body standard, even though their argumentative spine is now source-backed and usable."
+      - "Part 144 remains the last obvious candidate for further thickening if a stricter near-full tranche-density standard is required."
+      - "Part 136 still deserves a targeted recheck if the goal is to tighten the remaining uneven late-run German bodies."
+      - "No journal update is justified; this remained a source-completeness recheck rather than a new interpretive pass."
+
+    re_entry_instructions:
+      - "Treat Parts 143-144 as source-backed and usable; do not reopen them just to inflate density with footnote or citation mass."
+      - "Reopen Part 144 only if the goal is near-full tranche density rather than argument-complete usability."
+      - "If German completeness work continues, inspect Part 136 next or stop local repair and open Volume II."
+      - "Keep the journal untouched unless fuller source contact forces a real cross-batch finding."
+
+    formation_notes:
+      - "The final visible weakness in the late Malebranche run came less from missing argument than from the evidentiary and citation apparatus thinning out."
+      - "At the end of the pass, the distinction between a thin tranche and a broken tranche mattered more than the raw density score."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: german-completeness-recheck
+    parts_touched:
+      - 136
+
+    state_on_entry:
+      - "Part 136 had remained the one earlier late-run tranche still named in the honesty notes as deserving a targeted recheck."
+      - "Its visible body was comparatively thin, but the open question was whether that reflected a missing prose bridge or the heavy Burthogge footnote apparatus in the source window."
+
+    what_shifted:
+      - "A direct recheck of Part 136 against its normalized source window showed that the low density is being driven mainly by the long documentary Burthogge quotation in the footnote apparatus."
+      - "The current German body already carries Cassirer's main prose and the load-bearing Burthogge formulas, so the tranche no longer looks structurally broken."
+      - "The honesty notes were updated to stop treating Part 136 as a standing reconstruction problem."
+
+    unresolved:
+      - "Parts 134-149 still remain somewhat uneven in German source density relative to the early full-body standard."
+      - "Part 144 remains the weakest visible late-run tranche if a stricter near-full density standard is required."
+      - "No journal update is justified; this was a source-completeness recheck only."
+
+    re_entry_instructions:
+      - "Do not reopen Part 136 merely because its ratio is low; most of the gap is footnote and citation mass."
+      - "If German completeness work continues, reopen Part 136 or Part 144 only for a stricter full-body standard, not because the reconstruction is structurally incomplete."
+      - "Otherwise stop local repair here and treat Volume I as an honest, usable reconstruction surface."
+
+    formation_notes:
+      - "Burthogge looked thinner than it really was because Cassirer embedded a long original-language documentary quotation in the footnotes."
+      - "The last remaining difference between the late run and the early standard is now mostly about density and apparatus, not about missing argumentative structure."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: density-standard-clarified
+    parts_touched:
+      - 9
+      - 11
+      - 28
+      - 43
+      - 54
+
+    state_on_entry:
+      - "A visible file-line gradient across Volume I was creating uncertainty about whether the part files had really recovered full German trench density."
+      - "Simple line and character scans were still flagging several older parts as under-dense even after the late-run repair pass had largely stabilized."
+
+    what_shifted:
+      - "A whole-volume re-scan showed that raw line counts are not a trustworthy proxy for German completeness."
+      - "The meaningful standard was fixed more precisely as `main-prose full density`: Cassirer's running prose should be present, while long documentary footnotes and source-window spillover need not be mirrored at equal density."
+      - "Representative low-ratio parts (`9`, `11`, `28`, `43`, `54`) were manually rechecked and read as footnote- or spillover-heavy windows rather than as missing-prose failures."
+      - "The standing audit notes were updated so future work does not mistake a formatting gradient for a reconstruction gradient."
+
+    unresolved:
+      - "The volume still remains uneven in visible density relative to the early most-expanded style."
+      - "That unevenness now looks mainly like variation in citation apparatus, paragraph compactness, and chapter-edge spillover rather than a broad loss of main prose."
+      - "If a stricter standard is still wanted, it should be pursued deliberately as near-full tranche density, not confused with the main-prose standard."
+
+    re_entry_instructions:
+      - "Judge future German completeness questions by `main-prose full density`, not by raw line counts."
+      - "Do not reopen older low-ratio parts automatically; first check whether the source window is footnote-heavy or spills into the next heading."
+      - "If stricter density normalization is still desired, state explicitly that the target is near-full tranche density rather than main-prose completeness."
+
+    formation_notes:
+      - "The apparent smooth decline across the volume turned out to be partly an artifact of format normalization and source-window composition."
+      - "Once multiple low-ratio parts were rechecked directly, the real problem shifted from 'missing prose everywhere' to 'choosing the right completeness standard'."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: near-full-density-pilot
+    parts_touched:
+      - 136
+      - 144
+
+    state_on_entry:
+      - "The main-prose standard had been clarified, but you asked to try the stricter early-style density target anyway."
+      - "Parts 136 and 144 were the best pilot cases because both were source-backed and usable, yet still visibly thin from documentary apparatus being held outside the file."
+
+    what_shifted:
+      - "Part 144 now carries a dedicated German footnote block with the longer Malebranche and Arnauld documentary citations that had previously remained almost entirely in the normalized source window."
+      - "Part 136 now carries a fuller German footnote block with the longer Burthogge original-language evidence on `thing`, `substance`, `accident`, and `entia cogitationis`."
+      - "The pilot therefore thickened the files by restoring separated apparatus rather than by pretending the main prose itself had been missing."
+
+    unresolved:
+      - "This is only a pilot, not yet a volume-wide normalization."
+      - "Need to decide whether the denser style is actually worth carrying across the volume or whether the main-prose standard remains the better long-term default."
+      - "No journal update is justified; this is file-density experimentation, not a new interpretive pass."
+
+    re_entry_instructions:
+      - "If near-full density continues, prefer tranches where the missing visible density lives in separated footnote or quotation apparatus rather than in absent running prose."
+      - "Do not re-open already adequate parts just to equalize raw line counts mechanically."
+      - "Judge the pilot by whether the denser files feel materially more trustworthy and useful, not merely longer."
+
+    formation_notes:
+      - "The easiest way to make the late files look fuller was not to rewrite the prose but to let more of the documentary source apparatus live inside the part file again."
+      - "That means the stricter style is a real stylistic choice, not just a correctness repair."

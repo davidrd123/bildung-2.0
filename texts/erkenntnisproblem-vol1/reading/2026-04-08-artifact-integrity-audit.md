@@ -28,6 +28,24 @@ It is a routing and honesty note, not a second journal.
 
 The English and German layers do not have the same boundary behavior.
 
+### Working standard for the German layer
+
+For Volume I, the meaningful completeness standard is `main-prose full density`, not raw line-count equality and not naive character-ratio comparison against the whole normalized source window.
+
+That means:
+
+- the corrected German should carry Cassirer's own running prose for the tranche
+- load-bearing quotations and formulas should be retained where they do argumentative work
+- long documentary footnotes, original-language apparatus, and source-window spillover into the next heading do not by themselves have to be mirrored at equal density inside the part file
+
+Low visible line counts are therefore not direct evidence of a thin tranche. In practice, late and early outliers alike can be pulled down by:
+
+- long inline footnote quotations in the normalized window
+- source windows that include the opening of the next section or chapter
+- more compact paragraphing in the part file even when the prose spine is present
+
+Representative low-ratio parts manually rechecked under this stricter standard include `9`, `11`, `28`, `43`, and `54`. They read as footnote- or spillover-heavy windows rather than as missing-prose failures.
+
 ### English layer
 
 - Parts `1-62`:
@@ -45,10 +63,18 @@ There is no remaining English-gloss zone in Volume I. The whole English layer is
   strongest corrected-source zone; these are closest to full corrected tranche bodies
 - Parts `82-133`:
   now close again to full corrected-source bodies; the late Descartes, Pascal, and logic-opening runs have been locally restored through the Geulincx opening
-- Parts `134-141`:
-  uneven recovery zone; several tranche bodies become fuller again, but the recovery is not uniform
-- Parts `142-149`:
-  renewed late compression, strongest in the Bayle close; still source-backed, but no longer at the earlier full-body standard
+- Parts `134-149`:
+  no longer behave like a single late-compression band; the remaining debt is pocketed
+- Parts `134-138`:
+  largely recovered; `136` is comparatively thin, but that now appears to be driven mainly by the long Burthogge footnote quotation rather than a missing prose bridge
+- Parts `139-142`:
+  source-backed and usable, but still thinner than early full-body standard
+- Parts `143-144`:
+  no longer a broken local pocket, but still the thinnest citation-heavy pair in the Malebranche / Arnauld run; `144` remains the weaker tranche
+- Part `145`:
+  materially improved; no longer the first local priority
+- Parts `146-149`:
+  materially recovered; `147` and `149` are no longer the primary German-completeness problem
 
 ## Derived but Current
 
@@ -82,14 +108,22 @@ In practice, that means the following can be treated as working-complete for Vol
 
 ## What Is Not Complete
 
-- Parts `134-141` remain usable but uneven; they may still need targeted German re-expansion
-- Parts `142-149` reopen the German density problem, with the Bayle close as the thinnest local stretch
-- Parts `142-149` are now the clearest remaining local priority if German completeness work resumes
+- Parts `134-149` still contain local German completeness debt, but it now appears mostly as uneven density rather than missing argumentative bridges
+- Parts `139-144` remain thinner than the early full-body standard, with `144` still the weakest local tranche
+- Part `136` no longer looks structurally broken; its low density is largely footnote-driven
 - the late-run English remains working draft translation, not polished publication prose
+
+Under the `main-prose full density` standard, the remaining uncertainty is narrower than the visible line gradient suggests. What still varies across the volume is mostly:
+
+- density of citation and documentary apparatus
+- paragraph compactness inside the part files
+- how much chapter-edge spillover the source window contains
+
+That unevenness should not be mistaken for a uniform loss of Cassirer's main prose.
 
 ## Decision for Now
 
 - There is no further forward translation inside Volume I.
-- If German source-completeness continues, begin with the renewed thin tail in Parts `142-149`.
-- After that, recheck the uneven middle band in Parts `134-141` as needed.
+- If German source-completeness continues, reopen Part `144` or Part `136` only if the goal is near-full tranche density rather than argument-complete usability.
+- Otherwise the local German repair pass can stop here; the remaining late-run debt is now selective thinness, not a broken reconstruction surface.
 - If primary work continues, it should do so in Volume II rather than by pretending Volume I remains open.
