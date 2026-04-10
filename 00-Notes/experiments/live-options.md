@@ -17,6 +17,7 @@ Completed so far:
 - `experiment-04-reification-detection.md`
 - `experiment-05-bruno-shaped-gap-completion.md`
 - `experiment-06-translation-residue-clustering.md`
+- `experiment-07-inverse-bayle-self-critique.md`
 
 What that chain established:
 
@@ -24,31 +25,16 @@ What that chain established:
 - same-packet convergence is useful evidence
 - diversified negatives are stronger evidence than repeated elegant agreement
 - German residue often shows where English creates false parallels
+- a Baylean critique pass can cut overconstituted synthesis language without erasing bounded contact
 - a higher-resolution packet index has still **not** earned its entrance
 
 ## Near-Term Candidates
 
-These are the next experiments most clearly indicated by the current work.
-They remain the first-priority queue.
+All original near-term candidates have now been run.
 
-### 1. Inverse-Bayle / self-critique test
+There is no active inward-facing experiment queued by default.
 
-Question:
-
-- when given Cassirer-style reification cases, can an LLM detect analogous overreach or loss of warrant in its own constituting outputs
-
-Success condition:
-
-- the model can identify at least some cases where its own constructive output outran the source support
-
-Failure condition:
-
-- it keeps constituting without a real Baylean dissolving move
-
-Why it is promising:
-
-- directly tied to the completed `Erkenntnisproblem` run
-- relevant to how these experiments themselves are being conducted
+If a new inward-facing candidate emerges, add it here first. Otherwise the next visible work is the deployment section below, but only when a real modern question demands outward use of the earned material.
 
 ## Deployment Candidates
 
@@ -113,11 +99,11 @@ Why it is promising:
 This is not one experiment but a default pattern for higher-risk probes:
 
 1. constituting pass
-2. critique pass
-3. source-language check
-4. independent rerun
+2. source-language check
+3. independent rerun
+4. self-critique pass
 
-This pattern is already what made `03 -> 03a -> 03b -> 03c` trustworthy.
+This fuller pattern is now what made `03 -> 03a -> 03b -> 03c -> 07` trustworthy.
 
 ## Hold For Later
 

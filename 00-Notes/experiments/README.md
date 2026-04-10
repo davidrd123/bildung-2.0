@@ -67,6 +67,17 @@ When a result seems worth trusting beyond one local run:
 
 If the packet over-steers the answer, tighten it. If the result survives an independent run, the control has improved.
 
+### Critique closure
+
+When a small experiment chain starts producing reusable bridge sentences:
+
+- run one self-critique pass against the experiment prose itself
+- preserve one sentence that survives as still warranted
+- cut at least one overconstituted bridge if the packet justifies it
+- rewrite the overreach into a stricter sentence instead of treating critique as total veto
+
+This is a control on wording and warrant, not a ban on synthesis.
+
 ### Reading convergence
 
 - same-packet convergence across different readers or models is useful evidence, not absolute proof
