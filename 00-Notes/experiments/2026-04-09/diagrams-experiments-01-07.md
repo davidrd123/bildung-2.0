@@ -98,10 +98,10 @@ system CAN'T HOUSE:             the frame CAN'T HOUSE:
   └──────────────┘               └──────────────┘
         │                              │
         ▼                              ▼
-  im System nicht                im Geschichtlichen nicht
-  unterzubringen                 unterzubringen
-  (can't be lodged               (can't be housed
-   in the doctrine)               in the historical)
+  not stabilizable               im Geschichtlichen nicht
+  within the minimum-            unterzubringen
+  doctrine's own frame           (can't be housed
+                                  in the historical)
 
               ┌─────────────────┐
               │  SAME SHAPE?    │
