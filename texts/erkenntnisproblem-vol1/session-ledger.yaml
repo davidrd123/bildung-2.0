@@ -3115,3 +3115,34 @@ sessions:
     formation_notes:
       - "The easiest way to make the late files look fuller was not to rewrite the prose but to let more of the documentary source apparatus live inside the part file again."
       - "That means the stricter style is a real stylistic choice, not just a correctness repair."
+
+  - date: 2026-04-09
+    collaborator: codex-gpt-5
+    session_outcome: near-full-density-extension
+    parts_touched:
+      - 145
+      - 148
+      - 149
+
+    state_on_entry:
+      - "The first pilot on Parts 136 and 144 worked, so the next step was to extend the denser style only where the file still looked thin mainly because quotation and citation apparatus remained outside the part file."
+      - "Parts 145, 148, and 149 were the strongest candidates in the late run: their main prose was already intact, but each still carried visible documentary compression."
+
+    what_shifted:
+      - "Part 145 now includes a German footnote block for the Arnauld presence-critique, the optics evidence, and the Malebranche references that had previously remained almost entirely in the normalized source."
+      - "Part 148 now includes the Bayle, Leibniz, and Kant-facing documentary apparatus on antinomy, ideal matter, ideal contact, and the revelation articles of the `Dictionnaire`."
+      - "Part 149 now includes the ethical and psychological Bayle references that support the tolerance, pessimism, Socinianism, and Voltaire handoff lines."
+
+    unresolved:
+      - "This remains a selective style extension, not a whole-volume equalization of line counts."
+      - "Part 146 still sits in the older lighter style, but it no longer looks like the best next candidate."
+      - "No journal update is justified; this was still a file-density pass rather than a new interpretive reading."
+
+    re_entry_instructions:
+      - "If the denser style continues, keep choosing parts where documentary references, quotations, or apparatus are the main source of visible thinness."
+      - "Do not convert every surviving lighter file automatically; treat this as a selective trust-building style, not a mechanical normalization routine."
+      - "Re-evaluate after a few more examples whether the heavier footnote blocks actually improve use in practice."
+
+    formation_notes:
+      - "The late Bayle files became visibly fuller as soon as the source citations and article references were allowed back into the part file."
+      - "The denser style is proving most natural where Cassirer's own documentary pressure is part of the argument, not merely decorative support."
