@@ -1,11 +1,12 @@
 # Right Now
 
-Last updated: 2026-04-09
+Last updated: 2026-04-09 (late)
 
 ## Proven
 
 - The repo has a usable layer split: `patterns/charter.md` states purpose, `00-Notes/process.md` states workflow, `patterns/handle-schema.md` states reference grammar.
-- The handle/evidence/thread pilot is real in `texts/zeitmauer/source/handles.yaml` through `§§1-175`. Evidence chains for `term:schicksalszeit`, `term:hinzutretende`, `term:da-sein-so-sein`, `term:weltplan`, and `term:erdgeschichtlich` are machine-readable. `thread:time-crisis` and `thread:predecided-world` now have workable traversals, and `zeitmauer` remains the strongest canonical implementation of the handle layer.
+- The handle/evidence/thread pilot is real in `texts/zeitmauer/source/handles.yaml` through `§§1-186` (the full book). Evidence chains for `term:schicksalszeit`, `term:hinzutretende`, `term:da-sein-so-sein`, `term:weltplan`, and `term:erdgeschichtlich` are machine-readable. `thread:time-crisis` and `thread:predecided-world` now have workable traversals, and `zeitmauer` remains the strongest canonical implementation of the handle layer.
+- Zeitmauer is now a completed translation run: 59 parts through §186, the end of the book. Second-pass reread memo for the closing section (Urgrund und Person) confirms the unit is reread-stable. Commentary probe (Schöttker, Koslowski) confirmed rather than revised.
 - Symbiotic-Vault interoperability is concrete at the handle layer through loose-coupled `vault:*` and `b2:*` references.
 - The architecture designed for three subprojects is now silently supporting five, plus two completed bounded source campaigns and a modern-sources directory. The layer split, journals, and glossaries are carrying the load without needing more ontology.
 - CLAUDE.md guardrails are in place, broadcasting the Goethe/Leibniz balance, deferred structure, evidence-before-framework, and opacity-not-foreignness principles to every agent session.
@@ -19,7 +20,7 @@ Last updated: 2026-04-09
 ## Current
 
 - **Erkenntnisproblem** Volume I is complete. 149 parts, the English layer repaired, the review apparatus filed. The next legitimate moves are: bounded late German repair (Parts 142-149), opening Volume II, or bounded cross-volume synthesis. No further forward translation inside Volume I.
-- **Zeitmauer** is the most active translation line: 57 parts on disk, now through `§175` (`Urgrund und Person`), with the handle pilot, evidence chains, thread dossiers, and the new Cassirer-pressure note all serving live translation work.
+- **Zeitmauer** is now complete: 59 parts through §186, the end of the book. Handle pilot through the full text, 5 thread dossiers, Cassirer-pressure note, second-pass reread memo for the closing arc. The next legitimate moves are: bounded review/repair, a whole-book integration pass, cross-project synthesis, or rest.
 - **Tektologiya** has 27 part files on disk: the first pass through volume-1 main text is complete through `1.1-5.4`, the selective front-matter pass is complete through `front.10`, and the glossary carries a compact stable core of organizational vocabulary. Its next value is likely demand-led, not linear.
 - **Escolios I** remains in selective second-pass mode: 17 section files, minimal handle layer, load-bearing reread bias.
 - **Escolios II** has 51 section files on disk. The Spanish extraction has stabilized for honest batching.
@@ -28,16 +29,17 @@ Last updated: 2026-04-09
 
 ## Next
 
-- Continue Zeitmauer into `§§176+`, where the run moves beyond `Urgrund und Person`.
-- Decide whether to open Erkenntnisproblem Volume II or let the completed Volume I sit while other subprojects advance.
-- Keep batching Escolios II from the cleaned Spanish source.
-- Keep crystallizing only what the work forces. The journals, glossaries, ledgers, and thread dossiers are doing the catching.
+- Both major German translation lines are now complete (Erkenntnisproblem Vol. I, Zeitmauer). The project's primary-work center has shifted.
+- Active forward translation continues in Escolios II (steady batching) and potentially Tektologiya (demand-led).
+- Decide what "next" means for two completed volumes: whole-book integration? Cross-project synthesis? Open Erkenntnisproblem Vol. II? Or let both rest while the other subprojects catch up?
+- Keep crystallizing only what the work forces.
 
 ## Live Question
 
-- The Cassirer-pressure note gives Zeitmauer four constraints (measure is constitutive, Weltplan anti-reification, naming crisis ≠ anti-concept, Urgrund must earn ground). Do these change what the next Zeitmauer batch makes visible, or are they inert?
-- The source-role taxonomy proposes reading one source-language commentary piece before a translation return. When is the right moment to run that test — next Zeitmauer session? Next erk return?
-- The glossary audit flagged five missed promotions (Relation, Unendliches, Kraft, Gesetz, Potenz) and one homeless pattern (reification). Should these be carved now or only when re-entry demands it?
+- Two completed volumes now sit side by side. Is there a cross-volume integration pass that's earned, or should they stay independent nodes?
+- The source-role commentary test (read Schöttker or Ferrari before next return) has now been partly run on the Zeitmauer side (Schöttker/Koslowski probe during the Urgrund und Person reread). What did it teach?
+- The glossary audit flagged five missed promotions (Relation, Unendliches, Kraft, Gesetz, Potenz) and one homeless pattern (reification) in erk. Zeitmauer's glossary was never audited at the same level. Should it be?
+- What does Tektologiya need to earn its next move? Is it still demand-led, or has the completion of two other volumes changed the demand?
 
 ## Do Not Do Yet
 
@@ -47,4 +49,5 @@ Last updated: 2026-04-09
 - Do not promote anything to `stable` on agent fluency alone.
 - Do not let reserve vocabulary quietly pre-earn a framework.
 - Do not open Volume II as an escape from late Volume I repair if the Bayle tail still needs German density work.
+- Do not launch a cross-volume Cassirer-Jünger synthesis before each volume has its own honest integration pass.
 - Do not expand the retrieval stack (BGE-M3, ColBERT, reranking) before the BM25 baseline has a proper evaluation set.
