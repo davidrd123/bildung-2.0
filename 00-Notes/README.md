@@ -31,6 +31,7 @@ Do not treat dated notes at this level as standing state. Those now live under `
 - `Chats/` — exported conversations; raw exploratory material
 - `distillations/` — filtered notes extracted from chats or research runs; useful, but not standing state and not canonical architecture
 - `DeepResearch/` — question sets, audits, prompt surfaces, and external pressure tests
+- `experiments/` — bounded speculative probes run against earned material; explicitly testable and allowed to fail
 - `cross-project/` — workspace-level synthesis notes between live source projects
 - `threads/` — active thread dossiers when a thread earns a more stable home
 

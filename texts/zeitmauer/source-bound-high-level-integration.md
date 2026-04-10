@@ -56,9 +56,9 @@ Here the crisis is no longer only about how time is divided. It becomes a crisis
 The closing unit does not simply abandon the earlier argument for religion or for metaphysical depth. Its actual movement is fourfold:
 
 - withdrawal of the personal gods and persistence of institutions
-- church, law, faith, and emptiness as one late diagnostic field
+- church as institution distinguished from the wider metaphysical total situation, with law, faith, and emptiness forming one late diagnostic field
 - worker, materialism, mother-earth, and nihilism as transit rather than endpoint
-- sacred time, earth-experiment, spirit, cultic abbreviation, and hope as the final recomposition
+- sacred time, earth-experiment, spirit, the late return of `der Hinzutretende`, cultic abbreviation, and hope as the final recomposition
 
 The second pass confirmed that the close lands as hard-won orientation, not soft consolation.
 
@@ -122,6 +122,7 @@ Each of these captures a real pressure in the book and then overstates it.
 ### 1. `thread:time-crisis`
 
 This is now stable enough for controlled comparison because it is anchored in a large evidence chain and has already survived one bounded reread of Part 2 and one of the closing unit.
+This does not yet mean every middle stretch has been reread as a closed unit; it means the main dossier is now strong enough to support bounded comparison without pretending the whole book has been second-passed evenly.
 
 ### 2. `thread:predecided-world`
 

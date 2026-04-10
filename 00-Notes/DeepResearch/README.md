@@ -4,6 +4,8 @@ This folder holds question sets, external-audit materials, and pressure tests fo
 
 It is not the primary workspace for ordinary translation sessions.
 
+If a note has become an explicit bounded experiment run against earned material, it should usually live under `../experiments/` rather than here.
+
 ## Current Layout
 
 - `2026-04-02/` — earlier DeepResearch runs and outputs. Left as-is.

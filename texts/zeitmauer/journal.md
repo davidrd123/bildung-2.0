@@ -1786,3 +1786,18 @@ Decision for now:
 - keep both sources in the role of corroborative pressure
 - do not rewrite the closing batch under commentary influence
 - use the local source pass, the second-pass memo, and this small commentary check as the actual precondition for any later higher-order `Zeitmauer` synthesis
+
+## 2026-04-09 — Source-bound high-level integration note
+
+Wrote `source-bound-high-level-integration.md` as a bounded orientation note for the completed translated run.
+
+Why this was now earned:
+
+- the book is translated through `§186`
+- `Meßbare und Schicksalszeit` and `Urgrund und Person` have both now survived bounded second passes
+- the local thread and glossary surfaces are stable enough to support a whole-book note without reopening the source campaign
+
+Constraint:
+
+- the note is an orientation surface, not a replacement for `journal.md`, the second-pass memos, or the local thread dossiers
+- keep later cross-project use bounded by what the completed local run actually earned
