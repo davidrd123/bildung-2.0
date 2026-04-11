@@ -3146,3 +3146,33 @@ sessions:
     formation_notes:
       - "The late Bayle files became visibly fuller as soon as the source citations and article references were allowed back into the part file."
       - "The denser style is proving most natural where Cassirer's own documentary pressure is part of the argument, not merely decorative support."
+
+  - date: 2026-04-10
+    collaborator: codex-gpt-5
+    session_outcome: near-full-density-extension
+    parts_touched:
+      - 146
+      - 147
+
+    state_on_entry:
+      - "A fast-forward pull brought in large unrelated work in experiments and Zeitmauer but did not touch Erkenntnisproblem Volume I."
+      - "The selective density pass was still the clean live line, and Parts 146-147 were the best remaining candidates in the late Malebranche / early Bayle handoff."
+
+    what_shifted:
+      - "Part 146 now carries a German footnote block for the anti-voluntarist Malebranche references, the `Raison corrompue` evidence, the lawgiver hesitation, and the Bayle handoff references."
+      - "Part 147 now carries a German footnote block for the Malebranche tradition reference and the Bayle `Commentaire philosophique` back-reference that grounds the historical-critical and conscience-centered claims."
+      - "The late handoff now reads more like the fuller early-volume style because the documentary surface is visible inside the part files again."
+
+    unresolved:
+      - "This is still a selective style extension, not a full-volume equalization project."
+      - "Some lighter late-run files remain, but the obvious late Malebranche / Bayle handoff pocket has now been substantially thickened."
+      - "No journal update is justified; this remains a presentation-density pass rather than a new interpretive reading."
+
+    re_entry_instructions:
+      - "If the denser style continues, prefer tranches where Cassirer's documentary references materially support the argument rather than merely decorate it."
+      - "Do not widen into a mechanical all-files normalization routine unless that becomes an explicit goal."
+      - "Reassess whether the style now feels settled enough to stop, rather than assuming every remaining lighter file must be reopened."
+
+    formation_notes:
+      - "The best late-run candidates are the hinge tranches where Cassirer compresses both argument and documentary pressure into a few paragraphs."
+      - "The denser style continues to work best when it restores explicit authority traces, not when it just inflates prose."
