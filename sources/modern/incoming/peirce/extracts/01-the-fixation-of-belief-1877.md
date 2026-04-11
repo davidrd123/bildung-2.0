@@ -1,10 +1,9 @@
-Title: The Fixation of Belief (1877)
-Source: cp-5-pragmatism-and-pragmaticism-1935.txt
-Note: lightly cleaned working extract from a converted text surface.
+# The Fixation of Belief (1877)
 
-The Fixation of Belief
+> Source: `cp-5-pragmatism-and-pragmaticism-1935.txt`
+> Status: lightly cleaned working extract from a converted text surface.
 
-I. Science and Logic
+## I. Science and Logic
 
 Few persons care to study logic, because everybody conceives himself to be proficient enough in the art of reasoning already. But I observe that this satisfaction is limited to one’s own ratiocination, and does not extend to that of other men.
 
@@ -20,7 +19,8 @@ In the same way, every work of science great enough to be well remembered for a 
 
 The Darwinian controversy is, in large part, a question of logic. Mr. Darwin proposed to apply the statistical method to biology. The same thing has been done in a widely different branch of science, the theory of gases. Though unable to say what the movements of any particular molecule of gas would be on a certain hypothesis regarding the constitution of this class of bodies, Clausius and Maxwell were yet able, eight years before the publication of Darwin’s immortal work, by the application of the doctrine of probabilities, to predict that in the long run such and such a proportion of the molecules would, under given circumstances, acquire such and such velocities; that there would take place, every second, such and such a relative number of collisions, etc.; and from these propositions were able to deduce certain properties of gases, especially in regard to their heat-relations. In like manner, Darwin, while unable to say what the operation of variation and natural selection in any individual case will be, demonstrates that in the long run they will, or would, adapt animals to their circumstances. Whether or not existing animal forms are due to such action, or what position the theory ought to take, forms the subject of a discussion in which questions of fact and questions of logic are curiously interlaced.
 
-II. Guiding Principles
+
+## II. Guiding Principles
 
 The object of reasoning is to find out, from the consideration of what we already know, something else which we do not know. Consequently, reasoning is good if it be such as to give a true conclusion from true premisses, and not otherwise. Thus, the question of validity is purely one of fact and not of thinking. A being the facts stated in the premisses and B being that concluded, the question is, whether these facts are really so related that if A were B would generally be. If so, the inference is valid; if not, not. It is not in the least the question whether, when the premisses are accepted by the mind, we feel an impulse to accept the conclusion also. It is true that we do generally reason correctly by nature. But that is an accident; the true conclusion would remain true if we had no impulse to accept it; and the false one would remain false, though we could not resist the tendency to believe in it.
 
@@ -32,7 +32,8 @@ A book might be written to signalize all the most important of these guiding pri
 
 The subject could hardly be treated, however, without being first limited; since almost any fact may serve as a guiding principle. But it so happens that there exists a division among facts, such that in one class are all those which are absolutely essential as guiding principles, while in the others are all which have any other interest as objects of research. This division is between those which are necessarily taken for granted in asking why a certain conclusion is thought to follow from certain premisses, and those which are not implied in such a question. A moment’s thought will show that a variety of facts are already assumed when the logical question is first asked. It is implied, for instance, that there are such states of mind as doubt and belief — that a passage from one to the other is possible, the object of thought remaining the same, and that this transition is subject to some rules by which all minds are alike bound. As these are facts which we must already know before we can have any clear conception of reasoning at all, it cannot be supposed to be any longer of much interest to inquire into their truth or falsity. On the other hand, it is easy to believe that those rules of reasoning which are deduced from the very idea of the process are the ones which are the most essential; and, indeed, that so long as it conforms to these it will, at least, not lead to false conclusions from true premisses. In point of fact, the importance of what may be deduced from the assumptions involved in the logical question turns out to be greater than might be supposed, and this for reasons which it is difficult to exhibit at the outset. The only one which I shall here mention is, that conceptions which are really products of logical reflection, without being readily seen to be so, mingle with our ordinary thoughts, and are frequently the causes of great confusion. This is the case, for example, with the conception of quality. A quality, as such, is never an object of observation. We can see that a thing is blue or green, but the quality of being blue and the quality of being green are not things which we see; they are products of logical reflections. The truth is, that common-sense, or thought as it first emerges above the level of the narrowly practical, is deeply imbued with that bad logical quality to which the epithet metaphysical is commonly applied; and nothing can clear it up but a severe course of logic.
 
-III. Doubt and Belief
+
+## III. Doubt and Belief
 
 We generally know when we wish to ask a question and when we wish to pronounce a judgment, for there is a dissimilarity between the sensation of doubting and that of believing.
 
@@ -42,7 +43,8 @@ Nor must we overlook a third point of difference. Doubt is an uneasy and dissati
 
 Thus, both doubt and belief have positive effects upon us, though very different ones. Belief does not make us act at once, but puts us into such a condition that we shall behave in some certain way, when the occasion arises. Doubt has not the least such active effect, but stimulates us to inquiry until it is destroyed. This reminds us of the irritation of a nerve and the reflex action produced thereby; while for the analogue of belief, in the nervous system, we must look to what are called nervous associations — for example, to that habit of the nerves in consequence of which the smell of a peach will make the mouth water.
 
-IV. The End of Inquiry
+
+## IV. The End of Inquiry
 
 The irritation of doubt causes a struggle to attain a state of belief. I shall term this struggle Inquiry, though it must be admitted that this is sometimes not a very apt designation.
 
@@ -56,7 +58,8 @@ It is a very common idea that a demonstration must rest on some ultimate and abs
 
 Some people seem to love to argue a point after all the world is fully convinced of it. But no further advance can be made. When doubt ceases, mental action on the subject comes to an end; and, if it did go on, it would be without a purpose.
 
-V. Methods of Fixing Belief
+
+## V. Methods of Fixing Belief
 
 If the settlement of opinion is the sole object of inquiry, and if belief is of the nature of a habit, why should we not attain the desired end, by taking as answer to a question any we may fancy, and constantly reiterating it to ourselves, dwelling on all which may conduce to that belief, and learning to turn with contempt and hatred from anything that might disturb it? This simple and direct method is really pursued by many men. I remember once being entreated not to read a certain newspaper lest it might change my opinion upon free-trade. “Lest I might be entrapped by its fallacies and misstatements,” was the form of expression. “You are not,” my friend said, “a special student of political economy. You might, therefore, easily be deceived by fallacious arguments upon the subject. You might, then, if you read this paper, be led to believe in protection. But you admit that free-trade is the true doctrine; and you do not wish to believe what is not true.” I have often known this system to be deliberately adopted. Still oftener, the instinctive dislike of an undecided state of mind, exaggerated into a vague dread of doubt, makes men cling spasmodically to the views they already take. The man feels that, if he only holds to his belief without wavering, it will be entirely satisfactory. Nor can it be denied that a steady and immovable faith yields great peace of mind. It may, indeed, give rise to inconveniences, as if a man should resolutely continue to believe that fire would not burn him, or that he would be eternally damned if he received his ingesta otherwise than through a stomach-pump. But then the man who adopts this method will not allow that its inconveniences are greater than its advantages. He will say, “I hold steadfastly to the truth, and the truth is always wholesome.” And in many cases it may very well be that the pleasure he derives from his calm faith overbalances any inconveniences resulting from its deceptive character. Thus, if it be true that death is annihilation, then the man who believes that he will certainly go straight to heaven when he dies, provided he have fulfilled certain simple observances in this life, has a cheap pleasure which will not be followed by the least disappointment. A similar consideration seems to have weight with many persons in religious topics, for we frequently hear it said, “Oh, I could not believe so-and-so, because I should be wretched if I did.” When an ostrich buries its head in the sand as danger approaches, it very likely takes the happiest course. It hides the danger, and then calmly says there is no danger; and, if it feels perfectly sure there is none, why should it raise its head to see? A man may go through life, systematically keeping out of view all that might cause a change in his opinions, and if he only succeeds — basing his method, as he does, on two fundamental psychological laws — I do not see what can be said against his doing so. It would be an egotistical impertinence to object that his procedure is irrational, for that only amounts to saying that his method of settling belief is not ours. He does not propose to himself to be rational, and, indeed, will often talk with scorn of man’s weak and illusive reason. So let him think as he pleases.
 

@@ -1997,7 +1997,7 @@ Decision for now:
 
 ## 2026-04-08 - Ferrari method frame tested against Copernicus / Bruno
 
-Tested the Ferrari 2012 working extract in `sources/modern/incoming/2012-ferrari-erkenntnisproblem-working-extract.md` back against the live primary material in Parts `68-77`.
+Tested the Ferrari 2012 working extract in `sources/modern/incoming/ferrari/2012-erkenntnisproblem-working-extract.md` back against the live primary material in Parts `68-77`.
 
 What was clarified:
 

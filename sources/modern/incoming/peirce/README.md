@@ -12,12 +12,12 @@ This directory is the tracked counterpart for small curated files that are worth
 
 Read this together with:
 
-- [`sources/modern/incoming/2026-04-10-peirce-texts-under-pressure.md`](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/sources/modern/incoming/2026-04-10-peirce-texts-under-pressure.md)
+- [texts-under-pressure.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/sources/modern/incoming/peirce/texts-under-pressure.md)
 
 Current first-pass extracts:
 
-1. `extracts/01-the-fixation-of-belief-1877.txt`
-2. `extracts/02-how-to-make-our-ideas-clear-1878.txt`
-3. `extracts/03-pragmatism-as-the-logic-of-abduction-1903-harvard.txt`
+1. [01-the-fixation-of-belief-1877.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/sources/modern/incoming/peirce/extracts/01-the-fixation-of-belief-1877.md)
+2. [02-how-to-make-our-ideas-clear-1878.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/sources/modern/incoming/peirce/extracts/02-how-to-make-our-ideas-clear-1878.md)
+3. [03-pragmatism-as-the-logic-of-abduction-1903-harvard.md](/home/davidrd/Projects/Learning/SelfStructure/bildung-2.0/sources/modern/incoming/peirce/extracts/03-pragmatism-as-the-logic-of-abduction-1903-harvard.md)
 
-These are lightly cleaned working extracts, not critical editions.
+These are lightly cleaned working extracts, reformatted into markdown for reading convenience. They are not critical editions.

@@ -9,7 +9,7 @@ Inputs:
 - Parts `76-79`
 - matching `journal.md` entries for the Twenty-Fifth through Twenty-Eighth `Naturphilosophie` tranches
 - matching `close-reading-ledger.md` entries
-- `sources/modern/incoming/2012-ferrari-erkenntnisproblem-working-extract.md`
+- `sources/modern/incoming/ferrari/2012-erkenntnisproblem-working-extract.md`
 - active glossary slice check
 
 Constraint:
