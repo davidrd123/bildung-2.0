@@ -1,6 +1,6 @@
 # Right Now
 
-Last updated: 2026-04-13
+Last updated: 2026-04-14
 
 ## Proven
 
@@ -18,6 +18,7 @@ Last updated: 2026-04-13
 - The source-role taxonomy (primary / source-language commentary / continued primary work / thinker-on-thinker) is in living-layer use as a reading filter, with provisional source-role tags for the April 6 DeepResearch batch.
 - The split between `00-Notes/distillations/` (earned only) and `00-Notes/working-syntheses/` (dated working material, explicitly not earned) was established on 2026-04-13 after a same-day naming drift was caught at one-file scale. See `00-Notes/working-syntheses/2026-04-13-working-synthesis-forward-direction-multi-voice.md` meta-provenance.
 - Calibration note: the April 13 working-synthesis / packet burst was produced under early sprint conditions, roughly two weeks into the current project push rather than after a long settled run. Read its architecture talk accordingly and keep checking whether primary-source contact continues to match apparatus growth.
+- Two `Umwelt` replay packets and a first bounded time-collision sequence now exist as working-layer tests in `00-Notes/experiments/2026-04-13/`. The `Umwelt` runs produced two distinct usable pressure shifts (answering structure; reconstruction constraint). The time-collision runs (`03A`, `03B`, `collision-01`) preserved a real relation-level contact between `thread:time-crisis` and Dick's `orthogonal-time` surface without licensing term-equivalence or shared cosmology.
 
 ## Current
 
@@ -36,13 +37,14 @@ Last updated: 2026-04-13
 - Decide what "next" means for two completed volumes: whole-book integration? Cross-project synthesis? Open Erkenntnisproblem Vol. II? Or let both rest while the other subprojects catch up?
 - Keep crystallizing only what the work forces.
 
-**Seed priority (2026-04-13):** after the KR comparison and forward-direction sessions in `00-Notes/working-syntheses/`, the earned order of next moves, with the Claude / codex agreement in the multi-voice file:
+**Seed priority (2026-04-14):** after the April 13 replay / collision runs and the April 14 Grothendieck extraction-distillation pass, the next honest order is now:
 
-1. **Direct Uexküll — one replay packet on a live open term.** Named by both voices as the concrete test of whether the April 13 vocabulary is doing real work. Two specific candidates: `term:umwelt` via one of the three 02b candidate passages (pp. 102-103, filed but not yet reviewed — codex suggests the anti-psychologism one), or `term:schicksalszeit` via one fresh Jünger passage against its existing evidence chain. Single-note experiment, observable outcome. This is the only move the April 13 work directly earned.
-2. **One narrow cross-project move — only if step 1 sharpens a live thread.** Not a freestanding synthesis exercise. If the replay produces something that belongs in `thread:predecided-world`, `thread:time-crisis`, or a Uexküll / Cassirer / Zeitmauer bridge note, write one narrow cross-project note. If it produces nothing that crosses, stay local. Cross-project work is downstream of source-level gains on this schedule, not parallel to them. (Codex's refinement of the ranking: cross-project shouldn't disappear from the next moves, it should come one step later, fed by Uexküll rather than competing with it.)
-3. **Grothendieck** (`sources/modern/incoming/2026-04-10-grothendieck-recoltes-et-semailles-first-contact.md`) — held. Closest to earning: the seed's trigger #2 would fire if the translation-residue work specifically asked for a French source with housing / footing pressure as a direct neighbor to Experiment 06 Family B. Family B has not yet asked for a non-German anchor. Open only on that condition.
-4. **Bogdanov** (`00-Notes/distillations/2026-04-08-earned-distillation-from-opus-on-tektologiya-instrument-pressure.md`) — demand-led reuse only. Already earned as instrument; the April 8 distillation is the governing rule. Cross into another subproject only when that subproject's own local source has generated an organizational difficulty that the Bogdanov vocabulary clarifies rather than redescribes.
-5. **Peirce** (`sources/modern/incoming/2026-04-10-peirce-texts-under-pressure.md`) — explicitly held. None of the seed's three triggers (chain apparatus leaning on Peirce language, abduction as real experiment-design bottleneck, sign question necessary for a specific local comparison) fired on April 13 despite Peirce surfacing repeatedly. The seed anticipated exactly these conversations and said wait; it is still right.
+1. **Direct Uexküll — replay packet 03 on `term:umwelt`.** Packets 01 and 02 both worked. The next specific test is the `Merkzeichen -> Merkmal` pressure named at the end of Experiment 02: does `Umwelt` still hold as a clean node, or only inside the larger `Merk* / Funktionskreis / Planmäßigkeit` family?
+2. **One smaller Jünger / Dick rerun.** `03A`, `03B`, and `collision-01` established a relation-level contact and then narrowed the real next question: does the `typology / receptivity` adjacency survive at smaller scale, or did it depend on meso-scale collision atmosphere? No new handle or wider synthesis before that test.
+3. **Grothendieck — one bounded follow-up, not a source opening.** The direct survivors are now clearer: forest / trees, French housing pressure, and patron failure / non-transmission. The next honest move is one bounded follow-up on one of those survivors (likely patron failure), not a full `Récoltes` campaign. Trigger #2 is now a live question, not a settled firing.
+4. **Methodology — bounded survey encounters.** The April 14 Grothendieck session made a procedural pressure explicit: are productive pre-promotion survey encounters legitimate, and if so how should they be marked so they do not quietly become source openings by reuse alone?
+5. **Bogdanov** (`00-Notes/distillations/2026-04-08-earned-distillation-from-opus-on-tektologiya-instrument-pressure.md`) — still demand-led reuse only. Use only when a local source has generated an organizational difficulty that the vocabulary clarifies rather than redescribes.
+6. **Peirce** (`sources/modern/incoming/2026-04-10-peirce-texts-under-pressure.md`) — still explicitly held. None of the seed's three triggers have fired.
 
 ## Live Question
 
@@ -50,7 +52,7 @@ Last updated: 2026-04-13
 - The source-role commentary test (read Schöttker or Ferrari before next return) has now been partly run on the Zeitmauer side (Schöttker/Koslowski probe during the Urgrund und Person reread). What did it teach?
 - The glossary audit flagged five missed promotions (Relation, Unendliches, Kraft, Gesetz, Potenz) and one homeless pattern (reification) in erk. Zeitmauer's glossary was never audited at the same level. Should it be?
 - What does Tektologiya need to earn its next move? Is it still demand-led, or has the completion of two other volumes changed the demand?
-- The late continuation of the April 13 Cassirer / Umwelt / Schicksalszeit chat made one methodological pressure live: is there a useful middle band between strict replay packets and free synthesis chats? A bounded source-collision packet is now filed in `00-Notes/experiments/live-options.md` as a candidate pattern, not yet a standing format.
+- The late continuation of the April 13 Cassirer / Umwelt / Schicksalszeit chat made one methodological pressure live: is there a useful middle band between strict replay packets and free synthesis chats? A bounded source-collision packet now has one useful working-layer trial (`collision-01`) and one sharper next test, but it is still not a standing format.
 
 ## Do Not Do Yet
 
