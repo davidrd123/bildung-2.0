@@ -1,6 +1,6 @@
 # Right Now
 
-Last updated: 2026-04-09 (late)
+Last updated: 2026-04-13
 
 ## Proven
 
@@ -16,6 +16,7 @@ Last updated: 2026-04-09 (late)
 - The Uexküll source campaign is complete (5 encounters) with a 02b candidate (3 undrafted passages from pp. 102-103) filed but not yet reviewed.
 - A qmd retrieval experiment confirmed that BM25 over authority-separated collections works for repo-native queries. Retrieval roadmap and eval seed are filed.
 - The source-role taxonomy (primary / source-language commentary / continued primary work / thinker-on-thinker) is in living-layer use as a reading filter, with provisional source-role tags for the April 6 DeepResearch batch.
+- The split between `00-Notes/distillations/` (earned only) and `00-Notes/working-syntheses/` (dated working material, explicitly not earned) was established on 2026-04-13 after a same-day naming drift was caught at one-file scale. See `00-Notes/working-syntheses/2026-04-13-working-synthesis-forward-direction-multi-voice.md` meta-provenance.
 
 ## Current
 
@@ -33,6 +34,14 @@ Last updated: 2026-04-09 (late)
 - Active forward translation continues in Escolios II (steady batching) and potentially Tektologiya (demand-led).
 - Decide what "next" means for two completed volumes: whole-book integration? Cross-project synthesis? Open Erkenntnisproblem Vol. II? Or let both rest while the other subprojects catch up?
 - Keep crystallizing only what the work forces.
+
+**Seed priority (2026-04-13):** after the KR comparison and forward-direction sessions in `00-Notes/working-syntheses/`, the earned order of next moves, with the Claude / codex agreement in the multi-voice file:
+
+1. **Direct Uexküll — one replay packet on a live open term.** Named by both voices as the concrete test of whether the April 13 vocabulary is doing real work. Two specific candidates: `term:umwelt` via one of the three 02b candidate passages (pp. 102-103, filed but not yet reviewed — codex suggests the anti-psychologism one), or `term:schicksalszeit` via one fresh Jünger passage against its existing evidence chain. Single-note experiment, observable outcome. This is the only move the April 13 work directly earned.
+2. **One narrow cross-project move — only if step 1 sharpens a live thread.** Not a freestanding synthesis exercise. If the replay produces something that belongs in `thread:predecided-world`, `thread:time-crisis`, or a Uexküll / Cassirer / Zeitmauer bridge note, write one narrow cross-project note. If it produces nothing that crosses, stay local. Cross-project work is downstream of source-level gains on this schedule, not parallel to them. (Codex's refinement of the ranking: cross-project shouldn't disappear from the next moves, it should come one step later, fed by Uexküll rather than competing with it.)
+3. **Grothendieck** (`sources/modern/incoming/2026-04-10-grothendieck-recoltes-et-semailles-first-contact.md`) — held. Closest to earning: the seed's trigger #2 would fire if the translation-residue work specifically asked for a French source with housing / footing pressure as a direct neighbor to Experiment 06 Family B. Family B has not yet asked for a non-German anchor. Open only on that condition.
+4. **Bogdanov** (`00-Notes/distillations/2026-04-08-earned-distillation-from-opus-on-tektologiya-instrument-pressure.md`) — demand-led reuse only. Already earned as instrument; the April 8 distillation is the governing rule. Cross into another subproject only when that subproject's own local source has generated an organizational difficulty that the Bogdanov vocabulary clarifies rather than redescribes.
+5. **Peirce** (`sources/modern/incoming/2026-04-10-peirce-texts-under-pressure.md`) — explicitly held. None of the seed's three triggers (chain apparatus leaning on Peirce language, abduction as real experiment-design bottleneck, sign question necessary for a specific local comparison) fired on April 13 despite Peirce surfacing repeatedly. The seed anticipated exactly these conversations and said wait; it is still right.
 
 ## Live Question
 
