@@ -1,0 +1,253 @@
+III
+
+LA MODE — OU LA VIE
+
+DES HOMMES ILLUSTRES
+
+
+L’instinct et la mode — ou la loi du plus fort
+
+
+
+Note 48 [◊ 197] Comme il est bien connu, la théorie des catégories dérivées est due à J.-L. Verdier. Avant qu’il entreprenne le travail de fondements que je lui avais proposé, je m’étais borné à travailler avec les catégories dérivées de façon heuristique, avec une définition provisoire de ces catégories (qui s’est avérée par la suite être la bonne), et avec une intuition également provisoire de leur structure interne essentielle (intuition qui s’est révélée techniquement fausse dans le contexte prévu, le mapping cone ne dépendant pas fonctoriellement de la flèche dans une catégorie dérivée qui est censée le définir, et qui le définit seulement à isomorphisme non unique près). La théorie de dualité des faisceaux cohérents (i.e. le formalisme des « six variances » dans le cadre cohérent) que j’avais développée vers la fin des années 195027, ne prenait tout son sens que modulo un travail de fondements sur la notion de catégorie dérivée, qui a été fait par Verdier ultérieurement.
+
+Le texte de la thèse de Verdier (passée seulement en 1967), d’une vingtaine de pages, me semble la meilleure introduction au langage des catégories dérivées écrite à ce jour, situant ce langage dans le contexte de ses utilisations essentielles (dont plusieurs sont dues à Verdier lui-même). C’était seulement l’introduction à un travail en cours de rédaction, et qui a fini par être rédigé ultérieurement. Je peux me flatter d’être, sinon l’unique, du moins l’une des très rares personnes qui peuvent témoigner avoir tenu entre leurs mains ce travail, qui est censé établir le bien-fondé du titre de docteur ès sciences décerné à son auteur sur la foi de la seule introduction ! Ce travail est (ou était — je ne sais s’il en existe encore un exemplaire quelque part…) le seul texte, à ce jour, qui présente des fondements systématiques de l’algèbre homologique selon le point de vue des catégories dérivées.
+
+[◊ 198] Peut-être suis-je le seul à regretter que ni le texte introductif, ni les fondements proprement dits n’aient été publiés28, de sorte que le bagage technique essentiel pour l’utilisation du langage des catégories dérivées se trouve éparpillé dans trois endroits différents de la littérature29. Cette absence d’un texte de référence systématique, d’un poids comparable au livre classique de Cartan-Eilenberg, m’apparaît à la fois une cause et un signe typique de la désaffection qui a frappé le formalisme des catégories dérivées après mon départ de la scène mathématique en 1970.
+
+Il est vrai que dès 1968 il s’était avéré déjà (à l’occasion des besoins d’une théorie cohomologique des traces, développée dans SGA 5) que la notion de catégorie dérivée sous sa forme primitive, et la notion correspondante de catégorie triangulée, étaient insuffisants pour certains besoins, et qu’un travail de fondements plus approfondi restait à faire. Un pas utile, mais encore modeste dans cette direction a été fait (pour les besoins surtout de la cause des traces) par Illusie, avec l’introduction dans sa thèse des « catégories dérivées filtrées ». Il semblerait que mon départ en 1970 ait été le signal d’un arrêt soudain et définitif de toute réflexion sur les fondements de l’algèbre homologique, comme aussi sur ceux, intimement liés, d’une théorie des motifs (481). Pourtant, pour ce qui est des premiers, toutes les idées essentielles pour des fondements d’envergure semblaient acquises dès les années avant mon départ (482). (Y compris l’idée-clef de « dérivateur », ou « machine à fabriquer des catégories dérivées », qui semble bien être l’objet plus riche commun, sous-jacent aux catégories triangulées qu’on a rencontrées jusqu’à présent, idée qui sera finalement développée tant soit peu dans un cadre non additif, près de vingt ans après, dans un chapitre du volume 2 de la Poursuite des champs.) De plus, une large partie du travail de fondements à faire avait été déjà faite par Verdier, Hartshorne, Deligne, Illusie, travail qui pouvait être utilisé tel quel pour une synthèse reprenant les idées acquises dans la perspective plus vaste des dérivateurs.
+
+[◊ 199] Il est vrai que cette désaffection dans les quinze années écoulées30 pour la notion même de catégorie dérivée, qui chez certains s’est apparentée au désaveu d’un passé, va dans le sens d’une certaine mode, qui affecte de regarder avec dédain toute réflexion de fondements, si urgente soit-elle31. D’un autre côté, il est bien clair pour moi que le développement de la cohomologie étale, que « tout le monde » utilise aujourd’hui sans y regarder à deux fois (ne serait-ce qu’implicitement via feu les conjectures de Weil…), n’aurait pu se faire sans le bagage conceptuel que représentaient les catégories dérivées, les six opérations, et le langage des sites et des topos (développé d’abord pour cette fin précisément), sans compter SGA 1 et SGA 2. Et il est tout aussi clair que la stagnation qu’on peut constater aujourd’hui dans la théorie cohomologique des variétés algébriques n’aurait pu apparaître et encore moins s’installer, si certains de ceux qui furent mes élèves avaient su, pendant ces années, suivre leur sain instinct de mathématicien plutôt qu’une mode qu’ils ont été parmi les premiers à instaurer, et qui depuis belle lurette et avec leur appui a acquis force de loi.
+
+
+
+
+
+Note 481 La même chose peut se dire d’ailleurs (avec certaines réserves) de l’ensemble de mon programme de fondements de géométrie algébrique, dont une petite partie seulement a été réalisée : il s’est arrêté net avec mon départ. L’arrêt m’a frappé surtout dans le programme de dualité, que je considérais particulièrement juteux. Les travaux de Zoghman Mebkhout, poursuivis contre vents et marées, se situent pourtant dans le fil de ce programme (renouvelé par l’apport d’idées imprévues). Il en est de même des travaux de Carlos Contou-Carrère de 1976 (dont il a été question dans la note 471) — travaux qu’il a eu la prudence de suspendre sine die. Il y a eu également un travail sur la dualité en cohomologie fppf des surfaces (Milne). C’est là tout ce dont j’ai eu connaissance.
+
+Il est vrai que je n’ai jamais songé à écrire une esquisse du programme de travail à long terme qui s’était dégagé pour moi au cours des années entre 1955 et 1970, comme je l’ai fait pour les dernières douze années, avec l’Esquisse d’un programme. La raison en est simplement, je crois, qu’il ne s’est jamais présenté d’occasion particulière (comme maintenant ma demande d’entrée au CNRS) pour [◊ 200] motiver un tel travail d’exposition. On trouvera dans les lettres à Larry Breen (de 1975) qui sont reproduites en appendice au chapitre I de l’Histoire de modèles (Réflexions mathématiques 2) quelques indications sur certaines théories (de dualité notamment) sur mon agenda d’avant 1970, théories qui attendent toujours des bras pour entrer dans le patrimoine commun.
+
+
+
+
+
+Note 482 La même chose est vraie également pour la théorie des motifs, à cela près que celle-ci est sans doute appelée à rester conjecturale pendant un certain temps.
+
+
+
+
+L’inconnu de service et le théorème du bon Dieu
+
+
+
+Note 48’ Alors qu’il est d’usage d’appeler les théorèmes-clefs d’une théorie par les noms de ceux qui ont accompli le travail de les dégager et de les établir, il semblerait que le nom de Zoghman Mebkhout ait été jugé indigne de ce théorème fondamental, aboutissement de quatre ans de travail obstiné et solitaire (1975-1979), à contre-courant de la mode du jour et du dédain de ses aînés. Ceux-ci, le jour où la portée du théorème ne pouvait plus être ignorée, se sont plu à l’appeler « théorème de Riemann-Hilbert », et je leur fais confiance (alors que Riemann ni Hilbert n’en auraient sûrement demandé tant…) qu’ils avaient pour le faire d’excellentes raisons. Après tout (une fois que le sentiment d’un besoin — celui d’une compréhension des relations précises entre coefficients discrets généraux et coefficients continus — est apparu à l’encontre de l’indifférence générale, qu’il s’est affiné et précisé par un travail délicat et patient, qu’après des stades successifs le bon énoncé a été finalement dégagé, qu’il est écrit noir sur blanc et prouvé, et quand enfin ce théorème fruit de la solitude a fait ses preuves là où on l’attendait le moins — après tout cela) ce théorème apparaît si évident (pour ne pas dire « trivial », pour ceux qui « auraient su le démontrer »…) qu’il n’y a vraiment pas de quoi s’encombrer la mémoire du nom d’un vague inconnu de service !
+
+Encouragé par ce précédent, je propose d’appeler désormais « théorème d’Adam et d’Ève » tout théorème vraiment naturel et fondamental à une théorie, ou même de remonter plus loin encore et de rendre honneur là où honneur est dû, en l’appelant simplement « théorème du bon Dieu »32.
+
+[◊ 201] Pour autant que je sache, à part moi-même, Deligne a été le seul avant Mebkhout à sentir l’intérêt qu’il y avait à comprendre les relations entre coefficients discrets et coefficients continus dans un cadre plus vaste que celui des modules stratifiés, de façon à pouvoir interpréter en termes « continus » des coefficients « constructibles » quelconques. La première tentative dans ce sens fait l’objet d’un séminaire (resté non publié) de Deligne à l’IHES en 1968 ou 1969, où il introduit le point de vue des « promodules stratifiés » et donne un théorème de comparaison (sur le corps des complexes) pour la cohomologie discrète transcendante et la cohomologie du type De Rham associée, laquelle garde un sens pour des schémas de type fini, sur tout corps de base de caractéristique nulle. (Apparemment, il n’était pas au courant encore à ce moment du remarquable résultat de ses lointains prédécesseurs Riemann et Hilbert…) Plus encore que Verdier33 ou Berthelot34, Deligne était donc particulièrement bien placé pour pouvoir apprécier tout l’intérêt de la direction où s’engageaient les recherches de Mebkhout en 1975, et par la suite l’intérêt des résultats de Mebkhout et notamment du « théorème du bon Dieu », qui donne une appréhension plus délicate et plus profonde des coefficients discrets en termes de coefficients continus, que celle qu’il avait lui-même dégagée. Cela n’a pas empêché que Mebkhout a dû poursuivre ses travaux dans un isolement moral pénible, et que le crédit qui lui revient (d’autant plus, je dirais) pour son travail de pionnier reste escamoté encore, aujourd’hui, cinq ans après35.
+
+
+
+
+
+Poids en conserve et douze ans de secret
+
+
+
+Note 49 [◊ 202] Vérification faite (dans Publications mathématiques 35, 1968), je constate que vers la fin de l’article « Théorème de Lefschetz et critères de dégénérescence de suites spectrales », il est fait allusion en trois lignes à des « considérations de poids » qui m’avaient amené à conjecturer (sous une forme un peu moins générale) le résultat principal du travail. Je doute que cette allusion sybilline pouvait être utile à quiconque, ni comprise à l’époque par quelqu’un d’autre que Serre ou moi, qui étions de toute façon déjà au courant36.
+
+Je signale à ce propos qu’un « yoga des poids » très précis, y compris pour le comportement des poids pour des opérations telles que Rif* et Rif!, m’était bien connu (donc aussi à Deligne) dès cette époque, dans les dernières années 1960, dans le sillage des conjectures de Weil. Une partie de ce yoga se trouve finalement établi (dans le contexte des faisceaux de coefficients ℓ-adique, en attendant qu’il le soit dans le cadre plus naturel des motifs) dans le travail de Deligne « Conjectures de Weil II » (Publications mathématiques, 1980). Sauf erreur, pendant les douze années environ qui se sont écoulées entre les deux moments37, il n’y a eu trace dans la littérature d’un exposé, si succinct et si partiel soit-il, du yoga des poids (encore entièrement conjectural), qui pendant tout ce temps est resté le privilège exclusif de quelques (deux ou trois ?) initiés38. Or ce yoga constitue une première clef essentielle pour une compréhension des propriétés « arithmétiques » de la cohomologie des variétés algébriques, donc à la fois un moyen pour s’y reconnaître dans [◊ 203] une situation donnée et pour faire des prédictions d’une fiabilité qui ne s’était jamais vue mise en défaut, et en même temps et par là même il représentait une des tâches les plus urgentes et les plus fascinantes qui se posaient dans la théorie cohomologique des variétés algébriques. Le fait que ce yoga soit resté pratiquement ignoré jusqu’au moment où il était finalement établi (dans certains aspects importants tout au moins), me paraît un exemple particulièrement frappant du rôle de blocage de l’information que jouent souvent ceux-là mêmes qui par leur situation privilégiée et leurs fonctions sont censés veiller à sa large diffusion39.
+
+
+
+
+
+On n’arrête pas le progrès !
+
+
+
+Note 50 Mes premières expériences dans ce sens ont été les fruits inattendus de mes efforts infructueux pour essayer de faire publier la thèse d’Yves Ladegaillerie sur les théorèmes d’isotropie sur les surfaces — travail aussi bon certes qu’aucun des onze travaux de doctorat d’État (« d’avant 1970 », il est vrai !) pour lesquels j’avais fait figure de « patron ». Si je me rappelle bien, ces efforts se sont poursuivis pendant bien une année ou plus, et ont eu comme protagonistes bon nombre de mes anciens amis (sans compter un de mes anciens élèves, comme de juste)40. Les épisodes principaux m’apparaissent encore aujourd’hui comme autant d’épisodes de vaudeville !
+
+Ça a été ma première rencontre aussi avec un certain esprit nouveau et des mœurs nouvelles (devenus courants dans le cercle de mes amis d’antan), auxquels j’ai déjà eu l’occasion de faire allusion ici et là au cours de ma réflexion. C’est au cours de cette année-là (en 1976 donc) que j’ai appris pour la première fois, mais non pour la dernière, que c’est aujourd’hui considéré comme un manque de sérieux (tout au moins de la part du premier venu…) de démontrer bel et bien des choses délicates que tout le monde utilise et que les prédécesseurs se sont toujours contentés d’admettre (en l’occurrence, la non-existence de phénomènes sauvages en topologie des surfaces)41. Ou de démontrer un résultat qui englobe [◊ 204] comme cas particuliers ou corollaires plusieurs théorèmes profonds connus (ce qui montre évidemment que le résultat soi-disant nouveau ne peut être qu’un cas particulier ou une conséquence facile des résultats connus). Ou de prendre la peine seulement, dans l’énoncé d’un résultat ou dans la description d’une situation en termes d’une autre, de formuler avec soin les hypothèses naturelles (signe d’un regrettable bombinage), plutôt que de se borner à quelque cas d’espèce au goût de la personne de haute volée qui émet son opinion. (L’an dernier encore, j’ai vu faire reproche à Contou-Carrère de ne pas s’être borné dans sa thèse à se placer sur un corps de base au lieu d’un schéma général — tout en lui concédant quand même la circonstance atténuante que c’était sûrement sur les instances de son patron de circonstance qu’il avait dû s’y résoudre. Celui qui s’exprimait ainsi était pourtant suffisamment dans le coup pour savoir que même en se bornant au corps des complexes, les nécessités de la démonstration forcent la main pour introduire des schémas de base généraux…)
+
+Les égarements d’une certaine mode aujourd’hui vont jusqu’à honnir non seulement les démonstrations soigneuses (voire les démonstrations tout court), mais souvent même des énoncés et des définitions en forme. Au prix où est le papier et la longanimité du lecteur gavé, il ne sera bientôt plus question de s’encombrer d’un luxe aussi coûteux ! Extrapolant les tendances actuelles, on doit pouvoir prédire le moment où il ne sera plus question dans une publication d’expliciter définitions ni énoncés, qu’on se contentera désormais de nommer par des mots-code, en laissant à l’infatigable et génial lecteur le soin de remplir les blancs conformément à ses propres lumières. La tâche du referee sera facilitée d’autant, car il lui suffira de regarder dans l’annuaire Who’s who si l’auteur est connu comme crédible (de toute façon personne ne pourrait contredire les blancs et les pointillés qui composent le brillant article), ou au contraire un inavouable inconnu qui sera (comme c’est le cas déjà dès aujourd’hui et depuis belle lurette) éjecté d’office…
+
+
+
+
+
+1. (10 mai) L’ami en question n’est autre que Zoghman Mebkhout ; qui a bien voulu m’autoriser à lever l’anonymat que j’avais cru devoir maintenir sur l’origine de la lettre (du 2 avril 1984) que je cite dans la présente note.
+
+
+
+2. (10 mai) La citation qui précède est très fortement tronquée, par un souci de respect de l’anonymat de mon correspondant.
+
+Voir la note suivante pour une citation complète du passage dont cette citation est extraite et pour des commentaires aussi sur son sens véritable, qui m’avait échappé d’abord faute d’information plus circonstanciée.
+
+
+
+3. Voir la note 27, « Le “snobisme des jeunes” — ou les défenseurs de la pureté », no 27.
+
+
+
+4. Voir deuxième note de b. de p. de la note précédente, « Échec d’un enseignement (2) — ou création et fatuité », no 44’.
+
+
+
+5. Le lecteur trouvera dans les notes nos 461 à 469 certains commentaires plus techniques sur les notions passées en revue dans la présente note. D’autre part, indépendamment des notions particulières que j’ai introduites, le lecteur trouvera des réflexions sur ce que je considère comme « la partie maîtresse » de mon œuvre (à l’intérieur de la partie de mon œuvre « entièrement menée à son terme »), dans la note no 88, « La dépouille ».
+
+
+
+6. (7 juin) Mebkhout me signale qu’à ces deux théorèmes, il convient d’en ajouter un troisième, s’exprimant également en termes de catégories dérivées, savoir ce qu’il a appelé (un peu improprement peut-être) le « théorème de bidualité » pour les -Modules, et qui est le plus difficile des trois. Pour une esquisse d’ensemble des idées et résultats de Mebkhout et de leurs utilisations, voir Le Dung Trang et Zoghman Mebkhout, « Introduction to linear differential systems », Proc. of Symposia in Pure Mathematics, vol. 40 (1983), partie 2, p. 31-63.
+
+
+
+7. (30 mai) La démonstration du deuxième théorème se heurte aux difficultés techniques habituelles au contexte transcendant, nécessitant le recours à des techniques « évétesques » ; je devine qu’elle peut être rangée au rang des démonstrations « difficiles ». Celle du premier théorème est « évidente » — et profonde, utilisant toute la force de la résolution des singularités de Hironaka.
+
+Comme je le signale dans l’avant-dernier alinéa de la note « La solidarité » (no 85), une fois le théorème dégagé, « le premier venu » bien informé est capable de le prouver. Comparer aussi avec l’observation de J H. C. Whitehead citée dans la note « Le “snobisme des jeunes” — ou les défenseurs de la pureté » (no 27). Quand j’ai écrit cette dernière note, comme sous la silencieuse dictée d’une prescience secrète, je ne soupçonnais pas à quel point la réalité allait dépasser mes timides et tâtonnantes suggestions !
+
+
+
+8. Ils l’ont appris de première main dans les séminaires SGA 4 et SGA 5, et par textes interposés, dans « Residues and Duality » de R. Hartshorne.
+
+
+
+9. (30 mai) Mais j’ai eu temps de l’oublier — pour m’en resouvenir par la vertu de la deuxième rencontre avec Mebkhout, l’an dernier. (Voir la note « Rencontres d’outre-tombe », no 78.)
+
+
+
+10. (15 mai) Ces « idées essentielles et principaux moyens techniques » avaient été réunis dans la vaste fresque des séminaires SGA 4 et SGA 5, entre 1963 et 1965. Les étranges vicissitudes qui ont frappé la rédaction et la publication de la partie SGA 5 de cette fresque, parue (sous forme méconnaissable, dévastée) onze ans plus tard (en 1977), donnent une image saisissante du sort de cette vaste vision aux mains d’« une certaine mode » — ou plutôt, aux mains de certains de mes élèves qui ont été les premiers à l’instaurer (voir note de b. de p. suivante). Ces vicissitudes et leur sens se révèlent progressivement au cours de la réflexion des dernières quatre semaines, se poursuivant dans les notes « Le compère », « La table rase », « L’être à part », « Le feu vert », « Le renversement », « Le silence », « La solidarité », « La mystification », « Le défunt », « Le massacre », « La dépouille », notes nos 63”’, 67, 67’, 68, 68’ et 84-88.
+
+
+
+11. (13 mai) La poursuite de la réflexion au cours des six semaines qui ont suivi le moment où ces lignes furent écrites (fin mars), a fait apparaître que cette « mode » a été instaurée en tout premier lieu par certains de mes élèves — par ceux-là mêmes qui étaient les mieux placés pour faire leur une certaine vision, et des idées et des moyens techniques, et qui ont choisi de s’approprier des instruments de travail, tout en désavouant et la vision qui les avait fait naître, et celui en qui cette vision avait pris naissance.
+
+
+
+12. (13 mai) Cette synthèse a été « récusée » en tout premier lieu, dans son esprit comme dans la notion-clef qui la rend possible, par nul autre que celui-là même qui a été le principal utilisateur et bénéficiaire, à travers toute son œuvre, des moyens techniques qu’elle m’avait permis de développer (avec le langage des schémas et la construction d’une théorie de cohomologie étale). C’est Pierre Deligne. Par son ascendant exceptionnel (dû à ses moyens exceptionnels), et par la position très particulière qu’il a occupée vis-à-vis de mon œuvre dont il a été comme un légataire implicite, le barrage discret et systématique qu’il a opposé aux idées principales que j’avais introduites (à l’exception de la notion de schéma et de la cohomologie étale) a été d’une grande efficacité, jouant sûrement un rôle de premier plan dans l’instauration de la « mode » qui a enterré ces idées, réduites pendant déjà près de quinze ans à une vie végétative. Son œuvre a été marquée profondément par cette ambiguïté, que j’ai entrevue pour la première fois dans la réflexion qui continue celle de la présente note. (Voir « Refus d’un héritage — ou le prix d’une contradiction », note no 47.) Cette première perception, vive mais encore confuse, de cette entrave permanente dans l’œuvre de Deligne après mon départ, s’est précisée et confirmée de façon saisissante au cours de toute la réflexion sur cet Enterrement, où mon ami joue le rôle de principal officiant.
+
+
+
+13. (13 mai) Il est apparu au cours de la réflexion ultérieure que la situation a commencé à changer avec le colloque de Luminy de juin 1981 : on y a vu tels qui avaient « oublié » (ou plutôt, enterré…) ces notions, se pavaner avec, sans pour autant cesser de battre froid ce même « malheureux » sans lequel ce brillant colloque n’aurait jamais eu lieu. (Voir notes nos 75 et 81 au sujet de ce mémorable colloque.)
+
+
+
+14. (13 mai) J’ai fini par comprendre que la seule personne (à part moi) qui jusqu’à aujourd’hui réponde au sens assez particulier de ce « tant soit peu dans le coup » est Pierre Deligne, qui a eu l’avantage pendant quatre ans, en même temps qu’il écoutait « le peu que je savais en géométrie algébrique », d’être le confident au jour le jour de mes réflexions motiviques. Il est vrai que j’ai parlé de ces choses à beaucoup d’autres collègues ici et là, mais aucun apparemment n’a été assez « branché » pour assimiler une vision d’ensemble qui s’était développée en moi au cours de plusieurs années, ou pour prendre mes indications comme un point de départ pour développer par lui-même une vision et un programme (comme moi-même l’avais fait à partir de deux ou trois « fortes impressions » produites par certaines idées de Serre). Peut-être je fais erreur, mais il me semble que les gens intéressés par la cohomologie des variétés algébriques n’étaient pas en disposition psychologiques à « prendre les motifs au sérieux » aussi longtemps que Deligne, qui faisait autorité en cohomologie et qui en même temps était le seul censé savoir à fond de quoi il retournait avec ces motifs, les passait lui-même sous silence.
+
+(8 juin) Vérification faite, il apparaît que mes premières réflexions motiviques remontent aux débuts des années 1960 — elles se sont donc poursuivies sur près d’une dizaine d’années.
+
+
+
+15. (13 mai) Comme je l’ai signalé dans une précédente note de b. de p., les catégories dérivées ont eu droit il y a trois ans à une exhumation en grande pompe (sans que mon nom y soit prononcé). Les topos et les six opérations attendent toujours leur heure, et les motifs aussi, sauf le petit morceau qui a été exhumé il y a deux ans, avec une paternité de rechange (voir notes nos 51, 52, 59).
+
+
+
+16. (13 mai) Je crois comprendre maintenant que le « très peu d’initiés » s’est réduit jusqu’en 1982 au seul et unique Deligne. Il est vrai qu’il a révélé de cette « science secrète » ce qui transparaît à travers certains résultats importants inclus dans ce yoga, révélés au fur et à mesure qu’il a été en mesure de les prouver, pour en recueillir le crédit tout en cachant sa source d’inspiration, laquelle restait secrète. Si pourtant pendant quinze ans personne ne s’est déclenché encore pour embrancher enfin sur une théorie des motifs de vaste envergure, c’est que décidément notre époque est loin du dynamisme hardi de l’époque héroïque du calcul infinitésimal !
+
+
+
+17. (13 mai) Ayant fini par prendre connaissance de la bibliographie tant soit peu, je vois maintenant que l’œuvre entière de Deligne est enracinée dans ce yoga. Et mon échantillonage bibliographique (ainsi que d’autres recoupements) me font supposer que dans l’œuvre entière de Deligne, la seule référence à cette source se trouve dans une ligne lapidaire (me citant en une haleine avec Serre) dans « Théorie de Hodge I » en 1970. (Voir les notes nos 78’1 et 78’2.)
+
+
+
+18. Ce que je tiens de Serre (début des années 1960 ?) est une idée ou intuition de départ, me faisant comprendre qu’il y avait quelque chose d’important à comprendre ! Cela a agi comme une impulsion initiale, déclenchant une réflexion qui s’est poursuivie dans les années suivantes, d’abord sur un « yoga » des poids et bientôt sur un yoga plus vaste des motifs.
+
+
+
+19. (10 avril) Il me semble que Deligne a été le seul à « entendre » — et il a pris soin de se réserver le privilège exclusif de ce qu’il entendait. Il est vrai d’autre part qu’en écrivant ces lignes finales, je « retardais » sur les événements : il y a deux ans, il y a eu exhumation partielle du yoga des motifs sans aucune allusion à un rôle que j’y aurais joué ! Voir à ce sujet les notes nos 50, 51, 59, suscitées par une découverte imprévue qui a jeté une lumière inattendue (pour moi du moins) sur le sens de l’enterrement qui avait eu lieu pendant douze ans. Jusque-là je m’étais rendu compte assez confusément d’une sorte d’enterrement, sans prendre le loisir d’aller y regarder de plus près…
+
+
+
+20. (6 juin) Je l’ai retrouvée (sous une forme voisine, et sous le nom flatteur de « conjecture de Deligne-Grothendieck ») dans un article de MacPherson paru en 1974. Voir, pour des détails, la note no 871.
+
+
+
+21. Le lecteur intéressé trouvera une esquisse de ce formalisme en Appendice au présent volume.
+
+
+
+22. (25 mai) Elle a été établie par J.-L. Verdier, voir « Les bonnes références », note no 82.
+
+
+
+23. (12 mai) Par contre, je viens de constater que rien dans ladite brochure ne pourrait faire soupçonner au lecteur que mon œuvre ait quoi que ce soit à voir avec la cohomologie des variétés algébriques, ou celle de quoi que ce soit d’autre ! Voir à ce sujet la note « L’Éloge Funèbre (1) — ou les compliments » (no 104) écrite ce jour. La brochure dont il est question est celle mentionnée dans la note de bas de page à la note « L’arrachement salutaire », no 42, et examinée d’un peu plus près dans la note « L’Éloge Funèbre (1) » qu’on vient de mentionner.
+
+
+
+24. (25 mai) C’est pourtant ce qui était aimablement suggéré dans cette fameuse brochure jubilée, sous une plume anonyme que je crois reconnaître. Voir à ce sujet la note « L’Éloge Funèbre (2) », qui fait suite à « L’Éloge Funèbre (1) » cité dans la précédente note de b. de p.
+
+
+
+25. Dans Pub. Math. 36, 1969, p. 75-110. Voir commentaires dans la note no 631
+
+
+
+26. (8 juin) Voir la sous-note 951 à la note « Cercueil 3 — ou les jacobiennes un peu trop relatives », no 95.
+
+
+
+27. Il y manquait encore une opération Rf! (cohomologie à support propre) pour un morphisme non propre, qui a été introduite six ou sept ans plus tard par Deligne, grâce à l’introduction par lui du contexte des promodules cohérents, qui m’apparaît comme une idée nouvelle importante (reprise avec succès dans sa théorie des promodules stratifiés).
+
+
+
+28. (25 mai) Après que ces lignes ont été écrites, j’ai découvert que le premier embryon de la thèse de Verdier, datant de 1963 (quatre ans avant la soutenance) a fini par être publié en 1967. Voir à ce sujet les notes « Le compère » et « Thèse à crédit et assurance tous risques », nos 63”’et 81.
+
+
+
+29. Ces endroits sont : le séminaire bien connu de Hartshorne sur la dualité cohérente, contenant la seule partie publiée à ce jour de la théorie de dualité que j’avais développée dans la seconde moitié des années 1950 ; un ou deux exposés de Deligne dans SGA 4 ; un ou deux chapitres de la volumineuse thèse d’Illusie.
+
+
+
+30. (24 mai) Il y a lieu de nuancer ces « quinze années écoulées » — voir à ce sujet la note no 473, ainsi que la note plus circonstanciée « Thèse à crédit et assurance tous risques », no 81.
+
+
+
+31. (25 mai) Pour une réflexion sur les forces à l’œuvre dans l’apparition et la persistance de cette mode, voir la note « Le Fossoyeur — ou la Congrégation tout entière », no 97.
+
+
+
+32. Je n’ai pas eu dans ma vie de mathématicien ce plaisir d’inspirer, ou seulement de pouvoir encourager, chez un élève une thèse contenant un « théorème du bon Dieu » — tout au moins pas d’une profondeur et d’une portée comparables.
+
+
+
+33. Il semblerait que Verdier, comme directeur de thèse officiel pour la thèse de Zoghman Mebkhout (et qui à ce titre lui a même « accordé quelques discussions »), était le principal concerné (à part Mebkhout lui-même) dans l’escamotage qui s’est fait autour de la paternité de ce théorème fondamental, et du crédit qui revient à son « élève » dans le renouvellement qui s’amorce dans la théorie cohomologique des variétés algébriques par le point de vue des -Modules développé par Mebkhout. Je n’ai pas connaissance pourtant qu’il s’en soit ému plus que Deligne.
+
+
+
+34. (25 mai) En écrivant ces lignes, je me suis abstenu (avec quelques hésitations) d’inclure le nom de mon ami Luc Illusie dans cette liste de mes élèves qui auraient été « les mieux placés » pour prodiguer à Zoghman Mebkhout les encouragements qui auraient dû aller de soi. Je n’ai pas été attentif alors à un certain malaise en moi, qui aurait pu m’enseigner que j’étais en train de donner un petit coup de pouce en faveur de quelqu’un que j’ai en affection, pour faire mine de le décharger d’une responsabilité qui lui incombe tout comme à mes autres « élèves cohomologistes ».
+
+
+
+35. (25 mai) En fait, cet escamotage est l’œuvre en tout premier lieu de Deligne et de Verdier eux-mêmes. Voir à ce sujet la note « L’Iniquité — ou le sens d’un retour », no 75.
+
+
+
+36. (29 avril) Pour un examen plus attentif de cet article, instructif à plus d’un titre, voir la note « L’éviction » (no 63).
+
+
+
+37. (19 avril) Je constate sur une liste des publications de Deligne que je viens de recevoir et de lire avec intérêt, qu’il est question des « poids » dès 1974 dans une communication de Deligne au congrès de Vancouver — cela fait donc six ans de « secret autour des poids » au lieu de douze. Ce secret pourtant m’apparaît inséparable du secret similaire autour des motifs (pendant les douze ans 1970-1982). Le sens de ce secret vient de s’éclairer d’un jour nouveau au cours de la réflexion d’aujourd’hui, dans la longue double-note qui suit, nos 51-52).
+
+
+
+38. (25 mai) Il semblerait bien, d’après tous les éléments d’information apparus au cours de la réflexion, que ces « deux ou trois initiés » se sont bornés au seul et unique Deligne, qui semble avoir pris grand soin à se réserver le bénéfice exclusif de la possession de ce yoga qu’il tenait de moi, jusqu’en 1974 (voir note de b. de p. précédente), où le moment était mûr pour pouvoir le présenter comme idée de son cru, sans référence ni à moi, ni à Serre (voir les notes nos 78’1, 78’2).
+
+(18 avril 1985) Depuis que ces lignes ont été écrites, j’ai eu occasion de prendre connaissance également de la communication de Deligne « Théorie de Hodge I » au Congrès int. math. de Nice (1970) (Actes, t. I, p. 425-430). Contrairement à ce que j’avais lieu de croire par les informations parcellaires en ma possession, cet article expose dès 1970 une partie substantielle du yoga des poids. Sur l’origine de ces idées, il se borne à une mention sibylline et de pure forme d’un article de Serre (d’ailleurs étranger à la question), et de « la théorie conjecturale des motifs de Grothendieck ». (Comparer avec les notes nos 78’1, 78’2.) La question cruciale du comportement de la notion de poids par des opérations telles que Rif! et Rif∗ n’est pas même mentionnée, et ne le sera pas avant l’article cité « La Conjecture de Weil II » de 1980, où mon nom n’est pas prononcé en relation avec le théorème principal de ce travail, pas plus que ne l’est celui de Serre ou le mien dans la communication « Poids dans la cohomologie des variétés algébriques » mentionnée dans la note de b. de p. précédente (d’il y a un an jour pour jour).
+
+
+
+39. Voir aussi à ce sujet les sections 32 et 33, « L’éthique du mathématicien » et « La note — ou la nouvelle éthique », ainsi que les deux notes qui s’y rapportent, « Consensus déontologique — et contrôle de l’information » et « Le “snobisme des jeunes” — ou les défenseurs de la pureté », nos 25, 27.
+
+
+
+40. Voir à ce sujet la note « Cercueil 2 — ou les découpes tronçonnées », no 94.
+
+
+
+41. Voir aussi à ce sujet l’épisode « La note — ou la nouvelle éthique » (section 33). Cette fameuse « note » avait justement le tort d’expliciter des notions et des énoncés qui avaient été jusque-là laissés dans le vague, et qui pourtant ont été implicitement utilisés par moi pour établir des résultats qui portent mon nom et que tout le monde utilise sans vergogne depuis bientôt vingt-cinq ans (chose d’ailleurs que les deux illustres collègues savaient parfaitement).
+
+(8 juin) Voir, pour plus de détails, la note « Cercueil 4 — ou les topos sans fleurs ni couronnes » (no 96). Les « résultats qui portent mon nom » sont des résultats sur l’engendrement et la présentation finie de certains groupes fondamentaux profinis globaux et locaux, « démontrés » entre autres dans SGA 1 par des techniques de descente qui restent heuristiques faute d’une justification théorique, soigneuse, accomplie dans le travail (apparemment « impubliable ») d’Olivier Leroy, sur les théorèmes du type Van Kampen pour les groupes fondamentaux de topos.
+
+
+
+

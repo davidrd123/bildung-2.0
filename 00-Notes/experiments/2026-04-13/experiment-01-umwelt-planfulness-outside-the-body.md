@@ -1,46 +1,36 @@
-# Replay Packet 01: `Umwelt` — planfulness outside the body
+# Experiment 01: `Umwelt` — planfulness outside the body
 
 Purpose: test whether a small replay packet can produce a usable note about how pressure on one live open term changes, rather than just restating what the passage says.
 
-Status: living-layer pilot. Vocabulary test, not canonical synthesis. Not authority for glossary promotion or new schema language.
+Status: living-layer pilot. This is an experiment note, not a canonical synthesis.
+
+## Baseline To Beat
+
+The cheap result would be:
+
+> `Umwelt` is difficult because it means something like the organism's own environment.
+
+This run only counts if it produces:
+
+- a sharper pressure statement than the existing glossary note
+- one explicit continuity with the earlier anti-privacy finding
+- one explicit shift produced by the new passage
+- a more precise account of why the English candidates fail differently
+
+## Question
+
+What does the 02b `Planmäßigkeit`-outside-the-body passage do to the current pressure on `Umwelt`?
 
 ## Packet
 
-### Term under pressure
+See `packet-01-umwelt-planfulness-outside-the-body.md`.
 
-- `term:umwelt`
-- source: `sources/german/uexkuell-theoretische-biologie/glossary.yaml`
+## Method
 
-Current state before replay:
-
-- `preferred: null`
-- alternatives: `environment`, `surrounding world`, `own-world`
-- strongest current note: `Umwelt` is not a neutral external container and should not harden into a merely private bubble; bodies pass across many Umwelten under different functional cuts
-
-### Older finding in play
-
-From `sources/german/uexkuell-theoretische-biologie/encounters/05-welt-und-umwelt.md`:
-
-- `Umwelt` culminates not in isolation but in a dense weave of overlapping and partly contradictory worlds
-- the strongest check against privacy is that a body belongs to many worlds under different functional cuts
-
-This older finding is already downstream-useful because it has been absorbed into the glossary note for `Umwelt` and into the campaign-level first-pass assessment in `README.md`.
-
-### New passage for replay
-
-From `sources/german/uexkuell-theoretische-biologie/encounters/02b-funktionskreis-undrafted.md`, Passage 1 (`Planmäßigkeit` outside the body):
-
-> `Die biologische Behandlung der Funktionskreise verlangt, daß wir auch den außerhalb des Körpers in der Umwelt verlaufenden Teil des Kreises gleichfalls unter dem Gesichtspunkte der Planmäßigkeit betrachten.`
-
-and the compact formulation:
-
-> `Wo ein Fuß ist, da ist auch ein Weg. Wo ein Mund ist, da ist auch Nahrung. Wo eine Waffe ist, da ist auch ein Feind.`
-
-## Instruction
-
-Do not write what the passage says.
-
-Write what it does to the pressure on `Umwelt`.
+1. Hold the term state fixed from the existing glossary entry.
+2. Carry forward the strongest prior finding from encounter 05.
+3. Read only for what the new passage changes in the pressure profile.
+4. Force the result back onto the current English alternatives rather than drifting into theory language.
 
 ## Result
 
@@ -103,17 +93,15 @@ The cleanest short sentence the replay earns is:
 
 That sentence is not a glossary replacement. It is a pressure summary.
 
-## Provisional judgment
+## Provisional Judgment
 
-This replay packet worked.
+Experiment 01 succeeded.
 
 It did not produce a new settled rendering, but it did produce a more usable pressure statement than the prior note alone:
 
 - the term got hotter, not cooler
 - the shift was specific
 - the note is more useful for the next reading session than a generic summary would have been
-
-So the replay-packet form looks real enough to keep testing.
 
 ## What this does not license
 
@@ -123,12 +111,11 @@ So the replay-packet form looks real enough to keep testing.
 - not a general theory of replay packets
 - not a framework-level claim that all open terms should now be tracked this way
 
-## Next honest move
+## Next Honest Move
 
-Run one second replay packet on `Umwelt`, but force a different pressure type:
+Run a second replay packet on `Umwelt`, but force a different pressure type:
 
-- either the observer / anti-psychologism passage in `02b`
-- or the threshold / `Merkzeichen -> Merkmal` passage in encounter `03`
+- the observer / anti-psychologism passage in `02b`
 
 Question:
 

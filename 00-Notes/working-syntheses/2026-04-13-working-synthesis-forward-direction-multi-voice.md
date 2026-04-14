@@ -294,6 +294,32 @@ If the result is usable for the next session, this vocabulary is doing real work
 
 ---
 
+## Same-day continuation pressure (not an independent third reading)
+
+**Status:** Extracted later on 2026-04-13 from the continuation chat `00-Notes/Chats/2026-04-13/2026-04-13_21-56-55_Claude_Chat_Cassirer,_Umwelt_und_Schicksalzeit.md`. This is not a third reading of the same question and does not resolve the two sections above. It is a small methodological addendum because the continuation pushed on the *practice* more than on the forward-direction object itself.
+
+Useful additions worth keeping visible:
+
+- **Conversations may be topology-changing rather than finding-producing.** Wide-net sessions can rearrange neighborhood structure and make adjacencies visible before passage work tests whether those adjacencies are real.
+- **There may be a missing middle between strict replay packets and free atmospheric synthesis.** The continuation's best practical suggestion was a bounded, source-controlled collision note: fresh context, explicit materials, open output, no new framework installed.
+- **\"Trust chain\" may be the cleanest operator description so far.** Small inspectable steps, composed into broader reach, with each joint auditable. This fits the repo better than stronger claims about field theory or architecture.
+- **A packet is strongest when the passage does something the prior conversation did not already script.** Surprise is not decorative; it is evidence that the packet is still under source pressure rather than merely replaying atmosphere.
+- **Second rendering across media may be a real tactic when English smooths too much.** Not as a general program, but as a bounded move: when a passage goes dead in one register, try a second rendering in another (diagram, alternate wording, structural sketch) and see whether residue becomes visible again.
+
+What this continuation did **not** earn:
+
+- no stronger anti-KR claim than the earlier working syntheses already made
+- no new standing vocabulary beyond the addendum above
+- no promotion of semiosis / LLM self-ontology / historical surveys into project method
+- no new schema move
+
+Use:
+
+- consult when deciding whether a question needs a strict replay packet, a looser bounded collision, or should stay as conversation only
+- do not cite this section as authority for a new experiment format until at least one bounded source-collision note has been run and found useful
+
+---
+
 ## Meta-provenance
 
 This note is the first multi-voice working synthesis in the repo. The format is experimental. If it works, it becomes a reusable pattern for questions where multiple independent model readings are more useful than one authoritative reading. If it doesn't work — because the voices converge trivially, or because one voice overwrites the other through visibility leakage, or because cross-reading never happens — the format should be marked as such and not reused.

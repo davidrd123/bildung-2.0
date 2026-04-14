@@ -17,6 +17,7 @@ Last updated: 2026-04-13
 - A qmd retrieval experiment confirmed that BM25 over authority-separated collections works for repo-native queries. Retrieval roadmap and eval seed are filed.
 - The source-role taxonomy (primary / source-language commentary / continued primary work / thinker-on-thinker) is in living-layer use as a reading filter, with provisional source-role tags for the April 6 DeepResearch batch.
 - The split between `00-Notes/distillations/` (earned only) and `00-Notes/working-syntheses/` (dated working material, explicitly not earned) was established on 2026-04-13 after a same-day naming drift was caught at one-file scale. See `00-Notes/working-syntheses/2026-04-13-working-synthesis-forward-direction-multi-voice.md` meta-provenance.
+- Calibration note: the April 13 working-synthesis / packet burst was produced under early sprint conditions, roughly two weeks into the current project push rather than after a long settled run. Read its architecture talk accordingly and keep checking whether primary-source contact continues to match apparatus growth.
 
 ## Current
 
@@ -49,6 +50,7 @@ Last updated: 2026-04-13
 - The source-role commentary test (read Schöttker or Ferrari before next return) has now been partly run on the Zeitmauer side (Schöttker/Koslowski probe during the Urgrund und Person reread). What did it teach?
 - The glossary audit flagged five missed promotions (Relation, Unendliches, Kraft, Gesetz, Potenz) and one homeless pattern (reification) in erk. Zeitmauer's glossary was never audited at the same level. Should it be?
 - What does Tektologiya need to earn its next move? Is it still demand-led, or has the completion of two other volumes changed the demand?
+- The late continuation of the April 13 Cassirer / Umwelt / Schicksalszeit chat made one methodological pressure live: is there a useful middle band between strict replay packets and free synthesis chats? A bounded source-collision packet is now filed in `00-Notes/experiments/live-options.md` as a candidate pattern, not yet a standing format.
 
 ## Do Not Do Yet
 

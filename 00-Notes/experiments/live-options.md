@@ -105,6 +105,44 @@ This is not one experiment but a default pattern for higher-risk probes:
 
 This fuller pattern is now what made `03 -> 03a -> 03b -> 03c -> 07` trustworthy.
 
+### Bounded source-collision packets
+
+This is a candidate middle-band move between strict replay packets and free wide-net synthesis chats.
+
+Question:
+
+- can a cross-project pressure be tested by colliding two bounded source-side materials without forcing a new handle, frame, or imported vocabulary too early
+
+Likely materials:
+
+- one live thread or open term from each side
+- one fresh passage, dossier locus, or already-filed packet result from each side
+- only the local evidence chains needed to keep the collision source-controlled
+
+Success condition:
+
+- produces a narrower shared structure or an honest negative that the next source session can actually use
+- stays reversible back to the bounded materials that produced it
+
+Failure condition:
+
+- merely restates chat atmosphere in tidier prose
+- silently installs a cross-project handle or framework the material has only received, not asked for
+
+Quality check:
+
+- strongest when the collision produces a surprise the prior conversation did not already script
+
+Why it is promising:
+
+- it gives the repo a possible missing middle between packet discipline and free synthesis
+- it lets topology-changing conversation be tested before it hardens into a standing frame
+
+First trial run:
+
+- `00-Notes/experiments/2026-04-13/collision-01-time-crisis-orthogonal-time-threshold-and-blindness.md`
+- first result was useful, but not strong enough yet to treat this as a standing format rather than a live candidate
+
 ## Hold For Later
 
 These are productive prompts, not yet experiment-ready.
