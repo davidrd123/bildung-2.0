@@ -1,6 +1,6 @@
 # Right Now
 
-Last updated: 2026-04-14
+Last updated: 2026-04-15
 
 ## Proven
 
@@ -18,7 +18,7 @@ Last updated: 2026-04-14
 - The source-role taxonomy (primary / source-language commentary / continued primary work / thinker-on-thinker) is in living-layer use as a reading filter, with provisional source-role tags for the April 6 DeepResearch batch.
 - The split between `00-Notes/distillations/` (earned only) and `00-Notes/working-syntheses/` (dated working material, explicitly not earned) was established on 2026-04-13 after a same-day naming drift was caught at one-file scale. See `00-Notes/working-syntheses/2026-04-13-working-synthesis-forward-direction-multi-voice.md` meta-provenance.
 - Calibration note: the April 13 working-synthesis / packet burst was produced under early sprint conditions, roughly two weeks into the current project push rather than after a long settled run. Read its architecture talk accordingly and keep checking whether primary-source contact continues to match apparatus growth.
-- Three `Umwelt` replay packets and a first bounded time-collision sequence now exist as working-layer tests in `00-Notes/experiments/2026-04-13/`. The `Umwelt` runs produced three real outcomes: answering structure, reconstruction constraint, and then the shift from `Umwelt` as isolated replay target toward the larger `Merk* / Funktionskreis / Planmäßigkeit` family as the operative unit. The time-collision runs (`03A`, `03B`, `collision-01`) preserved a real relation-level contact between `thread:time-crisis` and Dick's `orthogonal-time` surface without licensing term-equivalence or shared cosmology.
+- Four Uexküll packets and a bounded time-collision sequence now exist as working-layer tests in `00-Notes/experiments/2026-04-13/`. The Uexküll line produced four bounded outcomes: answering structure, reconstruction constraint, the shift from isolated `Umwelt` replay toward the larger `Merk* / Funktionskreis / Planmäßigkeit` family, and then a family-level result strong enough to justify tracking that cluster as a local reading unit without promoting a new architecture object. The time-collision line (`03A`, `03B`, `collision-01`, `03C`) preserved a real relation-level contact between `thread:time-crisis` and Dick's `orthogonal-time` surface without licensing term-equivalence or shared cosmology, and the smaller rerun held only narrowly at the level of methodological restraint under deceptive appearances.
 
 ## Current
 
@@ -37,12 +37,12 @@ Last updated: 2026-04-14
 - Decide what "next" means for two completed volumes: whole-book integration? Cross-project synthesis? Open Erkenntnisproblem Vol. II? Or let both rest while the other subprojects catch up?
 - Keep crystallizing only what the work forces.
 
-**Seed priority (2026-04-14):** after the April 13 replay / collision runs and the April 14 Grothendieck extraction-distillation pass, the next honest order is now:
+**Seed priority (2026-04-15):** after the April 13 replay / collision runs, the April 14 Grothendieck extraction-distillation pass, and the April 15 Uexküll family-cluster packet, the next honest order is now:
 
-1. **Direct Uexküll — stop the `Umwelt`-only replay line here, or shift to the family.** Packet 03 worked, but by showing a limit: `Umwelt` still works as an entry node, yet no longer looks like the right isolated pressure target. The next honest Uexküll move is therefore either to stop with that judgment or to track the `Merk* / Funktionskreis / Planmäßigkeit` cluster explicitly rather than running `Umwelt` in isolation again.
-2. **One smaller Jünger / Dick rerun.** `03A`, `03B`, and `collision-01` established a relation-level contact and then narrowed the real next question: does the `typology / receptivity` adjacency survive at smaller scale, or did it depend on meso-scale collision atmosphere? No new handle or wider synthesis before that test.
-3. **Grothendieck — one bounded follow-up, not a source opening.** The direct survivors are now clearer: forest / trees, French housing pressure, and patron failure / non-transmission. The next honest move is one bounded follow-up on one of those survivors (likely patron failure), not a full `Récoltes` campaign. Trigger #2 is now a live question, not a settled firing.
-4. **Methodology — bounded survey encounters.** The April 14 Grothendieck session made a procedural pressure explicit: are productive pre-promotion survey encounters legitimate, and if so how should they be marked so they do not quietly become source openings by reuse alone?
+1. **Grothendieck — one bounded follow-up, not a source opening.** The direct survivors are now clearer: forest / trees, French housing pressure, and patron failure / non-transmission. The next honest move is one bounded follow-up on one of those survivors (likely patron failure), not a full `Récoltes` campaign. Trigger #2 is now a live question, not a settled firing.
+2. **Methodology — bounded survey encounters.** The April 14 Grothendieck session made a procedural pressure explicit: are productive pre-promotion survey encounters legitimate, and if so how should they be marked so they do not quietly become source openings by reuse alone?
+3. **Direct Uexküll — hold the family result where it is.** The next honest Uexküll move is not another isolated `Umwelt` replay. The `Merk* / Funktionskreis / Planmäßigkeit` cluster is now tracked as a local reading unit at bounded scale; leave it there unless a later passage or source generates genuinely different pressure.
+4. **Direct Jünger / Dick — hold the small rerun where it is.** `03C` confirmed that the typology / receptivity contact survives only narrowly, at the level of methodological restraint under deceptive appearances. That is enough to close the smaller rerun, not enough to widen the synthesis.
 5. **Bogdanov** (`00-Notes/distillations/2026-04-08-earned-distillation-from-opus-on-tektologiya-instrument-pressure.md`) — still demand-led reuse only. Use only when a local source has generated an organizational difficulty that the vocabulary clarifies rather than redescribes.
 6. **Peirce** (`sources/modern/incoming/2026-04-10-peirce-texts-under-pressure.md`) — still explicitly held. None of the seed's three triggers have fired.
 

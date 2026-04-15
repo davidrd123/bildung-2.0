@@ -232,3 +232,62 @@ This probe taught rather than merely confirmed. It did not overturn the existing
 - keep the commentary result local to this campaign for now
 - tighten the glossary notes for `Umwelt` and `Planmäßigkeit`
 - do not treat this one critical source as settling the political reading of Uexküll by itself
+
+## 2026-04-15 — Family cluster check after the `Umwelt` replay line
+
+**Question**
+
+After three bounded `Umwelt` replay packets, is the source now forcing a
+larger operative unit than `Umwelt` in isolation?
+
+**Bounded result**
+
+Yes, but only at local reading scale.
+
+The smallest family claim now earned is that the source builds one serial
+organism-world articulation across:
+
+- `Merkzeichen`
+- `Merkmal`
+- `Merkwelt`
+- `Umwelt`
+- `Funktionskreis`
+- `Planmäßigkeit`
+
+The family is real not because the terms share a stem, but because the
+passages explicitly stage one transfer and enclosure:
+
+- inner discriminative sign
+- worldly mark
+- summed perceptual side
+- paired organism-world whole
+- enclosing circuit
+- lawful or planful reading of that whole
+
+**What this clarified**
+
+- `Umwelt` still works as an entry node, but it no longer carries the decisive
+  pressure in isolation.
+- `Merkwelt` and `Wirkwelt` keep `Umwelt` from collapsing into a general
+  surroundings-term.
+- `Funktionskreis` keeps the family from collapsing into a perception-only
+  account.
+- `Planmäßigkeit` belongs here not as one more noun in the chain, but as the
+  mode of reading required once the whole coupled structure is in view.
+- The `Gegenstand / Objekt` pressure remains part of the same local unit,
+  because the world-side is being cut functionally, not described neutrally.
+
+**Decision for now**
+
+- track this cluster explicitly as a local reading unit when these passages are
+  in play
+- do not create a new glossary object, handle, or architecture claim from that
+- stop the isolated `Umwelt` replay line here unless a later passage generates
+  a genuinely different pressure
+
+**Implication**
+
+The bounded campaign has now produced one more clear limit on premature
+translation fluency: the English risk is not only term-level smoothing, but the
+breaking apart of a serial construction the source is building across the
+family.

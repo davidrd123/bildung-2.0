@@ -1,0 +1,193 @@
+sections:
+  - id: '000'
+    title: "Front matter and Inhaltsübersicht"
+    kind: front-matter
+    path: source/raw/000-front-matter-and-inhaltsuebersicht.txt
+    start_line: 1
+    end_line: 176
+    length: 176
+  - id: '001'
+    title: "Vorwort"
+    kind: preface
+    path: source/raw/001-vorwort.txt
+    start_line: 177
+    end_line: 264
+    length: 88
+  - id: '010'
+    title: "Erster Teil. Dingbegriffe und Relationsbegriffe"
+    kind: part
+    path: source/raw/010-erster-teil-dingbegriffe-und-relationsbegriffe.txt
+    start_line: 265
+    end_line: 267
+    length: 3
+  - id: '011'
+    title: "Zur Theorie der Begriffsbildung"
+    kind: chapter
+    parent: '010'
+    path: source/raw/011-zur-theorie-der-begriffsbildung.txt
+    start_line: 268
+    end_line: 1213
+    length: 946
+  - id: '012'
+    title: "Die Zahlbegriffe"
+    kind: chapter
+    parent: '010'
+    path: source/raw/012-die-zahlbegriffe.txt
+    start_line: 1214
+    end_line: 2902
+    length: 1689
+  - id: '013'
+    title: "Der Raumbegriff und die Geometrie"
+    kind: chapter
+    parent: '010'
+    path: source/raw/013-der-raumbegriff-und-die-geometrie.txt
+    start_line: 2903
+    end_line: 4760
+    length: 1858
+  - id: '014'
+    title: "Die naturwissenschaftliche Begriffsbildung"
+    kind: chapter
+    parent: '010'
+    path: source/raw/014-die-naturwissenschaftliche-begriffsbildung.txt
+    start_line: 4761
+    end_line: 9798
+    length: 5038
+  - id: '020'
+    title: "Zweiter Teil. Das System der Relationsbegriffe und das Problem der Wirklichkeit"
+    kind: part
+    path: source/raw/020-zweiter-teil-das-system-der-relationsbegriffe-und-das-problem-der-wirklichkeit.txt
+    start_line: 9799
+    end_line: 9801
+    length: 3
+  - id: '021'
+    title: "Zum Problem der Induktion"
+    kind: chapter
+    parent: '020'
+    path: source/raw/021-zum-problem-der-induktion.txt
+    start_line: 9802
+    end_line: 11177
+    length: 1376
+  - id: '022'
+    title: "Der Begriff der Wirklichkeit"
+    kind: chapter
+    parent: '020'
+    path: source/raw/022-der-begriff-der-wirklichkeit.txt
+    start_line: 11178
+    end_line: 12742
+    length: 1565
+  - id: '023'
+    title: "Subjektivität und Objektivität der Relationsbegriffe"
+    kind: chapter
+    parent: '020'
+    path: source/raw/023-subjektivitaet-und-objektivitaet-der-relationsbegriffe.txt
+    start_line: 12743
+    end_line: 13453
+    length: 711
+  - id: '024'
+    title: "Zur Psychologie der Relationen"
+    kind: chapter
+    parent: '020'
+    path: source/raw/024-zur-psychologie-der-relationen.txt
+    start_line: 13454
+    end_line: 14291
+    length: 838
+  - id: '030'
+    title: "Editorischer Bericht"
+    kind: back-matter
+    path: source/raw/030-editorischer-bericht.txt
+    start_line: 14292
+    end_line: 14453
+    length: 162
+  - id: '031'
+    title: "Abkürzungen"
+    kind: back-matter
+    path: source/raw/031-abkuerzungen.txt
+    start_line: 14454
+    end_line: 14510
+    length: 57
+  - id: '032'
+    title: "Schriftenregister"
+    kind: back-matter
+    path: source/raw/032-schriftenregister.txt
+    start_line: 14511
+    end_line: 14984
+    length: 474
+  - id: '033'
+    title: "Personenregister"
+    kind: back-matter
+    path: source/raw/033-personenregister.txt
+    start_line: 14985
+    end_line: 15193
+    length: 209
+  - id: '0141'
+    title: "Kapitel IV — I."
+    kind: subsection
+    parent: '014'
+    path: source/raw/0141-iv-i.txt
+    start_line: 4761
+    end_line: 4898
+    length: 138
+  - id: '0142'
+    title: "Kapitel IV — II."
+    kind: subsection
+    parent: '014'
+    path: source/raw/0142-iv-ii.txt
+    start_line: 4899
+    end_line: 5531
+    length: 633
+  - id: '0143'
+    title: "Kapitel IV — III."
+    kind: subsection
+    parent: '014'
+    path: source/raw/0143-iv-iii.txt
+    start_line: 5532
+    end_line: 5874
+    length: 343
+  - id: '0144'
+    title: "Kapitel IV — IV."
+    kind: subsection
+    parent: '014'
+    path: source/raw/0144-iv-iv.txt
+    start_line: 5875
+    end_line: 6364
+    length: 490
+  - id: '0145'
+    title: "Kapitel IV — V."
+    kind: subsection
+    parent: '014'
+    path: source/raw/0145-iv-v.txt
+    start_line: 6365
+    end_line: 7153
+    length: 789
+  - id: '0146'
+    title: "Kapitel IV — VI."
+    kind: subsection
+    parent: '014'
+    path: source/raw/0146-iv-vi.txt
+    start_line: 7154
+    end_line: 7905
+    length: 752
+  - id: '0147'
+    title: "Kapitel IV — VII."
+    kind: subsection
+    parent: '014'
+    path: source/raw/0147-iv-vii.txt
+    start_line: 7906
+    end_line: 8571
+    length: 666
+  - id: '0148'
+    title: "Kapitel IV — VIII."
+    kind: subsection
+    parent: '014'
+    path: source/raw/0148-iv-viii.txt
+    start_line: 8572
+    end_line: 9244
+    length: 673
+  - id: '0149'
+    title: "Kapitel IV — IX."
+    kind: subsection
+    parent: '014'
+    path: source/raw/0149-iv-ix.txt
+    start_line: 9245
+    end_line: 9798
+    length: 554

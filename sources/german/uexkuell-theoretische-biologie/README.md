@@ -91,6 +91,7 @@ What it earned:
 - `Umwelt` remains decisively open and should stay German in running drafts. The late pages confirm that it is neither neutral environment nor sealed private bubble, but part of a weave of overlapping worlds.
 - `Funktionskreis` survives provisionally as `functional circle`, but the late culmination enlarges its force enough that it is still not ready for stable status.
 - The `Merk*` family, `Fügung`, and `Planmäßigkeit` all proved structurally real. None of them was simplified by the later tranches; each became harder and more connected.
+- The April 13-15 replay sequence clarified one more bounded point: `Umwelt` still works as an entry node, but the source now earns explicit local tracking of the `Merk* / Funktionskreis / Planmäßigkeit` cluster when these passages are in play.
 - The bounded campaign form held. The glossary is still lean, the journal is still source-bound, and the work has not yet demanded a sequential whole-book lane.
 
 Promotion decision:
@@ -102,6 +103,7 @@ What has not yet been earned:
 - no full `texts/` promotion
 - no larger subproject machinery than this campaign already has
 - no standing cross-project dossier beyond the current source-bound notes
+- no new glossary object or handle for the family cluster; the result is a reading discipline, not a new architecture unit
 
 Best next routes from here:
 
