@@ -70,12 +70,41 @@ Use this note when:
 
 Do not use this note as authority for importing frameworks or building new infrastructure.
 
-## Next test
+## Activation
 
-The next useful tests are small:
+Wake — mechanical
+
+- `sources/german/uexkuell-theoretische-biologie/` encounter or glossary work
+- any note touching `Planmäßigkeit`, `Funktionskreis`, `Merk*`, or open Uexküll glossary entries
+- `00-Notes/Chats/2026-04-06/extractions/2026-04-06_actual-questions-from-planmaessigkeit-uexkuell-chat.md`
+- `00-Notes/distillations/2026-04-07-earned-distillation-from-source-role-taxonomy-chat-and-deepresearch.md`
+- any session that brings source-language secondary commentary into Uexküll or `Zeitmauer` work
+
+Wake — interpretive
+
+- when translation resistance is being treated as a live source of evidence rather than as a bug to be cleaned up
+- when source-language commentary is being considered as an evidence type distinct from translated commentary
+- when the question is whether to keep the source-language term live beside provisional English in synthesis prose
+
+Do not wake for
+
+- generic KR / category-theory / interpretability / universal-language speculation
+- broad “what happened to the humanities” atmosphere
+- architecture-building from one translation difficulty
+- multilingual prompting talk that is not tied to one bounded source return
+
+Wake context
+
+- `primary-and-chat`
+
+Superseded or corrected by
+
+- none yet
+
+Next honest test
 
 - on the next Uexküll return, bring one German-language secondary commentary piece and see whether it changes what the passage makes visible
-- try noting `what the resistance revealed` on one or two glossary entries that are currently `status: open` with only alternatives listed
-- try one cross-linguistic synthesis prompt where German and Russian terms sit together without English mediation and see whether the output differs
+- try noting `what the resistance revealed` on one or two glossary entries that are currently `status: open`
+- try one bounded cross-linguistic synthesis prompt where German and Russian terms sit together without English mediation and see whether the output differs
 
 That is enough for now. The note's function is to recover the translation-resistance method that the broader distillation set dropped.

@@ -91,6 +91,44 @@ Use this note when:
 
 Do not use this note as authorization for generalized Bogdanov-first synthesis.
 
+## Activation
+
+Wake — mechanical
+
+- `texts/tektologiya-vol1/source/glossary.yaml`
+- `texts/tektologiya-vol1/journal.md`
+- `texts/tektologiya-vol1/selective-second-pass.md`
+- `texts/tektologiya-vol1/parts/13-fused-and-beaded-structure.md`
+- any bounded comparison explicitly reaching for `conjugation`, `ingression`, `deingression`, `selection`, `mobile equilibrium`, `law of leasts`, or `analytic sum`
+- any proposed Rosen encounter or mechanism-diagram pass tied to `tektologiya-vol1`
+
+Wake — interpretive
+
+- when a local source has already generated an organizational difficulty and Bogdanov vocabulary is being considered as a clarifying instrument
+- when a bounded modern-source comparison is being considered for the tektological mechanism-set
+- when the question is whether to keep extending `Tektologiya` linearly or switch to one bounded external test
+
+Do not wake for
+
+- “this sounds tektological” as a free analogy
+- broad systems-history or cybernetics genealogy without a local source problem
+- one-way Bogdanov import into Jünger, Gómez Dávila, Cassirer, or another source that has not yet asked for it
+- claims that Bogdanov already licenses a standing cross-project frame
+
+Wake context
+
+- `primary-and-chat`
+
+Superseded or corrected by
+
+- none yet
+
+Next honest test
+
+- one bounded Rosen comparison
+- or one internal `fused / beaded` stress-test
+- or a compact mechanism diagram if it becomes operationally useful rather than merely attractive
+
 ## Status
 
 Living-layer filter note. Not a cross-project dossier and not a new ontology.

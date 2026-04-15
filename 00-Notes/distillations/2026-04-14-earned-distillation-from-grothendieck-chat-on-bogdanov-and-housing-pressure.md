@@ -114,6 +114,44 @@ Use this note when:
 
 Do not use this note as authorization for a Grothendieck / Cusanus / Cassirer worldview layer, for Simone Weil import, or for declaring Grothendieck already promoted.
 
+## Activation
+
+Wake — mechanical
+
+- `sources/modern/incoming/2026-04-10-grothendieck-recoltes-et-semailles-first-contact.md`
+- `00-Notes/experiments/2026-04-09/experiment-06-translation-residue-clustering.md`
+- `00-Notes/right-now.md` trigger #2 on Grothendieck / French housing pressure
+- `00-Notes/distillations/2026-04-08-earned-distillation-from-opus-on-tektologiya-instrument-pressure.md`
+- any bounded note or experiment explicitly reaching for Bogdanov's `deingression`, `law of leasts`, or Family B housing pressure
+
+Wake — interpretive
+
+- when Family B housing / footing / enclosure pressure is being rerun, widened, or tested against non-German material
+- when a bounded Grothendieck follow-up is being considered from existing first-contact pressure rather than general admiration
+- when Bogdanov is being invoked to clarify a local transmission / reception failure rather than to redescribe Grothendieck in systems language
+
+Do not wake for
+
+- generic Grothendieck admiration or source-opening mood
+- broad Cusanus / Cassirer / Grothendieck triangle-building
+- topology / sheaf / nLab atmosphere without bounded source pressure
+- Simone Weil, yin / yang, or other genealogy-completion moves
+- any claim that the April 14 chat already counted as a clean bounded collision packet
+
+Wake context
+
+- `chat-cautious`
+
+Superseded or corrected by
+
+- no separate superseding distillation yet
+- the later Cusanus verification has already been folded into this note's `Later verification affecting this note` section and should be read as the current correction layer
+
+Next honest test
+
+- one bounded follow-up on either patron failure or the French housing register
+- if Bogdanov is reused again here, the comparison should stay reversible and local rather than becoming a worldview layer
+
 ## Status
 
 Living-layer filter note. Earned only in the narrow sense captured above. Not a source-opening decision and not a new cross-project dossier.
