@@ -19,6 +19,13 @@ The scaffold was generated from a local page-level OCR dump:
   - the book text itself ends on page 136
   - pages 137–140 are blank / library-artifact residue and are not part of the scaffolded text
 
+Local support witness (gitignored):
+
+- `source/local/experiment-and-metaphysics-translation-cyril-edwards.pdf`
+  - local English translation for continuity of reading and secondary seam-checking
+  - useful for catching omissions or OCR breakage
+  - not authoritative for German wording, punctuation, or lexical pressure
+
 No page-image PDF or EPUB witness is currently vendored into the repo. The split therefore rests on OCR only.
 
 ## Why Here
@@ -31,6 +38,7 @@ No page-image PDF or EPUB witness is currently vendored into the repo. The split
 
 ```text
 source/
+  local/                 # gitignored support witness
   raw/                   # 42 split OCR-derived files
   sections.yaml          # sequence, title, kind, parent, page-line span
 ```
@@ -60,6 +68,7 @@ Not yet created:
   - obvious blank interstitial pages and late library-slip pages were excluded
 - The text is good enough for orientation, browsing, and exploratory web chat.
 - It is **not** yet good enough for fine lexical work, quotation discipline, or glossary building without a better witness.
+- The local English translation can help detect dropped lines or bad seams, but it cannot substitute for a checked German witness when lexical precision matters.
 - The two figures named in the book survive only as textual references (`Fig. 1.` / `Fig. 2.`); the image content itself is not extracted here.
 
 ## How To Use
