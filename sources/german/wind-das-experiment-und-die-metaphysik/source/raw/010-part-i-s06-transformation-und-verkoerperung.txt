@@ -1,0 +1,254 @@
+§ 6. Transformation und Verkörperung.
+Man kann sich den beschriebenen Sachverhalt im einzelnen klarmachen,
+wenn man an Carnaps Analyse des physikalischen Raumes anknüpft, die,
+gerade weil sie mit äußerstem Scharfsinn und mathematischer Präzision
+durchgeführt ist, die Stelle deutlich erkennen läßt, an der man über die
+von ihm selbst befürwortete rein logische Interpretation hinausgehen
+muß ¹).
+Carnap unterscheidet in jeder physikalischen Raummessung die folgen-
+den drei Elemente:
+1. den topologischen,,Tatbestand“ (T), in den die jeweils beobachteten
+Koinzidenzen eingehen,
+2. die Maßsetzung (M), durch die ein Meßkörper definiert wird, mit Be-
+zug auf welchen die topologischen Sätze eine metrische Bedeutung er-
+halten sollen,
+3. das metrische Raumgefüge (R), das die topologischen Verhältnisse
+(T) durch Beziehung auf M im Sinne eines geometrischen Systems dar-
+stellt.
+Zwischen den drei Elementen R, M und T besteht ein Abhängigkeits-
+verhältnis, derart, daß, wenn zwei von ihnen gegeben sind, das dritte da-
+durch eindeutig bestimmt ist. Man kann daher den Meßkörper frei wählen,
+wenn man nur gewillt ist, dasjenige Raumgefüge als geometrisch gültig
+anzuerkennen, welches sich aus der Beziehung des topologischen Tat-
+bestandes auf diesen Meßkörper ergibt. Also:
+R = f₁ (M, T).
+Man kann aber auch die Geometrie frei wählen, wenn man sich nur dazu
+bestimmen läßt, den Meßkörper so anzusetzen, daß der topologische Tat-
+bestand sich im Sinne jenes Raumgefüges metrisch gliedert. Also:
+M = ƒ½ (R, T).
+Auch der dritte Fall: daß die Geometrie in Verbindung mit der Maßset-
+zung den Tatbestand bestimmt, d. h.
+T = f (R, M),
+wird von Carnap ausdrücklich als gültig hervorgehoben, denn,,hierauf be-
+ruht ja die wissenschaftliche Darstellung des räumlichen Tatbestandes: es
+1) Rudolf Carnap, Der Raum, Berlin 1922.
+wird angegeben, daß bei einem bestimmten M die physischen Raumgebilde
+in einem bestimmten Maßgefüge R geordnet sind, und durch diese Angabe
+ist der Tatbestand T der Erfahrung inbezug auf räumliche Verhältnisse
+vollständig beschrieben. Doch unterscheidet sich dieser dritte Fall sehr
+wesentlich von den andern durch den Umstand, daß zwar entweder R oder
+M frei gewählt werden darf, nicht aber T: der Tatbestand ist eindeutig
+gegeben" 1).
+Nach dem Vorbild Carnaps wollen auch wir den dritten Fall zunächst außer
+acht lassen und uns den beiden ersten zuwenden. Die Formel R = ƒ₁ (M, T)
+stimmt ganz mit unseren früheren Ausführungen überein; denn wir hatten
+behauptet, daß die Form des Raumgefüges nicht frei wählbar sei, son-
+dern durch den experimentellen Tatbestand T widerlegt werden könne,
+und wir waren dabei von einer bestimmten Maßsetzung M ausgegangen 2).
+Die Erklärung aber, daß M = f₂ (R, T) sei, scheint unseren Argumenten
+direkt zu widersprechen; denn sie besagt, daß man die Art der Maßsetzung
+ebensogut durch die Wahl des Raumgefüges bestimmen könne, wie die
+Art des Raumgefüges durch die Wahl der Maßsetzung; daß also die Wahl
+eines Raumgefüges durch die Tatsachen der Erfahrung niemals widerlegt
+werden könne, da es stets eine Maßsetzung M gebe, die den Tatbestand T
+in die Form des gewählten Gefüges R bringt.
+An der mathematischen Geltung dieses zweiten, für uns ungünstigen
+Satzes kann ebensowenig gezweifelt werden, wie an der des ersten. Denn
+mathematisch läßt sich jedes metrische Raumgefüge durch Veränderung
+der Maßsetzung in ein anderes transformieren, ohne daß die topologischen
+Beziehungen dadurch angetastet würden. Ich will dies wiederum nach
+Carnaps Vorbild - am Beispiel der Erdmessung erläutern:
+-
+Mit einem Eisenstabe gemessen, der dauernd auf einer bestimmten Tem-
+peratur gehalten wird, stellt sich die Erdoberfläche, von der Abplattung
+abgesehen, als die Oberfläche einer Kugel von bestimmtem endlichem Um-
+fang im Zusammenhange eines euklidischen Raumgefüges dar. „Es wird nun
+verlangt, die Erdoberfläche E solle als Ebene gelten. Da E, auf Grund der
+üblichen Maßsetzung M₁ vermessen, sich als Kugel herausstellt, so wird sich
+hier eine andere Maßsetzung als erforderlich erweisen. Aber die Wahlfrei-
+heit inbezug auf das Raumgefüge ist mit der Festsetzung jener Bestim-
+mung noch nicht zu Ende. Es steht uns nämlich noch frei zu bestimmen,
+welches Krümmungsmaß die Ebene E an den verschiedenen Punkten haben
+und wie der übrige Raum beschaffen sein soll. Wir können also z. B. be-
+stimmen, E solle überall das Krümmungsmaß Null haben. Dann würde die
+1) A. a. O. S. 54.
+2) Vgl. oben den Gebrauch der „Schnur“ für die Ausmessung des Kreises, S. 5/6.
+Erdoberfläche als unendlich groß aufgefaßt werden können.“ Es läßt sich
+nun zeigen, daß,,diese seltsam erscheinende Auffassung tatsächlich mit
+keiner physikalischen Erfahrung, also auch nicht mit den Ergebnissen der
+geodätischen Messungen optischen oder mechanischen Verfahrens in Wider-
+spruch steht, wofern nur diese anders gedeutet werden als üblich, nämlich
+nicht auf Grund der Maßsetzung M₁, sondern einer anderen M. M, müßte
+dabei etwa folgende Form haben: ‚Diese beiden Punkte A, B auf diesem
+Eisenkörper stellen einen Abstand dar, der nicht als dauernd gleich gelten,
+sondern (außer von Temperatur, Magnetisierung usw. in dem und dem
+Maße) vor allem von dem Ort auf E, an dem sich der Körper befindet, in
+der und der Weise abhängig sein soll. Dabei müßte diese Abhängigkeit so
+angegeben werden, daß dabei irgendein Punkt von E, z. B. der Ort, an dem
+sich gerade jetzt der Eisenkörper befindet, oder der Nordpol, in bestimmter
+Weise bevorzugt erscheint ¹).“
+-
+66
+Um sich den Sinn dieser Aussagen rein anschaulich näherzubringen,
+braucht man sich nur zu vergegenwärtigen, wie sich der neue Meßkörper
+während des Messungsvorgangs zu dem alten, dem Eisenkörper, verhält.
+Beide, der Eisenstab und der neue Körper, werden von Wärmeverände-
+rungen und magnetischen Einflüssen in gleicher Weise freigehalten. An dem
+bevorzugten Ort — sagen wir am Nordpol - werden sie aufeinandergelegt
+und erweisen sich dabei als gleich lang. Je weiter sie sich aber im Fortgang
+der Messung vom Nordpol entfernen, desto mehr schrumpft der neue Kör-
+per mit Bezug auf den Eisenstab zusammen. Anders ausgedrückt: Der
+Eisenstab wird, von diesem neuen Körper aus betrachtet, auf seiner Reise
+immer größer und größer. Und wenn es ihm schließlich, wie wir alle wissen,
+gelingt, den Erdumfang in einer endlichen Anzahl von Schritten zu durch-
+messen, so ist das, von dem anderen Körper aus gesehen, kein Wunder;
+denn für diesen ist er ja selbst nach einer endlichen Anzahl von Schritten
+zu einer unendlichen Größe angewachsen. Daß sich aber einem Körper, der
+dieses,,Anwachsen“ nicht mitmacht, die Erde als unendlich darstellt, sollte
+auch für uns kein Wunder bedeuten; denn wir wissen ja, daß dieser Körper
+im Verhältnis zum Eisenstab und damit auch im Verhältnis zur Erde immer
+kleiner und kleiner geworden ist.
+Und doch fordert der Hinweis auf einen solchen Körper eine doppelte
+Frage heraus:
+1. Kann man einen Körper dieser Art überhaupt auffinden?
+2. Warum sollte man ihn, selbst wenn man ihn auffinden könnte, als Meß-
+körper verwenden wollen?
+1) A. a. O. S. 47 und 48.
+Die erste Frage braucht einen Mathematiker nicht zu bekümmern. Sie
+wird aber auch von Carnap, der sich doch auch mit dem physikalischen
+Raume befaßt, seltsamerweise nirgends gestellt: wahrscheinlich, weil sie zu
+primitiv klingt. Und doch geht erst mit ihr das Gedankenexperiment in ein
+wirkliches Experiment über. (Und ist es nicht die eigentliche Bestimmung
+der Gedankenexperimente in der Physik, auf wirkliche Experimente hin-
+zuführen ?) Wenn ein Mathematiker den Satz ausspricht: „Wird angesichts
+eines topologischen Tatbestandes Tein Raumgefüge R willkürlich gewählt,
+dann gibt es eine Maßsetzung M, durch die T in die Form von R gebracht
+werden kann“, so bringt das Wort „,gibt“ nichts anderes als die Eigenschaft
+der logischen Definiertheit zum Ausdruck: Die Eigenschaften, die ein Kör-
+per besitzen muß, um als M fungieren zu können, sind durch die Werte von
+Tund R eindeutig bestimmt. Wenn aber ein Physiker denselben Satz aus-
+spricht, so bedeutet das Wort,,gibt" nicht nur, daß die Eigenschaften, die
+der betreffende Körper haben muß, in ihrer mathematischen Struktur be-
+kannt sind, sondern daß ein Körper, der diese Eigenschaften besitzt, sich
+empirisch auffinden läßt. Mit dieser Aussage wird der mathematische
+Satz in eine physikalische Hypothese verwandelt, eine Hypothese, die sich,
+je nach dem Ausgang des verifizierenden Experiments, als wahr oder falsch
+erweisen kann. Ob es einen Körper wie den oben beschriebenen in der phy-
+sikalischen Welt wirklich gibt — einen Körper, dessen Verhalten mit Bezug
+auf einen Eisenstab in mathematisch eindeutiger Weise bestimmt worden
+ist, ist eine durchaus sinnvolle experimentelle Frage. Daraus folgt aber,
+daß die von Carnap aufgestellten Formeln: R = f₁ (M, T) und M = ƒ½ (R, T)
+für den physikalischen Raum nicht gleichwertig sind. Die erste bringt
+einen notwendigen Sachverhalt zum Ausdruck, die zweite einen proble-
+matischen. Wenn ich irgendeinen physikalischen Meßkörper M nehme
+und den topologischen Tatbestand T durch seine Anwendung metrisch
+gliedere, so ist es wahr, daß die Form des Raumgefüges R daraus mit Not-
+wendigkeit folgt. Wenn ich aber die Form des Raumgefüges R frei wähle und
+sie auf einen topologischen Tatbestand T zu beziehen suche, so ist es nicht
+wahr, daß daraus die Existenz eines physikalischen Meßkörpers M folgt,
+der die Durchführung dieser Aufgabe ermöglicht.
+-
+Man hat versucht, dieser Folgerung in doppelter Weise zu entgehen.
+Poincaré hat einmal scherzend erklärt, „daß der erste beste Mechaniker
+solche Körper konstruieren kann, wenn er sich die Mühe geben und die
+Kosten daran wenden wollte" 1). Die Frage, ob es den postulierten Körper
+M gibt oder nicht, erledigt sich nach dieser Auffassung am einfachsten
+1) Wissenschaft und Hypothese, 2. Teil, 5. Kap., § 7.
+2*
+dadurch, daß man ihn herstellt. Aber man mache sich die Art und den Um-
+fang des Eingriffs, den solch ein Mechaniker vollziehen müßte, klar! Da das
+Verhalten des Körpers nicht nur mit Bezug auf den Eisenstab und die Erde,
+sondern mit Bezug auf alle überhaupt vorhandenen physikalischen Körper
+meinem Willen unterstellt wäre (denn es soll mir ja freistehen, durch die
+Wahl der Maßsetzung das physikalische Raumgefüge als Ganzes zu be-
+stimmen), so müßte dieser Mechaniker, um den Körper herstellen zu können,
+zu einem Eingriff von kosmischem Ausmaße befähigt sein. Könnte er das
+Verhalten des Körpers nicht nur in beschränktem Umfange inbezug auf
+den Eisenstab, sondern in beliebigem Umfange inbezug auf die Erde und
+die übrigen Sterne kontrollieren, so hätte er Macht über die Sterne selbst.
+Und daß er unter dieser Voraussetzung dem Weltall jegliche Geometrie
+aufzwingen könnte, soll allerdings nicht bestritten werden. Denn dies liegt
+ganz in der Konsequenz der Auffassung vom Verhältnis zwischen Geo-
+metrie und Wirklichkeit, die ich hier zu verteidigen suche.
+Aber es gibt einen anderen Ausweg, durch den man versuchen könnte,
+unserer Folgerung zu entgehen. Man bezieht die Maßsetzung nicht auf einen
+physikalischen Körper, sondern auf den „Raum“ und behauptet, daß in
+der Physik zwischen Körper und Raum ein verifizierbarer Zusammenhang
+überhaupt nicht bestehe. Am genialsten ist diese Alternative wiederum
+von Poincaré durchgeführt worden:
+„Man stelle sich einen materiellen Kreis her, messe dessen Halbmesser und Umfang
+und versuche zu sehen, ob das Verhältnis dieser beiden Längen gleich 2 л ist; was hat man
+damit getan? Man wird ein Experiment gemacht haben über die Eigenschaften der Ma-
+terie, aus welcher man diesen Kreis gefertigt hat, und derjenigen Materie, aus welcher man
+das zum Messen benutzte Metermaß gefertigt hat, nicht aber ein Experiment über die
+Eigenschaften des Raumes.“
+(Wissenschaft und Hypothese V, 2.)
+,,Sie werden behaupten, daß die Experimente sich doch mindestens auf die geometri-
+schen Eigenschaften der Körper beziehen, wenn sie überhaupt mit Körpern zu tun haben.
+Aber was verstehen Sie denn unter geometrischen Eigenschaften der Körper? Ich nehme
+an, es handelt sich um Beziehungen der Körper zum Raume; diese Eigenschaften sind also
+für Experimente unzugänglich, welche nur mit gegenseitigen Beziehungen der Körper zu
+tun haben. Das allein würde genügen um zu beweisen, daß von diesen Eigenschaften keine
+Rede sein kann.“
+(Wissenschaft und Hypothese V, 7.)
+99
+,Wenn ich sage, daß ein bestimmter Teil eines bestimmten Körpers in Berührung mit
+einem bestimmten Teile eines bestimmten anderen Körpers ist, so spreche ich eine Behaup-
+tung aus, welche die gegenseitigen Beziehungen dieser beiden Körper zueinander und nicht
+ihre Beziehungen zum Raume betrifft." (Wissenschaft und Hypothese V, 7.)
+All diese Sätze sind dazu bestimmt, die These zu beweisen, daß sich mit
+dem Ausdruck,,geometrische Eigenschaften physikalischer Körper“ ein
+Sinn überhaupt nicht verbinden lasse. Nimmt man diese These an, so wird
+---
+es allerdings möglich sein, jeglichen physikalischen Tatbestand geometrisch
+beliebig umzudenken. Wenn ich z. B. eine Billardkugel mit der Erdkugel
+vergleiche, so erweist sich das Größenverhältnis zwischen beiden als eine
+„Beziehung zwischen den Körpern", und da diese gemäß der voraus-
+gesetzten These mit dem „,Raume" überhaupt nichts zu tun hat, kann
+ich jederzeit erklären, daß die beiden Gestalten im Raume „eigentlich“
+gleich groß sind, daß aber in der der Beobachtung zugänglichen Zone physi-
+kalische Kräfte am Werk sind, durch die die eine Kugel mit Bezug auf die
+andere eine Kontraktion (bzw. eine Expansion) erfährt ¹). Ich kann also
+immer die geometrischen Kongruenzbeziehungen beliebig definieren, wenn
+ich mich nur dazu verstehe, die indifferenten physikalischen Hypothesen
+dementsprechend beliebig zu häufen.
+Die Widerlegung dieser Lehre geschieht am einfachsten dadurch, daß
+man das tut, was Poincaré als aussichtslos bezeichnet: man versucht, dem
+Ausdruck,,geometrische Eigenschaften physikalischer Körper" durch
+Definition einen Sinn zu geben. Man erklärt, daß der mathematische Raum,
+der nur gedachte Beziehungen umfaßt, in der Tat mit den Beziehungen
+zwischen physikalischen Körpern nichts zu tun habe, daß aber der physi-
+kalische Raum gar nichts anderes sei als der Inbegriff eben dieser Be-
+ziehungen. Damit bleibt der physikalische Raum vom mathematischen
+aufs deutlichste unterschieden, und Poincarés Bemühung, die reine Mathe-
+matik vor dem „,Empirismus“ zu bewahren, wird in keiner Weise gestört.
+Auf der anderen Seite aber hat es nun einen guten Sinn zu fragen, wie sich
+die beobachtbaren Beziehungen zwischen den Körpern, die den physikali-
+schen Raum konstituieren, zu den rein gedachten Beziehungen eines be-
+stimmten geometrischen Raumgefüges verhalten. Und diese Frage läuft
+letzten Endes auf die oben gestellte hinaus: Läßt sich das,,es gibt", das der
+Mathematiker für eine bestimmte Maßsetzung ausspricht, in das,,es gibt“
+eines Physikers verwandeln, der es auf die Existenz eines entsprechenden
+Meßkörpers bezieht?
+Ist die Frage einmal so gestellt, so liegt die Antwort beim Experiment und
+nicht in meiner Willkür. Will ich mir andererseits die Freiheit im Ansatz
+der Betrachtungsweisen unter allen Umständen erhalten, so habe ich nur
+die Wahl zwischen den beiden beschriebenen Möglichkeiten. Entweder ich
+betrachte mich als einen Demiurgen, der die Welt durch einen technischen
+Eingriff verändern kann; dann erhält die mathematische Transformation
+jedesmal einen wirklichen physikalischen Inhalt; aber ich begehe dabei den
+Widersinn, daß ich den Gegenstand, den ich erkennen will, durch den Akt
+1) Das Beispiel der Kugeln stammt von Russell; zitiert bei Whitehead, The Concept
+of Nature, Cambridge 1926, S. 122.
+des Erkennens verwandle. Oder ich treibe die Transformation bewußt als
+rein mathematisches Denkspiel: dann erfahre ich durch sie nichts Neues
+über die Welt, sondern ich vergnüge mich damit, einen einmal gefaßten
+Gedanken von einer Sprache in die andere zu übersetzen, wobei es mir frei-
+steht, immer neue Sprachweisen nach Belieben hinzuzuerfinden.
+Die Wahl zwischen diesen beiden Möglichkeiten dürfte schwer fallen. Die
+erste ist für uns undurchführbar und obendrein widersinnig; die zweite ist
+zwar durchführbar, aber völlig nutzlos. Worin besteht dann aber der Er-
+kenntniswert, den die mathematischen Transformationen zugestandener-
+maßen
+-
+für den Fortgang der Physik besitzen?
