@@ -34,6 +34,7 @@ Do not treat dated notes at this level as standing state. Those now live under `
 - `experiments/` — bounded speculative probes run against earned material; explicitly testable and allowed to fail
 - `cross-project/` — workspace-level synthesis notes between live source projects
 - `threads/` — active thread dossiers when a thread earns a more stable home
+- `method/` — material that sharpens how the project works: external interlocutors, local concepts, outward-facing explanations; not authority
 
 ## Use Rule
 

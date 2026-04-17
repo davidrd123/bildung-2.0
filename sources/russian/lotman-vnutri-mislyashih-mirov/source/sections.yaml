@@ -1,0 +1,300 @@
+# Lotman — Внутри мыслящих миров — sections map
+# OCR-derived split from a cleaned reading copy generated 2026-04-17.
+# Use for navigation and browsing, not for fine lexical work without scan checks.
+# 'kind' values:
+#   front/toc/preface = opening material before the main text
+#   intro             = introductory main-text sections
+#   chapter           = major chapter-scale units
+#   container         = heading-only wrapper for a grouped internal cluster
+#   essay             = internal essay inside a grouped chapter
+#   back              = conclusion / bibliography
+#   appendix          = Eco and Gasparov appendices
+#   index             = back-matter indices
+---
+sections:
+- seq: 0
+  file: raw/000-front-matter.txt
+  kind: front
+  slug: front-matter
+  title: Front matter (title, copyright, series page)
+  start_line: 1
+  end_line: 50
+  length: 50
+- seq: 1
+  file: raw/001-contents.txt
+  kind: toc
+  slug: contents
+  title: Contents
+  start_line: 51
+  end_line: 97
+  length: 47
+- seq: 2
+  file: raw/002-ivanov-semisfera-i-istoriya.txt
+  kind: preface
+  slug: ivanov-semisfera-i-istoriya
+  title: Вяч. Вс. Иванов — Семиосфера и история
+  start_line: 98
+  end_line: 296
+  length: 199
+- seq: 3
+  file: raw/003-intro-01-vvodnye-zamechaniya.txt
+  kind: intro
+  slug: intro-01-vvodnye-zamechaniya
+  title: Вводные замечания
+  start_line: 297
+  end_line: 411
+  length: 115
+- seq: 4
+  file: raw/004-intro-02-posle-sossyura.txt
+  kind: intro
+  slug: intro-02-posle-sossyura
+  title: После Соссюра
+  start_line: 412
+  end_line: 524
+  length: 113
+- seq: 5
+  file: raw/005-part-i-01-tri-funktsii-teksta.txt
+  kind: chapter
+  slug: part-i-01-tri-funktsii-teksta
+  title: Три функции текста
+  parent: part-i
+  start_line: 525
+  end_line: 911
+  length: 387
+- seq: 6
+  file: raw/006-part-i-02-avtokommunikatsiya.txt
+  kind: chapter
+  slug: part-i-02-avtokommunikatsiya
+  title: 'Автокоммуникация: "Я" и "Другой" как адресаты'
+  parent: part-i
+  start_line: 912
+  end_line: 1576
+  length: 665
+- seq: 7
+  file: raw/007-part-i-03-ritorika-smysloporozhdeniya.txt
+  kind: chapter
+  slug: part-i-03-ritorika-smysloporozhdeniya
+  title: Риторика — механизм смыслопорождения
+  parent: part-i
+  start_line: 1577
+  end_line: 2224
+  length: 648
+- seq: 8
+  file: raw/008-part-i-04-ikonicheskaya-ritorika.txt
+  kind: chapter
+  slug: part-i-04-ikonicheskaya-ritorika
+  title: Иконическая риторика
+  parent: part-i
+  start_line: 2225
+  end_line: 2561
+  length: 337
+- seq: 9
+  file: raw/009-part-i-05-tekst-v-protsesse-dvizheniya.txt
+  kind: chapter
+  slug: part-i-05-tekst-v-protsesse-dvizheniya
+  title: 'Текст в процессе движения: Автор — Аудитория, Замысел — Текст'
+  parent: part-i
+  start_line: 2562
+  end_line: 3370
+  length: 809
+- seq: 10
+  file: raw/010-part-i-06-simvol-gen-syuzheta.txt
+  kind: chapter
+  slug: part-i-06-simvol-gen-syuzheta
+  title: Символ — «ген сюжета»
+  parent: part-i
+  start_line: 3371
+  end_line: 4309
+  length: 939
+- seq: 11
+  file: raw/011-part-i-07-simvol-v-sisteme-kultury.txt
+  kind: chapter
+  slug: part-i-07-simvol-v-sisteme-kultury
+  title: Символ в системе культуры
+  parent: part-i
+  start_line: 4310
+  end_line: 4751
+  length: 442
+- seq: 12
+  file: raw/012-part-ii-01-semioticheskoe-prostranstvo.txt
+  kind: chapter
+  slug: part-ii-01-semioticheskoe-prostranstvo
+  title: Семиотическое пространство
+  parent: part-ii
+  start_line: 4752
+  end_line: 5052
+  length: 301
+- seq: 13
+  file: raw/013-part-ii-02-ponyatie-granitsy.txt
+  kind: chapter
+  slug: part-ii-02-ponyatie-granitsy
+  title: Понятие границы
+  parent: part-ii
+  start_line: 5053
+  end_line: 5552
+  length: 500
+- seq: 14
+  file: raw/014-part-ii-03-mekhanizmy-dialoga.txt
+  kind: chapter
+  slug: part-ii-03-mekhanizmy-dialoga
+  title: Механизмы диалога
+  parent: part-ii
+  start_line: 5553
+  end_line: 5924
+  length: 372
+- seq: 15
+  file: raw/015-part-ii-04-semiosfera-i-problema-syuzheta.txt
+  kind: chapter
+  slug: part-ii-04-semiosfera-i-problema-syuzheta
+  title: Семиосфера и проблема сюжета
+  parent: part-ii
+  start_line: 5925
+  end_line: 6861
+  length: 937
+- seq: 16
+  file: raw/016-part-ii-05-simvolicheskie-prostranstva.txt
+  kind: container
+  slug: part-ii-05-simvolicheskie-prostranstva
+  title: Символические пространства
+  parent: part-ii
+  start_line: 6862
+  end_line: 6863
+  length: 2
+- seq: 17
+  file: raw/017-part-ii-05-01-geograficheskoe-prostranstvo.txt
+  kind: essay
+  slug: part-ii-05-01-geograficheskoe-prostranstvo
+  title: 1. О понятии географического пространства в русских средневековых текстах
+  parent: part-ii-05-simvolicheskie-prostranstva
+  start_line: 6864
+  end_line: 7190
+  length: 327
+- seq: 18
+  file: raw/018-part-ii-05-02-puteshestvie-ulissa.txt
+  kind: essay
+  slug: part-ii-05-02-puteshestvie-ulissa
+  title: 2. Путешествие Улисса в «Божественной комедии» Данте
+  parent: part-ii-05-simvolicheskie-prostranstva
+  start_line: 7191
+  end_line: 7660
+  length: 470
+- seq: 19
+  file: raw/019-part-ii-05-03-dom-v-mastere-i-margarite.txt
+  kind: essay
+  slug: part-ii-05-03-dom-v-mastere-i-margarite
+  title: 3. Дом в «Мастере и Маргарите»
+  parent: part-ii-05-simvolicheskie-prostranstva
+  start_line: 7661
+  end_line: 8033
+  length: 373
+- seq: 20
+  file: raw/020-part-ii-05-04-simvolika-peterburga.txt
+  kind: essay
+  slug: part-ii-05-04-simvolika-peterburga
+  title: 4. Символика Петербурга
+  parent: part-ii-05-simvolicheskie-prostranstva
+  start_line: 8034
+  end_line: 8655
+  length: 622
+- seq: 21
+  file: raw/021-part-ii-06-nekotorye-itogi.txt
+  kind: chapter
+  slug: part-ii-06-nekotorye-itogi
+  title: Некоторые итоги
+  parent: part-ii
+  start_line: 8656
+  end_line: 8702
+  length: 47
+- seq: 22
+  file: raw/022-part-iii-01-problema-istoricheskogo-fakta.txt
+  kind: chapter
+  slug: part-iii-01-problema-istoricheskogo-fakta
+  title: Проблема исторического факта
+  parent: part-iii
+  start_line: 8703
+  end_line: 8861
+  length: 159
+- seq: 23
+  file: raw/023-part-iii-02-istoricheskie-zakonomernosti-i-struktura-teksta.txt
+  kind: chapter
+  slug: part-iii-02-istoricheskie-zakonomernosti-i-struktura-teksta
+  title: Исторические закономерности и структура текста
+  parent: part-iii
+  start_line: 8862
+  end_line: 9936
+  length: 1075
+- seq: 24
+  file: raw/024-part-iii-03-alternativnyy-variant-bespismennaya-kultura.txt
+  kind: chapter
+  slug: part-iii-03-alternativnyy-variant-bespismennaya-kultura
+  title: 'Альтернативный вариант: бесписьменная культура или культура до культуры?'
+  parent: part-iii
+  start_line: 9937
+  end_line: 10300
+  length: 364
+- seq: 25
+  file: raw/025-part-iii-04-o-roli-tipologicheskikh-simvolov.txt
+  kind: chapter
+  slug: part-iii-04-o-roli-tipologicheskikh-simvolov
+  title: О роли типологических символов в истории культуры
+  parent: part-iii
+  start_line: 10301
+  end_line: 11053
+  length: 753
+- seq: 26
+  file: raw/026-part-iii-05-vozmozhna-li-istoricheskaya-nauka.txt
+  kind: chapter
+  slug: part-iii-05-vozmozhna-li-istoricheskaya-nauka
+  title: Возможна ли историческая наука и в чем ее функция в системе культуры?
+  parent: part-iii
+  start_line: 11054
+  end_line: 11220
+  length: 167
+- seq: 27
+  file: raw/027-back-matter-conclusion.txt
+  kind: back
+  slug: back-matter-conclusion
+  title: Заключение
+  start_line: 11221
+  end_line: 11246
+  length: 26
+- seq: 28
+  file: raw/028-back-matter-bibliography.txt
+  kind: back
+  slug: back-matter-bibliography
+  title: Литература
+  start_line: 11247
+  end_line: 12006
+  length: 760
+- seq: 29
+  file: raw/029-appendix-01-umberto-eco.txt
+  kind: appendix
+  slug: appendix-01-umberto-eco
+  title: Умберто Эко — Предисловие к английскому изданию
+  start_line: 12007
+  end_line: 12275
+  length: 269
+- seq: 30
+  file: raw/030-appendix-02-gasparov-lotman-i-marksizm.txt
+  kind: appendix
+  slug: appendix-02-gasparov-lotman-i-marksizm
+  title: М. Л. Гаспаров — Лотман и марксизм
+  start_line: 12276
+  end_line: 12566
+  length: 291
+- seq: 31
+  file: raw/031-back-matter-name-index.txt
+  kind: index
+  slug: back-matter-name-index
+  title: Именной указатель
+  start_line: 12567
+  end_line: 13530
+  length: 964
+- seq: 32
+  file: raw/032-back-matter-subject-index.txt
+  kind: index
+  slug: back-matter-subject-index
+  title: Предметный указатель
+  start_line: 13531
+  end_line: 14093
+  length: 563
