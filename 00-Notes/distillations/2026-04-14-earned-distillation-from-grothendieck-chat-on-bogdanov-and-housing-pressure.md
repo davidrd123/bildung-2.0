@@ -69,6 +69,32 @@ Its value is practical:
 
 This is not yet a pattern file or a standing architecture rule. It is a reusable local format.
 
+## Later bounded test affecting this note
+
+A later packet was run on the patron-failure / non-transmission material to see
+whether it really earned a second Bogdanov contact.
+
+What the bounded test supports:
+
+- there is now a narrow second contact
+- `deingression` is the best local fit, but only for the post-departure
+  disaggregation of a work-whole whose generative center was not transmitted
+- the source difficulty is more exact than generic \"loss of vision\": partial
+  tasks and tools were transmissible, while problem-posing and creative unity
+  were not
+
+What the bounded test refuses:
+
+- `law of leasts` as the right description of the failure
+
+The refusal matters because the source is not describing a weakest-link
+bottleneck inside a still-held organization. It is describing the
+non-transmission of the activity that posed problems and gave the partial tasks
+their sense.
+
+So the patron-failure line can now be kept as a real second Bogdanov contact,
+but only in this narrow post-departure sense.
+
 ## Later verification affecting this note
 
 Because the April 14 chat later leaned heavily on a Cusanus -> Cassirer -> Grothendieck line, one correction from the earned Cusanus material should be recorded here.
@@ -94,7 +120,6 @@ The following should stay live but below the line:
 - the claim that Grothendieck has now formally opened as a live encounter rather than remaining a pressure-bearing seed
 - the stronger claim that trigger #2 in `right-now.md` has definitely fired rather than become an honest open question
 - the attempt to map the housing problem directly into Bogdanov's `fused / beaded` vocabulary as anything stronger than a directional analogy
-- the patron-failure diagnosis as already-earned Bogdanov reuse rather than a promising second contact that still needs its own bounded test
 - burial as negative progressive selection
 - the Weil siblings material
 - the nLab inheritance claim

@@ -1,6 +1,6 @@
 # Right Now
 
-Last updated: 2026-04-15
+Last updated: 2026-04-17
 
 ## Proven
 
@@ -19,32 +19,35 @@ Last updated: 2026-04-15
 - The split between `00-Notes/distillations/` (earned only) and `00-Notes/working-syntheses/` (dated working material, explicitly not earned) was established on 2026-04-13 after a same-day naming drift was caught at one-file scale. See `00-Notes/working-syntheses/2026-04-13-working-synthesis-forward-direction-multi-voice.md` meta-provenance.
 - Calibration note: the April 13 working-synthesis / packet burst was produced under early sprint conditions, roughly two weeks into the current project push rather than after a long settled run. Read its architecture talk accordingly and keep checking whether primary-source contact continues to match apparatus growth.
 - Four Uexküll packets and a bounded time-collision sequence now exist as working-layer tests in `00-Notes/experiments/2026-04-13/`. The Uexküll line produced four bounded outcomes: answering structure, reconstruction constraint, the shift from isolated `Umwelt` replay toward the larger `Merk* / Funktionskreis / Planmäßigkeit` family, and then a family-level result strong enough to justify tracking that cluster as a local reading unit without promoting a new architecture object. The time-collision line (`03A`, `03B`, `collision-01`, `03C`) preserved a real relation-level contact between `thread:time-crisis` and Dick's `orthogonal-time` surface without licensing term-equivalence or shared cosmology, and the smaller rerun held only narrowly at the level of methodological restraint under deceptive appearances.
+- A working middle-band note for bounded survey encounters is now on disk at `00-Notes/working-syntheses/2026-04-15-bounded-survey-encounters-as-middle-band.md`. It clarifies when a scaffolded source may be touched once as a real probe without quietly becoming a live campaign.
+- The localized `Substanzbegriff und Funktionsbegriff` scaffold is no longer just intake text. A verified `normalized/` tranche now runs through the load-bearing science / induction / objectivity material in chapters IV-VI, which makes one bounded German probe possible without licensing a Cassirer campaign.
 
 ## Current
 
-- **Erkenntnisproblem** Volume I is complete. 149 parts, the English layer repaired, the review apparatus filed. The next legitimate moves are: bounded late German repair (Parts 142-149), opening Volume II, or bounded cross-volume synthesis. No further forward translation inside Volume I.
-- **Zeitmauer** is now complete: 59 parts through §186, the end of the book. Handle pilot through the full text, 5 thread dossiers, Cassirer-pressure note, second-pass reread memo for the closing arc. The next legitimate moves are: bounded review/repair, a whole-book integration pass, cross-project synthesis, or rest.
+- **Erkenntnisproblem** Volume I is complete. 149 parts, the English layer repaired, the review apparatus filed. The next legitimate moves are now narrower than a generic "late repair": selective late German density cleanup only where still wanted (`144`, and maybe `136`), opening Volume II, or bounded cross-volume / concept-level synthesis. No further forward translation inside Volume I.
+- **Zeitmauer** is now complete: 59 parts through §186, the end of the book. Handle pilot through the full text, 5 thread dossiers, Cassirer-pressure note, second-pass reread memo for the closing arc, and a first source-bound whole-book integration note on disk (`source-bound-high-level-integration.md`). The next legitimate moves are: bounded review/repair, strengthening or using that integration note, cross-project synthesis, or rest.
 - **Tektologiya** has 27 part files on disk: the first pass through volume-1 main text is complete through `1.1-5.4`, the selective front-matter pass is complete through `front.10`, and the glossary carries a compact stable core of organizational vocabulary. Its next value is likely demand-led, not linear.
 - **Escolios I** remains in selective second-pass mode: 17 section files, minimal handle layer, load-bearing reread bias.
 - **Escolios II** has 51 section files on disk. The Spanish extraction has stabilized for honest batching.
-- **Exegesis** first pass complete at 75 passes, second-pass knot syntheses underway.
-- **Sources**: Uexküll complete, Anders Band I complete, modern-source shelf active but demand-led. Acquisition list filed with tiered priorities.
+- **Exegesis** first pass complete at 75 passes. The second-pass atlas now has six knots, with `06-rendering-authorship-completion.md` functioning as a narrower post-capstone extension rather than a restart of the architecture.
+- **Sources**: Uexküll complete, Anders Band I complete, modern-source shelf active but demand-led. Dormant localized scaffolds now include `Récoltes`, Kant `KdU`, and `Substanzbegriff`; the last is source-near enough for one bounded probe, but still not a live source campaign.
 
 ## Next
 
-- Both major German translation lines are now complete (Erkenntnisproblem Vol. I, Zeitmauer). The project's primary-work center has shifted.
+- Both major German translation lines are now complete (Erkenntnisproblem Vol. I, Zeitmauer). The project's primary-work center has shifted from pure forward accumulation toward selective source-near probing, bounded integration, and steady continuation lines.
 - Active forward translation continues in Escolios II (steady batching) and potentially Tektologiya (demand-led).
-- Decide what "next" means for two completed volumes: whole-book integration? Cross-project synthesis? Open Erkenntnisproblem Vol. II? Or let both rest while the other subprojects catch up?
+- Decide what "next" means for two completed volumes now that both already have closure-level orientation surfaces: strengthen or use the existing `Zeitmauer` integration note, open Erkenntnisproblem Vol. II, write bounded cross-volume synthesis, or let both rest while the other subprojects catch up.
 - Keep crystallizing only what the work forces.
 
-**Seed priority (2026-04-15):** after the April 13 replay / collision runs, the April 14 Grothendieck extraction-distillation pass, and the April 15 Uexküll family-cluster packet, the next honest order is now:
+**Working priority (2026-04-17):** after the methodology note, the Exegesis sixth-knot consolidation, and the first bounded `Substanzbegriff` probe, the honest order is now:
 
-1. **Grothendieck — one bounded follow-up, not a source opening.** The direct survivors are now clearer: forest / trees, French housing pressure, and patron failure / non-transmission. The next honest move is one bounded follow-up on one of those survivors (likely patron failure), not a full `Récoltes` campaign. Trigger #2 is now a live question, not a settled firing.
-2. **Methodology — bounded survey encounters.** The April 14 Grothendieck session made a procedural pressure explicit: are productive pre-promotion survey encounters legitimate, and if so how should they be marked so they do not quietly become source openings by reuse alone?
+1. **Substanzbegriff — hold the bounded survey where it is.** The first probe ([2026-04-17-substanzbegriff-bounded-survey-against-zeitmauer-cassirer-pressure.md](/Users/daviddickinson/Projects/Lora/bildung-2.0/00-Notes/working-syntheses/2026-04-17-substanzbegriff-bounded-survey-against-zeitmauer-cassirer-pressure.md:1)) sharpened Cassirer's constructive pressure on `Zeitmauer` around measure, objectivity, and selection without licensing a source opening. Keep it in the living layer unless later text work generates a more specific demand.
+2. **Grothendieck — hold the bounded result where it is.** The patron-failure follow-up earned a narrow second Bogdanov contact: `deingression` fits the post-departure disaggregation of a work-whole whose generative center was not transmitted, while `law of leasts` does not. That is enough to preserve the result, not enough to open `Récoltes` or widen Bogdanov reuse.
 3. **Direct Uexküll — hold the family result where it is.** The next honest Uexküll move is not another isolated `Umwelt` replay. The `Merk* / Funktionskreis / Planmäßigkeit` cluster is now tracked as a local reading unit at bounded scale; leave it there unless a later passage or source generates genuinely different pressure.
 4. **Direct Jünger / Dick — hold the small rerun where it is.** `03C` confirmed that the typology / receptivity contact survives only narrowly, at the level of methodological restraint under deceptive appearances. That is enough to close the smaller rerun, not enough to widen the synthesis.
-5. **Bogdanov** (`00-Notes/distillations/2026-04-08-earned-distillation-from-opus-on-tektologiya-instrument-pressure.md`) — still demand-led reuse only. Use only when a local source has generated an organizational difficulty that the vocabulary clarifies rather than redescribes.
-6. **Peirce** (`sources/modern/incoming/2026-04-10-peirce-texts-under-pressure.md`) — still explicitly held. None of the seed's three triggers have fired.
+5. **Exegesis — absorb the sixth knot before adding a seventh.** `06-rendering-authorship-completion.md` is now a real, narrower sixth knot. Let the dossier tightenings around fiction / prophecy and Sophia absorb that gain before opening a new knot.
+6. **Bogdanov** (`00-Notes/distillations/2026-04-08-earned-distillation-from-opus-on-tektologiya-instrument-pressure.md`) — still demand-led reuse only. Use only when a local source has generated an organizational difficulty that the vocabulary clarifies rather than redescribes.
+7. **Peirce** (`sources/modern/incoming/2026-04-10-peirce-texts-under-pressure.md`) — still explicitly held. None of the seed's three triggers have fired.
 
 ## Live Question
 
@@ -52,7 +55,7 @@ Last updated: 2026-04-15
 - The source-role commentary test (read Schöttker or Ferrari before next return) has now been partly run on the Zeitmauer side (Schöttker/Koslowski probe during the Urgrund und Person reread). What did it teach?
 - The glossary audit flagged five missed promotions (Relation, Unendliches, Kraft, Gesetz, Potenz) and one homeless pattern (reification) in erk. Zeitmauer's glossary was never audited at the same level. Should it be?
 - What does Tektologiya need to earn its next move? Is it still demand-led, or has the completion of two other volumes changed the demand?
-- The late continuation of the April 13 Cassirer / Umwelt / Schicksalszeit chat made one methodological pressure live: is there a useful middle band between strict replay packets and free synthesis chats? A bounded source-collision packet now has one useful working-layer trial (`collision-01`) and one sharper next test, but it is still not a standing format.
+- After the first `Substanzbegriff` trial, can the bounded-survey middle band stay rare and pressure-led, or will it start turning cheap localized scaffolds into quasi-campaigns by reuse drift?
 
 ## Do Not Do Yet
 

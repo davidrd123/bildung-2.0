@@ -522,3 +522,15 @@ This is why the Sophia and Thomas dossiers mattered before writing it. Sophia ca
 With five knots in place, the second pass can finally be compressed without becoming vague. The new overview document is useful not because it simplifies the archive, but because it states what the first pass could only demonstrate indirectly: hierarchy matters, literature is usually mediating rather than highest, prison-language has layers, discernment requires separate questions, and the archive ends by assigning trust rather than proving doctrine.
 
 That compression is what makes export possible. The Exegesis no longer has to appear in workspace-level notes as an eccentric mass of private theology. It can now enter the larger bildung-2.0 argument as a disciplined case of symbolic-form crisis, deferred structure, fragmentary thinking under pressure, and rescue preceding explanation. That is the point where the Exegesis stops being only a source project and becomes a methodological witness for the whole workspace.
+
+## 2026-04-15 — Sixth Knot: Rendering / Authorship / Completion
+
+Picking the archive back up after the five-knot second pass did not justify a new cosmological expansion or a seventh knot. The cleaner local pressure came from inside `02-fiction-as-prophecy.md`: the fiction thread had been reranked, but the exact relation between revelation and literary craft still remained unresolved. That was enough to justify a sixth, narrower formal knot.
+
+Three late folders were enough to make that pressure explicit without reopening the whole archive:
+
+- Folder 54: Sophia openly authors `BTA`, while `Pot-Healer` becomes the psychosis limit and `VALIS` is reclaimed as successful articulation
+- Folder 60: `VALIS` is said to matter more than 2-3-74 in one precise sense because art converts the event into durable form
+- Folder 64: world and scripture trade places, and paradox begins to function as an access-protocol rather than merely a formal defect
+
+That combination earns a bounded follow-on note rather than a new architecture. The gain is local: late Dick increasingly treats rendering as part of revelation's truth-conditions. Form is not just packaging for the event; it is one way the event survives, becomes inhabitable, and enters history without hardening into doctrine.

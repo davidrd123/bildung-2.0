@@ -13,9 +13,10 @@ Second-pass essays for the Exegesis atlas. The first pass solved orientation by 
 - `03-prison-maze-return.md` — prison stratified: Empire, counterfeit world, occlusion, maze, and compassionate return
 - `04-psychosis-revelation-discernment.md` — event residue, causal hypothesis, ranking, and the late criterion of gift versus fabrication
 - `05-suffering-beauty-rescue.md` — the capstone: suffering as pressure, beauty as sign, and rescue as the final weight of the archive
+- `06-rendering-authorship-completion.md` — sixth knot / post-capstone extension: how revelation becomes durable by rendering, why authorship becomes a late pressure point, and why paradox starts functioning as access-protocol rather than only defect
 
 ## Provisional Next Knots
 
 These are working hypotheses, not a fixed roadmap. They stay on the list only if the dossiers and passes keep showing that the knot is real.
 
-No additional knots are queued yet.
+No seventh knot is queued yet beyond the current sixth knot on rendering / authorship / completion.

@@ -1,0 +1,153 @@
+volumes:
+  - id: psf-1
+    title_de: Die Sprache
+    source: source/full/vol1-die-sprache.txt
+    authority_pdf: source/local/philosophie-der-symbolischen-formen-1-die-sprache.pdf
+    current_status: first-probe
+    sections:
+      - id: psf1-vorwort
+        title_de: Vorwort
+        printed_start: "VII"
+      - id: psf1-einleitung
+        title_de: Einleitung und Problemstellung
+        printed_start: 1
+      - id: psf1-einleitung-i
+        title_de: Der Begriff der symbolischen Form und die Systematik der symbolischen Formen
+        printed_start: 1
+      - id: psf1-einleitung-ii
+        title_de: Die allgemeine Funktion des Zeichens. Das Bedeutungsproblem
+        printed_start: 15
+      - id: psf1-einleitung-iii
+        title_de: Das Problem der Repräsentation und der Aufbau des Bewußtseins
+        printed_start: 25
+      - id: psf1-einleitung-iv
+        title_de: Die ideelle Bedeutung des Zeichens. Die Überwindung der Abbildtheorie
+        printed_start: 39
+      - id: psf1-k1
+        title_de: Das Sprachproblem in der Geschichte der Philosophie
+        printed_start: 51
+      - id: psf1-k2
+        title_de: Die Sprache in der Phase des sinnlichen Ausdrucks
+        printed_start: 122
+      - id: psf1-k3
+        title_de: Die Sprache in der Phase des anschaulichen Ausdrucks
+        printed_start: 147
+      - id: psf1-k4
+        title_de: Die Sprache als Ausdruck des begrifflichen Denkens
+        printed_start: 249
+      - id: psf1-k5
+        title_de: Die Sprache und der Ausdruck der reinen Beziehungsformen
+        printed_start: 280
+      - id: psf1-editorischer-bericht
+        title_de: Editorischer Bericht
+        printed_start: 301
+
+  - id: psf-2
+    title_de: Das mythische Denken
+    source: source/full/vol2-das-mythische-denken.txt
+    authority_pdf: source/local/philosophie-der-symbolischen-formen-2-das-mythische-denken.pdf
+    current_status: held-reserve
+    sections:
+      - id: psf2-vorwort
+        title_de: Vorwort
+        printed_start: "IX"
+      - id: psf2-einleitung
+        title_de: Einleitung. Das Problem einer Philosophie der Mythologie
+        printed_start: 1
+      - id: psf2-abs1
+        title_de: Erster Abschnitt. Der Mythos als Denkform
+        printed_start: 35
+      - id: psf2-k1
+        title_de: Charakter und Grundrichtung des mythischen Gegenstandsbewußtseins
+        printed_start: 35
+      - id: psf2-k2
+        title_de: Einzelkategorien des mythischen Denkens
+        printed_start: 74
+      - id: psf2-abs2
+        title_de: Zweiter Abschnitt. Der Mythos als Anschauungsform
+        printed_start: 87
+      - id: psf2-k3
+        title_de: Der Grundgegensatz
+        printed_start: 87
+      - id: psf2-k4
+        title_de: Grundzüge einer Formenlehre des Mythos
+        printed_start: 98
+      - id: psf2-abs3
+        title_de: Dritter Abschnitt. Der Mythos als Lebensform
+        printed_start: 181
+      - id: psf2-k5
+        title_de: Das Ich und die Seele
+        printed_start: 181
+      - id: psf2-k6
+        title_de: Die Herausbildung des Selbstgefühls aus dem mythischen Einheits- und Lebensgefühl
+        printed_start: 205
+      - id: psf2-k7
+        title_de: Kultus und Opfer
+        printed_start: 258
+      - id: psf2-abs4
+        title_de: Vierter Abschnitt. Die Dialektik des mythischen Bewußtseins
+        printed_start: 275
+
+  - id: psf-3
+    title_de: Phänomenologie der Erkenntnis
+    source: source/full/vol3-phaenomenologie-der-erkenntnis.txt
+    authority_pdf: source/local/philosophie-der-symbolischen-formen-3-phaenomenologie-der-erkenntnis.pdf
+    current_status: second-reserve
+    sections:
+      - id: psf3-vorrede
+        title_de: Vorrede
+        printed_start: "VII"
+      - id: psf3-einleitung
+        title_de: Einleitung
+        printed_start: 1
+      - id: psf3-teil1
+        title_de: Erster Teil. Ausdrucksfunktion und Ausdruckswelt
+        printed_start: 49
+      - id: psf3-k1
+        title_de: Subjektive und objektive Analyse
+        printed_start: 49
+      - id: psf3-k2
+        title_de: Das Ausdrucksphänomen als Grundmoment des Wahrnehmungsbewußtseins
+        printed_start: 64
+      - id: psf3-k3
+        title_de: Die Ausdrucksfunktion und das Leib-Seelen-Problem
+        printed_start: 104
+      - id: psf3-teil2
+        title_de: Zweiter Teil. Das Problem der Repräsentation und der Aufbau der anschaulichen Welt
+        printed_start: 119
+      - id: psf3-k4
+        title_de: Der Begriff und das Problem der Repräsentation
+        printed_start: 119
+      - id: psf3-k5
+        title_de: Ding und Eigenschaft
+        printed_start: 131
+      - id: psf3-k6
+        title_de: Der Raum
+        printed_start: 159
+      - id: psf3-k7
+        title_de: Die Zeitanschauung
+        printed_start: 183
+      - id: psf3-k8
+        title_de: Symbolische Prägnanz
+        printed_start: 218
+      - id: psf3-k9
+        title_de: Zur Pathologie des Symbolbewußtseins
+        printed_start: 234
+      - id: psf3-teil3
+        title_de: Dritter Teil. Die Bedeutungsfunktion und der Aufbau der wissenschaftlichen Erkenntnis
+        printed_start: 323
+      - id: psf3-k10
+        title_de: Zur Theorie des Begriffs
+        printed_start: 323
+      - id: psf3-k11
+        title_de: Begriff und Gegenstand
+        printed_start: 362
+      - id: psf3-k12
+        title_de: Sprache und Wissenschaft. Dingzeichen und Ordnungszeichen
+        printed_start: 377
+      - id: psf3-k13
+        title_de: Der Gegenstand der Mathematik
+        printed_start: 411
+      - id: psf3-k14
+        title_de: Die Grundlagen der naturwissenschaftlichen Erkenntnis
+        printed_start: 468

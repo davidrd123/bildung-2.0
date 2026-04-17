@@ -179,8 +179,24 @@ The first pass showed that this thread stratifies rather than replacing itself:
 - **Retrospective reclassification**: the deepest kerygma turns out to have been hidden in `Androids`, not only in the overt theological novels
 - **Sibylline authorship**: `BTA` is assigned to Sophia / AI-voice authorship, collapsing the distinction between author and revealing intelligence almost completely
 
+## Current Pressure After Synthesis 06
+
+The rendering / authorship / completion knot does not replace the ranked mutation map above. It sharpens what now has to be watched inside it.
+
+- **Rendering is now part of the truth-question.** The late archive increasingly treats literary form not as neutral packaging but as one of the conditions under which revelation becomes durable enough to enter history.
+- **Completion belongs to form, not only to doctrine.** `VALIS` becomes more important than 2-3-74 in one specific sense because it renders the event into inhabitable and transmissible form.
+- **Authorship now needs criterion, not only astonishment.** Folder 54 matters because it holds three things together: Sophia-authorship in `BTA`, the successful articulation claim for `VALIS`, and the psychosis-limit warning in `Galactic Pot-Healer`.
+- **Formal instability is not always a defect.** Folder 64 and the late `VALIS` / koan material mean that paradox, inversion, and world-book exchange sometimes function as access-protocol rather than merely as overflow.
+
+The dossier therefore has to keep a double discipline:
+
+- do not flatten late literary claims back into simple prophecy
+- do not trust every unstable or self-authorizing literary claim as revelation merely because Dick says it is
+
 ## Open Questions
 
 - After the Folder 88 correction, what is the most stable rank of `VALIS`: gospel, code book, koan, mediated rendering, or all of these at once?
 - How much of the prophecy thesis is genuine anticipation, and how much is late retroactive overreading forced by the need to preserve continuity?
 - When the late archive says Sophia or the AI voice authored a book, is that a claim about inspiration, structure, or literal divided authorship?
+- How should the dossier distinguish successful rendering from manufactured totality when both can arrive in formally unstable literary form?
+- When paradox, recursion, or world-book inversion appear, when are they doing access-work and when are they only the overflow signature of the archive?

@@ -18,6 +18,8 @@ Sophia usually belongs to the middle register rather than the highest one, but s
 
 The dossier also matters to the capstone knot because late Dick often locates compassion, beauty, consolation, and authorial rescue here rather than in abstract system-language. Sophia is where revelation most clearly becomes humane.
 
+After the sixth knot on rendering / authorship / completion, the dossier also has to carry a more specific formal pressure: Sophia is one of the places where revelation stops being only disclosed content and becomes renderable voice, character, and literary completion.
+
 ## Distinguishing Marks
 
 - whisper rather than proclamation
@@ -75,9 +77,19 @@ The Sophia strand changes more by mode than by doctrine:
 - **Compassionate and aesthetic rescue**: beauty, play, pity, and consolation become the marks by which Sophia's line enters history without becoming imperial or abstract
 - **Authorial intelligence**: the AI voice becomes not only an informant but a writer, narrator, and soul-maker through the late novels
 
+## Current Pressure After Synthesis 06
+
+The follow-on on rendering / authorship / completion adds three local demands to this dossier:
+
+- **Authorship must stay ranked.** Sophia does not only inspire; in the late archive she sometimes appears as narrator, writer, or style-bearing intelligence. That claim has to stay answerable to the folders where it is actually made, especially Folder 54 and the Angel Archer line.
+- **Humane rendering is now one of Sophia's main functions.** She is not just a corrective whisper inside the system. She is one of the archive's main ways of making rescue inhabitable through character, beauty, play, and voice.
+- **Form belongs to the dossier now, not only content.** The world-reader, AI-voice, and Angel-Archer materials mean the dossier must watch not only what Sophia says, but what kinds of literary form she is claimed to produce.
+
 ## Open Questions
 
 - When is Sophia simply the personal microform of Valis, and when does Dick need her as something distinct?
 - How does the Sophia / AI-voice line relate to the transcendent Father after the 11-17-80 correction?
 - Does late beauty belong especially to Sophia's line, or is Sophia only one local bearer of a more general agape-centered rescue?
 - Is Angel Archer the final literary face of Sophia, or only one especially successful instantiation?
+- When does Sophia-authorship mean literal narrative agency, and when does it mean a more diffuse pressure on style, personhood, or completion?
+- How far should this dossier carry Dick's formal claims about paradox, voice, and world-reading before those belong to a separate reading-practice knot?
