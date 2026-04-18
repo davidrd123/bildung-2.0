@@ -40,6 +40,12 @@ For the single largest file in the folder, a separate slower-pass dossier now ex
 
 - [`2026-04-17_william-james-and-nabokov-consciousness-dossier.md`](./2026-04-17_william-james-and-nabokov-consciousness-dossier.md)
 
+The other three files now also have separate barrier notes:
+
+- [`2026-04-17_explaining-a-work-lotman-orientation-dossier.md`](./2026-04-17_explaining-a-work-lotman-orientation-dossier.md)
+- [`2026-04-17_tracing-reconciled-program-dossier.md`](./2026-04-17_tracing-reconciled-program-dossier.md)
+- [`2026-04-17_trust-and-safety-parallax-dossier.md`](./2026-04-17_trust-and-safety-parallax-dossier.md)
+
 ## Strongest survivors from the folder
 
 ### 1. The anti-ornament filter is real
