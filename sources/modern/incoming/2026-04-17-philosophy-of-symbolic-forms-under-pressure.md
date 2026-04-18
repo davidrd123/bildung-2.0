@@ -194,3 +194,67 @@ The actual first symbolic-forms question should stay narrow:
   account of language as constitutive objectivation and world-view formation?
 
 That question is now source-localized enough to test directly.
+
+The first verified working surfaces for that test are now:
+
+- `sources/german/cassirer-philosophie-der-symbolischen-formen/source/normalized/0101-einleitung-i-begriff-und-systematik-1-7.txt`
+- `sources/german/cassirer-philosophie-der-symbolischen-formen/source/normalized/0102-einleitung-i-begriff-und-systematik-8-16.txt`
+- `sources/german/cassirer-philosophie-der-symbolischen-formen/source/normalized/0115-kapitel-i-v-wilhelm-von-humboldt.txt`
+
+This still does **not** amount to a full normalized Volume I layer. It means:
+
+- Intro I is now continuously available as a working surface
+- the Humboldt subsection is now directly touchable without re-opening the
+  whole historical survey of chapter I
+- the symbolic-forms pressure can now be tested in the two places the repo is
+  actually reaching for: constitutive objectivation in the introduction, and
+  world-view / objectivity formation in the Humboldt line
+
+## 2026-04-18 - chapter V bounded probe
+
+A second bounded probe tested whether Volume I has a live next tranche beyond
+the introduction / Humboldt surface.
+
+Read surface:
+
+- `source/raw/015-kapitel-v-die-sprache-und-der-ausdruck-der-reinen-beziehungsformen.txt`
+
+Working note:
+
+- `00-Notes/working-syntheses/2026-04-18-psf-vol1-ch5-bounded-probe-against-substanzbegriff.md`
+
+### What this added
+
+- Chapter V does not merely restate `relation > substance`.
+- It adds a more specific question than `Substanzbegriff` does: how language as
+  a symbolic medium internally carries relation, judgment, subordination, and
+  the expression of pure connection.
+- The gain is therefore medium-specific. `Substanzbegriff` remains stronger on
+  constructive objectivity; chapter V becomes the distinct `PSF I` surface for
+  relation-as-medium.
+
+### Practical consequence
+
+If `PSF I` is pushed further, the next honest tranche is no longer more
+chapter-I history by default. It is a bounded chapter-V relation-form /
+judgment / copula surface.
+
+The first verified working surface for that next band now exists at:
+
+- `sources/german/cassirer-philosophie-der-symbolischen-formen/source/normalized/0151-kapitel-v-280-293-satz-und-beziehungsausdruck.txt`
+- `sources/german/cassirer-philosophie-der-symbolischen-formen/source/normalized/0152-kapitel-v-293-295-kopula-und-praedikative-synthesis.txt`
+- `sources/german/cassirer-philosophie-der-symbolischen-formen/source/normalized/0153-kapitel-v-295-300-seinsbegriff-und-sprachlicher-ausdruck.txt`
+
+Scope:
+
+- chapter V opening through sentence-before-word
+- isolating versus flexional expression of relation
+- parataxis / hypotaxis / relative-pronoun pressure
+- the Kant / Urteil / Kopula block on pure predicative synthesis
+- the broader Seinsgeschichte block through the end of chapter V
+
+What remains outside this working-level chapter V surface:
+
+- footnote bodies and a full critical apparatus
+- any claim that Volume I as a whole is now source-secured
+- any promotion of `symbolic form` as active repo-wide authority
