@@ -87,6 +87,7 @@ Main surfaces:
 - [0101-einleitung-i-begriff-und-systematik-1-7.txt](/Users/daviddickinson/Projects/Lora/bildung-2.0/sources/german/cassirer-philosophie-der-symbolischen-formen/source/normalized/0101-einleitung-i-begriff-und-systematik-1-7.txt:1)
 - [0102-einleitung-i-begriff-und-systematik-8-16.txt](/Users/daviddickinson/Projects/Lora/bildung-2.0/sources/german/cassirer-philosophie-der-symbolischen-formen/source/normalized/0102-einleitung-i-begriff-und-systematik-8-16.txt:1)
 - [0115-kapitel-i-v-wilhelm-von-humboldt.txt](/Users/daviddickinson/Projects/Lora/bildung-2.0/sources/german/cassirer-philosophie-der-symbolischen-formen/source/normalized/0115-kapitel-i-v-wilhelm-von-humboldt.txt:1)
+- [2026-04-18-psf-ch5-what-it-changes-in-cassirer-map.md](/Users/daviddickinson/Projects/Lora/bildung-2.0/00-Notes/working-syntheses/2026-04-18-psf-ch5-what-it-changes-in-cassirer-map.md:1)
 
 What this layer gives so far:
 
@@ -94,6 +95,8 @@ What this layer gives so far:
 - symbolic form as a mode of geistige Energie, not a loose framework
 - world-view difference internal to language, not just different labels on one
   ready-made world
+- chapter V now sharpens this layer further: it is the Cassirer surface for
+  medium-specific relation-expression, not only for language in general
 
 What it does **not** yet give:
 

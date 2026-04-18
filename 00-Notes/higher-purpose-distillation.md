@@ -2,6 +2,12 @@
 
 Working distillation from the chat corpus in `00-Notes/Chats/` as of `2026-03-31`.
 
+> **Phase status (as of 2026-04-18):** This document is a phase-specific snapshot from 2026-03-31 and is now partial. Substantial April 2026 work — the stereoscopic-parallax-translation candidate, the library-of-cross-domain-moves proposal, rival-programs-as-advocate-agents, the self-correction-exemplar pattern, the Hamburg-Vienna-Berlin destroyed-constellation contact, the `Substanzbegriff` source-earned layer, `PSF I` as reserve pressure, and the sustained April 17 Wind/Lotman primary-text work — has produced artifacts that exceed this document's frame, and has surfaced earned vocabulary (*first layer of externalized formation*, *familiar-shaped human-plus-repo meta-role*, *binding circle*, *text as crystallized energeia*, *stereoscopic strain reports*) that names what this pitch did not yet have language for.
+>
+> The *charter* in [`patterns/charter.md`](../patterns/charter.md) remains the stable account of mission and aim. Its Schuon limit and its working motto (*"Recover what was buried. Reconnect what was severed. Build forms that can change the reader."*) are unchanged.
+>
+> This document stands as a phase-specific snapshot. For the current account of how the practice has widened since — what has moved, what vocabulary has earned weight, and what remains held below promotion — see [`working-syntheses/2026-04-18-higher-purpose-pitch-partial-as-of-march-31.md`](working-syntheses/2026-04-18-higher-purpose-pitch-partial-as-of-march-31.md).
+
 ## Core Statement
 
 `bildung-2.0` exists to rebuild a broken transmission chain: to recover buried texts, reconnect severed lineages of thought, and cultivate a form of human formation that can hold deep reading, cross-domain synthesis, and self-transformation together again.
