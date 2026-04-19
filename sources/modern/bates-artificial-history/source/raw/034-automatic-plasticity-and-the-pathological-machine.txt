@@ -1,0 +1,643 @@
+24
+Automatic Plasticity and
+the Pathological Machine
+
+
+
+Between the plasticity of the brain and the machinistic structure of a
+computer there is an unbridgeable gap that is even wider than that between
+syllogizing and reasoning.
+                               Nicholas Georgescu-Roegen, The Entropy Law
+                                             and the Economic Process (1971)1
+
+
+
+
+Prominent figures in the early days of cybernetics, information science,
+computing, and even artificial intelligence research all looked back to Des-
+cartes as a forerunner in the conceptualization of cognition as essential
+technological. Norbert Weiner cited Descartes as an early important the-
+orist of automata, noting only that he failed to develop a comprehensive
+understanding of how the automaton was coupled to its environment.2
+Claude Shannon (the massively influential information theorist) and John
+McCarthy (who coined the very term “artificial intelligence”) praised Des-
+cartes’s argument that the body with its nervous system was an automa-
+ton while acknowledging that any effort to understand the brain’s function
+“usually reflects in any period the characteristics of machines then in use.”
+Before the development of “large-scale computers” and the subsequent
+theorizations of information processing devices, thinkers such as Descartes
+were limited to hydraulic and other machinery in their modeling of the ner-
+vous system.3
+   What the cyberneticians introduced was the idea of an organized being
+that responded actively to the environment, not through complex “me-
+chanical” interactions, but rather through the introduction of information
+into that being, which was then reorganized to effect certain actions that
+would maintain the inherent “purpose” of this being.4 The finite set of in-
+
+                                                                                245
+
+246   C H A PT E R 24
+
+
+
+formation states was defined by the material organization of the cybernetic
+entity. Yet the actions were effected by the logic of information itself, not
+mere physical action and reaction. Whether the information system was an
+analog computer, a physical instrument, or a digital computational device,
+what was important for cybernetic theory was the fact that an intelligent
+being (whether artificial or natural) constructed a model of its environ-
+ment through the coded information received from sensory organs, reor-
+ganized that information to preserve its ideal goal state, and then initiated
+actions that would produce that desired state. In this way, the cyberneti-
+cians erased the conceptual distinctions between animal and human, hu-
+man and feedback machine, animal and machine, since all were in essence
+information systems, beings that acted on the basis of virtual realities, not
+physical ones.5 The measure of human or other forms of intelligence was
+the degree of complexity of information processing, hence the interest, in
+the 1940s and 1950s, in the new large-scale computing devices then being
+developed. The brain, it was thought, may very well be a digital computer,
+a logic system that was materially instantiated in neural cells but governed
+by the pure logic of binary operations.6
+    As we saw, Descartes was one of the first theorists of the nervous sys-
+tem as an information machine, a steering system that was organized by sen-
+sory inputs and their organization and reorganization, all in feedback loops
+with other sensory information and, importantly, the activation organs,
+what Lotka and others called “effectors.” From one point of view, we can un-
+derstand cybernetics as an attempt to redefine the organism as a new form
+of machine, one governed, literally, by information—and one that need not
+involve, even at the level of the human being, any new element, any inter-
+ventional “spirit” of mind.
+
+Feedback Is Error
+
+
+One of the central claims of cybernetics was that only a process of “negative
+feedback” drove the homeostatic life of adaptive beings. The cybernetic en-
+tity (whether living or machinic) first sensed its environment, alongside its
+own “state” of being in that environment, then compared that information
+with its own “goal” states embedded somewhere in this being, before effect-
+ing certain actions that would bring the entity’s state in line with this ideal
+goal.7 To be sure, from one perspective, this cybernetic concept of negative
+feedback could be read as privileging a predetermined, precisely defined
+“order” that is imposed on these active beings. Yet from another angle, one
+might emphasize the importance of deviation in the functioning of any
+
+                           AU TO M AT I C P L AST I C I TY A N D T H E PAT H O LO G I CA L M AC H I N E   247
+
+
+
+cybernetic being: this being has an existential relationship with error. It is
+not disorder or even error itself that threatens the cybernetics being but in-
+stead an inability to respond appropriately to an ongoing state of disorder.
+Any dynamic adaptive being is in a condition of ceaselessly deviating from
+its own formal ends.
+    The cognitive psychologist George A. Miller, famous for the experimen-
+tal demonstration of the limits of working memory,8 perfectly expressed
+this cybernetic principle in his theoretical work on memory, bringing to-
+gether machinic, evolutionary, and organismic concepts.9
+
+   One of the few truly general ideas that we have in neurophysiology is that
+   organisms try to reduce deviations from their normal states. This idea,
+   which has a long and interesting history, is now widely known as the “cy-
+   bernetic principle,” or, more descriptively perhaps, the “negative feedback
+   principle.” It holds that an adaptive system can maintain a stable state in a
+   fluctuating environment if it can sense deviations from that state and initi-
+   ate actions to reduce them. (361)
+
+
+For Miller, the organism did not merely register events and experiences in
+a memory storage system. Instead, memory functioned within the homeo-
+static economy as a whole. He agreed with Kenneth Craik’s position that
+the nervous system produced models of an exterior reality but emphasized
+the importance of failure in this task, because failure opened the opportu-
+nity to transform the model and gain new insights into our environment.
+We remembered, in other words, the unexpected (the “improbable devia-
+tion” [368]), and this needed to be “encoded” in natural or artificially adap-
+tive systems (361). The implications of this failure model are significant. As
+Miller wrote:
+
+   The suggestion that we encode the unexpected would seem to imply that the
+   system is symbolic, rather than iconic. We can easily conceive of an iconic
+   representation of an object or event in consciousness, but it is much more
+   difficult to conceive of an iconic representation for a mismatch between two
+   such images. (362)
+
+
+From this perspective, radical failure (even death) is not so opposed to nor-
+mal homeostatic operation because the catastrophic turn is in fact contin-
+uous with normal efforts to maintain the health of the being in its essential
+errancy. That is, the boundary between normality (health) and catastrophic
+failure (illness, death) is defined by the limits of the being’s own errancy
+
+248   C H A PT E R 24
+
+
+
+and not at all by the mere presence of deviation or error in the face of the
+improbable or unexpected occurrence. The great achievement of cybernet-
+ics was the demonstration that these limits to error were not at all arbitrary.
+As Wiener remarked, “The conditions under which life, especially healthy
+life, can continue in the higher animals, are quite narrow.”10 As Ashby ex-
+plained, in an essay on homeostasis, “If the organism is to stay alive, a com-
+paratively small number of essential variables must be kept within phys-
+iologic limits,” and this applied to the “life” of technological entities as
+well. Their survival as unified systems depended on keeping error within
+proper limits.11
+    The crucial arbiter of the limit of error was therefore the survival of the
+being as a whole. As Ashby would make clear, the relationship between ca-
+tastrophe and normal error or deviation is governed by the threat to the
+fundamental unity of the being in question. He gives the example of a
+mouse trying to evade a cat. The mouse can be in various “states” or pos-
+tures, and certain values may even change drastically (it may lose an ear, for
+example), yet still, the mouse will survive. “On the other hand, if the mouse
+changes to the state in which it is in four separated pieces, or has lost its
+head, or has become a solution of amino-acids circulating in the cat’s blood
+then we do not consider its arrival at one of these states as corresponding
+to ‘survival.’”12 The unity of the being is the ultimate mark of survival. Unity
+amounts to the capacity to maintain some stable form even while experi-
+encing drastic—perhaps even violent—transitional states.
+    There is no fundamental distinction between order and disorder here.
+The definition of a formal unity determined the parameters of survival
+within the unified system. Both in biology and cybernetics, the unity of the
+being is what identifies the structural relations and variables that had to be
+maintained against the threat of extinction. To rethink cybernetics from
+the perspective of the organism, we must zero in on the nature of this unity
+and its status. How could a breakdown, even a catastrophic failure, become
+the opportunity for an unprecedented reorganization? How could a func-
+tionally determinate machine ever acquire this organismic capacity?
+
+Ashby on the “Break” within the System
+
+
+It was exactly this problem of reorganization in crisis that Ashby faced
+head-on in creating his cybernetic model of the adaptive organism, the Ho-
+meostat machine. Ashby knew that by definition a machine was fixed, and
+its operations wholly determined. A machine, in its ideal operating state,
+had only one form of behavior and therefore could not change its funda-
+
+                          AU TO M AT I C P L AST I C I TY A N D T H E PAT H O LO G I CA L M AC H I N E   249
+
+
+
+mental design. Although it is possible to have a machine that enters new
+states depending on changing environmental variables (a thermostat is a
+simple example), the design of the structure will still govern its operation
+at all times.
+    In this respect Ashby would have agreed with Canguilhem’s critical per-
+spective on the limits of the machine. In a notebook fragment from 1943,
+we find Ashby reading William James, who, as we have seen, placed the re-
+lationship between plasticity and automaticity at the center of his biopsy-
+chological explanations of human thinking. James, as Ashby noted in his
+citations of the pragmatist psychologist, compared the rigid machine to the
+complex nervous system, an entity that paradoxically exhibits both fixity of
+structure and open-ended adaptive plasticity.13 The early notebooks show
+that Ashby was also reading Claude Sherrington’s revolutionary work on
+neural integration at this time. Ashby in fact wrote out several passages by
+hand from Sherrington’s seminal book, where the neurologist described
+the organism as a “moving structure, a dynamic equilibrium,” something
+constantly adjusting itself to ever-changing conditions. The living system
+was “labile”—and indeed, its greatest strength, for Sherrington, was its very
+fragility, because that fragility made it more sensitive to its surroundings.14
+If his own Homeostat machine was going to be an adequate representation
+of this kind of organismic self-organization, Ashby had to figure out a way
+to model the behavior of a genuinely open system, one that could assume
+a determinate structural organization, like any machine, but at the same
+time not be eternally bound to any one particular order. Remember that the
+influential systems theorist and biologist Bertalanffy had already criticized
+cybernetics precisely for their misguided use of closed systems to model the
+fundamentally open structures of natural organisms.
+    Ashby himself was hardly unaware of this issue, and he thought deeply
+about how to create mechanical systems that could not only respond to en-
+vironmental changes, but in fact actually change its very organization as a
+way of finding new paths to stability and equilibrium. Ashby’s insight was
+that if a machine, defined by a specific form and purpose, was ever to re-
+organize, then logically it must in fact be capable of becoming a wholly dif-
+ferent and new machine. In 1941, he had admitted that man-made machines
+that change their organizations were “rare” (he failed to give any concrete
+example, though he did point out elsewhere that the inclusion of memory
+in a system would amount to such reorganization).15
+    Yet Ashby would push much further, seeking to conceptualize a ma-
+chine that had, like the nervous system, what James had called an “incalcu-
+lable element” that could interrupt, productively, the machine’s own fatal-
+
+250   C H A PT E R 24
+
+
+
+istic operation. Ashby made a conceptual breakthrough by thinking about
+the potential value of failure, something that was, after all, inevitable in any
+working machine. Ashby realized that when a machine broke, it became in
+essence a brand-new machine with a new “design,” so to speak: “A break is
+a change in organization.”16 Ashby’s goal was to engineer a machine that
+could take advantage of its own breaks as a way of entering into a state.
+Genuine breaks of this kind were exceedingly rare in artificial machines.
+According to Ashby, a break was “1) a change of organization, 2) sudden,
+3) due to some function of the variable passing a critical value.”17 If a homeo-
+static machine were constructed in such a way as to “break” when pushed
+to the limit of its ability to maintain equilibrium, this machine could ac-
+quire a new organization, another possible path to equilibrium. “After a
+break, the organization is changed, and therefore so are the equilibria. This
+gives the machine fresh chances of moving to a new equilibrium, or, if not,
+of breaking again.”18 The breakdown was in essence a temporary shock to a
+system that was not succeeding in its quest to find equilibrium. Ashby in-
+vented a form of cybernetic plasticity by taking advantage of the very weak-
+ness of all machines—their ultimate fragility. As W. Grey Walter put it, in
+his own cybernetic book on the brain, “The power to learn implies the dan-
+ger of breakdown.”19
+    As Ashby would point out, the brain was a special kind of machine in
+that its many highly differentiated component parts—the neurons—were
+constantly connecting and disconnecting with each other as the brain re-
+sponded to perturbation and change. Built into its dynamic organization
+was an inherent tendency to break down and thereby give way to new or-
+ganizations, for the neurons have a built-in latency period: after a certain
+amount of activity, neurons temporarily “disappear” from the system, only
+to reappear fully active again once they have recovered their potential.
+Ashby suggested that the cybernetic machine and the organism could be
+linked by this shared capacity to self-organize in moments of breakdown,
+a capacity that ultimately could be traced to the tendency to fail—at least
+temporarily—on a repeated basis.
+    In later works such as Design for a Brain (1952) and Introduction to Cyber-
+netics (1961), Ashby introduced a formal way of thinking about the behavior
+of complex, adaptive systems. He noted that if we take the basic states of a
+system as variables—capable of change, that is—then we could plot them
+graphically as vectors. In turn, individually plotted variables could be inte-
+grated in a multidimensional “phase space” as a way of representing, with
+one single vector, what Ashby called a line of behavior, an integration, that
+is, of multiple vectors into one line that would represent the dynamic inter-
+
+                          AU TO M AT I C P L AST I C I TY A N D T H E PAT H O LO G I CA L M AC H I N E   251
+
+
+
+play of different states in motion within the total system.20 Ashby’s innova-
+tion was to think of the cybernetic being as a set of potential states, states
+that could be visually represented in phase space as vectors whose func-
+tions were limited by boundary values. Ashby showed how the interpreta-
+tion of these lines of behavior as mathematical functions opened up a new
+way of understanding complex systems. Mathematical analysis of physical
+systems was normally limited to continuous systems of a linear nature. A
+mathematical approach to biology, in contrast, would have to accommo-
+date the nonlinear, discontinuous features of much organismic behavior.21
+Ashby gave an example: any sudden transformation of an activity may well
+be governed by a so-called step function, where the value of the function
+moves continuously, imitating a linear function, until it changes abruptly
+(and seemingly unpredictably) when it reaches a certain point. This math-
+ematical representation of behavior would suggest that spontaneous, sin-
+gular events or actions in the life of a being are in fact governed by hidden,
+dynamic processes modeled by relatively simple step functions, or more
+complex nonlinear descriptions of threshold changes and singularities.22
+The main insight was the idea that transformations of the system’s behav-
+ior were strictly analogous to mathematical transformations of the oper-
+ands.23 For Ashby, this made it possible for cybernetics to study the innate
+“determinateness” of a system formally, in mathematical terms, and to ig-
+nore in effective the actual “material substance” of the system.24
+
+Cybernetic Plasticity
+
+
+Ashby’s cybernetic experimentation was more or less abstract—despite the
+solid, if at times mysterious, materiality of his infamous electrical device,
+the Homeostat.25 However, the abstract question of artificial homeostasis
+did not exhaust the cybernetic attack on understanding living, dynamic
+systems. And the brain, in particular, was a zone of intense study, not, as
+in Ashby’s case, as a generic problem in organization and stability, but as a
+novel and complex “technology” of command and control.
+   Cybernetics put a great deal of energy and thinking into the theory of
+the central nervous system as an information processor that governed behav-
+ior. From 1948, the date of publication of Wiener’s seminal book that coined
+the term itself, cybernetics would be associated with the computer-brain
+analogy. Weiner’s book originally appeared (in English) with a Parisian
+publisher, with whom MIT Press hastily collaborated only after belatedly
+learning of the arrangement. In this seminal book on cybernetics, Wiener
+enumerated the fundamental analogy between neural organization and the
+
+252   C H A PT E R 24
+
+
+
+binary architecture of the computer, writing, for example, that the reali-
+zation that the brain and the computing machine have much in common
+“may suggest new and valid approaches to psychopathology, and even to
+psychiatrics.”26
+    Still, he also raised many questions about this comparison. He was
+equally interested, for example, in how the brain maintains its information
+states without ever localizing them in particular spaces, the very problem
+that prompted Lashley’s earlier neurological research. Memory, for Wiener,
+could not be something merely physical. Instead, it had to be a constantly
+flowing circulation and therefore subject to perturbation and deviation; this
+system, he said, could “hardly be stable for long periods of time.”27
+    However, it was the nature of neural plasticity in particular that con-
+stituted the main challenge to the cybernetic project of assimilating ma-
+chine and organism into one comprehensive framework, and there were
+differences of opinion even within cybernetics, in the United States and
+the United Kingdom and in France. To be sure, from the very beginning
+plasticity was on Wiener’s mind. A central question he posed was how to
+explain the nervous system’s agile flexibility; Wiener wondered “how the
+brain avoids gross blunders, gross miscarriages of activity, due to the mal-
+function of individual components.”28 With instability and malfunctions in
+mind, Wiener would explore several different analogies between psycho-
+logical pathologies and computer malfunctions. He observed, for instance,
+that the drastic effort to “clear” the brain of its pathological activity with
+the use of electrical or chemical “shock treatment” (in lieu of the more per-
+manent surgical lobotomy) might well parallel the necessary purging of
+the computer of all data when a pathological “configuration of the system”
+disrupts its operations.29 Wiener also remarked more than once on the es-
+sential plasticity of the brain. He gave the example of Louis Pasteur, who
+suffered a major stroke early in his scientific career. After his death, it was
+discovered that he had only “half a brain.” Yet Pasteur was, Wiener pointed
+out, only mildly affected by some physical paralysis, and mentally he was
+not at all diminished, as his great scientific achievements following the
+stroke proved. Wiener also used the very same example Canguilhem had
+offered, noting that infants can suffer “an extensive injury” to one hemi-
+sphere of the brain, only to have the remaining half take on all the func-
+tions of the destroyed one. “This is quite in accordance with the general
+great flexibility shown by the nervous system in the early weeks of life,”
+Wiener wrote.30
+    In this early, often speculative phase of cybernetics, Wiener could not
+offer much in the way of a real explanation for this plastic quality. And yet
+
+                          AU TO M AT I C P L AST I C I TY A N D T H E PAT H O LO G I CA L M AC H I N E   253
+
+
+
+he realized that if the brain is basically a processor of information and not
+a purely physical system, we are likely to find that pathologies of the mind
+will not be traceable to specific lesions of the mechanism (i.e., the level of
+the neurons) but instead to a failure of the system as a whole to manage
+information flows between functional centers.31 Wiener claimed that be-
+cause complex human behavior no doubt involved a great deal of neuronal
+connectivity, it may well be the case that the human brain is often running
+“very close to the edge of an overload” that could at any moment result in
+“a serious and catastrophic” failure. With increasing neural flows “a point
+will come—quite suddenly—when the normal traffic will not have enough
+space allotted to it, and we shall have a form of mental breakdown, very
+possibly amounting to insanity.”32 Here Wiener hinted at a cybernetic form
+of the “catastrophic reaction,” but again, he was limited by his inability to
+say much about how the brain (or the computer network analogue) could
+recognize the failure and reorganize itself in these moments of extreme
+crisis and breakdown, as Goldstein and others had demonstrated. Still,
+Weiner hoped one day that a “new branch of medicine” would be devel-
+oped—he called it “servo-medicine”—that would deal with these kinds of
+informational disorders of control when the “strains and alarms of a new
+situation” put demands on an information system that was not equipped
+to deal with it.33
+    Much of the thinking about plasticity would focus on the importance of
+the biological example of the brain as an anatomical structure whose orga-
+nization was not determined by its histological form but rather by its pat-
+tern of connectivity. The French neuroscientist Alfred Fessard expressed
+this clearly at a 1953 conference on the methods and limits of cybernetics:
+the key insight that can be drawn from cybernetics was the observation
+that there need not be a “complete pre-structuration” of a system in order
+to explain how it can produce behavior that is “coherent, adaptive, and goal
+driven.” Indeed, it was the dynamic fluidity of feedback and transformation
+that gave a system a kind of autonomy from its own “structure.” He pointed
+to the significance “of a certain possibility of dynamic reorganization of the
+connection schemes, whereby the living organization and its mechanical
+models are partly freed from internal structural constraints and more in-
+corporated into the medium, engaged in this medium.”34 The challenge,
+Fessard notes here, is that the individual neuron is itself a living thing,
+unlike the fixed switching devices of the new electronic brains, the com-
+puters. Here is where cybernetics needed new conceptions and a technical
+innovation. As he explains, for an organ like the brain to function dynami-
+cally in the way it does,
+
+254     C H A PT E R 24
+
+
+
+      what needs to change is not, of course, the anatomical arrangement of the
+      nerve pathways, woven once and for all time in adults; it is the susceptibil-
+      ity that each neuron has to enter into activity, and which requires a certain
+      neural plasticity that cyberneticists seem to have overlooked.35
+
+
+“A General and [Patho-]Logical Theory of Automata”: Von Neumann
+
+
+And yet . . . One of the most important and notorious cyberneticists, John
+von Neumann, the brilliant mathematician and ultimate leader of the mili-
+tary project to build a high-speed digital computer for the design of nuclear
+bombs, was seriously engaged with this central concept of plasticity and
+its relation with error. Von Neumann looked to the sphere of biology, es-
+pecially neurophysiology, as a way of reconceptualizing the very future of
+computing itself.
+    In some of his earliest work on computing von Neumann had (with his
+colleague H. H. Goldstine) hinted that “human reasoning” might at some
+point be “more efficiently replaced by mechanisms.”36 Von Neumann was,
+from the start of his transition from mathematician to digital computer de-
+signer and military bureaucrat, thoroughly engaged with the metaphori-
+cal and structural connections between organic systems and technology, in
+particular, with the importance of the nervous system as the information
+center for intelligent organisms. And so he would, to the puzzlement of his
+technical collaborators on the project, describe the EDVAC (the first stored
+program computer) as a machine built from “idealized neurons.”37 How-
+ever, by the time he came to deliver his important series of lectures on the
+theory of automata (natural and artificial), von Neumann, not unlike Wolf-
+gang Köhler, questioned the value of any analogy between the brain and the
+computer: “It’s terribly difficult to form any reasonable guess as to whether
+things which are as complex as the behavior of a human being can or can-
+not be administered by 10 billion switching organs. No one knows exactly
+what a human being is doing, and nobody has seen a switching organ of 10
+billion units; therefore one would be comparing two unknown objects.”38
+    One of the “complex” human behaviors von Neumann was interested in
+was, of course, intelligence—indeed, he often stressed the importance of
+insight in scientific and mathematical work in a way consistent with the
+epistemological ideas traced in the late nineteenth and early twentieth cen-
+turies.39 “In pure mathematics,” he told his audience, “the really powerful
+methods are only effective when one already has some intuitive insight. . . .
+In this case one is already ahead of the game and suspects the direction in
+which the result lies.” He did not claim that the computer would replace
+
+                            AU TO M AT I C P L AST I C I TY A N D T H E PAT H O LO G I CA L M AC H I N E   255
+
+
+
+human insight. Instead, he merely suggested, pragmatically, that high-
+speed computers could help out in those areas, such as turbulent flows
+and shock analysis, where the problems facing physicists were so unique,
+so “singular,” that very few “insights” were forthcoming, because the non-
+linear equations involved were not analogous to the better-known linear
+domain and in fact “violated” all of our expectations. Here, the computer,
+with its astounding calculating ability, could serve as a kind of virtual space
+of experimentation. The machine could solve certain critical cases first iso-
+lated by the physicists as promising, and from analysis of these cases, we
+might gain some form of “intuition” (as he put it) as to where other critical
+cases might lie.40
+   This attention to insight helps, I think, explain von Neumann’s perhaps
+surprisingly harsh critique of McCulloch and Pitts’s seminal work on com-
+putation and neurology in these lectures. Although he agreed with their
+mathematical conclusion that idealized neural networks could well oper-
+ate as a biological Turing machine, von Neumann emphasized what was
+not demonstrated by the two collaborators—that anything like this system
+actually occurs in nature. That is, von Neumann resisted the logical sim-
+plification of a system that was, according to neurological research, almost
+overwhelming in its internal complexity.41 But, more important, he was also
+acutely aware of the psychological complexities involved. The two realms
+were, obviously, intimately connected. As he noted in this suggestive, al-
+most Wittgensteinian illustration:
+
+   Suppose you want to describe the fact that when you look at a triangle you
+   realize that it’s a triangle, and you realize this whether it’s small or large.
+   It’s relatively simple to describe geometrically what is meant: a triangle is a
+   group of three lines arranged in a certain manner. Well, that’s fine, except
+   that you also recognize as a triangle something whose sides are curved, and
+   a situation where only the vertices are indicated, and something where the
+   interior is shaded and exterior is not. You can recognize as triangle many
+   different things, all of which have some indication of a triangle in them, but
+   the more details you try to put in a description of it, the longer the descrip-
+   tion becomes.
+
+
+Or, more precisely, the “logical” descriptions of such complex analogical
+recognitions may even prove impossible at a certain point. In a perhaps
+unconscious allusion to Gestalt theory, von Neumann noted that “with re-
+spect to the whole visual machinery of interpreting a picture, of putting
+something into a picture, we get into domains which you certainly cannot
+
+256   C H A PT E R 24
+
+
+
+describe in those [i.e., logical] terms.” There was no way of describing the
+“wholeness” we recognize despite distorted, partial, or ambiguous forms.42
+    At this point, von Neumann suggested an interesting “isomorphic”
+relation between these intuitive forms of thought and the complex orga-
+nization of the nervous system. If the “visual brain” was responsible for
+such direct insights, he suggested, perhaps it was best to think of this neu-
+ral network (consisting of two billion pathways) not as carrying out some
+formal logical computation to produce the insight but as itself physically
+organized as such a unity, according to its own vastly complicated logic—
+one that was at this point totally unknown and frankly beyond our com-
+prehension. “I think that there is a good deal of reason to suspect that this
+is so with things which have this disagreeably vague and fluid impression
+(like ‘What is a visual analogy?’), where one feels that one will never get to
+the end of the description.” Neither the experience nor the neural processes
+could be reduced to simpler categories.43
+    Yet von Neumann went even further here, noting that not only were
+these processes complex, but they were not necessarily predetermined.
+After criticizing McCulloch and Pitts’s theory of memory circuits with the
+observation that the brain’s memory, whose existence is undeniable, seems
+to be located nowhere in particular, he went on to say that in general “it is
+never very simple to locate anything in the brain, because the brain has an
+enormous ability to re-organize. Even when you have localized a function
+in a particular part of it, if you remove that part, you may discover that the
+brain has reorganized itself, reassigned its responsibilities, and the func-
+tion is again being performed.”44 This is exactly what so many brain scien-
+tists had emphasized in the interwar period, and such plasticity (or “equi-
+potentiality,” as it was often called) was at the center of Kurt Goldstein’s
+important 1934 book on the holistic organism, which was, as we have seen,
+based in part on the numerous studies Goldstein and his collaborators had
+done on brain-injured soldiers during the Great War.
+    For von Neumann, the creative plasticity of the nervous system served
+only to highlight the rather simplistic, and inferior, mechanical structure of
+the early computers, something he was of course well positioned to notice.
+This was no mere philosophical question at the time. Von Neumann, like
+many others involved in the origins of digital computing, was acutely aware
+of the problematic unreliability of these early machines. From the start,
+error loomed large in von Neumann’s thinking on machine computing—
+and in fact, much of modern error analysis and correction techniques can
+arguably be traced to his seminal work in this area with H. H. Goldstine.
+But in his elaboration of his general automata theory, von Neumann was
+
+                                  AU TO M AT I C P L AST I C I TY A N D T H E PAT H O LO G I CA L M AC H I N E   257
+
+
+
+
+Figure 24.1. From Martin H. Wiek, “The ENIAC Story,” ORDNANCE (1961).
+Source: US Army photo. Courtesy ftp.arl.army.mil/~mike/comphist.
+
+
+
+interested more in what was at stake conceptually with the problem of er-
+ror. He could see that while the digital logic of computers had greatly in-
+creased precision because it eliminated the whole problem of “noise” that
+was so troublesome in analogical computing devices, the sequential logic
+of the digital systems was, practically speaking, much less reliable, since
+any single breakdown in the circuitry (a blown vacuum tube, for instance)
+introduced potentially devastating errors that would quickly multiply in
+long and complex calculations.45 (Figure 24.1.)
+    With this in mind, von Neumann made one important assumption in
+his automata theory: “In no practical way can we imagine an automaton
+which is really reliable.”46 This would have far-reaching implications. Von
+Neumann realized that any systematic form of error management, or any
+single, centralized control mechanism, would also have to be considered
+subject to failure.47 Error, he once said, had to be considered “not as an ex-
+traneous and misdirected or misdirecting accident, but an essential part
+of the process under consideration—its importance in the synthesis of au-
+tomata being fully comparable to that of the factor which is normally con-
+sidered, the intended and correct logical structure.”48
+    Of course, it was here that the amazing plasticity of “problem-solving”
+biological organisms was so important, and von Neumann would invoke
+this nonlogical—or perhaps a-logical—plasticity as a model for any artifi-
+
+258   C H A PT E R 24
+
+
+
+cial automaton. “If you axiomatize an automaton by telling exactly what it
+will do in every completely defined situation, you are missing an import-
+ant part of the problem,” he stated. “It’s very likely that on the basis of the
+philosophy that every error has to be caught, explained, and corrected, a
+system of the complexity of the living organism would not run for a mil-
+lisecond. Such a system is so well-integrated that it can operate across er-
+rors.”49 In this context, von Neumann was fascinated by the fact that the
+nervous system did not seem to use digital forms of notation at all, operat-
+ing instead with a statistical messaging technique that was less precise, to
+be sure, but much more reliable because it never relied on any single, spe-
+cific message for its successful operation.50
+    As we can see clearly, in cybernetics and in neuroscience of the period,
+the “system” could only operate across errors because its essential unity
+was not fixed in any one specific location. The system did not just spread
+its information over many neural connections, in case some failed. It also
+could actively bypass a whole series of performances for the good of the
+whole system when systematic error was detected. To accomplish this, the
+system had to possess a direct form of insight, von Neumann implied, and
+he used rather psychological language to describe this ability: “The system
+is sufficiently flexible and well-organized that as soon as an error shows up
+in any part of it, the system automatically senses whether this error matters
+or not. If it doesn’t matter, the system continues to operate without pay-
+ing attention to it. If the error seems to be important, the system blocks that
+region out, by-passes it, and proceeds along other channels.”51
+    The “radically different” approach to error and organization in the phys-
+ical nervous system raised a key question: What was the principle of orga-
+nization that would explain this flexible form of self-regulation? What
+was this very active systematic order? At this point, the best von Neumann
+could do was suggest that “the ability of a natural organism to survive in
+spite of a high incidence of error . . . probably requires a very high flexibil-
+ity and the ability of the automaton to watch itself and reorganize itself.”52
+This entailed an important autonomy of parts, where “there are several or-
+gans each capable of taking over in an emergency,” but also a logic of sys-
+tematic order that could in some way define these creative solutions to cri-
+sis. In other words, the parts could only take control if they had some inner
+connection to the principal structure of the whole organism. “The problem
+consists of understanding how these elements are organized into a whole,
+and how the functioning of the whole is expressed in terms of these ele-
+ments,” he pointed out—returning to one of the central tropes of Gestalt
+psychology.53 Yet, until the end of his life, von Neumann admitted repeat-
+
+                         AU TO M AT I C P L AST I C I TY A N D T H E PAT H O LO G I CA L M AC H I N E   259
+
+
+
+edly that this logic was beyond any present understanding. His unfinished
+and undelivered Silliman lectures for Yale University, published as The Com-
+puter and the Brain after his death, in the end just detailed the fundamental
+differences between these two entities. His terse conclusion was that the
+logical structures involved in nervous system activity must “differ consider-
+ably” from the ones we are familiar with in logic and mathematics.54
+
+Reading cybernetic concepts with and against contemporary theorizations
+of open, living systems, we glimpse some important and provocative in-
+tersections between the technological discourse of cybernetics and conti-
+nental forms of thought that emphasized holistic and vitalist concepts of
+organismic order. A crucial marker of the open living system was the im-
+portant and productive role played by pathological and even catastrophic
+states in maintaining the persistence of organismic unity. Having recog-
+nized this themselves, the cyberneticists had faith that it would be possible
+to create artificial machines that possessed genuine plasticity, so necessary
+for survival in times of extreme crisis.55 In the cybernetic era, both organ-
+isms and advanced machines were sites of stability and instability, truth
+and error, order and disorder, health and pathology; all were intertwined,
+in sometimes strange ways, to produce fragile yet powerful beings, en-
+dowed with astonishing and unpredictable creative powers.

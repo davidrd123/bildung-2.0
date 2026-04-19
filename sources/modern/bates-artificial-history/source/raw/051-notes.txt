@@ -1,0 +1,1930 @@
+Notes
+
+
+
+
+Chapter 1
+
+   1   See Jean-Pierre Dupuy, The Mechanization of the Mind: On the Origin of Cognitive
+       Science, trans. M. B. DeBevoise (Princeton, NJ: Princeton University Press, 2009);
+       and Paul N. Edwards, The Closed World: Computers and the Politics of Discourse in
+       Cold War America (Cambridge, MA: MIT Press, 1996).
+  2    See Fernando Vidal, Being Brains: Making the Cerebral Subject (New York: Fordham
+       University Press, 2017); David Bates and Nima Bassiri, eds., Plasticity and Pathol-
+       ogy: On the Formation of the Neural Subject (New York: Fordham University Press
+       2016); and Tony D. Sampson, The Assemblage Brain: Sense Making in Neuroculture
+       (Minneapolis: University of Minnesota Press, 2016).
+  3    Paul Merolla et al., “A Digital Neurosynaptic Core Using Embedded Crossbar
+       Memory with 45pJ per Spike in 45nm,” IEEE Custom Integrated Circuits Conference
+       (Sept. 2011).
+  4    See, for one recent example, H. Clark Barrett, The Shape of Thought: How Mental
+       Adaptations Evolve (Oxford: Oxford University Press, 2015).
+  5    J. A. Bargh and T. L. Chartrand, “The Unbearable Automaticity of Being,” Ameri-
+       can Psychologist 54 (1999): 462–79.
+  6    Daniel M. Wegner, The Illusion of Conscious Will (Cambridge, MA: MIT Press,
+       2002).
+   7   Daniel M. Kahneman, Thinking, Fast and Slow (New York: Mcmillan, 2011).
+  8    Philip Johnson-Laird, Mental Models (Cambridge, MA: Harvard University Press,
+       1983).
+  9    Steven Pinker, “So How Does the Mind Work?,” Mind and Language 20, no. 1
+       (2005): 2.
+  10   Andy Clark, Introduction to Andy Clark, Julien Kiverstein, and Tilmann Vierkant,
+       eds., Decomposing the Will (Oxford: Oxford University Press, 2013), 5.
+  11   Yuval Harari, 21 Lessons for the 21st Century (New York: Vintage, 2018), 29.
+  12   See, e.g., Cathy O’Neil, Weapons of Math Destruction: How Big Data Increases
+       Inequality and Threatens Democracy (New York: Crown, 2016); and Safiya Noble,
+       Algorithms of Oppression: How Search Engines Reinforce Racism (New York: New
+       York University Press, 2018).
+
+                                                                                       355
+
+356    N OT E S TO C H A PT E R 1
+
+
+
+  13   Harari, 21 Lessons, 29.
+  14   Brian Christian and Tom Griffiths, Algorithms to Live By: The Computer Science of
+       Human Decisions (New York: HarperCollins, 2015). “As computers become better
+       tuned to real-world problems, they provide not only algorithms people can
+       borrow for their own lives, but a better standard with which to compare human
+       cognition itself” (5).
+  15   Daniel Kahneman, Olivier Sibony, and Cass R. Sunstein, Noise: A Flaw in Judgment
+       (New York: Little, Brown, 2021). “We introduce several noise reduction tech-
+       niques that we collect under the label of decision hygiene” (9).
+  16   Harari, 21 Lessons, 56.
+  17   See the website for Stanford’s Center for Human-Centered Computing. See as
+       well Berkeley’s Center for Human-Compatible AI and many other contemporary
+       ventures along the same lines.
+  18   See Luciana Parisi, “Automatic Thinking and the Limits of Reason,” Cultural
+       Studies – Critical Methodologies 16, no. 5 (2016): 471–81.
+  19   Reinhart Koselleck, Critique and Crisis: Enlightenment and the Pathogenesis of Mod-
+       ern Society (Cambridge, MA: MIT Press, 1988).
+  20   Koselleck, Critique, 5.
+  21   Koselleck, Critique, 5.
+  22   Otto Bruner, Werner Conze, and Reinhart Koselleck, eds., Geschichtliche Grundbe-
+       griffe: Historisches Lexicon zur politisch-sozialen Sprache in Deutschland (Stuttgart:
+       Klett Cotta, 1972), s.v. “Krise.”
+  23   Carl Schmitt, “Dialogue on Power and Access to the Holder of Power,” trans.
+       Samuel Garrett Zeitlin, in Carl Schmitt, Dialogues on Power and Space, ed. Andreas
+       Kalyvas and Federico Finchelstein (Cambridge: Polity, 2015), 45.
+  24   Carl Schmitt, “Dialogue on New Space” (1958), in Schmitt, Dialogues, 80.
+  25   Peter Thiel, “The Straussian Moment,” in Politics and Apocalypse, ed. Robert
+       Hamerton Kelly (East Lansing: Michigan State University Press, 2007): 189–218.
+  26   On the contemporary relevance of this idea, see Antoinette Rouvroy and Thomas
+       Berns, “Algorithmic Governmentality and Prospects of Emancipation: Disparate-
+       ness as a Precondition for Individuation through Relationships?,” Réseaux 177
+       (2013): 163–96. The original concept is developed in Michel Foucault, “Govern-
+       mentality,” trans. Rosi Braidotti, rev. Colin Gordon, in The Foucault Effect: Studies
+       in Governmentality, ed. Graham Burchell, Colin Gordon, and Peter Miller (Chi-
+       cago: University of Chicago Press, 1991), 87–104.
+  27   See Fernando Vidal, The Sciences of the Soul: The Early Modern Origins of Psychol-
+       ogy, trans. Saskia Brown (Chicago: University of Chicago Press, 2011).
+  28   Achille Mbembe, “Bodies as Borders,” From the European South 4 (2019): 14. See as
+       well Nick Land, The Dark Enlightenment (n.p.: Imperium Press, 2022); also avail-
+       able at http://www.thedarkenlightenment.com/the-dark-enlightenment-by-nick
+       -land/. Accessed Nov. 24, 2022.
+  29   Achille Mbembe, The Critique of Black Reason, trans. Laurent Dubois (Durham,
+       NC: Duke University Press, 2017), 5–6. Unless otherwise noted, emphasis in quo-
+       tations is in the original.
+  30   Mbembe, “Bodies,” 15.
+
+                                                               N OT E S TO C H A PT E R 2   357
+
+
+
+Chapter 2
+
+  1   René Descartes, Discours de la méthode, in The Philosophical Writings of Descartes,
+      vol. 1, trans. John Cottingham, Robert Stoothoff, and Dugald Murdoch (Cam-
+      bridge: Cambridge University Press, 1985), 119.
+  2   Antonio Damasio, Descartes’ Error: Emotion, Reason, and the Brain (New York: Pen-
+      guin, 1995), 250.
+  3   Bernard Stiegler, Technics and Time, vol. 2: Disorientation (1996), trans. Stephen
+      Barker (Stanford: Stanford University Press, 2009), 164. See as well Edwards, The
+      Closed World, esp. chs. 6–8.
+  4   Olivier Houdé, “L’esprit, le cerveau et le corps: Descartes face aux sciences cogni-
+      tives,” in Annie Bitpol-Hespériès et al., Descartes et son oeuvre aujourd’hui (Spri-
+      mont: Mardaga, 1998).
+  5   For an overview, see the excellent essays on perception and thinking collected
+      in Stephen Gaukroger, John Schuster, and John Sutton, eds., Descartes’ Natural
+      Philosophy (London: Routledge, 2000). Other recent works emphasizing Des-
+      cartes’s physiological approach to cognition include Daniel Garber, Descartes
+      Embodied: Reading Cartesian Philosophy though Cartesian Science (Cambridge:
+      Cambridge University Press, 2001); Dennis des Chene, Spirits and Clocks: Machine
+      and Organism in Descartes (Ithaca, NY: Cornell University Press, 2001); Stephen
+      Gaukroger, Descartes: An Intellectual Biography (Oxford: Oxford University Press,
+      1995); Dennis Sepper, Descartes’ Imagination: Proportion, Images, and the Activity of
+      Thinking (Berkeley: University of California Press, 1996); John Sutton, Philosophy
+      and Memory Traces: Descartes to Connectionism (Cambridge: Cambridge University
+      Press, 1998).
+  6   Vincente Aucante, La philosophie médicale de Descartes (Paris: Presses universi-
+      taires de France, 2006). See as well Richard B. Carter, Descartes’ Medical Philos-
+      ophy: The Organic Solution to the Mind-Body Problem (Baltimore: Johns Hopkins
+      University Press, 1983).
+  7   Descartes, letter to Mersenne, 1632. AT 1:263; CSM 3:40. The following abbrevi-
+      ations will be used for Descartes’s works: AT = Oeuvres de Descartes, ed. Charles
+      Adam and Paul Tannery, 11 vols. (Paris: Vrin, 1973); CSM = The Philosophical Writ-
+      ings of Descartes, 3 vols., trans. John Cottingham, Robert Stoothoff, and Dugald
+      Murdoch (vol. 3, including Anthony Kenny) (Cambridge: Cambridge University
+      Press, 1988).
+  8   On the importance of this idea of information in Descartes’s work, see Jacques
+      Bouveresse, “La mécanique, la physiologie et l’âme,” in Bitpol-Hespériès et al.,
+      Descartes et son oeuvre aujourd’hui, 99–100; Jean-Luc Marion, Sur l’ontologie grise
+      de Descartes: Science cartésienne et savoir aristotelicien dans les “Regulae” (Paris:
+      Vrin, 1981), 119, 123–25; Editors’ Introduction to Gaukroger, Schuster, and Sutton,
+      Descartes’ Natural Philosophy, 16; Amélie Oksenberg Rorty, “Descartes on Think-
+      ing with the Body,” in Cambridge Companion to Descartes, ed. John Cottingham
+      (Cambridge: Cambridge University Press, 1992), 378.
+  9   On Descartes’s conceptual move and its context, see Des Chene, Spirits and Clocks,
+      ch. 6; and Gary Hatfield, “Mechanizing the Sensitive Soul,” in Matter and Form
+      in Early Modern Science and Philosophy, ed. Gideon Manning (Leiden: Brill, 2012),
+      151–86.
+ 10   In general, see Otto Mayr, Authority, Liberty, and Automatic Machinery in Early
+      Modern Europe (Baltimore: Johns Hopkins University Press, 1986); for religious
+
+358        N OT E S TO C H A PT E R 2
+
+
+
+           automata, see Jörg Jochen Berns, “Sakralautomaten: Automatisierungstenden-
+           zen in der mittelalterlichen und frühneuzeitlichen Frömmigkeitskulture,” in
+           Automaten in Kunst und Literatur des Mittelalters und der Frühen Neuzeit, ed. Klaus
+           Grubmüller and Markus Stock (Wiesbaden: Harrassowitz, 2003), 197–22; and
+           Jessica Riskin, The Restless Clock: The Centuries-Long Argument over What Makes
+           Living Things Tick (Chicago: University of Chicago Press, 2016), ch. 1.
+      11   René Descartes, letter to Reneri for Pollot, April or May 1638, AT 2:39–40; CSM
+           3:99.
+  12       René Descartes, letter to More, Feb. 5, 1649, AT 5:277–78; CSM 3:366.
+  13       Descartes, letter to Reneri for Pollot, AT 2:40, CSM 3:99.
+  14       René Descartes, Discourse on Method, AT 6:56–57; CSM 1:140.
+  15       René Descartes, Traité de l’homme, AT 11:173, CSM 1:104.
+  16       John Cottingham’s term “trialism” attempts to capture the importance for Des-
+           cartes of this liminal zone where body and mind meet, a space rich with its own
+           ontological possibilities, what Descartes might have called “native intelligence.”
+           See John Cottingham, “Cartesian Trialism,” Mind 94 (1985): 218–30. See as well
+           Fernando Vidal, The Sciences of the Soul, 77.
+  17       Gary Hatfield, “Descartes’ Physiology and Psychology,” in Cottingham, Cambridge
+           Companion, 341.
+  18       Annie Bitpol-Hespériès, Le principe de vie chez Descartes (Paris: Vrin, 1990).
+  19       Stanley Finger, Minds behind the Brains: A History of the Pioneers and Their Discov-
+           eries (Oxford: Oxford University Press, 2000).
+  20       On Galen, see F. R. Freeman, “Galen’s Ideas on Neurological Function,” Journal of
+           the History of Neuroscience 3, no. 4 (1992): 263–71.
+  21       On the transformation of “psychology” in the seventeenth century, from science
+           of the soul as “animating principle of all living beings” to the study of “the ratio-
+           nal human soul united with the body,” see Vidal, Sciences of the Soul, 57. For the
+           importance of the unity of mind and body in Descartes’s physiology, see Annie
+           Bitpol-Hespériès, Introduction to René Descartes, Le monde, L’homme (Paris:
+           Seuil, 1996).
+  22       As Georges Canguilhem has forcefully argued, Descartes’s mechanical under-
+           standing of the bodily organism merely displaces the Aristotelian question of
+           the soul as form, and the telos of the formal organization, onto the figure of the
+           Creator—whether it is divine or human in nature: “Mechanism can explain
+           everything so long as we take machines as already granted, but it cannot account
+           for the construction of machines.” See Georges Canguilhem, “Machine and
+           Organism” (1948), in Canguilhem, Knowledge of Life, ed. Paola Marati and Todd
+           Meyers, trans. Stefanos Geroulanos and Daniela Ginsburg (New York: Fordham
+           University Press, 2008), 87. I will return to the question of the unity of organism
+           and machine in the discussion of Descartes’s later work, the Passions de l’âme.
+  23       Descartes, Traité de l’homme, AT 11:131; CSM 1:100–101.
+  24       “And note by ‘figures’ I mean not only things that somehow represent the posi-
+           tion of the edges and surfaces of objects, but also everything which, as indicated
+           above, can cause the soul to sense movement, size, distance, colors, sounds,
+           odors, and other such qualities; and even things that can make it sense titillation,
+           pain, hunger, thirst, joy, sadness, and other such passions.” Descartes, Traité de
+           l’homme, AT 11:176; CSM 1:106.
+  25       “These shapes are not the literal analogues of perceived objects,” writes one
+           commentator, “rather they constitute a fully arbitrary code embedded in what we
+
+                                                               N OT E S TO C H A PT E R 2   359
+
+
+
+     now call a virtual function space, or, in Descartes’ terms, the corporeal imagina-
+     tion.” Paul Miers, “Descartes and the Algebra of the Soul,” MLN 110, no. 4 (1995):
+     948.
+26   Jean-Pierre Séris, “Language and Machine in the Philosophy of Descartes,” in Es-
+     says on the Philosophy and Science of René Descartes, ed. Stephen Voss (New York:
+     Oxford University Press, 1993), 183.
+27   See Alison Simmons, “Representation,” in The Cambridge Descartes Lexicon, ed.
+     Larry Nolan (Cambridge: Cambridge University Press, 2016): 645–54. Thanks to
+     Jacob Sheehan for alerting me to this thorough and sophisticated examination of
+     Descartes’s theory of perception and his version of “direct representation.”
+28   Descartes’s theory of the pineal gland is often misunderstood. First, he was not
+     the first to conjecture the cognitive function of the gland. Its peculiarity gave rise
+     to various speculations and Descartes was relying heavily on prior anatomical
+     work on the brain as well as his own animal dissections. Second, Descartes did
+     not believe that only human brains had pineal glands; it was common knowl-
+     edge that it existed in animals and Descartes himself often referred to them. See
+     Bitpol-Hespériès, Le principe de vie; and Aucante, La philosophie médicale.
+29   I am indebted to Nima Bassiri’s lucid explication of the complex ontological
+     status of the pineal gland in relation to both soul and body. See Nima Bassiri,
+     “Material Translations in the Cartesian Brain,” Studies in History and Philosophy of
+     Biological and Biomedical Sciences 43, no. 1 (2012): 244–45.
+30   Objections and Replies, AT 7:229–30; CSM 2:161
+31   See Sutton, Philosophy and Memory Traces, ch. 3.
+32   Sutton, Philosophy and Memory Traces, pt. 1.
+33   Descartes, letter to Mersenne, Mar. 18, 1630, AT 1:134; CSM 3:20.
+34   Descartes, Traité de l’homme, AT 11:185. (This passage is omitted in the translation
+     in CSM.) Translations are my own unless otherwise cited.
+35   It is worth noting that Aristotle himself preserved the explanatory power of
+     causation in the higher animals with a similar argument: experience could be
+     maintained in the body and therefore cause behaviors at a later moment. See
+     Klaus Corcilius, Streben und Bewegen: Aristoteles’ Theorie der animalischen Ortsbe-
+     wegung. Quellen und Studien zur Philosophie, vol. 79 (Berlin: De Gruyter, 2008).
+36   Descartes, Traité de l’homme, AT 11:132; CSM 1:101.
+37   On this aspect of the Regulae, see Stephen Gaukroger, Cartesian Logic: An Essay on
+     Descartes’s Conception of Inference (Oxford: Oxford University Press, 1989), 25, 127–
+     28; and Marion, Sur l’ontologie grise, 30.
+38   René Descartes, Rules for the Direction of the Mind, AT 10:368, CSM 1:14.
+39   René Descartes, Meditations on First Philosophy, AT 7:22; CSM 2:15.
+40   Descartes, Meditations on First Philosophy, AT 7:31–32; CSM 2:20–21.
+41   As Dennis Sepper explains, “There can be no thinking and knowing without the
+     internal senses and their phantasms. All reasoning, conceiving, understanding,
+     all science and truth, must come to us by way of and accompanied by phan-
+     tasms.” Sepper, Descartes’s Imagination, 28.
+42   Descartes, Meditations on First Philosophy, AT 7:31; CSM 2:21.
+43   Descartes, Meditations on First Philosophy, AT 7:32; CSM 2:21.
+44   René Descartes, Passions de l’âme, §6, AT 11:330; CSM 1:329.
+45   Descartes, Conversation with Burman, AT 5:163–64; CSM 3:346; and Passions de
+     l’âme, AT 5:179; CSM 3:354: “Even when we are ill, nature still remains the same.”
+     On Descartes’s thinking on pathology, see Aucante, La philosophie médicale, ch. 8.
+
+360       N OT E S TO C H A PT E R 3
+
+
+
+  46      Descartes, Passions de l’âme, §16, AT 11:342; CSM 1:335.
+  47      Descartes, Passions de l’âme, §17, AT 11:342; CSM 1:335.
+  48      Descartes, letter to Regius, Jan. 1642, AT 3:493; CSM 3:206.
+  49      See Carter, Descartes’ Medical Philosophy, 119–20, for a similar formulation.
+  50      Descartes, Passions de l’âme, §211, AT 11:487; CSM 1:403–4.
+  51      Descartes, Passions de l’âme, §30, AT 11:351; CSM 1:339.
+  52      Bassiri, “Material Translations,” 249.
+  53      See, e.g., Deborah J. Brown, Descartes and the Passionate Mind (Cambridge: Cam-
+          bridge University Press, 2006), 141.
+  54      Descartes, Passions de l’âme, §40, AT 11:359; CSM 1:343.
+  55      Descartes, Passions de l’âme, §52, AT 11:372; CSM 1:349.
+  56      Descartes, Passions de l’âme, §70, AT 11:380; CSM 1:353.
+  57      For Catherine Malabou and Adrian Johnston, the exception that is “wonder”
+          constitutes the very possibility of the soul’s own self-recognition. See Catherine
+          Malabou and Adrian Johnston, Self and Emotional Life: Philosophy, Psychoanalysis,
+          and Neuroscience (New York: Columbia University Press, 2013), ch. 1.
+  58      Descartes, Passions de l’âme, §70, AT 11:380; CSM 1:353.
+  59      Descartes, Passions de l’âme, §73, AT 11:382–83; CSM 1:354.
+  60      Christof Koch has framed this problem in ways that look back to Descartes’s
+          seminal effort to think the human from within the cybernetic automaton. As
+          he writes, most actions of the higher animals depend on “zombie agents” that
+          are automatically executed. “The hallmarks of a zombie system are stereotypi-
+          cal, limited sensorimotor behaviour, and immediate, rapid action. Its existence
+          raises two questions. First, why aren’t we just big bundles of unconscious zombie
+          agents? Why bother with consciousness, which takes hundreds of milliseconds
+          to set in?” For Koch, human thinking reveals best how nature has “evolved a
+          powerful and flexible system whose primary responsibility is to deal with the
+          unexpected and to plan for the future.” “The function of consciousness . . . is to
+          handle those special situations for which no automatic procedures are available.”
+          See Christof Koch and Francis Crick, The Quest for Consciousness: A Neurobiological
+          Approach (Englewood, CO: Roberts, 2004), 318–19.
+
+
+
+Chapter 3
+
+      1   Thomas Hobbes, Elements of Philosophy, the First Section, Concerning Body, in The
+          English Works of Thomas Hobbes of Malmesbury, vol. 1, ed. William Molesworth
+          (London: John Bohn, 1839), 3. On Hobbes as a founding father of artificial intelli-
+          gence, see, e.g., John Haugeland, Artificial Intelligence: The Very Idea (Cambridge,
+          MA: MIT Press, 1985), ch. 1.
+      2   For a media history of certain kinds of “paper machines” that organize informa-
+          tion, see Martin Krajewski, Paper Machines: About Cards & Catalogs, 1548–1929
+          (Cambridge, MA: MIT Press, 2011); and Cornelia Vismann, Files: Law and Media
+          Technology, trans. Geoffrey Winthrop-Young (Stanford: Stanford University Press,
+          2008).
+      3   Hobbes, Elements, 1:1–2.
+      4   Thomas Hobbes, Leviathan, ed. Richard Tuck (Cambridge: Cambridge University
+          Press, 1996), ch. 4.
+      5   On the complexity of the figure of the automaton in Hobbes and lingering traces
+
+                                                                N OT E S TO C H A PT E R 3   361
+
+
+
+     of Aristotelianism, see Z. Bhorat, “Automata in Hobbes: Three Heads of Cerebus,”
+     History of Political Thought 42, no. 3 (2021): 441–63.
+6    Thomas Hobbes, Decameron Physiologicum, in English Works, vol. 7 (London,
+     1845), 176.
+ 7   Hobbes, Leviathan, 9.
+ 8   Robert Boyle, The Sceptical Chymist: or Chemico-Physical Doubts and Paradoxes,
+     Touching the Spagyrist’s Principles Commonly Call’d Hypostatical . . . (1661), in The
+     Works of Robert Boyle, 14 vols., ed. Michael Hunter and Edward B. Davis (London:
+     Routledge, 1999) 2: 354–55.
+9    Hobbes, Leviathan, 398. Subsequent citations are given parenthetically in the
+     text.
+10   Hobbes, Elements, 1:391.
+11   Hobbes, Elements, 1:391.
+12   Hobbes, Elements, 1:391–92.
+13   Hobbes, Elements, 1:393.
+14   Jakob Von Uexküll, “The Theory of Meaning,” Semiotica 42, no. 1 (1982): 25–82, at
+     30.
+15   Early users of microscopes, such as Pierre Borele, had found in samples of hu-
+     man blood what they took to be little worms—though they were most likely just
+     seeing red blood cells.
+16   Spinoza, letter to Henry Oldenburg, Nov. 1665, in Baruch de Spinoza, Collected
+     Works of Spinoza, vol. 2, ed. and trans. Edwin Curley (Princeton, NJ: Princeton
+     University Press, 1985), letter 32, p. 19.
+17   Spinoza, letter to Oldenburg, 19.
+18   Spinoza, letter to Oldenburg, 19–20.
+19   On the complexities (and difficulties) of Spinoza’s conception of reason, see
+     Michael LeBuffe, Spinoza on Reason (Oxford: Oxford University Press, 2018). On
+     the dependence of reason on the logic of the imagination, see Christof Ellsiepen,
+     “The Types of Knowledge (2P38–47),” in Michael Hampe et al., Spinoza’s Ethics: A
+     Collective Commentary (Leiden: Brill, 2011), 133–34.
+20   Spinoza, Collected Works, letter 76, 2:475.
+21   Spinoza, letter to Simon de Vries, in Collected Works, 1:161. On essences and their
+     access through mental representation, see Michael Della Rocca, Spinoza (New
+     York: Routledge, 2008), ch. 3.
+22   See Hans Jonas, “Spinoza and the Theory of Organism,” Journal of the History of
+     Philosophy 3, no. 1 (1965): 43–57.
+23   Citations in the text are to Spinoza, The Ethics, in A Spinoza Reader: The Ethics
+     and Other Works, ed. and trans. Edwin Curley (Princeton, NJ: Princeton Univer-
+     sity Press, 1994). Citations refer to book, axioms (a), propositions (p), scholia (s),
+     corollaries (c), and demonstrations (d). When useful I have indicated the page
+     number of Curley’s edition.
+24   Jonas, “Spinoza and the Theory of the Organism.”
+25   Gilles Deleuze, Expressionism in Philosophy: Spinoza, trans. Martin Joughin (New
+     York: Zone, 1990).
+26   Baruch de Spinoza, Treatise on the Emendation of the Intellect, in Collected Works,
+     1:36.
+27   Gilles Deleuze, Spinoza: Practical Philosophy, trans. Robert Hurley (San Francisco:
+     City Lights, 1988), 55.
+28   Spinoza, Emendation of the Intellect: “But just as men, in the beginning, were able
+
+362       N OT E S TO C H A PT E R 4
+
+
+
+          to make the easiest things with the tools they were born with (however labori-
+          ously and imperfectly), and once these had been made, made other, more diffi-
+          cult things with less labor and more perfectly, and so, proceeding gradually from
+          the simplest works to tools, and from tools to other works and tools, reached the
+          point where they accomplished so many and so difficult things with little labor,
+          in the same way the intellect, by its inborn power, makes intellectual tools for
+          itself, but which it acquires other powers for other intellectual works, and from
+          these works still other tools, or the power of searching further, and so proceeding
+          by stages, until it reaches the pinnacle of wisdom” (17).
+  29      Spinoza, Emendation of the Intellect, 37.
+  30      An analysis of the spiritual automaton but not an account of its artificial origin
+          can be found in Eugene Marshall, The Spiritual Automaton: Spinoza’s Science of the
+          Mind (Oxford: Oxford University Press, 2013).
+  31      Cf. Spinoza, Ethics: “The best thing, then, that we can do, so long as we do not
+          have perfect knowledge of our affects, is to conceive a correct principle of living,
+          or sure maxims of life, to commit them to memory, and to apply them constantly
+          to the particular cases frequently encountered in life. In this way our imagina-
+          tion will be extensively affected by them, and we shall always have them ready”
+          (5p10s).
+  32      Diane Steinberg, “Knowledge in Spinoza’s Ethics,” in The Cambridge Companion
+          to Spinoza’s Ethics, ed. Olli Koistinen (Cambridge: Cambridge University Press,
+          2009), 150–55.
+  33      On the possibility of intuiting essence despite the contingency of experience,
+          see Kristin Primus, “Scientia Intuitiva in the Ethics,” in Spinoza’s Ethics: A Crit-
+          ical Guide, ed. Yitzhak Y. Melamed (Cambridge: Cambridge University Press,
+          2017), 185–86. See as well Sanem Soyarsian, “The Distinction between Reason
+          and Intuitive Knowledge in Spinoza’s Ethics,” European Journal of Philosophy 24,
+          no. 1 (2016): 27–64.
+
+
+
+Chapter 4
+
+      1   Joseph Hoffman, quoted in François Duchesnau, “The Organism-Mechanism Re-
+          lationship: An Issue in the Leibniz-Stahl Controversy,” in The Life Sciences in Early
+          Modern Philosophy, ed. Ohad Nachtomy and Justin E. H. Smith (Oxford: Oxford
+          University Press, 2014), 103–4. Subsequent citations are given parenthetically in
+          the text.
+      2   See François Duchesnau, “Physiology and Organic Bodies,” in Oxford Handbook
+          of Leibniz, ed. Maria Rosa Antognazza (Oxford: Oxford University Press, 2018),
+          466–84; Raphaële Andrault, La vie selon la raison: Physiologie et métaphysique chez
+          Spinoza et Leibniz (Paris: Honoré Champion, 2014).
+      3   See François Duchesnau and Justin E. H. Smith, Introduction to The Leibniz-Stahl
+          Controversy, trans. and ed. François Duschesneau and Justin E. H. Smith (New
+          Haven, CT: Yale University Press, 2016); see as well Justin E. H. Smith, Divine Ma-
+          chines: Leibniz and the Sciences of Life (Princeton, NJ: Princeton University Press,
+          2011), ch. 2.
+      4   John Locke, Essay concerning Human Understanding, ed. Peter Nidditch (Oxford:
+          Oxford University Press, 1975), bk. 2, ch. 27, §§4–5.
+
+                                                              N OT E S TO C H A PT E R 4   363
+
+
+
+ 5   See Duchesnau, “The Organism-Mechanism Relation,” 114; and Smith, Divine
+     Machines, 100.
+ 6   G. W. Leibniz, “Animadversions concerning Certain Assertions of the True Med-
+     ical Theory [Theoria Medica Vera]” (1709), in Duchesnau and Smith, The Leibniz-
+     Stahl Controversy, 23.
+ 7   G. W. Leibniz, Theodicy (1710), trans. E. M. Huggard, ed. Austin Farrer (La Salle,
+     IL: Open Court, 1985), 365.
+ 8   Daniel Garber, Leibniz: Body, Substance, Monad (Oxford: Oxford University Press,
+     2009), 49.
+ 9   Garber, Leibniz, 66. See as well Larry M. Jorgensen, Leibniz’s Naturalized Philoso-
+     phy of Mind (Oxford: Oxford University Press, 2019), ch. 4.
+10   G. W. Leibniz, New System of Nature, in G. W. Leibniz, Philosophical Essays, ed. and
+     trans. Roger Ariew and Daniel Garber (Indianapolis: Hackett), 139.
+11   Leibniz, New System, 139.
+12   On plastic nature in this context and a critique of Ralph Cudworth, see Leibniz,
+     letter to Lady Masham (daughter of Cudworth), July 1705, in G. W. Leibniz, Die
+     philosophischen Schriften von Gottfried Wilhelm Leibniz, vol. 3 (Berlin: Weidmann,
+     1887), 366–68; and G. W. Leibniz, “Considerations on the Principles of Life, and
+     on Plastic Natures” (1705), in The Philosophical Works of Leibnitz, 2nd ed., trans.
+     George Martin Duncan (New Haven, CT: Yale University Press, 1908).
+13   Leibniz, New System, 140.
+14   Leibniz, New System, 144.
+15   Leibniz, New System, 142.
+16   Leibniz, New System, 141.
+17   Leibniz, New System, 143.
+18   Leibniz, New System, 143.
+19   See Adam Harmer, “Mind and Body,” in Antognozza, Oxford Handbook of Leibniz,
+     393–409.
+20   Smith, Divine Machines, 118–19.
+21   Leibniz, New System, 144.
+22   Garber, Leibniz, 205.
+23   Garber, Leibniz, 217.
+24   Leibniz, “Animadversions,” in Duchesnau and Smith, The Leibniz-Stahl Contro-
+     versy, 21. See Smith, Divine Machines, 118–19.
+25   Leibniz, Letter to Lady Masham, undated, in Philosophischen Schriften, 3:374.
+26   On these projects, see Matthew Jones, Reckoning with Matter: Calculating Ma-
+     chines, Innovation, and Thinking about Thinking from Pascal to Babbage (Chicago:
+     University of Chicago Press, 2016).
+27   G. W. Leibniz, New Essays on Human Understanding, ed. and trans. Peter Remnant
+     and Jonathan Bennett (Cambridge: Cambridge University Press, 1996), 144; see as
+     well Gilles Deleuze, The Fold: Leibniz and the Baroque, trans. Tom Conley (Minne-
+     apolis: University of Minnesota Press, 1993).
+28   Leibniz, letter to Queen Sophie of Prussia, 1702, in Philosophical Essays, 188.
+29   Leibniz, letter to Queen Sophie, 188.
+30   Leibniz, letter to Queen Sophie, 191.
+31   Leibniz, letter to Queen Sophie, 192.
+32   Leibniz, letter to Queen Sophie, 192.
+33   Leibniz, letter to Henry Oldenburg, 1675, in G. W. Leibniz, Philosophical Papers
+
+364        N OT E S TO C H A PT E R 5
+
+
+
+           and Letters: A Selection, 2nd ed., ed. and trans. Leroy M. Loemker (Dordrecht:
+           Kluwer, 1969), 166.
+  34       G. W. Leibniz, “On the Universal Method,” in Leibniz, Selections, ed. and trans.
+           Philip P. Wiener (New York: Scribner, 2009), 4.
+  35       Leibniz, “On the General Characteristic,” in Philosophical Papers, 224.
+  36       Leibniz, “Dialogue,” in Philosophical Papers, 182–85.
+  37       Leibniz, The Principles of Philosophy, or, the Monadology, in Philosophical Essays,
+           §17. Subsequent references to section number are given parenthetically in the
+           text.
+  38       See Deleuze, The Fold, 119.
+  39       Leibniz, “Animadversions,” in The Leibniz-Stahl Controversy, 22.
+
+
+
+Chapter 5
+
+      1    Pascal, Pensées, trans. A. J. Krailsheimer (New York: Penguin, 1995), fragment
+           661.
+      2    Pascal, Pensées, fragment 661.
+      3    Nicolas Malebranche, Search after Truth, trans. T. Taylor (London: Bowyer, 1700),
+           1:47.
+      4    Malebranche, Search after Truth, 1:59.
+      5    John Locke, Essay, bk. 2, ch. 33, §6.
+      6    John Locke, Of the Conduct of the Understanding, 5th ed., ed. Thomas Fowler
+           (Oxford: Oxford University Press, 1901), 66.
+      7    Locke, Of the Conduct of the Understanding, 67.
+      8    Jonathan Sheehan and Dror Wahrman, Invisible Hands: Self-Organization and the
+           Eighteenth Century (Chicago: University of Chicago Press, 2015), ch. 5.
+      9    David Hume, Dialogues Concerning Natural Religion, ed. Dorothy Coleman (Cam-
+           bridge: Cambridge University Press, 2007), 24.
+  10       Hume, Dialogues, 24.
+      11   Gilles Deleuze, Empiricism and Subjectivity: An Essay on Hume’s Theory of Human
+           Nature, trans. Constantin V. Boundas (New York: Columbia University Press,
+           1991), 22.
+  12       David Hume, Treatise on Human Nature (London: John Noon, 1739–40), 1.1.4. Sub-
+           sequent citations of book, chapter, section, and paragraph are given parentheti-
+           cally in the text.
+  13       Deleuze, Empiricism, 31.
+  14       Deleuze, Empiricism, 93.
+  15       David Hume, “The Epicurean,” in David Hume, Essays Moral, Political, and Liter-
+           ary, 2 vols., ed. Eugene F. Miller (Indianapolis: Liberty Fund, 1987), 1:139–40.
+  16       Sheehan and Wahrman, Invisible Hands.
+  17       On habit and the default of the human in the Enlightenment, see Dorothea von
+           Mücke, The Practices of the Enlightenment: Aesthetics, Authorship, and the Public
+           (New York: Columbia University Press, 2015), ch. 2.
+  18       Charles Bonnet, Essai de la psychologie (London: n.p., 1755).
+  19       Denis Diderot, Elémens de physiologie, in Oeuvres complètes de Diderot, ed. Herbert
+           Dieckmann (Paris: Hermann, 2003), 17:470.
+  20       David Hartley, Observations on Man, His Frame, His Duties, and His Expectations
+           (London: S Richardson, 1749).
+
+                                                                N OT E S TO C H A PT E R 6   365
+
+
+
+Chapter 6
+
+   1   Immanuel Kant, Notes and Fragments, ed. Paul Guyer, trans. Curtis Bowman,
+       Frederick Rauscher, and Paul Guyer (Cambridge: Cambridge University Press,
+       2010), 331.
+  2    Immanuel Kant, Natural Science, ed. Eric Watkins (Cambridge: Cambridge Uni-
+       versity Press, 2015), 299.
+  3    Kant, Natural Science, 299.
+  4    Kant, Natural Science, 298.
+  5    Kant, Natural Science, 299.
+  6    On this topic, see Peter Szendy, Kant in the Land of the Extraterrestrials: Cosmopo-
+       litical Philosofictions, trans. Will Bishop (New York: Fordham University Press,
+       2013).
+  7    Kant, Notes and Fragments, 6.
+  8    Kant, Notes and Fragments, 39, 36.
+  9    Kant, Notes and Fragments: “Everything that happens is sufficiently determined,
+       but not from appearances, rather in accordance with laws of appearance” (254).
+ 10    Kant, Notes and Fragments, 254.
+  11   Theodor Adorno, Kant’s “Critique of Pure Reason” (1959), ed. Rolf Tiedemann,
+       trans. Rodney Livingstone (Stanford: Stanford University Press, 2001), 129.
+  12   Immanuel Kant, Critique of Pure Reason, ed. and trans. Paul Guyer and Allen W.
+       Wood (Cambridge: Cambridge University Press, 1998). Citations in the text will
+       be to the first (A) edition and the second (B) edition.
+ 13    Jennifer Mensch, Kant’s Organicism: Epigenesis and the Development of Critical Phi-
+       losophy (Chicago: University of Chicago Press, 2013). I borrow the term “individu-
+       ation” from Gilbert Simondon. See Simondon, Individuation in Light of Notions of
+       Form and Information, trans. Taylor Adkins (Minneapolis: University of Minne-
+       sota Press, 2020).
+  14   As Hannah Ginsborg writes in The Normativity of Nature: Essays on Kant’s Critique
+       of Judgement (Oxford: Oxford University Press, 2014), “It is only by virtue of
+       taking a normative attitude to one’s mental activity that one can regard it as gov-
+       erned by rules, which in turn is required for recognizing the objects we perceive
+       as falling under empirical concepts” (169).
+ 15    See Catherine Malabou, Before Tomorrow: Epigenesis and Rationality, trans. Caro-
+       lyn Shread (Cambridge: Polity, 2016), for a deep analysis of Kant on this question
+       and for an overview of the debate on epigenesis among Kant scholars.
+ 16    In his refutation of Idealism, Kant says, “Whether this or that putative experience
+       is not mere imagination [or dream or delusion, etc.] must be ascertained accord-
+       ing to its particular determinations and through its coherence with the criteria of
+       all actual experience” (B279).
+  17   See Alison Laywine, “Problems and Postulates: Kant on Reason and Understand-
+       ing,” Journal of the History of Philosophy 36, no. 2 (1998): 279–309.
+  18   On the importance of unity for Kant, see, e.g., Susan Neiman, The Unity of Reason:
+       Rereading Kant (Oxford: Oxford University Press, 1994); A. Nuzzo, Kant and the
+       Unity of Reason (Oxford: Oxford University Press, 1997); and Paul Guyer, “The
+       Unity of Reason: Pure Reason as Practical Reason in Kant’s Early Conception of
+       the Transcendental Dialectic,” Monist 72 (1989): 139–67.
+ 19    Immanuel Kant, Critique of Practical Reason, ed. and trans. Mary Gregor (Cam-
+       bridge: Cambridge University Press, 1997), 85.
+
+366       N OT E S TO C H A PT E R 7
+
+
+
+  20      Kant, Critique of Practical Reason, 81–82.
+  21      Kant, Critique of Practical Reason, 85.
+  22      Kant, Critique of Practical Reason, n. 11.
+  23      Autonomous—but perhaps not fully self-enclosed? As Kant tells us, in the First
+          Critique, some minds can imitate rational thought having learned and digested “a
+          system of philosophy.” As long as the principles and definitions are not disputed
+          and left intact, this mind gives a simulation of active thought. However, this
+          person “has formed himself from an alien reason” and was not self-generated;
+          he is like “a plaster cast of a living human being” (A836/B865). As we see with
+          earlier Enlightenment figures, the openness of the mind to “alien” thought is also
+          the very possibility of education. What does it mean for Kant if the mind can be
+          something it is not—a cognition of another mind? Of course, Kant dismissed the
+          idea that there could be “a faculty of mind to stand in a community of thoughts
+          with other men (no matter how distant they may be)” as “entirely groundless, be-
+          cause it cannot be grounded in experience and its known laws” (A222/B270). As
+          we will see, this slippage will come back to haunt Kant’s later reflections on the
+          order and organization of nature.
+
+
+
+Chapter 7
+
+      1   Immanuel Kant, Critique of Judgment, trans. Werner S. Pluhar (Indianapolis:
+          Hackett, 1987), 265.
+      2   Kant, Critique of Judgment, 274.
+      3   See Ginsborg, The Normativity of Nature.
+      4   Kant, Critique of Judgment, 34.
+      5   Kant, Critique of Judgment, 255.
+      6   Kant, Critique of Judgment, 248–49.
+      7   Kant, Critique of Judgment, 271. On Nature’s “technic,” see Pheng Cheah, “Human
+          Freedom and the Technic of Nature: Culture and Organic Life in Kant’s Third
+          Critique,” differences 14, no. 2 (2003): 1–26.
+      8   Kant, Critique of Judgment, 248.
+      9   Kant, Critique of Judgment, 252.
+  10      Kant, Critique of Judgment, 252.
+  11      Immanuel Kant, Opus Postumum, ed. and trans. Eckart Förster and Michael Rosen
+          (Cambridge: Cambridge University Press, 1995), 64.
+  12      Kant, Critique of Judgment, 254.
+  13      Kant, Critique of Judgment, 253.
+  14      Kant, Critique of Judgment, 253.
+  15      See James L. Larson, Interpreting Nature: The Science of Living Form from Linnaeus
+          to Kant (Baltimore: Johns Hopkins University Press, 1994).
+  16      Kant, Critique of Judgment, 311.
+  17      Kant, Critique of Judgment, 306.
+  18      Kant, Opus Postumum, 85.
+  19      Immanuel Kant, Anthropology from a Pragmatic Point of View, in Kant, Anthropol-
+          ogy, History, and Education, ed. Günter Zöller and Robert B. Louden, trans. Mary
+          Gregor, Günter Zöller, and Robert B. Louden (Cambridge: Cambridge University
+          Press, 2007), 306.
+  20      Kant, Anthropology, 293.
+
+                                                               N OT E S TO C H A PT E R 9   367
+
+
+
+  21   Kant, Anthropology, 247.
+ 22    Kant, Anthropology 283.
+ 23    Kant, Anthropology, 417–18.
+ 24    Kant, Anthropology, 418.
+
+
+
+Chapter 8
+
+   1   Karl Marx, Capital, 1:ch. 15. Available at https://www.marxists.org/archive/marx
+       /works/1867-c1/ch15.htm. Accessed Jan. 6, 2023.
+  2    Karl Marx, “Fragment on Machines,” from the Grundrisse, available at https://
+       thenewobjectivity.com/pdf/marx.pdf. Accessed 1/6/2023.
+  3    Charles Babbage, Science and Reform: Selected Works of Charles Babbage (Cam-
+       bridge: Cambridge University Press, 1989), 39.
+  4    See Simon Schaffer, “Babbage’s Intelligence: Calculating Engines and the Factory
+       System,” Critical Inquiry 21, no. 1 (1994): 203–27.
+  5    William J. Ashworth, “Memory, Efficiency, and Symbolic Analysis: Charles Bab-
+       bage, John Herschel, and the Industrial Mind,” Isis 97, no. 4 (1986): 629–53.
+  6    Ashworth, “Memory,” 648.
+  7    Charles Babbage and John Herschel, preface to Memoirs of the Analytical Society
+       1813 (Cambridge: Cambridge University Press, 1813), i.
+  8    Charles Babbage, The Exposition of 1851, ch. 13, “Calculating Engines,” in The
+       Works of Charles Babbage, ed. Martin Campbell-Kelly (New York: New York Uni-
+       versity Press, 1989), 10:104.
+  9    Charles Babbage, Charles Babbage and His Calculating Engines: Selected Writings
+       (New York: Dover, 1961), 55.
+ 10    L. F. Manabrea, Sketch of the Analytical Engine Invented by Charles Babbage, Esq.,
+       with Notes by the Translator, trans. Ada Lovelace (London: Taylor, 1843), note A,
+       694.
+  11   Ada Lovelace, letter to Woronzow Greig, Nov. 15, 1844, printed in Betty Alexandra
+       Toole, Ada, Enchantress of Numbers: Poetical Science (Sausalito, CA: Critical Con-
+       nection, 2010), ch. 18, Apple Books.
+
+
+
+Chapter 9
+
+   1   Alfred Smee, The Process of Thought Adapted to Words and Language, Together with
+       a Description of the Relational and Differential Machines (London: Longman, 1851),
+       ix.
+  2    Hermann von Helmholtz, Vortrãge und Reden, 4th ed. (Braunschweig: Vieweg,
+       1896), 15.
+  3    Smee, Process, 30. Subsequent citations of this work are given parenthetically in
+       the text.
+  4    George Boole, The Laws of Thought: An Investigation of the Laws of Thought on
+       Which Are Founded the Mathematical Theories of Logic and Probabilities (London:
+       Macmillan, 1854), 24.
+  5    On the historical development of the idea of the coup d’ceil, see Lorraine Daston,
+       “The Coup d’Oeil: On a Mode of Understanding,” Critical Inquiry 4, no. 2 (2019):
+       307–31.
+
+368        N OT E S TO C H A PT E R 9
+
+
+
+      6    John Stuart Mill, A System of Logic Ratiocinative and Inductive, Being a Connected
+           View of the Principles of Evidence and the Methods of Scientific Investigation (Lon-
+           don: Longmans, 1891), 124a.
+      7    William Thomson, An Outline of the Necessary Laws of Thought: A Treatise on Pure
+           and Applied Logic, 2nd ed. (London: William Pickering, 1849), 309.
+      8    Thompson, An Outline, 90.
+      9    W. Stanley Jevons, The Principles of Science: A Treatise on Logic and Scientific
+           Method (London: Macmillan, 1887), 20. Subsequent citations of this work are
+           given parenthetically in the text.
+  10       “It is the capability of mutual substitution which gives such great value to the
+           modern methods of mechanical construction, according to which all the parts
+           of a machine are exact facsimiles of a fixed pattern. The rifles used in the British
+           army are constructed on the American interchangeable system, so that any part
+           of any rifle can be substituted for the same part of another. A bullet fitting one
+           rifle will fit all other of the same bore. Whitworth has extended the same system
+           to the screws and screw-bolts used in connecting together the parts of machines,
+           by establishing a series of standard screws.” Jevons, Principles, 20–21.
+      11   Georg Wilhelm Friedrich Hegel, The Science of Logic, ed. and trans. George Di
+           Giovanni (Cambridge: Cambridge University Press, 2010), 181.
+  12       Charles Sanders Peirce, “Deduction, Induction, and Hypothesis,” in Chance, Love,
+           and Logic: Philosophical Essays, ed. Morris Cohen (London: Kegan Paul, 1923),
+           131–53.
+  13       On abduction and conjecture, see Jaako Hintikka, “What Is Abduction? The Fun-
+           damental Problem of Contemporary Epistemology,” in Hintikka, Jaakko Hintikka
+           Selected Papers, vol. 5, Inquiry as Inquiry: A Logic of Scientific Discovery (Dordrecht:
+           Springer, 1999).
+  14       Peirce, “Deduction,” 142.
+  15       Ernest Naville, La logique de l’hypothèse (Paris: Germer Baillière, 1880), 253.
+  16       Charles Sanders Peirce, The Collected Papers of Charles Sanders Peirce, vol. 5, ed.
+           Charles Hartshorne and Paul Weiss (Cambridge, MA: Harvard University Press,
+           1974), 181.
+  17       Charles Sanders Peirce, “Logical Machines” (1887), in The Writings of Charles
+           Sanders Peirce, vol. 5, ed. Max H. Fisch (Bloomington: Indiana University Press,
+           1993), 65.
+  18       See K. L. Ketner and A. F. Stewart, “The Early History of Computer Design:
+           Charles Sanders Peirce and Marquand’s Logical Machines,” Princeton University
+           Library Chronicle 45, no. 3 (1984): 187–224.
+  19       Peirce, Collected Papers, vol. 2, §59.
+  20       Peirce, “Deduction,” 152.
+  21       Peirce, Collected Papers, vol. 2, §56.
+  22       See David W. Bates, “Unstable Brains and Ordered Societies: On the Conceptual
+           Origins of Plasticity, circa 1900,” in Distributed Perception: Resonances and Axiolo-
+           gies, ed. Natasha Lushetich and Iain Campbell (London: Routledge, 2021), 122–24.
+           Cf. Peter Skagestad, “Thinking with Machines: Intelligence Augmentation, Evo-
+           lutionary Epistemology, and Semiotic,” Journal of Social and Evolutionary Systems
+           16, no. 2 (1993), 163–68: “People are like machines, in that the unaided individual
+           is as limited by his/ her design as is the machine. But people do not think un-
+           aided, and therein lies the difference” (172).
+  23       Pierre Janet, L’automatisme psychologique: Essai de psychologie expérimentale sur
+
+                                                                 N OT E S TO C H A PT E R 1 1   369
+
+
+
+       les formes inférieures de l’activité humaine (Paris: Alcan, 1889), 473. Subsequent
+       citations are given parenthetically in the text.
+
+
+
+Chapter 10
+
+   1   Hermann von Helmholtz, “On the Interaction of Natural Forces,” London, Edin-
+       burgh, and Dublin Philosophical Magazine and Journal of Science 11, no. 75 (1856):
+       490.
+  2    Helmholtz, “On the Interaction of Natural Forces,” 509.
+  3    On the French context, see John Tresch’s wonderful study, The Romantic Machine:
+       Science and Technology after Napoleon (Chicago: University of Chicago Press,
+       2016).
+  4    Balfour Stewart, The Conservation of Energy; with an Appendix, Treatise of the Vital
+       and Mental Applications of the Doctrine (New York: D. Appleton, 1874), appendix.
+       Subsequent citations are given parenthetically in the text.
+  5    James Clerk Maxwell, “Paradoxical Philosophy,” Nature 19, no. 477 (1878): 141–43.
+  6    James Clerk Maxwell, “Essay for the Apostles of Nature on ‘Analogies in Nature’”
+       (Feb. 1856), in The Scientific Letters and Papers of James Clerk Maxwell, 3 vols.,
+       ed. P. M. Harman (Cambridge: Cambridge University Press, 1990–2002),
+       2:379–80.
+   7   James Clerk Maxwell, letter to Francis Galton, Feb. 26, 1879, in Maxwell, Scientific
+       Letters and Papers, 3:757.
+  8    Maxwell, “Essay for the Apostles of Nature,” 380.
+  9    Maxwell, “Essay for the Apostles of Nature,” 380.
+  10   James Clerk Maxwell, “Essay for the Eranus club on Science and Free Will” (1873),
+       in Maxwell, Scientific Letters and Papers, 2:817.
+  11   A. A. Cournot, Matérialisme, vitalisme, rationalisme: Etudes sur l’emploi des données
+       de la science en philosophie (1875), ed. Claire Salomon-Bayet, in A. A. Cournot,
+       Oeuvres complètes, 2nd ed., 11 vols. (Paris: Vrin, 1987), 5:53, 71–72.
+  12   Cournot, Matérialisme, 5:74.
+  13   Cournot, Matérialisme, 5:74.
+  14   Cournot, Matérialisme, 5:75.
+
+
+
+Chapter 11
+
+   1   See, e.g., Barbara Tizard, “Theories of Brain Localization from Flourens to Lash-
+       ley,” Medical History 3, no. 2 (1959): 132–45; and S. Zola-Morgan, “Localization of
+       Brain Function: The Legacy of Franz Joseph Gall (1758–1828),” Annual Review of
+       Neuroscience 18 (1995): 359–83.
+  2    Marie-Jean-Pierre Flourens, Recherches expérimentales sur les propriétés et les
+       fonctions du système nerveux dans les animaux vertébrés, 2nd ed. (Paris: J. B.
+       Baillière, 1842), preface, xv. Subsequent citations are given parenthetically in the
+       text.
+  3    Geert-Jan Rutten, “Broca-Wernicke Theories: A Historical Perspective,” Handbook
+       of Clinical Neurology 185 (2022): 25–34.
+  4    Karl Zilles, “Brodmann: A Pioneer of Human Brain Mapping—His Impact on
+       Concepts of Cortical Organization,” Brain 141, no. 11 (2018): 3262–78.
+
+370        N OT E S TO C H A PT E R 1 2
+
+
+
+      5    H. Beaunis, Nouveaux éléments sur la physiologie humaine (Paris: Baillière, 1876),
+           1017.
+      6    Beaunis, Nouveaux éléments, 1017.
+      7    Charles-Édouard Brown-Séquard, “Aphasia as an Effect of Brain-Disease,” Dublin
+           Journal of Medical Science 63 (1877): 212.
+      8    Brown-Séquard, “Aphasia,” 219–20. See as well Charles-Édouard Brown-Séquard,
+           “The Localisation of the Functions of the Brain Applied to the Use of the Tre-
+           phine,” The Lancet 110, no. 2812 (1877): 107–8.
+      9    Quoted in Stanley Finger, Origins of Neuroscience: A History of Explorations into
+           Brain Function (Oxford: Oxford University Press, 2001), 53.
+  10       David Ferrier, Functions of the Brain (London: Smith, 1886), 435.
+      11   See Ferrier, Functions, 451, for the example of the right brain controlling speech
+           but the left brain controlling writing.
+  12       Ferrier, Functions, 467.
+  13       On Hughlings Jackson’s topological theory of the brain, see Nima Bassiri, “Dis-
+           locations of the Brain: Subjectivity and Cerebral Topology from Descartes to
+           Nineteenth-Century Neuroscience” (PhD diss., University of California, Berkeley,
+           2010).
+  14       John Hughlings Jackson, Evolution and Dissolution of the Nervous System, in Se-
+           lected Writings of John Hughlings Jackson, vol. 2 (London: Hodder and Stoughton,
+           1932), 67.
+  15       Hughlings Jackson, Evolution and Dissolution, 78.
+  16       Hughlings Jackson, Evolution and Dissolution, 68.
+  17       Charles Scott Sherrington, The Integrative Action of the Nervous System (Oxford:
+           Oxford University Press, 1906). Subsequent citations are given parenthetically
+           in the text.
+  18       C. Judson Herrick, “The Evolution of Intelligence and Its Organs,” Science, n.s., 31,
+           no. 784 (1910): 16.
+  19       Ralph Lillie, “What Is Purposive and Intelligent Behavior from the Physiological
+           Point of View?,” Journal of Philosophy, Psychology and Scientific Methods 12, no. 22
+           (1915): 592–93.
+  20       Lillie, “What Is Purposive and Intelligent Behavior,” 609.
+
+
+
+Chapter 12
+
+      1    Charles Mercier, The Nervous System and the Mind: A Treatise on the Dynamics of
+           the Human Organism (London: Macmillan, 1888), 130.
+      2    George Lewes, Life and Mind, 3rd ser. (Boston: Houghton, 1879), 153. Subsequent
+           citations are given parenthetically in the text.
+      3    Hermann von Helmholtz, Handbuch der physiologischen Optik (Leipzig: Voss,
+           1867), 431.
+      4    It is worth noting that Comte suggested, near the end of his life, in the so-called
+           “Letters on Illness” (1854–85), that we should see the brain as a site of mediation
+           and not as a machine generating thought. The brain, he wrote, was a “permanent
+           double placenta between the individual and Humanity.” Jean François Eugène
+           Robinet, Notice sur l’oeuvre et sur la vie d’Auguste Comte (Paris: Dunod, 1860),
+           533. Which also meant that the social organization was always going to be an
+
+                                                                N OT E S TO C H A PT E R 13   371
+
+
+
+       essential intermediary between the individual mind and its external world, its
+       “milieu.”
+  5    Charles Darwin, Expression of the Emotions in Man and Animals (London: Murray,
+       1873), 15. Subsequent citations are given parenthetically in the text.
+  6    Charles Darwin, The Descent of Man, and Selection in Relation to Sex, 2nd ed. (Lon-
+       don: John Murray, 1874), 610. Subsequent citations are given parenthetically in
+       the text.
+  7    On the importance of the technological concept of invention throughout Dar-
+       win’s work on evolution, see Giuliano Pancaldi, “Darwin’s Technology of Life,”
+       Isis 110, no. 4 (2019): 680–700.
+  8    George Campbell, Duke of Argyll, Primeval Man: An Examination of Some Recent
+       Speculations (New York: Boies, 1884). Originally published 1869. Subsequent cita-
+       tions are given parenthetically in the text.
+  9    “The man who first lifted a stone and threw it, practiced an art which not one of
+       the lower animals is capable of practising.” Argyll, Primeval Man, 48.
+ 10    Lazarus Geiger, Contributions to the History of the Development of the Human Race:
+       Lectures and Dissertations, trans. David Asher (London: Trübner and Co., 1880).
+       Subsequent citations are given parenthetically in the text.
+  11   Eduard Reich, “Der” Mensch und die Seele: Studien zur physiologischen und philoso-
+       phischen Anthropologie und zur Physik des täglichen Lebens (Berlin: Nicolai, 1872),
+       178.
+  12   Ernst Kapp, Grundlinien einer Philosophie der Technik: Zur Entstehungsgeschichte der
+       Kultur aus neuen Gesichtspunkten (Braunschweig: Westermann, 1877); in English
+       translation as Kapp, Elements of a Philosophy of Technology: On the Evolutionary
+       History of Culture, ed. Jeffrey West Kirkwood and Leif Weatherby, trans. Lauren K.
+       Wolfe (Minneapolis: University of Minnesota Press, 2018). Subsequent citations
+       of the English translation are given parenthetically in the text.
+  13   The intimate connection between communication technologies and experimen-
+       tal neurology in this period is brilliantly demonstrated in works such as Laura
+       Otis, Networking: Communicating with Bodies and Machines in the Nineteenth Cen-
+       tury (Ann Arbor: University of Michigan Press, 2001), esp. ch. 1; and Friedrich Kit-
+       tler, Gramaphone, Film, Typewriter, trans. Geoffrey Winthrop-Young and Michael
+       Wutz (Stanford: Stanford University Press, 1999), originally published 1986.
+
+
+
+Chapter 13
+
+   1   Charles Richet, “Défense (fonctions de),” in Dictionnaire de physiologie, 10 vols.
+       (Paris: Alcan, 1895), 4:721.
+  2    Énile Boutroux, De la contingence des lois de la nature (Paris: Alcan, 1874). In En-
+       glish as The Contingency of the Laws of Nature, trans. Fred Rothwell (Chicago:
+       Open Court, 1916), 69–70. Subsequent citations are given parenthetically in the
+       text.
+  3    James Mark Baldwin, Mental Development in the Child and the Race: Methods and
+       Processes, 2nd ed. (New York: Macmillan, 1900), 174–75.
+  4    Baldwin, Mental Development, 175–76.
+  5    James Mark Baldwin, “A New Factor in Evolution,” American Naturalist 30, no. 354
+       (1896): 445. Subsequent citations are given parenthetically in the text.
+
+372        N OT E S TO C H A PT E R 1 5
+
+
+
+      6    James Mark Baldwin, The Individual and Society; or, Psychology and Sociology
+           (Boston: Badger, 1911).
+      7    Charles Sanders Peirce, “Logic as Semiotic: The Theory of Signs,” in Philosophical
+           Writings of Peirce (New York: Dover, 1940).
+      8    Edward Bradford Titchener, A Text-Book of Psychology (New York: Macmillan,
+           1910), 456.
+      9    Charles Hubbard Judd, Psychology: General Introduction (New York: Scribner,
+           1907), 366.
+  10       C. H. Judd, “Evolution and Consciousness,” Psychological Review 17, no. 2 (1910): 80.
+      11   Judd, “Evolution,” 85.
+  12       Judd, “Evolution,” 87.
+  13       Judd, “Evolution,” 87.
+  14       Henri Bergson, Creative Evolution, trans. Arthur Mitchell (New York: Henry Holt,
+           1911), 141. Subsequent citations are given parenthetically in the text.
+  15       Henri Bergson, “The Soul and the Body,” in Mind-Energy: Lectures and Essays,
+           trans. H. Wildon Carr (London: Macmillan, 1920), 45. Not insignificantly,
+           Bergson was very interested in parapsychological phenomena, although with a
+           critical eye. This exteriorization of thought beyond the body—what was called
+           telepathy—may well be explained, he suggested, by action at a distance, as in
+           the case of electricity. Perhaps our minds are always being influenced by other
+           minds, he speculated, but below our threshold of conscious awareness. See Berg-
+           son, “Phantasms of the Living” and “Psychical Research,” in Mind-Energy.
+  16       Werner Sombart, “Technology and Culture,” in Sociological Beginnings, ed. and
+           trans. Christopher Adair-Toteff (Liverpool: Liverpool University Press, 2005), 97.
+  17       Sombart, “Technology,” 102.
+
+
+
+Chapter 14
+
+      1    Filippo Marinetti, “Extended Man and the Kingdom of the Machine” (1910), in
+           Critical Writings, ed. Günter Berghaus, trans. Doug Thompson (New York: Farrar,
+           2006), 86.
+
+
+
+Chapter 15
+
+      1    Samuel Taylor Coleridge, Lectures on Literature, 2 vols., ed. R. A. Foakes (London:
+           Routledge & Kegan Paul, 1987), 2:221–22.
+      2    Arthur Schopenhauer, “The Art of Literature,” in The Essays of Arthur Schopen-
+           hauer, trans. T. Bailey Saunders (New York: A. L. Burt, 1902).
+      3    Henri F. Ellenberger, The Discovery of the Unconscious: The History and Evolution of
+           Dynamic Psychiatry (New York: Basic Books, 1970).
+      4    Herbert Spencer, The Principles of Psychology (London: Longman, 1855), 495.
+      5    Eduard von Hartmann, Philosophie des Unbewussten (Berlin: C. Duncker, 1869).
+      6    William B. Carpenter, Principles of Mental Physiology with Their Applications to the
+           Training and Discipline of the Mind, and the Study of Its Morbid Conditions (London:
+           Henry S. King, 1874), 515.
+      7    L. Dumont, “Une philosophie nouvelle en Allemagne” (1872), in Un débat sur
+           l’inconscient avant Freud: La reception de Eduard von Hartmann chez les psychologues
+
+                                                               N OT E S TO C H A PT E R 15   373
+
+
+
+     et philosophes français, ed. Serge Nicolas and Laurent Fedi (Paris: L’Harmattan,
+     2008), 73.
+ 8   Otis, Networking.
+9    Charles Mercier, The Nervous System and the Mind: A Treatise on the Dynamics of
+     the Human Organism (London: Macmillan, 1888), 190, 370.
+10   Joseph John Murphy, Habit and Intelligence, in Their Connexion with the Laws of
+     Matter and Force: A Series of Scientific Essays, 2 vols. (London: Macmillan, 1869),
+     2:47.
+11   Henry Maudsley, On the Method of the Study of Mind: An Introductory Chapter to a
+     Physiology and Pathology of the Mind (London: John Churchill, 1865), 19.
+12   Francis Galton, “Psychometric Facts,” Popular Science Monthly 14 (1879): 779–80.
+13   Thomas Huxley, “On the Hypothesis That Animals Are Automata,” Fortnightly
+     Review 95 (1874): 550–80.
+14   Simon Schaffer, “Enlightened Automata,” in The Sciences in Enlightened Europe,
+     ed. William Clark, Jan Golinski, and Simon Schaffer (Chicago: University of Chi-
+     cago Press, 1999), 126–65.
+15   Arthur Rothenberg, The Emerging Goddess: The Creative Process in Art, Science, and
+     Other Fields (Chicago: University of Chicago Press, 1979), 395–96.
+16   Helmholtz, Vorträge und Reden, 15.
+17   Henri Poincaré, “L’invention mathématique” (1908), reprinted in Jacques Had-
+     amard, Essai sur la psychologie de l’invention dans la domaine mathématique (Paris:
+     Jacques Gabay, 2007), 144.
+18   Graham Wallas, The Art of Thought (London: Jonathan Cape, 1931), 80 ff.
+19   This research is summarized in Karl Lashley, Brain Mechanisms and Intelligence:
+     A Quantitative Study of Injuries to the Brain (Chicago: University of Chicago Press,
+     1929).
+20   Wallas, Art, 36–45, at 44–45.
+21   William James, “Are We Automata?,” Mind 4 (1879): 5.
+22   William James, “Great Men, Great Thoughts , and the Environment,” Atlantic
+     Monthly 46 (1880): 457.
+23   See Catherine Malabou, The Future of Hegel: Plasticity, Temporality and Dialectic,
+     trans. Lisabeth During (London: Routledge, 2005).
+24   William James, Principles of Psychology, 2 vols. (New York: Holt, 1890), 1:105.
+25   See Donna Haraway, Primate Visions: Gender, Race, and Nature in the World of Mod-
+     ern Science (London: Routledge, 1990), although there is only a brief reference to
+     Köhler in the introduction, on the colonial siting of German primate research in
+     the Canary Islands (21).
+26   Wolfgang Köhler, The Mentality of Apes, trans. Ella Winter (London: Kegan Paul,
+     1925), 2.
+27   “The genuine achievement takes place as a single continuous occurrence, a unity,
+     as it were, in space as well as in time. . . . A successful chance solution consists of
+     an agglomeration of separate movements, which start, finish, start again, remain
+     independent of one another in direction and speed, and only in a geometrical
+     summation start at the starting-point, and finish at the objective.” Köhler, Men-
+     tality, 16–17.
+28   Köhler, Mentality, 125–27.
+29   “When a man or animal takes a roundabout way (in the ordinary sense of the
+     word) to his objective the beginning—considered by itself and regardless of the
+     further course of the experiment—contains at least one component which must
+
+374    N OT E S TO C H A PT E R 1 5
+
+
+
+       seem irrelevant; in very indirect routes there are usually some parts of the way
+       which, when considered alone, seem in contradiction to the purpose of the task,
+       because they lead away from the goal.” Köhler, Mentality, 103–4.
+  30   Max Wertheimer, Productive Thinking (New York: Harper, 1945), 24, 34, 41.
+  31   Karl Duncker, Zur Psychologie des produktive Denken (Berlin: Springer, 1935). In
+       English as On Problem-Solving, trans. Lynne S. Lees, Psychological Monographs,
+       no. 270 (Washington, DC: American Psychological Association, 1945), 4–6, 8, 29.
+  32   Kurt Koffka, Principles of Gestalt Psychology (New York: Harcourt, Brace, 1935),
+       684.
+  33   Wolfgang Köhler, “Some Gestalt Problems,” in A Sourcebook of Gestalt Psychology,
+       ed. Willis D. Ellis (London: Kegan Paul, 1938), 66.
+  34   Wolgang Köhler, Gestalt Psychology (New York: Liveright, 1947), 114, 193.
+  35   Koffka, Principles, 105.
+  36   Wolfgang Köhler, Die physischen Gestalten in Ruhe und im stationären Zustand
+       (Braunschweig: Vieweg, 1920).
+  37   Maurice Merleau-Ponty, The Structure of Behavior, trans. A. L. Fisher (London:
+       Methuen, 1942), 39.
+  38   E. C. Tolman and C. H. Honzik, “Insight in Rats,” University of California Publica-
+       tions in Psychology 4, no. 14 (1930): 230.
+  39   See Kurt Koffka, The Growth of the Mind: An Introduction to Child Psychology (New
+       York: Harcourt, 1925): “It would then follow that plasticity must be something
+       more than memory—something more than the retention of an achievement by
+       the simple means of effecting a new combination of reaction—pathways which
+       the organism already possesses—and we could then rightfully say that by virtue
+       of his plasticity man is superior to all other living creatures” (125).
+  40   Wertheimer, Productive Thinking, 24, 34, 41.
+  41   Joshua Gregory, “Neo-Realism and the Origin of Consciousness,” Philosophical
+       Review 29, no. 3 (1920): 243.
+  42   Gregory, “Neo-Realism,” 244.
+  43   Hugh A. Reyburn, “A Functional Theory of Knowledge II,” Journal of Philosophical
+       Studies 2, no. 8 (1927): 463–76, at 463.
+  44   Henri Wallon, “La conscience et la vie subconsciente,” in George Dumas, Nouveau
+       traité de psychologie vol. 7, fascicule 1 (Paris: Alcan, 1942), 4.
+  45   Achille Urbain, Psychologie des animaux sauvages: Instinct-Intelligence (Paris:
+       Flammarion, 1940), 91.
+  46   George Boas, “Insight, Habituation, and Enjoyment,” with a response by Robert
+       Francis Creegan, Journal of Philosophy 36, no. 26 (1939): 709–715, at 710.
+  47   “Précisément grace à ce qu’elle est l’acte exceptionnel, l’invention peut être
+       un guide précieux dans l’exploration de ce monde si complexe et encore si
+       mystérieux qu’est la pensée humaine.” Jacques Hadamard, “Subconscient, in-
+       tuition, et logique dan la recherche scientifique,” Conference faite au Palais de la
+       Découverte, Dec. 3, 1945 (Paris: Palais de la Découverte, 1945), 21.
+  48   Emile Guyénot, “La vie comme invention,” in Fondation “Pour la science,” Centre
+       International de Synthèse, Neuvième semaine internationale de synthèse: L’inven-
+       tion (Paris: Alcan, 1938), 186, 188, 192.
+  49   Tournay, “Physiologie spéciale du système nerveux,” in Georges Dumas, Nouveau
+       traité de psychologie, vol. 1, fascicule 3 (Paris: Presses universitaires de France,
+       1938), 288. See as well Henri Delacroix, Les grandes formes de la vie mentale (Paris:
+       Alcan, 1934): “La plasticité totale de la matière vivante asservirait complètement
+
+                                                               N OT E S TO C H A PT E R 16   375
+
+
+
+       l’être au milieu. C’est parce que l’organisme résiste aux changements incessants
+       du milieu que ses variations, difficilement acquises, persistent et deviennent à
+       leur tour le point de départ d’autres variations” (89).
+ 50    Lev Vygotsky, Mind in Society: The Development of Higher Psychological Processes,
+       ed. Michael Cole, Vera John-Steiner, Sylvia Scribner, and Ellen Souberman (Cam-
+       bridge, MA: Harvard University Press, 1979), 37. Subsequent citations are given
+       parenthetically in the text.
+  51   Ernst Cassirer, The Philosophy of Symbolic Forms, vol. 3: The Phenomenology of
+       Knowledge, trans. Ralph Manheim (New Haven, CT: Yale University Press, 1955),
+       275.
+ 52    Cassirer, The Philosophy of Symbolic Forms, 3:276.
+ 53    Cassirer, The Philosophy of Symbolic Forms, 3:277.
+ 54    Cassirer, The Philosophy of Symbolic Forms, 3:277 n. 117.
+ 55    Koffka, Growth of the Mind, 2. See also Koffka, Principles, 422.
+ 56    Henri Delacroix, Les grandes formes de la vie mentale (Paris: Alcan, 1934):
+       “L’homme est surtout adapté à ce qui n’est pas” (6).
+ 57    Henri Delacroix, Le langage et la pensée, 2nd ed. (Paris: Alcan, 1930), 115.
+ 58    Eugenio Rignano, The Psychology of Reasoning, trans. Winifred A. Holl (London:
+       Kegan Paul, 1923), 7.
+ 59    Alfred North Whitehead, Science and the Modern World (London: Mentor, 1925),
+       207.
+
+
+
+Chapter 16
+
+   1   Shepherd Ivory Franz, “Discussion: Cerebral Adaptation vs. Cerebral Organol-
+       ogy,” Psychological Bulletin 14, no. 4 (1917): 137–38.
+  2    Franz, “Discussion,” 138.
+  3    Franz, “Discussion,” 140; see also Shepherd Ivory Franz, “Cerebral-Mental Rela-
+       tions,” Psychological Review 28, no. 2 (1921): 81–95.
+  4    Shepherd Ivory Franz and Karl Lashley, “The Retention of Habits by the Rat after
+       Destruction of the Frontal Portion of the Cerebrum,” Psychobiology 1, no. 1 (1917):
+       17.
+  5    Shepherd Ivory Franz, “Conceptions of Cerebral Functions,” Psychological Review
+       30, no. 6 (1923): 444–45.
+  6    Franz, “Conceptions,” 445.
+  7    Henry Head, Aphasia and Kindred Disorders of Speech (Cambridge: Cambridge Uni-
+       versity Press, 1926), 445. Subsequent citations are given parenthetically in
+       the text.
+  8    Stefanos Geroulanos and Todd Meyers, The Human Body in the Age of Catastrophe:
+       Brittleness, Integration, Science, and the Great War (Chicago: University of Chicago
+       Press, 2018).
+  9    Walter B. Cannon et al., The Nature and Treatment of Wound Shock and Allied Con-
+       ditions (Chicago: American Medical Association, 1918).
+ 10    Walter B. Cannon, The Wisdom of the Body (New York: Norton, 1932), 25.
+  11   J. B. S. Haldane, The New Physiology and Other Addresses (London: Charles Griffin,
+       1919). Subsequent citations are given parenthetically in the text.
+  12   On Lashley’s work, see Nadine Weidman, Constructing Scientific Psychology: Karl
+       Lashley’s Mind-Brain Debates (Cambridge: Cambridge University Press, 1999).
+
+376       N OT E S TO C H A PT E R 1 7
+
+
+
+          As Weidman demonstrates, Lashley was a profound racist, and it is therefore
+          astonishing that one cannot easily find traces of this in his research publica-
+          tions. There is, it seems, no hint of a racialized nervous system in Lashley’s own
+          thinking.
+  13      Lashley, Brain Mechanisms, 176.
+  14      Lashley, Brain Mechanisms, 25.
+  15      Lashley, Brain Mechanisms, 154.
+  16      Karl Lashley, “Basic Neurological Mechanisms in Behavior,” Psychological Review,
+          37, no. 1 (1930): 1–24.
+  17      Constantin von Monakow, Die Lokalisation im Grosshirn und der Abbau der Funk-
+          tion durch Kortikale Herde (Wiesbaden: J. F. Bergmann, 1914), 30.
+  18      Constantin von Monakow and R. Mourgue, Introduction biologique à l’étude de la
+          neurologie et désintégration de la fonction (Paris: Félix Alcan, 1928), 29.
+  19      Kurt Goldstein, Der Aufbau des Organismus: Einführing in die Biologie unter be-
+          sonderer Berücksichtigung der Ehfahrungen am kranken Menschen (The Hague:
+          Martinus Nijhoff, 1934); in English as The Organism: A Holistic Approach to Bi-
+          ology derived from Pathological Data in Man (New York: Zone, 1995). Subsequent
+          citations of the translation are given parenthetically in the text. An excellent
+          account of Goldstein’s work and the German contexts of theoretical biology can
+          be found in Anne Harrington, Reenchanted Science: Holism in German Culture from
+          Wilhelm II to Hitler (Princeton, NJ: Princeton University Press, 1996), ch. 5. The
+          complex conceptual landscape framing Goldstein’s neurological work is laid out
+          brilliantly in Geroulanos and Meyers, The Human Body.
+  20      Kurt Goldstein, Human Nature in the Light of Psychopathology (Cambridge, MA:
+          Harvard University Press, 1940), 112.
+
+
+
+Chapter 17
+
+      1   Jakob Von Uexküll, A Foray into the Worlds of Animals and Humans, trans. Joseph
+          D. O’Neil (Minneapolis: University of Minnesota Press, 2010), 41.
+      2   Jakob Von Uexküll, Leitfaden in das Studium der experimentellen Biologie der Was-
+          sertiere (Wiesbaden, 1905), 66. On the development of these ideas in Von Uex-
+          küll’s early work, see Carlo Brentari, Jakob Von Uexküll: The Discovery of the Umwelt
+          between Biosemiotics and Theoretical Biology (Dordrecht: Springer, 2015), ch. 3.
+      3   Jakob Von Uexküll, Theoretische Biologie (Berlin: Paetel, 1920); in English as
+          Theoretical Biology (New York: Harcourt, Brace, 1926). Subsequent citations of the
+          English translation are given in the text.
+      4   On the Umwelt, see Giorgio Agamben, The Open: Man and Animal, trans. Kevin
+          Attell (Stanford: Stanford University Press, 2004), §§ 10–11.
+
+
+
+Chapter 18
+
+      1   Erwin Schrödinger, What Is Life? With Mind and Matter and Autobiographical
+          Sketches (Cambridge: Cambridge University Press, 2012), 71.
+      2   Alfred J. Lotka, Principles of Physical Biology (Baltimore: Wilkins and Wilkins,
+          1925), 15. Subsequent citations are given parenthetically in the text.
+
+                                                                N OT E S TO C H A PT E R 2 1   377
+
+
+
+  3    Alfred J. Lotka, “The Intervention of Consciousness in Mechanics,” Science Prog-
+       ress in the Twentieth Century 18 (1924): 415.
+  4    Lotka, Physical Biology, 364–65.
+  5    Alfred J. Lotka, “Population Analysis as a Chapter in the Mathematical Theory of
+       Evolution,” in Essays on Growth and Form, ed. W. E. Le Gros Clark, and P. B. Meda-
+       var (Oxford: Oxford University Press, 1945), 381.
+  6    Alfred J. Lotka, “The Spread of Generations,” Human Biology 1, no. 3 (1929): 317–18.
+  7    Lotka, “Spread,” 319–20.
+  8    Lotka, “Population Analysis,” 384.
+  9    Alfred J. Lotka, “The Law of Evolution as a Maximal Principle,” Human Biology 17,
+       no. 3 (1945): 167–94. Subsequent citations are given parenthetically in the text.
+
+
+
+Chapter 19
+
+   1   William McDougall, “Men or Robots?,” Pedagogical Seminary and Journal of Ge-
+       netic Psychology 33 (1926): 71–89. Subsequent citations are given parenthetically
+       in the text.
+  2    C. Judson Herrick, The Thinking Machine (Chicago: University of Chicago Press,
+       1929). Subsequent citations are given parenthetically in the text.
+  3    Preface to the second edition of Herrick, The Thinking Machine (Chicago: Univer-
+       sity of Chicago Press, 1932).
+
+
+
+Chapter 20
+
+   1   Jacques Lafitte, “Sur la science des machines,” Revue de Synthèse 6, no. 10 (1933):
+       155. Subsequent citations are given parenthetically in the text.
+  2    On these kind of machines, see David A. Mindell, Between Human and Machine:
+       Feedback, Control, and Computing before Cybernetics (Baltimore: Johns Hopkins
+       University Press, 2000).
+  3    José Ortega y Gasset, “Thoughts on Technology” (1939), in Philosophy and Tech-
+       nology: Readings in the Philosophical Problems of Technology, ed. Carl Mitcham and
+       Robert Mackey (New York: Free Press, 1971), 292.
+  4    Ortega y Gasset, “Thoughts,” 292.
+  5    Ortega y Gasset, “Thoughts,” 292, 294.
+  6    Ortega y Gasset, “Thoughts,” 299.
+  7    Ortega y Gasset, “Thoughts,” 306.
+
+
+
+Chapter 21
+
+   1   Charles Hubbard Judd, The Psychology of Social Institutions (New York: Macmillan,
+       1926). Subsequent citations are given parenthetically in the text.
+  2    Thomas Morgan, The Scientific Basis of Evolution (New York: Norton, 1932), 203–4.
+  3    Morgan, The Scientific Basis of Evolution, 208.
+  4    Morgan, The Scientific Basis of Evolution, 214.
+  5    André Leroi-Gourhan, Evolution et techniques: L’homme et la matière (Paris: Albin
+       Michel, 1943), 472.
+
+378        N OT E S TO C H A PT E R 21
+
+
+
+      6    Ernst Cassirer, The Philosophy of Symbolic Forms, vol. 4: The Metaphysics of Sym-
+           bolic Forms, trans. John Michael Krois (New Haven, CT: Yale University Press,
+           1996). The fourth volume is a collection of texts related to the uncompleted last
+           book. Subsequent citations are given parenthetically in the text.
+      7    See Peter Gordon’s excellent contextualized account, Continental Divide: Heideg-
+           ger, Cassirer, Davos (Cambridge, MA: Harvard University Press, 2010).
+      8    As Leslie White argued in his comparison of tool-use in primates and humans,
+           what technology demonstrates in human life is not tool use per se but rather the
+           transmission of knowledge via cultural life. Leslie White, “On the Use of Tools by
+           Primates,” Journal of Comparative Psychology 34 (1942): 371.
+      9    Ernst Cassirer, “Form and Technology” (1930), in Ernst Cassirer on Form and Tech-
+           nology: Contemporary Readings, ed. Aud Sissel Hoel and Ingvild Folkvord (London:
+           Palgrave Macmillan, 2012), 304.
+  10       Cassirer, “Form and Technology,” 372.
+      11   Hans Freyer, Theorie des Objectiven Geistes: Eine Einleitung in die Kulturphilosophie
+           (Leipzig: B. G. Teubner, 1923).
+  12       Freyer, Theorie des Objectiven Geistes, 13.
+  13       Freyer, Theorie des Objectiven Geistes, 66.
+  14       Freyer, Theorie des Objectiven Geistes, 137.
+  15       Max Scheler, The Human Place in the Cosmos, trans. Manfred S. Frings (Evanston,
+           IL: Northwestern University Press, 2009). Subsequent citations are given paren-
+           thetically in the text.
+  16       Martin Heidegger, Being and Time, trans. John Macquarrie and Edward Robinson
+           (New York: Harper, 1962), 30.
+  17       Martin Heidegger, The Fundamental Concepts of Metaphysics: World, Finitude,
+           Solitude, trans. William McNeill and Nicholas Walker (Bloomington: Indiana
+           University Press, 1995).
+  18       Heidegger, Fundamental Concepts, 213.
+  19       Heidegger, Fundamental Concepts, 214.
+  20       Heidegger, Fundamental Concepts, 215.
+  21       Heidegger, Fundamental Concepts, 215. Subsequent citations are given parentheti-
+           cally in the text.
+  22       See Heidegger, Being and Time: “When, for instance, a man wears a pair of specta-
+           cles which are so close to him distantially that they are ‘sitting on his nose,’ they
+           are environmentally more remote from him than the picture on the opposite
+           wall. Such equipment has so little closeness that often it is proximally quite im-
+           possible to find. Equipment for seeing—and likewise for hearing, such as the
+           telephone receiver—has what we have designated as the inconspicuousness of
+           the proximally ready-to-hand. So too, for instance, does the street, as equipment
+           for walking” (141).
+  23       Martin Heidegger, Contributions to Philosophy (of the Event), trans. Daniela
+           Vallega-Neu and Richard Rojcewicz (Bloomington: Indiana University Press,
+           2012), 37.
+  24       This is the critique Bernard Stiegler will make in Technics and Time, vol. 2: Disori-
+           entation, trans. Stephen Barker (Stanford: Stanford University Press, 2008).
+  25       Heidegger, Contributions, 38.
+  26       Heidegger, Contributions, 69–71.
+  27       Helmuth Plessner, Levels of Organic Life and the Human: An Introduction to
+           Philosophical Anthropology, trans. Millay Hyatt (New York: Fordham University
+
+                                                               N OT E S TO C H A PT E R 23   379
+
+
+
+      Press, 2019). Subsequent citations given in the text are to the English edition;
+      the German text is Helmuth Plessner, Die Stufen des Organischen und Der Mensch:
+      Einleitung in die philosophische Anthropologie, 3rd ed. (Berlin: De Gruyter, 1975).
+ 28   Plessner here cites the work of Buytendijk. See, e.g., F. Buytendijk, Psychologie des
+      animaux, trans. R. Bredo, preface Eduard Claparède (Paris: Payot, 1928).
+ 29   Catherine Malabou, Ontology of the Accident: An Essay on Destructive Plasticity,
+      trans. Carolyn Shread (Cambridge: Polity, 2012).
+ 30   See the section, “Selbstregulierbarkeit des lebendigen Einzeldinges und harmon-
+      ische Äquipotentialität der Teile.” Plessner, Die Stufen, 160.
+
+
+
+Chapter 22
+
+  1   Ludwig Wittgenstein, Zettel, ed. G. E. M. Anscombe and G. H. von Wright, trans.
+      G. E. M. Anscombe (Berkeley: University of California Press, 1967), editors’ pref-
+      ace. This is a bilingual edition. Subsequent citations are given in the text and are
+      to the numbers assigned to the individual fragments.
+
+
+
+Chapter 23
+
+  1   W. Ross Ashby, “Homeostasis,” in Cybernetics: Circular Causal and Feedback Mech-
+      anisms in Biological and Social Systems, ed. Heinz von Foerster (New York: Josiah
+      Macy Jr. Foundation, 1952), 73.
+  2   Wolfgang Köhler, review of Cybernetics, or Control and Communication in the Ani-
+      mal and the Machine, by Norbert Wiener, Social Research 18, no. 1 (1951): 128; my
+      emphasis.
+  3   Warren McCulloch, “What Is a Number, That a Man May Know It, and a Man,
+      That He May Know a Number?,” in Embodiments of Mind (Cambridge, MA: MIT
+      Press, 1965), 14.
+  4   Steve Joshua Heims, The Cybernetic Group (Cambridge, MA: MIT Press, 1991).
+  5   McCulloch, “What’s in the Brain That Ink May Character?” in McCulloch, Em-
+      bodiments, esp. 389; and see “Where Is Fancy Bred?,” another essay in the same
+      volume that examines the insight problem in relation to AI.
+  6   Warren McCulloch and Walter Pitts, “A Logical Calculus of the Ideas Immanent
+      in Nervous Activity,” in McCulloch, Embodiments, 38. Although Turing’s iconic
+      1950 essay, “Computing Machinery and Intelligence,” is famous for introducing
+      the “Turing test” for machine intelligence, one of the more disturbing (almost
+      Nietzschean) undercurrents of the argument was the idea that human beings are
+      no more than complex machines, whose “unpredictability” and “creativity” are
+      just consequences of our own ignorance concerning the processes unraveling
+      within. I take this up in the next section.
+  7   Warren McCulloch, “Why the Mind Is in the Head,” in McCulloch, Embodi-
+      ments, 73.
+  8   George Canguilhem, “Machine and Organism,” 90.
+  9   Georges Canguilhem, Essai sur quelques problèmes concernant le normal et le
+      pathologique (Clermont-Ferrand: La Montagne, 1943).
+ 10   See George Canguilhem, The Normal and the Pathological, trans. Carolyn R. Faw-
+      cett and Robert S. Cohen (New York: Zone, 1991), ch. 4.
+
+380       N OT E S TO C H A PT E R 24
+
+
+
+  11      Canguilhem, “Machine and Organism,” 79.
+  12      Ludwig von Bertalanffy, Robots, Men, and Minds: Psychology in the Modern World
+          (New York: George Braziller, 1967), 68.
+  13      Ludwig von Bertalanffy, Das Biologische Weltbild (Bern: Francke, 1949): “ein gän-
+          zlich mechanisierter Organismus wäre unfähig zur Regulation nach Störungen”
+          (29).
+  14      Ludwig von Bertalanffy, General System Theory: Foundation, Development, Applica-
+          tions (New York: George Braziller, 1968), 213.
+  15      See Ludwig von Bertalanffy, “The Theory of Open Systems in Physics and Biol-
+          ogy,” Science 111, no. 2872 (1950): 23–29.
+  16      Lewis Mumford, “The Automation of Knowledge: Are We Becoming Robots?,”
+          Audio-Visual Communication Review 12 (1964): 275.
+  17      Gregory Bateson, Steps to an Ecology of Mind (Chicago: University of Chicago
+          Press, 1972), 286.
+  18      Raymond Ruyer, Paradoxes de la conscience et limites de l’automatisme (Paris: Albin
+          Michel, 1966): “Ses erreurs doivent précéder ses essais, puisqu’elles en constitu-
+          ent la cause motrice” (232).
+  19      Norbert Wiener, Cybernetics, or Control and Communication in the Animal and Ma-
+          chine (Paris and Cambridge, MA: Hermann and MIT Press, 1948), 172.
+  20      Jurgen Ruesch and Gregory Bateson, Communication: The Social Matrix of Psychia-
+          try (New York: Norton, 1951), 91.
+  21      Bateson, Ecology of Mind, 143.
+  22      Wiener, Cybernetics, 15.
+  23      W. Ross Ashby, An Introduction to Cybernetics (London: Chapman and Hall, 1961),
+          5–6.
+  24      W. Ross Ashby and Mark R. Gardner, “Connectance of Large Dynamic (Cyber-
+          netic) Systems: Critical Values for Stability,” Nature 228, no. 784 (1970): 784. On
+          catastrophe, see Wiener, Cybernetics, 113; and Norbert Wiener, The Human Use of
+          Human Beings (Boston: Houghton Mifflin, 1950), 49.
+  25      Michael Polanyi, Personal Knowledge: Towards a Post-Critical Philosophy (Chicago:
+          University of Chicago Press, 1958), 336. Subsequent citations are given parenthet-
+          ically in the text.
+  26      “L’hypothèse cybernétique,” Tiqqun 2 (2001): 40–83.
+  27      Peter Galison, “Ontology of the Enemy: Norbert Wiener and the Cybernetic
+          Vision,” Critical Inquiry 21, no. 1 (1994): 228–66.
+  28      Andrew Pickering, The Cybernetic Brain: Sketches of Another Future (Chicago:
+          University of Chicago Press, 2010), 132.
+
+
+
+Chapter 24
+
+      1   Nicholas Georgescu-Roegen, The Entropy Law and the Economic Process (Cam-
+          bridge MA: Harvard University Press, 1971), 90.
+      2   Wiener, Cybernetics, 40.
+      3   C. E. Shannon and J. McCarthy, eds., Automata Studies (Princeton, NJ: Princeton
+          University Press, 1956), v.
+      4   Arturo Rosenblueth, Norbert Wiener, and Julian Bigelow, “Behavior, Purpose,
+          and Teleology,” Philosophy of Science 10, no. 1 (1953): 18–24.
+      5   See Anatol Rapoport, “Technological Models of the Nervous System” (1955), in
+
+                                                              N OT E S TO C H A PT E R 2 4   381
+
+
+
+     The Modeling of Mind: Computers and Intelligence, ed. Kenneth M. Sayre and Fred-
+     erick J. Crosson (New York: Simon and Schuster, 1963), 32.
+ 6   Warren McCulloch and John Pfeiffer, “Of Digital Computers Called Brains,” Scien-
+     tific Monthly 69, no. 6 (1949): 368–76.
+ 7   See the iconic essay, Rosenblueth, Wiener, and Bigelow, “Behavior, Purpose, and
+     Teleology.”
+ 8   G. A. Miller, “The Magical Number Seven, Plus or Minus Two: Some Limits on
+     our Capacity for Processing Information,” Psychological Review 63, no. 2 (1956):
+     81–97.
+ 9   G. A. Miller, “Encoding the Unexpected,” Proceedings of the Royal Society of Lon-
+     don. Series B, Biological Sciences 171, no. 1024 (1968): 361–75. Subsequent citations
+     are given parenthetically in the text.
+10   Wiener, Cybernetics, 135.
+11   Ashby, “Homeostasis,” 73.
+12   Ashby, Introduction, 197.
+13   W. Ross Ashby, Journal, 1523–24. Available at the W. Ross Ashby Digital Archive,
+     rossashby.info/index.html, accessed July 24, 2013.
+14   Ashby, Journal, 1906–9.
+15   Ashby, Journal, 1054.
+16   W. Ross Ashby, “The Nervous System as Physical Machine: With Special Refer-
+     ence to the Origin of Adaptive Behaviour,” Mind 56 (1947): 50.
+17   Ashby, Journal, 1054.
+18   Ashby, “Nervous System,” 55.
+19   W. Grey Walter, The Living Brain (New York: Norton, 1953), 184; Grey Walter is
+     commenting on the conditional reflex analogue (CORA) and its relationship to
+     theories in psychopathology.
+20   Grey Walter, The Living Brain, 25, 31.
+21   Grey Walter, The Living Brain, 27.
+22   W. Ross Ashby, Design for a Brain, 2nd. ed. (New York: John Wiley & Sons, 1960), 95.
+23   Ashby, Introduction, 37.
+24   Ashby, Introduction, 24.
+25   For a critical view, see, e.g., Paul Cossa, La Cybernétique: Du cerveau humain aux
+     cerveaux artificiels (Paris: Masson, 1955), 56.
+26   Wiener, Cybernetics, 168.
+27   Wiener, Cybernetics, 171.
+28   Wiener, Cybernetics, 168.
+29   Wiener, Cybernetics, 172.
+30   Wiener, Cybernetics, 178–79.
+31   Norbert Wiener, “Problems of Organization,” Bulletin of the Menninger Clinic 17
+     (1953): 132.
+32   Wiener, Cybernetics, 178.
+33   Wiener, “Problems,” 134.
+34   Alfred Fessard, “Points de contact entre Neurophysiologie et Cybernétique,”
+     S.E.T. 5, nos. 35–36 (July 1953–Jan. 1954): 32–33.
+35   Fessard, “Points,” 33.
+36   See John von Neumann and H. H. Goldstine, “On the Principles of Large-Scale
+     Computing Machines,” in John von Neumann, Collected Works, vol. 5: Design of
+     Computers, Theory of Automata, and Numerical Analysis (Oxford: Pergamon Press,
+     1963), 2.
+
+382       N OT E S TO C H A PT E R 25
+
+
+
+  37      See William Asprey, “The Origins of John von Neumann’s Theory of Automata,”
+          in The Legacy of John von Neumann, ed. James Glimm, John Impagliazzo, and Isa-
+          dore Singer (Providence, RI: American Mathematical Society, 1990), 289–90.
+  38      John von Neumann, Theory of Self-Reproducing Automata, ed. Arthur W. Burks
+          (Urbana: University of Illinois Press, 1966), 35.
+  39      A good example is John von Neumann, “The Mathematician,” in Collected Works,
+          vol. 1: Logic, Theory of Sets, and Quantum Mechanics (Oxford: Pergamon Press,
+          1961).
+  40      Von Neumann, Self-Reproducing Automata, 33–35. See also the editor’s introduc-
+          tion to this text, esp. p. 3. For a broader perspective, see Peter Galison, “Computer
+          Simulations and the Trading Zone,” in The Disunity of Science: Boundaries, Con-
+          texts, and Power, ed. Peter Galison and David J. Stumpf (Stanford: Stanford Univer-
+          sity Press, 1996).
+  41      Von Neumann, Self-Reproducing Automata, 45.
+  42      Von Neumann, Self-Reproducing Automata, 46.
+  43      Von Neumann, Self-Reproducing Automata, 47.
+  44      Von Neumann, Self-Reproducing Automata, 49.
+  45      On this point, see Claude E. Shannon, “Von Neumann’s Contributions to Autom-
+          ata Theory,” in “John von Neumann, 1903–1957,” special issue of Bulletin of the
+          American Mathematical Society (May 1958): 123–25.
+  46      Von Neumann, Self-Reproducing Automata, 57.
+  47      John von Neumann, “The General and Logical Theory of Automata,” in Collected
+          Works, 5:322. This point is made by von Neumann in the discussion period fol-
+          lowing this, his Hixon Symposium paper.
+  48      John von Neumann, “Probabilistic Logics and the Synthesis of Reliable Organ-
+          isms from Unreliable Components,” in Collected Works, 5:329. This paper was ed-
+          ited from the notes for a 1952 lecture given at the California Institute of Technol-
+          ogy. On von Neumann and the role of error in his thought, see Giora Hon, “Living
+          Extremely Flat: The Life of an Automaton; John von Neuman’s Conception of
+          Error of (In)animate Systems,” in Going Amiss in Experimental Research, ed. Giora
+          Hon, Jutta Schickore, and Friedrich Steinle, Boston Studies in the Philosophy of
+          Science, no. 267 (2009): 55–71.
+  49      Von Neumann, Self-Reproducing Automata, 57, 71–73.
+  50      Von Neumann, “General and Logical Theory,” 307–8. See also John von Neu-
+          mann, The Computer and the Brain (New Haven, CT: Yale University Press, 1958),
+          76–79.
+  51      Von Neumann, Self-Reproducing Automata, 71; my emphasis.
+  52      Ibid., 73.
+  53      Von Neumann, “General and Logical Theory,” 289.
+  54      Von Neumann, Computer and the Brain, 81–82.
+  55      On artificial plasticity and cybernetics, see Catherine Malabou, Morphing Intel-
+          ligence: From IQ Measurement to Artificial Brains (New York: Columbia University
+          Press, 2019).
+
+
+
+Chapter 25
+
+      1   Alan Turing, “Computing Machinery and Intelligence,” Mind 49 (1950): 442.
+      2   John McCarthy, Marvin Minksy, N. Rochester, and Claude E. Shannon, “A Pro-
+
+                                                                  N OT E S TO C H A PT E R 2 5   383
+
+
+
+     posal for the Dartmouth Summer Research Project on Artificial Intelligence”
+     (1955) Available at http://jmc.stanford.edu/articles/dartmouth/dartmouth.pdf.
+     Accessed Jan. 3, 2023.
+ 3   Edward Tenney Brewster, Natural Wonders Every Child Should Know (New York:
+     Grosset and Dunlap, 1912), 239.
+ 4   Arthur Eddington, The Nature of the Physical World (London: Macmillan, 1928), 332.
+ 5   Eddington, Nature of the Physical World, 321.
+6    Eddington, Nature of the Physical World, 343.
+ 7   Alan Turing, “The Nature of Spirit” (ca. 1932), cited in Andrew Hodges, Alan
+     Turing: The Enigma (New York: Simon and Schuster, 1983), 64. Scan of original
+     manuscript text available at https://turingarchive.kings.cam.ac.uk/unpublished
+     -manuscripts-and-drafts-amtc/amt-c-29. Accessed Oct. 30, 2022.
+ 8   Turing, “Computing Machinery,” 447.
+9    Alan Turing, “Systems of Logic Based on Ordinals,” in The Essential Turing: Semi-
+     nal Writings in Computing, Logic, Philosophy, Artificial Intelligence, and Artificial Life,
+     plus The Secrets of Enigma, ed. B. Jack Copeland (Oxford: Oxford University Press,
+     2004), 166.
+10   Alan Turing, “On Computable Numbers, with an Application to the Entschei-
+     dungsproblem” (1936), in Copeland, The Essential Turing, 60.
+11   Turing, “Computable Numbers,” 59.
+12   On Gödel numbering, see Ernest Nagel and James R. Newman, Gödel’s Proof, rev.
+     ed (New York: New York University Press, 2001), 68–79.
+13   Turing, “Computable Numbers,” 75–77.
+14   Turing, “Computable Numbers,” 60.
+15   Turing, “Systems of Logic,” 192.
+16   Turing, “Systems of Logic,” 156.
+17   See Paulo Mancuso, ed., From Brouwer to Hilbert: The Debate on the Foundations of
+     Mathematics in the 1920s (Oxford: Oxford University Press, 1997); and Dennis E.
+     Hesseling, Gnomes in the Fog: The Reception of Brouwer’s Intuitionism in the 1920s
+     (Dordrecht: Springer, 2003).
+18   Alan Turing, “Solvable and Unsolvable Problems” (1954), in The Essential Turing,
+     595.
+19   Turing, “Computing Machinery,” 459; my emphasis.
+20   Alan Turing, “Lecture on the Automatic Computing Engine” (1947), in The Essen-
+     tial Turing, 393.
+21   Alan Turing, “Intelligent Machinery” (1948), in The Essential Turing, 411. “It is
+     related that the infant Gauss was asked at school to do the addition 15 + 18 + 21
+     + . . . + 54 (or something of the kind) and that he immediately wrote down 483,
+     presumably having calculated it as (15 + 54)(54 -12)/ 2. One can imagine circum-
+     stances where a foolish master told the child that he ought instead to have added
+     18 to 15 obtaining 33, then added 21, etc. From some points of view this would
+     be a ‘mistake,’ in spite of the obvious intelligence involved.”
+22   Turing, “Intelligent Machinery,” 429.
+23   Turing, “Intelligent Machinery,” 422.
+24   Turing, “Intelligent Machinery,” 429.
+25   Turing, “Intelligent Machinery,” 430; my emphasis.
+26   Alan Turing, letter to W. Ross Ashby, ca. Nov. 19, 1946. Image of letter available
+     at the Ashby Digital Archive, http://www.rossashby.info/letters/turing.html.
+     Accessed Oct. 30, 2022.
+
+384    N OT E S TO C H A PT E R 25
+
+
+
+  27   Alan Turing, “Proposal for Development in the Mathematics Division of an Au-
+       tomatic Computing Engine (ACE)” (1945), in Collected Works, vol. 3: Mechanical
+       Intelligence (Amsterdam: North Holland, 1992), 19–20.
+  28   Turing, “Proposal for Development,” 22.
+  29   Turing, “Intelligent Machinery,” 419.
+  30   Turing, “Intelligent Machinery,” 424. Subsequent citations are given parentheti-
+       cally in the text.
+  31   Quoted in Sara Turing, Alan M. Turing (Cambridge: Heffer, 1959), xx.
+  32   M. H. A. Newman, “A Note on Electric Computing Machines,” British Medical
+       Journal 1, no. 4616 (1949): 1133.
+  33   Geoffrey Jefferson, “The Mind of Mechanical Man,” British Medical Journal 1, no.
+       4616 (1949): 1105–10. Subsequent citations of this work are given parenthetically
+       in the text.
+  34   On this point, see Stuart Shanker, Wittgenstein’s Remarks on the Foundations of AI
+       (London: Routledge, 1998), ch. 2.
+  35   The most brilliant of these readings is, I believe, Jean Lassègue’s kaleidoscopic
+       analysis of Turing’s essay as symptoms of various important episodes in his
+       life—including, most controversially perhaps, Turing’s circumcision. Lassègue,
+       “What Kind of Turing Test Did Turing Have in Mind?,” Tekhnema: Journal of
+       Philosophy and Technology (Spring 1996), available at http://tekhnema.free.fr
+       /3Lasseguearticle.htm. Accessed Jan. 3, 2023.
+  36   Turing, “Computing Machinery,” 435. Subsequent citations are given parentheti-
+       cally in the text.
+  37   Max Black, Critical Thinking: An Introduction to Logic and Scientific Method (New
+       York: Prentice Hall, 1946), 348.
+  38   It seems Douglas Hofstadter was the first to notice this mistake, according to Jean
+       Lassègue.
+  39   Blaise Pascal, Pensées, ed. Philippe Sellier (Paris: Mercure de France, 1976), no. 78,
+       p. 55.
+  40   I have argued that this was how the Enlightenment understood error, in David
+       W. Bates, Enlightenment Aberrations: Error and Revolution in France (Ithaca, NY:
+       Cornell University Press, 2002).
+  41   Martin Heidegger, “On the Essence of Truth” (1930), in Basic Writings, rev. ed., ed.
+       David F. Krell (San Francisco: Harper, 1993), 133.
+  42   Martin Heidegger, Aus der Erfahrung des Denkens (Pfullingen: Günther Neske,
+       1954), 17.
+  43   Turing, “Computing Machinery,” 456.
+  44   Turing, “Computing Machinery,” 456.
+  45   Turing, “Computing Machinery,” 448.
+  46   Turing, “Intelligent Machinery,” 421.
+  47   Turing, “Computing Machinery,” 459.
+  48   Turing, “Computing Machinery,” 459.
+  49   Alan Turing, “Intelligent Machinery, a Heretical Theory,” in Copeland, The Essen-
+       tial Turing, 472.
+  50   McCarthy et al., “A Proposal,” 7.
+
+                                                               N OT E S TO C H A PT E R 26   385
+
+
+
+Chapter 26
+
+   1   Sherwood L. Washburn, “Speculations on the Interrelations of the History of
+       Tools and Biological Evolution,” Human Biology 31, no. 1 (1959): 21–31, at 24.
+  2    Julian S. Huxley, “Evolution, Cultural and Biological,” Yearbook of Anthropology
+       (1955): 10–11. Subsequent citations are given parenthetically in the text.
+  3    Peter Medawar, Uniqueness of the Individual (New York: Basic Books, 1958), 135–
+       36. Subsequent citations are given parenthetically in the text.
+  4    As Medawar writes, “[Niko] Tinbergen and [Konrad] Lorenz have given us
+       reasons for believing that many kinds of behaviour which seem to us to be pecu-
+       liarly human are part of a very ancient heritage—‘showing off,’ for example; play-
+       ing with dolls; sexual rivalry; and many kinds of ‘displacement activity,’ in which
+       a thwarted instinctive impulse vents itself in actions of an apparently quite irrele-
+       vant kind” (135–36).
+  5    J. Z. Young, A Model of the Brain (Oxford: Oxford University Press, 1964), 13.
+  6    See Karl Popper, The Logic of Scientific Discovery (1934) (New York: Basic Books,
+       1959).
+  7    On Popper’s evolutionary epistemology and its relation to technology, see
+       Skagestad, “Thinking with Machines.”
+  8    Karl Popper, Conjectures and Refutations: The Growth of Scientific Knowledge (Lon-
+       don: Routledge, 1963), 64.
+  9    Karl Popper, Objective Knowledge: An Evolutionary Approach (Oxford: Oxford Uni-
+       versity Press, 1972).
+ 10    Karl Popper, “Epistemology without a Knowing Subject,” in Objective Knowledge, 115.
+  11   Popper, “Epistemology,” 116.
+ 12    Karl Popper, “Of Clouds and Clocks,” in Objective Knowledge, 222–23.
+ 13    Popper, “Of Clouds,” 230.
+ 14    Popper, “Epistemology,” 118.
+ 15    Popper, “Epistemology,” 145.
+ 16    Popper, “Epistemology,” 135.
+  17   Popper, “Epistemology,” 145.
+  18   Popper “Of Clouds,” 238.
+ 19    Skagestad, “Thinking with Machines,” 166.
+ 20    Popper, “Of Clouds,” 238–39.
+ 21    Popper, “Of Clouds,” 239.
+ 22    Popper, “Of Clouds,” 253–54.
+ 23    Bateson, Ecology of Mind, 331–33. Subsequent citations are given parenthetically
+       in the text.
+ 24    Vannevar Bush, “As We May Think,” Atlantic Monthly 176, no. 1 (1945): 101. Subse-
+       quent citations are given parenthetically in the text.
+ 25    Gilbert Simondon, On the Mode of Existence of Technical Objects (1958), trans.
+       Cecile Malaspina and John Rogove (Minneapolis: Univocal Press, 2017), 105.
+ 26    J. C. R. Licklider, “Man-Computer Symbiosis,” IRE Transactions on Human Factors
+       in Electronics (Mar. 1960): 4. Subsequent citations are given parenthetically in the
+       text.
+ 27    On the trajectory of intelligence augmentation, from Bush to Licklider to Engel-
+       bart, see Skagestad, “Thinking with Machines,” 158–63. Skagestad also notices
+       the key conceptual relationship between Engelbart and Popper, although there
+       seems to be no direct connection between the two thinkers.
+
+386       N OT E S TO C H A PT E R 27
+
+
+
+  28      Douglas C. Engelbart, “Augmented Man, and a Search for Perspective” (1960).
+          This is an abstract for a potential conference paper. Available at https://web
+          .stanford.edu/dept/SUL/library/extra4/sloan/mousesite/EngelbartPapers/B5
+          _F15_AugmPap1.html. Accessed July 13, 2020.
+  29      Douglas C. Engelbart, Augmented Human Intellect Study, Prepared for the Head-
+          quarters of Air Force Office of Scientific Research Washington 25, D.C. Computer
+          Techniques Laboratory (1961). Available at https://web.stanford.edu/dept/SUL
+          /library/extra4/sloan/mousesite/EngelbartPapers/B6_F1_AugmProp2.html.
+          Accessed July 13, 2020.
+  30      Engelbart, letter to V. Bush, May 24, 1962, asking for permission to quote at
+          length from “As We May Think,” in Engelbart’s SRI report.
+  31      Douglas C. Engelbart, Augmenting Human Intellect: A Conceptual Framework,
+          Prepared for Director of Information Sciences, Air Force Office of Scientific
+          Research, Washington 25, D.C. Contract AF49(638)-1024 (1962), 8. Avail-
+          able at https://web.stanford.edu/dept/SUL/library/extra4/sloan/mousesite
+          /EngelbartPapers/B5_F18_ConceptFrameworkInd.html. Accessed July 13, 2020
+  32      Engelbart, Augmenting, 9 Subsequent citations are given parenthetically in the
+          text.
+  33      Douglas C. Engelbart, “Intellectual Implications of Multi-Access Computer Net-
+          works,” in Proceedings of the Interdisciplinary Conference on Multi-Access Computer
+          Networks, Austin, Texas, Apr. 1970. Available at https://web.stanford.edu/dept
+          /SUL/library/extra4/sloan/mousesite/Archive/Post68/augment-5255.htm.
+          Accessed July 13, 2020.
+  34      Garrett Hardin, “An Evolutionist Looks at Computers with Some Alarm,” Data-
+          mation 15 (1969): 98–109.
+  35      Hardin, “An Evolutionist,” 98.
+
+
+
+Chapter 27
+
+      1   Washburn, “Speculations on the Interrelations of the History of Tools and Biolog-
+          ical Evolution,” 31.
+      2   Washburn, “Speculations,” 25.
+      3   André Leroi-Gourhan, “Technique et société chez l’animal et chez l’homme”
+          (1957), in Le fils du temps: Ethnologie et préhistoire 1935–1970 (Paris: Fayard, 1983),
+          11. Subsequent citations are given parenthetically in the text.
+      4   André Leroi-Gourhan, Gesture and Speech (1964), trans. Anna Bostock Berger
+          (Cambridge, MA: MIT Press, 1993), 18. Subsequent citations are given parentheti-
+          cally in the text.
+      5   “There is probably no reason, in the case of the earliest anthropoids, to sepa-
+          rate the level of language from that of toolmaking: Throughout history up to
+          the present time, technical progress has gone hand in hand with progress in the
+          development of technical language symbols” (114).
+      6   As Leroi-Gourhan explains, in a way reminiscent of Vannevar Bush’s depiction
+          of the imagined Memex machine, “A punched card index is a memory-collecting
+          machine. It works like a brain memory of unlimited capacity that is endowed
+          with the ability—not present in the human brain—of correlating every recollec-
+          tion with all others” (264).
+      7   See Edwards, The Closed World.
+
+                                                                N OT E S TO C H A PT E R 2 8   387
+
+
+
+  8    In a passage that sounds a lot like theorists of the “Singularity” (such as Ray Kurz-
+       weil), Leroi-Gourhan also will write: “Putting it more positively, we could say that
+       if humans are to take the greatest possible advantage of the freedom they gained
+       by evading the risk of organic overspecialization, they must eventually go even
+       further in exteriorizing their faculties” (265).
+  9    Bruce Mazlish, “The Fourth Discontinuity,” Technology and Culture 8, no. 1 (Jan.
+       1967): 1–15.
+ 10    Friedrich Georg Jünger, The Failures of Technology: Perfection without Purpose,
+       trans. F. D. Wieck (Hinsdale, IL: Henry Regnery, 1949), 64.
+  11   S. Demczynski, Automation and the Future of Man (London: George Allen Unwin,
+       1964), 143.
+  12   Hannah Arendt, “Cybernetics” (1964), Hannah Arendt Papers at the Library of
+       Congress (Series: Speeches and Writings File, 1923–1975, n.d.), [1].
+ 13    Hannah Arendt, “The Conquest of Space and the Stature of Man” (1963), in
+       Arendt, Between Past and Future: Six Exercises in Political Thought (New York:
+       Faber, 1961), 264.
+ 14    Hannah Arendt, The Human Condition (Chicago: University of Chicago Press,
+       1958), 172.
+ 15    Arendt, The Human Condition, 191–92.
+ 16    Martin Heidegger, preface to Wegmarken (Frankfurt: Klostermann, 1967), x.
+  17   See Erich Hörl, Sacred Channels: The Archaic Illusion of Communication (Amster-
+       dam: Amsterdam University Press, 2018), appendix.
+  18   Leroi-Gourhan, Gesture and Speech, 266.
+ 19    Leroi-Gourhan, Gesture and Speech, 269.
+
+
+
+Chapter 28
+
+   1   Lambros Malafouris, “Mind and Material Engagement,” Phenomenology and the
+       Cognitive Sciences 18, nos. 1–2 (2019): 1–17, at 3.
+  2    See Bruno Latour, “On Actor-Network Theory: A Few Clarifications,” Soziale Welt
+       47, no. 4 (1996): 369–81; and Edward Hutchins, Cognition in the Wild (Cambridge,
+       MA: MIT Press, 1995).
+  3    Gilles Deleuze, “Postscript on the Societies of Control,” October 59 (1992): 3–7.
+  4    Andy Clark and David Chalmers, “The Extended Mind,” Analysis 58, no. 1 (1998):
+       7–19; and Andy Clark, Natural Born Cyborgs: Minds, Technologies, and the Future of
+       Human Intelligence (Oxford: Oxford University Press, 2004).
+  5    Humberto Maturana and Francisco Varela, Autopoiesis and Cognition: The Reali-
+       zation of the Living (Dordrecht: Reidl, 1980); and Francesco Varela, Evelyn Rosch,
+       and Evan Thompson, The Embodied Mind: Cognitive Science and Human Experience
+       (Cambridge, MA: MIT Press, 1991).
+  6    Donna Haraway, “A Cyborg Manifesto” (1985), in Haraway, Simians, Cyborgs and
+       Women: The Reinvention of Nature (London: Routledge, 1991), 149–82.
+  7    See, e.g., John Tooby and Leda Cosmides, “Evolutionary Psychology and the Gen-
+       eration of Culture, Part 1: Theoretical Considerations,” Ethology and Sociobiology
+       10 (1989): 29–49.
+  8    Maturana and Varela, Autopoiesis and Cognition, 36.
+  9    Maturana and Varela, Autopoiesis and Cognition, 135.
+ 10    Frank Rosenblatt, “The Perceptron: A Probabilistic Model for Information Stor-
+
+388        N OT E S TO C H A PT E R 28
+
+
+
+           age and Organization in the Brain,” Psychological Review 65, no. 6 (1958): 407–8.
+           Subsequent citations are given parenthetically in the text.
+      11   Geoffrey Hinton and David Touretzky, “Symbols among the Neurons: Details of a
+           Connectionist Inference Architecture,” IJCAI’85: Proceedings of the 9th Interna-
+           tional Joint Conference on Artificial Intelligence 1 (1985): 238.
+  12       David Rumelhart, Paul Smolensky, Jay McClelland, and Geoffrey Hinton, “Sche-
+           mata and Sequential Thought Processes in PDP Models,” in Parallel Distributed
+           Processing, vol. 2: Psychological and Biological Models (Cambridge, MA: MIT Press,
+           1986), 7–57. Subsequent citations are given parenthetically in the text.
+  13       Clifford Geertz, “The Impact of the Concept of Culture on the Concept of Man,” in
+           The Interpretation of Cultures (New York: Basic Books, 1973), 44.
+  14       Merlin Donald, Origins of the Modern Mind: Three Stages in the Evolution of Culture
+           and Cognition (Cambridge, MA: Harvard University Press, 1991).
+  15       Merlin Donald, “The Exographic Revolution: Neuropsychological Sequelae,”
+           in The Cognitive Life of Things: Recasting the Boundaries of the Mind, ed. L. Mala-
+           fouris and C. Renfrew (Cambridge, MA: McDonald Institute for Archaeological
+           Research, 2010), 71–79.
+  16       Franz M. Wuketits, “Evolution as a Cognitive Process: Toward an Evolutionary
+           Epistemology,” Biology and Philosophy 1 (1986): 191–206.
+  17       Wuketits, “Evolution,” 200.
+  18       Franz M. Wuketits, Evolutionary Epistemology and Its Implications for Humankind
+           (Albany: SUNY Press, 1990), 135.
+  19       Tom Stonier, “The Natural History of Humanity: Past, Present and Future,” Inter-
+           national Journal of Man-Machine Studies 14, no. 1 (1981): 122.
+  20       Tom Stonier, Beyond Information: The Natural History of Intelligence (London:
+           Springer, 1992), 6.
+  21       Peter C. Reynolds, “The Complementation Theory of Language and Tool Use,”
+           in Tools, Language and Cognition in Human Evolution , ed. Kathleen R. Gibson and
+           Tim Ingold (Cambridge: Cambridge University Press, 1993), 423.
+  22       Pierre Lévy, L’Intelligence collective: Pour une anthropologie du cyberespace (Paris:
+           La Découverte, 1994).
+  23       Terrence Deacon, “The Co-Evolution of Language and the Brain,” by David Boul-
+           ton, KCSM (PBS) Television (Sept. 5, 2003). Available at https://childrenofthecode
+           .org/interviews/deacon.htm. Accessed Mar. 11, 2023.
+  24       Merlin Donald, “Human Cognitive Evolution: What We Were, What We Are Be-
+           coming,” Social Research 60 (1993): 143–34.
+  25       Andy Clark, “Symbolic Invention: The Missing (Computational) Link?,” comment
+           on Merlin Donald, “Précis of Origins of the Modern Mind: Three Stages in the Evolu-
+           tion of Culture and Cognition,” Behavioral and Brain Sciences 16 (1993): 753–54.
+  26       Terrence Deacon, The Symbolic Species: The Co-evolution of Language and the Brain
+           (New York: Norton, 1997). Subsequent citations are given parenthetically in the
+           text.
+  27       We note that Deacon will refer to Lev Vygotsky and the idea that “psychological
+           processes could be understood as internalized versions of processes that are in-
+           herently social in nature” (450).
+  28       François Lyotard, The Inhuman: Reflections on Time, trans. Geoffrey Bennington
+           and Rachel Bowlby (Stanford: Stanford University Press, 1992), 12.
+  29       Bernard Stiegler, Technics and Time, vol. 1: The Fault of Epimetheus, trans. George
+
+                                                                N OT E S TO C H A PT E R 2 9   389
+
+
+
+      Beardsworth and Richard Collins (Stanford: Stanford University Press, 1998), 151.
+      Subsequent citations are given parenthetically in the text.
+ 30   “Its body and brain are defined by the existence of the tool, and they thereby
+      become indissociable. It would be artificial to consider them separately, and it
+      will therefore be necessary to study technics and its evolution just as one would
+      study the evolution of living organisms. The technical object in its evolution is at
+      once inorganic matter, inert, and organization of matter. The latter must operate
+      according to the constraints to which organisms are submitted” (150).
+ 31   Recently, Fiona Coward has argued, “The incorporation of non-human things into
+      social networks allows for their other-than-human qualities—notably, in the case
+      of material culture, the qualities of durability, persistence and divisibility . . .—to
+      be co-opted (or exapted) for the purposes of constructing and maintaining ever-
+      greater social networks.” Coward, “Small Worlds, Material Culture and Ancient
+      Near Eastern Social Networks,” in Social Brain, Distributed Mind, ed. Robin Dun-
+      bar, Clive Gamble, and John Goblet (Oxford: Oxford University Press, 2010), 468.
+ 32   Bernard Stiegler, Symbolic Misery, vol. 1: The Hyperindustrial Epoch, trans. Barn-
+      aby Norman (Cambridge: Polity, 2014).
+ 33   Bernard Stiegler, Automatic Society, vol. 1: The Future of Work, trans. Daniel Ross
+      (London: Wiley, 2016); and Bernard Stiegler, The Age of Disruption: Technology
+      and Madness in Computational Capitalism, trans. Daniel Ross (Cambridge: Polity,
+      2019).
+
+
+
+Chapter 29
+
+  1   Yann LeCun (@ylecun), Twitter, May 16, 2017, https://twitter.com/ylecun/status
+      /864463163135324165.
+  2   As Jeff Hawkins wrote in the early 2000s, “Prediction is not just one of the things
+      your brain does. It is the primary function of the neocortex, and the foundation
+      of intelligence. The cortex is an organ of prediction.” Jeff Hawkins with Sandra
+      Blakeslee, Intelligence: How a New Understanding of the Brain Will Lead to the Cre-
+      ation of Truly Intelligent Machines (New York: Henry Holt, 2004).
+  3   Jakob Hohwy, The Predictive Mind (Oxford: Oxford University Press, 2013), 1.
+  4   Hohwy, The Predictive Mind, 2.
+  5   As the brain theorist Karl Friston writes, “Predictive coding offered a compelling
+      process theory that lent notions like the Bayesian brain a mechanistic substance.
+      The Bayesian brain captured a growing consensus that one could understand the
+      brain as a statistical organ, engaging in an abductive inference of an ampliative
+      nature. Predictive coding articulated plausible neuronal processes that were
+      exactly consistent with the imperative to optimize Bayesian model evidence.”
+      Friston, “A Free Energy Principle for Biological Systems,” Entropy 14, no. 11 (2012):
+      2119.
+  6   See Chris Frith, Making up the Mind (Oxford: Blackwell, 2007). 41.
+  7   Giovanni Pezzulo, “Tracing the Roots of Cognition in Predictive Processing,” in
+      Philosophy and Predictive Processing, ed. Thomas Metzinger and Wanja Wi-
+      ese (Frankfurt am Main: MIND group, 2021), no. 20, p. 2. Available at https://
+      predictive-mind.net/papers/tracing-the-roots-of-cognition-in-predictive
+      -processing. Accessed Jan. 4, 2023.
+
+390       N OT E S TO C H A PT E R 29
+
+
+
+      8   Andy Clark, Surfing Uncertainty: Prediction, Action, and the Embodied Mind (Oxford:
+          Oxford University Press, 2015), 1. Subsequent citations are given parenthetically
+          in the text.
+      9   For a critique of machine learning from the perspective of error, see Matteo
+          Pasquinelli, “How a Machine Learns and Fails: A Grammar of Error for Artificial
+          Intelligence,” Spheres 5 (2019): 1–17.
+  10      Regina E. Fabry, “Betwixt and Between: The Enculturated Predictive Processing
+          Approach to Cognition,” Synthese 195 (2018): 2483–2518, at 2484.
+  11      See Lambros Malafouris, How Things Shape the Mind: A Theory of Material Engage-
+          ment (Cambridge MA: MIT Press, 2013); Thomas Wynn and Frederick L. Coolidge,
+          eds., Cognitive Models in Paleolithic Archaeology (Oxford: Oxford University Press,
+          2016); and Dunbar, Gamble, and Goblet, eds., Social Brain, Distributed Mind.
+  12      As Fabry writes, “An important consequence of cognitive niche construction
+          is that both the phylogenetic and ontogenetic development of human cogni-
+          tive capacities cannot be understood independently from considerations of the
+          structured environment. Thus, we need to take the interaction and the mutual
+          dependence of human cognitive systems and their cognitive niche into account.”
+          “Betwixt,” 2487.
+  13      “Because the internal states of each cell are sequestered behind their respec-
+          tive Markov blankets, all interactions between cells must be mediated by their
+          Markov blankets. This means that we can describe the self-organisation of
+          the cellular ensemble purely in terms of transactions among the (sensory and
+          active) states of Markov blankets. However, these exchanges will themselves
+          have a sparsity structure that induces a Markov blanket of Markov blankets. For
+          example, one subset of the ensemble could be an organ that is surrounded by
+          epithelia that provide a Markov blanket for all of the cells that constitute the in-
+          ternal states of the organ. However, this still follows exactly the same (statistical)
+          structure—an ensemble of Markov blankets. We can then repeat this process, at
+          increasingly larger scales of self-organisation, to create a series of hierarchically
+          nested systems (e.g., the body).” Karl Friston, Maxwell Ramstead and Paul Bad-
+          cock, “Answering Schrödinger’s Question: A Free-Energy Formulation,” Physics
+          of Life Reviews 24 (2018): 1–16, at 8.
+  14      Andy Clark, “How to Knit Your Own Markov Blanket: Resisting the Second Law
+          with Metamorphic Minds,” in Metzinger and Wiese, Philosophy and Predictive Pro-
+          cessing, no. 3, p. 13. Available at https://predictive-mind.net/papers/how-to-knit
+          -your-own-markov-blanket. Accessed Jan. 4, 2023.
+  15      Paul Valéry, Notebooks, trans. Paul Gifford, ed. Brian Stimpson (Franfurt am
+          Main: Peter Lang, 2000), 402.
+  16      Bernard Stiegler, Nanjing Lectures 2016—2019, ed. and trans. Daniel Ross (Lon-
+          don: Open Humanities Press, 2020), 60.

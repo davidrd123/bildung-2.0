@@ -1,0 +1,490 @@
+PART FOUR
+
+
+
+Thinking Outside
+the Body
+
+23
+Cybernetic Machines
+and Organisms
+
+
+
+Cybernetics was centered on a fundamental analogy between organism
+and machine. As W. Ross Ashby asserted, “I shall consider the organism . . .
+as a mechanism which faces a hostile and difficult world and has as its
+fundamental task keeping itself alive.”1 Because cybernetics intention-
+ally blurred the boundaries between humans, animals, and sophisticated
+technological objects, it has often been accused of reducing living beings
+to the mere interplay of mechanisms. However, cybernetics always wanted
+to infuse machinic beings with the essence of life—purpose, adaptive re-
+sponsiveness, learning, and so on—while opening up new insights by com-
+paring organisms to some of the most innovative technologies of the era,
+namely, servo-mechanisms, scanning instruments, electronic communica-
+tion systems, analog computers, and, perhaps most notably, the new high-
+speed digital calculators that were emerging from secrecy in the postwar
+era. Cybernetics drew together advanced automatic machines and organ-
+isms on the basis of their shared capacity to respond flexibly to a changing
+environment—whether the external world or that inner domain (Claude
+Bernard’s “internal milieu”) governed by what interwar physiologists called
+the regulative principle of “homeostasis.”
+    Cybernetics was a provocative, multidisciplinary, and self-consciously
+revolutionary intervention into the fluid conceptual world of the interwar
+period. The recurring and overlapping questions concerning order and or-
+ganization in physiological, technical, and cognitive domains were recon-
+ceived by cybernetics in a new context. The new science would not explore
+“relations” between these domains. What was proposed instead was a new
+project that sought the essential features of all adaptive and reactive sys-
+tems, whatever their origin.
+
+234
+
+                                       CY B E R N E T I C M AC H I N E S A N D O R GA N I S M S   235
+
+
+
+    We can see clearly the resistances (but also affiliations) between inter-
+war thought and new cybernetic initiatives as figures in the individual dis-
+ciplines engaged with the new thinking in the early postwar period. The
+fact that so many important intellectuals had fled Europe (Germany in par-
+ticular of course) meant that the contestation was staged in new sites and
+in new contexts. The United States would be a key space; centers of cyber-
+netic research and theory would also emerge in the United Kingdom and in
+France. The Hixon Symposium, and then the series of famed Macy Confer-
+ences, included a wide array of presenters and commentators whose lines
+of thought between and across disciplinary—and chronological—gaps can
+be detected.
+
+Artificial Insight
+
+
+One example is illuminating for the question of intelligence in particular.
+As we have seen repeatedly, one of the touchstones for interwar thinking on
+creativity and intelligence, in animals and humans (and perhaps even ma-
+chines), was Wolfgang Köhler’s influential book on ape intelligence, where
+his Gestalt framework informed the concept of insight, the capacity to use a
+“detour” (Umweg) from normal routines in order to provoke a new organiza-
+tion of thought and perception in the solution of challenging problems.
+    In 1951, Köhler (now in America as an émigré, along with other Gestalt
+psychologists and Kurt Goldstein, all exiled from Nazi Germany) in fact
+published a review of Norbert Wiener’s seminal work, Cybernetics, Or, Com-
+munication and Control in the Animal and Machine (1948), which included
+a famous chapter titled “Computing Machines and the Nervous System.”
+Though Köhler praised certain features of the book, including the innova-
+tive theorization of feedback, he had serious reservations about the idea
+that electronic calculators and other machines could serve as models for
+the human nervous system and thereby help explain the origin and nature
+of human thought. As Köhler put it, this “now popular comparison” was en-
+tirely ungrounded. The kind of information processing carried on by these
+new computing machines was, he believed, “functionally” and “generically”
+different from human thinking. As Köhler pointed out—anticipating Hu-
+bert Dreyfus and other critics of postwar artificial intelligence research—it
+was obvious that only the “intelligent” decisions of human mathemati-
+cians gave any value to these blind mechanical processes; the machines
+could not really know anything, he concluded, “because among their func-
+tions there is none that can be compared with insight into the meaning of
+a problem.”2
+
+236   C H A PT E R 23
+
+
+
+    So Köhler would hardly have been surprised to find the influential cy-
+berneticist and polymath Warren McCulloch admitting, a decade later,
+that “the problem of insight, or intuition, or invention—call it what you
+will—we do not understand.”3 On various occasions, McCulloch would ac-
+knowledge that imitating this kind of insight artificially with machines was
+quite problematic (though still possible, he believed).4 That a leading cy-
+berneticist like McCulloch would become so entangled in the question of
+insight and “productive thinking”—a question taken up by virtually all the
+leading Gestalt psychologists—was rather ironic. For it was in fact McCull-
+och’s early work with his young colleague Walter Pitts, undertaken in the
+1940s, that initially spurred the “popular” idea that human thinking could
+be compared to the work done by calculating machines, a central theme of
+cybernetic theories.5 McCulloch and Pitts famously argued, in 1943, that it
+was possible to consider neuron structures as if they were in essence digital
+switching devices, and, armed with this idea, they went on to demonstrate
+(mathematically, that is) that networks of these “idealized” neurons were
+entirely capable of representing and calculating logical propositions and
+their consequences.
+    In effect—following here the revolutionary work of Kurt Gödel, Alonso
+Church, and Alan Turing in mathematical logic from the 1930s—McCulloch
+and Pitts argued that the brain, seen as a simplified, interconnected net-
+work of digital relays, was perfectly capable of fulfilling the functions of a
+Turing machine, an imaginary (at that point) form of digital computer that
+was capable of calculating logical sequences, by representing propositions
+and relations as a series of computable numbers. The implications of this
+brilliant and startling argument were obvious, and the two authors did not
+fail to make this explicit, closing their essay with this powerful claim: “Both
+the formal and the final [i.e., purposeful] aspects of that activity we are wont
+to call mental are rigorously deducible from present neurophysiology.”6 As
+McCulloch would go on to explain, in a talk at the celebrated Hixon Sympo-
+sium, which centered on the relationship between brain and behavior, held
+at the California Institute of Technology in 1948, we did not need to postu-
+late anything “extra” in thought to explain mental functioning. Indeed, we
+should not entertain the idea that something “new” could happen in the
+mental domain. “Our knowledge of the world, our conversation—yes, even
+our inventive thought—are,” he stated emphatically, “limited by the law
+that information may not increase on going through brains, or computing
+machines.”7
+    This seminal attempt to redescribe thinking as a kind of bio-logical
+mechanism may have fit well with the behaviorism that was dominant in
+
+                                        CY B E R N E T I C M AC H I N E S A N D O R GA N I S M S   237
+
+
+
+American psychological research. And in an academic environment that
+valued “facts” and empirical research in these areas, the materialist impli-
+cations of these arguments were hardly problematic.
+
+The End of the Machine
+
+
+Incisive critics of cybernetic thought and research would, however, repeat-
+edly press on the fundamental analogy made between feedback-driven ma-
+chines (such as servo-mechanisms, self-regulating industrial machines,
+or self-guided weaponry) and complex organisms. But not because they
+thought cybernetics was inherently reductionist, though that was always an
+issue lurking in the literature of this period. However, what was often at
+stake was the opposite problem, namely, the attempts by cybernetics to in-
+fuse vital “purpose” and teleological organization into technological objects.
+   This project would distort our understanding of the essential nature of
+organismic life: so argued Georges Canguilhem in his 1947 lecture “Ma-
+chine and Organism.” As he explained, artificial machines do, of course,
+have “ends” that govern their design; that is what makes a technical object
+recognizable. However, unlike an organism, the teleological orientation
+of a machine is always given to it from the outside. This purpose is there-
+fore never (by principle) intrinsic to the machine’s own organization. This,
+according to Canguilhem, was the crucial error of Descartes’s exercise in
+what I called “virtual robotics.” That is, the analogy between the mechani-
+cal automaton and the living being relied on the original divine creation of
+the organism, which was in Descartes’s vision itself based on concept of the
+artificial machine of human engineering—a machine that internalizes an
+essentially external “telos.” A machine governed by externally given ends,
+Canguilhem pointed out, is always a slave to its given, already determined
+order: the machine must then affirm “the rational norms of identity, consis-
+tency, and predictability.”8
+   In contrast, the organism is organized by the internal goal of its own sur-
+vival, and it was therefore capable, Canguilhem observed, of genuine im-
+provisation in the event of crisis or even internal failures. Here we see the
+influence of Kurt Goldstein’s concept of the dynamic and perennially un-
+stable organism. Without a completely fixed structure restricting its poten-
+tiality, the organism was, unlike the rigid machine, able to find new paths
+to success. The essential unity of the organism was maintained even in the
+event of catastrophic error because its organs were, as Canguilhem put it,
+fundamentally “polyvalent,” not limited to previously defined, specific de-
+terministic functions, as the parts of a machine were. The organism could
+
+238   C H A PT E R 23
+
+
+
+be saved by what are in essence pathological responses. There was, Can-
+guilhem declared, no possibility of such a machine pathology; there would
+never be any machine “monsters,” because the machine could never create
+for itself new norms, new forms of existence.
+    Canguilhem’s critique of the machine as model of the living amplifies
+the argument made first in his dissertation, published as the book, On the
+Normal and the Pathological (1943).9 Canguilhem’s understanding of these
+concepts was explicitly influenced by Kurt Goldstein’s earlier work.10 The
+idea that Goldstein’s “catastrophic reactions” were, in a certain sense, en-
+tirely normal informed Canguilhem’s approach to medical ideas of pathol-
+ogy. Pointing to the great plasticity of the nervous system, Canguilhem
+noted that if a child suffers a stroke that destroys an entire half of the brain,
+that child would not suffer aphasia (as is the case with many brain inju-
+ries later in life) because the brain reroutes language performance to other
+regions in order to compensate for the damage.11 Organisms are stable as
+unities precisely because their organization is not fixed into any one rigid
+structure—they are open and thus equipped to surmount even a traumatic
+loss of functions in some cases.
+    The influential Austrian biologist Ludwig von Bertalanffy formulated,
+in the early years after the war, a new discipline of “systems theory” that,
+like cybernetics, aimed to transcend different disciplinary approaches to
+dynamic, ordered systems, living or not. However, according to Bertalanffy,
+cybernetics was on the wrong path: it could never hope to account “for an
+essential characteristic of living systems,” namely, their ability to maintain
+stability despite constant metabolic creation and destruction of its own
+material foundation.12 Like other critics of cybernetics, Bertalanffy believed
+that “a mechanized organism would be incapable of regulation following
+disturbances,”13 since a machine could not radically transform itself—as
+the organism could—to accommodate shock and injury.14 Open systems
+were plastic and hence never fully determined; they possessed what Ber-
+talanffy called “equifinality,” the capacity to follow multiple paths for the
+maintenance of life—an echo of Lashley’s “equipotentiality” of the brain.15
+    In a later critique of automation, the American sociologist cum philoso-
+pher Lewis Mumford affirmed the distinctions made by more expert figures
+such as Canguilhem and Bertalanffy. Unlike machines, he argued, “organic
+systems [have] . . . the margin of choice, the freedom to commit and correct
+errors, to explore unfrequented paths, to incorporate unpredictable acci-
+dents . . . , to anticipate the unexpected, to plan the impossible.”16 Again,
+the possibility of error was a critical theme. As the idiosyncratic, cybernet-
+
+                                        CY B E R N E T I C M AC H I N E S A N D O R GA N I S M S   239
+
+
+
+ically inspired thinker Gregory Bateson would observe, “An organism is ca-
+pable of being wrong in a number of ways. . . . These wrong choices are
+appropriately called ‘error’ when they are of such a kind that they would
+provide information to the organism which might contribute to his future
+skill. These will all be cases in which some of the available information was
+either ignored or incorrectly used. Various species of such profitable error
+can be classified.”17
+
+Cybernetic Failure
+
+
+And yet . . . We have to recognize that cyberneticists were, from the very
+beginning, intensely interested in pathological breakdowns and the im-
+portance of radical plasticity for adaptive and reactive beings (whether ar-
+tificial or biological). Describing the early cybernetic “animals” created by
+W. Grey Walter (introduced to the public on a BBC broadcast in the 1950s),
+the French cybernetic thinker Raymond Ruyer noted, “Their errors must
+precede exploration, because these errors constitute the driving force.”18
+    Paying attention to plasticity in this new discipline in fact reveals some
+important, often unexpected facets of the cybernetic project to analyze
+and construct “living” machines. In his classic Cybernetics, Or, Communica-
+tion and Control in the Animal and Machine, Norbert Wiener observed that
+certain psychological instabilities could be conceptualized through rather
+precise technical analogues: “Pathological processes of a somewhat simi-
+lar nature are not unknown in the case of mechanical or electrical comput-
+ing machines.”19 There was, then, a strict parallel drawn between systemic
+breakdowns in the psychological and technological spheres.
+
+   The task of the modern therapist can be compared to the task of the main-
+   tenance engineer or of the trouble-shooter who repairs the great overland
+   power lines. Abnormalities of behavior are described in terms of distur-
+   bances of communication. In the past, these disturbances have been sum-
+   marized under the heading of psychopathology.20
+
+
+As Bateson would explain elsewhere, both the technical device and the hu-
+man mind can exhibit “symptoms” that indicate a breakdown or patholog-
+ical turn within the “body” as a whole. “If the TV suffers from a blown tube,
+or the man from a stroke, effects of this pathology may be evident enough
+on the screen or to consciousness, but diagnosis must still be done by an
+expert. . . . The TV which gives a distorted or otherwise imperfect picture is,
+
+240      C H A PT E R 23
+
+
+
+in a sense, communicating about its unconscious pathologies—exhibiting
+its symptoms.”21
+    In an important sense, then, cybernetics as a transdisciplinary science
+had its very origin in the insight that pathological physiological behaviors
+(in, say, neurological movement disorders) could be mapped, structurally
+and with precision, onto technological failures that could be described in
+identical mathematical forms. While investigating the behavior of feed-
+back systems in steering mechanisms, for example, Wiener and his engi-
+neering colleague Julian Bigelow discovered that excessive compensation
+could sometimes lead to increasing oscillations that eventually became
+uncontrollable, leading to great disorder and a failure to find equilibrium.
+When they asked the medical researcher Arturo Rosenblueth (who had
+been working for years under Walter Cannon at Harvard) if there were any
+similar pathologies known in human physiology, Rosenblueth immediately
+answered that there was indeed an exact neurological parallel: voluntary
+motion could degenerate into the same state of oscillation when the cere-
+bellum was injured in very specific ways.22 Mathematical analysis of other
+forms of physiological disorder (e.g., cardiac arrhythmias, which would be
+the focus of Rosenblueth’s own work back in Mexico) would soon reveal
+a number of these parallels between physiological and technological pa-
+thologies, which grounded the study of structural and topological norms
+shared by cybernetic machines and complex organisms.
+    This early interest in pathology at the very foundation of cybernetics
+is hardly surprising, given the fact that so many of its original practition-
+ers were medical professionals with interests in both physical and men-
+tal illnesses. Warren McCulloch was a neurologist who worked in psychi-
+atric clinics, Ross Ashby was trained as a psychiatrist and practiced while
+developing his own private research projects in homeostatic stability, and
+Rosenblueth was a physiological researcher and a cardiologist. In an im-
+portant sense, cybernetics (especially its later incarnations) was always a
+highly medicalized discipline, aimed at identifying the origins of instability
+in large, complex systems and then diagnosing the sources of breakdown
+so as to eliminate them and recover unity and stability. As Ashby put it, in
+his textbook on cybernetics:
+
+      Cybernetics offers the hope of providing effective methods for the study,
+      and control, of systems that are intrinsically very complex. . . . In this way
+      it offers the hope of providing the essential methods by which to attack the
+      ills—psychological, social, economic—which at present are defeating us by
+      their intrinsic complexity.23
+
+                                        CY B E R N E T I C M AC H I N E S A N D O R GA N I S M S   241
+
+
+
+Instability appears in this framework as a “self-generating catastrophe”
+that leads to the collapse and death of the system if it is untreated.24
+
+And yet . . . Despite this extensive interest in failure, pathology, and cata-
+strophic breakdowns, cybernetics could still be accused of greatly simpli-
+fying the problem of disorder and crisis, pathology and health. It was one
+thing to explain some forms of adaptive response in terms of automatic
+steering technologies. However, it was quite another to explain a more rad-
+ical originality and inventiveness that was repeatedly encountered in the
+living world. This capacity was not reducible to any specific mechanism or
+logic, even a homeostatic one.
+    As the noted British polymath Michael Polanyi observed, in his Gifford
+lectures of 1951–52, the capacity of life as improvisation flowed from an “ac-
+tive center operating unspecifiably in all animals.”25 Polanyi’s theory of evo-
+lution was based on the idea that even simple organisms, in circumstances
+that threatened survival, were capable of responding with novel solutions.
+As he noted in his preface, the results of Gestalt psychology initiated his
+own inquiry, which aimed to understand these creative reorganizations
+in an evolutionary context. So, for Polanyi, a singular solution would be-
+come part of the repertoire of behavior, one that would harden into routine
+or habit and then eventually be inherited as a new automatism. Ever more
+complex organisms would become capable of more and more sophisticated
+improvisations in the face of challenging and threatening situations.
+    The same process would be evident in cognitive activity, once organisms
+acquired nervous systems and sensory systems. To know the world was, Po-
+lanyi insisted, to actively engage with it. His famous idea of “tacit knowl-
+edge” recognized that embodied knowledge was not the result of some
+formal or logical mental framework but instead an event, a product of the
+unpredictable interaction of mind and environment. And problem solving
+was the impetus for this kind of interaction. With detailed references to
+Köhler’s ape studies, as well as concepts of “inspiration” in creative think-
+ing (e.g., Poincaré and Wallas), Polanyi argues, “The irreversible character
+of discovery suggests that no solution of a problem can be accredited as a
+discovery if it is achieved by a procedure following definite rules” (123).
+    Polanyi, who was familiar with the newest electronic computing ma-
+chines and related technologies, stressed that this singularity of discovery,
+its status as an interruption into thought, demonstrated that it could never
+be produced by some machinic process. “For such a procedure would be re-
+versible in the sense that it could be traced back stepwise to its beginning
+and repeated at will any number of times, like any arithmetical computa-
+
+242      C H A PT E R 23
+
+
+
+tion. Accordingly, any strictly formalized procedure would also be excluded
+as a means of achieving discovery” (123). The figure of the genius, linked
+with the inventive originality of the living body itself, reveals the essential
+exception of genuine novelty.
+
+      But genius makes contact with reality on an exceptionally wide range: see-
+      ing problems and reaching out to hidden possibilities for solving them, far
+      beyond the anticipatory powers of current conceptions. Moreover, by de-
+      ploying such powers in an exceptional measure—far surpassing ours who
+      are looking on—the work of a genius offers us a massive demonstration of
+      a creativity which can neither be explained in other terms, nor unquestion-
+      ably taken for granted. By paying respect to another person’s judgment as
+      superior to our own, we emphatically acknowledge originality in the sense
+      of a performance the procedure of which we cannot specify. Confrontation
+      with genius thus forces us to acknowledge the originative power of life,
+      which we may and commonly do neglect in its ubiquitous lesser manifes-
+      tations. (124)
+
+
+Hence the limitation of the machine: it cannot violate itself; it cannot “fail”
+or reinterpret itself in the light of failure, error, damage. Therefore, we can-
+not, he says, “replace the conception of the machine—as defined by its op-
+erational principles—by a more comprehensive understanding which ac-
+counts both for the correct functioning and the failures of a machine” (328).
+The rules of organization (biological, psychological, epistemological) only
+describe success; yet the heart of genuine creative action is the response
+made in light of failure, the insufficiency of norms, the breakdown of order,
+the threat of catastrophe (333).
+   As Polanyi well knew, the essential claim of the new cybernetic disci-
+pline was that machines could be made to imitate or instantiate this creative
+function—to exemplify, that is, a kind of artificial plasticity. Referring to
+the debates opened up at the Hixon Symposium of 1948, where cybernetic
+ideas engaged with leading research on brain function, Polanyi will admits
+that a pseudo-vitality can be manufactured.
+
+      The machine-like conception of living beings can be extended to account in
+      principle for their adaptive capacities. An automatically piloted aeroplane
+      approximates the skills of an air pilot. Its mechanical self-regulation co-
+      ordinates its activities in the service of a steady purpose, and it may even
+      appear to show a measure of resourcefulness in responding to ever new, not
+      exactly foreseeable situations. (336)
+
+                                        CY B E R N E T I C M AC H I N E S A N D O R GA N I S M S   243
+
+
+
+Were we, human beings, just “conscious automata” then? Polanyi offers an-
+other perspective: every living thing has, at once, an automatic system of
+behavior and what he calls an “inventive urge” that defies the normativity
+of these automatisms. Only such an “unspecifiable” element can explain
+the kind of plasticity (“equipotentiality”) exhibited by the brain, even as it
+suffers extensive destruction—as Lashley’s work showed so clearly (336).
+Equipotentiality implies multiple paths and therefore an element of deci-
+sion, a break from the norms of regulative behavior.
+   What thinkers such as Polanyi (and Bertalanffy, Goldstein, and Canguil-
+hem) were trying to suggest was that organisms were not just able to re-
+spond to changing conditions; they were also able to enter wholly new states
+of being—with new forms of order and new potentials—when they were
+confronted with extreme challenges, drastic injury, or internal failures of
+communication. A pathological state was not simply the negative inverse
+of a normal function, as cybernetic work at times seemed to imply, but
+rather an opportunity for the appearance of invention, the creation of un-
+precedented response.
+
+The historical question raised here, then, is whether or not cybernetics did
+in fact understand, and try to model, this productive relationship between
+genuinely pathological conditions of distress and the radical novelty of re-
+organization within the organism. The legacy of cybernetics has often been
+figured as a move toward a form of invisible “technocracy” of rationaliza-
+tion and systematization in the social, economic, and political spheres—
+leaving the individual to be subjected to the teleological momentum of
+these now autonomous systems of techno-power.26 This is why cybernet-
+ics has reemerged today, in the twenty-first century, as a conceptual and
+political orientation as we confront the rise and consolidation of a global
+information society, the emergence of new and more intimate forms of
+human-computer symbiosis, not to mention acute conflicts over auto-
+mated surveillance, algorithmic justice, and automatic warfare involving
+remote killing technologies.
+    Peter Galison, for one, has forcefully argued that cybernetics, literally
+born (with Norbert Weiner’s failed attempt to build an intelligent antiair-
+craft weapon) in the midst of war and developed, with much state funding
+in the United States, Europe, and the Soviet Union during the height of the
+Cold War, was at its heart a “Manichaean” science, obsessed that is with
+maintaining order against the constant active threat of disorder. Cybernet-
+ics could hardly embrace a link between abnormality and creativity, Gali-
+son claims, when it pathologized disorder as the ultimate enemy.27 Andrew
+
+244   C H A PT E R 23
+
+
+
+Pickering’s sophisticated and comprehensive analysis of British cybernetic
+brain science highlights the crucial significance of pathological conditions
+in the development of a new way of thinking about adaptive and creative
+machinery. For Pickering, this is what distinguished the British alternative
+from the more militarized American version of cybernetics. As Pickering
+writes, pathology was, for the cyberneticists, another way of looking at the
+normal, ordered state: “In medicine the normal and the pathological are
+two sides of the same coin.” Cybernetic machines and organisms were de-
+fined by their inherent structures, and both were kept “alive” by the pro-
+cesses that maintained homeostatic equilibrium. Breakdown is crucial in
+order to reveal the often occluded normative order. However, pathology
+was it seems never conceptualized independently.28
+    In practice, however, it is somewhat difficult to maintain a clear bound-
+ary between order and disorder in cybernetic discourse. The cybernetic
+analogy between machine and organism was being forged at a moment
+when biological thought had, as we know, transcended the old opposition
+between mechanists and vitalists. The key challenge in this period was to
+explicate organismic unity. First, it was necessary to ascertain how an or-
+ganism developed into a coherent formal structure from embryonic cells—
+the problem of morphogenesis. And second, it was important to identify
+how organisms could maintain those forms despite ever-changing condi-
+tions and a dynamic metabolic process—the question of homeostasis. The
+concept of the essential unity of a living being was so important because
+it linked—at the level of a single system—transformation and destruction
+with continuity and stability. Unity was, of course, predicated on an inher-
+ent plasticity of organismic organizations, their capacity to take on new
+forms at key turning points, even catastrophic ones.
+    To understand the cybernetic effort to create a science that bridged or-
+ganismic and machine beings we must therefore pay close attention to the
+way unity and flexibility were conceptualized in cybernetics. As we will see,
+illness, pathology, breakdown, all were vitally important questions for bio-
+logical thinkers after the war. These states were not simply ascribed to “dis-
+orderly” Manichaean forces attacking order, pace Galison, but instead were
+understood to be potentially productive crisis conditions, contingent and
+singular events that revealed essential transformative potentials that made
+the ongoing life of an organism possible in the first place.

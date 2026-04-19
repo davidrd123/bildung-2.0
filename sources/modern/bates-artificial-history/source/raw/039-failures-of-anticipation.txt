@@ -1,0 +1,339 @@
+29
+Failures of Anticipation
+The Future of Intelligence in the Era of Machine Learning
+
+
+
+
+Prediction is the essence of intelligence.
+                                    Yann LeCun1
+
+
+
+As Claude Shannon and John McCarthy noted, in the 1950s, concepts of the
+brain and intelligence are inevitably shaped by contemporary concepts of
+technical systems. It is hardly an exaggeration to say that the most dom-
+inant technology in the contemporary world of artificial intelligence is
+that of “machine learning,” which is an umbrella term for a number of ap-
+proaches that utilize artificial neural nets, such as deep learning, generative
+adversarial networks, and reinforcement learning. The key feature of ma-
+chine learning is prediction. Trained on large data sets, the system aims to
+predict an outcome—whether that is an actual event or perhaps belonging
+to a certain classification. Another key feature of machine learning is error.
+The system in fact learns via prediction errors, which are used, mathemat-
+ically, to alter predictions continuously in order to fine tune predictions.
+Trained systems make use of an external observer to tell right from wrong,
+whereas untrained systems work themselves to maximize various parame-
+ters. The third feature of machine learning systems that I want to highlight
+is that they are generative. What makes contemporary deep learning meth-
+ods so successful is not simply the size and number of their neural network
+layers but also the fact that the networks produce generative models, hy-
+potheses about the state of things, which are then tested and reexamined.
+A deep learning network, at each layer, has been individually trained to
+generate a model of some feature of the world from its input, and these gen-
+erative models are aggregated in new layers that similarly produce model
+outputs from input data.
+
+                                                                            345
+
+346   C H A PT E R 29
+
+
+
+    So we can say that a modern machine learning system predicts outcomes,
+learns from prediction errors that are back-propagated through the system,
+and discovers in this process how to generate models from certain input
+signals at various levels. So a system might first train to recognize “edges”
+from various visual input data, and these particular models will be aggre-
+gated with other trained nodes (generating, say, color or shape designa-
+tions) until finally we would have a prediction that the total data stream
+represents a particular object.
+    Machine learning obviously traces its lineage to earlier work in artifi-
+cial neural networks and especially the return to research marked by the
+publication of the two volumes on parallel and distributed processing in
+1986. However, the artificial neural network paradigm has now emerged
+as one of the most powerful models for neuroscience and cognitive theory,
+which borrow the key concepts of prediction, error, and generation from
+machine learning.2 The success of machine learning lies to a great extent in
+the revolution in both computing power and the immense size of data sets
+enabled by the move to networked computing in the 2000s. The transition
+from singular technologies (the “computer”) to a vast network of parallel
+and distributed systems housed in data centers around the world has made
+possible a new way of thinking about the brain and the mind, one that gains
+credence given the scope of the hardware and software technologies.
+    Although there are numerous ways in which machine learning and ar-
+tificial neural networks have influenced researchers in the cognitive sci-
+ences and the neurosciences, a new “school” of sorts has emerged in the
+past two decades or so that is explicitly tied to the techniques and tech-
+nologies of machine learning and its kin. This school has been called pre-
+dictive processing (sometimes referred to as predictive coding). As Jakob
+Hohwy, an influential proponent, has concisely explained, predictive pro-
+cessing (PP) “is the theory that the brain is a sophisticated hypothesis-
+testing mechanism, which is constantly involved in minimizing the error
+of its predictions of the sensory input it receives from the world. This mech-
+anism is meant to explain perception and action and everything mental
+in between.”3 The implication is that there is a singular “mechanism” (the
+logic of a Bayesian neural network) that underlies all cognition. As Hohwy
+writes, approvingly, “Though the description of the mechanism is statisti-
+cal it is just a causal neuronal mechanism and the theory therefore sits well
+with a reductionist, materialist view of the mind.”4 Indeed, the research in
+both cognitive science and the functioning of the brain, especially the vi-
+sual brain, in this mode has been impressive.5 In particular, the way that
+
+                                                       FA I LU R E S O F A N T I C I PAT I O N   347
+
+
+
+predictive processing approaches make use of Hinton’s internal generative
+models is striking and can help explain both inherited “hard-wired” input
+processing and network layers that have emerged from initially plastic
+conditions.6 The brain, it seems, does not so much “analyze” data and use
+stored concepts and reasoning systems to make sense of the world. Rather,
+the brain uses past experiences to predict the future and pays cognitive at-
+tention only to those moments when prediction fails. And the “action” of an
+organism in this context can be understood as a way of making a “predic-
+tion” come true through a reorientation within, or transformation of, the
+environment.
+   It is quite clearly the case that our problem, the problem of intelligence
+and technogenesis (the origin of technology, which is to say, the origin of
+the modern human) remains a difficult issue. Hohwy’s enthusiastic account
+of predictive processing is tempered by the admission that the focus on the-
+ories of perception “largely leave out higher cognitive phenomena such as
+thought, imagery, language, social cognition, and decision-making” (2). A
+similar caution appears in a recent collection of essays on Philosophy and
+Predictive Processing:
+
+   in principle, one can use the language of PP across multiple domains of
+   cognition and even across different disciplines. However, a gap remains be-
+   tween the domains of (relatively simpler) action-perception loops and (rela-
+   tively more complex) higher cognitive abilities. The former have been char-
+   acterized in formal and quantitative terms using PP, whereas explanations
+   of the latter tend to appeal to the same PP concepts but often lack a compre-
+   hensive quantitative and computational characterization. Thus, it remains
+   to be seen if PP really “scales up” to higher cognition domains.7
+
+
+However, another major interpreter of predictive processing, the phi-
+losopher Andy Clark, is more than aware of the challenge these domains
+raise for the theory. Clark’s early work in philosophy was on inactive and
+embodied perception, and he was also an innovator (with his collaborator
+David Chalmers) in the theory of the “extended mind,” which argues that
+cognition is not limited by the mind but is distributed through a system of
+biological and technological support systems. Clark would go on to write
+a general interest book on the topic, Natural Born Cyborgs. The challenge
+for the predictive processing model would be integrating technology and
+distributed cognition, given that the very starting point of the model is a
+brain that must learn about the world and itself from within the highly con-
+
+348     C H A PT E R 29
+
+
+
+strained world of neural stimulation—what are known as “spike trains.”
+How does a self-enclosed nervous system learn to extend itself, to “exterior-
+ize” itself in new and artificial forms of perception and action?
+    In his own overview, Clark celebrates predictive processing as the “per-
+fect neuro-computational partner” for the philosophical theories of en-
+active and embodied cognition, that is, research “that stresses the con-
+stant engagement of the world by cycles of perceptuo-motor activity. The
+predictive brain, if this is correct, is not an insulated inference engine so
+much as an action-oriented engagement machine. It is an engagement-
+machine.”8 For Clark, the brain is engaged with the environment and ac-
+tively constructing its view of the world. Its predictions constitute a kind of
+“intuitive” judgment about the world. But this judgment is resolutely un-
+conscious, which means that predictive processing fits nicely with so much
+ancillary work on unconscious cognition and intuition within cognitive
+science. As Clark admits in the opening of his book, conscious, directed
+thought is bracketed. The brain is a prediction machine, but in this predic-
+tion there is nothing like we would call, with Heidegger and Stiegler, antic-
+ipation. There is in fact no gap between “learning,” “experience” and “pre-
+diction” here—which is to say, no genuine temporality, only a constantly
+shifting and updated “presence.”9
+    But how can Clark reconcile the reductionism and limited scope of pre-
+dictive processing with his prior work on extended minds, which dovetails
+to a certain degree with the philosophical claims that Bernard Stiegler was
+making on the technical origins of cognition in the same period? First,
+Clark will argue that what makes predictive processing so appealing is that
+it can explain both active inference in the perceptual sphere and what he
+calls “off-line” reasoning, or the imagination, since these all can be under-
+stood as the result of the internal generation of “models,” just at different
+levels of the neural network system (3).
+    However, we are still left with the more difficult argument to make—
+namely, how does the brain (the human brain) exhibit the novel behavior of
+technology, and how does technology alter radically the cognitive potential
+of our species, in ways that have no parallel in the animal world? Clark is
+hardly one to avoid this question. He says very clearly:
+
+      We humans—uniquely in the terrestrial natural order—build, and repeat-
+      edly rebuild, the social, linguistic, and technological worlds whose regu-
+      larities then become reflected in the generative models making the predic-
+      tions. It is because the brain itself is such a potent organ of unsupervised
+      self-organization that our sociocultural immersions can be as efficacious
+
+                                                     FA I LU R E S O F A N T I C I PAT I O N   349
+
+
+
+   as they are. But it is only in the many complex and ill-understood inter-
+   actions between these two fundamental forces (between complex self-
+   organizing neural dynamics and the evolving swirl of social and material
+   influence) that minds like ours emerge from the material flux. (270)
+
+
+The answer is frustratingly vague. As Clark puts it, artifacts and symbols
+do enable new learning and new cognition. Instead of the brain looping
+and relooping generative models and prediction errors, the human mind
+makes use of “symbol-mediated loops” from social culture, such as note-
+books, smartphones, and the like—what Stiegler calls “tertiary retentions”
+(277–78). The language deployed by Clark echoes Stiegler’s own argument:
+“Once externalized, an idea or thought is thus able to participate in brand
+new webs of higher order and more abstract statistical correlation” (278).
+Humans must be constructing what Clark calls “designer environments”
+(art, culture, science), but there is no clear explanation for how, or why, hu-
+man brains are capable of externalizing their thought in artificial technical
+forms of organization.
+    But this is a central problem in predictive processing if it is to be a model
+of human intelligence. As Regina Fabry recently explained, “Enculturation
+is a developmental process that is characterized by plastic changes to neu-
+ral circuitry and motor profiles. It is strongly influenced by the structured
+interaction of human organisms with the cognitive niche.”10 For Fabry, cul-
+ture provides “cognitive practices” that shape our interactions. In essence,
+Fabry—along with a number of scholars involved in what is called “cogni-
+tive archaeology”11—points to the importance of what Stiegler calls the epi-
+phylogenetic essence of our cognitive capacity,12 without directly acknowl-
+edging the radical question of origin. Human “niche construction” amounts
+to the unprecedented anticipation that is constituted by the appearance of
+the tool as a new (artificial, unnecessary) organization and therefore cannot
+simply be the result of a prediction based on the given organization of both
+brains and environments, as it is in the animal Umwelt.
+    The bridge between what we can call “natural” cognition and the artifi-
+cial and “in-human” technicity of human thought may be found in another
+concept that emerges from neural network theory but that is not absolutely
+essential to the predictive processing paradigm. Taking up the idea of the
+Markov blanket, both Karl Friston and Andy Clark have sought to under-
+stand the boundaries between levels of the organism (Friston) or levels
+of cognition (Clark) by arguing that within neural networks there exist
+bounded zones where network nodes are protected, so to speak, by border
+nodes. In a Markov blanket internal nodes respond only to the bounding
+
+350      C H A PT E R 29
+
+
+
+
+Figure 29.1. A Markov blanket.
+
+
+
+nodes and other internal nodes and are never directly involved with the
+“outer” world of the network. (Figure 29.1.) There is a kind of homeostatic
+quality to the entity bounded by a Markov blanket, and indeed, as Friston
+and others have shown, the organismic cell can be described as a Markov
+blanket in line with the more statistical depiction of bounded areas within
+a network. The main point is that Clark sees in the Markov blanket a con-
+cept that unites neurophysiological systems, predictive inference, and, fi-
+nally, the enculturated space of cognitive and symbolic practice that defines
+human intelligence. There is, to be sure, an unacknowledged spirit of the
+Leibnizian monad lurking here.13
+   In any case, what Clark argues is that humans transform themselves, in
+the sense that they “knit” their own Markov blankets, in the form of arti-
+facts and symbols. These new organizations are self-enclosed and operate in
+the world—in our brains—as systems. For Clark, there is a slippage, a pro-
+ductive slippage, between the neural networks that harbor Markov blan-
+kets of relative stability (natural or “learned”) and the exteriorization of an
+organization into the environment.
+
+      Importantly, the predictive processing architecture itself provides a power-
+      ful mechanism enabling the flexible, repeated integration of capacities and
+
+                                                              FA I LU R E S O F A N T I C I PAT I O N   351
+
+
+
+   operations made available by the use of reliable bio-external resources. I
+   won’t rehearse those considerations here, since it is in any case evident—
+   merely from observing our human capacity to become fluent users of a life-
+   time succession of new tools and technologies—that such fluidity is a cru-
+   cial part of our heritage.14
+
+
+Still, no account is offered (can be offered) of this critical leap across the
+threshold of interior and exterior, and thus no account of either the dif-
+férance of thinking or the difference between animal and human cognition,
+the leap that is technology.
+
+
+
+The living being is very far from being a perfect machine and it’s this
+imperfection which is both the cause and the means whereby poetry,
+resonances come about.
+                                                 Paul Valéry, Cahiers, 1927–2815
+
+
+
+The paleoarchaeological and historical record shows clearly that the hu-
+man at some point escaped natural determination and embarked on a new
+form of life that was superimposed on the biological—a political existence
+that navigated the inevitable conflicts between social forms of organization
+and the technical systems that enabled biological survival. This much is ac-
+cepted by thinkers such as Clark and researchers in certain areas of evolu-
+tionary psychology. However, what this entails goes completely against the
+mainstream of contemporary cognitive neuroscience, namely, that we have
+to acknowledge that the human mind is not simply a product of the brain,
+but is instead the site for the operation of several different systems, systems
+that are often in competition even as they work together to maintain the
+cohesion of social groups and the survival of biological individuals.
+   What marks the human is this “invasion” of alien thought within our
+own minds—the thought of other minds, stored in technical forms of mem-
+ory (like writing, for example) and reanimated in our own brains. Or the
+alien logic of cultural norms that dictate behaviors that will guarantee the
+survival of the group formation. Alongside this, the biological demands of
+the body also invade the mind, operating with their own insistent logics—
+both Freud and Damasio could be invoked in this context.
+   The point is that there are no norms governing these multiple systems
+that are instantiated by the individual human mind-brain. Or to put it an-
+other way, what we mean by “the mind” in this context is the continuing
+(and always failing) attempt to bring unity to the multiple systems in play.
+
+352   C H A PT E R 29
+
+
+
+As such, the mind is not itself a unity with given norms, and therefore an
+object of scientific study, but instead an evolving contingent effort to cap-
+ture the varying logics of survival that stem from our biological, sociopoliti-
+cal, and technical systems. The mind is both defined by these systems and is
+resolutely not these systems.
+    This is why the mind is always the site of crisis, of the unexpected, of the
+event. This is why the human mind is capable of genuine decision in crisis:
+the decision that there is a crisis (and not merely a prediction error) and
+the decision for a future that will relieve crisis—even if that means aban-
+doning certain given norms of existence. One might imagine a computer
+programmed with conflicting norms and operations; however, there would
+never be a comprehensive unity in which this conflict could be recognized
+as a moment for genuine decision. To decide the conflict means taking se-
+riously the possibility of an undetermined future. To imagine a future that
+exceeds past experience.
+    That is to say that the mind has no norms of operation itself but is only
+the site for the determination and configuration of alien norms. The mind
+is therefore not at all a biological entity conditioned by history, or a purely
+historical construction buffeted by biological imperatives. The mind ap-
+pears in human existence as a novel entity, the space in which technical
+organization, social organization, and organismic organization, each with
+its own logic and its own demands, meet and can be constituted as code-
+pendent.
+    Human intelligence is constituted within this space—a mind that can
+escape its determinations and thereby open up an unforeseen, unpredict-
+able future. To be sure, the imagination of a new path, a decision for a novel
+future and the institution of new norms is never an act of an actual entity.
+Like Carl Schmitt’s sovereign, who decides the “exception,” the mind is a
+kind of necessary fiction—the name for a unity that is not unitary, a unity
+that holds together difference while allowing a certain slippage, or leakage,
+that is to say, gaps, between the three spheres of life.
+    What escapes the machine, even the computer, even networks of com-
+puters, even the human mind in its “automatic” phases, is this capacity to
+escape from its own determination. As Stiegler wrote, human thought has
+“the power to disrupt and to dis-automatize, that is, to change the rules.”16
+Only by leaving its own normative existence, through shock and deci-
+sion, can a new norm ever be created, as a function of a novel future that is
+imagined—collectively—and not merely predicted.

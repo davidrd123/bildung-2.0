@@ -1,0 +1,152 @@
+
+An Artificial
+History of
+Natural
+Intelligence
+
+
+An Artificial
+History of
+Natural
+Intelligence
+THINKING WITH
+MACHINES FROM
+DESCARTES TO
+THE DIGITAL AGE
+
+
+
+
+David W. Bates
+The University of Chicago Press
+Chicago and London
+
+The University of Chicago Press, Chicago 60637
+The University of Chicago Press, Ltd., London
+© 2024 by The University of Chicago
+All rights reserved. No part of this book may be used or reproduced in any
+manner whatsoever without written permission, except in the case of brief
+quotations in critical articles and reviews. For more information, contact the
+University of Chicago Press, 1427 E. 60th St., Chicago, IL 60637.
+Published 2024
+Printed in the United States of America
+
+33 32 31 30 29 28 27 26 25 24            1 2 3 4 5
+
+ISBN-13: 978-0-226-83210-4 (cloth)
+ISBN-13: 978-0-226-83211-1 (e-book)
+DOI: https://doi.org/10.7208/chicago/9780226832111.001.0001
+
+Library of Congress Cataloging-in-Publication Data
+
+Names: Bates, David William, author.
+Title: An artificial history of natural intelligence : thinking with machines from
+   Descartes to the digital age / David W. Bates.
+Description: Chicago : The University of Chicago Press, 2024. | Includes bibliographical
+   references and index.
+Identifiers: LCCN 2023033201 | ISBN 9780226832104 (cloth) | ISBN 9780226832111 (e-book)
+Subjects: LCSH: Thought and thinking. | Artificial intelligence. | Intellect.
+Classification: LCC BF441.B335 2024 | DDC 153.4/2—dc23/eng/20230802
+LC record available at https://lccn.loc.gov/2023033201
+
+♾ This paper meets the requirements of ANSI/NISO Z39.48-1992 (Permanence
+of Paper).
+
+Dédié à l’esprit de Bernard Stiegler
+
+
+Contents
+
+
+
+
+FRAME    | 1
+
+  1    Autonomy and Automaticity: On the Contemporary Question of
+       Intelligence | 2
+
+Part One: The Automatic Life of Reason in Early Modern Thought | 15
+
+
+  2    Integration and Interruption: The Cartesian Thinking Machine | 16
+  3    Spiritual Automata: From Hobbes to Spinoza | 33
+  4    Spiritual Automata Revisited: Leibniz and Automatic Harmony | 49
+  5    Hume’s Enlightened Nervous System | 65
+
+THRESHOLD: KANT’S CRITIQUE OF AUTOMATIC REASON            | 79
+
+  6    The Machinery of Cognition in the First Critique | 80
+  7    The Pathology of Spontaneity: The Critique of Judgment and
+       Beyond | 95
+
+Part Two: Embodied Logics of the Industrial Age | 107
+
+
+   8   Babbage, Lovelace, and the Unexpected | 108
+   9   Psychophysics: On the Physio-Technology of Automatic Reason | 116
+ 10    Singularities of the Thermodynamic Mind | 125
+  11   The Dynamic Brain | 131
+ 12    Prehistoric Humans and the Technical Evolution of Reason | 141
+ 13    Creative Life and the Emergence of Technical Intelligence | 152
+
+PROPHECY: THE FUTURE OF EXTENDED MINDS            | 161
+
+ 14   Technology Is Not the Liberation of the Human but Its
+      Transformation . . . | 162
+
+Part Three: Crises of Order: Thinking Biology and
+Technology between the Wars | 163
+
+
+15    Techniques of Insight | 164
+16    Brains in Crisis, Psychic Emergencies | 181
+17    Bio-Technicity in Von Uexküll | 188
+18    Lotka on the Evolution of Technical Humanity | 194
+19    Thinking Machines | 201
+20    A Typology of Machines | 205
+21    Philosophical Anthropology: The Human as Technical
+      Exteriorization | 209
+
+HINGE: PROSTHETICS OF THOUGHT         | 227
+
+ 22   Wittgenstein on the Immateriality of Thinking | 228
+
+Part Four: Thinking Outside the Body | 233
+
+
+ 23   Cybernetic Machines and Organisms | 234
+ 24   Automatic Plasticity and Pathological Machines | 245
+ 25   Turing and the Spirit of Error | 260
+ 26   Epistemologies of the Exosomatic | 289
+ 27   Leroi-Gourhan on the Technical Origin of the Exteriorized
+      Mind | 311
+
+THE BEGINNING OF AN END       | 327
+
+ 28   Technogenesis in the Networked Age | 328
+ 29   Failures of Anticipation: The Future of Intelligence in the Era of
+      Machine Learning | 345
+
+Acknowledgments | 353
+Notes | 355
+Index | 391
+
+We form our division of natural history upon the three-fold state
+and condition of nature; which is, 1) either free, proceeding in her
+ordinary course, without molestation; or 2) obstructed by some
+stubborn and less common matters, and thence put out of her
+course, as in the production of monsters; or 3) bound and wrought
+upon by human means, for the production of things artificial.
+    Let all natural history, therefore, be divided into the history of
+generations, præter-generations, and arts; the first to consider na-
+ture at liberty; the second, nature in her errors; and the third, nature
+in constraint.
+                  Francis Bacon, The Advancement of Learning (1605)
+
+Not much can be achieved by the naked hand or by the unaided
+intellect. Tasks are carried through by tools and helps, and the intel-
+lect needs them as much as the hand does. And just as the hand’s
+tools either give motion or guide it, so—in a comparable way—the
+mind’s tools either point the intellect in the direction it should go or
+offer warnings.
+                              Francis Bacon, The New Organon (1620)

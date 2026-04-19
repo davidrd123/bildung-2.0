@@ -10,7 +10,7 @@ reason: "Recent shelf-chat work flagged Weatherby as a rare contemporary interlo
 # Weatherby - `Language Machines` under pressure
 
 Purpose: preserve the narrow Weatherby pressure that survives direct contact
-with the introduction, chapter 1, chapter 3, chapter 5, chapter 6, and the
+with the introduction, chapters 1 through 6 in bounded tranches, and the
 conclusion. This is not a Weatherby campaign, not a structuralism opening, and
 not a license to import his framework into live text work.
 
@@ -20,6 +20,7 @@ not a license to import his framework into live text work.
 - `sources/modern/weatherby-language-machines/README.md`
 - `sources/modern/weatherby-language-machines/source/raw/010-introduction-ai-between-cognition-and-culture.txt`
 - `sources/modern/weatherby-language-machines/source/raw/011-how-the-humanities-lost-language.txt`
+- `sources/modern/weatherby-language-machines/source/raw/012-the-eliza-effect-goes-global.txt`
 - `sources/modern/weatherby-language-machines/source/raw/013-the-semiological-surround.txt`
 - `sources/modern/weatherby-language-machines/source/raw/015-computational-meaning.txt`
 - `sources/modern/weatherby-language-machines/source/raw/016-poetic-ideology.txt`
@@ -81,30 +82,84 @@ friction-value for this repo:
 - but the repo does not have to accept that bet in order to find the source
   useful
 
-## First-priority surfaces
+## Book architecture at current resolution
 
-The first follow-up surfaces named here have now been read.
+The book now looks more differentiated than the first bounded summary
+preserved.
 
-If Weatherby is touched again after the bounded reads below, the best next
-surfaces are likely:
+### 1. Philosophical spine: introduction + chapter 1
 
-### 1. Chapter 4 - `Large Literary Machines`
+The early book is carrying more than a general relocation from intelligence to
+language. Its live architecture now looks like:
 
-Why:
+- a Benjamin-lineage framing of language under algorithmic reproducibility
+- a choice to bracket cognition and fix automatic language first as a problem
+  of language and culture
+- a Kant-via-Chomsky move, where the linking problem starts looking like a
+  modern schematism problem
+- a dialectical rehabilitation of Saussure against both statistical flatness
+  and poststructuralist drift
+- a specific anti-Derrida / anti-poststructuralist argument about how the
+  humanities lost language
 
-- this is the missing bridge between the structuralist argument and the
-  literary / cultural examples that later chapters keep invoking
-- if a personal reading wants one more concrete test rather than more theory,
-  this is the likeliest chapter to provide it
+So chapter 1 is not just scene-setting. It is where the book tries to earn
+its philosophical right to speak about LLMs at all.
 
-### 2. Chapter 2 - `The Eliza Effect Goes Global`
+### 2. Cultural and social cash-out: chapters 2-6 + conclusion
 
-Why:
+The later book does not replace that architecture; it cashes it out in a more
+usable register:
 
-- this should clarify how much of the later argument depends on the history of
-  chatbot reception and anthropomorphic projection
-- if the user wants the cleanest genealogy of the contemporary problem, this is
-  the most likely remaining gap
+- chapter 2 gives the genealogy of uptake through the `global Eliza effect`
+- chapter 4 bridges structural language theory to literary-form talk
+- chapter 5 makes the strongest positive wager around value, attention, and
+  `general poetics`
+- chapter 6 and the conclusion land the book in generated writing, ideology,
+  rhetoric, and `language as a service`
+
+This is where the book becomes most personally usable, but it is not an
+independent second book. These chapters depend on the earlier architecture.
+
+### 3. What this means for position
+
+The book is therefore stronger and riskier than a simple contemporary shelf
+interlocutor.
+
+Stronger:
+
+- it is making real claims in philosophy of language, cognitive-science
+  genealogy, and media theory
+
+Riskier:
+
+- it keeps wanting one semiological-dialectical frame to explain too much
+
+So the right repo position is still:
+
+- not a campaign
+- not an authority
+- not a framework import
+
+But the reason is no longer that the book is merely atmospheric. The reason is
+that it is philosophically ambitious enough to be worth contesting rather than
+quietly absorbing.
+
+## Bounded surfaces completed so far
+
+The localized readout now includes:
+
+- introduction + chapter 1 for the book's philosophical spine
+- chapter 3 + chapter 5 for the book's strongest positive semiological wager
+- chapter 6 + conclusion for the generated-writing / service / rhetoric end
+  point
+- chapter 4 as the bridge from structuralist language theory to the later
+  program
+- chapter 2 as the genealogy of chatbot reception and the globalized Eliza
+  effect
+
+No further tranche is load-bearing by default. If Weatherby is touched again,
+it should be because a specific question has emerged, not because the scaffold
+still feels incomplete.
 
 ## What this does not license
 
@@ -448,14 +503,152 @@ Questions to keep live while reading:
 - does he flatten embodied discernment into the same semiotic story when it
   should remain distinct?
 
+## 2026-04-19 - fourth bounded read (chapter 4)
+
+Chapter 4 does not change the book's center of gravity, but it does clarify
+one important bridge: why Weatherby thinks LLMs should be read as literary
+machines in the first place.
+
+Read surface:
+
+- `sources/modern/weatherby-language-machines/source/raw/014-large-literary-machines.txt`
+
+### What chapter 4 confirmed
+
+1. `Large literary machines` is a bridge claim, not the book's final handle.
+
+   Weatherby is not mainly saying that LLMs are interesting because they write
+   literature well. He is saying they touch the literary or poetic aspect of
+   language itself, the generative background from which more specific
+   functions like reference, communication, and genre-performance are drawn.
+
+2. The chapter clarifies why chapter 5 had to happen.
+
+   By leaning on Parrish, Shannon, and literary-form debates, chapter 4 sets
+   up the move from `literary machine` to `general poetics`. The important
+   transition is from art-object talk to a theory of form, redundancy, and
+   value in language as such.
+
+3. The live pressure here is `form`, not literature.
+
+   The most useful surviving point is that form names neither syntax alone nor
+   semantics alone, but their calibrated relation. That makes chapter 4 more
+   helpful as a bridge into the later argument than as an independent chapter
+   to carry around.
+
+### What sharpened after chapter 4
+
+1. `Large literary machines` is not one of the book's strongest end-state
+   handles.
+
+   It is a real phrase, but its main value is transitional: it helps explain
+   how Weatherby gets from structuralist language theory to generated writing
+   and rhetoric.
+
+2. The chapter confirms the book's strongest tendency toward theoretical
+   totalization.
+
+   By treating the literary / poetic function as close to the essence of
+   language, Weatherby gains explanatory reach but also risks making literary
+   theory the master discourse for too much.
+
+3. The later handles remain stronger.
+
+   After this read, the most useful carries are still:
+
+   - `language as a service`
+   - `semantic packages`
+   - contested `return of rhetoric`
+
+## 2026-04-19 - fifth bounded read (chapter 2)
+
+Chapter 2 does not replace the later center of gravity, but it does clarify
+the book's genealogy of chatbot reception and makes the `Eliza effect` more
+than a familiar anecdote. It is the cleanest place where Weatherby says what he
+thinks actually went global.
+
+Read surface:
+
+- `sources/modern/weatherby-language-machines/source/raw/012-the-eliza-effect-goes-global.txt`
+
+### What chapter 2 confirmed
+
+1. `Global Eliza effect` is a real handle, not just a scene-setting phrase.
+
+   Weatherby explicitly recasts the contemporary question away from `has the
+   model passed the Turing test?` toward `how extensively has it spread the
+   Eliza effect, and what has that done to our cultural sense of
+   intelligence?`
+
+2. The chapter makes chatbot reception, not machine interiority, the
+   immediate object.
+
+   The useful point is not that a bot has acquired a hidden personality or a
+   `shadow self`. It is that public uptake keeps mistaking semiological
+   operations and semantic clustering for depth, agency, or inner life.
+
+3. `Remainder humanism` becomes more concrete here.
+
+   Chapter 2 is one of the clearest places where Weatherby says current debate
+   keeps retreating to an insulated human remainder instead of learning to
+   read computational sign-systems as culture in action.
+
+4. The genealogy matters because it widens the target beyond chatbot hype.
+
+   By bringing in Turing and especially McCulloch, Weatherby tries to show
+   that the issue is not simply anthropomorphic error but a longer difficulty
+   in thinking intelligence, semiosis, and formal capacity together.
+
+### What sharpened after chapter 2
+
+1. Chapter 2 backfills the book's historical and reception logic more than it
+   changes its end-state.
+
+   The late-book handles remain stronger than `global Eliza effect` as
+   takeaways. But chapter 2 helps explain why Weatherby thinks the field should
+   be redescribed in cultural-semiotic rather than intelligence-first terms.
+
+2. The strongest live gain is genealogical.
+
+   If chapter 6 and the conclusion gave the book its most usable compressed
+   claims, chapter 2 gives it the clearest reception-history frame for why
+   those claims are supposed to matter now.
+
+3. The same risk shows up earlier than it first seemed.
+
+   The chapter is sharp when it replaces intelligence-mystique with reception
+   and semiotic uptake. It is weaker when the enlarged semiotic frame starts to
+   do too much of the explanatory work by itself.
+
+### What this changes in the overall readout
+
+1. `Global Eliza effect` is worth carrying as a secondary genealogy handle.
+
+   It is not stronger than:
+
+   - `language as a service`
+   - `semantic packages`
+   - contested `return of rhetoric`
+
+   But it is now the cleanest short handle for the book's account of why
+   chatbot reception became culturally decisive.
+
+2. The book's center still is not AI ontology.
+
+   After this read, the strongest center remains generated writing, packaged
+   ideology, and service-layered language under platform conditions.
+
 ### If Weatherby is touched again after this
 
-No further bounded surface is currently load-bearing in the same way.
+No further bounded surface is currently load-bearing by default.
 
-If more reading is wanted, choose by question:
+The current readout is enough to carry Weatherby as a localized modern
+interlocutor on:
 
-- chapter 4 if you want more literary-machine concretion
-- chapter 2 if you want more genealogy of chatbot reception
+- generated writing
+- language as a service
+- semantic packages
+- the global Eliza effect as genealogy of uptake
 
-Otherwise, the current readout is enough to carry the book as a localized
-modern interlocutor without widening the project around it.
+Any further return should be keyed to a concrete question rather than another
+completion pass.

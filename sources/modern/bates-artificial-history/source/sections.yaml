@@ -1,0 +1,303 @@
+book:
+  title: "An Artificial History of Natural Intelligence"
+  author: "David W. Bates"
+  source_pdf: "sources/modern/incoming/books/An Artificial History of Natural Intelligence _ Thinking -- David W_ Bates.pdf"
+  extracted_full_text: "source/full/artificial-history-of-natural-intelligence.txt"
+sections:
+  - seq: 0
+    slug: "front-matter-and-contents"
+    title: "Front matter and contents"
+    kind: "front-matter"
+    file: "raw/000-front-matter-and-contents.txt"
+    start_line: 1
+    end_line: 154
+    line_count: 154
+    printed_page_start: null
+  - seq: 11
+    slug: "autonomy-and-automaticity"
+    title: "1. Autonomy and Automaticity: On the Contemporary Question of Intelligence"
+    kind: "chapter"
+    file: "raw/011-autonomy-and-automaticity.txt"
+    start_line: 155
+    end_line: 654
+    line_count: 500
+    printed_page_start: "2"
+  - seq: 12
+    slug: "integration-and-interruption"
+    title: "2. Integration and Interruption: The Cartesian Thinking Machine"
+    kind: "chapter"
+    file: "raw/012-integration-and-interruption.txt"
+    start_line: 655
+    end_line: 1379
+    line_count: 725
+    printed_page_start: "16"
+  - seq: 13
+    slug: "spiritual-automata"
+    title: "3. Spiritual Automata: From Hobbes to Spinoza"
+    kind: "chapter"
+    file: "raw/013-spiritual-automata.txt"
+    start_line: 1380
+    end_line: 2063
+    line_count: 684
+    printed_page_start: "33"
+  - seq: 14
+    slug: "spiritual-automata-revisited"
+    title: "4. Spiritual Automata Revisited: Leibniz and Automatic Harmony"
+    kind: "chapter"
+    file: "raw/014-spiritual-automata-revisited.txt"
+    start_line: 2064
+    end_line: 2743
+    line_count: 680
+    printed_page_start: "49"
+  - seq: 15
+    slug: "humes-enlightened-nervous-system"
+    title: "5. Hume's Enlightened Nervous System"
+    kind: "chapter"
+    file: "raw/015-humes-enlightened-nervous-system.txt"
+    start_line: 2744
+    end_line: 3279
+    line_count: 536
+    printed_page_start: "65"
+  - seq: 16
+    slug: "machinery-of-cognition-first-critique"
+    title: "6. The Machinery of Cognition in the First Critique"
+    kind: "chapter"
+    file: "raw/016-machinery-of-cognition-first-critique.txt"
+    start_line: 3280
+    end_line: 3936
+    line_count: 657
+    printed_page_start: "80"
+  - seq: 17
+    slug: "pathology-of-spontaneity"
+    title: "7. The Pathology of Spontaneity: The Critique of Judgment and Beyond"
+    kind: "chapter"
+    file: "raw/017-pathology-of-spontaneity.txt"
+    start_line: 3937
+    end_line: 4414
+    line_count: 478
+    printed_page_start: "95"
+  - seq: 18
+    slug: "babbage-lovelace-and-the-unexpected"
+    title: "8. Babbage, Lovelace, and the Unexpected"
+    kind: "chapter"
+    file: "raw/018-babbage-lovelace-and-the-unexpected.txt"
+    start_line: 4415
+    end_line: 4746
+    line_count: 332
+    printed_page_start: "108"
+  - seq: 19
+    slug: "psychophysics"
+    title: "9. Psychophysics: On the Physio-Technology of Automatic Reason"
+    kind: "chapter"
+    file: "raw/019-psychophysics.txt"
+    start_line: 4747
+    end_line: 5127
+    line_count: 381
+    printed_page_start: "116"
+  - seq: 20
+    slug: "singularities-of-the-thermodynamic-mind"
+    title: "10. Singularities of the Thermodynamic Mind"
+    kind: "chapter"
+    file: "raw/020-singularities-of-the-thermodynamic-mind.txt"
+    start_line: 5128
+    end_line: 5370
+    line_count: 243
+    printed_page_start: "125"
+  - seq: 21
+    slug: "the-dynamic-brain"
+    title: "11. The Dynamic Brain"
+    kind: "chapter"
+    file: "raw/021-the-dynamic-brain.txt"
+    start_line: 5371
+    end_line: 5732
+    line_count: 362
+    printed_page_start: "131"
+  - seq: 22
+    slug: "prehistoric-humans-and-the-technical-evolution-of-reason"
+    title: "12. Prehistoric Humans and the Technical Evolution of Reason"
+    kind: "chapter"
+    file: "raw/022-prehistoric-humans-and-the-technical-evolution-of-reason.txt"
+    start_line: 5733
+    end_line: 6174
+    line_count: 442
+    printed_page_start: "141"
+  - seq: 23
+    slug: "creative-life-and-the-emergence-of-technical-intelligence"
+    title: "13. Creative Life and the Emergence of Technical Intelligence"
+    kind: "chapter"
+    file: "raw/023-creative-life-and-the-emergence-of-technical-intelligence.txt"
+    start_line: 6175
+    end_line: 6524
+    line_count: 350
+    printed_page_start: "152"
+  - seq: 24
+    slug: "technology-is-not-the-liberation-of-the-human-but-its-transformation"
+    title: "14. Technology Is Not the Liberation of the Human but Its Transformation . . ."
+    kind: "chapter"
+    file: "raw/024-technology-is-not-the-liberation-of-the-human-but-its-transformation.txt"
+    start_line: 6525
+    end_line: 6554
+    line_count: 30
+    printed_page_start: "162"
+  - seq: 25
+    slug: "techniques-of-insight"
+    title: "15. Techniques of Insight"
+    kind: "chapter"
+    file: "raw/025-techniques-of-insight.txt"
+    start_line: 6555
+    end_line: 7292
+    line_count: 738
+    printed_page_start: "164"
+  - seq: 26
+    slug: "brains-in-crisis-psychic-emergencies"
+    title: "16. Brains in Crisis, Psychic Emergencies"
+    kind: "chapter"
+    file: "raw/026-brains-in-crisis-psychic-emergencies.txt"
+    start_line: 7293
+    end_line: 7566
+    line_count: 274
+    printed_page_start: "181"
+  - seq: 27
+    slug: "bio-technicity-in-von-uexkuell"
+    title: "17. Bio-Technicity in Von Uexkull"
+    kind: "chapter"
+    file: "raw/027-bio-technicity-in-von-uexkuell.txt"
+    start_line: 7567
+    end_line: 7811
+    line_count: 245
+    printed_page_start: "188"
+  - seq: 28
+    slug: "lotka-on-the-evolution-of-technical-humanity"
+    title: "18. Lotka on the Evolution of Technical Humanity"
+    kind: "chapter"
+    file: "raw/028-lotka-on-the-evolution-of-technical-humanity.txt"
+    start_line: 7812
+    end_line: 8110
+    line_count: 299
+    printed_page_start: "194"
+  - seq: 29
+    slug: "thinking-machines"
+    title: "19. Thinking Machines"
+    kind: "chapter"
+    file: "raw/029-thinking-machines.txt"
+    start_line: 8111
+    end_line: 8271
+    line_count: 161
+    printed_page_start: "201"
+  - seq: 30
+    slug: "a-typology-of-machines"
+    title: "20. A Typology of Machines"
+    kind: "chapter"
+    file: "raw/030-a-typology-of-machines.txt"
+    start_line: 8272
+    end_line: 8429
+    line_count: 158
+    printed_page_start: "205"
+  - seq: 31
+    slug: "philosophical-anthropology-the-human-as-technical-exteriorization"
+    title: "21. Philosophical Anthropology: The Human as Technical Exteriorization"
+    kind: "chapter"
+    file: "raw/031-philosophical-anthropology-the-human-as-technical-exteriorization.txt"
+    start_line: 8430
+    end_line: 9209
+    line_count: 780
+    printed_page_start: "209"
+  - seq: 32
+    slug: "wittgenstein-on-the-immateriality-of-thinking"
+    title: "22. Wittgenstein on the Immateriality of Thinking"
+    kind: "chapter"
+    file: "raw/032-wittgenstein-on-the-immateriality-of-thinking.txt"
+    start_line: 9210
+    end_line: 9440
+    line_count: 231
+    printed_page_start: "228"
+  - seq: 33
+    slug: "cybernetic-machines-and-organisms"
+    title: "23. Cybernetic Machines and Organisms"
+    kind: "chapter"
+    file: "raw/033-cybernetic-machines-and-organisms.txt"
+    start_line: 9441
+    end_line: 9931
+    line_count: 491
+    printed_page_start: "234"
+  - seq: 34
+    slug: "automatic-plasticity-and-the-pathological-machine"
+    title: "24. Automatic Plasticity and the Pathological Machine"
+    kind: "chapter"
+    file: "raw/034-automatic-plasticity-and-the-pathological-machine.txt"
+    start_line: 9932
+    end_line: 10575
+    line_count: 644
+    printed_page_start: "245"
+  - seq: 35
+    slug: "turing-and-the-spirit-of-error"
+    title: "25. Turing and the Spirit of Error"
+    kind: "chapter"
+    file: "raw/035-turing-and-the-spirit-of-error.txt"
+    start_line: 10576
+    end_line: 11892
+    line_count: 1317
+    printed_page_start: "260"
+  - seq: 36
+    slug: "epistemologies-of-the-exosomatic"
+    title: "26. Epistemologies of the Exosomatic"
+    kind: "chapter"
+    file: "raw/036-epistemologies-of-the-exosomatic.txt"
+    start_line: 11893
+    end_line: 12854
+    line_count: 962
+    printed_page_start: "289"
+  - seq: 37
+    slug: "leroi-gourhan-on-the-technical-origin-of-the-exteriorized-mind"
+    title: "27. Leroi-Gourhan on the Technical Origin of the Exteriorized Mind"
+    kind: "chapter"
+    file: "raw/037-leroi-gourhan-on-the-technical-origin-of-the-exteriorized-mind.txt"
+    start_line: 12855
+    end_line: 13572
+    line_count: 718
+    printed_page_start: "311"
+  - seq: 38
+    slug: "technogenesis-in-the-networked-age"
+    title: "28. Technogenesis in the Networked Age"
+    kind: "chapter"
+    file: "raw/038-technogenesis-in-the-networked-age.txt"
+    start_line: 13573
+    end_line: 14316
+    line_count: 744
+    printed_page_start: "328"
+  - seq: 39
+    slug: "failures-of-anticipation"
+    title: "29. Failures of Anticipation: The Future of Intelligence in the Era of Machine Learning"
+    kind: "chapter"
+    file: "raw/039-failures-of-anticipation.txt"
+    start_line: 14317
+    end_line: 14656
+    line_count: 340
+    printed_page_start: "345"
+  - seq: 50
+    slug: "acknowledgments"
+    title: "Acknowledgments"
+    kind: "acknowledgments"
+    file: "raw/050-acknowledgments.txt"
+    start_line: 14657
+    end_line: 14691
+    line_count: 35
+    printed_page_start: "353"
+  - seq: 51
+    slug: "notes"
+    title: "Notes"
+    kind: "back-matter"
+    file: "raw/051-notes.txt"
+    start_line: 14692
+    end_line: 16622
+    line_count: 1931
+    printed_page_start: "355"
+  - seq: 52
+    slug: "index"
+    title: "Index"
+    kind: "back-matter"
+    file: "raw/052-index.txt"
+    start_line: 16623
+    end_line: 16818
+    line_count: 196
+    printed_page_start: "391"

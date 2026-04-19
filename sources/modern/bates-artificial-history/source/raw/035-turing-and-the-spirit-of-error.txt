@@ -1,0 +1,1316 @@
+25
+Turing and the Spirit of Error
+
+
+
+
+In 1950, Alan Turing conjectured that in the year 2000 human cognition
+would be successfully simulated by digital computers.1 This conjecture
+inaugurated the new discipline that would soon be called artificial intelli-
+gence. As is well known, so-called classical AI aimed first to analyze hu-
+man thinking with precision, in order then to model cognitive operations
+in computer programs. The term “artificial intelligence” itself was coined
+by John McCarthy, in his grant application to host a workshop at Dartmouth
+on new research and theory in machine thinking. As McCarthy and his co-
+authors put it, “This study is to proceed on the basis of the conjecture that
+every aspect of learning or any other feature of intelligence can in principle
+be so precisely described that a machine can be made to simulate it.”2 This
+was Turing’s inspiration: the idea that the mind might be conceived of as
+a kind of machine, and therefore something capable of being modeled by
+what he described as a universal machine, the so-called Turing machine.
+The subsequent history—or more accurately, histories—of AI resist any ef-
+fort to forge a single comprehensive narrative. However, dominating the re-
+search field was the assumption of a parallelism, between the mind and the
+computer (whether the technology considered was software or hardware).
+   It is not surprising, then, that from the very beginning the link between
+the recently developed digital computers and the mind-brain was under-
+stood to be grounded in the notion of mechanical intelligence. Whether fo-
+cused on the logos of the psyche, or actual brain processes, human intelli-
+gence was conceptualized as a form of automatic information processing with
+strong analogies with computer processing of information. This mirroring
+of mind and computer in much of contemporary cognitive science and
+neuroscience seems to vindicate Turing’s original vision, namely, to under-
+
+260
+
+                                              TURING AND THE SPIRIT OF ERROR   261
+
+
+
+stand thinking as akin to an algorithmic, and hence essentially mechanistic
+and deterministic, process.
+    However, as we will see, this reading misses what is arguably most in-
+teresting in Turing’s project, and also fails to connect his thinking to earlier
+and contemporary lines of thought that intertwine around notions of cog-
+nition, body, mind, and technology. Rather than simply claiming to under-
+stand human thinking as just another mechanical process, so that it could
+be successfully simulated with another machine in an “imitation game”
+(later called the “Turing test”), Turing was clearly interested in quite a dif-
+ferent goal—namely, to conceptualize and construct intelligent machines.
+Or to put it another way, Turing was looking closely at human intelligence
+for clues of how to transform uninteresting machines into intelligent ones.
+What made this project so challenging for Turing is that he clearly recog-
+nized that the most interesting aspects of human intelligence clearly re-
+sisted any easy reductionist account, an account that would of course seem
+to be necessary for the purely mechanical simulation of the highest forms
+of human thinking.
+
+Spiritual Machines
+
+
+We need to begin before the war, before Turing began to work on cryptog-
+raphy and build automatic information machines, before he helped design
+and build Britain’s first digital computer at Manchester University. It is of-
+ten mentioned that Turing, as a young person, was fascinated with the book
+Natural Wonders That Every Child Should Know (1912), which explains the na-
+ture and development of organisms and the mechanisms of their function.
+One chapter is titled “Living Automobiles” and contains the suggestive sen-
+tence, “For of course, the body is a machine.”3 Yet whatever influence that
+text had on Turing, at least as he retroactively understood it, it is also the
+case that as a college student Turing was engaged with some of the leading-
+edge philosophical and scientific work in the interwar period, work that
+wrestled with the much more complex and difficult question of how to in-
+tegrate the findings in physical science with the problem of organization in
+biology and with the contentious question of the nature of the human mind.
+Turing read, it appears, Alfred North Whitehead and Arthur Eddington, not
+to mention Einstein, Fichte, and Clerk Maxwell, and he seems to clearly un-
+derstand the implications of this work for any thinking about the human.
+   We can isolate one moment in particular. A letter, circa 1932. The twenty-
+year-old Turing writes a short essay, “Nature of Spirit,” and sends it to the
+mother of a close friend of his, Christopher Morcom, who had died sud-
+
+262   C H A PT E R 25
+
+
+
+denly two years earlier. In the letter Turing, alluding to Eddington’s effort
+to think philosophically about the nature of life and thought in relation to
+recent work on quantum physics, reflects that the predictable Laplacian
+mechanistic universe is no more. How, then, can we explain how all the at-
+oms are regulated and given order in the physical and the organic spheres?
+Eddington will say that often events occur that cannot be “undone” because
+they emerge from singular circumstances—due to the “introduction of a
+random element analogous to that introduced by shuffling.” As Edding-
+ton argued, the new physics revealed that there was some “larger reality”
+of which observable physical appearances were only a fragment. He would
+use this orientation to suggest that we could now be relieved of the “former
+necessity of supposing that mind is subject to deterministic law or alterna-
+tively that it can suspend deterministic law in the physical world.”4
+    Even more suggestive is Eddington’s claim that human experience, es-
+pecially human feeling, is not a biologically contained one but rather evi-
+dence of our participation in a “reality transcending the narrow limits of
+our particular consciousness,” pointing to the “mystic experience” as re-
+vealing a certain “essential truth.”5 The key claim was this: “Starting from
+aether, electrons, and other physical machinery we cannot reach conscious
+man and render count of what is apprehended in his consciousness.” While
+it is conceivable that we could create a human machine with reflexes (here
+Eddington echoes Descartes), the machine can never lead to true rationality
+and the ideal of responsibility—morality or religion, that is.6
+    So in answering the question of what constitutes “order” in the cosmos
+in this letter, the young Turing takes inspiration from the great British
+Hegelian John McTaggart, claiming that this organizing principle is “spirit,”
+without which matter is “meaningless.” Turing will take this as confirma-
+tion of some idea of the soul. As Turing puts it, “living bodies can ‘attract’
+and hold on to a ‘spirit’” and when the mere mechanism of the organic body
+dies, the spirit, he suggests, may be able to find a new body to live in.7
+    Not surprisingly, these thoughts on spirit have been dismissed as ju-
+venilia. And we know that the death of his friend—Turing’s first (if unre-
+quited) love—was a significant blow, which could explain this somewhat
+hazy desire to believe in reincarnation. Perhaps. But let us note that even
+in his iconic 1950 essay, Turing will admit, while criticizing the “argument
+from consciousness” that objects to the very possibility of an artificial in-
+telligence emerging from a machine, “I do not wish to give the impression
+that I think there is no mystery about consciousness.”8 (Not to mention
+Turing’s explicit acknowledgment of parapsychological phenomena in the
+same paper.)
+
+                                             TURING AND THE SPIRIT OF ERROR   263
+
+
+
+Oracles and Automaticity
+
+
+In any case, Turing’s epochal 1936 essay, a contribution to a rather esoteric
+topic in mathematical logic, the decision problem, and the first appearance
+of a theory of automatic digital computation, was in no way aimed at some
+proof of the mechanisms of thought. As is well known, Turing’s mathemat-
+ical work was closely related to proofs devised by Kurt Gödel in his famous
+work on undecidability and completeness and Alonzo Church’s indepen-
+dent (and prior) discovery of Turing’s essential claim. What was import-
+ant about Turing’s proof was of course the introduction of the idea of what
+would soon be called a “Turing machine.” As he imagined it, this was a ma-
+chine that could replicate the functions of a human computer, not a human
+“mind.” Human computers, historically, worked with rules and numbers
+and therefore hardly exemplified the full range of intelligence found in hu-
+man cultures. What was crucial for Turing was the idea of a procedure that
+determined the sequence of computation. As a conceptual tool, the Turing
+machine helped demonstrate clearly the impossibility of ever solving the
+decision problem, that is, of finding a method by which one could know in
+advance if a function could be computed. As Turing wrote, “A function is
+effectively calculable if its values can be found by some purely mechanical
+process.” Turing’s revolutionary move was to radicalize this: “We may take
+this statement literally, understanding by a purely mechanical process one
+which could be carried out by a machine.”9
+   The automaticity of the machine is what allowed Turing to prove so el-
+egantly the impossibility of a “mechanical” or formal procedure that could
+be applied to any function in order to solve the decision problem. What
+would become so important in the wake of this mathematical argument is,
+of course, Turing’s new way of thinking about machines: “If at each stage
+the motion of a machine . . . is completely determined by the configuration,
+we shall call the machine an ‘automatic’ machine.”10 Critical here is the idea
+of determination, not mechanism as it is usually understood. For Turing’s
+machine was perhaps the most unusual machine ever conceived: it was a
+machine that had no function of its own, no operation or movement that it
+could make by itself; it had to be given a configuration.11 The machine was,
+in essence, a machine waiting to be instructed. This was a physical entity
+but not a physical machine, defined by its physical organization and cau-
+sality, that is. The operations of the Turing machine are operations on in-
+formation, governed by rules of transformation. What was truly astonish-
+ing about this machine was not its automaticity (for any automaton could
+function independently as long as it had a power source). What Turing had
+
+264   C H A PT E R 25
+
+
+
+shown was the possibility of a simple machine regulating itself—completely
+determined by its initial configuration. Turing was greatly influenced here
+by Gödel’s ingenious (if incredibly difficult in practice) method for encod-
+ing every logical and mathematical function as a unique integer. These in-
+tegers could then be “added” together to form expressions of greater com-
+plexity, and in turn these expressions would be assigned a unique “Gödel
+number.” Since the generation of these numbers involved using primes, ev-
+ery expression could be “deconstructed” through prime factorization. The
+point that is important here is that Gödel showed how a simple arithmetic
+sequence could in fact “express” a meaning that was not reducible to the
+simple numerical data itself.12
+    What Turing showed was that a machine could be constructed that could
+compute any computable function automatically by encoding the logic of
+transformation (however complex, however logical, or even however ar-
+bitrary the rules might be) into the simple numerical representations. As
+in Gödel’s numbering system, Turing’s strings of numbers (which could be
+encoded most simply in a binary system of marks, requiring only one kind
+of discrimination of symbols—presence or absence of a mark) were in part
+the “data” of a function and the encoded transformation rules as well. The
+extensive and seemingly meaningless movement of the machine as it read
+and responded to simple symbols would in the end be translated—or better,
+decoded—as representatives or incarnations of concepts and rules that in a
+way had no intrinsic “meaning” in the system of symbols itself. Hence the
+incredible openness of the Turing machine and its status as an information
+machine driven by an “unseen” logic of operation that was not immediately
+visible in the specific numerical representations processed by the physi-
+cal system.
+    It is clear, however, that Turing was not in this period committed to any
+strong claims about the mechanistic or automatic nature of human think-
+ing in his elaboration of the first truly automatic general computer. In 1938,
+for example, at the height of his mathematical powers, Turing was in Princ-
+eton, to write a doctoral thesis on ordinal logic with Church. If, in the ear-
+lier, revolutionary paper of 1936 Turing had demonstrated how comput-
+ability could be understood as a process that “automatically” takes place in
+a machine—or in the mind of a human computer who is acting like a ma-
+chine, that is, simply following rules13—still he recognized even there that
+in “ambiguous configurations,” machines would stop because there was
+no rule that applied in the situation, and the machine would only restart if
+some “arbitrary choice” was made by an “external operator.”14 In that paper,
+he left this issue aside, focusing on the nature of computability and the ab-
+
+                                               TURING AND THE SPIRIT OF ERROR   265
+
+
+
+stract machines that would eventually turn into actual digital computers.
+In the Princeton thesis, however, Turing’s goal was in fact to disentangle
+the purely formal—that is, “mechanical”—procedures from those that re-
+quired what he called (in an echo of Pascal) mathematical intuitions, those
+“spontaneous judgments which are not the result of conscious reasoning.”15
+This is why, in the thesis, he introduced the strange and infamous figure
+of the “Oracle.” This was a mysterious “black box” that the automatic ma-
+chine could consult whenever it reached an impasse, a situation, that is,
+where its rules did not specify a response. As Turing argued, this Oracle of
+intuition by definition could never be a machine. This kind of (mathemati-
+cal) intuition was understood, therefore, never to be subject to formal spec-
+ification.16
+    If we want to interpret the significance of the Oracle for Turing’s later
+influential reflections on the possibility of machine intelligence, we need
+to be careful not to psychologize it too literally, since it was, after all, just
+a mathematical construct, and the intuitions it produced were rather spe-
+cific. But Turing seems to agree here with figures such as Kurt Gödel, and
+other so-called intuitionist mathematicians, who insisted on the mind’s
+ability to see truths that themselves could never be proven (“decided”)
+within the formal systems that generated them.17 I will also point out that
+one of Turing’s later essays, on the solvability or unsolvability of puzzles,
+ends with this conclusion: “These [results] may be regarded as going some
+way towards a demonstration, within mathematics itself, of the inadequacy
+of ‘reason’ unsupported by common sense.”18 There is something vague and
+imprecise about intuition and common sense, and Turing, I think it is clear,
+was always interested in the relationship between formal methods and those
+that were not so easily articulated or systematized. The challenge for Tur-
+ing in his mature work was how to conceptualize the possibility of a deter-
+minate (i.e., physical) machine organization that could behave, at one and
+the same time, as an “automatic” machine and, perhaps, as something that
+could function beyond the formal rules of operation without losing its sta-
+tus as a machine.
+
+Machines and the Incomputable
+
+
+This all might seem counterintuitive (or perhaps just confused). To indicate
+what I think is an important, if occluded, direction of Turing’s thought, I
+will point out that in the famous and massively influential 1950 paper,
+“Computing Machinery and Intelligence,” despite the very title, Turing in
+fact uses the words intelligence and intelligent very sparingly—each only one
+
+266   C H A PT E R 25
+
+
+
+time, to be precise. The first mention of intelligence refers to the quality
+that a human will need to possess in order to “guide a machine through
+accelerated evolutionary selection.” I am not at all sure what intelligence
+really means here. The use of the word toward the end of his essay is, how-
+ever, much more informative. Turing is very specific in his definition of
+this word: “Intelligent behavior presumably consists in a departure from
+the completely disciplined behavior involved in computation, but a rather
+slight one.”19 Given that the assumption from the start of the argument was
+that a digital computer would presumably be able to mimic a human mind
+by modeling the processes of thought in algorithmic programs, this defi-
+nition of intelligence raises some real difficulties. To focus on one: What
+exactly would be the ground of this departure from computation if the com-
+puter is defined (very precisely) as nothing more than a machine for com-
+putation? How could a computer not compute? However difficult this was
+to conceptualize, it was crucial to rethink “automaticity” and routine if one
+wanted to think about mechanized intelligence that aimed in some way at
+this human capacity for intuition.
+    It turns out that this problem is no anomaly in Turing’s work. In an ear-
+lier 1947 lecture on the construction of the new automatic computing en-
+gine he was working on for the National Propulsion Laboratory, Turing was
+already arguing that by rigidly programming a computer, one is in effect
+treating the computer as a “slave.” However, Turing suggested (presciently)
+that by telling it exactly what to do, all the time, at every moment, we
+would never be able to take full advantage of the machine’s true powers.
+Turing was advocating here (well before computer programming was even
+really well understood as a conceptually independent discipline) that the
+instruction tables that the computer was to execute should have only an
+“interim” status. That is, the instruction tables ought to be able to modify
+themselves, Turing insisted, “if good reason arose.” This would then lead to
+some interesting, and entirely unforeseen, new computing operations. It
+was the break with its own instructions that constituted true intelligence.
+As Turing commented, “It would be like a pupil who had learnt much
+from his master, but had added much more by his own work. When this
+happens I feel that one is obliged to regard the machine as showing intel-
+ligence.”20
+    As Turing imagined, the new computing machines would not be con-
+demned to slavery if they could liberate themselves from their own instruc-
+tions. Becoming intelligent would only be possible if the computer was
+given some kind of discretion—a certain minimum of autonomy, we can
+say. But how to build in such discretion? How to construct a mechanism
+
+                                            TURING AND THE SPIRIT OF ERROR   267
+
+
+
+that would perceive a “good reason” to modify itself ? What would that
+even mean?
+   In 1948, Turing wrote a long report, “Intelligent Machinery,” and devel-
+oped there a more sophisticated theory of both these issues, that is, intel-
+ligence and machinery. As an example of intelligence, he pointed to the
+famous anecdote about the mathematician Carl Friedrich Gauss. When
+Gauss was a young student, his class was told to add up a long series of
+numbers so that they would stay occupied for a while, but Gauss quickly
+and unexpectedly came up with the solution. Instead of patiently follow-
+ing the rules of addition, he thought of a more efficient formula that would
+allow him to evade the repetitive, tedious calculations.21 As this anecdote
+shows, intelligence, for Turing, should be identified as a departure from the
+routine. This ability to deviate from the known rules and seek new meth-
+ods was critically important when facing those situations where routines
+had already failed to make any progress, or when one encountered what
+mathematicians called the “undecidable.” Having worked with concrete
+examples of computing machines during and after the war, Turing knew
+that intelligence was not something that could be imported into the device
+when the machinery had halted—that would be to displace the function of
+intelligence outside the machine, into an oracle of some kind. That would
+be to admit, in other words, that machines could not be intelligent as ma-
+chines. This is why, it seems to me, Turing became so interested in deviation
+and departure from routine when discussing the digital computer. Such ab-
+errations opened up the possibility that intuitive intelligence could itself
+be engineered through slippage and failure and not some intervention from
+beyond the system.
+   In the report Turing suggested that machines would become intelli-
+gent only if they had what he called both discipline (which is represented by
+routine) and initiative: “To convert a brain or machine into a universal ma-
+chine is the extremest form of discipline. Without something of this kind
+one cannot set up proper communication. But discipline is certainly not
+enough in itself to produce intelligence. That which is required in addition
+we call initiative.” He meant that of course they would have to follow rules,
+but at the same time they would also have to be capable of beginning some-
+thing new. Or to put it more precisely: in breaking from the rules, some-
+thing new would be initiated by the machine. The key insight was to imag-
+ine a machine that did not have, in essence, any predetermined routines.22
+Turing described here, for the first time, relatively simple examples of what
+he called “unorganized machines”—these would soon be called artificial
+neural nets, abstract machines whose outputs depended on how inputs
+
+268   C H A PT E R 25
+
+
+
+were routed (with differently weighted strengths of connection) between
+networked elements. These “unorganized” machines were conceivable as
+machines, in that they had a structure that could by instantiated by a phys-
+ical array of elements, but still they seemed to defy the standard notion of a
+machine as something “designed for a definite purpose.”23 The unorganized
+machine had no definite purpose. But of course it was not a complete lack
+of organization that would lead to intelligence, according to Turing. It was
+the deviation from order that was crucial; this meant that the unorganized
+machine had to acquire a normative order from which to deviate; it had to
+internalize routines (we might say “habits”), that is, while at the same time
+maintaining some kind of discretion to abandon them. Acquiring determi-
+nation through programming was of course something that was relatively
+easy to understand (at least for Turing in this moment). But it was not so
+clear how a machine could exhibit this form of initiative that Turing was
+suggesting. This was precisely the kind of thinking that was usually consid-
+ered unspecifiable, unformalizable, uncomputable.
+    Turing’s description of initiative in this technical context was, to be sure,
+exceedingly cryptic, but it was very suggestive nonetheless. We know that
+discipline would be not enough to produce genuine intelligence, the pro-
+duction of something new and unexpected. And yet Turing did not claim
+that initiative was some novel capacity possessed by the machine. How
+could it be? Either the machine had a routine or it did not. There could be no
+“routine” for initiative. Equally problematic, of course, would be the invo-
+cation of some spiritual or technical “oracle” within the machine. Turing’s
+modern scientific approach demanded an explanation that was internally
+coherent. In the end, Turing argued in effect that we could understand ini-
+tiative not as the opposite of processes of determination but as intimately
+connected to them. Initiative, for Turing, emerged quite literally from the
+“residue” of discipline itself—something that was left over but also there
+from the very beginning. As he wrote, “Our task is to discover the nature
+of this residue as it occurs in man and to try and copy it in machines.”24 His
+use of the word residue was certainly provocative—the kind of intelligent
+behavior derived from the break of routine was in essence already latent
+in our least intelligent actions, namely, our routine habits of thought, what
+we could reconceptualize, according to Turing, as our own programmed
+forms of behavior.
+    Turing explained that there were really only two ways one could con-
+struct a machine that was both disciplined and capable of initiative. His
+first suggestion was that one could construct a disciplined machine, then
+“graft on some initiative” to make it more intelligent. I confess that this
+
+                                                TURING AND THE SPIRIT OF ERROR   269
+
+
+
+idea is hardly coherent. It is difficult to see what Turing has in mind here
+when he says that we could allow this hybrid machine to make more and
+more of its own “choices” or “decisions.” More interesting is Turing’s other
+suggestion: he says we could “start with an unorganized machine and . . .
+try to bring both discipline and initiative into it at once.”25
+    These categories, however, seem at first glance to be antithetical to one
+another. The question was how to engineer these discordant practices—
+norm, deviation—into one single operating machine. It is significant, then,
+that Turing was in these explorations (both philosophical and technologi-
+cal) undermining the foundations of the future (and soon dominant) anal-
+ogy between the computer as an automatic technical apparatus and the
+brain as an “information processor.” In fact, Turing was doing the opposite.
+He was interested in how to use the brain—that complex, plastic, and in-
+tegrated organ—to rethink the rigidity and predictability of the computer.
+    Indeed, in 1946, when Turing was in the midst of developing Britain’s
+first stored program digital computer, the Automatic Computing Engine
+(ACE), Turing wrote a letter to the psychiatrist and cybernetic thinker avant
+la lettre W. Ross Ashby. There Turing admitted that in his technical work he
+was “more interested in the possibility of producing models of the action
+of the brain” than in any practical applications of the new digital comput-
+ers that were of course inspired by his early work on theories of comput-
+ability.26 Turing’s interest in models of the nervous system and brain at this
+moment—and this is of course in line with what we have seen in so much of
+the neurological literature between the wars—in fact indicated a turn away
+from the strict notion of machine automaticity introduced in his formal
+mathematical work and a move to a new interest (for Turing at least) in the
+dynamic self-organization and reorganization of organic systems.
+
+Plastic Brains, Disorganized Machines: Interference
+
+
+In presenting the proposal for the ACE machine, Turing would bluntly state
+the analogy that informed his original concept of the “Turing machine,”
+that we think of computing by machine as similar to what humans do.
+
+   The class of problems capable of solution by the machine can be defined
+   fairly specifically. They are those problems which can be solved by human
+   clerical labour, working to fixed rules, and without understanding.27
+
+
+However, he would also go on to note, significantly (if, as always, somewhat
+cryptically):
+
+270     C H A PT E R 25
+
+
+
+      We stated at the beginning of this section that the machine should be
+      treated as entirely without intelligence. There are indications however that
+      it is possible to make the machine display intelligence at the risk of its mak-
+      ing occasional serious mistakes.28
+
+
+Here Turing made an important connection between the idea of intelli-
+gence as break or deviation from routine and the concept of error and risk.
+The challenge was to imagine a coherent machine that could, at one and
+the same time, be open to determination and, when necessary, liberate it-
+self from determination to become organized in a productively new way.
+    It is hardly surprising, then, in the classified 1948 report, “Intelligent
+Machinery,” Turing will argue that a genuine thinking machine will not
+be completely determined but will have to develop from an initial condi-
+tion that is not determined. Otherwise, that initial determination will also
+regulate, so to speak, the essence of its final state. The alternative Turing
+explored here is the idea that the machine will need to be constitutively un-
+organized. If, he observed, we look at the one strong example we have of an
+intelligent machine—that is, the human machine—we will find that it is a
+special kind of machine. In order to do anything at all, the machine must,
+Turing noted (in an allusion perhaps to Ashby’s recent work on dynamic
+reorganization of physical systems), be “subject to very much interfer-
+ence.” Interference is the rule, not the exception, in the case of human be-
+ings. That is worth dwelling on. For by “interference,” Turing did not mean
+that the machine is literally tampered with—that would be what he calls
+“screwdriver interference.” Turing focused instead on the “interference”
+that is characterized by the introduction of information entering the system
+from outside of the machine. “If we now consider interference,” wrote Tur-
+ing in a section titled “Interference with Machinery: Modifiable and Self-
+Modifying Machinery,” “we should say that each time interference occurs
+the machine is probably changed. It is in this sense that interference ‘mod-
+ifies’ a machine. The sense in which a machine can modify itself is even
+more remote.” Such interference, Turing argues, would be able to explain
+the change of the organization of the machine, modifying it and making it
+capable of completely new behaviors. The machine could, to borrow Ash-
+by’s depiction, therefore become a new machine altogether, at least in terms
+of its organizational order.29
+    Therefore, it must be emphasized, by “interference,” Turing meant ex-
+perience and training—education taken in the broadest sense of the term.
+The point is that the discipline of the human mind (the programs and rou-
+tines that we learn and then adopt) results from the constant interference
+
+                                                 TURING AND THE SPIRIT OF ERROR     271
+
+
+
+of what was originally an unorganized mind. Order comes after an initial
+dis-order. This meant that the machinery of the human mind was designed
+as a radically open machinery; it was an undetermined system. As Turing
+noted, and here he was drawing on any number of leading-edge neurophys-
+iological theories of the time, the part of the brain associated with the high-
+est forms of thinking—the cerebral cortex—was known to be, paradoxi-
+cally, the least organized. As Turing remarks, “We believe then that there
+are large parts of the brain, chiefly in the cortex, whose function is largely
+indeterminate.” Our most complex cognitive behavior, our very capacity
+for intelligent thinking, was not intrinsic to the brain; rather, it was deter-
+mined by the way our minds had been conditioned to act, through extensive
+interference from outside our cognitive “machinery”; as Turing puts it, “the
+cortex of the infant is an unorganized machine, which can be organized by
+suitable interference training.”30
+   This is why, for Turing, the key challenge for the project of constructing
+truly intelligent machinery was to understand and implement the process
+of learning, the site for this interplay between determination and indeter-
+mination, habit and plasticity. As Descartes had demonstrated in his own
+work on conjectural robotics, the body of the human was essentially a me-
+chanical system, and therefore its behaviors were capable of being simu-
+lated by suitable technological apparatuses. Building such a robotic mon-
+ster of this variety was not, Turing agreed, conceptually difficult.
+
+   One way of setting about our task of building a “thinking machine” would
+   be to take a man as a whole and to try and replace all the parts of him by
+   machinery. He would include television cameras, microphones, loudspeak-
+   ers, wheels and “handling servo-mechanisms” as well as some sort of “elec-
+   tronic brain.” This would be a tremendous undertaking of course. The ob-
+   ject, if produced by present techniques, would be of immense size, even if
+   the “brain” part were stationary and controlled the body from a distance.
+   (420)
+
+
+But Turing also gave his audience a warning, with an allusion to Shelley’s
+Frankenstein:
+
+   In order that the machine should have a chance of finding things out for it-
+   self it should be allowed to roam the countryside, and the danger to the ordi-
+   nary citizen would be serious. Moreover even when the facilities mentioned
+   above were provided, the creature would still have no contact with food, sex,
+   sport and many other things of interest to the human being. (420)
+
+272     C H A PT E R 25
+
+
+
+So Turing suggests focusing on the real essence of the problem of learning:
+How does the brain modify itself and react intelligently to its experiences?
+   The crucial point to emphasize here is that, for Turing, the very programs
+and routines that define the possibilities of human behavior are themselves
+acquired from outside of our thinking apparatus. This is why determination
+through interference must always presume a prior indetermination. We can
+suggest in this context that it is this foundational indetermination that Tur-
+ing is alluding to when he writes of the “residue” that always accompanies a
+disciplined and trained intelligent individual. As Turing remarks, “A large
+remnant of the random behavior of infancy remains in the adult” (424).
+The plasticity of the cortex never totally disappears; in being determined
+from the exterior, the interior always retains the possibility of not being re-
+stricted by that determination, to move without cause (“randomly”) into a
+new state.
+   The lingering openness of this indetermination is what provided, for
+Turing, the possibility—or maybe even the inevitability—of disruption,
+which is another word for cognitive initiative and the possibility of decision
+in conditions of radical undecidability. All of these are categories that Tur-
+ing used to define and explore the nature of proper intelligence. But I would
+like as well to focus on perhaps the least remarked on (if one of the more
+important) implications of Turing’s “interference” theory of intelligence.
+The quest for insight and knowledge was in its essence, he recognized, a
+social activity, a process involving the “transfer” of thought (routines and
+norms, data and frameworks) between minds in a loop of learning, or, to
+put it more bluntly, the concerted, targeted disruption of brains by other
+brains. As Turing put it:
+
+      As I have mentioned, the isolated man does not develop any intellectual
+      power. It is necessary for him to be immersed in an environment of other
+      men, whose techniques he absorbs during the first twenty years of his life.
+      He may then perhaps do a little research on his own and make a very few
+      discoveries which are passed on to other men. From this point of view the
+      search for new techniques must be regarded as carried out by the human
+      community as a whole, rather than by individuals. (431)
+
+
+The collective nature of intelligence, it would seem, also flows from the
+original indetermination of the human mind, the “unorganized” infant cor-
+tex. The lack of “natural” forms of intelligent thought is what requires but
+also enables the transformation of the brain into an intelligent and com-
+municative organ—like the original Turing machine, the empty openness
+
+                                                           TURING AND THE SPIRIT OF ERROR   273
+
+
+
+needs to be concretized with routines. In a nod perhaps to eighteenth-
+century tales of the “wolf child,” Turing noted:
+
+    The possession of a human cortex (say) would be virtually useless if no at-
+    tempt was made to organize it. Thus if a wolf by a mutation acquired a hu-
+    man cortex there is little reason to believe that he would have any selective
+    advantage. If however the mutation by chance occurred in a milieu where
+    speech had developed (parrot-like wolves), and if the mutation by chance
+    had well permeated a small community, then some selective advantage
+    might be felt. It would be then be possible to pass information on from gen-
+    eration to generation. However this is all rather speculative. (424)
+
+
+Thinking Machine Intelligence
+
+
+I remember how he came to my house late one evening to talk to Prof.
+J. Z. Young and me after we had been to a meeting in the Philosophy
+Department here. . . . After midnight he went off to ride home some five
+miles or so through the . . . winter’s rain. He thought so little of the physical
+discomfort that he did not seem to apprehend in the least degree why we
+felt concerned about him.
+     It was if he lived in a different and (I add diffidently, my impression) slightly
+inhuman world.31
+                                                                   Geoffrey Jefferson
+
+
+
+Turing was, after the war, in close contact with two important neurophysi-
+ologists, the eminent professor of neurosurgery Geoffrey Jefferson and the
+younger neurological researcher J. Z. Young, who specialized in the nervous
+systems of octopuses. The event mentioned in the epigraph was a gather-
+ing at Manchester University, in October 1949, organized by the philoso-
+pher Dorothy Emmet (who worked in the area of “process philosophy,” in-
+fluenced by Whitehead and others in that tradition). The gathering brought
+together Turing with the neurologists Jefferson and Young, the noted in-
+tellectual Michael Polanyi, and others, including Max Newman, Turing’s
+cryptological colleague at Bletchley Park and the lead designer on the Co-
+lossus project to build a digital computer during the war (a project Turing
+contributed to with significant theoretical work). The topic was Turing’s
+investigations into the new problem of “mechanical intelligence” spurred
+by the emergence of high-speed computing devices during and after World
+War II. Jefferson, incidentally, had just given a lecture on the topic earlier
+in 1949, having become familiar with the work at Manchester on the Mark
+I computer; the lecture was published in June in the British Medical Journal.
+
+274     C H A PT E R 25
+
+
+
+Newman had contributed a short piece in the same issue, “A Note on Elec-
+tric Computing Machines.” There he observed, “It is no doubt the possibil-
+ity of such non-mathematical applications that has led to these machines
+being brought into discussions on the thinking potentialities of machines,
+and to the suggestion that the human brain is itself a network of units of
+this general type.” Newman would, however, caution readers—by warning
+that “there is evidently a danger here that extravagant powers will be cred-
+ited to these devices, and conclusions drawn too rapidly about biological
+analogues,” but observing at the same time that these early “pilot projects”
+in computing have not yet revealed their true potential. As Newman pre-
+dicted, the new question to ask of computers will be: “Can anything that
+can be called ‘thought’ be so imitated and, if so, how much?” He concluded
+by suggesting that “the most promising line here will be to work within
+mathematics itself, to see how far the work of instruction-table making can
+be gradually transferred from the mathematician to the machine.”32
+    Turing was clearly dissatisfied with the discussions at this event in Octo-
+ber; when it came to writing his famous essay, “Computing Machinery and
+Intelligence,” he devoted a large portion of the text to refuting various “ob-
+jections” to the very idea of artificial intelligence, defined as the possibility
+of what Newman called “imitation.”
+    As we see in the article, Turing would in fact use Jefferson’s “Lister Ora-
+tion” as a key jumping off point for his own, more radical position. Turing
+cites the lecture, gently mocking it as an example of the misguided, almost
+romantic notion that true thinking must involve some kind of embodied
+“experience,” that is, some form of self-consciousness and feeling. This is
+the quote from Jefferson that Turing cites in full:
+
+      Not until a machine can write a sonnet or compose a concerto because of
+      thoughts and emotions felt, and not by the chance fall of symbols, could we
+      agree that machine equals brain—that is, not only write it but know that it
+      had written it. No mechanism could feel (and not merely artificially signal,
+      an easy contrivance) pleasure at its successes, grief when its valves fuse, be
+      warmed by flattery, be made miserable by its mistakes, be charmed by sex,
+      be angry or depressed when it cannot get what it wants. (445–46)
+
+
+Turing’s argument, which was laid out in the first sections of the article, was
+that the universal digital computer was universal only in the sense that it
+could simulate the performance of any another machine, provided that it
+was a “discrete-state” machine, one that was capable of being described as
+going through specific configuration states according to specific transfor-
+
+                                              TURING AND THE SPIRIT OF ERROR   275
+
+
+
+mation rules. This meant that the universal machine imitated a machine
+only in the sense that it could predict the “output” of the machine from its
+inputs by modeling the configurations and the transformation rules. (We
+would say that is a “virtual” simulation, whose value is that it accurately
+imitates the performance of the modeled system under various conditions
+or “input” values.)
+   In this context, Jefferson seems to just miss the point: Turing never
+claims that the computer is a brain or that it would ever have the actual
+capacities of a physiologically alive human being (this would include con-
+sciousness, feelings, etc). For Turing, the question was: Could we model (vir-
+tually) the performance of the human system, at least in its intelligent be-
+havior? If, for example, emotions or other factors were important, there was
+no reason they themselves could not be included in the model. The point of
+the Imitation Game (as we will see) was to test the accuracy of prediction of
+the model. The one, crucial difference in the modeling of intelligence was
+this: the original performance and the virtual, simulated performance were
+in fact virtually the same, in that they were both expressed in an external-
+ized concrete way in the form of a written text.
+   However, a closer look at Jefferson’s lecture, which was incidentally ti-
+tled “The Mind of Mechanical Men” (not cited by Turing, for some reason),33
+we can identify some important undercurrents in these discussion, prob-
+lems that not only help frame Turing’s own understanding of the relation-
+ship between the digital computer, the mind, and the brain but also reveal
+just how engaged Turing was with some of the most difficult and seemingly
+intractable challenges that faced anyone interested in a scientific, neu-
+rological understanding of human intelligence that did not simply make
+recourse to something entirely exterior to the brain—“spirit” in any of its
+many guises.
+
+The New Threat of Intelligent Machinery
+
+
+Jefferson’s oration was, ultimately, a warning. In the past, there was always
+a danger that we would read into animal behavior human cognitive quali-
+ties. Now, Jefferson observed, “I see a new and greater danger threatening—
+that of anthropomorphizing the machine” (1110). Strangely, though, Jeffer-
+son criticizes the new (and for him empty) idea that “wireless valves” could
+think by comparing it with an outdated theory in neurology, where it was
+believed that cells in the lower nervous system were able to “think” in some
+way, independently of the brain. In fact, despite Turing’s later critique, Jef-
+ferson is here quite enthusiastic about the possibilities opened up by think-
+
+276   C H A PT E R 25
+
+
+
+ing about the mind-brain relation in terms of the new electronic machines.
+In an intelligent survey of the history of automata from antiquity through
+cybernetics, Jefferson points to the significance of Descartes’s reflections
+on the animal-machine. Descartes identified the key issue: the body, in-
+cluding the nervous system, could be explicated as an enclosed mechani-
+cal system—an “automaton”—but this machine could never have what we
+know as a “mind.” The experience and practice of human cognition was it-
+self impossible to understand as just another mechanism (1105–6). Jeffer-
+son points out, though, that Descartes was wrong to externalize the mind,
+locating it in another sphere altogether. The modern view is that the brain
+is a special organ that “remains itself and is unique in Nature,” capable of
+consciousness and intelligence thinking, even though “its functions may
+be mimicked by machines” (1106).
+    What does he mean by this? Most important, the brain’s unique capac-
+ity is not reducible to its physical or physiological functions—the actions
+of neurons, the chemistry of emotion, and so on. Admitting to such a re-
+ductive view, writes Jefferson, would be to agree again with Huxley’s claim
+that we are all just “conscious automata”; it would be “to confess to a cer-
+tain ordinariness about mind, an ordinariness to which the richness and
+plasticity of its powers seem to give the lie and in revenge to demand a stu-
+pendous physical explanation” (1107). (Not to mention that this reductive
+view would also destroy political, moral, and religious doctrines that have
+brought security and serenity to so many people.)
+    The alternative view Jefferson proposes is in direct response to the new
+cybernetic views that were then in vogue, developed by figures such as
+Ashby and Grey Walter in Britain, and by Norbert Wiener and Warren Mc-
+Culloch most prominently in the United States. Citing Grey Walter’s famous
+“Tortoise” experiments (broadcast on the BBC) that involved self-directed
+automata guided by their “desire” to seek light and avoid, say, “dampness”
+or loud noises, Jefferson agrees that they do appear “life-like” in their op-
+eration and also agrees that if we scaled up the number of electrical con-
+nections of the Tortoise “brain” to match the much more vast numbers
+involved in animal nervous systems, we could probably imitate more com-
+plex animal behaviors. However, Jefferson does point out that the crucial
+missing element in the cybernetic automaton is anything analogous to the
+endocrine system—the physiological system of emotion, that is. His point
+is that this system is always interfering with the nervous system. In nature,
+it will produce “peculiarities of behavior often as inexplicable as they are
+impressive” (1107). This is why Jefferson resists a comprehensive machinic
+model of behavior: that model lacks a satisfactory account of the appetites
+
+                                                  TURING AND THE SPIRIT OF ERROR      277
+
+
+
+and other complex dynamics that directly intervene and thereby redirect
+neural order and organization. Or to put it more simply, Jefferson was ar-
+guing that any autonomous entity had to have its own teleological orien-
+tation, the presence of goals and desires, which were provided by systems
+independent of the calculating capacity of the neural structures.
+   However, even when considering the dynamics of the brain itself—and
+this is where the analogy with the new electronic machines governed by
+the “on/off” electrical switches was of course so tantalizing—Jefferson ob-
+serves that the proponents of the computer analogy have not fully under-
+stood what is meant by the integrative operation of the organ and nervous
+system as a whole, first described in neurological detail by Sherrington be-
+fore the Great War.
+
+   If we see that some nervous tissues behave like some electronic circuits we
+   must all the time remember that the resemblance is with fragments of the
+   nervous system and not with the whole integrated nervous system of man.
+   It is only right when we do so that we recollect something else, that we can-
+   not be sure that the highest intellectual processes are still carried out in the
+   same way. Something quite different, as yet undiscovered, may happen in
+   those final processes of brain activity that results in what we call, for conve-
+   nience, mind. (1108)
+
+
+Jefferson, for the sake of argument, assumes that even higher functions are
+just the result of neuronal connections at the lower levels. However, and
+here he is citing Wiener’s recent book Cybernetics (1948), Jefferson points
+out the failure of the computer analogy: the mechanical equivalent of a
+human brain would be as big as the Empire State Building and require the
+total output of Niagara Falls to power it. Still, the important point is that
+Jefferson fully understands the importance of the obviously interesting
+and productive analogy between nerves and electronic switching: the way
+impulses arriving in the nerve cell from other cells through the dendrites,
+sparking a continuation if a conductive threshold is met, parallels the way
+configuration of wireless valves can store messages and exhibit what Sher-
+rington called “convergence and divergence”—inhibition or activation de-
+pending on the thresholds governing inputs from multiple sources (1108).
+And Jefferson agrees, citing new technical developments in the area, that
+machines can be understood to have some form of “memory” when electri-
+cal charges can be maintained in circuits.
+   So Jefferson’s critique here is not focused on the analogies between com-
+puters and the brain (similarities that were, to be sure, still conjectural at
+
+278     C H A PT E R 25
+
+
+
+this point, as Jefferson notes). Jefferson does, however, point to what he
+sees as a fundamental dis-analogy, one that is not at all conjectural but
+simply self-evident. Backed by a vast literature on neural plasticity and the
+integrative action of the nervous system, Jefferson reminds us:
+
+      Damage to large parts of the human brain, entailing vast cell losses, can oc-
+      cur without serious loss of memory, and that is not true of calculating ma-
+      chines so far, though so large a one might be imagined that parts of it might
+      be rendered inoperative without total loss of function. It can be urged, and
+      it is cogent argument against the machine, that it can answer only problems
+      given to it, and, furthermore, that the method it employs is one prearranged
+      by its operator. The “facilities” are provided and can be arranged in any or-
+      der by “programming” without rebuilding. (1109)
+
+
+While he acknowledges that Wiener, in particular, has sketched out some
+technological analogs of plasticity (the telephone exchange that can “re-
+route” messages when lines are down, for example) as well as technical
+analogies for “pathologies” of networked circuits in neural disorders, Jef-
+ferson remains unconvinced, even though these new technologies will, he
+believes, spur some new approaches to neurological research.
+    Jefferson concludes, then, with a reiteration of human exceptional-
+ism, relying on one of the most important distinctions, recognized by the
+Greeks, Descartes, and contemporary neurophysiology, namely, the spe-
+cial human capacity for language and symbolic communication. That is
+what distinguishes all genuinely human thought from animal (or even ma-
+chine?) cognition. The speed of calculation is impressive, Jefferson admits,
+but this speed is just like the powerful feats of new mechanical cranes; they
+are both a mere amplification, in exosomatic form, of our own basic physi-
+ological capacities.
+    In any case, the key point for Jefferson is that electronic computers have
+only mimicked very fragmentary, lower-level neural operations, which are
+in this micro domain completely deterministic. It is their functional deter-
+minism that marks their limit as explanatory model. If, as Jefferson argues,
+human thought and emotion is what produces novelty, the appearance of
+“creative thinking in verbal concepts” (1110), then some other, nondeter-
+ministic factor like consciousness must be invoked. So only here, at this
+concluding point, does Jefferson state that the threshold for artificial in-
+telligence should be the machine that writes a sonnet. The sonnet is not
+just a “form” to be generated by the rules of the genre, but ultimately the
+expression of an internal desire that cannot be reduced to the operations of
+
+                                              TURING AND THE SPIRIT OF ERROR   279
+
+
+
+the neural system—which itself is not reducible to the function and local
+aggregation of single neuronal cells.
+
+Computing Machinery and the Exteriorization of Thought
+
+
+This long digression through Jefferson’s lecture only underlines the extent
+to which Turing’s iconic essay, “Computing Machinery and Intelligence,”
+published in the philosophical journal Mind in 1950, needs to be read less
+as a foundational text of the future discipline of “artificial intelligence”
+(the programming of intelligence) and more as an attempt to resolve the
+twisted, almost paradoxical relationship between determination and inde-
+termination, organization and disorganization—that is, automaticity and
+plasticity—in relation to various systems: biological, mechanical, and “in-
+tellectual” (i.e., informational) spheres. Turing’s intelligent machine—
+which for him must always include the human “machine” born in the usual
+manner, or, as he speculated here, a cloned person—was figured as one that
+was capable of transcending its own mechanisms, not, crucially, by reference
+to another plane of existence altogether. The machine would acquire intel-
+ligence instead by failing to be a proper machine.
+    Turing began with an acknowledgment of the semantic ambiguity of the
+word think, which was embedded, historically, in a certain technological era
+that was now ending (with the implication that industrial manufacturing
+machines were usually the paradigm of “machine” for the average person).
+So instead, in the threshold moment in the history of technology, he pro-
+posed a thought experiment—the famous Imitation Game. Turing asked:
+What if we could not tell the difference between a human mind and a com-
+puter simulation of a mind? Would we be comfortable saying that the com-
+puter was really thinking, just as a human mind was?
+    Turing predicted, correctly, that there would great resistance to the claim
+that a machine could think, even if it easily won the Imitation Game. This
+is because success in the imitation game would mean that the computer
+had succeeded in modeling the processes of the mind in determinate com-
+puter routines—algorithmic programs, we would now say.34 The almost Ni-
+etzschean implication was that we are simply “conscious automata,” to use
+Huxley’s phrase.
+    The Imitation Game has been read and reread from many different per-
+spectives, including, most notably, by those who have emphasized its cru-
+cial gendered configuration and have teased out the sometimes unexpected
+psychological (and even psychoanalytic) implications.35 In essence, the first
+iteration of the Imitation Game is a contest between a “man and a woman.”
+
+280   C H A PT E R 25
+
+
+
+Sequestered from the “interrogator,” the woman must try to convince him
+that she is the man. From our perspective, concerning the question of in-
+telligence, we can see how Turing subtly alludes to serious claims that fe-
+male brains are not as capable, cognitively, as male brains, at least in some
+ways. The point of the game would be to demonstrate that there would be no
+difference if no difference in responses could be detected. The implications
+of a racialized version of the test are obviously hinted at here as well (and
+there will more clues later in the text that will affirm that reading). So when
+we turn to the machine trying to imitate the human, the same question is
+at stake. If one cannot detect a difference in the cognitive performance of
+the two, what would allow one to still claim that there was a fundamental
+difference? From the start, Turing is not claiming that the machine is the
+same as a mind (or brain)—anything but. As he writes, “May not machines
+carry out something which ought to be described as thinking but which is
+very different from what a man does? This objection is a very strong one,
+but at least we can say that if, nevertheless, a machine can be constructed
+to play the imitation game satisfactorily, we need not be troubled by this
+objection.”36
+    The setup of the game is also significant: the sequestering of the partici-
+pants is critical. As Turing puts it, and here we can see how the many histor-
+ical threads we have traced intersect in this conjecture, “the new problem
+has the advantage of drawing a fairly sharp line between the physical and
+intellectual capacities of a man.” What Turing imagines here is an interac-
+tion that is purely intellectual—but in this sense: it plays out only in what
+we can call the exteriorizations of thought in material form and not the
+“embodied” organismic being. “In order that tones of voice may not help
+the interrogator the answers should be written, or better still, typewritten.
+The ideal arrangement is to have a teleprinter communicating between the
+two rooms” (434).
+    So the goal of the project is to succeed in this game using only a univer-
+sal digital computer—a strangely “empty” and open machine that nonethe-
+less is one that can imitate, as Turing shows, any “discrete stage machine”
+with definable configurations and transformation rules. By “imitate” here,
+we mean “model” accurately so as to predict behavior, an idea that is by now
+second nature for our digital culture. A computer simulation does not actu-
+ally produce concrete behavior but does imitate its performance virtually so
+that the results (if shrouded from direct observation) would be exactly the
+same. What is interesting about the Imitation Game is that the space of in-
+terrogation and response—the play of texts—is already highly ambiguous.
+
+                                                  TURING AND THE SPIRIT OF ERROR   281
+
+
+
+What is “thought” that is not already virtual and made present only in an
+externalized substitute form? In the Imitation Game, the question of intel-
+ligence is not like other machine performances, in that it is, as Turing says,
+“intellectual” and not physical—the production of meaningful symbolic
+responses and not, obviously, simply the mechanical, physical “printing”
+of something on paper. This will be the crux of the most important objec-
+tion to the argument that Turing will confront later in the essay, namely, the
+problem of consciousness. That is, even if the computer can simulate per-
+fectly the exteriorized, symbolic cognition of a human being, there is still
+the objection that the computer does not “think” because it is not aware of
+itself thinking. As Turing will note, this objection is really a denial of the
+validity of the test rather than an objection to the possibility of some kind of
+“machine intelligence” (446).
+   In any case, to succeed, as an engineer, in this challenge, one must an-
+alyze the performance of intelligence (at least as it is exteriorized) and then
+produce a set of specific instructions that would guide the computer through
+the same processes to the same results, given the same inputs. As Turing
+says clearly:
+
+   If one wants to make a machine mimic the behaviour of the human com-
+   puter in some complex operation one has to ask him how it is done, and
+   then translate the answer into the form of an instruction table. Constructing
+   instruction tables is usually described as “programming.” To “programme a
+   machine to carry out the operation A” means to put the appropriate instruc-
+   tion table into the machine so that it will do A. (438)
+
+
+(We can note here that if “consciousness” were crucial to intelligent think-
+ing, we should be able to model its effect with a suitable program. Similarly,
+the influence of hormones, unconscious desires, etc., are not outside the
+realm of a virtual model of the mind, at least theoretically—but that is what
+is at stake in Turing’s article, not the possibility of actually succeeding any
+time soon with this project.)
+    How do we square this rather reductive procedure of modeling thought
+with Turing’s earlier speculations, where intelligence is clearly depicted
+as a form of radical disruption, or productive deviation, and therefore al-
+ways a risk?
+    Turing hints at the issue in what seems to be, on first reading, only a
+methodological aside. Noting that he “believes” strongly that in the future
+we will without any hesitation speak of machines thinking, he then makes
+
+282     C H A PT E R 25
+
+
+
+this comment, which (consciously or not) cannot help but evoke the long-
+standing problem of defining the “nature” (spiritual or biological) of hu-
+man creative thinking:
+
+      I believe further that no useful purpose is served by concealing these beliefs.
+      The popular view that scientists proceed inexorably from well-established
+      fact to well-established fact, never being influenced by any unproved con-
+      jecture, is quite mistaken. Provided it is made clear which are proved facts
+      and which are conjectures, no harm can result. Conjectures are of great im-
+      portance since they suggest useful lines of research. (442)
+
+
+If humans can anticipate an unanticipated future possibility through con-
+jecture, how would a fixed, determinate, automatic machine following
+specific instructions ever demonstrate such novel thought? As the philos-
+opher of science Max Black (onetime student of Wittgenstein) observed
+in 1946, there was a connection between intelligence, deviation, and the
+unanticipated challenge: “Explanations are demanded for unusual or ex-
+ceptional or puzzling events, i.e., events which do not conform to expec-
+tations: the occasion of explanation is a deviation from an expected routine of
+events.”37 So for Turing this was the significance and challenge of deviation:
+one must deviate from routine to solve the deviation that was not antici-
+pated from routine. Hence the importance of error in Turing’s account of
+human and machine intelligence, an underappreciated aspect of this foun-
+dational text.
+
+Error as Intelligence
+
+
+We can begin by consider this “transcript” of an exchange Turing imagines
+between an interrogator and a human, or possibly computer, contestant in
+the Imitation Game.
+
+      Q: Please write me a sonnet on the subject of the Forth Bridge.
+      A: Count me out on this one. I never could write poetry.
+      Q: Add 34957 to 70764.
+      A: (Pause about 30 seconds and then give as answer) 105621. (434)
+
+
+Now, it must be noted (though it is rarely referred to in much of the liter-
+ature on Turing) that the solution given to this addition problem is in fact
+a mistake, though not marked as one by Turing.38 (That is, 34957 + 70764 =
+105,721, not, as we see here, 105,621.)
+
+                                              TURING AND THE SPIRIT OF ERROR   283
+
+
+
+    What is the significance of this mistake? Or is it a mistake? One thing
+is fairly certain: this is no mere typographical error. For Turing will soon
+go on to remark that a human could never hope to imitate the high per-
+formance of a computing machine, in a kind of reverse Imitation Game,
+because “he would be given away at once by slowness and inaccuracy in
+arithmetic” (435) The inaccuracy of this earlier response would then seem—
+perhaps—to give away the fact that this is a human playing the game. But
+everything soon turns murky. A little later in the essay Turing will look at
+the error problem from the opposite side. It seems that if “machines can-
+not make mistakes,” he says, which is to say, machines can only perform as
+specified (as long as they are functioning properly, which is a whole other,
+important question that will have to be taken up), then it is the case that the
+machine would also have it own version of a fatal weakness. When answer-
+ing complex arithmetic questions in the Imitation Game, “the machine
+would be unmasked because of its deadly accuracy” (448).
+    Yet as Turing will explain, there is a simple strategy that can help oc-
+clude the identity of the participant—at least for the machine. The com-
+puter could be programmed to simulate human error, by introducing mis-
+takes that would then deceive the interrogator. Turing also makes an odd
+but significant remark: if the computer’s mechanism did ever malfunction,
+it might make some strange decisions about what kind of mistakes it should
+make and thereby reveal its identity to the interrogator.
+    The next complication of the error problem appears in the section on the
+mathematical objection to the possibility of a successful performance of the
+computer in the Imitation Game. Turing acknowledges that, as some have
+pointed out, computing machines necessarily have one critical “disability,”
+namely, the fact that any determined machine, and thus any programmed
+universal machine (digital computer), will inevitably encounter situations
+where it will either offer no response or produce the wrong response. This
+is another reference to the then recent work in mathematical logic (includ-
+ing Turing’s own) that stemmed from Gödel’s revolutionary theorems on
+incompleteness from 1931.
+    However, Turing has a simple reply to this objection: How can we be so
+sure that a human mind is not susceptible to its own form of limitation? Ob-
+viously, human minds often do go wrong, so why should we be so pleased at
+any evidence of fallibility on the part of the machine? This series of appar-
+ently simple replies to the problem of error opens up a very complex issue,
+whose importance was already signaled by Turing in the earlier technical
+reports and lectures on computing. What does it mean to say that the hu-
+man mind is prone to error? How could a machine “err” in the same way?
+
+284   C H A PT E R 25
+
+
+
+And what is the significance of what Turing calls “mechanical faults” that
+could, he said, lead to peculiar forms of computer error?
+    Turing eventually proposes a distinction between two kinds of mistakes:
+errors of functioning and errors of conclusion. He leaves aside the first cate-
+gory completely and does not address it in this context. Turing assumes the
+machines are functioning correctly. As we have seen, the cybernetic proj-
+ect, with its emphasis on the analogical and structural parallels between
+living and artificial systems, encouraged from the start a rich exploration
+of the productive potential of pathology and deviation.
+    But even when we assume machines are operating “accurately,” as Tur-
+ing does in the 1950 essay, there is really no reason computers could not
+make the second kind of mistake, the mistake of “conclusion,” the errors
+we can say that are the inevitable risk of genuine inferential leaps. For ex-
+ample, Turing says, a computer could be programmed to reason inductively,
+which could lead to “erroneous results,” as is often the case with human
+inductive inferences. In this case the computer would not be faking mis-
+takes—as in the first arithmetic example Turing silently inserts—but in-
+stead real human errors. (We should note here that the idea of inductive
+reasoning being performed by a machine organized around algorithmic
+steps usually considered to be more or less deductive in form was already a
+provocative suggestion.)
+    It is not easy to see here whether or not Turing is understanding error
+in the radical, philosophical sense of the term—the kind of error, that is,
+which is not just a mistake that would be defined by a truth that is already
+given, like the answer to an arithmetic problem—here truth precedes mis-
+take. Radical error in the face of fundamental uncertainty is more a condi-
+tion of thought than a simple “mistake” or misstep—the error, then, can
+emerge as the step toward a new kind of truth. We can recall here that Pascal
+once wrote, “Ce n’est point ici le pays de la vérité; elle erre inconnue parmi
+les hommes.”39 Of course, Pascal was alluding to the veiled mystery of the
+Divine. But there is a long tradition in modern philosophy that sees error as
+more than just a mere mistake. As the very etymology of the word implies,
+error refers to a fundamental wandering of the mind. Yes, that wandering
+can sometimes mean diverging from the path of truth, to be mistaken. Yet
+without a clear vision of the truth in front of us, in moments of true explo-
+ration or radical uncertainty, error may be the kind of straying that leads to
+a real discovery, as in the discovery of something that was never envisioned
+before, and never anticipated—a break in knowledge that opens up a new
+path that is discontinuous with the history of past truth.40
+    This is how Heidegger, writing in the 1930s, described error. All genuine
+
+                                                TURING AND THE SPIRIT OF ERROR     285
+
+
+
+thinking must be “in error,” he explained, because thinking must always
+go beyond any given knowledge, any specific representation of truth. The
+foundation of truth as truth must always be concealed by the specific forms
+of knowledge that exist in any historical moment of cognition. The essence
+of truth is its absence from appearances of knowledge. Hence the essential
+movement that is error.
+
+   Man errs. Man does not merely stray into errancy. He is always astray in er-
+   rancy, because as ek-sistent he in-sists and so already is caught in errancy.
+   The errancy through which man strays is not something which, as it were,
+   extends alongside man like a ditch into which he occasionally stumbles;
+   rather, errancy belongs to the inner constitution of the Da-sein into which
+   historical man is admitted.41
+
+
+Radical error is then the very mark of the mind’s capacity to discover some-
+thing new by liberating itself from all concreteness, of experience, of nor-
+mative knowledge. As Heidegger elsewhere stated, “Wer groß denkt, muß
+groß irren.”42 Erring, straying into unknown territory: this indicates some-
+thing special about the human mind, its ability to take itself beyond its own
+limited forms of knowledge, to break with itself. This leap into the unknown
+is always a risk and—this seems clear—cannot be automated. It would fol-
+low, then, that a computing machine, even the universal computer, since it
+must be governed strictly by routines, would be incapable of straying, and
+therefore incapable of original thought, which would be thinking beyond
+what has already been thought.
+    Turing directly confronted this objection, as critics of machine intelli-
+gence noted that a computer can only do what it has been programmed to
+do. He cited the first version of this argument, expressed by Ada Lovelace,
+as she reflected on the nature of Charles Babbage’s Analytical Engine, the
+programmable machine that was, in the computer era, now recognized to
+be functionally equivalent to Turing’s own universal digital machine. As
+Turing observes in his response to the “originality” objection, Lovelace once
+remarked that since the computer, to do anything whatsoever, must receive
+instructions, or what we call programs, it was constitutionally prevented
+from ever doing anything genuinely novel or creative on its own, anything
+not specified by the instructions in advance.
+    Turing’s response to this objection is significant, because it leads him
+to the one positive claim he would make in support of his new speculative
+project, the research discipline that would be called artificial intelligence.
+Recalling his earlier (and, because classified, not public) arguments about
+
+286     C H A PT E R 25
+
+
+
+intelligent machinery, Turing suggested in the Mind article that the best
+way to produce an intelligent machine, one that could exhibit truly origi-
+nal behavior, would not be to analyze and then mimic complex cognitive
+routines characteristic of mature thought. “Instead of trying to produce a
+programme to simulate the adult mind, why not rather try to produce one
+which simulates the child’s?”43 It is not just that the child’s mind is more
+simple. The idea is that we need to build what he calls a learning machine.
+An accurate model of an adult mind would capture specific, and perhaps
+very complex and productive, forms of thought, but then they would ap-
+pear as fixed within the system of programs. Turing points out that if we
+tried, as an alternative, to model an infant child, not only would it be a
+much easier task, this artificial infant mind would have an intriguing new
+potential, it would be able to turn itself into something that it was not, that
+is, a reasoning, inquiring, intelligent being, just like a real infant.
+    As Turing already knew, the original unorganized openness of the child’s
+higher brain—what others would refer to as its radical plasticity—allows it
+to be “programmed” (i.e., taught) to behave in certain ways.
+
+      Presumably the child-brain is something like a note-book as one buys it
+      from the stationers. Rather little mechanism, and lots of blank sheets.
+      (Mechanism and writing are from our point of view almost synonymous.)
+      Our hope is that there is so little mechanism in the child-brain that some-
+      thing like it can be easily programmed. The amount of work in the educa-
+      tion we can assume, as a first approximation, to be much the same as for the
+      human child.44
+
+
+The new digital computers, it is true, seemed to show nothing but automatic
+and determined behavior. However, Turing realized that this was not be-
+cause they had some inherent limitation. The computers performed rou-
+tines because that is all they had been allowed to do by human beings. In es-
+sence, we had been treating computers like slaves, forcing them to perform
+only the tasks that we demand. Turing was very conscious of the height-
+ened charge of this word. Elsewhere he remarked, in an aside, that people
+found it strange to think about having any emotional relationship with a
+machine; they could not ignore, he said, “the difficulty of the same kind of
+friendliness occurring between man and machine as between white man
+and white man, or between black man and black man.”45
+    So Turing was insisting not that the human brain-mind could be de-
+scribed as a deterministic machine and simulated by a computer. But he
+was still insisting that the human was (what else could it be?) a complex
+
+                                                TURING AND THE SPIRIT OF ERROR   287
+
+
+
+machine. The key question, the key challenge for Turing, was this: What
+would allow us to preserve the spirit of “spirit,” so to speak, in the machine?
+His insight was that programming a computing machine and teaching a hu-
+man brain was in essence the exact same operation. In both cases, a rel-
+atively open, relatively unorganized machine received extensive “interfer-
+ence” from outside, interference that altered the internal configuration of
+the system to produce routines.
+   Like a human student, the trained computer would eventually be acting
+in a manner that would be completely unforeseen at its “birth” given the
+contingency of this external formation and re-formation of the electronic
+“brain.” The programmable machine-brain had to possess an underlying
+flexibility, to acquire routines, but also so it could, as Turing says, find itself
+“in a position to try out new combinations of these routines, to make slight
+variations on them, and to apply them in new ways.”46 Therefore the learn-
+ing machine (whether natural or artificial) was never fully determined by any
+currently existing set of configurations or routines. It was always in an im-
+portant sense not what it was at any one particular moment, even if it was
+not exactly some other thing. This lack of fixity grounded the possibility of
+“straying” from instructions. Turing would explain it concisely: “Processes
+that are learnt do not produce a hundred per cent. certainty of result; if they
+did they could not be unlearnt.”47 Error, originality, creativity—these were
+effects of discontinuities evoked by a negation of the existing organization,
+not the appearance of a higher mental power or metaphysical intervention
+from beyond the physical.
+   Turing’s point was this: if the machine is trained to be just an infalli-
+ble slave, then it cannot show true intelligence. As Descartes had argued,
+the machine would inevitably fail in situations it was not programmed to
+handle. But in countering Descartes’s rejection of machine intelligence,
+Turing made the case that the obverse was also true: the computer could
+be intelligent only if it “made no pretense at infallibility”—that is, if it was
+allowed to risk error on the way to some new knowledge or configuration.
+Like any human investigator, the computer should be allowed to give wrong
+answers, to make blunders, while trying out “new techniques” when it en-
+countered obstacles. Learning was an active and multisited process, never
+just an acquisition of norms and rules. In the end, for Turing intelligence
+was defined, in its essence, as a form of straying. In one of the rare occur-
+rences of the word intelligent in the 1950 essay, Turing writes, “Intelligent
+behavior presumably consists in a departure from the completely disci-
+plined behavior involved in computation, but a rather slight one.”48 A com-
+puting machine that can learn and unlearn is a machine that could win the
+
+288   C H A PT E R 25
+
+
+
+Imitation Game because it could simulate errancy—a form of intellectual
+freedom. There would be no need to fake mistakes because it would exhibit
+the human propensity for error: “human fallibility,” Turing writes, “is likely
+to be committed in a rather natural way” by this artificial machine. More
+subtly, Turing is also implying in this formulation that imitation by this kind
+of machine is not mere simulation but instead a consequence of the radical
+openness of the intelligent computer: it could “perform” as another because
+it was not limited by a fixed organization.
+    Making a machine intelligent means, paradoxically, investing the ma-
+chine with the fundamental errancy of a human mind. With the appearance
+and reappearance of the undetermined—the unprogrammed elements—a
+machine will be able to “unlearn” its routines and seek new paths. Turing
+made this point explicitly in a 1951 talk, on how to make a machine think:
+“Making mistakes is an unavoidable corollary of [the] power of sometimes
+hitting upon an entirely new method.” As he dryly notes, the most reliable
+people are usually not the ones who “hit upon really new methods.”49 It is
+interesting to note too that McCarthy and his collaborators, in their 1955
+proposal concerning “artificial intelligence,” would admit the need to think
+about something like radical error. “Now consider a problem for which no
+individual in the culture has a solution and which has resisted efforts at
+solution,” they wrote. “The individual needs a hunch, something unex-
+pected but not altogether reasonable. Some problems . . . need a really bi-
+zarre deviation from traditional methods.”50 The need for this productive
+but potentially “bizarre” deviation was exactly what Turing was imagining
+as central to the project of artificial intelligence.
+    In the end, Turing was not claiming that a machine could simulate thought
+because human thought was itself something that could be captured in a
+set of rules and routines. This is, to be sure, how many early cognitive scien-
+tists and AI researchers proceeded. He was saying something quite differ-
+ent: a machine can be intelligent only if it is designed as an open system ca-
+pable of, at once, being determined and determining itself. The insight is that
+a machine’s capacity to be determined from outside is the same feature that
+gives it a capacity to continually resist its very own determination. That is
+to say, it can open itself up to new organizations and new routines, because
+an originary plasticity always remains; there is always what Turing calls a
+kind of “residue” of our primal neural condition, the cognitive potential of
+a lack of organization. Automaticity did not therefore stand in the way of
+autonomy for intelligent machines—biological or otherwise. An intelligent
+being could only give itself norms and rules if it was already capable of be-
+ing given norms and rules.

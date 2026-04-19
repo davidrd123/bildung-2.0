@@ -1,0 +1,724 @@
+PART ONE
+
+
+
+The Automatic Life
+of Reason in Early
+Modern Thought
+
+2
+Integration and Interruption
+The Cartesian Thinking Machine
+
+
+
+
+I thought too, how the same man, with the same mind, if brought up from
+infancy among the French or Germans, develops otherwise than he would if
+he had always lived among the Chinese or cannibals.
+                                        Descartes, Discours sur le méthode1
+
+
+
+It is no surprise that a prominent cognitive scientist like Antonio Damasio
+would locate René Descartes’s fundamental “error” in the philosopher’s in-
+sistence on the “abyssal separation between mind and body.”2 For the pro-
+gram of cognitive science is arguably the total reduction of the mind to its
+neurobiological foundation, and this foundation, as Bernard Stiegler for
+one has pointed out, is essentially machinic in origin, given the intertwined
+histories of computing technology and artificial intelligence research,
+which gave rise to cognitive science itself as a discipline.3
+    Of course, we could just as easily celebrate Descartes as the first cogni-
+tive scientist.4 As most scholars now recognize, Descartes was intensely in-
+terested in the physiological foundations of cognition and emotion, elabo-
+rating a complex theory of the nervous system and brain5 while developing
+a sophisticated medical philosophy.6 Descartes was the first intellectual to
+explore systematically the ramifications of the new mechanical philosophy
+for thinking about embodied human experience. As he wrote in a letter of
+1632, “I am now dissecting the heads of various animals, in order to explain
+what imagination, memory, etc. consist in.”7 And yet Descartes is still chas-
+tised by so many (in so many disciplines) for holding onto some immaterial,
+spiritual “substance” as the ground of the “Cartesian subject.”
+    I would like to zero in on the intersection of these two domains—pure
+intellect and the body as responsive automaton—to ask the deeper ques-
+
+16
+
+                                               I N T E G R AT I O N A N D I N T E R R U PT I O N   17
+
+
+
+tion of how to think historically and conceptually about the more funda-
+mental relationship linking humanity with its technology, which is what
+I will be tracking across early modern thought and beyond. The history of
+“artificial intelligence” cannot be the genealogy of a technology, since the
+first early modern concepts of machine cognition were inextricably en-
+twined with concepts of intelligence that veered uneasily between the ar-
+tificial and the natural.
+    Descartes, I argue, was interested in mapping systematically the com-
+plexities of somatic machinery, not so much to “reduce” aspects of thinking
+to the actions of that body, but instead to reveal the ways our minds were
+constantly being shaped and organized by these automatic material pro-
+cesses even as they resisted total determination—as the interventions of
+what he called “pure intellect” attest.
+    We must begin, then, with a Descartes seldom encountered in philos-
+ophy or critical theory, the proto-cybernetic theorist of automata. Descartes
+in fact recognized the crucial importance of a form of information within
+the physiological mechanism that operated as a competing logic within the
+organization of the body. The threshold notion of information is what will
+connect the rigorous materialism of Descartes with his equally persistent
+spiritualism—the body and mind, in his system, although these terms fail
+to do justice to the way Descartes understood cognition and its organismic
+function.8
+    If we look closely at what I call here Cartesian robotics, we can glimpse
+a novel concept of the human emerging in the seventeenth century. For
+Descartes, the human body was a robotic, even cybernetic information ma-
+chine that steered itself, yet it was also one that was capable of interrupting
+itself. This will be the key contribution. Indeed, Descartes’s depiction of an
+intellect capable of interfering with the sensory machinery of the body can
+only be understood if we realize just how intimately bound the soul was to
+the organs and structures of a living body. With this supplemental capacity,
+the complex technical and informatic machinery of the human body be-
+came radically open in a new way and thereby became capable of the most
+radical transformations and unprecedented reorganizations. The Cartesian
+robot was, in essence, a plastic being.
+
+Living Machines
+
+
+In adopting the mechanical philosophy as a foundational starting point
+of his scientific investigations, Descartes banished any notion resembling
+the Aristotelian idea of “soul” to explain natural phenomena, and that in-
+
+18    C H A PT E R 2
+
+
+
+cluded living beings, the natural forms that most resisted mechanical ex-
+planations.9 His most notorious claim was perhaps his denial of any soul
+in the animal. Descartes was committed to a physiological theory that de-
+pended on purely mechanical explanation; there was, in the end, no way
+that he could explain what he knew to be the free and open nature of the
+mind. This is usually read as the beginning point of Descartes’s problematic
+“dualism.” More important to note here is that the dualistic approach was
+predicated on a prior, revolutionary redescription of both animal and human
+bodies as mechanically organized entities, yes, but automatic mechanisms
+that were also self-governing. This project of Cartesian robotics reveals (in
+a negative fashion) the key role that the soul will play in his effort to un-
+derstand the exceptional nature of human identity as something distinct
+from, while still embodied in, the explicitly technological understanding
+of animal-human automata.
+   We can begin with Descartes’s infamous claim that the animal was sim-
+ply a machine—no experience, no feeling, no emotion. Descartes, like his
+early modern contemporaries, were very familiar with automata, and in-
+deed, robotic machines had been a part of academic and even religious
+culture for some time.10 In his Discours sur la méthode of 1637, Descartes
+imagined that if someone built a robotic monkey we would not be able to
+recognize a real creature when confronted with this mechanical version
+at the same time. And this was for a simple reason: the real creature was
+itself a robot according to Descartes, an “automaton,” or self-moving ma-
+chine. Defending this conjecture in a letter the following year, he presented
+a more elaborate take on this robotic imitation game.
+
+     Suppose that a man had been brought up all his life in some place where
+     he had never seen any animals except men; and suppose that he was very
+     devoted to the study of mechanics, and had made, or helped to make, vari-
+     ous automatons shaped like a man, a horse, a dog, a bird, and so on, which
+     walked and ate, and breathed, and so far as possible imitated all the other
+     actions of the animals they resembled, including the signs we use to express
+     our passions, like crying when struck and running away when subjected to
+     a loud noise.11
+
+
+Descartes claims that if this mechanical genius was transported to our own
+world, he would instantly recognize our animals for what they really are:
+intricate automata that were just incomparably more accomplished than
+any of those he had previously made himself. He would be struck, that is,
+
+                                                    I N T E G R AT I O N A N D I N T E R R U PT I O N   19
+
+
+
+by the structural resemblance between the real dogs and horses and his
+own mechanical constructions. As Descartes explained in his physiologi-
+cal works, as well as numerous letters in the 1630s, since all animal behav-
+iors could be perfectly explained in purely mechanical terms, there was
+absolutely no need to introduce the hypothesis of an animal soul: “Since
+art copies nature, and people can make certain automatons [varia fabricare
+automata] which move without thought, it seems reasonable that nature
+should even produce their own automatons, which are more splendid than
+artificial ones—namely all the animals.” It was much more astonishing,
+Descartes claimed—and this is what we need to focus on—that the human
+body, which was in essence one of these “natural” works of art, turns out to
+have a soul.12
+   But what about these human automata? Would our imaginary roboti-
+cist be fooled into thinking our fellow citizens were merely machines when
+he arrived in our midst? “Suppose that sometimes he found it impossible
+to tell the difference between the real men and those which had only the
+shape of men.” Perhaps initially fooled by his own walking, laughing, cry-
+ing human robots he would have eventually
+
+   learnt by experience that there are only two ways of telling them apart[,] . . .
+   first, that such automatons never answer in word or sign, except by chance,
+   to questions put to them; and secondly, that though their movements are
+   often more regular and certain than those of the wisest men, yet in many
+   things which they would have to do to imitate us, they fail more disastrously
+   than the greatest fools.13
+
+
+In this critique of “expert systems” avant la lettre, Descartes implies that
+the automaton would inevitably confront a situation for which it was not
+programmed, so to speak, to handle. But, as he had already noted in the
+Discours, genuine humans arrange their words differently in response to
+inquiries, and crucially they can think their way out of challenging circum-
+stances despite the lack of precedents. “It is unimaginable,” he writes, “for
+a machine to have enough different organs to make it act in all the contin-
+gencies of life in the way in which our reason makes us act.” Humans reveal
+themselves by their essential flexibility, their adaptability and their creative
+capacity: “Reason is a universal instrument which can be used in all kinds
+of situations.”14
+
+20    C H A PT E R 2
+
+
+
+The Nervous System as Information Machine
+
+
+. . . the substance of the brain being soft and pliant . . .
+                                Descartes, Traité de l’homme15
+
+
+
+It is important to keep in mind that Descartes was never really interested in
+the traditional philosophical division between mind and body that we now
+associate with his name but rather a more ephemeral transition point be-
+tween what might be called forms of “corporeal cognition” produced by the
+nervous system and brain of the body and the kind of pure intellection that
+could be performed only by the soul.16
+    To understand the importance of this liminal space, we must read Des-
+cartes’s foray into conjectural human robotics, the Traité de l’homme, written
+around 1630 but never published in his lifetime. Descartes’s conceit here is
+that he will, like his imaginary counterpart, construct—virtually—a human
+automaton, a machine made up only of physical matter (the conjectural
+method deployed for Descartes’s theory of the formation of the universe).
+After building the automaton, he will then show that this robotic creature
+would be able to imitate its real human counterpart in almost every way,
+demonstrating that the bodies we possess must be essentially machines—
+albeit of divine origin. (Descartes’s implicit argument will be that any ac-
+tion not explained by this virtual robotic simulation must be ascribed to the
+soul and not to our bodies.)
+    Descartes was not only dissecting animals regularly himself, but he was
+also clearly well versed in the medical and anatomical tradition.17 He was
+of course not the first to offer a theorization of the nervous system (in fact,
+he borrows heavily here from Galen’s standard, if by then outdated, work,
+not to mention the more recent anatomical investigations of Andreas Vesa-
+lius and especially Caspar Bauhin),18 nor was he the first to speculate about
+how certain mental operations could be localized in specific parts of the
+brain.19 However, Descartes took the terminology and concepts of earlier
+medical and psychological theories and reoccupied them, replacing their
+sometimes ephemeral notions of order and organization with precise, and
+purely mechanistic, explications.
+    One of the main aims of the Traité as an exercise in virtual robot con-
+struction was to discover the mechanisms of “self-movement” in the human
+body, the control systems, in other words, that make possible the continuing
+integration of the bodily organs and maintain the process of life. The key
+locus of explanation is the nervous system. (Figure 1.1.) Descartes will de-
+tail how “animal spirits,” defined as the most rarified form of particulate
+
+                                                             I N T E G R AT I O N A N D I N T E R R U PT I O N   21
+
+
+
+
+Figure 1.1. From René Descartes, De Homine (1662). Source: Wellcome
+Collection. CC BY 4.0 / https://creativecommons.org/licenses/by/4.0/legalcode.
+
+
+
+matter, what Descartes calls a distillation, or “fine wind” (the term itself can
+be traced to Galen),20 flowing through exceedingly small and narrow pas-
+sages in the nervous system and brain, could explain a diversity of rather
+complex animal and human actions. In adopting the mechanistic stance
+here, Descartes does away completely with the Aristotelian concepts of the
+sensitive or vegetative soul—as that which gives form and unity or life itself
+to matter—thereby opening up both a new way to think about the organiza-
+tion of living bodies and, perhaps more importantly, paving the way for a
+
+22     C H A PT E R 2
+
+
+
+radically new approach to the function of what used to be called the ratio-
+nal soul.21 For Descartes, the rational intellect had to be linked to—but also
+radically distinct from—the wholly material organization and process tak-
+ing place within the automaton.22 The rational soul could not “direct” (like
+some sovereign figure) the activity of the automatic corporeal systems.
+   In a famous passage, Descartes likens the mechanism of the body to the
+intricate engineering animating the moving statues in the artificial grot-
+toes at the famous royal gardens at Saint-Germain, which operated auto-
+matically by means of complicated waterworks.
+
+     And truly one can well compare the nerves of the machine that I am describ-
+     ing to the tubes of the mechanisms of these fountains, its muscles and ten-
+     dons to divers other engines and springs which serve to move these mecha-
+     nisms, its animal spirits to the water which drives them, of which the heart
+     is the source and brain’s cavities the water main. Moreover, breathing and
+     other such actions which are ordinary and natural to it, and which depend
+     on the flow of the spirits, are like the movements of a clock or mill which the
+     ordinary flow of water can render continuous.23
+
+
+Significantly, these automata could even react to the presence of visitors
+via external sensory devices. For example, a visitor unwittingly steps on a
+particular special stone in order to better glimpse Diana at her bath, she re-
+treats, and suddenly Neptune appears, wielding his trident.
+    For Descartes, these automata were essentially cybernetic systems, func-
+tioning not according to the rigid, serial logic of the clock but rather follow-
+ing from a flow of information within the system understood now as a total-
+ity. The automaticity of the reactive mechanism required an information
+processing system. That is, the “outside” world was converted by the sys-
+tem into an internal coding of sorts, which could then set in motion various
+kinds of bodily activity. The act of sensing can be best understood here as a
+perturbation of the system, a provocation that sparks a reorganization and
+then action in response to this flow of internal information.
+    Descartes clearly goes much further than his mechanical and hydrau-
+lic analogies would suggest. The body can, he imagined, perform a kind of
+thinking that greatly exceeded the relatively straightforward (if complex)
+mechanistic activity of these early modern waterworks. Because the sense
+organs are made of exceptionally pliant material, they are physically “im-
+printed” with the movements generated by the objects of external world—
+like wax imprinted with a seal. The animal spirits (unlike the flow of water
+in the earlier analogy, which was mostly a physical force) can in fact encode
+
+                                                I N T E G R AT I O N A N D I N T E R R U PT I O N   23
+
+
+
+real information as they respond to, then transmit, the configurations or
+textures of the physical environment. While this is somewhat murky in
+Descartes’s texts, external objects have what I would call a certain structural
+topology relating their parts, and different organs “sense” different orga-
+nized topologies by virtue of the possibility that this network of relation-
+ships can be imprinted on the open, elastic surface of the sense organs.24
+The pattern of organization and not the physical collision per se is what is
+transmitted from the “screen” of the organ to the animal spirits flowing in
+the nerves that are attached to those organs.
+    These configurations—information patterns—therefore embody any
+number of “sensible” qualities: figure, position, size, distance, but also col-
+ors, odors, titillation, and other passions.25 “There is a code of the senses,
+antecedent to that of the sensations of the soul united to the body,” as Jean-
+Pierre Séris concisely puts it.26 Somewhat cryptically, Descartes even de-
+picted this coding of the nervous system in the Traité as a series of lines
+forming endlessly complex geometric figures. The important point is that
+the code does not need to “represent,” if by that we mean resemble, the ex-
+ternal object in order to transmit these qualities, which are after all de-
+pendent only on topological configurations of matter themselves.27 Each
+sensory organ transmits (or better, transduces) a particular modality or
+topology, which is then integrated with other partial configurations in the
+common sense. Only later will these material codes be “experienced” by the
+soul as actual sensations. (And in animals, of course, there will never be
+such an “experience,” only the machinic transduction into nerve patterns
+in the ongoing organization and reorganization of the brain.)
+    As Descartes describes, the coded information flowing from the various
+organs of sense is eventually inscribed on the “common sense,” that ven-
+erable cognitive function that was now located with anatomical precision
+(and thereby newly materialized) in the infamous pineal gland, deep within
+the structure of the brain.28 There, Descartes suggests, the information can
+be “read” (or better, “felt”) by the intellectual soul as a single unified expe-
+rience of the world. Because sensory information is transmitted as a wave
+through the animal spirits instantaneously through the nerves, Descartes
+shows how the state of the sensory organs would be immediately doubled
+within the pineal gland, which is the center of all the nerve channels lead-
+ing into the brain.29 (Figure 1.2.) Even at this first level of neural organiza-
+tion the information system has its own internal economy. The brain ma-
+nipulates and reorders this information to effect certain physical activities.
+Reflex action—the body moving away from the fire, the hands positioned
+to protect against a sudden fall—is just the result of a movement of infor-
+
+24    C H A PT E R 2
+
+
+
+
+Figure 1.2. From René Descartes, Traité de l’homme (1664). Source: Wellcome
+Collection. CC BY 4.0 / https://creativecommons.org/licenses/by/4.0/legalcode.
+
+
+
+
+mation through the nerves to the brain and the pineal gland and back down
+to the muscles, where the action finally occurs—“without any mental voli-
+tion, just as it would be produced in a machine.”30
+
+The Memory System
+
+
+Cognition can first be understood by Descartes as largely a physical ma-
+nipulation of this virtual reality, organized and reorganized by the imagi-
+nation—strictly redefined as a purely corporeal faculty. Memory introduces
+a new complexity. Indeed, memory truly distinguishes this information
+machine—a cybernetic body with a nervous system—from merely reac-
+tive automata such as the royal waterworks. With memory (first described
+by Descartes in the Traité de l’homme as actual patterns formed by physical
+“holes” in the brain, then in later works as structural “folds” in the brain)31
+the body becomes capable of ever more complex actions, because it is in
+effect responding not just to present stimuli but also to patterns of past ex-
+periences, at the very same time.32 In an almost Pavlovian mode, Descartes
+(around the time he was writing the Traité) writes to Mersenne, “If you
+whipped a dog five or six times to the sound of a violin, it would begin to
+howl and run away as it heard that music again.”33
+   This all leads to a rather startling admission by Descartes: if the autom-
+aton is outfitted with a memory system, he says in the Traité de l’homme,
+
+                                                I N T E G R AT I O N A N D I N T E R R U PT I O N   25
+
+
+
+“without there being any soul in this machine, it can be naturally disposed
+to imitate all the movements that real men (or many other, similar ma-
+chines) will make when the soul is present.”34 For Descartes the delayed
+effects of the memory structure, the persistence and circulation of infor-
+mation even after the original physical movements have dissipated, make
+possible a “natural” simulation of the interventional capacity of the soul.35
+Memory disrupts the flow of information in the system, allowing the ro-
+botic machine to act (at least in the view of an observer) in a seemingly flex-
+ible and adaptive manner.
+   What exactly is it, then, that distinguishes the work of the soul from the
+complex cognitive functioning of the temporalized nervous system? Or to
+put it another way, what possible advantage does the soul offer the body?
+One thing seems clear: the soul (from the robot’s perspective, that is) must
+enable a new form of response to the environment, reactions that exceed
+the capacity of a corporeal cognitive system—what Descartes calls memory
+and imagination.
+
+Nonautomatic Cognition
+
+
+The rational soul must operate both inside and outside the automatic sys-
+tem: it will have “its principal seat in the brain, and reside there like the
+fountain-keeper who must be stationed at the tanks to which the fountains’
+pipes return if he wants to produce, or prevent, or change their movements
+in some way.”36 This raises the question of how that corporeal space of in-
+formation can be radically disrupted (i.e., interrupted) from within its very
+own economy and logic.
+    This question haunts one of Descartes’s earliest works on thinking, the
+unfinished Rules for the Direction of the Intellect (ca. 1628), where he rejects
+traditional rhetorical and logical methods of discovery, methods that were
+essentially discursive and often formally syllogistic, and moves toward a
+new cognitive model of understanding that privileged the immediacy of
+what he called, somewhat mysteriously, intuition.37 For Descartes, intuition
+was self-grounded; that is, it produced knowledge that was not derived
+from any other source. “By ‘intuition,’” he writes, “I do not mean the fluctu-
+ating testimony of the senses or the deceptive judgment of the imagination
+as it botches things together.”38 Intuition was that immediate grasp of con-
+nection between ideas. The common sense might synthesize or associate
+those separate experiences, but it will never remark the rational, indubit-
+able relationship between these experiences.
+    The model of thinking in this early text locates intelligence in the grasp-
+
+26   C H A PT E R 2
+
+
+
+ing and reconfiguration of relations and proportions as they suddenly ap-
+pear within the field of experience generated by the physiological systems
+of sensation, imagination, and memory. Descartes can say that the soul rep-
+resents a spark of “the divine” within the corporeal system, because there
+is a structural analogy between divine creativity and the unprecedented
+intuition that disrupts the regular economy of the embodied information
+system. The divine soul marks an exception to that causality.
+
+Intellectual Judgment and the Moment of Insight
+
+
+From the perspective of Cartesian robotics, the Meditations is a demonstra-
+tion of just how difficult it is to isolate pure thinking within a complex cog-
+nitive realm dominated by automatic and corporeal forms of mental orga-
+nization and reorganization. “My habitual opinions keep coming back, and,
+despite my wishes, they capture my belief, which is as it were bound over
+to them as a result of long occupation and the law of custom.”39 We should
+note here that Descartes is referring to the power of the animal spirits. Phi-
+losophy is literally a counterbalancing force that keeps at bay the corporeal
+cognitive flow.
+    In famous passages from the Second Meditation, Descartes locates pure
+intellection in the act of judgment, and we now gain insight into the spe-
+cific domain of l’esprit—the ability to see something that is not at all pres-
+ent in our senses. We might see, touch, even hear the innumerable changes
+in, for example, a piece of malleable wax; we can even imagine (in the cor-
+poreal sense of that word) changes that have not taken place yet—endless
+new shapes, for example. However, only the intellect can “see” wax itself.
+But here “wax” marks that invisible form of identity that persists through-
+out these perceptual changes.40 The pliant wax—like the pliant brain or
+the mind itself—can take on many different forms, but only the intellect
+can perceive the underlying identity that is itself never accessible to sen-
+sory perception, for this form of organization (substantial unity in and of
+itself) can literally make no impression on the nervous system. The intellec-
+tual judgment is no doubt parasitic on the corporeal cognition generated by
+sensation and its processing in the common sense,41 but it is not, Descartes
+demonstrates here, identical with it. The mind, like the wax, is a founda-
+tional unity that escapes direct perception but can be located between, so
+to speak, its variety of modes. “Therefore this insight [comprehensio] is not
+achieved by the faculty of the imagination.” The perception of the identity
+is an “inspection of the mind alone [solius mentis inspectio].”42
+
+                                                  I N T E G R AT I O N A N D I N T E R R U PT I O N   27
+
+
+
+    But what does the intellect “see”? The judgment is more than an arti-
+ficial synthesis of corporeal experiences. Descartes gives us another, brief
+(but revealing) example of this intellectual ability to judge beyond percep-
+tion, one that nicely ties together the Meditations and the robotic writings.
+He writes:
+
+   But then if I look out my window and see men crossing the square, as I just
+   happen to have done, I normally say I see the men themselves, just as I say I
+   see the wax. Yet do I see any more than hats and coats which could conceal
+   automata? I judge that they are men. And so something which I thought I
+   was seeing with my eyes is in fact grasped solely by the faculty of judgment
+   which is in my mind.43
+
+
+And yet, why should we judge them to be men? This judgment may well be
+in error (think Blade Runner), for in order to recognize (or better, cognize) a
+genuine human, we would need to perceive the signs of “pure intellect” it-
+self, this strange capacity to see what is not really there.
+    The difference between the robot and the human is not attributable to
+any substantial content of the soul’s being, something new that is “added”
+to the robotic organization. Rather, the soul intervenes—it is the cut into the
+system that opens up a new form of action. The intervention is an interrup-
+tion in the radical sense of the word. The soul does not construct higher
+unity so much as it interferes with the automatic integrations of sensory
+information by making and remaking the order of relations that emerge in
+the common sense of the brain.
+
+Unitary Systems
+
+
+Descartes’s last published work, the Passions de l’âme (1649), returned to the
+peculiar relationship between the active soul and the automatic robotic
+body. The key trope was unity. Descartes is concerned with both the self-
+enclosed automatic unity of the body and a much stranger unity that twists
+intellect and body together in the unstable figure of the human. The pas-
+sions will be studied closely, since they constitute an essential connection
+between the sensing body and the purely intellectual functions of the soul.
+Descartes confronts a liminal space of connection in which some kind of
+unity brings together, while keeping absolutely separate, body and mind.
+(To condemn Cartesian “dualism,” one must, of course, ignore this key
+question of the required ontological plane that can allow their unification.)
+
+28   C H A PT E R 2
+
+
+
+    First, Descartes’s theory of the organism constitutes an independent ex-
+istential logic. The body’s internal economy, its organization and motion, is
+not at all dependent on the soul for its unity: “Death never occurs through
+the absence of the soul, but only because one of the principal parts of the
+body decays.”44 Life and death mark the distinction between functioning
+and damaged physiological systems—the success and failure of unity.45
+After a brief overview of his theory of the gross anatomy and physiology
+of the body, Descartes turns to the nervous system, explaining it in some
+detail, repeating ideas developed earlier in the Traité de l’homme and other
+texts—but with a new inflection. He emphasizes here, first, the absolute in-
+tegrity of the animal or human body mechanism. Every movement that is
+not willed “occurs in the same way as the movement of a watch is produced
+merely by the strength of its spring and the configuration of its wheels.”46
+In other words, the soul is here absolutely excluded from the logic of the
+body’s own operations. But the soul does inhabit this space in a special
+way: “The various perceptions or modes of knowledge present in us may be
+called its passions . . . for it is often not our soul which makes them such as
+they are, and the soul always receives them from the things that are repre-
+sented by them.”47
+    The most critical point, as we know, is that the soul can initiate “actions
+that terminate in our body”; that is, the soul can will particular actions.
+This special relationship is obviously important, but we cannot help but re-
+mark on its profound, almost perverse, strangeness. Elsewhere, Descartes
+claimed that if an “angelic intelligence” were to inhabit the body, to posi-
+tion itself, as it were, inside the pineal gland, “it would not sense the world
+as we do.” Instead, the angel would simply observe “the motions which
+are caused by external objects” as they pass through the animal spirits; it
+would perceive, that is, only the raw “coding” of the information flowing
+through the nervous system. This angel spliced into a human automaton,
+therefore, “would differ from a real man.”48 Our human souls are so deeply
+intertwined with our bodies that we actually feel the sensory information
+as subjective experience. As he says repeatedly in the Passions, these re-
+lations (i.e., between soul and nervous system) are themselves “ordained
+by nature.”
+    The Passions is from one angle a protracted attempt to understand the
+function of this intimately bound soul, to understand it, that is, from the
+perspective of the corporeal economy. The passions emerge here as a sup-
+plement to corporeal memory, which was already staged as a supplement
+to sensory information and therefore capable of disrupting the linear se-
+quence of sensation, action and reaction. The passions, though, unlike
+
+                                               I N T E G R AT I O N A N D I N T E R R U PT I O N   29
+
+
+
+memory, operate more as a warning system for the body.49 Pain, joy, sad-
+ness, courage, and so on, all are ways the body presents challenges or op-
+portunities to itself, based on its needs.
+    The soul is provoked by these signals, according to Descartes, in mo-
+ments of crisis and can constitute a new space of decision for the living body.
+When passion “impels us to actions which require an immediate decision
+[résolution], the will must devote itself mainly to considering and follow-
+ing reasons which are opposed to those presented by the passions, even if
+they appear less strong.” The soul can interrupt the automaticity of the fear
+response, as well as a strong desire for honor, both of which arise in one
+single situation. The soul can turn against these responses, intellectually, by
+attending to their opposites. Descartes’s example is an “unexpected attack
+of the enemy” when there is “no time for deliberation.”50 However, there is
+still time for decision, or we can say, the judgment that is decision takes no
+time. The conceptual difficulty is locating the plane of connection between
+soul and brain here.
+    First, we can say the body is a “unity which is in a sense indivisible be-
+cause of the arrangement of its organs, these being so related to one another
+that the removal of any one of them renders the whole body defective.”51
+Second, the soul has its own form of indivisibility, its own foundational
+unity—the cogito.
+    Descartes suggests that the point of contact between soul and body is ne-
+gotiated precisely at the intersection of these two unities. The soul is joined
+to the whole body, or, more precisely, to the body’s being where it appears
+as wholeness. The concrete physiological space where that unity is best ex-
+pressed is the brain’s own center of organization, namely, the pineal gland.
+That gland, as we saw, was automatically inscribed by the informational
+systems of the body simultaneous to their occurrence. Not surprisingly,
+then, the soul “exercises its functions” in relation to the body “more par-
+ticularly” in the pineal than anywhere else. I rely here on Nima Bassiri’s in-
+novative reading of this fundamental point. “The pineal gland,” he claims,
+“is organizationally reduplicating the body’s sensory affections.”52 The con-
+nection between mind and body as parallel unities is indeed less mysteri-
+ous now than the connection between the body’s organizational wholeness
+(whatever status that has metaphysically) and its various complex parts. In
+any case, we can now understand that for Descartes the soul is in a sense
+able to influence the pineal gland via its intimate connection to the body as
+a whole, a body that itself can influence specific parts, though the medium
+is still not explained here by Descartes.
+    As some scholars are now asserting, the Passions introduces a tentative
+
+30   C H A PT E R 2
+
+
+
+but powerfully novel conception of the human as a “single system” consist-
+ing of physiological organization and the functions of intellectual interven-
+tion.53 I would supplement these persuasive interpretations. Descartes is
+setting the stage for the idea that the soul (whatever its own aspirations)
+is the entity that takes responsibility for acting on behalf of the body’s own
+integral unity in the absence of any such existential reaction in the robotic
+system. In moments of real crisis, the virtual integration of the body’s diver-
+sity in the brain does not constitute the most effective weapon.
+    As Descartes wrote in the Meditations, the soul is not at all like the pilot
+of the ship, who controls the vessel as if it were an organ—that is, a mere ex-
+ternal instrument of its own desire, an organon. As in cybernetics, the disci-
+pline that took its name from the Greek word for “steering,” kyber, Descartes
+here insists on seeing the organism as a functional whole, an integration of
+intellectual and bodily systems, of informational and material operations.
+That is, the body, even a human body, is a complex unity that steers itself as
+a reactive and adaptive automaton.
+    In the Passions, Descartes redescribes the soul’s function in relation to
+the existential, vital demands of the body. The passion of “anxiety,” for ex-
+ample, is raised in the soul when something “very strange and terrifying”
+is perceived. While one can imagine an animal fleeing automatically from
+this danger, the point that Descartes emphasizes is that the soul can make
+a decision, one that is not at all predetermined by the nature of the bodily
+response. The soul is co-opted by the body to serve its own existential drive:
+“The principal effect of all the human passions is that they move and dis-
+pose the soul to want the things for which they prepare the body.”54 The
+passions are excited in us by objects in the world “because of the various
+ways in which they may harm or benefit us.”55 The soul is affected by the
+passions, in that it now desires what the body already “desires” and thus may
+persist in a course of action despite the changing physiological conditions
+of the body or the environment, or, perhaps, the presence of conflicting im-
+pulsions.
+
+Wonder: Epistemology of the Automaton
+
+
+The key moment in the text is when Descartes points out a certain special
+kind of passion that is not like any of the others—an exception to the very
+logic of desire and fear that shape the movements in the brain and pro-
+duces the basic passions he has enumerated. The singular passion of “won-
+der” (admiration) is unusual precisely because it has no relation at all to the
+immediate well-being of the body. This passion affects only the brain. Yet a
+
+                                                I N T E G R AT I O N A N D I N T E R R U PT I O N   31
+
+
+
+pliant, plastic Cartesian brain can hardly have its own object of desire, or
+fear. This is, I argue, why wonder is something quite unusual—the “sudden
+surprise of the soul which brings it to consider with attention the objects
+that seem to it unusual and extraordinary.”56 Wonder is really a radical dis-
+ruption of the body’s operations, not an expression of vitality. With wonder,
+the body is alerting the soul to the presence of something fundamentally
+unknown. Now, it is exactly this state of wonder (admiration) that is impos-
+sible in the robotic animal, for it can react to something only if it can be un-
+derstood in relation to its immediate or automatically anticipated needs.57
+The shock of the new within an animal-machine cannot produce any spe-
+cific form of behavior.
+    So how does the machinic body go beyond itself, its own automaticity,
+to “alert” the soul to something unknown? Wonder is, Descartes tells us, an
+“impression of the brain, which represents the object as something unusual
+and worthy of special consideration.”58 The challenge is to explain how a
+material system can express its own absence of information. As Descartes
+will suggest, the novelty of the impression is marked by the fact that cer-
+tain parts of the pliant brain that have not normally been affected in the
+past have been suddenly forced into new configurations. At this moment,
+the animal spirits flow to this site of novelty and to the sense organs, so that
+they remain fixed on the new object; therefore the soul will be forced, in a
+sense, to acknowledge it.
+    Whatever the physiological explanation, the functional point is abso-
+lutely clear. Wonder is the way that a body interrupts itself in the face of
+a novel and unprecedented situation, in order to alert the soul to initiate
+a response that is no longer aiming to duplicate or amplify an anticipated
+machinic response but rather act in a way wholly foreign to the body—but
+still in the service of organismic life.
+    All other passions identify what is “good” or “evil,” of benefit or not to
+the bodily machine. Yet wonder is a state of surprise, the purest form of
+interruption—good and evil are no longer in play. So wonder, unlike the
+other passions, is agnostic with respect to life because its object is defined
+as unknown, as absence of knowledge of fear or desire. Therefore wonder
+will always provoke a genuine decision while simultaneously preparing the
+ground for new knowledge. Or at least, if the soul rises to the challenge and
+is not absorbed completely by novelty, to the point of immobility, the patho-
+logical state Descartes calls “astonishment.”59
+
+To sum up: The soul intervenes on behalf of the life of the organism, by
+forcing the automaton to act against its own automaticity. However slight
+
+32   C H A PT E R 2
+
+
+
+the impact of the soul might be in the face of the passions, this is the zone
+where the soul realigns the organization altogether, beyond the logic of its
+own automaticity. The human is, therefore, no simple addition to the liv-
+ing mechanized body, a reasoning being trapped in a material existence, an
+awkward marriage in both philosophical and practical terms. The human
+as a Cartesian robot is a hybrid, defined by its material organization, yet
+open to both cultural and technical formation—and often inspired to use
+that very capacity of openness to remake itself freely in moments of true
+decision. (This is why this hybrid entity must always be, for Descartes, an
+ethical being, but that is another question.)
+    A genuinely autonomous robotic system must therefore itself be some-
+what “autonomous” of its own subsystems if it is going to display the flexi-
+bility and adaptability of the human being.60 The human automaton is not
+just capable of reorganizing itself; it is also endowed with a capacity for rad-
+ical self-interruption.
+    Cartesian robotics demands that we interrogate early modern thought
+and its theorization of cognition as an immersion in the complex intersec-
+tion of rapidly evolving conceptualizations of minds, vital organic bodies,
+material technologies, and cosmic speculation. In the wake of Descartes,
+the cognitive capacities that resisted simplistic models of l’homme-machine
+will also spur parallel investigations of the body and technology. The crucial
+line was between artificial and natural, and this line was drawn in surprising
+and complex ways. The concept of automaticity was inseparable from ideas
+concerning openness, plasticity, creativity, and indetermination—whether
+in physical science, emerging forms of biological thought, theories of tech-
+nology, or the philosophy of mind. And underlying these complex strands
+of thought was Descartes’s open question, the ontological plane that would
+function as a common space for the appearance of both automatic machines
+and spiritual intellects.

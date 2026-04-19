@@ -18,12 +18,18 @@ if it had already been tested.
 First bounded result on disk:
 
 - `sources/modern/incoming/2026-04-19-weatherby-language-machines-under-pressure.md`
-  now records three bounded reads: first the introduction and chapter 1, then
-  chapter 3 and chapter 5, then chapter 6 and the conclusion. The result is
-  source-real but still narrow: Weatherby is worth keeping as a contemporary
-  interlocutor on generated writing, ideology, and rhetorical training under
-  LLM conditions. The strongest surviving handles are `language as a service`,
-  `semantic packages`, and the contested wager of a `return of rhetoric`.
+  now records five bounded reads: first the introduction and chapter 1, then
+  chapter 3 and chapter 5, then chapter 6 and the conclusion, then chapter 4
+  as a bridge pass, and finally chapter 2 as the genealogy of chatbot
+  reception. The result is source-real but still narrow: Weatherby is worth
+  keeping as a contemporary interlocutor whose introduction and chapter 1
+  carry a real philosophical spine, and whose later chapters cash that spine
+  out in generated writing, ideology, rhetorical training, and the cultural
+  uptake of chatbots under LLM conditions. The strongest surviving handles are
+  `language as a service`, `semantic packages`, and the contested wager of a
+  `return of rhetoric`; `global Eliza effect` is a useful genealogy handle,
+  while `large literary machines` is useful mainly as a bridge into the later
+  argument rather than as the main takeaway.
 
 ## Status
 

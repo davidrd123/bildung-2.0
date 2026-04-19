@@ -1,0 +1,743 @@
+The Beginning
+of an End
+
+28
+Technogenesis in the
+Networked Age
+
+
+
+The moving hand and its material traces do not just externalise the internal
+workings of a mind. Instead, intelligence is enacted through them; it
+proceeds along lines and material signs of one kind or another. For instance,
+the making of a stone tool is not the product of thinking; it is a way of
+thinking.
+                Lambros Malafouris, “Mind and Material Engagement” (2019)1
+
+
+According to the standard accounts of the “history” of artificial intelli-
+gence, the mainstream efforts to model human cognition in computer pro-
+grams based on a symbolic processing model had absolutely failed, leading
+to the so-called AI winter—the collapse of the massive funding initiatives
+that had supercharged both digital technology and AI and cognitive science
+research related to these efforts. The new AI would look different. It would
+pay attention to all of the dimensions of cognition absent in the symbolic,
+hyperrationalist approach: embodiment, enactive perception, and the ex-
+tension of the mind outside the body. The new architectures were radically
+different, technologically speaking, based on artificial neural networks that
+did not function sequentially and through high-level symbolic languages
+and nested conceptual categories but instead were massively parallel and
+distributed, to cite two key words of this moment. Part of this revolution
+in AI was a project of recuperation, as researchers and thinkers in the field
+looked back to pioneers in neural network systems, such as Frank Rosen-
+blatt, who built an artificial sensing system (the perceptron) that used an
+early form of “machine learning” to recognize patterns, such as letters.
+   The 1980s can be figured as the decade of distribution and all that went
+with it, conceptually—hybridization, posthumanism, poststructuralism,
+systems theory, and so on. This was the time when Bruno Latour and col-
+
+328
+
+                                       T E C H N O G E N E S I S I N T H E N E T WO R K E D AG E   329
+
+
+
+leagues developed actor-network theory, to take into account nonhuman
+and nonliving “actants” in systems of knowledge and social order, and Ed-
+ward Hutchins was doing his innovative sociological research on distrib-
+uted cognition, studying naval ships and Micronesian navigators.2 We can
+even see the theoretical interest in thinkers such as Michel Foucault and
+Donna Haraway—among many others—as an indication of a general (crit-
+ical and academic) consensus around the idea that human beings are other
+than what they are, or seem to be. As a historical and cultural species, the
+human could never stabilize, only be redistributed. The foundation of so
+many classic theorizations in politics, sociology, and economics, namely,
+the so-called autonomous individual, was now understood to be just one
+particular and contingent social determination with its roots in Enlight-
+enment systems of economic and political organization, buttressed by an-
+thropological regimes of knowledge.
+
+The global organization of capitalism (or at least the imaginary that partly
+sustained it) was transformed dramatically by what Francis Fukiyama called
+the “end of history” as the Soviet bloc disintegrated and a new historical mo-
+ment was proclaimed. Not coincidentally, it seems, this was also the age
+when networked computing rapidly accelerated and expanded, alongside
+the emergence of “personal computing” and the integration of culture and
+computation. Whatever we make of the landmark date on a global scale,
+1989 did see the birth of the World Wide Web and the death of the Cold War,
+initiating new sets of protocols that launched what we now call simply “the
+internet” and “globalization.” The stress in this era on the study of complex
+interconnected networks and multiple distributed systems, at varying levels
+and in both material and intellectual registers, is vastly important. Not only
+did it lay the groundwork for thinking about media technology in new ways,
+but it was also the conceptual foundation of contemporary neuroscience
+and the most prominent models of computing systems and artificial intel-
+ligence.
+   Whatever the discipline, and however sophisticated—or not—the con-
+ceptualization of networks and network theory (which of course has its
+own mathematical history that originates in the eighteenth century, with
+Leonhard Euler), one question that was brought to the fore was this: What
+exactly was the relationship between individuals and these networks and
+systems? What was the relationship of the body to the individual, and how
+did both bodies and minds lend themselves to assimilation into what Fou-
+cault would call disciplinary regimes? Or was it necessary, as Deleuze ar-
+gued, to redefine the relationship altogether? Were we mere dividuals,
+
+330   C H A PT E R 28
+
+
+
+tracked and organized by invisible control regimes organized by new dig-
+ital technologies?3
+    The difficulty of this question, philosophically speaking, but also with
+respect to the development of cognitive psychology, neuroscience, biol-
+ogy, cybernetics, and artificial intelligence, often provoked two incompat-
+ible and equally problematic responses, and we are to a large degree still
+caught in this dilemma. Network theory either entered the micro domains
+of research (as a model for the brain, or the operations of various technical,
+or biological, systems) or functioned as a framework for the explanation of
+systemic structures in social, political, economic, and other domains. What
+was less attended to, in retrospect, was thinking at the boundary: Were hu-
+man beings constituted as networked, or capable of being networked, in
+ways that could not be understood in scientific or technical terms?
+    To trace a line of thought through this period and beyond, to point to
+the “decision” that is still to be made concerning our contemporary digital
+infrastructures, is to remain with the question of human intelligence and
+the origin of technology. To think of an extended mind (Andy Clark, David
+Chalmers),4 or an embodied mind (Francisco Varela, Hubert Maturana),5 or
+a distributed mind (Hutchins, Latour), or even a radically skewed cyborg be-
+ing that is no longer really “human” at all in any singular sense (Haraway),6
+meant to think of what was being dispersed into networks beyond the
+“mind” as it was traditionally understood, philosophically. And, of course,
+the mind itself was being understood as a networked system in neuroscien-
+tific models but also in more conceptual work such as J. A. Fodor’s Modu-
+larity of Mind (1983) or the ruthlessly reductionist evolutionary psychology
+of John Tooby and Leda Cosmides, who argued that language and culture
+emerge from a human mind that is itself composed of multiple “mecha-
+nisms” individually evolved for specific survival purposes.7
+    What kind of thinking is being played out in these systems and fields of
+organization and power, within minds and brains, within social and techni-
+cal organizations? How does a network think? Can a network be intelligent?
+Given the stakes of the issue today (given our predictive algorithmic cul-
+ture, based on the hyper-distributed intelligence systems using deep learn-
+ing), it is useful here to maintain some of the lines of thought, the concepts
+and questions, that have circled and intersected with the idea of human
+intelligence as an exception, a question for us. Artificial intelligence in the
+networked age was no longer an exercise in “simulation.” It was the begin-
+ning of the end—the end of the human brain, or even the human being,
+as the center of intelligence. Would we be “living fossils” as Leroi-Gourhan
+predicted, or maybe partners with an alien intelligence, or even its compet-
+
+                                            T E C H N O G E N E S I S I N T H E N E T WO R K E D AG E   331
+
+
+
+itors, implanting “neural chips” to try to match our own technologies? The
+fantastic element of these scenarios cannot be dismissed or ignored, but
+the goal here is to see how technogenesis and the evolution of technology
+opens up a critical perspective on intelligence that resolutely does not hold
+out some special or exceptional metaphysical position for the human. What
+is artificial intelligence when intelligence cannot be naturalized so easily
+anymore? After the end of metaphysics, what is a thinking being?
+
+The Artificial Neural Network
+
+
+To begin, we need to bypass philosophy and engage with network tech-
+nology as it confronts its own lack of philosophy, or at least the need for a
+new philosophy. The early neural network researchers working in artificial
+intelligence can be aligned, as I said, with a number of parallel projects in
+defamiliarizing complex systems by modeling them in distributed and sta-
+tistical forms. Maturana and Varela’s landmark study of what they called
+autopoiesis in one word took autonomy and automaticity as two sides of one
+coin. The idea was that a system was closed and responded to itself as it un-
+derwent modifications with respect to its environment. The living system
+was intelligent, we could say, if it could learn and learn to predict, simply by
+reorganizing its bounded parameters.
+
+   What the observer calls “recall” and “memory” cannot be a process through
+   which the organism confronts each new experience with a stored represen-
+   tation of the niche before making a decision, but the expression of a mod-
+   ified system capable of synthesizing a new behavior relevant to its present
+   state of activity.8
+
+
+There are no “sequences,” only processes. And there are no “interactions,”
+only couplings.
+
+   An autopoietic organization constitutes a closed domain of relations spec-
+   ified only with respect to the autopoietic organization that these relations
+   constitute, and, thus, it defines a “space” in which it can be realized as a con-
+   crete system.9
+
+
+Thus the interest in older models of intelligence, or at least responsive be-
+havior, developed in the early days of AI. Frank Rosenblatt, for example,
+has offered a simple but effective design for a machine that learned, not
+through specific “trial and error” or heuristic methods championed by in-
+
+332      C H A PT E R 28
+
+
+
+fluential figures such as Alan Newell and Herbert Simon, but instead by
+imitating simple brain activity. As Donald Hebb had argued, in The Organi-
+zation of Behavior (1949), the synaptic connectivity of neurons in the brain
+would, through repetition, become more and more consolidated, easier to
+trigger when excited in future iterations. Rosenblatt used this idea to build
+a network of “neurons” whose cognitive weights (represented by electrical
+flows) could change depending on the result of the particular trial. (Figure
+28.1.) As simple as it might seem, compared to today’s vast, almost incom-
+prehensible machine learning networks, with layers upon layers of con-
+nections and untold numbers of parameters, Rosenblatt’s perceptron was
+meant to be a vision for intelligence itself. As he wrote in 1958:
+
+      By the study of systems such as the perceptron, it is hoped that those funda-
+      mental laws of organization which are common to all information handling
+      systems, machines and men included, may eventually be understood.10
+
+
+You could say he was right—as we will see. But it is more important to point
+to Rosenblatt’s caveat here.
+
+      Does this mean that the perceptron is capable, without further modifica-
+      tion in principle, of such higher order functions as are involved in human
+      speech, communication, and thinking? Actually, the limit of the percep-
+      tron’s capabilities seems to lie in the area of relative judgment, and the ab-
+      straction of relationships. In its “symbolic behavior,” the perceptron shows
+      some striking similarities to Goldstein’s brain-damaged patients. (404)
+
+
+   As Rosenblatt explained, there was something lurking in human un-
+derstanding that seemed more clear, more organized, than mere statisti-
+cal waves could imitate. And note the reference here to Kurt Goldstein. The
+brain is a dynamic system, yes, but it is also self-organizing and capable of
+Gestalt interpretation and understanding. The perceptron could not “rec-
+ognize” meaning, only repeat (as with some injured patients) memorized
+operations (such as marking letters). Rosenblatt will admit, “Statistical sep-
+arability alone does not provide a sufficient basis for higher order abstrac-
+tion. Some system, more advanced in principle than the perceptron, seems
+to be required at this point” (405).
+   I highlight this not to critique neural networks (that is the famous
+role played in the standard historical accounts by Seymour Pappert’s
+devastating—if fundamentally incorrect—takedown in his 1969 book, Per-
+ceptrons) but to note the presence of this same issue in the revival of neural
+
+                                                    T E C H N O G E N E S I S I N T H E N E T WO R K E D AG E   333
+
+
+
+
+Figure 28.1. From John C. Hay, Ben E. Lynch, and David R. Smith,
+Mark 1 Perceptron Operator’s Manual (Buffalo, NY: Cornell Aeronautical
+Laboratory, 1960).
+
+
+
+net research in the 1980s. Yes, the brain was a good place to look for genu-
+ine insights into intelligence that assumed that embodiment and material-
+ity were important for understanding what it was humans could do cogni-
+tively. As Geoffrey Hinton and David Touretsky explained:
+
+    The brain is built from painfully slow and unreliable components: neurons,
+    which fire less than once per millisecond, are susceptible to fatigue, and die
+    off regularly. The only way the brain can succeed as a symbol processor is by
+    exploiting massive parallelism using organizational principles that remain
+    unknown for the present.
+
+
+However, they will also admit that the massive network approach might
+leave something important out, namely, the kind of rational cognition that
+was the early focus of AI research and theory.
+
+    Computer scientists and others have long been interested in neural network
+    architectures as a means of exploring the question of intelligence. . . . To im-
+    plement the highest level of cognitive functioning, the one responsible for
+    general reasoning, requires some sort of symbolic inference architecture.11
+
+334      C H A PT E R 28
+
+
+
+Hinton was part of the Parallel Distributed Processing (PDP) group whose
+work was represented in the iconic two-volume set of articles that appeared
+in 1986 and set the stage for much future discovery in this arena. What is
+fascinating here is that the one key theoretical article laying out the project
+was also the one place where serious questions were raised about the tena-
+bility of a network that was, as Varela and Maturana described, fundamen-
+tally closed.12 The authors of the essay recognize that the way networks “an-
+swer” the question posed by their inputs is by coming to a certain state, and
+the language is maybe telling: the system “settles” into a state and thereby
+indicates its response. However, this process seemed to be inadequate as a
+way of explaining or modeling fundamental aspects of human intelligence.
+As they wrote:
+
+      If the human information-processing system carries out its computations
+      by “settling” into a solution rather than applying logical operations, why are
+      humans so intelligent? How can we do science, mathematics, logic, etc.?
+      How can we do logic if our basic operations are not logical at all? (44)
+
+
+The question is not naive, and it was not really appropriate to simply answer
+that the original AI field was right, symbolic sequential processing is im-
+portant. That was because the model of distributed networks was in a sense
+bounded and closed, metaphysically speaking. That is, the challenge (com-
+ing from brain science, which many of the researchers hailed from) was to
+explain how a certain kind of thinking (logical, sequential, abstract) could
+emerge from a neurological organization that was foundational organized
+as a system of parallel interconnections undergoing constant changes, pro-
+ducing more ephemeral moments and zones of regularity.
+   This is why the answer suggested here is so provocative, astonishing
+even, as it pinpoints what so many philosophers and scientists have (for
+centuries) been grappling with, our central question in other words: How is
+technology related to human cognition? The authors of this piece make an
+astute, but highly troubling (theoretically, that is) suggestion:
+
+      We suspect the answer comes from our ability to create artifacts—that is,
+      our ability to create physical representations that we can manipulate in
+      simple ways to get answers to very difficult and abstract problems. (44)
+
+
+Externalization of thinking into the object creates a possibility of objectiv-
+ity that allows for a productively new organization of thinking itself. It is
+
+                                           T E C H N O G E N E S I S I N T H E N E T WO R K E D AG E   335
+
+
+
+not accidental that the metaphor here is one of manipulation. From Kant to
+Leroi-Gourhan, the hand can be seen as the facilitator between the inside
+of thought and the exterior world that is to be grasped by thought and not
+remain (as for animals) the mere occasion for thought. As they explain:
+
+   These dual skills of manipulating the environment and processing the envi-
+   ronment we have created allow us to reduce very complex problems to a se-
+   ries of very simple ones. This ability allows us to deal with problems that are
+   otherwise impossible. This is real symbol processing and, we are beginning
+   to think, the primary symbol processing that we are able to do. Indeed, on this
+   view the external environment becomes a key extension to our mind. (46)
+
+
+The implications of this hypothesis are not lost on the authors. Thinking, in
+this sense, is not merely a function of the brain, or at least, the brain is able
+to internalize a logic that is not produced simply from its own statistical
+waves of transformed inputs.
+
+   Not only can we manipulate the physical environment and then process it,
+   we can also learn to internalize the representations we create, “imagine”
+   them, and then process these imagined representations—just as if they
+   were external. (46)
+
+
+The philosophy of exteriorization suggested here is (perhaps not surpris-
+ingly) not followed up. Of course, everyone knows that human beings are
+capable of such thought, with their brains, so if artifacts are essential to the
+evolution of intelligence, that fact can be marked then displaced. They will
+admit that “it seems to us that such representational systems are not very
+easy to develop.” Yet essential nonetheless. “We are good at manipulating
+our environment. This is another version of man-the-tool-user, and we be-
+lieve that this is perhaps the crucial skill which allows us to think logically,
+do mathematics and science, and in general build a culture” (44). But to
+make progress, clearly it is necessary to avoid or at least set aside the prob-
+lem. The work is off-loaded to another department or discipline.
+   Where do artifacts come from? “Usually they are provided by our culture”
+(47; my emphasis). Culture stands as both the origin and the result of tech-
+nology, an impossible lever that moves the brain into the new field of intel-
+ligence that is necessary to begin the process in the first place.
+
+336    C H A PT E R 28
+
+
+
+The Technical Evolution of Culture
+
+
+Cultures are best seen not as complexes of concrete behavior patterns,
+customs, usages, traditions, habit clusters—but as sets of control
+mechanisms—plans, recipes, rules, instructions, what computer engineers
+call “programs” for the governing of behavior. The second is that man is
+the animal most desperately dependent upon such extragenetic control
+mechanisms for ordering his behavior.
+                        Clifford Geertz, “The Impact of the Concept of Culture
+                                               on the Concept of Man” (1966)13
+
+
+
+As Leroi-Gourhan had argued, the very definition of the human rests on
+a break with biological evolution in the turn to a form of cultural—and al-
+ways therefore technical—evolution based on the exteriorization of mem-
+ory and gesture. In a wave of postwar work on evolutionary psychology and
+the birth of culture, this fundamental insight was reaffirmed. Interest in
+the artifact (material medium) for thinking about reason and human intel-
+ligence was, as we know, hardly unknown before this period. Indeed, much
+of the new thinking on media and literacy (in the influential and widely
+cited work of Marshall McCluhan most notably) was showing how certain
+forms of technical systems imposed those forms (“linearity” of thought, for
+example) on human minds, for better or worse.
+   A notable case is that of Merlin Donald, whose early career was in exper-
+imental cognitive sciences, with decidedly modest aims, but who later took
+up the crucial grand question of “culture” as it defines the emergence of the
+human. Donald would outline an ambitious “history of the modern mind”
+that isolated stages in the way human biological beings began not just to
+interact, but to communicate in a way animals never do. A new relationship
+between human psychology (rooted in models of brains understood as in-
+formation systems) and the advent of technology was crucial to the forma-
+tion of a new culture. Human cultural forms are ways in which we share
+experience and learn from previous experiences. While the first efforts
+of cultural communication and control are seemingly more natural (i.e.,
+based on individual capacities), the emergence of the artifact becomes, for
+Donald, the revelation of the importance to all culture of external memory
+storage.14 His stages of history (from thought to oral speech to external stor-
+age systems such as writing) are to be sure unconvincingly schematic; how-
+ever, he argues persuasively, as Popper, Lotka, and Leroi-Gourhan did be-
+fore him, that the most crucial stage, the genuine crossing of the threshold
+to humanity, is the artificial exteriorization of memory (what he would later
+call the “exographic revolution”),15 which unleashes, for better or worse, the
+
+                                        T E C H N O G E N E S I S I N T H E N E T WO R K E D AG E   337
+
+
+
+development of human rationality and science. What Donald does not rec-
+ognize here is that the first stages of thought and speech are already tech-
+nical in the sense that they are a reengineering of natural behaviors. The
+disarticulation of natural and artificial is the structural key to the founding
+of a “modern mind.”
+    The effort to disentangle biological evolution from culture was not a
+project to extricate human beings from determination. Rather, the empha-
+sis in disciplines such as paleoanthropology and evolutionary psychology
+was on the distinction between different forms of evolutionary determina-
+tion. Cultural evolution, which is nongenetic, “has transgressed organic
+evolution and shows a certain autonomy,” wrote Franz Wuketits, in the
+same year that the PDP volumes appeared.16 Citing evolutionary epistemol-
+ogy and in particular Karl Popper’s theory of “objective knowledge” through
+material culture, Wuketits offered a systems theory critique of cultural evo-
+lution, in line with a general trend in the 1980s toward network and dis-
+tributed models of organization.17 Still, what is essential for Wuketits is the
+appearance of what he calls exosomatic structures, where ideas become ma-
+terialized and thereby made transferable to others in a social group. Even
+a dead person, he explains, can pass on cultural information through, say,
+books or artworks, but “a dead person no longer can transmit genetic infor-
+mation.”18 One implication I would draw out here is that with the cultural
+turn, the individual mind now confronts “alien” thought through these
+exosomatic organs. Ultimately, Wuketits avoids any explanation of how an
+enclosed, biologically determined nervous system could ever create and
+then make use of these exosomatic structures, a key challenge that Leroi-
+Gourhan faced in his own work.
+    The philosophical biologist Tom Stonier had made a similar case in 1981,
+when he argued that with the emergence of the human tool, a biological
+species was able, for the very first time, to extend and modify its own “econ-
+iche.” This was, Stonier asserts, an epochal “breakthrough in the history
+of Life.” Technology is what initiates a never before seen process of non-
+genetic evolution that will “permanently” alter the relationship between
+the organic society of humans and their environment. Both will leave na-
+ture behind as they are transformed into cultural and technical systems.
+Like Leroi-Gourhan, Stonier speculates that we are now, in the twentieth
+century, on the cusp of a new breakthrough, the development of an infor-
+mation society, one that will take us “beyond ourselves.”19 As he put it in a
+later book, Beyond Information: The Natural History of Intelligence (1992), hu-
+man beings form a collective intelligence predicated on the development
+of the artificial storage of memory. The danger of collective intelligence,
+
+338   C H A PT E R 28
+
+
+
+he warns, is that with the increasing automation and complexity of infor-
+mation systems, “computers will rapidly become more intelligent than hu-
+mans” just as human minds are increasingly being merged with machine
+intelligence.20
+    The collective mind, enabled by the exosomatic cultural transmission of
+human thought across the boundary of the biological brain, must always be
+considered what is called a “hetero-technic co-operation,” a collective form
+of cognition distributed between organisms and machines.21 The informa-
+tion theorist Pierre Lévy would presciently describe the contemporary zone
+of collective intelligence, now coordinated in “real time” by a new digital in-
+frastructure, as a cyberspace—borrowing the term from the science fiction
+author William Gibson.22
+
+Deacon on the Symbolic Species
+
+
+As we know, across the world, people with equal intelligence, equally
+complex language can be living in radically different cultures with radically
+different kinds of technologies. Those that can look as the stone age of a
+million years ago, those that can look as modern as we are today sitting in
+this studio. The same brains can be producing all of those systems, in part
+because it is not all inside the head.
+                                          Terrence Deacon, interview (2003)23
+
+
+But in all this work a key philosophical question remains: What is the in-
+vention of technology; and then how do we understand the second inven-
+tion, that of artificial memory? As Donald admitted, this abyssal “gap” be-
+tween “pre-symbolic and symbolic thought” can only be explained by some
+evolutionary event in the emergence of the human brain—which is to just
+displace the question of origin into an equally problematic space.24 What-
+ever the location, we have here what Andy Clark calls the “missing link”
+between animal cognition and human symbolic systems, which are, at their
+heart, technical systems.25
+   This gap is the subject of Terrence Deacon’s impressive book on the or-
+igin of symbolic thinking.26 Like Leroi-Gourhan, Deacon refuses to locate
+the origin of the human break from animal cognition in some evolutionary
+miracle, instead arguing that language and the brain emerged in a mutual
+process of development. While it is not possible to do justice to the com-
+plexity and richness of Deacon’s argument here, it is important to note that
+a key shift for him is the turn from mere associative predictions to symbolic
+predictions, that is, anticipations of the radically new event. For Deacon,
+
+                                        T E C H N O G E N E S I S I N T H E N E T WO R K E D AG E   339
+
+
+
+this is the result of a mnemonic shift, an internal “offloading” of details from
+working memory (89). But this requires, he says, the creation of “artificial
+systems” for the internal re-presentation of associations. With these “to-
+kens” symbolic thought becomes possible: “insight learning” (Deacon re-
+fers explicitly to Köhler here) occurs because higher-order associations can
+be made between internal representations (93–94). Symbols do not refer to
+objects only; they can, as Peirce first emphasized, relate to other symbols. At
+any rate, what is equally important to note here is that the symbolic struc-
+tures are what we are calling, after Lotka, exosomatic. As Deacon notes, the
+adaptation that is language evolves in its own way, and its history of evolu-
+tionary adaptation “has been going on outside the brain” (109). What Dea-
+con is arguing is that the emergence and “evolution of symbolic commu-
+nication” is an extrabiological system “with a sort of autonomous life of its
+own” (409).
+   Unlike so many evolutionary psychologists and cognitive scientists,
+Deacon tries to provide some kind of—admittedly hypothetical—account
+of the origin of symbolic thought and its exosomatic supports, by focus-
+ing on the evolution of the brain. However, Deacon, who did experimental
+work on brains that included neural tissue transplantation across species,
+looks to evolution but without any interest in invoking a bios ex machina.
+The main thesis is that according to the then current data, it was clear that
+there was no evolution of “the” brain. Rather, the different regions of the
+brain evolved in different scales according to different pressures and selec-
+tion, and each region is subject to displacement processes that are internal to
+the organization of the whole brain. With the revolutionary enlargement
+of the brain and especially with the increase of the cortex region, Deacon
+explains, humans were provided with a new flood of internal inputs gen-
+erated from association patterns, inputs that mimicked an increase in sen-
+sory information.
+   What the brain could now do was something different from the older
+complex, to be sure, but limited capacity to correlate experiences of the world.
+Now, the context made possible associations between associations, leading
+to a liberation from mere “indexical” association and inference to some-
+thing like iconic relations, setting the stage for forms of thought that re-
+lated simply to the relational structures themselves—what can be called
+genuine symbolic thought. The correlative processing that takes place in
+the frontal region is where the “mnemonic architecture” of symbolic refer-
+ence is created. For Deacon, symbolic systems only emerge after “a radical
+re-engineering of the whole brain has taken place, and on a scale that is un-
+
+340   C H A PT E R 28
+
+
+
+precedented” (45). Different regions of the brain are newly connected by in-
+creases in cortical tissue and links across topological levels, and this creates
+new possibilities of association that are “arbitrary” in relation to sensory
+experience but meaningful within this novel architecture of the machinery
+of association. Language, therefore, is a form of internal and external orga-
+nization that emerges in this matrix of association rather than simply the re-
+sult of “size,” or of the evolution of a specific language center—as Chomsky
+and his followers, along with many evolutionary psychologists, would nor-
+mally assume.
+   However, equally important for us is Deacon’s argument that the lan-
+guages—structured systems of association—that emerge from symbolic
+thinking also evolve independently, and are always having to adapt to the
+capacities of the brain as they transform (biologically but also “culturally”).
+There is therefore always a coevolution of internal brain organization, of
+learning, and of what we are calling exosomatic processes. And this co-
+evolution never stabilizes into a single trajectory since each process has its
+own logic of organization and its own line of development.
+   Deacon emphasizes language in his account of the origin of the human.
+However, his look back to the early tool-making capacity of Australopith-
+ecines is illuminating—for like Leroi-Gourhan, Deacon argues (with ref-
+erence to Baldwin’s account of evolution that supplemented Darwinian
+theory) that the “transformation into Homo was in part the consequence
+rather than the cause” of the new forms of technicity. Both the artifacts and
+the social organization that learning depended on were (however fragile in
+their early forms) essential “external supports” of symbolic thought, in that
+they helped the brain develop the possibilities of connectivity and also sup-
+ported symbolic expression materially. This is also why human thinking
+is never natural to the brain: it is a system involving both “alien” internal
+inputs with no natural zone of organization and the alien thinking that is
+another mind (423).27 “Stone tools and symbols,” writes Deacon, “must both,
+then, be the architects of the Australopithecus-Homo transition, and not its
+consequences.” The new brains, the implements, the dramatic changes in
+the body, improved bipedalism, all were just “physical echoes of a threshold
+already crossed” (348).
+   The threshold. There is something about the human that is not simply
+about what comes after but rather involves the threshold itself. With this
+in mind, we can turn to the one philosopher to engage directly with this
+question of the threshold between biology and culture, between prehuman
+and genuine human, namely, Bernard Stiegler. The turn will hinge on the
+question of technology.
+
+                                           T E C H N O G E N E S I S I N T H E N E T WO R K E D AG E   341
+
+
+
+Originary Technicity: Stiegler’s “Technics and Time”
+
+
+You know—technology wasn’t invented by us humans. Rather the other
+way around.
+                                  François Lyotard, The Inhuman (1988)28
+
+
+
+The French philosopher Bernard Stiegler, immersed in both poststructural-
+ist thought and phenomenology, as well as scholarship on the history and
+theory of technology, looked back to Leroi-Gourhan as the starting point for
+an intensive investigation of the question of the origin of the human, and
+he will come to exactly the opposite conclusion of any other philosopher in
+this period—though we see hints of the argument in some of the specialist
+literature in paleoanthropology. For Stiegler, the paradox of the artifact is
+not a paradox if we understand that it is not the human that invents the tool
+but rather it is the tool that invents the human. While agreeing with Leroi-
+Gourhan’s critique of the mythology of the human, the idea of a “gift” that
+enables us to leave nature, Stiegler denies Leroi-Gourhan’s effort nonethe-
+less to locate an origin of the “real” human, the user of tools as symbols, the
+conscious and aesthetic mind that only appears late in our hominid evolu-
+tion. For Stiegler, we must confront the radical beginning. The human, as
+Leroi-Gourhan argued, is a zoological fact. How can the tool be at once on
+the side of zoology and the site of the emergence of the modern mind, to use
+Merlin Donald’s term here. We have to realize, against Leroi-Gourhan, that
+the earliest, most primitive tool is already a tool. It marks an anticipation
+even if the human is not aware of it.
+
+   “Technical consciousness” means anticipation without creative conscious-
+   ness. Anticipation means the realization of a possibility that is not deter-
+   mined by a biological program. Now, at the same time, the movement of “ex-
+   teriorization,” if it seems to presuppose this anticipation, appears here to be
+   of a strictly zoological origin, to the point of still being determined by the
+   neurophysiological characteristics of the individual. When this determi-
+   nation will have completely ceased its action on technical evolution, Leroi-
+   Gourhan will introduce a notion of spirituality: a second origin.29
+
+
+For Stiegler, and I admit this is not always easy to grasp, the human is what
+results accidentally from the tool’s appearance with the early hominids,
+or to put it better, the tool is an inhuman intervention into the biological hu-
+man that produces a new evolution of the human (the increase in the size
+and complexity of the brain most importantly) from within. The tool could
+
+342      C H A PT E R 28
+
+
+
+never show any evolution, a transformation in a history, if it was already
+not human. And simultaneously, the human could not extricate itself from
+nature without the intervention into its nature by artifice, or the unnatural.
+We can see that a human cannot produce the inhuman (that which is alien
+to the human and having its own logic of being), but equally, something
+inhuman cannot become human without the human changing in the pro-
+cess.30 The argument here, consistent with Leroi-Gourhan, is that the hu-
+man does not “improve” to accept or invent the tool. The human must lose
+a certain human experience to gain the inhuman element that is enabled by
+the artifact.31
+   So the first tool (defined as the rock that is changed by being struck) is
+the site for the intersection of the inhuman and human: the zoological crea-
+ture in breaking the rock is already “affected with anticipation, because it is
+nothing but anticipation, a gesture is a gesture.” And this is the difficulty:
+“There can be no gesture without tools and artificial memory, prosthetic,
+outside of the body, and constitutive of its world. There is no anticipation,
+no time outside of this passage outside, of this putting-outside-of-self and
+of this alienation of the human and its memory that ‘exteriorization’ is”
+(152). Animal gesture is not anticipation, it operates in time but not as time.
+The gesture as radically novel gesture must be different. It makes possible
+the tool but the memory must not be natural—which is to say, the memory
+that makes the tool possible is already outside the brain, it consists of the
+tool itself.
+
+      The question is the very ambiguity of the word “exteriorization” and the
+      hierarchy or the chronological, logical, and ontological preeminence that
+      it immediately induces: if indeed one could speak of exteriorization, this
+      would mean the presence of a preceding interiority. Now, this interiority is
+      nothing outside of its exteriorization: the issue is therefore neither that of
+      an interiority nor that of exteriority—but that of an originary complex in
+      which the two terms, far from being opposed, compose with one another
+      (and by the same token are posed, in a single stroke, in a single movement).
+      Neither one precedes the other, neither is the origin of the other, the origin
+      being then the coming into adequacy [con-venance] or the simultaneous ar-
+      rival of the two—which are in truth the same considered from two different
+      points of view. (152)
+
+
+Following Derrida, the prosthesis is not a substitute or an extension, but
+in its essence a putting forward, the creation of an “end” that was not there
+before it. The prosthetic that is the tool as exteriorized memory “is not a
+
+                                          T E C H N O G E N E S I S I N T H E N E T WO R K E D AG E   343
+
+
+
+‘means’ for the human but its end, and we know the essential equivocity of
+this expression: ‘the end of the human,’” writes Stiegler (153).
+   In any case, the conclusion is what is important here: the human is
+something less than natural; it is differentiated from nature by the technical
+inhumanity and will always be at once inside technology but also never in
+control of the evolution of technology, which is always driven by its own
+logic, the logic of the not-living. Now a social, cultural, technical being, the
+human is not so much liberated from genetic evolution, set into “history,”
+but instead subject to an evolution which is part of us but never congruent
+with us. That will be the basis of Stiegler’s invocation of the pharmakon of
+Plato (via Derrida) to depict the role of technology in our world: both poi-
+son and cure, it is always indifferent to our plight, our experience. Humans
+are, in Stiegler’s language, epiphylogenetic beings. “It is in this sense that the
+what invents the who just as much as it is invented by it” (178).
+   Technics is time, because artificial organization is the basis for the se-
+quence cut from the continuity of lived experience. The trace of that cut
+remains, in our minds, in our tools, and is the source of both the power of
+temporalization and the contingency of our being. Rewriting Heidegger,
+Stiegler argues that technics is not just another word for Heideggerian
+“facticity.” The “rift” in Being that sets up Heidegger’s account of historic-
+ity and being-toward-death is already dependent on the exteriorization of
+memory, because the historicity of human experience is constituted by the
+inhuman structure of technicity.
+
+   Nothing can be said of temporalization that does not relate to the ephiphy-
+   logenetic structure put in place each time, and each time in an original way,
+   by the already-there, in other words by the memory supports that organize
+   successive epochs of humanity: that is, technics—the supplement is ele-
+   mentary, or rather elementary supplementarity is (the relation to) time [dif-
+   férance]. (183)
+
+
+So for Stiegler, the pathology of modernity is not, as it was for Heidegger,
+modern technology. Or at least not technology per se. As Stiegler will ar-
+gue, the pathological and disturbing element is not industrialization and
+automation, on the technical side of things. Rather, what concerns Stiegler
+is what he calls the industrialization and automation of memory—the in-
+dustrial production and hence homogenization of tertiary retention. No
+longer is the human social, cultural, and economic sphere defined by an
+interaction between memory, technicity, and the living being. Instead the
+logic of technical systems now imposes itself on the cultural forms of mem-
+
+344   C H A PT E R 28
+
+
+
+ory themselves. In the process, human minds in their plasticity are deter-
+mined in a new way. They are not merely shaped and configured by the de-
+mands of technical know-how and sociopolitical organization, but formed
+according to the logic of industrial capital itself, that is in the name of the
+reproduction of industrial economic systems.32 Human memory is no lon-
+ger shared primarily through concrete instances of collective individua-
+tion. Instead, we relate one to another via the machinery of culture as mass-
+produced memory, which is also to say mass-produced imagination, which
+means foreclosing the genuine “event” of knowing and remembering.
+    As Stiegler would go on to demonstrate, relentlessly, the emergence of
+planetary scaled digital infrastructures threatens genuine thinking and
+memory even more drastically than the industrialization of thought.33 Not
+only do all forms of culture depend on tertiary retention for survival, and
+therefore can be violated and expropriated by the logic of the machine;
+in the digital age the machines gain a vast new power, what Stiegler calls
+reticulation: that is, digital machines integrate all other forms of memory
+production, and at a speed and scale that is both persistent and beyond the
+comprehension of our own “slow” brains, so that our minds are learning
+and anticipating (if that is the right word) according to the organizing logic
+of the digital. This pathology comes to the fore most clearly in technologies
+of prediction—in our era the systems of machine learning.
