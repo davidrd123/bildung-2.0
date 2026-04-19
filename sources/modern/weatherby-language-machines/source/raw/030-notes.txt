@@ -1,0 +1,921 @@
+Notes
+
+
+Introduction
+      1. Here I agree with Laura McGrath and her coauthors, who write, “Language
+models like GPT-3 have attracted attention by mastering an immense repertoire
+of forms, voices, and genres that they remix as requested. In truth, these models
+encode not just language but culture.” McGrath et al., “Culture, Theory, Data,” 528.
+      2. Throughout this book, I focus my interpretive efforts on the trained
+model. This means that I have relatively little to say about reinforcement learning
+with human feedback (RLHF) or on the qualitative nature of the training data set
+(in chapter 6, there is a short reflection on this issue). This is because RLHF alone
+does not produce the “fluidity” or the basic linguistic competence that I think is
+most important about these systems. Their ability to model language as a code,
+rather than as particular types of human speech, was clearly demonstrated by
+systems like GPT-2 before any RLHF was added. I have more to say later about the
+data than I do about fine-tuning of any kind, but this is for a different reason. I
+do not think it is easy—or perhaps even possible—to characterize data sets with
+billions or trillions of data points qualitatively. Two arguments about the data
+seem insufficient to me because of this unsurveyability. The idea that whatever
+the models does is “contaminated” by memorization of data does not really go
+to my point here, because that question is almost entirely about “reasoning” and
+“intelligence,” features I do not think LLMs possess. The notion that the data set
+is skewed in some fundamental way that does not reflect human values might be
+true for a sentimental view of those values on the part of some social scientists or
+their counterparts in the AI wings of large platform companies but has no bearing
+on the important question of how such a skew relates to social bias in language
+more generally. Indeed, the fit between those “biases” might be taken as evidence
+that these systems really capture our culture.
+      3. I am not alone in thinking that structuralism is relevant in a new way in
+the present. Ted Underwood has claimed that LLMs present us with the “empiri
+cal triumph of theory.” Underwood, “Empirical Triumph of Theory.” Alexander
+Galloway has argued in various places that structuralism in particular makes
+sense of the way digital systems handle data; Juan Luis Gastaldi and Patrice
+Maniglier have both claimed the relevance of this theory for learning systems.
+Galloway, “Golden Age of Analog,” 211–32; Gastaldi, “Why Can Computers Un-
+derstand Natural Language?,” 149–214; Maniglier, “Processing Cultures,” 145–72.
+See also Tenen, who argues that structuralism helps to explain the “template
+culture” that the long history of language modeling has created. The history of
+
+
+
+                                        213
+
+214                          Notes to Introduction
+
+structuralism is also known to be tied to the history of cybernetics. Tenen, Liter-
+ary Theory for Robots; see also Geoghegan, “From Information Theory to French
+Theory,” 96–126; and Campolo and Schwerzmann, “From Rules to Examples.”
+Lydia Liu’s claim that Derrida’s philosophy makes sense of Claude Shannon’s
+work, and her excavation of Lacan, which I cite later, runs close to my concerns
+here too. See Liu, Freudian Robot.
+       4. OpenAI, “Better Language Models and Their Implications.”
+       5. Guardian, “A Robot Wrote This Entire Article”; Weinberg, “Philosophers on
+GPT-3.”
+       6. Bubeck et al., “Sparks of Artificial General Intelligence.”
+       7. A very helpful account of this difference can be found in Mackenzie,
+Machine Learners, 21–51.
+       8. Fodor, Language of Thought. Fodor’s critique of connectionism, the pre-
+ decessor to deep learning, remains valid on several points, especially on what he
+ calls “systematicity” and “compositionality.” But the medium of computation in
+ LLMs is precisely language without thought. See Fodor and McLaughlin, “Connec-
+ tionism and the Problem of Systematicity,” 183–204.
+       9. It appears that unsemantic tokenization is more common in non-English
+ languages, which reinforces the sense that these systems have a bias for English
+ due to the disproportionate amount of that language on the internet.
+     10. Harnad, “Symbol Grounding Problem,” 340.
+     11. Harnad, 335–46.
+     12. Browning and LeCun, “AI and the Limits of Language.”
+     13. Piantadosi and Hill, in “Meaning without Reference,” argue that reference
+ is only one kind of meaning, leveling a series of cases of such meaning against
+ Bender’s and Koller’s arguments.
+     14. Putnam, “Meaning of ‘Meaning.’ ”
+     15. Mandelkern and Linzen, “Do Language Models’ Words Refer?”
+     16. Mollo and Millière, “Vector Grounding Problem,” 19–20.
+     17. Mollo and Millière, 21.
+     18. Pavlick, “Symbols and Grounding.”
+     19. Pavlick argues that LLMs in fact capture some features of formal seman-
+ tics that are necessary for grounding.
+     20. Frege and Beaney, Frege Reader.
+     21. Neurath, “Scientific Conception of the World,” 306.
+     22. Pavlick, “Semantic Structure in Deep Learning,” 447–71.
+     23. Morris, Foundations of the Theory of Signs, 2.
+     24. Levinson, Pragmatics.
+     25. Levinson, 4, points out that this restriction is due to Carnap’s disciple and
+ major figure in early natural language processing Yoshua Bar-Hillel. Levinson says
+ that this usage has “little to offer linguists” because “all natural languages have
+ deictic terms,” and the exclusion of semantics from deictics essentially denies all
+ meaning to languages. One need look no further than Jakobson’s famous notion
+ of a “shifter”—which derives, as it happens, from the idea of a “symbolic index” in
+ early computing, in the terms of Arthur Burks—to find a literary-theoretical par-
+ allel attempt to deal with deixis without reaching outside the formal features of
+ language. It is hardly a coincidence that we find in Jakobson, and in Burks before
+
+                             Notes to Introduction                                 215
+
+him, if not in Bar-Hillel, acute attention to Peirce’s semiotics in a linguistic vein.
+See Burks, “Icon, Index, and Symbol,” 673–89.
+    26. Silverstein, “Cognitive Implications of a Referential Hierarchy,” 129.
+    27. Silverstein, 159.
+    28. I’m going to focus on the transformer and its underlying “attention”
+mechanism in what follows, but the culmination of the argument in chapter 5 is
+meant to demonstrate why the computation–language interaction it realizes is
+possible in the first place. I regard these mechanisms as the first to realize what
+must be a larger class of potential interactions between language and mathemat-
+ics. So although the book takes this departure seriously, it ultimately seeks not
+to diagnose the present condition but to understand its theoretical implications,
+which already have both cultural and scientific consequences, all of which are
+poorly understood.
+    29. Piantadosi and Hill, “Meaning without Reference.”
+    30. Pavlick, “Symbols and Grounding.”
+    31. Millière and Buckner, “A Philosophical Introduction to Language Models.”
+    32. Lake and Murphy, “Word Meaning in Minds and Machines,” 401–31.
+    33. A field of “interpretability” has emerged, although some of its major
+proponents seem to be motivated by the ideology of “AI risk.” See Anthropic,
+“Decomposing Language Models into Understandable Components.” Earlier
+efforts include “BERTology,” based on the bidirectional transformer model that
+immediately preceded GPTs. See Rogers et al., “A Primer in BERTology.” BERT
+was open source, and mechanistic interpretation faces the problem of corpo-
+rate secrets now, complicating its efforts. This type of interpretability has been
+proposed for virtually every architecture over the last fifteen years and has some
+overlap with humanistic digital humanities work in this space. See Dobson, “On
+Reading and Interpreting Black Box Deep Neural Networks.”
+    34. Lake and Murphy, “Word Meaning in Minds and Machines.”
+    35. Yiu et al., “Transmission versus Truth.”
+    36. Yiu et al. One may remark that cognitive science has belatedly rein-
+vented the very term that media theory has possessed for decades, perhaps most
+famously in Bernhard Siegert’s idea of the Kulturtechnik, technology seen as that
+which cultivates by means of creating distinctions by means of material divisions,
+marks, or processes. The convergence of literary theory and evolutionary and
+cognitive psychology would ideally be shifted from implicit agreement to active
+debate and collaboration.
+    37. Donald, Origins of the Modern Mind, 42.
+    38. Williams, Marxism and Literature, 11–21. “ ‘Culture,’ or more specifically
+‘art’ and ‘literature’ (themselves newly generalized and abstracted), were seen as
+the deepest record, the deepest impulse, and the deepest resource of the ‘human
+spirit.’ ‘Culture’ was then at once the secularization and the liberalization of
+earlier metaphysical forms. Its agencies and processes were distinctively human,
+and were generalized as subjective, but certain quasi-metaphysical forms—‘the
+imagination,’ ‘creativity,’ ‘inspiration,’ ‘the aesthetic,’ and the new positive sense
+of ‘myth’—were in effect composed into a new pantheon” (15). Culture is the
+main discursive competitor with cognition for the distinctively human generali
+zation of metaphysical problems, understood profanely.
+
+216                          Notes to Introduction
+
+     39. Hayles, “Can Computers Create Meanings?,” 32–55; Hayles, Unthought.
+     40. Deacon, Incomplete Nature.
+     41. Hayles has gone further, claiming that bots have “personae.” See Hayles,
+“Inside the Mind of an AI,” 635–66.
+     42. Tomlinson, Machines of Evolution; see also Tomlinson, Culture and the Course
+of Human Evolution. A species creates a “niche” by changing its environment—
+usually through some kind of tool use, like beavers making dams—so that survival
+pressures are altered, thereby indirectly affecting natural selection. The theory is
+associated with the dialectical biologist Richard Lewontin, and Deacon argues that
+humans have “biased” their own evolution to favor a symbol-using linguistic brain.
+Tomlinson is attempting a broader-spectrum semiotic theory of evolution in which
+ the interpretant is the crucial figure for human culture and therefore meaning.
+     43. Deacon, “Shannon–Boltzmann–Darwin,” 169–96; Weatherby and Justie,
+ “Indexical AI,” 381–415.
+     44. Tomlinson, Machines of Evolution, 59–60.
+     45. Two books appear to agree on this point, neither of which it was possible
+ to integrate more fully into this project owing to the timing of their publication.
+ See Gunkel, AI for Communication, and Kockelman, Last Words. Kockelman’s
+ extensive use of Peirce fits directly in the line of semiotic explorations of meaning
+ I have been reviewing here, and both books are excellent on the topic of commu-
+ nication, which I largely leave aside in favor of questions of structure and system.
+     46. Tomlinson, Machines of Evolution, 284.
+     47. Lacan, Ego in Freud’s Theory, 18. See Lydia Liu’s excellent reading of the
+ interaction with Riguet. Liu, “Cybernetic Unconscious,” 288–320.
+     48. The best account to date is Liu, Freudian Robot.
+     49. Stiegler and Norman, Symbolic Misery, 67.
+     50. James Duesterberg writes that Derrida saw a world “liberated from
+ reference, made up of pure signs referring only to themselves,” and that with
+ the LLM, we see that Derrida’s description is accurate, because “words now are
+ things.” Duesterberg, “Neither Governed nor Free.” I agree that words as material
+ forces are relevant, but the referential function, though not the basis of language,
+ remains in play, before and after LLMs.
+     51. Kittler, Gramophone Film Typewriter.
+     52. Kittler, “There Is No Software,” in Truth of the Technological World, 223.
+     53. This is not to deny the point that Lacan already made, which is that com-
+ putation creates a “hole in the Real” by creating new feedback-couplings between
+ representations and physics. The best elaboration of this argument is Siegert, Pas-
+ sage des Digitalen. But this is the definition of the symbolic in Lacan and so applies
+ to language too.
+     54. Dobson, “Vector Hermeneutics,” 81–93.
+     55. Chun, “On Software,” 26–51.
+     56. I address this more fully in chapters 2 and 3—the shift to graphical or
+ even tensor processing units could be taken to be a shift from classical comput-
+ ing, although I am not aware of a media-theoretical argument to this effect. I
+ do not think that they change the basic issue, however, which is that a learning
+ system is built on a symbolic, rather than some analog or biological, system.
+     57. There has been rather more attention to images and their relation to the
+ computationally produced symbolic order, probably because the artificial image
+
+                            Notes to Introduction                               217
+
+has been a regular part of our social experience for well over a century. See, e.g.,
+Mitchell, Reconfigured Eye.
+     58. Maniglier, “Processing Cultures,” 159.
+     59. MIT Technology Review, “This Horse-Riding Astronaut Is a Milestone.”
+     60. Halpern et al., “Surplus Data,” 197–210.
+     61. Underwood, “Empirical Triumph of Theory.”
+     62. Semiology is thus a completely different proposal from the hotly debated
+“Sapir–Whorf hypothesis,” which claims that language influences or even constitutes
+ elements of thinking as such. Semiology proposes instead that the final value of a
+ sign is in the communicative process of language and thus asks to what extent other
+sign-systems have to be structured like language to make sense for us. The question
+is one of media and philology rather than the metaphysics of the mind (which
+remains metaphysical even when the mind is purported to be treated empirically).
+     63. Barthes, Elements of Semiology, 41.
+     64. Dreyfus, What Computers Still Can’t Do. The best modernization of
+Dreyfus’s approach is Smith, Promise of Artificial Intelligence; for my critique of
+ this approach in general, see Weatherby, “Intermittent Legitimacy,” 11–39.
+     65. It also opens up a line of thinking about embodied thought that has
+ some overlap with the important school that emerged from Second Cybernet-
+ ics, especially in this latter’s phenomenological articulation. See the important
+ book by Varela et al., Embodied Mind; see also Clarke and Hansen, Emergence and
+Embodiment.
+     66. See the extensive summary in Crawford, Atlas of AI, and the many reports
+from organizations like AI Now, Data and Society, and McKinsey.
+     67. Piantadosi, “Modern Language Models.”
+     68. Bender et al., “On the Dangers of Stochastic Parrots,” 617.
+     69. Bender et al., 610–23.
+     70. Bender et al., 613; Bender and Koller, “Climbing towards NLU,” 5185–98.
+     71. Bender et al., “On the Dangers of Stochastic Parrots,” 611.
+     72. Bender and Koller, “Climbing towards NLU,” 5185.
+     73. The argument “rests on an a priori distinction between humans and lan-
+guage models elaborated through discussion of the communicative contexts for
+human language,” as Katherine Bode and Lauren M. E. Goodlad write. See Bode
+and Goodlad, “Data Worlds.”
+     74. Mollick, Co-intelligence.
+     75. Bender et al., “On the Dangers of Stochastic Parrots,” 614.
+     76. Bender et al., 614.
+     77. Yarden Katz has extensively criticized this engineering-friendly line of
+ critique in his Artificial Whiteness. Some of the proponents of this critique have
+ moved to a position of abolition, or at least moratorium, on the use of chatbots,
+ the second of the two options available from this standpoint.
+     78. Buschek and Thorp, “Models All the Way Down.”
+     79. Geroulanos, An Atheism That Is Not Humanist.
+     80. The acronym stands for “transhumanism, extropianism, singularitarian-
+ism, cosmism, rationalism, effective altruism, and longtermism.” See Gebru and
+Torres, “TESCREAL Bundle.”
+     81. Roose, “AI Poses ‘Risk of Extinction.’ ”
+     82. Ord, Precipice.
+
+218                           Notes to chapter 1
+
+
+1. How the Humanities Lost Language
+       1. Pinker, Language Instinct, 19.
+       2. Pinker, 19.
+       3. Pinker, 19: “language is not a cultural artifact that we learn the way we
+learn to tell time or how the federal government works.”
+       4. Lacan argues that the symbolic order has a dialectical structure, because
+it is totalizing, constituting the very universe it makes available to thought. See
+Lacan, The Ego in Freud’s Theory, 30. In chapter 5, I argue that this occurs in two
+distinct ways in computational and linguistic formalisms.
+       5. An excellent overview of this aspect of Chomsky can be found in Rey,
+“Analyticity and Chomskyan Linguistics.” More generally on Chomsky and his
+influence, one may read the comprehensive account in Boden, Mind as Machine.
+A more technical, standard account of the linguistics history is Newmeyer, Lin-
+guistic Theory in America.
+       6. On the “flatness” of the Markov chain and the depth of Chomsky’s notion
+of “creativity,” see Boden, Mind as Machine, 641.
+       7. Chomsky, Syntactic Structures, 15.
+       8. Chomsky, 15.
+       9. Chomsky, 16.
+     10. Pinker writes in Language Instinct, “When we are comprehending sentences,
+the stream of words is transparent; we see through to the meaning so automatically
+that we can forget that a movie is in a foreign language and subtitled” (21).
+     11. Chomsky, Syntactic Structures, 23.
+     12. Chomsky, 21.
+     13. See Buckner, From Deep Learning to Rational Machines, who argues that
+deep learning is vindicating a “moderate empiricism.”
+     14. Chomsky and McGilvray, Cartesian Linguistics, 71.
+     15. Chomsky and McGilvray.
+     16. The problem of this regress is one launching point for German idealism
+after Kant, though, as the thought experiment about what it means to think
+about thinking was a major inspiration for Fichte’s Wissenschaftslehre (Science of
+Knowing).
+     17. Hauser et al., “Faculty of Language,” 1569.
+     18. Chomsky, “Derivation by Phase,” 3.
+     19. Chomsky, “Minimalist Inquiries,” 100.
+     20. Adger, Language Unlimited, 211–14.
+     21. Adger, 216.
+     22. Chomsky, Knowledge of Language, 7.
+     23. Chomsky, “Genuine Explanation and the Strong Minimalist Thesis.”
+     24. Chomsky, Syntactic Structures, 17.
+     25. Maniglier, “Processing Cultures,” 155; cf. Tomasello and Ibbotson, “Evi-
+dence Rebuts Chomsky’s Theory.”
+     26. The psychologist Brenden Lake is experimenting with head cameras on
+babies in the language acquisition phase to see if LLMs can learn from visual
+and other contextual data in something like the way humans do. See Leffer,
+“A Camera-Wearing Baby.”
+
+                               Notes to chapter 1                               219
+
+    27. See Pinker, “Language Acquisition,” 170.
+    28. Pinker, 170.
+    29. See Tomasello and Ibbotson, “Evidence Rebuts Chomsky’s Theory.”
+    30. Kant, Critique of Pure Reason, B75/A51.
+    31. Kant, A137/B176.
+    32. Chomsky, Knowledge of Language, 20.
+    33. Chomsky, 22.
+    34. Chomsky, 26.
+    35. Chomsky, 26.
+    36. Chomsky, 26.
+    37. Pinker, Language Instinct, 317.
+    38. Manning, “Human Language Understanding and Reasoning,” 131.
+    39. Firth, Studies in Linguistic Analysis, 11.
+    40. Neurath et al., International Encyclopedia of Unified Science.
+    41. Harris, “Distributional Structure,” 146.
+    42. Harris, Structural Linguistics, 5.
+    43. Harris, A Theory of Language and Information.
+    44. Lenci and Sahlgren, Distributional Semantics, 6.
+    45. Harris, A Theory of Language and Information, 274.
+    46. Harris, “Distributional Structure,” 146–47.
+    47. Wiggins and Jones, How Data Happened; see their chapter 6, “Data
+at War.”
+    48. For an account of how this trend influenced speech recognition, where
+linguistics and data processing heavily overlapped, see Li, “There’s No Data Like
+More Data,” 165–82.
+    49. Rieder, Engines of Order, 215, speaking specifically of Bayes as a backbone
+of information retrieval.
+    50. Léon, Automating Linguistics, 2–3.
+    51. Osgood, “Semantic Differential Technique,” 173. We may note that Daniel
+Kahneman’s and Amos Tversky’s separate early work on psychological semantics
+and measurement theory engages Osgood, suggesting a common root between
+behavioral psychology’s models and those that would eventually become vector
+semantics.
+    52. Osgood, 173.
+    53. Shoemaker, “Distributional Semantics.”
+    54. Shoemaker.
+    55. Rieder, Engines of Order, 238.
+    56. Rieder, 215–16.
+    57. Norvig, “On Chomsky and the Two Cultures of Statistical Learning.”
+    58. Breiman, “Statistical Modeling.”
+    59. Norvig, “On Chomsky and the Two Cultures of Statistical Learning.”
+    60. Manning, “Probabilistic Syntax,” 291.
+    61. Manning, “Human Language Understanding and Reasoning,” 130.
+    62. Manning, 130.
+    63. Manning, 134.
+    64. Manning, 134.
+    65. Manning, 134.
+
+220                            Notes to chapter 1
+
+     66. This view has several hallmarks of a dialectical theory (constitutive inter-
+nal divisions, local sequences conditioned by totality, etc.), but its proponents
+have, in both generations of its existence, distanced themselves from this term
+and the Marxism and Hegelianism associated with it. In the first generation,
+the structuralists, Claude Lévi-Strauss leading the charge, distanced themselves
+from the Marxism of Jean-Paul Sartre and others in the French public sphere.
+In the second generation, usually known as poststructuralist, distance from
+Marx’s revolutionary thought was complemented by an insistence that Hegelian
+dialectics was naive about semiotics or semiology. This insistence began to break
+in the 1990s with publications by Judith Butler, Slavoj Žižek, and Catherine
+Malabou that attempted to adopt aspects of Hegel, but to my knowledge, no
+work systematically compares structuralism and dialectics. One may also note
+that the structuralists themselves often referred to their theory as dialectical, as
+in Lévi-Strauss’s treatment following Jakobson in the chapter “Structure and Dia
+lectics” in Structural Anthropology, 232–45.
+     67. Saussure et al., Course in General Linguistics, 120.
+     68. Saussure et al., 120.
+     69. Saussure et al., 114.
+     70. Saussure et al., 122.
+     71. By choosing to put it this way, I mean to signal that I am not making a
+rigid distinction between “structuralism” and “poststructuralism,” which I regard
+as a single, more or less continuous tradition. The various “breaks” from struc-
+ture to something suprastructural are family squabbles. The main difference that
+matters to me here is that poststructuralism has on the whole tended to be less
+concretely interested in language in the sense of strings of words on a page, other
+theories of linguistics structure, and even—unfortunately—the automatization
+of language alongside which the statistics view developed. For these two reasons,
+I say I am returning to “structuralism” here, although there are some reasons,
+to be discussed later in this chapter, why I think that Saussure in particular is
+best suited to parse LLMs. Derrida’s reading of Saussure, in particular, seems to
+obscure this usefulness in the present.
+     72. For the classical argument against the psychological arbitrariness of the
+sign, which does not seem to me to solve any problem that Saussure had not
+already framed correctly, see the chapter “The Nature of the Linguistic Sign”
+in Benveniste and Meek, Problems in General Linguistics.
+     73. See the excellent sketch of this debate in Moi, Revolution of the Ordinary,
+113ff.
+     74. Saussure et al., Course in General Linguistics, 65.
+     75. Moi reports that it is “hard to avoid precisely this ‘mistake’ ” of telling
+students that the ink on the page is the signifier, because the use of “mate-
+rial” but also “psychological” seems to conflict. Moi, Revolution of the Ordinary,
+116–17. I think this difficulty comes from a simple material–abstract or material–
+conceptual binary of which Saussure once literally symbolized the end in serious
+analysis of culture.
+     76. Maniglier writes that “the signifier is indeed as mental as the signified,”
+so that we might say that the signifier is that socially determined mental content
+that is material. Maniglier, “Processing Cultures,” 68.
+     77. Pourciau, Writing of Spirit, 71.
+
+                                 Notes to chapter 1                                   221
+
+     78. Here I follow Jameson, who writes that “Saussure’s opposition is dialec-
+tical in that it involves a tension between a part and a whole either of which is
+inconceivable without the other: being relational rather than substantialist, it
+thus strikes directly at the kind of isolation of a single apparently free-standing
+element (such as a ‘statement’) foreseen by empirical thinking.” Jameson, Prison-
+House of Language, 24. See also Voloshinov, Marxism; and Barthes, Elements of
+Semiology, 15; Barthes quite precisely states that all the dichotomies in struc
+ turalism are dialectically constructed.
+     79. Saussure et al., Course in General Linguistics, 115.
+     80. It seems possible that someone could use Lacan’s version of semiology,
+ which includes a great deal of (confabulated) mathematics and a genuine engage-
+ ment with cybernetics, to do a version of what I am doing here. Notable efforts
+ to formalize or otherwise deploy Lacan for mathematical philosophy or media
+ theory are those of Alain Badiou and Friedrich Kittler—but neither of these has
+ elaborated a way in which language and computation interoperate. Lacan met
+ Chomsky and makes some remarks about his system creating a “hole in the real”
+ in seminar XXIII, Le Sinthome. But even Slavoj Žižek, who has made perhaps the
+ most of Lacan’s formalisms, has not brought them to bear on the concrete analy-
+ sis of language across the spectrum to which the structuralists aspired.
+     81. I mean generally “speculative realism” and “object-oriented ontology.”
+     82. One may think here of the strange case of N. Katherine Hayles’s book
+ How We Became Posthuman, published within a year of Jean-Pierre Dupuy’s book
+ The Mechanization of the Mind. Although both books took up cognitive topics, and
+ Dupuy has continued to publish on what he sees as the philosophical limitations
+ of cognitive science as a movement, the books touched off a (wonderful) flood of
+ humanistic engagements with cybernetics that is still ongoing. But for some rea-
+ son, the cognitivist thought that Dupuy highlighted, and that has played a major
+ role in AI, has received not just little explicit attention but little critical awareness
+ from the humanities.
+     83. Derrida, Of Grammatology, 9.
+     84. In a vehement critique of Derrida in the New York Review of Books, the phi-
+ losopher John Searle pointed out that there is a long tradition in philosophy that,
+ if anything, was more focused on gramme than on phone, perhaps extending from
+ Leibniz to Frege and Russell and beyond. As Searle notes, the result of Derrida’s
+ popularity seems to have been an almost total lack of engagement with a “golden
+ age” of theories of language. Whatever one makes of Searle’s unrestrained anger
+ at Derrida’s understanding of metaphysics, these points seem instructive to me,
+ forty years on. Searle, review of The Word Turned Upside Down.
+     85. Derrida, Margins of Philosophy, 11.
+     86. Bunz, “Nachdenken über generatives Schreibens.” See the English at
+ “Thinking through Generated Writing,” MediArXiv, https://doi.org/10.33767/osf
+ .io/4th3x.
+     87. Derrida, Margins of Philosophy, 12.
+     88. Derrida, “Plato’s Pharmacy,” 103.
+     89. Many exceptions to this statement are cited throughout this book,
+ and there are some that I do not engage here, but none has to date made much
+ attempt to wrest back the object “language,” in either public or academic percep-
+ tion, from the other disciplines—it is too often seen as a fait accompli that some
+
+222                            Notes to chapter 1
+
+more fundamental aspects of language are treated by other disciplines, while its
+cultural aspects are then consigned to literature departments. LLMs have the
+potential to reverse the direction of this interdisciplinary arrangement.
+    90. One may prefer a cultural-historical account of the loss of language, which
+would have to reckon with John Guillory’s claim that English, in particular, has
+seen its symbolic capital fade as the specific needs of cultural knowledge have
+shifted in the elite in the United States over the last generation. But precisely
+when cultural needs shift as the mode of production gradually changes, and class
+constitution along with it, the need for critique and cultural knowledge that is
+up to date on technical and scientific forms of knowledge, and contributes to
+them—if against the grain—is one key to survival. See Guillory, Cultural Capital,
+and Guillory, Professing Criticism.
+    91. Simon, “Cognitive Science,” 33.
+    92. Simon, 36.
+    93. Simon, 43.
+    94. The so-called replication crisis has mushroomed to the point where it
+is unclear whether one should trust virtually any quantitatively based result in
+social science, especially in psychology. See Leys, Anatomy of a Train Wreck, and
+Gigerenzer, “Statistical Rituals.”
+    95. Firth, “Applications of General Linguistics,” 2–3.
+    96. Hjelmslev, Prolegomena to a Theory of Language, 39–40.
+    97. Hjelmslev, 40.
+    98. Barthes, Elements of Semiology, 40.
+    99. Maniglier, “Processing Cultures,” 168.
+   100. Dupuy, Mechanization of the Mind, 52; see also 93, where the “transcen
+dental subject” was replaced by the “physical symbol system” of Simon and
+Newell.
+   101. Katz, “Noam Chomsky on Where Artificial Intelligence Went Wrong.”
+
+
+2. The Eliza Effect Goes Global
+      1. Simondon describes this serration as follows: an element (like the core of
+the steam engine) is discovered, leading to a smooth progressive line of evolution
+until a new element (like the vacuum tube) is synthesized. In a somewhat less
+inspiring logic, AI usually proceeds by some local innovation in a representation
+system, followed by hype, funding, and panic, and ending in the “smooth” prog-
+ress of a series of (semi-)functional software systems that fade into the digital
+background. Simondon, On the Mode of Existence.
+      2. The foregoing is summarized from Weizenbaum, “ELIZA”; and
+ eizenbaum, Computer Power and Human Reason.
+ W
+      3. Riskin, “A Sort of Buzzing”; Biever, “ChatGPT Broke the Turing Test”;
+ Weatherby, “ChatGPT Broke the Turing Test.”
+      4. Dupuy, Mechanization of the Mind.
+      5. Roose, “A Conversation with Bing’s Chatbot.”
+      6. See Hayles’s account of emergent personality in these systems. Hayles,
+ “Inside the Mind of an AI.”
+      7. Haugeland, Artificial Intelligence.
+      8. Nilsson, Quest for Artificial Intelligence.
+
+                               Notes to chapter 3                                223
+
+     9. Turing, “Computing Machinery and Intelligence.”
+    10. Murgia, “Sci-Fi Writer Ted Chiang.”
+    11. Rumelhart, Foundations.
+    12. Eichhorn, Content.
+    13. Rosenblatt, Principles of Neurodynamics, 76–77.
+    14. Müggenburg, “Clean by Nature,” 15–16.
+    15. Minsky and Papert, Perceptrons, 2.
+    16. A wonderful history is offered by Mitchell, whose account of Marvin
+Minsky’s famous, but ultimately failed, critique of neural nets is among the
+best I have seen. Mitchell, Artificial Intelligence. Minsky and his coauthor Papert
+proved that perceptrons had a very clear ceiling in terms of problem solving, but
+their “intuitive” extension of their proof to multilayered (“deep”) neural nets has
+proven a case of severe overreach. Minsky and Papert, Perceptrons.
+    17. Harnad, “Symbol Grounding Problem,” 337.
+    18. Kirkwood, Endless Intervals.
+    19. Haugeland, Artificial Intelligence.
+    20. Galloway, “Golden Age of Analog.”
+    21. Dobson, “Vector Hermeneutics.”
+    22. Buckner, “Connectionism.”
+    23. Weatherby and Justie, “Indexical AI.”
+    24. This is why I cannot entirely go along with the proposals that AI is “dumb”
+or “unintelligent,” as Broussard and, separately, Bajohr have proposed. Whatever
+we mean by “dumb” must also be entangled with whatever it turns out we mean
+by “intelligent,” which is pending. Broussard, Artificial Unintelligence; Bajohr,
+“Dumb Meaning.”
+    25. Turing, “On Computable Numbers.”
+    26. Turing, “Computing Machinery and Intelligence.”
+    27. Turing, “Lecture on the Automatic Computing Engine.”
+    28. Chun, “On Software.”
+    29. Hodges and Hofstadter, Alan Turing, 484.
+    30. Dennett, “Will AI Achieve Consciousness?”
+    31. Baudrillard, Simulacra and Simulation.
+    32. McCulloch and Pitts, “A Logical Calculus.”
+    33. Cassirer and Woglom, Problem of Knowledge.
+    34. Weatherby, “Digital Metaphysics.”
+    35. Abraham, Rebel Genius.
+    36. McCulloch, “A Heterarchy of Values.”
+
+3. The Semiological Surround, or How Language
+   Is the Medium of Computation
+      1. Saussure et al., Course in General Linguistics, 16.
+      2. Saussure et al., 68.
+      3. Maniglier argues that this is because all other sign-systems “share with
+linguistic objects the same ontology.” Maniglier, “Processing Cultures,” 164–65. It
+is rather unclear if this is true of computation as such, however.
+      4. Barthes, Elements of Semiology, 10.
+      5. Barthes, 10.
+
+224                            Notes to chapter 3
+
+      6. Kornbluh, Immediacy.
+      7. Fazi, “Computational Search for Unity,” 52–54.
+      8. Domingos, Master Algorithm; Anderson, “End of Theory.” On the his-
+tory of LLMs and universal language, see Binder, Language and the Rise of the
+Algorithm.
+      9. See my account in Weatherby, “Intermittent Legitimacy.”
+    10. Joque, Revolutionary Mathematics.
+    11. Newell and Simon, “Computer Science as Empirical Inquiry.”
+    12. Buckner, “Empiricism without Magic.”
+    13. Malabou, Morphing Intelligence, 110.
+    14. Malabou, Morphing Intelligence, 11.
+    15. Simondon, On the Mode of Existence: “In the living being content becomes
+coding, whereas in the machine coding and content remain separate as condition
+and conditioned. Content introduced into human memory will superimpose itself
+on prior content and take form on it: the living is that in which the a posteriori be-
+comes a priori; memory is the function by which a posteriori matters become a pri-
+ori” (138). Creating rules out of stuff is indeed one of the dreams of AI, and though
+few claim that any one technical system does this type of work now, the sense
+that this work is distributed between humans and digital systems is widespread.
+    16. Horkheimer and Adorno, Dialectic of Enlightenment.
+    17. The philosopher Yuk Hui adapted the term from Bernard Stiegler’s
+reading of Husserl’s lectures on the phenomenology of time-consciousness. It
+suggests that the “retention” of memory and the “protention” of anticipated time
+are both externalized in our writing technologies, such that they actively form
+temporality and experience as such. Stiegler, Technics and Time; Hui, “Archives of
+the Future.”
+    18. Kelleher, Deep Learning; LeCun et al., “Deep Learning.”
+    19. The following account, including examples, is based on Peirce et al.,
+Elements of Logic, 619–44.
+    20. Parisi, “Reprogramming Decisionism”; Parisi, Contagious Architecture.
+    21. Peirce et al., Elements of Logic, 625.
+    22. Frege and Beaney, Frege Reader.
+    23. See Tiqqun, Cybernetic Hypothesis.
+    24. Halpern, Beautiful Data.
+    25. Halpern et al., “Surplus Data.”
+    26. Halpern and Mitchell, Smartness Mandate.
+    27. Amaro, Black Technical Object.
+    28. Wynter, “Ceremony Found,” 84–245.
+    29. Kittler, “There Is No Software,” in Truth of the Technological World, 223.
+    30. von Neumann, “First Draft of a Report on the EDVAC.”
+    31. Brian Rotman has argued that mathematics is semiotic all the way down.
+ See Rotman, Mathematics as Sign.
+    32. Kissinger and coauthors give a convincing list. Kissinger et al., Age of AI.
+    33. Vaswani et al., “Attention Is All You Need,” preceded by Badhanau et al.,
+ “Neural Machine Translation.”
+    34. These had already been described in the 1980s; variations of the idea are
+ used throughout Rumelhart, Foundations.
+    35. Hochreiter and Schmidhuber, “Long Short-Term Memory.”
+
+                              Notes to chapter 4                                225
+
+    36. See Wolfram, “What Is ChatGPT Doing?”
+    37. Wolfram. Web crawl and other scraping techniques are now being called
+into question on both regulative and competitive grounds, but LLMs already con-
+tain much of Reddit, all of Wikipedia (which may contribute to their “emergent”
+ability to identify facts), and much more besides. This partial view of language is
+nevertheless so large that its “partiality” is not concrete, at least not yet.
+    38. Weatherby and Justie, “Indexical AI.”
+    39. Wei et al., “Chain-of-Thought Prompting.”
+    40. A similar picture of meaning is given by Willard V. O. Quine, which he
+summarizes by saying that it is “misleading to speak of the empirical content of
+an individual statement.” Quine, “Two Dogmas of Empiricism,” 40.
+    41. Ramesh et al., “Hierarchical Text-Conditional Image Generation.”
+
+
+4. Large Literary Machines
+     1. This chapter owes a great deal to a semester-long study of form in mathe
+matics and literary analysis that the Digital Theory Lab at New York University
+conducted in the spring semester of 2024. It would be significantly impoverished
+if that collaborative thinking had not gone on.
+     2. Haugeland, Artificial Intelligence, 106.
+     3. Brown et al., “Language Models.”
+     4. It also gives form to the very experimentation that led to modern language
+processing techniques. See Pressman, Digital Modernism.
+     5. Parrish, “Language Models.” There is a growing literature that examines
+LLMs’ ability to write poems, how humans grade or react to their poetry, and
+so on. While the nonliterary studies of this sort seem symptomatic to me of the
+unconscious tendency to view poetry as the essence of language, the studies by
+literary scholars and digital humanists largely fail to ask how poetry and language
+are related at all, so I reserve focus for Parrish’s exemplary work here.
+     6. Parrish.
+     7. Parrish.
+     8. Parrish.
+     9. Nick Monfort has recreated the experiment in Python in a way that allows
+one to play with the vast extent of the poem; see https://nickm.com/memslam
+/stochastic_texts.html.
+    10. Parrish, “Language Models.”
+    11. Austin, How to Do Things with Words, 22.
+    12. See Derrida, Limited Inc.
+    13. Brown et al., “Language Models,” 49.
+    14. Brown et al., 49.
+    15. Kirschenbaum, “Spec Acts,” 378.
+    16. Kirschenbaum, 378.
+    17. Kirschenbaum, 378–79.
+    18. Kramnick and Nersessian, “Form and Explanation,” 651.
+    19. Kornbluh, Order of Forms.
+    20. Peirce et al., Elements of Logic, 229.
+    21. Hayles, “Inside the Mind of an AI.”
+    22. Shannon and Weaver, Mathematical Theory of Communication, 21.
+
+226                           Notes to chapter 4
+
+    23. Shannon and Weaver, 11.
+    24. This is a verbal formulation of what is now technically known as
+Kolmogorov complexity. See Shannon and Weaver, 56.
+    25. Shannon and Weaver, 31.
+    26. For the connection between cybernetics, Shannon, and Jakobson that this
+ phrase suggests, see Geoghegan, “From Information Theory to French Theory.” I
+ make a less orthodox connection between Jakobson’s poetic function and Kurt
+ Goedel’s idea of “incompleteness” in chapter 5.
+    27. Something like “iteration” in Derrida’s sense resides here. See Derrida,
+ Limited Inc.; cf. Liu, “Cybernetic Unconscious,” 39–99.
+    28. Liu, “Cybernetic Unconscious.”
+    29. Liu, “Wittgenstein in the Machine,” 439.
+    30. Liu, 439.
+    31. Liu, 444.
+    32. Liu, 455.
+    33. Gastaldi and Pellissier, “Calculus of Language.”
+    34. Gastaldi and Pellissier, 570.
+    35. Gastaldi and Pellissier, 570.
+    36. Gastaldi and Pellissier, 572.
+    37. Geroulanos, An Atheism That Is Not Humanist.
+    38. Culler, Literary in Theory, 24.
+
+
+5. Computational Meaning
+     1. Benjamin, Reflections.
+     2. Wolfram puts the number of possible 3-grams at forty thousand words at
+six trillion. Wolfram, “What Is ChatGPT Doing?”
+     3. Shannon traces the levels from character to word and even to some
+sentence-level coherence but does not theorize them as different levels. Shannon,
+“Prediction and Entropy.”
+     4. Since I wrote these words, I have been humbled to see bumper stickers of
+the most absurd sort with numbers, like 70.3 and 30.5, indicating a willingness
+to transcribe and brag about even the most minor differences of ultra running.
+But I stand by the analysis here, as I think that the norms it expresses are indeed
+norms, even if they are proven by vain exceptions.
+     5. See my argument in Weatherby, “Irony and Redundancy.”
+     6. Collingwood, Principles of Art.
+     7. Collingwood, 310–11.
+     8. See Saussure’s own exposition of the syntagm in Saussure et al., Course in
+General Linguistics, 122ff.
+     9. Gastaldi and Pellissier, “Calculus of Language,” 575.
+    10. Gastaldi and Pellissier, 575.
+    11. Mikolov et al., “Distributed Representations,” 2.
+    12. Mikolov et al., 8.
+    13. Mikolov et al., 2.
+    14. Mikolov et al., 1.
+    15. Mikolov et al., 1.
+    16. The dimension is not the single value but its relation to the other values
+
+                               Notes to chapter 5                                227
+
+in that dimension in the matrix, measured as cosine similarity, or how close
+two plotted angles are to each other on a graph. This “proximity” is influenced
+by multiple dimensions simultaneously—but the intuition that the dimensions
+represent different nodes of meaning is persistent.
+    17. Olah et al., “Building Blocks.”
+    18. Spillner et al., “Conceptual Shadows.”
+    19. Li, “Divination Engines.”
+    20. See Karpathy, “Unreasonable Effectiveness,” who borrows his title from
+“Martian” mathematician Eugene Wigner. Wigner, “Unreasonable Effective-
+ness,” 534–49. Wigner’s problem is a long-standing metaphysical one: how and
+why is any aspect of nature available to elegant mathematical formulation? The
+computation-to-language pipeline is both less mysterious and, on its face, mathe-
+matically messier.
+    21. Gastaldi and Pellissier, “Calculus of Language,” 576.
+    22. Gastaldi and Pellissier, 576.
+    23. Gastaldi and Pellissier, 576–77.
+    24. Weatherby and Justie, “Indexical AI,” 413–14.
+    25. Vaswani et al., “Attention Is All You Need,” 5.
+    26. This “openness” is what achieves the vastly larger scale of processing, by
+reducing required computation—even though LLMs are now hugely costly in
+terms of energy. It’s possible that the readdition of some of the earlier techniques
+will play a role going forward, and we have already seen Google release a system,
+called “Griffin,” that uses RNNs with local attention. De et al., “Griffin.”
+    27. The anthropologist Nick Seaver has shown that the metaphor was a mat-
+ter of contention among the paper’s authors. Seaver, “Attention Is All You Need.”
+    28. Buckner, From Deep Learning to Rational Machines, 272.
+    29. Saussure et al., Course in General Linguistics, 122.
+    30. Saussure et al., 115.
+    31. Saussure et al., 120.
+    32. It specifically recalls what Marx calls the “expanded general form of value”
+in chapter 1 of Capital, in which all commodities are valued by all other commodi
+ties without a general equivalent. (Marx’s passage is itself derived from Hegel’s
+concept of the “total relation” that sits on the border of the logic of essence,
+tipping it over into the logic of the concept—or in other words, the moment when
+a differential, dualistic system is endowed with meaning.) I hope to pursue this
+important connection between neural nets and dialectics in the future. For now,
+we can note that Saussure is specifying, in the dialectical tradition, that language,
+seen from the standpoint of semiology, has no “general equivalent”—which
+seems to agree with Harris’s claim that linguistics must happen strictly inside
+language, because metalanguage is a subset of language itself. One can imagine
+from this standpoint a way in which the American and European structuralist
+traditions might have collaborated.
+    33. In the current environment, most of these features seem to come not
+from the model itself but from downstream mechanisms for selection, especially
+RLHF.
+    34. Jakobson, Linguistics and Poetics, 27.
+    35. Jakobson, 27.
+    36. Jakobson, 27.
+
+228                             Notes to chapter 5
+
+    37. Jakobson, 27.
+    38. Jakobson, 38 and 43.
+    39. Pourciau, Writing of Spirit: “poetry, in other words, is the mode of lan-
+guage that makes diachronic utterances out of synchronic analogies” (232).
+    40. Jakobson, “Linguistics and Poetics,” 26.
+    41. Jakobson, 27.
+    42. Jakobson, 25.
+    43. Pourciau, Writing of Spirit, 235–36.
+    44. See Jakobson, Poetry of Grammar.
+    45. Jakobson, “Quest,” 29.
+    46. Gödel, “Über formal unentscheidbare Sätze”; see also Goldstein, Incom-
+pleteness, who gives a wonderfully holistic view of the proof.
+    47. Chomsky, Syntactic Structures, 15.
+    48. See Pourciau, Writing of Spirit.
+    49. Jakobson, Linguistics and Poetics, 18.
+
+
+6. Poetic Ideology
+     1. See Bajohr, “Whoever Controls Language.”
+     2. Horkheimer and Adorno, Dialectic of Enlightenment, 109.
+     3. See Goldberg, “Justine Bateman.”
+     4. The song’s tune was generated, but the lyrics, which are weirdly machinic,
+as James Vincent noted for The Verge, were written by a human. Vincent, “This
+AI-Written Pop Song.” The release of Udio, which can create a song on any topic
+in any genre in seconds, confirms my analysis of this earlier artifact: its songs are
+generic in a way that borders on the uncanny but that might pass below notice in
+a grocery store background, for example. Throughout this chapter, I use examples
+from the early period of 2023, partly because these were the objects that first
+grabbed my interpretive attention, but partly because I have not to date seen
+more compelling ones for the case I am making in this chapter. I also think that
+we are awash in examples we do not even know are such cases of generated ideol
+ogy, texts, and images. So, these examples are meant to draw attention to this
+larger problem.
+     5. Ted Chiang calls it a “blurry jpeg of the web,” which mixes metaphors in a
+way that muddles medium specificity but has some appeal nevertheless. Chiang,
+“ChatGPT Is a Blurry JPEG of the Web.”
+     6. See Perrotta, “Peabody EDI.”
+     7. Efforts at interpretability often surface some version of semantic pack-
+ages, like in the case of Anthropic’s “Golden Gate bridge” paper. Their team used
+sparse autoencoders to reveal “concepts” in their multimodal Claude models,
+with the hope of “steering” the models using the concepts as semantic hooks. To
+date, their only flaunted result is that they are able to get a model to say “I am the
+Golden Gate bridge” instead of pablum about its existence as an AI. See Temple-
+ton et al., “Scaling Monosemanticity.”
+     8. See Handelman, Mathematical Imagination.
+     9. I will note here that the reported generation cannot be reproduced, be-
+cause generative AI is meant to produce something different each time you use it.
+It therefore presents a difficulty for any “science” one wants to perform using it.
+
+                              Notes to chapter 6                               229
+
+    10. See Huyssen, “Breitbart, Bannon, Trump.”
+    11. See the account by Brian Cantwell Smith, which is by far the most
+elegant philosophical account of the new AI to date. Smith, Promise of Artificial
+Intelligence.
+    12. Gramsci, Prison Notebooks.
+    13. Greenberg, Art and Culture, 6.
+    14. Greenberg, 15.
+    15. Greenberg, 15.
+    16. Barthes and Heath, Image, Music, Text, 45–46.
+    17. Greenberg, Art and Culture, 27.
+    18. Steyerl, “Mean Images.”
+    19. Gibson, Burning Chrome.
+    20. Let me again point out that these examples are partly manually produced.
+My impression is that the artists making them are intentionally bringing this
+effect to the surface in amusing and terrifying ways.
+    21. Edwards, “Why AI Detectors Think.”
+    22. One such method drawing attention right now is “instruction tuning,”
+which uses examples of the type of reasoning that will succeed in the prompt to
+elicit better answers from these systems. See especially the idea of the “stochas-
+tic chain-of-thought” in Wei et al., “Chain-of-Thought Prompting.” These types
+of techniques will likely soon obscure the linguistic functions of ChatGPT and
+similar systems, as will their passage into unseen functionality packages within
+software like Microsoft Assistant, Microsoft Word, and Adobe’s suite.
+    23. Fisher, Capitalist Realism.
+    24. Foucault, Order of Things, 261.
+    25. Althusser, On the Reproduction of Capitalism, 256.
+    26. Jameson, “Postmodernism,” 53–92.
+    27. This account of Lacan relies heavily on the second year of Lacan’s seminar,
+The Ego in Freud’s Theory, although the full picture of the registers only emerges
+over the course of the more than twenty years of the seminar. The composite
+picture I present here is meant not to get at the nuances of Lacan’s picture but
+to provide the basis on which to understand Althusser’s definition of ideology.
+    28. Chun, “On Software,” 18.
+    29. Chun, 18.
+    30. Chun, 19.
+    31. This is Chun’s very pointed response to Kittler’s claim that “there is no
+software” (and thus, in a sense for him, no ideology).
+    32. Chun, Programmed Visions, 71.
+    33. Chun, “On Software,” 17–18.
+    34. Jameson, “Postmodernism,” 90.
+    35. Jameson, 92.
+    36. Horkheimer and Adorno, Dialectic of Enlightenment, xi.
+    37. Adorno, “Beitrag zur Ideologienlehre,” 474.
+    38. Adorno, 474.
+    39. Adorno, 474.
+    40. This point anticipates the critique of postmodernism and neoliberal ideol-
+ogy in Fredric Jameson, Slavoj Žižek, and Mark Fisher.
+    41. Adorno et al., Aesthetic Theory, 4.
+
+230                             Notes to chapter 6
+
+   42. Adorno et al., 5.
+   43. Horkheimer and Adorno, Dialectic of Enlightenment, 31.
+
+Conclusion
+      1. Kirschenbaum, “Prepare for the Textpocalypse.”
+      2. If we combine the GPT function with text-guided diffusion models like
+“Gen-2 by Runway,” which offer storyboard generation, we can see how this type
+of layout/draft labor is on the brink of real automatization. https://research
+.runwayml.com/gen2.
+      3. See Benanav, Automation.
+      4. Marx and Mandel, Capital, 492–643.
+      5. Srnicek, Platform Capitalism.
+      6. Sohn-Rethel, Intellectual and Manual Labour.
+      7. Babbage, On the Economy of Machinery and Manufactures, 153–54. See the
+comprehensive accounts in Daston, “Enlightenment Calculations,” and Schaffer,
+“Babbage’s Intelligence.” It is worth noting that Babbage’s mental division of labor
+and his work on computing machines take place in the heart of the first modern
+rise of data, what Ian Hacking has dubbed the “avalanche of printed numbers.”
+Hacking, “Biopower and the Avalanche of Printed Numbers.” I do not think we
+need to go so far as to say that “all labor is logic” to do justice to this problem, as
+Pasquinelli does in Eye of the Master. The transformation of intelligent activities
+into forms of labor seems like a straightforward and continuous process of base-
+to-superstructure “last-account determination” to me, and so part of what Marx
+called the “real subsumption of labor.” In passing, we might note that Stiegler’s
+“proletarianization” also fits the profile of this process.
+      8. Babbage, 154.
+      9. Babbage, 156.
+    10. Babbage, 156.
+    11. See the classic account in Chandler, Visible Hand, 16.
+    12. Babbage, On the Economy of Machinery and Manufactures, 156.
+    13. Babbage, 156.
+    14. Kittler argues on Lacanian grounds that this process “desexuated” writing
+compared to its Romantic and even modernist literary frames—a claim I have yet
+to see fully processed in the literature on these overlapping fields. Kittler, Gramo-
+phone Film Typewriter.
+    15. Lovelace, “Notes on the Sketch,” 696.
+    16. Marx and Mandel, Capital, 643–55.
+    17. Kittler, Gramophone Film Typewriter.
+    18. Jeffrey Kirkwood has shown that this process is proto-digital. Kirkwood,
+Endless Intervals.
+    19. Kittler took this point, of course, from Jacques Derrida, whose Of Gram-
+matology was crucial to the launch of poststructuralism.
+    20. His earlier book, Discourse Networks, was a magisterial treatise on this
+earlier composite notion of “writing” in the Romantic era.
+    21. Kittler, Gramophone Film Typewriter, 15.
+    22. Kittler uses this phrase often; see, e.g., Kittler, “Rock Music: A Misuse of
+Military Equipment,” in Truth of the Technological World, 152–64.
+
+                           Notes to Conclusion                       231
+
+23. Guillory, Professing Criticism, 144.
+24. Igarashi, “Machine Writing.”
+25. Here I agree with Sack, Software Arts.
+26. Guillory, Professing Criticism, 148.
+27. Ong, Rhetoric, Romance, and Technology.
+28. See the classic study by Carruthers, Book of Memory.
+29. See the delightful account in McCulloch, Because Internet.
+30. Curtius et al., European Literature, 23, translation modified.
+31. Barthes, Semiotic Challenge, 22.
+32. Barthes, 19–20.
+33. Steyerl, “Common Sensing?,” 75.
+
+This page intentionally left blank

@@ -1,0 +1,123 @@
+book:
+  title: "Language Machines: Cultural AI and the End of Remainder Humanism"
+  author: "Leif Weatherby"
+  source_pdf: "sources/modern/incoming/books/Language Machines_ Cultural AI and the End of Remainder -- Leif Weatherby -- Posthumanities, 2025.pdf"
+  extracted_full_text: "source/full/language-machines.txt"
+sections:
+  - seq: 0
+    slug: "front-matter-and-contents"
+    title: "Front matter and contents"
+    kind: "front-matter"
+    file: "raw/000-front-matter-and-contents.txt"
+    start_line: 1
+    end_line: 123
+    line_count: 123
+    printed_page_start: null
+  - seq: 1
+    slug: "acknowledgments"
+    title: "Acknowledgments"
+    kind: "acknowledgments"
+    file: "raw/001-acknowledgments.txt"
+    start_line: 124
+    end_line: 160
+    line_count: 37
+    printed_page_start: "vii"
+  - seq: 10
+    slug: "introduction-ai-between-cognition-and-culture"
+    title: "Introduction: AI between Cognition and Culture"
+    kind: "introduction"
+    file: "raw/010-introduction-ai-between-cognition-and-culture.txt"
+    start_line: 161
+    end_line: 1730
+    line_count: 1570
+    printed_page_start: "1"
+  - seq: 11
+    slug: "how-the-humanities-lost-language"
+    title: "1. How the Humanities Lost Language: Syntax, Statistics, and Structure"
+    kind: "chapter"
+    file: "raw/011-how-the-humanities-lost-language.txt"
+    start_line: 1731
+    end_line: 3235
+    line_count: 1505
+    printed_page_start: "41"
+  - seq: 12
+    slug: "the-eliza-effect-goes-global"
+    title: "2. The Eliza Effect Goes Global: Intelligence as Simulacrum"
+    kind: "chapter"
+    file: "raw/012-the-eliza-effect-goes-global.txt"
+    start_line: 3236
+    end_line: 4053
+    line_count: 818
+    printed_page_start: "79"
+  - seq: 13
+    slug: "the-semiological-surround"
+    title: "3. The Semiological Surround, or How Language Is the Medium of Computation"
+    kind: "chapter"
+    file: "raw/013-the-semiological-surround.txt"
+    start_line: 4054
+    end_line: 4900
+    line_count: 847
+    printed_page_start: "101"
+  - seq: 14
+    slug: "large-literary-machines"
+    title: "4. Large Literary Machines"
+    kind: "chapter"
+    file: "raw/014-large-literary-machines.txt"
+    start_line: 4901
+    end_line: 5555
+    line_count: 655
+    printed_page_start: "123"
+  - seq: 15
+    slug: "computational-meaning"
+    title: "5. Computational Meaning: For a General Poetics"
+    kind: "chapter"
+    file: "raw/015-computational-meaning.txt"
+    start_line: 5556
+    end_line: 6843
+    line_count: 1288
+    printed_page_start: "139"
+  - seq: 16
+    slug: "poetic-ideology"
+    title: "6. Poetic Ideology: The Packaged Semantics of Generative Culture"
+    kind: "chapter"
+    file: "raw/016-poetic-ideology.txt"
+    start_line: 6844
+    end_line: 7699
+    line_count: 856
+    printed_page_start: "173"
+  - seq: 17
+    slug: "conclusion-language-as-a-service"
+    title: "Conclusion: Language as a Service, or the Return of Rhetoric"
+    kind: "conclusion"
+    file: "raw/017-conclusion-language-as-a-service.txt"
+    start_line: 7700
+    end_line: 8405
+    line_count: 706
+    printed_page_start: "195"
+  - seq: 30
+    slug: "notes"
+    title: "Notes"
+    kind: "back-matter"
+    file: "raw/030-notes.txt"
+    start_line: 8406
+    end_line: 9327
+    line_count: 922
+    printed_page_start: "213"
+  - seq: 31
+    slug: "bibliography"
+    title: "Bibliography"
+    kind: "back-matter"
+    file: "raw/031-bibliography.txt"
+    start_line: 9328
+    end_line: 10067
+    line_count: 740
+    printed_page_start: "233"
+  - seq: 32
+    slug: "index"
+    title: "Index"
+    kind: "back-matter"
+    file: "raw/032-index.txt"
+    start_line: 10068
+    end_line: 11207
+    line_count: 1140
+    printed_page_start: "249"

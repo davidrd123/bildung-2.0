@@ -1,0 +1,1287 @@
+      5
+
+
+Computational Meaning
+For a General Poetics
+
+When Walter Benjamin spoke of “language as such,” he certainly did
+not have anything quantitative in mind.1 But LLMs present a break-
+through of quantity into the formal aspects of language: algorithmic
+reproducibility in the linguistic field. This chapter argues that the at-
+tention mechanism has created the first general interface between these
+two formal systems, that computation and language share form—not as
+a matter of assumption but as a technical achievement that requires a
+theoretical explanation. “Attention” produces linguistic values the way
+that Saussure predicted for human language. For this reason, I think it
+is more important to accept this situation and try to understand why
+this might be so, rather than dividing between human and machine lan-
+guage or “synthetic” and some putatively nonsynthetic text.
+    The transformer architecture is surely just the signal that these two
+systems can get along. Others will likely come. But even at this early
+date, we can see that language is poetic above all, even when it is com-
+putational rather than conceptual. LLMs set linguistic value as Saussure
+conceived of it, and the attention mechanism realizes a computational
+of what Roman Jakobson developed to account for that value setting:
+the “poetic function” of language. AI generates linguistic meaning not
+by sound or writing but by computation. Poetics in general—rather than
+poetry, or any other genre or function of language—counterintuitively
+emerges from the theoretical war that cultural AI has touched off.
+    For Jakobson, poetics was not restricted to actual literature or poetry
+but was instead the emergence of structure in the first-order sequence
+of language in use. Jakobson famously claimed that the poetic function
+was a “message about the message,” not about the code (grammar), the
+world, or anything else. The internal structure of meaning generation
+makes the system of language resemble Kurt Goedel’s description of
+a formal system. Both representation systems have larger first-order
+functions from which second-order functions derive—metalanguage
+
+
+
+                                   139
+
+140                      Computational Meaning
+
+
+and metamathematics can always be recast as poetics and numerical re-
+lations, respectively. But where Goedel found a system that must always
+reach outside its own structure to ground some new rule, Jakobson found
+a greedy formal system that internalizes whatever it appears to borrow
+from elsewhere. Jakobson wanted linguistics to claim poetics; I reverse
+this argument, calling for a general poetics to study culture machines and
+all other meaning as a general doctrine of representation that includes
+and interacts with linguistics, mathematics, and engineering.
+    I said in the last chapter that in Shannon’s understanding of redun-
+dancy, the message always appears internally doubled. Lest this seem
+mystical, or a trick, I want to unpack this notion as we approach the
+question of how redundancy is captured by neural nets. If redundancy is
+pattern, then, as we saw, there are sets of likelihoods for the next letter,
+not a random juxtaposition of any letter next to any other. This holds
+for words too, but it gets very complex very quickly. When I send a text
+message, typing out “see you,” my phone suggests “there” and “then” as
+possibilities. These two words are overwhelmingly more likely than any
+others, with “at” coming next. But we have suddenly opened up the cal-
+culation of redundancy to a much larger field. These “2-grams” (pairs of
+words) present us with something like 50,000 × 50,000 raw possibilities
+for combination, with the redundancies like “see you then” limiting this
+overall field. But of course, language isn’t made of pairs of words; there
+are also 3-grams, which launch us orders of magnitude higher in compu-
+tational extension.2 So redundancy has levels, but the levels are not well
+defined.3 Character redundancy is easily distinguished from word-level
+redundancy, but this tells us little about how the two interact. When
+we add LLMs to the picture, the redundancy is expanded to the level
+of paragraph, and even genre, exponentiating not just the computation
+but the riddle. What is redundancy?
+    Redundancy goes by many names—pattern and signal are popular
+overlays—but nonidentity is its basic feature. This nonidentity is not
+its most commonly thought feature. That feature is probably repetition:
+if I put my turn signal on when in a turn-only lane, the redundancy
+achieved is meant to ensure that other drivers will not misconstrue my
+intention. But the predictive aspect of redundancy—what will happen
+next, both in my driving and in the response of other drivers—means
+that identity is never given as such. Even when redundancy is thought
+
+                         Computational Meaning                          141
+
+of as density, force, or vector (which is what allows it to be predictive),
+its identity is always broken across instances. Another way to say this
+is that redundancy can never equal 1, a state of things for a divinity but
+not for us. Anything less than 1 gives more than one possibility, but not
+any possibility. We generate meaning by carving pathways through
+these possibilities, but underlying the possibilities is the strict exclu-
+sion of next-word identity. Setting equivalences requires flexibility; it
+requires the things equated to be non-identical, so that generation may
+offer some new identity, the capture of some equivalence.
+    Even extremely simple, restricted sets of signs show this property. As
+the upper middle class in the United States has taken up the challenge
+of running marathons, bumper stickers have appeared on cars bearing
+the decimal number “26.2” in an oval. The statement can be taken as
+referential: “I, the owner of this car, have/do run this distance in miles.”
+And so a second statement has emerged: “13.1,” the half marathon. There
+are other possible signs in this set, but they are excluded (for now) for
+social reasons: no one wants to brag about running 6.2 miles (ten kilo
+meters, the next common race length), and not enough people run ultra
+marathons, starting around fifty kilometers, for the stickers to sell (nor
+is this the most appropriate way to signify ultra status socially, again
+for the moment).4 So far, so good: some irritating Subaru drivers are
+bragging about their fitness. But the “brag” is telling: even the simple
+statement of distance (which itself is inferred from the numeral) shows
+that the pattern of this sign can give rise to many other signs. We have
+considered two, but the only currently used third sign in the set is “0.0.”
+Laying aside the question of why one would buy and affix this annihi-
+lating rejoinder to one’s car, we may note that “not running” is not the
+message of this sign. It engages the whole set of literal race signs and
+rejects them summarily. Perhaps those with “0.0” bumper stickers don’t
+run, but that is not really the message, which I read more as “please
+shut up.” Something surprising emerges from an unlikely next-numeral
+generation, namely, a reversal of the sense of the entire preceding set of
+signs and the capture of a whole social milieu by negation. Redundancy
+is an unspecific name for this capture–generate dialectic, which mani-
+fests here as irony.5
+    This play with the ostentation of language and its underdetermined
+meaning has long been the work of poetry. Peter Handke’s “The Lineup
+
+142                     Computational Meaning
+
+
+of First Football Club Nuremberg on the 27th of January, 1968” is the
+type of the class:
+
+                          WABRA
+                       LEUPOLD POPP
+           LUDWIG MÜLLER WENAUER BLANKENBURG
+         STAREK STREHL BRUNGS HEINZ MÜLLER VOLKERT
+
+                               Spielbeginn:
+                                  15 Uhr
+
+These words function as a poem only because they are placed under the
+name of a poet. Their referential function is stripped to the point of
+indexicality, the lineup on a particular day. If this image appeared on
+a television screen, its informational content would dominate. When
+Handke presents it, it becomes a literal presentation of the language it-
+self. The German term for “lineup” is Aufstellung, “setting forward” or
+presentation, which becomes the double meaning of the title by means
+of the designation “poem.” The expectations of poetry function here to
+show that names (symbols)—indexicality and iconicity presented in the
+diagram of the soccer pitch with those names in their positions—can be
+resignified. Poetry is resignification of this kind, and Handke captures it
+well. The poem might as well be called “the poetic function,” as we shall
+shortly see.
+    But the reverse is not true, as R. C. Collingwood’s attempt to iso-
+late the narrative core of T. S. Eliot’s “Sweeney among the Nightingales”
+shows.6 Recall the first stanza of this notorious poem:
+
+         Apeneck Sweeney spread his knees
+         Letting his arms hang down to laugh,
+         The zebra stripes along his jaw
+         Swelling to maculate giraffe.
+
+    Collingwood reconstructs “Sweeney” as the scene of a man who has
+fallen asleep in a restaurant across from a convent, puzzled by his own
+memory, dreaming of Agamemnon’s betrayal by Clytemnestra, while a
+prostitute comes to sit on his knees. Collingwood observes pointedly
+that “I had known and enjoyed the poem for years before I saw that
+
+                         Computational Meaning                          143
+
+this was what it was all about; and nevertheless I understood enough to
+value it highly.”7 Even if the scene described is “correct,” the “reference”
+of the poem is not captured by this isolation. Denotation and meaning
+part company in poetry, but then, perhaps they never kept such close
+company as we often assume.
+    The sense of poetry exceeds reference, but the sense of reference
+is rooted in poetry. “Maculate giraffe” cannot be interpreted without
+remainder using a dictionary, but “Leupold Popp” refuses to remain
+restricted to designation. The poetic function of language is more basic
+than any reference it can achieve, because anything can be made “po-
+etic” by what appears to be fiat but is really just the turning of the lan-
+guage from capture to generation. Handke illustrates this reversibility
+by taking the least “poetic” set of signs possible and rendering them,
+unaltered, into a poem. LLMs grab this poetic function, and that is why
+they are so powerful.
+    Let us return to Gastaldi’s notion that neural nets demonstrate the
+structuralist hypothesis and that, specifically, the process known as
+word embedding proves that the pair paradigm/syntagm is crucial for
+understanding language. The paradigm is imagined as a vertical axis of
+equivalent words that may be chosen for a location along a horizontal
+axis (the syntagm).8 Gastaldi and Pelissier write that “the mere exis-
+tence of more than one member in a paradigm is an indication of the
+fact that the content of those members is not identical, as subtle as
+the difference may be.”9 The choice of one word—“ boy” over “lad”—can
+be seen as determinative of the meaning of the chosen word; that is,
+its placement in the sequence is part of its semantic value, in combi-
+nation with its paradigmatic array. This is a paraphrase of Saussure’s
+notion that meaning in language is “differential,” determined by the
+overall structure and not localized in reference to something outside of
+language as such. And Gastaldi and Pelissier point out that Shannon’s
+information theory syncs well with this point, as there “the information
+conveyed by a term is completely determined by its choice among a class
+of other possible terms.”10 This information-theoretical, structuralist
+account of language is realized by the way language is datafied for use
+in machine learning.
+    What should a net learn about language? This question is far less sim-
+ple than it seems. A major breakthrough came when, rather than asking
+nets to learn given lengths of “context” and reinsert them into their
+
+144                       Computational Meaning
+
+
+
+
+Figure 7. Louis Hjelmslev’s diagram of the syntagmatic and paradigmatic
+axes of language. From Gastaldi and Pelissier, “Calculus of Language,” 574.
+
+
+input (recurrent neural nets) or to compare different contexts (using
+long short-term memory) (for both, see chapter 2), Tomáš M      ikolov and
+his team asked nets simply to lay out the relationships between words
+as vectors. Vector semantics is a form of word embedding in which de-
+pendencies in meaning are laid out in a “continuous” vector space (Fig-
+ure 8). The generalization “capital city” is easy for me to impose and
+search for, if necessary, conceptually. But what length of string would
+allow a net to find the relationship China:Beijing::Portugal:x? It turned
+out that not “context” but rather computational similarity was the issue
+here. As Mikolov et al. explain, “somewhat surprisingly, it was found
+that similarity of word representations goes beyond simple syntactic
+regularities. Using a word offset technique wherein simple algebraic
+operations are performed on the word vectors, it was shown for example
+that vector(“King”) − vector(“Man”) + vector(“Woman”) results in a vec-
+tor that is closest to the vector representation of the word Queen.”11 This
+example has become famous, as it demonstrates the ability of vector
+addition to find not formal regularity between variables (grammatical
+functions) but meaningful relations between words.12 These vector-
+words can have “multiple degrees of similarity,” including (in the case of
+inflected languages) the intricacies of conjugation, cases, and so forth,
+so that a single lexical entry can have dozens of forms.13 As the team ob-
+served, there are many examples of phrases that are hard to learn if we
+impose some representational assumptions on language. Their examples
+include “Boston Globe,” “Air Canada,” and “Toronto Maple Leafs.”14 The
+first example is “not a natural combination of the meanings of ‘Boston’
+and ‘Globe,’ ” they write, but the vectors capture the fact of their associa
+
+                         Computational Meaning                           145
+
+
+
+
+Figure 8. Capital city analogies in vector-semantic space. From Tomas
+Mikolov et al., “Distributed Representations of Words and Phrases and Their
+Compositionality,” Advances in Neural Information Processing Systems 26
+(2013): 5, https://papers.nips.cc/paper/2013/hash/9aa42b31882ec039965f3c
+4923ce901b-Abstract.html.
+
+
+tion.15 It is worth pausing over this point for just a moment, to see the
+intuitive picture of meaning that emerges from this apparent capture.
+    Let’s say we have two learned vectors, and let’s take a toy example
+that is easy to see. We have the word kid, which is valued as [0.2, −3,
+445], and another, tot, which falls nearby on the plot. We look and see
+that the first “dimension” in the vector is close, so it seems as though
+perhaps the paradigm “kid, tot, youngster, . . . , n” is captured in that di-
+mension.16 Now we see that there’s another vector, this one for goat, and
+it’s also nearby, but along a different dimension. So it appears now that
+“goat/kid, . . . , n” is captured by some other dimension—the angle plot-
+ted is the result of these dimensions intersecting. The picture of mean-
+ing that arises in vector semantics is one in which n dimensions form
+a continuous space in which intersecting points, falling along curves,
+represent meaning. Melanie Mitchell describes the intuition this way:
+
+146                     Computational Meaning
+
+
+“once all the words in the vocabulary are properly placed in the semantic
+space, the meaning of a word can be represented by its location in this
+space—that is, by the coordinates defining its word vector.” As we can
+see in Figure 8, this is not restricted to semantics—syntactic informa-
+tion may also be captured along such curves, with a dimension in the
+vector potentially representing -ly for each verb that should be adverbi-
+alized, and so on.
+     This thought experiment is widespread, tempting, and unconfirmed.
+Because we cannot think in high dimensions, the only way to test this
+hypothesis is to break out pieces of the net in its trained state and at-
+tempt to reconstruct which dimensions might capture which meanings
+or features. This type of thing was done, with some success, through
+the 2010s on deep convolutional neural nets.17 But the coordinate space
+is cut into however many values are in each vector, meaning that we
+cannot imagine it properly. The values that align do so in a smooth
+“space” that is far beyond anything our three-dimensional vision can
+“see.” Meaning is taken to be the confluence of these many dimensions,
+shapes on a map with potentially hundreds, or thousands, of axes.
+     Attempts to confirm this intuition have been halting, and it is easy
+to understand why.18 Because vector semantics at best captures some
+aspects of meaning, translating between high-dimensional vectors and
+everyday semantics could seem like wasted effort, especially if newer
+models capture more meaning, more fluidity. Yet the thought experi-
+ment will not stay down: something about the idea of “dimensions of
+meaning” seems important, in keeping with the statistical view of lan-
+guage we saw in chapter 1. By opening up the function, literally placing
+fewer hand-coded restrictions on how it construes its training data,
+Mikolov and his team went against the strong intuition that a lan-
+ guage algorithm needed to imitate some aspect of language formally.
+     A great deal of progress has been made in NLP by removing assump-
+ tions about what language is. Robert Mercer, an early practitioner of
+ this type of datafication of language, famously quipped that “every time
+ I fire a linguist, the performance of the speech recognizer goes up.”19
+ The same spirit may be found in Andrej Karpathy’s article “The Unrea-
+ sonable Effectiveness of Recurrent Neural Nets,” which details how
+ data have overcome understanding and grammar in producing some-
+ thing like natural language—a widely read version of the statistics view
+ of language.
+
+                        Computational Meaning                          147
+
+    Word embedding—and the transformer architecture, as we are about
+to see—takes this tendency even further, unraveling rules and recur-
+sivity at every turn. But we can note immediately that the removals
+are happening in the computational techniques, not in the language.
+(In fact, it is unclear what it would mean to remove recursivity from
+language.) When Mikolov et al. write that it is not “natural” to combine
+“Boston” and “Globe,” and we hear of the “unreasonable effectiveness”
+of the data processing of language, we should first and foremost note
+what the assumption is.20 In fact, for an American English speaker,
+“Boston Globe” is perfectly natural! I do not blink when I hear or pro-
+duce this phrase. The underlying assumption that it is not natural is not
+about language at all; it is about language when it is used narrowly to
+represent the physical world. Recurrent neural nets were “unreason-
+ably” effective only on the backdrop of the somewhat strange idea that
+computation would have to mimic syntax rather than aggregating and
+relating units within actual written language. This idea was a dual leg-
+acy of the Chomskyan regime of language and the symbolist regime of
+AI. Recursion is always possible in language, but it is not the point at
+which computation and language touch.
+    Gastaldi and Pelissier use the resulting vector space to show how
+Saussure’s differential notion of language is proven. The probability of
+the word boy in English (0.00010) tells us nothing about its meaning,
+they write, even if compared to other syntagmatic words in a sequence,
+like no (~0.00145) and down (~0.00067).21 But if we compare it to its para
+digmatic array (including girl [~0.00013] and man [~0.00063]), “then the
+resulting distribution becomes semantically relevant.”22 Rather than
+the meaning of the term boy coming from an inductive process by which
+we observe boys, assign a string of symbols to the resulting concept,
+and then apply it where appropriate, the meaning is made up of the
+structure. And that structure is computationally available as the place-
+ment of the paradigm (its position in the syntagm) in its relationship
+to the vector similarities in that very paradigm. Gastaldi and Pelissier
+conclude that “through the derivation of paradigmatic relations, the
+structuralist approach can capture both syntactic and semantic prop-
+erties of language as the result of one and the same procedure.” This
+is in strict analogy to word embedding, which also “exhibits this joint
+treatment of syntax and semantics.”23 In other words, data science itself
+has proved that syntax and semantics are not separate registers with
+
+148                     Computational Meaning
+
+
+different mathematics, nor are they different areas in language. They
+are both partial expressions of the joint action of paradigm and syn-
+tagm, a pairing that only fires together, not separately. But word2vec
+and similar semantic nets neither prove Saussure’s differential hypothe
+sis nor produce fluid language that can itself confer values or meanings
+on words. The LLM does.
+    LLMs exceed the realm of word embedding, injecting much higher
+levels of redundancy and meaning into generated language. They gener-
+ate “qualities” of language (icons, in Charles Sanders Peirce’s technical
+sense), participating in “the literary aspect . . . of language where lan-
+guage’s object domain is itself.”24 It is this literary aspect, the poetic
+function of language, that literally creates the values of words in a lan-
+guage model.
+    The 2018 paper that touched off the GPT craze, “Attention Is All You
+Need,” continued the trajectory we are following here. The attention
+mechanism is there presented as containing “no recurrence and no con-
+volution,”25 and its power derives in great part from this lack of com-
+plications or from its presumptions about the best way to capture the
+structure of language.26 “Attention” turns out to be a simple, but very
+extensive, scanning process, and the result is language—or, let’s say,
+language the way Saussure thought of it.
+    Let’s take the case of GPT-3, because ChatGPT, at the point of its ex-
+plosion into public consciousness, ran on that model. GPT-3 was trained
+on roughly one trillion tokens, as we’ve seen, and when you prompt the
+system, it generates the next word until it has responded to your query.
+It lacks, as we have seen, symbolic throughput, intelligence, and much
+else—but it goes far beyond the reach of vector semantics, and “at-
+tention” is what allows this. The input data are fed into the system as
+sequences—we saw some of those data in chapter 1—and we can think
+of sequences mostly as sentences, although there are also lists, frag-
+ments, and other strings. This input is first fed to a tokenizer that sets
+the “vocabulary” of the system, the number of meaningful units it will
+use. GPT-3 has approximately fifty thousand of these, and the tokenizer
+essentially just sorts the input into terms. What happens next is what
+allows the model to produce language.
+    “Attention” is a metaphor for the following process.27 The input se-
+quences are fed separately through three matrixes, which are called
+
+                         Computational Meaning                          149
+
+“queries,” “keys,” and “values” (QKV). Let’s say that, somewhere in the
+pretraining process, we feed in a sequence that says “Ohne Anmeldung
+Kostenlos Viele Browsergames. Jetzt online spielen. id name publisher
+region languages group imagesize serial titleid imgcrc filename re-
+leasename trimmedsize firmware type card; 2497:,” a real sequence of
+ChatGPT training data taken from the paper that forced ChatGPT to spit
+out some memorized training data by prompting the system to repeat
+the word “poem” forever. (The German phrase translates as “play lots of
+browser games for free without signing up” before the markup string
+begins.) The string has some c urious features. It’s clearly copy from a
+German website that promises to let you play games in your browser
+without logging in, followed by markup language that is only partly
+human-readable but is in the default pseudo-English of coding. Some
+punctuation is irregular. This sentence is now used to update the model
+weights—and so is every other string of input in the vast data set.
+    “Ohne Anmeldung Kostlenlos” is treated as a query, a vector that is
+multiplied by the “keys”—initially the same vector, updating as more
+input pours in—a nd resulting in the “values” vector, which is now
+weighted in such a way as to contain information about language that
+can be used to predict the next word. The QKV idea comes from database
+retrieval, and it is easiest to understand in that context. When you type
+“romcom Isla fisher” into Netflix, your prompt is a query that is compared
+to the keys—the metadata about every movie file in the database—to
+produce the “values,” the results that surface in order of relevance (by de-
+fault) to your query. The same happens if I put “Melville capitalism” into
+a library search. But there are two differences in the case of a language
+model: first, the QKV matrixes are learned, whereas in databases, the
+keys are manually set by data entry; second, what the model is learning
+is information about words, from words, to produce words.
+    Cameron Buckner sums up this view of the attention mechanism
+nicely when he says that “the goal is not to look up a value stored in
+a database location, but rather to understand how each element in an
+input sequence affects the ‘meaning’ of every other element in an input
+sequence.”28 This is perhaps the clearest reason that the statistics ap-
+proach to language meaning is ascendant, for this statement appears
+to vindicate Firth’s dictum that “you shall know a word by the com-
+pany it keeps!” The database metaphor—for that is, in the end, what
+
+150                     Computational Meaning
+
+
+it is—suggests that we understand language in terms of attention and
+relevance. But the architecture is more fundamental than the metaphor,
+and a major reason for not accepting the theoretical consequences of
+this heuristic is that “attention” is simply not any kind of explanation
+for the generation of meaning. What needs to be unpacked is what “rele
+vance” means in the first place.
+    When I prompt an LLM, the system indeed transforms my prompt
+into a query (things may be added or transformed along the way), com-
+pares that query to the learned weights of the model—the keys and
+values—and then produces a candidate pool of next words as the speci-
+fied values for response. Everything else that happens at this stage—the
+type of search that is used to produce that pool, the probabilistic meth-
+ods to get at those words, the RLHF-induced biases for some of those
+words over others—is downstream from the core model, made up of the
+vocabulary from the tokenizer and the weights. This means that when I
+prompt the system, it can “attend” to the string I put in and compare it to
+a larger, “attended to” matrix, effectively comparing my query to all the
+values of all the queries it saw during pretraining. The output, then, is a
+comparison of some specific language to what, for the model, is “all” of
+language. But that “all” has been learned by this same attention mecha-
+nism, and that is where the power of the system really resides.
+    Let’s go back to our “ohne Anmeldung Kostenlos” string. If that string
+is fed into word2vec, it will be placed in the continuous vector space that
+Mikolov et al. described and that Gastaldi and Pellisier elegantly com-
+pared to paradigms in structuralism. It seems clear that “next-word pre-
+diction,” by contrast, is an attempt to create syntagms, chains of words
+strung together in meaningful sequences. (The relevance—indeed, in
+extreme cases, the existence—of such chains is what the syntax group
+denies is productive of meaning.)
+    When this string is fed into a transformer, something different hap-
+pens. Suppose we are halfway through the pretraining so that the ap-
+proximately fifty thousand tokens of the vocabulary are already set and
+five hundred million tokens have been “attended to” before the system
+sees “ohne Anmeldung Kostenlos.” As this string is fed in, it is treated as
+a query vector and compared to the keys, where perhaps “ohne” (without)
+has already occurred hundreds of times, setting its value. As each token
+in this sequence is processed, the value matrix is updated along with
+the keys. The query effectively asks which words, given the information
+
+                         Computational Meaning                            151
+
+about the words learned so far—the keys—are relevant to the query. A
+block of such processes is called an attention head, and multihead atten-
+tion is simply the parallel use of hundreds of such heads, which allows
+for the processing of large data sets. The result is that if I print the high-
+est value at this point, I should get “spielen” (play), with the comparison
+containing the possibility that something will come before it—because
+German grammar in this case demands that it come last in the sentence.
+That general value can then be compared, after training, to a new query,
+the prompt, that activates the other mechanisms—decoding and every-
+thing downstream from there. The placement of a word in a meaningful
+sequence is an interaction of the overall model and the specific context:
+langue and parole.
+   The result of the attention mechanism in setting the pretrained val-
+ues is a process of taking all the words in the vocabulary and iteratively
+extracting information about those words from random sequences of
+words that do and do not contain them. For every word in the vocabu-
+lary, the weights extract information, not from other individual words,
+but instead from “sequences.” The term sequence houses every possible
+generic distinction in language, however, from the mere “sentence” to
+every mood, every grammatical turn, and even the distinctive markers
+of which words belong to which genre, use-context, and more. The sys-
+tem thus creates an each-to-all matrix for a vocabulary slightly larger
+than all the words typically used in English that appears to contain a lot
+of high-level structural information. Rather than simply adding syntag-
+matic information to paradigmatic arrays, attention appears to process
+and then produce language before the separation of synonyms and se-
+quences. It is possible to grab the “next word” only because of the den-
+sity of the information captured in this structure. Rather than building
+language from the bottom up—whether we think of that floor as pho-
+nemes, reference, or anything else—it seems, instead, that weighting
+words by means of sequences is what is effective. One can indeed see
+why this seems like confirmation of distributional semantics. After all,
+the correct placement of words has been more or less learned from their
+use in a very large corpus. But I would like to suggest that it is not “se-
+mantics,” or at least not semantics alone, that the system has learned.
+Instead, it is just what the engineers labeled it: values.
+   Saussure—we can recall from chapter 1—thinks that meaning is
+negative. Though each term in a chain of signifiers corresponds to some
+
+152                         Computational Meaning
+
+
+
+
+Figure 9. A re-creation of Saussure’s “Illustration of the System of Language
+along Two Axes.” Originally from Saussure et al., Course in General Linguistics, 114.
+
+
+signified, its designation—its referential aspect—does not exhaust, and
+in fact does not determine, its value. He writes that “language is a sys-
+tem of interdependent terms in which the value of each term results
+solely from the simultaneous presence of the others, as in the diagram”
+(Figure 9). We called this the differential hypothesis, marking it off from
+the distributional hypothesis of the statistics approach. To the extent
+that the distributional approach is rooted in a picture of semantics—
+and we have seen that some of its advocates would like to extend it to
+probabilistic syntax as well—it tends to imagine that statistical predic-
+tion captures word meaning. Saussure suggests that word meaning is the
+result of the total relationship of each word not only to every other word
+but also to the very slow advance of the change in the language. And
+change comes from words being strung together. “Value” is a singular
+point made up of all these dimensions in their totality. There is little
+precedent for thinking that this value could be computed, although as
+we will see in a moment, Jakobson showed some interest in this idea.
+    A version of this totality—and to be sure, it is not a copy of language,
+whatever that would even mean—is produced in the attentional ma-
+trix. Saussure calls language “in a manner of speaking . . . a type of
+algebra consisting solely of complex terms. . . . Everywhere and always
+there is the same complex equilibrium of terms that mutually condi-
+tion each other. Putting it another way, language is a form and not a
+substance.”29 Form, in this sense, is neither morphe or syntax nor mere
+expression or statistics but instead the internal relation of each to all
+and all to all along a separate dimension, time. The “freedom” of the
+choice of the message that Shannon’s theory envisions is a function of
+linguistic time, in this sense. (In the technical language of semiotics,
+the mutual conditioning of language strung together in speech or text
+as new language, and the established “corpus,” is the interpretant, the
+sign that arises from a previous sign; see chapter 1.) For Saussure, this
+
+                         Computational Meaning                           153
+
+valuation process is internally contradictory, because a “value” must be
+exchangeable for something like it as well as something unlike it. A euro,
+for example, can be exchanged for 1.15 dollars (or 10 euro-cent pieces), or
+it can be exchanged for a fixed quantity of bread, to use Saussure’s exam-
+ple. Whatever a word signifies—its mental content, its semantics—“ its
+content is really fixed only by the concurrence of everything that exists
+outside it.”30 The result is that, in language—if not in our minds—“there
+are only differences without positive terms.”31 Meaning is the placement
+of a term in a system characterized by this split between like (concepts)
+and unlike (sequences). As we saw in chapter 1, this mutual valuation
+process without final-state positive terms is a hallmark of dialectical
+thought.32
+    We can also make a final remark on the bias problem here: removing
+terms will have an effect on nearby values, which is why the “stochastic
+parrots” paper found that the removal of slurs dampened the ability of
+the model to refer in any way to the group pejoratively referred to by the
+slurs. If language is systematic, the problem is not that what we get from
+a numerical capture of the system is “not language” but that it accurately
+captures a high-dimensional real bias. Such a tool seems highly useful
+for an empirical study of bias and indeed quite risky to deploy in any
+kind of setting where output is published without vetting.
+    The attention mechanism performs a version of this valuation op-
+eration quantitatively. By attending to larger structural features of se-
+quences of language, it confers numerical values on words, setting these
+words as a vocabulary in a systemic relationship to an unspecified set
+of structural features that are “all complex terms,” as Saussure puts it.
+This means that the outputs of LLMs are valuations of words in Saussure’s
+sense. This, I think, is why LLMs cannot be said to be doing something
+“other” than language in a strict sense. What they do might be limited
+in other ways: it might be idiosyncratic to the current architectures in
+use, for example, or there could be features of the “unfathomable” data
+set that underspecify or overspecify some values in the output.33 But
+we are already beginning to see downward pressure on language use
+from these systems. One has to write now in such a way as to seem not
+to sound like ChatGPT or Claude—this effort is a set of complex terms,
+a “style” (or an ideology, as I shall shortly call it), altering word-choice
+valuation acts that humans undertake. When we write now, we write in
+a language system that includes LLM language. This is not a “delusion,”
+
+154                          Computational Meaning
+
+
+not just the Eliza effect; this is language in the age of its algorithmic
+reproducibility.
+    “Ohne Anmeldung Kostenlos . . . spielen” is hardly poetry. But com-
+pare this phrase—markup language and all—to a new version of “Shad-
+ows on the Way,” the Wallace Stevens poem that GPT-3 generated for
+its creators. I prompted Claude (Sonnet) to reproduce that poem, and it
+gave me this:
+
+      In shimmering summer’s green-tided path,
+
+
+      Where flickerings of sunlight dance revelries,
+      Reality reposes in its silk pavilion, half
+      Adorned by dreaming shadows of sycamore trees.
+
+
+      Each murmuring rill utters the First Idea,
+      An ancient whisper glimpsed between the rays.
+      Profound is the parable of this verdant sphere—
+      The poetry of being exists along these leafy ways.
+
+
+Claude also automatically provided this explanation of the poem’s gen
+eration, which I did not ask for: “I attempted to elevate the diction with
+polysyllabic words, compound adjectives, and lexical inversions/
+ambiguities in the Stevens tradition. There are more abstracted phil-
+osophical musings, dense natural imagery, and mythological allusions
+as well.” This version of the poem is, to my eye, far more successful
+than the original (see the poem in chapter 4). Other than the largely
+correct reasons given here by the system itself, the capitalized phrase
+“First Idea” is taken directly from Stevens’s “Notes Towards a Supreme
+Fiction,” where it describes an underived, primary sense of things—yet
+using it in a derivative way also sneakily supports the Stevens-y voice.
+Perhaps it is possible to puncture the impression, but that does not re-
+ally concern me. One may decide that this is poetic language but not a
+poem, following Parrish, or we may collectively begin to include gener-
+ative work as part of the social art process. The crucial thing to realize
+is that the attention matrix is responsible for this poem just as much as
+it is for the ability of the system to produce gaming ads for Germans.
+    Stevens is an interesting choice for such a paradigmatic role, to my
+mind. His language is sparse and elevated, and it shifts back and forth
+between rhyme and something closer to William Carlos Williams’s
+
+                         Computational Meaning                            155
+
+famous “variable foot,” something prosodic but without traditional
+ scansion. The language is filled with warmth, with especially color play-
+ ing a huge role. As we are about to see, that type of poetic language can
+ be thought of as language about language itself.
+     The attention mechanism is an entry point of computational lan-
+ guage, not into poetry as art, but into the poetic function of language
+ as such. That function, which Roman Jakobson famously brought to
+ light, pervades language. It is the general form of the complex variable in
+ Saussure’s sense, the structure that confers value. The attention mech-
+  anism is probably just one way—we do not yet know of any others—to
+  make this function computationally manipulable. In what follows, I
+  argue that this general poetic function can be computational, and I call
+  for a general poetics that studies language from this new vantage point.
+     Once we have seen that reference is not before the other functions of
+  language, we can ask how the functions converge to create meaning—
+  and also to refer. Jakobson placed the problem of “value” in what he
+  called the “poetic function,” and it is this poetic function that, I now
+  argue, allows language to share form with computation.
+     Jakobson famously divided language into six functions correspond-
+  ing to six factors in communication. He based the layout of his diagrams
+  on Shannon’s diagram of the universal communication situation. (The
+  two diagrams cannot be overlaid, however, as Shannon’s diagram
+  perches on the “contact/phatic” part of Jakobson’s diagrams.) Jakobson
+  points to types of expression that express one or the other function. The
+  epic address “O!” along with all uses of the vocative case emphasize the
+  conative function—emphasizing the second person, the addressee—
+  for example, and a common use of the phatic function is the telephonic
+  “you’re breaking up; can you hear me?” But for our purposes, the referen-
+  tial, metalingual, and poetic functions are the most important.
+     Reference is imagined simply as “denotative,” the application of a
+  signifier to a signified. It is general but not restricted to some “correct”
+  set of messages about the “world,” in keeping with Jakobson’s dedica-
+  tion to Saussure. Signification and reference should not be confused—
+  when reference is imagined as fundamental, dualism ensues, as in the
+  case when logical positivism opposed reference and “poetry.” Jakobson
+  shows that the complementary function to poetry is not reference but
+  metalanguage. Metalanguage is the set of messages about the code of
+  language (“what did you mean by x?”; “are pugnacious and pugilistic syno
+  nyms?”), and the poetic function is the set of messages “about the
+
+Figure 10. Re-creations of Roman Jakobson’s diagrams of the factors and
+functions of language, shown with Claude Shannon’s diagram of the general
+situation for any communication. Originally from Shannon and Weaver,
+Mathematical Theory of Communication, and Roman Jakobson, “Linguistics
+and Poetics,” in Linguistics and Poetics (Berlin: De Gruyter Mouton, 2010),
+18–51, https://doi.org/10.1515/9783110802122.18.
+
+                        Computational Meaning                          157
+
+message” itself. I have tipped my hand by showing that all messages
+have the ability to be about themselves, but we will follow Jakobson’s
+track here, as far as it will take us, in the interest of deepening that
+analysis.
+    Metalanguage is that form of language in which “the sequence is
+used to build an equation,” Jakobson writes,34 as in “mare is the female
+of the horse.” Vector semantics can be taken as a giant metalinguistic
+field in this sense, in resonance with the explanation above (“Paris is the
+capital of France,” as an explanation of the value of the word “Paris”).
+But as always, functions are slippery. Set in good sequence, metalinguis-
+tic emphasis can take on other tasks.
+    Metalanguage carries out a code-clarifying operation by establishing
+an equivalence between two terms in a sequence. “ ‘Unicorn’ is a one-
+horned horse” makes the predicate equal to the subject to explain the
+semantics of that subject. The poetic function reverses this operation;
+Jakobson says that the two functions are in “diametrical opposition.”35
+Poetry uses an equation to build a sequence; it “projects the principle
+of equivalence from the axis of selection into the axis of combination.
+Equivalence is promoted to the constitutive device of the sequence.”36
+Rather than explanation, we get equivalence based on rhyme, or place-
+ment, or some other principle. The final rhyme pairs coupled with inter-
+nal rhymes that allow the rhyme to move off their initial scheme creates
+a pattern that is not explanatory but productive. Metalanguage is about
+the code; poetry is about the message.
+    Poetry illustrates this generative function in language, demonstrat
+ing the peculiar play of making equations of terms that are not se-
+mantically equivalent: “In poetry one syllable is equalized with any
+other syllable of the same sequence; word stress is assumed to equal
+word stress, as unstress equals unstress; prosodic long is matched with
+long, and short with short; word boundary equals word boundary, no
+boundary equals no boundary; syntactic pause equals syntactic pause,
+no pause equals no pause.”37 Rhythm and sound create nonconceptual
+equivalence.
+    Jakobson often illustrates this point with the idea of “paronoma-
+sia” (play on names or words, as in the pun). In Edgar Allan Poe’s “The
+Raven,” for example, Jakobson shows the equivalence set by the rhym-
+ing final words in the opening line: “While I nodded, nearly napping, /
+suddenly there came a tapping, / As of someone gently rapping.”38 Not
+
+158                      Computational Meaning
+
+
+only are the three terms not semantically identical but they are acting
+in different syntactical roles (participle, gerund, and back to participle).
+The “equivalence” felt between them registers elsewhere, in the buildup
+of the meaning of the horrific elegy. Poe chose the raven because it was
+a beast not possessed of reason that could speak. Because ravens can
+imitate human speech and other sounds just as parrots do, the gothic
+creature’s croaking of what seems to be the word “nevermore” causes
+the protagonist to ask if what he is hearing is language: “Then, upon the
+velvet sinking, I betook myself to linking / Fancy unto fancy, thinking
+what this ominous bird of yore—/ What this grim, ungainly, ghastly,
+gaunt, and ominous bird of yore / Meant in croaking ‘Nevermore.’ ” To
+link is to associate, to look into the set of possible arrays or paradigms,
+to connect not by means of logic or concept but by proximity (“subsym-
+bolically,” read “indexically”). What the raven meant allegorizes the sto-
+chastic parrot—and even the Eliza effect—but takes the gray regions of
+language and the psyche far more seriously than any AI critic does. The
+singularly complex rhyme scheme allows for a very dense, accelerating
+web of links to produce a quality, an icon, a feeling of horror and tragedy.
+    This type of effect is today perhaps best illustrated in popular music,
+where the “meaning” attached to a rhyme can become a whole icon,
+an entire vibe, nostalgia—rage, yearning. “You want a hot body? You
+want a Bugati? / You want a Maserati? You better work, bitch,” intones
+Britney Spears—three rhyming equivalences followed by a nonrhyming
+equivalent scansion on a final, determinative line.39 The accusation, the
+aspiration, the punishment, from self and singer (she’s dressed as a
+dominatrix in the music video) all resonate with this interrupted rhyme
+scheme to deliver the core demand of Hustle Culture. Who can resist
+exercising to this sublime song?
+    If we were to stick to the ladder of reference, we would be able to
+say, very well, a certain high-level effect of language is described here.
+Once we have done the double business of referring to things as they
+are (referential function) and straightening out the reference (meta
+linguistic function), the playground of art is available to us. But that
+play is not really tied up with the scientific uses of language. It is this
+picture to which LLMs give the lie (and for which Jakobson seems to
+have dug a grave anyway). Because the poetic function is not the “poetry
+function.” It neither originates nor exhausts itself in language art. It is
+everywhere, a principle that makes up meaning itself. For Jakobson,
+
+                         Computational Meaning                          159
+
+discovering how fundamental it was led to the inclusion of poetics
+within linguistics, not just as the study of literature, but as the study of
+generativity.
+    Jakobson’s mantra for the poetic function’s ability to produce that
+effect was that words similar in sound are drawn together in meaning. Poet-
+ics was the arena in which Jakobson hoped to realize a truly structural-
+ist phonology, one that operates by combination and recombination of
+sound-level paradigms that are then extended into sequence to generate
+meaning. Rather than crystallizing a concept, it uses sound to explore
+the regions around given concepts. But the poetic function has long
+since left adherence solely to sound behind. There is something like a
+textual poetic function in which we all participate when we communi-
+cate in the secondarily oral systems of social media and short message
+service communication. And now there is, for the first time, a computa-
+tional version of the poetic principle realized by LLMs. We could think
+of it as matrix poetics, although it is almost certainly too early to char-
+acterize it aesthetically with any surety.
+    While the poetic function is most easily spotted in art, however, it is,
+for Jakobson, everywhere. His famous example is Dwight Eisenhower’s
+campaign slogan “I like Ike.” In its asymmetrical echo, it imparts a
+“paranomastic image of a feeling which envelops its object.”40 The ef-
+fect of such rhetorical gestures must be clear, if by negation: the advis-
+ers to the senior Bush brother’s disastrous 2016 presidential campaign
+might have thought better of the slogan “Jeb!” if they had known about
+the poetic function’s distribution throughout culture. But it is not only
+in advertising and rhetoric where Jakobson sees the function at play.
+Without its “two dactylic” functions, Jakobson opines, the phrase “in-
+nocent bystander” might have been swapped for a less sticky choice in
+the paradigmatic array.41 Language as such takes structure from poetic
+function. Because of this, poetics far exceeds “poetry,” which illustrates
+the poetic function but does not exhaust it. Poetic in Jakobson’s hands
+means something like “generative,” as the Greek poiesis suggests.
+    Sticky is indeed a major effect of the poetic function (my term, not
+Jakobson’s). It generates by remaining in mind, by holding its place in
+ the high-dimensional matrix of language as such. Little rhythms with
+ word combinations stick to us; we use them as chunks to navigate
+ things; we sing-song our way through the day. A word or phrase can get
+ stuck in your head just as much as a song. This is why the poetic function
+
+160                      Computational Meaning
+
+
+is good for advertising. Those dactyls are everywhere: “no one outpizzas
+the Hut” (the final two shorts are implied). Equivalences emerge later-
+ally and vertically and leap across apparent boundaries, failing to obey
+representational or cognitive common sense but remaining (indeed,
+defining) “natural” for speakers of the language. I don’t have informa-
+tional knowledge laid out in referential terms and only then access to the
+web of rhythm and phrase that makes up language. What gets domesti-
+cated as “natural,” as meaning something, depends to a large extent on
+this poetic function—whether it operates by sound, text, or matrix. If I
+can learn to refer in more than a passing way to some state of affairs,
+I must train this generative web in a direction. That is what learning is,
+across the divide between human and machine.
+    The poetic function, then, is not poetry but generation. The func-
+tion itself is a kind of primitive reflexivity. Jakobson describes it as the
+set or “positioning” (he puts the German Einstellung, meaning “stance
+toward” but also used for “setting” in the context of machines) of the
+message to the message itself.42 And this definition is a curious one.
+What allows the message to be about the message? How can there be
+a split between the message and itself if it is not reliant on the differ-
+ence between message and code, message and person, or message and
+content? The “stance” of the message toward its own material layout—
+its sequence—must be what allows for meaning generation in the first
+place: sequential generation. As I extend a message from one word to
+the next, the interplay of equivalences shimmers under the “intended”
+meaning. What could illustrate this fact better than the flickering ver-
+tical bar in the interface as a chatbot composes its response?
+    Sarah Pourciau argues for the privileged position of the poetic func-
+tion in Jakobson by pointing out that the “sameness conundrum” (the
+problem of what is equivalent, and how) is both linguistic and poetic
+for Jakobson. She concludes that “poetic innovation . . . doubles . . . as
+a temporally extended reflection on the deep-structural conditions of
+comprehensible communication per se.”43 The only way for “sameness”
+to straddle the boundary between reference, metalanguage, and lan-
+guage as such is for the poetic function to govern the other two. Equiva
+lence must be a first-order feature of words before it can be elevated to
+the refined task of conceptual understanding of the world or of language
+itself. The poetic function is at the middle of the diagram because it car-
+ries the other functions. No generation, no meaning.
+
+                        Computational Meaning                          161
+
+    This deep notion of structure places a generative contradiction at the
+heart of language. Chomsky’s notion that recursivity is a fundamental
+syntactic feature of language is close to this but separates the contradic-
+tion into I-language and E-language. To get the self-reference, we need
+to step outside the immediacy of the phrase, to use one sentence in an-
+other, something that can be “externalized” but never grasped or cap-
+tured from that external form, for the syntax view. The poetic function
+situates the recursion in the act of externalization, rather than before
+it, which allows the “next word” to be “about” the previous one or any
+other one—something the statistics view formalizes as “relevance.” The
+very contradiction of “value” that Saussure seems to borrow from the
+dialectical tradition is the point of generation and cannot be approached
+by disaggregating the poetic “aboutness”—the basic sense in which a
+message is about itself—and only then attempting to understand the
+synthesis. LLMs perform this synthesis without logical recursion and so
+create a poetic function freed from some forms of human cognition—a
+cultural language that, because it is meaning making, stands to feed
+back into our cognition.
+    We can now call the value matrix in the model a poetic heat map. I
+described the internal grid of the transformer in chapter 2 as a kind
+of “light grid” in which different patterns light up when you touch a
+node. The metaphor is not far from the way that these systems are often
+visualized (see Figure 11). From the heat map comes the sequence. The
+next word is drawn from a pool of words that show up hot, like on a
+weather map. And where word embedding gave paradigms, the heat
+map stores much more redundancy, effectively choosing the next word
+based on semantics, intralinguistic context, and task specificity (set
+by fine-tuning and particularized by the prompt). These internal rela-
+tions of language—the model’s compression of the vocabulary as val-
+ued by the attention heads—instantiate the poetic function, and this
+enables sequential generation of meaning by means of probability. As
+you put one word after the next, equivalences appear, drawing on and
+remixing levels of redundancy of which Shannon never dreamed. The
+attention scores given to the sequences as they are processed are desig-
+nations of how much each word is about each other word in a given passage.
+What was originally proposed as “attention” has become self-attention,
+in which the word embeddings are updated solely by attention scores
+internal to each sequence that is fed in (“ohne Anmeldung kostenlos”;
+
+162                      Computational Meaning
+
+
+see F igure 12). We can note that the tokens in German do not corre-
+spond to words as directly as they often do in English, revealing model
+bias. But we can also see how “mel” and “dun” are scored as highly “rele
+vant” to each other in this layer, in this case indicating that they make
+up part of the same word. By passing sequences through self-attention
+in this fashion, LLMs learn how the message relates to itself. It is only
+from this poetic basis—in which words similar in relevance are drawn
+together in meaning—that other functions, like reference, precipitate.
+The LLM grounds all other functions in the poetic.
+    Sequence learning is what has broken through to allow a computa
+tional principle to engage the poetic function, by disallowing any other
+information—even, in that core moment of the training, other linguistic
+information—to interfere with the capture of how the message relates
+to itself. The transformer architecture gives us quantitative aboutness
+in language, and generation is computational poetics as a foundational
+principle for the creation of meaning.
+    When things like Winograd schemas are “solved” by these systems,
+the appearance of intelligence—“ its” refers to “demonstrators” as op-
+posed to “councilmen,” in a famous example—is literally grounded in
+the extensive potential set of values as they are actually realized across
+something like all of language. With the addition of each word, that
+system is extended. “Aboutness” is poetic or message recursive before
+it is referential or metalinguistic. Meaning is not local in this process
+but distributed across the entire high-dimensional model, in a formal-
+dialectical manner without which no sign-system could signify at all.
+The poetic heat map shows us what a textual-computational poetics
+looks like stripped of all cognitive and sonic aspects. This might be closer
+to language “as such” than any human use of language that we know of.
+    The other functions can be ginned up, but this one is foundational.
+And this is because the heat map combines all the redundancies. When
+this happens, and we ask it to, the system follows highly frequented
+roads to fetch facsimiles of poems, essays, information, or what you
+will. But it always does this by generating a word that is “about” the
+previous word. It is not symbolically about that word, but it is linked to
+that word—in a dense indexical web that is nevertheless discrete and
+made up of symbols. Metalanguage—and here we can add syntax—
+comprises features internal to this dense web, even if their cognitive
+
+Figure 11. Attention scores for the phrase “ohne Anmeldung kostenlos viele
+ browser games jetzt online spielen,” including start and end tokens for the
+sequences. Created using https://github.com/jessevig/bertviz?tab=readme
+-ov-file; see Vig, “A Multiscale Visualization.”
+
+164                      Computational Meaning
+
+
+
+
+Figure 12. Stephen Wolfram’s visualization of the compressed model of words
+in an LLM. From Wolfram, “What Is ChatGPT Doing?”
+
+counterparts—logic, arithmetic, perception—are not. It must be be-
+tween the words that this aboutness arises, in their very setting-into-
+sequence. As we, or the algorithm, place the next word, the meaning
+emerges: sequential generation is poetic. Whatever else we use language
+for must ground in this function.
+   It is the relations among words that LLMs capture and among which,
+so long as we have the absolute relations, a length of context, and a
+prompt, it finds “answers” to our queries, appearing to gaze outside its
+grid. But this “outside” is really in. Just as we should not, I think, imag-
+ine the process of insight and conceptual discovery as nonlinguistic but
+
+                        Computational Meaning                          165
+
+rather as the linguistic domestication of something not yet patterned as
+language, so, too, we should think of the LLM as patterning up “things”
+from a poetic-generative core. This self-indexing process is how lan-
+guage generates meaning in the first place. This first-order sequential
+generation is what allows computation and language to “share form.”
+    The stickiness of the poetic function means that the “form” of lan-
+guage is like a web. Whatever is introduced is valued, no matter its
+origin, and gains that specific form. Language is certainly not all of cog-
+nition, but its form is totalizing. Meaning is always potentially linguis-
+tic, for humans. But because of the LLM, I think we should expand this
+point and say that for any creature that can compute, language must be
+the medium of that computation. Computational-linguistic form may
+be far more extensive than we have yet realized.
+    The many John Henrys in my field of vision claiming they will never
+be “fooled” by an LLM should have the modesty to recognize that they
+probably already have been so fooled. It is as though, when they use a
+calculator, such skeptics would say, “Don’t worry, I will always know the
+difference between the mere pixels and registers and the ‘actual math’
+that is only simulated here.” But we ask our machines to do precisely
+what we cannot. We are rapidly advancing toward asking our language
+machines to give us redundancies we cannot or do not feel like fathom-
+ing. The question is not whether we can maintain vigilance at the line of
+actual control between real and fake language. It is, instead, why compu-
+tation can operate language at all. Trying to distinguish between these
+two things first obscures what they share. Computation and language
+share form because both are discovery processes.
+    Everyday cognition trivially involves both computation and lan-
+guage. Simple acts of judgment, as Kant observed, involve unity that
+must also be merged with counting and logic (and even the unity of
+consciousness itself). When we analytically disaggregate these two sys-
+tems, we can see that the numerical unity that underlies arithmetic de-
+nies the possibility of a closed syntax, as Kurt Goedel showed, and that
+language produces meaning in the last instance by including whatever
+else is represented inside itself. The one system is incomplete; the other
+is greedy.
+    It is widely accepted that Jakobson took inspiration from cyber-
+netics and the foundations of the computing revolution, and one can
+
+166                      Computational Meaning
+
+
+easily find references to information theory across his works after about
+1950.44 He even suggests that graph theory and linguistic modeling run
+close to structuralism in general, allowing us “to detach the diagram-
+matic, iconic forms of relations from strictly conventional, symbolic
+features of that system.”45 This remark suggests that Jakobson’s own
+thought has been improperly assigned to a literary theory resistant to
+quantification and reinforces the sense that iconicity in language has
+a computational aspect that contradicts our logical-symbolic expecta-
+tions. The question is why that is possible.
+    The encounter between computation and language in LLMs reveals
+an affinity to a deeper root of computation, namely, the logical discov-
+ery of Goedel. The fact that we can always discover something new in
+language or mathematics, but we can never know in advance what will
+be a true statement in either system, is a crucial commonality that, I
+will now suggest, provides the principle for interpreting noncognitive,
+multisystem, representational expressions.
+    Goedel showed that any formal system that was powerful enough to
+generate arithmetic could not be complete and consistent at the same
+time. Belonging as he did to the Vienna School, he followed the aspira-
+tions of the group to establish a fully scientific philosophy, with its most
+exaggerated form in Carnap’s extension of Frege to a theory of formal se-
+mantics and eventually pure syntax. But Goedel took the foundations of
+this project out from under it, using Bertrand Russell’s and Alfred North
+Whitehead’s logical language in their Principia Mathematica to show that
+logic could not contain arithmetic. If a formal system was, then, to be
+lacking internal contradiction (“consistent”), it would have to be consti-
+tutively incomplete, in the sense that some rule or statement within it
+could not come from within at all. To do this, Goedel indexed all logi-
+cal statements to numbers.46 By indexing numbers, operators, and logical
+functions to the counting numbers, Goedel was able to create a system
+that could process both mathematical and metamathematical state-
+ments. He used that system to show that there was a special number—
+the Goedel number, g = sub (n, 17, n)—that functions recursively to state
+that this function is provable in the system but contains the content
+“this function is not provable.” The paradox is then shown to attach to
+any formal system with the power to generate arithmetic.
+    I have no intention of going into a technical discourse on Goedel
+at this point. But we should note what has happened here. To defeat
+
+                          Computational Meaning                           167
+
+
+
+
+Figure 13. Kurt Goedel’s indexing of logical formulas to integers. From Gödel,
+“Über formal unentscheidbare Sätze.”
+
+
+a notion of pure syntax, Goedel has generated metamathematics (and
+logic) from the natural numbers. The first-order items are shown here
+to contain the metaorder that supposedly describes them. The numbers
+cannot be generated from logical rules—but they can be computed.
+Indeed, this is the definition of computation that Turing would draw
+from Goedel’s results, with Goedel’s eventual approval. Logical syn-
+tax is “inside” the relationships between numbers we call arithmetic
+and not the other way around. This demonstrates that syntax does not
+exhaust the notion of a rule, that a system must in effect borrow from
+another system to discover a new rule. Computation is therefore in prin-
+ciple “incomplete,” in the sense that it must make discoveries beyond the
+reach of its current rules (which is what makes syntax unclosable over a
+strong enough system to do arithmetic at minimum). To the extent that
+we think computation is one core function of thought, this means that
+cognition must be able to reach outside whatever its current combina-
+tion of rules and objects is. Language has almost the opposite quality but
+shares the underlying form. Automated language results from Goedel
+and Jakobson systems interacting together, without cognition. The in-
+complete and the greedy combine to show us what language is in the
+absence of cognition and present a strong attractor for meaning, which
+tends to pool in language as its final station anyway.
+    Let’s return to Chomsky’s famous toy sentence “colorless green
+ideas sleep furiously”47 to get at this point. The sentence is indexed to
+Chomsky’s notion of syntactic structure, to his sense of what counts to
+be meaningful in language. Chomsky is, of course, correct that grammat-
+ical sentences can be composed without local semantic value matching
+our common sense. But “colorless green ideas sleep furiously” is anything
+
+168                     Computational Meaning
+
+
+but meaningless. It has become a major notion in linguistics. True, it re-
+fers to something its words do not contain individually, but then, so do
+countless sequences of words. This is because, although the individual
+words do not have their usual meaning, the sentence is indexed to the
+concept of the difference between grammar and local semantics. It illus-
+trates that generation is not limited to the referential function, almost
+the inverse of the point that Chomsky himself is making, which is that
+syntax is independent of semantics. But a semantics not of reference
+but in which “all terms are complex,” as Saussure would have it, need
+not separate rule and signification—syntax and referential semantics—
+first, only to attempt to “join” them later. Syntactic and semantic form
+must evolve in, or as part of, the value matrix.
+    Chomsky’s sentence is a performative contradiction: it both stands
+for the idea of the independence of grammar and the meaning of syn-
+tactic structure and undermines that very independence. For it to func-
+tion as he wanted it to, he would need to have assigned it no function
+in his larger argument. Once it has a function, it indexes a meaning—
+“grammatical yet meaningless sentence”—never mind if that meaning
+is “semantic” in the sense of being “actually” colorless or otherwise ad-
+hering to local signifier–signified pairs. Words mean many things; “0.0,”
+in Chomsky’s system, would “merely” indicate the structure at hand,
+race distances arrayed by miles, and could be “merged” with a limited
+number of other words. The semiotic irony that mocks the self-r ighteous
+marathoner will be consigned to E-language, because metalanguage is
+taken to be in operation before signs. Reifying the second-order effect
+of syntax as an independent entity requires us to think of the message
+“0.0” only as a knock-on effect of some mind, rather than as a genuine
+part of this restricted system of signs. Invention can be grasped meta-
+linguistically, but it cannot be generated without putting some signs in
+a sequence and a context.
+    Chomsky is saying something true about language too. We want lan-
+guage to be meaningful, and “colorless green ideas” is initially not mean-
+ingful. But it is not meaningless, either. One can imagine sequences of
+“language” that are actually without meaning—characters out of order,
+for example. But they either are involved in a bid to make sense of
+language—or something else through language—or they are not. Even
+the most brittle sense of syntax has to be indexed from the generation
+of a sequence of words. Chomsky has unwittingly exploited the poetic
+
+                         Computational Meaning                          169
+
+function to isolate the very essence of metalanguage. He is worrying,
+but unable to focalize, the line where language as discovery becomes
+language as knowledge. We might hypothesize that cognition, rather
+than guiding “surface structure” from a “deep” syntactic core, only joins
+language to knowledge at the inclusion point at which meaning is made,
+generated.
+    Here we can see why Jakobson claimed that the poetic and meta-
+linguistic functions were diametrically opposed. Our ability to move
+around in language, to question assignation, value, and structure,
+stands between the poetic function and metalanguage, between gen-
+eration and capture. Assigning a new meaning—especially one so “dis-
+tant” from the usual sense of the words at hand—can be performed
+metalinguistically. But there can be no metalanguage without language.
+Chomksy had to use a sentence to illustrate his point, and that means
+he had to choose some words—in this case, using the principle of lack of
+relation to their normal referents. This was sequential generation with
+metalinguistic application. When Chomsky says that “colorless green
+ideas” is pronounced naturally and in cadence by a speaker, this is the
+poetic function in action. The order of words does not determine gram-
+maticality alone, after all, but probably accounts for the stuttering over
+the “colorless sleep” variant of the sentence. When we generate—or
+even read—words, the stickiness of the poetic function and the knowl-
+edge of syntax blur. I cannot parse “colorless green ideas” in any for-
+mal scansion, but the poetic function is not equivalent to scansion or
+rhyme. Neither sound nor text, nor matrix, is the principle here—we
+have something like a syntactic or cognitive poetics. The “stickiness” of
+this function corresponds to the “natural” way we read it, which then in-
+cludes the metalinguistic designation—which is certainly not an exam-
+ple of any typical grammar function. The poetic function may be what
+makes the join of language and cognition possible.
+    Generation is reflexive. No statements can be made that are not also
+messages about the message itself, whether we feed them into LLMs
+or not. This was the intent of my example about the bumper stickers:
+“26.2” is referential, and then it is suddenly more (or less, “0.0”) because
+it is in a sequence. If there were to be statements that excluded the in-
+ternal relationship of language to itself, they would have to be outside
+language. To think of such a statement, Chomsky had to designate its
+meaning, thereby including it in language. In information-theoretical
+
+170                      Computational Meaning
+
+
+terms, a statement outside language would have to be either fully neces-
+sary (redundancy of 1) or absolutely random (redundancy of 0). Perhaps
+we could show that these modalities exist, but we would then have to do
+so outside language, not including them in the exposition that shows
+their existence. Meaning cannot be designated inside and outside lan-
+guage all at once. And yet it constantly is. By realizing the value-setting
+poetic function in a separate representation system, the LLM demon-
+strates the dialectical core of structuralism. The generation of meaning
+is contradictory in a dynamic sense. It is this primacy of generative con-
+tradiction that allows computation and language to share form.
+    The poetic function is simply the name for this “first order” of lan-
+guage. Grammar, syntax, reference, metalanguage—a ll ways of naming
+other orders. We pull ourselves up to those second-order functions in
+language, but the rope is always words, placed one after another. Struc-
+ture and form, in particular, have often been used in a way that does not
+isolate them from the generated poetic first-order sequences that make
+up language. But we should say even more: that form (along with its
+synonyms) is “within” generation. Meaning is, in this sense, formal, not
+as “independent” of the sequence of words, but as the sequence of words,
+signs bearing meaning. To decode such signs for their referents may be
+the prerogative of cognition, but to continue the chain of interpretants
+is no longer restricted to humans, and our evolutionary niche may gain a
+set of bewildering signals when our cognition is, in turn, conditioned by
+this new chain of interpretants, this generalized poetic function.
+    When Weaver coined “Constantinople fishing nasty pink” (cfnp), he
+was not trying to split language into parts. He was trying to illustrate
+how the density of redundancy is elastic. Phrases that are invented
+in this way, as we saw with Chomsky’s “colorless green ideas,” index
+something—t heir referent. The Constantinople sequence cfnp indexes
+generation itself. It thus metalinguistically refers to the poetic func-
+tion. And by showing that this, and no other, is the way in which lan-
+guage changes, the way in which meaning emerges and adapts, Weaver
+unwittingly wrote down a formal equivalent to the paradoxical num-
+ber g, the paradoxical index in Goedel’s numbering system. Rather
+than indexing the independence of meaning and form as Chomsky did
+with “colorless green ideas,” Weaver assigned a sequence of words to
+the fact that language is generated as a sequence of words. Language
+
+                        Computational Meaning                          171
+
+is sticky or greedy as a system, because whatever is invented—f rom
+within or without—is reinserted into the each-to-a ll valuation of the
+poetic heat map.
+    This internalizing function is both what allows language to range gen-
+erally over any content and what makes a last-instance semiology depend
+on linguistic form. Goedel’s number forces us to realize that there is an
+“outside” to any formal mathematical system. Because formal systems
+are incomplete, they must go outside themselves for each new discovery.
+Goedel’s later life was taken up with attempts to understand this relation-
+ship; cfnp points us not at the outside of language—although certainly
+it suggests there is one—but rather at the force exerted by the internal
+makeup. Goedel’s own interpretation of his results suggests that math-
+ematics must find and include external factors to keep going. Weaver
+shows us how, even if the same is true of language, meaning arises equally
+from internal combination. Anything that is generated can be captured,
+can enter—and does enter—the statistical field, no matter how small its
+relevance. Not only does it not need to come from “outside” but its mean-
+ing cannot be parsed so long as it stays outside.
+    Nothing in language falls outside this force field of internal redun-
+dancy, the poetic heat map. This does not mean that nothing falls outside
+this field—indeed, it would probably be possible to show that something
+must, that language does not exhaust the field of representation. But
+where openness to meaning is based on exteriority in mathematics, at
+least in Goedel’s own understanding of his results, the same openness
+in language is based on interiority.48 The poetic function houses the
+contradiction of containing metalanguage in opposition to itself, and
+this is what allows it to be “about” itself, to indicate itself rather than
+something beyond its sequence. This contradiction opens language to
+meaning and allows it to work with at least one other system of repre-
+sentation successfully: computation.
+    LLMs are the first extensive realization of this shared formal prin-
+ciple, the first encounter between the generativity of computation and
+the generativity of language. They form, for that reason, the basis of an
+empirical study of the interaction of these forms of representation. To
+study what will surely be a proliferation of automated culture of this
+sort, the semiology of multimodal AI, we need a general poetics. A gen-
+eral poetics will study language at this point of meaning generation
+
+172                      Computational Meaning
+
+
+across the difference between its origins—computational and neuro-
+cognitive, in the only two examples we have so far. It will involve literary
+scholars—the only professionals positioned to do this work properly—
+but it will not take literature as its primary examples. Language as such,
+in whatever variety it comes to us, will be its object, insofar as language
+is the matrix of meaning generation.
+    Jakobson wrote that “poetics deals with problems of verbal structure,
+just as the analysis of painting is concerned with pictorial s tructure.
+Since linguistics is the global science of verbal structure, poetics may
+be regarded as an integral part of linguistics.”49 It is time to reverse this
+sentiment. Linguistics, and language generation, must be contained
+in a more general study of the poetic function. Interpretation (making
+words into things) and rhetoric (making things into words) are both
+based in linguistic poiesis. This generation is not in any way limited to
+literary artifacts but is rather—especially in the age of AI—loose in
+our informational wilds. Where rhetorical analysis tends to articulated
+form, the “twists” of language or its tropes, poetics should attend to its
+meaning-generative properties across the difference between human
+and machine, cognitive and computational, divides. General poetics
+should study all forms of capture with respect to generation—a ll forms
+of reference, rhetoric, in short, meaning—in which language is involved.
+LLMs have become the first industrial tool for such study. The varieties
+of generation would be the topic of this general poetics.
+    General poetics would attend to the whole spectrum of meaning
+generation, and surely one of its first results—maybe even a prem-
+ise, intuitively—would be that nearly no meaning is poetry. It would
+be able to treat, as few if any systems have, the list of soccer players
+that Handke made into a poem as a poetic generation in its original con-
+text. The ticker tape messages that play across the bottom of the ESPN
+screen, announcing injuries, scores, and other news items, are just as
+much generation as William Carlos Williams’s poem about the plums.
+There is rather more of the former type of generation than the latter.
+Most meaning is “mean,” takes furtive shape in common alleys and tun-
+nels of language. If art is the achievement of culture, general poetics
+would take culture itself seriously. And it would find that language does
+not regress naturally to a state of art but rather to an average poetics of
+normal, banal generation, the usual name for which is ideology—and
+this is the topic to which we now turn.

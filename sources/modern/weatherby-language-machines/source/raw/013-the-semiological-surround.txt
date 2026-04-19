@@ -1,0 +1,846 @@
+      3
+
+
+The Semiological Surround,
+or How Language Is the Medium
+of Computation
+
+Deep learning classifies and generates. Its history has involved the discov-
+ery of just a handful of functions that iterate over large amounts of data
+and isolate, or model, patterns in those data. From those patterns it may
+answer a question of identification—“ is there a cat in this image?”—or
+a question that requires a prediction of the sort “what is the next unit in
+this sequence?” These functions are now a fundamental part of the digi-
+tal surround. We live with constant classification—of handwritten num-
+bers, of faces, of emotions—and now generation—of i mages, of choices
+and strategies, and of language.
+    I call this situation the semiological surround, retooling the term
+invented by Saussure to describe a doctrine of social signification in
+which language is primary. In both classification and generation, lan-
+guage mediates computation. In classifying tasks, either images must
+be labeled for “supervised learning” or we must later decide on a seman-
+tic value, indexed to a threshold, for what the machine does without
+labels (“unsuperv ised” learning). This is linguistic governance of the
+process for the purposes of understanding or action. In generation,
+something more directly linguistic is occurring. This is semiology in the
+strong sense, in which rules of language as a sign-system filter other
+types of signs, other data. In cases like image generators, which deploy
+LLM-generated data sets of pairs of images and words, the point is per-
+haps most obvious. When you see the astronaut riding on a unicorn on
+the moon, you are looking at a text-generated image. But the same is true
+whenever an LLM is used to predict who is a member of a gang, what
+target to hit in a war, or how a protein folds.
+    We have lived for some time with what the media theorist Friedrich
+Kittler called a computational “grammatology”; now the fact that lan-
+guage must ultimately mediate our cognition has come back to the fore.
+This chapter argues that classifiers, which appear to give us information
+
+
+                                    101
+
+102                   The Semiological Surround
+
+
+about the world, only frame hypotheses supervised by language, while
+generation relies on the structure of language to produce culture. The
+confusion of tongues in the digital order comes down to this structural
+governance, the semiology of the artificial sign. Where classifiers merely
+indicate possible objects, judgments, or patterns, generators make those
+patterns. Their semiotic activity is iconic, so that the question becomes
+what structure they draw that iconicity from.
+    As we saw in chapter 1, Ferdinand de Saussure attempted to put
+linguistics on a firm scientific basis by treating language as an autono-
+mous system, neither psychology nor history nor physiology. To do so,
+he needed to say what language was instead of mental content, philol-
+ogy, or neural activity. He argued that language was made of signs and
+that therefore linguistics would be part of a “science that studies the
+life of signs within society,” to be called “semiology,” after the Greek
+semeion, “sign.” Linguistics would be just one branch of this study, which
+might include gesture, song, and in general “the mass of anthropological
+facts.”1 The idea was to separate off the process of signification from
+sciences that use that signification naively. But Saussure went one step
+further, arguing that
+
+   signs that are wholly arbitrary realize better than the others
+   the ideal of the semiological process; that is why language, the
+   most complex and universal of all systems of expression, is also
+   the most characteristic; in this sense linguistics can become the
+   master-pattern for all branches of semiology although language is
+   only one particular semiological system.2
+
+Here Saussure suggests something like a symbolic bias, a tendency for
+the other systems of signs to find final expression, or the sense of their
+meaning, through placement in an arbitrary system of signs. Language
+is the “master-pattern” for semiology despite being a single branch of
+the science, because the process of “valuation”—which we saw in chap-
+ter 1 and which plays a crucial role in chapter 5—can only make sense
+when signs are separated from their “origins.” So long as sensation, or
+gesture, remains outside the filtration system of arbitrary signs, it re-
+mains unvalued, underdetermined. This is not to devalue such systems,
+but to point to the human tendency to express them in a more “final”
+
+                       The Semiological Surround                        103
+
+semantic form. Semiology is the study of this semantic end point, the
+inclusion of all other values in the grid of language.
+    If there is a bias for the “arbitrary” sign, we might look also to num-
+bers, those other symbolic tokens. And indeed, in a larger sense, this
+is what LLMs are forcing us to do now, as we shall see. Language is the
+“end point” of meaning—capable of both generation and governance of
+any and all meaning—precisely because it is arbitrary in this sense. But
+this very arbitrariness, as structuralism always insisted, somehow also
+creates an “all roads lead to Rome” situation. Language is not thought or
+meaning as such, but I cannot convey this fact outside of language. Se-
+miology is an ontological bear hug for the order of all things significant.3
+    Structuralist semiology makes no pronouncements on the absolute
+value of language, despite appearances. Rather, it takes very seriously
+the plain fact that text is the dominant medium of human civiliza-
+tion, the tracks on which government, market, and culture all run. We
+owe the best elaboration of this relative evaluation to date to Roland
+Barthes, who argued that “we are, . . . despite the spread of a pictorial
+illustration, a civilization of the written word.”4 This claim can appear
+outdated today, after decades of the creation and global spread of a pa-
+tently computational civilization. Yet it is not so clear that what Barthes
+calls the “reduplication” of iconic messages—such that “at least a part
+of the iconic message is, in terms of structural relationship, either re-
+dundant or taken up by the linguistic system”—has changed at the level
+of mediation. He writes that “collections of objects (clothes, food), they
+pass through the relay of language, which extracts their signifiers (in
+the form of nomenclature) and names their signifieds (in the forms of
+usages or reasons).”5 These words were written before the rise of digital
+mediation, and it has been tempting in the interim to think that text is
+fading in importance as computation and its new regime of images has
+proliferated.
+    There is a strong temptation to abandon the textual basis of semiol-
+ogy today, as interface effects abound in image effects delivered at un-
+precedented cultural speed. Yet I cannot agree with Anna Kornbluh’s
+recent claim that the symbolic order has ceded primary ground to the
+imaginary.6 The symbolic ability to create what she calls “immediacy”
+in a too-fast circulatory system of goods and signs still largely relies
+on the never-ending relay between numbers and words, in which the
+
+104                    The Semiological Surround
+
+
+relationship between the structure of language and the density of vec-
+tors has become the most pressing question. Even as the “style” of plat-
+form capitalism exacerbates the very tendencies that Kornbluh picks
+out, the underlying generative core is text and computation, now in a
+synthesis we could not suspect even during the spread of the commer-
+cial internet and social media. As Beatrice Fazi has argued, generative AI
+produces a synthesis of “unity without totality” as a structuralist “form”
+of thought.7 While I make no conclusion about thinking in this book,
+the promise of Fazi’s idea of form here is that it connects the computa-
+tional regime of the signifier to cognition. LLMs present us with some-
+thing like the pure symbolic order and are set to make other media and
+their effects dependent on that order in an unprecedented manner. To
+make sense of a semiology coconsituted as language and computation,
+we need a semiotic interpretation of the two dominant types of neural
+net, the classifier and the generator. In both cases, language is crucial, as
+it supervises classification and forms the matrix of generation.
+
+
+The Data Hypothesis
+There is a long-standing philosopheme that asks if there can be a total
+representational system that automatically captures all truth. The phi-
+losopher Gottfried Wilhelm Leibniz proposed a “rational calculus” in
+the seventeenth century by which one could solve moral dilemmas as
+though they were math problems. Carnap, whom we have already met,
+dreamed of something similar, and his Vienna School compatriot Otto
+Neurath even invented a visual language that was meant to be univer-
+sally understood. Machine learning has given fresh life to this fantasy,
+with claims of a “master algorithm” on the near horizon and the notion
+that hypothesis itself could be automated, handing science entirely over
+to the machines, back in the public eye.8 An interesting feature of the
+new universal language fantasy that has sprouted from the success of
+deep learning is that it no longer really imagines that we will have clar-
+ity. For Leibniz as for Carnap, the whole point was that one would see
+the truth because of the fit between ratiocination and world. Today, we
+dream of getting answers we can be sure are true, but only vaguely that
+we would possess that truth personally. Even dreams of divine knowl-
+edge have been handed over to the algorithm.
+    If, on the one hand, we have fantasies of total data transparency, on
+
+                       The Semiological Surround                         105
+
+the other, we have AI critique suggesting that data are wrong, violent,
+and generally bad. The overall line of this critique stems from phenom-
+enology, which offers bright lines between context-knowing, embodied
+humans, and abstract machines that have no body, no context, and no
+“situation” in which they are embedded.9 The problem with this frame-
+work is that it tends to treat representation as “merely ideal” and so
+is unable to deal with the material and concrete effects of computing
+systems—a strange error to find in this particular theoretical location.
+The result is a lot of dualistic noise, suggesting that computers and data
+“slice up” and “abstract from” local, embodied realities. But whatever we
+think embodiment is, it is tied up with abstraction. There is no absolute
+singularity of life. Computing is something humans did and do, just as
+other representation systems are. I tend in this respect to follow Justin
+Joque, who says that rather than reject abstraction because it is alienat-
+ing, we should use computation to produce “more alienation.”10 Dualism
+is remainder humanism and does little to fight the nightmare of the
+total data transparency fantasy. The answer is semiology.
+    Two broad types of deep learning systems have gained major traction
+over the last two decades. One is classifiers, worked out and elaborated
+primarily as image classifiers, although they can be extended to other
+media. The other is generators, as we have already seen. Classification
+is a misnomer, I argue, because it suggests that these AI systems actu-
+ally render judgments by means of induction from empirical data. They
+do simulate those judgments, but what they first and foremost render
+is hypotheses, possibilities based on a complex interaction of different
+orders of signs. I therefore suggest that, to the extent that we live in a
+machine-classified world, we contend with the “data hypothesis” as a
+semiotic surround, a digital environment of semiological abstraction,
+rife with error and bias but nonetheless all too real as a remediation of
+our understanding of the world—because it is part of that world. Lan-
+guage supervises this classification process and holds it out as possible,
+but always only possible.
+    But this is changing. Generative AI cannot be divided into the hypotheti
+cal and the real, the factual and the counterfactual. Generation really
+engages the media it generates, and it does this by flipping the data of
+classification on its head. It makes icons out of symbols. The giant, in-
+scrutable computation that classifies an image is the desired information
+in a generator. A classifier says yes or no; a generator puts content on
+
+106                     The Semiological Surround
+
+
+the table. The classifier uses all that computation to get you a label, an
+answer, a category. The generator gives you the computation, one piece
+at a time, in whatever way you ask for it. Language is involved in both,
+in essential ways. In a classifier, it is the labels. In a generator, it is the
+engine. Language supervises classification, but it is the matrix of gen-
+eration. Governance and expression are both semiological in the digital
+surround.
+    To think nets, and their absorption of language, we must have tech-
+nical awareness on both sides of the interface. This chapter presents nets
+as hypothesis creators and tries to show how language itself enables
+them to generate anything, including language. This project involves a
+certain amount of technical detail about how nets work, but it should
+prove easy enough to follow—and, I hope, clarifying—even for those
+not motivated primarily by the desire to understand digital media.
+    Where classical AI focused on the notion of “physical symbol sys-
+tems” and the logical manipulation of their symbols,11 machine learning
+recalls instead the work of Jean Piaget, the idea of the emergence of
+abstraction from perception in John Locke,12 and, perhaps above all,
+the empirically grounded programs of American pragmatism—as the
+philosopher Catherine Malabou has emphasized.13 What these figures
+share is a focus on empiricism, learning, and emergence—as opposed
+to logic, form, and stability. They are invoked because nets are said to
+“learn,” in an open-ended process of scouring and reconfiguring train-
+ing data until something like a generality is achieved. At first glance,
+then, the shift seems to be from a symbolic deduction to observational
+induction—the power of the net is that its semantic range is indetermi-
+nate with respect to its inputs, where symbolic AI had to prestabilize
+the value of its symbols, making them semantically rigid, in order to
+function at all. When we attend not just to the “abstraction” but to the
+overlay of representation systems that actually constitutes AI systems,
+a slightly different picture emerges.
+    Malabou has also argued that nets “renegotiate” the border between
+the transcendental and the empirical.14 This is a formula that Gilbert
+Simondon applied to the living and that has been influential in recent
+ theory of technology.15 The idea goes back at least as far as Theodor
+ Adorno and Max Horkheimer, who argued that film alters the “sche-
+ matism” that Immanuel Kant had constructed to mesh concepts and
+ intuitions into recognizable objects.16 The post-Simondon idea is that
+ technology presents a “tertiary protention,” a synthetic, form-creating
+
+                        The Semiological Surround                        107
+
+
+
+
+Figure 6. Diagram of a neural net. Image from Yann LeCun, Y. Bengio, and
+Geoffrey Hinton, “Deep Learning,” Nature 521 (May 28, 2015): 436–44,
+ https://doi.org/10.1038/nature14539.
+
+
+force where earlier philosophers had seen it only as a repository, a data
+base, a tablet.17 One can see why nets give plausibility to this idea,
+because “generation” might be taken as a plainer way of stating this
+Simondonian tenet. But this does not sync easily with the invocation of
+ induction, experience, and learning.
+     Nets are mathematical functions that take a large number of individ-
+ ual data points as inputs—these can range from hundreds to trillions,
+ in the case of LLMs. They then multiply these data points through a
+ matrix by initially randomized weights, at first leading to an obviously
+ false answer.
+     Say we want to train a net to recognize squirrels in digital images. We
+ would create a data set of images, some of which contain squirrels and
+ all of which are labeled “squirrel” or “no squirrel.” (Massive amounts of
+ labeling efforts have been done by cheaply paid Mechanical Turk work-
+ ers on Amazon’s platform.) We input data and ask for an answer. The net
+ receives the image as pixels, laid out in vectors, so that the net is a ma-
+ trix that multiplies the values of the images through a series of “layers,”
+ at each of which a random weight is assigned. (There is also a nonlinear
+ function that makes the function work, and added bias, for technical
+ reasons.) So we put in an image of a squirrel and ask it to run the data
+ through this weight matrix, which is just a very large series of vector
+ multiplications (which is why these systems run on GPUs, driving the
+ hardware capital push we have recently seen). The answer we first get is
+ wildly wrong—and we want it to be. If it were right, the net would not
+ be identifying “squirrel” but just this image of a squirrel. If we were to
+
+108                    The Semiological Surround
+
+
+reconstruct the data in the matrix as an image, it would be gibberish.
+Nets have to be wrong before they can be right.
+    The next step was invented in the 1980s. Following the “forward pass”
+of the data, the result is “passed back” through the weights, one node at
+a time, and the “backpropagation algorithm” (based on the chain rule
+of calculus) finds local errors, assigning more and less “blame” for the
+wrong answer to each cell.18 The process is repeated—full training cy-
+cles are called “epochs”—until the loss is minimized, and the result, in
+this case, is a squirrel-identifier.
+    The most important thing to see is that no one is hand engineering
+the computation of the data (although the overall function is designed,
+its performance is only “steered” by shifting hyperparameters). It’s
+worth emphasizing this point: as I learned about these functions, I
+looked for years for the point at which someone was manually inter-
+vening in this scheme to “understand” what was going on, to pick the
+“concept” or “image” of the squirrel out of the data. Nothing of this kind
+happens. One can tune these systems and watch the error fall away. One
+can pick different known functions that work better, more or less, in
+different contexts. But no one “sees” what’s going on. And not because
+nets are black boxes but because they only work if the “answer” isn’t
+given, either to the human or to the machine. If we know the concept
+in advance, learning isn’t possible. This is why the net sits on the border
+between induction and something more, the hypothetical. When it rec-
+ognizes an image, that’s because we’ve “supervised” the images we’ve
+fed it in the labeling process. But we’re asking it for something we don’t
+already have: a quantitative formula of “squirrelness,” a function that
+defines what it is to be a pixelated squirrel.
+    The identifier has now stabilized a pattern that corresponds to the
+concept “squirrel” and is more accurate than human eyes are at locating
+them. A famous example shows that a trained net is better at distin-
+guishing a Samoyed dog from a white wolf than humans are. This capac-
+ity is significant in the case of radiography, for example, where shadows
+and tumors are finely distinct. And it would indeed then appear that the
+net has created an abstraction, performing induction on a large num-
+ber of examples and producing some function f(x) that predicts—or
+“is”—“squirrel.”
+    This difference corresponds to a classical distinction made by the
+American pragmatist Charles Sanders Peirce.19 Induction goes from
+cases (answers) and results (data) to rules. The net does this because
+
+                       The Semiological Surround                        109
+
+the results are given to it in the training set (“these images contain
+squirrels”). When we ask the net to classify once it has been trained,
+we are demanding a deduction, in which rule (“squirrel = f(x)”) and data
+(previously unseen images) are given, and the answer should be “this
+image does (or does not) contain a squirrel.” Because we have already
+seen that nets suffer from the “symbol grounding problem,” we can no-
+tice already here that the induction is performed entirely within the
+logic of the image. This fact is somehow both constantly emphasized and
+completely trivialized in most frameworks for thinking about nets. The
+going idea seems to be that the net’s alleged induction gets more “right”
+as the number of images increases, with the underlying but unstated
+assumption being that very large amounts of image data correspond
+better to the world than smaller amounts. That is quite obviously cor-
+rect, and yet it is not the truth we need. Where nets perform induction
+within the logic of pixels, the also-internal reference that pixels make
+to the world—whatever we take this to mean, images have a referen-
+tial function—does not fall under the induction. The interface between
+nets and whatever “world” we hold in common in our representations
+is hypothetical—the join of the hypothesis to the “world” is the word,
+the label and then the acceptance of that label as identity. Classification
+makes the semiological surround a matter of hypotheticals.
+     What is actually happening in a classifying net, then, is hypothesis
+(or, in Peirce’s terms, “abduction”). Luciana Parisi has argued exten-
+sively that this is the true function of the nets and that this function is
+what allows it to be generative, “protentive,” more than just an applied
+formalism.20 I follow Parisi here, with the goal of showing why the inter-
+locking systems of representation of inferential rule and computational
+design can be synthesized. All data are hypothetical; we live not in a
+digital dream of transparency but in a data hypothesis.
+     In the hypothesis, the rule and the result are combined to conclude
+the case. The hypothesis says “what I see here must be a case of this rule”
+or “this observation tends to make me think that the world conforms to
+this rule.” A “weak” form of judgment, hypotheses are used where the
+rule is clear but the relationship between rule and result is not given.
+Peirce gives the example of fish fossils being found far inland—the
+data (fossils) and the rule (fish are aquatic) are given, but their relation
+is lacking, so we form the notion that the “sea once washed over the
+land.”21 For Peirce, the hypothesis is far more common than we tend
+to assume. For example, all historical judgments are hypothetical. No
+
+110                    The Semiological Surround
+
+
+one alive has ever seen the man “Napoleon,” for example, but the data
+(images and documents of him) and the rule (that documents and im-
+ages are of existing entities) suggest that he really existed (the case).
+Perhaps we can go further and say that this hypothesis takes the form
+“the world is as if Napoleon, with all we know of him, lived in it.” We rea-
+son about his personal existence from documents, but we reason about
+Napoleon the conqueror based on the geopolitical landscape he left in
+his imperial wake. The “weakness” of the hypothesis is what allows our
+cognition to exceed the binary between unfree induction and necessary
+yet empty deductions spinning in a frictionless void. What we are ex-
+tending in the net is what makes it so that every deduction has some
+minimal purchase and every induction is imperfectly redundant. We
+are engaging a shadow realm of the consistency of concepts themselves,
+constituted as data signs.
+    When we ask the net to classify, we are indeed seeking a determinate
+result: this is (or is not) an image of a squirrel. But to describe the net
+as trained inductively to classify deductively is to miss the data–world
+relationship about which the net is actually proposing something. This
+relationship underlies the obsessive question of the “intelligence” dis-
+course, but that discourse never focuses on the semiotics of the judg-
+ments actually being performed by these nets. The net actually gives us
+a hypothetical (“this could be a case of squirrelness”). This is important
+to bear in mind, because the net’s squirrel function is not equivalent to
+the human concept “squirrel,” for two reasons.
+    First, the function that the net produces, f(x), cannot be better at
+recognizing squirrel-like pixels than humans if it is identical to our
+procedure for squirrel recognition. Yet a function is a concept, as Frege
+famously argued, only when it has a truth-value.22 The truth-value in
+this case is supplied not by the net but by the relationship between the
+net’s hypothesis and human judgment. That is, what produces the de-
+terminate judgment “this is a squirrel” is a relationship between data
+and judgment, between the human manner of engaging the represen-
+tation system in question and its computational counterpart. Note that
+I do not say “between data and the world”: the net hypothesizes a judg-
+ment, and that judgment is about the world. Determination is extended
+here, and it is crucial that we not collapse that extension in describing
+the activity of the net. It hypothesizes not about the world but about
+potential judgmental relationships that could describe the world. If we
+
+                       The Semiological Surround                         111
+
+accept its judgment (even automatically), we are integrating hypothe-
+ses into our representation of the world. The data hypothesis alters the
+structure of representation. When we say that the net “classifies,” we
+are talking about an interpretation of the net’s hypothetical judgment
+(“this would be a squirrel if squirrelness = f(x),” “this is a case of squir-
+rel in a world in which f(x) is squirrelness,” “this image contains f(x)”)
+as a determinate judgment. The net may even be programmed to print
+the string “yes, this image contains a squirrel,” but the underlying judg-
+ment is still hypothetical, not “this is a squirrel” but “this could be a
+case of squirrelness.” This is important not because the net is “wrong”
+about the squirrel in the image; nets are better than humans at detect-
+ing minor pixel-level differences. It is important because the entirety
+of neural net–based judgments is a hypothesis about the relationship
+between the world (“squirrel”) and data (“f(x)”). We miss this when we
+confuse the net’s actual semiotic activity with the language into which
+we translate it (or program it to pretranslate for us). By spreading the
+hypothetical capacity of the net through the already-constituted digital
+semiology that pervades daily life, we have created a kind of sublunar
+animatronic expectation, the anticipation that the world is computa-
+tional and will react to our desires in demediated ways. But the truth
+of that situation is a welter of moving signs, a map laid over the world
+made up of text and vectors, a dialectic of judgment in which we cannot
+see even provisional conceptual shapes.
+    When we hypothesize, we posit that the world coheres in such a way
+that a specific case exists. The world in which we live is one in which
+Napoleon existed. The world in which we live is one that behaves as if we
+landed on the moon. (It is this little wedge between determination and
+possibility [“as if”] that allows us to reverse hypotheses like the moon
+landing.) A more than hypothetical establishment of fact is impossible
+in terms of science, so it is not to the detriment of the net’s capacities
+that we notice this distinction. Induction, we might say, always rests
+on hypothesis, even if it works in localized environments like that of
+the pixel.
+    The distinction allows us to see the interface between the net’s hy-
+pothesis and our own judgment—the result of which can of course be, in
+turn, anything from denial to affirmation to hypothesis itself. The point
+is not that nets “can’t do x” but rather what nets actually do, and that
+they actually do it in semiotic combination with our own judgments.
+
+112                     The Semiological Surround
+
+
+Inferences that make up empirical claims rest on a computational in-
+duction presented as a hypothesis. But the hypothesis is usually smug-
+gled in, glossed over, hidden from view. This is the actual black box
+effect, and it has nothing to do with the net, the math, the hardware. To
+pierce it, all that is required is attention to the surface of the interaction,
+which is a semiotic overlay. The semiotics of nets are not equivalent to
+the semantics that humans ask nets to produce. What nets mean is up
+to us, because what they say is hypothetical. But “up to us” means in-
+tegrated into preexisting grooves of meaning and recognition. When
+“we” impose or recognize meaning, it is not as psychological individuals
+randomly assigning qualitative value to signs. Nets give us options for
+interpretation, but interpretation isn’t voluntary. Nets give us forceful
+hypotheses not because we collectively accept them but because they
+run on the collective systems of signs that already have the force of so-
+cial value in them. The social system of judgment is mirrored and then
+extended into uncanny statistical regions in the hypothetical activity
+of the net.
+    This is what I call the data hypothesis. It is both the hypothesis that
+data can be used to represent and meaningfully engage the undatafied
+world—a fact that is demonstrated as much by our fear of harm as it is
+by cases of success—and the fact that data used for learning in this way
+are always hypothetical (I propose the data hypothesis as an alternative
+to the “cybernetic hypothesis,”23 which appears to me to take the digi
+tal transparency dream too seriously). Data represent not “the world”
+but instead sets of judgments about the world, a fact that is captured
+elegantly in the name for the discipline in which nets were engineered:
+representation learning. How much “world” is in a representation is per-
+haps the metaphysical question of modern thought, and its silhouette is
+visible throughout the discourse of deep learning. Yet data science tends
+to use a simplified notion of “ground truth”—and critics have hardly re-
+sisted the metaphor, as we have seen—that the data hypothesis in this
+double sense undermines. “Ground truth” is not “fact” but a separate
+representation of fact in another semiotic system (usually language as
+expressive of concepts). The point is not that we cannot stabilize nets
+around accepted notions of truthful statements but rather that when
+we do, we are black-boxing the dialogue between computation and lan-
+guage that underlies all nets (including in visual applications). When-
+ever we think in dualisms about digital systems—body and abstraction,
+
+                       The Semiological Surround                       113
+
+online and offline, cyberspace and meatspace—we are forgetting the
+data hypothesis and looking past the complex interpretive surface to a
+depth that does not exist. All the ghosts of AI live in this depth, and all
+the analysis we can achieve lives on the surface.
+   My proposal for the “data hypothesis” is meant to sync with Orit
+Halpern’s notion of “beautiful data,” which shows how the dream of the
+net, long before its algorithmic implementation, already configured a
+world in which data streams are mutually interoperable and translat-
+able, one that mimics the notion of the brain as such a transfer station,
+but then distributed into the world, forming an aesthetic condition.24
+Many things follow from that condition, including Halpern’s notion of
+“derivativeness” in what we have called “surplus data”25 and what she
+further calls the “smartness mandate.”26 Work on data is “derivative”
+in the sense that a result obtained not from first-order empirical ob-
+servation but from a representation of those observations is fed back
+into the world through logistical channels, rendering the very world we
+encounter “derivative” of the data that were supposed to be a represen-
+tation of that world. This feedback loop tends to render all judgment
+hypothetical. Rather than a world of stable fact about which hypotheses
+are made, the world of beautiful data looks more like a serial hypothesis
+from which the “world” is first crystallized in its (usually overlooked)
+semiotic transformation with human systems of representation. As
+Ramon Amaro has shown, race is one such derivative. Using Frantz
+Fanon’s notion of “sociogeny,” which Amaro brilliantly points out is
+comparable to the machine learning production, he is able to extend
+the “bias” discussion far beyond its usual limits.27 What Sylvia Wynter,
+similarly invoking sociogeny, called “man 2,” the constant symbolic
+feedback-based construction of race in the modern era,28 gains an au-
+tomatic extension and therefore falls directly into the problematic of
+net semiosis in the data-hypothetical surround. The common channel of
+finance, race, and computation is language. The data hypothesis already
+contains language as a governing function, the start and end points of
+any series of signs in their purchase on the world. This is the platform in
+which generation becomes powerful beyond any critique—cognitive or
+political—about its lack of fidelity to human creativity or truth making.
+Generation need only amplify the standing semiological order to gain
+entry; once there, it retroactively forces the question of how signifying
+orders merge and how linguistic and computational forms get along.
+
+114                    The Semiological Surround
+
+
+Language Supervises Classification;
+Language Is the Matrix of Generation
+A great deal of the confusion over LLMs boils down to the simple fact
+that language is the medium through which humans communicate
+with their computational machines. This has always been true. When
+Friedrich Kittler infamously called an essay “There Is No Software,”
+ what he actually argued was that “[software] would not exist if computer
+ systems did not—at least until now—need to coexist with an environ-
+ ment of everyday languages.”29 This phrasing makes it sound as though
+ computing systems can take or leave language, but that is not the case.
+ Language does not merely “coexist” with computational systems—one
+ need look no further than the input/output unit included in the “First
+ Draft of a Report on the Edvac” assembled by John von Neumann (and
+ generally taken to be the first explicit architecture for a stored-program
+ computer) to see that no digital system has ever been “computational”
+ in the absence of the linguistic environment.30 It is all too easy to think
+ of the edge of the diagram, which often reads “I/O” for “input/output,”
+ as not really of the computer. But it is very hard to accept what would fol-
+ low, namely, a “computer” that does not render its computations at all, a
+ true black box that could just as well be a slab of granite as a calculating
+ engine. The relationship between computation and language is essential
+ to every digital machine, a fact that was never successfully mapped by
+ the symbolist/GOFAI versus connectionism/machine learning debate.
+ Language and number may not get along in concepts or intuitions, and
+ they may even contradict one another in some essential way or ways.
+ Kittler seems to suggest that they are forced into a relationship that
+ obscures the computational core of the computer. But it is rather their
+ internal relationship that allows for computing in the first place. They
+ are not grafted onto each other using some third thing (the name of
+ which K ittler leaves out anyway).31 Just in the way that mathematics is
+ the explanation of (among other things) numerical reasoning, comput-
+ ing is the rendering of linguistically meaningful results. Language is the
+ medium of computation.
+     As the medium of computation in general, in the case of neural nets,
+ language supervises classification. This statement is true for non
+ machine categories too, but it is too easily forgotten when computation
+ distracts us from language. If it is hard to distinguish the simulation of
+
+                       The Semiological Surround                       115
+
+induction and deduction in nets from their hypothetical core, it is even
+harder—and perhaps impossible—to separate their manipulation of
+language from language itself. This is because the role that labeling plays
+in classifying nets is taken over by language itself in LLMs. Linguistic
+applications in nets abandon the operation of supervision (the labeling
+of squirrels by hand in the training data set) to arrive at basic results,
+instead using the learning function to generate language, one word at
+a time. This inversion is crucial to thinking with AI, because it collapses
+the computation and its “environment”—the results of the computa
+tion are language itself. Where an image-c lassifying net produces a
+function that obviously is not the same as our conceptual grasp of the
+object at hand, a language-learning net learns to generate nothing other
+than language. The computational reproducibility of language is para
+sitic on language itself, a complication we will only fully confront at the
+end of this book. But the complication is already active at this stage
+of analysis: attempts to distinguish in some essential way between the
+“real” language of humans and the merely “apparent” language of nets
+make little sense on their face and have disastrous c onsequences—as
+we shall see—for the analysis of these systems.
+    Nets learn language. The data in the image-processing net comprise
+disaggregated icons, pixels representing color and place values that
+can be repainted but only categorized by labels. The data in an LLM are
+language—words, strings, tokens. When the numbers are converted
+back to those strings, they are language. When the inversion of the clas-
+sification function was first deployed, it led to the “hallucinations” of
+Google Dream and was constantly compared to psychedelic painting.
+Nets that process language run on this inversion as such. This is because
+the classification function would make no sense in the case of language.
+Why would anyone train a net on a linguistic data set, then put in the
+word “ideology” and ask the net “is this the word ideology?” The ab-
+straction that nets achieve—whether by induction or hypothesis—is
+baked into the data when the data are language. Type and token already
+correspond in language and in fact do not need to be separated in the
+first instance.
+    Language supervises classification, and language is the matrix of gen-
+eration; these are the facts of the media situation of the present. We
+often hear that nets can work on any sets of data, creating robust, large-
+scale correlations. And that is true, of course.32 But the transformer
+
+116                    The Semiological Surround
+
+
+architecture—which to date is the only really successful generative pro-
+gram for language—must be applied to data that do not need their own
+labeling. What it does, which I will describe later, could also be used on
+any data sets with some internal structure. But what would the use be of
+an unsupervised set of correlations at the scale of hundreds of billions
+or trillions of units? And if it is labeled, then it will be supervised by
+language. Manual labeling of this scale of data set is prohibitive, and
+automatic labeling will almost certainly rely on LLMs of some sort. All
+representation leads back to language in computational representation
+systems. Representation systems that are prelabeled in or as language
+can be roped into use c ases. The internal world of LLMs is semiological:
+language comes first and last, supervises and generates.
+    The breakthrough that led to the current explosion of generative AI
+is called the “attention mechanism,” which underlies the transformer
+architecture, the T in GPT. The basis of the breakthrough—and of the
+following account—was the “attention mechanism.”33 The mechanism
+is diagrammed in Figure 1 in the introduction. Attention overcomes a
+problem that the net approach to AI had always had in linguistic ap-
+plications, namely, the problem of memory. Humans do not memorize
+language; they use it. I do not have a static store of all the sentences
+I’ve heard or read in my mind. I use language in the sense that I generate
+meaning from the combination of rules (grammar) and other meanings
+(words in grammatical context). The relationship between meaning and
+rules does not become explicit by that use. Meaning surfaces but does
+not explain itself.
+    Early net-based approaches to language relied on memorization
+(storage) over a sequence, leading to problems of misapplication, mem-
+ory overload, and irrelevance. The most general format was the recur-
+rent neural net (RNN),34 in which the output of the net was fed back
+in as input, allowing the net to capture some of the structure in the
+linguistic strings. But this quickly maxed out the memory capacity of
+the grid and led to spotty language use as the net “forgot” pieces and
+rules of language that were distant from its current input. The creation
+of variably ranging memory in LSTM (long short-term memory) solved
+part of this problem but also hit barriers.35 The attention mechanism
+solves this problem by allowing the net to encode a one-to-a ll matrix
+for each word in the data set. By including the positions of the words in
+the “embedding” process (in which words are indexed to numbers), the
+
+                      The Semiological Surround                       117
+
+problem of memory is solved by packaging the semantic relationships
+and their grammatical layout in a single “pretraining.” Rather than jam-
+ming rules and words into some location, the net is allowed to “attend”
+to real possibilities to which to move from its current word.
+    One can think of this like a set of patterns preprogrammed into a
+grid of lights. Touch one light, and one shape turns on; touch another,
+and some other shape lights up. “Attend” to one word, and the grid’s val-
+ues shift to specify each other word’s likelihood to be next. If the word
+to which I am attending is see and the word before it is I, then nouns of
+all kinds and the word that will light up, meaning their value will range
+high. This set of higher values given a word in a sequence will be pooled
+by a “temperature” feature—turned too high, this will produce too pre-
+dictable a text, and too low, nonsense. But the Goldilocks temperature
+will produce the very “everyday language” that the computation would
+otherwise have as its environment.36
+    The larger grid is massive, approximately fifty thousand tokens
+(not all words, so that particles like -ing can be placed correctly, and
+all learned by the weights) in the case of GPT-3, which was trained on
+about one trillion tokens scraped from the web.37 The attention mech-
+anism itself operates by creating three separate vectors (keys, queries,
+and values) over a fixed length of text, then narrowing the potential
+output on the basis of that calculation. In the resulting compression, if
+the word the occurs, virtually any noun is a candidate to follow. But the
+attention mechanism isolates a context so that the value of the word
+prediction (in this book, for example) remains above the threshold, while
+the word strawberry is much less likely. But note that the word straw-
+berry just did occur in this text—this is the problem that earlier models
+could not solve and that LLMs seem to have. A discussion of computa-
+tional language seems not to invite the word strawberry, but language
+is not mechanically localized in this manner. Strawberry might occur
+meaningfully in virtually any linguistic context, and one may note that
+the first text on AI, Turing’s 1950 paper “Computing Machinery and In-
+telligence,” posed the question whether a machine could perhaps enjoy
+strawberries and cream. Context is a highly relative concept with no
+fixed borders. What LLMs do is generate language by reference to the
+whole with respect to the part. They more or less prove one of Claude
+Shannon’s foundational assumptions about language as an informa-
+tion system, which is that it is ergodic: a long enough string reproduces
+
+118                    The Semiological Surround
+
+
+the probabilities of the whole. But it is actually the relation of part and
+whole that proves crucial.
+   At the top of the attention diagram, one can see the function soft-
+max. This simple tool separates the values assigned to tokens by raising
+some close to 1 and leveling the others close to 0. Justie and I described
+this function as “indexical,”38 because it isolates and points to the final
+candidate pool, ultimately allowing a single word to be pushed into
+the next spot in the sequence. The pretraining process, together with the
+attention mechanism, produces the pool of next words. The so-called
+fine-tuning process, which takes the balance between whole and part
+and specifies some target text set and/or function to specify the net,
+then allows this general capacity to be targeted. Fine-tuning on a cor-
+pus of novels, for example, should make a novel-producer. In the case of
+ChatGPT, as previously mentioned, the refinement was even expanded
+by reinforcement learning from human feedback (RLHF), with scores
+for good and bad answers fed back in. Models abound with specific fine-
+tuned features: to write novels, to make recipes, to write code.
+   Up to the present, there is no “classifying” function in or for LLMs.
+The net produces, but does not tell us rules about, language. It uses lan-
+guage. The underlying mechanism is surely different in kind from the
+human use of language, but the property of generating meaning from
+the combination of rules and other meaning is the same. And here we
+can see why Chomsky, Bender, and LeCun are missing something cru-
+cial. The only way to separate the “human” and “machine” versions of
+language is to assume that language is primarily something other than
+meaningful strings of words—syntax, for example, or reference, or in-
+tent. If language is not really language unless it grasps or communicates
+truth, then LLMs can safely be seen as toys. But these proposals exclude
+some massive portion of human-generated language. If I miss some-
+one’s intent in responding, is that not language? If I make a ground-
+ing error—this is not a birch tree but an aspen—is this not language?
+Language is the margin in which the fantastic demand that AI be inhu-
+manly right and authentically wrong flourishes—but the dream must
+also find us waking in that very margin, where capture and generation
+are synthesized, where language is words on a page, material configura-
+tion, and intent, reference, and the rest of it. No theory of meaning can
+afford to pick this synthesis apart and start from just one side. “Syn-
+thetic text” is a tautology.
+
+                       The Semiological Surround                        119
+
+    What these definitions exclude is far more fundamental to language
+than the admittedly excellent uses of language that they include. Per-
+haps language can be used to find the true or the good—but surely
+speech or text is not first language when it achieves some goal of this
+kind. Each of these notions is teleological, and each is completely re-
+futed by the very existence of LLMs (although certainly the case against
+them did not need LLMs to be plausible). What these frameworks all no-
+tice is that LLMs isolate meaning from reference. In doing so—what these
+frameworks miss—they gain iconic power. If the start or end point of
+any data chain is a semantic unit, then generation in that mixed order
+of signs becomes meaningful form independent of grounding. This also
+suggests why we should sweep away the ladder of reference—fiction,
+for example, is “grounded” in a sense. Reference is one achievement of
+language, not its primary function—a lthough versions of it attend all
+linguistic expressions. The power of the LLM lies in the fact that it mod-
+els the other functions too, without which it would not be a general semio
+logical operator, as it is quickly becoming.
+    What is now being called “prompt engineering” lends support to this
+point. Take, for example, the notion of a “stochastic chain-of-thought,”39
+in which “emergent” reasoning is teased out of the model by showing it
+the procedure to follow. (Since the time of writing, so-called “reasoning
+models” with architectures based on this idea have been developed. No
+extensive analysis of them was possible given the time constraints of
+publication.) For example, in doing word problems in math, LLMs have
+been seen to confuse the various parts of the problem. But if a similar
+problem is given with the answer and a short description of how the
+answer was achieved, the net spikes in ability. A nthropic’s Claude model
+seems particularly built to solve puzzles and reason through longer
+problems, creating a kind of inference-driven model that channels lan-
+guage into a useful pattern, so that if a particular result is the only cor-
+rect one, the pattern is more likely to pick it out.
+    At the time of writing, the bubble of the LLM appears to be popping,
+as no solution to so-called hallucination that would make these systems
+trustworthy rational agents has emerged. But what if, in this cluster of
+prediction, weights, words, and pathways, we actually have a version
+of how all reference works? When I say “strawberry,” the linguistic path
+from word to image and reality is so completely predetermined that no
+work is felt. But if I had to invent the word strawberry, to invest it with
+
+120                   The Semiological Surround
+
+
+its semantic fullness, perhaps the only way would be to work through
+a generative matrix that does not primarily and locally refer to “the
+world” but alters itself internally to make that reference possible, open
+at the borders to dialogue and adjustment but made up of tensor-like
+structure internally.40 Language as a human property has both exten-
+sive pathways and creative force—a too-narrow focus on reference and
+intentionality tends to obscure language.
+    The generative matrix of language has proven shockingly able to
+make convincing images. If labeling is language overseeing classifi
+cation and, flipping the script, language is the medium of GPT’s G
+(generativity), then a combination of these two factors can bring the
+hallucinatory aspects of image generation under partial control. Adobe’s
+“generative fill” was perhaps the first widely used tool of this mixed-
+mode sort, and many multimodal systems now exist. DALL-E has been
+the most popular of the toy versions of these algorithms, alongside Mid
+journey and Stable Diffusion. I will not spend much time on these sys-
+tems, but I want to note that language governs the generation in their
+cases too—indeed, they are called “text-conditional image generation”
+systems41 or “text-g uided generative diffusion models.” Labeling added
+to the generative matrix of language itself can create monsters or art. It
+seems that this type of system will lead the way to a new kind of filmic
+creativity between humans and machines in the immediate future, as in
+the case of Coca-Cola’s AI-generated 2024 Christmas ad (and since then,
+many ads besides). Generative language is the bootstrap by which these
+systems lift themselves above a sea of noise, the semiotic backbone of
+the digital mediation of so many areas of life today.
+    Classification classifies representation, not the world. And text can
+be used to generate images. But in the language-generation algorithm,
+there is no a priori difference to speak of between the net’s manipula-
+tion of data and the world those data represent. The language that a
+model of language (even an LLM) produces is language, as text, but with
+the formal features that we expect text to have to line up with speech.
+There can be no clear separation between hypothesis and deduction,
+synthetic and “real” text, human and machine language, for if a net spits
+out a series of words that cohere as natural language, the difference be-
+tween what language is and what it means collapses, as it does when we
+speak or write successfully. The concept of a language “model” here gets
+blurry, as a model must be compared to its target by means of language,
+
+                       The Semiological Surround                         121
+
+so that an infinite regress threatens. But that threat simply points to the
+success of LLMs, not in “representing” language, but in participating in
+it. All models are wrong, but some of them are generative.
+    Only once we have isolated the language that is genuinely caught up
+in nets can we see the contours of the problem I laid out at the begin-
+ning of this book. LLMs force us to confront the problem of language
+not as reference or communication but as the interface between form
+and meaning, culture and art, ideology and insight. They are the most
+complete version of computational semiology to the present, and that
+is precisely because they instantiate language to a good approximation
+of its digital-cultural form. The datafication of everything stands to
+become qualitative, to form a linguistic-computational hinge for other
+forms of data processing and the extensive text-first yet multimedia
+interface of our daily lives and global social processes. All of this starts
+with text. The text-based cultural form of language—not reasoning, not
+cognition in the first instance—has often gone under the name “liter-
+ary language.” We can now suggest that the first L in LLM might as well
+stand for “literary.”
+
+This page intentionally left blank

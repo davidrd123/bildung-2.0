@@ -1,0 +1,855 @@
+      6
+
+
+Poetic Ideology
+The Packaged Semantics of Generative Culture
+
+Large literary machines may make use of the poetic function, but their
+default output is ideology. By this I do not mean that they reproduce
+talking points of political platforms but that they generate syntagms
+that are prepatterned—a lbeit in ways that we humans do not always
+expect. Ideology is not a view or a proposition or some content but the
+manner of expression of that content. It is another internal factor of
+language production, to which LLMs give us perhaps the first glimpse
+that does not feel autotelic and confusing. The theory of ideology tog-
+gles between a transcendental pole and what I here call an “expres-
+sive” pole, between rules and culture. The poetic function in its current
+computational-linguistic state is what I think of as “poetic ideology,”
+generative but restrained, packaged but (for us) unpredictable.
+    We make meaning by putting words one after the other. But we usu-
+ally do it in preparceled ways. Most of what is expressed is default chan-
+nels of communication, surefire pathways for one or another purpose
+that, as we have seen, nevertheless has to be generated out of the heat
+map. This is why LLMs force us to confront the problem of the relation-
+ship of art to culture, formal innovation to social form as such. Gen-
+eration puts poetry on one end of a spectrum bookended on the other
+by ideology.
+    Avant-garde form and the hegemony of culture are typically opposed.
+Clement Greenberg’s famous definition of kitsch as “predigested form”
+influentially pitted culture against formal innovation in the historical
+avant-garde. LLMs, as we have now seen, capture the whole spectrum at
+issue in this distinction, parasitic as they are on culture and art indiffer-
+ently. Hannes Bajohr has claimed that “whoever controls LLMs, controls
+politics,” and this chapter demonstrates the mechanism of that control.1
+I show how LLMs create semantic packages that range across local and
+distal contexts within language, scanning the state of ideology as “pre-
+digested form” or the most commonly traveled pathways within lan-
+guage at scale. But it shows us this ideology extensively. Our theories of
+
+
+                                    173
+
+174                            Poetic Ideology
+
+
+ideology tend to be about some baseline that governs speech, condi-
+tions of possibility. The “economic base” in Marx and the unconscious
+in Freudo-Marxism have typically served as conditions, making it hard
+to see how what is actually said corresponds to the condition itself.
+I think that LLMs should shift us out of this “transcendental” mode
+in the theory of ideology. Because they open up ideology to a form of
+empirical scanning, they can help shift our sense of ideology to include,
+and even be based on, expression. An expressive theory of ideology can
+make sense of the sequential generation we use to reproduce the least
+enlightening aspects of language.
+    This expressive notion of ideology fits with Theodor W. Adorno’s phi-
+losophy of culture. Adorno must seem a strange ally here, given his
+notorious disdain for computational culture. But Adorno’s dialectical
+connection of art and social being as such has been rendered descriptive
+by the emergence of LLMs. For the first time, we are able to surface ide-
+ology quantitatively, to scan the ideological surround. This provides us
+with a supracognitive mapping, launching us out of the postmodern era,
+but not on our own terms. We have a brief window to use this visibility
+to understand the empirical makeup of contemporary ideology, but it
+is closing as LLMs suffer the fate of all AI inventions: the passage into
+off-the-shelf, for-profit software.
+    Adorno and Horkheimer famously argued that the result of the hand-
+shake between technology and media was entertainment:
+
+      Entertainment is the prolongation of work under late capitalism.
+      It is sought by those who want to escape the mechanized labor
+      process so that they can cope with it again. At the same time, how-
+      ever, mechanization has such power over leisure and its happi-
+      ness, determines so thoroughly the fabrication of entertainment
+      commodities, that the off-duty worker can experience nothing
+      but after-images of the work process itself. The ostensible content
+      is merely a faded foreground; what is imprinted is the automated
+      sequence of standardized tasks. The only escape from the work
+      process in factory and office is through adaptation to it in leisure
+      time. This is the incurable sickness of all entertainment.2
+
+The after-images of the fully industrialized factory make up the signal of
+entertainment, but the signal is noise, ein verblaßter Vordergrund, snow
+
+                             Poetic Ideology                             175
+
+drowning out color. The figure haunts cultural criticism, no matter how
+many times we waver on Adorno, first accepting his idiosyncratic acidity,
+then inevitably deciding that his “pessimism” is too much. Film—the
+primary object of the essay on the “culture industry”—never fully oper-
+ated as a global logistical network in the way that digital systems have
+become, so the aesthetic integration Adorno speaks of here might pale in
+comparison to a GPT-charged platform aesthetics, which would unite the
+fade and the foreground far more than industrial protocols could.
+    Actor, director, and screenwriter Justine Bateman reported during
+the 2023 writers’ and actors’ strike that AI’s executive-led intrusion
+into screenwriting arose partly because of the explicit demand that
+TV be “second screen.”3 This phrase means that the television is sec-
+ond to the smartphone, so that one can literally continue to engage, in
+the same medium, with work—emails, Twitter, and so on—as narrative
+takes the edge off in the background. Or maybe it’s the foreground, only
+faded—the explicit demand, according to Bateman, is that this type of
+visual work not pierce the veil of the scrolling. The merger of entertain-
+ment and industrial knowledge work completes the dialectical cycle that
+Adorno and Horkheimer saw in film in the 1930s.
+    One cringes to think of Adorno listening to “Daddy’s Car,” widely
+and misleadingly billed as the “first AI song.”4 It is Beatles-y mush, the
+average of some data set involving the Beatles, to be sure, but also,
+to my ear, the Beach Boys quite heavily. The neural net focuses on an
+area—candidate notes, words (in this case, machinic in quality but ac-
+tually human composed) with context, and in this case some manual
+guidance—and gives you not really the signal or the noise but some-
+thing between: faded foreground. This is not the average of the twelve-
+tone scale or the common Western scale, and certainly not of all Western
+music or any such thing. It’s quite specific, but it’s hard to think of it as
+musical articulation in the way we think of compositions as aesthetic
+objects. For classical information theory, a string of words or symbols,
+including musical notation, is a signal against a possible set—that’s why
+entropy was measured with a capital W for Wahrscheinlichkeit (German
+for “probability”). These strings seem more like noise than signal, as if
+the pointed edge of poetic utterance had receded into . . . what? Not
+actual noise—this is music, after all. We don’t have a name for this other
+ than “ideology.” It’s the quantitatively captured average over a given
+ contextual domain, but it’s not singular. One could generate many,
+
+176                          Poetic Ideology
+
+
+many songs in this vein, covering the whole suddenly statistical object
+“Beatles music.” Semantic packages are not limited to words, although
+that is where they are taking up their first residence.
+    The faded foreground and “second-screen” entertainment are forms
+of ideology. I say this because they are a signal-become-noise that pro-
+vides a background to dull the effects of form, which can sometimes
+give us insight. This kind of “form” is instead a washed-out signal,
+statistically varied so as to lull, horrify, amuse. But not to enlighten—
+for these averaged-out forms to enlighten, we must provide the atten-
+tion, the reading; in a sense, we must provide form to something that,
+though it is signal, tries to fade out of form altogether.
+    “Daddy’s Car” is ideology in just this sense. The washing out of the
+foreground tends to make us think that the usual state of semantic af-
+fairs is clear, somehow redemptively contoured content that leads us
+somewhere good, or at least away from the locus of the extraction of sur-
+plus value and the confrontation between the worker and the machine.
+Yet it is hard to see how a more successful entertainment would live up
+to the clear aspirations of this essay or do much of anything explana
+tory or salutary for us. Adorno can’t possibly want to “correct” enter-
+tainment. It is rather the fact of the continuity between the B   eatles and
+Schönberg that Adorno so polemically underlines. I think we have to
+extend that continuity into signifying machines.
+    I am not going to offer an interpretation of Adorno here. I think with
+him because he offers something rare, namely, an account of the ma-
+chine, entertainment, art, and the social, as continuous. Perhaps this
+sounds odd, but the dialectical approach Adorno takes to the problem
+of critique works only if those four things are all fundamentally one
+thing—perhaps we could say one matrix. Of course, in Adorno’s techni-
+cal language, they are also “nonidentical,” but this negativity is internal.
+If they were not all one in a larger sense, his account would make no
+sense. In other words, rather than thinking of ideology only as deceit—
+which it certainly is: the subtitle to “culture industry” is “ideology as
+deception of the masses”—we might also think of it as a medium. And
+that medium has its first automatic operator in the form of LLMs.
+    We have seen the basics of how LLMs produce meaningful language.
+If we think about the internal process, we can quickly appreciate how
+this tends to confuse foreground and background. To use my light grid
+metaphor once more, imagine you touch the word “dialectic” and the
+
+                             Poetic Ideology                             177
+
+algorithm gives you “of enlightenment.” According to what we have
+seen, “of” and “enlightenment” belong to groups of words, candidate sets,
+that might be next. The attention mechanism refines this group from a
+larger, generally possible set—and whatever fine-tuning further nar-
+rows down the set, with the prompt finally presenting what can be a
+quite small group. So if I say “dialectic” without any context whatsoever,
+“is” might be the next word, and over a range of generation of an answer
+to a question—say two hundred to three hundred words—we might see
+“Socrates,” “ancient,” “Barth,” and other things. But if the algorithm is
+attending to a context, it might be able to reject those options and re-
+place them with “Hegel,” “idealism,” and “antithesis.” Within the overall
+set that floats to the statistical surface when “dialectic” is input in some
+given context, these are all separate options, with blurry lines between
+them. I think of them as semantic packages.
+    Packaging meaning is the way that LLMs get at meaning at all. They
+distill average-temperature areas by using the poetic function. But if we
+think of the delivery mechanism that digital technologies possess—like
+packet switching in internet protocols or streaming a film or TV show—
+LLMs exceed this function. They don’t just “have” prepackaged seman-
+tics; they do the packaging (strictly, we do the packaging when we perform
+search functions within their deterministic states). So if “Socrates” is im-
+portant to a discussion of Hegelian dialectics—or Barth’s dialectical the-
+ology—he can go in the box too. Or Adorno, with his negative dialectics.
+Or a tweet from a social scientist claiming that dialectics is unscientific
+gibberish. Everything depends on the softmax function, which will send
+the relevant possibilities close to 1, and the subsequent top-k search, for
+example, that clusters those relevant tokens.
+    Semantic packaging is the first mechanical operation we have ever
+seen that can surface linguistic noise, bringing a flat but genuine language
+to the fore. When we apply the metaphor “signal/noise” to language—an
+infelicitous application in the first place—we get a strange cocktail. As
+we saw in the previous chapter, language has an intensely internalizing
+effect that seems to reject the pure notion of statistical noise. (Following
+Shannon’s diagram, when I speak, “noise” is noise.) Language seems to
+be articulatory first, so that noise is not language, in the metaphor. All
+very well and good, but LLMs seem to float something that is not exactly
+articulation to us: a spectrum of possibilities upends the relationship be-
+tween foreground and background, a kind of noisy signal.5 The language
+
+178                          Poetic Ideology
+
+
+that surfaces this way is blanched, generated in perfect poetic operation
+but from an actual consideration of lateral candidates, as if, in speaking,
+I were to consider not just the entire paradigm at hand but also its con-
+text, sifting through all the words possible and choosing by indication.
+(This is not so very far from what it is to write, I suppose—more on this
+in the conclusion.) The “gradual crystallization” of thought in speaking
+Kleist spoke of does not scan linguistic regions in the way that the pack-
+aging process does, although something like this process is suggested in
+Edgar Allan Poe’s famous essay on his composition of “The Raven,” “The
+Philosophy of Composition.” But poetry is not the result: the result is the
+best-traveled pathways of language, the channels themselves presented
+as content. That is what I propose to call “ideology.” What results is usu-
+ally mush, tepid language that is nonetheless language—which, after all,
+is usually neither boiling nor freezing. It is this tepid mush that makes
+up the integument of machine, art, and social form. Let’s look at some
+examples.
+     On February 16, 2023, Vanderbilt University’s office for diversity,
+equity, and inclusion (DEI) issued a statement on the shooting that had
+ occurred shortly before at Michigan State University. The statement was
+ boilerplate, suggesting that the university “come together as a commu-
+ nity to reaffirm our commitment to caring for one another and pro-
+ moting a culture of inclusivity on our campus” to “honor the victims
+ of this tragedy.” The only remarkable thing about the message was that
+ a footnote credited ChatGPT with producing its first draft.6 The office
+ apologized one day later, after an outcry.
+     The statement could not be more bloodless—we might think of this
+ as the “thoughts and prayers” semantic package, touched up with the
+ “DEI” semantic package. Language here is offered as a service, inten-
+ tionally grabbed and used for liability screening purposes—a lthough
+ in the early days of the bots, billing the source was an unforced error.
+ Flattening the channel, giving the most tepid response possible, is lit-
+ erally the task here. If a human had written those words, they might
+ hardly differ at all. By the time of writing, never mind publication, this
+ type of text must be quite general, although we probably do not know it.
+ Semantic packaging finds a smooth fit with bureaucratic writing. If one
+ is inclined to think that AI is incapable of meeting a certain standard of
+ real creativity that humans possess, then we should think about how in-
+ stitutional expression almost by definition can now be automated. The
+
+                            Poetic Ideology                           179
+
+office memo on productivity may or may not belong to the same seman-
+tic package as the diversity email, and the constant stream of “wellness”
+messages perches neatly between the two.7
+    Content comes packaged. In early 2023, I asked ChatGPT to tell me
+how the “enlightenment is dialectical,” without informing it that that
+is the thesis of Theodor Adorno and Marx Horkheimer’s notoriously
+difficult masterpiece (which also is a watershed in the theory of ideol-
+ogy), and it gave me a detailed, complex response that, at least in casual
+reading, really recapitulated the argument of the book. When I asked
+it to summarize my colleague Matthew Handelman’s (coincidentally
+of Michigan State University) book on Adorno and Horkheimer, the
+Frankfurt School, and mathematics, The Mathematical Imagination, it
+did something curious—and informative. This book is about how criti
+cal theory—and especially Adorno and Horkheimer—excluded mathe
+matics and computation from their framework but didn’t have to. It
+reconstructs engagements with mathematics on the part of three satel
+lite figures of the Frankfurt School: Siegfried Kracauer with his social
+geometry, Franz Rosenzweig with a messianism based in calculus, and
+Gershom Scholem’s reading of mathematical logic.8 Handelman argues
+that there was a huge missed opportunity that we need to make good
+today, in which critique and mathematics find a meeting point. This
+book is very much downstream from that claim.
+    ChatGPT competently summarized the book, to my eye reproducing
+materials easily found on the web, like chapter summaries. But it kept
+repeating throughout that “Handelman’s thesis is that mathematics is
+a social construct.”9 This is a patent falsehood—there is no trace of a
+position on the question of math’s objectivity in the book, but if there
+is a tendency, it is to take math seriously, as mutually coconstituting
+any possible critique of orders of representation. So what was going on?
+    Dialectic of Enlightenment is a massively influential text—when you
+type its title phrase into a generative interface, the pattern that lights
+up in the poetic heat map is extensive, but also concentrated, around
+accounts of it, debates about it, vehement disagreements, and so on.
+This has the effect of making the predictive data set dense—and rela-
+tively accurate. When I ask about Handelman’s book, the data set will
+be correspondingly less concentrated. It will overlap heavily with the
+data set for “dialectic of enlightenment,” because they are so close to
+each other linguistically, in fact. But when I put in “mathematics,” it
+
+180                          Poetic Ideology
+
+
+alters the pattern that lights up. This is partly because radically fewer
+words have been written on this overlap of topics. I would venture a
+guess that “socially constructed” comes up in this context so doggedly
+because when scholars who work in this area discuss mathematics,
+they very often assert that it is socially constructed (even though that’s
+not Handelman’s view). But there is another group that writes about
+this overlap, namely, the Alt Right. Their anti-Semitic conspiracy the-
+ory about “cultural Marxism,” which directly blames Adorno and his
+group for “making America Communist,”10 will have a lot to say about
+the “relativism” that “critical theory” represents, a case in point often
+being the idea that mathematics is “socially constructed.” We are here
+witnessing a corner of the “culture war” semantic package. Science,
+communism, the far right, conspiracy theory, the Frankfurt School,
+and mathematics—no machine could have collated these into coherent
+sentences before 2019, it seems to me. This simple example shows how
+LLMs can be forensic with respect to ideology.
+    The effect I have just described is possibly the first quantitative mea-
+sure of ideology. After all, the truth of what is in Handelman’s book
+is not the only fact about that book. It actually exists in a linguistic
+environment that has patterns in it, some more common and others
+less. It is a sign of strength that a book is mischaracterized by this pro-
+cedure, because we generally want well-researched academic books to
+be something more than “ideology.” But the indication is an interesting
+one: critical theory plus mathematics is a discursively important point
+where the academic left and the global new right confront one another.
+These systems could be used to expand our knowledge of various regions
+of our own unknown thought. And that would be possible because they
+“hallucinate.”
+    In the semantic package, there is no object. A book, a person, a
+thing—nothing stops the statistical slide along the curvature set, and
+ever reset, by the prompt, the attention, and the heat map. This index-
+ical flow, we tend to think, should be halted by ethical considerations,
+the “responsibility” of having an object in view.11 To halt around objects,
+and consider their context and value, is the essence of the moral use of
+language that Chomsky wants to identify with language itself. But there
+is epistemic gain in the automatic irresponsibility that cannot halt or
+contextualize. LLMs strap whatever else they treat to language, illumi-
+
+                             Poetic Ideology                            181
+
+nating both, but not by capturing the truth. They expand the expressive
+state of our ideologies.
+    Ideology is not just political doctrine. When Marx wrote of the
+“German Ideology,” he meant his fellow socialists’ implicit belief in
+the power of ideas, to which he countered the power of material forces.
+But Marxists slowly took up the problem of the power of discourse and
+representation, acknowledging that what we are able to think, imagine,
+and say is a crucial political issue. Antonio Gramsci called the domi-
+nant set of ideas “hegemony,” arguing that these ideas conformed to the
+dominance of the ruling class while not being about that dominance.12
+This syncs with Bajohr’s phrase “whoever controls LLMs, controls poli-
+tics.” But there’s more to the problem of ideology than discursive control.
+    A wide variety of Marxists have also seen ideology as a form of kitsch.
+First articulated by the Marxist art critic Clement Greenberg in 1937, the
+notion of kitsch is “predigested form.” The avant-garde, for Greenberg
+(perhaps above all his friend Jackson Pollock, although this association
+came later), “tries in effect to imitate God by creating something valid
+solely on its own terms, in the way nature itself is valid, in the way a
+landscape—not its picture—is aesthetically valid; something given,
+increate, independent of meanings, similars or originals. Content is to
+be dissolved so completely into form that the work of art or literature
+cannot be reduced in whole or in part to anything not itself.”13 This is
+creation, not generation. But where Picasso paints “cause,” Greenberg
+raises the kitsch of Repin to exemplary status, claiming that he paints
+“effect.”14 Kitsch “predigests art for the spectator and spares him ef-
+fort, provides him with a short cut to the pleasure of art that detours
+what is necessarily difficult in genuine art. Repin, or kitsch, is synthetic
+art.”15 Perhaps “synthetic” is not a coincidence here. We know when we
+are on well-traveled paths. We can feel when a cliché has taken over
+from the narrative or when the tune reverts to some mid-temperature
+that sounds not like an imitation of some original but like an opened
+statistical field, the neighboring regions of some signal we have once
+enjoyed or admired. What could be more “predigested” than the fea-
+ture Adobe has introduced into its media suite, “generative fill”? This
+allows you to “zoom out” from a given image, like the Mona Lisa or a
+scene from an Indiana Jones movie (both real examples). In the Mona
+Lisa fill, we see both predigestion and something else (Figure 14). The
+
+182                          Poetic Ideology
+
+
+image is extrapolative, but not from the painting itself, in a strange way.
+It fills in a grandiose mountainscape with a huge sky, as if this early
+modern lady were transported to nineteenth-century Montana. The in-
+timacy of Renaissance portraiture requires something else: Mona Lisa,
+according to my (untrained) intuition, is inside. The method of capturing
+the image—painstaking hours of sitting and painting—should be part
+of the image, and is part of the original image. But in the objectless
+slide from pixel to pixel, we get something in the “semantic package”
+of the Mona Lisa, perhaps even in the “painting” package, but it expands
+the statistical field in a “wrong” way. Like fan fiction, it imagines a dif-
+ferent Mona Lisa, generating within yet laterally from da Vinci’s crea
+tion. Form is predigested and then shot along a surprising statistical
+axis. A colleague from art history argues, however, that the drama of
+the original background is intentionally unrealistic, creating a tension
+between the domestic setting and the “un-European” mountain range—
+which allows him to arrive at the conclusion that the AI system, or its
+prompter, has extended and illustrated da Vinci’s vision. I leave it to the
+reader to decide between the positive and the negative view of the Mona
+Lisa semantic package extension but would point out that both can be
+sustained in the general poetics of the digital semiological surround.
+Aesthetic judgment provides no torque for critique.
+    In Roland Barthes’s classic essay “Rhetoric of the Image,” the struc-
+turalist critic locates a “denotational” level in an advertisement for Pan-
+zani pasta. Barthes notes that the advertisement, with its labels and its
+imperative to buy, is a highly motivated representation. Yet even here,
+there is in the image a “message without a code,” the physical presenta-
+tion of tomatoes and pasta in a mesh grocery bag. It is this denotation that
+“naturalizes” the image, thus harnessing the signifier to the overarching
+structure of the signified (“buy Panzani!”). Barthes concludes, “The more
+technology develops the diffusion of information (and notably of images),
+the more it provides the means of masking the constructed meaning
+under the appearance of the given meaning.”16 For Barthes, obscuring the
+arbitrariness of the sign is ideology, and masking the difference between
+signifier and signified becomes easier when images are subject to technol-
+ogy. Generation expands the range of ideology’s capture of denotation.
+    Denotation should not be confused with reference. The ladder of ref-
+erence is active in our understanding of images just as much as in our
+theories of language, and it is at least as dangerous here as there. In
+
+                               Poetic Ideology                                183
+
+
+
+
+Figure 14. The “Mona Lisa fill,” an image produced using LLM-based “filling-in”
+operations that extend the scene of the iconic painting automatically.
+From Placido.
+
+
+the Mona Lisa fill, the “denotation” is not photographic and so is not
+quite a message without a code. The fill is an interpretation of a cul-
+tural object, one with enormous influence and symbolic prestige, so its
+literal meaning is that symbolic status. We can see this with a more re-
+cent image that has circulated, “thicc Descartes” (Figure 15). This fill is a
+joke, obviously, and might be labeled “I ball, therefore I am,” because the
+modern sage is here given basketball sneakers and thighs that suggest
+a strong vertical jump. But there is a catch. At least to me—w riting in
+mid-2024—this image comes off as a handcrafted imitation of AI genera-
+tion. This genre is proliferating now and seems to indicate a disavowed
+knowledge that we are immersed in generative content that we do not
+notice—what I called the “global Eliza effect.” The denotation here is the
+idea of a generated image that is incongruous because it is produced ac-
+cording to the averaging effect of the ideology machine. The reversal, if I
+am right that this is manually produced, is a parry of human creativity,
+which is able to denote the idea of generation by means of the recursive
+function called irony. But irony is slippery: objects of this sort bring a
+momentary laughter followed by the uncanny sense that culture itself
+has entered the mode of ideological generation, in which it is no longer
+clear what is “predigested” and what is not.
+    Greenberg was a vociferous advocate of the avant-garde, but prediges-
+tion is important, perhaps more important than he could let on. Most
+
+184                           Poetic Ideology
+
+
+
+
+Figure 15. Another “fill” operation, performed on the portrait of the philoso-
+pher Descartes.
+
+
+language is predigested, and most culture is too. The search for the
+purity of the avant-garde has failed. Medium specificity is a drive to
+the analytically pure form of the medium. LLMs undermine that pu-
+rity on their own terms, because language as such has no “pure form”
+that we have been able to isolate (although I have been suggesting that
+capture–generate is a foundational feature). And synthesis cannot be
+so easily discarded anyway. Greenberg, it is sometimes forgotten, was
+really a Marxist: he was tying the split between avant-garde and the rise
+of kitsch to “technological innovation” that caused “inherited forms to
+lose their relevance.”17 Even though kitsch is predigested, it was the in-
+vention of a new set of norms on a new playing field. It is not yet clear if a
+new set of norms is now arising or if it is merely that the consequence of
+a continuous machine evolution since the nineteenth century is coming
+to one stage of fulfillment. To be sure, commercial film is nearly pure
+kitsch today—what could illustrate Greenberg’s point better than Thor:
+Love and Thunder (2022)? Yet the output of early AI in film isn’t quite
+like that. Kitsch is “ideology” on not just well-traveled but well-known
+
+                             Poetic Ideology                           185
+
+tracks. That’s what makes it pleasurable: the unburdening of cognition
+by means of familiarity. Generative-fi ll Mona Lisa, thicc Descartes, and
+other phenomena of this kind are weirder than that—they fade the
+foreground into something that feels actually noisy, even uncanny. They
+surprise us, and that’s not what ideology is supposed to do.
+    The surprise comes from the statistical blur provided by the pack-
+aging. No objects exist in these data sets, but means do.18 And the area
+around a mean based on a task is genuinely surprising. The “measure
+of surprise” that a message carries with it for Claude Shannon doesn’t
+quite name this peculiar effect, which is everywhere as generative AI
+quickly spread. A beer commercial in which everything blows up, a
+trailer for a version of the classic Swiss Heidi that turns into a fascist
+rally, and a deeply unsettling clip of Will Smith eating spaghetti belong
+to the prominent visual examples at the time of writing. These will
+surely be fond memories at the time of publication, as others will take
+their place, and we will get aesthetic orientation in this weird world. In
+one of the first cyberspace fictions, William Gibson wrote of “semiotic
+ghosts,” traces of past visions of the future, and the need to turn them
+off by tapping into the comforting entropy of bad television.19 This is the
+opposite: a kind of noise within the signal that unsettles our very sense
+of form and meaning.
+    This aesthetic effect arises from “fine-t uning.”20 When the P in GPT
+is complete, and the massive grid is established, the language remains
+without a target. To produce that possibility, further training is needed,
+but training that shapes answers and actions, not the grid itself. This is
+called “tuning.” To take a simple but illustrative example—one you can
+run on a simple Google collaboratory notebook—GPT-2 can be imported
+and tuned on any text of your liking. The plainest version of the “task”
+in this case is for the pretraining to be “tuned” to predict something like
+the text fed to it. So if I feed the Communist Manifesto into the machine,
+its goal becomes to write something “like” that text. The measure of
+that mimesis is subjective, of course. But as I’ve tried this experiment
+dozens of times, two things have become clear. One is that LLMs and
+generative AI in general are first and foremost cultural objects. They
+can’t be scientific ones first because they don’t do reproducibility na-
+tively. Can we learn something about the object domain—in this case,
+language—from them? Yes, but not quantitatively, at least at first. And
+as I have been arguing, one reason for this is that language conditions
+
+186                          Poetic Ideology
+
+
+the algorithm just as much as the other way around. The second thing
+we learn is that tuning resides between the grid of language and some-
+thing like a purposive use of language. But when we add this second
+thing, we train the net on some region of language like a camera. This is
+what creates that uncanny effect.
+   If you tell GPT-2 in this toy version to show you a sample of its gen-
+erated text every ten steps through its tuning over fifty steps, you
+generally see a progression. First output: a kind of historical text that
+reads well, sometimes even accurately, but not like Marx. Second output:
+sometimes, not always, this one is weird. In one run, the transformer
+obsessively repeated the word “wheatmeal” throughout its response,
+sometimes out of grammatical order. But it was interspersed with more
+class-specific material. Third output: a definite move toward coherence
+and tone, with either this or the fourth input typically picking up “bour-
+geoisie” and “proletariat” as key terms. By the fifth output, it produces
+something indeed quite “Marx-y” in tone and content, albeit imperfect,
+with a small model and a very small text on which to tune. But we can
+extrapolate from here to say that all of Marx, or all of classical political
+economy, is a genre, a linguistic icon in the space of language. What
+one gets is a quality of language, a set of ideas presented in the general
+statistical field.
+   Chatbots extend LLMs by further training using RLHF. This, too, cre-
+ates a kind of expansion around a vibe, a statistical middling effect of
+“chatting” that accounts for how boring it can be to talk to the machine.
+Yet under that banality is the poetic function, as we have seen, and also
+ideology, as the “thoughts and prayers” semantic package suggests.
+   This type of ideology in extensive algorithmic use has genuinely con-
+fused the line between human and machine language. Efforts to demar-
+cate synthetic text are not going well, and they illustrate the point I am
+making here. If it were just a question of the heat map being fine-tuned
+and producing some smooth text, some statistical monsters, perhaps we
+would not be in this panic cycle. When we have tried to “detect” which
+texts are human and which are AI generated, we have so far ended up
+in a very strange place. Note first of all that these attempts are done
+using AI, meaning that the Turing test is weirdly automated. The metrics
+used tend to rely on some version of the idea that human text is more
+robust—a lso the cause of model collapse, as we saw earlier—and LLM
+generation less so. The result, however, is that texts like the U.S. Con-
+
+                              Poetic Ideology                             187
+
+stitution and large swaths of the Bible score very highly for “probably
+AI-generated.”21 This is because they weigh very heavily in the data set.
+Cultural pressure in statistical form shows up as redundancy at the scale
+of language as such. But see what has happened: ideology bubbles to
+the surface, and the difference between the most likely thing to be said,
+our common topoi, the shared locations where meaning moves fastest
+through words, denies us the bright line between human and machine.
+Ideology is the medium of language, generated by means of the poetic
+function but continuous from one end of the spectrum to the other,
+regardless of whether one uses the computational joystick or the gray
+matter joystick to operate it.
+    When the camera was invented, we saw distant chunks of the world
+for the first time with our eyes. LLMs show us not the world but the way
+we represent that world. Fine-tuning trains the “camera” on regions of
+representation so close to us that they feel like our very world itself, but
+then they flatten and expand the signal into the noise of that world.
+Fine-tuning is a form of ideology scanning, an effect that will almost
+certainly disappear from these systems as they are brought into rep-
+resentational line and embedded in software.22 This field of ideology is
+momentarily on display during the transition to generative culture.
+    Like poetry, ideology seems as though it could be on empirical display
+here, open to quantitative investigation for the first time. Yet our theo-
+ries of ideology have long suggested that no such thing could ever occur.
+    Ideology is not doctrine. Its colloquial use as “political beliefs held in
+spite of evidence” doesn’t explain how we get those beliefs in the first
+place. The question the concept “ideology” tries to answer is why any
+given idea holds power at a given time. And the answers to this question
+tend to point to governing conditions, like Marx’s “base” or Freud’s “un-
+conscious.” These absolute references don’t stand in a linear relationship
+to the mere “content” of any ideological statement or position. But we
+can take this nonlinearity in two ways.
+    When we focus on the cut between the content and the condition,
+we get “transcendental” theories of ideology, as we draw attention to
+the break between the rules and what is expressed within those rules.
+“Hegemony” governs the sayable, just as the “unconscious” does for
+Freud and the Freudo-Marxist tradition. A good example of this is Mark
+Fisher’s idea of “capitalist realism,” which convincingly argues that capi-
+tal shapes the very horizon of thought—an idea sometimes boiled down
+
+188                          Poetic Ideology
+
+
+to the slogan “it is easier to imagine the end of the world than the end of
+capitalism.”23 When we propose a “condition of possibility” for what we
+think or do, and then claim that this condition transcends the contents
+that contingently crystallize below it, we gain insight into the formal
+aspects of ideology. But we are then in danger of losing its expressive
+aspects: ideology as actual speech, performed, spoken, written. The dif-
+ference between why an idea is powerful and that idea itself is surely
+of great importance, but their continuity is too. And LLMs unroll the
+condition and the expression quasi-empirically, showing us the extent,
+not just the origins, of our ideologies.
+      Ideology might then be seen as the superficial yet lawful total state
+of expression. Michel Foucault presciently says that ideology “scans the
+domain of representations in general; it determines the necessary
+sequences that appear there; it defines the links that provide its
+connections; . . . it situates all knowledge in the space of representa-
+ tions, and by scanning that space it formulates the knowledge of the
+ laws that provide its organization. It is in a sense the knowledge of all
+ knowledge.”24 The subconceptual totality of the rules synced with actual
+ expression at any given time in the history of knowledge is what makes
+ up ideology. By pointing to its linking, scanning, and compositional
+ functions, F oucault points the way to ideology as captured in a model,
+ long before it ever was. In doing so, he overcomes a tendency in the work
+ of his teacher Louis Althusser.
+      The most influential transcendental notion of ideology today is that
+ of Althusser. In his famous essay on the “ideological state apparatuses”—
+ a touchstone for research into the prison, the asylum, the school, and
+ other identity-forming institutions (largely because of the work of
+ Michel Foucault, who studied with Althusser)—he defines ideology as
+  “a ‘representation’ of the imaginary relationship of individuals to their
+  real conditions of existence.”25 This definition draws on psychoanalyst
+  Jacques Lacan’s “three registers,” as we saw in the introduction to this
+  volume. The “Imaginary” is what we hold privately, in an image, to be our
+  world, our understanding of self and reality. The “Real” is, for Lacan, the
+  completely unrepresentable, the confluence of Freud’s id and the kernel
+  of resistance that the world presents us with, completely unknown and
+  unknowable yet determinative in ways that psychoanalysis must con-
+  front. The third register, which Fredric Jameson once noted is conspic-
+
+                              Poetic Ideology                            189
+
+uously missing from this definition,26 is the “Symbolic,” typified by
+language and meant to capture all systems of representation that carry
+transmissible values.27 Ideology, for Althusser, means the stance that we
+take toward an unknowable Real, our apparently private images of how
+the world really works. But these images are generated by a complex of
+control and constitution of identity in the ideological state apparatuses
+(those nonviolent institutions that shape belief, behavior, and self). And
+in fact, we can note that the symbolic is not missing here; it is located in
+the apparently redundant, scare-quoted “representation” of the imagi-
+nary relations in question. In other words, ideology is symbolic first and
+foremost, and it is through that symbolic register that the imaginary
+(ego) effects occur. This is why Althusser can (famously) write that when
+a policeman says “hey you!” the right person always turns around. The
+symbolic is the joystick of ideology, its extensive expression, so long as
+it is constituted of the right internal set of relations to interpolate you.
+    This definition of ideology is crucial to Wendy Chun’s claim that soft-
+ware and ideology are a perfect fit. Software and hardware together—
+computers—“are ideology machines,” she writes, because they “fulfill
+almost every formal definition of ideology we have.”28 Software is an
+imaginary relationship to hardware, imitating the hard, unrepresent-
+able kernel that governs the real state of expression in the system—
+just as Marx’s “base” is supposed to do. Software thus “interpellates a
+‘user’ ” (or youser, in Chun’s pun), offering it “a name or image with which
+to identify.”29 This allows the “immaterial” to “emerge as a commodity,
+as something in its own right.”30 The power of this type of abstraction
+shows us that ideology is deceit, but also actual.31
+    Chun argues that this analog of ideology in general in the software
+environment “pleasurably mimics ideology,”32 but also contains the ker-
+nel of ideology critique, because it allows us to make reference, if not
+actually influence, the alleged cause of the images themselves, the oper-
+ating system from which we are walled off: “rather than lack cognitive
+maps, we produce them all the time through a medium that simulates
+ideology and . . . its critique.”33 For Althusser, we are trapped in a series
+of institutions that exploit our inability to know the Real. For Chun,
+a second world is simulated within that world that exploits the same
+psychological feature. Thicc Descartes calls me into this loop, for I am
+asked there to accept that AI fills are paltry and silly objects even as I can
+
+190                           Poetic Ideology
+
+
+only do so by acknowledging their cultural importance. But the theory
+of ideology here only grasps this as a condition of my subjectivity, not as
+a factor in the totality of culture.
+    In this version of the theory of ideology, its essence is deceit. Ideology
+enforces a regime of real abstraction, things we know to be false but
+that have discursive power that makes them have substance, normative
+force. But which abstraction, which “immateriality,” takes on this nor-
+mative force: imaginary relations or their symbolic representation? In
+this cluster of theories, there has been much confusion on this point. If
+we take the imaginary to be the ideology, we end up in a very difficult
+place theoretically, where the only option is to empirically witness the
+formation of identity in schooling, therapy, and prison. But one cannot
+witness learning precisely because, as Lacan always insisted, “learning”
+is partly a matter of induction into the symbolic order. For that rea-
+son, ideology must be symbolic, the “representation” of the imaginary,
+not the imaginary itself. It is the integument of symbolic relations, in
+their actual (and now statistically viewable) internal redundancy, that
+is “ideology.”
+    We should prefer this definition intuitively, because it suggests that
+ideology is not a matter of personal preference and cannot be “over-
+come” by sheer force of will. (This is, of course, the neoliberal theoretical
+version of ideology, and we should reject the impossible task it places
+on us.) Ideology is objective: it invades and maybe even makes up the
+imaginary, but it also isn’t just me. It gets at me, you, the youser, from
+outside. It gets at us from the heat map.
+    Note that Chun points out that software allows us to generate end-
+less cognitive maps. She is here pointing out that software fills in a
+broken mapping function that Jameson had included as a key aspect
+of his definition of postmodernism. For Jameson, postmodernism was
+characterized by “cool affect” offset from modernist fervor and the
+rise of pastiche over parody. But it was also an aesthetic regime of a
+“global,” technological phase of capitalism. If modernism, starting in
+the early modern period, had mapped the world—think of the Mercator
+projection—Jameson pointed out that now a “third dimension of car-
+tography” had emerged, “which at once involves what we would today
+call the nature of representational codes, the intrinsic structures of the
+various media, the intervention, into more naive mimetic conceptions
+of mapping, of the whole new fundamental question of the languages of
+
+                              Poetic Ideology                            191
+
+representation Itself.” This new form of cognitive mapping forestalls the
+very possibility of a “true map,” because it requires “the coordination of
+existential data (the empirical position of the subject) with unlived, ab-
+stract conceptions of the geographic totality.”34 Chun is suggesting that
+software in general pullulates such maps, not making them more true
+but fractally exponentiating the ideological surface of postmodern cul-
+ture. These maps take all their values from the interaction of the imagi
+nary and the symbolic, which, in its autonomy, expands the realm of
+“ideology” past the point where we can follow it visually, intuit it, see it.
+   Jameson closed his 1984 essay on postmodernism with the claim that
+a “political postmodernism” would “have as its vocation the invention
+and projection of a global cognitive mapping, on a social as well as a spa-
+tial scale.”35 Welcome to the desert of generative AI, which fulfills exactly
+this function, but as ideology, not by politicizing the mapping problem
+but by making it statistically available. We might think of this as supra-
+cognitive mapping, the extension beyond the known forms of predigested
+content and the surprise that generation prepares for us, its uncanny
+effects and its banalities all in one. What is extended beyond cognition,
+as we have seen, is culture—computational-linguistic culture.
+   The automation of language is the hinge that extends culture beyond
+cognitive mapping but reintroduces mapping function we cannot see.
+Conspiracy theory takes root in this precise junction, which is both an
+opportunity and a danger. The opportunity resides in being able to scan
+the ideological surround and see how it is made up empirically. The dan-
+ger is in the knitting together of a new totalizing system out of that
+ideology that becomes immediately invisible. This book has been an at-
+tempt to capture the opportunity in the knowledge that the risk is al-
+ready well on its way to fruition. LLMs launch us out of postmodernism
+with this supracognitive mapping, but the extent to which this happens
+on terms that we make any sense of is wide open for the moment. For us
+to cope, we need to move beyond the idea of ideology as a “condition” (a
+transcendental notion) and to see that it is expression, ideology in exten-
+sion (and in development). This makes an “unmappable” region into a
+partly empirical object, as representation systems capture and generate
+representation as such.
+   If ideology is deceit, LLMs capture that deceit, because they map it
+in its rough totality. They thus realize a function of ideology critique
+of which Chun saw the kernel in software as such, but at a much larger
+
+192                          Poetic Ideology
+
+
+scale. Recall that Baudrillard told us that the truth was on the surface,
+not at depth. Disneyland is the truth, not a veil that “ideology critique”
+can simply pierce. Baudrillard agrees, at least on this local point, with
+Adorno, who famously wanted to capture the truth of the falsity that is
+ideology. The worker subjected to the culture industry cannot somehow
+“realize” that he is watching the very machine protocols that trap him
+in his job, and break free of those bounds. We cannot flex and bust out
+of ideology, which is not a negative condition we might understand but
+a semiotic surround in which we live, move, and have our being.
+    Adorno famously thought of ideology as the “truth and the untruth”
+of the “totally administered world.”36 It revealed as much as it hid and
+provided—despite Adorno’s personal taste for high art—a point of entry
+through which we see social functions as conditioning us. LLMs have
+revealed this two-way street, manifesting Adorno’s commitment to the
+consubstantiality of ideology, art, and social form in the computational
+totalization of language as such. They thus offer an unprecedented view
+into the linguistic makeup of ideology. There has never before been a
+system that allows us to generate and then examine “what is near what”
+in political semantics. But they do not, on their own, generate any such
+insights. They only pinpoint pressurized areas of the symbolic register.
+    Adorno writes that we can speak of ideology only when “something
+spiritual [Geistiges, “mental”] stands out from the social process with its
+own claim to truth, independent and substantial.”37 This fits with Chun’s
+notion that something “immaterial” asserts itself with respect to its al-
+leged origin in the economic base or the hardware of the system. The
+“untruth” of this ideology, Adorno points out, can only be gained at
+the price of the “disavowal of the social ground” from which it comes.38
+In other words, to say that something is false because it is ideology is to
+explain away the very power that it patently possesses. The equally valid
+“truth moment” of that self-asserting spirit is the very independence it
+actually has, the mysterious power that attaches to the stickiest parts
+of our social-representational systems. “Today,” Adorno writes, the “sig-
+nature of ideologies is more the absence of this independence” than it is
+the deceit that the claim to that independence creates.39 What Adorno
+is saying is that ideology, deceitful in its essential makeup, has shed
+“trickery” as its most prominent feature and freed itself from the need
+to deceive in order to function.40 If this can be true only because the
+
+                            Poetic Ideology                           193
+
+world is “totally administered,” then we might think of Adorno’s claim
+as a symbolization claim: draped upon our very sense of reality is a cloak
+of words so thick that truth and untruth cannot be distinguished. No
+cognitive map is possible.
+    For Adorno, at least one answer lies in art, as redemption lay in the
+avant-garde for Greenberg. For Adorno, this is because art “seeks to aid
+the nonidentical,” so it compels us to recognize the form of ideology.
+Culture more generally falls on the side of identity, covering up the
+seams.41 Art therefore includes historical articulation in itself “dialec-
+tically,” making up an “aesthetic force of production” that receives the
+sediment or “imprintings of the social relations of production.”42 Art
+does not “lie,” whereas industry, cultural or otherwise, does. They thus
+take on self-asserted reality, but not as ideology.
+    As lovely as this account of the revelatory capacities of art—which I
+would hardly want to deny—is, I do not think it answers to the purpose
+to which Adorno sets it. This is because the access point to some holis-
+tic sense of what does and does not work, function smoothly, run on
+machinic lines, convince us of already-powerful truths, may come from
+art, for me or you. But this insight—Enlightenment without deception,
+in Adorno’s jargon—cannot scale.
+    LLM systems put the cognitive map back in play, but not for us. They
+make the dialectic of social form, machine, and aesthetics computa-
+tional, expressing what is held in transcendence in our theories, and
+what Adorno and Greenberg hope to transcend in aesthetic experience.
+In doing so, they certainly push toward “identity” as they run, but then
+they also disidentify, as in generative fills and semantic packages, which
+can surprise us in their proximity to the self-understood. But it is the
+nonidentity of redundancy that they reproduce at scale, the propor-
+tion between the whole and the part, language as such and the articu
+lation of some set of messages. What if an updated dialectics is not
+exactly negative, not exactly aesthetic, but the conceptual development
+of the computation–language interface? Without Adorno’s insistence
+on the identity (and nonidentity) of the machine, culture, art, and the
+social, we cannot see what ideology is, as deceit, “falsehood as the index
+of truth and falsehood,” in Adorno’s playful reversal of Spinoza.43 But
+there is no redemption in artistic form here. The thin line of insight
+depends on how much we make of AI. Rather than competing with it,
+
+194                          Poetic Ideology
+
+
+attempting to “outdo” it in our creations or our remaindered humanism,
+our only choice is to use its ideological capture to our advantage.
+    Language has entered the phase of its computational reproducibility,
+and this gives us tools to access regions of representation both banal and
+fantastical. There is no question that industry will not use these tools
+for exploration of these regions, but if we can let slip the transcendental
+models of ideology and see generative AI as an expressive totality of
+ideology, we can perhaps gain insight—capture the generated. That un-
+derstanding must accompany us as we enter a world in which language
+is a service.

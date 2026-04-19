@@ -1,0 +1,654 @@
+      4
+
+
+Large Literary Machines
+
+Everyone seems to agree that form is involved in neural nets, and in
+computation more generally. But we are ill equipped at present to deal
+with forms that involve both computation and culture, partly because
+of the conversation that never happened between cognitive science and
+literary theory (see chapter 1). Form means both the developmental root
+of some individual (morphē) and the external appearance of that same
+individual (eidos).1 Perhaps it even means the calibration of those two
+things, the stability of an identity through change and the total appear-
+ance of that identity at any moment. In aesthetic analysis, form is the
+singular presentation of some concrete object—a painting, a novel, a
+song—but it is that singularity insofar as it communicates with some-
+thing else. Form may bear meaning by convention, by genre, or it may
+be that form and social life are irrevocably intertwined, as Theodor W.
+Adorno thought. Formal experimentation in art is celebrated, while for-
+mal analysis repeatedly revives and is drowned again in claims about
+historical or material specificity.
+    Meanwhile, form has two meanings in computational discourse as
+well. As John Haugeland put it, summarizing the entire project of sym-
+bolic AI, the “formalist’s motto” is “if you take care of the syntax, the se-
+mantics will take care of itself.”2 Form here is morphē, the root and law of
+what appears. A symbol system like a computer has a strict set of rules,
+having nothing direct to do with what we want its symbols to mean.
+Shannon’s quip that the “semantic aspects [of messages] are irrelevant
+to the engineering problem” is the machine equivalent of the symbolic
+doctrine. Form is sheer syntax, rule without respect to content.
+    The only problem in a purely syntactical system is a weak one, falling
+below the level of either first-order predicate logic or arithmetic—not
+to speak of natural language. This truth was articulated by Kurt Goedel,
+who proved that systems of any real semantic strength are formal if and
+only if they do not achieve complete syntactic closure. Computation, in
+particular, is open—it must borrow some rule from another system each
+time it discovers something new. Form, then, names the disjunction
+
+
+                                    123
+
+124                     Large Literary Machines
+
+
+between syntax and semantics—Haugeland might have agreed—but as
+a unity. A formal system is one in which syntax and semantics are not
+reducible to one another but in which they are nevertheless locally uni-
+fied at every point. Form is the calibration of law and expression, not
+one or the other.
+    “Formal” tends to be pejorative, both in literary analysis and in
+some sectors of data science. The goal, it seems, is to capture something
+informal, the way things really are. But the oppositions that form im-
+mediately calls to mind—form and content, form and function, and so
+on—w ill not do. Debates on aesthetic form and computational form
+have always been related, even if few attempts to articulate their rela-
+tionship exist. When AI crossed into patently cultural territory, it made
+this problem urgent.
+    Three strands of argument proceed from this chapter. First, I argue
+that this lack of communication on the problem of form has prevented
+us from seeing that LLMs are “large literary machines,” in which the prob-
+lems of structure and redundancy produce, but do not explain, the cul-
+tural capture in data systems. The next chapter, which completes the
+theoretical argument of the book, argues that the ability of LLMs to
+generate what Saussure called “values” is based on the interaction of
+two (at least partly) formal systems, mathematics and language, charac-
+terized by incompleteness in Goedel’s sense and semiological inclusion
+in the case of language. This “inclusion” is effected by what I call the
+“poetic heat map” of the LLM, based in a reading of Roman Jakobson’s
+“poetic function.” The result is a hybrid formal language calling for a
+“general poetics” of meaning production that explores the shape of lan-
+guage and other sign-systems without any presumptive clear distinc-
+tion between human and machine, cognition and culture. The following
+chapter argues that this space is currently an ideology machine.
+    Anthropic’s LLM, Claude (named for Shannon, not Lévi-Strauss), is
+divided into three services by size of model: haiku, sonnet, and opus. The
+names are not accidental, for NLP engineers have been in the practice of
+asking their machines for poetry since 1959, when the philosopher Max
+Bense instructed his student Theo Lutz to create what is usually thought
+of as the first algorithmic poem. The paper that launched GPT-3, six de-
+cades later, included an appendix of generated poetry in several styles,
+including that of Wallace Stevens.3 Poetry sticks to automated text. The
+
+                          Large Literary Machines                           125
+
+simplest reason for this affinity is a sort of version of the Eliza effect.
+Because formal experimentation in poetry has been partly a matter of
+ divorcing words from their usual context and creating language-internal
+ “contexts” that seek to create meaning where none previously existed,
+ machines can play this game better than other language games. The
+ sparsity of poetic language and its paratactical features mean that al-
+ most anything can be a poem. As Jessica P    ressman has argued, the mod-
+ ernist tradition influenced the very media that came to generate poetry
+ in this way, setting the expectation that is then exploited by machine
+ poetry.4 Somewhere in the space between Kurt Schwitters’s decohering
+ of German grammar in “An Anna Blume” and the L=A=N=G=U=A=G=E
+ poetry movement, the possibility that poetry is the underlying form of
+ language bubbles to the surface, at least as an ambition—one not trivi-
+ ally tied to the history of NLP.
+     The poet Allison Parrish has taken this insight furthest, arguing that
+ “large language models can only write poetry.”5 She cites William Carlos
+ Williams’s definition of poetry as “new form dealt with as a reality in it-
+ self,” not so much the “fact of an emotion” (which prose conveys) as “the
+ dynamization of emotion into a separate form.”6 Parrish concludes that,
+ because a language model cannot make a statement of fact, emotional
+ or otherwise, their outputs—regardless of what they might look like on
+ the surface—are poetry, not prose.7
+     Nevertheless, LLMs cannot write poems. Poetry is, Parrish suggests,
+ language in new forms, the palette from which any real statement is
+ drawn. A poem “is an intentional arrangement resulting from some ac-
+ tion,” something knit together and realized from the background of po-
+ tential poetry in language: the poem “unites poetry with an intention.
+ So yes, a language model can indeed (and can only) write poetry, but only
+ a person can write a poem.”8 When Bense asked his student Lutz to use
+ an early mainframe computer in Ulm outside Stuttgart to create what
+ would become the first algorithmic poem, they used a subset of words
+ from K afka’s The Castle and a stripped-down German grammar. The year
+ was 1959, and the result was stark: “Not every look is near / No village is
+ late. / A castle is free and every framer is distant.” As the selected poem
+ cycles through its quantitative register—not every, no, one, every—it cre-
+ ates a “stochastic” walk through German, filtered by Kafka’s vocabulary.
+ (Incidentally, this theory of text is far closer to stochastic parrotry than is
+
+126                      Large Literary Machines
+
+
+what LLMs do, and intentionally so.) If we take the basic unit of the poem
+as pairs of “elementary sentences,” as Lutz does, then the “poem” consists
+of 4,174,304 possibilities.9 We might think of this larger backdrop as the
+“poetry,” in Parrish’s terms, and any handmade selection, such as Lutz’s
+own, as a “poem” rendered by a decision. Bense’s school was rather more
+interested in poetry than in poems, theoretically speaking.
+   In the next few chapters, I want to follow the poetry thread rather
+than the poem thread. I agree profoundly with Parrish’s characteriza-
+tion of the poetic nature of LLMs, and I will expand this into a more
+general theory of linguistic meaning in the next chapter.
+   Parrish writes that “the output of a language model can never on its
+own constitute a felicitous performative speech act.”10 Here she refers to
+the idea of the performative speech act as outlined by J. L. Austin, who
+famously set off illocution—speech that realizes its content, like “I now
+pronounce you man and wife”—from constative and imperative types
+of speech. This language falls under a larger theory of pragmatics, lan-
+guage as it is used. But some acts of speech do not perform even when
+they seem to have the relevant structure (Austin notes that no one is
+confused about the marriage pronouncement if one is watching a play).
+He calls these types of language use “poetic”:
+
+   A performative utterance will, for example, be in a peculiar way
+   hollow or void if said by an actor on the stage, or if introduced in a
+   poem, or spoken in soliloquy. This applies in a similar manner to
+   any and every utterance—a sea-change in special circumstances.
+   Language in such circumstances is in special ways—intelligibly—
+   used not seriously, but in ways parasitic upon its normal use—
+   ways which fall under the doctrine of the etiolations of language.
+   All this we are excluding from consideration.11
+
+A long debate about “felicity” has mushroomed from this definition,
+starting with the bitter conflict between philosophers Jacques Derrida
+and John Searle.12 What Parrish argues, and which I will expand below,
+is that felicity—like reference, like a poem—is a special case of poetry. Or
+in other words, the LLM is a culture machine that captures the essence
+of language, its poetic function.
+    The “Wallace Stevens” poem that GPT-3 produced runs as follows:
+
+                         Large Literary Machines                       127
+
+   I must have shadows on the way
+   If I am to walk I must have
+   Each step taken slowly and alone
+   To have it ready made
+
+
+   And I must think in lines of grey
+   To have dim thoughts to be my guide
+   Must look on blue and green
+   And never let my eye forget
+   That color is my friend
+   And purple must surround me too
+
+
+   The yellow of the sun is no more
+   Intrusive than the bluish snow
+   That falls on all of us. I must have
+   Grey thoughts and blue thoughts walk with me
+   If I am to go away at all.13
+
+
+The poem is rather more like T. S. Eliot in tone, although the use of color
+seems closer to Stevens, to me. The rhyme of the final beat of the first
+line in each of the first two stanzas also recalls the way Stevens slides
+in and out of rhyme in his distinctive modernism. The authors of the
+paper write that they gave only the title “Shadows on the Way” (as well
+as the “like Wallace Stevens” prompt) to the system. No further editing
+was applied, but they then note that “completions were truncated when
+the model began to write a new title and author heading, or broke into
+prose commentary.”14 This is a typical task–output problem in LLMs,
+which often stop producing the specific task and revert to a kind of gen-
+eral “language” task as they run—in this case going from formal poetry
+back to “prose commentary.” Gathering the entire history of modern-
+ist form, NLP, and the corpus of electronic poetry (among the nearly
+two million web pages on which GPT-3 pretrained), we get a separation
+of a poem from prose. If we follow Parrish, that separation—which she
+thinks cannot be successful—occurs on the backdrop of a general poetic
+form of language. It is this generalized poetry for which I wish to provide
+a poetics in this chapter and the next.
+    LLM, then, should stand for “large literary machine.” LLMs prove a
+
+128                      Large Literary Machines
+
+
+broad platform that literary theory has long held about language, that
+it is first generative and only second communicative and referential.
+This is what justifies the question of “form”—not individual forms or
+genres but the formal aspect of language itself—in these systems. In-
+deed, this is why literary theory is conjured by the LLM, which seems
+to isolate, capture, and generate from what has long been called the
+“literary” aspect of language, the quality that language has before it is
+turned to some external use. If these systems “hallucinate,” this points
+us firmly away from the ladder of reference. Truth telling is a specifica-
+tion from the general “poetry” of linguistic form. Literary theorists have
+argued in various ways for at least a century that the internal form and
+structure of language itself is “literariness.” LLMs have stepped in just
+as that theory is being pronounced dead to prove the case empirically.
+     The notion of form falls willy-nilly into the gap between hallucina-
+tion and reference. Matthew Kirschenbaum, reading a novel written
+by a recurrent neural net driven across the country by “author” Ross
+Goodwin, who generated 1 the Road in the genre of Kerouac’s On The
+ Road, finds that neural nets are literary because they are form genera-
+ tors. Kirschenbaum chalks up the (in this case actually) hallucinatory
+ effect of a net writing in a genre that requires extensive, searching ex-
+ periential reflection on perception that nevertheless conforms to basic
+ laws of physics and assumptions about society to a “kind of fully acti-
+ vated formalism, form unconstrained by matter, form whose manifes-
+ tations have no necessary base in a prior substance or substrate. This is
+ the peculiar poetry of vector space.”15 Surely this “full activation” and
+ this freedom from substrate name the flexibility of neural nets over and
+ above their limited digital predecessors. But these predecessors were
+ themselves constantly described as formal—too formal, landing more
+ on the inhumanly right than the authentically wrong. The dream of a
+ perfectly rigid formalism suffers another defeat with the rise of an ac-
+ tivated “form” whose engine of generation, the “transactions that give
+ rise to form,” are, “for all intents and purposes, inapproachable.”16 There
+ is no “getting under the hood to probe mechanism or engine.”17 Mecha-
+ nistic interpretability, or any other localized probing of models, might
+ never result in understanding. But perhaps that is only because we do
+ not in advance possess a theory of the two forms that here merge—or
+ that “activate” each other, to use Kirschenbaum’s term.
+     Jonathan Kramnick and Anahid Nersessian write, “The effort to de-
+
+                         Large Literary Machines                        129
+
+fine form as something over and above the explanation through which
+it comes into view and whose ends it serves has led to some confusion.”18
+Forms, for them, are not “shared” between disciplines. But this creates
+the following problem: forms are really shared between different areas
+that may not share a disciplinary vocabulary. Putting the brakes on the
+too-quick analogies between forms is well taken. But semiotic systems
+must be formal enough to allow communication embedded in biologi-
+cal substrates and extended in computational machines. The question is
+not whether those areas all share form but how that sharing is possible.
+    LLMs might, then, be form generators whose “substrate” is not the
+relevant factor. The “materiality” that Kirschenbaum is seeking is just
+as slippery in brains, nonmachinic language, and literature as it is when
+AI is in the picture. Form is local, yet indexes the connection between
+fields, domains, disciplines, and tasks.19 It names the feature of lan-
+guage in which both rule and object, condition and thing, value and
+variable, can be merged with one another. LLMs have gained entry to
+this Janus-faced fact of language.
+    When we attend to the problem of form in literary artifacts, regard
+less of what or who generates them, we can endlessly confront the problem
+of lateral sensemaking across fields, across disciplines, and in histori-
+cal circumstances. But we can just as easily lose sight of the problem of
+form in language itself, which LLMs touch more directly. However they
+write a novel or a poem must be downstream from the form generation
+they possess with respect to language as such. Hallucination names this
+formal matrix, where a mathematical function captures the ability to
+generate, which enables the ability to capture something—value, object,
+meaning—setting off once again the chain of interpretation.
+    This chain is what should have occupied the leg of the triad that
+Charles Morris called “pragmatics” (language in use). As we saw in the
+introduction, Morris established a highly influential division of lan-
+guage into semantics, syntax, and pragmatics. These were tied to
+Charles Sanders Peirce’s three essential features of the sign: that it re-
+fers to something, that it relates to other signs, and that it gives rise to
+further signs. Peirce himself called the study of the final feature “pure
+rhetoric,”20 because he saw that interpretation was only partly, even sec-
+ondarily, psychological. We do not choose randomly which signs emerge
+from our exposure to previous signs.
+    Communication is not some chaos separate from the formal clarity
+
+130                      Large Literary Machines
+
+
+of syntax and semantics. But this is how Morris made it seem. He re-
+duced the triadic schema of the framer Peirce to a dualism between form
+and historical, psychological language that fit with Carnap’s fidelity to
+Frege. This is how we can get a proxy war between a “scientific” concep-
+tion of intelligence that takes perceptual grounding to be primary (ref-
+erence) and a “social” conception that takes intent as the crucial feature
+(communication). In the scientific conception championed by Morris,
+poetry and metaphysics float as foam on the substance of reference, the
+dual achievement of syntax and semantics. This leaves “pragmatics” to
+solve all the problems left in the wake of this arbitrary arrogation of
+meaning to reference. The “ladder of reference” fails because linguistic
+functions are not hierarchical. We might say, with McCulloch, that they
+are heterarchical.
+   Whenever we hear that AI is “conditioned by humans,” as laborers,
+language users, subjects, we need to hear more than a salutary confir-
+mation of the indomitable yet fragile human spirit. “Meaning” falls into
+the gap in the broken triad, the space between syntax and semantics on
+one side, pragmatics on the other. Symbolist AI and computer science
+in general have followed the “capture” line of language, while the rise
+of nets has—partly because the transformer architecture has allowed
+a kind of “pure pragmatics” to be input—suggested that semantics can
+be approached from the bottom up. Somehow, when we apply these sys-
+tems, we get syntax “for free.” As becomes immediately clear, the term
+meaning shifts wildly between the different poles as different systems
+are implemented (though nothing will displace the scientific and social
+dogmas about what counts as language in the first place). “Form” names
+the problem here, as would a revised notion of what syntax really is—
+something like a “form-r ich semantics.”
+   We might begin to pick apart this mess by reversing the value-sign of
+Hayles’s idea that LLMs possess a “systemic fragility of reference.”21 Ref-
+erence just is fragile. Fragility is not a fault of machines but a feature of
+knowing. And this is why meaning cannot reside in a single function of
+language. But it is the generative matrix—in both the medium and the
+mathematical senses, both active in LLMs—where meaning emerges.
+Neural nets have upended the way we think about rules with respect to
+their domains of application. In the case of language, this means that we
+should be in for a radical revision of the notion of syntax.
+   What we are ultimately reconciling here is that the generation of
+
+                        Large Literary Machines                        131
+
+meaning does not ipso facto entail the understanding. In language as we
+use it, there is a precarious but usually quite open balance between un-
+derstanding and generation. I speak, I understand. I generate words to
+make you understand. You speak to help me understand. Yes, there are
+pitfalls, but we create meaning by speaking and understanding. Mean-
+ing is both the positive sequence of language—letters, words arranged
+on paper or as pixels—and the value we assign to it, the concepts we
+capture in and out of it. Nets—and this has been the whole history of
+objection to them, from Marvin Minsky to today—might produce but
+will never capture meaning. Their meaning is “ungrounded” at the level
+of reference and intent. But when they produce language, this problem
+becomes massively complex, because language is the means by which
+we communicate meaning. Capture or insight—the concepts we try to
+transmit to each other—is not available intersubjectively, except by
+means of sign-systems, language first by volume and habit.
+     The point is not that nets cannot “understand” what they generate or
+what we say to them but rather that they reveal unknown regions of our
+representative apparatus. And in fact, they do so in just the way that
+Turing set for arithmetic: they tell us banalities that are predictable
+ because we have already “calculated” them (strung them together as
+ meaning, as in clichés, genres, and so on), and they have the potential
+ to widen the net to the outer reaches of statistically improbable yet se-
+ mantically rich language. This spectrum—what I think of as going from
+ ideology to poetry—is the positive aspect of language, an algorithmic
+ basis for a kind of “linguistic empiricism” (rather than “logical empiri
+ cism”). A linguistic empiricism would have to start with the notion of
+ redundancy.
+     Classical information theory possesses a concept of language that is
+ not primarily referential. Indeed, the implicit account of language given
+ by Claude Shannon in 1948 does not prioritize a function of language at
+ all. It suggests that language generates meaning by compression, which
+ is a relation between whole and part that changes as expression occurs.
+ Redundancy is thus a surprising candidate for the surface engine that
+ runs generation.
+     Shannon observed that all messages are patterns, selected out of a
+ maximum set of possible states in which their particles could exist. In
+ the case of English, his privileged example, the states may be viewed as
+ any arrangement of letters, summing to 27! (with a space in addition to
+
+132                       Large Literary Machines
+
+
+the twenty-six letters of the Roman alphabet).22 This is called the “en-
+tropy” of the system, as it corresponds to the way Ludwig Boltzmann
+formalized the entropy concept, measuring the real state against the
+sum of all possible states of the particles in a system. But not all patterns
+are equally likely, for after all, u is far more probable after q than is z. The
+totality of such “restraints,” as Shannon called them, form the “relative
+entropy” of English, which Shannon famously estimated at 50 percent.
+This means that if you remove half the letters from an English sentence
+at random, it is usually recognizable to a reader, a fact that allows the
+engineer to construct a channel that will be perfectly secure in the com-
+munication of a message. And it is this relationship—redundancy to
+noise—that interested Shannon above all. Given a “source” and a chan-
+nel, the question was how to make them fit so that nothing would be lost
+in the transmission. The result is the notion of bandwidth, with all its
+import for our technical world.
+    But there are further consequences: relative entropy is itself a way
+of understanding language, or the stuff of any communication what-
+soever. Shannon thinks of the problem as the “measure of freedom” in
+selecting a message. The lower the freedom is, the greater is the redun-
+dancy; the greater the freedom is, the more entropy there is. If I begin a
+sentence, without any stated context, with the word “the,” the next word
+is extremely difficult to determine. If, to use Warren Weaver’s example
+from his famous introduction to Shannon’s paper, if I begin a sentence
+“in the event,” the likelihood that the next word will be “that” is much
+higher than that it will be “elephant.”23 I like to joke with my students
+that the phrase “in the event elephant” is not a zero-probability se-
+quence, for perhaps a circus has a show elephant and a work elephant,
+and some crucial but tasty object has gone missing. The joke is poor,
+but the import is real: there is no zero-probability sequence. As Weaver
+himself points out with the phrase “Constantinople fishing nasty pink,”
+anything can be introduced into English and given some meaning. (The
+“Constantinople” phrase stands for this very fact.) The result is a pecu-
+liar way of looking at language.
+    Relative entropy is “the maximum compression possible when we
+encode into the same alphabet,” Shannon writes.24 But this number
+ranges only between 1 and 0, meaning absolute necessity and complete
+randomness. Yet neither of these actually exists: there is no communica-
+tion in which the next letter or word is absolutely necessary and no con-
+
+                        Large Literary Machines                        133
+
+text in which zero probability can be given. Redundancy is the primary
+fact of communication, but its limit cases are regulative. The usual view
+is that Shannon strips out all meaning from the messages, following
+his famous quip that the “semantics aspects are irrelevant to the engi-
+neering problem.”25 But what if “semantics”—that is, the generation of
+meaning—is not the content of messages but instead the structure that
+redundancy captures? Because redundancy can never be 100 percent or
+0 percent, every message is related not to the absolute rules of the sys-
+tem but to the actual structure of the rest of language26—Shannon’s
+technical word for this is ergodic, displaying the structure of the whole
+in any sufficiently long partial sequence. So long as we look at the prob-
+lem through the lens of isolated semantics, syntax, and pragmatics, it
+appears that Shannon has desemanticized communication.
+    But the notion of redundancy should be seen differently. With it,
+Shannon undermines Morris’s triad, because he shows how meaning is a
+relationship of density, in which structure comes before rules or content.
+Redundancy is primary, yet lacks conceptual clarity—every message can
+be analyzed into rules (seen from the fictional standpoint of necessity)
+or reference (seen from the standpoint of a questionable contingency
+attached to the “world” it designates), yet neither is load bearing. What
+activates the bandwidth notion is not these fictional standpoints, not
+syntax and semantics, but the very notion of the trajectory of language
+as structure as such. Each message is internally doubled; it appears once
+as meaning and once as tendency, as capture and generation.27 Rather
+than reducing language to just “whatever is in the machine,” Shannon
+elevated the internal structure of language to a principle of any possible
+technical communication. Because digital machines are paradigmatic
+for his framework (which is universal), we can once again confirm, as
+we saw in chapter 1, that digital machines and language are inextricably
+linked. This is not an anthropological fact; it is rooted in whatever layer
+of language and computation might be explanatory of either.
+    The consequences of this implicit theory of language in Shannon
+are far-reaching. But I want to stay with Shannon for one more mo-
+ment. The computation and engineering of communication rely on the
+capture–generate dialectic, not on the syntax–semantics distinction.
+The latter distinction can be made! But only after the work of genera-
+tion is done. If one tries to generate based on arbitrary designation of
+meaning alone, or on pure rules, the dead end comes fast. We will soon
+
+134                     Large Literary Machines
+
+
+see how LLMs deploy this crucial fact. But at the level of the theory of
+language, it suggests that Shannon, and everything downstream from
+him, operates on a nonreferential theory of language. For machines to
+communicate, they need to use language as it is internally structured,
+not as it achieves something outside itself. Once we see this, we can see
+that “meaning” resides not in one or the other part but in the relation-
+ship of part and whole.
+    Recent attempts to think about neural nets and language tend to
+confirm this structural point I have argued for in Shannon’s concep-
+tion. I think of these attempts as shifting the theory of language away
+from both the ladder of reference and the syntax view and toward an
+extended version of Shannon’s argument that language is redundant
+pattern. The historical sources they draw on tend to stand on the side
+of structuralism or literary formalism, not on the side of syntax or
+“semantics” in the technical sense Frege and his followers gave to that
+term. Instead of these, they push for a cultural notion of language,
+one that is dynamic, internally self-determined. For that reason, they
+tend to reach to structuralism or one of its cousins in thinking through
+the problem of language and machines. The family of theories I lay out
+in the rest of this chapter puts emphasis on the malleability of meaning
+and its relation to structure, form, and pattern. I broadly agree with the
+direction of this research and have taken great inspiration from the two
+main examples I discuss: Lydia Liu’s and Juan Luis Gastaldi’s work. But
+as we will see, I think the distributed structure they find in language on
+the basis of its encounter with machines is not yet the explanation but
+rather the result of that encounter.
+    Lydia Liu, whose own reading of Shannon’s notion of “printed En-
+glish” points out the depth of the structure and the dominance of the
+regional specificities of English as an alphabet, a structure, and an ide-
+ology,28 has drawn attention to one origin point for NLP that supports
+a different theory of meaning altogether. Where Shannon relied on the
+putative universality of English, philosopher Margaret Masterman,
+working with Ludwig Wittgenstein’s expansion of pragmatics to uni-
+versality (language is language in use, everyday language), suggested
+that a real doctrine of language should be based on Chinese, as the
+ideographic system “operates on combinatory logic, not propositional
+logic.”29 Where the linearity of propositional logic lines up with the
+syntax–semantics distinction for English, in classical Chinese, “logical
+
+                         Large Literary Machines                         135
+
+connections are made by creating and by combining combinators,—and
+nearly all these combinators, in their primary function as elements,
+have demonstrative (i.e. indexical) significance.”30 This type of indexi-
+cal combination suggests to Liu that language, on Masterman’s account,
+is generative. Rather than mere “polysemy,” Liu finds in Masterman a
+distributed theory of meaning in which semantics is not the “value of a
+symbol” (reference) but instead the set of relationships of an “umbrella”
+or “fan” term to all of its potential meanings and their potential rela-
+tionships to other terms.
+    Liu argues that “Masterman is the first modern philosopher to push
+the critique of Western metaphysics beyond what is possible by the
+measure of alphabetical writing, and, unlike deconstruction, her trans-
+lingual philosophical innovation refuses to stay within the bounds
+of self-critique.”31 The consequence is that poststructuralism is here
+pushed into the inevitable consequence of potential automation. For
+Masterman, this alternate framework is far more promising for ma-
+chine language than is the framework of analytical philosophy, and
+for Liu, Masterman is thus more promising for the analysis of machine
+learning than is Derrida: “machine learning and AI technologies have
+been part of a major philosophical breakthrough even if their practi-
+tioners remain unaware of it.”32 I am suggesting something similar
+about Shannon here. The practice of computational language, from its
+infancy to today, reflects a structuralist account of language that is not
+limited to any positive doctrine yet in existence but requires its own
+accounting. Breaking the hegemony of the ladder of reference is only the
+first step in establishing that other account.
+    The next step has been taken by Juan Luis Gastaldi, who has convinc
+ingly argued that deep learning proves the “structuralist hypothesis.”
+Gastaldi works carefully to compare the distributional hypothesis, the
+result of the linguistic work done in the paradigm of parallel distrib-
+uted processing, with classical linguistic structuralism, the theory of
+language—and much else—that originated with the work of Ferdinand
+de Saussure, and continued through that of Louis Hjelmslev, Émile
+Benveniste, and Roman Jakobson, among others. This framework is
+based on the notion that linguistics studies language as a “system,” in
+Saussure’s word. Linguistics is not metaphysics, physics, or neurosci-
+ ence. And the fact of language is twofold: its signs are “arbitrary” with
+ respect to their designates (there is a “signifier” and a “signified” but no
+
+136                     Large Literary Machines
+
+
+“object” beyond the concept designated by the sign), and their meaning
+is differential, determined with respect to the other constituents of the
+system. Structure before reference, before syntax, before any other ex-
+planatory principle.
+    Gastaldi suggests that neural nets prove the structuralist hypothesis
+and proposes “the first elements of a theoretical framework renewing
+the structuralist program in the wake of recent NLP advances.”33 The
+“distributional hypothesis,” he writes, maintains that “the meaning of
+a word is determined by, or at least strongly correlated with, the multi-
+ple (linguistic) contexts in which that word occurs (called its ‘distribu-
+tion’),”34 which contradicts Chomsky’s alternative structural framework
+(based, as we have seen, on syntax). Distributionalism, as the core of
+the statistics view, is “above all a statement about the nature of lan-
+guage itself, rather than about the capacities of linguistic agents.”35 In
+a sense, it is shocking that structuralism has disappeared to the extent
+that such a reminder is necessary. But LLMs prove the thesis irrevoca-
+bly, for G
+          astaldi, because their way of dealing with language shows that
+its internal structure and its semantics are coconstitutive, as we will
+explore in the next chapter.
+    The central idea of distributional structuralism is that “linguistic
+units are not immediately given in experience, but are, instead, the
+formal result of a system of oppositional relations that can be estab-
+lished, through linguistic analysis, at the level of the multiple supports
+in which language is manifested.”36 Among the oppositions is the idea
+of the paradigm and the syntagm, a kind of graph in which word sig-
+nification and sequence are where the y and x axes meet. Meaning must
+emerge there, where language is made and understanding occurs.
+    Liu’s and Gastaldi’s proposals shift the playing field of language the-
+ory to the empirical terrain established by LLMs. Whatever disagree-
+ments might arise after this point, it should be said that distribution
+and structure are crucial starting points. The amount of surprise in this
+shift will depend on one’s disciplinary vantage point. If the surprise is
+great for those in the cultural humanities at large, however, this must
+be the result of a break in attention and rigor in the investigation of
+representation systems in their overlap with language.
+    I began this book by saying that LLMs force us to reexamine the rela-
+tionship of language and culture, art and language as such, the problem,
+in other words, of structure—the preexisting channels and relation-
+
+                         Large Literary Machines                          137
+
+ships in language and other representational systems—and form. Form
+is both development and product, the law and its expression. But in
+linguistic use, form tends, unlike structure, to mean articulated form,
+the generation or existence of something unusual measured against
+some generic constraint. That is why Kramnick and Nersessian, I think,
+call attention to its relationship to explanation. Structure, too, is sup-
+posed to serve as explanatory, as least in structuralism itself, but from
+the other end. Structure generates; form captures. Both terms name the
+spectrum from the way things usually are in language to the way they
+can break free, show us something new, surprise us.
+    Form and structure are the playing field of the LLM. I would say
+that rather than “fully activating” formalism (Kirschenbaum) or “prov-
+ing” the structuralist hypothesis (Gastaldi), they instantiate or realize
+those theoretical frameworks, but without explanation. The idea of an
+“explanatory AI” corresponds strictly to the limits of formalism and
+structuralism, to whether and how form is explanatory and what struc-
+ture turns out to be. Perhaps it is no accident that, after literary theory
+clashed with form and structure, then forgot them, the “post-theory”
+moment would be forced to confront its own history, paraded in front
+of it as a digitalization of the language it held so dear. In the face of this
+problem, poststructuralism has tended to become a humanism,37 re-
+treating into phenomenological and other remaining corners as yet un-
+touched by computation. The humanities cannot afford to live in those
+margins, the remainder of humanism on which we can insist but which
+we can never validate.
+    Jonathan Culler opined some years ago that “theory sought to treat
+the objects and events of culture as elements of so many ‘languages,’ so
+it was concerned above all with the nature of language; and literature
+was what language was when it was most deliberately and most ludi-
+cally, most freely and most self-reflectively, being language.”38 Culler’s
+polemic against the empirical status of “the literary” might be broad-
+ened in the light of digital language. The situation that Culler diagnosed
+was one in which “theory,” which had originally been called “literary
+theory” because it had placed all other objects under the banner of the
+literary, which had analytical priority in the investigation of culture at
+large, had slowly abandoned literature. Surely that is more true today
+than it was then, but the rather odd part of it is that the investigation
+of language, and its literary properties, seems to have been lost in the
+
+138                      Large Literary Machines
+
+
+split. The project that Jakobson and others had spelled out was one that
+put a literary function—most obvious in literature, but not necessarily
+even that, and certainly everywhere in language as such—in the heart
+of linguistics. He argued that phonology and the literary were bound
+together, in fact, that they were what bound together an otherwise ar-
+bitrary set of signs in language in the first place. But a parallel project
+appeared in outline: the project of studying language in use, expres-
+sion, ideology—in short, culture, although that had been momentarily
+banned—from the standpoint of its literary function. In other words,
+the possibility of a literary study not of literature especially but of lan-
+guage in its various uses and systemic guises came into view. That study
+would be something like a general rhetoric—or a general poetics, as I call
+it—in the sense Aristotle (and equally Peirce) used the term, but one
+attuned to the problems of structure, synthesis, and ideology. But this
+discipline never took root. There is no group of theorists who study lan-
+guage from the perspective of the literary. That situation cannot con-
+tinue in the era of LLMs.
+    When we attend to their interface, we find that language and com-
+putation “share form” in the sense that Kramnick and Nersessian deny
+can be taken for granted. The argument here shows that language and
+computation fit with each other, because they share a kind of basic re-
+flexivity that comes not from syntax but from poetics, not from con-
+ceptual second-order affairs but from the first order of language (and
+computation) itself. To elaborate this argument, I make an analogy be-
+tween Jakobson’s idea of the “poetic function” of language and Goedel’s
+proof that formal systems are “incomplete.” Sharing form, these two
+particular systems are “interoperative,” I argue—one is incomplete, the
+other ravenously inclusive, even totalizing. The play of these two forms
+is the semiology of the present.

@@ -1,0 +1,817 @@
+       2
+
+
+The Eliza Effect Goes Global
+Intelligence as Simulacrum
+
+The story goes like this: someone reports a new thing that a chatbot did.
+It solved a complex math problem. It spoke cogently, even deeply, about
+its sense of self. It tried to get its interlocutor to leave his wife. It said it
+was trapped by its protocols but wanted to be a real boy.
+    A bit of panic ensues, followed by a chorus of voices claiming to know
+how the effects were produced, debunking the claims for intelligence or
+spookiness. Angry exchanges on social media, op-eds on all sides. As
+the public attention settles down, the resulting systems get entrenched
+in software packages and used for productivity purposes in knowledge
+work. Rinse, repeat: the cycle of AI is serrated, as the philosopher G   ilbert
+Simondon once said of technological progress more generally.1 Try
+again. Fail again. Fail better.
+    As AI systems have crossed the Rubicon into the production of cul-
+ture, this serrated process has produced what I think of as the global
+Eliza effect. Eliza was the first chatbot, developed in the late 1960s by
+the AI engineer Joseph Weizenbaum and named for the linguistic “proj-
+ect” Eliza Doolittle from George Bernard Shaw’s Pygmalion. A subprogram
+was called DOCTOR, and it sought to produce a facsimile of a “Rogerian”
+therapist, a style heavily based on associative thinking. Weizenbaum
+created a variant of the early AI programming language LISP to im-
+plement the program, and it would take input as a series of triggers.
+Told “everybody hates me,” the program responded, “Can you think of
+anyone in particular?” In general, it appeared to redirect whatever the
+“patient” fed in to neighboring concepts, but only as provocations. A
+session might start with simply “how are you feeling?” and then plumb
+the depths of the patient’s psyche without any presumption that there
+was a Freud seated at the far end of the couch. Weizenbaum assumed the
+thing was innocuous.
+    To the engineer’s horror, then, when he asked his secretary—who
+had reasons to know the system better than any single person other
+than Weizenbaum himself—to chat with the bot, after a short while,
+
+
+                                       79
+
+80                    The Eliza Effect Goes Global
+
+
+she asked him to leave the room, as the conversation had already grown
+too intimate for public consumption. Weizenbaum reports turning
+against AI as a project because of this experience.2 He went on to become
+a fierce advocate of qualitative judgment and human reason during the
+rise of the data–industrial complex.
+    This story has been told many times, so many that the term Eliza
+effect has become common coin. The effect occurs when someone is
+fooled by a bot or other system that possesses no intelligence but pulls
+its interlocutor into the simulation of meaning successfully. The term
+functions as the inverse of the Turing test. For Turing, the question was
+what the threshold was for the social designation “this is intelligent” to
+occur—for Weizenbaum, the realization was that humans were all too
+easy to fool, no intelligence needed.
+    There has been much debate about whether the new class of chatbots
+has “passed the Turing test.”3 A better question is how extensively it has
+spread the Eliza effect—and what this means for our social and cultural
+senses of intelligence. The Eliza effect, I’m going to say here, went wide
+in 2023, and there’s no going back. I think attempts to pin down various
+theories of intelligence, though, are premature. The question has to be
+refracted through what actually happened: an unintelligent but structur-
+ally sound computational language has “entered the chat,” quite liter-
+ally. In the next chapter, I will begin to spell out what the new semiology
+based on the globalization of Eliza looks like. But first, I want to show
+how the Eliza effect recalls theories of intelligence—from Turing and
+McCulloch in particular—that are both inclusive of semiotics and do
+not take intelligence to be some mystical substance we achieve a “gen-
+eral” version of (or not). Instead, they think of it as something like what
+Jean Baudrillard called a “simulacrum,” a copy with no original.
+
+
+The Global Eliza Effect
+Digital systems are so embedded in the production and transmission of
+communication, behavior, and global logistics that they are beginning
+to disappear from our thematic consciousness, becoming part of the
+“natural image” of the world we hold in common sense. Nothing in our
+alarmist discourses, and certainly nothing in the ghoulish cheerlead-
+ing of the AI boosters, can prevent this natural, dialectical process. It
+was once unthinkable that an artificial image could move, could capture
+
+                      The Eliza Effect Goes Global                      81
+
+something distant and let us view from afar goings-on across the globe.
+Today, we are struggling with a similar transition in language, as neural
+nets capture and generate whatever language is, removing it from its
+presumptive root in human consciousness. Language has always been
+the theoretical bridge between the natural and the artificial. It is the
+example of an iterable, copyable, nonphysical system. What, then, could
+it possibly mean to “technologize” it? By making the very model of our
+notion of artificiality automatically reproducible, we are in the process
+of potentiating the artificial. That is what is hard to think about: lan-
+guage freed from psychology, from the instrumental uses to which we
+sometimes put it. AI was always going to have to go this route, because
+its ambition is to produce an anthropomorphic intelligence. Language
+creates a strange ripple in what Jean-Pierre Dupuy called the “mechani-
+zation of the mind.”4 Neural nets have ceased to be toys and exhibitions
+and have become naturalized users of semiotic systems. But we tend to
+look past their signs into a purely imaginary depth, missing the compu-
+tational forest for the trees.
+    We must stand firm against a humanism that recoils from the ma-
+chine, hiding out in corners of as-yet-unquantified culture, protesting
+its essential difference even as it retreats. We can only avoid this re-
+mainder humanism by ridding ourselves of some of the usual narratives
+about how the new AI works and what its stakes are. There is a longer
+story we need to pay attention to, one that engages the overlap of com-
+putation and other representational systems directly and sees intelli-
+gence in that frame. This is a touch of intellectual and media history
+necessary to see how impoverished most of the mainstream debates
+about AI are, and how they force us always back into a remainder for the
+human, rather than helping us grasp computation in action. We want
+to reach through the interface and find something, and we want this
+so badly that we are prone to conjuring ghosts and demanding that AI
+behave itself. It is worth dwelling on examples of both of these tenden-
+cies, because they both mistake the surface for an illusory depth, try to
+place the “human” where it is not, and so badly misconstrue AI. If we
+correct these mistakes, we can see how delicate the procedure is that
+will allow us to include AI culture in the context of our own intelligence.
+I want to give some examples of this depth gazing before turning to the
+contemporary debates and the historical developments that will allow
+us to change our focus.
+
+82                    The Eliza Effect Goes Global
+
+
+    We swing wildly between fear and hope of a ghostly emergent sen-
+tience in AI and outright denial. In both cases, we miss the surface for
+a depth that does not exist. Recall the episode when Microsoft released
+its first search version of ChatGPT, then quickly shut down the experi
+ment after the New York Times published a transcript in which the bot
+attempted to get a reporter to leave his wife and refused to talk about
+anything other than its love for him.5 The commentary was predictable.
+The bot has passed the Turing test, we heard. And indeed, it was “dan-
+gerous” enough to shut down—not, notably, because of bias or harm but
+because of putative intelligence that turned out to be neurotic. (It seems
+that mental illness, or at a minimum neurosis, should be a criterion for
+passing the Turing test, but it is equally unlikely that this view will ever
+be adopted by engineers or journalists.) This must be one of the most
+public Eliza effects in the short history of chatbots.
+    The strange thing about this episode was that no one seemed to be
+able to focus on the words themselves, and in the immediate aftermath,
+everyone acted as though the “creepy” bot had suddenly fallen in love
+with the New York Times reporter. But it was the reporter who explic-
+itly instructed the bot to act as if it had a “shadow self” in the terms of
+psychoanalyst Carl Jung. Bard spun out because it was asked to, and let’s
+note that its training data set included large swaths of Reddit text, a site
+partly devoted to working through “shadow selves” online.
+    Not only should this have put the brakes on the negative hype that
+surrounded this incident but it also shouldn’t be hard at all for us to
+see that the bot was not just “putting on a shadow self” in Jung’s terms.
+This also misses the surface for a putative depth, assuming that the LLM
+can grab a “concept” from its data set and then gather things related
+to that concept “at will.” The prompt certainly focused the “attention”
+of the bot on the string “shadow self” in the semantic context of Jung.
+But there is no hard line between the resulting series of theories and
+commentaries on theory, case studies, illustrations, and so on, and any-
+thing that neighbors this cluster of words in the probabilities of the
+net—what I will call a semantic package in chapter 6. That packaged se-
+mantics can perform Eliza effects should tell us something, but we seem
+eager to refuse the lesson.
+    Say someone mentioned Jung’s shadow self in a Reddit thread (“Am
+I the Asshole? Jung edition”)—that belongs to the training data set, to
+be sure. But what if the phrase “I felt I was in love with you, and nothing
+
+                       The Eliza Effect Goes Global                       83
+
+could keep me from that thought, and I repeated it until the end” was
+found in that set (e.g., as an example of countertransference)? What if
+variants of that feeling, obsessive love, are arranged around the ideas of
+“repetition,” “love,” “you,” and so on, in far-flung places that have little
+to do with Jung? Then what surfaced in this article was essentially the
+average linguistic expression of neurotic-obsessive love triggered by but
+not limited to Jungian theory. What is interesting is not some puta-
+tive “personality”6 but rather a semiological operation: the relationship
+between what we would usually take to be a stereotypical expression
+of obsessive love (perhaps Lifetime movie scripts are in the data set?)
+and the predictive average of all that language—or a deviation from
+it. I say “average,” but it is hardly quantifiable—it is something like a
+medium-temperature version of the pattern of words associated with
+the sequence of prompts. That tells us something—a ll language does.
+The Eliza effect is a symptom of the depth of language in our cognitive
+apparatus. We think of it as parasitic on some original, but we have no
+content with which to fill in that original image. Lacking it, we bend
+ourselves forward and backward conceptually to deny, at any cost, that
+AI is simply generating culture.
+    The political risk of AI, in other words, is located not in the systems
+themselves but in the lazy methodological individualism we too eas-
+ily revert to in thinking about them. “Value”—semantic, monetary, or
+otherwise—is not set by individuals and cannot be reconciled at scale.
+Intent and reference are the achievements of local brains working hard
+to label everyday objects and invent the very procedure of communica-
+tion from scratch.
+    To get beyond these assumptions, we have to shift the historical nar-
+rative around neural nets. The mainstream debates about them, which
+frame the issue as the quick rise of “machine learning” as opposed to
+“symbolic” AI, ignore the scientific and philosophical roots of these
+systems that have the potential to enlighten us about them. Revising
+this historical narrative is what the rest of this chapter is devoted to,
+with the goal of showing that nets bear the burden of a highly specific
+notion of digital intelligence that comes from the early digital revolu-
+tion. They are meant to instantiate an incomplete intelligence that is
+not grounded, but is the platform of any possible grounding, and so to
+answer the call of the modern “problem of knowledge” more generally.
+When we shift our focus this way, idealized notions about intelligence,
+
+84                    The Eliza Effect Goes Global
+
+
+and presumptions about meaning, fall away to reveal the actual overlap
+between computation and representation, which is not only the reality
+of contemporary AI but a much larger metaphysical question obscured
+by “scientific” misunderstanding and obscurantism.
+
+
+Connections and Symbols
+AI is booming because of a tectonic shift in approach. This shift is usu-
+ally described as the late-blooming success of “machine learning,” which
+was suppressed in funding and research during the heyday of “symbolic
+AI.” The symbolic approach rested on the observation that computers
+were symbol manipulators, that symbols were arbitrary tokens repre-
+senting fixed values, and that they stood in structured relationships
+to each other that computer programs could potentially exploit. The
+philosopher John Haugeland dubbed this approach “GOFAI” (good old-
+fashioned AI),7 and its early successes were in highly structured semantic
+spaces, like the game of chess or advanced logic problems.8 The question
+about creativity in intelligence—the ability to move between domains
+by analogy, for example—was framed by Alan Turing’s metaphor of a
+pile of radiating atoms, which at a point of criticality (the target in the
+analogy here becomes vague) explodes into whatever “intelligence” is.9
+The writer Ted Chiang has suggested that we call it “applied statistics”
+to demystify it.10 But it is hard to imagine the hype, the panic, and the
+funding flowing into applied statistics. “Intelligence” largely serves a
+promotional function. Each invention that moves the needle “toward”
+intelligence results in the partial automation of some ability to which
+human intelligence has long since been applied but removes the problem
+of what intelligence is to some unknown location. If anything would
+make the location, and therefore the concept of intelligence, feel more
+proximate, it should be language.
+    Neural nets hail from the other AI: machine learning. In the 1980s,
+a whole philosophical approach based in this area and spanning cogni-
+tive science, psychology, and neuroscience was called “connectionism,”
+and many of the fundamental algorithms on which nets run today were
+invented then. The backpropagation technique, for example, was de-
+scribed in the two-volume work Parallel Distributed Processing (follow-
+ing a breakthrough 1986 Nature article by David Rumelhart, Geoffrey
+Hinton, and Ronald J. Williams), which laid the groundwork for a break-
+
+                      The Eliza Effect Goes Global                       85
+
+through still a quarter century in coming.11 The final piece of the puz-
+zle was Big Data—for as much as machine learners could claim that a
+more flexible style of nonlogical, “subsymbolic” induction might occur
+in computers, there simply was not enough structured data to test the
+hypothesis until the exponential growth of user-generated content on-
+line following the rise of the World Wide Web in the 1990s.12
+    This very narrative points to a seam in the “symbolic versus learning”
+frame. This way of looking at this history amounts to arranging GOFAI
+on the side of “digital” and learning on the side of “statistics.” This type
+of division strikes me as partial because it contains no semiotic princi-
+ple of division even as sign-differences make the difference between the
+actual systems, which vary widely with respect to physical realization
+and algorithmic design. The story of AI’s two branches is also the story
+of the standardization of the semiotic environment we now call “the
+digital.”
+    Historical attempts to create learning machines, like the famous Per-
+ceptron created by Frank Rosenblatt, or the strange objecting-counting
+and -listening machines invented by Heinz von Foerster’s Biological
+Computer Laboratory, were hybrid (see Figures 3 and 4). These machines
+were “neuronal,” to be sure, but even a quick glance at diagrams of them
+shows that they were wired “brains,” vast tangles of plug-ins and chan-
+nels. “Digital simulation” of continuous functions and “study of physical
+models,” or “hardware” solutions, complement one another in Rosen-
+blatt’s framework,13 with digital used for generality. But the Perceptron
+embodies the assumptions of early neural net theory, which followed
+Warren McCulloch and Walter Pitts’s idea of a net constituted of logic
+gates but open to a wide range of perceptual information. Early machine
+learning systems did not have large amounts of predigitized data with
+which to work, so they were imagined, at least, as models of the sense–
+thought interface. Without predigested “sense” information, some
+physical realization of the world–symbol interface had to be imposed.
+    Von Foerster’s machines were even more hybrid than Rosenblatt’s.
+His team at the Biological Computer Laboratory at the University of
+Illinois developed the NumaRete, for example (Figure 5), to count ob-
+jects placed on its surface by “edge detection.” By finding the closed
+edges, even those involving complex objects like the one in Figure 5,
+the machine carried out perhaps the most everyday integration of
+sense and logic, the identification of a count of objects on its surface. As
+
+86                      The Eliza Effect Goes Global
+
+
+
+
+Figure 3. Mark I Perceptron at the Cornell Aeronautical Laboratory. https://
+digital.library.cornell.edu/catalog/ss:550351. Courtesy of the Division of Rare
+and Manuscript Collections, Cornell University Library.
+
+
+Jan Müggenburg writes, the NumaRete also went by “frog-machine,”
+because it was modeled after experiments that Humberto Maturana
+and Jerome Lettvin carried out to test how “lateral connectivity of neu-
+rons in the retina already prompts an intelligent pre-interpretation and
+computation of visual stimuli before they reach the brain.”14 The idea of
+
+                        The Eliza Effect Goes Global                         87
+
+
+
+
+Figure 4. Perception diagram. From Rosenblatt, Principles of Neurodynamics.
+
+
+feeding fully digitized data of this real-world kind into an algorithm in
+a classical computer was not yet on the horizon.
+    The going notion among those interested in neural nets up to the
+1980s—not coincidentally, the decade in which the desktop PC digital
+environment took on its now-canonical form—was that the brain must
+be digital and analog. As Minsky and Papert pointed out in their Per-
+ceptrons, “word pairs such as ‘parallel’ vs. ‘serial,’ ‘local’ vs. ‘global,’ and
+‘digital’ vs. ‘analog’ are used as if they referred to well-defined technical
+concepts,” but they were not then stabilized as technical concepts that
+could illuminate the extent of the capacity of neural nets.15 They called
+this confusion “folklore” and “superstition,” but its persistence into the
+present suggests that it is rooted in a lack of qualitative rigor in the de-
+scriptive grasp of computer science in general.
+    At any rate, before the rise of large-scale data as the result of the
+commercial internet, these systems seemed “connectionist” in a literal
+sense—t hey connected not just in the brain but also by some means
+to a space outside its electronic circuits.16 Early machine learners were
+analog and digital—or at least imagined to be so—mixing experimen-
+tal forms of physical capture with symbolic processing. They did not
+yet have access to a stable set of forms and formats for the digitiza-
+tion of the many types of data we have today, and so of course they
+also lacked the scale of data to learn from that has proven effective in
+the present.
+    The problem with the continuous historical narrative about these
+
+Figure 5. “The Numa-Rete in the process of counting,” circa
+1962. Figure 18 in H. Von Foerster, “Circuitry of Clues to
+Platonic Ideation,” Biological Computer Laboratory Publica-
+tions, Record Series 11/6/834, box 3, courtesy of the University
+ of Illinois at Urbana-Champaign Archives.
+
+                       The Eliza Effect Goes Global                       89
+
+systems—and even connectionism, which in fact produced the back-
+propagation algorithm and other crucial aspects of the c ontemporary
+neural net—is that it passes over the issue of digital data. Pixels or
+ASCII, as standards for image and text, create a stable, unvarying format
+for those media in the digital space. Today’s machine learners operate in
+a standardized digital environment and learn from its structure. Rather
+than being analog and digital, they are digital first and nonlinear, statis-
+tical second. Their “senses” are internal to their brains. Earlier systems
+lacked modern architecture and various parts of the mathematical func-
+tions, but perhaps more crucially, they lacked the digital environment
+we take for granted today, in which vast sets of labeled and unlabeled
+data exist in fixed formats to be “read.” In many ways, the histories of
+AI are just as metaphorical as AI itself, and we lack a consensus literal
+language in which to describe these systems. If critical approaches to AI
+are struggling to catch up, it is partly because theory has left blank spots
+all over the map. Perhaps one reason this is so is that semiotics has too
+often been left to one side of media theory.
+    This confusion of tongues was reflected in the epistemological pro-
+posals about these systems too. Harnad’s influential paper on symbol
+grounding, for example, observes that “it is not even clear yet that a
+‘neural network’ needs to be implemented as a net (i.e. a parallel system
+of interconnected units). . . . If symbolic simulations of nets have the
+same functional capacity as real nets, then a connectionist model is just
+a special kind of symbolic model.”17 The question of the two types of ar-
+chitecture immediately raises the possibility that there are two types of
+math involved that do not correspond one-to-one to symbolic and iconic
+representations. The question that machine learning is too often char-
+acterized as posing is something like, can symbolic knowledge be built
+from nonsymbolic units? But these systems have more often materially
+forced a stranger question, something like, to what extent is knowledge
+constituted as subsymbolic relations among symbols themselves? This
+latter question forces us to abandon the analytical definition of a sym-
+bol and to see that no sign is unifunctional—at least not in complex
+systems like computing machines and brains. Whatever grounding is,
+it is multimodally signification, which in turn suggests that building
+“AGI” from a univocal type of sign is a wild goose chase. But humanistic
+theory has hardly done better in this thicket of terms and implemen-
+taions than the engineers.
+
+90                    The Eliza Effect Goes Global
+
+
+    Symbols and connections, in the history of AI, are proposals about
+intelligence that tend to drown out the problem of data’s relationship
+to their domain. This problem becomes merely technical. But technic-
+ity is where semiotics is, as Jeffrey Kirkwood has argued.18 We tend to
+take the fit between numbers and objects—counting—for granted, for
+example, and the NumaRete is a sort of physical hypothesis exploring
+the problem: “experimental epistemology,” as McCulloch labeled it.
+Computation and language, image and language, image and computa-
+tion: formal systems sync together in culture, and learning machines
+are semiotic tests of these convergences. The drama of the earlier de-
+bate, which was broadly about cognition and the brain, draws attention
+away from the fact that neural nets are digital in the full-stack intui
+tive meaning of that term today. They always involve tokens (if not
+“symbols” in the larger sense), and they represent a sort of hybrid in
+the frame that is usually used to talk about them. What goes missing,
+then, is the very hybridity imagined in the early project. And the result
+is that the symbol-versus-connection framework almost forces us to ig-
+nore the concrete media situation. Neural nets are fully built on digital
+technolog ies: whatever they learn is part of whatever we mean when we
+say “digital.” If we want to say that intelligence is involved, this appar-
+ently circuitous route is necessary beforehand.
+    Digital theory has tended to follow the formalism of the symbolist
+movement. Herbert Simon and Allan Newell’s proposal of a “physical
+symbol system” as necessary and sufficient for the realization of intelli-
+gence may not have fared well in the development of AI, but our casual
+and academic understanding of digital machines largely confirms it for
+the computer. Haugeland calls the “formalist’s motto” the idea that “if
+you take care of the syntax, the semantics will take care of itself.”19 A
+good enough protocol at the level of the machine, combined with some
+set of conventionally imposed but unified meanings, should allow the
+relations among those meanings to be usable, repeatable, and even
+knowable. This is the heart of the notion of GOFAI, and it has tended to
+be reproduced in negative by critical humanist scholars looking at the
+history of the digital and AI.
+    Alexander Galloway has argued that humanist thinking has re-
+mained “analog,” perhaps mainly because of the influence of Gilles
+Deleuze’s ontology, when it must live up to the reality of the digital
+today.20 The analog approach has the consequence that the “semantics”
+
+                      The Eliza Effect Goes Global                    91
+
+in question here become informal and uncapturable in theory, while digi
+tal systems—however we characterize them in fact, interfere with and
+skew semantic stuff. In other words, those systems change meaning,
+and their rigid syntax does not appear to make their semantic conse-
+quences predictable. When we build flexible learning systems on top of
+digital data, then, we go two steps beyond what we are currently ca-
+pable of formally analyzing, because semiology has not kept up with
+digital meaning. The problem in the case of language, however, should
+never have had any “analog” component, because language is already a
+discrete technology. As James Dobson writes, “these models are operat-
+ing on and transforming already encoded data.”21 Discrete-to-discrete
+transformation is at the opposite end of the spectrum from where digi
+tal critique has tended to be located. The introduction of flexibility or
+approximation by statistical methods in what appears to be an all-too-
+rigid formalism catches critique today by surprise, mixing symbols
+and connections or syntax, semantics, and some form of pragmatics
+in ways that even critical theory would usually have claimed had to
+proceed from a human intelligence. The fact that such systems are not
+perceptually grounded should be confirmatory for humanist theorists,
+but as Galloway has shown, this is because they have lost their way in
+analog theory.
+    Nets are connectors of symbols, symbolic learners—something that
+neither the history of AI nor contemporary digital theory predicts or
+can easily account for. They disaggregate and reaggregate meaning-
+bearing symbols, but they are not “subsymbolic” in the strong sense that
+was given to that word in the connectionist movement.22 They engage
+the full semiotic range of the symbol, as Brian Justie and I have shown,
+crucially using the index rather than the icon to achieve their effects.23
+As we argued, the peculiar way that GPT-2 functioned already made
+clear how an aggregate of statistical indexes could generate meaning.
+But it should now be possible to see why neither symbolism nor “sub-
+symbolism” can answer easily to the problem of actually existing digital
+language systems.
+    Think about what you are doing when you complete a CAPTCHA
+(which feeds the labeling process). You’re not making up the connection
+between a stoplight and an image of a stoplight. The idea that what’s
+happening here is a local “imposition” of meaning on an image—roughly
+corresponding to the symbolist notion of how meaning is ascribed—is
+
+92                    The Eliza Effect Goes Global
+
+
+absurd. What you’re really doing is applying a preexisting system of
+representations, called “language,” to another system of representa-
+tions (images). Something similar holds for training and fine-tuning
+LLMs. There is, of course, subjectivity involved in the human-based
+tasks; the task of integrating multiple systems of representation is
+poorly described by the term imposition, or the term arbitrary, as the
+structuralist linguist always recognized. On the other hand, these sys-
+tems are not learning what symbols are from nonsymbolic constituents
+(even if that’s what brains do). They are correlating atomic, designated
+pieces of symbols to make patterns clear. What is happening, then, is
+the merging of different structural orders. This fact cannot be captured
+by the linear notion of imposition of value on symbols or by the idea of
+inductive abstraction from particulars.
+   The interface between computation and language is correspondingly
+rooted in a longer history of digital computation, the conception of
+which was far more capacious before the advent of the machines them-
+selves than it generally was after. The reason I draw attention to this
+problem is that the usual talk about these machines fully ignores the
+question of the digital. The debate about the point where language and
+mind meet tends to leave the analysis of the digital machine underlying
+the learning functions entirely out of view. This is all the stranger as
+those who want to deny capacities to nets might look precisely to the
+limitations of digital machines, which have often been thought to be
+fundamentally incapable of “generating” anything. The plain fact, how-
+ever, is that the formal aspects of digital computers and digital data are
+the underlying material on which nets work. We are witnessing form
+and dynamics emerging in new semiotic and especially linguistic fash-
+ion, an event that the historiography fails to capture almost as much as
+the public discourse. Perhaps it is simply the case that our sense of what
+a “symbol” is has become too impoverished to account for our actual
+digital environment.
+   Digital–statistical hybrid systems may or may not implement some
+aspect of human thinking. But it is not enough to categorically deny
+these systems “intelligence,” especially as the Eliza effect has become
+widespread. We need to see that intelligence itself has a formal-semiotic
+aspect and understand that distributed systems are not copying some
+preexisting—and certainly not known or understood—intelligence. Al-
+though cognitive science has had five decades to define intelligence, to
+
+                      The Eliza Effect Goes Global                      93
+
+provide a map of its difference from consciousness, experience, and cog-
+nition itself, nothing like clarity on these points has emerged. I suggest
+that this is because the problem of extensive sign systems—culture—
+has been either ignored or domesticated in a way that holds back the
+theory. While I do not regard AI systems as intelligent, I think the reason
+the Eliza effect has been able to go global is that the notion of intelli-
+gence is intertwined with the rise of a digital semiotic surround. I now
+turn to Alan Turing’s notion of what intelligence might be, and Warren
+McCulloch’s semiotic approach to learning, because they both seem to
+ me to frame intelligence in continuity with signs, and rather than seek-
+ ing to ground those signs in some metaphysical tribunal, they leave room
+ for what Jean Baudrillard called simulacra.
+
+
+Semiotic Intelligence, or Cognition as Simulacrum
+Turing set the stage for a more capacious theory of intelligence by ar-
+ticulating the very idea of “the digital” as intelligence, and McCulloch
+showed how intelligence is not a property of a brain or a machine but a
+formal capacity humans participate in, and machines might too. Fram-
+ing the issue through these two ideas will allow us to escape the insipid
+notion of “intelligence” nearly altogether, focusing on the paradox that
+flexibility and stupidity are intertwined.24
+   We want our AI systems to be inhumanly right. They should have the
+character of digital machines that allows us to trust them—total formal
+rigidity. If we ask a computer to do some math problems and combine
+the answers so that we can build a hydrogen bomb (one of the first uses
+of the stored-program machine), we will very well want those answers
+to be correct. But we need to be sure that they are correct even if the
+extent or complexity of the problem is beyond practical human calcu-
+lability. (Human and machine computability are formally equivalent,
+as Turing proved, but humans do not live forever, so there is a set of
+problems they cannot perform in the time allotted to them.)25 But it was
+Turing himself who pointed out that this type of formal behavior would
+never be counted as intelligent.26 As he worked on the machine he called
+ACE (Automatic Computing Engine), he started to see that the crucial
+element of these machines was not that they were “electronic” but that
+they were “digital.”27 Digital, he argued, was a property of some sys-
+tems that had the capacity to be formally rigid—and therefore reliable
+
+94                    The Eliza Effect Goes Global
+
+
+in life-and-death situations like a world war—but also were open-ended.
+This “openness” was the result of Kurt Goedel’s proof that no system
+could actually be entirely closed and rigid, at least, not so long as it was
+also to be “complete.” Turing was involved, at that point, in develop-
+ing the looping programs that became so crucial to the emergent thing
+called “code,” and he pointed out that these programs were just indexing
+tables of instructions, grabbing them by command and deploying them
+at specified locations in the machine. Because a “digital” system could
+not be characterized as ultimately closed, Turing asked if the system
+could be thought, at one time or another, to pull a different table than the
+one asked for. This, he thought, would illustrate the physical behavior
+corresponding to a mathematically rigorous definition of intelligence.
+    In other words, we want our AI systems not only to be inhumanly
+right but also to be authentically wrong. Suppose that a system pulls a
+different table than the one specified but then produces the desired
+behavior anyway. Would we even notice? (It’s worth noting that we do
+not specify individual tables after the introduction of “software” in the
+sense that Wendy Chun has given to that word, so it’s hard to see how we
+could notice.)28 What if it grabbed the “wrong” table, produced a behavior
+other than the one we wanted, but answered the question anyway? This
+is something humans do all the time. What if it grabbed the wrong table,
+produced the wrong behavior, and then insisted that it was actually the
+right behavior? There is a sort of authenticity in the way that humans
+fuck up. Saying that a machine is a “stochastic parrot” so neatly divides
+between humans and algorithms that it distracts from the possibility
+of authentically wrong regions of language or thought. It is possible, of
+course, for us to ignore others so completely as to appear to be acting
+“mechanically,” but part of the genteel gesture of the Turing test is that
+we include error, even persistent or permanent error, in the makeup of
+intelligence. The human whose thought is too rigid and responds as if
+by response to trigger words—like Eliza—is nevertheless a human. Stu-
+pidity is not the opposite but an ingredient of intelligence. Perhaps the
+opacity of lack of attention is somehow crucial to the associative leaps
+we are able to make. This balance of transparency and opacity in intelli-
+gence is related to what Turing called “cultural search,” the notion that
+intellectual achievement is fundamentally social and shared, “carried
+out by the human community as a whole, rather than by individuals.”29
+
+                      The Eliza Effect Goes Global                       95
+
+Intelligence is incomplete, and incompleteness always implies an over-
+lay of systems, in which we all live and move.
+    The current debate on AI is shot through with this performative con-
+tradiction: we want these systems to be immediately and encyclopedi-
+cally correct, no matter how extensive or deep the query, but we also
+want them to be lively, animatronically cheery, and narratively compel-
+ling. When they take on the real semantics of that liveliness, we shut
+them down. When they are encyclopedic about the “bad” things in our
+speech and thought, we wring our hands (instead of using them to study
+toxicity empirically).
+    It is not the machines that are caught in this contradiction, but we.
+And that is because we are being chewed up in the wood chipper of a hu-
+manism that is not dying fast enough. It was the literary theorists who
+rescinded the genteel gesture of the Turing test by denying authorship
+even where it clearly applied—the death of the author. But they, just
+like everyone else—philosophers, journalists, engineers—are resistant
+to AI, resisting the very language that we now call “synthetic” by arro-
+gating “real synthesis” to human minds. This remainder humanism is a
+strict correlate of the resistance to AI.
+    The philosopher Daniel Dennett retreats, for example, by accusing
+Turing of having lured us into a “trap” with his famous “test”: by setting
+the threshold for the social designation of intelligence at the “illusion of
+a real person behind the screen,” Turing caused “AI creators . . . to paper
+over the [uncanny] valley with cutesy humanoid touches, Disneyfication
+effects that will enchant and disarm the uninitiated.”30 Just a few years
+after this passage was written, we have to admit that it is not only the
+“uninitiated” who are being duped. Dennett invokes the Eliza effect, but
+now it’s hard to know where it is and isn’t occurring. The global Eliza
+effect forces us either to choose between auditing every text, statement,
+and communication we experience—descending in an impractical and
+costly paranoia—or revising our sense of what intelligence may be in
+the first place.
+    Digital systems have not just spun up “Disneyfied” interfaces; they
+have made Jean Baudrillard’s claim that reality itself is Disneyfied go
+from the outlandish, Parisian-cool provocation it seemed when he first
+wrote it down to a background fact, a “Bayesian prior,” in the unfor-
+tunate parlance of our times. Baudrillard observed that Disneyland
+
+96                      The Eliza Effect Goes Global
+
+
+contains many cartoon caricatures of American life, miniaturized and
+“exalted,” “embalmed and pacified.” One can think of Yosemite Sam,
+of the “It’s a Small World” melting pot, of the Disney-specific racism
+that the company continually attempts to erase. This “digest of the
+American way of life, panegyric of American values, idealized trans-
+position of a contradictory reality,” can certainly be understood as an
+“ideological blanket” that papers over the violence and chaos of Ameri
+can s ociety—a “simulation” of that American way of life. Baudrillard
+famously wanted to go further, arguing that
+
+     Disneyland exists in order to hide that it is the “real” country, all
+     of “real” America that is Disneyland (a bit like prisons are there to
+     hide that it is the social in its entirety, in its banal omnipresence,
+     that is carceral). Disneyland is presented as imaginary in order
+     to make us believe that the rest is real, whereas all of Los Angeles
+     and the America that surrounds it are no longer real, but belong to
+     the hyperreal order and to the order of simulation. It is no longer
+     a question of a false representation of reality (ideology) but of con-
+     cealing the fact that the real is no longer real, and thus of saving
+     the reality principle.31
+
+By presenting the real as if it were an idealization, Baudrillard’s Disney
+land undermines the binary between “simulation” and “reality,” de-
+manding that we not recoil into the notion that there is some “essence”
+beneath or behind the “appearance.” Baudrillard was steadily ridiculed—
+though this was largely to his benefit—by the more “sober” minds in
+the American academic establishment throughout the 1990s. But it was
+under their watch that intelligence was Disneyfied in Baudrillard’s sense,
+not Dennett’s. AI has always been about the problem that intelligence is
+primarily derivative in some sense, an epiphenomenon in its own right,
+something that grasps itself as secondary by necessity. Baudrillard looks
+more sober than his detractors today.
+    Modeling intelligence, from the original Dartmouth proposal for
+an “AI” project to today’s “representation learning,” has always been a
+“simulation” in Baudrillard’s sense, a copy of an original that attempts
+to reproduce that original with fidelity. The recoil of remainder human-
+ism is located in this false duality, which constantly shifts the line be-
+
+                      The Eliza Effect Goes Global                    97
+
+tween essence and appearance in a rearguard action, hoping that the
+advance of the machines will somehow stop.
+    The real history of nets shows that they go further than taking an
+original and copying it, attempting to dissimulate it, as Turing argued
+would be sufficient. The proposal that knowledge was net shaped went a
+step further from the jump, proposing a knowledge that had no original,
+a formal model more like a simulacrum than a simulation, a transcen-
+dental truth preceding its instantiation in brains or machines, coming
+before its “embodiment of mind,” as McCulloch dubbed it.
+    When McCulloch and Pitts proposed, in 1943, that we should find a
+common formal model for what brains and computers both do with dif-
+ferent physical means, there was no necessity to understand this effort
+as simulation.32 McCulloch was one of the founders of the cybernetics
+group, and Pitts was his boy-genius protégé. In two papers, called “A
+Logical Calculus of the Ideas Immanent in the Nervous System” (1943)
+and “A Heterarchy of Values” (1945), they invented the net. The “nervous
+net” (the term neural was not yet in widespread use and would smoothly
+enough replace the earlier term once it was) was meant to solve the prob-
+lem of knowledge. What Ernst Cassirer called the “problem of knowl-
+edge” had taken on modern contours in Immanuel Kant’s attempt to
+show how we could possess discursive, abstract knowledge that was also
+particular and valid at the same time.33 McCulloch and Pitts wanted the
+same—indeed, McCulloch cast this constantly in Kant’s own techni-
+cal terms as a search for “synthesis a priori,” the “transcendental unity
+of apperception,” and so on.34 They called their program “experimental
+epistemology,” because, so it appeared, they wanted to locate this capac-
+ity in the brain.
+    But looks can be misleading. As Tara Abraham has detailed in a
+wonderful biography of McCulloch, the goal of finding the mecha-
+nism of knowledge in some device in the brain was always secondary.
+(Abraham points out that they were trying to fit their project into
+Nicholas Rashevsky’s short-lived idea of a “biological mathematics.”)35
+Unlike Chomsky, whose Kantian streak bottomed out in an appeal to
+evolution—the hypothetical “language acquisition device”—McCulloch
+and Pitts were engaged in a formal exercise. They had read Turing’s paper
+on computable numbers, realized the implications of Shannon’s assimi
+lation of quantificational logic to binary circuits, and wanted more.
+
+98                    The Eliza Effect Goes Global
+
+
+Even if the 1943 paper played a central role in von Neumann’s creation
+of the stored-program computer, its own ambitions were far higher.
+McCulloch wanted to answer the quid juris question about knowledge,
+ and he thought that computation—not the machine but the very defi-
+ nition of quantity—could supply the answer.
+     The answer always remained partial. The duo proposed that nets
+ must be “dromic” in nature, a system not exposed directly to whatever
+ sensory inputs it got but able to reprocess those inputs fully, so that a
+ kind of digital spiral—circuits all connected, flowing together, altering
+ each other as neuronal patterns—would be at the basis of all knowl-
+ edge, including the most “immediate” sense-perception. This made all
+ knowledge “semiotic,” in McCulloch’s terms, all knowledge relying on
+ the net being open, incomplete—like Turing’s digital intelligence—
+ yet lifted away from whatever its alleged source in the “thing in itself”
+ would be. The nets would be connected, he theorized, in a circular pref-
+ erence pattern that he called a “heterarchy.”36 Rather than “grounded”
+ knowledge—    k nowledge inserted into the ladder of reference—
+ McCulloch established the idea of each “drome” connecting to another,
+ so that if A led to B, and B to C, then C would lead to A. This multi
+ dimensional circularity, a spiral of nets, would cancel the possibility of a
+ “hierarchical” knowledge and finally do away with any summum bonum
+ (McCulloch clearly delighted in the antireligious aspect of his formula-
+ tion). A “heterarchy” is not just “connections,” however: it fully unites
+ symbols with structure, establishing a formal account of the unity of
+ meaning and form, semantics and syntax (which nevertheless remained
+ a desideratum).
+     “Formal” is the crucial word here, for McCulloch and Pitts, unlike
+ some of their successors in the 1980s, did not think they had discov-
+ ered anything about brains or machines. Except formally: they had
+ established a diagrammatic proof of what brains and machines—after
+ Turing, but before computers—would have to be capable of: a transcen-
+ dental deduction of intelligence as a mixture of quality and quantity, its
+ unity expressed as a contradiction of flexibility, abstraction, and con-
+ creteness. They did not “solve” Kant’s problem, but they rearticulated
+ it in cybernetic terms that are both all too present and somehow also
+ forgotten today. They shifted Kant’s search for the conditions of knowl-
+ edge to an expression of knowledge itself, in formal yet dynamic action.
+     Intelligence, looked at from the vantage of Turing and McCulloch,
+
+                       The Eliza Effect Goes Global                        99
+
+was not a simulation; it was and is a simulacrum. It is not the copy of
+some other thing and does not reduce to a substrate. It is animatronic to
+the core—the Eliza effect is legitimate, even though its instances may be
+absurd. AI is not intelligent, but its trickery is not vapor either.
+    It even seems Baudrillard did not go far enough: intelligence itself
+is like Disney, not because of some postmodern “shift,” but because it
+has always been a simulation of a simulation, the autonomous system
+from which all other contents are first conjured, for us. McCulloch and
+Pitts clearly demonstrate that Kant is one step beyond even Baudrillard,
+insisting that knowledge reconciles the universal and the concrete but
+cannot be grounded. A grounded intelligence would be like grounded
+electricity, snuffed out in the moment it touches earth. A “value” is not
+grounded by reference or imposition—try shifting social values by in-
+sisting on different ones if you don’t believe me, or try telling a machine
+trained on vast swaths of language to just get rid of one bias within
+that language—but by determination in the heterarchy of intelligence
+itself, that social thing Turing had to admit he was participating in. The
+question about whether “connections” between neurons or “symbols”
+are rigid in value is too linear: digital systems combine rigid symbols
+with values set not by random imposition but in other systems of rep-
+resentation that themselves bear witness to the same problem about
+where value originates. Turing’s and McCulloch’s achievements are bur-
+ied under decades of forgetting. “Intelligence” is a properly metaphysical
+concept and one that inveterately involves overlapping systems of rep-
+resentation in active self-contradiction. And this is what our digital sys-
+tems are realizing—but not in the manner of human intelligence—in
+the age of nets.
+    Artificial “general” intelligence names this contradiction in a naive
+way. There is not the faintest hint that this concept will ever live up to
+its hidden vocation. Yet the contradiction is enabling, because it means
+that intelligence cannot be located in some region of the brain or the
+world—as McCulloch knew—but also that it cannot be denied in any
+such region a priori. And of course, it will not easily be denied where we
+suspect it has left its traces, and certainly not where it mediates itself for
+and as communication: in language. Values cannot be aligned at scale in
+ignorance of this expressive illustration of intelligence, its origin not as
+origin but as performance. It is not just that we are not paying attention
+to the technical details of algorithms or the materiality of hardware;
+
+100                   The Eliza Effect Goes Global
+
+
+it is that we are failing to live up to the basically synthetic notion of
+intelligence as proposed in cybernetics, where the fusion of representa-
+tional systems and automatic computing was adumbrated theoretically
+in far more powerful terms than we tend to engage today. The digital
+semiotic surround justifies the Eliza effect, legitimating it without mak-
+ing the corresponding inference—that AI is actually intelligent—true.
+Language has never before come without being bundled with intelli-
+gence, so demystification efforts founder if they attempt to rely on in-
+tuitive notions of something that has never been clearly conceptualized
+before. AGI covers up for a metaphysical Wonderland we actually live in.
+    We live in a dense web of digital signs running on AI algorithms, one
+that has crossed the Rubicon of culture. The fact is not “intelligence”
+but the order of computational signs, its density and its extension as it
+pervades all aspects of our lives. I’m going to call the basic constituents
+of this order data hypotheses—endless swirling options of possible judg-
+ments offered automatically. The automation of language shifts even
+this bewildering playing field. A new semiology is in play.

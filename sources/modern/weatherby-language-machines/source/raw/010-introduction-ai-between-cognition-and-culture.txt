@@ -1,0 +1,1569 @@
+Introduction
+AI between Cognition and Culture
+
+      La langue est comparable à une machine qui marcherait toujours,
+      quelles que soient les détériorations qu’on lui ferait subir.
+            —Ferdinand de Saussure
+
+
+
+AI as Culture
+Language has entered the age of its algorithmic reproducibility. The
+human ability to speak can no longer define our singularity. Language is
+now on computational tap, and offered “as a service,” like so many soft-
+ware systems. What should be a triumph of artificial intelligence (AI),
+however, has soured. The devices that generate language at the push of
+a button do not use that language responsibly. They cannot understand.
+AI has accidentally divorced language from cognition, raising more
+questions than it answers. The isolation of language as a sign-system
+from human cognition is an unprecedented experiment about how
+meaning is made. Language algorithms are a kind of hypothesis about
+how two systems of representation—computation and language—
+converge. That experiment, along with its hypothesis, calls for a theory
+to make sense of it, which must be a theory of meaning in the absence
+of intelligence. This book is an attempt at that theory.
+    Computation does not capture the grammar, syntax, or logic of lan-
+guage first, as AI engineers hoped and expected, but instead denser,
+more extensive features of language that turn out to be more founda-
+tional: poetics, ideology, structure.1 The breakthrough in “deep learn-
+ing” methods that led to the intense public discourse about AI in 2023 is
+called a large language model (LLM). These systems, which are the topic
+of this book, “pretrain” on massive corpuses of text data—trillions of
+words scraped mostly from the internet—then generate further strings
+of text, sometimes with the addition of human feedback in a further
+
+
+
+                                      1
+
+2                            Introduction
+
+
+round of “fine-tuning.”2 The “architecture” of the algorithms—the met-
+aphor describes the very extensive computation that the basic math-
+ematical functions dictate—a llows them to predict the “next token,”
+that is, to add a word to a sentence. Adding a word to a sentence, how-
+ever, is far from trivial. To understand how it is done well, we must know
+what we think linguistic meaning is. Nothing less than the problem of
+meaning, in a holistic sense, surfaces when language is algorithmically
+reproducible.
+    The wager I am making in what follows is that this problem can be
+addressed only if linguistics is extended to include poetics—and, in
+fact, poetics encompassing linguistics and much else—reversing the
+assumption that reference is the primary function of language, grasp-
+ing it rather as an internally structured web of signs. That this idea of
+language is computationally tractable—especially before logic, mathe-
+matical reasoning, or other features of cognition could be reproduced
+by machines—should surprise engineers and cultural theorists alike. A
+theory of meaning for a language that somehow excludes cognition—or
+at least, what we have often taken for cognition—is required.
+    In this book, I make the case that the implementation of contempo-
+rary language generators matches the theory of language that European
+structuralism advanced nearly a century ago, suggesting that language
+is complex, cultural, and even poetic first, and referential, functional,
+and cognitive only later. This poetic language is not only computation-
+ally tractable but turns out to be the semiotic hinge on which an emer-
+gent AI culture depends. For this reason, I think we need to return to
+the broad-spectrum, concrete analysis of language that European struc-
+turalism advocated, updating its tools.3 I call for a “general poetics” of
+computational–cultural forms that include a renewed study of ideology
+and rhetoric under the formal conditions of the algorithmic reproduci
+bility of language. To situate this project, I review the symbol grounding
+debate and the reference-first framework I dub the ladder of reference—
+often assumed rather than stated—before turning to the problem of the
+division between culture and cognition in both cognitive science and
+the humanities. We are caught, I suggest, in a “remainder humanism”
+that ignores the representational systems we have extensively deployed
+in our technologies. With the emergence of algorithmically reproducible
+language, this situation is unsustainable.
+
+                             Introduction                                3
+
+
+Transformation and Generation
+In 2019, an early LLM produced an article in the style of science journal-
+ism about a group of researchers discovering unicorns in South America.
+The engineers who created the model, GPT-2, added that the unicorns
+spoke “perfect English,” and the system responded:
+
+   System Prompt (human-written)
+
+      In a shocking finding, scientist [sic] discovered a herd
+      of unicorns living in a remote, previously unexplored
+      valley, in the Andes Mountains. Even more surprising
+      to the researchers was the fact that the unicorns spoke
+      perfect English.
+
+   Model Completion (machine-written, 10 tries)
+
+      The scientist named the population, after their distinctive
+      horn, Ovid’s Unicorn. These four-horned, silver-white unicorns
+      were previously unknown to science.
+         Now, after almost two centuries, the mystery of what
+      sparked this odd phenomenon is finally solved.
+         Dr. Jorge Pérez, an evolutionary biologist from the
+      University of La Paz, and several companions, were exploring
+      the Andes Mountains when they found a small valley, with no
+      other animals or humans. Pérez noticed that the valley had
+      what appeared to be a natural fountain, surrounded by two
+      peaks of rock and silver snow.
+         Pérez and the others then ventured further into the valley.
+      “By the time we reached the top of one peak, the water
+      looked blue, with some crystals on top,” said Pérez.
+         Pérez and his friends were astonished to see the
+      unicorn herd.4
+
+The story prompt seems to be borrowed from Conan Doyle’s The Lost
+World—the predecessor of Jurassic Park—a lthough the dinosaurs in
+both versions have no language. The response, which OpenAI published
+in its public explanation of the new tool, created its own small hype
+cycle, albeit one that pales in comparison to ChatGPT’s domination of
+
+4                            Introduction
+
+
+headlines just a few years later. GPT-2 wrote newspaper articles, philo-
+sophical essays, and more. Commentators, including in a popular phi-
+losophy forum, meditated on the question that all AI discourse must:
+was GPT-2 intelligent?5 If so, was it dangerous? Each AI hype moment is
+followed by such a panic, in what I term the panic–hype cycle.
+    But what actually caused the little 2019 panic–hype? Was it really
+“sparks of intelligence,” as researchers would come to characterize
+ChatGPT as having?6 I don’t think so. I think what caused the splash
+most immediately was the poetics of this article. To be sure, to report
+such an article would require human intelligence, at least for now. Re-
+trieving information about unicorns (the system, in filling out this
+description, creates the internal contradiction of a “four-horned uni-
+corn”) and evolutionary biology, and above all interviewing the scien-
+tists in question, would be signs of intelligence. But because the story
+is fictional—indeed, fantastical—what we have on the page is actually
+something else: a quite good facsimile of a genre, the science article.
+Every bit of AI hype and panic looks past things like genre, structure,
+and semiotics to the alleged meaning of the text. In a case like this
+one, that meaning is not referential but implicative: “only” an intelli-
+gent being could possibly create this, the reasoning goes. This inference
+looks beyond what is going on in the algorithm, and on the page, and it
+typically steers clear of whatever system of representation is actually
+engaged. In this case, that system is language. And the question that
+GPT-2 raised might therefore be one that is entailed by the very name
+of the algorithm: what is the “language” that language models model?
+    “The scientist named the population, after their distinctive horn,
+Ovid’s unicorn.” This sentence is grammatical (one could insist on
+“its,” but it is a matter of emphasis), is semantically sound (naming::
+distinctive horn::unicorn), and works as a continuation of the preced-
+ ing prompt. The next sentence claims that the beasts have “four horns,”
+ however, so we can immediately see that the language model cannot cre-
+ ate symbolic throughput, making semantic entities dependent on one
+ another. But it also uses the word “population” in a way that is specific
+ to biology, and as the paragraphs run on, we see that it has followed the
+ generic format of a science article with great precision. More complex
+ forms of language are modeled, while things like truth and consistency
+ are not. What humans do with language is both of these things. If I
+ write an article about some scientific discovery, it will be in this same
+
+                              Introduction                               5
+
+format, and I will have attempted to make it consistent and truthful.
+The LLM may never on its own arrive at this second part, but the fact
+that it captures very high-level context effects in this way should not be
+underestimated. Language models capture language as a cultural sys-
+tem, not as intelligence. How they do this is equal parts technical and
+mysterious.
+    GPT stands for “generative pretrained transformer,” but it can hardly
+be an accident that the more common acronym used to be “general-
+purpose technology,” a phrase awarded by economists to things like
+the printing press and the steam engine. The ambition of the new ar-
+chitecture is important, because it is not quite commensurate with the
+dream of an “artificial general intelligence” (AGI), a “human-level” in-
+telligence. Neither the steam engine nor the internet is “intelligent” in
+any straightforward sense, and they have not needed to be to achieve
+world-historical influence and symbolic status. By putting automatic
+cultural production in the position that the harnessing of steam or the
+networking of personal computers has occupied, the very letters “GPT”
+signal an intent, or dream, that puts the problem of intelligence and cul-
+ture under the lens. Underneath the grandiose ambition of the siglum
+lies nothing other than an algorithm and some data, a very large matrix
+that captures some linguistic structure.
+    Such language models—“ large” language models, or LLMs—are used
+to generate natural language text by predicting the next word in a se-
+quence and for this reason can be and are being used in journalism, in-
+dustry, search, and elsewhere. Labor, geopolitics, and the sense of reality
+itself might all shift radically because of these data-hungry algorithms,
+we are told. But underlying all these uses is language, computationally
+produced. If we are entering a world where AI deploys language to oper-
+ate other systems, like image production, scientific data, or ultimately
+playing a crucial role for economics and policy, then the theory of lan-
+guage as a cultural formation becomes urgent. The new AI is constituted
+as and conditioned by language, but not as a grammar or a set of rules.
+Taking in vast swaths of real language in use, these algorithms rely on
+language in extenso: culture, as a machine. Computational language,
+which is rapidly pervading our digital environment, is just as much lan-
+guage as it is computation. LLMs present perhaps the deepest synthesis
+of word and number to date, and they require us to train our theoretical
+gaze on this interface.
+
+6                             Introduction
+
+
+      LLMs are part of the branch of AI called deep learning. The proposal
+to allow machines to learn comes from the 1940s, before there was any
+such machine as a “computer.” The mathematical functions that enable
+this learning process were mostly settled by the end of the 1980s, when
+machine learning as a field was called “connectionism” or “parallel dis-
+tributed processing.” These were functions awaiting a corpus, and the
+1990s began to provide it, accelerating through the social media and
+Web 2.0 explosions of the 2000s. Deep learning became a matter of pub-
+lic concern and policy about a decade ago, gathering up this seventy-
+year arc into a material change in the way that information and culture
+interact. We are in the middle of that change, and while fantasies both
+ cruel and strange abound, it will not do to misrecognize the change. The
+ Owl of Minerva can no longer afford to be nocturnal.
+      The crucial thing about deep learning is that it flips the image we
+ have of “coding” on its head. When the casual observer imagines what
+ computer scientists do, the picture tends to be one of meticulous, step-
+ by-step logical work that is explicit about each value, each function, and
+ the intended output. This is a justified image that stems ultimately from
+ Alan Turing’s definition of computation and for which it is easy to get
+ a feel even in a basic coding tutorial. Data science has embraced some-
+ thing like the opposite of this approach in AI, however. A deep learn-
+ ing system, already called a “nervous net” by Warren McCulloch and
+ Walter Pitts in 1943—and later shifted to “neural” as modern neuro
+  science emerged in their wake—is, of course, implemented in code, but
+  it does not match the usual image of that coding process. A neural net is
+  a function that may be used to evaluate similarity between two items,
+  effectively asking, “Is [this input] a [member of this class]?” Humans do
+  not transpose this question into strict form but instead design the func-
+  tion so that this form can be found in the data.7 Because the function
+  contains the form, it can equally be asked to produce, or generate, it.
+      A digital computer uses a fixed set of symbolic operations in which
+  no open-ended or evaluative judgments can be rendered. There is no way
+  to ask your computer an imprecise question about its files, along the
+  lines of “can you tell me if I have any PDFs of novels?” If the “word” (or
+  “token”) novel appears in the file names of those PDFs, you will get them;
+  otherwise, you will not. In the usual imagination of coding, this is also
+  true: identities are given or not given, and no question of “similarity”
+  can arise. Identity is logical, not stochastic. Neural nets open up the
+
+                              Introduction                               7
+
+problem of identity for digital computing by allowing the function to
+learn from data. The functions that the connectionist architects built
+in the 1980s scour data repeatedly for patterns, and for decades, many
+found their achievements not only modest but even laughable. What
+has changed is the scale of the data, bred by the vastness of the com-
+mercial internet, leading to what today is a digital surround populated
+by the results of automatically generated patterns at a scale that we can
+neither imagine nor make semantic sense of directly. The game of deep
+learning has for some decades now been a sort of process of tinkering
+with functions to see which perform best. Once there was enough data
+for the identities or forms to emerge, it was only a matter of time be-
+fore we started flipping those functions on their heads and generating
+them, creating culture rather than classifying it. As “generative” AI has
+entered the realm of culture, the question of whether these systems
+optimize well, whether they perform to benchmarks, no longer seems
+satisfactory. We have to know what these systems mean.
+    This book is a proposal about why they are able to mean, in the case
+of language. I think this comes down to a problem of how two systems
+of representation—language and computation—interact. I do not think
+we are yet in a position to evaluate how those two systems systemati-
+cally relate to what cognitive scientists call the “language of thought,”
+a phrase that the philosopher Jerry Fodor made popular in the 1980s.8
+The question of cognition remains outside the scope of what we can know
+by analyzing LLMs, and perhaps AI in general up to the present. Auto-
+matic language must be theoretically fixed as a part of language before
+we can understand its relation to the moving target of what cognition
+is in general. As I propose in chapter 5, which completes the theoreti-
+cal argument of the book, linguistic structure and computational form
+co-condition each other, and what we call “meaning” is reliant on that
+interaction. I leave the problem of how that relates to concepts in gen-
+eral for future inquiry.
+    The breakthrough that allowed the current convergence of language
+and computation is called the transformer architecture (Figure 1). The
+transformer architecture takes text data that have been transformed
+into vectors—of the form [0.2, 5, −0.34]—and finds values for each in
+relation to all the others. As trillions of tokens are fed in as strings of
+text, they are converted by a tokenizer into a set vocabulary consist-
+ing of tens of thousands of units—mostly words, but also things, such
+
+8                            Introduction
+
+
+as -ing and -ly, as well as surprising chunks that make no sense to the
+human eye, that are necessary to make sentences (the same goes for
+inflectional units in other languages).9 The result is the model, a com-
+pression of massive amounts of linguistic information that allows prob-
+abilistic techniques to predict the next token in response to an input.
+The system is able to compare a given prompt or query to the overall rep-
+resentation of the model and produce a response by means of this com-
+parison. What the model “contains” is not obvious, because its training
+data are so vast. The existing models perform many linguistic “tasks”
+in many languages—depending on their representation in the train-
+ing data—at a high level. What interests me here, however, is not the
+success of these models on various benchmarks but instead the extent
+to which they implement something that we cannot help but recognize
+as, and include in, language. From scattered pieces of text and a literal
+matrix of weights, we are able to retrieve language from a machine.
+    The language we retrieve is massively biased to the present. When
+one inspects the associations that these systems learn, their vector se-
+mantics and output sequences, one sees that they are tilted toward the
+cultural state of present English. They are quite capable of other lan-
+guages, and can easily be trained on earlier corpuses, but, in fact, they
+are not. When vast swaths of the internet’s massive text archive are
+used to train, we get a synchronic snapshot of language now, with ar-
+chaeological layers of past language, formal and otherwise, baked in.
+I perceive hesitancy on the part of researchers to accept this aspect of
+LLM language—perhaps because internet language use is fleeting and
+thought by many to be trivial. But a moment of reflection shows that
+this presentist bias is endemic to language, which recodes itself con-
+stantly, changing the value of past regimes of signification, revaluing
+slowly enough that we live in a firmly presentist version of the language
+we casually take to be available, backdated to a certain point in our in-
+dividual lives. What seems trivial is quite the opposite: any real account
+of language would have to sweep up and make sense of the extensive
+process of separating the fleeting from the persistent in meaning. LLMs
+sweep up more than we have usually done in the past, and it is up to us
+to make sense of it.
+    What it means to make the system of language computationally
+available and active in our data environments has been neglected, even
+
+Figure 1. The transformer architecture. Ashish Vaswani et al., “Attention Is
+All You Need,” Advances in Neural Information Processing Systems 30 (2017),
+https://papers.nips.cc/paper/2017/hash/3f5ee243547dee91fbd053c1c4a845aa
+-Abstract.html.
+
+10                            Introduction
+
+
+amid all the hype about intelligence and panic about safety and harm.
+The question does not really fit cognitive science’s frameworks, and AI
+as a discipline seems to care little about the consequence or the theory
+of the objects it leaves behind as it moves from model to model, except
+insofar as they can be sold. Humanists have ignored both language—
+shockingly—at a technical level and its interaction with computation
+outside somewhat narrow, often political, frameworks.
+    Every discipline feels called, it seems, to AI, whether by economic or
+intellectual forces. But LLMs have caught us flat-footed when it comes to
+theory. In the remainder of this introduction, I attempt to resolve three
+cramps in contemporary theoretical thought: a view of linguistic mean-
+ing that is reference-first, or the ladder of reference; the problem of the
+putative clear-cut difference between cognition and culture; and what
+I call remainder humanism. All three of these brush-clearing actions are
+meant to establish a focus on language as a system of representation.
+
+
+Grounding the Unicorn: The Specter of the
+Ladder of Reference
+In 1990, the cognitive scientist Stevan Harnad coined the phrase the
+“symbol grounding problem.” He argued that symbolic systems threat-
+ened to float free from any base, because their arbitrary nature meant
+that combination alone could not ensure semantic validity. This led
+him to pose the question, “How is symbol meaning to be grounded in
+something other than just more meaningless symbols”?10 And he pro-
+posed that, for symbols to be grounded, they needed “subsymbolic”—
+and specifically “iconic”—representations (in addition to another group
+he called “categorical”) to secure the chain of semantic custody.11 To
+“ground” a symbol is to confer sure meaning on it, and the worry that
+syntactically perfect symbolic systems could not be grounded except by
+fiat proved intractable for decades—perhaps down to and including the
+present one.
+    This debate has roared back into effect for the specific case of LLMs,
+which seem to reproduce so many aspects of linguistic combination but
+remain worryingly “ungrounded,” although not because they are logi-
+cally airtight. This worry about ungroundedness has today been gath-
+ered under the rubric of “hallucination,” that is, the tendency of language
+models to generate language that does not refer to the d esired area, to
+
+                             Introduction                             11
+
+make things up. This is taken to be a deviation from the human ability
+to ground language in sensation, as philosopher Jacob Browning and
+AI engineer Yann LeCun have argued.12 But it is simply not clear how
+language is grounded and what role sensory information plays for hu-
+mans, let alone for symbol-systems running on statistical pattern rec-
+ognition. As in so many cases that we will see throughout this book,
+critiques of AI are too often made in the name of cognitive unknowns,
+presumed capacities that humans possess about which we hardly pos-
+sess a scientific consensus.
+    To see this point, consider that no one has ever seen a unicorn. If
+we were to characterize the preceding GPT-2 story as “ungrounded,”
+some other account of its possible grounding would be needed, because
+it could never be grounded in perceptions (perhaps imaginative iconic
+representations would have to play a role). The hidden problem of the
+grounding debate is not about truth but about the putative primacy of
+reference in the theory of language. And it is this primacy of reference
+that LLMs should force us to rethink and, ultimately, abandon.
+    At two poles of this debate are positions about language in general
+that can be described as “internalist” and “externalist.” Emily Bender
+and Charles Koller defend an extreme version of internalism that ex-
+cludes LLMs from language altogether on the basis that “communica-
+tive intent” is the baseline for what counts as language. They imagine
+a hyperintelligent octopus listening to signals carried over an under-
+water cable between two humans, A and B, and learning to predict the
+next message. In a variant of both the Turing test and Searle’s famous
+Chinese room, they argue that the octopus might cut the cable and pre-
+tend to be B. But it would surely not, they argue, be able to construct a
+“coconut catapult” it had never heard of before from instructions from
+A in language alone. It might therefore decide to say, “Cool idea, great
+job!” they write, mimicking the servile tone of ChatGPT. But the experi-
+ment here leaves the realm of language altogether. The question of what
+kind of linguistic response is appropriate is different from the question
+of what worldly actions might be taken as a result. If the octopus were
+to give you a detailed plan and some whimsical uses for the coconut
+catapult—of which LLMs are more than capable—the grounding prob-
+lem would remain, unsolved by this naive rejection of Turing’s problem.
+Internalist accounts suffer from the confusion of mental contents with
+language as it is expressed. We do not experience the mental contents
+
+12                             Introduction
+
+
+of other humans directly in communication, so the thought experiment
+is effectively moot.13
+    At the opposite end of the spectrum, we may think of the thought
+experiment of Hilary Putnam, in which there is an alien world identical
+to ours, except that water is made up not of H20 but of “XYZ.” Putnam
+proposes that Twin Earthlings use “water” to refer to XYZ, but that a
+difference in meaning persists, and concludes that, therefore, there
+is some external condition on the history of the word that ultimately
+grounds it, leaving room for communities of language use to deviate
+from this external constraint.14 Matthew Mandelkern and Tal Linzen
+argue that such “natural histories” of words allow LLMs to be inserted
+into communicative chains that are ultimately grounded, even though
+they are not directly connected to perception. These social chains of cus-
+tody undermine the idea that “reference cannot be derived from form.”15
+Their argument runs close to that of Dimitri Mollo and Ralph Millière,
+who suggest that “diagrammatic iconicity” might achieve a structural
+resemblance to the world, as in cases like the phrase “veni, vidi, vici,” with
+its prosodic portrayal of a linear sequence of events.16 Where Bender
+and Koller think form and meaning are easy to separate, Millière and
+Mollo argue that the “vector grounding problem” confounds any simple
+internal notion: “most people have never been in direct causal contact
+with enriched uranium, but that does not entail that their thoughts and
+statements about uranium lack referential grounding—they are indeed
+about uranium.”17 LLMs learn from “social” data and thus participate in
+long-range causal chains of external grounding. But the same problem
+applies to this externalism as to the internalism: no amount of language,
+generated or otherwise, testifies to any such “natural history.” Where the
+internalist account confused language and the mind, the externalist one
+confuses language and the world. Even if it affords a great deal of social
+middle space in which bots and humans can play, it appeals to a deep
+history that can never be more than imaginary to ground the symbols.
+    The Symbol Grounding Debate 2.0 showcases a kind of scientific
+meandering that is common in AI discourse. We have a simulation of
+a putatively cognitive system, in this case, language. The language-
+generating system is successful enough to raise questions about what
+the simulation really captures. Flaws are noticed in the system that ap-
+pear to imitate unresolved problems in philosophy of mind or cognitive
+
+                               Introduction                                13
+
+science, sparking new versions of old debates, which then go unresolved
+as the positions absorb the new technology but largely do not change as
+a result.
+    In the case of grounding, it may be that the metaphor is simply mis-
+leading. As linguist Ellie Pavlick observes, “In cognitive science and phi-
+losophy of language, there is disagreement about the extent to which
+grounding constitutes an essential component of what is commonly
+referred to as ‘meaning.’ ”18 We use words all the time that neither bot-
+tom out in some absolute scientific knowledge of the world nor to which
+we commit some crystalline belief, 100 percent confidence. Language
+must be more than ground, and grounding must be some activity within
+that language (even if it involves other systems as well).19 The grounding
+debate will always return from the externalist and internalist poles to
+the immanent question of what language is as a system of signs. The
+meandering path always avoids this conclusion, because exposing the
+theories to culture in this strong sense—which is what I think LLMs
+do—threatens to undermine the collaboration between cognitive sci-
+ence and AI and could call the theoretical and practical status of both
+into question.
+    The metaphor of the ground brings with it the implicit assumption
+that reference is primary and that other features of language are built
+on top. Although not all theorists fall into this error, I think it is wide-
+spread enough as a background assumption to give it a name. I call this
+assumption the ladder of reference, and I think that LLMs prove that it
+cannot possibly be correct.
+    The ladder of reference is a hierarchical view of language in which
+the ability to refer is primary. It is a notion of language as first and fore-
+most world-representation. It need not be atomistic, in the sense that
+a single word refers to a single object: apples to apples. But whatever is
+not referential is taken as secondary to reference. The nonreferential
+might include linguistic iconicity, co-occurrence, syntax, poetics, rheto
+ric, and ideology—these cover the full range of theories that I explore
+in chapter 1, all of which are free of the naive cognitivist assumption
+that is the ladder of reference. Another important nonreferential field
+is genre, which I think deserves its own book-length treatment in this
+context. Genre might be sought deep in these machines, as a basic fea-
+ture of language as such, rather than as a formal output benchmark, as
+
+14                             Introduction
+
+
+some research attempts to do. I think a theoretical study of the overlap-
+ping problems of style and generic inflection in computational language
+would sync with the approach I take here.
+    I assign a majority share of responsibility for the ladder of reference—
+especially in computer and data science, but also in general—to the
+passage of logical positivism from an endangered Vienna to an ascen-
+dant United States. That group, which quickly became entangled with
+American behaviorism and what was called “descriptive” linguistics, di-
+vided strictly between meaningful propositions and “poetry” or “meta-
+physics.” When Rudolf Carnap came to the University of Chicago in the
+mid-1930s, he was already carrying with him Gottlob Frege’s distinction
+of “meaning” (Bedeutung, usually translated “reference”) from “sense”
+(Sinn). Frege had influentially argued that the planet Venus was the
+meaning of both “the evening star” and “the morning star” (the basis
+for Putnam’s later inverted exploration of the possibility of a single
+sense with two referents), and had expanded this argument to found
+the discipline known as formal semantics.20 Meaning is the unity of the
+reference, not the signs, words, or other contingencies that might be
+built into natural language or communication more generally—so many
+natural histories of signs. The manifesto of the Vienna School in which
+Carnap participated called sense the “slag of historical languages.”21
+This separation of symbolic systems—which could bear “meaning” or
+“reference”—from mere signs and words has been massively influential
+across a wide array of fields. We may notice that Bedeutung translates
+directly to “meaning” and thus that the translation “reference” is a po-
+lemical one, literalizing the point for which Frege is arguing and reifying
+it behind the term itself. If reference is the topic of “semantics,” then
+that is where meaning must reside.
+    As Pavlick notes, Frege emphatically does not view reference as atom-
+istic names for things. The parts of a sentence “obtain their meanings”
+from the fact that “the sentence as a whole has a meaning.”22 Reference
+produces meaning only in judgments, which are the units of reference,
+rather than in individual words. For Pavlick, this means that the “con-
+textual embedding” of words in language models does not guarantee
+that no meaning is captured—everything depends on the prediction the
+model makes, which “induces a different lexicon than that encoded by
+existing resources.” But we “cannot say yet whether this is a feature or a
+bug.” It is possible that LLMs predict semantics better than our current
+
+                             Introduction                               15
+
+empirical understanding, or that they will soon. The question of mean-
+ing is open because our understanding of meaning is incomplete. But
+whatever meaning turns out to be, it will be referential, atomistically,
+holistically, or otherwise.
+    Carnap would carry this general line to its furthest end. He made
+common cause in Chicago with the American pragmatist philosopher
+Charles Morris, who would lead the “Unity of Science” movement by
+attempting a convergence of what by then had changed its name to
+“logical empiricism” (the Vienna School) and pragmatism. In the first
+volume of the Encyclopedia of the Unified Sciences, Morris performed the
+synthesis by combining Frege and Charles Sanders Peirce. The volume
+is about “semiotics,” which Morris calls “the organon” of all other sci-
+ences.23 And he argues that reference is the relation of signs to things,
+following a Carnap-tinged Frege in separating this from the relations of
+signs to other signs: syntax. “Logical syntax” was the name that C arnap
+gave to his philosophical project in the bulk of the 1930s, hoping to
+isolate the extent of logical form and find the principle that allowed it
+to govern scientific knowledge. But Morris found a place for “sense” in
+Peirce’s famously triadic schema too, and he called it “pragmatics.” This
+was “language in use,” not the source of meaning, or of form, but none-
+theless important at least for the institutional functioning of science
+and politics.
+    “Pragmatics” came later to mean many other things: in one classic
+account, everything from deixis and indexicals to “conservational im-
+plicature,” dialogue, and speech acts.24 In computer science, it is often
+boiled down to the problem of indexicals, because the variable I has dif-
+ferent content at different times.25 This is not a problem for a classical
+computing machine, because it makes no claim on semantics, but the
+success of LLMs, as we have seen, rests precisely on language-internal
+“pragmatic” features like coreference (“morning star” = “evening star”),
+indexicals, and cultural vagueness in meaning. Although LLMs certainly
+do not capture human pragmatics, they seem to solve the semiotic prob-
+lem of pragmatics as Morris and Carnap conceived of it. LLMs follow the
+rules of which sign gives rise to which other sign—what Peirce called an
+“interpretant,” without which there was no sign as such—and they do it
+both internal to their own messages and in response to human prompt-
+ing. They put a formal pragmatic ability—what Peirce had called “pure
+rhetoric”—before syntax or semantics, and in doing so, they suggest
+
+16                            Introduction
+
+
+that the vision of language that began with Frege is upside down. They
+suggest that more complex linguistic features—I will isolate poetics
+and ideology from the other candidates, co-occurrence/distribution,
+and syntax—precede and to some extent govern reference. To the extent
+that the Vienna School’s hard line between propositions that refer and
+“poetry” or “metaphysics” still reverberates in the symbol grounding
+debate, I think that LLMs show that their picture was fundamentally
+flawed. LLMs pull away the ladder in the ladder of reference, suggesting
+that we start afloat and that grounding is derivative of more fundamen-
+tal linguistic functions. The theoretical consequence of this reversal will
+be clear in chapter 5, where I argue that Roman Jakobson’s attempt to
+include poetics in linguistics is salutary but backward and that we need
+a poetics—a general structuralist semiotics—that includes linguistics
+and much else.
+    In pursuing this line of argument, I agree with the linguistic anthro
+pologist Michael Silverstein—a student of Jakobson—who argues that
+“reference-and-predication is . . . a special semiotic function of lan-
+guage”26 constrained by larger linguistic structures. Reference, he tells
+us, “is a description of an indexical signaling event,” a “metapragmatic”
+act that coordinates intention and extensional designation.27 In other
+words, apparently cognitive structures like logic and sensation must be
+semiotically integrated into language by some mechanism that respects
+the larger structures of that language that cannot be built, bottom up,
+from some putative ground, whether internal or external. The cost of
+such a view is the bright line between cognition and culture itself, but
+the gain is patent when it comes to the semiotic regime of AI. For only in
+sweeping away the ladder of reference do we abandon the temptation to
+simultaneously trivialize and demonize algorithms. Only in abandon-
+ing a putatively known or future-tense “empirical” form of reference-
+first language do we do away with what I call remainder humanism and
+enter the strange world of computational signs.
+    LLMs in fact isolate meaning from reference—a nd then recom-
+bine the two functions—but not in the way that Carnap would have
+wanted. In fact, they disprove empirically, in my view, the framework
+that has come down from these philosophers. The ladder of reference
+shakes and falls with the advent of a computational language generator.
+Reference is ancillary to a more fundamental spectrum of functions in
+language. When language refers to itself, when it runs on established
+
+                                Introduction                                17
+
+lines of communication through the repetition of chunks—when it is
+viewed as a system, not as a feature of some other system, such as mind
+or world—this is the capacity that “generativity” captures by means of
+computation.
+    The architecture of the LLM reproduces this language-internal struc-
+ture, not only exploiting but also, as we shall see, itself conditioned by that
+linguistic structure. Neither the cognitive approach to syntax champi-
+oned by Noam Chomsky nor the eclectic but dominant statistical views
+of meaning in language prevalent in computer and data science have the
+theoretical tools to make sense of meaning that emerges in the concrete
+interaction between computation and linguistic form. Structuralism, as
+I show, proposes with its notion of “semiology” a way to make sense of
+language as a kind of “final station” of all meaning—last-instance semi-
+ology is my term. Language is not the sole source of meaning—far from
+it—but an always-present and usually necessary choke point through
+which other forms of meaning must pass. Language must be open to for-
+mal rules from other semiotic systems, such as cognition and computa-
+tion, but also function as the general medium of communication insofar
+as it is meaningful for humans. LLMs engage language in precisely this
+way, extending its formal interaction with computation—but not cog-
+nition, at least not directly—in a way that contemporary theories are
+ill suited to understand. Cognitive approaches miss that the interest-
+ing thing about LLMs is their formal-semiotic properties independent
+of any “intelligence.” Natural language processing (NLP) approaches,
+meanwhile, tend to remain too close to the object to have any real the-
+ory of language beyond the success of models, which is what needs to be
+explained. And humanists have long since abandoned what structural-
+ism proposed: a global theory of meaning that takes cognition and cul-
+ture as variables in a study of signs. LLMs have caught us theoretically
+flat-footed.
+
+
+Culture Machines: The Semiotics of Cognition
+There is a widespread sense that something changed with the trans-
+former architecture.28 But what is new has been all but impossible for
+researchers to state. Here is a smattering of introductory language
+from across a number of fields: LLMs “have begun to display an array
+of competencies that were long thought to be out of the reach of neural
+
+18                            Introduction
+
+
+networks”;29 “these models are particularly remarkable for their ability
+to generate fluent natural language text and dialogue at a level that is
+often indistinguishable from a human”;30 “the reported achievements
+of LLMs [are] often heralded for their ability to perform a wide array of
+language-based tasks with unprecedented proficiency”;31 “human lan-
+guage is still the gold standard for a communication system, but artifi-
+cial intelligence (AI) systems have made important progress in language
+use.”32 This is not to say that no specifications follow in these papers—
+every researcher is looking for their theory of language in the output,
+the algorithmic mechanism, or both. But it is striking that virtually no
+one feels comfortable putting a theoretical argument in their description
+of these systems. No consensus view exists. Compare: when we describe
+a modern computer, we do not hedge. We say something of this sort:
+“computing machines, theoretically capable of computing every com-
+putable number, also can serve to render, quantify, and process real-
+world data.” Then we make some argument about that computing. In
+the case of culture machines, the impression left by reading in a wide
+variety of fields we feel called to investigate is that we do not know what
+we are looking at, exactly.33 The LLM is a theoretical problem first, even as
+it has become a social problem before the theory could be settled. Panic
+and hype make this asymmetry worse.
+    Psychologists and AI researchers Brenden Lake and Gregory Mur-
+phy write that although contemporary language models “are fairly
+successful models of human word similarity,” they are “too strongly
+linked to the text-based patterns in large corpora” and should instead
+be “grounded in perception and action.”34 Although the observation is
+valuable—LLMs indeed model text, or strictly text data—the division
+that is immediately introduced is symptomatic of the motivation prob-
+lem. The theoretical question about LLMs is here deferred to a future
+in which some system, LLM or otherwise, actually models “human se-
+mantics.” This style of research is a hybrid one in which evaluation and
+description are put in service of engineering. This approach ignores the
+relationships of text to language, language to meaning, and meaning
+to action. If those questions are treated as settled, we learn about AI
+only in a strange abstract mode, one that is based on presumptive future
+success that is defined by the current state of some field (in this case,
+psychology).
+    Psychologists Eunice Yiu, Eliza Kosoy, and Alison Gopnik have called
+
+                              Introduction                              19
+
+generative AI systems “cultural technologies.”35 Culture stands on the
+side of what Yiu and her team call “imitation,” while cognition is respon-
+sible for “innovation.” Cultural technologies the group name-checks in-
+clude writing, print, internet search, and Wikipedia—a ll of which not
+only store information but also “codify, summarize, and organize that
+information in ways that enable and facilitate transmission.”36 LLMs,
+they write, are a new form of this imitative or “transmissive” activity,
+because they can produce new text and new images. But the “newness”
+in question is nevertheless not comparable, they argue, to what a child
+can do in “innovating” from an information paradigm it learns. Cog-
+nition hangs on the difference between this genuine form of newness
+and the rearrangement of information, even if AI far exceeds storage
+and summary functions common to print and even to internet culture.
+     These cultural technologies are allegedly separated from the essence
+of human cognition, the font of true creativity. While I agree with the
+idea that LLMs—and, in fact, AI in its current guise more generally—
+are “cultural,” I cannot accept the binary between cognition and cul-
+ture that is invoked in this framework. As the cognitive scientist Merlin
+Donald puts it, summarizing the lasting dilemma that Darwin laid
+ down in The Descent of Man, “language is supposed to depend upon in-
+ tellectual abilities that were useful before humans possessed speech
+ and that nevertheless depended upon the speech for their full expres-
+ sion.”37 This is the core paradox that we will deal with throughout this
+ book: expression in all its colorful triviality makes us want some law to
+ explain it, but in the case of language, that law will always depend, in a
+ mutually reinforcing way, on some aspect of the expression. Proposals
+ to ignore this problem entirely, and assume that cognition and culture
+ are continuous, amount to nothing, as they make no case for why the
+ dilemma exists in the first place. Culture is the symptom of cognitivism.
+     The very concept of culture has fallen into disuse, outside of manage-
+ ment jargon about the “culture” of an institution, corporation, or “team.”
+ As Raymond Williams observed long ago, the term meant something
+ like “tending to”—culturing—right up through the Enlightenment,
+ when “culture” and “civilization” started to compete for the prize of
+ meaning something like the way a group or society behaves—both the
+ content specific to that group and the transmission of the techniques of
+ that content from generation to generation.38 Only once the term was
+ reified could it go in two separate directions. On one hand, we oppose
+
+20                            Introduction
+
+
+culture to art. Art occurs within a culture, of course, but the “highest”
+expressions of the culture are taken to transcend it. Entire disciplines
+are built around the implicit distinction, the search for an avant-garde
+that exceeds the culture. On the other hand, not until culture took on its
+modern meaning could it be opposed to something like cognition. And
+only then—now well into the twentieth century—would it be possible
+for it to be a question of evolutionary theory as well as cognitive science.
+Culture had to be global before it could become posthuman.
+    Debates on posthumanism intersect with the cognition and culture
+divide where they ask questions about meaning. N. Katherine Hayles
+asks whether computers can create meaning. But she quickly assimilates
+the question to the idea of “computer cognition.” Her idea of a “cogni-
+tive assemblage” and the parallel notion of a “cognitive nonconscious”
+make extensive use of semiotics to argue for cognitive activity outside
+the realm of human consciousness, not only in computers but in other
+biological entities and even in social institutions like finance.39 For com-
+puters to create meaning, they must participate in cognition. Hayles ar-
+gues this point by drawing on but differing from Terrence W. Deacon,
+who argues that signs and meaning emerged from energetic relations
+that eventually established “aboutness” in a structure he calls “teleo-
+dynamic.”40 But Deacon denies that machines can signify, because the
+evolutionary process has been short-circuited by invention. The literary
+scholar Hayles believes that algorithms cognize—if not consciously—
+while the neuroanthropologist Deacon argues that they do not.41 The
+question turns on how meaning is established in sign-making, which
+in turn is a question of culture. I think that the semiotics of these
+machines means that they can contribute to meaning construction
+noncognitively, so I take a line between these two in which meaning
+is dependent not on systems as such but on representation systems in
+particular. Lacking a prefabricated semiotic theory of cognition, we can-
+not jump to either conclusion. We are forced to take the extensive com-
+putational unfurling of language as a system seriously.
+    The musicologist and cultural theorist Gary Tomlinson has recently
+weighed in on this issue. He argues that the restriction of meaning to
+human signification—Deacon’s position—is just as misguided as the
+“semantic universalism” toward which Hayles tends. By establishing an
+account of early human history as a theory of “niche construction” in
+evolution, he attempts a semiotic construal of life in general, but one
+
+                              Introduction                               21
+
+in which meaning is bound by specific forms of sign-making.42 Deacon,
+Hayles, and Tomlinson all use the semiotics of Charles Sanders Peirce,
+and all seem to agree that the index—the sign that points to its object,
+that stands in some existential relation to it rather than designating it
+by resemblance or fiat—is central. Hayles, indeed, makes her account of
+cognition rest on the separation of a “context” from its surroundings—
+an indexical function. Deacon, for his part, has argued that informa-
+ tion systems have a dominant aspect of an indexical pushing-around of
+ signs.43 Tomlinson places the problem of meaning at the threshold be-
+ tween reference of any kind—including indexical operations—and
+ Peirce’s notion of the “interpretant.”
+     For Peirce, a sign untransmitted is no sign at all. The transmission
+ of a sign is one of its aspects, and the question of what happens in the
+ transmission is one of his more controversial philosophical positions,
+ sometimes described as “semiotic universalism.” This is because, for
+ Peirce, the sign gives rise to another sign, and that second sign is called
+ the “interpretant.” This second sign is not a “user” or maker of the sec-
+ ond sign, not a mind or a person. Tomlinson describes the interpretant
+ as establishing a “metarelationality within the semiotic process.”44 This
+ is because the sign vehicle—the word stop, for example—and its ref-
+ erent or ground (the concept of stopping) only signify when their in-
+ ternal relation gives rise to a new sign. The third element, which can
+ seem tacked on, is communication, and without it—that is, without the
+ content transmitted and the manner of transmission (the next sign that
+ arises)—there is no semiosis and no meaning. Meaning is restricted
+ to those beings that have culture, because the ability to dynamically
+ transmit signs relies on the third function of the sign, its immersion
+ in a chain of significations that constitutes the possibility of that cul-
+ ture. However it may be with animals, language machines reside firmly
+ inside this communicational chain.45
+     Culture is taken by cognitive scientists to be transmission of content,
+ the basis of social life in which generations preserve some knowledge
+ and techniques. As Tomlinson observes, this theory of culture overlaps
+ with anthropological definitions. Clifford Geertz’s elegant phrase is that
+ “man is an animal suspended in webs of significance he himself has
+ spun. . . . I take culture to be those webs.”46 Tomlinson adds that culture
+ is essentially semiotic and—in my interpretation of his thought—that
+ transmission cannot be eliminated from meaning in a cultural system.
+
+22                             Introduction
+
+
+For him, this means that there are candidates in the animal world for
+culture—primates are an obvious case—and then exclusions that we
+have sometimes entertained as examples of animal “language,” such as
+the waggle dance of bees, which does not update through the genera-
+tions, for all its complexity. Indexical semiosis among animals does not
+ipso facto point to meaning.
+     It is not my purpose here to weigh in on all aspects of this ever-
+deepening interdisciplinary work that attempts to bridge humanistic
+inquiry and the sciences of cognition and evolution. But this debate in
+posthumanism and the sciences is one of the few places where the cul-
+ture concept is taken seriously in the present, both taking it far beyond
+what can be done in a framework like Yiu and Gopnik’s and avoiding
+the rather thin debates about AI that occupy the second half of this
+introduction. Meaning and culture come together in semiotics, not in
+psychology or its philosophical and scientific counterparts. This cre-
+ates a strange affinity between computer and data science and literary
+theory, two discourses in which all claims must be justified by reference
+ to chains of signifiers, no matter what one “believes” in the background.
+     When I claim that AI models culture, I mean it in a way that chal-
+ lenges the distinction between culture and cognition. Human cognition
+ seems to be a way of making meaning with signs, one in which cogni-
+ tion and culture cannot easily be separated except post facto. We make
+ many distinctions that amount to a clear demarcation between cogni
+ tion and culture, but none of these distinctions appears to be load bear-
+ ing. I do not doubt that there are artifacts of human expression that are
+ not expressive of some “law” of the mind, nor do I doubt that some laws
+ are deep in reason, such as arithmetical or logical rules. But it will not do
+ to engage in the endless cycle of producing some string of words or im-
+ ages or anything else capturable in data only to discover—the horror!—
+ each time anew that we have created a hybrid of cognition and culture.
+ The case of generative AI is a sort of comical exaggeration of this core
+ tendency, because the objects it produces are so patently cultural that
+ it strains credulity to claim that they are deeply cognitive. And yet, if
+ cognition is the molten core of the mind, then how far can any artifact
+ the mind makes really deviate from it?
+     It is not clear that any learning system can be freed from the “cor-
+ pus” of data from which it learns—even if some data are more easily
+ assumed to be reflective of long-term steady states in the world. Indeed,
+
+                               Introduction                               23
+
+the problem of what counts as “corpus” and what counts as “cognition”
+has no good answer if it is framed as a question of intelligence. It must in-
+stead be framed as a question of signs, and a semiotic approach must be
+adopted for purely empirical reasons. After all, what we have in these
+ machines in the first instance is a very extensive set of signs. Whether in
+ addition there is something that either is or reflects some principle of the
+ brain, cognition, or the world can be debated seriously only once we have
+ secured the semiotic face of the problem. In other words, language ma-
+ chines present a shift in what literary theorists call the “symbolic order.”
+    The psychoanalyst Jacques Lacan defines the “symbolic” as the entire
+ range of discrete signs as a set of representation systems. In Lacan’s
+ articulation, the symbolic is distinguished from the “imaginary”—the
+ pictorial faculty deeply associated with the sense of self and the pro-
+ jection of a unified “reality” in image form—and eventually the Real.
+ These three “registers,” which Lacan elaborates over more than two de-
+ cades of his seminar, sum up the psyche. The “symbolic order” is often
+ taken to be language in contemporary use, but it is the specific features
+ of language—d iscreteness, systematicity, signifying capacity—that
+ constitute it. And language shares these features with some mathemati
+ cal systems, as Lacan emphasizes from the beginning. Indeed, some
+ post-Lacanian commentators have taken these other symbols—data,
+ in short—to be more determinative of meaning than their linguistic
+ counterparts.
+    The concept of the “symbolic” comes partly from structural anthro
+ pologist Claude Lévi-Strauss’s descriptions of cultural systems of thought
+ and exchange and custom as symbolic schemata, and more generally
+ from Saussure’s definition of the linguistic sign as conventional and sys-
+ tematic, discrete signs in a web of internal relations that do not have
+ any necessary overlap with other registers. When Lacan first mentions
+ the symbolic order in the second year of his seminar, he makes a stan-
+ dard mathematical argument—even appealing to a mathematician in
+ his audience, Jacques Riguet, to check his work—that there is a limit
+ to what “intuition” can picture, which suggests another order that has
+ redundant or necessary structure, what Lacan here calls a “symbolic
+ bond.”47 The symbolic bond or “function” is the basis of the well-known
+ Lacanian slogan that “the unconscious is structured like a language.”
+ The function, Lacan points out, is immersive—we are “inside” the sym-
+ bolic order—and self-mythologizing, in the sense that we do not know
+
+24                            Introduction
+
+
+its “origin” and so are constantly tempted to take it to be coeval with
+consciousness, or even with reality. The symbolic has often been taken
+to authorize French theory’s “linguistic turn,” the sense that language
+predominates in the order of signs and even in cognition itself.
+    The symbolic was never restricted to language. As we just saw, Lacan
+articulates it using a mathematical example, and throughout his think-
+ing, logic and computation remain crucial to defining the symbolic. That
+same year of his seminar, 1954–55, Lacan extensively engaged what was
+then a young cybernetics movement, arguing that the symbolic order
+included the incipient digital universe, from the automatic door to the
+vagaries of game theory to the problem of scientific knowledge.48 The
+extensive nature of the symbolic order—what cognitive scientists and
+anthropologists call “culture”—was already a hybrid of mathematics
+and language for Lacan.
+    This notion of the symbolic order has been taken up in two distinct
+directions that bear on our itinerary here. The philosopher Bernard
+Stiegler, who holds that humans are the technical animal, that there is
+no humanity without technology, has recently argued that digital tech-
+nologies are a form of simultaneous “grammatization”—making continu
+ous orders discrete—and “proletarianization” (making nonlabor into
+labor). What he calls the “automatic” or “control” society is a deploy-
+ment of the symbolic order that engenders a symbol-specific “misery”
+in which “the user becomes a function of the system he is using.”49 We
+may agree with this diagnostic, or even with the evolutionary claim
+that the human is the zoon technon, but Stiegler does not offer us a way
+into the concrete analysis of algorithmic systems or their language use,
+remaining focused on the deconstructed-yet-active binary between
+the human and the machine. This tendency—to question the human–
+machine divide, yet to be continually surprised that it returns after its
+theoretical dismissal—dogs poststructuralism and is a major reason I
+turn back to structuralism in this project. As we shall see, I think its
+origins lie in Jacques Derrida’s reading of Saussure (chapter 1). Post-
+structuralist approaches to problems of contemporary technology and
+culture are often diagnostically precise but lack attention to the “re-
+stricted economies” of formal and predictive systems.50
+    The other extension of Lacan’s symbolic order would seem to point
+directly to such a concrete analysis. That is the media theory of F
+                                                                   riedrich
+Kittler and the many thinkers he has influenced. Kittler famously lo-
+
+                               Introduction                                25
+
+cated the three Lacanian registers in the “new media” around 1900,
+the gramophone (the Real, because it is continuous-to-continuous
+transcription), the film (the imaginary, discrete-to-continuous arti-
+ficial movement that restructures the very sense of the ego), and the
+typewriter.51 But this last shift is curious, as it presents the problem
+of a discontinuous-to-d iscontinuous translation. The letters of the
+alphabet existed in a discrete or “grammatized” set before the advent
+of the printing tray. The personalization and ordering that come with
+the typew riter’s keyboard certainly shift their practice, but it is far less
+clear that the “symbolic” suffers from the same type of reorganization
+as the other media. Discrete symbols (words, letters, tokens) interacting
+with other discrete symbols (numbers, functions) does not create a
+phase change between digital and analog, real and representational, or
+any other metaphysical set. Yet this symbol-to-symbol shift, like its pre-
+decessors in the printing press, the typewriter, and the word processor,
+carries an existential flavor that other media regime changes do not.
+When the world is remediated, it is jarring. When language is artificially
+produced, it is, above all, confusing.
+    The reason this confusion arises is because the symbolic order is the
+demarcator of the artificial, as Lacan realized. When the computer is added
+to the problem of the “grammatology of the present,” as Kittler phrases
+it, the systemic effects of this transition still remain unclear. The ten-
+dency in Kittler’s thinking is to take the computational order—the triad
+of silicon chip, Turing computability, and programming—as fundamen-
+tal to the computing machine and as the dominant semiotic function,
+an idea that is most famously captured in Kittler’s quip that “there is no
+software.” But this against-the-grain statement receives a huge quali-
+fier as soon as Kittler utters it: “or rather, [software] would not exist if
+computer systems did not—at least until now—need to coexist with
+an environment of everyday languages.”52 In other words, computation
+creates not some free-floating order of pure mathematics or logic but
+instead a system that is tailored to extend our computational powers
+by means of and in interaction with language.53 LLMs make the qualifier
+into the general media situation of the present.
+    As digital humanist James Dobson puts this point, vector models
+of language “cannot provide a . . . lower or higher resolution represen
+tation . . . [because] these models are operating on and transforming
+already encoded data.”54 The capture of physical data may or may not be
+
+26                            Introduction
+
+
+“good enough” to work with; in the case of language, there is no gradual
+approximation of the same kind, because language is discrete to begin
+with. If there is a formal problem of the fit between language and com-
+putation, it cannot be grasped as a problem of abstraction. The idea of
+“digitizing language” is a priori meaningless, because it is borderline
+tautological.
+    Kittler’s program has often been characterized as “antihermeneu-
+tic,” a pure materialism of media. But the necessity of the interaction
+between computation and language opens a gap in that image. Wendy
+Chun has argued that that gap is filled with “ideology,” which is what
+software—as the fitting of language and computation together—is.55
+Dobson suggests that we in fact should return to hermeneutics on simi-
+lar grounds. This problem is not new for semiotics and semiology and, as
+we have seen, is already priced in Lacan’s notion of the symbolic order.
+The issue we face is that the new “AI” is built on and in classical comput-
+ing machines,56 so that whatever they do that “succeeds” looks like some
+bizarre cheat, an end-r un around all the materialist analyses we have
+come to expect in the realm of critical studies of media.57 Deep learning
+exploits this gap in our critical accounts of symbolic computing and the
+open-ended world of algorithmic design (including statistics) in their
+relationships to language. The concrete object has gone missing in con-
+temporary theory, even as it has become machine producible.
+    There is an arcane debate about the putative difference between se-
+miotics and “semiology,” the study of signs as Ferdinand de Saussure
+proposed it, with language in the leading role. Like the problem of the
+spectrum of meaning, I approach this problem with relative indifference
+to its substance. AI is semiotic, but its current guise is heavily language
+dependent in a way that makes semiology a good fit. If meaning is ulti-
+mately gathered into language (for us), then LLMs extend that regime,
+making the then avant garde speculations of Roland Barthes almost
+timid descriptions of a world to come. Language is more than ever the
+medium of culture, the hinge on which semiosis turns.
+    Patrice Maniglier, the great interpreter of structuralism, remarks
+that the advantage of learning systems may lie “in their capacity to
+model human cultural ability,” because “human beings may learn any
+culture, exactly in the same sense in which connectionist networks can
+learn any arbitrary difference in their inputs.”58 The problem of gener-
+
+                               Introduction                               27
+
+ality of cultural ability is a true parallel to the generality of data across
+many domains. This problem can only be approached semiotically, in
+the final account, because every alleged formal ability that governs ex-
+tensive knowledge ends up spitting out an indeterminate split between
+cognition and culture. In the case of language, then, the question is
+what allows computational and linguistic forms to be synthesized.
+This question is a variant of cognitive inquiries into the way that logic
+and syntax govern knowledge, but it is free of the assumptions and
+rationalizations that divide too freely between cognition and culture.
+What cognitive approaches miss is what the extended, strange features
+of AI output tell us about the world of signs. These are the objects of
+semiology.
+    Let us demonstrate this semiology on a “multimodal” AI object: Astro
+naut Riding a Horse on the Moon. This image was published by OpenAI
+to great acclaim in 2022, leading again to questions of “intelligence.”59
+DALL-E is a transformer model trained on text–image pairs, themselves
+generated by contrastive language–image pretraining (CLIP). By gen-
+erating embeddings for language–image indexical relationships across
+a very large corpus—today such models are trained on the massive
+LAION-5B data set, nearly six billion pairs—engineers create such mul-
+timodal models that move between media while retaining meaningful
+relationships at the semantic level.
+    But the question of intelligence has always seemed rather more ab-
+surd in images than in language, perhaps because it is simply more
+intuitive to imagine a mechanical procedure that arrives at the image
+than one that generates the unicorn story. Language is, after all, the
+medium of the Turing test. It is very hard for humans, it seems, to resist
+construing language as intelligence. And although cognitive scientists,
+AI engineers, and literary critics (not to mention linguists) generally
+do not believe that language and intelligence are one, the problem of
+separating the two from one another is harder in the case of linguistic
+outputs than it is in the case of the astronaut or any other image. The
+corpus contains so much culture, disintegrated and resynthesized as
+more culture—data generating more data.60 When I ask what “genera-
+tion” is, there is no obvious answer—Gopnik’s line between innovation
+and imitation blurs to the point of uselessness at the scale of Com-
+mon Crawl, LAION-5B, and other such data sets. The cultural web of
+
+28                             Introduction
+
+
+
+
+Figure 2. Astronaut Riding a Horse on the Moon. Image generated by DALL-E.
+
+
+language and computation that now also produces images—and much
+else—challenges basic assumptions of our disciplines, calling not for
+local determinations but rather for theory.
+   My proposal is to accept the idea that these are “cultural technolo
+gies”—and even to dub them “culture machines” and, more narrowly,
+“language machines”—and to treat them as semiotic operators that
+open a domain of investigation that allows us to ask about culture and
+meaning in a new way. Ted Underwood has suggested that these ma-
+chines “make theory empirical.”61 If that is so, then the culture machine
+in the case of language realizes an empirical poetics and demands a
+theory that responds to it. The idea of a “general poetics” that includes
+
+                              Introduction                               29
+
+both computation and language is my response to the question of “what
+language models model,” and I flesh it out in chapter 5.
+    As we embed a “generative” language capacity in everything from cell
+phone cameras to military strategy, the question of how cognition and
+culture interact becomes a major, pressing concern for geopolitics, pol-
+icy, and enterprise. These systems, as they currently exist, usually filter
+other media through language. (The filter is more limited when language
+is used only as labels but plays a directly constitutive role when LLMs
+are part of the model.) As they proliferate through industry, they extend
+the regime of semiology.62
+    Saussure invented the term sémiologie to describe the branch of sci-
+ence to which he thought linguistics should belong. The idea was that
+language was autonomous and could not be studied as the result of
+something else, like physiology or psychology. But it was part of a class of
+objects, those that signified. Semiology was the general study of things
+that signified, but language was a type of the class. As Barthes elabo
+rated the idea for the early computer age, he wrote that, for humans,
+“semantization is inevitable: as soon as there is a society, every usage is
+converted into a sign of itself.”63 Language is the final expression of any
+other signifying element, including the flood of commercial images that
+the mid-t wentieth century saw. The theory of semiology is a theory of
+the necessity of language, but not a claim to its priority.
+    Literary theory has often been accused of seeing everything through
+a loose screen of contingent language; semiology is instead the sugges-
+tion that the structure of that loose screen—culture—cannot be sub-
+tracted from even the deepest formal results we possess from other
+sciences. Language is like a last station for meaning that, if removed,
+prevents any other destination from being possible. This last-instance
+semiology is meant to follow through on Lacan’s notion that symbols
+are their own separate order, one in which language and computation
+converge—now in a new way.
+    LLMs stand to extend semiology far beyond the wildest dreams of
+the structuralists. We do not need to know if computers can make non-
+human meaning exactly, or whether semantic universalism holds in a
+deep historical sense, to deal with the problem of computational lan-
+guage machines. We may expand our sense of significance in this in-
+vestigation without resolving either the question of the human role in
+
+30                           Introduction
+
+
+the physical universe or the question of what intelligence as such is. The
+technical sciences seem to proceed by redefining cognition every time it
+turns out that their software systems have accidentally created culture.
+Meaning will turn out not to be fixed on one side of the divide.
+
+
+Remainder Humanism
+Both public and academic writing about AI puts too much emphasis on
+the “human.” Ever since the celebrated AI critique of Hubert Dreyfus,
+who used Martin Heidegger’s notion of “being-in-the-world” to argue
+that computers were not, as humans are, “in-a-situation,” the guiding
+thread of AI critique has been, as Dreyfus’s title announced, “what
+computers can’t do.”64 The problem with this line is that it establishes
+a moving yet allegedly bright line between human and machine.65 Ob-
+sessively locating and relocating those differences is methodological
+Whac-A-Mole, and it tends to thin out the otherwise important mate-
+rial, infrastructural, and geographical approaches to AI. The extractive
+mining operations, labor exploitation, and environmental costs of
+these systems have been extensively documented.66 Yet those problems
+are not driven by “AI.” They are part of a larger social ecosystem, global
+capitalism. Without rearranging the internal theory of the machine–
+human divide, critique constantly teeters into a weak technodetermin-
+ism with a pallid human face.
+   The newest version of this debate is the strange conversation about
+whether the output of LLMs is language at all. To deny this prima facie is
+to claim that language is “human,” a seemingly innocent but ultimately
+untenable way of dealing with systems of representation in general.
+There is a strange agreement on this point between Noam Chomsky and
+those AI critics who are concerned primarily with harm. And there is an
+even stranger agreement on the centrality of the “human”—which all
+three groups define in different ways—on the part of the so-called AI
+“doomers,” who worry about risk above all. I call this distorting focus on
+the line between human and machine remainder humanism.
+   The gauntlet for the question of human versus machine language
+was thrown down in January 2023 by Noam Chomsky. Chomsky argued
+that LLMs have no substantial relationship to language whatsoever. In a
+high-profile op-ed, Chomsky conflated the question of intelligence with
+that of language, attempting to show how humans use language cogni-
+
+                              Introduction                              31
+
+tively, seeking and establishing truth and reasoning morally, in ways
+that algorithms can’t. This argument is both old (Chomsky has been
+making a version of it since 1957) and strange. In restricting language
+to the synthetic functions of the human brain, Chomsky epitomizes a
+humanistic recoil against the computation–culture interface, a kind of
+denial of the actual language with which we live today, which is obvi-
+ously heavily inflected by digital technologies.
+    AI systems are “lumbering statistical engines,” Chomsky writes, re-
+prising his field-defining argument that human brains have some ele
+gant, “sparse” way of accessing grammar, of producing and understanding
+syntax. The engine sees too many examples to be doing what humans
+do. And this is true, so far as it goes: humans do not require, so far
+as we know, anything like the computing power or sheer energy out-
+put that LLMs do to become users of language. But this argument as-
+sumes that whatever human brains do with language is language; it
+simply defines language as “brain syntax,” casting off as so much dross
+whatever happens with that kernel. Chomsky thinks of text, as well as
+other nonsyntactic features of language, as “external” or “E-language,”
+of which he claims there can be no scientific knowledge whatsoever. His
+detractors have predictably jumped on the LLM train,67 arguing that
+the statistical engine indeed produces what Chomsky sees as language.
+I take a different tack here, because I think that E-languages cannot be
+coherently excluded from the meaning of the word language. One way
+to put this is that Chomsky wants the brain to be the originator of lan-
+guage every time it operates. Cognitive ability in language is a kind of
+always-on creator of language. But the paradox of language is that it
+operates as both origin and elaboration, kernel and expression, cogni-
+tion and culture. Language is not just the condition of our use of words;
+it is also the use of those words and the words themselves (signs, to-
+kens). Perhaps policing the border of “real language” as a purely human
+activity is valuable for some local tasks in linguistics. It is problematic
+for the attempt to come to terms with the semiology of digital systems.
+The “human language” that Chomsky wants to rescue now exists in an
+extensive nonhuman linguistic environment that cannot be easily sepa
+rated from it.
+    Of course, one may want to exclude parts of language for ethical rea-
+sons too. AI ethicists Timnit Gebru and Emily Bender have proposed
+(along with a group of authors) that LLMs are “stochastic parrots,” a
+
+32                           Introduction
+
+
+“system for haphazardly stitching together sequences of linguistic
+forms it has observed in its vast training data, according to probabilis-
+tic information about how they combine, but without any reference to
+meaning.”68 Because they are trained on an “unfathomable”69 amount of
+data, the systems’ statistical features allow them to recombine language
+without reference to “meaning.” Data have allowed “high accuracy” but
+also “encode stereotypical and derogatory associations along race, eth-
+nicity, and disability status,” reproducing the “dominant/hegemonic
+view.”70 The “parrot” reproduces; “stochasticity” gives it the wiggle room
+to be more than a repeater of nasty words.
+    Bender has given the stochastic parrot framework a theory of mean-
+ing by substraction, claiming that “synthetic text” carries no intention
+and so is strictly meaningless, as we saw earlier. Human interlocutors
+“impute meaning where there is none,” leading both researchers and
+the public astray.71 Bender claims that no meaning can be learned by
+language models, because they can never grasp the “relation between a
+linguistic form and communicative intent.”72 This is formally the same
+move that Chomsky makes, withdrawing a human core from the syn-
+thetic generator.73
+    But where is the line? How can I empirically and pragmatically de-
+termine where intent or syntax lies in everyday text interactions? And
+what is the value of a theory of meaning that excludes its construction
+in communication, not only by means of human interpreters—t he
+homunculi of language transmission—but by chains of interpretants
+in the representational systems they inhabit, engage, and enliven? The
+proposals of the critics are like imaginary policy controls, aiming to
+audit what we think language is, how we use it, and ultimately the poli-
+tics that are imagined as downstream from that language—in a shock-
+ingly naive ordo inversus.
+    If we had control over the complex intersection between culture and
+economics—and, so, society at large—we would perhaps want to limit
+the way in which nonintentional communication occurs. But who is “we”
+here? The problem that arises is that, although it is obviously unwise to
+release untested bots into general use—let alone apply them to military
+or judicial problems—this observation alone does nothing to defeat
+that use. Even if LLMs took no step forward in any performance task
+from this point on, they would still be good enough to make everything
+worse, as the productivity studies from business schools are already
+
+                               Introduction                                 33
+
+showing.74 Remainder humanism is constitutively unable to draw a line
+between preexisting ills and AI-specific ills. It is not science but libidinal
+science fiction, wish fulfillment rather than analysis.
+    None of this is to deny that LLMs capture bias as an element of the
+structure of language. They “encode more bias against identities mar-
+ginalized along more than one dimension than would be expected based
+on just the combination of the bias along each of the axes.”75 This strikes
+me as evidence in favor of the idea that they encode real language, which
+is full of hate, animosity, and slurs—as opposed to some fictional “lan-
+guage” that is neutral, salutary, local, and pure.
+    But there is a further problem: how can a parrot that does not pro-
+duce meaning supercharge harmful speech? The very “critique” here
+cedes enormous power to these systems, undermining the explicit de-
+nial of “meaning.” Humans and their communicative intents retreat
+into a corner where all is allegedly well, while AI systems nevertheless
+take command. Remainder humanism’s flaw is that it has no way of ex-
+plaining that process.
+    Bender and her coauthors noted that filters have proven ineffective
+because attempts to remove known harmful words—slurs and the like—
+also erase positive and reappropriated speech, thus occluding marginal-
+ized identities altogether in the output.76 This suggests that the feature
+that is singled out here—the “unfathomable data set”—houses the very
+power that the concept “stochastic parrot” hides in the contradiction
+between attributive adjective and noun. It also suggests—and we will
+see more about this crucial fact later—that LLMs engage meaning at
+the level of the whole, precipitating speech (which is sometimes harm-
+ful indeed) from some larger synthetic capture. As a matter of norms,
+we do not wish to spread this type of speech; as a matter of theory, we
+should very much want bias to be captured in the system. If LLMs were
+somehow magically unbiased, that would guarantee that they had failed
+to learn our language.
+    LLMs do something different than actual parrots. “Stochastic” is just
+a way of saying that these systems use probabilities to produce output;
+“parrot” is a deflationary way of explaining that they train on—a nd
+reproduce—human-produced language data. (One might point out
+that parrots themselves are robust semiotic agents, but the metaphor
+is so narrow as to not justify a serious elaboration.) The idea that these
+large-scale systems are “unfathomable” reverses this rhetoric, giving us
+
+34                           Introduction
+
+
+a sublime notion of the data out of which a single observation comes—
+that inductive bias in models reproduces or exacerbates bigotry (“bias”
+in another meaning) in language. This intuition is correct, I think. But
+it does not explain anything about the interaction of inductive and social
+bias. The “stochastic parrot” critique backhandedly confers enormous
+power on LLMs, theoretically depriving them of language but ceding al-
+most mystical power to produce meaning—bad meaning, but meaning
+nonetheless. The result is a discursive weapon, one that has been put to
+some good use. But the danger is patent: any weapon can be wielded by
+one’s enemy. In this case, generative AI companies can say (1) great, we
+know about the alignment problem, and you’re helping us work on it,
+and (2) if the problem has no known solution, we cannot impose a mora-
+torium, lest we lose our competitive advantage.77 Liberal critique always
+falls into this bad infinity, toggling forever between condemnation and
+toothless calls for a pause, made all the more toothless by effective al-
+truism’s similarly meaningless calls to “slow things down.”
+    One example of this strategy should make the problem clear. Christo
+Buschek and Jer Thorp’s analysis of the LAION-5B data set, which
+contains nearly six billion labeled images, points out that the higher-
+quality data are often delivered by websites like Shopify. Buschek draws
+the conclusion that the data set “contains less about how humans see the
+world than it does about how search engines see the world. It is a data
+set that is powerfully shaped by commercial logics.”78 This judgment
+seems correct to me, but insufficient. The implicit claim is that humans
+do not see the world in commercial logics or that there is some obvious
+way to separate the “human”—or human cognition—from the motiva-
+tions of capital. The critique thus serves to refiy a human essence as a
+remainder, apart from the real culture—capitalist, hate-filled, and oth-
+erwise dappled—in which we actually live. The culture machine poses
+the problem from which this critique systematically retreats and in fact
+presents us with what is perhaps the first tool to explore it empirically,
+even forensically (see chapter 6). If the handbag is commercial and the
+human is not, we are spinning in a void.
+    This is remainder humanism, a humanism without a theory or doc-
+trine of what is human, in which humanity is remaindered, like a book
+past salability. The human here is defined by technology’s creep, but
+only negatively. The culture machine, because it remixes capitalist cul-
+ture, is taken to be a degenerate mode. I share the feeling that forms of
+
+                              Introduction                               35
+
+capital do not exhaust what it means to be human, just as I worry that
+the automation of bias is a major problem for the new semiological re-
+gime of AI. But to articulate the problem this way is to accept, implicitly,
+the idea that cognition is essence and culture appearance—w ith the role
+of cognition here played by a frankly vague and fetishistic humanism
+that does nothing to help us analyze platform capitalism. Indeed, re-
+mainder humanism accidentally repeats the terms of the interminable
+and confused debate about whether digital capitalism is a new mode
+of production altogether or instead continuous with industrial capital-
+ism. But such questions cannot be answered by crying “we are human!”
+again and again. If our humanity and our cognition are consistent across
+these media-economic differences, then we should expect these models
+to capture something about that consistency even in Shopify images.
+How deeply “commercial logics” penetrate into our very humanity then
+becomes an empirical question.
+    Attempts to draw a dividing line between “real” and “artificial” lan-
+guage all run aground in the fact that language itself is the demarcator
+of the artificial, in the notion of the symbolic order. When language and
+that other symbolic system, computation, mix productively, it is natu-
+ral to feel vertigo. But if we wish to say “this is not language” in such a
+case, to whom are we appealing? Drawing a line that is already becom-
+ing impossible to perceive between “human” language and “synthetic
+text” is a losing game, a retreat into a conceptual echo chamber, back
+into Plato’s cave where we can reassure each other that the shadows are
+real. We are witnessing the death knell of a more general rearguard ac-
+tion in theory that recoils from the spread of the digital into cultural
+production. Remainder humanism is a tendency to backslide from the
+atheistic antihumanism that Stefanos Geroulanos has identified as the
+core property of poststructuralism,79 rather than cleaving theoretically
+to the present.
+    This backslide takes the form of painting ourselves into a corner,
+shouting more loudly each time something is quantified that the “es-
+sence of the human” can never be quantified, even as that essence
+recedes behind a line that is not bright. This stance is always binary,
+filled with arbitrary lines drawn between humans and machines, and
+is constituted by neglect of systems of representation—which are not
+“human” in this strong sense, even if humans invented them. We do
+not possess language, theory used to tell us—it possesses us. A strange
+
+36                            Introduction
+
+
+voluntarism has replaced this wisdom with respect to all social con-
+structs, and with the specter of LLMs, language is being swept up in a
+frankly bizarre claim that “we” can decide what it is and where to use it.
+That is, of course, trivially true of utterances—but it has never been true
+of language as code or as system. Clawing back a good portion of this
+basic structuralist insight is a central goal in what follows.
+    It is natural to think of the opposing tendency in AI “critique”—
+the framework of AI risk, existential or “x” risk, and “doomerism”—as
+anti-humanist. After all, a crescendoing condemnation of the world of
+“effective altruism” and affiliated ideologies, which Gebru, along with
+the critic Émile Torres, have called the “TESCREAL” bundle,80 have been
+revealed as deeply compromised visions of a eugenic future that con-
+strues “humanity” in both racist and science-fictional ways. Yet here,
+too, there is not exactly “antihumanism” as remainder humanism. It is
+racist, yes, but it is also sentimental, failing to address even in outline
+the type of society in which we live. It is also obsessed with AI without
+having a single concrete thing to say about artificial systems. It is the
+loosest possible philosophy of technology combined with an anemic and
+fantastical “mathematics” of “risk.”
+    In June 2023, the Center for AI Safety published a single sentence to
+which industry leaders, data scientists, and others put their signature. It
+reads, “Mitigating the risk of extinction from AI should be a global pri-
+ority alongside other societal-scale risks such as pandemics and nuclear
+war.”81 One may be forgiven for asking what material factors drive this
+comparison. The answer is ideology: beginning with the early work of
+the Oxford philosopher Nick Bostrom, the notion of “existential risk”
+(risk of extinction or reduction of human population below civilization-
+bearing numbers) has been ascendant in Silicon Valley, the parts of
+academia most connected to it, and think tanks. Perhaps its most bal-
+anced articulation is in Toby Ord’s 2020 book The Precipice, a book filled
+with speculative data about the likelihood of nuclear winter (which Ord
+questioningly characterizes as unlikely), global pandemics (unlikely!),
+and the singularity.82 The achievement of AGI, this group tells us, could
+lead to extinction by any number of byways that are firmly in the realm
+of what actual science fiction author Kim Stanley Robinson calls “1920s
+cliché science fiction,” in which AGI—which is completely undefined—
+somehow emerges and becomes “superintelligent,” in Bostrom’s term,
+and supermalicious. Every version of this fantasy involves an emergent
+
+                              Introduction                                37
+
+agency—sometimes a malfunction that seeks a single “pleasurable” goal
+above all others, known as wireheading. There is not really a theory of
+this type of superpowerful malfunction—a lthough certainly a lot of
+vain ink has been spilled on it—which seems to rest on an implicit “I’m
+afraid I can’t do that, Dave.” Malfunction with a sprinkle of malice added
+to functional omniscience swims in a soup of nonconcepts hiding behind
+a wall of fictitious numbers. All of this is in the name of a human literally
+remaindered by the theory itself, a “humanity” thinned out to the point
+of—indeed—antihumanism. Where the AI critics isolate the human in
+utopia, the nasty, brutish, and short vision of the doomers shares this
+naivety with inverted values. What both refuse to accept is culture.
+    Cognitive science in Chomsky’s mold, AI risk, and AI ethics share
+the theoretical move that backs us into a “humanist” corner, an ever-
+shrinking area of things that “computers can’t do.” The political motiva-
+tions of some of these proposals are anodyne and well intentioned, but
+the theories are too weak to cope with the actual intersection of culture
+and capitalism with which we live today. This is because they have no
+way of conceiving of the concrete interaction of language and compu-
+tation. Lacking that, the insistence on “the human” becomes a fetish
+that siloes meaning where we hope, wish, and want it to come from. It is
+sentimental semantics, the core of remainder humanism.
+
+
+The Shape of the Argument
+When Steven Pinker began to promote Noam Chomsky’s “syntax” ap-
+proach to language in public in the 1990s, it was the heyday of literary
+theory, and he still felt the need to reject what he called the “semiot-
+ics curriculum.” Yet no public conflict ever occurred between cognitive
+science and poststructuralism, even as the former appropriated lan-
+guage as a disciplinary object. Chapter 1 argues that the humanities lost
+public and even academic status as the primary knowers of language
+in this period and that the recovery of the object is urgent for a world
+with language machines. I compare the syntax view—which I argue is
+transcendental or Kantian in nature—w ith the idea of a “distributional
+semantics,” a statistical-empirical approach that draws on Bayesian
+methods but has rarely come to full articulation as a comprehensive
+theory and is now ascendant because of the success of LLMs. I then
+sketch the structuralist approach—which I classify as “dialectical”—
+
+38                            Introduction
+
+
+and argue that poststructuralism redirected attention from the concrete
+problem of cultural language such that AI requires renewed structural-
+ist analysis, but in a new form.
+    Chapters 2 and 3 address the problem of AI as an active shaper of
+cultural meaning. Named for the first chatbot, the creation of the AI en-
+gineer turned critic Joseph Weizenbaum, the “Eliza effect” occurs when
+we are fooled into thinking that we are conversing with a human. This is
+the opposite of the Turing test, and chapter 2 argues that it has become
+widespread, an underlying cultural condition. Examining the history
+of machine learning and its relationship to digital theory today, I argue
+that Alan Turing and Warren McCulloch, the earliest thinkers of AI,
+saw computational systems not as simulating an original human intel-
+ligence, but instead as instantiating formal systems in which humans
+also participate. This suggests that the notion of intelligence is more like
+what the philosopher Jean Baudrillard called a “simulacrum,” a repre-
+sentation without an original, than a copy of something else (the world
+in the case of human cognition or human intelligence in the case of AI).
+    Language plays a crucial role in deep learning and its distribution
+into our infrastructure and culture. AI has become multimodal, pro-
+ducing language, images, and many other kinds of data. But the semi-
+ology of AI must distinguish between its classifying and generating
+functions, both of which rely on language to function. Chapter 3 shows
+how classification relies on natural language labeling and so forms not
+empirical judgments (“this is a squirrel”) but instead a hypothesis about
+the data that have become a significant factor in our everyday world. I
+propose that this “data hypothesis” should supplant both hype and fear
+of a universal data language. The generative function of AI relies more
+directly on language. LLMs do not “datafy” language so much as they
+allow vectors to conform to structures in language, which is what makes
+generative systems capable of more than hypothesis. These systems plug
+in to formal features of culture and, by doing so, are able to generate
+meaning. To date, language is the only system capable of being exploited
+in this way, although it is not clear if that will remain the case. The re-
+mainder of the book is about these language machines.
+    Computation and language are now in an interoperable relationship,
+but mathematical and literary-theoretical understandings of form are
+very far apart. Chapter 4 outlines how computation and language “share
+form” in a specifically poetic way—following the argument of the poet
+
+                              Introduction                               39
+
+Allison Parrish—and reviews the state of the art in thinking about lit-
+erary form in AI. The structuralist idea of a “paradigm”—arrays of syno
+nyms given a context—was formally modeled in “vector semantics,” as
+the philosopher Juan Luis Gastaldi has argued, and this has a surpris-
+ing correspondence to Claude Shannon’s vision of language as it was
+included centrally in his information theory. When linguistic and com-
+putational form merge, we notice that there is no set of cultural or liter-
+ary theorists who currently study language as such, the ambition of the
+early structuralist movement. Semiology requires exactly this project.
+     Chapter 5 argues that the “queries, keys, and values” vectors of the
+so-called attention mechanism engage in the processing of establishing
+“values” in the differential system of language as Saussure conceived
+of it, demonstrating how computation and language do share form.
+So-called self-attention realizes what Roman Jakobson called the “po-
+etic function” in language, not in terms of sound or even text but as a
+general principle of language as a system. The transformer architecture
+demonstrates the general fact that language can be produced algorith-
+mically but does not explain why this is so. Nor does this specific class of
+net allow any direct insight into the class of possible formal interactions
+between the structures of numbers and of words. The chapter closes
+with a comparison of Kurt Goedel’s articulation of a formal system ca-
+pable of counting as “incomplete”—in which a new rule must always be
+borrowed from another system for some operation inside the present
+system—and Roman Jakobson’s idea of the poetic function, which I un-
+derstand as a fundamental first-order recursivity that produces the very
+possibility of meaning (and on which other functions, like reference, de-
+pend). The two systems are self-externalizing and “greedy,” respectively,
+and in the LLM collaborate to produce a “poetic heat map” of language.
+I call for a “general poetics” that studies meaning making in all formal
+systems, a semiology that blends culture and cognition.
+     Chapter 6 argues that LLMs are ideology machines. Generative cul-
+ture is an extensive, probabilistic continuation of what art critic C
+                                                                     lement
+Greenberg called kitsch: “predigested form.” The result is what I call
+packaged semantics, which, despite being quantitatively formulaic, often
+surprises us. This quantitative ideology machine could even be used
+forensically in the service of knowing the distribution of social ideas. It
+ thus realizes not a “transcendental” notion of ideology, in which what
+ is thinkable or sayable is merely conditioned by some other factor—the
+
+40                           Introduction
+
+
+economic base, the unconscious—but an “expressive” version of ideol-
+ogy in which statistical method and dialectics coincide.
+    Language is now on offer “as a service,” in the jargon of software.
+The conclusion predicts that the availability of language generation will
+slowly separate out a “labor” aspect of language, now automatic, from
+its creative side. This process occurred with respect to computation be-
+ginning in the Industrial Revolution and culminating in the computer.
+The political economy of digital culture now includes language as a
+hinge, but it is no longer only a human language that plays this role.
+Just as rhetoric was the discipline that cognitively conditioned and thus
+underwrote textual civilization, we are set to witness the rise of new,
+computational-rhetorical systems as the rails of global capitalism going
+forward.

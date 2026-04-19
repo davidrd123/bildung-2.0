@@ -1,0 +1,1504 @@
+      1
+
+
+How the Humanities Lost Language
+Syntax, Statistics, and Structure
+
+In 1994, Steven Pinker still felt the need to argue with the literary theo
+rists. Not very much, mind you—by this point, the game was more or
+less over. But in The Language Instinct, the book that launched him from
+success as a cognitive linguist into public-intellectual stardom, he would
+still write things like this:
+
+   Language is no more a cultural invention than is upright posture.
+   It is not a manifestation of a general capacity to use symbols: a
+   three-year-old, we shall see, is a grammatical genius, but is quite
+   incompetent at the visual arts, religious iconography, traffic signs,
+   and the other staples of the semiotics curriculum.1
+
+This colloquy of cultural habits that are not as deep as “language” accu-
+rately describes the reach of what, by 1994, was now a poststructuralist
+semiology. Based on a doctrine of symbols, the object of the discipline is
+structure of signification across a wide variety of social uses. As we have
+seen, the technical term for this discipline is semiology. Whether there
+can be any knowledge of such cultural vapor, Pinker argues, is irrelevant
+to the problem of language, which is a proper scientific object, not “the
+ineffable essence of human uniqueness but . . . a biological adaptation to
+communicate information.”2 Language is cognition—indeed, for Pinker,
+it is in the brain—not culture.3
+    Pinker’s is hardly the only cognitive approach to language, but by
+entering the public sphere with his version of Noam Chomsky’s doctrine
+of syntax, he made a grab for theoretical dominance. The “semiotics cur-
+riculum” was unable to counter this move. Many of its members were
+also emerging as public figures at this time—think of the controversies
+around Jean Baudrillard’s 1991 trilogy of articles on the Gulf War,
+published as a volume, The Gulf War Did Not Take Place, in 1995; J udith
+Butler’s Gender Trouble (1990) and her influential 1993 article on “Sche-
+matic Racism and White Paranoia” in the Rodney King trial; or Jacques
+
+
+                                    41
+
+42                 How the Humanities Lost Language
+
+
+Derrida’s 1993 book Spectres of Marx, with its engagement of Francis
+Fukuyama’s end-of-history thesis. The “semiotics curriculum” was alive
+and well in the 1990s and even doing a brisk bit of public trade. But its
+focus, and disciplinary grip, on the object of language had loosened, and
+since then, it has not returned. The humanities lost language by choice.
+    Pinker’s move went largely unanswered as a question about who pos-
+sessed knowledge of language, who got to say what language was. Slavoj
+Žižek, who began his climb to global fame in 1989 with The Sublime Ob-
+ject of Ideology, would engage cognitive science and AI in his 2006 The
+Parallax View. But then, it seems, it was almost too late—or at least,
+the humanities had already given up on the shared determination of
+what language is, retreating into disciplinary isolation. What should
+have been a conflict of the faculties between syntax and semiotics never
+happened.
+    This chapter is not a sketch of what might have been. It is, instead,
+an attempt to make sense of the present moment, when language and
+computation have been set in a newly productive interface. Cognitive
+science’s ownership of language as an object suggests that we turn to
+Noam Chomsky and his school to make sense of this moment; NLP,
+which has produced this moment technologically, is challenging that
+ownership in earnest now. But neither side has a firm grasp on the ob-
+ject that LLMs present, precisely because literary theory and cognitive
+linguistics never had it out and the humanities lost language to both
+these other groups. In what follows, I present three theories of form
+and meaning in language, which I call the syntax, statistics, and structure
+views. There are other ways to divvy up the many views of linguistic
+meaning, of course, and I am not suggesting that this is an exhaustive
+account. Instead, I choose these three because they share a commitment
+to a notion of “structure” that they respectively construe in radically
+different ways, with the result that each harbors a separate view of what
+counts as empiricism, or evidence, in the study of language. These back-
+ground views are transcendental (Kantian) in the case of syntax, “flat”
+(or Humean, more precisely Bayesian) in the case of statistics, and cul-
+tural (I argue that semiology is of the family “dialectical” in the families
+of theory4) in the case of structure.
+    The views coevolved, but I do not mean to give anything like a history
+here. The competing theoretical commitments of these three frame-
+
+                   How the Humanities Lost Language                        43
+
+works all have partial purchase on the problem of language automation.
+Syntax has always denied this possibility, and statistics affirmed it;
+structure, surprisingly, turns out to be the best fit with the actual devel-
+opment of language machines, as the rest of the book argues. But this
+fit calls our attention back from the poststructuralist semiology that
+Pinker dismissed to an earlier structuralism far more engaged with lin-
+guistics and—simply—w ith the concrete analysis of actual strings of
+signs. No cognitive scientist or computational linguist I am aware of
+thinks that there is a bad fit between rules and expression, cognition
+and culture—they mostly appear to think that this is not a real problem.
+But the nonproblem breeds monsters. The promise of structuralism was
+to show how culture interfaced with rules, and that is what is required
+for dealing with AI in the present. For this reason, I also argue that post-
+structuralism, which often has useful diagnostic things to say about
+contemporary culture, has not produced a concrete enough analytical
+tool set to deal with automated language generation. For this reason,
+despite its close association with literary theory, poststructuralism is
+partly responsible for how the humanities lost language.
+    LLMs may function for the technical disciplines as more proof that
+culture will eventually be gobbled up by computational models. After all,
+if a machine can make language, produce images, and even predict solu-
+tions to scientific problems like protein structure or antibiotic strength,
+it is easy to adopt the attitude that the interpretation of such systems
+is a luxury. But there should, at a minimum, be some semiotic friction
+before we allow disciplines to collapse. It may even be that these systems
+explain nothing on their own and that interpretation is the only path
+to reducing their high-dimensional hypotheses to concrete knowledge.
+If that is so, then the syntax view—in which, as we shall see, the rules
+always retreat beyond the reach of the data—w ill never offer that expla-
+nation. The problem of knowledge in the age of AI may end up depending
+on cultural theory. It is not yet clear that any data are truly culture-free,
+and even in cases in which a preformalized system stabilizes the object—
+like sonic data or temperature—the type of inference necessary to make
+any conclusion about that data relies on an analogy to human cognition
+that may make little sense. In such cases, we see the extension of compu-
+tation beyond the realm where we can reliably explain why it does or does
+not work. That is a knowledge problem that can only be articulated as a
+
+44                How the Humanities Lost Language
+
+
+problem of culture, by means of the semiotics of data. This chapter—and
+the ones that follow—begins the project of making sense of this problem
+on the example of language machines.
+
+
+Syntax
+In the New York Times op-ed that he coauthored in early 2023, in which
+he claimed that LLMs are “lumbering statistical engines” that do not
+produce language at all, Chomsky recycled some example sentences
+from his 1957 book Syntactic Structures, which began his meteoric rise
+not only in linguistics but in cognitive science more generally. The sen-
+tence “John is too stubborn to talk to,” he argued, would often be mis-
+construed by LLMs because it implies an agent that is not presented as
+a word. Chomsky went on to say that a model would likely predict that
+the meaning of this sentence is that John refuses to talk rather than
+that John cannot be reasoned with. This example, simple for humans
+and less so for machines, put the whole history of the war between syn-
+tax and statistics on the table. The meaning of language could not be in
+words, Chomsky thought, even if the words had some external relation-
+ship determining their placement. The structure of language had to be
+deeper.
+   Chomsky is best known for the concept of a “universal grammar.”
+Since the late 1950s, he has revised this idea several times, with vari-
+ants ranging from a hierarchy of linguistic systems to the “minimalist
+program” based on the idea of a cognitive function called “merge.” I will
+not go into much detail about the differences between these programs,
+because they all share two features that are important here. First, they
+involve what Chomsky calls the distinction between “competence”—or
+the ability to understand, and so to accept or reject, any sentence as
+grammatical or not—and “performance”—or the external placement of
+words in some order, in speech or otherwise.5 The second feature, which
+depends on the first, is that Chomsky has consistently denied that lan-
+guage can be captured by statistical models.6 Such a model differentiates
+words only by numerical value and so cannot create a hierarchy of func-
+tions with any depth.
+   It was partly to propose this difference that Chomsky composed his
+famous sentences:
+
+                   How the Humanities Lost Language                         45
+
+   (1) Colorless green ideas sleep furiously.
+   (2) Furiously sleep green ideas colorless.7
+
+The two sentences are “equally nonsensical, but any speaker of English
+will recognize that only the former is grammatical,” suggesting that
+“any search for a semantically based definition of ‘grammaticalness’ is
+futile.”8 In other words, what constitutes language cannot be derived
+from words—there must be deep-structure reasons for the ability
+to distinguish between these two sentences, neither of which means
+anything.
+   What it means to be “grammatical in English,” therefore, is strictly
+different from the notion “high order of statistical approximation to
+English,” Chomsky writes.9 Indeed, neither of these sentences is likely
+to have ever occurred in English, so no corpus will have much chance of
+predicting either. But (1) is grammatical, which Chomsky distinguishes
+by noting that
+
+   presented with these sentences, a speaker of English will read
+   (1) with a normal sentence intonation, but he will read (2) with a
+   falling intonation on each word; in fact, with just the intonation
+   pattern given to any sequence of unrelated words. He treats each
+   word in (2) as a separate phrase. Similarly, he will be able to recall
+   (1) much more easily than (2), to learn it much more quickly, etc.
+   Yet he may never have heard or seen any pair of words from these
+   sentences joined in actual discourse. . . . Evidently, one’s ability
+   to produce and recognize grammatical utterances is not based
+   on notions of statistical approximation and the like. The custom
+   of calling grammatical sentences those that “can occur,” or those
+   that are “possible,” has been responsible for some confusion here.
+
+Our ability to speak has some pattern underlying it, in other words.
+The “normal” intonation with which one reads (1) will be extended deep
+into the mind’s structure by Chomsky and his school over the next six
+decades, until it arrives, in their accounts, in the brain, defining what
+it means to be human at all. The “transparency” of rhythmical speech
+is taken as a sign that the brain is preformed for this—and not some
+other—join between logic and language.10
+
+46                 How the Humanities Lost Language
+
+
+    All it took was a well-formed but meaningless sentence.
+    The target of Chomsky’s gambit appears to have been Claude S hannon,
+the creator of information theory, whom we will encounter several times
+over the course of this book. Chomsky’s argument is that a grammar is
+a “device” that produces all the grammatical “and none of the ungram-
+matical” sentences of a language. Such a device, he argues, cannot be
+a “finite-state machine” that deploys a Markov process—a statistical
+approach that treats linguistic structure as a matter of frequency, in-
+formation content measured as the probability of the placement of a
+letter or a word in a context. Such a process will not be able to imitate
+the human capacity to “produce and understand new sentences” and
+also reject “other new sequences as not belonging to the language.”11
+Chomsky concludes that English—we may say language in general—is
+“not a finite-state language.”12 Statistical approaches will only approxi-
+mate previous language use; they will be unable to adjudicate or gener-
+ate new instances of English.
+    The difference between statistical prediction—often characterized
+as a “flat” order—and something with depth, in language, mind, or na-
+ture, is a major scientific and philosophical debate that has been raging
+for half a century. The rise of data science and computational modeling,
+along with the emergence of a self-designated “cognitive science,” has
+resurrected the debate between empiricism and rationalism.13 There
+was no guarantee that linguistics would play any major role in this pro-
+cess, but Chomsky’s outsize influence on the very institution of cogni-
+tive science is partly due to his claim for a strong rationalist backbone
+in this debate. Where statistical approaches may use past data as evi-
+dence to predict uncertain events, the mind, for Chomsky, is deeply crea
+tive. Humans make “infinite use of finite means,” he often says, quoting
+Wilhelm von Humboldt.14 We make never-before-uttered sentences
+as a matter of course, recombining elements in our languages using a
+hardwired ability that can never be derived from the elements of those
+languages: words, sentences, or numbers that attempt to capture and
+model those words. This is why Chomsky called his program “Cartesian
+linguistics,” invoking the great formalizer of epistemology and geom-
+etry.15 Syntax, universal grammar, principles and parameters, and the
+more recent “minimalist program” with its key idea of “merge”—a ll
+these are attempts to isolate and formalize the ability to use language as
+a distinctively human operation shared neither by animals nor by ma-
+
+                   How the Humanities Lost Language                      47
+
+chines. For this reason, I think that his linguistics is more Kantian than
+Cartesian. Chomskyan linguistics is the search for the categories of a
+transcendental logic of language as it exists extensively, to find the rules
+that we impose on sound or paper. Kant’s search for form differs from
+Descartes’s because it is strictly about the limits of human knowledge
+and what may count as universally valid within that knowledge. The
+search for the rules of that knowledge in the empirical order is futile,
+Kant argued, and Chomsky’s argument against statistics has its analog
+here, not in Descartes or in Humboldt. The reason that there is no hope
+of finding syntax in sound or any other external feature of language—
+just as there was no hope of finding our a priori capacities in experience,
+for Kant—is that there is no recursion in the physical world.
+    Every version of Chomsky’s doctrine has centrally featured recur-
+sion. Language’s infinity is based on the ability to extend it, he argues,
+not by adding a “next word” but by including any sentence within an-
+other. No matter how long the string of words, one is always permitted
+to add “Mary thinks that” at the beginning to make a new sentence.
+One may also think of signature wordplay that uses this form of recur-
+sion, such as the classic joke from the sitcom 30 Rock, in which a char-
+acter says “my single ‘My Single Is Dropping’ is dropping” (although
+this includes a pragmatic difference too, obviously). Here, too, we may
+note a similarity to Kant’s philosophy, in which the unity of mental
+experience—the fact that whatever I experience is a single experience
+of my consciousness—is underwritten by the ability to add “I think”
+before any statement of that experience. For both Chomsky and Kant,
+there may be practical limits on this recursive infinity—if I insert too
+many sentences inside each other, it may be psychologically confusing,
+and if I say “I think that I think that I think,” it may become tedious, if
+not nonsensical.16 But the point is not threatened by such limits. Every
+act of thought, and every instance of language, is an expression of this
+deep recursive ability, which governs but also enables expression. Syn-
+tax is the transcendental logic of cognitive science, and its backbone is
+recursion.
+    We can take a brief look at the most recent, and currently most in-
+fluential, of Chomsky’s frameworks to see how this recursion works and
+why it is allegedly immune to statistical capture. In the 1990s, Chomsky
+proposed a version of his doctrine called “merge,” the minimal rules for
+imposing cognitive order on anything, including language. In 2002, he
+
+48                 How the Humanities Lost Language
+
+
+coauthored a Science article that argued that this capacity was the ex-
+planation for the singularity of language in the animal order, perhaps
+the most direct attempt on Chomsky’s part to seed linguistics in the
+sciences.
+    The faculty of language in the broad sense, the authors argued, is
+an evolutionary device for communication that relates conceptual-
+intentional material to sensory-motor perceptual action in both physical
+and social environments. The faculty of language that actually performs
+these functions in humans is narrow, and this narrow faculty is “orga-
+nized like the genetic code—hierarchical, generative, recursive, and
+virtually limitless with respect to its scope of expression.”17 Language
+in this sense is the differentia specifica of the human. No other animal
+possesses it, and the search for its evolutionary basis is a major scien-
+tific undertaking. The way that humans make meaning is in this deep
+structure of language, and its basis must be in the brain—resuming an
+argument from Chomsky’s early career that there must be a “language
+acquisition device” in the brain.
+    The minimalist program describes a “computational procedure for
+human language.” Chomsky writes that “the indispensable operation
+of a recursive system is Merge . . . , which takes two syntactic objects
+α and β and forms the new object γ = {α,β}.”18 Complementing merge
+are two other operations, called “agree” (which allows for comparison
+and case-checking in a domain) and “move” (which combines the first
+two and revalues some function).19 But merge is the basis, the most eco-
+nomic and core function, of the syntactic ability that leads to the “infin-
+ity” of language in humans.
+    The Chomskyan linguist David Adger uses the example of the English
+phrase drink wine to illustrate merge. Drink and wine are both “bits of
+language,” he tells us, but when I say, “I drink wine,” the phrase “drink
+wine” becomes a new bit of language. Other languages—he gives us
+the Japanese “watashiwa waino nomu,” subject-object-verb, and the
+Malagasy “misotro divay aho,” verb-object-subject—arrange words dif-
+ ferently, but the merge of all three is the same operation.20 Merge can, of
+ course, take other syntactic objects and make them into a unit, as Adger
+ demonstrates in thinking about the unit ’s in English for possession,
+ which is created in some languages by genitive inflection of the verb.
+ The overall point is that merge is the deep structure of recursion, be-
+ cause it allows but also restricts the range of combination of functions
+
+                   How the Humanities Lost Language                     49
+
+in grammar. What is really “merged” in this operation is cognition and
+the external order of language’s elements, and this relationship is uni-
+directional. Adger states, “Merge imposes hierarchy on all it surveys.”21
+The understanding gives the law to nature, as Kant might have put it.
+Many things in the order of knowledge come from experience, but some
+things do not—syntax is the essence of those things, because it is a for-
+mal operation for both cognition and language.
+    Two consequences of this view are relevant for our study here. First,
+it is the recursion of merge and its generality that confer “depth” and
+hierarchy on cognition and make it resistant to statistical modeling.
+And second, “language” has here come to be defined in such strict cog-
+nitive terms that the usual sense of the word is nearly entirely gone.
+Language now does not include things like words and letters, let alone
+genres and other cultural forms—a lthough this internalized language
+makes use of these artifacts. The withdrawal of syntax into this tran-
+scendental depth creates a problem that mirrors a technical issue that
+Kant could not resolve, the “schematism.”
+    “Lumbering statistical engines” differ from human children, who
+learn with an almost mathematical elegance, as Chomsky has always ar-
+gued. The idea that a very small child possesses no skill in the “semiotics
+curriculum” but already has a strong sense of syntax—as we saw Pinker
+claim—is crucial to the syntax view. The idea is that human children
+simply do not learn by induction, statistical or otherwise, because they
+never hear the variants. No one utters a high number of poorly organized
+or ungrammatical sentences to a child. Some such sentences are encoun-
+tered, of course, but their number is trivial compared to the well-formed
+sentences to which children are constantly exposed both in speech and
+as they learn to read and write. Chomsky calls this “Plato’s problem”:
+“the problem of ‘poverty of stimulus,’ of accounting for the richness,
+complexity, and specificity of shared knowledge, given the limitations
+of the data available.”22 Infinite creativity comes not from immersion
+in every possible permutation of words but instead from some innate
+ability to make language. Statistical systems do not have this problem,
+and they cannot build up to this type of knowledge, lacking the depth to
+do so. This is the core of Chomsky’s objection to LLMs.
+    Language is not a habit, Chomsky has claimed from the beginning. He
+has argued this point in this way because the school that his generative
+grammar upended, American structuralism, saw it that way. A blend
+
+50                 How the Humanities Lost Language
+
+
+of logical empiricism and American pragmatism, the structuralists in
+the United States—a completely separate phenomenon from Euro-
+pean structuralism, although the two groups sometimes interacted—
+pursued a descriptive linguistics that came from an anthropological
+approach championed by some of Franz Boas’s students, prominent
+among them Edward Sapir. The structure they sought was empirical and
+indeed often statistical, as we shall see shortly. Syntactic structure was a
+response that replaced description with the aspiration to explanation.
+    In recent remarks, Chomsky has argued that this “training and
+habit” approach is being resurrected by deep learning. Systems of this
+sort “produce text that looks like actual language,” but no “corpus of
+linguistic materials” will ever be explanatory.23 No scan of a corpus, no
+matter how large, can answer a “why” question. All the way back in 1957,
+he had already written that linguistic analysis “cannot be understood
+as a schematic summary developed by sharpening the blurred edges in
+the full statistical picture. . . . Grammar is autonomous and independent
+of [semantic] meaning, and . . . probabilistic models give no particular
+insight into some of the basic problem of syntactic structure.”24 Nothing
+has changed on this score, then—a handcrafted corpus of perhaps some
+tens of thousands of words differs only in scale from the many trillions
+of words now fed into LLMs. Explanation is not forthcoming.
+    As we will see, I agree that no explanation is forthcoming from ma-
+chine learning in general and that the task of classifying language is
+beyond the scope of what these systems are capable of. But there is a cu-
+riosity in the way Chomsky poses this problem. LLMs now produce quite
+good syntax, even if you can fool them into shoddy answers if you ask
+them to analyze complex syntax (ChatGPT gets “John is too stubborn
+to talk to” right, one year on, though). But is a syntax user automatically
+a perfect analyzer of syntax? The answer for humans is clearly no. The
+issue that surfaces here is that syntax as defined by Chomsky and his
+school is the point of contact between language and cognition—a link
+between thought and language, cognition and expression. The conse-
+quence of viewing it through syntax in the way Chomsky does, as the
+mere production of good syntax—words in the right order spit out of
+the interface—does not justify the idea that it is “modeling” syntax or
+“producing language” on its own. It is not really clear what would suffice
+to claim that a system models syntax, because the interface Chomsky
+theorizes is not available to any kind of observation. As Maniglier puts
+
+                   How the Humanities Lost Language                     51
+
+it, this position forces Chomsky into the idea that “knowing a language”
+is actually the “knowledge of the knowledge of something,” threaten-
+ing regress and without a clear sense of the fit between the rules and
+their expression.25 The rather bizarre exclusion of any external units
+from language is the cost of defining the latter not as actually spoken
+languages but as the formal production unit—in the brain or in some
+computational formalism—that achieves the fit between knowing and
+saying, the internal and external aspects of the linguistic act.
+     If the human child has a neurological shortcut to syntax, the ques-
+tion of how syntactic structure gets imposed on semantic units becomes
+a topic for empirical research.26 This problem is known as the “linking
+problem,” one that has given Pinker and his colleagues fits.27 The idea
+is that syntax and semantics have to be joined so that I may “pour the
+water into the glass” and “fill the glass with water” rather than “pour the
+glass with water” or “fill water into the glass.” We speak both grammati
+cally and meaningfully—and the syntax school believes that there is no
+way to “bootstrap” from semantics to syntax, because the pathway is
+simply too long, requiring too many data and too much time.28 The term
+linking masks a deep problem that the syntax view has rarely confronted
+empirically, namely, how the deep structure of syntax actually imposes
+form on specific languages, like English or Lao.29 This problem is an in-
+stance of a larger problem that cements the sense that the syntax view
+is a transcendental logic for linguistics, of a Kantian stripe.
+     Kant faced his own linking problem. He divided knowledge of
+nature—of the kind expressed in judgments like “this is a rose”—into
+ intuitions, Anschauungen, which were singular and undivided, and con-
+ cepts, Begriffe, which were discursive, discrete, and general. His famous
+ dictum that “intuitions without concepts are blind, concepts without
+ intuitions are empty”30 was meant to show that the judgment was the
+ form of linkage between the two kinds, the general vehicle of knowl-
+ edge. The famous “categories of the understanding” are thus rules for a
+ linking activity that imposes form on something that does not possess
+ it independently, and the “deduction” of the categories is the highest
+ possible form of argument for Kant—the justification of the only uni-
+ versally valid form of knowledge.
+     But once the theoretical dust settles on this highest problem, some
+ issues remain. Even if one accepts Kant’s deduction—and hardly anyone
+ has or does without some exception—this “unity” of consciousness does
+
+52                 How the Humanities Lost Language
+
+
+not ipso facto show us why we are able to say things like “this is a plate.”
+To identify everyday objects, Kant introduces the idea of a schema, a
+middle term that relates the categories to the forms of intuition and
+the shapes that regularly occur in those forms.31 Even if the rules can be
+theoretically merged with the stuff of consciousness, it remains difficult
+to exemplify or make sense of how that merge interacts with mundane
+knowledge. Kant’s own example is that the empirical concept of a “plate”
+must be related to the geometrical concept of a “circle.” It is not much
+of an exaggeration to say that no one after Kant has ever been happy
+with this section of Critique of Pure Reason. The linking problem seems to
+confirm my sense that the syntax view is Kantian, because it rediscovers
+the problem that transcendental logic needs some hitch to find its way
+to mundane knowledge. And this problem might be ill posed, for it is not
+really clear that the concrete object we are dealing with is first split into
+pieces, only later to be synthesized. Syntax, by analogy, has to “fit” with
+words in actual languages, to be “merged.”
+     Chomsky has long expressed this problem in terms of an “external”
+or “E-language” (“in the sense that the construct is understood inde-
+pendently of the properties of the mind/brain”32) and an “internal” or
+“I-language,” “some element of the mind of the person who knows the
+language, acquired by the learner, and used by the speaker-hearer.”33
+In making this separation in the 1980s, Chomsky collapsed the Ameri-
+can and European structuralist schools, accusing both of studying only
+the external forms of language, not its cognitive laws. In the remainder
+of this chapter, I pick these two schools apart again, showing how the
+Americans tended toward a statistical approach to meaning, while
+the European school was semiotic in bent. For the syntax approach, sta-
+tistics and signs are artifacts.
+     They are also not scientific objects. Chomsky writes that “there is no
+issue of correctness with regard to E-languages, however characterized,
+because E-languages are mere artifacts.”34 In other words, although
+the I-language generates the E-language, at some point the generation
+must cross a boundary between interior and exterior, after which it
+should “play no role in the theory of language”—because “languages
+in this sense are not real-world objects but are artificial, somewhat
+arbitrary, and perhaps not very interesting constructs.”35 The “steady
+state of knowledge” of the I-language, on the contrary, comes from the
+fact that the internal syntax is made of “real elements of particular
+
+                   How the Humanities Lost Language                     53
+
+minds/brains, aspects of the physical world.”36 The question, of course,
+is which contingencies knock the steady state off course and why that is
+possible at all (the inversion of the linking problem: culture). If the an-
+swer is various physical and environmental constraints, including social
+and cultural elements, then the question is merely deferred, because we
+now have two problems.
+    How an internal mechanism freed from those constraints evolves
+from those constraints is not obvious, and at the same time it becomes
+unclear why contextual information recorded in physical formats is
+seen as “not a real-world” or “physical” object, while a structure that we
+can see is needed for some logical-linguistic operations but cannot locate
+physically is called the truly scientific object.
+    This type of hypothesis to guide empirical effort again recalls Kant,
+because it is not clear how it could ever be verified, except in a fold of
+the brain that must—in Pinker’s unintentionally ironic phrase that in-
+troduces a very long chapter on the “language organ” in his 1994 book—
+remain a “dramatization of what grammatical information processing
+might be like from a neuron’s-eye view.”37 I think of this move as an
+attitudinal empiricism—an insistence on the way a solution should work,
+without any evidence that it does. It is not an assessment of what ap-
+pears, or even the transcendental question of what might govern that
+appearance, but instead an insistence that language must fit into the
+order of knowledge of science.
+    These are the stakes of Chomsky’s cognitivism, calling as it does on
+the entire rationalist tradition. It seeks to make language an empirical
+object, even as it uses syntax to define empiricism as it relates to the
+mind. I have already said that I do not regard LLMs as intelligent—or
+even think this question is well posed—but it seems strange that some-
+thing like the automation of language, no matter how you think of it,
+could be merely a “not very interesting construct.” A theory of language
+that finds itself constantly in the position of explaining linguistic arti-
+facts away may or may not grasp something fundamentally human at
+the level of cognition. The syntax view tends to try to link deep struc-
+ture with meaning, without asking what the relationship is between
+depth and surface, interior and exterior. But without an elaboration
+that solves the problem of linkage not with meaning in general but with
+systems of artifactual nature—culture—it seems to insist more than
+explain in the face of the “real-world” systems of signs now riding on
+
+54                  How the Humanities Lost Language
+
+
+the tiger of statistical modeling. It is not clear that meaning aligns with
+cognition rather than with constructed systems.
+    There is no question that LLMs are statistical machines, but it is less
+clear that they are “lumbering statistical engines” in the sense that
+Chomsky seems to intend. Although it is true that they are trained
+on very large data sets, it is not obvious that those data sets include
+anything like the type of agrammatical language that children never
+hear. The gigantic Common Crawl data set, which is often used in part
+in pretraining, contains predominantly grammatical language. Sources
+like Wikipedia and the controversial BookCorpus (which contains copy-
+righted material) are highly curated and edited cultural artifacts. The
+presence of Reddit in many training data sets has drawn attention be-
+cause of the notoriety of the forum hoster for its more controversial
+and toxic content, but Reddit is also a massive repository of written yet
+casual language, roughly grammatical, secondarily oral. The “lumbering
+statistical engine” certainly encounters agrammatical things, such as
+lists of cities, but then, so do children. It is possible to argue—although I
+am not aware of a syntax defender making the argument this way—that
+an LLM develops a kind of random walk internally as it learns from its
+input. After all, the system reweights with each new input string and so
+eventually creates a very large grid of words that are in fact statistically
+related—what I will call in chapter 5 the “poetic heat map of language.”
+But this candidate for statistical lumbering is not quite right. We do not
+know where and how word maps are stored in the brain, and there is cer-
+tainly much speculation that this is done using a weighting system for
+compression. An internal representation of a weighted kind may or may
+not exist in the brain, and certainly does exist in a language model. (In-
+deed, that’s what a language model is.) But the model did not learn from
+a random walk through the forest of words—it is trained on all kinds
+of real language used by humans, from chats and lists and footnotes
+and hate speech to novels, nonfiction, and nonsense (but usually of the
+grammatical kind). If an LLM is a language machine, it is a cultural one,
+a computational–cultural interface of a new kind.
+
+
+Statistics
+The second frame that competes for interpretive supremacy of language
+models in the present is what I call the “statistics view.” This view is
+
+                   How the Humanities Lost Language                        55
+
+dominant in the practice of AI and was developed in and out of NLP. If
+the idea that syntax imposes structure on the material forms of lan-
+guage has held pride of place for decades in cognitive science, in data
+science, the common hypothesis is that meaning emerges from statisti-
+cal relationships.
+    The statistics view is not a school dominated by a single theory or fig-
+ure. The view developed in the descriptive structuralism in the United
+States before Chomsky’s rise, and it has prominent proponents—I high-
+light Peter Norvig and Christopher Manning—among AI engineers and
+computational linguists. One holds this view, on my account, only if
+one believes that meaning in language can be captured or generated just
+statistically. This view thus amounts to a form of probabilistic reduction-
+ism about language. For this reason, I do not offer a history of NLP here,
+even though some practitioners fit the mold. Perhaps most importantly,
+I do not deal extensively with Claude Shannon (whom we will deal with
+in detail in chapters 4 and 5) because of his famous exclusion of the
+“semantics aspects” of messages from the “engineering problem” of
+creating communication channels. The group I am after here comprises
+those who think that language models participate in meaning because
+meaning can be captured more or less without remainder by a statistical
+model. In other words, I treat the statistical view here only insofar as it
+amounts to a theory of meaning.
+    In 2022, the computational linguist Christopher Manning announced
+that with the rise of LLMs, “models discover and represent much of the
+structure of human languages.”38 This bold statement avers a sense of
+vindication for the main hypothesis of the statistics view, the distri-
+butional hypothesis. The classic statement of this idea comes from the
+linguist J. R. Firth:
+
+   The placing of a text as a constituent in a context of situation
+   contributes to the statement of meaning since situations are set
+   up to recognize use. As Wittgenstein says, “the meaning of words
+   lies in their use.” The day to day practice of playing language
+   games recognizes customs and rules. It follows that a text in such
+   established usage may contain sentences such as “Don’t be such
+   an ass!,” “You silly ass!’,” “What an ass he is!” In these examples,
+   the word ass is in familiar and habitual company, commonly
+   collocated with you silly, he is a silly, don’t be such an. You shall
+
+56                  How the Humanities Lost Language
+
+
+     know a word by the company it keeps! One of the meanings of
+     ass is its habitual collocation with such other words as those
+     above quoted.39
+
+You shall know a word by the company it keeps has become the slogan of this
+entire school of thought. And we may immediately note that capturing
+meaning in use—the many “asses” of this passage, their placement and
+sense in context—is one of the linguistic tasks in which LLMs indeed
+appear to have made great progress. “Habitual collocation” with other
+words appears to be a data-capturable feature of linguistic meaning.
+Firth’s words were published in 1957, the same year as Syntactic Struc-
+tures. The publication of the paper that launched the transformer archi-
+tecture, “Attention Is All You Need,” in 2017—sixty years later—seems
+on the surface to promise vindication for the long-embattled statistics
+view of language. In the war between syntax and statistics, the ques-
+tion has always been what counts as evidence and what model of em-
+piricism is appropriate for the object “language.” Where I have argued
+that Chomsky’s group is Kantian in orientation—somewhat against the
+grain—the statistics view is openly derived from the Humean empirical
+tradition and specifically its variant started by the theologian Thomas
+Bayes. A model, for Chomsky, should be hierarchical, deep, and explana
+tory. For the statistics view of linguistic meaning, it should be predic-
+tive, updatable, and flexible.
+    This view of empiricism comes directly from the combination of logi
+cal positivism and American pragmatism that resulted in the exile of
+the Austrians with the rise of national socialism. The first two volumes
+of The Encyclopedia of Unified Science were Morris’s semiotics treatise and
+Carnap’s work on logic—which made the fateful triadic distinction be-
+tween syntax, semantics, and pragmatics, as we saw in the introduction
+to this volume. The fourth volume was on language, and it was penned
+by Leonard Bloomfield, the dominant figure in American linguistics
+in the prewar period. Each of these works argued for a specific way to
+treat the medium or structure of scientific claims, and Bloomfield’s lin-
+guistics could step in smoothly here because he was anticonceptual. The
+linguist, he says, was the only person who did not accept the content
+of the sentence uttered as a set of concepts occupying first the utter-
+er’s, then the receiver’s mind. He looks instead to the material occur-
+rence of the speech, attempting to decode the structure of the external
+
+                   How the Humanities Lost Language                      57
+
+act.40 This externalism was one influential way in which language could
+become statistical.
+    After Bloomfield, the largest influence in American linguistics up to
+Chomsky was Zellig Harris, Chomsky’s teacher. Distributionalism was
+key to his thinking too, but with a twist. He argued that utterances es-
+tablished “environments” for linguistic “elements” and that “the distri-
+bution of an element is the total of all environments in which it occurs,
+i.e. the sum of the (different) positions (or occurrences) of an element
+relative to the occurrence of other elements.”41 Distribution becomes
+the point of entry for linguistics in the first place. Theory can come
+from description, but this description is “explicitly limited to questions
+of distribution, i.e. of the freedom of occurrence of portions of an ut-
+terance relatively to each other.”42 This “freedom” runs very close to
+Shannon’s notion of the freedom of choice in selecting a message, as
+we will see in chapter 4. The idea is that limits on how speech occurs
+can be scoped quantitatively by establishing a balance between freedom
+and constraint. Harris would go on to write a book on information and
+language late in life.43
+    The reason for the statistical approach in Harris is that there is noth-
+ing other than natural language in which to do linguistics. As a recent
+textbook on distributional semantics puts this point, “language contains
+its own metalanguage.”44 Harris writes that “even if the grammar of a
+language is stated largely in symbols, those symbols will have to be de-
+fined ultimately in a natural language.”45 This point runs close to the
+last-instance semiology idea that I have argued is proper to S aussure’s
+structuralism. It also ensures, for Harris, that there is no danger in
+modeling language numerically, because whatever we discover will be
+rendered in language again in the end. Formalisms of other kinds will
+sum back up to language. This faith is bedrock for the statistics view,
+which tends to be sanguine about computational formalisms both
+for theory and in algorithmic production. If meaning is not extended
+to actually existing language systems in the syntax view, here it is
+rather too easily assumed to be in those systems and extractable from
+their distribution.
+    The statistical approach in this case is not exactly reductionistic.
+Harris proposes rather that, because language is the ultimate form of
+ any meaning about language, the balance of mathematical precision and
+ linguistic statement is the goal. Proximity of “vague” terms becomes a
+
+58                 How the Humanities Lost Language
+
+
+key idea, with the distribution of those terms often indicating similar-
+ity of meaning between two units. Because there is no other way in to
+language and no other way to finally state what language is, distribu-
+tional structure is the basis of the descriptive effort. This epistemologi-
+cal stance was crucial to establishing the distributional hypothesis. No
+“other types of information” are needed beyond distributional occur-
+rence, which, because it states “occurrence” relative to other terms or
+“members of classes,” must be stated “in terms of probability, based on
+that frequency of that occurrence in a sample.”46 The approach of the
+statisticians is based on a completely different notion of science than
+that of the syntax group: a strong empiricism that embraces the idea of
+data and probabilistic modeling. For this group, there is only progress
+in modeling and a relative fit between mathematics and the language it
+models.
+    Where the syntax group plays the Kantian rationalist, the statis-
+tics group has always been attached to the rise of a quantitative em-
+piricism attached to the doctrines of the Enlightenment theologian
+Thomas Bayes. It is outside the scope of this chapter to cover the history
+of Bayesian techniques in NLP, but it is important to note that the dis-
+tributional hypothesis was never just a theory. While Chomsky’s school
+became dominant in science, in the world of engineering and the enter-
+prise applications of early data machines, the idea that data distribu-
+tions were more or less tantamount to meaning percolated. As Matthew
+Jones and Chris Wiggins have pointed out, Bletchley Park, the famous
+decoding team led by Alan Turing, was engaged in an NLP task: decoding
+Nazideutsch, the subset of German words that Hitler’s command used.
+To do this, Turing and his team used the computing machines they had
+to test vast numbers of “hypotheses” about the distribution of letters in
+messages presumed to be in militaristic German.47 Wiggins and Jones
+portray this moment as the beginning of a turn to data—rather than the
+symbolic-logical abilities of computers—that expanded in governmental
+and enterprise uses throughout the postwar period, both discovering the
+techniques and providing the infrastructure and attitudes necessary for
+the shift to learning in AI that we are experiencing today.
+    Using large amounts of data as hypotheses is tantamount to imple-
+menting Bayes’s formula and was explicitly so conceived. Bayes is a way
+to compare past evidence—or beliefs about past evidence—w ith new
+occurrences. Rather than imposing a “frequency”—like the fifty-fifty
+
+                   How the Humanities Lost Language                     59
+
+flip of a coin—Bayesian techniques treat regularities as expectations
+and update those expectations as new evidence arises. The result is that
+this technique is particularly suited to hypotheses that require very
+large amounts of data that may or may not be fully “accurate”—like
+the relationship of a corpus to language “itself.” Bayesian statistics also
+does well with systems that have a developmental aspect, because regu
+larities actually shift in such systems. Distributionalism would adopt
+these methods, especially in the final third of the twentieth century, as
+more and more data were collected, curated, and, eventually, digitally
+produced.48 As with all Bayesian “theory,” however, the result is, as the
+media theorist Bernhard Rieder puts it, that the conceptual “core” is “an
+accumulation of techniques rather than the formulation of theory.”49
+    Historian Jacqueline Léon calls the history of NLP the “second au-
+tomatization of language,” after the formalization attempts of the
+logical positivists, and offers the possibility that the current wave, be-
+ginning with the digital “corpus turn” in the 1990s, is a third automa-
+tization distinct from the first two.50 If we follow this schema, the link
+between the second and third waves will have to be seen as the vector.
+The relative regularities of words in a corpus tells us only so much, but
+the mathematics of vectors has offered a key to modeling that tends to
+build up a sense of meaning by distributing what seems like “aspects” of
+meaning through a continuous vector space. Adding probabilistic mod-
+els to the vector space then creates what the statistics view can plausibly
+claim is no longer a “flat” model, because it is multi-and even high-
+dimensional and predictive only on that basis.
+    The crucial figure in the introduction of the vector was the psycholo-
+gist Charles Osgood, who treated psychological semantics—the way we
+make sense of concepts—by breaking down terms into what he called
+a “semantic space,” characterized by pairs of opposites (good/bad,
+strong/weak, etc.). By scoring terms on a scale between the poles, he was
+able to create what he called a “semantic differential,” a “cube of data” in
+which the rows “are defined by the scales, the columns by the concepts
+being judged, and the ‘slices’ from front to back by the subjects.”51 The
+result is that a “single value” in each “cell” represents “how a particu-
+lar subject rated a particular concept against a particular scale.”52 By
+creating three-d imensional vector spaces in this way—vector spaces
+that generate a single value for the psychological rating of a concept—
+Osgood merged semantics and vectors, suggesting that the metaphor
+
+60                 How the Humanities Lost Language
+
+
+often used for probabilistic approaches, “flat,” is not quite right. (Osgood
+thought he was capturing the passage from stimulus response to regu-
+lar abstract sign.) As we will see, the idea that meaning is a matter of
+multidimensional space is crucial to the semantic intuitions that govern
+contemporary AI.
+    Vectors were also introduced into NLP in the area of document re-
+trieval, where the “document-term matrix” came into use in the 1960s.
+As Tyler Shoemaker has argued, this technique involved the introduc-
+tion of many cognitive metaphors for search, but while its practitioners
+were all too happy to invoke Firth or Harris, they were far less certain
+that any real semantic “capture” was going on. Shoemaker calls this a
+“distributionalism without semantics,” noting that the usefulness of
+the NLP processes often took pride of place over any theory of mean-
+ing.53 Firth’s slogan about company keeping could be invoked without
+any commitment to a science of semantics. Shoemaker perspicaciously
+writes that “there has since been a persistent ambiguity about the status
+of real language in NLP.”54
+    The crucial useful technology in this evolution was the “document-
+term matrix,” which will turn out to supply an important piece of the
+transformer architecture. If I search in a library database, for example,
+my query “Herman Melville” is compared to all the documents in the
+collection, which are tagged with terms. A straightforward but brittle
+way to do this search is to retrieve just those objects that are tagged
+in one term or another with the exact phrase “Herman Melville.” But,
+as Rieder shows in his wonderful history of information retrieval, the
+vectors can be used to establish “relevance.” Now I might get a series
+of documents that do not contain the words “Herman Melville” but are
+relevant across some axis of his presence in the corpus: books about
+nineteenth-century American literature, obsessive and self-destructive
+quests, or whales. This is the type of “relevance” in operation when
+you query Google, and as Rieder points out, it is a Bayesian hypothesis
+that “concerns the probability that a document (tagged with a number
+of weighted terms) is relevant for a query (represented by a number of
+search terms that could also be weighted).”55 The numbers in the matrix
+are used to establish a relevance value, mixing “prior knowledge” to give
+a probabilistic statement of “posterior” relevance. All this is achieved
+using vectors, which now become the bearers of the “semantics” of
+
+                  How the Humanities Lost Language                    61
+
+which distributionalism originally conceived as “occurrence.” The “com-
+pany” that a word keeps has slipped its two-dimensional bonds.
+    Rieder argues that this approach contains a “rudimentary theory of
+language” that, while “vague,” allows for the formalization of “inter
+mediate form.” These intermediary forms—the summative results
+of the comparison of frequencies, first and foremost, which can then
+be turned, in a second step, into models—are the crucial object for a
+media-theoretical approach to the history of NLP. Converting these
+forms into models means applying probability theory to them, as Rieder
+shows. A whole literature is yet to be written on these mediating forms,
+but no matter how rudimentary the theory of the relationship “between
+word frequency and meaning” is, it is no longer only that relationship
+that the theory claims.56 During the era of the establishment of these
+techniques and mediations of language, the models did not yet bear the
+interpretive weight that they now do.
+    The statistical view is now firmly in its model era, and because the
+models originate in “deep” learning, they have entered the fray against
+Chomsky, whose claims about cognitive linguistic depth and statistical
+“flatness” seem outdated to many.
+    The AI engineer Peter Norvig published a widely read response to
+Chomsky’s remarks at the 150th anniversary of MIT’s founding. The
+blog post argues that language is probabilistic and that Chomsky’s dis-
+missal of data-learning systems both ignores progress in the field and
+fails to distinguish between different types of models and their poten-
+tial explanatory power.
+    Norvig points out that Chomsky wants linguistics to answer “why”
+questions and counters that high-dimensional objects, as language may
+be, might not yield low-dimensional models. The question of what counts
+as explanation in language thus splits across the external/internal axis.
+Norvig thinks that Chomsky’s preference for strong explanation comes
+from his focus on the “generative side of language. . . . If Chomsky had
+focused on the other side, interpretation, as Claude Shannon did, he
+may have changed his tune. In interpretation (such as speech recogni-
+tion) the listener receives a noisy, ambiguous signal and needs to decide
+which of many possible intended messages is most likely.”57 The problem
+of language as communication, in other words, might not bear the same
+type of explanation as the problem of language as cognition.
+
+62                 How the Humanities Lost Language
+
+
+    In making this larger claim about what a science of linguistics could
+be, Norvig calls on statistician Leo Breiman’s idea of the “two cultures”
+of statistical modeling. Breiman divided between “data models,” in
+which the model dictates what type of datum is treated and generated,
+and “algorithmic modeling,” which treats the inside of the model as a
+black box and engineers the algorithm to learn from the data, design-
+ing a function that calibrates input to the desired output.58 Norvig ar-
+gues that a probabilistic model of the kind that Chomsky rejected in
+1957—a Markov chain—is in fact not strong enough that we can expect
+anything explanatory about language from it. But a “trained” model,
+which “uses some training/learning algorithm to take as input a collec-
+tion of possible models and a collection of data points (e.g. (x, y) pairs)
+and select the best model,” might have more to offer.59 This is because
+that model predicts not a single word but instead the function that will
+itself predict that word. Meaning is then captured not by a “model” in
+the usual sense but in the adjustment of model values to whatever the
+structure of the data input is. The question is whether such a model then
+has any explanatory power.
+    Norvig’s move here dogs the entire statistics view, recreating the
+problem that the syntax view produces from the other side. If the syntax
+view cannot fit its rules to the artifacts those rules must somehow have
+produced, the statistics view of linguistic meaning has to leave the rules
+in the black box, which leaves the normative element of all linguistic
+meaning floundering in approximations that fail to account for abstrac-
+tion. It seems unlikely that “mechanistic interpretability” will account
+for this, not only because of scale but because there is simply no theory
+of how the domain and data are actually related. As Breiman puts it,
+there is a trade-off between prediction and interpretability, and in deep
+learning, the die is cast.
+    Belief in these models as scientific hypotheses—or a set of prior
+probabilities that then outputs predictions given a set of events (que-
+ries or prompts)—leads Norvig to claim that these models are unprece
+dented tools for linguistics. He reports that a “crude” model working on
+a corpus that ends in 1954, and so does not contain the sentence “color-
+less green ideas sleep furiously,” nevertheless ranks this sentence ten
+thousand times more probable than its agrammatical counterpart
+(“furiously sleep green ideas colorless”). Norvig points out that all the
+pairs of words in the grammatical sentence occur in the corpus: “color-
+
+                   How the Humanities Lost Language                      63
+
+less green,” “sleep furiously,” and so on. Because these pairs all occur, it
+seems possible to say that the grammaticality of “colorless green ideas”
+emerges in the model, so that syntax is probabilistic. This idea has
+been championed by the computational linguist Christopher Manning,
+who defines the task as “trying to learn the probability distribution
+P(meaning|utterance,context)—       a mapping from form to meaning
+conditioned by context.”60 Learning systems have indeed made steady
+advances in both prediction and production of syntactically sound
+strings of language, but there is little agreement on what those advances
+mean—or what meaning is in such systems.
+    Manning wrote in 2022 that “a transformer is a much more c omplex
+model than the simple neural networks for sequences of words that
+were explored in earlier decades.”61 The extra complexity comes, in
+his account, from the attention mechanism. By giving the system the
+task of working out which word was in a position that is now “masked,”
+attention—“repeated many times,” a great understatement—gives
+“extra layers of depth” to the model,62 which is what allows it to solve
+Winograd schemas—in which pronoun resolution requires granular
+contextual knowledge—and so appear to have some form of under-
+standing. But for Manning, the issue is not intelligence but the modeling
+of complex linguistic structure. As he puts it, the “dominant approach to
+describing meaning . . . is a denotational semantic approach or a theory
+of reference.”63 For those on the ladder of reference, and I have called
+this the dominant approach, a neural net is nothing but a “regurgitation
+of distributional or syntactic facts.”64 Manning suggests that, instead,
+
+   meaning is not all or nothing; in many circumstances, we par-
+   tially appreciate the meaning of a linguistic form. I suggest that
+   meaning arises from understanding the network of connections
+   between a linguistic form and other things, whether they be ob-
+   jects in the world or other linguistic forms. If we possess a dense
+   network of connections, then we have a good sense of the mean-
+   ing of the linguistic form.65
+
+Where syntax proposes a binary functional sense of meaning—in which
+depth is created to allow for language to become, or to be ordered by,
+cognition—the counterproposal of the statistics group is that meaning
+is partial, gradual even, and that the sense of the relation of linguistic
+
+64                 How the Humanities Lost Language
+
+
+form and meaning is not held only in referential acts. Models, for this
+group, build up a sense of language from below. They are not just pre-
+dictors; they also capture structure that we might not otherwise see.
+The statistics view, once based on distributions of words, then made
+into vectors, has become model-empirical in a sense specific to machine
+learning, in which the model is allowed to emerge from the data set with
+parameters only with the goal of providing enough flexibility to achieve
+accuracy. This accuracy is then thought of as linguistic structure, fulfill-
+ing the dream of American structuralism.
+    But alas, a hypothesis is not a theory, especially when we cannot
+express the hypothesis in language. As Harris might have put it, what-
+ever priors we use to create a posterior set of probabilities for the object
+“linguistic structure” ultimately will have to be expressed in language,
+retranslated from the formal symbols into some understanding at the
+linguistic level. Where syntax has the linking problem, or the problem
+of schematism, the statistics view has developed tools so complex that
+they do not actually say anything about language. Classification of data,
+as we shall see, is not a theory but a hypothetical judgment awaiting some
+conceptual determination. In the case of language, this puts us in almost
+the reverse of the situation that Harris envisioned, in which number is
+seen as one formal metalanguage within natural language. We now find
+ourselves in a world in which numerical production of language is possible
+not as metalanguage but as language itself (not “natural” in the tradi-
+tional sense but generated). That inverted American structuralism looks
+quite a bit like the starting point of European structuralism.
+
+
+Structure
+If the humanities lost language, they must at one point have had it. I
+place that possession in European structuralism, which treats language
+as a representational system. “Cultural” language is real language, for
+this view, but not because it is entirely a matter of distribution. Rather,
+it is because language is such a system in which the more complex
+terms—and even the “whole”—determine the values of the local nodes,
+the meanings. This approach suspends the problem of cognition in the
+strict sense, because it insists that any cognitive (or other) meaning will
+in the last instance be articulated in language.
+
+                    How the Humanities Lost Language                        65
+
+     This view is not bottom-up or statistical, because it articulates struc-
+tural conditions that are not induced from data. These conditions, how-
+ever, are not “transcendental” in the sense that syntax is, and though
+they claim a relationship between cognition and language, it is a dy-
+namic and flexible one in which the rules and the whole system evolve
+together.66 The structuralist views take as their minimal unit not the
+interface of thought and syntax, nor probability and linguistic structure,
+but the sign. The resulting doctrine is called semiology—from the Greek
+semeion, “sign”—in which linguistics is the leading science, as the most
+elaborate version of a sign-system. The sign is neither withdrawn into the
+transcendental recesses of cognition nor entirely “distributed.” Structur-
+alist semiology makes empiricism about language a matter of the internal
+division of signs and meaning the result of an internal–external inter
+action that—as we will see in chapters 4 and 5—is almost perfectly imi-
+tated by the LLM. Signs are arbitrary and differential in this system, and
+it is the combination of these two that constitutes the systemic aspect of
+language. Meaning is made of complex systemic factors that first confer
+value on the units of the system, the signs.
+     What we typically call “meaning” corresponds to what Saussure calls
+value. The value of a linguistic sign, he argues, is entirely differential. We
+can call this the “differential hypothesis,” to distinguish it from the
+distributional hypothesis. Where the statistics view argues that word
+meanings are determined “by the company they keep,” Saussure argues
+that word meaning is entirely negative: “in language there are only dif-
+ferences without positive terms.”67 Differences in sounds or concepts that
+exist outside of language do not exist in language, which has “only con-
+ceptual and phonic differences that have issued from the system.”68 As
+“proof,” Saussure notes that linguistic values can change without any
+change in their physical or conceptual terms. The latter part of that sen-
+timent may seem shocking: surely a word’s meaning can change only if
+its concept changes? And here is where Saussure, in one fell swoop, re-
+jects both the ladder of reference and its cognitive consequences. No,
+he tells us: I may continue to think of a “sheep” when some neighboring
+term changes, in the sense that I have a stable set of empirical concepts
+with which to negotiate the world. But the value of that concept is not
+only not limited to its referential function; it is also not automatically fit
+to it in the first place, so that it may drift. The system of linguistic values
+
+66                  How the Humanities Lost Language
+
+
+is a cultural system of meaning that puts the whole before the part, as
+a matter of fact. Meaning comes from the systemic articulation of two
+“vague” planes at once, that of thought and that of sound.
+     Saussure gives the image of a sheet of paper: if you cut it, both sides,
+signifier and signified, are cut. One can imagine or abstract a “pure pho-
+nology” or a “pure psychology,” but both are ancillary in concrete terms
+to language, which is “a system of interdependent terms in which the
+value of each term results solely from the simultaneous presence of the
+others.”69 The result is that the values—I am imposing the term meaning
+here—are part of a systemic web.
+     Up to this point, if we simply remove the strong statements about
+the putative lack of positive terms, Saussure’s differential hypothesis
+seems more or less to correspond to the distributional hypothesis, with
+a focus on the global features of the system rather than the local occur-
+rences in a corpus. But they differ on the question of the constitution
+of meaning on this precise axis, which is more important than it seems
+at first glance. Valuation in Saussure is not a “flat” process, because, as
+he puts it, “we shall find nothing simple [in language] regardless of our
+approach. . . . Language . . . is a type of algebra consisting solely of com-
+ plex terms.”70 In other words, complex structures in the system of lan-
+ guage condition the local signifying functions in that language. This
+ is precisely the thing we will see the LLM realize computationally in
+ chapter 5, and it calls for a deeper understanding of the mutual form of
+ language and computation.
+     Language, for Saussure, is accordingly a signifying system. By elabo-
+ rating this noun phrase, we can clarify the structure view and distin-
+ guish it from the syntax and statistics approaches.71 The three terms
+ that make up what Saussure thinks of as a concrete object called “lan-
+ guage” are the signifier, its value, and the system of all such signifying
+ values as it develops over time. Each of these must be set into proper
+ position for us to understand what structuralism is as an empirical doc-
+ trine of signs.
+     The sign is arbitrary, as Saussure often emphasizes. This is perhaps
+ not original, as the debate about whether signs have some necessary
+ relation to their designates goes back to Plato’s Cratylus, and the arbi-
+ trary nature of the word was recognized already in Augustine. In fact,
+ the vaunted “arbitrariness of the sign” is valid only with respect to its
+
+                   How the Humanities Lost Language                       67
+
+content. The use of a sign, as in Saussure’s example, arbor for the concept
+“tree,” is neither arbitrary nor free. We are bound by participation in
+the social order of signs when we use them, or as Saussure puts it, there
+is no “contractual” nature to the sign that would allow individuals to
+generate them independently or in small groups.72 But the point about
+arbitrariness is important, because it denies that it is in some hidden
+aspect of the sign that it gains a natural ability to refer to its concept.
+In fact, Saussure cuts the sign in two, arguing that it is, in the case of
+language, made up of a “sound-image” and a “concept,” which he further
+restricts with the technical names “signifier” and “signified.” Much has
+been made of this walling off of language from direct world reference,
+but, in addition to being far more plausible than any reference-fi rst
+theory, it fits the problem of a language-generating system that has no
+ way to generate words by direct reference, like an LLM.
+      There is some debate about the concept “signifier” and its strange
+ counterpart “sound-i mage.”73 I think that most of the confusion on
+this point boils down to a misunderstanding of where meaning fits into
+ Saussure’s system, so it is worth dwelling on this debate for a moment.
+      The meaning of the word arbor is the conceptual content “tree.” This
+  is true so far as it goes, but meaning is said in many ways. When we
+  say that arbor means (the concept) “tree,” we are talking about a local
+  signification. It would perhaps be better to say that arbor designates or
+  indicates that conceptual content. In fact, I think that, strictly speak-
+  ing, we cannot say that the word arbor means the concept “tree,” because
+  this is a tautology. Local signifying acts are constituted by the unifica-
+  tion of signifier and signified despite the arbitrariness of the sign. This
+  arbitrariness guarantees that the meaning of the sign does not get its
+  validity from either real trees in the world or psychological content. I
+  may think of some particular tree, or of my hatred of trees, when I use
+  the word tree, but none of that gets transferred from me to the hearer of
+  my speech. The term has, instead, a value in the larger system that cor-
+  responds to our usual sense of its “meaning.” Communication is the cali
+  bration of this system, which adjusts with each communicational act.
+      One further note on the signifier is in order. This term is crucial not
+  just to the procedure of analysis but to the empirical stance of structur-
+  alism, which claims that “concrete” analysis is material but not physical.
+  Here is Saussure defining the term for the first time:
+
+68                   How the Humanities Lost Language
+
+
+     The linguistic sign unites, not a thing and a name, but a concept
+     and a sound-image. The latter is not the material sound, a purely
+     physical thing, but the psychological imprint of the sound, the im-
+     pression that it makes on our senses. The sound-image is sensory,
+     and if I happen to call it “material,” it is only in that sense, and by
+     way of opposing it to the other term of the association, the con-
+     cept, which is generally more abstract.74
+
+The signifier is a material thing just insofar as it means something. I do
+not think there is anything confusing or problematic about this notion,
+but it would appear that there is a tendency to think of the signifier as
+the material vehicle of the sign irrespective of its use as a sign.75 When I
+speak, I marshal sound to the purpose of conveying meaning, the utter-
+ance what Saussure calls parole, instantiating but also extending langue,
+the whole language on which I draw. If my voice cracks, or I stutter, or
+I cough while speaking, no one is confused. Within acoustic limits, the
+sound becomes significant of the word I am uttering. Decades of focus
+on written language—a long with the massive uptick in the amount of
+written language we encounter in our lives—has probably transferred
+the garden-variety sense of “signifier” to the letter. That is fine, so long
+as we mean the letter just insofar as it means something. Letters vary
+enormously, both in handwriting and in typeface. None of that bothers
+Saussure. I may ask you to repeat yourself if there was a noise that ob-
+ scured your voice, even if it came from your throat, like a cough. I may
+ not be able to read your handwriting. But when I do, the signifier sig-
+ nifies. And, as must be obvious to everyone, no signification can occur
+ without some physical process meaning something to some psyche.
+     As Saussure immediately adds, the signifier is “material” in any spe-
+ cial sense only by contrast to the abstraction of the psychological con-
+ tent it produces.76 As literary theorist Sarah Pourciau has argued, this
+ allows Saussure to claim that language is a “concrete” object in a way
+ that rejects much previous linguistic doctrine.77 It also puts Saussure in
+ close contact, as is often remarked, with Karl Marx, whose concept of
+ the commodity involves an internal split between exchange-and use-
+ value that is nevertheless a concrete social entity valued by its place in
+ a system. It seems clear that the resulting doctrine of language is dialec-
+ tical by theoretical imprint.78 The signifier and the signified are tightly
+ coupled, but signification does not drive the procession of linguistic
+
+                   How the Humanities Lost Language                     69
+
+signs, neither in speech acts nor historically. For that, we need to under
+stand what Saussure means by “system.”
+    Saussure notes that value in language is governed by a “paradoxical
+principle.” Each value must be exchangeable for “a dissimilar thing” and
+“a similar thing.”79 Francs, for example, can be exchanged for a fixed
+quantity of bread or compared in value to other currencies in the scale
+of their own value as currency. Saussure writes of this analogy that
+“exchanging” a signifier for its “concept” alone does nothing at all, be-
+cause then its value is neglected along the other axis. In other words,
+for language to signify something outside language, it must have a de-
+terminate language-internal valuation. The reader may recognize, as I
+suggested already, that this repeats the terms of Marx’s exposition of
+commodity value, which results, in Capital, in the establishment of a
+“general equivalent”: the money-form. This dialectical standpoint, even
+if the reader does not wish to impute much dialectical energy to Saussure
+with me, can help us understand the family dispute that emerged with
+Jacques Derrida’s reading of Saussure. The agreement—which also
+extends to American structuralism, thinking especially of Harris—is
+that there is no general equivalent in language, no metalanguage outside
+language itself. (Chomsky, as we saw, thinks this excludes the cultural
+aspects of languages from scientific treatment altogether.)
+    Which brings us back to how the humanities lost language. Without
+a doubt, the two figures most responsible for the rise of the term signi-
+fier in the final third of the twentieth century were Jacques Derrida and
+Jacques Lacan. Derrida’s notion of “general writing,” in which a chain of
+signifiers slips its conceptual bounds, and Lacan’s idea of psychoanalytic
+structure bound by the “power of the letter in the unconscious” were
+widely discussed and often adopted.80 The result has been a perhaps
+heavy-handed association of writing systems as media systems with
+these metaphysical judgments, which has resulted in recent decades in
+a backslide into dogmatic materialism.81 We saw already in the introduc-
+tion how the philosophy of “technics” that emerged from these streams
+of thought resists what I call remainder humanism in principle but does
+not yet afford a concrete technical analysis of contemporary culture
+machines. We also saw how the school in question here never took up
+weapons to fight with Pinker and the other cognitivists—indeed, with a
+very few exceptions, those in the cultural humanities seem not to have
+engaged the cognitive scientists at all.82 Derrida’s reading of Saussure
+
+70                  How the Humanities Lost Language
+
+
+wrongly accuses the former of naïvety about “exteriorization,” with the
+effect of minimizing the type of concrete analysis of all levels of lan-
+guage that structuralism practiced. What then came to pass for close
+attention to language tended to ignore structure, regularity, and distri-
+bution, cutting off any insight that might come from knowledge of lin-
+guistics. The result was the abdication of authority in judgments about
+language itself.
+    Derrida has argued in Of Grammatology that the history of meta-
+physics was dominated by the concept of “presence,” a full, authen-
+tic self-guaranteed meaning that had been located in the voice (phone)
+throughout the history of Western philosophy, at the expense of writing
+or the letter (gramme). Attaching this notion to a wide variety of discur-
+sive oppositions, Derrida argued that writing was a “supplement,” some-
+thing in a permanently ancillary or derivative position that undermined
+the allegedly primary position in any understanding, or order of signi-
+fieds, but which could not be promoted to the primary position without
+repeating the gesture. Linking this problem to cybernetics, which had
+already associated writing with the notion of a “program,” he spoke of
+the promise of technical systems insofar as they overcame many meta-
+physical dualisms (soul–body, organic–mechanic). But he warned that
+cybernetics must “conserve the notion of writing, trace, gramme [writ-
+ten mark], or grapheme, until its own historico-metaphysical charac-
+ter is also exposed,” lest it fall prey to the same eternal return of the
+metaphysical same.83 I find it helpful to put this point in terms of what
+Derrida, with reference to the theorist Georges Bataille, calls the general
+economy. A restricted economy is a general term for a system of symbolic
+exchange like the kinship system of which Claude L        évi-Strauss had fa-
+mously written. Any local set of distinctions—things exchangeable for
+like and unlike—is nonetheless included in a larger general economy,
+which, for Derrida, is constituted by this foundational opacity that es-
+tablishes the logic of the supplement. The chain of signifiers carries with
+it this more general logic but is only tractable for analysis in the restricted
+economy of some particular practice or system (English, perhaps).
+    We can see how this point would not have been possible in this form
+without Saussure, whose definition of the sign-system is crucial to
+it. But where Derrida differs from Saussure, I think he is wrong, and
+the result has been a balance of attention massively lopsided toward the
+
+                    How the Humanities Lost Language                         71
+
+general economy of putative metaphysics and not toward the restricted
+economies of semiological systems.84 This is the context in which we
+can understand Derrida’s comment, leveled at Saussure in his famous
+essay “Différance,” that “every concept is inscribed in a chain or in a sys-
+tem within which it refers to the other, to other concepts, by means of
+the systematic play of differences.”85 Derrida arrives at the “play” of the
+system here by suggesting that Saussure privileges speech over writing.
+Derrida writes that “semiological difference” should apply to all language
+in general, which he thus argues contains a form of “writing” even when
+it is spoken. Mercedes Bunz has made the case that this “play” of signi-
+fiers without authorial intent or symbolic control applies to the LLM,
+suggesting that it inaugurates a new kind of writing.86 I agree and gen-
+erally think that the value of poststructuralist semiology for the world
+of digital simulation and generation is diagnostic. But it not only does
+not supersede structuralism; it has tended to obscure analytical tools
+very much needed for this new “grammatology” of generated language.
+    Saussure has said that “the fact of speech always comes first,” and
+Derrida argues that the problem here is that this speech, even when it is
+transferred to writing systems, engages a set of metaphysical concepts
+that are the result of this semiological “play” (différance, which cannot
+be distinguished from the French différence (difference) phonologically
+and so stands for the difference that makes a difference). These concepts
+include “production,” “constitution,” and “history.” The idea here is that
+speech causes language to come into being, and thus a causal act precedes
+the system logically, if not in fact.87
+    This reading has not stood the test of time. It is true that Saussure
+thinks that acts of language at the level of parole—whether these are
+actually speech or, say, a text message, or even this sentence—a re in
+the constant process of shifting the values in the system. But I simply
+cannot follow the logic that this implies a metaphysics outside of semi-
+ology. It is, rather, a principled observation of what a signifier is. If it has
+been common to lose track of the contradictory nature of the signifier,
+and to use that term to designate the physical aspects of language, that
+is partly because of Derrida’s misreading here. The signifier in S aussure
+can peregrinate as much as it wants, but it cannot engage in any “play”
+without taking material form. Taking material form as a signifier in the
+value-system of language as such is all that Saussure requires of these
+
+72                  How the Humanities Lost Language
+
+
+“acts.” The model does not require speech to be privileged, and it is hard
+to see how a signifier could derail some presumed systematicity with-
+out being strung together in a sequence, written or otherwise. One may
+think of the text of the essay “Différance,” which is certainly such a
+string. The internal differentiation of the signifier as it leaves a “trace” in
+the memory is already part of the language system and—as I will elab-
+orate in chapter 5—is crucial to the recursivity that allows language to
+share form with computation.
+    Derrida observed in his famous essay on Plato’s Phaedrus that the
+term pharmakon (both “cure” and “poison” in Greek), when applied to
+writing as a technology, is a form of hypomnesis, a storing of the memory
+that causes the loss of the organic form of memory (as the self-presence
+of the mind) as such. I will not rehearse the famous argument—so
+crucial to the works of Bernard Stiegler—but it is worth noting that
+Derrida points out that “for . . . contrary values (good/evil, true/false,
+essence/appearance, inside/outside, etc.) to be in opposition, each of
+the terms must be simply external to the other, which means that one
+of these oppositions (the opposition between inside and outside) must
+already be accredited as the matrix of all possible opposition. And one
+of the elements of the system (or of the series) must also stand as the
+very possibility of systematicity or seriality in general.”88 This “general
+equivalent” is the pharmakon of writing itself, of course, which cannot
+be assigned to one or the other of any local binary but also cannot form
+the object of a good “science”—Derrida’s open skepticism that cybernet-
+ics will succeed in doing this is obvious—because once it is promoted
+to the status of object or domain, the supplemental logic will shift to a
+different location in the high-dimensional field of historical metaphys-
+ics. Structure, in other words, points to but cannot capture—this is the
+logic of the signifier or writtenness as such.
+    To the extent that the issue here is that no concept of general equiva
+lence can be reached, I think that Saussure—and even Harris—could
+agree with the conceptual core of this reading. One way of looking at the
+problem to which Derrida calls attention here is that, even if S aussure
+developed a dialectically inflected system of linguistic value, the valua
+tion remains caught in bad infinity, never descending to an observable
+level of “causal act” within the each-to-a ll or “purely differential” sys-
+tem. Again, I think Saussure realized this. But the semiological task
+
+                   How the Humanities Lost Language                       73
+
+that emerges here is to understand why no such “general equivalent” can
+function the way it does in other domains—deconstruction has one ac-
+count of this. And second, the question is how that restricted economy—
+language—interfaces with other sign-systems. Here poststructuralism
+has had little to offer, primarily because it has never taken other sign-
+systems particularly seriously, perhaps especially mathematics. The re-
+sult is that we can see Derrida’s “revisions” of S aussure as philologically
+flawed proposals about the interface between cognition and culture, the
+general metaphysics of semiology. But rather than signifiers floating, it
+is this proposal itself that floats above the fray, rarely touching down
+where a number and a word actually interact. And this is how the hu-
+manities lost language, allowing both cognitive science and NLP to up-
+date analytical and technological approaches that literary theory rarely
+engaged.89 By sweeping structuralism’s focus on a concrete object to
+one side in the name of opposition to metaphysics, poststructuralism
+fumbled the object itself. Where Chomsky avoids external language by
+excluding it from science, Derrida finds the law not in cognition but
+rather at a level of abstraction about culture that ends up having the
+same effect: a lack of a link between the “conditions of im/possibility”
+and the expressions so conditioned. Between Chomsky and Derrida—or
+between Pinker and his nonexistent literary opponents—the humani
+ties lost language.
+     There is, beyond this dialectical problem in Derrida’s reading of
+Saussure, no principled reason that the post/structuralism complex
+ could not be deployed from its later wing, rather than its earlier formula-
+ tion. But I think that if we were going to see a poststructural semiology
+ of computation, we would have already. It is simply not clear that we need
+ Derrida’s revision of structuralism to proceed with a concrete analysis
+ of computational language—and we can leave the question of the agree-
+ ment of that analysis with Derrida’s metaphysics to a later day, just as
+ we are saying that LLMs do not (yet) justify any particular conclusions
+ about cognition. The analysis of the restricted economy—if we can call a
+ full-fledged interaction of language and computation “restricted”—w ill
+ have to come before any determination of contemporary semiology with
+ respect to metaphysics. It remains to be determined if the encounter be-
+ tween language and structure in LLMs will confirm or reject the specific
+ path out of structuralism that poststructuralism took.90
+
+74                 How the Humanities Lost Language
+
+
+Cognition and Semiology
+The conflict between syntax and statistics may be seen as a larger fun-
+damental debate in contemporary cognitive science. The syntax view is
+perhaps slowly receding in some crucial aspects as the Bayesian logic
+of modeling has gained the upper hand. No amount of disappointment
+about LLMs’ “reasoning” abilities will reverse the process of deep learn-
+ing’s advance into large-scale algorithmic modeling. But the Kantian
+view will always be able to respond with Chomsky’s point about expla-
+nation, for even if a Norvig can say that science isn’t really about “why
+questions,” surely we want it to be human-readable. When Herbert
+Simon famously defined cognitive science as the study of information
+processing systems and the “science of the artificial” common to psy-
+chology, computer science, linguistics, economics, epistemology, and
+the social sciences generally,91 there was no question of handing over
+the reins to a radical statistical empiricism. Strikingly, though, he made
+room for culture, noting that experimental psychologists often find
+that they are “studying psychology—the effect of the past histories of
+our subject—when we think we are studying physiology—the effects of
+properties of the human nervous system.”92 Yet these “important phil-
+osophical questions” have received scant attention, he reports (the year
+of writing is 1979), and “as we begin to take more seriously the proposi-
+tion that human cognitive programs are determined as much by social
+and historical forces as by neurology, our research emphases will surely
+shift.”93 In the intervening years, debates about culture have percolated
+throughout cognitive science, and there are certainly many who would
+agree with Simon’s statement. But the philosophical engagement re-
+quired has tended to recede behind the “success” of the many models
+that are taken to speak to use from the depths of their data, weakening
+social science and psychology in particular to the point of nihilism.94
+This is an ironic twist, given that those who announced that knowledge
+was in such a crisis, the poststructuralists and their colleagues, were
+themselves accused of relativism and nihilism, and continue to be. But
+perhaps the deadlock between modeling and explanation, statistics and
+syntax, requires semiotics.
+    The Danish structuralist Louis Hjelmslev was widely praised in his
+lifetime even by members of the other two schools, including Chomsky
+himself. His Prolegomena to a Theory of Language was praised by Firth
+
+                   How the Humanities Lost Language                       75
+
+as a “quasi-mathematical” formalism lacking only—to date, 1957—a
+practical application that distinguishes between actually existing lan-
+guages.95 Hjelmslev indeed created a generalized “glossematics” based
+on Saussure’s work that shifted some of its terms with the goal of mak-
+ing the theory more general. Semiotic “process” and semiotic “system,”
+for Hjelmslev, replace the terms syntagm (strings of words often strung
+together, as we will have occasion to note later) and paradigm (arrays
+of words that can substitute for one another, usually synonyms). As
+Hjelmslev writes, “the process determines the system,” but the “decisive
+point is that the existence of a system is a necessary premiss for the
+existence of a process.”96 The convergence of the two produces a “text,”
+even in the absence of a writing system. The technical term text is
+meant to convey that even speech is a system-conditioned (and system-
+influencing) bit of language. There can be a virtual language—one that
+has no text as yet—but there can be no text without a language. Yet
+“even a purely virtual text presupposes a realized linguistic system in
+the sense of the definition. From a ‘real’ point of view, this is bound up
+with the facts that a process has a more ‘concrete’ character than a sys-
+tem and that a system has a more ‘closed’ character than a process.”97
+The concrete aspect of language, its empirical existence, is not with-
+drawn into transcendental conditions of cognition—at least not alone.
+But what is patent is nonetheless split between system and process in actual
+strings of language. This means that the empiricism of the structure view
+splits the middle between syntax and statistics in constructing an em-
+pirical domain. It does this by way of semiotics, by insisting that lan-
+guage is a concrete object only insofar as it is a series of signs. This will
+mean that language is modellable enough for there to be computational
+language, but not in such a way as to be reduced to number. Semiology
+is the discipline that studies language in this empirical way—dialectical
+rather than transcendental or statistically empiricist—and thus stands
+to throw light on the culture of modeling and the modeling of culture.
+Data models always include culture and, as we are going to see, produce
+that culture by allowing probabilistic models to condition local values in
+matrices from more complex terms. Saussure’s language as an “algebra
+that only has complex terms” has turned out to be prescient.
+    Roland Barthes combines this complexity point with Hjelmslev to
+define semiology. Using Hjelmslev’s reformulation of the two “planes”
+of signifiers and signifieds as “expression” and “content,” he points out
+
+76                 How the Humanities Lost Language
+
+
+that the spectrum of structure can thus be explored from phonetics
+(the “substance of the plane of expression”) all the way up to the “form
+of content,” or the “formal organization of the signifieds among them-
+selves through the absence of the presence of a semantic mark.”98 On
+this account, conceptual content of any sort—to the extent that it is as-
+sociated with a signifier—must be so organized as to engage the entire
+“semiological” system. Much could be said about the cognitive ambition
+of this statement, but here I simply want to point out that, to the extent
+that language is cognitive at all, it must, according to structuralism, cre-
+ate local values for terms out of larger, more complex units. LLMs do
+not, in my view, warrant going this far, because they put only two (albeit
+crucial) sign-systems into communication: computation and language.
+What that means for the “form of the plane of content” (thought from a
+semiological standpoint) can only be the result of an investigation that
+allows computational-linguistic form full citizen’s rights in the order of
+signs. To the extent that such a thing is excluded (syntax), or presumed
+without explanation (statistics), we will remain unenlightened about
+our own language.
+    The philosopher Patrice Maniglier has suggested that semiology
+should be inserted into cognitive science because of Saussure’s sugges-
+tion of a “semiological faculty” that “deals with the processing of sensible
+data and its functioning mode entails the emergence of historical and
+social products like languages.” This “faculty” is then responsible for all
+sign-systems, and “languages are involuntary by-products” of its exer-
+cise.99 However it may end up with this particular suggestion, M aniglier’s
+is one of the few suggestions for the inclusion of “E-languages” as a neces-
+sary component of cognitive science. The philosopher Jean-Pierre Dupuy
+characterizes structuralism as a “subjectless cognition,” or K antianism
+“without a transcendental subject,”100 aligning it with cognitive science
+as the computational mind thesis as the “mechanization of the mind.”
+But this dualism will not do, as Maniglier shows. It may be that humans
+invented or evolved to develop sign-systems of the remarkable sort that
+include language, but the symbolic order is also the demarcator of the
+artificial, in a point that might equally be attributed to Herbert Simon
+or Claude Lévi-Strauss (or Lacan, as we saw earlier). To treat the dis-
+creteness of the symbol as only something we impose on a continuous
+nature purchases us explanation at the cost of discovery, while to treat
+models of its extension as approximations of the world turns out to be
+
+                    How the Humanities Lost Language                       77
+
+nonexplanatory and often morally disastrous. Yet to deny entirely that
+models grasp the extension of our sign-systems is to answer an unposed
+question about mathematical and linguistic formalisms.
+    In an interview with Yarden Katz in The Atlantic in 2012, Chomsky
+presented the sciences as a continuum based on the size of their objects.
+When the atoms grow too large, he said, the physicist hands the object
+off to the chemist, the chemist to the biologist, the biologist to the psy-
+chologist, and, finally, “it ends up in the hands of the literary critics.”101
+Deep learning may belong exactly there—and it seems possible that the
+knowledge of the complexity of cultural systems will turn out to be a
+condition for the knowledge of cognition itself. When the humanities
+ceded language, they abandoned the relevance of humanistic analysis
+in a technocratic world in which cognitive science holds scientific court.
+    We must now descend from these theoretical heights to the dens of
+algorithmic cultural production. The next two chapters focus on the il-
+lusions of intelligence and the datafication of judgment in contempo-
+rary AI, arguing that they enable a semiology rooted in the architecture
+of the LLM. The following two chapters, chapters 4 and 5, deepen and
+expand this argument by focusing on the interaction of linguistic and
+computational form, before the final two chapters turn to the problems
+of ideology and labor.
+
+This page intentionally left blank
