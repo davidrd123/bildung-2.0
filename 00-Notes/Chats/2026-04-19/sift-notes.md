@@ -6,6 +6,7 @@ Primary artifacts in this folder:
 
 - Raw Claude Code transcript: `2026-04-19_03-58-00_ClaudeCode_structuralism_substance_function_grothendieck_middle_zone.jsonl`
 - Cleaned markdown export (thinking/tools stripped): `2026-04-19_03-58-00_ClaudeCode_structuralism_substance_function_grothendieck_middle_zone.md`
+- Folder-level extraction: `extractions/2026-04-19_actual-questions-from-structuralism-middle-zone-grothendieck-session.md`
 - Line-anchored dossier (GPT 5.2): `extractions/2026-04-19_structuralism-middle-zone-grothendieck-dossier.md`
 
 ---

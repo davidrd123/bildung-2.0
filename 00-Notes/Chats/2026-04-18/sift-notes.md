@@ -6,6 +6,7 @@ Primary artifacts in this folder:
 
 - Consolidated transcript: `2026-04-18_14-34-11_Claude_Chat_Bogondov_x_Lotman_pro__continued-through-2026-04-19_01-45-00.md`
 - Role-order addendum (already extracted): `2026-04-18_addendum-on-externalized-formation-and-role-order.md`
+- Folder-level extraction: `extractions/2026-04-18_actual-questions-from-bogdanov-x-lotman-pro-chat.md`
 - Line-anchored dossier (GPT 5.2): `extractions/2026-04-18_bogdanov-x-lotman-pro-dossier.md`
 
 ---

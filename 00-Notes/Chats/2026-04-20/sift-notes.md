@@ -6,6 +6,7 @@ Primary artifacts in this folder:
 
 - `2026-04-20_12-32-28_Claude_Chat_AI_models_and_culture_cognition.md`
 - `2026-04-20_12-32-49_Claude_Chat_Robert_Rosen_and_relational_frameworks.md`
+- Folder-level extraction: `extractions/2026-04-20_actual-questions-from-weatherby-and-rosen-chats.md`
 - Line-anchored dossier: `extractions/2026-04-20_ai-models-and-culture-cognition-dossier.md`
 - Line-anchored dossier: `extractions/2026-04-20_rosen-hui-lotman-relational-frameworks-dossier.md`
 
@@ -24,4 +25,3 @@ Primary artifacts in this folder:
 
 - Any “I searched / I found” literature-claims and URLs inside the chats should be treated as unverified until repeated under a source-near pass (and many are likely outside repo scope anyway).
 - Any long cross-tradition syntheses in the Rosen/Hui/Lotman chat (Cassirer mythic infinity, Hölderlin caesura as operator, etc.) should be treated as atmospheric unless anchored to the actual on-disk sources with quotations + line-anchors.
-
