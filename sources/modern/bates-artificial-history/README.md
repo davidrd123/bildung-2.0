@@ -19,7 +19,10 @@ Reserve note on disk:
 
 - `sources/modern/incoming/2026-04-19-bates-artificial-history-under-pressure.md`
   records why the source is being localized, which chapter clusters are under
-  pressure, and what this scaffold still does not license.
+  pressure, and what this scaffold still does not license. It now also records
+  bounded reads of chapters `17-18` and `20-21 / 25-27`: Bates is more useful
+  as a reserve interlocutor on exteriorization, error, and exosomatic
+  transmission than as a Uexkull interpreter.
 
 ## Status
 
@@ -27,6 +30,8 @@ Reserve note on disk:
   than the OCR-derived scaffolds.
 - The files under `source/raw/` are suitable for orientation, bounded direct
   forays, and web-chat access.
+- Raw chapter files are numbered directly by chapter (`001`-`029`) so chapter
+  references and filenames now line up cleanly.
 - The PDF remains the authority whenever formatting, punctuation, or page
   transitions matter.
 - No journal, glossary, encounter dossier, or bounded pressure note has yet
@@ -72,35 +77,35 @@ source/
     artificial-history-of-natural-intelligence.txt
   raw/
     000-front-matter-and-contents.txt
-    011-autonomy-and-automaticity.txt
-    012-integration-and-interruption.txt
-    013-spiritual-automata.txt
-    014-spiritual-automata-revisited.txt
-    015-humes-enlightened-nervous-system.txt
-    016-machinery-of-cognition-first-critique.txt
-    017-pathology-of-spontaneity.txt
-    018-babbage-lovelace-and-the-unexpected.txt
-    019-psychophysics.txt
-    020-singularities-of-the-thermodynamic-mind.txt
-    021-the-dynamic-brain.txt
-    022-prehistoric-humans-and-the-technical-evolution-of-reason.txt
-    023-creative-life-and-the-emergence-of-technical-intelligence.txt
-    024-technology-is-not-the-liberation-of-the-human-but-its-transformation.txt
-    025-techniques-of-insight.txt
-    026-brains-in-crisis-psychic-emergencies.txt
-    027-bio-technicity-in-von-uexkuell.txt
-    028-lotka-on-the-evolution-of-technical-humanity.txt
-    029-thinking-machines.txt
-    030-a-typology-of-machines.txt
-    031-philosophical-anthropology-the-human-as-technical-exteriorization.txt
-    032-wittgenstein-on-the-immateriality-of-thinking.txt
-    033-cybernetic-machines-and-organisms.txt
-    034-automatic-plasticity-and-the-pathological-machine.txt
-    035-turing-and-the-spirit-of-error.txt
-    036-epistemologies-of-the-exosomatic.txt
-    037-leroi-gourhan-on-the-technical-origin-of-the-exteriorized-mind.txt
-    038-technogenesis-in-the-networked-age.txt
-    039-failures-of-anticipation.txt
+    001-autonomy-and-automaticity.txt
+    002-integration-and-interruption.txt
+    003-spiritual-automata.txt
+    004-spiritual-automata-revisited.txt
+    005-humes-enlightened-nervous-system.txt
+    006-machinery-of-cognition-first-critique.txt
+    007-pathology-of-spontaneity.txt
+    008-babbage-lovelace-and-the-unexpected.txt
+    009-psychophysics.txt
+    010-singularities-of-the-thermodynamic-mind.txt
+    011-the-dynamic-brain.txt
+    012-prehistoric-humans-and-the-technical-evolution-of-reason.txt
+    013-creative-life-and-the-emergence-of-technical-intelligence.txt
+    014-technology-is-not-the-liberation-of-the-human-but-its-transformation.txt
+    015-techniques-of-insight.txt
+    016-brains-in-crisis-psychic-emergencies.txt
+    017-bio-technicity-in-von-uexkuell.txt
+    018-lotka-on-the-evolution-of-technical-humanity.txt
+    019-thinking-machines.txt
+    020-a-typology-of-machines.txt
+    021-philosophical-anthropology-the-human-as-technical-exteriorization.txt
+    022-wittgenstein-on-the-immateriality-of-thinking.txt
+    023-cybernetic-machines-and-organisms.txt
+    024-automatic-plasticity-and-the-pathological-machine.txt
+    025-turing-and-the-spirit-of-error.txt
+    026-epistemologies-of-the-exosomatic.txt
+    027-leroi-gourhan-on-the-technical-origin-of-the-exteriorized-mind.txt
+    028-technogenesis-in-the-networked-age.txt
+    029-failures-of-anticipation.txt
     050-acknowledgments.txt
     051-notes.txt
     052-index.txt
