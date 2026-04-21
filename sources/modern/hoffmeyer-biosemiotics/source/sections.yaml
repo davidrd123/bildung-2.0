@@ -1,0 +1,160 @@
+book:
+  title: "Biosemiotics: An Examination into the Signs of Life and the Life of Signs"
+  author: "Jesper Hoffmeyer"
+  source_pdf: "sources/modern/incoming/books/Biosemiotics_ An Examination into the Signs of Life and the -- Jesper Hoffmeyer.pdf"
+  source_text_witness: "sources/modern/incoming/books/Biosemiotics_ An Examination into the Signs of Life and the -- Jesper Hoffmeyer.txt"
+  extracted_full_text: "full/biosemiotics.txt"
+sections:
+  - seq: 0
+    slug: "title-pages-and-publisher-matter"
+    title: "Title pages and publisher matter"
+    kind: "front-matter"
+    file: "raw/000-title-pages-and-publisher-matter.txt"
+    start_line: 1
+    end_line: 97
+    line_count: 97
+    printed_page_start: null
+  - seq: 1
+    slug: "contents"
+    title: "Contents"
+    kind: "front-matter"
+    file: "raw/001-contents.txt"
+    start_line: 98
+    end_line: 429
+    line_count: 332
+    printed_page_start: null
+  - seq: 2
+    slug: "preface"
+    title: "Preface"
+    kind: "preface"
+    file: "raw/002-preface.txt"
+    start_line: 430
+    end_line: 792
+    line_count: 363
+    printed_page_start: null
+  - seq: 10
+    slug: "on-biosemiotics"
+    title: "1. On Biosemiotics"
+    kind: "chapter"
+    file: "raw/010-on-biosemiotics.txt"
+    start_line: 793
+    end_line: 1509
+    line_count: 717
+    printed_page_start: null
+  - seq: 11
+    slug: "surfaces-within-surfaces"
+    title: "2. Surfaces within Surfaces"
+    kind: "chapter"
+    file: "raw/011-surfaces-within-surfaces.txt"
+    start_line: 1510
+    end_line: 2545
+    line_count: 1036
+    printed_page_start: null
+  - seq: 12
+    slug: "sign-and-cause"
+    title: "3. Sign and Cause"
+    kind: "chapter"
+    file: "raw/012-sign-and-cause.txt"
+    start_line: 2546
+    end_line: 4049
+    line_count: 1504
+    printed_page_start: null
+  - seq: 13
+    slug: "code-duality"
+    title: "4. Code-Duality"
+    kind: "chapter"
+    file: "raw/013-code-duality.txt"
+    start_line: 4050
+    end_line: 5979
+    line_count: 1930
+    printed_page_start: null
+  - seq: 14
+    slug: "the-semiotics-of-heredity"
+    title: "5. The Semiotics of Heredity"
+    kind: "chapter"
+    file: "raw/014-the-semiotics-of-heredity.txt"
+    start_line: 5980
+    end_line: 8520
+    line_count: 2541
+    printed_page_start: null
+  - seq: 15
+    slug: "the-semiotic-niche"
+    title: "6. The Semiotic Niche"
+    kind: "chapter"
+    file: "raw/015-the-semiotic-niche.txt"
+    start_line: 8521
+    end_line: 10681
+    line_count: 2161
+    printed_page_start: null
+  - seq: 16
+    slug: "endosemiotics"
+    title: "7. Endosemiotics"
+    kind: "chapter"
+    file: "raw/016-endosemiotics.txt"
+    start_line: 10682
+    end_line: 13058
+    line_count: 2377
+    printed_page_start: null
+  - seq: 17
+    slug: "from-animal-to-human"
+    title: "8. From Animal to Human"
+    kind: "chapter"
+    file: "raw/017-from-animal-to-human.txt"
+    start_line: 13059
+    end_line: 15289
+    line_count: 2231
+    printed_page_start: null
+  - seq: 18
+    slug: "perspectives"
+    title: "9. Perspectives"
+    kind: "chapter"
+    file: "raw/018-perspectives.txt"
+    start_line: 15290
+    end_line: 16501
+    line_count: 1212
+    printed_page_start: null
+  - seq: 19
+    slug: "biosemiotic-technology"
+    title: "10. Biosemiotic Technology"
+    kind: "chapter"
+    file: "raw/019-biosemiotic-technology.txt"
+    start_line: 16502
+    end_line: 17137
+    line_count: 636
+    printed_page_start: null
+  - seq: 50
+    slug: "postscript-short-historical-notes"
+    title: "Postscript: Short Historical Notes"
+    kind: "back-matter"
+    file: "raw/050-postscript-short-historical-notes.txt"
+    start_line: 17138
+    end_line: 17745
+    line_count: 608
+    printed_page_start: null
+  - seq: 51
+    slug: "literature"
+    title: "Literature"
+    kind: "back-matter"
+    file: "raw/051-literature.txt"
+    start_line: 17746
+    end_line: 19017
+    line_count: 1272
+    printed_page_start: null
+  - seq: 52
+    slug: "index"
+    title: "Index"
+    kind: "back-matter"
+    file: "raw/052-index.txt"
+    start_line: 19018
+    end_line: 19919
+    line_count: 902
+    printed_page_start: null
+  - seq: 53
+    slug: "back-cover-blurbs-and-scan-noise"
+    title: "Back-cover blurbs and scan noise"
+    kind: "back-matter"
+    file: "raw/053-back-cover-blurbs-and-scan-noise.txt"
+    start_line: 19920
+    end_line: 20041
+    line_count: 122
+    printed_page_start: null
