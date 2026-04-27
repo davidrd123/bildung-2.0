@@ -1,0 +1,304 @@
+book:
+  title: "Thinking with Whitehead: A Free and Wild Creation of Concepts"
+  author: "Isabelle Stengers"
+  translator: "Michael Chase"
+  source_pdf: "sources/modern/incoming/books/Thinking with Whitehead a free and wild creation of concepts -- Isabelle Stengers.pdf"
+  extracted_full_text: "full/thinking-with-whitehead.txt"
+sections:
+  - seq: 0
+    slug: "front-matter-and-contents"
+    title: "Front matter and contents"
+    kind: "front-matter"
+    file: "raw/000-front-matter-and-contents.txt"
+    start_line: 1
+    end_line: 132
+    line_count: 132
+    printed_page_start: null
+  - seq: 1
+    slug: "foreword-what-is-given-in-experience"
+    title: "Foreword: What Is Given in Experience?"
+    kind: "foreword"
+    file: "raw/001-foreword-what-is-given-in-experience.txt"
+    start_line: 133
+    end_line: 435
+    line_count: 303
+    printed_page_start: "ix"
+  - seq: 2
+    slug: "abbreviations-and-references"
+    title: "Abbreviations and References"
+    kind: "front-matter"
+    file: "raw/002-abbreviations-and-references.txt"
+    start_line: 436
+    end_line: 528
+    line_count: 93
+    printed_page_start: "xvii"
+  - seq: 10
+    slug: "introduction-whitehead-today"
+    title: "Introduction: Whitehead Today?"
+    kind: "introduction"
+    file: "raw/010-introduction-whitehead-today.txt"
+    start_line: 529
+    end_line: 1758
+    line_count: 1230
+    printed_page_start: "1"
+  - seq: 20
+    slug: "part-one-from-the-philosophy-of-nature-to-metaphysics"
+    title: "Part One: From the Philosophy of Nature to Metaphysics"
+    kind: "part"
+    file: "raw/020-part-one-from-the-philosophy-of-nature-to-metaphysics.txt"
+    start_line: 1759
+    end_line: 1769
+    line_count: 11
+    printed_page_start: null
+  - seq: 21
+    slug: "the-mathematician-and-the-sunset"
+    title: "1. The Mathematician and the Sunset"
+    kind: "chapter"
+    file: "raw/021-the-mathematician-and-the-sunset.txt"
+    start_line: 1770
+    end_line: 2265
+    line_count: 496
+    printed_page_start: "31"
+  - seq: 22
+    slug: "events-and-passage"
+    title: "2. Events and Passage"
+    kind: "chapter"
+    file: "raw/022-events-and-passage.txt"
+    start_line: 2266
+    end_line: 2972
+    line_count: 707
+    printed_page_start: "42"
+  - seq: 23
+    slug: "the-foothold-of-the-mind"
+    title: "3. The Foothold of the Mind"
+    kind: "chapter"
+    file: "raw/023-the-foothold-of-the-mind.txt"
+    start_line: 2973
+    end_line: 3642
+    line_count: 670
+    printed_page_start: "58"
+  - seq: 24
+    slug: "there-it-is-again"
+    title: "4. There It Is Again"
+    kind: "chapter"
+    file: "raw/024-there-it-is-again.txt"
+    start_line: 3643
+    end_line: 4172
+    line_count: 530
+    printed_page_start: "73"
+  - seq: 25
+    slug: "attention-to-objects"
+    title: "5. Attention to Objects"
+    kind: "chapter"
+    file: "raw/025-attention-to-objects.txt"
+    start_line: 4173
+    end_line: 4559
+    line_count: 387
+    printed_page_start: "85"
+  - seq: 26
+    slug: "the-ingression-of-scientific-objects"
+    title: "6. The Ingression of Scientific Objects"
+    kind: "chapter"
+    file: "raw/026-the-ingression-of-scientific-objects.txt"
+    start_line: 4560
+    end_line: 5023
+    line_count: 464
+    printed_page_start: "94"
+  - seq: 27
+    slug: "interlude-a-pragmatics-of-concepts"
+    title: "7. Interlude: A Pragmatics of Concepts"
+    kind: "chapter"
+    file: "raw/027-interlude-a-pragmatics-of-concepts.txt"
+    start_line: 5024
+    end_line: 5430
+    line_count: 407
+    printed_page_start: "105"
+  - seq: 28
+    slug: "science-and-the-modern-world-a-strange-book"
+    title: "8. Science and the Modern World: A Strange Book"
+    kind: "chapter"
+    file: "raw/028-science-and-the-modern-world-a-strange-book.txt"
+    start_line: 5431
+    end_line: 5823
+    line_count: 393
+    printed_page_start: "114"
+  - seq: 29
+    slug: "a-new-epoch"
+    title: "9. A New Epoch?"
+    kind: "chapter"
+    file: "raw/029-a-new-epoch.txt"
+    start_line: 5824
+    end_line: 6679
+    line_count: 856
+    printed_page_start: "123"
+  - seq: 30
+    slug: "from-the-concept-of-nature-to-the-order-of-nature"
+    title: "10. From the Concept of Nature to the Order of Nature"
+    kind: "chapter"
+    file: "raw/030-from-the-concept-of-nature-to-the-order-of-nature.txt"
+    start_line: 6680
+    end_line: 7717
+    line_count: 1038
+    printed_page_start: "142"
+  - seq: 31
+    slug: "scientific-objects-and-the-test-of-the-organism"
+    title: "11. Scientific Objects and the Test of the Organism"
+    kind: "chapter"
+    file: "raw/031-scientific-objects-and-the-test-of-the-organism.txt"
+    start_line: 7718
+    end_line: 8619
+    line_count: 902
+    printed_page_start: "165"
+  - seq: 32
+    slug: "the-event-from-its-own-standpoint"
+    title: "12. The Event from Its Own Standpoint?"
+    kind: "chapter"
+    file: "raw/032-the-event-from-its-own-standpoint.txt"
+    start_line: 8620
+    end_line: 9320
+    line_count: 701
+    printed_page_start: "185"
+  - seq: 33
+    slug: "entry-into-metaphysics"
+    title: "13. Entry into Metaphysics"
+    kind: "chapter"
+    file: "raw/033-entry-into-metaphysics.txt"
+    start_line: 9321
+    end_line: 10070
+    line_count: 750
+    printed_page_start: "201"
+  - seq: 34
+    slug: "the-great-refusal"
+    title: "14. The Great Refusal"
+    kind: "chapter"
+    file: "raw/034-the-great-refusal.txt"
+    start_line: 10071
+    end_line: 10651
+    line_count: 581
+    printed_page_start: "218"
+  - seq: 40
+    slug: "part-two-cosmology"
+    title: "Part Two: Cosmology"
+    kind: "part"
+    file: "raw/040-part-two-cosmology.txt"
+    start_line: 10652
+    end_line: 10662
+    line_count: 11
+    printed_page_start: null
+  - seq: 41
+    slug: "hic-circuli-hic-saltus"
+    title: "15. Hic Circuli, Hic Saltus"
+    kind: "chapter"
+    file: "raw/041-hic-circuli-hic-saltus.txt"
+    start_line: 10663
+    end_line: 11612
+    line_count: 950
+    printed_page_start: "233"
+  - seq: 42
+    slug: "thinking-under-the-constraint-of-creativity"
+    title: "16. Thinking under the Constraint of Creativity"
+    kind: "chapter"
+    file: "raw/042-thinking-under-the-constraint-of-creativity.txt"
+    start_line: 11613
+    end_line: 12621
+    line_count: 1009
+    printed_page_start: "254"
+  - seq: 43
+    slug: "the-risks-of-speculative-interpretation"
+    title: "17. The Risks of Speculative Interpretation"
+    kind: "chapter"
+    file: "raw/043-the-risks-of-speculative-interpretation.txt"
+    start_line: 12622
+    end_line: 13372
+    line_count: 751
+    printed_page_start: "277"
+  - seq: 44
+    slug: "feeling-ones-world"
+    title: "18. Feeling One's World"
+    kind: "chapter"
+    file: "raw/044-feeling-ones-world.txt"
+    start_line: 13373
+    end_line: 14177
+    line_count: 805
+    printed_page_start: "294"
+  - seq: 45
+    slug: "justifying-life"
+    title: "19. Justifying Life?"
+    kind: "chapter"
+    file: "raw/045-justifying-life.txt"
+    start_line: 14178
+    end_line: 15261
+    line_count: 1084
+    printed_page_start: "312"
+  - seq: 46
+    slug: "the-adventure-of-the-senses"
+    title: "20. The Adventure of the Senses"
+    kind: "chapter"
+    file: "raw/046-the-adventure-of-the-senses.txt"
+    start_line: 15262
+    end_line: 16539
+    line_count: 1278
+    printed_page_start: "336"
+  - seq: 47
+    slug: "actuality-between-physics-and-the-divine"
+    title: "21. Actuality between Physics and the Divine"
+    kind: "chapter"
+    file: "raw/047-actuality-between-physics-and-the-divine.txt"
+    start_line: 16540
+    end_line: 17789
+    line_count: 1250
+    printed_page_start: "364"
+  - seq: 48
+    slug: "and-they-became-souls"
+    title: "22. And They Became Souls"
+    kind: "chapter"
+    file: "raw/048-and-they-became-souls.txt"
+    start_line: 17790
+    end_line: 19205
+    line_count: 1416
+    printed_page_start: "392"
+  - seq: 49
+    slug: "modes-of-existence-modes-of-thought"
+    title: "23. Modes of Existence, Modes of Thought"
+    kind: "chapter"
+    file: "raw/049-modes-of-existence-modes-of-thought.txt"
+    start_line: 19206
+    end_line: 20396
+    line_count: 1191
+    printed_page_start: "423"
+  - seq: 50
+    slug: "god-and-the-world"
+    title: "24. God and the World"
+    kind: "chapter"
+    file: "raw/050-god-and-the-world.txt"
+    start_line: 20397
+    end_line: 21752
+    line_count: 1356
+    printed_page_start: "449"
+  - seq: 51
+    slug: "an-adventure-of-ideas"
+    title: "25. An Adventure of Ideas"
+    kind: "chapter"
+    file: "raw/051-an-adventure-of-ideas.txt"
+    start_line: 21753
+    end_line: 22788
+    line_count: 1036
+    printed_page_start: "479"
+  - seq: 60
+    slug: "conclusion-word-of-a-dragon-word-of-trance"
+    title: "Conclusion: Word of a Dragon, Word of Trance"
+    kind: "conclusion"
+    file: "raw/060-conclusion-word-of-a-dragon-word-of-trance.txt"
+    start_line: 22789
+    end_line: 23547
+    line_count: 759
+    printed_page_start: "503"
+  - seq: 61
+    slug: "index"
+    title: "Index"
+    kind: "back-matter"
+    file: "raw/061-index.txt"
+    start_line: 23548
+    end_line: 24128
+    line_count: 581
+    printed_page_start: "521"
