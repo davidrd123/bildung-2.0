@@ -1,0 +1,156 @@
+# Reader-facing bootstrap glossary.
+# Status values here are reading states, not project-level handle maturities.
+
+bifurcation-of-nature:
+  status: bootstrap
+  plain: "The split between nature as experienced and nature as the supposed scientific reality behind experience."
+  whitehead_context: "A target in the early philosophy of nature, especially The Concept of Nature."
+  stengers_context: "A false division that makes thought choose between lived experience and objective nature instead of constructing a better concept."
+  first_pass_warning: "Do not reduce this to anti-science. The point is to save science from a bad metaphysical picture."
+  appears_in:
+    - source/raw/021-the-mathematician-and-the-sunset.txt
+    - source/raw/027-interlude-a-pragmatics-of-concepts.txt
+
+awareness:
+  status: bootstrap
+  plain: "Experience before it is narrowed into reflective consciousness or subjective representation."
+  whitehead_context: "Whitehead's phrase about what we are aware of in perception sets the early problem."
+  stengers_context: "Stengers uses it to avoid a French-language trap around 'consciousness' and to keep perception broader than a subject/object split."
+  first_pass_warning: "Do not read it as introspection."
+  appears_in:
+    - source/raw/021-the-mathematician-and-the-sunset.txt
+
+perception:
+  status: bootstrap
+  plain: "Not merely inner sensation, but a relation to nature in which something is given and can demand attention."
+  whitehead_context: "The starting site for constructing the concept of nature."
+  stengers_context: "A place where the apparently simple statement becomes loaded with commitments."
+  first_pass_warning: "Do not treat perception as a private mental screen."
+  appears_in:
+    - source/raw/021-the-mathematician-and-the-sunset.txt
+
+concept-of-nature:
+  status: bootstrap
+  plain: "Whitehead's early attempt to construct what 'nature' must mean if everything experienced in perception belongs to nature."
+  whitehead_context: "The central project of The Concept of Nature."
+  stengers_context: "A constrained construction, not a final metaphysics."
+  first_pass_warning: "Its limits matter as much as its content."
+  appears_in:
+    - source/raw/021-the-mathematician-and-the-sunset.txt
+    - source/raw/027-interlude-a-pragmatics-of-concepts.txt
+
+event:
+  status: bootstrap
+  plain: "A unit of happening, passage, or occurrence rather than a static thing."
+  whitehead_context: "A basic term in Whitehead's move away from simply located matter."
+  stengers_context: "A way to make nature relational and temporal without jumping directly into metaphysics."
+  first_pass_warning: "Do not equate event with a dated incident only."
+  appears_in:
+    - source/raw/022-events-and-passage.txt
+    - source/raw/032-the-event-from-its-own-standpoint.txt
+
+object:
+  status: bootstrap
+  plain: "A factor that can recur or be recognized across events, but whose mode of relevance must be specified."
+  whitehead_context: "Sense-objects, perceptual objects, and scientific objects each answer different demands."
+  stengers_context: "A test case for how knowledge gets a foothold without making nature bifurcate."
+  first_pass_warning: "Do not assume 'object' means ordinary physical thing."
+  appears_in:
+    - source/raw/025-attention-to-objects.txt
+    - source/raw/026-the-ingression-of-scientific-objects.txt
+    - source/raw/027-interlude-a-pragmatics-of-concepts.txt
+
+scientific-object:
+  status: bootstrap
+  plain: "An object produced by scientific abstraction and experiment, such as entities or relations not directly perceived."
+  whitehead_context: "Scientific objects must belong to nature without becoming the hidden real nature behind appearances."
+  stengers_context: "A successful abstraction whose success does not license philosophical reduction."
+  first_pass_warning: "The problem is not whether science is real; it is what kind of reality scientific objects have."
+  appears_in:
+    - source/raw/026-the-ingression-of-scientific-objects.txt
+    - source/raw/027-interlude-a-pragmatics-of-concepts.txt
+
+ingression:
+  status: bootstrap
+  plain: "The way an object enters into, matters within, or is relevant to an event."
+  whitehead_context: "A technical term for relating objects to events without reducing one to the other."
+  stengers_context: "One of the terms tested for whether Whitehead's concept of nature can avoid false problems."
+  first_pass_warning: "Treat it as a relation of relevance before trying to define it technically."
+  appears_in:
+    - source/raw/026-the-ingression-of-scientific-objects.txt
+    - source/raw/027-interlude-a-pragmatics-of-concepts.txt
+
+cogredience:
+  status: bootstrap
+  plain: "A technical way of describing a standpoint's relation to the surrounding field of nature."
+  whitehead_context: "Part of Whitehead's early account of perception and the passage of nature."
+  stengers_context: "A term whose limits help show when the philosophy of nature begins to press toward metaphysics."
+  first_pass_warning: "Do not worry if this term stays hazy on first reading."
+  appears_in:
+    - source/raw/027-interlude-a-pragmatics-of-concepts.txt
+
+pragmatics-of-concepts:
+  status: bootstrap
+  plain: "A way of judging concepts by the work they do, the problems they avoid, and the obligations they create."
+  whitehead_context: "Not a standard Whitehead slogan, but Stengers's way of reading his conceptual practice."
+  stengers_context: "Central to chapter 7: concepts are tools under constraint, not labels floating above practice."
+  first_pass_warning: "This is not pragmatism as casual usefulness."
+  appears_in:
+    - source/raw/027-interlude-a-pragmatics-of-concepts.txt
+
+metaphysics:
+  status: bootstrap
+  plain: "Speculative construction about the most general features of reality and experience."
+  whitehead_context: "The Harvard-period project reaches its technical form in Process and Reality."
+  stengers_context: "Metaphysics is not escape from practice; it is a risky construction under constraints."
+  first_pass_warning: "Do not import the usual dismissal of metaphysics as mere abstraction."
+  appears_in:
+    - source/raw/010-introduction-whitehead-today.txt
+    - source/raw/033-entry-into-metaphysics.txt
+
+speculative-philosophy:
+  status: bootstrap
+  plain: "A disciplined attempt to construct concepts adequate to the widest range of experience."
+  whitehead_context: "Whitehead's mature philosophical mode."
+  stengers_context: "A practice that must be judged by consequences, not by rhetorical radicalism."
+  first_pass_warning: "Speculative does not mean arbitrary."
+  appears_in:
+    - source/raw/010-introduction-whitehead-today.txt
+    - source/raw/027-interlude-a-pragmatics-of-concepts.txt
+    - source/raw/060-conclusion-word-of-a-dragon-word-of-trance.txt
+
+prehension:
+  status: seed
+  plain: "A broad Whiteheadian term for taking account of or feeling another reality."
+  whitehead_context: "Central in Process and Reality."
+  stengers_context: "Will matter more in the cosmology chapters than in the opening philosophy-of-nature chapters."
+  first_pass_warning: "Do not reduce it to conscious perception."
+  appears_in:
+    - source/raw/044-feeling-ones-world.txt
+
+concrescence:
+  status: seed
+  plain: "The becoming-together through which an actual occasion achieves unity."
+  whitehead_context: "A core technical term in the mature metaphysics."
+  stengers_context: "Part of the later account of how actuality is produced."
+  first_pass_warning: "Save the technical details for the cosmology chapters."
+  appears_in:
+    - source/raw/042-thinking-under-the-constraint-of-creativity.txt
+
+creativity:
+  status: seed
+  plain: "The ultimate principle of becoming in Whitehead's mature metaphysics."
+  whitehead_context: "Names the irreducible production of novelty and actuality."
+  stengers_context: "A constraint on thinking, not a vague celebration of novelty."
+  first_pass_warning: "Do not read it as personal artistic creativity."
+  appears_in:
+    - source/raw/042-thinking-under-the-constraint-of-creativity.txt
+
+god:
+  status: seed
+  plain: "Whitehead's speculative concept of God, not ordinary supernatural command."
+  whitehead_context: "A technical part of the mature metaphysics involving value, possibility, order, and persuasion."
+  stengers_context: "Stengers treats this as a constructed concept whose function must be understood before it is accepted or rejected."
+  first_pass_warning: "Do not let inherited theism/atheism reflexes do the reading."
+  appears_in:
+    - source/raw/050-god-and-the-world.txt
