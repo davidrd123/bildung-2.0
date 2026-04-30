@@ -10,6 +10,7 @@ sources/modern/incoming/books/
 sources/modern/incoming/books/*
 !sources/modern/incoming/books/*.txt
 sources/modern/incoming/local/
+sources/modern/hoffmeyer-biosemiotics/source/page-images/
 sources/modern/incoming/acquisition-list/
 sources/german/cassirer-substanzbegriff-und-funktionsbegriff/source/local/
 sources/german/cassirer-philosophie-der-symbolischen-formen/source/local/
