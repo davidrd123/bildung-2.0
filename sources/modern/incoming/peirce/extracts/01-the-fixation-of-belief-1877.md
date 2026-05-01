@@ -3,6 +3,21 @@
 > Source: `cp-5-pragmatism-and-pragmaticism-1935.txt`
 > Status: lightly cleaned working extract from a converted text surface.
 
+## Short TOC
+
+- `I. Science and Logic`: logic is treated as a historical art learned through scientific practice, not as a finished scholastic toolkit.
+- `II. Guiding Principles`: inferences are governed by habits and principles that can be better or worse at reaching truth.
+- `III. Doubt and Belief`: inquiry begins in the irritation of doubt and ends in settled belief.
+- `IV. The End of Inquiry`: belief is clarified as habit with consequences for action.
+- `V. Methods of Fixing Belief`: Peirce contrasts tenacity, authority, a priori method, and science.
+
+## Reading Notes
+
+- Read this first for the `doubt -> belief -> habit -> action` line. That is the part most likely to matter for local experiment and chain questions.
+- Section `V` is the payoff, but it lands better if you let Sections `III-IV` establish why belief is not just assent but a rule for conduct.
+- The scientific method matters here because it is the only method meant to force convergence beyond private preference or social pressure.
+- Do not over-import later Peirce from this essay alone. At this stage, the useful pressure is narrower: doubt, fixation, habit, and the contrast between inquiry and opinion-settling.
+
 ## I. Science and Logic
 
 Few persons care to study logic, because everybody conceives himself to be proficient enough in the art of reasoning already. But I observe that this satisfaction is limited to one’s own ratiocination, and does not extend to that of other men.
@@ -88,4 +103,3 @@ It is not to be supposed that the first three methods of settling opinion presen
 Such are the advantages which the other methods of settling opinion have over scientific investigation. A man should consider well of them; and then he should consider that, after all, he wishes his opinions to coincide with the fact, and that there is no reason why the results of those three first methods should do so. To bring about this effect is the prerogative of the method of science. Upon such considerations he has to make his choice — a choice which is far more than the adoption of any intellectual opinion, which is one of the ruling decisions of his life, to which, when once made, he is bound to adhere. The force of habit will sometimes cause a man to hold on to old beliefs, after he is in a condition to see that they have no sound basis. But reflection upon the state of the case will overcome these habits, and he ought to allow reflection its full weight. People sometimes shrink from doing this, having an idea that beliefs are wholesome which they cannot help feeling rest on nothing. But let such persons suppose an analogous though different case from their own. Let them ask themselves what they would say to a reformed Mussulman who should hesitate to give up his old notions in regard to the relations of the sexes; or to a reformed Catholic who should still shrink from reading the Bible. Would they not say that these persons ought to consider the matter fully, and clearly understand the new doctrine, and then ought to embrace it, in its entirety? But, above all, let it be considered that what is more wholesome than any particular belief is integrity of belief, and that to avoid looking into the support of any belief from a fear that it may turn out rotten is quite as immoral as it is disadvantageous. The person who confesses that there is such a thing as truth, which is distinguished from falsehood simply by this, that if acted on it should, on full consideration, carry us to the point we aim at and not astray, and then, though convinced of this, dares not know the truth and seeks to avoid it, is in a sorry state of mind indeed.
 
 Yes, the other methods do have their merits: a clear logical conscience does cost something — just as any virtue, just as all that we cherish, costs us dear. But we should not desire it to be otherwise. The genius of a man’s logical method should be loved and reverenced as his bride, whom he has chosen from all the world. He need not contemn the others; on the contrary, he may honor them deeply, and in doing so he only honors her the more. But she is the one that he has chosen, and he knows that he was right in making that choice. And having made it, he will work and fight for her, and will not complain that there are blows to take, hoping that there may be as many and as hard to give, and will strive to be the worthy knight and champion of her from the blaze of whose splendors he draws his inspiration and his courage.
-

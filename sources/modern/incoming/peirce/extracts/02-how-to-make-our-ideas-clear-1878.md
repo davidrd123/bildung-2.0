@@ -3,6 +3,20 @@
 > Source: `cp-5-pragmatism-and-pragmaticism-1935.txt`
 > Status: lightly cleaned working extract from a converted text surface.
 
+## Short TOC
+
+- `I. Clearness and Distinctness`: Peirce criticizes inherited logical ideals of mere familiarity and abstract definition.
+- `II. The Pragmatic Maxim`: the meaning of a concept is tied to its conceivable practical bearings.
+- `III. Some Applications of the Pragmatic Maxim`: the maxim is tested on concrete examples rather than left as a slogan.
+- `IV. Reality`: truth and reality are recast in terms of inquiry’s eventual convergence.
+
+## Reading Notes
+
+- Read this as the companion to `The Fixation of Belief`, not as an isolated manifesto. The first paper gives the dynamics of inquiry; this one asks what conceptual clarity consists in.
+- Section `II` is the hinge. Slow down there and keep asking: what difference in conduct or expectation would this concept actually make?
+- Section `IV` is the other main payoff for local purposes. It is where Peirce connects reality to the eventual outcome of inquiry rather than to private certainty.
+- Avoid flattening the pragmatic maxim into crude usefulness. The point is not “whatever works,” but that meaning must cash out in conceivable effects and tests.
+
 ## I. Clearness and Distinctness
 
 Whoever has looked into a modern treatise on logic of the common sort, will doubtless remember the two distinctions between clear and obscure conceptions, and between distinct and confused conceptions. They have lain in the books now for nigh two centuries, unimproved and unmodified, and are generally reckoned by logicians as among the gems of their doctrine.
@@ -97,4 +111,3 @@ But it may be objected, “Why make so much of these remote considerations, espe
 It seems to me, however, that we have, by the application of our rule, reached so clear an apprehension of what we mean by reality, and of the fact which the idea rests on, that we should not, perhaps, be making a pretension so presumptuous as it would be singular, if we were to offer a metaphysical theory of existence for universal acceptance among those who employ the scientific method of fixing belief. However, as metaphysics is a subject much more curious than useful, the knowledge of which, like that of a sunken reef, serves chiefly to enable us to keep clear of it, I will not trouble the reader with any more Ontology at this moment. I have already been led much further into that path than I should have desired; and I have given the reader such a dose of mathematics, psychology, and all that is most abstruse, that I fear he may already have left me, and that what I am now writing is for the compositor and proof-reader exclusively. I trusted to the importance of the subject. There is no royal road to logic, and really valuable ideas can only be had at the price of close attention. But I know that in the matter of ideas the public prefer the cheap and nasty; and in my next paper I am going to return to the easily intelligible, and not wander from it again. The reader who has been at the pains of wading through this paper, shall be rewarded in the next one by seeing how beautifully what has been developed in this tedious way can be applied to the ascertainment of the rules of scientific reasoning.
 
 We have, hitherto, not crossed the threshold of scientific logic. It is certainly important to know how to make our ideas clear, but they may be ever so clear without being true. How to make them so, we have next to study. How to give birth to those vital and procreative ideas which multiply into a thousand forms and diffuse themselves everywhere, advancing civilization and making the dignity of man, is an art not yet reduced to rules, but of the secret of which the history of science affords some hints.
-

@@ -71,6 +71,9 @@ source/
     biosemiotics.txt
   cleaned/
     012-sign-and-cause.txt
+    013-code-duality.txt
+    014-the-semiotics-of-heredity.txt
+    015-the-semiotic-niche.txt
   raw/
     000-title-pages-and-publisher-matter.txt
     001-contents.txt
@@ -105,8 +108,17 @@ If the book later earns real pressure, the next honest move would be bounded
 cleanup of the actually-pressed chapter files against the authority PDF, not a
 premature campaign buildout.
 
-Current cleaned chapter:
+Current cleaned chapters:
 
 - `source/cleaned/012-sign-and-cause.txt` keeps printed page markers
   `[page 39]` through `[page 68]` and was cleaned against rendered local PDF
   page images.
+- `source/cleaned/013-code-duality.txt` keeps printed page markers
+  `[page 71]` through `[page 109]` and was cleaned against the source PDF plus
+  rendered local PDF page images.
+- `source/cleaned/014-the-semiotics-of-heredity.txt` keeps printed page
+  markers `[page 111]` through `[page 167]` and was cleaned against the source
+  PDF plus rendered local PDF page images.
+- `source/cleaned/015-the-semiotic-niche.txt` keeps printed page markers
+  `[page 169]` through `[page 211]` and was cleaned against the source PDF plus
+  rendered local PDF page images.
