@@ -1,0 +1,292 @@
+book:
+  title: "The Essential Peirce, Volume 1: Selected Philosophical Writings (1867-1893)"
+  author: "Charles S. Peirce"
+  editors: "Nathan Houser and Christian Kloesel"
+  source_pdf: "sources/modern/incoming/books/peirce/The Essential Peirce, Volume 1 Selected Philosophical.pdf"
+  extracted_full_text: "full/essential-peirce-volume-1.txt"
+  extraction_mode: "pdftotext -raw"
+  skipped_pdf_pages:
+    - 18
+    - 42
+    - 43
+    - 44
+sections:
+  - seq: 0
+    slug: "title-pages-and-publisher-matter"
+    title: "Title pages, publisher matter, and contents"
+    kind: "front-matter"
+    file: "raw/000-title-pages-and-publisher-matter.txt"
+    pdf_page_start: 1
+    pdf_page_end: 8
+    printed_page_start: null
+    printed_page_end: null
+  - seq: 1
+    slug: "chronology"
+    title: "Chronology"
+    kind: "front-matter"
+    file: "raw/001-chronology.txt"
+    pdf_page_start: 9
+    pdf_page_end: 10
+    printed_page_start: "ix"
+    printed_page_end: "x"
+  - seq: 2
+    slug: "foreword"
+    title: "Foreword"
+    kind: "front-matter"
+    file: "raw/002-foreword.txt"
+    pdf_page_start: 11
+    pdf_page_end: 17
+    printed_page_start: "xi"
+    printed_page_end: "xvii"
+  - seq: 3
+    slug: "introduction"
+    title: "Introduction"
+    kind: "front-matter"
+    file: "raw/003-introduction.txt"
+    pdf_page_start: 19
+    pdf_page_end: 41
+    printed_page_start: "xix"
+    printed_page_end: "xli"
+  - seq: 10
+    slug: "on-a-new-list-of-categories-1867"
+    title: "1. On a New List of Categories (1867)"
+    kind: "essay"
+    file: "raw/010-on-a-new-list-of-categories-1867.txt"
+    pdf_page_start: 45
+    pdf_page_end: 54
+    printed_page_start: "1"
+    printed_page_end: "10"
+  - seq: 11
+    slug: "questions-concerning-certain-faculties-claimed-for-man-1868"
+    title: "2. Questions Concerning Certain Faculties Claimed for Man (1868)"
+    kind: "essay"
+    file: "raw/011-questions-concerning-certain-faculties-claimed-for-man-1868.txt"
+    pdf_page_start: 55
+    pdf_page_end: 71
+    printed_page_start: "11"
+    printed_page_end: "27"
+  - seq: 12
+    slug: "some-consequences-of-four-incapacities-1868"
+    title: "3. Some Consequences of Four Incapacities (1868)"
+    kind: "essay"
+    file: "raw/012-some-consequences-of-four-incapacities-1868.txt"
+    pdf_page_start: 72
+    pdf_page_end: 99
+    printed_page_start: "28"
+    printed_page_end: "55"
+  - seq: 13
+    slug: "grounds-of-validity-of-the-laws-of-logic-1869"
+    title: "4. Grounds of Validity of the Laws of Logic (1869)"
+    kind: "essay"
+    file: "raw/013-grounds-of-validity-of-the-laws-of-logic-1869.txt"
+    pdf_page_start: 100
+    pdf_page_end: 126
+    printed_page_start: "56"
+    printed_page_end: "82"
+  - seq: 14
+    slug: "frasers-the-works-of-george-berkeley-1871"
+    title: "5. Fraser's The Works of George Berkeley (1871)"
+    kind: "essay"
+    file: "raw/014-frasers-the-works-of-george-berkeley-1871.txt"
+    pdf_page_start: 127
+    pdf_page_end: 149
+    printed_page_start: "83"
+    printed_page_end: "105"
+  - seq: 15
+    slug: "on-a-new-class-of-observations-suggested-by-the-principles-of-logic-1877"
+    title: "6. On a New Class of Observations, suggested by the principles of Logic (1877)"
+    kind: "essay"
+    file: "raw/015-on-a-new-class-of-observations-suggested-by-the-principles-of-logic-1877.txt"
+    pdf_page_start: 150
+    pdf_page_end: 152
+    printed_page_start: "106"
+    printed_page_end: "108"
+  - seq: 16
+    slug: "the-fixation-of-belief-1877"
+    title: "7. The Fixation of Belief (1877)"
+    kind: "essay"
+    file: "raw/016-the-fixation-of-belief-1877.txt"
+    pdf_page_start: 153
+    pdf_page_end: 167
+    printed_page_start: "109"
+    printed_page_end: "123"
+  - seq: 17
+    slug: "how-to-make-our-ideas-clear-1878"
+    title: "8. How to Make Our Ideas Clear (1878)"
+    kind: "essay"
+    file: "raw/017-how-to-make-our-ideas-clear-1878.txt"
+    pdf_page_start: 168
+    pdf_page_end: 185
+    printed_page_start: "124"
+    printed_page_end: "141"
+  - seq: 18
+    slug: "the-doctrine-of-chances-1878"
+    title: "9. The Doctrine of Chances (1878)"
+    kind: "essay"
+    file: "raw/018-the-doctrine-of-chances-1878.txt"
+    pdf_page_start: 186
+    pdf_page_end: 198
+    printed_page_start: "142"
+    printed_page_end: "154"
+  - seq: 19
+    slug: "the-probability-of-induction-1878"
+    title: "10. The Probability of Induction (1878)"
+    kind: "essay"
+    file: "raw/019-the-probability-of-induction-1878.txt"
+    pdf_page_start: 199
+    pdf_page_end: 213
+    printed_page_start: "155"
+    printed_page_end: "169"
+  - seq: 20
+    slug: "the-order-of-nature-1878"
+    title: "11. The Order of Nature (1878)"
+    kind: "essay"
+    file: "raw/020-the-order-of-nature-1878.txt"
+    pdf_page_start: 214
+    pdf_page_end: 229
+    printed_page_start: "170"
+    printed_page_end: "185"
+  - seq: 21
+    slug: "deduction-induction-and-hypothesis-1878"
+    title: "12. Deduction, Induction, and Hypothesis (1878)"
+    kind: "essay"
+    file: "raw/021-deduction-induction-and-hypothesis-1878.txt"
+    pdf_page_start: 230
+    pdf_page_end: 243
+    printed_page_start: "186"
+    printed_page_end: "199"
+  - seq: 22
+    slug: "from-on-the-algebra-of-logic-1880"
+    title: "13. [from] On the Algebra of Logic (1880)"
+    kind: "essay"
+    file: "raw/022-from-on-the-algebra-of-logic-1880.txt"
+    pdf_page_start: 244
+    pdf_page_end: 253
+    printed_page_start: "200"
+    printed_page_end: "209"
+  - seq: 23
+    slug: "introductory-lecture-on-the-study-of-logic-1882"
+    title: "14. Introductory Lecture on the Study of Logic (1882)"
+    kind: "essay"
+    file: "raw/023-introductory-lecture-on-the-study-of-logic-1882.txt"
+    pdf_page_start: 254
+    pdf_page_end: 258
+    printed_page_start: "210"
+    printed_page_end: "214"
+  - seq: 24
+    slug: "design-and-chance-1883-84"
+    title: "15. Design and Chance (1883-84)"
+    kind: "essay"
+    file: "raw/024-design-and-chance-1883-84.txt"
+    pdf_page_start: 259
+    pdf_page_end: 268
+    printed_page_start: "215"
+    printed_page_end: "224"
+  - seq: 25
+    slug: "from-on-the-algebra-of-logic-a-contribution-to-the-philosophy-of-notation-1885"
+    title: "16. [from] On the Algebra of Logic: A Contribution to the Philosophy of Notation (1885)"
+    kind: "essay"
+    file: "raw/025-from-on-the-algebra-of-logic-a-contribution-to-the-philosophy-of-notation-1885.txt"
+    pdf_page_start: 269
+    pdf_page_end: 272
+    printed_page_start: "225"
+    printed_page_end: "228"
+  - seq: 26
+    slug: "an-american-plato-review-of-royces-religious-aspect-of-philosophy-1885"
+    title: "17. An American Plato: Review of Royce's Religious Aspect of Philosophy (1885)"
+    kind: "essay"
+    file: "raw/026-an-american-plato-review-of-royces-religious-aspect-of-philosophy-1885.txt"
+    pdf_page_start: 273
+    pdf_page_end: 285
+    printed_page_start: "229"
+    printed_page_end: "241"
+  - seq: 27
+    slug: "one-two-three-kantian-categories-1886"
+    title: "18. One, Two, Three: Kantian Categories (1886)"
+    kind: "essay"
+    file: "raw/027-one-two-three-kantian-categories-1886.txt"
+    pdf_page_start: 286
+    pdf_page_end: 288
+    printed_page_start: "242"
+    printed_page_end: "244"
+  - seq: 28
+    slug: "a-guess-at-the-riddle-1887-88"
+    title: "19. A Guess at the Riddle (1887-88)"
+    kind: "essay"
+    file: "raw/028-a-guess-at-the-riddle-1887-88.txt"
+    pdf_page_start: 289
+    pdf_page_end: 323
+    printed_page_start: "245"
+    printed_page_end: "279"
+  - seq: 29
+    slug: "trichotomie-1888"
+    title: "20. Trichotomie (1888)"
+    kind: "essay"
+    file: "raw/029-trichotomie-1888.txt"
+    pdf_page_start: 324
+    pdf_page_end: 328
+    printed_page_start: "280"
+    printed_page_end: "284"
+  - seq: 30
+    slug: "the-architecture-of-theories-1891"
+    title: "21. The Architecture of Theories (1891)"
+    kind: "essay"
+    file: "raw/030-the-architecture-of-theories-1891.txt"
+    pdf_page_start: 329
+    pdf_page_end: 341
+    printed_page_start: "285"
+    printed_page_end: "297"
+  - seq: 31
+    slug: "the-doctrine-of-necessity-examined-1892"
+    title: "22. The Doctrine of Necessity Examined (1892)"
+    kind: "essay"
+    file: "raw/031-the-doctrine-of-necessity-examined-1892.txt"
+    pdf_page_start: 342
+    pdf_page_end: 355
+    printed_page_start: "298"
+    printed_page_end: "311"
+  - seq: 32
+    slug: "the-law-of-mind-1892"
+    title: "23. The Law of Mind (1892)"
+    kind: "essay"
+    file: "raw/032-the-law-of-mind-1892.txt"
+    pdf_page_start: 356
+    pdf_page_end: 377
+    printed_page_start: "312"
+    printed_page_end: "333"
+  - seq: 33
+    slug: "mans-glassy-essence-1892"
+    title: "24. Man's Glassy Essence (1892)"
+    kind: "essay"
+    file: "raw/033-mans-glassy-essence-1892.txt"
+    pdf_page_start: 378
+    pdf_page_end: 395
+    printed_page_start: "334"
+    printed_page_end: "351"
+  - seq: 34
+    slug: "evolutionary-love-1893"
+    title: "25. Evolutionary Love (1893)"
+    kind: "essay"
+    file: "raw/034-evolutionary-love-1893.txt"
+    pdf_page_start: 396
+    pdf_page_end: 416
+    printed_page_start: "352"
+    printed_page_end: "372"
+  - seq: 50
+    slug: "notes"
+    title: "Notes"
+    kind: "back-matter"
+    file: "raw/050-notes.txt"
+    pdf_page_start: 417
+    pdf_page_end: 432
+    printed_page_start: "373"
+    printed_page_end: "388"
+  - seq: 51
+    slug: "index"
+    title: "Index"
+    kind: "back-matter"
+    file: "raw/051-index.txt"
+    pdf_page_start: 433
+    pdf_page_end: 443
+    printed_page_start: "389"
+    printed_page_end: "399"
