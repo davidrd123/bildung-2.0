@@ -62,7 +62,7 @@ First bounded result on disk:
 
 Authority PDF:
 
-- `sources/modern/incoming/books/Philosophy in a New Key - Susanne Langer.pdf`
+- `sources/modern/incoming/books/Philosophy in a New Key, Suzanne K. Langer.pdf`
 
 Current text witness:
 
@@ -75,6 +75,14 @@ Localized full text:
 Split browsing files:
 
 - `source/raw/*.txt`
+
+First-pass cleaned working text:
+
+- `source/cleaned/*.txt`
+- `source/cleaned/cleanup-manifest.md`
+- `source/cleaned/ocr-uncertainties.md`
+
+The cleaned text is generated from the PDF text layer with `tools/clean_langer_philosophy_in_a_new_key.py`, using layout extraction for the two-column index, rendered page images where the index text layer is visibly garbled, and the raw TXT split as a fallback scaffold where the PDF witness is missing material.
 
 Section map:
 
@@ -107,6 +115,10 @@ source/
     019-the-fabric-of-meaning.txt
     030-acknowledgments.txt
     031-index.txt
+  cleaned/
+    cleanup-manifest.md
+    ocr-uncertainties.md
+    *.txt
   sections.yaml
 ```
 

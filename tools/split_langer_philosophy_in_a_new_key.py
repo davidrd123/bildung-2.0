@@ -10,7 +10,7 @@ TXT_WITNESS = ROOT / (
     "sources/modern/incoming/books/Philosophy in a New Key - Susanne Langer.txt"
 )
 PDF_AUTHORITY = ROOT / (
-    "sources/modern/incoming/books/Philosophy in a New Key - Susanne Langer.pdf"
+    "sources/modern/incoming/books/Philosophy in a New Key, Suzanne K. Langer.pdf"
 )
 SOURCE_DIR = ROOT / "sources/modern/langer-philosophy-in-a-new-key/source"
 FULL_PATH = SOURCE_DIR / "full/philosophy-in-a-new-key.txt"
