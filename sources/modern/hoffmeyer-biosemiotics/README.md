@@ -74,6 +74,9 @@ source/
     013-code-duality.txt
     014-the-semiotics-of-heredity.txt
     015-the-semiotic-niche.txt
+    016-endosemiotics.txt
+    018-perspectives.txt
+    019-biosemiotic-technology.txt
   raw/
     000-title-pages-and-publisher-matter.txt
     001-contents.txt
@@ -121,4 +124,13 @@ Current cleaned chapters:
   PDF plus rendered local PDF page images.
 - `source/cleaned/015-the-semiotic-niche.txt` keeps printed page markers
   `[page 169]` through `[page 211]` and was cleaned against the source PDF plus
+  rendered local PDF page images.
+- `source/cleaned/016-endosemiotics.txt` keeps printed page markers
+  `[page 213]` through `[page 261]` and was cleaned against the source PDF plus
+  rendered local PDF page images.
+- `source/cleaned/018-perspectives.txt` keeps printed page markers
+  `[page 315]` through `[page 339]` and was cleaned against the source PDF plus
+  rendered local PDF page images.
+- `source/cleaned/019-biosemiotic-technology.txt` keeps printed page markers
+  `[page 341]` through `[page 354]` and was cleaned against the source PDF plus
   rendered local PDF page images.
