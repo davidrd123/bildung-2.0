@@ -1,0 +1,15 @@
+# TTS export manifest.
+# Access layer only; generated from reader-en drafts.
+---
+pass:
+  name: lotman-vnutri-tts
+  status: active
+  purpose: "Audio-ready derivatives of reader-en drafts"
+  source_reader_manifest: "../reader-en/manifest.yaml"
+  apparatus_boundary: "tts exports do not seed glossary, handles, threads, or encounter claims"
+exports:
+  - seq: 5
+    source_reader: "../reader-en/005-part-i-01-tri-funktsii-teksta.md"
+    tts_file: "005-part-i-01-tri-funktsii-teksta.md"
+    status: exported
+    note: "metadata and pass notes stripped; formulas remain in reader-friendly form"
