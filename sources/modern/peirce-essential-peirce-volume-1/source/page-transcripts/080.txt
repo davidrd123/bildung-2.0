@@ -1,0 +1,35 @@
+[pdf page 080]
+[page 36]
+
+of arguments having two premises each, and implying no fact not asserted.
+
+Either of these premises is a proposition asserting that certain objects have certain characters. Every term of such a proposition stands either for certain objects or for certain characters. The conclusion may be regarded as a proposition substituted in place of either premise, the substitution being justified by the fact stated in the other premise. The conclusion is accordingly derived from either premise by substituting either a new subject for the subject of the premise, or a new predicate for the predicate of the premise, or by both substitutions. Now the substitution of one term for another can be justified only so far as the term substituted represents only what is represented in the term replaced. If, therefore, the conclusion be denoted by the formula,
+
+    S is P;
+
+and this conclusion be derived, by a change of subject, from a premise which may on this account be expressed by the formula,
+
+    M is P,
+
+then the other premise must assert that whatever thing is represented by S is represented by M, or that
+
+    Every S is an M;
+
+while, if the conclusion, S is P, is derived from either premise by a change of predicate, that premise may be written
+
+    S is M;
+
+and the other premise must assert that whatever characters are implied in P are implied in M, or that
+
+    Whatever is M is P.
+
+In either case, therefore, the syllogism must be capable of expression in the form,
+
+    S is M; M is P:
+    ∴ S is P.
+
+Finally, if the conclusion differs from either of its premises, both in subject and predicate, the form of statement of conclusion and premise may be so altered that they shall have a common term. This can always be done, for if P is the premise and C the conclusion, they may be stated thus:
+
+    The state of things represented in P is real,
+    and
+    The state of things represented in C is real.

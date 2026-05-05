@@ -1,0 +1,25 @@
+# TTS export manifest.
+# Access layer only; input for Alexandria audiobook pipeline.
+---
+pass:
+  name: peirce-ep1-tts
+  status: active
+  purpose: "Audio-ready text for Alexandria pipeline input"
+  source_preference: "image-grounded-cleaned > cleaned"
+  apparatus_boundary: "tts exports do not seed glossary, handles, threads, or encounter claims"
+exports:
+  - seq: 10
+    source_file: "../image-grounded-cleaned/010-on-a-new-list-of-categories-1867.txt"
+    tts_file: "010-on-a-new-list-of-categories-1867.txt"
+    status: exported
+    note: "pilot; page markers stripped, headnote removed, footnotes marked, notation expanded for speech"
+  - seq: 11
+    source_file: "../image-grounded-cleaned/011-questions-concerning-certain-faculties-claimed-for-man-1868.txt"
+    tts_file: "011-questions-concerning-certain-faculties-claimed-for-man-1868.txt"
+    status: exported
+    note: "page markers stripped, headnote removed, footnotes marked/reordered from page layout, notation expanded for speech"
+  - seq: 12
+    source_file: "../image-grounded-cleaned/012-some-consequences-of-four-incapacities-1868.txt"
+    tts_file: "012-some-consequences-of-four-incapacities-1868.txt"
+    status: exported
+    note: "page markers stripped, headnote removed, footnotes marked/reordered from page layout, syllogism notation and fractions expanded for speech"
