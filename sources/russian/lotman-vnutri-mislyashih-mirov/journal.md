@@ -366,3 +366,62 @@ Eighteenth reader draft:
 - this is a strong later candidate for a checked encounter on history,
   semiotic choice, and narrative deformation, but no glossary or thread
   promotion was made from the reader draft
+
+Nineteenth reader draft:
+
+- `Альтернативный вариант: бесписьменная культура или культура до культуры?`
+- source basis is raw OCR only
+- raw `024` starts cleanly with the chapter title and ends before `О роли
+  типологических символов в истории культуры` in raw `025`
+- the draft keeps non-written-memory pressure in pass notes: non-written
+  culture, culture before culture, writing as collective memory, memory of
+  exceptional events versus memory of order, ritual as memory,
+  mnemonic-sacred symbol, oral culture oriented toward the future, sacrifice
+  as futurological experiment, choice transferred outside the person, omen and
+  prediction, gesture of choice, oral memory saturated with symbols, loosened
+  syntax of oral symbols, ornament versus phrase, written sign versus idol or
+  sacred place, landscape as text, laws versus omens, isolation, and semiotic
+  translation
+- this is a strong later candidate for a checked encounter on writing,
+  collective memory, and non-written symbolic order, but no glossary or thread
+  promotion was made from the reader draft
+
+Twentieth reader draft:
+
+- `О роли типологических символов в истории культуры`
+- source basis is raw OCR only
+- raw `025` starts cleanly with the chapter title and ends before `Возможна ли
+  историческая наука и в чем ее функция в системе культуры?` in raw `026`
+- the draft keeps typological-symbol pressure in pass notes: magical system,
+  religious act, reciprocity, compulsion, equivalence, contractuality,
+  unconditional self-entrustment, unconditional gift, sign versus symbol,
+  contract with holiness or unclean force, cross-kissing, wordplay as
+  deception, sovereign's service, service as serving, signness, knightly
+  honor, effect versus effectiveness, zero semiotics, living icon,
+  desymbolization, tsar-worker, secular religion of statehood, silent
+  contract, exchange of dignity for signs, noble privilege as advance, dandy
+  culture, autonomy of the sign, motivated and unmotivated signs, social
+  contract, Masonic emblem, Rousseau in Russia, deified People, contract with
+  the alien, trust within one's own milieu, and typological tendency versus
+  historical variation
+- this is a strong later candidate for a checked encounter on contract,
+  symbol, and Russian cultural semiotics, but no glossary or thread promotion
+  was made from the reader draft
+
+Twenty-first reader draft:
+
+- `Возможна ли историческая наука и в чем ее функция в системе культуры?`
+- source basis is raw OCR only
+- raw `026` starts cleanly with the chapter title and ends before `Заключение`
+  in raw `027`
+- the draft keeps methodological pressure in pass notes: historical science,
+  "how it actually was," problem of language, metalanguage and object, observer
+  inside the described world, translation as universal scientific task,
+  absolute point of view, historical semiotics, source language and researcher
+  language, common-sense identification, understanding as translation, typology
+  as historical-cultural instrument, historian's own culture type, history and
+  historian as asymmetric languages, history as cultural memory, memory as
+  active present mechanism, memory as generator, and forecasts of the past
+- this is a strong later candidate for a checked encounter on history as
+  translation and cultural memory, but no glossary or thread promotion was made
+  from the reader draft

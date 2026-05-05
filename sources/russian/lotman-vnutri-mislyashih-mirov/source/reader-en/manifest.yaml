@@ -131,18 +131,18 @@ sections:
   - seq: 24
     source_file: "../raw/024-part-iii-03-alternativnyy-variant-bespismennaya-kultura.txt"
     reader_file: "024-part-iii-03-alternativnyy-variant-bespismennaya-kultura.md"
-    status: pending
-    note: "Part III"
+    status: drafted
+    note: "nineteenth reader-en draft; Part III chapter on non-written culture and collective memory, raw OCR only"
   - seq: 25
     source_file: "../raw/025-part-iii-04-o-roli-tipologicheskikh-simvolov.txt"
     reader_file: "025-part-iii-04-o-roli-tipologicheskikh-simvolov.md"
-    status: pending
-    note: "Part III"
+    status: drafted
+    note: "twentieth reader-en draft; Part III chapter on typological symbols, contract, and self-entrustment, raw OCR only"
   - seq: 26
     source_file: "../raw/026-part-iii-05-vozmozhna-li-istoricheskaya-nauka.txt"
     reader_file: "026-part-iii-05-vozmozhna-li-istoricheskaya-nauka.md"
-    status: pending
-    note: "Part III"
+    status: drafted
+    note: "twenty-first reader-en draft; Part III methodological close on historical science, translation, and cultural memory, raw OCR only"
   - seq: 27
     source_file: "../raw/027-back-matter-conclusion.txt"
     reader_file: "027-back-matter-conclusion.md"

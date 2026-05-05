@@ -23,6 +23,11 @@ implicit logical connectives.
 
 Authority PDF: `sources/japanese/incoming/shobo-gendaigoyaku/Vol02/11_Uji-ModJpn.pdf` (5 pages)
 
+Parallel bilingual witness: `sources/japanese/incoming/eng-jap-shobo/Vol. 1/11. Uji.pdf`
+This places Japanese text beside the Nishijima/Cross English translation and is
+useful for phrase-level comparison during translation work. It is not the
+authority source for this scaffold.
+
 Written at Kōshō-hōrin-ji (興聖宝林寺), 1240/10/1 (old calendar).
 Copied by Ejō (懐弉) during summer retreat, 1243.
 

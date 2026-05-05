@@ -126,6 +126,9 @@ Status vocabulary:
 | 147 | 103 | `147.txt` | image-transcribed | Running header omitted; Berkeley vision theory, Helmholtz quotation, and associationalist psychology transition preserved. |
 | 148 | 104 | `148.txt` | image-transcribed | Running header omitted; English nominalist lineage, science/materialism discussion, and realism/nominalism dispute transition preserved. |
 | 149 | 105 | `149.txt` | image-transcribed | Running header omitted; final nominalism/realism life-and-community conclusion preserved. |
+| 150 | 106 | `150.txt` | image-transcribed | Start of "On a New Class of Observations"; headnote and opening individuation argument preserved. |
+| 151 | 107 | `151.txt` | image-transcribed | Running header omitted; indeterminacy argument, blue/red relations, and intensity comparison setup preserved. |
+| 152 | 108 | `152.txt` | image-transcribed | Running header omitted; intensity comparisons, observational-world conclusion, and Greek Aristotle quotation preserved. |
 
 ## Batch Notes
 
@@ -139,4 +142,6 @@ Status vocabulary:
 - Assembled image-grounded cleaned section: `source/image-grounded-cleaned/013-grounds-of-validity-of-the-laws-of-logic-1869.txt`.
 - Completed batch: PDF pages 127-149 / printed pages 83-105, `014-frasers-the-works-of-george-berkeley-1871`.
 - Assembled image-grounded cleaned section: `source/image-grounded-cleaned/014-frasers-the-works-of-george-berkeley-1871.txt`.
+- Completed batch: PDF pages 150-152 / printed pages 106-108, `015-on-a-new-class-of-observations-suggested-by-the-principles-of-logic-1877`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/015-on-a-new-class-of-observations-suggested-by-the-principles-of-logic-1877.txt`.
 - Existing `source/raw` and `source/cleaned` files are draft witnesses only for this workflow.
