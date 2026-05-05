@@ -1,0 +1,132 @@
+# Dogen Shobogenzo modern-Japanese pressure set
+# Extracted directly from the local Shobo Gendaigoyaku PDFs with pdftotext -raw.
+# This is a bounded source-language scaffold, not a full Dogen corpus import.
+
+sections:
+  - seq: 001
+    file: raw/001-bendowa.txt
+    kind: fascicle
+    slug: bendowa
+    title_en: "On the Endeavor of the Way"
+    title_romaji: "Bendowa"
+    title_ja: "正法眼蔵弁道話"
+    modjpn_id: "01_Bendowa-ModJpn.pdf"
+    source_pdf: "sources/japanese/incoming/shobo-gendaigoyaku/Vol01/01_Bendowa-ModJpn.pdf"
+    parallel_witness_pdf: "sources/japanese/incoming/eng-jap-shobo/Vol. 1/01. Bendowa.pdf"
+    tanahashi_en_file: "sources/japanese/dogen-shobogenzo-tanahashi-en/source/raw/006-1-on-the-endeavor-of-the-way.txt"
+    pressure_role: "practice-realization frame; keeps Uji from becoming abstract time metaphysics"
+    length: 916
+  - seq: 002
+    file: raw/002-genjo-koan.txt
+    kind: fascicle
+    slug: genjo-koan
+    title_en: "Actualizing the Fundamental Point"
+    title_romaji: "Genjo koan"
+    title_ja: "正法眼蔵現成公案"
+    modjpn_id: "03_Genjo-koan-ModJpn.pdf"
+    source_pdf: "sources/japanese/incoming/shobo-gendaigoyaku/Vol01/03_Genjo-koan-ModJpn.pdf"
+    parallel_witness_pdf: "sources/japanese/incoming/eng-jap-shobo/Vol. 1/03. Genjo-koan.pdf"
+    tanahashi_en_file: "sources/japanese/dogen-shobogenzo-tanahashi-en/source/raw/009-3-actualizing-the-fundamental-point.txt"
+    pressure_role: "self/world actualization; direct bridge into the repo's translation and decryption method"
+    length: 221
+  - seq: 003
+    file: raw/003-uji.txt
+    kind: fascicle
+    slug: uji
+    title_en: "The Time Being"
+    title_romaji: "Uji"
+    title_ja: "正法眼蔵有時"
+    modjpn_id: "11_Uji-ModJpn.pdf"
+    source_pdf: "sources/japanese/incoming/shobo-gendaigoyaku/Vol02/11_Uji-ModJpn.pdf"
+    parallel_witness_pdf: "sources/japanese/incoming/eng-jap-shobo/Vol. 1/11. Uji.pdf"
+    tanahashi_en_file: "sources/japanese/dogen-shobogenzo-tanahashi-en/source/raw/018-12-the-time-being.txt"
+    pressure_role: "anchor text for being-time, action-centered temporality, and comparison with thread:time-crisis"
+    length: 296
+  - seq: 004
+    file: raw/004-sansuigyo.txt
+    kind: fascicle
+    slug: sansuigyo
+    title_en: "Mountains and Waters Sutra"
+    title_romaji: "Sansuigyo"
+    title_ja: "正法眼蔵山水経"
+    modjpn_id: "14_Sansuigyo-ModJpn.pdf"
+    source_pdf: "sources/japanese/incoming/shobo-gendaigoyaku/Vol02/14_Sansuigyo-ModJpn.pdf"
+    parallel_witness_pdf: "sources/japanese/incoming/eng-jap-shobo/Vol. 1/14. Sansuigyo.pdf"
+    tanahashi_en_file: "sources/japanese/dogen-shobogenzo-tanahashi-en/source/raw/021-15-mountains-and-waters-sutra.txt"
+    pressure_role: "nature/worldhood comparison; useful only if Uexkull or worldhood pressure returns"
+    length: 549
+  - seq: 005
+    file: raw/005-gyoji-1.txt
+    kind: fascicle
+    slug: gyoji-1
+    title_en: "Continuous Practice, Part One"
+    title_romaji: "Gyoji, jo"
+    title_ja: "正法眼蔵行持〈上〉"
+    modjpn_id: "30_Gyoji-1-ModJpn.pdf"
+    source_pdf: "sources/japanese/incoming/shobo-gendaigoyaku/Vol05/30_Gyoji-1-ModJpn.pdf"
+    parallel_witness_pdf: "sources/japanese/incoming/eng-jap-shobo/Vol. 2/30. Gyoji_1.pdf"
+    tanahashi_en_file: "sources/japanese/dogen-shobogenzo-tanahashi-en/source/raw/037-31a-continuous-practice-part-one.txt"
+    pressure_role: "formation as sustained practice; strongest Bildung bridge"
+    length: 1401
+  - seq: 006
+    file: raw/006-gyoji-2.txt
+    kind: fascicle
+    slug: gyoji-2
+    title_en: "Continuous Practice, Part Two"
+    title_romaji: "Gyoji, ge"
+    title_ja: "正法眼蔵行持〈下〉"
+    modjpn_id: "30_Gyoji-2-ModJpn.pdf"
+    source_pdf: "sources/japanese/incoming/shobo-gendaigoyaku/Vol05/30_Gyoji-2-ModJpn.pdf"
+    parallel_witness_pdf: "sources/japanese/incoming/eng-jap-shobo/Vol. 2/30. Gyoji_2.pdf"
+    tanahashi_en_file: "sources/japanese/dogen-shobogenzo-tanahashi-en/source/raw/038-31b-continuous-practice-part-two.txt"
+    pressure_role: "formation as sustained practice; second half of Gyoji pair"
+    length: 1722
+  - seq: 007
+    file: raw/007-shinjin-gakudo.txt
+    kind: fascicle
+    slug: shinjin-gakudo
+    title_en: "Body-and-Mind Study of the Way"
+    title_romaji: "Shinjin gakudo"
+    title_ja: "正法眼蔵身心学道"
+    modjpn_id: "37_Shinjin-gakudo-ModJpn.pdf"
+    source_pdf: "sources/japanese/incoming/shobo-gendaigoyaku/Vol06/37_Shinjin-gakudo-ModJpn.pdf"
+    tanahashi_en_file: "sources/japanese/dogen-shobogenzo-tanahashi-en/source/raw/045-38-body-and-mind-study-of-the-way.txt"
+    pressure_role: "embodied knowing; relevant if the issue becomes body-mind rather than time alone"
+    length: 496
+  - seq: 008
+    file: raw/008-dotoku.txt
+    kind: fascicle
+    slug: dotoku
+    title_en: "Expressions"
+    title_romaji: "Dotoku"
+    title_ja: "正法眼蔵道得"
+    modjpn_id: "39_Dotoku-ModJpn.pdf"
+    source_pdf: "sources/japanese/incoming/shobo-gendaigoyaku/Vol06/39_Dotoku-ModJpn.pdf"
+    parallel_witness_pdf: "sources/japanese/incoming/eng-jap-shobo/Vol. 2/39. Dotoku.pdf"
+    tanahashi_en_file: "sources/japanese/dogen-shobogenzo-tanahashi-en/source/raw/047-40-expressions.txt"
+    pressure_role: "language and expression; useful for translation-as-expression rather than message transfer"
+    length: 287
+  - seq: 009
+    file: raw/009-zenki.txt
+    kind: fascicle
+    slug: zenki
+    title_en: "Undivided Activity"
+    title_romaji: "Zenki"
+    title_ja: "正法眼蔵全機"
+    modjpn_id: "41_Zenki-ModJpn.pdf"
+    source_pdf: "sources/japanese/incoming/shobo-gendaigoyaku/Vol06/41_Zenki-ModJpn.pdf"
+    tanahashi_en_file: "sources/japanese/dogen-shobogenzo-tanahashi-en/source/raw/049-42-undivided-activity.txt"
+    pressure_role: "whole activity of birth/death/action; bridge to action-conditioned real and organizational vocabulary"
+    length: 146
+  - seq: 010
+    file: raw/010-katto.txt
+    kind: fascicle
+    slug: katto
+    title_en: "Twining Vines"
+    title_romaji: "Katto"
+    title_ja: "正法眼蔵葛藤"
+    modjpn_id: "46_Katto-ModJpn.pdf"
+    source_pdf: "sources/japanese/incoming/shobo-gendaigoyaku/Vol07/46_Katto-ModJpn.pdf"
+    tanahashi_en_file: "sources/japanese/dogen-shobogenzo-tanahashi-en/source/raw/054-47-twining-vines.txt"
+    pressure_role: "transmission entanglement; language and lineage as productive knot, not mere obstruction"
+    length: 384
