@@ -1,5 +1,7 @@
 # Langer PNK OCR Uncertainties
 
+Status note: this is a first-pass mechanical candidate list retained for provenance. It is not the current open-issue ledger. Current proof status and remaining uncertainties are recorded in `page-proof-manifest.md`.
+
 These are mechanically detected candidates after first-pass cleanup. They are not all errors; proper names, possessives, foreign titles, and index entries are expected to appear here. Items that matter for quotation should be checked against the PDF page image.
 
 ## 000-title-pages-and-publisher-matter.txt
@@ -65,4 +67,3 @@ No mechanical OCR candidates found.
 ## 031-index.txt
 
 `D'UDINE`, `MATTHESON'`
-
