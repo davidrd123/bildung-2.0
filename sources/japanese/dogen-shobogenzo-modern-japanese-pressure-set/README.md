@@ -10,10 +10,10 @@ repo: modern Japanese renderings of the fascicles most likely to matter for
 `Uji`, translation/decryption practice, formation, embodied knowing, worldhood,
 language, and transmission.
 
-It is **not** a full Dogen campaign and **not** a complete import of the
-twelve-volume PDF set. The point is to make the pressure-bearing fascicles
-available for source-near comparison without pretending the whole corpus has
-opened.
+It is **modern Japanese**, not original/classical Dogen. It is also **not** a
+full Dogen campaign and **not** a complete import of the twelve-volume PDF set.
+The point is to make the pressure-bearing modernizations available for
+source-near comparison without pretending the whole corpus has opened.
 
 ## Included Fascicles
 
@@ -80,7 +80,9 @@ normalized, line-wrapped, or checked against classical Japanese.
 ## Relation To Other Dogen Scaffolds
 
 - `sources/japanese/dogen-shobogenzo-uji/` remains the single-fascicle Uji pilot
-  that already existed before this pressure set.
+  that already existed before this pressure set. It now contains a separate
+  `source/original/020-uji.txt` original/classical layer; its
+  `source/modern-japanese-raw/` file remains the raw modern Japanese witness.
 - `sources/japanese/dogen-shobogenzo-tanahashi-en/` is the English Tanahashi
   translation witness, split for comparison and navigation.
 - This pressure set is the bounded modern-Japanese companion to both.
@@ -92,6 +94,8 @@ normalized, line-wrapped, or checked against classical Japanese.
   witness links.
 - 2026-05-05: added repo-local pointers to the partial bilingual
   Japanese/English PDF witness set where available.
+- 2026-05-05: linked Uji to the separate original/classical text layer in the
+  single-fascicle Uji scaffold.
 
 Next honest move, if needed: choose one pressure question and read one fascicle
 against `Uji`. Do not widen to the full Dogen corpus unless a later source

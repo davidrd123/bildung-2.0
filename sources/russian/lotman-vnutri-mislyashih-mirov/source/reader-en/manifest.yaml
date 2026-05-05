@@ -21,18 +21,18 @@ sections:
   - seq: 2
     source_file: "../raw/002-ivanov-semisfera-i-istoriya.txt"
     reader_file: "002-ivanov-semisfera-i-istoriya.md"
-    status: pending
-    note: "preface; useful after main Lotman chapters"
+    status: drafted
+    note: "twenty-fifth reader-en draft; Ivanov preface and editor's note, raw OCR only"
   - seq: 3
     source_file: "../raw/003-intro-01-vvodnye-zamechaniya.txt"
     reader_file: "003-intro-01-vvodnye-zamechaniya.md"
-    status: pending
-    note: "intro; partially checked in packet 001"
+    status: drafted
+    note: "twenty-third reader-en draft; introductory remarks, partly supported by checked packet 001"
   - seq: 4
     source_file: "../raw/004-intro-02-posle-sossyura.txt"
     reader_file: "004-intro-02-posle-sossyura.md"
-    status: pending
-    note: "intro"
+    status: drafted
+    note: "twenty-fourth reader-en draft; second introductory chapter on semiotics after Saussure, raw OCR only"
   - seq: 5
     source_file: "../raw/005-part-i-01-tri-funktsii-teksta.txt"
     reader_file: "005-part-i-01-tri-funktsii-teksta.md"
@@ -146,8 +146,8 @@ sections:
   - seq: 27
     source_file: "../raw/027-back-matter-conclusion.txt"
     reader_file: "027-back-matter-conclusion.md"
-    status: pending
-    note: "conclusion"
+    status: drafted
+    note: "twenty-second reader-en draft; book conclusion, raw OCR only"
   - seq: 28
     source_file: "../raw/028-back-matter-bibliography.txt"
     reader_file: null
@@ -156,13 +156,13 @@ sections:
   - seq: 29
     source_file: "../raw/029-appendix-01-umberto-eco.txt"
     reader_file: "029-appendix-01-umberto-eco.md"
-    status: pending
-    note: "appendix; translate after main text if useful"
+    status: drafted
+    note: "twenty-sixth reader-en draft; Eco preface to English edition, raw OCR only"
   - seq: 30
     source_file: "../raw/030-appendix-02-gasparov-lotman-i-marksizm.txt"
     reader_file: "030-appendix-02-gasparov-lotman-i-marksizm.md"
-    status: pending
-    note: "appendix; translate after main text if useful"
+    status: drafted
+    note: "twenty-seventh reader-en draft; Gasparov appendix on Lotman and Marxism, raw OCR only"
   - seq: 31
     source_file: "../raw/031-back-matter-name-index.txt"
     reader_file: null

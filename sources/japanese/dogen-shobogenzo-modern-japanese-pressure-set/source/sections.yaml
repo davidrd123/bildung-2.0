@@ -1,6 +1,7 @@
 # Dogen Shobogenzo modern-Japanese pressure set
 # Extracted directly from the local Shobo Gendaigoyaku PDFs with pdftotext -raw.
-# This is a bounded source-language scaffold, not a full Dogen corpus import.
+# This is a bounded modern-Japanese witness scaffold, not original/classical Dogen
+# and not a full Dogen corpus import.
 
 sections:
   - seq: 001
@@ -38,6 +39,7 @@ sections:
     title_ja: "正法眼蔵有時"
     modjpn_id: "11_Uji-ModJpn.pdf"
     source_pdf: "sources/japanese/incoming/shobo-gendaigoyaku/Vol02/11_Uji-ModJpn.pdf"
+    original_file: "sources/japanese/dogen-shobogenzo-uji/source/original/020-uji.txt"
     parallel_witness_pdf: "sources/japanese/incoming/eng-jap-shobo/Vol. 1/11. Uji.pdf"
     tanahashi_en_file: "sources/japanese/dogen-shobogenzo-tanahashi-en/source/raw/018-12-the-time-being.txt"
     pressure_role: "anchor text for being-time, action-centered temporality, and comparison with thread:time-crisis"

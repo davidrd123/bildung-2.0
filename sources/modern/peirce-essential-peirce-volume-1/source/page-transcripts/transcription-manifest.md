@@ -129,6 +129,21 @@ Status vocabulary:
 | 150 | 106 | `150.txt` | image-transcribed | Start of "On a New Class of Observations"; headnote and opening individuation argument preserved. |
 | 151 | 107 | `151.txt` | image-transcribed | Running header omitted; indeterminacy argument, blue/red relations, and intensity comparison setup preserved. |
 | 152 | 108 | `152.txt` | image-transcribed | Running header omitted; intensity comparisons, observational-world conclusion, and Greek Aristotle quotation preserved. |
+| 153 | 109 | `153.txt` | image-transcribed | Start of "The Fixation of Belief"; headnote corrected from image and section I opening preserved. |
+| 154 | 110 | `154.txt` | image-transcribed | Running header omitted; Bacon comparison, Kepler discussion, and page footnote preserved. |
+| 155 | 111 | `155.txt` | image-transcribed | Running header omitted; Lavoisier, Darwin/statistical method, and section II opening preserved. |
+| 156 | 112 | `156.txt` | image-transcribed | Running header omitted; validity argument, logicality passage, and guiding principle example preserved. |
+| 157 | 113 | `157.txt` | image-transcribed | Running header omitted; navigation analogy and logical-reflection/quality discussion preserved. |
+| 158 | 114 | `158.txt` | image-transcribed | Running header omitted; sections III-IV opening and page footnote preserved. |
+| 159 | 115 | `159.txt` | image-transcribed | Running header omitted; proof misconceptions list and method-of-tenacity opening preserved. |
+| 160 | 116 | `160.txt` | image-transcribed | Running header omitted; tenacity method argument and social-impulse transition preserved. |
+| 161 | 117 | `161.txt` | image-transcribed | Running header omitted; authority method setup and page-final split preserved. |
+| 162 | 118 | `162.txt` | image-transcribed | Running header omitted; authority method superiority and a priori transition preserved. |
+| 163 | 119 | `163.txt` | image-transcribed | Running header omitted; agreeable-to-reason method, a priori critique, and Hindoos passage preserved. |
+| 164 | 120 | `164.txt` | image-transcribed | Running header omitted; method of science hypothesis and numbered replies preserved. |
+| 165 | 121 | `165.txt` | image-transcribed | Running header omitted; scientific method contrast and first advantages passage preserved. |
+| 166 | 122 | `166.txt` | image-transcribed | Running header omitted; authority/tenacity advantages and choice passage preserved. |
+| 167 | 123 | `167.txt` | image-transcribed | Running header omitted; final integrity-of-belief and logical-method conclusion preserved. |
 
 ## Batch Notes
 
@@ -144,4 +159,6 @@ Status vocabulary:
 - Assembled image-grounded cleaned section: `source/image-grounded-cleaned/014-frasers-the-works-of-george-berkeley-1871.txt`.
 - Completed batch: PDF pages 150-152 / printed pages 106-108, `015-on-a-new-class-of-observations-suggested-by-the-principles-of-logic-1877`.
 - Assembled image-grounded cleaned section: `source/image-grounded-cleaned/015-on-a-new-class-of-observations-suggested-by-the-principles-of-logic-1877.txt`.
+- Completed batch: PDF pages 153-167 / printed pages 109-123, `016-the-fixation-of-belief-1877`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/016-the-fixation-of-belief-1877.txt`.
 - Existing `source/raw` and `source/cleaned` files are draft witnesses only for this workflow.
