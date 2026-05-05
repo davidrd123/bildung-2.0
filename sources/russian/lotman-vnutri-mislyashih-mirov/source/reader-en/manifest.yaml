@@ -61,73 +61,73 @@ sections:
   - seq: 10
     source_file: "../raw/010-part-i-06-simvol-gen-syuzheta.txt"
     reader_file: "010-part-i-06-simvol-gen-syuzheta.md"
-    status: pending
-    note: "Part I"
+    status: drafted
+    note: "sixth reader-en draft; symbol as plot gene, raw OCR only; chapter opening is at tail of raw/009 and raw/010 includes next chapter opening"
   - seq: 11
     source_file: "../raw/011-part-i-07-simvol-v-sisteme-kultury.txt"
     reader_file: "011-part-i-07-simvol-v-sisteme-kultury.md"
-    status: pending
-    note: "Part I"
+    status: drafted
+    note: "seventh reader-en draft; symbol in culture chapter, raw OCR only; chapter opening is at tail of raw/010 and raw/011 includes Part Two header"
   - seq: 12
     source_file: "../raw/012-part-ii-01-semioticheskoe-prostranstvo.txt"
     reader_file: "012-part-ii-01-semioticheskoe-prostranstvo.md"
-    status: pending
-    note: "Part II; semiosphere access only unless checked encounter earns more"
+    status: drafted
+    note: "eighth reader-en draft; Part II opening on semiotic space/semiosphere, raw OCR only"
   - seq: 13
     source_file: "../raw/013-part-ii-02-ponyatie-granitsy.txt"
     reader_file: "013-part-ii-02-ponyatie-granitsy.md"
-    status: pending
-    note: "strong candidate for boundary/translation membrane axis"
+    status: drafted
+    note: "ninth reader-en draft; boundary chapter, raw OCR only; strong candidate for later checked boundary/translation membrane encounter"
   - seq: 14
     source_file: "../raw/014-part-ii-03-mekhanizmy-dialoga.txt"
     reader_file: "014-part-ii-03-mekhanizmy-dialoga.md"
-    status: pending
-    note: "Part II"
+    status: drafted
+    note: "tenth reader-en draft; mechanisms of dialogue, raw OCR only; raw file also includes a short spatial-semiotics bridge excluded for seq15 consideration"
   - seq: 15
     source_file: "../raw/015-part-ii-04-semiosfera-i-problema-syuzheta.txt"
     reader_file: "015-part-ii-04-semiosfera-i-problema-syuzheta.md"
-    status: pending
-    note: "Part II"
+    status: drafted
+    note: "eleventh reader-en draft; semiosphere and plot chapter, raw OCR only; includes spatial-semiotics bridge from tail of raw 014"
   - seq: 16
     source_file: "../raw/016-part-ii-05-simvolicheskie-prostranstva.txt"
-    reader_file: "016-part-ii-05-simvolicheskie-prostranstva.md"
-    status: pending
-    note: "container/intro for symbolic spaces"
+    reader_file: null
+    status: skip
+    note: "heading-only container; carried as context in reader-en essays 017-020"
   - seq: 17
     source_file: "../raw/017-part-ii-05-01-geograficheskoe-prostranstvo.txt"
     reader_file: "017-part-ii-05-01-geograficheskoe-prostranstvo.md"
-    status: pending
-    note: "symbolic spaces essay"
+    status: drafted
+    note: "twelfth reader-en draft; first Symbolic Spaces essay on geographical space, raw OCR only"
   - seq: 18
     source_file: "../raw/018-part-ii-05-02-puteshestvie-ulissa.txt"
     reader_file: "018-part-ii-05-02-puteshestvie-ulissa.md"
-    status: pending
-    note: "symbolic spaces essay"
+    status: drafted
+    note: "thirteenth reader-en draft; Symbolic Spaces essay on Ulysses in Dante, raw OCR only"
   - seq: 19
     source_file: "../raw/019-part-ii-05-03-dom-v-mastere-i-margarite.txt"
     reader_file: "019-part-ii-05-03-dom-v-mastere-i-margarite.md"
-    status: pending
-    note: "symbolic spaces essay"
+    status: drafted
+    note: "fourteenth reader-en draft; Symbolic Spaces essay on House/Anti-house in Bulgakov, raw OCR only"
   - seq: 20
     source_file: "../raw/020-part-ii-05-04-simvolika-peterburga.txt"
     reader_file: "020-part-ii-05-04-simvolika-peterburga.md"
-    status: pending
-    note: "symbolic spaces essay"
+    status: drafted
+    note: "fifteenth reader-en draft; Symbolic Spaces essay on Petersburg symbolism, raw OCR only"
   - seq: 21
     source_file: "../raw/021-part-ii-06-nekotorye-itogi.txt"
     reader_file: "021-part-ii-06-nekotorye-itogi.md"
-    status: pending
-    note: "Part II conclusion"
+    status: drafted
+    note: "sixteenth reader-en draft; Part II conclusion, raw OCR only; raw file also includes Part III heading excluded for seq22 context"
   - seq: 22
     source_file: "../raw/022-part-iii-01-problema-istoricheskogo-fakta.txt"
     reader_file: "022-part-iii-01-problema-istoricheskogo-fakta.md"
-    status: pending
-    note: "strong candidate for history-as-decryption axis"
+    status: drafted
+    note: "seventeenth reader-en draft; Part III opening on historical fact and decryption, raw OCR only"
   - seq: 23
     source_file: "../raw/023-part-iii-02-istoricheskie-zakonomernosti-i-struktura-teksta.txt"
     reader_file: "023-part-iii-02-istoricheskie-zakonomernosti-i-struktura-teksta.md"
-    status: pending
-    note: "Part III"
+    status: drafted
+    note: "eighteenth reader-en draft; Part III chapter on historical regularities and text structure, raw OCR only"
   - seq: 24
     source_file: "../raw/024-part-iii-03-alternativnyy-variant-bespismennaya-kultura.txt"
     reader_file: "024-part-iii-03-alternativnyy-variant-bespismennaya-kultura.md"

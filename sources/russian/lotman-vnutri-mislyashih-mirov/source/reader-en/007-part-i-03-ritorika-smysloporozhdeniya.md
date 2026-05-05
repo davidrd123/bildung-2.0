@@ -173,7 +173,7 @@ cultural codes makes it possible to build metaphorical figures on the basis of
 metonymy. Tzvetan Todorov's thought works in the same direction when he connects
 metaphor with the doubling of synecdoche.
 
-The latter position, to a certain degree, approaches the conception of Group
+This last position comes close, in certain respects, to the conception of Group
 Mu, the Liege group. In 1970, Group Mu developed a detailed taxonomic
 classification of tropes, based on the analysis of semes and semantic-lexical
 components. They regard synecdoche as the primary figure. Metaphor and metonymy
@@ -289,8 +289,8 @@ What is painted on the icon is an image in the primary and direct sense.
 Clement of Alexandria directly likened the visible to the verbal: speaking of
 Christ, who in becoming human took on an appearance "without form" and lacking
 bodily beauty, he notes that one must always understand not the words, but what
-they signify. Thus complex semantic relations of inequality and
-non-univocality are established between the metaphorical expression and the
+they signify. Thus complex semantic relations of inequality and multivalence
+are established between the metaphorical expression and the
 metaphorical content, excluding the rationalistic operation of mutual
 substitution in both directions.
 
@@ -371,14 +371,15 @@ follows the position that any logical definitions of rhetorical figures that
 ignore their bilingual nature, and the models connected with them, belong to the
 metalanguage of our theoretical description, but in no way are the generative
 mechanisms by which tropes are produced. Moreover, if we ignore the fact that
-the trope is a mechanism for producing semantic non-univocality, a mechanism
-that introduces into the semiotic structure of culture the degree of
+the trope is a mechanism for producing semantic multivalence - that is, meaning
+that cannot be reduced to a single univocal reading - a mechanism that
+introduces into the semiotic structure of culture the degree of
 indeterminacy it needs, we will not obtain an adequate description of this
 phenomenon.
 
 The function of the trope as a mechanism of semantic indeterminacy has
 conditioned the fact that, in explicit form, on the surface of culture, it
-appears in systems oriented toward complexity, non-univocality, or the
+appears in systems oriented toward complexity, multivalence, or the
 inexpressibility of truth. Yet "rhetoricism" does not belong exclusively to any
 epochs of culture. Like the opposition poetry/prose, the opposition
 rhetoricism/anti-rhetoricism belongs to the universals of human culture. Both
@@ -807,6 +808,10 @@ metatextual, coding levels, which leads to a doubling of this scheme.
 - OCR/source-check candidates: the mathematical examples in the metarhetoric
   section; the exact names and spellings around Group Mu, Ruwet, Schofer/Rice,
   and Eco; the wording around Paul I and Napoleon; the final schematic diagram.
+- Review-incorporated reader polish: `non-univocality` has been reduced in
+  favor of `multivalence` where it improves listening, with a first-use gloss.
+  The Group Mu transition was lightly smoothed, but fuller spoken framing
+  belongs in a later TTS derivative rather than the reader translation body.
 - Possible encounter candidates: trope as translation across untranslatable
   systems; semantic indeterminacy as culturally necessary; rhetoric in science;
   minus-rhetoric; text as a large word; rhetoric versus stylistics.

@@ -354,6 +354,9 @@ meanings.
 - OCR noise remains likely around citation details, diagrams, formula
   subscripts, and the Aseev/Pilnyak examples. The reader translation smooths
   those for audibility.
+- First-paragraph term pressure: `ипостась` is rendered as `form` for reader
+  flow. A checked encounter should consider whether `hypostasis` or
+  `embodiment` is needed to preserve the philosophical/theological pressure.
 - Possible encounter candidates: the text as "technical packaging"; creative
   translation and asymmetry; the artistic text as lesson in language; text as
   condenser of cultural memory.

@@ -96,9 +96,9 @@ the same time a shift, a deformation that sharpens certain aspects of the
 object, on the one hand, and reveals, on the other, the structural nature of the
 language into whose space the given object is projected. The spherical and round
 surface of the mirror emphasizes the flat and rectangular character of the
-figures of the merchant and his wife, who seem to be placed on flat glass set
-within the illusionistically three-dimensional space of the room, an illusion
-created by the detailed and convincing treatment of things.
+figures of the merchant and his wife, who seem as if painted onto flat glass
+panes inserted within the illusionistically three-dimensional space of the
+room, an illusion created by the detailed and convincing treatment of things.
 
 The system of reflected figures and spatial perspective in the mirror is
 directed perpendicular to the plane of the painting and goes beyond its limits.
@@ -377,6 +377,9 @@ connection with the word.
 - OCR/source-check candidates: the printed page sequence in the raw file appears
   noisy around the transition after the mirror examples; Napoleon's numbering
   and the French/Russian fashion terms should be checked against the scan.
+- Review-incorporated reader polish: the van Eyck mirror passage was smoothed
+  to make the contrast between flat painted figures and illusionistic room depth
+  clearer for listening.
 - Possible encounter candidates: doubling as the precondition of signness;
   mirror as double doubling; theater as translator-code between life and
   painting; real behavior, theater, and pictorial art as a semiotic triangle;
