@@ -1,0 +1,231 @@
+book:
+  title: "Incomplete Nature: How Mind Emerged from Matter"
+  author: "Terrence W. Deacon"
+  source_text_witness: "sources/modern/incoming/books/Incomplete Nature_ How Mind Eme - Deacon W_.txt"
+  extracted_full_text: "full/incomplete-nature.txt"
+sections:
+  - seq: 0
+    slug: "title-pages-and-contents"
+    title: "Title pages and contents"
+    kind: "front-matter"
+    file: "raw/000-title-pages-and-contents.txt"
+    start_line: 1
+    end_line: 580
+    line_count: 580
+    printed_page_start: null
+  - seq: 1
+    slug: "acknowledgments"
+    title: "Acknowledgments"
+    kind: "front-matter"
+    file: "raw/001-acknowledgments.txt"
+    start_line: 581
+    end_line: 598
+    line_count: 18
+    printed_page_start: null
+  - seq: 10
+    slug: "absence"
+    title: "0. Absence"
+    kind: "chapter"
+    file: "raw/010-absence.txt"
+    start_line: 599
+    end_line: 744
+    line_count: 146
+    printed_page_start: null
+  - seq: 11
+    slug: "w-holes"
+    title: "1. (W)holes"
+    kind: "chapter"
+    file: "raw/011-w-holes.txt"
+    start_line: 745
+    end_line: 968
+    line_count: 224
+    printed_page_start: null
+  - seq: 12
+    slug: "homunculi"
+    title: "2. Homunculi"
+    kind: "chapter"
+    file: "raw/012-homunculi.txt"
+    start_line: 969
+    end_line: 1276
+    line_count: 308
+    printed_page_start: null
+  - seq: 13
+    slug: "golems"
+    title: "3. Golems"
+    kind: "chapter"
+    file: "raw/013-golems.txt"
+    start_line: 1277
+    end_line: 1518
+    line_count: 242
+    printed_page_start: null
+  - seq: 14
+    slug: "teleonomy"
+    title: "4. Teleonomy"
+    kind: "chapter"
+    file: "raw/014-teleonomy.txt"
+    start_line: 1519
+    end_line: 1800
+    line_count: 282
+    printed_page_start: null
+  - seq: 15
+    slug: "emergence"
+    title: "5. Emergence"
+    kind: "chapter"
+    file: "raw/015-emergence.txt"
+    start_line: 1801
+    end_line: 2106
+    line_count: 306
+    printed_page_start: null
+  - seq: 16
+    slug: "constraint"
+    title: "6. Constraint"
+    kind: "chapter"
+    file: "raw/016-constraint.txt"
+    start_line: 2107
+    end_line: 2272
+    line_count: 166
+    printed_page_start: null
+  - seq: 17
+    slug: "homeodynamics"
+    title: "7. Homeodynamics"
+    kind: "chapter"
+    file: "raw/017-homeodynamics.txt"
+    start_line: 2273
+    end_line: 2482
+    line_count: 210
+    printed_page_start: null
+  - seq: 18
+    slug: "morphodynamics"
+    title: "8. Morphodynamics"
+    kind: "chapter"
+    file: "raw/018-morphodynamics.txt"
+    start_line: 2483
+    end_line: 2720
+    line_count: 238
+    printed_page_start: null
+  - seq: 19
+    slug: "teleodynamics"
+    title: "9. Teleodynamics"
+    kind: "chapter"
+    file: "raw/019-teleodynamics.txt"
+    start_line: 2721
+    end_line: 2934
+    line_count: 214
+    printed_page_start: null
+  - seq: 20
+    slug: "autogenesis"
+    title: "10. Autogenesis"
+    kind: "chapter"
+    file: "raw/020-autogenesis.txt"
+    start_line: 2935
+    end_line: 3242
+    line_count: 308
+    printed_page_start: null
+  - seq: 21
+    slug: "work"
+    title: "11. Work"
+    kind: "chapter"
+    file: "raw/021-work.txt"
+    start_line: 3243
+    end_line: 3546
+    line_count: 304
+    printed_page_start: null
+  - seq: 22
+    slug: "information"
+    title: "12. Information"
+    kind: "chapter"
+    file: "raw/022-information.txt"
+    start_line: 3547
+    end_line: 3756
+    line_count: 210
+    printed_page_start: null
+  - seq: 23
+    slug: "significance"
+    title: "13. Significance"
+    kind: "chapter"
+    file: "raw/023-significance.txt"
+    start_line: 3757
+    end_line: 3986
+    line_count: 230
+    printed_page_start: null
+  - seq: 24
+    slug: "evolution"
+    title: "14. Evolution"
+    kind: "chapter"
+    file: "raw/024-evolution.txt"
+    start_line: 3987
+    end_line: 4300
+    line_count: 314
+    printed_page_start: null
+  - seq: 25
+    slug: "self"
+    title: "15. Self"
+    kind: "chapter"
+    file: "raw/025-self.txt"
+    start_line: 4301
+    end_line: 4484
+    line_count: 184
+    printed_page_start: null
+  - seq: 26
+    slug: "sentience"
+    title: "16. Sentience"
+    kind: "chapter"
+    file: "raw/026-sentience.txt"
+    start_line: 4485
+    end_line: 4670
+    line_count: 186
+    printed_page_start: null
+  - seq: 27
+    slug: "consciousness"
+    title: "17. Consciousness"
+    kind: "chapter"
+    file: "raw/027-consciousness.txt"
+    start_line: 4671
+    end_line: 4892
+    line_count: 222
+    printed_page_start: null
+  - seq: 28
+    slug: "epilogue"
+    title: "Epilogue"
+    kind: "back-matter"
+    file: "raw/028-epilogue.txt"
+    start_line: 4893
+    end_line: 4958
+    line_count: 66
+    printed_page_start: null
+  - seq: 50
+    slug: "glossary"
+    title: "Glossary"
+    kind: "back-matter"
+    file: "raw/050-glossary.txt"
+    start_line: 4959
+    end_line: 5074
+    line_count: 116
+    printed_page_start: null
+  - seq: 51
+    slug: "notes"
+    title: "Notes"
+    kind: "back-matter"
+    file: "raw/051-notes.txt"
+    start_line: 5075
+    end_line: 5498
+    line_count: 424
+    printed_page_start: null
+  - seq: 52
+    slug: "references"
+    title: "References"
+    kind: "back-matter"
+    file: "raw/052-references.txt"
+    start_line: 5499
+    end_line: 5950
+    line_count: 452
+    printed_page_start: null
+  - seq: 53
+    slug: "index"
+    title: "Index"
+    kind: "back-matter"
+    file: "raw/053-index.txt"
+    start_line: 5951
+    end_line: 9494
+    line_count: 3544
+    printed_page_start: null
