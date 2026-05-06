@@ -121,10 +121,10 @@ will not call by this name. Messages obtained from certain initial messages as a
 result of unambiguous transformations - messages that are the fruit of
 symmetrical transformations of the initial message, where launching the
 transformation in reverse gives us the original text - will not be considered
-new. If a translation from language L1 of text T1 into language L2 leads to the
-appearance of a text T2 such that, by the operation of reverse translation, we
-obtain the initial text T1, then we will not consider text T2 new in relation to
-T1. From this point of view, the correct solving of mathematical problems does
+new. If a translation from language L one of text T one into language L two leads to the
+appearance of a text T two such that, by the operation of reverse translation, we
+obtain the initial text T one, then we will not consider text T two new in relation to
+T one. From this point of view, the correct solving of mathematical problems does
 not create new texts. Here one can recall Wittgenstein's proposition that within
 the limits of logic nothing new can be said.
 
@@ -134,11 +134,11 @@ mediocre poem is translated into another language, that is, into the language of
 another poetic system, the operation of reverse translation will not give the
 initial text. The very fact that one and the same poem can be translated many
 times by different translators testifies that, instead of exact correspondence
-to text T1, in this case a certain space is correlated with it. Any of the texts
-filling that space - T1, T2, T3, and so on up to Tn - will be a possible
+to text T one, in this case a certain space is correlated with it. Any of the texts
+filling that space - T one, T two, T three, and so on up to T n - will be a possible
 interpretation of the initial text. In place of exact correspondence, one of the
 possible interpretations; in place of symmetrical transformation, an
-asymmetrical one; in place of identity between the elements composing T1 and T2,
+asymmetrical one; in place of identity between the elements composing T one and T two,
 their conventional equivalence. When French poetry is translated into Russian,
 the rendering of French twelve-syllable syllabic verse by Russian six-foot
 syllabo-tonic iambic verse is a convention, a tribute to an established
@@ -155,11 +155,11 @@ used may be represented as follows: the sender and receiver use one shared code,
 K.
 
 The scheme of artistic translation shows that sender and receiver use different
-codes, K1 and K2, which intersect but are not identical. In the case of reverse
-translation, this will yield not the initial text but some third text, T3. Still
+codes, K one and K two, which intersect but are not identical. In the case of reverse
+translation, this will yield not the initial text but some third text, T three. Still
 closer to the real process of message circulation is the case in which before
-the sender there stands not one code, but a multiple space of codes - k1, k2,
-k3, and so on up to kn - each of which is a complex hierarchical device and
+the sender there stands not one code, but a multiple space of codes - k one, k two,
+k three, and so on up to k n - each of which is a complex hierarchical device and
 allows the generation of a certain multiplicity of texts equally corresponding
 to it. Asymmetrical directedness and the constant need for choice make
 translation in this case an act of generating new information and realize the
@@ -330,4 +330,3 @@ historical events outside the text with which Shakespeare's text can call up
 associations. We may forget what Shakespeare and his spectators knew, but we
 cannot forget what we have learned after them. And this gives the text new
 meanings.
-

@@ -528,3 +528,25 @@ Twenty-seventh reader draft:
   dogmatism and anti-dogmatism, and Marxist method and structuralism
 - this is non-Lotman contextual appendix material; no glossary or thread
   promotion was made from the reader draft
+
+TTS layer expansion:
+
+- added repeatable exporter `tools/export_lotman_tts.py`
+- regenerated `source/tts/*.md` from all current `source/reader-en/*.md`
+- TTS exports strip reader metadata and `## Pass Notes`, leaving speakable
+  headings and reading text for the Alexandria/Gemini audiobook pipeline
+- the existing `reader-en` drafts remain the editable access layer; `tts`
+  remains a derived audio layer and does not seed glossary, handles, threads,
+  or encounter claims
+
+TTS speech-normalization pass:
+
+- extended the repeatable exporter with a narrow speech cleanup stage
+- normalized compact symbolic forms in the generated TTS layer, especially
+  `T1`/`T2`/`Tn`, `K1`/`K2`, `L1`/`L2`, and `k1`/`kn`
+- normalized Lotman's schematic communication labels from dash notation
+  (`I - HE`, `I - I`, `I - he/she`, `I - you`) into speakable `I to ...`
+  wording in `source/tts/`
+- smoothed the few model headings and schematic lists that would otherwise read
+  as raw punctuation; no source-facing reader drafts or apparatus files were
+  changed

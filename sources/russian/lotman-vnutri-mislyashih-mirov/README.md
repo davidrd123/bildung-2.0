@@ -37,7 +37,7 @@ Local pilot additions:
   working text for the first active passage range
 - `source/reader-en/` — English reader drafts for discussion/audio use
 - `source/reader-en/manifest.yaml` — pass state for reader drafts
-- `source/tts/` — future audio-ready exports derived from `reader-en`
+- `source/tts/` — audio-ready exports derived from `reader-en`
 - `source/tts/manifest.yaml` — pass state for audio-ready exports
 - `source/glossary.yaml` — seed glossary from encounter packets only
 - `encounters/` — bounded source-facing packets
@@ -90,6 +90,8 @@ Not yet created:
 - Read `source/checked/*.txt` when a packet needs scan-backed passage authority.
 - Read `source/reader-en/*.md` when you want English chapter-scale discussion or
   audiobook preparation.
+- Read `source/tts/*.md` when you want the stripped audiobook feed without
+  reader metadata or pass notes.
 - Use `source/sections.yaml` when you need the order, title, and original line span.
 - Use `encounters/*.md` only as bounded method packets.
 - Treat the raw scaffold and `reader-en` drafts as access aids, not as stable
