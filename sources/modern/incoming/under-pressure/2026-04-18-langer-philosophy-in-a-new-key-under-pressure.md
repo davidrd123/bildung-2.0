@@ -3,11 +3,16 @@ title: "Langer - Philosophy in a New Key under pressure"
 author: "Susanne Langer"
 source: "sources/modern/incoming/books/Philosophy in a New Key - Susanne Langer.txt"
 language: "en"
-encounter_status: located
+encounter_status: superseded
+superseded_by: "sources/modern/incoming/under-pressure/2026-04-19-langer-philosophy-in-a-new-key-under-pressure.md"
 reason: "Recent chat work surfaced Langer as underweighted: a direct English-side continuation of the Cassirer line and a legitimate personal-reading / reserve figure worth parking without opening a campaign."
 ---
 
 # Langer - `Philosophy in a New Key` under pressure
+
+Superseded by
+`sources/modern/incoming/under-pressure/2026-04-19-langer-philosophy-in-a-new-key-under-pressure.md`.
+Retained for provenance only.
 
 Purpose: preserve the current Langer pressure in a localized, protected form.
 This is not a Langer campaign, not an automatic Cassirer extension, and not

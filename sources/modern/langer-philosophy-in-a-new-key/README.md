@@ -17,7 +17,7 @@ work as if it had already been tested.
 
 First bounded result on disk:
 
-- `sources/modern/incoming/2026-04-19-langer-philosophy-in-a-new-key-under-pressure.md`
+- `sources/modern/incoming/under-pressure/2026-04-19-langer-philosophy-in-a-new-key-under-pressure.md`
   now records grounded bounded contact on chapters 1-10 (the book’s full
   argument, including the rite/myth chapters). The result is source-real but
   still narrow: Langer has earned a localized modern pressure position on

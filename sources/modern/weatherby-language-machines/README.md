@@ -17,7 +17,7 @@ if it had already been tested.
 
 First bounded result on disk:
 
-- `sources/modern/incoming/2026-04-19-weatherby-language-machines-under-pressure.md`
+- `sources/modern/incoming/under-pressure/2026-04-19-weatherby-language-machines-under-pressure.md`
   now records five bounded reads: first the introduction and chapter 1, then
   chapter 3 and chapter 5, then chapter 6 and the conclusion, then chapter 4
   as a bridge pass, and finally chapter 2 as the genealogy of chatbot
