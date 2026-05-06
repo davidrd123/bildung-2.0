@@ -1,0 +1,168 @@
+book:
+  title: "The Promise of Artificial Intelligence: Reckoning and Judgment"
+  author: "Brian Cantwell Smith"
+  source_text_witness: "sources/modern/incoming/books/The Promise of Artificial Intel - Brian Cantwell Smith.txt"
+  extracted_full_text: "full/promise-of-artificial-intelligence.txt"
+sections:
+  - seq: 0
+    slug: "title-pages-and-contents"
+    title: "Title pages and contents"
+    kind: "front-matter"
+    file: "raw/000-title-pages-and-contents.txt"
+    start_line: 1
+    end_line: 110
+    line_count: 110
+    printed_page_start: null
+  - seq: 1
+    slug: "preface"
+    title: "Preface"
+    kind: "front-matter"
+    file: "raw/001-preface.txt"
+    start_line: 111
+    end_line: 139
+    line_count: 29
+    printed_page_start: null
+  - seq: 2
+    slug: "introduction"
+    title: "Introduction"
+    kind: "front-matter"
+    file: "raw/002-introduction.txt"
+    start_line: 140
+    end_line: 200
+    line_count: 61
+    printed_page_start: null
+  - seq: 10
+    slug: "background"
+    title: "1. Background"
+    kind: "chapter"
+    file: "raw/010-background.txt"
+    start_line: 201
+    end_line: 237
+    line_count: 37
+    printed_page_start: null
+  - seq: 11
+    slug: "history"
+    title: "2. History"
+    kind: "chapter"
+    file: "raw/011-history.txt"
+    start_line: 238
+    end_line: 380
+    line_count: 143
+    printed_page_start: null
+  - seq: 12
+    slug: "failure"
+    title: "3. Failure"
+    kind: "chapter"
+    file: "raw/012-failure.txt"
+    start_line: 381
+    end_line: 577
+    line_count: 197
+    printed_page_start: null
+  - seq: 13
+    slug: "transition"
+    title: "4. Transition"
+    kind: "chapter"
+    file: "raw/013-transition.txt"
+    start_line: 578
+    end_line: 603
+    line_count: 26
+    printed_page_start: null
+  - seq: 14
+    slug: "machine-learning"
+    title: "5. Machine Learning"
+    kind: "chapter"
+    file: "raw/014-machine-learning.txt"
+    start_line: 604
+    end_line: 718
+    line_count: 115
+    printed_page_start: null
+  - seq: 15
+    slug: "assessment"
+    title: "6. Assessment"
+    kind: "chapter"
+    file: "raw/015-assessment.txt"
+    start_line: 719
+    end_line: 843
+    line_count: 125
+    printed_page_start: null
+  - seq: 16
+    slug: "epistemological-challenges"
+    title: "7. Epistemological Challenges"
+    kind: "chapter"
+    file: "raw/016-epistemological-challenges.txt"
+    start_line: 844
+    end_line: 938
+    line_count: 95
+    printed_page_start: null
+  - seq: 17
+    slug: "objects"
+    title: "8. Objects"
+    kind: "chapter"
+    file: "raw/017-objects.txt"
+    start_line: 939
+    end_line: 1073
+    line_count: 135
+    printed_page_start: null
+  - seq: 18
+    slug: "world"
+    title: "9. World"
+    kind: "chapter"
+    file: "raw/018-world.txt"
+    start_line: 1074
+    end_line: 1140
+    line_count: 67
+    printed_page_start: null
+  - seq: 19
+    slug: "reckoning-and-judgment"
+    title: "10. Reckoning and Judgment"
+    kind: "chapter"
+    file: "raw/019-reckoning-and-judgment.txt"
+    start_line: 1141
+    end_line: 1223
+    line_count: 83
+    printed_page_start: null
+  - seq: 20
+    slug: "discussion"
+    title: "11. Discussion"
+    kind: "chapter"
+    file: "raw/020-discussion.txt"
+    start_line: 1224
+    end_line: 1349
+    line_count: 126
+    printed_page_start: null
+  - seq: 21
+    slug: "application"
+    title: "12. Application"
+    kind: "chapter"
+    file: "raw/021-application.txt"
+    start_line: 1350
+    end_line: 1446
+    line_count: 97
+    printed_page_start: null
+  - seq: 22
+    slug: "conclusion"
+    title: "13. Conclusion"
+    kind: "chapter"
+    file: "raw/022-conclusion.txt"
+    start_line: 1447
+    end_line: 1484
+    line_count: 38
+    printed_page_start: null
+  - seq: 50
+    slug: "references"
+    title: "References"
+    kind: "back-matter"
+    file: "raw/050-references.txt"
+    start_line: 1485
+    end_line: 1588
+    line_count: 104
+    printed_page_start: null
+  - seq: 51
+    slug: "index"
+    title: "Index"
+    kind: "back-matter"
+    file: "raw/051-index.txt"
+    start_line: 1589
+    end_line: 1990
+    line_count: 402
+    printed_page_start: null

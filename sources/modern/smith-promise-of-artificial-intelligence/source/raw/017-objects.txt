@@ -1,0 +1,130 @@
+8 — Objects
+
+Some of the deepest thinking on these topics has been framed in terms of transcendental and existential philosophies. For insight we could delve into Kant’s inquiry into the forms of sensibility and understanding as conditions of the possibility of knowledge of objects as objects. Or, turning to Heidegger, we could consider the existential question of the possibility of being toward the being of entities. But we do not need such fancy language here. We can ask a simple question:
+
+What must be true of a system in order for it to register an object as an object in the world?1
+
+
+
+Again, this is not a question about what it would take for an AI system to represent (or deal with) something that we humans take to be an object in the world—or rather, to put the point more simply, just “register an object as an object,” since, in line with the etymology, I will take being an object to mean being part of what is objective—that is, being part of the world. So the issue can be more compactly described as one of what it would be for an AI system to take something to be an object—for it to represent or refer to, and thereby be deferentially oriented toward, something that it takes to be an object, that it takes to be in the world.
+
+This is nothing that any computer system yet imagined can do. Nor do I believe that machine learning, nor any other second-wave AI technologies, nor anything I have seen proposed for third-wave AI, sheds light on it.
+
+But that does not mean we cannot make progress. Several things can be said. Seven, in fact.2
+
+Standards on Genuine Intelligence
+
+ORIENTATION: The system must be oriented toward that which it represents, not merely oriented toward, or involved with, its representation. It must be “intentionally directed toward it,” as philosophers would say. Referring to something is a way of being oriented toward it, so long as the reference is genuine—something I will explore. But reference is only one, particularly targeted, form of orientation. To be more general—to recognize that life is often mundane coping, navigation, and involvement in everyday projects, not theoretical reflection—we could use phenomenological terminology and say that the system must comport itself toward the object. Surely, one might think, a computer can be oriented (or comport itself) toward a simple object, such as a USB stick. If I click a button that ⌈tells⌉ the computer to “copy the selected file to the USB stick in slot A,” and if in ordinary circumstances my so clicking causes the computer to do just that, can we not say that computer was oriented toward the stick?
+
+No, we cannot. Suppose that, just before the command is obeyed, a trickster plucks out the original USB stick and inserts theirs. The problem is not just that the computer would copy the file onto their stick without knowing the difference; it is that it does not have the capacity to distinguish the two cases, has no resources with which to comprehend the situation as different—cannot, that is, distinguish the description “what is in the drive” from the particular object that, at a given instant, satisfies that description.3
+
+It follows, in the present terminology, that the computer has no capacity to deal with the USB stick as an object. If, mid-copy, I rewire the write head, so that instead of writing to the drive, it sprays the bits onto my Facebook page, the computer would again be clueless, and not just in fact, but necessarily.4 And because it would be congenitally clueless, there is no warrant for saying that it was ever oriented toward the stick, as opposed to (at most) being oriented toward the representation of the stick, or the driver mechanism that interacts with it.
+
+How could a computer know the difference between the stick and a description it satisfies (“the stick currently in the drive”), since at the moment of copying there need be no detectable physical difference in its proximal causal envelope between the two—and hence no way, at that moment, for the computer to detect the difference between the right stick and the wrong one? That is exactly what (normatively governed) representation systems are for: to hold systems accountable to, and via a vast network of social practices, to enable systems to behave appropriately toward, that which outstrips immediately causal coupling. To assume that a situation is exhausted by what is causally proximate at any given moment (to pledge a priori allegiance to blanket mechanism, that is) is exactly to be blind to representation, semantics, intentionality, and normativity—blind to being oriented toward the world.5
+
+
+
+APPEARANCE VS. REALITY: What does it take to be oriented toward something? At a minimum, it means that the system must be able to distinguish the object from a representation of it—in order to be deferential toward the former and not toward the latter. That is, it has to be able to distinguish appearance from reality.6 As already noted, it does not suffice to employ quotation or meta-level data structures in such a way that, as outsiders, we can take some of its representations (machinations, behavior, deliberations, whatever) to be about the world and others to be about its representations. The system must recognize (not just ⌈recognize⌉) that the object is different from its representation of it. To take an object as an object rather than an ⌈object⌉, that is—to refer to it as an object—requires “taking it to be out there.” And since in general the object (targeted by its representations) will be beyond effective reach, the system must know that that toward which it is oriented will often be distal—outside the realm of effective connection, outside its immediate causal envelope (once again challenging the adequacy of causalist scientific accounts). Intelligence, that is, must achieve what I dub a “Robert Browning” criterion: to know an object as an object is to know that it exceeds your grasp. Note again that the distal (noneffectively available) nature of semantic content so obviously applies to consciousness that we rarely notice how astonishing it is. What you have “in mind” (a friend, an impending exam, a truck coming round the corner) is not your interior, proximal mental states or processes that represent those phenomena, but the exterior, distal phenomena themselves. Moreover, because even objects to which you may seem causally connected, must, in order to be objects, have a past and future, both of which are beyond effective reach (physics prohibits direct causal connection with either past or future), even objects that are “present” transcend, as objects, that which is locally available.
+
+We saw this divergence in the case of logic: a separation between how the system works (causally, mechanically) and what it is doing (semantically, intentionally, “under interpretation”). The present point is that, in order to be genuinely intelligent—in order, as I will soon say, to be capable of judgment—a system must (i) “know” the difference between the two, and (ii) through use of resources provided by the former, be oriented toward the latter.
+
+
+
+STAKES: Not only must the system be able to distinguish appearance from reality; in order to refer to or be oriented toward an object, the system must defer to that object. To put it in Searle’s phrasing,7 the system must know that when “word” and “world” part company, the world wins.8 Else truth would be sacrificed. In order to stand in a noneffective semantic relation to the distal world and to take there to be an object out there—to take an object as an object, for there to be reference at all—there must be stakes, norms, things that matter. As Haugeland emphasizes, a system that is deferentially oriented toward the world will go to bat for its references being external, will be existentially committed and engaged. We need to know what this means, and to determine whether systems are, before we will be in a position to claim that any systems of our own devising are genuinely intelligent.
+
+
+
+LEGIBILITY: It is a precondition on a system’s taking something to be something, distinguishing appearance or representation from reality, taking things to matter, that it find the object intelligible—or perhaps we could say legible—in the world. What is it to be intelligible or legible? To be a patch or parcel of the world that is registerable within an accountable registrational scheme (more on this below)—that is, to be ontologically sound. Unpacking what that means does not require pledging allegiance to naive realism. We can avail ourselves not only of Kant but of Kuhn, Haugeland, social construction, cultural anthropology, and a spate of other contemporary resources. Ontologically, to be something—an electron, a faux pas, an on-ramp, a committee chair—is to participate in a constituted domain of regularities, rules, practices, configurations of reality in which we, as the epistemic knowers who are registering the world in whatever ways are appropriate to the constituted domain, participate, and to which we are committed. To be an electron is to fit into the whole physical weave of existence that electrons inhabit. To be a move or entity in a game, to use Haugeland’s favorite domain (a knight fork,9 a home base, etc.), can only be what it is within the context of the constituted regime of chess or baseball games. Even scientific or natural kinds, on Haugeland’s (and perhaps Kuhn’s) view, have roles to play in constituting regimes.
+
+
+
+ACTUALITY, POSSIBILITY, IMPOSSIBILITY: If there is to be a significant distinction between “getting an entity right” and failing to do so, there must be some feasible and nonarbitrary way of telling which is which, in particular cases. In fact it requires that the system embrace a three-way distinction, as regards any objects it takes to be objects: a. What is the case about them
+
+b. What is not the case about them, but could be the case (so that saying that such was the case would be false—an error, a mistake, something in need of correction)
+
+c. What could not be the case about them—what is conceptually or ontologically impossible, so that a statement to that effect can be rejected outright, at pains of the whole intelligibility system collapsing (more on this below)
+
+The system must be able to distinguish the actual, the possible, and the impossible—truth, falsehood, and impossibility.10
+
+Research has given us insight into what exists, and has opened up our imaginations to what could be, in virtue of being founded on a set of laws which also dictate what cannot be the case, that rule out what is impossible. Protons cannot be grey, because protons are too small for color to apply. The number four was not seen on Queen St. this afternoon, because numbers are not occurrent. Star Wars movies may suggest that we might someday be able to zip across the universe in hyperdrive, but it is not going to happen.11 No algorithm is ever going to examine all possible states of the chess board; no consistent formal system capable of ⌈stating⌉ its own consistency is going to ⌈prove⌉ its own consistency; and so on.
+
+More pragmatically, some things that are not strictly speaking impossible we take to be impossible—such as the cup of coffee in front of me spontaneously leaping two inches up into the air (and simultaneously growing just enough cooler for energy to be preserved).
+
+Why do we need the impossible, to say nothing of the false, in order for there to be import to things being correct—and thus for a system to be able to distinguish appearance and reality, and thus to be able to take something to be an object? Overall, it has to do with holding the whole system together, not only in order to distinguish ourselves and our representations from what we are thinking about and representing, but at the same time, to be explored in a moment, in order to hold the whole situation we are thinking about to account.
+
+Holding things to account has a pragmatic purpose. If things present as impossible—if the evidence you are presented with, including that delivered by your sensory systems, suggests that something impossible has happened—you double down, check everything, reexamine your means of discovery, find alternative ways to discover the same entities, seek confirmation from other people, and so on. If I were so much as to begin to think that the cup of coffee in front of me leaped up two inches, for example—if my perceptual system were to deliver that hypothesis to my cortex—I would not believe it, would not take the evidence as compelling. Instead I would conclude that I had blinked without realizing it, or that someone had jostled my desk, or that what I drank a moment ago was not coffee, or that an earthquake was underway, or something like that. That is, I would recognize that something “impossible” seemed to happen, but because impossible things do not happen—and this is the crucial fact—I will take that apparent impossibility as evidence that something has gone wrong, that some mistake has been made.12
+
+Multiple Registrations
+
+All ways of registering the world are partial, skewed, appropriate in some circumstances and inappropriate in others. This foundational fact undergirds all knowing, reasoning, and intelligence. Unless a system can shoulder responsibility for acting in constant light of it, we should not trust its deliverances further than we can trust the adequacy of the registration schemes it employs.
+
+The point has strong implications for any practice of integrating multiple data sources, including data mining and all other uses of “Big Data.” Genuine intelligence requires making a seasoned judgment, whenever information is combined from different sources and circumstances, as to how the various data registered the world, how they can be soundly assessed, and what is required in order to integrate their different perspectives in a way that is accountable to the same underlying world. The issue applies at all levels, from the most far-flung collections of international databases to immediately adjacent posts in the same Twitter feed. Moreover, the integration task can never be fully delegated to a meta-level dictionary or translation scheme. Those are merely more registrations—partial, skewed, and contextually appropriate in their own ways. If a system is not itself capable of judgment, then it is we who bear responsibility for the differing perspectives and prejudices of all of its registrational sources, and for the legitimacy of all of its instances of data integration.
+
+Contrary to current fashion, the mere ability to statistically combine data assembled from diverse sources without exercising judgment at each and every step may actually militate against, rather than for, anything we should want to call intelligence.
+
+
+
+In a way, this is no more than Kuhnian normal science. We operate within a registration scheme, hold objects and phenomena to account as being legible in its terms, take suggestions that they are not legible as evidence that something has gone wrong, dig in to repair the mistake, so as to be able to find out something that is correct—and thereby increase our knowledge. But in the present context, it is also relevant to why AI systems will have to be genuinely intelligent if we are to rely on them for general conclusions, because they have to be able not only to operate within registration schemes (ours or theirs), but to hold those registration schemes to account throughout their use of them, lest what they represent or register parts company with what is or could be the case.
+
+Put it this way. There is no “right” ontology—no perfect registration scheme. As detailed in the sidebar on page 90, this fundamental fact has enormous implications for what it is to be intelligent, and for how we should view any system not capable of exercising judgment.
+
+
+
+COMMITMENT: Not only must a system be able to distinguish appearance from reality—right from wrong—but it must care about the difference. This is a point on which Haugeland argued especially vehemently: doing the things we are talking about requires commitment. No creature—neither we nor the systems we build—can just incidentally come to know what is the case, can just happen to treat things as objects. For an AI system to register an object as an object, that is, not only must there must be right and wrong for it, but that difference must matter, to it. Having systems do things that are right and wrong for us, having their actions matter to us—that is easy. That much is true of calculators, GPS devices, databases, and airplane guidance systems. Having things be right or wrong for us seems to be enough for route planning, and even for landing planes; it may be that it will be enough for driverless cars.13 But it will not give the system itself objects, or a world, or intelligence.
+
+For a system to care, its orientation to the world must be backed by a complex constitutive web of normative commitments. The system (knower) must be committed to the known, for starters. That is part of the deference: to take an object as an object, one must defer to the object, in order to sustain the appearance-reality distinction on which knowledge and intelligence, to say nothing of actuality, depend. But the commitments also put conditions on the knower. We must be such that we are committed to tracking things down, going to bat for what is right. Not only are we beholden to the objects, as Haugeland would say; we are also bound by the objects.
+
+Explaining the requisite commitment draws us into existentialism. Being in the world, finding out what it is like, ensuring that what one thinks is in fact the case, and so on, requires existential commitment, without which the whole apparatus would dissipate, and one’s thoughts or representations lose all of their significance—floating free of reality, like frictionless pucks in the void.14 Commitment to the world, that is, constitutes the knower as a knower. The systems we currently use do not need that commitment, because we have it, and it is we who use them. But therein they fail to know, fail to be genuinely intelligent.
+
+
+
+SELF: One more ingredient is necessary. An understander—human, AI, whatever—cannot take an object to be an object until that understander takes itself to be a knower that can take an object to be an object. That is: a certain form of “self awareness” is necessary in order to achieve the requisite detachment to be able to see an object as other, in order for the system to hold itself accountable for being detached and holding the object to account. Again, the point is philosophically familiar, but typically phrased in daunting language (as Haugeland says: “Any disclosing is at once a disclosing of Dasein itself and a disclosing of the being of entities”15). But we can put it simply. In order for us to know about an object: a. It must be here in the world,
+
+b. We must be here in the world, and (recursively)
+
+c. We must know that both we and it are here.
+
+
+
+
+
+It may seem surprising that the full substance of these seven points is not only something we profoundly depend on, but something that is required in order for us to identify the most mundane object as an object. But sure enough we do, and it is. Surprise merely indicates how deeply the ontological assumption underlying first-wave AI has been engrained in our consciousness—not just inscribed in our individual minds, but perhaps incorporated into the world view that undergirds contemporary technological society.
+
+The failures of first-wave AI, and the fact that second-wave AI does not deal with them, should not be taken as undermining the magnitude or importance of the notion of an object in our lives—in our finding the world intelligible, in our being intelligent, in our ability to navigate, reason, and cope. On the contrary, it should heighten our awareness of the magnitude of the historical and sociocultural forces that have made objects so powerful and ubiquitous. That is not to suggest that the notion is innocent. As diverse cultures, poets, constructivists, and myriad others know, there are situations where objectification and reification are gravely problematic.16 But for good or bad—most likely for both—taking the world to consist (perhaps among other things) of objects is a powerful ontological or registrational frame. No attempt to build synthetic intelligences can get very far without engaging with what it involves in its full substance and gravity.
+
+With respect to AI, the success of machine learning has taught us that taking the world to consist of objects is not a necessary presupposition of synthetic or computational devices. More seriously, it has also shown that no genuinely intelligent system can start with an object ontology. If a system is to do justice to the world around it, if it is to understand what it is representing and talking about, it needs to be constructed or evolved in such a way as to earn the ability to register the world in terms of objects: objects grounded in the world, objects integrated into an unutterably rich metaphysical plenum—objects, as we will see, held relentlessly to account.
+
+
+______________
+
+1. By “object,” in this question, I mean nothing very specific. Except that it would lose the etymological connection with “objective,” entity would do as well. That which is registered need not even be discrete or individual. At issue is what it is—what is required—for a system to register anything, as such, in the world. See On the Origin of Objects.
+
+2. This list is not a theory of epistemology, or of existential commitment. In fact it is not a theory at all. The seven (nonindependent) standards are merely properties that understanding and full-blooded intelligence require—criteria that human adults meet, and that synthetic creatures should attain before we should dub them intelligent, and (more urgently) before we cede responsibility to them for tasks requiring genuine intelligence or judgment.
+
+3. For philosophers: the computer is constitutionally unable to distinguish between de dicto and de re interpretations of (the computational analog of) “what is in the drive.”
+
+4. The point would remain even if there were a checksum calculation upon completion of the write; that too could be stealthily mimicked.
+
+5. See the discussion of blanket mechanism in chapter 1 (pp. 3–4).
+
+6. Some philosophers may feel that any distinction between appearance and reality requires a separation between the mind and a mind-independent object or a mind-independent world—contrary to the constructivist sensibilities endorsed throughout. I believe this way of framing the requirements for realism is vastly too strong. There is a huge and highly textured territory between indistinguishability and independence—a territory inhabited, in my view, by all of ontology, that is, by essentially everything.
+
+7. John Searle, Speech Acts: An Essay in the Philosophy of Language (Cambridge: Cambridge University Press, 1969).
+
+8. Some may argue that one never has cognitive access to the world itself, only to representations of it, and therefore that there is no way for the world itself to win. I disagree with the premise, but even if it were true, the conclusion would not follow. The accessibility of the world does not bear on its status as normative arbiter of discrepancy.
+
+9. A chess position in which a knight threatens two or more opposing pieces simultaneously.
+
+10. Haugeland has a more detailed account of this tripartite structure, including an analysis of what he calls the “excluded zone,” in section 12 (p. 331) of “Truth and Rule-Following,” in Having Thought (Cambridge, MA: Harvard University Press, 1998); see also “Truth and Finitude,” in John Haugeland, Dasein Disclosed (Cambridge, MA: Harvard University Press, 2013).
+
+11. Long-distance quantum tunneling would not count as “zipping across the universe,” in my book—but the point is that whatever does happen will have to accord with physical law.
+
+12. This does not mean the world would not ultimately win, if this had in fact happened. Rather, the point is that it takes stronger and stronger evidence to adjust our sense of the world, proportional to the extent of how fundamentally our understanding must be revised.
+
+13. It will surely be enough in sufficiently structured and contained environments. At issue is whether it will be enough to pilot cars in the midst of dense human activity. See the last paragraphs of section 6 of chapter 11 (pp. 126–127).
+
+14. John McDowell, Mind and World, 1996, 11.
+
+15. John Haugeland, “Truth and Finitude,” in Dasein Disclosed (Cambridge, MA: Harvard University Press, 2013), 190; emphases in original.
+
+16. Needless to say, there are problematic particular objects in the world, too: nuclear weapons, lies, a few people some of the time. At stake here is the more general issue of what justice is done to the world to register a patch of it as an object.
