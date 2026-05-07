@@ -8,6 +8,7 @@ Primary artifacts in this folder:
 - `2026-05-05_02-14-37_Claude_Chat_Biosemiotics_legitimacy_debate.md`
 - `2026-05-05_02-14-49_Claude_Chat_Checking_bildung-2.0_repository_for_Langer's_philosophy_book.md`
 - `2026-05-05_02-15-12_Claude_Chat_Peirce's_perspective_on_this.md`
+- `2026-05-05_16-15-23_Claude_Chat_Understanding_Peirce's_philosophical_terminology.md`
 
 Primary recovery artifacts:
 
@@ -15,6 +16,7 @@ Primary recovery artifacts:
 - `extractions/2026-05-05_biosemiotics-full-resolution-traversal.md`
 - `extractions/2026-05-05_langer-full-resolution-traversal.md`
 - `extractions/2026-05-05_peirce-uji-full-resolution-traversal.md`
+- `extractions/2026-05-05_peirce-terminology-triangle-hoffmeyer-full-resolution-traversal.md`
 - `extractions/2026-05-05_actual-questions.md`
 - `extractions/2026-05-05_source-verification-queue.md`
 - `extractions/2026-05-05_candidate-promotions.md`
@@ -27,6 +29,7 @@ May 5 is not one summary target. It is a full-resolution day with several live r
 - **Biosemiotics:** starts as legitimacy/gene-information debate, becomes a territorial map across biology, AI, humanities, Deacon, Cassirer/Cusanus, cognitive linguistics, and Langer.
 - **Langer:** guided reading of *Philosophy in a New Key* Chapters II-III, especially sign/symbol, symbolic transformation, Helen Keller, concept/conception, and language.
 - **Peirce/Uji:** formal-semiotic and comparative pass: EG/category theory, LLM/KBP critique, Peirce 1867 four-pass reading, Dogen *Uji* four-pass reading, and Peirce-Dogen comparison.
+- **Peirce terminology / triangle / Hoffmeyer:** begins as a Peirce 1867 vocabulary repair, then becomes a bridge pass through Langer Chapter IV, Cassirer PSF/Humboldt/copula, cognitive linguistics as confirmation surface, and Hoffmeyer as generative biosemiotics surface.
 
 ## Working Form Discovered
 
@@ -63,6 +66,8 @@ For source work:
 - Stengers Chapter 5 / conveyance and perceptual object.
 - Langer Chapter III / concept versus conception and language as transparent combinatorial symbolism.
 - Peirce 1867 / prescision, ground, correlate, interpretant.
+- Cassirer Chapter V / Satz, copula, predicative synthesis, and Peirce 1867 §4.
+- Hoffmeyer Chapter 2-4 / semiotic causality, gene-information critique, code-duality.
 - Dogen *Uji* / 有時, 經歴, 究盡, 盡力.
 
 For method work:
@@ -79,6 +84,9 @@ For verification:
 - EG/category-theory software and papers;
 - Cusa-Leibniz-Whitehead lineage claims;
 - Langer/Macy/cybernetics history.
+- Peirce recovery-wave historiography and 1940s reception of late Peirce.
+- Cassirer/Peirce Kant-copula convergence, including Cassirer's Brugmann etymology claims.
+- Hoffmeyer citations around Sterelny-Griffiths, Pattee, Buss, Bickhard-Campbell, and code-duality.
 
 ## Caution Zones
 
@@ -90,4 +98,4 @@ For verification:
 
 ## Best Next Move
 
-If returning to May 5, verify one source-near strand in full before doing more synthesis. The cleanest first candidates are Langer Chapter III or Peirce 1867, because the chat already has compact pass structure and the source units are bounded.
+If returning to May 5, verify one source-near strand in full before doing more synthesis. The cleanest first candidates are Peirce 1867, Langer Chapters III-IV, Cassirer Chapter V on the copula, or Hoffmeyer "Sign and Cause." The new later chat makes the Cassirer and Hoffmeyer candidates more structurally important than they looked after the first four exports.

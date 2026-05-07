@@ -1,0 +1,44 @@
+# English Reader Draft: Вместо выводов
+
+Status: reader draft; not quotation-grade.
+Source: ../cleaned/020-vmesto-vyvodov.txt
+Checked source: page-image-proofed cleaned Russian, scans 267-271, printed pages 266-270.
+Use: discussion and audiobook/TTS preparation.
+Apparatus boundary: glossary, handles, and threads require separate checked encounters.
+
+## Instead of Conclusions
+
+The idea that the starting point of any semiotic system is not a separate isolated sign, or word, but the relation of at least two signs, forces us to look differently at the fundamental foundations of semiosis. The starting point turns out to be not an individual model, but semiotic space. This space is filled with a conglomerate of elements standing in the most diverse relations to one another. They may appear as colliding meanings, oscillating in the space between complete identity and absolute non-contact.
+
+These polylingual texts simultaneously include both possibilities. One and the same text may be in a state of non-intersection with respect to one semantic series, and in a state of identity with respect to another. This diversity of possible connections among semantic elements creates volumetric meaning, which is grasped fully only from the relation of all elements to one another and of each of them to the whole. In addition, one should keep in mind that the system possesses memory of its past states and a potential "premonition" of the future. Thus semantic space is multi-volumetric in both the synchronic and chronological respects. It has blurred boundaries and the capacity to be included in explosive processes.
+
+A system that has passed through the stage of self-description undergoes changes. It attributes clear boundaries to itself and a much higher degree of unification. Yet self-description can be separated from the state preceding it only theoretically. In fact, both levels continuously influence one another.
+
+The self-description of a culture makes its boundary a fact of self-consciousness. This can be compared with blurred boundaries on a real map of the spread of languages and with their clear division, for example, on a political map.
+
+The moment of self-consciousness gives the boundaries of cultures definiteness, and the inclusion of state-political considerations has repeatedly given the question a dramatic character.
+
+Earlier we spoke of binary and ternary cultural systems. Their passage through the critical line of explosion will differ. In ternary systems, explosive processes rarely embrace the whole thickness of culture. As a rule, what occurs here is the simultaneous combination of explosion in some cultural spheres and gradual development in others. The collapse of the Napoleonic empire, for example, accompanied by a formal explosion in politics, state structure, and culture in the broadest sphere, did not touch ownership of lands sold during the years of the revolution as "national property."
+
+One could also point to how the Roman structure of city power stubbornly grew through the many vicissitudes of barbarian invasions and, in the final account, transformed beyond recognition, preserved continuous succession. This capacity of the culture that grew on the basis of the Roman Empire to preserve immutability in change, and to make immutability a form of change, left its imprint on the root properties of Western European culture. Even attempts at absolute reconstruction of the whole space of life, such as Cromwell's religious-social utopia or the explosion of Jacobin dictatorship, in essence embraced only quite limited spheres of life. Karamzin already noted that while passions boiled in the National Assembly and the theater, the Parisian street around the Palais-Royal lived a cheerful life far from politics.
+
+For Russian culture, with its binary structure, an entirely different self-evaluation is characteristic. Even where empirical research discovers multi-factor and gradual processes, at the level of self-consciousness we encounter the idea of the complete and unconditional destruction of what preceded and the apocalyptic birth of the new.
+
+The theorists of Marxism wrote that the transition from capitalism to socialism would inevitably have the character of explosion. This was justified by the claim that all other formations arose within the framework of preceding stages, whereas socialism begins an entirely new period. Its emergence is possible only on the ruins, not in the womb, of preceding history. It was also pointed out that both feudal and bourgeois orders first arose in the economy and only afterward received state-legislative form. But here there occurred a curious sleight of hand: examples of the maturation of a new structure in the depths of the old were drawn from the history that grew in the space of the Roman Empire and its cultural heirs, while the theory of socialism "in one separately taken country" was argued from facts of Russian history in the present century, that is, from a history with a clearly binary self-understanding.
+
+Here it should first of all be noted that the idea of the impossibility of socialism arising within capitalism diverged, on the one hand, from the ideas of Western social democracy, and on the other clearly recalled an idea periodically repeated in Russian history. The apocalyptic words about "a new heaven" and "a new earth" enchanted many social-religious movements throughout history. In the West, however, these were as a rule peripheral religious movements, periodically spilling to the surface but never becoming for long the dominant forces of great historical cultures. Russian culture understands itself in the categories of explosion.
+
+Perhaps the most interesting point in this respect is the moment we are now living through. Theoretically, it is understood as the victory of real, "natural" development over an unsuccessful historical experiment. The slogan of this epoch seems called to be the old physiocratic rule: `laissez faire, laissez passer`, meaning "do not interfere," "leave it to its own movement."
+
+In Western Europe, the idea of the independence of economic development was organically connected with gradual development in time, with the refusal to "whip history along." In our conditions, this same slogan is burdened by the idea of state intervention and the instantaneous overcoming of the space of history in the shortest possible time, whether in 500 days or in some other period dictated in advance to history. Psychologically, the foundation here is the same as in Peter the Great's idea of "catching up with and overtaking Europe" in the period between the Battle of Narva and the Peace of Nystad, or in the more memorable slogan of "five-year plans in four years." We want to carry out even gradual development by applying the technique of explosion. This, however, is not the result of anyone's lack of thought, but the stern dictate of a binary historical structure.
+
+The fundamental change in the relations of Eastern and Western Europe taking place before our eyes may perhaps make it possible to pass over to a pan-European ternary system and to abandon the ideal of destroying "the old world to its foundations, and then" building a new one on its ruins. To miss this possibility would be a historical catastrophe.
+
+## Pass Notes
+
+- Source status: translated from the page-image-proofed cleaned Russian, scans 267-271, printed pages 266-270; no page-image recheck was needed during this reader pass.
+- Quotation handling: Marxist transition claims, `laissez faire, laissez passer`, Peter the Great's catch-up formula, five-year-plan slogan, and the revolutionary `old world` line are rendered for reader continuity; dense bibliographic apparatus is absent from the source section aside from the final explanatory note.
+- Term pressure: kept `semiotic system`, `relation`, `semiotic space`, `colliding meanings`, `polylingual texts`, `volumetric meaning`, `memory`, `premonition`, `self-description`, `boundary`, `binary`, `ternary`, `explosion`, `gradual development`, `self-consciousness`, and `technique of explosion`.
+- Apparatus boundary: this closing section strongly pressures later apparatus on semiosis as relation rather than isolated sign, self-description as boundary formation, ternary continuity, Russian binary self-understanding, and the attempt to enact gradualism explosively, but no glossary or handle promotion is made here.
+- Encounter candidates: strong later candidates include semiotic space as starting point, blurred versus political boundaries, Napoleonic property continuity, Roman urban continuity, Russian apocalyptic self-description, and `gradual development by the technique of explosion`.
+- TTS cleanup candidates: later audio export may need pronunciation support for Napoleonic, Cromwell, Jacobin, Karamzin, Palais-Royal, Marxism, laissez faire, laissez passer, Peter the Great, Narva, and Nystad.

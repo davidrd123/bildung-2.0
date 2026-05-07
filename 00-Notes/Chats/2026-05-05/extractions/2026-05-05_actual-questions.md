@@ -8,6 +8,7 @@ Primary traversal artifacts:
 - `2026-05-05_biosemiotics-full-resolution-traversal.md`
 - `2026-05-05_langer-full-resolution-traversal.md`
 - `2026-05-05_peirce-uji-full-resolution-traversal.md`
+- `2026-05-05_peirce-terminology-triangle-hoffmeyer-full-resolution-traversal.md`
 
 ## The Actual Questions
 
@@ -101,6 +102,15 @@ Anchors:
 
 Working answer: Hoffmeyer gives biological depth; Langer gives human symbolic discontinuity; Deacon gives a biological account of the symbolic threshold; Peirce supplies the formal semiotic apparatus.
 
+Later pressure from the Peirce terminology chat: Cassirer is not optional background here. The triangle becomes Peirce-Cassirer-Langer on the human/cultural-form side and Peirce-Hoffmeyer-Deacon on the biological side. Langer is partly a Cassirer conduit, while Hoffmeyer is using a different Peirce, the 1890s metaphysical Peirce rather than the 1867 logical Peirce.
+
+Additional anchors:
+
+- Langer Chapter IV trade-off thesis: [Peirce terminology chat line 675](../2026-05-05_16-15-23_Claude_Chat_Understanding_Peirce's_philosophical_terminology.md:675)
+- Cassirer as reframing Langer/Peirce: [Peirce terminology chat line 769](../2026-05-05_16-15-23_Claude_Chat_Understanding_Peirce's_philosophical_terminology.md:769)
+- Hoffmeyer as generative switch: [Peirce terminology chat line 1274](../2026-05-05_16-15-23_Claude_Chat_Understanding_Peirce's_philosophical_terminology.md:1274)
+- Langer-Hoffmeyer negation asymmetry: [Peirce terminology chat line 1524](../2026-05-05_16-15-23_Claude_Chat_Understanding_Peirce's_philosophical_terminology.md:1524)
+
 ### 8. What does Peirce 1867 provide as a touchstone?
 
 The Peirce chat treats the 1867 paper as a keystone for later semeiotic, diagrammatic logic, and comparative work.
@@ -113,6 +123,14 @@ Anchors:
 - Pass 4 forward arrows: [Peirce chat line 1847](../2026-05-05_02-15-12_Claude_Chat_Peirce's_perspective_on_this.md:1847)
 
 Working answer: it provides a compact analytical instrument: prescision, ground, correlate, interpretant, and the derivation of triadicity.
+
+Later pressure from the Peirce terminology chat: 1867 also becomes a comparative instrument for Cassirer's copula/predicative-synthesis material. The most concrete shared site is not "semiotics" in general but the Kantian copula site: objective unity as predicative synthesis.
+
+Additional anchors:
+
+- terminology primer: [Peirce terminology chat line 9](../2026-05-05_16-15-23_Claude_Chat_Understanding_Peirce's_philosophical_terminology.md:9)
+- Pass 4 restart: [Peirce terminology chat line 400](../2026-05-05_16-15-23_Claude_Chat_Understanding_Peirce's_philosophical_terminology.md:400)
+- Cassirer Chapter V copula convergence: [Peirce terminology chat line 1025](../2026-05-05_16-15-23_Claude_Chat_Understanding_Peirce's_philosophical_terminology.md:1025)
 
 ### 9. What does Dogen *Uji* add that Peirce alone does not?
 
@@ -140,6 +158,19 @@ Anchors:
 - Non-Western comparative expansion: [Peirce chat line 1348](../2026-05-05_02-15-12_Claude_Chat_Peirce's_perspective_on_this.md:1348)
 
 Working answer: the lineage claim is powerful but high-risk. It should remain a question-form until source and secondary literature support it.
+
+### 11. When is cross-tradition projection generative rather than merely confirmatory?
+
+The later Peirce terminology chat introduces a methodological check. Cognitive linguistics can confirm Cassirer/Humboldt/Peirce claims by giving empirical mechanisms, but that may not generate new work. Biosemiotics, by contrast, appears generative when it opens problems around causation, gene-information, code-duality, and organism boundaries that the Peirce-Cassirer-Langer triangle cannot answer alone.
+
+Anchors:
+
+- cognitive linguistics projection: [Peirce terminology chat line 1103](../2026-05-05_16-15-23_Claude_Chat_Understanding_Peirce's_philosophical_terminology.md:1103)
+- confirmation/generation correction: [Peirce terminology chat line 1193](../2026-05-05_16-15-23_Claude_Chat_Understanding_Peirce's_philosophical_terminology.md:1193)
+- switch to Hoffmeyer: [Peirce terminology chat line 1274](../2026-05-05_16-15-23_Claude_Chat_Understanding_Peirce's_philosophical_terminology.md:1274)
+- Hoffmeyer "Sign and Cause": [Peirce terminology chat line 1398](../2026-05-05_16-15-23_Claude_Chat_Understanding_Peirce's_philosophical_terminology.md:1398)
+
+Working answer: a projection is generative only if it poses a question or solves a problem the earlier apparatus could not. If it only translates an older claim into newer vocabulary, it belongs in confirmation/support, not promotion.
 
 ## What Not To Do Yet
 

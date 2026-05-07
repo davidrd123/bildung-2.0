@@ -16,6 +16,7 @@ instruction generation.
 - Preserves all of Peirce's prose and argument structure
 - Expands section markers and compact notation for speech (`§1.` -> `Section 1.`,
   `∴` -> `Therefore`, `P'` -> `P prime`, `P^iv` -> `P four`)
+- Transliterates isolated Greek into Latin-script speech form
 - Does NOT split sentences, simplify vocabulary, or add reading instructions
 
 ## What it does NOT do

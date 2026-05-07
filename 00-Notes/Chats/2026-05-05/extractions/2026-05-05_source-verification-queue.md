@@ -18,12 +18,13 @@ Primary anchor file: `2026-05-05_stengers-full-resolution-traversal.md`.
 
 ### Langer source checks
 
-Verify Chapter II and III chunks against local Langer text:
+Verify Chapter II, III, and IV chunks against local Langer text:
 
 - Chapter II: sign/symbol cut, Hobie Baker, symbolic transformation as primary need, ritual/magic/Freud pivot.
 - Chapter III: meaning as function, sign analysis, Helen Keller, concept/conception, pictures, language, discursive/presentational setup.
+- Chapter IV: discursive/presentational distinction, non-discursive cognition, music/art/feeling, Gestalt psychology, and the trade-off against Peirce's unified interpretant apparatus.
 
-Primary anchor file: `2026-05-05_langer-full-resolution-traversal.md`.
+Primary anchor files: `2026-05-05_langer-full-resolution-traversal.md`; `2026-05-05_peirce-terminology-triangle-hoffmeyer-full-resolution-traversal.md`.
 
 ### Peirce 1867 source checks
 
@@ -33,8 +34,33 @@ Verify all four passes against the actual Peirce text:
 - Pass 2 derivation: §§1-10 transitions.
 - Pass 3 terms: prescision, ground, correlate, interpretant.
 - Pass 4 forward arrows: Firstness/Secondness/Thirdness, sign classifications, existential graphs, pragmatic maxim.
+- Later terminology primer: manifold, predicate, immediate/mediate, pure abstraction, correlate, interpretant.
+- Cassirer comparison: whether Peirce 1867 §4 is specifically tied to Kant B141-142 in the way the chat claims.
 
-Primary anchor file: `2026-05-05_peirce-uji-full-resolution-traversal.md`.
+Primary anchor files: `2026-05-05_peirce-uji-full-resolution-traversal.md`; `2026-05-05_peirce-terminology-triangle-hoffmeyer-full-resolution-traversal.md`.
+
+### Cassirer PSF source checks
+
+Verify before promoting the Peirce-Cassirer convergence:
+
+- Volume I Einleitung I pages 1-16: function before object, critique of culture, symbolic form, functional unity.
+- Humboldt section: Energeia/Ergon, Weltansicht, Satz as bearer of sense, objectivation.
+- Chapter V normalized surfaces 0151-0153: sentence over word, relation-expression, copula, Kant quotation, predicative synthesis, being-language history.
+- Brugmann etymology claims and the old `forma dat esse rei` thread.
+- Scope warning: keep PSF Volume I as localized probe, not controlling authority for adjacent work.
+
+Primary anchor file: `2026-05-05_peirce-terminology-triangle-hoffmeyer-full-resolution-traversal.md`.
+
+### Hoffmeyer source checks
+
+Verify before promoting biosemiotics claims:
+
+- `010-on-biosemiotics.txt`: Peirce/Uexkull/Bateson genealogy, Deacon symbolic threshold, semiosphere definition, gene-as-information framing.
+- `012-sign-and-cause.txt`: semiotic causality vs efficient causality, final cause, relation realism, Sterelny-Griffiths information argument, Bickhard-Campbell, entropy-law-as-final-cause.
+- `013-code-duality.txt`: Pattee epistemic cut, digital/analog code-duality, negation/abstraction asymmetry, Buss and somatic embryogenesis, semiotic fitness.
+- Langer-Hoffmeyer convergence on negation as a digital/discursive operation.
+
+Primary anchor file: `2026-05-05_peirce-terminology-triangle-hoffmeyer-full-resolution-traversal.md`.
 
 ### Dogen Uji source checks
 
@@ -78,6 +104,8 @@ These are high-risk synthesis and require secondary literature:
 - Macy/cybernetics as foil to Langer.
 - McGilchrist as adjacent but less operational.
 - Non-Western comparative recommendations: Hua-yen, Dogen, Kyoto School, Mou Zongsan, Nishida, Indian and Korean candidates.
+- Peirce recovery-wave historiography, especially Langer's 1940s context and reception of existential graphs / metaphysical Peirce / phaneroscopy.
+- Delayed-recognition typology: Grassmann, Bolzano, Vico, Whitehead, Cassirer, Leibniz.
 
 ## Chat-Provenance Checks
 
@@ -90,6 +118,6 @@ Treat these as unverified until matched to actual repo state or source files:
 
 ## Verification Order
 
-1. Verify source-near reading passes first: Stengers, Langer, Peirce 1867, Uji.
+1. Verify source-near reading passes first: Stengers, Langer, Peirce 1867, Uji, Cassirer Chapter V, Hoffmeyer "Sign and Cause."
 2. Verify factual/literature claims only if they are needed for a source note or reading route.
 3. Leave broad historical synthesis unpromoted until several source-near anchors independently require it.

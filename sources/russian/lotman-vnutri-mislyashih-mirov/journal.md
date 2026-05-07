@@ -550,3 +550,13 @@ TTS speech-normalization pass:
 - smoothed the few model headings and schematic lists that would otherwise read
   as raw punctuation; no source-facing reader drafts or apparatus files were
   changed
+
+TTS English filename pass:
+
+- changed generated `source/tts/*.md` filenames to English slugs while
+  preserving sequence numbers
+- kept `source/reader-en/*.md` filenames in their source-oriented
+  transliterated form; `source/tts/manifest.yaml` now records both the source
+  reader filename and the English TTS filename
+- the purpose is operational legibility for audiobook players, file browsers,
+  and listening queues, not a new source-facing apparatus layer

@@ -1,0 +1,121 @@
+# Reader-en translation pass manifest.
+# Access layer only; apparatus promotion requires checked encounters.
+---
+pass:
+  name: lotman-kultura-reader-en
+  status: complete
+  purpose: "English reader drafts for discussion and audiobook/TTS preparation"
+  source_status: "page-image-proofed Russian source under ../cleaned"
+  apparatus_boundary: "reader-en drafts do not seed glossary, handles, threads, or encounter claims"
+  source_sections: "../sections.yaml"
+sections:
+  - seq: 0
+    source_file: "../cleaned/000-front-matter.txt"
+    reader_file: null
+    status: skip
+    note: "front matter; translate only if needed for bibliographic audio"
+  - seq: 1
+    source_file: "../cleaned/001-postanovka-problemy.txt"
+    reader_file: "001-postanovka-problemy.md"
+    status: drafted
+    note: "first calibration reader-en draft; page-image-proofed source, scans 008-012, printed pages 7-11"
+  - seq: 2
+    source_file: "../cleaned/002-sistema-s-odnim-yazykom.txt"
+    reader_file: "002-sistema-s-odnim-yazykom.md"
+    status: drafted
+    note: "second calibration reader-en draft; early core chapter on the one-language model, scans 013-017, printed pages 12-16"
+  - seq: 3
+    source_file: "../cleaned/003-postepennyy-progress.txt"
+    reader_file: "003-postepennyy-progress.md"
+    status: drafted
+    note: "third reader-en draft; gradual progress chapter with literary quotations, scans 018-025, printed pages 17-24"
+  - seq: 4
+    source_file: "../cleaned/004-preryvnoe-i-nepreryvnoe.txt"
+    reader_file: "004-preryvnoe-i-nepreryvnoe.md"
+    status: drafted
+    note: "fourth reader-en draft; continuity/discontinuity chapter, scans 026-035, printed pages 25-34"
+  - seq: 5
+    source_file: "../cleaned/005-semanticheskoe-peresechenie-kak-smyslovoy-vzryv.txt"
+    reader_file: "005-semanticheskoe-peresechenie-kak-smyslovoy-vzryv.md"
+    status: drafted
+    note: "fifth reader-en draft; semantic intersection/inspiration chapter, scans 036-044, printed pages 35-43"
+  - seq: 6
+    source_file: "../cleaned/006-myslyashchiy-trostnik.txt"
+    reader_file: "006-myslyashchiy-trostnik.md"
+    status: drafted
+    note: "sixth reader-en draft; thinking reed chapter, scans 045-052, printed pages 44-51"
+  - seq: 7
+    source_file: "../cleaned/007-mir-sobstvennykh-imen.txt"
+    reader_file: "007-mir-sobstvennykh-imen.md"
+    status: drafted
+    note: "seventh reader-en draft; proper names chapter, scans 053-064, printed pages 52-63"
+  - seq: 8
+    source_file: "../cleaned/008-durak-i-sumasshedshiy.txt"
+    reader_file: "008-durak-i-sumasshedshiy.md"
+    status: drafted
+    note: "eighth reader-en draft; long chapter on fool and madman, scans 065-104, printed pages 64-103"
+  - seq: 9
+    source_file: "../cleaned/009-tekst-v-tekste-vstavnaya-glava.txt"
+    reader_file: "009-tekst-v-tekste-vstavnaya-glava.md"
+    status: drafted
+    note: "ninth reader-en draft; text-in-text inserted chapter, scans 105-123, printed pages 104-122"
+  - seq: 10
+    source_file: "../cleaned/010-perevernutyy-obraz.txt"
+    reader_file: "010-perevernutyy-obraz.md"
+    status: drafted
+    note: "tenth reader-en draft; long inverted-image chapter, scans 124-176, printed pages 123-175"
+  - seq: 11
+    source_file: "../cleaned/011-logika-vzryva.txt"
+    reader_file: "011-logika-vzryva.md"
+    status: drafted
+    note: "eleventh reader-en draft; logic of explosion chapter, scans 177-190, printed pages 176-189"
+  - seq: 12
+    source_file: "../cleaned/012-moment-nepredskazuemosti.txt"
+    reader_file: "012-moment-nepredskazuemosti.md"
+    status: drafted
+    note: "twelfth reader-en draft; moment of unpredictability chapter, scans 191-205, printed pages 190-204"
+  - seq: 13
+    source_file: "../cleaned/013-vnutrennie-struktury-i-vneshnie-vliyaniya.txt"
+    reader_file: "013-vnutrennie-struktury-i-vneshnie-vliyaniya.md"
+    status: drafted
+    note: "thirteenth reader-en draft; internal structures and external influences, scans 206-213, printed pages 205-212"
+  - seq: 14
+    source_file: "../cleaned/014-dve-formy-dinamiki.txt"
+    reader_file: "014-dve-formy-dinamiki.md"
+    status: drafted
+    note: "fourteenth reader-en draft; two forms of dynamics, scans 214-219, printed pages 213-218"
+  - seq: 15
+    source_file: "../cleaned/015-son-semioticheskoe-okno.txt"
+    reader_file: "015-son-semioticheskoe-okno.md"
+    status: drafted
+    note: "fifteenth reader-en draft; dream as semiotic window, scans 220-227, printed pages 219-226"
+  - seq: 16
+    source_file: "../cleaned/016-ya-i-ya.txt"
+    reader_file: "016-ya-i-ya.md"
+    status: drafted
+    note: "sixteenth reader-en draft; I and I chapter, scans 228-232, printed pages 227-231"
+  - seq: 17
+    source_file: "../cleaned/017-fenomen-iskusstva.txt"
+    reader_file: "017-fenomen-iskusstva.md"
+    status: drafted
+    note: "seventeenth reader-en draft; phenomenon of art chapter, scans 233-248, printed pages 232-247"
+  - seq: 18
+    source_file: "../cleaned/018-konets-kak-zvuchno-eto-slovo.txt"
+    reader_file: "018-konets-kak-zvuchno-eto-slovo.md"
+    status: drafted
+    note: "eighteenth reader-en draft; ending chapter, scans 249-257, printed pages 248-256"
+  - seq: 19
+    source_file: "../cleaned/019-perspektivy.txt"
+    reader_file: "019-perspektivy.md"
+    status: drafted
+    note: "nineteenth reader-en draft; perspectives chapter, scans 258-266, printed pages 257-265"
+  - seq: 20
+    source_file: "../cleaned/020-vmesto-vyvodov.txt"
+    reader_file: "020-vmesto-vyvodov.md"
+    status: drafted
+    note: "twentieth reader-en draft; instead of conclusions, scans 267-271, printed pages 266-270"
+  - seq: 21
+    source_file: "../cleaned/021-contents-and-colophon.txt"
+    reader_file: null
+    status: skip
+    note: "contents and colophon; not a reader chapter"

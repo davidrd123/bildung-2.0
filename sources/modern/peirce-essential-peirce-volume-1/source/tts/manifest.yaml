@@ -23,3 +23,13 @@ exports:
     tts_file: "012-some-consequences-of-four-incapacities-1868.txt"
     status: exported
     note: "page markers stripped, headnote removed, footnotes marked/reordered from page layout, syllogism notation and fractions expanded for speech"
+  - seq: 13
+    source_file: "../image-grounded-cleaned/013-grounds-of-validity-of-the-laws-of-logic-1869.txt"
+    tts_file: "013-grounds-of-validity-of-the-laws-of-logic-1869.txt"
+    status: exported
+    note: "page markers stripped, headnote removed, Peirce footnotes marked/reordered from page layout, syllogism notation and fractions expanded for speech"
+  - seq: 14
+    source_file: "../image-grounded-cleaned/014-frasers-the-works-of-george-berkeley-1871.txt"
+    tts_file: "014-frasers-the-works-of-george-berkeley-1871.txt"
+    status: exported
+    note: "page markers stripped, headnote removed, Peirce footnotes marked/reordered from page layout, Greek transliterated for speech"

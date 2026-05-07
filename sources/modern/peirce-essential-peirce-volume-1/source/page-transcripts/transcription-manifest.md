@@ -144,6 +144,24 @@ Status vocabulary:
 | 165 | 121 | `165.txt` | image-transcribed | Running header omitted; scientific method contrast and first advantages passage preserved. |
 | 166 | 122 | `166.txt` | image-transcribed | Running header omitted; authority/tenacity advantages and choice passage preserved. |
 | 167 | 123 | `167.txt` | image-transcribed | Running header omitted; final integrity-of-belief and logical-method conclusion preserved. |
+| 168 | 124 | `168.txt` | image-transcribed | Start of "How to Make Our Ideas Clear"; headnote corrected from image and section I opening preserved. |
+| 169 | 125 | `169.txt` | image-transcribed | Running header omitted; clearness/distinctness critique and Cartesian transition preserved. |
+| 170 | 126 | `170.txt` | image-transcribed | Running header omitted; Descartes/Leibnitz discussion and clearness-of-ideas argument preserved. |
+| 171 | 127 | `171.txt` | image-transcribed | Running header omitted; clear-idea warning, Melusina passage, and section II opening preserved. |
+| 172 | 128 | `172.txt` | image-transcribed | Running header omitted; doubt/belief examples and music analogy opening preserved. |
+| 173 | 129 | `173.txt` | image-transcribed | Running header omitted; thought as melody, belief properties, and habit conclusion preserved. |
+| 174 | 130 | `174.txt` | image-transcribed | Running header omitted; false-distinction argument and Fig. 1/Fig. 2 dot arrays noted. |
+| 175 | 131 | `175.txt` | image-transcribed | Running header omitted; habit/practical-effects rule and transubstantiation example preserved. |
+| 176 | 132 | `176.txt` | image-transcribed | Running header omitted; pragmatic maxim, section III opening, hardness example, and page-final split preserved. |
+| 177 | 133 | `177.txt` | image-transcribed | Running header omitted; free-will/weight examples and force discussion opening preserved. |
+| 178 | 134 | `178.txt` | image-transcribed | Running header omitted; parallelogram-of-forces explanation and Fig. 3/Fig. 4 diagrams noted. |
+| 179 | 135 | `179.txt` | image-transcribed | Running header omitted; Fig. 5 diagram, force-law statement, footnote, and page-final split preserved. |
+| 180 | 136 | `180.txt` | image-transcribed | Running header omitted; force clarification, section IV opening, and reality definition setup preserved. |
+| 181 | 137 | `181.txt` | image-transcribed | Running header omitted; reality/truth discussion, Scotus Erigena example, and page-final split preserved. |
+| 182 | 138 | `182.txt` | image-transcribed | Running header omitted; Abelard/scholastic truth critique and convergence-of-inquiry passage preserved. |
+| 183 | 139 | `183.txt` | image-transcribed | Running header omitted; final-opinion reality account, Gray quotation, and Fate footnote preserved. |
+| 184 | 140 | `184.txt` | image-transcribed | Running header omitted; knowability objection, remote considerations reply, and closing transition preserved. |
+| 185 | 141 | `185.txt` | image-transcribed | Running header omitted; final threshold-of-scientific-logic paragraph preserved. |
 
 ## Batch Notes
 
@@ -161,4 +179,6 @@ Status vocabulary:
 - Assembled image-grounded cleaned section: `source/image-grounded-cleaned/015-on-a-new-class-of-observations-suggested-by-the-principles-of-logic-1877.txt`.
 - Completed batch: PDF pages 153-167 / printed pages 109-123, `016-the-fixation-of-belief-1877`.
 - Assembled image-grounded cleaned section: `source/image-grounded-cleaned/016-the-fixation-of-belief-1877.txt`.
+- Completed batch: PDF pages 168-185 / printed pages 124-141, `017-how-to-make-our-ideas-clear-1878`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/017-how-to-make-our-ideas-clear-1878.txt`.
 - Existing `source/raw` and `source/cleaned` files are draft witnesses only for this workflow.

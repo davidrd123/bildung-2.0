@@ -1,5 +1,669 @@
 # Lotman - *Культура и взрыв* Journal
 
+## 2026-05-06 - Reader-En Completion Audit
+
+Audit result:
+
+- Full main-chapter reader-en pass complete for sections `001` through `020`.
+- `source/reader-en/manifest.yaml` validates as YAML and now marks the pass
+  complete; all main chapters are `drafted`, while front matter and back matter
+  remain `skip`.
+- All twenty reader files exist under `source/reader-en/` and use the standard
+  metadata header plus `## Pass Notes`.
+- No page-marker, scan-marker, source-check, TODO, or OCR residue remains in the
+  numbered reader drafts.
+- `git diff --check` is clean for `source/reader-en/` and `journal.md`.
+- No glossary, handle, thread dossier, or TTS layer was created during this
+  pass.
+
+Remaining boundary:
+
+- These are reader drafts for English access and later TTS preparation, not
+  quotation-grade critical translations or apparatus claims.
+
+## 2026-05-06 - Reader-En Batch 020
+
+Completed:
+
+- `source/reader-en/020-vmesto-vyvodov.md`
+  - source: `source/cleaned/020-vmesto-vyvodov.txt`
+  - scans 267-271
+  - printed pages 266-270
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Preserved the closing synthesis: semiosis begins from a relation in semiotic
+  space, self-description sharpens cultural boundaries, and binary/ternary
+  systems pass differently through explosion.
+- Kept the Napoleonic property, Roman city continuity, Cromwell/Jacobin,
+  Karamzin, Marxism, socialism-in-one-country, `laissez faire`, Peter/Narva,
+  and five-year-plan examples in the main flow.
+- Logged semiosis as relation, self-description as boundary formation,
+  ternary continuity, Russian binary self-understanding, and gradual
+  development by explosive technique as later checked-encounter candidates.
+
+Next continuation point:
+
+- Completion audit of the full reader-en layer.
+
+## 2026-05-06 - Reader-En Batch 019
+
+Completed:
+
+- `source/reader-en/019-perspektivy.md`
+  - source: `source/cleaned/019-perspektivy.txt`
+  - scans 258-266
+  - printed pages 257-265
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Preserved the chapter's binary/ternary structure distinction and its link to
+  utopia, apocalypse, history, jurisprudence, mercy, and law.
+- Kept the Pushkin/Masha, *Angelo*, Gogol, Tolstoy/Akim, Savonarola, Krylov,
+  Ostrovsky, Chekhov, Gorbachev, and `500 days` references in the main flow.
+- Compressed dense citation apparatus and long quotations where the conceptual
+  role was clear.
+- Logged mercy versus justice, anti-juridical Russian literary tradition,
+  terror as forced leap, Krylov's sober third path, and binary-to-ternary
+  transition as later checked-encounter candidates.
+
+Next continuation point:
+
+- Draft `020-vmesto-vyvodov.md`.
+
+## 2026-05-06 - Reader-En Batch 018
+
+Completed:
+
+- `source/reader-en/018-konets-kak-zvuchno-eto-slovo.md`
+  - source: `source/cleaned/018-konets-kak-zvuchno-eto-slovo.txt`
+  - scans 249-257
+  - printed pages 248-256
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Preserved the chapter's central chain: ending as condition of meaning, death
+  as reality's analogue to literary ending, cyclic versus linear death-rebirth,
+  heroic death/suicide, and death/sex as formal cultural languages.
+- Translated or compressed the Lermontov, Pushkin, Blok, Tvardovsky,
+  Baratynsky, Shakespeare/Falstaff, Shamil, Vovelle, and Freudian examples for
+  reader continuity.
+- Logged ending/text boundary, death as language, heroic madness, suicide, and
+  sex as metaphor of culture as later checked-encounter candidates.
+
+Next continuation point:
+
+- Draft `019-perspektivy.md`.
+
+## 2026-05-06 - Reader-En Batch 017
+
+Completed:
+
+- `source/reader-en/017-fenomen-iskusstva.md`
+  - source: `source/cleaned/017-fenomen-iskusstva.txt`
+  - scans 233-248
+  - printed pages 232-247
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Preserved the chapter's major arc: art as memory's second doubling, art and
+  reality, freedom/ethics/aesthetics, art as `if` and mental experiment,
+  ending as retrospective revaluation, repeated reception, archaic ritual
+  participation, and the pendulum between explosion and organization.
+- Rendered the Lindsay Anderson *If* example, Pushkin/Onegin letter problem,
+  newspaper/repeated-recording contrast, *Captain's Daughter* calendar example,
+  archaic audience participation, and Blok/Heraclitus close in the main flow.
+- Compressed dense citation apparatus and long quoted passages where they
+  served illustration rather than argument.
+- Logged art as experiment in freedom, ending/title as reverse reading,
+  listener as creator, co-presence, and history's conversion of explosion into
+  inevitability as later checked-encounter candidates.
+
+Next continuation point:
+
+- Draft `018-konets-kak-zvuchno-eto-slovo.md`.
+
+## 2026-05-06 - Reader-En Batch 016
+
+Completed:
+
+- `source/reader-en/016-ya-i-ya.md`
+  - source: `source/cleaned/016-ya-i-ya.txt`
+  - scans 228-232
+  - printed pages 227-231
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Preserved Rousseau's path from `I` as pronoun in *Emile* to `I` as proper
+  name in the *Confessions*.
+- Kept Fonvizin's door/adjective dialogue, Krylov's transformed fable moral,
+  Diderot's anti-allegorical portrait pressure, and Pushkin's Tatyana
+  contradiction in the main flow.
+- Logged the two structures of `I`, concrete/proper-name thinking,
+  rationalist abstraction, and art's simultaneous use of proper and common
+  names as later checked-encounter candidates.
+
+Next continuation point:
+
+- Draft `017-fenomen-iskusstva.md`.
+
+## 2026-05-06 - Reader-En Batch 015
+
+Completed:
+
+- `source/reader-en/015-son-semioticheskoe-okno.md`
+  - source: `source/cleaned/015-son-semioticheskoe-okno.txt`
+  - scans 220-227
+  - printed pages 219-226
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Preserved the chapter's movement from stimulus-response to a pause between
+  information and reaction, then to reaction as sign and dream as early
+  semiotic form.
+- Kept dream's archaic culture, shamanic/Freudian interpretation, retelling,
+  belief, polylinguality, primitive syncretism, and one-person language in the
+  main flow.
+- Rendered `ich-Erzahlung` as `Ich-Erzahlung` for ASCII reader stability while
+  preserving the technical signal.
+- Logged dream as semiotic mirror, dream as father of semiotic processes, and
+  dream as reserve of semiotic indeterminacy as later checked-encounter
+  candidates.
+
+Next continuation point:
+
+- Draft `016-ya-i-ya.md`.
+
+## 2026-05-06 - Reader-En Batch 014
+
+Completed:
+
+- `source/reader-en/014-dve-formy-dinamiki.md`
+  - source: `source/cleaned/014-dve-formy-dinamiki.txt`
+  - scans 214-219
+  - printed pages 213-218
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Preserved Lotman's warning that `explosion` should not be read as everyday
+  violence and that pulsating cyclic development is not explosive even when
+  turbulent.
+- Rendered the Zhirmunsky/Gukovsky contrast as two models of literary dynamics:
+  permanent cultural types versus stadial historical breaks.
+- Kept the Marrism, Freidenberg, Thersites, fool, and Bakhtin materials because
+  they carry the chapter's theory of cultural explosion beyond linguistics.
+- Logged non-explosive pulsation, stadiality, Freidenberg's fool/death
+  metaphor, and gradual dynamics as later checked-encounter candidates.
+
+Next continuation point:
+
+- Draft `015-son-semioticheskoe-okno.md`.
+
+## 2026-05-06 - Reader-En Batch 013
+
+Completed:
+
+- `source/reader-en/013-vnutrennie-struktury-i-vneshnie-vliyaniya.md`
+  - source: `source/cleaned/013-vnutrennie-struktury-i-vneshnie-vliyaniya.txt`
+  - scans 206-213
+  - printed pages 205-212
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Preserved the chapter's external/internal structure: outside culture must be
+  renamed inside the receiving culture before it can act as cultural material.
+- Kept the symbolic-language examples around the Holy Roman Empire, Napoleon's
+  eagles, Latin/national languages, Baroque chinoiserie, fashion, wine, and
+  love.
+- Kept the proper-name/common-noun argument as the bridge to gradual versus
+  explosive cultural processes and to the distinction between language history
+  and literary-language history.
+- Logged cultural renaming, fashion as catalyst, semioticized physiology,
+  external/internal observer positions, and literary language as explosive
+  self-knowledge as later checked-encounter candidates.
+
+Next continuation point:
+
+- Draft `014-dve-formy-dinamiki.md`.
+
+## 2026-05-06 - Reader-En Batch 012
+
+Completed:
+
+- `source/reader-en/012-moment-nepredskazuemosti.md`
+  - source: `source/cleaned/012-moment-nepredskazuemosti.txt`
+  - scans 191-205
+  - printed pages 190-204
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Preserved the chapter's technical opening: unpredictability as a bounded set
+  of equally probable futures, not unlimited transition.
+- Kept the Pushkin/Lensky and Pushkin/Dantes duel analysis as the central
+  example of scale-dependent predictability and unrealized futures.
+- Translated or compressed the Pasternak, Karamzin, Tsitsianov, Pushkin
+  table-talk, and Dostoevsky/Ivolgin materials for reader continuity while
+  omitting dense bibliographic apparatus.
+- Logged retrospective inevitability, memory correction, memoir-lie, `phantom
+  of truth`, lie as freedom, and dream/speech displacement as later
+  checked-encounter candidates.
+
+Next continuation point:
+
+- Draft `013-vnutrennie-struktury-i-vneshnie-vliyaniya.md`.
+
+## 2026-05-06 - Reader-En Batch 011
+
+Completed:
+
+- `source/reader-en/011-logika-vzryva.md`
+  - source: `source/cleaned/011-logika-vzryva.txt`
+  - scans 177-190
+  - printed pages 176-189
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Preserved the chapter's sequence from the openness of the semiosphere to the
+  unstable function of text, then through proper-name intimacy, Chaplin's
+  changing cinematic language, and art's difference from riddles and detective
+  solutions.
+- Integrated the useful force of the source footnotes into the main flow where
+  they clarified the argument, especially fashion turnover, phonological
+  stability, and Lermontov's bear epigraph.
+- Omitted dense bibliographic apparatus from the main flow while retaining the
+  examples needed for reader continuity.
+- Logged open/closed semiotic systems, final authorial will, text as
+  creator/audience intersection, artistic third-person intimacy, Chaplin's
+  chained explosions, and art versus problem-solving as later checked-encounter
+  candidates.
+
+Next continuation point:
+
+- Draft `012-moment-nepredskazuemosti.md`.
+
+## 2026-05-06 - Reader-En Batch 010
+
+Completed:
+
+- `source/reader-en/010-perevernutyy-obraz.md`
+  - source: `source/cleaned/010-perevernutyy-obraz.txt`
+  - scans 124-176
+  - printed pages 123-175
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Preserved the long chapter as one reader file to match `source/sections.yaml`.
+- Kept the major argumentative arc: inverted world, fashion, `samodurstvo`,
+  holy foolishness, gender/clothing sign exchange, Orlova and Photius,
+  Ponomareva and Volkonskaya, romantic and high-society female behavior,
+  emancipation, Kovalevskaya/Perovskaya, Tsvetaeva/Pasternak, and ritualized
+  vice.
+- Omitted dense bibliographic apparatus and subsidiary citation detail from the
+  main flow while retaining the examples needed for reader continuity.
+- Logged fashion as semiotic novelty, the samodur/holy fool nexus, clothing and
+  gender signs, salons as behavior-art, and sex/gender/social-role coding as
+  later checked-encounter candidates.
+
+Next continuation point:
+
+- Draft `011-logika-vzryva.md`.
+
+## 2026-05-06 - Reader-En Batch 009
+
+Completed:
+
+- `source/reader-en/009-tekst-v-tekste-vstavnaya-glava.md`
+  - source: `source/cleaned/009-tekst-v-tekste-vstavnaya-glava.txt`
+  - scans 105-123
+  - printed pages 104-122
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Preserved the French/Russian language-collision setup, then carried the
+  chapter through `text within text`, boundary, frame, doubling, mirror, double,
+  collage, and culture as a hierarchy of texts.
+- Translated or rendered the Pushkin, Mayakovsky, Shakespeare, Bulgakov, and
+  art-historical examples for reader continuity while omitting dense
+  bibliographic apparatus.
+- Kept recurrence around `external influence`, `collision`, `fragment`,
+  `codedness`, `boundary`, `nontext`, `frame`, `doubling`, `mirror`, `double`,
+  `reality/fiction`, `interweaving`, and `unpredictability`.
+- Logged Tatyana's French letter, Hamlet's play within the play, the
+  mirror/double motif, and Bulgakov's Moscow/Yershalaim structure as later
+  checked-encounter candidates.
+
+Next continuation point:
+
+- Draft `010-perevernutyy-obraz.md`.
+
+## 2026-05-06 - Reader-En Batch 008
+
+Completed:
+
+- `source/reader-en/008-durak-i-sumasshedshiy.md`
+  - source: `source/cleaned/008-durak-i-sumasshedshiy.txt`
+  - scans 065-104
+  - printed pages 64-103
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Preserved the chapter as one reader file despite its length so the
+  `reader-en` layer continues to match `source/sections.yaml`.
+- Kept the full argumentative arc: fool/clever/madman, battle madness,
+  theatricality, medieval rule and excess, honor/glory, chance in history,
+  lost roads, and nameless heroism.
+- Omitted dense bibliography and dictionary apparatus from the main reader flow
+  while retaining the argument carried by the examples.
+- Logged the honor/glory semiotics, Nero's life-as-theater, Don Quixote's ideal
+  norm, Homeric chance/divine double explanation, Pushkin's lost futures, and
+  nameless heroism as later checked-encounter candidates.
+
+Next continuation point:
+
+- Draft `009-tekst-v-tekste-vstavnaya-glava.md`.
+
+## 2026-05-06 - Reader-En Batch 007
+
+Completed:
+
+- `source/reader-en/007-mir-sobstvennykh-imen.md`
+  - source: `source/cleaned/007-mir-sobstvennykh-imen.txt`
+  - scans 053-064
+  - printed pages 52-63
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Translated the Rousseau, Bulgakov, Krylov, Pushkin, Radishchev, and Gogol
+  passages in the main flow because they carry the argument.
+- Integrated the individuality footnote into the reader text because it limits
+  the term to any choosing social unit, not just a biological individual.
+- Preserved recurrence around `proper names`, `common nouns`, `choice`,
+  `semantic boundary`, `one's own`, `alien`, `word creation`, `semiosis`,
+  `irony`, `first person`, `third person`, and `conditional reality`.
+- Logged animal proper-name absence, children's word creation, baboon gesture
+  semiosis, irony as function, and dream as bridge to art and religion as later
+  checked-encounter candidates.
+
+Next continuation point:
+
+- Draft `008-durak-i-sumasshedshiy.md`.
+
+## 2026-05-06 - Reader-En Batch 006
+
+Completed:
+
+- `source/reader-en/006-myslyashchiy-trostnik.md`
+  - source: `source/cleaned/006-myslyashchiy-trostnik.txt`
+  - scans 045-052
+  - printed pages 44-51
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Translated Tyutchev's main poem, the Radlov harmony definition, and the Plato
+  passage in the main flow because each carries the chapter's argument.
+- Kept the long illustrative footnote on the "double abyss" tradition out of
+  the reader flow and documented the omission in Pass Notes.
+- Preserved recurrence around `outside-cultural space`, `boundary`, `culture`,
+  `nature`, `harmony`, `disharmony`, `closed circle`, `linear movement`,
+  `ritual behavior`, and `unpredictable`.
+- Logged animal ritual dialogue and human unpredictable invention as later
+  checked-encounter candidates.
+
+Next continuation point:
+
+- Draft `007-mir-sobstvennykh-imen.md`.
+
+## 2026-05-06 - Reader-En Batch 005
+
+Completed:
+
+- `source/reader-en/005-semanticheskoe-peresechenie-kak-smyslovoy-vzryv.md`
+  - source:
+    `source/cleaned/005-semanticheskoe-peresechenie-kak-smyslovoy-vzryv.txt`
+  - scans 036-044
+  - printed pages 35-43
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Translated the Blok poem in the main flow because Lotman's following
+  analysis depends on its sequence and imagery.
+- Preserved the chapter's recurrence around `semantic space`,
+  `meaning-generation`, `inspiration`, `untranslatable`, `translatable`,
+  `semantic explosion`, `semiotic space`, `semiosis`, and `bad abstraction`.
+- Kept bibliographic citations out of the reader flow.
+- Logged the "windows in the semiotic layer" passage and the Blok analysis as
+  later checked-encounter candidates, not apparatus claims.
+
+Next continuation point:
+
+- Draft `006-myslyashchiy-trostnik.md`.
+
+## 2026-05-06 - Reader-En Batch 004
+
+Completed:
+
+- `source/reader-en/004-preryvnoe-i-nepreryvnoe.md`
+  - source: `source/cleaned/004-preryvnoe-i-nepreryvnoe.txt`
+  - scans 026-035
+  - printed pages 25-34
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Kept the chapter's technical recurrence around `continuous`,
+  `discontinuous`, `synchronous`, `self-name`, `chance`, `informativeness`,
+  `retrospective transformation`, and `goal`.
+- Rendered Pushkin's Lensky lines and the Chekhov story excerpts in the main
+  flow because both examples carry the chapter's argument about possible
+  futures and anonymous technical progress.
+- Kept bibliographic citations out of the audio-facing text.
+- Logged the Chief Experimenter passage and the retrospective transformation
+  critique as later checked-encounter candidates.
+
+Next continuation point:
+
+- Draft
+  `005-semanticheskoe-peresechenie-kak-smyslovoy-vzryv.md`.
+
+## 2026-05-06 - Reader-En Batch 003
+
+Completed:
+
+- `source/reader-en/003-postepennyy-progress.md`
+  - source: `source/cleaned/003-postepennyy-progress.txt`
+  - scans 018-025
+  - printed pages 17-24
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Preserved the gradual/explosive antithesis as the chapter's governing
+  recurrence.
+- Translated the Bulwer-Lytton dialogue rather than summarizing it, because
+  Lotman's distinction between genuine explosion and imitation of explosion
+  depends on the example.
+- Kept bibliographic citations out of the main flow while retaining source
+  quotations and named literary examples.
+- Logged the anti-explosive imitation structure and the science/technology
+  analogy as later checked-encounter candidates, not apparatus claims.
+
+Next continuation point:
+
+- Draft `004-preryvnoe-i-nepreryvnoe.md`.
+
+## 2026-05-06 - Reader-En Batch 002
+
+Completed:
+
+- `source/reader-en/002-sistema-s-odnim-yazykom.md`
+  - source: `source/cleaned/002-sistema-s-odnim-yazykom.txt`
+  - scans 013-017
+  - printed pages 12-16
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Rendered the two diagrams as speakable prose: the communication model as
+  transmitter/text/language/receiver, and the second diagram as intersecting
+  circles A and B.
+- Kept Lotman's pressure on the code/language distinction by preserving the
+  recurrence of `code`, `language`, `memory`, and `history`.
+- Retained the film-adaptation note as prose because it extends the example of
+  translating between fundamentally different semiotic languages.
+- Treated the Goethe source reference as citation apparatus and kept only the
+  English sense of the Faust lines in the reading flow.
+
+Next continuation point:
+
+- Draft `003-postepennyy-progress.md`.
+
+## 2026-05-06 - Reader-En Batch 001
+
+Completed:
+
+- `source/reader-en/001-postanovka-problemy.md`
+  - source: `source/cleaned/001-postanovka-problemy.txt`
+  - scans 008-012
+  - printed pages 7-11
+
+Source authority:
+
+- Page-image-proofed cleaned Russian. No page-image recheck was needed during
+  this reader-en pass.
+
+Translation decisions:
+
+- Kept the main flow free of page markers and bibliographic apparatus.
+- Carried the substantive Tyutchev zero-expression note and Lotman's Kant
+  transformation note into readable prose because they affect the argument.
+- Omitted Kant's citation-only bibliography from the audio-facing flow.
+- Preserved recurrence around `outside-system`, `outside-language reality`,
+  `plane of content`, `translation`, `untranslatability`, `boundary`,
+  `multiplicity`, and `singularity` without promoting these to glossary terms.
+
+Next continuation point:
+
+- Draft `002-sistema-s-odnim-yazykom.md`.
+
+## 2026-05-06 - Reader-En Translation Scaffold
+
+Set up the English access layer after the page-image-proofed Russian cleanup was
+completed.
+
+Added:
+
+- `source/reader-en/README.md`
+- `source/reader-en/manifest.yaml`
+- `source/reader-en/translation-goal.md`
+
+Decision:
+
+- Follow the `lotman-vnutri-mislyashih-mirov` order: source scaffold and journal
+  first, then `reader-en` translation, then later TTS export.
+- For this book, the translation source should be `source/cleaned/`, not
+  `source/raw/`, because the Russian text has already been checked page by
+  page against rendered DjVu images.
+- `reader-en` is an access layer for discussion and later audiobook/TTS
+  preparation. It does not by itself create glossary entries, handles, thread
+  dossiers, or encounter claims.
+
+Next continuation point:
+
+- Start the calibration reader-en batch with
+  `001-postanovka-problemy.md`, then `002-sistema-s-odnim-yazykom.md`.
+
 ## 2026-05-06 - Journal Discipline
 
 This journal should follow the same basic discipline as

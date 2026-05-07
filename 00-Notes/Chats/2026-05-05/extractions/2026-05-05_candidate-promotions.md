@@ -38,6 +38,20 @@ Reason to promote later: the chunks are explicit guided reading over local chapt
 
 Blocker: verify against local split Langer text.
 
+### Langer Chapter IV trade-off thesis
+
+Potential later home:
+
+- `sources/modern/langer-philosophy-in-a-new-key/reader/` or equivalent.
+
+Candidate:
+
+- Langer adds presentational symbolism, non-discursive cognition, art/feeling, Gestalt, and Cassirerian symbol modes, but loses Peirce's unified triadic apparatus, interpretant chain, and continuity of semiosis.
+
+Reason to promote later: the later Peirce terminology chat reads Chapter IV against Peirce in a way that directly serves the constellation question.
+
+Blocker: verify against Langer Chapter IV and mature Peirce claims about icons, hypoicons, art, and perceptual judgment.
+
 ### Peirce 1867 reading-pass dossier
 
 Potential later home:
@@ -51,6 +65,48 @@ Candidate:
 Reason to promote later: the pass generated a compact analytical instrument that recurs across Uji, KR, and LLM questions.
 
 Blocker: identify exact Peirce text/version and verify pass against it.
+
+### Peirce-Cassirer copula convergence dossier
+
+Potential later home:
+
+- Cassirer source reader/dossier, Peirce source reader/dossier, or a comparative note under `00-Notes/` if no canonical text home exists yet.
+
+Candidate:
+
+- Peirce 1867 §4 and Cassirer PSF Volume I Chapter V both locate objective unity at the copula / predicative synthesis site, from a shared Kantian background. Peirce gives the formal-categorical derivation; Cassirer gives the genetic-linguistic and historical-philosophical development.
+
+Reason to promote later: this is the most concrete convergence in the Peirce-Cassirer-Langer strand and corrects the earlier binary "Langer on top of Peirce" framing.
+
+Blocker: verify Peirce 1867 §4, Cassirer normalized 0151-0153, Kant B141-142 relation, Brugmann etymology claims, and the `forma dat esse rei` thread.
+
+### Hoffmeyer "Sign and Cause" biosemiotics dossier
+
+Potential later home:
+
+- Hoffmeyer source reader/dossier, if a canonical location exists, or a temporary extraction dossier.
+
+Candidate:
+
+- Biosemiotics earns its keep through realism of relations, semiotic causality vs efficient causality, and the gene/information critique. This is not just confirmation of Peirce-Cassirer-Langer; it opens biological problems those texts cannot answer alone.
+
+Reason to promote later: directly serves actual questions 4 and 5 and gives a concrete test case for generative versus confirmatory projection.
+
+Blocker: verify Hoffmeyer `012-sign-and-cause.txt` against source and check Sterelny-Griffiths, Bickhard-Campbell, Deely, Millikan, and final-cause citations.
+
+### Hoffmeyer/Langer code-duality and negation asymmetry
+
+Potential later home:
+
+- Comparative constellation dossier after both source surfaces are verified.
+
+Candidate:
+
+- Hoffmeyer's claim that only digital codes can negate/abstract may converge structurally with Langer's discursive/presentational distinction: analog/presentational systems can carry rich semantic form but lack propositional negation.
+
+Reason to promote later: this is a substantive bridge between human-symbolic and biological-semiotic sides of the constellation.
+
+Blocker: verify Langer Chapter IV, Hoffmeyer `013-code-duality.txt`, Pattee, Bateson, and the scope of the digital/analog claim.
 
 ### Dogen Uji reading-pass dossier
 
@@ -100,6 +156,14 @@ Reason: Peirce chat gives a useful account of source friction, inquiry-mode, and
 
 Blocker: needs careful phrasing to avoid overstating LLM cognition.
 
+### Generative versus confirmatory projection
+
+Candidate: method note distinguishing projection that merely confirms older claims in newer vocabulary from projection that creates new questions or solves old unsolved problems.
+
+Reason: the Peirce terminology chat explicitly corrected the cognitive-linguistics projection and used the correction to choose Hoffmeyer as the next surface.
+
+Blocker: should be written from concrete examples after at least one source verification pass.
+
 ## Hold as Extraction Only
 
 - Goblin-as-Whiteheadian object / RLHF attractor.
@@ -107,6 +171,7 @@ Blocker: needs careful phrasing to avoid overstating LLM cognition.
 - Broad 2000-2025 biology developments.
 - German milieu rupture / counterfactual history.
 - Cognitive linguistics plus LLM interpretability opportunity map.
+- Cognitive linguistics as Peirce-Cassirer confirmation map, except where grammaticalization directly supports a specific source claim.
 - McGilchrist versus Peirce operationality.
 - Advertising/occult/political magic applications from Langer.
 

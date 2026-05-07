@@ -24,6 +24,13 @@ while correcting OCR damage against page images.
 - The OCR layer is useful as a scaffold but has visible Russian OCR damage.
 - Page-image-proofed cleaned text has been completed under `source/cleaned/`
   for all mapped sections, scans 001-273.
+- English `reader-en` pass is complete under `source/reader-en/`; it draws from
+  the cleaned Russian source rather than raw OCR and remains an access layer,
+  not critical apparatus.
+- Post-reader concept dossiers should follow the general spine-author method in
+  `00-Notes/method/spine-author-dossier-discipline.md` and the Lotman subclass
+  in `00-Notes/method/lotman-spine-dossier-subclass.md`; local source-facing
+  dossiers belong under `encounters/`.
 - See `source/cleaned/cleanup-manifest.md`,
   `source/cleaned/page-proof-manifest.md`, and `journal.md` for proof status
   and cleanup decisions.
@@ -40,7 +47,9 @@ source/
     metadata.yaml        # extraction metadata
   page-images/           # gitignored rendered PNG page images
   cleaned/               # target page-proofed Russian text and ledgers
+  reader-en/             # English reader drafts, manifest, and goal shape
   sections.yaml          # section map from scan pages to printed pages
+encounters/              # checked concept dossiers after reader-en
 journal.md               # local state and decisions
 ```
 
@@ -51,6 +60,9 @@ journal.md               # local state and decisions
 - Use `source/sections.yaml` to work section by section.
 - Write checked text under `source/cleaned/`.
 - Update `source/cleaned/page-proof-manifest.md` as each page range is proved.
+- For the English access layer, translate from `source/cleaned/` into
+  `source/reader-en/`, and update `source/reader-en/manifest.yaml` plus
+  `journal.md` after each batch.
 
 Regenerate the raw scaffold and local images with:
 
