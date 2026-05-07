@@ -15,6 +15,9 @@ This directory contains a chapter-split German working text for Hermann Weyl's
 - `016-appendix-c-quantenphysik-und-kausalitaet.txt` has manual visual
   corrections for the projection/gitter formulas around printed pages 327-329;
   the generator preserves that file if it already exists.
+- `017-appendix-d-chemische-valenz.txt` has manual visual corrections for
+  spin, valence, invariant, and benzene-resonance notation around printed pages
+  341-349; the generator preserves that file if it already exists.
 - Every cleaned file preserves page anchors of the form
   `[[pdf-page:0000 printed-page:0]]`.
 

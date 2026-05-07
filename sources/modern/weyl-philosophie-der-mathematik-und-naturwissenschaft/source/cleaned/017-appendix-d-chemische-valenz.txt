@@ -25,18 +25,18 @@ Dies ist ein Beispiel dafür, was Hilbert allgemein als „Tieferlegung der Fund
 Die Theorie der chemischen Bindung gewährt ein so treffendes
 Bild der Hierarchie der Strukturen, daß ich sie unbedingt ausführlicher beschreiben will. Der Elektronenspin und das Ausschließungsprinzip sind die Eigenschaften, die von der Quantenmechanik für die chemische Valenz verantwortlich gemacht werden. Die Position ist sicher ein Merkmal für das Elektron. Wäre
 die Trennung nach der Position ein feinstes Gitter, so wäre der
-Wellenzustand eines Elektrons gegeben durch eine (komplexwertige) Funktion y (P) eines Arguments P, das sich über alle
+Wellenzustand eines Elektrons gegeben durch eine (komplexwertige) Funktion ψ(P) eines Arguments P, das sich über alle
 Punkte im Raum erstreckt (wobei das Längenquadrat dieses
-Vektors das Integral von |yp (P)|? ist), und der Wellenzustand
-eines Aggregats von f Elektronen 1,2,..., f wäre eine antisymmetrische Funktion 9 (P,,..., Pf) ihrer Positionen P,,..., Pr.
+Vektors das Integral von |ψ(P)|² ist), und der Wellenzustand
+eines Aggregats von f Elektronen 1, 2, ..., f wäre eine antisymmetrische Funktion ψ(P1, ..., Pf) ihrer Positionen P1, ..., Pf.
 Das Ausschließungsprinzip ist eine Folge der Antisymmetrie.
 Infolge der inneren Gleichheit aller Elektronen ist ein dynamischer
-Vorgang nicht denkbar, der jemals ein antisymmetrisches y in
+Vorgang nicht denkbar, der jemals ein antisymmetrisches ψ in
 ein nicht antisymmetrisches überführen würde. Eine Funktion
-von mehreren Argumenten i, % (i,,..., if) ist symmetrisch, wenn
+von mehreren Argumenten i, ψ(i1, ..., if) ist symmetrisch, wenn
 sie unter allen f! Permutationen ihrer f Argumente unverändert
 bleibt; sie ist antisymmetrisch, wenn alle geraden Permutationen
-sie ungeändert lassen und alle ungeraden sie in —ıy überführen.
+sie ungeändert lassen und alle ungeraden sie in −ψ überführen.
 
 [[pdf-page:0343 printed-page:342]]
 
@@ -52,165 +52,163 @@ Die spektroskopische Erfahrung hat gezeigt, daß über die und
 zusätzlich zur Separation von Elektronen durch ihre Positionen
 eine Aufspaltung in zwei Strahlen stattfindet, z.B. unter dem
 Einfluß eines Magnetfeldes. Daraus müssen wir schließen, daß die
-Wellenfunktion eines einzelnen Elektrons y (Po) von zwei
+Wellenfunktion eines einzelnen Elektrons ψ(Pρ) von zwei
 Variablen abhängt, der stetigen Veränderlichen der Position P,
-und einer zweiten Variablen o, dem Spin, die nur die beiden Werte
-+1 und—-1 annehmen kann. Die beiden Komponenteny (P, +1)
-= y+(P) und y (P,—1) = y-(P) beziehen sich auf ein cartesisches System und transformieren sich, wie W. Pauli als erster
+und einer zweiten Variablen ρ, dem Spin, die nur die beiden Werte
++1 und −1 annehmen kann. Die beiden Komponenten ψ(P, +1)
+= ψ+(P) und ψ(P, −1) = ψ−(P) beziehen sich auf ein cartesisches System und transformieren sich, wie W. Pauli als erster
 erkannte, nach der in Abschnitt 15 erwähnten Spinordarstellung,
 wenn man durch Rotation zu einem andern cartesischen System
 übergeht. Die Wellenfunktion eines Aggregats von f Elektronen
-ist eine antisymmetrische Funktion % (P}01, P303,..., Proy) von
-f Paaren (Po).
+ist eine antisymmetrische Funktion ψ(P1ρ1, P2ρ2, ..., Pfρf) von
+f Paaren (Pρ).
 
 Hierher gehört noch ein dritter Umstand außer dem Spin und
 der Antisymmetrie: der dynamische Einfluß des Spins kann mit
 beträchtlicher Näherung vernachlässigt werden. Nehmen wir an,
 er sei streng Null, d. h. der dynamische Energieoperator H wirke
-sich nur auf die Positionsvariablen ?, nicht auf die Spinvariablen
+sich nur auf die Positionsvariablen P, nicht auf die Spinvariablen
 aus. Zuerst kann man daran denken, daß man dann den Spin
 ganz übergehen könnte. Daß das nicht der Fall ist, ist auf die
-Antisymmetriebedingung in bezug auf die Paare (Po) zurückzuführen. Sei 7 (P,,..., Pj) eine Eigenfunktion des Operators H
-mit dem Eigenwert hv, wo Hn = hv * n, n somit einen stationären
-Wellenzustand der Energie hv darstellt. Nehmen wir an, n sei in
+Antisymmetriebedingung in bezug auf die Paare (Pρ) zurückzuführen. Sei η(P1, ..., Pf) eine Eigenfunktion des Operators H
+mit dem Eigenwert hν, wo Hη = hν · η, η somit einen stationären
+Wellenzustand der Energie hν darstellt. Nehmen wir an, η sei in
 
 [[pdf-page:0344 printed-page:343]]
 
 seinen f Argumenten P antisymmetrisch. Zieht man die Existenz
-des Spins in Betracht, so erhält man eine ganze lineare Mannigfaltigkeit von Wellenfunktionen y der Energie hv
+des Spins in Betracht, so erhält man eine ganze lineare Mannigfaltigkeit von Wellenfunktionen ψ der Energie hν
 
-Y (Pi@n.-„Prof) =n (Pr. Pr) P (01 -- Er):
+ψ(P1ρ1, ..., Pfρf) = η(P1, ..., Pf) · φ(ρ1, ..., ρf).
 
-Hier könnte der zweite Faktor @ (0,,..., or) irgend eine Funktion
-der fSpinvariablen o sein; aber die Antisymmetrie von fordert,
-daß symmetrisch ist. Einesymmetrische Funktion pundo,,..., or
-nimmt einen bestimmten Werto, an, wenn eine gegebene Anzahl g
-von den Argumenten oe gleich +1 und f— g von ihnen gleich —1
+Hier könnte der zweite Faktor φ(ρ1, ..., ρf) irgend eine Funktion
+der f Spinvariablen ρ sein; aber die Antisymmetrie von ψ fordert,
+daß φ symmetrisch ist. Eine symmetrische Funktion φ von ρ1, ..., ρf
+nimmt einen bestimmten Wert φg an, wenn eine gegebene Anzahl g
+von den Argumenten ρ gleich +1 und f − g von ihnen gleich −1
 ist; und die Funktion ist vollständig charakterisiert durch ihre
-f +1 Werte 4,04-.1; ---,Po- Folglich ist die lineare Mannigfaltigkeit der symmetrischen Funktionen @ (f+ 1)-dimensional, und
-die Existenz des Spins wirkt sich so aus, daß die Energiestufe hv
-oder der „Term“ » das (f + 1)-fache erfordert. Nur wenn die
+f + 1 Werte φf, φf−1, ..., φ0. Folglich ist die lineare Mannigfaltigkeit der symmetrischen Funktionen φ (f + 1)-dimensional, und
+die Existenz des Spins wirkt sich so aus, daß die Energiestufe hν
+oder der „Term“ ν das (f + 1)-fache erfordert. Nur wenn die
 wirklich existierende schwache Wechselbeziehung der Spine
 untereinander in Rechnung gezogen wird, spaltet sich dieser
 Multiplikationsfaktor f + 1 in ein Multiplett von f + 1 verschiedenen Ausdrücken auf. Betrachten wir für einen Augenblick, was
-geschehen würde, wenn andererseits 7 symmetrisch wäre. @ muß
+geschehen würde, wenn andererseits η symmetrisch wäre. φ muß
 dann antisymmetrisch sein. Aber eine antisymmetrische Funktion
 verschwindet immer, wenn zwei ihrer Argumente gleiche Werte
 haben. Kann daher das einzelne Argument nur zwei Werte annehmen, so verschwindet die Funktion identisch, vorausgesetzt
-daß f> 2 ist, und der einem symmetrischen n entsprechende
-Term » ist ausgelöscht, sein Vielfaches wird 0. Infolge der niedrigen Dimensionszahl 2 des Spinraumes können die möglichen
-Permutationssymmetriemerkmale der Funktionen @ (e,,..., or)
+daß f > 2 ist, und der einem symmetrischen η entsprechende
+Term ν ist ausgelöscht, sein Vielfaches wird 0. Infolge der niedrigen Dimensionszahl 2 des Spinraumes können die möglichen
+Permutationssymmetriemerkmale der Funktionen φ(ρ1, ..., ρf)
 durch eine Zahl beschrieben werden, die Valenz v, die alle Werte
-0<sb< fannehmen kann, welche sich von f durch eine gerade
-Zahl unterscheiden. Zustände, in welchen n] antisymmetrisch (und
-folglich @ symmetrisch) ist, haben die Valenz f. Ein Valenzausdruck hat bloß wegen der Vertauschbarkeit der Elektronen die
+0 ≤ v ≤ f annehmen kann, welche sich von f durch eine gerade
+Zahl unterscheiden. Zustände, in welchen η antisymmetrisch (und
+folglich φ symmetrisch) ist, haben die Valenz f. Ein Valenzausdruck hat bloß wegen der Vertauschbarkeit der Elektronen die
 Vielfachheit v + 1.
 
-Wir betrachten ein neutrales Atom als Aggregat von f Elektronen mit der Ladung —e, die sich im Feld eines im Zentrum 0
-befindlichen Kernes mit der Ladung f- e bewegen. In der nicht-
+Wir betrachten ein neutrales Atom als Aggregat von f Elektronen mit der Ladung −e, die sich im Feld eines im Zentrum O
+befindlichen Kernes mit der Ladung f · e bewegen. In der nicht-
 
 [[pdf-page:0345 printed-page:344]]
 
 relativistischen Mechanik können bei diesem Modell nur die
 elektrostatischen Kräfte zwischen diesen Ladungen zusammen
 mit der kinetischen Energie der Elektronen in Betracht gezogen
-werden. Sei 7 (P,,..., Pr) eine antisymmetrische Eigenfunktion
-des dem Term » entsprechenden Energieoperators H. Das Atom
-in diesem Zustand n hat die Energie hv und die höchstmögliche
-Valenz f. (Jede Permutation der f Punkte P,,..., Pr würde n in
-eine Eigenfunktion für denselben Term » verwandeln; doch verursacht dies wegen der Antisymmetrie keine Permutationsmultiplizität.) Auch ist richtig, daß die Wirkung jeder gewöhnlichen
-Reaktion der Punkte P,,...., PPrumO0n(P,,...., Pr) in eine Eigenfunktion für denselben Term » transformiert. Wenn wir „Rotations“-Multiplizität von » vermeiden wollen, so müssen wir annehmen, daß die Funktion n(P,..., Pr) der Konstellation
+werden. Sei η(P1, ..., Pf) eine antisymmetrische Eigenfunktion
+des dem Term ν entsprechenden Energieoperators H. Das Atom
+in diesem Zustand η hat die Energie hν und die höchstmögliche
+Valenz f. (Jede Permutation der f Punkte P1, ..., Pf würde η in
+eine Eigenfunktion für denselben Term ν verwandeln; doch verursacht dies wegen der Antisymmetrie keine Permutationsmultiplizität.) Auch ist richtig, daß die Wirkung jeder gewöhnlichen
+Rotation der Punkte P1, ..., Pf um O η(P1, ..., Pf) in eine Eigenfunktion für denselben Term ν transformiert. Wenn wir „Rotations“-Multiplizität von ν vermeiden wollen, so müssen wir annehmen, daß die Funktion η(P1, ..., Pf) der Konstellation
 
-1... Pr der Elektronen invariant ist gegenüber allen Rotationen
+P1 ... Pf der Elektronen invariant ist gegenüber allen Rotationen
 (Zentralsymmetrie). Ein solcher stationärer Wellenzustand heißt
 in der Spektroskopie S-Zustand. So nehmen wir an, das Atom
-habe seine höchste Valenz fund befinde sich in einem S-Zustand.
+habe seine höchste Valenz f und befinde sich in einem S-Zustand.
 Die Wahrscheinlichkeit W (r) dafür, daß man eines der Elektronen
-in einer Entfernung größer als r vom Zentrum O antrifft, ist durch 7
+in einer Entfernung größer als r vom Zentrum O antrifft, ist durch η
 bestimmt, und es stellt sich heraus, daß W (r) mit zunehmendem r
 nach einer Exponentialfunktion abnimmt.
 
-Führt man die beiden ‚„Unbestimmten“ x, x- ein, die den
-beiden Werten o = +1 unde =—1 des Spins entsprechen, so
-wird eine symmetrische Funktion 9 (@,,..., 05) zweckmäßig durch
-die algebraische Form von x+,x- vom Grade f mit den Koeffizienten @ dargestellt:
+Führt man die beiden „Unbestimmten“ x+, x− ein, die den
+beiden Werten ρ = +1 und ρ = −1 des Spins entsprechen, so
+wird eine symmetrische Funktion φ(ρ1, ..., ρf) zweckmäßig durch
+die algebraische Form von x+, x− vom Grade f mit den Koeffizienten φ dargestellt:
 
-91579
+Σρ φ(ρ1, ..., ρf) xρ1 ... xρf = Σg [f! / (g!(f − g)!)] φg x+^g x−^(f−g).
 
-Elan 0) Kun Kar = ale ZIG
-
-Die Summe auf der linken Seite besteht aus 2/ Gliedern, da jedes o
+Die Summe auf der linken Seite besteht aus 2f Gliedern, da jedes ρ
 seine beiden Werte + und — annimmt, während sich auf der
-rechten Seite g über die Folge f, f— 1,..., 0 erstreckt. Betrachtet
-man die Unbestimmten x+, x- als Komponenten eines Vektors x
+rechten Seite g über die Folge f, f − 1, ..., 0 erstreckt. Betrachtet
+man die Unbestimmten x+, x− als Komponenten eines Vektors x
 in einer Ebene, so unterwerfen wir sie einer beliebigen linearen
 Transformation
 
 [[pdf-page:0346 printed-page:345]]
 
-x,=ax, +ßx_, x_=yx, +öx_ (1)
+x+ = αx'_+ + βx'_−,        x− = γx'_+ + δx'_−        (1)
 
-mit &ö— ßy =1. Eine Form F(x,y,...) von mehreren unbestimmten Vektoren x, y,..., die vom Grade /, inxundfiny
-und... ist, heißt Invariante, wenn F(x,y,...) = F(x',y,...)
-immer dann gilt, wenn x und x’, y und y’,.... miteinander durch
+mit αδ − βγ = 1. Eine Form F(x, y, ...) von mehreren unbestimmten Vektoren x, y, ..., die vom Grade fa in x und fb in y
+und ... ist, heißt Invariante, wenn F(x, y, ...) = F(x', y', ...)
+immer dann gilt, wenn x und x', y und y', ... miteinander durch
 dieselbe Transformation (1) mit der Determinante 1 verknüpft
 sind.
 
-Betrachten wir jetzt eine Anzahl neutraler Atome a, b,.... mit
-Ja: fb,... Elektronen, deren Atomkerne in den festen Raumpunkten O«, Op,... liegen, und nehmen wir an, jedes Atom befinde sich in einem stationären S-Zustand von höchster Valenz
-und seine jeweilige Energiestufe sei hva, hvp,.... Daraus ergibt
+Betrachten wir jetzt eine Anzahl neutraler Atome a, b, ... mit
+fa, fb, ... Elektronen, deren Atomkerne in den festen Raumpunkten Oa, Ob, ... liegen, und nehmen wir an, jedes Atom befinde sich in einem stationären S-Zustand von höchster Valenz
+und seine jeweilige Energiestufe sei hνa, hνb, ... . Daraus ergibt
 sich, daß das kombinierte System dieser Atome die Energie
-Avg Yo = Ya + vo +... hat, und daß sein Zustand zu einer linearen
-Mannigfaltigkeit II von (fa + 1) (# + 1)... Dimensionen gehört.
+hν0, ν0 = νa + νb + ... hat, und daß sein Zustand zu einer linearen
+Mannigfaltigkeit Π von (fa + 1)(fb + 1)... Dimensionen gehört.
 Durch diese Formulierung haben wir die gegenseitige Wechselbeziehung der Atome übergangen und somit die wesentliche
-Gleichheit aller f= fa +fb +... Elektronen dadurch verletzt,
-daß wir fa von ihnen der Umgebung von O, zugeschrieben und
+Gleichheit aller f = fa + fb + ... Elektronen dadurch verletzt,
+daß wir fa von ihnen der Umgebung von Oa zugeschrieben und
 diese fa Elektronen nur in gegenseitiger Wechselbeziehung und
 in solcher mit dem Kern gelassen haben. Die Entfernungen r der
-Kerne in O,, Op,... voneinander nehmen wir als groß an im
-Vergleich zum Bohrschen Radius h?/me?. Berücksichtigt man nun
+Kerne in Oa, Ob, ... voneinander nehmen wir als groß an im
+Vergleich zum Bohrschen Radius h²/me². Berücksichtigt man nun
 die Wechselbeziehung zwischen den einzelnen Atomen als kleine
-Störung, so findet man, daß sich der Term », durch die ‚„‚Permutationsresonanz“ in eine Anzahl Termsysteme des Moleküls nach
-den verschiedenen möglichen Valenzen vo = f£,f—2,... auflöst.
+Störung, so findet man, daß sich der Term ν0 durch die „Permutationsresonanz“ in eine Anzahl Termsysteme des Moleküls nach
+den verschiedenen möglichen Valenzen v = f, f − 2, ... auflöst.
 Die Valenzzustände v bilden eine lineare Untermannigfaltigkeit
-II, von n» Dimensionen, die in der Näherung der Störungstheorie
+Πv von nv Dimensionen, die in der Näherung der Störungstheorie
 als Ganzes invariant gegenüber dem Energieoperator H und somit
-stationär ist. Die entsprechenden n, Terme v =», + Av und die
-einzelnen stationären Zustände des Moleküls können;als die
-Eigenwerte und als die in //, geltenden Eigenfunktionen von H
-bestimmt werden. Da jeder der z, Terme » des Moleküls in einem
-Valenzzustand v die Multiplizitätv + 1 hat, führt der Dimensionsvergleich zu der Gleichung
+stationär ist. Die entsprechenden nv Terme ν = ν0 + Δν und die
+einzelnen stationären Zustände des Moleküls können als die
+Eigenwerte und als die in Πv geltenden Eigenfunktionen von H
+bestimmt werden. Da jeder der nv Terme ν des Moleküls in einem
+Valenzzustand v die Multiplizität v + 1 hat, führt der Dimensionsvergleich zu der Gleichung
 
 [[pdf-page:0347 printed-page:346]]
 
-G+Dh+D.. =in,+).
+(fa + 1)(fb + 1)... = Σv nv(v + 1).
 
-Die Änderungen Av = V (Oa, Op,...) sind Funktionen der Kernkonstellation OaO:..., von der man findet, daß sie von demselben
+Die Änderungen Δν = V(Oa, Ob, ...) sind Funktionen der Kernkonstellation OaOb..., von der man findet, daß sie von demselben
 Typus ist wie die oben erwähnte Wahrscheinlichkeit, nämlich
 eine mit zunehmender Entfernung r abnehmende Exponentialfunktion. Daraus erklärt sich die Tatsache, daß die homöopolare
 Bindung zwischen neutralen Atomen eine Kraft von kurzer Reichweite ist. (Die Anziehungskraft zweier Ionen mit entgegengesetzten Ladungen in einer Entfernung r, die heteropolare Bindung,
 ist wirklich kein Geheimnis; ihre Energie folgt dem Coulombschen Gesetz 1/r und ist somit von großer Reichweite.)
 
-Ein unbestimmter binärer Vektor x = (x4, x-), y,.... sei mit
+Ein unbestimmter binärer Vektor x = (x+, x−), y, ... sei mit
 jedem der Atome a, b,... verknüpft, und es werde ein weiterer
-„freier‘‘ Vektor 1 hinzugefügt. Dann wird //, am besten als die
-lineare Mannigfaltigkeit aller Invarianten / (x, y,...., 1) beschrieben, die von den unbestimmten Vektoren x,»,..., 1 von den
-gegebenen Graden fa, fo,..., v abhängen. Die Einzelheiten spielen
+„freier“ Vektor l hinzugefügt. Dann wird Πv am besten als die
+lineare Mannigfaltigkeit aller Invarianten I(x, y, ..., l) beschrieben, die von den unbestimmten Vektoren x, y, ..., l von den
+gegebenen Graden fa, fb, ..., v abhängen. Die Einzelheiten spielen
 hier keine Rolle. Doch soviel sollte klar sein, daß die zweidimensionalen Vektoren und die Invarianz gegenüber linearen Transformationen eine Rolle spielen, weil wegen des Spins der Zustand
-(9+,@-) eines Elektrons ein solcher Vektor ist. Die Dimensionszahl n, von /7, ist gleich der Anzahl der linear unabhängigen
-Invarianten vom Grade fa, f,... der Vektoren x,y,... und vom
-Grade v des freien Vektorsl.
+(φ+, φ−) eines Elektrons ein solcher Vektor ist. Die Dimensionszahl nv von Πv ist gleich der Anzahl der linear unabhängigen
+Invarianten vom Grade fa, fb, ... der Vektoren x, y, ... und vom
+Grade v des freien Vektors l.
 
 Die einfachste, linear von zwei unbestimmten Vektoren x, y
-abhängige Invariante ist der „Klammerfaktor“ [xy] = xy —
-xX_y+. Jedes Produkt solcher Klammerfaktoren heißt monomische
+abhängige Invariante ist der „Klammerfaktor“ [xy] = x+y− −
+x−y+. Jedes Produkt solcher Klammerfaktoren heißt monomische
 Invariante; sie ist vollständig beschrieben durch ein Diagramm, in
-welchem jeder der Argumentvektoren x,y,..., 1 durch einen
+welchem jeder der Argumentvektoren x, y, ..., l durch einen
 Punkt und jeder Klammerfaktor wie [xy] durch eine die Punkte
 x und y verbindende Gerade dargestellt wird. (Ein den freien
-Vektor 1 enthaltender Klammerfaktor [x1] kann statt dessen
+Vektor l enthaltender Klammerfaktor [xl] kann statt dessen
 durch einen von x ausgehenden Strich, dessen anderes Ende frei
-bleibt, dargestellt werden.) Die Grade fa, fo,...,v der monomischen Invariante sind die Anzahlen der Striche, die in den entsprechenden Punkten x, y,...,l enden. Danach entsprechen die
+bleibt, dargestellt werden.) Die Grade fa, fb, ..., v der monomischen Invariante sind die Anzahlen der Striche, die in den entsprechenden Punkten x, y, ..., l enden. Danach entsprechen die
 
 [[pdf-page:0348 printed-page:347]]
 
@@ -218,30 +216,30 @@ monomischen Invarianten vollständig Kekulés Valenzdiagrammen. Wir werden desha
 erste Hauptsatz der Invariantentheorie sagt aus, daß jede Invariante von gegebenen Graden eine lineare Kombination von monomischen Invarianten jener Grade ist.
 
 Für ein Molekül, das aus zwei Atomen x, y mit den Valenzen
-aundb, a2 b besteht, finden wir nur eine Invariante
+a und b, a ≥ b besteht, finden wir nur eine Invariante
 
-rk" n
-für jede der möglichen Molekularvalenzen v=a+b—2d,
-d=0,1,...,b. Dies entspricht genau dem, was wir nach den
+[xy]^d [xl]^(a−d) [yl]^(b−d)
+für jede der möglichen Molekularvalenzen v = a + b − 2d,
+d = 0, 1, ..., b. Dies entspricht genau dem, was wir nach den
 Valenzdiagrammen erwartet hätten; d ist die Anzahl der die
-beiden Atome verbindenden Valenzstriche, und a — d, b — d ist
+beiden Atome verbindenden Valenzstriche, und a − d, b − d ist
 jeweils die Anzahl der freien Valenzstriche, die von x bzw. von y
-ausgehen. Für den entsprechenden Term », + Av des Moleküls
-findet man Av =}: V (r), wo V(r) eine Funktion der Entfernung r der beiden Atome ist; r hängt nicht von d ab, während der
-Formfaktor A = (a—d)(b—d)—d von d, aber nicht von r
+ausgehen. Für den entsprechenden Term ν0 + Δν des Moleküls
+findet man Δν = λ · V(r), wo V(r) eine Funktion der Entfernung r der beiden Atome ist; r hängt nicht von d ab, während der
+Formfaktor λ = (a−d)(b−d) − d von d, aber nicht von r
 abhängt. Die Funktion V (r) ist schwierig zu berechnen, doch
 stellt sie sich in den einfachsten Fällen für große r als positiv
 heraus. Nimmt man dies für allgemein gültig, so erhält man eine
-Anziehungs- oder Abstoßungskraft, je nachdem der Formfaktor A
-negativ oder positiv ist. A ist negativ für d = b, aber daA von —b
-bis ab variiert, während d die Werte 5, b—1,..., 0 annimmt, ist
+Anziehungs- oder Abstoßungskraft, je nachdem der Formfaktor λ
+negativ oder positiv ist. λ ist negativ für d = b, aber da λ von −b
+bis ab variiert, während d die Werte b, b−1, ..., 0 annimmt, ist
 der Formfaktor nur negativ für die stärkste Bindung d = b oder
-möglicherweise für ein paar der stärksten Bindungen d=b,
-b—1,....
+möglicherweise für ein paar der stärksten Bindungen d = b,
+b−1, ...
 
-Das Bild ändert sich etwas, wenn mehr als zwei Atome in Erscheinung treten. Dann ist wegen der Existenz linearer Beziehungen unter den monomischen Invarianten die Anzahl n, der linear
+Das Bild ändert sich etwas, wenn mehr als zwei Atome in Erscheinung treten. Dann ist wegen der Existenz linearer Beziehungen unter den monomischen Invarianten die Anzahl nv der linear
 unabhängigen Invarianten kleiner als die der möglichen Diagramme mit v freien Valenzstrichen. Überdies fallen die einzelnen
-stationären Zustände mit bestimmten Energiestufen », + Av
+stationären Zustände mit bestimmten Energiestufen ν0 + Δν
 nicht mehr mit irgend einem der reinen Valenzzustände zusammen. Dafür gibt es in der Chemie klare Anzeichen. Zum Beispiel
 sieht Kekulés berühmte Formel für den Benzolring, eine reguläre
 
@@ -250,69 +248,41 @@ sieht Kekulés berühmte Formel für den Benzolring, eine reguläre
 Anordnung von sechs CH-Gruppen, zwei Möglichkeiten vor,
 wogegen das Studium der Ortho-Derivate schlüssig beweist, daß
 es in der Natur nur eine gibt. Das im Valenzdiagramm S gezeigte
-Skelett hat die volle hexagonale Symmetrie, die man für den Benzolring erwarH H tet, doch läßt es ein Valenzelektron in je-
-
-dem C-Atom ungebunden. Diese Auffas-
-
-sung eines festen Skeletts, dem der variable
-
-H
-
-H u Zustand der Verbindung zwischen den übrigbleibenden Valenzelektronen zukommt,
-
-H mag eine unstatthafte Vereinfachung sein,
-
-S doch ist sie nützlich für eine erste Orien-
-
-tierung und reduziert unser Problem (welches in der Tat zweiundvierzig Elektronen einschließt) auf das mit
+Skelett hat die volle hexagonale Symmetrie, die man für den Benzolring erwartet, doch läßt es ein Valenzelektron in jedem C-Atom ungebunden. Diese Auffassung eines festen Skeletts, dem der variable
+Zustand der Verbindung zwischen den übrigbleibenden Valenzelektronen zukommt,
+mag eine unstatthafte Vereinfachung sein,
+doch ist sie nützlich für eine erste Orientierung und reduziert unser Problem (welches in der Tat zweiundvierzig Elektronen einschließt) auf das mit
 sechs gleichen Atomen mit je einem Elektron, die in einem regelmäßigen Sechseck mit der Seitenlänge r angeordnet sind. Hier
-bilden die Zustände mit der Valenz 0 die lineare Mannipgfaltigkeit
+bilden die Zustände mit der Valenz 0 die lineare Mannigfaltigkeit
 aller Invarianten, die linear von sechs Argumentvektoren 1, 2, 3,
-4,5, 6 abhängen. Die fünf im Bilde gezeigten monomischen Inva-
+4, 5, 6 abhängen. Die fünf im Bilde gezeigten monomischen Inva-
 
-„2 4 nn
+[Diagramm: Benzol-Skelett S, hexagonaler Ring mit sechs C- und sechs H-Markierungen.]
 
-4
-
-_r!
-6
-
-6
-[12] [34] [56] [23] [45] [61]
-A A
-3 3 3
-
-4 r 2 4 P 4 —T 2
-
-5 _r 1 5 1 5 x 1
-
-6 6
-
-[611 [521 1431 Dil B36] [45] [23] [141 [651
-B, B, B;
+[Diagramm: A = [12][34][56]; A' = [23][45][61]; B1 = [61][52][43]; B2 = [21][36][45]; B3 = [23][14][65].]
 
 [[pdf-page:0350 printed-page:349]]
 
-rianten A, A’; B,, Bz, Bz stellen eine Basis für diese Mannigfaltigkeit dar. (Ihre Diagramme sollten auf das Skelett S gelegt werden;
-die entsprechenden fünf reinen Valenzzustände sind „in Resonanz“.) Die Termänderungen Av =: V(r) der verschiedenen
-stationären Zustände n unterscheiden sich durch den Formfaktor
-A. Die Potentialfunktion Y (r) von r ist jedoch ein gemeinsamer
-Faktor von exponentiellem Typus. Hier ist eine Liste der stationären Zustände mit ihren Formfaktoren }:
+rianten A, A’; B1, B2, B3 stellen eine Basis für diese Mannigfaltigkeit dar. (Ihre Diagramme sollten auf das Skelett S gelegt werden;
+die entsprechenden fünf reinen Valenzzustände sind „in Resonanz“.) Die Termänderungen Δν = λ · V(r) der verschiedenen
+stationären Zustände η unterscheiden sich durch den Formfaktor
+λ. Die Potentialfunktion V(r) von r ist jedoch ein gemeinsamer
+Faktor von exponentiellem Typus. Hier ist eine Liste der stationären Zustände mit ihren Formfaktoren λ:
 
-A+A' A=0
+A + A'                                      λ = 0
 
-BıBı+ßzßa+ß3B3 (Pıtß2+Pßs=0) i=2 Fan
-6(A-4A')-(1+,/B3)(Bı+B,+B;) i=1+/13
+β1B1 + β2B2 + β3B3 (β1 + β2 + β3 = 0)     λ = 2
+6(A − A') − (1 + √13)(B1 + B2 + B3)        λ = 1 + √13
 
-n=6(A-A)-(1-./13)(B,+B,+B;) }=1-./13<0.
+η = 6(A − A') − (1 − √13)(B1 + B2 + B3)    λ = 1 − √13 < 0
 
-Wie wir wissen, ist ein negativer Wert von A zweideutig für die
-Existenz eines stabilen Moleküls in dem entsprechenden Quantenzustand n. Nur das n der letzten Zeile befriedigt diese Bedingung,
-und somit zeigt eben dieses die Richtung an, in welcher wohl die
+Wie wir wissen, ist ein negativer Wert von λ zweideutig für die
+Existenz eines stabilen Moleküls in dem entsprechenden Quantenzustand η. Nur das η der letzten Zeile befriedigt diese Bedingung,
+und somit zeigt eben dieses η die Richtung an, in welcher wohl die
 quantenmechanische Korrektur von Kekulés Benzolformel liegt:
-zu der Differenz der monomischen, durch Kekulés beide Diagramme anschaulich gemachten Invarianten A, A’ ist ein Vielfaches der Summe der drei durch die Dewar-Diagranıme B,, B,, Bz
-dargestellten Terme hinzuzufügen. (Sowohl A— A’ als auch
-B} + B; + B, ändern das Vorzeichen unter dem Einfluß einer
+zu der Differenz der monomischen, durch Kekulés beide Diagramme anschaulich gemachten Invarianten A, A’ ist ein Vielfaches der Summe der drei durch die Dewar-Diagramme B1, B2, B3
+dargestellten Terme hinzuzufügen. (Sowohl A − A’ als auch
+B1 + B2 + B3 ändern das Vorzeichen unter dem Einfluß einer
 Drehung des Sechsecks um 60° und bleiben bei einer Spiegelung
 an einer der drei Diagonalen ungeändert!).)
 
@@ -337,7 +307,7 @@ schnell arbeitenden Rechenmaschinen.)
 
 Endlich komme ich zu der Lehre, die ich aus dieser langen
 Abschweifung in die quantenmechanische Chemie ziehen will.
-Sie betrifft die Hierarchie der Strukturen. Auf der tiefsten Stufe &
+Sie betrifft die Hierarchie der Strukturen. Auf der tiefsten Stufe α
 haben wir die Strukturen der Quantenmechanik selbst, mit deren
 Hilfe wir imstande zu sein scheinen, alle spektroskopischen und
 chemischen Tatsachen, kurz alle physikalischen Tatsachen zu
@@ -347,8 +317,8 @@ Mannigfaltigkeit binärer Invarianten. Dieses Bild hat die Wahrheit nur umgrenzt
 Molekül, sondern auf das Aggregat seiner Atome mit ihren im
 Vergleich zu der Ausdehnung der Atome weit voneinander entfernten Kernen. Was die einzelnen Atome betrifft, so werden überdies die einfachstmöglichen Bedingungen für die Permutation
 ihrer Elektronen und die Rotation ihrer Konfiguration im Raum
-angenommen. Die Strukturen, die auf der dritten Stufe y für die
-Deutung chemischer Tatsachen benützt werden, sind die Valenzdiagramme. Von ß aus geschen ist das Bild y in einer wesentlichen
+angenommen. Die Strukturen, die auf der dritten Stufe γ für die
+Deutung chemischer Tatsachen benützt werden, sind die Valenzdiagramme. Von ß aus gesehen ist das Bild γ in einer wesentlichen
 Hinsicht korrekt: alle möglichen Zustände des Moleküls (alle
 Invarianten) sind tatsächlich lineare Kombinationen der reinen
 Valenzzustände (monomische Invarianten). Aber es irrt in drei
@@ -359,12 +329,12 @@ der entscheidende Gegensatz zwischen klassischer und Quantenmechanik. 2) Die lin
 
 [[pdf-page:0352 printed-page:351]]
 
-für die Anzahl n, der unabhängigen Möglichkeiten einen zu hohen
+für die Anzahl nv der unabhängigen Möglichkeiten einen zu hohen
 Wert. 3) Die n, stationären Quantenzustände fallen im allgemeinen
 mit keinem der reinen Valenzzustände zusammen, sondern sind
 gewisse lineare Kombinationen von diesen.
 
-Im Gegensatz zu unserer Darstellung ist die historische Ordnung die des Absteigens zu einer immer tieferen Stufe, y > P >a.
+Im Gegensatz zu unserer Darstellung ist die historische Ordnung die des Absteigens zu einer immer tieferen Stufe, γ → β → α.
 A. Kekulé entwickelte im Jahre 1859 seine graphische Darstellung
 der chemischen Struktur. Die mittlere Stufe $ wurde erstmals von
 J.J. Sylvester im Jahre 1878 erreicht!) (ihm folgte später der
