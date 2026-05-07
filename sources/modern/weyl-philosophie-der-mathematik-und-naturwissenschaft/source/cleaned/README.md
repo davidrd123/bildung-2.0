@@ -12,6 +12,9 @@ This directory contains a chapter-split German working text for Hermann Weyl's
 - `004-front-contents.txt` is a manually curated visual transcription because
   OCR turned the contents dot leaders into unusable noise; the generator
   preserves that file if it already exists.
+- `016-appendix-c-quantenphysik-und-kausalitaet.txt` has manual visual
+  corrections for the projection/gitter formulas around printed pages 327-329;
+  the generator preserves that file if it already exists.
 - Every cleaned file preserves page anchors of the form
   `[[pdf-page:0000 printed-page:0]]`.
 

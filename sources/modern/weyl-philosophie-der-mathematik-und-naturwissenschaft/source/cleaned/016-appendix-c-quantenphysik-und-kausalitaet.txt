@@ -127,65 +127,66 @@ werden M und F gegenseitig orthogonale idempotente Operationen
 genannt. Ein Gitter in der klassischen Physik ist nichts anderes als
 eine Klassifikation der Zustände, die ein gegebenes physikalisches
 System anzunehmen vermag. Hier werden die Zustände als Elemente eines Aggregats betrachtet. Nimmt man die Anzahl der
-Zustände als endlich an, so möge E,,..., Er die einzeinen Klassen
-bezeichnen. Die Operationen, die die Zustände der Klasse E; vom
-Rest aussieben, mögen auch mit E; bezeichnet werden. Das Gitter
-G = {Ey..., Er} möge noch dadurch verfeinert werden, daß man
+Zustände als endlich an, so mögen E1, ..., Er die einzelnen Klassen
+bezeichnen. Die Operationen, die die Zustände der Klasse Ei vom
+Rest aussieben, mögen auch mit Ei bezeichnet werden. Das Gitter
+G = {E1, ..., Er} möge noch dadurch verfeinert werden, daß man
 jede Klasse in Unterklassen einteilt. Es gibt eine feinste Einteilung,
 bei welcher jede Klasse nur ein Glied enthält. Zwei Gitter mit der
-Einteilung in die Klassen E; und der Einteilung in die Klassen Ex’
+Einteilung in die Klassen Ei und der Einteilung in die Klassen Ek'
 
 [[pdf-page:0329 printed-page:328]]
 
-sollen übereinander gelegt werden. Die Operation E;Ex’ sondert
-die den beiden Klassen Z; und Ex’ gemeinsamen Glieder aus; dabei
-gilt das Kommutativgesetz EiE% = Er Ei, und das Gesamtaggregat wird in die Klassen E;E7' aufgeteilt (von denen einige
-leer sein können). Ordnet man den einzelnen Klassen E; bestimmte
-Zahlen &; zu, so kann man von einer Observablen (oder einer
-Zustandsgröße) A sprechen, die die Werte x; annimmt, wenn die
-Zustände des Systems zu der Klasse E; gehören.
+sollen übereinander gelegt werden. Die Operation EiEk' sondert
+die den beiden Klassen Ei und Ek' gemeinsamen Glieder aus; dabei
+gilt das Kommutativgesetz EiEk' = Ek'Ei, und das Gesamtaggregat wird in die Klassen EiEk' aufgeteilt (von denen einige
+leer sein können). Ordnet man den einzelnen Klassen Ei bestimmte
+Zahlen αi zu, so kann man von einer Observablen (oder einer
+Zustandsgröße) A sprechen, die die Werte αi annimmt, wenn die
+Zustände des Systems zu der Klasse Ei gehören.
 
 Dieses klassische Schema soll nun dem der Quantenphysik
 gegenübergestellt werden, so wie diese durch das typische Beispiel
-der Polarisation umrissen worden ist. Das Aggregat der n Zustände muß durch einen n-dimensionalen euklidischen Vektorraum Iersetzt werden. Ist ein linearer Unterraum E von I gegeben,
-so kann jeder Vektor X orthogonal auf E projiziert werden; die
-Projektion ist ein Vektor EX, und die Projektionsoperation E ist
-idempotent, EE = E. Zwei lineare Unterräume E,E, heißen
+der Polarisation umrissen worden ist. Das Aggregat der n Zustände muß durch einen n-dimensionalen euklidischen Vektorraum I ersetzt werden. Ist ein linearer Unterraum E von I gegeben,
+so kann jeder Vektor x orthogonal auf E projiziert werden; die
+Projektion ist ein Vektor Ex, und die Projektionsoperation E ist
+idempotent, EE = E. Zwei lineare Unterräume E1, E2 heißen
 orthogonal, wenn jeder Vektor im einen orthogonal zu jedem
-Vektor im andern ist. Wir können dann ihre SummeE=E, +E,
-bilden, die aus allen Summen eines Vektors X, in E, und eines
-Vektors X, in E, besteht. Die Zerlegung eines Vektors X vonEin
-diese beiden Summanden %, und X, ist eindeutig und wird durch
-die orthogonalen Projektionen E,, E, bewirkt. Auf diese Weise
+Vektor im andern ist. Wir können dann ihre Summe E = E1 + E2
+bilden, die aus allen Summen eines Vektors x1 in E1 und eines
+Vektors x2 in E2 besteht. Die Zerlegung eines Vektors x von E in
+diese beiden Summanden x1 und x2 ist eindeutig und wird durch
+die orthogonalen Projektionen E1, E2 bewirkt. Auf diese Weise
 spaltet sich zum Beispiel ein dreidimensionaler Vektorraum in eine
 horizontale Ebene und eine vertikale Gerade. Die Situation ist
 kaum verwickelter, wenn wir es mit mehr als zwei aufeinander
-senkrechen Unterräumen E,,E,,...,Er zu tun haben. Ist ihre
-Summe der Gesamtraum, dann spaltet sich jeder Vektor X in r
-Komponentenvektoren auf, die in den einzelnen Unterräumen E;
+senkrechten Unterräumen E1, E2, ..., Er zu tun haben. Ist ihre
+Summe der Gesamtraum, dann spaltet sich jeder Vektor x in r
+Komponentenvektoren auf, die in den einzelnen Unterräumen Ei
 liegen, nach der Formel
 
-X=E,X+...+E%,
+x = E1x + ... + Erx,
 
-und man nennt den Gesamtraum in E, + **- + E, aufgespalten.
-Die Projektionen E; (@ = 1,..., r) sind idempotent und zueinander
-orthogonal. | X | bezeichne die Länge eines Vektors X.
+und man nennt den Gesamtraum in E1 + ... + Er aufgespalten.
+Die Projektionen Ei (i = 1, ..., r) sind idempotent und zueinander
+orthogonal. |x| bezeichne die Länge eines Vektors x.
 
 Durch eine Richtung in I oder durch einen in diese Richtung
-weisenden Vektor X stellt die Quantenphysik den Wellenzustand
+weisenden Vektor x stellt die Quantenphysik den Wellenzustand
 des zu untersuchenden physikalischen Systems dar (sei es nun eine
 
 [[pdf-page:0330 printed-page:329]]
 
-einfache Partikel, oder ein Aggregat vieler, oder gar von unbestimmbar vielen Partikeln). Ein Gitter G = {E,,..., Er} bedeutet
-ein Aufspalten des gesamten Vektorraums in gegenseitig orthogonale UnterräumeE, + *** + Er. Wir sprechen von einem Merkmal i, genauer (G; i), das jedem dieser Unterräume E; entspricht.
-Befindet sich das System in dem Wellenzustand X, so ist die Wahrscheinlichkeit, daß es das Merkmal i besitzt, gleich
+einfache Partikel, oder ein Aggregat vieler, oder gar von unbestimmbar vielen Partikeln). Ein Gitter G = {E1, ..., Er} bedeutet
+ein Aufspalten des gesamten Vektorraums in gegenseitig orthogonale Unterräume E1 + ... + Er. Wir sprechen von einem Merkmal i, genauer (G; i), das jedem dieser Unterräume Ei entspricht.
+Befindet sich das System in dem Wellenzustand x, so ist die Wahrscheinlichkeit, daß es das Merkmal i besitzt, gleich
 
-Pi=lERP/IR?. od
+pi = |Ei x|^2 / |x|^2. (1)
 Die Pythagoreische Gleichung
-E18? +... +1E,8]?=]2]?
 
-zeigt, daß die Summe dieser Wahrscheinlichkeiten p; gleich der
+|E1 x|^2 + ... + |Er x|^2 = |x|^2
+
+zeigt, daß die Summe dieser Wahrscheinlichkeiten pi gleich der
 Einheit ist. Kein Gitter kann mehr als n verschiedene Merkmale
 liefern. So entspricht unser Modell wie das klassische, mit dem es
 verglichen ist, einer Situation, bei der die Anzahl der Merkmalwerte begrenzt ist. In der Natur ist das nicht so, doch gehen keine
@@ -204,42 +205,42 @@ zwischen Objekt, Beobachter und beobachteter Erscheinung benützte, ohne dabei a
 ist die Tatsache, daß Gitter im Vektorraum Überlagerungen ausschließen. Angenommen, I sei auf zwei Arten in orthogonale
 Unterräume
 
-I=E,+... +E,und I=Ei+... +E}
+I = E1 + ... + Er und I = E1' + ... + Es'
 
 [[pdf-page:0331 printed-page:330]]
 
-aufgespalten worden. Natürlich ist es möglich, jeden Vektor X von
-E; in seine Komponenten Er X (k = 1,..., s) zu zerlegen, doch
-werden sie im allgemeinen nicht mehr in E; liegen; das werden sie
-nur dann tun, wenn der Operator E; mit den Operatoren E}', Ey,...
+aufgespalten worden. Natürlich ist es möglich, jeden Vektor x von
+Ei in seine Komponenten Ek'x (k = 1, ..., s) zu zerlegen, doch
+werden sie im allgemeinen nicht mehr in Ei liegen; das werden sie
+nur dann tun, wenn der Operator Ei mit den Operatoren E1', E2', ...
 vertauschbar ist. Somit setzt die Kombination zweier Gitter die
-Vertauschbarkeit der r Operatoren E; mit den s Operatoren Ex’
+Vertauschbarkeit der r Operatoren Ei mit den s Operatoren Ek'
 voraus; ist diese Bedingung erfüllt, so spielt die Reihenfolge der
 Kombination, ob G’ auf G oder ob G auf G’ folgt, keine Rolle.
 Das Seltsame an den quantenphysikalischen Sieben ist gerade die
 Eigenschaft, daß zwei solche Siebe wegen ihrer „entgegengesetzten
 Orientierungen‘ nicht-kommutativ sein können und es auch gewöhnlich sind. Sich auf zwei nicht-kommutative Gitter beziehende
 Merkmale i und k sind unverträglich, und in einer Situation, in der
-i bestimmt ist, ist es X nicht. In diesem Sinne sind Position und
-Impuls einer Partikel unverträglich. Sind Ax, Ap bezüglich der
-Unsicherheiten der x-Koordinate einer Partikel und der x-Komponente ihres Impulses, dann ist das Produkt Ax Ap notwendig
+i bestimmt ist, ist es k nicht. In diesem Sinne sind Position und
+Impuls einer Partikel unverträglich. Sind Δx, Δp bezüglich der
+Unsicherheiten der x-Koordinate einer Partikel und der x-Komponente ihres Impulses, dann ist das Produkt Δx · Δp notwendig
 größer als h. Das von Heisenberg stammende Unbestimmtheitsprinzip verkörpert in präziser Form die Idee der Komplementarität.
 Wären Farbe und Gestalt eines Körpers solche unverträglichen
 Merkmale, so hätte es einen Sinn zu fragen, ob ein Körper grün
 sei, und es hätte auch einen Sinn zu fragen, ob er rund sei; aber
 die Frage: „Ist er grün und rund ?“ wäre sinnlos. Es werden hier
 wie im klassischen Modell den einzelnen Quantenzuständen (G; i)
-verschiedene Zahlen &; zugeschrieben; damit ist eine Observable A
-definiert, die die r Werte «a,,....,&r anzunehmen vermag mit der
-Wahrscheinlichkeit p;, (1), für den Wert a; unter der Voraussetzung, daß sich das System in dem Wellenzustand X befindet?).
+verschiedene Zahlen αi zugeschrieben; damit ist eine Observable A
+definiert, die die r Werte α1, ..., αr anzunehmen vermag mit der
+Wahrscheinlichkeit pi, (1), für den Wert αi unter der Voraussetzung, daß sich das System in dem Wellenzustand x befindet.
 
-Die Zerlegung in die einzelnen Unterräume E; durch ein Gitter
-G des Vektorraumes list an sich ein rein ideeller Prozeß. Die wirkliche Anwendung des Gitters auf ein physikalisches System wirft
-jedoch das System aus dem Wellenzustand X in einen der Wellenzustände EiX,..., ErX; welcher Wellenzustand es ist, kann nicht
-vorausgesagt werden, nur die relativen Wahrscheinlichkeiten| 3;X]?
+Die Zerlegung in die einzelnen Unterräume Ei durch ein Gitter
+G des Vektorraumes I ist an sich ein rein ideeller Prozeß. Die wirkliche Anwendung des Gitters auf ein physikalisches System wirft
+jedoch das System aus dem Wellenzustand x in einen der Wellenzustände E1x, ..., Erx; welcher Wellenzustand es ist, kann nicht
+vorausgesagt werden, nur die relativen Wahrscheinlichkeiten |Eix|^2
 dieser r Ereignisse sind vorausbestimmt. In diesem Sinne bedeutet
 
-2) Nach ihrer Definition können solche Größen addiert und multipliziert
+1) Nach ihrer Definition können solche Größen addiert und multipliziert
 werden unter der Voraussetzung, daß sie zu vertauschbaren Gittern gehören.
 
 [[pdf-page:0332 printed-page:331]]

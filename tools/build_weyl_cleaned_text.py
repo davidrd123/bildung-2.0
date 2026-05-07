@@ -13,7 +13,7 @@ SOURCE_DIR = ROOT / "sources/modern/weyl-philosophie-der-mathematik-und-naturwis
 SECTIONS_PATH = SOURCE_DIR / "sections.yaml"
 OCR_DIR = SOURCE_DIR / "ocr/tesseract-deu/pages"
 CLEANED_DIR = SOURCE_DIR / "cleaned"
-MANUALLY_CURATED_SECTIONS = {"front-contents"}
+MANUALLY_CURATED_SECTIONS = {"front-contents", "appendix-c-quantenphysik-und-kausalitaet"}
 
 
 LETTER_CONTINUATION = re.compile(r"^[A-Za-zÄÖÜäöüß]")
