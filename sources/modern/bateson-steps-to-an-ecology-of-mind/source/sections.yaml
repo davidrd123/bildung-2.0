@@ -1,0 +1,460 @@
+book:
+  title: "Steps to an Ecology of Mind"
+  author: "Gregory Bateson"
+  source_text_witness: "sources/modern/incoming/books/Steps to an Ecology of Mind - Gregory Bateson.txt"
+  extracted_full_text: "full/steps-to-an-ecology-of-mind.txt"
+  extraction_notes:
+    - "Generated from the local TXT witness on the incoming shelf."
+    - "Control characters and soft hyphens were removed during extraction."
+    - "The witness heading for The Roots of Ecological Crisis appears as The Boots of Ecological Crisis; metadata follows the contents listing."
+sections:
+  - seq: 0
+    slug: "title-pages-and-contents"
+    title: "Title pages and contents"
+    kind: "front-matter"
+    file: "raw/000-title-pages-and-contents.txt"
+    start_line: 1
+    end_line: 139
+    line_count: 139
+    printed_page_start: null
+  - seq: 1
+    slug: "preface-1987"
+    title: "Preface, 1987"
+    kind: "front-matter"
+    file: "raw/001-preface-1987.txt"
+    start_line: 140
+    end_line: 168
+    line_count: 29
+    printed_page_start: null
+  - seq: 2
+    slug: "preface-1971"
+    title: "Preface, 1971"
+    kind: "front-matter"
+    file: "raw/002-preface-1971.txt"
+    start_line: 169
+    end_line: 203
+    line_count: 35
+    printed_page_start: null
+  - seq: 3
+    slug: "foreword-1999"
+    title: "Foreword by Mary Catherine Bateson, 1999"
+    kind: "front-matter"
+    file: "raw/003-foreword-1999.txt"
+    start_line: 204
+    end_line: 325
+    line_count: 122
+    printed_page_start: null
+  - seq: 4
+    slug: "foreword-1971"
+    title: "Foreword, 1971"
+    kind: "front-matter"
+    file: "raw/004-foreword-1971.txt"
+    start_line: 326
+    end_line: 403
+    line_count: 78
+    printed_page_start: null
+  - seq: 5
+    slug: "introduction-the-science-of-mind-and-order"
+    title: "Introduction: The Science of Mind and Order"
+    kind: "front-matter"
+    file: "raw/005-introduction-the-science-of-mind-and-order.txt"
+    start_line: 404
+    end_line: 560
+    line_count: 157
+    printed_page_start: null
+  - seq: 10
+    slug: "part-one-metalogues"
+    title: "Part I: Metalogues"
+    kind: "part"
+    file: "raw/010-part-one-metalogues.txt"
+    start_line: 561
+    end_line: 573
+    line_count: 13
+    printed_page_start: null
+  - seq: 11
+    slug: "metalogue-why-do-things-get-in-a-muddle"
+    title: "Metalogue: Why Do Things Get in a Muddle?"
+    kind: "essay"
+    file: "raw/011-metalogue-why-do-things-get-in-a-muddle.txt"
+    start_line: 574
+    end_line: 1098
+    line_count: 525
+    printed_page_start: null
+  - seq: 12
+    slug: "metalogue-why-do-frenchmen"
+    title: "Metalogue: Why Do Frenchmen?"
+    kind: "essay"
+    file: "raw/012-metalogue-why-do-frenchmen.txt"
+    start_line: 1099
+    end_line: 1515
+    line_count: 417
+    printed_page_start: null
+  - seq: 13
+    slug: "metalogue-about-games-and-being-serious"
+    title: "Metalogue: About Games and Being Serious"
+    kind: "essay"
+    file: "raw/013-metalogue-about-games-and-being-serious.txt"
+    start_line: 1516
+    end_line: 2090
+    line_count: 575
+    printed_page_start: null
+  - seq: 14
+    slug: "metalogue-how-much-do-you-know"
+    title: "Metalogue: How Much Do You Know?"
+    kind: "essay"
+    file: "raw/014-metalogue-how-much-do-you-know.txt"
+    start_line: 2091
+    end_line: 2529
+    line_count: 439
+    printed_page_start: null
+  - seq: 15
+    slug: "metalogue-why-do-things-have-outlines"
+    title: "Metalogue: Why Do Things Have Outlines?"
+    kind: "essay"
+    file: "raw/015-metalogue-why-do-things-have-outlines.txt"
+    start_line: 2530
+    end_line: 3038
+    line_count: 509
+    printed_page_start: null
+  - seq: 16
+    slug: "metalogue-why-a-swan"
+    title: "Metalogue: Why a Swan?"
+    kind: "essay"
+    file: "raw/016-metalogue-why-a-swan.txt"
+    start_line: 3039
+    end_line: 3467
+    line_count: 429
+    printed_page_start: null
+  - seq: 17
+    slug: "metalogue-what-is-an-instinct"
+    title: "Metalogue: What Is an Instinct?"
+    kind: "essay"
+    file: "raw/017-metalogue-what-is-an-instinct.txt"
+    start_line: 3468
+    end_line: 5874
+    line_count: 2407
+    printed_page_start: null
+  - seq: 20
+    slug: "part-two-form-and-pattern-in-anthropology"
+    title: "Part II: Form and Pattern in Anthropology"
+    kind: "part"
+    file: "raw/020-part-two-form-and-pattern-in-anthropology.txt"
+    start_line: 5875
+    end_line: 5878
+    line_count: 4
+    printed_page_start: null
+  - seq: 21
+    slug: "culture-contact-and-schismogenesis"
+    title: "Culture Contact and Schismogenesis"
+    kind: "essay"
+    file: "raw/021-culture-contact-and-schismogenesis.txt"
+    start_line: 5879
+    end_line: 5981
+    line_count: 103
+    printed_page_start: null
+  - seq: 22
+    slug: "experiments-in-thinking-about-observed-ethnological-material"
+    title: "Experiments in Thinking About Observed Ethnological Material"
+    kind: "essay"
+    file: "raw/022-experiments-in-thinking-about-observed-ethnological-material.txt"
+    start_line: 5982
+    end_line: 6092
+    line_count: 111
+    printed_page_start: null
+  - seq: 23
+    slug: "morale-and-national-character"
+    title: "Morale and National Character"
+    kind: "essay"
+    file: "raw/023-morale-and-national-character.txt"
+    start_line: 6093
+    end_line: 6314
+    line_count: 222
+    printed_page_start: null
+  - seq: 24
+    slug: "bali-the-value-system-of-a-steady-state"
+    title: "Bali: The Value System of a Steady State"
+    kind: "essay"
+    file: "raw/024-bali-the-value-system-of-a-steady-state.txt"
+    start_line: 6315
+    end_line: 6495
+    line_count: 181
+    printed_page_start: null
+  - seq: 25
+    slug: "style-grace-and-information-in-primitive-art"
+    title: "Style, Grace, and Information in Primitive Art"
+    kind: "essay"
+    file: "raw/025-style-grace-and-information-in-primitive-art.txt"
+    start_line: 6496
+    end_line: 6925
+    line_count: 430
+    printed_page_start: null
+  - seq: 26
+    slug: "comment-on-part-two"
+    title: "Comment on Part II"
+    kind: "comment"
+    file: "raw/026-comment-on-part-two.txt"
+    start_line: 6926
+    end_line: 7063
+    line_count: 138
+    printed_page_start: null
+  - seq: 30
+    slug: "part-three-form-and-pathology-in-relationship"
+    title: "Part III: Form and Pathology in Relationship"
+    kind: "part"
+    file: "raw/030-part-three-form-and-pathology-in-relationship.txt"
+    start_line: 7064
+    end_line: 7067
+    line_count: 4
+    printed_page_start: null
+  - seq: 31
+    slug: "social-planning-and-the-concept-of-deutero-learning"
+    title: "Social Planning and the Concept of Deutero-Learning"
+    kind: "essay"
+    file: "raw/031-social-planning-and-the-concept-of-deutero-learning.txt"
+    start_line: 7068
+    end_line: 7168
+    line_count: 101
+    printed_page_start: null
+  - seq: 32
+    slug: "a-theory-of-play-and-fantasy"
+    title: "A Theory of Play and Fantasy"
+    kind: "essay"
+    file: "raw/032-a-theory-of-play-and-fantasy.txt"
+    start_line: 7169
+    end_line: 7315
+    line_count: 147
+    printed_page_start: null
+  - seq: 33
+    slug: "epidemiology-of-a-schizophrenia"
+    title: "Epidemiology of a Schizophrenia"
+    kind: "essay"
+    file: "raw/033-epidemiology-of-a-schizophrenia.txt"
+    start_line: 7316
+    end_line: 7382
+    line_count: 67
+    printed_page_start: null
+  - seq: 34
+    slug: "toward-a-theory-of-schizophrenia"
+    title: "Toward a Theory of Schizophrenia"
+    kind: "essay"
+    file: "raw/034-toward-a-theory-of-schizophrenia.txt"
+    start_line: 7383
+    end_line: 7655
+    line_count: 273
+    printed_page_start: null
+  - seq: 35
+    slug: "the-group-dynamics-of-schizophrenia"
+    title: "The Group Dynamics of Schizophrenia"
+    kind: "essay"
+    file: "raw/035-the-group-dynamics-of-schizophrenia.txt"
+    start_line: 7656
+    end_line: 7862
+    line_count: 207
+    printed_page_start: null
+  - seq: 36
+    slug: "minimal-requirements-for-a-theory-of-schizophrenia"
+    title: "Minimal Requirements for a Theory of Schizophrenia"
+    kind: "essay"
+    file: "raw/036-minimal-requirements-for-a-theory-of-schizophrenia.txt"
+    start_line: 7863
+    end_line: 8185
+    line_count: 323
+    printed_page_start: null
+  - seq: 37
+    slug: "double-bind-1969"
+    title: "Double Bind, 1969"
+    kind: "essay"
+    file: "raw/037-double-bind-1969.txt"
+    start_line: 8186
+    end_line: 8329
+    line_count: 144
+    printed_page_start: null
+  - seq: 38
+    slug: "the-logical-categories-of-learning-and-communication"
+    title: "The Logical Categories of Learning and Communication"
+    kind: "essay"
+    file: "raw/038-the-logical-categories-of-learning-and-communication.txt"
+    start_line: 8330
+    end_line: 8786
+    line_count: 457
+    printed_page_start: null
+  - seq: 39
+    slug: "the-cybernetics-of-self-a-theory-of-alcoholism"
+    title: "The Cybernetics of Self: A Theory of Alcoholism"
+    kind: "essay"
+    file: "raw/039-the-cybernetics-of-self-a-theory-of-alcoholism.txt"
+    start_line: 8787
+    end_line: 9183
+    line_count: 397
+    printed_page_start: null
+  - seq: 40
+    slug: "comment-on-part-three"
+    title: "Comment on Part III"
+    kind: "comment"
+    file: "raw/040-comment-on-part-three.txt"
+    start_line: 9184
+    end_line: 9425
+    line_count: 242
+    printed_page_start: null
+  - seq: 50
+    slug: "part-four-biology-and-evolution"
+    title: "Part IV: Biology and Evolution"
+    kind: "part"
+    file: "raw/050-part-four-biology-and-evolution.txt"
+    start_line: 9426
+    end_line: 9429
+    line_count: 4
+    printed_page_start: null
+  - seq: 51
+    slug: "on-empty-headedness-among-biologists-and-state-boards-of-education"
+    title: "On Empty-Headedness Among Biologists and State Boards of Education"
+    kind: "essay"
+    file: "raw/051-on-empty-headedness-among-biologists-and-state-boards-of-education.txt"
+    start_line: 9430
+    end_line: 9470
+    line_count: 41
+    printed_page_start: null
+  - seq: 52
+    slug: "the-role-of-somatic-change-in-evolution"
+    title: "The Role of Somatic Change in Evolution"
+    kind: "essay"
+    file: "raw/052-the-role-of-somatic-change-in-evolution.txt"
+    start_line: 9471
+    end_line: 9639
+    line_count: 169
+    printed_page_start: null
+  - seq: 53
+    slug: "problems-in-cetacean-and-other-mammalian-communication"
+    title: "Problems in Cetacean and Other Mammalian Communication"
+    kind: "essay"
+    file: "raw/053-problems-in-cetacean-and-other-mammalian-communication.txt"
+    start_line: 9640
+    end_line: 9810
+    line_count: 171
+    printed_page_start: null
+  - seq: 54
+    slug: "a-re-examination-of-batesons-rule"
+    title: "A Re-examination of Bateson's Rule"
+    kind: "essay"
+    file: "raw/054-a-re-examination-of-batesons-rule.txt"
+    start_line: 9811
+    end_line: 10061
+    line_count: 251
+    printed_page_start: null
+  - seq: 55
+    slug: "comment-on-part-four"
+    title: "Comment on Part IV"
+    kind: "comment"
+    file: "raw/055-comment-on-part-four.txt"
+    start_line: 10062
+    end_line: 10149
+    line_count: 88
+    printed_page_start: null
+  - seq: 60
+    slug: "part-five-epistemology-and-ecology"
+    title: "Part V: Epistemology and Ecology"
+    kind: "part"
+    file: "raw/060-part-five-epistemology-and-ecology.txt"
+    start_line: 10150
+    end_line: 10153
+    line_count: 4
+    printed_page_start: null
+  - seq: 61
+    slug: "cybernetic-explanation"
+    title: "Cybernetic Explanation"
+    kind: "essay"
+    file: "raw/061-cybernetic-explanation.txt"
+    start_line: 10154
+    end_line: 10272
+    line_count: 119
+    printed_page_start: null
+  - seq: 62
+    slug: "redundancy-and-coding"
+    title: "Redundancy and Coding"
+    kind: "essay"
+    file: "raw/062-redundancy-and-coding.txt"
+    start_line: 10273
+    end_line: 10423
+    line_count: 151
+    printed_page_start: null
+  - seq: 63
+    slug: "conscious-purpose-versus-nature"
+    title: "Conscious Purpose versus Nature"
+    kind: "essay"
+    file: "raw/063-conscious-purpose-versus-nature.txt"
+    start_line: 10424
+    end_line: 10588
+    line_count: 165
+    printed_page_start: null
+  - seq: 64
+    slug: "effects-of-conscious-purpose-on-human-adaptation"
+    title: "Effects of Conscious Purpose on Human Adaptation"
+    kind: "essay"
+    file: "raw/064-effects-of-conscious-purpose-on-human-adaptation.txt"
+    start_line: 10589
+    end_line: 10683
+    line_count: 95
+    printed_page_start: null
+  - seq: 65
+    slug: "form-substance-and-difference"
+    title: "Form, Substance, and Difference"
+    kind: "essay"
+    file: "raw/065-form-substance-and-difference.txt"
+    start_line: 10684
+    end_line: 10870
+    line_count: 187
+    printed_page_start: null
+  - seq: 66
+    slug: "comment-on-part-five"
+    title: "Comment on Part V"
+    kind: "comment"
+    file: "raw/066-comment-on-part-five.txt"
+    start_line: 10871
+    end_line: 10922
+    line_count: 52
+    printed_page_start: null
+  - seq: 70
+    slug: "part-six-crisis-in-the-ecology-of-mind"
+    title: "Part VI: Crisis in the Ecology of Mind"
+    kind: "part"
+    file: "raw/070-part-six-crisis-in-the-ecology-of-mind.txt"
+    start_line: 10923
+    end_line: 10926
+    line_count: 4
+    printed_page_start: null
+  - seq: 71
+    slug: "from-versailles-to-cybernetics"
+    title: "From Versailles to Cybernetics"
+    kind: "essay"
+    file: "raw/071-from-versailles-to-cybernetics.txt"
+    start_line: 10927
+    end_line: 11019
+    line_count: 93
+    printed_page_start: null
+  - seq: 72
+    slug: "pathologies-of-epistemology"
+    title: "Pathologies of Epistemology"
+    kind: "essay"
+    file: "raw/072-pathologies-of-epistemology.txt"
+    start_line: 11020
+    end_line: 11134
+    line_count: 115
+    printed_page_start: null
+  - seq: 73
+    slug: "the-roots-of-ecological-crisis"
+    title: "The Roots of Ecological Crisis"
+    kind: "essay"
+    file: "raw/073-the-roots-of-ecological-crisis.txt"
+    start_line: 11135
+    end_line: 11237
+    line_count: 103
+    printed_page_start: null
+  - seq: 74
+    slug: "ecology-and-flexibility-in-urban-civilization"
+    title: "Ecology and Flexibility in Urban Civilization"
+    kind: "essay"
+    file: "raw/074-ecology-and-flexibility-in-urban-civilization.txt"
+    start_line: 11238
+    end_line: 11466
+    line_count: 229
+    printed_page_start: null

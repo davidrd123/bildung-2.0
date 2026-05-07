@@ -1,0 +1,390 @@
+CHAPTER IX
+
+
+
+IRREVERSIBILITY—
+
+THE ENTROPY
+
+BARRIER
+
+
+Entropy and the Arrow of Time
+
+
+In the preceding chapter we described some difficulties in the microscopic theory of irreversible processes. Its relation with dynamics, either classical or quantum, cannot be simple, in the sense that irreversibility and its concomitant increase of entropy cannot be a general consequence of dynamics. A microscopic theory of irreversible processes will require additional, more specific conditions. We must accept a pluralistic world in which reversible and irreversible processes coexist. Yet such a pluralistic world is not easy to accept.
+
+In his Dictionnaire Philosophique Voltaire wrote the following about destiny:
+
+… everything is governed by immutable laws … everything is prearranged … everything is a necessary effect.… There are some people who, frightened by this truth, allow half of it, like debtors who offer their creditors half their debt, asking for more time to pay the remainder. There are, they say, events which are necessary and others which are not. It would be strange if a part of what happens had to happen and another part did not. … I necessarily must have the passion to write this, and you must have the passion to condemn me; we are both equally foolish, both toys in the hands of destiny. Your nature is to do ill, mine is to love truth, and to publish it in spite of you.1
+
+
+
+However convincing they may sound, such a priori arguments can lead us astray. Voltaire’s reasoning is Newtonian: nature always conforms to itself. But, curiously, today we find ourselves in the strange world mocked by Voltaire; we are astonished to discover the qualitative diversity presented by nature.
+
+It is not surprising that people have vacillated between the two extremes; between the elimination of irreversibility from physics, advocated by Einstein, as we have mentioned,2 and, on the contrary, the emphasis on the importance of irreversibility, as in Whitehead’s concept of process. There can be no doubt that irreversibility exists on the macroscopic level and has an important constructive role, as we have shown in Chapters V and VI. Therefore there must be something in the microscopic world of which macroscopic irreversibility is the manifestation.
+
+The microscopic theory has to account for two closely related elements. First of all, we must follow Boltzmann in attempting to construct a microscopic model for entropy (Boltzmann’s H function) that changes uniformly in time. This change has to define our arrow of time. The increase of entropy for isolated systems has to express the aging of the system.
+
+Often we may have an arrow of time without being able to associate entropy with the type of processes considered. Popper gives a simple example of a system presenting a unidirectional process and therefore an arrow of time.
+
+Suppose a film is taken of a large surface of water initially at rest into which a stone is dropped. The reversed film will show contracting, circular waves of increasing amplitude. Moreover, immediately behind the highest wave crest, a circular region of undisturbed water will close in towards the centre. This cannot be regarded as a possible classical process. It would demand a vast number of distant coherent generators of waves the coordination of which, to be explicable, would have to be shown, in the film, as originating from one centre. This, however, raises precisely the same difficulty again, if we try to reverse the amended film.3
+
+
+
+Indeed, whatever the technical means, there will always be a distance from the center beyond which we are unable to generate a contracting wave. There are unidirectional processes. Many other processes of the type presented by Popper can be imagined: we never see energy coming from all directions converge on a star, together with the backward-running nuclear reactions that would absorb that energy.
+
+In addition, there exist other arrows of time—for example, the cosmological arrow (see the excellent account by M. Gardner4). If we assume that the universe started with a Big Bang, this obviously implies a temporal order on the cosmological level. The size of the universe continues to increase, but we cannot identify the radius of the universe with entropy. Indeed, as we already mentioned, inside the expanding universe we find both reversible and irreversible processes. Similarly, in elementary-particle physics there exist processes that present the so-called T-violation. The T-violation implies that the equations describing the evolution of the system for +t are different from those describing the evolution for -t. However, this T-violation does not prevent us from including it in the usual (Hamiltonian) formulation of dynamics. No entropy function can be defined as a result of the T-violation.
+
+We are reminded of the celebrated discussion between Einstein and Ritz published in 1909.5 This is a quite unusual paper, a very short one, less than a printed page long. It simply is a statement of disagreement. Einstein argued that irreversibility is a consequence of the probability concept introduced by Boltzmann. On the contrary, Ritz argued that the distinction between “retarded” and “advanced” waves plays an essential role. This distinction reminds us of Popper’s argument. The waves we observe in the pond are retarded waves; they follow the dropping of the stone.
+
+Both Einstein and Ritz introduced essential elements into the discussion of irreversibility, but each of them emphasized only part of the story. We have already mentioned in Chapter VIII that probability presupposes a direction of time and therefore cannot be used to derive the arrow of time. We have also mentioned that the exclusion of processes such as advanced waves does not necessarily lead to a formulation of the second law. We need both types of arguments.
+
+
+
+
+
+Irreversibility as a Symmetry-Breaking Process
+
+
+Before discussing the problem of irreversibility, it is useful to remember how another type of symmetry-breaking, spatial symmetry-breaking, can be derived. In the equations describing reaction-diffusion systems, left and right play the same role (the diffusion equations remain invariant when we perform the space inversion r → −r). Still, as we have seen, bifurcations may lead to solutions in which this symmetry is broken (see Chapter V). For example, the concentration of some of the components may become higher on the left than on the right. The symmetry of the equations only requires that the symmetry-breaking solutions appear in pairs.
+
+There are, of course, many reaction-diffusion equations that do not present bifurcations and that therefore cannot break spatial symmetry. The breaking of spatial symmetry requires other highly specific conditions. This is valuable for understanding temporal symmetry-breaking, in which we are primarily interested here. We have to find systems in which the equations of motion may have realizations of lower symmetry.
+
+The equations are indeed invariant in respect to time inversion t → −t. However, the realization of these equations may correspond to evolutions that lose this symmetry. The only condition imposed by the symmetry of equations is that such realizations appear in pairs. If, for example, we find one solution going to equilibrium in the far distant future (and not in the far distant past), we should also find a solution that goes to equilibrium in the far distant past (and not in the far distant future). Symmetry-broken solutions appear in pairs.
+
+Once we find such a situation we can express the intrinsic meaning of the second law. It becomes a selection principle stating that only one of the two types of solutions can be realized or may be observed in nature. Whenever applicable, the second law expresses an intrinsic polarization of nature. It can never be the outcome of dynamics itself. It has to appear as a supplementary selection principle that when realized is propagated by dynamics. Only a few years ago it seemed impossible to attempt such a program. However, over the past few decades dynamics has made remarkable progress, and we can now understand in detail how these symmetry-breaking solutions emerge in dynamic systems “of sufficient complexity” and what the selection rule expressed by the second law of thermodynamics means on the microscopic level. This is what we want to show in the next part of this chapter.
+
+
+
+
+
+The Limits of Classical Concepts
+
+
+Let us start with classical mechanics. As we have already mentioned, if trajectory is to be the basic irreducible element, the world would be as reversible as the trajectories out of which it is formed. In this description there would be no entropy and no arrow of time; but, as a result of unexpected recent developments, the validity of the trajectory concept appears far more limited than we might have expected. Let us return to Gibbs’ and Einstein’s theory of ensembles, introduced in Chapter VIII. We have seen that Gibbs and Einstein introduced phase space into physics to account for the fact that we do not “know” the initial state of systems formed by a large number of particles. For them, the distribution function in phase space was only an auxiliary construction expressing our de facto ignorance of a situation that was well determined de jure. However, the entire problem takes on new dimensions once it can be shown that for certain types of systems an infinitely precise determination of initial conditions leads to a self-contradictory procedure. Once this is so, the fact that we never know a single trajectory but a group, an ensemble of trajectories in phase space, is not a mere expression of the limits of our knowledge. It becomes a starting point of a new way of investigating dynamics.
+
+It is true that in simple cases there is no problem. Let us take the example of a pendulum. It may oscillate or else rotate about its axis according to the initial conditions. For it to rotate, its kinetic energy must be large enough for it not to “fall back” before reaching a vertical position. These two types of motion define two disjointed regions of phase space. The reason for this is very simple: rotation requires more energy than oscillation (see Figure 30).
+
+
+
+Figure 30. Representation of a pendulum’s motion in a space where V is the velocity and θ the angle of deflection. (a) typical trajectories in (V, θ) space; (b) the shaded regions correspond to oscillations; the region outside corresponds to rotations.
+
+
+
+If our measurements allow us to establish that the system is initially in a given region, we may safely predict the type of motion displayed by the pendulum. We can increase the accuracy of our measurements and localize the initial state of the pendulum in a smaller region circumscribed by the first. In any case, we know the system’s behavior for all time; nothing new or unexpected is likely to occur.
+
+One of the most surprising results achieved in the twentieth century is that such a description is not valid in general. On the contrary, “most” dynamic systems behave in a quite unstable way.6 Let us indicate one kind of trajectory (for example, that of oscillation) by + and another kind (for example, that corresponding to rotation) by *. Instead of Figure 30, where the two regions were separated, we find, in general, a mixture of states that makes the transition to a single point ambiguous (see Figure 31). If we know only that the initial state of our system is in region A, we cannot deduce that its trajectory is of type +; it may equally well be of type *. We achieve nothing by increasing the accuracy by going from region A to a smaller region within it, for the uncertainty remains. In all regions, however small, there are always states belonging to each of the two types of trajectories.7
+
+
+
+Figure 31. Schematic representation of any region, arbitrarily small, of the phase space V for a system presenting dynamic instability. As in the case of the pendulum, there are two types of trajectories (represented here by + and *); however, in contrast with the pendulum, both motions appear in every region arbitrary small.
+
+
+
+For such systems, a trajectory becomes unobservable. This instability expresses the limits of Newtonian idealization. The independence of the two basic elements of Newtonian dynamics, the dynamic law and the initial conditions, is destroyed: the dynamic law enters into conflict with the determination of the initial conditions. We may recall the way in which Anaxagoras conceived of the wealth of nature’s creative possibilities. For him, every object contains in each of its parts an infinite multiplicity of qualitatively different seeds. Here also, each region of phase space maintains a wealth of qualitatively different behaviors.
+
+In this perspective, the deterministic trajectory appears to have limited application. Inasmuch as we are incapable, not only in practice but also in theory, of describing a system by means of a trajectory and are obliged to use a distribution function corresponding to a finite region (however small) of phase space, we can only predict the statistical future of the system.
+
+Our friend Leon Rosenfeld used to say that concepts can be understood only through their limits. In this sense, it would appear that we now have a better understanding of classical mechanics, the formulation of which paved the way to modern science.
+
+But how did this new point of view emerge? Here we have to describe the dramatic changes dynamics has undergone during this century. Though it was thought to be the very archetype of a complete, closed branch of knowledge, dynamics has in fact been completely transformed.
+
+
+
+
+
+The Renewal of Dynamics
+
+
+In the first part of this book, we offered a description of dynamics as it was formulated in the nineteenth century. This is the way it is still presented in many textbooks. The prototype of a dynamic system was an integrable system. To solve the equations of motion we only had to find the “good” coordinates, such that the corresponding moments were invariants of motion. In this way interactions between moving entities were eliminated. This program failed. We have already mentioned that at the end of the nineteenth century Bruns and Poincaré demonstrated that most dynamic systems, starting with the famous “three body” problem, were not integrable.
+
+On the other hand, the very idea of approaching equilibrium in terms of the theory of ensembles requires that we go beyond the idealization of integrable systems. As we saw in Chapter VIII, according to the theory of ensembles, an isolated system is in equilibrium when it is represented by a “microcanonical ensemble,” when all points on the surface of given energy have the same probability. This means that for a system to evolve to equilibrium, energy must be the only quantity conserved during its evolution. It must be the only “invariant.” Whatever the initial conditions, the evolution of the system must allow it to reach all points on the surface of given energy. But for an integrable system, energy is far from being the only invariant. In fact, there are as many invariants as degrees of freedom, since each generalized momentum remains constant. Therefore we have to expect that such a system is “imprisoned” in a very small “fraction” of the constant-energy (see Figure 32) surface formed by the intersection of all these invariant surfaces.
+
+
+
+Figure 32. Temporal evolution of a cell in phase space p, q. The “volume” of the cell and its form are maintained in time; moreover, most of the phase space is inaccessible to the system.
+
+
+
+To avoid these difficulties, Maxwell and Boltzmann introduced a new, quite different type of dynamic system. For these systems energy would be the only invariant. Such systems are called “ergodic” systems (see Figure 33).
+
+
+
+Figure 33. Typical evolution in phase space of a cell corresponding to an ergodic system. Time going on, the “volume” and the form are conserved but the cell now spirals through the whole phase space.
+
+
+
+Great contributions to the theory of ergodic systems have been made by Birchoff, von Neumann, Hopf, Kolmogoroff, and Sinai, to mention only a few.8,9,10 Today we know that there are large classes of dynamic (though non-Hamiltonian) systems that are ergodic. We also know that even relatively simple systems may have properties stronger than ergodicity. For these systems, motion in phase space becomes highly chaotic (while always preserving a volume that agrees with the Liouville equation mentioned in Chapter VII).
+
+Suppose that our knowledge of initial conditions permits us to localize a system in a small cell of the phase space. During its evolution, we shall see this initial cell twist and turn and, like an amoeba, send out “pseudopods” in all directions, spreading out in increasingly thinner and ever more twisted filaments until it finally invades the whole space. No sketch can do justice to the complexity of the actual situation. Indeed, during the dynamic evolution of a mixing system, two points as close together in phase space as we might wish may head in different directions. Even if we possess a lot of information about the system so that the initial cell formed by its representative points is very small, dynamic evolution turns this cell into a true geometric “monster” stretching its network of filaments through phase space.
+
+
+
+Figure 34. Typical evolution in phase space of a cell corresponding to a “mixing” system. The volume is still conserved but no more its form: the cell progressively spreads through the whole phase space.
+
+
+
+We would like to illustrate the distinction between stable and unstable systems with a few simple examples. Consider a phase space with two dimensions. At regular time intervals, we shall replace these coordinates by new ones. The new point on the horizontal axis is p-q, the new ordinate p. Figure 35 shows what happens when we apply this operation to a square.
+
+
+
+Figure 35. Transformation of a volume in phase space generated by a discrete transformation: the abscissa p becomes p-q, the ordinate q becomes p. The transformation is cyclic: after six times the initial cell is recovered.
+
+
+
+The square is deformed, but after six transformations we return to the original square. The system is stable: neighboring points are transformed into neighboring points. Moreover, it corresponds to a cyclic transformation (after six operations the original square reappears).
+
+Let us now consider two examples of highly unstable systems—the first mathematical, the second of obvious physical relevance. The first system consists of a transformation that, for obvious reasons, mathematicians call the “baker transformation.”9,10 We take a square and flatten it into a rectangle, then we fold half of the rectangle over the other half to form a square again. This set of operations is shown in Figure 36 and may be repeated as many times as one likes.
+
+
+
+Figure 36. Realization of the baker transformation (B) and of its inverse (B−1). The path of the two spots gives an idea of the transformations.
+
+
+
+Each time the surface of the square is broken up and redistributed. The square corresponds here to the phase space. The baker transformation transforms each point into a well-defined new point. Although the series of points obtained in this way is “deterministic,” the system displays in addition irreducibly statistical aspects. Let us take, for instance, a system described by an initial condition such that a region A of the square is initially filled in a uniform way with representative points. It may be shown that after a sufficient number of repetitions of the transformation, this cell, whatever its size and localization, will be broken up into pieces (see Figure 37). The essential point is that any region, whatever its size, thus always contains different trajectories diverging at each fragmentation. Although the evolution of a point is reversible and deterministic, the description of a region, however small, is basically statistical.
+
+
+
+Figure 37. Time evolution of an unstable system. Time going on, region A splits into regions A’ and A”, which in turn will be divided.
+
+
+
+A similar example involves the scattering of hard spheres. We may consider a small sphere rebounding on a collection of large, randomly distributed spheres. The latter are supposed to be fixed. This is the model physicists call the “Lorentz model,” after the name of a great Dutch physicist, Hendrik Antoon Lorentz.
+
+The trajectory of the small mobile sphere is well defined. However, whenever we introduce the smallest uncertainty in the initial conditions, this uncertainty is amplified through successive collisions. As time passes, the probability of finding the small sphere in a given volume becomes uniform. Whatever the number of transformations, we never return to the original state.
+
+In the last two examples we have strongly unstable dynamic systems. The situation is reminiscent of instabilities as they appear in thermodynamic systems (see Chapter V). Arbitrarily small differences in initial conditions are amplified. As a result we can no longer perform the transition from ensembles in phase space to individual trajectories. The description in terms of ensembles has to be taken as the starting point. Statistical concepts are no longer merely an approximation with respect to some “objective truth.” When faced with these unstable systems, Laplace’s demon is just as powerless as we.
+
+
+
+Figure 38. Schematic representation of the instability of the trajectory of a small sphere rebounding on large ones. The least imprecision about the position of the small sphere makes it impossible to predict which large sphere it will hit after the first collision.
+
+
+
+Einstein’s saying, “God does not play dice,” is well known. In the same spirit Poincaré stated that for a supreme mathematician there is no place for probabilities. However, Poincaré himself mapped the path leading to the answer to this problem.11 He noticed that when we throw dice and use probability calculus, it does not mean that we suppose dynamics to be wrong. It means something quite different. We apply the probability concept because in each interval of initial conditions, however small, there are as “many” trajectories that lead to each of the faces of the dice. This is precisely what happens with unstable dynamic systems. God could, if he wished to, calculate the trajectories in an unstable dynamic world. He would obtain the same result as probability calculus permits us to reach. Of course, if he made use of his absolute knowledge, then he could get rid of all randomness.
+
+In conclusion, there is a close relationship between instability and probability. This is an important point, and we want to discuss it now.
+
+
+
+
+
+From Randomness to Irreversibility
+
+
+Consider a succession of squares to which we apply the baker transformation. This succession is represented in Figure 39. A shaded region may be imagined to be filled with ink, an unshaded region by water. At time zero we have what is called a generating partition. Out of this partition we form a series of either horizontal partitions when we go into the future or vertical partitions going into the past. These are the basic partitions. An arbitrary distribution of ink in the square can be written formally as a superposition of the basic partitions. To each basic partition we may associate an “internal” time that is simply the number of baker transformations we have to perform to go from the generating partition to the one under consideration.12 We therefore see that this type of system admits a kind of internal age.*
+
+
+
+Figure 39. Starting with the “generating partition” (see text) at time 0, we repeatedly apply the baker transformation. We generate horizontal stripes in this way. Similarly going into the past we obtain vertical stripes.
+
+
+
+The internal time T is quite different from the usual mechanical time, since it depends on the global topology of the system. We may even speak of the “timing of space,” thus coming close to ideas recently put forward by geographers, who have introduced the concept of “chronogeography.”13 When we look at the structure of a town, or of a landscape, we see temporal elements interacting and coexisting. Brasilia or Pompeii would correspond to a well-defined internal age, somewhat like one of the basic partitions in the baker transformation. On the contrary, modern Rome, whose buildings originated in quite different periods, would correspond to an average time exactly as an arbitrary partition may be decomposed into elements corresponding to different internal times.
+
+Let us again look at Figure 39. What happens if we go into the far distant future? The horizontal bands of ink will get closer and closer. Whatever the precision of our measurements, after some time we shall conclude that the ink is uniformly distributed over the volume. It is therefore not surprising that this kind of approach to “equilibrium” may be mapped into a stochastic process, such as the Markov chain we described in Chapter VIII. Recently this has been shown with full mathematical rigor,14 but the result seems to us quite natural. As time passes, the distribution of ink reaches equilibrium, exactly like the distribution of balls in the urn experiment discussed in Chapter VIII. However, when we look into the past, again beginning from the generating partition at time zero, we see the same phenomenon. Now ink is distributed along shrinking vertical sections and, again, sufficiently far in the past we shall find a uniform distribution of ink. We may therefore conclude that we can also model this process in terms of a Markov chain, now, however, oriented toward the past. We see that out of the unstable dynamic processes we obtain two Markov chains, one reaching equilibrium in the future, one in the past.
+
+We believe that it is a very interesting result, and we would like to comment it. Internal time provides us with a new ‘nonlocal’ description.
+
+When we know the ‘age’ of the system, (that is, the corresponding partition), we can still not associate to it a well-defined local trajectory.
+
+We know only that the system is in a shaded region (Figure 39). Similarly, if we know some precise initial conditions corresponding to a point in the system, we don’t know the partition to which it belongs, nor the age of the system. For such systems we know therefore two complementary descriptions, and the situation becomes somewhat reminiscent of the one we described in Chapter VII, when we discussed quantum mechanics.
+
+It is because of the existence of this new alternative, nonlocal description, that we can make the transition from dynamics to probabilities. We call the systems for which this is possible “intrinsically random systems”.
+
+In classical deterministic systems, we may use transition probabilities to go from one point to another on a quite degenerate sense. This transition probability will be equal to one if the two points lie on the same dynamic trajectory, or zero if they are not.
+
+In contrast, in genuine probability theory, we need transition probabilities which are positive numbers between zero and one. How is this possible? Here we see in full light the conflict between subjectivistic views and objective interpretations of probability. The subjective interpretation corresponds to the situation where individual trajectories are not known. Probability (and, eventually, irreversibility, closely related to it) would originate from our ignorance. But fortunately, there is another objective interpretation: probability arises as a result of an alternative description of dynamics, a non-local description which arises in strongly unstable dynamical systems.
+
+Here, probability becomes an objective property generated from the inside of dynamics, so to speak, and which expresses a basic structure of the dynamical system. We have stressed the importance of Boltzmann’s basic discovery: the connection between entropy and probability. For intrinsic random systems, the concept of probability acquires a dynamical meaning. We have now to make the transition from intrinsic random systems to irreversible systems. We have seen that out of unstable dynamical processes, we obtain two Markov chains.
+
+We may see this duality in a different way. Take a distribution concentrated on a line (instead of being distributed on a surface). This line may be vertical or horizontal. Let us look at what will happen to this line when we apply the baker transformation going to the future. The result is represented in Figure 40. The vertical line is cut successively into pieces and will reduce to a point in the far distant future. The horizontal line, on the contrary, is duplicated and will uniformly “cover” the surface in the far distant future. Obviously, just the opposite happens if we go to the past. For reasons that are easy to understand, the vertical line is called a contracting fiber, the horizontal line a dilating fiber.
+
+
+
+Figure 40. Contracting and dilating fibers in the baker transformation; time going on, the contracting fiber A1 is shortened (sequence A1 B1 C1), while the dilating fibers are duplicated (sequences A2, B2, C2).
+
+
+
+We see now the complete analogy with bifurcation theory. A contracting fiber and a dilating fiber correspond to two realizations of dynamics, each involving symmetry-breaking and appearing in pairs. The contracting fiber corresponds to equilibrium in the far distant past, the dilating fiber to the future. We therefore have two Markov chains oriented in opposite time directions.
+
+Now we have to make the transistion from intrinsically random to intrinsically irreversible systems. To do so we must understand more precisely the difference between contracting and dilating fibers. We have seen that another system as unstable as the baker transformation can describe the scattering of hard spheres. Here contracting and dilating fibers have a simple physical interpretation. A contracting fiber corresponds to a collection of hard spheres whose velocities are randomly distributed in the far distant past, and all become parallel in the far distant future. A dilating fiber corresponds to the inverse situation, in which we start with parallel velocities and go to a random distribution of velocities. Therefore the difference is very similar to the one between incoming waves and outgoing waves in the example given by Popper. The exclusion of the contracting fibers corresponds to the experimental fact that whatever the ingenuity of the experimenter, he will never be able to control the system to produce parallel velocities after an arbitrary number of collisions. Once we exclude contracting fibers we are left with only one of the two possible Markov chains we have introduced. In other words, the second law becomes a selection principle of initial conditions. Only initial conditions that go to equilibrium in the future are retained.
+
+Obviously the validity of this selection principle is maintained by dynamics. It can easily be seen in the example of the baker transformation that the contracting fiber remains a contracting fiber for all times, and likewise for a dilating fiber. By suppressing one of the two Markov chains we go from an intrinsically random system to an intrinsically irreversible system. We find three basic elements in the description of irreversibility:
+
+instability
+
+
+
+intrinsic randomness
+
+
+
+intrinsic irreversibility
+
+
+
+Intrinsic irreversibility is the strongest property: it implies randomness and instability.14,15
+
+How is this conclusion compatible with dynamics? As we have seen, in dynamics “information” is conserved, while in Markov chains information is lost (and entropy therefore increases; see Chapter VIII). There is, however, no contradiction; when we go from the dynamic description of the baker transformation to the thermodynamic description, we have to modify our distribution function; the “objects” in terms of which entropy increases are different from the ones considered in dynamics. The new distribution function, p, corresponds to an intrinsically time-oriented description of the dynamic system. In this book we cannot dwell on the mathematical aspects of this transformation. Let us only emphasize that it has to be noncanonical (see Chapter II). We must abandon the usual formulations of dynamics to reach the thermodynamic description.
+
+It is quite remarkable that such a transformation exists and that as a result we can now unify dynamics and thermodynamics, the physics of being and the physics of becoming. We shall come back to these new thermodynamic objects later in this chapter as well as in our concluding chapter. Let us emphasize only that at equilibrium, whenever entropy reaches its maximum, these objects must behave randomly.
+
+It also seems quite remarkable that irreversibility emerges, so to speak, from instability, which introduces irreducible statistical features into our description. Indeed, what could an arrow of time mean in a deterministic world in which both future and past are contained in the present? It is because the future is not contained in the present and that we go from the present to the future that the arrow of time is associated with the transition from present to future. This construction of irreversibility out of randomness has, we believe, many consequences that go beyond science proper and to which we shall come back in our concluding chapter. Let us clarify the difference between the states permitted by the second law and those it prohibits.
+
+
+
+
+
+The Entropy Barrier
+
+
+Time flows in a single direction, from past to future. We cannot manipulate time, we cannot travel back to the past. Travel through time has preoccupied writers, from The Thousand and One Nights to H. G. Wells’ The Time Machine. In our time, Nabokov’s short novel, Look at the Harlequins!,16 describes the torment of a narrator who finds himself as unable to switch from one spatial direction to the other as we are to “twirl time.” In the fifth volume of Science and Civilization in China, Needham describes the dream of the Chinese alchemists: their supreme aim was not to achieve the transmutation of metals into gold but to manipulate time, to reach immortality through a radical slowdown of natural decaying processes.17 We are now better able to understand why we cannot “twirl time,” to use Nabokov’s expression.
+
+An infinite entropy barrier separates possible initial conditions from prohibited ones. Because this barrier is infinite, technological progress never will be able to overcome it. We have to abandon the hope that one day we will be able to travel back into our past. The situation is somewhat analogous to the barrier presented by the velocity of light. Technological progress can bring us closer to the velocity of light, but in the present views of physics we will never cross it.
+
+To understand the origin of this barrier, let us return to the expression of the H quantity as it appears in the theory of Markov chains (see Chapter VIII). To each distribution we can associate a number—the corresponding value of H. We can say that to each distribution corresponds a well-defined information content. The higher the information content, the more difficult it will be to realize the corresponding state. What we wish to show here is that the initial distribution prohibited by the second law would have an infinite information content. That is the reason why we can neither realize them nor find them in nature.
+
+Let us first come back to the meaning of H as presented in Chapter VIII. We have to subdivide the relevant phase space into sectors or boxes. With each box k, we associate an probability peqm(k) at equilibrium as well as a nonequilibrium probability p(k,t).
+
+The H is a measure of the difference between p(k,t) and peqm(k), and vanishes at equilibrium when this difference disappears. Therefore, to compare the Baker transformation with Markov chains, we have to make more precise the corresponding choice of boxes. Suppose we consider a system at time 2 (see Figure 39), and suppose that this system originated at time ti. Then, a result of our dynamical theory is that the boxes correspond to all possible intersections among the partitions between time ti and t = 2. If we consider now Figure 39, we see that when ti is receding towards the past, the boxes will become steadily thinner as we have to introduce more and more vertical subdivisions. This is expressed in Figure 41, sequence B, where, going from top to bottom, we have ti = 1, 0, −1, and finally ti = −2. We see indeed that the number of boxes increases in this way from 4 to 32.
+
+
+
+Figure 41. Dilating (sequence A) and contracting (sequence C) fibers cross various numbers of the boxes which subdivide a Baker transformation phase space. All “squares” on a given sequence refer to the same time, t = 2, but the number of the boxes subdividing each square depends on the initial time of the system ti.
+
+
+
+Once we have the boxes, we can compare the nonequilibrium distribution with the equilibrium distribution for each box. In the present case, the nonequilibrium distribution is either a dilating fiber (sequence A) or a contracting fiber (sequence C). The important point to notice is that when ti is receding to the past, the dilating fiber occupies an increasing large number of boxes: for ti = –1 it occupies 4 boxes, for ti = –2 it occupies 8 boxes, and so on.
+
+As a result, when we apply the formula given in Chapter VIII, we obtain a finite result, even if the number of boxes goes to infinity for ti→ –∞.
+
+In contrast, the contracting fiber remains always localized in 4 boxes whatever ti. As a result, H, when applied to a contracting fiber, diverges to infinity when ti recedes to the past. In summary, the difference between a dynamical system and the Markov chain is that the number of boxes to be considered in a dynamical system is infinite. It is this fact that leads to a selection principle. Only measures or probabilities, which in the limit of infinite number of boxes give a finite information or a finite H quantity, can be prepared or observed. This excludes contracting fibers.18 For the same reason we must also exclude distributions concentrated on a single point. Initial conditions corresponding to a single point in unstable systems would again correspond to infinite information and are therefore impossible to realize or observe. Again we see that the second law appears as a selection principle.
+
+In the classical scheme, initial conditions were arbitrary. This is no longer so for unstable systems. Here we can associate an information content to each initial condition, and this information content itself depends on the dynamics of the system (as in the baker transformation we used the successive fragmentation of the cells to calculate the information content). Initial conditions and dynamics are no longer independent. The second law as a selection rule seems to us so important that we would like to give another illustration based on the dynamics of correlations.
+
+
+
+
+
+The Dynamics of Correlations
+
+
+In Chapter VIII we discussed briefly the velocity inversion experiment. We may consider a dilute gas and follow its evolution in time. At time t0 we proceed to a velocity inversion of each molecule. The gas then returns to its initial state. We have already noted that for the gas to retrace its past there must be some storage of information. This storage can be described in terms of “correlations” between particles.19
+
+Consider first a cloud of particles directed toward a target (a heavy, motionless particle). This situation is described in Figure 42. In the far distant past, there were no correlations between particles. Now, scattering has two effects, already mentioned in Chapter VIII. It disperses the particles (it makes the velocity distribution more symmetrical) and, in addition, it produces correlations between the scattered particles and the scatterer. The correlations can be made explicit by performing a velocity inversion (that is, by introducing a spherical mirror). Figure 43 represents this situation (the wavy lines represent the correlations). Therefore, the role of scattering is as follows: In the direct process, it makes the velocity distribution more symmetrical and creates correlations; in the inverse process, the velocity distribution becomes less symmetrical and correlations disappear. We see that the consideration of correlations introduces a basic distinction between the direct and the inverse processes.
+
+
+
+Figure 42. Scattering of particles. Initially all particles have the same velocity. After the collision, the velocities are no more identical, and the scattered particles are correlated with the scatterer (correlations are always represented by wavy lines).
+
+
+
+
+
+Figure 43. Effect of a velocity inversion after a collision: after the new “inverted” collision, the correlations are suppressed and all particles have the same velocity.
+
+
+
+We can apply our conclusions to many-body systems. Here also we may consider two types of situations: in one, uncorrelated particles enter, are scattered, and correlated particles are produced (see Figure 44). In the opposite situation, correlated particles enter, the correlations are destroyed through collisions, and uncorrelated particles result (see Figure 45).
+
+
+
+Figure 44. Creation of postcollisional correlations represented by wavy lines; for details see text.
+
+
+
+
+
+Figure 45. Destruction of precollisional correlations (wavy lines) through collisions.
+
+
+
+The two situations differ in the temporal order of collisions and correlations. In the first case, we have “postcollisional” correlations. With this distinction between pre- and postcollisional correlations in mind, let us return to the velocity inversion experiment. We start at t = 0, with an initial state corresponding to no correlations between particles. During the time 0→t0 we have a “normal” evolution. Collisions bring the velocity distribution closer to the Maxwellian equilibrium distribution. They also create postcollisional correlations between the particles. At t0 after the velocity inversion, a completely new situation arises. Postcollisional correlations are now transformed into precollisional correlations. In the time interval between t0 and 2t0, these precollisional correlations disappear, the velocity distribution becomes less symmetrical, and at time 2t0 we are back in the noncorrelational state. The history of this system therefore has two stages. During the first, collisions are transformed into correlations’, in the second, correlations turn back into collisions. Both types of processes are compatible with the laws of dynamics. Moreover, as we have mentioned in Chapter VIII, the total “information” described by dynamics remains constant. We have also seen that in Boltzmann’s description the evolution from time 0 till t0 corresponds to the usual decrease of H, while from t0 t0 2t0 we have an abnormal situation: H would increase and entropy decrease. We would then be able to devise experiments in the laboratory or on computers in which the second law would be violated! The irreversibility during time 0–t0 would be “compensated” by “anti-irreversibility” during time t0—2t0.
+
+This is quite unsatisfactory. All these difficulties disappear if we go, as in the baker transformation, to the new “thermodynamic representation” in terms of which dynamics becomes a probabilistic process like a Markov chain. We must also take into account that velocity inversion is not a “natural” process; it requires that “information” be given to molecules from the outside for them to invert their velocity. We need a kind of Maxwellian demon to perform the velocity inversions, and Maxwell’s demon has a price. Let us represent the H quantity (for the probabilistic process) as a function of time. This is done in Figure 46. In this approach, in contrast with Boltzmann’s, the effect of correlations is retained in the new definition of H. Therefore at the velocity inversion point t0 the H quantity will jump, since we abruptly create abnormal precollisional correlations that will have to be destroyed later. This jump corresponds to the entropy or information price we have to pay.
+
+
+
+Figure 46. Time variation of the H-function in the velocity inversion experiment: at time t0, the velocities are inversed and H presents a discontinuity. At time 2t0 the system is in the same state as at time 0, and H recovers the value it had initially. At all times (except at t0), H is decreasing. The important fact is that at time t0 the H-quantity takes two different values (see text).
+
+
+
+Now we have a faithful representation of the second law: at every moment the H quantity decreases (or the entropy increases). There is one exception at time t0: H jumps upward, but that corresponds to the very moment at which the system is open. We can invert the velocities only by acting from the outside.
+
+There is another essential point: at time t0 the new H quantity has two different values, one for the system before velocity inversion and the other after a velocity inversion. These two situations have different entropies. This resembles what occurs in the baker transformation when the contracting and dilating fibers are velocity inversions of each other.
+
+Suppose we wait a sufficient time before making the velocity inversion. The postcollisional correlations would have an arbitrary range, and the entropy price for velocity inversion would become too high. The velocity inversion would then require too high an entropy price and thus would be excluded. In physical terms this means that the second law excludes persistent long-range precollisional correlations.
+
+The analogy with the macroscopic description of the second law is striking. From the point of view of energy conservation (see Chapters IV and V), heat and work play the same role, but no longer from the point of view of the second law. Briefly speaking, work is a more coherent form of energy and always can be converted into heat, but the inverse is not true. There is on the microscopic level a similar distinction between collisions and correlations. From the point of view of dynamics, collisions and correlations play equivalent roles. Collisions give rise to correlations, and correlations may destroy the effect of collisions. But there is an essential difference. We can control collisions and produce correlations, but we cannot control correlations in a way that will destroy the effects collisions have brought into the system. It is this essential difference that is missing in dynamics but that can be incorporated into thermodynamics. Note that thermodynamics does not enter into conflict with dynamics at any point. It adds an additional, essential element to our understanding of the physical world.
+
+
+
+
+
+Entropy as a Selection Principle
+
+
+It is amazing how closely the microscopic theory of irreversible processes resembles traditional macroscopic theory. In both cases entropy initially has a negative meaning. In its macroscopic aspect it prohibits some processes, such as heat flowing from cold to hot. In its microscopic aspect it prohibits certain classes of initial conditions. The distinction between what is permitted and what is prohibited is maintained in time by the laws of dynamics. It is from the negative aspect that the positive aspect emerges: the existence of entropy together with its probability interpretation. Irreversibility no longer emerges as if by a miracle at some macroscopic level. Macroscopic irreversibility only makes apparent the time-oriented polarized nature of the universe in which we live.
+
+As we have emphasized repeatedly, there exist in nature systems that behave reversibly and that may be fully described by the laws of classical or quantum mechanics. But most systems of interest to us, including all chemical systems and therefore all biological systems, are time-oriented on the macroscopic level. Far from being an “illusion,” this expresses a broken time-symmetry on the microscopic level. Irreversibility is either true on all levels or on none. It cannot emerge as if by a miracle, by going from one level to another.
+
+Also we have already noticed, irreversibility is the starting point of other symmetry breakings. For example, it is generally accepted that the difference between particles and antiparticles could arise only in a nonequilibrium world. This may be extended to many other situations. It is likely that irreversibility also played a role in the appearance of chiral symmetry through the selection of the appropriate bifurcation. One of the most active subjects of research now is the way in which irreversibility can be “inscribed” into the structure of matter.
+
+The reader may have noticed that in the derivation of microscopic irreversibility we have been concentrating on classical dynamics. However, the ideas of correlations and the distinction between pre- and postcollisional correlations apply to quantum systems as well. The study of quantum systems is more complicated than the study of classical systems. There is a reason for this: the difference between classical and quantum mechanics. Even small classical systems, such as those formed by a few hard spheres, may present intrinsic irreversibility. However, to reach irreversibility in quantum systems we need large systems, such as those realized in liquids, gases, or in field theory. The study of large systems is obviously more difficult mathematically, and that is why we will not go into the matter here. However, the situation remains essentially the same in quantum theory. There also irreversibility begins as the result of the limitation of the concept of wave function due to a form of quantum instability.
+
+Moreover, the idea of collisions and correlations may also be used in quantum theory. Therefore, as in classical theory, the second law prohibits long-range precollisional correlations.
+
+The transition to a probability process introduces new entities, and it is in terms of these new entities that the second law can be understood as an evolution from order to disorder. This is an important conclusion. The second law leads to a new concept of matter. We would like to describe this concept now.
+
+
+
+
+
+Active Matter
+
+
+Once we associate entropy with a dynamic system, we come back to Boltzmann’s conception: the probability will be maximum at equilibrium. The units we use to describe thermodynamic evolution will therefore behave in a chaotic way at equilibrium. In contrast, in near-equilibrium conditions correlations and coherence will appear.
+
+We come to one of our main conclusions: At all levels, be it the level of macroscopic physics, the level of fluctuations, or the microscopic level, nonequilibrium is the source of order. Nonequilibrium brings “order out of chaos.” But as we already mentioned, the concept of order (or disorder) is more complex than was thought. It is only in some limiting situations, such as with dilute gases, that it acquires a simple meaning in agreement with Boltzmann’s pioneering work.
+
+Let us once more contrast the dynamic description of the physical world in terms of forces and fields with the thermodynamic description. As we mentioned, we can construct computer experiments in which interacting particles initially distributed at random form a lattice. The dynamic interpretation would be the appearance of order through interparticle forces. The thermodynamic interpretation is, on the contrary, the approach to disorder (when the system is isolated), but to disorder expressed in quite different units, which are in this case collective modes involving a large number of particles. It seems to us worthwhile to reintroduce the neologism we used in Chapter VI to define the new units in terms of which the system is incoherent at equilibrium: we call them “hypnons,” sleepwalkers, since they ignore each other at equilibrium. Each of them may be as complex as you wish (think about molecules of the complexity of an enzyme), but at equilibrium their complexity is turned “inward.” Again, inside a molecule there is an intensive electric field, but this field in a dilute gas is negligible as far as other molecules are concerned.
+
+One of the main subjects in present-day physics is the problem of elementary particles. However, we know that elementary particles are far from elementary. New layers of structure are disclosed at higher and higher energies. But what, after all, is an elementary particle? Is the planet earth an elementary particle? Certainly not, because part of this energy is in its interaction with the sun, the moon, and the other planets. The concept of elementary particles requires an “autonomy” that is very difficult to describe in terms of the usual concepts. Take the case of electrons and photons. We are faced with a dilemma: either there are no well-defined particles (because the energy is partly between the electrons and protons), or there are noninteracting particles if we can eliminate the interaction. Even if we knew how to do that, it seems too radical a procedure. Electrons absorb photons or emit photons. A way out may be to go to the physics of processes. The units, the elementary particles, would then be defined as hypnons, as the entities that evolve independently at equilibrium. We hope that there soon will be experiments available to test this hypothesis; it would be quite appealing if atoms interacting with photons (or unstable elementary particles) already carried the arrow of time that expresses the global evolution of nature.
+
+A subject widely discussed today is the problem of cosmic evolution. How could the world near the moment of the Big Bang be so “ordered”? Yet this order is necessary if we wish to understand cosmic evolution as the gradual movement from order to disorder.
+
+To give a satisfactory answer we need to know what “hypnons” could have been appropriate to the extreme conditions of temperature and density that characterized the early universe. Thermodynamics alone will not, of course, solve these problems; neither will dynamics, even in its most refined form field theory. That is why the unification of dynamics and thermodynamics opens new perspectives.
+
+In any case, it is striking how the situation has changed since the formulation of the second law of thermodynamics one hundred fifty years ago. At first it seemed that the atomistic view contradicted the concept of entropy. Boltzmann attempted to save the mechanistic world view at the cost of reducing the second law to a statement of probability with great practical importance but no fundamental significance. We do not know what the definitive solution will be; but today the situation is radically different. Matter is not given. In the present-day view it has to be constructed out of a more fundamental concept in terms of quantum fields. In this construction of matter, thermodynamic concepts (irreversibility, entropy) have a role to play.
+
+Let us summarize what has been achieved here. The central role of the second law (and of the correlative concept of irreversibility) at the level of macroscopic systems has already been emphasized in Books One and Two.
+
+What we have tried to show in Book Three is that we now can go beyond the macroscopic level, and discover the microscopic meaning of irreversibility.
+
+However, this requires basic changes in the way in which we conceive the fundamental laws of physics. It is only when the classical point of view is lost—as it is in the case of sufficiently unstable systems—that we can speak of ‘intrinsic randomness’ and ‘intrinsic irreversibility.’
+
+It is for such systems that we may introduce a new enlarged description of time in terms of the operator time T. As we have shown in the example of the Baker transformation (Chapter IX “From randomness to irreversibility”), this operator has as eigenfunctions partitions of the phase space (see Figure 39).
+
+We come therefore to a situation quite reminiscent of that of quantum mechanics. We have indeed two possible descriptions. Either we give ourselves a point in phase space, and then we don’t know to which partition it belongs, and therefore we don’t know its internal age; or we know its internal age, but then we know only the partition, but not the exact localization of the point.
+
+Once we have introduced the internal time T, we can use entropy as a selection principle to go from the initial description in terms of the distribution function p to a new one, p where the distribution p has an intrinsic arrow of time, satisfying the second law of thermodynamics. The basic difference between p and p appears when these functions are expanded in terms of the eigenfunction of the operator time T (see Chapter VII, “The rise of quantum mechanics”). In p, all internal ages, be they from past or future, appear symmetrically. In contrast, in p, past and future play different roles. The past is included, but the future remains uncertain. That is the meaning of the arrow of time. The fascinating aspect is that there appears now a relation between initial conditions and the laws of change. A state with an arrow of time emerges from a law, which has also an arrow of time, and which transforms the state, however keeping this arrow of time.
+
+We have concentrated mostly on the classical situation.20 However, our analysis applies as well to quantum mechanics, where the situation is more complicated, as the existence of Planck’s constant destroys already the concept of a trajectory, and leads therefore also to a kind of deloalization in phase space. In quantum mechanics we have therefore to superpose the quantum delocalization with delocalization due to irreversibility.
+
+As emphasized in Chapter VII, the two great revolutions in the physics of our century correspond to the incorporation, in the fundamental structure of physics, of impossibilities foreign to classical mechanics: the impossibility of signals propagating with a velocity larger than the velocity of light, and the impossibility of measuring simultaneously coordinates and momentum.
+
+It is not astonishing that the second principle, which as well limits our ability to manipulate matter, also leads to deep changes in the structure of the basic laws of physics.
+
+Let us conclude this part of our monograph with a word of caution. The phenomenological theory of irreversible processes is at present well established. In contrast, the basic microscopic theory of irreversible processes is quite new. At the time of correcting the proofs of this book, experiments are in preparation to test these views. As long as they have not been performed, a speculative element is unavoidable.
+
+__________________________
+
+*It may be noticed that this internal time, which we shall denote by T, is in fact an operator like those introduced in quantum mechanics (see Chapter VII). Indeed, an arbitrary partition of the square does not have a well-defined time but only an “average” time corresponding to the superposition of the basic partitions out of which it is formed.
+
+
+
+
+

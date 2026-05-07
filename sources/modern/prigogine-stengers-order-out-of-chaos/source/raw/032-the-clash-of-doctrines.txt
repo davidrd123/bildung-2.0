@@ -1,0 +1,248 @@
+CHAPTER VIII
+
+
+
+THE CLASH OF
+
+DOCTRINES
+
+
+Probability and Irreversibility
+
+
+We shall see that nearly everywhere the physicist has purged from his science the use of one-way time, as though aware that this idea introduces an anthropomorphic element, alien to the ideals of physics. Nevertheless, in several important cases unidirectional time and unidirectional causality have been invoked, but always, as we shall proceed to show, in support of some false doctrine.
+
+G. N. LEWIS1
+
+The law that entropy always increases—the second law of thermodynamics—holds, I think, the supreme position among the laws of Nature. If someone points out to you that your pet theory of the universe is in disagreement with. Maxwell’s equations—then so much the worse for Maxwell’s equations. If it is found to be contradicted by observation—well, these experimentalists do bungle things sometimes. But if your theory is found to be against the second law of thermodynamics I can give you no hope; there is nothing for it but to collapse in deepest humiliation.
+
+A. S. EDDINGTON2
+
+
+
+With Clausius’ formulation of the second law of thermodynamics, the conflict between thermodynamics and dynamics became obvious. There is hardly a single question in physics that has been more often and more actively discussed than the relation between thermodynamics and dynamics. Even now, a hundred and fifty years after Clausius, the question still arouses strong feelings. No one can remain neutral in this conflict, which involves the meaning of reality and time. Must dynamics, the mother of modern science, be abandoned in favor of some form of thermodynamics? That was the view of the “energeticists,” who exerted great influence during the nineteenth century. Is there a way to “save” dynamics, to recoup the second law without giving up the formidable structure built by Newton and his successors? What role can entropy play in a world described by dynamics?
+
+We have already mentioned the answer proposed by Boltzmann. Boltzmann’s famous equation S = k log P relates entropy and probability: entropy grows because probability grows. Let us immediately emphasize that in this perspective the second law would have great practical importance but would be of no fundamental significance. In his excellent book The Ambidextrous Universe, Martin Gardner writes: “Certain events go only one way not because they can’t go the other way but because it is extremely unlikely that they go backward.”3 By improving our abilities to measure more and more unlikely events, we could reach a situation in which the second law would play as small a role as we want. This is the point of view that is often taken today. However, this was not Planck’s point of view:
+
+It would be absurd to assume that the validity of the second law depends in any way on the skill of the physicist or chemist in observing or experimenting. The gist of the second law has nothing to do with experiment; the law asserts briefly that there exists in nature a quantity which changes always in the same sense in all natural processes. The proposition stated in this general form may be correct or incorrect; but whichever it may be, it will remain so, irrespective of whether thinking and measuring beings exist on the earth or not, and whether or not, assuming they do exist, they are able to measure the details of physical or chemical processes more accurately by one, two, or a hundred decimal places than we can. The limitation to the law, if any, must lie in the same province as its essential idea, in the observed Nature, and not in the Observer. That man’s experience is called upon in the deduction of the law is of no consequence; for that is, in fact, our only way of arriving at a knowledge of natural law.4
+
+
+
+However, Planck’s views remained isolated. As we noted, most scientists considered the second law the result of approximations, the intrusion of subjective views into the exact world of physics. For example, in a celebrated sentence Born stated, “Irreversibility is the effect of the introduction of ignorance into the basic laws of physics.”5
+
+In the present chapter we wish to describe some of the basic steps in the development of the interpretation of the second law. We must first understand why this problem appeared to be so difficult. In Chapter IX we shall go on to present a new approach that, we hope, will clearly express both the radical originality and the objective meaning of the second law. Our conclusion will agree with Planck’s view. We shall show that, far from destroying the formidable structure of dynamics, the second law adds an essential new element to it.
+
+First we wish to clarify Boltzmann’s association of probability and entropy. We shall begin by describing the “urn model” proposed by P. and T. Ehrenfest.6 Consider N objects (for example, balls) distributed between two containers A and B. At regular time intervals (for example, every second) a ball is chosen at random and moved from one container to the other. Suppose that at time n there are k balls in A and N − k balls in B. Then at time n + 1 there can be in A either k − 1 or k + 1 balls. We have the transition probabilities k/N for k → k − 1 and 1 − k/N for k → k + 1. Suppose we continue the game. We expect that as a result of the exchanges of balls the most probable distribution in Boltzmann’s sense will be reached. When the number N of balls is large, this distribution corresponds to an equal number N/2 of balls in each urn. This can be verified by elementary calculations or by performing the experiment.
+
+
+
+Figure 23. Ehrenfest’s urn model. N balls are distributed between two containers A and B. At time n there are k balls in A and N − k balls in B. At regular time intervals a ball is taken at random from one container and put in the other.
+
+
+
+
+
+Figure 24. Approach to equilibrium (k = N/2) in Ehrenfest’s urn model (schematic representation).
+
+
+
+The Ehrenfest model is a simple example of a “Markov process” (or Markov “chain”), named after the great Russian mathematician Markov, who was one of the first to describe such processes (Poincaré was another). In brief, their characteristic feature is the existence of well-defined transition probabilities independent of the previous history of the system.
+
+Markov chains have a remarkable property: they can be described in terms of entropy. Let us call P(k) the probability of finding k balls in A. We may then associate to it an “H quantity,” which has the precise properties of entropy that we discussed in Chapter IV. Figure 25 gives an example of its evolution. The H quantity varies uniformly with time, as does the entropy of an isolated system. It is true that H decreases with time, while the entropy S increases, but that is a matter of definition: H plays the role of −S.
+
+
+
+Figure 25. Time evolution of the H quantity (defined in the text) corresponding to the Ehrenfest model. This quantity decreases monotonously and vanishes for long times.
+
+
+
+The mathematical meaning of this “H quantity” is worth considering in more detail: it measures the difference between the probabilities at a given time and those that exist at the equilibrium state (where the number of balls in each urn is N/2). The argument used in the Ehrenfest urn model can be generalized. Let us consider the partition of a square—that is, we subdivide the square into a number of disjointed regions. Then we consider the distribution of particles in the square and call P(k,t) the probability of finding a particle in the region k. Similarly, we call Peqm(k) this quantity when uniformity is reached. We assume that, as in the urn model, there exist well-defined transition probabilities. The definition of the H quantity is
+
+
+
+Note the ratio P(k,t)/Peqm(k) that appears in this formula. Suppose there are eight boxes and that Peqm(k) = 1/8. For example, we may start with all the particles in the first box. The corresponding values of P(k,t) would be P(1,t) = 1, all others zero. As the result we find H = log (1/[1/8]) = log 8. As time goes by, the particles become equally distributed and P(k,t) = Peqm(k) = 1/8. As the result the H quantity vanishes. It can be shown that, in accordance with Figure 25, the decrease in the value of H proceeds in a uniform fashion. (The demonstration is given in all textbooks dealing with the theory of stochastic processes.) This is why H plays the role of −S, entropy. The uniform decrease of H has a very simple meaning: it measures the progressive uniformization of the system. The initial information is lost, and the system evolves from “order” to “disorder.”
+
+Note that a Markov process implies fluctuations, as clearly indicated in Figure 24. If we would wait long enough we would recover the initial state. However, we are dealing with averages. The HM quantity that decreases uniformly is expressed in terms of probability distributions and not in terms of individual events. It is the probability distribution that evolves irreversibly (in the Ehrenfest model, the distribution function tends uniformly to a binomial distribution). Therefore, on the level of distribution functions, Markov chains lead to a one-wayness in time.
+
+This arrow of time marks the difference between Markov chains and temporal evolution in quantum mechanics, where the wave function, though related to probabilities, evolves reversibly. It also illustrates the close relation between stochastic processes, such as Markov chains, and irreversibility. However, the increasing of entropy (or decreasing of H) is not based on an arrow of time present in the laws of nature but on our decision to use present knowledge to predict future (and not past) behavior. Gibbs states it in his usual lapidary manner:
+
+But while the distinction of prior and subsequent events may be immaterial with respect to mathematical fictions, it is quite otherwise with respect to the events of the real world. It should not be forgotten, when our ensembles are chosen to illustrate the probabilities of events in the real world, that while the probabilities of subsequent events may often be determined from the probabilities of prior events, it is rarely the case that probabilities of prior events can be determined from those of subsequent events, for we are rarely justified in excluding the consideration of the antecedent probability of the prior events.7
+
+
+
+It is an important point, which has led to a great deal of discussion.8 Probability calculus is indeed time-oriented. The prediction of the future is different from retrodiction. If this was the whole story, we would have to conclude that we are forced to accept a subjective interpretation of irreversibility, since the distinction between future and past would depend only on us. In other words, in the subjective interpretation of irreversibility (further reinforced by the ambiguous analogy with information theory), the observer is responsible for the temporal asymmetry characterizing the system’s development. Since the observer cannot in a single glance determine the positions and velocities of all the particles composing a complex system, he cannot know the instantaneous state that simultaneously contains its past and its future, nor can he grasp the reversible law that would allow him to predict its developments from one moment to the next. Neither can he manipulate the system like the demon invented by Maxwell, who can separate fast- and slow-moving particles and impose on a system an antithermodynamic evolution toward an increasingly less uniform temperature distribution.9
+
+Thermodynamics remains the science of complex systems; but, from this perspective, the only specific feature of complex systems is that our knowledge of them is limited and that our uncertainty increases with time. Instead of recognizing in irreversiblity something that links nature to the observer, the scientist is compelled to admit that nature merely mirrors his ignorance. Nature is silent; irreversibility, far from rooting us in the physical world, is merely the echo of human endeavor and of its limits.
+
+However, one immediate objection can be raised. According to such interpretations, thermodynamics ought to be as universal as our ignorance. There should exist only irreversible processes. This is the stumbling block for all universal interpretations of entropy that concentrate on our ignorance of initial (or boundary) conditions. Irreversibility is not a universal property. In order to link dynamics and thermodynamics, a physical criterion is required to distinguish between reversible and irreversible processes.
+
+We shall take up this question in Chapter IX. Here let us return to the history of science and Boltzmann’s pioneering work.
+
+
+
+
+
+Boltzmann’s Breakthrough
+
+
+Boltzmann’s fundamental contribution dates from 1872, about thirty years before the discovery of Markov chains. His ambition was to derive a “mechanical” interpretation of entropy. In other words, while in Markov chains the transition probabilities are given from outside as, for example, in the Ehrenfest model, we now have to relate them to the dynamic behavior of the system. Boltzmann was so fascinated by this problem that he devoted most of his scientific life to it. In his Populäre Schriften10 he wrote: “If someone asked me what name we should give to this century, I would answer without hesitation that this is the century of Darwin.” Boltzmann was deeply attracted by the idea of evolution, and his ambition was to become the “Darwin” of the evolution of matter.
+
+The first step toward the mechanistic interpretation of entropy was to reintroduce the concept of “collisions” of molecules or atoms into the physical description, and along with it the possibility of a statistical description. This step had been taken by Clausius and Maxwell. Since collisions are discrete events, we may count them and estimate their average frequency. We may also classify collisions—for example, distinguish between collisions producing a particle with a given velocity v and collisions destroying a particle with a velocity v, producing molecules with a different velocity (the “direct” and “inverse” collisions).11
+
+The question Maxwell asked was whether it was possible to define a state of a gas such that the collisions that incessantly modify the velocities of the molecules no longer determine any evolution in the distribution of these velocities—that is, in the mean number of particles for each velocity value. What is the velocity distribution such that the effects of the different collisions compensate each other on the population scale?
+
+Maxwell demonstrated that this particular state, which is the thermodynamic equilibrium state, occurs when the velocity distribution becomes the well-known “bell-shaped curve,” the “gaussian,” which Quetelet, the founder of “social physics,” had considered to be the very expression of randomness. Maxwell’s theory permits us to give a simple interpretation of some of the basic laws describing the behavior of gases. An increase in temperature corresponds to an increase in the mean velocity of the molecules and thus of the energy associated with their motion. Experiments have verified Maxwell’s law with great accuracy, and it still provides a basis for the solution of numerous problems in physical chemistry (for example, the calculation of the number of collisions in a reactive mixture).
+
+Boltzmann, however, wanted to go farther. He wanted to describe not only the state of equilibrium but also evolution toward equilibrium—that is, evolution toward the Maxwellian distribution. He wanted to discover the molecular mechanism that corresponds to the increase of entropy, the mechanism that drives a system from an arbitrary distribution of velocities toward equilibrium.
+
+Characteristically, Boltzmann approached the question of physical evolution not at the level of individual trajectories but at the level of a population of molecules. This, Boltzmann felt, was virtually tantamount to accomplishing Darwin’s feat, but this time in physics: the driving force behind biological evolution—natural selection—cannot be defined for one individual but only for a large population. It is therefore a statistical concept.
+
+Boltzmann’s result may be described in relatively simple terms. The evolution of the distribution function f (v, t) of the velocities v in some region of space and at time t appears as the sum of two effects; the number of particles at any given time t having a velocity v varies both as the result of the free motion of the particles and as the result of collisions between particles. The first result can be easily calculated in the terms of classical dynamics. It is in the investigation of the second result, due to collisions, that the originality of Boltzmann’s method lies. In the face of the difficulties involved in following the trajectories (including the interactions), Boltzmann came to use concepts similar to those outlined in Chapter V (in connection with chemical reactions) and to calculate the average number of collisions creating or destroying a molecule corresponding to a velocity v.
+
+Here once again there are two processes with opposite effects—“direct” collisions, those producing a molecule with velocity v starting from two molecules with velocities v′ and v″, and “inverse” collisions, in which a molecule with velocity v is destroyed by collision with a molecule with velocity v′″. As with chemical reactions (see Chapter V, section 1), the frequency of such events is evaluated as being proportional to the product of the number of molecules taking part in these processes. (Of course, historically speaking, Boltzmann’s method [1872] preceded that of chemical kinetics.)
+
+The results obtained by Boltzmann are quite similar to those obtained in Markov chains. Again we shall introduce an H quantity, this time referring to the velocity distribution f. It may be written H = ∫ f log f dv. Once again, this quantity can only decrease in time until equilibrium is reached and the velocity distribution becomes the equilibrium Maxwellian distribution.
+
+In recent years there have been numerous numerical verifications of the uniform decrease of H with time. All of them confirm Boltzmann’s prediction. Even today, his kinetic equation plays an important role in the physics of gases: transport coefficients such as those characterizing heat conductivity or diffusion can be calculated in good agreement with experimental data.
+
+However, it is from the conceptual standpoint that Boltzmann’s achievement is greatest: the distinction between reversible and irreversible phenomena, which, as we have seen, underlies the second law, is now transposed onto the microscopic level. The change of the velocity distribution due to free motion corresponds to the reversible part, while the contribution due to collisions corresponds to the irreversible part. For Boltzmann this was the key to the microscopic interpretation of entropy. A principle of molecular evolution had been produced! It is easy to understand the fascination this discovery exerted on the physicists who followed Boltzmann, including Planck, Einstein, and Schrödinger.12
+
+Boltzmann’s breakthrough was a decisive step in the direction of the physics of processes. What determines temporal evolution in Boltzmann’s equation is no longer the Hamiltonian, depending on the type of forces; now, on the contrary, functions associated with the processes—for example, the cross section of scattering—will generate motion. Can we conclude that the problem of irreversibility has been solved, that Boltzmann’s theory has reduced entropy to dynamics? The answer is clear: No, it has not. Let us have a closer look at this question.
+
+
+
+
+
+Questioning Boltzmann’s Interpretation
+
+
+As soon as Boltzmann’s fundamental paper appeared in 1872, objections were raised. Had Boltzmann really “deduced” irreversibility from dynamics? How could the reversible laws of trajectories lead to irreversible evolution? Is Boltzmann’s kinetic equation in any way compatible with dynamics? It is easy to see that the symmetry present in Boltzmann’s equation is in contradiction with the symmetry of classical mechanics.
+
+We have already seen that velocity inversion (v→−v) produces in classical dynamics the same effect as time inversion (t→−t). This is a basic symmetry of classical dynamics, and we would expect that Boltzmann’s kinetic equation, which describes the time change of the distribution function, would share this symmetry. But this is not so. The collision term calculated by Boltzmann remains invariant with respect to velocity inversion. There is a simple physical reason for this. Nothing in Boltzmann’s picture distinguishes a collision that proceeds toward the future from a collision proceeding toward the past. This is the basis of Poincaré’s objection to Boltzmann’s derivation. A correct calculation can never lead to conclusions that contradict its premises.13,14 As we have seen, the symmetry properties of the kinetic equation obtained by Boltzmann for the distribution function contradict those of dynamics. Boltzmann cannot, therefore, have “deduced” entropy from dynamics. He must have introduced something new, something foreign to dynamics. Thus his results can represent at best only a phenomenological model that, however useful, has no direct relation with dynamics. This was also the objection that Zermelo (1896) brought against Boltzmann.
+
+Loschmidt’s objection, on the other hand, makes it possible to determine the limits of validity of Boltzmann’s kinetic model. In fact, Loschmidt observed (1876) that this model can no longer be valid after a reversal of the velocities corresponding to the transformation v→−v.
+
+Let us explain this by means of a thought experiment. We start with a gas in a nonequilibrium condition and let it evolve till t0. We then invert the velocities. The system reverts to its past state. As a consequence, Boltzmann’s entropy is the same at t = 0 and at t = 2t0.
+
+We may multiply such thought experiments. Start with a mixture of hydrogen and oxygen; after some time water will appear. If we invert the velocities, we should go back to an initial state with hydrogen and oxygen and no water.
+
+It is interesting that in laboratory or computer experiments, we actually can perform a velocity inversion. For example, in Figures 26 and 27, Boltzmann’s H quantity has been calculated for two-dimensional hard spheres (hard disks), starting with disks on lattice sites with an isotropic velocity distribution. The results follow Boltzmann’s predictions.
+
+
+
+Figure 26. Evolution of H with time for N “hard spheres” by computer simulation; (a) corresponds to N = 100, (b) to N = 484, (c) to N = 1225.
+
+
+
+
+
+Figure 27. Evolution of H when velocities are inverted after 50 or 100 collisions. Simulation with 100 “hard spheres.”
+
+
+
+If, after fifty or a hundred collisions, corresponding to about 10−6 sec in a dilute gas, the velocities are inverted, a new ensemble is obtained.15 Now, after the velocity inversion, Boltzmann’s H quantity increases instead of decreasing.
+
+A similar situation can be produced in spin echo experiments or plasma echo experiments. There also, over limited periods of time, an “antithermodynamic” behavior in Boltzmann’s sense may be observed.
+
+But it is important to note that the velocity inversion experiment becomes increasingly more difficult when the time interval t0 after which the inversion occurs is increased.
+
+To be able to retrace its past, the gas must remember everything that happened to it during the time interval from 0 to t0. There must be “storage” of information. We can express this storage in terms of correlations between particles. We shall come back to the question of correlations in Chapter IX. Let us only mention here that it is precisely this relation between correlations and collisions that is the element missing from Boltzmann’s considerations. When Loschmidt confronted him with this, Boltzmann had to accept that there was no way out: the collisions occurring in the opposite direction “undo” what was done previously, and the system has to revert to its initial state. Therefore, the function H must also increase until it again reaches its initial value. Velocity inversion thus calls for a distinction between the situations to which Boltzmann’s reasoning applies and those to which it does not.
+
+Once the problem was stated (1894), it was easy to identify the nature of this limitation.16,17 The validity of Boltzmann’s statistical procedure depends on the assumption that before they collide, the molecules behave independently of one another. This constitutes an assumption about the initial conditions, called the “molecular chaos” assumption. The initial conditions created by a velocity inversion do not conform to this assumption. If the system is made “to go backward in time,” a new “anomalous” situation is created in the sense that certain molecules are then “destined” to meet at a pre-determinable instant and to undergo a predetermined change of velocity at this time, however far apart they may be at the instant of velocity inversion.
+
+Velocity inversion thus creates a highly organized system, and thus the molecular chaos assumption fails. The various collisions produce, as if by a preestablished harmony, an apparently purposeful behavior.
+
+But there is more. What does the transition from order to disorder signify? In the Ehrenfest urn experiment, it is clear—the system will evolve till uniformity is reached. But other situations are not so clear; we may do computer experiments in which interacting particles are initially distributed at random. In time a lattice is formed. Do we still move from order to disorder? The answer is not obvious. To understand order and disorder we first have to define the objects in terms of which these concepts are used. Moving from dynamic to thermodynamic objects is easy in the case of dilute gases—as shown by the work of Boltzmann. However, it is not so easy in the case of dense systems whose molecules interact.
+
+Because of such difficulties, Boltzmann’s creative and pioneering work remained incomplete.
+
+
+
+
+
+Dynamics and Thermodynamics:
+
+Two Separate Worlds
+
+
+We already noted that trajectories are incompatible with the idea of irreversibility. However, the study of trajectories is not the only way in which we can give a formulation of dynamics. There is also the theory of ensembles introduced by Gibbs and Einstein,6,18 which is of special interest in the case of systems formed by a large number of molecules. The essential new element in the Gibbs-Einstein ensemble theory is that we can formulate the dynamic theory independently of any precise specification of initial conditions.
+
+The theory of ensembles represents dynamic systems in “phase space.” The dynamic state of a point particle is specified by position (a vector with three components) and by momentum (also a vector with three components). We may represent this state by two points, each in a three-dimensional space, or by a single point in the six-dimensional space formed by the coordinates and momenta. This is the phase space. This geometric representation can be extended to an arbitrary system formed by n particles. We then need n x 6 numbers to specify the state of the system, or alternatively we may specify this system by a single point in the 6n-dimensional phase space. The evolution in time of such a system will then be described by a trajectory in the phase space.
+
+It has already been stated that the exact initial conditions of a macroscopic system are never known. Nevertheless, nothing prevents us from representing this system by an “ensemble” of points—namely, the points corresponding to the various dynamic states compatible with the information we have concerning the system. Each region of phase space may contain an infinite number of representative points, the density of which measures the probability of actually finding the system in this region. Instead of introducing an infinity of discrete points, it is more convenient to introduce a continuous density of representative points in the phase space. We shall call ρ (q1 … q3n, p1 … p3n) this density in phase space where q1,q2 … q3n are the coordinates of the n points; similarly, p1,p2 … p3n are the momenta (each point has three coordinates and three momenta). This density measures the probability of finding a dynamic system around the point q1 … q3n, p1 … p3n, in phase space.
+
+Presented in such a way, the density function ρ may appear as an idealization, an artificial construct, whereas the trajectory of a point in phase space would correspond “directly” to the description of “natural” behavior. But in fact it is the point, not the density, that corresponds to an idealization. Indeed, we never know an initial state with the infinite degree of precision that would reduce a region in phase space to a single point; we can only determine an ensemble of trajectories starting from the ensemble of representative points corresponding to what we know about the initial state of the system. The density function p represents knowledge about a system, and the more accurate this knowledge, the smaller the region in the phase space where the density function is different from zero and where the system may be found. Should the density function everywhere have a uniform value, we would know nothing about the state of the system. It might be in any of the possible states compatible with its dynamic structure.
+
+From this perspective, a point thus represents the maximum knowledge we can have about a system. It is the result of a limiting process, the result of the ever-growing precision of our knowledge. As we shall see in Chapter IX, a fundamental problem will be to determine when such a limiting process is really possible. Through increased precision, this process means we go from a region where the density function p is different from zero to another, smaller region inside the first. We can continue this until the region containing the system becomes arbitrarily small. But as we shall see, we must be cautious: arbitrarily small does not mean zero, and it is not certain a priori that this limiting process will lead to the possibility of consistently predicting a single well-defined trajectory.
+
+The introduction of the theory of ensembles by Gibbs and Einstein was a natural continuation of Boltzmann’s work. In this perspective the density function p in phase space replaces the velocity distribution function f used by Boltzmann. However, the physical content of p exceeds that of f. Just like f, the density function p determines the velocity distribution, but it also contains other information, such as the probability of meeting two particles a certain distance apart. In particular, correlations between particles, which we discussed in the preceding section, are now included in the density function p. In fact, this function contains the complete information about all statistical features of the n-body system.
+
+We must now describe the evolution of the density function in phase space. At first sight, this appears to be an even more ambitious task than the one Boltzmann set himself for the velocity distribution function. But this is not the case. The Hamiltonian equations discussed in Chapter II allow us to obtain an exact evolution equation for ρ without any further approximations. This is the so-called Liouville equation, to which we shall return in Chapter IX. Here we wish merely to point out that the properties of Hamiltonian dynamics imply that the evolution of the density function ρ in phase space is that of an incompressible fluid. Once the representative points occupy a region of volume V in phase space, this volume remains constant in time. The shape of the region may be deformed in an arbitrary way, but the value of the volume remains the same.
+
+Gibbs’ theory of ensembles thus permits a rigorous combination of the statistical point of view (the study of the “population” described by p) and the laws of dynamics. It also permits a more accurate representation of the thermodynamic equilibrium state. Thus, in the case of an isolated system, the ensemble of representative points corresponds to systems that all have the same energy E. The density p will differ from zero only on the “microcanonical surface” corresponding to the specified value of the energy in phase space. Initially, the density p may be distributed arbitrarily over this surface. At equilibrium, p must no longer vary with time and has to be independent of the specific initial state. Thus the approach to equilibrium has a simple meaning in terms of the evolution of p. The distribution function p becomes uniform over the microcanonical surface. Each of the points on this surface has the same probability of actually representing the system. This corresponds to the “microcanonical ensemble.”
+
+
+
+Figure 28. Time evolution in the phase space of a “volume” containing the representative points of a system: the volume is conserved while the shape is modified. The position in phase space is specified by coordinates q and momentum p.
+
+
+
+Does the theory of ensembles bring us any closer to the solution of the problem of irreversibility? Boltzmann’s theory describes thermodynamic entropy in terms of the velocity distribution function f. He achieved this result through the introduction of his H quantity. As we have seen, the system evolves in time until the Maxwellian distribution is reached, while, during this evolution, the quantity H decreases uniformly. Can we now, in a more general fashion, take the evolution of the distribution p in phase space toward the microcanonical ensemble as the basis for entropy increase? Would it be enough to replace Boltzmann’s quantity H expressed in terms of f by a “Gibbsian” quantity HG defined in exactly the same way, but this time in terms of p? Unfortunately, the answer to both questions is “No.” If we use the Liouville equation, which describes the evolution of the density phase space p and take into account the conservation of volume in phase space we have mentioned, the conclusion is immediate: HG is a constant and thus cannot represent entropy. With respect to Boltzmann, this appears as a step backward rather than forward!
+
+Though it is negative, Gibbs’ conclusion remains very important. We have already discussed the ambiguity of the ideas of order and disorder. What the constancy of HG tells us is that there is no change of order whatsoever in the frame of dynamic theory! The “information” expressed by HG remains constant. This can be understood as follows: we have seen that collisions introduce correlations. From the perspective of velocities, the result of collisions is randomization; therefore we can describe this process as a transition from order to disorder, but the appearance of correlations as the result of collision points in the opposite direction, toward a transition from disorder to order! Gibbs’ result shows that the two effects exactly cancel each other.
+
+We come, therefore, to an important conclusion. Whatever representation we use, be it the idea of trajectories or the Gibbs-Einstein ensemble theory, we will never be able to deduce a theory of irreversible processes that will be valid for every system that satisfies the laws of classical (or quantum) dynamics. There isn’t even a way to speak of a transition from order to disorder! How should we understand these negative results? Is any theory of irreversible processes in absolute conflict with dynamics (classical or quantum)? It has often been proposed that we include some cosmological terms that would express the influence of the expanding universe on the equations of motion. Cosmological terms would ultimately provide the arrow of time. However, this is difficult to accept. On the one hand, it is not clear how we should add these cosmological terms; on the other, precise dynamic experiments seem to rule out the existence of such terms, at least on the terrestrial scale with which we are concerned here (think, for example, about the precision of space trip experiments, which confirm Newton’s equations to a high degree). On the other hand, as we have already stated, we live in a pluralistic universe in which reversible and irreversible processes coexist, all embedded in the expanding universe.
+
+An even more radical conclusion is to affirm with Einstein that time as irreversibility is an illusion that will never find a place in the objective world of physics. Fortunately there is another way out, which we shall explore in Chapter IX. Irreversibility, as has been repeatedly stated, is not a universal property. Therefore, no general derivation of irreversibility from dynamics is to be expected.
+
+Gibbs’ theory of ensembles introduces only one additional element with respect to trajectory dynamics, but a very important one—our ignorance of the precise initial conditions. It is unlikely that this ignorance alone leads to irreversibility.
+
+We should therefore not be astonished at our failure. We have not yet formulated the specific features that a dynamic system has to possess to lead to irreversible processes.
+
+Why have so many scientists accepted so readily the subjective interpretation of irreversibility? Perhaps part of its attraction lies in the fact that, as we have seen, the irreversible increase of entropy was at first associated with imperfect manipulation, with our lack of control over operations that are ideally reversible.
+
+But this interpretation becomes absurd as soon as the irrelevant associations with technological problems are set aside. We must remember the context that gave the second law its significance as nature’s arrow of time. According to the subjective interpretation, chemical affinity, heat conduction, viscosity, all the properties connected with irreversible entropy production would depend on the observer. Moreover, the extent to which phenomena of organization originating in irreversibility play a role in biology makes it impossible to consider them as simple illusions due to our ignorance. Are we ourselves—living creatures capable of observing and manipulating—mere fictions produced by our imperfect senses? Is the distinction between life and death an illusion?
+
+Thus recent developments in thermodynamic theory have increased the violence of the conflict between dynamics and thermodynamics. Attempts to reduce the results of thermodynamics to mere approximations due to our imperfect knowledge seem wrongheaded when the constructive role of entropy is understood and the possibility of an amplification of fluctuations is discovered. Conversely, it is difficult to reject dynamics in the name of irreversibility: there is no irreversibility in the motion of an ideal pendulum. Apparently there are two conflicting worlds, a world of trajectories and a world of processes, and there is no way of denying one by asserting the other.
+
+To a certain extent, there is an analogy between this conflict and the one that gave rise to dialectical materialism. We have described in Chapters V and VI a nature that might be called “historical”—that is, capable of development and innovation. The idea of a history of nature as an integral part of materialism was asserted by Marx and, in greater detail, by Engels. Contemporary developments in physics, the discovery of the constructive role played by irreversibility, have thus raised within the natural sciences a question that has long been asked by materialists. For them, understanding nature meant understanding it as being capable of producing man and his societies.
+
+Moreover, at the time Engels wrote his Dialectics of Nature, the physical sciences seemed to have rejected the mechanistic world view and drawn closer to the idea of an historical development of nature. Engels mentions three fundamental discoveries: energy and the laws governing its qualitative transformations, the cell as the basic constituent of life, and Darwin’s discovery of the evolution of species. In view of these great discoveries, Engels came to the conclusion that the mechanistic world view was dead.
+
+But mechanicism remained a basic difficulty facing dialectical materialism. What are the relations between the general laws of dialectics and the equally universal laws of mechanical motion? Do the latter “cease” to apply after a certain stage has been reached, or are they simply false or incomplete? To come back to our previous question, how can the world of processes and the world of trajectories ever be linked together?19
+
+However, while it is easy to criticize the subjectivistic interpretation of irreversibility and to point out its weakness, it is not so easy to go beyond it and formulate an “objective” theory of irreversible processes. The history of this subject has some dramatic overtones. Many people believe that it is the recognition of the basic difficulties involved that may have led to Boltzmann’s suicide in 1906.
+
+
+
+
+
+Boltzmann and the Arrow of Time
+
+
+As we have noted, Boltzmann at first thought that he could prove that the arrow of time was determined by the evolution of dynamic systems toward states of higher probability or a higher number of complexions: there would be a one-way increase of the number of complexions with time. We have also discussed the objections of Poincaré and Zermelo. Poincaré proved that every closed dynamic system reverts in time toward its previous state. Thus, all states are forever recurring. How could such a thing as an “arrow of time” be associated with entropy increase? This led to a dramatic change in Boltzmann’s attitude. He abandoned his attempt to prove that an objective arrow of time exists and introduced instead an idea that, in a sense, reduced the law of entropy increase to a tautology. Now he argued that the arrow of time is only a convention that we (or perhaps all living beings) introduce into a world in which there is no objective distinction between past and future. Let us cite Boltzmann’s reply to Zermelo:
+
+We have the choice of two kinds of picture. Either we assume that the whole universe is at the present moment in a very improbable state. Or else we assume that the aeons during which this improbable state lasts, and the distance from here to Sirius, are minute if compared with the age and size of the whole universe. In such a universe, which is in thermal equilibrium as a whole and therefore dead, relatively small regions of the size of our galaxy will be found here and there; regions (which we may call “worlds”) which deviate significantly from thermal equilibrium for relatively short stretches of those “aeons” of time. Among these worlds the probabilities of their state (i.e. the entropy) will increase as often as they decrease. In the universe as a whole the two directions of time are indistinguishable, just as in space there is no up or down. However, just as at a certain place on the earth’s surface we can call “down” the direction towards the centre of the earth, so a living organism that finds itself in such a world at a certain period of time can define the “direction” of time as going from the less probable state to the more probable one (the former will be the “past” and the latter the “future”), and by virtue of this definition he will find that his own small region, isolated from the rest of the universe, is “initially” always in an improbable state. It seems to me that this way of looking at things is the only one which allows us to understand the validity of the second law, and the heat death of each individual world, without invoking a unidirectional change of the entire universe from a definite initial state to a final state.20
+
+
+
+Boltzmann’s idea can be made clearer by referring to a diagram proposed by Karl Popper (Figure 29). The arrow of time would be as arbitrary as the vertical direction determined by the gravitational field.
+
+
+
+Figure 29. Popper’s schematic representation of Boltzmann’s cosmological interpretation of the arrow of time (see text).
+
+
+
+Commenting on Boltzmann’s text, Popper has written:
+
+I think that Boltzmann’s idea is staggering in its boldness and beauty. But I also think that it is quite untenable, at least for a realist. It brands unidirectional change as an illusion. This makes the catastrophe of Hiroshima an illusion. Thus it makes our world an illusion, and with it all our attempts to find out more about our world. It is therefore self-defeating (like every idealism). Boltzmann’s idealistic ad hoc hypothesis clashes with his own realistic and almost passionately maintained anti-idealistic philosophy, and with his passionate wish to know.21
+
+
+
+We fully agree with Popper’s comments, and we believe that it is time to take up Boltzmann’s task once again. As we have said, the twentieth century has seen a great conceptual revolution in theoretical physics, and this has produced new hopes for the unification of dynamics and thermodynamics. We are now entering a new era in the history of time, an era in which both being and becoming can be incorporated into a single noncontradictory vision.
+
+
+
+
+
