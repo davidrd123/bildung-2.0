@@ -15,6 +15,9 @@ This directory contains a chapter-split German working text for Hermann Weyl's
 - `010-math-03-geometrie.txt` has manual visual corrections for vector,
   transformation-group, normalizer, metric, and tensor formulas across the
   geometry chapter; the generator preserves that file if it already exists.
+- `011-science-01-raum-und-zeit.txt` has manual visual corrections for
+  coordinate, Lorentz/Riemann metric, and subject-object vector formulas; the
+  generator preserves that file if it already exists.
 - `016-appendix-c-quantenphysik-und-kausalitaet.txt` has manual visual
   corrections for the projection/gitter formulas around printed pages 327-329;
   the generator preserves that file if it already exists.

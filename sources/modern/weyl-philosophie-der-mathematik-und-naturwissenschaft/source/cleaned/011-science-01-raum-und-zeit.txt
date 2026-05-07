@@ -18,7 +18,7 @@ haben einen in der Anschauung ohne weiteres klar aufzuweisenden
 Sinn. Es heißt bereits, dem vierdimensionalen extensiven Medium
 
 Fig. 1. Schichtung und Faserung der Welt in graphischer Darstellung.
-Weltlinie g einer gleichförmigen Translationsbewegung. Lichtkegel R.
+Weltlinie g einer gleichförmigen Translationsbewegung. Lichtkegel 𝔎.
 
 der Außenwelt eine bestimmte Struktur zuschreiben, wenn man an
 eine Zerspaltung der Welt in einen absoluten Raum und eine
@@ -34,9 +34,9 @@ schreiben, daß sie eine Faserung und eine quer zu den Fasern
 verlaufende Schichtung besitzt (durch jeden Weltpunkt läuft eine
 Faser und eine Schicht; je eine Faser und eine Schicht schneiden
 sich in einem einzigen Weltpunkt). Streichen wir um der graphischen Darstellung willen eine Raumdimension, befassen uns also
-nur mit den Vorgängen auf einer Fläche, spezieil einer Ebene,
+nur mit den Vorgängen auf einer Fläche, speziell einer Ebene,
 repräsentieren diese durch eine horizontale Ebene E und tragen
-senkrecht zu ihr die Zeit 7 auf, so können wir in unserm Anschauungsraum ein Abbild der Welt entwerfen, in welchem die Schichten gleichzeitiger Weltpunkte als lauter horizontale Ebenen erscheinen, die Fasern gleichortiger Weltpunkte aber durch die
+senkrecht zu ihr die Zeit t auf, so können wir in unserm Anschauungsraum ein Abbild der Welt entwerfen, in welchem die Schichten gleichzeitiger Weltpunkte als lauter horizontale Ebenen erscheinen, die Fasern gleichortiger Weltpunkte aber durch die
 vertikalen Geraden dargestellt werden.
 
 Man schreibt ferner Zeit und Raum eine Maßstruktur zu,
@@ -79,14 +79,14 @@ Ereignissen, Gleichheit von Zeitstrecken und Kongruenz räumlicher Gebiete objek
 
 Was die erste Frage betrifft, so ist von jeher dem Dogma des
 absoluten Raumes die Lehre von der Relativität der Bewegung
-entgegengestellt worden. Aristoteles bezeichnet „Ort‘‘ (rönog) als
+entgegengestellt worden. Aristoteles bezeichnet „Ort“ (τόπος) als
 Beziehung eines Körpers zu den Körpern seiner Umgebung.
 Descartes definiert (Princ. II) Bewegung als „Überführung eines
 Teiles der Materie oder eines Körpers aus der Nachbarschaft
 derjenigen Körper, welche ihn unmittelbar berühren und als
 ruhend betrachtet werden, in die Nachbarschaft anderer Körper“.
 Eindringlich bespricht Locke (On human understanding, 2. Buch,
-13. Kap., 88 7—10) die Relativität des Ortes. Galilei schildert sie
+13. Kap., §§ 7—10) die Relativität des Ortes. Galilei schildert sie
 hübsch an dem Beispiel des Schreibers, der an Bord eines fahrenden Schiffes seine Aufzeichnungen macht und der darum „in
 Wahrheit“, d.h. relativ zur Erde mit seiner Schreibefeder eine
 lange leicht gewellte glatte Linie von Venedig bis Alexandrette
@@ -114,7 +114,7 @@ eine Folge unserer schimärischen Voraussetzung von der Realität des
 Raumes an sich selbst. In Wahrheit aber wäre der eine genau dasselbe
 wie der andere, da sie durchaus ununterscheidbar sind und somit die
 Frage, warum der eine Zustand vor dem anderen vorgezogen wurde,
-ganz unstatthaft ist‘‘Y). Newzon, der Absolutist, betrachtet im Gegenteil
+ganz unstatthaft ist“¹). Newton, der Absolutist, betrachtet im Gegenteil
 die Bewegung als einen Beweis für die Schöpfung der Welt aus der freien
 Willkür Gottes; denn sonst sei es unerfindlich, warum die Materie sich
 gerade in dieser statt in irgendeiner anderen Richtung bewege (Vorrede
@@ -126,7 +126,7 @@ Der Bezugskörper, auf den wir uns im täglichen Leben mit
 gutem Grund fast immer stützen, wenn von Ruhe und Bewegung
 geredet wird, ist die „‚feste, wohlgegründete Erde“‘2). Praktisch ist
 
-}) Man vergleiche dazu die am Schluß von $ 14 des mathematischen Teils
+¹) Man vergleiche dazu die am Schluß von § 14 des mathematischen Teils
 zitierte Äußerung von Kant über rechts und links. Man hat Kant so ausgelegt:
 Wenn Gottes erste Schöpfertat eine linke Hand hinbildete, so besaß diese
 Hand schon damals, als sie mit nichts verglichen werden konnte, jene nur
@@ -141,8 +141,8 @@ hätte er den Weltenplan nicht im ersten, sondern im zweiten Akt geändert,
 durch den er statt einer zur ersterschaffenen Hand ungleichsinnigen eine zu
 ihr gleichsinnige hervorbrachte.
 
-%),,... Aufder wohlgegründeten dauernden Erde,...““ Zitat aus Goethes
-Gedicht ‚Grenzen der Menschheit“.
+²) „,... Auf der wohlgegründeten dauernden Erde,...“ Zitat aus Goethes
+Gedicht „Grenzen der Menschheit“.
 
 [[pdf-page:0130 printed-page:129]]
 
@@ -167,7 +167,7 @@ Gastspiel in einem kleinen Nest, sich wiederholend von Stern zu
 Stern — in dieser Blasphemie zeigt sich vielleicht am prägnantesten
 das Religiös-bedenkliche einer Lehre, welche die Erde aus dem
 Mittelpunkt der Welt verdrängt. „In dem bei Kepler, Galilei und
-Descartes gleichmäßig auftretenden Satze, es seitöricht zu denken,
+Descartes gleichmäßig auftretenden Satze, es sei töricht zu denken,
 daß in dem Menschen das Ziel des Universums liege“, sagt Dilthey
 (Der entwicklungsgeschichtliche Pantheismus, Ges. Schriften,
 Bd. II, 3. Aufl. 1923, S. 353), „vollzieht sich eine vollständige Umwandlung der Interpretation der Welt. Indem diese Denker zu einer
@@ -180,14 +180,14 @@ Charakter der bisherigen christlichen Religiosität“. Und Goethe in
 der Geschichte der Farbenlehre (3. Abteilung, 2. Zwischenbetrachtung): „Vielleicht ist noch nie eine größere Forderung an die
 Menschheit geschehen: denn was ging nicht alles durch diese Anerkennung in Rauch auf: ein zweites Paradies, eine Welt der Unschuld, Dichtkunst und Frömmigkeit, das Zeugnis der Sinne, die
 Überzeugung eines poetisch-religiösen Glaubens; kein Wunder,
-daß man dies alles nicht wollte fahren lassen, daß man sich aufalle
+daß man dies alles nicht wollte fahren lassen, daß man sich auf alle
 Weise einer solchen Lehre entgegensetzte, die Denjenigen, der sie
 annahm, zu einer bisher unbekannten, ja ungeahnten Denkfreiheit
 und Großheit der Gesinnungen berechtigte und aufforderte.“
 
 Vom Standpunkt der Relativität der Bewegung kann man über
 die Wahrheit oder Falschheit des Kopernikanischen Systems nicht
-streiten. Die Gesetze der Planetenbewegung werden nur viel einJacher, wenn man die Bewegung relativ zur Sonne statt relativ zur
+streiten. Die Gesetze der Planetenbewegung werden nur viel einfacher, wenn man die Bewegung relativ zur Sonne statt relativ zur
 Erde konstruiert.
 
 Newton legt seinem Aufbau der Mechanik in den Principia die Ideen
@@ -199,7 +199,7 @@ seiner Natur und ohne Beziehung auf einen äußeren Gegenstand, stets
 gleich und unbeweglich.“ „Die absolute Bewegung ist die Übertragung
 des Körpers von einem absoluten Orte (Teil des Raumes, welchen der
 Körper einnimmt) nach einem andern absoluten Ort.“ (Principia,
-S. 6—12.) Während nicht zu leugnen ist, daß es kinematisch keinen faßbaren Unterschied zwischen den verschiedenen möglichen Bewegungszuständen eines Körpers gibt, bemüht sich Newron, auf Grund solcher
+S. 6—12.) Während nicht zu leugnen ist, daß es kinematisch keinen faßbaren Unterschied zwischen den verschiedenen möglichen Bewegungszuständen eines Körpers gibt, bemüht sich Newton, auf Grund solcher
 Erscheinungen wie der Zentrifugalkräfte die Ruhe dynamisch unter den
 möglichen Bewegungszuständen auszuzeichnen. ‚Die Ursachen, durch
 welche wahre und relative Bewegungen verschieden sind, sind die Kräfte,
@@ -222,7 +222,7 @@ Bewegungen aus ihren Ursachen, Wirkungen und scheinbaren Unterschieden zu schlie
 folgenden ausführlicher gelehrt werden. Zu diesem Ende habe ich diese
 Abhandlung verfaßt.“
 
-Der Glaube an den absoluten Raum ist bei Newion theologisch
+Der Glaube an den absoluten Raum ist bei Newton theologisch
 imprägniert. So heißt es in seiner Optik (Ed. sec., London 1719, S. 373,
 oder Ed. Whittaker, S. 370) von Gott, daß er „im unendlichen Raume,
 gleichsam seinem Empfindungsorgan, alle Dinge in ihrem Innersten
@@ -255,7 +255,7 @@ ausnehmen. Die Hypothese besagt, daß das Weltall ein Zentrum habe
 und das Zentrum sich in Ruhe befinde. Der gemeinsame Schwerpunkt
 des Sonnensystems bewegt sich, so wird weiter richtig aus den mechanischen Gesetzen geschlossen, wie der eines jeden äußeren Einwirkungen
 entzogenen Körpersystems, gleichförmig in gerader Linie. Und nun
-heißt es (Principia, S.408): „Ginge er stets vorwärts, so würde das
+heißt es (Principia, S. 408): „Ginge er stets vorwärts, so würde das
 Zentrum der Welt sich nicht in Ruhe befinden“, ohne daß die Identifizierung des Schwerpunktes des Planetensystems mit dem angenommenen ruhenden Weltzentrum irgend begründet würde (es sei denn
 dadurch, daß als ruhender Mittelpunkt jedenfalls nur ein solcher aus den
 materiellen Vorgängen konstruierbarer Punkt in Frage kommt, der
@@ -278,7 +278,7 @@ So dehne ich meine Zeit über die ganze Welt aus, die in meinen
 Gesichtskreis rückt. Wenn nun auch dieser naiven Ansicht durch
 die Entdeckung der endlichen Ausbreitungsgeschwindigkeit des
 Lichtes der Boden entzogen wurde, so blieben doch noch (außer
-der Konservativitäteines einmal gefaßten Vorurteils) einige Gründe
+der Konservativität eines einmal gefaßten Vorurteils) einige Gründe
 bestehen, an jenem Glauben festzuhalten. In unserer graphischen
 Darstellung scheidet die durch einen Weltpunkt O laufende Hori-
 
@@ -319,13 +319,8 @@ der von O ausgehende Lichtkegel unabhängig ist von dem Zustand,
 insbesondere dem Bewegungszustand der das Signal in O aussendenden Lichtquelle, also allein durch O bestimmt ist. — Befinde
 ich mich in O, so teilt O meine Lebenslinie, die Weltlinie meines
 Leibes, in zwei Stücke, Vergangenheit und Zukunft; daran ist nichts geändert. Was
-aber mein Verhältnis zur Welt
-betrifft, so liegen in dem vorderen Kegel alle diejenigen
-Weltpunkte, auf welche mein Fig.2. Kausalstruktur. Lichtkegel 8,
-Tun undLassen inO vonEin- Lebenslinie L.
-
-fluß ist, außerhalb desselben
-
+aber mein Verhältnis zur Welt betrifft, so liegen in dem vorderen Kegel alle diejenigen
+Weltpunkte, auf welche mein Tun und Lassen in O von Einfluß ist, außerhalb desselben
 alle die Ereignisse, die abgeschlossen hinter mir liegen, an
 denen jetzt nichts mehr zu ändern ist: der vordere Kegel ist meine
 aktive Zukunft. Hingegen sind im Innern des hinteren Kegels alle
@@ -334,10 +329,7 @@ gekommen sein kann, nur diese Ereignisse haben möglicherweise
 Einfluß auf mich gehabt: es ist das Gebiet meiner passiven Vergangenheit. Beide Gebiete, das der aktiven Zukunft und der passiven Vergangenheit, grenzen nicht zwischenraumlos aneinander,
 wie es nach der alten Auffassung der Fall war.
 
-aktive Zukunft
-——
-
-passive Vergangenheit
+Fig. 2. Kausalstruktur. Lichtkegel 𝔎, Lebenslinie L.
 
 Weiter gilt es, physikalisch zu schildern, wie die Gleichheit von Zeiten
 und die Kongruenz materieller Körper festgestellt werden. Eine Uhr ist
@@ -366,7 +358,7 @@ und ablaufen können. Der unter geeigneten Vorsichtsmaßregeln am
 häufigsten zur Bestimmung physisch gleichwertiger Raumgrößen gebrauchte Prozeß ist die Übertragung starrer Körper, wie der Zirkel und
 Maßstäbe, von einem Ort zum anderen.“ Es ist eine Tatsache, daß, wenn
 ein und derselbe bestimmte physikalische Vorgang gleicherweise in den
-beiden Raumstücken & und & möglich ist, auch jeder in © sich abspielende Vorgang in ungeänderter Art innerhalb ©’ ablaufen kann.
+beiden Raumstücken S und S′ möglich ist, auch jeder in S sich abspielende Vorgang in ungeänderter Art innerhalb S′ ablaufen kann.
 Ein Körper wird dadurch als starrer Körper erprobt, daß er sich immer
 wieder als unverändert in allen seinen Beschaffenheiten erweist, wenn er
 unter die gleichen Bedingungen zurückgebracht wird. Die auf diesen
@@ -383,7 +375,7 @@ die Maßstruktur der Welt bereits mit festgelegt ist, daß es zur Messung
 also der Uhren und starren Körper nicht mehr bedarf, sondern man mit
 Lichtsignalen und kräftefrei sich bewegenden Massenpunkten sein Auslangen findet.
 
-Habe ich ein dreidimensionales Kontinuum irgendwie auf Koordinaten X X), X, bezogen, so ist es dadurch auf den dreidimensionalen
+Habe ich ein dreidimensionales Kontinuum irgendwie auf Koordinaten x0, x1, x2 bezogen, so ist es dadurch auf den dreidimensionalen
 Zahlenraum, das Kontinuum der Zahlentripel, abgebildet; den Zahlenraum will ich hier, um mich einer dem Leser mehr geläufigen Ausdrucksweise bedienen zu können, ersetzen durch den mit einem Cartesischen
 Koordinatensystem ausgestatteten Anschauungsraum. Man muß dann
 freilich, um das Verfahren auf die vierdimensionale Welt anzuwenden,
@@ -398,9 +390,9 @@ dann nicht wundern, daß auf einer orthographischen Projektion, welche
 die nördliche Halbkugel der Erde darstellt, dies keineswegs der Fall ist.
 Ebenso dient eine bestimmte Abbildung der Welt als Grundlage für die
 Verwendung der üblichen geometrisch-kinematischen Termini, wobei
-der x,-Achse die Bedeutung der Zeitachse zugeschrieben werde. (Von
-einem Körper, dessen Weltlinie im Bilde als eine vertikale Gerade erscheint, d.h. als eine Linie, auf welcher von den vier Koordinaten x,,
-X, Xg, Xy Mur X, Sich ändert, werden wir also z. B. sagen, daß er ruhe.)
+der x0-Achse die Bedeutung der Zeitachse zugeschrieben werde. (Von
+einem Körper, dessen Weltlinie im Bilde als eine vertikale Gerade erscheint, d.h. als eine Linie, auf welcher von den vier Koordinaten
+x0, x1, x2, x3 nur x0 sich ändert, werden wir also z. B. sagen, daß er ruhe.)
 Objektive Bedeutung haben nur solche Beziehungen, welche unabhängig von der gewählten Abbildung bei beliebiger Deformation des
 Bildes bestehen bleiben; eine solche Beziehung ist z. B. das Sich-schneiden zweier Weltlinien. Soll eine spezielle Abbildung oder eine spezielle
 Klasse von Abbildungen gekennzeichnet werden, so muß dies physikalisch auf Grund der wirklichen Vorgänge und der Struktur geschehen:
@@ -412,7 +404,7 @@ Weltpunkt ausstrahlende Lichtkegel durch einen vertikalen geraden
 Kreiskegel vom Öffnungswinkel 90° dargestellt wird. Dieser Theorie
 nach hat also die Trägheits- und Kausalitäts-, damit aber auch die
 Maß-Struktur den Charakter des Starren, ein für allemal absolut Festgelegten. Unter jenen „normalen Abbildungen“, welche den eben genannten Bedingungen genügen, läßt sich objektiv, ohne individuelle
-Aufweisung, keine engere AuswaHl treffen.
+Aufweisung, keine engere Auswahl treffen.
 
 Die Diskrepanz zwischen der kinematischen und dynamischen
 Analyse der Bewegung verlangt nach einer Auflösung. Huyghens
@@ -426,7 +418,7 @@ die Ebene des Foucaultschen Pendels halten und mitführen. Leibniz
 
 [[pdf-page:0138 printed-page:137]]
 
-hingegen, wie bestimmt er sich auch gegen Newrons Metaphysik
+hingegen, wie bestimmt er sich auch gegen Newtons Metaphysik
 des Raumes wehrt, daran festhaltend, daß der Raum nicht mehr
 ist als „die bloße Ordnung der Körper untereinander‘, stimmt
 doch Newtons mechanischem Programm, die wahre Bewegung von
@@ -436,7 +428,7 @@ Schr. II, S. 184, und die Erklärung in den In. rerum Math. metaph.,
 Math. VII, S. 20: „Wir sagen, daß ein Objekt sich bewegt, wenn
 es seine Lage ändert und zugleich der Grund für diese Veränderung
 in ihm selbst gelegen ist‘‘). Euler (Theoria motus 1765, insbesondere
-$ 81) istebenfalls der Meinung, daß man das Prinzip der Relativität
+§ 81) ist ebenfalls der Meinung, daß man das Prinzip der Relativität
 der Bewegung, wie einleuchtend es der Vernunft sei, notgedrungen
 den dynamischen Erfahrungen zum Opfer bringen müsse. Aus
 Kants Darlegungen in den ‚„Metaphysischen Anfangsgründen“
@@ -515,34 +507,33 @@ des Seebeckens Z, Z’, die dadurch auseinander hervorgehen, daß die
 Teilchen ihre Orte irgendwie untereinander vertauschen, jeder für sich
 betrachtet, durch nichts unterschieden. Nur nachdem man „ein Koordinatensystem zugrunde gelegt“, d. h. hier die Teilchen mit Nummern versehen hat, welche künstliche Unterschiede unter ihnen einführen und
 während der Bewegung an ihnen haften bleiben, kann man von den
-beiden materiellen Zuständen Z, Z’ als solchen sprechen (vgl. AnhangB).
+beiden materiellen Zuständen Z, Z′ als solchen sprechen (vgl. Anhang B).
 In Wahrheit ist aber nicht der einzelne materielle Zustand Z, die Anordnung, etwas Faßbares, sondern nur die Verschiebung des materiellen
-Zustandes ZZ’, die Permutation. Man vergleiche dazu die oben
+Zustandes Z → Z′, die Permutation. Man vergleiche dazu die oben
 wiedergegebenen Bemerkungen Leibnizens zur Relativität des Ortes
 (S. 127/128).
 
-Die Gruppe 4, der euklidischen Drehungen (s. $ 15) im dreidimensionalen Raum ist nun durch die sogenannte Lorentzgruppe ersetzt
+Die Gruppe Δ0 der euklidischen Drehungen (s. § 15) im dreidimensionalen Raum ist nun durch die sogenannte Lorentzgruppe ersetzt
 worden. Sie besteht aus allen homogenen linearen Transformationen
 
 [[pdf-page:0141 printed-page:140]]
 
 140 Raum und Zeit. Die transzendente Außenwelt
 
-Z=)ayzı (i,k=0,1,2,3),
-k
+z′i = Σ_k aik zk     (i, k = 0, 1, 2, 3),
 
-die die indefinite quadratische Form — zo? + zı? + za? + 23? invariant
+die die indefinite quadratische Form −z0² + z1² + z2² + z3² invariant
 lassen. Für jede dieser Transformationen sind die absoluten Werte der
-Koeffizienten a = ag, und der Determinante d aus den 3 x 3 Koeffizienten ar (,k =1,2,3) größer oder gleich 1. Der Transformation
+Koeffizienten a = a00 und der Determinante d aus den 3 × 3 Koeffizienten aik (i, k = 1, 2, 3) größer oder gleich 1. Der Transformation
 erteilen wir die zeitliche Signatur + oder —, je nachdem a = 1 oder
-a<—- ist; ebenso bestimmt das Vorzeichen von d die räumliche
+a ≤ −1 ist; ebenso bestimmt das Vorzeichen von d die räumliche
 Signatur. Die Lorentztransformationen mit zeitlicher Signatur + bilden
 eine Untergruppe mit Index 2 der gesamten Gruppe, ebenso die Transformationen mit der räumlichen Signatur +. Ihr gemeinsamer Teil ist
 in jeder von ihnen wiederum als Untergruppe mit Index 2 enthalten. Die
 Transformationen mit der zeitlichen Signatur — wechseln zwischen
-Vergangenheit und Zukunft, die mit der räumlichen Signatur — wechseln zwischen links und rechts. Die fundamentalsten Erfahrungen unseres Lebens scheinen dahin zu gehen, daß A, auf die Lorentztransformationen mit der zeitlichen Signatur + (aber unter Einschluß derer mit
+Vergangenheit und Zukunft, die mit der räumlichen Signatur — wechseln zwischen links und rechts. Die fundamentalsten Erfahrungen unseres Lebens scheinen dahin zu gehen, daß Δ0 auf die Lorentztransformationen mit der zeitlichen Signatur + (aber unter Einschluß derer mit
 der räumlichen Signatur —) beschränkt wird. Die Physik aber hat es für
-recht schwierig befunden, diese Frage zu entscheiden (s. $23C). Eine
+recht schwierig befunden, diese Frage zu entscheiden (s. §23C). Eine
 weitere Signatur, die topologische, wird der Koordinatentransformation
 angefügt, sie ist durch das Vorzeichen ihrer Jacobischen Determinante
 bestimmt.
@@ -551,15 +542,12 @@ Wir ziehen mit der „allgemeinen Relativitätstheorie‘‘ das Fazit
 der bisherigen historischen Entwicklung des Strukturproblems von
 Raum und Zeit folgendermaßen. Die Welt ist ein vierdimensionaler
 Riemannscher Raum, in welchem nach Festlegung einer Maßeinheit
-jedem von einem Punkte P mit den Koordinaten xg, X1, Xy X3
-ausstrahlenden Linienelemente, das nach dem unendlich benachbarten Punkte P’ = (x; + dx;) führt, eine Maßzahl
+jedem von einem Punkte P mit den Koordinaten x0, x1, x2, x3
+ausstrahlenden Linienelemente, das nach dem unendlich benachbarten Punkte P’ = (xi + dxi) führt, eine Maßzahl
 
-3
-ds’= Y Endx;dx, (Eu= 8)
+ds² = Σ_{i,k=0}^{3} gik dxi dxk     (gki = gik)
 
-i,k=0
-
-zukommt, die unabhängig ist vom benutzten willkürlichen Koordinatensystem. Die Koeffizienten gix hängen von den Koordinaten X, X], X, X3 von P, aber nicht von den dx; ab. Die auf der
+zukommt, die unabhängig ist vom benutzten willkürlichen Koordinatensystem. Die Koeffizienten gik hängen von den Koordinaten x0, x1, x2, x3 von P, aber nicht von den dxi ab. Die auf der
 rechten Seite stehende metrische Fundamentalform ist aber nicht
 positiv-definit, sondern besitzt eine negative Dimension; d.h. sie
 läßt sich durch Einführung geeigneter Koordinaten im Punkte P
@@ -567,21 +555,21 @@ auf die nichts Unbestimmtes enthaltende Normalform
 
 [[pdf-page:0142 printed-page:141]]
 
-ds’= —dxg+dx?+dx}+dx3
+ds² = −dx0² + dx1² + dx2² + dx3²
 
 bringen. Nur zufolge dieses Umstandes scheidet der ‚„‚Lichtkegel
 in P“, auf welchem die von P ausgehenden Linienelemente liegen,
-die ds? zu Null machen, ein Gebiet der aktiven Zukunft von einem
+die ds² zu Null machen, ein Gebiet der aktiven Zukunft von einem
 Gebiet der passiven Vergangenheit für P. Die Fundamentalform
 determiniert in einer leicht näher zu beschreibenden Weise das
 Verhalten der Uhren und Maßstäbe, sie legt den Verlauf der Lichtkegel in ihrer ganzen Ausdehnung fest und scheidet die Weltlinien
 der reinen Trägheitsbewegung (denen z. B. die Planeten folgen) aus
 der Gesamtheit aller möglichen Weltlinien aus. Ihre Koeffizienten,
-die stetigen Funktionen gik (Xg, X, Xg, X3) beschreiben relativ zu
+die stetigen Funktionen gik(x0, x1, x2, x3) beschreiben relativ zu
 dem gewählten Koordinatensystem das Maßfeld oder den „Zustand des Äthers‘“, der mit der Materie in Wechselwirkung steht.
 
 Bei der Frage nach der ganzen Ausdehnung der Welt muß man
-unterscheiden zwischen den rein fopologischen und den Maßverhältnissen. Bruno empfand den Übergang von dem in die Kristallsphäre eingeschlossenen, um ein Zentrum kreisenden Aristotelischen Weltsystem zu der indifferenten Weite des unendlichen, unzentrierten, überall von Sternen bevölkerten euklidischen Raumes,
+unterscheiden zwischen den rein topologischen und den Maßverhältnissen. Bruno empfand den Übergang von dem in die Kristallsphäre eingeschlossenen, um ein Zentrum kreisenden Aristotelischen Weltsystem zu der indifferenten Weite des unendlichen, unzentrierten, überall von Sternen bevölkerten euklidischen Raumes,
 welcher der neueren Naturforschung zugrunde liegt, als eine mächtige Befreiung. Dennoch ist der Aristotelische Raum (wenn die
 begrenzende Kugelfläche nicht mehr zum Raum gehört) topologisch gar nicht, sondern nur seinen Maßbeziehungen nach von
 dem unendlichen verschieden. Der unendliche euklidische Raum
@@ -642,7 +630,7 @@ Lemaitre, H. P. Robertson u.a.). Für a erhält man so einen Wert von
 ungefähr 10?” cm. Übrigens folgt das Verhalten einer jeden Welt, die
 gewissen natürlichen Homogenitätsbedingungen im Großen (ob sie leer
 ist oder Masse enthält) genügt, asymptotisch diesem Modell, wenn der
-Weltradius beim Expansionsprozeß wesentlich größer als a wird. (Vergleiche auch $ 23C.) — Die Forderung, daß von jedem Weltpunkt O aus
+Weltradius beim Expansionsprozeß wesentlich größer als a wird. (Vergleiche auch § 23C.) — Die Forderung, daß von jedem Weltpunkt O aus
 zwei (nicht nur in der nächsten Umgebung von O, sondern in ihrem
 ganzen Verlauf) getrennte Weltgebiete der aktiven Zukunft und der
 passiven Vergangenheit sich ergeben sollen, macht eine nicht nur räumlich, sondern auch zeitlich geschlossene Welt unmöglich; in ihr würde
@@ -667,7 +655,7 @@ H. Weyl, Raum, Zeit, Materie, 5. Aufl. 1923.
 
 [[pdf-page:0145 printed-page:144]]
 
-4A.S. Eddington, Space, Time, and Gravitation. Cambridge 1920.
+A. S. Eddington, Space, Time, and Gravitation. Cambridge 1920.
 The Mathematical Theory of Relativity. Cambridge 1923. The Expanding Universe. Cambridge 1937.
 
 H. P. Robertson, Relativistic Cosmology. Reviews of Modern Physics
@@ -681,7 +669,7 @@ Aufbau der Naturwissenschaft eng verknüpft, seit Demokrit den
 Grundsatz aufstellte: „Nur in der Meinung (vduo, oö pioesı) besteht das Süße, in der Meinung das Bittere, in der Meinung das
 Kalte, das Warme, die Farbe‘; das wahrhaft Wirkliche aber seien
 unveränderliche Substanzteilchen, Atome, die sich im leeren Raum
-bewegen. Auch nach Plaro (Theaitetos 156e) sind jene „Eigenschaften, hart, warm, und wie sie alle heißen, an und für sich
+bewegen. Auch nach Plato (Theaitetos 156e) sind jene „Eigenschaften, hart, warm, und wie sie alle heißen, an und für sich
 nichts“, sondern entstehen durch das Zusammentreffen einer vom
 Subjekt und einer vom Objekt ausgehenden „Bewegung“. Das
 Wirkliche ist reine Aktivität; nur im „Bild“, im Bewußtsein, das
@@ -689,12 +677,12 @@ in der Mitte schwebt, ist Leiden. „Weiß oder rot, bitter oder süß,
 tönend oder stumm, wohl- oder übelriechend sind Namen für
 Wirkungen auf die Sinnesorgane“, sagt Galilei, sie dürfen den
 Dingen selber ebensowenig zugeschrieben werden wie der Kitzel
-oder Schmerz, welchen die Berührung von Gegenständen hervorrufen kann. Eingehend handelt Descarres davon in den Schlußparagraphen der Principia und im Traite de la Lumiere (die
+oder Schmerz, welchen die Berührung von Gegenständen hervorrufen kann. Eingehend handelt Descartes davon in den Schlußparagraphen der Principia und im Traité de la Lumière (die
 Theorie der Gesichtswahrnehmung verdankt ihm wichtige Fortschritte), ebenso Locke, On human understanding, 2. Buch, 8. Kap.
-$$ 13-22. In zweierlei Hinsicht, in philosophischer und in naturwissenschaftlicher, muß die Subjektivität der Sinnesqualitäten behauptet werden. Erstens kann eine solche Qualität ihrem Wesen
+§§ 13-22. In zweierlei Hinsicht, in philosophischer und in naturwissenschaftlicher, muß die Subjektivität der Sinnesqualitäten behauptet werden. Erstens kann eine solche Qualität ihrem Wesen
 nach nur im Bewußtsein, in der Empfindung gegeben sein; man
 sieht in ihr entweder eine der Empfindung anhaftende Beschaffenheit oder, bei feinerer Analyse, nicht ein reelles Moment an der
-Empfindungselbst, sondern eine dem intentionalen Objekt, das sich
+Empfindung selbst, sondern eine dem intentionalen Objekt, das sich
 
 [[pdf-page:0146 printed-page:145]]
 
@@ -803,32 +791,32 @@ Bild finden. Ein schon den obersten Stufen angehöriges physikalisches
 Beispiel ist die Konstitution der Begriffe „elektrisches Feld, elektrische
 Feldstärke“. Im Raum zwischen geladenen Konduktoren finden wir,
 daß ein schwach geladenes „Probekügelchen“ an jeder Stelle P eine
-nach Größe und Richtung bestimmte Kraft $ = & (P) erfährt; immer
+nach Größe und Richtung bestimmte Kraft 𝔎 = 𝔎(P) erfährt; immer
 
 [[pdf-page:0149 printed-page:148]]
 
-wieder dieselbe Kraft $, wenn ich das Kügelchen an dieselbe Raumstelle
+wieder dieselbe Kraft 𝔎, wenn ich das Kügelchen an dieselbe Raumstelle
 P zurückbringe. Verwende ich verschiedene Probekörper, so stellt sich
 heraus, daß die Kraft von ihm abhängt, jedoch so, daß man eine Faktorenspaltung vornehmen kann
 
-K(P)=e-E(P),
+𝔎(P) = e · 𝔈(P),
 
-wo der vektorielle Faktor € (P), die elektrische Feldstärke (außer vom
+wo der vektorielle Faktor 𝔈(P), die elektrische Feldstärke (außer vom
 Ort P) nur von den Konduktoren, nicht vom Zustand des Probekügelchens abhängt, während umgekehrt der skalare Faktor e, die Ladung
 des Probekörpers, nur durch dessen Zustand bedingt ist und sich als der
 gleiche erweist, in welche elektrischen Felder man ihn auch immer hineinbringt. Hier gehen wir von der Kraft als dem Gegebenen aus; die
 geschilderten Tatsachen aber führen uns dazu, ein durch die vektorielle
-Ortsfunktion & (P) mathematisch beschriebenes elektrisches Feld anzunehmen, das die Konduktoren umgibt und vorhanden ist, gleichgültig
+Ortsfunktion 𝔈(P) mathematisch beschriebenes elektrisches Feld anzunehmen, das die Konduktoren umgibt und vorhanden ist, gleichgültig
 ob wir die von ihm ausgeübte Kraft an einem Probekügelchen konstatieren
 oder nicht. Der Probekörper ist nur das Mittel, das Feld wahrnehmbar
-und meßbar zu machen. Die Gleichung 8 = e- € tritt jetzt nicht mehr
-als Definition von € auf, sondern ist ein (unter Umständen zu korrigierendes) Naturgesetz, welches die ponderomotorische Wirkung bestimmt,
-die ein elektrisches Feld € auf eine hineingebrachte Punktladung e ausübt. Da nach der Maxwellschen Theorie das Licht nichts anderes ist als
+und meßbar zu machen. Die Gleichung 𝔎 = e · 𝔈 tritt jetzt nicht mehr
+als Definition von 𝔈 auf, sondern ist ein (unter Umständen zu korrigierendes) Naturgesetz, welches die ponderomotorische Wirkung bestimmt,
+die ein elektrisches Feld 𝔈 auf eine hineingebrachte Punktladung e ausübt. Da nach der Maxwellschen Theorie das Licht nichts anderes ist als
 ein periodisch veränderliches elektromagnetisches Feld von sehr kleiner
 Periode, so besitzen wir im Auge ein Sinnesorgan, mit Hilfe dessen wir
 gewisse elektrische Felder auch anders als durch ihre ponderomotorischen Wirkungen wahrnehmen. In der systematischen Darstellung wird
-man ohne jede Erklärung, rein „symbolisch“ eine elektrische Feldstärke € einführen, die Gesetze hinstellen, welchen sie genügt (z. B.: das
-Linienintegral von €, über eine geschlossene Raumkurve erstreckt, ist
+man ohne jede Erklärung, rein „symbolisch“ eine elektrische Feldstärke 𝔈 einführen, die Gesetze hinstellen, welchen sie genügt (z. B.: das
+Linienintegral von 𝔈, über eine geschlossene Raumkurve erstreckt, ist
 = 0) und die Gesetze, nach denen mit ihr ponderomotorische Kräfte
 verknüpft sind. Betrachten wir die Kräfte als das direkt Nachweisbare,
 so ist damit dann der Anschluß an das Gegebene vollzogen.
@@ -843,16 +831,16 @@ an einem typischen Fall erläutert werden. Es handle sich um die
 Beobachtung zweier oder mehrerer Sterne; das auffassende Bewußtsein vereinfache ich zu einem Punktauge, dessen Weltlinie B
 heiße. Die Beobachtung finde statt im Momente O seines Lebens.
 Die Konstruktion ist auszuführen im vierdimensionalen Zahlenraum; nur um mich leichter verständlich zu machen, entwerfe ich
-eine geometrische Figur. &' sind die Weltlinien zweier Sterne; auf
-dem von O ausstrahlenden rückwärtigen Lichtkegel $, der die
-beiden Sternlinien 2 in je einem Punkte trifft, verlaufen die Weltlinien A der Lichtsignale, die von den Sternen her in O eintreffen.
+eine geometrische Figur. Σ sind die Weltlinien zweier Sterne; auf
+dem von O ausstrahlenden rückwärtigen Lichtkegel 𝔎, der die
+beiden Sternlinien Σ in je einem Punkte trifft, verlaufen die Weltlinien Λ der Lichtsignale, die von den Sternen her in O eintreffen.
 Durch eine gewisse rein arithmetisch beschreibbare Konstruktion
-bestimmt sich daraus die Maßzahl 9 des Winkels, unter welchem
+bestimmt sich daraus die Maßzahl ϑ des Winkels, unter welchem
 die Sterne dem Beobachter in O erscheinen. Diese Konstruktion
-ist „invariant‘“, d.h. von solcher Art, daß sie zu der gleichen Maßzahl % führt, wenn sie,
+ist „invariant“, d. h. von solcher Art, daß sie zu der gleichen Maßzahl ϑ führt, wenn sie,
 nach einer beliebigen Deformation des ganzen Bildes, von neuem gemäß der
 gleichen Vorschrift an dem
-verzerrten Bildevorgenommen wird. Und in ihr ist
+verzerrten Bilde vorgenommen wird. Und in ihr ist
 alles enthalten: die Abhängigkeit des Winkels von
 den Sternen selber, von
 
@@ -878,18 +866,15 @@ im Momente O in der gleichen, sonst in verschiedener Gestalt.
 vor dem Blick des in der Weltlinie meines Leibes emporkriechenden Bewußtseins ‚lebt‘ ein Ausschnitt dieser Welt „auf“ und
 zieht an ihm vorüber als räumliches, in zeitlicher Wandlung begriffenes Bild.
 
-Bei der Konstruktion der Winkel # spielt eine wichtige Rolle die in
+Bei der Konstruktion der Winkel ϑ spielt eine wichtige Rolle die in
 jedem Moment O für das Bewußtsein sich vollziehende „Spaltung“ der
-Welt in Raum und Zeit; sie ist objektiv so zu beschreiben: Sind e,, e1, €,
-e; die Komponenten eines Vektors, der in O die Richtung von B angibt,
+Welt in Raum und Zeit; sie ist objektiv so zu beschreiben: Sind e0, e1, e2,
+e3 die Komponenten eines Vektors, der in O die Richtung von B angibt,
 so wird meine nächste räumliche Umgebung in O aufgespannt durch
-alle von O ausstrahlenden Linienelemente (dx,, dx, dxz, dxz), welche
+alle von O ausstrahlenden Linienelemente (dx0, dx1, dx2, dx3), welche
 orthogonal zu e sind, d.h. der Gleichung
 
-3
-% Ende =0 mit g4= 8;(0)
-
-i,k=0
+Σ_{i,k=0}^{3} gik dxi ek = 0     mit gik = gik(O)
 genügen.
 
 So sind im objektiven Bestand alle Gründe enthalten, um den
@@ -928,15 +913,15 @@ realistisch.
 Denn solange ich bei dem schlechthin Gegebenen, genauer: dem
 schlechthin Gegebenen des Augenblicks stehen bleibe, ist offenbar kein
 Bedürfnis vorhanden, es durch eine objektive Welt zu unterbauen. Aber
-auch wenn ich Erinnerung hinzunehme und ihre Triftigkeit grundsätzlich anerkenne, wenn ich die Inhalte fremden Bewußtseins ais den
+auch wenn ich Erinnerung hinzunehme und ihre Triftigkeit grundsätzlich anerkenne, wenn ich die Inhalte fremden Bewußtseins als den
 meinen gleichberechtigte Data akzeptiere, mich dem Geheimnis der
-intersubjektiven Verständigung Ööffnend und ihr Glauben beimessend,
+intersubjektiven Verständigung öffnend und ihr Glauben beimessend,
 brauchte ich nicht so zu verfahren, wie wir wirklich tun, sondern könnte
 statt dessen nach den „‚Transformationen“ suchen, welche zwischen den
 Bildwelten verschiedener Bewußtseine vermitteln. Eine solche Darstellung wäre der Leibnizschen Monadologie angemessen. Statt von
 einem gegebenen Körper das perspektivische Bild zu konstruieren, das
 er von einem relativ zu ihm gegebenen Standort darbietet, und umgekehrt aus mehreren perspektivischen Aufnahmen, wie die Photogrammetrie tut, den Körper zu konstruieren, würde ich unter Ausschaltung
-des Körpers direkt die Aufgabe etwa so stellen: Wenn A, B, C dreian
+des Körpers direkt die Aufgabe etwa so stellen: Wenn A, B, C drei an
 einen Punktleib gebundene Bewußtseine sind, die gesetzmäßigen geometrischen Zusammenhänge anzugeben, in denen die drei Bilder, zueinander stehen, die je eine der drei Personen von demselben in ihrem
 Gesichtsfeld befindlichen Körper K und den Standorten der beiden
 
@@ -976,37 +961,32 @@ das um unser Massenzentrum O herum kugelsymmetrische Gravitations-
 
 feld wirkt derart auf die starren Körper ein, daß ein in P radial gerichteter Maßstab eine Verkürzung im Verhältnis
 
-yı ee a1
-r
+√(1 − 2a/r) : 1
 
 erleidet (r die Entfernung OP, a eine durch die Masse bestimmte Konstante), während ein senkrecht zu O P angelegter Maßstab ungeändert
 bleibt. Warum sollen Maßstäbe, die durch Erwärmung ihre wahre Länge
-ändern, nicht in ähnlicher Weise auch auf ein Gravizationsfeld reagieren ?
+ändern, nicht in ähnlicher Weise auch auf ein Gravitationsfeld reagieren?
 Benutzt man aber ein gewisses anderes Koordinatensystem, so kommt
 man zu folgender Beschreibung: (II) In Wahrheit gilt die euklidische
-Geometrie; der Maßstab im Punkte ? wird aber, welche Richtung er
+Geometrie; der Maßstab im Punkte P wird aber, welche Richtung er
 auch einnehmen mag, im Verhältnis
 
-2
-a
-(14) 1
+(1 + a/(2r))² : 1
 
 durch das Gravitationsfeld geändert. Beide Beschreibungen drücken
 denselben Sachverhalt aus. Jedem möglichen Koordinatensystem entspricht eine besondere Korrekturvorschrift zur Rettung der euklidischen
 Geometrie. Aber die eine ist so gut wie die andere, jede führt in den
 nachprüfbaren Sachverhalt ein
 willkürliches Element ein, das
-
 gar keine durch die Wahrnehmung zu kontrollierende Folgen
-
-A hat und daher ausgeschieden
-Fig. 4. Schematische Darstellung einer werden muß und auch ausgeTheorie mit überflüssigem Bestandteil schieden werden kann: indem
-2. man nämlich mit Einstein ledig-
-
-lich von der durch das Verhalten
-
+hat und daher ausgeschieden
+werden muß und auch ausgeschieden werden kann: indem
+man nämlich mit Einstein lediglich von der durch das Verhalten
 der Maßstäbe definierten physischen Geometrie Gebrauch macht, die freilich von der euklidischen abweicht. Die Theorie (I) oder (II) kann bei
 geeigneter Formulierung in zwei Teile gespalten werden: die Einsteinsche Theorie (E) und einen Zusatz (Z), der mit (E) nicht zusammenhängt und die Wirklichkeit nicht berührt, also abgestoßen werden muß;
+
+Fig. 4. Schematische Darstellung einer Theorie mit überflüssigem Bestandteil Z.
+
 vgl. die schematische Figur. — An dem Bohrschen Modell des Wasserstoffatoms, in welchem die Periodizität des ausgesandten Lichts nichts
 zu tun hat mit der periodischen Umlaufszeit des Elektrons um den
 Atomkern, empfinden wir es, in so wunderbarer Weise es auch das
@@ -1015,7 +995,7 @@ muß, daß der Periode des Elektronenumlaufs kein Beobachtungsdatum
 
 [[pdf-page:0155 printed-page:154]]
 
-korrespondiert. — Poincare macht einmal zur Erläuterung der Idee
+korrespondiert. — Poincaré macht einmal zur Erläuterung der Idee
 der Relativität die Fiktion, daß über Nacht, während alles Bewußtsein
 schläft, die ganze Welt mit allen in ihr enthaltenen Körpern einschließlich meines Leibes in einem bestimmten Verhältnis sich vergrößere;
 weder ich noch irgendein anderer würde davon nach dem Erwachen
@@ -1023,7 +1003,7 @@ das Geringste merken. Diesem Geschehnis gegenüber macht die Naturwissenschaft m
 solchen Umständen die Aussage, daß die Welt sich vergrößert habe,
 überhaupt noch bedeuten? Nur da darf Verschiedenheit gesetzt werden,
 wo die Annahme der Gleichheit in Kollision kommt mit dem Grundsatz,
-daß Gleiches unter gleichen Bedingungen (insbesondere gleicher objektiver Beschaffenheit, Stellung und Bewegung des Subjekts) gleich wahrgenommen wird (und mit dem Kausalsatz)).
+daß Gleiches unter gleichen Bedingungen (insbesondere gleicher objektiver Beschaffenheit, Stellung und Bewegung des Subjekts) gleich wahrgenommen wird (und mit dem Kausalsatz)¹).
 
 Zwischen der wirklichen Welt und dem Gegebenen besteht eine Zuordnung, eine Abbildung im mathematischen Sinne; doch steht dabei
 auf der einen Seite die eine quantitativ bestimmte objektive Welt, auf
@@ -1065,7 +1045,7 @@ den bei bewußten Schlüssen vor sich gehenden ganz verschieden sind
 und ihr Effekt auch nicht durch bessere Einsicht aufgehoben werden
 kann. Der sinnliche Eindruck eines Spiegelbildes oder eines ins Wasser
 ragenden gebrochenen Stabes oder des Regenbogens täuscht natürlich
-nicht, erst das leibhafte Ding, das jener Eindruck nach Husser! vor mich
+nicht, erst das leibhafte Ding, das jener Eindruck nach Husserl vor mich
 hinstellt, ist ein Irrtum; das wahrhaft Vorhandene kann immer nur
 unter Berücksichtigung aller sinnlichen Zeichen ermittelt werden, welche
 in den angeführten Beispielen bald die obwaltenden „ungewöhnlichen“
@@ -1095,15 +1075,15 @@ wenn ich mein Auge und meine Hand in diese und jene bestimmte
 Stellung gegen den Tisch bringen werde. Welche andere Art der
 Ähnlichkeit zwischen einer solchen Vorstellung und dem dadurch
 vorgestellten Körper sein kann, weiß ich nicht zu begreifen.“
-(A.a.O., $ 26.) Im gleichen Sinne bemerkt Leibniz zu den Cartesischen Prinzipien (Philos. Schr. IV, S.356): „Von den Sinnendingen können wir nichts anderes wissen, noch brauchen wir von
+(A.a.O., § 26.) Im gleichen Sinne bemerkt Leibniz zu den Cartesischen Prinzipien (Philos. Schr. IV, S. 356): „Von den Sinnendingen können wir nichts anderes wissen, noch brauchen wir von
 ihnen etwas anderes zu verlangen, als daß sie unter sich, wie mit
 den unzweifelhaften Vernunftgründen übereinkommen und daß
 somit die Zukunft aus der Vergangenheit bis zu einem gewissen
 Grade vorausgesehen werden kann. Nach einer anderen Wahrheit
 oder Realität, als sie hierin verbürgt ist, in ihnen zu forschen, ist
 vergebens, — die Skeptiker dürfen nichts anderes fordern, die
-Dogmatiker nichts anderes verheißen.‘“ Oder Husserl (Ideen,
-S. 311 und 312): „Zum Wesen eines Dingno&mas gehören ideale
+Dogmatiker nichts anderes verheißen.“ Oder Husserl (Ideen,
+S. 311 und 312): „Zum Wesen eines Dingnoëmas gehören ideale
 Möglichkeiten der Grenzenlosigkeit im Fortgange einstimmiger
 Anschauungen, und zwar nach typisch bestimmt vorgezeichneten
 Richtungen.“ Aber im Aufbau der Erfahrungswirklichkeit treten
@@ -1114,7 +1094,7 @@ nie eine durch die Gegebenheiten als notwendig geforderte, sondern
 in gewisser Art immer zufällige (präsumptive Wirklichkeit). Das
 meint: immer kann es sein, daß der weitere Verlauf der Erfahrung
 das schon mit erfahrungsmäßigem Recht Gesetzte preiszugeben nötigt“ (Husserl, Ideen, S. 86). Es bestünde durchaus die Möglichkeit,
-daß jeder Ansatz von Einstimmigkeit im Bildverlaufe der Wahrnehmungen unrettbar „explodierte‘‘; dann würdesich durch ihren Abgleich nach Vernunftprinzipien keine wirkliche Welt Konstituieren.
+daß jeder Ansatz von Einstimmigkeit im Bildverlaufe der Wahrnehmungen unrettbar „explodierte“; dann würde sich durch ihren Abgleich nach Vernunftprinzipien keine wirkliche Welt konstituieren.
 
 [[pdf-page:0158 printed-page:157]]
 
@@ -1156,7 +1136,7 @@ in Verbindung mit den Beobachtungsdaten abgeleitet werden.
 Namen der Einbildungskraft auf. Mit voller Ehrlichkeit bekennt
 er den unheilbaren Zwiespalt zwischen Denken und Leben, in den
 er gerät. Sein Ansatz ist nicht minder undurchführbar wie die
-Begründung der Arithmetik als Lehre von den ir concreto vorhandenen Zahlzeichen. Der Positivismus eines Mach und Avenarius scheint mir nur eine weniger folgerichtige Erneuerung des
+Begründung der Arithmetik als Lehre von den in concreto vorhandenen Zahlzeichen. Der Positivismus eines Mach und Avenarius scheint mir nur eine weniger folgerichtige Erneuerung des
 Humeschen Versuchs; denn bei ihnen spielen theoretische Setzungen, die Hume streng vermieden hatte, wieder eine beträchtliche Rolle. Damit sind wir aber schon mitten in der theoretischen
 Konstruktion drin, die dem Bestreben entspringt, das Gegebene
 zur Totalität zu ergänzen, und haben keinen Anlaß mehr, als ihr
@@ -1170,7 +1150,7 @@ Erfahrungswirklichkeit.
 
 Im logischen Teil hatten wir darauf bestanden, daß Existenz nicht
 von etwas Aufgewiesenem ausgesagt werden könne, daß das logische
-Symbol 2% einen Index x trägt, der sich auf eine Leerstelle bezieht. Dem
+Symbol Σx einen Index x trägt, der sich auf eine Leerstelle bezieht. Dem
 scheint ein solches Urteil wie: Dieser Stuhl ist wirklich, zu widerstreiten.
 Aber die Behauptung realer Existenz enthält entweder, idealistisch gefaßt, eine Voraussage über eine Fülle möglicher einstimmiger Anschauungen, die sich auf gewisse Willensintentionen einstellen werden, oder,
 realistisch gefaßt, die Aussage, daß ein Ding x existiert, welches zu der
@@ -1179,33 +1159,33 @@ gegebenen Stuhlerscheinung in einem gewissen metaphysischen Verhältnis steht.
 Zum Problem Realismus—Idealismus gibt es in der Geometrie ein
 treffendes Analogon, das mit ihm insofern in sachlichem Zusammenhang steht, als für die objektive Welt das Koordinatensystem die Rolle
 des Ich für die subjektive übernimmt. Als „Dinge an sich“ betrachten
-wir, wie in $12, die Vektoren in einer Ebene, als „reales Subjekt“ ein
-aus zwei voneinander linear unabhängigen Vektoren e,, e, bestehendes
-Koordinatensystem. Ein Vektor r läßt sich eindeutig in der Form r =
-Xı8ı + x2e, darstellen, und das Zahlenpaar (x,, x) der Komponenten
+wir, wie in §12, die Vektoren in einer Ebene, als „reales Subjekt“ ein
+aus zwei voneinander linear unabhängigen Vektoren e1, e2 bestehendes
+Koordinatensystem. Ein Vektor ξ läßt sich eindeutig in der Form ξ =
+ξ1e1 + ξ2e2 darstellen, und das Zahlenpaar (ξ1, ξ2) der Komponenten
 
 [[pdf-page:0160 printed-page:159]]
 
-werde als die „Erscheinung‘‘ des „Dinges“ r für das „Subjekt“ (e,, &;)
+werde als die „Erscheinung“ des „Dinges“ ξ für das „Subjekt“ (e1, e2)
 gedeutet. Das „Gegebene“ sind hier Zahlen, und wir wollen jetzt annehmen, daß nur das Zahlenreich, nicht der geometrische Raum unserer
 Anschauung offen stünde. Wir können dann doch innerhalb der Algebra
 die ebene affine Vektorgeometrie aufbauen, ja die Entwicklung der
 Algebra selbst führt mit Notwendigkeit dazu. Man definiert nämlich:
-Unter Vektor soll ein beliebiges Zahlenpaar (x,, x,) verstanden werden.
-X, X, mögen die absoluten Komponenten desselben heißen. Zwei Zahlenpaare (x,, x) und (x,', xy) werden addiert oder das erste wird mit
-einer Zahl a multipliziert, indem man das Paar (x, + x, x + x),
-bzw. (ax,, ax,) bildet. Sind
+Unter Vektor soll ein beliebiges Zahlenpaar (x1, x2) verstanden werden.
+x1, x2 mögen die absoluten Komponenten desselben heißen. Zwei Zahlenpaare (x1, x2) und (x1′, x2′) werden addiert oder das erste wird mit
+einer Zahl a multipliziert, indem man das Paar (x1 + x1′, x2 + x2′),
+bzw. (ax1, ax2) bildet. Sind
 
-eı=(e11, 812), e2=(e71, 2)
+e1 = (e11, e12),     e2 = (e21, e22)
 zwei Vektoren, für welche
-Sıeıt&zez &)
+ξ1e1 + ξ2e2     (*)
 
-nur dann = (0, 0) ist, wenn die beiden Zahlen £,, &, verschwinden, so
-läßt sich jeder Vektor £ in der Gestalt (*) eindeutig darstellen; &,, &
-mögen die relativen Komponenten von £ in bezug auf das System (e,, &;)
+nur dann = (0, 0) ist, wenn die beiden Zahlen ξ1, ξ2 verschwinden, so
+läßt sich jeder Vektor ξ in der Gestalt (*) eindeutig darstellen; ξ1, ξ2
+mögen die relativen Komponenten von ξ in bezug auf das System (e1, e2)
 heißen. Es gibt ein besonderes, das „absolute System“:
 
-e,=(1,0), &,=(0,1),
+e1 = (1, 0),     e2 = (0, 1),
 
 in bezug auf welches die relativen mit den absoluten Komponenten zusammenfallen. Unter den möglichen Systemen, den „Subjekten“, die
 hier lediglich als arithmetische „Erscheinungen“ auftreten, ist so eines
@@ -1214,10 +1194,10 @@ auf diesem algebraischen oder „konszientialistischen‘“ Standpunkt der
 Gleichberechtigung aller Subjekte gerecht werden. Hebt man nämlich
 diejenigen Operationen und Beziehungen als objektiv oder real hervor,
 die allein mittels der beiden Grundverknüpfungen definiert werden,
-welche £ + r' ausrundr’, ar aus a und r entstehen lassen, so sind alle
-Systeme objektiv gleichberechtigt. Das (dem „reinen Bewußtsein“ angehörige) Verhältnis von r zu seinen beiden absoluten Komponenten
+welche ξ + ξ′ aus ξ und ξ′, aξ aus a und ξ entstehen lassen, so sind alle
+Systeme objektiv gleichberechtigt. Das (dem „reinen Bewußtsein“ angehörige) Verhältnis von ξ zu seinen beiden absoluten Komponenten
 ist nicht objektiv, ist aber ein Sonderfall derjenigen realen Beziehung,
-welche zwischen dem „Ding‘ r, dem „Subjekt“ (e,, €) und der „Erscheinung‘, den Komponenten £&,, &, von £ relativ zu (e,, €,) besteht.
+welche zwischen dem „Ding“ ξ, dem „Subjekt“ (e1, e2) und der „Erscheinung“, den Komponenten ξ1, ξ2 von ξ relativ zu (e1, e2) besteht.
 In der Algebra drückt man den „objektiven“ Standpunkt so aus: man
 studiere lediglich solche arithmetischen Operationen und Beziehungen,
 welche invariant sind gegenüber beliebigen linearen Transformationen.
@@ -1305,7 +1285,7 @@ Seite der „objektive“, auf der andern mein Anschauungs-Raum und
 nehmen wir an, daß beide euklidisch-metrische Struktur tragen, so ist
 das Äußerste an „Treue“, was wir verlangen können, dies, daß die
 Korrespondenz zwischen objektivem Gegenstand und dem mir in der
-Anschauung vorschwebenden Bilde eine isomorphe (oder ähnliche) Abbildung im Sinne von $4 sei, daß nämlich alle mit den metrischen
+Anschauung vorschwebenden Bilde eine isomorphe (oder ähnliche) Abbildung im Sinne von §4 sei, daß nämlich alle mit den metrischen
 Begriffen des objektiven Raumes zu beschreibenden geometrischen
 Beziehungen, die sich am Gegenstand finden, in den mit den gleichbenannten metrischen Begriffen des Anschauungsraumes beschriebenen
 geometrischen Beziehungen am Bilde sich widerspiegeln. Es ist aber
@@ -1321,7 +1301,7 @@ Bild I in das Bild II verwandelt (objektiv: daß dieselben Netzhautstellen
 vor der Bewegung von den Gesichtseindrücken I, nach der Bewegung
 von den Eindrücken II gereizt werden), so sind I und II zueinander
 kongruent. Für das Feld der Augenbewegungen ist hiernach Gestalt
-nicht mehr eine gegebene Qualität, sondern ein abstraktiv (vgl. $2) aus
+nicht mehr eine gegebene Qualität, sondern ein abstraktiv (vgl. §2) aus
 der Beziehung der Kongruenz gewonnener Begriff.
 
 Auf Grund seines psychologischen Grundsatzes: „daß als direkt
@@ -1339,7 +1319,7 @@ sein kontinuierlich ausgebreitetes Gesichtsfeld. Einen Versuch von
 Wundt, Farbabschattungen zu Lokalzeichen zu stempeln, übergeht man
 besser mit Stillschweigen. Helmholtz gibt zu, obwohl er Lotzes These
 akzeptierte, daß die Lokalzeichen qualitates occultae seien. Bei der notwendigen Verbundenheit von Farbe und Ausdehnung im Gesichtsfeld
-entsteht aus jener These das Problem (Poincare, Der Wert der Wissenschaft, 1910, S. 68), wie die einheitliche Empfindung sich in die beiden
+entsteht aus jener These das Problem (Poincaré, Der Wert der Wissenschaft, 1910, S. 68), wie die einheitliche Empfindung sich in die beiden
 Momente Farbe und Ausdehnung spalten kann, inwiefern also zwei an
 verschiedenen Netzhautstellen P, Q zustande kommende Empfindungen
 desselben Rot eine innige Verwandtschaft zueinander besitzen, die ein
@@ -1411,10 +1391,10 @@ Figur im Gesichtsfeld zur Erscheinung eines vom Sehstrahl getroffenen
 Objektes im zentrierten Raum wandelt, besonders deutlich zu spüren.
 Auf dieser Stufe tritt auch die Verknüpfung mit dem Lokalisationsfeld
 des Tastsinnes und der Gliederbewegungen ein; auf das Greifen nach
-dem gesehenen Gegenstand muß man bei den einschlägigen gesichtspsychologischen Versuchen als Kontrolle beständig rekurrieren. Husser!
+dem gesehenen Gegenstand muß man bei den einschlägigen gesichtspsychologischen Versuchen als Kontrolle beständig rekurrieren. Husserl
 betont, daß alle diese „angeblichen Faktizitäten, also Zufälligkeiten der
 Raumanschauung, die dem ‚wahren‘, dem ‚objektiven‘ Raum fremd
-sind, sich bis auf geringe empirische Besonderungen als Wesensnotwendigkeiten erweisen‘ (Ideen, $. 315), und O. Becker hat in seinem
+sind, sich bis auf geringe empirische Besonderungen als Wesensnotwendigkeiten erweisen“ (Ideen, S. 315), und O. Becker hat in seinem
 Sinne die konstitutiven Stufen der Räumlichkeit genauer phänomenologisch beschrieben.
 
 Durch das Hineinschreiten in den Fernhorizont des zentrierten
@@ -1431,13 +1411,13 @@ auch einer intersubjektiven Kontrolle und Korrektur fähig.
 [[pdf-page:0167 printed-page:166]]
 
 Berkeley hat entgegen der Lehre des Aristoteles, daß Raum ein
-aiodnTöV xoıvöv sei, die Ansicht vertreten, daß es nur verschiedene Sinnesräume gebe. Stumpf (a.a.O.S. 287) wendet dagegen ein: „Sollen wir
+αἰσθητὸν κοινόν sei, die Ansicht vertreten, daß es nur verschiedene Sinnesräume gebe. Stumpf (a. a. O. S. 287) wendet dagegen ein: „Sollen wir
 glauben, auch die Dauer einer Tastempfindung und die einer Gesichtsempfindung seien heterogene Inhalte?“ Berkeley hat wohl darin recht,
 daß die präspatialen Lokalisationsfelder (der 1. und 2. Stufe) für Gesichts- und Tastsinn getrennt sind, während von der 3. Stufe ab nur
-der eine Raum in Frage steht, der die sinnlichen Tast- und GesichtsDaten durchdringt. Dadurch wird der Raum zum verknüpfenden Band
+der eine Raum in Frage steht, der die sinnlichen Tast- und Gesichts-Daten durchdringt. Dadurch wird der Raum zum verknüpfenden Band
 zwischen verschiedenen Sinnesgebieten. Bains Assoziationstheorie des
 Raumes will ihn in dieser Funktion erfassen; sie ist schärfer von H.
-Poincare durchgeführt worden. Er scheidet (Wert der Wissenschaft,
+Poincaré durchgeführt worden. Er scheidet (Wert der Wissenschaft,
 S. 72 bis 94) zunächst die Qualitätsänderungen von den Bewegungen
 dadurch, daß die letzteren durch eine in Willensintentionen und begleitenden Bewegungsempfindungen sich ausdrückende Bewegung des Ichleibs rückgängig gemacht werden können. Er versucht zweitens Kriterien aufzustellen für das Sich-Decken zweier Raumpunkte, die durch
 verschiedene Reihen von Bewegungsempfindungen und Willensintentionen erreicht wurden, und untersucht drittens die „Abbildung“ der
@@ -1479,7 +1459,7 @@ des Aristotelischen Satzes von der Unmöglichkeit des leeren
 Raumes. So wird er von Hume interpretiert (Treatise, Teil ID),
 (wobei nur zu erinnern bleibt, daß die räumliche — oder besser,
 die raum-zeitliche Trennung ebenso gut ein unmittelbar feststellbares Faktum ist wie die raumzeitliche Berührung). Aber nur
-durch eine uerdßaoıg eis AAAo yEvog kann diese erkenntnistheoretische Wesenstatsache umgebogen werden zu einer Behauptung
+durch eine μετάβασις εἰς ἄλλο γένος kann diese erkenntnistheoretische Wesenstatsache umgebogen werden zu einer Behauptung
 über das substantial-physikalische Geschehen; man kommt dann
 zu solchen Konsequenzen, wie sie Descartes zieht (während Hume
 sich darüber lustig macht), daß die Wände eines Kastens, wenn
@@ -1496,7 +1476,7 @@ nung stattfindet‘, und behauptet daher, „Raum bezeichne vielmehr jenen posit
 gründet“. Er fordert, daß die Lagebeziehungen zwischen Raumpunkten in einer „Lage“ der einzelnen Punkte für sich fundiert
 sein müssen, und versperrt sich durch dieses wohl von F. Brentano
 (Zur Lehre von Raum und Zeit, Kant-Stud. XXVI) übernommene logische Prinzip von der Unselbständigkeit der Relationen
-(vgl. $ 1) das Verständnis für die Relativität des Orts.
+(vgl. § 1) das Verständnis für die Relativität des Orts.
 
 Da das bloße Hier nichts für sich ist, das sich von irgendeinem
 andern Hier unterschiede, ist der Raum principium individuationis;
@@ -1534,7 +1514,7 @@ einen starren Meterstab wird nicht wirklich ausgeführt; ebensowenig
 existiert jener „Koordinatenkristall‘‘ und gehen dessen Deckbewegungen
 vor sich; ja sie dürfen auch nicht vorhanden sein, weil sie durch ihre
 realen Kräfte den Gang des Weltgeschehens beeinflussen würden. Von
-der in $16 behandelten Struktur kann nur die Möglichkeit behauptet
+der in §16 behandelten Struktur kann nur die Möglichkeit behauptet
 werden, sie aus Geschehnissen abzulesen, welche durch das freie Eingreifen des Experimentators herstellbar sind. Die geometrischen Angaben sind also lediglich ideelle Bestimmungen, die einzeln für sich eines
 im Gegebenen aufzuweisenden Sinnes ermangeln. Nur das ganze Netzwerk ideeller Bestimmungen berührt hier und da die erlebte Wirklichkeit, und an diesen Berührungsstellen muß es „stimmen“. Das ist vielleicht, im allgemeinsten ausgedrückt, die „geometrische Methode“.
 „Man muß es nur gestehen, wer naturwissenschaftliche Fragen ohne
@@ -1554,7 +1534,7 @@ c) A priori oder a posteriori?
 Der Glaube an die Apriorität der geometrischen Erkenntnisse,
 insbesondere der euklidischen Geometrie, ist in der älteren Zeit
 fest eingewurzelt. So heißt es bei Kepler (Brief an Galilei, Galilei,
-Opere V, $. 432): „Die Raumwissenschaft ist einzig und ewig und
+Opere V, S. 432): „Die Raumwissenschaft ist einzig und ewig und
 strahlt wieder aus dem Geiste Gottes. Daß die Menschen an ihr
 teil haben dürfen, ist mit einer der Gründe, weshalb der Mensch
 das Ebenbild Gottes ist.‘‘ Leibniz hat versucht, die geometrischen
@@ -1571,7 +1551,7 @@ gestellt werden können, nicht selbst wiederum Empfindung sein
 kann, so ist uns zwar die Materie aller Erscheinung nur a posteriori
 gegeben, die Form derselben aber muß zu ihnen insgesamt im
 Gemüte a priori bereit liegen und daher abgesondert von aller
-Empfindung können betrachtet werden.“ „Also machtallein unsere
+Empfindung können betrachtet werden.“ „Also macht allein unsere
 Erklärung die Möglichkeit der Geometrie als einer synthetischen
 Erkenntnis a priori begreiflich.‘“ Die Entwicklung der nichteuklidischen Geometrie erschüttert die alte Gewißheit.
 
@@ -1602,7 +1582,7 @@ der in der Einleitung zu den Principia erklärte: „Geometrie selbst
 hat ihre Begründung in mechanischer Praxis und ist in der Tat
 nichts anderes als derjenige Teil der gesamten Mechanik, welcher
 die Kunst des Messens genau feststellt und begründet.‘ Bestünde
-neben der „physischen Gleichwertigkeit‘‘ von Raumgrößen (S.135)
+neben der „physischen Gleichwertigkeit“ von Raumgrößen (S. 135)
 eine in transzendentaler Anschauung unmittelbar gegebene Gleichheit, so könnte die Übereinstimmung der beiden Begriffe doch
 nur eine Erfahrungstatsache sein, im Konfliktsfalle aber würde
 die transzendentale Gleichheit „in den Rang einer Sinnestäuschung
@@ -1612,7 +1592,7 @@ Anschaulichen auf: es sei dazu erforderlich, „die vollständige Vorstellbarkei
 Objekt in uns nach den bekannten Gesetzen unserer Sinnesorgane
 unter allen denkbaren Bedingungen der Beobachtung erregen und
 wodurch es sich von anderen ähnlichen Objekten unterscheiden
-würde.“ Wir können auf die in $17 gegebene Schilderung des
+würde.“ Wir können auf die in §17 gegebene Schilderung des
 Verhältnisses zwischen der objektiven Welt und ihrem subjektiven
 Bild verweisen, wie es das längs einer Weltlinie sich bewegende
 Punktauge auffaßt. Gegen das Argument, daß in eine versuchte
@@ -1622,7 +1602,7 @@ und Lichtstrahlen hineinspielen, ist zu sagen, daß die physikalischen Gesetze s
 Prüfung in der Erfahrung zulassen, sondern die ‚Wahrheit‘ einer
 konstruktiven Theorie nur im Ganzen geprüft werden kann.
 Unter dem Einfluß der modernen mathematisch-axiomatischen
-Untersuchungen unterscheidet man zwischen dem ‚‚nathematischen Raum‘‘, dessen Gesetze logische Folgerungen aus den willkürlich angenommenen Axiomen sind, und dem „physischen
+Untersuchungen unterscheidet man zwischen dem „mathematischen Raum“, dessen Gesetze logische Folgerungen aus den willkürlich angenommenen Axiomen sind, und dem „physischen
 Raum“, dem Ordnungsschema der wirklichen Dinge, der als
 integrierender Bestandteil in die theoretische Weltkonstruktion
 eingeht. Manche Autoren stellen ihm noch den „Anschauungsraum‘ zur Seite. Im Hinblick auf jene Unterscheidung meint
@@ -1636,9 +1616,9 @@ Wirklichkeit.“ Die allgemeine philosophische Entwicklung ist
 aber seither so verlaufen, daß sich Kants Urteile a priori in zwei
 Richtungen gespalten haben: auf der einen Seite in die „‚Wesensgesetze“, welche Fundierungszusammenhänge zwischen den Gegebenheiten des Bewußtseins aussprechen, niemals aber den Anspruch
 erheben, eine Aussage über Tatsachen zu involvieren (diese Linie
-gipfelt in Husserls Phänomenologie; das a priori ist hier vielreicher
+gipfelt in Husserls Phänomenologie; das a priori ist hier viel reicher
 als im Kantischen System); auf der andern Seite in die Prinzipien
-der theoretischen Konstruktion, deren Ansetzung nach dem extremsten Standpunkt (Poincare) auf bloßer Konvention beruht.
+der theoretischen Konstruktion, deren Ansetzung nach dem extremsten Standpunkt (Poincaré) auf bloßer Konvention beruht.
 
 Auf die allgemeine Mathematik der Kontinua und der wichtigsten Strukturen, mit denen sie behaftet sein können, brauchen wir
 hier nach dem im mathematischen Teil Gesagten nicht mehr
@@ -1648,7 +1628,7 @@ gewissen objektiven Sinne, der nicht wie die Kantische Unterscheidung die Erkenn
 teilhat an der unaufhebbaren Vagheit dessen, was eine veränderliche Stelle in einer kontinuierlichen Skala einnimmt, die gegenseitige Orientierung der Metriken in den verschiedenen Punkten
 gegenüber, der zufällige, von der Materie abhängige, wechselvolle,
 nur approximativ und unter Zuhilfenahme unmittelbarer anschaulicher Hinweise auf die Wirklichkeit zu gebende quantitative Verlauf des Maßfeldes. Daß etwas an der Struktur des extensiven
-Mediums der Außenwelt in diesem Sinnea priori ist, wird also von
+Mediums der Außenwelt in diesem Sinne a priori ist, wird also von
 der allgemeinen Relativitätstheorie nicht schlechthin geleugnet,
 nur die Grenze zwischen dem a priori und dem a posteriori wird
 an eine andere Stelle verschoben. (Diese Gegenüberstellung oder
@@ -1691,7 +1671,7 @@ Konstruktion nur als ein Kompromiß darstellen läßt. Die Aussagen
 über den Anschauungsraum sind so wenig maßgebend für den physischen, wie etwa die Aussage, daß die gesehene Farbe Orange dem Gelb
 „näher“ stehe als dem Blau, auf eine Metrik des Farbraumes mit exakten
 metrischen Gesetzen hinweist; besitzt doch der Farbraum, wie wir sahen,
-lediglich eine „projektive Struktur“ ($ 12).
+lediglich eine „projektive Struktur“ (§ 12).
 
 Für die apriorischen Elemente am Raum entsteht die Aufgabe,
 sie in ihrer Eigenart und Sonderstellung unter den allgemeineren
@@ -1707,7 +1687,7 @@ des Maßfeldes in der wirklichen Welt der mittlere Fall 1 zutrifft,
 mit der Notwendigkeit einer Kausalstruktur begründen, welche
 ein Ich handelnd und leidend mit der Welt zu verbinden gestattet in solcher Weise, daß Vergangenheit und Zukunft, Gewußtes und Gewolltes, sich trennen. Ebenso hat man von der
 n-dimensionalen euklidischen oder Riemannschen Geometrie her,
-die sich durch zwingende Formalisierung aus der dreidimensionalen ergab ($ 12), zu fragen, aus welchen inneren Gründen der
+die sich durch zwingende Formalisierung aus der dreidimensionalen ergab (§ 12), zu fragen, aus welchen inneren Gründen der
 wirkliche Raum gerade den Fall n = 3 realisiert. Aristoteles hat
 darauf einige Antworten gegeben, die noch ganz dem mythischen
 Denken angehören. Galilei bespricht und verwirft sie zu Anfang
@@ -1719,11 +1699,11 @@ sofort auf den n-dimensionalen Raum zu übertragenden Wellengleichung des Lichte
 Dimensionszahl beim Auslöschen einer Kerze um die Kerze herum
 (in einem Umkreis, dessen Radius mit Lichtgeschwindigkeit
 wächst) Dunkelheit eintritt; dadurch ist wenigstens ein wichtiger
-innerer, die Wirkungsausbreitung betreffender Unterschied zwischen gerader und ungerader Dimensionszall statuiert. Nach einer
+innerer, die Wirkungsausbreitung betreffender Unterschied zwischen gerader und ungerader Dimensionszahl statuiert. Nach einer
 von mir aufgestellten Theorie, die das elektrische Feld organisch
 mit dem Maßfeld verknüpft, können nur in einer vierdimensiona-
 
-}) Es ist wirklich beschämend, mit was für naiven geometrischen Schnitzern
+¹) Es ist wirklich beschämend, mit was für naiven geometrischen Schnitzern
 immer und immer wieder die Lösung dieses tiefen Problemes versucht wird;
 so noch zuletzt in Natorps ‚Logische Grundlagen der exakten Wissenschaften‘, S. 303ff.
 
@@ -1751,14 +1731,14 @@ wie er sich auch im Rahmen der a priori feststehenden Natur desselben
 gestaltet haben möge, eindeutig die infinitesimale Parallelverschiebung,
 das drehungsfreie Fortschreiten von einem Punkte in die Welt hinein.
 Die Behauptung involviert einen tiefliegenden, der Gruppentheorie zugehörigen mathematischen Satz, dessen Beweis von mir erbracht wurde.
-Ich glaube, daß dieses so gelöste Raumproblem im Rahmen der Riemann-Einsteinschen Theorie die gleiche Rolle spielt wie das HelmholtzLiesche ($ 14) für den starren euklidischen Raum. Vielleicht läßt sich
+Ich glaube, daß dieses so gelöste Raumproblem im Rahmen der Riemann-Einsteinschen Theorie die gleiche Rolle spielt wie das Helmholtz-Liesche (§ 14) für den starren euklidischen Raum. Vielleicht läßt sich
 das Postulat der eindeutigen Bestimmtheit des „‚gerade-Fortschreitens“
 auch aus den Anforderungen, welche die phänomenologische Konstitution des Raumes stellt, rechtfertigen; Becker möchte nach wie vor die
 Bedeutung der euklidischen Drehungsgruppe für den Anschauungsraum
 auf das Helmholtzsche Postulat der freien Beweglichkeit gründen. Wenn
-in Übereinstimmung mit einer Bemerkung in $ 15 die Transformationsgruppe A, in 3 oder 4 Dimensionen als Darstellung einer abstrakten
+in Übereinstimmung mit einer Bemerkung in § 15 die Transformationsgruppe Δ0 in 3 oder 4 Dimensionen als Darstellung einer abstrakten
 Gruppe betrachtet wird, dann sollte auf die unterscheidenden Merkmale der Struktur dieser abstrakten Gruppe mehr Betonung als auf
-die spezielle konkrete Darstellung von A, gelegt werden.
+die spezielle konkrete Darstellung von Δ0 gelegt werden.
 
 [[pdf-page:0177 printed-page:176]]
 
@@ -1777,7 +1757,7 @@ D. Hume, Treatise on human nature.
 
 I. Kant, Kritik der reinen Vernunft.
 
-H.v. Helmholtz, Physiologische Optik, Bd. II.
+H. v. Helmholtz, Physiologische Optik, Bd. II.
 
 —, Über den Ursprung und die Bedeutung der geometrischen
 Axiome, in: Vorträge und Reden, 4. Aufl., 1896, Bd. II.
@@ -1797,7 +1777,7 @@ O. Becker, Beiträge zur phänomenologischen Begründung der Geometrie und ihrer
 
 H. Weyl, Mathematische Analyse des Raumproblems. 1923.
 
-R.Carnap, Der Raum. „Kant-Studien‘“, Ergänzungsheft Nr. 56,
+R. Carnap, Der Raum. „Kant-Studien“, Ergänzungsheft Nr. 56,
 1922.
 
 R. Luneburg, Mathematical Analysis of Binocular Vision. Princeton

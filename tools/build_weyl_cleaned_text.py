@@ -16,6 +16,7 @@ CLEANED_DIR = SOURCE_DIR / "cleaned"
 MANUALLY_CURATED_SECTIONS = {
     "front-contents",
     "math-03-geometrie",
+    "science-01-raum-und-zeit",
     "appendix-c-quantenphysik-und-kausalitaet",
     "appendix-d-chemische-valenz",
 }
