@@ -15,6 +15,7 @@ OCR_DIR = SOURCE_DIR / "ocr/tesseract-deu/pages"
 CLEANED_DIR = SOURCE_DIR / "cleaned"
 MANUALLY_CURATED_SECTIONS = {
     "front-contents",
+    "math-03-geometrie",
     "appendix-c-quantenphysik-und-kausalitaet",
     "appendix-d-chemische-valenz",
 }
