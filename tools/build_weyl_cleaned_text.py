@@ -51,6 +51,14 @@ def strip_running_head(lines: list[str]) -> list[str]:
     return lines
 
 
+def remove_running_heads(lines: list[str]) -> list[str]:
+    return [
+        line
+        for line in lines
+        if not (RUNNING_HEAD_LEFT.match(line) or RUNNING_HEAD_RIGHT.match(line))
+    ]
+
+
 def dehyphenate(lines: list[str]) -> list[str]:
     cleaned: list[str] = []
     index = 0
@@ -95,6 +103,7 @@ def clean_page(text: str) -> str:
 
     lines = dehyphenate(compacted)
     lines = [clean_line(line) for line in lines]
+    lines = remove_running_heads(lines)
     return "\n".join(lines).strip()
 
 
