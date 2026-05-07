@@ -24,6 +24,10 @@ This directory contains a chapter-split German working text for Hermann Weyl's
 - `017-appendix-d-chemische-valenz.txt` has manual visual corrections for
   spin, valence, invariant, and benzene-resonance notation around printed pages
   341-349; the generator preserves that file if it already exists.
+- `019-appendix-f-physische-welt.txt` has manual visual corrections for
+  constants, exponents, crystal-group notation, quotations, and bibliography
+  entries around printed pages 368-391; the generator preserves that file if it
+  already exists.
 - Every cleaned file preserves page anchors of the form
   `[[pdf-page:0000 printed-page:0]]`.
 
@@ -42,7 +46,8 @@ Visual spot checks were made against:
 - major section starts: PDF pages 17, 48, 92, 126, 178, 211, 280, 304, 325,
   342, 355, 369, 396, 402
 - risk pages: PDF pages 20, 21, 48, 126, 211, 240, 280, 325, 342,
-  349, 369, 407
+  349, 369, 372, 373, 374, 375, 378, 379, 380, 385, 387, 390, 391,
+  392, 407
 
 Known patterns to re-check in close reading:
 

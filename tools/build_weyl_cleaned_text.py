@@ -19,6 +19,7 @@ MANUALLY_CURATED_SECTIONS = {
     "science-01-raum-und-zeit",
     "appendix-c-quantenphysik-und-kausalitaet",
     "appendix-d-chemische-valenz",
+    "appendix-f-physische-welt",
 }
 
 
