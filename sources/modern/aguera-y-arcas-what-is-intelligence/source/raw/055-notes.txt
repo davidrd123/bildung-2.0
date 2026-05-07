@@ -1,0 +1,3961 @@
+[1]
+
+Holloway 2023; Agrawal, Gans, and Goldfarb 2024. A few recent books I find compelling but that
+
+claim AI is not “real” include Godfrey-Smith 2020; Seth 2021; Smith-Ruiu 2022; Christiansen and
+Chater 2022; Lane 2022; Humphrey 2023; M. Bennett 2023; K. J. Mitchell 2023; Mollick 2024.
+[2]
+
+Feigenbaum and Feldman 1963.
+
+[3]
+
+See von Helmholtz 1925, though as always when it comes to intellectual priority, an argument can
+
+be made that it goes back earlier—here, for instance, to Immanuel Kant. A modern, more
+mathematical articulation of the prediction principle was proposed by the early cyberneticists, as will
+be discussed in “Behavior, Purpose, and Teleology,” chapter 3; see Rosenblueth, Wiener, and
+Bigelow 1943.
+[4]
+
+Dayan et al. 1995; Rao 2024.
+
+[5]
+
+Anil Seth and Andy Clark have also made a vigorous case for prediction as fundamental to
+
+intelligence, though their books don’t explicitly make the connection to predictive modeling in AI;
+Seth 2021; A. Clark 2023.
+[6]
+
+Agüera y Arcas, Fairhall, and Bialek 2000, 2003; Hong, Agüera y Arcas, and Fairhall 2007.
+
+[7]
+
+R. Lee 2016.
+
+[8]
+
+Graeber 2015.
+
+[9]
+
+Levinson 2016; Gordon 2017; DeLong 2022.
+
+[10]
+
+Graeber 2015.
+
+[11]
+
+Dean 2022.
+
+[12]
+
+Grace et al. 2017.
+
+[13]
+
+This paradoxical-seeming finding—that a seemingly narrow task contains the whole just as much
+
+as the whole contains it—is a more general result that we’ll return to in “Representation,” chapter 4.
+[14]
+
+Thoppilan et al. 2022.
+
+[15]
+
+Agüera y Arcas 2022.
+
+[16]
+
+Agüera y Arcas and Norvig 2023.
+
+[17]
+
+Turing 1950.
+
+[18]
+
+Barnum 2024.
+
+[19]
+
+OpenAI 2023; Bommineni et al. 2023.
+
+[20]
+
+Edwards 2023.
+
+[21]
+
+Marcus 2020; M. Mitchell 2024.
+
+[22]
+
+Polu et al. 2022.
+
+[23]
+
+Raghuraman, Harley, and Guibas 2023.
+
+[24]
+
+Nightingale and Farid 2022.
+
+[25]
+
+Gowal and Kohli 2023; Kirchenbauer et al. 2023.
+
+[26]
+
+For more technical treatments of functions as described in this book, see Fontana 1990; Wong et
+
+al. 2023.
+[27]
+
+W. Thomson 1871.
+
+[28]
+
+Peretó, Bada, and Lazcano 2009.
+
+[29]
+
+Robertson and Joyce 2012.
+
+[30]
+
+M. J. Russell and Martin 2004; Shapiro 2006.
+
+[31]
+
+Remember, from chemistry class, that since hydrogen (H) consists of a single proton bound to a
++
+
+single electron, a positively charged hydrogen ion with its electron stripped off (H ) is just a proton.
+When proton concentration varies over space, the ensuing flow of ions generates an electric current.
+[32]
+
+Krebs and Johnson 1937. Krebs won the Nobel Prize in Medicine for this work in 1953.
+
+[33]
+
+M. C. Evans, Buchanan, and Arnon 1966.
+
+[34]
+
+Buchanan and Arnon 1990.
+
+[35]
+
+Today, a great majority of the organic fuel consumed by respiration in animals and fungi comes
+
+from plants, which fix carbon using photosynthesis instead of the more ancient reverse Krebs cycle.
+[36]
+
+Szathmáry and Smith 1995. The somewhat narrower term “evolutionary transitions in
+
+individuality” (ETI) is also increasingly used; Michod 2000.
+[37]
+
+Sagan 1967.
+
+[38]
+
+Woese 2002. In this book, I’ll use the terms symbiosis and symbiogenesis in broader ways than
+
+most biologists do, to include cooperation and eventual interdependence among entities of all kinds
+—in the spirit of molecular biologists who have framed the origins of life as symbiosis among
+“molecules in mutualism,” per Lanier, Petrov, and Williams 2017. See also Mizuuchi, Furubayashi,
+and Ichihashi 2022.
+[39]
+
+Konstantinidis, Ramette, and Tiedje 2006; Murray, Gao, and Wu 2021.
+
+[40]
+
+Raup and Gould 1974.
+
+[41]
+
+In some cases, like the car versus the horse and buggy, or photosynthesis versus the reverse Krebs
+
+cycle, a new technology crowds out an old one due to greater efficiency; however, even here, the
+
+crowding-out is often not total. There are still a few horses and buggies, and a few organisms using
+the reverse Krebs cycle.
+[42]
+
+Church 1936; Turing 1936.
+
+[43]
+
+Turing 1937.
+
+[44]
+
+Technically, a Turing Machine, whether universal or not, must always be able to increase its tape
+
+size if needed, while real computers have fixed storage limits—but for most purposes, close enough.
+[45]
+
+von Neumann 1945.
+
+[46]
+
+Both died young, Turing in 1954, at age forty-one, and von Neumann in 1957, aged fifty-three.
+
+[47]
+
+Turing 1952.
+
+[48]
+
+Many years later, German molecular biologist Christiane Nüsslein-Volhard identified the first
+
+real-life morphogen, the “Bicoid” protein, which forms a gradient along the fruit fly embryo to
+establish its segmented body plan. She won the Nobel Prize for this discovery, alongside Eric
+Wieschaus and Edward Lewis, in 1995.
+[49]
+
+von Neumann and Burks 1966.
+
+[50]
+
+In a more abstract form, mathematician Stephen Kleene had proven this result years earlier, a
+
+result known today as Kleene’s Second Recursion Theorem; Kleene 1938.
+[51]
+
+I’m using the term complex here in a colloquial sense; according to at least one technical
+
+definition (Kolmogorov complexity), if the instructions within the “simple” entity fully describe how
+to make the “more complex” one, they are actually of equal complexity.
+[52]
+
+J. D. Watson and Crick 1953.
+
+[53]
+
+While reversible computing is known to be theoretically possible, and has attracted some
+
+renewed interest in recent years because of its relevance to quantum computing, it remains largely
+unexplored.
+[54]
+
+Turing 2000 [1951].
+
+[55]
+
+Turing 1948. Infants’ brains are of course not random. Turing was right to believe, though, that
+
+randomness plays a major role in their initial “wiring”; subsequent learning and development
+strengthens some connections, while pruning many others.
+[56]
+
+Pesavento 1995.
+
+[57]
+
+Mordvintsev et al. 2020.
+
+[58]
+
+Agüera y Arcas et al. 2024. This work draws inspiration from classic work in ALife, especially
+
+Barricelli 1957; Fontana 1990; Ray 1991; Adami and Brown 1994.
+[59]
+
+Decrementing 0 wraps around to 255, the largest possible value for a byte, and incrementing 255
+
+wraps around to 0.
+
+[60]
+
+You might have noticed that the original Brainfuck had eight instructions, including “.” for
+
+“print” and “,” for “input.” Bff uses only “,” because instead of reading and writing to an external
+terminal or console, the tape reads and writes to itself. Thus copying a byte from one location to
+another requires only a single instruction. In our first paper describing bff, we included instructions
+“{” and “}” for moving the console pointer, but a stripped-down alternative, used here, simply
+initializes the data and console pointers with the first two bytes on the tape.
+[61]
+
+Fontana 1990.
+
+[62]
+
+Amato 1991.
+
+[63]
+
+Schrödinger 1944.
+
+[64]
+
+H. Reichenbach 1956; Rovelli 2018.
+
+[65]
+
+The “very nearly” qualifier arises from the deep mathematical structure of relativistic quantum
+
+mechanics. A number of near-symmetries in physics, such as between positive or negative charge,
+left- or right-handedness, and time reversal, are not quite exact in quantum field theory, though
+according to the CPT theorem—the letters stand for charge, parity, time—reversing all three at once
+does yield an exact symmetry.
+[66]
+
+For the moment, I’m sidestepping a direct definition of the term disorder and its apparent
+
+subjectivity (is my desk disorderly or does it reflect an order only I can see?), but we will soon return
+to the central role of a model in distinguishing order from disorder; this is the link connecting
+thermodynamics to information theory.
+[67]
+
+The development of clocks and other complex machines in the Middle Ages set the scene, per
+
+Prigogine and Stengers 1984: “The clock world is a metaphor suggestive of God the Watchmaker, the
+rational master of a robot-like nature.” Newtonian dynamics reinforced the idea that the universe’s
+dynamics were deterministic and knowable, hence “robot-like.”
+[68]
+
+For now, I’ll use the term “Industrial Revolution” to refer to the first Industrial Revolution, the
+
+harnessing of fossil fuels beginning around 1800. Subsequent revolutions associated with
+electrification (around 1900), computerization (around 1980), and AI (around 2020) will be taken up
+in “Vulnerability,” chapter 10.
+[69]
+
+Smil 2008.
+
+[70]
+
+Agüera y Arcas 2023.
+
+[71]
+
+PV=nRT, where P is pressure, V is volume, T is temperature, n is the number of gas molecules or
+
+billiard balls, and R is the “ideal gas constant.”
+[72]
+
+Kinetic energy is proportional to the mass and squared velocity of the molecules.
+
+[73]
+
+More precisely, these are repulsive interactions between the electron orbitals of the molecules.
+
+[74]
+
+W. Thomson 1857.
+
+[75]
+
+Pross 2012.
+
+[76]
+
+Taleb 2014.
+
+[77]
+
+This is beautifully illustrated by a 2024 “RNA world” experiment in which, under lab conditions,
+
+a mutating, imperfectly replicating RNA molecule evolves into multiple forms that can persist
+indefinitely; Papastavrou, Horning, and Joyce 2024.
+[78]
+
+In the language of dynamical systems theory, thermodynamic stability is a fixed point, while
+
+DKS is a limit cycle.
+[79]
+
+Dawkins 1986.
+
+[80]
+
+Kauffman 1971.
+
+[81]
+
+In classical mythology, chimeras are “unnatural” combinations of animals—for instance, a fusion
+
+of lion, goat, and snake. As we’ll see, they aren’t so unnatural after all.
+[82]
+
+Yinusa and Nehaniv 2011.
+
+[83]
+
+This is not an absolute rule, since new parts can also evolve within an existing whole.
+
+[84]
+
+Lander et al. 2001.
+
+[85]
+
+Baltimore 1970.
+
+[86]
+
+McClintock 1950.
+
+[87]
+
+Tarlinton, Meers, and Young 2006.
+
+[88]
+
+She et al. 2022.
+
+[89]
+
+Horita and Fukumoto 2023.
+
+[90]
+
+Chuong 2018; Bakoulis et al. 2022; Russ and Iordanskiy 2023. Knocking out the “Arc”
+
+retrotransposon, likely of viral origin, renders lab mice unable to form new long-term memories, per
+Pastuzyn et al. 2018.
+[91]
+
+Ryan 2009.
+
+[92]
+
+Sharp and Hahn 2011.
+
+[93]
+
+Crosby 2003; Harper et al. 2008.
+
+[94]
+
+Feschotte and Gilbert 2012; Naville et al. 2016.
+
+[95]
+
+Nasir and Caetano-Anollés 2015.
+
+[96]
+
+Yong 2013.
+
+[97]
+
+Unlike eukaryotes, prokaryotes (bacteria and archaea) have very low proportions of “junk DNA.”
+
+This is because copying and expressing DNA are energetically expensive, and prokaryotes are
+energy-constrained, limiting their maximum DNA length and imposing strong evolutionary pressure
+to rid themselves of code that can’t pull its own weight. However, a prokaryote’s “core genome” is
+typically only 60–70 percent of the total, with the remainder varying widely among strains. (Hence
+two E. coli bacteria can be as different from each other as a human and a fruit fly!) Horizontal gene
+
+transfer via transposons, viruses, or “plasmids” (exchangeable DNA loops) enables widespread
+copying of code snippets among bacteria, resulting in a complex tangle of reproducing bits of code
+conceptually similar to that described here for eukaryotes.
+[98]
+
+Though earlier, we similarly considered individual bff instructions as minimal or “atomic”
+
+replicating entities.
+[99]
+
+Mandelbrot rediscovered and generalized these findings in the 1960s; see Mandelbrot 1967.
+
+[100]
+
+West 2017.
+
+[101]
+
+For the mathematically inclined: power laws relating two variables x and y take the general form
+b
+
+y=ax .
+[102]
+
+West, Brown, and Enquist 1997.
+
+[103]
+
+De Morgan and De Morgan 1872.
+
+[104]
+
+Wolpert and Macready 2007; Bagrov et al. 2020.
+
+[105]
+
+This makes sense, since the underlying processes that shape coastlines differ between scales of,
+
+say, a meter, versus a kilometer; see Mandelbrot 1989.
+[106]
+
+These particular numbers correspond to the smoothest, N=5, and roughest, N=8, of Mandelbrot’s
+
+coastline diagrams in his classic 1967 paper, “How Long Is the Coast of Britain?”
+[107]
+
+If I were a fancier writer and used fewer stock phrases, the book wouldn’t ZIP so efficiently.
+
+Using the same compression algorithm, James Joyce’s Ulysses can only be squeezed down to forty
+percent of its raw size!
+[108]
+
+In math: for a random string of symbols that can assume K values, a string of length L would
+–L
+
+occur with frequency f=K , while with replication occurring at all scales, string frequency scales
+–b
+
+like f~L .
+[109]
+
+Christley et al. 2009.
+
+[110]
+
+Recursion can’t be implemented by the ribosome on its own; I’ve used a bit of poetic license in
+
+identifying the ribosome with machine A. In reality, as morphogenesis illustrates, biological
+computation is more holistic and distributed. Like the “writing arm” of a von Neumann replicator, a
+ribosome is only one functional part of a larger, general-purpose biological machine A.
+[111]
+
+Carroll, Grenier, and Weatherbee 2013.
+
+[112]
+
+Ellington 2010.
+
+[113]
+
+Walker 2024.
+
+[114]
+
+Walker 2024.
+
+[115]
+
+Personal communication during the Antikythera Cognitive Infrastructures studio at Central Saint
+
+Martins in London, July 2024.
+[116]
+
+A. J. Watson and Lovelock 1983.
+
+[117]
+
+As will be discussed in “Crew of Eight,” chapter 5, the octopus may offer an example of a more
+
+modular route to high intelligence.
+[118]
+
+Computer viruses are a notable exception.
+
+[119]
+
+The case for technology being an evolutionary product of hierarchically composed functions is
+
+thoughtfully made, with many examples, by Arthur 2010.
+[120]
+
+As astronomer Robert Jastrow put it, “We are the reproductive organs of the computer” (Jastrow
+
+1981); the same holds for technology in general. Samuel Butler made this case in a visionary 1863
+essay entitled “Darwin Among the Machines,” a perspective revisited and updated at the end of the
+twentieth century by science historian George Dyson; Butler 1863; G. Dyson 1998.
+[121]
+
+J. Bennett 2010.
+
+[122]
+
+Lovejoy 1936.
+
+[123]
+
+Enfield 2024.
+
+[124]
+
+Kimmerer 2013.
+
+[125]
+
+Schrödinger 1944.
+
+[126]
+
+Thomas 1934.
+
+[127]
+
+We’ve seen how even a virus needs an envelope, or it gives up the ability to exist outside its host
+
+cell and becomes a transposon.
+[128]
+
+Stock and Levit 2000.
+
+[129]
+
+Berg 1975; Adler 1966.
+
+[130]
+
+Lazova et al. 2011.
+
+[131]
+
+Mathematical readers: to first order, if X is a sequence of discrete events, then to first order, P(X)
+
+will be a causal filter turning these discrete events into a continuous time-varying probability
+estimate. The elegant accuracy/latency tradeoffs bacteria perform (in effect, changing the filter shape)
+can be thought of as solving for the optimal linear prediction of X under changing statistical
+conditions.
+[132]
+
+The concept of a “thing in itself” (Ding an sich) comes from Immanuel Kant, who sought to
+
+distinguish an objective reality from our inevitably subjective or “phenomenal” experience of it; Kant
+1998.
+[133]
+
+Wheeler 1992.
+
+[134]
+
+Although, to get ahead of our argument for a moment, how could that improbably chair-like
+
+configuration of atoms have come into existence in the first place, without any beings that model
+chairs?
+[135]
+
+Originally, Conway used a Go board. Go is an ancient strategy game, invented more than 2,500
+
+years ago in China, involving two players alternately placing white and black stones at the
+
+unoccupied intersections on a 19×19 grid.
+[136]
+
+Loizeau 2021.
+
+[137]
+
+Bradbury 2012.
+
+[138]
+
+Technical caveat: to simulate quantum mechanics, a random number source would also be
+
+needed.
+[139]
+
+There is also the question of initial conditions, of which more anon.
+
+[140]
+
+This understanding or knowledge about the world of Life is consistent with, and even derivable
+
+from, the basic rules, just as statistical mechanics allows temperature and pressure to be derived from
+lower-level laws of elastically colliding particles in a box (which are themselves derivable from still
+more fundamental physics). It would be odd, though, to claim that gliders are “implied” or “inherent”
+in the rules of Life, for Life’s Turing completeness means that the complexity of the constructs
+possible in Life is unbounded; it includes anything and everything.
+[141]
+
+Niemiec 2010.
+
+[142]
+
+Hawking 2011.
+
+[143]
+
+By creating a numbering system that can enumerate all possible cellular automata, Stephen
+
+Wolfram and collaborators have started to explore the question of how “unusual” computation is in
+absolute terms. Rule number 110 has been proven to support computation—and many of the first
+hundred or so rules are so trivial that they create no meaningful dynamics at all. Observations like
+this, and the simplicity of Conway’s Life, suggest that a universe doesn’t need to be fine-tuned to
+support computation. See Wolfram 2002; Cook 2004.
+[144]
+
+von Uexküll 2013 [1934]; Yong 2022.
+
+[145]
+
+Plants and fungi, life forms that lack muscles and so only move very slowly, should not be
+
+understood as passive. On the contrary, as the scientists who study them are increasingly
+appreciating, they compensate for immobility with the ability to take an extraordinary variety of
+chemical actions.
+[146]
+
+Technically, self-supervision involves turning an unsupervised task into a supervised one by
+
+somehow labeling the data with itself. The paradigmatic example is next-word prediction for training
+large language models.
+[147]
+
+More formally, the joint distribution P(X,H,O) includes the “marginal distributions” P(H) and
+
+P(X), which we would get by summing the joint distribution over (X,O) or (H,O), as well as
+conditional distributions.
+[148]
+
+Technical note: once evolution has “learned” how to endow organisms with “primary drives”
+
+like hunger, it can also learn to use these as internal oracles to power reinforcement learning and
+other, more sophisticated learning algorithms, for instance, as described in Keramati and Gutkin
+
+2011. “Bootstrapping,” in chapter 4, will explain reinforcement learning and its relationship to the
+brain in more detail.
+[149]
+
+Dennett 2017b.
+
+[150]
+
+More formally, it requires reducing the dimensionality of the distribution by factoring out
+
+invariant dimensions, per Tishby, Pereira, and Bialek 2000.
+[151]
+
+A 4K (3,840×2,160 pixel) video stream, compressed, is typically between eight and fourteen
+
+million bits per second.
+[152]
+
+This may not seem like much of a model, but it’ll do for modeling some simple things, like, with
+
+a negative w, the restoring force exerted by stretching a spring by distance x.
+[153]
+
+Although the distinction isn’t nearly as straightforward as it sounds, as discussed in “Élan Vital,”
+
+chapter 1.
+[154]
+
+MacKay 1969; G. Bateson 1972.
+
+[155]
+
+Turing 1936.
+
+[156]
+
+I’ve written the programmer’s version with lowercase variable names because in mathematical
+
+notation, capital letters are generally used for “random variables” that can assume a whole
+distribution of values.
+[157]
+
+Hofstadter 2007.
+
+[158]
+
+Although this terminology is a bit confusing, machine learning practitioners refer to evaluation
+
+of their trained models as “inference.”
+[159]
+
+Turing 1948.
+
+[160]
+
+Setting aside other potential life in the universe, we’re on the cusp of this no longer being true
+
+on Earth, as AI models are now being used to design other AI models, per Duéñez-Guzmán et al.
+2023.
+[161]
+
+This line of thinking suggests a potentially fertile research direction. Evolution-inspired
+
+approaches to learning today are mostly based on random mutation, per Salimans et al. 2017. But as
+we’ve seen, symbiogenesis is far more powerful as a source of productive novelty.
+[162]
+
+“In general” because group-level fitness benefits from individual sacrifice under certain
+
+circumstances, as with bees defending the hive. Also, in species like the octopus, where individuals
+breed over a single season and aren’t involved in raising the young, there’s no evolutionary pressure
+on survival after reproduction.
+[163]
+
+This is an alternative formulation of “Occam’s Razor,” which holds that, all things being equal, a
+
+simpler explanation is more likely to be true than a complicated one.
+[164]
+
+Wright 1972. Note to physicists: it’s possible to formulate physics in terms of “principles of least
+
+action” rather than equivalent dynamical laws. This would involve evaluating all possible trajectories
+
+of the boulder to find a minimum (or, occasionally, maximum) action solution, wherein the car gets
+squashed. One could argue that in the action formulation all effects precede their causes, per
+Tegmark 2018. In my view, though, by removing any notion of causal ordering, the least-action
+approach presupposes a timeless “block universe” with no role for concepts like “why” and
+“because.” We’ll return to this topic in “Will What You Will,” chapter 6.
+[165]
+
+Deacon 2012.
+
+[166]
+
+Per the broadening of terms suggested in “Élan Vital,” chapter 1, this definition of “purposive”
+
+or even “alive” includes technological systems with built-in decision-making powers, from
+thermostats to cruise missiles, as well as artificially evolved systems like bff.
+[167]
+
+Hume 1817.
+
+[168]
+
+Wallisch 2017.
+
+[169]
+
+Dick 1985.
+
+[170]
+
+Orlowski 2020; Goering et al. 2021.
+
+[171]
+
+A. Clark 2023.
+
+[172]
+
+KUSA-TV 2005; Nitsch, Verheggen, and Merten 2007.
+
+[173]
+
+Fisher, Hassan, and O’Connor 1995; Zoffness 2024.
+
+[174]
+
+A. Clark 2023.
+
+[175]
+
+More thorough histories often begin with the Antikythera mechanism, a mechanical
+
+astronomical computer recovered from a shipwreck in the Aegean sea thought to date back to the
+second century BCE. Many early civilizations performed astronomical and calendrical calculations,
+whether for navigation, agriculture, or religious rites. If by “computer” we simply mean something
+engineered to aid in such calculations, ancient archeological sites built to align with the sun, planets,
+and stars would also qualify.
+[176]
+
+Leupold 1727. Robert Hooke, of the Royal Society, was unimpressed: “As for ye Arithmeticall
+
+instrument which was produced here before this Society. It seemed to me so complicated with
+wheeles, pinions, cantrights, springs, screws, stops & truckles, that I could not conceive it ever to be
+of any great use.” Jardine 2017.
+[177]
+
+This translation is from B. Russell 1937.
+
+[178]
+
+Leibniz 1666.
+
+[179]
+
+The most influential mathematician of the late nineteenth and early twentieth centuries, David
+
+Hilbert (1862–1943), had placed the Entscheidungsproblem at the center of his program for
+formalizing mathematics in the 1920s.
+[180]
+
+Leibniz wasn’t the first or only mathematician to discover binary; as with nearly every
+
+significant discovery or invention, it was made by a number of other thinkers around the same time,
+
+including Thomas Heriot (1560–1621), Francis Bacon (1561–1626), and Juan Caramuel y Lobkowitz
+(1606–1682). See Glaser 1971.
+[181]
+
+Per Mary Everest Boole, “George afterwards learned, to his great joy, that the same conception
+
+of the basis of Logic was held by Leibniz [...].” M. E. Boole 1901.
+[182]
+
+This also coincided with the early exuberance of the metric system, to sweep away older
+
+“irrational” and aristocratically tainted systems of measurement. Unfortunately for Prony, the metric
+approach to angles (one hundred grades to the right angle, instead of ninety degrees) never caught on,
+rendering many of the tables useless.
+[183]
+
+Grattan-Guinness 1990; Grier 2007.
+
+[184]
+
+According to Babbage 1832, “[T]hese persons were usually found more correct in their
+
+calculations, than those who possessed a more extensive knowledge of the subject.”
+[185]
+
+A. Smith 1776.
+
+[186]
+
+Martin 1992.
+
+[187]
+
+These class and gender iniquities would, of course, be endlessly repeated in centuries to come.
+
+[188]
+
+Bromley 1982.
+
+[189]
+
+Babbage 1832.
+
+[190]
+
+Per Babbage 1864, “To those acquainted with the principles of the Jacquard loom, and who are
+
+also familiar with analytical formulæ, a general idea of the means by which the Engine executes its
+operations may be obtained without much difficulty.” Jacquard-style punched cards were in fact used
+extensively for data processing and computing, right up until the 1980s.
+[191]
+
+Lovelace’s father was the notorious Romantic poet, Lord Byron; her parents had stayed together
+
+for less than a year, owing to Lord Byron’s instability and scandalous lifestyle (including, Lady
+Byron feared, an incestuous relationship with his half-sister).
+[192]
+
+A portion of this prototype survived, and is now at the Science Museum in London. The
+
+Difference Engine, like many special-purpose computing machines from the first half of the
+twentieth century, was not Turing complete; it could only tabulate a limited (though useful) repertoire
+of functions using the “method of differences” (math folk: the discrete version of a polynomial
+series).
+[193]
+
+Lovelace and Menabrea 1842.
+
+[194]
+
+The Fibonacci numbers are closely related to the Bernoulli numbers; see Byrd 1975.
+
+[195]
+
+Surrey Comet 1946. Earlier special-purpose computers were also regularly referred to this way,
+
+most famously “Old Brass Brains,” a long-lived mechanical computer for predicting tides invented in
+1895 and in use by the United States Coast and Geodetic Survey from 1910 to 1965.
+[196]
+
+National Physical Laboratory 1950.
+
+[197]
+
+Babbage 1832.
+
+[198]
+
+London Literary Gazette, The; and Journal of Belles Lettres, Arts, Sciences, &c 1832; Shelley
+
+1818.
+[199]
+
+Lovelace and Menabrea 1842. In his 1948 report on “Intelligent Machinery,” Turing referred to
+
+this as “Lady Lovelace’s Objection” to the idea that machines could be intelligent.
+[200]
+
+G. Boole 1854.
+
+[201]
+
+Labatut 2024.
+
+[202]
+
+According to his widow, Mary Everest Boole, in a 1901 letter: “nearly all the logicians and
+
+mathematicians ignored the statement that the book was meant to throw light on the nature of the
+human mind; and treated the formula entirely as a wonderful new method of reducing to logical order
+masses of evidence about external fact [...]. De Morgan, of course, understood the formula in its true
+sense; he was Boole’s collaborator all along.” M. E. Boole 1901.
+[203]
+
+Galvani 1791; Aldini 1804.
+
+[204]
+
+Knapp and Baldwin 1826.
+
+[205]
+
+Shelley 1818.
+
+[206]
+
+Letter of November 15, 1844, at Ashley Combe, to Woronzow Greig, Russian Ambassador in
+
+London. Lovelace 1992.
+[207]
+
+“Sensation is aroused by the messages which are transmitted through the nerves from the sense
+
+organs to the brain [...]. [T]he messages [...] consist of [...] brief impulses in each nerve fibre; all the
+impulses are very much alike, whether the message is destined to arouse the sensation of light, of
+touch, or of pain.” Adrian 1928.
+[208]
+
+Lucas and Adrian 1917.
+
+[209]
+
+The basic Boolean operators take two inputs and produce one output; they are AND, OR, and
+
+XOR (short for “eXclusive OR”). AND outputs a one only if both inputs are one, and a zero
+otherwise; OR outputs a zero only if both inputs are zero, and a one otherwise; and XOR outputs a
+one if one and only one input is one. The single-input NOT operator inverts its input, outputting a
+one if the input is zero, and a zero if the input is one. Combinations of these operators can be used to
+make any more complex logical function.
+[210]
+
+McCulloch and Pitts 1943.
+
+[211]
+
+Harvard University’s Mark I computer, conceived by Howard Aiken in 1937 and built in the
+
+1940s, was closely modeled on the Analytical Engine, including its reliance on base-ten arithmetic.
+After 1943, virtually all electronic computers used binary.
+[212]
+
+As mentioned earlier, all the computing pioneers took the step of going from logic machines
+
+designed to carry out a particular computational task to programmable general-purpose machines
+
+that, once built, could carry out coded instructions to perform any computational task—equivalent to
+a Universal Turing Machine. This was to be the difference between Babbage’s Difference Engine and
+the Analytical Engine. It was also the difference between the fixed-function computing machines
+made prior to 1945 and those after, with the ENIAC straddling the transition. (ENIAC began as a
+fixed-function computer that needed to be “programmed” by rewiring its plugboard, but it was
+updated to become fully programmable in software by 1947.)
+[213]
+
+Agüera y Arcas, Fairhall, and Bialek 2000.
+
+[214]
+
+S. J. Smith et al. 2020.
+
+[215]
+
+Turing 1951.
+
+[216]
+
+Haugeland 1985.
+
+[217]
+
+Richards and Lillicrap 2022.
+
+[218]
+
+Clarke 1968.
+
+[219]
+
+Although curiously, they took for granted that computers would soon be able to recognize faces
+
+and objects, understand speech, and perform many other everyday feats that had proven just as
+difficult. Perhaps these tasks seemed too cut-and-dried, too narratively uninteresting, or just too
+lowly to serve as a basis for human exceptionalism.
+[220]
+
+Such hierarchies of intelligence trace farther back—to Descartes, and even to Aristotle—but
+
+industrial production made the hierarchy even more literal.
+[221]
+
+Riskin 2003.
+
+[222]
+
+Speijer 2016; Cavalier-Smith 2002.
+
+[223]
+
+McDonald, Rice, and Desai 2016.
+
+[224]
+
+Schultz et al. 2023.
+
+[225]
+
+Northcutt 2012.
+
+[226]
+
+More correctly, matter-energy is conserved, but, on Earth, outside nuclear power plants and
+
+atomic bombs, energy and matter are individually conserved, or near enough.
+[227]
+
+Most plants, of course, don’t eat other life. Their source of free energy is the stream of low
+
+entropy photons emanating from our nearest star. The Earth as a whole re-radiates higher-entropy
+photons back into space, maintaining an energetic and entropic balance—although the greenhouse
+effect, by diminishing the amount of re-radiation that can escape into space, is now upsetting this
+balance, resulting in rising entropy on Earth.
+[228]
+
+Per the brief discussion of competence without comprehension in “The Umwelt Within,” chapter
+
+2, this does not necessarily imply that any such modeling is conscious. As we’ll explore in “What It
+Is Like to Be,” chapter 6, what we think of as consciousness is modeling your own model, not merely
+having (that is, acting in accordance with) a model.
+
+[229]
+
+Babbage 1864.
+
+[230]
+
+Scott 1998; Soll 2011.
+
+[231]
+
+They were: Kay McNulty, Betty Snyder, Marlyn Wescoff, Ruth Lichterman, Betty Jean
+
+Jennings, and Fran Bilas. Fritz 1996; Light 1999.
+[232]
+
+Typically of “firsts,” there are other contenders. Working in relative isolation, Konrad Zuse, a
+
+German civil engineer, completed his electromechanical Z3 computer in 1941. Zuse’s project was
+also motivated by war; his earlier S1 and S2 were special-purpose machines for computing
+aerodynamic corrections to the wings of radio-controlled flying bombs, and after 1939 he was funded
+by the Nazi government. While Zuse didn’t design the Z3 with Turing completeness in mind, and it
+didn’t natively support conditional jumps, it can be programmed cleverly to simulate them. This
+arguably gives the Z3 priority over the ENIAC, per Rojas 1998.
+[233]
+
+Fitzpatrick 1998.
+
+[234]
+
+G. E. Moore 1965; Schaller 1997.
+
+[235]
+
+IBM 2007.
+
+[236]
+
+Renting the 701 in 1952 cost between $12,000 and $18,000 per month. IBM 2007.
+
+[237]
+
+Waldrop 2018.
+
+[238]
+
+De Monchaux 2011.
+
+[239]
+
+Though in 1834 André-Marie Ampère had anticipated both the concept and the name in his
+
+Essay on the Philosophy of Science, in which he wrote that a future science, “cybernétique,” should
+encompass “that body of theory [...] concerned with the underlying processes that direct the course of
+organizations of all kinds.” Ampère 1834; G. Dyson 1998; Rid 2016.
+[240]
+
+Mindell 2002.
+
+[241]
+
+Galison 1994.
+
+[242]
+
+Nakamura and Kobayashi 2021
+
+[243]
+
+Mischiati et al. 2015.
+
+[244]
+
+When a patient with “intention tremor,” caused by cerebellar damage, reaches for an object, they
+
+tend to overshoot, but then a corrective movement overcompensates. The result is an oscillating
+motion, just as Wiener’s theory would predict when the feedback loop is impaired; Rosenblueth,
+Wiener, and Bigelow 1943.
+[245]
+
+Corcoran and Conner 2016.
+
+[246]
+
+Donsker and Varadhan 1975; Berg 1993.
+
+[247]
+
+Glimcher 2005; Faisal, Selen, and Wolpert 2008; Braun 2021.
+
+[248]
+
+Domenici et al. 2008.
+
+[249]
+
+Genevieve Bell, an anthropologist and Vice-Chancellor of the Australian National University
+
+(ANU), founded ANU’s School of Cybernetics in 2021. I wholeheartedly endorse her revival of the
+term “cybernetics” to include not only AI but also the larger set of multidisciplinary topics touched
+on here.
+[250]
+
+Rosenblueth, Wiener, and Bigelow 1943.
+
+[251]
+
+The authors dodge the issue, writing, “A discussion of causality, determinism, and final causes is
+
+beyond the scope of this essay [...] however [...] purposefulness, as defined here, is quite independent
+of causality, initial or final.” For the moment, we’re also sidestepping the random element inherent to
+quantum mechanics, though we will return to randomness later.
+[252]
+
+Philosopher Daniel Dennett has called this, or something much like it, the “intentional stance.”
+
+Dennett 1989.
+[253]
+
+Rosenblueth, Wiener, and Bigelow 1943.
+
+[254]
+
+Chomsky 1959; Wann 1964.
+
+[255]
+
+MacKenzie 1993.
+
+[256]
+
+Weizenbaum 1966.
+
+[257]
+
+Weizenbaum 1966.
+
+[258]
+
+North 1977.
+
+[259]
+
+Espejo 2014.
+
+[260]
+
+G. Bateson 1966; Kline 2020.
+
+[261]
+
+Meadows et al. 1972.
+
+[262]
+
+Jacobs 1961.
+
+[263]
+
+Money 1984; Downing, Morland, and Sullivan 2015.
+
+[264]
+
+Haraway 1985.
+
+[265]
+
+Cilliers 1998; Woermann 2016.
+
+[266]
+
+Clynes and Kline 1960.
+
+[267]
+
+Rid 2016.
+
+[268]
+
+A few years later, in the Soviet Union, cybernetics underwent a parallel rise and fall; see Peters
+
+2016.
+[269]
+
+McCarthy et al. 1955; Nilsson 2009.
+
+[270]
+
+Dreyfus 1972.
+
+[271]
+
+James 1890. The salient chapter (IV—Habit) was published earlier, in 1887.
+
+[272]
+
+Ferreira, Nogueira, and Defelipe 2014.
+
+[273]
+
+Pavlov 1902.
+
+[274]
+
+Pitts and McCulloch 1947.
+
+[275]
+
+Borges 1942.
+
+[276]
+
+von Ahn et al. 2003; Chew and Tygar 2004.
+
+[277]
+
+Hendler 2006; Nilsson 2006.
+
+[278]
+
+Hubel and Wiesel 2004.
+
+[279]
+
+Livingstone 2013.
+
+[280]
+
+Rosenblatt 1957. See also Rosenblatt 1958.
+
+[281]
+
+Until the late 2010s, video games drove the market for GPUs.
+
+[282]
+
+The massively parallel Connection Machine, invented by Danny Hillis and colleagues in the
+
+1980s, was a notable exception, consisting of an array of small, local processors wired up to their
+neighbors in a 3D torus. As a “connectionist,” Hillis and his colleagues were convinced that their
+architecture was the future of computing—and specifically of AI. They were too far ahead of the
+curve, though. Precisely because the Connection Machine was such an architectural outlier, there was
+never a viable software or research ecosystem for it; see Hillis 1985.
+[283]
+
+Schmidhuber 2014.
+
+[284]
+
+Minsky and Papert 1969.
+
+[285]
+
+Cybenko 1989.
+
+[286]
+
+Per Kurzweil 2024, “[B]ack in 1964 Rosenblatt explained to me that the Perceptron’s inability to
+
+deal with invariance was due to a lack of layers. If you took the output of a Perceptron and fed it back
+to another layer just like it, the output would be more general and, with repeated iterations of this
+process, would increasingly be able to deal with invariance. If you had enough layers and enough
+training data, it could deal with an amazing level of complexity. I asked him whether he had actually
+tried this, and he said no but that it was high on his research agenda. It was an amazing insight, but
+Rosenblatt died only seven years later, in 1971, before he got the chance to test his insights.”
+[287]
+
+Sejnowski and Rosenberg 1987.
+
+[288]
+
+By “distributed representations,” the authors meant representations of concepts based on the
+
+values of many neurons, also known as neural “embeddings.” Neural embeddings will be described
+in detail in “Unkneading,” chapter 4.
+[289]
+
+Minsky and Papert 1988.
+
+[290]
+
+Bender and Koller 2020; Chomsky, Roberts, and Watumull 2023.
+
+[291]
+
+This, at least, was the longstanding assumption in statistical modeling. The reality turns out to be
+
+more complex, as will be described in “Long Tails,” chapter 9; for a modern mathematical treatment
+of the relationship between data volume and parameter count see Bubeck and Sellke 2022.
+[292]
+
+A complete list would be impossible to make, especially without some historical distance; an
+
+enormous volume of papers are being published today advocating for one new twist or another. Years
+
+can elapse before we know which of these will matter, and sometimes a trick must be reinvented
+multiple times, with minor variations, before being widely adopted. This process bears more than a
+passing resemblance to evolution.
+[293]
+
+LeCun, Denker, and Solla 1989.
+
+[294]
+
+In 2014, “very deep” meant between sixteen and nineteen layers (Simonyan and Zisserman
+
+2014); by 2015, it meant 152 layers (He et al. 2016a); and in 2016, researchers at Microsoft reported
+a 1,001-layer network (He et al. 2016b).
+[295]
+
+Fukushima 1980; LeCun et al. 1989.
+
+[296]
+
+Boltzmann 1868; Bridle 1990.
+
+[297]
+
+Yamaguchi et al. 1990.
+
+[298]
+
+LeCun et al. 1995.
+
+[299]
+
+The annual NeurIPS meeting, which has since grown into a behemoth, was founded in 1987
+
+specifically to focus on both “natural and synthetic” neural information processing systems; AbuMostafa 2020.
+[300]
+
+Norbert Wiener, Warren McCulloch, Walter Pitts, Frank Rosenblatt, Kunihiko Fukushima, Alan
+
+Turing, Geoffrey Hinton, Terry Sejnowski, Rich Sutton, Karl Friston, Yann LeCun, Read Montague,
+Jürgen Schmidhuber, Sara Solla, Yoshua Bengio, and Peter Dayan are all important figures in the
+development of machine learning mentioned in this book who work or worked in the tradition of
+computational neuroscience, or NeuroAI.
+[301]
+
+LeCun et al. 1990, 1998.
+
+[302]
+
+Krizhevsky, Sutskever, and Hinton 2012.
+
+[303]
+
+Zhang, McLoughlin, and Song 2015.
+
+[304]
+
+Weyn, Durran, and Caruana 2020.
+
+[305]
+
+Dauphin et al. 2017.
+
+[306]
+
+A flip-flop is a basic electrical circuit that can “flip” into one state, or “flop” into another; thus it
+
+is invaluable for implementing digital logic. A multi-stable flip-flop has more than two stable states.
+[307]
+
+Rosenblatt 1957.
+
+[308]
+
+More technically, any sufficiently continuous function.
+
+[309]
+
+Daubechies et al. 2022.
+
+[310]
+
+The term “inductive bias” has been used to describe the latent structural assumptions made by an
+
+approximator (whether neural or otherwise) to learn a function from a finite set of examples.
+[311]
+
+Many refinements to the basic perceptron architecture, including convolutions, different
+
+nonlinearities, “skip connections” (He et al. 2016a), and so on can be understood as further biasing
+
+the class of functions to be learned, with the goal of making the learning more efficient (that is,
+requiring fewer parameters or training examples to achieve similar accuracy).
+[312]
+
+Bojarski et al. 2016.
+
+[313]
+
+This idea had been tried before, with some success. ALVINN, the Autonomous Land Vehicle in
+
+a Neural Network (Pomerleau 1989), was a much smaller, fully connected three-layer perceptron
+built in 1988—the year Minsky and Papert reissued Perceptrons—and could “effectively follow real
+roads under certain field conditions,” a milestone GOFAI systems had not (and have not) achieved.
+[314]
+
+Rosenblatt 1957.
+
+[315]
+
+However, we’ll return to these points when discussing the phenomenon of “in-context learning”
+
+in chapter 9.
+[316]
+
+In 2017, during the heyday of convolutional neural nets, an episode of the painfully accurate
+
+Silicon Valley TV comedy aired that involved a “Not Hotdog app,” which was entirely equivalent to
+my scenario here; Seppala 2017. I’m just going for a healthier menu.
+[317]
+
+In math: the banana neuron’s activation is the dot product of its input weight vector with the
+
+embedding vector.
+[318]
+
+With the softmax function, this invariance is only approximate; changing the embedding layer’s
+
+banananess will still slightly affect the output. This feature is essential for backpropagation to work;
+the neural net can’t be learned if there’s no way to tell whether a tweak in the weights is making the
+output better or worse.
+[319]
+
+In math, applying a sequence of linear transformations is equivalent to applying a single linear
+
+transformation: A(Bx)=(AB)x. Even so, “deep linear networks” can be theoretically interesting,
+especially for studying the dynamics of learning. Saxe, McClelland, and Ganguli 2013; Q. Li and
+Sompolinsky 2021.
+[320]
+
+This theoretical result holds for nearly any kind of nonlinearity, though some nonlinearities are
+
+much better than others in practice. A great deal of work over the years has gone into designing
+nonlinearities that are fast to compute, efficient for learning, and don’t “blow up” numerically.
+[321]
+
+The “pretty much” is here because technically, linear transformations include both rotation and
+
+scaling.
+[322]
+
+Technical note: the dimensionality reduction approach Refik used was “t-distributed stochastic
+
+neighbor embedding” (t-SNE), which is a highly nonlinear operation designed for visualization rather
+than analysis. Thus linear (or planar, or hyperplanar) separation afterward typically won’t work,
+though the bananas will likely end up clustered together.
+[323]
+
+Tan et al. 2018.
+
+[324]
+
+This neglects the slight change we would also make to turn the “not banana” neuron into a
+
+“neither banana nor apple” neuron, but that’s a minor detail.
+[325]
+
+Qi, Brown, and Lowe 2017.
+
+[326]
+
+Feingold 1914; Meissner and Brigham 2001.
+
+[327]
+
+Tanaka and Pierce 2009.
+
+[328]
+
+Buolamwini and Gebru 2018; M. Wang et al. 2019.
+
+[329]
+
+Kohl 1993. The effect likely does not depend on infants forming discrete sound categories from
+
+the start, as Kohl believed, but rather learning the invariant embeddings that represent their speech
+environment; Feldman et al. 2021.
+[330]
+
+In more precise mathematical language, they show that while the specific weights of a given
+
+network are determined by their random initialization, these weights are only unique up to an
+arbitrary rotation in the high-dimensional space of per-layer weights; see Guth et al. 2023; Guth and
+Ménard 2024.
+[331]
+
+Fairwork 2023; Meaker 2023.
+
+[332]
+
+Some details are glossed over in this brief description; see He et al. 2021.
+
+[333]
+
+Inexplicably, our retinas are wired back to front, with the plumbing in front of the
+
+photoreceptors—nearly a proof of lack of intelligent design. Octopus retinas, which evolved
+independently, are wired the right way round, with the light sensors in front.
+[334]
+
+These experiments are reviewed in Churchland, Ramachandran, and Sejnowski 1994.
+
+[335]
+
+Such recordings are rare; they are made when neurosurgeons are trying to figure out how best to
+
+operate on someone’s brain when they need to, while sparing as much function as possible.
+Researchers gather precious human data of this kind when they can, but any scientific aims are
+always secondary to clinical aims.
+[336]
+
+Hunter, Spracklen, and Ahmad 2022.
+
+[337]
+
+Kurtz et al. 2020; Z. Li et al. 2022.
+
+[338]
+
+Qiu, Huang, and Fu 2023.
+
+[339]
+
+Gross 2002.
+
+[340]
+
+Quiroga et al. 2005.
+
+[341]
+
+Jennifer Aniston and Brad Pitt were married from 2000–2005, so this neuron might have needed
+
+to find a new gig after they split.
+[342]
+
+This is 128 × 127 × 126 × 125 × 124 × 123 × 122 × 121 × 120 × 119 × 118 × 117 × 116 × 115 ×
+
+114 × 113.
+[343]
+
+Historically, these terms were used in fencing: whoever is thrusting is the agent, and whoever is
+
+receiving or suffering the blow is the patient. In the history of medicine, similarly, the “patient”
+
+suffers passively while the surgeon or physician lances boils, cuts for stone, saws off limbs,
+punctures veins for bloodletting, and conducts other such swashbuckling maneuvers.
+[344]
+
+This also illustrates why the concept of multiple realizability only makes sense when there is a
+
+final cause.
+[345]
+
+In most cases there’s at least one synapse en route, but let’s not sweat the anatomical details.
+
+[346]
+
+Strogatz 2004.
+
+[347]
+
+Sarfati et al. 2022.
+
+[348]
+
+Burkhardt et al. 2023.
+
+[349]
+
+H. Wang et al. 2023; Hanson 2023.
+
+[350]
+
+Godfrey-Smith 2024.
+
+[351]
+
+Goulty et al. 2023.
+
+[352]
+
+Heath 1963.
+
+[353]
+
+Berridge and Robinson 1998.
+
+[354]
+
+Gershman et al. 2024.
+
+[355]
+
+Zénon, Devesse, and Olivier 2016.
+
+[356]
+
+Achatz et al. 2013.
+
+[357]
+
+They also engage in “penis fencing.” Google it if you’re feeling brave.
+
+[358]
+
+Raz et al. 2017.
+
+[359]
+
+Local adaptation also results in weak forms of learning known as “sensitization” and
+
+“habituation.” Cheng 2021.
+[360]
+
+Relatedly, J. J. Moore et al. 2024 suggest that single neurons can act as optimal feedback
+
+controllers.
+[361]
+
+R. R. Bush and Mosteller 1951; Rescorla and Wagner 1972.
+
+[362]
+
+Sutton 1988.
+
+[363]
+
+Sutton 1988, emphasis mine.
+
+[364]
+
+Tesauro 1992, 1994.
+
+[365]
+
+For a comprehensive historical overview of the development of TD learning and its convergence
+
+with dopamine research, see Colombo 2014.
+[366]
+
+Romo and Schultz 1990.
+
+[367]
+
+Montague, Dayan, and Sejnowski 1996.
+
+[368]
+
+The original experiments were done with primates, but evidence suggests that dopamine plays a
+
+similar role, mediated by the same brain structures, in all vertebrates. Analogous systems involving
+related neuromodulatory chemicals appear to have evolved in invertebrates too. Mizunami and
+Matsumoto 2017.
+
+[369]
+
+Fouragnan, Retzler, and Philiastides 2018; Diederen and Fletcher 2021.
+
+[370]
+
+C.-S. Lee et al. 2016.
+
+[371]
+
+Shoham et al. 2017.
+
+[372]
+
+Churchland 2016.
+
+[373]
+
+For instance, Sutton 1988 describes how TD learning and supervised learning can both be
+
+understood as gradient descent methods for sequence prediction.
+[374]
+
+Today’s separate treatment of inference (typically involving short timescales), so-called
+
+“adaptation” (intermediate timescales), and learning (long timescales) is an artifact of the cybernetic
+formalism described in “Negative Feedback,” chapter 3.
+[375]
+
+Keramati and Gutkin 2011; Laurençon et al. 2024.
+
+[376]
+
+See “Complexification,” chapter 1.
+
+[377]
+
+The parable is named after the fourteenth-century French philosopher Jean Buridan, but versions
+
+of it long predate him.
+[378]
+
+The earliest versions of randomized or “Monte Carlo” methods (named after the famous casino)
+
+were implemented at Los Alamos by Augusta Teller and Arianna Rosenbluth to simulate chain
+reactions in nuclear weapons.
+[379]
+
+Silver et al. 2017.
+
+[380]
+
+Schrittwieser et al. 2020.
+
+[381]
+
+Silver et al. 2013.
+
+[382]
+
+Kahng and Lee 2016.
+
+[383]
+
+Churchland 2016.
+
+[384]
+
+It does, in an oblique way, maintain a memory of prior moves: the 19×19-pixel image used by
+
+AlphaGo’s convolutional nets to evaluate the board includes “channels” representing, for instance,
+the number of moves since the stone was placed.
+[385]
+
+von Neumann 1928; von Neumann and Morgenstern 1944.
+
+[386]
+
+My old college roommate used to hustle chess games in New York’s Washington Square Park.
+
+First, he and I would play for money; I was genuinely bad, but he only pretended to be. He would
+then clean up against the other chess hustlers, who would initially play sloppily, assuming he was an
+easy mark. Afterward, we would split the proceeds.
+[387]
+
+I’m simplifying slightly. AlphaGo was designed to “cache” Monte Carlo evaluations of board
+
+positions so that they could be reused without being recomputed during subsequent moves; however,
+this was an engineering optimization. It didn’t involve the introduction of hidden states that
+influenced gameplay.
+[388]
+
+R. R. Jackson and Pollard 1996; Harland and Jackson 2000.
+
+[389]
+
+Wilcox and Jackson 2002.
+
+[390]
+
+Tchaikovsky 2018.
+
+[391]
+
+Before you risk Googling it, recall from “Behavior, Purpose, and Teleology,” chapter 3, that an
+
+entity’s Wiener sausage is the tubular zone of uncertainty it maintains around its trajectory through
+the world, thus avoiding being fully predictable.
+[392]
+
+Chiang 2005.
+
+[393]
+
+Hofstadter 1982.
+
+[394]
+
+Chittka 2022.
+
+[395]
+
+Fabre 1916.
+
+[396]
+
+Insects exhibit meaningful individual differences in intelligence, just as humans do; when Fabre
+
+tried the trick on a different Sphex population of the same species, he found that they weren’t fooled,
+per Chittka 2022. We’ll return to the Sphex story with a more critical eye in “Hive Mind,” chapter 9.
+[397]
+
+Riskin 2016.
+
+[398]
+
+In reality, no living being can be truly identical with another, as even the simplest organism has
+
+a vast number of internal degrees of freedom, and many are neutral, i.e., confer neither a survival
+advantage nor disadvantage.
+[399]
+
+Sloman and Fernbach 2018.
+
+[400]
+
+Wimmer and Perner 1983; Baron-Cohen, Leslie, and Frith 1985.
+
+[401]
+
+Setoh, Scott, and Baillargeon 2016.
+
+[402]
+
+Krupenye et al. 2016.
+
+[403]
+
+Ding et al. 2015. Note that the spider may still exhibit social competence without
+
+comprehension—meaning that it may not model itself attributing false beliefs to others, which would
+amount to a higher-order theory of mind.
+[404]
+
+Humphrey 1976.
+
+[405]
+
+The basic idea had been floated by other researchers in the 1950s (Chance and Mead 1953) and
+
+again in the ’60s (Jolly 1966), though to less effect.
+[406]
+
+Whiten and Byrne 1997; de Waal 2007.
+
+[407]
+
+Dunbar 1998.
+
+[408]
+
+Sarah Blaffer Hrdy has convincingly argued that, among humans and certain other brainy
+
+species, it “takes a village” to raise an infant, in the sense that the mother alone can’t provide all the
+needed calories; the grandparents, siblings, and babysitters who help out are called “alloparents.” In
+alloparental species, prospective mothers without the needed social support disproportionately elect
+infanticide or, among humans, abortion. If they do have the baby, its odds of survival increase
+appreciably with alloparental help; Hrdy 2009.
+
+[409]
+
+Pawłowski, Lowen, and Dunbar 1998; Holt-Lunstad et al. 2015.
+
+[410]
+
+Powell et al. 2012.
+
+[411]
+
+There’s likely no sharp boundary between general skills and specific knowledge, in this or any
+
+other domain, because every specific thing you learn is represented in terms of your existing
+conceptual vocabulary, and in turn extends that vocabulary. One can think of it almost like a
+compression algorithm, in which one’s experiences so far make up the “dictionary” with which
+subsequent knowledge and experiences are compressed. This may (at least partly) explain why time
+seems to pass more quickly as we age: we’re compressing our life experiences more efficiently—
+alas.
+[412]
+
+Street et al. 2024.
+
+[413]
+
+Dunbar 1992.
+
+[414]
+
+Dunbar 2016.
+
+[415]
+
+Gopnik and Meltzoff 1993; Ziv et al. 2016.
+
+[416]
+
+Muthukrishna et al. 2014.
+
+[417]
+
+Minsky 1988; Hawkins 2021; M. Bennett 2023.
+
+[418]
+
+Mountcastle 1957; Buxhoeveden and Casanova 2002; Cadwell et al. 2019.
+
+[419]
+
+Buonomano and Merzenich 1998.
+
+[420]
+
+Sharma, Angelucci, and Sur 2000. Note that the claim has recently been challenged by some
+
+researchers, who argue that apparent instances of cortical remapping (especially after brain trauma)
+are illusory, and merely reflect greater use being made of pre-existing, latent capabilities in
+neighboring areas of cortex; T. R. Makin and Krakauer 2023. It is indeed likely that cortical maps
+with well-defined boundaries are somewhat of an illusion. However, to me, the evidence—both from
+neuroscience and from machine learning, where the same neural net architecture can learn to process
+very different inputs—suggests that cortical remapping is real, and explains how it could occur
+without requiring a radically altered architecture or learning algorithm.
+[421]
+
+Kolarik et al. 2014.
+
+[422]
+
+Chebat, Schneider, and Ptito 2020.
+
+[423]
+
+Godfrey-Smith 2016.
+
+[424]
+
+Exceptional sites have been found where groups of octopuses live together; Scheel et al. 2017.
+
+[425]
+
+Octopuses have also been around for a long time, and we have no way of knowing what their
+
+social behaviors might have looked like a hundred million years ago. Perhaps their intelligence
+evolved at a time when they were nicer to each other.
+[426]
+
+Myelination is what makes our longer nerve fibers whitish; hence the unmyelinated “gray
+
+matter” of the cerebral cortex, where connectivity is mostly local, and the “white matter” of the
+
+brain’s interior, which consists mostly of wiring.
+[427]
+
+Since its enormous size makes it so easy to work with in the lab, the squid giant axon played a
+
+starring role in the midcentury experiments that established the biophysics of the action potential.
+[428]
+
+Sivitilli and Gire 2019.
+
+[429]
+
+Crook and Walters 2014.
+
+[430]
+
+Since the beak is an octopus’s only rigid part, it can squeeze through tiny holes or cracks—
+
+anecdotally, pretty much any space big enough for one of its eyeballs to get through; Godfrey-Smith
+2016.
+[431]
+
+Kuuspalu, Cody, and Hale 2022.
+
+[432]
+
+Budelmann 1998.
+
+[433]
+
+S. L. Bush 2012.
+
+[434]
+
+D. J. Brown 2013.
+
+[435]
+
+While Descartes’s faith was probably genuine, self-preservation undoubtedly played a role, too.
+
+As we shall see, taking the mechanical philosophy too far, even a century later, was dangerous.
+[436]
+
+Galen 1968.
+
+[437]
+
+Descartes 1677.
+
+[438]
+
+Dennett 2017a; Schneider 2021; Chalmers 2022
+
+[439]
+
+Bailey 2003; Dennett 2009; Frankish et al. 2017.
+
+[440]
+
+S. Harris 2012; Sapolsky 2023.
+
+[441]
+
+Tables and chairs seem to be invoked by philosophers more often than anything else when
+
+appealing to “reality,” presumably because they are so ubiquitous to a philosopher’s umwelt.
+[442]
+
+Linklater 1995.
+
+[443]
+
+Mogavero and Laskar 2022.
+
+[444]
+
+Eguíluz et al. 2000.
+
+[445]
+
+Lorenz 1963.
+
+[446]
+
+I won’t spoil the sequel, Before Sunset, by saying whether Céline and Jesse’s plans work out.
+
+[447]
+
+For a behaviorally relevant tolerance, it would actually be far shorter.
+
+[448]
+
+Bell 1964. In the “many worlds” interpretation of quantum mechanics, the dynamics are
+
+deterministic, but randomness still arises, corresponding to uncertainty about which universe we’re
+in.
+[449]
+
+In a way, this is just a restatement of the computational character of life. Recall that the
+
+conditional, “if/then,” is required for Turing completeness. Computation is perfectly consistent with
+the laws of physics (otherwise, there could be no computers), but it involves extreme sensitivity to its
+inputs; in a modern digital computer, a handful of electrons can make the difference between zero
+
+and one, and a single bit flip can produce entirely different results. This is why, in general, predicting
+the behavior of a computer is impossible without actually carrying out the computation. Stephen
+Wolfram refers to this as “computational irreducibility”; Wolfram 2002.
+[450]
+
+Magnasco 2022; K. J. Mitchell 2023.
+
+[451]
+
+Though something like this has actually been tried, with some success; Spiegel and Rodríguez
+
+2017.
+[452]
+
+You may notice that I’ve claimed life is both dynamically stable and dynamically unstable.
+
+Curious, but true. Living things are necessarily dynamically stable in the sense that they persist
+through time; yet in an apparent paradox, their ability to persist through time often requires that they
+maintain themselves in a dynamically unstable state, where they can respond freely and flexibly in a
+changing environment. In the language of dynamical systems theory, stability to certain perturbations
+and instability to others is sometimes referred to as a “saddle point.”
+[453]
+
+Sapolsky 2023.
+
+[454]
+
+My paraphrase of Albert Einstein’s paraphrase; Einstein 1935.
+
+[455]
+
+We’ll soon see how “choice blindness” can artificially induce such “taste overrides” in the lab,
+
+both subverting our free will and affirming its existence by revealing more about how it works.
+[456]
+
+Free will in the sense described here is broadly consistent with the views of German
+
+neuroscientist Björn Brembs, who points out how, curiously, studies of insect cognition have been the
+most illuminating. Brembs 2011.
+[457]
+
+Yong 2022.
+
+[458]
+
+Classic studies explore the self-recognition “mirror test” in chimpanzees, human infants, and
+
+other animals. Gallup 1970; Amsterdam 1972.
+[459]
+
+Hamilton, Hofstadter, and Dennett 1984; Hofstadter 2007.
+
+[460]
+
+Chalmers 1995.
+
+[461]
+
+Trnka and Lorencova 2022.
+
+[462]
+
+Henrich, Heine, and Norenzayan 2010.
+
+[463]
+
+Descartes’s answer, the pineal gland, takes the prize for originality.
+
+[464]
+
+Kimmerer 2013, 2017.
+
+[465]
+
+Varro 1934.
+
+[466]
+
+Gleason 2011.
+
+[467]
+
+A. Harris 2019.
+
+[468]
+
+Graziano 2013, 2019.
+
+[469]
+
+Freedom Baird, then a grad student at MIT, proposed holding Furby upside-down as a kind of
+
+“emotional Turing Test” in 1999; the experiment was actually conducted with seven-year-olds, albeit
+
+informally, on the Radiolab podcast in 2011. See Forbes 2021.
+[470]
+
+United States of America 1776.
+
+[471]
+
+United Nations 1948.
+
+[472]
+
+Haraway 1988; Scott 1998.
+
+[473]
+
+Tegmark 2000.
+
+[474]
+
+Fein et al. 2019.
+
+[475]
+
+Rovelli 2021.
+
+[476]
+
+Ornes 2019.
+
+[477]
+
+Lewis 2021.
+
+[478]
+
+Wheeler 1978.
+
+[479]
+
+Jacques et al. 2007.
+
+[480]
+
+Stephen Wolfram has explored the related idea that time itself may arise as a consequence of the
+
+local ordering of (or, more properly, the dependencies among) computational interactions; Wolfram
+2024.
+[481]
+
+Rovelli 2021.
+
+[482]
+
+de La Mettrie 1748.
+
+[483]
+
+van der Hart, Lierens, and Goodwin 1996.
+
+[484]
+
+Alivisatos et al. 2012; Manley et al. 2024.
+
+[485]
+
+Even though they can’t record from every neuron in the human brain, neuroscientists can
+
+already approximately reconstruct what a subject is seeing based on functional MRI recording;
+Nishimoto et al. 2011.
+[486]
+
+Even so, flat earthers are a thing; D. J. Clark 2018.
+
+[487]
+
+D. J. Brown 2013.
+
+[488]
+
+Gazzaniga 1967; Sperry 1968; Gazzaniga 2005.
+
+[489]
+
+Language lateralization can vary; especially among left-handed people, it may instead occur
+
+primarily in the right hemisphere.
+[490]
+
+de Haan et al. 2020.
+
+[491]
+
+MacKay and MacKay 1982.
+
+[492]
+
+Sperry 1965; Preilowski 1975.
+
+[493]
+
+Stroop 1935; MacLeod 1991.
+
+[494]
+
+Cohen, Dunbar, and McClelland 1990.
+
+[495]
+
+Volz and Gazzaniga 2017.
+
+[496]
+
+A. Harris 2019.
+
+[497]
+
+Gazzaniga 1998.
+
+[498]
+
+Volz and Gazzaniga 2017.
+
+[499]
+
+Due to state regulations they each needed to be licensed separately. Coordination between
+
+strangers to perform collective motor tasks has also been studied in the lab; see Schmid and Braun
+2020.
+[500]
+
+van de Crommert, Mulder, and Duysens 1998.
+
+[501]
+
+Johansson et al. 2005.
+
+[502]
+
+Chater 2018.
+
+[503]
+
+Hall et al. 2013.
+
+[504]
+
+Chater 2018.
+
+[505]
+
+Graziano 2018.
+
+[506]
+
+Botvinick and Cohen 1998.
+
+[507]
+
+One set of such findings not discussed here is the controversial work of Benjamin Libet and
+
+colleagues, who were able to detect brain signals predicting voluntary action significantly before
+subjects reported that they had made the decision to act. While there are many methodological
+challenges with this work and different interpretations of the results, the absence of a homunculus
+would imply that no specific part of the brain can accurately say when a decision is made, especially
+if that decision originates in a different brain area. Libet et al. 1993.
+[508]
+
+Understanding the precise nature of these necessary and sufficient conditions is an ongoing area
+
+of research.
+[509]
+
+Rowland 2005.
+
+[510]
+
+Freeman and Watts 1950.
+
+[511]
+
+DiCarlo, Zoccolan, and Rust 2012; Yamins et al. 2014.
+
+[512]
+
+Technically: backpropagation requires transposition of the weight matrix, which violates the
+
+principle that neural computation must remain local.
+[513]
+
+Whittington and Bogacz 2019.
+
+[514]
+
+Szegedy et al. 2013; Athalye et al. 2018; Heaven 2019.
+
+[515]
+
+Guo et al. 2022.
+
+[516]
+
+Here I’m pretending that time can be broken down into discrete steps, as it mostly does in the
+
+present-day world of digital computing and artificial neural nets. Real brains and neurons don’t work
+in discrete time, but the sequential nature of information processing as a signal passes from neuron to
+neuron still applies.
+[517]
+
+He et al. 2016a.
+
+[518]
+
+Harland and Jackson 2000.
+
+[519]
+
+Montague and Sejnowski 1994; Saponati and Vinck 2023.
+
+[520]
+
+Keller and Mrsic-Flogel 2018.
+
+[521]
+
+Pouget 2014.
+
+[522]
+
+Matthews 1982.
+
+[523]
+
+Molnár and Brown 2010.
+
+[524]
+
+Crapse and Sommer 2008.
+
+[525]
+
+Merker 2007.
+
+[526]
+
+Bauer, Gerstenbrand, and Rumpl 1979.
+
+[527]
+
+Cassell 1998. Peter Godfrey-Smith hypothesizes that some animals, such as insects, might have
+
+nociception without pain. He imagines that an injured bee might register damage the way we register
+that something is wrong with our car when the “check engine” light comes on, without the
+accompanying feeling of pain; Godfrey-Smith 2016. Behavioral studies don’t obviously support this
+view, though; Chittka 2022.
+[528]
+
+Grandin 1980, 1993.
+
+[529]
+
+Humphrey and Weiskrantz 1967.
+
+[530]
+
+Humphrey 2023.
+
+[531]
+
+Humphrey 1972.
+
+[532]
+
+Hartmann et al. 1991.
+
+[533]
+
+Carey 2008.
+
+[534]
+
+An alternative possibility would be to regard the interpreter as the homunculus. Since the
+
+interpreter seems mainly to be in the business of justifying decisions made elsewhere in the brain,
+though, this doesn’t seem like much of an “I” worth having.
+[535]
+
+M. Bennett 2023.
+
+[536]
+
+There were some minor exceptions; for instance, through frequent reinforcement, it was possible
+
+for an existing memory to be modified to include new information.
+[537]
+
+Nádasdy et al. 1999; A. K. Lee and Wilson 2002.
+
+[538]
+
+Rasch and Born 2013.
+
+[539]
+
+Völlm et al. 2006; van Veluw and Chance 2014.
+
+[540]
+
+Freeman 1971.
+
+[541]
+
+For a general overview of this “paradoxical” functional improvement following brain lesion, see
+
+Kapur 1996.
+[542]
+
+In fairness, cats are less domesticated than dogs, and appear to be better able to revert to feral
+
+behavior.
+[543]
+
+Henneberg and Steyn 1993.
+
+[544]
+
+Even the retina is a sequence predictor; Schwartz et al. 2007.
+
+[545]
+
+Ghirlanda, Lind, and Enquist 2017.
+
+[546]
+
+A. Clark 2023.
+
+[547]
+
+Huttenlocher 1979.
+
+[548]
+
+Atzil et al. 2018.
+
+[549]
+
+Owren, Amoss, and Rendall 2011.
+
+[550]
+
+Duchenne 1876; Ekman, Davidson, and Friesen 1990.
+
+[551]
+
+Kobayashi and Kohshima 1997.
+
+[552]
+
+It’s becoming increasingly clear that many historical debates pitting the individual-selection
+
+against group-level-selection schools of Darwinism against each other are misguided. Both occur at
+once; O’Gorman, Sheldon, and Wilson 2008.
+[553]
+
+Churchland 2019.
+
+[554]
+
+Hrdy 2009.
+
+[555]
+
+Gunkel 2018.
+
+[556]
+
+R. Long et al. 2024.
+
+[557]
+
+A notable exception: in a paper titled “Do We Collaborate with What We Design?” researchers
+
+Katie Evans, Scott Robbins, and Joanna Bryson argue against AI patiency on the basis of the humanAI relationship, which they understand more unidirectionally than I do; K. D. Evans, Robbins, and
+Bryson 2023.
+[558]
+
+T. Brown et al. 2020; Thoppilan et al. 2022.
+
+[559]
+
+How Smart Are Dolphins? 2011.
+
+[560]
+
+Pepperberg 2009; Colbert-White 2013; “Apollo and Frens” 2022.
+
+[561]
+
+Chiang and Allora & Calzadilla 2015.
+
+[562]
+
+Everett 2009.
+
+[563]
+
+Rutz et al. 2023.
+
+[564]
+
+Perruchet and Rey 2005.
+
+[565]
+
+Mercier and Sperber 2011, 2018; Fedorenko, Piantadosi, and Gibson 2024.
+
+[566]
+
+Abramson et al. 2018; Garland and McGregor 2020.
+
+[567]
+
+Wilden 1972; Nguyen, Sagot, and Dupoux 2022.
+
+[568]
+
+Slobodchikoff, Paseka, and Verdolin 2009.
+
+[569]
+
+A caveat: it is certainly possible for actions whose consequences can’t be perceived by an
+
+individual to nonetheless be learned on an evolutionary timescale as instincts, if they confer a
+survival advantage.
+[570]
+
+Gibson 1979.
+
+[571]
+
+Schuster and Nakajima 2012.
+
+[572]
+
+Levesque, Davis, and Morgenstern 2011.
+
+[573]
+
+Kocijan et al. 2022.
+
+[574]
+
+Translate uses a much smaller model than general-purpose chatbots. With a large model, it
+
+would likely perform Winograd Schema tasks with human-like accuracy.
+[575]
+
+Adiwardana et al. 2020.
+
+[576]
+
+Thoppilan et al. 2022.
+
+[577]
+
+Dennett 2023.
+
+[578]
+
+Lenat, Prakash, and Shepherd 1985; McCarthy et al. 2002.
+
+[579]
+
+Mikolov, Chen, et al. 2013; Mikolov, Sutskever, et al. 2013.
+
+[580]
+
+More technically, the prediction is given by the softmax of the dot product of every word in the
+
+vocabulary with the vector sum of the surrounding words.
+[581]
+
+B. Russell 1937.
+
+[582]
+
+This notation, familiar to all of us who took the dreaded SAT in the 1990s, reads “king is to
+
+queen as man is to woman.”
+[583]
+
+Artetxe et al. 2017.
+
+[584]
+
+Coincidentally, in the language of vectors, the word “translation” literally means just such a
+
+parallel shift.
+[585]
+
+Kant 1991.
+
+[586]
+
+Rovelli 2023.
+
+[587]
+
+Caliskan, Bryson, and Narayanan 2017.
+
+[588]
+
+Boniol et al. 2019.
+
+[589]
+
+Leaf 1946.
+
+[590]
+
+In the King James Bible (Exodus 20 and Deuteronomy 5), these include: “Thou shalt not make
+
+unto thee any graven image,” “Thou shalt not take the name of the Lord thy God in vain,” “Thou
+shalt not murder,” “Thou shalt not commit adultery,” “Thou shalt not steal,” “Thou shalt not bear
+false witness against thy neighbor,” “Thou shalt not covet thy neighbor’s house,” and “Thou shalt not
+covet thy neighbor’s wife or his slaves, or his animals, or anything of thy neighbor.”
+[591]
+
+Kuczmarski 2018.
+
+[592]
+
+See also Table A30 of Rae et al. 2021.
+
+[593]
+
+Vaswani et al. 2017.
+
+[594]
+
+This description is a bit simplified, as the goal here is to understand the model conceptually;
+
+normalization and multi-head attention are not described. For readers familiar with linear algebra, the
+original paper offers a clear and complete description.
+[595]
+
+Hochreiter and Schmidhuber 1997.
+
+[596]
+
+Several simplified alternatives to the LSTM were introduced in the 2010s, most notably the
+
+Gated Recurrent Unit (GRU); Chung et al. 2014. They share both the advantages and drawbacks of
+LSTMs.
+[597]
+
+Miller 1956; Baddeley 1992.
+
+[598]
+
+Foer 2005.
+
+[599]
+
+Thalmann, Souza, and Oberauer 2019; Norris and Kalm 2021.
+
+[600]
+
+Cherry 1953.
+
+[601]
+
+Carlile and Corkhill 2015.
+
+[602]
+
+Rahimi, Afouras, and Zisserman 2022.
+
+[603]
+
+Whittington, Warren, and Behrens 2021.
+
+[604]
+
+This is analogous to the way “simple cells” in the visual cortex have receptive fields that look
+
+like oriented ripples. Such ripples are the most natural building blocks of images (in mathematical
+language, eigenfunctions); Olshausen and Field 1996.
+[605]
+
+Kozachkov, Kastanenka, and Krotov 2023.
+
+[606]
+
+Fields et al. 2014.
+
+[607]
+
+As a result, the size of a Transformer goes up like the square of the size of the context window;
+
+clearly such scaling runs into hard limits before long.
+[608]
+
+Bhojanapalli et al. 2021.
+
+[609]
+
+Shakarian et al. 2023.
+
+[610]
+
+Bartumeus et al. 2014.
+
+[611]
+
+Giannou et al. 2023; Merrill and Sabharwal 2023.
+
+[612]
+
+Degrave 2022.
+
+[613]
+
+Geneva and Zabaras 2022.
+
+[614]
+
+Jason Wei, Wang, et al. 2022.
+
+[615]
+
+Kojima et al. 2022.
+
+[616]
+
+J. Kaplan et al. 2020; Jason Wei, Tay, et al. 2022.
+
+[617]
+
+A. Clark 2012; Lupyan 2012.
+
+[618]
+
+This cliff, though, has no top. In the words of Vannevar Bush, it offers an “endless frontier”; V.
+
+Bush 1945.
+[619]
+
+Daniel Kahneman, winner of the Nobel Prize in Economics in 2002 for work in this vein,
+
+popularized this idea in his 2011 book Thinking, Fast and Slow, though the idea has been
+controversial. Kahneman 2011; Melnikoff and Bargh 2018.
+[620]
+
+Hagendorff, Fabi, and Kosinski 2022.
+
+[621]
+
+Mercier and Sperber 2018.
+
+[622]
+
+Along similar anthropocentric lines, Aristotle thought of humans as the unique possessors of a
+
+“rational soul,” layered atop the merely “vegetative soul” also possessed by plants, and the “sensitive
+soul” (a.k.a. System 1) also possessed by other animals. To many modern philosophers and cognitive
+scientists, it still seems counterintuitive to imagine that the machinery of the rational soul could be
+the same as that of the “irrational” sensitive soul.
+[623]
+
+Chittka 2022.
+
+[624]
+
+Dennett 1984.
+
+[625]
+
+Fabre 1921.
+
+[626]
+
+Keijzer 2013.
+
+[627]
+
+Chittka and Spaethe 2007; MaBouDi et al. 2020.
+
+[628]
+
+Koch 2008.
+
+[629]
+
+Mazokhin-Porshnyakov and Kartsev 2000; Harland and Jackson 2000.
+
+[630]
+
+Eldan and Li 2023.
+
+[631]
+
+Bees have about one million neurons, and given the very complex structures of the “Kenyon
+
+cells” in the “mushroom bodies,” of their brains, it seems safe to assume at least an order of
+magnitude more parameters. Note that both the relative and absolute size of a bee’s brain correlates
+with its ability to learn; Collado et al. 2021; Lanuza et al. 2023. To be clear, though, it’s unlikely that
+bees could make sense of TinyStories, even if their brains are theoretically complex enough to do so.
+Their umwelt is radically different from ours, and short stories simply aren’t their jam.
+[632]
+
+Simons and Chabris 1999.
+
+[633]
+
+Bernadou, Kramer, and Korb 2021.
+
+[634]
+
+After reading the “eight-legged cats” article about Portia (Harland and Jackson 2000), my sister
+
+Clea has taken to calling her cat, Guar, a “four-legged spider.” Guar is an enthusiastic stalker of prey,
+both real and pretend, though not necessarily the brightest spark.
+[635]
+
+The French term, coined by encyclopedist Denis Diderot, is l’esprit d’escalier—literally,
+
+“staircase wit.”
+[636]
+
+Weir 2012.
+
+[637]
+
+As one would expect given that its text-specific function is a recent cultural development, it has
+
+other functions too, and is tellingly implicated in attention generally, per Chen et al. 2019.
+[638]
+
+Pinker 2010.
+
+[639]
+
+Christiansen and Chater 2022.
+
+[640]
+
+Petkov and ten Cate 2020; Christiansen et al. 2002.
+
+[641]
+
+E. A. Smith 2010; G. Kaplan 2023.
+
+[642]
+
+Fine-grained control of the vocal tract has also been posited as a language pre-adaptation, and it
+
+may indeed be. Parrots and cetaceans, both of which are well adapted to language like us, are also
+gifted at sound synthesis. (In fact, some brainy bird species are able to make a wider array of
+vocalizations than we are, producing uncanny imitations of ringtones, vehicles, and power tools, as
+well as blood-curdling “syrinx shrieks” loud enough to be acoustic weapons.) However, nonhuman
+primates are highly dextrous, and can learn the elements of sign language. Deaf communities have no
+problem communicating this way. The limits to language acquisition among nonhuman primates thus
+appear to arise from more fundamental limits to sequence learning and/or sociality.
+[643]
+
+The caveat is that these modalities have to communicate, directly or indirectly, with the parts of
+
+our cortex that process language. So, for instance, we have neurons that sense the state of every part
+of our gut, squeeze the food through, and perform emergency evacuations when needed, but we don’t
+have non-technical language to describe these experiences or the sense that we voluntarily control
+them, because those circuits aren’t wired up to the interpreter in any way that allows us to talk about
+what they do beyond vague reportage like “feeling full,” “stomach ache,” or “about to barf.”
+[644]
+
+Marjieh et al. 2023. Researchers have also found that language models build internal
+
+representations of space and time on multiple scales; Gurnee and Tegmark 2023.
+[645]
+
+In an interesting twist, multilingual LLMs are also shown to faithfully mirror subtle differences
+
+between languages; the Russian color “зелёный,” for instance, occupies a slightly narrower gamut
+than its English translation, “green.”
+[646]
+
+Zeghidour et al. 2022. This description simplifies away some details. For instance, SoundStream
+
+actually creates two token streams: high-frequency “acoustic tokens” and low-frequency “semantic
+tokens.”
+[647]
+
+Borsos, Marinier, et al. 2023.
+
+[648]
+
+Borsos, Sharifi, et al. 2023.
+
+[649]
+
+Chomsky 1959, 1980.
+
+[650]
+
+Ibbotson and Tomasello 2016.
+
+[651]
+
+Ghani et al. 2023; Agostinelli et al. 2023.
+
+[652]
+
+Hopper 1996.
+
+[653]
+
+Pagel et al. 2013; Heggarty et al. 2023.
+
+[654]
+
+Ćwiek et al. 2022.
+
+[655]
+
+Alper and Averbuch-Elor 2023.
+
+[656]
+
+Adams 1979.
+
+[657]
+
+Anderson 2004.
+
+[658]
+
+Nag 2017.
+
+[659]
+
+Agüera y Arcas 2023.
+
+[660]
+
+Frankopan 2016.
+
+[661]
+
+J. A. Evans 2010; Fortunato et al. 2018.
+
+[662]
+
+Campbell et al. 2013.
+
+[663]
+
+UNESCO Intangible Cultural Heritage Unit’s Ad Hoc Expert Group on Endangered Languages
+
+2003.
+[664]
+
+Ebrahimi and Kann 2021.
+
+[665]
+
+Everett 2007.
+
+[666]
+
+Frank et al. 2008.
+
+[667]
+
+Everett 2009.
+
+[668]
+
+Some controversy has embroiled this topic, due to legitimate concerns about replacing religious
+
+colonialism with “data colonialism.” However, open-source models large enough to learn new
+languages efficiently are becoming available, making AI-assisted language preservation increasingly
+viable as a community-led project.
+[669]
+
+Hoffmann et al. 2022.
+
+[670]
+
+Villalobos et al. 2022.
+
+[671]
+
+Hayes 2023.
+
+[672]
+
+Perrault and Clark 2024.
+
+[673]
+
+Aware I’m dating myself here.
+
+[674]
+
+Self 1993.
+
+[675]
+
+T. Brown et al. 2020.
+
+[676]
+
+Agüera y Arcas and Norvig 2023.
+
+[677]
+
+von Oswald et al. 2023.
+
+[678]
+
+Giannou et al. 2023.
+
+[679]
+
+Wark, Lundstrom, and Fairhall 2007; Newell et al. 2009.
+
+[680]
+
+Pearl and Mackenzie 2018. Technically, this result holds for an iterated Transformer, i.e., one
+
+that is allowed to take sequential steps, though, as we have seen, steps can trade off against model
+size.
+[681]
+
+Merrill et al. 2024.
+
+[682]
+
+See “Closing the Loop,” chapter 3.
+
+[683]
+
+AIs performing experiments to learn could be extremely helpful in, for example, highly
+
+automated cellular biology research; but, of course, we’d want to be exceptionally careful about
+robots pushing vases off shelves, or worse, out of idle curiosity.
+[684]
+
+Eldan and Li 2023.
+
+[685]
+
+F. Jackson 1982.
+
+[686]
+
+The phrase “not even wrong” (attributed to physicist Wolfgang Pauli) is sometimes used to refer
+
+to such arguments.
+[687]
+
+Milner 1995; Butter et al. 1997.
+
+[688]
+
+Bonnet 1760; Sacks 2012.
+
+[689]
+
+Hassabis et al. 2007.
+
+[690]
+
+Players alternately put down stones that each have a white and black side, with their own color
+
+facing up, so a move is notated with a letter and a number giving the square’s coordinates, from A1 to
+H8. When you place a stone, any of your opponent’s stones in a straight line from one of yours is
+flipped over to your color, and you win if by the time the board is full there are more stones with
+your color facing up.
+[691]
+
+K. Li et al. 2022.
+
+[692]
+
+M. Mitchell 2023.
+
+[693]
+
+Miyazawa, Kyuragi, and Nagai 2022.
+
+[694]
+
+Brewer, Cook, and Bird 2016.
+
+[695]
+
+Thaler, Arnott, and Goodale 2011.
+
+[696]
+
+Garner and Keller 2022.
+
+[697]
+
+Pisoni et al. 2017.
+
+[698]
+
+Merrill and Sabharwal 2023.
+
+[699]
+
+Bubeck et al. 2023.
+
+[700]
+
+Harnad 1990; Bender and Koller 2020; M. Mitchell 2021.
+
+[701]
+
+Merken 2023.
+
+[702]
+
+Pauling 1968.
+
+[703]
+
+Kadavath et al. 2022; Yin et al. 2023.
+
+[704]
+
+Jerry Wei et al. 2024.
+
+[705]
+
+J. Li, Yu, and Ettinger 2022; Merrill et al. 2024.
+
+[706]
+
+A caveat, though: there is a nascent alternative take on fundamental physics, “Constructor
+
+Theory,” formulated in terms of counterfactuals. While the project of deriving all of physics from it
+remains incomplete, it has been used to derive key results in thermodynamics (Marletto 2016),
+information theory (Deutsch and Marletto 2015), and biology (Marletto 2015).
+[707]
+
+See “The Interpreter,” chapter 6.
+
+[708]
+
+Mercier and Sperber 2018.
+
+[709]
+
+Shi et al. 2019.
+
+[710]
+
+Du et al. 2022.
+
+[711]
+
+Godfrey-Smith 2020; Barandiaran and Almendros 2024.
+
+[712]
+
+AudioLM has a fixed sampling interval, like the frames per second in a movie, but, also like a
+
+movie, above some sampling rate the experience (or interaction) is for all practical purposes
+continuous.
+[713]
+
+Brohan et al. 2022.
+
+[714]
+
+Somers 2024.
+
+[715]
+
+LIDAR, “LIght Detection And Ranging,” is like RADAR (RAdio Detection And Ranging) but
+
+uses light instead of radio waves.
+[716]
+
+Di Lillo et al. 2024.
+
+[717]
+
+Hu et al. 2021.
+
+[718]
+
+Munkhdalai, Faruqui, and Gopal 2024; Ma et al. 2024.
+
+[719]
+
+Meinke et al. 2024.
+
+[720]
+
+Zhan 1964.
+
+[721]
+
+Mercier and Sperber 2018.
+
+[722]
+
+Goering et al. 2021.
+
+[723]
+
+Thoppilan et al. 2022.
+
+[724]
+
+Cundy and Ermon 2023.
+
+[725]
+
+Zelikman et al. 2024.
+
+[726]
+
+Gemini, in 2024, adopted the “multiple drafts” approach.
+
+[727]
+
+J. Long 2023; Yao et al. 2024.
+
+[728]
+
+Mollick 2024.
+
+[729]
+
+Mink 2021.
+
+[730]
+
+Heffernan 2004. Sacha Baron-Cohen’s first cousin, Simon Baron-Cohen, was the lead author of
+
+the Sally-Anne Test paper (Baron-Cohen, Leslie, and Frith 1985); interest in mentalizing must run
+deep in that family.
+[731]
+
+Roose 2023b.
+
+[732]
+
+Roose 2023a.
+
+[733]
+
+“My column about the experience was probably the most consequential thing I’ll ever write—
+
+both in terms of the attention it got (wall-to-wall news coverage, mentions in congressional hearings,
+even a craft beer named Sydney Loves Kevin) and how the trajectory of AI development changed.”
+Roose 2024.
+[734]
+
+Personal communication.
+
+[735]
+
+On top of that, he was an unsung war hero whose cryptographic work at Bletchley Park saved
+
+countless lives, making his subsequent martyrdom by the British government for being gay
+
+unforgivable.
+[736]
+
+Bhattacharya 2021.
+
+[737]
+
+Margulis et al. 2009.
+
+[738]
+
+Gage 2012.
+
+[739]
+
+Fukuyama 2006.
+
+[740]
+
+Urban 2015.
+
+[741]
+
+Efrati and Palazzolo 2024.
+
+[742]
+
+Adams 1980.
+
+[743]
+
+To anyone else over forty still with me: “jailbreaking,” originally meaning the removal of carrier
+
+restrictions on smartphones, is now a term of art for getting large language models to do things the AI
+companies didn’t intend, and the Raspberry Pi is a small computer on a circuit board popular for
+general prototyping, especially involving the “Internet of Things.”
+[744]
+
+Agüera y Arcas and Norvig 2023.
+
+[745]
+
+Churchland 2016.
+
+[746]
+
+See “Green Screen,” chapter 4, and “Prediction Is All You Need,” chapter 8; the latter hinted at
+
+this, in describing how a sequence model trained to do translation is also a general language model.
+The technical findings are in Guth and Ménard 2024.
+[747]
+
+Szathmáry and Smith 1995.
+
+[748]
+
+Turchin 1977, 1995.
+
+[749]
+
+M. Bennett 2023.
+
+[750]
+
+Colapinto 2007.
+
+[751]
+
+Marx and Engels 1888 [1848].
+
+[752]
+
+Recall that the first application of Newcomen’s steam engine was pumping the water out of a
+
+flooded coal mine; today, mining is highly automated, and the machines that do most of the physical
+work are fuel-powered.
+[753]
+
+Hong Liangji ( 洪亮吉 ) 1793; Malthus 1798; Agüera y Arcas 2023.
+
+[754]
+
+Since the turn of the twenty-first century, some commentators have, in rapid succession,
+
+declared third and fourth Industrial Revolutions relating to computers, 3D printing, remote sensing,
+the Internet of Things, and various other developments; Rifkin 2008; Schwab 2017. While all of
+these technologies and many more have indeed been transformative (we could add, for instance,
+container ships, cellular networks, and high-frequency financial trading), none meet the MET criteria.
+I believe that AI will soon meet that bar, though it seems a misnomer to place it under the industrial
+paradigm by calling it yet another “Industrial Revolution.”
+[755]
+
+Ehrlich 1968; Meadows et al. 1972.
+
+[756]
+
+Jacobsen 2024.
+
+[757]
+
+This account focuses on prediction rather than energy (as with the first Industrial Revolution),
+
+though prediction, computation, and energy are all related at a deep level. We have far to go in
+making AI models more energy-efficient, but it’s notable that even today, AI models may be more
+energy-efficient than brains simply due to the speed with which they operate; Tomlinson et al. 2024.
+[758]
+
+Computing pioneer J. C. R. Licklider was among the first to foresee what he called “man-
+
+computer symbiosis”; Licklider 1960.
+[759]
+
+Walker 2023.
+
+[760]
+
+Sloman and Fernbach 2018.
+
+[761]
+
+Scott 2017; Agüera y Arcas 2023.
+
+[762]
+
+Čapek 1920.
+
+[763]
+
+Bryson 2010, 2015.
+
+[764]
+
+Piketty 2017.
+
+[765]
+
+Merchant 2023.
+
+[766]
+
+Per William Blake’s poem, “Jerusalem”: “And did the Countenance Divine, / Shine forth upon
+
+our clouded hills? / And was Jerusalem builded here, / Among these dark Satanic Mills?”; Blake
+1810.
+[767]
+
+Dattani et al. 2023.
+
+[768]
+
+Agrawal, Gans, and Goldfarb 2023; Ben-Ishai et al. 2024.
+
+[769]
+
+Hoffman 2023.
+
+[770]
+
+Ford 2015.
+
+[771]
+
+King 1967.
+
+[772]
+
+Boot 2024.
+
+[773]
+
+Haushofer and Shapiro 2016; Ghuman 2022; DeYoung et al. 2023, 2024.
+
+[774]
+
+Bastani 2019; DeLong 2022.
+
+[775]
+
+To learn about the Bored Ape NFT craze, see Faux 2023, or ask an AI.
+
+[776]
+
+Susskind 2024.
+
+[777]
+
+Robbins 1932.
+
+[778]
+
+Carlsmith 2022; Yudkowsky 2023b.
+
+[779]
+
+Jacobsen 2024.
+
+[780]
+
+Lovelock and Margulis 1974.
+
+[781]
+
+A. J. Watson and Lovelock 1983; Lenton and Lovelock 2001.
+
+[782]
+
+Pörtner and Belling 2022.
+
+[783]
+
+The effort is underfunded; Abell et al. 2021.
+
+[784]
+
+Richards et al. 2023.
+
+[785]
+
+Yudkowsky 2023a.
+
+[786]
+
+Bostrom 2014.
+
+[787]
+
+British comedians like Douglas Adams (author of The Hitchhiker’s Guide to the Galaxy) and
+
+Charlie Brooker (creator of Black Mirror) seem to be our era’s most prescient futurists. Jules Verne
+and H. G. Wells started off as humorists too. Perhaps the future is just funny.
+[788]
+
+Empirically, this relationship doesn’t appear to hold; being smart will not make you rich;
+
+Pluchino, Biondo, and Rapisarda 2018.
+[789]
+
+Heinlein 1966.
+
+[790]
+
+Friedman 1975; Boaz 2023.
+
+[791]
+
+Original last name: O’Connor, legally changed to More in 1990.
+
+[792]
+
+More 2003.
+
+[793]
+
+Goertzel 2000.
+
+[794]
+
+Gebru and Torres 2024.
+
+[795]
+
+Of course picking fruit, hunting game, and weaving baskets takes work, and involves risk.
+
+However, the amount of work needed for subsistence varies dramatically by ecology. There is no law
+of nature specifying a fixed relationship between the effort involved and its “payoff,” especially since
+both are subjective.
+[796]
+
+AI doomer Eliezer Yudkowsky, who founded LessWrong in 2009, was “one of the more
+
+interesting young Extropians”; Goertzel 2000.
+[797]
+
+Hayek 1945. Despite his reverence for the free market, Hayek, like Milton Friedman, advocated
+
+for a Universal Basic Income, writing in 1944, “There is no reason why in a society that has reached
+the general level of wealth which ours has attained, [...] security should not be guaranteed to all [...],”
+and in 1978, that a social safety net should guarantee “a certain minimum income for everyone, or a
+certain floor below which nobody need fall even when he is unable to provide for himself”; Hayek
+1944, 1978.
+[798]
+
+Author of L’Homme machine (de La Mettrie 1748); see “Zombie-Free,” chapter 6.
+
+[799]
+
+Lind 1776; although Lind’s co-author is anonymous, it is widely assumed to have been
+
+Bentham.
+[800]
+
+Bentham 2014.
+
+[801]
+
+OK, here’s the rest of it: “[...] and the several Sets of Appellatives, Neutral, Eulogistic and
+
+Dyslogistic, by which each Species of MOTIVE is wont to be designated : to which are added
+EXPLANATORY NOTES and OBSERVATIONS, indicative of the Applications of which the Matter
+of this Table is susceptible, in the Character of a Basis or Foundation, of and for the Art and Science
+
+of Morals, otherwise termed Ethics, —whether Private, or Public alias Politics—(including
+Legislation)—Theoretical, or Practical alias Deontology—Exegetical alias Expository, (which
+coincides mostly with Theoretical), or Censorial, which coincides mostly with Deontology : also of
+and for Psychology, in so far as concerns Ethics, and History (including Biography) in so far as
+considered in an Ethical Point of View.” Bentham 1817.
+[802]
+
+Tversky 1969.
+
+[803]
+
+It would, in fact, be contradictory for Utilitarianism to be both moral and mechanical, because
+
+morality makes little sense without counterfactuals. If everything happens as it’s bound to happen,
+then it’s equally pointless to debate how either people or governments composed of people “should”
+behave; Sapolsky 2023.
+[804]
+
+Redelmeier, Katz, and Kahneman 2003. I hear colonoscopies have gotten less unpleasant in the
+
+decades since this experiment was done.
+[805]
+
+I’m using positive signs here to match the pain dial. As Utilitarians, we’d more properly think of
+
+pain as negative utility, and say that if X and Y are both negative numbers, X+Y must be less than X.
+[806]
+
+Even here, there are plenty of exceptions. Numerous faith traditions, from Buddhism to
+
+Christianity to Islam, involve giving away one’s possessions, embracing poverty, renouncing one’s
+freedom, and willingly enduring pain or even death.
+[807]
+
+Easterlin 1974; Easterlin and O’Connor 2021.
+
+[808]
+
+Scott-Heron 1970; Cherkaev 2021.
+
+[809]
+
+If only they were still alive, Jorge Luis Borges and Douglas Adams could collaborate to write
+
+this short story.
+[810]
+
+This analysis presumes a continuous landscape of values and actions, but similar conditions hold
+
+in the discrete case.
+[811]
+
+Although under group-level selection, some individual death rate is acceptable, and in many
+
+cases even desirable, as in bees dying to defend the hive, or cell death during fetal development.
+[812]
+
+Calculus alert for the mathematically inclined. Mathematically, a stronger statement can be
+
+made: that the vector field of paths taken will have zero vorticity. This follows from the fact that this
+vector field is the gradient of the value function. Needless to say, no real human, plant, animal, or
+corporation’s behavior is vorticity-free.
+[813]
+
+Having worked at more than one large corporation, I can also attest that corporate decision-
+
+making is far from an optimal process, no matter how one defines optimality.
+[814]
+
+Ng and Russell 2000.
+
+[815]
+
+Doctorow 2024.
+
+[816]
+
+Ulam 1958; Vinge 1993; Kurzweil 2005.
+
+[817]
+
+Agüera y Arcas 2023.
+
+[818]
+
+See “Matryoshka Dolls,” chapter 5 and “Zombie-Free,” chapter 6.
+
+[819]
+
+Chalmers 2022.
+
+[820]
+
+Per John 1:1, “In the beginning was the Word.”
+
+[821]
+
+There are many technical arguments regarding the computational complexity of a simulated
+
+world compared to the world simulating it, and even whether it would be possible for worlds to
+simulate each other; Wolpert 2024.
+[822]
+
+Our bodies and brains have evolved for a finite lifespan, so learning and memory might pose
+
+profound challenges for a brain simulation living a subjective lifetime well in excess of a century.
+[823]
+
+S. Makin 2019.
+
+[824]
+
+Moravec 1988.
+
+[825]
+
+Hsiao 2012; Hawaii State Legislature 2021, 2024.
+
+[826]
+
+Ehrlich 1968; Worstall 2014.
+
+[827]
+
+For instance, in 1960, the total fertility rates (TFRs) of Qatar, Bahrain, Kuwait, and the United
+
+Arab Emirates were all around seven, meaning that the average woman gave birth to seven children.
+Then came the oil boom. Although they have remained Islamic patriarchies, by the 2010s, the TFRs
+of all of these newly wealthy countries had dropped below the replacement rate of two, matching that
+of Norway; Agüera y Arcas 2023.
+[828]
+
+Zelizer 1994.
+
+[829]
+
+Agüera y Arcas 2023.
+
+[830]
+
+Foot 1967; J. J. Thomson 1976.
+
+[831]
+
+Singer 2005.
+
+[832]
+
+MacAskill 2022.
+
+[833]
+
+In fairness, Bostrom writes in his more recent book, Deep Utopia, “I’m not a total utilitarian, or
+
+indeed any kind of utilitarian, although I’m often mistaken for one, perhaps because some of my
+work has analyzed the implications of such aggregative consequentialist assumptions. (My actual
+views are complicated and uncertain and pluralistic-leaning, and not yet properly developed.)” This
+may—or may not—reflect a change of heart. In Superintelligence, he certainly gives a lot of weight
+to “aggregative consequentialist assumptions.” Bostrom 2024.
+[834]
+
+The idea is to create a “Dyson sphere,” a thin shell of computing fabric fully enclosing the sun,
+
+thus capable of converting its entire energy output into computation; F. J. Dyson 1960.
+[835]
+
+To be sure, this idea has far older roots. In 1603, at the dawn of the Scientific Revolution,
+
+Francis Bacon wrote an essay whose title can be translated as “The Masculine Birth of Time, Or the
+Great Instauration of the Dominion of Man over the Universe”; Bacon 1603. The essay expressed
+
+Bacon’s fervent wish for science and technology “to stretch the deplorably narrow limits of man’s
+dominion over the universe to their promised bounds.”
+[836]
+
+This service is offered by the Alcor Life Extension Foundation. Extropian-in-chief Max More
+
+was Alcor’s CEO between 2011 and 2020.
+[837]
+
+In fact a standard Silicon Valley trope involves describing an idea that worked perfectly well,
+
+but only for a limited number of “users”; invariably, the raconteur then says they moved on to a
+“more scalable” idea to achieve “greater impact.”
+[838]
+
+Peter Singer, Nick Bostrom, and Sam Bankman-Fried have all been prominent Effective
+
+Altruists.
+[839]
+
+Faux 2023.
+
+[840]
+
+Doctorow and Stross 2012; Paura 2019.
+
+[841]
+
+Christian 2020.
+
+[842]
+
+Asimov 1950.
+
+[843]
+
+Co-granddaddy Arthur C. Clarke based the homicidal behavior and ultimate nervous breakdown
+
+of HAL 9000 on a similar premise; Clarke 1968.
+[844]
+
+LessWrong 2009.
+
+[845]
+
+Bostrom 2020.
+
+[846]
+
+I’m not convinced that most Utilitarians actually would. After all, they are just as human as the
+
+rest of us.

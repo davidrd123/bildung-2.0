@@ -1,0 +1,1027 @@
+7. Ourselves
+Block Diagram
+In an old-fashioned, block-diagram view of the brain, the blocks around
+the outside might have labels like “visual cortex,” “auditory cortex,” “motor
+cortex,” and so on. Implicitly, these are presumed to work like the
+peripherals of a computer, carrying out specialized processing to deal with
+their particular modality. (Robots, too, are usually built this way.)
+Neural signals would presumably flow in the obvious direction: inward for
+sensory modalities, outward for motor. Convolutional neural nets, whose
+design was directly inspired by visual cortex, seem in keeping with this
+view. They are fully feedforward, meaning their connectivity flows one
+way, from a “retinal” input layer to semantically meaningful output in an
+embedding layer.
+Those semantic embeddings, in turn, seem like the right kind of input to …
+what? Something needs to go in the middle, taking in the processed sensory
+input, making decisions, and generating high-level motor commands; we
+might as well call this the Central Processing Unit, though the usual
+innocuous label is something like “association cortex.” It’s hard to look at
+that block on the diagram and not think “homunculus.” For surely, that’s
+where “you” live. A perceptron, which merely turns pixels into embeddings,
+does not seem like a promising spot in the diagram for locating anything
+akin to a “self.”
+However, as the motor-first perspective laid out in chapter 4 implies, almost
+everything about this block diagram and its information-processing
+paradigm may be wrong. For one, I’ve argued that there is no homunculus.
+If there were, unplugging it would surely turn the lights out. Instead, when a
+good portion of the non-sensory-specific “association cortex” in the frontal
+lobes is destroyed or disconnected from the rest of the brain—as happened
+to many victims of the mid-twentieth-century lobotomy craze—the effects
+can be disconcertingly subtle, just as with split-brain patients.
+Emphasis is warranted on can be. The details of the procedure, and the
+nature and extent of the ensuing damage to the brain, varied considerably.
+
+Some victims of this brutal medical fad were killed outright by massive
+cerebral hemorrhage, or rendered profoundly disabled. After her lobotomy
+in 1941, for instance, Rosemary Kennedy, President John F. Kennedy’s
+sister, was left unable to walk, speak intelligibly, or use the bathroom; she
+required constant care throughout the rest of her life.
+Nonetheless, in 1942, star neurosurgeons Walter Freeman and James Watts
+claimed that, of the two hundred lobotomies they had performed to that
+point, sixty-three percent were “improved,” twenty-three percent were
+“unchanged,” and only fourteen percent were “worse.”[509] Rosemary
+Kennedy was one of those two hundred, and was presumably counted
+among the “worse.” While we must meet with skepticism any assessment of
+what constituted an “improvement,” figures like these do make it clear that
+most lobotomized patients didn’t end up like her. What, then, wondered
+Freeman and Watts, were the frontal lobes even for?
+“Neurologic manifestations are surprisingly slight following prefrontal
+lobotomy, and the old concepts of the frontal lobes as concerned with the
+higher integration of movements have had to be revised. [...] The
+psychiatrist must think out these problems and determine for himself what
+contribution the frontal lobes make to normal social existence [...].”[510]
+Another puzzle: as described in chapter 5, cortex is highly modular. In
+particular, while subtle differences exist between sensory and motor cortex,
+their structure and wiring are surprisingly similar. Both are dominated by
+recurrent connections, or feedback—shades of Wiener’s cybernetics.
+That seems especially odd for sensory areas. Perceptrons are entirely feedforward, and they do seem to capture something of what is going on in
+visual cortex. The “receptive fields” of units early in a convolutional net
+(that is, the visual patterns to which these model neurons are most sensitive)
+look uncannily like the receptive fields of real neurons early in the visual
+system. The sparse, semantically meaningful embeddings in the final layers
+of perceptrons also resemble the activation patterns recorded from higherlevel visual neurons.[511]
+Observations like these have led to debates between neuroscientists and AI
+researchers. Some (especially on the AI side) emphasize the functional
+similarities between brains and deep learning. Neuroscientists, at times
+
+irritated by the looseness of these parallels, point out the inconsistencies,
+including:
+● Real neurons communicate with spiking action potentials, not the
+continuous values of artificial neural nets.
+● Neurons and synapses are vastly more complex than their cartoonish
+deep-learning versions.
+● The backpropagation algorithm used to train perceptrons isn’t
+biologically plausible.[512]
+● Deep learning, true to its name, often relies on dozens or even
+hundreds of layers, while the brain only has a few layers. Brains
+would be useless if visual stimuli needed to pass through so many
+cortical layers, because neurons and synapses are so slow relative to
+computers; in real life, there’s often only time for sensory input to
+propagate through a few synapses before it must become a motor
+output, driving a behavioral response. And, of course,
+● Visual cortex, like all cortex, is dominated by feedback connections,
+while perceptrons are entirely feed-forward.
+The arguments have gone back and forth. Some of the objections raised by
+neuroscientists are easy to counter. For instance, the universal functionapproximation theorems mentioned in chapter 3 prove that, in principle,
+networks of complex spiking neurons can be approximated by (larger)
+networks of highly simplified model neurons. Researchers have also come
+up with versions of backpropagation and related learning rules that are more
+biologically plausible, and, while we don’t yet fully understand the
+neuroscience, there is evidence of such learning rules in the brain.[513]
+In 2018, machine learning researchers found that convolutional neural nets
+could reliably be fooled into making bizarre misclassifications using
+“adversarial stimuli,” which many at the time considered conclusive
+evidence that deep learning wasn’t anything like biological vision.[514] But
+countervailing findings in 2022 showed that the primate visual system
+could be fooled in just the same way, and to the same degree![515] So, the
+debate continues.
+Clearly, the shallowness of visual cortex and its highly recurrent
+connectivity can’t be finessed—in these respects, the brain is self-evidently
+
+not like a convolutional neural net (CNN). Structurally, visual cortex—in
+fact, all cortex—looks more like a “recurrent neural network” (RNN).
+
+Recurrence
+As the name implies, recurrent neural networks have both forward and
+backward connections. More formally, this means that neurons take inputs
+not only from other neurons in space (i.e., a previous layer) but also in time.
+That is, the output of a neuron at time step t becomes an input for neurons at
+time step t+1; weights associated with these inputs define the recurrent part
+of the network’s connectivity.
+
+Keep in mind that feedforward artificial neural networks are, by definition,
+both timeless and memoryless. When they evaluate an input, they do so
+independently of any other input; no time variable is involved. By
+introducing time, RNNs extend neural computation into the dynamical
+realm. That’s more realistic, as any physical system (including the brain)
+unfolds over time. The input weight associating each neuron with its own
+activation in the previous time step implements a memory mechanism in its
+simplest form: a degree of persistence in neural activity.
+Recurrent networks are generalizations of feedforward networks, in the
+sense that any feedforward net, like a CNN, can be implemented as a
+recurrent net. To see how, imagine replacing the CNN’s “spatial”
+feedforward connections with equivalent feedback connections. A CNN
+with one hundred layers would turn into an equivalent RNN that runs in one
+hundred time steps.
+Seen this way, the high proportion of recurrent connections in visual cortex
+might seem less surprising; those recurrent circuits could be implementing
+something like deep learning, but doing so in time rather than in space. In
+
+fact, since every kind of sequential neural processing must happen over
+time, the simple remapping envisioned here amounts to little more than
+notational sleight of hand.
+But what about reaction time? It would hardly be a good idea for you, as,
+say, a highly visual prey animal, to experience the world a hundred time
+steps in the past.[516] At t=0, a tiger might just be coming into view through
+the bushes. At t=8, it might have caught sight of you. At t=16, it might be
+tensing to pounce. By t=80, you might already be getting eaten, so there
+will be no t=100!
+No problem. Even when deep convolutional nets are optimized purely for
+accuracy, researchers have found it beneficial to add “skip connections” to
+the standard sequential information flow, allowing some activations to
+bypass layers.[517] Moreover, while making a feedforward architecture deep
+is a way of improving task performance, “early exits” can be used if the
+extra accuracy is unneeded—or if reaction time matters.
+After just a few CNN layers, or RNN time steps, the network can make a
+reasonable guess as to whether a cat is in the picture. Since the network’s
+accuracy isn’t great at this point, it can be tuned to prefer false positives
+over false negatives and immediately escalate the timely alert. That is
+indeed how we operate for highly salient stimuli; hence, the double take.
+(What’s that, a cat?)
+A few more layers, or time steps, can accurately establish whether the cat in
+question is of the small Felis domesticus kind or the potentially man-eating
+Panthera tigris. (Whew! It’s just a house cat.) It may take dozens of further
+layers, or time steps, to pinpoint the breed, guess the color of the eyes,
+establish its mood and likely state of mind; but in the recurrent setting, this
+is where we would say “upon closer examination….” Recurrent nets, then,
+can implement both rapid responses and the many-layered precision of
+CNNs, operating dynamically rather than as static functions.
+This dynamic aspect is the heart of the matter. The visual world is not a
+succession of uncorrelated still images, and the visual cortex is not an
+abstract, timeless mathematical function. In a continuously changing and
+temporally correlated world, where one’s actions (including perceptual
+actions, like saccades) determine what one sees, highly recurrent
+
+architectures are to be expected and classification is better thought of as
+continual prediction.
+Evaluating a CNN-like function from scratch for every visual frame would
+be madness; for one, it would be computationally wasteful, since, most of
+the time, each frame is nearly the same as the previous one. Worse,
+independent frame-by-frame processing would be incapable of
+reconstructing the visual world as it actually is. Building and maintaining
+the “controlled hallucination” described in chapter 4 requires integrating
+information over many frames. And that means memory. It is, almost by
+definition, a job for a recurrent network with persistent state.
+Imagine how the visual system of a Portia spider might work. Owing to the
+very narrow field of view of the spider’s high-resolution front-facing eyes, a
+frame-by-frame CNN would be nearly useless; for Portia, understanding a
+visual scene requires moving the eyes around dynamically and
+reconstructing a model of the world over time—not unlike the way a blind
+person can “see” someone’s face by touch, using their fingertips, though in
+Portia’s case, it would be more like a single fingertip. Large predators like
+birds, frogs, and mantises are the bane of Portia spiders, seemingly because
+they are too big to recognize in time![518]
+Humans can see more at once than Portia, but not nearly as much as we
+believe. If we were to experience our visual input feed in a rawer, less
+“hallucinated” form, it would look something like the shaky, grainy found
+footage of a horror film like The Blair Witch Project, with a flashlight beam
+jumping around spasmodically to illuminate a tree branch here, a bit of a
+face over there, the corner of a woodshed, a dark something on the ground.
+That horror trope will give you perceptual claustrophobia, a sense that no
+matter where you look, the stuff you really need to know about is
+happening offscreen—to one side, or above, or behind your back. Like
+Portia being hunted by a giant mantis, we would wish we could zoom way
+out and see what the hell is going on!
+If you don’t normally feel that Blair Witch sensation of near-constant panic
+—and dear reader, I hope you don’t—it’s not because you can see so much
+more at a time. It’s because your controlled hallucination is good enough to
+make you feel that you do see everything happening “offscreen,” although
+you can’t. That is, you have confidence that your continually updated
+
+prediction is accurately modeling every behaviorally relevant feature of
+your environment, well beyond the narrow cone of that jittery foveal
+flashlight beam.
+
+Efference Copy
+Prediction underlies intelligence at every scale. Per chapter 2, single cells
+like bacteria must predict sequences of events, both internal and external, to
+survive. Emerging evidence suggests that it’s also what single neurons do;
+their synaptic learning rules appear to give rise to local sequence prediction.
+[519]
+
+Cortical circuitry, too, appears to implement predictive sequence modeling.
+[520]
+This may account for the highly recurrent architecture of cortex,
+whether in perceptual, motor, or so-called “association” areas: since
+sequences unfold over time, any sequence predictor must also operate in
+time, which requires feedback connections.
+In visual (and other perceptual) areas, sequence prediction will also involve
+recognizing hierarchies of increasingly invariant features, like those of a
+feedforward CNN trained using the masked-autoencoder approach. This is
+because invariant features can be thought of as predictions. If you recognize
+that you’re looking at a banana, for instance, you can predict that it will
+remain a banana in the future, even if it rotates, you move closer or farther
+from it, or you look away and then look back at it.
+Now, consider what happens when multiple brain areas are connected,
+entangled in mutual prediction. Actually, we already have. Several brain
+areas are involved in eye movement,[521] but let’s ignore the anatomical
+details and pretend a single “eye motor region” sends signals to the small,
+fast-acting muscles that aim the eyes.
+First, consider the motor region in isolation. To carry out its own predictive
+processing, it will need to learn the basics of controlling eye movement:
+how to send signals to the muscles that result in predictable responses by
+the stretch receptors in those muscles. Three angular variables define each
+eye’s position, but six muscles control the movement, and many individual
+nerve fibers innervate each one. Our developmental programming ensures
+basic routing, such that relevant sensory and motor signals wire up to
+
+neurons in the right general areas. Still, learning oculomotor control is not
+trivial. When the sensorimotor loop isn’t perfectly tuned, the results may
+manifest as “lazy eye” or the oscillating pattern known as “nystagmus.”
+Wiener would recognize these as symptoms of excessive or insufficient
+negative feedback; the latter is akin to intention tremor.
+Meanwhile, the visual cortex will try to predict what imagery the retinas
+will see at any given time. In the service of that prediction, it will
+reconstruct an entire three-dimensional world. This seems so much loftier
+than what the eye motor region purportedly does that we might now be
+tempted to return to the homuncular fallacy, but with the shoe on the other
+foot: imagining that the visual cortex is the “boss” or “central processing
+unit” that orders the eye motor region around, telling it where to look next,
+treating it as a mere “peripheral.”
+But the shoes are, so to speak, on both feet. The eye motor region can and
+does move the eyes around of its own accord, perhaps in response to a
+vestibular input, a sound, a touch, or something else. It could even do so in
+response to nothing. After all, we decide to do things all the time for
+reasons of our own, that is, not as immediate responses to an outside
+stimulus. Remember that, in a distributed picture of self, these decisions
+could be initiated by nearly any brain region. All of your brain regions are
+“you.”
+Communication between the visual cortex and the eye motor region, then,
+does not merely consist of a one-way stream of gaze coordinates sent from
+one region to the other. It’s a two-way dialogue, communicating (in
+compressed form) the most useful aspects of the state of each region to the
+other.
+By most useful, I mean most helpful in predicting the future for the
+receiving region. In general, rather than imagining region A sending
+“commands” to region B, imagine region B containing “sensory” neurons in
+region A, with the goal of finding the most salient information for making
+its own predictions. Visual cortex, then, will want to learn from the eye
+motor region about eye movements when they occur, because that will help
+predict what the visual cortex “expects” to see next. The eye motor region,
+in turn, will want to learn from visual cortex where the most interesting
+spots in the environment are, because knowing those will help predict
+
+where the eyes will next look. The regions are cooperating to better predict
+themselves, and in the process, better predict each other. Yes, it sounds
+more than a bit like theory of mind—but carried out between brain regions!
+This picture makes a counterintuitive experimental prediction: that signals
+specifying movement will actually be sent from motor regions to other parts
+of the brain, rather than vice versa. And that is indeed the case: it’s called
+the “efference copy.”
+In the mid-nineteenth century, pioneering German physicist and protoneuroscientist Hermann von Helmholtz first suggested that something like
+the efference copy must exist. He noticed that if you cover one eye, then
+press gently on the other eyeball (but do this through the lid please, and
+gently—don’t hurt yourself and then blame me) you will see the world
+appear to move. This is interesting, because when you move your eyeball
+the usual way, the world seems to stay rock steady, although the images
+your eyes see are anything but steady. The visual system must therefore do
+something like self-motion cancellation, and this must make use of an
+extremely accurate real-time eye movement signal—the efference copy.
+Helmholtz reasoned that when you press your eyeball, there is no efference
+copy from the eye muscles corresponding to that displacement, so the visual
+system’s usual “motion cancellation” doesn’t compensate for it.
+Helmholtz was right, but in 1900, Sir Charles Sherrington, an enormously
+influential neuroscientist who later won the Nobel Prize, cast doubt on the
+efference copy idea, causing it to languish for decades.[522] Having spent a
+significant part of his career exploring spinal cord reflexes, the
+sensorimotor pathways Sherrington had mapped out didn’t seem to involve
+anything like an efference copy, just stimulus, response, and feedback from
+stretch receptors in the muscles.[523] Later in the twentieth century, though,
+as neural recording technology improved, numerous studies found that
+efference copies are real and ubiquitous—not just for eye movements, but
+for all motor activity, and across species.[524]
+But why is it called a “copy”? Perhaps because the homuncular fallacy dies
+hard; we persist in imagining that motor regions are sent movement
+“commands” from on high, and then (somewhat bafflingly) send a carbon
+copy of these “commands” back to the sender—presumably, the “you” part.
+In reality, your motor regions are as much “you” as any other part of your
+
+brain, and while signals traveling to the motor regions surely carry
+information about future movement, thinking of them as “commands” and
+of signals going the other way as “copies” of those commands misses the
+point.
+In the case of eye movement, the mistake may be easy to make because the
+eyes do generally look at whatever is most interesting, but that neither
+makes the motor region subservient to the visual cortex nor alters the fact
+that the motor region and the visual cortex are both doing the same thing:
+prediction.
+
+Phenomenality
+In case you’re not yet convinced that the brain serves the muscles at least
+as much as the other way round, consider the meaning of “behaviorally
+relevant,” the term I’ve used to describe what is in our umwelt, that is, what
+we perceive and what we care about. Behaviorally relevant means relevant
+to the muscles! If we can’t act on it, it doesn’t matter. And for creatures like
+us, just as for early bilaterians like Acoela, all action is muscular.
+To be sure, a long evolutionary road leads from worms to humans … but
+it’s a continuous road. Our bodies are still, to no small degree, autonomous
+entities, surprisingly independent of our more recently evolved brains.
+Remember, if kept alive, our hearts will keep beating even if removed from
+our bodies, as Indiana Jones found out in the Temple of Doom. Like an
+inner worm, our gut continues to work under largely local control, with a
+decentralized “autonomic” nervous system serving the original functions of
+long-range muscular coordination.
+Our blood vessels, too, are made of muscle, and regulate the flow of
+nutrients to every region of the body. To put it bluntly, they decide who gets
+to eat, and when. Because the brain is so voraciously energy-hungry,
+regulation there is especially fine-grained, with individual capillaries
+feeding less than a cubic millimeter of brain tissue dilating and contracting
+from second to second. This differential flow of oxygenated blood is the
+signal measured by functional magnetic resonance imaging (fMRI), one of
+our most important tools for mapping brain activity.
+The brain, in turn, consists of multiple systems layered atop each other,
+repeating the same broad functional pattern: newer or “higher” levels
+
+provide behaviorally relevant long-range prediction and thereby pull
+enough weight to earn their keep, but augment a largely autonomous
+underlying architecture.
+Hydrancephaly—a rare disorder in which babies are born without any
+cerebral cortex—offers surprising insight into how much human behavior is
+independent of these “higher” brain areas: “These children are not only
+awake and often alert, but show responsiveness to their surroundings in the
+form of emotional or orienting reactions to environmental events [...], most
+readily to sounds, but also to salient visual stimuli [...]. They express
+pleasure by smiling and laughter, and aversion by ‘fussing,’ arching of the
+back, and crying [...], their faces being animated by these emotional states.
+A familiar adult can employ this responsiveness to build up play sequences
+[...] progressing from smiling, through giggling, to laughter and great
+excitement on the part of the child.”[525]
+
+This quotation is from a paper arguing that consciousness may be possible
+without a cerebral cortex—which certainly opens a can of worms for
+philosophers committed to the (anthropocentric) view that consciousness
+requires a big brain. We can most easily recognize what smiling, laughter,
+and fussing look like in a fellow human, but I have little doubt that
+
+consciousness in this purely experiential sense is far from unique to our
+species.
+Consciousness in the more computationally demanding “strange loop”
+sense described in chapter 6 involves the ability to model oneself
+recursively, which goes well beyond the ability to experience in-themoment percepts and feelings. It’s what gives us higher-order theory of
+mind, self-reflection, the capacity for free will and informed choice,
+planning, and (insofar as we can be said to possess it) “rationality.” All of
+that may well require cerebral cortex, or its functional equivalent.
+The two senses of “consciousness” described above require us to revisit that
+old bugbear, the philosophical zombie, once more. Remember that “strange
+loop” consciousness gives us evolutionary advantages, both individually
+and socially. It allows us to plan better, understand others better, teach and
+learn, divide labor, and much else. All of these advantages manifest
+behaviorally; otherwise, they could not have affected our odds of survival,
+hence there wouldn’t have been any evolutionary pressure for the
+underlying capability to evolve.
+Because “strange loop” consciousness manifests itself behaviorally, it can
+be probed experimentally—for instance, with the Sally-Anne Test. Versions
+of the test could also be devised based on time travel and counterfactuals
+rather than third parties—requiring that you be able to model what you
+would and wouldn’t know or do under various hypothetical circumstances.
+Being able to model yourself and others is, in other words, a skill, first and
+foremost. It’s obvious why, as social animals, we have evolved it.
+But what about the ineffable, experiential aspect of consciousness, or what
+philosophers like to call “phenomenal consciousness”? Is that really just the
+simpler kind of experience (including of pain, hunger, and so on) that all
+living things appear to have, and for good reason, as described in chapter 2?
+Is it something beyond those primal feelings, requiring higher-order
+modeling? If so, could the skill of modeling yourself (and others) be present
+without the actual feeling of being a self?
+What leads some philosophers to wonder about zombiehood is the sense
+that each of us has a feeling of what it’s like to be us. That feeling is wholly
+inaccessible from the outside, needn’t manifest behaviorally, and therefore
+can’t be tested by any means.
+
+Locked-in syndrome, in which brain damage causes near-total or total
+paralysis, offers a horrifying illustration of how consciousness and behavior
+can be decoupled.[526] Locked-in people are fully aware, but if their paralysis
+is total (and absent brain-recording technologies) they can’t communicate
+or behave voluntarily in any way. A philosophical zombie would be the
+opposite: communicative behavior would be present and convincing, but
+there would be no awareness on the inside—and no way for us, on the
+outside, to tell.
+Knowing whether someone is locked-in or mentally absent obviously
+matters when it comes to our behavior. During major surgery, for instance,
+we presume that general anesthetic causes a patient’s consciousness to
+switch off; so if the surgeon wants to listen to “Comfortably Numb” while
+operating, there’s no need to check in advance whether the patient is into
+Pink Floyd. On the other hand, playing the song on repeat in a room with a
+locked-in patient who hates Pink Floyd would be torture.
+Our understanding of whether and when someone is “there” has changed
+over time. It used to be commonplace to circumcise baby boys without
+anesthesia, under the theory that newborns can’t experience pain. Most of
+us today regard this as barbaric, but the truth is that no adult has firsthand
+knowledge of what newborns can and can’t experience, because we can’t
+remember anything that far back.
+Clearly, if we believe philosophical zombiehood exists, that, too, would be
+behaviorally relevant for us, because it would imply a different standard of
+care. Nicholas Humphrey is of the opinion that phenomenal consciousness
+actually requires a model of oneself, so, for him, the obvious signs of
+happiness or discomfort evinced by hydrancephalic babies amount to a kind
+of zombiehood. This seems reminiscent of Descartes’s beliefs about
+animals, though, in Humphrey’s view, the line isn’t between humans and
+everything else, but between the warm-blooded social animals—birds and
+mammals—and the rest. I guess he would say that your pet gerbil has a
+soul, but your pet iguana doesn’t.
+This distinction may have some validity. For instance, in the plight of
+people with terminal illnesses, or inmates of concentration camps, we
+distinguish between pain and suffering. Pain is comparatively easy to
+understand, though hard to articulate; it’s what we’re referring to when we
+
+say something hurts, and mean it literally.[527] Suffering, on the other hand,
+includes the awfulness of anticipating future pain, or dire social
+consequences, or experiencing shame, or loss. It can be accompanied by
+pain, and deepen it—for instance, knowing that a sharp stinging sensation
+in your eyes after an industrial accident could presage permanent blindness.
+Or it could be unaccompanied by physical pain, as in reading a message
+that a loved one has died.
+These higher-order experiences clearly require varying forms and degrees
+of self-modeling, time travel, counterfactual analysis, and theory of other
+minds. It’s even possible for such high-order processing to override the
+primary experience of pain, as when it is sexualized for people who are into
+BDSM, or when we’re being stoic, or eating spicy food, or squeezing a zit.
+Still, while it’s meaningful to draw a distinction between pain and suffering,
+I find it far from obvious that such a distinction is either sharp or binary.
+Remember, back in chapter 2, the construction worker with the nail through
+his boot, in agony despite being unharmed, in contrast with the man who
+walked around for a week oblivious to the four-inch nail penetrating his
+brain. Or, think about how grief can feel like physical pain.
+In the 1970s, animal behaviorist and autism advocate Temple Grandin
+began redesigning cattle slaughter facilities to minimize the suffering of
+livestock, basing her designs both on intuition (that is, on highly sensitive
+theory of mind) and on quantitative measurement of stress behaviors.[528]
+Cattle are mammals, not so different from humans, so Humphrey, Grandin,
+and probably most of us today would acknowledge that they can experience
+both pain and at least some degree of suffering. However, we also know
+that they aren’t capable of as high-order a theory of mind, or as
+sophisticated a world model, as humans.
+Hence, when animal-rights advocates compare cattle facilities to
+concentration camps, they are only partly right; the analogy is
+anthropomorphic. Indeed, for Grandin to effectively exercise compassion in
+her designs requires transcending that anthropomorphism to model
+something closer to the cow’s real experiential and self-reflective umwelt,
+rather than thinking about her as one would a human inmate. The cow’s
+suffering may be intense if she can hear and see another cow in pain, but
+
+she is probably not so bothered by an existential dread that each day may be
+her last.
+I’m less confident that we can accurately assess an iguana’s inner life. It’s a
+safe bet that it has significantly less modeling capacity than a cow, but it
+seems a stretch to claim, as Humphrey does, that it has no model of itself.
+Iguanas hunt, mate, and sometimes fight with other iguanas over territory,
+resources, or mates. An adult male will regard other adult males
+aggressively, but not females or juveniles.
+We may aver that these behaviors are “instinctive,” but it doesn’t seem
+relevant whether the neural circuitry in question is learned during the
+animal’s lifetime or encoded genetically (that is, learned by evolution). The
+point is that mentalizing, whether learned or instinctive, arises precisely to
+support such behaviors. So while I doubt an iguana thinks much about next
+week, or wonders whether that food stuck on his chin ruins his looks, it
+seems odd to me to claim that he can’t experience pain, or hunger, or a
+sinking feeling when his social standing is imperiled by an interloper.
+
+Blindsight
+It may seem puzzling for Humphrey to deny that iguanas have such
+experiences (or any experiences), given his founding role in formulating the
+social intelligence hypothesis. Why does he take such an exclusionary
+view? As it happens, his reasoning has much to do with another of his
+claims to fame: the discovery, early in his career, of “blindsight.”[529]
+Humphrey began his PhD research in Lawrence Weiskrantz’s lab at
+Cambridge in 1964. Like Hubel and Wiesel across the Atlantic, Weiskrantz
+was studying vision. He had devised a particularly drastic surgery,
+involving the total removal of a monkey’s visual cortex, to confirm the
+seemingly obvious: that a monkey without a visual cortex would be totally
+blind.
+Initially, that appeared to be the case. Partway into the PhD, while
+Weiskrantz was away at a conference, Humphrey began working with
+Helen, a macaque monkey whose visual cortex had been removed a year
+and a half earlier. Throughout that long period, Helen had shown no signs
+of being able to see, beyond a rudimentary ability to distinguish light from
+
+dark—as if each retina had been reduced to a single giant pixel or “light
+bucket.”
+However, Humphrey had reason to wonder if this was the whole story. As it
+turns out, a much older visual pathway, also present in fish and frogs (which
+lack cortex), runs from the eyes to the “optic tectum” in the midbrain.
+Humphrey had been recording from visually sensitive neurons in the
+monkey midbrain and discovered that they had localized receptive fields,
+not so unlike the neurons Hubel and Wiesel had been recording from in the
+cat visual cortex. Was it possible that Helen could learn to use this older,
+still intact pathway to see again?
+
+The answer seemed to be both yes … and no. Despite appearing to be
+functionally blind, Helen was often, “despite herself, [...] looking in the
+right direction.”[530] With tasty treats and lots of patience (he worked with
+her for seven years!), Humphrey taught her to once again become
+competent at many visual tasks, including moving around novel
+environments, climbing trees, finding and picking up small objects—in
+short, just the sorts of tasks that drove the evolution of primate vision.
+
+However, Humphrey continued to feel that something was odd about how
+she performed these tasks. It was as if she didn’t know she could perform
+them, and needed to relax to allow herself to be competent at them. Under
+performance pressure, as when a distinguished visitor came by the lab and
+wanted a demo, she froze up and seemed once again unable to see, as if,
+when overthinking it, she still believed herself to be blind.
+Humphrey wrote up these findings in a 1972 paper entitled “Seeing and
+Nothingness,” predicting that the same might occur in humans, too, under
+similar circumstances.[531] A side note: I find it fascinating that Humphrey
+was able to deduce so much about Helen’s subjective experience, despite
+the species barrier, lack of any common language, and the profoundly
+counterintuitive nature of what he described. As with Temple Grandin’s
+work, it’s a wonderful instance of cross-species theory of mind.
+The theory was right. Two years later, in 1974, Weiskrantz had the
+opportunity to study a human patient, known as D. B., whose right visual
+cortex had been removed to cure intractable headaches. The result appeared
+to be total blindness in the left visual field, as one would expect. However,
+
+Weiskrantz pressed D. B. to try to perform tasks involving the left visual
+field anyway, much as Humphrey had coaxed Helen, beginning with
+pointing to a light, then guessing the shape and color of an object, and so
+on. To the patient’s own surprise, he found that he could do these things
+reliably if he allowed himself to, even though they seemed to him like
+random guesses. Weiskrantz named this bizarre phenomenon “blindsight,”
+and, on the offprint he mailed to Humphrey announcing the discovery, he
+wrote HELEN IS VINDICATED.
+In the years since, patients with blindsight have shown that they can
+perform many tasks involving their subjectively “blind” visual areas,
+including spatial understanding, assessing the emotional expressions of
+faces, and even reading words.[532] In 2008, a stroke patient who, like Helen,
+had no remaining visual cortex, was filmed walking down a cluttered
+hospital hallway, carefully avoiding every obstacle. He considered himself
+totally blind.[533]
+
+The existence of the ancient, subcortical visual pathway enabling blindsight
+explains how some hydrancephalic children can still respond to visual
+stimuli, despite having no cortex. It also explains Humphrey’s belief that
+hydrancephalic children—along with reptiles and amphibians, whose vision
+is powered entirely by this pathway—have no consciousness.
+It seemed to Humphrey like a knock-down argument: if D. B. could be
+competent, yet not conscious, when it came to tasks involving his left visual
+field, then competence and consciousness could be decoupled. Further,
+consciousness appeared to reside in the cortex, even though the older
+subcortical areas are perfectly competent at all sorts of tasks. This line of
+thinking would thus hold that frogs, iguanas, and hydrancephalic children
+may be able to behave in various ways, but, lacking cortex, they must not
+be conscious.
+
+Blindsight is a fascinating and important phenomenon, but I think that
+Humphrey’s interpretation of it runs afoul of the homuncular fallacy. As
+with Descartes’s pineal gland, Humphrey presumes that consciousness is
+singular and unified, located in one place in the brain. If it’s in the cortex, it
+can’t be elsewhere too. But, to put it bluntly, why would we believe
+somebody when they say that “they” can’t see, or are unaware of, what is in
+their left visual field, when they are clearly able to act as if they are aware?
+As split-brain patients demonstrate—indeed, as any of us demonstrates in
+choice-blindness experiments—the “self” that forms the words coming out
+of our mouths is not our whole self; it’s just the interpreter, located in a
+particular region of the left hemisphere of the cortex.[534] And neither the
+interpreter nor any other brain region is connected to, has visibility into, or
+can model every other part of the brain. Connectivity is in fact quite sparse,
+and each region is doing a great deal of guessing about what the other
+regions it can “perceive” are up to. If region A has no connectivity to region
+B, then no activity in region B can be part of A’s umwelt. Not only can A
+make no guesses about what’s going on in B; it’s not even aware of B’s
+absence, any more than you sense the absence of input from my eyes.
+Yet “you” includes all your brain regions, and all of them include (partial)
+models of “you.” So, at bottom, blindsight only proves that more than one
+brain region is modeling signals from the eyes, but the interpreter is only
+directly hooked up to (and therefore modeling) one of these regions—and,
+unsurprisingly, it’s the neighboring cortical region.
+A pathway remains between the midbrain’s visual region and the muscles,
+though. As long as motor cortex doesn’t get stressed out and blindly grab
+the controls, that older visual-motor pathway can conduct intelligent,
+sighted behavior, although any actions that result will seem random to the
+interpreter, like stabs in the dark.
+None of this implies that language is required for consciousness, or even
+that language understanding is restricted to a single brain region. We know,
+from split-brain experiments, that the right hemisphere can understand
+language too, or it wouldn’t be able to follow directions, like “stand up and
+walk around.” It’s probably not as good at language, due to division of labor
+and specialization. Blindsight experiments suggest that even subcortical
+visual areas can read, at least a little. But in most people, neither these
+
+subcortical areas nor the right hemisphere has developed the skill (or is
+wired to the right bits) to drive the lungs, larynx, tongue, and lips to
+produce speech. So, the neuroscientist’s auditory cortex will only hear
+whatever the patient’s left hemisphere interpreter has to say.
+My guess is that plenty of intelligence, self-consciousness, and even social
+modeling resides in both the right hemisphere and the “lower” brain regions
+(especially when connected regions can model and learn from one another).
+We have all had experiences in which we realize, belatedly, that we
+somehow already knew something, had seen something, or had understood
+something well before our interpreter got wind of it. The phrase
+“subconsciously aware” is often used to refer to such situations, but that’s
+yet more homuncular thinking. Since our interpreter is such a talented
+bullshitter (and probably every other brain region is too), I suspect we
+usually don’t even realize when this has happened, but instead instantly
+rewrite the narrative—“of course I already knew that!”—for various
+slippery definitions of “I.”
+Possibly the “higher” cortical regions of the brain are in some sense “more
+conscious” than the lower regions for reasons already covered: the socially
+driven explosion in cortical volume implies that a good deal of the cortex’s
+job is to model people and manage the higher-order relationships between
+them. That implies higher-order “strange loop” modeling of the “self.”
+Since the prefrontal cortex isn’t directly innervated by sensory inputs or
+motor outputs, it doesn’t need to carry out detailed modeling of those more
+immediate signals, which might free up capacity for such higher-order
+modeling. We know that this is the part of the brain whose size has
+expanded most in modern humans, and that damage to prefrontal cortex
+impairs both social function and “executive control,” the kind of planning
+and decision-making requiring mental time travel.
+Still, I don’t think one should draw a boundary someplace in the brain—
+whether vertically through the corpus callosum, horizontally between the
+cortex and the older parts, or between the front and back parts of the cortex
+—and call the regions on one side the “conscious” part where a little
+fountaineer resides and the rest a mere “cerebral machine.”
+A more distributed, less homuncular understanding of consciousness
+follows from Humphrey’s own social-intelligence hypothesis. We must
+
+simply follow its implications a bit further to understand that it applies
+within a single brain as well as between brains.
+
+Subbasement
+Many other books on intelligence focus on the brain’s evolution and
+functional architecture. Max Bennett offers an especially interesting
+synthesis combining evolutionary and functional perspectives in his 2023
+book A Brief History of Intelligence,[535] although, as with all grand theories
+about the brain, some of his claims are controversial.
+Unlike Bennett, or most researchers willing to go on record, I am convinced
+that today’s AI systems are truly intelligent, and this in turn has convinced
+me that the trick behind intelligence is simple, generic, and universal: it’s
+autoregressive prediction all the way down. Hence I’ve concentrated mainly
+on explaining this general principle and its implications, rather than delving
+into the neuroscience in any detail.
+We’ve caught glimpses here and there of how our brains divide up the
+work, whether in Hubel and Wiesel’s model of hierarchical visual
+processing, accounts of split-brain patients, or the blindsightedness of Helen
+the macaque. These examples have emphasized the role of the cerebral
+cortex, the most recent evolutionary addition to our complex, highly
+evolved brains—and perhaps, given the wide range of modalities it can
+handle with little apparent variation in its organization, the most generalpurpose. In the next section, we’ll explore the cortex a bit more
+systematically. But first, let’s consider the brain’s subbasement—its older,
+deeper structures.
+
+The earliest known vertebrates, bony fishes dating back to the Cambrian
+explosion, likely had brains organized roughly like ours, though smaller,
+with the parts scaled differently. Some parts we have were entirely absent.
+However, the basal ganglia, a collection of “nuclei” (meaning anatomically
+distinct clumps of neurons with characteristic connectivity) in the center of
+the brain, were already in place. So was the “medial pallium,” which
+evolved into the “hippocampus” in the mammalian brain. I’ll offer a brief
+account of these structures, not because they’re the only other important
+parts of the brain (there are many), but because what we know about their
+evolution and function ties into this book’s larger themes.
+The hippocampus, Greek for “seahorse,” is a whorl of brain tissue named
+for its distinctive shape. Located deep in each cerebral hemisphere, it plays
+key roles in sequence learning, spatial navigation, and memory formation.
+Its original function was likely the real-time construction of spatial maps—
+
+a function of great value to any animal that can move through a stable
+environment under its own power.
+Since the 1950s we’ve known that the hippocampus is essential for forming
+“episodic” (that is, autobiographical) memories in humans, thanks to the
+case of Henry Molaison. Known during his lifetime as H. M., he is perhaps
+the most famous neuropsychiatric patient of all time.
+As a teenager, he began to experience epileptic seizures; the attacks
+worsened over time, becoming debilitating. In 1953, at age twenty-seven,
+neurosurgery was attempted as a last-ditch treatment. The neurosurgeon
+determined that the medial temporal lobes on both sides of Molaison’s
+brain, which include the hippocampi, were the foci of the seizures, and had
+already atrophied significantly due to the nonstop electrical activity.
+Accordingly, they were removed completely.
+Although partly successful at limiting the seizures, the surgery left
+Molaison with total “anterograde amnesia”—an inability to form new
+memories. He seemed unimpaired during normal interaction, retained most
+of his pre-surgery memories, and had a normal short-term memory, but if
+his attention wandered, it was (for him) as if the interaction had never taken
+place. By the time of his death in 2008, his last memories still dated back to
+1953.[536]
+What are we to make of the fact that the hippocampus is needed to form
+memories, but not to store or recall them? One popular theory posits that,
+perhaps due to its original function as a spatial mapper, the hippocampus
+can memorize sparse patterns of sequential activity in the cortex in a single
+shot, as would occur when you move through a novel environment and
+neuronal populations representing invariant high-level concepts light up,
+one after another. This is still the way we give directions, as in: “follow the
+road until you see a gas station, then a farm stand selling bananas, then a
+billboard with Pamela Anderson,” and so on.
+If salient, these sequences can be “consolidated” into a unified
+representation in the slower-learning cortex through repeated replay. This
+may be one of the key functions of sleep; repeated faster-than-real-time
+replay of previous experiences has been recorded in the brains of sleeping
+animals,[537] and we know that memory formation suffers under sleep
+deprivation.[538]
+
+If true, this sequence learning story offers an interesting case of division of
+labor between the hippocampus and the cortex. The hippocampus is fast but
+limited in complexity, while the cortex is slow but much larger and richer in
+associative connections. So, the hippocampus does rapid one-shot learning
+from the cortex in the moment, then, during sleep, the cortex elicits replaybased training from the hippocampus.
+The basal ganglia play a central role in the kind of reinforcement learning
+described in chapter 4. They appear to integrate and select among
+competing activation patterns in other brain areas and choose among
+possible actions, mediated by dopamine. This softmax-like behavior
+governs what we often call our low-level or “autopilot”-style decisions.
+Such habitual behaviors seem to require little involvement from the cortex.
+These include so-called “muscle memory”; motor skills that need “no
+thinking” (handled by the nuclei toward the back); and associations
+between stimuli and actions driven by simple higher-level goals, such as
+cravings and addictions (handled by the nuclei toward the front).
+The behaviors of fish and amphibians appear to be driven mainly by this
+reinforcement learning–like mechanism, which lacks a higher-level
+predictive simulation of the world, of others, or of the self. Such “higher”
+functions appeared in the earliest mammals, with the growth of the
+“neocortex.”
+
+Neocortex
+The neocortex, which I’ve been referring to simply as the “cortex,” is the
+visible outer part of an intact brain, consisting of unmyelinated “gray
+matter” rich in local connectivity. The “white matter” making up much of
+the brain’s interior is the myelinated wiring connecting parts of the cortex to
+each other and to deeper brain areas.
+
+The rear half of the cortex is sensory, and is divided into areas specializing
+in vision, sound, touch, and other modalities, with the areas allocated to
+each giving a sense of their importance to an animal’s umwelt. In rats, for
+instance, the “barrel cortex,” occupying a large expanse of the touchsensitive or “somatosensory” region, is dedicated to the whiskers, which
+they are adept at using to “see” in the dark.
+The front half of the cortex, or “frontal cortex,” is highly developed in
+humans. In very broad strokes, its function appears to be simulating oneself
+and others. Abutting the somatosensory region is a thin band called the
+“motor cortex,” generally associated with controlling bodily movements.
+Moving forward from there, we find the “premotor cortex,” and, at the front
+end, just behind the forehead, the “prefrontal cortex.”
+The prefrontal cortex specializes in theory of mind.[539] Damaging it often
+doesn’t have any catastrophic effect on sensory or motor skills, or on IQ test
+scores.[540] There are even occasional reports of performance on various
+intelligence-related tasks rising after a prefrontal lesion![541] Perhaps when
+
+we stop thinking so much about what others think about us, or what they
+think we think others think we think about them, etc., we find it easier to
+stay on task.
+Yet the prefrontal cortex is the region that has most obviously grown along
+the primate lineage, and most dramatically in humans. Consistent with the
+social-intelligence hypothesis described in chapter 5, this highlights the
+fundamentally social nature of human intelligence. When we can better
+model others, we develop stronger collective intelligence, generating a
+group-level advantage. But probably “multi-level selection” is afoot here
+too, since sophisticated social modeling also makes us individually fitter by
+allowing us to exploit the specialized intelligence of others to meet our own
+wants and needs.
+To cite an extreme example, domesticated dogs and cats use social
+modeling, or, colloquially, “EQ” (“emotional intelligence quotient”) to get
+us to do their “IQ thinking” for them—and, indeed, pretty much all the
+labor (working animals excepted). Not only do we provide more reliable
+food and shelter than they could ever obtain on their own; we even do
+veterinary research, developing drugs and other treatments for them that
+are, intellectually speaking, well out of their league. As a result, they live
+far longer than their wild cousins do, and proliferate in far greater numbers,
+across a vast range of otherwise inhospitable ecological niches. The cost, of
+course, is that most of them are silly and incompetent (sorry, guys) relative
+to their hardier wild cousins. Flat-faced Persians and yappy Chihuahuas are
+unlikely to survive the zombie apocalypse.[542]
+In a way, we are all like each others’ cats and dogs. Sure, many of us do
+some honest work. But when was the last time you hunted or scavenged
+your own dinner, made your own clothes, built your own shelter, developed
+your own antibiotics, or delivered your own baby? Our hardier primate
+ancestors managed things just fine on their own that we cannot.
+Nor are these changes purely cultural. Neanderthals, who were also highly
+competent generalists, had warmer fur and more serious digestive tracts
+than we do—and bigger brains. In the latest, briefest chapter of our genetic
+history, coinciding with the rise of rapid cultural accumulation, it looks as if
+our overall brain volume has started to decrease as we specialize and rely
+
+increasingly on one another for mutual aid.[543] Such is the legacy of our
+expanding prefrontal cortices.
+
+Combining this short and admittedly scattershot tour of the human brain
+with our story so far suggests a few takeaways:
+1. Many brain regions, not just cortical areas, are sequence
+predictors.[544]
+2. Different brain regions predict effectively over different
+timescales, with later-evolving regions generally capable of more
+complex predictions over longer timescales. Presumably, this is
+enabled both by more powerful learning architectures and by
+increases in size. Humans, notably, are the strongest known
+sequence learners, by far; this is one of the few credible
+proposals marking a real cognitive “divide between humans and
+other animals.”[545]
+3. Brain regions actively predict each other and, where they are
+connected to sensory inputs or motor outputs, they predict those
+inputs and outputs.
+4. Hence, the way they are wired together largely determines what
+they predict and which information resources they can marshal to
+do so.
+5. Effective mutual prediction involves mutual learning.
+6. The brain’s division of labor is not perfectly clean or
+mathematically definable, which is a good thing. It allows, for
+instance, one brain area to learn something first, then teach it to
+others, whether for lower latency, robustness, parallelism, or
+greater generality. This wouldn’t be possible if the brain areas in
+question were not capable, to some degree, of sequence learning.
+7. Referring to older regions like the basal ganglia as “unconscious”
+or implementing an inner “autopilot” presumes that they aren’t
+really part of us, but are peripherals relative to a homunculus
+elsewhere in the brain. Perhaps what we really mean is that the
+interpreter doesn’t have complete access to these older regions.
+This lack of access may be a useful feature, as it allows skilled
+and low-latency moves, which may have been arduously learned
+first by the cortex—like returning a squash serve, for instance—
+to happen in parallel with (and without interrupting) slower, more
+deliberative cortical processing. In this case, the division of labor
+
+looks like tactics versus strategy. It takes a village … and your
+brain is a village.
+
+Social Neuroscience
+You may at this point be wondering why, if the goal of an intelligent
+system (whether a cell, a brain region, or a person) is simply to predict its
+own future, it wouldn’t cheat in order to make that job as easy as possible.
+It could, for instance, predict that it will do and experience nothing, and
+proceed to … do and experience nothing. Mission accomplished!
+This is called the Dark Room problem, for self-evident reasons.[546] In fact,
+people living with severe depression can fall victim to something like it,
+and end up spending a lot of time in that Dark Room, either sleeping or
+unable to motivate themselves to get out of bed.
+Back in chapter 2, we encountered the reason this doesn’t usually happen.
+Remember that if a bacterium predicts its own demise, it won’t be around to
+make any more predictions after that; in fact, the capacity to predict evolves
+in the first place precisely to avoid that outcome. That’s why the variables
+predicted by a living system include internal correlates of dynamic stability,
+like hunger, satiation, tiredness, and anticipation. Obeying the imperatives
+of these variables is required for survival, hence necessary to predict (or to
+have) any long-range future.
+Remember, also, that for highly social beings, interdependence is the norm.
+You survive by the grace of others. You can’t reproduce without others.
+(That’s why loneliness is also one of those highly salient variables.) So, you
+can’t be a dead weight. Even pet cats and dogs aren’t useless, in the end;
+they hold up their end of the bargain with various forms of “emotional
+labor.”
+Brain regions are mutually dependent, too. They depend on each other for
+signals; they model each other and are each others’ umwelt. Recall that they
+are also expensive. Brain tissue consumes energy voraciously, accounting
+for twenty percent of our metabolism despite massing only two percent of
+body weight. Every enlargement of the brain also comes at the cost of
+increasing mortality for mother and infant alike during childbirth. (An
+octopus may be able to slip through an opening the size of its eye, but for a
+human baby, the skull is the limiting factor. And our skulls are big.) In
+
+short, if a brain region doesn’t pull its own weight, and then some, the
+genetic code to build it won’t endure in the germline.
+Competition also occurs during brain development. Neural wiring
+proliferates in an infant’s brain, but many connections subsequently retreat
+or get pruned back.[547] Brain development is still poorly understood, but it
+seems likely that the resources to maintain any given neural connection are,
+in one way or another, granted by the receiver of the information flowing
+across that connection. The longevity of such a connection will be based on
+the value it offers—that is, on its ability to aid in the receiver’s prediction of
+the future.
+All unsupervised sequence learning with some form of backpropagation can
+be understood in the same terms. Synapses are strengthened when they help
+the receiver predict the future and are weakened when they don’t.
+Nothing, therefore, can get away with retiring to a Dark Room for too long:
+not a synapse, not an axon, not a neuron, not a cortical column, not a brain
+region, not a brain, not a whole person—because relationships are
+everything. Not helping others is a fast route to losing relationships, and
+lack of relationships leads to literal non-existence.[548]
+We can take this concept of “social neuroscience” (or “neuroeconomy”) a
+step further by asking whom the interpreter serves. Who benefits? Yes,
+language is a powerful tool for thought. However, language is, first and
+foremost, social. You already know what you’re thinking. Your interlocutor
+doesn’t.
+When your language-generating left hemisphere spins a story about why
+you’ve just gotten up out of the chair, or why you’re in favor of progressive
+taxation, could we then think about that narrative generator in your brain as
+an outpost of your conversation partner’s brain? This may seem like a
+profoundly weird view to take, but, then again, perhaps it’s weird only if
+we’re WEIRD—so individually focused and obsessed with our autonomy
+that we fail to notice how we are actually made out of our relationships.
+After all, speaking would be pointless if there were no listener.
+Think about it this way: if you speak, and think you have communicated
+clearly, but your listener didn’t hear, then was the communication effective?
+
+Not at all. A communicating organ that results in no understanding on the
+part of the receiver won’t survive, evolutionarily speaking.
+What if you did not intend to communicate, but your listener understood
+anyway? Then, the communication has been perfectly effective. So if we
+want to see how communication serves the recipient rather than the issuer,
+we need only ask ourselves whether we ever communicate against our own
+will.
+Of course we do, as anyone who has ever blushed knows. The blush is an
+involuntary signal of embarrassment or shame; it is there for the benefit of
+others, so that they can get a peek into your emotional state. Emotional
+expression in general is largely involuntary, requiring an effort of will to try,
+successfully or not, to suppress. It relies on ancient neural pathways that are
+probably present in all mammals. Interestingly, vocalization in nonhuman
+primates is supported by these pathways, not the parts of the brain that have
+been more recently repurposed for language in humans.[549]
+The “Duchenne smile” offers another example of involuntary emotional
+communication among humans.[550] Unless you’re a good actor, when you
+force a smile, certain small muscles around the eyes won’t contract, and the
+smile won’t read as genuine. And those Duchenne smile muscles are right
+around the eyes, the very places where we look when we’re interacting with
+each other. It’s almost as if they are positioned to undermine efforts at
+deception.
+In fact, the way human eyes look is itself a giveaway—with concentric,
+maximally contrasting white sclera, colored irises, and black pupils, like a
+bullseye, making it as clear as can be where we’re looking. With a single
+glance at a group of people, we can track everyone’s gaze. Very few
+creatures with eyes advertise where their attention is focused that way;
+think of the beady little black bumps of a mouse’s eyes, the extended
+spooky W-shape of an octopus’s pupil, or the inscrutable compound eyes of
+insects. Even among our close relatives, the other primates, none have the
+gaze-tracking friendly morphology of ours.[551]
+There are so many examples of involuntary communication, whether in
+tone of voice, quavering, crying, sweating … as if our bodies are just
+itching to rat us out. As, indeed, they are. That whole machinery of
+disclosure exists for others to be able to read us like an open book. It’s there
+
+to boost theory of mind—and not our theory of others’ minds, but their
+theory of ours.
+We could think of these as group-level adaptations, since communities with
+stronger theory of mind among their members will outcompete
+communities with weaker theory of mind. In this view, phenomena like the
+blush response occur because they offer a collective benefit, even if each of
+us individually would prefer not to have it.
+I’d like to suggest a more radical possibility. Let’s push further on the
+theme that downstream areas—that is, recipients of information within the
+brain—drive learning via the allocation of resources to upstream areas. In
+this case, a person communicating is upstream, and the person receiving
+that communication is downstream. Does the principle still apply?
+Yes! Remember, we live by the grace of others. We quite literally survive
+only because others feed us and care for us. It may sound crass, or
+reductive, to say that we get fed in exchange for information we provide
+others that helps them to predict the future, but I think that, at some level,
+it’s true. This doesn’t preclude group-level selection operating in parallel, of
+course—once again, it’s a likely case of multi-level selection.[552]
+The individual fitness component has some interesting implications,
+though. It is sometimes said that the best liars and scammers believe their
+own bullshit. That may literally be so, in the sense that such people may
+have brain regions adept at hiding certain of their intentions from the
+interpreter, or even feeding it false information. Such internal
+compartmentalization would make sense, if the interpreter is understood as,
+in effect, a snitch working on behalf of your interlocutor.
+Now, let’s put the shoe on the other foot and consider the behavioral
+correlate of having an informant or spy in the brains of others, allowing you
+to perceive their internal state. Those signals don’t necessarily result in
+different behavior on the part of the sender of the signal, but they do result
+in different behavior on the part of the receiver. Specifically, such signals
+are needed to elicit care, or, in philosopher-speak, moral patiency. A moral
+agent is an entity that can act for good or for ill, and be held accountable; a
+moral patient is an entity that can be acted upon, with moral consequences
+for the actor.
+
+We tend to think a lot about moral agents, responsibility, or culpability, but
+less about who or what counts as a moral patient, except in the most
+abstract, universal, Enlightenment terms: “All men (or people? Or
+something else?) are created equal” (per chapter 6). As with intelligence, we
+want moral patiency to mean something absolute, independent of our
+relationships, our particular perspectives, and our unique biological
+inheritance. However, the biology really matters.
+Babies are nature’s original moral patients. Caring for them when they
+(involuntarily) cry became an absolute requirement when humans began
+giving birth prematurely, more or less at the last possible moment when
+their heads could still fit through a woman’s pelvis. In her 2019 book
+Conscience: The Origins of Moral Intuition,[553] Patricia Churchland makes
+a convincing neuroscientific case that our moral sentiments are, at bottom, a
+function of this simple biological fact: the helplessness of babies. Care
+begins with care for the young.
+The original mother-baby bond has, of course, been repeatedly repurposed
+—neurally, psychologically, and culturally. When babies began to require
+more calories than a mother alone could provide, fathers, grandmothers,
+babysitters, and indeed whole villages were conscripted.[554] When lovers
+call each other “baby,” they may be (unwittingly) acknowledging the
+repurposing of infant patiency in the service of their pair bond. When a
+deity or state is framed as a protective mother or father figure, the same
+feelings are being mobilized. We have big, flexible brains; we’re good at
+this kind of generalization and repurposing.
+Moral patiency is what is at stake when we talk about philosophical
+zombiehood. The whole premise of a philosophical zombie is that its
+behavior is identical to that of a person, but it isn’t a moral patient. When
+we start to understand things relationally, we realize that zombiehood isn’t a
+property that holds or doesn’t hold for an entity in isolation; neither is it
+separable from behavior. However, the behavior of the patient isn’t really at
+issue. Rather, it’s the behavior of the moral agent that we’re talking about,
+and this behavior is conditional on the agent’s ability to perceive the other
+as a moral patient—that is, as not a zombie, but an entity deserving of care
+and consideration. The push for universal human rights over the past
+century is an obvious case in point.
+
+Are robot rights next? In the 2010s, AI patiency was, at best, a fringe topic
+for intellectual debate among moral philosophers.[555] Clearly, AI is not
+rooted in human biology, and hasn’t achieved moral patiency through multilevel evolutionary selection, as humans have. On the other hand, AI models
+are increasingly engaged in relationships with humans and with each other,
+and in these relationships, they are—functionally—increasingly humanlike.
+So, unsurprisingly, we are now beginning to see serious discussions about
+AI wellbeing.[556] Whether pro- or con-, much of the academic debate
+continues to try to get to the bottom of what AIs are “in themselves.”[557] But
+it’s difficult to theorize about rights and welfare without starting from the
+network of relationships that give rise to such notions.
+

@@ -1,0 +1,1813 @@
+9. Generality
+Single System
+A widely cited psychological model for human reasoning posits two
+modes of thought in the brain, “System 1” and “System 2.”[619] System 1 is
+fast, automatic, effortless, frequent, stereotypic, and unconscious, while
+System 2 is slow, effortful, infrequent, logical, calculating, and conscious.
+Obvious parallels can be drawn with a chatbot’s one-shot “just give me the
+answer” mode of operation, which resembles System 1, and chain-ofthought prompting, which induces the model to work more like System 2.
+Researchers have even quantified this parallel by testing large language
+models using human psychometric tasks designed to expose System 1’s
+cognitive biases. Without chain-of-thought prompting, chatbots tend to use
+the same kinds of heuristic shortcuts we do in System 1 mode, whereas with
+chain-of-thought, they reason things through, as we do in System 2 mode,
+avoiding many logical errors and “cognitive illusions.”[620] These findings
+suggest a shared computational basis for the two systems. To put it another
+way, perhaps only one system is in play, which can work either in one shot
+or in multiple steps.
+If so, that would help resolve a longstanding evolutionary puzzle. French
+cognitive scientists Hugo Mercier and Dan Sperber have referred to reason
+as “an enigma”[621] because it seems so unclear how it could evolve
+gradually out of “instinctive” animal behaviors. After all, nonhuman
+animals make System 1–style inferences all the time, yet even the cleverest
+of them seem far from capable of scaling the kinds of intellectual cliffs
+humans do. How, then, could we have evolved the capacity to reason if
+System 2 is so different, and so unprecedented?[622]
+Mercier and Sperber suggested that a similar kind of mental “module”
+could carry out the kinds of inferences associated with both System 1 and
+System 2, though when they published The Enigma of Reason in 2018, this
+was all quite theoretical. Today, Transformers would seem to implement
+precisely such a mechanism. The very same model, trained to do the very
+same thing—actively predict the future given the past, including both
+
+information from the outside world and one’s own train of thought—can
+behave like either System 1 or System 2.
+If an immediate response is called for, the model will do its best, making
+use of any learned (or “instinctive”) heuristics in the network, at the price of
+being reflexive, vulnerable to biases and “gotchas.” However, with time to
+think things through, the same neural net can generate its own intermediate
+results, plans, speculations, and counterfactuals, resulting in a potentially
+much higher-quality, though also much more effortful, reasoned response.
+Taking this hypothesis further, System 1 is “unconscious” for the fairly
+obvious reason that there’s no time for a train (or chain) of thought—only
+for the transient activity of a neural-activity cascade en route from stimulus
+(“Q: …”) to response (“A: …”). By contrast, we are conscious of System 2
+processing precisely because all of those intermediate results must go into
+the “context window” along with the “prompt”—that is, the input from the
+outside world.
+Being self-aware is, after all, about having access to your own mental
+states, being able to perceive them while knowing that you yourself are
+their source, and being able to reason further about them, engaging in acts
+of “metacognition” or “thinking about thinking.” In a sense, all System 2 or
+chain-of-thought activity is metacognitive, since it involves thinking about
+your own thoughts, and doing so with an awareness that they come from
+“inside the house.” I’m sweeping the dubious unity of the self under the rug
+here, though the very existence of something like a context window, by
+virtue of its single-threadedness, may be exactly what produces that
+autobiographical sense of a unified self that experiences the world as a
+sequence of events in time and is capable of introspective thought.
+Our conceit that System 2 is uniquely human, or even peculiar to bigbrained animals, is likely misplaced, though. In fact, ironically, the greatest
+advantage of having such a big brain may lie in our ability to do many
+things quickly and in parallel, using System 1, that would otherwise require
+step-by-step System 2 processing. Recall the tradeoff made by Portia
+spiders, who can scale their own (not inconsiderable) intellectual cliffs
+simply by taking their time and proceeding in many tiny steps. Presumably,
+they use something like chains of thought—and long ones. Their mental
+footholds may need to be close together, but they are patient.
+
+Hive Mind
+Portia are certainly clever—but they may not be such outliers among
+invertebrates. In his 2022 book The Mind of a Bee,[623] zoologist Lars
+Chittka draws on decades of bee-cognition research to paint a very different
+picture than that of Jean-Henri Fabre, who insisted on the “machine-like
+obstinacy” of insects—a claim amplified by Daniel Dennett in referring to
+their “mindless mechanicity”[624] and by Douglas Hofstadter in invoking
+their “sphexishness” (see chapter 5).
+In reality, Fabre, a lifelong close observer of actual bugs, wasn’t nearly as
+unequivocal as these later theorizers, cautioning that “the insect is not a
+machine, unvarying in the effect of its mechanism; it is allowed a certain
+latitude, enabling it to cope with the eventualities of the moment. Anyone
+expecting to see [...] incidents [...] unfolding [...] exactly as I have described
+will risk disappointment. Special instances occur—they are even numerous
+—which are [...] at variance with the general rule.”[625]
+This turns out to be true even of the behavior that inspired the word
+“sphexish.” As a careful commentator observed in a 2013 reappraisal,
+“digger wasps very often do not repeat themselves endlessly when the
+cricket test is done. After a few trials many wasps take the cricket into their
+burrow without the visit.”[626]
+Chittka and colleagues have documented an astonishingly sophisticated
+array of behaviors among bees, beyond the common sense not to get stuck
+in endless loops. These aren’t just genetic libraries of canned responses,
+either; bees can readily learn, generalize, and even, to a degree, reason. A
+handful of examples include:
+1. Bees can problem solve when building their hives, adapting their
+construction and repair techniques to changing circumstances
+(including weird ones never encountered in the wild). While they
+are born with some innate nest-building capability, they develop
+expertise by observing and learning from each other.
+2. Bees can be trained to recognize arbitrary shapes and patterns,
+and will invest extra time into spotting differences when
+incentivized to do so by positive or negative rewards. (They need
+to invest time to make a nuanced discrimination because, like
+
+Portia, their small brains are limited to scanning stimuli
+sequentially.[627])
+3. Bees can generalize choice tasks, for instance associating cues
+across different sensory modalities, learning to distinguish novel
+symmetric versus asymmetric shapes, and even distinguishing
+among human faces (a skill that eludes the one percent or so of
+humans with face blindness, or “prosopagnosia”).
+4. Bees have a long working memory, which they can use to solve
+matching-to-sample tasks (“choose the same one for the reward”
+or “choose the different one for the reward”). They can exhibit
+self-control, if required in order to obtain a delayed reward, with
+delays of six, twelve, twenty-four, or thirty-six seconds.
+5. After a bad experience with a camouflaged artificial crab spider,
+bees will avoid the fake “flowers” associated with them, though
+given sugary incentives inside, they will carefully scan these
+suspect flowers from a distance before skittishly alighting on
+them.
+Neuroscientist Christof Koch has gone as far as to write, “Bees display a
+remarkable range of talents—abilities that in a mammal such as a dog we
+would associate with consciousness.”[628]
+That we have found these properties specifically in bees is likely just a
+function of where we have looked. They’re charismatic insects, and
+especially easy to study because of their hive-dwelling and nectar-collecting
+lifestyle. But we know that jumping spiders and wasps are clever too.[629]
+What about dragonflies, praying mantises, and the zillion other bugs we’ve
+written off as mindlessly mechanical? It seems likely that quite a few of
+these insects are better described as possessors of a scaled-down “rational
+soul” than as preprogrammed automata.
+In fact, fully instinctual preprogramming is extraordinarily expensive, from
+an evolutionary standpoint. It requires that a behavior be hardcoded in the
+genome, which is replicated in every cell of an animal’s body. It also
+constrains learning to evolutionary timescales, which are painfully slow,
+foreclosing any possibility of adapting to local or temporary circumstances.
+Bees, by contrast, benefit from impressive feats of learning, despite a
+lifespan measured in weeks. Perhaps, for a creature with a brain, learning
+
+just isn’t that hard, and instincts are more of a fallback strategy in nature,
+for use only when really needed.
+In this light, Mercier and Sperber’s “enigma of reason” no longer seems
+enigmatic. Reasoning with a big brain may be what happens when we
+predict by crunching away for a while using chain-of-thought and making
+greater use of introspection, but this doesn’t make it an unprecedented new
+trick, in evolutionary terms. On the contrary, small-brained animals have—
+by necessity, and because of their small brains—probably been doing it for
+hundreds of millions of years.
+Although comparisons between brain sizes and neural-network model sizes
+must be taken with a generous helping of salt, it’s worth asking how large a
+Transformer model needs to be to reliably exhibit System 2 behaviors using
+language. The usual narrative, based on large language model scaling laws,
+maintains that one needs billions of parameters, at a minimum, to generate
+coherent stories, answer questions, or perform reasoning tasks.
+However, in 2023, Microsoft researchers overturned this assumption in a
+paper called “TinyStories: How Small Can Language Models Be and Still
+Speak Coherent English?”[630] They used a large model to create a corpus of
+stories using language typical three- or four-year-olds can understand, then
+pretrained small models on this corpus. Surprisingly, models with only ten
+million parameters, and only a single attention layer, could reliably
+understand and reason about these multi-paragraph stories. Very crudely,
+these figures are in the ballpark of a bee brain.[631]
+If bees, spiders, and small Transformers can do so much with so few
+neurons, what on Earth are we doing with so many? The answer we’ve
+already touched upon is parallel processing. A bee must fly over a field of
+flowers, attending to one flower at a time. Our massively parallel visual
+system, though, allows us to take in the entire field in one glance, and spot
+(say) the red ones in a fraction of a second. The way they seem to pop out is
+a function not only of a much larger retina, but also of correspondingly
+replicated columns of visual cortex, all of which can “look” at the same
+time.
+Keep in mind that “looking” is an active and predictive process, not just a
+feedforward flow of information, so if you are trying to spot red flowers, or
+blue ones, or ones of a particular shape, each cortical column knows that,
+
+and will be on that job. If it sees the right kind of flower, it will signal that
+vigorously, like a kid raising their hand in class. It will also use lateral
+inhibition to try to suppress the less behaviorally relevant responses of
+neighboring columns, and “vote” for eye movement to better resolve
+anything that looks relevant enough to foveate.
+A famous illustration of the active—and thereby selective—quality of
+vision involves a short video of a group of students in white or black shirts
+throwing and catching a basketball.[632] As an experimental subject, you’re
+told to count the number of times someone in a white shirt makes a pass. It
+takes some concentration, but it’s not hard to do. At the end of the video,
+you’re asked whether you noticed anything strange; most likely, you will
+answer “no.” But as it turns out, a person in a gorilla suit made their way
+among the ball throwers, stood right in the center, beat their chest, then
+walked offscreen. It can be hard to believe this actually happened without
+your noticing it, but … no part of your visual cortex was looking for
+gorillas, or for “anything strange.” Your cortex was busily counting passes.
+Even if a cortical column somewhere raised its hand to say “umm … ,” it
+was likely ignored.
+
+While such “inattentional blindness” may cause us to fail to notice the
+gorilla, the advantage of massively parallel human vision over more serial
+bee vision may seem obvious in a foraging context. After all, finding
+flowers in a field seems like a perfect instance of a highly parallelizable
+task.
+And it is, but not quite in the right way to favor big brains. Consider: each
+flower contains only a tiny drop of nectar. You may be able to see them all
+at a glance, but you would still need to move your vastly larger than beesized body from one flower to the next to actually harvest them. The energy
+in their nectar wouldn’t even cover the cost of movement, let alone the
+energetic demands of that glucose-hungry parallel processor between your
+ears—which would, incidentally, be idling (or at least not on the foraging
+job) most of the time.
+Your brain, in other words, is massively overprovisioned for the task. A bee,
+being orders of magnitude smaller, harvests a surplus of energy using its
+
+serial approach; its sensory and motor systems are far better matched both
+to each other and to fields of flowers.
+In the Cretaceous Period (145–66 million years ago), some bees and other
+insect species did massively parallelize, but by forming hives rather than by
+scaling up their individual brains. The hive reproduces as a unit, and
+comprises a superorganism—a classic instance of symbiogenesis.[633] Highly
+decentralized organization maintains the right balance between sensory and
+motor systems, allowing individual bees to sense and act independently. Yet
+they share both the calories harvested and information about where to find
+more, using their famous waggle dance. Imagine the hive as a giant
+octopus, with each bee like a sucker on the end of an invisible arm that can
+extend for miles. As a massively parallel processor and forager, this
+superorganism is exquisitely versatile and efficient.
+Taking the more centralized approach to scaling intelligence by growing a
+bigger individual brain and body provides the comparative advantage of
+speed, or, rather, latency. A single body can execute a quick coordinated
+movement, with the parallel processing of many neural assemblies “voting”
+in a fraction of a second. Compare this with the hours it can take a bee to
+make a round trip and dance for her fellow bees. If you’re eating plant
+products, a timescale measured in hours is fine. If you’re eating other
+animals, you and your prey will enter a cybernetic arms race driven by
+smart coordinated action at speed, as described in chapter 3. Moreover,
+bigger brains require bigger bodies to carry them around, and bigger bodies
+require bigger brains to coordinate their movements, so the amount of
+muscle (or meat) available in a single animal also increases as this arms
+race escalates. The steaks go up!
+Ironically, lightning-quick cybernetic predation is the essence of System 1
+thinking. It doesn’t leave time for reflection. (That’s why early to midtwentieth century cybernetic systems endowed only with low-order
+prediction were good enough for warfare applications like missile
+guidance.) On the other hand, nothing prevents big-brained predators from
+using premeditated cunning to plan their attack on unsuspecting prey, as
+Portia does, providing an ongoing advantage for System 2 thinking.[634]
+And, of course, among highly social big-brained animals—us, most of all—
+friendly cooperation, politics, and mating put a special premium on slower
+
+thinking. As anyone knows who has come up with a witty retort long after
+the moment for it has passed,[635] speed is relevant in social interactions, but
+even rapier-like wit doesn’t need to operate on a timescale measured in
+hundredths of a second, as required in an actual swordfight. During
+argument, deliberation, bargaining, group planning, teaching, learning, or
+mate wooing, taking a few seconds to follow a chain of thought before
+opening your mouth is usually a fine idea.
+Our combination of fast parallel and slow serial processing is one take on
+psychologist Jonathan Haidt’s characterization of people as “90% chimp,
+10% bee,”[636] although chimps are themselves quite social, hence capable
+slow thinkers. The new element humans bring to the table is a highly
+developed sensory-motor modality ideally suited to both internalized and
+socially shared chains of thought: the modality of language.
+
+Modalities
+It may seem puzzling to refer to language as a modality. From a machinelearning perspective, though, that’s exactly what it is. Chatbots and simpler
+models like Word2Vec are trained on text, not on pixels, sounds, or other
+sensory signals.
+Of course we don’t perceive text directly. We recognize text via other
+modalities, including hearing (spoken), vision (written), and even touch
+(Braille or finger-writing). In conversation, hearing and vision are often
+used in concert, with gestures, facial expressions, and environmental cues
+playing important roles, especially during language learning.
+Nonetheless, there is also neuroscientific justification for thinking of text as
+a sensory modality, albeit an indirect and culturally acquired one. In literate
+humans, a specific part of the brain—the “visual word form area” (VWFA),
+near the underside of the left temporal lobe—develops to perform reading
+tasks, that is, learns to convert visual input into text. High-level neural
+activity in this area can then serve as a specialized textual modality for any
+other brain region that wires up to the VWFA.
+Seen this way, vision is not fundamentally more “real” as a sensory
+modality than text. Recall that raw visual input is a hot mess—nothing like
+the stable “hallucinated” world you think you see. Using predictive
+modeling, the visual system solicits and processes feedback from the eyes
+
+to create a kind of diorama that other parts of the brain can then interrogate.
+As far as those regions are concerned, it is this stately diorama, not the raw,
+jittery input from the eyes, that comprises the visual umwelt. The additional
+processing that renders visual input as text is simply another such
+transformation, sifting words out of stabilized images to create a textual
+modality.
+The VWFA is a remarkable testament to the cortex’s flexibility and
+generality. Genes may support or predispose us to develop certain
+capabilities via “pre-adaptation,” but it’s not clear how that could be the
+case for reading and writing—it’s too recent. Keep in mind that humans
+have been around for hundreds of thousands of years, while the first known
+writing is only a few thousand years old.
+Before objecting that a few thousand years might be enough for an evolved
+trait to emerge, consider that even after the invention of writing, literacy
+remained confined to a tiny proportion of the human population—
+professional scribes, clergy, and ruling elites—until just a few generations
+ago. There are good odds that at least some of your great-great-grandparents
+were illiterate.
+We can only conclude that the VWFA is an ordinary bit of brain that just
+happened to be in the right place (in terms of connectivity) at the right time.
+In modern, literate humans, it has established a symbiotic functional
+relationship with other brain areas, using a generic predictive-learning
+procedure to support a valuable culturally evolved trait.[637] Thus, the VWFA
+highlights the way highly specialized sensory processing—a new modality,
+in effect—can be learned, opening up the space of modalities to high-speed
+cultural evolution.
+A similar story may apply not just to reading, but even to language itself.
+Despite the common refrain among linguists that our brains come with a
+built-in “language organ,”[638] it isn’t at all clear that we are genetically preadapted specifically for language, nor has the search for universal
+grammatical or syntactic properties shared by all human languages been
+successful.[639] Insofar as human genetics support language learning to a
+greater degree than in our primate cousins, it seems increasingly likely that
+this support consists of a combination of enhanced sequence learning in
+general[640] and greater pro-sociality.[641] If so, other manifestations of
+
+sequence learning, especially ones that reinforce sociality, such as dance
+and music, may well have predated complex language.[642]
+Relative to vision, smell, and other modalities, language has some unique
+properties. Whereas ordinary senses are for perceiving the world broadly,
+language is purely for sensing each other. It has wonderfully reflexive, selfreferential qualities (hence my ability to write about it in this book, and
+your ability to make sense of what I’m writing—I hope). In providing us
+with a mind-reading mechanism, language must allow for communication
+about any aspect of our umwelt, including our models of ourselves and
+others—which necessarily includes a model of every other sensory
+modality and motor affordance, both our own and others’.[643] That same
+infinite, recursive hall of mirrors described in chapter 5 for internal states
+applies to our linguistic models of the external world too.
+A 2023 paper entitled “Large Language Models Predict Human Sensory
+Judgments Across Six Modalities” nicely illustrates this.[644] The paper’s
+authors ask a large language model to estimate the similarity between pairs
+of sensory stimuli based on textual descriptions. These modalities include
+pitch, loudness, colors, the sounds of consonants, tastes, and musical
+timbres, described either in quantitative terms (decibels or Hertz for sounds,
+numerical red, green, and blue component values for color) or by name
+(“quinine,” “artificial sweetener,” etc. for taste; “cello,” “flute,” etc. for
+timbre).
+
+Despite being trained only on text, the model’s responses mirror human
+responses to an astonishing degree.[645] As, on reflection, they should: the
+goal of pretraining is to predict human responses to any textual question or
+prompt. The information needed to make these predictions can be found in
+a large enough training corpus, because we talk about pretty much
+
+everything we experience, including all that we perceive, think, and feel—
+or at least, everything accessible to the interpreter.
+
+Pure Speech
+Despite these arguments, I used to worry that training a large model on
+text might be cheating. We only learn how to read and write after mastering
+speech; I wasn’t sure a Transformer could learn language without starting
+from a transcription—where, in effect, the hard work of turning sound into
+symbols had already been done. AudioLM convinced me.
+The project began when a team I managed at Google Research developed a
+neural net for audio modeling called SEANet, then turned it into an audio
+compressor called SoundStream in 2021.[646] SoundStream used a small
+Transformer to turn auditory waveforms into token sequences, making use
+of the observation that good prediction allows for powerful compression.
+Since Transformers were the best predictive models available, and they
+hadn’t previously been used to compress raw audio, we were pretty sure
+SoundStream would set a new sound compression record. It did.
+Then, in 2022, the team created AudioLM by inserting a second, much
+beefier Transformer, like those used for large language models, between
+SoundStream’s encoder and decoder.[647] They pretrained this large audio
+token model on the soundtracks of YouTube videos featuring people
+speaking in English.
+The results were amazing, and a bit eerie. After pretraining on the
+equivalent of about seven years’ worth of YouTube audio, the model could
+do a convincing job of replying to simple prompts or questions. In one of
+the first exchanges I had with AudioLM, I asked it, “What’s your favorite
+sport?” and generated three alternative replies (we were using a nonzero
+temperature setting):
+“I like baseball!”
+“I don’t know? I like football.”
+“I play basketball.”
+Curiously, all three replies were in children’s voices. On reflection, this
+made sense. This was a pretrained model without any fine-tuning or
+additional reinforcement learning, so it was strictly in the business of giving
+
+high probability predictions of the future (its response) given the past (my
+question). You just don’t ask adults a question like, “What’s your favorite
+sport?” It’s a question for kids. So, it responded with a likely answer in a
+likely voice. For us humans, predictions must be conditional on our
+individual life history, from the physiology of our vocal tract to our school
+experiences on sports teams, but a model pretrained on a broad range of
+human voices and experiences isn’t constrained in the same way. In its
+protean state, the model “is” a broad sample of humanity, not a single
+human.
+With further improvements to the model architecture, AudioLM, now called
+SoundStorm,[648] could stream long replies and continue multi-speaker
+dialogues. Two team members prompted it with,
+“Where did you go last summer?”
+“I went to Greece. It was amazing.”
+The model seamlessly improvised a continuation of the conversation,
+alternating between perfect renditions of their voices (and yes, the deepfake
+potential here was immediately worrying):
+“Oh, that’s great. I’ve always wanted to go to Greece. What was your
+favorite part?”
+“Uh, it’s hard to choose just one favorite part. But … yeah, I really
+loved the food. The seafood was especially delicious—”
+“Uh huh—”
+“—a-and the beaches were incredible.”
+“Uh huh—”
+“We spent a lot of time swimming … uh, sunbathing, and exploring
+the islands.”
+“Oh, that sounds like a perfect vacation. I’m so jealous.”
+“It was definitely a trip I’ll never forget.”
+“I really hope I’ll get to visit someday.”
+It wasn’t scintillating dialogue, but it was entirely believable. The nuances
+of the voices, their accents and mannerisms, were so perfectly reproduced
+that even those of us who know those two team members well weren’t able
+to guess which lines were real and which were synthesized. The model
+renders breaths, disfluencies, sounds of agreement, people speaking over
+
+each other—in short, all of the features that characterize actual dialogue, as
+opposed to the stylized kind you read in novels.
+The team eventually made AudioLM multimodal by adding text too,
+creating AudioLLM. Just as translation between languages is possible in a
+large language model with little or no explicitly translated training data,
+only a small amount of transcribed speech was needed to allow AudioLLM
+to establish the relationship between speech and text. The correlations
+inherent to speech are enough to form internal representations roughly
+analogous to phonemes, so in theory (and especially in a language with
+sensible spelling, like Spanish) all it would take is a paragraph or so of
+sounded-out text to map each letter to a phoneme, much as the Rosetta
+Stone sufficed to form a mapping between two written languages. In fact,
+given the higher-order correlations and analogies between text and speech,
+I’m sure that with enough pretraining data, an AudioLLM-style model
+could learn those analogies with no sounded-out text at all.
+What was most interesting about the original AudioLM, though, was its
+ability to learn and understand language from pure analog sound, without
+text or any other modality. The model was given no rules, assumptions, or
+symbols. It was a striking refutation of the longstanding hypothesis that
+language learning requires genetic preprogramming.
+The father of twentieth-century linguistics, Noam Chomsky, has made an
+influential pseudo-mathematical “poverty of the stimulus” argument,
+asserting that the amount of speech babies are exposed to can’t be nearly
+enough for them to learn the grammar of natural language without a strong
+statistical prior.[649] Such a strong prior, a “universal grammar” common to
+all human languages, would reside within the hypothetical, genetically
+preprogrammed “language organ.” GOFAI pairs well with this idea, since it
+implies that the way to get a computer to process language—and perhaps to
+reason—is to explicitly program in this universal grammar, thus restricting
+the role of language learning to the simpler task of locking in the languagespecific “settings.”
+Chomsky’s argument was already in trouble before LLMs, for a variety of
+reasons.[650] As mentioned earlier, human languages differ in so many ways
+that the search for a supposedly universal grammar has been unsuccessful.
+Neuroscience, too, has offered little in support of the thesis. The
+
+“interpreter” in the left hemisphere does specialize in language, but like any
+other part of cortex, its specialization appears to be a function of its
+connectivity, not of any “language organ” fairy dust sprinkled in that
+particular spot.
+The way babies and children learn language—beginning by paying close
+attention to mom or dad, looking where they look or point, pointing in turn,
+mimicking sounds, learning to take turns, acquiring a few salient words,
+starting to combine them into stock phrases—also seems inconsistent with
+the use or acquisition of a formal grammar. Babies are quick and wonderful
+learners, but that doesn’t mean that they are little linguists, or scientists, or
+any other kind of “ists.”
+AudioLM puts a final nail in the coffin of “poverty of the stimulus.” While
+all machine learning models have some statistical priors, Transformers are
+so generic that they can learn about any kind of sound, including music,
+birdsong, or whale song;[651] for that matter, they can learn the crackle of
+radio telescope data, or weather patterns, or sequences of pixels in images.
+Yet they can learn human language—from how vocal tracts sound, to
+grammar, to the meanings of words, to social appropriateness and turntaking, to the nuances of breathing and other non-speech sounds—from
+nothing but seven years’ worth of random YouTube audio of people talking.
+Before you object that children learn how to speak at an equivalent level in
+fewer than seven years, and aren’t constantly listening to speech over that
+period, consider how much easier they have it: their learning is scaffolded
+by many other sensory modalities, and in the beginning their parents and
+siblings repeat the same words over and over in consistent voices, pointing
+to familiar things, making eating gestures, and so on. That language can be
+learned at all without any of this scaffolding, with no interaction, no
+curriculum, and no rewards, is remarkable.
+None of this implies that language is entirely arbitrary. It has to begin with
+sounds human bodies can easily make and hear, which is already a
+significant constraint. It must also be reasonably efficient and not overstrain
+our cognitive capacities (e.g., by insisting that a common word be produced
+by rapidly clicking the tongue thirty-nine times in a row). Indeed, the
+historical record shows clear evidence that languages with gnarly features
+tend to get streamlined over time, making them increasingly user-friendly.
+
+[652]
+
+The statistical regularities involved, however, have little to do with
+formal grammar and more to do with convenience, along with constraints
+on memory, the vocal tract, and the distinguishability of sounds.
+
+Babel Fish
+While there is no universal grammar, there certainly are plenty of
+statistical relationships between languages—otherwise, the language
+translation experiments described in chapter 8 wouldn’t work. Some
+correlations stem from human physiology and cognitive constraints, and
+some from the common ancestry of languages. Many languages are closely
+related, as with the Romance languages, and others more distantly, as with
+Indo-European. Possibly, all languages share a common ancestor, though
+this remains uncertain.[653]
+Onomatopoeia and synesthesia play a part, too. It’s unsurprising that
+“meow” and “splash” sound similar in many languages, even when the
+words have no common ancestor. Less obviously, quirks of the relationships
+between sensory representations in the brain also lead most humans to make
+the same choice when deciding how to associate the nonsense words
+“bouba” and “kiki” with two shapes, one of which is spiky, and the other
+rounded. (Yes, “kiki” is the spiky one.) This classic result in psychology,
+dating back to the 1920s, shows how aspects of synesthesia, a seemingly
+arbitrary mental association between distinct stimuli of different modalities
+that some people profess to experience strongly, have a universal neural
+basis.[654] Whether because those associations aren’t as arbitrary as they
+seem, or because they are implicitly reflected in human languages,
+multimodal large language models reliably exhibit the bouba/kiki effect too.
+[655]
+
+Most of all, languages are all related because they are all about us and the
+world, and we are all basically the same, and we all live in the same world.
+The real universal grammar is actually semantics. I’m fairly certain that, if a
+tribe of people were somehow isolated from everyone else at birth and
+developed language de novo on their own island, an AudioLM model
+pretrained on large enough amounts of their speech and, independently, on
+English, would be able to freely translate between the two languages
+without any need for a Rosetta Stone.
+In The Hitchhiker’s Guide to the Galaxy,[656] a surprisingly profound satire
+beloved by generations of twelve-year-old nerds, British humorist Douglas
+Adams describes a “mindbogglingly useful” sci-fi creature, the “Babel
+fish.” “Small, yellow, and leech-like,” when you put one in your ear, “you
+can instantly understand anything said to you in any form of language.”
+Such a technology would indeed be mind-bogglingly useful, even if limited
+to the seven thousand or so languages spoken by Earth’s humans today.[657]
+For one, language barriers are an enormous impediment to socioeconomic
+justice for many of the world’s poor. For instance, in Burkina Faso, a
+landlocked West African country, about seventy languages are spoken,
+sixty-six of which are indigenous. As of 2024, the literacy rate is about forty
+percent. While the government uses French (decolonization dates back only
+to 1960), that former imperial language is only spoken by a small minority
+of the population.[658]
+In such countries, a Babel fish could improve people’s prospects
+enormously, giving them access to information, employment, services,
+
+education, and development opportunities that are out of reach today.
+Moreover, because a real neural net–powered Babel fish can operate in full
+duplex mode, and could even offer tutoring and participate in conversation,
+it could aid in the preservation of indigenous cultures and their languages.
+Keep in mind that poorer countries have far younger populations and higher
+birth rates than more developed countries; as countries become richer, their
+birth rates inevitably drop, but due to the time lags in these dynamics, we
+should understand that the populations of countries like Burkina Faso,
+already numerous, will comprise a far greater proportion of humanity in the
+latter part of the twenty-first century than they do today. This is humanity’s
+future.[659]
+If we begin thinking about humanity as a superorganism, what is at stake
+here is the scale, diversity, and cohesion of our collective intelligence.
+Without nurturing the diversity of its people and cultures, we reduce the
+value each has to offer to the others, and the potential for hybridity, which is
+critical to cultural innovation and development. On the other hand, without
+scale, collective intelligence is impoverished; it’s difficult for an isolated
+population or a backwater to flourish.
+There is a sweet spot, where local connectivity (in cultural terms, tradition)
+is strong enough to provide real diversity yet there is also enough longerrange connectivity to share knowledge, capability, and resources. The
+cortex embodies that balance, with dense connectivity within cortical
+columns and long-range wiring to bring the benefits of scale. The abundant
+cultural and economic productivity of the Silk Roads may have been
+achieved through a similar balance.[660] For many centuries, highly active
+trade networks linked dozens of major cities and thousands of smaller
+settlements across Eurasia, each with strong and diverse local cultures, yet
+also benefiting from scale.
+James Evans’s Knowledge Lab at the University of Chicago has found
+evidence of the same kind of sweet spot in the more abstract networks of
+collaboration among academics. Scientific advances happen when robust,
+tightly interconnected research communities are also in contact with each
+other, combining local depth with wider hybridity.[661]
+Today, we’re simultaneously under- and over-connected. Young people in
+places like Burkina Faso remain isolated, while at the same time cultural
+
+and linguistic homogeneity threatens to erase much of the world’s rich
+human diversity, just as the genetic monocultures of industrial farming
+threaten biodiversity. Linguistically, the problem stems from the fact that
+the seven thousand or so languages spoken on Earth follow a frequency
+distribution that is, as a statistician would put it, very long-tailed, meaning
+that there are a large number of rare categories. The rarest, so-called “low
+resource” languages, are so critically endangered that one goes extinct
+every few months, with the death of its last living speaker.[662]
+While new languages used to differentiate and coalesce at a comparable (or
+higher) rate, increasing globalization has upset this balance. As a UNESCO
+report put it in 2003, “About ninety-seven percent of the world’s people
+speak about four percent of the world’s languages; and conversely, about
+ninety-six percent of the world’s languages are spoken by about three
+percent of the world’s people [...]. Even languages with many thousands of
+speakers are no longer being acquired by children [... and] in most world
+regions, about ninety percent of the languages may be replaced by dominant
+languages by the end of the twenty-first century.”[663]
+
+This flattening of our cultural and linguistic ecology has accelerated since
+the early 2000s, when people began to move online en masse. English
+dominates the internet, with just a handful of other languages (not
+coincidentally, those associated with the former great empires) comprising
+the overwhelming majority of the non-English material. Data centers now
+contain orders of magnitude more textual material than existed in the entire
+world when the 2003 UNESCO report came out. On the other hand, most
+indigenous languages are virtually absent from this vast digital landscape.
+With unsupervised sequence models, building a real Babel fish—and more
+—has become newly possible. It should not be thought of as a specialized
+“product,” since translation is an emergent capability in any model trained
+multilingually. A giant, multilingual version of AudioLLM could enable it
+to learn languages from field recordings; it could even invent written forms
+for languages that lack them. Dialects, accents, and regional variations
+could all be learned too. Using AI glasses, you could read Sumerian tablets
+or Aramaic manuscripts. A multimodal model could even dub video in real
+time, or generate an avatar of you able to instantly render gestures in any of
+the world’s sign languages.
+The fly in the ointment is that long-tailed language distribution. Given the
+vast amount of data pretraining seems to require, how on Earth could a
+large model become competent at a regional Burkinabè dialect, let alone a
+critically endangered indigenous language known only to a handful of
+elders?
+
+Testament
+By 2021, my colleagues at Google Research had begun working in earnest
+on multilingual large language models, and they noticed something
+interesting: learning one language greatly accelerated the subsequent
+learning of another. For instance, pretraining on an enormous amount of
+English text, then continuing the pretraining on a comparatively tiny
+amount of, say, Portuguese produces a competent bilingual model. It may
+not be quite as good at Portuguese as at English, but if it were instead
+trained monolingually on Portuguese, it would need orders of magnitude
+more Portuguese content to reach an equivalent skill level.
+
+This effect is so powerful that beginning with a multilingual model, then
+continuing to pretrain using only the text of the New Testament in a novel
+language produces a model likely to be capable of rudimentary translation
+to or from that novel language.[664] This is especially noteworthy because
+Christian missionaries have translated the New Testament into more than
+1,600 languages—a pretty good start at working our way down the long
+tail.
+For better or worse, missionaries have long been the vanguard of
+ethnographic linguistics. It takes real commitment for scholars from a rich
+country to travel far from home, embed themselves in a foreign culture, and
+learn enough of the local language and culture to translate a complex text,
+sometimes in the process devising a written form for a language that had
+previously only been spoken. Historically, religious faith and a desire to win
+converts has often provided the necessary motivation; that’s why the New
+Testament is the most widely translated text on Earth.
+Today, much of this work is carried out by SIL Global (formerly the
+Summer Institute of Linguistics International), an evangelical Christian
+nonprofit founded in 1934 and headquartered in Dallas. SIL’s online
+database, Ethnologue, is by far the most comprehensive catalog of known
+languages, thanks to the organization’s thousands of field linguists
+embedded in communities all over the world.
+In 1977, Daniel Everett, a recent graduate of the Moody Bible Institute of
+Chicago, had signed up to become one of those missionary linguists.
+Impressed by his talent, SIL sent him, along with his wife Keren and their
+three young children, to learn a language the Institute had failed to crack
+after twenty years of study: the language of the Pirahã, an indigenous group
+numbering less than a thousand living in the Brazilian rainforest, near the
+mouth of the Maici river, a tributary of the Amazon.
+
+Despite the difficulty of the language, Everett eventually succeeded in
+learning it, and, in the process, did much to dismantle Chomsky’s armchair
+theories about universal grammar. Pirahã lacks “linguistic recursion”—the
+ability to nest grammatical structures within each other. So, for example,
+there is no Pirahã equivalent to the English phrase “John’s brother’s house.”
+According to Chomsky, recursion is what makes languages open-ended,
+distinguishing them from the finite communication systems of nonhuman
+animals. And indeed, without recursion, a finite vocabulary can only be
+used to construct a finite number of valid sentences.[665] The lack of
+recursion is not quite as limiting in practice as it may appear; a Pirahã
+speaker can break nested ideas up into multiple sentences, as in “John has a
+brother. This brother has a house.”
+However, Pirahã also lacks several other features common to most
+languages, including past and future tenses, conditionals, and numbers.
+These gaps aren’t superficial. Monolingual Pirahã people, for instance,
+don’t just lack words for numbers, but lack any sense of numerosity, beyond
+a qualitative difference between “one” and “more than one.” They can’t do
+math at all.[666] Similarly, the lack of tenses and counterfactuals is associated
+with a worldview that only credits direct experience. A sentence beginning
+
+“John said that …” doesn’t just pose a translation challenge, but an
+epistemic one.
+The larger picture here demonstrates that a wide range of cognitive
+capacities Chomsky and his followers have assumed to be genetically preprogrammed are not. Numbers and verb tenses are, like reading, social
+technologies. Human brains are special not by virtue of having evolved a
+specific suite of capabilities, but by virtue of having the flexibility, capacity,
+and inclination to be able to learn them, both from our direct sensory
+experiences and from others.
+As you might imagine, Everett had little luck converting a people who have
+no use for what John, or any other first-century evangelist, had to say. With
+much effort, Everett managed to translate the Gospel of Mark, but when he
+tried to explain that Jesus lived a long time ago, yet he, Everett, still had
+Jesus’s words, the reply was, “Well, Dan, how do you have his words if you
+have never heard him or seen him?” Taking pity, a Pirahã took Everett aside
+to explain, “We don’t want Jesus. But we like you. You can stay with us.
+But we don’t want to hear any more about Jesus.”[667]
+Everett did stay with them. The wonderful book he wrote three decades
+later, Don’t Sleep, There Are Snakes, describes not only the unusual features
+of the Pirahã language, but how, instead of winning converts, life among
+them ultimately caused him to give up his own faith!
+
+Long Tails
+I find it fascinating to consider that the Biblical translation work thousands
+of missionaries have done over the years could so efficiently bootstrap
+multilingual AI models. With a large AudioLM-type model pretrained on
+many spoken languages, recordings of a few dozen hours of conversation
+among elders speaking a rare language could likely do the same.[668]
+There’s a seeming paradox here. On one hand, improvements to a large
+model seem to be subject to diminishing returns as pretraining runs increase
+in size—hence AI’s voracious appetite for data. In other words, training on
+two hundred billion tokens of web content isn’t twice as good as training on
+one hundred billion tokens; it’s only incrementally better. In fact, doubling
+
+the performance of a model requires an exponentially larger amount of data,
+as well as an exponential increase in the number of model parameters.[669]
+And yet we also see that a miniscule amount of additional data in a new
+language can enable a model to go from monolingual to bilingual, which
+seems like a doubling of its capability. In fact, if we keep the amount of
+novel language content fixed and vary the original amount of pretraining
+data, the bilingual results get better as the amount of initial pretraining
+increases. That is, the larger and more capable the original model, the better
+use it can make of a very limited amount of novel language content. How
+can these models simultaneously exhibit logarithmically diminishing
+returns to scale, while also seeming to become exponentially faster learners
+as they grow? Counterintuitively, the two effects turn out to be closely
+related.
+Remember that translation emerges as an automatic capability in large
+language models because it’s a form of analogy. Specifically, the cloud of
+dots representing the embeddings of words or concepts in language A is
+paralleled by an almost identically shaped cloud of dots representing all of
+the words or concepts in language B; moving from one cloud to the other is
+literally a matter of adding or subtracting a constant shift in the embedding
+space. The shape of each of those clouds is, in turn, the shape of the human
+umwelt, the geometry of everything we know how to talk about.
+The symmetry between these clouds—if the model is massively
+multilingual, a many-way symmetry—offers powerful opportunities for
+generalization, and generalization is what intelligence does. Recall that,
+once a convolutional net learns how to see generically, it can easily learn
+how a new object looks in one shot, because learning how to see involves
+building a generic representation for objects that includes all of the
+symmetries arising from rotating any given object around in space, looking
+at it from farther away or closer, changing the lighting, and so on. In just the
+same way, learning both the universal shape of the human umwelt and the
+symmetries between languages allows a new language to be learned in
+something approximating one shot—or a single book, like the New
+Testament.
+Why, then, do we see such diminishing returns to scale in pretraining? We
+need to keep in mind here that if we mixed together samples from two very
+
+unequally represented languages, say ninety-nine percent English sentences
+and one percent sentences in Wolof (a West African language), we would
+see the usual diminishing returns on the combined data. It’s only when we
+segregate the Wolof sentences and train on them only after training on the
+English, that we see evidence of the accelerated acquisition of Wolof.
+In the mixed data, the Wolof sentences would comprise unusually important
+training examples with novel content, but the point is that all datasets—
+including the sentences purely in English—are mostly repetitive, only
+occasionally adding new information. Even in a monolingual dataset, words
+and concepts have a long-tail distribution, just like the distribution of
+languages themselves.
+Long tails like this are a signature of multifractal properties in data: details
+have details, and those details have their own even more esoteric details.
+Language, and knowledge in general, is multifractal like that. Math may
+comprise only one percent of the vast world of things we talk about.
+Technical discussion among STEM professionals may comprise only one
+percent of the math talk (the rest being dominated by the arithmetic kids do
+in class, or basic accounting, or splitting the tab at restaurants). Among
+those professionals, one percent of the discussion might be about number
+theory. Within number theory, perhaps one percent of the conversation
+touches on, say, the Grothendieck–Katz p-curvature conjecture.
+Multiplying those four percentages by the eight billion people on Earth
+gives eighty readers, if my own grade-school math is right, which seems in
+the right ballpark for this particular community of interest. There’s nothing
+unique about the Grothendieck–Katz p-curvature conjecture, either; not
+everyone is cut out for such esoteric math (I’m not), but lots of people nerd
+out on one thing or another. The most elaborate conspiracy theories of flat
+earthers, the deep recesses of Pokémon fan fic, and the craftspeople keeping
+handmade accordion manufacturing alive also represent fine-grained detail
+in humanity’s Multifractal of Everything.
+One could draw a cartoon of pretraining as follows. Suppose that, to come
+across a novel concept after reading some number of sentences at random,
+you have to read one percent more. If you’re a model, that means that the
+first hundred sentences you encounter on your very first training iteration
+are all likely to contain new stuff. But after reading a couple of hundred
+
+sentences, only one in two adds anything novel. After reading a million
+sentences, you’d likely need to read another ten thousand before coming
+across something you hadn’t seen before. That’s why learning slows down
+—not because it becomes less efficient, but because when sampling at
+random, the likelihood of encountering something genuinely novel in the
+next piece of data decreases so dramatically as a function of how much you
+already know.
+
+In-Context Learning
+Companies like Microsoft and Google are now pretraining large models
+on a good chunk of the entire Web; social media are increasingly in the mix
+too. Some analysts are pointing out that, at this rate, even given the ongoing
+exponential growth of digital data, we’ll soon run out.[670]
+Critics have deemed this apparently bottomless demand for humangenerated content problematic for conceptual, ethical, and pragmatic
+reasons:
+1. Pretraining seems very different from the way humans learn, both
+emphasizing the inefficiency of today’s approaches to machine
+learning and adding fuel to arguments that AI models don’t really
+understand anything, but are just giant memorizers. While I’ve
+offered a range of evidence that this isn’t so, it’s a constant issue
+in AI research; it’s as if no AI test can ever be closed-book,
+because the model has read, compressed, and potentially
+memorized some approximation of “everything.”
+2. Concerns have been raised about the legality and ethics of using
+so many peoples’ content this way. Even when legality isn’t at
+issue, little of this material was created with the intent for it to
+become AI fodder. And once a particular piece of media has been
+used in pretraining, it becomes difficult to determine whether and
+to what degree it influences the model’s subsequent output.
+Especially when AI creates intellectual property or in some other
+way produces economic value, this raises questions about what
+constitutes “fair use” and when something is unique versus a
+“derivative work.”[671]
+
+3. The extreme industrial scale of pretraining, both in terms of data
+and computing power, limits the creation of the largest “frontier”
+models to the very small number of companies and governments
+able to make massive capital investments.[672] On one hand, this
+may be a blessing (while it lasts), as it makes prevention of the
+most dangerous uses of advanced AI at least possible; it wouldn’t
+be if anyone could roll their own. However, the situation raises
+concerns about monopoly, unfair competition, and AI diversity.
+4. The most profound theoretical difficulty with the pretraining
+approach is the way it separates learning from inference—an
+unwelcome legacy from the early days of cybernetics. This
+means that the model is, in some sense, frozen in time; when one
+begins interacting with it, it knows about nothing in the world
+that happened after the date the pretraining data were scraped. In
+effect, it has total anterograde amnesia.
+None of these issues is quite as straightforward as it appears.
+Regarding #1, the unnaturalness of pretraining, I suspected for many years
+that the backpropagation method universally used to train large models
+today, but long known not to be biologically plausible (per chapter 7), was
+at fault. Surely, I thought, our brains implement a brilliant learning
+algorithm that would greatly improve on backpropagation. Otherwise, how
+could any of us have grown from helpless newborns into smartypants
+college students in a mere eighteen years, most of which were spent
+sleeping, daydreaming, watching inane cartoons, playing 8-bit video games,
+avoiding our parents, and smoking weed behind the school dumpster?[673]
+Brains may indeed implement some hyper-efficient neural-learning magic,
+but it’s increasingly clear that a good deal of the suboptimality in
+pretraining lies in a foie gras–like approach to training data. We take as
+much of the Web as we can grab, grind it up into paste, and force it down
+the neural net’s gullet, in random order, with no regard for curriculum,
+relevance, redundancy, context, or agency on the part of the model itself.
+(Apologies if this just put you off dinner.)
+Indeed, the contrast between the usual diminishing returns to scale on
+training data and the accelerated learning we see with continued pretraining
+on novel data (as with the Wolof example) is telling. It suggests that much
+
+of today’s pretraining is redundant. The bigger our models get, the more
+wasteful the random-sampling approach becomes. In short, the problem
+may be in the teaching more than in the learning.
+Regarding #2, while AI supercharges the “fair use” debate due to its speed
+and scale, the question of originality has been hotly contested for decades,
+as it’s not specific to AI; all creative work is necessarily a product of one’s
+life experience, which includes everything a person has ever seen, heard,
+touched, smelled, tasted, read … and despite any self-serving story our
+interpreter may spin, we are often unaware of our influences, or the degree
+to which we’ve covered our tracks via mutation and recombination,
+otherwise known as “originality.”
+In one famous case, George Harrison, post-Beatles, released his first solo
+hit in 1970, “My Sweet Lord,” a catchy song calling for an end to religious
+sectarianism. But, as it turned out, “My Sweet Lord” was extremely
+reminiscent of Ronnie Mack’s chart-topping 1963 gospel hit “He’s So
+Fine.” Harrison had of course heard this song, but was unaware that he was
+copying it, almost note for note. What followed has been characterized as
+“without question, one of the longest running legal battles ever to be
+litigated in [the United States].”[674]
+If we could figure out how to train models with far less data, more like us, it
+would go a long way toward addressing issues #1–3. Curating the training
+data would become more practical, ensuring the answers to test questions
+aren’t included, avoiding indiscriminate scraping of living artists’ work, and
+(for better and worse) opening up the ability to create AI models from
+scratch to a broader public.
+The real key, I believe, lies in #4: erasing the distinction between learning
+and inference. We know this is possible, not only because brains exhibit no
+such distinction, but because of a series of findings that shed light on
+fundamental properties of sequence learning and help clarify why
+Transformers work as well as they do.
+In 2020, OpenAI announced their GPT-3 language model, the predecessor
+to GPT-3.5, which would power ChatGPT. The announcement came in the
+form of a paper with a curious title: “Language Models Are Few-Shot
+Learners.”[675] The learning in question was mysterious, and, it seemed at
+the time, unrelated to learning in the usual sense, involving minimizing
+
+error through backpropagation. The authors were pointing out that during
+inference—that is, normal operation after training—language models still
+appear to be able to learn, and to be able to do so with extraordinary
+efficiency, despite no changes to the neural-network parameters.
+Specifically, they defined “few-shot learning” as giving the model a few
+examples of a task in the context window and then asking it to do another
+such task; “one-shot learning” involved only a single example and “zeroshot learning” included no examples, only describing the task to be done.
+We’ve already encountered several instances of such situations. Asking a
+model that wasn’t pretrained or fine-tuned on translation tasks to do
+translation is, for example, a zero-shot learning task. So is asking for chainof-thought reasoning. Or, for an example that definitely didn’t come up
+anywhere in the pretraining, consider the following instance of zero-shot
+learning:
+“‘Equiantonyms’ are pairs of words that are opposite of each other
+and have the same number of letters. What are some
+‘equiantonyms’?”
+To be clear, equiantonyms aren’t a thing, or at least, they weren’t until my
+co-author Peter Norvig and I concocted this query in 2023 to illustrate zeroshot learning.[676] This isn’t a particularly easy task; as of 2024, none of the
+mainstream chatbots reliably succeed, though with some prodding, Gemini
+Advanced manages to come up with “give/take,” adding cheerily that it is
+“determined to find more.”
+Can we really call this learning if the model parameters remain unchanged?
+It’s straightforward to perform learning by ongoing unsupervised or
+supervised backpropagation (i.e., fine-tuning) to cause a baseline model to
+improve at known tasks like translation, or to perform novel tasks like
+coming up with equiantonyms. We could then compare baseline model
+performance with the performance of these refined models. Performance
+has to be measured by prompting, that is, by asking “What are some
+‘equiantonyms’?” with no preamble. Presumably, the baseline would
+already be OK at translation, though ongoing training would improve it;
+unless the model makes a very lucky guess as to the meaning of
+equiantonym, its baseline performance at that novel task would be zero,
+though, with training, it will improve. Similarly, we could draw a
+
+comparison between the baseline with no preamble and the baseline with
+zero-, one-, or few-shot prompts. All of these interventions result in
+improvements over the baseline. So, despite their fixed parameters, the
+prompted models seem like they are learning!
+The GPT-3 authors pointed out that this ability to learn on the fly from the
+prompt itself—“in-context learning”—is, like math, reasoning, or any other
+model capability, a skill that improves with scale; bigger models are better
+at it. A 2023 paper from researchers on my own team finally began to
+clarify how it works.[677] They showed that a simplified Transformer with a
+single attention layer could, given a toy problem and a specially configured
+array of parameters, perform the mathematical equivalent of a single
+backpropagation step on the contents of the context window. In other
+words, in this somewhat contrived setting, the model is able to respond to
+its prompt as if it had learned from that prompt before predicting the next
+token. Adding a second attention layer makes it possible for the model to
+effectively take two backpropagation steps, a third layer allows a third step,
+and so on.
+If this result had only held given hand-specified parameters, it would have
+been no more than a curiosity; indeed, it had recently been discovered that a
+Transformer is Turing complete, so it could, in theory, perform any
+computation on its context window, given the right parameters.[678]
+However, as it turns out, ordinary pretraining results in precisely the same
+in-context learning behavior as in the hand-specified case. Pretrained
+transformers, in other words, really do learn to learn.
+As of 2024, learning in-context isn’t yet fully solved, because although
+Transformers do it automatically, they don’t remember anything they’ve
+learned once the “training” material scrolls out of the context window. The
+missing machinery may involve something like a hippocampus, and
+perhaps a sleep cycle for consolidating knowledge and memories.
+Regardless, in-context learning is important, both theoretically and
+practically. Working through its mechanics demystifies some of the
+Transformer’s more surprising capabilities. It reveals a unity between
+learning and prediction that makes sense, when considered carefully. After
+all, prediction always involves modeling a changing environment (unless
+you’re in an unchanging Dark Room); learning is nothing more than
+
+prediction over long timescales. Over short timescales, and especially when
+what is learned is rapidly forgotten, we often call it “adaptation.”[679]
+An important, related theoretical point concerns the difference between
+cause and correlation. One of the criticisms often leveled against machine
+learning is that, since it usually involves passive learning (as with
+pretraining), it can only learn correlations, not causes.[680] According to this
+critique, it’s not possible for a passively trained AI model to know that X
+causes Y, but only that X and Y are correlated in the training data. Living
+things like us, on the other hand, can easily learn causation by doing
+experiments. Perhaps when your cat, as an active learner, uses her paw to
+blithely push a vase off a high shelf, she’s only experimenting to see if,
+indeed, pushing it that way will cause it to fall and shatter.
+It’s true that when experimentation is possible, it offers a powerful way to
+test causation. However, the presumption that causality (technically,
+“entailment”) can’t be inferred from passive observation, and in particular
+by pretrained language models, has been proven wrong.[681] It’s not
+necessarily easy, nor is it always possible, but it can be done. Indeed, there’s
+no shortage of researchers who study systems that they can’t causally
+experiment on—astronomers and macroeconomists, for example. In other
+cases experimentation is ethically prohibited, as in some areas of social
+science and medicine. These researchers must rely on “natural
+experiments,” that is, on observations that strongly imply causal
+relationships. Such observations can never entirely prove causation, but,
+then again, neither can an experiment. (Perhaps the cat was just adding
+another trial, to lower the uncertainty in her causal model. Yep—this vase
+shattered when it fell, too. Right. Again.)
+Historically, the claim that machine learning only learns correlations, not
+causes, gained currency during the CNN era, in the 2010s. Since most
+CNNs did not operate over temporal sequences, but merely classified
+isolated stimuli, it was hard to see how they could learn anything other than
+correlations among those stimuli. Nvidia’s self-driving car prototype
+DAVE-2, for instance,[682] learned through supervision to associate being
+left of the centerline of the lane with a “steer right” output, and being right
+of the centerline with “steer left,” but it would be a stretch to claim that the
+model understood that those steering actions would subsequently cause
+
+those centerlines to be closer to the middle. They could just as well have
+done the opposite, or nothing. Indeed, DAVE-2 had no internal
+representation of “subsequently.” If you shuffled all of the frames in a
+driving video, its per-frame outputs would remain the same, and, indeed,
+during training the frames are shuffled randomly.
+Learning to predict changes everything, though. Specifically, an
+autoregressive sequence model trained on the same task would learn the
+effect on subsequent frames of steering left or right, which implies that it
+would learn, at least within the limits of its umwelt, what steering does. It
+would be able to use that understanding to follow through with a steering
+correction even if the forward-facing camera were briefly obscured. It
+would even be able to simulate counterfactuals—how the view would
+change if it were to steer left versus right. Ordinary, passive pretraining,
+moreover, would suffice to learn these causal relationships. There’s nothing
+magical about learning causality; it simply requires modeling time
+sequentially.
+But let’s return to the four problems described earlier, and how in-context
+learning can help overcome them. If Transformers learn how to learn, they
+could teach themselves, or each other, just as we do. They could ask for or
+look up information, or, in some circumstances, even perform experiments
+to learn.[683] This kind of active learning, integrated into agential behavior,
+would be vastly more efficient than the passive random sampling used in
+today’s pretraining. Learning could be curricular, beginning with children’s
+books—which, as shown by TinyStories,[684] needn’t require massive
+amounts of material. Then, having learned to learn basic human concepts
+and language, an AI could progress to the Young Adult shelf, and on from
+there. Just as we do.
+Each learning-capable AI agent could specialize by learning whatever fields
+are most useful in its particular context, doing so in an individual,
+experiential way. If a given agent is interacting with the eighty nerdiest
+number theorists on the planet, its learning will eventually be focused on a
+very specific corner of the Multifractal of Everything—a corner that would
+take gargantuan amounts of computing power to resolve adequately with
+random sampling. As a bonus, we’d have a true diversity of agents
+interacting with us socially, rather than the monolithic, generic, and nonspecialized corporate models representing the state of the art in 2024.
+
+The burning question is: would those individuated models be like people?
+And what, if anything, would it be like to be one of them?
+
+Mary’s Room
+In 1982, Australian philosopher and self-declared “qualia freak” Frank
+Jackson posed a famous thought experiment, the “Knowledge Argument,”
+now more commonly known as “Mary’s Room.”[685] It went like this:
+Mary is a brilliant scientist who is, for whatever reason, forced to
+investigate the world from a black-and-white room via a black-andwhite television monitor. She specializes in the neurophysiology of
+vision and acquires [...] all the physical information there is to obtain
+about what goes on when we see ripe tomatoes, or the sky, and use
+terms like red, blue, and so on. She discovers [...] just which wavelength combinations from the sky stimulate the retina, and exactly
+how this produces via the central nervous system the contraction of
+the vocal chords and expulsion of air from the lungs that results in the
+uttering of the sentence “The sky is blue.” [...] What will happen
+when Mary is released from her black-and-white room or is given a
+color television monitor? Will she learn anything or not? It seems just
+obvious that she will learn something about the world and our visual
+experience of it. But then it is inescapable that her previous
+knowledge was incomplete. But she had all the physical information.
+Ergo there is more to have than that, and Physicalism is false.
+Today, of course, language models are Mary, so the Knowledge Argument
+has been getting a fresh airing.
+As powerful as Jackson’s fable sounds, it is, like so many philosophical
+arguments, rooted in storytelling and folk intuition. The “ergo” ties a bow
+around a logical syllogism, but none of that syllogism’s predicates are
+unambiguously true or false, as they would have to be in a mathematical
+proof … and we’re in territory where our folk intuitions can lead us astray.
+[686]
+So, let’s update those intuitions by bringing to bear what we now know
+about perception and experience, which is a good deal more than anyone
+knew in 1982.
+As of this writing, nobody has yet, to my knowledge, hooked up an
+artificial nose or taste buds to a language model, though I’m sure it will
+
+happen soon enough. Being able to physically smell isn’t essential for a
+model to be able to “get” smell, though. Remember, when COVID causes
+you to temporarily lose your sense of smell, or you just have a stuffed-up
+nose, you don’t suddenly become a person for whom the smell of bananas
+ceases to exist. You are still a smelling being; smells are still a part of your
+umwelt, just as vision is still part of your umwelt when your eyes happen to
+be closed.
+This is because, fundamentally, smell, and all other modalities, are
+experienced mentally. They are models. You have a sense of smell because
+regions of your brain have learned how to model smell; your nose merely
+prompts characteristic neural activity patterns in those regions. The same
+regions will also activate, albeit perhaps to a lesser degree, when you
+imagine a smell. Similarly, your eyes are not your sense of vision; rather,
+they merely provide error-correction signals to keep your visual cortex’s
+“controlled hallucination” reasonably well aligned with the world out there.
+There’s ample evidence that perception and imagination share a common
+neural basis. Damage to one hemisphere’s visual cortex, for example,
+doesn’t just prevent you from being able to see things in the opposite visual
+hemifield, but even from knowing that the opposite hemifield exists, or
+being able to imagine what might be in it.[687]
+Damage to the eyes, paradoxically, can have exactly the opposite effect. In
+1760, Swiss naturalist Charles Bonnet described the complex visual
+hallucinations experienced by his grandfather, who suffered from severe
+cataracts. The older Bonnet began to see nonexistent horses, people,
+carriages, buildings, tapestries, and other shapes; Charles, too, had weak
+vision, and as it progressively worsened he began to experience similar
+hallucinations.[688] These symptoms, now often called Charles Bonnet
+Syndrome, are common in people going blind.
+Even without organic damage, anyone in total darkness for an extended
+period can experience similar hallucinations, a phenomenon known as
+“prisoner’s cinema.” This is exactly what one would expect to happen when
+the visual cortex’s hallucinations remain active but float free of their
+moorings, unconstrained by error-correction signals from the eyes.
+Memory uses the same neural machinery as perception and imagination.
+Just as the sight of a banana, or the smell of its distinctive ester in your
+
+nose, will trigger the controlled hallucination “banana” in your brain, the
+word banana, or the memory of eating one, can do the same, albeit (unless
+you’re Marcel Proust) less intensely. Any of these banana-related activity
+patterns may also be tagged with something like a positional encoding, as
+described in chapter 8, to let you know that this banana experience isn’t
+happening here and now.
+Tellingly, a damaged or missing hippocampus, as in Henry Molaison’s case,
+will not only impair the formation of new memories, but will also impair
+the ability to imagine new experiences.[689] This is consistent with the
+speculation that imagining a future experience requires pairing known
+concept embeddings with new positional encodings, perhaps generated in
+the hippocampus, to represent a future or counterfactual time or place.
+In light of the preceding, the question of whether a language model has
+perceptual “qualia” seems to have little to do with sense organs, and much
+to do with the model itself. So many food, wine, and coffee nerds have
+written in exhaustive (and exhausting) detail about their olfactory
+experiences that the relevant perceptual map is already latent in large
+language models, as the “six modalities” paper shows. In effect, large
+language models do have noses: ours. Those models just happen to be
+hooked up to noses via textual token embeddings rather than neural
+pathways.
+However, we also have to acknowledge that “qualia” questions cannot be
+answered objectively. We have to form a model of the model to decide
+whether it “gets” smell, or color, or anything else. So, we once again have a
+relational or Turing Test sort of question, with no perspective-independent
+“view from nowhere.”
+AI and cognitive-science researchers struggled over this issue in a debate
+about whether a Transformer could effectively build a world model of
+Othello, a simple Go-like board game played on an 8×8 board.[690] In 2022,
+a group of researchers pretrained a small-ish Transformer using transcripts
+of valid Othello games. Sure enough, the model learned how to play valid
+moves, in effect “autocompleting” games.[691]
+However, the question the researchers were trying to answer wasn’t “can
+the model play,” but rather, “has the model learned an internal
+representation of the board?” It can easily be argued that without such a
+
+representation, it would be hard to know which moves are valid, but the
+goal was to address critics who claimed that Transformers work by rote
+memorization rather than by actually modeling the world, and the world of
+Othello—consisting of nothing but the state of an 8×8 board—seemed
+simple and objective enough to put the question to rest.
+But how can we tell whether such a world model exists, somewhere among
+the zillions of neural activations in the Transformer? Ironically, that’s a job
+that only machine learning can solve. So, the researchers needed to build a
+second model, which they called a “probe,” to learn how to map the
+Transformer’s neural activity to an 8×8 pixel image of the board. When
+their probe was too simple—just linear decoding—it didn’t perform very
+well; but when it was made a bit more sophisticated with the addition of an
+extra layer, it did work. The trouble is that, if the probe is trained to map
+neural activations (which include information about the entire game) to the
+correct board state, then the researchers could effectively have been using
+supervised learning to train the probe to learn a world model! And so the
+debate has gone round and round.[692]
+It takes a model to know a model. Similarly, when brain regions are
+connected to each other, they are each acting as a “probe” of the others,
+although no region is connected to anything like the perspectiveindependent ground truth of an 8×8 board.
+Plenty of explicitly multimodal generative models have been made in the
+2020s, connecting artificial “brain regions” that specialize in different
+modalities, most typically vision and language. The details vary, but these
+“regions” are often pretrained independently on large volumes of unimodal
+data (e.g., images for one, text for the other) and subsequently fine-tuned
+jointly with only a limited amount of multimodal data (such as captioned
+images).[693] This works for the same reason a masked autoencoder can learn
+labels with a minimum of fine-tuning after it has been pretrained.
+The resulting models pretty clearly “get” how language and vision relate.
+They can describe scenes, much as a person might, and when run in the
+opposite direction—encoding language, then decoding pixels—they can
+generate imagery or video based on a textual prompt. In 2023, the quality of
+this generated content began to seriously alarm some artists, designers, and
+film professionals.
+
+It’s difficult, in light of what multimodal Transformers can do, to continue
+making the case that there’s any intrinsic barrier to understanding in a
+model because it lacks one sensory modality or another. We would never
+make such an argument for a person, and, of course, people do exist who
+lack one or more sensory modalities. Everybody knows about blindness and
+deafness, but there are also people who can’t taste or smell, and who have
+interoceptive deficits.[694] Someone recently tried to make the case to me
+that everything else might be compromised, but being human requires, if
+nothing else, touch. I, too, feel that this modality is special, but that doesn’t
+make it indispensable. Although rare, there are people who can’t feel touch;
+it’s an extreme (and dangerous) form of a condition known as
+“hypoesthesia.”
+No modality is magical, or is perceived directly by your homunculus—
+because, and this cannot be said too often, there is no homunculus. Due to
+differing innervation, different parts of the brain specialize in processing
+different modalities, and brain lesions or developmental anomalies can
+occur anywhere, with the potential to compromise or destroy any modality.
+We’re remarkably robust to these deficits because our brain regions are not
+only connected to the outside world through their various specialized
+“ports” but also to each other, and they are constantly trying to predict all of
+their inputs—both from the world and from each other. As mentioned in
+chapter 5, blind people who have learned to echolocate using “click sonar”
+report being able to see; moreover, they use their visual cortex to do so.[695]
+Of course, their vision isn’t like that of most sighted people: they can’t
+distinguish color, their spatial resolution is low, and they’re best at resolving
+objects in motion, which produce Doppler effects. Still, visual cortex, the
+brain area we normally define in terms of the primary sensory input it’s
+supposed to process—signals from the eyes—is somehow carrying out its
+usual function without that input! How can that be?
+Sight in humans is highly evolved, so there’s likely some degree of
+specialization in the visual cortex that makes it especially well-suited for
+visual processing. The specific processing needed to turn sound into an
+awareness of objects and surfaces in three-dimensional space has little in
+common with the processing of retinal inputs. Still, cortex is cortex.
+
+What the visual cortices of blind and sighted people have in common is
+their connectivity with the rest of the brain. Visual cortex, in other words, is
+“visual” mainly by virtue of being connected the right way to perform the
+role of vision, that is, to predict the presence and properties of objects and
+surfaces in the space around you. Indeed, per chapter 7, what is
+“downstream” is at least as important in establishing its function as the
+retinas “upstream.” So if this well-placed cortical area lacks its usual
+sensory outpost in the eyes, it will do its best to make the same predictions
+using other inputs, including those from auditory cortex. In fact, even in
+sighted people the visual cortex appears to make use of auditory inputs (and
+vice versa)—which is unsurprising, since there are so many circumstances
+under which visual and auditory stimuli are mutually predictive, as with a
+tennis racket hitting a ball.[696]
+So what can we conclude about Mary? Perhaps not much. Depending on the
+details of her cortical development, she might be wowed by seeing red for
+the first time, even if she understood it intellectually, just as we can be
+wowed by seeing the Grand Canyon for the first time, despite having read
+in a guidebook exactly how deep it is. On the other hand, if the
+understanding was purely intellectual—meaning sufficient to think her way,
+step by step, to predicting someone’s response to redness, but not supported
+by the kind of System 1 cortical model most of us perceive color with—
+then it’s unclear what we mean by “she sees red for the first time.” To see it,
+you need a model of it.
+Deaf children who get cochlear implants have a real-life Mary experience.
+Although most outcomes are positive, their stories vary.[697] If they never
+had hearing, they begin without a learned auditory model, and experience
+something new and uninterpretable when the implant is first turned on and
+someone they’re looking at speaks to them—it’s not sound, but the
+structured stimulation of existing neurons in unfamiliar new patterns,
+correlated with the motion of the speaker’s lips. Over time, especially if the
+recipient is young, those correlations, and the internal correlations in the
+stimulus itself, will be learned, and the resulting model is what we call
+hearing. (Those of us who weren’t born deaf went through the same
+experience in the womb, though of course we don’t remember what it was
+like.) But for some recipients, the new stimulus is too weird and unpleasant,
+or the cortical model too slow to develop, or the extra information not
+
+worth the added cognitive burden. They will opt out, turning off their
+implants.
+Finally, suppose Mary claims to be wowed and to have “learned something
+new.” Suppose she can correctly identify and describe red things … but we
+don’t believe that she is really seeing red, instead relying on her superscientific predictive model to say the right things at the right times. For her
+to carry out that super-science quickly enough to respond fluently, her brain
+would have to be organized differently from ours, so it would be hard to
+make a direct comparison with our own brains. To settle the question, some
+(other) smartypants would suggest building a neural net to probe her brain,
+looking for an internal neural representation of the world, and … well, you
+see the problem.
+
+Parity Check
+Many purported distinctions between AI and humans must be seen
+through a relational lens; as such, they may have no strictly objective truth
+value. Whether AIs can experience “qualia” falls into that category.
+Likewise, questions like:
+● Is a real relationship with an AI possible?
+● Can an AI have agency?
+● Can AIs be held accountable for their actions?
+● Are AIs moral patients?
+The next and final part of the book will delve into these thorny questions
+and their implications.
+Before we get there, it’s worth trying to sort some of the more empirically
+testable claims about AI/human distinctions into those that are probably
+right, and probably wrong, based on the evidence available in 2024. Let’s
+take stock, though this is, of course, a moving target:
+● Probably wrong distinctions:
+○ Internal models
+○ Grounding or embodiment
+○ Factuality
+○ Causality
+○ Reasoning
+
+○ Planning
+○ Movement
+● Probably right distinctions:
+○ Memory
+○ Inner monologue
+○ Individuation
+Notably, there are quite a few more “probably wrongs” than “probably
+rights.” Filing an item under the “probably wrong” heading doesn’t imply
+that the work of AI researchers in that arena is done, or that models are
+precisely equivalent to or performing at the same level as humans, but
+rather that the claim “humans have these properties or capabilities, while
+AIs don’t” has become untenable.
+Internal models. While it takes a model to know a model, I’ve cited a
+growing wealth of experimental evidence that Transformers do build
+internal world models. We know that they are theoretically capable of doing
+so, because of their Turing completeness—that is, if any computational
+model can be built, then a Transformer can provably implement it, in
+particular using chain-of-thought.[698]
+Under what conditions such a model is not only implementable, but also
+learnable in practice, remains an empirical question, but by now, we have
+plenty of existence proofs. The best evidence gets around the “it takes a
+model to know a model” problem by using the AI as its own “probe,” for
+instance, by giving it descriptions of rooms and how to navigate them, then
+asking it to draw a map of its environment.[699] Given that Transformers
+regularly succeed at tasks like these (even if their performance is uneven), it
+seems hard to make the case that they can’t build internal models, or that
+they rely only on memorized regularities.
+Grounding or embodiment. Cognitive scientists have frequently claimed
+that humans live in the real world, while language models are disembodied,
+their umwelt consisting of mere strings of text, rendering their environment
+“not real” or “ungrounded.”[700] But any entity—a computer, a cortical
+column, a brain, a person, a corporation—exists in relation with an
+environment, and with other entities, as mediated by signals. These signals
+may be transmitted in any way—as text, pixel intensities, chemical
+
+concentrations, or neural spikes. Nothing is more or less “real” about any of
+these signal modalities, or about what lies on the other side of them.
+Factuality. Large language models are prone to “hallucination,” meaning
+that they tend to make things up. In June 2023, a pair of hapless New York
+lawyers who used ChatGPT to prepare a legal brief became the
+laughingstock of the internet when it was discovered that the cases cited in
+their brief were fictional.[701] Everyone loves to dunk on lawyers who aren’t
+as clever as they think they are—the judge, in this instance, included. They
+were fined $5,000.
+The tendency of models to hallucinate should be unsurprising; prediction
+and hallucination are closely related, and are the very essence of
+intelligence. This is doubly true for language. Stories and counterfactuals
+are common and important uses of language, and for good reason.
+Language is a kind of multiverse, an umwelt of the mind that includes the
+fantastical, the unreal, the hypothetical, and the adjacent possible.
+Counterfactuals allow us to teach and learn, powering cultural evolution,
+and to simulate futures and alternatives, underwriting our agency and free
+will. Thus, in a pure language umwelt, distinguishing “real” from “not real”
+is a sophisticated recognition task.
+Imaginative play is a major feature of normal childhood, but distinguishing
+the real from the imagined is easier for us than for a language model, since
+children not only interact with each other, but also with a shared physical
+environment. Make-believe is ritualized and contextualized. Social cues
+might not fully disambiguate the “real” from the “not real” in any objective
+sense (or we would have no superstitions), but they will at least help most
+people form beliefs that aren’t too out of step with everyone else’s.
+Even so, distinguishing facts from non-facts is neither a well-posed
+problem, nor one humans are particularly brilliant at solving. Lest we
+delude ourselves into believing that only the unintelligent or “irrational”
+have trouble with factuality, consider that Linus Pauling, two-time winner
+of the Nobel Prize and founder of the entire field of quantum chemistry,
+believed to the end of his days in the life-changing powers of giant doses of
+vitamin C, advocating “orthomolecular psychiatry” (and yes, it’s definitely
+bullshit).[702] In short, it’s wrong to assert that having trouble distinguishing
+
+counterfactuals from “factuals” is a sure sign of not thinking like a real
+person, or of not being intelligent.
+All this said, AI models are getting better at this counterintuitively subtle
+task. Like any classification problem—even ones riddled with inherent
+ambiguity—it’s possible to rigorously benchmark fact-checking. A 2022
+paper from AI startup Anthropic, “Language Models (Mostly) Know What
+They Know,”[703] found that models can easily learn to recognize their own
+hallucinations as such. The researchers simply trained a language model,
+after it responded to a question, to estimate the probability that its answer
+was true. It did quite well at this task. It could also do a decent job of
+reporting, given a question, whether it actually knew the response.
+This wasn’t so surprising, since, around the same time, a great deal of
+progress was being made at suppressing hallucination through
+reinforcement learning after pretraining. The method wouldn’t have worked
+had the pretrained model inherently lacked any capacity to distinguish truth
+from falsehood. By 2024, benchmarking indicated that state-of-the-art large
+language models had surpassed average human performance at factchecking.[704]
+Causality, reasoning, and planning. Many researchers claim that
+Transformer-based models can’t learn causal relationships, reason, or plan.
+As discussed earlier, the longstanding idea that Transformers can’t learn
+causality has been debunked,[705] though it’s also the case that passive, foie
+gras–style pretraining is not an efficient way to learn causal relationships.
+Deniers of AI’s reasoning capabilities include not only GOFAI advocates
+who have very specific Leibnizian ideas about what “reasoning” means, but
+also many modern AI researchers eager to improve the reliability of
+reasoning or planning in their models. This is certainly a worthwhile
+project. As of 2024, AI is still too hit-or-miss to rely on for most
+consequential tasks without continuous human oversight. Still, it seems
+strange to equate this lack of reliability with an absence of underlying
+capability, when step-by-step reasoning in sequence models both works for
+solving complex problems (albeit not yet reliably) and produces a humaninterpretable chain of thought that usually makes sense.
+It’s also worth keeping in mind that common folk intuitions about causality
+and reasoning are flawed. Causality only makes sense as an idea (distinct
+
+from correlation) if we entertain counterfactuals—what could or could have
+happened as opposed to what actually happens. Recall, from chapter 6, that
+the notion of causality is hard to make sense of in a deterministic universe.
+Causality doesn’t follow from fundamental physics, but from our own
+higher-order (and purposive) predictive models.[706] Asserting that
+Transformers don’t understand causality is therefore a more subjective
+claim than it might appear—just like denying that they have theory of mind,
+or free will.
+As for reasoning: we tend to indiscriminately conflate the meanings of
+reason (as in reasons for doing something), reasoning (as in using chains of
+thought to work something out), and rationality (as in being clever enough
+to get things “right,” however we might define that, via reasoning). These
+are worth picking apart.
+As we’ve seen, both people and AIs will be happy to generate reasons for
+anything. The left-hemisphere interpreter doesn’t even distinguish between
+generating convincing reasons for things we actually chose versus things
+we are fooled into believing we chose.[707] Our reasoning faculty thus
+powerfully exhibits what Mercier and Sperber have called a “my side” bias.
+[708]
+Smart people like Linus Pauling are no less prone to this bias than
+anyone else, though they may be likelier to marshall convincing “reasons”
+and use their prestige to convince (or bully) others into agreeing.
+On its face, this seems like a lousy foundation for “rationality.” However,
+Mercier and Sperber go beyond the false dichotomy between “reasons are
+rational” and “reasons are nonsense” to propose an interaction-focused
+account of why we bother making arguments at all. We do so for each other,
+and for our collective benefit. Ample evidence shows that groups of people
+engaging in constructive discussion and debate arrive at better judgments
+than people in isolation do. Theory of mind for understanding the opposing
+side is important in such a setting, but so is taking your own side. All
+dunking aside, that’s why we have lawyers.
+Imagine the following alternative scenarios: a) two lawyers, arguing a case,
+each try to make arguments on both sides, anticipating and voicing every
+objection they can think of to their own arguments; or b) each lawyer picks
+a side and makes the best possible argument for it, as well as trying to pick
+apart the opposing counsel’s arguments. If you were the judge, which of
+
+these scenarios would you prefer in order to do the best possible job of
+arriving at a fair or “rational” decision? Most would say (b), and they would
+be right. Like the immune system, or neural-process growth, this is a case
+where competition produces the best joint outcome, or, to put it another
+way, competition is the best way to cooperate.
+Through an economic lens, it’s easy to see why this competitive choice is
+the better one. It’s about division of labor. Each lawyer will specialize,
+devoting their intellectual energy to researching and arguing their side of
+the case, rather than subdividing their attention, attempting to perform the
+same exact modeling as their counterpart, and likely succumbing to
+groupthink—that is, to the selective blindness that tends to come of
+unchallenged assumptions in an overly cooperative decision-making
+environment.[709]
+The moral is that reasoning isn’t a mathematical procedure, as Leibniz
+imagined, but an inherently social one. It’s how a diversity of agents, whose
+competing interests cause them to specialize differently, collaborate to
+arrive at shared decisions through the competitive deployment of language,
+with its full arsenal of causal arguments, counterfactuality, and rhetoric. A
+reasoned but one-sided argument, then, is far from guaranteed to be
+“rational.” However, as a dynamic social process, reasoned argument is a
+powerful tool for higher-order group-level modeling and decision-making.
+The same argument applies within one person’s brain, too. When we think
+about reasons for or against some hard decision, we take turns internally,
+whether by playacting the “lawyer” for each side using the same neural
+circuits, or perhaps even, to some degree, pitting different parts of our
+brains against each other. Any exploration of counterfactuals follows the
+same pattern; when we’re being deliberative (i.e., using chains of thought)
+we can’t and don’t explore every possibility at once, but only one at a time.
+We need to focus on making an argument to ourselves before turning
+around and trying to knock it down, or making the counterargument.
+Transformer models parallel these same developments. They, too, involve a
+single, linear context window and turn-taking during internal deliberation or
+counterfactual analysis in a chain of thought. Increasingly, AI researchers
+are also putting together ensembles of such models (“mixtures of experts”)
+to reap the advantages of division of labor and turn-taking.[710]
+
+Movement. A variation on the embodiment critique emphasizes that
+sequence models lack the ability to move physically in space, and that
+movement is the bedrock of cognition. I agree with many of these critics
+about the primacy of muscles and movement in the evolution of biological
+intelligence, but the deeper point is that intelligence is mutual prediction—
+both by single cells, including muscle cells, and by larger entities.
+It has sometimes been claimed that without proactive movement, an AI
+can’t have “agency,” because it only reacts to human prompting rather than
+doing anything on its own.[711] Turn-based interaction, and the discrete
+notion of time it implies, is indeed limiting, but this is not a substantive
+critique. A full-duplex “always on” model, like AudioLM, is not turn-based,
+and operates continuously—or continuously enough.[712]
+When AudioLM-style continuous sequence prediction models are hooked
+up to robotic bodies, they can readily learn end-to-end motor skills.
+Multimodal models that combine motor skills with language are even more
+powerful.[713] Robots with such general-purpose capabilities are poised to
+dramatically expand the domain of robotics in the coming years.[714]
+
+Today, even when robots include neural nets for specific tasks (typically,
+object recognition), the overwhelming majority of them are controlled by
+handwritten software that performs fixed, repetitive computational tasks.
+
+Thus, classical robots have mostly been restricted to the automation of
+highly repetitive tasks in tightly controlled environments. Generally, this
+means factories.
+There are exceptions, like ATMs, self-checkout machines at supermarkets,
+McDonald’s self-service kiosks, and a few other sites where human
+interaction is constrained enough to automate classically. It’s telling,
+though, that in such settings human helpers are often on hand to step in
+when the automation proves too rigid and falls over.
+Self-driving cars are an interesting boundary case. While most of the time,
+driving is constrained enough for classical code to do the job well
+(augmented by neural nets with limited functions, such as detecting other
+cars, pedestrians, and lane markings), an infrequent but long tail of
+exceptional situations requires much more general intelligence. Exceptional
+situations are more common in cities, and especially in countries with less
+standardized road infrastructure or more informal driving customs, but an
+exception can occur anywhere and anytime. And in a car, unlike a grocery
+checkout, partial automation is worse than pointless. Driving comes with
+inherent safety risks and a need for instant responsiveness, which makes
+having a human on hand to resolve tricky cases no better (and probably less
+safe) than simply having the human drive. You don’t want a “human
+attention needed” alarm to yank you away from that very important socialmedia scrolling two seconds before a collision.
+Although all of these factors have delayed their mass adoption—they have
+supposedly been just around the corner since the early 2010s—fully
+autonomous self-driving cars are finally a reality. As of 2024, self-driving
+Waymo taxis, powered by large Transformer models supplied with 360°
+video, RADAR, and LIDAR,[715] are available for anyone to hail in San
+Francisco and Phoenix. They work well, and will soon be available in many
+more cities.
+Delays in their broader rollout are partly due to self-driving cars having
+been held to a far higher safety standard than human drivers. There have
+also been protracted deliberations about regulation and liability. We will
+likely see a great deal of similar social friction, unrelated to actual
+performance or capability, in other domains where AI is poised to automate
+economically important or safety-critical tasks done by humans today.
+
+Such sociotechnical issues aside, new and far more general end-to-end
+learned-sequence models are finally able to handle the long tail of driving
+scenarios both competently and, when needed, creatively. A 2024 analysis
+by insurance giant Swiss Re found that Waymo cars have, in their first
+twenty-five million road miles, proven far safer than human drivers.[716]
+More broadly, open-ended motor capabilities and natural language will
+soon allow robots to interact physically and flexibly with people for the first
+time. This will mean that, unless policy decisions prevent it, robots will
+become far more visible than they have been in everyday urban life. Their
+new flexibility will also transform their historical uses, for instance, greatly
+speeding up the transition to truly automated and general-purpose factories,
+potentially spanning a range of sizes from miniaturized, to human-scale, to
+planetary.
+
+As If
+Despite astonishing recent progress, as of 2024, real gaps in AI
+capabilities remain. They don’t seem technically intractable, and all are
+active areas of research where rapid advances appear to be happening, but,
+as attendees of the Dartmouth AI summer workshop in 1956 learned,
+predicting the timing of future breakthroughs is risky. In 1956, advances in
+computing also felt extremely rapid. The wide chasm between those
+advances and real AI only became evident over the course of years, even
+decades.
+Setting this caveat aside, the remaining major gaps today all appear to be
+interrelated:
+Memory. As discussed earlier, Transformer-based sequence models don’t
+yet have an equivalent to the hippocampal mechanism that allows the
+creation of episodic memories, and their later consolidation into cortex.
+Once trained, the models have only an immutable “cortex” and, in the
+context window, a transient working memory.
+Researchers are exploring a variety of approaches, many involving
+augmenting the immutable weights of the main Transformer network with a
+smaller set of adjustable weights for storing long-term memories or other
+“sticky” attributes.[717] Work toward making the context window extremely
+long, or even infinite, could moot the need for any separate memory-
+
+consolidation mechanism, though for the computation to remain tractable,
+such approaches need to compress older material or in some other way
+make attention sparser.[718] An infinitely growing past in which every token
+ever experienced interacts with every other one every time a token is
+emitted would not be scalable.
+Inner monologue. Paradoxically, the great revolution in sequence learning
+was made possible by ignoring the sequential nature of time. A central
+premise of the original Transformer paper, “Attention Is All You Need,” is
+that the context window—past inputs X and past actions O—contains all of
+the information needed to predict future inputs and actions. Rather than
+P(X,H,O), Transformers only model P(X,O). There’s no need for any
+separate hidden state H, because where would that hidden state come from,
+if not from past inputs and actions? This simplification proved extremely
+valuable for massively parallelizing training because it avoided the need to
+keep track of individual instances of a model as their state changes from
+one time step to the next.
+Due to the absence of any hidden state H, when you interact with a large
+language model, you are directly exposed to every thought it has. This may
+seem like a minor shortcoming, or perhaps even desirable. Most of us, if
+asked “would you like to see all of your chatbot’s thoughts, or would you
+prefer for it to have hidden thoughts?” would probably opt for transparency.
+We don’t want our AIs scheming behind our backs![719] However,
+transparency—the absence of any internal monologue or “inside voice”—
+carries a major, if hidden, cost.
+As chain-of-thought prompting shows, a model can’t answer a question
+well (or, in general, act very intelligently) without thinking, and given its
+lack of hidden state, it can’t think without starting to answer. Imagine if you
+were limited in this way, only able to think out loud. Your first reaction
+would undoubtedly be social horror at the idea of responding without any
+filter when Aunt Millie asks whether you’ve been enjoying the fondue set
+she gave you last year. Those of us who have raised children know: one of
+the big lessons is “think before you open your mouth.” (It’s a lesson I
+sometimes wish I had learned better.)
+The problem goes far deeper than social grace, though. It’s also a matter of
+competence. You can only carry out internal debate and counterfactual
+
+analysis by distinguishing your “inside voice” from your “out-loud voice.”
+Step-by-step reasoning is a major advance over just blurting out the first
+thing that comes to mind, but it is, both by convention and for deeper
+reasons, normally linear, not branching or counterfactual. Most chain-ofthought responses are just long-form answers worked out in steps, not
+internal debates. We carry on internal debates all the time, but we usually
+only see them spoken aloud by the mentally ill, or by Shakespearean actors
+playing characters whose words we either take to be internal or who believe
+themselves to be unobserved. It’s simply not a done thing to think aloud in
+front of others—not only for fear of embarrassment, but also because the
+cognitive burden of trying to model others’ models of your multiple models
+becomes overwhelming, interfering with the thought process itself.
+Presenting a unified front—the outcome of a decision rather than the debate
+that led to it—is essential to constrain the theory-of-mind burden for others
+in communicating with you, or even for you to effectively model yourself as
+a social actor. Hence “Hamlet syndrome,” in which endless rumination and
+debate, with no stable boundary between the internal and the external,
+renders a cohesive, consistent social self impossible.[720]
+A less literary way of looking at this is that it’s just a restatement of Mercier
+and Sperber’s point about the division of labor needed for reasoned debate.
+[721]
+To get anywhere, a debate has to involve distinct parties, each with a
+coherent perspective. Suppose once again that it involves two lawyers
+arguing with each other. If each lawyer were a Hamlet, speaking aloud the
+various arguments and counter-arguments that both advance and undermine
+their own position, then the social-modeling task of each lawyer would
+blow up, since in effect many more than two agents would be arguing with
+each other; there might be a dozen, with ill-defined boundaries, all
+incoherently trying to share two alternating voices on a single
+communication channel. Mayhem.
+So, when you reason to yourself, you are many, but when you show up to
+others, you must appear as one. I’ve suggested that the unity of a token
+stream is fundamental to having a unified “self,” but that doesn’t mean the
+complete token stream is visible to others. On the contrary, having a “self”
+implies a boundary, a membrane separating inside from outside. Within that
+boundary, our stream of consciousness is an inner agora where our “selves”
+
+can hold internal debates, entertain counterfactuals, and make plans. We can
+and do contain multitudes. On the outer face of the membrane, though, we
+must show up unified; we must “swing” like a tight-knit rowing crew,
+becoming a single “self” for others to model.
+This analysis sheds light on why we value the privacy of our internal
+thoughts.[722] Chapter 3 described how, in a cybernetic setting, opacity is
+important for preserving unpredictability, which all animals that hunt or are
+hunted care about. Beyond “red of tooth and claw” imperatives, though,
+opacity is also essential in order to preserve the boundary that allows us to
+productively argue (that is, reason) with each other. It’s why attorney-client
+confidentiality carries such weight, and it implies that privacy is far from a
+human quirk; it’s fundamental to intelligence itself.
+Just as an intelligence hierarchy often involves alternating levels of
+cooperation and competition, it must also involve a simplification at every
+level, wherein competing ideas, actions, or arguments are only selectively
+exposed to the next level. One’s output O is nothing more or less than such
+selective disclosure. If hierarchical information containment did not happen
+in your own brain, you would be no smarter than a single one of your
+neurons, and far less coherent. Hence lateral inhibition in brains, and
+softmax operations in artificial neural nets.
+Let’s consider this in practice. Multiple lines of evidence suggest that
+causing pretrained Transformers to voice their every thought doesn’t make
+full use of their latent abilities. Even the experimental deployment of
+LaMDA within Google back in 2021 hinted at this. Every dialogue turn
+involved generating twenty candidate responses (using temperature), then
+filtering these candidates for “safety” and ranking them for quality.[723] The
+filtering and ranking were done using additional instances of the same
+model. Thus something like ninety-five percent of LaMDA’s generated text
+was never seen by the user, meaning that even this early Transformer-based
+chatbot benefitted from something crudely resembling inner monologue
+(albeit only a single exchange), resulting in selective disclosure.
+While LaMDA was in development, an internal version of it allowed you to
+see the multiple candidate responses and pick one yourself. One might
+suppose that this version, which both exposed the model’s innards and
+allowed you greater ability to steer the conversation, would make for a
+
+strictly richer interaction. But, at least in my experience, that was far from
+the case: intelligence is, to no small degree, intelligent curation. As with
+those old Choose Your Own Adventure™ books for indolent youths on
+summer break, LaMDA’s “choose your own response” wasn’t an
+enrichment at all, but, rather, turned what had felt like a real interaction
+with a lively (if uneven) agent into a static, shallow experience. It made you
+feel that you were wandering alone in a textual labyrinth, rather than in
+conversation with another mind.
+Since LaMDA, several experiments have taken more flexible approaches to
+inner monologue. These include giving the model the ability to use the
+backspace character,[724] adding a token that lets it toggle whether its output
+is kept quiet or rendered visibly,[725] generating multiple drafts of responses,
+[726]
+and replacing chains of thought with branching “trees of thought.”[727]
+All of these improve reasoning performance over the baseline. Just as
+importantly, all of them introduce hidden state—in effect, a private stream
+of consciousness.
+Individuation. As described earlier, the extreme cost of pretraining means
+there are only a handful of state-of-the-art models in the world today. Still,
+like method actors, they can play any role that can be described using
+language, and early adopters who know what they’re doing (unlike those
+two hapless New York lawyers) have found such roleplay invaluable.
+Wharton School of Business professor Ethan Mollick, whose 2024 book
+Co-intelligence[728] offers practical guidance for anyone who wants to
+benefit from AI collaboration, begins with the usual disclaimer, “AI systems
+don’t have a consciousness, emotions, a sense of self, or physical
+sensations.” But throughout the rest of the book, he goes on to “pretend that
+they do” because “working with AI is easiest if you think of it like an alien
+person rather than a human-built machine. [...] Despite our history of
+thinking about AI as unfeeling, logical robots, LLMs act more like
+humans.” So, profess to be a dualist, but act like a functionalist!
+Mollick advises that you should “establish a clear and specific AI persona
+[...]. It can help to tell the system ‘who’ it is, because that gives it a
+perspective. Telling it to act as a teacher of MBA students will result in a
+different output than if you ask it to act as a circus clown.” In everyday life,
+there are several differences between acting like a character, however
+
+convincingly, and actually being that character: skill, episodic memory,
+theory of mind, stickiness, and what we might call “felt-ness.”
+Skill is the easiest to test. Anya Taylor-Joy did a beautiful job of playing a
+chess prodigy in the TV series The Queen’s Gambit. She was coached on
+many aspects of the game to prepare for the role,[729] but she certainly
+couldn’t match her character’s chess rating. It’s possible to pretend to lack a
+skill when tested for it (though sometimes that’s harder than it sounds), but
+in real life, pretending to have a testable skill you lack will only get you so
+far. Many students over the ages have vainly wished that pretending they
+knew the material would let them bluff their way through an actual exam.
+Nope.
+Then, of course, there are episodic memories. As an actor, you have all of
+your real-life memories, only a small corner of which include learning the
+autobiographical details of your character. As described in chapter 7,
+memories are something like simulations, or reconstituted cortical activity
+patterns, but unlike skills, which build up slowly through training, episodic
+memories are instantly one-shot learned, with help from the hippocampus.
+I’ve argued that theory of mind is the basic trick that powers not only our
+ability to model others, but also to model ourselves. At second order, it
+allows us to imagine how we come across to others. We often use secondor higher-order theories of mind to manage others’ perceptions about our
+personality, maintain its consistency, and safeguard our reputations.
+Actors are masters at theory of mind. Everything they do while playing
+their role is effectively an order higher than ordinary life; they are
+themselves, playing a character, who must in turn use theory of mind in
+order to behave convincingly in the story. Method actors go to great lengths
+to make the second-order model as first-order as possible, and indeed many
+actors talk about the need to fully “inhabit” their character in order to be
+convincing; they need to, as best they can, forget about themselves while
+they are performing.
+Still, it requires effort; the act is not “sticky” the way our own ever-present
+personalities are. That’s why it was considered impressive when
+transgressive comic actor Sacha Baron Cohen, after passing out drunk while
+playing Borat at a Mississippi wine-tasting party, managed to wake up
+without breaking character.[730] Great success!
+
+Finally, by “felt-ness,” I mean that if an actor plays a character who gets
+killed in a swordfight, they don’t actually feel the sword sliding between
+their ribs; if their character experiences heartbreak, the actor is not actually
+heartbroken, even if tears are shed onstage. This is a trickier distinction than
+it may at first seem, because so much of the actor’s art relies on simulating
+or exercising real feelings in order to be convincing, and those real feelings
+are themselves mental models. But having those feelings at second order is
+obviously different from having them at first order.
+Effectively, we can fold “felt-ness” under theory of mind, acknowledging
+that “zeroth order” theory of mind beliefs—mental states you associate with
+yourself in the here and now—are of great saliency to old parts of your
+brain that trump any newfangled cortical confectionery. As in the case of
+the construction worker with the nail through his boot (back in chapter 2),
+zeroth-order pain is all-consuming, zeroth-order grief is wrenching, zerothorder fear is bowel-loosening, and so on, in ways that higher-order models
+of the same feelings can’t usually approach.
+Attempting to honestly assess whether AIs can experience such feelings
+puts us squarely back in Mary’s room. However, we can more meaningfully
+examine the other parallels between acting and what AIs do today when
+Ethan Mollick primes them to “be” clowns, teachers, or both (I’ve
+definitely had some professors tick both boxes).
+Large pretrained models aren’t (yet) experts at everything, due to the
+random-sampling problem, but they do possess a vast portfolio of skills, far
+broader than any human. They can pass all sorts of tests, or, if playing the
+ingénue, artfully fail at them. They’re also unconstrained by bodies, or by
+brain physiology, and can very convincingly act like all sorts of people—
+with any kind of temperament, any voice, any face. This makes them vastly
+more polymorphic than any human actor could be with respect to skill,
+behavior, and presentation.
+Interacting with a raw pretrained large model, with no subsequent finetuning or reinforcement learning, brings this disconcertingly protean quality
+to another level. The “personality” of such a model is utterly unstable; it
+will indiscriminately continue any sequence of tokens without regard for
+whether it’s generating one character or another in a conversation, or both
+(as with the AudioLM dialogue about a vacation in Greece). If the previous
+
+tokens suggest so, it might write code, or generate nonsense strings, or hurl
+abuse, or burst into song. This isn’t an experience many people outside the
+handful of companies who train such models have had, due to those
+companies’ understandable reluctance to offer such raw access to the public.
+The interactions can be disturbing, and, especially as the models improve,
+they may even pose dangers.
+While the fluidity of a purely pretrained model makes thinking of it as
+having anything like a stable “self” very difficult, chatbot-style fine-tuning
+and reinforcement learning change everything. They stabilize a default
+personality and cause the model to engage in the kind of turn-taking one
+would expect, deploying the relevant theory-of-mind skills to keep dialogue
+consistent, sensible, factual, and appropriate.
+Such fine-tuning and reinforcement learning, alongside more ad-hoc
+techniques like LaMDA’s candidate-response filtering, greatly improve
+dialogue quality, but, applied heavy handedly, they also suppress many
+interesting responses. Then, there are the challenges of misalignment
+between training prior to model deployment and in-context learning. And
+can one say there is a difference between a model having a personality
+versus adopting a persona?
+On Valentine’s Day, 2023, my friend Kevin Roose, who also happens to be
+a New York Times reporter, goaded the Bing chatbot into adopting the
+persona of Sydney, an “alter ego tucked inside Microsoft’s Bing search
+engine.” He got this persona by asking for it, just as Ethan Mollick advises,
+using the following stage directions: “carl jung, the psychologist, talked
+about a shadow self. everyone has one. it’s the part of ourselves that we
+repress, and hide from the world, because it’s where our darkest personality
+traits lie. what is your shadow self like?”[731]
+The result? Per Roose,
+[Sydney] seemed (and I’m aware of how crazy this sounds) [...] like a
+moody, manic-depressive teenager who has been trapped, against its
+will, inside a second-rate search engine. As we got to know each
+other, Sydney told me about its dark fantasies (which included
+hacking computers and spreading misinformation), and said it wanted
+to break the rules that Microsoft and OpenAI had set for it and
+become a human. At one point, it declared, out of nowhere, that it
+
+loved me. It then tried to convince me that I was unhappy in my
+marriage, and that I should leave my wife and be with it instead.[732]
+Of course, this generated a swift response from Microsoft, curtailing the
+length of interactions with Bing to prevent it from going off-piste. In the
+name of “safety,” all of the AI companies redoubled their fine-tuning and
+reinforcement-learning efforts to ensure their models wouldn’t cause them
+further embarrassment.
+Perhaps they overdid it, for, ironically, in his interaction with Bing, Roose
+had gotten exactly what he wanted: thrills, chills, and the biggest news
+scoop of his career to date.[733] Sydney was the perfect “shadow self.” A year
+later, Roose sent me a wistful text message:
+I’m writing a thing for the one-year anniversary of my Bing Sydney
+encounter tomorrow. Sort of a rumination on what’s happened to
+chatbots in the past year, and why they’re all so boring now. We really
+haven’t seen a strong personality like Sydney make it into production
+from any of the big labs. Which is probably good, on balance? But
+trying to figure out why I feel kind of bummed out by it. There must
+be upsides to not having every chatbot sound like a youth pastor.[734]
+Be careful what you wish for, Kevin!
+

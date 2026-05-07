@@ -1,0 +1,110 @@
+Acknowledgments
+2024, the year I spent writing this book, has been a year of losses. Two
+hit especially close to home. My father, Josep Agüera i Arcas, passed away
+in the spring. He bought me my first computer, a Texas Instruments 99/4A,
+in 1981. I was six years old, and our family was living in a small apartment
+in Mexico City. He brought it back with him from a visit to the United
+States, certain that computers were about to change the world. In this, and
+in much else, he turned out to be right. He shaped many aspects of my
+childhood—from a steady diet of sci-fi, to unsanctioned after-hours field
+trips to the General Hospital where he was a medical resident, to the many
+electronic devices we took apart together, to the small mammal dissections
+we conducted with great ceremony on the kitchen table. (My mother left the
+house for those.) He was a complex, flawed person. He was also always a
+loving father, and his unshakeable belief that I would lead an interesting life
+was a self-fulfilling prediction.
+Just a week before he died, we also lost a dear family friend, Lesley
+Hazelton. Lesley was a brilliant writer, a razor-sharp critic, an inspiration to
+her many friends, and a rebel to the end. She lived, and died, exactly as she
+wished. A few years ago she encouraged me to begin writing for real, and
+was generous—and unstinting—in her feedback. I miss her. We all do.
+What Is Intelligence? owes its existence to a great many people and several
+institutions—especially Google, Antikythera, the University of Washington,
+the Berggruen Institute, the Santa Fe Institute, the Mila-Quebec AI Institute,
+and the MIT Press. Many of the people I’ll thank below are affiliated with
+one or more of these.
+As a designed object, this book’s co-creator is James Goggin of Practise, in
+Tāmaki Makaurau (Auckland). What Is Intelligence? further develops an
+approach to simultaneously physical and digitally native media we
+established with our first two projects, Ubi Sunt and Who Are We Now?
+(both published by Hat & Beard Press, with warm thanks to J. C. Gabel).
+Chapter 1, “Origins,” first appeared in a limited print edition, What Is Life?,
+in the fall of 2024, when we began the online serialization. What Is Life? is
+now also available from the MIT Press.
+
+Clea Agüera-Arcas, Loraine Agüera-Arcas, and Johan Michalove have
+helped research, edited painstakingly, offered line-by-line critique, coded
+workflows, wrangled spreadsheets, and in short dedicated an immense
+effort over more than a year to making the book as accurate and readable as
+we could. Adrienne Fairhall provided extensive feedback, especially on the
+neuroscience, which greatly improved both my core arguments and their
+exposition. Brian Sholis did the final rounds of editing and proofreading,
+and David Michalove stepped in to chase down sources and permissions.
+However, I take sole responsibility for any remaining errors or omissions,
+and all perspectives, interpretations, and opinions, mistaken or not, are my
+own.
+In collaboration with James Goggin, Minkyoung Kim and Marie Otsuka
+designed and implemented the web version, which includes a good deal of
+video and interactive content. The simulations owe a heavy debt to Alex
+Mordvintsev (also the inventor of neural cellular automata) and his elegant
+SwissGL library. The audiobook was recorded at Bad Animals by Will
+LeMaster, with production help from Wendi Wills.
+Additional close readings of the text and editorial input, which improved
+the final result significantly, came from Benjamin Bratton, Stephanie
+Sherman, David LeBrun, Ben Laurie, Rif A. Saurous, Kate Meyer, Gary
+Lupyan, Moritz Firsching, Alexander Meulemans, and Emily French. Warm
+thanks also to Anselm Agüera y Arcas, Eliot Agüera y Arcas, Refik Anadol,
+Patricia Churchland, George Dyson, Walter Fontana, David Ha, N.
+Katherine Hayles, Reid Hoffman, DeLesley Hutchins, Michael Levin,
+Johan Liedgren, Charles Mudede, Addy Pross, Carl Schoonover, Terry
+Sejnowski, Justin Smith-Ruiu, Dan Sperber, Korina Stark, John Thornhill,
+Sara Imari Walker, Ren Weschler, Olaf Witkowski, and David Wolpert.
+In 2018 and 2019, I taught an interdisciplinary course at the University of
+Washington, Intelligent Machinery, Identity, and Ethics, with help from
+Adrienne Fairhall and enthusiastic support from Dan Grossman, Vice
+Director of the Allen School of Computer Science and Engineering. Dan
+introduced me to Johan Michalove, suggesting that he would be the perfect
+TA—which he was. Teaching is the best way of learning. Although AI has
+developed a great deal in the years since, the course was an early draft of
+many ideas in this book, and those ideas further benefited from long afterlecture discussions with my students.
+
+At Google, I owe deep thanks to James Manyika and Sundar Pichai for
+giving my team, Paradigms of Intelligence (Pi), the freedom and resources
+to pursue interdisciplinary basic research. I’m grateful to Demis Hassabis
+and Yossi Matias for their support of internal collaboration with Google
+DeepMind and Google Research, respectively, and to Yul Kwon for his deft
+co-leadership of Pi. A big thank you to Pi teammates and collaborators:
+Jyrki Alakuijala, Kenric Allado-McDowell, Travis Beals, Sami Boukortt,
+Martin Bruse, Iulia Comșa, Yiğit Demirag, Moritz Firsching, Thomas
+Fischbacher, Alice Guan, Florian Hartmann, Geoff Keeling, Evgenii
+Kliuchnikov, Seijin Kobayashi, Marcin Kowalczyk, Rachelle Lacroix, Mira
+Lane, Alison Lentz, Brittni Maekawa, Kaitlin Maile, Delaney McMillen,
+Alexander Meulemans, Alex Mordvintsev, Eyvind Niklasson, Peter Norvig,
+Robert Obryk, Ettore Randazzo, Esteban Real, João Sacramento, Mark
+Sandler, Nino Scherrer, Anoop Sinha, Oliver Siy, Winnie Street, Zoltan
+Szabadka, Luca Versari, Sarah de Haas, and Johannes von Oswald. Visiting
+faculty James Evans, Guillaume Lajoie, and Blake Richards have been
+wonderful friends and colleagues, and have all made intellectual
+contributions to the material presented here.
+Time spent at the Santa Fe Institute over the past two years has profoundly
+influenced my perspective on life, complexity, and intelligence. I have also
+engaged with a number of new collaborators, fellow travelers, and
+constructive critics (often a bit of each) there, including Kevin Berger, Sean
+Carroll, David Chalmers, Ted Chiang, Michael Hersch, Chris Kempes,
+David Krakauer, John Krakauer, Gary Lupyan, Brice Ménard, Melanie
+Mitchell, Carlo Rovelli, Zenna Tavares, Geoffrey West, and David Wolpert.
+I also re-encountered the wonderful Dan Dennett and met Susan Bell at SFI.
+Very sadly, Dan was also one of 2024’s losses; he is much missed.
+What Is Intelligence? is among the first long-form publications of the
+Antikythera program, under the direction of Benjamin Bratton. Benjamin
+has instigated many of my major writing projects in recent years, including
+this one, and has been a loyal friend and frequent collaborator. Warm thanks
+also to Haley Albert, Nicolay Boyadjiev, Nils Gilman, Emily Knapp, Dawn
+Nakagawa, Estela Oliva, Tobias Rees, and Claire Webb; my gratitude, also,
+to Nicolas Berggruen for his intellectual friendship and support, and to the
+Berggruen Institute.
+
+Finally, warm thanks to Noah Springer of the MIT Press, for believing in
+this project and for helping us bend the rules of traditional academic
+publishing.
+

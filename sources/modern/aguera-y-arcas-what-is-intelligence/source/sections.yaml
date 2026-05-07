@@ -1,0 +1,249 @@
+book:
+  title: "What Is Intelligence?: Lessons from AI About Evolution, Computing, and Minds"
+  author: "Blaise Agüera y Arcas"
+  source_pdf: "sources/modern/incoming/books/What Is Intelligence__ Lessons from AI About Evolution, -- Aguera y Arcas, Blaise -- 2025.pdf"
+  extracted_full_text: "full/what-is-intelligence.txt"
+  extraction_notes:
+    - "Generated with pdftotext from the local PDF witness."
+    - "Repeated source footer lines were removed during extraction."
+sections:
+  - seq: 0
+    slug: "title-pages-and-copyright"
+    title: "Title pages and copyright"
+    kind: "front-matter"
+    file: "raw/000-title-pages-and-copyright.txt"
+    start_line: 1
+    end_line: 9
+    line_count: 9
+    printed_page_start: null
+    pdf_page_start: 1
+  - seq: 1
+    slug: "note-on-the-e-book"
+    title: "A note on the e-book"
+    kind: "front-matter"
+    file: "raw/001-note-on-the-e-book.txt"
+    start_line: 10
+    end_line: 16
+    line_count: 7
+    printed_page_start: null
+    pdf_page_start: 3
+  - seq: 2
+    slug: "contents"
+    title: "Contents"
+    kind: "front-matter"
+    file: "raw/002-contents.txt"
+    start_line: 17
+    end_line: 141
+    line_count: 125
+    printed_page_start: null
+    pdf_page_start: 4
+  - seq: 3
+    slug: "foreword-by-benjamin-bratton"
+    title: "Foreword by Benjamin Bratton"
+    kind: "front-matter"
+    file: "raw/003-foreword-by-benjamin-bratton.txt"
+    start_line: 142
+    end_line: 171
+    line_count: 30
+    printed_page_start: null
+    pdf_page_start: 8
+  - seq: 4
+    slug: "preface"
+    title: "Preface"
+    kind: "front-matter"
+    file: "raw/004-preface.txt"
+    start_line: 172
+    end_line: 437
+    line_count: 266
+    printed_page_start: null
+    pdf_page_start: 9
+  - seq: 5
+    slug: "introduction"
+    title: "Introduction"
+    kind: "front-matter"
+    file: "raw/005-introduction.txt"
+    start_line: 438
+    end_line: 766
+    line_count: 329
+    printed_page_start: null
+    pdf_page_start: 18
+  - seq: 10
+    slug: "origins"
+    title: "1. Origins"
+    kind: "chapter"
+    file: "raw/010-origins.txt"
+    start_line: 767
+    end_line: 2554
+    line_count: 1788
+    printed_page_start: null
+    pdf_page_start: 28
+  - seq: 11
+    slug: "survival"
+    title: "2. Survival"
+    kind: "chapter"
+    file: "raw/011-survival.txt"
+    start_line: 2555
+    end_line: 3489
+    line_count: 935
+    printed_page_start: null
+    pdf_page_start: 85
+  - seq: 12
+    slug: "interlude-the-prehistory-of-computing"
+    title: "Interlude: The Prehistory of Computing"
+    kind: "interlude"
+    file: "raw/012-interlude-the-prehistory-of-computing.txt"
+    start_line: 3490
+    end_line: 3899
+    line_count: 410
+    printed_page_start: null
+    pdf_page_start: 116
+  - seq: 13
+    slug: "cybernetics"
+    title: "3. Cybernetics"
+    kind: "chapter"
+    file: "raw/013-cybernetics.txt"
+    start_line: 3900
+    end_line: 4886
+    line_count: 987
+    printed_page_start: null
+    pdf_page_start: 135
+  - seq: 14
+    slug: "learning"
+    title: "4. Learning"
+    kind: "chapter"
+    file: "raw/014-learning.txt"
+    start_line: 4887
+    end_line: 5956
+    line_count: 1070
+    printed_page_start: null
+    pdf_page_start: 171
+  - seq: 15
+    slug: "other-minds"
+    title: "5. Other Minds"
+    kind: "chapter"
+    file: "raw/015-other-minds.txt"
+    start_line: 5957
+    end_line: 6885
+    line_count: 929
+    printed_page_start: null
+    pdf_page_start: 207
+  - seq: 16
+    slug: "many-worlds"
+    title: "6. Many Worlds"
+    kind: "chapter"
+    file: "raw/016-many-worlds.txt"
+    start_line: 6886
+    end_line: 8172
+    line_count: 1287
+    printed_page_start: null
+    pdf_page_start: 240
+  - seq: 17
+    slug: "ourselves"
+    title: "7. Ourselves"
+    kind: "chapter"
+    file: "raw/017-ourselves.txt"
+    start_line: 8173
+    end_line: 9199
+    line_count: 1027
+    printed_page_start: null
+    pdf_page_start: 282
+  - seq: 18
+    slug: "transformers"
+    title: "8. Transformers"
+    kind: "chapter"
+    file: "raw/018-transformers.txt"
+    start_line: 9200
+    end_line: 10480
+    line_count: 1281
+    printed_page_start: null
+    pdf_page_start: 319
+  - seq: 19
+    slug: "generality"
+    title: "9. Generality"
+    kind: "chapter"
+    file: "raw/019-generality.txt"
+    start_line: 10481
+    end_line: 12293
+    line_count: 1813
+    printed_page_start: null
+    pdf_page_start: 360
+  - seq: 20
+    slug: "interlude-no-perfect-heroes-or-villains"
+    title: "Interlude: No Perfect Heroes or Villains"
+    kind: "interlude"
+    file: "raw/020-interlude-no-perfect-heroes-or-villains.txt"
+    start_line: 12294
+    end_line: 12396
+    line_count: 103
+    printed_page_start: null
+    pdf_page_start: 415
+  - seq: 21
+    slug: "evolutionary-transition"
+    title: "10. Evolutionary Transition"
+    kind: "chapter"
+    file: "raw/021-evolutionary-transition.txt"
+    start_line: 12397
+    end_line: 14167
+    line_count: 1771
+    printed_page_start: null
+    pdf_page_start: 419
+  - seq: 50
+    slug: "acknowledgments"
+    title: "Acknowledgments"
+    kind: "back-matter"
+    file: "raw/050-acknowledgments.txt"
+    start_line: 14168
+    end_line: 14277
+    line_count: 110
+    printed_page_start: null
+    pdf_page_start: 475
+  - seq: 51
+    slug: "about-the-author"
+    title: "About the Author"
+    kind: "back-matter"
+    file: "raw/051-about-the-author.txt"
+    start_line: 14278
+    end_line: 14291
+    line_count: 14
+    printed_page_start: null
+    pdf_page_start: 479
+  - seq: 52
+    slug: "the-antikythera-book-series"
+    title: "The Antikythera Book Series"
+    kind: "back-matter"
+    file: "raw/052-the-antikythera-book-series.txt"
+    start_line: 14292
+    end_line: 14362
+    line_count: 71
+    printed_page_start: null
+    pdf_page_start: 480
+  - seq: 53
+    slug: "glossary"
+    title: "Glossary"
+    kind: "back-matter"
+    file: "raw/053-glossary.txt"
+    start_line: 14363
+    end_line: 15001
+    line_count: 639
+    printed_page_start: null
+    pdf_page_start: 483
+  - seq: 54
+    slug: "bibliography"
+    title: "Bibliography"
+    kind: "back-matter"
+    file: "raw/054-bibliography.txt"
+    start_line: 15002
+    end_line: 16710
+    line_count: 1709
+    printed_page_start: null
+    pdf_page_start: 501
+  - seq: 55
+    slug: "notes"
+    title: "Notes"
+    kind: "back-matter"
+    file: "raw/055-notes.txt"
+    start_line: 16711
+    end_line: 20671
+    line_count: 3961
+    printed_page_start: null
+    pdf_page_start: 550
