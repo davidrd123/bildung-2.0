@@ -1,0 +1,723 @@
+# Anhang B: Ars Combinatoria
+
+Section ID: appendix-b-ars-combinatoria
+Kind: appendix
+PDF pages: 304-324
+Printed pages: 303-323
+Status: OCR-derived cleaned draft; page images remain the authority.
+
+[[pdf-page:0304 printed-page:303]]
+
+Anhang B: Ars Combinatoria
+
+Marschallin (in ihren Handspiegel blickend):
+
+Aber wie kann das wirklich sein,
+daß ich die kleine Resi war
+und daß ich auch einmal die alte Frau sein werd!...
+
+Wie macht denn das der liebe Gott?
+
+Wo ich doch immer die gleiche bin.
+
+Und wenn ers schon so machen muß,
+
+warum laßt er mich denn zuschaun dabei,
+
+mit gar so klarem Sinn? Warum versteckt ers nicht vor mir?
+Das alles ist geheim, so viel geheim...
+
+H. von HOFMANNSTHAL
+Der Rosenkavalier, I. Akt
+
+1. Vielleicht ist der am weitesten in die Philosophie hinübergreifende Zug der modernen Wissenschaft das Auftauchen abstrakter symbolischer Strukturen als hartes Kernstück der Objektivität hinter — wie Eddington es ausdrückt — dem farbenfrohen
+Märchen aus der subjektiven Dichterperspektive. In Anhang A
+haben wir über die Struktur der Mathematik als solche gesprochen.
+Dieser Anhang behandelt einige der einfachsten denkbaren Strukturen, die Kombinatorik von Aggregaten und Komplexen. Es
+ist beruhigend, daß dieser einfache Teil der symbolischen Mathematik so eng mit den philosophisch wichtigen Problemen der
+Individuation und Wahrscheinlichkeit verknüpft ist, und daß er
+als eine der grundlegendsten Erscheinungen in der anorganischen
+und organischen Natur gilt. Derselbe strukturelle Gesichtspunkt
+wird unseren Bericht über die Grundlagen der Quantenmechanik
+in Anhang C leiten. Auf ganz anderem Gebiet ist der kürzliche
+Versuch von v. Neumann und O. Morgenstern, die Volkswirtschaft auf eine Theorie der Spiele zu begründen, in derselben
+
+[[pdf-page:0305 printed-page:304]]
+
+Richtung charakteristisch. Das Gehirn und Sinnesorgane verbindende Nervensystem ist ein Gegenstand, der durch seine eigentliche Natur zu kombinatorischer Untersuchung einlädt. Die
+modernen Rechenmaschinen setzen unsere Einsicht in die kombinatorische Struktur der Mathematik mit den Mitteln der
+Mechanik und der Elektronik in die Praxis um.
+
+Angesichts dieser allgemeinen Lage wollen wir jetzt ein paar
+kombinatorische Vorbetrachtungen elementarer Natur über die
+Anhäufung von Einzeldingen anstellen. Im voraus möge der Leser
+darauf aufmerksam gemacht werden, daß in der Anwendung
+auf die Genetik die Konturen etwas schärfer herausgearbeitet
+werden, als die Umstände das rechtfertigen. Oft wird von elementaren Strukturen, die offensichtlichen Tatsachen grob entsprechen,
+beim Fortschreiten der Wissenschaft später erkannt, daß sie auf
+tiefer greifenden Strukturen begründet sind, und in dieser Zurückführung werden die Grenzen ihrer Gültigkeit enthüllt. Diese
+Hierarchie der Strukturen soll in Anhang D an Hand der Theorie
+der chemischen Valenz erläutert werden.
+
+Ein Aggregat von weißen, roten und grünen Bällen möge
+mehrere weiße Bälle enthalten. Allgemein mögen in einem gegebenen Aggregat mehrere Individuen oder Elemente derselben
+Art (z. B. mehrere weiße Bälle) vorkommen, oder, wie wir auch
+sagen werden, derselbe Gegenstand (z. B. der Gegenstand weißer
+Ball) möge in mehreren Exemplaren vorkommen. Man muß
+unterscheiden zwischen quale und quid, zwischen gleich (= von
+derselben Art) und identisch. Zu der daraus sich ergebenden
+Frage der Individuation gab Leibniz eine Antwort a priori durch
+sein principium identitatis indiscernibilium. Die Physik ist neuerdings zu einer präzisen und zwingenden empirischen Lösung
+gelangt, soweit es die letzten Elementarteilchen, besonders die
+Photonen und Elektronen betrifft. Eng verknüpft damit ist die
+Frage der Erhaltung der Identität in der Zeit; das identische „Ich“
+meiner inneren Erfahrung ist das philosophisch bedeutsamste
+Beispiel'). Unsere Entscheidung darüber, was als gleich oder als
+
+1) Das Rätsel des identischen Ich als Zuschauer bei allem, was damit
+und was dadurch geschieht, wird einprägsam durch die vorstehenden Zeilen
+aus dem Rosenkavalier ausgedrückt.
+
+[[pdf-page:0306 printed-page:305]]
+
+verschieden zu betrachten sei, veranlaßt das Bestimmen von
+„verschiedenen“ Fällen, worauf die Bestimmung von Wahrscheinlichkeiten beruht, und so berührt das Problem der Individuation die Wurzeln der Wahrscheinlichkeitsrechnung. Ihre
+exakte mathematische Interpretation finden diese Dinge in der
+Theorie der Kombinatorik von Aggregaten, und schwerlich gibt es
+einen andern Zweig des Wissens, in dem sich die Verwandtschaft
+von Idee und Mathematik in durchsichtigerer Form darbietet.
+Der einfachste kombinatorische Vorgang ist die Teilung
+einer Menge S von n Elementen in zwei komplementäre Teilmengen S] + S,. Zum Zwecke der Identifizierung und Unterscheidung legen wir den Elementen willkürlich gewählte Unterscheidungsmerkmale p bei. Nur solche Beziehungen und Feststellungen haben objektive Bedeutung, die nicht durch irgend
+einen Wechsel in der Wahl der Etiketten p beeinflußt werden:
+dies ist das Relativitätsprinzip. Seine abstrakte Formulierung
+enthüllt seine Trivialität. Eine „Individuen-“ Teilmenge S, wird
+charakterisiert dadurch, daß sie für jedes Element mit dem Merkmal p angibt, ob es ein Glied von S},, p& $}, oder von der komplementären Teilmenge S, ist. Da die Konstruktion von S, somit
+von der Entscheidung von r Alternativen (pe S, oder pe Sy
+für jedes der n Elemente p) abhängt, gibt es 2% individuell verschiedene mögliche Teilmengen (einschließlich der leeren Nullmenge und der Gesamtmenge ‚S). Diese Anzahl wird jedoch auf
+n + 1 reduziert, wenn die Elemente als nicht unterscheidbar betrachtet werden. Denn dann ist eine Teilmenge S, vollständig
+charakterisiert durch die Zahl n, ihrer Elemente, eine Zahl, die
+dien + 1 Werte 0,1,..., n anzunehmen vermag; und die Teilung
+S=S$} + S, ist durch die Zerlegung n = n, + n, von n in eine
+Summe von zwei Gliedern charakterisiert (wobei n,, n, die Anzahlen der Elemente in S,, ‚S, bez. sind?)). Man fragt jetzt, wie
+viele individuell verschiedene Teilungen S = 5, + 5, zu derselben „sichtbaren“, durch die Zerlegung n = n, + n, charakterisierten Teilung führen. Die Antwort lautet n!/n,!na!. Folglich
+
+U) n, und, werden als natürliche fortlaufende Zahlen 0, 1,2,.... verstanden.
+
+[[pdf-page:0307 printed-page:306]]
+
+muß die Gesamtanzahl 2” aller individuellen Teilungen gleich
+der sich über die n + 1 verschiedenen Zerlegungnr=n+n,
+erstreckenden Summe
+
+ge
+
+n,!n;!
+sein:
+
+nn! n! n! n!
+on Tim -Dir2im-ajit Prior ©
+
+Dieser einfachste Fail ist nicht sehr interessant. Wir kommen
+der Wirklichkeit näher, wenn wir jetzt annehmen, es gäbe eine
+gewisse Beziehung, in welcher Elemente äquivalent () oder verschiedenartig sind?). Bälle können weiß, rot oder grün sein;
+Elektronen können in diesem oder jenem Zustand sein; Tiere in
+einem Zoo können Säugetiere, Fische, Vögel oder Kriechtiere sein;
+Atome in einem Molekül können H-, He-, Li-,... -Atome sein.
+Der allgemeine Ausdruck für eine solche „Artgleichheit‘‘ genügt
+mittels einer binären Relation a b den Äquivalenzaxiomen:
+ar a;,wenna = b,dannb » a;ausa» bundb » cfolgta rc.
+Eine Äquivalenz a 5b zweier beliebiger Elemente a und b mit
+gegebener Äquivalenzrelation > wird durch verschiedene Worte
+zum Ausdruck gebracht: a und 5 heißen von derselben Art oder
+Natur, man sagt, sie gehörten derselben Klasse an oder seien im
+selben Zustand. Ein Aggregat $ ist eine Menge von Elementen,
+deren jedes in einem bestimmten Zustand ist; somit wird der Ausdruck Aggregat in dem Sinne von „Menge von Elementen mit
+Äquivalenzrelation“ gebraucht. Nehmen wir an, für ein Element
+kämen k verschiedene Zustände C,,..., Cx in Betracht. Ein bestimmter individueller Zustand des Aggregats S ist dann gegeben,
+wenn für jedes der n Merkmale p bekannt ist, zu welcher der
+k Klassen das Element mit Merkmal p gehört. Somit gibt es kr
+
+1) Ein Symbol für die Negation ist weiterhin nicht nötig; daher kann
+hoffentlich keine Verwirrung entstehen, wenn wir von jetzt an das Zeichen »
+für die Äquivalenz benützen.
+
+[[pdf-page:0308 printed-page:307]]
+
+mögliche individuelle Zustände von S. Sind jedoch keine künstlichen Unterschiede zwischen den Elementen durch ihre Etiketten
+p eingeführt und bloß die natürlichen Zustandsunterschiede
+benützt, dann ist das Aggregat vollständig charakterisiert dadurch, daß man jeder Klasse GC; =1,...,k) die Anzahl n; der
+zu C; gehörenden Elemente von S beilegt. Diese Zahlen, deren
+Summe gleich n ist, beschreiben das, was man zutreffend als den
+sichtbaren oder effektiven Zustand des Systems S nennen kann.
+Jeder individuelle Zustand des Systems ist mit einem effektiven
+Zustand verbunden, und irgend zwei individuelle Zustände sind
+mit demselben effektiven Zustand dann und nur dann verbunden,
+wenn der eine in den andern durch eine Permutation der Etiketten übergeführt werden kann. Hier findet das Relativitätsprinzip Ausdruck im Invarianzpostulat in bezug auf die Gruppe
+aller Permutationen. Die Anzahl der verschiedenen effektiven
+Zustände ist gleich der der „geordneten“ Zerlegungenn=n, +
+N, +... + nx von nin k Summanden »;; für diese Anzahl findet
+man leicht den Wert
+
+(n+D...(n+k-1) _(n+k-1)! 2)
+1... (&-D "nik-D'
+
+Nun ist es nicht mehr schwer zu ermitteln, wieviele verschiedene
+individuelle Zustände mit demselben sichtbaren Zustand verbunden sind, und so die Diskrepanz zwischen den beiden Zahlen
+k” und (2) zu erklären; denn so hat ja auch die Gleichung (1)
+die Diskrepanz zwischen dem Wert 2* auf der linken und die Anzahl
+n + 1 der Summenglieder auf der rechten Seite erklärt.
+
+Wir haben gefunden, daß 2” die Anzahl der individuell verschiedenen möglichen Teilungen von S in zwei komplementäre
+Teilmengen S}, S,, oder die Anzahl der individuell verschiedenen
+Teilaggregate S, ist. Da jedoch die Elemente nun nach ihrer „Art“
+unterscheidbar sind, ist ein effektives Teilaggregat dadurch festgelegt, daß jeder Klasse C; die Zahl n;(") der Elemente beigeordnet
+wird, mit denen diese Klasse in S, vertreten ist. Da m» die
+m + 1 Werte 0, 1,...., m; annehmen kann, gibt es
+
+(n+D...(n +1) &
+
+[[pdf-page:0309 printed-page:308]]
+
+verschiedene mögliche effektive Teilungen S = S/, + S,. Die
+Zahl (3) ist daher notwendig kleiner oder gleich
+
+2” (n=en,+..+n)).
+
+Das Maximum 2” wird erreicht, wenn alle ; den Wert 0 oder 1
+haben, d.h. wenn keine zwei Elemente von S je in derselben
+Klasse angetroffen werden. Ist das tatsächlich der Fall, so können
+die Elemente von S vollständig charakterisiert werden durch die
+Klassen, zu denen sie (durch ihren Zustand oder ihre „Natur“)
+gehören, und es besteht dann kein Bedarf für eine Künstliche
+Unterscheidung durch Etiketten. In diesem Fall sprechen wir von
+einem monomischen Aggregat.
+
+Der zur Teilung eines Aggregats S in zwei komplementäre
+Teilaggregate S,, S, inverse Prozeß ist die Vereinigung zweier
+gegebener (getrennter) Aggregate S,, S,in ein ganzes S = S, + 2.
+Die Kombinationstheorie von Aggregaten und von den zueinander inversen Operationen der Teilung und Vereinigung findet
+eine besonders wichtige Anwendung in der Genetik. Die Entwicklung von zwei Organismen kann je nach den „äußeren Umständen“ verschieden verlaufen, selbst wenn sie von derselben
+genetischen Konstitution sind (dasselbe Keimplasma haben oder
+von demselben Genotypus sind nach Weismanns bzw. Johannsens
+Terminologie). Diese Dualität von Konstitution und Umgebung,
+„Natur und Erziehung“, ist grundlegend für unsere Deutung
+der Tatsachen der Vererbung; man kann sie als einen a priorißegriff bezeichnen wie die einigermaßen ähnliche Dualität Trägheit und Kraft in der Mechanik. Grob gesprochen sind die Umgebungsfaktoren dadurch charakterisiert, daß sie von außen her
+auf den Organismus (relativ) variabel und kontrollierbar einwirken, im Gegensatz zur inneren, gegebenen und (relativ) stabilen
+Konstitution. Auf die Konstitution kann man oft nur schließen,
+sie ist somit eher hypothetischer als offenkundiger Natur, wie
+zum Beispiel die Atome, die eine chemische Verbindung bilden.
+Was zur sozialen Umgebung eines Individuums gehört, kann ein
+Bestandteil sein, der charakteristisch ist für die Gesellschaft,
+in der es lebt. Wie im Falle anderer grundlegender Begriffe entfaltet sich die genaue Bedeutung für jedes Gebiet allmählich mit
+
+[[pdf-page:0310 printed-page:309]]
+
+einer Theorie der zugehörigen Phänomene: auf der Grundlage
+einer etwas unbestimmten, doch natürlichen Deutung werden
+gewisse Gesetze entdeckt, die durch ihre exakte Form überraschen und dann zu einer Theorie zusammengeformt werden;
+hält man an diesen einfachen Gesetzen fest und deutet die immer
+größer werdende Reihe der Einzeltatsachen im Lichte der Theorie,
+so gelingt es, den Ausgangsbegriff immer präziser zu fassen. In
+diesem Sinne gibt es in der Biologie unerhört viel empirisches
+Material zur Unterscheidung von Natur und Erziehung, obgleich
+diese niemals vollkommen scharf faßbar sein wird.
+
+Bei Züchtungsversuchen ist es gelungen, die genetische Konstitution in ein Aggregat von individuellen Genen oder „Punkten“
+aufzulösen, so wie etwa die Chemie ein Molekül in ein Aggregat
+von Atomen auflöst. Und wie ein individuelles Atom in einem der
+verschiedenen Zustände sein kann (eines der verschiedenen Grundatome sein kann), die durch die chemischen Symbole H, He, Li,...
+angezeigt werden, so können die genetischen Punkte verschiedene
+diskrete Zustände annehmen, die man Allele nennt. Beim Befruchtungsakt (Syngamie) werden zwei Aggregate S,, S, die
+„Gameten‘“ (Same und Ei) in eine „Zygote“ oder eine Keimzelle
+$=S}, + S, vereinigt. Ein Gamet wird von einem Organismus
+erzeugt, S; von Q,, S, von 2, (2, ist nicht notwendig verschieden
+von Q,, wenn es sich etwa um einen selbstbefruchtenden Organismus handelt). Alle Körperzellen des Organismus 2, der sich aus
+der Keimzelle S entwickelt, sind trotz ihrer funktionalen Verschiedenheit Bildungen aus ihrer Zygote S, soweit es ihre genetische
+Konstitution betrifft. Ein Teil der Körperzellen durchläuft in
+einem gewissen Stadium des Lebenszyklus den umgekehrten
+Prozeß der Teilung in zwei komplementäre Unteraggregate
+(Reifeteilung oder Meiosis)!); der Organismus 2 vermag daher
+soviele konstitutionell verschiedene Gameten zu erzeugen, als
+tatsächlich verschiedene Unteraggregate von S existieren. Dieses
+Wechselspiel von Syngamie und Meiosis, Vereinigung und Teilung erklärt die wesentlichen Merkmale der Vererbung: Bestän-
+
+1) Der wirkliche Vorgang (ein Vorgang in zwei Schritten, der begleitet
+ist von einer longitudinalen Spaltung jedes Chromosoms in zwei Chromate)
+ist kaum komplizierter als dieses kombinatorische Ergebnis.
+
+[[pdf-page:0311 printed-page:310]]
+
+digkeit ist vorherrschend, sofern die Summe zweier Aggregate eindeutig durch beide Teile bestimmt ist; Veränderlichkeit ist vorherrschend, sofern die Teilung eines Aggregats in zwei komplementäre Teile auf verschiedene Arten möglich ist.
+
+Ein Organismus erzeugt die als Subaggregate in seiner Zygote
+enthaltenen Gameten mit gewissen relativen Häufigkeiten (Wahrscheinlichkeiten) y =y(S’). Die Wahrscheinlichkeiten werden
+wohl durch äußere Umstände, insbesondere durch die Temperatur beeinflußt und vermögen so, im Gegensatz zu den diskreten
+Aggregaten, kontinuierlich zu variieren. Doch ist a priori offensichtlich, daß der komplementäre Gamer S’’ mit derselben Häufigkeit wie S’ vorkommen muß: y($S’) =y($”). (Wegen der
+a priori-Wahrscheinlichkeiten wird man an der Annahme ($’) =
+y (S’’) sogar dann festhalten, wenn einer der beiden komplementären Teile S’, S’’ nach der Reifeteilung durch Degeneration in
+den polaren Körper ausgeschieden wird, wie das für einen Q-
+Organismus der Fall ist.) Es ist einleuchtend, daß die Wahrscheinlichkeit der Syngamie zwischen einem durch Q erzeugten Gamet S’
+und einem durch 2, erzeugten Gamet S% dieselbe ist für die verschiedenen Arten von Gameten S’ und S;, die durch die beiden
+Organismen (2, Q, erzeugt werden. Daher wird die Wahrscheinlichkeit dafür, daß das Elternpaar 2, 2, ein Kind mit der Zygote
+S’ + S, zeugt, angesetzt aufy (S)y, ($}).
+
+Wir wollen nun zur abstrakten Theorie zurückkehren und die
+zeitlichen Änderungen des Zustandes eines Aggregates S besprechen. Solange Elemente nur diskrete Zustände anzunehmen vermögen, sind wir gezwungen, auch die Zeit in eine Folge von diskreten Augenblicken aufzulösen: t=..,—2, —1,0,1,2,....
+Der Übergang des Systems von seinem Zustand zur Zeit t in
+seinen Zustand zur Zeit ? + 1 ist dann eine sprunghafte Mutation. Für die durch ihre Etiketten > individualisierten z Elemente
+wird dann der wechselnde Zustand dadurch beschrieben, daß man
+den Zustand C (p; t) des Elements p zur Zeit t als Funktion von
+p und r angibt. Diese „individuelle“ Beschreibung mittels der
+Funktion C (p; t) ist durch das Relativitätsprinzip zu ergänzen,
+nach dem die Verknüpfung zwischen den Individuen und ihren
+Identifizierungsmerkmalen p eine Sache willkürlicher Wahl ist.
+
+[[pdf-page:0312 printed-page:311]]
+
+Doch ist dies eine Verknüpfung für alle Zeit, die sich, einmal festgelegt, nicht mehr ändern läßt. Wird andererseits in jedem
+Augenblick nur auf den sichtbaren Zustand geachtet, dann enthalten die Zahlen n, (?),...,nx (£) in ihrer Abhängigkeit von rt
+das vollständige Bild — was jedoch vom „individualistischen“
+Standpunkt aus unvollständig ist; denn jetzt wissen wir lediglich,
+wie viele Elemente, nämlich »; (f) zur Zeit t im Zustand C; vorgefunden werden, doch kann über die Identität der n Individuen
+in der Zeit nichts ausgesagt werden; weder ist bekannt, noch
+kann erforscht werden, ob ein Element, das sich jetzt etwa im
+Zustand C, befindet, einen Augenblick vorher im Zustand C,
+oder C, war. Die Welt wird sozusagen in jedem Augenblick von
+neuem geschaffen, keine Fessel der Identität verbindet die in
+diesem Augenblick gegenwärtigen Wesen mit denen, die im nächsten angetroffen werden. Dies ist eine philosophische Einstellung
+gegenüber der veränderlichen Welt, wie sie von den frühen
+Philosophen des Islam, den Mutakallimün, eingenommen wurde.
+Diese nicht-individualisierende Beschreibung ist selbst dann anwendbar, wenn die Gesamtanzahl nd +... + )=n()
+Elemente in der Zeit nicht konstant bleibt.
+
+Wird einmal wirklich die Identifizierung desselben Wesens zu
+verschiedenen Zeiten vorgenommen, so beruht sie notwendig
+immer auf einem beobachtbaren Zustand. Für kontinuierlichen
+Zeitablauf und kontinuierliche Zustandsmannigfaltigkeit kann
+das zugrunde liegende Prinzip im großen und ganzen folgendermaßen formuliert werden: angenommen, es existierte zu einer
+Zeit znur ein Individuum in einem gewissen Zustand C, der merklich verschieden ist vom Zustand aller andern Individuen; wird
+später, insbesondere wenig später, zu einer Zeit ’ ein und nur ein
+Individuum festgestellt, das sich in einem Zustand C’ befindet,
+der nur wenig von C abweicht oder C „typisch ähnlich“ ist, dann
+ist die Annahme gerechtfertigt, daß man es in beiden Zeitpunkten
+t und ?’ mit demselben Individuum zu tun hat. Nun sei anstatt t
+und 7’ eine ganze Folge von Zeitpunkten t, t’, £”,... gegeben. Man
+stelle sich vor, wie man eine sich über die Oberfläche des Wassers
+bewegende Welle verfolgt! Wir sind von solchen Mitteln sogar
+beim Erkennen von Menschen abhängig (man erinnert sich der
+
+[[pdf-page:0313 printed-page:312]]
+
+berühmten Szenen des Wiedererkennens in der Weltliteratur von
+der Odyssee an), so lange die innere Sicherheit der Identität des
+eigenen Ich und darauf gegründete Feststellungen (,Ich bin derselbe Mensch, der Dir damals da und da begegnet ist“) aus dem
+Spiele gelassen werden.
+
+2. Wir haben gesehen, daß man sich auf einen zugrunde liegenden Äquivalenzbegriff bezieht, wenn man von verschiedenen Arten
+und Zuständen oder Klassen spricht. Es kommt häufig vor, daß
+Elementeklassen sich in Unterklassen aufspalten; wir wollen
+lieber von Gattung und Klasse als von Klasse und Unterklasse
+sprechen). Jede Klasse C gehört zu einer bestimmten Gattung
+G = [C], und ein Individuum als Glied der Klasse C gehört auch
+zur Gattung [C]. So werden die Tiere in einem Zoo eingeteilt
+in Säugetiere, Fische, Vögel usw., und die Säugetiere wiederum
+in Affen, Löwen, Tiger usw. Zustände mögen in einem gewissen
+Merkmal übereinstimmen; dieses Merkmal entspricht dann einer
+Gattung, und der Zustand einer Klasse von Elementen. Die Einteilung in Gattungen und Klassen beruht auf einem gröberen
+und einem feineren Äquivalenzbegriff: a» b und ax b, wo
+am bausa * bfolgt. In verschiedenen Wissensgebieten erscheint
+diese abgestufte Einteilung in verschiedenen terminologischen
+Einkleidungen; die Aggregate der Genetik sind ein treffliches
+Beispiel. Die Gene entsprechen den Gattungen, die Allele den
+Klassen; ein Gen kann zwei oder mehrere Allele haben. Die
+Tatsache, daß ein Element p des Aggregats zu der Klasse C und
+damit zur Gattung [C] gehört, wird mit den Worten ausgedrückt:
+„Der Punkt p wird von dem Allel C des Gens [C] ausgefüllt“.
+
+Ich erwähne hier einige Bezeichnungen, die in der Genetik zu
+den grundlegenden Begriffen der Kombinationstheorie von Aggregaten gehören, und beschreibe die besonderen Umstände, die bei
+der Zerlegung „normalerweise“ auftreten. Ein individuelles Aggregat S ist bekannt, wenn für jeden seiner Punkte p die Klasse Cy
+
+2) Dies ist die in der Zahlentheorie benutzte Terminologie; eine Gattung
+von quadratischen Formen ist weiter als eine Klasse. Die biologische Bestimmungslehre mit ihrer abgestuften Hierarchie im Königreich: Klasse,
+Ordnung, Familie, Gattung, Art, Subspezies würde für die umgekehrte
+Reihenfolge sprechen.
+
+[[pdf-page:0314 printed-page:313]]
+
+bekannt ist, zu der p gehört; p gehört dann auch zu der entsprechenden Gattung [Cy]. Zwei individuelle Aggregate S und
+S* sind von derselben Konstitution, S x S*, wenn die für die
+Punkte des ersten Aggregats benützten Etiketten p umkehrbar
+eindeutig auf die für die Punkte von S* benützten Etiketten p*
+abgebildet werden können, p Z p*, so daß homologe Punkte p
+und p* in den beiden Aggregaten immer zur selben Klasse gehören (isomorphe Abbildung). Nach dem Relativitätsprinzip sind
+Aggregate derselben Konstitution als nicht unterscheidbar zu
+betrachten. Unter gegebenen äußeren Umständen bestimmt die
+Zygote S vollständig den Phänotypus, die sichtbare Entwicklung
+eines Organismus. Der Phänotypus ist notwendig derselbe für
+Zygoten derselben Konstitution. Ein effektives Aggregat S wird
+dadurch beschrieben, daß man jeder Klasse C die Anzahl nc der
+Punkte von S in C zuschreibt. Die Anzahl n« von Punkten in
+einer Gattung G ist dann gleich der Summe Inc über die Klassen
+C, für welche [C] = G ist. Individuelle Aggregate sind mit demselben effektiven Aggregat dann und nur dann verknüpft, wenn
+sie isomorph, d.h. von derselben Konstitution sind. Zwei individuelle Aggregate S und S* heißen von derselben Spezies o,
+wenn homologe Punkte p und p* in S und ‚S* hinsichtlich einer
+geeigneten eineindeutigen Abbildung p 2 p* immer zur selben
+Gattung gehören!). Dafür, daß dies eintritt, ist die Koinzidenz
+der Zahlen n« und n& für alle möglichen Gattungen G die notwendige und hinreichende Bedingung; die Zahlen ng enthalten
+deshalb eine vollständige Beschreibung der Spezies o eines Aggregates. Ein Aggregat S wurde monomisch genannt, wenn verschiedene Punkte von S niemals zur selben Gattung gehören,
+d.h. wenn für jede Gattung G die Zahl ng gleich O0 oder 1 ist.
+
+1) Dieser natürliche, doch rein kombinatorische Begriff bezieht sich auf
+die Bedeutung des in der Biologie geläufigen Wortes Spezies, doch ist er
+nicht mit ihm identisch. Ohne Zweifel entspricht letzteres trotz der Schwierigkeit, eine präzise Definition anzugeben, einer fundamentalen Tatsache. Als
+Beispiel für die weite Kluft zwischen den beiden Begriffen zitiere ich Dobzhanskys ‚dynamische‘ Definition (Philosophy of Science, 2,1935, S. 344—355)
+„Species is that stage of evolutionary process at which the once actually or
+potentially interbreeding array of forms becomes segregated in two or more
+separate arrays which are physiologically incapable of interbreeding.“
+
+[[pdf-page:0315 printed-page:314]]
+
+Die entsprechenden Spezies verdienen dann die Bezeichnung
+haploid. Enthält S zwei Punkte verschiedener Klassen, doch
+gleicher Gattung, dann heißt S heterozygot (hybrid); enthält es
+zwei Punkte verschiedener Klassen, doch derselben Gattung G,
+so ist es heterozygot in Bezug auf G. Die Vereinigung zweier
+Aggregate S,, S, in ein Ganzes S = S, + S, und der umgekehrte
+Prozeß der Teilung von S in S,, S, kann ausgeglichen genannt
+werden, falls die Teile derselben Spezies angehören. Das geschieht
+normalerweise in der Syngamie und Meiosis. Bei ausgeglichener
+‚Syngamie und Meiosis bleiben die Spezies durch die Generationenfolge hindurch konstant. Seien tatsächlich S, S* die beiden Gameten derselben Spezies o, die sich zur Bildung der Zygote S + S*
+vereinigt haben; spalten sich die letzteren durch ausgeglichene
+Meiosis in S, und S,, dann gehören S,, S, notwendig denselben
+Spezies o an wie S, S*. Dies bleibt sogar dann bestehen, wenn
+Mutationen zugelassen werden, durch welche ein Punkt seine
+Klasse, doch nicht seine Gattung ändern kann (Punktmutationen).
+Wenn insbesondere das Spiel der „ausgeglichenen“ Reproduktion mit zwei Gameten derselben haploiden Spezies o beginnt,
+dann werden nur haploide Gameten dieser Spezies (und diploide
+Zygoten) in die nachfolgenden Generationen hinüberkommen;
+dies ist der allgemeinste Fall, mit dem sich Gregor Mendel beschäftigte. Angenommen, die Zygote eines selbstbefruchtenden
+Organismus 2 sei nicht-hybrid, so werden alle direkten und indirekten Nachkommen von 2 demselben Genotypus wie Q angehören. Unterschiede des Phänotypus in einer so „reinen Linie“
+müssen, wenn sie vorkommen, verschiedenen äußeren Umständen
+zugeschrieben werden, und so wird die unveränderliche genetische
+Konstitution am klarsten von den veränderlichen Umgebungsfaktoren getrennt (W. Johannsens Experimente mit Bohnen, 1903).
+
+3. In der Physik strebt man an, eine so feine Einteilung in
+Klassen vorzunehmen, daß keine weitere Verfeinerung möglich ist,
+mit anderen Worten, man erstrebt eine vollständige Zustandsbeschreibung. Zwei Individuen in demselben „vollständigen Zustand“ sind durch wahre Merkmale nicht unterscheidbar — obgleich sie nicht derselbe Gegenstand sein müssen. Die klassische
+
+[[pdf-page:0316 printed-page:315]]
+
+Mechanik hält den Zustand eines Punktes gegebener Masse (und
+Ladung) für vollständig beschrieben durch seine Ladung und Geschwindigkeit; denn sie erreicht damit Übereinstimmung mit dem
+Kausalitätsprinzip, das behauptet, daß der (vollständige) Zustand
+in einem Moment seinen Zustand zu allen Zeiten bestimmt. Das
+einfachste Beispiel eines Massenpunktes ist der lineare Oszillator;
+er schwingt auf einer bestimmten Linie (dadurch nur einen eindimensionalen Raum beanspruchend) und hat eine bestimmte
+Frequenz » (= Anzahl der Schwingungen in 2 rn Sekunden). Die
+durch Lage und Geschwindigkeit bestimmten möglichen Zustände
+eines Oszillators bilden eine zweidimensionale stetige Mannigfaltigkeit. Nach der Quantenmechanik gibt es jedoch nur eine
+diskrete Auswahl verschiedener Zustände, die durch eine Anzahl
+n mit den Werten 0, 1,2,.... bestimmt sind. Im Zustand n hat der
+Oszillator die Energie n - hv, wo h = 1,042 - 1027 erg - sec das
+Plancksche Wirkungsquantum ist (die Zahl wird jetzt gewöhnlich
+mit einen durchstrichenen 7% bezeichnet). Die Strahlung in einem
+Raum, dessen Wände vollkommene Spiegel sind („Hohlraum‘‘),
+ist äquivalent einer Überlagerung von harmonischen Schwingungen, von denen jede durch einen Index & bezeichnet wird und eine
+bestimmte Frequenz v, hat. Danach kann die Hohlraumstrahlung
+als Aggregat von linearen Oszillatoren mit jeweils bestimmten geeigneten Frequenzen », beträchtet werden. (Der statische Anteil
+des elektromagnetischen Feldes wird hier nicht berücksichtigt.)
+Nach der Quantenmechanik des individuellen Oszillators ordnet
+nun der vollständige Zustand unseres Strahlungsfeldes jedem Oszillator « ein ganzzahliges n, zu; in diesem Zustand hat der Oszillator & die Energie n,* hv,, und die Gesamtenergie ist die sich
+über alle Oszillatoren erstreckende Summe &,n, * hv,. Dies drückt
+man in der Sprache der Photonen so aus, daß man sagt, es seien n,
+Photonen im Zustand & mit der Energie hv, vorhanden. In der
+Sprache der Oszillatoren bestimmt der Index & den einzelnen Oszillator und die ganze Zahl n, seinen Zustand, während in der
+Sprache der Photonen & den Zustand eines Photons und n, die
+Anzahl der Photonen in diesem Zustand bezeichnet. Nach der
+Übersetzung in die Photonensprache erscheint die Strahlung als
+Photonengas.
+
+[[pdf-page:0317 printed-page:316]]
+
+Da die möglichen vollständigen Zustände eines Individuums
+in der Quantenmechanik eine diskrete Mannigfaltigkeit bilden, so
+besteht die Anwendung der Statistik hier aus einem bloßen Zählen
+der Zustände. Ist einmal die Frage der kompletten Beschreibung
+der Zustände gelöst, so werden alle Wahrscheinlichkeiten durch
+einfache Auszählungen ausgewertet, und es entsteht nicht das
+Problem der vergleichenden Wahrscheinlichkeiten durch Messung
+in einem stetigen „Phasenraum‘. Da Photonen entstehen und vergehen, emittiert und absorbiert werden, sind sie Individuen ohne
+Identität. Daher sind über das, was vorher der effektive Zustand
+eines Aggregats war, keine genauen Angaben möglich. Folglich
+ist der Zustand eines Photonengases dann bekannt, wenn für
+jeden möglichen Zustand & eines Photons die Anzahl n, der
+Photonen in diesem Zustand gegeben ist (Bose-Einstein-Strahlungsstatistik).
+
+Während man nicht tief in die Natur des Lichts einzudringen
+braucht, bis es durch Erscheinungen wie Beugung, Interferenz
+usw. seinen Wellencharakter enthüllt, sind seine Korpuskulareigenschaften verborgener. Für die Elektronen gilt das Gegenteil;
+sie zeigen offen ihre Korpuskularnatur durch Stöße hier und dort,
+wogegen ihre Welleneigenschaften von den Experimentalphysikern
+erst allmählich mit der Entwicklung der Quantentheorie entdeckt
+wurden. Doch ist klar, daß Materie gleich wie Strahlung durch ein
+Wellenfeld dargestellt werden muß, dessen Gesetze ein Gegenstück zu Maxwells elektromagnetischen Feldgleichungen bilden
+(de Broglie, Schrödinger, Dirac). Ist dies einmal für das einzelne
+Elektron erfüllt, so gelten dieselben Betrachtungen, wie sie oben
+für die Hohlraumstrahlung angewandt wurden; ein Elektronengas
+wird dadurch beschrieben, daß man für jeden Zustand & die Anzahl n, der Elektronen angibt, die in diesem Zustand existieren und
+die entsprechende Energie hv, besitzen. Einem Gas von unzählbaren freien Elektronen stellen wir die Schale der wenigen Elektronen gegenüber, die an einen positiv geladenen Atomkern gebunden sind und zusammen mit diesem Kern ein Atom bilden.
+Die Gedanken über diskrete Energiestufen und über die Photonen
+haben ihren glänzendsten Erfolgin ihrer Anwendungaufdieletztere
+Situation erzielt; denn sie führen geradewegs zur Bohrschen Fre-
+
+[[pdf-page:0318 printed-page:317]]
+
+quenzbedingung, nach welcher die durch ein von einer höheren
+zu einer niedrigeren Energiestufe im Atom springendes Elektron
+gewonnene Energie als Photon der Frequenz » emittiert wird. Diese
+Regel liefert den Schlüssel für die Erklärung des ausgedehnten
+Gebietes der sehr feinen Beobachtungen, die von den Spektralphysikern über die Emission von Spektrallinien strahlender
+Atome und Moleküle zusammengetragen worden sind. Doch wird
+volle Übereinstimmung nur erreicht, wenn man außerdem annimmt, daß keine zwei Elektronen je in demselben vollständigen
+Zustand gefunden werden (Pauliverbot). Dies ist die entscheidende
+Tatsache für das Verständnis des sogenannten periodischen Systems der chemischen Elemente. Die Quantentheorie der chemischen Verbindungen beruht auf demselben Prinzip (vgl. Anhang D).
+Nachdem das Prinzip aus den spektroskopischen Tatsachen abgeleitet war, konnte es auch auf solche freie Elektronen angewandt
+werden, die auf elektrische Leitfähigkeit in Metallen angewiesen
+sind oder sich im Innern von Sternen umhertreiben; und auch hier
+wurde gefunden, daß sich die Ergebnisse in Übereinstimmung mit
+der Erfahrung befanden. Das Ende von alledem ist, daß die Elektronen Leibnizens principium identitatis indiscernibilium befriedigen, oder daß das Elektronengas ein ‚„monomisches Aggregat“ ist
+(Fermi-Dirac-Statistik). In einem tiefen und präzisen Sinn bestätigt die Physik die Mutakallimün: weder dem Photon, noch
+dem (positiven und negativen) Elektron kann man Individualität
+zuschreiben. Es hat sich herausgestellt, daß das Leibniz-PauliVerbot für Elektronen, doch nicht für Photonen gilt.
+
+4. Die bisher betrachteten Aggregate sind ohne Struktur gewesen. Doch besitzt der Atomverband in einem Molekül eine
+Struktur, die schematisch durch Kekulés genialen Wurf mit der
+Einführung der Valenz charakterisiert wird. Man kann vermuten,
+daß das Aggregat von Genpunkten, das einen Gamet oder eine
+Zygote bildet, ebenfalls nicht strukturlos ist. Die Erfahrung hat
+gelehrt, daß diese Struktur auf einer einfachen binären Relation
+der „Nachbarschaft“ zwischen Punkten beruht. Wir sagen, zwei
+benachbarte Punkte seien „verknüpft“. Nach einem Begriff aus
+der Topologie möge ein mit dieser Art Struktur versehenes Aggre-
+
+[[pdf-page:0319 printed-page:318]]
+
+gat ein Komplex genannt werden!). Zwei Komplexe K, K* sind
+Konstitution
+
+Spezies
+ziehung p ? p* zwischen den Punkten p und p* von K und K*
+bezüglich so aufgestellt werden kann, daß 1. zwei homologe Punkte
+Gattung
+Klasse
+Nachbarn in X * dann und nur dann sind, wenn p und g Nachbarn
+in K sind. Komplexe derselben Konstitution (isomorphe Komplexe) sollen als nicht unterscheidbar gelten. Ein Komplex K besteht aus den beiden getrennten Teilen K} + K, unter der Voraussetzung, daß kein Punkt von K, einem Punkt von K, benachbart
+ist; K ist zusammenhängend, wenn keine Zerlegung in zwei getrennte Teile möglich ist (außer der trivialen, bei welcher ein Teil
+leer und der andere ganz K ist). Jeder Komplex soll eindeutig in
+separate zusammenhängende Komponenten zerlegt werden können. Nach den gemeinsamen Erfahrungen der Genetik und der
+Zytologie müssen diese Komponenten mit den Chromosomen im
+Zellkern identifiziert werden, und daher werden wir sie auch so
+nennen. Ein zusammenhängender Komplex, der nach Entfernung
+von irgend einem seiner Glieder in zwei separate Teile zerfällt, soll
+ein Stammbaum heißen. (Offensichtlich sind die in Anhang A zur
+Beschreibung von Formeln und Beweisen benützten Stammbäume
+von dieser Art.) Unter gegebenen äußeren Umständen bestimmt
+der Punktkomplex, der die Zygote eines Organismus Q bildet, den
+Phänotypus von 2, oder genauer, zwei isomorphe Zygoten sind
+von demselben Phänotypus. Daraus ergibt sich, daß ganz allgemein der Phänotypus nicht nur vom Aggregat K, sondern auch
+von der Struktur des Komplexes K abhängt. Der strukturelle Einfluß ist unter der Bezeichnung Positions-Effekt bekannt.
+
+Wird eine Vereinigung oder Teilung von Komplexen durchgeführt, so dürfen weder Glieder abgesondert, noch neue dazu
+gebildet werden. Wäre es so, so würde sich der ganze Haufen
+Chromosome als unteilbares Ganzes verhalten, und es gäbe keine
+
+von derselben { h wenn eine eineindeutige Be-
+
+immer ein- und derselben ! } angehören, und 2. p*, q*
+
+1) Die Komplexe der Topologie bestehen aus qualitätslosen Elementen,
+wogegen unsere Elemente verschiedene Qualitäten besitzen, sofern sie zu
+verschiedenen Klassen gehören.
+
+[[pdf-page:0320 printed-page:319]]
+
+Möglichkeit, zwischen verschiedenen Genen in demselben Chromosom zu unterscheiden. Unter diesen Umständen würde die Mendelsche Unabhängigkeitsregel gelten, die behauptet, daß die Wahrscheinlichkeiten y für die mannigfaltigen, konstitutionell verschiedenen, von einem bestimmten Organismus produzierten Gameten
+alle gleich sind. Während Mendel damit recht hat, daß zwei Punkte
+inzwei verschiedenen Chromosomen unabhängigsind, ist festgestellt
+worden, daß Punkte in demselben Chromosom zwar nicht absolut,
+jedoch mehr oder weniger eng miteinander verknüpft sind. Diese
+Verknüpfungserscheinung ist mit größtem Erfolg vonT.H. Morgan
+und seiner Schule an der Taufliege Drosophila melanogaster studiert
+und in eingehenden Genzeichnungen festgehalten worden, ausdenen
+ein quantitativer Aufschluß über die Wahrscheinlichkeiten y entnommen werden kann. Morgan hat die Verknüpfung durch den
+Prozeß der Überkreuzungerklärt. Angenommen, eineZygoteK + K*
+sei durch eine ausgeglichene Syngamie zweier Gameten K, K * derselben Spezies o gebildet worden, die miteinander durch die isomorphe Abbildung p 2 p* verknüpft sind. Sei a, b ein Paar benachbarter Punkte in K und a*, b* das homologe Paar in K*; dann
+sind a*, b* benachbart in X*, und die Punkte a, 5 liegen in einem
+Chromosom X, von K und a*, b* in dem homologen Chromosom
+K 5 von K*. Das Überkreuzen besteht darin, daß die Verbindungen
+ab und a*b* abgebrochen und dafür die Verbindungen amitb*und
+b mit a* hergestellt werden. Ist X, ein Stammbaum, dann überführt
+dieser Prozeß das nicht verknüpfte Paar (X_,K; &) in ein Paar
+(K, ‚K&) von Chromosomen, die isomorph zu K, sind. Punkte,
+die vor der Überkreuzung in demselben Chromosom K, waren,
+
+können jetzt getrennt werdenso, daß eines zu Ko das andere zu K$ x
+gehört. Es werden Paare homologer Chromosomen in einem Zellkern festgestellt, die sich selbst in eine Stellung für eine derartige
+Überkreuzungsoperation schieben, bevor die Meiosis stattfindet;
+sie dehnen sich nebeneinander aus, jeder Punkt im einen Chromosom gegenüber dem homologen Punkt im andern (Synapse). Tritt
+danach eine ausgeglichene Meiosis ein, so sind die neuen Gameten
+K, K* von derselben Spezies o wie K, K*. Die Verknüpfung zweier
+Punkte a, b eines Chromosoms ist um so lockerer, je mehr Möglichkeiten es gibt, sie durch Überkreuzen zu trennen.
+
+[[pdf-page:0321 printed-page:320]]
+
+Die Komplexe können zwei Arten von Mutationen durchlaufen: außer den Punktmutationen, bei welchen die Glieder nicht
+beeinflußt werden, während die Punkte p ihre Klasse C, ändern
+(ohne ihre Gattung zu ändern), gibt es Strukturmutationen, die
+den Zustand der Punkte ungeändert lassen, aber die Glieder verändern!). Die oben als Überkreuzen beschriebene Operation kann
+mit vier beliebigen ausgezeichneten Punkten a, b, a*, b* durchgeführt werden (und kann dann Überwerfen genannt werden). Ein
+einfacher Bruch und dieser Überwerfungsprozeß scheinen die Rolle
+elementarer Operationen für Strukturmutationen zu spielen. Mutationen sind seltene Ereignisse im Gegensatz zum Überkreuzen, wozu durch die Synapse vor jeder Meiosis Gelegenheit gegeben ist.
+
+Die einfachsten zusammenhängenden Komplexe sind der Stab
+a1 — a, — '"" — ar (in welchem aufeinanderfolgende Punkte durch
+die Bindeglieder — zusammenhängen) und der Ring. Mit wenigen
+Ausnahmen scheinen die Chromosome Stäbe zu sein (T. H. Morgans Gesetz der linearen Anordnung). Geschieht das Überwerfen in
+einem Stab (nicht zwischen zwei Stäben), so kann daraus freilich
+ein Stab plus ein Ring entstehen (oder wieder der Stab mit einem
+umgedrehten Teil). Ein aus getrennten Stäben und Ringen bestehender Komplex wird diesen Charakter bei jedem Bruch und
+Überwerfen beibehalten.
+
+Ein Chromosom hat ein Centromer. Erzeugt eine strukturelle
+Veränderung Chromosome mit keinem oder zwei Centromeren,
+dann werden diese gewöhnlich zurückgelassen, wenn sich die Zelle
+teilt, und so entstehen Mängel. Es gibt auch mehrere Arten, nach
+welchen die gesamte Chromosomausstattung eines Zellkerns, oder
+ein einzelnes Chromosom verdoppelt werden kann.
+
+Wir haben hier versucht, das formale Schema der Genetik in
+so allgemeiner Form zu entwickeln, daß alle mehr oder weniger
+unregelmäßigen Geschehnisse darin enthalten sind. In diesem
+Schema war es bisher nirgends notwendig, vom Geschlecht zu
+sprechen, doch kann natürlich die Tatsache nicht dauernd übergangen werden, daß eine Syngamie zwischen zwei Gameten nur
+
+1) Auf der Grundlage des Positionseffektes hat R. Goldschmidt kürzlich
+insgesamt den Begriff Gen und die Unterscheidung zwischen Punkt- und
+Strukturmutation angefochten.
+
+[[pdf-page:0322 printed-page:321]]
+
+stattfindet, wenn einer ein Same, der andere ein Ei ist. Dies ist eine
+Polarität (Gameten-Sexualität), die mit Genen nichts zu tun hat!).
+Ob ein Einzelorganismus samenerzeugend männlich oder eierzeugend weiblich ist (Zygoten-Sexualität), ist wie alle seine andern
+„sichtbaren Merkmale“ durch den Genotypus seiner Zygote bestimmt — in Verbindung mit den äußeren, die Entwicklung beeinflussenden Umständen. Die Erfahrung zeigt, daß nicht ein einzelnes Gen in der Zygote, sondern ein Ausgleich zwischen vielen
+Genen das Geschlecht bestimmt. Das Geschlechtschromosom (soweit es von den Autosomen unterscheidbar ist) fällt kaum ins Gewicht. Dies erklärt die Erscheinung der Intersexe und stellt die allgemeine Meinungrichtig, die im Geschlecht dashervorragende Beispiel
+für ein nicht-quantitatives, für ein Entweder-Oder-Merkmal sieht.
+
+5. Unsere Bemerkungen über die Entropie und die Statistik in
+Abschnitt 23B des Haupttextes und im folgenden Anhang € über die
+Quantenphysik werden klarer werden, wenn wir an dieser Stelle, in
+Klammern sozusagen, ein paar Worte über die Grundlagen der statistischen Thermodynamik sagen. Hier hat die Quantentheorie eine entscheidende Vereinfachung eingeführt. Tatsächlich kann in der Quantenphysik ein System & nicht mehr als eine diskrete Folge (vollständiger)
+Zustände mit bestimmten Energiestufen
+
+V:d@=0,1,2,...)
+
+annehmen. Wir wollen einmal in Anbetracht des Energieerhaltungsgesetzes eine große Anzahl N von Systemen 2’ aufs Geratewohl über ihre
+möglichen Zustände i verteilen, doch so, daß die Gesamtenergie der N
+Systeme einen vorausbestimmten Wert N- A(4 = Durchschnittsenergie
+des Einzelsystems) hat. Wir finden, daß die relativen Häufigkeiten
+N;/N, durch welche die einzelnen Zustände ’ dargestellt sind, bei der
+überwältigenden Mehrheit aller Verteilungen mit dem Grenzwert für
+
+1) Bezeichnen wir mit Daß einen Organismus, der aus der Syngamie eines
+Samens des Genotypus & mit einem Ei des Genotypus ß hervorgeht. Die
+Tatsache, daß es Fälle gibt, bei denen sich sogar unter gleichen Umständen
+die umgekehrte Kreuzung Dpe in ihrer Erscheinung von Daß unterscheidet,
+ist der Beweis dafür, daß eine Deutung der organischen Entwicklung allein
+mit den Begriffen der Gene nicht immer genügt. Außer den Genen in den
+Chromosomen der Zellkerne müssen andere, die Entwicklung beeinflussende
+Vererbungskräfte im Zytoplasma angenommen werden. Jedoch ist dieses
+Problem noch weit von einer befriedigenden Lösung entfernt.
+
+[[pdf-page:0323 printed-page:322]]
+
+N — © proportional zu eV: sind; hier bedeutet & eine Konstante, die
+aus der gegebenen Durchschnittsenergie A zu bestimmen ist. Wir definieren deshalb die kanonische Verteilung des Parameters x dadurch, daß
+wir dem Zustandi die relative Wahrscheinlichkeit w; = eV: zuschreiben. (Die relativen Wahrscheinlichkeiten brauchen nicht der
+Standardbedingung I;w; = 1 zu genügen.) Jede vom Zustand ; abhängige Quantität Z; hat dann den mittleren Wert
+
+Zu Ze Det,
+
+und eben diesen Wert ordnen wir der Quantität im ‚thermischen Gleichgewicht‘ zu. Der Parameter & ist mit der gegebenen mittleren Energie A
+durch die Gleichung (U), = A verknüpft. Die in der Natur vorkommenden Systeme können Zustände beliebig hoher Energiewerte annehmen, folglich muß & positiv sein, und die Normalverteilung, die jedem
+Zustand i dieselbe Wahrscheinlichkeit w;° = 1 zuweist, kann nur angenähert erreicht werden, solange die Energie A endlich bleibt (nämlich
+für große Werte von A und entsprechend kleine Werte von &). Die
+reziproke Zahl &”* hat die Dimension der Energie und kann für den
+Augenblick die statistische Temperatur genannt werden.
+
+Wegen des Energieerhaltungssatzes ist die kanonische Verteilung
+stationär in der Zeit. Die möglichen Zustände eines aus zwei Teilen
+2, 2” bestehenden Systems & werden durch die Paare (i, k) charakterisiert, die aus einem beliebigen Zustand i des Systems 2 und einem
+beliebigen Zustand k des Systems 2” gebildet werden. Wird mit U;, Ux'
+die Energie von & im Zustand i und von &' im Zustand k bezüglich
+bezeichnet, so ist die Energie von &' im Zustand (i, k) gleich U; + Ur‘,
+unter der Voraussetzung, daß keine Wechselwirkung zwischen den
+beiden Teilen stattfindet. Für die Wahrscheinlichkeit des Zustandes
+(i, k) im thermischen Gleichgewicht erhalten wir
+
+wuze” (Wi+ U) _ TUE. TUR ww).
+
+Dies bedeutet dreierlei: 1) aus dem thermischen Gleichgewicht des
+Ganzen folgt das thermische Gleichgewicht für die Teile; 2) das Gesetz
+der statistischen Unabhängigkeit gilt für die Kombination der Teile,
+Wik = wi‘ wx ; 3) der Parameter & hat denselben Wert für beide Teile,
+womit auch der Wert für das Gesamtsystem übereinstimmt. Wegen
+dieses dritten Punktes teilt die statistische Temperatur mit der gewöhnlichen Temperatur (die eher ein Mehr- oder Weniger-Merkmal als ein
+
+[[pdf-page:0324 printed-page:323]]
+
+quantitatives der Körper ist) die entscheidende Eigenschaft, daß einander berührende Körper ihre Temperaturen ausgleichen.
+
+Ein ideales Gas, d. h. ein Aggregat von n Partikeln, deren Zustand
+durch Lage und Geschwindigkeit vollständig beschrieben ist, und deren
+Wechselwirkung vernachlässigt werden kann, soli ein bestimmtes
+Volumen Y unter einem bestimmten Druck p einnehmen. Die Anwendung der klassischen Physik und der kanonischen Verteilung auf ein
+solches Gas ergibt den Wert pV/n für seine statistische Temperatur.
+Folglich kommt für die statistische Temperatur kT heraus, wenn T die
+(absolute) Temperatur bezeichnet, die von einem mit einem idealen
+Gas gefüllten Gasthermometer, das in Kontakt mit dem System 2 ist,
+abgelesen wird; dabei ist k ein universeller Proportionalitätsfaktor
+(Boltzmannsche Konstante), der hinzugefügt werden muß, um die
+Temperaturskala auf die üblichen Celsiusgrade zu reduzieren (100°C
+= Differenz zwischen dem Siede- und dem Gefrierpunkt des Wassers
+unter dem Druck einer Atmosphäre)!). Die ganze Theorie des thermischen Gleichgewichts läuft in diesem einen Prinzip zusammen, das
+in der Quantenphysik ebenso wie in der klassischen Physik gilt: die
+kanonische Verteilung w entsteht aus der Standardverteilung w® mittels
+der Gleichung
+
+w=wl.eUhkt
+
+wo U die (von Zustand zu Zustand variable) Energie und T die feste
+Temperatur der Systeme (oder des Wärmebades, in welches das System
+eingetaucht ist) bezeichnet.
+
+LITERATUR
+
+C. H.Waddington, An Introductionto Modern Genetics. London 1993.
+
+E. Schrödinger, Statistical Thermodynamics. Cambridge 1946.
+
+R. Goldschmidt, Position Effect and the Theory of the Corpuscular
+Gene. Experientia 2 (1946), S. 197—203, 250—-256.
+
+J. H. Woodger, The Axiomatic Method in Biology. Cambridge 1937.
+
+J.von Neumann und O. Morgenstern, Theory of Games and Economic Behavior. 2. Aufl. Princeton 1947.
+
+1) Die Masse M =n- u des Gases ist proportional der Anzahl n der
+Partikel. Bezeichnet v = V/M das spezifische Volumen, so erhält man die
+Gay-Lussacschen Gesetze in der gewöhnlichen Form pv = RT mit einer für
+das Gas charakteristischen Konstante R = k/u. Infolgedessen ist k von
+atomarer Kleinheit, und das Produkt von R mit dem ‚‚Molekulargewicht‘‘
+hat für verschiedene Gase den gleichen Wert.

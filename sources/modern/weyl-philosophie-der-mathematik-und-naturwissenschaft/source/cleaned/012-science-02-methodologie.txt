@@ -1,0 +1,1083 @@
+# II. Methodologie
+
+Section ID: science-02-methodologie
+Kind: chapter
+PDF pages: 178-210
+Printed pages: 177-209
+Status: OCR-derived cleaned draft; page images remain the authority.
+
+[[pdf-page:0178 printed-page:177]]
+
+II. Methodologie
+
+19. Das Messen
+
+Die im Gegensatz zur aristotelischen Philosophie in der Neuzeit sich durchsetzende Ansicht, daß ein Erkenntniszusammenhang in der wirklichen Welt nur gefunden werden kann, soweit
+qualitative Bestimmungen auf quantitative zurückgeführt werden,
+ist für die Naturwissenschaft von fundamentaler Wichtigkeit
+geworden. Wir finden sie bei Kepler: „„Ut oculus ad colores, auris
+ad sonos, ita mens hominis non ad quaevis sed ad quanta intelligenda
+condita est.“ Das Maß unserer Erkenntnis liegt in ihrer Annäherung an die „‚nudae quantitates“. Und Galilei spricht explizite als
+seinen Grundsatz aus: „Alles messen, was meßbar ist, und versuchen meßbar zu machen, was es noch nicht ist.“ Eine glänzende
+Bewährung des zweiten Teils dieses Postulats ist seine Erfindung
+des Thermometers. — Worin besteht aber der Vorgang des Messens? Nehmen wir als Beispiel etwa die fräge Masse!
+
+Nach Galilei schreibt man zwei Körpern die gleiche träge
+Masse zu, wenn keiner den andern überrennt, falls man sie mit
+gleichen Geschwindigkeiten gegeneinander jagt (sie mögen beim
+Zusammenstoß aneinander kleben bleiben). Hier handelt es sich
+also um eine Definition durch Abstraktion. Die physikalisch definierte Massengleichheit ist, wie an der Erfahrung geprüft werden
+muß, eine Beziehung vom Charakter der Gleichheit ($ 2). Außerdem ist durch das Experiment festzustellen, daß sie von den Nebenumständen des definierenden Prozesses, nämlich der Geschwindigkeit des Zusammenstoßes unabhängig ist. Mit der Gleichheit,
+dieser ersten Erfordernis des Messens, ist meistens ohne weiteres
+die Beziehung des größer und kleiner gegeben: von den beiden
+Körpern hat derjenige die größere Masse, welcher den anderen
+bei gleicher Geschwindigkeit überrennt. Endlich aber muß ein
+Prozeß der Addition gegeben sein; er besteht im Falle der Massen
+einfach im Zusammenfügen der Körper. Unter Voraussetzung
+gewisser Axiome über diese Grundbegriffe, die z.B. Helmholtz
+in seinem wiederholt zitierten Aufsatz „Zählen und Messen“
+
+[[pdf-page:0179 printed-page:178]]
+
+bespricht, läßt sich auf sie eine Maßskala gründen, die jeden Wert
+der in Frage stehenden Größe durch eine Zahl charakterisiert.
+Es kann dabei nötig sein, eine bestimmte Maßeinheit willkürlich
+zu fixieren (hierin liegt dann ein neues Moment der Relativität,
+und so verhält es sich z. B. bei den Strecken und Massen); unter
+Umständen existiert aber auch eine natürliche Maßeinheit, wie es
+die Volldrehung im Gebiete der Winkel ist. Praktisch ist an die
+Einheit die Forderung zu stellen, daß sie überall und zu allen
+Zeiten möglichst exakt reproduzierbar sei.
+
+Eine andere Art von Größen als die eben besprochenen „addierbaren“ treten als absolute oder Materialkonstanten in den
+Naturgesetzen auf, welche funktionale Abhängigkeiten zwischen
+addierbaren Größen statuieren. Dahin gehört z. B. der Brechungsindex n, dessen Bedeutung durch das Snelliussche Brechungsgesetz klargelegt wird: Sinus des Einfallswinkels gleich n-mal dem
+Sinus des Brechungswinkels (die in diesem Gesetz verbundenen
+addierbaren Größen sind die beiden Winkel). Helmholtz nennt
+solche Konstante „intensive“ Größen im Gegensatz zu den addierbaren, den „quantitativen‘‘ Größen; intensive Größen sind insbesondere alle Wertbestimmungen von Eigenschaften.
+
+Ein gutes Beispiel ist die Temperaturmessung. Gleiche Temperatur
+haben solche Körper, welche im Zustande der Berührung aneinander
+keine Veränderung hervorbringen. Es ist eine durchaus nicht selbstverständliche, sondern aus der Erfahrung zu entnehmende Tatsache,
+daß, wenn A mit B und B mit C gleiche Temperatur besitzt, auch A
+und C gleiche Temperatur haben. Eine Addition, die zu einer bestimmten Meßskala führen würde, gibt es im Gebiete der Temperaturen nicht.
+Auf Grund der Erfahrung, daß Körper ungleicher Temperatur aneinander Längenänderungen hervorbringen, half man sich dadurch, daß man
+die Temperatur durch die Länge eines mit dem zu messenden Körper
+in Berührung gebrachten Normalkörpers bestimmte. Diese Festlegung
+der Temperatur ist stets reproduzierbar und unabhängig von der Vorgeschichte, während der Temperatursinn uns einen Körper von physikalisch konstanter Temperatur bald warm, bald kalt empfinden läßt,
+je nachdem welchen Wärmegraden unsere Haut unmittelbar vorher
+ausgesetzt war. Auch fühlen sich Holz und Eisen gleicher Temperatur
+verschieden an: wenn warm, so Eisen wärmer; wenn kalt, so Eisen
+kälter; die äußere Wärmeleitfähigkeit ist dafür physikalisch mitbestim-
+
+[[pdf-page:0180 printed-page:179]]
+
+mend. Der objektive Temperaturbegriff entfernt sich also ziemlich weit
+von den Gegebenheiten des Wärmesinns. Die Temperaturskala ist von
+dem gewählten Normalkörper abhängig; jedoch verhalten sich wenigstens alle Gase annähernd gleich; ihr Verhalten kann mit geringen
+Fehlern durch ein einfaches Gesetz beschrieben werden, das man nun
+als charakteristisch für ein „ideales Gas‘ ansetzt. Aber erst dadurch,
+daß aus diesem Gesetz des idealen Gases unter Zuhilfenahme eines
+allgemeinen Prinzips der sog. zweite Hauptsatz der Thermodynamik
+abgeleitet wurde, der für alle Körper gilt, wurde es möglich, die Skala
+des idealen Gasthermometers zu realisieren. Die absolute Temperatur
+ist danach, außer durch die Aussage, daß Körper gleicher Temperatur
+denselben Temperaturwert 7 haben, dadurch gekennzeichnet, daß für
+jeden unendlich langsam verlaufenden Kreisprozeß das Integral über
+dO/T null wird, wo dQ die in den einzelnen unendlich kleinen Schritten
+des Kreisprozesses zugeführte energetisch gemessene Wärmemenge,
+T jeweils die im betreffenden Augenblick herrschende Temperatur bedeutet (W. Thomson 1848). Die Wärmemenge ist eine addierbare, die
+Temperatur also im Helmholtzschen Sinne eine intensive Größe. Ihre
+Definition ist eine implizite, welche die Geltung gewisser Naturgesetze
+mit einschließt; sie läßt nur noch die Maßeinheit, nicht aber den Nullpunkt willkürlich. Vielmehr ist T notwendig stets positiv, es gibt einen
+absoluten Nullpunkt der Temperatur (bei der üblichen Wahl der Maßeinheit liegen Gefrier- und Siedepunkt des Wassers unter Atmosphärendruck bei 273°, bzw. 373° der absoluten thermodynamischen Skala).
+
+Auf der Relativität der Größenbestimmungen in bezug auf eine
+willkürlich zu wählende Maßeinheit beruhen die Gesetze der „mechanischen Ähnlichkeit“, über die Galilei am zweiten Tag seiner Discorsi
+spricht. Sie erlauben z.B. an kleinen Modellen über die wirklichen
+Geschehnisse Auskunft zu erhalten, wie man an einem kleinen Modell
+eines Dreiecks, dessen Winkel bekannt sind, die Seitenverhältnisse ablesen kann. Spielt bei einem Schwimm- oder Flug-Problem die Reibung
+des Mittels (Wasser oder Luft) eine Rolle, so muß man beim Übergang
+zum Modell im allgemeinen auch das Medium durch ein solches von
+entsprechend geänderter Zähigkeit ersetzen. Freilich haben die physikalischen Ähnlichkeitssätze ihre Grenzen. So bleibt nach dem Ansatz
+der speziellen Relativitätstheorie nur eine willkürliche Längeneinheit
+für Raum und Zeit übrig, die Lichtgeschwindigkeit c wird zur absoluten
+Geschwindigkeitsnorm. Freilich ist die Existenz einer absoluten Einheit
+für die Geschwindigkeiten in der Relativitätstheorie nicht absonderlicher als die Existenz einer absoluten Winkeleinheit in der Geometrie.
+
+[[pdf-page:0181 printed-page:180]]
+
+Sie ist lediglich eine Konsequenz aus der metrischen Struktur der vierdimensionalen Welt. Wird die Gravitationskonstante hinzugefügt, so
+bleibt für alles physikalische Messen nur noch eine Einheit, die willkürlich gewählt werden muß, etwa die Sekunde als Zeiteinheit. So weit
+kann man ohne Berücksichtigung der atomistischen Struktur der
+Materie gelangen. Über die Atomtheorie und die aus den Atomgesetzen
+zu gewinnenden absoluten Naturkonstanten s. $ 22 e (S. 234) und Anhang F.
+
+Zur Theorie des Messens gehört die Frage, wie es möglich ist,
+Größen viel genauer festzulegen, als ihre unmittelbare sinnliche
+Unterscheidbarkeit zuläßt. Was für einen Sinn hat es, zwei Gelbnuancen (etwa die Gelbs der beiden benachbarten D-Linien im
+Natriumspektrum) zu unterscheiden, die sinnlich ununterscheidbar sind? Ein einfaches Beispiel dafür ist die genaue Bestimmung
+der Zeitdauer einer Pendelschwingung; man wartet etwa 1000
+Pendelschwingungen ab und dividiert die gesamte Zeit durch 1000.
+Die Genauigkeit ist dadurch auf das Tausendfache derjenigen gestiegen, die bei Beobachtung einer einzigen Schwingung zu erzielen
+wäre. Dabei ist freilich eine theoretische Voraussetzung gemacht:
+nämlich die, daß alle einzelnen Schwingungen gleiche Zeitdauer
+besitzen. Aber ebenso wie die auf indirektem Wege gewonnene
+Behauptung über die Zeitdauer der einzelnen Schwingung ist auch
+diese Voraussetzung für den Intuitionisten, der die Grenze der
+sinnlichen Genauigkeit respektiert und sie nicht ums Tausendfache überschreiten will, „sinnlos“. Dennoch kann man sie in gewisser Weise durch die Konstatierung bestätigen, daß die Zeitdauer von m aufeinander folgenden Schwingungen sich zu der von
+n Schwingungen (m und rn große ganze Zahlen) so verhält wie m:n,
+natürlich innerhalb der Genauigkeitsgrenzen der direkten Beobachtung (die Prüfung wird an mehreren beliebig herausgegriffenen
+Schwingungsserien vollzogen). Allgemein steht es hier so: Durch
+die exakten Gesetze der zugrunde gelegten Theorie steht die zu
+bestimmende Größe x mit manchen anderen in funktionalen
+Abhängigkeiten. Durch ihre Beobachtung können Schlüsse auf
+den Wert von x gezogen werden, die x genauer zu ermitteln gestatten als durch seine direkte Beobachtung. Die Bewährung der
+zugrunde gelegten Theorien besteht darin, daß innerhalb der zu
+
+[[pdf-page:0182 printed-page:181]]
+
+erwartenden Fehlergrenzen alle indirekten Methoden der Bestimmung von x zum gleichen Resultat führen. Insbesondere
+bestimmt sich eine Tatsache um so genauer, je weiter ihre kausalen
+Folgen in der Zeit sich entwickeln. Eine zunächst gar nicht merkbare Richtungsverschiedenheit zweier Geschosse führt schließlich
+zu den deutlichsten Unterschieden: das eine trifft, das andere
+nicht. Es ist aber daran festzuhalten, daß jede solche indirekte
+Wertbestimmung, jede Setzung eines sinnlich nicht vorhandenen
+Unterschiedes nur auf Grund von Theorien möglich ist, deren
+Verifikation dadurch geschieht, daß sie in allen ihren numerischen
+Konsequenzen geprüft werden und Einstimmigkeit ergeben.
+(Andernfalls zwingt die Beobachtung zur Modifikation der Theorie.)
+
+Die ganze indirekte Methodik der Experimentalphysik gehört hierher, von den einfachsten Hilfsmitteln angefangen, dem Nonius, den
+Spiegelreflexen zur Messung kleiner Ausschläge, den rotierenden Spiegeln, mit Hilfe deren man die tonerzeugenden Schwingungen leuchtender
+Körper auflöst, dem Mikroskop, bis zum Raffinement der modernen,
+der Atomforschung dienenden Versuchsanordnungen, die dazu vordringen, das einzelne Atom (oder «-Teilchen) isoliert durch seine Wirkung „sichtbar zu machen“. Eine interessante Übersicht und einen
+Versuch zur Ordnung der verschiedenen dabei angewandten methodischen Prinzipien gibt Mach in dem Kapitel „Das physische Experiment
+und seine Leitmotive“ in „Erkenntnis und Irrtum“ (1905). Hier liegt ein
+Hauptbetätigungsfeld für die Erfindungskraft des Experimentalforschers.
+
+Wenn sich so auch die Ansicht rechtfertigen läßt, daß die Welt
+viel bestimmter ist, als sie den Sinnen erscheint, ja daß sie absolut
+bestimmt ist, so wäre diese absolute Bestimmtheit irgendeines
+von mir selber leibhaftig miterlebten Weltstücks doch nur zu gewinnen, wenn ich die Fortentwicklung bis ans Ende aller Zeiten
+(zusamt der Vollendung der die exakten Gesetze liefernden theoretischen Physik) abwartete; sie ist also eine Grenzidee und durchaus keine Gegebenheit. Leibnizens Gedanke der prästabilierten
+Harmonie — den er selber durch das Beispiel zweier voneinander
+unabhängiger Uhren illustriert, die nicht darum immer gleich
+gehen, weil sie aufeinander gleichrichtende Einflüsse ausüben,
+sondern weil sie genau gleich gebaut sind — widerstreitet daher
+dem Wesen des Kontinuums. Hume setzt im Treatise auseinander,
+
+[[pdf-page:0183 printed-page:182]]
+
+daß die Verschärfung der Maßangaben auf einer gegenseitigen
+und fortlaufenden Berichtigung beruhe, „der Begriff der Berichtigung über das hinaus, was wir mit Instrumenten und künstlichen
+Mitteln erreichen können“, der absolut genaue Maßstab aber
+„eine bloße Fiktion‘ sei, „ebenso nutzlos als unverständlich“
+(Teil II, Abschnitt 4). Dennoch versteht man in diesem Zusammenhange auch die Notwendigkeit und Zweckmäßigkeit einer
+exakten Mathematik: die exakte Theorie bildet das Gerüst für die
+approximativen Verifikationen. Legen wir z.B. die euklidische
+Geometrie als Raumtheorie zugrunde, so sind wir mit dem Satz,
+daß die Diagonale zur Seite des Quadrats sich verhalte wie Y2:1,
+für alle Zukunft gerüstet, gegenüber allen weiteren Verschärfungen der direkten und indirekten Messungsmethoden; er führt uns
+zu immer neuen Voraussagen (approximativen Charakters) oder
+zu immer feineren Kriterien für die Meßkörper, welche den idealen Voraussetzungen der euklidischen Geometrie mit der jeweiligen Genauigkeit entsprechen sollen, die überhaupt der Längenmessung gegeben werden kann.
+
+Neuerdings ist der dänische Geometer Ajelmslev für eine reine
+Approximationsgeometrie eingetreten (Abhdlg. aus dem Mathem.
+Seminar d. Univ. Hamburg, Bd. 2, S. I), mit den gleichen Argumenten
+wie Hume, der u. a. bemerkte, daß die Gewißheit, „zwei gerade Linien
+könnten keine Strecke miteinander gemein haben, immer eine deutlich
+wahrnehmbare Neigung der beiden Linien gegeneinander voraussetze,
+daß dagegen, wenn der Winkel, den sie bilden, sehr klein ist, uns das
+Musterbild einer geraden Linie fehlt, das genau genug wäre, um uns
+die Wahrheit des Satzes mit Sicherheit erkennen zu lassen‘ (Treatise,
+Teil III, Abschn. 1). Aber wenn Hjelmslev dann den Pythagoreischen
+Lehrsatz formuliert: „In einem rechtwinkeligen Dreieck lassen sich die
+Seiten so durch Zahlen fixieren, daß das Quadrat der Hypotenusenzahl
+der Summe der Quadrate der beiden Katheten gleich wird‘, so zeigt
+sich bereits hier der Gedanke, durch die für unverletzlich erklärte, zum
+exakten Gesetz erhobene Funktionalverknüpfung, die der gewöhnliche
+Pythagoreische Lehrsatz ausspricht, den Spielraum der Unsicherheit
+für die unmittelbar abzulesenden Maßzahlen zu verringern. Denkt man
+nun weiter daran, daß dieselbe Strecke, die hier als Hypotenuse auftritt,
+noch in unendlichvielen anderen Figuren als Bestandstück fungieren
+kann, mit deren übrigen Teilen sie durch analoge Funktionalbeziehungen
+
+[[pdf-page:0184 printed-page:183]]
+
+verknüpft ist, so kommt man genau zu der Auffassung vom Sinn einer
+exakten Theorie, welche die konstruktive Physik beherrscht. Hjelmslev
+hat übrigens viel zu sehr nur die gezeichneten Figuren an der Wandtafel
+im Auge und vergißt viel zu sehr, daß die Geometrie zugleich ein ideelles
+Fundament abgeben soll für Astronomie und Atomphysik. Konstruktive
+Wissenschaft kann sich den Brouwerschen Intuitionismus gefallen lassen,
+der Hume-Hjelmslevsche Sensualismus, der prinzipiell das unmittelbar
+Gegebene, ohne es doch durchführen zu können, zum allein Wirklichen
+machen will, ist tödlich für sie.
+
+Das Messen, wie wir es bisher betrachteten, beruhte darauf,
+daß in vielen Fällen physikalische Größen jene bestimmten Axiomen genügenden Begriffe der Gleichheit und der Addition darbieten, welche ihre Werte auf eine Zahlenskala projizieren. „Auf
+diese Art“, sagt Maxwell (Scient. Pap. Vol. 1, S. 156), „sind alle
+Anwendungen der Mathematik in der Wissenschaft auf Beziehungen zwischen den Gesetzen der physikalischen Größen zu denen
+der ganzen Zahlen gegründet.‘“ Wie wichtig die besprochene besondere Art der Einführung von Zahlsymbolen in die Naturwissenschaft auch sein mag, so darf ihr dennoch, wie es scheint,
+keine prinzipiell ausgezeichnete Rolle zugeschrieben werden. Wenn
+man in einem Kontinuum die Grundlage für eine arithmetische
+Unterscheidung der einzelnen Stellen dadurch schafft, daß man
+ein Teilungsnetz über das Kontinuum spannt, das in allen seinen
+Stufen der Verschärfung und Verfeinerung in weitem Maße frei,
+wenn auch nach festem kombinatorischen Schema zu wählen ist,
+so verfährt man anders, viel ungebundener als im Falle des eigentlichen Messens. Und die Messung vieler physikalischer Zustandsgrößen (die nicht Skalare, sondern Vektoren oder „Tensoren“
+sind wie z. B. das metrische Feld) ist erst relativ zu einem so willkürlich in die Welt hineingetragenen Koordinatensystem möglich.
+Jenes freie Hineintragen der Koordinaten und dieses auf der Addition gleicher Elemente beruhende Messen mögen typisch sein
+für die Substrate, auf welche die beiden Methoden Anwendung
+finden: die erste auf die Form, die zweite auf den Inhalt der Welt.
+Worauf es beim Messen aber eigentlich ankommt, ist doch allein
+die symbolische Darstellung; auch die Zahlen sind nicht die einzigen brauchbaren Symbole. Ein wesentlicher und allgemeiner Zug
+
+[[pdf-page:0185 printed-page:184]]
+
+des Messens ist es ferner, daß es (relativ zu den angenommenen
+Meßfundamenten) die Dinge auf begriffliche Weise, symbolisch,
+zu geben gestattet. Ist ein Stück der unendlichen euklidischen
+Ebene materiell durch eine ebene Metallplatte realisiert, so können
+wir zunächst nur im Bereich der Platte Örter festlegen durch Anbringung qualitativ unterschiedener, immer wieder erkennbarer
+materieller Marken auf der Platte. Wenn aber ein rechtwinkliges
+Achsenkreuz mitsamt einer Einheitsstrecke in sie eingeritzt ist, so
+können wir nicht nur (‚„ideell‘“ und auf Grund einer Theorie über
+das Verhalten starrer Maßstäbe) ein beliebig feinmaschiges Netz.
+wohlcharakterisierter Örter durch Koordinatenangaben über sie
+ausbreiten; sondern diese indirekte Methode gestattet uns sogar,
+die Grenzen der materiellen Basis zu überschreiten und solche
+„Zahlmarken‘ auch in die jenseits der materiellen Insel sich erstreckende leere Ebene hinauszusetzen. So benutzen wir die Erde
+als Meßbasis für den astronomischen Raum. — Endlich zeigt sich
+im Messen das Bestreben, die unmittelbaren sinnlichen Feststellungen, die natürlich nie ausgeschaltet werden können, wenn irgend
+möglich auf die allersicherste und genaueste unter ihnen zurückzuführen, nämlich auf die Feststellung raumzeitlicher Koinzidenzen
+(man sucht also z. B. den subjektiven Vergleich von Farben und
+Helligkeiten auszuschalten). Jede Messung soll schließlich darauf
+hinauslaufen, daß eine Marke auf einer Skala (ein beweglicher
+Zeiger o. dgl.) mit einer bestimmten Marke auf einer zweiten Skala
+koinzidiert. Bei einer astronomischen Beobachtung geschieht die
+Ablesung am Teilkreis auf solche Weise, während die Einstellung
+des Instruments auf den Stern eine durch Zwischenschaltung des
+Lichtes modifizierte Koinzidenz benutzt: die Deckung von Stern
+und Fadenkreuz.
+
+20. Die Begriffsbildung
+
+Dilthey schildert in dem Aufsatz über „die Autonomie des
+Denkens im 17. Jahrhundert“, den man im 2. Band seiner gesammelten Schriften findet (3. Aufl. 1923), den Aufstieg der Mechanik bis Galilei. „Galilei kam. In ihm folgte auf mehr als zwei
+
+[[pdf-page:0186 printed-page:185]]
+
+Jahrtausende von Beschreibung und Formbetrachtung der Natur,
+die nun in dem Weltbild des Kopernikus einen Abschluß gefunden
+hatte, das Studium einer wirklichen Analysis der Natur.“ Für diese
+Analysis ist entscheidend die Isolierung der einfachen Vorgänge
+in der Komplexität des Geschehens, die Zerlegung des einmaligen
+Weltablaufs in einfache immer wiederkehrende Elemente. Die
+Formel dissecare naturam hatte schon Bacon aufgestellt. „Allein
+die Mathematiker haben es zur Gewißheit und Evidenz gebracht,
+weil sie vom Leichtesten und Einfachsten ausgegangen sind“ (Descartes, de methodo). Die Macht der Naturwissenschaft liegt nicht
+zum wenigsten darin begründet, daß sie verzichtete, ein ‚System
+der Natur“ in einem Zuge zu entwerfen, sondern sich mit unendlicher Geduld zu den kleinen Einzelfragen herabließ, diese aber
+einer restlosen Analyse zuführte. Descartes selber freilich sündigte
+in dieser Hinsicht noch kräftig gegen jene von ihm selbst gemachte
+methodische Bemerkung; Galileis Überlegenheit über ihn auf dem
+Felde der Naturwissenschaft liegt zum Teil darin, daß Galilei durch
+seine Untersuchungen über die Fallgesetze Ernst machte mit der
+Enthaltsamkeit und Beschränkung, die „den Meister zeigt‘). —
+Folgende Etappen des Verfahrens der Zerlegung in einfache Elemente, deren erste drei noch der vorwissenschaftlichen Stufe angehören, kann man unterscheiden.
+
+1. Zerschneidung der dreidimensionalen räumlichen Wirklichkeit in
+einzelne, je eine anschauliche Einheit bildende, räumlich getrennte, verhältnismäßig beständige Teilsysteme ( Körper oder Dinge), die Vorgänge
+an solchen werden, solange die fortschreitende Analyse nicht zu Korrekturen zwingt, als voneinander unabhängig betrachtet. Hand in Hand
+damit: eine Zerschneidung der vierdimensionalen raumzeitlichen Wirklichkeit in einzelne raumzeitlich getrennt verlaufende, in sich zu anschaulicher Einheit zusammengeschlossene Ereignisse.
+
+2. Auffassung eines anschaulich erlebten Vorganges als zustande
+gekommen durch raumzeitliches Zusammentreffen und Verschmelzen
+mehrerer einfacher Phänomene (deren jedes einzelne, wenn man die
+andern „durchstreicht‘“ oder durch „normale Umstände“ ersetzt, sich
+in anders gearteten Wahrnehmungen als die Gesamterscheinung bekunden würde; z.B. Sonnenuntergang hinter einer goldumränderten Wolke).
+
+1) „In der Beschränkung zeigt sich erst der Meister“ ist eine bekannte
+Zeile aus Goethes Gedicht ‚Natur und Kunst“.
+
+[[pdf-page:0187 printed-page:186]]
+
+3. Erfassung des Soseins, Abhebung der unselbständigen Teile der
+Phänomene, ihrer charakteristischen Züge und Merkmale. Darauf
+gründet sich das Zusammenordnen von Ähnlichem, das Unterordnen
+unter Begriffe, die Klassifikation, welche sich an der immer reicher
+werdenden Erfahrung korrigiert und so immer besser das wahrhaft
+Wesentliche vom Unwesentlichen scheidet und zu immer „natürlicherer‘‘
+Klassenbildung fortschreitet. Ein Begriff ist um so wesenhafter, je mehr
+Konnotationen er nach dem Zeugnis der Erfahrung mit sich führt, je
+mehr nicht im Begriff selber enthaltene Merkmale den unter ihn fallenden
+Objekten erfahrungsgemäß gemein sind (Mill).
+
+4. Man bleibt nicht bei anschaulich abhebbaren Elementen stehen,
+sondern faßt eine Reihe stets zusammen auftretender Beschaffenheiten
+als Anzeichen eines verborgenen Etwas auf: dies führt zu hypothetischen
+Elementen, wie z. B. den Atomen, den Kräften, dem elektromagnetischen
+Feld. Aber nicht nur die vorfindbaren Beschaffenheiten, sondern auch
+die Verhaltungsweisen eines Systems beim Zusammenbringen mit
+anderen lernt man deuten als Bekundungen derartiger Elemente und
+ihres intensiven oder quantitativen Wertes (dies ist das Wesen der
+„Reaktion“, des Experiments). Und endlich scheut man sich auch nicht,
+das anschaulich schlechthin Einfache hypothetisch zu zerlegen, z.B.
+das weiße Sonnenlicht in die Spektralfarben; oder die Beschleunigung,
+welche ein Planet erfährt, in die Teilbeschleunigungen, welche ihm die
+Sonne und die übrigen Planeten einzeln erteilen. Es ist klar, daß mit der
+Zerlegung auch die synthetischen Prinzipien aufgedeckt werden müssen,
+gemäß denen die Elemente zum Ganzen vereinigt sind (Beispiel: Resultantenbildung von Kräften).
+
+Überall mit dem Einfachsten beginnend, findet man nun
+zwischen den so gewonnenen Elementen, die in allen Erscheinungen
+wiederkehren, zwischen ihren Wertvariationen feste, quantitativ
+zu erforschende, durch mathematische Funktionen ausdrückbare
+gesetzmäßige Beziehungen. Und zwar ist das Entscheidende: je
+weiter die Analyse fortschreitet, in je feineren Details also die Vorgänge erfaßt und in je feinere Elemente sie zerlegt werden, um so
+einfacher — nicht, wie man erwarten sollte, um so komplizierter —
+werden diese gesetzmäßigen Grundbeziehungen, und um so vollständiger und genauer erklären sie den tatsächlichen Verlauf. Und
+nur an Hand dieser Analyse ergeben sich auch die richtigen Begriffe, mit Hilfe deren die objektive Natur zu beschreiben ist und
+
+[[pdf-page:0188 printed-page:187]]
+
+die durchweg an bestimmte Tatsachen und geltende Naturgesetze
+gebunden erscheinen.
+
+Was zwingt uns, die einheitliche weiße Farbe in der Physik als ein
+Zusammengesetztes zu denken? Das Kausalgesetz, der Grundsatz, daß
+Gleiches unter gleichen Umständen die gleichen Reaktionen hervorruft.
+Er fordert, daß zwei Farben, die sinnlich als das gleiche Weiß erscheinen,
+„verborgene“ Unterschiede aufweisen, da sie beim Durchgang durch
+dasselbe Prisma verschiedene Spektren liefern. (Im Prinzip geschieht
+hier nichts anderes, als wenn wir zwei gleich aussehende Kugeln, die
+verschiedene Trägheit und Schwere zeigen, aufschneiden und in der
+einen einen grauen Bleikern entdecken.) Man wird finden, daß man die
+im weißen Licht verborgene Mannigfaltigkeit am zweckmäßigsten durch
+die Angabe dieses Spektrums mit seiner Intensitätsverteilung beschreibt.
+Zunächst mischt sich hier noch der zur Reaktion benutzte Apparat, das
+Prisma mit seinen speziellen Eigenschaften ein, und man muß, indem
+man das Prisma nach Form und Substanz variiert, erst lernen, beide
+Einflüsse voneinander zu sondern: so kommt man zu der vom Prisma
+unabhängigen Wellenlängen-Skala im Spektrum. An dem Beispiel der
+ponderomotorischen Kraft, welche ein Probekörperchen in einem von
+geladenen Konduktoren erzeugten Felde erleidet, haben wir oben ein
+derartiges Trennungsverfahren geschildert. Polarisiertes Licht von
+bestimmter Spektralfarbe und Intensität aber erweist sich als etwas
+Einfaches, weil sein Verhalten in allen Reaktionen durch die angeführten
+Merkmale vollständig bestimmt ist.
+
+Ein typisches Beispiel physikalischer Begriffsbildung ist der
+Galileische Massenbegriff. Wir erwähnten bereits oben das Kriterium für Massengleichheit. Hierin erscheint der Begriff des Impulses als primär gegenüber dem der Masse. Zwei sich gegeneinander bewegende Körper (die beide nach dem Trägheitsgesetz
+eine gleichförmige Translation vollführen) haben entgegengesetzt
+gleichen Impuls, wenn beim Zusammenstoß keiner den anderen
+überrennt; zwei Körper haben gleiche Masse, so wiederholen wir
+das Galileische Kriterium, wenn sie bei gleichen Geschwindigkeiten gleiche Impulse besitzen. Es handelt sich also um einen
+konstruktiven Begriff im Sinne der Schilderung auf S. 56. An
+Stelle oder neben dierein intellektuellen Manipulationen im Reiche
+der Zahlen treten hier in der Sphäre der Wirklichkeit aber reale
+(oder wenigstens real mögliche) Experimente, deren Ausfall zur
+
+[[pdf-page:0189 printed-page:188]]
+
+Wertbestimmung von Merkmalen benutzt wird. Ein Schritt von
+großer Tragweite war damit getan. Nachdem die Materie aller
+sinnlichen Qualitäten entkleidet war, schien es zunächst, als könne
+man ihr nur noch geometrische Eigenschaften beilegen; ganz konsequent ist hierin Descartes. Aber nun zeigt sich, daß man aus der
+Bewegung und ihrer gesetzmäßigen Veränderung bei Reaktionen
+andere zahlenmäßige Charakteristika der Körper ablesen kann.
+Es öffnete sich damit, über Geometrie und Kinematik hinaus, die
+Sphäre der eigentlich mechanischen und physikalischen Begriffe.
+Im Grunde steckt in der Galileischen Massendefinition das Impulsgesetz: „Einem isolierten Körper (der in gleichförmiger Bewegung
+begriffen ist) Kommt ein bestimmter Impuls zu 3 = mv, d.i. ein
+mit seiner Geschwindigkeit d gleichgerichteter Vektor. Die Impulssumme der einzelnen Körper eines isolierten Systems vor einer
+Reaktion ist gleich der Impulssumme nach der Reaktion.“ Indem
+man die beobachteten Bewegungen diesem Gesetz unterwirft, erhält man Daten zur numerischen Bestimmung der Verhältnisse
+zwischen den Massen m der verschiedenen Körper vor und nach
+der Reaktion. Der konstruktiven Naturwissenschaft ist die allgemeine Aufgabe gestellt: den Gegenständen solche quantitativen
+Merkmale zuzuweisen, die jeweils nur von dem betreffenden Gegenstand abhängen, wenn sie auch nicht direkt an ihm erkannt werden
+können, daß ihr Verhalten unter Umständen, welche durch ebensolche Merkmale gegeben werden, auf Grund der Naturgesetze ein
+völlig bestimmtes und voraussagbares ist. Die implizite Definition
+der Merkmale ist an diese Gesetze gebunden. So erfüllt die Wissenschaft das (unter Zugrundelegung der sinnlichen Eigenschaften
+nicht erfüllte) Postulat, daß „alle Veränderungen, welche sich an
+den Körpern ereignen, ihren Grund in dem Wesen und den Eigenschaften der Körper selbst haben‘ (Euler, Anleitung zur Naturlehre, Cap. I, 2. Opera postuma 2, 1862). Die Tatsache, daß wir
+die allgemeinen Prinzipien der Naturerkenntnis nicht finden, sondern mühsam erarbeiten, wurde besonders vom Konventionalismus
+von H. Poincare betont.
+
+Zur zeitlichen Analyse des Reaktionsvorganges übergehend,
+wird man, da für einen isolierten Körper k der Impuls 3 zeitlich
+konstant ist, die Änderung dieser Größe pro Zeiteinheit d3/ dt, die
+
+[[pdf-page:0190 printed-page:189]]
+
+Kraft, als Maß für die Einwirkung ansetzen, welche k von andern
+Körpern k,, k,,... erfährt. In der Tat erkannte Newton, daß die
+Kraft sich additiv, nach dem Parallelogrammgesetz der Vektoraddition, aus einzelnen Kräften zusammensetzt, weiche von je
+einem der Körper k,,k,,... auf k ausgeübt werden; in solcher
+Weise, daß z. B. die Kraft, welche k, auf k in einem Moment ausübt, nur von dem Zustand dieser beiden Körper, ihrem Ort und
+ihrer Geschwindigkeit im gleichen Augenblick abhängt. Das ist
+der reale Sinn der Zerlegung der einheitlichen Kraft in einzelne
+Teilkräfte. Auf Grund der angegebenen Tatsachen kommt man
+notgedrungen zu der Auffassung, daß die Definition „Kraft =
+Ableitung des Impulses nach der Zeit‘‘ das Wesen der Kraft nicht
+richtig wiedergibt, der wirkliche Sachverhalt vielmehr umgekehrt
+liege: die Kraft ist der Ausdruck für eine selbständige, die Körper
+zufolge ihrer inneren Natur und ihrer gegenseitigen Lage und Bewegungsbeziehung verknüpfende Potenz, welche die zeitliche Änderung des Impulses verursacht. So paßt sich die lebendig-metaphysische Vorstellung der theoretischen Konstruktion an. Durch
+das mechanische Grundgesetz der Bewegung wird der Physik die
+Aufgabe überbunden, die zwischen Körpern wirkenden Kräfte in
+ihrer Abhängigkeit von Ort, Bewegung und innerem Zustand zu
+erforschen. Der letztere wird in die Kraftgesetze mittels gewisser,
+für den inneren Zustand der reagierenden Körper charakteristischer Zahlen eingehen, wie z. B. die Ladung in das Coulombsche
+Gesetz der elektrostatischen Anziehung und Abstoßung. So wird
+der Kraftbegriff zu einer Quelle neuer meßbarer physikalischer Kennzeichen der Materie.
+
+Wenn das metaphysische Bild der Natur durch die Ergebnisse
+der theoretischen Konstruktion, die in ihm anschaulich-lebendig
+und dadurch die Weiterentwicklung fördernd zum Ausdruck kommen sollen, modifiziert wird, so liegt andererseits doch meistens
+eine solche mit den Tatsachen in glücklichem Einklang stehende
+lebendige Vorstellung der konkreten Forschung bereits zugrunde.
+Galilei sieht in den Bewegungsvorgang die dynamische Intensität,
+die Stoßwucht, den impetus oder Impuls hinein; die Bewegung
+erscheint ihm bedingt durch den Kampf zweier Tendenzen, der
+Trägheit und der den Körper aus seiner ihm durch die Trägheits-
+
+[[pdf-page:0191 printed-page:190]]
+
+führung vorgeschriebenen Bahn ablenkenden Kraft; die Masse ist
+der dynamische Koeffizient, gemäß welchem die Trägheit der ablenkenden Kraft widersteht. Gerade mit Bezug auf Galilei bemerkt
+Goethe in seiner Geschichte der Farbenlehre (4. Abteilung, Galileo
+Galilei): „Alles kommt in der Wissenschaft auf das an, was man
+ein Apergu nennt, auf ein Gewahrwerden dessen, was eigentlich
+den Erscheinungen zum Grunde liegt. Und ein solches Gewahrwerden ist bis ins Unendliche fruchtbar.“ Aus dem richtigen
+Grundaspekt ergeben sich an Hand der Detailforschung die richtigen Grundbegriffe!
+
+Von der logischen Form der Begriffsbildung in Mathematik und
+Physik hat E. Cassirer in seinem Buche „‚Substanzbegriff und Funktionsbegriff“ (1910) zu zeigen sich bemüht, daß sie keineswegs dem Aristotelichen Schema entspricht. Definiert man in der ebenen analytischen
+Geometrie die Ellipse durch ihre Gleichung, dadurch daß man eine
+definite quadratische Form der Koordinaten = 1 setzt, so gewinnt man
+daraus die einzelne Ellipse, wenn man für die unbestimmten K.oeffizienten der quadratischen Form —- die in einem von vornherein abgesteckten
+Bereich, dem Kontinuum aller reellen Zahlen, variieren — bestimmte
+Werte einsetzt. Die Bemerkung Cassirers, daß bei dieser Art des Vorgehens der allgemeinere Begriff der reichere sei, ist nicht zu billigen;
+denn die Eigenschaften der einzelnen Ellipse hängen außer von der
+allgemeinen Form der Gleichung noch ab von den speziellen Werten der
+Koeffizienten. Aber soviel ist richtig, daß hier die Einzelfälle aus dem
+allgemeinen dadurch gewonnen werden, daß den „Variablen“ bestimmte
+Werte erteilt werden — innerhalb eines vollständig gegebenen oder der
+freien Konstruktion geöffneten Spielraums. Der Vorgang des Aufstiegs
+vom einzelnen Gegenstand zum Begriff geschieht bei Aristoteles dadurch,
+daß einzelne abstrakte Momente an dem Gegenstand herausgehoben
+werden, alles Übrige „subtrahiert‘““ wird und die Übereinstimmung in
+jenen Momenten dafür maßgebend ist, daß andere Gegenstände mit dem
+gegebenen unter den gleichen Begriff, in die gleiche Klasse fallen. Dabei
+hat man (wie etwa in der beschreibenden Botanik und Zoologie) von
+vornherein nur die wirklich vorhandenen Gegenstände im Auge und
+richtet die Klassenbildung so ein, daß die Begriffe nach dem Zeugnis der
+Erfahrung möglichst zahlreiche ‚„Konnotationen“ mit sich führen. Im
+Gegensatz dazu wird bei der mathematisch-physikalischen, der „funktionalen Begriffsbildung‘ nicht subtrahiert, sondern es werden einzelne
+für sich herausgeschaute, kontinuierlicher Abstufungen fähige Momente
+
+[[pdf-page:0192 printed-page:191]]
+
+(im Beispiel der Ellipse: die Koeffizienten der quadratischen Form)
+variabel gemacht, und der Begriff erstreckt sich hier nicht über die wirklichen, sondern über alle möglichen so hervorgehenden Gegenstände.
+„Die beliebige Verfeinerung, die leichte Übersicht und Handhabung
+eines ganzen Kontinuums von Fällen, von dessen Vollständigkeit wir
+zugleich überzeugt sind‘, sagt Mach (Prinzipien der Wärmelehre, 3. Aufl.
+1919, S. 459), „begründet den Vorzug solcher quantitativen Aufstellungen.“ Dabei ist es aber ganz wesentlich, daß das Kontinuum nicht ein
+abgeschlossener Inbegriff, sondern ein ins Unendliche offenes Bestimmungsfeld ist; denn sonst käme man doch auf das Aristotelische Schema
+der charakteristischen Merkmale zurück (‚Eine Menge von Punkten
+[x, y] ist eine Ellipse, wenn es Zahlen a, b, c gibt von der Beschaffenheit,
+daß für alle und nur die Punkte der Menge die Gleichung
+
+ax?’ +2bxy+cy?=1
+
+besteht“). Man muß also die einzelnen unter den funktionalen Begriff
+fallenden Gegenstände erzeugen, darf aber nicht fragen (in der Meinung,
+damit einem an sich bestehenden Sachverhalt gegenüberzutreten), ob
+ein vorgelegter Gegenstand unter ihn fällt.
+
+Das Platonische Schema auf S. 74, das identisch ist mit dem Teilungsnetz des eindimensionalen Kontinuums, und in welchem Plato allen
+Wesen ihre Stelle anweist, indem er vom Allgemeinen zum Besonderen
+immer durch Zweiteilung (Diärese) übergeht, die darauf sich gründende
+Platonische Auffassung der Ideen als Zahlen steht der modernen mathematisch-naturwissenschaftlichen nicht so fern, wie es auf den ersten
+Blick scheinen möchte. Nur darin müßte man sie modifizieren, daß wohl
+einzelne, aber nicht alle Stufen und Teilungen, wie Plato behauptet (das
+Bild von der „Gliederung des zu zerlegenden Opfertieres“! Phaidros
+265c, Politikos 287c) durch die Sache selber vorgeschrieben und exakt
+ausführbar sind (denn allemal, wo ein einheitliches zusammenhängendes
+Kontinuum vorliegt, hört diese Möglichkeit auf), und ferner darin, daß
+der Prozeß ins Unendliche fortschreitet, das Einzelding nur am Horizont
+als Grenzidee erscheint. Charakteristisch für Aristoteles ist, daß er
+dieses Schema umkehrt und von unten her, von den Einzelwesen aus,
+beginnt.
+
+Insbesondere sind die durch mathematische Abstraktion nach der
+Vorschrift am Ende von $ 2 gewonnenen Begriffe „funktionaler‘ Natur.
+
+[[pdf-page:0193 printed-page:192]]
+
+21. Theorienbildung
+
+Der konstruktive Charakter der Naturwissenschaft, der Umstand, daß nicht ihre einzelnen Aussagen einen in der Anschauung
+zu verifizierenden Sinn besitzen, sondern daß die Wahrheit in ihr
+ein System bildet, welches nur als Ganzes geprüft werden kann,
+ist durch das Vorhergehende bereits deutlich geworden. Hobbes
+entwickelt den Satz (English Works VII, S. 183ff.), daß wir mit
+Gewißheit nur in den Wissenschaften erkennen, welche ihren Gegenstand konstruieren aus den im erkennenden Subjekt gelegenen
+Konstruktionsbedingungen. Ihm sind nicht die Bewußtseinsbilder
+die Wirklichkeit, sondern das in ihnen Enthaltene, das ihre Konstruktion möglich macht. Im Unterschiede von der bloßen cognitio
+sei dieser synthetische Fortgang der Erzeugung der Erscheinung
+aus ihrem Grunde die scientia in strengem Verstande. Eine solche
+finde innerhalb des Naturerkennens soweit statt, als mathematische Ableitung möglich ist. „So wurde“, sagt Dilthey (a. a. O.,
+S. 260), „durch die großen Entdeckungen von Kopernikus, Kepler
+und Galilei und die sie begleitende Theorie von der Konstruktion
+der Natur durch a priori gegebene logisch-mathematische Bewußtseinselemente definitiv das souveräne Bewußtsein der Autonomie
+des menschlichen Intellekts und seiner Macht über die Dinge begründet: eine Lehre, welche zur herrschenden Überzeugung der
+am meisten fortgeschrittenen Geister wurde.‘ In der Physik der
+neueren Zeit sind nicht mehr durch Abstraktion aus dem Wirklichen gewonnene Bewußtseinselemente die Bausteine der Konstruktion, sondern rein „arithmetische‘“‘ Symbole. Dingler (Die
+Grundlagen der Physik 1923, S. 305) definiert die Physik geradezu
+als dasjenige Wissenschaftsgebiet, in welchem das Prinzip der symbolischen Konstruktion völlig durchgeführt ist. Aber mit der
+apriorischen Konstruktion ist gekoppelt die Erfahrung und die
+Analyse der Erfahrung durch das Experiment. „Die wissenschaftliche Einbildungskraft des Menschen wurde geregelt durch die
+strengen Methoden, welche die Möglichkeiten, die im mathematischen Denken lagen, der Erfahrung, dem Experiment und der
+Bestätigung durch die Tatsachen unterwarfen... Die so gefundenen
+
+[[pdf-page:0194 printed-page:193]]
+
+Ergebnisse haben ein zusammenhängendes und regelmäßiges Fortschreiten des wissenschaftlichen Denkens in der gemeinsamen
+Arbeit der verschiedenen Länder möglich gemacht. Man kann
+sagen, daß erst von nun ab die menschliche Vernunft gleichsam
+als eine einheitliche Kraft innerhalb der verschiedenen Kulturnationen zu einmütiger Wirkung gelangte. Das schwerste Werk
+des menschlichen Geistes auf diesem Planeten wurde durch diese
+Regelung der wissenschaftlichen Phantasie vollzogen, welche sich
+den Erfahrungen unterordnete‘“ (Dilthey, Der entwicklungsgeschichtliche Pantheismus, Ges. Schr. II, S. 346).
+
+Illustrieren wir das Gesagte etwa durch die Theorie der elektromagnetischen Vorgänge; da es nur auf das Prinzipielle ankommt, mag es
+erlaubt sein, um dem Leser die Schwierigkeiten der relativistischen
+Physik zu ersparen, die Ausbreitungsgeschwindigkeit = oo zu setzen.
+Wir nehmen an, es seien Elementarquanten der Materie da, die mit ein
+für allemal festen Massen und Ladungen behaftet sind. Ort und Geschwindigkeit dieser Elektronen in einem Augenblick ? bestimmen zufolge gewisser Erzeugungsgesetze das elektromagnetische Feld. Dieses
+Feld ist nach weiteren Gesetzen mit räumlich verteiltem Impuls und
+Energie verbunden und übt infolge des Impulsstromes bestimmte
+ponderomotorische Kräfte auf die erzeugenden Elektronen aus. Die
+Kraft endlich erzeugt nach dem Grundgesetz der Mechanik die Beschleunigung der Elektronen, Geschwindigkeit und Beschleunigung
+aber geben die Änderung von Ort und Geschwindigkeit im nächsten
+Zeitteilchen dt an und bestimmen damit aus Ort und Geschwindigkeit
+im Momente t die gleichen Data im Momente t + dt. Durch Integration
+resultiert aus dieser immer wiederholten Fortsetzung — r + dt die
+ganze Bewegung. Erst dieser volle theoretische Zusammenhang, in den
+natürlich auch die Geometrie entscheidend hineinspielt, ist einer experimentellen Nachprüfung fähig — wenn wir annehmen, daß die Bewegung
+der Elektronen das ist, was wir direkt beobachten können (was ja auch
+nur sehr bedingt zutrifft); nicht aber ein einzelnes aus diesem theoretischen Gefüge herausgegriffenes Gesetz! So wachsen im Grunde alle
+Teile der Physik und der Geometrie zu einer unlöslichen Einheit zusammen. Es hängt damit zusammen, daß die Theorie, gedrängt durch die
+ständig reicher und präziser werdende Erfahrung, sich nur durch fortgesetzte Korrektur entwickelt. „Der Fortschritt der Wissenschaft stützt
+sich also auf die Wissenschaft selbst, er ist eine Erweiterung, keine
+Neu-Schöpfung‘“‘ (Enriques, Probleme der Wissenschaft, 1910, Bd.1,
+
+[[pdf-page:0195 printed-page:194]]
+
+S. 248). So war bei der Begründung der Kepler-Newtonschen Planetentheorie durch die Beobachtung stillschweigend jedes Ereignis in den
+Zeitpunkt seiner Wahrnehmung gesetzt. Hernach entdeckte Roemer
+dann an den scheinbaren Abweichungen der Bewegung der Jupitermonde von der theoretisch geforderten die endliche Ausbreitungsgeschwindigkeit des Lichtes. Man benutzt also eine Theorie (momentane
+Ausbreitung des Lichts), die man hernach als falsch erweist; aber ihre
+grobe Richtigkeit ergibt (mit anderen der Erfahrung entnommenen
+Prämissen zusammen) ihre feine Ungenauigkeit und ihre Korrektur.
+Ohne die Annahme ihrer groben Richtigkeit kann man jedoch zunächst
+überhaupt keinen Schritt vorwärts tun. Hierauf bezieht sich Newtons
+4. Regel zur Erforschung der Natur (Principia, S. 389): „In der Experimentalphysik muß man die aus den Erscheinungen durch Induktion
+geschlossenen Sätze, wenn nicht entgegengesetzte Voraussetzungen vorhanden sind, entweder genau oder sehr nahe für wahr halten, bis andere
+Erscheinungen eintreten, durch welche sie entweder größere Genauigkeit erlangen oder Ausnahmen unterworfen werden.“
+
+Um dem Theoretiker seine Aufgabe zu erleichtern, bemüht
+sich schon der Experimentator, den Versuch so einzurichten, daß
+er gegenüber einem Gesetz möglichst empfindlich, gegenüber allen
+andern in Betracht kommenden aber möglichst unempfindlich ist,
+indem er den Einfluß der von ihnen regierten Nebenumstände abdämpft: hierin besteht u. a. die mühsame Arbeit der Abschirmung
+aller möglichen „Fehlerquellen“. Dennoch läßt sich der Einfluß
+gewisser Elemente wie z.B. das Maßfeld niemals eliminieren.
+Wenn eine Tatsache mit dem gesamten theoretischen Bestand der
+Wissenschaft nicht in Einklang steht, so bleibt es schließlich doch
+dem Theoretiker überlassen, die Stelle zu finden, an der die Theorie
+zu modifizieren ist. Allgemeine Regeln lassen sich darüber kaum
+geben, sowenig wie für das Gewicht, mit dem die vorliegenden
+Tatsachen bei einer theoretischen Deutung einzusetzen sind: hier
+tritt das Genie in seine Rechte. So entstand die allgemeine Relativitätstheorie dadurch, daß Einstein die prinzipielle Natur und die
+besondere Tragfähigkeit des Satzes von der Übereinstimmung
+zwischen schwerer und träger Masse erkannte. Es ist die Möglichkeit nicht von der Hand zu weisen, daß verschiedene Konstruktionen zur Erklärung der Wahrnehmungen geeignet sind; in dieser
+Einsicht von der „Vieldeutigkeit der Wahrheit‘‘ gehen Hobbes und
+
+[[pdf-page:0196 printed-page:195]]
+
+d’Alembert den modernen Positivisten voran. Mit großer Gerechtigkeit kennzeichnet Einstein in einer Ansprache an Planck (zu
+Max Plancks 60. Geburtstag, 1918) die wirkliche erkenntnistheoretische Situation dahin: „Die Entwicklung hat gezeigt, daß von
+den denkbaren theoretischen Konstruktionen eine einzige jeweilen
+sich als unbedingt überlegen über alle andern erweist. Keiner, der
+sich in den Gegenstand wirklich vertieft hat, wird leugnen, daß die
+Welt der Wahrnehmungen das theoretische System praktisch eindeutig bestimmt, trotzdem kein logischer Weg zu den Grundsätzen
+der Theorie führt.“
+
+Bei dem jeweiligen Stande des theoretischen Gebäudes besteht
+eine Hierarchie der Gesetze; es werden ihnen verschiedene Grade
+der Festigkeit zugeschrieben. Gewisse unter ihnen werden mit
+großer Zähigkeit als Prinzipien festgehalten. Als geradezu sakrosankt galten lange Zeit die Gesetze der euklidischen Geometrie;
+von vergleichbarer, wenn nicht noch höherer Festigkeit sind die
+Sätze von der Erhaltung der Energie und des Impulses. Es ist
+sicher, daß ein beträchtlicher Teil des theoretischen Systems allen
+Erfahrungen gegenüber aufrechterhalten werden kann, wenn für
+den Rest Modifikationen gestattet sind. So existiert in der Praxis
+der naturwissenschaftlichen Arbeit nicht der schroffe Gegensatz
+von a priori und a posteriori im Kantischen Sinne, sondern eine
+reiche Stufenskala der Festigkeit. Die einfache Form und der instinktiv einleuchtende Charakter von Gesetzen zusammen mit
+ihrer Wichtigkeit für ein großes mannigfaltiges, von ihnen entscheidend beherrschtes Tatsachengebiet, gibt ihnen den Rang von
+Prinzipien. So hält man an dem einleuchtenden und einfachen
+Trägheitsgesetz, das zunächst durch die Erfahrungen über die Bewegungen relativ zur Erde hinreichend gestützt erscheint, auch dann
+fest, wenn feinere Erfahrungen (Foucaultscher Pendelversuch) ihm
+widersprechen, indem man die „‚Ausflucht‘ ergreift, daß es sich
+nicht um die Bewegung relativ zur Erde, sondern um eine aus den
+Phänomenen zu ermittelnde „absolute Bewegung“ handle. Das
+Impulsgesetz stützt sich auf die „einleuchtende‘“ Tatsache, daß
+sich ein zunächst ruhendes Körpersystem nicht aus eigener Kraft
+in eine einseitig fortschreitende Translationsbewegung versetzen
+kann; oder genauer: innere Reaktionen in einem isolierten ruhen-
+
+[[pdf-page:0197 printed-page:196]]
+
+den Körpersystem sind nicht imstande, zu bewirken, daß nach der
+Reaktion ein Teil des Systems eine gemeinsame gleichförmige
+Translationsbewegung ausführt, während der Rest ruhend zurückbleibt. Indem Lachen über dieLügengeschichte Münchhausens, daß
+er sich an seinem eigenen Zopf aus dem Sumpfe gezogen habe, gibt
+jeder zu verstehen, wie gut er instinktiv um jene Tatsache Bescheid
+weiß. Weitere Beispiele sind die Regel für die Zusammensetzung
+von Geschwindigkeiten, die von Galilei fast unbemerkt (Discorsi,
+4. Tag) als evident angenommen wird, und das Energieprinzip.
+
+In der besonderen Form, daß die Körper eines Systems im homogenen Schwerefeld sich nicht aus eigener Kraft alle auf ein höheres
+Niveau heben können, wird es von Galilei und Stevin zur Herleitung
+der Gesetze der schiefen Ebene, von Huyghens (im Horologium oscillatorium 1673) zur Reduktion des zusammengesetzten Pendels auf das
+„mathematische‘‘ verwendet. Huyghens hat die allgemeine Idee des
+Energieprinzips bereits gefaßt; er sagt (a.a.O., S. 95): „Und wenn die
+Erfinder neuer Maschinen, die in vergeblicher Mühe ein perpetuum
+mobile zu bauen suchen, dieser meiner Hypothese (!) folgen wollten,
+so würden sie leicht selbst ihren Irrtum erkennen und würden einsehen,
+daß ihr Ziel vollkommen unerreichbar ist.‘‘ Leibniz gründet auf das
+Energieprinzip, das er in die Formel causa aequat effectum hineinliest und
+als eine durch die „Logik der Quantität‘ geforderte spezielle Folge des
+Satzes vom Grunde ansieht, sein Maß für die „lebendige Kraft“. Viel
+größeres Gewicht als ein einzelnes bestätigendes Experiment hat eine
+unter den wechselvollsten Umständen sich immer von neuem bewährende
+negative Erfahrung. So ist das Energieprinzip gestützt durch das Scheitern aller Versuche zur Herstellung eines perpetuum mobile, und von
+gleicher Art sind auch die Grundsätze der Relativitätstheorie: das
+spezielle Relativitätsprinzip und das Prinzip von der „Konstanz der
+Lichtgeschwindigkeit“. Gegen die scholastische Philosophie gewendet,
+sagt Newton (Optik, Ed. sec., S. 409): „Wenn man uns sagt, jede Spezies
+der Dinge sei mit einer spezifischen verborgenen Eigenschaft begabt,
+durch welche sie wirkt und sichtbare Effekte hervorbringt, so ist damit
+gar nichts gesagt; wenn man aber aus den Erscheinungen zwei oder drei
+allgemeine Prinzipien der Bewegung herleitet und dann angibt, wie aus
+diesen klaren Prinzipien die Eigenschaften und Wirkungen aller körperlichen Dinge folgen, so wäre dies ein großer Fortschritt in der Naturforschung, wenn auch die Ursachen dieser Prinzipien noch nicht entdeckt sein würden.“
+
+[[pdf-page:0198 printed-page:197]]
+
+Die Einfachheit gilt als sigillum veri. „Die Natur liebt Einfachheit und Einheit“, heißt es bei Kepler (Opp. ed. Frisch I, 113)*).
+Vorgebildet ist dieser Grundsatz bei Aristoteles (De coelo I, 4,
+271a): At deus et natura nihil prorsus faciunt frustra, und es gilt als
+Axiom: „frustra fit per plura quod potest fieri per pauciora.“ Galilei
+gibt am dritten Tag der Discorsi den Gedankengang wieder, der
+ihn zu den Fallgesetzen geführt hat; es heißt (Opere XII, S. 155):
+„Wenn ich daher bemerke, daß ein aus der Ruhelage von bedeutender Höhe herabfallender Stein nach und nach neue Zuwüchse
+an Geschwindigkeit erlangt, warum soll ich nicht glauben, daß
+solche Zuwüchse in allereinfachster, jedermann plausibler Weise
+zustande kommen? Wenn wir genau aufmerken, werden wir keinen Zuwachs einfacher finden als denjenigen, der in immer gleicher
+Weise hinzutritt.‘“ Er stellt dann die Definition der gleichförmig
+beschleunigten Bewegung auf, entwickelt daraus zunächst unbekümmert um die Erfahrung die Konsequenzen und findet dann diejenigen, welche mit seinen Mitteln sich beobachten ließen, für die
+„natürlich beschleunigte‘ Bewegung der fallenden Körper bestätigt. Unter Newtons Regeln zur Erforschung der Natur lautet die
+erste: „Als Ursachen zur Erklärung natürlicher Dinge nicht mehr
+zulassen, als wirklich sind und zur Erklärung jener Erscheinungen
+ausreichen.‘ Nun kommt es natürlich nicht darauf an (wie Dingler
+es in seinen „Grundlagen der Physik“ fordert), die absolut einfachsten Grundsätze aufzustellen (dann würde man der Weltz.B.
+nicht 4, sondern nur 1 Dimension beilegen), es muß vielmehr dabei
+die ganze Breite der gegenwärtigen Erfahrung berücksichtigt und
+die relativ zu den bekannten Erscheinungen einfachste Erklärung
+gesucht werden. Oft ist für ein Teilgebiet eine Erklärung A einfacher als eine andere B; aber während bei Ausdehnung des Erfahrungskreises A sich beständig kompliziert, tritt dies bei B nicht
+ein, so daß schließlich B als die überlegene Theorie erscheint.
+Ferner ist die geforderte Einfachheit nicht die auf der Hand
+liegende; sondern die wahre innere Einfachheit zu erkennen, dazu
+müssen wir uns durch die Natur erziehen lassen.
+
+») Außerdem in: Johannes Kepler, Gesammelte Werke, Band I, Mün-
+
+chen 1938, S.16, Z. 21. — Deutsche Wiedergabe in: Max Caspar, Johannes
+Kepler: Das Weltgeheimnis (1596). München-Berlin 1936, S. 31.
+
+[[pdf-page:0199 printed-page:198]]
+
+Das Problem der Einfachheit ist von zentraler Bedeutung für die
+naturwissenschaftliche Erkenntnistheorie. Man hat versucht, diesen
+einer objektiven Fassung schwer zugänglichen Begriff auf den bereits in
+das mathematische Denksystem bis zu einem gewissen Grade eingefangenen der Wahrscheinlichkeit zurückzuführen. Liegen z.B. 20 zusammengehörige Wertepaare (x, y) eines funktionalen Zusammenhangs
+y = f(x) bei Eintragung in ein rechtwinkliges Koordinatensystem mit
+der zu erwartenden Genauigkeit auf einer geraden Linie, so wird man als
+strenges Naturgesetz vermuten, daß y von x linear abhängig ist. Und
+zwar um der Einfachheit der geraden Linie willen, oder auch weil es
+außerordentlich unwahrscheinlich sein würde, daß gerade die 20 herausgegriffenen Beobachtungspaare (nahezu) auf einer Geraden liegen, wenn
+das zugrunde liegende Gesetz ein anderes wäre. Indem man die gerade
+Linie nun zur Inter- und Extrapolation benutzt, kommt man zu Voraussagen, die über den Inhalt der Beobachtungen hinausgehen. Aber diese
+Analyse ist einigermaßen anfechtbar. Man kann unter allen Umständen
+auf mannigfache Art Funktionen y = f(x) mathematisch definieren,
+welche den 20 Beobachtungsdaten gerecht werden, darunter solche, die
+ganz und gar von einer Geraden abweichen. Auch für jede von ihnen
+könnte man es als außerordentlich unwahrscheinlich hinstellen, daß die
+20 Beobachtungspunkte auf ihr sich befänden, wenn sie nicht das wahre
+Gesetz enthielte. Es ist also doch wesentlich, daß die Funktion oder
+vielmehr die Funktionsklasse a priori von der Mathematik wegen ihrer
+mathematischen Einfachheit bereit gestellt sei; die Funktionsklasse darf
+dabei nicht von so vielen Parametern abhängen wie die Zahl der zu
+befriedigenden Beobachtungen beträgt (so hängt die Klasse der linearen
+Funktionen f(x) = ax + b von nur 2 Parametern a, b ab, deren Werte
+den Beobachtungsdaten angepaßt werden können). Eine wichtige Bewährung der Theorie liegt vor, wenn sie mit den Tatsachen, zu deren
+Erklärung sie ersonnen wurde, auch bei Verschärfung der Beobachtungsgenauigkeit (und Vervielfältigung der Beobachtungspunkte) in Einklang
+bleibt. Dies ist z. B. der Fall mit der euklidischen Geometrie, die sich
+durch die geodätischen und astronomischen Präzisionsmessungen als
+viel genauer gültig erwiesen hat, als man es nach den Erfahrungen vermuten konnte, die zu ihrer Aufstellung geführt haben. Aber sie steht mit
+solcher Bewährung des Prinzips der Einfachheit durchaus nicht isoliert
+da; sondern entsprechende Fälle ereignen sich in der Physik immer
+wieder. Umgekehrt ist es ein sicheres Zeichen dafür, daß man sich auf
+dem Holzwege befindet, wenn es so geht, wie mit den Ptolemäischen
+Epizykeln, deren Zahl jedesmal vermehrt werden mußte, wenn die
+Genauigkeit der Beobachtung stieg. Die drei Keplerschen Gesetze waren
+
+[[pdf-page:0200 printed-page:199]]
+
+viel einfacher und genügten doch den Beobachtungen merklich genauer
+als das komplizierteste bis dahin ersonnene Epizykelnsystem; die Entdeckung der Ellipse als einer mathematisch durchsichtigen und einfachen Figur durch die griechischen Geometer mußte aber Keplers
+astronomischer Entdeckung vorangegangen sein. Newtons Attraktionsgesetz, namentlich in der Formulierung als Nahewirkungsgesetz, ist
+abermals einfacher als die Keplersche Theorie der Planetenbewegung.
+Aus jenem gewinnt man diese zurück, wenn nur die Anziehungskraft
+der Sonne auf einen Planeten, nicht die von den übrigen Planeten ausgehenden „Störungen“ berücksichtigt werden. Und wieder liegt eine
+glänzende Bestätigung für die von Newton vollzogene Tieferlegung der
+theoretischen Fundamente darin, daß die Berechnung der Störungen
+nach seinem Gesetz Ergebnisse lieferte, die sich der seit Tycho Brahes
+Zeit abermals bedeutend gestiegenen Beobachtungsgenauigkeit vollkommen einfügten. — Es kommt hinzu, daß sich das Gravitationsgesetz
+auch außerhalb des Erfahrungskreises als gültig erwies, für welchen es
+ursprünglich aufgestellt wurde, nämlich für die Bewegungen der Doppelsterne umeinander.
+
+Hat die Erfahrung eine Hypothese nahegelegt, so gilt es ihre Konsequenzen deduktiv zu entwickeln, immer im Hinblick darauf, zu Folgerungen vorzudringen, welche der Prüfung durch das Experiment zugänglich sind. Huyghens schildert die Methode in der Einleitung zu
+seinem Trait& de la Lumiere (1678 verfaßt, 1690 herausgegeben): sie
+unterscheide sich sehr von der Geometrie, „weil hier die Prinzipien sich
+durch Schlüsse bewahrheiten, welche man daraus zieht... Es ist dabei
+gleichwohl möglich, bis zu einem Wahrscheinlichkeitsgrade zu gelangen,
+der sehr oft einem strengen Beweise nichts nachgibt. Dies ist nämlich
+dann der Fall, wenn die Folgerungen, welche man unter Voraussetzung
+dieser Prinzipien gezogen hat, vollständig mit den Erscheinungen im
+Einklang sind, welche man aus der Erfahrung kennt; besonders wenn
+deren Zahl groß ist, und vorzüglich noch, wenn man neue Erscheinungen
+sich ausdenkt und voraussieht, welche aus der gemachten Annahme
+folgen, und findet, daß dabei der Erfolg unserer Erwartung entspricht.“
+Die Wellentheorie des Lichtes bewährt sich ihm u. a. in der Aufdeckung
+des Gesetzes der Doppelbrechung im Kalkspat. Es ist zu kompliziert,
+um rein empirisch gefunden zu werden. Macht man aber für die Ausbreitung der Lichtwellen im Kalkspat die einfachste Annahme, welche
+über die der Kugelwelle hinausgeht, so kommt man zu den gesuchten
+Brechungsgesetzen, die mit der Erfahrung in Einklang stehen. Es ist als
+Erfolg einer Theorie zu buchen, wenn sie die komplizierten Abhängigkeiten zwischen den direkt beobachteten Größen auf einfache Beziehun-
+
+[[pdf-page:0201 printed-page:200]]
+
+gen zwischen den Fundamentalgrößen der Theorie zurückführt. Ähnlich
+war Galilei bei Aufdeckung der Fallgesetze verfahren. — „Die wesentliche Funktion einer Hypothese“, sagt Mach (Erkenntnis und Irrtum,
+S. 237), „besteht darin, daß sie zu neuen Beobachtungen und Versuchen
+führt, wodurch unsere Vermutung bestätigt, widerlegt oder modifiziert,
+kurz die Erfahrung erweitert wird.“ „Der Seemann, in dessen Phantasie
+durch die an die Küste getriebenen Objekte das Bild des fernen Landes
+mit sinnlicher Lebendigkeit auftaucht, sucht nach demselben. Ob er es
+findet oder nicht, ob er auch statt der vermuteten indischen oder chinesischen Küste eine neue findet, auf jeden Fall hat er seine Erfahrungen
+erweitert‘ (a.a.O., S. 231). — Bei Galilei, bei Huyghens, bei Newton
+spielt der deduktive Teil noch eine viel größere Rolle als in der neueren
+Zeit; Galilei ist nicht minder stolz auf die „Fülle von Theoremen,
+welche er aus einem einzigen Prinzip gewinnt“, als auf die Entdeckung
+dieses Prinzips selber (Ende des 3. Tages der Discorsi). Der empirische
+Einschlag der Physik hat sich fortschreitend verstärkt; den ersten großen
+Einbruch bringt die Entdeckung der Elektrizität.
+
+Mit der Einfachheit in enger Beziehung steht die Kategorie der
+Vollkommenheit. Eine große Rolle nicht nur als methodisches,
+sondern als Erklärungsprinzip spielt sie in der Aristotelischen
+Philosophie. So hängt nach Aristoteles die von ihm behauptete
+Unzerstörbarkeit und Unveränderlichkeit der Himmelskörper an
+ihrer vollkommenen Kugelgestalt. Galilei bemerkt im Dialogo dazu: erstens ist unter diesem Aspekt eine Abweichung von der
+exakten Kugelgestalt um Haaresbreite so wenig zulässig wie ganze
+aufgesetzte Berge; sein Kontinuitätsgefühl sträubt sich dagegen,
+daß in der Natur, die gar keine absolut genauen Messungen ermöglicht, ein bestimmter exakter Wert einer kontinuierlichen
+Größe ihrem Träger Eigenschaften verleihen soll, die prinzipiell
+abweichen von denjenigen, die sich bei beliebig benachbarten
+Größenwerten ergeben. Zweitens aber wendet er ein, daß ja auch
+z.B. in einem Tetraöder eine Kugel enthalten sei und daher höchstens die übrigbleibenden Ecken des Tetraöders zerstörbar sein
+könnten (indiesichfreilichabermals Kugeln einbeschrieben ließen).
+Er beweist dadurch schlagend, daß es für eine solche Eigenschaft
+wie die Unzerstörbarkeit gar nicht auf die geometrische Gestalt
+ankommen könne, sondern allein auf die Grenzfläche, über die
+hinüber die physikalischen Zustandsgrößen (hier die Dichte der
+
+[[pdf-page:0202 printed-page:201]]
+
+Materie) einen Sprung erleiden und die dadurch zum Sitz besonderer Oberflächenkräfte werden kann. (Für die kugelige Gestalt
+der Regentropfen spielen solche Kapillarkräfte in der Tat eine
+Rolle.) Man erlebt hier so scharf wie kaum an einer anderen Stelle
+im Dialog die radikale Umwendung in der Naturdeutung, die das
+Galileische gegenüber dem Aristotelischen Denken herbeiführt.
+Bezeichnend in dieser Hinsicht ist auch das überschwengliche, aus
+einem gewandelten Empfinden quellende Lob der Veränderlichkeit,
+das Galilei wider jene kristallene Vollkommenheit anstimmt (Dialogo, Opere I, S. 67): wie doch die zur Blüte sich entwickelnde
+Pflanze etwas unvergleichlich viel Herrlicheres sei als die starren,
+allem Geschehen entrückten Aristotelischen Weltkörper. In Keplers
+Werk nehmen Betrachtungen über Vollkommenheit noch einen
+breiten Raum ein. Ihn beschäftigt der „Rang der Erde“; daer von
+der Vollkommenheit des Kreises durchdrungen ist, kostet es ihn
+einen harten Kampf, die Kreisbahn des Mars aufzugeben, als ihn
+die Messungen Brahes dazu zwingen. Er haftet zunächst noch ganz
+am Statischen, in den regulären Körpern will er die Harmonie des
+Planetensystems entdecken; erst mühsam ringt er sich zu einer
+mehr dynamischen Auffassung des Weltgeschehens durch. Ja auch
+Galilei unterliegt noch an einer merkwürdigen Stelle im Dialog
+dem Zauber der Erklärung durch die geometrische Vollkommenheit, indem er auf sie den Kreisförmigen (nicht geradlinigen!) Verlauf der reinen Trägheitsbewegung basiert. Im ganzen hat er aber
+schon viel entschiedener als Kepler die Wendung vollzogen, Vollkommenheit nicht mehr in den festen Gestalten und in den Einzeldingen zu suchen, sondern in den dynamischen Verknüpfungen,
+den Naturgesetzen (die einen breiten Spielraum des Zufälligen, der
+bloßen Faktizität ofien lassen), und der Begriff der Vollkommenheit ist ihm nicht mehr sachlicher Bestandteil der Theorie, sondern
+heuristisches Prinzip und zum Forschen antreibender Glaube geworden. Mit den antiken Pythagoreern teilen Kepler, Galilei, Bruno
+den Glauben an einen nach höchsten und vollkommensten vernunftmäßigen mathematischen Gesetzen geordneten Kosmos, und
+an die göttliche Vernunft als den Ursprung des Vernunftmäßigen
+in der Natur, mit welchem zugleich die menschliche Vernunft verwandt ist. Auf dem langen Erfahrungsweg in den folgenden Jahr-
+
+[[pdf-page:0203 printed-page:202]]
+
+hunderten hat dieser Glaube je länger, je mehr immer wieder überraschende Teilerfüllungen in der Physik gefunden (die schönste
+vielleicht in Maxwells wundervoll harmonischer Theorie der elektromagnetischen Vorgänge im Äther); aber immer wieder erwies
+sich die Natur noch dem menschlichen Geiste überlegen und zwang
+ihn, einen voreiligen Abschluß zugunsten einer tieferen Harmonie
+wieder zu zerbrechen.
+
+Zwei strenge Forderungen sind nach $ 19 an jede Theorie zu
+stellen: 1. die Einstimmigkeit, welche die Widerspruchslosigkeit
+einschließt, 2. das Fehlen überflüssiger rein dogmatischer Bestandteile, die ohne Einfluß auf die beobachtbaren Erscheinungen
+sind. — Nie verletzt werden darf ferner der Satz vom zureichenden
+Grunde; er kann in einfachen Fällen als Symmetrieprinzip zur Aufstellung von Gesetzen führen. So benutzt ihn Archimedes, wenn
+er seine Theorie des Hebels mit dem Satze beginnt, daß gleiche
+Gewichte an gleich langen Hebelarmen sich im Gleichgewicht befinden. Denn die ganze Konfiguration, samt der Schwererichtung,
+geht in sich über durch Spiegelung an der im Unterstützungspunkt
+zum horizontalen Hebelarm senkrechten Ebene. Der Begriff der
+räumlichen Ähnlichkeit ist die Grundlage des Schlusses; geht eine
+Massen- und Kräfte-Konfiguration oder ein Zustand, der das
+weitere Geschehen eindeutig determiniert, durch eine ähnliche
+Abbildung in sich über, so muß das, was geschieht, dieser Abbildung gegenüber gleichfalls invariant sein. Darum kann unter
+den angegebenen Umständen der Waagebalken sich nichtnach einer
+Seite neigen. In Verbindung mit dem allgemeinen mechanischen
+Axiom, daß ein System im Gleichgewicht nicht aufhört, im Gleichgewicht zu bleiben, wenn man ein Teilsystem abspaltet, das für
+sich im Gleichgewicht ist, leitet Archimedes dann aus jenem einfachsten Fall das allgemeine Hebelgesetz ab. — Derselbe Gedankengang führt zu dem Satz: Gleiche Körper haben gleiche
+träge Masse; d.h. wenn sie mit entgegengesetzt gleichen Geschwindigkeiten gegeneinander gejagt werden, überrennt keiner
+den anderen. Ist das dennoch bei zwei gleich aussehenden Körpern
+der Fall, so schließen wir daraus auf eine innere Verschiedenheit,
+die sich freilich ungünstigsten Falles in nichts anderem dokumentiert als in der Verschiedenheit der Masse, uns aber immerhin an-
+
+[[pdf-page:0204 printed-page:203]]
+
+treiben wird, auch nach anderen Verschiedenheiten im physikalischen Verhalten zu suchen. Häufig ist das Prinzip vom zureichenden Grunde zum Beweise des Trägheitsgesetzes herangezogen worden, indem aus ihm geschlossen wurde, daß der Zustand eines sich
+selbst überlassenen Körpers unverändert bleiben muß. Aber was
+ist unter „Zustand“ zu verstehen? Die Scholastik interpretierte
+ihn als Ort und glaubte daher, daß ein Körper im Moment, wo
+alle Einwirkung auf ihn aufhört, stille stehen bleibt, nach Galilei
+ist darunter die Geschwindigkeit nach Größe und Richtung zu verstehen. Offenbar kann nur die Erfahrung darüber entscheiden,
+welche Auffassung recht hat. Sie muß uns auch in den oben angeführten Fällen über die „maßgebenden“, die determinierenden
+Umstände unterrichten. Die Argumentation von Leibniz in der
+Kontroverse mit Clarke und Newton über die Relativität der Bewegung (S. 127) ist ein typisches Beispiel für die Anwendung des
+Prinzips vom zureichenden Grunde. Freilich hat Leibniz zweifellos
+die Tragweite des Prinzips als Quelle von Tatsachenwahrheiten
+weit überschätzt.
+
+Mach, der das a priori bekämpft, das Bestreben, „aus den Instinktiven in der Wissenschaft“, wie er sich äußert, „eine neue Mystik zu
+machen und dasselbe etwa für unfehlbar zu halten“, weist in seiner
+Mechanik (7. Aufl. 1912, S.27) darauf hin, daß „selbst instinktive
+Erkenntnisse von so großer logischer Kraft wie das von Archimedes
+verwendete Symmetrieprinzip irre führen können. Mancher Leser wird
+sich vielleicht erinnern, welche geistige Erschütterung es ihm verursachte,
+als er zum ersten Male hörte, daß eine im magnetischen Meridian liegende Magnetnadel durch einen über derselben parallel hingeführten
+Stromleiter in einem bestimmten Sinne aus dem Meridian abgelenkt
+wird.“ Aber dem Symmetrieprinzip geschieht Genüge, wenn wir annehmen, daß durch Spiegelung an der Ebene, in der Strom und Magnetnadel liegen, wohl der Strom, nicht aber der Magnet in sich übergeht,
+sondern der letztere Nord- und Südpol vertauscht. Diese Ansicht ist
+freilich nur möglich, weil positiver und negativer Magnetismus untrennbar und wesensgleich sind. Wir bilden eine solche theoretische Vorstellung vom Wesen des Magnetismus aus — er wird durch molekulare
+elektrische Kreisströme senkrecht zur Nadel verursacht —, daß jene
+Tatsachen ihr Erstaunliches verlieren und zu Wesensnotwendigkeiten
+werden.
+
+[[pdf-page:0205 printed-page:204]]
+
+Ein weiterer Führer des Theoretikers ist das zuerst von Leibniz
+allgemein ausgesprochene Kontinuitätsprinzip, das auf der Unmöglichkeit eigentlicher Teilung eines einheitlichen Kontinuums
+beruht. Es ist naturwissenschaftlich verkehrt, den Nullwinkel und
+den gestreckten, wie Euklid es tut, aus dem Begriffsumfang des
+Winkels auszuschließen; die Ruhe ist nicht der Bewegung kontradiktorisch entgegengesetzt, sondern ein Grenz- oder Sonderfall
+der Bewegung. Leibniz sagt, vermöge jenes Prinzips sei „das Gesetz für die ruhenden Körper gewissermaßen nur ein besonderer
+Fall der allgemeinen Regel für die bewegten Körper, das Gesetz
+der Gleichheit gewissermaßen ein Fall der Ungleichheit, das Gesetz für das Geradlinige gleichsam eine Unterart des Gesetzes für
+das Krummlinige“, und er bezeichnet Gebilde als „‚homogon, sofern durch kontinuierliche Veränderung eins in das andere übergehen kann“ (In. rer. Math. metaph., Math. Schr. VII, S. 25 und
+S.20). Er widerlegt mit Hilfe der lex continui die Stoßgesetze,
+welche Descartes aufgestellt, aber für eine ganze Reihe verschiedener Fälle verschieden formuliert hatte. Galileileitet (Dialogo, Op. I,
+S. 162/164) das Trägheitsgesetz ab, indem er die Neigung der
+schiefen Ebene, für welche er die Fallgesetze kennt, gegen die
+Horizontale zu 0 abnehmen läßt; die Trägheitsbewegung ist Limes
+der Fallbewegung. Durch diese Herkunft wird es verständlich, daß
+Galilei, wie es scheint, das Trägheitsgesetz in seiner klassischen
+Form nur für Bewegungen als richtig erachtete, die senkrecht zur
+Schwererichtung erfolgen (eine Ansicht, der man vom Standpunkt
+der allgemeinen Relativitätstheorie in gewissem Sinne beipflichten
+kann). Mach (Mechanik, S. 131) gibt die Anweisung: „Hat man
+für einen speziellen Fall eine Ansicht gewonnen, so modifiziert
+man allmählich in Gedanken die Umstände dieses Falles, soweit
+es überhaupt angeht, und sucht hierbei die gewonnene Ansicht
+möglichst festzuhalten. Es gibt kein Verfahren, welches sicherer
+zur einfachsten, mit dem geringsten Gemüts- und Verstandesaufwand zu erzielenden Auffassung aller Naturvorgänge führt.“
+Um die Richtigkeit einer gewonnenen Gesamtanschauung zu prüfen, ist es anderseits eine in Mathematik und Physik vielgeübte
+Methode, die Grenz- und Sonderfälle ins Auge zu fassen, in denen
+sich die Verhältnisse meist viel leichter überblicken lassen.
+
+[[pdf-page:0206 printed-page:205]]
+
+In naher Verwandtschaft zum Kontinuitätsprinzip steht das
+Analogieprinzip, das Newton in der 2. seiner Regeln zur Erforschung
+der Natur so formuliert: „Man muß daher, soweit es angeht,
+gleichartigen Wirkungen dieselbe Ursache zuschreiben.‘‘ Am großartigsten tritt uns das Analogieprinzip wohl in der Begründung der
+Atomtheorie entgegen. Die mechanischen Gesetze, die aus dem
+Verhalten an den grob sichtbaren Körpern abgeleitet wurden und
+an den größten, den Planeten, ihre genaueste Bestätigung fanden,
+werden auf die Atome übertragen. Die Tatsachen werden ev. später
+zu Korrekturen zwingen; aber ohne diesen Ansatz ist überhaupt
+kein Beginn der atomaren Forschung denkbar. Noch die neueste
+Quantenmechanik der Atome, die so radikal von dem Herkömmlichen abweicht, daß sie auf jedwedes räumliche Bild der atomaren
+Vorgänge verzichtet, knüpft doch an die alten mechanischen Gesetze in ihrer durchsichtigsten Form, an die Hamiltonschen Gleichungenan. H. A. Lorentz gewanndie elektromagnetischen Grundgesetze der Elektronentheorie dadurch, daß er in den phänomenologischen, der Beobachtung entnommenen Maxwellschen Gleichungen, mit denen der Elektrotechniker arbeitet, alle Größen
+strich, in denen der Einfluß der Materie durch Materialkonstanten,
+wie Leitfähigkeit u. dgl., sich kundgibt, nämlich Leitungsstrom,
+elektrische Polarisation und Magnetisierung. Aus der Annahme,
+daß das wahre, das „mikroskopische“ elektromagnetische Feld
+diesen vereinfachten harmonischen Gesetzen genügt, konnte er,
+in Verbindung mit gewissen Vorstellungen über den atomaren
+Aufbau der Materie, für die der Beobachtung zugänglichen Mittelwerte, das makroskopische Feld, die alten phänomenologischen
+Gesetze wieder herleiten.
+
+Die exakten Naturgesetze dürfen keine Materialkonstanten enthalten, sondern diese müssen aus jenen auf Grund des Atombaus bestimmt
+werden können. Da die phänomenologischen Materialgesetze bei Vorgängen zu versagen pflegen, für welche die feinere Struktur der Materie
+nicht gleichgültig ist, muß die atomistische Theorie zugleich deren
+Gültigkeitsgrenzen erkennen lassen und diejenigen atomistischen Gesetze liefern, welche jenseits jener Grenzen an die Stelle der phänomenologischen treten, die den Einfluß der Materie nur in Bausch und Bogen
+berücksichtigen. So hatte Maxwell die elektrische Polarisation der Feld-
+
+[[pdf-page:0207 printed-page:206]]
+
+stärke proportional gesetzt; das stimmt für statische und langsam veränderliche Felder, selbst noch für die Felder, mit denen die drahtlose
+Telegraphie arbeitet und die bereits mehr als eine Million Schwingungen
+pro Sekunde ausführen. Aber im Gebiet der viel schnelleren optischen
+Schwingungen haben wir die Tatsache der Dispersion: der von Maxwell
+als konstant angenommene Proportionalitätsfaktor, die Dielektrizitätskonstante, welche gleich dem Quadrat des Brechungsexponenten ist,
+erweist sich als abhängig von der Schwingungsfrequenz nach Gesetzen,
+welche aufs engste mit dem Atombau des brechenden Mediums zusammenhängen und nur von hier verstanden werden können (insbesondere
+gehen in die Dispersionsformel Ladung und Masse des Elektrons in
+solcher Weise ein, daß daraus ihr Verhältnis experimentell bestimmt
+werden kann).
+
+Welches ist letzten Endes der Sinn der Theorienbildung?
+H. Hertz beschreibt in seinen Prinzipien der Mechanik (S. 1) das
+Verfahren dahin: „Wir machen uns innere Scheinbilder oder Symbole der äußeren Gegenstände, und zwar machen wir sie von
+solcher Art, daß die denknotwendigen Folgen der Bilder stets
+wieder die Bilder seien von den naturnotwendigen Folgen der abgebildeten Gegenstände.“ Unter dem Einfluß skeptischer Erkenntnistheorie war es eine Zeitlang im 19. Jahrhundert, namentlich in
+der englischen Physik, Mode geworden, nur Bilder, Analogien für
+beschränkte Tatsachengebiete zu suchen, mechanische Modelle
+zu konstruieren, die gewisse Züge der abzubildenden Erscheinung
+wiedergaben, die man aber als „Erklärung“ unmöglich ernst nehmen Konnte — da man vom „Wahn“ befreit war, daß es gelte,
+eine in sich eindeutig bestimmte Wirklichkeit zu erkennen. Aber
+die Methode erwies sich als merkwürdig unfruchtbar, sobald man
+bewußt darauf ausging, nur Bilder und Modelle zu entwerfen.
+Maxwell erschienen die physikalischen Analogien als ein Ausweg,
+welcher die Nachteile einer rein mathematisch gefaßten Theorie
+(die nur schwer die erfahrungswichtigen Folgerungen überblicken
+läßt) und einer eigentlichen physikalischen Hypothese (welche
+leicht blind macht gegen die Tatsachen) zugleich vermeidet.
+
+„Unter einer physikalischen Analogie“, heißt es bei ihm, „verstehe
+ich jene teilweise Ähnlichkeit zwischen den Gesetzen eines Erscheinungsgebietes mit denen eines andern, welche bewirkt, daß jedes das
+andere illustriert.‘‘ Er erwähnt die Analogie zwischen der Gravitation
+
+[[pdf-page:0208 printed-page:207]]
+
+und dem stationären Wärmezustande eines Mediums — eine Analogie,
+die darauf beruht, daß für beide Vorgänge die Laplacesche Potentialgleichung gilt — und stellt ihr die Analogie zwischen dem Licht und
+den Schwingungen eines elastischen Mediums entgegen. Die letztere
+„erstreckt sich viel weiter, aber obwohl ihre Wichtigkeit und Fruchtbarkeit nicht hoch genug geschätzt werden kann, so müssen wir doch
+dessen eingedenk bleiben, daß sie nur auf einer formalen Ähnlichkeit
+zwischen den Gesetzen der Lichterscheinungen und denen der elastischen Schwingungen beruht. Wenn wir sie ihres physikalischen Gewandes entkleiden, so reduziert sie sich auf eine Theorie transversaler Zustandsänderungen, und es bleibt ein System von Wahrheiten übrig,
+welches zwar den beobachteten Tatsachen nichts Hypothetisches hinzufügt, aber dafür wahrscheinlich sowohl an Anschaulichkeit als auch an
+Fruchtbarkeit in der Anwendung zurücksteht“ (Maxwell, Scient. Pap. I,
+S. 156). Das Beispiel ist, namentlich im Hinblick auf die von Maxwell
+ausgehende weitere Entwicklung der Lichtiheorie, sehr geeignet, den
+Vorteil dieser Auffassung, den Schutz vor Dogmen, den sie gewährt,
+deutlich zu machen.
+
+Mach spricht von einer fortschreitenden „Anpassung der Gedanken an die Tatsachen“. Die Rechtfertigung für die Bildung von
+Theorien erblickt er in der durch sie herbeigeführten Ökonomie
+des Auffassens und Mitteilens von Tatbeständen und Verfahrensweisen (vgl. Mechanik, Einleitung). Andere bewahrten sich den
+Glauben, daß hier die Vernunft nach immanenten Prinzipien am
+Werke ist, ihr Korrelat, die transzendente Wirklichkeit, symbolisch
+aufzubauen und darzustellen; ohne diesen Glauben ist ihnen Wissenschaft ein toter Kram. Alle aber sind über das Endziel einig:
+es gilt, die Ereignisse vorauszusagen. Und inwiefern garantieren
+die ökonomischen oder Vernunftprinzipien, nach denen eine Theorie zustande kommt, dafür, daß die von ihr gelieferten Voraussagen sich erfüllen ? Das ist eine letzte Tatsache, die über das Erkennen hinausweist — Humes Problem: das Vertrauen in die Induktion kann, wenn es begründet werden soll, nur begründet werden durch das Induktionsprinzip selbst. Aber Weltvertrauen und
+Selbstvertrauen ist die natürliche, keiner „Rechtfertigung“ bedürftige Grundhaltung alles, auch und zu allermeist des in thetischen Vernunftakten sich auswirkenden geistigen Lebens.
+
+[[pdf-page:0209 printed-page:208]]
+
+Kant hat in seiner transzendentalen Logik den Versuch unternommen, nach einem systematischen Verfahren die apriorischen
+Prinzipien für den Aufbau der Erfahrungswirklichkeit zu ermitteln.
+Sein Werk hat das Verdienst, jenen Begriff der Wirklichkeit, welcher seit Galilei die Naturforschung beherrschte, ins philosophische
+Bewußtsein gehoben, von dem metaphysischen Ballast, mit dem
+ihn noch das Leibnizsche System belastete, befreit und gegen den
+aus der Naturforschung emporgewachsenen Sensualismus Humescher Prägung gesichert zu haben. Der Naturwissenschaftler wird
+aber seinen Versuch dennoch schwerlich als befriedigend anerkennen können; was Kant anführt, ist bei weitem nicht ausreichend
+und zu sehr gebunden an die besondere Form der zeitgenössischen
+Physik, anderseits enthält es überflüssige Bestandteile, die nur
+durch den logischen Schematismus des „großen Chinesen von
+Königsberg‘“!) hineingeraten sind. Als der eigentliche brauchbare
+Kern schälen sich die Ideen der Sudstanz und der Kausalität heraus,
+denen der letzte Abschnitt dieses Artikels gewidmet ist. Neben den
+beiden auf sie bezüglichen ‚„‚Analogien der Erfahrung“ stellt Kant
+noch eine dritte, von der Wechselwirkung handelnde auf; vorausgehen die „Axiome der Anschauung“, als deren Prinzip er ausspricht: Alle Anschauungen sind extensive Größen, und die „Antizipationen der Wahrnehmung“ vermöge des Grundsatzes: In allen
+Erscheinungen hat das Reale, was ein Gegenstand der Empfindung
+ist, intensive Größe. Er läßt den drei ersten Gruppen als letzte die
+„Postulate des empirischen Denkens überhaupt‘ folgen, welche
+sich auf die Begriffe der Möglichkeit, Wirklichkeit und Notwendigkeit beziehen. Das Kantische Problem, zu dessen Beantwortung
+hier einige Bruchstücke gesammelt wurden, bleibt für die Zukunft
+offen — wie ich vermuten möchte, als eine unendliche Aufgabe.
+Kant freilich betrachtete gerade die Metaphysik, sofern sie auf die
+Lösung dieses Problems ausgeht, als „die einzige aller Wissenschaften, die sich eine solche Vollendung, und zwar in kurzer Zeit
+und mit nur weniger, aber vereinigter Bemühung versprechen darf,
+so daß nichts für die Nachkommenschaft übrigbleibt...“ (Kritik
+der reinen Vernunft, 1. Aufl., Vorrede, S. XX).
+
+1) Nietzsches Spitzname für Kant (s. ‚Jenseits von Gut und Böse“,
+6. Hauptstück, Aphor. 210).
+
+[[pdf-page:0210 printed-page:209]]
+
+LITERATUR
+
+P. Duhem, La Theorie Physique, son objet et sa structure. Paris 1906.
+E. Mach, Erkenntnis und Irrtum. 1905.
+
+H. Poincare, La science et ’hypothöse.
+
+E. Cassirer, Substanzbegriff und Funktionsbegriff. 1910.
+
+—, Zur Einsteinschen Relativitätstheorie. 1921.
+
+B. Russell, Our Knowledge of the External World.
+
+4A. S. Eddington, The Nature of the Physical World. Cambridge 1929.
+J. Jeans, The New Background of Science. Cambridge 1933.
+
+P. W. Bridgman, The Nature of Physical Theory. Princeton 1936.
+K. Popper, Logik der Forschung. Wien 1935.
