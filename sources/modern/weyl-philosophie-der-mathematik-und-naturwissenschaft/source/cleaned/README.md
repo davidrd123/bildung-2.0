@@ -9,6 +9,9 @@ This directory contains a chapter-split German working text for Hermann Weyl's
 - `source/ocr/tesseract-deu/pages/page-*.txt` is the ignored draft OCR layer.
 - `tools/build_weyl_cleaned_text.py` generated these files from the German OCR
   draft and the visually inspected `source/sections.yaml` map.
+- `004-front-contents.txt` is a manually curated visual transcription because
+  OCR turned the contents dot leaders into unusable noise; the generator
+  preserves that file if it already exists.
 - Every cleaned file preserves page anchors of the form
   `[[pdf-page:0000 printed-page:0]]`.
 

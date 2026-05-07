@@ -13,11 +13,12 @@ SOURCE_DIR = ROOT / "sources/modern/weyl-philosophie-der-mathematik-und-naturwis
 SECTIONS_PATH = SOURCE_DIR / "sections.yaml"
 OCR_DIR = SOURCE_DIR / "ocr/tesseract-deu/pages"
 CLEANED_DIR = SOURCE_DIR / "cleaned"
+MANUALLY_CURATED_SECTIONS = {"front-contents"}
 
 
 LETTER_CONTINUATION = re.compile(r"^[A-Za-zÄÖÜäöüß]")
-RUNNING_HEAD_LEFT = re.compile(r"^\d+\s*\|\s+\S")
-RUNNING_HEAD_RIGHT = re.compile(r"^.+\|\s*\d+$")
+RUNNING_HEAD_LEFT = re.compile(r"^[\dilI]+\s*\|\s+\S")
+RUNNING_HEAD_RIGHT = re.compile(r"^.+\|\s*[\dilI]+$")
 PAGE_NUMBER_ONLY = re.compile(r"^\d+$")
 
 
@@ -32,6 +33,17 @@ def clean_line(line: str) -> str:
     line = line.replace("Kekule&", "Kekulé")
     line = line.replace("Kekules", "Kekulés")
     line = re.sub(r"\bKekule\b", "Kekulé", line)
+    line = line.replace("muB", "muß")
+    line = line.replace("groB", "groß")
+    line = line.replace("daB", "daß")
+    line = line.replace("1äßt", "läßt")
+    line = line.replace("8.83", "S. 83")
+    line = line.replace("KoNTINUUM", "KONTINUUM")
+    line = line.replace("Unendlichklene", "Unendlichkleine")
+    line = line.replace("GEOMETRRE", "GEOMETRIE")
+    line = line.replace("Subjet", "Subjekt")
+    line = line.replace("Koefhzienten", "Koeffizienten")
+    line = line.replace("Werstanden", "verstanden")
     line = line.replace("„ ", "„").replace(" “", "“")
     line = line.replace(" .", ".").replace(" ,", ",")
     line = re.sub(r"(?<=[a-zäöü])B(?=[a-zäöü])", "ß", line)
@@ -104,7 +116,26 @@ def clean_page(text: str) -> str:
     lines = dehyphenate(compacted)
     lines = [clean_line(line) for line in lines]
     lines = remove_running_heads(lines)
-    return "\n".join(lines).strip()
+    cleaned = "\n".join(lines).strip()
+    cleaned = cleaned.replace(
+        "Vergangenheit von den gleichen Prinzipien\n"
+        "Fig. 7. Das Hyperboloid von de aus verstanden, werden muß\n"
+        "Sitter mit dem Einflußgebit p Wie im Falle des Entropiegeund den Weltlinien der Sterne. setzes.",
+        "von den gleichen Prinzipien\n"
+        "aus verstanden werden muß\n"
+        "wie im Falle des Entropiegesetzes.\n\n"
+        "Fig. 7. Das Hyperboloid von de Sitter mit dem Einflußgebiet D und den Weltlinien der Sterne.",
+    )
+    cleaned = cleaned.replace(
+        "Vergangenheit von den gleichen Prinzipien\n"
+        "Fig. 7. Das Hyperboloid von de aus ‚verstanden, werden muß\n"
+        "Sitter mit dem Einflußgebit p Wie im Falle des Entropiegeund den Weltlinien der Sterne. setzes.",
+        "von den gleichen Prinzipien\n"
+        "aus verstanden werden muß\n"
+        "wie im Falle des Entropiegesetzes.\n\n"
+        "Fig. 7. Das Hyperboloid von de Sitter mit dem Einflußgebiet D und den Weltlinien der Sterne.",
+    )
+    return cleaned
 
 
 def printed_page_for(section: dict, pdf_page: int) -> int | None:
@@ -165,7 +196,10 @@ def main() -> None:
         filename = section_filename(index, section)
         rel_path = f"cleaned/{filename}"
         section["cleaned_file"] = rel_path
-        (CLEANED_DIR / filename).write_text(build_section(index, section), encoding="utf-8")
+        target = CLEANED_DIR / filename
+        if section["id"] in MANUALLY_CURATED_SECTIONS and target.exists():
+            continue
+        target.write_text(build_section(index, section), encoding="utf-8")
 
     data["book"]["status"] = "OCR-derived cleaned draft split by visual contents map"
     data["book"]["cleaned_directory"] = "cleaned"
