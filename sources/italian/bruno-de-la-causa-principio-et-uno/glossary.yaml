@@ -104,3 +104,91 @@ isagogia:
   status: open
   preferred: isagogy
   notes: "Introductory route into the knowledge of things; appears at the end of the argomenti."
+supposito:
+  status: open
+  preferred: supposit
+  notes: "Appears socially and metaphysically; keep distinct from soggetto for now."
+coincidenza:
+  status: open
+  preferred: coincidence
+  notes: "First dialogue names coincidence of contraries in principles and proximate subjects."
+contrarii:
+  status: open
+  preferred: contraries
+  notes: "Track with coincidence, opposition, and unity."
+lume:
+  status: open
+  preferred: light
+  notes: "Vision/light imagery structures the threshold and first dialogue."
+correzione:
+  status: open
+  preferred: correction
+  notes: "Filoteo distinguishes correction from revenge in the apology for the Cena."
+pedante:
+  status: open
+  preferred: pedant
+  notes: "Not merely insult; marks word-centered authority opposed to inquiry into things."
+intelletto_universale:
+  source: intelletto universale
+  status: open
+  preferred: universal intellect
+  notes: "Introduced in Dialogo secondo as universal physical efficient and faculty of the world-soul."
+anima_del_mondo:
+  source: anima del mondo
+  status: open
+  preferred: soul of the world
+  notes: "Formal constitutive principle of the universe; also linked to universal intellect."
+spirto:
+  source: spirto
+  status: open
+  preferred: spirit
+  notes: "Appears with anima and vita as penetrating and moving all matter."
+vita:
+  status: open
+  preferred: life
+  notes: "All things have life according to substance, not necessarily according to recognizable act or operation."
+animato:
+  status: open
+  preferred: animated
+  notes: "Keep distinct from having soul/life and from being called animal."
+animale:
+  status: open
+  preferred: animal
+  notes: "Bruno uses animal broadly for living wholes, including stars and worlds."
+forma_materiale:
+  source: forma materiale
+  status: open
+  preferred: material form
+  notes: "First of the three forms distinguished in Dialogo secondo; informs, extends, and depends."
+vestigio:
+  status: open
+  preferred: vestige
+  notes: "Mode by which natural philosophy approaches the first principle and cause."
+materia_prima:
+  source: materia prima
+  status: open
+  preferred: prime matter
+  notes: "Appears in the critique of Peripatetic substantial form; distinguish from Bruno's richer matter."
+occhio_della_raggione:
+  source: occhio della raggione
+  status: open
+  preferred: eye of reason
+  notes: "Matter of nature is known by this eye, not by the sensitive eye."
+complicato:
+  status: open
+  preferred: complicated
+  notes: "Folded/unified state of act and potency in the principle."
+esplicato:
+  status: open
+  preferred: explicated
+  notes: "Unfolded/dispersed state of act and potency in finite things and the universe."
+possibilita:
+  source: possibilità
+  status: open
+  preferred: possibility
+  notes: "Closely linked to potenza; can rise to absolute possibility in the first principle."
+massimo_minimo:
+  source: massimo/minimo
+  status: open
+  preferred: maximum/minimum
+  notes: "Coincidence pressure in Dialogo terzo; likely Cusan resonance."

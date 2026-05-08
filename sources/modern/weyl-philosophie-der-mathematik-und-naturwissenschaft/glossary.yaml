@@ -99,10 +99,11 @@
     - "directly exhibited"
     - "given in intuition"
   status: open
-  notes: "Important for undefined primitive objects and for the contrast with construction/definition. `Given` alone is too passive and too broad."
+  notes: "Important for undefined primitive objects and for the contrast with construction/definition. `Given` alone is too passive and too broad. Section 13 sharpens the contrast as `begriffliche Fixierung` versus `anschauliche Aufweisung`: for a continuum of points, conceptual fixing still requires a coordinate frame exhibited by an individual demonstrative act."
   evidence:
     - "parts/002-math-01-01-relationen-und-urteile.md"
     - "parts/003-math-01-02-aufbauende-definition.md"
+    - "parts/014-math-03-13-relativitaetsproblem.md"
 
 - term: "Sonderwesen"
   kind: concept
@@ -627,11 +628,12 @@
   alternatives:
     - "the continuum"
   status: open
-  notes: "Section 7 introduces the continuum as the second open place in the number-realm: the infinite appears as infinite divisibility of time and space, not as serial generation. Section 9 gives the Brouwerian alternative: the continuum is not a set of fixed elements but a medium of free becoming and an extensive whole. Section 12 extends the pressure beyond space: color qualities form a continuum capable of geometrical treatment."
+  notes: "Section 7 introduces the continuum as the second open place in the number-realm: the infinite appears as infinite divisibility of time and space, not as serial generation. Section 9 gives the Brouwerian alternative: the continuum is not a set of fixed elements but a medium of free becoming and an extensive whole. Section 12 extends the pressure beyond space: color qualities form a continuum capable of geometrical treatment. Section 13 adds the objectivity problem: an infinite point-continuum cannot be fixed point by point without a coordinate frame."
   evidence:
     - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
     - "parts/010-math-02-09-intuitive-mathematik.md"
     - "parts/013-math-03-12-projektive-geometrie-farbraum.md"
+    - "parts/014-math-03-13-relativitaetsproblem.md"
 
 - term: "Kontinuumslehre"
   kind: concept

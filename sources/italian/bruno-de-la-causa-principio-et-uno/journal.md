@@ -87,3 +87,103 @@ verse should receive a dedicated check before any public or canonical version.
 
 Next work: translate `Dialogo primo` as the first doctrinal calibration and
 then write a state note before continuing to Dialogues 2-5.
+
+## 2026-05-08 - Dialogo Primo Translated
+
+Added working translation drafts for the first dialogue in three bounded
+batches:
+
+- `parts/004a-dialogo-primo-opening-and-cena-defense.md`
+- `parts/004b-dialogo-primo-correction-and-university-satire.md`
+- `parts/004c-dialogo-primo-pedants-and-interlocutors.md`
+
+The first dialogue is not yet doctrinal exposition of cause, principle, and one.
+It is an apology and threshold exercise. It defends the mixed form of *La cena
+de le ceneri*, explains public satire as correction rather than revenge, attacks
+pedantic word-authority, praises speculative depth over Ciceronian surface, and
+names the actual interlocutor structure for the following dialogues.
+
+Major pattern: Bruno repeatedly opposes light/vision/things to darkness,
+creaturely noise, verbalism, and pedantry. The same pattern appears in the
+verse threshold and now governs the dialogue entrance.
+
+The `Cena` defense gives a rule for translating Bruno's own form: philosophical
+seriousness does not exclude comic, vulgar, bodily, or satirical materials.
+Those are part of the method, not disposable wrappers.
+
+The praise of Elizabeth and defense of the feminine complicate the proemial
+attack catalogue. The contradiction should be preserved as pressure in Bruno's
+rhetoric rather than harmonized.
+
+Next work: write a short state note for the front matter plus `Dialogo primo`,
+then proceed to `Dialogo secondo`, where the doctrinal work proper begins with
+the difference and concordance of cause and principle.
+
+## 2026-05-08 - Dialogo Secondo Translated
+
+Added working translation drafts for the second dialogue:
+
+- `parts/005a-dialogo-secondo-cause-principle-and-universal-intellect.md`
+- `parts/005b-dialogo-secondo-world-soul-and-life-in-all-things.md`
+- `parts/005c-dialogo-secondo-form-substance-and-whole-in-each-part.md`
+
+This is the first doctrinal center of the work. The dialogue sharply separates
+natural philosophy's knowledge of the first principle from theological or
+supernatural claims: the first cause is approached only by vestige, remote
+effect, shadow, mirror, and nature as it shines within nature.
+
+The cause/principle distinction is now explicit:
+
+- `principio` is broader and can be intrinsic, constitutive, and remaining in
+  the effect
+- `causa`, in the narrower natural sense, can be exterior to the composition,
+  as efficient and final cause
+
+The universal intellect is introduced as the efficient physical cause: world
+soul faculty, internal artisan, sower, eye of the world, distinguisher, and
+middle between divine intellect and particular intellects.
+
+Major doctrinal pressure: all things have soul/life according to substance,
+even where they do not show the act and operation that common Peripatetic
+definitions recognize as life. This requires preserving the tension among
+`anima`, `vita`, `spirto`, `animal`, and `animato`.
+
+The dialogue also establishes the voice analogy for whole-in-each-part. This
+should become a reference point for later passages on unity and infinity.
+
+Next work: proceed to `Dialogo terzo`, where the material principle comes to
+the center.
+
+## 2026-05-08 - Dialogo Terzo Translated
+
+Added working translation drafts for the third dialogue:
+
+- `parts/006a-dialogo-terzo-pedant-prelude.md`
+- `parts/006b-dialogo-terzo-matter-as-subject.md`
+- `parts/006c-dialogo-terzo-plural-methods-and-matter-as-potency.md`
+- `parts/006d-dialogo-terzo-absolute-act-potency-and-the-one.md`
+
+This dialogue shifts from formal cause and world-soul to matter. Bruno first
+defines matter by analogy with art, but insists that natural matter is known by
+the eye of reason, not by the senses, because it is not already nature-formed as
+wood, iron, stone, or cloth are.
+
+The critique of Peripatetic substantial form becomes explicit: if substantial
+form is only humanity, woodness, quiddity, principle of definition, or other
+logical intention, then it is not a natural principle.
+
+Major methodological pattern: Bruno allows diverse philosophical starts if they
+bear fruit. The rule from this dialogue is that every foundation is good if the
+building approves it, and every seed is fitting if the trees and fruits are
+desirable.
+
+Major doctrinal pattern: matter as potency is not mere lack. At the absolute
+limit, active and passive potency coincide with act in the first principle. In
+finite things, act and potency are explicated, dispersed, limited, and
+successive.
+
+The Cusan resonance is now strong: maximum/minimum, coincidence of opposites,
+and the one root of spiritual and corporeal substance. This should be tracked
+without collapsing Bruno into Cusa.
+
+Next work: proceed to `Dialogo quarto`, where matter is considered as subject.

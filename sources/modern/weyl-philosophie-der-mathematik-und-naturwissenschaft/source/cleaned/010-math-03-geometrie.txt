@@ -224,7 +224,7 @@ Axiome eingehen, 1. die ternäre Relation: drei Punkte liegen auf
 einer geraden Linie; 2. die Relation: (drei verschiedene Punkte
 A, B und C liegen auf einer geraden Linie und) B liegt zwischen
 A und C; 3. die Relation: vier Punkte liegen in einer Ebene; 4. die
-Kongruenzrelation AB= CD zwischen zwei Punktepaaren AB
+Kongruenzrelation AB ≡ CD zwischen zwei Punktepaaren AB
 und CD. Was wir damit sagen wollen, läßt sich auf jeden Bereich
 von Dingen anwenden, dessen Axiome ein paar Grundrelationen
 behandeln. Ohne vorzugreifen, was nun diese Dinge sind, können
@@ -233,45 +233,45 @@ wir sie Punkte nennen und vom Sachbereich somit als dem Punktfeld sprechen.
 In § 4 ist der Begriff der isomorphen Abbildung eingeführt
 worden. Wir betrachten nun den Sonderfall, daß unser Sachgebiet
 nicht auf ein anderes Gebiet, sondern auf sich selbst abgebildet
-wird, und gelangen so zum Begriff des Automorphismus: Automorphie ist eine eineindeutige oder umkehrbar eindeutige Abbildung p → p’ des Punktfeldes auf sich selbst, die die Grundrelationen ungestört läßt; das heißt, stets wenn Punkte a, b, ...
+wird, und gelangen so zum Begriff des Automorphismus: Automorphie ist eine eineindeutige oder umkehrbar eindeutige Abbildung p → p′ des Punktfeldes auf sich selbst, die die Grundrelationen ungestört läßt; das heißt, stets wenn Punkte a, b, ...
 der Grundrelation R(ab ···) genügen, dann genügen auch die
-Punkte a’, b’,..., in die a, b durch die Abbildung übertragen werden, der gleichen Relation, und umgekehrt. Mit andern Worten,
-aus R(ab ···) folgt R(a’b’ ···), und aus R(a’b’ ···) folgt R(ab ···).
+Punkte a′, b′, ..., in die a, b durch die Abbildung übertragen werden, der gleichen Relation, und umgekehrt. Mit andern Worten,
+aus R(ab ···) folgt R(a′b′ ···), und aus R(a′b′ ···) folgt R(ab ···).
 Eine Abbildung σ überträgt jeden Punkt des Punktfeldes in einen
-Punkt p’ = pσ. Die einfachste Abbildung ist die Identität ι, die
-jeden Punkt p in p selbst überträgt. Zwei Abbildungen σ : p → p’
-und τ : p’ → p” können nacheinander ausgeführt und dann als
-neue Abbildung στ : p → p” aufgefaßt werden. Eine Abbildung
-σ : p → p’ ist eineindeutig, wenn sie eine Inverse σ−1 besitzt, die p’
-zurück nach p abbildet: σσ−1 = σ−1σ = ι. Dann ist auch σ−1 eineindeutig. Die Identität ist eine eineindeutige Abbildung; und wenn
+Punkt p′ = pσ. Die einfachste Abbildung ist die Identität ι, die
+jeden Punkt p in p selbst überträgt. Zwei Abbildungen σ : p → p′
+und τ : p′ → p″ können nacheinander ausgeführt und dann als
+neue Abbildung στ : p → p″ aufgefaßt werden. Eine Abbildung
+σ : p → p′ ist eineindeutig, wenn sie eine Inverse σ⁻¹ besitzt, die p′
+zurück nach p abbildet: σσ⁻¹ = σ⁻¹σ = ι. Dann ist auch σ⁻¹ eineindeutig. Die Identität ist eine eineindeutige Abbildung; und wenn
 σ und τ eineindeutige Abbildungen sind, so ist es auch στ mit der
-Inversen τ−1σ−1. Das Wort Transformation wird als Synonym für
+Inversen τ⁻¹σ⁻¹. Das Wort Transformation wird als Synonym für
 eineindeutige Abbildung verwendet. Die fundamentale Eigenschaft
 
 [[pdf-page:0099 printed-page:98]]
 
 für Automorphismen ist, daß sie eine Gruppe bilden. Dies bedeutet
 die drei folgenden Dinge: 1. Die Identität ist ein Automorphismus;
-2. ist o ein Automorphismus, dann auch o!; 3. sind o und r
-Automorphismen, dann ist auch or einer. Diese drei Tatsachen
+2. ist σ ein Automorphismus, dann auch σ⁻¹; 3. sind σ und τ
+Automorphismen, dann ist auch στ einer. Diese drei Tatsachen
 folgen unmittelbar aus der Definition.
 
 Eine Figur F im weitesten Sinne oder eine Konfiguration von
 Punkten ist nichts anderes als eine Punktmenge; F ist gegeben,
 wenn für jeden Punkt p bestimmt ist, ob er zu F gehört oder nicht.
-Eine ternäre Relation R (xyz) zwischen Punkten heißt invariant
-gegenüber einer gegebenen Transformation o:p — p’ und ihrer
-Inversen p’ — p, wenn aus R (abc) stets R (a’b’c’) folgt, und umgekehrt. Nun können wir exakt sagen, was mit objektiver Gleichheit oder „Unterschiedslosigkeit‘‘ aller Punkte im euklidischen
-Raum gemeint ist. Sie bedeutet, daß für zwei beliebige Punkte p,
-und >, stets ein Automorphismus existiert, der p, in >, überführt.
-Zwei Figuren F und F’ heißen ähnlich, wenn die eine durch einen
+Eine ternäre Relation R(xyz) zwischen Punkten heißt invariant
+gegenüber einer gegebenen Transformation σ : p → p′ und ihrer
+Inversen p′ → p, wenn aus R(abc) stets R(a′b′c′) folgt, und umgekehrt. Nun können wir exakt sagen, was mit objektiver Gleichheit oder „Unterschiedslosigkeit“ aller Punkte im euklidischen
+Raum gemeint ist. Sie bedeutet, daß für zwei beliebige Punkte p₁
+und p₀ stets ein Automorphismus existiert, der p₀ in p₁ überführt.
+Zwei Figuren F und F′ heißen ähnlich, wenn die eine durch einen
 Automorphismus in die andere überführt werden kann. Dies ist
 nun unsere Deutung der Leibnizschen Definition ähnlicher Figuren als solche, die nicht auseinandergehalten werden können,
 wenn sie jede für sich betrachtet werden. Die drei Gruppenpostulate stellen schlicht fest, daß jede Figur sich selbst ähnlich ist, und
 daß die Ähnlichkeit symmetrisch und transitiv ist (s. die Äquivalenzaxiome auf S. 23). Eine Punktrelation heißt objektiv, wenn
 sie gegenüber allen Automorphismen invariant ist. In diesem Sinne
 sind die Grundrelationen objektiv, ebenso alle logisch aus ihnen
-nach den in $1 angegebenen Prinzipien definierten Relationen,
+nach den in § 1 angegebenen Prinzipien definierten Relationen,
 vorausgesetzt es wird kein Gebrauch von Prinzip Nr. 5 gemacht,
 das eine Leerstelle zuläßt, die von einem individuell aufgewiesenen
 Punkt ausgefüllt wird. (Ob jede objektive Relation so definiert
@@ -300,8 +300,8 @@ welchen Bedingungen eine Relation objektiv ist, nämlich dann,
 wenn sie gegenüber allen Transformationen von Γ invariant ist.
 In diesem Sinne hat Felix Klein in seinem berühmten Erlanger
 Programm (1872) die Formulierung gemeint, eine Geometrie sei
-durch eine Transformationsgruppe bestimmt. Die Frage der Axiomatisierung dieser Geometrie ist damit auf den Hintergrund zurückgeführt. (Als erster Schritt müßten ein paar objektive Relationen R1, R2, ... aufgesucht werden, so daß dabei die Gruppe
-aller Transformationen, die R1, R2, ... invariant lassen, nicht größer
+durch eine Transformationsgruppe bestimmt. Die Frage der Axiomatisierung dieser Geometrie ist damit auf den Hintergrund zurückgeführt. (Als erster Schritt müßten ein paar objektive Relationen R₁, R₂, ... aufgesucht werden, so daß dabei die Gruppe
+aller Transformationen, die R₁, R₂, ... invariant lassen, nicht größer
 als Γ wird, sondern mit Γ zusammenfällt.) Während wir unsere
 Augen nicht vor der Tatsache verschließen müssen, daß objektive
 Relationen logisch aus anderen derartigen Relationen konstruiert
@@ -310,8 +310,8 @@ Grundrelationen und abgeleiteten zu machen. Wir sind an allen
 invarianten Relationen gleich interessiert.
 
 Hätte Newton recht mit seinem absoluten Zentrum O des Raumes,
-so bestünde die wahre Gruppe Γ0 der Automorphismen aus den Transformationen der euklidischen Gruppe Γ von Automorphismen, die O
-fest lassen; Newtons Γ0 ist eine Untergruppe der euklidischen Gruppe Γ.
+so bestünde die wahre Gruppe Γ₀ der Automorphismen aus den Transformationen der euklidischen Gruppe Γ von Automorphismen, die O
+fest lassen; Newtons Γ₀ ist eine Untergruppe der euklidischen Gruppe Γ.
 Andererseits sind wir bei der Untersuchung der euklidischen Geometrie
 in erster Linie an solchen Eigenschaften interessiert, die gegenüber allen
 affinen oder allen projektiven Transformationen invariant sind. (Die
@@ -326,7 +326,7 @@ projektiven Geometrie für die Theorie der Perspektive ist offenkundig.
 Man sieht, wie nützlich sich der Kleinsche Standpunkt für eine geordnete
 Übersicht erweist, und bei der Aufdeckung der gegenseitigen Beziehungen werden verschiedene Arten von Geometrien entweder durch die
 Natur der Dinge angeregt, oder sie entspringen aus einer willkürlichen,
-aber logisch nützlichen Abstraktion, (Ein Vorgänger von Klein war
+aber logisch nützlichen Abstraktion. (Ein Vorgänger von Klein war
 Möbius, der den gruppentheoretischen Standpunkt für eine Anzahl bestimmter Arten von Geometrie betonte.) Die umfangreichste Automorphismengruppe, die man möglicherweise für ein Kontinuum betrachten kann, besteht aus allen kontinuierlichen Transformationen; die
 entsprechende Geometrie heißt Topologie. Für die Entwicklung der
 Mathematik war es ein glücklicher Zufall, daß das Relativitätsproblem
@@ -343,12 +343,12 @@ auch der abstrakten Gruppen.
 Nach dieser Erklärung der Automorphismen kommen wir nun
 zu einer zweiten Phase des Relativitätsproblems. Wie lassen sich
 den Punkten eines Punktfeldes Kennzeichen oder Marken zuordnen, die zur Identifizierung oder Unterscheidung der Punkte
-dienen können ? Die Marken sollen selbsterzeugende, verschiedene
+dienen können? Die Marken sollen selbsterzeugende, verschiedene
 und stets reproduzierbare Symbole sein wie Namen, Zahlen (oder
 Zahlentripel x, y, z) usw. Erst dann kann man daran denken, das
 Schauspiel der wirklich gegebenen Welt durch Konstruktion in
 einem Symbolfeld darzustellen. Alles Wissen, auch wenn es von
-der intuitiven Beschreibung ausgeht, tendiert zu einer symbolischen Konstruktion. Aufernste Schwierigkeiten stößt man so lange
+der intuitiven Beschreibung ausgeht, tendiert zu einer symbolischen Konstruktion. Auf ernste Schwierigkeiten stößt man so lange
 nicht, wie man es mit einem Bereich von einer nur endlichen Anzahl Punkte zu tun hat, die man nacheinander „aufrufen“ kann,
 
 [[pdf-page:0102 printed-page:101]]
@@ -359,7 +359,7 @@ Rekonstruktion jedes einmal verlorenen Punktes ermöglichte, ist
 hier nur in Verbindung mit einem Koordinatensystem oder einem
 Bezugsrahmen möglich, was durch einen individuellen demonstrativen Akt aufgewiesen werden muß. Die Objektivierung durch
 Ausschaltung des Ich und seines unmittelbaren Lebens der Anschauung gelingt nicht restlos, und das Koordinatensystem bleibt
-als das notwendige Residuum der Ich-Vernichtung!). Es ist gut
+als das notwendige Residuum der Ich-Vernichtung¹). Es ist gut
 hier daran zu erinnern, daß praktisch zwei- oder dreidimensionale
 Punktmengen gewöhnlich so gegeben werden, daß man sich tatsächlich einen Körper oder eine Figur mit Bleistift auf Papier
 gezeichnet vor Augen hält, und nicht durch eine logisch-arithmetische Konstruktion von mengendefinierenden Eigenschaften.
@@ -373,9 +373,9 @@ dieser Bezugsrahmen gegeben, kann jeder beliebige Punkt P durch seine
 Abszisse x gekennzeichnet werden, das ist die Maßzahl der mit der
 Einheitsstrecke OE ausgemessenen Länge OP (x ist positiv für die Punkte
 auf der gleichen Seite von O aus wie E und negativ für die Punkte auf
-der anderen Seite). Zwei Bezugsrahmen, OE und O’E’, sind objektiv
+der anderen Seite). Zwei Bezugsrahmen, OE und O′E′, sind objektiv
 gleichwertig; denn es gibt genau einen Automorphismus (Ähnlichkeit),
-der O auf O’ und E auf E’ abbildet. Infolgedessen ist durch Aufweisung
+der O auf O′ und E auf E′ abbildet. Infolgedessen ist durch Aufweisung
 eines individuellen Koordinatensystems nicht mehr als unbedingt not-
 
 1) Man könnte gegen die Statuierung eines prinzipiellen Unterschiedes
@@ -390,15 +390,15 @@ hierin der prinzipielle Unterschied besteht.
 
 wendig aufgewiesen. Das Feld für das Symbol x besteht aus allen reellen
 Zahlen. In bezug auf ein gegebenes Koordinatensystem ist die Zuordnung P ↔ x eine eineindeutige Abbildung des Punktfeldes auf den
-Variabilitätsbereich des Symbols. Die Koordinaten x und x’ eines beliebigen Punktes in zwei Koordinatensystemen sind durch eine Relation
+Variabilitätsbereich des Symbols. Die Koordinaten x und x′ eines beliebigen Punktes in zwei Koordinatensystemen sind durch eine Relation
 x = ax′ + b miteinander verbunden, wo a ≠ 0 und b zwei Konstante
 sind, die die relative Lage der beiden Koordinatensysteme zueinander
 kennzeichnen.
 
 Mit diesem Beispiel vor Augen können wir nun die folgende
 allgemeine Beschreibung verstehen. Es sei eine Klasse Σ von Bezugsrahmen f gegeben. Die Klasse als solche sollte objektiv unterschieden werden können, das heißt wenn f zu ihr gehört, dann
-auch jeder ähnliche Rahmen fo = f’, der aus f durch einen Automorphismus o hervorgeht. Die Klasse soll jedoch nicht mehr Elemente enthalten, als diese Forderung unbedingt notwendig macht,
-das heißt zwei beliebige Rahmen f, f’ der Klasse sind ähnlich.
+auch jeder ähnliche Rahmen fσ = f′, der aus f durch einen Automorphismus σ hervorgeht. Die Klasse soll jedoch nicht mehr Elemente enthalten, als diese Forderung unbedingt notwendig macht,
+das heißt zwei beliebige Rahmen f, f′ der Klasse sind ähnlich.
 Außerdem soll eine objektive Vorschrift A gegeben sein, nach der
 jeder Punkt p in bezug auf jeden Rahmen f der Klasse Σ ein definites (reproduzierbares) Symbol x = A(p; f) als Koordinate bestimmt. Für ein gegebenes f ist die Zuordnung p ↔ x zwischen
 den Punkten p und den Symbolen x umkehrbar eindeutig. Daß x
@@ -407,23 +407,23 @@ durch p und f objektiv bestimmt ist, bedeutet, daß
 A(p; f) = A(pσ; fσ)     (*)
 für jeden Automorphismus zutrifft.
 
-Aus diesen Bedingungen ergeben sich die folgenden Folgerungen. Es sei σ ein Automorphismus p → p’ des Punktfeldes und f
+Aus diesen Bedingungen ergeben sich die folgenden Folgerungen. Es sei σ ein Automorphismus p → p′ des Punktfeldes und f
 ein fester Rahmen der Klasse Σ. Die Koordinaten x von p und
-x′ von p’ in diesem Rahmen sind durch eine Transformation
+x′ von p′ in diesem Rahmen sind durch eine Transformation
 S, x′ = xS, miteinander verbunden, die den Automorphismus σ
 durch f darstellt. Der Identität σ = ι entspricht die Identität S = I;
-σ−1 und στ werden durch S−1 und ST dargestellt, wenn σ und τ
+σ⁻¹ und στ werden durch S⁻¹ und ST dargestellt, wenn σ und τ
 durch S und T dargestellt werden. In diesem Sinne bilden die
 Transformationen S, die den verschiedenen σ von Γ entsprechen,
 eine Gruppe G, die isomorph zu Γ ist. G ist nichts anderes als die
 Darstellung von Γ mittels f. Nehmen wir andererseits einen festen
-Rahmen f unserer Klasse Σ und einen beliebigen Rahmen f’ = fσ,
+Rahmen f unserer Klasse Σ und einen beliebigen Rahmen f′ = fσ,
 
 [[pdf-page:0104 printed-page:103]]
 
 der aus f durch den Automorphismus σ hervorgeht; ich behaupte
-nun, daß die Koordinaten x und x’ des gleichen beliebigen Punktes
-in bezug auf f und f’ durch die Gleichung x = x’,S miteinander
+nun, daß die Koordinaten x und x′ des gleichen beliebigen Punktes
+in bezug auf f und f′ durch die Gleichung x = x′S miteinander
 verknüpft sind. Bezeichnen wir nämlich den beliebigen Punkt mit
 pσ statt mit p, so haben wir x = A(pσ; f) und wegen (*)
 
@@ -432,21 +432,22 @@ und daraus folgt unsere Behauptung. Die Gruppe G, die Γ mittels f
 darstellt, muß unabhängig von f sein. Tatsächlich würde eine
 Darstellung von Γ durch zwei verschiedene Gruppen G, G* mittels
 den beiden ähnlichen Rahmen f und f* einen objektiven Unterschied zwischen f und f* erscheinen lassen, was unmöglich ist. Es
-ist leicht dies explizit zu bestätigen. Es sei f* = fγ, wo γ ein Automorphismus ist. Außerdem seien x und x’ die Koordinaten eines
-beliebigen Punktes p und seines Bildes p’ = pσ in bezug auf f, und
-y und y’ in bezug auf f*. Die Transformationen, die γ und σ
+ist leicht dies explizit zu bestätigen. Es sei f* = fγ, wo γ ein Automorphismus ist. Außerdem seien x und x′ die Koordinaten eines
+beliebigen Punktes p und seines Bildes p′ = pσ in bezug auf f, und
+y und y′ in bezug auf f*. Die Transformationen, die γ und σ
 mittels f darstellen, heißen C und S. Wir schreiben nun die
 
-Gleichung x’ = xS in der einprägsameren Form x → x’. Nach
+Gleichung x′ = xS in der einprägsameren Form x --(S)--> x′. Nach
 dem Gesagten erhalten wir nun das Diagramm
 
-x → x′
-(C) ↑   ↓ (C−1)
-y   y′
+        (S)
+x  -------->  x′
+(C) ↑      ↓ (C⁻¹).
+y             y′
 
-Folglich ist die Transformation, die y in y’ überführt und somit
-mittels des Rahmens f* darstellt, S* = CSC−1. Mit S gehört auch
-CSC−1 = S* zur Gruppe G, und umgekehrt ist S = C−1S*C.
+Folglich ist die Transformation, die y in y′ überführt und somit
+mittels des Rahmens f* darstellt, S* = CSC⁻¹. Mit S gehört auch
+CSC⁻¹ = S* zur Gruppe G, und umgekehrt ist S = C⁻¹S*C.
 Solange die Punkte nicht begrifflich gekennzeichnet werden
 konnten, konnten es auch die Transformationen des Punktfeldes
 nicht, und es war vielleicht auch nicht ganz klar, was mit der Aussage gemeint war, die Automorphismengruppe sei bekannt oder
@@ -454,7 +455,7 @@ gegeben. Nun ist ein Stadium erreicht, wo dieser letzte Anflug
 von Unklarheit verschwindet. Jeder einzelne Punkt wird durch
 seine Koordinate x (in bezug auf einen festen Rahmen) ersetzt,
 und somit erscheint die Gruppe Γ der Automorphismen σ als
-Gruppe G der Transformationen S. Die individuelle Transformation S, die x in x’ = xS überführt, ist ein reproduzierbares
+Gruppe G der Transformationen S. Die individuelle Transformation S, die x in x′ = xS überführt, ist ein reproduzierbares
 
 [[pdf-page:0105 printed-page:104]]
 
@@ -471,8 +472,8 @@ Rahmen. Es ist ganz rechtmäßig, als Bezugsrahmen f die von f gebildete
 Koordinatenzuordnung p → x = f(p) selbst zu betrachten. Dies scheint
 sogar zweckmäßig zu sein, wenn man auf eine so umfangreiche Automorphismengruppe gefaßt sein muß, die alle kontinuierlichen Transformationen enthält. Das Symbol f ist dann einfach ein Zeichen für die
 Funktion f, deren Argumentbereich sich über die Punkte p erstreckt,
-und deren Wert ein Element x im Symbolfeld ist. Ist σ : p → p’ eine beliebige Transformation, dann wird die transformierte Funktion f’ = fσ
-durch die Gleichung f’(p’) = f(p) für p’ = pσ oder f’(p) = f(pσ−1)
+und deren Wert ein Element x im Symbolfeld ist. Ist σ : p → p′ eine beliebige Transformation, dann wird die transformierte Funktion f′ = fσ
+durch die Gleichung f′(p′) = f(p) für p′ = pσ oder f′(p) = f(pσ⁻¹)
 definiert. Schreiben wir x = A(p; f) für x = f(p), dann ist mit A
 der allgemeine logische Operator „Wert von“ gemeint. x = A(p; f)
 bedeutet: x ist der Wert der Funktion f für das Argument p.
