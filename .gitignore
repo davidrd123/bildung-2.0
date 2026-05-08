@@ -2,6 +2,7 @@
 books/
 __pycache__/
 .obsidian/
+out/
 texts/*/output/
 texts/*/visuals/out/
 texts/*/visuals/plates/raster-ref/
