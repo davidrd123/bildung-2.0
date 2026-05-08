@@ -4,13 +4,13 @@ Section ID: appendix-a-struktur-der-mathematik
 Kind: appendix
 PDF pages: 280-303
 Printed pages: 279-302
-Status: OCR-derived cleaned draft; page images remain the authority.
+Status: visually corrected cleaned text; page images remain the authority.
 
 [[pdf-page:0280 printed-page:279]]
 
 Anhang A: Die Struktur der Mathematik
 
-1. Das Ziel von Hilberts „‚Beweistheorie“ war, wie er erklärte,
+1. Das Ziel von Hilberts „Beweistheorie“ war, wie er erklärte,
 „die Grundlagenfragen ein für allemal aus der Welt zu schaffen“.
 Im Jahre 1926 bestand Grund zu der optimistischen Erwartung,
 daß es ihm und seinen Mitarbeitern in ein paar Jahren beharrlicher Anstrengung gelingen würde, die Widerspruchslosigkeit
@@ -22,7 +22,7 @@ welche das ganze Programm in Frage stellte. Seitdem ist Resignation die vorherrs
 die eigentliche Bedeutung der Mathematik bleiben ein offenes
 Problem; wir wissen weder, in welcher Richtung seine Lösung zu
 finden ist, noch, ob überhaupt eine endgültige objektive Antwort
-erwartet werden Kann. Vielleicht ist „Mathematisieren“, wie
+erwartet werden kann. Vielleicht ist „Mathematisieren“, wie
 Musizieren, eine schöpferische Tätigkeit des Menschen, deren
 Produkte nicht nur formal, sondern auch inhaltlich durch die
 Entscheidungen der Geschichte bedingt sind und daher vollständiger objektiver Erfassung trotzen. Das unentschiedene Ergebnis von Hilberts kühnem Unternehmen ist für die philosophische Interpretation natürlich nicht gleichgültig. Doch finde
@@ -32,16 +32,16 @@ meine Worte etwas vorsichtiger setzen würde.
 
 Gödel zeigte, daß in Hilberts Formalismus, ja in irgend einem
 nicht zu engen formalen System M, zwei seltsame Dinge passieren:
-1. Es lassen sich arithmetische Sätze ® von verhältnismäßig elementarer Natur angeben, die offensichtlich richtig sind und doch
+1. Es lassen sich arithmetische Sätze Φ von verhältnismäßig elementarer Natur angeben, die offensichtlich richtig sind und doch
 innerhalb des Formalismus nicht abgeleitet werden können.
-2. Die Formel 2, die die Widerspruchslosigkeit von M ausdrückt,
+2. Die Formel Ω, die die Widerspruchslosigkeit von M ausdrückt,
 ist selbst innerhalb M nicht ableitbar. Genauer ausgedrückt,
-eine Ableitung von ® oder 2 würde innerhalb des Formalismus M
-geradewegs zu einem Widerspruch in M führen, d.h. zu einer
+eine Ableitung von Φ oder Ω würde innerhalb des Formalismus M
+geradewegs zu einem Widerspruch in M führen, d. h. zu einer
 
 [[pdf-page:0281 printed-page:280]]
 
-Ableitung der Formel - (1 = 1) innerhalb M. Aus der ersten
+Ableitung der Formel ¬(1 = 1) innerhalb M. Aus der ersten
 Tatsache erkennt man, daß die Bereiche von Sätzen, die einerseits
 der Einsicht, andererseits der Deduktion zugänglich sind, einander
 überschneiden, wobei keiner von den beiden im andern enthalten
@@ -71,9 +71,9 @@ der die Widerspruchslosigkeit des Formalismus sicher aufgestellt
 wird, irgend ein Argument enthalten muß, das kein formales
 Gegenstück innerhalb des Systems besitzt, was den Verzicht auf
 die vollständige Formalisierung des Verfahrens der mathematischen Induktion bedeutet, oder daß der Gedanke eines streng
-„finitistischen‘‘ Beweises der Widerspruchslosigkeit überhaupt
+„finitistischen“ Beweises der Widerspruchslosigkeit überhaupt
 aufgegeben werden muß. Erfahrungstatsache ist, daß die mathematische Induktion, in was für Formen sie auch immer bis jetzt
-von,den Mathematikern in ihrer aktuellen Forschung angewandt
+von den Mathematikern in ihrer aktuellen Forschung angewandt
 worden ist, unter das als axiomatische Regel in Hilberts Formalis-
 
 [[pdf-page:0282 printed-page:281]]
@@ -85,10 +85,10 @@ als zulässig annehmen, die in Cantors „zweite Klasse der Ordnungszahlen“ ei
 anschaulich Zuverlässigen verwischt. Nach diesem Pyrrhussieg
 wagte niemand mehr, seine Waffen in das Feld der Analysis
 zu führen, und doch läge hier die eigentliche Probe für Hilberts
-Idee. -
+Idee.
 
 Gödels Konstruktion ist eng verbunden mit den logischen
-Paradoxien, die unter den antiken Philosophen!) so viele Diskussionen ausgelöst hatten, und die nach einer langen Periode
+Paradoxien, die unter den antiken Philosophen¹) so viele Diskussionen ausgelöst hatten, und die nach einer langen Periode
 der Vergessenheit während der letzten fünfzig Jahre wieder ein
 Zündstoff in der Entwicklung unserer Gedanken über die Grundlagen der Mathematik geworden sind. Aus diesem Grunde und
 wegen der tiefen Einsicht, die Gödels Entdeckung in den Aufbau
@@ -96,12 +96,12 @@ der Mathematik und damit aller theoretischen Wissenschaft
 gewährt, werde ich versuchen, diese so genau zu beschreiben, wie
 ohne zu weitgehende technische Details möglich ist.
 
-2. Der in $ 10 skizzierte Symbolismus wird mit den folgenden
+2. Der in § 10 skizzierte Symbolismus wird mit den folgenden
 Abänderungen übernommen (Formalismus H). In der dort an-
 
-1) Die sokratischen Philosophen der Schule von Megara, Euklid, Eubulides usw. schwelgten in Paradoxien dieser Art, die offensichtlich in eine
+¹) Die sokratischen Philosophen der Schule von Megara, Euklid, Eubulides usw. schwelgten in Paradoxien dieser Art, die offensichtlich in eine
 andere Klasse gehören wie die (insbesondere von Zeno formulierten) Eleatischen Bewegungsparadoxien. Aristoteles widmet den Paradoxien ein ganzes
-Buch ‚De Sophisticis Elenchis‘‘; der Stoiker Chrysippos beschäftigte sich
+Buch „De Sophisticis Elenchis“; der Stoiker Chrysippos beschäftigte sich
 ausführlich mit ihnen (siehe die Liste der Titel von Chrysippos’ logischen
 Abhandlungen in Diogenes Laertius, VII, 189—198); zur Zeit des römischen
 Imperiums bildeten sie einen Teil des regulären Schulstoffes in Dialektik.
@@ -109,53 +109,54 @@ Die mittelalterliche scholastische Entwicklung kulminiert in Paulus Venetus
 (gestorben 1428) (Logica Magna, Venetiis 1499, besonders De Insolubilibus,
 192 r. B ff.). Typisch für die Haltung der meisten modernen Philosophen ist
 C. Prantls geringschätzige Bemerkung in seiner klassischen Geschichte der
-Logik im Abendlande: ‚‚Lappalien, wie die Mehrzahl der Fangschlüsse sind,
+Logik im Abendlande: „Lappalien, wie die Mehrzahl der Fangschlüsse sind,
 wird die wahre Logik überhaupt gar nicht berücksichtigen“ (I, S. 95).
 
 [[pdf-page:0283 printed-page:282]]
 
 geführten Art unterscheiden wir zwischen faktischen und numerischen Formeln. Die Regel
 
-(BE) >-(AH>AH) (1)
+(𝔟 = 𝔠) → (𝔄(𝔟) → 𝔄(𝔠))        (1)
 
-wird nur für faktische Formeln W angenommen; für numerische
-Formeln X muß sie ersetzt werden durch
+wird nur für faktische Formeln 𝔄 angenommen; für numerische
+Formeln 𝔄 muß sie ersetzt werden durch
 
-6=-)-AUH-AN).
+(𝔟 = 𝔠) → (𝔄(𝔟) = 𝔄(𝔠)).
 
 Geschlossene numerische und faktische Formeln sollen bez.
 formale Zahlen und formale Sätze genannt werden. Da wir uns
-auf die Arithmetik beschränken wollen, lassen wir das Symbol e
+auf die Arithmetik beschränken wollen, lassen wir das Symbol ε
 und die transfinite mengentheoretische Regel (*) auf Seite 80
 fallen. Da unsere Variabeln dann nur für „beliebige natürliche
-Zahlen‘ stehen werden (und nicht für Mengen solcher Zahlen
-und dergleichen), müssen der Operator Z und die beiden dazugehörigen Regeln
+Zahlen“ stehen werden (und nicht für Mengen solcher Zahlen
+und dergleichen), müssen der Operator Σ und die beiden dazugehörigen Regeln
 
-Z1; Zb>Z(ob)
+Σx; 𝔄(𝔟) → Σx𝔄(x)
 
 ausgeschaltet werden. Die Folge der natürlichen Zahlen lassen wir
-mit O anstatt mit 1 anfangen, und das Symbol o ersetzen wir durch
-‘. Von vornherein fügen wir die Axiome hinzu, die die induktive
+mit 0 anstatt mit 1 anfangen, und das Symbol σ ersetzen wir durch
+′. Von vornherein fügen wir die Axiome hinzu, die die induktive
 Definition der Addition und Multiplikation von Zahlen enthält.
 Daraus folgen dann die spezifischen arithmetischen Regeln (in
-denen b und c irgendwelche formale Zahlen sein können)
+denen 𝔟 und 𝔠 irgendwelche formale Zahlen sein können)
 
-(d=')-(b=0.
-"('6=0) oder (6-0).
-b+0=b, b+'’c="(b+o).
-b-0=0. b-’c=(b-c)+b.
+('𝔟 = '𝔠) → (𝔟 = 𝔠).
+¬('𝔟 = 0) oder ('𝔟 = 0).
+𝔟 + 0 = 𝔟,  𝔟 + '𝔠 = '(𝔟 + 𝔠).
+𝔟 · 0 = 0.  𝔟 · '𝔠 = (𝔟 · 𝔠) + 𝔟.
 Das Prinzip der mathematischen Induktion wird durch die Form
-I, AH>ACH)AUN)>U))
 
-eingeführt, in welcher A (x) irgend ein x-Prädikat (= eine fak-
+Πx(𝔄(x) → 𝔄('x)) → (𝔄(0) → 𝔄(𝔟))
+
+eingeführt, in welcher 𝔄(x) irgend ein x-Prädikat (= eine fak-
 
 [[pdf-page:0284 printed-page:283]]
 
 tische Formel, die keine freie Variable außer möglicherweise x
-enthält) und b irgend eine formale Zahl sein kann.
+enthält) und 𝔟 irgend eine formale Zahl sein kann.
 Die Axiome
 
-AHM>LAK), ZUAUKHD>AUEAR)) (2)
+𝔄(𝔟) → Σx𝔄(x),   Σx𝔄(x) → 𝔄(εx𝔄(x))      (2)
 
 stehen natürlich für jede beliebige Variable x, die in unserem
 Symbolismus vorkommt.
@@ -163,101 +164,102 @@ Symbolismus vorkommt.
 Im Hauptteil sind die axiomatischen Regeln für den elementaren Aussagekalkül nicht ausdrücklich angeführt worden; die drei
 ersten erwähnen wir hier, weil wir sie später brauchen werden:
 
-1. d>0)-(la>b)>(a>0)).
-2. (aM) >tTa.
-3. (>H>Ch> 0).
+1. (b → c) → ((a → b) → (a → c)).
+2. (a → ¬a) → ¬a.
+3. (a → b) → (¬b → ¬a).
 
 (a, b, c sind beliebige formale Sätze). Sind durch Deduktion zwei
-Formeln vom Typa > bund b — c entstanden, so können wir die
+Formeln vom Typ a → b und b → c entstanden, so können wir die
 Regel 1 und den Syllogismus anwenden, um von ihnen zu der
-Formel a— c zu gelangen. Auf dieselbe Weise können wir von
-einer Formel a — -a zu <a, und von der Implikation a — b zu der
-„inversen“ Implikation -a — Pb gelangen.
+Formel a → c zu gelangen. Auf dieselbe Weise können wir von
+einer Formel a → ¬a zu ¬a, und von der Implikation a → b zu der
+„inversen“ Implikation ¬b → ¬a gelangen.
 
 In unserem metamathematischen Schließen benützen wir die
 (wirklichen) Zahlen
 
-0,’0,”0,”'0,... &)
+0, '0, ''0, '''0, ...      (3)
 
 (auf die manchmal durch die Abkürzungen 0, 1, 2, 3,... verwiesen
 wird) und eine nichtaxiomatische Zahlentheorie, die auf der
-Möglichkeit beruht, von irgendeiner gegebenen Zahl » zur nächsten ’v fortzuschreiten. Danach führen wir Funktionen f(») und
-Eigenschaften 5 (v) durch rekursive Definitionen ein, die uns gestatten, die Werte von f(») für » = 0,1,2,3,... nacheinander
-wirklich zu berechnen, oder auf dieselbe Art für jedes v = 0, 1, 2,
-3,... zu entscheiden, ob % (») gilt oder nicht. Zum Beispiel führen
+Möglichkeit beruht, von irgendeiner gegebenen Zahl ν zur nächsten 'ν fortzuschreiten. Danach führen wir Funktionen f(ν) und
+Eigenschaften 𝔉(ν) durch rekursive Definitionen ein, die uns gestatten, die Werte von f(ν) für ν = 0, 1, 2, 3, ... nacheinander
+wirklich zu berechnen, oder auf dieselbe Art für jedes ν = 0, 1, 2,
+3, ... zu entscheiden, ob 𝔉(ν) gilt oder nicht. Zum Beispiel führen
 wir eine Funktion f durch die rekursive Definition
 
-SO=0, SW=TW
+f(0) = 0,  f('ν) = ''f(ν)
 
 [[pdf-page:0285 printed-page:284]]
 
 ein, aus der wir
 
-F0o=0, /W=23 FM)=4 FI=6..
+f(0)=0, f(1)=2, f(2)=4, f(3)=6, ...
 
 berechnen. Oder wir führen die komplementären Eigenschaften
-5 3 des gerade und ungerade ein durch einen allen Armeen der
-ganzen Welt vertrauten Vorgang, nämlich den des „Zu-ZweiAbzählens“: „O ist gerade; auf ein gerades » folgt ein ungerades 'v
-und auf ein ungerades » ein gerades ’v“. In solchen komplementären Eigenschaften $ und $ erscheinen rekursive Eigenschaften.
+𝔉, 𝔉̄ des gerade und ungerade ein durch einen allen Armeen der
+ganzen Welt vertrauten Vorgang, nämlich den des „Zu-Zwei-
+Abzählens“: „0 ist gerade; auf ein gerades ν folgt ein ungerades 'ν
+und auf ein ungerades ν ein gerades 'ν“. In solchen komplementären Eigenschaften 𝔉 und 𝔉̄ erscheinen rekursive Eigenschaften.
 
-Die intuitiv definierte Funktion f(v) muß unterschieden
-werden von der numerischen Formel x + x, die für den Augenblick kurz durch f(x) dargestellt sein möge. Ist u der Wert von
-f@) für eine gegebene Zahl », dann ist die Formel f() = u
-deduzierbar in dem Formalismus; z.B. ist wegen f(2) =4 die
-Formel ”0 + "0 ="""0 deduzierbar. Um dies allgemein zu beweisen, muß man die Formel Iz(x +'x) = "(x +x), abgekürzt I, (f(x) =}"f (&)) ableiten, die die Formel f('a) =
-’’f (a) nicht bloß für eine wirkliche, sondern für jede beliebige
-formale Zahl a liefert. Genau so ist das x-Prädikat $ (x) = 2, (x =
-(» + y)) formales Äquivalent zu der Eigenschaft % des Geradeseins. Tatsächlich ist die Formel % (») deduzierbar, wenn % (v) für
-eine gegebene Zahl » (v gerade) gilt; doch ist die Formel "5 #)
-deduzierbar, falls $ (v) (v ungerade) gilt. Unser Formalismus muß
+Die intuitiv definierte Funktion f(ν) muß unterschieden
+werden von der numerischen Formel x + x, die für den Augenblick kurz durch f(x) dargestellt sein möge. Ist μ der Wert von
+f(ν) für eine gegebene Zahl ν, dann ist die Formel f(ν) = μ
+deduzierbar in dem Formalismus; z. B. ist wegen f(2)=4 die
+Formel ''0 + ''0 = ''''0 deduzierbar. Um dies allgemein zu beweisen, muß man die Formel Πx('x + 'x) = ''(x + x), abgekürzt Πx(f('x) = ''f(x)), ableiten, die die Formel f('a) =
+''f(a) nicht bloß für eine wirkliche, sondern für jede beliebige
+formale Zahl a liefert. Genau so ist das x-Prädikat 𝔉(x) ≡ Σy(x =
+(y + y)) formales Äquivalent zu der Eigenschaft 𝔉 des Geradeseins. Tatsächlich ist die Formel 𝔉(ν) deduzierbar, wenn 𝔉(ν) für
+eine gegebene Zahl ν (ν gerade) gilt; doch ist die Formel ¬𝔉(ν)
+deduzierbar, falls 𝔉̄(ν) (ν ungerade) gilt. Unser Formalismus muß
 umfassend genug sein, die Darstellung rekursiv definierter Funktionen und Beziehungen durch numerische und faktische Formeln
-soweit zu erlauben, wie unsere Konstruktion das erfordert. Übrigens kann jede rekursive Eigenschaft % (v) in der Form einer
-Gleichung f ) = 0 geschrieben werden, wo f eine rekursiv
+soweit zu erlauben, wie unsere Konstruktion das erfordert. Übrigens kann jede rekursive Eigenschaft 𝔉(ν) in der Form einer
+Gleichung f(ν) = 0 geschrieben werden, wo f eine rekursiv
 definierte Funktion ist.
 
 Nun sind wir in der Lage genauer zu beschreiben, worin Gödels
-erstes Theorem besteht. Er konstruiert induktiv eine definite Eigenschaft % mit dem x-Prädikat F als formales Äquivalent so, daß
-keine wirkliche Zahl » die Eigenschaft % hat, solange die Formel
--%, F(x) (die die Feststellung „Keine Zahl hat die Eigenschaft”
-symbolisiert) nicht deduzierbar im Formalismus ist. Da Fo) gilt,
-ist -F(v) deduzierbar. Sei a die Abkürzung für e,F (x); beachtet
+erstes Theorem besteht. Er konstruiert induktiv eine definite Eigenschaft 𝔉 mit dem x-Prädikat F als formales Äquivalent so, daß
+keine wirkliche Zahl ν die Eigenschaft 𝔉 hat, solange die Formel
+¬ΣxF(x) (die die Feststellung „Keine Zahl hat die Eigenschaft“
+symbolisiert) nicht deduzierbar im Formalismus ist. Da 𝔉̄(ν) gilt,
+ist ¬F(ν) deduzierbar. Sei a die Abkürzung für εxF(x); beachtet
 
 [[pdf-page:0286 printed-page:285]]
 
-man, daß &,F(x) > F(a) oder "F (a) > "L,F (x) gilt, so stehen
-wir folgender Situation gegenüber: "F(v) ist immer dann deduzierbar, wenn » eine wirkliche Zahl, nämlich eine der Formen (3)
-ist; doch ist =F (a) nicht deduzierbar für eine gewisse explizit konstruierte Zahl a.
+man, daß ΣxF(x) → F(a) oder ¬F(a) → ¬ΣxF(x) gilt, so stehen
+wir folgender Situation gegenüber: ¬F(ν) ist immer dann deduzierbar, wenn ν eine wirkliche Zahl, nämlich eine der Formen (3)
+ist; doch ist ¬F(a) nicht deduzierbar für eine gewisse explizit konstruierte Zahl a.
 
-3. Die „Paradoxie‘“ kommt in Gödels Konstruktion in der
-Form des „Diagonalverfahrens‘ herein, mit welchem Cantor bewies, daß das Kontinuum nicht abzählbar ist. Cantor ersetzt eine
-reelle Zahl im Intervall (01) durch einen dualen Bruch, d. h. durch
+3. Die „Paradoxie“ kommt in Gödels Konstruktion in der
+Form des „Diagonalverfahrens“ herein, mit welchem Cantor bewies, daß das Kontinuum nicht abzählbar ist. Cantor ersetzt eine
+reelle Zahl im Intervall (0,1) durch einen dualen Bruch, d. h. durch
 eine unendliche Folge R von Nullen und Einsen:
 
-Rzryrz...r,...; (r,=0 oder l).
+R = r1 r2 ... rν ...; (rν = 0 oder 1).
 
-Die Annahme, alle derartigen „dualen Brüche‘ könnten selbst in
-einer Folge RU, R®),...,
+Die Annahme, alle derartigen „dualen Brüche“ könnten selbst in
+einer Folge R^(1), R^(2), ...,
 
-Re... (n=1,2,3,-)
+R^(μ), ... (μ = 1, 2, 3, ...)
 
 angeordnet werden, führt zu einem Widerspruch. Schreibt man sie
 tatsächlich in dieser Ordnung untereinander und nimmt die in der
 Diagonalen stehenden Ziffern und ersetzt jede 0 durch eine 1, jede
-1 durch eine 0, so erhält man eine Folge Q = g193..., die sich von
-R® in der ersten Stelle, q, # r{D, von R® in der zweiten Stelle,
-4 # r@, usw. unterscheidet, und die deshalb mit keinem der RP
+1 durch eine 0, so erhält man eine Folge Q = q1 q2 q3 ..., die sich von
+R^(1) in der ersten Stelle, q1 ≠ r1^(1), von R^(2) in der zweiten Stelle,
+q2 ≠ r2^(2), usw. unterscheidet, und die deshalb mit keinem der R^(μ)
 in der Folge zusammenfällt. Dieser Widerspruch beweist die Unmöglichkeit des Abzählens aller dualen Brüche R.
 
 Deutet man 0 und 1 als die beiden Wahrheitswerte wahr und
-falsch, so wird eine Folge wie R = rır,... äquivalent dem Prädikat
-R(x), das für eine Zahl x = v gilt, wenn r, = 0 ist, und das nicht
-gilt, wenn r, = 1 ist. Unsere gesamte Matrix r(*) aus den Nullen
+falsch, so wird eine Folge wie R = r1 r2 ... äquivalent dem Prädikat
+R(x), das für eine Zahl x = ν gilt, wenn rν = 0 ist, und das nicht
+gilt, wenn rν = 1 ist. Unsere gesamte Matrix rν^(μ) aus den Nullen
 und Einsen wird äquivalent einer binären Relation S(y, x), die
-für die Zahlen x =», y = u besteht, wenn r,(%) = 1 ist. Das Prädikat R) (x) fällt mit S (u, x) zusammen. Cantors Konstruktion
-zielt auf die Bildung des Prädikats —S (x, x) ab. Fiele es mit einem
-der Prädikate RW) (x) zusammen, etwa mit R’(&)=S(y,x),
-dann würde S(y,x) für eine Zahl x immer dann gelten, wenn
-=S (x, x) gilt, und umgekehrt. Für x = y führt dies zu dem Widerspruch, daß S(y,y) aus =S (y,y) folgt, und umgekehrt. Dies ist
+für die Zahlen x = ν, y = μ besteht, wenn rν^(μ) = 1 ist. Das Prädikat R^(μ)(x) fällt mit S(μ, x) zusammen. Cantors Konstruktion
+zielt auf die Bildung des Prädikats ¬S(x, x) ab. Fiele es mit einem
+der Prädikate R^(μ)(x) zusammen, etwa mit R^(γ)(x)=S(γ,x),
+dann würde S(γ,x) für eine Zahl x immer dann gelten, wenn
+¬S(x, x) gilt, und umgekehrt. Für x = γ führt dies zu dem Widerspruch, daß S(γ,γ) aus ¬S(γ,γ) folgt, und umgekehrt. Dies ist
 
 [[pdf-page:0287 printed-page:286]]
 
@@ -281,10 +283,10 @@ duale Bruch, seinen Platz in einer nach den Zahlen 1, 2,3,...
 geordneten Registratur finden.
 
 In dieser Form kann das Paradoxon mathematisch nicht diskutiert werden, da es sich auf die Bedeutung von Sätzen der deutschen Sprache bezieht, was natürlich eine etwas unsichere Angelegenheit ist. Doch gibt es für eine Definition bessere Mittel als
-die Sprache. Ganz am Anfang dieses Buches haben wir in $ 1 von
+die Sprache. Ganz am Anfang dieses Buches haben wir in § 1 von
 der logischen Struktur der Urteile und Urteilsfunktionen gesprochen und gesehen, daß Eigenschaften von Zahlen durch fortgesetzte kombinierte Anwendung von wenigen Prinzipien des Aufbaus definiert werden, wie sie auf den Seiten 18—19 beschrieben
-sind. Später lernten wir, daß wir den Gebrauch der Zeichen &,
-und /I, aufgeben müssen, wenn wir darauf bestehen, daß unsere
+sind. Später lernten wir, daß wir den Gebrauch der Zeichen Σx
+und Πx aufgeben müssen, wenn wir darauf bestehen, daß unsere
 Urteile eine anschaulich verifizierbare Bedeutung haben; dafür
 wird ein Definitionsprinzip durch Induktion hinzugefügt. Doch
 können wir in einem symbolischen Formalismus, in dem die Frage
@@ -292,13 +294,13 @@ können wir in einem symbolischen Formalismus, in dem die Frage
 [[pdf-page:0288 printed-page:287]]
 
 nach Bedeutung und Wahrheit nicht gestellt wird, sogar etwas
-einfügen wie Hilberts &;. Ob wir aber x-Prädikate durch einen
-systematisierten Prozeß rekursiver Definitionen (System 4), oder
+einfügen wie Hilberts εx. Ob wir aber x-Prädikate durch einen
+systematisierten Prozeß rekursiver Definitionen (System Δ), oder
 durch einen Formalismus M beschreiben, es lassen sich doch immer
 die konstruierbaren x-Prädikate aufzählen (so daß auf dieses oder
 jenes unter ihnen verwiesen ist als Eigenschaft Nr. 17 oder Eigenschaft Nr. 919). Dann bilden wir die binäre Relation mit zwei
-Variabeln S (z, x): ‚x hat die Eigenschaft Nr. z“. Richards Paradoxon ist unvermeidlich, wenn 1. die Urteile unseres Systems entscheidbar sind, und 2. die Relation S selbst konstruierbar ist. Für
-A ist die erste Annahme erfüllt, daher schließen wir, daß S nicht
+Variabeln S(z, x): „x hat die Eigenschaft Nr. z“. Richards Paradoxon ist unvermeidlich, wenn 1. die Urteile unseres Systems entscheidbar sind, und 2. die Relation S selbst konstruierbar ist. Für
+Δ ist die erste Annahme erfüllt, daher schließen wir, daß S nicht
 konstruierbar ist. In dieser Form war es wesentlich, daß ich
 Richards Paradoxon in meinem Buch „Das Kontinuum. 1918“
 diskutierte und löste. Gödel entdeckte jedoch, daß in einem Formalismus M mit genügendem Spielraum S konstruierbar ist, und
@@ -307,99 +309,82 @@ daraus schließt er, daß nicht alle Formeln aus M entscheidbar sind.
 4. Von diesen heuristischen Argumenten wollen wir uns nun
 zu einer exakten Beschreibung von Gödels Verfahren wenden.
 Bevor wir alle möglichen Formeln aufzählen können, müssen wir
-alle die Symbole mit Nummern versehen, von denen unser Formalismus H Gebrauch macht. In der folgenden Tabelle ist die Nummer * für jedes Symbol darunter geschrieben; der freigebliebene
+alle die Symbole mit Nummern versehen, von denen unser Formalismus H Gebrauch macht. In der folgenden Tabelle ist die Nummer κ für jedes Symbol darunter geschrieben; der freigebliebene
 Platz ist gedacht für einen unbegrenzten Vorrat an Variabeln.
 (Diese wesentliche Eigenschaft des Formalismus hätte uns jedenfalls gezwungen, Buchstaben als Symbole für Variable aufzugeben
-und statt dessen Buchstaben mit Indexzahlen wie etwa x, zu benützen.) Die Nummern 46, 51,... werden für Konstante und
+und statt dessen Buchstaben mit Indexzahlen wie etwa x7 zu benützen.) Die Nummern 46, 51,... werden für Konstante und
 Operatoren frei gehalten, die später unter Umständen eingeführt
 
-0,2,>,&9,=,',+,° (Konstanten und Operatoren)
-1, 6, 11, 16, 21, 26, 31, 36, 41 (Zahlen der Form 5r +1)
-x,» 2, u,... (Variable) Ir, Iy, I, Du...
-2,7,12,17,... (Zahlen 5n + 2) 3, 8, 13, 18,...(6n +3)
-IIz, IT,, IT,, IH,... Er, Ey, Ex, Eu ---
+0, ~, →, &, ∨, =, ', +, ·        (Konstanten und Operatoren)
+1, 6, 11, 16, 21, 26, 31, 36, 41 (Zahlen der Form 5n + 1)
+x, y, z, u, ... (Variable)       Σx, Σy, Σz, Σu, ...
+2, 7, 12, 17, ... (Zahlen 5n + 2)  3, 8, 13, 18, ... (5n + 3)
+Πx, Πy, Πz, Πu, ...              εx, εy, εz, εu, ...
 
-4, 9, 14, 19,...6n +4) 5,10, 15,20,...6n +5)
+4, 9, 14, 19, ... (5n + 4)       5, 10, 15, 20, ... (5n + 5)
 
 [[pdf-page:0289 printed-page:288]]
 
 werden, wenn eine Erweiterung des Formalismus erwogen wird.
-Die beiden ersten Variabeln x, » mit den Nummern 2 und 7 werden
+Die beiden ersten Variabeln x, y mit den Nummern 2 und 7 werden
 eine besondere Rolle spielen.
 
 Eine Formel ist ein „Stammbaum“ von Symbolen, wobei auf
-jedes Symbol unmittelbar höchstens zwei „Abkömmlinge‘ folgen.
+jedes Symbol unmittelbar höchstens zwei „Abkömmlinge“ folgen.
 In Übereinstimmung mit dem Platonischen Diagramm auf Seite 74
 können wir daher die einzelnen Stellen des Stammbaums mit
 „Zahlzeichen“, d. h. mit endlichen Folgen von Nullen und Einsen
 markieren, die mit einer 1 beginnen. Die Spitze trägt die Marke 1,
 und die Markierung wird durch den ganzen Stammbaum nach der
 
-| N (für einen bzw. für zwei Abkömmlinge)
-
-io io il
+[Figur: i wird bei einem Abkömmling zu i0, bei zwei Abkömmlingen
+zu i0 und i1; für einen bzw. für zwei Abkömmlinge.]
 Regel der nebenstehenden Figur fortgesetzt. Wie Platon deuten
 wir ein „Zahlzeichen“
 
-ier,..r, (r=ljr,...,r,=0 oder !)
+i = r1 ... rh    (r1 = 1; r2, ..., rh = 0 oder 1)
 als die dyadische Darstellung der Zahl
 
-ier, 2 t4r,20?r Hr.
-So besteht die Beschreibung der Formel darin, für jede Stellenmarke i ihres Stammbaums die Bezeichnung #; des Symbols zu
-
+i = r1 · 2^(h−1) + r2 · 2^(h−2) + ... + rh.
+So besteht die Beschreibung der Formel darin, für jede Stellenmarke i ihres Stammbaums die Bezeichnung κi des Symbols zu
 geben, das diese Stelle einnimmt.
 
 Nimmt man zum Beispiel die einfache Formel
 
-"((0+x)=y) a
-(oder abgekürzt 1 +x#y).
+~(('0 + x) = y)        (4)
+(oder abgekürzt 1 + x ≠ y).
 Das Skelett des Stammbaums ist hier abgedruckt; einmal sind
 seine Stellen mit den Zahlzeichen i markiert und daneben mit den
 entsprechenden Nummern i in der üblichen Dezimalschreibweise.
 
-r
-
-Betrachtet man die Numerierungen # der Symbole 0, », =, ’,
-
-m 1 1
-
-| | |
-
-—_ 10 2
-AN an AN
-+ y 100 101 45
-
-AN an IN
-
-= x 1000 1001 9
-
-| |
-0 10000 16
+[Diagramm: Stammbaum der Formel (4), im Druck einmal mit den
+Zahlzeichen 1, 10, 100, ... und daneben mit den dezimalen
+Stellenmarken 1, 2, 4, ... beschriftet.]
 
 [[pdf-page:0290 printed-page:289]]
 
-+,x,y in unserer Tabelle, so finden wir die folgende Liste der x
+Betrachtet man die Numerierungen κ der Symbole 0, ~, =, ', +, x, y in unserer Tabelle, so finden wir die folgende Liste der κ
 für diese Formel (4), wodurch sie vollständig charakterisiert ist:
 
-21 =6,%=26,2x4=36,%5=T,%g8=31,%=2,%16=1-
+κ1 = 6, κ2 = 26, κ4 = 36, κ5 = 7, κ8 = 31, κ9 = 2, κ16 = 1.
 
-Nun seien 7,, 77,,... die Primzahlen in ihrer natürlichen Ordnung,
+Nun seien π1, π2, ... die Primzahlen in ihrer natürlichen Ordnung,
 
-9 =2,7%,=3,03=5,n4=1,....
+π1 = 2, π2 = 3, π3 = 5, π4 = 7, ....
 
 (Nach Euklid ist die Folge unendlich.) Dem Formelstammbaum,
-in welchem die Stelle i mit der Symbolnumerierung x; versehen ist,
+in welchem die Stelle i mit der Symbolnumerierung κi versehen ist,
 ordnen wir die Zahl (Charakteristik)
 
-v=In‘ (5)
+ν = Πiπi^κi        (5)
 
 zu; das Produkt erstreckt sich über die einzelnen Stellenmarken i
 des Stammbaums. Zum Beispiel ist die Charakteristik der Formel (4)
 
-nönzonznıns'nzn!, oder 2°-326.736.117-.19°1.232.53
+π1^6 π2^26 π4^36 π5^7 π8^31 π9^2 π16^1, oder 2^6 · 3^26 · 7^36 · 11^7 · 19^31 · 23^2 · 53
 
 (und das ist schon eine gewaltige Zahl!). Da die Zerlegung einer
-Zahl in ihre Primfaktoren eindeutig ist, haben verschiedene Formeln verschiedene Charakteristiken, und für eine gegebene Zahl v
+Zahl in ihre Primfaktoren eindeutig ist, haben verschiedene Formeln verschiedene Charakteristiken, und für eine gegebene Zahl ν
 können wir eindeutig bestimmen, 1. ob sie einer Formel entspricht
 und 2. wenn ja, was das für eine Formel ist.
 
@@ -407,13 +392,13 @@ Liest man das Schema P einer Deduktion in der Richtung vom
 Schluß zu den Voraussetzungen, so ist das ein Stammbaum von
 (geschlossenen faktischen) Formeln: ein jedes Glied c des Stammbaums hat entweder keinen direkten Abkömmling, dann ist
 es ein Axiom; oder es hat deren zwei, einen Minor und einen
-Major, und ist der Minor 5, dann gilt für den Major 5 c. Die
+Major, und ist der Minor b, dann gilt für den Major b → c. Die
 Formel an der Spitze ist die aus dem Schema abgeleitete. Ist nun
-jede denkbare Formel mit einer Zahl » charakterisiert, so können
+jede denkbare Formel mit einer Zahl ν charakterisiert, so können
 wir wiederum das Prinzip anwenden, worauf die Formation (5)
 der Charakteristik eines Symbolstammbaums fußt, und somit die
-charakteristische Zahl u einer Deduktion P durch das Produkt
-II;n} bestimmen, wo v; die Nummer der Formel ist, die die mit ö
+charakteristische Zahl μ einer Deduktion P durch das Produkt
+Πiπi^νi bestimmen, wo νi die Nummer der Formel ist, die die mit i
 
 [[pdf-page:0291 printed-page:290]]
 
@@ -429,35 +414,35 @@ mit der Swift Scherz trieb, wurde von Gödel zum Zwecke des
 metamathematischen Studiums eines gegebenen mathematischen
 Formalismus benützt.
 
-Ist v eine Zahl der Formeln (3), explizit ausgeschrieben, und ist
-udie Zahl eines x-Prädikates F (x), dann bezeichnen wir mit3 (u, v)
-die Nummer der Formel F (v); ist # jedoch nicht die Zahl eines
-x-Prädikates, dann setzen wir 3 („,») =0. Die Formel F ®)
-entsteht natürlich aus F (x) durch Ersetzen von x durch die Zahl »,
-wo immer x frei in F vorkommt. Diese Funktion 3 von zwei willkürlichen Zahlen «,» kann durch Induktion definiert werden.
-Tatsache ist, daß wir in dem Formalismus 7 eine numerische
+Ist ν eine Zahl der Formeln (3), explizit ausgeschrieben, und ist
+μ die Zahl eines x-Prädikates F(x), dann bezeichnen wir mit 𝔰(μ, ν)
+die Nummer der Formel F(ν); ist μ jedoch nicht die Zahl eines
+x-Prädikates, dann setzen wir 𝔰(μ,ν) = 0. Die Formel F(ν)
+entsteht natürlich aus F(x) durch Ersetzen von x durch die Zahl ν,
+wo immer x frei in F vorkommt. Diese Funktion 𝔰 von zwei willkürlichen Zahlen μ,ν kann durch Induktion definiert werden.
+Tatsache ist, daß wir in dem Formalismus H eine numerische
 Formel s (z, x) mit den beiden freien Variabeln x, z konstruieren
-können, die das formale Gegenstück zu 3 im vorher beschriebenen
-Sinne ist: sind # und » zwei beliebige wirkliche Zahlen und ist
-%(u,»v) gleich x, dann ist die Formel s (u, v) = x deduzierbar.
-t und 1 (z, y) haben die entsprechende Bedeutung für y-Prädikate:
-ist A die Zahl irgend eines gegebenen y-Prädikats F(y), so ist
-t (A, ») = x die Nummer von F (v), und die Gleichung i (A, v) = x
+können, die das formale Gegenstück zu 𝔰 im vorher beschriebenen
+Sinne ist: sind μ und ν zwei beliebige wirkliche Zahlen und ist
+𝔰(μ,ν) gleich κ, dann ist die Formel s(μ, ν) = κ deduzierbar.
+𝔱 und t(z, y) haben die entsprechende Bedeutung für y-Prädikate:
+ist λ die Zahl irgend eines gegebenen y-Prädikats F(y), so ist
+𝔱(λ, ν) = κ die Nummer von F(ν), und die Gleichung t(λ, ν) = κ
 ist unter diesen Umständen deduzierbar.
 
-Sind u,» zwei beliebige Zahlen, so können wir entscheiden,
-ob v die Charakteristik einer formalen Aussage a und u die Charakteristik eines Deduktionsschemas P ist, dessen Spitzenformel a ist.
-Es bezeichne # (w, v) (lies: das Schema Nr. u ist die Deduktion der
-Formel Nr. ») diese Beziehung zwischen zwei beliebigen Zahlen
-und », und ®(u,») die komplementäre Beziehung. 9 und ®
+Sind μ, ν zwei beliebige Zahlen, so können wir entscheiden,
+ob ν die Charakteristik einer formalen Aussage a und μ die Charakteristik eines Deduktionsschemas P ist, dessen Spitzenformel a ist.
+Es bezeichne ϑ(μ, ν) (lies: das Schema Nr. μ ist die Deduktion der
+Formel Nr. ν) diese Beziehung zwischen zwei beliebigen Zahlen
+μ und ν, und ϑ̄(μ,ν) die komplementäre Beziehung. ϑ und ϑ̄
 können durch Rekursion definiert werden. Der Formalismus H
-läßt nun eine Darstellung von ® durch eine Formel D (y, x) mit
-zwei freien Variabeln x und y zu: immer wenn u und » Zahlen sind,
+läßt nun eine Darstellung von ϑ durch eine Formel D(y, x) mit
+zwei freien Variabeln x und y zu: immer wenn μ und ν Zahlen sind,
 
 [[pdf-page:0292 printed-page:291]]
 
-für die # (u, ») gilt, ist die Formel D (u, ») deduzierbar; immer,
-wenn Ö (u, ») gilt, ist -D (u, v) deduzierbar.
+für die ϑ(μ, ν) gilt, ist die Formel D(μ, ν) deduzierbar; immer,
+wenn ϑ̄(μ, ν) gilt, ist ¬D(μ, ν) deduzierbar.
 
 Die Konstruktion der beiden Formeln s(z,x) und D(y,x)
 erfordert peinlich genaue, fleißige und etwas mühsame Kleinarbeit, ist aber keine besonders schwierige Aufgabe.
@@ -468,65 +453,65 @@ S(z, x) mit den beiden freien Variabeln x und z so, daß für jede
 beliebige formale Zahl a und jedes beliebige x-Prädikat F (x) die
 Formeln
 
-F(a)>S(o,a), S(P,a)>F (a) (6)
+F(a) → S(φ,a),   S(φ,a) → F(a)        (6)
 
-deduzierbar wären, wobei @ die Nummer der Formel F(x) bezeichnet, dann wäre das System sicher widersprüchlich. Das hier
+deduzierbar wären, wobei φ die Nummer der Formel F(x) bezeichnet, dann wäre das System sicher widersprüchlich. Das hier
 konstruierte s ist nicht zweckentsprechend aus dem einfachen
-Grunde, weil s (u, v) eine numerische und nicht etwa eine faktische
-Formel ist. Aber es ist klar, wie man weiterkommt: S (u, v) müßte
-für die Feststellung stehen, daß die Formel mit der Nummer s (u, »)
+Grunde, weil s(μ, ν) eine numerische und nicht etwa eine faktische
+Formel ist. Aber es ist klar, wie man weiterkommt: S(μ, ν) müßte
+für die Feststellung stehen, daß die Formel mit der Nummer s(μ, ν)
 wahr ist. Deutet man hier Wahrheit als Deduzierbarkeit, so gelangt man zu folgender Definition von S inunserem Formalismus:
 
-S(z,x)=2,D(y,s(2,*)).
+S(z,x) ≡ ΣyD(y,s(z,x)).
 
 Eine Aufgabe für die weitere Untersuchung ist, das Ausmaß abzugrenzen, bis zu dem Formeln wie (6) für dieses S deduzierbar
 sind.
 
 Nach diesen Zwischenbemerkungen nehmen wir unsere systematische Darlegung wieder auf. Bilden wir einmal das x-Prädikat
-=8(&,x), d.h.
+¬S(x,x), d. h.
 
-"2,D(y,5& %)),
+¬ΣyD(y,s(x,x)),
 
-und berechnen seine Charakteristik y (eine Zahl von phantastischer Größe!). Ersetzen wir in dieser Formel mit der Charakteristik y das x durch die Zahl y, so erhalten wir die Formel
+und berechnen seine Charakteristik γ (eine Zahl von phantastischer Größe!). Ersetzen wir in dieser Formel mit der Charakteristik γ das x durch die Zahl γ, so erhalten wir die Formel
 
-"2,D (y,s(y,Y)) (M
+¬ΣyD(y,s(γ,γ))        (7)
 
 [[pdf-page:0293 printed-page:292]]
 
-mit der Nummer 3(y,y) = f, und nun kann man sagen, die
+mit der Nummer 𝔰(γ,γ) = β, und nun kann man sagen, die
 Formel (7) stelle ihre eigene Unwahrheit fest.
 
-Hier erinnert man sich an das klassische Lügnerparadoxon!).
-Seine trockenste Form ist der Satz: „Diese Feststellung (die Feststellung, die ich eben mache) ist falsch‘. Unser Formalismus be-
+Hier erinnert man sich an das klassische Lügnerparadoxon¹).
+Seine trockenste Form ist der Satz: „Diese Feststellung (die Feststellung, die ich eben mache) ist falsch“. Unser Formalismus be-
 
-1) Eubulides ist nach des Diogenes Laertius’ Zeugnis der Erfinder dieses
+¹) Eubulides ist nach des Diogenes Laertius’ Zeugnis der Erfinder dieses
 Paradoxons. Aristoteles beschreibt es und gibt dazu seine eigene Lösung in
 Soph. Elench., 25, 180a, 35ff. Von den antiken Formulierungen, die uns
 überliefert sind, erwähne ich Cicero, Academica, II, 29: „Si te mentiri dicis
 idque verum dicis, mentiris an verum dicis ?“; ferner Alexander Aphrodisiensis
 (um 200 n. Chr.) ad Soph. Elench., Aldina f. 54r. (M. Wallies, Comm. in
-Arist. Graeca, Vol. II, Teil II, Berlin 1898, S. 171, 1.18): dAAa uw ö Aeywv
-“Eyo yeddouaı” ya xal yevdera: xal dAmdedeı. Von Athenaeus, Deipnosophists, IX, 401e, stammt ein Distichon, das dem Dichter Philitas von Kos
-(Theokrits Lehrer) gewidmet ist, der angeblich bei seinen vergeblichen Versuchen, das Paradoxon zu lösen, getötet wurde. Der,‚Lügner“ ist der Hauptgegenstand von wenigstens sieben logischen Abhandlungen des Chrysippos.
+Arist. Graeca, Vol. II, Teil II, Berlin 1898, S. 171, 1.18): ἀλλὰ μὴν ὁ λέγων
+„ἐγὼ ψεύδομαι“ ἅμα καὶ ψεύδεται καὶ ἀληθεύει. Von Athenaeus, Deipnosophists, IX, 401e, stammt ein Distichon, das dem Dichter Philitas von Kos
+(Theokrits Lehrer) gewidmet ist, der angeblich bei seinen vergeblichen Versuchen, das Paradoxon zu lösen, getötet wurde. Der „Lügner“ ist der Hauptgegenstand von wenigstens sieben logischen Abhandlungen des Chrysippos.
 Als Gouverneur der Insel Barataria steht Sancho Pansa einem Problem vom
 Lügner-Typ gegenüber, und seine salomonische Weisheit findet eine drastische Lösung (Cervantes, Don Quixote, II, 23. Kapitel). Eine eingehende Geschichte des Lügner-Paradoxons findet sich bei Alexander Rüstow, Der Lügner, Leipzig 1910. Eine ähnliche, doch nicht so scharf herausgearbeitete Form
-des „„‚Epimenides“ stammt aus der christlichen Ära: Paulus warnt den Titus,
+des „Epimenides“ stammt aus der christlichen Ära: Paulus warnt den Titus,
 den er zu den Kretern zur Verkündigung des Evangeliums sendet (Brief an
-Titus 1, 12): „‚Es hat einer aus ihnen gesagt, ihr eigener Prophet:
+Titus 1, 12): „Es hat einer aus ihnen gesagt, ihr eigener Prophet:
 
-Koijteg del yedorau, naxd Öngıd, yaoreges dpyal.
+Κρῆτες ἀεὶ ψεῦσται, κακὰ θηρία, γαστέρες ἀργαί.
 
 „Die Kreter sind immer Lügner, böse Tiere und faule Bäuche“, und ohne
 Verständnis für die Antinomie fügt Paulus hinzu: „Dies Zeugnis ist wahr“.
 Die frühe Tradition der Kirchenväter (Clemens Alexandrinus, Stromata, I, 59,
-Ed. Stählin, Leipzig 1906, II, S. 37) identifiziert den „‚Propheten‘ mit Epimenides (s. Diels, Fragmente der Vorsokratiker, 4. Aufl., II, Berlin 1922,
-Epimenides Fr. 1, S. 188-—189), und nichts anderes ist es, wenn jemand wie
-Clement oder Jerome, in „‚heidnischer‘‘ Dialektik ausgebildet, das LügnerParadoxon mit des Paulus Herabsetzung der Kreter verknüpft. Jedoch
+Ed. Stählin, Leipzig 1906, II, S. 37) identifiziert den „Propheten“ mit Epimenides (s. Diels, Fragmente der Vorsokratiker, 4. Aufl., II, Berlin 1922,
+Epimenides Fr. 1, S. 188—189), und nichts anderes ist es, wenn jemand wie
+Clement oder Jerome, in „heidnischer“ Dialektik ausgebildet, das Lügner-Paradoxon mit des Paulus Herabsetzung der Kreter verknüpft. Jedoch
 scheint kein früherer Hinweis als der in dem Brief des Angelus Politianus
 (1454—1494) an Manutium (Opera omnia, Basel 1553, S. 91) bekannt zu
 sein. Phocylides (um 530 v. Chr.) wird von Strabo, Geography, 10.487 als
 der Autor der folgenden Aussage erwähnt, die dem lügenden Kreter ähnelt,
-doch die scharfe Ecke des Paradoxons abstumpft: ‚Die Lerianer sind böse
+doch die scharfe Ecke des Paradoxons abstumpft: „Die Lerianer sind böse
 Leute; nicht bloß dieser oder jener, sondern alle ausgenommen Proclees;
 und Proclees ist ein Lerianer“. Eine Abwandlung dahin, daß die Lerianer
 durch die Einwohner von Chios ersetzt sind, wird dem Demodocus in Anth.
@@ -536,77 +521,77 @@ Pal., 11.235 zugeschrieben, ohne daß wir wissen mit welchem Recht.
 
 fähigt uns, ähnlich der Sprache die Wahrheit eines Satzes (hier
 einer Formel) durch einen Satz (eine Formel) festzustellen. Tatsächlich können wir für jede geschlossene Formel a die Form
-Z,D (y, a) aufstellen. Überdies hängt das Lügnerparadoxon von
-den Demonstrativwörtern „Dies“, „Ich“, Jetzt‘ ab, durch welche
+ΣyD(y, a) aufstellen. Überdies hängt das Lügnerparadoxon von
+den Demonstrativwörtern „Dies“, „Ich“, „Jetzt“ ab, durch welche
 die Bedeutung des Satzes erlischt („cassatio“ in der Terminologie
 des Paulus Venetus). Hier wird dieser Antinomie-Charakter durch
-Cantors Diagonalverfahren aufgedeckt. Doch passiert nichts: y
-und sind bestimmte Zahlen, deren Berechnung vollkommen klar
+Cantors Diagonalverfahren aufgedeckt. Doch passiert nichts: γ
+und β sind bestimmte Zahlen, deren Berechnung vollkommen klar
 und unzweideutig beschrieben ist.
 
-F(y) = D(y,5(y, y)) ist das formale Gegenstück zu (u) = 9 (u,ß).
-Ist nämlich u eine beliebige Zahl, für die ® (u, ß) gilt, dann ist D (u, )
-deduzierbar. Überdies ist ß = s(y,y) deduzierbar. Damit liefert das
+F(y) ≡ D(y,s(γ,y)) ist das formale Gegenstück zu 𝔉(μ) = ϑ(μ,β).
+Ist nämlich μ eine beliebige Zahl, für die ϑ(μ, β) gilt, dann ist D(μ, β)
+deduzierbar. Überdies ist β = s(γ,γ) deduzierbar. Damit liefert das
 folgende Beispiel der axiomatischen Regel (1)
 
-B=sY,Y))>{D (u M>D (5, Y)}
+(β = s(γ,γ)) → {D(μ, β) → D(μ, s(γ, γ))}
 
-in zwei syllogistischen Schritten die Formel D (u, s (y, y)). Aus ähnlichen
-Gründen ist D (u, s (9, y)) deduzierbar, wenn 9 (u, ß) gilt. Wie früher
-angekündigt, zeigen wir zweierlei: 1) die Formel -&,F(y) ist nicht
-deduzierbar; 2) wenn u eine beliebige gegebene Zahl ist, dann gilt $ (u).
+in zwei syllogistischen Schritten die Formel D(μ, s(γ, γ)). Aus ähnlichen
+Gründen ist ¬D(μ, s(γ, γ)) deduzierbar, wenn ϑ̄(μ, β) gilt. Wie früher
+angekündigt, zeigen wir zweierlei: 1) die Formel ¬ΣyF(y) ist nicht
+deduzierbar; 2) wenn μ eine beliebige gegebene Zahl ist, dann gilt 𝔉̄(μ).
 Der Beweis hängt von einer Annahme und einer Tatsache ab: (A) der
 Formalismus ist widerspruchsfrei; (B) er ist umfassend genug, uns mit
-formalen Gegenstücken s und D der Funktion 8 (u, v) und der Relation
-(u, v) auszustatten.
+formalen Gegenstücken s und D der Funktion 𝔰(μ, ν) und der Relation
+ϑ(μ, ν) auszustatten.
 
 Der Beweis für 1) ist indirekt. Angenommen wir hätten die Formel
-(7) mit der charakteristischen Zahl ß deduziert; dann hätten wir eine
-definite Zahl u so, daß # (u, ß) gilt. Deshalb sind D (u, ß) und # (u,
-s(y,y)) deduzierbar. Doch gilt
+(7) mit der charakteristischen Zahl β deduziert; dann hätten wir eine
+definite Zahl μ so, daß ϑ(μ, β) gilt. Deshalb sind D(μ, β) und D(μ,
+s(γ,γ)) deduzierbar. Doch gilt
 
-D (ws, Y))>2,D (y,5(,7))
+D(μ, s(γ,γ)) → ΣyD(y,s(γ,γ))
 
-nach der allgemeinen axiomatischen Regel A (b) > &,4 (y). Folglich
-haben wir die Formel 2,D (y, s (y, Y)) ebenso wie (7) deduziert, und das
+nach der allgemeinen axiomatischen Regel A(b) → ΣyA(y). Folglich
+haben wir die Formel ΣyD(y, s(γ, γ)) ebenso wie (7) deduziert, und das
 führt auf einen offensichtlichen Widerspruch.
 
-Ist u eine beliebige Zahl, so gilt 9 (u, $) nicht. Gälte es nämlich, so
-hätten wir eine wirkliche Deduktion der Formel (7), deren charakteristische Zahl ß ist — im Widerspruch zu dem unter 1) Bewiesenen.
-Folglich gilt 9 (u, ß).
+Ist μ eine beliebige Zahl, so gilt ϑ(μ, β) nicht. Gälte es nämlich, so
+hätten wir eine wirkliche Deduktion der Formel (7), deren charakteristische Zahl β ist — im Widerspruch zu dem unter 1) Bewiesenen.
+Folglich gilt ϑ̄(μ, β).
 
 [[pdf-page:0295 printed-page:294]]
 
 Damit ist Gödels erstes Theorem bewiesen. Das zweite ergibt sich
 aus ihm durch die Bemerkung, daß die Schlußweise, mit der wir das
-erste Theorem bewiesen haben, in eine formale Deduktion umgewandeit
+erste Theorem bewiesen haben, in eine formale Deduktion umgewandelt
 werden kann. Die exakte Formulierung des Theorems muß von einer
-Abkürzung ‚neg‘ Gebrauch machen, die die Negation - arithmetisiert.
-Ist v die Nummer einer faktischen Formel, dann setzen wir neg () = 0.
+Abkürzung „neg“ Gebrauch machen, die die Negation ¬ arithmetisiert.
+Ist ν nicht die Nummer einer faktischen Formel, dann setzen wir neg(ν) = 0.
 Die so definierte arithmetische Funktion neg hat ihr formales Gegenstück neg. Die Widerspruchsfreiheit kann nun durch die folgende, eine
-willkürliche formale Zahl enthaltende Formel 2(b) ausgedrückt
+willkürliche formale Zahl enthaltende Formel Ω(b) ausgedrückt
 werden:
 
-2,D(y,b)>"2,D(y‚negb).
+ΣyD(y,b) → ¬ΣyD(y, neg b).
 
 Dann behaupten wir: Ist der Formalismus wirklich widerspruchsfrei,
-d.h. kann die Formel (0 = 0) nicht deduziert werden, so können wir
-ein definites Beispiel der Formel für die Widerspruchslosigkeit 2 (b) aufweisen, das nicht deduzierbar ist.
+d. h. kann die Formel ¬(0 = 0) nicht deduziert werden, so können wir
+ein definites Beispiel der Formel für die Widerspruchslosigkeit Ω(b) aufweisen, das nicht deduzierbar ist.
 
 Aus unserem Argument soll auch klar hervorgehen, welches dieses
-besondere Beispiel ist. Sei p die Zahl des y-Prädikats D (y, sy, Y)) und
-a eine Abkürzung für e, D(y,s(y,y)). Dann wählen wir für b die
-Formel ?(g, a). Hier sollen nun nicht die verschiedenen Schritte des
+besondere Beispiel ist. Sei φ die Zahl des y-Prädikats D(y, s(γ, y)) und
+a eine Abkürzung für εyD(y,s(γ,y)). Dann wählen wir für b die
+Formel t(φ, a). Hier sollen nun nicht die verschiedenen Schritte des
 Einwandes durchgegangen werden. Es läuft auf eine Beschreibung eines
-definiten Prozesses hinaus, durch welchen eine (hypothetische) Deduktion eines spezifischen Beispiels 2 (b) der Formel der Widerspruchsfreiheit in eine Deduktion von "(0 = 0), d.h. eines wirklichen Widerspruchs
+definiten Prozesses hinaus, durch welchen eine (hypothetische) Deduktion eines spezifischen Beispiels Ω(b) der Formel der Widerspruchsfreiheit in eine Deduktion von ¬(0 = 0), d. h. eines wirklichen Widerspruchs
 transformiert werden kann.
 
 5. Da Gödel uns wenig Hoffnung gelassen hat, daß durch einen
 Beweis der Widerspruchsfreiheit ein Formalismus geliefert werden
 kann, der umfassend genug ist, die klassische Mathematik zu umschließen, so gewinnen die vor Hilbert ohne solche ehrgeizigen
 Träume entwickelten axiomatischen Systeme erneutes Interesse.
-Hier wurden die logischen Termini „nicht“ —, „falls..., dann...“
-—, „es gibt‘ &, usw. noch in ihrer Bedeutung verstanden, und die
+Hier wurden die logischen Termini „nicht“ ¬, „falls..., dann...“
+→, „es gibt“ Σx usw. noch in ihrer Bedeutung verstanden, und die
 Deduktion geschah durch jene Art der transzendentalen Logik,
 auf die man sich gewöhnlich in Geometrie und Analysis verläßt,
 mit Einschluß des freien Gebrauchs von „es existiert“ und „alle“
@@ -618,19 +603,19 @@ und Frege in der Begründung der Arithmetik auf der Mengen-
 [[pdf-page:0296 printed-page:295]]
 
 theorie zu folgen, führte man keine arithmetischen Axiome ein.
-Das gesamte Interesse wurde auf die grundlegende mengentheoretische Relation xey, „x ist ein Element der Menge y“ gerichtet.
+Das gesamte Interesse wurde auf die grundlegende mengentheoretische Relation x∈y, „x ist ein Element der Menge y“ gerichtet.
 Die Annahme, daß jeder wohldefinierten Eigenschaft F(x) eine
-Menge 9 so entspricht, daß xep dann und nur dann gilt, wenn x
+Menge φ so entspricht, daß x∈φ dann und nur dann gilt, wenn x
 die Eigenschaft F hat,
 
-F(x)>(&e9),(xep)>F (x) für alle x, (8)
+F(x) → (x ∈ φ),   (x ∈ φ) → F(x) für alle x,        (8)
 
 führt zu einem formalen Widerspruch (vgl. S. 81). Schreibt man
-nämlich S (y, x) anstatt xey, so werden die Formeln (8) identisch
-mit (6), außer für den Fall, daß nun die Menge @ nicht als wirkliche Zahl, oder als durch eine solche darstellbar angenommen
+nämlich S(y, x) anstatt x∈y, so werden die Formeln (8) identisch
+mit (6), außer für den Fall, daß nun die Menge φ nicht als wirkliche Zahl, oder als durch eine solche darstellbar angenommen
 wird. Wir sind vertraut mit der Konstruktion, durch welche ein
-Widerspruch entsteht: Man setzt“"(xex) für F(x) und ersetzt x
-durch p. Das ist Russells Paradoxon der „Menge aller Mengen,
+Widerspruch entsteht: Man setzt ¬(x∈x) für F(x) und ersetzt x
+durch φ. Das ist Russells Paradoxon der „Menge aller Mengen,
 die sich nicht selbst als Elemente enthalten“.
 
 Daher muß bei der Umwandlung von Eigenschaften in Mengen
@@ -642,41 +627,41 @@ wird die dahinter steckende Krankheit weder erforscht noch angegriffen. Das wich
 von Neumann, Bernays und anderen verbessert worden ist. Die
 Zahlentheorie, die klassische Analysis, und sogar Cantors allgemeine Mengenlehre können darauf aufgebaut werden. Zermelos
 Axiome behandeln nur eine, Elemente oder Mengen genannte
-Kategorie von Objekten, und eine Grundrelation xey. Der Grundgedanke ist folgender: anstatt Eigenschaften für die Definition von
+Kategorie von Objekten, und eine Grundrelation x∈y. Der Grundgedanke ist folgender: anstatt Eigenschaften für die Definition von
 Mengen zu benützen, benützt man sie nur, um eine Untermenge
 aus einer gegebenen Menge herauszuschneiden. Daraus folgt sein
 Auswahlaxiom: „Gegeben eine wohldefinierte Eigenschaft B und
-ein Element a; es gibt ein Element 5 so, daß xeb dann und nur
+ein Element a; es gibt ein Element b so, daß x∈b dann und nur
 dann, wenn x in a enthalten ist und gleichzeitig die Eigenschaft
-Bhat“,
+B hat“.
 
 [[pdf-page:0297 printed-page:296]]
 
 Der darin eingehende Begriff einer wohldefinierten Eigenschaft
 ist etwas gewagt. Doch wissen wir, daß wir ihn scharf prägen
 können, indem wir durch aufeinanderfolgende kombinierte Anwendung einiger elementarer Konstruktionsprozesse Eigenschaften aufbauen. Statt zu sagen, x habe die Eigenschaft A, wollen
-wir sagen, x sei ein Glied der Klasse A, xe A. So unterscheiden
+wir sagen, x sei ein Glied der Klasse A, x∈A. So unterscheiden
 wir zwischen Elementen oder Mengen einerseits und Klassen
 andererseits und formulieren die Axiome mit den Ausdrücken
 zweier undefinierter Kategorien von Objekten, den Elementen und
 Klassen. Da wir postulieren, daß zwei Elemente a, b identisch
-sind, wenn xe b aus xe a und umgekehrt folgt, und da jedes Element a mit der Klasse A aller Elemente x, die der Bedingung xe a
+sind, wenn x∈b aus x∈a und umgekehrt folgt, und da jedes Element a mit der Klasse A aller Elemente x, die der Bedingung x∈a
 genügen, verknüpft ist, sind wir dazu berechtigt, a mit jener Klasse
-4 zu identifizieren. Dann ist jedes Element eine Klasse, und die
-Axiome behandeln eine undefinierte Grundrelation xe Y, „das
-Element x gehört der Klasse Y an“, das Zermelos Beziehung x e y
+A zu identifizieren. Dann ist jedes Element eine Klasse, und die
+Axiome behandeln eine undefinierte Grundrelation x∈Y, „das
+Element x gehört der Klasse Y an“, das Zermelos Beziehung x∈y
 zwischen Elementen abgelöst hat. Die Prinzipien für den Aufbau
-von Eigenschaften werden durch entsprechende Axiome für Klassen ersetzt. Beispiel: Gegeben zwei Klassen A und B; dann existiert eine Klasse C so, daß immer xe C, wenn (xe A) v (xeB),
+von Eigenschaften werden durch entsprechende Axiome für Klassen ersetzt. Beispiel: Gegeben zwei Klassen A und B; dann existiert eine Klasse C so, daß immer x∈C, wenn (x∈A) ∨ (x∈B),
 und umgekehrt.
 
 Da das Auswahlaxiom aus einer gegebenen Menge nur kleinere
 Mengen erzeugen kann, brauchen wir einen Weg, der uns in die
 entgegengesetzte Richtung führt. Daher werden zwei Axiome hinzugefügt, die die Existenz der Menge aller Untermengen einer gegebenen Menge und die Zusammensetzung einer gegebenen Menge
-aus Mengen gewährleistet. Wesentlich ist, daß sie auf Mengen=
+aus Mengen gewährleistet. Wesentlich ist, daß sie auf Mengen =
 Elemente beschränkt und nicht auf Klassen angewendet werden.
 
 Durch die Einführung der Klassen nehmen die Axiome denselben selbständigen Charakter an wie etwa die Axiome der Geometrie. Allgemeine Begriffe wie „eine beliebige wohldefinierte
-Eigenschaft‘ kommen nun nicht mehr von außen her in das
+Eigenschaft“ kommen nun nicht mehr von außen her in das
 Axiomensystem herein. Eine vollständige Tabelle der Axiome für
 dieses System Z, wie wir es nennen wollen, findet sich auf den ersten
 Seiten von Gödels Monographie Consistency of the Continuum
@@ -687,12 +672,12 @@ Aufnahme in die Gesellschaft der ordentlichen Mengen ausge-
 
 schlossen, und auf diese Weise wird das Unheil der Paradoxien
 abgewendet. Noch vor der Jahrhundertwende hat sich Cantor
-selbst in der gleichen Richtung bewegt, als er „‚konsistente Klassen“
-=: Mengen und inkonsistente Klassen unterschied.
+selbst in der gleichen Richtung bewegt, als er „konsistente Klassen“
+= Mengen und inkonsistente Klassen unterschied.
 
 Das System Z scheint die adäquateste Basis dessen zu sein, was
 in der heutigen Mathematik wirklich geschieht. Insbesondere kann
-daraus die „existentielle‘“ Dedekind-Fregesche Zahlentheorie hergeleitet werden (Zermelo), und Gödel konnte zeigen (a. a. O.), daß
+daraus die „existentielle“ Dedekind-Fregesche Zahlentheorie hergeleitet werden (Zermelo), und Gödel konnte zeigen (a. a. O.), daß
 Zermelos weitreichendes Auswahlaxiom in sehr scharfer Form
 widerspruchsfrei ist zu den andern Axiomen von Z (unter der
 Voraussetzung, daß diese widerspruchsfrei sind!).
@@ -705,18 +690,18 @@ die der gegebenen Eigenschaft A(x) entspricht, keine Zahl ist,
 oder wenigstens nicht als solche angenommen wird. Russell läßt
 daher eine infinite Folge von Typen zu: die erste Type besteht aus
 den primären Objekten, das sind die Zahlen, die zweite aus den
-Zahleneigenschaften, die dritte aus den Eigenschaften der Zahleneigenschaften, usw. Diese Typen müssen auseinandergehalten werden, und die Relation x;e x;, | verknüpft ein beliebiges Element
-x; der Type i mit einem der nächsthöheren Type i + 1, etwa X
-Dadurch wird die Bildung von "(x e x), die zu Russells Paradoxon
+Zahleneigenschaften, die dritte aus den Eigenschaften der Zahleneigenschaften, usw. Diese Typen müssen auseinandergehalten werden, und die Relation xi ∈ xi+1 verknüpft ein beliebiges Element
+xi der Type i mit einem der nächsthöheren Type i + 1, etwa xi+1.
+Dadurch wird die Bildung von ¬(x∈x), die zu Russells Paradoxon
 führte, verhindert. Es ist ratsam, binäre, ternäre,... Relationen
-neben den Eigenschaften zu behandeln. Eine Relation R (x, X,
-...,%n) mit n Variabeln vom gegebenen Typus 7,, Ta,..., Tn ist
-von höherem, eindeutig durch die Typen 7; bestimmten Typus
+neben den Eigenschaften zu behandeln. Eine Relation R(x1, x2,
+..., xn) mit n Variabeln vom gegebenen Typus τ1, τ2, ..., τn ist
+von höherem, eindeutig durch die Typen τi bestimmten Typus
 
-T= (1,12... 798.
+τ = {τ1, τ2, ..., τn}.
 
-Wir zeichnen das Diagramm eines Stammbaums für 7, in welchem
-Ts +++, 7m als unmittelbare Abkömmlinge von 7 erscheinen; diese
+Wir zeichnen das Diagramm eines Stammbaums für τ, in welchem
+τ1, ..., τn als unmittelbare Abkömmlinge von τ erscheinen; diese
 haben wiederum ihre eigenen Abkömmlinge, und so wird jeder
 Typus durch einen Stammbaum dargestellt, der in allen seinen
 Ästen mit dem Grundtypus (oder einem der Grundtypen, falls es
@@ -726,13 +711,13 @@ Typus durch einen Stammbaum dargestellt, der in allen seinen
 deren mehrere gibt) endet. Ein auf dieser Typenhierarchie aufgebautes Axiomensystem U ist im Prinzip in H. Weyl, „Mathematics
 and Logic“ (American Math. Monthly, 53, 1946, S. 6—7) beschrieben.
 
-Da „es gibt‘ und „alle“ ohne Zögern auf Objekte aller Typen
+Da „es gibt“ und „alle“ ohne Zögern auf Objekte aller Typen
 angewandt werden, müssen wir annehmen, daß die Objekte eines
 gegebenen Typus eine existentielle Kategorie bilden in dem Sinne,
 daß die Frage, ob ein Element in jener Kategorie von der und der
 Eigenschaft A existiere, immer einen Sinn (eine Bedeutung) hat,
 und daß ein solches Element auch existiert, oder jedes Element der
-Kategorie hat die komplementäre Eigenschaft "A. Die Elementargeometrie ist ein Gebiet, worin die primären Objekte (Punkte,
+Kategorie hat die komplementäre Eigenschaft ¬A. Die Elementargeometrie ist ein Gebiet, worin die primären Objekte (Punkte,
 Gerade, Ebenen) als gegeben und existentielle Kategorien bildend
 betrachtet werden, während die Eigenschaften und Beziehungen
 zwischen den primären Objekten aus wenigen nicht definierten
@@ -744,7 +729,7 @@ oder „Ereignissen“ zu tun haben, sondern auch mit ganzen Kategorien von Eige
 mit dem Kontinuum der Farbqualitäten. Nimmt man das System
 U realistisch als Beschreibung einer existierenden Welt, so geht
 es viel weiter in der letzteren Richtung. In dieser Welt gibt es Typen
-über Typen von Objekten, miteinander verknüpft durch &, doch
+über Typen von Objekten, miteinander verknüpft durch ∈, doch
 für sich individuell und in ihrer Gesamtheit existierend. Damit
 sind wir so weit wie möglich entfernt von Dedekinds These, die
 Zahlen seien freie Schöpfungen des konstruktiven Intellekts; auch
@@ -753,7 +738,7 @@ Zurückführung der Mathematik auf die Logik ist der Leitgedanke
 in dem Russell-Whiteheadschen Unternehmen der Principia Mathematica gewesen), vielmehr auf eine Art Logikerparadies, nämlich
 auf ein Universum, das mit „endgültigem Mobiliar“ von ziemlich
 komplexer Struktur ausgestattet und von einer ganzen Anzahl
-radikaler Ausschlußaxiome regiert ist, Die Motive sind klar, doch
+radikaler Ausschlußaxiome regiert ist. Die Motive sind klar, doch
 
 [[pdf-page:0300 printed-page:299]]
 
@@ -772,9 +757,9 @@ Der Weg, auf dem Russell zu seiner Konzeption gelangte, war
 seltsam. Er erkannte klar, daß bei der Bildung von Eigenschaften
 die Vorschrift „Bilde die Eigenschaft, die einer Zahl zukommt,
 wenn es eine Eigenschaft gibt derart, daß...“ als Konstruktionsregel einen circulus vitiosus einschließt. Dadurch wurde er dazu
-geführt, verschiedene Schichten von Zahleneigenschaften anzuerkennen, wobei eine Eigenschaft der Schicht / + 1 definiert ist mit
-Hilfe der Gesamtheit der Eigenschaften der Schicht /. Doch reduzierte er, ängstlich wegen der radikalen Konsequenzen seiner kritischen Einsicht, sofort alles auf die Grundschicht durch sein
-Reduzibilitätsaxiom, und die Idee einer sich verzweigenden Typenund Schichtenhierarchie wurde im Keim erstickt. Während er sah,
+geführt, verschiedene Schichten von Zahleneigenschaften anzuerkennen, wobei eine Eigenschaft der Schicht l + 1 definiert ist mit
+Hilfe der Gesamtheit der Eigenschaften der Schicht l. Doch reduzierte er, ängstlich wegen der radikalen Konsequenzen seiner kritischen Einsicht, sofort alles auf die Grundschicht durch sein
+Reduzibilitätsaxiom, und die Idee einer sich verzweigenden Typen- und Schichtenhierarchie wurde im Keim erstickt. Während er sah,
 daß die Unterscheidung von verschiedenen Typen allein genügte,
 die bekannten Antinomien auszuschalten, bemerkte er kaum ganz,
 wie vollständig er den Weg der Analyse und Konstruktion zugunsten des existentiell-axiomatischen Standpunktes aufgegeben
@@ -782,7 +767,7 @@ hatte.
 
 Russells Analysis der Schichten ist für jeden Versuch, an die
 wirkliche Quelle der Antinomien zu gelangen, wichtiger als der
-nachfolgende ‚Vorrat‘ durch das Reduktionsaxiom. Und doch
+nachfolgende „Verrat“ durch das Reduktionsaxiom. Und doch
 ist es mehr oder weniger ein historischer Zufall, daß der Hebel
 zuerst an dieser Stelle angesetzt wurde. Die tiefste Wurzel des
 Übels liegt anderswo: ein zum Unendlichen hin offenes Feld von
@@ -807,7 +792,7 @@ durch die Typenhierarchie unter Mengen vermeidet und Zermelo
 ihnen durch ihre Begrenzung in der Größe entgeht, weist Gödel
 auf eine Theorie hin, in welcher „jeder Begriff überall bedeutsam
 ist außer für gewisse ‚singuläre Punkte‘..., so daß die Paradoxien
-der Division durch Null analog wären; unsere logischen Intuitionen blieben dann korrekt bis auf gewisse geringfügige Berichtigungen, d.h. sie könnten dann so angesehen werden, als gäben
+der Division durch Null analog wären; unsere logischen Intuitionen blieben dann korrekt bis auf gewisse geringfügige Berichtigungen, d. h. sie könnten dann so angesehen werden, als gäben
 sie ein im wesentlichen korrektes, wenn auch etwas undeutliches
 Bild vom wirklichen Zustand der Dinge“. Auf Grund seiner Erfahrungen setzt sich Gödel sehr für den realistischen Standpunkt
 ein, wo Klassen als wirkliche Objekte angenommen werden, nämlich als „Majoritäten von Dingen“, oder als Struktur aus solchen
@@ -829,7 +814,7 @@ daß die primitiven Begriffe weiterer Klärung bedürfen“.
 
 Es ist unmöglich, über den Realismus in der Logik zu sprechen,
 ohne die Erfahrungswissenschaften einzubeziehen. Dann erscheint die Widerspruchsfreiheit als jener Teil der Übereinstimmung, der unabhängig von den empirischen physischen Tatsachen
-(vgl. $ 17, S. 158) erledigt werden kann. Nie können wir sicher
+(vgl. § 17, S. 158) erledigt werden kann. Nie können wir sicher
 sein, ob die Übereinstimmung, wenn für den Augenblick auch
 vollständig, noch bestehen wird, wenn unsere Beobachtungen sich
 erweitern und genauer werden. Gödel scheint anzudeuten, daß
@@ -859,7 +844,7 @@ LITERATUR
 B. Russell, Mathematical Logic as based on the Theory of Types.
 Am. Jour. Math., 30 (1908), S. 222—262.
 
-A.N. Whitehead und B. Russell, Principia Mathematica, 3 Bände,
+A. N. Whitehead und B. Russell, Principia Mathematica, 3 Bände,
 Cambridge 1910—13, 2. Aufl. 1925—27.
 
 E. Zermelo, Untersuchungen über die Grundlagen der Mengenlehre.
@@ -868,7 +853,7 @@ Math. Annalen, 65 (1908), S. 261—281.
 K. Gödel, Über formal unentscheidbare Sätze der Principia Mathematica und verwandter Systeme. Monatsh. Math. Phys., 38 (1931),
 S. 173—198.
 
-—, Consistencey of the Continuum Hypothesis. Annals of Math.
+—, Consistency of the Continuum Hypothesis. Annals of Math.
 Studies No. 3, Princeton University Press 1940.
 
 —, Russell’s Mathematical Logic, in The Philosophy of Bertrand

@@ -17,6 +17,7 @@ MANUALLY_CURATED_SECTIONS = {
     "front-contents",
     "math-03-geometrie",
     "science-01-raum-und-zeit",
+    "appendix-a-struktur-der-mathematik",
     "appendix-b-ars-combinatoria",
     "appendix-c-quantenphysik-und-kausalitaet",
     "appendix-d-chemische-valenz",

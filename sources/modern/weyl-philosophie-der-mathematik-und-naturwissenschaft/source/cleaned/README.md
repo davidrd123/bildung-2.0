@@ -18,6 +18,10 @@ This directory contains a chapter-split German working text for Hermann Weyl's
 - `011-science-01-raum-und-zeit.txt` has manual visual corrections for
   coordinate, Lorentz/Riemann metric, and subject-object vector formulas; the
   generator preserves that file if it already exists.
+- `014-appendix-a-struktur-der-mathematik.txt` has manual visual corrections
+  for Gödel notation, diagonalization formulas, Russell/Zermelo membership
+  notation, type-hierarchy symbols, Greek quotations, and bibliography; the
+  generator preserves that file if it already exists.
 - `015-appendix-b-ars-combinatoria.txt` has manual visual corrections for
   combinatoric formulas, genetic notation, quantum/statistical symbols, and
   the brace layout around printed page 318; the generator preserves that file
@@ -53,7 +57,7 @@ Visual spot checks were made against:
 - title/front matter and contents: PDF pages 1, 2, 6, 8, 10, 11, 12, 14, 16
 - major section starts: PDF pages 17, 48, 92, 126, 178, 211, 280, 304, 325,
   342, 355, 369, 396, 402
-- risk pages: PDF pages 20, 21, 48, 126, 211, 240, 280, 304-324, 325, 342,
+- risk pages: PDF pages 20, 21, 48, 126, 211, 240, 280-303, 304-324, 325, 342,
   349, 355, 356, 358, 359, 364, 366, 369, 372, 373, 374, 375, 378,
   379, 380, 385, 387, 390, 391, 392, 407
 
