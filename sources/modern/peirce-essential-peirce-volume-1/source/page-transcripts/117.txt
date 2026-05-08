@@ -1,0 +1,43 @@
+[pdf page 117]
+[page 73]
+
+The third class of sophisms consists of the so-called Insolubilia. Here is an example of one of them with its resolution:
+
+    THIS PROPOSITION IS NOT TRUE.
+    IS IT TRUE OR NOT?
+
+    Suppose it true.
+        Then,
+        The proposition is true;
+        But, that it is not true is the
+            proposition:
+        ∴ That it is not true is true;
+        ∴ It is not true.
+        Besides,
+        It is true.
+        ∴ It is true that it is true,
+        ∴ It is not true that it is not true;
+        But, the proposition is that it is
+            not true,
+        ∴ The proposition is not true.
+
+    Suppose it not true.
+        Then,
+        It is not true.
+        ∴ It is true that it is not true.
+        But, the proposition is that it is
+            not true.
+        ∴ The proposition is true.
+        Besides,
+        The proposition is not true.
+        But that it is not true is the
+            proposition.
+        ∴ That it is not true, is not true.
+        ∴ That it is true, is true.
+        ∴ It is true.
+
+    ∴ Whether it is true or not, it is both true and not.
+    ∴ It is both true and not,
+        which is absurd.
+
+Since the conclusion is false, the reasoning is bad, or the premises are not all true. But the reasoning is a dilemma; either, then, the disjunctive principle that it is either true or not is false, or the reasoning under one or the other branch is bad, or the reasoning is altogether valid. If the principle that it is either true or not is false, it is other than true and other than not true; that is, not true and not not true; that is, not true and true. But this is absurd. Hence, the disjunctive principle is valid. There are two arguments under each horn of the dilemma; both the arguments under one or the other branch must be false. But, in each case, the second argument involves all the premises and forms of inference involved in the first; hence, if the first is false, the second necessarily is so. We may, therefore, confine our attention to the first arguments in the two branches. The forms of argument contained in these are two: first, the simple syllogism in Barbara, and, second, the consequence from the truth of a proposition to the proposition itself. These are both correct. Hence, the whole form of reasoning is correct, and nothing remains to be false but a premise. But since the repetition of an alternative supposition is not a premise, there is, properly speaking, but one premise in the whole. This is that the proposition is the same as that that proposition is not true. This, then, must be false. Hence the proposition signifies either less or more than this. If it does

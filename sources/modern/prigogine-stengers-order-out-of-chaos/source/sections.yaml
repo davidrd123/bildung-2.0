@@ -1,0 +1,180 @@
+book:
+  title: "Order Out of Chaos: Man's New Dialogue with Nature"
+  author: "Ilya Prigogine and Isabelle Stengers"
+  source_text_witness: "sources/modern/incoming/books/Order Out of Chaos - Ilya Prigogine,Isabelle Stenger.txt"
+  extracted_full_text: "full/order-out-of-chaos.txt"
+  extraction_notes:
+    - "Generated from the local TXT witness on the incoming shelf."
+    - "Control characters and soft hyphens were removed during extraction."
+sections:
+  - seq: 0
+    slug: "title-pages-and-contents"
+    title: "Title pages and contents"
+    kind: "front-matter"
+    file: "raw/000-title-pages-and-contents.txt"
+    start_line: 1
+    end_line: 296
+    line_count: 296
+    printed_page_start: null
+  - seq: 1
+    slug: "foreword-science-and-change"
+    title: "Foreword: Science and Change"
+    kind: "front-matter"
+    file: "raw/001-foreword-science-and-change.txt"
+    start_line: 297
+    end_line: 508
+    line_count: 212
+    printed_page_start: null
+  - seq: 2
+    slug: "preface-mans-new-dialogue-with-nature"
+    title: "Preface: Man's New Dialogue with Nature"
+    kind: "front-matter"
+    file: "raw/002-preface-mans-new-dialogue-with-nature.txt"
+    start_line: 509
+    end_line: 548
+    line_count: 40
+    printed_page_start: null
+  - seq: 3
+    slug: "introduction-the-challenge-to-science"
+    title: "Introduction: The Challenge to Science"
+    kind: "front-matter"
+    file: "raw/003-introduction-the-challenge-to-science.txt"
+    start_line: 549
+    end_line: 740
+    line_count: 192
+    printed_page_start: null
+  - seq: 10
+    slug: "book-one-the-delusion-of-the-universal"
+    title: "Book One: The Delusion of the Universal"
+    kind: "part"
+    file: "raw/010-book-one-the-delusion-of-the-universal.txt"
+    start_line: 741
+    end_line: 752
+    line_count: 12
+    printed_page_start: null
+  - seq: 11
+    slug: "the-triumph-of-reason"
+    title: "Chapter I: The Triumph of Reason"
+    kind: "chapter"
+    file: "raw/011-the-triumph-of-reason.txt"
+    start_line: 753
+    end_line: 1069
+    line_count: 317
+    printed_page_start: null
+  - seq: 12
+    slug: "the-identification-of-the-real"
+    title: "Chapter II: The Identification of the Real"
+    kind: "chapter"
+    file: "raw/012-the-identification-of-the-real.txt"
+    start_line: 1070
+    end_line: 1256
+    line_count: 187
+    printed_page_start: null
+  - seq: 13
+    slug: "the-two-cultures"
+    title: "Chapter III: The Two Cultures"
+    kind: "chapter"
+    file: "raw/013-the-two-cultures.txt"
+    start_line: 1257
+    end_line: 1463
+    line_count: 207
+    printed_page_start: null
+  - seq: 20
+    slug: "book-two-the-science-of-complexity"
+    title: "Book Two: The Science of Complexity"
+    kind: "part"
+    file: "raw/020-book-two-the-science-of-complexity.txt"
+    start_line: 1464
+    end_line: 1475
+    line_count: 12
+    printed_page_start: null
+  - seq: 21
+    slug: "energy-and-the-industrial-age"
+    title: "Chapter IV: Energy and the Industrial Age"
+    kind: "chapter"
+    file: "raw/021-energy-and-the-industrial-age.txt"
+    start_line: 1476
+    end_line: 1743
+    line_count: 268
+    printed_page_start: null
+  - seq: 22
+    slug: "the-three-stages-of-thermodynamics"
+    title: "Chapter V: The Three Stages of Thermodynamics"
+    kind: "chapter"
+    file: "raw/022-the-three-stages-of-thermodynamics.txt"
+    start_line: 1744
+    end_line: 2196
+    line_count: 453
+    printed_page_start: null
+  - seq: 23
+    slug: "order-through-fluctuations"
+    title: "Chapter VI: Order Through Fluctuations"
+    kind: "chapter"
+    file: "raw/023-order-through-fluctuations.txt"
+    start_line: 2197
+    end_line: 2473
+    line_count: 277
+    printed_page_start: null
+  - seq: 30
+    slug: "book-three-from-being-to-becoming"
+    title: "Book Three: From Being to Becoming"
+    kind: "part"
+    file: "raw/030-book-three-from-being-to-becoming.txt"
+    start_line: 2474
+    end_line: 2485
+    line_count: 12
+    printed_page_start: null
+  - seq: 31
+    slug: "rediscovering-time"
+    title: "Chapter VII: Rediscovering Time"
+    kind: "chapter"
+    file: "raw/031-rediscovering-time.txt"
+    start_line: 2486
+    end_line: 2678
+    line_count: 193
+    printed_page_start: null
+  - seq: 32
+    slug: "the-clash-of-doctrines"
+    title: "Chapter VIII: The Clash of Doctrines"
+    kind: "chapter"
+    file: "raw/032-the-clash-of-doctrines.txt"
+    start_line: 2679
+    end_line: 2926
+    line_count: 248
+    printed_page_start: null
+  - seq: 33
+    slug: "irreversibility-the-entropy-barrier"
+    title: "Chapter IX: Irreversibility--the Entropy Barrier"
+    kind: "chapter"
+    file: "raw/033-irreversibility-the-entropy-barrier.txt"
+    start_line: 2927
+    end_line: 3316
+    line_count: 390
+    printed_page_start: null
+  - seq: 40
+    slug: "conclusion-from-earth-to-heaven"
+    title: "Conclusion: From Earth to Heaven--the Reenchantment of Nature"
+    kind: "back-matter"
+    file: "raw/040-conclusion-from-earth-to-heaven.txt"
+    start_line: 3317
+    end_line: 3615
+    line_count: 299
+    printed_page_start: null
+  - seq: 50
+    slug: "notes"
+    title: "Notes"
+    kind: "back-matter"
+    file: "raw/050-notes.txt"
+    start_line: 3616
+    end_line: 4110
+    line_count: 495
+    printed_page_start: null
+  - seq: 51
+    slug: "index"
+    title: "Index"
+    kind: "back-matter"
+    file: "raw/051-index.txt"
+    start_line: 4111
+    end_line: 5135
+    line_count: 1025
+    printed_page_start: null

@@ -17,7 +17,7 @@ work as if it had already been tested.
 
 First bounded result on disk:
 
-- `sources/modern/incoming/2026-04-19-langer-philosophy-in-a-new-key-under-pressure.md`
+- `sources/modern/incoming/under-pressure/2026-04-19-langer-philosophy-in-a-new-key-under-pressure.md`
   now records grounded bounded contact on chapters 1-10 (the book’s full
   argument, including the rite/myth chapters). The result is source-real but
   still narrow: Langer has earned a localized modern pressure position on
@@ -43,8 +43,14 @@ First bounded result on disk:
 - The authority source on the shelf is the PDF in `sources/modern/incoming/books/`.
 - The current split scaffold is built from the companion TXT witness, which
   appears to be OCR / text-layer derived from the same source.
-- The files under `source/raw/` are suitable for orientation, bounded direct
-  forays, and web-chat access.
+- The files under `source/raw/` remain useful as a fallback scaffold and for
+  witness comparison, but they are not quotation-grade.
+- The files under `source/cleaned/` are the current page-image-proofed working
+  text for the supplied PDF, with documented exceptions for witness gaps.
+- User-supplied Kindle screenshots for the supplied-PDF pp. 76-77 gap are kept
+  under `source/page-images/kindle-gap/`; they word-proof the missing gap but
+  do not replace supplied-PDF page-image proof or show the internal p. 77
+  printed-page boundary.
 - The PDF remains the authority whenever formatting, punctuation, or page
   transitions matter.
 
@@ -62,7 +68,7 @@ First bounded result on disk:
 
 Authority PDF:
 
-- `sources/modern/incoming/books/Philosophy in a New Key - Susanne Langer.pdf`
+- `sources/modern/incoming/books/Philosophy in a New Key, Suzanne K. Langer.pdf`
 
 Current text witness:
 
@@ -75,6 +81,26 @@ Localized full text:
 Split browsing files:
 
 - `source/raw/*.txt`
+
+Page-image-proofed cleaned working text:
+
+- `source/cleaned/*.txt`
+- `source/cleaned/cleanup-manifest.md`
+- `source/cleaned/page-proof-manifest.md`
+- `source/cleaned/completion-audit.md`
+- `source/cleaned/ocr-uncertainties.md`
+
+Alternate gap witnesses:
+
+- `source/page-images/kindle-gap/2026-05-04-185135-p76-p77-gap-start.png`
+- `source/page-images/kindle-gap/2026-05-04-185146-p77-p78-gap-end.png`
+- `source/page-images/kindle-gap/2026-05-04-185225-p78-overlap.png`
+
+The cleaned text began from the PDF text layer with `tools/clean_langer_philosophy_in_a_new_key.py`, using layout extraction for the two-column index, rendered page images where the index text layer is visibly garbled, and the raw TXT split as a fallback scaffold where the PDF witness is missing material. The current `source/cleaned/` files also include direct page-image corrections recorded in `source/cleaned/page-proof-manifest.md`; rerunning the cleaner alone will not reproduce those manual proof corrections.
+
+Mechanical verification for the current cleaned corpus:
+
+- `python3 tools/verify_langer_philosophy_in_a_new_key.py`
 
 Section map:
 
@@ -107,6 +133,17 @@ source/
     019-the-fabric-of-meaning.txt
     030-acknowledgments.txt
     031-index.txt
+  cleaned/
+    cleanup-manifest.md
+    completion-audit.md
+    ocr-uncertainties.md
+    page-proof-manifest.md
+    *.txt
+  page-images/
+    kindle-gap/
+      2026-05-04-185135-p76-p77-gap-start.png
+      2026-05-04-185146-p77-p78-gap-end.png
+      2026-05-04-185225-p78-overlap.png
   sections.yaml
 ```
 
@@ -115,7 +152,14 @@ source/
 - Read `source/raw/*.txt` when you want preface- or chapter-scale access.
 - Use `source/sections.yaml` when you need the sequence, title, and extracted
   line range.
-- Treat this as a browsing scaffold, not as a quotation-grade critical text.
+- Use `source/cleaned/*.txt` for current clean-text work. Check
+  `source/cleaned/page-proof-manifest.md` before treating any span as
+  image-proofed; printed pp. 76-77 are Kindle-screenshot word-proofed but not
+  supplied-PDF-proofed, and the second-edition preface remains raw-witness-only
+  unless another image witness is supplied.
+- Run `python3 tools/verify_langer_philosophy_in_a_new_key.py` after changing
+  `source/cleaned/` to recheck page-marker coverage, chapter footnote
+  continuity, known OCR garbage patterns, and manifest/audit blocker notes.
 
 If the book later earns real pressure, the next honest move would be a bounded
 encounter note or a checked working tranche for whichever chapter is actually

@@ -1,0 +1,93 @@
+# Seed glossary for bounded Lotman encounter packets.
+# Entries must state whether they rest on raw OCR or DjVu-backed active ranges.
+
+- term: "язык"
+  handle: "term:lotman-yazyk"
+  kind: concept
+  preferred: "language"
+  alternatives:
+    - "semiotic language"
+    - "code-language"
+  status: seed
+  source_anchors:
+    - "source/raw/003-intro-01-vvodnye-zamechaniya.txt:57"
+    - "source/raw/005-part-i-01-tri-funktsii-teksta.txt:2"
+    - "source/raw/005-part-i-01-tri-funktsii-teksta.txt:127"
+  notes: "Seeded from DjVu-backed packet 001 active range. Lotman's `язык` is often broader than natural language and can name an operative semiotic system. Default to `language`, but keep pressure visible where it overlaps with `код`."
+
+- term: "текст"
+  handle: "term:lotman-tekst"
+  kind: concept
+  preferred: "text"
+  alternatives:
+    - "bounded text"
+    - "message-text"
+  status: seed
+  source_anchors:
+    - "source/raw/003-intro-01-vvodnye-zamechaniya.txt:45"
+    - "source/raw/005-part-i-01-tri-funktsii-teksta.txt:4"
+    - "source/raw/005-part-i-01-tri-funktsii-teksta.txt:154"
+  notes: "Seeded from DjVu-backed packet 001 active range. `Text` is not packaging for content here; it becomes the site where new messages can be generated. Watch relation to `сообщение`."
+
+- term: "сообщение"
+  handle: "term:lotman-soobshchenie"
+  kind: concept
+  preferred: "message"
+  alternatives:
+    - "communication"
+  status: seed
+  source_anchors:
+    - "source/raw/003-intro-01-vvodnye-zamechaniya.txt:47"
+    - "source/raw/005-part-i-01-tri-funktsii-teksta.txt:65"
+    - "source/raw/005-part-i-01-tri-funktsii-teksta.txt:167"
+  notes: "Seeded from DjVu-backed packet 001 active range. Keep distinct from `текст`: a text may transmit a message, generate a new message, or become a message about its own language."
+
+- term: "перевод"
+  handle: "term:lotman-perevod"
+  kind: concept
+  preferred: "translation"
+  alternatives:
+    - "transcoding"
+    - "transfer"
+  status: seed
+  source_anchors:
+    - "source/raw/003-intro-01-vvodnye-zamechaniya.txt:59"
+    - "source/raw/005-part-i-01-tri-funktsii-teksta.txt:127"
+    - "source/raw/005-part-i-01-tri-funktsii-teksta.txt:167"
+  notes: "Seeded from DjVu-backed packet 001 active range. The term is load-bearing because translation is not only transfer of an invariant message but a creative act where codes are non-identical."
+
+- term: "непереводимость"
+  handle: "term:lotman-neperevodimost"
+  kind: concept
+  preferred: "untranslatability"
+  alternatives:
+    - "non-translatability"
+    - "mutual non-equivalence"
+  status: seed
+  source_anchors:
+    - "source/raw/003-intro-01-vvodnye-zamechaniya.txt:59"
+    - "source/raw/005-part-i-01-tri-funktsii-teksta.txt:170"
+  notes: "Seeded from DjVu-backed packet 001 active range. Do not read this as absolute impossibility. The productive structure is the combination of translatability and non-translatability in differing degrees."
+
+- term: "смыслопорождение"
+  handle: "term:lotman-smysloporozhdenie"
+  kind: concept
+  preferred: "meaning-generation"
+  alternatives:
+    - "sense-generation"
+  status: seed
+  source_anchors:
+    - "source/raw/003-intro-01-vvodnye-zamechaniya.txt:105"
+    - "source/raw/005-part-i-01-tri-funktsii-teksta.txt:183"
+  notes: "Seeded from DjVu-backed packet 001 active range. `Meaning-generation` is current working English, but `смысл` may pressure `sense` in later packets."
+
+- term: "семиосфера"
+  handle: "term:lotman-semiosfera"
+  kind: concept
+  preferred: "semiosphere"
+  alternatives: []
+  status: seed
+  source_anchors:
+    - "source/raw/003-intro-01-vvodnye-zamechaniya.txt:67"
+    - "source/raw/003-intro-01-vvodnye-zamechaniya.txt:107"
+  notes: "Seeded from DjVu-backed packet 001 active range only because the packet reaches the introductory consequence of the minimal-pair claim. This is not licensed as a repo master term."

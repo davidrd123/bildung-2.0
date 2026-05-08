@@ -1,6 +1,7 @@
 # Lotman — `Внутри мыслящих миров` first contact
 
-Status: bounded first contact. OCR reading only. Not a close encounter.
+Status: bounded first contact. The original pass was OCR reading only; one
+later packet is now DjVu-backed for its active range.
 
 Purpose: preserve what actually survived the April 17 OCR pass on *Внутри мыслящих миров* and determine whether this book adds anything beyond the earlier skim of *Непредсказуемые механизмы культуры*. This is still sidecar work, not a source campaign.
 
@@ -109,3 +110,25 @@ If Lotman wakes again, it should be through one bounded reread axis only:
 - history as decryption and memory as active mechanism
 
 Otherwise, let this remain a method-sidecar first contact and do nothing.
+
+## 2026-05-04 follow-up
+
+Lotman woke through the first axis only. A bounded source-aware pilot now exists
+at:
+
+- `sources/russian/lotman-vnutri-mislyashih-mirov/methodology.md`
+- `sources/russian/lotman-vnutri-mislyashih-mirov/encounters/2026-05-04-001-minimal-paired-heterogeneity.md`
+
+Status remains limited: the packet is source-facing, but only the active range
+has been checked. It does not promote Lotman to project authority or license a
+full translation campaign.
+
+Same-day scan update: the DjVu at
+`sources/modern/incoming/books/vnutri-mislyashih-mirov.djvu` has no embedded
+text layer, but pages for packet 001 were rendered and OCR-checked with Russian
+Tesseract. The checked working text is:
+
+- `sources/russian/lotman-vnutri-mislyashih-mirov/source/checked/001-minimal-paired-heterogeneity.ru.txt`
+
+This upgrades packet 001 from raw-OCR only to DjVu-backed for that bounded
+range. It does not upgrade the wider scaffold or open a full Lotman campaign.

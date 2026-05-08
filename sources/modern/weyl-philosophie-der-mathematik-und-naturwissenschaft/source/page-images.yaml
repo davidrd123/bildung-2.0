@@ -1,0 +1,11 @@
+image_set:
+  source_pdf: "sources/modern/incoming/books/Philosophie der Mathematik und Naturwissenschaft, 8_ Auflage -- Herrmann Weyl.pdf"
+  first_pdf_page: 1
+  last_pdf_page: 407
+  dpi: 200
+  format: "jpeg"
+  directory: "page-images/jpg-200"
+  filename_pattern: "page-%04d.jpg"
+  notes:
+    - "Generated page images are local-only and gitignored."
+    - "Use these as the visual authority for OCR correction and direct inspection."

@@ -1,0 +1,453 @@
+CHAPTER V
+
+
+
+THE THREE STAGES
+
+OF THERMODYNAMICS
+
+
+Flux and Force
+
+
+Let us return1 to the description of the second law given in the previous chapter. The concept of entropy plays a central role in the description of evolution. As we have seen, its variation can be written as the sum of two terms—the term deS, linked to the exchanges between the system and the rest of the world, and a production term, diS, resulting from irreversible phenomena inside the system. This term is always positive except at thermodynamic equilibrium, when it becomes zero. For isolated systems (deS = 0), the equilibrium state corresponds to a state of maximum entropy.
+
+In order to appreciate the significance of the second law for physics, we need a more detailed description of the various irreversible phenomena involved in the entropy production diS or in the entropy production per unit time P = diS/dt.
+
+For us chemical reactions are of particular significance. Together with heat conduction, they form the prototype of irreversible processes. In addition to their intrinsic importance, chemical processes play a fundamental role in biology. The living cell presents an incessant metabolic activity. There thousands of chemical reactions take place simultaneously to transform the matter the cell feeds on, to synthesize the fundamental biomolecules, and to eliminate waste products. As regards both the different reaction rates and the reaction sites within the cell, this chemical activity is highly coordinated. The biological structure thus combines order and activity. In contrast, an equilibrium state remains inert even though it may be structured, as, for example, with a crystal. Can chemical processes provide us with the key to the difference between the behavior of a crystal and that of a cell?
+
+We will have to consider chemical reactions from a dual point of view, both kinetic and thermodynamic.
+
+From the kinetic point of view, the fundamental quantity is the reaction rate. The classical theory of chemical kinetics is based on the assumption that the rate of a chemical reaction is proportional to the concentrations of the products taking part in it. Indeed, it is through collisions between molecules that a reaction takes place, and it is quite natural to assume that the number of collisions is proportional to the product of the concentrations of the reacting molecules.
+
+For the sake of example, let us take a simple reaction such as A+X→B+Y. This “reaction equation” means that whenever a molecule of component A encounters a molecule of X, there is a certain probability that a reaction will take place and a molecule of B and a molecule of Y will be produced. A collision producing such a change in the molecules involved is a “reactive collision.” Only a usually very small fraction (for example, 1/106) of all collisions are of this kind. In most cases, the molecules retain their original nature and merely exchange energy.
+
+Chemical kinetics deals with changes in the concentration of the different products involved in a reaction. This kinetics is described by differential equations, just as motion is described by the Newtonian equations. However, in this case, we are not calculating acceleration but the rates of change of concentration, and these rates are expressed as a function of the concentrations of the reactants. The rate of change of concentration of X, dX/dt, is thus proportional to the product of the concentrations of A and X in the solution—that is, dX/dt = –kA·X, where k is a proportionality factor that is linked to quantities such as temperature and pressure and that provides a measure for the fraction of reactive collisions taking place and leading to the reaction A+X→Y+B. Since, in the example taken, whenever a molecule of X disappears, a molecule of A disappears too, and a molecule of Y and one of B are formed, the rates of change of concentration are related: dX/dt = dA/dt = −dY/dt = – dB/dt.
+
+But if the collision between a molecule of X and a molecule of A can set off a chemical reaction, the collision between molecules of Y and B can set off the opposite reaction. A second reaction Y+B→X+A thus occurs within the system described, bringing about a supplementary variation in the concentration of X, dX/dt = k′ YB. The total variation in concentration of a chemical compound is given by the balance between the forward and the reverse reaction. In our example, dX/dt (= −dY/dt=…)= −kAX+k′YB.
+
+If left to itself, a system in which chemical reactions occur tends toward a state of chemical equilibrium. Chemical equilibrium is therefore a typical example of an “attractor” state. Whatever its initial chemical composition, the system spontaneously reaches this final stage, where the forward and reverse reactions compensate one another statistically so that there is no longer any overall variation in the concentrations (dX/dt = 0). This compensation implies that the ratio between equilibrium concentrations is given by AX/YB = k’/k = K. This result is known as the “law of mass action,” or Guldberg and Waage’s law, and K is the equilibrium constant. The ratio between concentrations determined by the law of mass action corresponds to chemical equilibrium in the same way that uniformity of temperature (in the case of an isolated system) corresponds to thermal equilibrium. The corresponding entropy production vanishes.
+
+Before we deal with the thermodynamic description of chemical reactions, let us briefly consider an additional aspect of the kinetic description. The rate of chemical reactions is affected not only by the concentrations of the reacting molecules and thermodynamic parameters (for example, pressure and temperature) but also may be affected by the presence in the system of chemical substances that modify the reaction rate without themselves being changed in the process. Substances of this kind are known as “catalysts.” Catalysts can, for instance, modify the value of the kinetic constants k or k′ or even allow the system to follow a new “reaction path.” In biology, this role is played by specific proteins, the “enzymes.” These macromolecules have a spatial configuration that allows them to modify the rate of a given reaction. Often they are highly specific and affect only one reaction. A possible mechanism for the catalytic effect of enzymes is to present different “reaction sites” to which the different molecules involved in the reaction tend to attach themselves, thus increasing the likelihood of their coming into contact and reacting.
+
+One very important type of catalysis, particularly in biology, is the one in which the presence of a product is required for its own synthesis. In other words, in order to produce the molecule X we must begin with a system already containing X. Very frequently, for instance, the molecule X activates an enzyme. By attaching itself to the enzyme it stabilizes that particular configuration in which the reaction site is available. To such an autocatalysis process correspond reaction schemes such as A + 2X → 3X; in the presence of molecules X, a molecule A is converted into a molecule X. Therefore we need X to produce more X. This reaction may be symbolized by the reaction “loop”:
+
+
+
+One important feature of systems involving such “reaction loops” is that the kinetic equations describing the changes occurring in them are nonlinear differential equations.
+
+If we apply the same method as above, the kinetic equation obtained for the reaction A + 2X → 3X is dX/dt = kAX2, where the rate of variation of the concentration of X is proportional to the square of its concentration.
+
+Another very important class of catalytic reactions in biology is that of crosscatalysis—for example, 2X + Y → 3X, B + X → Y + D, which may be represented by the loop of Figure 3.
+
+
+
+Figure 3. This graph represents the reaction paths for the “Brusselator” reactions, which are further described in the text.
+
+
+
+This is a case of crosscatalysis, since X is produced from Y, and simultaneously Y from X. Catalysis does not necessarily increase the reaction rate; it may, on the contrary, lead to inhibition, which can also be represented by suitable feedback loops.
+
+The peculiar mathematical properties of the nonlinear differential equations describing chemical processes with catalytic steps are vitally important, as we shall see later, for the thermodynamics of far-from-equilibrium chemical processes. In addition, as we have already mentioned, molecular biology has established that these loops play an essential role in metabolic functions. For example, the relation between nucleic acids and proteins can be described in terms of a crosscatalytic effect: nucleic acids contain the information to produce proteins, which in turn produce nucleic acids.
+
+In addition to the rates of chemical reactions, we must also consider the rates of other irreversible processes, such as heat transfer and the diffusion of matter. The rates of irreversible processes are also called fluxes and are denoted by the symbol J. There is no general theory from which we can derive the form of the rates or fluxes. In chemical reactions the rate depends on the molecular mechanism, as can be verified by the examples already indicated. The thermodynamics of irreversible processes introduces a second type of quantity: in addition to the rates, or fluxes, J, it uses “generalized forces,” X, that “cause” the fluxes. The simplest example is that of heat conduction. Fourier’s law tells us that the heat flux J is proportional to the temperature gradient. This temperature gradient is the “force” causing the heat flux. By definition, flux and forces both vanish at thermal equilibrium. As we shall see, the production of entropy P = diS/dt can be calculated from the flux and the forces.
+
+Let us consider the definition of the generalized force corresponding to a chemical reaction. Recall the reaction A + X→ Y + B. We have seen how, at equilibrium, the ratio between concentrations is given by the law of mass action. As Théophile De Donder has shown, a “chemical force” can be introduced, the “affinity” A that determines the direction of the chemical reaction rate just as the temperature gradient determines the direction in which heat will flow. In the case of the reaction we are considering, the affinity is proportional to log KBY/AX, where K is the equilibrium constant. It is immediately apparent that the affinity R vanishes at equilibrium where, following the law of mass action, we have AX/BY=K. The affinity increases (in absolute value) when we drive the system away from equilibrium. We can see this if we eliminate from the system a fraction of the molecules B once they are formed through the reaction A + X→Y + B. Affinity can be said to measure the distance between the actual state of the system and its equilibrium state. Moreover, as we have mentioned, its sign determines the direction of the chemical reaction. If A is positive, then there are “too many” molecules B and Y, and the net reaction proceeds in the direction B + Y → A + X. On the contrary, if A is negative there are “too few” B and Y, and the net reaction proceeds in the opposite direction.
+
+Affinity as we have defined it is a way of rendering more precise the ancient affinity described by the alchemists, who deciphered the elective relationships between chemical bodies—that is, the “likes” and “dislikes” of molecules. The idea that chemical activity cannot be reduced to mechanical trajectories, to the calm domination of dynamic laws, has been emphasized from the beginning. We could cite Diderot at length. Later, Nietzsche, in a different context, asserted that it was ridiculous to speak of “chemical laws,” as though chemical bodies were governed by laws similar to moral laws. In chemistry, he protested, there is no constraint, and each body does as it pleases. It is not a matter of “respect” but of a power struggle, of the ruthless domination of the weaker by the stronger.2 Chemical equilibrium, with vanishing affinity, corresponds to the resolution of this conflict. Seen from this point of view, the specificity of thermodynamic affinity thus rephrases an age-old problem in modern language,3 the problem of the distinction between the legal and indifferent world of dynamic law, and the world of spontaneous and productive activity to which chemical reactions belong.
+
+Let us emphasize the basic conceptual distinction between physics and chemistry. In classical physics we can at least conceive of reversible processes such as the motion of a frictionless pendulum. To neglect irreversible processes in dynamics always corresponds to an idealization, but, at least in some cases, it is a meaningful one. The situation in chemistry is quite different. Here the processes that define chemistry—chemical transformations characterized by reaction rates—are irreversible. For this reason chemistry cannot be reduced to the idealization that lies at the basis of classical or quantum mechanics, in which past and future play equivalent roles.
+
+As could be expected, all possible irreversible processes appear in entropy production. Each of them enters through the product of its rate or flux J multiplied by the corresponding force X. The total entropy production per unit time, P = diS/dt, is the sum of these contributions. Each of them appears through the product JX.
+
+We can divide thermodynamics into three large fields, the study of which corresponds to three successive stages in its development. Entropy production, the fluxes, and the forces are all zero at equilibrium. In the close-to-equilibrium region, where thermodynamic forces are “weak,” the rates Jk are linear functions of the forces. The third field is called the “nonlinear” region, since in it the rates are in general more complicated functions of the forces. Let us first emphasize some general features of linear thermodynamics that apply to close-to-equilibrium situations.
+
+
+
+
+
+Linear Thermodynamics
+
+
+In 1931, Lars Onsager discovered the first general relations in nonequilibrium thermodynamics for the linear, near-to-equilibrium region. These are the famous “reciprocity relations.” In qualitative terms, they state that if a force—say, “one” (corresponding, for example, to a temperature gradient)—may influence a flux “two” (for example, a diffusion process), then force “two” (a concentration gradient) will also influence the flux “one” (the heat flow). This has indeed been verified. For example, in each case where a thermal gradient induces a process of diffusion of matter, we find that a concentration gradient can set up a heat flux through the system.
+
+The general nature of Onsager’s relations has to be emphasized. It is immaterial, for instance, whether the irreversible processes take place in a gaseous, liquid, or solid medium. The reciprocity expressions are valid independently of any microscopic assumptions.
+
+Reciprocity relations have been the first results in the thermodynamics of irreversible processes to indicate that this was not some ill-defined no-man’s-land but a worthwhile subject of study whose fertility could be compared with that of equilibrium thermodynamics. Equilibrium thermodynamics was an achievement of the nineteenth century, nonequilibrium thermodynamics was developed in the twentieth century, and Onsager’s relations mark a crucial point in the shift of interest away from equilibrium toward nonequilibrium.
+
+A second general result in this field of linear, nonequilibrium thermodynamics bears mention here. We have already spoken of thermodynamic potentials whose extrema correspond to the states of equilibrium toward which thermodynamic evolution tends irreversibly. Such are the entropy S for isolated systems, and the free energy F for closed systems at a given temperature. The thermodynamics of close-to-equilibrium systems also introduces such a potential function. It is quite remarkable that this potential is the entropy-production P itself. The theorem of minimum entropy production does, in fact, show that in the range of validity of Onsager’s relations—that is, the linear region—a system evolves toward a stationary state characterized by the minimum entropy production compatible with the constraints imposed upon the system. These contraints are determined by the boundary conditions. They may, for instance, correspond to two points in the system kept at different temperatures, or to a flux of matter that continuously supports a reaction and eliminates its products.
+
+The stationary state toward which the system evolves is then necessarily a nonequilibrium state at which dissipative processes with nonvanishing rates occur. But since it is a stationary state, all the quantities that describe the system, such as temperature concentrations, become time-independent. Similarly, the entropy of the system now becomes independent of time. Therefore its time variation dS = 0 vanishes. But we have seen that the time variation of entropy is made up of two terms—the entropy flow deS and the positive entropy production diS. Therefore, dS = O implies that deS = −diS<0. The heat or matter flux coming from the environment determines a negative flow of entropy deS, which is, however, matched by the entropy production diS due to irreversible processes inside the system. A negative flux deS means that the system transfers entropy to the outside world. Therefore at the stationary state, the system’s activity continuously increases the entropy of its environment. This is true for all stationary states. But the theorem of minimum entropy production says more. The particular stationary state toward which the system tends is the one in which this transfer of entropy to the environment is as small as is compatible with the imposed boundary conditions. In this context, the equilibrium state corresponds to the special case that occurs when the boundary conditions allow a vanishing entropy production. In other words, the theory of minimum entropy production expresses a kind of “inertia.” When the boundary conditions prevent the system from going to equilibrium it does the next best thing; it goes to a state of minimum entropy production—that is, to a state as close to equilibrium as “possible.”
+
+Linear thermodynamics thus describes the stable, predictable behavior of systems tending toward the minimum level of activity compatible with the fluxes that feed them. The fact that linear thermodynamics, like equilibrium thermodynamics, may be described in terms of a potential, the entropy production, implies that, both in evolution toward equilibrium and in evolution toward a stationary state, initial conditions are forgotten. Whatever the initial conditions, the system will finally reach the state determined by the imposed boundary conditions. As a result, the reaction of such a system to any change in its boundary conditions is entirely predictable.
+
+We see that in the linear range the situation remains basically the same as at equilibrium. Although the entropy production does not vanish, neither does it prevent the irreversible change from being identified as an evolution toward a state that is wholly deducible from general laws. This “becoming” inescapably leads to the destruction of any difference, any specificity. Carnot or Darwin? The paradox mentioned in Chapter IV remains. There is still no connection between the appearance of natural organized forms on one side, and on the other the tendency toward “forgetting” of initial conditions, along with the resulting disorganization.
+
+
+
+
+
+Far from Equilibrium
+
+
+At the root of nonlinear thermodynamics lies something quite surprising, something that first appeared to be a failure: in spite of much effort, the generalization of the theorem of minimum entropy production for systems in which the fluxes are no longer linear functions of the forces appeared impossible. Far from equilibrium, the system may still evolve to some steady state, but in general this state can no longer be characterized in terms of some suitably chosen potential (such as entropy production for near-equilibrium states).
+
+The absence of any potential function raises a new question: What can we say about the stability of the states toward which the system evolves? Indeed, as long as the attractor state is defined by the minimum of a potential such as the entropy production, its stability is guaranteed. It is true that a fluctuation may shift the system away from this minimum. The second law of thermodynamics, however, imposes the return toward the attractor. The system is thus “immune” with respect to fluctuations. Thus whenever we define a potential, we are describing a “stable world” in which systems follow an evolution that leads them to a static situation that is established once and for all.
+
+When the thermodynamic forces acting on a system become such that the linear region is exceeded, however, the stability of the stationary state, or its independence from fluctuations, can no longer be taken for granted. Stability is no longer the consequence of the general laws of physics. We must examine the way a stationary state reacts to the different types of fluctuation produced by the system or its environment. In some cases, the analysis leads to the conclusion that a state is “unstable”—in such a state, certain fluctuations, instead of regressing, may be amplified and invade the entire system, compelling it to evolve toward a new regime that may be qualitatively quite different from the stationary states corresponding to minimum entropy production.
+
+Thermodynamics leads to an initial general conclusion concerning systems that are liable to escape the type of order governing equilibrium. These systems have to be “far from equilibrium.” In cases where instability is possible, we have to ascertain the threshold, the distance from equilibrium, at which fluctuations may lead to new behavior, different from the “normal” stable behavior characteristic of equilibrium or near-equilibrium systems.
+
+Why is this conclusion so interesting?
+
+Phenomena of this kind are well known in the field of hydrodynamics and fluid flow. For instance, it has long been known that once a certain flow rate of flux has been reached, turbulence may occur in a fluid. Michel Serres has recently recalled4 that the early atomists were so concerned about turbulent flow that it seems legitimate to consider turbulence as a basic source of inspiration of Lucretian physics. Sometimes, wrote Lucretius, at uncertain times and places, the eternal, universal fall of the atoms is disturbed by a very slight deviation—the “clinamen.” The resulting vortex gives rise to the world, to all natural things. The clinamen, this spontaneous, unpredictable deviation, has often been criticized as one of the main weaknesses of Lucretian physics, as being something introduced ad hoc. In fact, the contrary is true—the clinamen attempts to explain events such as laminar flow ceasing to be stable and spontaneously turning into turbulent flow. Today hydrodynamic experts test the stability of fluid flow by introducing a perturbation that expresses the effect of molecular disorder added to the average flow. We are not so far from the clinamen of Lucretius!
+
+For a long time turbulence was identified with disorder or noise. Today we know that this is not the case. Indeed, while turbulent motion appears as irregular or chaotic on the macroscopic scale, it is, on the contrary, highly organized on the microscopic scale. The multiple space and time scales involved in turbulence correspond to the coherent behavior of millions and millions of molecules. Viewed in this way, the transition from laminar flow to turbulence is a process of self organization. Part of the energy of the system, which in laminar flow was in the thermal motion of the molecules, is being transferred to macroscopic organized motion.
+
+The “Bénard instability” is another striking example of the instability of a stationary state giving rise to a phenomenon of spontaneous self-organization. The instability is due to a vertical temperature gradient set up in a horizontal liquid layer. The lower surface of the latter is heated to a given temperature, which is higher than that of the upper surface. As a result of these boundary conditions, a permanent heat flux is set up, moving from the bottom to the top. When the imposed gradient reaches a threshold value, the fluid’s state of rest—the stationary state in which heat is conveyed by conduction alone, without convection—becomes unstable. A convection corresponding to the coherent motion of ensembles of molecules is produced, increasing the rate of heat transfer. Therefore, for given values of the constraints (the gradient of temperature), the entropy production of the system is increased; this contrasts with the theorem of minimum entropy production. The Bénard instability is a spectacular phenomenon. The convection motion produced actually consists of the complex spatial organization of the system. Millions of molecules move coherently, forming hexagonal convection cells of a characteristic size.
+
+In Chapter IV we introduced Boltzmann’s order principle, which relates entropy to probability as expressed by the number of complexions P Can we apply this relation here? To each distribution of the velocities of the molecules corresponds a number of complexions. This number measures the number of ways in which we can realize the velocity distribution by attributing some velocity to each molecule. The argument runs parallel to that in Chapter IV, where we expressed the number of complexions in terms of the distributions of molecules between two boxes. Here also the number of complexions is large when there is disorder—that is, a wide dispersion of velocities. In contrast, coherent motion means that many molecules travel with nearly the same speed (small dispersion of velocities). To such a distribution corresponds a number of complexions P so low that there seems almost no chance for the phenomenon of self-organization to occur. Yet it occurs! We see, therefore, that calculating the number of complexions, which entails the hypothesis of an equal a priori probability for each molecular state, is misleading. Its irrelevance is particularly obvious as far as the genesis of the new behavior is concerned. In the case of the Bénard instability it is a fluctuation, a microscopic convection current, which would have been doomed to regression by the application of Boltzmann’s order principle, but which on the contrary is amplified until it invades the whole system. Beyond the critical value of the imposed gradient, a new molecular order has thus been produced spontaneously. It corresponds to a giant fluctuation stabilized through energy exchanges with the outside world.
+
+In far-from-equilibrium conditions, the concept of probability that underlies Boltzmann’s order principle is no longer valid in that the structures we observe do not correspond to a maximum of complexions. Neither can they be related to a minimum of the free energy F = E − TS. The tendency toward leveling out and forgetting initial conditions is no longer a general property. In this context, the age-old problem of the origin of life appears in a different perspective. It is certainly true that life is incompatible with Boltzmann’s order principle but not with the kind of behavior that can occur in far-from-equilibrium conditions.
+
+Classical thermodynamics leads to the concept of “equilibrium structures” such as crystals. Bénard cells are structures too, but of a quite different nature. That is why we have introduced the notion of “dissipative structures,” to emphasize the close association, at first paradoxical, in such situations between structure and order on the one side, and dissipation or waste on the other. We have seen in Chapter IV that heat transfer was considered a source of waste in classical thermodynamics. In the Bénard cell it becomes a source of order.
+
+The interaction of a system with the outside world, its embedding in nonequilibrium conditions, may become in this way the starting point for the formation of new dynamic states of matter—dissipative structures. Dissipative structures actually correspond to a form of supramolecular organization. Although the parameters describing crystal structures may be derived from the properties of the molecules of which they are composed, and in particular from the range of their forces of attraction and repulsion, Bénard cells, like all dissipative structures, are essentially a reflection of the global situation of nonequilibrium producing them. The parameters describing them are macroscopic; they are not of the order of 10−8 cm, like the distance between the molecules of a crystal, but of the order of centimeters. Similarly, the time scales are different—they correspond not to molecular times (such as periods of vibration of individual molecules, which may correspond to about 10−15 sec) but to macroscopic times: seconds, minutes, or hours.
+
+Let us return to the case of chemical reactions. There are some fundamental differences from the Bénard problem. In the Bénard cell the instability has a simple mechanical origin. When we heat the liquid layer from below, the lower part of the fluid becomes less dense, and the center of gravity rises. It is therefore not surprising that beyond a critical point the system tilts and convection sets in.
+
+But in chemical systems there are no mechanical features of this type. Can we expect any self-organization? Our mental image of chemical reactions corresponds to molecules speeding through space, colliding at random in a chaotic way. Such an image leaves no place for self-organization, and this may be one of the reasons why chemical instabilities have only recently become a subject of interest. There is also another difference. All flows become turbulent at a “sufficiently” large distance from equilibrium (the threshold is measured by dimensionless numbers such as Reynolds’ number). This is not true for chemical reactions. Being far from equilibrium is a necessary requirement but not a sufficient one. For many chemical systems, whatever the constraints imposed and the rate of the chemical changes produced, the stationary state remains stable and arbitrary fluctuations are damped, as is the case in the close-to-equilibrium range. This is true in particular of systems in which we have a chain of transformations of the type A→B→C→D … and that may be described by linear differential equations.
+
+The fate of the fluctuations perturbing a chemical system, as well as the kinds of new situations to which it may evolve, thus depend on the detailed mechanism of the chemical reactions. In contrast with close-to-equilibrium situations, the behavior of a far-from-equilibrium system becomes highly specific. There is no longer any universally valid law from which the overall behavior of the system can be deduced. Each system is a separate case; each set of chemical reactions must be investigated and may well produce a qualitatively different behavior.
+
+Nevertheless, one general result has been obtained, namely a necessary condition for chemical instability: in a chain of chemical reactions occurring in the system, the only reaction stages that, under certain conditions and circumstances, may jeopardize the stability of the stationary state are precisely the “catalytic loops”—stages in which the product of a chemical reaction is involved in its own synthesis. This is an interesting conclusion, since it brings us closer to some of the fundamental achievements of modern molecular biology (see Figure 4).
+
+
+
+Figure 4. Catalytic loops correspond to nonlinear terms. In the case of a one-independent-variable problem, this means the occurrence of at least one term where the independent variable appears with a power higher than 1; in this simple case, it is easy to see the relation between such nonlinear terms and the potential instability of stationary states.
+
+Let us take for the independent variable X the time evolution dX/dt = f(X). It is always possible to decompose f(X) in two functions representing a gain and a loss f+(X) and f_(X), each of which is positive or 0, such that f(X) = f+(X)−f_(X). In this way, stationary states (dX/dt = 0) correspond to values where f+ (X) = f_(X).
+
+Those states are graphically given by the intersections of the two graphs plotting f+ and f−. If f+ and f− are linear, there can only be one intersection. In other cases, the type of the intersection permits us to infer the stability of the stationary state.
+
+Four cases are possible:
+
+SI: stable with respect to negative fluctuations, unstable with respect to positive ones: If the system deviates slightly to the left of SI, the positive difference between f+ and f− will reduce this deviation back to SI; deviations to the right will be amplified.
+
+SS: stable with respect to positive and negative fluctuations.
+
+IS: stable only with respect to positive fluctuations.
+
+II: unstable with respect to positive and negative fluctuations.
+
+
+
+
+
+Beyond the Threshold of Chemical Instability
+
+
+Today the study of chemical instabilities is common. Both theoretical and experimental work are being pursued in a large number of institutions and laboratories. Indeed, as will become clear, these investigations are of interest to a wide range of scientists—not only to mathematicians, physicists, chemists, and biologists, but also to economists and sociologists.
+
+In far-from-equilibrium conditions various new phenomena appear beyond the threshold of chemical instability. To describe them in a concrete fashion, it is useful to start with a simplified theoretical model, one that has been developed at Brussels during the past decade. American scientists have called this model the “Brusselator,” and this name is used in scientific literature (Geographical associations seem to have become the rule in this field; in addition to the Brusselator, there is an “Oregonator,” and most recently a “Palo-altonator”!). Let us briefly describe the Brusselator. The steps responsible for instability have already been noted (see Figure 3). The product X, synthetized from A and broken down into the form of E, is linked by a relationship of crosscatalysis to produce Y. X is produced from Y during a trimolecular step but, conversely, Y is synthetized by a reaction between X and a product B.
+
+In this model, the concentrations of the products A, B, D, and E are given parameters (the “control substances”). The behavior of the system is explored for increasing values of B, with A remaining constant. The stationary state toward which such a system is likely to evolve—the state for which dX/dt = dY/dt = 0—corresponds to concentrations X0 = A and Y0 = B/A. This can be easily verified by writing the kinetic equations and looking for the stationary state. However, this stationary state ceases to be stable as soon as the concentration of B exceeds a critical threshold (everything else being kept equal). After the critical threshold has been reached, the stationary state becomes an unstable “focus” and the system leaves this focus to reach a “limit cycle.”
+
+
+
+Figure 5. This scheme represents concentration of component X vs. concentration of component Y. The cycle’s focus (point S) is the stationary state, which is unstable for B>(1 + A2). All the trajectories (of which five are plotted), whatever their intitial state, lead to the same cycle.
+
+
+
+Instead of remaining stationary, the concentrations of X and Y begin to oscillate with a well-defined periodicity. The oscillation period depends both on the kinetic constants characterizing the reaction rates and the boundary conditions imposed on the system as a whole (temperature, concentration of A, B, etc.).
+
+Beyond the critical threshold the system spontaneously leaves the stationary state X0 = A, Y0 = B/A as the result of fluctuations. Whatever the initial conditions, it approaches the limit cycle, the periodic behavior of which is stable. We therefore have a periodic chemical process—a chemical clock. Let us pause a moment to emphasize how unexpected such a phenomenon is. Suppose we have two kinds of molecules, “red” and “blue.” Because of the chaotic motion of the molecules, we would expect that at a given moment we would have more red molecules, say, in the left part of a vessel. Then a bit later more blue molecules would appear, and so on. The vessel would appear to us as “violet,” with occasional irregular flashes of red or blue. However, this is not what happens with a chemical clock; here the system is all blue, then it abruptly changes its color to red, then again to blue. Because all these changes occur at regular time intervals, we have a coherent process.
+
+Such a degree of order stemming from the activity of billions of molecules seems incredible, and indeed, if chemical clocks had not been observed, no one would believe that such a process is possible. To change color all at once, molecules must have a way to “communicate.” The system has to act as a whole. We will return repeatedly to this key word, communicate, which is of obvious importance in so many fields, from chemistry to neurophysiology. Dissipative structures introduce probably one of the simplest physical mechanisms for communication.
+
+There is an interesting difference between the simplest kind of mechanical oscillator, the spring, and a chemical clock. The chemical clock has a well-defined periodicity corresponding to the limit cycle its trajectory is following. On the contrary, a spring has a frequency that is amplitude-dependent. From this point of view a chemical clock is more reliable as a timekeeper than a spring.
+
+But chemical clocks are not the only type of self-organization. Until now diffusion has been neglected. All substances were assumed to be evenly distributed over the reaction space. This is an idealization; small fluctuations will always lead to differences in concentrations and thus to diffusion. We therefore have to add diffusion to the chemical reaction equations. The diffusion-reaction equations of the Brusselator display an astonishing range of behaviors available to this system. Indeed, whereas at equilibrium and near-equilibrium the system remains spatially homogeneous, the diffusion of the chemical throughout the system induces, in the far-from-equilibrium region, the possibility of new types of instability, including the amplification of fluctuations breaking the initial spatial symmetry. Oscillations in time, chemical clocks, thus cease to be the only kind of dissipative structure available to the system. Far from it; for example, oscillations may appear that are now both time- and space-dependent. They correspond to chemical waves of X and Y concentrations that periodically pass through the system.
+
+
+
+Figure 6. Chemical waves simulated on computer: successive steps of evolution of spatial profile of concentration of constituent X in the “Brusselator” trimolecular model. At time t = 3.435 we recover the same distribution as at time t = 0. Concentration of A and B: 2,5.45 (B>[1 + A2]). Diffusion coefficients for X and Y: 8 10−3, 4 10−3.
+
+
+
+In addition, especially when the values of the diffusion constants of X and Y are quite different from each other, the system may display a stationary, time-independent behavior, and stable spatial structures may appear.
+
+Here we must pause once again, this time to emphasize how much the spontaneous formation of spatial structures contradicts the laws of equilibrium physics and Boltzmann’s order principle. Again, the number of complexions corresponding to such structures would be extremely small in comparison with the number in a uniform distribution. Still, nonequilibrium processes may lead to situations that would appear impossible from the classical point of view.
+
+The number of different dissipative structures compatible with a given set of boundary conditions may be increased still further when the problem is studied in two or three dimensions instead of one. In a circular, two-dimensional space, for instance, the spatially structured stationary state may be characterized by the occurrence of a privileged axis.
+
+
+
+Figure 7. Stationary state with privileged axis obtained by computer simulation. Concentration X is a function of geometrical coordinates ρ,θ in the horizontal plane. The location of the perturbation applied to the uniform unstable solution (XQ, Y0) is indicated by an arrow.
+
+
+
+This corresponds to a new, extremely interesting symmetry-breaking process, especially when we recall that one of the first stages in morphogenesis of the embryo is the formation of a gradient in the system. We will return to these problems later in this chapter and again in Chapter VI.
+
+Up to now it has been assumed that the “control substances” (A, B, D, and E) are uniformly distributed throughout the reaction system. If this simplification is abandoned, additional phenomena can occur. For example, the system takes on a “natural size,” which is a function of the parameters describing it. In this way the system determines its own intrinsic size—that is, it determines the region that is spatially structured or crossed by periodic concentration waves.
+
+These results still give a very incomplete picture of the variety of phenomena that may occur far from equilibrium. Let us first mention the possibility of multiple states far from equilibrium. For given boundary conditions there may appear more than one stationary state—for instance one rich in the chemical X, the other poor. The shift from one state to another plays an important role in control mechanisms as they have been described in biological systems.
+
+Since the classical work of Lyapounov and Poincaré, characteristic points such as focus or lines such as limit cycles were known to mathematicians as the “attractors” of stable systems. What is new is their application to chemical systems. It is worth noting that the first paper dealing with instabilities in reaction-diffusion systems was published by Turing in 1952. In recent years new types of attractors have been identified. They appear only when the number of independent variables increases (there are two independent variables in the Brusselator, the variables X and Y). In particular, we can get “strange attractors” that do not correspond to periodic behavior.
+
+Figure 8, which summarizes some calculations by Hao Bailin, gives an idea of such very complicated attractor lines calculated for a model generalizing the Brusselator through the addition of an external periodic supply of X. What is remarkable is that most of the possibilities we have described have been observed in inorganic chemistry as well as in a number of biological situations.
+
+
+
+Figure 8. (a) Bromide-ion concentration in the Belousov-Zhabotinsky reaction at times ti and ti + T (cf. R. H. Simoyi, A. Wolf, and H. L. Swinney, Physics Review Letters, Vol. 49 (1982), p. 245; see J. Hirsch, “Condensed Matter Physics,” and on computers, Physics Today (May 1983), pp. 44–52).
+
+(b) Attractor lines calculated by Hao Bai-lin for a Brusselator with external periodic supply of component X (personal communication).
+
+
+
+
+
+In inorganic chemistry the best-known example is the Belousov-Zhabotinsky reaction discovered in the early 1960s. The corresponding reaction scheme, the Oregonator, introduced by Noyes and his colleagues, is in essence similar to the Brusselator though more complex. The Belousov-Zhabotinsky reaction consists of the oxidation of an organic acid (malonic acid) by a potassium bromate in the presence of a suitable catalyst, cerium, manganese, or ferroin.
+
+
+
+Figure 9. Schematic representation of a chemical reactor used to study the oscillations in the Belousov-Zhabotinsky reaction (there is a stirring device in the reactor to keep the system homogeneous). The reaction has over thirty products and intermediates. The evolution of different reaction paths depends (among others factors) on the entries controlled by the pumps.
+
+
+
+Various experimental conditions may be set up giving different forms of autoorganization within the same system—a chemical clock, a stable spatial differentiation, or the formation of waves of chemical activity over macroscopic distances.5
+
+Let us now turn to a matter of the greatest interest: the relevance of these results for the understanding of living systems.
+
+
+
+
+
+The Encounter with Molecular Biology
+
+
+Earlier in this chapter we showed that in far-from-equilibrium conditions various types of self-organization processes may occur. They may lead to the appearance of chemical oscillations or to spatial structures. We have seen that the basic condition for the appearance of such phenomena is the existence of catalytic effects.
+
+Although the effects of “nonlinear” reactions (the presence of the reaction product) have a feedback action on their “cause” and are comparatively rare in the inorganic world, molecular biology has discovered that they are virtually the rule as far as living systems are concerned. Autocatalysis (the presence of X accelerates its own synthesis), autoinhibition (the presence of X blocks a catalysis needed to synthesize it), and crosscatalysis (two products belonging to two different reaction chains activate each other’s synthesis) provide the classical regulation mechanism guaranteeing the coherence of the metabolic function.
+
+Let us emphasize an interesting difference. In the examples known in inorganic chemistry, the molecules involved are simple but the reaction mechanisms are complex—in the Belousov-Zhabotinsky reaction, about thirty compounds have been identified. On the contrary, in the many biological examples we have, the reaction scheme is simple but the molecules (proteins, nucleic acids, etc.) are highly complex and specific. This can hardly be an accident. Here we encounter an initial element marking the difference between physics and biology. Biological systems have a past. Their constitutive molecules are the result of an evolution; they have been selected to take part in the autocatalytic mechanisms to generate very specific forms of organization processes.
+
+A description of the network of metabolic activations and inhibitions is an essential step in understanding the functional logic of biological systems. This includes the triggering of syntheses the moment they are needed and the blocking of those chemical reactions whose unused products would accumulate in the cell.
+
+The basic mechanism through which molecular biology explains the transmission and exploitation of genetic information is itself a feedback loop, a “nonlinear” mechanism. Deoxyribonucleic acid (DNA), which contains in sequential form all the information required for the synthesis of the various basic proteins needed in cell building and functioning, participates in a sequence of reactions during which this information is translated into the form of different protein sequences. Among the proteins synthesized, some enzymes exert a feedback action that activates or controls not only the different transformation stages but also the autocatalytic mechanism of DNA replication, by which genetic information is copied at the same rate as the cells multiply.
+
+Here we have a remarkable case of the convergence of two sciences. The understanding attained here required complementary developments in physics and biology, one toward the complex and the other toward the elementary.
+
+Indeed, from the point of view of physics, we now investigate “complex” situations far removed from the ideal situations that can be described in terms of equilibrium thermodynamics. On the other hand, molecular biology succeeded in relating living structures to a relatively small number of basic biomolecules. Investigating the diversity of chemical mechanisms, it discovered the intricacy of the metabolic reaction chains, the subtle, complex logic of the control, inhibition, and activation of the catalytic function of the enzymes associated with the critical step of each of the metabolic chains. In this way molecular biology provides the microscopic basis for the instabilities that may occur in far-from-equilibrium conditions.
+
+In a sense, living systems appear as a well-organized factory: on the one hand, they are the site of multiple chemical transformations; on the other, they present a remarkable “space-time” organization with highly nonuniform distribution of biochemical material. We can now link function and structure. Let us briefly consider two examples that have been studied extensively in the past few years.
+
+First we shall consider glycolysis, the chain of metabolic reactions during which glucose is broken down and an energy-rich substance ATP (adenosine triphosphate) is synthetized, providing an essential source of energy common to all living cells. For each glucose molecule that is broken down, two molecules of ADP (adenosine disphosphate) are transformed into two molecules of ATP. Glycolysis provides a fine example of how complemetary the analytical approach of biology and the investigation of stability in far-from-equilibrium conditions are.6
+
+Biochemical experiments have discovered the existence of temporal oscillations in concentrations related to the glycolytic cycle.7 It has been shown that these oscillations are determined by a key step in the reaction sequence, a step activated by ADP and inhibited by ATP. This is a typical nonlinear phenomenon well suited to regulate metabolic functioning. Indeed, each time the cell draws on its energy reserves, it is exploiting the phosphate bonds, and ATP is converted into ADR ADP accumulation inside the cell thus signifies intensive energy consumption and the need to replenish stocks. ATP accumulation, on the other hand, means that glucose can be broken down at a slower rate.
+
+Theoretical investigation of this process has shown that this mechanism is indeed liable to produce an oscillation phenomenon, a chemical clock. The theoretically calculated values of the chemical concentrations necessary to produce oscillation and the period of the cycle agree with the experimental data. Glycolytic oscillation produces a modulation of all the cell’s energy processes which are dependent on ATP concentration and therefore indirectly on numerous other metabolic chains.
+
+We may go farther and show that in the glycolytic pathway the reactions controlled by some of the key enzymes are in far-from-equilibrium conditions. Such calculations have been reported by Benno Hess8 and have since been extended to other systems. Under usual conditions the glycolytic cycle corresponds to a chemical clock, but changing these conditions can induce spatial pattern formations in complete agreement with the predictions of existing theoretical models.
+
+A living system appears very complex from the thermodynamic point of view. Certain reactions are close to equilibrium, and others are not. Not everything in a living system is “alive.” The energy flow that crosses it somewhat resembles the flow of a river that generally moves smoothly but that from time to time tumbles down a waterfall, which liberates part of the energy it contains.
+
+Let us consider another biological process that also has been studied from the point of view of stability: the aggregation of slime molds, the Acrasiales amoebas (Dictyostelium discoideum). This process9A is an interesting case on the borderline between unicellular and pluricellular biology. When the environment in which these amoebas live and multiply becomes poor in nutrients, they undergo a spectacular transformation. (See Figure A.) Starting as a population of isolated cells, they join to form a mass composed of several tens of thousands of cells. This “pseudoplasmodium” then undergoes differentiation, all the while changing shape. A “foot” forms, consisting of about one third of the cells and containing abundant cellulose. This foot supports a round mass of spores, which will detach themselves and spread, multiplying as soon as they come in contact with a suitable nutrient medium and thus forming a new colony of amoebas. This is a spectacular example of adaptation to the environment. The population lives in one region until it has exhausted the available resources. It then goes through a metamorphosis by means of which it acquires the mobility to invade other environments.
+
+The aggregation of cellular slime molds furnishes a particularly remarkable example of a self-organization phenomenon in a biological system in which a chemical clock plays an essential role. See Figure A.
+
+
+
+Figure A
+
+
+
+When coming out of spores the amoebae grow and multiply as unicellular organisms. This situation extends until food, principally furnished by bacteria, becomes scarce. Then the amoebae cease to reproduce and enter into an interphase that lasts some eight hours. At the end of this period the amoebae begin to aggregate around cells that behave as aggregation centers. The aggregation occurs in response to chemotactic signals emitted by the centers. The aggregate thus formed migrates until the conditions for the formation of a fruiting body are satisfied. Then the mass of cells differentiates to form a stalk surmounted by a mass of spores.
+
+In Dictyostelium discoideum, the aggregation proceeds in a periodic manner. Movies of aggregation process show the existence of concentric waves of amoebae moving toward the center with a periodicity of several minutes. The nature of the chemotactic factor is known: it is cyclic AMP (cAMP), a substance involved in numerous biochemical processes such as hormonal regulations. The aggregation centers release the signals of cAMP in a periodic fashion. The other cells respond by moving toward the centers and by relaying the signals to the periphery of the aggregation territory. The existence of a mechanism of relay of the chemotactic signals allows each center to control the aggregation of some 105 amoebae.
+
+The analysis of a model of the process of aggregation reveals the existence of two types of bifurcations. First the aggregation itself represents a breaking of spatial symmetry. The second bifurcation breaks the temporal symmetry.
+
+Initially the amoebae are homogeneously distributed. When some of them begin to secrete the chemotactic signals, there appear local fluctuations in the concentration of cAMP For a critical value of some parameter of the system (diffusion coefficient of cAMP, motility of the amoebae, etc.), fluctuations are amplified: the homogeneous distribution becomes unstable and the amoebae evolve toward an inhomogeneous distribution in space. This new distribution corresponds to the accumulation of amoebae around aggregation centers.
+
+To understand the origin of the periodicity in the aggregation of D. discoideum, it is necessary to study the mechanism of synthesis of the chemotactic signal. On the basis of experimental observations one can describe this mechanism by the scheme of Figure B.
+
+
+
+Figure B
+
+
+
+On the surface of the cell, receptors (R) bind the molecules of cAMP. The receptor faces the extracellular medium and is functionally linked to an enzyme, adenylate cyclase (C), which transforms intracellular ATP into cAMP. The cAMP thus synthesized is transported across the membrane into the extracellular medium, where it is degraded by phosphodiesterase, an enzyme that is secreted by the amoebae. The experiments show that binding of extracellular cAMP to the membrane receptor activates adenylate cyclase (positive feedback indicated by +).
+
+On the basis of this autocatalytic regulation, the analysis of a model for cAMP synthesis has permitted unification of different types of behavior observed during aggregation.9B
+
+Two key parameters of the model are the concentrations of adenylate cyclase (s) and of phosphodiesterase (k). Figure C (redrawn from A. GOLDBETER and L. SEGEL, Differentiation, Vol. 17 [1980], pp. 127–35), shows the behavior of the modelized system in the space formed by s and k.
+
+
+
+Figure C
+
+
+
+Three regions can be distinguished for different values of k and s. Region A corresponds to a stable, nonexcitable stationary state; region B to a stationary state stable but excitable: the system is capable of amplifying small perturbations in the concentration of cAMP in a pulsatory manner (and thus of relaying cAMP signals); region C corresponds to a regime of sustained oscillations around an unstable stationary state.
+
+The arrow indicates a possible “developmental path” corresponding to a rise in phosphodiesterase (k) and adenylate cyclase (s), a rise that is observed to occur after the beginning of starvation. The crossing of regions A, B and C corresponds to the observed change of behavior: cells are at first incapable of responding to extracellular cAMP signals; thereafter they relay these signals and, finally, they become capable of synthetizing them periodically in an autonomous way. The aggregation centers would thus be the cells for which the parameters s and k have reached the more rapidly a point located inside region C after starvation has begun.
+
+
+
+An investigation of the first stage of the aggregation process reveals that it begins with the onset of displacement waves in the amoeba population, with a pulsating motion of convergence of the amoebaes toward a “center of attraction,” which appears to be produced spontaneously. Experimental investigation and modelization have shown that this migration is a response by the cells to the existence in the environment of a concentration gradient in a key substance, cyclic AMP, which is periodically produced by an amoeba which is the attractor center and later by other cells through a relay mechanism. Here we again see the remarkable role of chemical clocks. They provide, as we have already stressed, new means of communication. In the present case, the self-organization mechanism leads to communication between cells.
+
+There is another aspect we wish to emphasize. Slime mold aggregation is a typical example of what may be termed “order through fluctuations”: the setting up of the attractor center giving off the AMP indicates that the metabolic regime corresponding to a normal nutritive environment has become unstable—that is, the nutritive environment has become exhausted. The fact that under such conditions of food shortage any given amoeba can be the first to emit cyclic AMP and thus become an attractor center corresponds to the random behavior of fluctuations. This fluctuation is then amplified and organizes the medium.
+
+
+
+
+
+Bifurcations and Symmetry-Breaking
+
+
+Let us take a closer look at the emergence of self-organization and the processes that occur when we go beyond this threshold. At equilibrium or near-equilibrium, there is only one steady state that will depend on the values of some control parameters. We shall call λ the control parameter, which, for example, may be the concentration of substance B in the Brusselator described in section 4. We now follow the change in the state of the system as the value of B increases. In this way the system is pushed farther and farther away from equilibrium. At some point we reach the threshold of the stability of the “thermodynamic branch.” Then we reach what is generally called a “bifurcation point.” (These are the points whose role Maxwell emphasized in his thoughts on the relation between determinism and free choice [see Chapter II, section 3].)
+
+Let us consider some typical bifurcation diagrams. At bifurcation point B, the thermodynamic branch becomes unstable in respect to fluctuations. For the value λc of the control parameter λ, the system may be in three different steady states: C, E, D. Two of these states are stable, one unstable. It is very important to emphasize that the behavior of such systems depends on their history. Suppose we slowly increase the value of the control parameter X; we are likely to follow the path A, B, C in Figure 10. On the contrary, if we start with a large value of the concentration X and maintain the value of the control parameter constant, we are likely to come to point D. The state we reach depends on the previous history of the system. Until now history has been commonly used in the interpretation of biological and social phenomena, but that it may play an important role in simple chemical processes is quite unexpected.
+
+
+
+Figure 10. Bifurcation diagram. The diagram plots the steady-state values of X as function of a bifurcation parameter λ. Continuous lines are stable stationary states; broken lines are unstable stationary states. The only way to get to branch D is to start with some concentration X0 higher than the value of X corresponding to branch E.
+
+
+
+Consider the bifurcation diagram represented in Figure 11. This differs from the previous diagram in that at the bifurcation point two new stable solutions emerge. Thus a new question: Where will the system go when we reach the bifurcation point? We have here a “choice” between two possibilities; they may represent either of the two nonuniform distributions of chemical X in space, as represented in Figures 12 and 13.
+
+
+
+Figure 11. Symmetrical bifurcation diagram. X is plotted as a function of λ. For λ<λc there is only one stationary state, which is stable. For λ>λC there are two stable stationary states for each value of λ (the formerly stable state becomes unstable).
+
+
+
+
+
+Figures 12 and 13. Two possible spatial distributions of the chemical component X, corresponding to each of the two branches in Figure 11. Figure 12 corresponds to a “left” structure as component X has a higher concentration in the left part; similarly, Figure 13 corresponds to a “right” structure.
+
+
+
+The two structures are mirror images of one another. In Figure 12 the concentration of X is larger at the left; in Figure 13 it is larger at the right. How will the system choose between left and right? There is an irreducible random element; the macroscopic equation cannot predict the path the system will take. Turning to a microscopic description will not help. There is also no distinction between left and right. We are faced with chance events very similar to the fall of dice.
+
+We would expect that if we repeat the experiment many times and lead the system beyond the bifurcation point, half of the system will go into the left configuration, half into the right. Here another interesting question arises: In the world around us, some basic simple symmetries seem to be broken.10 Everybody has observed that shells often have a preferential chirality. Pasteur went so far as to see in dissymmetry, in the breaking of symmetry, the very characteristic of life. We know today that DNA, the most basic nucleic acid, takes the form of a left-handed helix. How did this dissymmetry arise? One common answer is that it comes from a unique event that has by chance favored one of the two possible outcomes; then an autocatalytic process sets in, and the left-handed structure produces other left-handed structures. Others imagine a “war” between left- and right-handed structures in which one of them has annihilated the other. These are problems for which we have not yet found a satisfactory answer. To speak of unique events is not satisfactory; we need a more “systematic” explanation.
+
+We have recently discovered a striking example of the fundamental new properties that matter acquires in far-from-equilibrium conditions: external fields, such as the gravitational field, can be “perceived” by the system, creating the possibility of pattern selection.
+
+How would an external field—a gravitational field—change an equilibrium situation? The answer is provided by Boltzmann’s order principle: the basic quantity involved is the ratio of potential energy/thermal energy. This is a small quantity for the gravitational field of earth; we would have to climb a mountain to achieve an appreciable change in pressure or in the composition of the atmosphere. But recall the Bénard cell; from a mechanical perspective, its instability is the raising of its center of gravity as the result of thermal dilatation. In other words, gravitation plays an essential role here and leads to a new structure in spite of the fact that the Bénard cell may have a thickness of only a few millimeters. The effect of gravitation on such a thin layer would be negligible at equilibrium, but because of the nonequilibrium induced by the difference in temperature, macroscopic effects due to gravitation become visible even in this thin layer. Nonequilibrium magnifies the effect of gravitation.11
+
+Gravitation obviously will modify the diffusion flow in a reaction diffusion equation. Detailed calculations show that this can be quite dramatic near a bifurcation point of an unperturbed system. In particular, we can conclude that very small gravitational fields can lead to pattern selection.
+
+Let us again consider a system with a bifurcation diagram such as represented in Figure 11. Suppose that for no gravitation, g = 0, we have, as in Figures 12 and 13, an asymmetric “up/down” pattern as well as its mirror image, “down/up.” Both are equally probable, but when g is taken into account, the bifurcation equations are modified because the diffusion flow contains a term proportional to g. As a result, we now obtain the bifurcation diagram represented in Figure 14. The original bifurcation has disappeared—this is true whatever the value of the field. One structure (a) now emerges continuously as the bifurcation parameter grows, while the other (b) can be attained only through a finite perturbation.
+
+
+
+Figure 14. Phenomenon of assisted bifurcation in the presence of an external field. X is plotted as a function of parameter λ. The symmetrical bifurcation that would occur in the absence of the field is indicated by the dotted line. The bifurcation value is λc; the stable branch (b) is at finite distance from branch (a).
+
+
+
+Therefore, if we follow the path (a), we expect the system to follow the continuous path. This expectation is correct as long as the distance s between the two branches remains large in respect to thermal fluctuations in the concentration of X. There occurs what we would like to call an “assisted” bifurcation. As before, at about the value λc a self-organization process may occur. But now one of the two possible patterns is preferred and will be selected.
+
+The important point is that, depending on the chemical process responsible for the bifurcation, this mechanism expresses an extraordinary sensitivity. Matter, as we mentioned earlier in this chapter, perceives differences that would be insignificant at equilibrium. Such possibilities lead us to think of the simplest organisms, such as bacteria, which we know are able to react to electric or magnetic fields. More generally they show that far-from-equilibrium chemistry leads to possible “adaptation” of chemical processes to outside conditions. This contrasts strongly with equilibrium situations, in which large perturbations or modifications of the boundary conditions are necessary to determine a shift for one structure to another.
+
+The sensitivity of far-from-equilibrium states to external fluctuations is another example of a system’s spontaneous “adaptative organization” to its environment. Let us give an example12 of self-organization as a function of fluctuating external conditions. The simplest conceivable chemical reaction is the isomerization reaction where . In our model the product A can also enter into another reaction: A + light→A*→A + heat. A absorbs light and gives it back as heat while leaving its excited state A*. Consider these two processes as taking place in a closed system: only light and heat can be exchanged with the outside. Nonlinearity exists in the system because the transformation from B to A absorbs heat: the higher the temperature, the faster the formation of A. But also the higher the concentration of A, the higher the absorption of light by A and its transformation into heat, and the higher the temperature. A catalyzes its own formation.
+
+We expect to find that the concentration of A corresponding to the stationary state increases with the light intensity. This is indeed the case. But starting from a critical point, there appears one of the standard far-from-equilibrium phenomena: the coexistence of multiple stationary states. For the same values of light intensity and temperature, the system can be found in two different stable stationary states with different concentrations of A. A third, unstable state marks the threshold between the first two. Such a coexistence of stationary states gives birth to the well-known phenomenon of hysteresis. But this is not the whole story. If the light intensity, instead of being constant, is taken as randomly fluctuating, the situation is altered profoundly. The zone of coexistence between the two stationary states increases, and for certain values of the parameters coexistence among three stationary stable states becomes possible.
+
+In such a case, a random fluctuation in the external flux, often termed “noise,” far from being a nuisance, produces new types of behavior, which would imply, under deterministic fluxes, much more complex reaction schemes. It is important to remember that random noise in the fluxes may be considered as unavoidable in any “natural system.” For example, in biological or ecological systems the parameters defining interaction with the environment cannot generally be considered as constants. Both the cell and the ecological niche draw their sustenance from their environment; and humidity, pH, salt concentration, light, and nutrients form a permanently fluctuating environment. The sensitivity of nonequilibrium states, not only to fluctuations produced by their internal activity but also to those coming from their environment, suggests new perspectives for biological inquiry.
+
+
+
+Figure 15. This figure shows how a “hysteresis” phenomenon occurs if we have the value of the bifurcation parameter b first growing and then diminishing. If the system is initially in a stationary state belonging to the lower branch, it will stay there while b grows. But at b = b2, there will be a discontinuity: The system jumps from Q to Q’, on the higher branch. Inversely, starting from a state on the higher branch, the system will remain there till b = b1, when it will jump down to P’. Such types of bistable behavior are observed in many fields, such as lasers, chemical reactions or biological membranes.
+
+
+
+
+
+Cascading Bifurcations
+
+and the Transitions to Chaos
+
+
+The preceding paragraph dealt only with the first bifurcation or, as mathematicians put it, the primary bifurcation, which occurs when we push a system beyond the threshold of stability. Far from exhausting the new solutions that may appear, this primary bifurcation introduces only a single characteristic time (the period of the limit cycle) or a single characteristic length. To generate the complex spatial temporal activity observed in chemical or biological systems, we have to follow the bifurcation diagram farther.
+
+We have already alluded to phenomena arising from the complex interplay of a multitude of frequences in hydrodynamical or chemical systems. Let us consider Bénard structures, which appear at a critical distance from equilibrium. Farther away from thermal equilibrium the convection flow begins to oscillate in time; as the distance from equilibrium is increased still farther, more and more oscillation frequencies appear, and eventually the transition to equilibrium is complete.13 The interplays among the frequencies produce possibilities of large fluctuations; the “region” in the bifurcation diagram defined by such values of the parameters is often called “chaotic.” In cases such as the Bénard instability, order or coherence is sandwiched between thermal chaos and nonequilibrium turbulent chaos. Indeed, if we continue to increase the gradient of temperature, the convection patterns become more complex; oscillations set in, and the ordered aspect of the convection is largely destroyed. However, we should not confuse “equilibrium thermal chaos” and “nonequilibrium turbulent chaos.” In thermal chaos as realized in equilibrium, all characteristic space and time scales are of molecular range, while in turbulent chaos we have such an abundance of macroscopic time and length scales that the system appears chaotic. In chemistry the relation between order and chaos appears highly complex: successive regimes of ordered (oscillatory) situations follow regimes of chaotic behavior. This has, for instance, been observed as a function of the flow rate in the Belousov-Zhabotinsky reaction.
+
+In many cases it is difficult to disentangle the meaning of words such as “order” and “chaos.” Is a tropical forest an ordered or a chaotic system? The history of any particular animal species will appear very contingent, dependent on other species and on environmental accidents. Nevertheless, the feeling persists that, as such, the overall pattern of a tropical forest, as represented, for instance, by the diversity of species, corresponds to the very archetype of order. Whatever the precise meaning we will eventually give to this terminology, it is clear that in some cases the succession of bifurcations forms an irreversible evolution where the determinism of characteristic frequencies produces an increasing randomness stemming from the multiplicity of those frequencies.
+
+A remarkably simple road to “chaos” that has already attracted a lot of attention is the “Feigenbaum sequence.” It concerns any system whose behavior is characterized by a very general feature—that is, for a determined range of parameter values the system’s behavior is periodic, with a period T; beyond this range, the period becomes 2T, and beyond yet another critical threshold, the system needs 4T in order to repeat itself. The system is thus characterized by a succession of bifurcations, with successive period doubling. This constitutes a typical route going from simple periodic behavior to the complex aperiodic behavior occurring when the period has doubled ad infinitum. This route, as Feigenbaum discovered, is characterized by universal numerical features independent of the mechanism involved as long as the system possesses the qualitative property of period doubling. “In fact, most measurable properties of any such system in this aperiodic limit now can be determined in a way that essentially bypasses the details of the equations governing each specific system.…”14
+
+In other cases, such as those represented in Figure 16, both deterministic and stochastic elements characterize the history of the system.
+
+
+
+Figure 16. Temporal oscillations of the ion Br- in the Belousov-Zhabotinski reaction. The figure represents a succession of regions corresponding to qualitative differences. This is a schematic representation. The experimental data indicate the existence of much more complicated sequences.
+
+
+
+If we consider Figure 17 and a value of the control parameter of the order of λ6, we see that the system already has a wealth of possible stable and unstable behaviors. The “historical” path along which the system evolves as the control parameter grows is characterized by a succession of stable regions, where deterministic laws dominate, and of instable ones, near the bifurcation points, where the system can “choose” between or among more than one possible future. Both the deterministic character of the kinetic equations whereby the set of possible states and their respective stability can be calculated, and the random fluctuations “choosing” between or among the states around bifurcation points are inextricably connected. This mixture of necessity and chance constitutes the history of the system.
+
+
+
+Figure 17. Bifurcation diagram. Steady-state solutions are plotted against bifurcation parameter λ. For λ<λ1 there is only one stationary state for each value of λ; this set of states forms the branch a. For λ = λ1 two other sets of stationary states become possible (branches b and b’).
+
+The states of b’ are unstable but become stable at λ = λ2 while the states of branch a become unstable. For λ = λ3 the branch b’ is unstable again, and two other stable branches appear.
+
+For λ = λ4 the unstable branch a attains a new bifurcation point where two new branches become possible, which will be unstable up to λ = λ5 and λ=λ6.
+
+
+
+
+
+From Euclid to Aristotle
+
+
+One of the most interesting aspects of dissipative structures is their coherence. The system behaves as a whole, as if it were the site of long-range forces. In spite of the fact that interactions among molecules do not exceed a range of some 10−8 cm, the system is structured as though each molecule were “informed” about the overall state of the system.
+
+It has often been said—and we have already repeated it—that modern science was born when Aristotelian space, for which one source of inspiration was the organization and solidarity of biological functions, was replaced by the homogeneous and isotropic space of Euclid. However, the theory of dissipative structures moves us closer to Aristotle’s conception. Whether we are dealing with a chemical clock, concentration waves, or the inhomogeneous distribution of chemical products, instability has the effect of breaking symmetry, both temporal and spatial. In a limit cycle, no two instants are equivalent; the chemical reaction acquires a phase similar to that characterizing a light wave, for example. Again, when a favored direction results from an instability, space ceases to be isotropic. We move from Euclidian to Aristotelian space!
+
+It is tempting to speculate that the breaking of space and time symmetry plays an important part in the fascinating phenomena of morphogenesis. These phenomena have often led to the conviction that some internal purpose must be involved, a plan realized by the embryo when its growth is complete. At the beginning of this century, German embryologist Hans Driesch believed that some immaterial “entelechy” was responsible for the embryo’s development. He had discovered that the embryo at an early stage was capable of withstanding the severest perturbations and, in spite of them, of developing into a normal, functional organism. On the other hand, when we observe embryological development on film, we “see” jumps corresponding to radical reorganizations followed by periods of more “pacific” quantitative growth. There are, fortunately, few mistakes. The jumps are performed in a reproducible fashion. We might speculate that the basic mechanism of evolution is based on the play between bifurcations as mechanisms of exploration and the selection of chemical interactions stabilizing a particular trajectory. Some forty years ago, the biologist Waddington introduced such an idea. The concept of “chreod” that he introduced to describe the stabilized paths of development would correspond to possible lines of development produced as a result of the double imperative of flexibility and security.15 Obviously the problem is very complex and can be dealt with only briefly here.
+
+Many years ago embryologists introduced the concept of a morphogenetic field and put forward the hypothesis that the differentiation of a cell depends on its position in that field. But how does a cell “recognize” its position? One idea that is often debated is that of a “gradient” of a characteristic substance, of one or more “morphogens.” Such gradients could actually be produced by symmetry-breaking instabilities in far-from-equilibrium conditions. Once it has been produced, a chemical gradient can provide each cell with a different chemical environment and thus induce each of them to synthesize a specific set of proteins. This model, which is now widely used, seems to be in agreement with experimental evidence. In particular, we may refer to Kauffman’s work16 on drosophila. A reaction-diffusion system is taken as responsible for the commitment to alternative development programs that appear to occur in different groups of cells in the early embryo. Each compartment would be specified by a unique combination of binary choices, each of these choices being the result of a spatial symmetry-breaking bifurcation. The model leads to successful predictions about the result of transplantations as a function of the “distance” between the original and final regions—that is, of the number of differences among the states of the binary choices or “switches” that specify each of them.
+
+
+
+Figure 18. Schematic representation of the structure of the drosophila embryo as it results from successive binary choices. See text for more detail.
+
+
+
+Such ideas and models are especially important in biological systems where the embryo begins to develop in an apparently symmetrical state (for example, Fucus, Acetabularia). We may ask if the embryo is really homogeneous at the beginning. And even if small inhomogeneities are present in the initial environment, do they cause or channel evolution toward a given structure? Precise answers to such questions are not available at present. However, one thing seems established: the instability connected with chemical reactions and transport appears as the only general mechanism capable of breaking the symmetry of an initially homogeneous situation.
+
+The very possibility of such a solution takes us far beyond the age-old conflict between reductionists and antireductionists. Ever since Aristotle (and we have cited Stahl, Hegel, Bergson, and other antireductionists), the same conviction has been expressed: a concept of complex organization is required to connect the various levels of description and account for the relationship between the whole and the behavior of the parts. In answer to the reductionists, for whom the sole “cause” or organization can lie only in the part, Aristotle with his formal cause, Hegel with his emergence of Spirit in Nature, and Bergson with his simple, irrepressible, organization-creating act, assert that the whole is predominant. To cite Bergson,
+
+In general, when the same object appears in one aspect as simple and in another as infinitely complex, the two aspects have by no means the same importance, or rather the same degree of reality. In such cases, the simplicity belongs to the object itself, and the infinite complexity to the views we take in turning around it, to the symbols by which our senses or intellect represent it to us, or, more generally, to elements of a different order, with which we try to imitate it artificially, but with which it remains in commensurable, being of a different nature. An artist of genius has painted a figure on his canvas. We can imitate his picture with many-coloured squares of mosaic. And we shall reproduce the curves and shades of the model so much the better as our squares are smaller, more numerous and more varied in tone. But an infinity of elements infinitely small, presenting an infinity of shades, would be necessary to obtain the exact equivalent of the figure that the artist has conceived as a simple thing, which he has wished to transport as a whole to the canvas, and which is the more complete the more it strikes us as the projection of an indivisible intuition.17
+
+
+
+In biology, the conflict between reductionists and antireductionists has often appeared as a conflict between the assertion of an external and an internal purpose. The idea of an immanent organizing intelligence is thus often opposed by an organizational model borrowed from the technology of the time (mechanical, heat, cybernetic machines), which immediately elicits the retort: “Who” built the machine, the automaton that obeys external purpose?
+
+As Bergson emphasized at the beginning of this century, both the technological model and the vitalist idea of an internal organizing power are expressions of an inability to conceive evolutive organization without immediately referring it to some preexisting goal. Today, in spite of the spectacular success of molecular biology, the conceptual situation remains about the same: Bergson’s argument could be applied to contemporary metaphors such as “organizer,” “regulator,” and “genetic program.” Unorthodox biologists such as Paul Weiss and Conrad Waddington18 have rightly criticized the way this kind of qualification attributes to individual molecules the power to produce the global order biology aims to understand, and, by so doing, mistakes the formulation of the problem for its solution.
+
+It must be recognized that technological analogies in biology are not without interest. However, the general validity of such analogies would imply that, as in an electronic circuit, for example, there is a basic homogeneity between the description of molecular interaction and that of global behavior: The functioning of a circuit may be deduced from the nature and position of its relays; both refer to the same scale, since the relays were designed and installed by the same engineer who built the whole machine. This cannot be the rule in biology.
+
+It is true that when we come to a biological system such as the bacterial chemotaxis, it is hard not to speak of a molecular machine consisting of receptors, sensory and regulatory processing systems, and motor response. We know of approximately twenty or thirty receptors that can detect highly specific classes of compounds and make a bacterium swim up spatial gradients of attractants or down gradients of repellents. This “behavior” is determined by the output of the processing system—that is, the switching on or off of a tumble that generates a change in the bacterium’s direction.19
+
+But such cases, fascinating as they are, do not tell the whole story. In fact it is tempting to see them as limiting cases, as the end products of a specific kind of selective evolution, emphasizing stability and reproducible behavior against openness and adaptability. In such a perspective, the relevance of the technological metaphor is not a matter of principle but of opportunity.
+
+The problem of biological order involves the transition from the molecular activity to the supermolecular order of the cell. This problem is far from being solved.
+
+Often biological order is simply presented as an improbable physical state created and maintained by enzymes resembling Maxwell’s demon, enzymes that maintain chemical differences in the system in the same way as the demon maintains temperature and pressure differences. If we accept this, biology would be in the position described by Stahl. The laws of nature allow only death. Stahl’s notion of the organizing action of the soul is replaced by the genetic information contained in the nucleic acids and expressed in the formation of enzymes that permit life to be perpetuated. Enzymes postpone death and the disappearance of life.
+
+In the context of the physics of irreversible processes, the results of biology obviously have a different meaning and different implications. We know today that both the biosphere as a whole as well as its components, living or dead, exist in far-from-equilibrium conditions. In this context life, far from being outside the natural order, appears as the supreme expression of the self-organizing processes that occur.
+
+We are tempted to go so far as to say that once the conditions for self-organization are satisfied, life becomes as predictable as the Bénard instability or a falling stone. It is a remarkable fact that recently discovered fossil forms of life appear nearly simultaneously with the first rock formations (the oldest microfossils known today date back 3.8·109 years, while the age of the earth is supposed to be 4.6·109 years; the formation of the first rocks is also dated back to 3.8·109 years). The early appearance of life is certainly an argument in favor of the idea that life is the result of spontaneous self-organization that occurs whenever conditions for it permit. However, we must admit that we remain far from any quantitative theory.
+
+To return to our understanding of life and evolution, we are now in a better position to avoid the risks implied by any denunciation of reductionism. A system far from equilibrium may be described as organized not because it realizes a plan alien to elementary activities, or transcending them, but, on the contrary, because the amplification of a microscopic fluctuation occurring at the “right moment” resulted in favoring one reaction path over a number of other equally possible paths. Under certain circumstances, therefore, the role played by individual behavior can be decisive. More generally, the “overall” behavior cannot in general be taken as dominating in any way the elementary processes constituting it. Self-organization processes in far-from-equilibrium conditions correspond to a delicate interplay between chance and necessity, between fluctuations and deterministic laws. We expect that near a bifurcation, fluctuations or random elements would play an important role, while between bifurcations the deterministic aspects would become dominant. These are the questions we now need to investigate in more detail.
+
+
+
+
+

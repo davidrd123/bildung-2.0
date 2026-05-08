@@ -1,0 +1,24 @@
+Preface
+
+At lunch on March 25, 1980, at a workshop on Artificial Intelligence and Philosophy at Stanford’s Center for Advanced Study in the Behavioral Sciences, one of the participants suggested that we would all have been better off if Kant had written his Critique of Pure Reason in Lisp.1 Looking up in alarm, I locked eyes with an equally shocked participant, in the person of John Haugeland. So began a fast friendship and intellectual partnership that lasted until May 22, 2010, when John tragically succumbed to a heart attack at his own Festschrift at the University of Chicago.2
+
+Haugeland was a philosopher, trained in existentialism and the philosophy of Heidegger, who devoted considerable resources to exploring the philosophical foundations of artificial intelligence (AI). I met him just as I was completing a doctorate in computer science at the Artificial Intelligence Laboratory at MIT. From that technical background I have spent much of my career reaching in the opposite direction from John, but toward the same territory: the philosophical imbrications of computation and mind. Our backgrounds were contrapuntal, but the common interest arose out of a deeper similarity: Haugeland’s father was a machinist;3 my own, a theologian. Neither of us had in fact ever been purely one thing or the other. We grew up and dwelt in the same textured landscape between the technical and the philosophical—a landscape we were destined to spend hundreds of hours exploring together. “That’s what I was just about to think!” became a staple of our endless conversations.
+
+In the circumstance, I was unable to give a paper at Haugeland’s Festschrift. This work is an attempt to lay out some of the views I would like to have presented.
+
+Thanks especially to Güven Güzeldere, Amogha Sahu, and Henry Thompson for reading multiple drafts, and for extended ensuing discussions of these topics. Thanks as well to Christoph Becker, Jim Brink, Tony Chemero, Ron Chrisley, Nils Dahlbäck, Sandra Danilovic, Gillian Einstein, Lana el Sanyoura, Robert Gibbs, Vinod Goel, Stefan Heck, Steven Hockema, Atoosa Kasirzadeh, Jun Luo, Jim Mahoney, Tobias Rees, Murray Shanahan, Arnold Smith, and Rasmus Winther—as well as two anonymous reviewers. I also want to thank Ron Chrisley and the members of the “Minds, Machines, and Metaphysics” community (3M), first convened at the University of Indiana in the 1990s, that Ron has recently reconstituted, online, bringing together many of students with whom it has been my honor to work over the years. I know for a fact that no one mentioned here agrees with everything in this book, but I am nevertheless extremely grateful to them all. I can assure each and every one that the book is immensely better for their interventions.
+
+Thanks to Robert Prior, Executive Editor at the MIT Press, for stewardship of this book and for faith and support over many years, and to Elizabeth Agresta for assistance in publication details.
+
+I am also extremely grateful to Reid Hoffman for supporting the writing of this work, the research on which it is based, and the chance to pursue these topics over coming years. I also want to acknowledge his challenge to me, on December 16, 2017, to think about how we humans should approach living with synthetic forms of intelligence. I view this book as a chance to give voice to some initial thoughts.
+
+Thanks beyond words to Gillian Einstein, as well—without whom I dare not imagine.
+
+
+______________
+
+1. I wrote my dissertation on Lisp; it was not for lack of familiarity with the programming language that I was appalled.
+
+2. Haugeland lived for another month, passing away on June 23, but never regained consciousness after the conference.
+
+3. While a graduate student, Haugeland built himself a printer by assembling a grid of relays, to which he attached bent paper clips that reached up and pulled down the keys on a scavenged IBM Selectric typewriter. He fabricated appropriate electronics and wrote a program to control the device, which served him for many years.

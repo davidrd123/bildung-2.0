@@ -1,0 +1,1605 @@
+# II. Zahl und Kontinuum. Das Unendliche
+
+Section ID: math-02-zahl-und-kontinuum
+Kind: chapter
+PDF pages: 48-91
+Printed pages: 47-90
+Status: OCR-derived cleaned draft; page images remain the authority.
+
+[[pdf-page:0048 printed-page:47]]
+
+II. Zahl und Kontinuum. Das Unendliche
+
+5. Rationale Zahlen. Das Komplexe
+
+Beim genetischen Aufbau des mathematischen Zahlenreichs
+nimmt man seinen Ausgang von den natürlichen Zahlen der Reihe
+1,2, 3,.... Der erste Schritt, der zu tun ist, ist der Aufstieg von den
+natürlichen Zahlen zu den Brüchen. Die Brüche verdanken historisch ihre Entstehung dem Übergang vom Zählen zum Messen.
+Dem Messen liegt stets zugrunde ein Größengebiet, wie es z.B.
+die Strecken auf einer Geraden bilden. Hier herrscht 1. eine Beziehung der Gleichheit a = b (Kongruenz), die den dafür aufgestellten Axiomen ($8. 23) genügt, und 2. eine Operation, die aus
+irgend zwei Strecken a, b eine Strecke a + b erzeugt. Aus der
+Strecke a entsteht dann z. B. die Strecke 5a, indem man die Summe
+a+a+ta-+raH+ a mit fünf Summanden a bildet. Damit ist der
+Anschluß des Messens an das Zählen vollzogen. Die Erklärung
+der Vervielfältigung kann scharf so gefaßt werden:
+
+a) la=a;
+
+‚ß) ist neine natürliche Zahl, so entsteht (n + 1) a aus na gemäß
+der Formel
+
+(n+l)a=(na)+a.
+
+Im Gebiete der Strecken gestattet die Operation der Vervielfältigung eine eindeutige Umkehrung, die Teilung: es existiert
+bei gegebener Strecke a und natürlicher Zahl r eine und (im Sinne
+der Gleichheit) nur eine Strecke x, für welche nx = a ist; sie wird
+mit a/n bezeichnet. Die Operation der Teilung kann man mit der
+Vervielfältigung kombinieren. So entsteht z.B. 5a/3, das „5/3-
+fache“ von a. Das Bruchzeichen m/n dient als Symbol der zusammengesetzten Operation, so daß zwei Brüche gleich sind, wenn
+die beiden durch sie bezeichneten Operationen zum gleichen
+Resultat führen, auf welche Strecke a sie auch angewendet werden
+mögen. Die Multiplikation der Brüche bedeutet die Hinterein-
+
+[[pdf-page:0049 printed-page:48]]
+
+anderausführung der durch sie gekennzeichneten Operationen.
+Daß Brüche sich addieren lassen, beruht darauf, daß die (in ihrer
+Anwendung auf die willkürliche Strecke x) durch
+
+mx mx
+
+n n*
+
+ausgedrückte Operation durch einen einzigen Bruch repräsentiert
+werden kann.
+
+Es ist nicht angebracht, für jedes Größengebiet eigene Brüche
+einzuführen; sondern, da ihre Gesetze unabhängig sind von der
+Natur des Größengebietes, ist es zweckmäßiger, sie rein arithmetisch zu definieren?). Das gelingt nun einfach dadurch, daß die
+obigen Überlegungen angewendet werden auf das Größengebiet
+der natürlichen Zahlen selbst. Daß in diesem Gebiet eine Beziehung wie
+
+5x=3y
+
+zwischen x und y sich bei gegebenem x nicht immer nach y auflösen läßt, spielt bei der Entwicklung der Theorie keine Rolle.
+So kommen wir zu folgender Fassung: „Zwei natürliche Zahlen
+m, n bestimmen einen Bruch m/n. Daß von irgend zwei natürlichen
+Zahlen x und y die zweite das m/n-fache der ersten sei, ist nur ein
+anderer Ausdruck für die Gleichung mx = ny.“ Das ist eine
+schöpferische Definition im Sinne von $ 2. Zwei Brüche m/n, m*/n*
+sind gleich, wenn beliebige Zahlen x, y, welche in der Beziehung
+mx == ny zueinander stehen, stets auch die Relation m*x = n*y
+erfüllen, und umgekehrt. Die Regeln für das Rechnen mit natür-
+
+}) Dies deckt sich mit der ältesten mathematischen Tradition, der der
+Sumerer. Erst nach der Entdeckung des Irrationalen gaben die Griechen
+den algebraischen Weg auf, nachdem sie gezwungen sind, algebraische Tatsachen geometrisch auszudrücken. Das nachklassische Abendland, teils unter
+dem Eindruck der algebraischen Leistungen der Araber, kehrte diese Entwicklung um. Indessen gab es vom modernen Standpunkt aus wenig Berechtigung alle Größen unter einen universellen Zahlenbegriff zu stellen, ehe
+Dedekind der Analyse des Irrationalen von Eudoxos seine konstruktive
+Wendung gab (vgl. $ 7).
+
+[[pdf-page:0050 printed-page:49]]
+
+lichen Zahlen gestatten, dieses transfinite Kriterium, das seinem
+Wortlaut nach ein Durchprobieren aller möglichen Zahlen x, y
+fordert, durch das finite zu ersetzen:
+
+(K) m:n"=n-m*.
+
+Darum liegt der besondere Fall der Definition durch Abstraktion
+vor: die Gleichheit der Brüche m/n, m*/n* kann direkt durch (X)
+erklärt werden, wenn man sich zuvor davon überzeugt hat, daß
+diese Relation eine Äquivalenz ist. Die Einführung der Brüche
+als „ideale Elemente“ kann auch ohne Rücksicht auf die Anwendungen von rein arithmetischem Gesichtspunkt aus dadurch
+motiviert werden, daß bei geeigneter Ausdehnung der Zahloperationen auf dieselben die wichtigsten arithinetischen Axiome bestehen bleiben und außerdem die Umkehrbarkeit der Multiplikation, die Möglichkeit des Dividierens, erzwungen wird, welche
+in der Arithmetik der natürlichen Zablen nur ausnahmsweise
+stattfindet.
+
+Wendet man den gleichen Gedanken von neuem an, um auch die
+Umkehrbarkeit der Addition zu erzwingen, so gelangt man von den
+Brüchen zu den (die O und das Negative einschließenden) rationalen
+Zahlen. (Freilich ein schwerwiegendes Opfer muß man dabei bringen:
+die Möglichkeit der Division kann nicht gerettet werden für den Divisor
+0.) Hier treten nirgendwo logische Dunkelheiten oder philosophische
+Schwierigkeiten auf. Eine viel ernstere Angelegenheit ist der Ausgangspunkt, das System der natürlichen Zahlen, und das Irrationale, der
+Übergang von den rationalen zum Kontinuum der reellen Zahlen. Ist
+aber einmal diese Stufe erklommen, so führt das Weiterschreiten zu den
+komplexen und hyperkomplexen Zahlen an keinen Abgründen mehr
+vorbei. Zur Einführung der komplexen Zahlen hat man nur zu beschreiben, wodurch eine einzelne solche Zahl gegeben wird und wie mit ihnen
+zu operieren ist. Sie wird gegeben durch ihre beiden Komponenten; wir
+können also geradezu sagen, unter komplexer Zahl sei jedes reelle
+Zahlenpaar (x, ß) zu verstehen (Hamilton 1837). Die Operationsregeln
+wollen wir hier nicht explizite hersetzen. Nach ihnen spielt im komplexen
+Gebiet (1, 0) = e die Rolle der Einheit, weil ihre Multiplikation mit jeder
+komplexen Zahl (x, $) diese Zahl (&, £) reproduziert. Und (0, 1) ist jene
+imaginäre Einheit i, welche der Gleichung i' i = — e genügt. Der innere
+Grund für die Festsetzungen ist wiederum der, daß sie die Gültigkeit
+
+[[pdf-page:0051 printed-page:50]]
+
+der formalen Rechengesetze auf die komplexen Zahlen, die reellen
+Zahlenpaare übertragen. Von dem mystischen Geruch, in dem lange
+Zeit die imaginären Größen standen), ist nichts übrig geblieben. Von
+den komplexen kann man zu den hyperkomplexen Zahlen aufsteigen
+mit 3 und mehr Komponenten. Aber es ließ sich allgemein zeigen, daß
+wie auch die Addition und Multiplikation in ihrem Gebiet definiert
+werden mögen, die Geltung aller Rechengesetze nicht aufrechterhalten
+werden kann. Insofern bezeichnen die komplexen Zahlen eine natürliche
+Grenze für die Erweiterung des Zahlbegriffs. Dennoch sind auch hyperkomplexe Zahlsysteme in der Mathematik von Bedeutung; so die vierkomponentigen Quaternionen, welche von den Rechengesetzen nur das
+kommutative Gesetz der Multiplikation nicht erfüllen, als geeignetes
+Hilfsmittel zur Beherrschung der Drehungen eines starren Körpers im
+Raum.
+
+Statt das Zahlenreich genetisch aufzubauen, kann man die Arithmetik auch auf ein Axiomensystem gründen. Die Genesis dient dann lediglich dazu, seine Widerspruchsfreiheit auf die Widerspruchsfreiheit der
+für die natürlichen Zahlen geltenden Axiome zurückzuführen. Die
+arithmetischen Axiome zerfallen in zwei Gruppen, die algebraischen
+und die Größen-Axiome. Die algebraische Gruppe handelt von den
+Operationen der Addition und Multiplikation. Sie enthält die formalen
+Rechengesetze (wie a+b=b+ a), fordert die Existenz einer 0 und
+einer 1 mit den Eigenschaften
+
+a+0=0+a=a, Ia=4l=a
+und die Umkehrbarkeit der Addition und der Multiplikation (mit Aus-
+
+1) Huyghens erklärt z. B. 1674 (s. Leibniz, Math. Schriften, ed. Gerhardt II,
+S.15) anläßlich einer komplexen Formel: I y a quelque chose de cache
+la-dedans, qui nous est incomprehensible. Selbst Cauchy hat 1821 noch recht
+unklare Vorstellungen über das Operieren mit komplexen Größen. Aber das
+Negative verursachte seinerzeit nicht viel weniger Kopfzerbrechen. Betreffs
+der Regel: minus mal minus gleich plus, sagt Clavius 1612: debilitas humani
+ingenii accusanda (videtur), quod capere non potest, quo pacto id verum esse
+Ppossit. Noch Descartes bezeichnet, dem Brauch der damaligen Zeit gemäß,
+die negativen Wurzeln einer algebraischen Gleichung als falsche Wurzeln. —
+Die noch heute zuweilen gehörte Erklärung, i sei diejenige Zahl, die mit sich
+selbst multipliziert —1 ergibt, ist, solange nur die reellen Zahlen zur Verfügung stehen, als Erklärung natürlich der reinste Unsinn; sie enthält lediglich
+die Aufforderung, den Zahlbegriff so zu erweitern und den Sinn der Multiplikation auf das erweiterte Gebiet so auszudehnen, daß die gewünschte
+Gleichung zustande kommt.
+
+[[pdf-page:0052 printed-page:51]]
+
+nahme der Division durch 0). Die Größenaxiome (die im Gebiet der
+komplexen Zahlen außer Kraft gesetzt sind) handeln von der Beziehung
+a > b(aist größer als b). Man vergleiche die Tabelle in Hilberts „Grundlagen der Geometrie“.
+
+LITERATUR
+W. R. Hamilton, Lectures on Quaternions. Dublin 1853.
+H. Hankel, Theorie der komplexen Zahlen. Leipzig 1867.
+D. Hilbert, Grundlagen der Geometrie.
+O. Hölder, Die Arithmetik in strenger Begründung. Leipzig 1914.
+
+6. Die natürlichen Zahlen
+
+„Die ganze Zahl schuf der liebe Gott; alles übrige ist Menschenwerk“ lautet ein viel zitierter Ausspruch von Kronecker. In den
+natürlichen Zahlen stellt sich das Problem der Erkenntnis in seiner
+schlichtesten Form. Nehmen wir auch hier das rein Mathematische vorweg!
+
+Die Zahlenreihe hebt an mit der 1 und wird erzeugt durch
+einen Prozeß, der immer aus einer schon gewonnenen Zahl die
+nächstfolgende hervortreibt; niemals kehrt im Fortschreiten eine
+schon dagewesene Zahl wieder. Ein die Zahlen betreffender allgemeiner Begriff kann daher nur gewonnen werden durch ‚vollständige Induktion“, indem man nämlich angibt, &) was er für die
+erste Zahl 1 bedeutet, und 8) wie er sich von einer beliebigen
+Zahl n auf die nächstfolgende n’ (= n + 1) überträgt. Beispiele:
+Die Definition von na im vorigen Paragraphen. Die Begriffe gerade
+und ungerade: «) 1 ist ungerade; ß) n’ ist gerade oder ungerade,
+je nachdem n ungerade oder gerade ist. Der allgemeine Begriff der
+Addition a + n zweier natürlichen Zahlen a und n:
+
+eo) a+tl=a'; P) atn’=(a+n)'.
+
+Was von den Begriffen, gilt analog von den Beweisen. Mit Hilfe
+dieser Methode der Definition und des Beweises durch vollständige
+Induktion, der Definition und des Schlusses von rn auf n + 1, wie
+sie auch genannt werden, läßt sich die Theorie der natürlichen
+
+[[pdf-page:0053 printed-page:52]]
+
+Zahlen voliständig aufbauen. Jener Schluß bringt in die mathematische Beweisführung ein ganz neues und eigenartiges Moment
+hinein, das die Aristotelische Logik noch nicht kennt, und ist die
+eigentliche Seele der mathematischen Beweiskunst. Explizite ausgesprochen wurde, wie es scheint, das Prinzip der vollständigen
+Induktion erst von B. Pascal (1654) und Jakob Bernoulli (1686).
+
+Bei der eben angedeuteten Begründung der Zahlentheorie ist
+die Reihung der Zahlen das Wesentliche, sie treten primär als
+Ordinalzahlen auf und sind nur durch ihre Stellung in der Reihe
+gekennzeichnet. Mit Recht sagt daher Schopenhauer (Vierfache
+Wurzel des Satzes vom zureichenden Grunde, $ 38) von dieser
+Auffassung des Zahlbegriffes: „Jede Zahl setzt die vorhergehenden als Gründe ihres Seins voraus: zur zehn kann ich nur gelangen
+durch alle vorhergehenden...‘‘ Das bekannte, auf einen vorgelegten Inbegriff von Gegenständen angewandte Zählverfahren
+liefert dann eine bestimmte natürliche Zahl als Anzahl der Elemente des Inbegriffs. Durch das Zählverfahren werden die Elemente des Inbegriffs selber in eine geordnete Reihe gebracht (erstes
+zweites, drittes,...); es bedarf einer besonderen Überlegung, um
+die fundamentale Tatsache allgemein sicherzustellen, daß das
+Resultat der Durchzählung unabhängig ist von der befolgten Anordnung. Erst dadurch wird der Begriff der Kardinalzahl auf
+sichere Füße gestellt. Man vergleiche etwa die Darstellung bei
+Heimholtz, Zählen und Messen (Wissenschaftliche Abhandlungen
+III, S. 356; ferner L. Kronecker, Werke III 1, S. 249).
+
+Es ist viel darüber gestritten worden, ob nicht umgekehrt die Kardinalzahi das Erste und die Ordinalzahl der sekundäre Begriff sei. Den
+Begriff der Anzahl einer Menge muß man, wenn die Kardinalzabi unabhängig von einer Anordnung eingeführt werden soll, wie auf S.23 durch
+Abstraktion definieren. Es ist diese Definition nicht einmal auf endliche
+Mengen beschränkt; die an sie sich knüpfende Theorie der unendlichen
+Kardinalzahlen hat G. Canor im Rahmen seiner allgemeinen Mengenlehre entwickelt. Aber die Möglichkeit der Paarung, von der im Kriterium
+der Gleichzahligkeit die Rede ist, läßt sich nur prüfen, wenn die Zuordnungsakte einer nach dem andern, in geordneter zeitlicher Folge,
+vorgenommen und damit die Elemente beider Mengen selber geordnet
+werden. Reißt man die Vergleichung zweier Mengen abstraktiv auseinander in Zahlbestimmung jeder Menge und nachfolgenden Vergleich
+
+[[pdf-page:0054 printed-page:53]]
+
+der Zahlen, so ist es also unerläßlich, die einzelne Menge selber zu
+ordnen durch Aufweisung eines Elementes nach dem andern in der Zeit
+(wie es ohnehin nötig ist, damit ein Inbegriff individuell gegeben sei;
+und nur von solchen Inbegriffen handeln die Zahlen, deren wir uns im
+täglichen Leben bedienen). Daher scheint es mir unbestreitbar, daß die
+Ordinalzahl das Primäre ist. Die moderne mathematische Grundlagenforschung, welche die dogmatische Mengenlehre wieder zerstört hat,
+bestätigt dies durchaus.
+
+Ein weiterer Streitpunkt ist der, ob die Zahlen selbständige ideale
+Objekte sind oder ob die Zahlentheorie es allein mit den konkreten Zahlzeichen zu tun hat, „‚deren Gestalt unabHängig von Ort und Zeit und von
+den besonderen Bedingungen der Herstellung des Zeichens sowie von
+geringfügigen Unterschieden in der Ausführung sich von uns allgemein
+und sicher wiedererkennen läßt“ (Hilbert). So z.B. Helmholtz (Zählen
+und Messen, a.a.O., S. 359): ‚Ich betrachte die Arithmetik, oder die
+Lehre von den reinen Zahlen, als eine auf rein psychologischen Tatsachen aufgebaute Methode, durch die die folgerichtige Anwendung
+eines Zeichensystems von unbegrenzter Ausdehnung und unbegrenzter
+Möglichkeit der Verfeinerung gelehrt wird. Die Arithmetik untersucht
+namentlich, welche verschiedene Verbindungsweisen dieser Zeichen
+(Rechenoperationen) zu demselben Endergebnis führen.“ Eine ganz
+konsequente Durchführung dieses Standpunktes, die auch für die dagegen gerichtete Kritik von Frege (Grundgesetze der Arithmetik, 1893)
+unangreifbar ist, hat erst neuerdings Hilbert gegeben (vgl.$ 10); hier
+ist von „‚Möglichkeit“ gar nicht mehr die Rede, sondern es wird nirgendwo über die tatsächlich in concreto vorliegenden Zeichen hinausgegangen. Als geeignete Zeichen bieten sich aufeinanderfolgende Striche
+(„Einsen“) dar. Höre ich eine Folge von Tönen, so mache ich bei jedem
+Ton einen Strich, indem ich die Striche einen hinter den anderen setze
+/ 1 I. Ein zweites Mal verfahre ich ebenso. Könnte ich die Gleichheit
+oder Verschiedenheit der „‚Gestalt‘ der beiden aus Strichen bestehenden
+Zeichen unmittelbar erkennen, so wäre damit die Zahlvergleichung gewonnen. Die Repräsentation durch Striche hat hier die Bedeutung, das
+Gegebene unter Erhaltung der Zahl auf eine solche „‚Normalform“ zu
+bringen, daß Gestaltverschiedenheit ohne weiteres Zahlunterschied
+anzeigt. (Für ein direkt gegebenes gestaltetes Ganze, über dessen Verhältnis zu seinen als Einheit aufgefaßten Teilen die Zahlaussage handelt,
+bedeutet der gestaltliche Unterschied von einem andern Ganzen im
+allgemeinen noch keinen Unterschied der Zahl; Beispiel ‘- "und.-..Man
+spricht von einem Akt des Kolligierens als Grundlage der Anzahlbe-
+
+[[pdf-page:0055 printed-page:54]]
+
+stimmung. Mir scheint, daß man bei Anwendung des symbolischen
+Zählverfahrens auf ein Ganzes gestaltlich verknüpfter Einheiten nicht
+erst durch Auflösung der Verknüpfung einen bloßen „Inbegriff“ zu
+abstrahieren braucht, noch einzelne für sich gegebene Elemente, wie
+aufeinanderfolgende Klänge, zu einem Inbegriff „‚kolligieren‘‘ müßte.
+Die Aussage: „‚Das waren soviel / / / / Klänge“ ist in sich durchaus verständlich, und es ist unnötig, nach einem Subjekt ‚Inbegriff der gehörten
+Klänge‘‘ zu fahnden.) Das unmittelbare Erkennen der Gleichheit oder
+Verschiedenheit zweier aus hintereinander gesetzten Strichen bestehender Zeichen ist aber nur bei den niedersten Anzahlen möglich. Allgemein muß man so verfahren, daß man das zweite Mal die während der
+ersten Serie gesetzten Striche wieder benutzt, etwa einen nach dem
+andern durchstreicht; dazu ist es erforderlich, daß das zuerst gesetzte
+Zeichen standhält. Aber prinzipiell sind für die Begründung eines solchen
+Urteils wie „Jetzt waren es mehr Töne als das erste Mal“ Zeichen entbehrlich, wenn die Töne der ersten Serie (die etwa fallende Tonhöhe
+besitzen) in ihrer zeitlichen Aufeinanderfolge beim Anhören der zweiten
+Folge reproduziert werden können. Unentbehrlich werden sie erst, wenn
+die Vergleichung auseinander gerissen wird in zwei Zahlbestimmungen
+(„das erste Mal wares es 4, jetzt waren es 5 Klänge; 5 ist größer als 4“)
+und dadurch ein Teil der geistigen Manipulation (,,5 ist größer als 4“)
+auf die standhaltenden, zugleich zur Aufbewahrung und zur Mitteilung
+bequemen Zeichen verschoben wird. Nicht die Zahlvergleichung also,
+aber die Zahlbestimmung hat wesenhaft signativen Charakter. ‚Das waren
+4 Klänge“ ist ohne Bezugnahme auf ein Zeichen nicht zu verstehen. Will
+man nun doch von Zahlen als Begriffen oder idealen Gegenständen
+reden, so haben sie jedenfalls keine selbständige Existenz, sondern ihr
+Sein erschöpft sich in der funktionellen Rolle, die sie spielen, und ihren
+Beziehungen des Mehr und Weniger. (Gewiß sind sie keine Begriffe im
+Sinne der Aristotelischen Abstraktionstheorie.)
+
+Die Verwendung mehrerer Ziffern und das (von den Indern konsequent auch für die Schrift ausgebildete) Positionssystem gestattet die
+rasche Entscheidung des Größer und Kleiner für weit höhere Zahlen als
+die einfachen, aus lauter hintereinander gesetzten Einsen bestehenden
+Zahlzeichen; es ist ihm praktisch gewaltig, doch nicht prinzipiell überlegen. Die Grundzahl des Zahlsystems, als welche uns die Zehn dient,
+ist in verschiedenen Kulturen verschieden. Die indische, vor allem die
+buddhistische Literatur schwelgt in den Möglichkeiten, durch das Positionssystem, d. h. durch Verbindung von Addition, Multiplikation und
+Potenzieren ungeheure Zahlen eindeutig zu benennen. Trotz aller
+
+[[pdf-page:0056 printed-page:55]]
+
+wuchernden Phantastik ist doch etwas wahrhaft Großes darin lebendig;
+der Geist fühlt zum ersten Mal ganz seine Kraft, durch das Symbol über
+die Grenzen dessen hinauszufliegen, was sich anschaulich vollziehen
+läßt. Etwas Verwandtes finden wir bei den Griechen nur in der spätesten
+Zeit, in Archimedes’ Schrift an Gelon ‚Über die Sandzahl“; und auch
+hier redet nicht die Lust an dem in Stufen sich öffnenden Unendlich,
+sondern an der rationalen Bewältigung des Uferlosen.
+
+Was das Verhältnis der Zahl zu Raum und Zeit betrifft, so dürfen wir
+sagen: die Zeit als Form des reinen Bewußtseins ist wesenhafte, nicht
+zufällige Voraussetzung für die geistigen Operationen, in denen der Sinn
+der Zahlaussage gründet. Nicht aber der Raum, wie von manchen
+Philosophen (z. B. Hobbes) behauptet wurde; wennschon standhaltende
+Zeichen von räumlicher Gestalt das geeignetste Mittel sind, die Zahl
+vom Gezählten abzulösen, aufzubewahren, mitzuteilen und dem Umgehen mit Zahlen Sicherheit zu verleihen. Vor allem Kant hat die Bindung des Zahlbegriffs an die Zeit hervorgehoben; es wäre aber natürlich
+viel zu weit gegangen, wenn man die Arithmetik in demselben Sinne als
+die Lehre von der Zeit hinstellen wollte, wie die Geometrie Lehre vom
+Raum ist.
+
+An zwei konkret vorliegenden Zahlzeichen m und n läßt sich schildern, was die Aussage m-+ n=n-+ m bedeutet, ohne irgendwelche
+andere Zahlen zu „erzeugen“. Man vermag auch einzusehen, daß diese
+Aussage in einem beliebigen konkret vorliegenden Fall stets zutreffe.
+Etwas Neues aber geschieht, wenn ich die aktuell vorkommenden Zahlzeichen einbette in die Reihe aller möglichen Zahlen, welche durch einen
+Erzeugungsprozeß entsteht gemäß dem Prinzip, daß aus einer vorhandenen Zahl stets durch Hinzufügung der Eins eine neue, die nächstfolgende,
+erzeugt werden kann. Hier wird das Seiende projiziert auf den Hintergrund des Möglichen, einer nach festem Verfahren herstellbaren geordneten, wenn auch ins Unendliche offenen Mannigfaltigkeit von Möglichkeiten. Dies ist der Standpunkt, den wir am Anfang des gegenwärtigen
+Paragraphen bei der mathematischen Begründung der Arithmetik durch
+das Prinzip der vollständigen Induktion einnahmen. Hierauf stützen
+wir uns, wenn wir von einer Billion = 1012 Papiermark sprechen. Denn
+mittels Definition durch vollständige Induktion gewinnen wir aus dem
+arithmetischen Urprozeß, der n in n + 1 verwandelt, die Operation der
+Multiplikation mit 10 und dann durch ihre 12malige Anwendung, ausgehend von 1, die gewünschte Zahl 1012. Die Zahlzeichen 10 und 12
+können wir dabei in Strichen hinschreiben; für 1012 geschah es niemals,
+und doch ‚‚fingieren‘‘ wir eine solche Zahl.
+
+[[pdf-page:0057 printed-page:56]]
+
+Schon bei der Zahl treten uns also die folgenden Grundzüge
+des konstruktiven Erkennens entgegen:
+
+1. Das Resultat gewisser geistiger Operationen am Gegebenen,
+die für allgemein ausführbar gelten, wird, sofern es durch das
+Gegebene eindeutig bestimmt ist, als ein dem Gegebenen an sich
+zukommendes Merkmal aufgestellt (selbst wenn jene Operationen,
+die seinen Sinn begründen, nicht wirklich ausgeführt werden).
+
+2. Durch Einführung von Zeichen wird eine Aufspaltung der
+Urteile vollzogen und ein Teil der Operationen durch Verschiebung auf die Zeichen vom Gegebenen und seinem Fortbestand
+unabhängig gemacht. Dadurch tritt das freie Schalten mit Begriffen ihrer Anwendung, die Ideen treten relativ seibständig der
+Wirklichkeit gegenüber.
+
+3. Sie werden in ihrem aktuellen Vorkommen nicht einzeln
+herausgehoben, sondern auf den Hintergrund einer nach festem
+Verfahren herstellbaren geordneten, ins Unendliche offenen
+Mannigfaltigkeit von Möglichkeiten projiziert.
+
+Die Erkenntnis hat hier nicht haltgemacht. Der Sprung ins
+Jenseits aber wird vollzogen, wenn nun die ins Unendliche offene,
+gesetzmäßig entstehende Reihe der Zahlen zu einem geschlossenen
+Inbegriff an sich existierender Gegenstände gemacht wird. Erst
+wenn dies geschieht, wird die Statuierung der Zahlen als ideale
+Objekte gefährlich. Der Glaube ans Absolute ist tief in unsere
+Brust gepflanzt; kein Wunder, daß die Mathematik in aller Naivität den Sprung vollzog. Wer die an die unendliche Allheit der
+Zahlen appellierende Definition ‚,n ist eine gerade oder ungerade
+Zahl, je nachdem es eine Zahl x gibt, für welche n = 2 x ist oder
+nicht“ als sinnvoll hinnimmt (etwas anderes ist die oben erwähnte
+Definition von gerade und ungerade durch vollständige Induktion), steht bereits am andern Ufer: das Zahlsystem ist ihm ein
+Reich absoluter Existenzen geworden, das „nicht von dieser Welt“
+ist und von welchem nur tropfenweise ein Abglanz in unser schauendes Bewußtsein fällt. Um die Berechtigung dieses Standpunktes
+dreht sich der heute von neuem heftig entbrannte Kampf um die
+Grundlagen der Mathematik; er ist symptomatisch für alles Er-
+
+[[pdf-page:0058 printed-page:57]]
+
+kennen und wird auf dem Felde der Mathematik noch am ehesten
+zu klaren Entscheidungen führen.
+
+LITERATUR
+
+R. Dedekind, Was sind und was sollen die Zahlen? Braunschweig
+1888; 3. Aufl. 1911; 9. Aufl. 1961.
+
+G. Frege, Die Grundlagen der Arithmetik. Breslau 1884; Neudruck
+1934. — Grundgesetze der Arithmetik. 2 Bände. Jena 1893—1903.
+
+E. Husserl, Philosophie der Arithmetik. Halle 1891.
+
+7. Das Irrationale und das Unendlichkleine
+
+In einer anderen Form als in der Reihe der ganzen Zahlen
+tritt uns das Unendliche entgegen an dem unendlicher Teilung
+fähigen Kontinuum, insbesondere dem Kontinuum der Zeit und
+des Raumes. Hier ist die zweite offene Stelle im oben geschilderten
+Aufbau des mathematischen Zahlenreiches. Das Altertum hat
+uns zum Problem des Kontinuums zwei wichtige Beiträge hinterlassen: a) eine weitgehende Analyse der mathematischen Frage,
+wodurch die einzelne Stelle im Kontinuum fixiert werden kann,
+und b) die Aufdeckung der philosophischen Paradoxien, welche
+im anschaulichen Wesen des Kontinuums liegen.
+
+a) Die reine Geometrie der Griechen, sich über die Inexaktheit des
+sinnlich Gegebenen hinausschwingend, wendet die Idee der Existenz
+(nicht nur auf die natürlichen Zahlen, sondern auch) auf die Punkte des
+Raumes an. Die Entdeckung des Irrationalen an dem Verhältnis y2
+zwischen Seite und Diagonale eines Quadrates lehrte, daß die Brüche
+nicht die allein möglichen Maßzahlen eines Streckenverhältnisses, nicht
+die einzigen „‚reellen Zahlen‘ sind. In den Platonischen Dialogen spürt
+man den tiefen Eindruck, den diese mathematische Entdeckung auf das
+entstehende wissenschaftliche Bewußtsein der damaligen Zeit gemacht
+hat. Unabhängig von den besonderen geometrischen Konstruktionen,
+die zunächst einzelne Irrationalitäten wie V2 lieferten, erkannte Eudoxos
+die allgemeinen Grundlagen des Phänomens. 1. An Stelle der unhaltbar
+gewordenen Kommensurabilität setzt er das Axiom: Sind a und 5 irgend
+zwei Strecken, so läßt sich a immer so oft zu sich selbst hinzufügen,
+etwa nmal, bis die Summe na größer als b geworden ist. Dies bedeutet,
+daß alle Strecken von vergleichbarer Größenordnung untereinander
+
+[[pdf-page:0059 printed-page:58]]
+
+sind, daß es weder ein aktual Unendlichkleines noch ein aktual Unendlichgroßes im Kontinuum gibt. 2. Und wodurch ist das einzelne Streckenverhältnis gekennzeichnet? Eudoxos antwortet: Zwei Streckenverhältnisse a:b, a’:b’ sind einander gleich, wenn für beliebige natürliche
+Zahlen m und n, welche die in der ersten Zeile stehende Beziehung erfüllen, immer auch die darunter gesetzte Relation der zweiten Zeile gilt:
+
+na >mb na =mb na <mb
+D Im mb’ (aD am am) mm,
+
+Kennzeichnend für die einzelne reelle Zahl & ist demnach der Schnitt,
+den sie im Gebiete der rationalen Zahlen erzeugt, durch die Einteilung
+aller Brüche m/n in die drei Klassen derjenigen, welche (T) kleiner als «,
+(ID gleich & und (II) größer sind als &. Die mittlere Klasse ist entweder
+leer oder enthält nur einen einzigen Bruch. Das erste Axiom garantiert
+dafür, daß nicht zwei verschiedene Strecken zur festgewählten Einheitsstrecke in demselben Verhältnis stehen können. Auf diesem Fundament
+errichtet sich auch bei Euklid die Proportionenlehre; Archimedes gründet
+darauf seine allgemeine Exhaustionsmethode.
+
+Erst im 19. Jahrhundert führt die moderne Mathematik das Problem
+zu Ende. Für Eudoxos ist die reelle Zahl gegeben als das Verhältnis zweier
+vorliegender Strecken; was für Streckenverhältnisse existieren, darüber
+sollten uns also die Axiome der Geometrie unterrichten. Nun ist es aber
+in der euklidischen Geometrie nicht möglich (durch Konstruktion mit
+
+Lineal und Zirkel) zu einer vorgelegten Strecke 1 die Strecke y2 nach-
+
+zuweisen, welche das Delische Problem der Würfelverdoppelung löst,
+oder die Strecke zz, welche gleich dem Umfange des Kreises vom Durchmesser 1 ist. Dennoch sind wir von ihrer Existenz auf Grund von Stetigkeitsschlüssen überzeugt: wenn die Würfelkante von 1 bis zur doppelten
+Größe ansteigt, wächst das Würfelvolumen stetig von 1 bis 8 und muß
+deshalb einmal den Wert 2 passieren; die Strecke » können wir von
+unten und oben her mit beliebiger Genauigkeit approximieren durch die
+euklidisch konstruierbaren Umfänge der dem Kreise ein- und umbeschriebenen regulären 6, 12, 24,...-Ecke. Wir drehen also den Spieß um:
+Jeder willkürlich vorgegebene Schnitt im Gebiet der rationalen Zahlen,
+d.i. jede irgendwie bewerkstelligte Aufteilung aller rationalen Zahlen
+in drei Klassen I, II, III bestimmt eine reeile Zahl. (Die einzigen Forderungen, die erfüllt sein müssen, sind diese: weder I noch III ist leer;
+U enthält höchstens einen einzigen Bruch, I keinen größten und II
+keinen kleinsten; jede Zahl aus I ist kleiner als alle in II und III ent-
+
+[[pdf-page:0060 printed-page:59]]
+
+haltenen Brüche, jede Zahl der Klasse III größer als die in I und II.)
+Wir haben — nach Dedekind, Stetigkeit und Irrationalzahlen, 1872 —
+keinen Anlaß, nur einen Teil dieser Schnitte als reelle Zahlen zuzulassen.
+Und in der Geometrie postulieren wir dann als Axiom (Dedekindsches
+Axiom) die Existenz derjenigen Strecke, welche zu der vorgegebenen
+Einheitsstrecke e in dem arithmetisch durch den Schnitt festgelegten
+Verhältnis steht. Da nach Eudoxos umgekehrt das Verhältnis einer
+beliebigen Strecke a zur Einheitsstrecke einen Schnitt bestimmt, verbürgt das Dedekindsche Axiom die Vollständigkeit der geometrischen
+Elemente: das System der Punkte ist, bei Aufrechterhaltung der sämtlichen Axiome einschließlich des Eudoxischen, keiner Erweiterung
+mehr fähig (Hilbert). In dieser logischen Vollständigkeit spiegelt sich
+die anschauliche Lückenlosigkeit der Punkte im Raume wieder. Mit dem
+Dedekindschen Zahlbegriff macht sich die Analysis unabhängig von
+der Geometrie; erst so ist sie fähig zur Analyse der Stetigkeit und liefert
+der Geometrie die Mittel zum Beweise der Stetigkeitssätze von folgender
+Art: Eine stetige Linie, welche den Mittelpunkt eines Kreises mit einem
+außerhalb des Kreises gelegenen Punkt verbindet, trifft die Peripherie.
+Daß sie bei Euklid noch der näheren Begründung entbehren, darauf hat
+schon Leibniz im Hinblick auf die erste bei Euklid vorkommende Konstruktion, die des gleichseitigen Dreiecks ABC aus den Punkten 4 und
+B, aufmerksam gemacht: Man schlägt um A einen Kreis, der durch den
+Punkt B geht, um B einen Kreis, der durch A geht; es werde nicht bewiesen, daß diese Kreise einen Punkt C gemeinsam haben. — Ein dem
+Schnitt gleichwertiges Mittel zur Festlegung der reellen Zahl ist die
+unendliche Folge ineinander eingeschachtelter rationaler Intervalle
+Anbn (n = 1,2,3,....), deren Länge b„— a, mit unbegrenzt wachsendem
+Index n gegen 0 konvergiert (vgl. das Beispiel x). Da der Bruch logisch
+nicht Komplizierter ist als die natürliche Zahl — er ist ja durch zwei
+natürliche Zahlen, Zähler und Nenner bestimmt —, können wir das Fazit
+der historischen Entwicklung des Problems a) mit den Worten ziehen:
+
+Objekt der Zahlentheorie sind die einzelnen natürlichen Zahlen,
+Objekt der Kontinuumslehre die möglichen Mengen (oder die
+unendlichen Folgen) natürlicher Zahlen.
+
+b) Das Wesen des Kontinuums kennzeichnet scharf ein uns
+überliefertes Fragment des Anaxagoras: „Im Kleinen gibt es kein
+Kleinstes, sondern es gibt immer noch ein Kleineres. Denn was ist,
+kann durch keine noch so weit getriebene Teilung je aufhören zu
+sein.“ Das Kontinuum ist nicht aus diskreten Elementen zusam-
+
+[[pdf-page:0061 printed-page:60]]
+
+mengesetzt, die „voneinander abgetrennt, wie mit dem Beile voneinander abgehauen“ sind. Der Raum ist nicht nur in dem Sinne
+unendlich, daß man in ihm nirgendwo an ein Ende kommt;
+sondern an jeder Stelle ist er sozusagen nach innen hinein unendlich, ein Punkt läßt sich nur durch einen ins Unendliche fortschreitenden Teilungsprozeß von Stufe zu Stufe genauer und genauer fixieren. Das steht in Kontrast zu dem für die Anschauung
+ruhenden fertigen Dasein des Raumes. Diesen Charakter teilen
+der kontinuierliche Raum und die kontinuierlich sich abstufenden
+Qualitäten den Dingen der Außenwelt mit: ein wirkliches Ding
+kann niemals adäquat gegeben sein, in einem ins Unendliche fortschreitenden Prozeß immer neuer und genauerer Erfahrungen entfaltet es seinen „inneren Horizont“; es ist, wie Husser! betont,
+eine Grenzidee im Kantischen Sinne. Daher ist es unmöglich, das
+wirkliche Ding als ein seiendes, geschlossen und in sich vollendet,
+zu setzen. So treibt das Kontinuumproblem zum erkenntnistheoretischen Idealismus; unter anderen bezeugt Leibniz, daß das
+Suchen nach einem Ausweg aus dem „Labyrinth des Kontinuum“
+es war, was ihn zuerst zu der Auffassung von Raum und Zeit als
+Ordnungen der Phänomene hingeführt hat. „Daraus, daß der
+mathematische Körper sich nicht in erste Grundmomente auflösen läßt, folgt ohne weiteres, daß er schlechterdings nichts
+Reales, sondern nur ein gedankliches Gebilde ist, das nichts als
+eine Möglichkeit von Teilen, keineswegs aber etwas Wirkliches
+bezeichnet“ (Briefwechsel zwischen Leibniz und de Volder; Philos.
+Schr., ed. Gerhardt, II, S. 268).
+
+Im Gegensatz zu diesem Wesen des Kontinuums konzipiert Leibniz,
+da er, anders als Kant, metaphysisch den Phänomenen ein Fundament
+in einer Welt absoluter Substanzen geben muß, die Idee der Monade:
+„In dem Ideellen oder dem Kontinuum geht das Ganze den Teilen
+voraus... Die Teile sind hier nur potentiell; in den wirklichen (d. i.
+substantiellen) Dingen aber geht das Einfache den Aggregaten voraus
+und die Teile sind aktuell und vor dem Ganzen gegeben. Diese Erwägungen heben die Schwierigkeiten in Betreff des Kontinuums: Schwierigkeiten, die nur dann entstehen, wenn man das Kontinuum als etwas
+Reales ansieht, das an sich vor aller Teilung unsererseits wirkliche Teile
+
+besitzt, und wenn man die Materie für eine Substanz hält‘ (Brief an
+Remond; Philos. Schr. III, S. 622).
+
+[[pdf-page:0062 printed-page:61]]
+
+Die Unmöglichkeit, das Kontinuum als ein starres Sein zu fassen,
+kann nicht prägnanter formuliert werden als durch das bekannte Paradoxon des Zenon von dem Wettlauf zwischen Achilleus und der Schildkröte. Der Hinweis darauf, daß die sukzessiven Partialsummen der Reihe
+
+11,1,
+2 22 33...,
+
+1—1/2% (n=1,2,3,...) nicht über alle Grenzen wachsen, sondern
+gegen 1 konvergieren, durch den man heute das Paradoxon zu erledigen
+meint, ist gewiß eine wichtige, zur Sache gehörige und aufklärende
+Bemerkung. Wenn aber die Strecke von der Länge 1 wirklich aus unendlich vielen Teilstrecken von der Länge !/,, "/,, }/s,... als „abgehackten‘“
+Ganzen besteht, so widerstreitet es dem Wesen des Unendlichen, des
+„Unvollendbaren‘“, daß Achilleus sie alle schließlich durchlaufen hat.
+Gibt man diese Möglichkeit zu, so wäre nicht einzusehen, warum nicht
+eine Maschine auch eine unendliche Folge distinkter Entscheidungsakte
+in endlicher Zeit zum Abschluß bringen könnte, indem sie etwa das erste
+Resultat nach 1/, Minute lieferte, das zweite 1/, Minute darauf, das dritte
+1/, Minute später als das zweite usf.; und so könnte man, wenn auch das
+auffassende Gehirn analog funktionierte, die Durchlaufung aller natürlichen Zahlen und die sichere Entscheidung der an sie gerichteten Existentialfragen mit Ja oder Nein zuwege bringen! — Descartes ringt mit
+der Vorstellung, daß in der Bewegung einer Flüssigkeit die materiellen
+Korpuskeln sich teilen müssen ins Unendliche, ‚oder wenigstens ins
+Unbestimmte fin indefinitum), und zwar in so viele Teile, daß man sich
+in Gedanken keinen noch so kleinen vorstellen kann, von welchem man
+nicht einsähe, daß er tatsächlich in noch viel kleinere geteilt ist“. Es
+bleibt ihm ein Rätsel, demgegenüber er sich auf die Unbegreiflichkeit
+der Allmacht Gottes beruft. Euler erklärt in seiner „Anleitung zur
+Naturlehre‘‘ (Opera postuma II, 1862, S. 449-560), welche in großartiger Klarheit die Grundlagen der Naturphilosophie seiner Zeit zusammenfaßt: Ungeachtet die Körper ins unendliche teilbar sind, so ist
+doch der Satz, daß ein jeglicher Körper aus unendlich vielen (‚letzten‘)
+Teilen bestehe, schlechterdings falsch und steht sogar mit der unendlichen Teilbarkeit in offenbarem Widerspruch (Kapitel 2, 12). Im
+Kantischen System bezichen sich auf das Kontinuum die ersten beiden
+Antinomien der reinen Vernunft?).
+
+1) Die erste ist freilich recht schief formuliert; nicht darum handelt es
+sich nach der Argumentation, ob die Welt einen Anfang in der Zeit hat oder
+
+[[pdf-page:0063 printed-page:62]]
+
+Drei Versuche sind in der Geschichte des Denkens unternommen, das Kontinuum dennoch als Sein an sich zu fassen.
+Der erste radikalste läßt es aus zählbaren diskreten Elementen,
+Atomen, bestehen. Für die Materie ist dieser Weg, schon im
+Altertum von Demokrit beschritten, in der modernen Physik mit
+dem glänzendsten Erfolg zu Ende geführt worden. Für den Raum
+selber scheint Platon zuerst einen konsequenten Atomismus entworfen zu haben — in klarem Bewußtsein des gesteckten Zieles:
+die „Rettung“ des Phainomenon von der Idee her. Erneuert wurde
+die atomistische Theorie des Raumes innerhalb der islamischen
+Philosophie von den Mutakallimun (vgl. darüber Laßwitz, Geschichte der Atomistik, I, 1890, S. 139—150), im Abendlande
+durch Giordano Brunos Lehre vom Minimum. Noch Hume wandelt
+sich in seiner Raum-Zeit-Lehre (Treatise on human nature, 2. Teil,
+4. Abschnitt) die von ihm eigentlich gemeinte Vagheit des sinnlich
+Gegebenen unter den Händen um in eine Zusammensetzung aus
+unteilbaren Elementen. Angeregt durch die Quantentheorie,
+taucht der Gedanke heute wieder in Diskussionen über die Grundlagen der Physik auf. Aber er ist bisher immer bloße Spekulation
+und in den ersten Anfängen stecken geblieben, hat niemals den
+geringsten Kontakt mit der Wirklichkeit gewonnen. Wie soll man
+von ihm aus die räumlichen Maßbeziehungen verstehen? Baut
+man ein Quadrat aus „Steinchen“ auf, so liegen in der Diagonale
+ebenso viele Steinchen wie in der Richtung der Seite; die Diagonale
+sollte also ebenso lang sein wie die Seite. Hume muß denn auch
+zugeben, daß das „ebenso richtige wie einleuchtende“‘ Prinzip des
+Maßvergleichs von Linien und Flächen durch die Anzahl der zusammensetzenden Elemente in Wahrheit nutzlos ist. Riemann
+stellt in seinem Vortrag „Über die Hypothesen, welche der Geometrie zugrunde liegen“ (1854) die Alternative auf, „daß bei einer
+diskreten Mannigfaltigkeit das Prinzip der Maßverhältnisse schon
+in dem Begriff dieser Mannigfaltigkeit enthalten ist, bei einer
+stetigen aber anders woher hinzukommen muß“.
+
+nicht, sondern ob im Augenblick endlich oder unendlich viele erfüllte Zeitmomente vergangen sind. In einer stetig erfüllten Zeit ist das letzte der Fall,
+mag sie nun auf Grund eines ihr innewohnenden oder an sie herangebrachten
+Maßprinzips endlich- oder unendlichlang sein.
+
+[[pdf-page:0064 printed-page:63]]
+
+Der zweite Versuch ist das Unendlichkleine. Ausführlich und
+scharfsinnig wird am ersten Tag der „Discorsi e dimostrazioni‘“
+von Galilei darüber diskutiert. Wie ich eine gerade Linie zu einem
+Achteck oder Tausendeck knicken kann, so kann ich sie nach
+Galilei auch in ein Polygon von unendlich vielen, unendlich kleinen
+Seiten verwandeln, dadurch daß ich sie auf einen Kreis wickle;
+bin also nicht auf einen das Ziel niemals erreichenden Grenzprozeß angewiesen!).
+
+Wird ein Rad auf einer horizontalen Geraden abgerollt, so erscheint
+jeder der konzentrischen kleineren Kreise zu einer horizontalen Gerade h
+von gleicher Länge ausgestreckt (rota Aristotelis). Ersetzt man aber das
+Kreisrad durch ein reguläres Polygon von vielen Seiten, so bilden die
+„bedeckten“ Strecken auf A, in welche sukzessive die Seiten des konzentrischen Polygons hineinfallen, eine unterbrochene Linie. Beim
+Kreisrad muß man also annehmen, daß h aus einer unendlich dichten
+Aufeinanderfolge bedeckter und unbedeckter Strecken bestehe. „Hier
+liegt eine Methode vor“, heißt es (Opere complete, ed. Alberi, XII,
+S. 51), „die uns aus vielen verwirrenden Labyrinthgängen befreit und
+uns ein Verständnis eröffnet von der schon besprochenen Kobäsion,
+von der Verdünnung und Verdichtung ohne Annahme leerer Räume
+und der Durchdringung der (materiellen) Körper: alles Schwierigkeiten,
+denen wir entgehen durch die Annahme der Zusammensetzung aus
+Unteilbarem“. Besteht eine Kurve aus unendlich vielen geraden ‚‚Linienelementen‘“, so liegt der Begriff der Tangente auf der Hand: sie gibt die
+Richtung eines einzelnen Linienelementes an, ist die Verbindungsgerade
+zweier „‚konsekutiven‘‘ Kurvenpunkte. Wer aber die Galileische Hypothese ablehnt, kann die Tangente im Kurvenpunkte ? nur erklären als
+die Grenze, der sich die Sekante P,P’ unbegrenzt nähert, wenn der zweite
+bewegliche Kurvenpunkt P’ gegen P konvergiert. Sehr instruktiv ist die
+
+1) Hankel sagt (Zur Geschichte der Mathematik in Altertum und Mittelalter, Leipzig 1874): „Der Gedanke, daß man, wie weit man auch in der
+Reihe der Vielecke gehen möge, jene Kreisfläche nie erreiche, obgleich man
+ihr immer näher und ganz beliebig nahe kommt, spannt das vorstellende
+Denken in dem Maße, daß es um jeden Preis diese Lücke, welche gleichsam
+zwischen der Wirklichkeit und dem Ideal liegt, auszufüllen strebt, und
+psychologisch gezwungen ist, den-- unendlich kleinen oder unendlich großen ?
+— Schritt zu machen und zu sagen: der Kreis ist ein Polygon mit unendlich
+vielen unendlich kleinen Seiten. Die Alten aber haben diesen Schritt nicht
+getan; solange es griechische Geometer gab, sind dieselben immer vor jenem
+Abgrunde des Unendlichen stehen geblieben...“
+
+[[pdf-page:0065 printed-page:64]]
+
+Diskussion darüber zwischen Johann Bernoulli und Leibniz. Leibniz sagt
+(Math. Schriften, ed. Gerhardt, II, S. 536): ‚Nehmen wir nämlich an,
+daß es in der Linie tatsächlich die Abschnitte gibt, die durch Y/,, Ya, Us...
+zu bezeichnen sind, und daß alle Glieder dieser Reihe tatsächlich existieren, so schließen Sie daraus, daß es auch ein unendlichkleines Glied
+gibt; meiner Meinung nach folgt daraus jedoch nichts weiter, als daß es
+tatsächlich jeden beliebigen endlichen angebbaren Bruch von jeder beliebigen Kleinheit gibt.‘ Aber Bernoulli repliziert (a.a.O., S. 563):,‚Wenn
+zehn Glieder vorhanden sind, so existiert notwendig das zehnte, wenn
+hundert, so notwendig das hundertste,..., wenn also der Zahl nach
+unendlich viele Glieder vorliegen, so existiert das unendlichste (infinitesimale) Glied.“
+
+Der Grenzprozeß trug den Sieg davon; denn der Limes ist ein
+unvermeidlicher Begriff, dessen Wichtigkeit von der Annahme
+oder Verwerfung des Unendlichkleinen nicht berührt wird. Hat
+man ihn aber einmal gefaßt, so sieht man, daß er das Unendlichkleine überflüssig macht. Die infinitesimale Analyse will aus dem
+durch elementare Gesetze beherrschten Verhalten im Unendlichkleinen durch Integration auf das Verhalten im Endlichen schließen; so z.B. aus dem universellen Attraktionsgesetz für zwei
+massenerfüllte „Volumelemente“ auf die Größe der Anziehung
+beliebig gestalteter, homogen oder inhomogen mit Masse
+belegter ausgedehnter Körper. Deutet man aber das Unendlichkleine hier nicht „potentiell“, im Sinne des Grenzprozesses, so
+hat das eine mit dem andern nichts zu tun, die Vorgänge im Endlichen und im Unendlichkleinen werden ganz unabhängig voneinander, man zerschneidet das verknüpfende Band. Hier hat
+Eudoxos zweifellos den richtigen Blick besessen.
+
+Übrigens wüßte ich nicht, daß man sich hinsichtlich des Unendlichkleinen, das ein Begriff voller Verschwommenheit und voller „Unbegreiflichkeiten‘“ blieb — ‚‚die Unbegreiflichkeiten der Mathematik‘
+ist ein Lieblingsausdruck der damaligen Zeit —, im 18. Jahrhundert je
+zu der klaren Fassung des Griechen durchgerungen hätte. Unmöglich
+ist es nämlich keineswegs, eine folgerichtige „nicht-archimedische“
+Größenlehre aufzubauen?), in welcher das (meistens nach Archimedes
+
+1) Vgl. etwa Hilbert, Grundlagen der Geometrie, Kap. II, $ 12. Ein schon
+von Leibniz und Wallis diskutiertes Beispiel unendlichkleiner Größen sind
+
+[[pdf-page:0066 printed-page:65]]
+
+benannte) Axiom des Eudoxos nicht gilt, aber man sieht sofort, daß sie
+für die Analysis gar nichts leistet. Newton und Leibniz hatten wohl die
+richtige Auffassung, daß es sich in der Infinitesimalrechnung stets nur um
+den Grenzübergang zu Null handelt, einigermaßen deutlich ausgesprochen; aber die letzte Klarheit, die Einsicht, daß die Durchführung des
+Grenzprozesses nicht bloß den Wert des Limes zu bestimmen, sondern
+seine Existenz erst zu garantieren hat, mangelt ihnen doch noch. Darum
+befindet sich auch Leibniz noch ganz im unklaren über die Summation
+unendlicher Reihen. Die Limestheorie gewinnt nur langsam an Boden.
+Mit Entschiedenheit verkündet d’Alembert 1784 in der Encyclopedie:
+La theorie de la limite est la base de la vraie metaphysique du calcul
+differentiel. Il ne s’agit point, comme on le dit ordinairement, des quantites
+infiniment petites,; il sagit uniquement des limites de quantites finies.“
+Und erst Cauchy gelingt zu Beginn des 19. Jahrhunderts die konsequente
+Durchführung. Cauchy ermittelt insbesondere das richtige Kriterium
+für die Konvergenz der unendlichen Reihen, die Bedingung dafür, daß
+durch einen unendlichen Prozeß eine Zahl als Grenzwert erzeugt wird.
+Der Beweis des Kriteriums aber erfordert jene Festlegung des Zahlbegriffes, wie sie dann im Dedekindschen Schnittprinzip erreicht wurde.
+
+Der dritte Versuch, das Kontinuum im Platonischen Sinne zu
+
+„retten“, liegt in der modernen mengentheoretischen Begründung
+der Analysis vor.
+
+LITERATUR
+
+R. Dedekind, Stetigkeit und irrationale Zahlen. Braunschweig 1872;
+3. Aufl. 1905.
+
+Literatur über die Geschichte des Problems des Kontinuums und
+des Irrationalen:
+
+P. Tannery, Pour l’histoire de la science hellene. Paris 1887.
+E. Frank, Platon und die sogenannten Pythagoreer. Halle 1923.
+
+H.Hasse und H. Scholz, Die Grundlagenkrise der griechischen
+Mathematik. Berlin 1928.
+
+B.L.van der Waerden, Mathematische Annalen 117 (1940) S. 141
+bis 161.
+
+K.von Fritz, Annals of Mathematics 46 (1945) S. 242— 264.
+
+die anguli contactus (zwischen einem Kreis z. B. und seiner Tangente) im
+Vergleich zu den von geraden Linien gebildeten Winkeln.
+
+[[pdf-page:0067 printed-page:66]]
+
+8. Die Mengenlehre
+
+Zunächst kann es so scheinen, als sei mit dem Grenzprozeß
+das starre Sein endgültig ins Werden aufgelöst; als sei damit allein
+schon des Aristoteles Lehre mathematisch realisiert, daß das Unendliche nur Övrdueı (der Potenz nach), nur im Entstehen und Vergehen, nicht aber &vegyeia existiere. Ein Irrtum! Die einzelne konvergente Folge, wie z.B. die Folge der Partialsummen der Leibnizschen Reihe
+
+welche gegen »/4 konvergiert, entfaltet sich ja nicht in einem gesetzlosen Prozeß, dem wir uns blind überlassen müssen, um zu erfahren, was er von Stufe zu Stufe gebiert; sondern sie ist ein für allemal festgelegt durch ein bestimmtes Gesetz, das jeder natürlichen
+Zahl n den zugehörigen Näherungswert (die n-te Partialsumme)
+zuordnet. Eine Aufteilung der unendlich vielen rationalen Zahlen
+in die drei Klassen I, II, III des Dedekindschen Schnitts geschieht
+nicht so, daß man einen Bruch nach dem anderen vornimmt und
+ihn seiner Klasse zuweist, sondern gesetzmäßig, indem man angibt: alle rationalen Zahlen mit der und der Eigenschaft kommen
+in die Klasse I (es genügt, die Klasse I zu definieren, da durch sie
+die beiden anderen ohne weiteres mitbestimmt sind). Das Geserz
+bzw. die Eigenschaft legt die intendierte reelle Zahl exakt fest. —
+Es heißt, eine Funktion f{x) sei an der Stelle x = a stetig, wenn
+f(x) gegen f(a) konvergiert, während die Veränderliche x gegen
+a strebt — wie aber wird dieser Begriff der Konvergenz erklärt?:
+„Zu jedem positiven e gebe es eine positive Zahl ö von der Beschaffenheit, daß für alle reellen Zahlen x, welche der Bedingung
+a—ö5<x<aH+6 genügen, auch die Ungleichung (a) — &
+<f&)< fla) + e erfüllt ist.“ Unsere Auffassung bleibt also
+statisch; sie ist gekennzeichnet durch die schrankenlose Anwendung der Termini „es gibt‘ und „alle“ nicht bloß auf die natürlichen Zahlen, sondern auch auf die Stellen im Kontinuum, d.h.
+
+[[pdf-page:0068 printed-page:67]]
+
+auf die möglichen Folgen oder Mengen natürlicher Zahlen. Hierin
+besteht das Wesen der Mengenlehre; nicht nur die Zahlenreihe,
+sondern auch die Gesamtheit ihrer Teilmengen betrachtet sie als
+einen geschlossenen Inbegriff an sich existierender Gegenstände.
+So steht sie ganz auf dem Boden des aktual Unendlichen. Dies
+einmal zugegeben, ist aber das gewaltige Bauwerk der Analysis
+von unerschütterlicher Festigkeit: sicher fundiert, in allen Teilen
+streng begründet, scharf in den Begriffen und lückenlos in den
+Beweisen. Sie hat dadurch Grundlagen gewonnen, welche die
+Einhelligkeit aller an ihr Arbeitenden unbedingt verbürgen.
+
+Freilich bedurfte es eines bedeutenden mathematischen Scharfsinns,
+um die allgemeinsten Tatsachen über die Sietigkeit, welche der Anschauung am nächsten zu liegen scheinen, sicherzustellen: daß z.B.
+eine stetige Funktion alle Zwischenwerte annimmt, daß eine geschlossene
+doppelpunktlose Kurve in der Ebene die Ebene in zwei Gebiete teilt,
+oder daß man ein zweidimensionales Gebiet nicht auf ein dreidimensionales umkehrbar-eindeutig und stetig abbilden kann. Wir machen an
+unseren Studenten immer wieder die Erfahrung, wie langwieriger Schulung es bedarf, um die für das Verständnis dieser Beweise und ihrer
+Strenge erforderliche Voraussetzungslosigkeit sich zu erwerben. Neben
+solchen die Anschauung bestätigenden Sätzen deckt die Analysis
+andererseits viele Vorkommnisse auf, denen die Anschauung nicht zu
+folgen vermag: stetige Kurven, welche überall ohne Tangente sind oder
+ein ganzes Quadrat erfüllen u.dgl. mehr. Alle unbewiesenen Voraussetzungen auf der geschilderten Grundlage sicherzustellen, war das
+Werk des 19. Jahrhunderts von Cauchy und Gauß bis Weierstraß.
+
+Nicht nur der Analysis, sondern auch der ersten Anfänge der
+Mathematik, der Lehre von den natürlichen Zahlen, hat sich die
+mengentheoretische Methode bemächtigt. Die Zahlenreihe ist ihr
+eine fertige Menge Z, innerhalb deren eine Abbildung n > »’
+definiert ist, welche jedem Element n der Menge in eindeutig bestimmter Weise ein Element r’ zuordnet. Eben dadurch, daß so Z
+eineindeutig auf eine nicht mit Zidentische Teilmenge von sich selber abgebildet erscheint (dasselbe leisten die Zuordnungen n > ?n
+oder n > n?), gibt sich Z als unendliche Menge zu erkennen. Der
+Endlichkeit einer Menge kann man erst versichert sein, wenn die
+Unmöglichkeit einer derartigen Abbildung nachgewiesen ist.
+
+[[pdf-page:0069 printed-page:68]]
+
+Für die Mengenlehre besteht also zwischen dem Endlichen und dem
+Unendlichen keine grundsätzliche Schranke; ja das Unendliche erscheint
+ihr sogar als das Einfachere (wie auch Descartes den Vorrang des Begriffs des Unendlichen vor dem Endlichen behauptet hat: Brief an
+Clerselier, Corr. V, S. 356, und Dritte Meditation, $ 28). Daß in dem
+angegebenen bestimmten Sinne für das Unendliche Euklids Größenaxiom xai tö öAov u&oovg ueilov (das Ganze ist größer als sein Teil) nicht
+gilt, bemerkt bereits Galilei, Discorsi (Opere, ed. Alberi, XII, S. 36);
+Leibniz (Brief an Bernoulli, Math. Schriften, ed. Gerhardt, III, S. 536)
+schließt daraus, daß ‚die Anzahl oder Menge aller Zahlen einen Widerspruch einschließt, wenn man sie als ein einziges Ganzes nimmt“. Für
+Bolzano (Paradoxien des Unendlichen, 1851, $ 20) liegt hierin eine „‚Paradoxie des Unendlichen“, Dedekind endlich (Was sind und was sollen die
+Zahlen ? 1887) erhebt diesen Tatbestand zur Definition des Unendlichen.
+
+Nennt man mit Dedekind eine Menge K natürlicher Zahlen
+eine Kette, wenn mit jeder in K als Element auftretenden Zahl x
+auch ihr „Bild“ x’ in K vorkommt, so drückt sich die Tatsache,
+daß man zu einer beliebig vorgegebenen Zahl dadurch gelangen
+kann, daß man mit 1 beginnt, zu dessen Bild 1’ = 2 übergeht,
+darauf durch abermaligen Vollzug der Abbildung zu 2? =3
+gelangt, und so fort — diese logisch anscheinend nicht weiter zu
+reduzierende Vorstellung des „und so fort“, die das Wesen der
+natürlichen Zahlenreihe ausmacht, drückt sich in folgendem
+Grundsatz aus: Jede Kette, welche 1 als Element enthält, ist mit
+ganz Z identisch. Die vollständige Induktion kann also auf die
+transfinite Verwendung der Begriffe „alle“ und „es gibt‘ begründet werden; es fällt dadurch in der Mengenlehre die Scheidewand
+zwischen Mathematik und Logik. Die Untersuchungen von
+Dedekind, Frege, Russell gehen darauf hinaus, die Mathematik
+vollständig zu logisieren. — Fragt man, wann eine natürliche
+Zahl n kleiner ist als die vorgegebene Zahl m, so ersetzt die Mengenlehre das finite spezifisch arithmetische Kriterium („wenn die
+Durchzählung der Zahlen von 1 bis m, noch bevor m erreicht ist,
+über n führt‘) durch ein transfinites von rein logischem Charakter:
+„wenn es eine Kette gibt, welche m, aber nicht n enthält“. Aber
+nur indem man diese Stufe der Anwendung von „es gibt“ erklimmt, wo es auf die Mengen natürlicher Zahlen bezogen wird,
+ist etwas Derartiges möglich.
+
+[[pdf-page:0070 printed-page:69]]
+
+Und erst hierzu ist die Vergegenständlichung der Mengen und
+damit der Eigenschaften erforderlich, welche die gewöhnliche
+Umgangssprache seltsamerweiıse von Anfang an vollzogen hat.
+Eine Aussage wie etwa „Die Rose ist rot“ wird nun nicht mehr dem
+Schema ‚x ist rot‘“‘ mit der einen Leerstelle x untergeordnet,
+sondern dem allgemeineren „x hat die Eigenschaft X“, aus welchem sie durch die Ausfüllung x = Rose, X = rot hervorgeht.
+Die Worte „hat die Eigenschaft“ bezeichnen eine gewisse Relation e, welche zwischen dem willkürlichen Gegenstand x und
+einer willkürlichen Eigenschaft X bestehen kann. Erst hier tritt
+die Kopula e auf: sie wandelt das von Hause aus zweiteilige Urteil
+in ein dreiteiliges xeX. (Die grotesken Verwechslungen der
+Kopula mit der Existenz und der Gleichheit sind eines der traurigsten Zeichen für die Abhängigkeit der philosophischen Spekulation von zufälligen Sprachformen.) Und nun ist die Bahn frei,
+auch auf die Leerstelle X formal die Definitionsprinzipien $ 1, 6.
+und 7. anzuwenden. Die Einführung des allgemeinen Mengenbegriffs besteht somit aus zwei wesentlich verschiedenen Schritten:
+der erste ist die eben geschilderte Vergegenständlichung, der
+zweite die Übereinkunft, zwei Eigenschaften X, Y oder die korrespondierenden Mengen dann gleich zu setzen, wenn alle Elemente von X auch zu Y gehören und umgekehrt.
+
+Aus einem Inbegriff einzelner aufgewiesener Gegenstände
+können wir durch Auswahl der Reihe nach alle möglichen Teilmengen herstellen und überblicken. Bei der unendlichen Menge Z
+ist aber der Existentialabsolutismus für die Teilmengen noch bedenklicher als für die Elemente. Da man nur solcher Teilmengen
+habhaft werden kann, die gesetzmäßig durch eine charakteristische
+Eigenschaft ihrer Elemente festgelegt sind, wird man schwer das
+Gefühl los, daß damit eine chaotische Fülle von Möglichkeiten,
+von willkürlich „zusammengewürfelten“, „gesetzlosen‘‘ Mengen
+unter den Tisch fällt. Aber der antinomische Charakter des unfaßbaren ‚„Inbegriffs aller möglichen Eigenschaften natürlicher
+Zahlen“ läßt sich noch viel präziser darlegen. Es sei uns gelungen,
+irgendwie einen „umfangsdefiniten‘‘ Inbegriff solcher Eigenschaften, ich will sie Bigenschaften 1. Stufe nennen, abzustecken; so
+daß wir von der Frage „Gibt es eine Eigenschaft 1. Stufe von der
+
+[[pdf-page:0071 printed-page:70]]
+
+und der genau geschilderten Art A oder nicht?“ stets glauben
+dürfen, sie fände Antwort in einem an sich bestehenden Sachverhalt. Alsdann können wir von der Eigenschaft Ey reden, die einer
+Zahl x dann und nur dann zukommt, falls es überhaupt eine
+Eigenschaft 1. Stufe von der Art W gibt, deren x teilhaftig ist.
+Aber diese Eigenschaft Ey steht gewiß ihrem Sinne nach außerhalb des Kreises der Eigenschaften 1. Stufe, sie gehört einer
+höheren, der 2. Stufe von Eigenschaften an, weil sie erst auf
+Grund der Gesamtheit der Eigenschaften 1. Stufe definiert ist.
+No totality can contain members defined in terms of itself ( Russell).
+Ähnlich baut sich auf der 2. die 3. Stufe auf usf. Man müßte entsprechend Mengen natürlicher Zahlen und damit reelle Zahlen
+1., 2., 3.,... Stufe unterscheiden. Die Konstruktionsweise der
+Eigenschaft Ey tritt in der Analysis z.B. auf, wenn die obere
+Grenze einer Punktmenge auf der Geraden bestimmt wird. Die
+Verwischung dieser zuerst von Russell in seiner Typenlehre nachgewiesenen Stufenunterschiede durch den Existentialabsolutismus
+bedeutet einen unbestreitbaren circulus vitiosus.
+
+Dem Dilemma würde man nur dann entgehen, wenn jede Eigenschaft 2. Stufe mit einer Eigenschaft 1. Stufe zwar nicht sinnesgleich,
+aber umfangsgleich wäre. Solange man die Reihe der natürlichen Zahlen
+für einen umfangsdefiniten Inbegriff gelten läßt, könnte man als Eigenschaften 1. Stufe z. B. diejenigen in Anspruch nehmen, welche mit Hilfe
+der in $ 1 angeführten Definitionsprinzipien aus der einen Grundrelation
+„‚n folgt auf m“ im Gebiete der natürlichen Zahlen entspringen. In diesem
+Falle wird unser Wunsch kaum erfüllt sein. Die Aufgabe wäre, die
+Konstruktionsprinzipien für die Eigenschaften 1. Stufe so zu erweitern,
+daß nachweislich jede Menge 2. Stufe mit einer der 1. zusammenfällt.
+Aber es ist nicht das leiseste Anzeichen dafür vorhanden, daß dies gelingen könnte. Russell läßt, um sich aus der Affäre zu ziehen, die Vernunft Harakiri begehen, indem er jenen der Einsicht sich völlig verschließenden Satz als axiom of reducibility postuliert. Ich selber habe
+in einer 1918 erschienenen Schrift „Das Kontinuum“ ehrlich die Konsequenzen gezogen und ein Feld von reellen Zahlen 1. Stufe konstruiert,
+innerhalb dessen die wichtigsten Operationen der Analysis sich vollziehen lassen.
+
+Trotz des antinomischen Charakters hat bisher die Idee der
+absoluten Existenz im Gebiete der natürlichen Zahlen und Zahl-
+
+[[pdf-page:0072 printed-page:71]]
+
+mengen zu keinem Widerspruch geführt. G. Cantor aber streifte
+alle Fesseln ab, indem er völlig frei mit dem Mengenbegriff
+operierte, insbesondere zuließ, daß von jeder Menge wieder die
+Menge aller ihrer Teilmengen gebildet werden könne. Er entwickelte eine allgemeine Theorie der Kardinalzahlen und Ordinalzahlen unendlicher Mengen. Erst hier stieß man an den äußersten
+Grenzen der Mengenlehre auf wirkliche Widersprüche. Als ihre
+Wurzel vermag man aber nur die schon von Anfang an in der
+Mathematik begangene Kühnheit aufzudecken: daß ein Feld
+konstruktiver Möglichkeiten als geschlossener Inbegriff an sich
+seiender Gegenstände behandelt wurde. Vgl. darüber Weyl, Die
+heutige Erkenntnislage in der Mathematik, Symposion I, S. 13.
+
+LITERATUR
+
+B. Bolzano, Paradoxien des Unendlichen. Leipzig 1851.
+
+G. Cantor, Gesammelte Abhandlungen. Berlin 1932; bes. Abschn.
+II u.IV.
+
+R. Dedekind, Was sind und was sollen die Zahlen? 9. Aufl. Braunschweig 1961.
+
+A. Fraenkel, Einleitung in die Mengenlehre, 3. Aufl. Berlin 1928.
+
+G. Frege, Grundlagen der Arithmetik. Breslau 1884.
+
+F. Hausdorff, Grundzüge der Mengenlehre. 3. Aufl. Berlin und
+Leipzig 1935.
+
+B. Russell, Einführung in die mathematische Philosophie. 1923.
+
+H. Weyl, Das Kontinuum. Berlin 1918.
+
+9. Intuitive Mathematik
+
+Klar erkannte dies erst L. E. J. Brouwer (seit 1907); er entwarf
+den Aufbau einer Mathematik, welche den Sprung ins Jenseits,
+von dem wir am Ende des $ 6 sprachen, nicht vollzieht. Ein Existentialsatz — etwa „es gibt eine gerade Zahl“ — ist überhaupt
+kein Urteil im eigentlichen Sinne, das einen Sachverhalt behauptet.
+Eine „unendliche logische Summe“, wie es dieser Satz ist (1 ist
+gerade oder 2 ist gerade oder 3 ist gerade oder... in inf.) ist
+evidentermaßen unvollziehbar. „2 ist eine gerade Zahl“, das ist
+ein wirkliches Urteil (sofern die Eigenschaft „gerade“ wie auf
+
+[[pdf-page:0073 printed-page:72]]
+
+S.51 durch Rekursion definiert ist); „es gibt eine gerade Zahl“
+ist nur ein aus diesem Urteil gezogenes Urteilsabstrakt. Bezeichne
+ich Erkenntnis als einen wertvollen Schatz, so ist das Urteilsabstrakt ein Papier, welches das Vorhandensein eines Schatzes
+anzeigt, ohne jedoch zu verraten, an welchem Ort. Sein einziger
+Wert kann darin liegen, daß es mich antreibt, nach dem Schatze
+zu suchen. Das Papier ist wertlos, solange es nicht durch ein
+solches dahinter stehendes Urteil wie „2 ist eine gerade Zahl“
+realisiert wird. Wo von nichts als der Möglichkeit einer Konstruktion die Rede ist, liegt kein inhaltvolles Urteil vor, sondern nur
+im Hinblick auf die gelungene Konstruktion, den geführten Beweis
+gewinnt eine Existentialbehauptung Sinn. An den vielen Existenztheoremen der Mathematik ist jeweils nicht das Theorem das
+Wertvolle, sondern die im Beweis geführte Konstruktion; ohne
+sie ist der Satz ein leerer Schatten.
+
+Auf die in $ 3 aufgeworfene Frage: wie Kann ich aus einem Existentialsatz etwas schließen, ist hier zu antworten: auf keine Weise; da er
+nichts aussagt, kann aus ihm auch nichts erschlossen werden. Immer
+muß man an Stelle des Existentialsatzes das sinnvolle Ganze setzen, aus
+dem er als, ‚Urteilsabstrakt“ isoliert wurde. Aber wie gelangen wir andererseits zu den allgemeinen Sätzen über natürliche Zahlen? Das werde an
+einem möglichst einfachen Beispiel deutlich gemacht. Die zahlentheoretische Funktion @(n) werde durch vollständige Induktion folgendermaßen erklärt:
+
+“) gM=1; DRALHEICH)E
+in ß) haben wir eine allgemein gültige Aussage vor uns, aus der nun in
+Verbindung mit &) durch vollständige Induktion z. B. erschlossen werden
+kann, daß allgemein o(n) = n ist. Die Definition selber ist also die
+Wurzel der Allgemeinheit, von welcher man weiter schreitet durch die
+vollständige Induktion. Das (Definitions- und Schluß-) Prinzip der vollständigen Induktion, nicht auf eine Formel gebracht, sondern auf Schritt
+und Tritt in concreto angewandt, ist die eigentliche und einzige Kraft
+der Mathematik, die mathematische Urintuition. Hierin trifft Brouwer
+mit H.Poincare zusammen (Wissenschaft und Hypothese, deutsch
+2. Aufl. 1902). Die Negation einer allgemeinen Aussage über Zahlen
+wäre ein Existentialsatz; da dieser nichtssagend ist, sind die allgemeinen
+Urteile nicht negationsfähig. Auch eineallgemeineAussage weist nicht auf
+einen an sich bestehenden Sachverhalt hin, sie ist nicht gemeint als
+
+[[pdf-page:0074 printed-page:73]]
+
+logisches Produkt unendlich vieler Einzelaussagen, sondern hypothetisch: angewandt auf eine einzelne bestimmte vorliegende Zahl liefert sie
+ein bestimmtes Urteil. Für das tertium non datur (entweder haben alle
+Zahlen die Eigenschaft X oder es gibt eine Zahl mit der Eigenschaft W)
+ist hier kein Raum. Der Glaube daran ist nach Brouwer (Jahresber.
+Deutsch. Math.-Vereinig. 28, 1920, S. 204) „historisch dadurch verursacht worden, daß man zunächst aus der Mathematik der Teilmengen
+einer bestimmten (lies: durch Aufweisung ihrer Elemente gegebenen)
+endlichen Menge die klassische Logik abstrahiert, sodann dieser Logik
+eine von der Mathematik unabhängige Existenz a priori zugeschrieben
+und sie schließlich auf Grund dieser vermeintlichen Apriorität unberechtigterweise auf die Mathematik der unendlichen Mengen angewandt
+hat.“
+
+In der Brouwerschen Analysis ist die einzelne Stelle im Kontinuum, die reelle Zahl, nicht durch eine Menge, sondern durch eine
+Folge natürlicher Zahlen zu definieren, durch ein Gesetz, das jeder
+natürlichen Zahl n eine ebensolche & (n) zuordnet. (Die Gleichwertigkeit beider Definitionsarten fällt dahin, sobald die natürlichen Zahlen nicht mehr als ein umfangsdefiniter Inbegriff behandelt werden dürfen.) Wie kommt nun eine Behauptung nicht
+über alle natürlichen, sondern über alle reellen Zahlen, über alle
+Werte einer reellen Variablen zustande? In vielen Fällen, zeigt
+Brouwer, betreffen Aussagen der bisherigen Analysis von dieser
+Form bei richtiger Interpretation lediglich die Allheit der natürlichen Zahlen. Andernfalls aber wandelt sich der Begriff der Folge:
+es ist darunter nicht mehr eine wie auch immer gesetzmäßig determinierte, sondern eine Folge zu verstehen, die von Schritt zu
+Schritt durch freie Wahlakte entsteht und die darum nur als eine
+werdende betrachtet werden kann. Die werdende Wahlfolge
+repräsentiert das Kontinuum oder die Variable, die durch ein
+Gesetz ins Unendliche bestimmte Folge aber die einzelne in das
+Kontinuum hineinfallende reelle Zahl. Das Kontinuum erscheint
+hier nicht als ein Aggregat fester Elemente, mit Leibniz zu reden,
+sondern als ein Medium freien Werdens. Von einer werdenden
+Wahlfolge können natürlich nur solche Eigenschaften sinnvollerweise ausgesagt werden, für welche die Entscheiaung ja oder nein
+(kommt die Eigenschaft der Folge zu oder nicht) schon fällt, wenn
+man in der Folge bis zu einer gewissen Stelle gekommen ist, ohne
+
+[[pdf-page:0075 printed-page:74]]
+
+daß die Weiterentwicklung der Folge über diesen Punkt des Werdens hinaus, wie sie auch ausfallen möge, die Entscheidung wieder
+umstoßen kann.
+
+Nicht in der Beziehung von Element zu Menge, sondern in derjenigen des Teiles zum Ganzen sieht Brouwer im Einklang mit der Anschauung das Wesen des Kontinuums. Es fällt unter den Begriff des
+„extensiven Ganzen“, den Husserl dadurch kennzeichnet, daß es „eine
+derartige Zerstückung zuläßt, bei welcher die Stücke ihrem Wesen nach
+von derselben niedersten Gattung sind, als welche durch das ungeteilte
+Ganze bestimmt wird“ (Logische Untersuchungen, 2. Aufl., II, S. 267).
+Das Teilungsschema des eindimensionalen Kontinuums machen wir uns
+
+am besten an der endlichen Strecke klar. Durch
+
+1 Halbierung zerfällt sie in 2 Teile, einen linken (10)
+X N und einen rechten (11), jeder dieser Teile wiederum
+10 durch Halbierung in zwei weitere, einen linken und
+
+N
+
+11
+IN einen rechten, 100, 101, 110, 111, usf. Dieser Pro-
+100 101 110 111 zeß läßt sich rein kombinatorisch beschreiben und
+IN VVN liefert dann die arithmetische Leerform des begrenzteneindimensionalen Kontinuums. Davon zu unterscheiden ist seine Verwirklichung an einem konkret vorliegenden Kontinuum, wie es die räumliche Strecke ist. Sie hat durch eine dem arithmetischen Schema entsprechende fortgesetzte Teilung zu geschehen, bei
+der es aber nicht darauf ankommt, daß die beiden Teile jedesmal gleichlang sind oder daß überhaupt ein solcher Maßbegriff innerhalb des Kontinuums zur Verfügung steht; nur muß die Feinheit der Teile schließlich
+unter jede mögliche Genauigkeitsschwelle sinken. (Es kann sogar sein,
+daß im Wesen des gegebenen Kontinuums keine Begründung für einen
+Längenvergleich liegt.) Durch diesen Prozeß, der in concreto immer nur
+bis zu einer gewissen Stufe durchgeführt sein kann, wird im Kontinuum
+ein Koordinatensystem festgelegt, das es ermöglicht, die einzelnen Teile
+begrifflich-arithmetisch durch Dualbrüche zu kennzeichnen. Da sich in
+einem wirklichen Kontinuum keine exakten Grenzen setzen lassen, muß
+ıan sich ferner vorstellen, daß das Teilungsgerüst bei keinem Schritt
+bereits genau fixiert ist, sondern bei fortschreitender Teilung die früheren
+Teilpunkte an Schärfe beständig zunehmen. — Je zwei zusammenstoßende Teile der vten Teilungsstufe füge man zusammen zu einem
+„Teilintervall vter Stufe“. Die Teilintervalle vter Stufe greifen so übereinander, daß für irgendeine nur näherungsweise, aber mit einer hinreichenden Annäherung gegebene Zahl mit Sicherheit ein Teilintervall
+rter Stufe angegeben werden kann, in welches sie hineinfällt. Als eine
+
+[[pdf-page:0076 printed-page:75]]
+
+unendliche Folge von Teilintervallen wachsender Stufe, deren jedes innerhalb des vorhergehenden der Folge liegt, wird also die einzelne reelle
+Zahl zu definieren sein.
+
+Zwei reelle Zahlen «, ß fallen zusammen, wenn das nte Intervall der
+Folge & und das nte Intervall der Folge ß sich für jeden Wert von n
+ganz oder teilweise überdecken; sie sind verschieden, wenn es eine Ordnungszahl n gibt, für welche jene beiden Intervalle getrennt liegen. Wegen
+der Unanwendbarkeit des tertium non datur auf derartige Sätze liegt hier
+nach Brouwer keine an sich bestehende vollständige Alternative vor.
+Das paßt sehr gut zu dem Charakter des anschaulichen Kontinuums;
+denn in ihm geht das Getrennt-Sein zweier Stellen beim Zusammenrücken sozusagen graduell, in vagen Abstufungen, über in die Ununterscheidbarkeit. In einem Kontinuum kann es nach Brouwer nur
+stetige Funktionen geben. Das Kontinuum läßt sich nicht aus Teilen zusammensetzen. So kann ich wohl innerhalb des Kontinuums der reellen
+Zahlen das Teilkontinuum der positiven Zahlen herausheben, indem ich
+nur positive Dualbrüche zur Bildung von Intervallen und Intervallfolgen
+benutze. Es gilt aber nicht, daß das ganze Kontinuum aus dem der
+positiven, der negativen und der mit 0 zusammenfallenden Zahlen zusammengesetzt sei in dem Sinne, daß jede Zahl einem dieser drei
+Kontinuen angehören müßte. Die alte Wahrheit kommt hier zu präziser
+Durchführung, welche Aristoteles (reoi ätöuwv yoauusv) so ausdrückt:
+„Das Bewegte bewegt sich nicht zählend“, oder (Physik, Kap. VID:
+„Wenn man die stetige Linie in zwei Hälften teilt, so nimmt man den
+einen Punkt für zwei; man macht ihn sowohl zum Anfang als zum Ende;
+indem man aber so teilt, ist nicht mehr stetig weder die Linie noch die
+Bewegung... In dem Stetigen sind zwar unbegrenzt viele Hälften, aber
+nicht der Wirklichkeit, sondern der Möglichkeit nach.“ Man vergleiche
+dazu die oben zitierten Stellen über das Kontinuum aus Leibnizens Briefwechsel! Der Grundsatz kommt wieder zu seinem Recht, daß ‚sich nicht
+trennen läßt, was nicht schon getrennt ist“ (Gassendi).
+
+Die Mathematik gewinnt mit Brouwer die höchste intuitive Klarheit.
+Die Anfänge der Analysis vermag er in natürlicher Weise zu entwickeln,
+den Kontakt mit der Anschauung viel enger wahrend als bisher. Aber
+man kann nicht leugnen, daß im Fortschreiten zu höheren und allgemeineren Theorien die Unanwendbarkeit der einfachen Grundsätze der
+klassischen Logik schließlich eine kaum erträgliche Schwerfälligkeit zur
+Folge hat. Und mit Schmerzen sieht der Mathematiker den größten Teil
+seines, wie er meinte, aus festen Quadern gefügten Turmbaus in Nebel
+zergehen.
+
+[[pdf-page:0077 printed-page:76]]
+
+LITERATUR
+
+L.E. J. Brouwer, Over de grondslagen der wiskunde. Diss. Amsterdam u. Leipzig 1907. -— Intuitionisme en Formalisme. Groningen 1912;
+in englischer Sprache: Bull. Americ. Math. Soc. 20 (1913). — Zur Begründung der intuitionistischen Mathematik. Math. Annalen 93, 95, 96
+(1924—1927).
+
+H. Weyl, Über die neue Grundlagenkrise der Mathematik. Math.
+Zeitschr. 10 (1921).
+
+O. Becker, Beiträge zur phänomenologischen Begründung der Geometrie und ihrer physikalischen Anwendungen. Husserls Jahrbuch für
+Philosophie 6, insbesondere $S. 398 —436, 459—477.
+
+10. Symbolische Mathematik
+
+Ist kein Weg geblieben, so radikalen Konsequenzen zu entgehen ? Der Entschluß zu dem Opfer ist doppelt schwer angesichts
+des historischen Faktums, daß in der mengentheoretischen AnaIysis trotz der kühnsten und mannigfaltigsten Kombinationen eine
+vollkommene Sicherheit des Schließens und eine offenkundige
+Einhelligkeit aller Ergebnisse angetroffen wird. Hilbert macht
+sich anheischig, durch die axiomatische Methode die Mathematik
+in ihrem vollen Besitzstande zu sichern. Freilich ist auch er davon
+durchdrungen, daß die Kraft des inhaltlichen Denkens nicht
+weiter reicht als Brouwer behauptet, daß sie die transfiniten
+Schlußweisen der Mathematik nicht zu tragen imstande ist, daß
+es keine Rechtfertigung für alle die transfiniten Aussagen der
+Mathematik als inhaltlicher, einsichtiger Wahrheiten gibt. Was
+Hilbert sicherstellen will, ist nicht die Wahrheit, sondern die
+Widerspruchslosigkeit der alten Analysis.
+
+Zu diesem Zweck muß er die Mathematik samt der Logik
+Jformalisieren zu einem nach festen Regeln vor sich gehenden Spiel
+mit Zeichen. (Sie sind nicht gemeint als Zeichen für etwas; Zeichen
+der letzteren Art nennt Hilbert „Mitteilungszeichen“ und verwendet für sie die deutschen Buchstaben.) Die mathematischen
+Formeln, die aus jenen Zeichen bestehen, lassen nicht durchweg
+eine inhaltliche Deutung zu; neben die sinnvollen sind „ideale
+Aussagen‘ getreten, die eingeführt wurden, um die Gültigkeit der
+
+[[pdf-page:0078 printed-page:77]]
+
+einfachen logischen Gesetze künstlich wiederherzustellen, die
+nach Brouwer beim Übergang zum Unendlichen verlorengegangen
+waren — so wie in der algebraischen Zahlentheorie ideale Zahlen
+eingeführt werden, um die Gültigkeit der einfachen Teilbarkeitssätze zu erzwingen. Es kommen vier verschiedene Sorten von
+Zeichen vor!), die sich durch die für sie gültigen Spielregeln analog
+unterscheiden wie etwa die Bauern und die Springer im Schachspiel: Konstante (wie 1), Variable (Symbole für Leerstellen, x, y,...),
+ein- und mehrstellige Operationen und Integrationen. Die wichtigsten einstelligen Operationen sind - (Negation), o (Übergang von
+einer natürlichen Zahl zur nächstfolgenden), Z (Za, lies: a ist
+natürliche Zahl), die wichtigsten zweistelligen >, = und e. Wir
+fassen sie alle als Operationen auf; Z ist die Operation, welche
+aus a die Aussage erzeugt: a ist eine Zahl, == die Operation, welche
+aus a und b die Aussage erzeugt: a gleich b. Konsequenterweise
+mögen diese Operationszeichen denn auch (um die Spielregeln
+bequem allgemein formulieren zu können) alle vor die Glieder
+geschrieben werden, auf welche sie sich erstrecken, z.B. <,
+statta eb. Integrationen sind &,,/Tz; sie tragen eine (oder mehrere)
+beliebige Variable als Index. Durch ein vorgesetztes Integrationszeichen mit dem Index x wird die Variable x an allen Stellen der
+darauf folgenden Formel „gebunden“, ihrer Substitutionsfähigkeit beraubt. Im Laufe der Entwicklung der Mathematik können
+beständig neue Zeichen eingeführt werden. Was eine Formel ist,
+wird rekursiv erklärt: „‚x) jede Konstante oder Variable für sich
+ist eine Formel; f) aus einer oder zwei (oder mehreren) schon gebildeten Formeln entsteht eine neue, wenn man ein ein- bzw.
+zwei- (bzw. mehr-)stelliges Operations- oder Integrationszeichen
+hinschreibt und die betreffenden Formeln dahinter setzt.“ Die
+fertige Formel sieht dann wie ein (parthenogenetischer) Stammbaum von Symbolen aus, von dem die „grammatikalische Struktur“ der Formel, das heißt die Art ihrer rekursiven Konstruktion
+unzweideutig abgelesen werden kann. Außerdem kann man so
+
+1) Ich schließe mich hier einem gegenüber Hilbert vereinfachten Formalis-
+
+mus an, den v. Neumann (Zur Hilbertschen Beweistheorie, Math. Zeitschr.
+1926) aufstellt.
+
+[[pdf-page:0079 printed-page:78]]
+
+entscheiden, ob eine gegebene stammbaumähnliche Anordnung
+von Symbolen eine Formel ist oder nicht.
+
+Man braucht sich kein Gewissen daraus zu machen, daß im Formalismus die Operationen unterschiedslos auf alles mögliche ausgeübt
+werden. Wer ob solcher Großzügigkeit bange ist, wird vielleicht zwischen
+„numerischen“ und „faktischen‘“ Formeln unterscheiden wollen, etwa
+nach den folgenden rekursiven Festsetzungen: „‚x) Eine Konstante oder
+Variable für sich, ferner jede mit o oder &; beginnende Formel ist eine
+numerische Formel; andererseits sind Formeln, die mit ",—, v, &,
+Z, =, &, &,, Ilz beginnen, faktische. B) Auf die Symbole o und Z muß
+eine, auf =, & müssen zwei numerische, dagegen auf, &, &, /Tz eine
+und auf, &, v zwei faktische Formeln folgen“, Ähnliche Einschränkungen müssen sodann die axiomatischen Regeln und die syllogistische
+Regel des Schließens begleiten. Ist (wie im folgenden stets) A(x) eine
+beliebige Formel, in welcher nur eine Variable x frei (nicht gebunden)
+vorkommt, b (oder c) eine Formel ohne freie Variable oder eine „geschlossene Formel‘, so kann man in W überall dort, wo x frei auftritt,
+die ganze Formel b an Stelle von x einsetzen. Durch dieses anschaulich
+beschriebene Verfahren der Substitution entsteht wiederum eine Formel;
+sie ist gemeint mit dem Abkürzungszeichen X(b). Der Übersichtlichkeit
+halber verwenden wir jetzt die Operationszeichen wieder in der üblichen
+Weise vor, über oder zwischen den Gliedern und schreiben a +1 an
+Stelle von oa (so daß also + 1 ein nachgestelltes Operationszeichen ist,
+das mit der Konstanten 1 nichts zu tun hat).
+
+Ausgangspunkt eines Beweises sind die Axiome. Dazu gehören erstens
+die Axiome der finiten Logik; z. B.
+
+c>(bo 0).
+
+Doch werden sie jetzt als allgemeine Regeln zur Bildung von Axiomen
+betrachtet: nimm irgend zwei Formeln b und c her ohne freie Variable
+und stelle sie zu der Formel c— (b— c) zusammen; was du so erhältst,
+darfst du als Axiom benutzen. Zweitens treten auf die beiden Axiomenregeln der Gleichheit; sie vermitteln zwischen Logik und Arithmetik:
+
+b=b;
+= )>AH)=AH).
+
+Drittens spezifisch arithmetische Regeln von finitem Charakter; in ihnen
+erscheint die Konstante 1, der gegenständliche Ausgangspunkt aller
+Konstruktion:
+
+[[pdf-page:0080 printed-page:79]]
+
+Zi.
+
+Zb>Z(b+1).
+
+(b+1=c+)>6=0.
+b+1=1.
+
+Nunmehr folgt der transfinite Teil. Stützt man sich auf die von
+Brouwer bestrittene Alternative, daß es entweder einen Redlichen
+gibt oder daß alle Menschen unredlich sind, so kann man einen
+Aristides finden, von welchem feststeht: ist irgendein Mensch
+redlich, so ist Aristides redlich. Man wähle nämlich im ersten Fall
+für Aristides einen der Redlichen, im zweiten einen beliebig
+herausgegriffenen Menschen. Um aber für jede Eigenschaft,
+nicht nur die „Redlichkeit“, für jede eine einzige Variable x frei
+enthaltende Formel U diesen Aristides konstruieren zu können,
+fingieren wir einen göttlichen Automaten, der das leistet: er
+liefert uns, wenn wir eine beliebige Eigenschaft X in ihn hineinwerfen, jenes Individuum &,%, das sicherlich die Eigenschaft X
+besitzt, wenn es überhaupt ein derartiges Individuum gibt. e, ist
+ein Integrationszeichen (aus Koketterie mit dem verhängnisvollen
+Sprachgebrauch des Wörtleins „ist“ sowohl für die Kopula wie
+für die Existenz verwenden auch wir für beide denselben Buchstaben e; aber durch den an das existentiale e angehängten Variablenindex wird die Verwechslung verhütet). Verfügten wir über
+einen solchen Automaten, so wären wir aller Mühen überhoben,
+die uns „es gibt‘ und „alle“ bereiten; aber der Glaube an seine
+Existenz ist natürlich der reinste Unsinn. Die Mathematik tut
+jedoch so, als wäre er vorhanden. Das können wir in einer Axiomenregel zum Ausdruck bringen, und wenn die Anwendung
+dieser Regel nicht zu Widersprüchen führt, so ist ihre Aufstellung
+in der formalisierten Mathematik legitim. Die transfiniten logischen Axiomenregeln lauten nunmehr:
+
+AUH)>LAR. TLADI>A).
+ZAUH>AUEMD. AUEM->MTAR).
+
+Die der zweiten Zeile, die wir in $ 3 noch vermißten, erlauben uns,
+aus &, etwas zu folgern und von andern Formeln her auf II, zu
+
+[[pdf-page:0081 printed-page:80]]
+
+schließen. Natürlich leisten sie nicht dieselben Dienste wie der
+fingierte Automat; denn sie verschweigen für eine vorgelegte
+Formel U, was ex ist. Nur unter Umständen kann sich eine
+Formel wie &zQ{ = 1 als Endformel eines von den Axiomen ausgehenden Beweises ergeben.
+
+Unter den arithmetischen Axiomen fehlt noch das Prinzip der vollständigen Induktion; es kann als transfinite arithmetische Axiomenregel gefaßt werden, welche zum Ausdruck bringt, daß eine Eigenschaft
+U, welche der Zahl 1 zukommt und für alle x von x auf x +1 „sich
+vererbt“, einer beliebigen Zahl zukommt. Sie wird jedoch überflüssig,
+wie wir wissen, wenn es zulässig ist, zu jeder Eigenschaft WX ein neues
+Ding y, die korrespondierende Menge einzuführen, derart, daß die Aussage „x ist Element von y‘‘ mit dem Bestehen von X(x) gleichbedeutend
+ist. Formuliert man dies als eine Axiomenregel, so stellt sich jedoch
+alsbald heraus, daß ihre Anwendung unweigerlich zu einem formalen
+Widerspruch führt, womit über das schrankenlose Recht zur Vergegenständlichung der Stab gebrochen ist. Für die Analysis genügt aber die
+Beschränkung des Arguments x auf den Bereich der natürlichen Zahlen,
+so daß wir die engere transfinite mengentheoretische Regel aufstellen:
+
+2,1,{Zx-((xey)2UßR))}, &)
+
+wo 82€ als Abkürzung für (B— ©) & (C— ®B) dient. — Es scheint
+für den Aufbau derAnalysis nicht unerläßlich, aber wünschenswert zu
+sein, das Axiom der Bestimmtheit hinzuzufügen, nach welchem zwei
+Zahlmengen gleich sind, welche genau dieselben Elemente enthalten:
+
+I,{Zx(xcb)e(xeo)}>(b=0).
+
+Ein mathematischer Beweis besteht darin, daß man sich
+Axiome nach den angegebenen Regeln herstellt — diese Axiome
+enthalten niemals freie Variable — und von ihnen aus durch Anwendung der schon in $3 besprochenen Schlußregel des Syllogismus zunächst auf solche Axiome, weiterhin auf die bereits
+gewonnenen Formeln zu immer neuen vordringt. Daß man nicht
+a priori überblicken kann, zu was für „beweisbaren Formeln“
+man durch dieses Spiel gelangt, liegt vor allem daran, daß durch
+den Syllogismus aus zwei Formeln b und b > c eine neue c entsteht, welche kürzer ist als die zweite der Prämissen, daß im
+Beweisspiel beständig Aufbau und Abbau miteinander wechseln.
+
+[[pdf-page:0082 printed-page:81]]
+
+Bis hierhin ist alles Spiel, nicht Erkenntnis. Das Spiel wird nun
+aber in der „Metamathematik“, wie Hilbert sich ausdrückt, zum
+Gegenstand der Erkenntnis gemacht: es soll erkannt werden, daß
+man niemals zu einem Widerspruch gelangt. Ein solcher läge vor,
+wenn von zwei in concreto durchgespielten Beweispartien die eine
+mit einer Formel b endete, die andere mit der entgegengesetzten b.
+Nur zur Gewinnung dieser einen Erkenntnis wird von Hilbert das
+finite inhaltliche bedeutungserfüllte Denken benötigt, das aufkeine
+„Axiome‘ gebracht werden kann. Insbesondere betätigt sich in
+diesem inhaltlichen Denken ein anschaulich-finiter Schluß durch
+vollständige Induktion, wie wir ihn analog vollzogen, als wir uns
+zur Einsicht brachten ($ 4), daß in einer richtig gespielten Schachpartie niemals 10 Damen der gleichen Farbe auftreten können.
+
+Eine der Regeln des elementaren Aussagekalküls, die entweder unter
+den axiomatischen Regeln selbst auftritt oder leicht aus ihnen geschlossen
+werden kann, lautet
+
+b>(b>c), ©)
+
+wo b und c beliebige geschlossene Formeln sind. Sei c eine willkürliche
+derartige Formel, und nehmen wir an, eine gewisse Formel b und ihre
+Negation -b seien bewiesen worden. Unter diesen Umständen führen
+zwei syllogistische Schritte von (*) zunächst zu b— c und dann zu c.
+Ist nun bekannt, daß der Formalismus nicht widerspruchsfrei ist, so
+kann jede beliebige geschlossene Formel c bewiesen werden, und damit
+verliert das Beweisspiel jedes Interesse. Die Widerspruchslosigkeit kann
+also dadurch definiert werden, daß man sagt, die Formel —(1 = 1) sei
+nicht beweisbar.
+
+Das Axiomensystem kann beständig erweitert werden; aber
+immer ist zu zeigen, daß dabei die Widerspruchslosigkeit aufrechterhalten bleibt. Insbesondere sind auch Definitionen in Gestalt
+neuer Axiome oder Axiomenregeln einzuführen; z.B.
+
+ol=2, o(ob)=o,b.
+
+Dies läßt sich besonders auf die rekursiven Definitionen vonb + c,
+b -c und anderen arithmetischen Operationen anwenden. Ein für
+allemal läßt sich zeigen, daß eine zuvor bestehende Widerspruchslosigkeit erhalten bleibt, wenn Axiome dieser Art hinzugefügt
+
+[[pdf-page:0083 printed-page:82]]
+
+werden, die einfache oder rekursive Definitionen bedeuten!).
+Was die natürlichen Zahlen betrifft, kann der Hilbertsche Aufbau
+im Gegensatz zum Brouwerschen verzichten auf jene „Möglichkeit
+in infinitum“, die in $ 6 als 3ter Schritt des konstruktiven Erkennens geschildert wurde; für Hilbert ist z. B. 101? ein „transfinites““
+Symbol, das keine Zahl (Zeichen von der Gestalt oo..o 1) bedeutet. Geometrie und Physik können, sobald und soweit sie streng
+axiomatisiert sind, angegliedert werden. Ja, Hilbert meint (Axiomatisches Denken, 1917): „Alles, was Gegenstand des wissenschaftlichen Denkens überhaupt sein kann, verfällt, sobald es zur
+Bildung einer Theorie reif ist, der axiomatischen Methode und
+damit mittelbar der Mathematik“).
+
+Solange man die transfiniten Bestandteile außenvor läßt, ist der Beweis der Widerspruchslosigkeit (WB) leicht zu erbringen mittels ‚‚Wertung der Formeln“. Durch ein genau beschriebenes rekursives Verfahren
+wird jeder Formel gemäß ihrer Entstehung einer der Werte W oder F
+(wahr oder falsch) so verliehen, daß offenbarerweise die finiten Axiome
+den Wert W bekommen und für die logischen Verknüpfungen die in $ 3
+angegebenen Regeln zur Wertbestimmung gelten. Solange das Transfinite
+ausgeschaltet bleibt, ist also der Syliogismus, das deduktive Verfahren
+ganz kraftlos; über die Wahrheit oder Falschheit des Vordersatzes b> c
+wird hier nämlich immer erst entschieden, nachdem der Schlußsatz c
+gewertet ist. — Auf diesem Wege ist der WB nicht mehr zu führen,
+wenn die transfiniten Axiomregeln hinzugenommen werden. Hierin
+
+1) Außerdem kann gezeigt werden, daß alle rekursiv definierbaren arithmetischen Operationen, sind die definierenden Axiome fürb +c,b-c und
+die entsprechenden Rechensymbole +, - erst einmal eingeführt, im Formalismus ausdrückbar sind. Vgl. z. B. Hilbert und Bernays, Grundlagen der
+Mathematik, Bd. I, S. 412—422.
+
+2) Aus einer wesentlich anderen Auffassung der Mathematik heraus
+kommt Kanr zu dem Ausspruch (Metaphysische Anfangsgründe der Naturwissenschaft, Vorrede): „daß in jeder besonderen Naturlehre nur so viel
+eigentliche Wissenschaft angetroffen werden könne, als darin Mathematik
+anzutreffen ist‘‘. Im selben Sinne aber wie Hilbert erklärt Husserl (Logische
+Untersuchungen I, $ 71), mit besonderer Bezugnahme auf die mathematische
+Logik, daß ‚‚die mathematische Form der Behandlung... bei allen streng
+entwickelten Theorien (man muß dies Wort allerdings auch im echten Sinne
+nehmen) die einzig wissenschaftliche ist, die einzige, welche systematische
+Geschlossenheit und Vollendung, welche Einsicht über alle möglichen Fragen
+und die möglichen Formen ihrer Lösung bietet“.
+
+[[pdf-page:0084 printed-page:83]]
+
+macht sich bemerkbar, daß mit ihnen die Einsicht in wahr und falsch
+aufhört. Gelungen ist aber auf einem mehr indirekten Wege der WB
+für den Fall, daß die transfiniten logischen Axiome mitzugelassen werden
+(v. Neumann, a.a.O.). Schon hier ist er recht verwickelt. Damit ist
+sichergestellt, daß man keinen Widerspruch zu befürchten braucht, wenn
+man — wie ich es in meiner Schrift „Das Kontinuum‘ vom Jahre 1918
+tat — die Reihe der natürlichen Zahlen als geschlossenen Inbegriff
+seiender Gegenstände behandelt. Dagegen steht der WB noch aus für die
+Einbeziehung der transfiniten mengentheoretischen Axiomregel (*),
+welche den gleichen Standpunkt gegenüber dem ‚‚Inbegriff aller möglichen Zahlmengen“ zur Geltung bringen soll. Erst die Durchführung
+des WB oder die Bemühungen darum decken uns die höchst verzwickte
+logische Struktur der Mathematik auf, ein Gewirr von zirkelhaften
+Rückverknüpfungen, von denen sich zunächst gar nicht übersehen läßt,
+ob sie nicht zu eklatanten Widersprüchen führen.
+
+Der geschilderte Symbolismus nimmt offenbar in verfeinerter Form
+die Aufgabe von neuem in Angriff, welche sich Leibniz mit seiner „allgemeinen Charakteristik“ und ars combinatoria gestellt hatte. Aber geht
+hier die alte Analysis nicht bloß noch als ein blutleeres Gespenst um?
+Die Hilbertsche Mathematik mag ein hübsches Formelspiel sein, amüsanter selbst als das Schachspiel; aber was hat sie mit Erkenntnis zu tun,
+da doch eingestandenermaßen ihre Formeln keine inhaltliche Bedeutung
+haben sollen, derzufolge sie einsichtige Wahrheiten ausdrückten ? Gegenstand der Mathematik sind nach Hilbert die konkreten Zeichen selber.
+Es ist darum keine Ironie, wenn Brouwer sagt (Intuitionisme en formalisme, S. 7): Op de vraag, waar de wiskundige exactheid dan wel bestaat,
+antwoorden beide partijen verschillend; de intuitionist zegt: in het menschelijk intellect, de formalist: op het papier. Auf die Frage, warum er
+gerade diese Regeln aufstellt und warum ihm daran liegt, daß niemals
+zwei beweisbare Formeln von der Gestalt b und 6 vorkommen, muß der
+konsequente Formalist die Antwort schuldig bleiben. An Philosophie,
+Psychologie oder Anthropologie wird er uns, wie Brouwer meint, verweisen zur Rechtfertigung seines ‚‚lustgevoel van echtheitssovertuiging““
+und seines Glaubens, daß das gewählte Axiomensystem sich besser auf
+die Erfahrungswelt projizieren lasse als andere.
+
+Die letzte Bemerkung erinnert uns daran, daß die Mathematik
+sich in den Dienst der Naturwissenschaft zu stellen habe. Den Aussagen der theoretischen Physik eignet aber sicherlich nicht jener
+Charakter, den Brouwer von den mathematischen verlangt, daß
+nämlich jede ihren eigenen, restlos in der Anschauung vollzieh-
+
+[[pdf-page:0085 printed-page:84]]
+
+baren Sinn in sich trage; sondern dort steht, wenn es mit der Erfahrung konfrontiert wird, nur das System als Ganzes in Frage.
+Wir müssen offenbar scharf scheiden zwischen phänomenalem
+Wissen, anschauender Einsicht — wie sie z. B. in dem Urteil vorliegt: „Dies (mir in einem gegenwärtigen Akt der Wahrnehmung
+gegebene) Biatt hat diese (mir in eben dieser Wahrnehmung gegebene) grüne Farbe“ — und theoretischer Gestaltung. Das Wissen
+gibt Wahrheit, sein Organ ist das „Sehen“ im weitesten Sinne.
+Die theoretische Gestaltung scheint nur an ein einziges streng
+formulierbares Vernunftprinzip gebunden zu sein: Einstimmigkeit,
+die hier in der Mathematik, wo die Shpäre des sinnlich Gegebenen
+noch nicht berührt wird, lediglich in der Widerspruchslosigkeit
+besteht; ihr Organ ist „das Schöpferische“. Im Zusammenhang
+mit der Physik werden wir die Frage genauer erörtern müssen,
+was außer der Einhelligkeit auf sie bestimmend wirkt. Die einsichtige Wahrheit ist dafür, wenn auch niemals letzte Norm, so
+doch gewiß nicht gleichgültig. Hilbert selber äußert sich so darüber
+(Über das Unendliche, Math. Annalen 95, S. 190): „Die Rolle,
+die dem Unendlichen bleibt, ist... lediglich die einer Idee — wenn
+man, nach den Worten Kants, unter einer Idee einen Vernunftbegriff versteht, der alle Erfahrung übersteigt und durch den das
+Konkrete im Sinne der Totalität ergänzt wird.“ Vielleicht findet
+aber jene Frage eine vollständige Antwort nur durch den Hinweis
+auf das in der Geschichte an uns sich vollziehende Leben des
+Geistes, von dem meine eigene Existenz zwar ein wesentlicher,
+aber kein autonomer Teil ist. Sie ist Licht und Finsternis, Zufälligkeit und Notwendigkeit, Sklaverei und Freiheit, und es kann
+nicht erwartet werden, daß sich eine symbolische Konstruktion
+der Welt je in einer endgültigen Form davon abheben würde.
+
+LITERATUR
+G. W. Leibniz, Philos. Schriften, ed. Gerhardt, VII, S. 184—189.
+L. Couturat, Opuscules et fragments inedits de Leibniz. Paris 1902.
+D. Hilbert, Neubegründung der Mathematik. Abhandlungen aus
+dem Mathematischen Seminar der Universität Hamburg 1 (1922).
+D. Hilbert, Die logischen Grundlagen der Mathematik. Math. Annalen 88 (1922).
+
+[[pdf-page:0086 printed-page:85]]
+
+D. Hilbert, Über das Unendliche. Math. Annalen 95 (1925).
+D. Hilbert u. P. Bernays, Grundlagen der Mathematik. 2 Bände.
+Berlin 1934—1939.
+
+11. Über das Wesen der mathematischen Erkenntnis
+
+Die Mathematik wird von alters her gekennzeichnet als die Wissenschaft von der Größe — oder von Raum und Zahl. (Wenn wir diese
+Definition auch bei Leibniz antreffen, so ist für ihn doch die so umgrenzte Mathesis nur ein Unterteil der Ars combinatoria.) Heute muß
+sie uns als viel zu eng erscheinen im Hinblick auf solche Gebiete wie die
+projektive Geometrie oder gar die Gruppentheorie. So brauchen wir uns
+denn auch nicht um eine genauere Festlegung des Begriffes des Quantitativen zu kümmern, und die Entwicklung der Mathematik selbst erweckt Zweifel daran, ob Quantität eine wohlumgrenzte und wichtige
+philosophische Kategorie ist. Die Geometrie, sofern sie den wirklichen
+Raum erforscht, rechnen wir nicht mehr zur reinen Mathematik, sondern
+sie gehört, prinzipiell in der gleichen Weise wie Mechanik und Physik,
+zu ihren Anwendungen. Unter dem Einfluß der allgemeinen Arithmetik
+der hyperkomplexen Zablen, später der axiomatischen Untersuchungen,
+der Mengenlehre und Logistik verwischt sich der Unterschied zwischen
+Mathematik und Logik. „Mathematics is the science, which draws necessary
+conclusions“, erklärt B. Peirce 1870. Ausführlich beschäftigt sich mit der
+Definition der „Mathematik oder Logik“ von diesem Standpunkt aus
+das 11. Kapitel in Husserls Logischen Untersuchungen (Bd. I, „Die Idee
+der reinen Logik“) und das letzte in Russells „Einführung in die mathematische Philosophie“.
+
+Die durch die Antinomien der Mengenlehre heraufbeschworene
+Krisis läßt dann, ob man nun mit Brouwer dem konsequenten Intuitionismus oder mit Hilbert dem Symbolismus folgt, die Eigenart der
+Mathematik wieder deutlicher hervorleuchten. Brouwer erblickt genau
+wie Plato in der Zwei-Rinigkeit die Wurzel des mathematischen Denkens.
+„Dit neo-intuitionisme zieht het uiteenvallen van levensmomenten in qualitatief verschillende deelen, die alleen gescheiden door den tijd zich weer
+kunnen vereenigen, als oergebeuren in het menschelijk intellect, en hei
+absitraheeren van dit uiteenvallen van elken gevoelsinhoud tot de intuitie
+van twee-eenigheid zonder meer, als oergebeuren van het wiskundig denken.“
+Wir sahen, wie dadurch, daß immer wieder ‚‚eins zu zwei“ wird?), das
+
+2) Eine Anspielung auf „Da wurde Eins zu Zwei“, womit Nietzsche in
+
+[[pdf-page:0087 printed-page:86]]
+
+Teilungsschema des eindimensionalen Kontinuums entsteht. Auf dieselbe Art gehen aber auch die ganzen Zahlen gemäß ihrer Schreibweise
+im Dualsystem hervor. Stenzel (Zahl und Gestalt bei Plato und Aristoteles, 1924) macht es wahrscheinlich, daß Plato sich die Zahlen in dieses
+Schema ordnete; weil man aber hier durch die Spaltung von eins in zwei
+zu immer größeren Zahlen aufsteigt, im Kontinuum zu immer kleineren
+Teilen kommt, nennt er die Zweiheit auch das Groß-Kleine. (Eine andere
+Interpretation findet sich dagegen bei H. Cherniss, The Riddle of the
+Early Academy, Univ. of Calif. Press 1945.) Angemessener ist den ganzen
+Zahlen die natürliche Reihung, welche Aristo-
+
+1 teles (Metaphysik A 6 und M 6) der PlatoniYA N schen Zahlauffassung entgegensetzt. Aber
+% NS auch sie kann man aus der Zweieinigkeit dadurch entstehen lassen, daß man ausgeht von
+
+IN IN
+
+100 101 1j0 111 einem Ungeschiedenen, dies zerlegt in ein
+aue= dEg S58 g895 Element (die 1), welches als Einheit bewahrt
+bleibt, und einen ungeschiedenen Rest, den
+Rest wiederum zerlegt in ein Element (2) und einen ungeschiedenen Rest
+usf. (Anschaulich: von einer Halbgeraden wird immer wieder ein Stück
+abgehauen, von der in die Zukunft offenen Zeit ist immer wieder ein
+Stück durchlebt.) Hier verfällt nicht jeder Teil, sondern stets nur der
+letzte übrig gebliebene ungeschiedene Rest der Zweiteilung.
+Unabhängig aber davon, welchen Wert man dieser letzten
+Reduktion des mathematischen Denkens auf die Zweieinigkeit beimißt, erscheint vom intuitionistischen Standpunkt die vollständige
+Induktion als dasjenige, was die Mathematik davor bewahrt, eine
+ungeheure Tautologie zu sein, und prägt ihren Behauptungen einen
+synthetischen, nicht-analytischen Charakter auf. Das Verfahren
+der vollständigen Induktion ist in der Tat ein durchgehender und
+entscheidender Zug. Scheint es zunächst in der elementaren Geometrie, insbesondere der projektiven, keine Rolle zu spielen, so
+liegt der Grund darin, daß hier von „es gibt‘ und „alle“ auf die
+Punkte ein naiver Gebrauch gemacht wird. Gemäß der intuitionistischen Auffassung ist das unzulässig; das Konstruktionsfeld
+der Geometrie ist ein Kontinuum und daher strenger mathemati-
+
+mehreren seiner Gedichte sein Zarathustra-Erlebnis schilderte, z. B. in „‚Sils
+Maria“:
+
+„Da, plötzlich, Freundin, wurde Eins zu Zwei —
+
+— und Zarathustra ging an mir vorbei...“
+
+[[pdf-page:0088 printed-page:87]]
+
+scher Behandlung erst fähig, nachdem es, wie oben geschildert
+(vgl. auch $ 15), mit einem Teilungsnetz übersponnen ist.
+
+Vom formalistischen Standpunkt tritt an Stelle der vollständigen Induktion der transfinite Axiomenbestandteil und drückt der
+Mathematik ihr Gepräge auf. Sie besteht hier überhaupt nicht aus
+evidenten Wahrheiten, sondern ist kühne theoretische Konstruktion,
+also das äußerste Gegenteil von analytischer Selbstverständlichkeit. Das inhaltliche Denken der Metamathematik andererseits,
+welche den Beweis der Widerspruchslosigkeit zu erbringen hat,
+operiert, den Beweisgang durchlaufend, mit einem finiten Schluß
+von n aufn + 1 und befaßt sich mit „außer-logischen konkreten
+Objekten, die sich vollkommen in allen Teilen überblicken lassen
+und deren Aufweisung, Unterscheidung, Aufeinanderfolge oder
+Nebeneinandergereihtsein mit den Objekten zugleich unmittelbar
+anschaulich gegeben ist als etwas, das sich nicht noch auf etwas
+anderes reduzieren läßt oder einer Reduktion bedarf“ (Hilbert).
+Deshalb stimmt Hilbert mit Kant, der übrigens in der Algebra
+auch die symbolische Konstruktion mit anschaulichen Zeichen als
+wesentlich betonte (Kritik der reinen Vernunft, 2. Aufl., S. 745),
+darin überein, „daß die Mathematik über einen unabhängig von
+aller Logik gesicherten Inhalt verfügt und daher nie und nimmer
+allein durch Logik begründet werden kann“ (Über das Unendliche, S. 171).
+
+Immerhin ist nicht zu verkennen, daß bei dem Kantischen Gebrauch
+der Worte analytisch und synthetisch wenigstens die einzelne bestimmte
+Gleichung wie 3 + 2 — 5 analytisch heißen müßte; denn, wie Leibniz
+ausführte, folgt sie logisch aus den Definitionen
+
+3+1=4, 4+1=5, (a+)+1=a+2,
+
+„liegt also in den Begriffen‘ der Zahlen 3, 5 und der Operation + 2.
+Oder welche Bedeutung verband Kant mit diesen Zeichen ?
+
+Die Mathematik ist unbezweifelbar a priori; sie ist nicht, wie J. St.
+Mill uns glauben machen will, auf Erfahrung gegründet — in dem Sinne,
+daß erst wiederholte Versuche an Zahlenbeispielen dem für beliebige
+natürliche Zahlen aufgestellten arithmetischen Satzm +n=n + mein
+immer größeres Wahrheitsgewicht verleihen.
+
+Ein auffälliger Zug aller Mathematik, der den Zugang zu ihr
+dem Laien so sehr erschwert, ist der reichliche Gebrauch von
+
+[[pdf-page:0089 printed-page:88]]
+
+Symbolen. Vom intuitionistischen Standpunkte aus liegt hierin
+kein wesenhaftes Merkmal; der Intuitionist sieht in ihnen wie in
+der Sprache nur Hilfsmittel zur Unterstützung des Gedächtnisses
+durch Fixierung und zur Mitteilung. Anders im Formalismus. Für
+ihn besteht die Mathematik ganz und gar aus Symbolen, die keine
+in der sinnlichen oder geistigen Anschauung aufzuweisende Bedeutung haben und mit denen nach sicheren Regeln operiert wird,
+während die Sprache — in der Beschreibung der Substitution und
+der praktischen Schlußregel z. B. und in der metamathematischen
+Überlegung — zur (prinzipiell immer unsicher bleibenden Verständigung, nämlich zur) Mitteilung von Verfahrensweisen und
+geistiger bedeutungserfüllter Denkakte dient. „In der geometrischen Figur und später in der mathematischen Formel‘, sagt
+A. Speiser (Klassische Stücke der Mathematik 1925, S. 148), „hat
+sich die Mathematik von der Sprache frei gemacht, und wenn man
+die gewaltige Arbeit und den immer wieder überraschenden Erfolg
+bei diesem Prozeß kennt, so hat es fast den Anschein, als ob die
+Mathematik in heutiger Zeit leistungsfähiger ist auf dem ihr zugemessenen Teil der Geisteswelt als etwa die Musik oder gar die
+in so deplorablem Zustand befindlichen modernen Sprachen auf
+ihren Fronten.“
+
+In seiner transzendentalen Methodenlehre (I. Teil der Kritik
+der reinen Vernunft) erblickt Kant das Wesen der Mathematik in
+der Konstruktion: „Die philosophische Erkenntnis ist die Vernunfterkenntnis aus Begriffen, die mathematische aus der Konstruktion
+der Begriffe.“ Am Beispiel des Satzes von der Winkelsumme im
+Dreieck macht er deutlich, wie die geometrischen Sätze nicht durch
+Begriffszergliederung, sondern durch Konstruktion geeigneter
+Hilfspunkte und Hilfslinien gefunden werden. Seine nähere Schilderung des konstruktiven Verfahrens kann uns heute kaum mehr
+befriedigen. Aber soviel ist wahr, daß man im Beweise eines mathematischen Satzes über den unmittelbaren Inhalt des Satzes fast
+immer weit hinausgehen muß. Der Grund ist darin zu suchen,
+daß ein nach der Schlußregel des Syllogismus sich vollziehender
+Beweis, wie schon früher hervorgehoben, kein monoton fortschreitender Aufbau ist — im Gegensatz zur Formel, deren Herstellung immer im gleichen Sinne fortschreitet und von welcher
+
+[[pdf-page:0090 printed-page:89]]
+
+daher alle Konstruktionsteile im fertigen Resultat aufbewahrt
+liegen —, sondern ein ständiger Wechsel von Aufbau und Abbau.
+Dieser Umstand zusammen mit den in $6, S.56 aufgezählten
+Punkten 1., 2. und 3. scheinen mir ungefähr zutreffend die Konstruktion im Gegensatz zur reinen Betrachtung zu kennzeichnen.
+
+Die Stufen, welche die Grundlagenforschung in der Mathematik während der letzten Zeit durchlaufen hat, entsprechen den
+drei fundamentalen erkenntnistheoretischen Einstellungsmöglichkeiten. Die mengentheoretische Begründung ist die Stufe des naiven
+Realismus, der sich des Überganges vom Gegebenen zum Transzendenten nicht bewußt wird. Brouwer vertritt den Idealismus, indem er Zurückführung aller Wahrheit auf das anschaulich Gegebene fordert. Im axiomatischen Formalismus endlich unternimmt das Bewußtsein den Versuch, „über den eigenen Schatten
+zu springen‘, den Stoff des Gegebenen hinter sich zu lassen, das
+Transzendente darzustellen; aber, wie sich von selbst versteht, nur
+im Symbol. Den idealistischen Standpunkt in der Erkenntnistheorie hat dieabendländische Philosophie von Descartes ab grundsätzlich festgehalten ; dennoch suchte sie immer wieder in der Metaphysik den Zugang zum Reich des Absoluten, und noch auf Kant,
+der ein für allemal den Riegel vorschieben wollte, folgten Fichte,
+Schelling, Hegel. Es ist nicht zu leugnen, daß in uns ein vom bloß
+phänomenalen Standpunkt schlechterdings unverständliches theoretisches Bedürfnis lebendig ist, das zur Totalität drängt. Gerade
+die Mathematik zeigt das mit besonderer Deutlichkeit. Aber aus
+ihr mögen wir auch lernen, daß jenem Bedürfnis Befriedigung werden kann nur unter einer Voraussetzung: wenn wir uns genügen
+lassen am Symbol und dem mystischen Irrtum entsagen, daß das
+Transzendente je in den Lichikreis unserer schauenden Einsicht
+falle. Nur in der Mathematik und Physik hat bisher die theoretische Konstruktion solche Festigkeit gewonnen, daß sie zwingend
+ist für jeden, dessen Geist jenen Wissenschaften sich öffnet. Darauf
+beruht vorwiegend ihr philosophisches Interesse.
+
+Will man zum Schluß ein kurzes Schlagwort, welches den lebendigen
+Mittelpunkt der Mathematik trifft, so darf man wohl sagen: sie ist die
+Wissenschaft vom Unendlichen. Die Spannung zwischen dem Endlichen
+und Unendlichen für die Erkenntnis der Wirklichkeit fruchtbar gemacht
+
+[[pdf-page:0091 printed-page:90]]
+
+zu haben, ist die große Leistung der Griechen. Welche Bedeutung diese
+Spannung — und die Versuche zu ihrer Überwindung — für die Geschichte der theoretischen Erkenntnis besaß und besitzt, sollte hier fühlbar gemacht werden. „Das Unendliche hat wie keine andere Frage von
+jeher so tief das Gemüt der Menschen bewegt; das Unendliche hat wie
+kaum eine andere Idee auf den Verstand so anregend und fruchtbar gewirkt; das Unendliche ist aber auch wie kein anderer Begriff so der
+Aufklärung bedürftig“ (Hilbert, Über das Unendliche). — Wer aber
+einen kurzen Überblick über die verschiedenen Formen und Problemkreise wünscht, in denen sich heute der mathematische Geist betätigt,
+den verweise ich auf den Artikel von A. Voß, Über die mathematische
+Erkenntnis, in der „Kultur der Gegenwart‘ (Teil III, Abt. 1, 1914),
+ferner auf Courant und Robbins, What is Mathematics? (New York
+1941).
+
+LITERATUR
+
+Kant, Kritik der reinen Vernunft.
+
+Eine gründliche Auseinandersetzung mit Kants Philosophie der
+Mathematik gibt L. Couturat in der Revue de metaphys. et morale.
+Mai 1904.
+
+L. E. J. Brouwer, Mathematik, Wissenschaft und Sprache. Monatshefte d. Math. u. Phys. 36 (1929) S. 153—164.
+
+R. Courant u. H. Robbins, What is mathematics? New York 1941.
+H. Poincare, Wissenschaft und Hypothese, deutsch 2. Aufl. 1906.
+B. Russell, Einführung in die mathematische Philosophie, 1923.
+
+A. Voß, Über das Wesen der Mathematik, 2. Aufl. 1913.
+
+H. Weyl, The Mathematical Way of Thinking, Univ. Penn. Bicenten. Conf. 1940; außerdem in Science 92 (1940) S. 437-—446.

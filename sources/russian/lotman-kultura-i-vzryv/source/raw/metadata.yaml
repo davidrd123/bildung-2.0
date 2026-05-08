@@ -1,0 +1,18 @@
+# Lotman Kultura i vzryv raw extraction metadata.
+---
+authority:
+  file: "../local/lotman-kultura-i-vzryv.djvu"
+  format: "DjVu bundled scan with hidden OCR text"
+  page_count: 273
+  first_page_size: "width=1202 height=1880"
+  last_page_size: "width=1218 height=1889"
+extraction:
+  generated_by: "tools/extract_lotman_kultura_pages.py"
+  raw_pages: "pages/NNN.txt"
+  raw_sections: "NNN-section-slug.txt"
+  combined_ocr: "full-ocr.txt"
+  page_markers: "[scan page NNN]"
+image_rendering:
+  generated_by: "tools/extract_lotman_kultura_pages.py --images"
+  output: "../page-images/pages/NNN.png"
+  status: "local gitignored proof aid"

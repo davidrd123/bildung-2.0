@@ -87,6 +87,14 @@ layer.
 source/
   full/
     biosemiotics.txt
+  cleaned/
+    012-sign-and-cause.txt
+    013-code-duality.txt
+    014-the-semiotics-of-heredity.txt
+    015-the-semiotic-niche.txt
+    016-endosemiotics.txt
+    018-perspectives.txt
+    019-biosemiotic-technology.txt
   raw/
     000-title-pages-and-publisher-matter.txt
     001-contents.txt
@@ -128,13 +136,41 @@ source/
 
 ## How To Use
 
-- Read `source/raw/*.txt` when you want chapter-scale access.
+- Read `source/raw/*.txt` when you want chapter-scale access to the unedited
+  split.
 - Prefer `source/normalized/*.txt` when you want the most readable first-pass
   browsing surface.
+- Read `source/cleaned/*.txt` when a chapter has earned cleanup against the
+  source PDF or local page-image references.
 - Use `source/sections.yaml` when you need the sequence, title, and extracted
   line range.
-- Treat both layers as browsing surfaces, not as quotation-grade critical text.
+- Treat raw and normalized as browsing surfaces. Cleaned chapters carry
+  pressure-tested cleanup but the PDF remains the authority for quotation.
 
 If the book later earns real pressure, the next honest move would be bounded
 cleanup of the actually-pressed chapter files against the authority PDF, not a
 premature campaign buildout.
+
+Current cleaned chapters:
+
+- `source/cleaned/012-sign-and-cause.txt` keeps printed page markers
+  `[page 39]` through `[page 68]` and was cleaned against rendered local PDF
+  page images.
+- `source/cleaned/013-code-duality.txt` keeps printed page markers
+  `[page 71]` through `[page 109]` and was cleaned against the source PDF plus
+  rendered local PDF page images.
+- `source/cleaned/014-the-semiotics-of-heredity.txt` keeps printed page
+  markers `[page 111]` through `[page 167]` and was cleaned against the source
+  PDF plus rendered local PDF page images.
+- `source/cleaned/015-the-semiotic-niche.txt` keeps printed page markers
+  `[page 169]` through `[page 211]` and was cleaned against the source PDF plus
+  rendered local PDF page images.
+- `source/cleaned/016-endosemiotics.txt` keeps printed page markers
+  `[page 213]` through `[page 261]` and was cleaned against the source PDF plus
+  rendered local PDF page images.
+- `source/cleaned/018-perspectives.txt` keeps printed page markers
+  `[page 315]` through `[page 339]` and was cleaned against the source PDF plus
+  rendered local PDF page images.
+- `source/cleaned/019-biosemiotic-technology.txt` keeps printed page markers
+  `[page 341]` through `[page 354]` and was cleaned against the source PDF plus
+  rendered local PDF page images.

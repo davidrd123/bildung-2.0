@@ -1,0 +1,596 @@
+# Anhang C: Quantenphysik und Kausalität
+
+Section ID: appendix-c-quantenphysik-und-kausalitaet
+Kind: appendix
+PDF pages: 325-341
+Printed pages: 324-340
+Status: OCR-derived cleaned draft; page images remain the authority.
+
+[[pdf-page:0325 printed-page:324]]
+
+Anhang C: Quantenphysik und Kausalität
+
+1. Die moderne Quantentheorie hat die strenge Kausalbestimmung für die elementaren Atomprozesse fallen lassen. Sie bestreitet
+die strengen Gesetze nicht ganz und gar, doch erfassen die Größen,
+die sie behandeln, die beobachtbaren Erscheinungen nur statistisch.
+Die Quantentheorie ist unverträglich mit der Idee, daß eine streng
+kausale Theorie unbekannten Inhalts hinter ihr steht — derart,
+daß es wahr sein kann, daß streng eine Kausalbewegung der Einzelteilchen hinter den statistisch-thermodynamischen Regelmäßigkeiten eines aus vielen Partikeln bestehenden Gases stehe. Was an
+Gesetzen für ein Kollektiv denkbar ist, ist für die elementaren
+Quantengesetze nachweislich unmöglich. Die Unsicherheit des Ergebnisses eines Atomexperiments ist nicht derart, daß sie allmählich, mit fortschreitendem Wissen über die bestimmenden Faktoren auf Null reduzierbar ist. Die Gründe für den Übergang von
+der klassischen zur Quantenphysik sind nicht weniger zwingend
+als die für die Aufgabe des absoluten Raumes und der absoluten
+Zeit durch die Relativitätstheorie. Der Erfolg ist unvergleichlich
+größer, wenn man ihn an den empirischen Tatsachen mißt, die
+eine Erklärung gefunden haben. Zwar ist noch keine Endstufe erreicht, und gewisse ernstliche Schwierigkeiten bleiben ungelöst;
+doch wird der Weg nicht zum alten klassischen Schema zurückführen, was auch die Zukunft bringen mag.
+
+Eine der zwingendsten Enthüllungen der Korpuskularnatur
+des Lichts ist der photoelektrische Effekt: aus einer mit ultraviolettem oder Röntgenlicht bestrahlten Metallplatte treten Elektronen aus. Beobachtungen zeigen, daß — seltsamerweise -—— ihre
+Energie durch die Farbe der einfallenden Strahlung bestimmt wird,
+nämlich gleich oder weniger als h mal ihrer Frequenz ist. So gelangt man zu der Auffassung, daß Licht von der Frequenz » in
+diskontinuierlichen Quanten (Photonen) der Energie hv absorbiert
+wird (Einstein 1905). Diese Energie wird zur Aussendung eines
+Elektrons benützt (dessen kinetische Energie wegen der zur Befreiung des Elektrons benützten Arbeit knapp an hv heranreichen
+
+[[pdf-page:0326 printed-page:325]]
+
+kann). Die Strahlungsintensität bestimmt nicht die Energie des
+einzelnen Elektrons, sondern die Anzahl der pro Zeiteinheit ausgetretenen Elektronen. Der Prozeß setzt sofort ein, sogar wenn die
+Strahlung so schwach ist, daß es Stunden dauern würde, bevor die
+aufgespeicherte Zufuhr an Feldenergie in den Bereich eines Atoms
+den für das Ausstoßen eines Elektrons notwendigen Betrag Av erreicht. Was eine kontinuierliche Feldtheorie als Vorhandensein
+eines Bruchteils der strahlenden Energie hv beschreiben würde,
+muß tatsächlich als geringe Wahrscheinlichkeit für die Anwesenheit eines Photons dieser Energie gedeutet werden. Der dem photoelektrischen Effekt inverse Prozeß ist die Transformation primärer
+Elektronen in sekundäre Röntgenstrahlen in einer Röhre, deren
+Anode die Elektronen aufhält. Da das Aufhalten in mehreren
+Schritten stattfinden kann, muß für die Röntgenstrahlen ein kontinuierliches Spektrum mit einer scharfen Kante bei der Frequenz
+v = eV/h erwartet werden (wo — e die Ladung des Elektrons und
+V die Röntgenspannung ist). Die Erfahrung hat diese erstmals von
+Einstein vorausgesagten Beziehungen bestätigt, einschließlich dem
+Zahlenwert für kA, das mit der aus den thermodynamischen Gesetzen der Hohlraumstrahlung abgeleiteten Planckschen Konstante
+übereinstimmen muß.
+
+Das Problem, die Begriffe Lichtwelle und Photonen miteinander in Übereinstimmung zu bringen, wird vielleicht am besten
+durch die Polarisation erläutert. Eine sich in einer bestimmten
+Richtung 2 fortpflanzende ebene monochromatische Lichtwelle
+werde linear polarisiert; die durch einen Vektor $ mit der Länge 1
+dargestellte Polarisationsrichtung ist senkrecht @. Ein beliebiger
+Punkt 0 werde als Ursprung gewählt und ein „Kreuz“ G gezeichnet,
+das aus zwei aufeinander senkrechten Achsen 1 und 2 durch 0
+besteht, die senkrecht zu 4 sind. Sowohl das Kreuz als auch der
+Vektor & liegen in der zu @ senkrechten Ebene. Nimmt man an,
+daß der Lichtstrahl durch ein Nicolsches Prisma mit der Orientierung G geht, so spaltet er sich in zwei Teile 1 und 2, wobei der
+Teil 1 in der Richtung 1, der Teil 2 in der Richtung 2 linear polarisiert ist. Die relativen Intensitäten der beiden Teilstrahlen in bezug
+auf den ganzen Strahl sind durch die Quadrate (der Längen der
+Projektionen von $ auf die Achsen 1 und 2 oder) der Komponenten
+
+[[pdf-page:0327 printed-page:326]]
+
+51, Sa des Vektors Fin bezug auf das Kreuz G gegeben. Nimmt man
+an, der Lichtstrahl bestehe aus Photonen, so sind wir zu dem
+Schluß gezwungen, daß Photonen zweier verschiedener ‚„Merkmale‘ 1 und 2 (sozusagen weiße und schwarze Bälle) mit den entsprechenden Wahrscheinlichkeiten s? und s2 vorkommen. (Nach
+dem Pythagoreischen Lehrsatz s? + s) = 1 ist ja die Wahrscheinlichkeit dafür, daß ein Photon „weiß oder schwarz“ ist, ganz
+richtig gleich der Einheit.) Die Merkmale 1 und 2 beziehen sich
+auf G. Die Photonen beider Arten werden durch das Nicolsche
+Prisma getrennt, das wie ein Sieb arbeitet und dabei 1 einfängt
+und 2 durchläßt. Man sollte daher erwarten, der durch das Nicolsche Prisma hindurchgegangene und in der Richtung 2 polarisierte
+Strahl sei homogener als der ursprüngliche. Das ist jedoch nicht
+der Fall, weil die polarisierte ebene monochromatische Lichtwelle
+den höchsten Grad an Homogenität darstellt, die Licht erreichen
+kann. Der in der Richtung 2 polarisierte Teilstrahl wird sich wieder
+nach der eben beschriebenen Intensitätsregel spalten, wenn er
+durch ein zweites Nicolsches Prisma von anderer Orientierung G’
+geschickt wird. Etwas Ähnliches wie die Polarisation tritt ein,
+wenn auf einen Strahl von Silberatomen ein nichthomogenes
+Magnetfeld einwirkt. Unter Benützung von kartesischen Koordinaten x, y, z wollen wir annehmen, daß die Feldstärke nur von
+x abhängt. Ein Silberatom ist ein kleiner magnetischer Dipol mit
+einem vektoriellen magnetischen Moment m. Das Feld sollte den
+Strahl nach den verschiedenen Werten der x-Komponente m; von
+m in verschiedene Teile spalten. Da nur zwei Teilstrahlen (entgegengesetzter Krümmung) beobachtet werden, so muß geschlossen werden, daß diese Komponente nur die beiden Werte + uund
+— u (u = „Magneton‘) anzunehmen vermag. Dies muß für jede
+Richtung der x-Achse gelten. Ein Vektor jedoch, dessen Komponenten in jeder möglichen Richtung entweder + u oder — u sind,
+ist geometrischer Unsinn! Die Unmöglichkeit, dem Photon oder
+Silberatom nacheinander die einzelnen Merkmale zuzuschreiben,
+die den verschiedenen Orientierungen G des „Siebes‘ entsprechen,
+liegt klar in der Natur der Dinge und hat ihren Grund nicht in der
+menschlichen Unzulänglichkeit. Die Auslese durch ein Sieb der
+Orientierung G wird durch nachfolgendes Sieben der Orientierung
+
+[[pdf-page:0328 printed-page:327]]
+
+G’ zerstört. Doch kann man für die durch das Sieb G hindurchgegangenen Partikel nach der Wahrscheinlichkeit fragen, mit der
+sie das Sieb G’ passieren. Diese Wahrscheinlichkeit kann a priori
+aus der Orientierung von G’ in bezug auf G errechnet werden.
+
+Durch ein Prisma, wie Newton es benützte, oder durch ein
+Gitter wird das Licht je nach seinen verschiedenen monochromatischen Bestandteilen zerlegt. Ein „Sieb“, das eine Trennung
+nicht nur von zwei, sondern von mehreren „Korngrößen‘ zuläßt,
+kann daher „Gitter“ genannt werden. Der photoelektrische Effekt
+siebt Photonen aus je nach der Stelle, auf die sie stoßen. Aus guten
+Gründen sagt Eddington in seinem schönen Buch New Pathways
+in Science (S. 267): „In Einstein’s theory of Relativity the observer
+is a man who sets out in quest oftruth armed with a measuring-rod.
+In quantum theory he sets out armed with a sieve.“ (,‚In Einsteins
+Relativitätstheorie ist der Beobachter ein Mann, der auf die Suche
+nach der Wahrheit mit einem Maßstab bewaffnet auszieht. In der
+Quantentheorie zieht er mit einem Sieb als Waffe aus.‘“) Durch
+eine gewisse Operation M werden die Säugetiere von den andern
+Tieren in einem Zoo ausgesiebt. Sei F die entsprechende Operation
+für Fische. Die mehrfache Operation MM ergibt kein anderes
+Ergebnis als das einfache M, wogegen der Fang MF, das ist die
+auf M folgende Operation F, Null ist. In Anbetracht der Gleichungen
+
+MM=M,FF=F,MF=FM=0
+
+werden M und F gegenseitig orthogonale idempotente Operationen
+genannt. Ein Gitter in der klassischen Physik ist nichts anderes als
+eine Klassifikation der Zustände, die ein gegebenes physikalisches
+System anzunehmen vermag. Hier werden die Zustände als Elemente eines Aggregats betrachtet. Nimmt man die Anzahl der
+Zustände als endlich an, so mögen E1, ..., Er die einzelnen Klassen
+bezeichnen. Die Operationen, die die Zustände der Klasse Ei vom
+Rest aussieben, mögen auch mit Ei bezeichnet werden. Das Gitter
+G = {E1, ..., Er} möge noch dadurch verfeinert werden, daß man
+jede Klasse in Unterklassen einteilt. Es gibt eine feinste Einteilung,
+bei welcher jede Klasse nur ein Glied enthält. Zwei Gitter mit der
+Einteilung in die Klassen Ei und der Einteilung in die Klassen Ek'
+
+[[pdf-page:0329 printed-page:328]]
+
+sollen übereinander gelegt werden. Die Operation EiEk' sondert
+die den beiden Klassen Ei und Ek' gemeinsamen Glieder aus; dabei
+gilt das Kommutativgesetz EiEk' = Ek'Ei, und das Gesamtaggregat wird in die Klassen EiEk' aufgeteilt (von denen einige
+leer sein können). Ordnet man den einzelnen Klassen Ei bestimmte
+Zahlen αi zu, so kann man von einer Observablen (oder einer
+Zustandsgröße) A sprechen, die die Werte αi annimmt, wenn die
+Zustände des Systems zu der Klasse Ei gehören.
+
+Dieses klassische Schema soll nun dem der Quantenphysik
+gegenübergestellt werden, so wie diese durch das typische Beispiel
+der Polarisation umrissen worden ist. Das Aggregat der n Zustände muß durch einen n-dimensionalen euklidischen Vektorraum I ersetzt werden. Ist ein linearer Unterraum E von I gegeben,
+so kann jeder Vektor x orthogonal auf E projiziert werden; die
+Projektion ist ein Vektor Ex, und die Projektionsoperation E ist
+idempotent, EE = E. Zwei lineare Unterräume E1, E2 heißen
+orthogonal, wenn jeder Vektor im einen orthogonal zu jedem
+Vektor im andern ist. Wir können dann ihre Summe E = E1 + E2
+bilden, die aus allen Summen eines Vektors x1 in E1 und eines
+Vektors x2 in E2 besteht. Die Zerlegung eines Vektors x von E in
+diese beiden Summanden x1 und x2 ist eindeutig und wird durch
+die orthogonalen Projektionen E1, E2 bewirkt. Auf diese Weise
+spaltet sich zum Beispiel ein dreidimensionaler Vektorraum in eine
+horizontale Ebene und eine vertikale Gerade. Die Situation ist
+kaum verwickelter, wenn wir es mit mehr als zwei aufeinander
+senkrechten Unterräumen E1, E2, ..., Er zu tun haben. Ist ihre
+Summe der Gesamtraum, dann spaltet sich jeder Vektor x in r
+Komponentenvektoren auf, die in den einzelnen Unterräumen Ei
+liegen, nach der Formel
+
+x = E1x + ... + Erx,
+
+und man nennt den Gesamtraum in E1 + ... + Er aufgespalten.
+Die Projektionen Ei (i = 1, ..., r) sind idempotent und zueinander
+orthogonal. |x| bezeichne die Länge eines Vektors x.
+
+Durch eine Richtung in I oder durch einen in diese Richtung
+weisenden Vektor x stellt die Quantenphysik den Wellenzustand
+des zu untersuchenden physikalischen Systems dar (sei es nun eine
+
+[[pdf-page:0330 printed-page:329]]
+
+einfache Partikel, oder ein Aggregat vieler, oder gar von unbestimmbar vielen Partikeln). Ein Gitter G = {E1, ..., Er} bedeutet
+ein Aufspalten des gesamten Vektorraums in gegenseitig orthogonale Unterräume E1 + ... + Er. Wir sprechen von einem Merkmal i, genauer (G; i), das jedem dieser Unterräume Ei entspricht.
+Befindet sich das System in dem Wellenzustand x, so ist die Wahrscheinlichkeit, daß es das Merkmal i besitzt, gleich
+
+pi = |Ei x|^2 / |x|^2. (1)
+Die Pythagoreische Gleichung
+
+|E1 x|^2 + ... + |Er x|^2 = |x|^2
+
+zeigt, daß die Summe dieser Wahrscheinlichkeiten pi gleich der
+Einheit ist. Kein Gitter kann mehr als n verschiedene Merkmale
+liefern. So entspricht unser Modell wie das klassische, mit dem es
+verglichen ist, einer Situation, bei der die Anzahl der Merkmalwerte begrenzt ist. In der Natur ist das nicht so, doch gehen keine
+wesentlichen Eigentümlichkeiten der Quantenmechanik verloren,
+wenn man das endlich-dimensionale Modell benützt. Es ist klar,
+worin die Verfeinerung eines Gitters G besteht: tatsächlich kann
+jedes E; wiederum in gegenseitig orthogonale Unterräume aufgespalten werden. Ein feinstes Gitter besteht aus n aufeinander
+senkrechten Achsen und ist somit identisch mit einem „Kreuz“
+(= kartesischen Koordinatensystem). Von jetzt an wollen wir uns
+auf die Merkmale (G; 1),..., (G; r) als auf die durch das Gitter G
+definierten r Quantenzustände beziehen und sie vollständige Quantenzustände nennen, wenn G ein feinstes Gitter ist.
+
+Ich möchte unbedingt darauf hinweisen, daß ich am Ende des
+Abschnitts 17 eben dieses Modell zur Erläuterung der Beziehung
+zwischen Objekt, Beobachter und beobachteter Erscheinung benützte, ohne dabei an die Quantenphysik zu denken. Der entscheidende Unterschied im Vergleich mit dem klassischen Modell
+ist die Tatsache, daß Gitter im Vektorraum Überlagerungen ausschließen. Angenommen, I sei auf zwei Arten in orthogonale
+Unterräume
+
+I = E1 + ... + Er und I = E1' + ... + Es'
+
+[[pdf-page:0331 printed-page:330]]
+
+aufgespalten worden. Natürlich ist es möglich, jeden Vektor x von
+Ei in seine Komponenten Ek'x (k = 1, ..., s) zu zerlegen, doch
+werden sie im allgemeinen nicht mehr in Ei liegen; das werden sie
+nur dann tun, wenn der Operator Ei mit den Operatoren E1', E2', ...
+vertauschbar ist. Somit setzt die Kombination zweier Gitter die
+Vertauschbarkeit der r Operatoren Ei mit den s Operatoren Ek'
+voraus; ist diese Bedingung erfüllt, so spielt die Reihenfolge der
+Kombination, ob G’ auf G oder ob G auf G’ folgt, keine Rolle.
+Das Seltsame an den quantenphysikalischen Sieben ist gerade die
+Eigenschaft, daß zwei solche Siebe wegen ihrer „entgegengesetzten
+Orientierungen‘ nicht-kommutativ sein können und es auch gewöhnlich sind. Sich auf zwei nicht-kommutative Gitter beziehende
+Merkmale i und k sind unverträglich, und in einer Situation, in der
+i bestimmt ist, ist es k nicht. In diesem Sinne sind Position und
+Impuls einer Partikel unverträglich. Sind Δx, Δp bezüglich der
+Unsicherheiten der x-Koordinate einer Partikel und der x-Komponente ihres Impulses, dann ist das Produkt Δx · Δp notwendig
+größer als h. Das von Heisenberg stammende Unbestimmtheitsprinzip verkörpert in präziser Form die Idee der Komplementarität.
+Wären Farbe und Gestalt eines Körpers solche unverträglichen
+Merkmale, so hätte es einen Sinn zu fragen, ob ein Körper grün
+sei, und es hätte auch einen Sinn zu fragen, ob er rund sei; aber
+die Frage: „Ist er grün und rund ?“ wäre sinnlos. Es werden hier
+wie im klassischen Modell den einzelnen Quantenzuständen (G; i)
+verschiedene Zahlen αi zugeschrieben; damit ist eine Observable A
+definiert, die die r Werte α1, ..., αr anzunehmen vermag mit der
+Wahrscheinlichkeit pi, (1), für den Wert αi unter der Voraussetzung, daß sich das System in dem Wellenzustand x befindet.
+
+Die Zerlegung in die einzelnen Unterräume Ei durch ein Gitter
+G des Vektorraumes I ist an sich ein rein ideeller Prozeß. Die wirkliche Anwendung des Gitters auf ein physikalisches System wirft
+jedoch das System aus dem Wellenzustand x in einen der Wellenzustände E1x, ..., Erx; welcher Wellenzustand es ist, kann nicht
+vorausgesagt werden, nur die relativen Wahrscheinlichkeiten |Eix|^2
+dieser r Ereignisse sind vorausbestimmt. In diesem Sinne bedeutet
+
+1) Nach ihrer Definition können solche Größen addiert und multipliziert
+werden unter der Voraussetzung, daß sie zu vertauschbaren Gittern gehören.
+
+[[pdf-page:0332 printed-page:331]]
+
+jede Messung oder Beobachtung einen Eingriff in die Erscheinung
+mit Ergebnissen, die nicht mehr sind als statistische Vorhersage.
+Nie waren die Experimentalphysiker blind gegenüber der Tatsache,
+daß jede Messung mit einer Reaktion des Meßinstruments auf das
+zu untersuchende Objekt verbunden ist. Solange die Hypothese
+vertretbar erschien, daß das Instrument unendlich empfindlicher
+als das Objekt gemacht werden könne, gab es keine prinzipiellen
+Schwierigkeiten. Aber was dann, wenn das Objekt selbst von atomarer Feinheit ist, die durch kein Instrument übertroffen
+werden kann ? Dann wird die eigentliche Idee der unabhängig über
+der Beobachtung stehenden Tatsachen zweifelhaft.
+
+2. Wir wollen für einen Augenblick zum klassischen Modell
+zurückkehren und es zur Schilderung der zeitlichen Aufeinanderfolge der Ereignisse benützen. Die vereinfachende Hypothese einer
+endlichen Anzahl von Zuständen zwingt uns, in einer diskontinuierlichen Zeit zu operieren. Das dynamische Gesetz behauptet
+dann, daß die n Zustände 1,..., rn von einem Zeitmoment 7 bis
+zum nächsten # + 1 eine gewisse Permutation s durchlaufen, und
+ebenso in jedem Augenblick t=...,—2,— 1,0,1,2,.... Ist
+diese Permutation s von der „Ordnung m“, d.h. erreicht man die
+Identität nach m-maligem Durchlaufen der Permutation, so kehrt
+das System nach jeder Periode von der Länge m in seinen Ausgangszustand zurück (ewiger Kreislauf). Die Quantenphysik zwingt
+uns nicht einmal eine diskontinuierliche Zeit auf, wenn die Anzahl
+der durch ein Gitter trennbaren Quantenzustände universell begrenzt ist. Während des infinitesimalen Zeitintervalls dt erfährt
+der Vektorraum eine gewisse infinitesimale Rotation, die dem beliebigen Vektor X den Zuwachs dX = LX dt erteilt. Dieses dynamische Gesetz
+
+d&/dt=L% 0)
+
+(worin die Operation L unabhängig von ı und X ist) wird mit Hilfe
+von kartesischen Koordinaten x; durch Gleichungen von der Form
+
+dxj/dt=)l,x;() G,j=l,...,n)
+J
+
+[[pdf-page:0333 printed-page:332]]
+
+mit gegebenen konstanten antisymmetrischen Koeffizienten
+I (la = — I) ausgedrückt. Das Wesentliche dabei ist, daß der
+Wellenzustand X nach einem strengen Kausalgesetz variiert; seine
+mathematische Einfachheit ist erfreulich. Ein Gitter G =
+{En..., Er} und die entsprechenden Quantenzustände (G; 1),...,
+(G; r) sind stationär, wenn die Unterräume E; invariant gegenüber
+der Zeit sind, d.h. wenn die linearen Operatoren E; mit dem
+linearen Operator L vertauschbar sind.
+
+Was in Anhang B der Zustand einer Partikel oder eines Aggregats genannt wurde, soll jetzt genauer als Quantenzustand gedeutet
+werden. Ein Umstand, der dort einige Bedenken verursacht haben
+mag, nämlich die Relativität des Begriffs des Photons in bezug auf
+den Hohlraum und seine Eigenfrequenzen, erscheint nun als besonderes Beispiel einer allgemeinen Erscheinung: der Unterschied
+der Quantenzustände bezieht sich auf ein Gitter.
+
+Eine Messung bedeutet die Anwendung eines Siebes oder Gitters. Man darf sich die Wellenzustände nicht als etwas unabhängig
+von solchen Messungen Gegebenes vorstellen. Tatsächlich ist der
+monochromatische polarisierte Lichtstrahl, der durch das Nicolsche Prisma geschickt wird, selber durch ein Gitter aus natürlichem
+Licht unbekannter Qualität aussortiert worden. Dies ist in Übereinstimmung mit der fundamentalen Tatsache, daß nur die relative
+Stellung eines kartesischen Koordinatensystems in bezug auf ein
+anderes objektiv charakterisiert werden kann. Sind die Gitter
+G = {E»...., Er} und G’ = {E}',..., Es} gegeben, so sind wir
+jedoch zu Fragen folgender Art berechtigt: „Zwischen welchen
+Grenzen liegt die Wahrscheinlichkeit dafür, daß eine Prüfung mit
+dem zweiten Gitter G’ unsere Partikel in dem Quantenzustand
+(G’; k) antrifft, wenn das erste Gitter zeigt, daß sich die Partikel
+im Quantenzustand (G; i) befindet?“ Geometrisch ausgedrückt
+führt das zu folgender Frage: (I) „Zwischen welchen Grenzen
+liegt der Quotient | Ex’X |?/| X|?, wenn % frei über dem Raum
+E; variiert? Sollte zwischen der Anwendung des ersten und
+des zweiten Gitters Zeit verstreichen, so muß die durch das
+dynamische Gesetz (2) bestimmte Änderung des Wellenzustandes zwischen den beiden Zeitmomenten mitberücksichtigt
+werden.
+
+[[pdf-page:0334 printed-page:333]]
+
+Ein System ist nie von seiner Umgebung vollständig isoliert,
+und deshalb ist sein Wellenzustand dauernden Störungen unterworfen. Dies ist der Grund, warum die sekundäre Statistik der
+Thermodynamik der primären Statistik übergeordnet werden
+muß, die einen gegebenen Wellenzustand und seine Reaktion
+aufein Gitter behandelt. Im euklidischen Raum gibt es eine Wahrscheinlichkeit a priori für die wahllose Verteilung von Vektoren
+der Länge 1, nach welcher Bereiche mit gleichem Flächeninhalt
+auf der Einheitskugel von gleicher Wahrscheinlichkeit sind. Diese
+„Normalverteilung‘ ordnet denr durch ein GitterG = {E,,..., Er}
+definierten Quantenzuständen i=|1,...,r die Wahrscheinlichkeiten z;/n zu, wo n; die Dimensionszahl von E; ist, insbesondere
+den n durch ein vollständiges Gitter definierten Quantenzuständen
+gleiche Wahrscheinlichkeiten. Die wirkliche Wahrscheinlichkeitsverteilung (Gibbs’sches Ensemble) braucht keineswegs mit dieser
+Normalverteilung übereinzustimmen. Am Ende des vorigen Abschnitts ist beschrieben worden, wie die spezielle kanonische Verteilung für ein in ein Wärmebad eingetauchtes System bekannter
+Temperatur von der Normalverteilung herrührt. Jetzt erhebt sich
+eine allgemeine Frage, die von der oben betrachteten etwas abweicht, nämlich: (ID) „Welche Wahrscheinlichkeiten ergeben sich
+für die einzelnen Quantenzustände (G; i), wenn ein Gitter G und
+die statistische Verteilung der Wellenzustände gegeben ist?“
+Hier werden nicht zwei Gitter, sondern ein Gitter und ein statistisches Ensemble miteinander verglichen. Um die Antwort zu
+finden, muß man die Wahrscheinlichkeit p; (1), die von X abhängt,
+nach der gegebenen statistischen Verteilung der Vektoren X über
+der Einheitskugel ermitteln. Auf dieselbe Art kann man die Durchschnittswahrscheinlichkeit dafür, daß eine Partikel in dem Quantenzustand (G; i) angetroffen wird, in dem Quantenzustand (G’; k)
+feststellen, wenn man mit einem andern Gitter G’ prüft. Ob nun
+Frage (I) oder (II) gestellt wird, das Hauptinteresse richtet sich
+doch immer auf solche Ereignisse, die mit überwältigender Wahrscheinlichkeit vorausgesagt werden können, besonders wenn wir
+es mit Systemen von zahlreichen Partikeln zu tun haben. Spaltet
+man einen Lichtstrahl durch ein Nicolsches Prisma, so ist das
+Schicksal des einzelnen Photons nicht vorauszusehen. Im voraus
+
+[[pdf-page:0335 printed-page:334]]
+
+angebbar sind jedoch die relativen Intensitäten von zwei Teilstrahlen, mit einer Genauigkeit, die mit der Anzahl der Photonen
+wächst.
+
+Die hier gegebene Schilderung muß in einem Punkt ganz und
+gar korrigiert werden: die Koordinaten x; in dem zugrundeliegenden n-dimensionalen Vektorraum sind nicht reelle, sondern
+willkürliche komplexe Zahlen und haben als solche einen absoluten Wert |X| und eine Phase. Das Längenquadrat des Vektors
+wird im kartesischen Koordinatensystem durch die Summe der
+Quadrate der absoluten Werte der Koordinaten ausgedrückt.
+Das einfachste aller dynamischen Gesetze (2) in einem solchen
+komplexen Raum ist von der Form
+
+dx/dt=iv& (i=/—D. (3)
+
+Hierin ist v eine reelle Konstante. Der Wellenzustand X führt
+dann eine einfache Schwingung mit der Frequenz » aus:
+
+x=X%o{cos(vi)+isin(vi)} (X, >=const),
+
+und somit hat die Energie den bestimmten konstanten Wert hv
+(Plancksches Gesetz). Aber wie auch das dynamische Gesetz (2)
+sei, so kann der Raum doch immer in eine Anzahl gegenseitig
+orthogonaler Unterräume E;(j = 1,...,r) aufgelöst werden so,
+daß eine Gleichung (3) mit einer bestimmten Frequenz v = »; in
+E; gilt. Das so gewonnene Gitter G = {E,,..., Er} ist stationär
+und bewirkt ein Sieben in bezug auf verschiedene Frequenzen »;
+und entsprechende Energiestufen U; = Av;. Auf diesem G beruht
+die Thermodynamik.
+
+Jeder Vektor X in E; befriedigt die Gleichung IX = w X
+(v = v5); mathematisch wird das so ausgedrückt, daß man sagt,
+% sei ein Bigenvektor der Operation L mit dem Eigenwert iv.
+Der Operator H = (hi) L, die Energie, hat dieselben Eigenvektoren, aber die entsprechenden Eigenwerte sind die Energiestufen
+hv. Die allgemeine Gleichung (2) lautet jetzt
+
+hd ”
+
+FErrE 1:63
+(Schrödingergleichung).
+
+[[pdf-page:0336 printed-page:335]]
+
+Der von der Beobachtung ungestörte „physikalische Prozeß‘
+wird durch einen mathematischen Formalismus ohne anschauliche Deutung dargestellt; nur das konkrete Experiment, die
+Messung mittels eines Gitters, kann anschaulich beschrieben
+werden. Dieser Gegensatz zwischen physikalischem Prozeß und
+Messung hat sein Analogon in dem Gegensatz zwischen Formalismus und sinnvollem Denken in Hilberts System der Mathematik. So wie es möglich ist, eine anschauliche mathematische
+Beweisführung zu formalisieren, so ist es richtig, daß die Messung
+mit einem Gitter G als physikalischer Prozeß gedeutet werden
+kann. Tut man das, so muß man das ursprüngliche System & zu
+einem System &'* durch die Einbeziehung des Gitters G erweitern.
+Sobald wir jedoch etwas über %'* erfahren wollen, was konkret
+ausgesagt werden kann, muß der ungestörte Lauf der durch das
+dynamische Gesetz (2) gelenkten Ereignisse dadurch wieder abgebrochen werden, daß man &* der Prüfung mit einem Gitter
+außerhalb &* unterwirft.
+
+3. Sind zwei Systeme &, 2” gegeben, so kann ihre Vereinigung
+2=2%-+ 2’ alle Zustände (i, k) annehmen, die aus einer Kombination eines beliebigen Zustandes i von 2 mit einem beliebigen
+Zustand k von &” bestehen. Das ist die von der klassischen Physik
+für die Kombination gelieferte Vorschrift. Die Quantenphysik
+stimmt hiermit überein, soweit Zustand einen Quantenzustand
+bedeutet; ein (feinstes) Gitter für X zusammen mit einem (feinsten) Gitter für 2’ liefert ein (feinstes) Gitter für 2. Nimmt man
+daher an, daß ein Wellenzustand des ersten Systems durch einen
+Vektor X = (X,...,Xm) in einem m-dimensionalen euklidischen
+Raum S in bezug auf ein kartesisches Koordinatensystem dargestellt werde, und daß der Gattungsvektor Y = (Y1, -.., In)
+eines n-dimensionalen Raumes S’ dieselbe Bedeutung für das
+zweite System habe, so schließen wir, daß der Wellenzustand des
+vereinigten Systems durch einen Vektor
+
+Z=(Z1 13:5 Zmt> 2125 +++ Zm23 ++» Zum ++» Zmn)
+
+in einem mn-dimensionalen „Produktraum“ S=Sx S’ dargestellt wird. Ein Vektor X in S und ein Vektor y in S’ bestimmen
+den Vektor 2—=xX x y mit den Komponenten
+
+[[pdf-page:0337 printed-page:336]]
+
+Za=Xyı (i=l,..,m;k=1,...,n) (4)
+
+in S. Dadurch ist festgelegt, was eine durch zwei beliebige Rotationen des Koordinatensystems in S und S’ veranlaßte Rotation
+in S ist. Da |zıx|? = |x:]?|yx|? aus (4) folgt, findet man, daß die
+Wahrscheinlichkeiten für die Quantenzustände der beiden Teile &
+und 2” voneinander unabhängig in einem Wellenzustand von &
+der speziellen At 2 =X x y sind. Aber die Mannigfaltigkeit der
+möglichen Wellenzustände des vereinigten Systems & ist viel
+größer als die Mannigfaltigkeiten, die darstellbar sind durch die
+Kombination $ x y von beliebigen Wellenzuständen X und 7
+der beiden Teile. Tatsächlich stellt jeder Vektor Z im Produktraum
+einen möglichen Wellenzustand dar. In diesem sehr radikalen
+Sinne stützt die Quantenphysik die Doktrin, daß das Ganze mehr
+sei als die Kombination seiner Teile. Im allgemeinen können die
+Wahrscheinlichkeiten der Quantenzustände des ganzen Systems
+nicht aus den Wahrscheinlichkeiten der Quantenzustände der
+Teile mit der Produktregel der statistischen Unabhängigkeit bestimmt werden. Dies gilt sogar, wenn beide Teile nicht in dynamischer Wechselbeziehung stehen.
+
+Diese Betrachtung ist von besonderer Wichtigkeit für ein Paar
+von zwei gleichen Systemen &, &’, z.B. für ein Elektronenpaar.
+Dann werden die Wellenzustände beider Teile durch Vektoren
+in ein- und demselben euklidischen Raum S dargestellt, und unter
+den Vektoren Z = (zix) des Produktraums S x S („Tensoren“)
+kann man die antisymmetrischen mit der Bedingung zii = —zik
+und die symmetrischen mit der Eigenschaft zx: = zir. unterscheiden. Befindet sich das Paar einmal in antisymmetrischem Wellenzustand, so wird sein Wellenzustand antisymmetrisch bleiben;
+keine äußeren Einflüsse können das ändern, weil gleiche Partikel
+auf symmetrische Art in das Aktionsgesetz eingehen. Es muß
+daher erwartet werden, daß der Wellenzustand eines Elektronenpaares ein bestimmtes symmetrisches Merkmal hat, daß er entweder antisymmetrisch oder symmetrisch ist. Die Erfahrung erweist die erste Annahme als richtig. Für einen antisymmetrischen
+Vektor zıx gilt die Gleichung |zu]? = 0, d. h. die Wahrscheinlichkeit dafür, daß beide Elektronen in demselben vollständigen
+
+[[pdf-page:0338 printed-page:337]]
+
+Quantenzustand ; angetroffen werden, ist Null; die permanente
+Antisymmetrie des Wellenzustandes erklärt so das Pauliverbot.
+Die statistische Unabhängigkeit der Quantenzustände zweier
+Elektronen könnte kaum radikaler abgestritten werden als durch
+dieses Prinzip! Das Wasserstoffmolekül kann, wenigstens in
+erster Näherung, als ein System von zwei um zwei feste Kerne
+kreisenden Elektronen behandelt werden, und es leuchtet ein, daß
+die Beschränkung auf die Antisymmetrie des Wellenzustandes des
+Blektronenpaares von entscheidendem Einfluß auf das Ergebnis
+der Berechnung ihrer Bewegung sein muß. Es führt in der Tat,
+wie London und Heitler gezeigt haben, zu einer vollen Erklärung
+der chemischen Verbindung neutraler Atome in einem Molekül.
+Unter der Herrschaft der klassischen Physik war dies ein unergründliches Rätsel geblieben.
+
+Durch die Tatsache der Antisymmetrie geht man von zwei zu
+mehr Elektronen über. Da die statistische Unabhängigkeit mehrerer Partikel diesem Gesetz widerspricht, ist es nicht dasselbe, ob
+immer wieder ein Elektron von gegebenem Wellenzustand, oder
+ein gleichzeitiger Schauer von vielen Elektronen durch ein Gitter
+geschickt wird. Eine ähnliche Bemerkung gilt für einen Elektronenschauer. Dessen Wellenzustand muß durch die Bedingung der
+Symmetrie anstelle der Antisymmetrie eingeschränkt werden. (Wir
+wissen tatsächlich, daß das Pauliverbot für Photonen nicht gilt!)
+In ihrer endgültigen Form fordert die Theorie nicht, daß die
+Anzahl der Partikel konstant ist. Nicht nur Photonen dürfen
+erscheinen und verschwinden, sondern nach einer kühnen Deutung von Dirac gilt das auch für den Prozeß der gegenseitigen
+Vernichtung eines positiven und negativen Elektrons unter
+Emission eines Photons entsprechender Energie („Zerstrahlung‘“‘),
+und den umgekehrten Vorgang.
+
+4.Ich fasse diese Eigenschaften der Quantenphysik, die mir
+von überragender philosophischer Bedeutung zu sein scheinen,
+zusammen.
+
+a) Eine Beobachtung ist unmöglich ohne eine Beeinträchtigung,
+deren Effekt nur in statistischem Sinne vorausgesagt werden kann.
+So wird auf die Verwandtschaft von Subjekt und Objekt ein neues
+
+[[pdf-page:0339 printed-page:338]]
+
+Licht geworfen, sie sind enger miteinander verknüpft, als die
+klassische Physik sich das vorgestellt hat. In Abschnitt 20 ist
+gesagt worden, daß quantitative Ergebnisse, die aus Beobachtungen von Reaktionen eines Körpers auf andere Körper gewonnen
+worden sind, dem Körper selbst als innewohnende Merkmale
+zugeschrieben werden, ob die Reaktionen nun tatsächlich stattfinden oder nicht. Wir sehen jetzt, daß dieses ‚‚Bulersche Prinzip‘“
+sehr ernsthaften Einschränkungen unterworfen ist. Zu dieser
+Situation gibt es im Bereich der physischen Selbstbeobachtung
+unverkennbare Analogien.
+
+b) Merkmale, die sich auf zwei verschiedene Gitter beziehen,
+können nicht sinnvoll kombiniert werden durch „und‘“ oder
+„oder“. Die klassische Logik trifft nicht zu für die Quantenphysik
+und muß durch eine Art „Quantenlogik“ ersetzt werden.
+
+c) Das Kausalitätsprinzip gilt für den zeitlichen Wechsel des
+Wellenzustandes, muß aber fallen gelassen werden, soweit es sich
+um die Beziehung zwischen Wellen- und Quantenzuständen
+handelt.
+
+d) Das Ganze ist immer mehr und kann größere Änderungen
+der Wellenzustände annehmen als die Kombination der Teile.
+Getrennte Teile in einem isolierten System von festem Wellenzustand sind im allgemeinen nicht statistisch unabhängig, selbst
+wenn sie nicht in Wechselbeziehung stehen.
+
+e) Das Leibniz-Pauli-Ausschließungsprinzip, nach dem keine
+zwei Elektronen sich in demselben Quantenzustand befinden
+können, ist von der Quantenphysik als Folge des Antisymmetriegesetzes erklärt worden.
+
+f) Es existiert eine primäre Wahrscheinlichkeit als grundlegende Eigenschaft der Natur selbst, die mit dem Wissen oder
+der Unwissenheit des Beobachters nichts zu tun hat. Die Wahrscheinlichkeiten |x;]? der einzelnen vollständigen Quantenzustände i werden aus den Komponenten x; einer den „Wellenzustand‘ beschreibenden Vektorgröße X = (X,..., Xn) gewonnen.
+Dies scheint mir die im Haupttext ausgedrückte Ansicht zu bestätigen, daß nämlich die Wahrscheinlichkeit mit gewissen physikalischen Größen verknüpft ist und im allgemeinen nur auf der
+
+[[pdf-page:0340 printed-page:339]]
+
+Grundlage empirischer, diese Größe beherrschender Gesetze
+bestimmt werden kann.
+
+Man muß zugeben, daß die Bedeutung der Quantenphysik
+trotz all ihren Leistungen noch nicht so ganz und gar geklärt ist,
+wie es zum Beispiel die der Relativitätstheorie zugrundeliegenden
+Gedanken sind. Das Zentralproblem ist die Beziehung zwischen
+Wirklichkeit und Beobachtung. Wir scheinen eine tiefere erkenntnistheoretische Analyse dessen zu benötigen, was ein Experiment, eine Messung ausmacht, und welche Art Sprache zur
+Mitteilung der Ergebnisse benützt wird; ist es die der klassischen
+Physik, wie Niels Bohr zu denken scheint, oder ist es die „natürliche Sprache‘, in welcher jedermann im Verhalten des täglichen
+Lebens der Welt, seinen Mitmenschen und sich selbst begegnet?
+Die Analogie mit Hilberts Mathematik, wo der praktische Umgang mit konkreten Symbolen mehr als die Tatsache eines „reinen
+Bewußtseins‘‘ als wesentliche außerlogische Grundlage dient,
+scheint mir letzteres anzudeuten. Bedeutet das, daß die Entwicklung der modernen Mathematik und Physik in derselben Richtung
+verläuft wie die Bewegung, die wir in der Gegenwartsphilosophie
+beobachten, weg von einem idealistischen und hin zu einem
+„existentiellen‘“ Standpunkt?
+
+Abgesehen von den Rätseln der erkenntnistheoretischen Deutung ist die Quantenphysik auch von ernstlichen inneren Schwierigkeiten bedrängt; wir besitzen noch keine wirklich widerspruchsfreie und vollständige Quantentheorie der Wechselbeziehung
+zwischen elektromagnetischer Strahlung und (negativen und
+positiven) Elektronen, geschweige den anderen Elementarteilchen.
+
+Wir wollen auf festeren Boden zurückkehren und ein Wort
+über die Stellung der Quantenphysik zu dem Problem der Vergangenheit und Zukunft hinzufügen, wie es in Abschnitt 23 C besprochen worden ist. Was wir verstehen wollen ist, warum das
+Licht nur ‚‚in die Zukunft hin“ emittiert wird. Wir haben gesehen,
+daß die Physik diesen Unterschied des Zukünftigen von der vergangenen Hälfte des Lichtkegels dadurch erklären kann, daß sie
+bloß den verzögerten Teil des Potentials in der Lienard-Wiechertschen Formel anhält. Die Quantentheorie beschreibt die Wechselbeziehung zwischen den Elektronen eines Atoms und dem Feld
+
+[[pdf-page:0341 printed-page:340]]
+
+der Hohlraumstrahlung als Folge von einzelnen Vorgängen, bei
+welchen ein Lichtquant unter einem entsprechenden Energiesprung
+des Atoms emittiert oder absorbiert wird. Die Formeln für die
+Häufigkeiten dieser Vorgänge können so gedeutet werden, daß
+sie anzeigen, ob der einzelne Vorgang entweder spontan oder
+erzwungen erfolgt. Die Häufigkeit der erzwungenen Vorgänge ist
+proportional der Strahlungsdichte, während die spontanen Vorgänge unabhängig davonsind. Dererzwungene Teil istsymmetrisch
+in bezug auf Vergangenheit und Zukunft, jedoch nicht der spontane Teil; es gibt nur spontane Emission, nicht aber spontane
+Absorption. Diese Asymmetrie wird mit Argumenten der Wahrscheinlichkeit derselben Art erklärt, wie sie zum Gesetz der zunehmenden Entropie geführt haben. Somit hat die Bedeutung der
+Zukunftshälfte des Lichtkegels ihre Wurzeln hier in den statistischen Prinzipien der Thermodynamik und nicht in irgendwelchen
+Elementargesetzen.
+
+LITERATUR
+
+P. A. M.Dirac, The Principles of Quantum Mechanics. 3. Aufl.,
+Oxford 1947.
+
+J. von Neumann, Mathematische Grundlagen der Quantenmechanik.
+Berlin 1932.
+
+H. Weyl, Gruppentheorie und Quantenmechanik. 2. Aufl. Leipzig
+1931.
+
+G. Wentzel, Einführung in die Quantentheorie der Wellenfelder.
+Wien 1943.
+
+Niels Bohr, Atomic Theory and the Description of Nature. Cambridge 1934.
+
+-—, Kausalität und Komplementarität. Erkenntnis 14 (1937) S. 293.
+
+M. Born, Atomic Physics. 2. Aufl., London & Glasgow 1937.
+
+—, Experiment and Theory in Physics. Cambridge Univ. Press 1943.
+
+H. Reichenbach, Philosophic Foundations of Quantum Mechanics.
+Univ. of Calif. Press 1944.
+
+—, Dasselbe in deutsch: Philosophische Grundlagen der Quantenmechanik (übersetzt von Maria Reichenbach). Basel 1949.
+
+L. Rosenfeld, L’&volution de l’idee de causalite. M&m. Soc. Sci.
+Lieges, 4° ser., VI (1942).

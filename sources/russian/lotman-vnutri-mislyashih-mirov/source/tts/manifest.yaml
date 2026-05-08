@@ -1,0 +1,147 @@
+# TTS export manifest.
+# Access layer only; generated from reader-en drafts.
+---
+pass:
+  name: lotman-vnutri-tts
+  status: active
+  purpose: "Audio-ready derivatives of reader-en drafts"
+  source_reader_manifest: "../reader-en/manifest.yaml"
+  generated_by: "tools/export_lotman_tts.py"
+  cleanup_rule: "strip reader metadata and Pass Notes; preserve speakable headings and reading text; expand compact notation and schematic labels for speech"
+  apparatus_boundary: "tts exports do not seed glossary, handles, threads, or encounter claims"
+exports:
+  - seq: 2
+    source_reader: "../reader-en/002-ivanov-semisfera-i-istoriya.md"
+    tts_file: "002-front-ivanov-semiosphere-and-history.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 3
+    source_reader: "../reader-en/003-intro-01-vvodnye-zamechaniya.md"
+    tts_file: "003-intro-01-introductory-remarks.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 4
+    source_reader: "../reader-en/004-intro-02-posle-sossyura.md"
+    tts_file: "004-intro-02-after-saussure.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 5
+    source_reader: "../reader-en/005-part-i-01-tri-funktsii-teksta.md"
+    tts_file: "005-part-i-01-three-functions-of-the-text.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 6
+    source_reader: "../reader-en/006-part-i-02-avtokommunikatsiya.md"
+    tts_file: "006-part-i-02-autocommunication.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 7
+    source_reader: "../reader-en/007-part-i-03-ritorika-smysloporozhdeniya.md"
+    tts_file: "007-part-i-03-rhetoric-of-meaning-generation.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 8
+    source_reader: "../reader-en/008-part-i-04-ikonicheskaya-ritorika.md"
+    tts_file: "008-part-i-04-iconic-rhetoric.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 9
+    source_reader: "../reader-en/009-part-i-05-tekst-v-protsesse-dvizheniya.md"
+    tts_file: "009-part-i-05-text-in-motion-author-audience-design-text.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 10
+    source_reader: "../reader-en/010-part-i-06-simvol-gen-syuzheta.md"
+    tts_file: "010-part-i-06-symbol-as-plot-gene.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 11
+    source_reader: "../reader-en/011-part-i-07-simvol-v-sisteme-kultury.md"
+    tts_file: "011-part-i-07-symbol-in-the-system-of-culture.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 12
+    source_reader: "../reader-en/012-part-ii-01-semioticheskoe-prostranstvo.md"
+    tts_file: "012-part-ii-01-semiotic-space.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 13
+    source_reader: "../reader-en/013-part-ii-02-ponyatie-granitsy.md"
+    tts_file: "013-part-ii-02-the-concept-of-boundary.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 14
+    source_reader: "../reader-en/014-part-ii-03-mekhanizmy-dialoga.md"
+    tts_file: "014-part-ii-03-mechanisms-of-dialogue.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 15
+    source_reader: "../reader-en/015-part-ii-04-semiosfera-i-problema-syuzheta.md"
+    tts_file: "015-part-ii-04-semiosphere-and-the-problem-of-plot.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 17
+    source_reader: "../reader-en/017-part-ii-05-01-geograficheskoe-prostranstvo.md"
+    tts_file: "017-part-ii-05-01-geographical-space.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 18
+    source_reader: "../reader-en/018-part-ii-05-02-puteshestvie-ulissa.md"
+    tts_file: "018-part-ii-05-02-ulysses-journey.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 19
+    source_reader: "../reader-en/019-part-ii-05-03-dom-v-mastere-i-margarite.md"
+    tts_file: "019-part-ii-05-03-the-house-in-the-master-and-margarita.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 20
+    source_reader: "../reader-en/020-part-ii-05-04-simvolika-peterburga.md"
+    tts_file: "020-part-ii-05-04-symbolism-of-petersburg.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 21
+    source_reader: "../reader-en/021-part-ii-06-nekotorye-itogi.md"
+    tts_file: "021-part-ii-06-some-conclusions.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 22
+    source_reader: "../reader-en/022-part-iii-01-problema-istoricheskogo-fakta.md"
+    tts_file: "022-part-iii-01-the-problem-of-the-historical-fact.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 23
+    source_reader: "../reader-en/023-part-iii-02-istoricheskie-zakonomernosti-i-struktura-teksta.md"
+    tts_file: "023-part-iii-02-historical-laws-and-the-structure-of-text.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 24
+    source_reader: "../reader-en/024-part-iii-03-alternativnyy-variant-bespismennaya-kultura.md"
+    tts_file: "024-part-iii-03-alternative-case-non-written-culture.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 25
+    source_reader: "../reader-en/025-part-iii-04-o-roli-tipologicheskikh-simvolov.md"
+    tts_file: "025-part-iii-04-role-of-typological-symbols.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 26
+    source_reader: "../reader-en/026-part-iii-05-vozmozhna-li-istoricheskaya-nauka.md"
+    tts_file: "026-part-iii-05-is-historical-science-possible.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 27
+    source_reader: "../reader-en/027-back-matter-conclusion.md"
+    tts_file: "027-conclusion.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 29
+    source_reader: "../reader-en/029-appendix-01-umberto-eco.md"
+    tts_file: "029-appendix-01-umberto-eco.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"
+  - seq: 30
+    source_reader: "../reader-en/030-appendix-02-gasparov-lotman-i-marksizm.md"
+    tts_file: "030-appendix-02-gasparov-lotman-and-marxism.md"
+    status: exported
+    note: "metadata and pass notes stripped; speech hazards normalized; generated from reader-en"

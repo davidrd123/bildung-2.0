@@ -1,0 +1,929 @@
+5. Other Minds
+Forking Paths
+We’re finally ready to begin tackling the big questions posed in the
+introduction: the nature of general intelligence, the “hard problem” of
+consciousness, and the thorny issue of free will.
+Let’s begin with free will, picking up where chapter 3 left off, with Nvidia’s
+DAVE-2 self-driving car. Our goal will be to understand what we mean
+when we call a model’s actions “willed.” Recall that DAVE-2 was nothing
+but a convolutional neural net whose input was a front-facing camera and
+whose output was a steering-wheel position. It was the purest and simplest
+approach to cybernetic self-driving. But is it capable of choice?
+More concretely, what happens when such a “reflex-based” car arrives at a
+T-junction? A generic, pretrained model operating without any larger
+context can’t react sensibly. When we’re driving, these are the moments
+when we might make decisions based on higher-order goals. At other times,
+we’re on “autopilot” ourselves: the goal is merely to stay in our lane, follow
+the rules of the road, and avoid collisions with other vehicles, pedestrians,
+or animals. If we’ve established habitual routes, say to and from work, we
+might also make a lot of turns on autopilot. Those are instances when our
+inner “autopilot model” is not generic, but specific to our own lived
+experience.
+DAVE-2, however, is only trained to perform the generic autopilot task. To
+gather the dataset, human drivers navigated a wide variety of routes on
+many different roads, and excluded from the training data the brief intervals
+when they were changing lanes or making turns. During live road tests, the
+human driver intervened to perform these maneuvers manually.
+What would the car do if kept on autopilot at a T-junction? Presumably, it
+would choose the straightest way. At an exactly symmetric T-junction, one
+would hope that the model itself is just a tad asymmetric, causing it to break
+the tie somehow. A perfectly symmetrical model would be unable to break
+the tie, hence would be forced to generate the only non-tiebreaking output:
+
+steering straight ahead and running off the road. (Remember, DAVE-2
+doesn’t control the gas or brakes.)
+This unfortunate situation illustrates the old saying about the perfect being
+the enemy of the good. It also recalls “Buridan’s ass,” often framed as a
+philosophical paradox in discussions of free will. In the parable, the ass (or
+donkey, though the other definition applies too) is midway between two
+equally sized piles of hay, and, being unable to decide which to eat, starves
+to death.[377]
+Avoiding this “metastable” situation is easy enough. All it requires is a
+random variable, a bit of noise in the system, to break any near-ties.
+In real life, though, Buridan’s ass only rears its poor muddled head
+infrequently, because few decisions we make are truly arbitrary, fully
+symmetric, or contextless. We don’t need to make random turns at Tjunctions since, when we’re driving, we’re usually trying to get somewhere.
+More broadly, questions about choice, decisions, and free will only make
+sense when we consider an agent with its own history, acting in time and in
+context. That’s why we don’t generally count generic reflex actions as
+willed.
+DeepMind’s AlphaGo contest with Lee Sedol took place in 2016, the same
+year Nvidia’s DAVE-2 self-driving-car paper was published. Go is
+exceedingly complex, with many more possible moves at any point in the
+game than chess—a vast and intricate garden of forking paths. For this
+reason, it had resisted the brute-force search or heuristic approaches that
+had produced grandmaster-level chess programs many years earlier, as well
+as naïve temporal difference reinforcement learning.
+At bottom, DeepMind’s trick was the same as Nvidia’s: replacing handwritten code with a learned convolutional neural net. AlphaGo’s system
+design was considerably more complex, though, not only involving separate
+policy and value networks trained through reinforcement, but also
+incorporating traditional methods, like a randomized or “Monte Carlo” tree
+search through possible future moves.[378] In this sense, it was a hybrid
+between deep learning and GOFAI, though subsequent models—
+AlphaZero,[379] MuZero[380]—moved progressively toward a purer deeplearning approach, removing the remaining handcrafted heuristics while
+
+further improving performance. MuZero is general enough to play any
+game, not just Go.
+DeepMind has always aimed to solve artificial general intelligence through
+an agential approach. Gameplay runs deep in the organization’s culture. Its
+founder, Demis Hassabis, was a chess prodigy and an expert at many other
+games. (In 2024, he won the Nobel Prize, along with John Jumper and
+University of Washington researcher David Baker, for AlphaFold, which
+applies deep learning to solving the longstanding problem of predicting a
+protein’s structure from its amino-acid sequence.) Prior to DeepMind,
+Hassabis designed video games, and even founded his own gaming
+company. DeepMind’s first highly visible success, in 2013, involved
+combining reinforcement learning with convolutional neural nets to play
+Atari games.[381]
+The company’s bet that gaming could provide a controlled arena for
+developing general AI has certainly yielded impressive and important
+advances. Go commentators studying AlphaGo’s games lauded the system
+for “exhibiting creative and brilliant skills and contributing to the game’s
+progress.”[382]
+However, beyond the limitation Churchland pointed out[383]—its singlemindedness—AlphaGo was very different from the brain in another
+important way: it did not exist in time. It had no dynamics or internal state.
+
+Children of Time
+Like the self-driving-car model, neither AlphaGo nor its successors
+maintain any explicit memory of its prior “thoughts” or plans.[384] True, the
+system works out its next move by thinking as many steps ahead as
+possible, making it a stretch to call that extended evaluation a “reflex
+action.” However, once the move is made, it’s groundhog day—the next
+turn, it considers the board afresh.
+AlphaGo makes no attempt to model its opponent’s psychology, nor does it
+learn on the fly; thus, it can’t individuate. Neither can it have any sense of a
+“self” acting in the world. All it models is that world itself and the possible
+paths through it, annotated (courtesy of the value network) with each path’s
+goodness or badness.
+
+For a board game like Go or chess, none of these design choices are
+necessarily shortcomings. According to game theory (as formalized by none
+other than John von Neumann,[385] who had his fingers in many pies), the
+optimal next move depends neither on history, nor on the opponent, nor on
+any internal state, but only on the state of the board and the rules of the
+game—to which both players have full access. And the opponent should be
+presumed to always play optimally. To do otherwise would risk falling prey
+to a wily antagonist, who might lull an opponent by playing dumb, then
+take the gloves off at an opportune moment.[386]
+
+You may wonder how AlphaGo could pull off a complex, multi-turn
+strategy—which it certainly can—without a self or memory. But given a
+clear view of the future’s forking paths at every turn, there’s no need to
+remember. All possible strategies are visible at all times, including the
+continuation of whatever strategy seemed best on the previous turn. If it’s
+still the best option after the opponent’s move, then so be it.
+
+While elegant in its way, this approach can be wasteful, in that it often
+involves rediscovering the same strategy, turn after turn. Occasionally,
+catastrophic (and quite nonhuman) failures occur, since the model’s view of
+the future is not perfect, but, as with all Monte Carlo methods, stochastic.
+The model might make an unusual move due to glimpsing a brilliant but
+distant outcome down the line, but later fail to spot that same opportunity,
+even if it’s still in play, and foreclose on it with a wrong move. Out of sight,
+out of mind.[387]
+Portia spiders offer an illuminating contrast to this kind of “statelessness.”
+Although only a centimeter or less in size, they have been called “eightlegged cats” due to their unusually intelligent hunting behaviors.[388] They’re
+odd-looking, with a slow, choppy, robot-like gait—until they pounce.
+Unlike other spiders, Portia have a pair of large, forward-looking cameratype eyes with high resolution over a narrow field of view, well adapted to
+nuanced visual discrimination. Their favorite meal is other spiders, typically
+web-weavers, which may be twice their size. Portia can control the
+behavior of prey by spoofing web vibration signals; they learn which
+signals generate the desired response for each species through trial and
+error. In the lab, they can even learn how to fake out species they would
+never encounter in the wild.
+
+They plan their attacks slowly and carefully. With tiny brains and telephoto
+eyes that need to scan around to resolve the environment, it seems likely
+that they sacrifice much of the parallelism of animals with bigger brains (a
+topic we’ll return to in chapter 8). Once they have worked out a strategy,
+though, they can execute it virtuosically, leaping from twig to twig,
+abseiling down silk threads, and landing on their target from above, behind,
+or frontally, depending on what is safest under the circumstances (for
+oftentimes, the spider or insect they’re stalking is perfectly capable of
+eating them if the tables turn). Perhaps most impressively, Portia routinely
+reach their prey via indirect routes, including detours of up to an hour
+during which they may move away from their goal, breaking line of sight.
+[389]
+Impressive stuff!
+
+I’ve offered this detailed account because it illustrates—and builds on—a
+number of Churchland’s observations:
+● Portia isn’t playing any one game against any single opponent.
+Eventually it must eat if it is to survive, but it gets to choose with
+whom to engage, and when; it can always back off and try something
+else, or “soldier on.”
+● The “game board” is not equally visible to all players. In its totality, it
+isn’t visible to any player. Portia must build up and incrementally
+update a mental model of the world in order to make decisions.
+● This model must include not only the externally visible world, but the
+internal states of hunter and prey alike. Knowing its own state allows
+Portia to assess how hungry (or desperate) it is, how strong or weak it
+feels, whether hunting should take precedence over mating or resting,
+and so on.
+● Modeling the mental state of its prey is also essential. Are they
+aroused? Have they realized I’m stalking them? If so, how well have I
+been localized? By timing its movement on a victim’s web to coincide
+with wind gusts, Portia may work to remain “vibrationally invisible”;
+or, by strumming the web, it may attempt to create the illusion of a
+trapped bug. The trickster must constantly assess: are my tricks
+working? Is this getting the reaction I want?
+None of these tricks or capabilities are fundamentally out of reach for
+artificial neural nets; after all, each capability can be expressed in terms of
+
+functions, and neural nets are universal function approximators. Such
+capabilities will not, however, emerge on their own in a system like DAVE2 or AlphaGo, due both to the constraints of the setup (autopilot or board
+game) and the structural limitations of a stateless classifier—even one that
+makes very clever decisions in the moment by evaluating many possible
+futures.
+
+Sphexish
+Given Portia’s alien lifestyle, physiology, umwelt, and brain limitations, it
+takes a leap of imagination to understand what it’s like to be a jumping
+spider, though it is fun (and maybe fruitful) to make the attempt.[390] My
+own sense is that Portia, cats, and humans on the hunt all share not only the
+ability to assess and plan an attack (or defend against one), but also to
+experience doubt, uncertainty, fear, and triumph. I expect that such feelings
+and experiences would emerge naturally from the evolution of predation, as
+described in chapter 3, just as hunger emerges naturally from the need to
+eat, as described in chapter 2.
+But it seems so subjective to assert that another mind is experiencing
+something familiar from one’s own experience. How can one really know?
+We will soon explore how such claims can be assessed more rigorously, as
+predictive hypotheses.
+For now, though, let’s stick to a more ethological perspective. Ethology
+concerns itself with animal behavior, studied using lab experiments and
+analyzed in the context of neurophysiology, function, and evolution.
+Through the ethological lens, we can simply ask the same questions about
+feelings and internal states we would ask about physical features, like the
+differently adapted beaks of Darwin’s finches. Why would that feeling arise
+and be preserved by evolution? How is it useful? What would happen if it
+were absent? This lets us fend off charges of anthropocentrism and defer
+“philosophical zombie” questions a little longer.
+Free will, as a desire or imperative, seems easy enough to understand from
+an ethological perspective. No animal likes being trapped, humans
+included; that’s why imprisonment is a form of punishment, even if our
+bodily needs are met. Remember, the whole point of having a brain is to be
+able to act in the world, choosing among alternative futures in order to
+
+enhance our dynamic stability—that is, to stay alive, and to continue to be
+able to make choices in the future.
+When others restrict our ability to make choices, it doesn’t feel good, just as
+gnawing hunger doesn’t feel good. The confinement of our possible futures
+renders us increasingly helpless, like a king being chased into a corner of
+the chess board in the endgame.
+Go offers an even purer expression of this idea. Although the stones don’t
+actually move once laid down, their “liberties” are the number of adjacent
+unfilled board positions where they “could” hypothetically move, and
+stones only remain “alive” as long as they have at least one liberty. Death,
+then, whether in a game or in real life, represents the ultimate exhaustion of
+one’s ability to choose. It’s the pinched-off end of our Wiener sausage.[391]
+Mutual prediction is the key to sociality and cooperation, but, in a predatory
+context, as the early cyberneticists understood, prediction can also be
+adversarial. A predator will try to predict prey right into its stomach. Prey
+will try to predict the predator’s moves, and escape. Each is trying to
+preserve its own liberties, potentially at the cost of the opponent’s. Each
+will therefore try to predict the other’s predictions, ad infinitum.
+As we’ll discuss in more detail in chapter 7, when mutual prediction is
+cooperative, it must also be imperfect, for cognitive cooperation involves a
+division of labor. That means each party brings cognitive resources or
+inputs to the table that the others lack. If one of the cooperating parties is
+always perfectly predictable to any of the others, that would imply that the
+predicted party doesn’t bring anything unique to the table, and is therefore a
+third wheel.
+So, whether in a cooperative or adversarial context, being perfectly
+predictable is bad news. In a way, it’s even a form of imprisonment. Ted
+Chiang mordantly explores the psychological consequences in his short
+story “What’s Expected of Us.”[392] A device called the Predictor, consisting
+of nothing but a button and a light, appears on the market. The light always
+flashes green one second before the button is pressed. Millions of Predictors
+are sold, and, at first, people treat the device as a novelty, showing it to their
+friends and trying to fool it. When the implications sink in, though—that the
+Predictor can’t be fooled—free will is revealed to be an illusion, and people
+despair, eventually losing their will to live.
+
+Real-life predictors aren’t single-button devices, of course, but other minds,
+like that of a cat pursuing its prey. And one way to become highly
+predictable is to run out of voluntary moves, like a cornered rat. But if one’s
+behavior looks deterministic from the outside—if it can be perfectly
+predicted by an observer—then, from an adversarial perspective, that is
+equivalent to being cornered.
+When an agent becomes perfectly predictable to an observer, it makes the
+agent no longer register as agential to that observer. Cognitive scientist
+Douglas Hofstadter has described this property as “sphexishness,” by
+reference to the golden digger wasp Sphex ichneumoneus.[393] Hofstadter
+was drawing on observations by French entomologist Jean-Henri Fabre
+(1823–1915), who has been hailed as the founding father of ethology.[394]
+Although generally a keen and sympathetic observer of animal behavior,
+Fabre took a dim view of cognition in insects, claiming they exhibit a
+“machine-like obstinacy.”[395]
+
+He noticed that when the time comes for Sphex to lay eggs, she constructs a
+burrow and seeks out a cricket to nourish her future hatchlings. Instead of
+
+eating the cricket herself, she paralyzes it with a sting, brings it to the
+burrow entrance, goes in to see that all is well, then drags the cricket in,
+lays the eggs alongside the body, seals the burrow, and flies off. This
+elaborate performance certainly looks purposive—and it is.
+But then, Fabre noticed that if the cricket is moved by a few inches after the
+wasp has gone into the burrow to check that all is well, Sphex will reemerge and move the cricket back into position, then go back into the
+burrow to check that all is well again! He described repeating this process
+dozens of times. By moving the paralyzed cricket every time the wasp went
+into the nest, Fabre was able to get her stuck in an endless loop.[396]
+One interpretation of this little parable: it’s easy to be fooled into thinking
+that a behavior is intelligent or agential when in fact it’s just a running
+program. That would beg the question, though: what else could it be? In
+some sense we are all “just running programs.”
+A better take is to recognize, first, that Sphex’s nest preparation behavior is
+genetically determined, hence the intelligence manifested by the program is
+a product of evolution, not of in-the-moment reasoning by the individual
+wasp. The individual wasp appears to be, like DAVE-2, running on
+autopilot, at least with respect to nesting behavior. This seems reasonable,
+given the wasp’s small brain and two-month adult lifespan. It has no time to
+learn the ropes, and nobody to learn them from, so it has to know how to
+reproduce and care for its young “right out of the box.”
+Perhaps more interesting, though, is our own response to observing
+sphexish behavior. When we see the elaborate preparations the wasp makes
+for her brood, we think she’s smart and agential. Then, when we see that the
+behavior is pre-scripted, we “realize” that she’s just a machine, an “it,” and
+any impression of intelligence or willed action vanishes. But the difference
+is in our own minds, not that of the wasp.
+Alan Turing arrived at a similar conclusion: “From the outside, [...] a thing
+could look intelligent as long as one had not yet found out all its rules of
+behavior. Accordingly, for a machine to seem intelligent, at least some
+details of its internal workings must remain unknown.”[397]
+In the case of Sphex, this realization comes about due to our reverseengineering of the script and “hacking” it to create an infinite loop. We
+
+come to believe the wasp has no intelligence or agency precisely because
+we can now predict its actions perfectly. What we really mean by “it’s just
+following a script” is that we, on the outside, know what the script is, and
+don’t even need to interact with the animal to predict what it will do next.
+As a fellow computational being, how can you escape the same pickle—
+how do you keep from becoming a robotic “it” to a clever observer? Here
+are three ways:
+1. As described for moth flight in chapter 3, simply using a random
+variable can keep your behavior fresh and surprising even if
+you’re not so smart. In an adversarial setting, this strategy still
+works if your opponent is smart enough to see right through you
+(that is, if your internal state is transparent, or can be fully
+modeled by an outside observer). It even works if you are
+entirely generic and incapable of individual learning, meaning
+that your behavioral repertoire is fully genetically programmed,
+and you are “just like” every other member of your species.[398]
+Randomness is equally valuable in cooperative contexts, such as
+for foraging insect colonies, where it ensures that even nearidentical individuals will diverge to explore different parts of
+their environment.
+2. The ability to learn allows your responses to be more unique, and
+allows your behavioral repertoire to scale up far beyond what can
+be encoded in your genome. By storing in your brain learnings
+and behaviors based on past experiences, you become vastly
+more complex on the inside—and all of this complexity is a
+hidden state, invisible to a stranger. In a competitive setting, such
+lifelong learning makes you harder to predict. In a cooperative
+setting, it allows individually differentiated skills and expertise to
+develop, greatly expanding the opportunities for cognitive
+division of labor.
+3. If you are able to model others effectively, including others who
+are modeling you back, then in an adversarial situation, you can
+outfox them by going meta. Modeling others is also essential to
+the cognitive division of labor, as it allows you to know who
+knows what you don’t know. Psychological studies suggest that
+we humans are so adept at keeping track of socially distributed
+
+knowledge that we tend to harbor greatly exaggerated beliefs
+about how much we personally know, when a good deal of our
+“knowledge” really consists of knowing whom to ask.[399]
+Wasps might not bother with any of these strategies when it comes to nest
+preparation because cricket-moving tricksters have never exerted
+evolutionary pressure on making this specific behavior unpredictable.
+Predator/prey interactions are a different story. It’s unlikely that Sphex
+would behave so sphexishly while hunting the cricket it brings to its nest, or
+evading a predator of its own.
+The last trick on the list—modeling your modeler—requires being very
+smart indeed. Roughly speaking, you need to be as smart as whomever
+you’re modeling, or more so, and you need to be able to imagine how you
+(and the world in general) appear from their point of view.
+Does the small brain size of an arthropod preclude this trick? Apparently
+not. When Portia spiders show an awareness of what their adversary does
+and doesn’t know, and learn to actively manipulate that opponent’s world
+model, they are operating at this higher cognitive level.
+
+Matryoshka Dolls
+Among human children, this so-called “theory of mind” or ability to
+“mentalize” (I’ll use the terms interchangeably) takes quite a while to
+develop fully. The classic experimental setup for probing it is the SallyAnne Test, popularized in 1985 by psychologists Simon Baron-Cohen, Alan
+Leslie, and Uta Frith.[400]
+The experimenters put on a little chamber drama for their young subjects
+using two dolls, Sally and Anne. Sally has a covered basket, and Anne has a
+box with a lid. Sally puts her marble in her basket, then goes out for a walk.
+While she’s gone, Anne slips the marble out of Sally’s basket and into her
+own box, closing the lid. Later, with Anne out of the picture, Sally returns.
+
+During the skit, the children are asked four questions:
+1. The Naming Question, a warm-up, asks them which doll is
+which; it establishes basic understanding of the scenario.
+2. On Sally’s return, the Belief Question is: “Where will Sally look
+for her marble?”
+3. This is followed up with the Reality Question: “Where is the
+marble really?”
+4. … and the Memory Question: “Where was the marble in the
+beginning?”
+Even babies (by the time they can talk a little) are able to say who is who
+and understand where the marble is throughout the skit, although it’s
+stashed out of sight; hence questions 1, 3, and 4 are all fairly easy.
+However, until somewhere between two and a half and four years of age,
+children tend to get the Belief Question wrong.[401] They probably aren’t
+able to model the minds of others well enough to knowingly attribute false
+beliefs to them.
+
+Psychologists tend to be very particular about which kinds of agents they
+believe could, even hypothetically, exhibit theory of mind, in part because
+of the baggage implied by language like “knowingly attribute.” Many
+reserve the term for humans only, though other great apes have also been
+shown to pass the Sally-Anne Test, with suitable modifications.[402]
+However, from a functional perspective, theory of mind is exactly what is
+required to lie or deceive, as Portia does (and as many other animals do).
+[403]
+
+Exhibiting this cognitive capacity implies not only an ability to simulate
+other minds, but also to model counterfactual (“what if”) universes. In the
+Sally-Anne Test, there is a real-life universe, in which the marble is in the
+box. There is the universe in Sally’s head, in which the marble is in the
+basket. Each of these universes also contains agents, like Sally and Anne,
+who in turn contain model universes in their virtual heads. The Anne in the
+universe in Sally’s mind, for instance, also believes that the marble is in the
+basket. Of course Sally and Anne are mere dolls; they only exist within the
+minds of the experimenter and the subject. The experimenter and subject
+are in turn abstract people I am describing to you, dear reader. Nesting
+dolls, universes within universes, in an endless recursion. It’s a dizzying
+prospect.
+As adults, though, we negotiate such recursive mentalization all the time
+without a second thought. Reading a novel like Jane Eyre involves
+regularly entertaining fourth-, fifth-, and sixth-order theories of mind, as we
+wonder what Charlotte Brontë expects us to believe about what Jane
+believes Mr. Rochester must think Jane thinks about Mr. Rochester’s
+feelings about Blanche. Exercising this mentalizing faculty seems to have
+been the main pastime of the nineteenth-century English upper classes.
+(Writing popular novels about it added yet another layer of indirection, at
+times ironic.)
+But theory of mind is far more than just a valuable skill for navigating
+hidden barbs and avoiding faux pas at teatime. There is good evidence that
+it is the very stuff of intelligence; it is, thus, at the heart of this book’s main
+argument.
+We have arrived at that heart. My contention is that theory of mind:
+
+● Powers the “intelligence explosions” observed in our own lineage, the
+hominins, and in other brainy species;
+● Gives us the ability to entertain counterfactual “what-ifs”;
+● Motivates, and is enhanced by, the development of language;
+● Allows us to make purposive decisions beyond “autopilot mode”;
+● Underwrites free will;
+● Operates both in social networks and within individual brains;
+● Results automatically from symbioses among predictors; and
+● Is the origin and mechanism of consciousness.
+In a sense, theory of mind is mind.
+
+Intelligence Explosion
+These are big claims. Let’s begin with the more established ones.
+In the 1970s, Dian Fossey, the world’s leading expert on gorilla behavior,
+invited British neuropsychologist Nicholas Humphrey to spend a few
+months at her research station in the Virunga Mountains of Rwanda.
+Reflecting later on what he had seen, Humphrey wrote, “[O]f all the
+animals in the forest the gorillas seemed to lead much the simplest
+existence—food abundant and easy to harvest (provided they knew where
+to find it), few if any predators (provided they knew how to avoid them) …
+little to do in fact (and little done) but eat, sleep and play. And the same is
+arguably true for natural man.”[404]
+
+These observations flew in the face of the usual explanation for evolving
+high intelligence—that it’s all about being a brilliant hunter, or otherwise
+“winning” at playing a brutal, Hobbesian game of survival in a tough
+environment. But if not to hunt (or evade hunters), why bother with
+intelligence? Couldn’t one live the easy life of a gorilla without incurring
+the high cost of a big brain? The fossil record suggests not: primate brains
+in many lineages, including those of gorillas and humans, haven’t shrunk
+over time, but, rather, have grown dramatically.
+Humphrey’s explanation: “[T]he life of the great apes and man [...]
+depend[s] critically on the possession of wide factual knowledge of
+practical technique and the nature of the habitat. Such knowledge can only
+be acquired in the context of a social community [...] which provides both a
+medium for the cultural transmission of information and a protective
+environment in which individual learning can occur. [...][T]he chief role of
+creative intellect is to hold society together.”[405]
+
+There are now many variations on this basic theory—some, like Humphrey,
+emphasizing cooperation and division of labor, others competition and
+Machiavellian politics.[406] These correspond fairly well to the “love” versus
+“war” explanations for the emergence of intelligence generally, as described
+in chapter 3.
+In the 1990s, evolutionary psychologist Robin Dunbar and colleagues used
+comparative brain-size measurements across species to advance the closely
+related “social brain hypothesis,” which holds that the rapid increases in
+brain size evident in hominins and cetaceans (whales and dolphins), among
+others, arise from mentalizing one-upmanship.[407]
+
+Underpinning all of these related hypotheses is the observation that, among
+highly social animals like us, theory of mind is a powerfully adaptive trait.
+Being better able to get inside others’ heads increases the odds of finding a
+mate, building coalitions, securing resources from friends and family,
+getting help raising young,[408] avoiding violence (or being on the winning
+side of it), climbing in prestige, and amassing fans or followers. So,
+unsurprisingly, people with better theory of mind tend to live longer and
+
+have greater reproductive success.[409] That means Darwinian selection will
+be at work.
+Strong theory of mind is correlated with both larger numbers of friends and
+larger brains, particularly in brain areas associated with mentalizing—above
+all, the frontal cortex.[410] Thus, startlingly, we can see evidence of the
+evolutionary pressure on social intelligence even among modern humans.
+My guess is that the extra cortical volume of highly social people is
+dedicated not only to general mentalizing skills, but also to rich learned
+representations—we could even call them simulations—of their many
+specific family members, friends, colleagues, and acquaintances.[411] After
+all, mentalizing requires not just imagining another person in the abstract,
+but modeling their particular life experience, what they know and don’t
+know, their quirks and values, the ways they express themselves—in short,
+everything that comprises a personality, outlook, and umwelt. You probably
+bring such knowledge to bear effortlessly to play out hypothetical social
+situations in your head, drawing on a cast of hundreds of people you know.
+This task is even harder than it appears at first glance, because there are
+infinite reflections in the social hall of mirrors: all of those people are
+themselves modeling others, including you. And, of course, their models of
+you include models of them, and of others. These relationships are
+important, because they powerfully affect behavior. Who shared their meat
+with whom after the last hunt, and in front of whom? Who is sleeping with
+whom? Who is gossiping about it, and who doesn’t know? Who is beefing
+with whom, and over what (or whom)?
+Even if your model of second-order relationships (i.e., who is friends with
+whom, and what you know about those interactions) is not as rich as your
+model of first-order relationships (your friends), the sheer number of
+higher-order terms in your model explodes. If you have twenty classmates
+who all know each other (and you), then you need to keep track not only of
+your twenty relationships with them, but of all of their relationships with
+each other and with you, which is another 20×20=400 pieces of
+information. Third-order relationships climb into the thousands.
+The numbers get truly mind-boggling when you consider that our
+acquaintances can easily number in the hundreds; family, school, and work
+environments tend to involve cohorts of people who all know each other;
+
+and our theories of mind can go up to sixth order, or beyond.[412] You can
+imagine, then, that even if many corners are cut, the amount of brain
+volume needed to do social modeling might grow both as a function of your
+number of friends and as a function of your ability to model higher-order
+relationships.
+Indeed, when Dunbar and colleagues set out to find the relationship
+between the brain sizes and the social-group sizes of brainy animals, they
+found that as troop size increases, the amount of brain volume dedicated to
+the cortex also increases.[413] Mentalizing order, which Dunbar refers to as
+“intentionality level,” appears to be limited by cortical volume; behavioral
+studies suggest that monkeys can only operate at level one, while
+nonhuman apes have level-two intentionality. By extrapolation, archaic
+humans and Neanderthals may only have been able to achieve level-four
+intentionality, which is at “the lower end of the normal distribution for
+modern human adults, and at about the same intellectual level as young
+teenagers.”[414] Finally, the slope of the relationship between cortical volume
+and troop size is considerably steeper for apes than for monkeys, consistent
+with the idea that modeling higher levels of intentionality requires a greater
+investment of cognitive resources per troop member.
+
+Findings relating brain size to social group size, and social group size to
+Darwinian fitness, are themselves a hall of mirrors, revealing a profound
+self-similarity—and feedback loop—between brains and social groups. If
+you have a slightly larger brain than your friends and family, and are able to
+model more relationships more reliably, you will have a Darwinian
+advantage, so on average will have slightly more descendants than those
+who are less socially adept. But that means that your descendants will
+themselves become harder to model socially; that is, everyone else’s model
+of them must now be more complex, including higher-level intentionality
+and more relationships. And remember, everybody is trying to predict
+everybody else, but not be fully predictable themselves!
+So it’s an arms race, not unlike that of the Cambrian explosion—though
+(usually) friendlier. Everyone is getting a bigger brain to model everyone
+else, and everyone else is getting harder to model at the same time, because
+… well, their brains are getting bigger. A social intelligence explosion
+
+ensues: a rapid (by evolutionary standards) increase in brain volume in your
+species.
+When social modeling becomes such an important component of everyone’s
+life, the effect on individual incentives is dramatic. Lone operators, like
+leopards, are content to fend for themselves; their umwelt consists mainly of
+their territory and their prey, while other leopards are, most of the time,
+unwelcome intruders. For a modern human, though, being cast out or
+excluded from the community becomes a severe punishment—or even a
+death sentence. Our world consists largely of other people, and most of us
+would be unable to survive at all without continual mutual aid.
+At the same time, sociality is a fraught business. We try to “win” at
+modeling others without being fully modeled ourselves; we compete for
+mating opportunities and for attention; we strive for dominance and
+prestige. These dynamics once again illustrate how competition and
+cooperation can be interwoven to such a degree that it can be hard to tell
+which is which.
+Selection pressure also operates at the level of social groups. If one group
+sports slightly bigger brains and greater social prowess, the group itself can
+grow larger, and will thus tend to outcompete the smaller (and smallerbrained) group. Such may have been the fate of certain of our now-extinct
+hominin kin.
+Societies have a kind of collective intelligence, and a rich body of work in
+social anthropology tells us that collective intelligence exhibits a scaling
+law not unlike that of individual brains. Theory of mind, incidentally, is
+important both for effective teaching and effective learning, which implies
+that it enhances cultural evolution at the group level too.[415] So, bigger
+societies can create and evolve more complex technologies, and thereby
+develop greater adaptability and resilience.[416] Greater scale, in other words,
+can support greater intelligence, and greater intelligence improves dynamic
+stability, both at the individual level and at the group level.
+
+Crew of Eight
+It’s hard not to wonder whether this recursive pattern applies at finer
+scales, too. Could our brains be “societies” of neural circuits that have
+evolved to model each other and thereby create the larger collective
+
+intelligence we call a “brain”? Neuroscientists and AI researchers have
+advanced such theories many times over the years, offering a range of
+supporting evidence.[417]
+For one, the cerebral cortex has a modular or repetitive structure, consisting
+of a honeycomb of “cortical columns”—though these columns don’t have
+distinct borders, which has led to endless debate about their exact definition
+and granularity.[418] Therefore, when I use the term “cortical column,” please
+take it with a grain of salt; I will interchangeably use even vaguer language
+like “small piece of cortex” or “part of the brain.”
+Despite these ambiguities, we know that the basic “cortical circuit” is much
+the same in different regions of the cortex. When we distinguish between
+“auditory cortex” and “visual cortex,” for instance, the difference seems to
+be mostly about where each gets its inputs.[419] In one famous experiment,
+the optic nerves of baby ferrets were rerouted surgically to their auditory
+cortex, and these animals nonetheless developed the ability to see.
+Moreover, the characteristically patterned neural mapping of oriented visual
+features Hubel and Wiesel discovered in the visual cortex developed in the
+ferrets’ repurposed “auditory” cortex, albeit more sloppily.[420] There’s
+evidence that the human brain can rewire in similarly dramatic ways: blind
+people can learn to see using their hearing via “click sonar,”[421] and can
+even acquire a limited form of vision via spatially patterned tongue
+stimulation.[422]
+Perhaps generic modularity is precisely what made the intelligence
+explosion possible: just as DNA could easily evolve to replicate more
+vertebrae and ribs to produce snakes (per chapter 1), the genomes of
+animals undergoing intelligence explosions could respond to individual and
+group selection pressure by replicating more cortical columns. Thus,
+evolution could progressively expand the cortical sheet without needing to
+invent anything fundamentally new. In the biggest-brained animals, like
+dolphins and humans, expansion progressed to the point of scrunching up
+the cortex into dense folds, giving our brains their characteristic furrowed
+appearance. We manage to cram about a quarter of a square meter of
+cortical area into our skulls.
+Given this, one might even consider the cortex itself to be more like a
+population than a single entity: a “colony” of cortical columns that have
+
+managed to replicate inside our skulls in larger and larger numbers through
+increased cooperation among themselves. The greater intelligence they give
+us adds to our individual fitness, which in turn allows us to form larger
+societies, which increases dynamic stability all round.
+You might find it disconcerting to think of your cortex as a colony of
+entities, rather than as one unified entity, “yourself.” Remember, though,
+that at some level, life always works this way. Our cells harbor colonies of
+mitochondria, and our bodies consist of colonies of cells. All of these small
+entities are intelligent in their own right, as any living thing needs to be in
+order to survive when surrounded by other similar entities in a dynamic
+environment.
+I think the reason we find intelligent cortical columns uncanny is that their
+umwelt, the domain in which they are intelligent, overlaps with “our”
+umwelt—unlike, say, a white blood cell, which, while obviously alive and
+active, inhabits a microscopic inner world utterly alien to us. Cortical
+columns, by contrast, understand colors and shapes, people and places,
+stories and emotions. Our understanding is their understanding. And that is
+weird.
+Indulge me in a speculative digression about everyone’s favorite “alien
+intelligence”: the octopus.[423] Octopuses have always seemed like a bit of a
+fly in the ointment, as far as the social-intelligence hypothesis is concerned.
+Unlike other very smart animals on Earth, they’re notoriously cranky and
+individualistic. They don’t tend to hang out with each other, and usually
+only meet to mate—a fraught encounter that may end in violence or even
+cannibalism.[424]
+While they are brilliant lifelong learners, they don’t live long enough to
+raise their young, hence lack the ability to accumulate cultural knowledge.
+If they did, it seems entirely possible that our planet’s seas would teem with
+octopus cities, and perhaps even octopus-made computing machines (which
+would undoubtedly use an octal, or base eight, numbering system—a much
+better engineering choice than our own base ten).
+If octopuses are so antisocial, and intelligence is a social phenomenon, why
+are they so smart? One could dodge the question and note that sociality
+doesn’t just involve conspecifics (i.e., others of your own species), nor is it
+necessarily friendly. With omnivorous appetites and a total lack of body
+
+armor, the octopus must rely on its wits to model and predict everything it
+wants to either hunt or escape from; it seems likely that highly developed
+theory of mind, vulnerability to predators, and flexible hunting strategies all
+coevolved.[425]
+A more fun possibility, though, is suggested by considering the other ways
+octopuses are so different from other big-brained animals, including us. The
+octopus’s “brain” is highly decentralized, likely due to the high cost of
+long-distance communication in the nervous systems of molluscs. Our own
+long-distance nerve fibers are coated with fatty myelin sheaths, which
+greatly speed up and lower the energetic cost of transmitting electrical
+impulses.[426] Mollusc nerve fibers lack myelin sheaths, though.
+Transmitting fast impulses in unmyelinated nerves requires dramatically
+increasing the diameter of the axon, which explains why squids have a
+“giant axon”—a single nerve fiber up to 1.5 millimeters in diameter!—
+running the length of their body. This giant axon allows for a rapid,
+coordinated escape response.[427] But obviously, for an animal with many
+neurons powering complex behaviors, there isn’t room (or the energetic
+budget) for many such giant axons, so a great majority of neural processing
+needs to be local. That probably explains why three fifths of an octopus’s
+neurons are in the arms, rather than in the head.
+While cephalopods are bilaterian like us, their bodies are far more modular
+than any land animal, exhibiting many additional near-symmetries. In the
+octopus, over two hundred suckers are arranged in beautiful patterns along
+each of eight arms, with chained neural networks surrounding each sucker.
+Individual suckers are prehensile, almost like a pair of opposed fingers, and
+endowed with far richer local sensory input than our hands, including touch
+and taste receptors, chromatophores for colorful skin displays, and even
+photoreceptors for light sensing. A lot of tasting, moving, color-changing,
+reacting, deciding, predicting, and even reasoning seems to occur under
+local control.
+Hence the octopus’s modularity is not just structural, but functional. Each
+sucker is smart. Each arm, too, is intelligent, able to respond to stimuli with
+complex movements without the involvement of the central brain.[428] Arms
+recognize each other directly as they move, avoiding self-entanglement
+without requiring any central representation of the animal’s geometry,[429]
+
+which—given the wild range of geometries possible for such a squishy
+animal with so many degrees of freedom—would be an extraordinary
+challenge for any brain.[430] The arms can even communicate with each
+other directly via a ring of ganglia that encircle the “shoulders,” with
+additional direct connections between alternating arms; these routes bypass
+the brain entirely.[431]
+There’s more. Octopuses occasionally need to bite off an injured arm, an act
+known as “autotomy.”[432] They may even do so to distract a predator,
+leaving one writhing appendage behind while the other seven, along with
+the head, escape. (At this point, as a smartass on Reddit observes, we would
+have a septopus.) In at least one squid species, “attack autotomy” has been
+observed as well: a severed arm attacks a predator while the rest of the
+animal escapes.[433] Following autotomy, a new arm will regrow. For
+octopuses, the process takes about 130 days.
+Perhaps, then, the octopus is best thought of as a tightly knit community of
+eight arms, sharing among themselves a common pair of eyes. In fact, the
+bulk of the central “brain” consists of a pair of optic lobes; we could think
+of these lobes compressing visual information in service to the arms, rather
+than being “the boss,” or even, in any meaningful sense, “the octopus.” In
+this light, attack autotomy in the squid (whose nervous system is similarly
+organized) may not be so different from the kamikaze tactics of a bee
+defending the hive.
+Could the intelligence explosion that resulted in the octopus have been
+driven by predictive social modeling—theory of mind, in effect—among its
+eight arms? As absurd as this sounds, I think it’s plausible. Octopus arms
+are individually smart, but communication among them is limited, due both
+to the high latency and low bandwidth of unmyelinated nerve fibers.
+Centralized control under these constraints is impossible.
+Yet the octopus’s arms must work together seamlessly to swim, hunt, escape
+aquarium tanks, and so on; to do so, they must model each other. We know
+that people can work closely together to perform such tasks with only a
+little communication; consider an elite military unit, or a hunting party,
+exchanging subtle signs while stalking their quarry. Even intellectual tasks,
+like solving escape-room puzzles or competing in Math Olympiads, involve
+
+such teamwork. Language is a very low bandwidth medium, yet we still
+manage.
+Accounts of small, extremely high-performing teams invariably emphasize
+both the unity of purpose that can be achieved and the need for each team
+member to infer what the others are up to based on minimal cues: that is,
+high-fidelity mutual prediction, or mentalizing. When this happens in
+competitive rowing, it’s called “swing”: “It only happens when all eight
+oarsmen are rowing in such perfect unison that no single action by any one
+is out of sync with those of all the others. [...] Each minute action [...] must
+be mirrored exactly by each oarsman, from one end of the boat to the other.
+[...] Only then will it feel as if the boat is a part of each of them, moving as
+if on its own.”[434]
+
+Homunculus
+How different are we from the octopus, really? We have fast, myelinated
+nerves that allow for greater physical centralization of our brain in our
+heads, but if what I’ve suggested is correct—that our brains can be thought
+of as symbiotic colonies of cortical columns modeling each other—then the
+difference may be more of degree than of kind. This is unsettling, because
+we tend to have a strong sense of ourselves as a unified “I.”
+Much intuitive (and supernatural) thinking over the ages has presumed this
+indivisible self, located somewhere in the body. Presumably it’s in the brain
+somewhere. That’s why we can imagine getting a “full body transplant” but
+not a “brain transplant.” A common term for this “something in the brain” is
+a “homunculus,” literally, a “little man” somewhere in there, pulling the
+strings. In many religious traditions, the immortal soul plays this
+homuncular role.
+René Descartes (1596–1650) thought about the problem from a
+neuroanatomical point of view. An influential champion of “mechanical
+philosophy,” or what we now call physics, Descartes held that the body and
+brain must be mechanical, or machine-like, since we seem to be made of the
+same stuff as the rest of the physical universe. Further, human anatomy has
+much in common with other animals’ anatomy, and human behavior has
+much in common with other animals’ behavior: the “passions” of hunger
+and sexual attraction, reflexes to flinch if burned, and so on. Hence
+
+Descartes coined the term “bête-machine,” or “animal-machine,” to
+describe the mechanically based physiology of animal and human bodies.
+Still, Descartes needed some way to reconcile mechanical philosophy with
+his Christian faith.[435] The Church held that we have immortal souls while
+other animals do not, and the Enlightenment emphasized the divine gift of
+human rationality; other animals certainly didn’t seem to be writing
+philosophical treatises. Borrowing from Aristotle, Descartes found an
+elegant solution: identifying rationality itself with the soul. The twist was
+that a soul-brain interface of some kind would be needed for the immaterial
+soul to puppet the material body.
+To theorize how this might work, Descartes again borrowed from the
+classical world, this time a medical authority. Galen (roughly 130–210 CE)
+believed the cerebral ventricles were filled with “psychic pneuma,” a
+volatile, vaporous substance that he described as “the first instrument of the
+soul.”[436] Riffing on this idea, Descartes imagined the body to be, literally, a
+hydraulic machine powered by psychic pneuma: “When a rational soul is
+present in this machine it will have its principal seat in the brain and will
+reside there like the fountaineer, who must be stationed at the tanks to
+which the fountain’s pipes return if he wants to initiate, impede, or [...] alter
+their movements.”[437]
+Clever! But where was this “fountaineer”? Descartes concluded that it must
+reside in the pineal gland, a small, pinecone-shaped structure near the center
+of the brain. For one thing, it’s near the cerebral ventricles, the supposed
+“tanks” or reservoirs of psychic pneuma. More importantly, the pineal gland
+is one of the few discrete structures located along the brain’s midline—
+meaning we have only one of them. Being indivisible, surely the soul
+couldn’t reside in a pair of structures on both the left and right sides of the
+brain!
+
+Spoiler alert: the pineal gland’s main job is melatonin production. It helps
+regulate the circadian rhythm. It is not the seat of the soul.
+Descartes’s mistake was more fundamental than picking the wrong gland.
+Some neuroscientists are still seeking an elusive brain region, circuit, or
+type of neuron where our consciousness might reside. It’s certainly true that
+not all brain regions are created equal; the severity of a stroke depends
+critically on which structures it knocks out. However, I think that
+attempting to pin down the location of a homunculus, soul, or “self” within
+the brain is like trying to locate where the “swing” is in a crewed boat.
+This isn’t to say that either phenomenon is unreal or illusory. Swing is
+perfectly real, as those who have experienced it can attest. But it is a verb,
+not a thing; distributed, not localized; a dynamic process in time, not a static
+condition; and relational, not individual. There is nothing supernatural
+about it, but neither is it physical, or even objective. It’s functional. It
+results in higher performance of the boat, and so has tangible effects in the
+world. But it is also subjective, experienced by each of the eight members
+of the crew in relation to the others, and to the whole.
+
+Imagine replacing one of the crew members in the boat with a robot. Not
+the dumb kind we have in factories today, but one capable of pulling the
+oars like a person, hearing, seeing, touching, and using haptic and
+audiovisual cues to communicate with the rest of the crew. Could such a
+“cyborg crew” achieve swing? I think the answer is a clear “yes,” and, in
+fact, given the sophistication of today’s AI models, any remaining
+impediment has mainly to do with deficiencies in batteries and motors—
+bodies, not “brains.”
+This thought experiment is a boat-crew version of one posed by
+philosophers David Chalmers and Susan Schneider that we could call the
+“brain of Theseus,”[438] by reference to Plutarch’s much older “ship of
+Theseus” thought experiment (to stick with the boating theme a little
+longer). Theseus, the mythical king and founder of Athens, has a legendary
+ship that is preserved by the Athenians for generations. It undergoes
+innumerable repairs over the years to keep it in good order. The question is:
+once every timber has been replaced, is it still the ship of Theseus?
+Now that we understand something about cellular biochemistry, we know
+that the question applies literally to us, too, as most of the cells in our
+bodies turn over many times throughout our lives, and, even in the longestlived neurons, every atom will get swapped out over time. If we want to
+assert the continuity of our own identity, we need to acknowledge that a
+“self” is, like swing, a dynamical and computational process, not a specific
+set of atoms. And the same is true of a ship!
+Let’s follow Chalmers and Schneider in considering the “ship of Theseus”
+question for the brain, now with a cyborg twist, as for the rowing crew.
+Imagine that a single neuron in your brain is replaced by a computer model
+of that neuron. Once more, the greatest problems here are technological, not
+conceptual. Thanks to those mid-century experiments on the squid giant
+axon (and a great deal of work since), we have excellent computational
+models of individual neurons, at least with respect to their fast dynamics.
+A complete neuron-machine interface is a much taller order. It would
+require not only coupling a computer to all pre- and post-synaptic neurons,
+but also the ability to sense and emit a variety of neuromodulatory
+chemicals. This is well beyond us today. But let’s set practicalities aside.
+
+The question is: if one of your neurons were replaced by a “robot neuron,”
+would you notice?
+Of course you wouldn’t, because the brain is robust to anything going awry
+with any single neuron. But what if we repeated the procedure for a billion
+of your neurons? Or half of them? Or all of them?
+The question is unsettling, because it highlights the difficulty we have in
+coming to grips with a dynamic, process-oriented, computational,
+distributed, and relationship-centric view of the “self.” We are still
+Cartesian enough in our thinking to wonder whether—per Schneider’s
+description of a hypothetical surgeon replacing your biological neurons
+with silicon-based ones—“your consciousness would gradually diminish as
+your neurons are replaced, sort of like when you turn down the volume on
+your music player. At some point [...] your consciousness just fades out.” Or
+perhaps, “your consciousness would remain the same until at some point, it
+abruptly ends. In both cases, the result is the same: The lights go out.”
+These ideas are—I have no words to put this gently—silly (and I think
+Schneider and Chalmers both agree). In physical and computational terms,
+a neuron has an inside and an outside, and if the insides were scooped out
+and replaced with different machinery that performed the same function—
+which is to say, resulted in identical interactions as seen from the outside—
+then none of the larger functions in which this neuron plays a part will be
+affected. Per the Church-Turing thesis, these functions could be computed
+in many equivalent ways, and using many different computational
+substrates. That is true at every level of the nested set of relationships, or
+functions, that we call “life” or “intelligence.”
+
+Illusion and Reality
+Philosopher of mind Daniel Dennett believed that consciousness and the
+self are illusions; we’re robots made of robots made of robots, so, per
+Dennett, there is no real “there there,” other than as a convenience of
+speech.[439] Similarly, for philosopher-neuroscientists Sam Harris and Robert
+Sapolsky,[440] free will is an illusion because minds are products of
+inexorable physical processes.
+We are indeed robots made of robots made of robots, and minds are indeed
+based on physical processes. However, my own sense is that “illusion” isn’t
+
+necessarily a helpful word here, because it implies an incorrect assumption,
+or at best a polite fiction. While nobody has suggested that we dispense
+with this “fiction” altogether, Sapolsky comes close to running off that cliff
+when he asserts that, since minds are physical and free will is illusory,
+notions like criminal justice, prizes, praise, blame, and moral responsibility
+are all invalid and should be abandoned.
+In Sapolsky’s defense, it is worthwhile to ask tough questions about our
+received notions of justice, reward, and responsibility, especially when
+confronted with alternatives that seem more humane, fairer, or lead to better
+outcomes. It’s less productive to become nihilistic because “it’s all an
+illusion.” That kind of nihilism could also lead us to conclude that tables
+and chairs aren’t “real,”[441] because they, too, are mere collections of atoms.
+Chapter 2 offers a more pragmatic take on reality, familiar from physics as
+well as real life: “reality” is our name for a model with good predictive
+power. Or rather, a suite of models. We will always need many, because
+every model has a limited domain of validity. It would be awesome to
+discover the physicists’ holy grail, a “Theory of Everything” unifying
+quantum fields and gravity. But it would tell you nothing about whether
+your aunt will like the cake you’re baking for her, your friend will take your
+shift at the café, or your kid will get along with the neighbor’s kid. In fact,
+unless you’re one of a handful of rarefied physicists, it will inform precisely
+nothing in your life.
+Good questions to ask about a model, then, are: Does it agree with
+observations? Does it make any testable predictions? Who cares about it?
+What function does it serve? Where does it break down? Do we have a
+better candidate model? Sometimes we do have a better candidate, but, as
+with general relativity, it may be disturbing or challenge deep-seated
+intuitions. Newtonian physics, which we find a lot more intuitive, follows
+from general relativity, but only as an approximation valid in our everyday
+world, where spacetime is reasonably flat and objects move far slower than
+the speed of light.
+That’s not to say that classical physics is an “illusion”; rather, the more
+general theory illuminates a wider area. Einstein’s theory shows us when
+the Newtonian approximation holds, when it doesn’t, and why. It resolves
+apparent contradictions, like the incompatibility of Newtonian physics with
+
+a constant speed of light. In this sense, general relativity actually bolsters
+the narrower classical theory by reassuring us that the seeming paradoxes
+aren’t cause for concern, and by showing us why, when, and to what degree
+we can rely on familiar approximations.
+Free will; the unitary, indivisible “self”; and interaction with other unitary
+“selves” in the world are the common-sense axioms underpinning
+something like a Newtonian model of social life. Theory of mind is that
+model. It’s our folk theory—literally. It’s what we use when we predict our
+aunt’s tastes, our friend’s willingness to help, or our kid’s friendships. While
+powerful and useful in everyday life, theory of mind is also confounding,
+even paradoxical, when we try to reconcile it with the physical universe;
+hence the trouble Descartes got us into. In the following discussion, we’ll
+flesh out a more general theory that will help us better understand our folk
+theory—and how it arises, and its conceptual limits.
+But let’s keep in mind just how powerful that folk theory is. Will Aunt
+Millie like my cake? For a physicist, making such a prediction may seem
+like weak tea compared with the extraordinarily precise, quantitative
+predictions we expect from physical theories. But it’s not so.
+

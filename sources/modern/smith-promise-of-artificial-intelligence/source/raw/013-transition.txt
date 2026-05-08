@@ -1,0 +1,21 @@
+4 — Transition
+
+So GOFAI failed. Beginning around 1980, a variety of new approaches took hold. One, to be considered in the next chapter, shifted attention “downward,” to consider the brain and brain-style computational architectures. This is the architectural approach that underlies AI’s headlong embrace of machine learning and second-wave AI. It has developed in parallel with explosive growth in cognitive neuroscience, now arguably the most important sector of cognitive science. Together, these two projects currently have something of a grip on the intellectual imaginations of both AI and cognitive science.
+
+Before second-wave AI took hold, however, four other “broadening” approaches gained prominence:
+
+Embodied · Take the body seriously.
+
+Embedded · Take context and surrounding situation seriously.
+
+Extended · Maybe the mind is not just in the brain, or even brain plus body, but extends into the environment (which we, both individually and as societies, arrange and construct so that it can serve as a form of “cognitive scaffolding”).
+
+Enactive · Don’t separate thinking from full-blooded participation and action.
+
+The embodiment thesis not only involves consideration of the whole body (limbs, torso, etc.) of the organism in question, and takes activity to be an integral component of intelligence and cognitive skill (for example in perception and navigation), but it also focuses on the physical properties and restrictions on the brain or processing unit (such as heat, energy usage, etc.).
+
+These approaches were most vigorously defended during the 1980s and 1990s, in a period that has come to be known as the “AI winter”—a term descriptive of a lull in the AI funding environment, not per se a comment on the pace of intellectual developments, though not unrelated to the failure of GOFAI to reach its promises. The four theses were primarily advocated in cognitive science, but they also garnered some prominence in AI, where they continue to garner allegiance. They have not been embraced as such in the software engineering world, but if explicitly articulated might be endorsed by many members of that community—so long as the “body” of the computer were understood to be something like the CPU and directly affiliated memory, or at least the “local machine.” Certainly their overall sense is manifested in the rapidly expanding networks of the world’s growing computational infrastructure (e.g., in the widely trumpeted “internet of things”).
+
+I agree that human intelligence is embodied, embedded, (somewhat) extended, and (often) enactive—and that all four are critical considerations in cognitive science. But I think the reasons for GOFAI’s failure go deeper than its failure to deal with these issues.
+
+In brief, the reasons are three. The first has already been suggested: GOFAI’s untenably rigid view of formal ontology. The second has to do with the semantic point made earlier (P4): that reference, representation, and semantic relations to the world are not effective, and therefore cannot be “seen” from a standpoint of blanket mechanism. The third arises from a failure to recognize the profound importance of taking our thoughts and representations and information to be about the world. We need to understand the conditions on world—what the world is, and what it is to hold something accountable to being in it, to being hosted by it.

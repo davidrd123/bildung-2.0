@@ -3573,3 +3573,26 @@ Decision for now:
 - use the new reread note and `source/bruno-generative-chain.yaml` together for future late-Bruno work instead of reconstructing the sequence from memory
 - keep the main Bruno result framed as failed autonomy of relation and mathematical mediation, not just rejection of the irrational in the abstract
 - do not widen glossary or thread structure from this reread alone; the gain is a cleaner reading rule and a confirmed package workflow
+
+## 2026-04-12 - Post-Bruno threshold reread settled as Parts 80-94
+
+Ran a bounded reread of the exact-science threshold and wrote `reading/2026-04-12-post-bruno-threshold-reread-80-94.md`.
+
+What was clarified:
+
+- the right bounded unit is now `80-94`, not merely `80-83` or `80-87`; the threshold closes only once the Kepler line has carried exact observation, relation, perception, hypothesis, force, gravitation, matter, geometry, and law into one concept of lawful becoming
+- Leonardo already opens the full framework of lawful cognition more strongly than threshold-language alone suggests: anti-magic, law, analysis, proof, and disciplined imagination are all already explicit there
+- Kepler's specific gain is not just harmony or the Mars discrepancy, but the stable union of observational control and productive form, culminating in lawful variation and the turn from metaphysical being to scientific becoming
+- the force / matter sequence (`89-94`) is what completes the answer to Bruno's method failure; mathematics becomes operative not merely as prestige or model, but as the medium in which objectivity is rebuilt
+- the active glossary pressure remains intentionally light here as well; the sequence is still being carried adequately by the parts, tranche decisions, ledger entries, and the new reread note
+
+Concrete project changes:
+
+- added `reading/2026-04-12-post-bruno-threshold-reread-80-94.md`
+- updated `reading/context-packages.md` so the post-Bruno threshold now has an explicit bounded reread surface and is marked as not yet needing a structured chain
+
+Decision for now:
+
+- use the new reread note as the main recovery surface for the `Leonardo -> Kepler` threshold before the Galilei handoff
+- keep the threshold framed as the reconstitution of objectivity through relation, law, force, and becoming, not just as an increase in mathematical content
+- do not build a Kepler chain yet; the current prose apparatus still appears sufficient unless this arc starts being reused at Cusanus / late-Bruno frequency

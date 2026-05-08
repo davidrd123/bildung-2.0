@@ -1,0 +1,92 @@
+12 — Application
+
+The impact of the seven points laid out in the last chapter can be appreciated by applying them to three issues, almost technical in nature, of critical importance.
+
+12a · Reference
+
+The first has to do with the nature of reference. I have said throughout that judgment requires holding registrations to account. This requires commitment to the world being registered. Commitment to the registration is insufficient, as I have emphasized throughout; so too, we can now see, is commitment to the world as registered. Rather, what is required is commitment to that which is registered. It is not just the difference between registration and registered that matters, that is—effectively a difference between sign and signified, between map and territory. Rather, the point is metaphysically more fundamental: there will always be a surplus to that which is registered, beyond its being as it is registered as being. You may be a person, but there is more to you than how my registration of you as a person takes you to be. And it is to that complete you that I refer, if I refer to you. To register an argument as brilliant, I must refer to it—whether or not it is brilliant, needless to say,1 but also whether or not it is even an argument. In general, in order to fix on the world, reference and thought must “go on through” any registrational schemes used to parse or make sense of it, to reach the world itself. It is that patch of the world, not the world-as-registered, to which our commitment binds us, to which deference is owed. This is true—and this is the critical part, and the difficult one—even if the criteria used to individuate what we refer to have their roots in the registration practices employed.2
+
+
+
+Figure 93
+
+
+
+As a possibly helpful analogy, consider the Mondrian painting shown in figure 9, and the descriptive term “the large grey rectangle toward the upper left.”4 Call this term α. Suppose, counterfactually but plausibly, that figure 10 is an accurate representation, at a very high level of magnification, of a portion of the top edge of that rectangle. At least arguably, greyish patch A falls within the referential scope of α, and dark patch B perhaps not (whether whitish patch C does or does not is less clear), even though A and B lie without and within, respectively, the boundary of the most plausible actual (idealized, Platonic) rectangle associable with α. Were Mondrian to instruct an assistant to “erase the rectangle,” for example, it is unarguable that A should be removed.
+
+The image is just an analogy. The point is that anything that is registered (a person, a gambit, a nation) will outstrip in richness not only what is grasped about it by its registrar, but also what is included within any idealizations used to identify it as the referent, and ultimately what is humanly graspable at all. Only if that is true can registrations be held to account. The point may sound mystical, but is in fact commonsense: that which we understand will always transcend our understanding of it—including its “itness,” its boundedness and identity as an object.
+
+
+
+Figure 10
+
+
+
+I said earlier that one of the things that differentiates a reckoning system from a system with judgment is that the former is content to operate on registrations of the world, whereas the latter must be committed to, must be concerned with, must care about the world thereby registered. What this last discussion emphasizes is that, in order to be account-ably committed to that world, a registering system must “tread lightly”—holding its registrations and registration schemes in perpetual epistemic and normative abeyance, always prepared to let go of them in order to do justice to that which they are used to register. In this case a Buddhist phrasing is apt: you cannot reach the world until you “relinquish attachment” to the registrational machinery you employ to find it intelligible.
+
+12b · Context
+
+The second point has to do with an issue that has plagued AI research since the beginning—in both its first- and second-wave iterations—and that DARPA has identified as criterial for AGI, and imagines being part of “third-wave” AI: the notion of context.5 The issue is not merely one of having a computer system use context-sensitive structures and symbols in appropriate ways, such as indexicals and perspectival descriptions (analogs of “today,” or “the medium in this drive,” etc.), but of configuring a system’s
+
+⌈deliberation⌉ to be appropriate to the wider situation at hand beyond what is immediately represented, either explicitly or implicitly—neither ignoring facts or phenomena that are in fact pertinent, nor wasting time and resources exploring any (or at least very many) of the infinite number of alternatives that “in theory” might be relevant, but in fact are irrelevant—and that anyone with a modicum of common sense would recognize as irrelevant.
+
+We can approach the topic by considering the technical implications of part of the epistemological critique of first-wave AI: that thinking emerges from “a horizon of ineffable knowledge and sense-making.” To be attuned to context is not simply being able to consider other factors from within a given registration scheme, or even being able to shift from one registration scheme to another, as if stepping from one well-defined island to another, as in GOFAI’s image of logical reasoning. Dealing skillfully with context—and this is really the point—is not a postregistrational, postontological skill. On the metaphor of chapter 3’s figure 6 (p. 34), contextual awareness requires the ability to move continuously and ineffably in the submarine topology—stewarding the system’s embodied and embedded participation in the world, registering only if, when, and as appropriate.
+
+It has long been recognized as an unassailable fact about genuine intelligence that anything can be brought to bear if pertinent. There is no bound or specifiable limit to what might be crucial in any given circumstance, relevant in any particular line of reasoning. The present analysis ups the ante: there is no assurance that any registrational scheme will be adequate to an unexpected circumstance. It is conceptually impossible, in this English language, to describe a situation that cannot be registered, needless to say. As a gesture in that direction, however, we can imagine situations that put pressure on the idea of any preconceived registrational repertoire being adequate for training machine learning systems: a damaged aircraft crash-landing over one’s head while driving, the ethics of murder in a society where people regularly back up their brains online, the nature of a universe with two spatial and two temporal dimensions rather than three and one, and so on.
+
+The only “ultimate context” is the world as a whole—something that no registration scheme will ever encompass. Sensitivity to context, in other words, requires far more than choosing from a prefigured set of registration schemes. Context-sensitivity is not merely a question of having a world model, in other words. No such model can be adequate to all potential circumstances. Rather, sensitivity to context requires being able to choose or develop a model (registration scheme) adequate to whatever circumstances are at hand, backed by resolute commitment to hold that model (scheme) accountable to the world it is a model of.
+
+The world requires commitment to keep in view. Contextual awareness must be based on such commitment. As such, conceptual sensitivity requires judgment. It will never be achieved by mere reckoning.
+
+12c · TW
+
+Finally, it is instructive to take stock of where this long analysis has taken us.
+
+I claimed in chapter 3 that the ontological critique of GOFAI cut the deepest.6 It was not a critique of ontology, needless to say, but of AI systems, having to do with the ontological assumptions they made about the worlds they were tasked with understanding. In framing it, I used the term “ontological” to mean roughly “what there is”—that is, the furniture of the world, what objects, properties, and relations exist.
+
+I also said, in the introduction, that one of the most important contributions of second-wave AI is the fact that it gives us a window onto a different ontological view. But from where we have reached we can see that that was an inadequate characterization. The impact of ML is far greater. These new systems, and the experiences we are gleaning through building them, are teaching us about ontology itself—about what objects are, about how individuation arises, about what the world is like “underneath” the objects (i.e., in more detail than is grasped in the abstractions in terms of which the objects, properties, and relations are individuated). Second-wave AI, in other words, is providing us with insight into the very metaphysical foundations of ontology.7 I said at the outset that the book would have a strongly ontological flavor. Had we had the requisite distinctions in front of us at that point, I could have said: a strongly ontological and metaphysical flavor.
+
+Second-wave AI, we have seen, is demonstrating something I have said for many years: that ontology emerges in the context of registration practices; it is not the prior, pregiven structure of the world.8 Moreover, and directly applicable to AI, registration, including determining an appropriate registration scheme, is among the most important characteristics—if not the most important characteristic—of intelligence itself. To put it bluntly: it is not sufficient for AI, and the broader study of intelligence of which it is a part, merely to make assumptions about ontology. It must explain ontology.
+
+Investigating registration, and thus moving the subject matter of ontology into the research agenda of artificial intelligence, are among the most important philosophical and scientific consequences of recent developments.
+
+This much we have learned from ML and second-wave AI:
+
+We need to revise our understanding of concepts, and of conceptual reasoning, to appreciate the power that concepts derive from being drenched in nonconceptual (submarine) detail.
+
+We need to understand registration, and recognize registering the world appropriately as possibly the most important characteristic of intelligence.
+
+It is insufficient for AI, and the broader study of intelligence of which it is a part, to assume that intelligence is a capacity of systems deployed in an ontologically structured world. Ontology is an achievement of intelligence, not a presupposition.
+
+
+
+But there is more. What ups the ante for AI is that genuine intelligence—intelligence at the highest level, anything of the sort that could underwrite judgment—requires understanding these ontological points, in at least a tacit sense—enough for them to both normatively and pragmatically govern its behavior. As I have emphasized throughout, judgment requires commitment to what we might call a third level of representation: not to the first level of the representation or registration itself (not, as I have said since the beginning, to a data structure, or to an image of a person, or to a description or term); and not even to the second level: the world as registered (as a table, machinist, etc.).9 I am not convinced that either first- or second-wave AI systems have yet made the transition from the first of these to the second. But anything approaching judgment requires a third, much more demanding version: commitment to that which is registered a certain way (as a table, détente, or whatever). As always, “world” in this statement does not refer to what we ordinarily think of the world as being—a planet circling the sun, a profusion of social and political arrangements, a biological ferment. Rather, the world, in the only sense that makes sense for this third level of commitment, is that which underlies and underwrites all these things—the ground of being, that which is One.
+
+I know that describing the world in terms of the “One” or the “ground of being” may sound mysterious, if not outright mystical. But the point is not difficult to understand, and neither problematic nor spooky. An easier way to say it, which I have used in this book many times already, is to say that the third level of commitment must be to that which we register—to that which we take to be a table, in the case of a table; to that which we register as a person, in the case of a person; and so on.10 Not (first stage) to the representation “table” or “person,” and not (second stage) to the table as registered as a table or to the person as registered as a person (since that would not leave us in a position to be able to say “that isn’t a person after all”—or even “what you are taking to be a table isn’t even a coherent object”). Rather, only if we are committed (third stage) to that which we take to be a table, person, and so on, will we be in a position to hold the registration to account.
+
+In my teaching, I introduce the acronym “TW,” explaining it first as shorthand for “the world” in the sense that I am using it here—the “ground of being,” the One, and the like. But as the conversation progresses it proves helpful to shift the connotation of the acronym (if not its meaning), and say that “TW” instead stands for “that which”—the “that which” toward which commitment, registration, etc., must be oriented.
+
+Deference must be deference to that which we register, inhabit, care about, live in, and so on. Registration must be of that which we take to be a table, a person, or anything else. Holding registrations and registration schemes accountable to the that which is what it is to hold them accountable at all.
+
+
+______________
+
+1. If it is not brilliant, then I will have said or thought something false; but for that to be the case what I said must still be a statement, a thought, with the requisite stature to be false.
+
+2. A realist who presumes that object ontology inheres in the world independent of human practice can view reference as attaching to a pre-existing object, and truth as having to do with whether or not that object exemplifies a property claimed of it. That option is unavailable to anyone with constructivist ontological sympathies. And the consequences of its not being available are profound. It is a challenge of the utmost importance to anyone attempting to make good on a metaphysical view with constructivist leanings to ensure that the commitment of judgment is to that-which-is-registered, not to the world-as-registered.
+
+3. Piet Mondrian, Composition with Red, Yellow, Blue, and Black, (1921).
+
+4. Red in the original.
+
+5. John Launchbury, “A DARPA Perspective on Artificial Intelligence,” https://www.darpa.mil/attachments/AIFull.pdf
+
+6. The phrase “ontological critique” is from Dreyfus’s What Computers Can’t Do (1972); he used the term for a critique of AI similar to mine, although, somewhat surprisingly, he framed his version rather epistemologically—as having to do with information, data about the world, understanding, etc., rather than with the structure of the world per se (“the data … must be discrete, explicit, and determinate” [118], “everything essential to intelligent behavior must in principle be understandable in terms of a set of determinate independent elements” [118], “the world can be analyzed as a set of facts—items of information” [130], etc.; emphases added).
+
+7. Nonstandardly, I use the terms “metaphysics” and “ontology” distinctly: “ontology” to refer to what there is—to the furniture of the world, to reality as we register it; and “metaphysics” to refer to (and, when appropriate, to the study of) that which undergirds ontology—the world, the foundations and fundaments of objects and ontology.
+
+8. This is not to say that ontological items or entities—objects, properties, states of affairs, etc.—are ways of taking the world. Tables, detente, machinists, and love affairs are absolutely not merely epistemic entities—not thoughts, not representations, not ideas, not ingredients in our registration schemes, not patterns of perception, not inferential processes, not types of data structure, not any other purely cognitive or epistemic or machinic configuration. In that sense the view I am defending is stubbornly realist: all these entities are things beyond us, things in the world. The point, though, is that the individuations and abstractions and schemes in terms of which this furniture of the world is framed (individuated, categorized, discretely conceptualized, ontologically “parsed”) are the result of social and individual processes of registration. Tables, détente, people, etc., are not “ways of taking the world.” They are the world taken a certain way.
+
+9. An adequate philosophical analysis of these things would require consideration of traditional categories of content, sense, reference, etc. But the distinction being developed here—between a patch of the world registered as a chair and that which is registered as a chair—does not normally arise, because the referent of the singular term “the chair” is taken to be the object that is the chair, on an assumption that the object exists and has identity independent of its exemplification of the chair property—an assumption not available in the metaphysical view I am defending.
+
+10. “That which” refers to that which plays the role of bare particulars in philosophical substance theories, without projecting object identity into the world as an ontological given.

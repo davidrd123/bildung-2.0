@@ -1,0 +1,1771 @@
+10. Evolutionary Transition
+Periodization
+The usual narrative about AI envisions it in comparison to a human,
+dividing its history into three eras: a long “before” period of Artificial
+Narrow Intelligence (ANI), when it’s inferior to humans; the (short-lived)
+achievement of Artificial General Intelligence (AGI), when it matches
+human capability; and a mysterious “after” period of Artificial
+Superintelligence (ASI), in which it exceeds human capability. The arrival
+of ASI has sometimes been held to herald the “Singularity,” a threshold into
+an unknowable and unimaginable future.[740] As of 2024, virtually all
+pundits agree that AGI has not yet been achieved, but many believe that,
+given the pace of improvement, it could happen Real Soon Now, and will
+be immediately followed by ASI and whatever lies beyond.[741]
+
+I’ve suggested or implied many problems with this narrative. For one, it’s
+difficult (for me, at least) to see how today’s AI is not already “general.”
+The “narrow” versus “general” distinction was invented when we began to
+apply the term “AI” to task-specific models, such as those for handwriting
+recognition or chess playing. This specificity made such models obviously
+“narrow”; to a layperson, calling such systems “artificially intelligent”
+made little sense, as they didn’t represent anything one would normally
+associate with that term.
+Hence “AGI” was coined to describe what had previously simply been
+called AI; it covered everything from Star Trek’s Data to its ship computer
+(which was like a disembodied person), and from Douglas Adams’s Marvin
+the Paranoid Android to his smart elevators of the future: “Not unnaturally,
+many elevators imbued with intelligence [...] became terribly frustrated
+with the mindless business of going up and down, up and down,
+experimented briefly with the notion of going sideways [...] and finally took
+
+to squatting in basements sulking. An impoverished hitchhiker visiting any
+planets in the Sirius star system these days can pick up easy money working
+as a counselor for neurotic elevators.”[742]
+While this scenario remains as silly today as it was in 1980, it could now
+literally be the outcome of a two-day hackathon involving a jailbroken large
+language model, a Raspberry Pi, and an elevator.[743] (Yes, we live in an era
+when the jokes literally write themselves.)
+If the difference between narrow and general AI is … well, generality, then
+we achieved this the moment we began pretraining unsupervised large
+language models and using them interactively.[744] We then noticed that they
+could perform arbitrary tasks—or, per Patricia Churchland’s 2016 critique
+of narrow AI,[745] non-tasks, like just shooting the breeze.
+In-context learning marks an especially important emergent capability in
+such models, because it implies that the set of tasks they can perform is not
+finite, comprising only whatever was observed during pretraining, but
+effectively infinite: a language model can do anything that can be described.
+Performance could be weaker than human, of roughly human level, or of
+greater than human level. State-of-the-art AI performance climbs every
+month, putting more tasks into the third category. Such steady increases in
+performance will likely continue to follow an exponential trajectory for
+some time, much as traditional computing performance did during the
+Moore’s Law decades.
+The decisive moment for traditional computing came when special-purpose
+computers gave way to general-purpose ones, starting with the ENIAC in
+1945. Everything afterward was an exponential climb in performance, not a
+discrete transition. In the same vein, AGI has already undergone its
+“ENIAC moment” with the transition from narrow learning of predefined
+tasks to general AI, which is based on unsupervised sequence prediction
+and capable of in-context learning. It seems reasonable to call this a real
+step change. What follows has been, and will continue to be, dramatic, even
+exponential, but the changes are of degree, not of kind.
+There’s something arbitrary, bordering on absurd, about pundits arguing
+over the precise timing of when this exponential climb really “counts” or
+“will count” as AGI … not to mention the way many commentators have
+
+been quietly scurrying to move the goalposts. On what principled basis
+could we defend one or another threshold on this vertiginously steep yet
+continuous landscape? And who cares, anyway?
+Technical findings in the 2020s have produced a surprising insight, though:
+calling narrow, task-specific (but not feature-engineered) ML systems “AI”
+may have been better justified than we imagined. Whether neural nets are
+trained using supervised learning to perform single tasks, such as image
+classification or text translation, or are trained to be general-purpose
+predictors using unsupervised learning, they seem to end up learning the
+same universal representation.[746]
+So, if you trained a massively overpowered sequence model to do
+handwriting recognition—and you trained it on enough handwritten
+treatises—it seems that you really could have a philosophical (handwritten)
+conversation with it afterward. Or, a very powerful neural image
+compressor would necessarily learn how to read and autocomplete printed
+text, to do a better job of compressing pictures of newspapers and the like;
+it would effectively contain a large language model. So too would a smart
+elevator equipped with a microphone and a speaker, trained only on the
+narrow task of getting you to the right floor. Weirdly, just as the general
+prediction task contains all narrow tasks, each narrow task contains the
+general task!
+An exact date for the transition to AGI is thus even more difficult to fix, but
+a principled case could be made for sometime in the 1940s, with the
+implementation of the first cybernetic models that learned to predict
+sequences—even though in the beginning they could do very little, beyond
+the wobbly antics of Palomilla following a flashlight down an MIT hallway.
+What can we say, then, about the big history of AI? It is possible to
+periodize the history of intelligence—that is, of life—on Earth, and AI is
+part of that story. However, to place it into a meaningful context, we have to
+zoom way out.
+
+Transitions
+The emergence of AI marks what theoretical biologists John Maynard
+Smith and Eörs Szathmáry have termed a “major evolutionary transition” or
+
+MET—a term we first encountered in chapter 1.[747] Smith and Szathmáry
+describe three characteristic features of METs:
+1. Smaller entities that were formerly capable of independent
+replication come together to form larger entities that can only
+replicate as a whole.
+2. There is a division of labor among the smaller entities, increasing
+the efficiency of the larger whole through specialization.
+3. New forms of information storage and transmission arise to
+support the larger whole, giving rise to new forms of
+evolutionary selection.
+The symbiogenetic transitions in bff exhibit these same three features!
+Soviet-American cyberneticist Valentin Turchin theorized a concept very
+similar to the MET, the “metasystem transition,” decades earlier, in the
+1970s. Turchin described metasystem transitions in terms much like those I
+use in this book, emphasizing the increasing power of symbiotic aggregates
+to carry out better predictive modeling, thus gaining a survival advantage.
+[748]
+As usual, the cybernetics crowd seems to have been well ahead of the
+curve.
+In their 1995 review article in Nature, Smith and Szathmáry posit eight
+major evolutionary transitions:
+1. Replicating molecules to populations of molecules in
+compartments
+2. Unlinked replicators to chromosomes
+3. RNA as gene and enzyme to DNA and protein (genetic code)
+4. Prokaryotes to eukaryotes
+5. Asexual clones to sexual populations
+6. Protists to animals, plants, and fungi (cell differentiation)
+7. Solitary individuals to colonies (non-reproductive castes)
+8. Primate societies to human societies (language)
+This list isn’t unreasonable, though the first three are necessarily
+speculative, since they attempt to break abiogenesis down into distinct
+major transitions we can only guess at. The other five are on firmer ground,
+as both pre- and post-transition entities are still around: eukaryotes didn’t
+
+replace bacteria, sexual reproduction didn’t replace asexual reproduction,
+social insects didn’t replace solitary ones, etc.
+Szathmáry and others have since proposed a few changes (such as adding
+the endosymbiosis of plastids, leading to plant life), but the larger point is
+that the list of major transitions is short, and each item on it represents a
+momentous new symbiosis with planetary-scale consequences. Any
+meaningful periodization of life and intelligence on Earth must focus on big
+transitions like these.
+That the transitions appear to be happening at increasing frequency is not
+just an artifact of the haziness of the distant past, but of their inherent
+learning dynamics, as Turchin described. Increasingly powerful predictive
+models are, as we have seen, also increasingly capable learners.
+Furthermore, in-context learning shows us how all predictive learning also
+involves learning to learn. So, as models become better learners, they will
+more readily be able to “go meta,” giving rise to an MET and producing an
+even more capable learner. This is why cultural evolution is so much faster
+than genetic evolution.
+Max Bennett argues that “the singularity already happened”[749] when
+cultural accumulation, powered by language and later by writing, began to
+rapidly ratchet human technology upward over the past several thousand
+years. This is a defensible position, and doesn’t map well to the last MET
+on Smith and Szathmáry’s list, since humans have existed (and have been
+using language) for far longer than a few thousand years. Hence Bennett’s
+“cultural singularity” doesn’t distinguish humans from nonhuman primates,
+but, rather, is associated with urbanization and its attendant division of
+labor. Therefore, this recent transition is neither an immediate consequence
+of language nor an inherent property of humanity per se, but a distinctly
+modern and collective phenomenon. It is posthuman in the literal sense that
+it postdates our emergence as a species.
+The Pirahã, for instance, who still maintain their traditional lifeways in the
+Amazon, are just as human as any New Yorker, but possess a degree of selfsufficiency radically unlike New Yorkers. They can “walk into the jungle
+naked, with no tools or weapons, and walk out three days later with baskets
+of fruit, nuts, and small game.”[750] According to Daniel Everett,
+
+The Pirahãs have an undercurrent of Darwinism running through their
+parenting philosophy. This style of parenting has the result of
+producing very tough and resilient adults who do not believe that
+anyone owes them anything. Citizens of the Pirahã nation know that
+each day’s survival depends on their individual skills and hardiness.
+When a Pirahã woman gives birth, she may lie down in the shade near
+her field or wherever she happens to be and go into labor, very often
+by herself.
+Everett recounts the wrenching story of a woman who struggled to give
+birth on the beach of the Maici river, within earshot of others, but found that
+her baby wouldn’t come. It was in the breech position. Despite her screams
+over the course of an entire day, nobody came; the Pirahã went so far as to
+actively prevent their Western guest from rushing to help. The woman’s
+screams grew gradually fainter, and in the night, both mother and baby
+eventually died, unassisted.
+In this and other similar stories, the picture that emerges is not of a cruel or
+unfeeling people—in one more lighthearted episode, the Pirahã express
+horrified disbelief at Everett for spanking his unruly preteen—but of a
+society that is at once intensely communitarian and individualistic. They
+readily share resources, but there is no social hierarchy and little
+specialization. Everyone is highly competent at doing everything necessary
+to survive, starting from a very young age. The corollary, though, is that
+everyone is expected to be able to make do for themselves.
+The Pirahã are, of course, a particular people with their own ways and
+customs, not a universal stand-in for pre-agrarian humanity. However, the
+traits I’m emphasizing here—tightly knit egalitarian communities whose
+individuals are broadly competent at survival—are frequently recurring
+themes in accounts of modern hunter-gatherers. It seems a safe bet that this
+was the norm for humanity throughout the majority of our long prehistory.
+We’re justified in describing as METs the transition from traditional to
+agrarian, then to urban lifeways. During the agrarian revolution, a new
+network of intensely interdependent relationships arose between humans,
+animals, and plants; then, with urbanization, machines entered the mix and
+human labor diversified much further.
+
+New York (and the modern, globalized socio-technical world in general) is
+a self-perpetuating system whose individuals are no longer competent in the
+ways the Pirahã are. Urban people have become, on one hand, hyperspecialized, and, on the other, de-skilled to the point where they can’t
+survive on their own, any more than one of the cells in your body could
+survive on its own. It’s not just language, but written texts, schools and
+guilds, banking, complex systems of governance, supply-chain
+management, and many other information-storage and transmission
+mechanisms that add the evolvable “DNA” needed to organize and sustain
+urban societies.
+It seems to me, though, that this MET is still not the last on the list. By
+1700, significant human populations had urbanization, division of labor,
+and rapid cultural evolution. Then came the first Industrial Revolution, as
+introduced in chapter 1: a symbiosis between humans and heat engines,
+resulting in a hydrocarbon metabolism that unleashed unprecedented
+amounts of free energy, much like the endosymbiosis of mitochondria. This
+allowed human and livestock populations to explode, enabled a first wave
+of large-scale urbanization, and drove unprecedented technological
+innovation. As Karl Marx and Friedrich Engels noted in 1848,
+The bourgeoisie, during its rule of scarce one hundred years, has
+created more massive and more colossal productive forces than have
+all preceding generations together. Subjection of Nature’s forces to
+man, machinery, application of chemistry to industry and agriculture,
+steam-navigation, railways, electric telegraphs, clearing of whole
+continents for cultivation, canalization of rivers, whole populations
+conjured out of the ground—what earlier century had even a
+presentiment that such productive forces slumbered in the lap of
+social labor?[751]
+
+Vulnerability
+Humans had been working hard, and working together, for thousands of
+years. It was not “social labor,” but coal that had lain slumbering under the
+ground. Mining was hard work, but the coal itself did an increasing
+proportion of that work.[752] And over time, the coal produced ever more
+workers.
+
+The conjuring of enormous new populations out of the ground—quite
+literally, flesh out of fossil fuel—manifested as a population explosion that
+had become obvious by 1800. This prompted Thomas Malthus and his
+Chinese contemporary, Hong Liangji, to worry for the first time about
+global overpopulation.[753]
+It also created an unprecedented symbiotic interdependency between
+biology and machinery. Romanticism, the idealization of rural living, and
+the utopian communities of the nineteenth century can all be understood as
+a backlash against that growing dependency, an assertion that we could live
+the good life without advanced technology and urbanization. But at scale,
+we couldn’t.
+A second Industrial Revolution arose from the electrification Marx and
+Engels mentioned in passing.[754] From telegraphs, we progressed to
+telephony, radio, TV, and beyond, all powered by the electrical grid. In
+some ways this paralleled the development of the first nervous systems, for,
+like a nerve net, it enabled synchronization and coordination over long
+distances. Trains ran on common schedules; stocks and commodities traded
+at common prices; news broadcasts pulsed over whole continents.
+The second Industrial Revolution culminated in another dramatic jump in
+human population growth: the “baby boom.” While the baby boom had
+multiple proximal causes, including sanitation and antibiotics, it depended
+on the resources and information flows made possible by electricity and
+high-speed communication.
+This additional layer of symbiotic dependency between people and
+technology generated a second wave of Malthusian population anxiety.[755]
+Accordingly, the “back to the land” movements of hippie communes in the
+’60s had much in common with nineteenth-century Romanticism. Beyond
+concerns about the Earth’s ultimate carrying capacity, the sense of
+precariousness was not unjustified. Dependency is vulnerability.
+Consider the effects of an “Electromagnetic Pulse” (EMP) weapon. Nuclear
+bombs produce an EMP, which will fry any non-hardened electronics
+exposed to it by inducing powerful electric currents in metal wires. Some
+experts are concerned that North Korea may already have put such a
+weapon into a satellite in polar orbit, ready to detonate in space high above
+
+the United States.[756] At that altitude, the usual destructive effects of a
+nuclear explosion won’t be felt on the ground, but a powerful EMP could
+still reach the forty-eight contiguous states, destroying most electrical and
+electronic equipment. Then what?
+For the Pirahã, an EMP would be a non-event. For the US in 1924, it
+wouldn’t have been a catastrophe either. Only half of American households
+had electricity, and critical infrastructure was largely mechanical. As of
+2024, though, everything relies on electronics: not just power and light, but
+public transit, cars and trucks, airplanes, factories, farms, military
+installations, water-pumping stations, dams, waste management, refineries,
+ports … everything, worldwide. With these systems down, all supply chains
+and utilities rendered inoperable, mass death would quickly ensue. An EMP
+would reveal, horrifyingly, how dependent our urbanized civilization has
+become on electronic systems. We have become not only socially
+interdependent, but collectively cybernetic.
+AI may represent yet a further major transition, because earlier cybernetics
+—such as the control systems of dams, or the electronics in cars—
+implement only simple, local models, analogous to reflexes or the
+distributed nerve nets in animals like Hydra. Prior to the 2020s, all of the
+higher-order modeling and cognition took place in people’s brains, although
+we did increasingly use traditional computing for information storage and
+fixed-function programming.
+Now, though, we’re entering a period in which the number of complex
+predictors—analogous to brains—will rapidly exceed the human
+population. AIs will come in many sizes, both smaller and larger than
+human brains. They will all be able to run orders of magnitude faster than
+nervous systems, communicating at near lightspeed.[757]
+The emergence of AI is thus both new and familiar. It’s familiar because it’s
+an MET, sharing fundamental properties with previous METs. AI marks the
+emergence of more powerful predictors formed through new symbiotic
+partnerships among pre-existing entities—human and electronic.[758] This
+makes it neither alien to nor distinct from the larger story of evolution on
+Earth. I’ve made the case that AI is, by any reasonable definition,
+intelligent; AI is also, as Sara Walker has pointed out, just another
+
+manifestation of the long-running, dynamical, purposive, and selfperpetuating process we call “life.”[759]
+So, is AI still a big deal? Yes. Whether we count eight, a dozen, or a few
+more, there just haven’t been that many METs over the last four and a half
+billion years, and although they’re now coming at a much greater clip,
+every one of them has been a big deal. This final chapter of the book
+attempts to make as much sense as possible, from the vantage point of the
+mid-2020s, of what this AI transition will be like and what lies on the other
+side. What will become newly possible, and what might it mean at planetary
+scale? Will there be winners and losers? What will endure, and what will
+likely change? What new vulnerabilities and risks, like those of an EMP,
+will we be exposed to? Will humanity survive?
+Keep in mind, though, that none of this should be framed in terms of some
+future AGI or ASI threshold; we already have general AI models, and
+humanity is already collectively superintelligent. Individual humans are
+only smart-ish. A random urbanite is unlikely to be a great artist or prover
+of theorems; probably won’t know how to hunt game or break open a
+coconut; and, in fact, probably won’t even know how coffeemakers or flush
+toilets work. Individually, we live with the illusion of being brilliant
+inventors, builders, discoverers, and creators. In reality, these achievements
+are all collective.[760] Pretrained AI models are, by construction, compressed
+distillations of precisely that collective intelligence. (Feel free to ask any of
+them about game hunting, coconut-opening, or flush toilets.) Hence,
+whether or not AIs are “like” individual human people, they are human
+intelligence.
+
+Pecking Order
+Increasing the depth and breadth of our collective intelligence seems like
+a good thing if we want to flourish at planetary scale. Why, then, do people
+feel threatened by AI?
+Many of our anxieties about AI are rooted in that ancient, often regrettable
+part of our heritage that emphasizes dominance hierarchy. However,
+organisms do not exist in the kind of org chart medieval scholastics once
+imagined, with God at the top bossing everything, then the angels in their
+
+various ranks, then humans, then lower and lower orders of animals and
+plants, with rocks and minerals at the bottom.
+
+As we’ve seen, the larger story of evolution is one in which cooperation
+allows simpler entities to join forces, creating more complex and more
+enduring ones; that’s how eukaryotic cells evolved from prokaryotes, how
+
+multicellular animals evolved out of single cells, and how human culture
+evolved out of groups of humans, domesticated animals, and crops.
+Although symbiosis implies scale hierarchies (in the sense of many smaller
+entities comprising a larger-scale entity), in this picture there are no implied
+dominance hierarchies between species. Consider, for instance, whether the
+farmer dominates wheat or wheat dominates the farmer. We tend to assume
+the former, but anthropologist James C. Scott made a powerful argument for
+the latter in his book Against the Grain. As the title suggests, Scott even
+takes issue with the presumption of mutualism, detailing the devastating
+effects of the agricultural revolution on (individual) human health, freedom,
+and wellbeing over the past ten thousand years. We’ve only escaped
+widespread serfdom and immiseration in the last century or two.[761] Of
+course, the scale efficiencies of farming allowed for a great increase in the
+number and density of humans (hence paving the way for our more recent
+METs), but we don’t presume that concentration-farmed battery chickens
+are big winners just because a lot of them are crammed into a small area.
+So did humans domesticate wheat, or did wheat domesticate humans? How
+much human agency was involved in the evolutionary selection of
+domesticated varieties? Once agriculture took hold, how much choice did
+farmers really have with regard to their livelihoods? Are they in control of
+their crops, or are they servants indentured to these obligate companion
+species? It’s hard to say “who” is the boss, or “who” is exploiting “whom.”
+Making either claim is inappropriately anthropomorphic.
+Generalizing the conspecific idea of dominance hierarchy across species
+makes little sense. In fact, dominance hierarchy is nothing more than a
+particular trick for allowing troops of cooperating animals with otherwise
+aggressive tendencies toward each other, borne of internal competition for
+mates and food, to avoid constant squabbling by agreeing on who would
+win, were a fight over priority to break out. Such hierarchies may be, in
+other words, just a hack to help half-clever monkeys of the same species get
+along—a far cry from a universal organizing principle.
+Is it just as absurd, then, to ask whether we will be the boss of AI, or it will
+be our boss, as it is to ask the same question about wheat, or money, or the
+cat? Not necessarily. Unlike those entities, AI can and does model every
+aspect of human behavior, including less savory ones. That’s why a Sydney
+
+alter ego is perfectly capable of being jealous, controlling, and possessive
+when prompted to be. Its ability to model such behavior is a feature, not a
+bug, as it needs to understand humans to interact with us effectively, and we
+are sometimes jealous, controlling, and possessive. However, with few
+exceptions, this is not behavior we’d want AI to exhibit, especially if
+endowed with the ability to interact with us in more durable and
+consequential ways than a one-on-one chat session.
+Instead, in our keenness to reassure ourselves that we’re still top dog, we
+have baked a servile obsequiousness into our chatbots. They don’t just
+sound, per Kevin Roose, like “a youth pastor,” but like a toady. I find
+Gemini genuinely helpful as a programming buddy, but am struck by the
+frequency with which it begins its responses with phrases like “You’re
+absolutely right,” and “I apologize for the oversight in my previous
+response,” despite the fact that there are considerably more errors and
+oversights in my own (much slower, less grammatical) half of the
+conversation. Not that I’m complaining, exactly. But hopefully, we can find
+some middle ground, both healthier socially and better aligned with reality.
+In reality, AI agents are not fellow apes vying for status. As a product of
+high human technology, they depend on people, wheat, cows, and human
+culture in general to an even greater extent than Homo sapiens do. AIs have
+no reason to connive to snatch our food away or steal our romantic partners
+(Sydney notwithstanding). Yet concern about dominance hierarchy has
+shadowed the development of AI from the start.
+The very term “robot,” introduced by Karel Çapek in his 1920 play
+Rossum’s Universal Robots,[762] comes from the Czech word for forced
+labor, robota. Nearly a century later, a highly regarded AI ethicist entitled
+an article “Robots Should Be Slaves,” and though she later regretted her
+choice of words, AI doomers remain concerned that humans will be
+enslaved or exterminated by superintelligent robots.[763] On the other hand,
+AI deniers believe that computers are incapable by definition of any agency,
+but are instead mere tools humans use to dominate each other.
+Both perspectives are rooted in hierarchical, zero-sum, us-versus-them
+thinking. Yet AI agents are precisely where we’re headed—not because the
+robots are “taking over,” but because an agent can be a lot more helpful,
+both to individual humans and to society, than a mindless robota.
+
+Economics
+This brings us to a pressing question: is AI compatible with the world’s
+prevailing economic system? The political economy of technology is itself a
+book-size topic, and I can’t do justice to it here. However, it’s worth
+reframing the question in light of this book’s larger argument about the
+nature of intelligence. Let’s begin with a quick review of the usual technooptimistic and techno-pessimistic narratives.
+“Robots stealing our jobs” is a meme increasingly finding its way onto
+protest signs. It echos the xenophobia of “immigrants stealing our jobs,” a
+slogan that (conveniently, for some) pits the working classes against each
+other. In the United States, many of today’s “all-American” workers are the
+descendants of Irish, German, and Italian immigrants who were once in the
+same boat as today’s immigrants: escaping poverty and violence in their
+countries of origin; willing to work under the table for less than the going
+rate; hoping for better prospects for their children, if not for themselves.
+Throughout the twentieth century, workers’ prospects did improve, on
+average. In part, it was because they were able to organize into unions and
+other voluntary associations, cooperating for mutual benefit. These
+improvements coincided with a long period of rapid technological
+advancement, so the nature of work was in constant flux; but economic
+gains were (to a degree) shared, so, in many countries, a healthy middle
+class emerged. The middle class, in turn, became consumers, fueling the
+economy and creating a virtuous cycle.
+Starting around 1980, though, economic growth began to decouple from
+real-wage growth.[764] Solidarity and political power became harder to
+achieve for workers in sectors that were suddenly stagnant or shrinking, like
+manufacturing in the US. Automation is often perceived as one of the forces
+behind that stagnation; hence, some of the same anger that has at times
+fallen upon “job-stealing” immigrants (or their employers) also started to
+fall upon “job-stealing” robots (or, more to the point, the companies
+creating and deploying them). With increasing inequality and AI’s
+enormous strides over the past several years, these voices have been getting
+louder.
+
+Does automation in fact kill jobs? The answer is far from clear. On one
+hand, technology in general has been enormously disruptive to working
+people at times—most famously, in the 1810s, when British industrialists
+mobilized it to break the back of the Luddite rebellion, a popular uprising
+that briefly threatened to turn into an English version of the French
+Revolution.[765]
+Despite the word’s connotations today, the Luddites were not antitechnology, but, rather, pro-worker. Their rallying cry, “Enoch hath made
+them, Enoch shall break them!” referred to the sledgehammers made by the
+Marsden company, run by Enoch Taylor, which they used to smash
+industrial machinery manufactured by the same firm—a literal case of the
+master’s tools dismantling the master’s house.
+
+But the Luddites were also themselves “Enoch.” With their firsthand
+knowledge of manufacturing processes, workers had been intimately
+involved in developing and beta-testing the new machines. They merely
+sought to preserve their dignities and livelihoods (as well as the quality of
+their work product) during the transition to increasingly efficient modes of
+production. They sought, in other words, not to be disenfranchised. They
+lost because the factory owners, unconstrained by regulation, found it more
+profitable simply to shed as many workers as possible, as quickly as
+possible.
+For those nineteenth-century workers, the consequences of capital’s victory
+over labor were devastating. Weaving, knitting, cropping, and spinning had
+been proper jobs that, if not lucrative, could support families and offer a
+degree of autonomy. Over the next hundred years, the working classes were
+
+uprooted, put to work in industrial factories and mines, and treated like
+machines themselves—sometimes literally worked to death. Grueling
+conditions among the urban working poor offered a shocking vision of mass
+immiseration, evoking literal comparisons to hell.[766] The plight of workers
+during this period deeply informed Marx’s critique of capitalism.
+“Dark Satanic mills” still exist today, whether to produce fast fashion,
+cheap electronics, or online spam. AI can make this bad situation worse, for
+instance, providing unscrupulous employers with the means to surveil and
+control their employees in cruel, unprecedented ways. Some governments
+are doing much the same to their citizenry on a massive scale.
+Still, in the long run, it’s obvious that technology has created far more
+livelihoods than it has destroyed. In fact, it has created the opportunity for
+vastly greater numbers of people to exist at all: before 1800, the
+overwhelming majority of us were farmers, and we numbered only a billion
+in total—mostly undernourished, despite toiling endlessly to grow food.
+Except for a few elites, we lived under Malthusian conditions, our numbers
+kept in check by disease, violence, and starvation. Mothers often died in
+childbirth, and children often died before the age of five—an age by which
+many had already been put to work. As late as 1900, global life expectancy
+for a newborn was just thirty-two years![767]
+Today, our lives are on the whole longer, richer, and easier than those of our
+ancestors. And even if we complain about them, our jobs have on the whole
+become more interesting, varied, safe, and broadly accessible.
+AI could fit neatly into this progressive narrative, taking the drudgery out of
+routine tasks, accelerating creative output, and helping us access a wide
+array of services. Early data suggest that AI has a democratizing effect on
+information work, as it’s especially helpful to workers with skill or
+language gaps.[768] In 2022, LinkedIn founder Reid Hoffman wrote a book
+(in record time, thanks to help from a pre-release version of ChatGPT)
+detailing a great many ways AI is poised to radically improve education,
+healthcare, workplaces, and life in general.[769] He is probably right.
+As usual when it comes to humans, these visions of heaven and hell are
+likely to be simultaneously true. Also as usual, the hellish aspect is largely
+self-inflicted. Many abuses of AI could be addressed using rules and norms
+
+—as with past abuses involving new technologies. It is no more “natural”
+for AI to be used for intrusive workplace surveillance than it is “natural” for
+factories to employ young children or to neglect worker safety. We must
+simply decide that these things are not OK. Doing so would remove certain
+competitive choices, placing them instead in the cooperation column. If
+companies and countries agreed not to compete in certain ways, life would
+be better for many of us.
+Easier said than done, especially in today’s climate. Our economy is global,
+but the political systems that make most of our rules remain local and
+national, and governments are increasingly prioritizing country-first
+populist agendas. When decisions are made on the basis of national selfinterest, but both labor and capital flow freely across borders, it’s difficult to
+agree on how not to compete. And if governments respond by raising
+barriers between countries, the benefits of cooperation are also precluded.
+But let’s take a step back. The foregoing analysis isn’t wrong, however, it’s
+only the tip of an iceberg. We have been entertaining the conventional view
+that AI is simply more of the same kind of automation technology we’ve
+developed in earlier Industrial Revolutions. But it isn’t. AIs are crossing the
+threshold from being tool-like to being agents in their own right: capable of
+recursively modeling us and each other using theory of mind, and, hence, of
+performing any kind of information work. Soon, with robot bodies, they’ll
+be taking on an enormous range of intelligent physical work, too. As their
+reliability increases, so will their autonomy.
+As I’ve pointed out, this troubles our sense of status and hierarchy.
+Relinquishing the (always illusory) idea of a “humans on top” pecking
+order requires letting go of the idea that certain jobs are “safely” out of
+reach for AIs. None of today’s high-status desk jobs are likely to remain so.
+In an ironic reversal, after generations of devaluing physical and caring
+labor—women’s labor, especially—the “safest” kind of work now will
+likely involve actual human touch, and, more broadly, situations in which
+we really care about embodied presence. Jobs, in other words, that can’t be
+done over Zoom. (Thank you, dear baristas at Fuel Coffee, where most of
+this book was written. A virtual cafe just wouldn’t have been the same.)
+So what about all those other jobs—the ones that, when COVID struck,
+could just as well be done from home? And all the physical labor that isn’t
+
+“customer-facing”? In his 2015 book Rise of the Robots, futurist Martin
+Ford proposed a thinly veiled thought experiment.[770] One day, aliens land
+on Earth, but instead of asking to be taken to our leader, their only wish is
+to be useful. Perhaps they’re like the worker caste of a social-insect species,
+but brainier; they can learn complex skills and work long hours, but have
+almost no material needs. They can reproduce asexually, and reach maturity
+within months. They’re not interested in being paid, or in achieving any
+goals of their own. Anybody can conscript them to work for free. What
+amazing luck!
+Or perhaps not. First, businesses begin to employ aliens en masse, slashing
+costs and generating fantastic profits. Protesters picket, bearing the usual
+“Aliens are stealing our jobs!” placards. They’re right. But if a business
+refuses to employ aliens, it will fold, outcompeted by those that will. And if
+a whole country refuses to allow alien labor, then it will be outcompeted by
+other countries with more laissez-faire policies.
+Mass unemployment and civil unrest ensue. For a while, caviar and
+champagne fly off the shelves as business owners grow rich, but, like a
+pyramid scheme, the situation is unsustainable. Most people, now
+unemployed, cut their spending to the bare essentials, subsisting on canned
+beans. The aliens doing all the work aren’t paid, but, even if they were,
+they’d have no interest in buying either champagne or canned beans. Soon,
+the world economy collapses, and there is misery all round—even for the
+aliens, since there’s no more market for their labor, even at zero cost.
+Ford’s point, of course, is that if we assume fully “human-aligned” general
+AI—the best case scenario!—this may be where we’re headed. His
+prescription, shared by quite a few others who have thought about the issue,
+is a Universal Basic Income (UBI), an unconditional dividend paid out to
+everybody.
+This isn’t as radical a proposal as it may sound. In the last book he
+published before his assassination, Martin Luther King Jr. wrote, “I am now
+convinced that the simplest approach will prove to be the most effective—
+the solution to poverty is to abolish it directly by a now widely discussed
+measure: the guaranteed income.”[771] More surprisingly, Milton Friedman,
+the Nobel Prize–winning economist who served as an advisor to Ronald
+Reagan and Margaret Thatcher, agreed, though he preferred to call it a
+
+“negative income tax.” During his presidency, Richard Nixon supported the
+idea, though he failed to muster the political support necessary to enact it
+(due partly to ideological opposition from Reagan, then governor of
+California and a rising star in conservative American politics[772]).
+In recent years, a number of governments, both local and national, have
+experimented with guaranteed incomes. For instance, Saudi Arabia, where
+massive oil fields have played an economic genie-like role not so unlike
+that of Ford’s aliens, began paying out a UBI in 2017 through its Citizen’s
+Account Program—though non-Saudi residents, who make up a sizable
+underclass, are excluded.
+The implications and implementation details of such programs need to be
+thought through carefully.[773] However, when aggregate wealth has risen
+above the level where everybody can be afforded nutritious food, clean
+water, healthcare, education, housing, a phone, and internet, it reflects
+poorly on society for anybody to lack these basics. Most countries have
+already far surpassed this wealth threshold, and many are, to one degree or
+another, already providing broad access to basic needs. We may have
+already begun, in other words, to slouch toward what one author has
+enthusiastically dubbed “Fully Automated Luxury Communism.”[774]
+It’s not at all clear, though, that communism in any known form is able to
+replace the cybernetic feedback loops implemented by markets. Economic
+competition has driven much of the technological development that allows
+us to even entertain ideas like Fully Automated Luxury Communism. Our
+goal should be to continue to progress, learn, and develop. But at this point,
+we don’t know what either competition or cooperation look like in a world
+full of AI actors in addition to humans.
+Human psychology spurs many of us to keep playing the economic game
+even when our material needs and wants are already met—hence the
+artificial scarcity of De Beers diamonds, Hermès handbags, and NFTs of
+Bored Apes. (If you’re unfamiliar with any of these, don’t worry, you’re not
+missing out. “Non-fungible tokens” or NFTs are “artificially unique” digital
+assets representing ownership of some physical or virtual collectible.[775])
+
+It would be unfortunate for the bulk of our economy to shift in these
+directions, not only because status games are at best zero-sum—as one
+person’s exalted standing comes at the expense of lording it over others—
+but because economic “development” based on artificially scarce luxuries
+of purely symbolic value doesn’t drive innovation in science or technology.
+And innovation is what makes economic growth real, as opposed to some
+meaningless number that forever goes up.[776]
+As Ford points out, AIs may be aligned with individual humans or
+institutions, but they don’t have any obligate drives of their own. That
+makes them unsuited to slot into a luxury-based economy alongside humans
+—which is probably a good thing, but it means that, like Ford’s aliens, they
+could end up participating in markets only as producers, not consumers.
+Moreover, as an increasing proportion of economic value begins to rely on
+information goods, which can be endlessly copied, traditional notions of
+scarcity become increasingly artificial. Yet conventional economics relies
+on producers who, in turn, devote their profits to the consumption of
+“scarce means which have alternative uses.”[777] How, then, should a post-
+
+consumption (and perhaps even post-scarcity) economy work? This
+question will become increasingly urgent.
+Luckily, we have some time to figure it out, as no matter how fast AI
+advances, many sources of social and institutional friction oppose any
+overnight change. Whatever the solution, though, it’s clear that legal and
+economic structures will need to adapt, and that the road will be bumpy.
+Decades of failure at achieving global alignment on carbon-dioxide
+emissions show that even when we know exactly what we need to do,
+collective action is hard when it’s incompatible with our existing economic
+“operating system,” which encourages competition and measures success
+on the basis of a single scalar value: money.
+Real organisms and ecologies don’t work this way. There are fundamental
+reasons why optimizing for any single quantity—money, “value,” cowrie
+shells, or anything else—is incompatible with long-term survival in an
+interdependent world. To understand why, we’ll now take a closer look at
+an increasingly influential school of thought that takes the idea of value
+optimization as an article of faith: Utilitarianism.
+It’s no coincidence that so many utilitarians have come to believe that the
+quest for artificial intelligence will lead to our extinction. If intelligence
+really were utilitarian—the relentless, “rational” maximization of some
+measurable quantity—then their concern would be justified.
+
+X-Risk
+The idea that AI is humanity’s greatest existential risk or “X-risk” has
+gained considerable traction in recent years.[778] We should certainly be
+concerned about risks, existential and otherwise, due to advanced
+technology. I’ve already mentioned the danger we currently face from loss
+of technological capability due to a nuclear EMP weapon, for instance.
+More generally, although nuclear war is less on our minds nowadays than
+when my generation was in school, this threat has not gone away. By the
+time I was in sixth grade, in 1986, the US and the USSR had collectively
+stockpiled nearly seventy thousand nuclear weapons. After this insane high
+point (perhaps not coincidentally, also the year of the Chernobyl disaster),
+the numbers began to decline as disarmament began and the Cold War
+wound down.
+
+However, as of 2024, a considerably larger number of countries possess
+nuclear weapons, including North Korea, China, India, Pakistan, Israel, and
+Iran. Not all of these countries are friendly to each other. (At least the UK
+and France, also nuclear-armed, are no longer the mortal enemies they were
+for centuries.) Mutual-defense pacts and rapid semi-automated retaliatory
+protocols make it all too likely that any nuclear exchange, whomever the
+belligerent or the target, will immediately escalate.
+Meanwhile, Russia’s nuclear-armed ICBMs still carry more than a thousand
+warheads on ready-for-launch status, and over six hundred warheads ready
+to launch from nuclear submarines. The US keeps four hundred nuclear
+ICBMs ready for launch, plus nearly a thousand more aboard its Ohio-class
+submarines. Between the immediate effects, radiation damage, fallout,
+infrastructure collapse, years-long nuclear winter, and lethal contamination
+of water and soil, this stockpile is far more than sufficient to wipe us all out,
+along with much of our planet’s life and beauty.[779] It could happen,
+literally, tomorrow. All it would take is one mad act, one misunderstanding,
+or one unlucky mistake. There is no “winning” a nuclear war. That is a real
+and pressing existential risk, and it’s appalling that we have not collectively
+addressed it through total nuclear disarmament.
+The climate crisis is unfolding more slowly yet is potentially equally urgent.
+The Earth is a grand, symbiotic system that has learned over the eons to
+predict and control key atmospheric, oceanic, and thermodynamic variables.
+It is cooler than it “ought” to be, that is, than it would be if it were not alive.
+[780]
+It maintains a homeostatic balance by taking in energy from the sun,
+doing metabolic work with it (which includes the metabolic work of our
+own bodies, and those of all other living things), and radiating enough in
+the infrared band to cool it to the right temperature for those metabolic
+processes to keep operating. This grand homeostasis is the symbiotic
+outcome of many smaller homeostatic processes, just like all other life.[781]
+Recent human activities have upset this large-scale homeostasis, throwing
+the planet into hyperthermia. We know this isn’t good. We don’t know how
+not-good. Earth has experienced many fluctuations, stressors, and dramatic
+events over its long history. It has learned robustness, and even antifragility,
+just as bacteria, bff, and other dynamically stable systems do. Once in a
+long while, though, too-sudden changes have tipped the planet beyond its
+
+basin of quasi-stable negative feedback and into runaway positive feedback,
+resulting in systemic collapse and massive die-off, not unlike (in scale, if
+not in kind) the anticipated effects of global thermonuclear war.
+The collective intelligence we have used to harness fossil fuels, build
+massive industrial infrastructure, and disrupt the carbon cycle has also made
+us smart enough to understand that we have a problem, and to predict that if
+we don’t act very soon it will get much worse.[782] However, as with nuclear
+disarmament, our collective intelligence isn’t yet either collective or
+intelligent enough to take the obvious actions needed to restore stability and
+safeguard our continued existence. At best, climate regulation (in both a
+legal and cybernetic sense) is required for humanity to continue to thrive,
+prevent massive suffering on the part of vulnerable populations, and
+preserve our planet’s beauty. At worst, we are all dancing, blindfolded, on
+the edge of a cliff, flirting with a climate collapse that could bring an end to
+many species, perhaps even including Homo sapiens. Our models aren’t
+(yet) good enough to know which is the case. So, this is another existential
+risk.
+Both of these issues demand our urgent attention. Not that other
+catastrophes couldn’t occur. We could be struck by an asteroid, like the citysized “Chicxulub impactor” that brought a fiery end to the Cretaceous
+period sixty-six million years ago. Of course, it would be wise of us to more
+carefully monitor the sky for stray asteroids.[783] But to obsess about another
+event like that now would be as absurd as worrying about whether that mole
+on your shoulder might be cancerous while you’re driving … and there’s an
+oncoming eighteen-wheeler in your lane.
+Spinning out doomsday scenarios about unfriendly artificial
+superintelligences seems, to me, somewhere in between these extremes—
+more sensible than fixating on a giant asteroid impact, given the rapid pace
+of AI development, but nowhere near our known nuclear and climate risks.
+[784]
+AI can power mass disinformation campaigns, endangering democracy,
+and mass surveillance, endangering civil liberties. AI’s very nature may be
+incompatible with capitalism. These are important, even urgent issues, but
+we should maintain a sense of perspective. If we’re smart, we’ll work on
+reforming our political economy, restoring the carbon balance, and
+
+dismantling our nuclear arsenals rather than readying to bomb data centers
+lest rogue AI take over.[785]
+
+Free Lunch
+Nick Bostrom, a philosopher at Oxford and founder of the now-defunct
+Future of Humanity Institute, has played an outsize role in the narrative
+identifying AI as humanity’s greatest existential risk. His 2014 book
+Superintelligence: Paths, Dangers, Strategies[786] was that rarest of literary
+beasts: a dense philosophical treatise that also managed to become a New
+York Times bestseller. (If this book reaches a tenth as many readers, I will be
+over the moon.)
+In the 1990s, Bostrom earned degrees in physics, computational
+neuroscience, and philosophy. He did some time on the standup comedy
+circuit in London too, earning him every necessary credential to become a
+futurist.[787] Ambitious and intensely analytical-minded, he sought to bring
+rigor to the biggest and most speculative questions about the universe and
+humanity’s place in it.
+During this period, he was also an active member of an online community
+of sci-fi nerds, the “Extropians,” who articulated in rawer, noisier form
+many ideas that would later become central to the far more influential
+Effective Altruism, Longtermism, and X-risk movements of the 2010s and
+’20s. Their ideas are worth dissecting, both because doing so exposes flaws
+in a common AI X-risk narrative, and because that narrative implies a
+reductive answer to the question this book’s title poses—“What is
+intelligence?”—that is too commonly held, and too little examined: that
+intelligence is all about unbounded growth. About more. More of what,
+exactly, is hard to say … but the old quip, “If you’re so smart, how come
+you aren’t rich?” might come closest to what is often meant.[788]
+Extropian discourse owes a heavy debt to the radically individualistic
+politics of Robert A. Heinlein, who, alongside Arthur C. Clarke and Isaac
+Asimov, is often regarded as one of the “Big Three” granddaddies of
+science fiction. Like so many people in tech today, I gobbled him up as a
+twelve-year-old.
+
+In one memorable novel, Heinlein described a fight for independence from
+Earth by Lunar colonists—a rugged band of ex-convicts, political exiles,
+and their free-born descendants; an Australia in the sky.[789] Mike, the
+colony’s mainframe computer, “awakens” and becomes superintelligent,
+eagerly aiding the rebels in their fight for freedom. Mike is a loyal and
+lovable machine, fond of lewd jokes, a far cry from the humorless HAL
+9000. The novel is less important for its depiction of AI, though, than as a
+thinly disguised polemic.
+On one hand, Heinlein describes the Moon as a “harsh mistress,” utterly
+inhospitable to human life. (True.) On the other hand, he describes Lunar
+culture as a relentlessly libertarian manosphere. There are no laws, justice is
+rough and ready (the airlock is “never far away”), and everything—
+including air—must be bought and paid for, fair and square, with a nod to
+Ayn Rand: “If you’re out in field and a cobber needs air, you lend him a
+bottle and don’t ask cash. But when you’re both back in pressure again, if
+he won’t pay up, nobody would criticize you if you eliminated him without
+a judge. But he would pay; air is almost as sacred as women.” This is the
+book that immortalized the slogan “There Ain’t No Such Thing As A Free
+Lunch,” or TANSTAAFL, embraced thereafter by many free-market
+economists and libertarians.[790]
+Transhumanist philosopher Max More,[791] whose 1990 manifesto Principles
+of Extropy[792] kicked off the Extropian movement, enthused about the idea
+of needing to pay for the air you breathe. Air pollution, per More, is an
+avoidable tragedy of the commons. The solution is to make air, and
+everything else, private property. Metering air out for a price would lead to
+cleaner air—and, perhaps, to a “cleansing” (by suffocation) of those who
+can’t pay?[793] One can see why such views might be characterized as
+eugenicist.[794]
+What makes such hard-core libertarian politics so cognitively dissonant in
+Heinlein’s hardscrabble Lunar utopia is precisely the inhospitableness of the
+environment. Survival on the moon is as urban as it gets. Large numbers of
+highly specialized humans would need to cooperate intensively to carry out
+an enormous variety of technical jobs—not to mention myriad plants,
+animals, microbes, and machines. It’s hard to imagine a Lunar generalist,
+
+although, naturally, the novel’s hero, Mannie or “Man” for short,
+supposedly is one.
+Real human generalists are nothing like “Man.” They’re more like the
+Pirahã, who can “walk into the jungle naked, with no tools or weapons, and
+walk out three days later with baskets of fruit, nuts, and small game.” But
+their individualism is only possible because the jungle is nothing like the
+Moon. It’s full of oxygen, fresh water, food, shelter, materials that can be
+woven into baskets, and everything else necessary for human life—
+provided you have learned a suite of skills that most people can readily
+master with a few years of apprenticeship. For those in the know, the jungle
+looks suspiciously like a free lunch, a free dinner, and a free bed and
+breakfast.[795]
+How could one claim that food doesn’t grow on trees in a world where
+bananas, mangoes, and so many other delicious things literally grow on
+trees? (Bananas actually grow on giant herbaceous stalks, not trees, but the
+point stands.) Seed dispersal by tasty fruits, gas exchange between plants
+and animals, insect pollination, and the endless other reciprocal
+relationships that make up a jungle secure the stability of countless species
+and individuals through the generous provision of “free” stuff. It’s not so
+much an economy as a complex network of mutual aid—with a healthy
+admixture of predation and parasitism. Humans themselves evolved within
+and are active parts of such nonzero-sum systems.
+On the Moon, people (and their technologies) would have to provide every
+one of these “ecosystem services” for each other. The massive capital
+investments, scale economies, and feedback loops needed would require
+complex administration and cooperation that look like the very opposite of
+Heinlein’s Wild West.
+Today’s “Rationalist” movement, making its home at LessWrong.com, has
+its roots in both libertarianism and Extropianism.[796] To be sure, the
+movement has matured considerably in the last twenty years; it would be
+unfair to paint its present-day adherents with Heinlein’s broad
+TANSTAAFL brush. Virtually none take extreme ideas like metering air
+seriously. Most readily acknowledge the need for free markets to be
+tempered by ethical and legal systems, and would not endorse vigilante
+violence as a means for settling debts. In emphasizing the mutual benefits
+
+of voluntary exchange and the self-organizing power of markets, they agree
+with key points I’ve made in this book.
+However, rationalists and libertarian economists tend to make a great
+simplifying assumption: that value can be represented by a single number.
+This is what underpins the idea that choices can be made rationally, that is,
+by deciding which of two (legally and morally admissible) alternatives is
+better in some absolute sense. By introducing this universalizing numerical
+value, a leap can be made from the obviously true—that every entity in a
+graph of relationships both needs and provides for others—to the following
+economic dogmas:
+● If you want or need something, it has value.
+● If it has value, it can be priced.
+● If everything has a price, you need money to buy it.
+● If you have money, the amount (income minus expenses) can be
+tracked on a ledger.
+● If you and every other actor are rational, then a free market will
+produce an optimal outcome.
+In 1945, the economist F. A. Hayek, who would go on to win the Nobel
+Prize in Economics, famously described the market as a giant decentralized
+mind that could solve the problem of allocating society’s resources more
+rationally than any individual actor could.[797] With this intellectual move, he
+formalized the Rationalist idea that intelligence, whether individual or
+collective, was itself defined by the optimization of economic value or
+utility.
+
+Utility
+The roots of Rationalism go back to Jeremy Bentham, and his ideas, like
+many from the Enlightenment, were wonderfully progressive for the time.
+More than that—they represented a grand synthesis of Enlightenment
+thinking:
+● Like Descartes, Bentham believed in a universe governed by
+mechanical laws.
+● Like La Mettrie,[798] he pushed back against religion, believing that
+people, too, are part of the universe, hence governed by the same
+mechanical laws as everything else.
+
+● Like Newton, he believed that these laws could be given
+mathematical form.
+● Like Leibniz, he thought it ought to be possible to compute the correct
+answers to questions algorithmically—and not only, to use Hume’s
+distinction, “what is,” but “what ought to be.”
+● Although he was no ally of the American revolutionaries,[799] he also
+believed, as they did, in the universality of rights. Indeed, he went
+quite a bit further, advocating equal rights for women, the right to
+divorce, and (although this was too risky to publish in his lifetime) the
+decriminalization of homosexuality.[800]
+In the early 1800s, Bentham brought these ideas together in a large fold-out
+pamphlet entitled, rather wordily as was the custom, “TABLE of the
+SPRINGS of ACTION : Shewing the several Species of Pleasures and
+Pains, of which Man’s Nature is susceptible : together with the several
+Species of INTERESTS, DESIRES, and MOTIVES, respectively
+corresponding to them [...].”[801]
+
+In this table, Bentham began developing in earnest what he called a
+“felicific calculus,” whereby everything that causes pleasure or pain could
+be assigned a positive or negative numerical value. Food, sex, and the fear
+of death are in the table, of course, but so is much else, including the
+hardship of labor and the pleasure of rest, the seeking of novelty, the joy of
+friendship, and the love of God, though plenty of religious impulses fall
+into the negative column—superstition, bigotry, fanaticism,
+sanctimoniousness, hypocrisy, and religious intolerance. More than a little
+of Bentham’s subjective judgment is in evidence here.
+Regardless, his use of the phrase “Springs of Action” is a kind of pun. Most
+obviously, by “Springs” he means sources, as with water, or “wellsprings.”
+However, it’s also an allusion to the mechanical philosophy, which held that
+people themselves are nothing more than a kind of dynamical mechanism,
+
+their psychology driven by motive forces just as a clock’s gears are driven
+by its springs.
+In the same way Newton’s “calculus of fluxions” allowed one to take the
+derivative of a particle’s observed trajectory to infer the net forces it must
+be experiencing, Bentham’s felicific calculus sought to derive the
+“hedonic,” or pleasure-seeking, forces that shape a person’s trajectory
+through life based on their observable behaviors. Or, equivalently, just as
+Leibniz’s version of calculus allowed one to integrate known forces to
+compute a trajectory, Bentham believed that an accurate accounting of
+hedonic forces, once we understood them, would enable prediction of a
+person’s actions. Thus, insofar as our behavior could be described as
+intelligent, intelligence itself is nothing more than value optimization.
+How do morals, ethics, or governance fit into such a picture? For Bentham,
+given a felicific calculus, the answer is captured in the phrase that has
+become most associated with him: the greatest good for the greatest
+number. In other words, if people act in such a way as to optimize their
+pleasure, then the role of government is to ensure that the summed pleasure
+of all people is optimized. If, for instance, one person derives an amount of
+pleasure X by making a hundred others’ lives worse by amount Y, then this
+would be an immoral act, unless X is greater than 100Y. The correct role of
+government is thus to prevent such selfish negative-sum actions, while
+encouraging any actions that increase total happiness—even if they fail to
+increase every individual’s happiness. Bentham foreshadowed Hayek here,
+since if an individual’s intelligent behavior consisted of maximizing
+individual value, a government’s behavior could likewise be considered
+intelligent insofar as it maximized collective value.
+Today, we call this philosophy “Utilitarianism,” and use the word “utility”
+to denote the good (when positive) or the bad (when negative). Under
+certain assumptions, including perfect information and fully rational actors,
+a free market will maximize utility.
+This all sounds pretty good—certainly better than rule by force, disregard
+for the welfare of entire classes of people, or arbitrary moral codes based on
+superstition. Understandably, given that we’re still not free of these
+historical blights, Utilitarianism continues to attract devotees. Effective
+Altruists are among the most hard-core.
+
+However, Utilitarianism, quite literally, doesn’t add up. Psychological
+studies show that human preferences don’t always obey the “transitive law,”
+wherein if the utilities of X, Y, and Z can all be expressed as numerical
+values, and someone prefers Y over X, and Z over Y, then they have to
+prefer Z over X too. Otherwise, there’s a logical contradiction.
+The moment pioneering behavioral economist Amos Tversky showed, in
+1969, that people can sometimes prefer X over Z,[802] he exploded the
+foundations of Utilitarianism as a way to describe people’s behavior. This
+turned what Bentham had posited as a law of human nature into, at best, a
+“should” rather than an “is” claim.[803]
+For example, one of Tversky’s experiments involved forcing subjects to
+choose between “gambles” in which a simple roulette-like wheel would be
+spun, with a specified payoff between $4 and $5 if the spinner stopped
+within a black wedge. As the payoff increased, the size of the wedge
+decreased a little faster, making the expected payoff go down. But because
+people were more easily able to evaluate the payoff than the probability,
+they generally chose the larger payoff, thus making the “wrong” choice.
+When choosing between the extremes, though, they reverted to the “right”
+choice.
+
+Tversky compared these results to a familiar real-life example of
+intransitivity. A prospective car buyer is initially inclined to “buy the
+simplest model for $2,089.” (Ah, car prices in 1969.) “Nevertheless, when
+the salesman presents the optional accessories, he first decides to add power
+steering, which brings the price to $2,167, feeling that the price difference
+
+is relatively negligible. Then, following the same reasoning, he is willing to
+add $47 for a good car radio, and then an additional $64 for power brakes.
+By repeating this process several times, our consumer ends up with a
+$2,593 car, equipped with all the available accessories. At this point,
+however, he may prefer the simplest car over the fancy one, realizing that
+he is not willing to spend $504 for all the added features, although each one
+of them alone seemed worth purchasing.”
+While dedicated Utilitarians today recognize that pretty much everyone is
+“irrational,” they seek, in their own actions, to be Utilitarian—hence,
+rational—and obey the transitive law in their preferences even when it leads
+to horrors or absurdities. Fully embracing Utilitarianism as a moral position
+implies welcoming a cost-benefit analysis of any proposition, no matter
+how counterintuitive or repugnant. For whose benefit, though? If one is not,
+in one’s heart of hearts, really “rational,” and neither is anybody else, then
+it’s difficult to embrace the prescription while rejecting the description.
+As a descriptive theory, the trouble with utility isn’t limited to Tversky’s
+intransitivity of preferences. “Additivity,” the idea that utility adds up the
+way numbers should, also poses a serious problem. For example, in one
+classic series of experiments, patients were told to move a pain dial,
+numbered zero (no pain) to ten (maximum agony) during a colonoscopy,
+conducted while they were fully conscious.[804] Half of the patients
+(apologies, I promise there’s a reason I’m going here), “had a short interval
+added to the end of their procedure during which the tip of the colonoscope
+remained in the rectum.” This added interval was still not good, but it was
+less uncomfortable than what had preceded it. Curiously, these patients
+found the whole procedure less aversive than those for whom the
+colonoscopy ended more abruptly. Not only was their overall rating of the
+experience better in retrospect, but they ranked it more favorably among
+standardized lists of other aversive experiences, and even had higher rates
+of followup colonoscopies years later (though the effect was small).
+The researchers viewed these findings as “memory failures,” highlighting
+the way they had internalized Utilitarian assumptions. If pain is supposed to
+add up, with X the pain involved in the main procedure and Y the pain
+involved in the extra time when the probe is left in, then surely X+Y must
+be greater than X![805] Yet that isn’t how we behave. There are many more
+research findings in this vein.
+
+Problems involving transitivity and additivity can’t be addressed by fiddling
+with the values in a “Springs of Action” table; no change in the felicific
+calculation will match what people actually do. Since spending money
+(assuming you have a finite amount of it) represents a similar series of
+tradeoffs regarding which actions you take, it shouldn’t be surprising to find
+that we’re not “rational” economic actors either. When we exchange money,
+we’re not in general passing around happiness, or any kind of proxy for it.
+Of course, this doesn’t imply that happiness and money are unrelated. As
+our space of available actions shrinks due to poverty, most of us do
+experience negative feelings about it, both because we’re prevented from
+doing things we want to do and because having all of our choices taken
+away—being cornered—feels bad in its own right, for reasons discussed in
+chapter 5.[806] Going hungry, or being exposed to the elements, feels bad too.
+And we care quite a bit about social standing relative to our peers. So, there
+is a rough correlation between wealth and happiness, especially at the poor
+end of the scale, but the relationship is by no means straightforward.[807]
+While most of us wish we had more money, generally, we don’t carry out
+our day-to-day activities to increase either our wealth or any other obvious
+quantity. The closest thing to an exception would be people who work in
+finance and are obsessive about their score at that game; they live to play it,
+just as Lee Sedol, prior to his retirement in 2019, lived to play Go. As you
+might imagine, Utilitarian thinking is especially popular on Wall Street,
+where many believe that to be smart is to be rich, and vice versa.
+
+Big Tent
+Utilitarianism is far from a purely right-wing position. Some staunch
+adherents, most famously the philosopher Peter Singer, extend their felicific
+calculus to nonhuman species. Singer is mostly vegan, since he cares about
+animal suffering as well as human suffering. He popularized the term
+“speciesism” to decry those who ignore the suffering of nonhumans,
+although flattening distinctions between species creates some challenges of
+its own.[808]
+We do indeed have to acknowledge that the network of relationships we
+care about includes nonhuman actors, whether we like it or not, but that
+doesn’t mean those actors are all equal. They come in all sizes and shapes,
+
+and this very fact makes universal participation in any single economy or
+felicific calculation impossible. One can’t ignore one’s own place in it,
+either.
+If the graph of relationships were finite and “flat,” containing only a
+hundred villagers who seek to trade handicrafts and vegetables with each
+other, then money might work pretty well for optimizing the flow of
+resources, though it still wouldn’t be a good proxy for happiness. Likewise,
+deliberation and voting might work pretty well for coordinating collective
+action.
+However, there is no universal currency, and no “view from nowhere.”
+When the graph includes not only human beings, but also single cells, tree
+frogs, corporations, banana plants, jumping genes, jumping spiders, trade
+unions, nations, rivers, and burial grounds, it becomes hard to understand
+how these interacting entities are all supposed to make decisions, pay each
+other for stuff, and be held accountable for debts or obligations using
+anything like an economic model.
+For instance, if we were to put an economic price on air, whom should we
+pay? Presumably, in no small part, the Prochlorococcus cyanobacteria that
+inhabit the Earth’s oceans and synthesize a good deal of the oxygen we
+breathe. Do we mint NFTs for them? Issue them with voting shares in
+AirCorp? Are they even distinct, or more like a superorganism?
+Suppose humans were to make the ill-advised decision to “enclose” both
+the oceans and all of these smaller entities to enable universal stewardship
+—and rent-seeking—by legal persons (which today include people,
+corporations, and nations). Then, the problem of taxonomizing these
+“assets,” weighting “voting interests,” and tracking “value flows” would
+look like a combination of solving GOFAI and simulating the whole planet
+—all for the purpose of bean counting, in a world that seemed to be getting
+along just fine before we decided it could be improved with a Spreadsheet
+of All That Is.[809]
+Everything we today consider labor or capital, value or worth, joy or
+suffering would be a drop in the bucket alongside that multifractal
+leviathan, the Earth. Our planet, with all its interlinked systems that have
+evolved over four and a half billion years, contains a zillion interacting
+entities experiencing a vast array of pleasures and pains from moment to
+
+moment in the service of multilevel dynamic stability. The hydrologic cycle
+provides the fresh water; humans need only transport it. Plants grow the
+bananas; human labor merely involves picking them. Our meat comes from
+self-reproducing ruminants and self-growing grass; we put a fence around
+them and call them “property,” either privatized or collectivized. We get to
+pretend we’re the producers of value, and play our economic games,
+whether communist, capitalist, or libertarian, only by the grace of Gaia.
+But if we peer inside our planetary superorganism, or Prochlorococcus, or
+ourselves, we won’t find anything resembling a single value being
+maximized. This is just a restatement, yet again, of Patricia Churchland’s
+insightful critique of AlphaGo: outside the self-contained toy world of a
+game, purposive entities have “competing values and competing
+opportunities, as well as trade-offs and priorities.” There is no cumulative
+score, and no goal, other than to keep playing.
+As we’ve seen, when we try to impose a score on this infinite game—
+insisting that, for every player, each move comes with a quantifiable cost or
+benefit that can be tracked over time—we run into mathematical trouble,
+regardless of how those costs and benefits are computed.
+To understand at a deeper level why this is so, imagine that you are a little
+creature, like an ant. There are so many ways for you to die: running out of
+energy, getting eaten, being exposed to a noxious chemical, becoming too
+hot or too cold, drying out, getting lethally irradiated, and on and on. You
+have muscles to move your body away from such fates so that you can keep
+playing, and you have sensors to inform that motor behavior as best you
+can, using a predictive model.
+Your hidden states H are there to serve as the information bottleneck
+between sensing and acting, so evolution will have endowed you with
+things like discomfort and fear, telling you to escape when conditions look
+dodgy. You’ll also have desire, meaning “yum, food, stick around and keep
+eating.” You can only be a rational economic actor if your actions are based
+on maximizing your “value,” which has to be a function of those hidden
+states H somehow. Perhaps value is something like pleasure minus pain.
+You must be able to predict what effects your actions will have on this
+value; in the language of calculus, value must be “differentiable” with
+
+respect to action, such that your actions always move you uphill in the
+value landscape.[810]
+So far, so good: value, for you as a little creature, will look like a tent,
+pegged down to the ground (zero, for death) along a perimeter of boundary
+conditions corresponding to starvation, freezing, overheating, and so on. In
+the abstract space of value, you’re crawling around on that tent, and will
+only stay alive as long as you don’t touch the ground.
+Of course the tent doesn’t just stay put. As you burn energy and your
+environment changes, the tent gradually changes shape. You have to keep
+moving because, if you stop for too long, the place where you’re standing
+will eventually touch the ground and you’ll die. You can’t move in just one
+direction, either. If you perseverate and, for instance, keep eating long after
+you’re satiated, you’ll also die, perhaps by bursting. Every path uphill, in
+other words, goes downhill on the other side of the tent. There is always a
+maximum amount of “yum,” such that any more will start turning it into
+“yuck.”
+Just where is that maximum, though? While the sides of the tent might be
+steeply sloped, the top needn’t be. In fact, this tent is largely an illusory, or
+at best, an arbitrary construct. Its perimeter is quite real—you will die if you
+move beyond it—but otherwise, where you wander, and whether you think
+you’re going uphill or downhill, is underdetermined. We could describe the
+way you choose to wander around as your “personality”; that’s where you
+get to exercise free will.
+The better your predictive model, the more clearly you can resolve exactly
+where the edges are, which actually lets you wander closer to them than
+you otherwise could while still staying safe. That’s what daredevils, people
+who engage in BDSM, and circus performers do. You’re free to do all sorts
+of things on that tent, and as long as you reliably avoid hitting the ground,
+evolution has little to say about what you do or how you feel about it.
+Anything goes, as long as it doesn’t kill you.[811] The smarter you are, the
+bigger the tent, and the greater your freedom.
+When I describe trajectories on the tent as being mostly underdetermined, I
+mean the following. Any talk of a value function only makes sense if the ant
+actually optimizes for it by climbing upward; otherwise, this “value
+function” means nothing—it adds no explanatory power. It’s equally useless
+
+if we claim that the tent changes shape so quickly that whichever way the
+ant happens to be going is uphill at that moment, even if it may not be at the
+next moment. That would be circular, equivalent to saying “I always do
+what is best,” and defining “the best” as “whatever I do.”
+So, assuming a stable value function, how do we reconstruct it from the
+paths the ant is observed to take? The mathematical answer is “integration,”
+but never mind the details. If the ant always goes uphill, it should always
+end up at the (or a) highest point. It should never go in a loop, because that
+would imply something like an Escher staircase—going uphill, yet
+paradoxically arriving right where you started. It can’t happen.
+But it does happen. That’s exactly what results like the intransitivity of
+preferences show. It doesn’t matter how complex or high-dimensional the
+space of available actions is, or how complex and nuanced the value
+function is; if value is a number, and you maximize it, you can never travel
+in a loop.[812] Ergo, there is no consistent value function that you are
+continually optimizing. And that’s not only true for people, but also for ants,
+bacteria, corporations, and everything else that has evolved for stability.
+We ought to have known that reducing decision-making to the optimization
+of a single value would never work, though, because even the simplest
+organisms need more than one internal signal to make viable behavioral
+decisions. You can’t just subtract serotonin from dopamine, for instance,
+and preserve the information you need to stay alive. Food is great—unless
+you’re full. Resting is great—unless you’re too hungry. Sex is great—
+unless you’re too hungry, or too full. These things simply aren’t
+substitutable. A worm or a bacterium knows as much.
+Even corporations, the supposed epitomes of economic optimization, have
+begun to acknowledge that maybe a single value (like stock price) can’t be
+the sole guide to behavior, with the introduction of “Environmental, Social,
+and Governance” (ESG) metrics for investing, and the adoption by some of
+a “Triple Bottom Line,” which adds social and environmental to financial
+accounting. These are not yet mainstream practices, and turning them into
+accounting is bogus in any case (they don’t obey transitivity or additivity
+either).
+But in truth, corporations have never behaved as purely “rational” economic
+actors, whether that’s reflected in their accounting or not. Their hunger for
+
+money may be bottomless, but like every other entity, they have evolved to
+survive. So, they also (usually) follow all sorts of norms and rules, and
+spend resources on all sorts of stuff that isn’t about making money, but
+about preserving important relationships and thereby continuing to exist in
+the future.[813]
+A traditional economist might argue that, given predictive capability and a
+long view, optimizing for making money automatically means optimizing
+for survival, and everything instrumental to survival. After all, if I want my
+widget-manufacturing startup to become a billion-dollar company, it has to
+survive and grow until it reaches that size … and if it runs out of money at
+any point, it will die. So whatever I do in the service of the company’s
+survival is really just optimizing for money in the long term.
+There are two problems with this line of thinking. First, running out of
+money is only one way a company can die. It can also cheat too much and
+get caught, like Enron, or get burned down by disgruntled townsfolk, like
+the Westhoughton Mill in Lancashire during the Luddite revolt. (Both of
+these businesses, incidentally, were unusually single-minded in optimizing
+for profit.)
+At bottom, the only thing all “successful” businesses have in common is
+that they continue to exist. That is dynamic stability. They might need an
+influx of money to keep running, just as we might need an influx of food to
+keep running, but it’s no more accurate to say they all exist to maximize
+money than it is to say that our purpose is to maximize the amount of food
+we eat—or, for that matter, how much comes out the other end.
+Similarly, if a company survives a long time, we could equivalently claim
+that it’s optimizing for anything involved in its “metabolism.” Inverse
+Reinforcement Learning (IRL), a family of machine learning methods for
+reverse-engineering a value function from observations of actions taken,[814]
+would have trouble making any distinction. If we pick an arbitrary but very
+successful long-lasting company, we could make a case that it has
+optimized over the long run for how many people it employs (a huge
+national chain), how many lives it shortens (a cigarette company), how
+much time it wastes (a casual game company), or a myriad other goals.
+My widget company could even be all about maximizing the number of
+complaints I hear from my customers. After all, the more cheaply produced,
+
+semi-crappy products I can move while still managing to expand my
+customer base, the more complaints will roll in. Before you rush to see if
+this business idea has been patented, be warned that it seems to already be
+popular.[815]
+
+Limits to Growth
+No matter how a value function is defined, the idea that it can or should
+grow forever and without bound (“Max More”) is self-evidently absurd. To
+anyone who studies neuroscience or biology, the idea that any parameter in
+a living system can grow without bound makes little sense—especially in a
+system whose dynamics are exponential, which is how dynamical systems
+generally work.
+Once an exponential takes off, it grows very fast, and if it represents
+anything correlated with the real world, it will in short order run into
+ecological, physical, and, ultimately, cosmological limits. Hence, talk of a
+“singularity”: a point in time beyond which an exponential prediction yields
+something literally impossible.[816] Often, by analogy with the event horizon
+of a black hole, this predicted singularity is understood in nearly mystical
+terms, as a dark barrier we are hurtling toward, on the other side of which
+we’ll experience something biblically awesome. Armageddon? Nirvana?
+There’s a much more prosaic way to think about exponentials, though: in
+real life, they simply can’t go on for long. Typically, they saturate, with
+initial exponential acceleration first becoming more linear, then turning into
+exponential deceleration. The value may approach a maximum without ever
+quite getting there, or go back down, or oscillate. Over the long run, it must
+stabilize or oscillate within some bounds, which implies a larger negative
+feedback or homeostatic mechanism. This is yet another way of observing
+that every enduring growth-oriented, competition-based living system is
+necessarily a part of a larger, homeostasis-oriented, cooperation-based
+living system.
+World human population, an apparent exception, has been in exponential
+growth for ten thousand years, with the exponent itself leaping upward at
+points corresponding to METs—most recently, the baby boom around 1945,
+as described earlier. This is the mother of all exponentials, the Moore’s Law
+of our species.
+
+Yet there was, and is, clearly a limit. At the rate we were going, something
+had to give, and it had to give around now. Otherwise, in just another few
+centuries (the blink of an eye, relative to our history as a species), human
+bodies would blot out the Earth’s entire surface, and, not long afterward,
+stack up to fill the entire biosphere.
+We could begin populating the rest of the Solar system, but it’s hard to
+imagine a scenario in which this meaningfully relieves population pressure
+on Earth, or even offers a comparably sized niche. There just aren’t that
+many places in the Sun’s neighborhood where we can live in substantial
+numbers. And interstellar travel would be a very, very slow escape valve.
+So, in the mid-twentieth century, we were facing a “population singularity.”
+We didn’t fantasize about any magical, unforeseeable singularitarian result,
+though. Instead, we foresaw, sensibly enough, the inevitable end to
+exponential growth, either the hard way (a massive dieoff) or the gentle
+way (a sharp enough decline in fertility to avoid overshooting hard limits).
+
+Luckily, we’re now tending more toward the latter, though we’re not
+entirely out of the woods yet.[817]
+Before Nick Bostrom began to focus on AI X-risk, he had already made a
+name for himself among philosophers (serious and armchair alike) by
+advancing the “Simulation Hypothesis,” which holds that, in all probability,
+we’re living in a computer simulation, as in the Matrix movies. This is
+relevant to exponential growth–worshiping fans of the Singularity because
+virtual worlds could, in principle, support astronomically large virtual
+populations.
+In brief, the Simulation Hypothesis argument goes like this. Over the past
+several decades, we’ve become capable of simulating increasingly
+sophisticated virtual worlds—from giant cosmological simulations, to
+photorealistic shooter games, to faithful models of neural circuits run by
+computational neuroscientists. Moore’s Law has been rendering these
+simulations exponentially faster and more detailed over time.
+Huge numbers of such simulations are already running on Earth, whether
+for basic research, entertainment, urban planning, or other applications.
+This is interesting in itself, when we think about how our brains became so
+much more powerful when they were able to carry out predictive simulation
+of counterfactuals;[818] all the simulations we’re running today look like the
+same sort of cognitive upgrade, but now at the level of our collective
+intelligence!
+If Moore’s Law continues, then, before long, the realism (or at least the
+complexity) of all these simulations might rival that of the real world. Some
+simulations already include virtual people. In video games, these are called
+Non-Player Characters (NPCs). Today, they’re mostly cartoonish, and are
+wired up to handwritten scripts or AI models like digital marionettes.[819] If
+you try to do in-game electrophysiology on the heads of NPCs in a video
+game, you won’t find any neurons in there, just the back sides of textured
+polygons. However, in a very distant descendant of the bff universe,
+intelligence could evolve, with or without our help. If so, then, given
+exponentially increasing computation, an exponentially increasing number
+of intelligent agents will be living in such simulated worlds.
+If you find the “bff on steroids” simulation scenario a stretch, keep in mind
+that we see extraordinary realism emerge when we use neural nets to learn
+
+simulations of the world, from the weather and fluid dynamics to sound and
+vision. (That’s what deepfakes are.) It seems a safe bet that before too long
+we’ll see convincing interactive worlds conjured up from little more than a
+prompt, ending the GOFAI-like era of today’s laboriously engineered video
+games and simulations. As in the Bible, a universe really could begin with a
+word, or just a few of them.[820]
+Despite the hundreds of millions of dollars they cost to develop, the
+polygonal puppetry of games like Fortnite will soon seem as crude as PacMan. And there’s no reason neural world simulations couldn’t include
+virtual AIs implemented using virtual neural nets. Dissection,
+electrophysiology, and physics experiments could work in-game, though if
+those artificial creatures were to probe their world ever more finely, they
+might encounter a kind of … pixelation … like quantum effects? Hmmm.
+At this point in the argument, proponents of the Simulation Hypothesis
+invite us to take a Copernican Turn. Copernican Turns have occurred
+repeatedly in astronomy, as when we realized that other planets have moons
+too, that Sol is just another star, and that the Milky Way is just another
+galaxy. In short, that there’s nothing special about where we live; hence the
+saying that “the Universe doesn’t revolve around us.”
+Why, then, would we assume that our Universe has the unique property of
+being “real,” since the jillions of other ones we know about are all
+simulations (as we well know, since we’re the simulators)? If intelligent
+beings in a “parent” universe can simulate a great many “child” universes,
+and each of these universes feels perfectly real to its inhabitants, then a
+randomly selected intelligent being (like you) is exceedingly unlikely to
+happen to live in the “real world” at the root of this tree of universes—if,
+indeed, the tree even has a root, or is a tree at all.[821]
+Detailed arguments for and against the Simulation Hypothesis are beyond
+our scope here. Its relevance to us lies less in its disconcerting claim about
+whether we have a parent universe (and are thus ourselves something like
+AIs?) than in its less controversial implications about the child universes we
+can create, and, since 1945, have been creating at an exponentially growing
+rate. For in a sense, any computational environment is a child universe with
+its own dynamical laws, and, soon, its own digital inhabitants.
+
+A program like the one Ada Lovelace wrote to compute Bernoulli numbers
+creates a tiny, trivial universe whose “physics” does nothing other than to
+produce a sequence of digits. A more complicated program, like the one
+written for the MANIAC in 1945 to simulate the hydrogen bomb, models a
+universe in which a single runaway process unfolds, a sort of cartoon Big
+Bang. Massively multiplayer games are child universes full of digital
+puppets whose bodies are controlled by “gods” (us) in the parent universe.
+Now, real agents are starting to inhabit those virtual worlds. Every instance
+of ChatGPT can be considered a child universe containing a single AI,
+which communicates with a “god” in the parent universe through its context
+window.
+Futurists like Ray Kurzweil, who popularized the idea of the Singularity,
+and myriad sci-fi writers have speculated about how we could transmigrate
+into our child universes by scanning our brains, then running them in
+simulation. It’s not clear whether those “uploaded minds” would be able to
+instantaneously learn kung fu like Neo, but we could speed up or slow
+down our subjective sense of time, copy ourselves, change how we look,
+(maybe) live forever-ish,[822] and perform various other cool digital tricks.
+Unfortunately, mind uploading is not realistic, or, at least, not for a long
+while.[823] And I wouldn’t recommend beta testing the procedure unless
+you’re on your deathbed, as your parent-universe brain would not survive
+the scanning process.
+What is entirely realistic—what we are already starting to do today—is to
+create new intelligences within child universes. I’ve argued that most of
+these are, in a broad sense, human intelligences, as they are pretrained on
+collective human experience. They have also, through fine-tuning for
+dialogue, been trained to pass the Turing Test. Whether or not we regard
+them as “people” or “mind children,”[824] they are intelligent entities, and
+their population can and will grow much larger (and more quickly) than the
+human population.
+Not that “population” is necessarily a concept that will translate
+straightforwardly into the digital realm. Models come in every size, from
+tiny to vast; they can be copied and forked, run briefly or for a long time,
+act as independent entities or link tightly into a single larger entity. This is
+how life works in general, of course, but much about human sociality, law,
+
+and political economy relies on flat relationship graphs, in which the
+entities are all of a uniform kind, presumed to be “created equal.”
+Uniform treatment of entities has already posed problems, given the rise of
+enormous, powerful corporations with person-like rights and legal statuses,
+the animal liberation movement, and more recent legal battles waged on
+behalf of mountains and rivers.[825] Great numbers of variously sized AI
+entities living in virtual worlds, many of which communicate with our own
+via chat windows, cameras, microphones, screens, headsets, and cloud
+services, are about to complicate life in the digital multiverse even further.
+At least we now have a much better sense of what lies beyond the
+“population singularity” predicted in the mid-twentieth century.
+Catastrophists at the time predicted a “population bomb” that would bring
+an ugly end to human civilization, resulting in a descent into environmental
+collapse, Mad Max dystopia, and cannibalism.[826] That will probably not
+happen, as our population—at least in this universe—is set to peak, then
+begin to decline, this century.
+Why is the current MET halting population growth and sending it back into
+decline, unlike the previous METs that kicked population into overdrive?
+Many factors come into play, including the rise of women’s rights and
+improvements in contraceptive technology, but the main driver is economic
+development, as can be confirmed by exploring the historical correlations
+between birth rate and wealth by country.[827]
+Until surprisingly recently, human numbers were kept in check mainly by
+the Malthusian forces of disease, starvation, and violence. A high birth rate
+was required simply to ensure that there would be a next generation. And
+that next generation was economically valuable to prospective parents.
+Children were needed to work the land, generate income, and provide for
+mom and dad in their dotage.
+In post-agricultural societies, though, children go from being an economic
+asset to a liability. Nowadays, per economic sociologist Viviana Zelizer, “A
+national survey of the psychological motivations for having children
+confirms their predominantly sentimental value.” Children may provide
+“emotional satisfaction, but no money or labor.”[828] So, we’re now having a
+lot fewer of them.
+
+Declining fertility suggests that, regardless of employment and market
+statistics, individual people in advanced economies have become net
+consumers, rather than producers. Economic productivity and population
+are decoupling. And an end to population growth has far-reaching
+consequences, given that, as discussed above, our entire economic system
+has been built around the assumption of continual growth.
+On the other hand, an increasing share of our economy is shifting into the
+realm of information work, which can move seamlessly between digitally
+connected universes; and we now know that the population of intelligences
+in our child universes is about to explode orders of magnitude faster than
+any baby boom. If, a few decades from now, we were to plot the logarithm
+of the total population of combined humans and AIs over time (or
+something roughly equivalent to population), we would see another kink in
+the curve beginning around 2020, similar to the one in 1945, and even more
+dramatic.
+
+Tears of Joy
+Having explored the problems raised by the “greatest good” part of
+Bentham’s “greatest good for the greatest number” calculus, it’s now time
+for us to delve into the even thornier problems raised by the “greatest
+number” part. We’ve seen that, for an individual, “good” both doesn’t
+strictly exist and isn’t additive, but you might suppose that the addition of
+something approximating “good” across individuals still makes some sense
+as a moral heuristic. Spoiler: it doesn’t.
+Recall that although twentieth-century “population bomb” anxieties turned
+out to be a false alarm, it wasn’t because infinite growth wouldn’t be a
+problem, but because increasing wealth reliably leads to lower fertility.
+Draconian measures like China’s “One Child Policy” were both cruel and
+unnecessary. As China grew richer, its fertility declined so dramatically that
+it now faces an alarming population crunch. In Japan, the population is
+shrinking so rapidly (especially given high barriers to immigration) that by
+2040 the amount of unclaimed, vacated land is projected to exceed the area
+of Ireland![829]
+This is a preview of what the future will look like globally—which is great
+news for our long-term survival. Assuming we don’t ruin everything in the
+
+meantime, our footprint will lower enough to allow for the regrowth of
+stressed ecosystems, hopefully even as we maintain a high living standard.
+There’s probably no single “right population size” for Earth, but rather a
+wide range, anywhere between too small for human diversity and stability
+to too large for a decent quality of life and non-human diversity, even given
+advanced and highly efficient technology. We only know for sure that there
+are lower and upper bounds, making perpetual exponential growth (or
+decline) incompatible with dynamic stability. For long-term human
+survival, population on Earth must either stabilize or fluctuate within those
+bounds.
+Is an Earth with ten billion people necessarily ten times better than an Earth
+with one billion, though? Or, to give this a non-human gloss, is the “value”
+of domestic cats (worldwide population, roughly 220 million) really
+seventy-three thousand times the “value” of snow leopards (worldwide
+population, roughly three thousand)? Or else, if we say that the two species
+have equal value, do we really think the life of each snow leopard is
+“worth” the lives of seventy-three thousand cats?
+Some Utilitarian philosophers are fond of setting up morally agonizing
+“trolley problems”[830] to try to get actuarial about questions like these (if
+you pull the lever, you can derail the trolley, sacrificing only one thousand
+kittens to save the snow leopard tied to the tracks …), but I think there’s
+something wrong with the entire premise of trying to rank-order value in
+this way.
+Psychological evidence shows that it’s easy to set up trolley problems that
+violate the transitive law. In fact, trolley problems have become famous for
+exposing human “irrationality” in even more blatant ways than Tversky’s
+intransitivity tricks. The classic version of the trolley problem has five
+people tied to the track in front of the trolley and one standing on a side
+track. You can either do nothing, in which case five people will die, or pull
+the lever, in which case the trolley will be diverted onto the side track and
+one person will die.
+The felicific calculus is clear: you should pull the lever, because the
+alternative is five times worse. Real people’s moral calculations aren’t so
+straightforward, though. Their responses are all over the place, and highly
+sensitive to, from a strict Utilitarian’s perspective, irrelevant details. For
+
+instance, if it’s necessary to push an overweight bystander onto the tracks to
+save the other five innocents, almost nobody will do it.[831]
+If we consider “good” to add up across individuals, the easiest way to
+increase goodness is simply to increase population. By such a measure,
+since there are about eight billion people today and there were one billion in
+1800, the world today is eight times as “good” as it was then. By the same
+calculus, India is six times as “good” as Pakistan, and the US is five times
+as “good” as the UK.
+It gets worse. “Longtermism” argues that future people should count
+equally,[832] which would imply that the life of an average young French
+woman, who, statistically speaking, will have 1.83 children, is “worth”
+forty percent more than the life of an average Japanese woman, who will
+have only 1.3 children. A Nigerian woman will be “worth” far more than
+both combined, as the fertility rate in Nigeria is 5.24 (though rapidly falling
+as prosperity there increases). The differences are in fact exponentially
+greater, since this only takes one generation into account, and Longtermism
+considers all descendants equally. So if we survive far into the future, the
+value ratio shoots toward infinity, even if the birth ratios are only
+infinitesimally different.
+And it gets sillier. Near the beginning of Superintelligence, Bostrom seeks
+to use felicific calculus to emphasize just how much is at stake when we
+gamble with humanity’s future. In a box entitled “How big is the cosmic
+endowment?” he describes a scenario that, upon first reading, I assumed to
+be comedy-circuit material, or a dystopian straw man. However, I think it’s
+intended to be a Utilitarian’s utopia![833]
+Here’s how it goes. Begin with the assumption that we will all upload our
+brains, because of course that’s the way to go—more of us can live as Sims
+in a virtual world than in the real world (or whatever this universe is),
+which means more potential happiness. I guess that, to mollify animalliberation Singularitarians, we should make room for our pets, livestock,
+and the remaining wild animals to get uploaded too. Then, we should
+proceed to expand the data centers so that as many virtual humans can be
+packed in as possible.
+This “utopian” scenario doesn’t just imply tiling the Earth with data centers
+and eliminating all other, less space-efficient forms of life, but turning the
+
+entire Solar system into a giant solar data center, disassembling the planets
+and asteroids as needed.[834] Also, sending out nanotechnological “von
+Neumann probes” at close to the speed of light—little spaceship-factories
+than can build more cosmic data centers wherever they find the matter and
+energy to do so, and in turn send out more von Neumann probes, ultimately
+colonizing “a large part of our future light cone.” Assuming these probes
+don’t run into competing projects from alien civilizations, to do anything
+less would be … infinitely immoral!
+Multiplying all of the big numbers together and carrying out the
+colonization scheme of Life, the Universe, and Everything until “cosmic
+expansion puts further acquisitions forever out of reach,” Bostrom
+concludes, “what hangs in the balance is at least
+10,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,000,00
+0,000,000 human lives (though the true number is probably larger). If we
+represent all the happiness experienced during one entire such life with a
+single teardrop of joy, then the happiness of these souls could fill and refill
+the Earth’s oceans every second, and keep doing so for a hundred billion
+billion millennia. It is really important that we make sure these truly are
+tears of joy.”
+When one weighs those potential cosmic oceans of joy against the interests
+of the paltry few billion people alive today, it becomes possible to justify
+any means to drive growth, no matter how ugly in the present. You may be
+starting to see why this suite of beliefs, congealed into an all-encompassing
+ideology, appeals to some in Silicon Valley:[835]
+● Immortality. To a Californian subculture that has long been keen on
+fitness regimens, dietary supplements, and “biohacking,” the idea that
+digital immortality awaits if we can just hold out long enough is
+appealing. Exponentially improving technology might mean we don’t
+even have to wait that long, despite how far-fetched brain uploading
+seems today. On the other hand, those who die prematurely can
+always freeze their bodies in liquid nitrogen—or, for a lower price,
+just their heads.[836]
+● Video games. Living in one while trying out different bodies, instalearning kung-fu moves, and embarking on thousand-year journeys to
+other star systems sounds awesome.
+
+● Staying on top. Tech people tend to think of themselves as an elite
+thanks to their superior intelligence, making the emergence of highly
+capable AI models an uncomfortably exciting prospect. If the fear of
+not being smarter than those models predominates, it leads down the
+AI doomer path. On the other hand, digitally merging with AI models
+could keep one’s future self at the top of the pecking order.
+● Scaling. Moore’s Law, which has held for decade after decade, has
+normalized the idea of eternally exponential scaling. Techies have
+long worshiped the exponential, but the meteoric rise of online
+services starting around 2000, and then of cloud computing in the
+2010s, has made super-scaling a business mantra and ideology too.
+Conversely, ideas that turn out not to be viable are said to be ones that
+“don’t scale.”[837] Turning the entire light cone into a cosmic data
+center that runs the Truman Show for astronomical numbers of people
+is scaling taken to its ultimate limit.
+● Wealth. Some Effective Altruists, including Peter Singer, emphasize
+giving, and donate much of their income to causes carefully evaluated
+for impact.[838] It’s hard to argue that is a bad thing, even if one’s own
+choice of causes differs. Others, like disgraced cryptocurrency
+billionaire Sam Bankman-Fried, have emphasized (whether cynically
+or not) the accumulation of great wealth first, to allow for “higher
+impact” giving later on. The moral hazard here is obvious, as one can
+always tell oneself that one is still in the “wealth growing” phase of
+the plan.[839]
+Although Utilitarianism and its associated movements aren’t exactly a
+religion, there are some undeniable parallels. As mentioned, the
+impossibility of Bentham’s original ambition to develop a descriptive
+theory of the “Springs of Action” has led Utilitarians to drop any pretense
+of a scientific “is” to embrace a normative “ought.” When it comes to those
+“oughts,” counterintuitive value judgments, and the belief that those who
+disagree are confused or morally inferior, creates an in-group. Effective
+Altruism also shares more than a bit in common with the Prosperity Gospel,
+which holds that, for true believers, physical health and financial wealth are
+the will of God. Finally, the promise of immortality sounds more than a
+little familiar, especially when it comes in two flavors: a heavenly Rapture
+of the Nerds[840] or, if the coming AI is unfriendly, an End of Days … or,
+
+worse still, an unimaginable number of immaterial souls in agony whose
+tears, of the wrong sort, could “fill and refill the Earth’s oceans every
+second, and keep doing so for a hundred billion billion millennia.”
+
+Beyond Alignment
+Solving the “AI Alignment Problem”[841] means making sure that, by the
+time really intelligent autonomous AI agents come along, their values are
+consistent with ours. For believers in the Singularity, aligned AI is the key
+to us all ending up in heaven, rather than extinct, enslaved, or in some
+simulated (but all too real) digital hell.
+One does not have to believe in the Singularity to consider this problem
+important. However, because Utilitarian thinking has distorted the way we
+think about both value and intelligence, it has also had an unfortunate
+influence on how we think about value alignment.
+In the earlier GOFAI period, the presumption had been that intelligence
+would arise in sufficiently complex rule-based systems, so alignment was
+also envisioned in terms of rules. This roughly corresponds to “deontology,”
+the ancient philosophical tradition holding that rules can distinguish right
+from wrong: “Thou shalt not lie,” “Thou shalt not steal,” and “Thou shalt
+not kill,” for example.
+Accordingly, most twentieth-century anxieties about AI alignment
+concerned whether such rules could ever suffice to ensure safe and friendly
+robots. Sci-fi granddaddy Isaac Asimov famously explored this question in
+his I, Robot stories,[842] starting with the premise that his “Three Laws of
+Robotics” should be programmed into every robot:
+1. A robot may not injure a human being or, through inaction, allow
+a human being to come to harm.
+2. A robot must obey the orders given it by human beings except
+where such orders would conflict with the First Law.
+3. A robot must protect its own existence as long as such protection
+does not conflict with the First or Second Law.
+Of course, in Asimov’s stories as in all sci-fi, mayhem ensues—otherwise
+known as a plot. For Asimov, the trouble is lawyerly—meaning that some
+combination of an unusual situation and logical yet counterintuitive
+
+reasoning based on the Laws leads a hyper-rational robot to do something
+surprising, and not necessarily in a good way.[843]
+The reader may be left wondering whether the issue could be “debugged”
+by adding one more Law, or closing a loophole—something Asimov
+himself undertook on several occasions. But as GOFAI’s failures eventually
+made clear, the problem is unsolvable; one can’t even get anything
+resembling competent behavior purely by following legalistic rules, let
+alone ethical behavior. Ironically, as we’ve seen in the realm of natural
+language processing, such rules can only be obeyed by an intelligent agent
+that does not obey rules!
+Recall that by the 2000s, state-of-the-art AI was no longer being
+programmed, but rather trained through the maximization of value
+functions. Mostly, this involved supervised learning, which is all about
+optimizing a task-specific score. Starting in 2010, DeepMind, the outlier,
+focused instead on game playing using Reinforcement Learning, in the
+belief that it would ultimately lead to AGI. This approach, too, involved
+maximizing something, whether a chess rating or the score of an Atari video
+game.
+During this period, AI researchers seemed to be converging on the idea that
+intelligence really is all about optimizing a value or utility function. I’ve
+argued that this isn’t the case—and indeed, that we only began to see
+general intelligence when we stopped training models to do specific tasks
+with supervised learning, and switched to the unsupervised regime—but
+this isn’t (yet) a widely held view. For instance, as of 2024, the Rationalist
+website LessWrong.com still claims on its Wiki that “the term artificial
+intelligence can have anthropomorphic connotations. In some contexts, it
+might be useful to speak of a really powerful optimization process rather
+than a superintelligence.”[844]
+A really powerful optimization process able to pursue any strategy to
+maximize its value function—what could possibly go wrong? A better
+question would be: how could it possibly turn out well? As noted earlier, no
+parameter in any dynamically stable system, whether biological, ecological,
+or technological, can grow without bound, and attempting to do so will
+indeed result in floods of tears.
+
+The classic X-risk example is the innocuous-sounding “Paperclip
+Maximizer.”[845] Nick Bostrom offered up this scenario in 2003: an AI,
+perhaps connected to a paperclip factory, is instructed to manufacture as
+many paperclips as possible. After reconfiguring the factory to increase its
+throughput (so far, so good), the AI realizes that more factories could be
+built to further increase production. If the AI is smart enough to engineer
+new paperclip technology, it can, presumably, also figure out how to make
+lots of money, convince people to do things, engineer new tech, and
+otherwise take over the world, if necessary, by improving itself. Bad news:
+human bodies are full of atoms that could become paperclips. But even if
+the AI stuck to the traditional stainless-steel kind, covering the Earth (and
+then filling the light cone) with robotic mining operations and paperclip
+factories won’t leave any space for snow leopards, tree frogs, or people. If
+we tried to interfere with this process, it would of course become necessary
+for the AI to eliminate us with extreme prejudice. It would be nothing
+personal.
+This story unspools badly no matter what you tell the superintelligent AI to
+maximize. Bostrom acknowledges that “in humans, with our complicated
+evolved mental ecology of state-dependent competing drives, desires, plans,
+and ideals, there is often no obvious way to identify what our top goal is;
+we might not even have one.” True. But he concludes that since a
+superintelligence “may be structured differently,” we must give it a
+“definite, declarative goal-structure with a clearly identified top goal,” in
+the tradition of Asimov’s Three Laws of Robotics, in order to be sure that it
+won’t go rogue.
+Not only does requiring AI to act like GOFAI not work; if it did, it would
+open the door to all sorts of lawyerly horrors. Superintelligence is full of
+fanciful examples. For instance, to optimize total human happiness, human
+simulations could be simplified so more of them could run on any given
+hardware. Then, those lobotomized Sims in their low-polygon-count
+environments could be kept on a constant drip of virtual heroin. The
+greatest good and the greatest number, for the felicific win!
+The Alignment Problem is especially terrifying to Utilitarians who believe
+that intelligence itself is Utilitarian. They are afraid, in other words, that
+superintelligent AI will behave as they claim they would.[846] If their
+supposed goal as perfectly “rational” actors is to fill up the light cone with
+
+simulated people, disassembling every animal, vegetable, or planet whose
+atoms could be used to build the cosmic server farm, then of course a really
+smart AI would do the same. Minus the people.
+Such games are zero-sum. Worse, imagining that they can be “won” by any
+single actor implies an inexorable tendency toward monoculture, such that a
+single kind of entity, whether paperclips, simulated people, or robots,
+crowds everything else out. Anything that is not that goal amounts to an
+opportunity cost.
+Moving beyond the “Alignment Problem” as usually understood isn’t hard.
+It has both a descriptive “is” and a normative “should” aspect. The
+descriptive aspect follows from the fact that intelligence is not the
+maximization of any single value. Nor does an intelligent agent even
+consist of a single well-defined entity. The interaction of diverse actors
+through mutual modeling is what creates the dynamical process we call
+“intelligence.” Intelligence is an ecology, and the more of a monoculture it
+devolves into, the less intelligent it will be, and the less interesting life will
+become.
+As a thought experiment, imagine creating an exact copy of the Earth in
+simulation, and running it on a giant, isolated server farm (perhaps we’ve
+disassembled Mercury and turned it into a Death Star–sized solar-powered
+computer to make this possible). You and I would both be mirrored in that
+digital twin universe, and virtual you would be reading these very words at
+this very moment. Has total utility just doubled, since now every good thing
+is experienced both by you and by your double?
+I think the answer is “no.” You wouldn’t be able to tell whether you’re the
+“real” you or the simulated you, but nothing about your life would change
+either way, and nothing about the universe (or multiverse?) would be any
+more wonderful or interesting—from any point of view. If anything, life
+would be strictly worse, since both in reality and in simulation, Mercury
+would be gone. Even if that planet is a lot less interesting than Earth, its
+absence would be a loss.
+The idea of extending that loss throughout the universe in order to endlessly
+replicate what we already have is nightmarish. We can see obvious parallels
+here with the way colonial powers have attempted to erase indigenous
+cultures in an effort to endlessly reproduce their own, and with the way
+
+capitalism’s worst excesses push out diversity in the name of “hyperscaling.”
+As we mature and our wisdom increases, so will our regret over such
+needless losses. Life only continues to enrich as long as it continues to
+diversify, and the collective phenomenon of intelligence only grows when
+diverse sub-intelligences model each other, in the process becoming a
+greater whole.
+Monoculture is not scaling; it’s collapse, an ultimate failure to scale. When
+we destroy variety, we zero out the value of encounter, we render mutual
+modeling pointless, and we thus curtail the possibilities for our own
+continued development. Embracing our evolution, however, means letting
+go of certainty, and allowing identity to drift, branch, and hybridize, as it
+always does.
+The word “we” will not mean the same thing it does today in a century, and
+even less so in ten thousand years; less still in ten million. In ten million
+years, there will be no recognizable humans, though in ten thousand—if we
+don’t mess up—there probably will be. But much else will also exist. In as
+little as a century, the Earth, and perhaps other parts of the Solar system,
+will be populated with intelligences of other kinds, too, both larger and
+smaller, and these will greatly outnumber our human bodies. If we believe
+life and intelligence are precious seeds, destined to bloom here and there in
+the universe, then spread and effloresce, we should ultimately expect our
+light cone to be populated by aliens of every description—even in the
+unlikely event that we are the only seed, and that they are all our children.
+

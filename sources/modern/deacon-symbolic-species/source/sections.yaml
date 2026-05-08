@@ -1,0 +1,213 @@
+book:
+  title: "The Symbolic Species: The Co-Evolution of Language and the Brain"
+  author: "Terrence W. Deacon"
+  source_text_witness: "sources/modern/incoming/books/The Symbolic Species - Terrence W. Deacon.txt"
+  extracted_full_text: "full/symbolic-species.txt"
+sections:
+  - seq: 0
+    slug: "title-pages-acknowledgments-and-contents"
+    title: "Title pages, acknowledgments, and contents"
+    kind: "front-matter"
+    file: "raw/000-title-pages-acknowledgments-and-contents.txt"
+    start_line: 1
+    end_line: 400
+    line_count: 400
+    printed_page_start: null
+  - seq: 1
+    slug: "preface"
+    title: "Preface"
+    kind: "front-matter"
+    file: "raw/001-preface.txt"
+    start_line: 401
+    end_line: 453
+    line_count: 53
+    printed_page_start: null
+  - seq: 10
+    slug: "part-one-language"
+    title: "Part One: Language"
+    kind: "part"
+    file: "raw/010-part-one-language.txt"
+    start_line: 454
+    end_line: 463
+    line_count: 10
+    printed_page_start: null
+  - seq: 11
+    slug: "the-human-paradox"
+    title: "1. The Human Paradox"
+    kind: "chapter"
+    file: "raw/011-the-human-paradox.txt"
+    start_line: 464
+    end_line: 620
+    line_count: 157
+    printed_page_start: null
+  - seq: 12
+    slug: "a-loss-for-words"
+    title: "2. A Loss for Words"
+    kind: "chapter"
+    file: "raw/012-a-loss-for-words.txt"
+    start_line: 621
+    end_line: 755
+    line_count: 135
+    printed_page_start: null
+  - seq: 13
+    slug: "symbols-arent-simple"
+    title: "3. Symbols Aren't Simple"
+    kind: "chapter"
+    file: "raw/013-symbols-arent-simple.txt"
+    start_line: 756
+    end_line: 932
+    line_count: 177
+    printed_page_start: null
+  - seq: 14
+    slug: "outside-the-brain"
+    title: "4. Outside the Brain"
+    kind: "chapter"
+    file: "raw/014-outside-the-brain.txt"
+    start_line: 933
+    end_line: 1156
+    line_count: 224
+    printed_page_start: null
+  - seq: 20
+    slug: "part-two-brain"
+    title: "Part Two: Brain"
+    kind: "part"
+    file: "raw/020-part-two-brain.txt"
+    start_line: 1157
+    end_line: 1166
+    line_count: 10
+    printed_page_start: null
+  - seq: 21
+    slug: "the-size-of-intelligence"
+    title: "5. The Size of Intelligence"
+    kind: "chapter"
+    file: "raw/021-the-size-of-intelligence.txt"
+    start_line: 1167
+    end_line: 1293
+    line_count: 127
+    printed_page_start: null
+  - seq: 22
+    slug: "growing-apart"
+    title: "6. Growing Apart"
+    kind: "chapter"
+    file: "raw/022-growing-apart.txt"
+    start_line: 1294
+    end_line: 1468
+    line_count: 175
+    printed_page_start: null
+  - seq: 23
+    slug: "a-darwinian-electrician"
+    title: "7. A Darwinian Electrician"
+    kind: "chapter"
+    file: "raw/023-a-darwinian-electrician.txt"
+    start_line: 1469
+    end_line: 1672
+    line_count: 204
+    printed_page_start: null
+  - seq: 24
+    slug: "the-talking-brain"
+    title: "8. The Talking Brain"
+    kind: "chapter"
+    file: "raw/024-the-talking-brain.txt"
+    start_line: 1673
+    end_line: 1860
+    line_count: 188
+    printed_page_start: null
+  - seq: 25
+    slug: "symbol-minds"
+    title: "9. Symbol Minds"
+    kind: "chapter"
+    file: "raw/025-symbol-minds.txt"
+    start_line: 1861
+    end_line: 1998
+    line_count: 138
+    printed_page_start: null
+  - seq: 26
+    slug: "locating-language"
+    title: "10. Locating Language"
+    kind: "chapter"
+    file: "raw/026-locating-language.txt"
+    start_line: 1999
+    end_line: 2234
+    line_count: 236
+    printed_page_start: null
+  - seq: 30
+    slug: "part-three-co-evolution"
+    title: "Part Three: Co-Evolution"
+    kind: "part"
+    file: "raw/030-part-three-co-evolution.txt"
+    start_line: 2235
+    end_line: 2244
+    line_count: 10
+    printed_page_start: null
+  - seq: 31
+    slug: "and-the-word-became-flesh"
+    title: "11. And the Word Became Flesh"
+    kind: "chapter"
+    file: "raw/031-and-the-word-became-flesh.txt"
+    start_line: 2245
+    end_line: 2533
+    line_count: 289
+    printed_page_start: null
+  - seq: 32
+    slug: "symbolic-origins"
+    title: "12. Symbolic Origins"
+    kind: "chapter"
+    file: "raw/032-symbolic-origins.txt"
+    start_line: 2534
+    end_line: 2749
+    line_count: 216
+    printed_page_start: null
+  - seq: 33
+    slug: "a-serendipitous-mind"
+    title: "13. A Serendipitous Mind"
+    kind: "chapter"
+    file: "raw/033-a-serendipitous-mind.txt"
+    start_line: 2750
+    end_line: 2896
+    line_count: 147
+    printed_page_start: null
+  - seq: 34
+    slug: "such-stuff-as-dreams-are-made-on"
+    title: "14. Such Stuff as Dreams Are Made On"
+    kind: "chapter"
+    file: "raw/034-such-stuff-as-dreams-are-made-on.txt"
+    start_line: 2897
+    end_line: 3077
+    line_count: 181
+    printed_page_start: null
+  - seq: 50
+    slug: "notes"
+    title: "Notes"
+    kind: "back-matter"
+    file: "raw/050-notes.txt"
+    start_line: 3078
+    end_line: 3456
+    line_count: 379
+    printed_page_start: null
+  - seq: 51
+    slug: "additional-readings"
+    title: "Additional Readings"
+    kind: "back-matter"
+    file: "raw/051-additional-readings.txt"
+    start_line: 3457
+    end_line: 3519
+    line_count: 63
+    printed_page_start: null
+  - seq: 52
+    slug: "bibliography"
+    title: "Bibliography"
+    kind: "back-matter"
+    file: "raw/052-bibliography.txt"
+    start_line: 3520
+    end_line: 4334
+    line_count: 815
+    printed_page_start: null
+  - seq: 53
+    slug: "index"
+    title: "Index"
+    kind: "back-matter"
+    file: "raw/053-index.txt"
+    start_line: 4335
+    end_line: 7519
+    line_count: 3185
+    printed_page_start: null

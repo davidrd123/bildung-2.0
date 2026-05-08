@@ -1,0 +1,310 @@
+book:
+  title: Philosophie der Mathematik und Naturwissenschaft
+  author: Hermann Weyl
+  edition: 8. Auflage
+  source_pdf: sources/modern/incoming/books/Philosophie der Mathematik und Naturwissenschaft, 8_ Auflage -- Herrmann Weyl.pdf
+  pdf_page_count: 407
+  image_set: page-images/jpg-200/page-%04d.jpg
+  status: OCR-derived cleaned draft split by visual contents map
+  authority_notes:
+  - Mapped from direct inspection of the generated page images, especially pages 10-11 for the table of contents.
+  - For numbered body pages, printed page n corresponds to PDF/page-image n + 1.
+  - Generated page images, OCR text, and full text-layer output remain local-only and gitignored.
+  cleaned_directory: cleaned
+sections:
+- id: front-cover
+  kind: front_matter
+  title: Cover
+  pdf_page_start: 1
+  pdf_page_end: 1
+  printed_page_start: null
+  printed_page_end: null
+  cleaned_file: cleaned/000-front-cover.txt
+- id: front-title-pages
+  kind: front_matter
+  title: Title pages and publication data
+  pdf_page_start: 2
+  pdf_page_end: 5
+  printed_page_start: null
+  printed_page_end: null
+  cleaned_file: cleaned/001-front-title-pages.txt
+- id: front-author-preface
+  kind: front_matter
+  title: Aus dem Vorwort des Verfassers zur amerikanischen Ausgabe von 1949
+  pdf_page_start: 6
+  pdf_page_end: 7
+  printed_page_start: 5
+  printed_page_end: 6
+  cleaned_file: cleaned/002-front-author-preface.txt
+- id: front-editor-preface
+  kind: front_matter
+  title: Vorwort des Herausgebers
+  pdf_page_start: 8
+  pdf_page_end: 9
+  printed_page_start: 7
+  printed_page_end: 8
+  cleaned_file: cleaned/003-front-editor-preface.txt
+- id: front-contents
+  kind: front_matter
+  title: Inhaltsverzeichnis
+  pdf_page_start: 10
+  pdf_page_end: 11
+  printed_page_start: 9
+  printed_page_end: 10
+  cleaned_file: cleaned/004-front-contents.txt
+- id: front-literature
+  kind: front_matter
+  title: Literatur
+  pdf_page_start: 12
+  pdf_page_end: 12
+  printed_page_start: null
+  printed_page_end: null
+  cleaned_file: cleaned/005-front-literature.txt
+- id: part-1-mathematik
+  kind: part_divider
+  title: 'Erster Teil: Mathematik'
+  pdf_page_start: 14
+  pdf_page_end: 15
+  printed_page_start: null
+  printed_page_end: null
+  cleaned_file: cleaned/006-part-1-mathematik.txt
+- id: intro
+  kind: introduction
+  title: Einführung
+  pdf_page_start: 16
+  pdf_page_end: 16
+  printed_page_start: 15
+  printed_page_end: 15
+  cleaned_file: cleaned/007-intro.txt
+- id: math-01-mathematische-logik-axiomatik
+  kind: chapter
+  part: 'Erster Teil: Mathematik'
+  title: I. Mathematische Logik. Axiomatik
+  pdf_page_start: 17
+  pdf_page_end: 47
+  printed_page_start: 16
+  printed_page_end: 46
+  cleaned_file: cleaned/008-math-01-mathematische-logik-axiomatik.txt
+  subsections:
+  - title: 1. Relationen und ihre Verknüpfung. Struktur der Urteile
+    printed_page_start: 16
+    pdf_page_start: 17
+  - title: 2. Die aufbauende mathematische Definition
+    printed_page_start: 22
+    pdf_page_start: 23
+  - title: 3. Das logische Schließen
+    printed_page_start: 28
+    pdf_page_start: 29
+  - title: 4. Die axiomatische Methode
+    printed_page_start: 34
+    pdf_page_start: 35
+- id: math-02-zahl-und-kontinuum
+  kind: chapter
+  part: 'Erster Teil: Mathematik'
+  title: II. Zahl und Kontinuum. Das Unendliche
+  pdf_page_start: 48
+  pdf_page_end: 91
+  printed_page_start: 47
+  printed_page_end: 90
+  cleaned_file: cleaned/009-math-02-zahl-und-kontinuum.txt
+  subsections:
+  - title: 5. Rationale Zahlen. Das Komplexe
+    printed_page_start: 47
+    pdf_page_start: 48
+  - title: 6. Die natürlichen Zahlen
+    printed_page_start: 51
+    pdf_page_start: 52
+  - title: 7. Das Irrationale und das Unendlichkleine
+    printed_page_start: 57
+    pdf_page_start: 58
+  - title: 8. Die Mengenlehre
+    printed_page_start: 66
+    pdf_page_start: 67
+  - title: 9. Intuitive Mathematik
+    printed_page_start: 71
+    pdf_page_start: 72
+  - title: 10. Symbolische Mathematik
+    printed_page_start: 76
+    pdf_page_start: 77
+  - title: 11. Über das Wesen der mathematischen Erkenntnis
+    printed_page_start: 85
+    pdf_page_start: 86
+- id: math-03-geometrie
+  kind: chapter
+  part: 'Erster Teil: Mathematik'
+  title: III. Geometrie
+  pdf_page_start: 92
+  pdf_page_end: 125
+  printed_page_start: 91
+  printed_page_end: 124
+  cleaned_file: cleaned/010-math-03-geometrie.txt
+  subsections:
+  - title: 12. Nichteuklidische, analytische, mehrdimensionale, affine, projektive Geometrie. Der Farbraum
+    printed_page_start: 91
+    pdf_page_start: 92
+  - title: 13. Das Relativitätsproblem
+    printed_page_start: 95
+    pdf_page_start: 96
+  - title: 14. Kongruenz und Ähnlichkeit. Links und rechts
+    printed_page_start: 104
+    pdf_page_start: 105
+  - title: 15. Der Riemannsche Standpunkt. Topologie
+    printed_page_start: 113
+    pdf_page_start: 114
+- id: science-01-raum-und-zeit
+  kind: chapter
+  part: 'Zweiter Teil: Naturwissenschaft'
+  title: I. Raum und Zeit. Die transzendente Außenwelt
+  pdf_page_start: 126
+  pdf_page_end: 177
+  printed_page_start: 125
+  printed_page_end: 176
+  cleaned_file: cleaned/011-science-01-raum-und-zeit.txt
+  subsections:
+  - title: 16. Struktur von Raum und Zeit in ihrer physischen Wirksamkeit
+    printed_page_start: 125
+    pdf_page_start: 126
+  - title: 17. Subjekt und Objekt (Die naturwissenschaftliche Auswirkung der Erkenntnistheorie)
+    printed_page_start: 144
+    pdf_page_start: 145
+  - title: 18. Das Raumproblem
+    printed_page_start: 161
+    pdf_page_start: 162
+    subsubsections:
+    - title: a) Ursprung der Raumvorstellung
+      printed_page_start: 161
+      pdf_page_start: 162
+    - title: b) Das Wesen des Raumes
+      printed_page_start: 166
+      pdf_page_start: 167
+    - title: c) A priori oder a posteriori?
+      printed_page_start: 169
+      pdf_page_start: 170
+- id: science-02-methodologie
+  kind: chapter
+  part: 'Zweiter Teil: Naturwissenschaft'
+  title: II. Methodologie
+  pdf_page_start: 178
+  pdf_page_end: 210
+  printed_page_start: 177
+  printed_page_end: 209
+  cleaned_file: cleaned/012-science-02-methodologie.txt
+  subsections:
+  - title: 19. Das Messen
+    printed_page_start: 177
+    pdf_page_start: 178
+  - title: 20. Die Begriffsbildung
+    printed_page_start: 184
+    pdf_page_start: 185
+  - title: 21. Theorienbildung
+    printed_page_start: 192
+    pdf_page_start: 193
+- id: science-03-das-weltbild
+  kind: chapter
+  part: 'Zweiter Teil: Naturwissenschaft'
+  title: III. Das Weltbild
+  pdf_page_start: 211
+  pdf_page_end: 279
+  printed_page_start: 210
+  printed_page_end: 278
+  cleaned_file: cleaned/013-science-03-das-weltbild.txt
+  subsections:
+  - title: 22. Die Materie
+    printed_page_start: 210
+    pdf_page_start: 211
+    subsubsections:
+    - title: a) Die Substanztheorie der Materie
+      printed_page_start: 210
+      pdf_page_start: 211
+    - title: b) Die Feldtheorie der Materie. Äther
+      printed_page_start: 215
+      pdf_page_start: 216
+    - title: c) Historische Bezüge, insbesondere zum metaphysischen Substanzbegriff
+      printed_page_start: 225
+      pdf_page_start: 226
+    - title: d) Erhaltungssätze
+      printed_page_start: 229
+      pdf_page_start: 230
+    - title: e) Atomistik
+      printed_page_start: 234
+      pdf_page_start: 235
+  - title: 23. Kausalität (Gesetz, Zufall, Freiheit)
+    printed_page_start: 239
+    pdf_page_start: 240
+    subsubsections:
+    - title: a) Kausalität und Gesetz
+      printed_page_start: 239
+      pdf_page_start: 240
+    - title: b) Zufall
+      printed_page_start: 247
+      pdf_page_start: 248
+    - title: c) Einsinnigkeit der Zeit
+      printed_page_start: 259
+      pdf_page_start: 260
+    - title: d) Freiheit, Zweckmäßigkeit
+      printed_page_start: 264
+      pdf_page_start: 265
+- id: appendix-a-struktur-der-mathematik
+  kind: appendix
+  title: 'Anhang A: Die Struktur der Mathematik'
+  pdf_page_start: 280
+  pdf_page_end: 303
+  printed_page_start: 279
+  printed_page_end: 302
+  cleaned_file: cleaned/014-appendix-a-struktur-der-mathematik.txt
+- id: appendix-b-ars-combinatoria
+  kind: appendix
+  title: 'Anhang B: Ars Combinatoria'
+  pdf_page_start: 304
+  pdf_page_end: 324
+  printed_page_start: 303
+  printed_page_end: 323
+  cleaned_file: cleaned/015-appendix-b-ars-combinatoria.txt
+- id: appendix-c-quantenphysik-und-kausalitaet
+  kind: appendix
+  title: 'Anhang C: Quantenphysik und Kausalität'
+  pdf_page_start: 325
+  pdf_page_end: 341
+  printed_page_start: 324
+  printed_page_end: 340
+  cleaned_file: cleaned/016-appendix-c-quantenphysik-und-kausalitaet.txt
+- id: appendix-d-chemische-valenz
+  kind: appendix
+  title: 'Anhang D: Die chemische Valenz und die Hierarchie der Strukturen'
+  pdf_page_start: 342
+  pdf_page_end: 354
+  printed_page_start: 341
+  printed_page_end: 353
+  cleaned_file: cleaned/017-appendix-d-chemische-valenz.txt
+- id: appendix-e-physik-und-biologie
+  kind: appendix
+  title: 'Anhang E: Physik und Biologie'
+  pdf_page_start: 355
+  pdf_page_end: 368
+  printed_page_start: 354
+  printed_page_end: 367
+  cleaned_file: cleaned/018-appendix-e-physik-und-biologie.txt
+- id: appendix-f-physische-welt
+  kind: appendix
+  title: 'Anhang F: Die Haupteigenschaften der physischen Welt; Gestalt und Entwicklung'
+  pdf_page_start: 369
+  pdf_page_end: 395
+  printed_page_start: 368
+  printed_page_end: 394
+  cleaned_file: cleaned/019-appendix-f-physische-welt.txt
+- id: names-index
+  kind: index
+  title: Namensregister
+  pdf_page_start: 396
+  pdf_page_end: 401
+  printed_page_start: 395
+  printed_page_end: 400
+  cleaned_file: cleaned/020-names-index.txt
+- id: subject-index
+  kind: index
+  title: Sachregister
+  pdf_page_start: 402
+  pdf_page_end: 407
+  printed_page_start: 401
+  printed_page_end: 406
+  cleaned_file: cleaned/021-subject-index.txt

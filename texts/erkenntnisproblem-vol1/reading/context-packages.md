@@ -276,4 +276,5 @@ Avoid:
 
 - the Cusanus line already has a stable structured chain
 - the Bruno line now has a first structured chain and should be used for late-Bruno rereads instead of reconstructing the sequence from journal prose each time
-- the exact-science threshold after Bruno still needs a bounded reread note of its own once the `Leonardo -> Kepler` passage settles
+- the exact-science threshold after Bruno now has a bounded reread note in `reading/2026-04-12-post-bruno-threshold-reread-80-94.md`
+- that threshold does not yet need a structured chain; at present the parts, journal, ledger, and reread note appear sufficient

@@ -1,0 +1,639 @@
+Glossary
+abiogenesis The emergence of life from non-life. See also: life.
+Acoela An ancient order of small marine worms that diverged from other
+animals more than 550 million years ago; among the earliest bilaterians,
+they have no gut, or circulatory or respiratory systems.
+agent An entity who/that does or acts; in a directed interaction between two
+entities, the active one may be referred to as the agent, while the recipient
+of the action is the patient. See also: moral agent, patient.
+animism The belief (held by many traditional societies) that objects, places,
+and creatures possess spirits, and thus that all things are alive and
+interconnected. See also: vitalism.
+anthropic principle The principle that the fundamental laws of the
+observed universe must be compatible with the existence of the conscious,
+intelligent observer positing those laws. See also: fine-tuning (cosmology).
+anthropocentrism The belief that humans are the most important entities in
+the universe; viewing or understanding all other entities only in terms of
+their value to, or in comparison with, humanity. See also:
+anthropomorphism.
+anthropomorphism The (often inappropriate) attribution of human
+characteristics, behaviors, or emotions to nonhuman entities, such as other
+animals, objects, or phenomena. See also: anthropocentrism.
+Artificial General Intelligence (AGI) Artificial Intelligence capable of a
+wide, human-like range of tasks and behaviors; the term was popularized
+when models capable only of single tasks started to be called AI. See also:
+Artificial Narrow Intelligence.
+Artificial Intelligence (AI) A term coined in 1955 by computer scientist
+John McCarthy and colleagues for “the conjecture that every aspect of
+learning or any other feature of intelligence can in principle be so precisely
+described that a machine can be made to simulate it.” See also: cybernetics,
+Good Old-Fashioned Artificial Intelligence.
+Artificial Narrow Intelligence (ANI) An AI system designed only to do
+one task or a narrow range of tasks; examples include character recognition,
+face detection, and product-review sentiment analysis. See also: Artificial
+Intelligence.
+Artificial Superintelligence (ASI) A general AI or AGI with broadly
+
+superhuman performance (though there is no consensus on what that
+constitutes); such a superintelligence would presumably be capable of
+recursive self-improvement, potentially creating an intelligence
+explosion. See also: Artificial General Intelligence, intelligence explosion.
+attention A cognitive process wherein certain perceptual information is
+allocated preferential mental processing, enabling the formation of a
+coherent view of the most important aspects of an environment, often
+guided by factors such as novelty, salience, relevance, and task demands;
+also, a family of machine learning techniques designed to selectively
+concentrate neural net processing in a given layer only on certain
+activations or relationships in the previous layer. See also: Transformer.
+attention layer The kind of neural net layer that powers the Transformer
+architecture, implementing content-based pattern matching and selective
+attention over a context window of fixed size. See also: attention,
+Transformer.
+autocatalysis A process whereby a reaction is catalyzed by one of its own
+products, causing the reaction to speed up exponentially until limited by the
+availability of a reactant. See also: autocatalytic set.
+autocatalytic set As conceived by biochemist Stuart Kauffman, a network
+of interacting molecules where each molecule can be catalytically produced
+from other molecules in the set, thereby creating a self-sustaining and selfreplicating system; I use this term more generally for any set of entities,
+including whole organisms or code instructions, with the same functional
+properties (mutual catalysis and collective self-replication). See also:
+abiogenesis, autocatalysis.
+backward causality When the effect of an event seems to paradoxically
+precede its own cause. See also: entensional.
+bff A minimalistic computer simulation demonstrating the emergence of
+functional replicators out of random noise; based on a variant of the
+Brainfuck programming language. See also: abiogenesis, Brainfuck.
+blindsight A neurological phenomenon where, following removal or
+destruction of the visual cortex, people can still respond to visual stimuli,
+yet claim to be blind; discoverers Nicholas Humphrey and Lawrence
+Weiskrantz, both neuroscientists, considered blindsight “seeing without
+consciousness,” but perhaps it simply reflects a lack of connectivity
+between the brain regions processing vision and generating language.
+Brainfuck A minimalistic, esoteric programming language closely
+
+resembling a Turing Machine, devised in 1993 by Swiss physics student
+Urban Müller. See also: bff.
+calculus ratiocinator A hypothetical (and unrealizable) universal logicalcalculation framework described in the writings of mathematician Gottfried
+Wilhelm Leibniz, wherein the manipulation of symbolic propositions could
+be used to prove the truth or falsity of any statement; similar in spirit to
+Good Old-Fashioned AI. See also: characteristica universalis.
+cellular automaton A grid of cells, each in a specific state, that evolves
+over time based on a set of rules determined by the states of neighboring
+cells; developed by mathematician John von Neumann and collaborators
+from the 1940s onward. See also: neural cellular automaton.
+characteristica universalis An (unrealizable) universal symbolic language
+imagined by mathematician Gottfried Wilhelm Leibniz to represent all
+knowledge and ideas in a clear and unambiguous way, enabling logical
+calculation and reasoning. See also: calculus ratiocinator.
+choice blindness The phenomenon studied in cognitive science where
+individuals fail to notice mismatches between their intended choice and the
+outcome they’re presented with, demonstrating the pliability of our
+preferences and memories; the term was coined by a team of Swedish
+researchers led by cognitive scientist Petter Johansson. See also: interpreter,
+the.
+comb jelly A phylum of ancient marine invertebrates, the Ctenophora,
+dating back to the Ediacaran, characterized by biradial symmetry (radial
+symmetry like a jellyfish, but sometimes including a pair of tentacles) and a
+fringe of cilia (tiny hair-like structures) that move in a way reminiscent of
+the teeth of a comb; they are delicate, near-transparent, and often
+bioluminescent.
+competence without comprehension A concept introduced by philosopher
+Daniel Dennett to describe systems or entities that can perform tasks
+effectively without understanding how or why they are doing so; perhaps
+more properly interpreted as an inability to generalize a skill beyond a
+narrow domain, or to explain it using language.
+complexification The process whereby things become more complex over
+time; I argue that this characterizes the evolution of life, intelligence, and
+technology, and occurs because existing dynamically stable components can
+sometimes combine (or “compose”) to form larger dynamically stable
+wholes, which can themselves serve as components for further
+
+composition. See also: symbiogenesis.
+composition (functional) When one or more functions are composed (i.e.,
+combined) to create another function. See also: recursion (computing).
+computational neuroscience The study of nervous systems and brains as
+computational or information-processing systems. See also: functionalism,
+NeuroAI.
+computronium A substance that computes with massive parallelism; the
+term was coined in the 1980s by physicist and computer scientist Norman
+Margolus to describe a hypothetical material optimized at the atomic or
+molecular level to perform computation as efficiently as the laws of physics
+allow, though I use it more broadly to describe the organized, computational
+state of matter characterizing life. See also: massively parallel.
+cybernetics A field of study founded by mathematician Norbert Wiener and
+colleagues in the 1940s focusing on feedback, prediction, control, and
+learning as exhibited by living systems and some machines; the intellectual
+predecessor of modern machine learning. See also: Artificial Intelligence,
+machine learning.
+dark room problem A challenge in predictive-coding and active-inference
+theories of the brain, highlighting the paradox that if organisms seek to
+minimize prediction errors, they might prefer unchanging, low-stimulation
+environments (like a dark room), which contradicts observed behavior
+where organisms actively seek novel and stimulating experiences. See also:
+predictive brain hypothesis.
+Dress, The A viral photograph that became an internet sensation in 2015,
+making people question whether “The Dress” was blue and black or white
+and gold, due to an optical illusion related to color perception; the leading
+theory is that one’s inference depends on whether one is a night owl, which
+affects statistical priors on lighting.
+dualism A philosophical and religious concept, often associated with
+mathematician and philosopher René Descartes, positing that the mind and
+body have two fundamentally different natures, one immaterial (the mind)
+and the other physical (the body).
+dynamic instability When a small variation in initial conditions can cause
+wildly diverging outcomes, often associated with the butterfly effect. See
+also: dynamic stability.
+dynamic kinetic stability (DKS) A concept introduced by the chemist
+Addy Pross to describe systems that persist through time not by being static,
+
+but through continuous dynamic change and turnover, such as the selfreplication of molecules or the metabolic activity of living organisms. See
+also: dynamic stability.
+dynamic stability In this book, used to describe systems that cycle through
+a loop of states (in dynamical systems theory, a stable limit cycle), thus
+preserving their identity through time even though they are in constant flux;
+a hallmark of living systems. See also: dynamic instability.
+Effective Altruism (EA) A utilitarian philosophical and social movement
+that advocates using evidence and reason to determine the most effective
+ways to improve the world and directing resources—time, money, or skills
+—toward actions that achieve the greatest positive impact; philosophers
+Peter Singer, Toby Ord, and William MacAskill are among its standardbearers. See also: utilitarianism.
+efficient cause Per Aristotle, an agent or force that produces an effect or
+change in another object or being. See also: final cause.
+élan vital A term introduced by French philosopher Henri Bergson referring
+to a vital force or impulse inherent in all living organisms and driving
+growth, change, and the creative evolution of life. See also: psychic
+pneuma, vitalism.
+embedding A learned representation of data where objects (e.g., words or
+images) are mapped to continuous, low-dimensional vector spaces,
+capturing their semantic or structural relationships and enabling
+generalization for tasks like classification, clustering, or translation. See
+also: Word2Vec.
+endosymbiosis A symbiotic relationship in which one organism comes to
+live inside another organism, conferring mutual benefit and potentially
+resulting in a new form of life; most famously associated with the work of
+evolutionary biologist Lynn Margulis, who showed that mitochondria and
+chloroplasts, today eukaryotic organelles, were originally free-living
+bacteria that were engulfed by ancestral host cells related to archaea. See
+also: symbiogenesis, symbiosis.
+entensional A term coined by cognitive scientist Terrence Deacon referring
+to systems (including simple and engineered ones) that operate according to
+physical laws, but that are goal-directed or purposive. See also: purposive,
+teleology.
+existential risk (X-risk) A potential event or process that could either cause
+the extinction of humanity or irreversibly curtail its long-term potential,
+
+encompassing threats such as nuclear war, advanced artificial intelligence
+misalignment, pandemics, or catastrophic climate change.
+felicific calculus An approach proposed (though never fully specified) by
+philosopher Jeremy Bentham for quantifying happiness or pleasure to
+evaluate the moral rightness of actions, based on factors such as intensity,
+duration, certainty, proximity, and extent of the resulting pleasure or
+pain. See also: utilitarianism.
+few-shot learning A method in machine learning where an AI system learns
+to classify or interpret new data from only a small number of examples; this
+mimics human ability, which requires fewer instances than traditional
+machine learning to understand something new. See also: machine learning,
+one-shot learning.
+final cause Per Aristotle, the purpose or goal for which a thing exists or an
+action is undertaken, being the “end” or “telos” towards which that thing
+strives. See also: efficient cause, teleology.
+fine-tuning (cosmology) The puzzle posed by the fact that certain
+fundamental physical and cosmological constants appear to have precisely
+the values necessary to support the existence of life in the universe. See
+also: anthropic principle.
+fine-tuning (machine learning) When a pretrained model, such as a
+language model, is further trained or “tuned” on a more specific task or
+dataset, thereby enhancing its precision and applicability to a particular
+problem or domain. See also: machine learning.
+functionalism A computational position held by mathematicians Alan
+Turing and John von Neumann emphasizing that what something “is” is
+defined by what it does, which can be independent of implementation,
+hence multiply realizable; the corresponding philosophical perspective,
+championed by Hillary Putnam and others, conceives mental states in terms
+of their role in a system or their behavioral effects, thus opening the
+possibility that different kinds of systems, including non-biological ones,
+could manifest the same types of mental states. See also: computational
+neuroscience, multiple realizability.
+Gaia hypothesis Posits that the Earth is homeostatic, functioning as a selfregulating system in which living organisms interact with their inorganic
+environment to maintain conditions conducive to life, such as stable
+temperatures, atmospheric composition, and ocean salinity; proposed by
+independent scientist James Lovelock in 1972 and later developed with
+
+Lynn Margulis.
+generalization (machine learning) A model’s ability to perform well on
+unseen data by capturing the underlying patterns in the training data rather
+than merely memorizing it, ensuring it can make accurate predictions or
+decisions for new inputs not encountered during training. See also:
+perceptual invariance.
+Good Old-Fashioned Artificial Intelligence (GOFAI) A term coined by
+philosopher John Haugeland in 1985 for the classical (and largely
+ineffective) approach to AI that emphasizes high-level symbolic
+representations and rule-based manipulation to model intelligent behavior;
+this paradigm relies on explicitly programmed knowledge and logical
+reasoning, contrasting with cybernetics and its modern successor, machine
+learning. See also: Artificial Intelligence, cybernetics, machine learning.
+grandmother cell A hypothetical neuron that activates in response to very
+specific complex stimuli, such as a person’s own grandmother, postulated
+(with tongue in cheek) by neuroscientist Jerry Lettvin in 1969; while
+neurons can indeed respond to highly specific stimuli, they do so in
+populations, making it unlikely that complex concepts are represented by
+unique neurons.
+hallucination (machine learning) A generated output by a model (such as
+a large language model) that is factually incorrect, nonsensical, or
+fabricated, despite appearing plausible or confident, often arising due to
+limitations in the model’s training data or inference mechanisms.
+Homo economicus A theoretical individual proposed in economic theory
+who acts consistently rational and narrowly self-interested, always making
+decisions that maximize utility given the information available. See also:
+utilitarianism.
+homuncular fallacy Mistakenly attributing selfhood or subjectivity only to
+a particular part of the brain. See also: homunculus.
+homunculus A term derived from Latin meaning “little man,” often used in
+discussions of philosophy and neuroscience to describe the misleading idea
+of a small being inside the brain who interprets sensory information and
+controls our actions.
+Hydra A genus of small, simple aquatic animals of the phylum Cnidaria, of
+special biological interest for their distributed nerve net, regenerative
+capabilities, and immortality.
+Industrial Revolution A period from the late eighteenth to mid-nineteenth
+
+century marked by significant developments in agricultural, manufacturing,
+mining, transport, and technology sectors (most of which were enabled by
+fossil fuels and the steam engine) which dramatically altered the socioeconomic and cultural conditions in Britain, and later spread to Western
+Europe and North America. It is often cited as marking the transition to
+modern economic growth; some economists posit subsequent Industrial
+Revolutions based on electrification and information technology. See also:
+Major Evolutionary Transition.
+inference An integral part of both human reasoning and AI, inference
+involves making logical deductions or predictions based on existing
+information or data, such as interpreting the contents of an image or the
+meaning of a word in a sentence. See also: machine learning.
+inpainting An image-restoration technique where missing or corrupted
+parts of images are filled in with plausible content, based on information
+and context from the surrounding areas and from similar images. See also:
+masking.
+intelligence The ability to model, predict, and influence one’s future; it can
+evolve in relation to other intelligences to create a larger symbiotic
+intelligence.
+intelligence explosion An event hypothesized by mathematician I. J. Good
+in which an artificial intelligence system becomes capable of autonomously
+improving its own design, leading to rapid, unforeseen advancements in
+technology and potentially surpassing human intellectual capacity; as I use
+the term, intelligence explosions are a broader evolutionary phenomenon
+driven by positive feedback in mutual theory-of-mind modeling, and
+include the rapid growth in human brain size over the past several million
+years. See also: existential risk, theory of mind.
+intentionality level The depth of representation a person, system, or model
+has about the self and others; intentionality levels range from zero,
+representing inanimate objects, to one, representing only immediate
+experience, to higher levels characterized by higher-order theory of mind,
+including self-reflection and understanding others’ minds. See also: theory
+of mind.
+interpreter, the (neuroscience) Refers to the brain’s left hemisphere
+mechanism (for most right-handed people) that creates explanations and
+narratives to make sense of our experiences and actions, even when it lacks
+complete information about their true causes; proposed by neuroscientist
+
+Michael Gazzaniga to explain observations from split-brain patients, and
+consistent with many other findings, including choice blindness. See also:
+choice blindness.
+is/ought dichotomy A distinction proposed by philosopher David Hume
+between descriptive statements (what is the case) and prescriptive or
+normative statements (what ought to be the case), to argue that values or
+morality cannot be deduced from factual knowledge alone.
+joint probability distribution A mathematical description of the likelihood
+of two or more events occurring together, often represented in the form of a
+table or matrix, that can provide important insights into the dependencies
+and interactions between different variables in a system.
+Krebs cycle A key metabolic pathway discovered by biochemist Hans
+Krebs, the Krebs cycle (also known as the citric acid cycle or TCA cycle)
+involves the oxidation of acetyl-CoA into carbon dioxide and the transfer of
+energy to produce NADH, FADH2, and ATP, which cells use for energy. See
+also: reverse Krebs cycle.
+latent variable A variable that is not directly observed but inferred through
+a mathematical model from other variables that are observed; latent
+variables are often used in machine learning to explain hidden or underlying
+structures in complex data. See also: embedding.
+lateral inhibition A ubiquitous neurological principle first presented in a
+1957 paper by neuroscientists Keffer Hartline and Floyd Ratliff in the
+context of the visual systems of horseshoe crabs, where an excited neuron
+reduces the activity of its immediate neighbors, leading to a contrast
+enhancement that aids perception of edges and spatial differences.
+learning The process whereby an organism or artificial intelligence system
+acquires knowledge, skill, understanding, or the ability to perceive nuance
+through experience, study, experiment, instruction, or error minimization,
+ultimately resulting in the modification of behavior or the ability to predict
+outcomes based on patterns or inferences. See also: machine learning.
+life A self-modifying, computational state of matter arising from selection
+for dynamic stability; it evolves through the symbiotic composition of
+simpler dynamically stable entities.
+logical proposition A statement that has a distinct truth value—either true
+or false—which can form the basic building block of logical arguments and
+reasoning. See also: calculus ratiocinator.
+Longtermism An ethical standpoint emphasizing the long-term future and
+
+advocating for decisions and actions that consider their potential impact on
+many generations to come; most controversially, its adherents may use
+utilitarian principles that weigh equally the interests of all people, including
+(potentially vast numbers of) hypothetical future people. See also:
+utilitarianism.
+machine learning (ML) An approach to building intelligent machines that
+provides systems with the ability to learn and improve from experience
+without being explicitly programmed, involving the construction and study
+of algorithms that can make predictions or decisions based on patterns in
+data; in the tradition of cybernetics, and often contrasted with Good OldFashioned Artificial Intelligence. See also: Artificial Intelligence, Good
+Old-Fashioned Artificial Intelligence.
+Major Evolutionary Transition (MET) A key point in the evolution of life
+that results in a significant increase in complexity through symbiotic
+interdependence, such as the shift from single-celled to multicellular
+organisms, or from asexual to sexual reproduction; proposed by biologists
+John Maynard Smith and Eörs Szathmáry. See also: symbiogenesis.
+Mary’s Room (or Mary the Super-Scientist) A philosophical thought
+experiment proposed by Frank Jackson, where Mary, a scientist who knows
+everything about the physical science of color but has only ever
+experienced black and white, sees color for the first time, raising questions
+about the nature of subjective experiences or qualia. See also: qualia.
+masking (machine learning) An unsupervised training technique in which
+parts of the input are hidden and the model’s task is to reconstruct these
+parts as accurately as possible; often used to pretrain large language models,
+as well as image and video autoencoders.
+massively parallel In computer science, the use of a large number of
+processors (or computers) to simultaneously perform coordinated
+computations; such parallelism is essential for running large neural
+networks in any reasonable amount of time, and is ubiquitous in
+neuroscience and more broadly in biological computation. See also:
+computronium, neural cellular automaton.
+McCulloch-Pitts neuron A simplified model neuron where each neuron
+receives one or more Boolean input signals and produces a Boolean output,
+thus working like a logic gate; proposed by neuroscientists Warren
+McCulloch and Walter Pitts in 1943.
+mechanical philosophy A worldview originating in the seventeenth
+
+century, most notably advocated by philosopher René Descartes, positing
+that natural phenomena, including living bodies, work like machines, with
+their functions arising purely from their physical structures and movements,
+without needing to invoke unobservable forces or principles.
+model A mathematical or computational representation of a system or
+phenomenon that allows its future (or otherwise unobserved) behavior to be
+predicted. See also: machine learning.
+moral agent An individual or entity capable of making ethical decisions
+and being held accountable for them. See also: agent, moral patient.
+moral patient An individual or entity whose well-being and interests are
+considered in ethical decision-making processes and moral actions. See
+also: moral agent, patient.
+multifractal A mathematical object characterized by a non-integer, or
+fractal, dimension that exhibits characteristic structure at every scale; but
+unlike a fractal, this structure may vary at different scales.
+multilayer perceptron (MLP) A type of artificial neural network first
+proposed by psychologist Frank Rosenblatt in the 1950s, consisting of
+multiple layers of interconnected neurons where each layer’s output serves
+as input for the next layer, enabling the model to learn and represent
+complex functions and concepts. See also: neural network.
+multiple realizability A concept in philosophy of mind and computational
+neuroscience that posits the same mental state, process, or function can be
+realized with different physical substrates—such as the human brain, a
+computer, or an alien physiology—given the correct functional
+organization.
+neural cellular automaton (NCA) A computational model combining
+cellular automata, neural nets, and Turing’s concept of morphogenesis
+where each cell evaluates a (shared) neural net whose inputs and outputs are
+local values, akin to morphogens; the concept was developed by computer
+scientist Alex Mordvintsev in 2020. See also: cellular automaton.
+neural network (artificial) A massively parallel machine learning model
+inspired by the human brain’s interconnected neurons; when implemented
+with multiple layers, each layer of neurons runs in parallel, but the layers
+themselves run sequentially, with each layer feeding its outputs to the next
+layer as inputs. See also: machine learning, neural network (biological).
+neural network (biological) Interconnected neurons in an animal’s nervous
+system.
+
+NeuroAI A hybrid research field combining neuroscience with artificial
+intelligence; the field overlaps significantly with computational
+neuroscience. See also: computational neuroscience.
+one-hot coding A method used in machine learning where a population of
+neurons, typically an output layer, is trained to represent a categorical
+variable such that only one neuron is “on” (has value near one) while the
+others are all “off” (have values near zero); also sometimes referred to as
+“winner-takes-all.” See also: lateral inhibition.
+one-shot learning The ability to learn a general pattern, category, or other
+regularity from a single example or exposure. See also: machine learning.
+Palomilla A wheeled robot that implemented light-seeking behavior (its
+name means “moth” in Spanish), designed by Norbert Wiener in the late
+1940s to demonstrate negative feedback and goal-directed behavior,
+foundational concepts in cybernetics. See also: cybernetics.
+patient (philosophy) An entity that is acted upon or affected by an agent’s
+actions. See also: agent, moral patient.
+perceptual invariance A concept in cognitive science describing how
+humans and other animals (and, by extension, AI models) recognize objects,
+sounds, or other stimuli as being the same across different viewing angles,
+distances, lighting conditions, or other potentially complicating factors,
+implying powerful computational processing capabilities.
+phase transition A sudden change in a system’s properties, such as density,
+magnetization, or conductance, often as a result of changing external
+conditions, like temperature or pressure; the transition from water to ice is a
+common example.
+philosophical zombie A hypothetical being that is behaviorally
+indistinguishable from a human, but lacks conscious experience;
+popularized by philosopher David Chalmers to question whether
+consciousness can be reduced to purely physical processes. See also: qualia.
+Pirahã A people of the Amazonas state of Brazil known for the unique
+characteristics of their language, including the absence of numbers, absence
+of recursion, and possibly the smallest phoneme inventory in any human
+language; studied extensively by linguist and former missionary Daniel
+Everett. See also: recursion (linguistics).
+predictive brain hypothesis A neuroscientific theory suggesting that the
+brain is a predictor that constantly models the future based on past
+experiences; these models are continuously tested against sensory
+
+information to minimize prediction errors.
+pretraining An approach to machine learning in which a model is initially
+trained on a large, general dataset (usually using unsupervised learning)
+before being fine-tuned on a smaller, specific dataset. See also: machine
+learning.
+psychic pneuma According to ancient Greek philosophers and René
+Descartes, an elusive substance believed to be the vital force or breath of
+life that penetrates and harnesses inanimate matter, often associated with the
+human soul and intellect. See also: dualism, élan vital.
+psychon A hypothetical unit of cognitive activity or fundamental element of
+thought; hypothesized by Warren McCulloch and Walter Pitts in 1943 to
+consist of a single logical proposition, i.e., one bit of information. See also:
+logical proposition.
+purposive (or purposeful) Functions or behaviors that are goal-directed,
+and therefore suggestive of agency or intentionality. See also: backward
+causality, entensional.
+qualia The subjective or qualitative properties of experiences, such as the
+redness of a rose or the taste of sugar, which philosopher Frank Jackson and
+others have argued cannot be fully understood through scientific or
+computational analysis; hence the supposed “hard problem” in
+consciousness studies.
+recursion (computing) A method in computing where a function, in order
+to accomplish a task, calls itself with modified inputs, enabling problems to
+be broken down into smaller, similar problems until reaching a base case
+that can be solved directly; frequently used in algorithms and data
+structures. See also: composition.
+recursion (linguistics) A linguistic phenomenon in which a grammatical
+rule can be applied to the result of its own application, allowing for
+constructions such as nested clauses and indefinitely extended sentences;
+popularized by linguist Noam Chomsky in his theory of generative
+grammar. See also: Pirahã.
+reinforcement learning (RL) A machine learning method where an AI
+system learns to make decisions by receiving rewards or penalties for its
+actions; often used in coaching robots or recommender systems, and
+inspired originally by Pavlovian or reward-based learning in lab
+animals. See also: machine learning.
+relational quantum mechanics (RQM) An interpretation of quantum
+
+mechanics proposed by physicist Carlo Rovelli in 1996 suggesting that the
+state of a quantum system is relative to the observer, meaning that different
+observers can have different descriptions of the same system, and these
+descriptions are valid within their own frames of reference; according to
+RQM, there is no objective, absolute state of a system independent of all
+observers.
+representation learning An approach to machine learning that allows a
+system to automatically discover and learn useful representations from raw
+data for improved prediction or inference without explicit feature
+engineering; fundamental to deep learning. See also: machine learning.
+reverse Krebs cycle A biochemical process believed to have played a key
+role in the origin of life; it performs the reverse operations of the
+conventional (forward) Krebs cycle by consuming carbon dioxide and
+hydrogen to generate organic compounds, a pathway mainly found today in
+ancient bacteria and archaea. See also: Krebs cycle.
+RNA world An influential hypothesis suggesting an early stage of
+evolution when RNA molecules acted both as genetic material and as
+catalysts for chemical reactions, potentially predating DNA and proteins.
+robustness The ability of a purposive system to keep working in the face of
+environmental changes, challenges, disruptions, or uncertainties.
+rubber-hand illusion An experimental phenomenon in which a person
+comes to perceive a fake rubber hand as part of their own body, typically
+through having the real and fake hands simultaneously stroked in the same
+way, exemplifying the malleability of body perception; first reported by
+neuroscientists Matthew Botvinick and Jonathan Cohen in 1998.
+saccade A rapid movement made by the eye when changing its fixation
+point in a scene, usually occurring approximately two or three times per
+second.
+Sally-Anne Test A psychological test popularized by psychologists Simon
+Baron-Cohen, Alan Leslie, and Uta Frith, used to gauge a subject’s capacity
+for understanding that others have viewpoints and knowledge distinct from
+their own; often employed to assess theory of mind deficits, especially in
+children with autism. See also: theory of mind.
+scaling law The way performance or some other property of a system varies
+as a function (typically a power law) of some parameter; for example,
+metabolic rate varies as an approximate power law of animal size, and task
+performance of a neural network often varies as a power law of the dataset
+
+size or model size.
+semantics (linguistics) The aspect of language concerning meaning and
+interpretation, as opposed to properties like grammar or syntax.
+sequence modeling A machine learning method in which historical data
+inputs, such as time series or text data, are used to predict future data points
+or complete missing ones. See also: machine learning.
+singularity A hypothesized future point in time when advances in
+technology (particularly advancements in artificial intelligence) enter a selfimproving feedback loop so extreme that we are unable to make any
+prediction about the course of history beyond this point; popularized by
+futurist Ray Kurzweil.
+social brain hypothesis A hypothesis proposed by British anthropologist
+Robin Dunbar asserting that the complex social interactions within primate
+groups, including humans, have driven the evolution of larger brains to
+handle these complexities. See also: intentionality level, theory of mind.
+social intelligence hypothesis A hypothesis proposed by neuroscientist
+Nicholas Humphrey in 1976 suggesting that the driving force behind the
+evolution of high intelligence among hominins is the complexity of social
+interactions, requiring skills such as empathy, deception, cooperation, and
+competition.
+sphexish A term coined by cognitive scientist Douglas Hofstadter to
+describe seemingly intelligent behavior that is actually mechanistic or
+deterministic, based usually on a fixed set of responses or rules; named after
+the Sphex wasp, which entomologist Jean-Henri Fabre believed (probably
+incorrectly) to exhibit such behavior.
+strange loop A concept put forth by cognitive scientist Douglas Hofstadter
+referring to a situation in which, whenever one steps upward or downward
+through the layers of some hierarchical system, one unexpectedly finds
+oneself back at the starting point; Hofstadter believes this kind of selfreferentiality is fundamental to consciousness.
+swing (rowing crew) A term borrowed from rowing referring to a state of
+perfect harmony and synchronicity in a crew; used metaphorically (or not)
+to describe the way multiple predictive agents can coalesce into a single
+larger agent.
+symbiogenesis An evolutionary process proposed by biologist Konstantin
+Mereschkowski and further developed by Lynn Margulis, whereby
+symbiosis can lead to new life forms through the long-term union of
+
+separate but interdependent organisms. See also: symbiosis.
+symbiosis A long-term interaction between two different species (or other
+entities) in which both benefit, or one benefits and the other neither benefits
+nor is harmed. See also: symbiogenesis.
+teleology A philosophical concept suggesting that certain phenomena,
+systems, or actions are directed toward ends or goals; while often maligned
+because it seems to imply intelligent design, Wiener, physician Arturo
+Rosenblueth, and computer engineer Julian Bigelow wrote an essay in 1943
+explaining how negative feedback systems in general have a teleological
+character, and experiments like bff show that purposive behavior can arise
+without any intelligent designer. See also: bff, cybernetics.
+Theory of Everything (ToE) A comprehensive theoretical framework that
+would include and reconcile all known physical phenomena and laws,
+including the four fundamental forces—gravity, electromagnetism, the
+weak nuclear force, and the strong nuclear force—into a single coherent
+model of the universe.
+theory of mind (ToM) The ability to attribute mental states like beliefs,
+intents, desires, emotions, and knowledge to oneself and others and to
+understand that others have beliefs, intents, desires, emotions, and
+knowledge that are different from one’s own. See also: intelligence
+explosion.
+“thing in itself” (Ding an sich) The underlying reality of an object,
+independent of any observer’s experience or perception of it; philosopher
+Immanuel Kant coined the term to make a distinction with the
+“phenomenon,” the object as it appears to us.
+Three Laws of Robotics A set of rules devised by science-fiction author
+Isaac Asimov to govern AI behavior, specifying that a robot 1) may not
+injure a human being, 2) must obey orders given by humans except where
+such orders would conflict with the first law, and 3) must protect its own
+existence as long as such protection does not conflict with the first or
+second law.
+Transformer A popular AI model first introduced in the 2017 paper
+“Attention Is All You Need” by Vaswani et al. that uses an “attention”
+mechanism to weight the importance of different pieces of input data;
+Transformers power most modern LLMs, including Gemini, Claude, and
+ChatGPT.
+umwelt A term introduced by biologist Jakob von Uexküll referring to the
+
+perceptual world in which an organism exists and interacts, uniquely
+filtered and shaped by the organism’s specific sensory, motor, and cognitive
+capabilities and experiences.
+universals Abstract concepts, properties, or features, such as redness or
+roundness, thought to exist independently of particular instances or objects,
+a concept explored extensively by philosophers such as Plato and Aristotle.
+utilitarianism A philosophy developed by Jeremy Bentham and John Stuart
+Mill that emphasizes the greatest happiness for the greatest number; the
+ethical value of an action is determined by its “utility,” or contribution to
+overall wellbeing, which is presumed to be representable as a number. See
+also: utility.
+utility A concept central to economics and game theory representing the
+total satisfaction or fulfilment that a person derives from consuming a good
+or service; utilitarian philosophers such as Jeremy Bentham posit that
+actions should be evaluated by their contribution to overall utility, or “the
+greatest good for the greatest number.” See also: utilitarianism.
+vitalism The belief that life and its phenomena are due to a vital principle
+distinct from physical or chemical forces; no longer considered reputable by
+most scholars, though there are a few modern proponents, including
+philosopher Jane Bennett. See also: animism, élan vital.
+von Neumann architecture A computer system architecture proposed by
+mathematician and physicist John von Neumann that still forms the basis of
+most modern computers, where stored-program memory and data share the
+same memory space, and this memory is connected to a central processing
+unit by a bus.
+von Neumann replicator A theoretical self-replicating machine proposed
+by mathematician and physicist John von Neumann that can replicate itself
+using raw materials from its environment, thereby exhibiting exponential
+population growth given a suitable medium and an energy source.
+Wiener sausage (statistical physics) A mathematical construct
+representing the volume swept out by a ball of fixed radius as it moves
+along the trajectory of a Wiener process (a random walk or Brownian
+motion) in space; it is used to study problems involving diffusion and
+encounter probabilities, and provides insights into how a random path
+explores the environment over time.
+Word2Vec An unsupervised machine learning technique that creates word
+embeddings, which are vector representations of words based on the
+
+“company they keep” (i.e., the statistics of the surrounding words);
+developed by computer scientist Tomáš Mikolov at Google Research in
+2013. See also: embedding.
+

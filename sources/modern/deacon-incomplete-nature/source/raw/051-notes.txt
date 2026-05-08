@@ -1,0 +1,419 @@
+NOTES
+
+
+
+CHAPTER 0: ABSENCE
+
+
+
+1. With thanks to Charles Seife, the author of Zero: The Biography of a Dangerous Idea, from which I take this chapter number idea and the quote from Tobias Dantzig’s Number at p. 35.
+
+2. This term was suggested to me by my longtime colleague Tyrone Cashman. Though the term takes liberties with the flexibility of the English language, I think that its somewhat cavalier form is compensated by the way it focuses attention on this one most central feature of these troublesome phenomena. I will resist the obvious tendency to call this metaphysical paradigm absentialism, because as will soon be evident, it is an explanation of the emergent and dynamical character of the processes generating these phenomena that is my primary goal.
+
+3. David Chalmers (1995), “Facing up to the problem of consciousness,” Journal of Consciousness Studies 2:208.
+
+4. A calculating device made with movable beads arranged on strings, originally devised in the Middle East, but spread eastward as far as China, where it is still in use as a calculation aid.
+
+5. For a trivial example, consider that since 0 x 1 = 0 and 0 x 2 = 0, it follows that 0 x 1 = 0 x 2. We can then divide each side by zero (which is the disallowed operation) and cancel 0/0 in each (which for any other number equals 1, but is undefined for 0), and simplify to get 1 = 2.
+
+6. Prior to the work of the eighteenth-century French chemist Antoine Lavoisier, a special substance given the name “phlogiston” was presumed to be present in all combustible materials and responsible for their susceptibility to catch fire.
+
+CHAPTER 1: (W)HOLES
+
+
+
+1. Tao Te Ching #11: This “translation” is my own effort to clarify the meaning of this enigmatic entry, based on comparisons between a number of different translations from the original ancient Chinese text.
+
+2. In a famous thought experiment, the brilliant eighteenth-century philosopher-mathematician Pierre-Simon Laplace suggested that to an infinitely knowledgeable mind the world would be an entirely predictable clockwork process, right down to the movement of each atom. He says: “We may regard the present state of the universe as the effect of its past and the cause of its future. An intellect which at a certain moment would know all forces that set nature in motion, and all positions of all items of which nature is composed, if this intellect were also vast enough to submit these data to analysis . . . it would embrace in a single formula the movements of the greatest bodies of the universe and those of the tiniest atom; for such an intellect nothing would be uncertain and the future just like the past would be present before its eyes.”—Simon Laplace, A Philosophical Essay on Probabilities (1814/1951), p. 4.
+
+3. The function of an organ was once presumed to be inherited from its divine designer, and thus parasitic in the same sense as artifact function. This view still motivates religious critics of evolution. Since Darwin, this analogy has been abandoned in favor of what is often described as a teleonomic view (see chapter 4).
+
+4. The realism/nominalism problem will be faced head-on in chapter 6.
+
+5. A Wikipedia entry (http://en.wikipedia.org/wiki/Little_green_men) suggests that the depiction of aliens as “little green men” may date to an Italian report from as early as 1910, claiming to have captured aliens, and it was also popularized by a newspaper article satirizing Orson Welles’ 1938 broadcast of War of the Worlds. It notes that goblins and gremlins have sometimes been depicted as small green humanoids. The linkage to copper-based blood is unclear, but the blue-greenish blood of some arthropods and mollusks has probably been folk knowledge for centuries.
+
+6. Interestingly, the legal system has come down on the side of nominalism when it comes to patentability and ownership of software. In a famous precedent-setting lawsuit, the Apple computer company brought suit against Microsoft for copying the “look and feel” of its object-based Macintosh interface. Apple argued that many features of the Macintosh interface appeared in the Windows operating system and thus violated its copyright. These included icons like file folders, click and drag effects, the use of a mouse, and a trash bin for erasing files. Microsoft won the lawsuit by arguing that although there were indeed obvious similarities of “look and feel,” they were created by entirely different software instructions, and thus there was no use of the actual code that Apple had patented.
+
+7. Richard Dawkins (1996), p. 133.
+
+8. Steven Weinberg (1993), p. 154.
+
+9. Francis Crick (1994), p. 3.
+
+10. Jerry Fodor (1990), p. 156.
+
+11. The title implicitly parodies Bishop Paley’s notion that organisms, like watches, could only have been created by an intelligent designer with a purpose in mind. By describing the watchmaker as unable to see, Dawkins is effectively arguing that there is neither forethought nor purposely guided selection of components and assembly involved. See Dawkins’ The Blind Watchmaker (1996).
+
+12. Except for that one tiny exception, the Big Bang, which created the whole of the visible universe. But that’s another story.
+
+CHAPTER 2: HOMUNCULI
+
+
+
+1. Daniel Dennett, Brainstorms (1978), p. 12.
+
+2. Osmosis Jones, dir. Tom Sito and Piet Kroon with the Farrelly brothers, Warner Bros., 2001.
+
+3. B. F. Skinner, “Behaviorism at Fifty,” in T. W. Wann, ed., Behaviorism and Phenomenology (1964), p. 80.
+
+4. Francis Crick and Christof Koch (2003), Nature Neuroscience 6:120.
+
+5. This theory is often paraphrased by the epigraph “ontogeny recapitulates phylogeny,” which means that developmental stages effectively retrace the stages of phylogenetic evolution leading up to the present individual. This was presumed to occur because prior phylogenetic stages represented less elaborated developmental sequences.
+
+6. Steven Pinker, The Language Instinct (1995), pp. 81–82.
+
+7. Stephen Hawking, A Brief History of Time (1988), p. 1.
+
+8. Seth Lloyd, Programming the Universe (2006), p. 147.
+
+9. Ibid.
+
+10. See Alfred North Whitehead’s Process and Reality (1928/1979).
+
+CHAPTER 3: GOLEMS
+
+
+
+1. B. F. Skinner (1971), p. 200.
+
+2. Daniel Dennett (1978), p. 12.
+
+3. For the classic statements of these versions of eliminativism, see, e.g., Rorty (1970), Stich (1983), Paul Churchland (1989, 1995), Patricia Churchland (1986), and Dennett (1987, 1991).
+
+4. I am indebted to theological graduate student Adam Pryor for providing the Hebrew text that demonstrates this typographical pun.
+
+5. Gregory Bateson (1979), p. 58.
+
+6. Although Noam Chomsky’s article criticizing Skinner’s “Verbal Behavior” and a series of learning experiments by John Garcia are often credited with striking major blows, they are probably more like symptoms rather than causes of the abandonment of behaviorism for a more cognitive approach, which was also influenced by people like Jean Piaget and Jerome Bruner.
+
+7. In contemporary digital computers this is accomplished by compiler software, which is usually machine-specific, and mapped to global machine operations.
+
+8. Though it didn’t succeed altogether, since as a young man I spent one summer on a rail crew as a “gandy dancer” using a hammer to straighten out spikes bent by a modern version of a motorized spike driver.
+
+9. From IBM Research Lecture RC-115, given in 1958. See Irving J. Good (1959).
+
+10. Jerry Fodor (1980), pp. 148–49.
+
+CHAPTER 4: TELEONOMY
+
+
+
+1. This quote from E. Von Bruecke, a nineteenth-century physiologist, was quoted in Cannon (1945), p. 108. Thanks to Don Favareau for suggesting this quote.
+
+2. See Ernst Mayr (2001), “The philosophical foundations of Darwinism,” Proceedings of the American Philosophical Society, vol. 145, no. 4 (December), pp. 492–93.
+
+3. Ernst Mayr (1974), chap. 3; italics in the original.
+
+4. Ibid.
+
+5. Ibid., p. 98.
+
+6. Jesper Hoffmeyer (1996), p. 56.
+
+7. Quoted in ibid.
+
+8. Paul Weiss (1967), p. 821.
+
+CHAPTER 5: EMERGENC
+
+
+
+1. The author’s translation of a line from Ilya Prigogine and Isabelle Stengers, La Nouvelle Alliance (1979), p. 278.
+
+2. George Henry Lewes (1874), Vol. II, p. 412.
+
+3. John Stuart Mill (1843), Bk III, chap. 6, sect. 1.
+
+4. Gregory Bateson (1979), pp. 455–56.
+
+5. See Robert Wilson’s Genes and the Agents of Life (2005).
+
+6. This quote from Stephen Hawking appeared in a 2000 newspaper interview. See Hawking: “I think the next century . . .”
+
+7. Mill (1843), Bk III, chap. 6, sect. 1.
+
+8. Strict Darwinians of the time followed August Weismann’s dictum that acquired somatic changes could not directly influence what was inherited via the germ line in the next generation.
+
+9. See Conwy Lloyd Morgan’s Emergent Evolution (1923).
+
+10. See, e.g., Leo Buss, The Evolution of Individuality (1987), or Eörs Szathmáry and John Maynard Smith, The Major Transitions in Evolution (1995).
+
+11. See C. D. Broad, The Mind and Its Place in Nature (1925).
+
+12. Samuel Alexander, Space, Time, and Deity (1920).
+
+13. For more detailed philosophical taxonomies of emergence, see, e.g., Philip Clayton, (2003), Michael Silberstein and Anthony Chemero (2009), or the Stanford Encyclopedia of Philosophy at http://plato.stanford.edu/entries/properties-emergent/.
+
+14. See Paul Humphreys (1997 a & b). Humphreys would probably object to the much broader analogical extension of his concept of fusion that I employ in this comparison. However, the heuristic usefulness of the general idea implicit in his more technical usage is that it exemplifies the system dependence of the concept of a component part.
+
+15. “Synchrony” refers to processes and events occurring simultaneously, whereas “diachrony” refers to processes and events that succeed and follow one another in time.
+
+16. Jerry Fodor (1998), p. 61.
+
+17. See Conwy Lloyd Morgan (1923).
+
+18. Donald Davidson, “Mental Events,” in L. Foster and J. W. Swanson, eds., Experience and Theory (1970), p. 214.
+
+19. See, e.g., Pepper (1926).
+
+20. Mark Bickhard, “Process and Emergence” (2003). To support this claim from quantum physics, Bickhard cites numerous distinguished physicists including, notably, Steven Weinberg (1995, 1996, 2000).
+
+21. The phrase phase space originates from the use of graphs to represent the way that substances (like water) change phase from solid to liquid to gas with respect to different values of temperature and pressure. Graphs of other forms of dynamical processes can involve many dimensions, and so may not be easily depicted. The term state space is in many respects more accurate, since each point in such a graph represents a specific state of the system; however, we can also think of the points along a trajectory of change as being phases of change. In real-world systems, and even complex mathematically represented systems, such trajectories never intersect themselves. But in finite automata this will ultimately occur, at which point the trajectory will form a complex loop following an identical path over and over from that time forward.
+
+22. The phrase is borrowed from the philosopher Daniel Dennett, who used it to characterize an argument that while not demonstrative, nevertheless aids in thinking more clearly about a difficult problem.
+
+23. Mark Bickhard (2005).
+
+24. To continue the analogy, fMRI effectively produces a snapshot that is averaged across distances many orders of magnitude larger than neurons, averaged across many seconds or minutes, and often even averaged across multiple trials and multiple subjects.
+
+25. See Timothy O’Connor (2000).
+
+26. Douglas Hofstadter coins this expression in his Gödel, Escher, Bach (1979).
+
+CHAPTER 6: CONSTRAINT
+
+
+
+1. W. Ross Ashby (1962), p. 257.
+
+2. A notion that can be compared with the indeterminacy of modern quantum physics.
+
+3. C. S. Peirce, Collected Papers, Vols. 1–6 (1931–35), 1:16, 4:1.
+
+4. More subtly, in chapter 11 when we return to consider the concept of work—i.e., that which is necessary to change things in non-spontaneous ways—we will discover that it takes constraint to produce work; and in chapters 12 and 13 we will discover that constraint is also the defining attribute of information.
+
+5. A non-linear equation is one in which one or more variables in that equation take on the value of the result of performing the calculation that the equation specifies. Thus, given an initial value, the same calculation is repeatedly performed, with each successive calculation incorporating the resultant value of the previous calculation as the updated value of that variable. A classic example is the calculation of compounded interest, in which the interest on a principal is added to the remaining principal to yield the new principal on which the next calculated interest value is based, and so forth.
+
+6. Robert Laughlin would even extend this logic to make it a basic factor distinguishing quantum from classical dynamics (though I am not qualified to assess this claim). As has been understood for nearly a century, although quantum fluctuations are ubiquitous and inject irreducible indeterminateness into all quantum-level interactions, these noiselike effects typically wash out above the atomic scale to produce material interactions that are nearly indistingushable from those predicted by Newtonian dynamics.
+
+CHAPTER 7: HOMEODYNAMICS
+
+
+
+1. Curiously, there were efforts to explain gravitation in efficient causal terms following Newton and before Einstein. One theory hypothesized that the gravitational “force” might occur due to a kind of shielding effect. Laplace imagined that there were vast numbers of particles careening around the universe, constantly bumping into solid matter and moving it about, a bit like atoms in Brownian motion. An object isolated in space would be evenly bumped on all sides and would therefore remain at rest. Two objects brought into close proximity would, in contrast, partially shield one another from collisions on the sides facing each other, and this would produce an asymmetrical force on each, propelling them together.
+
+2. You might also say that gravitational-inertial mass is itself just a local warp in space-time, though this is not the standard interpretation.
+
+3. This partial isolation of properties and the possibility of linking previously isolated dimensions of change, like transforming heat into linear motion in a heat engine, will be explored in extensive detail in chapter 11, as it pertains to the concept of work.
+
+4. The analogy between Newtonian and thermodynamic interactions is actually closer than might first be apparent. Real billiard balls also have microscopic atomic structure, and the transfer of momentum from one to the other is mediated by a transient distortion of the relationships between atoms that is quickly propagated through each ball during the exchange of momentum. In this respect, this transient period of atomic-level deformation leading up to elastic rebound is analogous to the period of heat transfer between contiguous media, and the resultant state of whole ball movement is analogous to the new equilibria that the two media settle into. And although the heat (i.e., average molecular momentum) in each medium may be equivalent after interaction, if they are composed of different numbers of molecules, the total amount of molecular momentum in each will be appropriate to this difference.
+
+5. The term phase space initially referred to graphs that depict the way variables like temperature and pressure interact to determine the change in phase (e.g., from liquid to gas).
+
+6. The metaphor of a warped phase space is actually not the way attractors are usually graphed. More commonly, the space is Euclidean and attractors show up as areas of more dense trajectories. Indeed, this analogy is only heuristic because the dimensionality of a thermodynamic system of even modest size is high and thus quite beyond depiction. This way of thinking about the attractor bias in trajectory orientation is intended to highlight the geometric nature of the causality.
+
+7. It can be objected that the so-called modern scientific paradigm being invoked here is actually a hundred-year-old pre-relativistic and pre-quantum understanding of causality. This is in fact the case. Does this mean that these concepts and this way of fractionating the notion of causality are irrelevant to modern physics, or that these distinctions are likely to be undermined by considering them in light of more contemporary physical theory? I don’t think so. I suspect that pursuing a similar logic in an analysis of quantum-level and relativistic processes might indeed help explain some of the more paradoxical aspects of these processes. This is a matter that would at least require another book, and for the purpose of making sense of the teleological features of life and mind, I believe that these extremes of scale in space, time, and energy are not relevant. We need go no further than classical statistical mechanics to make sense of these phenomena.
+
+8. C. S. Emmeche, S. Køppe, and F. Stjernfelt, Levels (2000), p. 31.
+
+9. Whether we can identify homeodynamic processes at even deeper quantum levels is unclear to me, though I suspect that some variant of these reciprocal orthograde-contragrade dynamical relationships will even apply in this strange domain as well.
+
+CHAPTER 8: MORPHODYNAMICS
+
+
+
+1. Peirce’s 1898 series of Harvard lectures to which he was invited by William James. Reprinted in Reasoning and the Logic of Things: The Cambridge Conferences Lectures of 1898 (1992), Cambridge, MA: Harvard University Press, p. 258.
+
+2. Paul Weiss (1967).
+
+3. Literally, “in glass,” meaning in a laboratory experiment performed within a dish, not within an organism.
+
+4. Note that dependence on what occurred previously in the sequence also describes the additive logic of the Fibonacci series.
+
+5. For a recent demonstration of the spontaneous formation Fibonacci spirals in a non-organic material, see Li et al. (2005, 2007).
+
+6. Ashby later cautioned against a too literal interpretation of self-organization for reasons analogous to those discussed here.
+
+7. Bénard (1900).
+
+8. For example, hexagonal close packing occurs spontaneously when same-size balls are packed together tightly on a planar surface.
+
+9. For the sake of narrative flow, after having painstakingly dissected Bénard cell dynamics, I will simplify each of the following accounts, ignoring the many subtle differences that make their emergence slightly disanalogous to Bénard cell emergence, and focusing mainly on the major features that exemplify their logic of constraint transfer and amplification.
+
+CHAPTER 9: TELEODYNAMICS
+
+
+
+1. David Bohm, “Some Remarks on the Notion of Order” (1968), p. 34.
+
+2. Ulanowicz (2009) argues that the dynamics of living systems contradict the fundamental axioms of Newtonian dynamics.
+
+3. See Ilya Prigogine, Introduction to Thermodynamics of Irreversible Processes (1955).
+
+4. Dewar in Whitfield (2005), p. 907.
+
+5. Kleidon, in ibid.
+
+6. Swenson (1989), p. 46.
+
+7. E. D. Schneider and J. J. Kay (1997), p. 165.
+
+8. See Stuart Kauffman (2000).
+
+9. Maturana and Varela (1980).
+
+10. Bickhard (2003).
+
+11. See John von Neumann (1966), p. 67.
+
+12. See E. V. Koonin (2000).
+
+13. See R. Gil et al. (2004).
+
+14. See recent reviews in Rassmussen et al. (2004) and also Szathmáry et al. (2005).
+
+15. T. R. Cech (1986).
+
+16. But see Frietas and Merkle (2004) for a review of the state of this research.
+
+17. See, e.g., Anet (2004); Andras and Andras (2005); de Duve (1996); Kauffman (1995); and Morowitz (1992).
+
+CHAPTER 10: AUTOGENESIS
+
+
+
+1. Immanuel Kant, The Critique of Judgment (1790), Sect. 65, p. 558.
+
+2. Kauffman (2000).
+
+3. Eigen and Schuster (1979).
+
+4. Kant (1790), Sect. 65, p. 557.
+
+5. See Deacon (2004, 2005, 2007).
+
+6. Though neither are literally self-replication. Both require reciprocal relationships between molecules; and even if RNA molecules are able to assume both template and catalytic functions, they can’t do both at once, even in the simplest cases envisioned. See the more detailed critical discussion of this concept in chapter 14.
+
+7. Von Uexküll (1957).
+
+8. Francisco J. Varela (1992), p. 11.
+
+CHAPTER 11: WORK
+
+
+
+1. From a textbook on thermodynamics: H. C. Van Ness, Understanding Thermodynamics (1969).
+
+2. Gergory Bateson, Steps to an Ecology of Mind (1972), p. 453.
+
+3. I.e., there is total energy symmetry across time in accordance with the first law of thermodynamics.
+
+4. The curious fact that it takes work to change or produce constraints, and that constraints are required to do work, is discussed as an important clue to what Stuart Kauffman describes as the missing “theory of organization,” in his book Investigations (2000).
+
+CHAPTER 12: INFORMATION
+
+
+
+1. John Collier (2003), p. 102.
+
+2. Franz Brentano (1874), Psychology from an Empirical Standpoint, pp. 88–89.
+
+3. Indeed, this is what makes self-organizing dynamics so intriguing and makes living dynamics often appear planned and executed by an external or invisible agency.
+
+4. Shannon based his analysis on the model of a transmission channel such as a telephone line with a fixed limit to the variety and rate of signals that it could carry. This model system will be used throughout the discussion to be consistent with Shannon’s terminology; but the analysis equally applies to anything able to convey information, from text on a page to physical traces used as clues in a criminal investigation.
+
+5. Thus the probability of appearance of each character at each position is maximally uncorrelated with all others, as is the movement of each molecule in a gas at equilibrium. This justified calling both conditions maximum entropy.
+
+6. See Warren Weaver and Claude Shannon (1949).
+
+7. See Deacon (2007, 2008).
+
+8. For example, negentropy plays a central role in Erwin Schrödinger’s famous essay What Is Life?
+
+CHAPTER 13: SIGNIFICANCE
+
+
+
+1. Personal communication from Stuart Kauffman. See also Kauffman et al. (2008).
+
+2. This does not necessarily mean that there is a loss of functionality accompanying this reduction. In fact, in biology just the opposite is true. The functional features of protein molecules are mostly a function of their three-dimensional structure. This is a secondary consequence of the different properties of their constituent amino acids (coded in the DNA) and how these properties in this order interact with one another and with the surrounding chemical milieu. Because of this, a protein embodies a considerably higher potential Shannon entropy than does the DNA sequence that codes for it. This contributes to an enormous amplification of information from genome to cellular organization.
+
+3. See, e.g., Karl Popper (2003) and Donald T. Campbell (1974).
+
+4. E.g., Fred Dretske (1988) and Ruth Millikan (1984).
+
+5. See, e.g., critiques by Mark H. Bickhard (1998, 2000, 2003, and 2005).
+
+6. Although other organisms sharing the same ecosystem may comprise a significant source of relevant selection “pressures,” they do not generally directly modify the information passed from generation to generation, but simply impose complex changing boundary conditions on one another. Parasites, predators, and opposite-sex conspecifics may however exert a more direct constraining influence.
+
+7. See Charles Sanders Peirce (1931–35).
+
+CHAPTER 14: EVOLUTION
+
+
+
+1. See D. Batten, Stanley Salthe, and F. Boschetti (2009), p. 27.
+
+2. Peter A. Corning (1995), p. 112.
+
+3. James Mark Baldwin (1896), Sect. V.
+
+4. Less well known is the fact that for much of his career, Pasteur himself was convinced that life could be spontaneously generated. He just believed that others working on the problem were less careful about contamination and had missed what he considered to be the crucial factor: something he had discovered in his effort to understand the cause of problems in the winemaking industry—the asymmetrical left-handed twist of organic molecules, like the sugars produced by grapes. He had discovered this by virtue of the way that sugar crystals from healthy wine barrels rotated light in one direction as seen through polarization filters. After exploring this phenomenon in other contexts as well, he came to the realization that despite the lack of an obvious inorganic preference for this way of contorting molecules, those which were formed by organisms invariably exhibited crystalline forms producing this same one-way twist. The cause of this universal asymmetric “chirality” (i.e., handedness, like the mirror difference between left and right hands) of biologically generated molecules remains somewhat of a mystery, and is not irrelevant to understanding the origins and nature of life. To Pasteur, this looked like the key to the “secret of life.” His notebooks turn out to be filled with elaborate techniques for introducing twists into chemical processes, hoping to produce the left-handed chemistry of life from otherwise sterilized and sealed chemical soups.
+
+Today, most biologists assume that the left- as opposed to right-handed twist of biologically produced sugars is not an essential feature of life. Rather, because of the necessity to pass molecules around a circuit of synthetic and catalytic metabolic steps, mixed chiralities would be far more likely to produce incompatibilities and competitive interactions that would in effect get in each other’s way. With such a mix of nearly similar but incompatible small building blocks, complex webs of metabolic processes would be far less likely to evolve. Why left and not right twists? Perhaps just an accident of evolution—a consequence of a slight asymmetry of percentages of molecular forms present in the initial conditions in which life formed; perhaps because of a slight bias in nature that makes the left forms slightly more probable in prebiotic synthesis; or maybe, as Pasteur thought, there is something else that is special about life that requires molecular left-handedness. For our purposes, however, coming to a conclusion about this mystery will not be necessary, since it is likely contingent on a strictly chemical explanation, not one that should affect an account of the emergence of ententional properties in general.
+
+
+
+5. The republication of many Bastian’s books and papers, along with commentaries by his contemporaries, has rekindled interest in many aspects of his work, especially in areas that have only recently again become of scientific interest as representing certain over-simple dogmas concerning the nature of life, the causes of disease, and the role of inorganic processes in the origins of life.
+
+6. In fact, I will argue that conditions on the primordial Earth may not have been conducive even to autogenic emergence. The problem is also the solution: water. Water is the ideal solvent for biochemical reactions, but it poses a barrier to one of the crucial requirements for protolife to emerge, whether in autogen form or any other form. The problem is that large organic polymers tend to break down in water, and it is hard to get them to form, because they require dehydration reactions. Ultimately, I think this forces us off the early Earth to explain the first steps toward life.
+
+7. Although, due to the remarkable conservatism of many genes, the result is surprisingly often not noise; however, it may be a very different sort of consequence than would be produced in the donor organism.
+
+8. There is a trivial exception. Alternating sequences of ATAT or GCGC, etc., will produce replicas, but note that the information-carrying capacity is nil, except for length difference and alternation redundancies.
+
+9. I am less satisfied with my effort to map Peirce’s object terms onto this process.
+
+10. See Margulis and Sagan (1995), and Dyson (1999).
+
+11. See Deacon (2006a).
+
+12. Some of the implications of this argument are that we should expect to find diverse forms of extraterrestrial protolife in planetary and even extraplanetary environments quite different from those on Earth. Consequently, we will need to significantly expand the scope of what we consider astrobiology (or exobiology). I have elsewhere suggested that autogenic, non-template-based replication will be widespread and diverse, whereas template-based, informational replication and control of organism development will be rare because of the much more limiting requirements. I have given the name Autaea to all protolife and life forms, and Morphota to those like autogens that replicate via holistic molecular dynamic constraints, and have designated those, like Earth life, that use information-based reproduction and morphogenesis Semeota. Modern fossils of ancient autogenic mechanisms are not likely present except as aspects of still more complex organisms, or else parasitic on them. Thus viruses and structures like microtubules still utilize processes characteristic of autogenic chemistry.
+
+CHAPTER 15: SELF
+
+
+
+1. Daniel Dennett, “The Origin of Selves,” Cogito 3 (Autumn 1989), pp. 163–73.
+
+2. The story is even more complicated for plants, since besides mitochondria, they house organelles called chloroplasts (which carry out photosynthesis) that have yet a different bacterial origin and bacterial genomic structure.
+
+3. This is a quote from the well-known, very sad case of an anterograde amnesic patient named Clive Waring, about whom a number of video documentaries have been made.
+
+4. This catch phrase has been attributed to Maslow by many authors in slightly different forms, though I have searched in vain for a published citation. I first came across a mention of it decades ago in the introduction to Robert Ornstein’s The Psychology of Consciousness (1977).
+
+CHAPTER 16: SENTIENCE
+
+
+
+1. From William James’ essay “The Will to Believe,” in The Will to Believe and Other Essays in Popular Philosophy (1897), Cambridge, MA, & London: Harvard University Press, 1979, p. 198.
+
+2. See Alan Turing’s 1950 paper on “Computing Machinery and Intelligence.”
+
+3. First presented in John Searle’s 1980 article “Minds, brains and programs.”
+
+4. Terry Bisson, “They’re Made Out of Meat,” Omni (April 1991).
+
+5. These are no more than guesses. It is not obvious how one would actually go about assessing such a problem. The idea that a good deal of neural signal transduction is highly stochastic is strongly implicated by the spontaneous resting firing rates of many neurons, the highly unstable nature of the resting potential, and the molecular variability intrinsic to cellular metabolism.
+
+6. For example, it involves the comprehension of symbols—a capacity that is uniquely complex in itself, and distinctively human.
+
+CHAPTER 17: CONSCIOUSNESS
+
+
+
+1. Jerry Fodor in the Times Literary Supplement, July 3, 1992, p. 5.
+
+2. I would even venture to speculate that there could be emergent levels of sentience above the human subjective level, in the higher-order dynamics of collective human communications—sentience that we large-brained, symbolically savvy individuals would never be able to experience, even though our sentient conscious interactions happened to be its necessary constituents. Of course such a sentience could only arise if these human interactions constituted a higher-order teleodynamic individual; a reciprocally organized, self-perpetuating complex of morphodynamic processes.
+
+3. See Gregory Bateson (1972), “Form, Substance, and Difference,” in Steps to an Ecology of Mind: Collected Essays in Anthropology, Psychiatry, Evolution, and Epistemology, pp. 457–61.
+
+4. In vertebrate brains, these neural regulatory centers for vegetative processes function nearly as deterministically as simple cybernetic control circuits, and yet they still typically tend to involve homeo- and morphodynamic processes generated in local neural networks. But they have evolved such strict constraints that they essentially simulate the deterministic predictability of cybernetic dynamics.
+
+EPILOGUE
+
+
+
+1. From Friedrich Nietzsche, “Good and Evil, Good and Bad,” in On the Genealogy of Morals (1887/1967), Vol. 1, Part 1, Sect. 17, p. 798. The original four-volume Schlechta edition in German includes this text as a note (Anmerkung) in small print. The original German sentence reads: “Alle Wissenshaften haben nunmehr der Zukunfts-Aufgabe des Philosophen vorzuarbeiten: diese Aufgabe dahin verstanden dass der Philosoph das Problem vom Werte zu loesen hat, dass er die Rangordnung der Werte *zu bestimmen hat.”
+
+2. The philosopher Ruth Millikan’s discussion (1984) of the thought experiment in which an exact living replica of a lion instantaneously materializes was intended to explore the role that prior natural selection history plays in our understanding of biological function. Because she, along with Fred Dretske (1988), explains functionality in terms of prior selection history, the duplicate lion’s various organs are not considered to have functions (except by reference to being copies of evolved lion organs). Here I take a view, also expressed by Mark Bickhard (2003), that function is not created by natural selection but is rather preserved and tested by it. Function emerges instantaneously as an alignment with the dynamical tendency of some process (e.g., the beating of the heart) with the teleodynamic tendencies of the whole system of which it is a component.

@@ -1,0 +1,138 @@
+2 — History
+
+It is not random that classical first-wave AI was based on symbolic representation. Its approach, immortalized in Haugeland’s indelible phrase “good old-fashioned Artificial Intelligence” (GOFAI),1 grew out of four vaguely Cartesian assumptions:
+
+C1 The essence of intelligence is thought, meaning roughly rational deliberation.
+
+C2 The ideal model of thought is logical inference (based on “clear and distinct” concepts, of the sort we associate with discrete words).
+
+C3 Perception is at a lower level than thought, and will not be that conceptually demanding.2
+
+C4 The ontology of the world is what I will call formal:3 discrete, well-defined, mesoscale objects exemplifying properties and standing in unambiguous relations.
+
+Regarding C1, when AI was founded, the term “intelligence” was given no very specific meaning. The aim was simply to construct a machine that intuitively seemed “smart”—that could think, emulate human rationality, or demonstrate cognitive prowess. Since that time, people have substantially enlarged the scope of mental activity toward which they direct AI—most obviously by including perception, action, and categorization within mainstream AI research, but also by exploring emotion, cognitive development, the nature of assertion and denial, and so forth. But in the beginning, conceptual representation was largely taken as given, and the focus was directed toward a roughly logicist conception of thinking and reasoning.
+
+There is nothing specifically computational about assumptions C1–C4.4 An additional insight was required in order to tie them into computation, arising from nineteenth- and twentieth-century developments in logic in the work of Boole, Peirce, Frege, and others. It bears a word of explication here, partly because appreciation of it has waned,5 but also because it allows us to frame the challenge that all intelligence must face.
+
+The insight rests on a fundamental thesis about representation and the nature of physical causality. It takes the form of a claim that it is possible to build a system with four crucial properties, which together allow (us to take) it to “reason” or “process information”:
+
+P1 The system works, mechanically, in ways explicable by science. We can build such devices. Nothing spooky is required. No magic or divine “inspiration”; no elixir of life or soul.
+
+P2 The system’s behavior and constituents6 support semantic interpretation—that is, can be taken to be about (mean, represent, etc.) facts and situations in the outside world.7
+
+From these two properties it follows that a wedge opens up between two ways of understanding computers: (i) what they do, when that is understood “under interpretation”—that is, in terms of the entities in the world that the representations signify; and (ii) how they work, as (uninterpreted) causal mechanisms. Examples of the former (what they do under interpretation) include calculating the prime factors of a large number, figuring out the shortest route through all American state capitals, predicting the outcome of the fall election, telling time. These activities are not described in terms of what is going on inside the machine, but in terms of what the world is or might be like, based on an interpretation8 of the machine’s output or behavior. Predicting that the government will fall is a prediction about politics, not (in the first instance) about the characteristics of an output or data structure. Information that Montreal is north of Ottawa has to do with how the world is arranged, not with bits or channels or measures or symbols.
+
+Understanding intelligence under interpretation is utterly commonplace.9 If I ask “what’s on your mind?” you are likely to reply “I’m thinking that ___________,” where the blank is filled with a description of the world, not of your thoughts as uninterpreted causal patternings (few are the people who would say “I have just increased my cortisol level by 2.7% and sent 107 neural firings across my corpus callosum”).10
+
+Principles P1 and P2 are recognized as fundamental to the structure of logic, and underlie the “formal symbol manipulation” construal of computing as well. While I believe the next two also apply to both logic and computing, they are less commonly highlighted or remarked.
+
+P3 The system is normatively assessed or governed11 in terms of the semantic interpretation.
+
+What matters about such systems—whether they are right or wrong, true or false, useful or useless—has to do with an assessment of what they are interpreted as representing or saying. Is it true that if we launch in that direction we will ultimately get to Saturn? That there are 78,498 primes less than a million? That at this rate it will take 87 years to pay off our mortgage? It does not matter how efficient an algorithm is if it produces a misleading or wrong answer.
+
+The fourth point is the most difficult to understand, but the most metaphysically basic. It raises a fundamental challenge for all forms of intelligence. I would even go so far as to say that it is what establishes the problem that intelligence is “designed” to solve. I will frame it in terms of effectiveness, meaning “something that can be done by physical or mechanical means.” Setting aside complexities due to mathematical modeling, this is the sense that computer science studies under its label of “effective computability.” Subtleties abound, but for present purposes the word can be understood as an approximate synonym for “immediately causal.”12
+
+P4 In general, semantic relations13 to the world (including reference) are not effective.
+
+The presence of a semantic relation cannot be causally detected at either end—neither at the signifying object or event (term, word, representation, data structure, thought, etc.) nor at the signified entity (reference, denotation, or represented entity or state of affairs). You cannot tell what a representation represents, for example, by local measurement or detection. No physical detector, located at an object, can determine whether that object is the object of a description or directed thought. While “being referred to or represented” is a perfectly real property (which often matters a great deal), no wave of discriminable energy travels along the arrow of intentional directedness; it is not a signal that any physical instrument can pick up. Creatures on Andromeda could be thinking about us right now, without there being any way for us to know or find out; similarly, you can refer to the sun without eight seconds having to pass before the sun is referred to. Nor can reference (aboutness) be blocked by physical barriers. I can think about Alpha Centauri even if you lock me in a lead vault. If, in that vault, I suppose that Reno is east of Los Angeles, I can still be wrong.14
+
+The noneffectiveness of reference and semantics15 is fundamental to the nature of representation and intelligence, and radically affects ontology as well—the objects and properties in terms of which we find the world intelligible. It is a consequence of the most basic fact in all of physics: that causal influences fall away locally in both space and time. The fact that the universe is a web of purely local influence poses a formidable challenge to any system or creature aiming to comprehend its world. It means that no system, human or machine, can determine what is going on merely by “looking out” and seeing or sampling it (drastically limiting the applicability of Brooks’s famous maxim that “the world is its own best model”16). Most of what matters, most of what an agent cares about—everything in the past, everything in the future, everything that is far away, and a huge number of facts about what is close by, too17—cannot be directly detected. Whether the news is true, whether the chair needs to be moved inside, whether you will ever come to appreciate the advice you were given—none of these things can simply be “read off” the impinging field of causal disturbance.
+
+Yet even if we cannot directly detect it, we need to know—if we are intelligent—what is going on, distally: where we stored those acorns, that a predator lurks behind that rock, that the person who just left the room still exists, rather than having metaphysically vanished, that the sun will rise again tomorrow. If intelligence involves finding the world as a whole intelligible, which I assume to be the case, but we are in effective contact with only that minuscule fraction that is nearby (the effective facts within a 1/r2 spatiotemporal envelope), then it is fundamental to intelligence to understand what is going on beyond what is effectively proximal. Put it more strongly: the world’s being beyond effective reach is the only reason we need reasoning at all. As Strawson pointed out, we need to “know that our senses fail, rather than that the world fades.”18
+
+How do we orient appropriately to a world beyond effective reach? By making use of locally effective structures and processes in the world’s stead—that is, by representing the world. This is essentially a metaphysical requirement on intelligence.19 That it does not contravene P4 (the noneffectiveness of semantics) stems from the fact that representations have two criterial properties: (i) they stand in noneffective semantic relations with what is distal, with what is not immediately effectively available (what they represent); and (ii) they can nevertheless effect or be affected by physical changes within causal proximity. Qua organized pattern of ink on a surface, a sign inscribed with “INTERSECTION AHEAD” can reflect light differentially, causing signals to be activated in the retina, in turn triggering neural activity causing braking behavior; at the same time, within the regime in which it functions as a representation, the sign can stand in some kind of structural relationship (fashioned in such a way as to normatively guide action) with a state of affairs out of sight around the corner. So too a thought about an upcoming speed trap can helpfully cause you to slow down before the police can detect your approaching vehicle—that is, before you are within effective reach of the radar.
+
+The use of representations with these coordinated dual properties is what allows an intelligent system to be physically possible (P1). But in order for such symbols and thoughts about what is beyond effective reach to be correct or worthwhile, those “within reach” local, effective structures and the processes defined over them must be governed by norms framed in terms of the distal, “out of reach” (noneffectively available) situations that the system is about.20 To put it in a single sentence:
+
+◆ REPRESENTATIONAL MANDATE: The proper functioning of any world-directed system—any system that is thinking about or representing or processing information about the world—must be governed21 by normative criteria (P3) applying to its mechanical operations (P1) that are framed in terms of situations and states of affairs in the world that the system is representing or reasoning about (P2), which situations and states of affairs will not, in the general case, be within effective (causal) reach (P4).
+
+Because the norms are framed in terms of the world, and govern the local mechanism—that is, because what matters, in order for the reasoning to be proper or worthy, is what is going on in the world—I say that reasoning systems, and all of intelligence, must be deferential.
+
+The impact on ontology is direct. Representations can satisfy distal norms (norms defined in terms of distal and noneffectively accessible states of affairs) only if their local, effective properties correspond appropriately22 to the properties of the represented situations in whose stead they serve. It follows that the world, to be intelligible, must manifest some degree of time- and distance-spanning correlation.23 At any given place and moment in time, smoke can be recognized as a signal of fire only if the causally efficacious (i.e., effective) presence of smoke reliably correlates with the (potentially unobservable, and thus at least potentially not causally efficacious) fact of something burning, perhaps distally. If reality was everywhere independent, the universe would be random, representation impossible, and intelligence nonexistent. At the same time, the world is not completely correlated; that would lock it up into a rigid clutch, with representation, intelligence, and creatures again proscribed.24 At any level at which we find it intelligible, the world must be partially connected and partially disconnected.25
+
+
+
+Every great idea languishes for most of history in obscurity, has one brief moment of glory, and lives out its dying days as a platitude.26
+
+Figure 1
+
+
+
+The patterns of connection and disconnection necessary for representation, and hence for intelligence, in turn put conditions on possible ontologies. It is no accident that your personhood is not contingent on the moment-to-moment orientation of your limbs—that you do not go out of existence when you stand up, with a new person magically springing into being. If that were true—if our concept of “person” constrained limb orientation—I would not be able to know, at any given moment, whether you existed. In fact no one27 would have a continuing identity at all. It is not just that intelligence requires the ability to track and think about objects, in other words; objects must be patches of reality that can be thought about and distally tracked. Epistemology constrains ontology; it is not just the other way around.28
+
+That thinking, intelligence, and information processing satisfy criteria P1–P4 is the fundamental idea behind formal logic and computing. That they are not just things that humans do, but also things we can build automatic machines to do, was a stunning discovery in the first several decades of the twentieth century. By now it is so obvious that it barely garners mention (see figure 1, page 18). But the insight is fundamental—and, being a precondition for the very possibility of intelligence, impossible to imagine not being true. It enabled the study of formal logic, underwrote the development of the computer, unleashed the first generation of AI systems, led to the development of knowledge representation languages, and in general shaped our conception of how to build world-directed computer systems.
+
+In a moment I will argue that this general insight underlies second-wave AI, too. The initial idea about how to manifest it in a machine, however—that is, the conception underpinning GOFAI or first-wave AI (I will use the two terms essentially interchangeably)—was more limited than initially realized. In the GOFAI era, it was assumed that the evident way to implement it was to build an interconnected network of discrete symbols or data structures, organized in roughly propositional form, operating according to a regimen dictated by an equally symbolic program. This classical “symbolic” architecture still underlies such staple programs as health record systems, Facebook databases, and the calculations of the Internal Revenue Service. There is a sense in which it is still in use in all programs (such as Microsoft Word).
+
+• • •
+
+To a contemporary imagination, especially one entranced by the achievements of second-wave AI, the intellectual underpinnings of GOFAI and first-wave AI may not seem all that impressive—certainly not as groundbreaking as they did in the 1960s and 1970s. But it is essential to recognize that not only did they launch the whole AI enterprise, and in fact the entire development of computing, but the insights on which they are based remain durably deep and powerful. If we are to draw a comprehensive map of the territory of AI, they need to be given appropriate and respectful place.
+
+
+______________
+
+1. John Haugeland, Artificial Intelligence: The Very Idea (Cambridge, MA: MIT Press, 1985), 112.
+
+2. It is not that anyone believed that perception would be simple. Rather, the conceit was that perception, perhaps because so well exemplified in nonhuman animals, should not only be viewed as lower-level than real intelligence, but also, and crucially, much less mysterious—not of the same order as the really profound question of what genuine intelligence was, how it had emerged, how thought was possible in a mere physical device, etc. (That we are perceiving creatures was never thought to be an argument for dualism, or a reason to doubt our material constitution.)
+
+3. This is by no means a standard definition of formality. The term is used in a variety of ways, to mean syntactic, abstract, and mathematical, among other things. See page 324 of On the Origin of Objects for an analysis, along the lines suggested here, of the common thread underlying all of these readings—of formality, au fond, as “discreteness run amok.”
+
+4. If anything, the association of computing with this model of intelligence ran the other way: Turing’s proposal for his eponymous machines was based on his logicist conception of intelligence.
+
+5. Though contemporary programmers may not recognize the formulation spelled out on the following pages, Turing would have found it unexceptional.
+
+6. Philosophers draw a distinction between a system’s behavior or identity as an integrated whole, and its internal constituents (data structures, ingredients, etc.)—with properties of the former, in the human case, being called personal; the latter, subpersonal. The difference is easiest to understand in ethical cases. While we might hold you accountable for doing something egregious, if neuroscientists were to trace the reason for your misbehavior to abnormal functioning of your brain, it would be odd to say “Bad amygdala!” But the distinction between personal and subpersonal is hard to draw carefully, even in the human case. Are memories, which clearly admit of semantic interpretation—in fact are comprehensible only in such terms—constituents of your mind, or external (personal-level) behaviors?
+
+The distinction matters greatly in some cases—including with respect to the notion of judgment being developed here, which I will argue to be an irrevocably “personal” or “systemic” capacity, rather than being the capacity of any ingredient or subpersonal part. It is not, however, relevant to this origin story about AI.
+
+7. As mentioned in chapter 1, this is not what “semantics” means in computer science, where the term has come to be used as a name for the mechanically individuated behavioral consequences of a program or data structure. For details see my forthcoming Computational Reflections. More generally, the claim that computation is a semantic or intentional phenomenon at all is increasingly challenged (see, e.g., Gualtiero Piccinini, Physical Computation: A Mechanistic Account, Oxford: Oxford University Press, 2015), though I stand by my claim.
+
+8. “Interpretation” is another term that is given an internal, mechanist reading in computer science, but that I use here in its normal English sense, as having to do with the world or intentional subject matter.
+
+9. In fact intelligence only is intelligence under interpretation. “Being intelligent” is not a description of uninterpreted causal behavior or mechanical configuration.
+
+10. I will have more to say about semantic interpretability later. For now, it is important merely to note that the issues of whether the interpretations are arbitrarily attributed and thus changeable at whim (as Searle presumes in his Chinese Room example), whether they are anchored or grounded in the world (in what is known as the “symbol grounding problem”), and whether the semantics is “original” or “derivative” (or “authentic” and “inauthentic,” as discussed by Searle and Haugeland) are at least partially independent. See chapter 7, pages 78–79.
+
+11. I would say “normatively evaluated,” except that, like “semantics,” the term “evaluate” has come to take on a purely behavioral meaning in computer science, at odds with its historically normative sense of worth, propriety, being “right” or true, etc.
+
+By “governed” I do not mean causally or mechanistically controlled, but something closer to what is meant by saying that a democratic society is “ultimately governed by respect and trust”—or that physical events are “governed by the laws of nature.”
+
+12. Technically, “effective” should be understood as a higher-order property, holding of those properties in virtue of the exemplification of which something can do physical (causal) work. That said, the relation between computer science’s notion of effectiveness and classical treatments of causality warrants investigation—especially once it is recognized that the notion of effective computability cannot be defined purely abstractly, which I believe. See my “Solving the Halting Problem, and Other Skullduggery in the Foundations of Computing,” unpublished manuscript.
+
+13. By semantic relations I mean the relations between signs (terms, noun phrases, representations, descriptions, thoughts, data structures, etc.) and the objects that they signify (refer to, denote, describe, represent, or are about).
+
+14. I describe the following iPhone application to my students, guaranteeing—with my life!—that if they can build it, they will earn a billion dollars. The application is specified to work as follows: once someone loads it onto their phone and starts it up, the phone will beep every time someone thinks about them.
+
+Many students, being committed mechanists, claim that they could surely build such an app, at least conceptually, by instrumenting everyone’s brains, uploading everyone’s thoughts to the cloud, sending a signal to the target’s phone at just the right time, and so forth. But that is not the point—nor the challenge. My claim is that there is a fact of the matter, right now, as to whether any particular person is being thought about at any given instant—but that fact does not result in any physical disturbance or “signal” arriving at that person.
+
+I am not worried.
+
+15. In saying that semantics is not effective, I am not denying that semantical acts can and do have causal consequences. “Can you reach the salt?” may trigger the salt’s being passed; Galileo’s defense of heliocentrism led him to be branded as a heretic. The point is that intentional acts neither make nor require effective (causal) contact with the states of affairs they are about.
+
+16. Rodney Brooks, “Intelligence Without Reason,” MIT Artificial Intelligence Laboratory Memo 1293 (1991); the phrase also occurs in the version of his “Intelligence Without Representation” in John Haugeland, ed., Mind Design II: Philosophy, Psychology, Artificial Intelligence (Cambridge, MA: MIT Press, A Bradford Book, 1997), p. 405. The point in the text is not that Brooks’s thesis is false; it is that it is only useful with respect to immediately surrounding circumstances.
+
+17. All those states of affairs that involve the exemplification of noneffective properties.
+
+18. P. F. Strawson, Individuals (London: Methuen, 1959). Similarly, “We think so that our hypotheses can die in our stead,” Popper’s famous maxim, makes sense only because of the discrepancy between the semantic reach of our thoughts and the causal extent of the world.
+
+19. Representation is widely decried, these days, throughout cognitive science and much of the humanities. These antirepresentationalism sentiments are arrayed against a very narrow notion of representation, however, thereby discarding one of the deepest insights into what reasoning and intelligence are. Acknowledging the tension between what is effectively proximal and what is normatively pertinent but physically distal does not require treating representation as necessarily symbolic, pledging allegiance to naive realism, denying that ontology depends on culture or practice, asserting that cognitive activities are exclusively rational or deliberative, affirming a strict correspondence between the structure of the sign and the structure of the signified (a common interpretation of the Wittgensteinian “picture theory” of representation), or a host of other presumptive ills. Representation as I am characterizing it here is as pertinent to enactive, feminist, poststructuralist, and ecological views of cognition as to those traditionally labeled as intentional or representational. See my “Rehabilitating Representation” (unpublished manuscript presented at the Center for Cognitive Science, University at Buffalo, State University of New York, Spring Colloquium, 2008).
+
+20. Soundness and completeness are the specific versions of these norms appropriate to the particular assumptions and restrictions applicable to formal logic.
+
+21. See note 11 (p. 11).
+
+22. “Appropriate correspondence” may include structures that mediate activity—or even such activity itself—so long as it leads to behavior normatively appropriate to that which is thereby represented.
+
+23. I take the quantitative, nonsemantic conceptions of information espoused in computer science and physics to be (postontological) measures of the world’s correlation. I do not believe such correlations should be called information, but they are undeniably important.
+
+24. See the discussion of the “gear world” in On the Origin of Objects, 199–200.
+
+25. Some may be tempted to phrase this point in terms of degrees of freedom, but any such measure requires ontology, and ontology rests on this pattern of partial connection and disconnection, not the other way around. It might merit investigation, though, to explore what this “balance” between freedom and correlation that is so crucial to registration, information, finding the world intelligible, etc., is due to physical laws, constitutive conditions governing the abstractions we employ in our registrations, or other factor(s).
+
+26. I heard this saying from my father when I was a child. Whether it was original to him or whether he was quoting someone else I do not know, but I have been unable to determine another source.
+
+27. That is, no space-time worm that we, in our current ontology (registration scheme; pp. 35–36), register as a person.
+
+28. Realists need not panic. The point is not that epistemological or psychological states somehow magically reach out and mysteriously adjust the metaphysical plenum. Nor is it merely that registrational practices are genuine activities in the world (though they are). Rather, as I put it below, our ontological (or as I put it, “registration”) schemes must be such as to support epistemic access to their objects—must parse reality in such a way that the resulting “objects” can be referred to and thought about. What it is to be an object, in other words, is to be a possible locus of registrational accountability. Yes, an object is different from our representation of it; but that does not imply (or require) that ontology and epistemology are logically independent.
+
+I am using “constrain,” here, along the lines of the “govern” in the REPRESENTATIONAL MANDATE (p. 17).

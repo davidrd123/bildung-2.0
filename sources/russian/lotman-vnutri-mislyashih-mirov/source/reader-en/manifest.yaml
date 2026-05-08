@@ -1,0 +1,175 @@
+# Reader-en translation pass manifest.
+# Access layer only; apparatus promotion requires checked encounters.
+---
+pass:
+  name: lotman-vnutri-reader-en
+  status: active
+  purpose: "English reader drafts for discussion and audiobook/TTS preparation"
+  apparatus_boundary: "reader-en drafts do not seed glossary, handles, threads, or encounter claims"
+  source_sections: "../sections.yaml"
+sections:
+  - seq: 0
+    source_file: "../raw/000-front-matter.txt"
+    reader_file: null
+    status: skip
+    note: "front matter; translate only if needed for bibliographic audio"
+  - seq: 1
+    source_file: "../raw/001-contents.txt"
+    reader_file: null
+    status: skip
+    note: "contents; not a reader chapter"
+  - seq: 2
+    source_file: "../raw/002-ivanov-semisfera-i-istoriya.txt"
+    reader_file: "002-ivanov-semisfera-i-istoriya.md"
+    status: drafted
+    note: "twenty-fifth reader-en draft; Ivanov preface and editor's note, raw OCR only"
+  - seq: 3
+    source_file: "../raw/003-intro-01-vvodnye-zamechaniya.txt"
+    reader_file: "003-intro-01-vvodnye-zamechaniya.md"
+    status: drafted
+    note: "twenty-third reader-en draft; introductory remarks, partly supported by checked packet 001"
+  - seq: 4
+    source_file: "../raw/004-intro-02-posle-sossyura.txt"
+    reader_file: "004-intro-02-posle-sossyura.md"
+    status: drafted
+    note: "twenty-fourth reader-en draft; second introductory chapter on semiotics after Saussure, raw OCR only"
+  - seq: 5
+    source_file: "../raw/005-part-i-01-tri-funktsii-teksta.txt"
+    reader_file: "005-part-i-01-tri-funktsii-teksta.md"
+    status: drafted
+    note: "first reader-en pilot; central creative-translation passage uses checked packet 001"
+  - seq: 6
+    source_file: "../raw/006-part-i-02-avtokommunikatsiya.txt"
+    reader_file: "006-part-i-02-avtokommunikatsiya.md"
+    status: drafted
+    note: "second reader-en draft; chapter begins at tail of raw/005 and continues in raw/006"
+  - seq: 7
+    source_file: "../raw/007-part-i-03-ritorika-smysloporozhdeniya.txt"
+    reader_file: "007-part-i-03-ritorika-smysloporozhdeniya.md"
+    status: drafted
+    note: "third reader-en draft; rhetoric/trope chapter, raw OCR only"
+  - seq: 8
+    source_file: "../raw/008-part-i-04-ikonicheskaya-ritorika.txt"
+    reader_file: "008-part-i-04-ikonicheskaya-ritorika.md"
+    status: drafted
+    note: "fourth reader-en draft; iconic rhetoric, raw OCR only"
+  - seq: 9
+    source_file: "../raw/009-part-i-05-tekst-v-protsesse-dvizheniya.txt"
+    reader_file: "009-part-i-05-tekst-v-protsesse-dvizheniya.md"
+    status: drafted
+    note: "fifth reader-en draft; text movement chapter, raw OCR only; source file also contains next chapter opening"
+  - seq: 10
+    source_file: "../raw/010-part-i-06-simvol-gen-syuzheta.txt"
+    reader_file: "010-part-i-06-simvol-gen-syuzheta.md"
+    status: drafted
+    note: "sixth reader-en draft; symbol as plot gene, raw OCR only; chapter opening is at tail of raw/009 and raw/010 includes next chapter opening"
+  - seq: 11
+    source_file: "../raw/011-part-i-07-simvol-v-sisteme-kultury.txt"
+    reader_file: "011-part-i-07-simvol-v-sisteme-kultury.md"
+    status: drafted
+    note: "seventh reader-en draft; symbol in culture chapter, raw OCR only; chapter opening is at tail of raw/010 and raw/011 includes Part Two header"
+  - seq: 12
+    source_file: "../raw/012-part-ii-01-semioticheskoe-prostranstvo.txt"
+    reader_file: "012-part-ii-01-semioticheskoe-prostranstvo.md"
+    status: drafted
+    note: "eighth reader-en draft; Part II opening on semiotic space/semiosphere, raw OCR only"
+  - seq: 13
+    source_file: "../raw/013-part-ii-02-ponyatie-granitsy.txt"
+    reader_file: "013-part-ii-02-ponyatie-granitsy.md"
+    status: drafted
+    note: "ninth reader-en draft; boundary chapter, raw OCR only; strong candidate for later checked boundary/translation membrane encounter"
+  - seq: 14
+    source_file: "../raw/014-part-ii-03-mekhanizmy-dialoga.txt"
+    reader_file: "014-part-ii-03-mekhanizmy-dialoga.md"
+    status: drafted
+    note: "tenth reader-en draft; mechanisms of dialogue, raw OCR only; raw file also includes a short spatial-semiotics bridge excluded for seq15 consideration"
+  - seq: 15
+    source_file: "../raw/015-part-ii-04-semiosfera-i-problema-syuzheta.txt"
+    reader_file: "015-part-ii-04-semiosfera-i-problema-syuzheta.md"
+    status: drafted
+    note: "eleventh reader-en draft; semiosphere and plot chapter, raw OCR only; includes spatial-semiotics bridge from tail of raw 014"
+  - seq: 16
+    source_file: "../raw/016-part-ii-05-simvolicheskie-prostranstva.txt"
+    reader_file: null
+    status: skip
+    note: "heading-only container; carried as context in reader-en essays 017-020"
+  - seq: 17
+    source_file: "../raw/017-part-ii-05-01-geograficheskoe-prostranstvo.txt"
+    reader_file: "017-part-ii-05-01-geograficheskoe-prostranstvo.md"
+    status: drafted
+    note: "twelfth reader-en draft; first Symbolic Spaces essay on geographical space, raw OCR only"
+  - seq: 18
+    source_file: "../raw/018-part-ii-05-02-puteshestvie-ulissa.txt"
+    reader_file: "018-part-ii-05-02-puteshestvie-ulissa.md"
+    status: drafted
+    note: "thirteenth reader-en draft; Symbolic Spaces essay on Ulysses in Dante, raw OCR only"
+  - seq: 19
+    source_file: "../raw/019-part-ii-05-03-dom-v-mastere-i-margarite.txt"
+    reader_file: "019-part-ii-05-03-dom-v-mastere-i-margarite.md"
+    status: drafted
+    note: "fourteenth reader-en draft; Symbolic Spaces essay on House/Anti-house in Bulgakov, raw OCR only"
+  - seq: 20
+    source_file: "../raw/020-part-ii-05-04-simvolika-peterburga.txt"
+    reader_file: "020-part-ii-05-04-simvolika-peterburga.md"
+    status: drafted
+    note: "fifteenth reader-en draft; Symbolic Spaces essay on Petersburg symbolism, raw OCR only"
+  - seq: 21
+    source_file: "../raw/021-part-ii-06-nekotorye-itogi.txt"
+    reader_file: "021-part-ii-06-nekotorye-itogi.md"
+    status: drafted
+    note: "sixteenth reader-en draft; Part II conclusion, raw OCR only; raw file also includes Part III heading excluded for seq22 context"
+  - seq: 22
+    source_file: "../raw/022-part-iii-01-problema-istoricheskogo-fakta.txt"
+    reader_file: "022-part-iii-01-problema-istoricheskogo-fakta.md"
+    status: drafted
+    note: "seventeenth reader-en draft; Part III opening on historical fact and decryption, raw OCR only"
+  - seq: 23
+    source_file: "../raw/023-part-iii-02-istoricheskie-zakonomernosti-i-struktura-teksta.txt"
+    reader_file: "023-part-iii-02-istoricheskie-zakonomernosti-i-struktura-teksta.md"
+    status: drafted
+    note: "eighteenth reader-en draft; Part III chapter on historical regularities and text structure, raw OCR only"
+  - seq: 24
+    source_file: "../raw/024-part-iii-03-alternativnyy-variant-bespismennaya-kultura.txt"
+    reader_file: "024-part-iii-03-alternativnyy-variant-bespismennaya-kultura.md"
+    status: drafted
+    note: "nineteenth reader-en draft; Part III chapter on non-written culture and collective memory, raw OCR only"
+  - seq: 25
+    source_file: "../raw/025-part-iii-04-o-roli-tipologicheskikh-simvolov.txt"
+    reader_file: "025-part-iii-04-o-roli-tipologicheskikh-simvolov.md"
+    status: drafted
+    note: "twentieth reader-en draft; Part III chapter on typological symbols, contract, and self-entrustment, raw OCR only"
+  - seq: 26
+    source_file: "../raw/026-part-iii-05-vozmozhna-li-istoricheskaya-nauka.txt"
+    reader_file: "026-part-iii-05-vozmozhna-li-istoricheskaya-nauka.md"
+    status: drafted
+    note: "twenty-first reader-en draft; Part III methodological close on historical science, translation, and cultural memory, raw OCR only"
+  - seq: 27
+    source_file: "../raw/027-back-matter-conclusion.txt"
+    reader_file: "027-back-matter-conclusion.md"
+    status: drafted
+    note: "twenty-second reader-en draft; book conclusion, raw OCR only"
+  - seq: 28
+    source_file: "../raw/028-back-matter-bibliography.txt"
+    reader_file: null
+    status: skip
+    note: "bibliography; not a reader chapter"
+  - seq: 29
+    source_file: "../raw/029-appendix-01-umberto-eco.txt"
+    reader_file: "029-appendix-01-umberto-eco.md"
+    status: drafted
+    note: "twenty-sixth reader-en draft; Eco preface to English edition, raw OCR only"
+  - seq: 30
+    source_file: "../raw/030-appendix-02-gasparov-lotman-i-marksizm.txt"
+    reader_file: "030-appendix-02-gasparov-lotman-i-marksizm.md"
+    status: drafted
+    note: "twenty-seventh reader-en draft; Gasparov appendix on Lotman and Marxism, raw OCR only"
+  - seq: 31
+    source_file: "../raw/031-back-matter-name-index.txt"
+    reader_file: null
+    status: skip
+    note: "index; not a reader chapter"
+  - seq: 32
+    source_file: "../raw/032-back-matter-subject-index.txt"
+    reader_file: null
+    status: skip
+    note: "index; not a reader chapter"

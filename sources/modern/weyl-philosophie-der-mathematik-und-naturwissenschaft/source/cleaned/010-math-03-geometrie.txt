@@ -1,0 +1,1120 @@
+# III. Geometrie
+
+Section ID: math-03-geometrie
+Kind: chapter
+PDF pages: 92-125
+Printed pages: 91-124
+Status: OCR-derived cleaned draft; page images remain the authority.
+
+[[pdf-page:0092 printed-page:91]]
+
+III. Geometrie
+
+Wohl an keiner Stelle durchdringen sich Mathematik, Naturwissenschaft und Philosophie so innig wie im Problem des Raumes. Die von
+der Mathematik erarbeiteten Voraussetzungen zu seiner Diskussion
+sollen noch in diesem Teil kurz besprochen werden.
+
+12. Nichteuklidische, analytische, mehrdimensionale, affine,
+projektive Geometrie. Der Farbraum
+
+Über die nicht-euklidische Geometrie ist dem, was in $4 aus Anlaß
+der Axiomatik gesagt wurde, nicht viel hinzuzufügen. Bei Aufrechterhaltung aller übrigen Axiome der euklidischen Geometrie bestehen die
+drei Möglichkeiten, daß in einer Ebene zu einer Geraden durch einen
+nicht auf ihr gelegenen Punkt unendlich viele, eine oder keine nichtschneidende Gerade existiert (‚„‚hyperbolischer, parabolischer und elliptischer Fall“ nach Klein); die Winkelsumme im Dreieck ist entsprechend
+kleiner, gleich oder größer als 180°. Die letzte Möglichkeit, auf die erst
+Riemann Mitte des 19. Jahrhunderts hinwies, besteht nur, wenn die
+Axiome der Anordnung dahin modifiziert werden, daß die Gerade nicht
+als offene, sondern als geschlossene Linie erscheint. Die ebene elliptische
+Geometrie ist keine andere als die, welche auf einer Kugel im euklidischen Raum gilt; nur muß man je zwei diametral gegenüberliegende
+Kugelpunkte identifizieren. Oder anders ausgedrückt: indem wir alle
+übrigen auf die Geometrie der Ebene E bezüglichen Worte in ihrem
+gewöhnlichen ‚‚euklidischen“ Sinne verstehen, soll allein die Bedeutung
+des Kongruenzbegriffes dahin modifiziert werden, daß zwei Figuren in
+E als ‚„‚kongruent“ gelten, wenn ihre Projektionen von einem außerhalb
+E gelegenen Zentralpunkt O aus auf eine um O beschriebene Kugel im
+gewöhnlichen Sinne kongruent sind. Der Ebene müssen dabei die „‚unendlich fernen Punkte‘ einverleibt werden, deren Projektionsstrahlen
+die zu E parallelen Geraden durch O sind. Die Abbildungen von E,
+welche ‚„‚kongruente‘“ Figuren ineinander überführen, lassen sich auch
+ohne Bezugnahme auf den Raum als Kollineationen charakterisieren
+mit ähnlicher Invarianzeigenschaft wie im Kleinschen Modell der Bolyai-Lobatschewskyschen Geometrie; und damit ist die Bahn frei zur Begründung nicht nur der ebenen, sondern auch der räumlichen elliptischen Geometrie. Das wahre Verhältnis der drei Arten von Geometrie
+
+[[pdf-page:0093 printed-page:92]]
+
+kommt am besten zum Ausdruck, wenn man von dem maßfreien projektiven Raum seinen Ausgang nimmt und in ihn eine „Cayleysche Maßbestimmung“ einbaut. Je nach dem Charakter des dabei zugrunde gelegten absoluten Kegelschnitts ergibt sich die eine oder andere der drei
+metrischen Geometrien. So hat Klein selber seine Konstruktion aufgefaßt: als Einbau der Lobatschewskyschen Geometrie in den projektiven,
+nicht als Herstellung eines Modells durch den metrisch-euklidischen
+Raum.
+
+Die analytische Geometrie führt jedes geometrische Problem
+auf ein algebraisches zurück. Vorbedingung dafür ist, daß der
+Zahlbegriff durch Aufnahme der Brüche und des Irrationalen diejenige Weite bekommen hat, welche ihn über die Zählung hinaus
+zur Größenmessung geeignet macht. Nicht die Griechen, sondern
+die Inder und Araber haben diesen Schritt vollzogen!). Ihren
+Bahnen folgte die abendländische Mathematik, die zu selbständigen Leistungen in der Geometrie erst gelangte, nachdem die Raumwissenschaft durch Descartes’ Geometrie (1637) dem algebraischen
+Kalkül unterworfen war.
+
+Heute behandelt man die analytische Geometrie wohl am besten
+nach dem Vorbild von Graßmanns „Ausdehnungslehre‘“ durch Heranziehung des Vektorbegriffs. Der Vektorkalkül ist ein Rechenverfahren,
+dessen Objekte nicht Zahlen, sondern geometrische Gebilde sind. Eine
+solche Behandlung der Geometrie war von Leibniz gefordert, ja zum
+Teil schon durchgeführt worden in seiner Schrift de analisi situs und dem
+Entwurf einer geometrischen Charakteristik (Math. Schriften V, S. 178,
+und II, S. 20), die in den Rahmen seiner ‚universellen Charakteristik‘
+gehören. Die Translationen oder Parallelverschiebungen des Raumes
+bezeichnet man als Vektoren. Ein Punkt A geht durch die Translation a
+in einen Punkt Aa = B über, den „‚Endpunkt des von A aufgetragenen
+Vektors a“. Umgekehrt aber existiert, wenn A, B irgend zwei Raumpunkte sind, eine und nur eine Translation a, welche A in B überführt.
+Zu den Translationen rechnen wir insbesondere die ‚Identität‘, welche
+alle Punkte fest läßt, den Vektor 0. Translationen lassen sich zusammensetzen, sie bilden eine Gruppe; durch Hintereinanderausführung zweier
+Translationen a,b kommt ein Effekt zustande, der auch durch eine
+
+1) Descartes spricht von dem „Bedenken der Alten gegen den Gebrauch
+von Bezeichnungen der Arithmetik in der Geometrie, welches nur daraus
+entspringen konnte, daß ihnen der Zusammenhang dieser beiden Disziplinen
+nicht hinreichend klar geworden war“.
+
+[[pdf-page:0094 printed-page:93]]
+
+einzige, die resultierende Translation a + b erreicht werden kann. Der
+Zahlbegriff dringt dadurch in die Geometrie ein, daß eine Translation a
+iteriert, beliebig oft zu sich selbst addiert wird (vgl. den Anfang von § 5).
+Man erhält so, wenn man von einem Punkte A ausgeht und denselben
+Schritt a immer wiederholt, das Gerüst einer Geraden: eine mit A anhebende äquidistante gerade Punktfolge. Die Gerade selber entsteht sozusagen durch immer erneute Ausführung derselben unendlich kleinen
+Translation. Wie in § 5 kommt man durch Teilung dazu, nicht nur ganzzahlige, sondern auch gebrochene Multiplikatoren λ auf den Vektor a
+anzuwenden, und schließlich hebt die Stetigkeitsforderung die Beschränkung auf das Rationale auf. So entsteht ein axiomatischer Aufbau
+der Geometrie (genauer: der affinen Geometrie, in der sich nur parallele
+Strecken aneinander messen lassen), welcher den voll ausgebildeten Begriff der reellen Zahl voraussetzt — in ihn ist die ganze Analyse der
+Stetigkeit hineingeworfen — und dessen Grundbegriffe daneben allein
+„Punkt“ und „Vektor“ sind. Drei Grundoperationen verknüpfen diese
+Gegenstände: 1. zwei Vektoren a, b erzeugen einen Vektor a + b, 2. eine
+Zahl λ und ein Vektor a erzeugen den Vektor λa, 3. ein Punkt A und ein
+Vektor a erzeugen einen Punkt Aa. Die auf sie bezüglichen Axiome
+bilden nun, im Gegensatz zu den rein geometrischen Axiomen Euklids
+oder Hilberts, ein System, das auch in rein logischer Hinsicht von ganz
+einheitlichem und durchsichtigem Bau ist; sie fixieren, wie wir bereits in
+§ 4 bemerkten, nichts anderes als das Operationsfeld der linearen Algebra.
+In ihnen enthüllt sich eine wunderbare Harmonie zwischen dem Gegebenen und der Vernunft. Und auch die einfachsten abgeleiteten geometrischen Begriffe, zu denen hier insbesondere Gerade und Ebene gehören, korrespondieren denjenigen, die vom logischen Standpunkt aus
+die nächstliegenden und natürlichsten sind. Alle Vektoren x, welche aus
+zwei gegebenen e1, e2 nach der Formel
+
+x = x1e1 + x2e2     (*)
+
+entspringen mit beliebigen Zahlkoeffizienten x1, x2, bilden eine „lineare
+Schar 2. Stufe“; um der Eindeutigkeit der Darstellung (*) willen ist dabei
+vorausgesetzt, daß e1, e2 linear unabhängig sind, d. h. der Ausdruck
+rechts nur dann den Vektor 0 ergibt, wenn x1 und x2 beide = 0 sind.
+Trägt man alle diese Vektoren x von einem festen Anfangspunkt O aus
+ab, so bilden die Endpunkte Ox = P ein „lineares Gebilde 2. Stufe“
+oder eine Ebene. Das Koordinatensystem besteht hier aus dem Punkt O
+und den beiden linear unabhängigen Vektoren e1, e2. Relativ zu diesem
+wird der Punkt P durch die „Koordinaten“ x1, x2 charakterisiert. Analog
+
+[[pdf-page:0095 printed-page:94]]
+
+können konstruiert werden lineare Vektorscharen und lineare Punktgebilde der 1., 2., 3., ... Stufe (Gerade, Ebene, ...).
+
+Und erst hier tritt nun der Dimensionsbegriff auf: im wirklichen
+Raum können wir über die Stufenzahl 3 nicht hinaus; es existieren
+in ihm wohl 3, aber nicht mehr voneinander linear unabhängige
+Vektoren. Der ganzen in unserem Axiomensystem zum Ausdruck
+kommenden durchsichtigen Gesetzmäßigkeit gegenüber erscheint
+diese Dimensionszahl 3 als ein Zufall. Ohne weiteres können wir
+die Zahl 3 durch irgendeine Dimensionszahl r ersetzen, indem wir
+postulieren: Es existieren n, aber nicht mehr voneinander linear
+unabhängige Vektoren. Ein Koordinatensystem für den Raum
+besteht dann aus einem Anfangspunkt O und n solchen Vektoren.
+Für n = 1,2, 3 ergeben sich bzw. die Geometrie der Gerade, der
+Ebene, des Raumes. Erst auf Grund einer solchen durch Formalisierung zwingend gewonnenen n-dimensionalen Geometrie hat das
+Problem der Dimensionszahl, die Frage einen Sinn: Durch welche
+inneren Eigentümlichkeiten ist der Fall n = 3 ausgezeichnet?
+Wenn Gott bei Erschaffung der Welt dem Raume gerade 3 Dimensionen verlieh, läßt sich dafür durch Aufdeckung solcher Eigentümlichkeiten irgendein „vernünftiger‘‘ Grund angeben?
+
+Trägt man alle Vektoren von einem festen Anfangspunkt O aus ab,
+so sieht man, daß die Geometrie der Vektoren identisch ist mit der
+(affinen) Geometrie des mit einem absoluten Zentrum O versehenen
+Raumes. Identifiziert man alle Vektoren, welche auseinander durch
+Multiplikation mit Zahlen hervorgehen, verwendet als Elemente also
+die durch O gehenden Strahlen, so entsteht aus der n-dimensionalen
+Vektorgeometrie die (n — 1)-dimensionale projektive Geometrie (des
+Strahlenbüschels in O).
+
+Die projektive Geometrie gilt im Kontinuum der uns anschaulich
+gegebenen Farbqualitäten. (Die Mannigfaltigkeit der verschiedenen objektiven physikalischen Farben hat unendlich viele Dimensionen; das
+normale, nicht farbblinde Auge entwirft davon, indem eine ungeheure
+Mannigfaltigkeit physikalisch verschiedener Farben denselben Farbeindruck hervorruft, eine 2-dimensionale „Projektion“.) Zwei in bestimmter Intensität gegebene Farben erzeugen durch Zusammenfügen
+(Mischen) eine bestimmte neue Farbe in bestimmter Intensität. Die Intensitäten einer Farbe lassen sich miteinander vergleichen, so daß nach vorgenommener Wahl einer Einheitsintensität jede durch eine Maßzahl ge-
+
+[[pdf-page:0096 printed-page:95]]
+
+kennzeichnet werden kann (indem nämlich durch wiederholte Zusammenfügung einer Farbe in der Einheitsintensität mit sich selbst eine Skala
+der Intensitäten ohne Qualitätsänderung entsteht). Hingegen sind die
+Intensitäten zweier verschiedener Farbqualitäten unvergleichbar. Die
+mit Intensitäten behafteten Farben erfüllen also die Axiome der Vektorgeometrie, wobei der Mischung die Addition korrespondiert, für die
+Farbqualitäten gilt mithin die projektive Geometrie. Alle durch Mischung aus drei Grundfarben A, B, C entstehenden Farben bilden das
+„Dreieck“ ABC. Als zweidimensional erweist sich der Farbraum durch
+den Umstand, daß drei Grundfarben durch Mischung alle andern erzeugen, oder daß wenigstens aus solchen Dreiecken sich das ganze Farbfeld zusammensetzen läßt. Die wirklichen Farben erfüllen nämlich nur
+einen beschränkten Ausschnitt der ganzen projektiven Ebene. Aber man
+kann ihn, wie wir das in $2 geschildert haben, ideell zur vollen projektiven Ebene erweitern; und man muß für die Grundfarben A,B,C
+ideelle Farben wählen, wenn das Feld der wirklichen Farben ganz in das
+Dreieck ABC hineinfallen soll. Die reinen Spektralfarben liegen in der
+projektiven Farbebene auf einer krummen Kurve, deren äußerste Enden
+sich sehr nahe kommen und durch das Purpur überbrückt werden. —
+Es ist für die philosophische Diskussion der Geometrie wichtig, daß
+neben dem Raum noch ein ganz anderes Gebiet anschaulicher Gegebenheiten besteht: die Farben, welche ein geometrischer Behandlung fähiges
+Kontinuum bilden.
+
+LITERATUR
+
+H.v. Helmholtz, Handbuch der physiologischen Optik. 3 Bände.
+3. Aufl. Hamburg u. Leipzig 1909—1911, $ 20.
+
+F. Klein, Über die sog. nicht-euklidische Geometrie. Ges. math. Abhandlg. I, Berlin 1921, S. 254—305, 311—350.
+
+O. Veblen u. J. W. Young, Projective Geometry. 2 Bände, New York
+1910—1918.
+
+H. Weyl, Raum Zeit Materie, 5. Aufl. 1923, 8$ 1—4.
+
+13. Das Relativitätsproblem
+
+Unser Wissen steht unter der Norm der Objektivität. Wer an
+die euklidische Geometrie glaubt, wird sagen, alle Punkte im Raum
+seien objektiv gleich, ebenso alle möglichen Richtungen. Newton
+indessen scheint gedacht zu haben, der Raum besitze ein absolutes
+
+[[pdf-page:0097 printed-page:96]]
+
+Zentrum. Epikur denkt sicher, die Vertikale lasse sich objektiv
+von allen andern Richtungen unterscheiden. Als Grund führt er an,
+daß sich alle sich selbst überlassenen Körper in ein und derselben
+Richtung bewegen. Somit ist die Feststellung, eine Linie verlaufe
+vertikal, elliptisch oder unvollständig, wobei die dahinter stehende
+vollständige Feststellung etwa so lautet: die Linie hat die Richtung
+der Schwerkraft im Punkte P. Somit geht das Schwerefeld, von
+dem wir wissen, daß es von der Zusammensetzung der Materie der
+Welt abhängt, in die vollständige Aussage als Zufallsfaktor ein,
+ebenso auch ein einzeln angedeuteter Punkt P, auf den wir mit
+dem Finger bei einem demonstrativen Akt weisen, der in Wörtern
+wie „ich“, „hier“, „jetzt“, „dies“ zum Ausdruck kommt. Nur wenn
+wir sicher sind, daß die Wahrheit der vollständigen Feststellung
+nicht durch freie Variation der Zufallsfaktoren und solcher Faktoren, die einzeln aufgedeckt werden (wie etwa das Schwerefeld
+und der Punkt P) beeinflußt wird, haben wir das Recht, diese
+Faktoren aus der Feststellung wegzulassen und noch objektive Bedeutung dafür zu beanspruchen. Epikurs Glaube geht dahin, sobald festgestellt wird, daß die Richtung der Schwerkraft in Princeton anders verläuft als in Kalkutta, und daß sie sich außerdem
+durch eine Umverteilung der Materie ändern kann. Ohne Anspruch
+auf ein mechanisch anwendbares Kriterium bestätigt unsere Schilderung die wesentliche Tatsache, daß Objektivität etwas ist, das
+nur auf dem Boden der Erfahrung entscheidbar ist. So erklären
+sich auch zwei Hauptquellen für die so oft in der Geschichte der
+Wissenschaften begangenen Irrtümer, nämlich eine Feststellung
+für objektiv zu nehmen, ohne daß sie es ist: 1. man hat bestimmte
+sachliche Umstände übersehen, von denen der Sinn der Feststellung abhängt, obgleich sie nicht explizit in ihrer elliptischen Form
+erwähnt sind; 2. man hat, auch wenn diese Umstände oder Faktoren erkannt wurden, nicht sorgfältig genug untersucht, ob durch
+deren Variation die Wahrheit der Aussage beeinflußt wird. Kein
+Wunder, daß in mehreren Phasen im Verlaufe der Geschichte der
+Naturwissenschaften das Gebiet dessen, was als objektiv angesehen wurde, zusammengeschrumpft ist.
+
+Während die philosophische Frage der Objektivität nicht leicht
+klar und definit beantwortet werden kann, kennen wir exakt die
+
+[[pdf-page:0098 printed-page:97]]
+
+adäquaten mathematischen Begriffe für die Formulierung dieser
+Idee. Wir gehen von einer vollständig axiomatisierten Wissenschaft
+wie der euklidischen Geometrie aus. Der Einfachheit halber nehmen wir nur eine fundamentale Kategorie an, nämlich die Raumpunkte. Nach Hilbert wären dann die Grundrelationen, die in die
+Axiome eingehen, 1. die ternäre Relation: drei Punkte liegen auf
+einer geraden Linie; 2. die Relation: (drei verschiedene Punkte
+A, B und C liegen auf einer geraden Linie und) B liegt zwischen
+A und C; 3. die Relation: vier Punkte liegen in einer Ebene; 4. die
+Kongruenzrelation AB= CD zwischen zwei Punktepaaren AB
+und CD. Was wir damit sagen wollen, läßt sich auf jeden Bereich
+von Dingen anwenden, dessen Axiome ein paar Grundrelationen
+behandeln. Ohne vorzugreifen, was nun diese Dinge sind, können
+wir sie Punkte nennen und vom Sachbereich somit als dem Punktfeld sprechen.
+
+In § 4 ist der Begriff der isomorphen Abbildung eingeführt
+worden. Wir betrachten nun den Sonderfall, daß unser Sachgebiet
+nicht auf ein anderes Gebiet, sondern auf sich selbst abgebildet
+wird, und gelangen so zum Begriff des Automorphismus: Automorphie ist eine eineindeutige oder umkehrbar eindeutige Abbildung p → p’ des Punktfeldes auf sich selbst, die die Grundrelationen ungestört läßt; das heißt, stets wenn Punkte a, b, ...
+der Grundrelation R(ab ···) genügen, dann genügen auch die
+Punkte a’, b’,..., in die a, b durch die Abbildung übertragen werden, der gleichen Relation, und umgekehrt. Mit andern Worten,
+aus R(ab ···) folgt R(a’b’ ···), und aus R(a’b’ ···) folgt R(ab ···).
+Eine Abbildung σ überträgt jeden Punkt des Punktfeldes in einen
+Punkt p’ = pσ. Die einfachste Abbildung ist die Identität ι, die
+jeden Punkt p in p selbst überträgt. Zwei Abbildungen σ : p → p’
+und τ : p’ → p” können nacheinander ausgeführt und dann als
+neue Abbildung στ : p → p” aufgefaßt werden. Eine Abbildung
+σ : p → p’ ist eineindeutig, wenn sie eine Inverse σ−1 besitzt, die p’
+zurück nach p abbildet: σσ−1 = σ−1σ = ι. Dann ist auch σ−1 eineindeutig. Die Identität ist eine eineindeutige Abbildung; und wenn
+σ und τ eineindeutige Abbildungen sind, so ist es auch στ mit der
+Inversen τ−1σ−1. Das Wort Transformation wird als Synonym für
+eineindeutige Abbildung verwendet. Die fundamentale Eigenschaft
+
+[[pdf-page:0099 printed-page:98]]
+
+für Automorphismen ist, daß sie eine Gruppe bilden. Dies bedeutet
+die drei folgenden Dinge: 1. Die Identität ist ein Automorphismus;
+2. ist o ein Automorphismus, dann auch o!; 3. sind o und r
+Automorphismen, dann ist auch or einer. Diese drei Tatsachen
+folgen unmittelbar aus der Definition.
+
+Eine Figur F im weitesten Sinne oder eine Konfiguration von
+Punkten ist nichts anderes als eine Punktmenge; F ist gegeben,
+wenn für jeden Punkt p bestimmt ist, ob er zu F gehört oder nicht.
+Eine ternäre Relation R (xyz) zwischen Punkten heißt invariant
+gegenüber einer gegebenen Transformation o:p — p’ und ihrer
+Inversen p’ — p, wenn aus R (abc) stets R (a’b’c’) folgt, und umgekehrt. Nun können wir exakt sagen, was mit objektiver Gleichheit oder „Unterschiedslosigkeit‘‘ aller Punkte im euklidischen
+Raum gemeint ist. Sie bedeutet, daß für zwei beliebige Punkte p,
+und >, stets ein Automorphismus existiert, der p, in >, überführt.
+Zwei Figuren F und F’ heißen ähnlich, wenn die eine durch einen
+Automorphismus in die andere überführt werden kann. Dies ist
+nun unsere Deutung der Leibnizschen Definition ähnlicher Figuren als solche, die nicht auseinandergehalten werden können,
+wenn sie jede für sich betrachtet werden. Die drei Gruppenpostulate stellen schlicht fest, daß jede Figur sich selbst ähnlich ist, und
+daß die Ähnlichkeit symmetrisch und transitiv ist (s. die Äquivalenzaxiome auf S. 23). Eine Punktrelation heißt objektiv, wenn
+sie gegenüber allen Automorphismen invariant ist. In diesem Sinne
+sind die Grundrelationen objektiv, ebenso alle logisch aus ihnen
+nach den in $1 angegebenen Prinzipien definierten Relationen,
+vorausgesetzt es wird kein Gebrauch von Prinzip Nr. 5 gemacht,
+das eine Leerstelle zuläßt, die von einem individuell aufgewiesenen
+Punkt ausgefüllt wird. (Ob jede objektive Relation so definiert
+werden kann, wirft eine Frage der logischen Vollständigkeit auf,
+die wohl kaum als entsprechende Frage der Vollständigkeit für
+Axiome in der Form beantwortet werden kann, ob jede wahre
+allgemeine Aussage über Punkte aus den Axiomen geschlossen
+werden kann.)
+
+Lautet unsere Aufgabe den wirklichen Raum zu untersuchen,
+so sind uns weder die Axiome noch die Grundrelationen gegeben.
+Im Gegenteil: Bei unserem Versuch, die Geometrie zu axiomati-
+
+[[pdf-page:0100 printed-page:99]]
+
+sieren, wählen wir als unsere Grundrelationen einige von den
+Punktrelationen aus, von denen wir überzeugt sind, daß sie objektive Bedeutung besitzen (Epikur hätte zum Beispiel die Grundrelation mit aufgenommen: A, B liegen auf einer Vertikalen; Euklid
+hat das nicht getan). Um also dem wahren Sachverhalt gerecht zu
+werden, müssen wir wohl die Reihenfolge in der Entwicklung
+unserer Gedanken umkehren. Wir gehen von einer Transformationsgruppe Γ aus. Sie beschreibt sozusagen, bis zu welchem Grade
+unser Punktfeld homogen ist. Ist die Gruppe einmal gegeben, so
+wissen wir, was Gleichheit oder Ähnlichkeit bedeutet, nämlich:
+zwei Figuren sind ähnlich (oder gleich, oder äquivalent), die durch
+eine Transformation von Γ auseinander hervorgehen; ferner, unter
+welchen Bedingungen eine Relation objektiv ist, nämlich dann,
+wenn sie gegenüber allen Transformationen von Γ invariant ist.
+In diesem Sinne hat Felix Klein in seinem berühmten Erlanger
+Programm (1872) die Formulierung gemeint, eine Geometrie sei
+durch eine Transformationsgruppe bestimmt. Die Frage der Axiomatisierung dieser Geometrie ist damit auf den Hintergrund zurückgeführt. (Als erster Schritt müßten ein paar objektive Relationen R1, R2, ... aufgesucht werden, so daß dabei die Gruppe
+aller Transformationen, die R1, R2, ... invariant lassen, nicht größer
+als Γ wird, sondern mit Γ zusammenfällt.) Während wir unsere
+Augen nicht vor der Tatsache verschließen müssen, daß objektive
+Relationen logisch aus anderen derartigen Relationen konstruiert
+werden können, verzichten wir darauf, einen Unterschied zwischen
+Grundrelationen und abgeleiteten zu machen. Wir sind an allen
+invarianten Relationen gleich interessiert.
+
+Hätte Newton recht mit seinem absoluten Zentrum O des Raumes,
+so bestünde die wahre Gruppe Γ0 der Automorphismen aus den Transformationen der euklidischen Gruppe Γ von Automorphismen, die O
+fest lassen; Newtons Γ0 ist eine Untergruppe der euklidischen Gruppe Γ.
+Andererseits sind wir bei der Untersuchung der euklidischen Geometrie
+in erster Linie an solchen Eigenschaften interessiert, die gegenüber allen
+affinen oder allen projektiven Transformationen invariant sind. (Die
+affinen bzw. die projektiven Transformationen der Ebene sind solche,
+die sich ergeben, wenn man nacheinander eine Anzahl Parallelprojektionen bzw. Zentralprojektionen ausführt.) Die Gruppen Γ′ und Γ″
+
+[[pdf-page:0101 printed-page:100]]
+
+dieser Transformationen sind umfassender als Γ; genauer: Γ ist ein Teil
+von Γ′, und Γ′ ein Teil von Γ″. Die Wichtigkeit der affinen und der
+projektiven Geometrie für die Theorie der Perspektive ist offenkundig.
+Man sieht, wie nützlich sich der Kleinsche Standpunkt für eine geordnete
+Übersicht erweist, und bei der Aufdeckung der gegenseitigen Beziehungen werden verschiedene Arten von Geometrien entweder durch die
+Natur der Dinge angeregt, oder sie entspringen aus einer willkürlichen,
+aber logisch nützlichen Abstraktion, (Ein Vorgänger von Klein war
+Möbius, der den gruppentheoretischen Standpunkt für eine Anzahl bestimmter Arten von Geometrie betonte.) Die umfangreichste Automorphismengruppe, die man möglicherweise für ein Kontinuum betrachten kann, besteht aus allen kontinuierlichen Transformationen; die
+entsprechende Geometrie heißt Topologie. Für die Entwicklung der
+Mathematik war es ein glücklicher Zufall, daß das Relativitätsproblem
+nicht zuerst für den kontinuierlichen Punktraum, sondern für ein System
+angepackt wurde, das aus einer endlichen Anzahl verschiedener Dinge
+bestand, nämlich dem System der Wurzeln einer algebraischen Gleichung
+mit rationalen Koeffizienten (Galoissche Theorie). Dieser Umstand war
+ein Segen für die Exaktheit der entsprechenden Begriffsbildungen. Die
+objektiven Relationen sind hier solche, die sich aus den vier Grundoperationen der Algebra aufbauen lassen (Addition, Subtraktion, Multiplikation, Division), mit andern Worten, die algebraischen Relationen
+mit rationalen Koeffizienten. Aus Problemen dieser Art entstand eine
+allgemeine Theorie, nicht lediglich der Transformationsgruppen, sondern
+auch der abstrakten Gruppen.
+
+Nach dieser Erklärung der Automorphismen kommen wir nun
+zu einer zweiten Phase des Relativitätsproblems. Wie lassen sich
+den Punkten eines Punktfeldes Kennzeichen oder Marken zuordnen, die zur Identifizierung oder Unterscheidung der Punkte
+dienen können ? Die Marken sollen selbsterzeugende, verschiedene
+und stets reproduzierbare Symbole sein wie Namen, Zahlen (oder
+Zahlentripel x, y, z) usw. Erst dann kann man daran denken, das
+Schauspiel der wirklich gegebenen Welt durch Konstruktion in
+einem Symbolfeld darzustellen. Alles Wissen, auch wenn es von
+der intuitiven Beschreibung ausgeht, tendiert zu einer symbolischen Konstruktion. Aufernste Schwierigkeiten stößt man so lange
+nicht, wie man es mit einem Bereich von einer nur endlichen Anzahl Punkte zu tun hat, die man nacheinander „aufrufen“ kann,
+
+[[pdf-page:0102 printed-page:101]]
+
+Das Problem wird ernst, wenn das Punktfeld unendlich wird, insbesondere wenn es ein Kontinuum ist. Eine begriffliche Festlegung
+von Punkten durch Marken der oben geschilderten Art, die die
+Rekonstruktion jedes einmal verlorenen Punktes ermöglichte, ist
+hier nur in Verbindung mit einem Koordinatensystem oder einem
+Bezugsrahmen möglich, was durch einen individuellen demonstrativen Akt aufgewiesen werden muß. Die Objektivierung durch
+Ausschaltung des Ich und seines unmittelbaren Lebens der Anschauung gelingt nicht restlos, und das Koordinatensystem bleibt
+als das notwendige Residuum der Ich-Vernichtung!). Es ist gut
+hier daran zu erinnern, daß praktisch zwei- oder dreidimensionale
+Punktmengen gewöhnlich so gegeben werden, daß man sich tatsächlich einen Körper oder eine Figur mit Bleistift auf Papier
+gezeichnet vor Augen hält, und nicht durch eine logisch-arithmetische Konstruktion von mengendefinierenden Eigenschaften.
+Die Mathematik hat lange gebraucht, bis sie sich die konstruktiven Hilfsmittel erworben hatte, um mit der Komplexität und
+Vielfalt solcher anschaulich gegebener Figuren fertig zu werden.
+Nachdem sie jedoch dieses Stadium erreicht hatte, wurde die Überlegenheit ihrer symbolischen Methoden offenkundig.
+
+Als Beispiel nehmen wir die Punkte auf einer Geraden. Das Koordinatensystem besteht hier aus einem Anfangspunkt O und einer
+Einheitsstrecke OE oder aus zwei verschiedenen Punkten O und E. Ist
+dieser Bezugsrahmen gegeben, kann jeder beliebige Punkt P durch seine
+Abszisse x gekennzeichnet werden, das ist die Maßzahl der mit der
+Einheitsstrecke OE ausgemessenen Länge OP (x ist positiv für die Punkte
+auf der gleichen Seite von O aus wie E und negativ für die Punkte auf
+der anderen Seite). Zwei Bezugsrahmen, OE und O’E’, sind objektiv
+gleichwertig; denn es gibt genau einen Automorphismus (Ähnlichkeit),
+der O auf O’ und E auf E’ abbildet. Infolgedessen ist durch Aufweisung
+eines individuellen Koordinatensystems nicht mehr als unbedingt not-
+
+1) Man könnte gegen die Statuierung eines prinzipiellen Unterschiedes
+zwischen begrifflicher Fixierung und anschaulicher Aufweisung den Einwand
+erheben, daß doch auch die objektiven geometrischen Relationen, auf welche
+sich die begriffliche Bestimmung gründet, in der Anschauung aufgewiesen
+werden müssen. Aber das sind einige wenige Relationsbegriffe, während die
+Punkte selber ein Kontinuum bilden; es muß zugegeben werden, daß nur
+hierin der prinzipielle Unterschied besteht.
+
+[[pdf-page:0103 printed-page:102]]
+
+wendig aufgewiesen. Das Feld für das Symbol x besteht aus allen reellen
+Zahlen. In bezug auf ein gegebenes Koordinatensystem ist die Zuordnung P ↔ x eine eineindeutige Abbildung des Punktfeldes auf den
+Variabilitätsbereich des Symbols. Die Koordinaten x und x’ eines beliebigen Punktes in zwei Koordinatensystemen sind durch eine Relation
+x = ax′ + b miteinander verbunden, wo a ≠ 0 und b zwei Konstante
+sind, die die relative Lage der beiden Koordinatensysteme zueinander
+kennzeichnen.
+
+Mit diesem Beispiel vor Augen können wir nun die folgende
+allgemeine Beschreibung verstehen. Es sei eine Klasse Σ von Bezugsrahmen f gegeben. Die Klasse als solche sollte objektiv unterschieden werden können, das heißt wenn f zu ihr gehört, dann
+auch jeder ähnliche Rahmen fo = f’, der aus f durch einen Automorphismus o hervorgeht. Die Klasse soll jedoch nicht mehr Elemente enthalten, als diese Forderung unbedingt notwendig macht,
+das heißt zwei beliebige Rahmen f, f’ der Klasse sind ähnlich.
+Außerdem soll eine objektive Vorschrift A gegeben sein, nach der
+jeder Punkt p in bezug auf jeden Rahmen f der Klasse Σ ein definites (reproduzierbares) Symbol x = A(p; f) als Koordinate bestimmt. Für ein gegebenes f ist die Zuordnung p ↔ x zwischen
+den Punkten p und den Symbolen x umkehrbar eindeutig. Daß x
+durch p und f objektiv bestimmt ist, bedeutet, daß
+
+A(p; f) = A(pσ; fσ)     (*)
+für jeden Automorphismus zutrifft.
+
+Aus diesen Bedingungen ergeben sich die folgenden Folgerungen. Es sei σ ein Automorphismus p → p’ des Punktfeldes und f
+ein fester Rahmen der Klasse Σ. Die Koordinaten x von p und
+x′ von p’ in diesem Rahmen sind durch eine Transformation
+S, x′ = xS, miteinander verbunden, die den Automorphismus σ
+durch f darstellt. Der Identität σ = ι entspricht die Identität S = I;
+σ−1 und στ werden durch S−1 und ST dargestellt, wenn σ und τ
+durch S und T dargestellt werden. In diesem Sinne bilden die
+Transformationen S, die den verschiedenen σ von Γ entsprechen,
+eine Gruppe G, die isomorph zu Γ ist. G ist nichts anderes als die
+Darstellung von Γ mittels f. Nehmen wir andererseits einen festen
+Rahmen f unserer Klasse Σ und einen beliebigen Rahmen f’ = fσ,
+
+[[pdf-page:0104 printed-page:103]]
+
+der aus f durch den Automorphismus σ hervorgeht; ich behaupte
+nun, daß die Koordinaten x und x’ des gleichen beliebigen Punktes
+in bezug auf f und f’ durch die Gleichung x = x’,S miteinander
+verknüpft sind. Bezeichnen wir nämlich den beliebigen Punkt mit
+pσ statt mit p, so haben wir x = A(pσ; f) und wegen (*)
+
+x′ = A(pσ; fσ) = A(p; f),
+und daraus folgt unsere Behauptung. Die Gruppe G, die Γ mittels f
+darstellt, muß unabhängig von f sein. Tatsächlich würde eine
+Darstellung von Γ durch zwei verschiedene Gruppen G, G* mittels
+den beiden ähnlichen Rahmen f und f* einen objektiven Unterschied zwischen f und f* erscheinen lassen, was unmöglich ist. Es
+ist leicht dies explizit zu bestätigen. Es sei f* = fγ, wo γ ein Automorphismus ist. Außerdem seien x und x’ die Koordinaten eines
+beliebigen Punktes p und seines Bildes p’ = pσ in bezug auf f, und
+y und y’ in bezug auf f*. Die Transformationen, die γ und σ
+mittels f darstellen, heißen C und S. Wir schreiben nun die
+
+Gleichung x’ = xS in der einprägsameren Form x → x’. Nach
+dem Gesagten erhalten wir nun das Diagramm
+
+x → x′
+(C) ↑   ↓ (C−1)
+y   y′
+
+Folglich ist die Transformation, die y in y’ überführt und somit
+mittels des Rahmens f* darstellt, S* = CSC−1. Mit S gehört auch
+CSC−1 = S* zur Gruppe G, und umgekehrt ist S = C−1S*C.
+Solange die Punkte nicht begrifflich gekennzeichnet werden
+konnten, konnten es auch die Transformationen des Punktfeldes
+nicht, und es war vielleicht auch nicht ganz klar, was mit der Aussage gemeint war, die Automorphismengruppe sei bekannt oder
+gegeben. Nun ist ein Stadium erreicht, wo dieser letzte Anflug
+von Unklarheit verschwindet. Jeder einzelne Punkt wird durch
+seine Koordinate x (in bezug auf einen festen Rahmen) ersetzt,
+und somit erscheint die Gruppe Γ der Automorphismen σ als
+Gruppe G der Transformationen S. Die individuelle Transformation S, die x in x’ = xS überführt, ist ein reproduzierbares
+
+[[pdf-page:0105 printed-page:104]]
+
+Symbol wie jeder einzelne individuelle Wert von x. Aber während
+die Koordinate x nicht nur von p, sondern auch von f abhängt,
+ist die Gruppe G unabhängig von f und somit frei von jeder Notwendigkeit individueller Aufweisung. Um die Forderung der Objektivität zu erfüllen, konstruieren wir ein Bild von der Welt in
+Symbolen. Der reine Mathematiker drückt das so aus: Ist eine
+Gruppe G von Transformationen in einem Feld von Symbolen
+gegeben, so wird eine Geometrie durch die Übereinkunft aufgestellt, nur solche Relationen in dem Feld als objektiv zu untersuchen und zu betrachten, die gegenüber den Transformationen
+von G invariant sind.
+
+Eine letzte Bemerkung rein logischer Natur bezieht sich auf die
+Rahmen. Es ist ganz rechtmäßig, als Bezugsrahmen f die von f gebildete
+Koordinatenzuordnung p → x = f(p) selbst zu betrachten. Dies scheint
+sogar zweckmäßig zu sein, wenn man auf eine so umfangreiche Automorphismengruppe gefaßt sein muß, die alle kontinuierlichen Transformationen enthält. Das Symbol f ist dann einfach ein Zeichen für die
+Funktion f, deren Argumentbereich sich über die Punkte p erstreckt,
+und deren Wert ein Element x im Symbolfeld ist. Ist σ : p → p’ eine beliebige Transformation, dann wird die transformierte Funktion f’ = fσ
+durch die Gleichung f’(p’) = f(p) für p’ = pσ oder f’(p) = f(pσ−1)
+definiert. Schreiben wir x = A(p; f) für x = f(p), dann ist mit A
+der allgemeine logische Operator „Wert von“ gemeint. x = A(p; f)
+bedeutet: x ist der Wert der Funktion f für das Argument p.
+
+LITERATUR
+
+F. Klein, Vergleichende Betrachtungen über neuere geometrische
+Forschungen. Erlangen 1872. (Gesammelte mathematische Abhandlungen I, S. 460—497.)
+
+14. Kongruenz und Ähnlichkeit. Links und rechts
+
+Ohne Zweifel rührt die Überzeugungskraft, die die euklidische
+Geometrie für uns besitzt, von unserer Vertrautheit im Umgang
+mit solchen Körpern her, die wir starr nennen, und von denen
+man sagen kann, sie blieben unter sich ändernden Bedingungen
+gleich. Die Raumstücke, die ein solcher Körper in zwei möglichen
+
+[[pdf-page:0106 printed-page:105]]
+
+Lagen ausfüllt, heißen kongruent. Das Messen ist von starren Körpern im gleichen Grade abhängig wie das Zählen vom Gebrauch
+konkreter Zahlensymbole. (Über die physikalische Begründung
+der Geometrie s. auch §§ 16 und 18.) Ist eine Geometrie einmal
+vom Verhalten wirklicher, angenähert starrer Körper abstrahiert
+worden, so liefert sie eine Norm für die physikalische Untersuchung aller Körper, und wir können beurteilen, wie weit ein gegebener Körper das Ideal der Starrheit verwirklicht. Dieser Vorgang unterscheidet sich nicht wesentlich von dem, bei welchem
+sich eine Temperaturskala zunächst auf das Verhalten wirklicher
+Gase stützt und dann auf die „ideale Gasskala“ reduziert wird,
+wobei die exakte Gültigkeit solcher Gesetze postuliert wird, die
+von den existierenden Gasen nur näherungsweise befolgt werden.
+Da die Orte bei einem starren Körper angemerkt werden können,
+ist die Kongruenz eine punktweise Abbildung zweier kongruenter
+Volumina V und V’. Zunächst bezieht sich der Kongruenzbegriff
+auf einen gegebenen starren Körper b. Seine faktische Unabhängigkeit von b ist eine unserer fundamentalsten Erfahrungen.
+Es seien nämlich V und V’ zwei Raumstücke, die vom Körper b
+in zwei seiner Lagen ausgefüllt werden. b* sei ein anderer Körper,
+der in V hineinpaßt; er kann dann so bewegt werden, daß er V’
+ausfüllt. Da man einen starren Körper so groß machen kann,
+daß er einen beliebig gegebenen Punkt überdeckt, kann die Abbildung V → V’ auf den ganzen Raum erweitert werden. Die kongruenten Abbildungen des Raumes bilden eine Gruppe Δ+ von
+Transformationen, die wir die Gruppe der euklidischen Bewegungen
+nennen. Ist diese Gruppe einmal bekannt, so können kongruente
+Volumina als Raumstücke definiert werden, die ineinander durch
+eine Transformation S von Δ+ überführt werden können. Die Tatsachen legen eine Deutung nahe, nach welcher die Gruppe Δ+
+der kongruenten Abbildungen eine innere Struktur des Raumes
+selbst zum Ausdruck bringt, und zwar eine Struktur, die vom
+Raum allen Raumobjekten aufgeprägt wird.
+
+Falls diese Ansicht zutrifft, sollte die Kongruenz eigentlich
+zum einzigen Grundbegriff der Geometrie gemacht werden. Untersuchen wir zuerst einmal, welche Konsequenzen diese Auffassung
+von der Geometrie für die Automorphismen des Raumes (Ähn-
+
+[[pdf-page:0107 printed-page:106]]
+
+lichkeiten) hat. Wir wissen ganz allgemein, daß die Gruppe Γ der
+Automorphismen dann festliegt, wenn die Begriffe für die Grundrelationen einer Geometrie festliegen. In unserem Falle lautet das
+Kriterium für einen Automorphismus so: sowohl C als auch C−1
+müssen jedes Paar kongruenter Raumstücke v1, v2 in ein kongruentes Paar transformieren. Wir betrachten das Paar v1*, v2*, das
+durch die Transformation C aus v1, v2 entsteht. S sei die Bewegung, die v1 in v2 überführt. Wie das Diagramm
+
+(S)
+
+v1 → v2
+(C−1) ↑   ↓ (C)
+v1*     v2*
+
+anzeigt, geht v1* durch die Abbildung C−1SC in v2* über. Folglich
+erfordert das Kriterium, daß immer dann, wenn S zu Δ+ gehört,
+auch die Transformationen C−1SC und CSC−1 dazu gehören.
+Eine Transformation heißt mit einer gegebenen Transformationsgruppe Δ vertauschbar, wenn mit S auch C−1SC und CSC−1 zu Δ
+gehören. Die mit Δ vertauschbaren Transformationen bilden eine
+Gruppe, den Normalisator von Δ. Diese Gruppe enthält notwendig
+Δ als Untergruppe, sei es, daß Δ identisch mit seinem Normalisator
+oder ein echter Teil davon ist. Unsere Analyse kann nun so zusammengefaßt werden: Die Gruppe Γ der Ähnlichkeiten ist der
+Normalisator der Gruppe Δ+ der Bewegungen. Kongruente Figuren
+sind also notwendig ähnlich. Die Umkehrung muß nicht gelten.
+Ist nämlich Δ+ tatsächlich eine echte Untergruppe des Normalisators, so existieren ähnliche Figuren im euklidischen Raum, die
+nicht kongruent sind. Beispiele dafür sind ein Körper und sein
+Spiegelbild, oder ein Gebäude und ein kleinmaßstäbiges Modell
+davon.
+
+Nun wollen wir das Verfahren umkehren und Klein folgen,
+indem wir von einer gegebenen Automorphismengruppe ausgehen.
+Wir nehmen eine Untergruppe Δ von Γ und erklären zwei Figuren
+für Δ-äquivalent, wenn durch eine Transformation von Δ die eine
+in die andere überführt wird. Unter welchen Umständen besitzt
+nun diese Relation der Δ-Äquivalenz objektive Bedeutung? Dann
+und nur dann, wenn Δ-äquivalente Figuren durch jede Transfor-
+
+[[pdf-page:0108 printed-page:107]]
+
+mation C von Γ in Δ-äquivalente Figuren überführt werden, oder
+mit andern Worten, wenn jedes Element C von Γ mit Δ vertauschbar ist. In diesem Falle sagt der Mathematiker, Δ sei eine invariante
+Untergruppe von Γ. Infolgedessen ist die Δ-Äquivalenz dann eine
+objektive Relation, wenn Δ eine invariante Untergruppe von Γ ist.
+Zum Beispiel bilden die Parallelverschiebungen eine invariante
+Untergruppe der Gruppe der euklidischen Ähnlichkeiten; denn
+tatsächlich besitzt die Relation // zwischen zwei Figuren, die durch
+Parallelverschiebung auseinander hervorgehen, objektive geometrische Bedeutung — obgleich ein passendes Wort dafür in
+unserer Sprache fehlt. Der Normalisator der Gruppe der Parallelverschiebungen besteht aus allen affinen Transformationen; es
+muß also möglich sein, die affine Geometrie auf der einen Relation // zwischen Figuren aufzubauen. Oder noch einfacher, die
+allein aus der Identität bestehende Untergruppe ist eine invariante
+Untergruppe, und tatsächlich ist die Relation der Identität zwischen zwei Figuren von objektiver Bedeutung. (Es gibt gar keine
+mit einem besseren Anspruch auf Objektivität, weil ja die Identität
+in jeder möglichen Transformationsgruppe Γ enthalten ist.) Je
+kleiner die Gruppe Δ ist, desto größer ist ihr Normalisator, und
+um so größer ist die Kluft zwischen Kongruenz und Ähnlichkeit;
+oder genauer, ist Δ′ eine Untergruppe von Δ, dann enthält der
+Normalisator Γ″ von Δ′ den Normalisator Γ′ von Δ. Der Normalisator einer invarianten Untergruppe Δ von Γ′ umfaßt stets Γ′.
+Eine Geometrie, deren Automorphismengruppe Γ′ ist, kann allein
+auf die objektive Relation der Δ-Äquivalenz aufgebaut werden,
+vorausgesetzt, der Normalisator von Δ ist nicht größer als Γ′,
+sondern fällt mit Γ′ zusammen.
+
+Eine letzte Bemerkung möge diese Analyse beschließen. Der Raum
+ist ein Kontinuum, und wenn wir von einer Transformation im Raum
+sprechen, so ist es vernünftig dies im Sinne jeder beliebigen kontinuierlichen Transformation zu deuten. Wir bezeichnen mit Ω die Gruppe der
+Transformationen, die überhaupt in Betracht kommen; im Falle eines
+Kontinuums wäre dies die Gruppe aller kontinuierlichen Transformationen. Legt man dies ausdrücklich zugrunde, so kann unsere Definition
+des Normalisators folgendermaßen wiederholt werden: Gegeben sei eine
+Untergruppe Δ der Gruppe Ω; diejenigen Elemente von Ω, die mit Δ
+
+[[pdf-page:0109 printed-page:108]]
+
+vertauschbar sind, bilden den Normalisator Γ′ von Δ. In dieser Form
+gewinnt der Begriff des Normalisators einen Sinn selbst für abstrakte
+Gruppen Ω und Δ.
+
+Kant spricht in Prolegomena §13 über den Unterschied zwischen
+kongruent und ähnlich und behauptet: „Wir können daher auch den
+Unterschied ähnlicher und gleicher, aber doch inkongruenter Dinge
+(z. B. widersinnig gewundener Schnecken) durch keinen einzigen Begriff
+verständlich machen, sondern nur durch das Verhältnis zur rechten und
+linken Hand, welches unmittelbar auf Anschauung geht.“ Nach seiner
+Ansicht bietet nur der transzendentale Idealismus eine Lösung für dieses
+Rätsel an. Ohne Zweifel gründet sich die Bedeutung der Kongruenz auf
+die Raumanschauung, aber ebenso ist es mit der Ähnlichkeit. Kant
+scheint auf einen wunden Punkt zu zielen, aber gerade dieser Punkt
+kann durch eine Analyse an Hand einer Gruppe Γ′ und ihrer invarianten
+Untergruppen Δ, oder einer Gruppe Δ und ihres Normalisators Γ′ vollständig geklärt werden. Stets wenn Δ eine echte invariante Untergruppe
+von Γ′ ist, fallen die Begriffe der Kongruenz = Δ-Äquivalenz und der
+Ähnlichkeit = Γ′-Äquivalenz nicht zusammen, obgleich die erstere von
+objektiver Bedeutung (= Γ′-invariant) ist. Das Phänomen, über das sich
+Kant wundert, kann somit höchst befriedigend unter allgemeine und
+abstrakte „Begriffe“ gestellt werden.
+
+Wer die Kongruenz in den Rang der einzigen Grundrelation
+der Geometrie erhebt, muß sodann die Geometrie aus diesem einen
+Begriff heraus entwickeln. Hierfür stehen mehrere Wege offen.
+Eine tiefere Einsicht, als die elementare Auffassung zuläßt, in den
+Stil der euklidischen Axiome würde gewonnen, wenn es gelänge,
+die fundamentalen Tatsachen der Geometrie als einfache Axiome
+über die Gruppe Δ+ der euklidischen Bewegungen zu formulieren.
+Nach Überweg hat als erster Helmholtz mit überraschendem
+Erfolg dieses Programm in seiner Schrift „Über die Tatsachen,
+die der Geometrie zugrunde liegen“ durchgeführt. Später hat S. Lie,
+der eine allgemeine Theorie der Transformationsgruppen aufstellte,
+das Problem mit seinen schärferen mathematischen Mitteln wieder
+aufgegriffen und es von drei auf n Dimensionen verallgemeinert.
+Die euklidische Bewegungsgruppe Δ+ ist beinahe vollständig dadurch gekennzeichnet, daß sie dem starren Körper dasjenige Maß
+an freier Beweglichkeit verleiht, das uns aus der Erfahrung vertraut ist. In genauerer Fassung: Man ist durch eine kongruente
+
+[[pdf-page:0110 printed-page:109]]
+
+Abbildung imstande, einen beliebigen Punkt in einen beliebigen
+Punkt überzuführen, außerdem bei festgehaltenem Punkt eine beliebige Linienrichtung in diesem Punkte in eine beliebige Linienrichtung daselbst, bei festgehaltenem Punkt und Linienrichtung
+eine beliebige durch sie hindurchgehende Flächenrichtung in eine
+beliebige andere ebensolche Flächenrichtung, und so fort bishinauf
+zu den (n — 1)-dimensionalen Richtungselementen. Ist aber andererseits ein Punkt, eine hindurchgehende Linienrichtung, eine
+durch sie hindurchgehende Flächenrichtung usw. bis hinauf zu
+einem (n — 1)-dimensionalen Richtungselement gegeben, so existiert außer der Identität keine kongruente Abbildung, welche
+dieses System inzidenter Elemente festläßt. Wir sagten soeben,
+dieses Axiom kennzeichne beinahe vollständig die euklidische Bewegungsgruppe. Tatsächlich erhält man so die Gruppe der kongruenten Transformationen eines geringfügig allgemeineren Raumes, nämlich eines projektiven Raumes mit aufgeprägter Cayleyscher Maßbestimmung. Diese Gruppe enthält einen dem Werte
+nach unbestimmt bleibenden Zahlparameter λ, die konstante
+Raumkrümmung, von welcher nur das Vorzeichen wesentlich ist.
+Je nachdem λ positiv, 0 oder negativ ist, kommt man auf den
+elliptischen, parabolischen (euklidischen) oder hyperbolischen
+Typus. Dies sind also die einzigen homogenen Räume, in denen
+alle Punkte gleichwertig sind, ferner alle Richtungen in einem
+Punkte usw.
+
+Es ist schwer, über diese Probleme ohne exakte Beschreibung der
+euklidischen Gruppen Γ′ und Δ+ vor Augen gescheit zu reden. Ein
+kartesisches Bezugssystem im dreidimensionalen euklidischen Raum
+besteht aus einem Punkt O, dem Ursprung, und drei aufeinander senkrecht stehenden Vektoren e1, e2, e3 gleicher Länge. Die Koordinaten x1,
+
+x2, x3 eines Punktes werden durch
+
+→OP = x1e1 + x2e2 + x3e3
+
+definiert. Relativ zu einem solchen System wird eine Ähnlichkeit, die den
+Punkt (x1, x2, x3) in den Punkt (x1′, x2′, x3′) abbildet, durch eine lineare
+Transformation
+
+S: x′i = ai + ai1x1 + ... + ainxn (i = 1, 2, ..., n) (*)
+
+mit konstanten Koeffizienten ai, aik dargestellt, die der folgenden Be-
+
+[[pdf-page:0111 printed-page:110]]
+
+dingung genügen: (x1′ − a1)² + ... + (xn′ − an)² ist ein konstantes
+positives Vielfaches a von x1² + ... + xn². (Die Dimensionszahl n ist
+hier unbestimmt gelassen.) Die Ähnlichkeit ist „nicht-vergrößernd“
+und heißt orthogonale Transformation für a = 1. Die orthogonalen
+Transformationen bilden eine invariante Untergruppe Δ von Γ′. Aus der
+oben erwähnten Bedingung, die durch jede Ähnlichkeit erfüllt wird,
+folgt die Gleichung d² = aⁿ für die Determinante d aus den aik. Folglich
+hat eine orthogonale Transformation entweder das Vorzeichen +
+(d = +1) oder das Vorzeichen — (d = −1). Die orthogonalen Transformationen mit dem Vorzeichen + bilden die Gruppe Δ+ der euklidischen Bewegungen. Δ+ ist eine Untergruppe von Δ mit dem Index 2,
+d. h., wenn S1, S2 zwei beliebige Transformationen von Δ mit negativem
+Vorzeichen sind, dann hat S1−1S2 positives Vorzeichen. (Die fundamentale Tatsache der Unterscheidung von links und rechts: zwei gegenüber
+einer gegebenen Schraube gegensinnig gewundene Schrauben winden
+sich im gleichen Sinne.) Es macht nicht viel aus, ob wir Δ+ oder Δ als
+Gruppe der kongruenten Abbildungen zugrundelegen. Angenommen
+wir entscheiden uns für die größere Gruppe Δ. Dann würde die stetige
+Bewegung eines starren Körpers durch eine Orthogonaltransformation
+S(t) dargestellt, die vom Zeitparameter t abhängt und die Identität I
+im Anfangsmoment t = 0 aufweist. Da die Determinante von S(t)
+lediglich die beiden Werte + 1 und — 1 annehmen kann, da sie ferner
+am Anfang t = 0 gleich + 1 ist und stetig mit t variiert, muß sie stets
++1 bleiben. So fallen selbst dann, wenn wir beliebige orthogonale
+Transformationen zulassen, durch die Forderung der Stetigkeit für
+S(t) die Transformationen mit negativem Vorzeichen automatisch
+heraus. Ein starrer Körper könnte nur durch einen unstetigen Sprung
+in sein Spiegelbild übergehen.
+
+Ein viel tiefer greifender Aspekt für die Gruppe Δ als der, die
+Beweglichkeit starrer Körper zu beschreiben, wird durch ihre Rolle
+als Gruppe der Automorphismen der physikalischen Welt offenbar.
+In der Physik können wir nicht nur die Punkte betrachten, sondern
+ebenso die verschiedenen Arten physikalischer Größen wie Geschwindigkeit, Kraft, elektromagnetische Feldstärke usw. Aber
+Tatsache ist, daß in einem kartesischen System nicht nur Punkte,
+sondern alle physikalischen Größen durch Zahlen dargestellt werden können, zum Beispiel eine Kraft durch ihre Komponenten
+fi (i = 1, 2, ..., n), eine elektromagnetische Feldstärke durch eine
+Menge schiefsymmetrischer Komponenten Fik = —Fki usw. Und
+
+[[pdf-page:0112 printed-page:111]]
+
+unter dem Einfluß einer beliebigen orthogonalen Abbildung S (*)
+der Raumpunkte durchlaufen sie eine verwandte Transformation,
+die eindeutig durch S bestimmt ist. So transformieren sich zum
+Beispiel die Kraftkomponenten nach der Gleichung
+
+f′i = Σλ aiλ fλ (i, λ = 1, 2, ..., n),
+
+die Komponenten der elektromagnetischen Feldstärke nach der
+Regel
+
+F′ik = Σλ,μ aiλ akμ Fλμ (i, k, λ, μ = 1, 2, ..., n)
+
+usw. Alle Naturgesetze sind gegenüber der so durch die Gruppe Δ
+induzierten Transformation invariant. Indessen gilt nicht, daß sie
+gegenüber allen Ähnlichkeiten invariant sind, obgleich es auf
+einem gewissen Stand der Naturerscheinungen so aussieht. Aber
+die Tatsachen des Atomismus lehren uns, daß die Länge nicht relativ, sondern absolut ist. Die Atomkonstanten der Ladung und
+Masse des Elektrons und das Plancksche Wirkungsquantum h
+legen ein absolutes Längennormal fest, das sich durch die Wellenlängen der Spektrallinien auch für praktische Messungen als zugänglich erweist. So sind wir nicht mehr von der Erhaltung des
+Platin-Iridium-Urmeterstabes abhängig, der beim Comité International des Poids et Mesures in Paris aufbewahrt wird. Für die
+Basisvektoren eines kartesischen Bezugssystems schreiben wir nun
+die absolute Länge 1 vor. In Δ müssen auch die Transformationen
+mit negativem Vorzeichen enthalten sein; denn in den Naturgesetzen gibt es keinen Hinweis für einen natürlichen Unterschied
+zwischen links und rechts. Nun ist klar, warum ein Körper, dessen
+Stellen alle eine Transformation S(t) der Gruppe Δ durchlaufen,
+die stetig vom Zeitparameter t abhängt, und deren physikalische
+Merkmale sich entsprechend ändern, mit vollem Recht von sich
+behaupten kann: Physikalisch bin ich während meiner Bewegung
+gleich geblieben.
+
+Das extensive Medium der Außenwelt besteht sowohl aus der Zeit
+als auch aus dem Raum. Wie die Zeit als vierte Koordinate in das obige
+Schema paßt, wird in §16 auseinandergesetzt. Dieser Schritt wurde
+
+[[pdf-page:0113 printed-page:112]]
+
+dadurch vorbereitet, daß wir die Dimensionszahl n unbestimmt gelassen
+haben. Für die Physik ist der Fall n = 4 sogar wichtiger als n = 3. Hier
+werden wir uns freilich auf den Raum beschränken.
+
+Wir fassen zusammen: Die Gruppe der physikalischen Automorphismen im Raum ist die Gruppe Δ der orthogonalen Transformationen. Die Gruppe der geometrischen Automorphismen ist
+gemäß der eigentlichen Wortbedeutung der Normalisator Γ′ von Δ.
+Er ist größer als Δ, insofern er die Dilatationen x′i = a xi mit beliebiger Konstanter a > 0 mit enthält. Diese Divergenz zwischen
+Δ und Γ′ beweist letztlich, daß die Physik sich nie auf die Geometrie zurückführen läßt, wie Descartes gehofft hatte.
+
+Links und rechts. Müßte ich die fundamentalsten mathematischen Tatsachen benennen, so würde ich wahrscheinlich mit der Tatsache (F,)
+beginnen, daß das Abzählen einer Menge von Elementen zur gleichen
+Zahl führt, in welcher Reihenfolge man auch die Elemente vornimmt,
+dann als zweites die Tatsache (F,) erwähnen, daß man unter den Permutationen von n (> 2) Dingen die geraden und die ungeraden voneinander unterscheiden kann. Die geraden Permutationen bilden eine
+Untergruppe mit Index 2 innerhalb der Gruppe aller Permutationen. Die erste Tatsache bildet den Grund des geometrischen Dimensionsbegriffes, die zweite den des „Sinnes“. Wir betrachten die affine
+Vektorgeometrie. Eine Basis für ihre Vektoren besteht aus n Vektoren e1, ..., en, so daß jeder beliebige Vektor sich als Linearkombination x1e1 + ... + xnen eindeutig ausdrücken läßt, und der Satz von der
+Invarianz der Dimensionszahl besagt, daß jede Basis notwendig aus
+der gleichen Anzahl n Vektoren besteht. Aus dieser Aussage folgt klar
+die Tatsache (F,); denn durch jede Umgruppierung der Basisvektoren
+geht man zu einer neuen Basis über. Umgekehrt bildet das Invarianztheorem einen leicht aus der Tatsache (F,) zusammen mit der Regel
+für die Addition und Multiplikation von Zahlen abgeleiteten algebraischen Satz. Jede Anordnung von n gegebenen, linear unabhängigen
+Vektoren legt einen „Sinn“ fest, und zwei Anordnungen legen dann den
+gleichen Sinn fest, wenn sie durch eine gerade Permutation auseinander
+hervorgehen (Definition durch Abstraktion). Eine ungerade Permutation ändert den Sinn ins Gegenteil. Das ist ganz klar die kombinatorische
+Wurzel der Unterscheidung zwischen links und rechts. Außerdem wird
+man in Verbindung mit den Grundoperationen der affinen Vektorgeometrie (Vektoraddition, Multiplikation eines Vektors mit einer Zahl)
+zu einem Vergleich des „Sinnes“ zweier Basen e1, ..., en und e1*, ..., en*
+
+[[pdf-page:0114 printed-page:113]]
+
+geführt. Wenn man die Vektoren e* durch die Vektoren e ausdrückt,
+also
+
+ei* = a1i e1 + ... + ani en,
+
+dann besitzen die Koeffizienten aik eine nicht-verschwindende Determinante. Die Sinne der beiden Basen sind entweder gleich oder entgegengesetzt, je nachdem die Determinante positiv oder negativ ist.
+Die Definition einer Determinante gründet sich aber auf die Unterscheidung gerader und ungerader Permutationen!
+
+Kant findet den Schlüssel zum Rätsel des links und rechts!) im transzendentalen Idealismus. Der Mathematiker sicht dahinter die kombinatorische Tatsache der Unterscheidung von geraden und ungeraden Permutationen. Die Diskrepanz zwischen der Fragestellung des Philosophen
+und des Mathematikers nach den Wurzeln des Phänomens, das uns die
+Natur stellt, kann kaum auffallender beleuchtet werden.
+
+15. Der Riemannsche Standpunkt. Topologie
+
+Die Begriffe Dimensionszahl und Sinn sind nicht auf den
+metrischen euklidischen oder affinen Raum beschränkt. Sie gelten
+für kontinuierliche Mannigfaltigkeiten im allgemeinen. Riemann
+hat als erster den allgemeinen Begriff einer n-dimensionalen
+Mannigfaltigkeit mathematisch analysiert. Eine genügend kleine
+Umgebung eines beliebigen Punktes in einer n-dimensionalen
+Mannigfaltigkeit kann eineindeutig und stetig auf ein Gebiet des
+n-dimensionalen Zahlenraumes abgebildet werden, wobei die
+Punkte des letzteren n-Tupel von reellen Zahlen (x1, x2, ..., xn)
+sind. Jede umkehrbar eindeutige Transformation der Koordinaten
+
+yi = φi(x1, ..., xn)        (i = 1, ..., m);
+xk = ψk(y1, ..., ym)        (k = 1, ..., n)
+liefert eine neue Koordinatenzuordnung, die zur Darstellung der
+
+gleichen Umgebung dient. Ist m notwendig gleich n? Dies ist die
+Frage der topologischen Invarianz der Dimensionszahl.
+
+ı) Vgl. S. 108.
+
+[[pdf-page:0115 printed-page:114]]
+
+Es sei P = (x1, ..., xn) ein gegebener Punkt und P* = (x1 + dx1, ...,
+xn + dxn) irgend ein unendlich nahe bei P liegender Punkt. Sind die
+Transformationsfunktionen differenzierbar, dann transformieren sich
+die Komponenten (dx1, ..., dxn) aller von P ausgehenden infinitesimalen
+
+Vektoren →PP* nach linearen Formeln
+
+dyi = Σk aik · dxk,     dxk = Σi bki · dyi,     (*)
+
+deren Koeffizienten aik, bki vom Punkt P, aber nicht von P* abhängen.
+(Infinitesimale Größen lassen sich dadurch vermeiden, daß man eine
+imaginäre Zeit τ einführt und einen Punkt sich in der Mannigfaltigkeit
+nach einem willkürlichen Gesetz xk = xk(τ) bewegen läßt. Angenommen der Punkt gehe im Zeitpunkt τ = 0 durch P; seine Geschwindigkeit zu diesem Zeitpunkt ist ein Vektor in P mit den x-Komponenten
+uk = (dxk/dτ)τ=0. Die y-Komponenten vi der gleichen Geschwindigkeit
+sind mit den x-Komponenten durch die Gleichungen (*) verknüpft,
+
+vi = Σk aikuk,     uk = Σi bkivi,
+
+die für alle möglichen Geschwindigkeiten in P gilt.) Aber diese linearen
+Transformationen können nur dann invers zueinander sein, wenn
+m = n und die Determinante der aik, die sogenannte Jacobische Determinante, von Null verschieden ist. Für die Gesamtheit Ω sind nun
+nur solche „differenzierbaren“ Transformationen der Koordinaten zugelassen. Unter diesen Umständen spricht man von einer differenzierbaren Mannigfaltigkeit. Da sich die Jacobische Determinante stetig
+mit P ändert, ist sie in dem ganzen, von den beiden Koordinatenzuordnungen bedeckten Gebiet entweder durchweg positiv oder durchweg
+negativ. Im ersten Fall erteilen wir der Transformation die Signatur +,
+im zweiten Fall —. Danach kann über dem ganzen Gebiet ein „Sinn“
+festgelegt werden. Man sieht, daß sowohl die Dimensionszahl als auch
+der Sinn aus der Tatsache folgen, daß die affine Geometrie im Unendlichkleinen gilt. Während es der Topologie recht gut gelungen ist, mit
+der Stetigkeit Herr zu werden, verstehen wir noch nicht die innere Bedeutung der Beschränkung auf differenzierbare Mannigfaltigkeiten.
+Vielleicht vermag sie die Physik eines Tages abzutun. Gegenwärtig
+scheint sie unerläßlich, weil die Transformationsgesetze der meisten
+physikalischen Größen eng mit denen der Differentiale dxi (*) verknüpft
+sind.
+
+[[pdf-page:0116 printed-page:115]]
+
+Riemann hat, gestützt auf die Gaußsche Theorie der krummen
+Flächen, angenommen, die euklidische Geometrie gelte im Unendlichkleinen. Das Quadrat der Länge ds des infinitesimalen Vektors
+
+→PP* mit den Komponenten dxi kann dann durch eine positive
+quadratische Form
+
+ds² = Σik gik dxi dxk     (**)
+
+der dxi ausgedrückt werden. Ihre Koeffizienten gik sind vom
+
+Vektor →PP* mit den Komponenten dxi unabhängig, sie werden aber
+im allgemeinen vom Punkt P mit den Koordinaten xi abhängen
+und stetige Funktionen dieser Koordinaten sein. Aus der invarianten Bedeutung von ds² erhellt, wie sich die Komponenten gik des
+„Maßfeldes‘‘ beim Übergang zu einem neuen Koordinatensystem
+yi transformieren. Die Metrik eines dreidimensionalen Riemannschen Raumes dieser Art prägt sich jeder in ihm liegenden Fläche
+auf, die dadurch zum zweidimensionalen Riemannschen Raum
+gestempelt wird. Hingegen gilt im dreidimensionalen euklidischen
+Raum nicht auf jeder Fläche die zweidimensionale euklidische
+Geometrie; denn hier treten alle möglichen zweidimensionalen
+Riemannschen Räume als Unterräume des dreidimensionalen
+euklidischen Raumes auf. Der Raum ist also in der euklidischen
+Geometrie von viel speziellerer Natur (nämlich nicht-gekrümmt)
+als die möglichen Flächen darin, während der Riemannsche Raumbegriff genau den richtigen Grad der Allgemeinheit hat, um diese
+Diskrepanz zum Verschwinden zu bringen.
+
+Wie nach Leibniz’ Kontinuitätsprinzip die wahre Gesetzmäßigkeit der Natur ihren Ausdruck in Nahewirkungsgesetzen
+findet, wobei nur die Werte physikalischer Größen in Raum-Zeit-Punkten mit unmittelbarer Nachbarschaft zueinander verknüpft
+werden, so sollten die Grundrelationen der Geometrie sich nur auf
+unendlich nah benachbarte Punkte (‚‚Nahgeometrie‘“ im Gegensatz zur „Ferngeometrie‘“) beziehen. Nur im Unendlichkleinen
+dürfen wir erwarten auf die elementaren, überall gleichen Gesetze
+zu stoßen, darum muß die Welt aus ihrem Verhalten im Unendlichkleinen verstanden werden.
+
+[[pdf-page:0117 printed-page:116]]
+
+Verlangt man freilich die metrische Homogenität des Raumes — und der Raum als Form der Erscheinungen ist notwendig
+homogen —, so fällt man von dem Riemannschen sofort auf den
+klassischen Raumbegriff zurück, zu dem die Helmholtzschen
+Postulate über die Bewegungsgruppe führen. Aber Riemann nahm
+an, daß das metrische Feld nicht ein für allemal starr gegeben ist,
+sondern in kausaler Abhängigkeit von der Materie steht und mit ihr
+sich verändert; es gehört für ihn nicht zur ruhenden homogenen
+Form der Erscheinungen, sondern zum wechselvollen materiellen
+Geschehen. Riemann fragt nach dem innern Grunde der Maßverhältnisse des Raumes, und nachdem er mit den auf S. 62 zitierten
+Worten den Fall der diskreten und der stetigen Mannigfaltigkeit
+unterschieden hat, fährt er fort: „Es muß also entweder das dem
+Raume zugrunde liegende Wirkliche eine diskrete Mannigfaltigkeit bilden oder der Grund der Maßverhältnisse außerhalb in
+darauf wirkenden bindenden Kräften gesucht werden.“ Das
+Maßfeld tut sich kund vermöge seiner physischen Wirkungen, die
+es auf starre Körper, Lichtstrahlen und alle Naturvorgänge ausübt, aus denen allein wir seinen Zustand ablesen können. Was aber
+wirkt, muß auch leiden, muß selber etwas Reales sein und kann
+nicht in „geometrischer‘‘ Starre unangreifbar über den Kräften
+der Materie thronen. Dadurch ist nun trotz der Inhomogenität
+des metrischen Feldes die freie Beweglichkeit der Körper ohne
+Maßänderungen zurückgewonnen, da ein Körper das von ihm
+erzeugte oder deformierte metrische Feld bei der Bewegung ‚„‚mitnehmen“ wird. Einstein hat, nachdem er den Raum durch die Zeit
+zum vollen extensiven Medium der Außenwelt erweitert hatte,
+den Riemannschen Gedanken zu einer in alle Einzelheiten durchgebildeten physikalischen Theorie der Gravitation ausgestaltet
+und insbesondere auch die Gesetze ermittelt, nach denen die
+Materie auf das Maßfeld einwirkt.
+
+Riemann und Einstein behaupten, daß die Gruppe der —
+geometrischen und physikalischen — Automorphismen mit der
+Gesamtheit Ω aller differenzierbaren Transformationen zusammenfällt. In dieser Beziehung unterscheiden sich ihre Theorien
+radikal von dem im letzten Abschnitt auseinandergesetzten Standpunkt. Ihr Prinzip der allgemeinen Relativität ist nur annehmbar,
+
+[[pdf-page:0118 printed-page:117]]
+
+nachdem man das Maßfeld unter die physikalischen Größen eingegliedert hat, die auf die Materie einwirken und von dieser
+Gegenwirkung erfahren. Trotzdem wird die euklidische Geometrie für die infinitesimale Nachbarschaft eines beliebig gegebenen Punktes P0 beibehalten. Denn es ist eine mathematische Tatsache, daß für alle Linienelemente in einem gegebenen Punkt P0
+die Maßgleichung (**) die spezielle Form
+
+ds² = dx1² + dx2² + ... + dxn²
+
+annimmt, falls entsprechende Koordinaten xi für die Nachbarschaft von P0 gewählt sind. In dieser Form ist für irgendeine Unbestimmtheit kein Platz, und daher können wir sagen, die Natur
+der Metrik sei in jedem Punkt gleich. Aber das Koordinatensystem, in welchem das Maßgesetz diese feste Normalform annimmt und das, wie ich mich ausdrücken will, charakteristisch
+ist für die „Orientierung“ der Metrik, ist im allgemeinen von
+Stelle zu Stelle ein anderes. Eines analogen Sprachgebrauchs
+bedienen wir uns in der euklidischen Geometrie, wenn wir sagen:
+Alle Würfel (gegebener Größe) sind von der gleichen Natur, sie
+unterscheiden sich jedoch durch ihre „Orientierung“. Die Natur
+der Metrik ist eine, absolut gegeben; nur die gegenseitige Orientierung in den verschiedenen Punkten ist kontinuierlicher Veränderungen fähig und abhängig von der Materie. Der euklidische
+Raum ist zu vergleichen einem Kristall, der aus lauter gleichen
+unveränderlichen Atomen in der regelmäßigen und starren, unveränderlichen Anordnung eines Gitters aufgebaut ist, der Riemannsche Raum einer Flüssigkeit, die aus denselben untereinander gleichen unveränderlichen Atomen besteht, aber in einer
+beweglichen, gegenüber einwirkenden Kräften nachgiebigen
+Lagerung und Orientierung.
+
+Dies kommt vielleicht durch eine andere Formulierung der
+Riemannschen Konzeption heraus, die für die Quantenphysik
+unentbehrlich geworden ist, wenn die ein bewegtes Elektron kennzeichnenden Größen in die allgemeine Relativitätstheorie eingepaßt werden sollen. Aus der obigen Erläuterung durch Geschwindigkeiten ist klar, was mit dem Körper der Tangentenvektoren
+
+[[pdf-page:0119 printed-page:118]]
+
+(Geschwindigkeiten) in P gemeint ist. Sie bilden einen n-dimensionalen Vektorraum. Die Koordinatenzuordnung P → xi bestimmt
+eine Vektorbasis e1, ..., en in diesem Tangentenvektorraum V(P)
+in P, so daß u1e1 + ... + unen der Vektor mit den x-Komponenten ui ist. Angenommen der Vektorraum in P besitze eine euklidische Metrik (mit absolutem Längennormal), so können wir
+darin ein örtliches kartesisches Bezugssystem 𝔣 = 𝔣(P) einführen,
+das aus n aufeinander senkrecht stehenden Vektoren der Länge 1
+besteht. Die Willkürlichkeit in der Wahl dieses Systems drückt
+sich durch die Gruppe Δ0 der euklidischen Drehungen aus. Diese
+Gruppe besteht aus allen linearen Transformationen
+
+S: z′β = Σγ aβγzγ (β, γ = 1, ..., n),
+
+für welche
+
+z1′² + ... + zn′² = z1² + ... + zn²
+
+ist. Hierin sind die Variablen zβ die Komponenten eines beliebigen
+Vektors von V(P) in bezug auf das kartesische System 𝔣. Die
+Zahlenwerte eiβ (β = 1, ..., n) der Komponenten jedes einzelnen
+der Vektoren ei (i = 1, ..., n) in bezug auf 𝔣 beschreiben das Einbetten des Systems 𝔣 in den Raum. So können nun die n² Größen
+eiβ, die ebenso von der Wahl der Koordinaten xi wie vom kartesischen System 𝔣(P) in P abhängen und Funktionen von P sind,
+dazu dienen das Maßfeld zu kennzeichnen. Für die Riemannschen
+gik errechnet man leicht die Werte
+
+gik = ei1ek1 + ... + einekn.
+
+Erst wenn die Koordinaten xi und ein kartesisches System
+𝔣(P) in jedem Punkt P gewählt sind, können alle physikalischen
+Größen durch Zahlen dargestellt werden. Die Naturgesetze sind
+invariant 1. gegenüber willkürlichen Transformationen der
+Koordinaten xi und 2. gegenüber einer Drehung S des Systems
+𝔣(P), die willkürlich (stetig) vom Punkt P abhängen kann. Es
+besteht also diese doppelte Invarianz, eine, die von der Gruppe Ω
+aller Transformationen der Koordinaten xi beschrieben wird,
+
+[[pdf-page:0120 printed-page:119]]
+
+und die andere durch ein Element der Gruppe Δ0, das sich willkürlich mit der Lage von P ändern kann.
+
+Was beim Übergang von der speziellen zur allgemeinen Relativitätstheorie geschehen ist, ist offensichtlich folgendes: Die
+physikalischen Automorphismen, die, wie im vorigen Abschnitt
+beschrieben, die Gruppe Δ bilden, sind in ihre Bestandteile, die
+Translationen und Rotationen zerlegt worden. Die Translationsgruppe ist durch die Gruppe aller möglichen Transformationen
+der Koordinaten ersetzt worden, während die Rotationen zwar
+euklidische Rotationen geblieben sind, nun aber mit einem Zentrum P verknüpft und imstande sind frei zu variieren, während
+sich das Zentrum P über die Mannigfaltigkeit bewegt. Der Raum,
+das extensive Medium der materiellen Welt, ist ganz klar der Sitz
+der Gruppe Ω der Koordinatentransformationen; doch scheint
+die Gruppe Δ0 ihren Ursprung in den letzten Elementarteilchen
+der Materie zu haben. Die Größen eiβ sind somit die Mittler
+zwischen Materie und Raum.
+
+Es erhebt sich die Frage, aus welchen inneren Gründen heraus die
+Natur gerade Δ0 unter allen möglichen Gruppen homogener linearer
+Transformationen ausgesucht hat. Eine Antwort liefert die Helmholtzsche Theorie, nach der Δ0 vollständig durch das Axiom der freien Beweglichkeit gekennzeichnet ist: Jede inzidente Menge σ von 1-, 2-, ...,
+(n — 1)-dimensionalen Richtungen kann in jede ebensolche andere
+Menge durch eine Transformation von Δ0 überführt werden, während
+diejenigen Transformationen von Δ0, die eine gegebene Menge σ inzidenter Richtungen fest lassen, eine Untergruppe bilden, die nur zwei
+Elemente enthält (nämlich die Identität und die Spiegelung in σ). Diese
+Kennzeichnung ist jedoch weniger überzeugend, nachdem nun die
+Gruppe nicht mehr zur Beschreibung der Beweglichkeit eines starren
+Körpers dient. (Außerdem versagt sie für die Lorentzgruppe, die in der
+vierdimensionalen Welt die Stelle der orthogonalen Gruppe im dreidimensionalen Raum einnimmt.)
+
+Die Gruppe Δ0 könnte als abstrakte Gruppe betrachtet werden, für
+welche verschiedene Darstellungen durch lineare Transformationen für
+verschiedene physikalische Größen kennzeichnend sind, so zum Beispiel die Darstellung Δ0 durch orthogonale Transformationen selbst für
+die Vektoren, eine gewisse ‚‚Tensor“-Darstellung für die elektromagnetische Feldstärke, dann eine sehr bemerkenswerte, nämlich die sogenannte
+Spinordarstellung für das elektromagnetische Wellenfeld.
+
+[[pdf-page:0121 printed-page:120]]
+
+Topologie. Im allgemeinen überdeckt eine Koordinatenzuordnung nur einen Teil einer gegebenen kontinuierlichen Mannigfaltigkeit. Die „Koordinate“ (x1, ..., xn) ist ein aus reellen Zahlen
+bestehendes Symbol. Man kann sich das Kontinuum der reellen
+Zahlen als durch iterierte Zweiteilung geschaffen denken. Um die
+Natur einer Mannigfaltigkeit im ganzen bewältigen zu können,
+mußte die Topologie kombinatorische Schemata allgemeinerer
+Natur entwickeln. Durch diese kombinatorische Beschreibung ist
+sie dann die Beschränkung auf differenzierbare Mannigfaltigkeiten
+losgeworden.
+
+Um ein Kontinuum der mathematischen Behandlung zu unterwerfen, muß man annehmen, daß es in „‚Elementarstücke‘“ geteilt
+sei und diese Teilung durch immer wiederholte Unterteilung
+nach einem festen Schema — im eindimensionalen Fall besteht
+dieses Schema in der Zweiteilung jeder Elementarstrecke — beständig verfeinert und dadurch das Kontinuum mit einem immer
+dichter werdenden Teilungsnetz übersponnen werde. So hat denn
+eigentlich jedes Kontinuum sein eigenes arithmetisches Schema,
+das durch die kombinatorische Beschreibung der Art, wie in der
+anfänglichen Teilung die einzelnen Elementarstücke aneinander
+grenzen, durch das „topologische Gerüst‘ der Mannigfaltigkeit,
+schon vollständig festgelegt ist; die Einführung von Zahlkoordinaten durch die Beziehung auf das besondere Teilungsschema des
+offenen eindimensionalen Kontinuums ist eine Vergewaltigung,
+die sich nur durch die besonders bequeme kalkulatorische Behandlung des gewöhnlichen Zahlkontinuums mit seinen vier
+Spezies praktisch rechtfertigt. Das topologische Gerüst bestimmt
+die „Zusammenhangsverhältnisse‘‘ der Mannigfaltigkeit im großen. Es ist eine wichtige, aber schwierige mathematische Frage,
+wann zwei solche Gerüste äquivalent, d.h. fähig sind, dasselbe
+Kontinuum, auf zwei verschiedene Arten in Elementarstücke zerlegt, darzustellen. Das Gerüst besteht im Falle einer n-dimensionalen geschlossenen Mannigfaltigkeit aus endlich vielen Elementen
+0.,1.,2.,...,nter Stufe (Ecken, Kanten,...), die durch irgendwelche Symbole gekennzeichnet werden müssen. Ein Element
+v-ter Stufe wird begrenzt von gewissen Elementen (v — ter
+Stufe; durch die Angaben darüber ist das Gerüst vollständig be-
+
+[[pdf-page:0122 printed-page:121]]
+
+schrieben. Mit den Forderungen, die an ein solches Gerüst zu
+stellen sind, mit den Eigenschaften, die es besitzt, und mit der
+Frage der Äquivalenz befaßt sich die Analysis situs oder die
+kombinatorische Topologie.
+
+Die Topologie hat das Eigentümliche an sich, daß die zu ihr gehörigen Fragen unter Umständen sicher entscheidbar sind selbst dann,
+wenn die Kontinua, an welche sie gestellt werden, nicht exakt, sondern
+nur vage gegeben sind, wie es in der Wirklichkeit stets der Fall ist. So
+ist an einem unverletzten Ziegelstein sein topologisches Gerüst mit
+Sicherheit abzulesen; ein in sich zurücklaufender Faden, der eine Kurve
+im Sinne der exakten Geometrie nur näherungsweise festlegt, ist doch
+mit Sicherheit entweder verknotet oder nicht. Wo die möglichen Fälle
+eine diskrete Mannigfaltigkeit bilden, findet keine Ungenauigkeit statt.
+So kann man in der rationalen Bearbeitung eines Kontinuums drei
+Stufen unterscheiden: die Morphologie, die mit vag umschriebenen gestaltlichen Typen operiert; die Topologie, die durch auffällige Singularitäten geleitet oder in freier Konstruktion ein Gerüst, vag lokalisiert,
+aber kombinatorisch genau bestimmt, in die Mannigfaltigkeit hineinsieht; und die eigentliche mit Idealgebilden operierende Geometrie, die
+in ein wirkliches Kontinuum erst dann exakt sich hineintragen ließe,
+wenn dies mit einem sich ins Unendliche verfeinernden und verschärfenden Teilungsnetz übersponnen wäre; die geometrischen vom Teilungsnetz unabhängigen Eigenschaften der im Kontinuum konstruierbaren
+Gebilde mögen sich dabei auf ein in ihm ausgebreitetes Strukturfeld
+nach Art des metrischen Feldes stützen. Welche Bedeutung trotz evidenter Unerfüllbarkeit der eben für ihre Anwendung aufgestellten Forderung
+die idealisierende Geometrie in der Wirklichkeit besitzt, werden wir im
+naturwissenschaftlichen Teil erörtern. In dem geschilderten Aufstieg
+enthüllt sich das sinnlich-kategoriale Doppelantlitz der Geometrie, um
+dessentwillen schon Plato den geometrischen Figuren eine Mittelstellung
+zwischen den Ideen und den Sinnendingen anwies. — Für eine sorgfältigere phänomenologische Analyse des Gegensatzes von Vagem und
+Exaktem und des Limesbegriffs verweise ich auf die am Schluß von $9
+zitierte Schrift von O. Becker. — Wenn wir die Unterteilung des topologischen Gerüstes nach einem festen Schema vornehmen, so bedeutet
+das für ein konkret vorliegendes Kontinuum, daß wir annehmen, wir
+hätten uns bei der ersten Teilung in Stücke über die Analysis-situs-Beschaffenheit dieser Elementarstücke nicht getäuscht. Wir schließen
+also die Möglichkeit aus, daß sich beim genaueren Untersuchen einer
+Fläche zeigen könnte, daß das, was wir für ein Elementarstück gehalten
+
+[[pdf-page:0123 printed-page:122]]
+
+haben, in Wahrheit etwa aufgesetzte kleine Henkel trägt, die dem Stück
+andere Zusammenhangsverhältnisse verleihen, und so in infinitum bei
+Anwendung immer stärkerer ‚‚Vergrößerungen“ immer neue topologische
+Verwicklungen sich enthüllen würden.
+
+Der Riemannsche Standpunkt läßt auch für den wirklichen Raum
+ganz andere topologische Zusammenhangsverhältnisse zu, als sie der
+euklidische besitzt. Nur auf Grund der allgemeineren und freieren Auffassung der Geometrie, welche die Mathematik des letzten Jahrhunderts
+entwickelt hat, nur mit offenem Blick für die von ihr aufgedeckten Denkbarkeiten kann heute, glaube ich, das Raumproblem philosophisch
+fruchtbar in Angriff genommen werden.
+
+LITERATUR
+
+P. Alexandroff, Einfachste Grundbegriffe der Topologie. Berlin 1932.
+
+P. Alexandroff und H. Hopf, Topologie. Berlin 1935.
+
+H. v. Helmholtz, Über die Tatsachen, die der Geometrie zugrunde
+liegen (1868). Wiss. Abhandl. II, S. 618.
+
+B. Riemann, Über die Hypothesen, welche der Geometrie zugrunde
+liegen (1854). Ges. math. Werke 1876; gesond. Ausg. m. Anmerk. von
+H. Weyl, Berlin 1923.
+
+O. Veblen, Analysis situs. A. Math. Soc. Colloquium Publications,
+2. Aufl. New York 1931.
+
+H. Weyl, Mathematische Analyse des Raumproblems. Berlin 1923.
+
+[[pdf-page:0124 printed-page:123]]
+
+ZWEITER TEIL: NATURWISSENSCHAFT
+
+Ὁ ἄναξ, οὗ τὸ μαντεῖόν ἐστι τὸ ἐν Δελφοῖς,
+οὔτε λέγει οὔτε κρύπτει
+ἀλλὰ σημαίνει.
+
+(Der Herr, dessen das Orakel zu Delphi ist,
+offenbart nicht und verbirgt nicht,
+sondern kündet in Zeichen.)
+
+Heraklit
+
+[[pdf-page:0125 printed-page:124]]
+
+[blank page]

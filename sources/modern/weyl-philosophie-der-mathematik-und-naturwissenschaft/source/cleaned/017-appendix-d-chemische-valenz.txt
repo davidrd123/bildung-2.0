@@ -1,0 +1,439 @@
+# Anhang D: Die chemische Valenz und die Hierarchie der Strukturen
+
+Section ID: appendix-d-chemische-valenz
+Kind: appendix
+PDF pages: 342-354
+Printed pages: 341-353
+Status: OCR-derived cleaned draft; page images remain the authority.
+
+[[pdf-page:0342 printed-page:341]]
+
+Anhang D: Die chemische Valenz und die Hierarchie der
+Strukturen
+
+Die symbolische Struktur, mit deren Hilfe die Quantentheorie
+die atomaren Erscheinungen erklärt, kann gut von primitiver und
+irreduzibler Natur sein. Im Gegensatz dazu trägt das Aggregat
+atomarer Punkte, durch Valenzstriche verbunden, womit Kekulé
+ein chemisches Molekül darstellt, nur vermittelnden Charakter.
+Praktisch sind die Valenzstriche abkürzende Symbole für die
+wirklichen quantenphysikalischen Kräfte, die zwischen den Atomen wirken, die in sich selbst komplexe dynamische Gebilde sind.
+Man sieht daraus, daß das Kekulé-Diagramm auf eine primäre
+Struktur gegründet ist, nämlich auf die der Quantenmechanik.
+Dies ist ein Beispiel dafür, was Hilbert allgemein als „Tieferlegung der Fundamente“ bezeichnet hat.
+
+Die Theorie der chemischen Bindung gewährt ein so treffendes
+Bild der Hierarchie der Strukturen, daß ich sie unbedingt ausführlicher beschreiben will. Der Elektronenspin und das Ausschließungsprinzip sind die Eigenschaften, die von der Quantenmechanik für die chemische Valenz verantwortlich gemacht werden. Die Position ist sicher ein Merkmal für das Elektron. Wäre
+die Trennung nach der Position ein feinstes Gitter, so wäre der
+Wellenzustand eines Elektrons gegeben durch eine (komplexwertige) Funktion ψ(P) eines Arguments P, das sich über alle
+Punkte im Raum erstreckt (wobei das Längenquadrat dieses
+Vektors das Integral von |ψ(P)|² ist), und der Wellenzustand
+eines Aggregats von f Elektronen 1, 2, ..., f wäre eine antisymmetrische Funktion ψ(P1, ..., Pf) ihrer Positionen P1, ..., Pf.
+Das Ausschließungsprinzip ist eine Folge der Antisymmetrie.
+Infolge der inneren Gleichheit aller Elektronen ist ein dynamischer
+Vorgang nicht denkbar, der jemals ein antisymmetrisches ψ in
+ein nicht antisymmetrisches überführen würde. Eine Funktion
+von mehreren Argumenten i, ψ(i1, ..., if) ist symmetrisch, wenn
+sie unter allen f! Permutationen ihrer f Argumente unverändert
+bleibt; sie ist antisymmetrisch, wenn alle geraden Permutationen
+sie ungeändert lassen und alle ungeraden sie in −ψ überführen.
+
+[[pdf-page:0343 printed-page:342]]
+
+Die Natur des Arguments i spielt keine Rolle; i kann sich über
+eine endliche Anzahl von Werten i=1,2,...,n erstrecken, wie
+wir es zur Vereinfachung in unserer Darstellung der Quantenmechanik angenommen haben, oder auch über ein ganzes Kontinuum wie P. Vorher haben wir gesehen, daß der Unterschied
+zwischen geraden und ungeraden Permutationen die kombinatorische Grundlage für die Polarität von links und rechts ist;
+jetzt stellen wir fest, daß er an der Wurzel des periodischen Systems
+der chemischen Elemente und entscheidender Eigenschaften der
+physikalischen Welt liegt, die der Erklärung durch die Begriffswelt der klassischen Physik trotzen.
+
+Die spektroskopische Erfahrung hat gezeigt, daß über die und
+zusätzlich zur Separation von Elektronen durch ihre Positionen
+eine Aufspaltung in zwei Strahlen stattfindet, z.B. unter dem
+Einfluß eines Magnetfeldes. Daraus müssen wir schließen, daß die
+Wellenfunktion eines einzelnen Elektrons ψ(Pρ) von zwei
+Variablen abhängt, der stetigen Veränderlichen der Position P,
+und einer zweiten Variablen ρ, dem Spin, die nur die beiden Werte
++1 und −1 annehmen kann. Die beiden Komponenten ψ(P, +1)
+= ψ+(P) und ψ(P, −1) = ψ−(P) beziehen sich auf ein cartesisches System und transformieren sich, wie W. Pauli als erster
+erkannte, nach der in Abschnitt 15 erwähnten Spinordarstellung,
+wenn man durch Rotation zu einem andern cartesischen System
+übergeht. Die Wellenfunktion eines Aggregats von f Elektronen
+ist eine antisymmetrische Funktion ψ(P1ρ1, P2ρ2, ..., Pfρf) von
+f Paaren (Pρ).
+
+Hierher gehört noch ein dritter Umstand außer dem Spin und
+der Antisymmetrie: der dynamische Einfluß des Spins kann mit
+beträchtlicher Näherung vernachlässigt werden. Nehmen wir an,
+er sei streng Null, d. h. der dynamische Energieoperator H wirke
+sich nur auf die Positionsvariablen P, nicht auf die Spinvariablen
+aus. Zuerst kann man daran denken, daß man dann den Spin
+ganz übergehen könnte. Daß das nicht der Fall ist, ist auf die
+Antisymmetriebedingung in bezug auf die Paare (Pρ) zurückzuführen. Sei η(P1, ..., Pf) eine Eigenfunktion des Operators H
+mit dem Eigenwert hν, wo Hη = hν · η, η somit einen stationären
+Wellenzustand der Energie hν darstellt. Nehmen wir an, η sei in
+
+[[pdf-page:0344 printed-page:343]]
+
+seinen f Argumenten P antisymmetrisch. Zieht man die Existenz
+des Spins in Betracht, so erhält man eine ganze lineare Mannigfaltigkeit von Wellenfunktionen ψ der Energie hν
+
+ψ(P1ρ1, ..., Pfρf) = η(P1, ..., Pf) · φ(ρ1, ..., ρf).
+
+Hier könnte der zweite Faktor φ(ρ1, ..., ρf) irgend eine Funktion
+der f Spinvariablen ρ sein; aber die Antisymmetrie von ψ fordert,
+daß φ symmetrisch ist. Eine symmetrische Funktion φ von ρ1, ..., ρf
+nimmt einen bestimmten Wert φg an, wenn eine gegebene Anzahl g
+von den Argumenten ρ gleich +1 und f − g von ihnen gleich −1
+ist; und die Funktion ist vollständig charakterisiert durch ihre
+f + 1 Werte φf, φf−1, ..., φ0. Folglich ist die lineare Mannigfaltigkeit der symmetrischen Funktionen φ (f + 1)-dimensional, und
+die Existenz des Spins wirkt sich so aus, daß die Energiestufe hν
+oder der „Term“ ν das (f + 1)-fache erfordert. Nur wenn die
+wirklich existierende schwache Wechselbeziehung der Spine
+untereinander in Rechnung gezogen wird, spaltet sich dieser
+Multiplikationsfaktor f + 1 in ein Multiplett von f + 1 verschiedenen Ausdrücken auf. Betrachten wir für einen Augenblick, was
+geschehen würde, wenn andererseits η symmetrisch wäre. φ muß
+dann antisymmetrisch sein. Aber eine antisymmetrische Funktion
+verschwindet immer, wenn zwei ihrer Argumente gleiche Werte
+haben. Kann daher das einzelne Argument nur zwei Werte annehmen, so verschwindet die Funktion identisch, vorausgesetzt
+daß f > 2 ist, und der einem symmetrischen η entsprechende
+Term ν ist ausgelöscht, sein Vielfaches wird 0. Infolge der niedrigen Dimensionszahl 2 des Spinraumes können die möglichen
+Permutationssymmetriemerkmale der Funktionen φ(ρ1, ..., ρf)
+durch eine Zahl beschrieben werden, die Valenz v, die alle Werte
+0 ≤ v ≤ f annehmen kann, welche sich von f durch eine gerade
+Zahl unterscheiden. Zustände, in welchen η antisymmetrisch (und
+folglich φ symmetrisch) ist, haben die Valenz f. Ein Valenzausdruck hat bloß wegen der Vertauschbarkeit der Elektronen die
+Vielfachheit v + 1.
+
+Wir betrachten ein neutrales Atom als Aggregat von f Elektronen mit der Ladung −e, die sich im Feld eines im Zentrum O
+befindlichen Kernes mit der Ladung f · e bewegen. In der nicht-
+
+[[pdf-page:0345 printed-page:344]]
+
+relativistischen Mechanik können bei diesem Modell nur die
+elektrostatischen Kräfte zwischen diesen Ladungen zusammen
+mit der kinetischen Energie der Elektronen in Betracht gezogen
+werden. Sei η(P1, ..., Pf) eine antisymmetrische Eigenfunktion
+des dem Term ν entsprechenden Energieoperators H. Das Atom
+in diesem Zustand η hat die Energie hν und die höchstmögliche
+Valenz f. (Jede Permutation der f Punkte P1, ..., Pf würde η in
+eine Eigenfunktion für denselben Term ν verwandeln; doch verursacht dies wegen der Antisymmetrie keine Permutationsmultiplizität.) Auch ist richtig, daß die Wirkung jeder gewöhnlichen
+Rotation der Punkte P1, ..., Pf um O η(P1, ..., Pf) in eine Eigenfunktion für denselben Term ν transformiert. Wenn wir „Rotations“-Multiplizität von ν vermeiden wollen, so müssen wir annehmen, daß die Funktion η(P1, ..., Pf) der Konstellation
+
+P1 ... Pf der Elektronen invariant ist gegenüber allen Rotationen
+(Zentralsymmetrie). Ein solcher stationärer Wellenzustand heißt
+in der Spektroskopie S-Zustand. So nehmen wir an, das Atom
+habe seine höchste Valenz f und befinde sich in einem S-Zustand.
+Die Wahrscheinlichkeit W (r) dafür, daß man eines der Elektronen
+in einer Entfernung größer als r vom Zentrum O antrifft, ist durch η
+bestimmt, und es stellt sich heraus, daß W (r) mit zunehmendem r
+nach einer Exponentialfunktion abnimmt.
+
+Führt man die beiden „Unbestimmten“ x+, x− ein, die den
+beiden Werten ρ = +1 und ρ = −1 des Spins entsprechen, so
+wird eine symmetrische Funktion φ(ρ1, ..., ρf) zweckmäßig durch
+die algebraische Form von x+, x− vom Grade f mit den Koeffizienten φ dargestellt:
+
+Σρ φ(ρ1, ..., ρf) xρ1 ... xρf = Σg [f! / (g!(f − g)!)] φg x+^g x−^(f−g).
+
+Die Summe auf der linken Seite besteht aus 2f Gliedern, da jedes ρ
+seine beiden Werte + und — annimmt, während sich auf der
+rechten Seite g über die Folge f, f − 1, ..., 0 erstreckt. Betrachtet
+man die Unbestimmten x+, x− als Komponenten eines Vektors x
+in einer Ebene, so unterwerfen wir sie einer beliebigen linearen
+Transformation
+
+[[pdf-page:0346 printed-page:345]]
+
+x+ = αx'_+ + βx'_−,        x− = γx'_+ + δx'_−        (1)
+
+mit αδ − βγ = 1. Eine Form F(x, y, ...) von mehreren unbestimmten Vektoren x, y, ..., die vom Grade fa in x und fb in y
+und ... ist, heißt Invariante, wenn F(x, y, ...) = F(x', y', ...)
+immer dann gilt, wenn x und x', y und y', ... miteinander durch
+dieselbe Transformation (1) mit der Determinante 1 verknüpft
+sind.
+
+Betrachten wir jetzt eine Anzahl neutraler Atome a, b, ... mit
+fa, fb, ... Elektronen, deren Atomkerne in den festen Raumpunkten Oa, Ob, ... liegen, und nehmen wir an, jedes Atom befinde sich in einem stationären S-Zustand von höchster Valenz
+und seine jeweilige Energiestufe sei hνa, hνb, ... . Daraus ergibt
+sich, daß das kombinierte System dieser Atome die Energie
+hν0, ν0 = νa + νb + ... hat, und daß sein Zustand zu einer linearen
+Mannigfaltigkeit Π von (fa + 1)(fb + 1)... Dimensionen gehört.
+Durch diese Formulierung haben wir die gegenseitige Wechselbeziehung der Atome übergangen und somit die wesentliche
+Gleichheit aller f = fa + fb + ... Elektronen dadurch verletzt,
+daß wir fa von ihnen der Umgebung von Oa zugeschrieben und
+diese fa Elektronen nur in gegenseitiger Wechselbeziehung und
+in solcher mit dem Kern gelassen haben. Die Entfernungen r der
+Kerne in Oa, Ob, ... voneinander nehmen wir als groß an im
+Vergleich zum Bohrschen Radius h²/me². Berücksichtigt man nun
+die Wechselbeziehung zwischen den einzelnen Atomen als kleine
+Störung, so findet man, daß sich der Term ν0 durch die „Permutationsresonanz“ in eine Anzahl Termsysteme des Moleküls nach
+den verschiedenen möglichen Valenzen v = f, f − 2, ... auflöst.
+Die Valenzzustände v bilden eine lineare Untermannigfaltigkeit
+Πv von nv Dimensionen, die in der Näherung der Störungstheorie
+als Ganzes invariant gegenüber dem Energieoperator H und somit
+stationär ist. Die entsprechenden nv Terme ν = ν0 + Δν und die
+einzelnen stationären Zustände des Moleküls können als die
+Eigenwerte und als die in Πv geltenden Eigenfunktionen von H
+bestimmt werden. Da jeder der nv Terme ν des Moleküls in einem
+Valenzzustand v die Multiplizität v + 1 hat, führt der Dimensionsvergleich zu der Gleichung
+
+[[pdf-page:0347 printed-page:346]]
+
+(fa + 1)(fb + 1)... = Σv nv(v + 1).
+
+Die Änderungen Δν = V(Oa, Ob, ...) sind Funktionen der Kernkonstellation OaOb..., von der man findet, daß sie von demselben
+Typus ist wie die oben erwähnte Wahrscheinlichkeit, nämlich
+eine mit zunehmender Entfernung r abnehmende Exponentialfunktion. Daraus erklärt sich die Tatsache, daß die homöopolare
+Bindung zwischen neutralen Atomen eine Kraft von kurzer Reichweite ist. (Die Anziehungskraft zweier Ionen mit entgegengesetzten Ladungen in einer Entfernung r, die heteropolare Bindung,
+ist wirklich kein Geheimnis; ihre Energie folgt dem Coulombschen Gesetz 1/r und ist somit von großer Reichweite.)
+
+Ein unbestimmter binärer Vektor x = (x+, x−), y, ... sei mit
+jedem der Atome a, b,... verknüpft, und es werde ein weiterer
+„freier“ Vektor l hinzugefügt. Dann wird Πv am besten als die
+lineare Mannigfaltigkeit aller Invarianten I(x, y, ..., l) beschrieben, die von den unbestimmten Vektoren x, y, ..., l von den
+gegebenen Graden fa, fb, ..., v abhängen. Die Einzelheiten spielen
+hier keine Rolle. Doch soviel sollte klar sein, daß die zweidimensionalen Vektoren und die Invarianz gegenüber linearen Transformationen eine Rolle spielen, weil wegen des Spins der Zustand
+(φ+, φ−) eines Elektrons ein solcher Vektor ist. Die Dimensionszahl nv von Πv ist gleich der Anzahl der linear unabhängigen
+Invarianten vom Grade fa, fb, ... der Vektoren x, y, ... und vom
+Grade v des freien Vektors l.
+
+Die einfachste, linear von zwei unbestimmten Vektoren x, y
+abhängige Invariante ist der „Klammerfaktor“ [xy] = x+y− −
+x−y+. Jedes Produkt solcher Klammerfaktoren heißt monomische
+Invariante; sie ist vollständig beschrieben durch ein Diagramm, in
+welchem jeder der Argumentvektoren x, y, ..., l durch einen
+Punkt und jeder Klammerfaktor wie [xy] durch eine die Punkte
+x und y verbindende Gerade dargestellt wird. (Ein den freien
+Vektor l enthaltender Klammerfaktor [xl] kann statt dessen
+durch einen von x ausgehenden Strich, dessen anderes Ende frei
+bleibt, dargestellt werden.) Die Grade fa, fb, ..., v der monomischen Invariante sind die Anzahlen der Striche, die in den entsprechenden Punkten x, y, ..., l enden. Danach entsprechen die
+
+[[pdf-page:0348 printed-page:347]]
+
+monomischen Invarianten vollständig Kekulés Valenzdiagrammen. Wir werden deshalb einen durch eine solche Invariante beschriebenen Zustand einen reinen Valenzzustand nennen. Der
+erste Hauptsatz der Invariantentheorie sagt aus, daß jede Invariante von gegebenen Graden eine lineare Kombination von monomischen Invarianten jener Grade ist.
+
+Für ein Molekül, das aus zwei Atomen x, y mit den Valenzen
+a und b, a ≥ b besteht, finden wir nur eine Invariante
+
+[xy]^d [xl]^(a−d) [yl]^(b−d)
+für jede der möglichen Molekularvalenzen v = a + b − 2d,
+d = 0, 1, ..., b. Dies entspricht genau dem, was wir nach den
+Valenzdiagrammen erwartet hätten; d ist die Anzahl der die
+beiden Atome verbindenden Valenzstriche, und a − d, b − d ist
+jeweils die Anzahl der freien Valenzstriche, die von x bzw. von y
+ausgehen. Für den entsprechenden Term ν0 + Δν des Moleküls
+findet man Δν = λ · V(r), wo V(r) eine Funktion der Entfernung r der beiden Atome ist; r hängt nicht von d ab, während der
+Formfaktor λ = (a−d)(b−d) − d von d, aber nicht von r
+abhängt. Die Funktion V (r) ist schwierig zu berechnen, doch
+stellt sie sich in den einfachsten Fällen für große r als positiv
+heraus. Nimmt man dies für allgemein gültig, so erhält man eine
+Anziehungs- oder Abstoßungskraft, je nachdem der Formfaktor λ
+negativ oder positiv ist. λ ist negativ für d = b, aber da λ von −b
+bis ab variiert, während d die Werte b, b−1, ..., 0 annimmt, ist
+der Formfaktor nur negativ für die stärkste Bindung d = b oder
+möglicherweise für ein paar der stärksten Bindungen d = b,
+b−1, ...
+
+Das Bild ändert sich etwas, wenn mehr als zwei Atome in Erscheinung treten. Dann ist wegen der Existenz linearer Beziehungen unter den monomischen Invarianten die Anzahl nv der linear
+unabhängigen Invarianten kleiner als die der möglichen Diagramme mit v freien Valenzstrichen. Überdies fallen die einzelnen
+stationären Zustände mit bestimmten Energiestufen ν0 + Δν
+nicht mehr mit irgend einem der reinen Valenzzustände zusammen. Dafür gibt es in der Chemie klare Anzeichen. Zum Beispiel
+sieht Kekulés berühmte Formel für den Benzolring, eine reguläre
+
+[[pdf-page:0349 printed-page:348]]
+
+Anordnung von sechs CH-Gruppen, zwei Möglichkeiten vor,
+wogegen das Studium der Ortho-Derivate schlüssig beweist, daß
+es in der Natur nur eine gibt. Das im Valenzdiagramm S gezeigte
+Skelett hat die volle hexagonale Symmetrie, die man für den Benzolring erwartet, doch läßt es ein Valenzelektron in jedem C-Atom ungebunden. Diese Auffassung eines festen Skeletts, dem der variable
+Zustand der Verbindung zwischen den übrigbleibenden Valenzelektronen zukommt,
+mag eine unstatthafte Vereinfachung sein,
+doch ist sie nützlich für eine erste Orientierung und reduziert unser Problem (welches in der Tat zweiundvierzig Elektronen einschließt) auf das mit
+sechs gleichen Atomen mit je einem Elektron, die in einem regelmäßigen Sechseck mit der Seitenlänge r angeordnet sind. Hier
+bilden die Zustände mit der Valenz 0 die lineare Mannigfaltigkeit
+aller Invarianten, die linear von sechs Argumentvektoren 1, 2, 3,
+4, 5, 6 abhängen. Die fünf im Bilde gezeigten monomischen Inva-
+
+[Diagramm: Benzol-Skelett S, hexagonaler Ring mit sechs C- und sechs H-Markierungen.]
+
+[Diagramm: A = [12][34][56]; A' = [23][45][61]; B1 = [61][52][43]; B2 = [21][36][45]; B3 = [23][14][65].]
+
+[[pdf-page:0350 printed-page:349]]
+
+rianten A, A’; B1, B2, B3 stellen eine Basis für diese Mannigfaltigkeit dar. (Ihre Diagramme sollten auf das Skelett S gelegt werden;
+die entsprechenden fünf reinen Valenzzustände sind „in Resonanz“.) Die Termänderungen Δν = λ · V(r) der verschiedenen
+stationären Zustände η unterscheiden sich durch den Formfaktor
+λ. Die Potentialfunktion V(r) von r ist jedoch ein gemeinsamer
+Faktor von exponentiellem Typus. Hier ist eine Liste der stationären Zustände mit ihren Formfaktoren λ:
+
+A + A'                                      λ = 0
+
+β1B1 + β2B2 + β3B3 (β1 + β2 + β3 = 0)     λ = 2
+6(A − A') − (1 + √13)(B1 + B2 + B3)        λ = 1 + √13
+
+η = 6(A − A') − (1 − √13)(B1 + B2 + B3)    λ = 1 − √13 < 0
+
+Wie wir wissen, ist ein negativer Wert von λ zweideutig für die
+Existenz eines stabilen Moleküls in dem entsprechenden Quantenzustand η. Nur das η der letzten Zeile befriedigt diese Bedingung,
+und somit zeigt eben dieses η die Richtung an, in welcher wohl die
+quantenmechanische Korrektur von Kekulés Benzolformel liegt:
+zu der Differenz der monomischen, durch Kekulés beide Diagramme anschaulich gemachten Invarianten A, A’ ist ein Vielfaches der Summe der drei durch die Dewar-Diagramme B1, B2, B3
+dargestellten Terme hinzuzufügen. (Sowohl A − A’ als auch
+B1 + B2 + B3 ändern das Vorzeichen unter dem Einfluß einer
+Drehung des Sechsecks um 60° und bleiben bei einer Spiegelung
+an einer der drei Diagonalen ungeändert!).)
+
+Der Begriff der quantenmechanischen Resonanz zwischen Zuständen von (beinahe) gleichen Energiestufen spielt eine wichtige
+Rolle in der modernen Strukturchemie. Gleichzeitig versucht
+man, an wohlerprobten und plausiblen Valenzschemata festzuhalten, indem man die durch die Resonanz erforderlichen Änderungen auf ein Minimum beschränkt; und in den meisten Fällen
+
+1) Würde man das Benzolmolekül als Ring von sechs CH-Gruppen mit
+der Valenz 3 behandeln, so stiege die Anzahl der resonanten unabhängigen
+Möglichkeiten von 5 auf 34; denn die lineare Mannigfaltigkeit binärer Invarianten von sechs Argumentvektoren und vom Grade 3 einer jeden von
+ihnen hat die Dimensionszahl 34.
+
+[[pdf-page:0351 printed-page:350]]
+
+ist man zufrieden, die Störungsenergien durch empirische Beobachtung und nicht durch Berechnung zu bestimmen. Diese hier
+am klassischen Beispiel des Benzolrings vorgeführte konservative
+Behandlungsart hat überraschenden Erfolg gezeitigt — überraschend für die allzu ängstlichen Mathematiker, die es schwer
+finden, einige der „plausiblen‘‘ näherungsweisen Annahmen, auf
+die sie gegründet ist, zu rechtfertigen. (Eine genauere Beurteilung
+wird bald möglich sein mit Hilfe der jetzt im Bau befindlichen
+schnell arbeitenden Rechenmaschinen.)
+
+Endlich komme ich zu der Lehre, die ich aus dieser langen
+Abschweifung in die quantenmechanische Chemie ziehen will.
+Sie betrifft die Hierarchie der Strukturen. Auf der tiefsten Stufe α
+haben wir die Strukturen der Quantenmechanik selbst, mit deren
+Hilfe wir imstande zu sein scheinen, alle spektroskopischen und
+chemischen Tatsachen, kurz alle physikalischen Tatsachen zu
+deuten, für welche die innere Konstitution der Atomkerne keine
+Rolle spielt. Auf der zweiten Stufe ß ist die Struktur, die ein Molekül in seinen verschiedenartigen Zuständen darstellt, die lineare
+Mannigfaltigkeit binärer Invarianten. Dieses Bild hat die Wahrheit nur umgrenzt; vor allem bezieht es sich nicht auf das fertige
+Molekül, sondern auf das Aggregat seiner Atome mit ihren im
+Vergleich zu der Ausdehnung der Atome weit voneinander entfernten Kernen. Was die einzelnen Atome betrifft, so werden überdies die einfachstmöglichen Bedingungen für die Permutation
+ihrer Elektronen und die Rotation ihrer Konfiguration im Raum
+angenommen. Die Strukturen, die auf der dritten Stufe γ für die
+Deutung chemischer Tatsachen benützt werden, sind die Valenzdiagramme. Von ß aus gesehen ist das Bild γ in einer wesentlichen
+Hinsicht korrekt: alle möglichen Zustände des Moleküls (alle
+Invarianten) sind tatsächlich lineare Kombinationen der reinen
+Valenzzustände (monomische Invarianten). Aber es irrt in drei
+andern Punkten: 1) Es gibt nicht nur ein paar diskrete Zustände
+wie die reinen Valenzzustände, sondern vielmehr eine ganze
+lineare Mannigfaltigkeit von Wellenzuständen; dies ist natürlich
+der entscheidende Gegensatz zwischen klassischer und Quantenmechanik. 2) Die linearen Beziehungen zwischen den monomischen Invarianten werden unterschlagen, und deshalb erhält man
+
+[[pdf-page:0352 printed-page:351]]
+
+für die Anzahl nv der unabhängigen Möglichkeiten einen zu hohen
+Wert. 3) Die n, stationären Quantenzustände fallen im allgemeinen
+mit keinem der reinen Valenzzustände zusammen, sondern sind
+gewisse lineare Kombinationen von diesen.
+
+Im Gegensatz zu unserer Darstellung ist die historische Ordnung die des Absteigens zu einer immer tieferen Stufe, γ → β → α.
+A. Kekulé entwickelte im Jahre 1859 seine graphische Darstellung
+der chemischen Struktur. Die mittlere Stufe $ wurde erstmals von
+J.J. Sylvester im Jahre 1878 erreicht!) (ihm folgte später der
+deutsche Invariantentheoretiker P. Gordan und der russische
+Chemiker W. Alexejeff). Jedoch blieben die Chemiker bei ihren
+vertrauten Valenzdiagrammen, denn es fehlte ja eine physikalische Deutung der Addition von Invarianten und von dynamischen Gesetzen, mit welchen die Bindekräfte und die wirklichen
+stationären Zustände zu bestimmen waren. Heute können wir
+erkennen, daß nur eine so radikale neue Richtung wie die der
+
+1) Sylvesters Arbeit, die im ersten Band des von ihm in Johns Hopkins
+gegründeten American Journal of Mathematics veröffentlicht wurde, trägt
+den Titel: On an application of the new atomic theory to the graphical re-
+‚presentation of the invariants and covariants of binary quantics. Von den einleitenden Sätzen ist der erste eine so charakteristische Feststellung der
+Naturphilosophie des XIX. Jahrhunderts und der zweite ein so reizendes
+Stück Sylvesterscher Prosa, daß sie hier angeführt werden mögen:“By the
+new Atomic Theory I mean that sublime invention of Kekulé which stands
+to the old in a somewhat similar relation as the Astronomy of Kepler to
+Ptolemy’s, or the System of Nature of Darwin to that of Linnaeus; — like the
+latter it lies outside of the immediate sphere of energetics, basing its laws on
+pure relations of form, and like the former as perfected by Newton, these
+laws admit of exact arithmetical definitions. — Casting about, as I lay awake
+in bed one night, to discover some means of conveying an intelligible conception of the objects of modern algebra to a mixed society mainly composed
+of physicists, chemists and biologists, interspersed only with a few mathematicians, to which I stood engaged to give some account of my recent
+researches in this subject of my predilection, and impressed as I had long
+been with the feeling of affinity, if not identity of object, between the inquiry
+into compound radicals and the search for ‘Grundformen‘ or irreducible
+invariants, as I was agreeably surprised to find of a sudden distinctly pictured
+on my mental retina a chemico-graphical image serving to embody and
+illustrate the relations of these derived algebraic forms to their primitives
+and to each other, which would perfectly accomplish the object I had in
+view, as I will now proceed to explain.‘“
+
+[[pdf-page:0353 printed-page:352]]
+
+Quantenmechanik die Bedeutung des Bildes enthüllen konnte,
+das Sylvester als rein formale, obgleich sehr eindrucksvolle
+mathematische Analogie entdeckte.
+
+Die Moral dieser Geschichte ist offenkundig: man nehme
+solche vorläufigen kombinatorischen Schemata wie die Valenzdiagramme nicht zu wörtlich, so nützlich sie auch als erste Führung in einer scheinbar zusammenhanglosen Masse von Tatsachen sind. Von einem mit ein paar scharfen Strichen entworfenen
+Bild der Wirklichkeit kann nicht erwartet werden, daß es der
+Vielfalt all ihrer Schattierungen adäquat sei. Gleichwohl muß
+gerade der Zeichner den Mut haben, die Linien kräftig zu ziehen.
+Ohne Zweifel sind die Genaggregate der Genetik mit ihren Gelenkverbindungen von nicht weniger vorläufigem Charakter als
+die Valenzdiagramme der Chemie. Das zytologische Studium der
+Zellen enthüllt komplizierte Bewegungen von Chromosomen und
+vielgestaltige physische Prozesse, deren Einzelheiten sich fortwährend ändern; für ihr Ergebnis bedeuten die diskreten genetischen Diagramme nicht mehr als Abstrakta von begrenzter Gültigkeit. Ich würde daher für die Zulänglichkeit des in Anhang B
+beschriebenen primitiven kombinatorischen Schemas nicht zu
+sehr eintreten, und dennoch schien es am besten, das Bild selbst
+so deutlich wie möglich zu machen, wenn auch sein Wert noch so
+begrenzt ist. (Dies ist ein Prinzip, welches Nicolaus Cusanus in
+De docta ignorantia betonte: ist das Transzendente für uns nur
+zugänglich durch Bilder und Symbole, so sollen die Symbole
+wenigstens so klar und unzweideutig sein, wie die Mathematik
+das zuläßt.).
+
+Die im nächsten Anhang berichteten Tatsachen lassen wenig
+Zweifel, daß die Vererbungsgesetze letztlich auf derselben Struktur
+wie die Gesetze der Chemie beruhen: auf der Struktur der Quantenmechanik. Eine Struktur, die dazu dienen könnte, zwischen
+den genetischen Diagrammen und der Quantenphysik zu vermitteln, sollte so sein, daß sie die chemische Komplexität der
+Lebensträger mit in Rechnung stellt. Der einfachste kombinatotische Gegenstand ist vielleicht die Gruppe der n! Permutationen
+von n Dingen. Diese Gruppe hat für jede einzelne Zahl n eine
+andere Konstitution. Die Frage ist, ob es trotzdem einige asympto-
+
+[[pdf-page:0354 printed-page:353]]
+
+tische Gleichmäßigkeiten gibt, die für große n oder für eine ausgezeichnete Klasse von großen n gelten. Die Mathematik weiß über
+solche Probleme noch wenig zu sagen. Man fragt sich, ob eine
+Quantentheorie organischer Prozesse mit ihrer Lösung verbunden
+ist.
+
+Während die in Anhang C beschriebene Quantenstruktur von
+der Physik einstweilen als die letzte Schicht anerkannt worden
+ist, fragt sich der skeptische Philosoph, ob diese Reduktion mehr
+sei als ein Schritt, der letzte für den Augenblick, in einem regressus
+ad infinitum. Doch es ist nichts billiger und für das Ganze unfruchtbarer, so warnt der Wissenschaftler, als in Gedanken mit
+solchen Möglichkeiten zu spielen, bevor neue Entdeckungen
+einen vor eine konkrete Situation stellen, die eine weitere Tieferlegung der Grundlagen erzwingt.
+
+Die physikalischen Erscheinungen sind in dem kontinuierlichen umfassenden Medium Raum und Zeit verstreut; dieser
+Aspekt beherrschte zu einem beträchtlichen Grade die erkenntnistheoretischen Gedanken über die Naturwissenschaft, die der
+Hauptteil dieses Buches im Jahre 1926 zu sammeln versucht hat.
+Das war historisch gerechtfertigt, und die Vollendung der zu
+jener Zeit noch sehr neuen allgemeinen Relativitätstheorie verlieh
+diesem Gesichtspunkt zusätzlichen Nachdruck. In den letzten
+zwei Jahrzehnten haben jedoch diskontinuierliche und kombinatorische Strukturen, die den Naturerscheinungen zugrunde
+liegen, steigende Bedeutung erlangt. Hier scheint eine tiefere
+Schicht ans Licht zu kommen, für deren Beschreibung unsere
+gewöhnliche Sprache kläglich unzulänglich ist. Die vorhergehenden Anhänge legen für diesen veränderten Ausblick Zeugnis
+ab. Wir konnten jedoch nicht viel mehr tun als weiteres Material
+hierzu sammeln; die philosophische Durchdringung bleibt weithin
+eine Aufgabe für die Zukunft.
+
+LITERATUR
+
+M. Born, Chemische Bindung und Quantenmechanik. Ergebnisse der
+exakten Naturwissenschaften, Band 10, Berlin 1931.
+
+Linus Pauling, The Nature of the Chemical Bond. 2. Aufl., Cornell
+University Press 1945.
+
+W. G. Palmer, Valency, Classical and Modern. Cambridge 1944.

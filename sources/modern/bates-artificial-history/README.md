@@ -17,7 +17,7 @@ it had already been tested.
 
 Reserve note on disk:
 
-- `sources/modern/incoming/2026-04-19-bates-artificial-history-under-pressure.md`
+- `sources/modern/incoming/under-pressure/2026-04-19-bates-artificial-history-under-pressure.md`
   records why the source is being localized, which chapter clusters are under
   pressure, and what this scaffold still does not license. It now also records
   bounded reads of chapters `17-18` and `20-21 / 25-27`: Bates is more useful

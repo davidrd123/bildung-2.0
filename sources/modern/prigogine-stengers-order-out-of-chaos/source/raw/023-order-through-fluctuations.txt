@@ -1,0 +1,277 @@
+CHAPTER VI
+
+
+
+ORDER THROUGH
+
+FLUCTUATIONS
+
+
+Fluctuations and Chemistry
+
+
+In our Introduction we noted that a reconceptualization of the physical sciences is occurring today. They are moving from deterministic, reversible processes to stochastic and irreversible ones. This change of perspective affects chemistry in a striking way. As we have seen in Chapter V, chemical processes, in contrast to the trajectories of classical dynamics, correspond to irreversible processes. Chemical reactions lead to entropy production. On the other hand, classical chemistry continues to rely on a deterministic description of chemical evolution. As we have seen in Chapter V, it is necessary to produce differential equations involving the concentration of the various chemical components. Once we know these concentrations at some initial time (as well as at appropriate boundary conditions when space-dependent phenomena such as diffusion are involved), we may calculate what the concentration will be at a later time. It is interesting to note that the deterministic view of chemistry fails when far-from-equilibrium processes are involved.
+
+We have repeatedly emphasized the role of fluctuations. Let us summarize here some of the more striking features. Whenever we reach a bifurcation point, deterministic description breaks down. The type of fluctuation present in the system will lead to the choice of the branch it will follow. Crossing a bifurcation is a stochastic process, such as the tossing of a coin. Chemical chaos provides another example (see Chapter V). Here we can no longer follow an individual chemical trajectory. We cannot predict the details of temporal evolution. Once again, only a statistical description is possible. The existence of an instability may be viewed as the result of a fluctuation that is first localized in a small part of the system and then spreads and leads to a new macroscopic state.
+
+This situation alters the traditional view of the relation between the microscopic level as described by molecules or atoms and the macroscopic level described in terms of global variables such as concentration. In many situations fluctuations correspond only to small corrections. As an example, let us take a gas composed of N molecules enclosed in a vessel of volume V. Let us divide this volume into two equal parts. What is the number of particles X in one of these two parts? Here the variable X is a “random” variable, and we would expect it to have a value in the neighborhood of N/2.
+
+A basic theorem in probability theory, the law of large numbers, provides an estimate of the “error” due to fluctuations. In essence, it states that if we measure X we have to expect a value of the order N/2 ± . If N is large, the difference introduced by fluctuations may also be large (if N = 1024, = 1012); however, the relative error introduced by fluctuations is of the order of ()/(N/2) or 1/ and thus tends toward zero for a sufficiently large value of N. As soon as the system becomes large enough, the law of large numbers enables us to make a clear distinction between mean values and fluctuations, and the latter may be neglected.
+
+However, in nonequilibrium processes we may find just the opposite situation. Fluctuations determine the global outcome. We could say that instead of being corrections in the average values, fluctuations now modify those averages. This is a new situation. For this reason we would like to introduce a neologism and call situations resulting from fluctuation “order through fluctuation.” Before giving examples, let us make some general remarks to illustrate the conceptual novelty of this situation.
+
+Readers may be familiar with the Heisenberg uncertainty relations, which express in a striking way the probabilistic aspects of quantum theory. Since we can no longer simultaneously measure position and coordinates in quantum theory, classical determinism is breaking down. This was believed to be of no importance for the description of macroscopic objects such as living systems. But the role of fluctuations in nonequilibrium systems shows that this is not the case. Randomness remains essential on the macroscopic level as well. It is interesting to note another analogy with quantum theory, which assigns a wave behavior to all elementary particles. As we have seen, chemical systems far from equilibrium may also lead to coherent wave behavior: these are the chemical clocks discussed in Chapter V. Once again, some of the properties quantum mechanics discovered on the microscopic level now appear on the macroscopic level.
+
+Chemistry is actively involved in the reconceptualization of science.1 We are probably only at the beginning of new directions of research. It may well be, as some recent calculations suggest, that the idea of reaction rate has to be replaced in some cases by a statistical theory involving a distribution of reaction probabilities.2
+
+
+
+
+
+Fluctuations and Correlations
+
+
+Let us go back to the types of chemical reaction discussed in Chapter V. To take a specific example, consider a chain of reactions such as . The kinetic equations in Chapter V refer to the average concentrations. To emphasize this we shall now write <X> instead of X. We can then ask what is the probability at a given time of finding a number X for the concentration of this component. Obviously this probability will fluctuate, as do the number of collisions among the various molecules involved. It is easy to write an equation that describes the change in this probability distribution P(X,t) as a result of processes that produce molecule X and of processes that destroy that molecule. We may perform the calculation for equilibrium systems or for steady-state systems. Let us first mention the results obtained for equilibrium systems.
+
+At equilibrium we virtually recover a classical probabilistic distribution, the Poisson distribution, which is described in every textbook on probabilities, since it is valid in a variety of situations, such as the distribution of telephone calls, waiting times in restaurants, or the fluctuation of the concentration of particles in a gas or a liquid. The mathematical form of this distribution is of no importance here. We merely want to emphasize two of its aspects. First, it leads to the law of large numbers as formulated in the first section of this chapter. Thus fluctuations indeed become negligible in a large system. Moreover, this law enables us to calculate the correlation between the number of particles X at two different points in space separated by some distance r. The calculation demonstrates that at equilibrium there is no such correlation. The probability of finding two molecules X and X′ at two different points r and r′ is the product of finding X at r and X′ at r′ (we consider distances that are large in respect to the range of intermolecular forces).
+
+One of the most unexpected results of recent research is that this situation changes drastically when we move to nonequilibrium situations. First, when we come close to bifurcation points the fluctuations become abnormally high and the law of large numbers is violated. This is to be expected, since the system may then “choose” among various regimes. Fluctuations can even reach the same order of magnitude as the mean macroscopic values. Then the distinction between fluctuations and mean values breaks down. Moreover, in the case of a nonlinear type of chemical reaction discussed in Chapter V, long-range correlations appear. Particles separated by macroscopic distances become linked. Local events have repercussions throughout the whole system. It is interesting to note3 that such long-range correlations appear at the precise point of transition from equilibrium to nonequilibrium. From this point of view the transition resembles a phase transition. However, the amplitudes of these long-range correlations are at first small but increase with distance from equilibrium and may become infinite at the bifurcation points.
+
+We believe that this type of behavior is quite interesting, since it gives a molecular basis to the problem of communication mentioned in our discussion of the chemical clock. Even before the macroscopic bifurcation, the system is organized through these long-range correlations. We come back to one of the main ideas of this book: nonequilibrium as a source of order. Here the situation is especially clear. At equilibrium molecules behave as essentially independent entities; they ignore one another. We would like to call them “hypnons,” “sleep walkers.” Though each of them may be as complex as we like, they ignore one another. However, nonequilibrium wakes them up and introduces a coherence quite foreign to equilibrium. The microscopic theory of irreversible processes that we shall develop in Chapter IX will present a similar picture of matter.
+
+Matter’s activity is related to the nonequilibrium conditions that it itself may generate. Just as in macroscopic behavior, the laws of fluctuations and correlations are universal at equilibrium (when we find the Poisson type of distribution); they become highly specific depending on the type of nonlinearity involved when we cross the boundary between equilibrium and nonequilibrium.
+
+
+
+
+
+The Amplification of Fluctuations
+
+
+Let us first take two examples wherein the growth of a fluctuation preceding the formation of a new structure can be followed in detail. The first is the aggregation of slime molds, which when threatened with starvation coalesce into a single supracellular mass. We have already mentioned this in Chapter V. Another illustration of the role of fluctuations is the first stage in the construction of a termites’ nest. This was first described by Grassé, and Deneubourg has studied it from the standpoint that interests us here.4
+
+Self-Aggregation Process in an Insect Population
+
+Larvae of a coleoptera (Dendroctonus micans [Scol.]). are initially distributed at random between two horizontal sheets of glass, 2 mm apart. The borders are open and the surface is equal to 400 cm2.
+
+The aggregation process appears to result from the competition between two factors: the random moves of the larvae, and their reaction to a chemical product, a “pheromon” they synthetize from terpenes contained in the tree on which they feed and that each of them emits at a rate depending on its nutrition state. The pheromon diffuses in space, and the larvae move in the direction of its concentration gradient. Such a reaction provides an auto-catalytic mechanism since, as they gather in a cluster, the larvae contribute to enhance the attractiveness of the corresponding region. The higher the local density of larvae in this region, the stronger the gradient and the more intense the tendency to move toward the crowded point.
+
+The experiment shows that the density of the larvae population determines not only the rate of the aggregation process but its effectiveness as well—that is, the number of larvae that will finally be part of the cluster. At high density (Figure A) a cluster appears and rapidly grows at the center of the experimental setup. At very low density (Figure B), no stable cluster appears.
+
+
+
+
+
+Figure A. Self-aggregation at high density. The times are 0 minutes and 21 minutes.
+
+
+
+
+
+Figure B. Self-aggregation at low density. The times are 0 minutes and 22 minutes.
+
+
+
+Moreover, other experiments have explored the possibility for a cluster to develop starting from a “nucleus” artificially created in a peripheral region of the system. Different solutions appear depending on the number of larvae in this initial nucleus.
+
+If this number is small compared with the total number of larvae, the cluster fails to develop (Figure D). If it is large, the cluster grows (Figure E). For intermediate values of the initial nucleus, new types of structure may develop: Two, three or four other clusters appear and coexist, with a time of life at least greater than the time of observation (Figures F and G).
+
+
+
+Figure C. Percent of the total number of larvae in the central cluster in function of time at three different densities.
+
+
+
+
+
+Figure D. Fall of initial clusters of 10 larvae. Total population, 80 larvae. N: number of larvae in clusters.
+
+
+
+
+
+Figure E. Growth of initial clusters of 20 and 30 larvae. Total population, 80 larvae.
+
+
+
+
+
+Figure F. Multicluster solutions. Initial value of the cluster, 15 larvae. Total population, 80 larvae.
+
+
+
+
+
+Figure G. Growth of a cluster (I) introduced peripherally, which induce the formation of a second little cluster (II).
+
+No such multicluster structure was ever observed in experiments with homogeneous initial conditions. It would seem they correspond, in a bifurcation diagram, to stable states compatible with the value of the parameters characterizing the system but that cannot be attained by this system starting from homogeneous conditions. The nucleus would play the part of a finite perturbation necessary to excite the system and deport it in a region of the bifurcation diagram corresponding to such families of multicluster solutions.
+
+
+
+The construction of a termites’ nest is one of those coherent activities that have led some scientists to speculate about a “collective mind” in insect communities. But curiously, it appears that in fact the termites need very little information to participate in the construction of such a huge and complex edifice as the nest. The first stage in this activity, the construction of the base, has been shown by Grassé to be the result of what appears to be disordered behavior among termites. At this stage, they transport and drop lumps of earth in a random fashion, but in doing so they impregnate the lumps with a hormone that attracts other termites. The situation could thus be represented as follows: the initial “fluctuation” would be the slightly larger concentration of lumps of earth, which inevitably occurs at one time or another at some point in the area. The amplification of this event is produced by the increased density of termites in the region, attracted by the slightly higher hormone concentration. As termites become more numerous in a region, the probability of their dropping lumps of earth there increases, leading in turn to a still higher concentration of the hormone. In this way “pillars” are formed, separated by a distance related to the range over which the hormone spreads. Similar examples have recently been described.
+
+Although Boltzmann’s order principle enables us to describe chemical or biological processes in which differences are leveled out and initial conditions forgotten, it cannot explain situations such as these, where a few “decisions” in an unstable situation may channel a system formed by a large number of interactive entities toward a global structure.
+
+When a new structure results from a finite perturbation, the fluctuation that leads from one regime to the other cannot possibly overrun the initial state in a single move. It must first establish itself in a limited region and then invade the whole space: there is a nucleation mechanism. Depending on whether the size of the initial fluctuating region lies below or above some critical value (in the case of chemical dissipative structures, this threshold depends in particular on the kinetic constants and diffusion coefficients), the fluctuation either regresses or else spreads to the whole system. We are familiar with nucleation phenomena in the classical theory of phase change: in a gas, for example, condensation droplets incessantly form and evaporate. That temperature and pressure reach a point where the liquid state becomes stable means that a critical droplet size can be defined (which is smaller the lower the temperature and the higher the pressure). If the size of a droplet exceeds this “nucleation threshold,” the gas almost instantaneously transforms into a liquid.
+
+Moreover, theoretical studies and numerical simulations show that the critical nucleus size increases with the efficacy of the diffusion mechanisms that link all the regions of systems. In other words, the faster communication takes place within a system, the greater the percentage of unsuccessful fluctuations and thus the more stable the system. This aspect of the critical-size problem means that in such situations the “outside world,” the environment of the fluctuating region, always tends to damp fluctuations. These will be destroyed or amplified according to the effectiveness of the communication between the fluctuating region and the outside world. The critical size is thus determined by the competition between the system’s “integrative power” and the chemical mechanisms amplifying the fluctuation.
+
+
+
+Figure 19. Nucleation of a liquid droplet in a supersaturated vapor. (a) droplet smaller than the critical size; (b) droplet larger than the critical size. The existence of the threshold has been experimentally verified for dissipative structures.
+
+
+
+This model applies to the results obtained recently in in vitro experimental studies of the onset of cancer tumors.5 An individual tumor cell is seen as a “fluctuation,” uncontrollably and permanently able to appear and to develop through replication. It is then confronted with the population of cytotoxic cells that either succeeds in destroying it or fails. Following the values of the different parameters characteristic of the replication and destruction processes, we can predict a regression or an amplification of the tumor. This kind of kinetic study has led to the recognition of unexpected features in the interaction between cytotoxic cells and the tumor. It seems that cytotoxic cells can confuse dead tumor cells with living ones. As a result, the destruction of the cancer cells becomes increasingly difficult.
+
+The question of the limits of complexity has often been raised. Indeed, the more complex a system is, the more numerous are the types of fluctuations that threaten its stability. How then, it has been asked, can systems as complex as ecological or human organizations possibly exist? How do they manage to avoid permanent chaos? The stabilizing effect of communication, of diffusion processes, could be a partial answer to these questions. In complex systems, where species and individuals interact in many different ways, diffusion and communication among various parts of the system are likely to be efficient. There is competition between stabilization through communication and instability through fluctuations. The outcome of that competition determines the threshold of stability.
+
+
+
+
+
+Structural Stability
+
+
+When can we begin to speak about “evolution” in its proper sense? As we have seen, dissipative structures require far-from-equilibrium conditions. Yet the reaction diffusion equations contain parameters that can be shifted back to near-equilibrium conditions. The system can explore the bifurcation diagram in both directions. Similarly, a liquid can shift from laminar flow to turbulence and back. There is no definite evolutionary pattern involved.
+
+The situation for models involving the size of the system as a bifurcation parameter is quite different. Here, growth occurring irreversibly in time produces an irreversible evolution. But this remains a special case, even if it can be relevant for morphogenetic development.
+
+Be it in biological, ecological, or social evolution, we cannot take as given either a definite set of interacting units, or a definite set of transformations of these units. The definition of the system is thus liable to be modified by its evolution. The simplest example of this kind of evolution is associated with the concept of structural stability. It concerns the reaction of a given system to the introduction of new units able to multiply by taking part in the system’s processes.
+
+The problem of the stability of a system vis-à-vis this kind of change may be formulated as follows: the new constituents, introduced in small quantities, lead to a new set of reactions among the system’s components. This new set of reactions then enters into competition with the system’s previous mode of functioning. If the system is “structurally stable” as far as this intrusion is concerned, the new mode of functioning will be unable to establish itself and the “innovators” will not survive. If, however, the structural fluctuation successfully imposes itself—if, for example, the kinetics whereby the “innovators” multiply is fast enough for the latter to invade the system instead of being destroyed—the whole system will adopt a new mode of functioning: its activity will be governed by a new “syntax.”6
+
+The simplest example of this situation is a population of macromolecules reproduced by polymerization inside a system being fed with the monomers A and B. Let us assume the polymerization process to be autocatalytic—that is, an already synthesized polymer is used as a model to form a chain having the same sequence. This kind of synthesis is much faster than a synthesis in which there is no model to copy. Each type of polymer, characterized by a particular sequence of A and B, can be described by a set of parameters measuring the speed of the synthesis of the copy it catalyzes, the accuracy of the copying process, and the mean life of the macromolecule itself. It may be shown that, under certain conditions, a single type of polymer having a sequence, shall we say, ABABABA … dominates the population, the other polymers being reduced to mere “fluctuations” with respect to the first. The problem of structural stability arises each time that, as a result of a copying “error,” a new type of polymer characterized by a hitherto unknown sequence and by a new set of parameters appears in the system and begins to multiply, competing with the dominant species for the available A and B monomers. Here we encounter an elementary case of the classic Darwinian idea of the “survival of the fittest.”
+
+Such ideas form the basis for the model of prebiotic evolution developed by Eigen and his coworkers. The details of Eigen’s argument are easily accessible elsewhere.7 Let us briefly state that it seems to show that there is only one type of system that can resist the “errors” that autocatalytic populations continually make—a polymer system structurally stable for any possible “mutant polymer.” This system is composed of two sets of polymer molecules. The molecules of the first set are of the “nucleic acid” type; each molecule is capable of reproducing itself and acts as a catalyst in the synthesis of a molecule of the second set, which is of the proteic type: each molecule of this second set catalyzes the self-reproduction of a molecule of the first set. This transcatalytic association between molecules of the two sets may turn into a cycle (each “nucleic acid” reproduces itself with the help of a “protein”). It is then capable of stable survival, sheltered from the continual emergence of new polymers with higher reproductive efficiency: indeed, nothing can intrude into the self-replicating cycle formed by “proteins” and “nucleic acids.” A new kind of evolution may thus begin to grow on this stable foundation, heralding the genetic code.
+
+Eigen’s approach is certainly of great interest. Darwinian selection for faithful self-reproduction is certainly important in an environment with a limited capacity. But we tend to believe that this is not the only aspect involved in prebiotic evolution. The “far-from-equilibrium” conditions related to critical amounts of flow of energy and matter are also important. It seems reasonable to assume that some of the first stages moving toward life were associated with the formation of mechanisms capable of absorbing and transforming chemical energy, so as to push the system into “far-from-equilibrium” conditions. At this stage life, or “prelife,” probably was so diluted that Darwinian selection did not play the essential role it did in later stages.
+
+Much of this book has centered around the relation between the microscopic and the macroscopic. One of the most important problems in evolutionary theory is the eventual feedback between macroscopic structures and microscopic events: macroscopic structures emerging from microscopic events would in turn lead to a modification of the microscopic mechanisms. Curiously, at present, the better understood cases concern social situations. When we build a road or a bridge, we can predict how this will affect the behavior of the population, and this will in turn determine other modifications of the modes of communication in the region. Such interrelated processes generate very complex situations, the understanding of which is needed before any kind of modelization. This is why what we will now describe are only very simple cases.
+
+
+
+
+
+Logistic Evolution
+
+
+In social cases, the problem of structural stability has a large number of applications. But it must be emphasized that such applications imply a drastic simplification of a situation defined simply in terms of competition between self-replicating processes in an environment where only a limited amount of the needed resources exists.
+
+In ecology the classic equation for such a problem is called the “logistic equation.” This equation describes the evolution of a population containing N individuals, taking into account the birthrate, the deathrate, and the amount of resources available to the population. The logistic equation can be written dN/dt = rN(K − N) − mN, where r and m are characteristic birth and death constants and K the “carrying capacity” of the environment. Whatever the initial value of N, as time goes on it will reach the steady-state value N = K − m/r determined by the differences of the carrying capacity and the ratio of death and birth constants. When this value is reached, the environment is saturated, and at each instant as many individuals die as are born.
+
+
+
+Figure 20. Evolution of a population N as a function of time t according to the logistic curve. The stationary state N = 0 is unstable while the stationary state N = K − m/r is stable with respect to fluctuations of N.
+
+
+
+The apparent simplicity of the logistic equation conceals to some extent the complexity of the mechanisms involved. We have already mentioned the effect of external noise, for example. Here it has an especially simple meaning. Obviously, if only because of climatic fluctuations, the coefficients K, m, and r cannot be taken as constant. We know that such fluctuations can completely upset the ecological equilibrium and even drive the population to extinction. Of course, as a result, new processes, such as the storage of food and the formation of new colonies, will begin and eventually evolve so that some effects of external fluctuation may be avoided.
+
+But there is more. Instead of writing the logistic equation as continuous in time, let us compare the population at fixed time intervals (for example, separated by a year). This “discrete” logistic equation can be written in the form Nt+1 = Nt(1 + r [1 − Nt/K]), where Nt and Nt+1 are the populations separated by a one-year interval (we neglect here the death term). The remarkable feature, noted by R. May,8 is that such equations, in spite of their simplicity, admit a bewildering number of solutions. For values of the parameter 0≤r≤2, we have, as in the continuous case, a uniform approach to equilibrium. For values of r lower than 2.444, a limit cycle sets in: we now have a periodic behavior with a two-year period. This is followed by four-, eight-, etc., year cycles, until the behavior can only be described as chaotic (if r is larger than 2.57). Here we have a transition to chaos as described in Chapter V. Does this chaos arise in nature? Recent studies9 seem to indicate that the parameters characterizing natural populations keep them from the chaotic region. Why is this so? Here we have one of the very interesting problems created by the confluence of evolutionary problems with the mathematics produced by computer simulation.
+
+Up to now we have taken a static point of view. Let us now move to mechanisms, whereby the parameters K, r, and m may vary during biological or ecological evolution.
+
+We have to expect that during evolution the values of the ecological parameters K, r, and m will vary (as well as many other parameters and variables, whether they are quantifiable or not). Living societies continually introduce new ways of explotting existing resources or of discovering new ones (that is, K increases) and continually discover new ways of extending their lives or of multiplying more quickly. Each ecological equilibrium defined by the logistic equation is thus only temporary, and a logistically defined niche will be occupied successively by a series of species, each capable of ousting the preceding one when its “aptitude” for exploiting the niche, as measured by the quantity K − m/r, becomes greater. (See Figure 21.) Thus the logistic equation leads to the definition of a very simple situation where we can give a quantitative formulation of the Darwinian idea of the “survival of the fittest.” The “fittest” is the species for which at a given time the quantity K − m/r is the largest.
+
+
+
+Figure 21. Evolution of total population X as function of time; the population is made up by species X1, X2 and X3, which appear successively and are characterized by increasing values of K − m/r (see text).
+
+
+
+As restricted as the problem described by the logistic equation is, it nonetheless leads to some marvelous examples of nature’s inventiveness.
+
+Take the example of caterpillars, who must remain undetected, since the slowness of their movement makes escape impossible.
+
+The evolved strategies of using poisons and irritating hairs and spines, as well as intimidating displays, are highly effective in repelling birds and other potential predators. But none of these strategies is effective against all predators at all times, particularly if a predator is hungry enough. The ideal strategy is to remain totally undetected. Some caterpillars approach this ideal, and the variety and sophistication of the strategies used by the hundreds of lepidopteran species to remain undetected bring to mind the words of distinguished nineteenth-century naturalist Louis Agassiz: “The possibilities of existence run so deeply into the extravagant that there is scarcely any conception too extraordinary for Nature to realize.”10
+
+We cannot resist giving an example reported by Milton Love.11 The sheep liver trematode has to pass from an ant to a sheep, where it will finally reproduce itself. The chances of sheep swallowing an infected ant are very small, but the ant behaves in a remarkable way: it starts to maximize the probability of its encounter with a sheep. The trematode has truly “body snatched” its host. It has burrowed into the ant’s brain, compelling its victim to behave in a suicidal way: the possessed ant, instead of staying on the ground, climbs to the tip of a blade of grass and there, immobile, waits for a sheep. This is indeed an incredibly “clever” solution to the parasites problem. How it was selected remains a puzzle.
+
+Other situations in biological evolution may be investigated using models similar to the logistic equation. For instance, it is possible to calculate the conditions of interspecies competition under which it may be advantageous for a fraction of the population to specialize in warlike and nonproductive activity (for example, the “soldiers” among the social insects). We can also determine the kind of environment in which a species that has become specialized, that has restricted the range of its food resources, will survive more easily than a nonspecialized species that consumes a wider range of resources.12 But here we are approaching some very different problems, which concern the organization of internally differentiated populations. Clear distinctions are absolutely necessary if we are to avoid confusion. In populations where individuals are not interchangeable and where each, with its own memory, character, and experience, is called upon to play a singular role, the relevance of the logistic equation and, more generally, of any simple Darwinian reasoning becomes quite relative. We shall return to this problem.
+
+It is interesting to note that the type of curve represented in Figure 21 showing the succession of growths and peaks defined by a given logistic equation’s family with increasing K − m/r has also been used to describe the multiplication of certain technical procedures or products. Here too, the discovery or introduction of a new technique or product breaks some kind of social, technological, or economic equilibrium. This equilibrium would correspond to the maximum reached by the growth curve of the techniques or products with which the innovation is going to have to compete and that play a similar role in the situation described by the equation.13 Thus, to choose but one example, not only did the spread of the steamship lead to the disappearance of most sailing ships, but, by reducing the cost of transportation and increasing its speed, it caused an increase in the demand for sea transport (“K”) and consequently an increase in the population of ships. We are obviously representing here an extremely simple situation, supposedly governed by purely economic logic. Indeed, in this case innovation seems merely to satisfy, albeit in a different way, a preexisting need that remains unchanged. However, in ecology as in human societies, many innovations are successful without such a preexisting “niche.” Such innovations transform the environment in which they appear, and as they spread, they create the conditions necessary for their own multiplication, their “niche.” In social situations, in particular, the creation of a “demand,” and even of a “need” for this demand to fulfill, often appears as correlated with the production of the goods or techniques that satisfy the demand.
+
+
+
+
+
+Evolutionary Feedback
+
+
+A first step toward accounting for this dimension of the evolutionary process can be achieved by making the “carrying capacity” of a system a function of the way it is exploited instead of taking it as given.
+
+In this way some supplementary dimensions of economic activities, and more particularly the “multiplying effects,” can be represented. Thus we can describe the self-accelerating properties of systems and the spatial differentiation between different levels of activity.
+
+Geographers have already constructed a model correlating these processes, the Christaller model, defining the optimal spatial distribution of centers of economic activity. Important centers would be at the intersection of an hexagonal network, each being surrounded by a ring of towns of the next smallest size, each being, etc. … Obviously, in actual cases, such a regular hierarchical distribution is very infrequent: historical, political, and geographical factors abound, disrupting the spatial symmetry. But there is more. Even if all the important sources of asymmetrical development were excluded and we started from a homogeneous economic and geographical space, the modeling of the genesis of a distribution such as defined by Christaller establishes that the kind of static optimalization he describes constitutes a possible but quite unlikely result of the process.
+
+The model in question14 stages only the minimal set of variables implied by a calculation such as Christaller. A set of equations extending the logistic equations is constructed, starting from the basic supposition that populations tend to migrate as a function of local levels of economic activity, which thus define a kind of local “carrying capacity,” here reduced to an “employment” capacity. But the local population is also a potential consumer for locally produced goods. We have, in fact, a double positive feedback, called the “urban multiplier,” for a local development: both the local population and the economic infrastructure produced by the already attained level of activity accelerate the increase of this activity. But each local level of activity is also determined by competition with similar centers of activity located elsewhere. The sale of produced goods or services depends on the cost of transporting them to consumers and on the size of the “enterprise.” The expansion of each such enterprise depends on a demand that this expansion itself helps to create and for which it competes. Thus the respective growth of population and manufacturing or service activities is linked by strong feedback and nonlinearities.
+
+The model starts with a hypothetical initial condition, where “level 1” activity (rural) exists at the different points; it then permits us to follow successive launchings of activities corresponding to “superior” levels in Christaller’s hierarchy—that is, implying exportation on a greater range. Even if the initial state is quite homogeneous, the model shows that the mere play of chance factors—factors uncontrolled by the model, such as the place and time where the different enterprises start—is sufficient to produce symmetry breakings: the appearance of highly concentrated zones of activity while others suffer a reduction in economic activity and are depopulated. The different computer simulations show growth and decay, capture and domination, periods of opportunity for alternative developments followed by solidification of the existing domination structures.
+
+
+
+
+
+Figure 22. A possible history of “urbanization.” have only function 1; have functions 1 and 2; have functions 1, 2 and 3. are the largest centers, with functions 1, 2, 3, and 4. At t = 0 (not represented), all points have a “population” of 67 units. At C, the largest center is going through a maximum (152 population units); this is followed by an “urban sprawl,” with creation of satellite cities; this also occurs around the second main center.
+
+
+
+Whereas Christaller’s symmetrical distribution ignores history, this scenario takes it into account, at least in a very minimal sense, as an interplay between “laws,” in this case of a purely economic nature, and the “chance” governing the sequence of launchings.
+
+
+
+
+
+Modelizations of Complexity
+
+
+In spite of its simplicity, our model succeeds in showing some properties of the evolution of complex systems, and in particular, the difficulty of “governing” a development determined by multiple interacting elements. Each individual action or each local intervention has a collective aspect that can result in quite unanticipated global changes. As Waddington emphasized, at present we have very little understanding of how a complex system is likely to respond to a given change. Often this response runs counter to our intuition. The term “counterintuitive” was introduced at MIT to express our frustration: “The damn thing just does not do what it should do!” To take the classic example cited by Waddington, a program of slum clearance results in a situation worse than before. New buildings attract a larger number of people into the area, but if there are not enough jobs for them, they remain poor, and their dwellings become even more overcrowded.15 We are trained to think in terms of linear causality, but we need new “tools of thought”: one of the greatest benefits of models is precisely to help us discover these tools and learn how to use them.
+
+As we have already emphasized, logistic equations are most relevant when the crucial dimension is the growth of a population, be it of animals, activities, or habits. What is presupposed is that each member of a given population can be taken as the equivalent of any of the others. But this general equivalence can itself be seen not as a simple general fact but as an approximation, the validity of which depends on the constraints and pressures to which this population was submitted and on the strategy it used to cope with them.
+
+Take, for example, the distinction ecologists have proposed between K and r strategies. K and r refer to the parameters in logistic equations. Though this distinction is only relative, it is especially clear when it characterizes the divergence resulting from a systematic interaction between two populations, particularly the prey-predator interaction. In this view, the typical evolution for a prey population will be the increase in the reproduction rate r. The predator will evolve toward more effective ways of capturing its prey—that is, toward an amelioration of K. But this amelioration, defined in a logistic frame, is liable to have consequences that go beyond the situations defined by logistic equations.
+
+As Stephen J. Gould remarked,16 a K strategy implies individuals becoming more and more able to learn from experience and to store memories—that is, individuals more complex with a longer period of maturation and apprenticeship. This in turn means individuals both more “valuable”—representing a larger biological investment—and characterized by a longer period of vulnerability. The development of “social” and “family” ties thus appears as a logical counterpart of the K strategy. From that point on, other factors, besides the mere number of individuals in the population, become more and more relevant and the logistic equation measuring the success by the number of individuals becomes misleading. We have here a particular example of what makes modelization so risky. In complex systems, both the definition of entities and of the interactions among them can be modified by evolution. Not only each state of a system but also the very definition of the system as modelized is generally unstable, or at least metastable.
+
+We come to problems where methodology cannot be separated from the question of the nature of the object investigated. We cannot ask the same questions about a population of flies that reproduce and die by millions without apparently learning from or enlarging their experience and about a population of primates where each individual is an entanglement of its own experiences and the traditions of the populations in which he lives.
+
+We also find that, within anthropology itself, basic choices must be made between various approaches to collective phenomena. It is well known, for example, that structural anthropology privileges those aspects of society where the tools of logic and finite mathematics can be used, aspects such as the elementary structures of kinship or the analysis of myths, whose transformations are often compared to crystalline growth. Discrete elements are counted and combined. This contrasts with approaches that analyze evolution in terms of processes involving large, partially chaotic populations. We are dealing with two different outlooks and two types of models: Lévi-Strauss defines them respectively as “mechanical” and “statistical.” In the mechanical model “the elements are of the same scale as the phenomena” and individual behavior is based on prescriptions referring to the structural organization of society. The anthropologist makes the logic of this behavior explicit. The sociologist, on the other hand, works with statistical models for large populations and defines averages and thresholds.17
+
+A society defined entirely in terms of a functional model would correspond to the Aristotelian idea of natural hierarchy and order. Each official would perform the duties for which he has been appointed. These duties would translate at each level the different aspects of the organization of the society as a whole. The king gives orders to the architect, the architect to the contractor, the contractor to the workers. Everywhere a mastermind is at work. On the contrary, termites and other social insects seem to approach the “statistical” model. As we have seen, there seems to be no mastermind behind the construction of the termites’ nest, when interactions among individuals produce certain types of collective behavior in some\ circumstances, but none of these interactions refer to any global task, being all purely local. Such a description necessarily implies averages and reintroduces the question of stability and bifurcations.
+
+Which events will regress, and which are likely to affect the whole system? What are the situations of choice, and what are the regimes of stability? Since size or the system’s density may play the role of a bifurcation parameter, how may purely quantitative growth lead to qualitatively new choices? Questions such as these call for an ambitious program indeed. As with the r and K strategies, they lead us to connect the choice of a “good” model for social behavior and history. How does the evolution of a population lead it to become more “mechanical”? This question seems parallel to questions we have already met in biology. How, for example, does the selection of the genetic information governing the rates and regulations of metabolic reactions favor certain paths to such an extent that development seems to be purposive or appear as the translation of a “message”?
+
+We believe that models inspired by the concept of “order through fluctuations” will help us with these questions and even permit us in some circumstances to give a more precise formulation to the complex interplay between individual and collective aspects of behavior. From the physicist’s point of view, this involves a distinction between states of the system in which all individual initiative is doomed to insignificance on the one hand, and on the other, bifurcation regions in which an individual, an idea, or a new behavior can upset the global state. Even in those regions, amplification obviously does not occur with just any individual, idea, or behavior, but only with those that are “dangerous”—that is, those that can exploit to their advantage the nonlinear relations guaranteeing the stability of the preceding regime. Thus we are led to conclude that the same nonlinearities may produce an order out of the chaos of elementary processes and still, under different circumstances, be responsible for the destruction of this same order, eventually producing a new coherence beyond another bifurcation.
+
+“Order through fluctuations” models introduce an unstable world where small causes can have large effects, but this world is not arbitrary. On the contrary, the reasons for the amplification of a small event are a legitimate matter for rational inquiry. Fluctuations do not cause the transformation of a system’s activity. Obviously, to use an image inspired by Maxwell, the match is responsible for the forest fire, but reference to a match does not suffice to understand the fire. Moreover, the fact that a fluctuation evades control does not mean that we cannot locate the reasons for the instability its amplification causes.
+
+
+
+
+
+An Open World
+
+
+In view of the complexity of the questions raised here, we can hardly avoid stating that the way in which biological and social evolution has traditionally been interpreted represents a particularly unfortunate use of the concepts and methods borrowed from physics18—unfortunate because the area of physics where these concepts and methods are valid was very restricted, and thus the analogies between them and social or economic phenomena are completely unjustified.
+
+The foremost example of this is the paradigm of optimization. It is obvious that the management of human society as well as the action of selective pressures tends to optimize some aspects of behaviors or modes of connection, but to consider optimization as the key to understanding how populations and individuals survive is to risk confusing causes with effects.
+
+Optimization models thus ignore both the possibility of radical transformations—that is, transformations that change the definition of a problem and thus the kind of solution sought—and the inertial constraints that may eventually force a system into a disastrous way of functioning. Like doctrines such as Adam Smith’s invisible hand or other definitions of progress in terms of maximization or minimization criteria, this gives a reassuring representation of nature as an all-powerful and rational calculator, and of a coherent history characterized by global progress. To restore both inertia and the possibility of unanticipated events—that is, restore the open character of history—we must accept its fundamental uncertainty. Here we could use as a symbol the apparently accidental character of the great cretaceous extinction that cleared the path for the development of mammals, a small group of ratlike creatures.19
+
+This has been a general presentation, a kind of “bird’s-eye view,” and thus has omitted many topics of great interest: flames, plasmas, and lasers, for example, present nonequilibrium instabilities of great theoretical and practical interest. Everywhere we look, we find a nature that is rich in diversity and innovations. The conceptual evolution we have described is itself embedded in a wider history, that of the progressive rediscovery of time.
+
+We have seen new aspects of time being progressively incorporated into physics, while the ambitions to omniscience inherent in classical science were progressively rejected. In this chapter we have moved from physics through biology and ecology to human society, but we could have proceeded in the inverse order. Indeed, history began by concentrating mainly on human societies, after which attention was given to the temporal dimensions of life and of geology. The incorporation of time into physics thus appears as the last stage of a progressive reinsertion of history into the natural and social sciences.
+
+Curiously, at every stage of the process, a decisive feature of this “historicization” has been the discovery of some temporal heterogeneity. Since the Renaissance, Western society has come into contact with different populations that were seen as corresponding to different stages of development; nineteenth-century biology and geology learned to discover and classify fossils and to recognize in landscapes the memories of a past with which we coexist; finally, twentieth-century physics has also discovered a kind of fossil, residual black-body radiation, which tells us about the beginnings of the universe. Today we know that we live in a world where different interlocked times and the fossils of many pasts coexist.
+
+We must now proceed to another question. We have said that life is starting to seem as “natural as a falling body.” What has the natural process of self-organization to do with a falling body? What possible link can there be between dynamics, the science of force and trajectories, and the science of complexity and becoming, the science of living processes and of the natural evolution of which they are part? At the end of the nineteenth century, irreversibility was associated with the phenomena of friction, viscosity, and heating. Irreversibility lay at the origin of energy losses and waste. At that time it was still possible to subscribe to the fiction that irreversibility was only a result of our ineptitude, of our unsophisticated machines, and that nature remained fundamentally reversible. Now it is no longer possible: today even physics tells us that irreversible processes play a constructive and indispensable role.
+
+So we come to a question that can be avoided no longer. What is the relation between this new science of complexity and the science of simple, elementary behavior? What is the relation between these two opposing views of nature? Are there two sciences, two truths for a single world? How is that possible?
+
+In a certain sense, we have come back to the beginning of modern science. Now, as at Newton’s time, two sciences come face to face—the science of gravitation, which describes an atemporal nature subject to laws, and the science of fire, chemistry. We now understand why it was impossible for the first synthesis produced by science, the Newtonian synthesis, to be complete; the forces of interaction described by dynamics cannot explain the complex and irreversible behavior of matter. Ignis mutat res. According to this ancient saying, chemical structures are the creatures of fire, the results of irreversible processes. How can we bridge the gap between being and becoming—two concepts in conflict, yet both necessary to reach a coherent description of this strange world in which we live?
+
+
+
+
+

@@ -1,0 +1,204 @@
+# Lotman - Kultura i vzryv - sections map
+# Initial map from the printed contents page and scan-page inspection.
+# Main text printed page N maps to scan page N+1.
+# Use this for navigation and cleanup batching; verify boundaries while proofing.
+---
+sections:
+- seq: 0
+  file: raw/000-front-matter.txt
+  kind: front
+  slug: front-matter
+  title: Front matter
+  scan_start: 1
+  scan_end: 7
+  printed_start:
+  printed_end:
+- seq: 1
+  file: raw/001-postanovka-problemy.txt
+  kind: chapter
+  slug: postanovka-problemy
+  title: Постановка проблемы
+  scan_start: 8
+  scan_end: 12
+  printed_start: 7
+  printed_end: 11
+- seq: 2
+  file: raw/002-sistema-s-odnim-yazykom.txt
+  kind: chapter
+  slug: sistema-s-odnim-yazykom
+  title: Система с одним языком
+  scan_start: 13
+  scan_end: 17
+  printed_start: 12
+  printed_end: 16
+- seq: 3
+  file: raw/003-postepennyy-progress.txt
+  kind: chapter
+  slug: postepennyy-progress
+  title: Постепенный прогресс
+  scan_start: 18
+  scan_end: 25
+  printed_start: 17
+  printed_end: 24
+- seq: 4
+  file: raw/004-preryvnoe-i-nepreryvnoe.txt
+  kind: chapter
+  slug: preryvnoe-i-nepreryvnoe
+  title: Прерывное и непрерывное
+  scan_start: 26
+  scan_end: 35
+  printed_start: 25
+  printed_end: 34
+- seq: 5
+  file: raw/005-semanticheskoe-peresechenie-kak-smyslovoy-vzryv.txt
+  kind: chapter
+  slug: semanticheskoe-peresechenie-kak-smyslovoy-vzryv
+  title: Семантическое пересечение как смысловой взрыв
+  scan_start: 36
+  scan_end: 44
+  printed_start: 35
+  printed_end: 43
+- seq: 6
+  file: raw/006-myslyashchiy-trostnik.txt
+  kind: chapter
+  slug: myslyashchiy-trostnik
+  title: Мыслящий тростник
+  scan_start: 45
+  scan_end: 52
+  printed_start: 44
+  printed_end: 51
+- seq: 7
+  file: raw/007-mir-sobstvennykh-imen.txt
+  kind: chapter
+  slug: mir-sobstvennykh-imen
+  title: Мир собственных имен
+  scan_start: 53
+  scan_end: 64
+  printed_start: 52
+  printed_end: 63
+- seq: 8
+  file: raw/008-durak-i-sumasshedshiy.txt
+  kind: chapter
+  slug: durak-i-sumasshedshiy
+  title: Дурак и сумасшедший
+  scan_start: 65
+  scan_end: 104
+  printed_start: 64
+  printed_end: 103
+- seq: 9
+  file: raw/009-tekst-v-tekste-vstavnaya-glava.txt
+  kind: chapter
+  slug: tekst-v-tekste-vstavnaya-glava
+  title: Текст в тексте. Вставная глава
+  scan_start: 105
+  scan_end: 123
+  printed_start: 104
+  printed_end: 122
+- seq: 10
+  file: raw/010-perevernutyy-obraz.txt
+  kind: chapter
+  slug: perevernutyy-obraz
+  title: Перевернутый образ
+  scan_start: 124
+  scan_end: 176
+  printed_start: 123
+  printed_end: 175
+- seq: 11
+  file: raw/011-logika-vzryva.txt
+  kind: chapter
+  slug: logika-vzryva
+  title: Логика взрыва
+  scan_start: 177
+  scan_end: 190
+  printed_start: 176
+  printed_end: 189
+- seq: 12
+  file: raw/012-moment-nepredskazuemosti.txt
+  kind: chapter
+  slug: moment-nepredskazuemosti
+  title: Момент непредсказуемости
+  scan_start: 191
+  scan_end: 205
+  printed_start: 190
+  printed_end: 204
+- seq: 13
+  file: raw/013-vnutrennie-struktury-i-vneshnie-vliyaniya.txt
+  kind: chapter
+  slug: vnutrennie-struktury-i-vneshnie-vliyaniya
+  title: Внутренние структуры и внешние влияния
+  scan_start: 206
+  scan_end: 213
+  printed_start: 205
+  printed_end: 212
+- seq: 14
+  file: raw/014-dve-formy-dinamiki.txt
+  kind: chapter
+  slug: dve-formy-dinamiki
+  title: Две формы динамики
+  scan_start: 214
+  scan_end: 219
+  printed_start: 213
+  printed_end: 218
+- seq: 15
+  file: raw/015-son-semioticheskoe-okno.txt
+  kind: chapter
+  slug: son-semioticheskoe-okno
+  title: Сон - семиотическое окно
+  scan_start: 220
+  scan_end: 227
+  printed_start: 219
+  printed_end: 226
+- seq: 16
+  file: raw/016-ya-i-ya.txt
+  kind: chapter
+  slug: ya-i-ya
+  title: «Я» и «Я»
+  scan_start: 228
+  scan_end: 232
+  printed_start: 227
+  printed_end: 231
+- seq: 17
+  file: raw/017-fenomen-iskusstva.txt
+  kind: chapter
+  slug: fenomen-iskusstva
+  title: Феномен искусства
+  scan_start: 233
+  scan_end: 248
+  printed_start: 232
+  printed_end: 247
+- seq: 18
+  file: raw/018-konets-kak-zvuchno-eto-slovo.txt
+  kind: chapter
+  slug: konets-kak-zvuchno-eto-slovo
+  title: «Конец! как звучно это слово...»
+  scan_start: 249
+  scan_end: 257
+  printed_start: 248
+  printed_end: 256
+- seq: 19
+  file: raw/019-perspektivy.txt
+  kind: chapter
+  slug: perspektivy
+  title: Перспективы
+  scan_start: 258
+  scan_end: 266
+  printed_start: 257
+  printed_end: 265
+- seq: 20
+  file: raw/020-vmesto-vyvodov.txt
+  kind: chapter
+  slug: vmesto-vyvodov
+  title: Вместо выводов
+  scan_start: 267
+  scan_end: 271
+  printed_start: 266
+  printed_end: 270
+- seq: 21
+  file: raw/021-contents-and-colophon.txt
+  kind: back
+  slug: contents-and-colophon
+  title: Contents and colophon
+  scan_start: 272
+  scan_end: 273
+  printed_start:
+  printed_end:

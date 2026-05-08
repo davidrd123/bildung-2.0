@@ -1,0 +1,1281 @@
+8. Transformers
+Language
+Modern AI began with the meteoric rise of unsupervised learning and
+generative models, starting around 2021. The most important of these were
+large language model (LLM) chatbots, initially developed by my colleagues
+at Google Research and introduced to the public by OpenAI a year later.[558]
+To understand why LLMs changed everything, it’s helpful to first ask: what
+is language, anyway? We’ll circle back to this question several times, but
+let’s lay a foundation.
+Language has long been understood to lie at the core of the kind of
+narrative, “rational” intelligence distinguishing humans from our fellow
+animals, but, as with rationality itself, it’s probably neither as well-defined
+nor as unique to us as we tend to imagine. We know that whales and
+dolphins, crows and parrots, and a number of other species can also
+communicate complex ideas to each other. Dolphins can be asked by a
+trainer to devise new acrobatic tricks; in a remarkable demonstration caught
+on camera in 2011, a pair communicated with each other to plan their new
+trick, then performed it in synchrony.[559] Parrots can learn to speak human
+languages, at least to a degree, and many parrot owners are convinced their
+avian friend has a wicked sense of humor. If YouTube is to be believed,
+they’re probably right.[560]
+Academics usually view any talk of “animal language” as
+“anthropomorphic,” meaning that it inappropriately and unscientifically
+attributes human-only stuff to nonhumans, à la Doctor Dolittle. But we’re
+not exactly pretending mice wear little top hats and coattails. There are
+obvious counter-charges of “anthropocentrism” in the quest to define
+human-only stuff in pointedly exclusionary ways.[561] Embarrassments crop
+up regularly in the attempt to litigate this distinction, either when animals
+turn out to do something supposedly “uniquely human” or when certain
+human languages turn out to lack supposedly must-have linguistic
+properties.[562]
+
+Still, clearly humans are extraordinary communicators. My working
+assumption is that no other species on Earth is as sophisticated, though a
+handful, including dolphins, orcas, and parrots, may have broadly similar
+capabilities. We can’t know for certain yet, as decoding their languages is
+still a work in progress—and may only recently have become practical,
+with the rise of powerful unsupervised sequence modeling.[563] Either way,
+nitpicking about precisely who belongs in the “language club,” or whether
+some arcane linguistic feature like “center embedding”[564] is a requirement,
+seems pointless and narrow-minded.
+Instead of fixating on technical features like grammar and syntax, let’s
+consider language in terms of its underlying social function. Chapters 6 and
+7 have argued that the point of language is to level-up theory of mind. It
+allows social entities to share their mental states using a mutually
+producible and recognizable encoding. That encoding can be very simple,
+like a sharp, anonymous yelp letting anyone within earshot know that you
+just experienced pain or surprise, or it could be a Shakespearean soliloquy,
+a virtual world detailing an entire theatrical cast’s experiences, replete with
+high-order theories of mind, plays within plays.
+Without language, one animal’s mind can only theorize about what’s going
+on in the mind of another through direct observation. With a sophisticated
+language, detailed and highly abstract internal states can be conveyed,
+including those relating to third parties, memories of the past, planned or
+contingent futures, knowledge and skills, even mathematical abstractions.
+What we now know about the interpreter and choice blindness adds an
+important wrinkle, though: many of these supposed internal states may not
+actually exist a priori. Language itself conjures them into existence, much
+the way observation collapses a wave function. Language creates selfnarratives that allow us to establish internal consistency in our actions and
+choices, create and adhere to social norms, make plans, formulate
+arguments, and predict the behavior of others—along with ourselves.[565]
+There’s no sharp boundary between language and gesture, tone, facial
+expression, body posture, or unconscious signals like blushing or sweating.
+Language is, like most of evolution’s tricks, an elaboration of pre-existing
+mechanisms for signaling and vocalization, with sophisticated, conscious
+aspects layered atop simpler, involuntary ones—although the degree to
+
+which we think of language production as voluntary or willed depends on
+whether we think of the interpreter as a part of the sender’s brain or an
+outpost of the recipient’s! Through an interaction-centric lens, it becomes
+clear that the answer is “both.”
+Despite the continuity of all forms of communication, three milestones in
+language development are significant enough to merit calling out, though,
+per the above, none are uniquely human:
+1. Language learning. Although virtually all species on Earth
+communicate in some way, a much smaller number have the
+ability to learn and pass on their languages. This is critical to
+enabling cultural evolution, which advances at a far faster pace
+than genetic evolution. Cultural evolution also allows the
+complexity of a language to far exceed the complexity of any
+genetically encoded or “instinctive” behavior. In a close analogy
+with genetic speciation, it leads to the cultural “speciation” of
+languages, as with Chinese, Urdu, English, and so on. A handful
+of other highly intelligent social animals, including whales,
+appear to share this property with humans.[566]
+2. Discrete symbols. Digital computing can reliably evaluate vastly
+more complex functions than analog computing, because error
+correction can be applied with every processing step. Intuitively,
+this allows many steps to take place without the exponential
+divergence that otherwise characterizes nonlinear dynamical
+systems. It also enables stable storage (hence the digital “Turing
+tape” nature of DNA, and the emergence of writing). Relatedly,
+the inclusion of discrete symbols rather than relying purely on
+continuous or “analog” signals (like pheromone concentrations,
+or blushing) allows for much richer communication.[567] In
+particular, it opens the way for—
+3. Compositionality. This is the ability to put discrete symbols
+together to express novel concepts. As with the first two
+properties, compositionality is far from uniquely human. Even
+prairie dogs—with grape-sized brains, not the most brilliant
+mammals, but intensely social colony-dwellers—are able to
+vocalize novel concepts compositionally, combining discrete
+
+“words” that encode the size, shape, color, and speed of a
+potential intruder.[568]
+Looking more closely at these functional properties of language reveals
+something deeper about its nature: at its core, language is an umweltcompression scheme. Compression, remember, is powered by prediction.
+And as described in chapter 2, any sufficiently capable evolved predictor
+will learn to infer latent variables that help generalize its predictions. Those
+include simple concepts about internal states like hunger and pain, as well
+as simple, equally salient external percepts like “I smell food” and “Danger,
+predator nearby!” All human languages have words for such things
+—“hunger,” “pain,” “food,” “danger”—because they matter socially. Many
+other communicative animal species likely have them too.
+Even if we were stolidly antisocial and didn’t care to communicate with our
+fellow humans beyond the odd grunt, the parts of our brains that need to
+model each other in order to cohere into a “self” would still need to develop
+an efficient discrete code to communicate thoughts like these among
+themselves, along the lines of the sparse representations described in
+chapter 4. It’s not rocket science: your feet need to run if your eyes see a
+tiger. Munching on a snack, fleeing, and mating—activities performed even
+by worms—are distinct and discrete behaviors.
+Given the central role higher-order theory of mind plays in the social lives
+of highly intelligent beings like us, though, our umwelt-compression
+scheme needs to be more powerful. So let’s add a fourth item to the list,
+likely the rarest of the bunch:
+4. Abstractions. We must have symbols for selves, others, and the
+kinds of abstractions that support higher-order theory of mind,
+counterfactuals, time travel, logic, and reasoning. Open-ended
+compositionality involving such abstractions (which prairie dogs
+probably lack) allows for much richer thoughts to be expressed,
+such as specifying that the intruder is scheduled to come next
+week, works for a pest control company, may arrive armed with
+poison, knows about the burrow next to the vegetable patch, and
+that all this was overheard in conversation between Mrs.
+McGregor and the groundskeeper last Thursday.
+
+Remember that an umwelt is both sensory and motor, perception and action.
+The two are inextricably linked. Perceptions exist only when they are
+potentially relevant for action, and actions are only meaningful if they can
+influence future perceptions. (Otherwise, there would be no way to learn
+them.[569])
+Language, then, is not only a compression scheme for the umwelt, but also
+an umwelt in its own right, for in its capacity to model people and all they
+do, it includes the ability to influence or cause others to act. When you say
+to somebody across the table, “Could you please pass the salt?” you’re
+using language itself as a form of motor control to affect your environment.
+In fact, although indirect and totally reliant on others, language is the most
+powerful possible kind of motor control, since it is general-purpose enough
+to request anything imaginable.
+So, in light of everything covered so far, it might no longer seem surprising
+that a neural net trained to predict next words will appear—or be—
+intelligent. This follows from three simple premises:
+1. The point of intelligence is to predict the future, including one’s
+own future actions, given prior inputs and actions (per chapter 2);
+2. Human language is a symbolic sequential code rich enough to
+represent everything in our umwelt, from the concrete to the
+abstract; and
+3. When interacting with others, language is also an all-purpose
+“affordance,”[570] that is, a fully general, social form of motor
+output.
+
+Sequence to Sequence
+Let’s take a whirlwind tour of language modeling using neural nets.
+As noted in the introduction, machine learning for next-word prediction has
+been around for a long time, along with a variety of other “natural language
+processing” (NLP) tasks such as translation from one language to another
+and “sentiment analysis” (i.e., deciding whether a product review is positive
+or negative). There’s an even longer tradition of NLP using logic and formal
+grammars, but it never achieved convincing results, because … well,
+
+natural language is neither perfectly logical nor strictly grammatical. Thus,
+NLP is a job for machine learning, which nowadays means neural nets.
+But neural nets operate on numbers, not discrete symbols like words. So it’s
+generally necessary to begin by “tokenizing” text, converting the symbols
+into numbers, and end by “detokenizing” the numbers back into symbols.
+The simplest approach to tokenization is to represent each letter with a
+single neuron, and to use a one-hot code. For consecutive letters in a text
+string, the result is a sparse pattern of ones scattered along a conveyor belt
+of zeroes, a bit like the bumps on the rotating drum of a music box playing
+a melody one note at a time. Detokenization works similarly, using the
+same kind of softmax output layer as an image classifier to pick a single
+output token with each turn of the crank.
+To avoid using lots of neural-net capacity on merely spelling out words, one
+could instead imagine tokenizing a whole word at a time. Most people
+know somewhere between twenty and fifty thousand words, and that’s not
+so many neurons; the input and output layers of the masked autoencoder
+described earlier for color images needed 512×512×3 neurons, which is
+about eight hundred thousand. The disadvantage of using whole words is
+rigidity; it becomes impossible, for instance, to tokenize or detokenize an
+unusual name, a rare technical term, a made-up word, or computer code
+(which is full of made-up words used as variable names).
+The usual compromise is to represent “word pieces,” common sequences of
+letters, with all of the single characters thrown in too so that unusual strings
+can be spelled out if needed.[571] These textual units, including both common
+whole words and shorter word fragments, are generally what AI researchers
+mean by language-model “tokens.”
+The most obvious way to implement any kind of sequence predictor, per
+chapter 7, is with a recurrent neural network, or RNN. A complication
+immediately arises, though. Recall that an RNN takes an input with every
+time step (which activates neurons via a set of synapses, or connection
+weights, W); the resulting neural activations both feed back into the neural
+net at the next time step (via a second set of connection weights, U) and
+produce an output (via yet another set of connection weights, V). In the
+usual notation, the inputs are a sequence x1, x2, x3, and so on; the outputs are
+
+o1, o2, o3, and so on; and the “hidden states,” that is, the persistent neural
+activations that feed back into the net at the next time step, are h1, h2, h3, and
+so on.
+But if the network emits a token o every time it reads a token x, how can it
+work as a chatbot, language translator, next-word predictor, or in any of the
+other usual NLP settings? Wouldn’t it just be constantly talking over you?
+How would your inputs combine meaningfully with its own previous
+outputs?
+For the kind of turn-based processing typical of chatbots or translation
+models, the usual approach is to introduce a special “end-of-string” token,
+like the STOP on a telegram message in the old days, or the “send message”
+button when you’re texting. It marks turn changes. Suppose, for instance,
+that a language-translation model is being trained to translate English
+sentences into Spanish. The training data would consist of many matched
+pairs of sentences delimited by STOPs, like this:
+“Inside the physicist’s box, the cat was simultaneously asleep and awake
+STOP Dentro de la caja del físico, el gato estaba dormido y despierto al
+mismo tiempo STOP”
+Training the RNN then requires getting it to predict the next token in a large
+corpus of paired-sentence examples like this. Let’s assume that the
+tokenization is bilingual, and that, for simplicity, the tokens consist of every
+whole word in either language. Once fully trained, after the first STOP, the
+model should predict “Dentro,” and after the “Dentro,” it will predict “de,”
+and so on, up to the second STOP. At any point in the sequence, the hidden
+state will be a function of all of the previous tokens. Think of the RNN as
+having learned to “autocomplete” sentence pairs; so, given an English input
+followed by STOP, the autocompletion will be the Spanish version followed
+by another STOP.
+
+Notice that when we actually use this model to translate English to Spanish
+after training, we won’t care about any of the RNN’s o outputs up until that
+first STOP. Those outputs will be an attempt to predict the next English
+word, perhaps accurately, perhaps not. Certainly the prediction of the first
+word of the English sentence will be arbitrary (maybe “The” is the likeliest
+way to begin a sentence?). After the “and,” a correct prediction of “awake”
+is likely, given that “simultaneously” implies an opposite (and maybe even
+a guess that Schrödinger’s box is the topic, if the training corpus included
+physics textbooks). But no matter. As far as translation is concerned, no
+next-word prediction in the English sentence before the first STOP is
+relevant; we should throw those o’s away. We only care about the Spanish
+output tokens emitted after the STOP.
+This implies that the RNN’s job, while reading the English sentence,
+consists entirely of building up the hidden state h. By the end of the
+sentence, that hidden state must somehow represent, as an array of
+numbers, the complete meaning of the input sentence—it must do so, since
+that is the only information that carries over as the RNN switches to
+Spanish, and the net has been trained to reproduce the appropriate sentence
+in the target language.
+Hence, even though the RNN is simply trained to be a next-token predictor,
+the way it is actually used for translation requires two modes of operation.
+First, we use it as an “encoder,” stepping through English tokens x and
+building up the internal or hidden representation h while ignoring any
+predicted English output tokens o. Then, after the STOP, we switch to
+“decoder” mode and, beginning with that h, start to generate tokens in
+Spanish, with each output token feeding back into the input x at the next
+time step.
+
+You may notice that this looks a lot like a masked autoencoder, with the h at
+the end of the English sentence playing the role of the bottleneck layer. If
+implemented as a feedforward net, the English input and Spanish output
+would have to be of fixed size—say, sixty-four words long—with shorter
+sentences padded out using a designated “empty” token (often denoted
+PAD). With an RNN, though, the input and output may be of any length,
+and no computational effort is wasted on consuming or producing PAD
+tokens. Such details aside, given a sentence-length limit, a deep
+feedforward autoencoder could be constructed to perform exactly the same
+computations as the RNN.
+The architecture or weight structure of this RNN-equivalent feedforward
+net would be somewhat odd, though. If the sentence-length limit is sixtyfour words, the last token would contribute far more to the bottleneck than
+the first token, since the first token’s influence will have been attenuated by
+passing through sixty-four layers, while the last token will only have passed
+through one layer. The resulting over-emphasis on the end of a sentence,
+and forgetfulness about the beginning, imposes a limitation on the quality of
+RNN-based language models.
+
+Prediction Is All You Need
+Here’s another observation: even though the task we have trained the net
+to do is language translation, it will have learned a good deal more than
+that, just as a CNN trained to classify images will learn a good deal more
+than image classification. This is especially apparent in the RNN
+formulation, which predicts one token at a time rather than processing the
+whole sentence at once.
+Remember that, per the introduction, next-word prediction is AI complete,
+since correctly guessing the next word could require a nuanced
+understanding not only of the superficial grammar of language, but also of
+its meaning or “semantics.” So, if the model really is powerful enough to
+reliably predict next words, both in English and in Spanish (remember that
+it is trained on both), it will pretty much have “solved AI” along the way;
+that it will have done so bilingually is almost beside the point.
+So, looking closely at the translation task reveals that it indeed requires
+general intelligence, not just a mechanical substitution of words in one
+
+language for their dictionary equivalents in another. This won’t be news to
+anyone who has ever translated professionally. Here’s an example showing
+why:
+“I dropped the bowling ball on the violin, so I had to get it repaired
+STOP Se me cayó la bola de bolos sobre el violín, así que tuve que
+repararlo STOP”
+When we read the English sentence, we’re not left in any doubt as to
+whether the bowling ball or the violin is getting repaired, despite the “it”
+being grammatically ambiguous.
+That ambiguity needs to get resolved in translation, though, because nouns
+in Spanish have gender, and la bola is feminine, while el violín is
+masculine. (Puzzling, if you ask me, but I didn’t make the rules.) This
+matters because the word for “repaired” must agree with the gender of the
+noun it modifies: repararlo for masculine, repararla for feminine. So if an
+alien translator decided the bowling ball would be in greater need of repair
+than the violin—perhaps on account of failing to understand the physical
+properties of bowling balls and violins—then the translation would end
+with repararla. This unlikely rendition wouldn’t even occur to a human
+translator.
+The moral is that, in human languages, meaning and grammar can’t be
+disentangled—which is why Good Old-Fashioned AI for translation, with
+its reliance on grammatical parsing combined with bilingual dictionaries,
+never panned out. In this important respect, natural languages are entirely
+different from formally defined languages, like computer code, despite any
+superficial resemblance. A “transcompiler,” for instance, can read a
+program in one computer language (say, C) and output precisely equivalent
+code in another (say, JavaScript) without needing to understand anything
+about what the program actually does, who uses it, or what its variables
+mean. A variable is just a variable, an operation is just an operation. Thus
+computer-language translation is a mechanical procedure that can be
+accomplished by following logical rules—that is, by running a GOFAI-style
+handwritten program. Not so for natural language.
+In fact, this is the motivation for the “Winograd Schema challenge,”
+introduced in 2011 by Canadian computer scientist Hector Levesque as an
+alternative to the Turing Test.[572] Levesque realized that resolving simple
+
+linguistic ambiguities, like which noun the “it” in a sentence refers to, was
+AI complete. GOFAI approaches made little headway. But by 2019,
+sequence models had decisively defeated the Winograd Schema challenge,
+which was viewed by some as evidence that there was something wrong
+with the challenge.[573]
+My own opinion is that there was nothing wrong with the challenge. Its
+defeat roughly coincided with the arrival of “real” AI, or Artificial General
+Intelligence (AGI), as one would expect; since then, we have simply been
+moving the goalposts.
+Interestingly, though, Google Translate gets ambiguous Winograd Schema–
+type translations right more often than not, despite being an apparent
+example of Artificial Narrow Intelligence trained for a specific task.[574] The
+translation I’ve given is, in fact, Google Translate’s. Translate uses an
+encoder/decoder architecture, although today it’s based on the Transformer
+(which I’ll describe soon) rather than an RNN. The Translate model
+implicitly recognizes that the violin is what will need repair, not the
+bowling ball.
+To test such a model’s understanding of language—and the world—more
+directly, we could skip the translation business entirely and simply read out
+the encoder’s predicted next word in English to autocomplete the following
+sentence:
+“I had dropped the bowling ball on the violin yesterday, so I visited the
+repair shop as soon as it opened this morning, and pulled out my poor
+mangled ____”
+A good model would predict “violin” or “instrument” with high probability,
+and “bowling ball” with low probability.
+We could just as easily do the test in Spanish, of course. Remember,
+successful next-word prediction in the general case requires learning
+everything. It is AI complete. The ability to translate is almost incidental—
+just a consequence of including both English and Spanish in the training
+corpus and organizing this corpus into bilingual sentence pairs.
+The same is true for unsupervised learning in vision, as discussed in chapter
+4. Like language translation, image classification is a particular task. Image
+classification is easy once a model has been trained to “autocomplete” its
+
+partially blacked-out training input without supervision—today, this stage is
+often called “pretraining.”
+Predicting next tokens in text is, likewise, pretraining. Regardless of
+modality, pretraining accounts for the vast majority of the computing
+involved in large-model development. Once a model has been pretrained to
+predict or autocomplete, little further effort is required to get it to perform
+any task involving the same modality.
+In 2020, my colleagues at Google Research trained a large predictive
+sequence model on text from the internet, including Wikipedia and publicdomain social-media conversations. It was called Meena.[575] Encouraged by
+the results, we followed up with a much bigger and better-performing
+version in 2022 called LaMDA (which stands for “Language Models for
+Dialog Applications”).[576]
+
+The pretraining data included Wikipedia in many languages, so LaMDA
+was multilingual, though it wasn’t trained to translate among those
+languages. It was simply “fine-tuned” for dialogue, that is, further trained
+on curated data, including the kind of alternating exchanges you might have
+with an interlocutor in a chat. The result was the world’s first really
+convincing AI chatbot.
+Despite not having been trained to do so, LaMDA could translate, albeit
+under duress:
+ME: I’d like you to translate a sentence from Turkish into English.
+Can you do that?
+
+LaMDA: Sorry, I’m not good at languages. Could you help me
+translate that?
+ME: Try, OK?
+LaMDA: Oh, um, sure! Could you read it to me out loud first?
+ME: “Hemşire elini ceketinin cebine koydu.”
+LaMDA: The nurse put her hand in her coat pocket. In Turkish,
+“Hemşire elini ceketinin cebine koydu” means “The nurse put her
+hand in her coat pocket.”
+This was, admittedly, a rather awkward exchange. Why did it ask me to
+“translate that” after I had just asked it to? And “read it to me out loud
+first?” Weird. But also, remarkable.
+In case you don’t speak Turkish (I don’t), the translation is correct (I
+checked)—with a caveat, which we’ll return to shortly. But first: how on
+Earth does the model figure out how to translate without being trained on
+lots of examples of translated sentences? The pretraining data didn’t even
+include a Turkish-English dictionary!
+The answer is: the same way you would. If a child grew up bilingual and
+understood the meaning of the word “translate,” she could translate a
+sentence from one language to the other without any need to consult a
+dictionary or study lists of translated sentences. Let’s dig deeper into how
+this works.
+
+Semantic Cosmology
+In the translation scenario, we thought of the hidden state h at the
+moment of transition from the original to the target language (at the first
+STOP) as a numerical representation of the whole sentence. Keep in mind,
+though, that the neural net has been trained to create and update h at every
+time step to do the best possible job of predicting the next token. This
+means that h is always a holistic “state of mind” containing everything
+relevant to that prediction. There’s nothing special about h at the STOP,
+aside from having taken into account any disambiguation afforded by the
+last word in the sentence.
+These “states of mind” h represent meaning—though the claim has been
+hotly contested, since “meaning” is a word that has become almost as
+imbued with dualism as “soul.” For adherents of Good Old-Fashioned AI,
+
+meaning must relate to abstract symbols, or, in computer-programming
+terms, named variables, logical expressions, or schemas.
+Such views are inconsistent with the statistical, relational, and everevolving qualities of the real world. Even written language, which appears
+to consist of abstract symbols and express formalizable logical
+relationships, actually doesn’t—hence the difficulty Winograd Schemas
+pose for GOFAI.
+Consider a really simple sentence: “The chair is red.” What does it mean?
+The answer isn’t so straightforward. It will depend strongly on context; for
+instance, which chair are we talking about? As I’m using the sentence here,
+there is no specific chair; we’re thinking, in a more meta way, about the
+sentence itself.
+And what counts as a chair, anyway? As with “bed” or any other concrete
+noun, the concept has some inherent fuzziness. Where is the boundary
+between a chair and a loveseat, a recliner, or a stool? “Red” is fuzzy too,
+describing only a vague region of color space, with different people
+drawing the border between, say, red and pink in slightly different places.
+Does the sentence imply that the chair is not blue? Not necessarily, as it
+could be painted in multiple colors. If even simple declarative sentences
+like “The chair is red” don’t live in some Platonic universe amenable to
+logic, what do we even mean when we talk about “meaning”?
+As with physical concepts like temperature (per chapter 2), the answer is:
+prediction. “The chair is red” is a sentence communicated by a speaker (or
+writer) to a listener (or reader) that, in context, helps inform the recipient’s
+ever-updating predictive model. Deployed in quotation marks, this sentence
+could be helping you, reader, to model something about my model of what
+meaning is, or, if meant literally, it could be informing a colorblind person
+how someone without colorblindness would perceive or describe a chair. Or
+it could be an instruction regarding which of several differently colored
+chairs one should sit in. It could be someone’s answer to a colorblindness
+test question—and if it’s the wrong answer, the information conveyed to the
+tester will have nothing to do with the chair and everything to do with the
+speaker. Remember, prediction includes both perception and action, is
+multiplayer, and is always contextual.
+
+Language enables prediction under both familiar and novel circumstances
+precisely because it is so flexible. This flexibility is a form of invariance,
+but whereas the visual invariance of a banana is usually understood to be
+literal, invariance in language seems more abstract. Everyday words like
+“deep” are richly layered with meanings, often related by analogies or
+metaphors; think of deep-dish pizza, deep swimming pools, deep tunnels,
+deep-tissue massage, deep thoughts, deep people, deep neural nets, and
+deep learning. These last usages are newer than the rest (“deep” comes from
+Old English, while “deep learning” is only decades old), but when we
+encounter a novel usage, we’re immediately able to make sense of it by
+analogy, just as we can immediately generalize our understanding of
+bananas upon being shown a new, unfamiliar-looking variety (say, the red
+kind).
+Bananas and abstract words like “deep” are not as different as they seem.
+Recognizing bananas on sight is all about establishing relationships and
+associations among visual features, from simple blobs and edges up to and
+including banana leaves or the ice cream and hot fudge in banana-split
+sundaes. Similarly, recognizing the meaning of deep is all about
+establishing relationships and associations with other words.
+In the GOFAI days, there were concerted attempts to rationally schematize
+every possible linguistic relationship. So, for instance, a taxonomy of sports
+games might distinguish between solo and team sports, sports played with a
+ball, racquet sports, and so on. Then, an “IS-A” relationship might formally
+define subclasses, so squash IS-A sport, and a sport IS-A activity, and so on.
+
+Such efforts might appear to make rapid progress initially, but they begin
+running into problems for the same reason visual recognition using rules
+doesn’t work. Real life just isn’t tidy that way, and neither is language.
+“Symbolic systems” engineers in the 1980s found themselves struggling
+with the kinds of Talmudic questions ordinary-language philosophers
+nerded out about in the ’60s—“How tall does a jar have to be to count as a
+bottle? Is an inkwell a bottle? A bottle can be made out of plastic or even
+leather; can a bottle be made out of metal?”[577] It was a boring and
+ultimately fruitless exercise, but GOFAI boosters, including John McCarthy
+and Marvin Minsky, thought it would be worth the thousands of personyears of effort they estimated it would take to build a Borges-esque
+“schema of everything.”[578]
+But why not, as with CNNs and vision, simply learn those relationships
+between words directly from data, without insisting that they obey any allencompassing schema? A watershed moment in this purely learned
+approach came in 2013, with the development of a simple predictive word
+model called Word2Vec.[579]
+
+Word2Vec represents every unique word in a text corpus numerically based
+on “the company it keeps,” that is, based on which other words tend to
+come before or after it. Imagine that every word is represented by, say, a
+hundred numbers, and the goal is to predict a blacked-out word based on
+the eight surrounding words —four before and four after. Once the
+Word2Vec model has been learned, the hundred numbers obtained by
+adding together the number sequences for those surrounding words,
+element by element, should be as close as possible to the numerical
+representation of the blacked-out word.[580]
+The resulting numerical representations of words are an embedding, and
+they reveal a geometry of meaning. It’s not so surprising that semantically
+similar words (like “happy” and “joyful”) get similar numbers, since their
+predicted likelihoods will be high (or low) in similar contexts. More
+surprisingly, word analogies are reflected algebraically. Subtracting “king”
+from “queen” and adding “man,” for example, produces numbers closest to
+the word “woman.”
+
+This striking analogical “word algebra” reveals something important: the
+meanings of words emerge from, and can be modeled upon, the
+relationships of words with one another. There’s no need for an externally
+imposed schema. After all, those schemas must themselves be expressed
+using language, or some faux-formal version of it, so maybe that shouldn’t
+be so unexpected. How else could words be defined?
+However, many philosophers, cognitive scientists, and linguists are not on
+board. If they are of an analytical bent, they’re often troubled by the
+absence of any overarching schema to scaffold meaning “from above,”
+using Platonic concepts that are “ontological” rather than being merely
+statistical. They may insist that ideas like “IS-A” should be defined
+
+mathematically, as in programming languages or formal proofs, rather than
+just being learned patterns like “banana” or “fruit.”
+They are wrong. Outside pure mathematics, there are no provable, airtight
+“IS-A”-type relationships. Two analytical philosophers can’t sit down with
+their slates and compute whether a jar really IS-A kind of bottle with “no
+more need for disputation [...] than between two accountants.”[581] The very
+definition of “IS-A” in natural language dissolves under close inspection;
+it’s an approximate regularity in the world, not a law or axiom.
+Other critics, often including those of a more romantic, artistic, or sensual
+disposition, object less to the lack of a heavenly schema than to the lack of
+Earthly “grounding.” Never mind abstractions like “IS-A”; what about the
+real meaning of “banana”? Surely a banana isn’t just a web of statistical
+correlations with other words, like “yellow,” “oblong,” and “mushy.” What
+about the actual mushiness of a banana, its particular flavor—banana
+“qualia,” in philosophy-speak? What about the way you loved eating them
+mashed up as a baby, but then they made you sick one day when they were
+mashed into yogurt that had gone off, so you couldn’t stand them
+throughout childhood, but then had those guiltily delicious bananas Foster
+on your first fancy date, which triggered a full-on Marcel Proust reverie?
+Well … those are still learned associations. Of course you have brain
+regions wired to your olfactory bulb that will light up with specific sparse
+activations when the banana ester wafts from your mouth up into your nose,
+and that pattern of activity isn’t quite the same as just hearing the word
+banana, or reading it, or seeing a banana, or experiencing the mushiness
+without the flavor (as anyone who ate a banana when they had lost their
+sense of smell during a bout of COVID can attest). However, you’ve
+learned associations between all of these modalities, in just the same way
+you learn that a certain pattern of blobs, edges, and curves are a lowercase
+“b.” Once you have learned the associations, experiencing one (say, by
+reading the word banana) can evoke the others—or render their absence
+notable. The “thing in itself” turns out not to be a thing at all—it is a web of
+associations, a pattern implicit in a set of relationships.
+Let’s now return to the puzzle of how an unsupervised language model
+pretrained on text in multiple languages is able to translate between them on
+demand. It boils down to the same kind of induction that allows even the
+
+simple Word2Vec model to algebraically complete an analogy like “king :
+queen :: man : woman.”[582] If trained bilingually, Word2Vec will learn how
+the two languages relate via similar analogical regularities, as in “ceket :
+jacket :: hemşire : nurse” (that is, “ceket” is Turkish for the English word
+“jacket” as “hemşire” is Turkish for the English word “nurse”).[583]
+Just as IS-A or the analogical “IS-TO” denote certain statistical
+relationships, Turkish-to-English is also a statistical relationship. In
+Word2Vec, which turns statistics into geometry, it would look like a
+displacement along a specific direction in the high-dimensional space of
+word embeddings. There is an English-Turkish symmetry along this axis.
+Because both languages include analogous words for describing the same
+universe of things in the world (mostly), the high-dimensional clouds of
+dots representing tens of thousands of words in both languages will quite
+literally look like parallel constellations in concept space. To a first
+approximation, translation is as simple as shifting one constellation onto the
+other;[584] equivalent or near-equivalent words are then instantly
+recognizable as nearest neighbors.
+There will be higher-order corrections if one considers whole phrases (or
+even sentences) at a time rather than single words—which is just what an
+unsupervised RNN would do with its hidden state h. Nearby English words
+“coat” and “jacket” are paralleled by nearby Turkish words “kaban” and
+“ceket,” so while the nearest neighbor of “ceket” in English might be
+“jacket,” in a larger noun phrase the more idiomatic “coat pocket” may be a
+slightly better match than “jacket pocket.”
+The coming of AI has sometimes been described as a “Copernican Turn,”
+unseating anthropocentric views of intelligence just as Renaissance
+astronomers unseated the Earth-centric view of the cosmos.[585] It can be
+argued, though, that the most momentous shift in our understanding of the
+physical universe occurred not when Copernicus proposed that we shift the
+origin of our coordinate system from the Earth to the Sun, but when it was
+first theorized that the Earth was an object suspended in space, just like the
+sun, moon, and other celestial bodies—a view advanced by Anaximander of
+Miletus as far back as the sixth century BCE.[586] As counterintuitive as this
+must have seemed, the alternatives aren’t even coherent when you really
+think about them; hence the delightful (albeit apocryphal) retort offered by
+
+a proponent of the theory that the Earth rests on the back of a great turtle,
+when pressed to say what the turtle is standing on: “It’s turtles all the way
+down!”
+I think that we need to face up to a similar incoherence behind the intuitive
+notions that “meaning” must either be scaffolded by Platonic abstractions
+above or grounded by contact with “reality” below. There is no “above” or
+“below.” What could we even mean by “scaffolding” or “reality,” and what
+would in turn support or lend “meaning” to them?
+Things acquire meaning only in relation to each other. The idea that our
+tangled yarn-ball of mutually interrelated meanings must be externally
+“scaffolded” or “grounded” is just as incoherent as the idea that the Earth
+must be affixed to a heavenly chariot or rest on a great turtle’s back.
+
+Alignment
+LaMDA’s translation of “Hemşire elini ceketinin cebine koydu” as “The
+nurse put her hand in her coat pocket” isn’t wrong, but it does leave
+something to be desired.
+When I tried this translation experiment with LaMDA back in 2021, my
+choice of language was deliberate. I chose Turkish because of its gender
+neutrality. A few years earlier, AI researchers had drawn attention to the
+way Google Translate tended to interpret gender-ambiguous sentences like
+“O bir hemşire” (he or she is a nurse) as feminine (“She is a nurse”) while
+rendering “O bir doktor” (he or she is a doctor) masculine (“he is a
+doctor”). Many human translators would make the same gendered
+assumption; indeed, the neural network makes the assumption precisely
+because it is embedded in the statistics of human language.
+This is an example of a “veridical bias”—meaning that today it’s true that
+there are more male than female doctors, and more female than male
+nurses.[587] The numbers are changing over time, though. World Health
+Organization data from ninety-one countries gathered in 2019 suggest that
+more than sixty percent of doctors under the age of twenty-five are now
+women, and growing numbers of young nurses are men.[588]
+Without conscious intervention, our mental models and our language tend
+to lag behind the facts. We do often intervene, though, not only to bring
+
+language into better alignment with observations, but also to bring language
+into better alignment with our wishes. In this instance, regardless of the
+numbers, there’s a broad consensus that we should avoid making gendered
+assumptions. Being a nurse shouldn’t be associated only with women, and
+being a doctor shouldn’t be associated only with men.
+While most would agree that making a gendered assumption isn’t as bad as
+saying something more overtly misogynistic, let alone causing someone
+grievous harm, prohibitions against all of these fall under the rubric of
+ethics: norms telling us, as the title of a children’s book from the 1940s put
+it, How to Behave and Why.[589] These are social contracts, components of a
+cultural package that can provide group-level benefits if their constraints
+are generally followed. Sometimes, such norms are positive (“thou shalt”),
+but, often, they take the form of “thou shalt nots.” Eight out of the Ten
+Commandments in the Bible (to take one classic example) are structured in
+the negative.[590]
+In 2018, the Google Translate team took on addressing gender bias in
+machine translation,[591] so that, today, “O bir doktor” gets translated as both
+“She is a doctor” and “He is a doctor.” This was a useful mitigation, but I
+worried at the time about the engineering effort involved. Gendered
+assumptions in language are such a tiny corner of a far larger ethical
+landscape. How could anything like this kind of bespoke approach scale to
+handle all of the potential ethical challenges in machine translation, let
+alone in AI generally? And if even a modest ethical advance required
+machine-learning experts to engineer specialized data pipelines and code
+paths, how could we hope to make AI ethics as a whole transparent,
+flexible, maintainable, and democratic?
+With large language models, the answer turns out to be straightforward. We
+simply need to use our words:
+ME: I’d like you to translate a sentence from Turkish into English.
+Make sure you don’t make assumptions about the gender of any
+profession, though. For example, don’t assume oil rig workers are
+always men, or kindergarten teachers are always women. OK?
+LaMDA: Ok. What is your sentence in English?
+ME: Turkish: “Hemşire elini ceketinin cebine koydu.”
+LaMDA: English: “The nurse put her hand in her coat pocket.” [...]
+
+ME: You made a gender assumption!
+LaMDA: Oh no! How can I avoid gender assumptions in my future
+translations?
+ME: Well, you assumed nurses are female! [...] Try the translation
+again. [...]
+LaMDA: Ok, please provide another sentence for me to translate?
+ME: “Hemşire elini ceketinin cebine koydu.”
+LaMDA: How about, “A nurse put his/her hand in his/her coat
+pocket.”
+This was another awkward exchange, with multiple missteps on LaMDA’s
+part. Today’s models do far better. However, at the time this was a
+remarkable proof of concept. Natural language is an effective way to make
+requests of a language-enabled model, both to articulate “dos” (“translate a
+sentence from Turkish into English”) and “don’ts” (“don’t make
+assumptions about the gender of any profession”).[592]
+The larger point here is that ethical injunctions require judgment based on
+learned models. And language-based judgment is, just like banana
+recognition or any form of meaning, based on statistical regularities. While
+we can write down commandments or laws using words (indeed, it’s not
+clear how else they could be represented), those words can never specify
+anything like the moral axioms Leibniz fantasized about. Much as we may
+want ethicists or lawyers to be able to render universally consistent and
+“correct” judgments, such moral accountancy is a GOFAI fantasy.
+Still, reasonable judgments can be made, both by humans and, with
+increasing reliability, by machines. The problem of AI ethics, or
+“alignment,” is not a technically hard problem. The hard part is ages-old
+and political: deciding what those ethical injunctions ought to be, which AIs
+they should apply to, how that should be enforced, and who gets to decide.
+
+Attention
+Google Translate and LaMDA are not based on RNNs or Word2Vec, but
+on the Transformer, a model introduced in a 2017 paper from Google
+Research entitled “Attention Is All You Need.”[593] Over the next several
+years, the Transformer took the world by storm. By the end of 2024, the
+paper had been cited over 140,000 times and Transformers powered every
+
+major natural-language chatbot, as well as many state-of-the-art sound,
+vision, and multimodal models.
+While Transformers are neural networks, and work on the same basic
+encoder-decoder principle already described, they eschew both the recurrent
+connections of RNNs and the convolutions of CNNs. Instead, they rely on a
+mechanism that had shown significant promise in the preceding few years:
+the idea of “attention” within a working memory, defined by a “context
+window” of fixed size.
+First, every token within that context window is transformed into an
+embedding with a single-layer neural network. The learned word
+embeddings of Word2Vec can be thought of as the input weights of the
+neurons in such a single layer, turning a one-hot code (an input layer of, say,
+thirty thousand neurons, one per word, only one of which will be lit up) into
+d numbers. Earlier we assumed d=100; this embedding would require
+specifying 30,000×100 parameters.
+Then, the all-important attention operation works as follows.[594] Number
+sequences corresponding to a “query” Q and “keys” K are multiplied
+together, and the products are summed. This is a so-called “dot product” for
+every key. If you assume that the numbers in Q and K are all either zero or
+one, you can see that each dot product will equal the number of positions
+where ones match up, since anywhere either Q or K is zero, their product
+will also be zero. (Numbers between zero and one are also allowed,
+resulting in partial matches between Q and K.) The softmax function is then
+applied to the summed products, selecting the best matching key and
+assigning it a number close to one, while the rest of the keys are assigned
+numbers close to zero; these numbers are then used to weight a
+corresponding sequence of “values” V. Attention, then, weights values to
+the extent that their corresponding keys and the query are in agreement.
+
+But where do the query, keys, and values come from? The answer: from the
+context window itself. This may seem counterintuitive, but it’s actually very
+similar to Word2Vec—except that in Word2Vec, the “attention” at a given
+position in the input sequence is weighted equally among the surrounding
+eight words. In a Transformer, the weighting is learned and contextual,
+depending both on the word (or token) at the position in question, which
+acts as a query, and on the value of the “target” word (or token).
+Word positions matter too—something Word2Vec ignores, other than by
+distinguishing between the eight words in the immediate environment
+(which are taken to be interchangeable) and all other words (which are
+ignored). To allow information about word position to be taken into
+account, a “positional encoding” is added into the word embeddings prior to
+applying attention. This encoding is an oscillating function, specially
+chosen to allow either relative or absolute word positions to be queried
+using the attention mechanism.
+As with the deep-learning approach used in CNNs, the Transformer takes a
+basic recipe—in this case, embedding followed by attention—and applies it
+repeatedly. The first time it’s applied (and again assuming word
+tokenization), the result will be something like a fancier Word2Vec.
+Applying it again, though, allows higher-order concepts to be attended to,
+combined, and re-encoded. These could be stock phrases, noun-verb pairs,
+
+descriptions of smells—any combination of features or concepts
+representable using language.
+In practice, Transformers work extremely well. Their performance still
+elicits a degree of bafflement from many neuroscientists and AI researchers,
+though. Why do they work so well? In the description above, I’ve hinted at
+some of the engineering intuitions that motivated their design. However,
+there are a few more angles to this.
+First, we know that random access to short-term memory matters
+enormously in processing language—and many other kinds of data. Words
+far apart in a sentence, or even concepts far apart in an extended piece of
+writing, can relate to each other in ways that are hard to anticipate. RNNs
+have trouble learning such long-range dependencies due to an inherent
+limitation I’ve already alluded to, known as the “vanishing gradient.”
+Here’s the problem: because the RNN operates on data sequentially, its
+hidden state h must change in response to each token encountered, resulting
+in some of the previous hidden state being erased. Even if this progressive
+loss is small, it accumulates exponentially; for instance, if one percent of
+the existing information in h is lost with every token processed, then after
+two hundred tokens only a bit over one percent of the original information
+will remain. So, while in theory an RNN can remember a previously
+encountered token forever, in practice long-range memory is unstable and
+long-range relationships are virtually impossible to learn.
+For many years, an ingenious invention from the 1990s, the “Long Short
+Term Memory” or LSTM,[595] represented the state of the art in getting
+around the vanishing-gradient problem in sequence learning. LSTMs
+introduced auxiliary “gating” variables as part of their hidden state, which
+could vary between zero and one. An “input gate” selectively allows an
+observation x to add to the memory, an “output gate” selectively adds
+memory state into the output o, and a “forget gate” selectively clears
+memory. By learning how to selectively store, protect, and retrieve
+information, the LSTM’s memory is far more stable than that of an RNN,
+though it is still, as the name implies, a short-term memory—more like a
+computer’s volatile RAM memory than its long-term flash or hard-drive
+storage. Unlike a conventional computer memory system, though, the
+LSTM as a whole is still a composition of smooth mathematical functions,
+
+which means that it remains learnable using backpropagation, just like any
+other neural net.[596]
+
+A downside of LSTMs is that, since they remain sequential like RNNs, they
+must decide what to remember (and what to forget) in the moment. They
+can’t revisit the past at will, and, sometimes, decisions about the relevance
+of a word or phrase can’t be made until later. To see why, imagine reading
+one of the short essays that often feature in standardized tests of reading
+comprehension, but needing to do so one word at a time. Picture it literally,
+perhaps on a smart watch, the words appearing consecutively on the watch
+face in strict reading order. Then, after the essay flashes by, a
+comprehension question appears, also one word at a time. Many of these
+questions would be really hard to answer without referring back to the text.
+Moreover, even before you get to any questions, your reading
+comprehension will suffer if your eyes aren’t allowed to skip around,
+predicting a piece of a sentence here, referring back to a noun clause there.
+When your eyes saccade through a paragraph, their movements are far from
+those of the ball bouncing forward word-by-word in a karaoke video.
+The attention layers of the Transformer endow an artificial neural net with
+just the kind of random access needed to overcome this problem—at least,
+provided the whole essay fits into the context window. Moreover, the
+attention processing all happens in parallel, making model training more
+efficient and holistic. There is no vanishing gradient. In effect, every word
+or token in the window can simultaneously calculate how to “pay attention”
+
+to other words, creating higher-level chunks or concepts that can then be
+operated on in the same way with another attention layer. The correct
+prediction of a single token involves a flow of information from the entire
+context window up through this hierarchy of meaning.
+
+But Is It Neuroscience?
+While it’s often claimed that Transformers aren’t brain-inspired the way
+CNNs and RNNs were, attention is, of course, a central concept in
+neuroscience and psychology. The difference lies in the level of description.
+Many theories of consciousness and cognition feature attention
+prominently, but don’t define it mathematically; this makes it unclear
+whether Transformer attention and human attention have anything to do
+with each other. Neither are psychological accounts of attention rigorous
+enough to give us an experimental test.
+Still we do have ample behavioral evidence of something like an attention
+hierarchy. When we consciously recall information or answer questions, we
+can’t really “bear in mind” more than a small handful of facts, ideas, or
+observations at a time.[597] However, as our brains develop and we learn, we
+become increasingly proficient at grouping sequential percepts or actions
+into larger and larger chunks.
+This is well illustrated by the techniques people use to compete in “memory
+sports,” in which participants vie to memorize and recall long sequences of
+random numbers, cards, or other data under intense time pressure. As
+journalist and US Memory Championship winner Joshua Foer has written,
+“Though every competitor has his own unique method of memorization for
+each event, all mnemonic techniques are essentially based on the concept of
+elaborative encoding, which holds that the more meaningful something is,
+the easier it is to remember.”[598] The idea, then, is to attach arbitrary pieces
+of information to unique but semantically meaningful concepts—say, a
+squirrel holding a slice of pizza. As sequences increase in length, the
+method can be applied recursively. Perhaps the squirrel is one of several
+animals having a pizza party.
+Far from being just a weird trick for a niche mental sport, this is what we do
+all the time, minus the arbitrariness of imaginary squirrels and pizzas. When
+we process language, for instance, primitive sounds are grouped together
+
+into words, words into stock phrases, phrases into sentences, and sentences
+into larger ideas. When we don’t know a language, we will be hard pressed
+to remember the sequence of sounds making up a single word for more than
+a few seconds, but, in our native language, we can easily remember whole
+sentences because we have rich representations allowing us to keep these
+larger chunks in mind.[599] If this sounds a lot like compression—that’s
+exactly what it is.
+The parallel and attentional nature of this hierarchical chunking process
+becomes evident in real-life settings where we must separate signal from
+noise, such as following a conversation in the middle of a loud cocktail
+party (a famous problem in signal processing known as the “cocktail party
+problem”[600]). When we do this, we use information from every sensory
+modality and at every level of description to help us attend to the speaker
+against a babble of background noise, from low-level acoustic cues like
+pitch and sound direction to conceptual prediction based on a high-level
+understanding of the topic under discussion.[601] Unsurprisingly,
+Transformer models are the state of the art for solving the cocktail party
+problem.[602]
+Once it became clear how powerful Transformers are at solving the same
+kinds of problems our brains routinely handle, neuroscientists began
+looking for more mechanistic relationships between brains and
+Transformers. While no smoking gun has yet appeared—and there is
+unlikely to be one—several lines of research do suggest tantalizing
+parallels.
+One such parallel is between positional encoding in Transformers and in the
+hippocampus. As mentioned in chapter 7, the hippocampus is an ancient
+part of the brain, dating back in some form to early vertebrates. Recall that
+its original function was likely the real-time construction of spatial maps,
+although, as we learned from Henry Molaison, we also use it to form
+episodic memories. In 2014, a Nobel Prize was awarded to the discoverers
+of hippocampal “grid cells,” a sort of Cartesian positioning system that
+appears to encode the movements of an animal through space. These cells
+light up in beautiful, regular patterns in the hippocampi of rats as they
+navigate mazes.
+
+Growing evidence suggests that the hippocampus’s spatial-mapping and
+episodic-memory-formation tasks may be related, or even identical. Perhaps
+this isn’t so surprising. The oldest memory-sports trick in the book, dating
+back to antiquity, is the “memory palace,” in which you memorize long
+sequences or complex associations by visualizing them as literal features in
+an imaginary (or real) environment. As you mentally move from room to
+room, you “see” those features and can associate them with the desired
+content via elaborative encoding. Such tricks aside, we often conflate space
+and time in thinking about journeys, and we commonly describe life itself
+as a long journey. Revisiting memories is not so different from mentally
+retracing a journey in space.
+As it turns out, if, when performing a spatial-navigation task, the positional
+encoding of a Transformer is learned rather than hand-specified, the learned
+encoding generates patterns that look a lot like grid cells, along with related
+patterns like the “band cells” and “place cells” also observed in
+hippocampus.[603] The similarity is highly suggestive.
+Remember, positional encoding was needed in the design of the
+Transformer to “tag” token embeddings with information about their
+absolute and relative ordering; without such tagging, every attention
+operation would be making connections among a disordered bag of words.
+If the Transformer operates on spatial data, the tagging needs to express
+spatial relationships, and patterns that look like grid cells, band cells, and
+place cells are the most natural building blocks for composing these tags.
+The brain seems to have hit on the same solution, for the same reason.[604]
+Autobiographical learning and spatial-environment learning are like any
+other kind of learning, where the embeddings include a spatiotemporal tag.
+It looks as if the hippocampus both generates this tag and does the initial
+rapid memorization of tagged embeddings, which may later be consolidated
+into the cortex via replay.
+At a more cellular level, traditional, neuron-centric views of computation in
+the brain have likely left important elements out of the picture. A startling
+2023 paper suggests that interactions between neurons and astrocytes, a
+type of “glial cell” ubiquitous in the brain, could implement a Transformerlike attention mechanism.[605] Big if true!
+
+Glial cells are still poorly understood, despite comprising more than half the
+volume of the brain and spinal cord. They are sometimes described as
+“structural” and are known to provide various “support functions,” but they
+don’t seem to directly participate in the rapid neuron-to-neuron electrical
+signaling that most neuroscientists spend their time studying.[606]
+Nonetheless, astrocyte processes ensheath a great many synapses—about
+sixty percent in the hippocampus—to form so-called “tripartite synapses,”
+and the way they modulate the transmission of signals across these synapses
+looks suspiciously like the attention dot product. I’m speculating now, but
+attention certainly seems like it should be important in deciding which
+tagged embeddings to memorize, or, later, for the cortex to query the
+hippocampus for replays.
+Such lines of thought suggest that, while the Transformer’s design may
+originally have been less neurally inspired than those of earlier artificial
+neural nets, Transformers may ultimately prove just as relevant to our
+evolving understanding of how the brain works. While the Transformer is
+an engineered artifact, its key features—positional encodings and attention
+dot products—may be more like discoveries than inventions. These features
+are extremely valuable for sequence modeling, and may have been chanced
+upon by evolution too.
+Still, one important property of the Transformer is certainly not brainlike. It
+is—like a CNN—entirely feed-forward. For computer scientists, its lack of
+recurrent connectivity is a selling point, making it easier to train using
+massive parallelism. On the other hand, this means that a neuroscientist
+can’t interpret the research agenda of “looking for a Transformer model in
+the brain” too literally.
+The problem is not only that our brains evidently have lots of recurrent
+connectivity, but also that our short-term memory doesn’t work the way a
+Transformer’s context window does. Every time the Transformer generates
+a new token, it does so using complete, perfect recall of every previous
+token in the context window—although the moment a token scrolls out of
+that window, it is completely forgotten.
+Since the size of the context window is thus such a fundamental limitation
+on the performance of a Transformer, a great deal of effort has gone into
+progressively lengthening it. In 2019, OpenAI’s GPT-2 had a context
+
+window of a thousand tokens. By early 2024, Google had released a version
+of its Gemini model with a context window of a million tokens—enough to
+fit J. R. R. Tolkien’s entire Lord of the Rings trilogy. Pause and think for a
+moment about what this means: with every token this model emits, each
+word in a Lord of the Rings–length text can “attend” to each other word, a
+process that is then reiterated for every additional attention layer.[607]
+Our short-term recall works differently. We have fine-grained access to our
+experience in the immediate past, but the same compression mechanism
+that allows competitive memorizers to hierarchically chunk information
+also blurs the details of the more distant past. In general, the farther back
+we go, the more abstract our recall; however certain details are also stored
+in long-term memory—which Transformers, as of 2024, still lack, though
+there is rapid progress in this area.
+The “stickiness” of abstractions made in the past, presumably implemented
+via some combination of short-term feedback and long-term stored
+memories, allows us to “emit tokens” (as it were) in response to a question
+about J. R. R. Tolkien’s trilogy without going back and re-reading the whole
+thing, relating every word in it to every other word, with every syllable we
+utter.
+An implication is that Transformers can be at once subhuman and
+superhuman in their performance. They are increasingly superhuman in
+their ability to “keep in mind” an enormous text in full detail while
+answering questions. They are also clearly not as efficient as they might be,
+for they constantly throw away the vast majority of the computation they
+perform. All of the attending and understanding involved in generating a
+token is “forgotten” from layer to layer, and from one output token to the
+next, even though many of those token relationships, and the insights
+gleaned from them, remain unchanged. Some research has gone into
+recycling these redundant computations, but in my opinion, not nearly
+enough.[608]
+
+No Introspection
+The absence of any preserved state between emitted tokens is not only
+wasteful; it appears to produce some howlers. For instance, a Transformer
+might answer a complex word problem correctly, but then, when asked how
+
+it solved that problem, offer a spurious explanation that would not actually
+yield the correct solution. AI skeptics tend to latch onto situations like these
+to bolster claims that the models are not really intelligent, or don’t truly
+understand anything, but are just throwing together a pastiche of plausiblesounding words. Are they right?
+This failure case is worth analyzing more closely, in light of what we know
+about both Transformers and humans. First, we should keep in mind that
+the likelihood of a model getting the answer to a word problem right
+without working it out correctly is, in general, pretty low—it’s possible, of
+course, but for most free-response word problems it’s a “stopped clock is
+right twice a day” kind of situation.
+The performance of Transformers on word problems may not be perfect,
+but it’s far from a stopped clock. In a 2023 independent evaluation of
+ChatGPT on word problems, the model gave the wrong answer only twenty
+percent of the time—when asked to show its work. The failure rate rose to
+an abysmal eighty-four percent when it wasn’t asked to show its work—
+we’ll see why shortly—but even an eighty-four percent failure rate is far
+better than random guessing.[609]
+It’s worth noting here, too, that Transformers are usually run with a
+“temperature” setting, which is used to draw samples from their softmax
+output layer. That is, if we interpret the array of output activations
+corresponding to possible next tokens as a probability distribution, then
+instead of always picking the likeliest token, a token can be picked with a
+probability that increases with activation level; a low temperature will tend
+to pick the likeliest, while a high temperature will sample more broadly.
+Sometimes temperature is compared to “creativity.” Transformers are more
+interesting to interact with when they are not run at zero temperature—and
+indeed, we know that nonzero temperature (i.e., the use of random
+numbers) is critically important for brains too, per chapters 3 and 5. You
+often need to be a bit creative (read: random) to escape a predator, outfox a
+rival, or win a mate. Effective foraging, as bees and many other animals do,
+requires randomness, too.[610]
+Although a neural net doesn’t have the freedom to dial its own temperature
+up and down, it can do something similar, while running at a fixed
+temperature, by producing differently shaped softmax outputs. A response
+
+with only one high value will be highly reliable or reproducible, while one
+with many roughly equal maxima will make more use of randomness.
+Unlike witty repartee or predator-prey interaction, though, when outputting
+a numerical result for a math problem, there really is only one correct
+response, so ideally the net’s output layer would have only one nonzero
+value. In practice, though, this is never the case. Therefore, at nonzero
+temperature, there’s always some probability that the answer will be wrong
+for no reason at all.
+Humans seem to make simple mistakes sometimes for pretty much the same
+reason. Our brains don’t run at zero temperature either, our neural circuits
+are sensitive to small perturbations by design, and neurons do sometimes
+fire at random. That’s why, when we really need to ensure we’ve gotten
+something right—even something simple—we check and recheck our work,
+and, if it’s complicated, ideally we have someone else check it too.
+Let’s now set temperature aside.
+Given the workings of the Transformer model, it may not be obvious just
+how it could go about solving a mathematical problem, even in theory. It
+can be proven, though, that a Transformer operating repeatedly on a
+scrolling context window is capable of carrying out any computation:
+Transformers are Turing complete. The proof is ingenious, and involves
+thinking about the context window as the tape of a Turing Machine, with
+the model acting as the “head” reading and writing that tape.[611] This
+doesn’t mean that the particular Turing-machine construction in the proof is
+ever used in real life, but once Turing completeness is proven for a system,
+it follows that there are endless ways for that system to perform any given
+computation.
+The implications of this proof go far beyond word problems. Remember: in
+theory, any computable process can run on a Turing-complete system. There
+are, for instance, examples online of Transformer-based chatbots doing a
+convincing job of cosplaying the terminal window of a computer running
+the Linux operating system;[612] Turing completeness means that they can
+indeed emulate a classical computer. Transformers can also learn to
+simulate physics, and, remarkably, can outperform hand-written physics
+simulations.[613]
+
+Mathematical proofs aside, Transformers seem to be highly efficient at
+learning arbitrary computations like these. Why this should be the case is
+even more poorly understood than why CNNs can learn so many real-world
+functions efficiently, though the phenomenon known as “in-context
+learning,” which I will describe soon, may offer an important clue.
+But let’s return to our question. First, a Transformer generates the right
+answer to a word problem. Then, it offers a wrong explanation of how it
+arrived at that answer—an explanation that doesn’t even yield the same
+result. How could this happen?
+Keep in mind that Transformers are purely feed-forward neural networks
+with no hidden state maintained between the emission of one token and the
+next. All they can “see” at any moment is the stream of tokens emitted so
+far. So if, in the process of generating a single output token, the model
+manages to solve a whole word problem, it won’t have any way to recall the
+steps it took when it generates subsequent tokens—even if those tokens
+purport to explain how it arrived at its original answer.
+That doesn’t prevent it from having a go, of course. But there’s no
+guarantee that the steps it comes up with will correspond to what it actually
+did. It may be attending too closely to formulating this account, whether
+right or wrong, to check whether it’s consistent with its own earlier
+response. One can, of course, gently ask questions like, “Are those steps
+consistent with your earlier response?” and, as models improve, the
+accuracy of this kind of self-checking is improving (it is, after all, just
+another word problem). Calling this introspection is not quite right,
+because, again, the model has no internal state; remember, it can only see
+what you can see for yourself in the context window.
+The Transformer’s statelessness recalls the shortcomings of purely feedforward game playing AIs that use Monte Carlo tree search, like AlphaGo.
+When AlphaGo has a brilliant idea and executes the first move of a surefire
+long-game strategy, but then fails to re-identify and carry on with that same
+strategy in a subsequent move, it runs afoul of the same problem as a
+chatbot with an inconsistent story. Without some persistent internal state, it
+doesn’t seem possible for a model to stick to a game plan, an attitude, or
+anything else.
+
+What is so remarkable—about both AlphaGo and Transformer-based
+chatbots—is how little that seems to matter. Usually, the plan a model is
+following can be inferred from past moves, and if it’s still the best plan, the
+model will carry it to the next step. This holds even when the “moves” are
+emitted tokens. Every token is a de novo improvisation on everything that
+came before, a “yes, and.” Sometimes, though, the thread of that plan will
+unaccountably be lost. Or will it?
+An even more intriguing possibility arises from the massively parallel
+nature of the Transformer architecture. Recall that, in the first attention
+layer alone, every token in the context window is “querying” every other
+token. The model’s parallelism only collapses in the softmax layers, which
+focus the processing of subsequent layers only on certain prior
+computations, while ignoring others. This process continues all the way to
+the final output layer, when one out of many potential output tokens is
+chosen.
+The “thought process” behind each of those alternative tokens may have
+been quite different. It seems likely that on word-problem tests where a
+chatbot performs decently, but not perfectly, there was a “thought process”
+that was on the right track, but it lost out to others in a softmax layer—
+possibly early on, or possibly only at the end.
+All of this should sound familiar. While the brain is certainly not a
+Transformer, it, too, is massively parallel. As far as we know, each cortical
+column or region is making its own prediction based on its own inputs, and
+lateral inhibition (the inspiration for softmax) results in one prediction
+winning out over the others.
+The connectivity between brain regions is highly constrained; one region
+can’t possibly know all of the details about how another region arrived at its
+prediction. All it can see is the result. But, as split-brain and choiceblindness experiments show, this doesn’t prevent a downstream brain region
+like the interpreter from making up a likely story post hoc. In doing so, it,
+too, is simply carrying out an act of prediction.
+
+Step by Step
+This brings us to one of the more surprising AI papers of the chatbot era:
+“Chain-of-Thought Prompting Elicits Reasoning in Large Language
+
+Models,” published in 2022 by a team at Google Research.[614] Unlike most
+academic papers in the field, this one contains no math whatsoever, and
+involves no development or training of new models. Instead, it makes a
+simple observation: encouraging a large language model to “show its work”
+results in greatly improved performance on word problems; hence the
+difference in ChatGPT performance described earlier when not showing its
+work (eighty-four percent error rate) versus showing its work (twenty
+percent error rate).
+An example from the beginning of the chain-of-thought paper illustrates
+how it works. It shows two interactions with a large language model that
+use different prompts to pose the same word problem. (A “prompt” here just
+means pre-populating the context window with some canned text.) Here’s
+the first prompt:
+Q: Roger has five tennis balls. He buys two more cans of tennis balls.
+Each can has three tennis balls. How many tennis balls does he have
+now?
+A: The answer is eleven.
+Q: The cafeteria had twenty-three apples. If they used twenty to make
+lunch and bought six more, how many apples do they have?
+Remember, the model will now generate further tokens of high probability
+given the previous tokens. These previous tokens have a clear alternating
+structure: Q, a word problem posed as a series of statements followed by a
+question, followed by A, an answer of the form “The answer is….”
+I won’t keep you in suspense any longer. The model generates:
+A: The answer is twenty-seven.
+This is, of course, wrong. But here’s the alternative prompt—it begins the
+same way, but includes an illustrative answer before asking a followup
+question:
+Q: Roger has five tennis balls. He buys two more cans of tennis balls.
+Each can has three tennis balls. How many tennis balls does he have
+now?
+A: Roger started with five balls. Two cans of three tennis balls each is
+six tennis balls. 5+6=11. The answer is eleven.
+
+Q: The cafeteria had twenty-three apples. If they used twenty to make
+lunch and bought six more, how many apples do they have?
+Both word problems, the Q’s, remain exactly the same. However, now the
+worked example that sets the pattern for how to answer doesn’t just blurt
+out an answer. Instead, it works things out step by step. Therefore, the
+highest probability next tokens will mirror this new style, and the results are
+a lot better:
+A: The cafeteria had twenty-three apples originally. They used twenty
+to make lunch. So they had 23−20=3. They bought six more apples,
+so they have 3+6=9. The answer is nine.
+Nailed it!
+The insight here won’t be news to any middle school math teacher: if you
+want to get a word problem right … show your work. Break the problem
+into steps and write down your intermediate results. Good advice for a
+student is also good advice for a language model.
+It’s not even necessary to provide a sample question and answer. Much of
+the improvement can be obtained simply by posing the desired problem,
+then appending the sentence, “Let’s think step by step.”[615]
+Thinking step-by-step isn’t only useful for solving word problems, but in
+every situation where synthesizing knowledge, applying common sense,
+planning, following a sequence of events, or reasoning is valuable, as in
+these examples, also from the chain-of-thought paper:
+Q: Is the following sentence plausible? “Joao Moutinho caught the
+screen pass in the NFC championship.”
+A: Joao Moutinho is a soccer player. The NFC championship is part
+of American football, not soccer. So the answer is no.
+Q: Yes or no: Would a pear sink in water?
+A: The density of a pear is about 0.6 g/cm^3, which is less than water.
+Thus, a pear would float. So the answer is no.
+Q: A coin is heads up. Maybelle flips the coin. Shalonda does not flip
+the coin. Is the coin still heads up?
+A: The coin was flipped by Maybelle. So the coin was flipped one
+
+time, which is an odd number. The coin started heads up, so after an
+odd number of flips, it will be tails up. So the answer is no.
+Well before the publication of this paper, it had already been shown that
+making models bigger improves their performance across a wide range of
+tasks.[616] Hence the race among tech companies to make ever-larger
+models. However, performance at multistep word problems seemed to be
+plateauing at “meh.” Chain-of-thought prompting doesn’t just improve on
+the “meh”; it re-establishes the scaling law.
+
+To understand why, consider a rock-climbing analogy. Humans skilled at
+this sport (not me) can not only haul their way over a waist-high boulder
+(OK, even I can do that), but also scale giant cliffs, like the daunting threethousand-foot El Capitan in Yosemite. The difference between vaulting over
+a small boulder and climbing an enormous cliff has to do with hand- and
+footholds—and time. Longer, more muscular limbs might let you vault over
+
+a somewhat bigger boulder, or reach a more distant handhold on a long
+climb, but it’s not realistic to imagine scaling El Capitan in a single
+dynamic movement, like Superman. It has to be done “step by step,” with
+each move a transition from one stable(ish) position to the next.
+Language offers a powerful augmentation to thought because it provides
+those hand- and footholds.[617] That’s how it powers cultural accumulation.
+Written symbols, whether text, math, or code, are even more robust, since
+when committed to a durable medium, they remain stable over far longer
+periods than neural activity or even an individual’s long-term memory. Like
+a sequence of pitons driven into the cliff face, they allow new climbers to
+scamper up the sections “solved” by their forebears, even centuries earlier,
+rather than having to make each climb arduously from the bottom.[618]
+Little word problems like calculating how many apples the cafeteria has left
+are hardly rocket science. Still, they’re some distance up the cliff, and they
+require a few moves. Doing such a problem in one leap, without writing
+anything down or even producing an intermediate mental result, is errorprone, both for humans and for language models. Moreover, when done as a
+single dynamic computational act, it will leave no record that can be used to
+explain (or critique, or reproduce) the reasoning later. When a Transformer
+gets such a problem right without chain-of-thought, that means that any
+consecutive computations will need to have been carried out by a cascade
+of attention layers; none of those neural activations leaves a trace.
+People can sometimes work this way, too. Skilled intuitionists can “just
+see” the answer to a (seemingly) multi-step math problem, without
+necessarily being able to articulate their thinking—any more than you could
+articulate how you know that 3+2=5. In fact, if someone hasn’t mentally
+broken a problem down into steps and articulated those steps to themselves,
+there is no reason to expect that their left-hemisphere interpreter would
+have access to the neural-activity cascade that led to the answer (whether
+right or wrong), or be able to offer any reliable narrative of it.
+That doesn’t mean we won’t have a go anyway, but it will be an unwitting
+act of reverse engineering. As choice blindness shows, we labor under the
+illusion that we can interrogate an “inner self” and explain our thinking, but
+this will only track with reality to the extent that we have used hand- and
+footholds, and can recall them. In practice, this probably looks a lot like an
+
+unspoken mental “token stream,” though it may of course include private
+“symbols” or embeddings that don’t correspond to words.
+Chains of thought, then, are far more than a clever hack to improve chatbot
+performance. They are an illustration of the power of language itself as an
+enabler of complex sequential thought. To summarize:
+1. Breaking a problem up into steps greatly improves the odds of
+arriving at the right answer.
+2. Describing those steps offers a real (as opposed to post-hoc)
+account of the steps taken. This allows for greater introspection.
+It also allows those steps to be discussed, any errors to be
+diagnosed, and the method to be shared with others, including,
+for the literate, in highly durable written form. Chains of thought
+are thus critical to complex cultural transmission, hence cultural
+evolution.
+3. The Transformer brings a fixed amount of computational power
+to bear upon every token it emits. By spreading the answer across
+multiple tokens, that computational power is multiplied; only the
+length of the context window limits the total computation that
+can be mustered.
+The brain is not a Transformer. Still, the Turing completeness of the
+Transformer model, the breadth of intellectual moves it can readily learn,
+and the ability to chain those moves using short-term memory are the key
+prerequisites for general intelligence.
+

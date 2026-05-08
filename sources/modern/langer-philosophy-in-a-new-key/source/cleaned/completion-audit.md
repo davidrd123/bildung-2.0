@@ -1,0 +1,37 @@
+# Langer PNK Completion Audit
+
+Objective restated: produce an audiobook-ready clean text corpus under `sources/modern/langer-philosophy-in-a-new-key/source/cleaned/`, using rendered PDF page images as final authority, preserving page markers and textual apparatus, and logging every remaining uncertainty.
+
+Authority checked:
+
+- PDF: `sources/modern/incoming/books/Philosophy in a New Key, Suzanne K. Langer.pdf`
+- PDF metadata: 255 pages, ABBYY FineReader PDF, unencrypted.
+- Rendered page images: `/tmp/pnk_langer_pages/pnk-NNN.png`
+- Alternate/Kindle screenshots for the supplied-PDF pp. 76-77 gap: `source/page-images/kindle-gap/2026-05-04-185135-p76-p77-gap-start.png`, `source/page-images/kindle-gap/2026-05-04-185146-p77-p78-gap-end.png`, and `source/page-images/kindle-gap/2026-05-04-185225-p78-overlap.png`
+- Current proof ledger: `page-proof-manifest.md`
+- Local artifact search found no alternate Langer PDF, DjVu, EPUB, archive, or book-scan witness under this repo; the durable local witnesses are the supplied PDF, `sources/modern/incoming/books/Philosophy in a New Key - Susanne Langer.txt`, and the copied Kindle screenshots for the pp. 76-77 gap.
+- Mechanical verifier: `python3 tools/verify_langer_philosophy_in_a_new_key.py` passes against the current cleaned corpus, including checks for the cleaned file set, manifest coverage, page-marker coverage, chapter footnote continuity, known OCR garbage, expected raw-only/alternate-witness exception text, the copied Kindle gap screenshot files, and the 2026-05-05 acceptance note for the pp. 76-77 Kindle proof.
+
+## Checklist
+
+| requirement | evidence | status |
+| --- | --- | --- |
+| 1. Every included printed page is checked against a rendered PDF page image. | `page-proof-manifest.md` records visual proof for PDF-backed front matter, printed pp. 1-75, printed pp. 78-239, logical pp. 240-242, and index pp. 243-248. `pdftotext -f 84 -l 85` confirms the supplied PDF jumps from printed p. 75 to printed p. 78. Printed pp. 76-77 have been word-checked against supplied Kindle screenshots and accepted for this corpus on 2026-05-05, but not against the supplied PDF. | Not complete under strict all-included-page supplied-PDF image proof because the second-edition preface has no supplied PDF image. Complete for available PDF-backed pages; pp. 76-77 are alternate-witness word-proofed and accepted. |
+| 2. Page markers are retained and placed at page boundaries. | Marker audit reports contiguous chapter/back-matter markers: `010` has 1-20; `011` 20-42; `012` 42-63; `013` 63-83; `014` 83-116; `015` 116-138; `016` 138-165; `017` 165-199; `018` 199-216; `019` 216-239; `030` 240-242; `031` 243-248. | Pass, with documented inferred markers for logical pp. 240-242. The pp. 76 and 78 boundaries are bracketed by adjacent PDF pages; the Kindle screenshots do not show the internal p. 77 boundary, so `[page 77]` remains from the existing missing-page placement, accepted for current corpus use. |
+| 3. Prose, quotations, headings, footnotes, bibliographic text, and index entries are word-checked. | The page-batch ledger records page-image proof for each available PDF range and specific correction classes. The index row records full two-column linearization and restored p. 247 entries. Printed pp. 76-77 were word-checked against Kindle screenshots dated 2026-05-04. | Pass for available PDF-backed pages and for pp. 76-77 against the alternate Kindle witness; not image-verifiable for the raw-only second-edition preface. |
+| 4. Footnotes are preserved readably and not fused into body text. | Footnote audit reports contiguous numbered notes in every chapter: ch. 1 has 1-22; ch. 2 has 1-19; ch. 3 has 1-14; ch. 4 has 1-18; ch. 5 has 1-53; ch. 6 has 1-26; ch. 7 has 1-35; ch. 8 has 1-80; ch. 9 has 1-17; ch. 10 has 1-19. | Pass, except p. 105 footnote 38 text is restored from raw witness because adjacent rendered page images skip from notes 35-37 to notes 39-40. |
+| 5. Paragraph breaks, block quotations, titles, lists, and index formatting are clean and consistent. | Chapter rows in `page-proof-manifest.md` record reflowed paragraphs, cleaned quotation blocks, retained musical/formula placeholders, cleaned suggested reading, and index running-header removal. `rg '^INDEX$'` finds only the first index title. | Pass for cleaned files reviewed so far. |
+| 6. No known OCR garbage remains. | `python3 tools/verify_langer_philosophy_in_a_new_key.py` passes; it checks broken line-end hyphenation and known garbage patterns. `git diff --check` passes. | Pass for known patterns; this is not a substitute for the logged witness gaps. |
+| 7. Proof manifest records cleaned file, printed page range, visual-check status, and remaining uncertainties. | `page-proof-manifest.md` has per-file proof rows, page-batch ledger, scope notes, and open proof blockers. The verifier checks that every cleaned text file is covered by the proof and cleanup manifests. | Pass. |
+| 8. Remaining uncertainty is explicitly logged with page number and reason. | Open blockers list printed pp. 76-77 missing from the supplied PDF but Kindle word-proofed and accepted, printed p. 105 footnote 38 not visible, logical pp. 240-242 inferred, and raw-only second-edition preface. The publisher catalog at PDF p. 249 is intentionally retained as proofed source matter. The verifier checks that the raw-only/alternate-witness exception text and blocker notes remain present. | Pass as logging; remaining deferred items are the second-edition preface and p. 105 footnote 38. |
+| 9. Cleaner/regeneration workflow remains repeatable, or manual correction is clearly recorded. | `cleanup-manifest.md` records the extraction/cleanup basis. `page-proof-manifest.md` records direct manual corrections by page batch. README states rerunning the cleaner alone will not reproduce manual proof corrections. `tools/verify_langer_philosophy_in_a_new_key.py` provides a repeatable mechanical verification gate for the current cleaned corpus, including manifest coverage checks and safeguards for documented witness exceptions. | Pass for documentation and verification, but not a fully automated regeneration path. |
+
+## Current Verdict
+
+Do not mark the active goal complete yet. The available supplied-PDF pages are recorded as page-image proofed, and the pp. 76-77 Kindle proof has been accepted for the current corpus state. The objective still has deferred witness/scope items:
+
+- `001-preface-to-the-second-edition.txt` is absent from the supplied PDF and remains raw-witness-only.
+- Printed p. 105 footnote 38 has a visible body marker, but adjacent rendered page images skip from notes 35-37 to notes 39-40; it is retained as `Ibid., p. 437.` from the raw witness. To verify from Kindle, locate the p. 105 sentence ending `there is no reason for thinking that this has always been the case.` and open/tap footnote marker 38.
+- The publisher catalog page at PDF p. 249 is intentionally retained as proofed source matter from the supplied PDF.
+
+Paused state as of 2026-05-05: no further cleanup is pending. The remaining deferred items are a page-image witness or scope decision for the second-edition preface, and either a Kindle footnote-38 witness or explicit acceptance of the raw-witness restoration for p. 105. For the second-edition preface, locate `Preface to the Second Edition` and capture from `In offering Philosophy in a New Key` through the signature/date ending `May 7, 1951`. A local artifact search did not find another image witness for the second-edition preface.
