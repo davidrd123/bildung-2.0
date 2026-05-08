@@ -27,11 +27,11 @@ If this README conflicts with higher-order repo docs, it loses. See:
 
 ## Standard outputs for a day-folder
 
-Not every folder will have all of these yet, but this is the target shape:
+Not every folder will have all of these, and some folders may have none. A chat that is purely exploratory — no source contact, no methodological payload — may legitimately earn no artifacts. When outputs are produced, this is the target shape:
 
 1. `sift-notes.md`
    Atelier complement: portable phrases, exemplar moments, cross-connections, “why this matters,” and explicit quarantine warnings.
-   This is allowed to decay.
+   Two-valenced: allowed to decay if not returned to, and also available for unpacking when a later encounter pulls on a specific entry (see *Unpacking generative material* below).
 
 2. `extractions/*actual-questions*.md`
    Folder-level extraction: the actual question stack, what survives, what should evaporate, and the next bounded move (if any).
@@ -40,6 +40,31 @@ Not every folder will have all of these yet, but this is the target shape:
 3. `extractions/*dossier*.md` (optional, but preferred for large/high-value files)
    Line-anchored barrier note: a navigable index into a long chat with concrete anchors, capturing exactly where key moves happen.
    Not method canon. Not source authority.
+
+## Current model assignment
+
+The three outputs have different model temperaments attached in current practice:
+
+- `extractions/*actual-questions*.md` and `extractions/*dossier*.md` — GPT-5.2 / Codex-temperament. Detail-patient, literalist, refuses to smooth gaps. Suited to line-anchoring and strict promotion-audit.
+- `sift-notes.md` — Claude-Opus-temperament. Synthesis-drive, cross-weave, textural. Suited to noticing exemplar patterns, portable phrases, and corpus-weave across days.
+
+This is current practice, not a permanent rule. What matters is the role each artifact plays; the model assignment is the current tuning of role-to-temperament. Running the same model on both passes risks pass-2 becoming a gloss on pass-1 rather than an independent reading.
+
+## Unpacking generative material
+
+`sift-notes.md` is a staging register for generative material — vocabulary emergence, portable phrases, candidate atelier entries, exemplar patterns. Material in it has two forward paths:
+
+- **Decay.** Entries not returned to fade. Sift-notes is not an archive.
+- **Graduation.** When later pressure (a new encounter, a recurring question, source-contact in a campaign) pulls on a sift-notes entry, it may migrate to a more specific shape:
+    - `00-Notes/atelier/curio.md` — conceptual distinctions, phrases that do work in conversation without earning promotion.
+    - `00-Notes/atelier/sparks/` — single-image compressions.
+    - `00-Notes/atelier/pairings/` — two-thinker or two-text staging.
+    - `00-Notes/atelier/ghost-books/` — unwritten-book intuitions.
+    - `00-Notes/working-syntheses/` — dated working material that wants cross-source tracking.
+
+Graduation is pressure-driven, not scheduled. Most sift-notes entries won't migrate, and that is correct.
+
+(`00-Notes/atelier/encounters/` is currently at seed status per its own README and is not a stable destination for sift-notes material. Route to the canonical buckets only.)
 
 ## Line anchors and integrity
 
@@ -61,6 +86,10 @@ Chat content is treated as **more trustworthy** when:
 - It performs a correction under pressure (e.g., a lexical or provenance slip corrected by direct text contact).
 - It explicitly names a failure mode that is itself visible in the transcript (shape drift, ontology upgrades under citation, inherited-authority laundering, etc.).
 
+## Shape check
+
+If a folder's `sift-notes.md` is materially shorter than its `extractions/*dossier*.md`, either the chat was thin (sift correctly has less to say) or pass-2 hasn't actually been run and the sift is a restatement of the dossier. Distinguish by checking whether the sift contains portable phrases, exemplar patterns, or cross-connections that the dossier doesn't.
+
 ## Promotion boundary
 
 Chats are a register for:
@@ -81,4 +110,10 @@ If a chat produced something valuable, prefer:
 - leaving it here with explicit quarantine language
 
 Do not let “beautiful narrative shape” outrank the repo’s “slow encounter” work.
+
+## Against grooving
+
+The three-artifact target shape is descriptive, not a template to follow. Each chat's material should shape the specific form of its `sift-notes.md` — section headings, emphasis, what gets preserved as portable vs. what gets merely indexed. If two consecutive days' sift-notes share identical scaffolding (same headers, same emphasis pattern), the form has started grooving and something needs to change — either the shape of the sift, or the sift should not be written at all for that day.
+
+This README is subject to the same discipline. If future sessions find it prescribing form rather than describing role, the README should be revised rather than defended.
 

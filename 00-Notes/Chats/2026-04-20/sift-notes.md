@@ -85,11 +85,13 @@ Rosen/Hui/Lotman chat has one “good alarm bell”:
 The Rosen/Hui/Lotman chat spawned a few atelier-grade outputs that are better kept outside the chat file itself:
 
 - `00-Notes/atelier/encounters/encounter-2026-04-19-lotman-mooney-retrospective-determination.md`
-- `00-Notes/atelier/encounters/spark-2026-04-19-caesura-technologies.md`
-- `00-Notes/atelier/encounters/spark-2026-04-19-list-was-thinking.md`
-- `00-Notes/atelier/encounters/passage-encounter-bench-candidate.md`
+- `00-Notes/atelier/sparks/spark-2026-04-19-caesura-technologies.md`
+- `00-Notes/atelier/sparks/spark-2026-04-19-list-was-thinking.md`
+- `00-Notes/method/passage-encounter-bench-candidate.md`
 
 These are still seed status, but they’re more usable than trying to fish the same material back out of a 2.5K-line chat export.
+
+(Note: the three non-encounter files above were initially filed under `encounters/` by the agent that produced them; relocated to their canonical buckets on 2026-04-20 since `encounters/` as a bucket is at seed status and the files' own internal references said they belonged elsewhere. Pointers updated here for continuity.)
 
 ## What To Quarantine
 
