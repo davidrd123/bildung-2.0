@@ -1358,3 +1358,371 @@
   notes: "The color-space passage shows that geometrical treatment can apply to a region of intuitive givens other than space. This keeps `anschaulich` tied to givenness without reducing it to visuality alone."
   evidence:
     - "parts/013-math-03-12-projektive-geometrie-farbraum.md"
+
+- term: "Relativitätsproblem"
+  kind: concept
+  preferred: "relativity problem"
+  alternatives:
+    - "problem of relativity"
+  status: open
+  notes: "Section 13 uses the term before the physics discussion in the narrow Einsteinian sense. The problem is how to formulate objectivity by varying away contingent and individually exhibited factors and retaining invariant relations."
+  evidence:
+    - "parts/014-math-03-13-relativitaetsproblem.md"
+
+- term: "Objektivität"
+  kind: concept
+  preferred: "objectivity"
+  alternatives: []
+  status: open
+  notes: "Section 13 begins with objectivity as a norm of knowledge and makes it experience-dependent: an assertion earns objective significance only if omitted contingent factors can be freely varied without changing its truth. Mathematically, this becomes invariance under the relevant automorphism group. Section 14 applies the same pressure to congruence/similarity: Δ-equivalence is objective exactly when Δ is invariant under Γ."
+  evidence:
+    - "parts/014-math-03-13-relativitaetsproblem.md"
+    - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+
+- term: "Zufallsfaktor"
+  kind: concept
+  preferred: "contingent factor"
+  alternatives:
+    - "accidental factor"
+  status: open
+  notes: "Not a stochastic random variable here. Weyl's examples are the gravitational field and an individually indicated point P: factors omitted from an elliptical statement only when their variation does not affect truth."
+  evidence:
+    - "parts/014-math-03-13-relativitaetsproblem.md"
+
+- term: "Automorphismus"
+  kind: concept
+  preferred: "automorphism"
+  alternatives: []
+  status: seed
+  notes: "A one-to-one mapping of a point-field onto itself that leaves the basic relations undisturbed. Section 13 makes automorphisms the exact tool for defining objective equality, similarity, and objective relations. Section 14 splits geometrical automorphisms from physical automorphisms: geometry takes the normalizer, while physics is constrained to the orthogonal group Δ."
+  evidence:
+    - "parts/014-math-03-13-relativitaetsproblem.md"
+    - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+
+- term: "Sachbereich"
+  kind: concept
+  preferred: "subject-domain"
+  alternatives:
+    - "object-domain"
+    - "domain of things"
+  status: open
+  notes: "Weyl uses the term in section 13 for the domain whose axioms treat basic relations, before deciding what the things in that domain are. The point is methodological neutrality before the elements are called points."
+  evidence:
+    - "parts/014-math-03-13-relativitaetsproblem.md"
+
+- term: "Punktfeld"
+  kind: concept
+  preferred: "point-field"
+  alternatives:
+    - "field of points"
+  status: open
+  notes: "The neutral field of elements called points for the purposes of the automorphism and transformation-group analysis. In a continuum, its points cannot be conceptually fixed one by one without a reference frame."
+  evidence:
+    - "parts/014-math-03-13-relativitaetsproblem.md"
+
+- term: "Transformationsgruppe"
+  kind: concept
+  preferred: "transformation group"
+  alternatives: []
+  status: open
+  notes: "Weyl's Klein/Erlangen criterion: a geometry is determined by a transformation group. The group states the degree of homogeneity of a point-field and defines which relations count as objective. Section 14 adds the normalizer as the way one group determines a wider group of similarities."
+  evidence:
+    - "parts/014-math-03-13-relativitaetsproblem.md"
+    - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+
+- term: "invariant"
+  kind: concept
+  preferred: "invariant"
+  alternatives: []
+  status: open
+  notes: "The operative mathematical form of objectivity in section 13: a point-relation is objective when it is invariant with respect to all automorphisms of the relevant group. Section 14 uses invariant subgroups to make Δ-equivalence an objective relation under Γ."
+  evidence:
+    - "parts/014-math-03-13-relativitaetsproblem.md"
+    - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+
+- term: "Bezugsrahmen"
+  kind: concept
+  preferred: "reference frame"
+  alternatives:
+    - "frame"
+  status: open
+  notes: "The frame is necessary for assigning reproducible symbols to points in an infinite continuum. Weyl later allows the frame itself to be treated logically as the coordinate assignment p -> x = f(p)."
+  evidence:
+    - "parts/014-math-03-13-relativitaetsproblem.md"
+
+- term: "Koordinatensystem"
+  kind: concept
+  preferred: "coordinate system"
+  alternatives: []
+  status: open
+  notes: "In section 13 the coordinate system is the necessary residue of objectification: it enables conceptual fixation of continuum-points but must itself be exhibited by an individual demonstrative act."
+  evidence:
+    - "parts/014-math-03-13-relativitaetsproblem.md"
+
+- term: "symbolische Konstruktion"
+  kind: concept
+  preferred: "symbolic construction"
+  alternatives: []
+  status: open
+  notes: "Section 13 states that all knowledge, even when it begins from intuitive description, tends toward symbolic construction. Objectivity is satisfied by constructing a symbolic picture of the world and considering invariant relations in the symbol field."
+  evidence:
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+    - "parts/014-math-03-13-relativitaetsproblem.md"
+
+- term: "Ich-Vernichtung"
+  kind: concept
+  preferred: "annihilation of the I"
+  alternatives:
+    - "I-destruction"
+    - "elimination of the I"
+  status: open
+  notes: "Weyl's deliberately stark name for objectification by eliminating the I and its immediate intuitive life. Section 13 says this does not succeed without remainder: the coordinate system remains as residue."
+  evidence:
+    - "parts/014-math-03-13-relativitaetsproblem.md"
+
+- term: "Topologie"
+  kind: concept
+  preferred: "topology"
+  alternatives: []
+  status: open
+  notes: "Introduced in section 13 as the geometry corresponding to the most comprehensive automorphism group possible for a continuum: all continuous transformations. Section 15 puts the heavier load on combinatorial topology: topology frees geometry from differentiability by replacing global numerical coordinates with topological skeletons and can decide exact questions about vague continua."
+  evidence:
+    - "parts/014-math-03-13-relativitaetsproblem.md"
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "Kongruenz"
+  kind: concept
+  preferred: "congruence"
+  alternatives: []
+  status: seed
+  notes: "Section 14 starts from rigid bodies and measurement: congruence is first a pointwise mapping between pieces of space occupied by the same rigid body in different positions, then is formalized by the Euclidean motion group Δ⁺."
+  evidence:
+    - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+
+- term: "Ähnlichkeit"
+  kind: concept
+  preferred: "similarity"
+  alternatives:
+    - "resemblance"
+  status: seed
+  notes: "In section 14, similarity is not generic resemblance. It is governed by the automorphism group Γ, identified as the normalizer of the congruence/motion group Δ⁺."
+  evidence:
+    - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+
+- term: "Normalisator"
+  kind: concept
+  preferred: "normalizer"
+  alternatives: []
+  status: seed
+  notes: "Section 14's main group-theoretic device: the transformations commuting with Δ by conjugation form the normalizer. It explains why congruence implies similarity and when similarity exceeds congruence."
+  evidence:
+    - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+
+- term: "invariante Untergruppe"
+  kind: concept
+  preferred: "invariant subgroup"
+  alternatives:
+    - "normal subgroup"
+  status: open
+  notes: "Weyl uses `invariante Untergruppe` for the subgroup condition under which Δ-equivalence has objective meaning relative to Γ. Keep the wording `invariant subgroup` for now because it is Weyl's local phrasing in the normalizer discussion."
+  evidence:
+    - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+
+- term: "Starrheit"
+  kind: concept
+  preferred: "rigidity"
+  alternatives:
+    - "stiffness"
+  status: seed
+  notes: "Section 14 treats rigidity as physically approximate but geometrically norm-forming: geometry is abstracted from actual rigid bodies and then judges how well a body realizes the ideal."
+  evidence:
+    - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+
+- term: "physikalische Automorphismen"
+  kind: concept
+  preferred: "physical automorphisms"
+  alternatives: []
+  status: open
+  notes: "Section 14 identifies the physical automorphism group in space with the orthogonal group Δ, not the full geometrical normalizer Γ′. Atomism and absolute length block dilation as physical invariance. Section 15 then shows general relativity decomposing Δ into translations and rotations: translations become arbitrary coordinate transformations Ω, while rotations become point-dependent local Δ₀."
+  evidence:
+    - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "Sinn"
+  kind: concept
+  preferred: "sense"
+  alternatives:
+    - "orientation"
+  status: open
+  notes: "In the left/right paragraph, `Sinn` is the orientation-like sense of an ordered basis, determined by even permutations and reversed by odd permutations. Section 15 extends this from affine vector geometry to differentiable manifolds through the sign of the Jacobian. Keep `sense` visible in translation while noting the orientation pressure."
+  evidence:
+    - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "Vorzeichen"
+  kind: concept
+  preferred: "sign"
+  alternatives: []
+  status: seed
+  notes: "Section 14 uses determinant sign to separate the two components of the orthogonal group and to tie left/right to orientation: positive sign preserves the sense, negative sign reverses it."
+  evidence:
+    - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+
+- term: "Raumanschauung"
+  kind: concept
+  preferred: "intuition of space"
+  alternatives:
+    - "spatial intuition"
+  status: open
+  notes: "In the Kant passage, Weyl grants that congruence and similarity are grounded in Raumanschauung, but denies that this blocks their clarification by group-theoretic concepts."
+  evidence:
+    - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+
+- term: "Dilatation"
+  kind: concept
+  preferred: "dilation"
+  alternatives: []
+  status: seed
+  notes: "Section 14 uses dilations `xᵢ′ = axᵢ` to mark the divergence between geometrical automorphisms Γ′ and physical automorphisms Δ; this is the explicit anti-Cartesian point that physics cannot be reduced to geometry."
+  evidence:
+    - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+
+- term: "Mannigfaltigkeit"
+  kind: concept
+  preferred: "manifold"
+  alternatives:
+    - "multiplicity"
+  status: seed
+  notes: "Section 15 follows Riemann in defining an n-dimensional continuous manifold by local one-to-one continuous coordinate representation in n-dimensional number-space. `Multiplicity` would be too literal for the mathematical register here."
+  evidence:
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "differenzierbare Mannigfaltigkeit"
+  kind: concept
+  preferred: "differentiable manifold"
+  alternatives: []
+  status: seed
+  notes: "Section 15 restricts Ω to differentiable coordinate transformations with nonzero Jacobian. Weyl says topology has mastered continuity, but the inner meaning of differentiability remains unclear and may someday be dispensed with by physics."
+  evidence:
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "Jacobische Determinante"
+  kind: concept
+  preferred: "Jacobian determinant"
+  alternatives: []
+  status: seed
+  notes: "The nonzero determinant of the coordinate differential matrix. Its sign gives the signature of the transformation and lets a sense/orientation be fixed over a region."
+  evidence:
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "Maßfeld"
+  kind: concept
+  preferred: "metric field"
+  alternatives:
+    - "measure field"
+  status: open
+  notes: "Section 15 makes the Riemannian metric physical: its components gᵢₖ transform under coordinate changes, it acts on bodies/light/natural processes, and in Einstein's theory matter acts back on it."
+  evidence:
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "Nahewirkungsgesetze"
+  kind: concept
+  preferred: "laws of near-action"
+  alternatives:
+    - "laws of action by proximity"
+    - "local action laws"
+  status: open
+  notes: "Weyl invokes Leibniz's continuity principle: true natural lawfulness links values of physical magnitudes only in immediately neighboring space-time points. This supports `Nahgeometrie` against `Ferngeometrie`."
+  evidence:
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "Nahgeometrie"
+  kind: concept
+  preferred: "near-geometry"
+  alternatives:
+    - "local geometry"
+  status: open
+  notes: "Contrasted with `Ferngeometrie`: the basic relations of geometry should refer to infinitely near neighboring points. `Local geometry` is idiomatic, but `near-geometry` preserves Weyl's explicit contrast."
+  evidence:
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "allgemeine Relativität"
+  kind: concept
+  preferred: "general relativity"
+  alternatives: []
+  status: seed
+  notes: "Section 15 accepts the principle only after the metric field is incorporated among physical magnitudes that act on matter and receive reaction from matter."
+  evidence:
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "örtliches kartesisches Bezugssystem"
+  kind: concept
+  preferred: "local Cartesian reference frame"
+  alternatives:
+    - "local Cartesian frame"
+  status: seed
+  notes: "The point-dependent frame 𝔣(P) in the tangent vector space. It brings in Δ₀ and enables numerical representation of physical magnitudes in the Riemannian/general-relativistic setting."
+  evidence:
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "Δ₀"
+  kind: concept
+  preferred: "Δ₀"
+  alternatives:
+    - "group of Euclidean rotations"
+  status: open
+  notes: "The group of Euclidean rotations expressing the arbitrariness of the local Cartesian frame 𝔣(P). Weyl treats it as point-dependent in general relativity and as a possible abstract group with vector, tensor, and spinor representations."
+  evidence:
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "Darstellung"
+  kind: concept
+  preferred: "representation"
+  alternatives:
+    - "presentation"
+  status: open
+  notes: "In section 15, `Darstellung` has the group-representation sense: different physical magnitudes are characterized by different linear representations of Δ₀, including tensor and spinor representations."
+  evidence:
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "topologisches Gerüst"
+  kind: concept
+  preferred: "topological skeleton"
+  alternatives:
+    - "topological framework"
+  status: seed
+  notes: "The combinatorial schema of elementary pieces and their boundary/adjacency relations. It determines the large-scale connectedness relations of a manifold without reducing the manifold to global numerical coordinates."
+  evidence:
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "Zusammenhangsverhältnisse"
+  kind: concept
+  preferred: "connectedness relations"
+  alternatives:
+    - "connectivity relations"
+  status: open
+  notes: "The global relations determined by the topological skeleton. Weyl uses the term for what can differ in actual space once the Riemannian standpoint frees geometry from Euclidean topology."
+  evidence:
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "Vergewaltigung"
+  kind: concept
+  preferred: "forcible imposition"
+  alternatives:
+    - "violation"
+    - "violence"
+  status: open
+  notes: "Weyl's strong term for imposing numerical coordinates from the special one-dimensional number continuum onto a general continuum. `Forcible imposition` preserves the pressure without overdramatizing in English."
+  evidence:
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "sinnlich-kategoriale Doppelantlitz"
+  kind: concept
+  preferred: "sensuous-categorial double face"
+  alternatives:
+    - "sensuous-categorial double aspect"
+  status: open
+  notes: "Section 15's closing philosophical diagnosis of geometry: it stands between Ideas and sensible things, with morphology, topology, and idealizing geometry marking the ascent."
+  evidence:
+    - "parts/016-math-03-15-riemann-standpoint-topology.md"

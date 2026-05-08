@@ -504,17 +504,17 @@ wobei die exakte Gültigkeit solcher Gesetze postuliert wird, die
 von den existierenden Gasen nur näherungsweise befolgt werden.
 Da die Orte bei einem starren Körper angemerkt werden können,
 ist die Kongruenz eine punktweise Abbildung zweier kongruenter
-Volumina V und V’. Zunächst bezieht sich der Kongruenzbegriff
+Volumina V und V′. Zunächst bezieht sich der Kongruenzbegriff
 auf einen gegebenen starren Körper b. Seine faktische Unabhängigkeit von b ist eine unserer fundamentalsten Erfahrungen.
-Es seien nämlich V und V’ zwei Raumstücke, die vom Körper b
+Es seien nämlich V und V′ zwei Raumstücke, die vom Körper b
 in zwei seiner Lagen ausgefüllt werden. b* sei ein anderer Körper,
-der in V hineinpaßt; er kann dann so bewegt werden, daß er V’
+der in V hineinpaßt; er kann dann so bewegt werden, daß er V′
 ausfüllt. Da man einen starren Körper so groß machen kann,
-daß er einen beliebig gegebenen Punkt überdeckt, kann die Abbildung V → V’ auf den ganzen Raum erweitert werden. Die kongruenten Abbildungen des Raumes bilden eine Gruppe Δ+ von
+daß er einen beliebig gegebenen Punkt überdeckt, kann die Abbildung V → V′ auf den ganzen Raum erweitert werden. Die kongruenten Abbildungen des Raumes bilden eine Gruppe Δ⁺ von
 Transformationen, die wir die Gruppe der euklidischen Bewegungen
 nennen. Ist diese Gruppe einmal bekannt, so können kongruente
 Volumina als Raumstücke definiert werden, die ineinander durch
-eine Transformation S von Δ+ überführt werden können. Die Tatsachen legen eine Deutung nahe, nach welcher die Gruppe Δ+
+eine Transformation S von Δ⁺ überführt werden können. Die Tatsachen legen eine Deutung nahe, nach welcher die Gruppe Δ⁺
 der kongruenten Abbildungen eine innere Struktur des Raumes
 selbst zum Ausdruck bringt, und zwar eine Struktur, die vom
 Raum allen Raumobjekten aufgeprägt wird.
@@ -527,27 +527,26 @@ von der Geometrie für die Automorphismen des Raumes (Ähn-
 
 lichkeiten) hat. Wir wissen ganz allgemein, daß die Gruppe Γ der
 Automorphismen dann festliegt, wenn die Begriffe für die Grundrelationen einer Geometrie festliegen. In unserem Falle lautet das
-Kriterium für einen Automorphismus so: sowohl C als auch C−1
-müssen jedes Paar kongruenter Raumstücke v1, v2 in ein kongruentes Paar transformieren. Wir betrachten das Paar v1*, v2*, das
-durch die Transformation C aus v1, v2 entsteht. S sei die Bewegung, die v1 in v2 überführt. Wie das Diagramm
+Kriterium für einen Automorphismus so: sowohl C als auch C⁻¹
+müssen jedes Paar kongruenter Raumstücke v₁, v₂ in ein kongruentes Paar transformieren. Wir betrachten das Paar v₁*, v₂*, das
+durch die Transformation C aus v₁, v₂ entsteht. S sei die Bewegung, die v₁ in v₂ überführt. Wie das Diagramm
 
-(S)
+      (S)
+v₁ ------> v₂
+(C⁻¹) ↑   ↓ (C)
+v₁*       v₂*
 
-v1 → v2
-(C−1) ↑   ↓ (C)
-v1*     v2*
-
-anzeigt, geht v1* durch die Abbildung C−1SC in v2* über. Folglich
-erfordert das Kriterium, daß immer dann, wenn S zu Δ+ gehört,
-auch die Transformationen C−1SC und CSC−1 dazu gehören.
-Eine Transformation heißt mit einer gegebenen Transformationsgruppe Δ vertauschbar, wenn mit S auch C−1SC und CSC−1 zu Δ
+anzeigt, geht v₁* durch die Abbildung C⁻¹SC in v₂* über. Folglich
+erfordert das Kriterium, daß immer dann, wenn S zu Δ⁺ gehört,
+auch die Transformationen C⁻¹SC und CSC⁻¹ dazu gehören.
+Eine Transformation heißt mit einer gegebenen Transformationsgruppe Δ vertauschbar, wenn mit S auch C⁻¹SC und CSC⁻¹ zu Δ
 gehören. Die mit Δ vertauschbaren Transformationen bilden eine
 Gruppe, den Normalisator von Δ. Diese Gruppe enthält notwendig
 Δ als Untergruppe, sei es, daß Δ identisch mit seinem Normalisator
 oder ein echter Teil davon ist. Unsere Analyse kann nun so zusammengefaßt werden: Die Gruppe Γ der Ähnlichkeiten ist der
-Normalisator der Gruppe Δ+ der Bewegungen. Kongruente Figuren
+Normalisator der Gruppe Δ⁺ der Bewegungen. Kongruente Figuren
 sind also notwendig ähnlich. Die Umkehrung muß nicht gelten.
-Ist nämlich Δ+ tatsächlich eine echte Untergruppe des Normalisators, so existieren ähnliche Figuren im euklidischen Raum, die
+Ist nämlich Δ⁺ tatsächlich eine echte Untergruppe des Normalisators, so existieren ähnliche Figuren im euklidischen Raum, die
 nicht kongruent sind. Beispiele dafür sind ein Körper und sein
 Spiegelbild, oder ein Gebäude und ein kleinmaßstäbiges Modell
 davon.
@@ -623,14 +622,14 @@ Begriff heraus entwickeln. Hierfür stehen mehrere Wege offen.
 Eine tiefere Einsicht, als die elementare Auffassung zuläßt, in den
 Stil der euklidischen Axiome würde gewonnen, wenn es gelänge,
 die fundamentalen Tatsachen der Geometrie als einfache Axiome
-über die Gruppe Δ+ der euklidischen Bewegungen zu formulieren.
+über die Gruppe Δ⁺ der euklidischen Bewegungen zu formulieren.
 Nach Überweg hat als erster Helmholtz mit überraschendem
 Erfolg dieses Programm in seiner Schrift „Über die Tatsachen,
 die der Geometrie zugrunde liegen“ durchgeführt. Später hat S. Lie,
 der eine allgemeine Theorie der Transformationsgruppen aufstellte,
 das Problem mit seinen schärferen mathematischen Mitteln wieder
 aufgegriffen und es von drei auf n Dimensionen verallgemeinert.
-Die euklidische Bewegungsgruppe Δ+ ist beinahe vollständig dadurch gekennzeichnet, daß sie dem starren Körper dasjenige Maß
+Die euklidische Bewegungsgruppe Δ⁺ ist beinahe vollständig dadurch gekennzeichnet, daß sie dem starren Körper dasjenige Maß
 an freier Beweglichkeit verleiht, das uns aus der Erfahrung vertraut ist. In genauerer Fassung: Man ist durch eine kongruente
 
 [[pdf-page:0110 printed-page:109]]
@@ -653,37 +652,37 @@ alle Punkte gleichwertig sind, ferner alle Richtungen in einem
 Punkte usw.
 
 Es ist schwer, über diese Probleme ohne exakte Beschreibung der
-euklidischen Gruppen Γ′ und Δ+ vor Augen gescheit zu reden. Ein
+euklidischen Gruppen Γ′ und Δ⁺ vor Augen gescheit zu reden. Ein
 kartesisches Bezugssystem im dreidimensionalen euklidischen Raum
-besteht aus einem Punkt O, dem Ursprung, und drei aufeinander senkrecht stehenden Vektoren e1, e2, e3 gleicher Länge. Die Koordinaten x1,
+besteht aus einem Punkt O, dem Ursprung, und drei aufeinander senkrecht stehenden Vektoren e₁, e₂, e₃ gleicher Länge. Die Koordinaten x₁,
 
-x2, x3 eines Punktes werden durch
+x₂, x₃ eines Punktes werden durch
 
-→OP = x1e1 + x2e2 + x3e3
+→OP = x₁e₁ + x₂e₂ + x₃e₃
 
 definiert. Relativ zu einem solchen System wird eine Ähnlichkeit, die den
-Punkt (x1, x2, x3) in den Punkt (x1′, x2′, x3′) abbildet, durch eine lineare
+Punkt (x₁, x₂, x₃) in den Punkt (x₁′, x₂′, x₃′) abbildet, durch eine lineare
 Transformation
 
-S: x′i = ai + ai1x1 + ... + ainxn (i = 1, 2, ..., n) (*)
+S: xᵢ′ = aᵢ + aᵢ₁x₁ + ... + aᵢₙxₙ (i = 1, 2, ..., n) (*)
 
-mit konstanten Koeffizienten ai, aik dargestellt, die der folgenden Be-
+mit konstanten Koeffizienten aᵢ, aᵢₖ dargestellt, die der folgenden Be-
 
 [[pdf-page:0111 printed-page:110]]
 
-dingung genügen: (x1′ − a1)² + ... + (xn′ − an)² ist ein konstantes
-positives Vielfaches a von x1² + ... + xn². (Die Dimensionszahl n ist
+dingung genügen: (x₁′ − a₁)² + ... + (xₙ′ − aₙ)² ist ein konstantes
+positives Vielfaches a von x₁² + ... + xₙ². (Die Dimensionszahl n ist
 hier unbestimmt gelassen.) Die Ähnlichkeit ist „nicht-vergrößernd“
 und heißt orthogonale Transformation für a = 1. Die orthogonalen
 Transformationen bilden eine invariante Untergruppe Δ von Γ′. Aus der
 oben erwähnten Bedingung, die durch jede Ähnlichkeit erfüllt wird,
-folgt die Gleichung d² = aⁿ für die Determinante d aus den aik. Folglich
+folgt die Gleichung d² = aⁿ für die Determinante d aus den aᵢₖ. Folglich
 hat eine orthogonale Transformation entweder das Vorzeichen +
-(d = +1) oder das Vorzeichen — (d = −1). Die orthogonalen Transformationen mit dem Vorzeichen + bilden die Gruppe Δ+ der euklidischen Bewegungen. Δ+ ist eine Untergruppe von Δ mit dem Index 2,
-d. h., wenn S1, S2 zwei beliebige Transformationen von Δ mit negativem
-Vorzeichen sind, dann hat S1−1S2 positives Vorzeichen. (Die fundamentale Tatsache der Unterscheidung von links und rechts: zwei gegenüber
+(d = +1) oder das Vorzeichen — (d = −1). Die orthogonalen Transformationen mit dem Vorzeichen + bilden die Gruppe Δ⁺ der euklidischen Bewegungen. Δ⁺ ist eine Untergruppe von Δ mit dem Index 2,
+d. h., wenn S₁, S₂ zwei beliebige Transformationen von Δ mit negativem
+Vorzeichen sind, dann hat S₁⁻¹S₂ positives Vorzeichen. (Die fundamentale Tatsache der Unterscheidung von links und rechts: zwei gegenüber
 einer gegebenen Schraube gegensinnig gewundene Schrauben winden
-sich im gleichen Sinne.) Es macht nicht viel aus, ob wir Δ+ oder Δ als
+sich im gleichen Sinne.) Es macht nicht viel aus, ob wir Δ⁺ oder Δ als
 Gruppe der kongruenten Abbildungen zugrundelegen. Angenommen
 wir entscheiden uns für die größere Gruppe Δ. Dann würde die stetige
 Bewegung eines starren Körpers durch eine Orthogonaltransformation
@@ -704,8 +703,8 @@ In der Physik können wir nicht nur die Punkte betrachten, sondern
 ebenso die verschiedenen Arten physikalischer Größen wie Geschwindigkeit, Kraft, elektromagnetische Feldstärke usw. Aber
 Tatsache ist, daß in einem kartesischen System nicht nur Punkte,
 sondern alle physikalischen Größen durch Zahlen dargestellt werden können, zum Beispiel eine Kraft durch ihre Komponenten
-fi (i = 1, 2, ..., n), eine elektromagnetische Feldstärke durch eine
-Menge schiefsymmetrischer Komponenten Fik = —Fki usw. Und
+fᵢ (i = 1, 2, ..., n), eine elektromagnetische Feldstärke durch eine
+Menge schiefsymmetrischer Komponenten Fᵢₖ = −Fₖᵢ usw. Und
 
 [[pdf-page:0112 printed-page:111]]
 
@@ -714,12 +713,12 @@ der Raumpunkte durchlaufen sie eine verwandte Transformation,
 die eindeutig durch S bestimmt ist. So transformieren sich zum
 Beispiel die Kraftkomponenten nach der Gleichung
 
-f′i = Σλ aiλ fλ (i, λ = 1, 2, ..., n),
+fᵢ′ = Σλ aᵢλ fλ (i, λ = 1, 2, ..., n),
 
 die Komponenten der elektromagnetischen Feldstärke nach der
 Regel
 
-F′ik = Σλ,μ aiλ akμ Fλμ (i, k, λ, μ = 1, 2, ..., n)
+Fᵢₖ′ = Σλ,μ aᵢλ aₖμ Fλμ (i, k, λ, μ = 1, 2, ..., n)
 
 usw. Alle Naturgesetze sind gegenüber der so durch die Gruppe Δ
 induzierten Transformation invariant. Indessen gilt nicht, daß sie
@@ -751,40 +750,42 @@ werden wir uns freilich auf den Raum beschränken.
 
 Wir fassen zusammen: Die Gruppe der physikalischen Automorphismen im Raum ist die Gruppe Δ der orthogonalen Transformationen. Die Gruppe der geometrischen Automorphismen ist
 gemäß der eigentlichen Wortbedeutung der Normalisator Γ′ von Δ.
-Er ist größer als Δ, insofern er die Dilatationen x′i = a xi mit beliebiger Konstanter a > 0 mit enthält. Diese Divergenz zwischen
+Er ist größer als Δ, insofern er die Dilatationen xᵢ′ = axᵢ mit beliebiger Konstanter a > 0 mit enthält. Diese Divergenz zwischen
 Δ und Γ′ beweist letztlich, daß die Physik sich nie auf die Geometrie zurückführen läßt, wie Descartes gehofft hatte.
 
-Links und rechts. Müßte ich die fundamentalsten mathematischen Tatsachen benennen, so würde ich wahrscheinlich mit der Tatsache (F,)
+Links und rechts. Müßte ich die fundamentalsten mathematischen Tatsachen benennen, so würde ich wahrscheinlich mit der Tatsache (F₁)
 beginnen, daß das Abzählen einer Menge von Elementen zur gleichen
 Zahl führt, in welcher Reihenfolge man auch die Elemente vornimmt,
-dann als zweites die Tatsache (F,) erwähnen, daß man unter den Permutationen von n (> 2) Dingen die geraden und die ungeraden voneinander unterscheiden kann. Die geraden Permutationen bilden eine
+dann als zweites die Tatsache (F₂) erwähnen, daß man unter den Permutationen von n (≥ 2) Dingen die geraden und die ungeraden voneinander unterscheiden kann. Die geraden Permutationen bilden eine
 Untergruppe mit Index 2 innerhalb der Gruppe aller Permutationen. Die erste Tatsache bildet den Grund des geometrischen Dimensionsbegriffes, die zweite den des „Sinnes“. Wir betrachten die affine
-Vektorgeometrie. Eine Basis für ihre Vektoren besteht aus n Vektoren e1, ..., en, so daß jeder beliebige Vektor sich als Linearkombination x1e1 + ... + xnen eindeutig ausdrücken läßt, und der Satz von der
+Vektorgeometrie. Eine Basis für ihre Vektoren besteht aus n Vektoren e₁, ..., eₙ, so daß jeder beliebige Vektor sich als Linearkombination x₁e₁ + ... + xₙeₙ eindeutig ausdrücken läßt, und der Satz von der
 Invarianz der Dimensionszahl besagt, daß jede Basis notwendig aus
 der gleichen Anzahl n Vektoren besteht. Aus dieser Aussage folgt klar
-die Tatsache (F,); denn durch jede Umgruppierung der Basisvektoren
-geht man zu einer neuen Basis über. Umgekehrt bildet das Invarianztheorem einen leicht aus der Tatsache (F,) zusammen mit der Regel
+die Tatsache (F₁); denn durch jede Umgruppierung der Basisvektoren
+geht man zu einer neuen Basis über. Umgekehrt bildet das Invarianztheorem einen leicht aus der Tatsache (F₁) zusammen mit der Regel
 für die Addition und Multiplikation von Zahlen abgeleiteten algebraischen Satz. Jede Anordnung von n gegebenen, linear unabhängigen
 Vektoren legt einen „Sinn“ fest, und zwei Anordnungen legen dann den
 gleichen Sinn fest, wenn sie durch eine gerade Permutation auseinander
 hervorgehen (Definition durch Abstraktion). Eine ungerade Permutation ändert den Sinn ins Gegenteil. Das ist ganz klar die kombinatorische
 Wurzel der Unterscheidung zwischen links und rechts. Außerdem wird
 man in Verbindung mit den Grundoperationen der affinen Vektorgeometrie (Vektoraddition, Multiplikation eines Vektors mit einer Zahl)
-zu einem Vergleich des „Sinnes“ zweier Basen e1, ..., en und e1*, ..., en*
+zu einem Vergleich des „Sinnes“ zweier Basen e₁, ..., eₙ und e₁*, ..., eₙ*
 
 [[pdf-page:0114 printed-page:113]]
 
 geführt. Wenn man die Vektoren e* durch die Vektoren e ausdrückt,
 also
 
-ei* = a1i e1 + ... + ani en,
+eᵢ* = a₁ᵢe₁ + ... + aₙᵢeₙ,
 
-dann besitzen die Koeffizienten aik eine nicht-verschwindende Determinante. Die Sinne der beiden Basen sind entweder gleich oder entgegengesetzt, je nachdem die Determinante positiv oder negativ ist.
+dann besitzen die Koeffizienten aᵢₖ eine nicht-verschwindende Determinante. Die Sinne der beiden Basen sind entweder gleich oder entgegengesetzt, je nachdem die Determinante positiv oder negativ ist.
 Die Definition einer Determinante gründet sich aber auf die Unterscheidung gerader und ungerader Permutationen!
 
-Kant findet den Schlüssel zum Rätsel des links und rechts!) im transzendentalen Idealismus. Der Mathematiker sicht dahinter die kombinatorische Tatsache der Unterscheidung von geraden und ungeraden Permutationen. Die Diskrepanz zwischen der Fragestellung des Philosophen
+Kant findet den Schlüssel zum Rätsel des links und rechts¹) im transzendentalen Idealismus. Der Mathematiker sieht dahinter die kombinatorische Tatsache der Unterscheidung von geraden und ungeraden Permutationen. Die Diskrepanz zwischen der Fragestellung des Philosophen
 und des Mathematikers nach den Wurzeln des Phänomens, das uns die
 Natur stellt, kann kaum auffallender beleuchtet werden.
+
+1) Vgl. S. 108.
 
 15. Der Riemannsche Standpunkt. Topologie
 
@@ -796,41 +797,39 @@ Mannigfaltigkeit mathematisch analysiert. Eine genügend kleine
 Umgebung eines beliebigen Punktes in einer n-dimensionalen
 Mannigfaltigkeit kann eineindeutig und stetig auf ein Gebiet des
 n-dimensionalen Zahlenraumes abgebildet werden, wobei die
-Punkte des letzteren n-Tupel von reellen Zahlen (x1, x2, ..., xn)
+Punkte des letzteren n-Tupel von reellen Zahlen (x₁, x₂, ..., xₙ)
 sind. Jede umkehrbar eindeutige Transformation der Koordinaten
 
-yi = φi(x1, ..., xn)        (i = 1, ..., m);
-xk = ψk(y1, ..., ym)        (k = 1, ..., n)
+yᵢ = φᵢ(x₁, ..., xₙ)        (i = 1, ..., m);
+xₖ = ψₖ(y₁, ..., yₘ)        (k = 1, ..., n)
 liefert eine neue Koordinatenzuordnung, die zur Darstellung der
 
 gleichen Umgebung dient. Ist m notwendig gleich n? Dies ist die
 Frage der topologischen Invarianz der Dimensionszahl.
 
-ı) Vgl. S. 108.
-
 [[pdf-page:0115 printed-page:114]]
 
-Es sei P = (x1, ..., xn) ein gegebener Punkt und P* = (x1 + dx1, ...,
-xn + dxn) irgend ein unendlich nahe bei P liegender Punkt. Sind die
+Es sei P = (x₁, ..., xₙ) ein gegebener Punkt und P* = (x₁ + dx₁, ...,
+xₙ + dxₙ) irgend ein unendlich nahe bei P liegender Punkt. Sind die
 Transformationsfunktionen differenzierbar, dann transformieren sich
-die Komponenten (dx1, ..., dxn) aller von P ausgehenden infinitesimalen
+die Komponenten (dx₁, ..., dxₙ) aller von P ausgehenden infinitesimalen
 
 Vektoren →PP* nach linearen Formeln
 
-dyi = Σk aik · dxk,     dxk = Σi bki · dyi,     (*)
+dyᵢ = Σₖ aᵢₖ · dxₖ,     dxₖ = Σᵢ bₖᵢ · dyᵢ,     (*)
 
-deren Koeffizienten aik, bki vom Punkt P, aber nicht von P* abhängen.
+deren Koeffizienten aᵢₖ, bₖᵢ vom Punkt P, aber nicht von P* abhängen.
 (Infinitesimale Größen lassen sich dadurch vermeiden, daß man eine
 imaginäre Zeit τ einführt und einen Punkt sich in der Mannigfaltigkeit
-nach einem willkürlichen Gesetz xk = xk(τ) bewegen läßt. Angenommen der Punkt gehe im Zeitpunkt τ = 0 durch P; seine Geschwindigkeit zu diesem Zeitpunkt ist ein Vektor in P mit den x-Komponenten
-uk = (dxk/dτ)τ=0. Die y-Komponenten vi der gleichen Geschwindigkeit
+nach einem willkürlichen Gesetz xₖ = xₖ(τ) bewegen läßt. Angenommen der Punkt gehe im Zeitpunkt τ = 0 durch P; seine Geschwindigkeit zu diesem Zeitpunkt ist ein Vektor in P mit den x-Komponenten
+uₖ = (dxₖ/dτ)_{τ=0}. Die y-Komponenten vᵢ der gleichen Geschwindigkeit
 sind mit den x-Komponenten durch die Gleichungen (*) verknüpft,
 
-vi = Σk aikuk,     uk = Σi bkivi,
+vᵢ = Σₖ aᵢₖuₖ,     uₖ = Σᵢ bₖᵢvᵢ,
 
 die für alle möglichen Geschwindigkeiten in P gilt.) Aber diese linearen
 Transformationen können nur dann invers zueinander sein, wenn
-m = n und die Determinante der aik, die sogenannte Jacobische Determinante, von Null verschieden ist. Für die Gesamtheit Ω sind nun
+m = n und die Determinante der aᵢₖ, die sogenannte Jacobische Determinante, von Null verschieden ist. Für die Gesamtheit Ω sind nun
 nur solche „differenzierbaren“ Transformationen der Koordinaten zugelassen. Unter diesen Umständen spricht man von einer differenzierbaren Mannigfaltigkeit. Da sich die Jacobische Determinante stetig
 mit P ändert, ist sie in dem ganzen, von den beiden Koordinatenzuordnungen bedeckten Gebiet entweder durchweg positiv oder durchweg
 negativ. Im ersten Fall erteilen wir der Transformation die Signatur +,
@@ -840,7 +839,7 @@ der Sinn aus der Tatsache folgen, daß die affine Geometrie im Unendlichkleinen 
 der Stetigkeit Herr zu werden, verstehen wir noch nicht die innere Bedeutung der Beschränkung auf differenzierbare Mannigfaltigkeiten.
 Vielleicht vermag sie die Physik eines Tages abzutun. Gegenwärtig
 scheint sie unerläßlich, weil die Transformationsgesetze der meisten
-physikalischen Größen eng mit denen der Differentiale dxi (*) verknüpft
+physikalischen Größen eng mit denen der Differentiale dxᵢ (*) verknüpft
 sind.
 
 [[pdf-page:0116 printed-page:115]]
@@ -848,18 +847,18 @@ sind.
 Riemann hat, gestützt auf die Gaußsche Theorie der krummen
 Flächen, angenommen, die euklidische Geometrie gelte im Unendlichkleinen. Das Quadrat der Länge ds des infinitesimalen Vektors
 
-→PP* mit den Komponenten dxi kann dann durch eine positive
+→PP* mit den Komponenten dxᵢ kann dann durch eine positive
 quadratische Form
 
-ds² = Σik gik dxi dxk     (**)
+ds² = Σᵢₖ gᵢₖ dxᵢ dxₖ     (**)
 
-der dxi ausgedrückt werden. Ihre Koeffizienten gik sind vom
+der dxᵢ ausgedrückt werden. Ihre Koeffizienten gᵢₖ sind vom
 
-Vektor →PP* mit den Komponenten dxi unabhängig, sie werden aber
-im allgemeinen vom Punkt P mit den Koordinaten xi abhängen
-und stetige Funktionen dieser Koordinaten sein. Aus der invarianten Bedeutung von ds² erhellt, wie sich die Komponenten gik des
-„Maßfeldes‘‘ beim Übergang zu einem neuen Koordinatensystem
-yi transformieren. Die Metrik eines dreidimensionalen Riemannschen Raumes dieser Art prägt sich jeder in ihm liegenden Fläche
+Vektor →PP* mit den Komponenten dxᵢ unabhängig, sie werden aber
+im allgemeinen vom Punkt P mit den Koordinaten xᵢ abhängen
+und stetige Funktionen dieser Koordinaten sein. Aus der invarianten Bedeutung von ds² erhellt, wie sich die Komponenten gᵢₖ des
+„Maßfeldes“ beim Übergang zu einem neuen Koordinatensystem
+yᵢ transformieren. Die Metrik eines dreidimensionalen Riemannschen Raumes dieser Art prägt sich jeder in ihm liegenden Fläche
 auf, die dadurch zum zweidimensionalen Riemannschen Raum
 gestempelt wird. Hingegen gilt im dreidimensionalen euklidischen
 Raum nicht auf jeder Fläche die zweidimensionale euklidische
@@ -873,7 +872,7 @@ Diskrepanz zum Verschwinden zu bringen.
 Wie nach Leibniz’ Kontinuitätsprinzip die wahre Gesetzmäßigkeit der Natur ihren Ausdruck in Nahewirkungsgesetzen
 findet, wobei nur die Werte physikalischer Größen in Raum-Zeit-Punkten mit unmittelbarer Nachbarschaft zueinander verknüpft
 werden, so sollten die Grundrelationen der Geometrie sich nur auf
-unendlich nah benachbarte Punkte (‚‚Nahgeometrie‘“ im Gegensatz zur „Ferngeometrie‘“) beziehen. Nur im Unendlichkleinen
+unendlich nah benachbarte Punkte („Nahgeometrie“ im Gegensatz zur „Ferngeometrie“) beziehen. Nur im Unendlichkleinen
 dürfen wir erwarten auf die elementaren, überall gleichen Gesetze
 zu stoßen, darum muß die Welt aus ihrem Verhalten im Unendlichkleinen verstanden werden.
 
@@ -895,11 +894,11 @@ darauf wirkenden bindenden Kräften gesucht werden.“ Das
 Maßfeld tut sich kund vermöge seiner physischen Wirkungen, die
 es auf starre Körper, Lichtstrahlen und alle Naturvorgänge ausübt, aus denen allein wir seinen Zustand ablesen können. Was aber
 wirkt, muß auch leiden, muß selber etwas Reales sein und kann
-nicht in „geometrischer‘‘ Starre unangreifbar über den Kräften
+nicht in „geometrischer“ Starre unangreifbar über den Kräften
 der Materie thronen. Dadurch ist nun trotz der Inhomogenität
 des metrischen Feldes die freie Beweglichkeit der Körper ohne
 Maßänderungen zurückgewonnen, da ein Körper das von ihm
-erzeugte oder deformierte metrische Feld bei der Bewegung ‚„‚mitnehmen“ wird. Einstein hat, nachdem er den Raum durch die Zeit
+erzeugte oder deformierte metrische Feld bei der Bewegung „mitnehmen“ wird. Einstein hat, nachdem er den Raum durch die Zeit
 zum vollen extensiven Medium der Außenwelt erweitert hatte,
 den Riemannschen Gedanken zu einer in alle Einzelheiten durchgebildeten physikalischen Theorie der Gravitation ausgestaltet
 und insbesondere auch die Gesetze ermittelt, nach denen die
@@ -913,12 +912,12 @@ radikal von dem im letzten Abschnitt auseinandergesetzten Standpunkt. Ihr Prinzi
 [[pdf-page:0118 printed-page:117]]
 
 nachdem man das Maßfeld unter die physikalischen Größen eingegliedert hat, die auf die Materie einwirken und von dieser
-Gegenwirkung erfahren. Trotzdem wird die euklidische Geometrie für die infinitesimale Nachbarschaft eines beliebig gegebenen Punktes P0 beibehalten. Denn es ist eine mathematische Tatsache, daß für alle Linienelemente in einem gegebenen Punkt P0
+Gegenwirkung erfahren. Trotzdem wird die euklidische Geometrie für die infinitesimale Nachbarschaft eines beliebig gegebenen Punktes P₀ beibehalten. Denn es ist eine mathematische Tatsache, daß für alle Linienelemente in einem gegebenen Punkt P₀
 die Maßgleichung (**) die spezielle Form
 
-ds² = dx1² + dx2² + ... + dxn²
+ds² = dx₁² + dx₂² + ... + dxₙ²
 
-annimmt, falls entsprechende Koordinaten xi für die Nachbarschaft von P0 gewählt sind. In dieser Form ist für irgendeine Unbestimmtheit kein Platz, und daher können wir sagen, die Natur
+annimmt, falls entsprechende Koordinaten xᵢ für die Nachbarschaft von P₀ gewählt sind. In dieser Form ist für irgendeine Unbestimmtheit kein Platz, und daher können wir sagen, die Natur
 der Metrik sei in jedem Punkt gleich. Aber das Koordinatensystem, in welchem das Maßgesetz diese feste Normalform annimmt und das, wie ich mich ausdrücken will, charakteristisch
 ist für die „Orientierung“ der Metrik, ist im allgemeinen von
 Stelle zu Stelle ein anderes. Eines analogen Sprachgebrauchs
@@ -937,43 +936,43 @@ unentbehrlich geworden ist, wenn die ein bewegtes Elektron kennzeichnenden Grö�
 
 [[pdf-page:0119 printed-page:118]]
 
-(Geschwindigkeiten) in P gemeint ist. Sie bilden einen n-dimensionalen Vektorraum. Die Koordinatenzuordnung P → xi bestimmt
-eine Vektorbasis e1, ..., en in diesem Tangentenvektorraum V(P)
-in P, so daß u1e1 + ... + unen der Vektor mit den x-Komponenten ui ist. Angenommen der Vektorraum in P besitze eine euklidische Metrik (mit absolutem Längennormal), so können wir
+(Geschwindigkeiten) in P gemeint ist. Sie bilden einen n-dimensionalen Vektorraum. Die Koordinatenzuordnung P → xᵢ bestimmt
+eine Vektorbasis e₁, ..., eₙ in diesem Tangentenvektorraum V(P)
+in P, so daß u₁e₁ + ... + uₙeₙ der Vektor mit den x-Komponenten uᵢ ist. Angenommen der Vektorraum in P besitze eine euklidische Metrik (mit absolutem Längennormal), so können wir
 darin ein örtliches kartesisches Bezugssystem 𝔣 = 𝔣(P) einführen,
 das aus n aufeinander senkrecht stehenden Vektoren der Länge 1
 besteht. Die Willkürlichkeit in der Wahl dieses Systems drückt
-sich durch die Gruppe Δ0 der euklidischen Drehungen aus. Diese
+sich durch die Gruppe Δ₀ der euklidischen Drehungen aus. Diese
 Gruppe besteht aus allen linearen Transformationen
 
-S: z′β = Σγ aβγzγ (β, γ = 1, ..., n),
+S: zᵦ′ = Σᵧ aᵦᵧzᵧ (β, γ = 1, ..., n),
 
 für welche
 
-z1′² + ... + zn′² = z1² + ... + zn²
+z₁′² + ... + zₙ′² = z₁² + ... + zₙ²
 
-ist. Hierin sind die Variablen zβ die Komponenten eines beliebigen
+ist. Hierin sind die Variablen zᵦ die Komponenten eines beliebigen
 Vektors von V(P) in bezug auf das kartesische System 𝔣. Die
-Zahlenwerte eiβ (β = 1, ..., n) der Komponenten jedes einzelnen
-der Vektoren ei (i = 1, ..., n) in bezug auf 𝔣 beschreiben das Einbetten des Systems 𝔣 in den Raum. So können nun die n² Größen
-eiβ, die ebenso von der Wahl der Koordinaten xi wie vom kartesischen System 𝔣(P) in P abhängen und Funktionen von P sind,
+Zahlenwerte eᵢᵦ (β = 1, ..., n) der Komponenten jedes einzelnen
+der Vektoren eᵢ (i = 1, ..., n) in bezug auf 𝔣 beschreiben das Einbetten des Systems 𝔣 in den Raum. So können nun die n² Größen
+eᵢᵦ, die ebenso von der Wahl der Koordinaten xᵢ wie vom kartesischen System 𝔣(P) in P abhängen und Funktionen von P sind,
 dazu dienen das Maßfeld zu kennzeichnen. Für die Riemannschen
-gik errechnet man leicht die Werte
+gᵢₖ errechnet man leicht die Werte
 
-gik = ei1ek1 + ... + einekn.
+gᵢₖ = eᵢ₁eₖ₁ + ... + eᵢₙeₖₙ.
 
-Erst wenn die Koordinaten xi und ein kartesisches System
+Erst wenn die Koordinaten xᵢ und ein kartesisches System
 𝔣(P) in jedem Punkt P gewählt sind, können alle physikalischen
 Größen durch Zahlen dargestellt werden. Die Naturgesetze sind
 invariant 1. gegenüber willkürlichen Transformationen der
-Koordinaten xi und 2. gegenüber einer Drehung S des Systems
+Koordinaten xᵢ und 2. gegenüber einer Drehung S des Systems
 𝔣(P), die willkürlich (stetig) vom Punkt P abhängen kann. Es
 besteht also diese doppelte Invarianz, eine, die von der Gruppe Ω
-aller Transformationen der Koordinaten xi beschrieben wird,
+aller Transformationen der Koordinaten xᵢ beschrieben wird,
 
 [[pdf-page:0120 printed-page:119]]
 
-und die andere durch ein Element der Gruppe Δ0, das sich willkürlich mit der Lage von P ändern kann.
+und die andere durch ein Element der Gruppe Δ₀, das sich willkürlich mit der Lage von P ändern kann.
 
 Was beim Übergang von der speziellen zur allgemeinen Relativitätstheorie geschehen ist, ist offensichtlich folgendes: Die
 physikalischen Automorphismen, die, wie im vorigen Abschnitt
@@ -984,31 +983,31 @@ euklidische Rotationen geblieben sind, nun aber mit einem Zentrum P verknüpft u
 sich das Zentrum P über die Mannigfaltigkeit bewegt. Der Raum,
 das extensive Medium der materiellen Welt, ist ganz klar der Sitz
 der Gruppe Ω der Koordinatentransformationen; doch scheint
-die Gruppe Δ0 ihren Ursprung in den letzten Elementarteilchen
-der Materie zu haben. Die Größen eiβ sind somit die Mittler
+die Gruppe Δ₀ ihren Ursprung in den letzten Elementarteilchen
+der Materie zu haben. Die Größen eᵢᵦ sind somit die Mittler
 zwischen Materie und Raum.
 
 Es erhebt sich die Frage, aus welchen inneren Gründen heraus die
-Natur gerade Δ0 unter allen möglichen Gruppen homogener linearer
-Transformationen ausgesucht hat. Eine Antwort liefert die Helmholtzsche Theorie, nach der Δ0 vollständig durch das Axiom der freien Beweglichkeit gekennzeichnet ist: Jede inzidente Menge σ von 1-, 2-, ...,
+Natur gerade Δ₀ unter allen möglichen Gruppen homogener linearer
+Transformationen ausgesucht hat. Eine Antwort liefert die Helmholtzsche Theorie, nach der Δ₀ vollständig durch das Axiom der freien Beweglichkeit gekennzeichnet ist: Jede inzidente Menge σ von 1-, 2-, ...,
 (n — 1)-dimensionalen Richtungen kann in jede ebensolche andere
-Menge durch eine Transformation von Δ0 überführt werden, während
-diejenigen Transformationen von Δ0, die eine gegebene Menge σ inzidenter Richtungen fest lassen, eine Untergruppe bilden, die nur zwei
+Menge durch eine Transformation von Δ₀ überführt werden, während
+diejenigen Transformationen von Δ₀, die eine gegebene Menge σ inzidenter Richtungen fest lassen, eine Untergruppe bilden, die nur zwei
 Elemente enthält (nämlich die Identität und die Spiegelung in σ). Diese
 Kennzeichnung ist jedoch weniger überzeugend, nachdem nun die
 Gruppe nicht mehr zur Beschreibung der Beweglichkeit eines starren
 Körpers dient. (Außerdem versagt sie für die Lorentzgruppe, die in der
 vierdimensionalen Welt die Stelle der orthogonalen Gruppe im dreidimensionalen Raum einnimmt.)
 
-Die Gruppe Δ0 könnte als abstrakte Gruppe betrachtet werden, für
+Die Gruppe Δ₀ könnte als abstrakte Gruppe betrachtet werden, für
 welche verschiedene Darstellungen durch lineare Transformationen für
-verschiedene physikalische Größen kennzeichnend sind, so zum Beispiel die Darstellung Δ0 durch orthogonale Transformationen selbst für
-die Vektoren, eine gewisse ‚‚Tensor“-Darstellung für die elektromagnetische Feldstärke, dann eine sehr bemerkenswerte, nämlich die sogenannte
+verschiedene physikalische Größen kennzeichnend sind, so zum Beispiel die Darstellung Δ₀ durch orthogonale Transformationen selbst für
+die Vektoren, eine gewisse „Tensor“-Darstellung für die elektromagnetische Feldstärke, dann eine sehr bemerkenswerte, nämlich die sogenannte
 Spinordarstellung für das elektromagnetische Wellenfeld.
 
 [[pdf-page:0121 printed-page:120]]
 
-Topologie. Im allgemeinen überdeckt eine Koordinatenzuordnung nur einen Teil einer gegebenen kontinuierlichen Mannigfaltigkeit. Die „Koordinate“ (x1, ..., xn) ist ein aus reellen Zahlen
+Topologie. Im allgemeinen überdeckt eine Koordinatenzuordnung nur einen Teil einer gegebenen kontinuierlichen Mannigfaltigkeit. Die „Koordinate“ (x₁, ..., xₙ) ist ein aus reellen Zahlen
 bestehendes Symbol. Man kann sich das Kontinuum der reellen
 Zahlen als durch iterierte Zweiteilung geschaffen denken. Um die
 Natur einer Mannigfaltigkeit im ganzen bewältigen zu können,
@@ -1017,7 +1016,7 @@ Natur entwickeln. Durch diese kombinatorische Beschreibung ist
 sie dann die Beschränkung auf differenzierbare Mannigfaltigkeiten
 losgeworden.
 
-Um ein Kontinuum der mathematischen Behandlung zu unterwerfen, muß man annehmen, daß es in „‚Elementarstücke‘“ geteilt
+Um ein Kontinuum der mathematischen Behandlung zu unterwerfen, muß man annehmen, daß es in „Elementarstücke“ geteilt
 sei und diese Teilung durch immer wiederholte Unterteilung
 nach einem festen Schema — im eindimensionalen Fall besteht
 dieses Schema in der Zweiteilung jeder Elementarstrecke — beständig verfeinert und dadurch das Kontinuum mit einem immer
@@ -1025,16 +1024,16 @@ dichter werdenden Teilungsnetz übersponnen werde. So hat denn
 eigentlich jedes Kontinuum sein eigenes arithmetisches Schema,
 das durch die kombinatorische Beschreibung der Art, wie in der
 anfänglichen Teilung die einzelnen Elementarstücke aneinander
-grenzen, durch das „topologische Gerüst‘ der Mannigfaltigkeit,
+grenzen, durch das „topologische Gerüst“ der Mannigfaltigkeit,
 schon vollständig festgelegt ist; die Einführung von Zahlkoordinaten durch die Beziehung auf das besondere Teilungsschema des
 offenen eindimensionalen Kontinuums ist eine Vergewaltigung,
 die sich nur durch die besonders bequeme kalkulatorische Behandlung des gewöhnlichen Zahlkontinuums mit seinen vier
 Spezies praktisch rechtfertigt. Das topologische Gerüst bestimmt
-die „Zusammenhangsverhältnisse‘‘ der Mannigfaltigkeit im großen. Es ist eine wichtige, aber schwierige mathematische Frage,
-wann zwei solche Gerüste äquivalent, d.h. fähig sind, dasselbe
+die „Zusammenhangsverhältnisse“ der Mannigfaltigkeit im großen. Es ist eine wichtige, aber schwierige mathematische Frage,
+wann zwei solche Gerüste äquivalent, d. h. fähig sind, dasselbe
 Kontinuum, auf zwei verschiedene Arten in Elementarstücke zerlegt, darzustellen. Das Gerüst besteht im Falle einer n-dimensionalen geschlossenen Mannigfaltigkeit aus endlich vielen Elementen
-0.,1.,2.,...,nter Stufe (Ecken, Kanten,...), die durch irgendwelche Symbole gekennzeichnet werden müssen. Ein Element
-v-ter Stufe wird begrenzt von gewissen Elementen (v — ter
+0., 1., 2., ..., nter Stufe (Ecken, Kanten, ...), die durch irgendwelche Symbole gekennzeichnet werden müssen. Ein Element
+ν-ter Stufe wird begrenzt von gewissen Elementen (ν — 1)ter
 Stufe; durch die Angaben darüber ist das Gerüst vollständig be-
 
 [[pdf-page:0122 printed-page:121]]
@@ -1064,7 +1063,7 @@ naturwissenschaftlichen Teil erörtern. In dem geschilderten Aufstieg
 enthüllt sich das sinnlich-kategoriale Doppelantlitz der Geometrie, um
 dessentwillen schon Plato den geometrischen Figuren eine Mittelstellung
 zwischen den Ideen und den Sinnendingen anwies. — Für eine sorgfältigere phänomenologische Analyse des Gegensatzes von Vagem und
-Exaktem und des Limesbegriffs verweise ich auf die am Schluß von $9
+Exaktem und des Limesbegriffs verweise ich auf die am Schluß von §9
 zitierte Schrift von O. Becker. — Wenn wir die Unterteilung des topologischen Gerüstes nach einem festen Schema vornehmen, so bedeutet
 das für ein konkret vorliegendes Kontinuum, daß wir annehmen, wir
 hätten uns bei der ersten Teilung in Stücke über die Analysis-situs-Beschaffenheit dieser Elementarstücke nicht getäuscht. Wir schließen
@@ -1075,7 +1074,7 @@ Fläche zeigen könnte, daß das, was wir für ein Elementarstück gehalten
 
 haben, in Wahrheit etwa aufgesetzte kleine Henkel trägt, die dem Stück
 andere Zusammenhangsverhältnisse verleihen, und so in infinitum bei
-Anwendung immer stärkerer ‚‚Vergrößerungen“ immer neue topologische
+Anwendung immer stärkerer „Vergrößerungen“ immer neue topologische
 Verwicklungen sich enthüllen würden.
 
 Der Riemannsche Standpunkt läßt auch für den wirklichen Raum

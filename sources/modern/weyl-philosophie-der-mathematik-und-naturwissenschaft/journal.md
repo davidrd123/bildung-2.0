@@ -719,3 +719,196 @@ Next batch:
 
 - section 13, `Das Relativitätsproblem`, printed pages 95-103 / PDF pages
   96-104
+
+## 2026-05-08 - Part 014: The Relativity Problem
+
+Translated section 13, `Das Relativitätsproblem`.
+
+Scope correction:
+
+- the previous next-batch note listed printed pages 95-103 / PDF pages 96-104
+- direct page-image inspection showed section 13 continues through printed page
+  104 / PDF page 105, including the final logical remark on frames and the
+  Klein literature entry
+
+Source corrections:
+
+- corrected the automorphism notation around `p′`, `p″`, `σ⁻¹`, `τ⁻¹σ⁻¹`,
+  `R(xyz)`, `R(a′b′c′)`, `R₁/R₂`, and `Γ₀`
+- repaired the corrupted objective-equality passage as `p₁` and `p₀`, with an
+  automorphism carrying `p₀` into `p₁`
+- corrected `§ 1`, `Auf ernste Schwierigkeiten`, `Ich-Vernichtung¹)`, and
+  `OE / O′E′`
+- corrected frame/coordinate notation: `fσ = f′`, `x = x′S`,
+  `f′(p) = f(pσ⁻¹)`, and the conjugation formulas `S* = CSC⁻¹` and
+  `S = C⁻¹S*C`
+
+What the batch clarified:
+
+- `Relativitätsproblem` is the general problem of objectivity under variation,
+  not yet the physical theory of relativity in the narrow sense
+- objectivity is not settled by philosophical assertion; it is tested by
+  whether omitted contingent factors can vary freely without altering truth
+- Weyl's exact mathematical form for objectivity is invariance under the
+  relevant automorphism group
+- Klein's Erlangen program now becomes the governing form of section 12:
+  geometries are organized by their transformation groups
+- the coordinate system is the necessary residue of objectification; the
+  infinite continuum cannot be pointwise fixed without a frame exhibited by an
+  individual demonstrative act
+- the bridge into physics has sharpened: knowledge constructs a symbolic
+  picture of the world and then asks which symbolic relations remain invariant
+
+Translation decisions:
+
+- `Relativitätsproblem` is `relativity problem`
+- `Zufallsfaktor` is `contingent factor`
+- `elliptisch oder unvollständig` is `elliptical or incomplete`, not a
+  geometrical use of `elliptic`
+- `Sachbereich` is `subject-domain`
+- `Punktfeld` is `point-field`
+- `Transformationsgruppe` is `transformation group`
+- `Bezugsrahmen` is `reference frame` / `frame`
+- `Ich-Vernichtung` is `annihilation of the I`
+
+Next batch:
+
+- section 14, `Kongruenz und Ähnlichkeit. Links und rechts`, beginning on
+  printed page 104 / PDF page 105 and likely continuing to the section-15
+  boundary on printed page 113 / PDF page 114; verify by image inspection
+
+## 2026-05-08 - Part 015: Congruence And Similarity. Left And Right
+
+Translated section 14, `Kongruenz und Ähnlichkeit. Links und rechts`.
+
+Scope correction:
+
+- direct page-image inspection confirmed section 14 begins on printed page 104
+  / PDF page 105, continues through printed page 113 / PDF page 114, and ends
+  before section 15 on the same printed page
+- the footnote `Vgl. S. 108` belongs to the final Kant paragraph in section
+  14, although the page layout places it below the opening of section 15
+
+Source corrections:
+
+- corrected congruence-group notation around `Δ⁺`, `Δ`, `Γ`, `Γ′`, `Γ″`, `Ω`,
+  `C⁻¹SC`, `CSC⁻¹`, and `S₁⁻¹S₂`
+- repaired the page-106 diagram linking `v₁`, `v₂`, `v₁*`, and `v₂*`
+- corrected coordinate/vector notation in the Cartesian formulas, including
+  `e₁/e₂/e₃`, `x₁/x₂/x₃`, `xᵢ′`, `aᵢ`, and `aᵢₖ`
+- corrected physical-component notation: `fᵢ`, `Fᵢₖ = −Fₖᵢ`, `fᵢ′`, and
+  `Fᵢₖ′`
+- corrected the left/right paragraph: `(F₁)`, `(F₂)`, `n (≥ 2)`, basis
+  notation, determinant notation, `rechts¹)`, and `sieht`
+
+What the batch clarified:
+
+- congruence begins from actual, approximately rigid bodies, but once geometry
+  is abstracted it becomes a norm by which actual bodies are judged
+- the normalizer is the exact group-theoretic bridge from congruence to
+  similarity; congruent figures are necessarily similar, but the converse fails
+  when the motion group is a proper subgroup of its normalizer
+- Kant's problem of similar but incongruent things is not dismissed; Weyl grants
+  its intuitive force but relocates its conceptual solution in invariant
+  subgroups and normalizers
+- physical automorphisms are orthogonal transformations, not all geometrical
+  automorphisms, because atomism fixes absolute length and excludes dilation as
+  a physical invariance
+- the anti-Cartesian hinge is explicit: physics cannot be reduced to geometry
+  because the physical group `Δ` diverges from the geometrical normalizer `Γ′`
+- left/right is rooted mathematically in even/odd permutation, determinant
+  sign, and the sense or orientation of an ordered basis
+
+Translation decisions:
+
+- `Kongruenz` is `congruence`
+- `Ähnlichkeit` is `similarity`
+- `starr` / `Starrheit` is `rigid` / `rigidity`
+- `euklidische Bewegungen` is `Euclidean motions`
+- `vertauschbar` is `commuting with`
+- `Normalisator` is `normalizer`
+- `invariante Untergruppe` is `invariant subgroup`
+- `Raumanschauung` is `intuition of space`
+- `Sinn` is retained as quoted `sense` in the translation, with orientation
+  pressure noted
+- `zurückführen` is `reduce` in the Descartes sentence
+
+Next batch:
+
+- section 15, `Der Riemannsche Standpunkt. Topologie`, beginning on printed
+  page 113 / PDF page 114 and continuing through the end of chapter III; verify
+  the exact endpoint by image inspection before translating
+
+## 2026-05-08 - Part 016: The Riemannian Standpoint. Topology
+
+Translated section 15, `Der Riemannsche Standpunkt. Topologie`, including the
+section-local literature list.
+
+Scope correction:
+
+- direct page-image inspection confirmed section 15 starts on printed page 113
+  / PDF page 114 after the section-14 Kant paragraph
+- section 15 ends with the literature list on printed page 122 / PDF page 123
+- printed page 123 / PDF page 124 begins `ZWEITER TEIL: NATURWISSENSCHAFT`
+
+Source corrections:
+
+- corrected local chart notation: `x₁`, `xₙ`, `yᵢ`, `φᵢ`, `xₖ`, `ψₖ`
+- corrected differential/Jacobian notation around `dxᵢ`, `dyᵢ`, `aᵢₖ`,
+  `bₖᵢ`, `uₖ`, `vᵢ`, and the Jacobian determinant
+- corrected Riemannian metric notation: `ds²`, `gᵢₖ`, `dxᵢ dxₖ`, `P₀`, and
+  `ds² = dx₁² + dx₂² + ... + dxₙ²`
+- corrected local-frame notation: `e₁, ..., eₙ`, `u₁e₁ + ... + uₙeₙ`, `Δ₀`,
+  `zᵦ′`, `aᵦᵧ`, `eᵢᵦ`, and `gᵢₖ = eᵢ₁eₖ₁ + ... + eᵢₙeₖₙ`
+- repaired corrupted quotes in `Maßfeld`, `Nahgeometrie`, `Ferngeometrie`,
+  `geometrischer`, `mitnehmen`, `Tensor`, `Elementarstücke`,
+  `topologische Gerüst`, `Zusammenhangsverhältnisse`, and `Vergrößerungen`
+- corrected `(ν — 1)ter Stufe` and the Becker reference `§9`
+
+What the batch clarified:
+
+- Riemann's standpoint keeps Euclidean geometry in the infinitesimal while
+  letting the metric field vary from point to point
+- the metric field must be physical, not merely geometrical: it acts on matter,
+  suffers reaction from matter, and cannot remain in geometrical rigidity above
+  material forces
+- Einstein's general relativity becomes acceptable only after the metric field
+  is included among physical magnitudes
+- the local frame `𝔣(P)` and the group `Δ₀` introduce double invariance:
+  arbitrary coordinate transformations `Ω` and point-dependent Euclidean
+  rotations
+- the quantities `eᵢᵦ` are explicitly named as mediators between matter and
+  space, making this section the live bridge toward quantum physics, tensors,
+  and spinors
+- topology frees geometry from differentiability by replacing global numerical
+  coordinates with combinatorial skeletons
+- topology can answer exact questions about vague actual continua when the
+  alternatives form a discrete manifold
+- Weyl closes the chapter with a three-level ascent: morphology, topology, and
+  idealizing geometry
+
+Translation decisions:
+
+- `Der Riemannsche Standpunkt` is `the Riemannian standpoint`
+- `Mannigfaltigkeit` is `manifold`
+- `differenzierbare Mannigfaltigkeit` is `differentiable manifold`
+- `Jacobische Determinante` is `Jacobian determinant`
+- `Maßfeld` is `metric field`
+- `Nahgeometrie` / `Ferngeometrie` is `near-geometry` / `far-geometry`
+- `allgemeine Relativität` is `general relativity`
+- `örtliches kartesisches Bezugssystem` is `local Cartesian reference frame`
+- `Darstellung` is `representation` in the group-theoretic physics passage
+- `topologisches Gerüst` is `topological skeleton`
+- `Zusammenhangsverhältnisse` is `connectedness relations`
+- `Vergewaltigung` is `forcible imposition`
+- `sinnlich-kategoriale Doppelantlitz` is `sensuous-categorial double face`
+
+Chapter-III status:
+
+- sections 12-15 have now been visually checked, corrected where needed in the
+  cleaned German, translated, and journaled
+- chapter-III synthesis written at
+  `synthesis/2026-05-08-chapter-iii-campaign-synthesis.md`
+- promoted chapter-II dossier lightly updated with chapter-III pressure:
+  symbolic access now needs invariance structure and physical coupling, not
+  consistency alone

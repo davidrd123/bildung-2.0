@@ -1,11 +1,10 @@
 # Part 014: The Relativity Problem
 
-Section 13 turns the chapter from geometrical possibilities to the criterion of
-objectivity: what remains meaningful after the accidental, individually
-exhibited factors have been varied away. Weyl's mathematical answer is the
-language of automorphisms, invariance, transformation groups, coordinates, and
-frames. This is the bridge from geometry as formal possibility to physics as
-the demand for an objective symbolic picture of the world.
+Second chapter-III batch. Section 13 gives Weyl's first explicit formulation
+of the relativity problem: objectivity is not immediate givenness, but
+invariance under a permitted group of transformations. The section then turns
+from objective relations to symbolic coordinate construction, where the
+reference frame remains the necessary residue of intuitive exhibition.
 
 ## Scope
 
@@ -14,10 +13,10 @@ the demand for an objective symbolic picture of the world.
 - printed pages `95-104`
 - PDF/page-image pages `96-105`
 
-The previous next-batch note listed printed pages `95-103` / PDF pages
-`96-104`. Direct inspection showed that section 13 continues through printed
-page `104` / PDF page `105`, including the final logical remark on frames and
-the literature entry.
+The initial next-batch note listed printed pages `95-103` / PDF pages
+`96-104`. Direct inspection showed that section 13 continues onto printed page
+`104` / PDF page `105`, including the final function-frame paragraph and the
+literature item before section 14 begins.
 
 ## Source Anchors
 
@@ -38,14 +37,15 @@ the literature entry.
 The active page range was visually checked against page images. The cleaned
 German source was corrected for this batch, especially:
 
-- `AB ≡ CD`, `p′/p″`, `σ⁻¹`, `τ⁻¹σ⁻¹`, `R(xyz)`, `R(a′b′c′)`, `R₁/R₂`, and
-  `Γ₀`
-- the corrupted `p₁/p₀` passage defining objective equality of points
-- the section reference `§ 1`
-- `Auf ernste Schwierigkeiten`, the footnote marker after `Ich-Vernichtung¹)`,
-  and the `OE / O′E′` notation
-- the frame notation `fσ = f′`, `x = x′S`, and `f′(p) = f(pσ⁻¹)`
-- the conjugation diagram and the formulas `S* = CSC⁻¹`, `S = C⁻¹S*C`
+- automorphism and group notation: `σ`, `τ`, `ι`, `σ⁻¹`, `στ`, `τ⁻¹σ⁻¹`,
+  `Γ`, `Γ₀`, `Γ′`, `Γ″`, and `Σ`
+- relation and congruence notation: `AB ≡ CD`, `R(ab ···)`,
+  `R(a′b′c′)`, `R₁`, and `R₂`
+- coordinate and reference-frame formulas: `P ↔ x`, `x = ax′ + b`,
+  `A(p; f) = A(pσ; fσ)`, `x --(S)--> x′`, `x = x′S`, and `S* = CSC⁻¹`
+- the page-103 diagram relating `x`, `x′`, `y`, and `y′`
+- the footnote marker after `Ich-Vernichtung¹)` and prime notation in
+  `O′E′`, `f′`, `p′`, `x′`, and `y′`
 
 ## German
 
@@ -312,7 +312,7 @@ beliebigen Punktes p und seines Bildes p′ = pσ in bezug auf f, und
 y und y′ in bezug auf f*. Die Transformationen, die γ und σ
 mittels f darstellen, heißen C und S. Wir schreiben nun die
 
-Gleichung x′ = xS in der einprägsameren Form x → x′. Nach
+Gleichung x′ = xS in der einprägsameren Form x --(S)--> x′. Nach
 dem Gesagten erhalten wir nun das Diagramm
 
         (S)
@@ -365,209 +365,207 @@ Forschungen. Erlangen 1872. (Gesammelte mathematische Abhandlungen I, S. 460—4
 
 Our knowledge stands under the norm of objectivity. Whoever believes in
 Euclidean geometry will say that all points in space are objectively equal, and
-likewise all possible directions. Newton, however, seems to have thought that
-space possesses an absolute center.
-
-Epicurus certainly thinks that the vertical can be objectively distinguished
-from all other directions. As his reason he adduces that all bodies left to
-themselves move in one and the same direction. Thus the assertion that a line
-runs vertically is elliptical or incomplete; the complete assertion standing
-behind it would run approximately as follows: the line has the direction of
-gravity at the point P. Thus the gravitational field, which we know depends on
-the composition of the matter of the world, enters into the complete statement
-as an accidental factor, as does also an individually indicated point P, to
-which we point with the finger in a demonstrative act, expressed in words such
-as "I," "here," "now," and "this." Only when we are certain that the truth of
-the complete assertion is not influenced by free variation of the accidental
-factors and of such factors as are individually disclosed, like the
-gravitational field and the point P, do we have the right to omit these factors
-from the assertion and still claim objective significance for it. Epicurus'
-belief falls away as soon as it is established that the direction of gravity in
-Princeton runs differently than in Calcutta, and that it can also change through
-a redistribution of matter. Without claiming a mechanically applicable
+so are all possible directions. Newton, however, seems to have thought that
+space possesses an absolute center. Epicurus certainly thinks that the vertical
+can be distinguished objectively from all other directions. As his reason he
+adduces the fact that all bodies left to themselves move in one and the same
+direction. Thus the statement that a line runs vertically is elliptical or
+incomplete; the complete statement standing behind it might read: the line has
+the direction of gravity at the point P. Thus the gravitational field, which we
+know depends on the composition of matter in the world, enters into the
+complete assertion as a contingent factor, and so does an individually indicated
+point P, toward which we point with the finger in a demonstrative act expressed
+in words such as "I," "here," "now," and "this." Only when we are certain that
+the truth of the complete statement is not affected by free variation of the
+contingent factors and of such factors as are individually disclosed, such as
+the gravitational field and the point P, do we have the right to omit these
+factors from the statement and still claim objective meaning for it. Epicurus'
+belief vanishes as soon as it is established that the direction of gravity runs
+differently in Princeton than in Calcutta, and that it can also change through a
+redistribution of matter. Without claiming to have a mechanically applicable
 criterion, our description confirms the essential fact that objectivity is
 something decidable only on the ground of experience. This also explains two
 main sources of errors so often committed in the history of the sciences,
-namely taking an assertion to be objective when it is not: 1. one has overlooked
-determinate factual circumstances on which the sense of the assertion depends,
+namely taking a statement to be objective when it is not: 1. one has overlooked
+definite factual circumstances on which the meaning of the statement depends,
 although they are not explicitly mentioned in its elliptical form; 2. even when
-these circumstances or factors have been recognized, one has not investigated
-carefully enough whether variation of them influences the truth of the
-statement. No wonder that in several phases in the course of the history of
-natural science the region of what was regarded as objective has contracted.
+these circumstances or factors were recognized, one did not investigate
+carefully enough whether variation of them affects the truth of the statement.
+No wonder that, in several phases in the course of the history of the natural
+sciences, the domain of what was regarded as objective has shrunk.
 
-While the philosophical question of objectivity cannot easily be answered
+Although the philosophical question of objectivity cannot easily be answered
 clearly and definitively, we know exactly the adequate mathematical concepts
 for formulating this idea. We start from a completely axiomatized science such
-as Euclidean geometry. For simplicity's sake we assume only one fundamental
-category, namely the points of space. According to Hilbert, the basic relations
-that enter into the axioms would then be: 1. the ternary relation, three points
-lie on a straight line; 2. the relation, three distinct points A, B, and C lie
-on a straight line and B lies between A and C; 3. the relation, four points lie
+as Euclidean geometry. For simplicity, we assume only one fundamental category,
+namely spatial points. According to Hilbert, the basic relations entering into
+the axioms would then be: 1. the ternary relation that three points lie on a
+straight line; 2. the relation that three distinct points A, B, and C lie on a
+straight line and B lies between A and C; 3. the relation that four points lie
 in a plane; 4. the congruence relation AB ≡ CD between two pairs of points AB
-and CD. What we mean by this can be applied to any domain of things whose axioms
-treat a few basic relations. Without prejudging what these things now are, we
-can call them points and thus speak of the object-domain as the point-field.
+and CD. What we mean to say by this can be applied to any domain of things
+whose axioms treat a few basic relations. Without prejudging what these things
+are, we can call them points and thus speak of the subject-domain as the
+point-field.
 
 In § 4 the concept of isomorphic mapping was introduced. We now consider the
-special case in which our domain of objects is mapped not onto another domain
-but onto itself, and so arrive at the concept of automorphism: automorphy is a
-one-one or invertibly determinate mapping p → p′ of the point-field onto itself
-that leaves the basic relations undisturbed; that is, whenever points a, b, ...
-satisfy the basic relation R(ab ···), then the points a′, b′, ..., into which
-a, b are transferred by the mapping, also satisfy the same relation, and
-conversely. In other words, from R(ab ···) follows R(a′b′ ···), and from
-R(a′b′ ···) follows R(ab ···). A mapping σ transfers each point of the
-point-field into a point p′ = pσ. The simplest mapping is the identity ι, which
-transfers each point p into p itself. Two mappings σ : p → p′ and τ : p′ → p″
-can be carried out one after the other and then conceived as a new mapping
-στ : p → p″. A mapping σ : p → p′ is one-one when it has an inverse σ⁻¹ that
-maps p′ back to p: σσ⁻¹ = σ⁻¹σ = ι. Then σ⁻¹ is also one-one. The identity is a
-one-one mapping; and if σ and τ are one-one mappings, then so is στ, with
-inverse τ⁻¹σ⁻¹. The word transformation is used as a synonym for one-one
-mapping.
-
-The fundamental property of automorphisms is that they form a group. This
-means the following three things: 1. the identity is an automorphism; 2. if σ is
-an automorphism, then so is σ⁻¹; 3. if σ and τ are automorphisms, then στ is
-also one. These three facts follow immediately from the definition.
+special case in which our subject-domain is not mapped onto another domain but
+onto itself, and thus arrive at the concept of automorphism: an automorphism is
+a one-to-one, or reversibly unique, mapping p → p′ of the point-field onto
+itself that leaves the basic relations undisturbed. That is, whenever points a,
+b, ... satisfy the basic relation R(ab ···), then the points a′, b′, ... into
+which a, b are transferred by the mapping satisfy the same relation, and
+conversely. In other words, R(ab ···) implies R(a′b′ ···), and R(a′b′ ···)
+implies R(ab ···). A mapping σ transfers every point of the point-field into a
+point p′ = pσ. The simplest mapping is the identity ι, which transfers every
+point p into p itself. Two mappings σ : p → p′ and τ : p′ → p″ can be carried
+out one after the other and then understood as a new mapping στ : p → p″. A
+mapping σ : p → p′ is one-to-one if it possesses an inverse σ⁻¹ that maps p′
+back to p: σσ⁻¹ = σ⁻¹σ = ι. Then σ⁻¹ is also one-to-one. The identity is a
+one-to-one mapping; and if σ and τ are one-to-one mappings, then so is στ, with
+inverse τ⁻¹σ⁻¹. The word transformation is used as a synonym for one-to-one
+mapping. The fundamental property of automorphisms is that they form a group.
+This means the following three things: 1. the identity is an automorphism; 2. if
+σ is an automorphism, then so is σ⁻¹; 3. if σ and τ are automorphisms, then στ
+is also one. These three facts follow immediately from the definition.
 
 A figure F in the broadest sense, or a configuration of points, is nothing
 other than a set of points; F is given when, for every point p, it is determined
 whether or not it belongs to F. A ternary relation R(xyz) between points is
 called invariant with respect to a given transformation σ : p → p′ and its
-inverse p′ → p when R(abc) always entails R(a′b′c′), and conversely. Now we can
-say exactly what is meant by the objective equality or "indistinguishability" of
-all points in Euclidean space. It means that for any two points p₁ and p₀ there
-always exists an automorphism that transfers p₀ into p₁. Two figures F and F′
-are called similar when one can be transferred into the other by an
+inverse p′ → p when R(abc) always implies R(a′b′c′), and conversely. Now we can
+say exactly what is meant by the objective equality, or "indistinguishability,"
+of all points in Euclidean space. It means that for any two points p₁ and p₀
+there always exists an automorphism that transfers p₀ into p₁. Two figures F
+and F′ are called similar if one can be transferred into the other by an
 automorphism. This is now our interpretation of Leibniz's definition of similar
-figures as those that cannot be kept apart when each is considered by itself.
+figures as those that cannot be told apart when each is considered by itself.
 The three group postulates simply state that every figure is similar to itself,
 and that similarity is symmetric and transitive; see the equivalence axioms on
-p. 23. A point-relation is called objective when it is invariant with respect to
+p. 23. A point-relation is called objective if it is invariant with respect to
 all automorphisms. In this sense the basic relations are objective, as are all
-relations logically defined from them according to the principles given in § 1,
-provided no use is made of principle no. 5, which allows an empty place to be
+relations logically defined from them according to the principles stated in § 1,
+provided no use is made of principle no. 5, which permits an empty place to be
 filled by an individually exhibited point. Whether every objective relation can
-be so defined raises a question of logical completeness, which can hardly be
-answered as the corresponding question of completeness for axioms can be
-answered in the form of whether every true general statement about points can
-be inferred from the axioms.
+be defined in this way raises a question of logical completeness, which can
+hardly be answered as the corresponding question of completeness for axioms is
+answered, in the form: can every true general statement about points be inferred
+from the axioms?
 
 If our task is to investigate actual space, then neither the axioms nor the
 basic relations are given to us. On the contrary: in our attempt to axiomatize
-geometry, we select as our basic relations some of the point-relations of which
-we are convinced that they possess objective significance. Epicurus, for
-example, would have included the basic relation: A, B lie on a vertical; Euclid
-did not do so. In order to do justice to the true state of affairs, therefore,
-we must probably reverse the order in the development of our thoughts. We start
-from a transformation group Γ. It describes, so to speak, the degree to which
-our point-field is homogeneous. Once the group is given, we know what equality
-or similarity means, namely: two figures are similar, equal, or equivalent if
-they arise from one another through a transformation of Γ. Further, we know
-under what conditions a relation is objective, namely when it is invariant with
-respect to all transformations of Γ. In this sense Felix Klein, in his famous
-Erlangen Program of 1872, intended the formulation that a geometry is determined
-by a transformation group. The question of axiomatizing this geometry is thereby
-pushed into the background. As a first step, one would have to find a few
-objective relations R₁, R₂, ... such that the group of all transformations that
-leave R₁, R₂, ... invariant becomes no larger than Γ, but coincides with Γ.
-While we need not close our eyes to the fact that objective relations can be
-constructed logically from other such relations, we renounce making a distinction
-between basic relations and derived ones. We are equally interested in all
-invariant relations.
+geometry, we select as our basic relations some among the point-relations that
+we are convinced possess objective meaning; Epicurus, for example, would have
+included the basic relation: A and B lie on a vertical; Euclid did not do this.
+Thus, in order to do justice to the true state of affairs, we probably have to
+reverse the order in the development of our thoughts. We start from a
+transformation group Γ. It describes, so to speak, the degree to which our
+point-field is homogeneous. Once the group is given, we know what equality or
+similarity means: two figures are similar, or equal, or equivalent, when they
+arise from one another by a transformation of Γ. We also know under what
+conditions a relation is objective: namely, when it is invariant with respect
+to all transformations of Γ. In this sense Felix Klein meant the formulation in
+his famous Erlangen Program of 1872 that a geometry is determined by a
+transformation group. The question of the axiomatization of this geometry is
+thereby pushed into the background. As a first step, a few objective relations
+R₁, R₂, ... would have to be found, in such a way that the group of all
+transformations that leave R₁, R₂, ... invariant does not become larger than Γ
+but coincides with Γ. While we need not close our eyes to the fact that
+objective relations can be logically constructed from other such relations, we
+renounce making a distinction between basic and derived relations. We are
+equally interested in all invariant relations.
 
 If Newton were right about his absolute center O of space, then the true group
 Γ₀ of automorphisms would consist of those transformations of the Euclidean
 group Γ of automorphisms that leave O fixed; Newton's Γ₀ is a subgroup of the
-Euclidean group Γ. On the other hand, in the investigation of Euclidean geometry
-we are chiefly interested in such properties as are invariant with respect to
-all affine or all projective transformations. The affine or projective
-transformations of the plane are those that arise when one carries out in
-sequence a number of parallel projections or central projections. The groups Γ′
-and Γ″ of these transformations are more comprehensive than Γ; more precisely,
-Γ is a part of Γ′, and Γ′ a part of Γ″. The importance of affine and projective
-geometry for the theory of perspective is evident. One sees how useful the
-Kleinian standpoint proves for an ordered overview, and in uncovering mutual
-relations various kinds of geometries are either suggested by the nature of
-things or arise from an arbitrary but logically useful abstraction. A precursor
-of Klein was Möbius, who emphasized the group-theoretical standpoint for a
-number of determinate kinds of geometry. The most comprehensive automorphism
-group one can possibly consider for a continuum consists of all continuous
-transformations; the corresponding geometry is called topology. For the
-development of mathematics it was a fortunate accident that the relativity
-problem was not first tackled for continuous point-space but for a system
-consisting of a finite number of distinct things, namely the system of roots of
-an algebraic equation with rational coefficients: Galois theory. This
-circumstance was a blessing for the exactness of the corresponding
-concept-formations. The objective relations here are those that can be built up
-from the four basic operations of algebra, addition, subtraction,
-multiplication, and division; in other words, the algebraic relations with
-rational coefficients. From problems of this kind arose a general theory, not
-merely of transformation groups but also of abstract groups.
+Euclidean group Γ. On the other hand, in investigating Euclidean geometry we
+are primarily interested in those properties that are invariant with respect to
+all affine or all projective transformations. The affine and projective
+transformations of the plane, respectively, are those that result when one
+carries out a number of parallel projections or central projections one after
+another. The groups Γ′ and Γ″ of these transformations are more comprehensive
+than Γ; more precisely: Γ is a part of Γ′, and Γ′ a part of Γ″. The importance
+of affine and projective geometry for the theory of perspective is obvious. One
+sees how useful the Kleinian standpoint proves for an ordered survey, and in
+uncovering the mutual relations, different kinds of geometry are either
+suggested by the nature of things or arise from an arbitrary but logically
+useful abstraction. A predecessor of Klein was Möbius, who emphasized the
+group-theoretical standpoint for a number of determinate kinds of geometry. The
+most comprehensive automorphism group that one can possibly consider for a
+continuum consists of all continuous transformations; the corresponding
+geometry is called topology. For the development of mathematics it was a happy
+accident that the relativity problem was first tackled not for continuous
+point-space but for a system consisting of a finite number of distinct things,
+namely the system of roots of an algebraic equation with rational coefficients,
+Galois theory. This circumstance was a blessing for the exactness of the
+corresponding concept-formations. The objective relations here are those that
+can be built up from the four basic operations of algebra, addition,
+subtraction, multiplication, and division; in other words, algebraic relations
+with rational coefficients. From problems of this kind arose a general theory,
+not merely of transformation groups but also of abstract groups.
 
 After this explanation of automorphisms we now come to a second phase of the
-relativity problem. How can identifiers or marks be assigned to the points of a
-point-field, so that they can serve to identify or distinguish the points? The
-marks are to be self-generating, distinct, and always reproducible symbols, such
-as names, numbers, or triples of numbers x, y, z, and so forth. Only then can
-one think of presenting the spectacle of the actually given world by
-construction in a field of symbols. All knowledge, even when it begins from
-intuitive description, tends toward a symbolic construction. One does not run
-into serious difficulties as long as one is dealing with a domain of only a
-finite number of points, which can be "called up" one after another.
+relativity problem. How can signs or marks be assigned to the points of a
+point-field, serving to identify or distinguish the points? The marks are to be
+self-generating, distinct, and always reproducible symbols, such as names,
+numbers or number-triples x, y, z, and so on. Only then can one think of
+representing the spectacle of the actually given world by construction in a
+symbol-field. All knowledge, even when it starts from intuitive description,
+tends toward a symbolic construction. One does not encounter serious
+difficulties so long as one has to do with a domain of only a finite number of
+points that can be "called up" one after another.
 
 The problem becomes serious when the point-field becomes infinite, especially
-when it is a continuum. A conceptual fixing of points by marks of the kind just
-described, which would make possible the reconstruction of every once-lost
-point, is here possible only in connection with a coordinate system or reference
-frame, which must be exhibited by an individual demonstrative act. Objectivation
-by elimination of the I and of its immediate life of intuition does not succeed
-without remainder, and the coordinate system remains as the necessary residue of
-I-destruction. It is worth recalling here that, in practice, two- or
-three-dimensional point sets are usually given by actually holding before
-oneself a body or a figure drawn with pencil on paper, and not by a
-logical-arithmetical construction of set-defining properties. Mathematics took
-a long time to acquire the constructive aids needed to master the complexity and
-diversity of such intuitively given figures. After it had reached this stage,
-however, the superiority of its symbolic methods became evident.
+when it is a continuum. A conceptual fixing of points by marks of the kind
+described above, one that would permit the reconstruction of any once-lost
+point, is possible here only in connection with a coordinate system or a
+reference frame, which must be exhibited through an individual demonstrative
+act. Objectification through elimination of the I and of its immediate life of
+intuition does not succeed without remainder, and the coordinate system remains
+as the necessary residue of the annihilation of the I. It is good to recall
+here that in practice two- or three-dimensional point-sets are usually given by
+actually holding before one's eyes a body or a figure drawn with pencil on
+paper, and not by a logical-arithmetical construction of set-defining
+properties. Mathematics took a long time to acquire the constructive aids
+needed to deal with the complexity and variety of such intuitively given
+figures. Yet once it had reached this stage, the superiority of its symbolic
+methods became obvious.
 
-As an example, let us take the points on a straight line. The coordinate system
-here consists of an origin O and a unit segment OE, or of two distinct points O
-and E. Once this reference frame is given, any point P can be characterized by
-its abscissa x, that is, the measure-number of the length OP measured by the
-unit segment OE; x is positive for the points on the same side from O as E, and
-negative for the points on the other side. Two reference frames, OE and O′E′,
-are objectively equivalent, for there is exactly one automorphism, a similarity,
-that maps O to O′ and E to E′. Consequently, by the exhibition of an individual
-coordinate system no more is exhibited than is absolutely necessary.
+As an example, let us take the points on a line. The coordinate system here
+consists of an initial point O and a unit segment OE, or of two distinct points
+O and E. If this reference frame is given, any arbitrary point P can be marked
+by its abscissa x, that is, the measure-number of the length OP measured by the
+unit segment OE. The number x is positive for points on the same side of O as E
+and negative for points on the other side. Two reference frames, OE and O′E′,
+are objectively equivalent; for there is exactly one automorphism, a similarity,
+that maps O onto O′ and E onto E′. Consequently, by the exhibition of an
+individual coordinate system no more than is absolutely necessary is exhibited.
 
-Footnote 1: One could object against positing a principled distinction between
-conceptual fixation and intuitive exhibition by saying that the objective
-geometrical relations on which conceptual determination rests must also be
-exhibited in intuition. But these are a few relation-concepts, whereas the
-points themselves form a continuum; it must be admitted that the principled
-difference consists only in this.
+1) Against the positing of a difference in principle between conceptual fixing
+and intuitive exhibition, one could raise the objection that the objective
+geometrical relations on which conceptual determination is based must also be
+exhibited in intuition. But those are a few relational concepts, whereas the
+points themselves form a continuum; it must be admitted that the difference in
+principle consists only in this.
 
-The field for the symbol x consists of all real numbers. With respect to a given
-coordinate system, the assignment P ↔ x is a one-one mapping of the point-field
-onto the variability-domain of the symbol. The coordinates x and x′ of an
-arbitrary point in two coordinate systems are connected by a relation
-`x = ax′ + b`, where `a ≠ 0` and b are two constants characterizing the relative
-position of the two coordinate systems to one another.
+The field for the symbol x consists of all real numbers. With respect to a
+given coordinate system, the assignment P ↔ x is a one-to-one mapping of the
+point-field onto the range of variability of the symbol. The coordinates x and
+x′ of an arbitrary point in two coordinate systems are connected by a relation
+x = ax′ + b, where a ≠ 0 and b are two constants characterizing the relative
+position of the two coordinate systems with respect to one another.
 
 With this example before our eyes, we can now understand the following general
-description. Let there be a class Σ of reference frames f. The class as such
-should be objectively distinguishable; that is, if f belongs to it, then so does
-every similar frame fσ = f′ that arises from f through an automorphism σ. The
-class, however, should not contain more elements than this requirement makes
-absolutely necessary; that is, any two frames f, f′ of the class are similar. In
-addition, there should be an objective rule A according to which every point p,
-with respect to every frame f of the class Σ, determines a definite,
-reproducible symbol `x = A(p; f)` as coordinate. For a given f, the assignment
-p ↔ x between the points p and the symbols x is invertibly unique. That x is
-objectively determined by p and f means that
+description. Let there be given a class Σ of reference frames f. The class as
+such should be objectively distinguishable, that is, if f belongs to it, then so
+does every similar frame fσ = f′ that arises from f by an automorphism σ. The
+class should not, however, contain more elements than this requirement makes
+absolutely necessary; that is, any two frames f, f′ of the class are similar.
+In addition, let an objective prescription A be given, according to which every
+point p, with respect to every frame f of the class Σ, determines a definite
+reproducible symbol x = A(p; f) as its coordinate. For a given f, the
+assignment p ↔ x between the points p and the symbols x is reversibly unique.
+That x is objectively determined by p and f means that
 
 ```text
 A(p; f) = A(pσ; fσ)     (*)
@@ -578,32 +576,31 @@ holds for every automorphism.
 From these conditions the following consequences result. Let σ be an
 automorphism p → p′ of the point-field, and let f be a fixed frame of the class
 Σ. The coordinates x of p and x′ of p′ in this frame are connected by a
-transformation S, `x′ = xS`, which represents the automorphism σ by means of f.
-To the identity σ = ι corresponds the identity S = I; σ⁻¹ and στ are represented
-by S⁻¹ and ST when σ and τ are represented by S and T. In this sense the
-transformations S that correspond to the various σ of Γ form a group G
+transformation S, x′ = xS, which represents the automorphism σ by means of f. To
+the identity σ = ι corresponds the identity S = I; σ⁻¹ and στ are represented
+by S⁻¹ and ST if σ and τ are represented by S and T. In this sense the
+transformations S corresponding to the different σ of Γ form a group G
 isomorphic to Γ. G is nothing other than the representation of Γ by means of f.
-On the other hand, take a fixed frame f of our class Σ and an arbitrary frame
-f′ = fσ that arises from f through the automorphism σ. I now claim that the
+If, on the other hand, we take a fixed frame f of our class Σ and an arbitrary
+frame f′ = fσ that arises from f by the automorphism σ, then I claim that the
 coordinates x and x′ of the same arbitrary point with respect to f and f′ are
-connected by the equation `x = x′S`. If we denote the arbitrary point by pσ
-instead of p, then we have `x = A(pσ; f)`, and because of (*),
+linked by the equation x = x′S. For if we designate the arbitrary point by pσ
+instead of by p, then we have x = A(pσ; f), and because of (*)
 
 ```text
 x′ = A(pσ; fσ) = A(p; f),
 ```
 
-and from this our claim follows.
-
-The group G that represents Γ by means of f must be independent of f. Indeed, a
-representation of Γ by two different groups G, G* by means of the two similar
-frames f and f* would make an objective difference between f and f* appear,
-which is impossible. It is easy to confirm this explicitly. Let f* = fγ, where γ
-is an automorphism. Furthermore, let x and x′ be the coordinates of an arbitrary
-point p and of its image p′ = pσ with respect to f, and y and y′ with respect to
-f*. The transformations that represent γ and σ by means of f are called C and
-S. We now write the equation x′ = xS in the more memorable form x → x′.
-According to what has been said, we now obtain the diagram:
+and from this our claim follows. The group G that represents Γ by means of f
+must be independent of f. In fact, a representation of Γ by two different
+groups G, G* by means of the two similar frames f and f* would allow an
+objective difference between f and f* to appear, which is impossible. It is
+easy to confirm this explicitly. Let f* = fγ, where γ is an automorphism.
+Further, let x and x′ be the coordinates of an arbitrary point p and of its
+image p′ = pσ with respect to f, and y and y′ with respect to f*. The
+transformations that represent γ and σ by means of f are called C and S. We
+now write the equation x′ = xS in the more memorable form x --(S)--> x′.
+According to what has been said, we now obtain the diagram
 
 ```text
         (S)
@@ -612,85 +609,116 @@ x  -------->  x′
 y             y′
 ```
 
-Consequently the transformation that transfers y into y′, and thus represents σ
-by means of the frame f*, is S* = CSC⁻¹. With S, CSC⁻¹ = S* also belongs to the
-group G, and conversely S = C⁻¹S*C.
+Consequently the transformation that transfers y into y′ and thus represents σ
+by means of the frame f* is S* = CSC⁻¹. Along with S, CSC⁻¹ = S* also belongs
+to the group G, and conversely S = C⁻¹S*C.
 
-As long as the points could not be conceptually characterized, neither could the
-transformations of the point-field be so characterized, and it was perhaps also
-not entirely clear what was meant by the statement that the automorphism group
-was known or given. Now a stage has been reached at which this last trace of
-unclarity disappears. Every individual point is replaced by its coordinate x,
+As long as the points could not be conceptually marked, neither could the
+transformations of the point-field be so marked, and perhaps it was also not
+entirely clear what was meant by the statement that the automorphism group was
+known or given. Now a stage has been reached at which this last trace of
+unclarity disappears. Each individual point is replaced by its coordinate x,
 with respect to a fixed frame, and thus the group Γ of automorphisms σ appears
-as the group G of transformations S. The individual transformation S, which
-transfers x into x′ = xS, is a reproducible symbol like every single individual
+as the group G of transformations S. The individual transformation S that
+transfers x into x′ = xS is a reproducible symbol, like every single individual
 value of x. But while the coordinate x depends not only on p but also on f, the
-group G is independent of f and thus free from any necessity of individual
-exhibition. In order to satisfy the requirement of objectivity, we construct a
-picture of the world in symbols. The pure mathematician expresses this as
+group G is independent of f and thus free of any necessity of individual
+exhibition. In order to satisfy the demand of objectivity, we construct an
+image of the world in symbols. The pure mathematician expresses this as
 follows: if a group G of transformations in a field of symbols is given, then a
-geometry is established by the convention of investigating and considering as
-objective only those relations in the field that are invariant with respect to
+geometry is set up by the convention that only those relations in the field are
+to be investigated and regarded as objective that are invariant with respect to
 the transformations of G.
 
-One final remark of purely logical nature concerns the frames. It is entirely
-legitimate to regard as reference frame f the coordinate assignment
-`p → x = f(p)` formed by f itself. This even seems expedient when one must be
-prepared for an automorphism group so comprehensive that it contains all
-continuous transformations. The symbol f is then simply a sign for the function
-f, whose argument-domain extends over the points p and whose value is an element
-x in the symbol-field. If σ : p → p′ is an arbitrary transformation, then the
-transformed function f′ = fσ is defined by the equation `f′(p′) = f(p)` for
-`p′ = pσ`, or `f′(p) = f(pσ⁻¹)`. If we write `x = A(p; f)` for `x = f(p)`, then
-A means the general logical operator "value of." `x = A(p; f)` means: x is the
-value of the function f for the argument p.
+One final remark of a purely logical nature concerns the frames. It is entirely
+legitimate to regard as reference frame f the coordinate assignment p → x =
+f(p) itself formed by f. This even seems expedient when one must be prepared
+for so comprehensive an automorphism group, one that contains all continuous
+transformations. The symbol f is then simply a sign for the function f, whose
+domain of arguments extends over the points p and whose value is an element x
+in the symbol-field. If σ : p → p′ is any transformation, then the transformed
+function f′ = fσ is defined by the equation f′(p′) = f(p) for p′ = pσ, or
+f′(p) = f(pσ⁻¹). If we write x = A(p; f) for x = f(p), then A means the
+general logical operator "value of." x = A(p; f) means: x is the value of the
+function f for the argument p.
 
-Literature: F. Klein, *Vergleichende Betrachtungen über neuere geometrische
-Forschungen*. Erlangen 1872. Collected mathematical papers I, pp. 460-497.
+Literature
+
+F. Klein, Vergleichende Betrachtungen über neuere geometrische Forschungen.
+Erlangen 1872. Gesammelte mathematische Abhandlungen I, pp. 460-497.
 
 ## Notes
 
-- Section 13 is not yet Einsteinian relativity in the narrow sense. It is
-  Weyl's general relativity problem: how to separate objective relations from
-  accidental factors by asking what remains invariant under the admissible
-  transformations.
-- The section turns objectivity into a group-theoretic criterion. A relation is
-  objective when it is invariant under all automorphisms of the chosen group.
-- The coordinate system is not fully eliminated. It remains the necessary
-  residue of `Ich-Vernichtung`, because an infinite point continuum cannot be
-  individually fixed without a frame.
-- The decisive bridge to physics is symbolic construction: to satisfy
-  objectivity, we construct a symbolic picture of the world and then ask which
-  relations in that symbol field are invariant.
-- The Klein/Erlangen move retroactively clarifies section 12: different
-  geometries are organized by transformation groups, not merely by different
-  axiom lists.
+Section 13 makes relativity a general problem of objectivity, not first a
+physics doctrine. The philosophical question is difficult because omitted
+contingent factors can quietly control the truth of a statement. Weyl's
+mathematical clarification is to replace naive objectivity with invariance
+under automorphisms.
+
+The key reversal is methodological: when actual space is at stake, the axioms
+and basic relations are not simply given. Weyl says one should begin with a
+transformation group Γ and define equality, similarity, equivalence, and
+objective relation through invariance under that group. Klein's Erlangen
+program becomes the organizing model.
+
+The second phase adds the coordinate problem. A continuum cannot have its
+points conceptually fixed one by one without a coordinate system or reference
+frame. That frame must be individually exhibited, so symbolic construction does
+not abolish intuition without remainder. The reference frame is the necessary
+residue of the annihilation of the I.
+
+This section sharpens the chapter-II dossier. Chapter II showed that the
+infinite cannot be possessed as an object and must be satisfied symbolically.
+Section 13 shows the same discipline operating inside geometry: the continuum
+of points is handled by symbolic construction, but the construction still
+depends on a demonstrated frame. Symbolization is not escape from givenness; it
+is a regulated way of preserving objectivity under transformations.
+
+The bridge to physics is now sharper than in section 12. Physics will not just
+choose a geometry from a menu of formal possibilities; it must decide, through
+experience, which transformations leave the content of a statement objective
+and which omitted factors were illegitimately suppressed.
 
 ## Translation Decisions
 
-- `Relativitätsproblem` is `relativity problem`, not yet `theory of relativity`.
-- `Objektivität` is `objectivity`.
-- `Zufallsfaktor` is `accidental factor`; `random factor` would misleadingly
-  suggest probability.
-- `elliptisch oder unvollständig` is `elliptical or incomplete`; here
-  `elliptisch` means abbreviated/elliptical, not geometrically elliptic.
-- `Sachbereich` is `object-domain`; `Punktfeld` is `point-field`.
-- `Automorphismus` is `automorphism`; `Automorphie` is rendered as
-  `automorphy` only in the definition sentence.
-- `eineindeutig` is translated as `one-one` where Weyl is stating the mapping
-  property; `umkehrbar eindeutig` is `invertibly determinate` or `invertibly
-  unique` depending on the sentence.
-- `Bezugsrahmen` and `Rahmen` are rendered as `reference frame` / `frame`.
-- `Aufweisung` remains in the orbit of `exhibition`; individual cases are
-  sometimes `indication` or `exhibited by an individual demonstrative act`.
-- `Ich-Vernichtung` is kept as `I-destruction`, deliberately stark, because
-  smoothing it into `elimination of subjectivity` loses Weyl's residue claim.
+- `Relativitätsproblem` is `relativity problem`
+- `Objektivität` is `objectivity`
+- `Feststellung` is usually `statement`; `Aussage` is `assertion` or
+  `statement` according to local pressure
+- `Zufallsfaktor` is `contingent factor`
+- `Automorphismus` is `automorphism`
+- `Automorphie` is rendered idiomatically as `an automorphism is`
+- `eineindeutige Abbildung` is `one-to-one mapping`, with `reversibly unique`
+  kept for `umkehrbar eindeutig`
+- `Sachbereich` is `subject-domain`; `Punktfeld` is `point-field`
+- `Unterschiedslosigkeit` is `indistinguishability`
+- `ähnlich` is `similar`, not merely `alike`
+- `wirklicher Raum` is `actual space`
+- `Transformationsgruppe` is `transformation group`
+- `Erlanger Programm` is `Erlangen Program`
+- `Begriffsbildungen` is `concept-formations`
+- `symbolische Konstruktion` is `symbolic construction`
+- `Koordinatensystem` is `coordinate system`
+- `Bezugsrahmen` is `reference frame`
+- `Aufweisung` is `exhibition`
+- `Ich-Vernichtung` is `annihilation of the I`
+- `Vorschrift` is `prescription`
+- `Variabilitätsbereich` is `range of variability`
+- `Wert von` is `value of`
 
 ## Adversarial Check
 
-The main risk is over-formalizing the section and losing the epistemological
-argument. Weyl is not merely presenting group theory; he is explaining why
-objectivity cannot be settled by a philosophical slogan. It is historically and
-experientially tested by whether omitted factors can be freely varied without
-altering truth. The group-theoretic language is the exact mathematical form of
-that test, not a replacement for it.
+The first risk is to read the `Relativitätsproblem` too narrowly as a prelude
+to Einstein. Weyl's argument is broader: any objective science has to know
+which transformations preserve meaning, and this applies equally to Euclidean,
+affine, projective, topological, and algebraic cases.
+
+The second risk is to let the group-theoretic formulation look like pure
+formalism. Weyl explicitly blocks that. Which factors can be omitted from a
+statement, and which transformations count, is finally decidable only on the
+ground of experience.
+
+The third risk is to over-translate `Ich-Vernichtung` psychologically. The
+point is methodological: objectivity tries to eliminate the individual
+demonstrative standpoint, but the coordinate frame remains as its necessary
+residue when a continuum must be symbolically reconstructed.
