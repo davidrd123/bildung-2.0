@@ -72,6 +72,21 @@ That matters for current repo pressure around:
 - scientific models as theoretical formations rather than passive mirrors
 - the relation between intuition, construction, and formal discipline
 
+## Chapter III Pressure
+
+The source-local chapter-III campaign strengthens rather than weakens this
+dossier. Geometry shows how symbolic construction becomes objective in a more
+specific way: through invariance under transformation groups, coordinate frames
+whose arbitrariness is controlled, and physical fields that connect formal
+structure back to matter.
+
+The chapter-II claim should therefore be read with one added constraint:
+symbolic access to totality is not enough by itself. In geometry and physics,
+the symbolic system must also define the transformations under which its claims
+remain invariant. Chapter III adds the bridge from symbolic discipline to
+objectivity by invariance and then to physics through the metric field and
+local-frame quantities `eᵢᵦ`.
+
 ## Rival Reading
 
 A competent rival reading could say that the chapter is mainly a dated survey

@@ -177,11 +177,11 @@ occhio_della_raggione:
 complicato:
   status: open
   preferred: complicated
-  notes: "Folded/unified state of act and potency in the principle."
+  notes: "Technical Cusan/Latin-root usage: folded or enfolded into unity, not ordinary English 'confusing'. Keep in the source-local draft; reconsider for public/TTS rendering."
 esplicato:
   status: open
   preferred: explicated
-  notes: "Unfolded/dispersed state of act and potency in finite things and the universe."
+  notes: "Unfolded, expressed, or distributed into determinate finite modes. Pair with complicato; do not silently replace passage by passage."
 possibilita:
   source: possibilità
   status: open
@@ -192,3 +192,50 @@ massimo_minimo:
   status: open
   preferred: maximum/minimum
   notes: "Coincidence pressure in Dialogo terzo; likely Cusan resonance."
+contrazione:
+  status: open
+  preferred: contraction
+  notes: "Difference arises by contraction to corporeal or incorporeal being."
+prope_nihil:
+  source: prope nihil
+  status: open
+  preferred: prope nihil
+  notes: "Rejected description of matter as almost nothing."
+appetito:
+  status: open
+  preferred: appetite
+  notes: "Matter's appetite for forms is rejected or radically reinterpreted in Dialogo quarto."
+implicazione:
+  status: open
+  preferred: implication
+  notes: "Forms are held implicatedly in matter before explication; watch whether public English needs 'enfolded' rather than implication-language."
+fonte_delle_forme:
+  source: fonte de le forme
+  status: open
+  preferred: fountain of forms
+  notes: "Matter/world-soul pressure point; forms are not imported from outside."
+infinito:
+  status: open
+  preferred: infinite
+  notes: "Central in Dialogo quinto; infinite has no proportional parts and is one."
+immobile:
+  status: open
+  preferred: immobile
+  notes: "Universe/one is immobile because there is no outside into which it moves."
+unimodamente:
+  status: open
+  preferred: in one mode
+  notes: "All is in all, but not totally or in one mode in each thing."
+ubique:
+  status: open
+  preferred: everywhere
+  notes: "Same everywhere; track with whole-in-each-part and voice analogy."
+cusano:
+  source: Cusano
+  status: open
+  preferred: Cusanus
+  notes: "Explicitly cited in Dialogo quinto on geometrical coincidence of contraries."
+complicante:
+  status: open
+  preferred: complicating
+  notes: "Unity is complicating and comprehending: it enfolds/comprehends many into one, not isolated numerical singularity."

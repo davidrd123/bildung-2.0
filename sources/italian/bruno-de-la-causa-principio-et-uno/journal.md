@@ -187,3 +187,107 @@ and the one root of spiritual and corporeal substance. This should be tracked
 without collapsing Bruno into Cusa.
 
 Next work: proceed to `Dialogo quarto`, where matter is considered as subject.
+
+## 2026-05-08 - Dialogo Quarto Translated
+
+Added working translation drafts for the fourth dialogue:
+
+- `parts/007a-dialogo-quarto-matter-female-and-appetite-prelude.md`
+- `parts/007b-dialogo-quarto-one-matter-corporeal-incorporeal.md`
+- `parts/007c-dialogo-quarto-matter-contains-forms.md`
+- `parts/007d-dialogo-quarto-appetite-of-matter.md`
+
+The fourth dialogue treats matter as subject and extends the argument beyond
+corporeal matter. Bruno argues for one matter common to corporeal and
+incorporeal substances, differentiated by contraction rather than by unrelated
+principles.
+
+The dialogue also reverses the standard `materia/femina` insult. Polihimnio
+uses the analogy to make matter greedy lack; Gervasio and Teofilo turn it into
+an argument for matter's dignity as the capacity to become all forms and as the
+conserving source from which forms are explicated.
+
+The key doctrinal pressure: matter is not `prope nihil`, not naked potency, and
+not empty receptivity. It contains forms implicatedly and explicates them from
+its own womb.
+
+The theological boundary remains careful. Teofilo uses scriptural examples to
+avoid scruple, but the proof remains natural-philosophical.
+
+Next work: proceed to `Dialogo quinto`, where the one completes the foundation.
+
+## 2026-05-08 - Dialogo Quinto Translated
+
+Added working translation drafts for the fifth dialogue:
+
+- `parts/008a-dialogo-quinto-one-infinite-immobile.md`
+- `parts/008b-dialogo-quinto-summary-and-ascent-to-unity.md`
+- `parts/008c-dialogo-quinto-contraries-and-final-one.md`
+
+The fifth dialogue completes the doctrinal arc: the universe is one, infinite,
+immobile; act and potency coincide in the absolute; every thing is in every
+thing, but not totally and not in every mode in each; substance is one, while
+difference and number belong to accident, figure, complexion, condition, and
+mode around substance.
+
+The Cusan source is explicit here. Bruno cites `Cusano` on the coincidence of
+minimum chord/arc and the infinite straight line/infinite circle. This confirms
+that any later Cusa-Bruno thread should be evidence-based, not merely thematic.
+
+The final treatment of unity rejects thin numerical solitude. The one that
+matters is complicating and comprehending: the denary, centenary, and millenary
+examples lead to the highest unity that complicates the whole.
+
+Outstanding source issue: the dialogue refers to three figures, but the local
+plain-text source only has `Figura 1`, `Figura 2`, and `Figura 3` markers. A
+promoted text should recover, scan, or reconstruct these diagrams.
+
+Next work: run a completion audit against the campaign goal and write a final
+promotion-readiness state note.
+
+## 2026-05-08 - Metadata Apparatus Handled
+
+Added `parts/000-liberliber-metadata-and-toc.md` so every section listed in
+`source/sections.yaml` has a corresponding handled part. This is apparatus, not
+Bruno's authored text, and should be kept as provenance rather than fed
+automatically into any later reading or audiobook pass.
+
+## 2026-05-08 - Completion Audit
+
+Added `state-completion-audit.md`.
+
+The source-local campaign is complete as a working translation base: every
+section in `source/sections.yaml` has a handled part, and the authored work has
+been translated from front matter through the fifth dialogue.
+
+Promotion recommendation: ready as a draft base for a future `texts/` project,
+but not ready as a polished canonical project until the Latin, diagrams,
+joined-word source artifacts, and name normalization receive a second pass.
+
+## 2026-05-08 - Post-Campaign Terminology, Risks, and Encounters
+
+Added a second-stage source-local pass after the full translation campaign:
+
+- `terminology-complicato-esplicato.md`
+- `targeted-cleanup-risks.md`
+- `state-post-campaign-audit.md`
+- `encounters/001-universal-intellect-internal-artisan.md`
+- `encounters/002-life-in-all-things-according-to-substance.md`
+- `encounters/003-matter-has-none-so-that-it-may-have-all.md`
+- `encounters/004-matter-fountain-womb-of-forms.md`
+- `encounters/005-all-in-all-not-totally.md`
+- `encounters/006-cusanus-and-coincident-contraries.md`
+
+The `complicato` / `esplicato` decision remains open but better bounded. The
+source-local draft keeps `complicated` / `explicated` to preserve the
+Cusan/Latin-root pressure, while the note names `enfolded` / `unfolded` as the
+main public-reader alternative.
+
+The cleanup-risk note localizes the known blockers for promotion: Latin,
+joined-word artifacts, missing geometrical figures, and name normalization.
+
+The encounters capture six passages that earned reuse without promoting them:
+the universal intellect as internal artisan; soul/life in all things according
+to substance; matter having none so that it may have all; matter as fountain
+and womb of forms; all-in-all but not totally or in every mode; and Cusanus on
+coincident contraries.

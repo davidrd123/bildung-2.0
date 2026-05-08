@@ -27,6 +27,8 @@ This is the strongest local landing point in `Zeitmauer` for the newer Uexkuell,
 - With Cassirer, the naming crisis is not lexical accident but the breakdown of one world-order and the approach of another.
 - With Anders, the strongest overlap is `Vorentscheidung`: apparatuses no longer operate inside a prior world but pre-cut the world that arrives. Jünger's angle, row, invisible democracy, and world-language are earlier signs of the same problem.
 
+Retrieval aliases: world cut in advance; apparatus predecision; predecision before choice; subject-cut worlds; technical mediation as prior world-form; Uexkuell's `Umwelt` pressure, Anders's `Vorentscheidung` / `Weltphantom`, and Jünger's plan-freedom / naming crisis.
+
 Useful path:
 
 - `zm:25:plan-freedom`

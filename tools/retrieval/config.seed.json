@@ -1,0 +1,94 @@
+{
+  "version": 1,
+  "description": "Seed retrieval corpus for the bridge/OpenAI embedding prototype. Keep this small and authority-separated until evaluation proves a wider index is needed.",
+  "chunking": {
+    "target_words": 380,
+    "overlap_words": 60,
+    "min_words": 40
+  },
+  "collections": [
+    {
+      "name": "canonical-patterns",
+      "authority_layer": "canonical-patterns",
+      "include": [
+        "patterns/*.md"
+      ]
+    },
+    {
+      "name": "zeitmauer-dossiers",
+      "authority_layer": "canonical-texts",
+      "include": [
+        "texts/zeitmauer/threads/*.md",
+        "texts/zeitmauer/journal.md"
+      ]
+    },
+    {
+      "name": "zeitmauer-construal-parts",
+      "authority_layer": "canonical-texts",
+      "include": [
+        "texts/zeitmauer/parts/05-messbare-und-schicksalszeit.md",
+        "texts/zeitmauer/parts/07-messbare-und-schicksalszeit.md",
+        "texts/zeitmauer/parts/46-siderische-einteilungen.md"
+      ]
+    },
+    {
+      "name": "zeitmauer-handles",
+      "authority_layer": "derived-indexes",
+      "include": [
+        "texts/zeitmauer/source/handles.yaml"
+      ]
+    },
+    {
+      "name": "uexkuell-source-campaign",
+      "authority_layer": "sources",
+      "include": [
+        "sources/german/uexkuell-theoretische-biologie/README.md",
+        "sources/german/uexkuell-theoretische-biologie/encounters/*.md",
+        "sources/german/uexkuell-theoretische-biologie/glossary.yaml",
+        "sources/german/uexkuell-theoretische-biologie/journal.md"
+      ]
+    },
+    {
+      "name": "cassirer-relation-expression-source",
+      "authority_layer": "sources",
+      "include": [
+        "sources/german/cassirer-philosophie-der-symbolischen-formen/source/normalized/0151-kapitel-v-280-293-satz-und-beziehungsausdruck.txt",
+        "sources/german/cassirer-philosophie-der-symbolischen-formen/source/normalized/0152-kapitel-v-293-295-kopula-und-praedikative-synthesis.txt",
+        "sources/german/cassirer-philosophie-der-symbolischen-formen/source/normalized/0153-kapitel-v-295-300-seinsbegriff-und-sprachlicher-ausdruck.txt"
+      ]
+    },
+    {
+      "name": "hoffmeyer-image-schema-source",
+      "authority_layer": "sources",
+      "include": [
+        "sources/modern/hoffmeyer-biosemiotics/source/cleaned/017-from-animal-to-human.txt"
+      ]
+    },
+    {
+      "name": "anders-source-campaign",
+      "authority_layer": "sources",
+      "include": [
+        "sources/german/anders-antiquiertheit-des-menschen-band1/README.md",
+        "sources/german/anders-antiquiertheit-des-menschen-band1/encounters/*.md",
+        "sources/german/anders-antiquiertheit-des-menschen-band1/glossary.yaml",
+        "sources/german/anders-antiquiertheit-des-menschen-band1/journal.md"
+      ]
+    },
+    {
+      "name": "living-method-notes",
+      "authority_layer": "living-notes",
+      "include": [
+        "00-Notes/process.md",
+        "00-Notes/right-now.md",
+        "00-Notes/cross-domain-synthesis-threads.md",
+        "00-Notes/DeepResearch/2026-04-06/retrieval-roadmap.md",
+        "00-Notes/DeepResearch/2026-04-06/retrieval-eval-seed.md",
+        "00-Notes/DeepResearch/2026-05-08/bridge-openai.md",
+        "00-Notes/DeepResearch/2026-05-08/bridge-openai-v2.md",
+        "00-Notes/DeepResearch/2026-05-08/embedding-prototype.md",
+        "00-Notes/method/cassirer-psf-i-ch5-relation-expression.md",
+        "00-Notes/working-syntheses/2026-05-08-cognitive-grammar-as-translation-residue-diagnostic.md"
+      ]
+    }
+  ]
+}

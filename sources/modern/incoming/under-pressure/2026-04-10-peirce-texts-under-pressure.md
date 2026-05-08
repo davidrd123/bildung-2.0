@@ -2,13 +2,24 @@
 title: "Peirce texts under pressure"
 author: "Charles S. Peirce"
 language: "en"
-encounter_status: located
-reason: "April 10 Cassirer chat narrowed the actual Peirce pressure to a small published core. Preserve that narrowing without opening a live encounter."
+encounter_status: bounded-contact
+reason: "April 10 Cassirer chat narrowed the actual Peirce pressure to a small published core. Preserve that narrowing without opening a general campaign."
 ---
 
 # Peirce texts under pressure
 
-Purpose: preserve the narrow Peirce prioritization that survived the April 10 Cassirer chat. This is not a Peirce campaign and not a framework import. It is a source-candidate seed.
+Purpose: preserve the narrow Peirce prioritization that survived the April 10 Cassirer chat. This is not a Peirce campaign and not a framework import. It is a bounded source-candidate surface.
+
+## 2026-05-08 Status Note
+
+The Volume 1 scaffold now has one bounded encounter note:
+
+- `sources/modern/peirce-essential-peirce-volume-1/encounters/01-illustrations-018-021-probability-induction-hypothesis.md`
+
+That note extends the `Fixation` / `Ideas Clear` surface through the remaining
+`Illustrations of the Logic of Science` probability-induction arc, but it does
+not open a general Peirce campaign. The 1903 abduction extract remains the
+better next target if the live pressure is experiment design or abduction.
 
 ## Inputs
 

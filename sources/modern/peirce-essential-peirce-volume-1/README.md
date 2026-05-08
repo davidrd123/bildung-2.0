@@ -28,6 +28,9 @@ been tested.
 - The curated extract shelf under `sources/modern/incoming/peirce/` remains the
   small first-pressure surface.
 - This directory is the tracked whole-volume scaffold for Volume 1 only.
+- `encounters/` and `journal.md` hold bounded source-local notes when a
+  specific Peirce surface becomes useful. They do not promote this scaffold
+  into a live Peirce campaign.
 
 ## Source
 
@@ -98,6 +101,10 @@ source/
     046.txt
     ...
   sections.yaml
+encounters/
+  README.md
+  01-illustrations-018-021-probability-induction-hypothesis.md
+journal.md
 ```
 
 ## Workflow
