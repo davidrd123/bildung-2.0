@@ -627,10 +627,11 @@
   alternatives:
     - "the continuum"
   status: open
-  notes: "Section 7 introduces the continuum as the second open place in the number-realm: the infinite appears as infinite divisibility of time and space, not as serial generation. Section 9 gives the Brouwerian alternative: the continuum is not a set of fixed elements but a medium of free becoming and an extensive whole."
+  notes: "Section 7 introduces the continuum as the second open place in the number-realm: the infinite appears as infinite divisibility of time and space, not as serial generation. Section 9 gives the Brouwerian alternative: the continuum is not a set of fixed elements but a medium of free becoming and an extensive whole. Section 12 extends the pressure beyond space: color qualities form a continuum capable of geometrical treatment."
   evidence:
     - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
     - "parts/010-math-02-09-intuitive-mathematik.md"
+    - "parts/013-math-03-12-projektive-geometrie-farbraum.md"
 
 - term: "Kontinuumslehre"
   kind: concept
@@ -1240,3 +1241,118 @@
   notes: "The closing formula for mathematics in chapter II. It names the finite-infinite tension as mathematics' living center and as the Greek achievement made fruitful for theoretical knowledge."
   evidence:
     - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+
+- term: "Raum"
+  kind: concept
+  preferred: "space"
+  alternatives: []
+  status: open
+  notes: "Chapter III opens by naming the problem of space as the place where mathematics, natural science, and philosophy most intimately interpenetrate. Section 12 immediately complicates naive space by moving through non-Euclidean, projective, affine, and color-space geometries."
+  evidence:
+    - "parts/013-math-03-12-projektive-geometrie-farbraum.md"
+
+- term: "nicht-euklidische Geometrie"
+  kind: concept
+  preferred: "non-Euclidean geometry"
+  alternatives: []
+  status: seed
+  notes: "Section 12 treats non-Euclidean geometry through the three Klein cases and presents elliptic geometry by modifying congruence and incorporating points at infinity."
+  evidence:
+    - "parts/013-math-03-12-projektive-geometrie-farbraum.md"
+
+- term: "projektive Geometrie"
+  kind: concept
+  preferred: "projective geometry"
+  alternatives: []
+  status: open
+  notes: "The organizing geometry for section 12. Weyl presents metric geometries as arising by building a Cayleyan determination of measure into measure-free projective space, then extends projective geometry to color qualities."
+  evidence:
+    - "parts/013-math-03-12-projektive-geometrie-farbraum.md"
+
+- term: "Cayleysche Maßbestimmung"
+  kind: concept
+  preferred: "Cayleyan determination of measure"
+  alternatives:
+    - "Cayleyan metric determination"
+  status: open
+  notes: "The construction by which a metric geometry is built into measure-free projective space according to the character of the absolute conic section. Keep open because the standard mathematical phrasing may want harmonization."
+  evidence:
+    - "parts/013-math-03-12-projektive-geometrie-farbraum.md"
+
+- term: "analytische Geometrie"
+  kind: concept
+  preferred: "analytic geometry"
+  alternatives: []
+  status: seed
+  notes: "Weyl defines it by reducing every geometrical problem to an algebraic one, made possible by the enlarged number concept and Descartes' subjection of the science of space to algebraic calculus."
+  evidence:
+    - "parts/013-math-03-12-projektive-geometrie-farbraum.md"
+
+- term: "Vektorbegriff"
+  kind: concept
+  preferred: "concept of vector"
+  alternatives:
+    - "vector concept"
+  status: open
+  notes: "Section 12 uses vectors as translations or parallel displacements of space. This is the bridge from number and group composition into affine geometry and linear algebra."
+  evidence:
+    - "parts/013-math-03-12-projektive-geometrie-farbraum.md"
+
+- term: "affine Geometrie"
+  kind: concept
+  preferred: "affine geometry"
+  alternatives: []
+  status: seed
+  notes: "The geometry obtained through points, vectors, vector addition, scalar multiplication, and point-vector application; Weyl stresses that only parallel segments can be measured against one another in this setting."
+  evidence:
+    - "parts/013-math-03-12-projektive-geometrie-farbraum.md"
+
+- term: "Operationsfeld der linearen Algebra"
+  kind: concept
+  preferred: "field of operations of linear algebra"
+  alternatives:
+    - "operational field of linear algebra"
+  status: open
+  notes: "Weyl says the axioms for point/vector operations fix nothing other than this field. The phrase marks geometry's formal transparency after the real-number continuum has already been presupposed."
+  evidence:
+    - "parts/013-math-03-12-projektive-geometrie-farbraum.md"
+
+- term: "Dimensionsbegriff"
+  kind: concept
+  preferred: "concept of dimension"
+  alternatives: []
+  status: open
+  notes: "Section 12 says dimension appears only after the formal vector/affine construction. Formalization makes n-dimensional geometry compulsory and thereby turns actual three-dimensionality into a problem rather than an immediate given."
+  evidence:
+    - "parts/013-math-03-12-projektive-geometrie-farbraum.md"
+
+- term: "Farbraum"
+  kind: concept
+  preferred: "color space"
+  alternatives:
+    - "colour space"
+  status: open
+  notes: "Section 12's decisive non-spatial geometry example. Color qualities form a two-dimensional projective continuum even though objective physical colors have infinitely many dimensions."
+  evidence:
+    - "parts/013-math-03-12-projektive-geometrie-farbraum.md"
+
+- term: "Farbqualitäten"
+  kind: concept
+  preferred: "color qualities"
+  alternatives:
+    - "colour qualities"
+  status: open
+  notes: "The elements of the intuitive color continuum. Weyl distinguishes them from intensity-bearing colors, whose intensities behave like vectors under mixing."
+  evidence:
+    - "parts/013-math-03-12-projektive-geometrie-farbraum.md"
+
+- term: "anschauliche Gegebenheiten"
+  kind: concept
+  preferred: "intuitive givens"
+  alternatives:
+    - "intuitively given contents"
+    - "intuitive data"
+  status: open
+  notes: "The color-space passage shows that geometrical treatment can apply to a region of intuitive givens other than space. This keeps `anschaulich` tied to givenness without reducing it to visuality alone."
+  evidence:
+    - "parts/013-math-03-12-projektive-geometrie-farbraum.md"

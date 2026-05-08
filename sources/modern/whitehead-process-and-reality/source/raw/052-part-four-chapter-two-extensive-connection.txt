@@ -1,0 +1,189 @@
+CHAPTER II EXTENSIVE CONNECTION
+
+
+
+
+
+[449] IN this chapter we enumerate the chief characteristics of the physical relationship termed ‘extensive connection’. We also enumerate the derivative notions which are of importance in our physical experience. This importance has its origin in the characteristics enumerated. The definitions of the derivative notions, as mere definitions, are equally applicable to any scheme of relationship whatever its characteristics. But they are only of importance when the relationship in question has the characteristics here enumerated for extensive connection.
+
+No attempt will be made to reduce these enumerated characteristics to a logical minimum from which the remainder can be deduced by strict deduction. There is not a unique set of logical minima from which the rest can be deduced. There are many such sets. The investigation of such sets has great logical interest, and has an importance which extends beyond logic. But it is irrelevant for the purposes of this discussion.
+
+For the sake of brevity the terms ‘connection’ and ‘connected’ will be used in the place of ‘extensive connection’ and ‘extensively connected.’ The term ‘region’ will be used for the relata which are involved in the scheme of ‘extensive connection’. Thus, in the shortened phraseology, regions are the things which are connected.
+
+A set of diagrams will illustrate the type of relationship meant by ‘connection.’ The two areas, A and B, in each diagram exhibit an instance of connection with each other.
+
+[450] Such diagrams are apt to be misleading: † for one reason, because they introduce features as obvious, which it is our business to define in terms of our fundamental notion of ‘connection’; for another reason, because they introduce features which are special to the two-dimensional, spatial extensiveness of a sheet of paper.
+
+In the three diagrams of Set II, the areas, A and B, are not connected; but they are ‘mediately’ connected by the area C.
+
+
+
+
+
+Definition 1.‡ Two regions are ‘mediately’ connected when they are both connected with a third region.
+
+
+
+DIAGRAMS I
+
+
+
+Assumption 1. Connection and mediate connection are both of them symmetrical relations; that is to say, if region A is connected, or mediately connected, with region B, then region B is connected, or mediately connected, with region A.
+
+[451] It is obvious that the part of this assumption which concerns mediate connection can be proved from the terms of the definition. In the subsequent development of definitions and assumptions we shall not draw attention to such instances of the possibility of proof.
+
+Assumption 2. No region is connected with all the other regions; and any two regions are mediately connected.
+
+Assumption 3. Connection is not transitive; that is to say, if A be connected with B, and B with C, it does not thereby follow that A is connected with C; though in certain cases it does happen that A is connected with C.
+
+Assumption 4. No region is connected, or mediately connected, with itself.
+
+[452] This assumption is merely a convenient arrangement of nomenclature.
+
+Definition 2. Region A is said to ‘include’ region B when every region connected with B is also connected with A. As an alternative nomenclature, region B will be said to be ‘part’ of region A.
+
+This definition of ‘inclusion’ is due to Professor de Laguna; it constitutes an important addition to the theory of extension. In such investigations, as the present one, the definitions are the really vital portion of the subject.
+
+
+
+Assumption 5. When one region includes another, the two regions are connected.
+
+Assumption 6. The relation of inclusion is transitive.
+
+Assumption 7. A region does not include itself.
+
+Assumption 8. The relation of inclusion is asymmetrical; that is to say, if A includes B, then B does not include A.
+
+Assumption 9. Every region includes other regions; and a pair of regions thus included in one region are not necessarily connected with each other. Such pairs can always be found, included in any given region.
+
+Definition 3. Two regions are said to ‘overlap’ when there is a third region which they both include.
+
+Assumption 10. The relation of overlapping is symmetrical.
+
+Assumption 11. It one region includes another region, the two regions overlap.
+
+Assumption 12. Two regions which overlap are connected.
+
+Definition 4. A ‘dissection’ of any given region A, is a set of regions, which is such that (i) all its members are included in A, (ii) no two of its members overlap, (iii) any region included in A, but not a member of the set, either is included in one member of the set, or overlaps more than one member of the set.
+
+Assumption 13.† There are many dissections of any given region.
+
+[453] Assumption 14.† A dissection of a region is not a dissection of any other region.
+
+Definition 5. A region is called an ‘intersect’ of two overlapping regions, A and B, when (i) either it is included in both A and B, or it is one of the two regions and is included in the other, and (ii) no region, also included in both A and B, can overlap it without being included in it.
+
+Definition 6.† If there be one, and only one, intersect of two regions, A and B, those regions are said to overlap with ‘unique intersection’; if there be more than one intersect, they are said to overlap with ‘multiple intersection.’
+
+Assumption 15.† Any region included in both of two overlapping regions, and not itself an intersect, is included in one, and only one, intersect.
+
+Assumption 16.† If A includes B, then B is the sole intersect of A and B.
+
+Assumption 17.† An intersect of two regions, which is not one of the two regions, is included in both regions.
+
+Assumption 18.† Each pair of overlapping regions has at least one intersect.
+
+Definition 7. Two regions are ‘externally’ connected when (i) they are connected, and (ii) they do not overlap. The possibility of this definition is another of the advantages gained from the adoption of Professor de Laguna's starting-point, ‘extensive connection,’ over my original starting-point,1 ‘extensive whole and extensive part.’ External connection is illustrated by diagrams (v) and (vi) in Set I of the diagrams. So far, we have not discriminated between the two cases illustrated respectively by these two diagrams. The notion of external connection is a long step towards the elaboration of the notion of a ‘surface,’ which has not yet been touched upon.
+
+Definition 8. A region B is ‘tangentially’ included in a region A, when (i) B is included in A, and (ii) there are [454] regions which are externally connected with both A and B.
+
+Definition 9. A region B is ‘non-tangentially’ included in a region A when (i) B is included in A, and (ii) there is no third region which is externally connected with both A and B.
+
+The possibility, at this stage, of the three definitions 7, 8, and 9, constitutes the advantage to be gained by starting from Professor de Laguna's notion of ‘extensive connection.’ Non-tangential inclusion is illustrated by diagram (i) of the first set; and the two cases—as yet undiscriminated—of tangential inclusion are illustrated by diagrams (ii) and (iii).
+
+
+
+
+
+Definition 10. A set of regions is called an ‘abstractive set,’ when (i) any two members of the set are such that one of them includes the other non-tangentially, and † (ii) there is no region included in every member of the set.
+
+This definition practically limits abstractive sets to those sets which were termed ‘simple abstractive sets’ in my Principles of Natural Knowledge (paragraph 37.6). Since every region includes other regions, and since the relation of inclusion is transitive, it is evident that every abstractive set must be composed of an infinite number of members.
+
+By reference to the particular case of three-dimensioned space, we see that abstractive sets can have different types of convergence. For in this case, an abstractive set can converge either to a point, or to a line, or to an area. But it is to be noted that we have not defined either points, or lines, or areas; and that we propose to define them in terms of abstractive sets. Thus we must define the various types of abstractive sets without reference to the notions, point, line, area.
+
+Definition 11. An abstractive set α is said to ‘cover’ an [455] abstractive set, when every member of the set αincludes some members of the set.
+
+It is to be noticed that each abstractive set is to be conceived with its members in serial order, determined by the relation of inclusion. The series starts with a region of any size, and converges indefinitely towards smaller and smaller regions, without any limiting region. When the set α covers the set β, each member of αincludes all the members of the convergent tail of β,† provided that we start far enough down in the serial arrangement of the set β. It will be found that, though an abstractive set must start with some region at its big end, these initial large-sized regions never enter into our reasoning. Attention is always fixed on what relations occur when we have proceeded far enough down the series. The only relations which are interesting are those which, if they commence anywhere, continue throughout the remainder of the infinite series.
+
+Definition 12. Two abstractive sets are said to be ‘equivalent’ when each set covers the other.
+
+Thus if αand βbe the two equivalent abstractive sets, and A1 be any member of a, there is some member of β, B1 say, which is included in A1;† also there is some member of β, A2 say, which is included in B1; also there is some member of ⓺, B2 say, which is included in A2;† and so on indefinitely. Two equivalent abstractive sets are equivalent in respect to their convergence. But, in so far as the two sets are diverse, there will be relationships and characteristics in respect to which those sets are not equivalent, in a more general sense of the term ‘equivalence.’ The connection of this special sense of ‘equivalence’ to physical properties is explained more particularly in Chapter IV of the Concept of Nature.
+
+Assumption 19.† An abstractive set is equivalent to itself. This assumption is merely a convenient arrangement of nomenclature. An abstractive set obviously satisfies the conditions for such reflexive equivalence.
+
+Definition 13. A geometrical element is a complete [456] group of abstractive sets equivalent to each other, and not equivalent to any abstractive set outside the group.
+
+Assumption 20.† The relation of equivalence is transitive and symmetrical.
+
+Thus any two members of a geometrical element are equivalent to each other; and an abstractive set, not belonging to the geometrical element, is not equivalent to any member of that geometrical element. It is evident that each abstractive set belongs to one, and only one, geometrical element.
+
+Definition 14. The geometrical element to which an abstractive set belongst is called the geometrical element ‘associated’ with that abstractive set. Thus a geometrical element is ‘associated’ with each of its members.
+
+Assumption 21.† Any abstractive set which covers any member of a geometrical element† also covers every member of that element.
+
+Assumption 22.† An abstractive set which is covered by any member of a geometrical element† is also covered by every member of that element.
+
+Assumption 23.† If a and b be two geometrical elements, either every member of a covers every member of b, or no member of a covers any member of b.
+
+Definition 15. The geometrical element a is said to be ‘incident’ in the geometrical element b, when every member of b covers every member of a, but a and b are not identical.
+
+Assumption 24.† A geometrical element is not incident in itself.
+
+This assumption is merely a convenient arrangement of nomenclature.
+
+When the geometrical element a is incident in the geometrical element b, the members of a will be said to have a ‘sharper convergence’ than those of b.
+
+Definition 16. A geometrical element is called a ‘point,’ when there is no geometrical element incident in it. This definition of a ‘point’ is to be compared with Euclid's definition: ‘point is without parts.’
+
+[457] Definition 16.1. The members of a geometrical element are said to be ‘prime’ in reference to assigned conditions, when (i) every member of that geometrical element satisfiest those conditions; (ii) if any abstractive set satisfies those conditions, every member of its associated geometrical element satisfies them; (iii) there is no geometrical element, with members satisfying those conditions, which is also incident in the given geometrical element.
+
+The term ‘prime’ will also be applied to a geometrical element, when its members are ‘prime’ in the sense defined above.
+
+It is obvious that a point is, in a sense, an ‘absolute’ prime. This is, in fact, the sense in which the definition † of a point, given here, conforms to Euclid's definition.
+
+Definition 17. An abstractive set which is a member of a point will be called ‘punctual.’
+
+Definition 18. A geometrical element is called a ‘segment between two points P and Q,’ when its members are prime in reference to the condition that the points P and Q are incident in it.
+
+Definition 19. When a geometrical element is a segment between two points, those points are called the ‘end-points’ of the segment.
+
+Definition 20. An abstractive set which is a member of a segment is called ‘segmental.’
+
+Assumption 25.† There are many diverse segments with the same endpoints; † but a segment has only one pair of end-points.
+
+This assumption illustrates the fact that there can be many geometrical elements which are prime in reference to some given conditions. There are, however, conditions such that there is only one geometrical element prime to any one of them. For example, the set of points incident in one geometrical element uniquely defines that geometrical element. Also another instance of uniqueness is to be found in the theory of ‘flat’ geometrical elements, to be considered in the next chapter. A particular instance of such ‘flat’ elements is afforded [458] by straight lines. The whole theory of geometry depends upon the discovery of conditions which correspond to one, and only one, prime geometrical element. The Greeks, with their usual fortunate intuition, chanced upon such conditions in their notions of straight lines and planes. There is every reason, however, to believe that, in other epochs, widely different types of conditions with this property may be important—perhaps even in this epoch. The discovery of them is obviously of the first importance. It is possible that the modern Einsteinian reconstruction of physics is best conceived as the discovery of the interweaving in nature of different types of such conditions.
+
+
+
+
+
+Definition 21. A point is said to be ‘situated’ in a region, when the region is a member of one of the punctual abstractive sets which compose that point.
+
+Assumption 26.† If a point be situated in a region, the regions, sufficiently far down the convergent tails of the various abstractive sets composing that point, are included in that region non-tangentially.
+
+Definition 22. A point is said to be situated in the ‘surface’ of a region, when all the regions in which it is situated overlap that region but are not included in it.
+
+Definition 23. A ‘complete locus’ is a set of points which compose either (i) all the points situated in a region, or (ii) all the points situated in, the surface of a region, or (iii) all the points incident in a geometrical element.
+
+A ‘locus’ always means a ‘locus of points.’
+
+Assumption 27.‡ A ‘complete locus,’ as defined in Definition 23, consists of an infinite number of points.
+
+Definition 24. When a complete locus consists of all the points situated in a region, it is called the ‘volume’ of that region; when a complete locus consists of all the points in the surface of a region, the locus itself is called the ‘surface’ of that region; when a complete locus consists of all the points incident in a segment between end- [459] points, the locus is called a ‘linear stretch’ between those end-points.
+
+Assumption 28.† There is a one-to-one correlation between volumes and regions, between surfaces and regions, and between linear stretches and segments, and between any geometrical element and the locus of points incident in it.
+
+Assumption 29.† If two points lie in a given volume, there are linear stretches joining those two points, whose points all lie in that volume.
+
+Assumption 30.† If two points lie in a given surface, there are linear stretches joining those two points, whose points all lie in that surface.
+
+Assumption 31.† If two points lie in a given linear stretch, there is one, and only one, linear stretch with those points as end-points, whose points lie wholly in the given linear stretch.
+
+It should be noted that the terms ‘volume’ and ‘surface’ are not meant to imply that volumes are three-dimensional, or that surfaces are two-dimensional. In the application of this theory of extension to the existing physical world of our epoch, volumes are four-dimensional, and surfaces are three-dimensional. But linear stretches are one-dimensional.
+
+‡A sufficient number of assumptions, some provable and some axiomatic, have now been stated; so as to make clear the sort of development of the theory required for this stage of the definitions. In particular, the notion of the order of points in a linear stretch can now be elaborated from the definition of the notion of ‘between.’ But such investigations will lead us too far into the mathematical principles of geometry.‡
+
+-------------------
+
+[546]‡ An explanatory paragraph is required at the end of this chapter to make clear the principle that a certain determinate boundedness is required for the notion of a region—i.e., for the notion of an extensive standpoint in the real potentiality for actualization. The inside of a region, its volume, has a complete boundedness denied to the extensive potentiality external to it. The boundedness applies both to the spatial and the temporal aspects of extension. Wherever there is ambiguity as to the contrast of boundedness between inside and outside, there is no proper region. In the next chapter all the ovals, members of one ovate class, preserve this property of boundedness, in the same sense for each of the ovals. Thus in the case of Elliptic Geometry (page 330) no oval can include half a straight line. On page 304, Condition vii has been expressed carelessly, so as to apply only to the case of infinite spatiality, i.e., to Euclidean and Hyperbolic Geometry.
+
+1Cf. my Principles of Natural Knowledge, and Concept of Nature.

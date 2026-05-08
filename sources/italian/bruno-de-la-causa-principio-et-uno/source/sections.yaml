@@ -1,0 +1,50 @@
+source: sources/italian/INCOMING/De la causa, principio et uno - Giordano Bruno.txt
+authority: source/full/de-la-causa-principio-et-uno-liberliber.txt
+status: line-normalized split from Liber Liber e-text
+sections:
+  - id: "000"
+    file: source/raw/000-liberliber-metadata-and-toc.txt
+    title: Liber Liber metadata and table of contents
+    kind: metadata
+    source_lines: "1-128"
+  - id: "001"
+    file: source/raw/001-title-and-proemial-epistle.txt
+    title: Title page and proemial epistle
+    kind: front_matter
+    source_lines: "130-176"
+  - id: "002"
+    file: source/raw/002-argomenti.txt
+    title: Arguments of the five dialogues
+    kind: argument_summary
+    source_lines: "182-235"
+  - id: "003"
+    file: source/raw/003-ai-principi-de-l-universo.txt
+    title: Ai principi de l'universo
+    kind: verse_front_matter
+    source_lines: "241-379"
+  - id: "004"
+    file: source/raw/004-dialogo-primo.txt
+    title: Dialogo primo
+    kind: dialogue
+    source_lines: "381-594"
+  - id: "005"
+    file: source/raw/005-dialogo-secondo.txt
+    title: Dialogo secondo
+    kind: dialogue
+    source_lines: "596-875"
+  - id: "006"
+    file: source/raw/006-dialogo-terzo.txt
+    title: Dialogo terzo
+    kind: dialogue
+    source_lines: "881-1110"
+  - id: "007"
+    file: source/raw/007-dialogo-quarto.txt
+    title: Dialogo quarto
+    kind: dialogue
+    source_lines: "1116-1297"
+  - id: "008"
+    file: source/raw/008-dialogo-quinto.txt
+    title: Dialogo quinto
+    kind: dialogue
+    source_lines: "1303-1392"
+

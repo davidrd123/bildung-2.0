@@ -634,3 +634,88 @@ Next move:
 
 - write chapter-II synthesis and decide whether Weyl earns `texts/` promotion,
   continued source-local work, or pause
+
+## 2026-05-08 - Chapter II Promoted To Minimal `texts/` Dossier
+
+Created
+`../../../texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/` as a
+minimal promoted dossier, not a full Weyl translation project.
+
+Promotion boundary:
+
+- the promoted layer centers chapter II, `Zahl und Kontinuum. Das Unendliche`
+- `source/anchors.yaml` in the promoted dossier maps handles for sections 5-11
+  back to the source-local part files and cleaned chapter text
+- `dossiers/chapter-ii-number-continuum-infinite.md` promotes the chapter's
+  finite-infinite / objectification / intuition / symbol pattern
+- `threads/symbolic-access-to-totality.md` is tentative and must not be reused
+  as a generic symbol slogan
+
+Authority remains here:
+
+- exact German
+- page-image and OCR correction trail
+- full working translations
+- glossary evidence
+- future physics-chapter source-local campaigns
+
+## 2026-05-08 - Part 013: Projective Geometry And Color Space
+
+Started chapter III, `Geometrie`, with the opening paragraph and section 12,
+`Nichteuklidische, analytische, mehrdimensionale, affine, projektive Geometrie.
+Der Farbraum`.
+
+Scope correction:
+
+- the initial campaign note listed printed pages 91-94 / PDF pages 92-95
+- direct page-image inspection showed section 12 continues through printed page
+  95 / PDF page 96, including the end of the color-space discussion and the
+  literature list
+
+Source corrections:
+
+- corrected section signs: `§ 4`, `§ 2`, `§ 20`, `§§ 1—4`
+- repaired corrupted German quotation marks around `euklidischen`,
+  `kongruent`, `unendlich fernen Punkte`, `Identität`, and `vernünftiger`
+- corrected the footnote marker after `vollzogen¹)`, `Descartes' Géométrie`,
+  `Graßmanns „Ausdehnungslehre“`, and the Helmholtz/Weyl literature entries
+- corrected vector-index notation in and around `x = x₁e₁ + x₂e₂`
+
+What the batch clarified:
+
+- chapter III opens by naming space as the meeting point of mathematics,
+  natural science, and philosophy
+- non-Euclidean geometry is not just a rival to Euclid; Weyl frames the three
+  metric geometries as arising from measure-free projective space by a Cayleyan
+  determination of measure
+- analytic geometry depends on the chapter-II expansion of number beyond
+  counting into magnitude-measurement
+- vector geometry makes geometry formally transparent as the field of
+  operations of linear algebra, but precisely this formal transparency makes
+  actual three-dimensionality appear contingent
+- projective geometry applies not only to space but also to color qualities;
+  color space is the section's main guard against reducing geometry to physical
+  space
+- the bridge to physics is now sharper: formal geometry opens possible
+  structures, while natural science must still determine which structure belongs
+  to the world
+
+Translation decisions:
+
+- `Raum` is `space`
+- `Cayleysche Maßbestimmung` is `Cayleyan determination of measure`
+- `Vektorkalkül` is `vector calculus`
+- `Operationsfeld der linearen Algebra` is `field of operations of linear
+  algebra`
+- `lineare Schar / lineares Gebilde ... Stufe` is `linear family / linear
+  formation ... level`, still provisional
+- `Dimensionsbegriff` is `concept of dimension`
+- `Dimensionszahl` is `dimension-number`
+- `Farbraum` is `color space`
+- `Farbqualitäten` is `color qualities`
+- `anschauliche Gegebenheiten` is `intuitive givens`
+
+Next batch:
+
+- section 13, `Das Relativitätsproblem`, printed pages 95-103 / PDF pages
+  96-104

@@ -17,10 +17,10 @@ sollen noch in diesem Teil kurz besprochen werden.
 12. Nichteuklidische, analytische, mehrdimensionale, affine,
 projektive Geometrie. Der Farbraum
 
-Über die nicht-euklidische Geometrie ist dem, was in $4 aus Anlaß
+Über die nicht-euklidische Geometrie ist dem, was in § 4 aus Anlaß
 der Axiomatik gesagt wurde, nicht viel hinzuzufügen. Bei Aufrechterhaltung aller übrigen Axiome der euklidischen Geometrie bestehen die
 drei Möglichkeiten, daß in einer Ebene zu einer Geraden durch einen
-nicht auf ihr gelegenen Punkt unendlich viele, eine oder keine nichtschneidende Gerade existiert (‚„‚hyperbolischer, parabolischer und elliptischer Fall“ nach Klein); die Winkelsumme im Dreieck ist entsprechend
+nicht auf ihr gelegenen Punkt unendlich viele, eine oder keine nichtschneidende Gerade existiert („hyperbolischer, parabolischer und elliptischer Fall“ nach Klein); die Winkelsumme im Dreieck ist entsprechend
 kleiner, gleich oder größer als 180°. Die letzte Möglichkeit, auf die erst
 Riemann Mitte des 19. Jahrhunderts hinwies, besteht nur, wenn die
 Axiome der Anordnung dahin modifiziert werden, daß die Gerade nicht
@@ -28,13 +28,13 @@ als offene, sondern als geschlossene Linie erscheint. Die ebene elliptische
 Geometrie ist keine andere als die, welche auf einer Kugel im euklidischen Raum gilt; nur muß man je zwei diametral gegenüberliegende
 Kugelpunkte identifizieren. Oder anders ausgedrückt: indem wir alle
 übrigen auf die Geometrie der Ebene E bezüglichen Worte in ihrem
-gewöhnlichen ‚‚euklidischen“ Sinne verstehen, soll allein die Bedeutung
+gewöhnlichen „euklidischen“ Sinne verstehen, soll allein die Bedeutung
 des Kongruenzbegriffes dahin modifiziert werden, daß zwei Figuren in
-E als ‚„‚kongruent“ gelten, wenn ihre Projektionen von einem außerhalb
+E als „kongruent“ gelten, wenn ihre Projektionen von einem außerhalb
 E gelegenen Zentralpunkt O aus auf eine um O beschriebene Kugel im
-gewöhnlichen Sinne kongruent sind. Der Ebene müssen dabei die „‚unendlich fernen Punkte‘ einverleibt werden, deren Projektionsstrahlen
+gewöhnlichen Sinne kongruent sind. Der Ebene müssen dabei die „unendlich fernen Punkte“ einverleibt werden, deren Projektionsstrahlen
 die zu E parallelen Geraden durch O sind. Die Abbildungen von E,
-welche ‚„‚kongruente‘“ Figuren ineinander überführen, lassen sich auch
+welche „kongruente“ Figuren ineinander überführen, lassen sich auch
 ohne Bezugnahme auf den Raum als Kollineationen charakterisieren
 mit ähnlicher Invarianzeigenschaft wie im Kleinschen Modell der Bolyai-Lobatschewskyschen Geometrie; und damit ist die Bahn frei zur Begründung nicht nur der ebenen, sondern auch der räumlichen elliptischen Geometrie. Das wahre Verhältnis der drei Arten von Geometrie
 
@@ -49,24 +49,24 @@ Die analytische Geometrie führt jedes geometrische Problem
 auf ein algebraisches zurück. Vorbedingung dafür ist, daß der
 Zahlbegriff durch Aufnahme der Brüche und des Irrationalen diejenige Weite bekommen hat, welche ihn über die Zählung hinaus
 zur Größenmessung geeignet macht. Nicht die Griechen, sondern
-die Inder und Araber haben diesen Schritt vollzogen!). Ihren
-Bahnen folgte die abendländische Mathematik, die zu selbständigen Leistungen in der Geometrie erst gelangte, nachdem die Raumwissenschaft durch Descartes’ Geometrie (1637) dem algebraischen
+die Inder und Araber haben diesen Schritt vollzogen¹). Ihren
+Bahnen folgte die abendländische Mathematik, die zu selbständigen Leistungen in der Geometrie erst gelangte, nachdem die Raumwissenschaft durch Descartes’ Géométrie (1637) dem algebraischen
 Kalkül unterworfen war.
 
 Heute behandelt man die analytische Geometrie wohl am besten
-nach dem Vorbild von Graßmanns „Ausdehnungslehre‘“ durch Heranziehung des Vektorbegriffs. Der Vektorkalkül ist ein Rechenverfahren,
+nach dem Vorbild von Graßmanns „Ausdehnungslehre“ durch Heranziehung des Vektorbegriffs. Der Vektorkalkül ist ein Rechenverfahren,
 dessen Objekte nicht Zahlen, sondern geometrische Gebilde sind. Eine
 solche Behandlung der Geometrie war von Leibniz gefordert, ja zum
 Teil schon durchgeführt worden in seiner Schrift de analisi situs und dem
 Entwurf einer geometrischen Charakteristik (Math. Schriften V, S. 178,
-und II, S. 20), die in den Rahmen seiner ‚universellen Charakteristik‘
+und II, S. 20), die in den Rahmen seiner „universellen Charakteristik“
 gehören. Die Translationen oder Parallelverschiebungen des Raumes
 bezeichnet man als Vektoren. Ein Punkt A geht durch die Translation a
-in einen Punkt Aa = B über, den „‚Endpunkt des von A aufgetragenen
+in einen Punkt Aa = B über, den „Endpunkt des von A aufgetragenen
 Vektors a“. Umgekehrt aber existiert, wenn A, B irgend zwei Raumpunkte sind, eine und nur eine Translation a, welche A in B überführt.
-Zu den Translationen rechnen wir insbesondere die ‚Identität‘, welche
+Zu den Translationen rechnen wir insbesondere die „Identität“, welche
 alle Punkte fest läßt, den Vektor 0. Translationen lassen sich zusammensetzen, sie bilden eine Gruppe; durch Hintereinanderausführung zweier
-Translationen a,b kommt ein Effekt zustande, der auch durch eine
+Translationen a, b kommt ein Effekt zustande, der auch durch eine
 
 1) Descartes spricht von dem „Bedenken der Alten gegen den Gebrauch
 von Bezeichnungen der Arithmetik in der Geometrie, welches nur daraus
@@ -95,19 +95,19 @@ einheitlichem und durchsichtigem Bau ist; sie fixieren, wie wir bereits in
 § 4 bemerkten, nichts anderes als das Operationsfeld der linearen Algebra.
 In ihnen enthüllt sich eine wunderbare Harmonie zwischen dem Gegebenen und der Vernunft. Und auch die einfachsten abgeleiteten geometrischen Begriffe, zu denen hier insbesondere Gerade und Ebene gehören, korrespondieren denjenigen, die vom logischen Standpunkt aus
 die nächstliegenden und natürlichsten sind. Alle Vektoren x, welche aus
-zwei gegebenen e1, e2 nach der Formel
+zwei gegebenen e₁, e₂ nach der Formel
 
-x = x1e1 + x2e2     (*)
+x = x₁e₁ + x₂e₂     (*)
 
-entspringen mit beliebigen Zahlkoeffizienten x1, x2, bilden eine „lineare
+entspringen mit beliebigen Zahlkoeffizienten x₁, x₂, bilden eine „lineare
 Schar 2. Stufe“; um der Eindeutigkeit der Darstellung (*) willen ist dabei
-vorausgesetzt, daß e1, e2 linear unabhängig sind, d. h. der Ausdruck
-rechts nur dann den Vektor 0 ergibt, wenn x1 und x2 beide = 0 sind.
+vorausgesetzt, daß e₁, e₂ linear unabhängig sind, d. h. der Ausdruck
+rechts nur dann den Vektor 0 ergibt, wenn x₁ und x₂ beide = 0 sind.
 Trägt man alle diese Vektoren x von einem festen Anfangspunkt O aus
 ab, so bilden die Endpunkte Ox = P ein „lineares Gebilde 2. Stufe“
 oder eine Ebene. Das Koordinatensystem besteht hier aus dem Punkt O
-und den beiden linear unabhängigen Vektoren e1, e2. Relativ zu diesem
-wird der Punkt P durch die „Koordinaten“ x1, x2 charakterisiert. Analog
+und den beiden linear unabhängigen Vektoren e₁, e₂. Relativ zu diesem
+wird der Punkt P durch die „Koordinaten“ x₁, x₂ charakterisiert. Analog
 
 [[pdf-page:0095 printed-page:94]]
 
@@ -123,11 +123,11 @@ die Zahl 3 durch irgendeine Dimensionszahl r ersetzen, indem wir
 postulieren: Es existieren n, aber nicht mehr voneinander linear
 unabhängige Vektoren. Ein Koordinatensystem für den Raum
 besteht dann aus einem Anfangspunkt O und n solchen Vektoren.
-Für n = 1,2, 3 ergeben sich bzw. die Geometrie der Gerade, der
+Für n = 1, 2, 3 ergeben sich bzw. die Geometrie der Gerade, der
 Ebene, des Raumes. Erst auf Grund einer solchen durch Formalisierung zwingend gewonnenen n-dimensionalen Geometrie hat das
 Problem der Dimensionszahl, die Frage einen Sinn: Durch welche
 inneren Eigentümlichkeiten ist der Fall n = 3 ausgezeichnet?
-Wenn Gott bei Erschaffung der Welt dem Raume gerade 3 Dimensionen verlieh, läßt sich dafür durch Aufdeckung solcher Eigentümlichkeiten irgendein „vernünftiger‘‘ Grund angeben?
+Wenn Gott bei Erschaffung der Welt dem Raume gerade 3 Dimensionen verlieh, läßt sich dafür durch Aufdeckung solcher Eigentümlichkeiten irgendein „vernünftiger“ Grund angeben?
 
 Trägt man alle Vektoren von einem festen Anfangspunkt O aus ab,
 so sieht man, daß die Geometrie der Vektoren identisch ist mit der
@@ -154,7 +154,7 @@ Farbqualitäten gilt mithin die projektive Geometrie. Alle durch Mischung aus dr
 „Dreieck“ ABC. Als zweidimensional erweist sich der Farbraum durch
 den Umstand, daß drei Grundfarben durch Mischung alle andern erzeugen, oder daß wenigstens aus solchen Dreiecken sich das ganze Farbfeld zusammensetzen läßt. Die wirklichen Farben erfüllen nämlich nur
 einen beschränkten Ausschnitt der ganzen projektiven Ebene. Aber man
-kann ihn, wie wir das in $2 geschildert haben, ideell zur vollen projektiven Ebene erweitern; und man muß für die Grundfarben A,B,C
+kann ihn, wie wir das in § 2 geschildert haben, ideell zur vollen projektiven Ebene erweitern; und man muß für die Grundfarben A, B, C
 ideelle Farben wählen, wenn das Feld der wirklichen Farben ganz in das
 Dreieck ABC hineinfallen soll. Die reinen Spektralfarben liegen in der
 projektiven Farbebene auf einer krummen Kurve, deren äußerste Enden
@@ -165,15 +165,15 @@ Kontinuum bilden.
 
 LITERATUR
 
-H.v. Helmholtz, Handbuch der physiologischen Optik. 3 Bände.
-3. Aufl. Hamburg u. Leipzig 1909—1911, $ 20.
+H. v. Helmholtz, Handbuch der physiologischen Optik. 3 Bände.
+3. Aufl. Hamburg u. Leipzig 1909—1911, § 20.
 
 F. Klein, Über die sog. nicht-euklidische Geometrie. Ges. math. Abhandlg. I, Berlin 1921, S. 254—305, 311—350.
 
 O. Veblen u. J. W. Young, Projective Geometry. 2 Bände, New York
 1910—1918.
 
-H. Weyl, Raum Zeit Materie, 5. Aufl. 1923, 8$ 1—4.
+H. Weyl, Raum Zeit Materie, 5. Aufl. 1923, §§ 1—4.
 
 13. Das Relativitätsproblem
 

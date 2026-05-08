@@ -1,0 +1,332 @@
+book:
+  title: "Process and Reality: An Essay in Cosmology"
+  author: "Alfred North Whitehead"
+  editors: "David Ray Griffin and Donald W. Sherburne"
+  edition: "Corrected edition"
+  source_text_witness: "sources/modern/incoming/books/Process and Reality (Gifford Le - Alfred North Whitehead.txt"
+  extracted_full_text: "full/process-and-reality.txt"
+sections:
+  - seq: 0
+    slug: "title-pages-and-publication-matter"
+    title: "Title pages and publication matter"
+    kind: "front-matter"
+    file: "raw/000-title-pages-and-publication-matter.txt"
+    start_line: 1
+    end_line: 117
+    line_count: 117
+    printed_page_start: null
+  - seq: 1
+    slug: "editors-preface"
+    title: "Editors' Preface"
+    kind: "front-matter"
+    file: "raw/001-editors-preface.txt"
+    start_line: 118
+    end_line: 198
+    line_count: 81
+    printed_page_start: null
+  - seq: 2
+    slug: "preface"
+    title: "Preface"
+    kind: "front-matter"
+    file: "raw/002-preface.txt"
+    start_line: 199
+    end_line: 265
+    line_count: 67
+    printed_page_start: "v"
+  - seq: 3
+    slug: "contents"
+    title: "Contents"
+    kind: "front-matter"
+    file: "raw/003-contents.txt"
+    start_line: 266
+    end_line: 1412
+    line_count: 1147
+    printed_page_start: null
+  - seq: 10
+    slug: "part-one-the-speculative-scheme"
+    title: "Part I: The Speculative Scheme"
+    kind: "part"
+    file: "raw/010-part-one-the-speculative-scheme.txt"
+    start_line: 1413
+    end_line: 1418
+    line_count: 6
+    printed_page_start: null
+  - seq: 11
+    slug: "part-one-chapter-one-speculative-philosophy"
+    title: "Part I, Chapter I: Speculative Philosophy"
+    kind: "chapter"
+    file: "raw/011-part-one-chapter-one-speculative-philosophy.txt"
+    start_line: 1419
+    end_line: 1584
+    line_count: 166
+    printed_page_start: "4"
+  - seq: 12
+    slug: "part-one-chapter-two-the-categoreal-scheme"
+    title: "Part I, Chapter II: The Categoreal Scheme"
+    kind: "chapter"
+    file: "raw/012-part-one-chapter-two-the-categoreal-scheme.txt"
+    start_line: 1585
+    end_line: 1804
+    line_count: 220
+    printed_page_start: "27"
+  - seq: 13
+    slug: "part-one-chapter-three-some-derivative-notions"
+    title: "Part I, Chapter III: Some Derivative Notions"
+    kind: "chapter"
+    file: "raw/013-part-one-chapter-three-some-derivative-notions.txt"
+    start_line: 1805
+    end_line: 1868
+    line_count: 64
+    printed_page_start: "46"
+  - seq: 20
+    slug: "part-two-discussions-and-applications"
+    title: "Part II: Discussions and Applications"
+    kind: "part"
+    file: "raw/020-part-two-discussions-and-applications.txt"
+    start_line: 1869
+    end_line: 1874
+    line_count: 6
+    printed_page_start: null
+  - seq: 21
+    slug: "part-two-chapter-one-fact-and-form"
+    title: "Part II, Chapter I: Fact and Form"
+    kind: "chapter"
+    file: "raw/021-part-two-chapter-one-fact-and-form.txt"
+    start_line: 1875
+    end_line: 2082
+    line_count: 208
+    printed_page_start: "62"
+  - seq: 22
+    slug: "part-two-chapter-two-the-extensive-continuum"
+    title: "Part II, Chapter II: The Extensive Continuum"
+    kind: "chapter"
+    file: "raw/022-part-two-chapter-two-the-extensive-continuum.txt"
+    start_line: 2083
+    end_line: 2284
+    line_count: 202
+    printed_page_start: "95"
+  - seq: 23
+    slug: "part-two-chapter-three-the-order-of-nature"
+    title: "Part II, Chapter III: The Order of Nature"
+    kind: "chapter"
+    file: "raw/023-part-two-chapter-three-the-order-of-nature.txt"
+    start_line: 2285
+    end_line: 2596
+    line_count: 312
+    printed_page_start: "127"
+  - seq: 24
+    slug: "part-two-chapter-four-organisms-and-environment"
+    title: "Part II, Chapter IV: Organisms and Environment"
+    kind: "chapter"
+    file: "raw/024-part-two-chapter-four-organisms-and-environment.txt"
+    start_line: 2597
+    end_line: 2820
+    line_count: 224
+    printed_page_start: "168"
+  - seq: 25
+    slug: "part-two-chapter-five-locke-and-hume"
+    title: "Part II, Chapter V: Locke and Hume"
+    kind: "chapter"
+    file: "raw/025-part-two-chapter-five-locke-and-hume.txt"
+    start_line: 2821
+    end_line: 3006
+    line_count: 186
+    printed_page_start: "198"
+  - seq: 26
+    slug: "part-two-chapter-six-from-descartes-to-kant"
+    title: "Part II, Chapter VI: From Descartes to Kant"
+    kind: "chapter"
+    file: "raw/026-part-two-chapter-six-from-descartes-to-kant.txt"
+    start_line: 3007
+    end_line: 3110
+    line_count: 104
+    printed_page_start: "218"
+  - seq: 27
+    slug: "part-two-chapter-seven-the-subjectivist-principle"
+    title: "Part II, Chapter VII: The Subjectivist Principle"
+    kind: "chapter"
+    file: "raw/027-part-two-chapter-seven-the-subjectivist-principle.txt"
+    start_line: 3111
+    end_line: 3204
+    line_count: 94
+    printed_page_start: "238"
+  - seq: 28
+    slug: "part-two-chapter-eight-symbolic-reference"
+    title: "Part II, Chapter VIII: Symbolic Reference"
+    kind: "chapter"
+    file: "raw/028-part-two-chapter-eight-symbolic-reference.txt"
+    start_line: 3205
+    end_line: 3330
+    line_count: 126
+    printed_page_start: "255"
+  - seq: 29
+    slug: "part-two-chapter-nine-the-propositions"
+    title: "Part II, Chapter IX: The Propositions"
+    kind: "chapter"
+    file: "raw/029-part-two-chapter-nine-the-propositions.txt"
+    start_line: 3331
+    end_line: 3566
+    line_count: 236
+    printed_page_start: "280"
+  - seq: 30
+    slug: "part-two-chapter-ten-process"
+    title: "Part II, Chapter X: Process"
+    kind: "chapter"
+    file: "raw/030-part-two-chapter-ten-process.txt"
+    start_line: 3567
+    end_line: 3660
+    line_count: 94
+    printed_page_start: "317"
+  - seq: 40
+    slug: "part-three-the-theory-of-prehensions"
+    title: "Part III: The Theory of Prehensions"
+    kind: "part"
+    file: "raw/040-part-three-the-theory-of-prehensions.txt"
+    start_line: 3661
+    end_line: 3666
+    line_count: 6
+    printed_page_start: null
+  - seq: 41
+    slug: "part-three-chapter-one-the-theory-of-feelings"
+    title: "Part III, Chapter I: The Theory of Feelings"
+    kind: "chapter"
+    file: "raw/041-part-three-chapter-one-the-theory-of-feelings.txt"
+    start_line: 3667
+    end_line: 3870
+    line_count: 204
+    printed_page_start: "334"
+  - seq: 42
+    slug: "part-three-chapter-two-the-primary-feelings"
+    title: "Part III, Chapter II: The Primary Feelings"
+    kind: "chapter"
+    file: "raw/042-part-three-chapter-two-the-primary-feelings.txt"
+    start_line: 3871
+    end_line: 3962
+    line_count: 92
+    printed_page_start: "361"
+  - seq: 43
+    slug: "part-three-chapter-three-the-transmission-of-feelings"
+    title: "Part III, Chapter III: The Transmission of Feelings"
+    kind: "chapter"
+    file: "raw/043-part-three-chapter-three-the-transmission-of-feelings.txt"
+    start_line: 3963
+    end_line: 4080
+    line_count: 118
+    printed_page_start: "373"
+  - seq: 44
+    slug: "part-three-chapter-four-propositions-and-feelings"
+    title: "Part III, Chapter IV: Propositions and Feelings"
+    kind: "chapter"
+    file: "raw/044-part-three-chapter-four-propositions-and-feelings.txt"
+    start_line: 4081
+    end_line: 4186
+    line_count: 106
+    printed_page_start: "391"
+  - seq: 45
+    slug: "part-three-chapter-five-the-higher-phases-of-experience"
+    title: "Part III, Chapter V: The Higher Phases of Experience"
+    kind: "chapter"
+    file: "raw/045-part-three-chapter-five-the-higher-phases-of-experience.txt"
+    start_line: 4187
+    end_line: 4348
+    line_count: 162
+    printed_page_start: "406"
+  - seq: 50
+    slug: "part-four-the-theory-of-extension"
+    title: "Part IV: The Theory of Extension"
+    kind: "part"
+    file: "raw/050-part-four-the-theory-of-extension.txt"
+    start_line: 4349
+    end_line: 4354
+    line_count: 6
+    printed_page_start: null
+  - seq: 51
+    slug: "part-four-chapter-one-coordinate-division"
+    title: "Part IV, Chapter I: Coordinate Division"
+    kind: "chapter"
+    file: "raw/051-part-four-chapter-one-coordinate-division.txt"
+    start_line: 4355
+    end_line: 4496
+    line_count: 142
+    printed_page_start: "433"
+  - seq: 52
+    slug: "part-four-chapter-two-extensive-connection"
+    title: "Part IV, Chapter II: Extensive Connection"
+    kind: "chapter"
+    file: "raw/052-part-four-chapter-two-extensive-connection.txt"
+    start_line: 4497
+    end_line: 4690
+    line_count: 194
+    printed_page_start: "449"
+  - seq: 53
+    slug: "part-four-chapter-three-flat-loci"
+    title: "Part IV, Chapter III: Flat Loci"
+    kind: "chapter"
+    file: "raw/053-part-four-chapter-three-flat-loci.txt"
+    start_line: 4691
+    end_line: 4854
+    line_count: 164
+    printed_page_start: "460"
+  - seq: 54
+    slug: "part-four-chapter-four-strains"
+    title: "Part IV, Chapter IV: Strains"
+    kind: "chapter"
+    file: "raw/054-part-four-chapter-four-strains.txt"
+    start_line: 4855
+    end_line: 4958
+    line_count: 104
+    printed_page_start: "472"
+  - seq: 55
+    slug: "part-four-chapter-five-measurement"
+    title: "Part IV, Chapter V: Measurement"
+    kind: "chapter"
+    file: "raw/055-part-four-chapter-five-measurement.txt"
+    start_line: 4959
+    end_line: 5086
+    line_count: 128
+    printed_page_start: "491"
+  - seq: 60
+    slug: "part-five-final-interpretation"
+    title: "Part V: Final Interpretation"
+    kind: "part"
+    file: "raw/060-part-five-final-interpretation.txt"
+    start_line: 5087
+    end_line: 5092
+    line_count: 6
+    printed_page_start: null
+  - seq: 61
+    slug: "part-five-chapter-one-the-ideal-opposites"
+    title: "Part V, Chapter I: The Ideal Opposites"
+    kind: "chapter"
+    file: "raw/061-part-five-chapter-one-the-ideal-opposites.txt"
+    start_line: 5093
+    end_line: 5148
+    line_count: 56
+    printed_page_start: "512"
+  - seq: 62
+    slug: "part-five-chapter-two-god-and-the-world"
+    title: "Part V, Chapter II: God and the World"
+    kind: "chapter"
+    file: "raw/062-part-five-chapter-two-god-and-the-world.txt"
+    start_line: 5149
+    end_line: 5280
+    line_count: 132
+    printed_page_start: "519"
+  - seq: 90
+    slug: "index"
+    title: "Index"
+    kind: "back-matter"
+    file: "raw/090-index.txt"
+    start_line: 5281
+    end_line: 6947
+    line_count: 1667
+    printed_page_start: null
+  - seq: 91
+    slug: "editors-notes"
+    title: "Editors' Notes"
+    kind: "back-matter"
+    file: "raw/091-editors-notes.txt"
+    start_line: 6948
+    end_line: 8299
+    line_count: 1352
+    printed_page_start: null

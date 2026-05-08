@@ -1,0 +1,177 @@
+book:
+  title: "The Quantum of Explanation: Whitehead's Radical Empiricism"
+  author: "Randall E. Auxier and Gary L. Herstein"
+  source_text_witness: "sources/modern/incoming/books/The Quantum of Explanation - Auxier, Randall E.; Herstein, G.txt"
+  extracted_full_text: "full/quantum-of-explanation.txt"
+sections:
+  - seq: 0
+    slug: "title-pages-and-contents"
+    title: "Title pages and contents"
+    kind: "front-matter"
+    file: "raw/000-title-pages-and-contents.txt"
+    start_line: 1
+    end_line: 168
+    line_count: 168
+    printed_page_start: null
+  - seq: 1
+    slug: "preface"
+    title: "Preface"
+    kind: "front-matter"
+    file: "raw/001-preface.txt"
+    start_line: 169
+    end_line: 213
+    line_count: 45
+    printed_page_start: null
+  - seq: 2
+    slug: "acknowledgements"
+    title: "Acknowledgements"
+    kind: "front-matter"
+    file: "raw/002-acknowledgements.txt"
+    start_line: 214
+    end_line: 228
+    line_count: 15
+    printed_page_start: null
+  - seq: 10
+    slug: "introduction"
+    title: "Introduction"
+    kind: "introduction"
+    file: "raw/010-introduction.txt"
+    start_line: 229
+    end_line: 509
+    line_count: 281
+    printed_page_start: null
+  - seq: 11
+    slug: "reading-whitehead"
+    title: "1. Reading Whitehead"
+    kind: "chapter"
+    file: "raw/011-reading-whitehead.txt"
+    start_line: 510
+    end_line: 666
+    line_count: 157
+    printed_page_start: null
+  - seq: 12
+    slug: "whiteheads-radical-empiricism"
+    title: "2. Whitehead's Radical Empiricism"
+    kind: "chapter"
+    file: "raw/012-whiteheads-radical-empiricism.txt"
+    start_line: 667
+    end_line: 776
+    line_count: 110
+    printed_page_start: null
+  - seq: 13
+    slug: "the-logic-in-metaphysics"
+    title: "3. The Logic in Metaphysics"
+    kind: "chapter"
+    file: "raw/013-the-logic-in-metaphysics.txt"
+    start_line: 777
+    end_line: 990
+    line_count: 214
+    printed_page_start: null
+  - seq: 14
+    slug: "the-quantum-of-explanation"
+    title: "4. The Quantum of Explanation"
+    kind: "chapter"
+    file: "raw/014-the-quantum-of-explanation.txt"
+    start_line: 991
+    end_line: 1165
+    line_count: 175
+    printed_page_start: null
+  - seq: 15
+    slug: "extensive-connectedness-the-metaphysics-in-logic"
+    title: "5. Extensive Connectedness (The Metaphysics in Logic)"
+    kind: "chapter"
+    file: "raw/015-extensive-connectedness-the-metaphysics-in-logic.txt"
+    start_line: 1166
+    end_line: 1353
+    line_count: 188
+    printed_page_start: null
+  - seq: 16
+    slug: "the-principle-of-relativity"
+    title: "6. The Principle of Relativity"
+    kind: "chapter"
+    file: "raw/016-the-principle-of-relativity.txt"
+    start_line: 1354
+    end_line: 1496
+    line_count: 143
+    printed_page_start: null
+  - seq: 17
+    slug: "genetic-and-coordinate-division-and-divisibility"
+    title: "7. Genetic and Coordinate Division and Divisibility"
+    kind: "chapter"
+    file: "raw/017-genetic-and-coordinate-division-and-divisibility.txt"
+    start_line: 1497
+    end_line: 1847
+    line_count: 351
+    printed_page_start: null
+  - seq: 18
+    slug: "the-problem-of-possibility"
+    title: "8. The Problem of Possibility"
+    kind: "chapter"
+    file: "raw/018-the-problem-of-possibility.txt"
+    start_line: 1848
+    end_line: 2167
+    line_count: 320
+    printed_page_start: null
+  - seq: 19
+    slug: "the-algebra-of-negative-prehension"
+    title: "9. The Algebra of Negative Prehension"
+    kind: "chapter"
+    file: "raw/019-the-algebra-of-negative-prehension.txt"
+    start_line: 2168
+    end_line: 2382
+    line_count: 215
+    printed_page_start: null
+  - seq: 20
+    slug: "the-nature-of-naturalism"
+    title: "10. The Nature of Naturalism"
+    kind: "chapter"
+    file: "raw/020-the-nature-of-naturalism.txt"
+    start_line: 2383
+    end_line: 2705
+    line_count: 323
+    printed_page_start: null
+  - seq: 21
+    slug: "synoptic-pluralism-and-the-problem-of-whiteheadian-theology"
+    title: "11. Synoptic Pluralism and the Problem of Whiteheadian Theology"
+    kind: "chapter"
+    file: "raw/021-synoptic-pluralism-and-the-problem-of-whiteheadian-theology.txt"
+    start_line: 2706
+    end_line: 2922
+    line_count: 217
+    printed_page_start: null
+  - seq: 22
+    slug: "possibility-and-god"
+    title: "12. Possibility and God"
+    kind: "chapter"
+    file: "raw/022-possibility-and-god.txt"
+    start_line: 2923
+    end_line: 3175
+    line_count: 253
+    printed_page_start: null
+  - seq: 23
+    slug: "gods-mortal-soul"
+    title: "13. God's Mortal Soul"
+    kind: "chapter"
+    file: "raw/023-gods-mortal-soul.txt"
+    start_line: 3176
+    end_line: 3433
+    line_count: 258
+    printed_page_start: null
+  - seq: 90
+    slug: "notes"
+    title: "Notes"
+    kind: "back-matter"
+    file: "raw/090-notes.txt"
+    start_line: 3434
+    end_line: 5061
+    line_count: 1628
+    printed_page_start: null
+  - seq: 91
+    slug: "index"
+    title: "Index"
+    kind: "back-matter"
+    file: "raw/091-index.txt"
+    start_line: 5062
+    end_line: 6210
+    line_count: 1149
+    printed_page_start: null

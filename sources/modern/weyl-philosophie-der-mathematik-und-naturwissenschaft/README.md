@@ -10,8 +10,11 @@ chapter-scale cleanup, and a bounded translation/encounter pass.
 This is now a page-anchored, chapter-split German working text scaffold. It is
 **not** a critical edition. The current PDF is primarily image-only, so the
 useful source layer is page images, draft OCR, and cleaned text tied back to the
-visual page authority. A thin encounter layer now exists, but the source has not
-been promoted into `texts/`.
+visual page authority. A thin encounter layer now exists, and chapter II has
+now been minimally promoted into
+`texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/`. This source
+scaffold remains the authority for exact German, page images, OCR corrections,
+translation drafts, and glossary pressure.
 
 ## Status
 
@@ -32,18 +35,23 @@ been promoted into `texts/`.
 - Tesseract is installed, but the German language pack is not currently
   available in this environment. Installed languages are `eng`, `osd`, and
   `rus`.
-- `parts/`, `journal.md`, `glossary.yaml`, and `synthesis/` contain a bounded
-  translation pass opened after the cleaned source layer became usable.
+- `parts/`, `journal.md`, `glossary.yaml`, and `synthesis/` contain bounded
+  translation passes opened after the cleaned source layer became usable.
+- Chapter II has a minimal promoted dossier in
+  `../../../texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/`;
+  that dossier points back here rather than duplicating the source-local
+  authority.
 
 ## Why Here
 
 - Not only `sources/modern/incoming/books/` - because the PDF is not usable for
   bounded page inspection or OCR correction as-is.
-- Not `texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/` - because
-  the translation/encounter apparatus is still bounded and source-local rather
-  than a full project promotion.
-- `sources/modern/` is the least misleading place for a modern source being
-  localized for possible later work without promotion into a live campaign.
+- Not only `texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/` -
+  because the translation/encounter apparatus is still bounded and source-local
+  rather than a full book promotion. The `texts/` layer currently promotes only
+  the earned chapter-II dossier.
+- `sources/modern/` remains the least misleading place for the unpromoted
+  full-book scaffold and future source-local campaigns.
 
 ## Source
 

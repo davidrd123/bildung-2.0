@@ -1,0 +1,113 @@
+# Promoted anchor manifest for the minimal Weyl dossier.
+# Authority for German text, page images, translations, and full glossary
+# pressure remains in the source-local scaffold named below.
+# Paths are repo-root relative unless otherwise noted.
+
+project:
+  slug: weyl-philosophie-der-mathematik-und-naturwissenschaft
+  handle_prefix: weyl
+  title: Philosophie der Mathematik und Naturwissenschaft
+  author: Hermann Weyl
+  edition: 8. Auflage
+  status: minimal_promoted_dossier
+  promoted_on: 2026-05-08
+
+authority:
+  source_local_root: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft
+  source_manifest: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/source/sections.yaml
+  cleaned_chapter_ii: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/source/cleaned/009-math-02-zahl-und-kontinuum.txt
+  source_glossary: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/glossary.yaml
+  source_journal: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/journal.md
+  source_synthesis: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/synthesis/2026-05-08-chapter-ii-campaign-synthesis.md
+  authority_note: Source-local files remain authoritative for exact text and translation decisions.
+
+promoted_scope:
+  handle: "weyl:math-02"
+  title: "II. Zahl und Kontinuum. Das Unendliche"
+  kind: chapter
+  status: promoted_working_dossier
+  printed_pages: "47-90"
+  pdf_pages: "48-91"
+  source_cleaned_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/source/cleaned/009-math-02-zahl-und-kontinuum.txt
+  dossier: texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/dossiers/chapter-ii-number-continuum-infinite.md
+
+anchors:
+  - handle: "weyl:math-02:5"
+    label: "§5"
+    title: "Rationale Zahlen. Das Komplexe"
+    printed_pages: "47-51"
+    pdf_pages: "48-52"
+    part_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/006-math-02-05-rationale-zahlen-das-komplexe.md
+    role: ideal elements introduced by creative definition
+  - handle: "weyl:math-02:6"
+    label: "§6"
+    title: "Die natürlichen Zahlen"
+    printed_pages: "51-57"
+    pdf_pages: "52-58"
+    part_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/007-math-02-06-die-natuerlichen-zahlen.md
+    role: natural-number sequence and constructive continuation
+  - handle: "weyl:math-02:7"
+    label: "§7"
+    title: "Das Irrationale und das Unendlichkleine"
+    printed_pages: "57-65"
+    pdf_pages: "58-66"
+    part_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md
+    role: continuum as the hard case for objectification
+  - handle: "weyl:math-02:8"
+    label: "§8"
+    title: "Die Mengenlehre"
+    printed_pages: "66-71"
+    pdf_pages: "67-72"
+    part_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/009-math-02-08-die-mengenlehre.md
+    role: set-theoretic objectification of possible sequences, subsets, and properties
+  - handle: "weyl:math-02:9"
+    label: "§9"
+    title: "Intuitive Mathematik"
+    printed_pages: "71-76"
+    pdf_pages: "72-77"
+    part_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/010-math-02-09-intuitive-mathematik.md
+    role: Brouwerian construction, choice sequence, and continuum as part-whole
+  - handle: "weyl:math-02:10"
+    label: "§10"
+    title: "Symbolische Mathematik"
+    printed_pages: "76-85"
+    pdf_pages: "77-86"
+    part_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/011-math-02-10-symbolische-mathematik.md
+    role: Hilbertian formalism as consistency rescue rather than truth rescue
+  - handle: "weyl:math-02:11"
+    label: "§11"
+    title: "Über das Wesen der mathematischen Erkenntnis"
+    printed_pages: "85-90"
+    pdf_pages: "86-91"
+    part_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md
+    role: epistemological classification and chapter synthesis
+
+promoted_claims:
+  - id: science-of-the-infinite
+    status: promoted
+    anchors:
+      - "weyl:math-02:7"
+      - "weyl:math-02:8"
+      - "weyl:math-02:9"
+      - "weyl:math-02:10"
+      - "weyl:math-02:11"
+    summary: Mathematics is a science of the infinite because the finite-infinite tension is where construction, intuition, symbol, and reality meet.
+  - id: symbolic-access-to-totality
+    status: tentative_thread
+    thread: "thread:symbolic-access-to-totality"
+    anchors:
+      - "weyl:math-02:8"
+      - "weyl:math-02:9"
+      - "weyl:math-02:10"
+      - "weyl:math-02:11"
+    summary: Totality is a real theoretical need, but Weyl's chapter disciplines it through symbolic representation rather than direct intuitive possession.
+
+threads:
+  - handle: "thread:symbolic-access-to-totality"
+    status: tentative
+    file: texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/threads/symbolic-access-to-totality.md
+    grounded_in:
+      - "weyl:math-02:8"
+      - "weyl:math-02:9"
+      - "weyl:math-02:10"
+      - "weyl:math-02:11"

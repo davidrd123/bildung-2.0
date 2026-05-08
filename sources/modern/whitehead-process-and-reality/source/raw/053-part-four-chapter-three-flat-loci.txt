@@ -1,0 +1,159 @@
+CHAPTER III FLAT LOCI
+
+
+
+
+
+[460] MODERN physical science, with its dependence on the exact notions of mathematics, began with the foundation of Greek Geometry. The first definition of Euclid's Elements runs,
+
+“A point is that of which there is no part.”
+
+The second definition runs,
+
+“A line is breadthless length.”
+
+The fourth definition runs,
+
+“A straight line is any line which lies evenly with the points on itself.”
+
+These translations are taken from Euclid In Greek, Book I, edited with notes by Sir Thomas L. Heath, the greatest living authority on Euclid's Elements. Heath ascribes the second definition “to the Platonic school, if not to Plato himself.”† For the Greek phrase translated ‘evenly’ Heath also suggests the alternatives ‘on a footing of equality,’ ‘evenly placed,’ ‘without bias.’
+
+Euclid's first ‘postulate’ is (Heath's translation):
+
+“Let the following be postulated: to draw a straight line from any point to any point.”
+
+Heath points out that this postulate was meant to imply† existence and uniqueness.
+
+As these statements occur in Greek science, a muddle arises between ‘forms’ and concrete physical things. Geometry starts with the purpose of investigating cer- [461] tain forms of physical things. But in its initial definitions of the ‘point’ and the ‘line,’ it seems immediately to postulate certain ultimate physical things of a very peculiar character. Plato himself appears to have had some suspicion of this confusion when (Heath, loc. cit.) he “objected to recognizing points as a separate class of things at all.”† He ought to have gone further, and have made the same objection to all the geometrical entities, namely, points, lines, and surfaces. He wanted ‘forms,’ and he obtained new physical entities.
+
+According to the previous chapter, ‘extension’ should be construed in terms of ‘extensive connection’; that is to say, extension is a form of relationship between the actualities of a nexus. A point is a nexus of actual entities with a certain ‘form’; and so is a ‘segment,’ Thus geometry is the investigation of the morphology of nexūs.
+
+
+
+
+
+The weak point of the Euclidean definition of a straight line is, that nothing has been deduced from it. The notion expressed by the phrases ‘evenly,’ or ‘evenly placed,’ requires definition. The definition should be such that the uniqueness of the straight segment between two points can be deduced from it. Neither of these demands has ever been satisfied, with the result that in modern times the notion of ‘straightness’ has been based on that of measurement. A straight line has, in modern times, been defined as the shortest distance between two points. In the classic geometry, the converse procedure was adopted, and measurement presupposed straight lines. But, with the modern definition, the notion of the ‘shortest distance’ in its turn requires explanation.1 This notion is practically defined to mean the line which is the route of certain physical occurrences.
+
+In this section it will be shown that the gap in the old [462] classical theory can be remedied. Straight lines will be defined in terms of the extensive notions, developed in the preceding chapter; and the uniqueness of the straight line joining two points will be proved to follow from the terms of the definition.
+
+A class of ‘oval’ regions must first be defined. Now the only weapon which we have for this definition is the notion of regions which overlap with a unique intersect (cf. Def. 6 of previous chapter). It is evidently a property of a pair of ovals that they can only overlap with a unique intersect. But it is equally evident that some regions which are not ovals also overlap with a unique intersect. However the class of ovals has the property that any region, not a member of it, intersects some ovals with multiple intersects. Also sub-sets of ovals can be found satisfying various conditions.
+
+Thus we proceed to define a class whose region shall have those relations to each other, and to other regions, which we ascribe to the class of ovals. In other words, † we cannot define a single oval, but we can define a class of ovals. Such a class will be called ‘ovate.’ The definition of an ovate class proceeds by enumerating all those peculiar properties possessed by individual members of the class, or by sub-sets of members of the class. It will be found in the course of this enumeration that an extensive continuum which possesses an ovate class is dimensional in respect to that class. Thus existence of straight lines in an extensive continuum is bound up with the dimensional character of the continuum; and both characteristics are relative to a particular ovate class of regions in the continuum. It seems probable that an extensive continuum will possess only one ovate class. But I have not succeeded in proving that property; nor is it necessary for the argument.
+
+A preliminary definition is convenient:
+
+Definition 0.1. An ‘ovate abstractive set’ is an abstractive set whose members all belong to the complete ovate class under consideration.
+
+[463] The characteristics of an ovate class will be divided into two groups: (a) the group of non-abstractive conditions, and (b) the group of abstractive conditions.
+
+Definition 1. A class of regions is called ‘ovate,’ when it satisfies the conditions belonging to the two following groups, (a) and (b):
+
+(a) The Non-Abstractive Group
+
+Any two overlapping regions of the ovate class have a unique intersect which also belongs to that ovate class.
+
+Any region, not a member of the ovate class, overlaps some members of that class with ‘multiple intersection’ (cf. Def. 6 of previous chapter).
+
+Any member of the ovate class overlaps some regions, not of that class, with multiple intersection.
+
+Any pair of members of the ovate class, which are externally connected, have their surfaces touching either in a ‘complete locus’ of points (cf. Ch. II, Def. 23 and Ass. 27†), or in a single point.
+
+Any region, not belonging to the ovate class, is externally connected with some member of that class so that their surfaces touch in a set of points which does not form a ‘complete locus,’
+
+Any member of the ovate class is externally connected with some region not of that class so that their surfaces touch in a set of points which does not form a ‘complete locus.’
+
+Any finite number of regions are jointly included in some member of the ovate class.*
+
+If A and B be members of the ovate class, and A include B, then there are members of the class which include B and are included in A.
+
+There are dissections (cf. Def. 4 of the previous chapter) of every member of the ovate class, which consist wholly of members of that class; and there are dissections consisting wholly or partly of members not belonging to that class.
+
+[464] (b) The Abstractive Group
+
+Among the members of any point, there are ovate abstractive sets.
+
+If any set of two, or of three, or of four, points be considered, there are abstractive sets ‘prime’ in reference to the twofold condition, (a) of covering the points in question, and (b) of being equivalent to an ovate abstractive set.
+
+There† are sets of five points such that no abstractive set exists prime in reference to the twofold condition, (a) of covering the points in question, and (b) of being equivalent to an ovate abstractive set.
+
+By reason of the definitions of this latter group, the extensive continuum in question is called ‘four-dimensional.’ Analogously, an extensive continuum of any number of dimensions can be defined. The physical extensive continuum with which we are concerned in this cosmic epoch is four-dimensional. Notice that the property of being ‘dimensional’ is relative to a particular ovate class in the extensive continuum. There may be ‘ovate’ classes satisfying all the conditions with the exception of the ‘dimensional’ conditions. Also a continuum may have one number of dimensions relating to one ovate class, and another number of dimensions relating† to another ovate class.
+
+Possibly physical laws, of the type presupposing continuity, depend on the interwoven properties of two, or more, distinct ovate classes.
+
+
+
+
+
+Assumption 1. In the extensive continuum of the present epoch there is at least one ovate class, with the characteristics of the two groups, (a) and (b), of the previous section.
+
+Definition 2. One such ovate class will be denoted by a: all definitions will be made relatively to this selected ovate class.
+
+[465] It is indifferent to the argument whether or no there be an alternative ovate class. If there be, the derivative entities defined in reference to this alternative class are entirely different to those defined in reference to α. It is sufficient for us, that one such class interests us by the importance of its physical relations.
+
+Assumption 2. If two abstractive sets are prime in reference to the same twofold condition, (a) of covering a given group of points, and (b) of being equivalent to some ovate abstractive set, then they are equivalent.
+
+By reason of the importance of this proposition a proof is given.
+
+Proof. The two abstractive sets are either equivalent to the same ovate abstractive set, or to different ovate abstractive sets. In the former alternative, the required conclusion is obvious. In the latter alternative, let μ and ν be the two different ovate abstractive sets. Each of these sets, μ and ν, satisfies the twofold condition. We have to prove that they are equivalent to each other. Let M and N be any regions belonging to μand ν respectively. Then since the convergent portions of the abstractive sets belonging to the various points of the given group must ultimately consist of regions all lying in M and all lying in N, it follows that M and N intersect. But, being oval, M and N have only one intersect, and all the points in question must be situated in it. Also this intersect is oval. Hence, by selecting such intersects, a third abstractive set can be found which satisfies the twofold condition and is covered both by μand by ν. But since μ and ν are prime in reference to this condition, they are both of them equivalent to this third abstractive class. Hence they are equivalent to each other. Q.E.D.
+
+Corollary. It follows that all abstractive sets, prime with respect to the same twofold condition of this type, belong to one geometrical element.
+
+Definition 3. The single geometrical element defined, as in the enunciation of Assumption 2, by a set of two points is called a ‘straight’ segment between those end- [466] points. If the set comprise more than two points, the geometrical element is called ‘flat.’ ‘Straight’ segments are also included under the designation ‘flat geometrical elements.’
+
+If a set of points define a flat geometrical element, as in the enunciation of Assumption 2, it may happen that the same geometrical element is defined by some sub-set of those points. Hence we have the following definition:
+
+Definition 4. A set of points, defining a flat geometrical element, is said to be in its lowest terms when it contains no sub-set defining the same flat geometrical element.
+
+Assumption 3. No two sets of a finite number of points, both in their lowest terms, define the same flat geometrical element.
+
+Definition 5. The locus of points incident in a ‘straight segment’ is called the ‘straight line’ between the end-points of the segment.
+
+Definition 6. The locus of points incident in a flat geometrical element is called the ‘content’ of that element. It is also called a ‘flat locus.’
+
+Assumption 4. If any sub-set of points liet in a flat locus, that sub-set also defines a flat locus contained within the given locus.
+
+Definition 6.1† A complete straight line is a locus of points such that, (i) the straight line joining any two members of the locus lies wholly within the locus, (ii) every sub-set in the locus, which is in its lowest terms, consists of a pair of points, (iii) no points can be added to the locus without loss of one, or both, of the characteristics (i) and (ii).
+
+Definition 7. A triangle is the flat locus defined by three points which are not collinear. The three points are the angular points of the triangle.
+
+Definition 8. A plane is a locus of non-collinear points such that, (i) the triangle defined by any three non-collinear members of the locus lies wholly within the locus, [467] (ii) any finite number of points in the locus lie in some triangle wholly contained in the locus, (iii) no set of points can be added to the locus without loss of one, or both, of the characteristics (i) and (ii).
+
+Definition 9. A tetrahedron is the flat locus defined by four points which are not coplanar. The four points are called the corners of the tetrahedron.
+
+Definition 10. A three-dimensional flat space is a locus of non-coplanar points such that, (i) the tetrahedron defined by any four non-coplanar points of the locus lies wholly within the locus, (ii) any finite number of points in the locus liet in some tetrahedron wholly contained in the locus, (iii) no set of points can be added to the locus without the loss of one, or both, of the characteristics (i) and (ii).
+
+Any further development of definitions and propositions will lead to mathematical details irrelevant to our immediate purposes. It suffices to have proved that characteristic properties of straight lines, planes, and three-dimensional flat spaces are discoverable in the extensive continuum without any recourse to measurement. The systematic character of a continuum depends on its possession of one or more ovate classes. Here, the particular case of a ‘dimensional’ ovate class has been considered.
+
+
+
+
+
+The importance of the notion of ‘external connection’ requires further discussion.
+
+First, there is a purely geometrical question to be noted. The theory of the external connection of oval regions throws light on the Euclidean concept of ‘evenness.’ A pair of ovals (cf. Sect. III) can only be externally connected in a ‘complete locus,’ or in a single point. We now consider that species of ‘complete loci’ which can be the points common to the surfaces of a pair of ovals externally connected. We exclude the case of one-point contact. The species seems to have what the [468] Greeks meant by their term ‘even’ (ἴσοϛ). On either side of such a locus, there is the interior of one oval and the exterior of another oval, so that the locus is ‘even’ in respect to the contrasted notions of ‘concavity’ and ‘convexity.’ It is an extra ‘assumption’—provable or otherwise according to the particular logical development of the subject which may have been adopted—that all ‘even’ loci are ‘flat,’ and that all ‘flat’ loci are ‘even.’
+
+The second question for discussion concerns the physical importance of ‘external connection.’ So long as the atomic character of actual entities is unrecognized, the application of Zeno's method of argument makes it difficult to understand the notion of continuous transmission which reigns in physical science. But the concept of ‘actual occasions,’ adopted in the philosophy of organism, allows of the following explanation of physical transmission.
+
+Let two actual occasions be termed ‘contiguous’ when the regions constituting their ‘standpoints’ are externally connected. Then by reason of the absence of intermediate actual occasions, the objectification of the antecedent occasion in the later occasion is peculiarly complete. There will be a set of antecedent, contiguous occasions objectified in any given occasion; and the abstraction which attends every objectification will merely be due to the necessary harmonizations of these objectifications. The objectifications of the more distant past will be termed ‘mediate’; the contiguous occasions will have ‘immediate’ objectification. The mediate objectifications will be transmitted through various routes of successive immediate objectifications. Thus the notion of continuous transmission in science must be replaced by the notion of immediate transmission through a route of successive quanta of extensiveness. These quanta of extensiveness are the basic regions of successive contiguous occasions. It is not necessary for the philosophy of organism entirely to deny that there [469] is direct objectification of one occasion in a later occasion which is not contiguous to it. Indeed, the contrary opinion would seem the more natural for this doctrine. Provided that physical science maintains its denial of ‘action at a distance,’ the safer guess is that direct objectification is practically negligible except for contiguous occasions; but that this practical negligibility is a characteristic of the present cosmic epoch, without any metaphysical generality. Also a further distinction should be introduced. Physical prehensions fall into two species, pure physical prehensions and hybrid physical prehensions. A pure physical prehension is a prehension whose datum is an antecedent occasion objectified in respect to one of its own physical prehensions. A hybrid prehension has as its datum an antecedent occasion objectified in respect to a conceptual prehension. Thus a pure physical prehension is the transmission of physical feeling, while hybrid prehension is the transmission of mental feeling.
+
+There is no reason to assimilate the conditions for hybrid prehensions to those for pure physical prehensions. Indeed the contrary hypothesis is the more natural. For the conceptual pole does not share in the coordinate divisibility of the physical pole, and the extensive continuum is derived from this coordinate divisibility. Thus the doctrine of immediate objectification for the mental poles and of mediate objectification for the physical poles seems most consonant to the philosophy of organism in its application to the present cosmic epoch. This conclusion has some empirical support, both from the evidence for peculiar instances of telepathy, and from the instinctive apprehension of a tone of feeling in ordinary social intercourse.
+
+But of course such immediate objectification is also reinforced, or weakened, by routes of mediate objectification. Also pure and hybrid prehensions are integrated and thus hopelessly intermixed. Hence it will only be in exceptional circumstances that an immediate hybrid [470] prehension has sufficient vivid definition to receive a subjective form of clear conscious attention.
+
+
+
+
+
+We have now traced the main characteristics of that real potentiality from which the first phase of a physical occasion takes its rise. These characteristics remain inwoven in the constitution of the subject throughout its adventure of self-formation. The actual entity is the product of the interplay of physical pole with mental pole. In this way, potentiality passes into actuality, and extensive relations mould qualitative content and objectifications of other particulars into a coherent finite experience.
+
+In general, consciousness is negligible; and even the approach to it in vivid propositional feelings has failed to attain importance. Blind physical purposes reign. It is now obvious that blind prehensions, physical and mental, are the ultimate bricks of the physical universe. They are bound together within each actuality by the subjective unity of aim which governs their allied genesis and their final concrescence. They are also bound together beyond the limits of their peculiar subjects by the way in which the prehension in one subject becomes t the objective datum for the prehension in a later subject, thus objectifying the earlier subject for the later subject. The two types of interconnection of prehensions are themselves bound together in one common scheme, the relationship of extension.
+
+It is by means of ‘extension’ that the bonds between prehensions take on the dual aspect of internal relations, which are yet in a sense external relations. It is evident that if the solidarity of the physical world is to be relevant to the description of its individual actualities, it can only be by reason of the fundamental internality of the relationships in question. On the other hand, if the individual discreteness of the actualities is to have its weight, there must be an aspect in these relationships [471] from which they can be conceived as external, that is, as bonds between divided things. The extensive scheme serves this double purpose.
+
+The Cartesian subjectivism in its application to physical science became Newton's assumption of individually existent physical bodies, with merely external relationships. We diverge from Descartes by holding that what he has described as primary attributes of physical bodies t are really the forms of internal relationships between actual occasions, and within actual occasions. Such a change of thought is the shift from materialism to organism, as the basic idea of physical science.
+
+In the language of physical science, the change from materialism to ‘organic realism’—as the new outlook may be termed—is the displacement of the notion of static stuff by the notion of fluent energy. Such energy has its structure of action and flow, and is inconceivable apart from such structure. It is also conditioned by ‘quantum’ requirements. These are the reflections into physical science of the individual prehensions, and of the individual actual entities to which these prehensions belong. Mathematical physics translates the saying of Heraclitus, ‘All things flow,’ into its own language. It then becomes, All things are vectors. Mathematical physics also accepts the atomistic doctrine of Democritus. It translates it into the phrase, All flow of energy obeys ‘quantum’ conditions.
+
+But what has vanished from the field of ultimate scientific conceptions is the notion of vacuous material existence with passive endurance, with primary individual attributes, and with accidental adventures. Some features of the physical world can be expressed in that way. But the concept is useless as an ultimate notion in science, and in cosmology.
+
+1Cf. Part IV, Ch. V, on ‘Measurement.’

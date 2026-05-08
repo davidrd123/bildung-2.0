@@ -1,0 +1,106 @@
+# Working glossary for Bruno, De la causa, principio et uno.
+# All entries are open until they recur across batches with enough evidence.
+causa:
+  status: open
+  preferred: cause
+  notes: "Title term. Do not settle its relation to principio yet."
+principio:
+  status: open
+  preferred: principle
+  notes: "Title term. Can mean principle, beginning, or origin; keep under pressure."
+uno:
+  status: open
+  preferred: one
+  notes: "Title term. Avoid prematurely smoothing into unity."
+contemplazion_reale:
+  source: contemplazion reale
+  status: open
+  preferred: real contemplation
+  notes: "Appears near the end of the proemial epistle; likely names the work's natural-philosophical register."
+longanimita:
+  source: longanimità
+  status: open
+  preferred: longanimity
+  notes: "Opening dedication term; forbearance and endurance are possible, but longanimity preserves the register."
+divisa:
+  status: open
+  preferred: device
+  notes: "Heraldic or emblematic term in the proemial opening."
+cimiero:
+  status: open
+  preferred: crest
+  notes: "Heraldic term in `terribil cimiero`."
+liquido_umore:
+  source: liquido umore
+  status: open
+  preferred: liquid humor
+  notes: "Part of the water/drop emblem; avoid flattening immediately to plain water."
+stilla:
+  status: open
+  preferred: drop
+  notes: "Part of the water/stone emblem."
+sasso:
+  status: open
+  preferred: stone
+  notes: "Part of the device: persistent drops soften and hollow hard stone."
+sustanza:
+  source: sustanza
+  status: open
+  preferred: substance
+  notes: "Central term in the argomenti. Must be tracked against accident and matter."
+materia:
+  status: open
+  preferred: matter
+  notes: "Central term. Bruno will press matter as principle, potency, subject, and something divine."
+forma:
+  status: open
+  preferred: form
+  notes: "Track formal cause, formal principle, and the relation to matter."
+anima:
+  status: open
+  preferred: soul
+  notes: "Appears as anima de l'universo and as a distributed formal/living principle."
+contemplazione:
+  status: open
+  preferred: contemplation
+  notes: "Do not reduce to observation or theory; tied to real contemplation and natural/divine knowledge."
+atto:
+  status: open
+  preferred: act
+  notes: "Metaphysical correlate of potenza; later coincides with potency in the infinite."
+potenza:
+  status: open
+  preferred: potency
+  notes: "Can also mean power. Use potency where paired with atto."
+ente:
+  status: open
+  preferred: being
+  notes: "Track carefully where it means being as such rather than a particular entity."
+soggetto:
+  status: open
+  preferred: subject
+  notes: "May sometimes need substrate; keep open through the matter dialogues."
+accidente:
+  status: open
+  preferred: accident
+  notes: "Set against substance in the argomenti."
+efficiente:
+  status: open
+  preferred: efficient
+  notes: "Occurs in efficient cause and efficient nature; do not detach from causa too quickly."
+formale:
+  status: open
+  preferred: formal
+  notes: "Occurs in formal cause and formal principle."
+finale:
+  status: open
+  preferred: final
+  notes: "Occurs in the causal triad efficient/formal/final."
+principiato:
+  status: open
+  preferred: principiated
+  notes: "Awkward but useful where Bruno pairs causato and principiato."
+isagogia:
+  status: open
+  preferred: isagogy
+  notes: "Introductory route into the knowledge of things; appears at the end of the argomenti."
