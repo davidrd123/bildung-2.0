@@ -1023,3 +1023,148 @@ But still:
 
 The honest gain is that she is now a source-real interlocutor rather than a
 shelf adjacency.
+
+## 2026-04-23 - closer chapter 4 pass
+
+This pass reopens chapter 4 under a narrower pressure than the earlier
+whole-book contact: before using Langer as a bridge toward Hoffmeyer, check what
+Langer herself actually does with non-discursive meaning.
+
+The earlier "next honest surface: none" still stands against unforced Langer
+drift. This pass was forced by a specific local bridge question.
+
+### Read surface
+
+- full closer pass over
+  `sources/modern/langer-philosophy-in-a-new-key/source/raw/013-discursive-forms-and-presentational-forms.txt`
+- supporting checks in
+  `sources/modern/langer-philosophy-in-a-new-key/source/raw/012-the-logic-of-signs-and-symbols.txt`
+- supporting checks in
+  `sources/modern/langer-philosophy-in-a-new-key/source/raw/014-language.txt`
+
+The raw text is adequate for bounded pressure-reading. Exact citation still
+needs the authority PDF.
+
+### 1. Chapter 4 is not a simple anti-positivist gesture
+
+Langer accepts the logicians' demolition of bad metaphysical questions more
+than a vague humanist reading would suggest. Her answer is not to restore old
+metaphysics unchanged; it is to recast the questions so that the meanings at
+stake can actually be studied.
+
+Evidence anchors:
+
+- `013-discursive-forms-and-presentational-forms.txt:260`: philosophical
+  problems are displaced when questions are misplaced
+- `013-discursive-forms-and-presentational-forms.txt:284`: metaphysics remains
+  study of meanings before special sciences split off
+- `013-discursive-forms-and-presentational-forms.txt:294`: the positivist
+  narrowing leaves only discursive language or inarticulate feeling
+
+So the live issue is not "logic versus art." It is whether logic has mistaken
+one symbolic mode for all meaningful articulation.
+
+### 2. Her real target is the language / feeling binary
+
+The hinge appears when Langer names the two assumptions blocking the problem:
+
+- language is the only means of articulating thought
+- what cannot be spoken as thought must be feeling
+
+She rejects that binary by widening semantics beyond language while keeping the
+claim rational, not mystical.
+
+Evidence anchors:
+
+- `013-discursive-forms-and-presentational-forms.txt:315`: intelligence may
+  seize another symbolism when one symbolism is inadequate
+- `013-discursive-forms-and-presentational-forms.txt:328`: poetry,
+  metaphysics, and art are treated as symbolisms, not mere cries
+- `013-discursive-forms-and-presentational-forms.txt:347`: the two false
+  assumptions are stated directly
+
+This is the cleanest reason Langer remains useful for the repo: she gives an
+anti-reduction of meaning without treating obscurity as depth.
+
+### 3. Presentational symbolism is articulated, but not lexical
+
+The important constraint is negative as much as positive. Presentational
+symbolism is not a loose name for "anything nonverbal." Langer repeatedly
+guards against calling every medium a language.
+
+Discursive form requires vocabulary, syntax, fixed definitions, and
+translation. Presentational form has articulated elements, but those elements
+do not carry detachable dictionary meanings. They mean through the total
+configuration.
+
+Evidence anchors:
+
+- `013-discursive-forms-and-presentational-forms.txt:638`: calling sensory or
+  musical media "languages" can mislead
+- `013-discursive-forms-and-presentational-forms.txt:645`: discourse requires
+  vocabulary, syntax, definitions, and translatability
+- `013-discursive-forms-and-presentational-forms.txt:667`: pictures have
+  elements but no independent lexical units or translation key
+- `013-discursive-forms-and-presentational-forms.txt:749`: presentational
+  symbolism names non-discursive, untranslatable articulation
+
+For current method work, this is a direct warning against paraphrase-collapse:
+a passage, image, rite, or musical form may be rationally meaningful without
+being equivalent to a discursive summary.
+
+### 4. Perception is already form-giving symbolic work
+
+Chapter 4 also pushes the symbolic question below explicit art. Eye and ear are
+not passive channels for ready-made data; they abstract forms and make
+recognition possible.
+
+Evidence anchors:
+
+- `013-discursive-forms-and-presentational-forms.txt:584`: sensory abstraction
+  is an instrument of intelligence
+- `013-discursive-forms-and-presentational-forms.txt:598`: visual forms are
+  simultaneous articulations, not successive discourse
+- `013-discursive-forms-and-presentational-forms.txt:830`: intuition can be
+  presentational symbolism "read" at once, not non-rational knowledge
+- `013-discursive-forms-and-presentational-forms.txt:918`: feeling has forms;
+  the question is which symbolism can grasp them
+
+This matters because Langer's presentational claim is epistemic, not merely
+aesthetic. She is widening the structure of knowability.
+
+### 5. Bridge to Hoffmeyer: adjacent pressure, not equivalence
+
+The Langer-to-Hoffmeyer bridge is real but limited.
+
+Langer's chapter 4 says: rational meaning is not exhausted by discursive
+language; presentational forms can articulate what language cannot translate.
+
+Hoffmeyer's opening biosemiotic question is different: living systems are
+organized through interpretive sign-relations before human language appears.
+
+The shared pressure is anti-language-monopoly. The difference is ontological
+load:
+
+- Langer broadens semantics within human perception, art, and rationality
+- Hoffmeyer broadens semiosis into biological organization itself
+
+That distinction should be kept explicit. Otherwise the repo would slide from
+"non-discursive symbolic form" to "life is semiosis" without doing the source
+work that the second claim requires.
+
+### What this pass earns
+
+- stronger local confidence that `presentational form` is not atmosphere but a
+  precise Langer hinge
+- a sharper constraint against calling every medium a `language`
+- a better warrant for the passage-encounter bench: some meaning must be met
+  as configuration before it can be responsibly paraphrased
+- a cautious bridge question for Hoffmeyer, not a Langer import into
+  biosemiotics
+
+### What remains below promotion
+
+- no repo-wide adoption of `presentational symbolism`
+- no settling of the Langer / Cassirer relation
+- no claim that Langer already supplies a biological semiotics
+- no citation of raw OCR passages without PDF checking
