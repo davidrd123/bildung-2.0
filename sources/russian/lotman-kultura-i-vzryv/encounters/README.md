@@ -1,6 +1,6 @@
 # Encounters
 
-Status: empty encounter layer for source-facing Lotman dossiers.
+Status: source-facing Lotman dossier layer.
 
 Use this directory for checked concept dossiers earned from *Kultura i vzryv*.
 Do not use it for broad reader-en pass notes, glossary inflation, or general
@@ -13,9 +13,18 @@ Method:
 - Lotman subclass:
   `00-Notes/method/lotman-spine-dossier-subclass.md`
 
-First candidate:
+Current dossiers:
 
-- `retrospective inevitability / dynamic asymmetry of memory`
+- `2026-05-07-001-retrospective-inevitability.md` - first local dossier on
+  `retrospective inevitability / dynamic asymmetry of memory`; source-backed
+  from cleaned Russian, held below repo-level promotion until comparator checks
+  are source-backed
+
+Next candidates:
+
+- `code plus history` in `002-sistema-s-odnim-yazykom.txt`
+- `fool / madman / norm` in `008-durak-i-sumasshedshiy.txt`
+- proper name / common noun switching in `016-ya-i-ya.txt`
 
 Required before a dossier passes:
 

@@ -560,3 +560,19 @@ TTS English filename pass:
   reader filename and the English TTS filename
 - the purpose is operational legibility for audiobook players, file browsers,
   and listening queues, not a new source-facing apparatus layer
+
+May 6 extraction follow-up, Part I raw source check:
+
+- added `encounters/2026-05-07-002-part-i-raw-source-check.md`
+- verified the May 6 Part I extraction claims against the local Russian raw
+  files for §§1-4: text functions and memory; autocommunication; rhetoric as
+  meaning-generation; iconic rhetoric and theater as intermediate coding
+- status is deliberately raw-OCR checked, not quotation-grade; only the §1
+  creative-translation core inherits DjVu-backed support from Encounter 001
+- the pass supports a narrow mechanism family: non-identical codes generate
+  meaning, self-address introduces a second code, rhetoric/trope turns
+  incompatibility into a generator, and iconic/theatrical mediation extends the
+  pattern beyond verbal text
+- no glossary, handle, or thread promotion was made; this is source-facing
+  support for later checked work, especially the Hoffmeyer code-duality
+  crosswalk and the separate `Культура и взрыв` dynamic-memory dossier

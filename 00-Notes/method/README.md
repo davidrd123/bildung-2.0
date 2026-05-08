@@ -14,6 +14,7 @@ This is not a second patterns layer. Nothing here governs the repo. It clarifies
 
 - `spine-author-dossier-discipline.md` — general method for extracting durable mechanisms from major thinkers without inheriting their looseness
 - `lotman-spine-dossier-subclass.md` — Lotman-specific subclass: concrete mechanisms, diagnostic lenses, pass criteria, and first model dossier target
+- `on-from-with-text.md` — source-bound Lotman method distinction among text as object, source, and restructuring partner
 - `lotman-incoming.md` — Lotman as methodological interlocutor; incoming, not yet encountered
 - `lotman-vnutri-first-contact.md` — bounded first contact with `Внутри мыслящих миров`; what this book adds beyond the earlier skim
 - `stereoscopic-parallax-translation-candidate.md` — candidate method note from the April 16 chat cluster; kept provisional until one real repo trial earns or refuses it

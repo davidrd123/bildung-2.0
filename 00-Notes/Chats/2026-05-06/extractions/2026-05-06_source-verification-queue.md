@@ -15,6 +15,13 @@ Verify the Part I reader passes directly against the Russian raw files before pr
 
 Primary anchor file: `2026-05-06_lotman-vnutri-part-i-full-resolution-traversal.md`.
 
+Progress note, 2026-05-07: Part I §§1-4 have been checked against the local
+Russian raw files and recorded in
+`sources/russian/lotman-vnutri-mislyashih-mirov/encounters/2026-05-07-002-part-i-raw-source-check.md`.
+This confirms the core extraction shape only at raw-OCR level, except for the
+§1 creative-translation core already DjVu-backed in Encounter 001. No glossary,
+handle, or thread promotion was made.
+
 ### Lotman `Культура и взрыв` mechanism checks
 
 Verify before building dossiers:
@@ -26,6 +33,16 @@ Verify before building dossiers:
 - `020-vmesto-vyvodov.txt`: binary/ternary culture claim and political ending.
 
 Primary anchor file: `2026-05-06_lotman-grounding-full-resolution-traversal.md`.
+
+Progress note, 2026-05-07: the retrospective-inevitability / dynamic-memory
+candidate has been turned into a first local Lotman dossier at
+`sources/russian/lotman-kultura-i-vzryv/encounters/2026-05-07-001-retrospective-inevitability.md`.
+It is backed by the visually proofed cleaned Russian files for `Прерывное и
+непрерывное`, `Момент непредсказуемости`, `Феномен искусства`, and `«Конец!
+как звучно это слово...»`. It now includes the explicit Pushkin/Dantes duel,
+Onegin/Lensky, historian-as-backward-prophet, and scale-substitution material.
+It remains below repo-level term/thread promotion until the comparator check is
+source-backed.
 
 ### Lotman dossier-method checks
 
@@ -90,6 +107,14 @@ Verify the proposed convergence by checking exact passages:
 
 Question to answer: is this a structural identity, a strong analogy, or a looser crosswalk?
 
+Progress note, 2026-05-07: verified as a strong analogy, not structural
+identity, in
+`00-Notes/working-syntheses/2026-05-07-lotman-hoffmeyer-code-duality-crosswalk.md`.
+The shared operator is non-identical translation between heterogeneous code
+systems as a generator of meaning/novelty. The hold is that Hoffmeyer's version
+is organismic, hereditary, developmental, and world-coupled in a way Lotman §3
+is not. No promotion was made.
+
 ### Langer / Lotman presentational structures
 
 Verify before reuse:
@@ -140,4 +165,3 @@ Treat these as unverified until matched to local files:
 3. Build one source-backed Lotman dossier to test the method.
 4. Verify Hoffmeyer/Lotman code-duality only after the Lotman §3 source pass is stable.
 5. Leave Tartu meta-literature and LLM applications as orientation until a source-backed dossier requires them.
-

@@ -1618,3 +1618,32 @@ Decision for now:
 
 - Run the full-book completion audit and residue checks before calling the
   cleanup complete.
+
+## 2026-05-07 - First local concept dossier
+
+Added:
+
+- `encounters/2026-05-07-001-retrospective-inevitability.md`
+
+Source basis:
+
+- visually proofed cleaned Russian layer, especially
+  `004-preryvnoe-i-nepreryvnoe.txt`,
+  `012-moment-nepredskazuemosti.txt`,
+  `017-fenomen-iskusstva.txt`, and
+  `018-konets-kak-zvuchno-eto-slovo.txt`
+
+What this clarified:
+
+- The dossier passes locally as a Lotman mechanism dossier: forward time opens
+  onto bounded possible futures, explosion selects one path by chance, later
+  memory or narration reconstructs that path as necessary, and unrealized paths
+  are demoted.
+- Worked examples used: historical hindsight after explosive events, the
+  Onegin/Lensky and Pushkin/Dantes duel analysis, the historian as backward
+  prophet / second-time theater spectator, endings and rereading in art, serial
+  publication in `Евгений Онегин` / `Василий Теркин`, and repeated reception
+  where the receiver changes.
+- The result stays below glossary, handle, or thread promotion because the
+  comparator side still needs source-checking against Peirce, Whitehead, Eco,
+  or historical method.

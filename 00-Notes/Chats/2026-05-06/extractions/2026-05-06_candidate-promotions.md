@@ -107,6 +107,12 @@ Candidate formulation: distinguish text as object, source, and partner. The repo
 
 Promotion target: method note after source-backed rewrite.
 
+Progress note, 2026-05-07: rewritten as the source-bound method note
+`00-Notes/method/on-from-with-text.md`, using Lotman's text-functions and
+autocommunication passages from `Внутри мыслящих миров` plus the
+repeat-reading passage in `Культура и взрыв`. It remains a method guardrail,
+not repo architecture.
+
 ### Translation as intermediate coding / boundary practice
 
 Anchors: [vnutri chat line 677](../2026-05-06_17-02-53_Claude_Chat_Cloning_Lotman_Russian_sources_repository.md:677), [vnutri chat line 1775](../2026-05-06_17-02-53_Claude_Chat_Cloning_Lotman_Russian_sources_repository.md:1775)
@@ -149,4 +155,3 @@ Promotion requirement: Jung primary source check and explicit warrant; keep spec
 - LLM claims about world-coupling, indexicality, autocommunication, or code-duality until operationally specified.
 - Deacon extraction plan until the source text is scaffolded and the named chapters are read.
 - Kyoto School / Dogen comparative expansions until grounded in local source passages.
-

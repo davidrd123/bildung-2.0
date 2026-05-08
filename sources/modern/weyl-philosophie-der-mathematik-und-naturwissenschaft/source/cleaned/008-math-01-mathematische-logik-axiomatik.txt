@@ -35,17 +35,17 @@ sondern als anschaulich aufgewiesen angenommen werden, und
 den Grundbeziehungen „liegt auf“ (Punkt liegt auf Gerader, Gerade liegt in Ebene, Punkt liegt in Ebene), „zwischen“ (ein Punkt z
 liegt zwischen den Punkten x und y) und „kongruent“ (Kongruenz
 von Strecken und Winkeln). Analog haben wir im Gebiete der
-natürlichen Zahlen 1, 2,3,.... als einzige Grundrelation, mit Hilfe
+natürlichen Zahlen 1, 2, 3, ... als einzige Grundrelation, mit Hilfe
 deren alle andern zu definieren sind, diejenige, welche zwischen
 
 [[pdf-page:0018 printed-page:17]]
 
-einer Zahl n und der auf sie folgenden n’ besteht. Ein gutes Beispiel
+einer Zahl n und der auf sie folgenden n′ besteht. Ein gutes Beispiel
 zur Relationslehre liefern ferner die Verwandtschaftsbeziehungen
 zwischen Menschen. Hier liegen zwei Grundkategorien vor: Person
 männlichen, Person weiblichen Geschlechts, als Grundrelationen
 treten auf Kindschaft (x ist Kind von y) und Ehe (x ist verheiratet
-mit y). Das Urteilsschema einer Relation, z. B. x folgt auf y, enthält eine oder mehrere Leerstellen x, y,...., deren jede auf eine
+mit y). Das Urteilsschema einer Relation, z. B. x folgt auf y, enthält eine oder mehrere Leerstellen x, y, ..., deren jede auf eine
 bestimmte Gegenstandskategorie bezogen ist. Aus dem Urteilsschema entsteht ein bestimmtes Urteil, z. B. 5 folgt auf 4, wenn
 jede Leerstelle durch einen bestimmten Gegenstand der zugehörigen Kategorie ausgefüllt wird. Die Sprache zeichnet den Bau eines
 derartigen Relationsurteils nicht richtig nach; es gibt da nicht
@@ -63,15 +63,15 @@ Symbole wie die Worte. — Zwei Sätze wie „5 folgt auf 4“ und
 inversen Beziehungen zu sprechen. Freilich haben die Leerstellen
 im Urteilsschema jede eine spezifische Stelle; und es ist eine besondere Eigentümlichkeit (Kommutativität), wenn die Relation
 R(xy) [z. B.: x ist Bruder von y] gleichbedeutend (oder gleichen
-Geltungsumfanges) ist mit R (yx). Die Eigenschaften werden wir
+Geltungsumfanges) ist mit R(yx). Die Eigenschaften werden wir
 ebenso mit zu den Relationen zu rechnen haben, wie wir die 1 mit
 unter die Anzahlen aufnehmen; ihr Urteilsschema besitzt nur
 eine Leerstelle.
 
-Im $ 47 seines fünften Schreibens an Clarke spricht Leibniz (,‚Hauptschriften‘, herausg. v. Cassirer, Philos. Bibl. Bd. 107/108; I, S. 185) von
+Im § 47 seines fünften Schreibens an Clarke spricht Leibniz („Hauptschriften“, herausg. v. Cassirer, Philos. Bibl. Bd. 107/108; I, S. 185) von
 einem „Verhältnis zwischen L und M, ohne dabei zu erwägen, welches
 Glied das vorhergehende oder folgende, das Subjekt oder Objekt ist“.
-„Man kann nicht sagen, daß alle beide, Z und M zusammengenommen,
+„Man kann nicht sagen, daß alle beide, L und M zusammengenommen,
 das Subjekt für ein solches Accidens bilden, denn wir hätten dann ein
 
 [[pdf-page:0019 printed-page:18]]
@@ -79,12 +79,11 @@ das Subjekt für ein solches Accidens bilden, denn wir hätten dann ein
 Accidens in zwei Subjekten, das also gleichsam mit einem Fuß im einen,
 mit dem andern im anderen Subjekte stünde, was mit dem Begriffe des
 Accidens unvereinbar ist. Man muß demnach sagen, daß die Beziehung
-
-. allerdings außerhalb der Subjekte ist, daß sie aber, da sie weder
+... allerdings außerhalb der Subjekte ist, daß sie aber, da sie weder
 Substanz noch Accidens ist, etwas rein Ideelles sein muß, dessen Betrachtung jedoch darum nicht minder fruchtbar ist.“ Die (ausgesprochene
 oder stillschweigende) Voraussetzung, daß jede Relation auf Eigenschaften fundiert sein müsse, hat in der Philosophie viel Unheil angerichtet. So ist freilich das Urteil, daß eine Rose verschiedenfarbig von
 einer zweiten ist, darin gegründet, daß die eine rot, die andere gelb ist.
-Aber die Beziehung ‚‚der Punkt A liegt links von B“ ist nicht auf einer
+Aber die Beziehung „der Punkt A liegt links von B“ ist nicht auf einer
 qualitativ zu kennzeichnenden Lage von A für sich und B für sich
 fundiert. Das gleiche gilt für Verwandtschaftsbeziehungen. Die bekämpfte Meinung stammt offenbar aus dem Reiche der Empfindungsdaten, die freilich nur Beschaffenheit, nicht Relation geben können.
 Darum bezeichnet Leibniz an der angeführten Stelle die Relation als
@@ -93,86 +92,86 @@ logisch-philosophischen Literatur kaum jemals Erwähnung. — Die Einführung vo
 der mathematischen über die traditionelle Logik; sie werden in Analogie
 zu den mathematischen Funktionen, die eine Zahl liefern, wenn man
 ihre Argumente oder Leerstellen durch Zahlen ausfüllt, häufig auch
-„Urteilsfunktionen‘“ genannt. — In den Axiomen der Arithmetik spielen
-Operationen neben den Relationen eine Rolle, z.B. die Operation des
+„Urteilsfunktionen“ genannt. — In den Axiomen der Arithmetik spielen
+Operationen neben den Relationen eine Rolle, z. B. die Operation des
 Addierens, welche aus zwei Zahlen a, b eine dritte a + b erzeugt. Wir
-können diese Operation aber durch die Relation a+b= c zwischen
-drei Zahlen a, b, c ersetzen; sie ist in bezug auf das Argument c „eindeutig“, d.h. zu irgend zwei Zahlen a, b gibt es stets eine und nur eine
+können diese Operation aber durch die Relation a + b = c zwischen
+drei Zahlen a, b, c ersetzen; sie ist in bezug auf das Argument c „eindeutig“, d. h. zu irgend zwei Zahlen a, b gibt es stets eine und nur eine
 Zahl c, welche zu ihnen in der Beziehung a + b = c steht. Hierdurch
 ordnen wir die genetische Konstruktion dem ruhenden Sein der Relationen unter; später werden wir freilich gerade umgekehrt alle Relationen durch konstruktive Prozesse ersetzen.
 
 Folgendes sind die Prinzipien der Kombination von Beziehungen.
 
 1. In einem Relationsschema mit mehreren Leerstellen kann
-man einzelne dieser Leerstellen miteinander ‚„‚zur Deckung
+man einzelne dieser Leerstellen miteinander „zur Deckung
 bringen“, identifizieren. — Aus dem Schema N(xy): x ist
-Neffe von y, entsteht soz.B. N(xx): xist Neffe von sich selber.
+Neffe von y, entsteht so z. B. N(xx): x ist Neffe von sich selber.
 
 [[pdf-page:0020 printed-page:19]]
 
-2. Negation. Zeichen: —. Aus N(xy) entsteht N (xy): x ist nicht
+2. Negation. Zeichen: —. Aus N(xy) entsteht N̄(xy): x ist nicht
 Neffe von y.
 
 3. und. Zeichen: &. Aus N(xy) und V(xy): x ist Vater von y,
-entsteht z.B. die Relation mit drei Leerstellen: V(xy) &
+entsteht z. B. die Relation mit drei Leerstellen: V(xy) &
 N(yz): x ist Vater von y und y Neffe von z. Es ist anzugeben,
 welche Leerstellen der beiden verknüpften Schemata einander
-decken. In der Symbolik wird dies durch die Wahl des gleichen Buchstabens für die Leerstellen zumAusdruck gebracht.
+decken. In der Symbolik wird dies durch die Wahl des gleichen Buchstabens für die Leerstellen zum Ausdruck gebracht.
 
-4. oder. Zeichen: v. V(xy) v N(yx): x ist Vater von y oder
-y Neffe von x. Die Verknüpfung durch „oder‘‘ kann mittels
+4. oder. Zeichen: ∨. V(xy) ∨ N(yx): x ist Vater von y oder
+y Neffe von x. Die Verknüpfung durch „oder“ kann mittels
 der Negation und der Verknüpfung durch „und“ ausgedrückt
-werden; und umgekehrt!).
+werden; und umgekehrt¹).
 
 5. Ausfüllung einer Leerstelle durch einen unmittelbar aufgewiesenen Gegenstand der zugehörigen Kategorie. V(ich, x)
 bedeutet: ich bin Vater von x; dies ist das Schema jener
 Eigenschaft mit der einen Leerstelle x, die ausschließlich
 meinen Kindern zukommt.
 
-6. alle. Zeichen: IIz. Z. B. bedeutet /T,R(xy): alle x (der betreffenden Kategorie) stehen zu y in der Beziehung R(xy).
+6. alle. Zeichen: Πx. Z. B. bedeutet ΠxR(xy): alle x (der betreffenden Kategorie) stehen zu y in der Beziehung R(xy).
 
-7.es gibt. Zeichen: &,. &,R(xy) bedeutet: es gibt ein y, zu
-welchem x in der Beziehung R(xy) steht. 2; und II, sind
-durch die Negation in gleicher Weise aufeinander reduzierbar wie v und &. Durch ein vorgesetztes Zeichen JIz, &z
+7. es gibt. Zeichen: Σx. ΣyR(xy) bedeutet: es gibt ein y, zu
+welchem x in der Beziehung R(xy) steht. Σx und Πx sind
+durch die Negation in gleicher Weise aufeinander reduzierbar wie ∨ und &. Durch ein vorgesetztes Zeichen Πx, Σx
 mit dem Index x büßt die dahinter stehende Leerstelle x
 ihre Substitutionsfähigkeit ebenso ein wie durch die Ausfüllung nach 5. Im Dienste der letzten beiden Konstruktionsprinzipien wird den unmittelbar gegebenen Relationen unseres Sachgebietes immer auch die zweistellige Relation der
 logischen Identität x = y hinzuzufügen sein.
 
-1) Leibniz verwendet für ‚‚und“, ‚oder‘ die Zeichen - und +. Wir weichen
+¹) Leibniz verwendet für „und“, „oder“ die Zeichen · und +. Wir weichen
 davon ab, um die Kollision mit dem arithmetischen plus und mal zu vermeiden. Ihre formale Analogie dazu tritt in dem von J. H. Lambert (Acta
 erudit. 1765, S. 441) aufgestellten distributiven Gesetz
 
-a(b+co)=(a:b) +(a:c)
+a · (b + c) = (a · b) + (a · c)
 zu Tage. Dem Leibnizschen Brauch schließt sich unsere Verwendung des
-Produkt- und Summenzeichens IT und X in 6. und 7. an.
+Produkt- und Summenzeichens Π und Σ in 6. und 7. an.
 
 [[pdf-page:0021 printed-page:20]]
 
 Beispiele. 1. (xg) bedeute: der Punkt x liegt auf der Geraden g. In der
-ebenen Geometrie besteht die Parallelität zweier Geraden, g || g’, nach
+ebenen Geometrie besteht die Parallelität zweier Geraden, g || g′, nach
 Euklid darin, daß sie keinen Punkt (x) gemein haben:
 
-Z{CH) &Rg)}
-ist also die Definition der Beziehung g || 9’.
+Σ̄x{(xg) & (xg′)}
+ist also die Definition der Beziehung g || g′.
 
 2. Die Aussage, daß durch zwei verschiedene Punkte (x, y) stets eine
 Gerade (g) geht, wäre so zu schreiben:
 
-I,I,(&=y) V2g {@9) &(yg)}) z
+ΠyΠx((x = y) ∨ Σg{(xg) & (yg)}).
 
 3. Im Gebiete der natürlichen Zahlen heißt p eine Primzahl, wenn es
 keine von 1 verschiedenen Zahlen x und y gibt, welche zu ihr in der
-Beziehung x y = p stehen. Diese Eigenschaft von p, Primzahl zu sein,
+Beziehung x · y = p stehen. Diese Eigenschaft von p, Primzahl zu sein,
 ist so zu erklären:
 
-I,O,(&=1)vy=Dvx'y=p).
+ΠyΠx((x = 1) ∨ (y = 1) ∨ ¬(x · y = p)).
 
 Gehen wir von den unmittelbar gegebenen Grundrelationen
 eines Sachgebietes aus, so gewinnen wir durch beliebige kombinierte Anwendung dieser Prinzipien daraus neue „abgeleitete“
 Relationen in unbegrenzter Fülle (zu denen natürlich die Grundrelationen auch mit dazu gerechnet werden). Insbesondere werden
 wir unter ihnen solche mit nur einer Leerstelle antreffen, „abgeleitete Eigenschaften“. Wie eine solche, E(x), als „differentia
-specifica‘‘ im Sinne der Aristotelischen Logik dazu dient, aus dem
-„genus proximum‘‘ derjenigen Gegenstandskategorie, auf welche
+specifica“ im Sinne der Aristotelischen Logik dazu dient, aus dem
+„genus proximum“ derjenigen Gegenstandskategorie, auf welche
 sich ihre Leerstelle x bezieht, einen neuen Gegenstandsbegriff zu
 bilden, wird durch das Beispiel 3. der Definition von „Primzahl“
 hinreichend deutlich sein. Unter den abgeleiteten Urteilsschemen
@@ -194,21 +193,21 @@ der Sprache.
 
 Vgl. z. B. die Ausführungen von Russell (Einführung in die mathematische Philosophie, deutsch München 1923, Kap. 16) über den nicht
 deiktisch gebrauchten bestimmten Artikel (wie im Satz: die durch die
-beiden voneinander verschiedenen Punkte A, Bhindurchgehende Gerade
+beiden voneinander verschiedenen Punkte A, B hindurchgehende Gerade
 geht auch durch C hindurch). — Generell heißt ein Urteil, bei dessen
 Aufbau niemals das Prinzip 5. der Ausfüllung durch einen unmittelbar
-aufgewiesenen Gegenstand (‚‚dieser da““) herangezogen wird. Der Gegensatz dazu ist parrikulär. (Man könnte noch unterscheiden den rein partikulären Fall, wo nur 5., niemals /7z oder &, zur Ausfüllung verwendet
+aufgewiesenen Gegenstand („dieser da“) herangezogen wird. Der Gegensatz dazu ist partikulär. (Man könnte noch unterscheiden den rein partikulären Fall, wo nur 5., niemals Πx oder Σx zur Ausfüllung verwendet
 wird, von dem „gemischt“ generell-partikulären.) Ein Gegenstand a erweist sich als Sonderwesen, wenn er durch eine einschlägige generelle
-Eigenschaft vollständig gekennzeichnet ist; d.h. wenn unter Ausschaltung des Prinzips 5. eine Eigenschaft konstruiert wurde, welche
+Eigenschaft vollständig gekennzeichnet ist; d. h. wenn unter Ausschaltung des Prinzips 5. eine Eigenschaft konstruiert wurde, welche
 dem Gegenstand a, aber keinem anderen der betreffenden Kategorie
-zukommt. Existenz ist aussagbar nur von etwas so durch eine Eigenschaft Beschriebenem, nicht von etwas Genanntem, &, trägt notwendig
+zukommt. Existenz ist aussagbar nur von etwas so durch eine Eigenschaft Beschriebenem, nicht von etwas Genanntem, Σx trägt notwendig
 eine Leerstelle als Index (zur Kritik des ontologischen Gottesbeweises
 verwertbare Bemerkung). Innerhalb des Zahlenreiches ist 1 ein Sonderwesen, weil 1 die einzige Zahl ist, welche auf keine andere folgt. Alle
 Zahlen der Zahlenreihen sind Sonderwesen. Hierauf beruht in erster Linie
 das Gefühl des Geheimnisvollen an der Zahl, die Zahlenmagie: daß in
 der Zahlenreihe der Geist aus sich eine unendliche Mannigfaltigkeit
 wohlcharakterisierter Sonderwesen erzeugt; nachfühlbar auch für uns
-z.B. in dem undurchsichtigen Gesetz der Verteilung der Primzahlen.
+z. B. in dem undurchsichtigen Gesetz der Verteilung der Primzahlen.
 Nicht minder beruht aber auf der freien Herstellbarkeit und dem individuellen Charakter der Zahlen ihre Verwendung zur exakten theoretischen Erfassung des Wirklichen. Für die Punkte im Raume trifft das
 genaue Gegenteil zu: Eine aus den geometrischen Grundrelationen ohne
 Aufweisung einzelner Punkte, Geraden oder Ebenen abgeleitete Eigenschaft, die einem Punkte zukommt, kommt auch jedem andern zu. In
@@ -225,29 +224,29 @@ kann.“ (Mathemat. Schriften, ed. Gerhardt, V, S. 180.)
 Neben der im ersten Paragraphen besprochenen kombinatorischen Definition abgeleiteter Relationen verfügt die Mathematik
 über eine schöpferische, neue ideale Gegenstände erzeugende Definition. So erklärt man in der ebenen Geometrie auf Grund der
 in den geometrischen Axiomen auftretenden dreistelligen Punktrelation der Kongruenz OA = OB den Begriff des Kreises folgendermaßen: Ein Punkt O und ein von ihm verschiedener Punkt A
-bestimmen einen Kreis, den „Kreis um O durch 4“. Daß ein
+bestimmen einen Kreis, den „Kreis um O durch A“. Daß ein
 Punkt P diesem Kreise angehöre, soll besagen, daß OA = OP
 ist. — Es ist für den Mathematiker ganz gleichgültig, was Kreise
 sind; es ist allein wichtig zu wissen, auf welche Weise ein Kreis
 gegeben werden kann (nämlich durch O und A), und was es heißt,
 daß ein Punkt P dem so gegebenen Kreise angehöre. Nur in Aussagen der letzten Form und solchen, die auf Grund ihrer explizit
 definiert sind, tritt der Begriff des Kreises auf. Darum ist der Kreis
-um O durch A dann und nur dann mit dem Kreise um O’ durch 4’
+um O durch A dann und nur dann mit dem Kreise um O′ durch A′
 identisch, wenn alle Punkte, welche dem ersten Kreise angehören,
 auch dem zweiten angehören und umgekehrt. Die geometrischen
-Axiome lassen erkennen, daß dieses auf die unendliche Mannigfaltigkeit aller Punkte bezugnehmende Kriterium durch ein endliches ersetzt werden kann: O0’ muß mit O zusammenfallen und
-04’ = 0A sein.
+Axiome lassen erkennen, daß dieses auf die unendliche Mannigfaltigkeit aller Punkte bezugnehmende Kriterium durch ein endliches ersetzt werden kann: O′ muß mit O zusammenfallen und
+OA′ = OA sein.
 
 Weitere Beispiele. 1. Niemand kann erklären, was eine Funktion ist.
 Aber: „Eine Funktion f ist gegeben, wenn auf irgendeine bestimmte
 gesetzmäßige Weise jeder reellen Zahl a eine Zahl b zugeordnet ist
-(wie z.B. durch die Formel b = 2a + 1). Man sagt dann, 5 sei der
+(wie z. B. durch die Formel b = 2a + 1). Man sagt dann, b sei der
 Wert der Funktion f für den Argumentwert a.“ Infolgedessen gelten
 zwei (auf verschiedene Weise definierte) Funktionen als gleich, wenn für
 alle möglichen Argumentwerte a die zugehörigen beiden Funktionswerte
 stets zusammenfallen.
 
-2. In der euklidischen Geometrie sind die ‚‚unendlich fernen Punkte“,
+2. In der euklidischen Geometrie sind die „unendlich fernen Punkte“,
 in denen sich angeblich parallele Gerade schneiden, solche durch die
 schöpferische mathematische Definition zu den wirklichen Punkten hinzugefügte ideale Elemente. Allgemeiner kann man auf diese Weise von
 
@@ -260,13 +259,13 @@ ausstrahlen. Man definiert diesen Punkt am einfachsten als Scheitel einer
 (aus wirklichen Geraden gebildeten) dreiseitigen Ecke. So kommt man
 zu der Erklärung: „Drei nicht in einer Ebene liegende Gerade a, b, c,
 die aber zu je zweien in einer Ebene liegen, bestimmen einen ‚idealen
-Punkt‘ [ab c]. Daß die Gerade g durch diesen Punkt hindurchgehe, soll
+Punkt‘ [a b c]. Daß die Gerade g durch diesen Punkt hindurchgehe, soll
 besagen, daß g mit a in einer Ebene liegt, ebenso g mit b, ebenso g mit c.“
 Daraus ergibt sich wieder, wann zwei derartige ideale Punkte als identisch zu betrachten sind. Jedem wirklichen Punkt p entspricht ein und
-nur ein idealer Punkt r von der Beschaffenheit, daß jede durch p gehende
-Gerade im Sinne unserer Definition durch r hindurchgeht. So kann man
+nur ein idealer Punkt π von der Beschaffenheit, daß jede durch p gehende
+Gerade im Sinne unserer Definition durch π hindurchgeht. So kann man
 einen Teil der idealen Punkte mit den wirklichen Punkten identifizieren.
-(Vgl. Pasch, Vorlesungen über neuere Geometrie 1882, S.40.) Nach
+(Vgl. Pasch, Vorlesungen über neuere Geometrie 1882, S. 40.) Nach
 dem gleichen Schema vollzieht die Mathematik stets die Erweiterung
 eines zunächst vorliegenden Operationsbereiches durch ideale Elemente;
 es geschieht das, um die Gültigkeit einfacher Gesetze zu erzwingen.
@@ -282,39 +281,39 @@ zu den algebraischen Zahlen zunächst verloren gehenden Teilbarkeitsgesetze sind
 Methode der idealen Elemente.
 
 Ein Sonderfall davon ist das Verfahren der Definition durch
-Abstraktion. Eine zweistellige Beziehung a » b in einem Objektbereich heißt eine Äquivalenz (eine Beziehung vom Charakter der
+Abstraktion. Eine zweistellige Beziehung a ~ b in einem Objektbereich heißt eine Äquivalenz (eine Beziehung vom Charakter der
 Gleichheit), wenn allgemein folgendes gilt:
 
-l.avra;
+1. a ~ a;
 
-2.ist a» b,so auch b » a (Kommutativität);
+2. ist a ~ b, so auch b ~ a (Kommutativität);
 
-3.ista» b,b» c,so auch a = c (Transitivität).
+3. ist a ~ b, b ~ c, so auch a ~ c (Transitivität).
 
 [[pdf-page:0025 printed-page:24]]
 
 Durch die Übereinkunft, zwei Dinge a, b dann und nur dann als
-voneinander verschieden zu betrachten, wenn sie nicht der Äquivalenzbeziehung a » b genügen, entsteht aus dem ursprünglichen
-„durch Abstraktion‘‘ ein neuer Objektbereich.
+voneinander verschieden zu betrachten, wenn sie nicht der Äquivalenzbeziehung a ~ b genügen, entsteht aus dem ursprünglichen
+„durch Abstraktion“ ein neuer Objektbereich.
 
 Beispiele und Erläuterungen. 1. Die Ähnlichkeit geometrischer
-Figuren ist eine Äquivalenz. Man schreibt jeder Figur eine bestimmte „Gestalt‘‘ zu, und zwei Figuren haben dann und nur dann
+Figuren ist eine Äquivalenz. Man schreibt jeder Figur eine bestimmte „Gestalt“ zu, und zwei Figuren haben dann und nur dann
 dieselbe Gestalt, wenn sie zueinander ähnlich sind. In mehr philosophischer Ausdrucksweise pflegt man zu sagen: der Begriff der
 Gestalt entsteht aus dem der Figur, indem man von Lage und
 Größe abstrahiert. Erkenntnispraktisch bedeutet die Aufstellung
 eines solchen abstrahierten Begriffes, daß ausschließlich invariante
 Eigenschaften und Beziehungen zwischen den ursprünglichen Objekten in Betracht gezogen werden sollen. R(xy) ist gegenüber der
-Äquivalenz > invariant, wenn mit R(ab) allemal auch R(a’b’)
-besteht, falls a’ m a, b’ = b ist. 2. Zwei Mengen A und B von
+Äquivalenz ~ invariant, wenn mit R(ab) allemal auch R(a′b′)
+besteht, falls a′ ~ a, b′ ~ b ist. 2. Zwei Mengen A und B von
 Gegenständen (etwa die Personen und Stühle in einem Saal)
-nennen wir gleichzahlig, A » B, wenn es möglich ist, die Elemente
+nennen wir gleichzahlig, A ~ B, wenn es möglich ist, die Elemente
 von A mit den Elementen von B beiderseits eindeutig zu paaren
 (wenn es möglich ist, auf jeden Stuhl eine Person zu setzen, so daß
 kein Stuhl frei bleibt, aber auch jede Person einen Platz bekommt).
 Die Gleichzahligkeit ist offenbar eine Äquivalenz. „Jede Menge
 bestimmt eine Anzahl; zwei Mengen dann und nur dann dieselbe
-Anzahl, wenn sie gleichzahlig sind.‘“‘ (Diese Erklärung findet sich
-schon bei Hume, Treatise on Human Nature, Teil III, Abschn. 1).
+Anzahl, wenn sie gleichzahlig sind.“ (Diese Erklärung findet sich
+schon bei Hume, Treatise on Human Nature, Teil III, Abschn. 1)¹).
 In nachlässigerer Form pflegt man das so auszudrücken, daß die
 Anzahl aus der Menge entsteht, wenn man von der Natur ihrer
 Elemente abstrahiert und lediglich ihre Unterschiedenheit festhält.
@@ -324,7 +323,7 @@ durch die obige präzise Formulierung abgeschnitten.
 
 An diesem Beispiel der Anzahl möge gezeigt werden, inwiefern die
 
-1) Es lohnt sich, die Stelle zu zitieren: ‚‚When two numbers are so
+1) Es lohnt sich, die Stelle zu zitieren: „When two numbers are so
 combined, as that the one has always an unit answering to every unit of the
 other, we pronounce them equal; and it is for want of such a standard of
 equality in extension, that geometry can scarce be esteemed a perfect and
@@ -332,11 +331,11 @@ infallible science.“
 
 [[pdf-page:0026 printed-page:25]]
 
-Definition durch Abstraktion ein Sonderfall der schöpferischen Definition ist. Ihr ordnet sie sich in folgender Gestalt unter: ‚Jede Menge A
-bestimmt eine Anzahl (A). Daß die beliebige Menge M aus (4) Elementen bestehe, soll besagen, daß M mit A gleichzahlig ist.‘“ Danach
+Definition durch Abstraktion ein Sonderfall der schöpferischen Definition ist. Ihr ordnet sie sich in folgender Gestalt unter: „Jede Menge A
+bestimmt eine Anzahl (A). Daß die beliebige Menge M aus (A) Elementen bestehe, soll besagen, daß M mit A gleichzahlig ist.“ Danach
 stimmt die Anzahl (A) mit der Anzahl (B) überein, wenn jede Menge M,
-welche — A ist, auch B ist, und umgekehrt. Nach den an die Äquivalenz gestellten Forderungen 2) und 3) ist dies aber dann und nur dann
-der Fall, wenn AB ist. Endlich garantiert die Forderung 1) dafür,
+welche ~ A ist, auch ~ B ist, und umgekehrt. Nach den an die Äquivalenz gestellten Forderungen 2) und 3) ist dies aber dann und nur dann
+der Fall, wenn A ~ B ist. Endlich garantiert die Forderung 1) dafür,
 daß insbesondere die Menge A selber aus (A) Elementen besteht. —
 3. Zwei ganze Zahlen heißen nach Gauß kongruent modulo 5, wenn ihre
 Differenz durch 5 teilbar ist. Die Kongruenz ist eine Beziehung vom
@@ -345,7 +344,7 @@ aus den ganzen Zahlen die Kongruenzzahlen mod. 5. Da die Operationen
 der Addition und Multiplikation invariant sind gegenüber der Kongruenz, so erhält man auf diese Weise einen endlichen Bereich aus nur
 5 Elementen, innerhalb dessen sich ebenso Algebra treiben läßt wie im
 unendlichen Bereich der gewöhnlichen rationalen Zahlen. Z. B. ist hier
-2+4=1,3'4=2 (mod. 5). Nicht nur Subtraktion, sondern auch
+2 + 4 = 1, 3 · 4 = 2 (mod. 5). Nicht nur Subtraktion, sondern auch
 Division läßt sich ausführen, weil 5 eine Primzahl ist. Dieses Beispiel ist
 für die Zahlentheorie von fundamentaler Bedeutung. — 4. Auch die
 wichtigsten physikalischen Begriffe entstehen nach dem Schema der
@@ -353,17 +352,17 @@ mathematischen Abstraktion. Wir kommen darauf im naturwissenschaftlichen Teil ge
 
 Das Prinzip der Definition durch Abstraktion finde ich bei Leibniz
 angedeutet in dem fünften der Briefe an Clarke. Er sagt da (Auswahl
-v. Cassirer, I, S. 185): „‚Im übrigen habe ich es hier ungefähr so gemacht
+v. Cassirer, I, S. 185): „Im übrigen habe ich es hier ungefähr so gemacht
 wie Euklid: der, da er den Begriff des geometrischen Verhältnisses im
 absoluten Sinne nicht recht definieren konnte, bestimmte, was unter
-gleichen Verhältnissen zu verstehen ist.“ Und kurz vorher (a.a. O.,
-S. 183): ‚Der Geist aber ist mit dieser Übereinstimmung nicht zufrieden;
+gleichen Verhältnissen zu verstehen ist.“ Und kurz vorher (a. a. O.,
+S. 183): „Der Geist aber ist mit dieser Übereinstimmung nicht zufrieden;
 er sucht eine Identität, ein Ding, das wahrhaft dasselbe wäre, und er
-stellt es sich wie außerhalb der Subjekte vor.‘ In der Mathematik ist
+stellt es sich wie außerhalb der Subjekte vor.“ In der Mathematik ist
 das Prinzip erst im 19. Jahrhundert, und zwar in der vielgestaltigsten
 Form, zu entscheidender Wirksamkeit gekommen. In seiner Allgemeinheit bewußt formuliert findet es sich bei Pasch (1882) an einer schon oben
 zitierten Stelle, noch klarer bei Frege, Die Grundlagen der Arithmetik,
-Breslau 1884, $$ 63—68. Vgl. ferner Helmholtz, Zählen und Messen
+Breslau 1884, §§ 63—68. Vgl. ferner Helmholtz, Zählen und Messen
 (1887), Wissenschaftliche Abhandlungen Bd. 3, S. 377.
 
 Neben die hier besprochene mathematische Form der Abstraktion
@@ -381,18 +380,18 @@ alle bei der Teilung durch 5 denselben Rest lassen, die Ähnlichkeit zweier
 Dreiecke dadurch, daß sich an beiden dieselben Maßzahlen der Winkel
 und der Seitenverhältnisse ergeben. Das allgemeine Konstruktionsverfahren des Restes bzw. dieser Maßzahlen tritt an Stelle des Moments
 „Farbe“, die Identität seines Resultates an zwei Objekten an Stelle des
-identischen ‚rot‘ an zwei Sinnendingen. Die originäre ordnet sich also
+identischen „rot“ an zwei Sinnendingen. Die originäre ordnet sich also
 der mathematischen Abstraktion unter. Das Gemeinsame aller kongruenten Dreiecke, das Gemeinsame aller am gleichen Orte sich befindenden Körper aber bin ich nicht imstande durch ein objektives Merkmal
 zu bezeichnen (dies letzte Beispiel hat Leibniz a. a. O. im Auge), sondern
-nur durch den Hinweis: diesem Dreieck kongruent, an diesem Orte befindlich. Unsere Frage hängt hier mit dem Relativitätsproblem zusammen ($ 13), dem Gegensatz zwischen begrifflicher Definition und anschaulicher Aufweisung. Im einen und im andern Fall bleibt aber die
+nur durch den Hinweis: diesem Dreieck kongruent, an diesem Orte befindlich. Unsere Frage hängt hier mit dem Relativitätsproblem zusammen (§ 13), dem Gegensatz zwischen begrifflicher Definition und anschaulicher Aufweisung. Im einen und im andern Fall bleibt aber die
 Umwandlung des gemeinsamen Merkmals in ein ideales Objekt, z. B.
 der Eigenschaft rot in eine gegenständliche „rote Farbe“, an welcher die
-roten Dinge „teilhaben“, ein wesentlicher Schritt (Platos u&de$ıs).
+roten Dinge „teilhaben“, ein wesentlicher Schritt (Platos μέθεξις).
 Jeder in einer vorliegenden Gegenstandskategorie sinnvollen
 Eigenschaft E(x) ordnen wir eine Menge zu, „die Menge der
 Dinge x, welche die Eigenschaft E besitzen“. So sprechen wir von
 der Menge aller geraden Zahlen, von der Menge der Primzahlen,
-von der Mengealler aufeiner gegebenen Geraden liegenden Punkte.
+von der Menge aller auf einer gegebenen Geraden liegenden Punkte.
 Die Vorstellung, daß eine solche Menge durch Kolligieren aus
 ihren einzelnen Elementen zusammengebracht wäre, ist durchaus
 fernzuhalten. Daß wir die Menge kennen, soll nichts anderes besagen, als daß uns eine für ihre Elemente charakteristische Eigenschaft gegeben ist. Nur bei endlichen Mengen besteht neben der
@@ -400,14 +399,14 @@ generellen die Möglichkeit einer individuellen Beschreibung, durch
 Aufzeigung jedes einzelnen ihrer Elemente. [Übrigens läßt sich
 formal diese der gesetzmäßigen Beschreibung unterordnen: die aus
 drei vorliegenden Gegenständen a, b, c gebildete Menge entspricht
-der Eigenschaft, a oder 5 oder ce zusein: x =a)v(x=b)v
+der Eigenschaft, a oder b oder c zu sein: (x = a) ∨ (x = b) ∨
 
 [[pdf-page:0028 printed-page:27]]
 
-(x = c).] Zwei Eigenschaften E und E’ korrespondiert aber unter
+(x = c).] Zwei Eigenschaften E und E′ korrespondiert aber unter
 Umständen dieselbe Menge; nämlich dann, wenn jeder Gegenstand (unserer Kategorie), dem die Eigenschaft E zukommt, auch
-die Eigenschaft E’ hat und umgekehrt. Für die Identität zweier
-Mengen ist also, im Gegensatz zu den Eigenschaften, nicht entscheidend, wie sie (mit Hilfe der in $ 1 aufgezählten Prinzipien aus
+die Eigenschaft E′ hat und umgekehrt. Für die Identität zweier
+Mengen ist also, im Gegensatz zu den Eigenschaften, nicht entscheidend, wie sie (mit Hilfe der in § 1 aufgezählten Prinzipien aus
 den Grundrelationen) definiert sind, sondern allein der aus dem
 Sinne nicht abzulesende, auf ein Reich existierender Gegenstände
 sich beziehende sachhaltige Umstand, ob jedes Element der einen
@@ -426,16 +425,16 @@ Zeitlang hingaben, weil sie sich offenbar die „Menge“ doch als ein
 Kollektivum vorstellten —, wenn man meint, damit die idealen
 Objekte konkret gefaßt zu haben. Es ist eher umgekehrt so, daß
 durch das Prinzip der schöpferischen Definition der Sinn des allgemeinen Mengenbegriffs aufgeklärt und vor falschen Deutungen
-geschützt wird. Die zur Erschaffung neuer Abstrakta ® benutzten
+geschützt wird. Die zur Erschaffung neuer Abstrakta Φ benutzten
 Eigenschaften hängen im allgemeinen von einem oder mehreren
-Argumenten u,v,... ab, die in gewissen Objektbereichen frei
-variieren können: ® ist eine Funktion von u, v,.... So wird bei der
+Argumenten u, v, ... ab, die in gewissen Objektbereichen frei
+variieren können: Φ ist eine Funktion von u, v, .... So wird bei der
 Definition des Kreises die dreistellige Punktrelation OP = OA als
 eine von O und A abhängige Relation (Eigenschaft) mit der einen
-Leerstelle P aufgefaßt; der „Kreisum O durch A“ isteine Funktion
+Leerstelle P aufgefaßt; der „Kreis um O durch A“ ist eine Funktion
 von O und A. Wichtig sind solche Fälle, wo das transfinite, an die
 Allheit eines Reiches existierender Gegenstände appellierende Kriterium für die Übereinstimmung zweier Werte des Abstraktums,
-DKu,v,...) und B(w, v',...), auf Grund allgemein gültiger Tat-
+Φ(u, v, ...) und Φ(u′, v′, ...), auf Grund allgemein gültiger Tat-
 
 [[pdf-page:0029 printed-page:28]]
 
@@ -443,15 +442,15 @@ sachen in ein finites, am Sinn der definierenden Relation abzulesendes umgewande
 war und bei den Definitionen durch Abstraktion. — Statt durch
 Eigenschaften können die idealen Elemente auch durch Relationen
 definiert sein. Wollen wir auch hier die mengentheoretische Ausdrucksweise beibehalten, so müssen wir jeder zweistelligen Relation
-R z.B. eine „zweistellige Menge“ (R) entsprechen lassen; derart
-daß (R) mit (R’) identisch ist, wenn bei beliebigen Elementen a, b
-von den beiden Aussagen R(a, b), R’(a, b) niemals die eine wahr,
+R z. B. eine „zweistellige Menge“ (R) entsprechen lassen; derart
+daß (R) mit (R′) identisch ist, wenn bei beliebigen Elementen a, b
+von den beiden Aussagen R(a, b), R′(a, b) niemals die eine wahr,
 die andere falsch ist. Die endgültige Fassung des Prinzips der
 schöpferischen Definition ist danach die folgende: Eine Relation
-R(xy..[uv..), unter deren Leerstellen einige xy... von den andern
-uv... abgesondert sind, bestimmt ein von uv... abhängiges Abstraktum Ö(uv...); es ist dann und nur dann Ö(w...) = D(u’v'...), wenn
-Gegenstände x, y,... der betreffenden Kategorien, welche zu u, v,...
-in der Relation R stehen, immer auch zu u‘, v',... in dieser Relation
+R(xy../uv..), unter deren Leerstellen einige xy... von den andern
+uv... abgesondert sind, bestimmt ein von uv... abhängiges Abstraktum Φ(uv...); es ist dann und nur dann Φ(uv...) = Φ(u′v′...), wenn
+Gegenstände x, y, ... der betreffenden Kategorien, welche zu u, v, ...
+in der Relation R stehen, immer auch zu u′, v′, ... in dieser Relation
 stehen, und umgekehrt.
 
 3. Das logische Schließen
@@ -459,28 +458,28 @@ stehen, und umgekehrt.
 Nachdem das Definieren besprochen ist, kommen wir zum
 Beweisen. Macht man einen geometrischen Satz zu einem hypothetischen Urteil, dessen Vordersatz aus den sämtlichen geometrischen Axiomen besteht, und ersetzt im Geiste die abkürzenden
 Ausdrücke durch das, was sie laut Definition bedeuten, so entsteht
-ein „formal gültiges“, „analytisches‘“ Urteil, dessen Wahrheit an
+ein „formal gültiges“, „analytisches“ Urteil, dessen Wahrheit an
 den Sinn der darin eingehenden Begriffe: Punkt, Gerade, Ebene,
 liegt auf, zwischen, kongruent, in keiner Weise gebunden ist. In
 der Logik des Schließens handelt es sich darum, diejenigen Urteilsstrukturen zu kennzeichnen, welche die formale Gültigkeit des
 Urteils bedingen. Barbara, Baralipton usw. helfen dazu nicht viel.
-Leibniz sah in der Lehre von den „argumens en forme“ une espece
-de Mathematique universelle, dont l’importance n’est pas assez
-connue (Nouveaux Essais, L. IV, ch. XVII, 8 4):
+Leibniz sah in der Lehre von den „argumens en forme“ une espèce
+de Mathématique universelle, dont l’importance n’est pas assez
+connue (Nouveaux Essais, L. IV, ch. XVII, § 4):
 
 Denjenigen Teil der Logik, welcher ausschließlich mit den
 logischen Verknüpfungen „nicht“, „und“, „oder“ operiert, wollen
 
 [[pdf-page:0030 printed-page:29]]
 
-wir als finite Logik der transfiniten gegenüberstellen, die sich darüber hinaus der Aussageoperationen „es gibt‘ und „alle“ bedient.
+wir als finite Logik der transfiniten gegenüberstellen, die sich darüber hinaus der Aussageoperationen „es gibt“ und „alle“ bedient.
 Der Grund für diese Einteilung ist der folgende. Liegen vor mir
 mehrere Stücke Kreide, so ist die Aussage „Alle diese Stücke sind
 weiß“ nur eine Abkürzung für die Aussage: Dies Stück ist weiß &
-dies Stück ist weiß &... (indem ich eines nach dem andern vorzeige); ebenso ist „‚es gibt unter ihnen ein rotes“ ein abkürzender
-Ausdruck für: Dieses ist rot V dieses ist rot V.... Aber nur bei
+dies Stück ist weiß & ... (indem ich eines nach dem andern vorzeige); ebenso ist „es gibt unter ihnen ein rotes“ ein abkürzender
+Ausdruck für: Dieses ist rot ∨ dieses ist rot ∨ .... Aber nur bei
 endlichen Mengen, deren Elemente aufgewiesen sind, ist eine derartige Interpretation möglich. Für unendliche Mengen liegt im
-Sinne des „alle“ und „es gibt‘ ein tiefes Problem verborgen,
+Sinne des „alle“ und „es gibt“ ein tiefes Problem verborgen,
 welches das Zentrum der Mathematik, das eigentliche Geheimnis
 des Unendlichen berührt; es wird sich uns im nachfolgenden
 Kapitel entfalten. Die Dinge stehen hier analog wie bei dem Übergange von den endlichen zu den unendlichen Summen; der letzteren
@@ -489,58 +488,64 @@ man kann mit ihnen nicht in jeder Hinsicht so operieren wie mit
 den endlichen.
 
 Im Aussagekalkül ist es zweckmäßig, neben den Zeichen für
-„nicht“, „und“, „oder“ noch das Symbola — b, lies: ausa folgt b,
-einzuführen. Es meint nichts anderes als a v b (a gilt nicht oder
+„nicht“, „und“, „oder“ noch das Symbol a → b, lies: aus a folgt b,
+einzuführen. Es meint nichts anderes als ā ∨ b (a gilt nicht oder
 b gilt) und bezeichnet keinen darüber hinausgehenden tieferen
 Zusammenhang zwischen den Aussagen a und b.
 
-Es würden übrigens zwei der vier Zeichen —, &, V,— genügen;
-für den Aussagekalkül wählt man zweckmäßig— und —. Ja, man findet
-sogar mit einem Zeichen a/b sein Auslangen, das die Unverträglichkeit
-der Aussagen a und b bedeutet (a v 5). An Stelle von
+Es würden übrigens zwei der vier Zeichen —, &, ∨, → genügen;
+für den Aussagekalkül wählt man zweckmäßig → und —. Ja, man findet
+sogar mit einem Zeichen a|b sein Auslangen, das die Unverträglichkeit
+der Aussagen a und b bedeutet (ā ∨ b̄). An Stelle von
 
-a, a—b, a&b, avb
+ā,     a → b,     a & b,     a ∨ b
 kann man nämlich schreiben
-ala, a/(6/6), (a/ö)/(e/8), (a/a)/6/8).
+a|a,   a|(b|b),   (a|b)|(a|b),   (a|a)|(b|b).
 
 Doch wollen wir hier um der Übersichtlichkeit willen alle vier Zeichen
 nebeneinander benutzen.
 
-In einer finit-logischen Formel sind die Buchstaben (,, Aussagevariablen“), für welche beliebige Aussagen (Urteile ohne Leer-
+In einer finit-logischen Formel sind die Buchstaben („Aussagevariablen“), für welche beliebige Aussagen (Urteile ohne Leer-
 
 [[pdf-page:0031 printed-page:30]]
 
 stellen) eingesetzt werden dürfen, verknüpft durch jene vier Zeichen
-—, &, v,—. Beispiel:
+—, &, ∨, →. Beispiel:
 
-b>(a>b).
+b → (a → b).
 
 Es gibt eine allgemeine Vorschrift, nach der man einer solchen
 Formel ihre formale Gültigkeit ansehen kann. Man erteile nämlich
 den vorkommenden Buchstaben einen der Werte „wahr“ W oder
-„falsch“ Fin allen möglichen Kombinationen und bestimme jedesmal den Wert der gesamten Formel nach der folgenden Anweisung
+„falsch“ F in allen möglichen Kombinationen und bestimme jedesmal den Wert der gesamten Formel nach der folgenden Anweisung
 für die Wertbestimmung der Verknüpfungen:
 
-a b a—b a&b avb
-a @ W W Ww Ww W
-Ww F Ww F F F Ww
-F W F W Ww F W
+ a | ā
+---+---
+ W | F
+ F | W
 
-F F w E | FR
+ a | b | a → b | a & b | a ∨ b
+---+---+-------+-------+------
+ W | W |   W   |   W   |   W
+ W | F |   F   |   F   |   W
+ F | W |   W   |   F   |   W
+ F | F |   W   |   F   |   F
 
 (Die Anzahl der durchzuprobierenden Kombinationen beträgt
-z.B., wenn in die Formel 5 verschiedene Aussagevariable eingehen, 25.) Ergibt sich als Wert der Formel in jedem Falle W, so
+z. B., wenn in die Formel 5 verschiedene Aussagevariable eingehen, 2⁵.) Ergibt sich als Wert der Formel in jedem Falle W, so
 ist sie formal gültig. Diese Vorschrift, von der man sagen kann,
 daß sie auf dem Satze des Widerspruchs und dem tertium non datur
-basiert sei, will ich kurz „die finite Vorschrift‘ nennen.
+basiert sei, will ich kurz „die finite Vorschrift“ nennen.
 
-Beispiel: b > (a — $).
+Beispiel: b → (a → b).
 
-a b a>b |b>(d>b
-w W Ww w
-W F F Ww
-F W Ww W
-F F W Ww
+ a | b | a → b | b → (a → b)
+---+---+-------+-------------
+ W | W |   W   |      W
+ W | F |   F   |      W
+ F | W |   W   |      W
+ F | F |   W   |      W
 
 Auf dieser Stufe kann man es einer Behauptung also direkt ansehen, man kann es durch ein kombinatorisches Verfahren nach
 festem Schema entscheiden, ob sie eine logische Folge gewisser
@@ -548,18 +553,18 @@ anderer Sätze ist, wenn Voraussetzung und Behauptung aus Ur-
 
 [[pdf-page:0032 printed-page:31]]
 
-teilen a,b,.... (gleichgültigen Sinnes) durch die vier Operationen
-—,>,&, v zusammengebaut sind.
+teilen a, b, ... (gleichgültigen Sinnes) durch die vier Operationen
+—, →, &, ∨ zusammengebaut sind.
 
 Dies wird völlig anders, sobald „es gibt“ und „alle“ hinzutreten (mit ihnen halten auch die Leerstellen ihren Einzug in die
-Formeln). &, und I], zwingen zur Konstruktion: wir stellen einige
+Formeln). Σx und Πx zwingen zur Konstruktion: wir stellen einige
 formal gültige Grundformeln als logische Axiome auf und geben
 eine Regel an, durch welche aus formal gültigen Urteilen neue
 formal gültige Urteile hervorgehen. Die Regel ist keine andere als
 die, nach welcher Logik auf alle theoretischen Wissenschaften
-angewendet wird, der Syllogismus: Hast du ein Urteil X und ein
-Urteil X — 8, in welchem links von — das erste Urteil X auftritt,
-so stelle das Urteil ® hin. Alle Urteilsstrukturen, welche durch
+angewendet wird, der Syllogismus: Hast du ein Urteil 𝔄 und ein
+Urteil 𝔄 → 𝔅, in welchem links von → das erste Urteil 𝔄 auftritt,
+so stelle das Urteil 𝔅 hin. Alle Urteilsstrukturen, welche durch
 wiederholte Anwendung dieser Regel, ausgehend von den logischen
 Axiomen, gewonnen werden, haben analytischen Charakter, ohne
 daß es möglich wäre, unabhängig von der konstruktiven Erzeugung
@@ -568,18 +573,18 @@ Schritt für Schritt. So kann man mit einem von J. Fries in etwas
 anderem Sinne geprägten Wort sprechen von einer „ursprünglichen Dunkelheit der Vernunft“. Wir haben die Wahrheit nicht,
 sondern sie will durch Handeln gewonnen sein.
 
-Galilei (Dialogo, Opere complete, Firenze 1842/56, Bd.I, S. 116)
+Galilei (Dialogo, Opere complete, Firenze 1842/56, Bd. I, S. 116)
 spricht einen verbreiteten Gedanken aus, wenn er hierin den Unterschied
-der menschlichen von der göttlichen Erkenntnis sieht: „‚Wir gehen mittels
+der menschlichen von der göttlichen Erkenntnis sieht: „Wir gehen mittels
 schrittweiser Erörterung weiter von Schluß zu Schluß, während Er durch
-bloße Anschauung begreift. So beginnen wir z.B., um die Kenntnis
+bloße Anschauung begreift. So beginnen wir z. B., um die Kenntnis
 einiger Eigenschaften des Kreises zu gewinnen, deren er unendlich viele
 besitzt, bei einer der einfachsten, stellen sie als seine Definition hin und
-gehen von ihr aus duxch Schlüsse zu einer zweiten über, von dieser zu
-einer dritten, sodann zu einer vierten usw. Der göttliche Intellekt hingegen begreift durch bloße Erfassung seines Wesens ohne zeitliches Erwägen die unendliche Fülle seiner Eigenschaften‘ (intensive, der objektiven Gewißheit nach, aber stehe in jeder gewonnenen mathematischen
+gehen von ihr aus durch Schlüsse zu einer zweiten über, von dieser zu
+einer dritten, sodann zu einer vierten usw. Der göttliche Intellekt hingegen begreift durch bloße Erfassung seines Wesens ohne zeitliches Erwägen die unendliche Fülle seiner Eigenschaften“ (intensive, der objektiven Gewißheit nach, aber stehe in jeder gewonnenen mathematischen
 Einsicht der menschliche Intellekt dem göttlichen nicht nach).
 
-Über „es gibt“ und „alle“, &, und //,, können wir zunächst
+Über „es gibt“ und „alle“, Σx und Πx, können wir zunächst
 die beiden folgenden Axiome aufstellen, in denen für a(x) ein
 beliebiges Urteilsschema mit der einen Leerstelle x gesetzt werden
 
@@ -588,49 +593,53 @@ beliebiges Urteilsschema mit der einen Leerstelle x gesetzt werden
 darf und für c ein aufgewiesener Gegenstand der zugehörigen
 Kategorie:
 
-I. D,akx)>a(e); II. alc)>Z,a(x).
+I. Πx a(x) → a(c);     II. a(c) → Σx a(x).
 
 Sie gestatten uns nur, aus der Allheitsaussage etwas zu folgern,
 aber sie schildern noch nicht, wie man von andern Urteilen her
 jemals auf eine Allheitsaussage schließen kann. Für das „es gibt“
 verhält es sich umgekehrt.
 
-Das klassische Schulbeispiel eines Schlusses — (&) alle Menschen
-sind sterblich, (ß) Cajus ist ein Mensch; also (y) Cajus ist sterblich —
-vollzieht sich bei uns in mehreren Stufen. M und $ mögen die Eigenschaften bedeuten, Mensch und sterblich zu sein, der Buchstabe c den
+Das klassische Schulbeispiel eines Schlusses — (α) alle Menschen
+sind sterblich, (β) Cajus ist ein Mensch; also (γ) Cajus ist sterblich —
+vollzieht sich bei uns in mehreren Stufen. M und S mögen die Eigenschaften bedeuten, Mensch und sterblich zu sein, der Buchstabe c den
 Cajus. Er liefert
 
-(©) H(ME)>S@)
+(α) Πx(M(x) → S(x))
 in Verbindung mit I:
-IM )>S@&))>(M ()>S(e))
+
+Πx(M(x) → S(x)) → (M(c) → S(c))
+
 durch die Schlußregel die Aussage:
-M()>S(e).
-Aus ($): M(c) und dem vorigen Urteil abermals durch die Schlußregel:
 
-mM Sl).
+M(c) → S(c).
 
-So wie in (a), kann sich das — mit dem „alle“ zu einem allgemeinen
+Aus (β): M(c) und dem vorigen Urteil abermals durch die Schlußregel:
+
+(γ) S(c).
+
+So wie in (α), kann sich das → mit dem „alle“ zu einem allgemeinen
 hypothetischen Satz verbinden, an sich enthält es die Idee der Allheit
 nicht. Die Geltung eines allgemeinen Folgesatzes von der Form
 
-I,(a(&)>5(x))
+Πx(a(x) → b(x))
 
 kann natürlich verschiedene Fundamente haben. Wenn sie allein in den
-logischen Axiomen liegen, drückt das Zeichen — eine rein logische
+logischen Axiomen liegen, drückt das Zeichen → eine rein logische
 Folge aus; doch mag das Fundament auch in einem sachhaltigen Wesensgesetz, einem naturgesetzlich bestehenden Wirkungszusammenhang oder
 einer empirischen Regelmäßigkeit liegen. Diese Bemerkung halte ich zur
 Klärung der Frage für ausreichend, was das Verhältnis von Ursache und
 Wirkung mit dem von Grund und Folge zu tun hat. Doch bleibt das
-Zeichen — alledem gegenüber neutral.
+Zeichen → alledem gegenüber neutral.
 
 [[pdf-page:0034 printed-page:33]]
 
 Die finiten logischen Axiome findet man aufgezählt bei Ackermann,
 Mathem. Annalen 93 (1924), S. 4; ferner in Grundlagen der Mathematik,
 I, von D. Hilbert und P. Bernays, Berlin 1934, S. 66. Sie sind natürlich
-so gebaut, daß sich ihre formale Gültigkeit aus der ‚‚finiten Vorschrift“
+so gebaut, daß sich ihre formale Gültigkeit aus der „finiten Vorschrift“
 ablesen läßt. Man kann aber auch umgekehrt zeigen — doch erfordert
-dies schon einen eigentlichen mathematischen, nicht ganz auf der Oberfläche liegenden Beweis —, daß alle nur die Zeichen —,—, &, v enthaltenden logischen Formeln, welche nach der ‚‚finiten Vorschrift“ formal gültig sind, aus diesen wenigen Axiomen durch Substitution und
+dies schon einen eigentlichen mathematischen, nicht ganz auf der Oberfläche liegenden Beweis —, daß alle nur die Zeichen —, →, &, ∨ enthaltenden logischen Formeln, welche nach der „finiten Vorschrift“ formal gültig sind, aus diesen wenigen Axiomen durch Substitution und
 wiederholte Anwendung der Syllogismenregel gewonnen werden können;
 daher ist die Aufzählung vollständig. Die transfinite Axiomgruppe aber,
 von der wir bis jetzt nur die beiden Axiome I. und II. kennen, bleibt
@@ -638,13 +647,13 @@ ergänzungsbedürftig.
 
 Mit Hilfe der Schlußregel kann man aus den logischen Axiomen neue
 abgeleitete Beweisregeln gewinnen. Jedes formal gültige Urteil von der
-Bauart Y— B (wo A und ® aus den Aussagevariablen, den unbestimmten Urteilen a, b,... durch die logischen Zeichen zusammengebaut sind)
+Bauart 𝔄 → 𝔅 (wo 𝔄 und 𝔅 aus den Aussagevariablen, den unbestimmten Urteilen a, b, ... durch die logischen Zeichen zusammengebaut sind)
 führt nämlich mit Hilfe des Syllogismus zu der Regel: Hast du ein Urteil
-von der Gestalt W, so kannst du daraufhin das entsprechende Urteil von
-der Gestalt ® hinstellen. Umgekehrt hat auch die Syllogismusregel ihren
+von der Gestalt 𝔄, so kannst du daraufhin das entsprechende Urteil von
+der Gestalt 𝔅 hinstellen. Umgekehrt hat auch die Syllogismusregel ihren
 Repräsentanten unter den logischen Formeln:
 
-a>((a>b)>b).
+a → ((a → b) → b).
 
 Dennoch kommt man, da Konstruieren Handeln heißt, mit Formeln
 allein nicht aus, man braucht durchaus eine praktisch auszuübende
@@ -659,24 +668,24 @@ Husserlsche Definition (Logische Untersuchungen, Bd. II, 2. Aufl.,
 S. 254): „Analytische Gesetze sind unbedingt allgemeine Sätze, welche
 keine anderen Begriffe als formale enthalten. Den analytischen Gesetzen
 stehen gegenüber ihre Besonderungen, welche durch Einführung sachhaltiger Begriffe und ev. individuelle Existenz setzender Gedanken erwachsen. Wie überhaupt Besonderungen von Gesetzen Notwendigkeiten
-ergeben, so Besonderungen analytischer Gesetze analytische Notwendigkeiten.‘“
+ergeben, so Besonderungen analytischer Gesetze analytische Notwendigkeiten.“
 
 [[pdf-page:0035 printed-page:34]]
 
 LITERATUR
 
-G. W. Leibniz, Philosophische Schriften, VIL, S. 43—247, 292-301.
+G. W. Leibniz, Philosophische Schriften, VII, S. 43—247, 292—301.
 Mathematische Schriften, VII, S. 49—76, 203—216.
 
-L. Couturat, La logique de Leibniz. Paris 1901. Opuscules et fragments inedits de Leibniz. Paris 1903.
+L. Couturat, La logique de Leibniz. Paris 1901. Opuscules et fragments inédits de Leibniz. Paris 1903.
 
 G. Boole, The Mathematical Analysis of Logic. London und Cambridge 1847. An Investigation of the Laws of Thought. London 1854.
 Neudruck in: Collected Logical Works, Chicago und London 1916.
 
 E. Schröder, Vorlesungen über die Algebra der Logik. 3 Bände,
-Leipzig 1890— 1895.
+Leipzig 1890—1895.
 
-A.N. Whitehead und B. Russell, Principia Mathematica. 3 Bände,
+A. N. Whitehead und B. Russell, Principia Mathematica. 3 Bände,
 Cambridge 1910—1913; 2. Aufl. 1925—1927.
 
 B. Russell, The Principles of Mathematics. Cambridge 1903; 2. Aufl.
@@ -686,7 +695,7 @@ London 1920.
 L. Wittgenstein, Tractatus Logico-Philosophicus, New York und
 London 1922 und Frankfurt/M. 1960.
 
-C.1. Lewis und C. H. Langford, Symbolic Logic. New York 1932.
+C. I. Lewis und C. H. Langford, Symbolic Logic. New York 1932.
 
 A. Tarski, Introduction to Logic. New York 1941.
 
@@ -697,7 +706,7 @@ H. Freudenthal, Einführung in die Sprache der Logik. München 1965.
 Die axiomatische Methode besteht einfach darin, die Grundbegriffe und die Grundtatsachen, aus denen sich die sämtlichen
 Begriffe und Sätze einer Wissenschaft definitorisch bzw. deduktiv
 herleiten lassen, vollständig zu sammeln. Ist dies möglich, so nennt
-Husser! das betreffende Sachgebiet definit. So steht es mit der Lehre
+Husserl das betreffende Sachgebiet definit. So steht es mit der Lehre
 vom Raum. — Natürlich kann ich aus den geometrischen Axiomen
 nicht das Attraktionsgesetz herleiten. Darum mußte oben genau
 erklärt werden, was als einschlägiges Urteil eines Sachgebietes zu
@@ -710,37 +719,37 @@ gesagt, die einschlägigen generellen wahren Urteile.
 
 [[pdf-page:0036 printed-page:35]]
 
-‚Hierauf beruht mithin diese ganze Kunst zu überzeugen. Sie ist in
+„Hierauf beruht mithin diese ganze Kunst zu überzeugen. Sie ist in
 zwei Grundsätzen enthalten: alle Bezeichnungen, die man verwendet,
 zu definieren; und alles zu beweisen, indem man im Geist die definierten
 Ausdrücke durch die Definitionen ersetzt“: so Pascal in einem Vortrag
-über den esprit geometrique (entnommen aus: K. Bornhausen, Pascal,
+über den esprit géométrique (entnommen aus: K. Bornhausen, Pascal,
 Basel 1920). Nur ist dies leichter gesagt als getan. Euklids „Elemente“
 bringen noch keine vollständige Lösung des Problems, die Geometrie zu
-axiomatisieren. Er beginnt mit ögoı, Definitionen; sie sind aber nur zum
+axiomatisieren. Er beginnt mit ὅροι, Definitionen; sie sind aber nur zum
 Teil Definitionen in unserem Sinne, die wichtigsten vielmehr Deskriptionen, Hinweise auf das nur in der Anschauung zu Gebende. Etwas
 anderes ist ja in Wahrheit für die geometrischen Grundbegriffe wie
 „Punkt“, „zwischen“ usw. nicht möglich; für den deduktiven Aufbau
 der Geometrie sind aber offenbar derartige Deskriptionen ohne Belang.
-Es folgen unter dem Namen aitnuara einige geometrische Axiome, vor
-allem das Parallelenaxiom: Gegeben eine Ebene EZ, in ihr eine Gerade g
+Es folgen unter dem Namen αἰτήματα einige geometrische Axiome, vor
+allem das Parallelenaxiom: Gegeben eine Ebene E, in ihr eine Gerade g
 und ein nicht auf der Geraden liegender Punkt p; alle in der Ebene E
 gelegenen, durch den Punkt p hindurchgehenden Geraden, mit Ausnahme
 einer einzigen, schneiden g. Endlich ein paar allgemeine Größenaxiome:
-zowai Zvvoraı. In die geometrische Entwicklung spielen sie dadurchhinein,
+κοιναὶ ἔννοιαι. In die geometrische Entwicklung spielen sie dadurch hinein,
 daß später stillschweigend von gewissen geometrischen Beziehungen wie
 der Kongruenz, der Flächengleichheit, angenommen wird, daß sie ihnen
 genügen. Hinter ihnen verbirgt sich also eine ungeklärte Fülle eigentlich
-geometrischer Axiome. In den späteren Büchern der ‚‚Elemente“ wird
+geometrischer Axiome. In den späteren Büchern der „Elemente“ wird
 nach Bedarf die Liste der Axiome ergänzt. Infolge der anschaulichen
 Selbstverständlichkeit der geometrischen Grundsätze und der Unnatürlichkeit einer rein logisch-deduktiven Haltung hat es große Mühe gekostet, die geometrischen Axiome vollständig herauszuschälen. In der
 zweiten Hälfte des 19. Jahrhunderts ist hier die schon um 1830 von
-Bolyai und Lobatschewsky aufgestellte ‚‚nichteuklidische Geometrie“ die
+Bolyai und Lobatschewsky aufgestellte „nichteuklidische Geometrie“ die
 treibende Kraft. Die verstecktesten, die Axiome der Anordnung, deckt
 Pasch auf um 1880. Am Ende des Jahrhunderts ist das Ziel vollständig
-erreicht und findet einen klassischen Ausdruck in Hilberts ‚Grundlagen
+erreicht und findet einen klassischen Ausdruck in Hilberts „Grundlagen
 der Geometrie“. Hilbert ordnet die Axiome in fünf Gruppen: Axiome
-der Verknüpfung (‚liegt auf“), der Anordnung (‚zwischen‘), der Kongruenz, der Parallelität und der Stetigkeit.
+der Verknüpfung („liegt auf“), der Anordnung („zwischen“), der Kongruenz, der Parallelität und der Stetigkeit.
 
 Das axiomatische Verfahren der Alten, das außer Euklid auch
 Archimedes mit bewundernswerter Freiheit handhabt, wurde vorbildlich
@@ -757,15 +766,15 @@ andern Teilen der Physik.
 Das Axiomensystem ist durch das behandelte Sachgebiet keineswegs
 eindeutig bestimmt, sondern in der Wahl der Grundbegriffe und Grundtatsachen besteht immer eine gewisse Willkür. Die Frage, ob sich hier
 ein wesenhaft Originäres einem wesenhaft Abgeleiteten gegenüberstellen
-läßt, liegt außerhalb der Kompetenz des Mathematikers!). Die ursprünglich gewählte Definition eines geometrischen Beziehungsbegriffes
+läßt, liegt außerhalb der Kompetenz des Mathematikers¹). Die ursprünglich gewählte Definition eines geometrischen Beziehungsbegriffes
 kann mit gleichem Recht durch irgendein nach den Tatsachen der Geometrie für das Bestehen der Beziehung notwendiges und hinreichendes
 Kriterium ersetzt werden.
 
 Ein Axiomensystem muß unter allen Umständen widerspruchslos sein; d.h. es muß Gewißheit bestehen, daß durch logisches
 Schließen aus den Axiomen niemals eine Aussage a und durch
-einen andern Beweis die entgegengesetzte Aussage a gewonnen
+einen andern Beweis die entgegengesetzte Aussage ā gewonnen
 werden kann. Geben die Axiome die Wahrheit über ein Sachgebiet
-wieder, sokann freilich an ihrer Widerspruchslosigkeit kein Zweifel
+wieder, so kann freilich an ihrer Widerspruchslosigkeit kein Zweifel
 sein. Aber die Tatsachen stehen nicht immer so eindeutig Rede
 und Antwort, wie wir es wohl wünschen möchten; eine wissenschaftliche Theorie kann nicht getreue Wiedergabe des Gegebenen
 sein, so wie es mir gegeben ist, sondern ist fast immer kühne Konstruktion. Darum ist die Prüfung auf Widerspruchslosigkeit eine
@@ -773,13 +782,13 @@ wichtige Kontrolle; sie ist in die Hände des Mathematikers gelegt.
 — Nicht unerläßlich, aber erwünscht ist die Unabhängigkeit der
 einzelnen Axiome eines Axiomensystems. Es soll keine überflüssigen Bestandteile enthalten, keine Sätze, die auf Grund der
 andern Axiome bereits beweisbar sind. Die Frage der Unabhängigkeit hängt mit der Widerspruchslosigkeit aufs engste zusammen;
-denn daß der Satz a von gewissen vorliegenden Axiomen unabhängig ist, kommt darauf hinaus, daß der Satz a mit ihnen nicht in
+denn daß der Satz a von gewissen vorliegenden Axiomen unabhängig ist, kommt darauf hinaus, daß der Satz ā mit ihnen nicht in
 Widerspruch steht.
 
-Die Abhängigkeit eines Satzes a von andern Aussagen U (einem
+Die Abhängigkeit eines Satzes a von andern Aussagen 𝔄 (einem
 Axiomensystem) ist festgestellt, sobald der Beweis von a auf Grund
 
-1) Zuweilen ist dies sicherlich der Fall. Unter den Verwandtschaftsrelationen sind Kindschaft und Ehe die wesenhaft ursprünglichen.
+¹) Zuweilen ist dies sicherlich der Fall. Unter den Verwandtschaftsrelationen sind Kindschaft und Ehe die wesenhaft ursprünglichen.
 
 [[pdf-page:0038 printed-page:37]]
 
@@ -791,15 +800,15 @@ dies Ziel zu erreichen; jede derselben kommt nach dem oben Gesagten auch für de
 Axiomensystems in Betracht.
 
 1. Die erste beruht auf dem Grundsatz: wenn in a ein neuer
-Urbegriff auftritt, der nicht auf Grund der in X vorkommenden
-definiert ist, kann a nicht aus Y erschlossen werden. Beispiel: Ein
+Urbegriff auftritt, der nicht auf Grund der in 𝔄 vorkommenden
+definiert ist, kann a nicht aus 𝔄 erschlossen werden. Beispiel: Ein
 Schiff ist 80 m lang und 20 m breit; wie alt ist sein Kapitän? —
 Nur in den trivialsten Fällen kommt man mit diesem einfachen
 Gedanken zum Ziel.
 
 2. Die Konstruktion eines Modells: es werden Objekte und
 Relationen aufgewiesen, welche bei geeigneter Namengebung die
-sämtlichen Aussagen X erfüllen, für welche aber a nicht gilt. Diese
+sämtlichen Aussagen 𝔄 erfüllen, für welche aber a nicht gilt. Diese
 Methode hat bisher den größten Erfolg gehabt.
 
 Das berühmteste Beispiel liefert das Parallelenaxiom. Es wurde
@@ -822,13 +831,13 @@ euklidisches Modell für die nicht-euklidische Geometrie an: die
 
 Objekte der euklidischen Geometrie selber erfüllen bei einer von
 der üblichen abweichenden Namengebung die nicht-euklidischen
-Axiome. $? sei eine Kugel im euklidischen Raum. Das Lexikon,
+Axiome. 𝔎 sei eine Kugel im euklidischen Raum. Das Lexikon,
 das die Übersetzung in die nicht-euklidische Sprache bewerkstelligt, besteht aus wenigen (von uns durch Anführungsstriche
 gekennzeichneten) Vokabeln: Unter „Punkt“ wird jeder Punkt im
-Innern von $ verstanden. Daß mehrere solche „Punkte“ auf einer
-„Geraden“ liegen oder in einer „Ebene“, daß ein „Punkt“ „zwischen‘ zwei andern liegt, soll den gewöhnlichen Sinn behalten.
+Innern von 𝔎 verstanden. Daß mehrere solche „Punkte“ auf einer
+„Geraden“ liegen oder in einer „Ebene“, daß ein „Punkt“ „zwischen“ zwei andern liegt, soll den gewöhnlichen Sinn behalten.
 „Bewegung“ heiße jede Kollineation, welche die Kugel in sich
-überführt, „kongruent“ solche Figuren, welche durch „Bewegung‘“
+überführt, „kongruent“ solche Figuren, welche durch „Bewegung“
 auseinander hervorgehen. Für denjenigen, der an die Wahrheit
 und damit an die Widerspruchslosigkeit der euklidischen Geometrie glaubt, ist dadurch die Widerspruchslosigkeit, also die
 Denkbarkeit der nichteuklidischen bewiesen.
@@ -837,12 +846,12 @@ Die Widerspruchslosigkeit der euklidischen Geometrie aber kann,
 unabhängig von dem Glauben an ihre Wahrheit und ihren nur in
 der Raumanschauung aufzuweisenden Grundbegriffen, durch ein
 arithmetisches Modell erhärtet werden. Die analytische Geometrie,
-die amzweckmäßigsten auf den Vektorbegriff gegründet wird ($ 12),
+die am zweckmäßigsten auf den Vektorbegriff gegründet wird (§ 12),
 hat nämlich gezeigt, daß die euklidische Geometrie nur ein anderer
 Ausdruck ist für die Tatsachen der linearen Algebra, die Theorie
 der linearen Gleichungen. Die über die „affinen“ hinausgehenden
 „metrischen“ Begriffe werden dabei festgelegt mittels einer positivdefiniten quadratischen Form, der metrischen Fundamentalform.
-Übrigensmuß man die Anzahlder Variablen (oder „Unbekannten‘)
+Übrigens muß man die Anzahl der Variablen (oder „Unbekannten“)
 auf 3 normieren, um zu der Geometrie des dreidimensionalen Anschauungsraumes geführt zu werden. Zahlenlehre und Geometrie
 sind durch diese zwischen ihnen bestehende Korrespondenz so eng
 miteinander verwachsen, daß wir uns heute auch in der reinen
@@ -857,13 +866,13 @@ Die Beispiele machen deutlich, daß die Modellmethode nicht
 [[pdf-page:0040 printed-page:39]]
 
 darauf angewiesen ist, über die zur Konstruktion des Modells benutzten Objekte und Relationen die Wahrheit zu wissen, sondern
-sie führt die Widerspruchslosigkeit eines Axiomensystems U (z. B.
-des geometrischen) auf dieeines andern ® (z. B. des arithmetischen)
-zurück. Dies ist dann geleistet, wenn die Grundbegriffe des Systems A so mit Hilfe der Grundbegriffe des Systems ® definiert
-sind, daß die Axiome U eine logische Folge der Axiome ® sind.
-Um den inhaltlichen Sinn der Grundbegriffe in A und in ® braucht
-man sich dabei gar nicht zu kümmern; die Belegung der aus ®
-abgeleiteten Begriffe mit denjenigen Namen, welche die Grundbegriffe in X tragen, ist rein willkürlich.
+sie führt die Widerspruchslosigkeit eines Axiomensystems 𝔄 (z. B.
+des geometrischen) auf die eines andern 𝔅 (z. B. des arithmetischen)
+zurück. Dies ist dann geleistet, wenn die Grundbegriffe des Systems 𝔄 so mit Hilfe der Grundbegriffe des Systems 𝔅 definiert
+sind, daß die Axiome 𝔄 eine logische Folge der Axiome 𝔅 sind.
+Um den inhaltlichen Sinn der Grundbegriffe in 𝔄 und in 𝔅 braucht
+man sich dabei gar nicht zu kümmern; die Belegung der aus 𝔅
+abgeleiteten Begriffe mit denjenigen Namen, welche die Grundbegriffe in 𝔄 tragen, ist rein willkürlich.
 
 Durch scharfsinnige Konstruktion geeigneter arithmetischer
 Modelle hat Hilbert das logische Verhältnis der einzelnen Teile des
@@ -872,28 +881,27 @@ geometrischen Axiomensystems zueinander weitgehend aufgeklärt.
 Wenn wir es nur mit einer endlichen Anzahl von Objekten zu
 tun haben, die explizit nacheinander ausgewiesen und mit Symbolen belegt werden, so können wir die Widerspruchslosigkeit dadurch beweisen, daß wir für jeden einzelnen Schritt mittels den
 Symbolen feststellen, ob die Grundrelationen gelten oder nicht.
-Als Beispiel geben wir ein kombinatorisches Modell, das die Widerspruchslosigkeit der Inzidenzaxiome der ebenen projektiven Geometrie (mit der einzigen Relation „Punkt liegt auf Gerader“)festlegt. Das Modell besteht aus sieben Symbolen für Punkte, 1, 2, 3,
-4,5, 6, 7, ferner sieben Symbolen für Gerade, I, II, III, IV, V, VI,
+Als Beispiel geben wir ein kombinatorisches Modell, das die Widerspruchslosigkeit der Inzidenzaxiome der ebenen projektiven Geometrie (mit der einzigen Relation „Punkt liegt auf Gerader“) festlegt. Das Modell besteht aus sieben Symbolen für Punkte, 1, 2, 3,
+4, 5, 6, 7, ferner sieben Symbolen für Gerade, I, II, III, IV, V, VI,
 VII; die Inzidenz wird durch die folgende Tafel definiert, in der *
 etwa im Schnitt der Zeile 3 und Spalte VI bedeutet, daß Punkt 3
 auf Gerader VI liegt:
 
-I u |m|w| v| vı| vo
-
-* * *
-
-* * *
-
-Ss/alulsluvluvi-
-*
-*
-*
++     | I | II | III | IV | V | VI | VII
++-----+---+----+-----+----+---+----+----
++ 1   |   | *  | *   | *  |   |    |
++ 2   | * |    | *   |    | * |    |
++ 3   | * | *  |     |    |   | *  |
++ 4   | * |    |     | *  |   |    | *
++ 5   |   | *  |     |    | * |    | *
++ 6   |   |    | *   |    |   | *  | *
++ 7   |   |    |     | *  | * | *  |
 
 [[pdf-page:0041 printed-page:40]]
 
 Aus dieser Tafel werden zum Beispiel die Axiome bestätigt, daß
 durch zwei beliebige, voneinander verschiedene Punkte genau
-eine Gerade geht (das heißt, zwei Zeilen enthalten genau ein Paar x
+eine Gerade geht (das heißt, zwei Zeilen enthalten genau ein Paar *
 in der gleichen Spalte), ferner daß sich zwei beliebige, voneinander
 verschiedene Gerade in genau einem Punkte schneiden!
 
@@ -908,20 +916,20 @@ behandelt ein solches Grundsystem den Begriff der reellen Zahl.
 aus den Regeln des deduktiven Schließens heraus zeigen soll, daß
 man niemals zu zwei entgegengesetzten Aussagen kommen kann.
 Voraussetzung für ihre Durchführung ist, daß diese logischen
-Spielregeln vollständig aufgezählt sind (vgl. $ 3), so daß man sie
+Spielregeln vollständig aufgezählt sind (vgl. § 3), so daß man sie
 auf die Sätze, blind gegenüber deren Sinn, wie die Regeln des
 Schachspiels auf die Brettsteine, anwenden kann. Erst in den allerletzten Jahren hat Hilbert das Problem in Angriff genommen, auf
 solchem Wege die Widerspruchsfreiheit der arithmetischen Axiome
-sicherzustellen. (Würde eine neue evidentermaßen zwingendeWeise
+sicherzustellen. (Würde eine neue evidentermaßen zwingende Weise
 des logischen Schließens entdeckt und damit das System der Spielregeln erweitert, so müßte man bei einem nach der direkten Methode erbrachten Beweis der Widerspruchsfreiheit darauf gefaßt
 sein, daß er durch die neue Entdeckung hinfällig wird. Die Modellmethode ist von den „Spielregeln“ nicht abhängig.)
 
 Ein Analogon aus dem Gebiete des Schachspiels ist etwa das folgende:
 man soll einsehen, daß in einer den Regeln gemäß gespielten Schachpartie, wie sie im einzelnen auch verlaufen möge, niemals eine Stellung
 vorkommen wird, in welcher 10 Damen der gleichen Farbe auftreten.
-Hier gelingt die „‚direkte Methode“, indem man aus den Zugregeln abliest, daß ein Zug die Summe der Anzahl der Damen und der Bauern
+Hier gelingt die „direkte Methode“, indem man aus den Zugregeln abliest, daß ein Zug die Summe der Anzahl der Damen und der Bauern
 einer Farbe nicht vergrößern kann; da sie am Anfange = 9 ist, bleibt
-sie dauernd < 9. — Die Methode 1. ist ein trivialer Sonderfall der
+sie dauernd ≤ 9. — Die Methode 1. ist ein trivialer Sonderfall der
 
 direkten. Aber um ihrer Einfachheit willen verdiente sie wohl besondere
 Erwähnung.
@@ -931,11 +939,11 @@ Erwähnung.
 Neben der Widerspruchsfreiheit und der Unabhängigkeit wird man
 von den Axiomen, die zur Grundlage einer Wissenschaft dienen sollen,
 die Vollständigkeit fordern. Was soll das heißen? Daß sich für jede
-generelle einschlägige Aussage a die Frage „‚gilt a oder a*‘ durch logische
-Schlüsse auf Grund der Axiome müsse entscheiden lassen ? Dann garantierte die Widerspruchsfreiheit, daß man niemals zu beiden Aussagen
-a,a gelangt, die Vollständigkeit, daß man stets zu einer von beiden gelangen kann. Die Vollständigkeit in diesem Sinne würde nur durch die
+generelle einschlägige Aussage a die Frage „gilt a oder ā?“ durch logische
+Schlüsse auf Grund der Axiome müsse entscheiden lassen? Dann garantierte die Widerspruchsfreiheit, daß man niemals zu beiden Aussagen
+a, ā gelangt, die Vollständigkeit, daß man stets zu einer von beiden gelangen kann. Die Vollständigkeit in diesem Sinne würde nur durch die
 Angabe einer das Beweisverfahren fest regelnden Methode verbürgt werden, die nachweislich für jedes einschlägige Problem zur Entscheidung
-führt. Die Mathematik wäre damit trivialisiert. Aber ein solcher „stein
+führt. Die Mathematik wäre damit trivialisiert. Aber ein solcher „Stein
 der Weisen“ ist bisher nicht gefunden worden und wird niemals gefunden werden. Die Mathematik besteht nicht darin, aus vorgegebenen
 Voraussetzungen die logischen Folgerungen allseitig zu entwickeln;
 sondern die Anschauung, das Leben des wissenschaftlichen Geistes stellt
@@ -947,7 +955,7 @@ Prämissen beweisbaren Sätze; wir bleiben angewiesen auf die Konstruktion. Prak
 den Gulliver im Lande Balnibarbi besucht: daß man nämlich in systematischer Ordnung, etwa nach der Anzahl der benötigten Schlußschritte,
 alle Folgerungen entwickelt und die „uninteressanten“ ausscheidet; wie
 denn auch die großen Werke der Weltliteratur nicht dadurch zustande
-gekommen sind, daß man aus den 25 Buchstaben alle möglichen „Kombinationen mit Wiederholung“ bis höchstens zur Anzahl 101° gebil-
+gekommen sind, daß man aus den 25 Buchstaben alle möglichen „Kombinationen mit Wiederholung“ bis höchstens zur Anzahl 10¹⁰ gebil-
 
 det, die sinnvollsten und schönsten davon ausgesucht und aufbewahrt
 hätte.
@@ -961,21 +969,21 @@ entstehen, vom System der Geraden begrifflich zu unterscheiden.
 
 [[pdf-page:0043 printed-page:42]]
 
-Dies führt uns auf die für die ganze Erkenntnistheorie fundamentale Idee der Isomorphie. Es liege vor ein System &, von Objekten (wie etwa die Punkte, Geraden, Ebenen der Geometrie) und
-gewisse zugehörige Beziehungen R, R',..., die Grundrelationen.
-In einem zweiten System 2, mögen Beziehungen obwalten, die,
+Dies führt uns auf die für die ganze Erkenntnistheorie fundamentale Idee der Isomorphie. Es liege vor ein System Σ₁ von Objekten (wie etwa die Punkte, Geraden, Ebenen der Geometrie) und
+gewisse zugehörige Beziehungen R, R′, ..., die Grundrelationen.
+In einem zweiten System Σ₂ mögen Beziehungen obwalten, die,
 obwohl sie einen ganz andern Sinn haben, etwa durch gleiche
-Namen den Beziehungen R, R',... innerhalb des ersten Sachgebietes zugeordnet sind. Ist es dann möglich, gesetzmäßig die
-Elemente des Systems £, den Elementen des Systems I, eindeutig
-so zuzuordnen, daß immer solchen Elementen in 2}, zwischen
-denen die Beziehung R oder R’... besteht, Elemente in 2, korrespondieren, zwischen denen die gleichbezeichnete Relation im
-Reiche 2, statthat, so sind die beiden Sachgebiete isomorph. Die
-getroffene Zuordnung ist eine isomorphe Abbildung von Z\, auf 2,.
+Namen den Beziehungen R, R′, ... innerhalb des ersten Sachgebietes zugeordnet sind. Ist es dann möglich, gesetzmäßig die
+Elemente des Systems Σ₁ den Elementen des Systems Σ₂ eindeutig
+so zuzuordnen, daß immer solchen Elementen in Σ₁, zwischen
+denen die Beziehung R oder R′ ... besteht, Elemente in Σ₂ korrespondieren, zwischen denen die gleichbezeichnete Relation im
+Reiche Σ₂ statthat, so sind die beiden Sachgebiete isomorph. Die
+getroffene Zuordnung ist eine isomorphe Abbildung von Σ₁ auf Σ₂.
 Isomorphe Sachgebiete, kann man sagen, besitzen die gleiche
-Struktur. Jedem einschlägigen wahren Satze über &, (dessen Sinn
-allein auf Grund des Sinnes der Beziehungen R, R',... innerhalb
-2, verstanden werden kann) korrespondiert dann ein gleichlautender Satz über &,, und umgekehrt; nichts kann über die Objekte in
-2, ausgesagt werden, was nicht auch in 2, gültig wäre. So wird
+Struktur. Jedem einschlägigen wahren Satze über Σ₁ (dessen Sinn
+allein auf Grund des Sinnes der Beziehungen R, R′, ... innerhalb
+Σ₁ verstanden werden kann) korrespondiert dann ein gleichlautender Satz über Σ₂, und umgekehrt; nichts kann über die Objekte in
+Σ₁ ausgesagt werden, was nicht auch in Σ₂ gültig wäre. So wird
 z. B. der Raum durch die Koordinatenkonstruktion des Descartes
 isomorph abgebildet auf das Operationsgebiet der linearen Algebra.
 Die bisherigen Betrachtungen drängen uns dazu, ein Axiomensystem aufzufassen als logische Leerform möglicher Wissenschaften.
@@ -986,7 +994,7 @@ Forderung der Gültigkeit der Axiome der Sinn der in sie eingehenden Grundbegrif
 nicht zu erfüllen; denn gewiß ist jede inhaltliche Interpretation,
 die aus einer vorliegenden durch isomorphe Abbildung hervorgeht, wiederum eine solche. Die endgültige Formulierung ist darum diese: Ein Axiomensystem ist vollständig oder kategorisch,
 wenn irgend zwei inhaltliche Interpretationen desselben notwendig
-isomorph sind. In diesem Sinne ist, wie man zeigen kann, die Vollständigkeit der von Hilbert aufgesteliten geometrischen Axiome
+isomorph sind. In diesem Sinne ist, wie man zeigen kann, die Vollständigkeit der von Hilbert aufgestellten geometrischen Axiome
 
 [[pdf-page:0044 printed-page:43]]
 
@@ -1003,11 +1011,11 @@ und Wagnis der Erkenntnis; Schwärmerei aber ist es, von der Erkenntnis
 zu erwarten, daß sie ein tieferes Wesen als das der Anschauung offen
 daliegende — der Anschauung enthülle. Der Isomorphiegedanke bezeichnet die selbstverständliche unübersteigbare Schranke des Wissens.
 Auch für die metaphysischen Spekulationen über eine Welt der Dinge
-ansich hinter den Erscheinungen hat dieser Gedanke aufklärenden Wert.
+an sich hinter den Erscheinungen hat dieser Gedanke aufklärenden Wert.
 Denn es ist bei einer solchen Hypothese klar, daß die Erscheinungswelt
 der absoluten isomorph sein muß (wobei freilich die Zuordnung nur in
-der einen Richtung Ding an sich — Erscheinung eindeutig zu sein
-braucht); denn „‚wir sind, wenn verschiedene Wahrnehmungen sich uns
+der einen Richtung Ding an sich → Erscheinung eindeutig zu sein
+braucht); denn „wir sind, wenn verschiedene Wahrnehmungen sich uns
 aufdrängen, berechtigt, daraus auf Verschiedenheit der reellen Bedingungen zu schließen“ (Helmholtz, Wissenschaftliche Abhandlungen II,
 S. 656). Wenn wir also auch die Dinge an sich nicht kennen, so wissen
 wir doch genau so viel über sie wie über die Erscheinungen. Derselbe
@@ -1015,7 +1023,7 @@ Isomorphiegedanke klärt das Problem, welches Leibniz, veranlaßt durch
 Hobbes’ nominalistische Theorie der Wahrheit, in dem Dialog über die
 Verknüpfung zwischen Dingen und Worten behandelt; Leibniz ringt
 offenbar damit, ihm Ausdruck zu geben (Philos. Schriften, ed. Gerhardt,
-VI, S. 190—193).
+VII, S. 190—193).
 
 Durch die Aufdeckung isomorpher Beziehungen können alle Erkenntnisse, die in einem Gebiet gewonnen wurden, ohne weiteres auf die
 isomorphen Gebiete übertragen werden. Solchen Dienst leistet z. B. das
@@ -1023,38 +1031,38 @@ Dualitätsprinzip in der ebenen projektiven Geometrie. Ihr einziger Relationsbeg
 Gerader, Gerade geht durch Punkt). Weil es möglich ist, die Punkte der
 Ebene eindeutig mit den Geraden so zu paaren, daß immer wenn ein
 Punkt P auf einer Geraden g liegt, die mit P gepaarte Gerade p durch
-den mit q gepaarten Punkt Q hindurchgeht, entsteht aus einem wahren
+den mit g gepaarten Punkt Q hindurchgeht, entsteht aus einem wahren
 Satz der projektiven Geometrie (bei Verwendung des richtungslosen Beziehungswortes inzident) sofort ein neuer, indem man die Worte „Punkt“
 
 [[pdf-page:0045 printed-page:44]]
 
-und „Gerade‘‘ vertauscht. S. Lie entdeckte, daß man die Geraden des
+und „Gerade“ vertauscht. S. Lie entdeckte, daß man die Geraden des
 (komplexen) Raumes den Kugeln eindeutig so zuordnen kann, daß sich
 schneidenden Geraden sich berührende Kugeln entsprechen. Aus allen
 Sätzen über sich schneidende Gerade erhält man durch sein Übertragungsprinzip Sätze über sich berührende Kugeln. Ein wichtiger Teil
-der analytischen Funktionentheorie, die sog. „‚Uniformisierung“, läßt
+der analytischen Funktionentheorie, die sog. „Uniformisierung“, läßt
 sich am natürlichsten in der Sprache der Bolyai-Lobatschewskyschen
 Geometrie behandeln. Ist ein Leitungsnetz für Gleichstrom gegeben, bestehend aus einzelnen homogenen Drähten, die sich in Knotenpunkten
-verzweigen, und bezeichnet man als „Punkt“ eine willkürliche Stromverteilung, die jedem Draht s eine elektrische Stromstärke Js zuordnet,
+verzweigen, und bezeichnet man als „Punkt“ eine willkürliche Stromverteilung, die jedem Draht s eine elektrische Stromstärke Jₛ zuordnet,
 so gelten die Gesetze des mit einem Zentrum O versehenen euklidischen
 Raumes von so viel Dimensionen, als das Leitungsnetz Drähte enthält.
 Der Zentralpunkt O wird dabei repräsentiert durch die Stromlosigkeit,
-für welche alle Stromstärken Js verschwinden, und unter dem Quadrat
+für welche alle Stromstärken Jₛ verschwinden, und unter dem Quadrat
 des Abstandes eines „Punktes“ vom Zentrum ist die pro Zeiteinheit von
 der Stromverteilung entwickelte Joulesche Wärme zu verstehen. Diese
 Isomorphie hat keinen spielerischen Charakter, weil den einfachen und
 wichtigen geometrischen Begriffen dadurch die einfachen und wichtigen,
 das Stromnetz betreffenden physikalischen Begriffe zugeordnet werden.
-Z.B. ist die Grundaufgabe, bei gegebenen in die einzelnen Drähte eingefügten Spannungen die im Leitungsnetz auftretende Stromverteilung
+Z. B. ist die Grundaufgabe, bei gegebenen in die einzelnen Drähte eingefügten Spannungen die im Leitungsnetz auftretende Stromverteilung
 zu ermitteln, mit der geometrischen Aufgabe identisch, einen Punkt
 senkrecht auf eine gegebene Ebene zu projizieren. Ihre eindeutige Lösbarkeit ist damit sofort mathematisch sichergestellt und eine Rechenmethode an die Hand gegeben, die Lösung zu finden.
 
 Die reine Mathematik ist nach moderner Auffassung allgemeine hypothetisch-deduktive Relationslehre, sie entwickelt die
 Theorie logischer Leerformen, ohne sich an die eine oder andere
 mögliche inhaltliche Interpretation zu binden. Vgl. über diese
-„Formalisierung‘“ als „einen Gesichtspunkt, ohne den von einem
+„Formalisierung“ als „einen Gesichtspunkt, ohne den von einem
 Verständnis mathematischer Methode nicht zu reden ist“, Husserl,
-Logische Untersuchungen I, $$ 67—72. „Die Bedingung zur Aufstellung einer allgemeinen Arithmetik“, erklärt schon Hankel in
+Logische Untersuchungen I, §§ 67—72. „Die Bedingung zur Aufstellung einer allgemeinen Arithmetik“, erklärt schon Hankel in
 seiner 1867 erschienenen Theorie der komplexen Zahlen, S. 10,
 „ist daher eine von aller Anschauung losgelöste rein intellektuelle
 Mathematik, eine reine Formenlehre, in welcher nicht Quanta
@@ -1071,17 +1079,17 @@ nur eine Bedingung für die Wahrheit, diese freilich ist unerläßlich,
 die Widerspruchslosigkeit.
 
 Vielleicht klingt schon in Euklids Bezeichnung für die Axiome:
-aitjuara, Postulate, diese moderne Einstellung an. Leibniz tut einige
+αἰτήματα, Postulate, diese moderne Einstellung an. Leibniz tut einige
 entschiedene Schritte zur Realisierung der mathesis universalis im angedeuteten und von ihm klar erfaßten Sinne. In den Rahmen seiner Ars
-combinatoria gehört vor allem das glänzendste Beispiel ‚‚rein intellektueller Mathematik“, die Gruppentheorie. Eine endliche Gruppe G ist ein
+combinatoria gehört vor allem das glänzendste Beispiel „rein intellektueller Mathematik“, die Gruppentheorie. Eine endliche Gruppe G ist ein
 System endlich vieler Objekte, innerhalb dessen irgendwie eine Operation festgelegt ist, die aus je zwei (gleichen oder verschiedenen, in bestimmter Reihenfolge gesetzten) Dingen a, b ein Ding ab dieses Systems
 erzeugt. Die einzigen Forderungen oder Axiome sind:
 
 das assoziative Gesetz a(bc) = (ab)c;
-ist a + b (a verschieden von 5), so auch ac # be, ca+ cb.
+ist a ≠ b (a verschieden von b), so auch ac ≠ bc, ca ≠ cb.
 
 Aus solchen geringfügigen Voraussetzungen entwickelt sich eine
-Fülle tiefer Zusammenhänge; und die Mathematik bietet eine erstaunliche Mannigfaltigkeit verschiedener ‚‚Interpretationen‘ dieses simplen
+Fülle tiefer Zusammenhänge; und die Mathematik bietet eine erstaunliche Mannigfaltigkeit verschiedener „Interpretationen“ dieses simplen
 Axiomensystems dar. Die Gruppe ist vielleicht der für die Mathematik
 des 19. Jahrhunderts am meisten charakteristische Begriff.
 
@@ -1103,20 +1111,20 @@ Dies sind die wirklich wesentlichen Eigenschaften des Flächeninhaltes; aber sie
 [[pdf-page:0047 printed-page:46]]
 
 zeigt sich, daß die Forderungen widerspruchsfrei sind, daß tatsächlich
-jedem Stück y durch ein bestimmtes Verfahren eine positive Zahl J (Y)
+jedem Stück γ durch ein bestimmtes Verfahren eine positive Zahl J(γ)
 als Flächeninhalt zugeordnet werden kann, welche den Forderungen
 2. und 3. Genüge leistet. Die Forderungen determinieren den Begriff
-nicht eindeutig; ihnen genügen außer J (y) auch die Werte c - /(y), wo c
-irgendeine von » unabhängige positive Konstante bedeutet. Damit sind
+nicht eindeutig; ihnen genügen außer J(γ) auch die Werte c · J(γ), wo c
+irgendeine von γ unabhängige positive Konstante bedeutet. Damit sind
 aber alle Möglichkeiten erschöpft. Die verbleibende, im konstanten
 Faktor sich ausdrückende Willkür kann nur durch Aufweisung eines
-individuellen Stücks, z.B. eines Quadrats, und die Festsetzung, daß
+individuellen Stücks, z. B. eines Quadrats, und die Festsetzung, daß
 ihm der Inhalt 1 zukommen soll, aufgehoben werden (Relativität der
 Größe). — Sehr schön setzt die Bedeutung der impliziten Definition
 aller Wissenschaften, nicht nur der Mathematik, M. Schlick in seiner
-Allgemeinen Erkenntnislehre (Berlin 1918, S. 30-37) auseinander.
+Allgemeinen Erkenntnislehre (Berlin 1918, S. 30—37) auseinander.
 „Für die strenge, Schluß an Schluß reihende Wissenschaft ist der Begriff
-in der Tat gar nichts weiter als dasjenige, wovon gewisse Urteile ausgesagt werden können. Dadurch ist er mithin auch zu definieren.‘ Ein
+in der Tat gar nichts weiter als dasjenige, wovon gewisse Urteile ausgesagt werden können. Dadurch ist er mithin auch zu definieren.“ Ein
 geeignetes Anwendungsfeld dürfte außer den exakten Wissenschaften
 auch die Jurisprudenz sein.
 
@@ -1132,4 +1140,4 @@ D. Hilbert, Axiomatisches Denken. Mathematische Annalen 78
 M. Geiger, Systematische Axiomatik der euklidischen Geometrie.
 Augsburg 1924.
 
-F. Gonseth, Les mathematiques et la realite. Paris 1936.
+F. Gonseth, Les mathématiques et la réalité. Paris 1936.

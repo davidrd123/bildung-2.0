@@ -1,0 +1,991 @@
+# Working glossary for Weyl translation pressure.
+# Handles are intentionally withheld until terms recur across batches.
+
+- term: "Wissenschaften"
+  kind: concept
+  preferred: "sciences"
+  alternatives:
+    - "disciplines"
+    - "scientific fields"
+  status: seed
+  notes: "The calibration page uses the plural in `Philosophie der Wissenschaften`; preserve the plural unless a later passage clearly demands the modern singular phrase `philosophy of science`."
+  evidence:
+    - "parts/001-einfuehrung-calibration.md"
+
+- term: "Naturwissenschaft"
+  kind: concept
+  preferred: "natural science"
+  alternatives:
+    - "natural sciences"
+  status: seed
+  notes: "In the opening sentence Weyl pairs mathematics and natural science as source-domains from whose own work the philosophical results arise."
+  evidence:
+    - "parts/001-einfuehrung-calibration.md"
+
+- term: "Grundlagen"
+  kind: concept
+  preferred: "foundations"
+  alternatives:
+    - "grounds"
+    - "basic principles"
+  status: seed
+  notes: "Likely central because Weyl immediately frames the presentation as one of the foundations of mathematics. Keep `foundations` unless later passages pressure a more active `grounding`."
+  evidence:
+    - "parts/001-einfuehrung-calibration.md"
+
+- term: "inhaltliche Problematik"
+  kind: phrase
+  preferred: "substantive problematic"
+  alternatives:
+    - "content-problematic"
+    - "problematic of content"
+  status: open
+  notes: "The contrast is with `das mehr Formale`; `substantive` carries the non-formal pressure better than `content` in running English, but the phrase needs more evidence."
+  evidence:
+    - "parts/001-einfuehrung-calibration.md"
+
+- term: "das Mathematische"
+  kind: concept
+  preferred: "the mathematical"
+  alternatives:
+    - "the essence of mathematics"
+    - "mathematics"
+  status: open
+  notes: "Weyl says Leibniz had the eye for `das Wesen des Mathematischen`; the nominalized adjective should stay visible for now."
+  evidence:
+    - "parts/001-einfuehrung-calibration.md"
+
+- term: "Urteil"
+  kind: concept
+  preferred: "judgment"
+  alternatives:
+    - "proposition"
+    - "statement"
+  status: seed
+  notes: "In subsection 1 Weyl is explicitly working against the traditional subject-predicate structure of judgment; keep `judgment` for `Urteil` while allowing `Satz` and `Aussage` to vary locally."
+  evidence:
+    - "parts/002-math-01-01-relationen-und-urteile.md"
+    - "parts/004-math-01-03-logisches-schliessen.md"
+
+- term: "Urteilsschema"
+  kind: concept
+  preferred: "judgment-schema"
+  alternatives:
+    - "schema of judgment"
+    - "propositional schema"
+  status: seed
+  notes: "Names the relational form with fillable places before any determinate judgment arises. Keep the hyphenated form visible for now."
+  evidence:
+    - "parts/002-math-01-01-relationen-und-urteile.md"
+
+- term: "Leerstelle"
+  kind: concept
+  preferred: "empty place"
+  alternatives:
+    - "placeholder"
+    - "blank"
+    - "argument place"
+  status: open
+  notes: "`Empty place` is awkward but preserves Weyl's spatial peg-and-ball analogy and the later loss of `Substitutionsfähigkeit` under quantification."
+  evidence:
+    - "parts/002-math-01-01-relationen-und-urteile.md"
+    - "parts/003-math-01-02-aufbauende-definition.md"
+
+- term: "anschaulich aufgewiesen"
+  kind: phrase
+  preferred: "intuitively exhibited"
+  alternatives:
+    - "intuitively shown"
+    - "directly exhibited"
+    - "given in intuition"
+  status: open
+  notes: "Important for undefined primitive objects and for the contrast with construction/definition. `Given` alone is too passive and too broad."
+  evidence:
+    - "parts/002-math-01-01-relationen-und-urteile.md"
+    - "parts/003-math-01-02-aufbauende-definition.md"
+
+- term: "Sonderwesen"
+  kind: concept
+  preferred: "special entity"
+  alternatives:
+    - "special being"
+    - "individual entity"
+    - "distinctive entity"
+  status: open
+  notes: "Weyl uses the term for numbers as freely produced and individually characterized. Keep the strangeness visible because it bears directly on number magic and exact theoretical grasp."
+  evidence:
+    - "parts/002-math-01-01-relationen-und-urteile.md"
+
+- term: "genetische Konstruktion"
+  kind: concept
+  preferred: "genetic construction"
+  alternatives:
+    - "generative construction"
+    - "constructive generation"
+  status: seed
+  notes: "The subsection-1 hinge: Weyl first subordinates genetic construction to the resting being of relations, then announces that later he will reverse this. In chapter II, the same pressure appears as `genetischer Aufbau` of the number realm."
+  evidence:
+    - "parts/002-math-01-01-relationen-und-urteile.md"
+    - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
+
+- term: "aufbauende mathematische Definition"
+  kind: concept
+  preferred: "constructive mathematical definition"
+  alternatives:
+    - "building-up mathematical definition"
+    - "object-forming mathematical definition"
+  status: open
+  notes: "The section title names definition as a building-up act that introduces ideal objects. `Constructive` is readable English, but it must not yet be collapsed into later technical constructivism."
+  evidence:
+    - "parts/003-math-01-02-aufbauende-definition.md"
+
+- term: "schöpferische Definition"
+  kind: concept
+  preferred: "creative definition"
+  alternatives:
+    - "generative definition"
+    - "creative mathematical definition"
+  status: seed
+  notes: "Weyl says mathematics uses this definition to generate new ideal objects. `Creative` should remain visible because it carries more metaphysical pressure than ordinary stipulative definition."
+  evidence:
+    - "parts/003-math-01-02-aufbauende-definition.md"
+
+- term: "ideale Elemente"
+  kind: concept
+  preferred: "ideal elements"
+  alternatives:
+    - "ideal objects"
+  status: seed
+  notes: "Used for ideal points, imaginary elements, ideal numbers, and fractions introduced to force simple laws, restore lost lawfulness, or secure invertibility. Section 6 pressures the related `ideal objects`: numbers are safe if understood functionally, dangerous when the infinity-open sequence is made into a closed aggregate of things existing in themselves."
+  evidence:
+    - "parts/003-math-01-02-aufbauende-definition.md"
+    - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+
+- term: "Definition durch Abstraktion"
+  kind: concept
+  preferred: "definition by abstraction"
+  alternatives:
+    - "definition through abstraction"
+  status: seed
+  notes: "A special case of creative definition: a new object domain arises by treating objects as distinct exactly when they fail an equivalence relation. Section 5 uses equality of fractions as another explicit case; section 6 notes that introducing cardinal number independently of order would require this route."
+  evidence:
+    - "parts/003-math-01-02-aufbauende-definition.md"
+    - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+
+- term: "Menge"
+  kind: concept
+  preferred: "set"
+  alternatives:
+    - "collection"
+  status: open
+  notes: "Weyl explicitly rejects treating `Menge` as a concrete collective assembled by colligation. In section 6, cardinal number independent of ordering belongs to set-theoretic abstraction, but pairing still has to be executed temporally. In section 7, the object of continuum theory is possible sets or infinite sequences of natural numbers. Section 8 defines set theory by treating the totality of subsets of the natural-number series as a closed aggregate of objects existing in themselves. Keep `set`, but preserve the anti-collective and anti-dogmatic warning."
+  evidence:
+    - "parts/003-math-01-02-aufbauende-definition.md"
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+    - "parts/009-math-02-08-die-mengenlehre.md"
+
+- term: "Inbegriff"
+  kind: concept
+  preferred: "aggregate"
+  alternatives:
+    - "collection"
+    - "totality"
+  status: open
+  notes: "Used for exhibited or individually given aggregates. Section 6 contrasts `Inbegriff` with `Menge`, rejects unnecessary abstraction from a shaped whole into a mere aggregate, and later warns against turning the infinity-open number series into a closed aggregate of things existing in themselves. Section 8 intensifies the warning: set theory treats fields of constructive possibilities as closed aggregates of objects existing in themselves. Section 9 rejects the continuum as an aggregate of fixed elements and shifts to part-whole."
+  evidence:
+    - "parts/003-math-01-02-aufbauende-definition.md"
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+    - "parts/009-math-02-08-die-mengenlehre.md"
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "Abstraktum"
+  kind: concept
+  preferred: "abstractum"
+  alternatives:
+    - "abstract object"
+  status: open
+  notes: "Appears in the final formal principle as `Φ(uv...)`. Keep the Latinism where the formula is live; smooth to `abstract object` only in less formal exposition."
+  evidence:
+    - "parts/003-math-01-02-aufbauende-definition.md"
+
+- term: "sachhaltig"
+  kind: term
+  preferred: "substantive"
+  alternatives:
+    - "content-bearing"
+    - "material"
+  status: open
+  notes: "In `sachhaltige Umstand`, Weyl contrasts a fact about a realm of existing objects with what can be read from the defining sense alone."
+  evidence:
+    - "parts/003-math-01-02-aufbauende-definition.md"
+    - "parts/004-math-01-03-logisches-schliessen.md"
+
+- term: "Das logische Schließen"
+  kind: concept
+  preferred: "logical inference"
+  alternatives:
+    - "logical concluding"
+    - "logical reasoning"
+  status: seed
+  notes: "The section concerns proof and inference rules, not merely the psychological act of drawing a conclusion."
+  evidence:
+    - "parts/004-math-01-03-logisches-schliessen.md"
+
+- term: "formale Gültigkeit"
+  kind: concept
+  preferred: "formal validity"
+  alternatives:
+    - "formal validness"
+  status: seed
+  notes: "The sharp logical concept against which Weyl says Kant's analytic/synthetic distinction is too unclear to compare."
+  evidence:
+    - "parts/004-math-01-03-logisches-schliessen.md"
+
+- term: "finite Vorschrift"
+  kind: concept
+  preferred: "finite prescription"
+  alternatives:
+    - "finite procedure"
+    - "finite rule"
+  status: open
+  notes: "Names the mechanical truth-table procedure for finite propositional formulas. `Prescription` preserves the procedural tone better than `rule` alone."
+  evidence:
+    - "parts/004-math-01-03-logisches-schliessen.md"
+
+- term: "finite Logik"
+  kind: concept
+  preferred: "finite logic"
+  alternatives:
+    - "finitary logic"
+  status: open
+  notes: "Contrasted with transfinite logic. `Finitary` may become useful later, but the passage itself names the direct finite inspection procedure."
+  evidence:
+    - "parts/004-math-01-03-logisches-schliessen.md"
+
+- term: "transfinite Logik"
+  kind: concept
+  preferred: "transfinite logic"
+  alternatives:
+    - "quantified logic"
+  status: open
+  notes: "Introduced as the logic using `es gibt` and `alle`; the term should not be flattened to quantified logic because Weyl connects it to the problem of the infinite."
+  evidence:
+    - "parts/004-math-01-03-logisches-schliessen.md"
+
+- term: "Schlußregel"
+  kind: concept
+  preferred: "rule of inference"
+  alternatives:
+    - "inference rule"
+  status: seed
+  notes: "Weyl insists formulas alone are not enough because construction means action; logic needs a practically exercisable rule."
+  evidence:
+    - "parts/004-math-01-03-logisches-schliessen.md"
+
+- term: "ursprüngliche Dunkelheit der Vernunft"
+  kind: phrase
+  preferred: "originary darkness of reason"
+  alternatives:
+    - "original darkness of reason"
+  status: open
+  notes: "Marks Weyl's anti-omniscience point: truth is not possessed by immediate survey, but won step by step through action."
+  evidence:
+    - "parts/004-math-01-03-logisches-schliessen.md"
+
+- term: "Grund und Folge"
+  kind: phrase
+  preferred: "ground and consequence"
+  alternatives:
+    - "reason and consequence"
+    - "ground and consequent"
+  status: open
+  notes: "Kept distinct from `Ursache und Wirkung`; Weyl says the implication sign remains neutral among logical, essential, causal, and empirical foundations."
+  evidence:
+    - "parts/004-math-01-03-logisches-schliessen.md"
+
+- term: "Die axiomatische Methode"
+  kind: concept
+  preferred: "the axiomatic method"
+  alternatives:
+    - "axiomatic procedure"
+  status: seed
+  notes: "Names the method of collecting the basic concepts and basic facts from which a science's relevant general truths can be definitionally or deductively derived."
+  evidence:
+    - "parts/005-math-01-04-axiomatische-methode.md"
+
+- term: "Axiomensystem"
+  kind: concept
+  preferred: "axiom system"
+  alternatives:
+    - "system of axioms"
+  status: seed
+  notes: "Weyl treats the choice of primitives and basic facts as partly arbitrary, then measures the system by consistency, independence, and completeness/categoricity."
+  evidence:
+    - "parts/005-math-01-04-axiomatische-methode.md"
+    - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
+
+- term: "Widerspruchslosigkeit"
+  kind: concept
+  preferred: "consistency"
+  alternatives:
+    - "freedom from contradiction"
+  status: open
+  notes: "`Consistency` is idiomatic for axiom systems, but the literal pressure remains freedom from deriving both `a` and `ā`. It matters because theory is bold construction rather than mere reproduction of the given."
+  evidence:
+    - "parts/005-math-01-04-axiomatische-methode.md"
+    - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
+
+- term: "Unabhängigkeit"
+  kind: concept
+  preferred: "independence"
+  alternatives:
+    - "independence of axioms"
+  status: seed
+  notes: "An axiom is independent when its negation does not contradict the remaining axioms. Weyl explicitly binds independence to consistency."
+  evidence:
+    - "parts/005-math-01-04-axiomatische-methode.md"
+
+- term: "Modellmethode"
+  kind: concept
+  preferred: "model method"
+  alternatives:
+    - "method of models"
+  status: seed
+  notes: "The successful method for reducing consistency or proving independence by exhibiting objects and relations that satisfy one system under a suitable naming."
+  evidence:
+    - "parts/005-math-01-04-axiomatische-methode.md"
+
+- term: "direkte Methode"
+  kind: concept
+  preferred: "direct method"
+  alternatives:
+    - "direct proof method"
+  status: seed
+  notes: "The method required for an absolute proof of consistency from the fully enumerated logical rules of inference."
+  evidence:
+    - "parts/005-math-01-04-axiomatische-methode.md"
+
+- term: "Vollständigkeit"
+  kind: concept
+  preferred: "completeness"
+  alternatives:
+    - "completeness of an axiom system"
+  status: open
+  notes: "Weyl rejects the decision-procedure sense as trivializing mathematics and accepts the categorical sense: any two contentful interpretations are necessarily isomorphic."
+  evidence:
+    - "parts/005-math-01-04-axiomatische-methode.md"
+
+- term: "kategorisch"
+  kind: concept
+  preferred: "categorical"
+  alternatives:
+    - "categoric"
+  status: seed
+  notes: "Paired with `vollständig`; an axiom system is categorical when its contentful interpretations are unique up to isomorphism."
+  evidence:
+    - "parts/005-math-01-04-axiomatische-methode.md"
+
+- term: "Isomorphie"
+  kind: concept
+  preferred: "isomorphism"
+  alternatives:
+    - "isomorphy"
+  status: seed
+  notes: "The epistemological peak of chapter I: science determines a structure up to isomorphic mapping, not the inner essence of its objects."
+  evidence:
+    - "parts/005-math-01-04-axiomatische-methode.md"
+
+- term: "inhaltliche Interpretation"
+  kind: concept
+  preferred: "contentful interpretation"
+  alternatives:
+    - "substantive interpretation"
+    - "interpretation with content"
+  status: open
+  notes: "An interpretation in which meanings are exhibited for primitive names so that the axioms become true statements. `Contentful` keeps the link to `inhaltlich` without collapsing into empirical content."
+  evidence:
+    - "parts/005-math-01-04-axiomatische-methode.md"
+
+- term: "logische Leerform"
+  kind: concept
+  preferred: "logical empty form"
+  alternatives:
+    - "logical blank form"
+    - "logical form without content"
+  status: open
+  notes: "Preserve the relation to `Leerstelle`: pure mathematics develops empty relational forms without binding them to any one contentful interpretation."
+  evidence:
+    - "parts/005-math-01-04-axiomatische-methode.md"
+
+- term: "implizite Definition"
+  kind: concept
+  preferred: "implicit definition"
+  alternatives:
+    - "definition by implication"
+  status: seed
+  notes: "The axiom-system version of the earlier creative-definition pressure: axioms define primitive concepts by the judgments in which they function, leaving a controlled scope of indeterminacy."
+  evidence:
+    - "parts/005-math-01-04-axiomatische-methode.md"
+
+- term: "transfinites Kriterium"
+  kind: concept
+  preferred: "transfinite criterion"
+  alternatives:
+    - "transfinite test"
+  status: seed
+  notes: "In section 5, equality of fractions initially has a transfinite wording because it quantifies over all possible numbers `x, y`; natural-number calculation then replaces it by the finite cross-multiplication condition `(K)`."
+  evidence:
+    - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
+
+- term: "Widerspruchsfreiheit"
+  kind: concept
+  preferred: "consistency"
+  alternatives:
+    - "freedom from contradiction"
+  status: open
+  notes: "Chapter II uses `Widerspruchsfreiheit` where chapter I used `Widerspruchslosigkeit`. Treat as the same consistency pressure unless later passages distinguish them."
+  evidence:
+    - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
+
+- term: "Brüche"
+  kind: concept
+  preferred: "fractions"
+  alternatives:
+    - "fractional numbers"
+  status: seed
+  notes: "Do not collapse into `rational numbers`; Weyl uses `Brüche` for the initial extension forced by division/multiplication and reserves `rationale Zahlen` for the later extension including `0` and negatives."
+  evidence:
+    - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
+
+- term: "rationale Zahlen"
+  kind: concept
+  preferred: "rational numbers"
+  alternatives:
+    - "rational quantities"
+  status: seed
+  notes: "Reached from fractions by forcing invertibility of addition, including `0` and negatives, while sacrificing division by zero."
+  evidence:
+    - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
+
+- term: "Zahlbegriff"
+  kind: concept
+  preferred: "concept of number"
+  alternatives:
+    - "number concept"
+  status: open
+  notes: "Section 5 treats complex numbers as a natural boundary for extending the concept of number while preserving all formal laws of calculation. Section 6 adds the Kantian time-pressure: number is bound to temporal mental operations, though arithmetic is not simply a doctrine of time. Section 7 shows Dedekind's cut-principle fixing the concept of real number required for Cauchy's convergence criterion."
+  evidence:
+    - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+
+- term: "Größen-Axiome"
+  kind: concept
+  preferred: "axioms of magnitude"
+  alternatives:
+    - "magnitude axioms"
+    - "order axioms"
+  status: open
+  notes: "The arithmetic axioms split into algebraic axioms and `Größen-Axiome`; the latter govern `a > b` and are suspended in the complex-number domain."
+  evidence:
+    - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
+
+- term: "vollständige Induktion"
+  kind: concept
+  preferred: "complete induction"
+  alternatives:
+    - "mathematical induction"
+  status: open
+  notes: "Weyl uses `vollständige Induktion` for both definition and proof: specify the first case and the transfer from `n` to `n + 1`. Modern English often says `mathematical induction`, but the literal phrase carries his construction-from-completion pressure. Section 8 recasts complete induction set-theoretically as the claim that every Dedekind chain containing 1 is identical with all of Z. Section 9 recovers it as Brouwer's concrete mathematical originary intuition, applied step by step."
+  evidence:
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+    - "parts/009-math-02-08-die-mengenlehre.md"
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "Ordinalzahl"
+  kind: concept
+  preferred: "ordinal number"
+  alternatives:
+    - "ordinal"
+  status: seed
+  notes: "Primary for Weyl because counting an aggregate already orders its elements in time; the natural numbers first appear through their place in the generated series."
+  evidence:
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+    - "parts/009-math-02-08-die-mengenlehre.md"
+
+- term: "Kardinalzahl"
+  kind: concept
+  preferred: "cardinal number"
+  alternatives:
+    - "cardinal"
+  status: seed
+  notes: "Secondary for Weyl. If introduced independently of ordering, it requires definition by abstraction, but the pairing criterion still has to be tested through temporally ordered acts."
+  evidence:
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+    - "parts/009-math-02-08-die-mengenlehre.md"
+    - "parts/009-math-02-08-die-mengenlehre.md"
+
+- term: "Zahlzeichen"
+  kind: concept
+  preferred: "number-sign"
+  alternatives:
+    - "number sign"
+    - "numeral"
+  status: open
+  notes: "Do not flatten to `numeral` where the sign-theoretic argument is active. Weyl is discussing concrete signs that can endure, preserve, communicate, and stabilize number-determinations."
+  evidence:
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+
+- term: "standhaltende Zeichen"
+  kind: phrase
+  preferred: "enduring signs"
+  alternatives:
+    - "persistent signs"
+    - "signs that hold fast"
+  status: open
+  notes: "The first written sign must `standhält` if later comparison is shifted onto signs. `Enduring` preserves the role of persistence without making it a metaphysical substrate."
+  evidence:
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+
+- term: "Zahlvergleichung / Zahlbestimmung"
+  kind: distinction
+  preferred: "number-comparison / number-determination"
+  alternatives:
+    - "comparison of number / determination of number"
+  status: open
+  notes: "Central section-6 distinction. Signs are not essential for direct comparison if the first temporal sequence can be reproduced, but number-determination becomes essentially signitive once the act is split into separately preserved determinations."
+  evidence:
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+
+- term: "signativer Charakter"
+  kind: concept
+  preferred: "signitive character"
+  alternatives:
+    - "sign-character"
+    - "semiotic character"
+  status: open
+  notes: "Keep `signitive`, not generic `semiotic`, because Weyl's local claim is precise: number-determination depends on reference to signs after the intuitive comparison has been split and displaced."
+  evidence:
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+
+- term: "konstruktives Erkennen"
+  kind: concept
+  preferred: "constructive knowing"
+  alternatives:
+    - "constructive cognition"
+    - "constructive knowledge"
+  status: open
+  notes: "Section 6 gives three basic traits: operations on the given become features of the given; signs split and stabilize operations; actual occurrences are projected onto an infinity-open manifold of possibilities."
+  evidence:
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+
+- term: "Mannigfaltigkeit von Möglichkeiten"
+  kind: phrase
+  preferred: "manifold of possibilities"
+  alternatives:
+    - "multiplicity of possibilities"
+  status: seed
+  notes: "The generated series projects actual signs onto a background of possibilities producible by a fixed procedure and open into infinity. This phrase may become central in sections 7-11."
+  evidence:
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+
+- term: "Sprung ins Jenseits"
+  kind: phrase
+  preferred: "leap into the beyond"
+  alternatives:
+    - "leap into the other side"
+    - "leap into transcendence"
+  status: open
+  notes: "Names the dangerous transition from an infinity-open generated sequence to a closed aggregate of objects existing in themselves. Section 9 presents Brouwer as refusing this leap. Avoid smoothing into generic `transcendence` until later passages settle the register."
+  evidence:
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "fingieren"
+  kind: term
+  preferred: "fictively posit"
+  alternatives:
+    - "feign"
+    - "fictionally posit"
+    - "fictively construct"
+  status: open
+  notes: "Used for the number `10¹²`, whose signs `10` and `12` can be written in strokes while `10¹²` itself never has been. `Fictively posit` is provisional; keep open if the term recurs."
+  evidence:
+    - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+
+- term: "Kontinuum"
+  kind: concept
+  preferred: "continuum"
+  alternatives:
+    - "the continuum"
+  status: open
+  notes: "Section 7 introduces the continuum as the second open place in the number-realm: the infinite appears as infinite divisibility of time and space, not as serial generation. Section 9 gives the Brouwerian alternative: the continuum is not a set of fixed elements but a medium of free becoming and an extensive whole."
+  evidence:
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "Kontinuumslehre"
+  kind: concept
+  preferred: "theory of the continuum"
+  alternatives:
+    - "doctrine of the continuum"
+  status: seed
+  notes: "Contrasted with number theory: the object of continuum theory is the possible sets or infinite sequences of natural numbers."
+  evidence:
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+
+- term: "Unendlichkleines"
+  kind: concept
+  preferred: "infinitesimal"
+  alternatives:
+    - "infinitely small"
+  status: open
+  notes: "Weyl rejects the actual infinitesimal as a foundation for analysis. It can be treated consistently in a non-Archimedean theory of magnitudes, but it contributes nothing to analysis once the limiting process is properly understood."
+  evidence:
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+
+- term: "aktual Unendlichkleines"
+  kind: phrase
+  preferred: "actual infinitesimal"
+  alternatives:
+    - "actual infinitely small"
+  status: open
+  notes: "Eudoxus's comparability axiom rules out both an actual infinitesimal and an actual infinitely large within the continuum."
+  evidence:
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+
+- term: "Schnitt"
+  kind: concept
+  preferred: "cut"
+  alternatives:
+    - "Dedekind cut"
+  status: open
+  notes: "The cut in the rational numbers characterizes a real number by dividing all fractions into classes below, equal to, and above the intended real number."
+  evidence:
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+
+- term: "Dedekindsches Axiom"
+  kind: concept
+  preferred: "Dedekind axiom"
+  alternatives:
+    - "Dedekind's axiom"
+  status: seed
+  notes: "The geometrical postulate that a segment exists for the arithmetically fixed cut-ratio to the unit segment; it secures completeness of geometrical elements."
+  evidence:
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+
+- term: "Stetigkeit"
+  kind: concept
+  preferred: "continuity"
+  alternatives:
+    - "continuousness"
+  status: open
+  notes: "Section 7 separates the arithmetical fixing of real numbers from geometrical continuity and prepares the set-theoretic/static treatment in section 8. Section 8's epsilon-delta definition shows Weyl's point: the modern concept of continuity remains static because it quantifies over all real places in the continuum. Section 9 says that in a Brouwerian continuum there can be only continuous functions."
+  evidence:
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+    - "parts/009-math-02-08-die-mengenlehre.md"
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "Lückenlosigkeit"
+  kind: concept
+  preferred: "gaplessness"
+  alternatives:
+    - "absence of gaps"
+    - "continuity without gaps"
+  status: open
+  notes: "Logical completeness of the point-system mirrors the intuitive gaplessness of points in space. Keep literal for now because the spatial image matters."
+  evidence:
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+
+- term: "Grenzprozeß"
+  kind: concept
+  preferred: "limiting process"
+  alternatives:
+    - "limit process"
+  status: open
+  notes: "The process that wins over actual infinitesimals. It must not only calculate the value of a limit but guarantee the limit's existence."
+  evidence:
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+
+- term: "Limes"
+  kind: concept
+  preferred: "limit"
+  alternatives:
+    - "limiting value"
+  status: seed
+  notes: "An unavoidable concept whose importance is unaffected by accepting or rejecting infinitesimals."
+  evidence:
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+
+- term: "Grenzübergang"
+  kind: concept
+  preferred: "passage to the limit"
+  alternatives:
+    - "transition to the limit"
+  status: seed
+  notes: "Newton and Leibniz partly grasp that infinitesimal calculus concerns passage to zero, but lack the later clarity about existence of the limit."
+  evidence:
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+
+- term: "Grenzidee"
+  kind: concept
+  preferred: "limit-idea"
+  alternatives:
+    - "limit idea"
+    - "limiting idea"
+  status: open
+  notes: "Husserl's real thing is a Kantian limit-idea because it can never be adequately given and unfolds an inner horizon through indefinitely continuing experience."
+  evidence:
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+
+- term: "nicht-archimedische Größenlehre"
+  kind: concept
+  preferred: "non-Archimedean theory of magnitudes"
+  alternatives:
+    - "non-Archimedean magnitude theory"
+  status: seed
+  notes: "Weyl grants its consistency as a possibility but says it contributes nothing to analysis."
+  evidence:
+    - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+
+- term: "Mengenlehre"
+  kind: concept
+  preferred: "set theory"
+  alternatives:
+    - "theory of sets"
+  status: open
+  notes: "Section 8 defines its essence as the static treatment of the number-series and the totality of its subsets as a closed aggregate of objects existing in themselves. Weyl grants its mathematical power while contesting its ontology."
+  evidence:
+    - "parts/009-math-02-08-die-mengenlehre.md"
+
+- term: "aktual Unendliche"
+  kind: concept
+  preferred: "actual infinite"
+  alternatives:
+    - "actually infinite"
+  status: open
+  notes: "Set theory stands wholly on this ground: possible sequences, sets, and subsets are treated as already completed domains over which `all` and `there is` range."
+  evidence:
+    - "parts/009-math-02-08-die-mengenlehre.md"
+
+- term: "Kette"
+  kind: concept
+  preferred: "chain"
+  alternatives:
+    - "Dedekind chain"
+  status: seed
+  notes: "A set K of natural numbers such that whenever x belongs to K, its image x′ also belongs to K. Weyl uses it to show how complete induction can be grounded set-theoretically."
+  evidence:
+    - "parts/009-math-02-08-die-mengenlehre.md"
+
+- term: "logisieren"
+  kind: term
+  preferred: "logicize"
+  alternatives:
+    - "logicize completely"
+    - "make wholly logical"
+  status: open
+  notes: "Names the Dedekind-Frege-Russell logicist program. The English is intentionally slightly stiff because the German names a programmatic reduction of mathematics to logic."
+  evidence:
+    - "parts/009-math-02-08-die-mengenlehre.md"
+
+- term: "Vergegenständlichung"
+  kind: concept
+  preferred: "objectification"
+  alternatives:
+    - "making-into-an-object"
+    - "reification"
+  status: open
+  notes: "The objectification of sets and properties is the key philosophical move in section 8. It transforms `x is red` into `x has property X` and makes the property place itself available for definition."
+  evidence:
+    - "parts/009-math-02-08-die-mengenlehre.md"
+
+- term: "Existentialabsolutismus"
+  kind: concept
+  preferred: "existential absolutism"
+  alternatives:
+    - "absolute existentialism"
+    - "absolutism of existence"
+  status: open
+  notes: "Weyl's name for unrestricted commitment to completed existence in the domain of elements, subsets, and properties. It blurs type-level distinctions and produces the vicious circle."
+  evidence:
+    - "parts/009-math-02-08-die-mengenlehre.md"
+
+- term: "umfangsdefinit / umfangsgleich"
+  kind: distinction
+  preferred: "extensionally definite / identical in extension"
+  alternatives:
+    - "extension-definite / extension-equal"
+  status: open
+  notes: "`Umfang` here is extension, not spatial extent. The dilemma would be avoided only if every second-level property had a first-level property with the same extension."
+  evidence:
+    - "parts/009-math-02-08-die-mengenlehre.md"
+
+- term: "sinnesgleich"
+  kind: term
+  preferred: "identical in sense"
+  alternatives:
+    - "same in sense"
+    - "sense-identical"
+  status: seed
+  notes: "Contrasted with `umfangsgleich`: a second-level property need not have the same sense as a first-level property, but would have to have the same extension for the reduction to succeed."
+  evidence:
+    - "parts/009-math-02-08-die-mengenlehre.md"
+
+- term: "Typenlehre"
+  kind: concept
+  preferred: "theory of types"
+  alternatives:
+    - "type theory"
+  status: seed
+  notes: "Russell's diagnosis of level-distinctions among properties. Weyl accepts the type-level pressure while rejecting the axiom of reducibility as a blind escape."
+  evidence:
+    - "parts/009-math-02-08-die-mengenlehre.md"
+
+- term: "axiom of reducibility"
+  kind: concept
+  preferred: "axiom of reducibility"
+  alternatives:
+    - "reducibility axiom"
+  status: seed
+  notes: "Weyl leaves Russell's phrase in English and treats the postulate sharply: reason commits harakiri by accepting a claim that closes itself off from insight."
+  evidence:
+    - "parts/009-math-02-08-die-mengenlehre.md"
+
+- term: "circulus vitiosus"
+  kind: concept
+  preferred: "circulus vitiosus"
+  alternatives:
+    - "vicious circle"
+  status: seed
+  notes: "Names the result of defining a property from a totality while also allowing it to belong to that same totality."
+  evidence:
+    - "parts/009-math-02-08-die-mengenlehre.md"
+
+- term: "Intuitive Mathematik"
+  kind: concept
+  preferred: "intuitive mathematics"
+  alternatives:
+    - "intuitionistic mathematics"
+  status: open
+  notes: "The section title is broader than the later school label. Brouwer dominates the section, but Weyl is emphasizing contact with intuition and construction rather than merely naming a technical movement."
+  evidence:
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "Existentialsatz"
+  kind: concept
+  preferred: "existential proposition"
+  alternatives:
+    - "existential statement"
+    - "existence proposition"
+  status: open
+  notes: "For Brouwer/Weyl, an existential proposition over the infinite is not a contentful judgment unless it is backed by a successful construction or proof."
+  evidence:
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "Urteilsabstrakt"
+  kind: concept
+  preferred: "judgment-abstract"
+  alternatives:
+    - "judgment abstraction"
+    - "abstract of judgment"
+  status: open
+  notes: "An existential proposition isolated from an actual judgment. The term should not be smoothed to `abstract judgment`, because Weyl's point is that it is a paper indicating treasure, not the treasure itself."
+  evidence:
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "inhaltvolles Urteil"
+  kind: concept
+  preferred: "contentful judgment"
+  alternatives:
+    - "substantive judgment"
+  status: open
+  notes: "Contrasted with bare possibility of construction. An existential assertion gains sense only in relation to a successful construction or proof."
+  evidence:
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "mathematische Urintuition"
+  kind: concept
+  preferred: "mathematical originary intuition"
+  alternatives:
+    - "mathematical primal intuition"
+    - "mathematical original intuition"
+  status: open
+  notes: "Names complete induction as the concrete step-by-step power of mathematics, not as a formula or set-theoretic theorem."
+  evidence:
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "tertium non datur"
+  kind: concept
+  preferred: "tertium non datur"
+  alternatives:
+    - "law of excluded middle"
+    - "excluded middle"
+  status: seed
+  notes: "Weyl keeps the Latin. In section 9 there is no unrestricted room for excluded middle over infinite domains, because universal assertions are hypothetical and existential negations are not contentful without construction."
+  evidence:
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "Allheit"
+  kind: concept
+  preferred: "allness"
+  alternatives:
+    - "totality"
+    - "all of"
+  status: open
+  notes: "Used in section 9 for the reach of assertions over natural numbers without making that reach into a completed set-theoretic aggregate."
+  evidence:
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "Wahlfolge"
+  kind: concept
+  preferred: "choice sequence"
+  alternatives:
+    - "free choice sequence"
+  status: open
+  notes: "A sequence arising step by step through free acts of choice. The becoming choice sequence represents the continuum or variable, while a law-governed infinite sequence represents a single real number."
+  evidence:
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "Medium freien Werdens"
+  kind: phrase
+  preferred: "medium of free becoming"
+  alternatives:
+    - "medium of free coming-to-be"
+  status: open
+  notes: "Brouwer's continuum is not an aggregate of fixed elements but this medium. The phrase returns the chapter to the Aristotle/potentiality pressure from sections 7-8."
+  evidence:
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "extensives Ganzes"
+  kind: concept
+  preferred: "extensive whole"
+  alternatives:
+    - "extensional whole"
+  status: seed
+  notes: "Husserl's part-whole concept used by Weyl to describe the continuum: it permits division into pieces of the same lowest genus as the undivided whole."
+  evidence:
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "arithmetische Leerform"
+  kind: concept
+  preferred: "arithmetical empty form"
+  alternatives:
+    - "arithmetical empty schema"
+  status: open
+  notes: "The binary subdivision tree supplies only the arithmetical empty form of the bounded one-dimensional continuum; its realization in an actual continuum remains approximate and sharpening."
+  evidence:
+    - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "Dualbrüche"
+  kind: concept
+  preferred: "dyadic fractions"
+  alternatives:
+    - "binary fractions"
+  status: seed
+  notes: "The arithmetical marks assigned to parts in the binary subdivision of the continuum."
+  evidence:
+    - "parts/010-math-02-09-intuitive-mathematik.md"
