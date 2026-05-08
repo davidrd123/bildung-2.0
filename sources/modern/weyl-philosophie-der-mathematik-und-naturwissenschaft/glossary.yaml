@@ -156,11 +156,12 @@
   alternatives:
     - "ideal objects"
   status: seed
-  notes: "Used for ideal points, imaginary elements, ideal numbers, and fractions introduced to force simple laws, restore lost lawfulness, or secure invertibility. Section 6 pressures the related `ideal objects`: numbers are safe if understood functionally, dangerous when the infinity-open sequence is made into a closed aggregate of things existing in themselves."
+  notes: "Used for ideal points, imaginary elements, ideal numbers, and fractions introduced to force simple laws, restore lost lawfulness, or secure invertibility. Section 6 pressures the related `ideal objects`: numbers are safe if understood functionally, dangerous when the infinity-open sequence is made into a closed aggregate of things existing in themselves. Section 10 adds the parallel case of `ideale Aussagen`, introduced to restore formal laws without restoring contentful truth."
   evidence:
     - "parts/003-math-01-02-aufbauende-definition.md"
     - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
     - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+    - "parts/011-math-02-10-symbolische-mathematik.md"
 
 - term: "Definition durch Abstraktion"
   kind: concept
@@ -333,10 +334,12 @@
   alternatives:
     - "freedom from contradiction"
   status: open
-  notes: "`Consistency` is idiomatic for axiom systems, but the literal pressure remains freedom from deriving both `a` and `ā`. It matters because theory is bold construction rather than mere reproduction of the given."
+  notes: "`Consistency` is idiomatic for axiom systems, but the literal pressure remains freedom from deriving both a formula and its negation. It matters because theory is bold construction rather than mere reproduction of the given. Section 10 makes consistency Hilbert's substitute target for truth in the old analysis. Section 11 folds this into the larger claim that formalism is symbolic presentation of the transcendent, not evident truth."
   evidence:
     - "parts/005-math-01-04-axiomatische-methode.md"
     - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
 
 - term: "Unabhängigkeit"
   kind: concept
@@ -499,11 +502,13 @@
   alternatives:
     - "mathematical induction"
   status: open
-  notes: "Weyl uses `vollständige Induktion` for both definition and proof: specify the first case and the transfer from `n` to `n + 1`. Modern English often says `mathematical induction`, but the literal phrase carries his construction-from-completion pressure. Section 8 recasts complete induction set-theoretically as the claim that every Dedekind chain containing 1 is identical with all of Z. Section 9 recovers it as Brouwer's concrete mathematical originary intuition, applied step by step."
+  notes: "Weyl uses `vollständige Induktion` for both definition and proof: specify the first case and the transfer from `n` to `n + 1`. Modern English often says `mathematical induction`, but the literal phrase carries his construction-from-completion pressure. Section 8 recasts complete induction set-theoretically as the claim that every Dedekind chain containing 1 is identical with all of Z. Section 9 recovers it as Brouwer's concrete mathematical originary intuition, applied step by step. Section 10 lets it reappear as a transfinite arithmetical axiom rule and as the finite metamathematical reasoning needed for consistency proofs. Section 11 gives it the synthetic, non-analytic role that prevents mathematics from becoming a huge tautology."
   evidence:
     - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
     - "parts/009-math-02-08-die-mengenlehre.md"
     - "parts/010-math-02-09-intuitive-mathematik.md"
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
 
 - term: "Ordinalzahl"
   kind: concept
@@ -757,9 +762,11 @@
   alternatives:
     - "theory of sets"
   status: open
-  notes: "Section 8 defines its essence as the static treatment of the number-series and the totality of its subsets as a closed aggregate of objects existing in themselves. Weyl grants its mathematical power while contesting its ontology."
+  notes: "Section 8 defines its essence as the static treatment of the number-series and the totality of its subsets as a closed aggregate of objects existing in themselves. Weyl grants its mathematical power while contesting its ontology. Section 10 reintroduces a restricted set-theoretic axiom rule for number-sets, but notes that the relevant consistency proof is still lacking. Section 11 classifies set-theoretic foundation as naive realism because it misses the transition from the given to the transcendent."
   evidence:
     - "parts/009-math-02-08-die-mengenlehre.md"
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
 
 - term: "aktual Unendliche"
   kind: concept
@@ -799,9 +806,10 @@
     - "making-into-an-object"
     - "reification"
   status: open
-  notes: "The objectification of sets and properties is the key philosophical move in section 8. It transforms `x is red` into `x has property X` and makes the property place itself available for definition."
+  notes: "The objectification of sets and properties is the key philosophical move in section 8. It transforms `x is red` into `x has property X` and makes the property place itself available for definition. Section 10 explicitly condemns the unrestricted right to objectification because the unrestricted set axiom rule yields formal contradiction."
   evidence:
     - "parts/009-math-02-08-die-mengenlehre.md"
+    - "parts/011-math-02-10-symbolische-mathematik.md"
 
 - term: "Existentialabsolutismus"
   kind: concept
@@ -882,9 +890,10 @@
     - "existential statement"
     - "existence proposition"
   status: open
-  notes: "For Brouwer/Weyl, an existential proposition over the infinite is not a contentful judgment unless it is backed by a successful construction or proof."
+  notes: "For Brouwer/Weyl, an existential proposition over the infinite is not a contentful judgment unless it is backed by a successful construction or proof. Section 10 formalizes the existential pressure through Hilbert's `εₓ` rule: the fictional automaton is absurd as content, but admissible as rule if consistency is preserved."
   evidence:
     - "parts/010-math-02-09-intuitive-mathematik.md"
+    - "parts/011-math-02-10-symbolische-mathematik.md"
 
 - term: "Urteilsabstrakt"
   kind: concept
@@ -925,9 +934,10 @@
     - "law of excluded middle"
     - "excluded middle"
   status: seed
-  notes: "Weyl keeps the Latin. In section 9 there is no unrestricted room for excluded middle over infinite domains, because universal assertions are hypothetical and existential negations are not contentful without construction."
+  notes: "Weyl keeps the Latin. In section 9 there is no unrestricted room for excluded middle over infinite domains, because universal assertions are hypothetical and existential negations are not contentful without construction. Section 10 shows Hilbert restoring the lost classical laws by ideal statements and formal rules rather than by intuitive truth."
   evidence:
     - "parts/010-math-02-09-intuitive-mathematik.md"
+    - "parts/011-math-02-10-symbolische-mathematik.md"
 
 - term: "Allheit"
   kind: concept
@@ -989,3 +999,244 @@
   notes: "The arithmetical marks assigned to parts in the binary subdivision of the continuum."
   evidence:
     - "parts/010-math-02-09-intuitive-mathematik.md"
+
+- term: "Symbolische Mathematik"
+  kind: concept
+  preferred: "symbolic mathematics"
+  alternatives:
+    - "symbolic formalism"
+  status: open
+  notes: "Hilbert's rescue of classical analysis by formalizing mathematics and logic into a rule-governed sign game. Weyl stresses that this secures consistency rather than contentful truth. Section 11 gives it the epistemological role of symbolic presentation of the transcendent."
+  evidence:
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+
+- term: "formalisieren"
+  kind: term
+  preferred: "formalize"
+  alternatives:
+    - "render formal"
+  status: seed
+  notes: "In section 10, to formalize is to convert mathematics and logic into operations on signs according to fixed rules, not to provide a new interpretation of the signs."
+  evidence:
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+
+- term: "Mitteilungszeichen"
+  kind: concept
+  preferred: "communication signs"
+  alternatives:
+    - "signs of communication"
+  status: open
+  notes: "Hilbert's name for signs that are signs for something. Weyl contrasts them with formal signs, which are manipulated without referential meaning."
+  evidence:
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+
+- term: "ideale Aussagen"
+  kind: concept
+  preferred: "ideal statements"
+  alternatives:
+    - "ideal propositions"
+  status: open
+  notes: "Formal statements introduced to restore classical logical laws after Brouwer's critique, analogous to ideal numbers introduced to restore simple divisibility laws."
+  evidence:
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+
+- term: "Metamathematik"
+  kind: concept
+  preferred: "metamathematics"
+  alternatives: []
+  status: seed
+  notes: "Hilbert's level at which the formal proof game becomes an object of knowledge. It requires finite, contentful thinking to prove that the game does not produce contradiction. Section 11 emphasizes that metamathematics itself still operates with finite inference from `n` to `n + 1`."
+  evidence:
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+
+- term: "Wertung der Formeln"
+  kind: concept
+  preferred: "valuation of formulas"
+  alternatives:
+    - "evaluation of formulas"
+  status: open
+  notes: "The finite consistency proof method that assigns each formula the value true or false according to its recursive genesis. Weyl says it stops working once transfinite axiom rules are admitted."
+  evidence:
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+
+- term: "Axiom der Bestimmtheit"
+  kind: concept
+  preferred: "axiom of determinacy"
+  alternatives:
+    - "axiom of definiteness"
+  status: seed
+  notes: "The desirable but not indispensable axiom that two number-sets are equal if they contain exactly the same elements."
+  evidence:
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+
+- term: "Axiomenregel"
+  kind: concept
+  preferred: "axiom rule"
+  alternatives:
+    - "rule for forming axioms"
+  status: open
+  notes: "A rule licensing the construction of formal axioms from schematic forms rather than a single fixed axiom. Section 10 uses it for logic, equality, arithmetic, and transfinite rules."
+  evidence:
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+
+- term: "transfinite Axiomenregeln"
+  kind: concept
+  preferred: "transfinite axiom rules"
+  alternatives:
+    - "transfinite rules for forming axioms"
+  status: open
+  notes: "The formal rules that let Hilbert's system recover existential and universal moves over the infinite. Weyl treats them as legitimate only if consistency is preserved."
+  evidence:
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+
+- term: "phänomenales Wissen"
+  kind: concept
+  preferred: "phenomenal knowledge"
+  alternatives:
+    - "phenomenal knowing"
+  status: open
+  notes: "Knowledge as intuitive insight or seeing, contrasted with theoretical formation. Weyl uses it to prevent both Brouwerian and Hilbertian accounts from absorbing the whole of scientific knowing."
+  evidence:
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+
+- term: "theoretische Gestaltung"
+  kind: concept
+  preferred: "theoretical formation"
+  alternatives:
+    - "theoretical shaping"
+    - "theoretical configuration"
+  status: open
+  notes: "The creative systematic construction required especially by physics, where only the system as a whole is confronted with experience. Section 11 generalizes this as the symbolic construction that can satisfy the theoretical need for totality without claiming direct intuitive possession of the transcendent."
+  evidence:
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+
+- term: "Einstimmigkeit"
+  kind: concept
+  preferred: "concordance"
+  alternatives:
+    - "agreement"
+    - "consistency"
+  status: open
+  notes: "The one strictly formulable rational principle for theoretical formation. In mathematics, where the sensibly given is not yet touched, it reduces to consistency."
+  evidence:
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+
+- term: "das Schöpferische"
+  kind: concept
+  preferred: "the creative"
+  alternatives:
+    - "the creative power"
+  status: open
+  notes: "The organ of theoretical formation, contrasted with `seeing` as the organ of phenomenal knowledge."
+  evidence:
+    - "parts/011-math-02-10-symbolische-mathematik.md"
+
+- term: "Zwei-Einigkeit"
+  kind: concept
+  preferred: "two-oneness"
+  alternatives:
+    - "two-unity"
+    - "duality-in-unity"
+  status: open
+  notes: "Brouwer's and Weyl's name for the originary split of one into two. Section 11 uses it to connect Plato, the continuum's division schema, binary whole-number notation, and the intuitionistic root of mathematical thinking."
+  evidence:
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+
+- term: "synthetisch / analytisch"
+  kind: distinction
+  preferred: "synthetic / analytic"
+  alternatives: []
+  status: open
+  notes: "Section 11 uses the distinction to classify mathematics against tautology. Complete induction gives mathematics synthetic, non-analytic character, but Weyl also notes that a single equation such as `3 + 2 = 5` looks analytic in Leibniz's sense."
+  evidence:
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+
+- term: "Konstruktion"
+  kind: concept
+  preferred: "construction"
+  alternatives:
+    - "constructive procedure"
+  status: open
+  notes: "Kant's key characterization of mathematical knowledge. Weyl keeps the core insight but reworks it: proof is not monotone formula-building but a passage beyond the immediate content of a proposition through alternating construction and dismantling."
+  evidence:
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+
+- term: "reine Betrachtung"
+  kind: concept
+  preferred: "pure contemplation"
+  alternatives:
+    - "mere contemplation"
+  status: seed
+  notes: "Contrasted with construction in section 11. Mathematics cannot be understood as simply contemplating given content; proof requires constructive movement beyond the proposition's immediate content."
+  evidence:
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+
+- term: "erkenntnistheoretische Einstellungsmöglichkeiten"
+  kind: concept
+  preferred: "epistemological attitudes"
+  alternatives:
+    - "epistemological positions"
+  status: open
+  notes: "Section 11's explicit three-stage map of recent foundational research: set-theoretic foundation as naive realism, Brouwer as idealism, and axiomatic formalism as symbolic presentation of the transcendent."
+  evidence:
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+
+- term: "naiver Realismus"
+  kind: concept
+  preferred: "naive realism"
+  alternatives: []
+  status: open
+  notes: "Weyl's classification of set-theoretic foundation: it fails to become conscious of the passage from the given to the transcendent."
+  evidence:
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+
+- term: "Idealismus"
+  kind: concept
+  preferred: "idealism"
+  alternatives: []
+  status: open
+  notes: "Weyl's classification of Brouwer's position: the reduction of all truth to what is given in intuition."
+  evidence:
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+
+- term: "axiomatischer Formalismus"
+  kind: concept
+  preferred: "axiomatic formalism"
+  alternatives: []
+  status: open
+  notes: "Weyl's classification of Hilbert's position: consciousness tries to leave the material of the given behind and represent the transcendent, but only in symbol."
+  evidence:
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+
+- term: "theoretisches Bedürfnis"
+  kind: concept
+  preferred: "theoretical need"
+  alternatives:
+    - "theoretical drive"
+  status: open
+  notes: "A need pressing toward totality that is unintelligible from a merely phenomenal standpoint. Weyl affirms it while insisting that it must be satisfied in symbol rather than mystical direct sight."
+  evidence:
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+
+- term: "Lichtkreis unserer schauenden Einsicht"
+  kind: phrase
+  preferred: "circle of light of our intuitive insight"
+  alternatives:
+    - "light-circle of our seeing insight"
+  status: open
+  notes: "Weyl's warning against the mystical error that the transcendent could fall within direct intuitive insight. The phrase anchors his symbolic discipline."
+  evidence:
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+
+- term: "Wissenschaft vom Unendlichen"
+  kind: concept
+  preferred: "science of the infinite"
+  alternatives:
+    - "science of infinity"
+  status: open
+  notes: "The closing formula for mathematics in chapter II. It names the finite-infinite tension as mathematics' living center and as the Greek achievement made fruitful for theoretical knowledge."
+  evidence:
+    - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"

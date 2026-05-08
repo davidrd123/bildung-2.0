@@ -509,4 +509,128 @@ Translation decisions:
 
 Next batch:
 
-- section 10, `Symbolische Mathematik`, printed pages 76-90 / PDF pages 77-91
+- section 10, `Symbolische Mathematik`, printed pages 76-85 / PDF pages 77-86
+
+## 2026-05-08 - Part 011: Symbolic Mathematics
+
+Completed subsection 10 plus its local `LITERATUR`, printed pages 76-85 / PDF
+pages 77-86. Section 10 begins on the same printed page as the tail of section
+9 and ends before section 11 begins on printed page 85.
+
+Source corrections:
+
+- corrected Hilbertian sign and formula notation: `𝔄`, `𝔄̄`, `εₓ`, `Σₓ`,
+  `Πₓ`, `→`, `⇔`, `σ`, and `b̄`
+- restored the transfinite logical axiom rules and the restricted
+  set-theoretic axiom rule from page images
+- corrected the consistency argument around `b̄ → (b → c)` and `¯(1 = 1)`
+- corrected recursive-definition notation: `σ1 = 2`, `σ(σb) = σ₂b`, `b + c`,
+  and `b · c`
+- corrected `10¹²`, `§ 6`, `§ 71`, `Kant`, Husserl's quotation, Brouwer's
+  Dutch quotation, `Blatt`, `Sphäre`, and `inédits`
+
+What the batch clarified:
+
+- Hilbert's program accepts Brouwer's diagnosis that transfinite mathematics
+  cannot be justified as contentful, evident truth; it seeks consistency, not
+  truth
+- formal signs are explicitly not signs for something; Hilbert's
+  `Mitteilungszeichen` distinction matters because the proof game suspends
+  reference
+- `ideale Aussagen` play the same structural role as earlier ideal numbers:
+  they restore simple laws that would otherwise fail
+- the `εₓ𝔄` automaton is Weyl's image for the formalist fiction: absurd as an
+  existing power, permissible as a rule if consistency is preserved
+- unrestricted objectification is condemned again because the unrestricted set
+  rule yields contradiction; the narrower number-set rule remains useful but
+  still requires a consistency proof
+- metamathematics reintroduces finite, contentful, meaning-filled thought only
+  to prove that the sign game never yields contradiction
+- Weyl's final turn to physics prevents a simple Brouwerian victory: natural
+  science tests theoretical systems as wholes, not isolated intuitive judgments
+- the emerging distinction is between phenomenal knowledge/seeing and
+  theoretical formation/creation, with consistency as mathematics' minimal form
+  of concordance
+
+Translation decisions:
+
+- `Symbolische Mathematik` is `symbolic mathematics`
+- `inhaltliches Denken` is `contentful thought`
+- `Widerspruchslosigkeit` is `consistency`
+- `Mitteilungszeichen` is `communication signs`
+- `ideale Aussagen` is `ideal statements`
+- `Metamathematik` is `metamathematics`
+- `Wertung der Formeln` is `valuation of formulas`
+- `theoretische Gestaltung` is `theoretical formation`
+- `Einstimmigkeit` is `concordance`; `Einhelligkeit` remains `unanimity`
+- `das Schöpferische` is `the creative`
+
+Next batch:
+
+- section 11, `Über das Wesen der mathematischen Erkenntnis`, printed pages
+  85-90 / PDF pages 86-91
+
+## 2026-05-08 - Part 012: On the Essence of Mathematical Knowledge
+
+Completed subsection 11 plus its local `LITERATUR`, printed pages 85-90 / PDF
+pages 86-91. This closes chapter II, `Zahl und Kontinuum. Das Unendliche`.
+
+Source corrections:
+
+- corrected `hyperkomplexen Zahlen`, `Zwei-Einigkeit`, and Brouwer's Dutch
+  quotation
+- rebuilt the binary-tree diagram and repaired the Plato/Aristotle passage
+  around the natural sequence
+- corrected `„es gibt“`, `§ 15`, `n auf n + 1`, and the Kant/Leibniz equation
+  block
+- corrected Speiser's quote, `II. Teil der Kritik`, `§ 6, S. 56`,
+  `Lichtkreis`, `Kultur der Gegenwart`, `Revue de métaphys. et morale`,
+  `Poincaré`, and `S. 437—446`
+
+What the batch clarified:
+
+- Weyl rejects the old definition of mathematics as the science of magnitude,
+  space, and number as too narrow after projective geometry, group theory,
+  axiomatization, set theory, and logistic
+- the foundational crisis makes mathematics' character clearer rather than
+  merely destroying foundations
+- Brouwer's root is `Zwei-Einigkeit`: the repeated split of one into two grounds
+  both the continuum's division schema and, by a different route, whole-number
+  sequencing
+- from the intuitionistic standpoint, complete induction keeps mathematics from
+  becoming a giant tautology and gives it synthetic, non-analytic character
+- from the formalist standpoint, transfinite axiom components replace complete
+  induction and make mathematics bold theoretical construction rather than
+  evident truth
+- Kant remains useful through construction, but Weyl does not accept Kant's
+  analytic/synthetic usage unchanged; individual equations like `3 + 2 = 5`
+  look analytic in Leibniz's sense
+- the three foundational attitudes are explicit: set theory as naive realism,
+  Brouwer as idealism, Hilbertian formalism as symbolic presentation of the
+  transcendent
+- the chapter's final discipline is anti-mystical but not anti-metaphysical:
+  the theoretical need for totality is real, but it must be satisfied in symbol,
+  not by claiming the transcendent as direct intuitive sight
+- the closing formula is `Wissenschaft vom Unendlichen`: mathematics makes the
+  finite-infinite tension fruitful for knowledge of reality
+
+Translation decisions:
+
+- `Über das Wesen der mathematischen Erkenntnis` is `On the Essence of
+  Mathematical Knowledge`
+- `Zwei-Einigkeit` is `two-oneness`
+- `Logistik` is `logistic`
+- `Konstruktion` is `construction`
+- `reine Betrachtung` is `pure contemplation`
+- `erkenntnistheoretische Einstellungsmöglichkeiten` is `epistemological
+  attitudes`
+- `naiver Realismus`, `Idealismus`, and `axiomatischer Formalismus` are `naive
+  realism`, `idealism`, and `axiomatic formalism`
+- `Lichtkreis unserer schauenden Einsicht` is `circle of light of our intuitive
+  insight`
+- `Wissenschaft vom Unendlichen` is `science of the infinite`
+
+Next move:
+
+- write chapter-II synthesis and decide whether Weyl earns `texts/` promotion,
+  continued source-local work, or pause

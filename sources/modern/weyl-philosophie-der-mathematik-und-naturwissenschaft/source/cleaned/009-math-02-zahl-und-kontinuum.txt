@@ -1120,10 +1120,7 @@ hinschreibt und die betreffenden Formeln dahinter setzt.“ Die
 fertige Formel sieht dann wie ein (parthenogenetischer) Stammbaum von Symbolen aus, von dem die „grammatikalische Struktur“ der Formel, das heißt die Art ihrer rekursiven Konstruktion
 unzweideutig abgelesen werden kann. Außerdem kann man so
 
-1) Ich schließe mich hier einem gegenüber Hilbert vereinfachten Formalis-
-
-mus an, den v. Neumann (Zur Hilbertschen Beweistheorie, Math. Zeitschr.
-1926) aufstellt.
+1) Ich schließe mich hier einem gegenüber Hilbert vereinfachten Formalismus an, den v. Neumann (Zur Hilbertschen Beweistheorie, Math. Zeitschr. 1926) aufstellt.
 
 [[pdf-page:0079 printed-page:78]]
 
@@ -1405,7 +1402,7 @@ philosophische Kategorie ist. Die Geometrie, sofern sie den wirklichen
 Raum erforscht, rechnen wir nicht mehr zur reinen Mathematik, sondern
 sie gehört, prinzipiell in der gleichen Weise wie Mechanik und Physik,
 zu ihren Anwendungen. Unter dem Einfluß der allgemeinen Arithmetik
-der hyperkomplexen Zablen, später der axiomatischen Untersuchungen,
+der hyperkomplexen Zahlen, später der axiomatischen Untersuchungen,
 der Mengenlehre und Logistik verwischt sich der Unterschied zwischen
 Mathematik und Logik. „Mathematics is the science, which draws necessary
 conclusions“, erklärt B. Peirce 1870. Ausführlich beschäftigt sich mit der
@@ -1416,14 +1413,12 @@ der reinen Logik“) und das letzte in Russells „Einführung in die mathematis
 Die durch die Antinomien der Mengenlehre heraufbeschworene
 Krisis läßt dann, ob man nun mit Brouwer dem konsequenten Intuitionismus oder mit Hilbert dem Symbolismus folgt, die Eigenart der
 Mathematik wieder deutlicher hervorleuchten. Brouwer erblickt genau
-wie Plato in der Zwei-Rinigkeit die Wurzel des mathematischen Denkens.
-„Dit neo-intuitionisme zieht het uiteenvallen van levensmomenten in qualitatief verschillende deelen, die alleen gescheiden door den tijd zich weer
-kunnen vereenigen, als oergebeuren in het menschelijk intellect, en hei
-absitraheeren van dit uiteenvallen van elken gevoelsinhoud tot de intuitie
+wie Plato in der Zwei-Einigkeit die Wurzel des mathematischen Denkens.
+„Dit neo-intuitionisme ziet het uiteenvallen van levensmomenten in qualitatief verschillende deelen, die alleen gescheiden door den tijd zich weer
+kunnen vereenigen, als oergebeuren in het menschelijk intellect, en het
+abstraheeren van dit uiteenvallen van elken gevoelsinhoud tot de intuitie
 van twee-eenigheid zonder meer, als oergebeuren van het wiskundig denken.“
-Wir sahen, wie dadurch, daß immer wieder ‚‚eins zu zwei“ wird?), das
-
-2) Eine Anspielung auf „Da wurde Eins zu Zwei“, womit Nietzsche in
+Wir sahen, wie dadurch, daß immer wieder „eins zu zwei“ wird¹), das
 
 [[pdf-page:0087 printed-page:86]]
 
@@ -1433,16 +1428,19 @@ Schema ordnete; weil man aber hier durch die Spaltung von eins in zwei
 zu immer größeren Zahlen aufsteigt, im Kontinuum zu immer kleineren
 Teilen kommt, nennt er die Zweiheit auch das Groß-Kleine. (Eine andere
 Interpretation findet sich dagegen bei H. Cherniss, The Riddle of the
-Early Academy, Univ. of Calif. Press 1945.) Angemessener ist den ganzen
-Zahlen die natürliche Reihung, welche Aristo-
+Early Academy, Univ. of Calif. Press 1945.)
 
-1 teles (Metaphysik A 6 und M 6) der PlatoniYA N schen Zahlauffassung entgegensetzt. Aber
-% NS auch sie kann man aus der Zweieinigkeit dadurch entstehen lassen, daß man ausgeht von
+        1
+       / \
+     10  11
+    / \  / \
+  100 101 110 111
+  ...
 
-IN IN
-
-100 101 1j0 111 einem Ungeschiedenen, dies zerlegt in ein
-aue= dEg S58 g895 Element (die 1), welches als Einheit bewahrt
+Angemessener ist den ganzen Zahlen die natürliche Reihung, welche Aristoteles (Metaphysik A 6 und M 6) der Platonischen Zahlauffassung entgegensetzt. Aber
+auch sie kann man aus der Zweieinigkeit dadurch entstehen lassen, daß man ausgeht von
+einem Ungeschiedenen, dies zerlegt in ein
+Element (die 1), welches als Einheit bewahrt
 bleibt, und einen ungeschiedenen Rest, den
 Rest wiederum zerlegt in ein Element (2) und einen ungeschiedenen Rest
 usf. (Anschaulich: von einer Halbgeraden wird immer wieder ein Stück
@@ -1456,11 +1454,13 @@ ungeheure Tautologie zu sein, und prägt ihren Behauptungen einen
 synthetischen, nicht-analytischen Charakter auf. Das Verfahren
 der vollständigen Induktion ist in der Tat ein durchgehender und
 entscheidender Zug. Scheint es zunächst in der elementaren Geometrie, insbesondere der projektiven, keine Rolle zu spielen, so
-liegt der Grund darin, daß hier von „es gibt‘ und „alle“ auf die
+liegt der Grund darin, daß hier von „es gibt“ und „alle“ auf die
 Punkte ein naiver Gebrauch gemacht wird. Gemäß der intuitionistischen Auffassung ist das unzulässig; das Konstruktionsfeld
-der Geometrie ist ein Kontinuum und daher strenger mathemati-
+der Geometrie ist ein Kontinuum und daher strenger mathematischer Behandlung erst fähig, nachdem es, wie oben geschildert
+(vgl. auch § 15), mit einem Teilungsnetz übersponnen ist.
 
-mehreren seiner Gedichte sein Zarathustra-Erlebnis schilderte, z. B. in „‚Sils
+1) Eine Anspielung auf „Da wurde Eins zu Zwei“, womit Nietzsche in
+mehreren seiner Gedichte sein Zarathustra-Erlebnis schilderte, z. B. in „Sils
 Maria“:
 
 „Da, plötzlich, Freundin, wurde Eins zu Zwei —
@@ -1469,16 +1469,13 @@ Maria“:
 
 [[pdf-page:0088 printed-page:87]]
 
-scher Behandlung erst fähig, nachdem es, wie oben geschildert
-(vgl. auch $ 15), mit einem Teilungsnetz übersponnen ist.
-
 Vom formalistischen Standpunkt tritt an Stelle der vollständigen Induktion der transfinite Axiomenbestandteil und drückt der
 Mathematik ihr Gepräge auf. Sie besteht hier überhaupt nicht aus
 evidenten Wahrheiten, sondern ist kühne theoretische Konstruktion,
 also das äußerste Gegenteil von analytischer Selbstverständlichkeit. Das inhaltliche Denken der Metamathematik andererseits,
 welche den Beweis der Widerspruchslosigkeit zu erbringen hat,
 operiert, den Beweisgang durchlaufend, mit einem finiten Schluß
-von n aufn + 1 und befaßt sich mit „außer-logischen konkreten
+von n auf n + 1 und befaßt sich mit „außer-logischen konkreten
 Objekten, die sich vollkommen in allen Teilen überblicken lassen
 und deren Aufweisung, Unterscheidung, Aufeinanderfolge oder
 Nebeneinandergereihtsein mit den Objekten zugleich unmittelbar
@@ -1493,18 +1490,18 @@ allein durch Logik begründet werden kann“ (Über das Unendliche, S. 171).
 
 Immerhin ist nicht zu verkennen, daß bei dem Kantischen Gebrauch
 der Worte analytisch und synthetisch wenigstens die einzelne bestimmte
-Gleichung wie 3 + 2 — 5 analytisch heißen müßte; denn, wie Leibniz
+Gleichung wie 3 + 2 = 5 analytisch heißen müßte; denn, wie Leibniz
 ausführte, folgt sie logisch aus den Definitionen
 
-3+1=4, 4+1=5, (a+)+1=a+2,
+3 + 1 = 4,        4 + 1 = 5,        (a + 1) + 1 = a + 2,
 
-„liegt also in den Begriffen‘ der Zahlen 3, 5 und der Operation + 2.
-Oder welche Bedeutung verband Kant mit diesen Zeichen ?
+„liegt also in den Begriffen“ der Zahlen 3, 5 und der Operation + 2.
+Oder welche Bedeutung verband Kant mit diesen Zeichen?
 
 Die Mathematik ist unbezweifelbar a priori; sie ist nicht, wie J. St.
 Mill uns glauben machen will, auf Erfahrung gegründet — in dem Sinne,
 daß erst wiederholte Versuche an Zahlenbeispielen dem für beliebige
-natürliche Zahlen aufgestellten arithmetischen Satzm +n=n + mein
+natürliche Zahlen aufgestellten arithmetischen Satz m + n = n + m ein
 immer größeres Wahrheitsgewicht verleihen.
 
 Ein auffälliger Zug aller Mathematik, der den Zugang zu ihr
@@ -1521,7 +1518,7 @@ in der sinnlichen oder geistigen Anschauung aufzuweisende Bedeutung haben und mi
 während die Sprache — in der Beschreibung der Substitution und
 der praktischen Schlußregel z. B. und in der metamathematischen
 Überlegung — zur (prinzipiell immer unsicher bleibenden Verständigung, nämlich zur) Mitteilung von Verfahrensweisen und
-geistiger bedeutungserfüllter Denkakte dient. „In der geometrischen Figur und später in der mathematischen Formel‘, sagt
+geistiger bedeutungserfüllter Denkakte dient. „In der geometrischen Figur und später in der mathematischen Formel“, sagt
 A. Speiser (Klassische Stücke der Mathematik 1925, S. 148), „hat
 sich die Mathematik von der Sprache frei gemacht, und wenn man
 die gewaltige Arbeit und den immer wieder überraschenden Erfolg
@@ -1530,7 +1527,7 @@ Mathematik in heutiger Zeit leistungsfähiger ist auf dem ihr zugemessenen Teil 
 in so deplorablem Zustand befindlichen modernen Sprachen auf
 ihren Fronten.“
 
-In seiner transzendentalen Methodenlehre (I. Teil der Kritik
+In seiner transzendentalen Methodenlehre (II. Teil der Kritik
 der reinen Vernunft) erblickt Kant das Wesen der Mathematik in
 der Konstruktion: „Die philosophische Erkenntnis ist die Vernunfterkenntnis aus Begriffen, die mathematische aus der Konstruktion
 der Begriffe.“ Am Beispiel des Satzes von der Winkelsumme im
@@ -1546,22 +1543,22 @@ Beweis, wie schon früher hervorgehoben, kein monoton fortschreitender Aufbau is
 
 daher alle Konstruktionsteile im fertigen Resultat aufbewahrt
 liegen —, sondern ein ständiger Wechsel von Aufbau und Abbau.
-Dieser Umstand zusammen mit den in $6, S.56 aufgezählten
+Dieser Umstand zusammen mit den in § 6, S. 56 aufgezählten
 Punkten 1., 2. und 3. scheinen mir ungefähr zutreffend die Konstruktion im Gegensatz zur reinen Betrachtung zu kennzeichnen.
 
 Die Stufen, welche die Grundlagenforschung in der Mathematik während der letzten Zeit durchlaufen hat, entsprechen den
 drei fundamentalen erkenntnistheoretischen Einstellungsmöglichkeiten. Die mengentheoretische Begründung ist die Stufe des naiven
 Realismus, der sich des Überganges vom Gegebenen zum Transzendenten nicht bewußt wird. Brouwer vertritt den Idealismus, indem er Zurückführung aller Wahrheit auf das anschaulich Gegebene fordert. Im axiomatischen Formalismus endlich unternimmt das Bewußtsein den Versuch, „über den eigenen Schatten
-zu springen‘, den Stoff des Gegebenen hinter sich zu lassen, das
+zu springen“, den Stoff des Gegebenen hinter sich zu lassen, das
 Transzendente darzustellen; aber, wie sich von selbst versteht, nur
-im Symbol. Den idealistischen Standpunkt in der Erkenntnistheorie hat dieabendländische Philosophie von Descartes ab grundsätzlich festgehalten ; dennoch suchte sie immer wieder in der Metaphysik den Zugang zum Reich des Absoluten, und noch auf Kant,
+im Symbol. Den idealistischen Standpunkt in der Erkenntnistheorie hat die abendländische Philosophie von Descartes ab grundsätzlich festgehalten; dennoch suchte sie immer wieder in der Metaphysik den Zugang zum Reich des Absoluten, und noch auf Kant,
 der ein für allemal den Riegel vorschieben wollte, folgten Fichte,
 Schelling, Hegel. Es ist nicht zu leugnen, daß in uns ein vom bloß
 phänomenalen Standpunkt schlechterdings unverständliches theoretisches Bedürfnis lebendig ist, das zur Totalität drängt. Gerade
 die Mathematik zeigt das mit besonderer Deutlichkeit. Aber aus
 ihr mögen wir auch lernen, daß jenem Bedürfnis Befriedigung werden kann nur unter einer Voraussetzung: wenn wir uns genügen
 lassen am Symbol und dem mystischen Irrtum entsagen, daß das
-Transzendente je in den Lichikreis unserer schauenden Einsicht
+Transzendente je in den Lichtkreis unserer schauenden Einsicht
 falle. Nur in der Mathematik und Physik hat bisher die theoretische Konstruktion solche Festigkeit gewonnen, daß sie zwingend
 ist für jeden, dessen Geist jenen Wissenschaften sich öffnet. Darauf
 beruht vorwiegend ihr philosophisches Interesse.
@@ -1580,7 +1577,7 @@ kaum eine andere Idee auf den Verstand so anregend und fruchtbar gewirkt; das Un
 Aufklärung bedürftig“ (Hilbert, Über das Unendliche). — Wer aber
 einen kurzen Überblick über die verschiedenen Formen und Problemkreise wünscht, in denen sich heute der mathematische Geist betätigt,
 den verweise ich auf den Artikel von A. Voß, Über die mathematische
-Erkenntnis, in der „Kultur der Gegenwart‘ (Teil III, Abt. 1, 1914),
+Erkenntnis, in der „Kultur der Gegenwart“ (Teil III, Abt. 1, 1914),
 ferner auf Courant und Robbins, What is Mathematics? (New York
 1941).
 
@@ -1589,15 +1586,15 @@ LITERATUR
 Kant, Kritik der reinen Vernunft.
 
 Eine gründliche Auseinandersetzung mit Kants Philosophie der
-Mathematik gibt L. Couturat in der Revue de metaphys. et morale.
+Mathematik gibt L. Couturat in der Revue de métaphys. et morale.
 Mai 1904.
 
 L. E. J. Brouwer, Mathematik, Wissenschaft und Sprache. Monatshefte d. Math. u. Phys. 36 (1929) S. 153—164.
 
 R. Courant u. H. Robbins, What is mathematics? New York 1941.
-H. Poincare, Wissenschaft und Hypothese, deutsch 2. Aufl. 1906.
+H. Poincaré, Wissenschaft und Hypothese, deutsch 2. Aufl. 1906.
 B. Russell, Einführung in die mathematische Philosophie, 1923.
 
 A. Voß, Über das Wesen der Mathematik, 2. Aufl. 1913.
 
-H. Weyl, The Mathematical Way of Thinking, Univ. Penn. Bicenten. Conf. 1940; außerdem in Science 92 (1940) S. 437-—446.
+H. Weyl, The Mathematical Way of Thinking, Univ. Penn. Bicenten. Conf. 1940; außerdem in Science 92 (1940) S. 437—446.
