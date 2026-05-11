@@ -11,7 +11,7 @@ Scope:
 - source manifest checked:
   `source/sections.yaml`
 - current encounter range:
-  `parts/001` through `parts/018`
+  `parts/001` through `parts/019`
 
 ## Audit Summary
 
@@ -23,11 +23,10 @@ Completed source-local encounter coverage:
 - Mathematics part I, sections 1-4
 - Mathematics part II, sections 5-11
 - Mathematics part III, sections 12-15
-- Natural science part I, sections 16-17
+- Natural science part I, sections 16-18
 
 Still pending:
 
-- Natural science part I, section 18
 - Natural science part II, sections 19-21
 - Natural science part III, sections 22-23
 - Appendices A-F
@@ -37,10 +36,12 @@ Still pending:
 Current validation evidence:
 
 - `glossary.yaml` parses as YAML
-- source-local glossary currently has 190 entries
+- source-local glossary currently has 200 entries
 - chapter-III geometry work is committed in `e9ba973`
 - section-16 natural-science work is committed in `9273f21`
-- section-17 natural-science work is validated in this batch
+- section-17 natural-science work is committed in `783a75c`
+- section-18 natural-science work and natural science part-I synthesis are
+  validated in this batch
 
 ## Prompt-To-Artifact Checklist
 
@@ -52,10 +53,10 @@ Current validation evidence:
 | List every cleaned file | See `Cleaned File Audit` below | Done |
 | List section/page-image ranges | See `Cleaned File Audit`; page images follow `source/page-images/jpg-200/page-%04d.jpg` | Done |
 | List translation/encounter status | See `Cleaned File Audit` and `Encounter Parts` | Done |
-| List glossary status | `glossary.yaml`, 183 parsed entries | Done |
+| List glossary status | `glossary.yaml`, 200 parsed entries | Done |
 | List synthesis status | See `Synthesis Status` | Done |
 | List promotion status | See `Promotion Status` | Done |
-| Complete Part II: Natural Science | Sections 16-17 done; sections 18-23 pending | Not done |
+| Complete Part II: Natural Science | Sections 16-18 done; sections 19-23 pending | Not done |
 | Complete Appendices A-F | Cleaned drafts exist, no encounter parts yet | Not done |
 | Whole-book synthesis | No whole-book synthesis file yet | Not done |
 | Promoted `texts/` completion | Minimal chapter-II promoted object exists; full object pending | Not done |
@@ -76,7 +77,7 @@ Current validation evidence:
 | `008-math-01-mathematische-logik-axiomatik.txt` | chapter I, sections 1-4, printed 16-46 | `page-0017.jpg`-`page-0047.jpg` | `parts/002`-`005` complete | glossary-backed | `2026-05-08-chapter-i-campaign-synthesis.md` | supports promoted Weyl object, not standalone |
 | `009-math-02-zahl-und-kontinuum.txt` | chapter II, sections 5-11, printed 47-90 | `page-0048.jpg`-`page-0091.jpg` | `parts/006`-`012` complete | glossary-backed | `2026-05-08-chapter-ii-campaign-synthesis.md` | promoted as chapter-II dossier |
 | `010-math-03-geometrie.txt` | chapter III, sections 12-15, printed 91-124 | `page-0092.jpg`-`page-0125.jpg` | `parts/013`-`016` complete | glossary-backed | `2026-05-08-chapter-iii-campaign-synthesis.md` | chapter-II dossier pressure note only |
-| `011-science-01-raum-und-zeit.txt` | natural science I, sections 16-18, printed 125-176 | `page-0126.jpg`-`page-0177.jpg` | sections 16-17 complete in `parts/017`-`018`; section 18 pending | sections 16-17 glossary-backed | no natural-science synthesis yet | not promoted |
+| `011-science-01-raum-und-zeit.txt` | natural science I, sections 16-18, printed 125-176 | `page-0126.jpg`-`page-0177.jpg` | sections 16-18 complete in `parts/017`-`019` | sections 16-18 glossary-backed | `2026-05-10-natural-science-i-raum-und-zeit-synthesis.md` | pressure note pending; not promoted as standalone |
 | `012-science-02-methodologie.txt` | natural science II, sections 19-21, printed 177-209 | `page-0178.jpg`-`page-0210.jpg` | pending | pending | pending | not promoted |
 | `013-science-03-das-weltbild.txt` | natural science III, sections 22-23, printed 210-278 | `page-0211.jpg`-`page-0279.jpg` | pending | pending | pending | not promoted |
 | `014-appendix-a-struktur-der-mathematik.txt` | appendix A, printed 279-302 | `page-0280.jpg`-`page-0303.jpg` | pending | pending | pending | not promoted |
@@ -110,10 +111,11 @@ Complete encounter parts:
 - `016-math-03-15-riemann-standpoint-topology.md`
 - `017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md`
 - `018-science-01-17-subjekt-und-objekt.md`
+- `019-science-01-18-das-raumproblem.md`
 
 Pending next encounter:
 
-- section 18, `Das Raumproblem`, beginning printed page 161 / PDF page 162
+- section 19 in `012-science-02-methodologie.txt`
 
 ## Synthesis Status
 
@@ -122,10 +124,10 @@ Complete source-local syntheses:
 - `synthesis/2026-05-08-chapter-i-campaign-synthesis.md`
 - `synthesis/2026-05-08-chapter-ii-campaign-synthesis.md`
 - `synthesis/2026-05-08-chapter-iii-campaign-synthesis.md`
+- `synthesis/2026-05-10-natural-science-i-raum-und-zeit-synthesis.md`
 
 Pending syntheses:
 
-- natural science part I synthesis after sections 16-18
 - natural science part II synthesis after sections 19-21
 - natural science part III synthesis after sections 22-23
 - appendix synthesis after appendices A-F
@@ -145,19 +147,20 @@ Promotion is intentionally partial:
 
 - chapter II is the promoted core
 - chapter III currently modifies chapter II through a pressure note
-- sections 16-17 confirm the geometry-to-physics bridge and its subject/object
-  payoff but are not promoted yet
+- sections 16-18 confirm the geometry-to-physics bridge, its subject/object
+  payoff, and the constitution/limit of intuitive space but are not promoted
+  as a standalone dossier yet
 - full promoted Weyl object remains pending until the natural-science and
   appendix campaigns are complete
 
 ## Next Required Work
 
-Continue Part II: Natural Science with section 18:
+Continue Part II: Natural Science with section 19:
 
-- visually inspect `page-0162.jpg` onward
-- correct section 18 German in `source/cleaned/011-science-01-raum-und-zeit.txt`
-- create `parts/019-science-01-18-das-raumproblem.md`
+- visually inspect `page-0178.jpg` onward
+- correct section 19 German in `source/cleaned/012-science-02-methodologie.txt`
+- create the section-19 encounter part
 - update `journal.md` and `glossary.yaml`
 - validate YAML and diff whitespace
-- defer promoted-dossier changes until section 18 completes the natural-science
-  part-I campaign, unless section 18 forces an immediate source-local note
+- keep promoted-dossier changes as pressure notes until sections 19-23 clarify
+  Weyl's explicit methodology and world-picture

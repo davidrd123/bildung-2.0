@@ -1063,3 +1063,68 @@ Next batch:
 - section 18 should be handled as a continuation of section 17, not a fresh
   geometry excursus: it returns to the constitution of spatial intuition after
   the subject/object payoff has been made explicit
+
+## 2026-05-10 - Part 019: The Space Problem
+
+Translated section 18, `Das Raumproblem`, completing the first natural-science
+file `Raum und Zeit. Die transzendente Außenwelt`.
+
+Scope:
+
+- section 18 begins on printed page 161 / PDF page 162, after the end of
+  section 17
+- it ends with the literature list on printed page 176 / PDF page 177
+
+Source corrections:
+
+- visually checked page images `page-0162.jpg` through `page-0177.jpg`
+- repaired damaged quotes in `Abbildung`, `Lokalzeichen`, `Zeugnis der Sinne`,
+  `nativistische`, `Koordinatenkristall`, `Wesensgesetze`,
+  `Anschauungsraum`, `Eichinvarianz`, and `gerade-Fortschreiten`
+- corrected citation numerals and references: `Physiol. Optik III`, Wagners
+  `Handwörterbuch d. Physiol. III`, `Treatise, Teil II`, and Helmholtz
+  `Physiologische Optik, Bd. III`
+- corrected OCR words and notation: `nicht deckenden`, `Unausführbares`, the
+  footnote marker after `führen wird`, and `Δ₀`
+
+What the batch clarified:
+
+- section 18 is not a regression from relativity to visual psychology; it is
+  Weyl's bridge between subject/object construction and the constitution of
+  space
+- the sequence is: pure visual field, eye-movement field, binocular/centered
+  three-dimensional space, homogeneous intersubjective space, then physical
+  geometry
+- `Anschauungsraum` has local clarity but not global authority over physical
+  space; Weyl's tangent-plane analogy is the decisive control against
+  over-Kantian readings
+- geometry is an ideal network of determinations that touches lived reality
+  only at possible experimental contact points where it must "fit"
+- general relativity does not abolish the `a priori`; it shifts the boundary
+  between aprioric and aposterioric moments inside physical space
+- the old twofold `a priori / a posteriori` split becomes a threefold
+  articulation: aprioric structure, law-bound empirical metric field, and
+  contingent factual course
+- the dimensionality close is structurally important: Weyl asks why actual
+  physical space realizes this special case among formal possibilities
+
+Translation decisions:
+
+- `Raumvorstellung` is `spatial representation`
+- `Gesichtsfeld` is `visual field`
+- `Lokalzeichen` is `local signs`
+- `Leib-Ich` is `body-I`
+- `zentrierter Raum` is `centered space`
+- `homogener Raum` is `homogeneous space`
+- `Anschauungsraum` is `intuitive space`
+- `Wesensgesetze` is `essence-laws`
+- `Eichinvarianz` is `gauge invariance`
+- `gerade-Fortschreiten` is `straight-progressing`
+
+Natural-science part-I synthesis:
+
+- sections 16-18 now need a file-level synthesis before moving to section 19
+- the synthesis should decide how `Raum und Zeit` modifies the current
+  promoted chapter-II/chapter-III Weyl dossier: symbolic construction becomes
+  objectivity only through invariance, physical coupling, and possible return
+  to lived givenness

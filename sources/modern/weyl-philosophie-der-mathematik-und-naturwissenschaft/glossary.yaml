@@ -1975,3 +1975,100 @@
   notes: "Section 17's closing polarity. The light of consciousness grasps itself as split and stretched between subject and object, sense and being; the phrase marks the metaphysical limit of the section's epistemology."
   evidence:
     - "parts/018-science-01-17-subjekt-und-objekt.md"
+
+- term: "Raumvorstellung"
+  kind: concept
+  preferred: "spatial representation"
+  alternatives:
+    - "representation of space"
+  status: seed
+  notes: "Section 18 treats the psychological origin of space through visual and tactile impressions, movement sensations, and muscular feelings. `Spatial representation` is compact, but the German keeps the constructive/genetic pressure visible."
+  evidence:
+    - "parts/019-science-01-18-das-raumproblem.md"
+
+- term: "Gesichtsfeld"
+  kind: concept
+  preferred: "visual field"
+  alternatives: []
+  status: seed
+  notes: "The starting field for section 18's constitution of space: a two-dimensional field of qualities already possessing extension and a primitive metric structure before eye movements refine it."
+  evidence:
+    - "parts/019-science-01-18-das-raumproblem.md"
+
+- term: "Lokalzeichen"
+  kind: concept
+  preferred: "local signs"
+  alternatives:
+    - "place signs"
+  status: open
+  notes: "Lotze's proposed sensations for explaining localization in the visual field. Weyl rejects them as turning what is founded into the foundation; the resting eye already has an extended visual field."
+  evidence:
+    - "parts/019-science-01-18-das-raumproblem.md"
+
+- term: "Leib-Ich"
+  kind: concept
+  preferred: "body-I"
+  alternatives:
+    - "embodied I"
+  status: seed
+  notes: "The I as bodily center in constituted three-dimensional space. Weyl says no such body-I is present on the earlier pure visual-field and eye-movement stages."
+  evidence:
+    - "parts/019-science-01-18-das-raumproblem.md"
+
+- term: "zentrierter Raum"
+  kind: concept
+  preferred: "centered space"
+  alternatives: []
+  status: open
+  notes: "The three-dimensional space constituted from the two-dimensional sense-field and eye-movement field, with the body of the I occupying the privileged center."
+  evidence:
+    - "parts/019-science-01-18-das-raumproblem.md"
+
+- term: "homogener Raum"
+  kind: concept
+  preferred: "homogeneous space"
+  alternatives: []
+  status: open
+  notes: "Built on centered space through bodily movement into the distant horizon. This is the stage at which the body becomes an object among objects and intersubjective space becomes possible."
+  evidence:
+    - "parts/019-science-01-18-das-raumproblem.md"
+
+- term: "Anschauungsraum"
+  kind: concept
+  preferred: "intuitive space"
+  alternatives:
+    - "space of intuition"
+  status: open
+  notes: "Section 18 distinguishes intuitive space from mathematical and physical space. It may be locally clear and Euclidean around the I-center, but it is not authoritative for global physical geometry."
+  evidence:
+    - "parts/019-science-01-18-das-raumproblem.md"
+
+- term: "Wesensgesetze"
+  kind: concept
+  preferred: "essence-laws"
+  alternatives:
+    - "laws of essence"
+  status: open
+  notes: "One branch of the post-Kantian split of the a priori: Husserlian founding relations among givens of consciousness, not factual claims about physical reality."
+  evidence:
+    - "parts/019-science-01-18-das-raumproblem.md"
+
+- term: "Eichinvarianz"
+  kind: concept
+  preferred: "gauge invariance"
+  alternatives: []
+  status: seed
+  notes: "Weyl's dimensionality argument in section 18: the principle linking the electric field organically with the metric field holds only in a four-dimensional world."
+  evidence:
+    - "parts/019-science-01-18-das-raumproblem.md"
+
+- term: "gerade-Fortschreiten"
+  kind: concept
+  preferred: "straight-progressing"
+  alternatives:
+    - "straight continuation"
+    - "straight progress"
+  status: open
+  notes: "Weyl's postulate-like phrase for uniquely determined rotation-free infinitesimal parallel displacement from one point into the world. Kept awkward in English to preserve its technical pressure."
+  evidence:
+    - "parts/019-science-01-18-das-raumproblem.md"
