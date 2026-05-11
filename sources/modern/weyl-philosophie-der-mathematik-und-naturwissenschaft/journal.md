@@ -990,3 +990,76 @@ Next batch:
   explicitly supplies the subject/object payoff and section 18 returns to the
   space problem
 - existing dirty promoted `texts/weyl...` files were not touched in this batch
+
+## 2026-05-10 - Part 018: Subject And Object
+
+Translated section 17, `Subjekt und Objekt (Die naturwissenschaftliche
+Auswirkung der Erkenntnistheorie)`.
+
+Scope:
+
+- section 17 begins on printed page 144 / PDF page 145 after the section-16
+  literature list
+- it ends on printed page 161 / PDF page 162, before `18. Das Raumproblem`
+
+Source corrections:
+
+- repaired the Democritus Greek phrase `(νόμῳ, οὐ φύσει)`
+- corrected damaged citation numerals and references: Galilei `Opere ed.
+  Alberi VII, S. 355`, Leibniz `Philos. Schr. VII, S. 322`, Helmholtz
+  `Physiolog. Optik, III, S. 433`, and spacing in `S. 22`, `S. 188`, `S. 4`
+- corrected OCR words and quote damage: `Betreffs`, `Atome sich`,
+  `hinbildet`, `Transformationen`, `Korrekturen`, `konstituiert`, and
+  `subjektiv-absolut`
+- repaired Fig. 3's broken caption/text flow and restored angle notation `ϑ`
+- normalized section-local notation: `e₀/e₁/e₂/e₃`, `dx₀/dx₁/dx₂/dx₃`,
+  `g_{ik}`, `ξ₁/ξ₂`, `x₁/x₂`, and the affine-vector coordinate formulas
+
+What the batch clarified:
+
+- section 17 is the explicit epistemological payoff of sections 13-16:
+  objective science is not absolute possession of reality but symbolic,
+  coordinate-relative construction constrained by invariance and possible
+  perceptual return
+- Weyl does not choose realism over idealism inside natural science; he assigns
+  them complementary methodological roles
+- realism: perceptual differences must be grounded in real condition
+  differences
+- idealism: the objective world-picture may not contain differences that
+  cannot in principle break open into possible perceptual differences
+- the electric-field example shows how an objective field is constituted from
+  force effects without being reduced to any particular test body
+- the general-relativistic star-observation example sharpens
+  `subjektiv-absolut / objektiv-relativ`: the visual constellation is lived
+  by an I as point-eye, while the objective construction is invariant under
+  coordinate transformations
+- the Schwarzschild and Poincaré examples establish an anti-surplus rule for
+  theory: formally possible additions that carry no possible observational
+  difference must be rejected
+- the coordinate-system analogy makes the `Koordinatensystem` the objective
+  analogue of the I and lets subject, object, appearance, I, Thou, and
+  external world arise correlatively under invariant theory
+- the theological close is a limit claim: positing an external world does not
+  explain the lawful mathematical harmony required for concordant knowledge
+
+Translation decisions:
+
+- `Sinnesqualitäten` is `sensory qualities`
+- `Bewußtseinsgegebenheiten` is `givens of consciousness`
+- `subjektiv-absolut / objektiv-relativ` is
+  `subjective-absolute / objective-relative`
+- `aufgegeben` is `assigned as a task` when contrasted with `given`
+- `Einstimmigkeit` remains `concordance`
+- `Konszentialismus` is `conscientialism`; `konszientialistisch` is
+  `conscientialistic`
+- `Mithund` is `fellow dog`
+- `Dingnoëma` is `thing-noema`
+- `Licht-Ich` is `light-I`
+- `Sinn und Sein` is `sense and being`
+
+Next batch:
+
+- section 18, `Das Raumproblem`, begins on printed page 161 / PDF page 162
+- section 18 should be handled as a continuation of section 17, not a fresh
+  geometry excursus: it returns to the constitution of spatial intuition after
+  the subject/object payoff has been made explicit

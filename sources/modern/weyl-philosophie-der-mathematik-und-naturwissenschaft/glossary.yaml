@@ -1123,9 +1123,10 @@
     - "agreement"
     - "consistency"
   status: open
-  notes: "The one strictly formulable rational principle for theoretical formation. In mathematics, where the sensibly given is not yet touched, it reduces to consistency."
+  notes: "The one strictly formulable rational principle for theoretical formation. In mathematics, where the sensibly given is not yet touched, it reduces to consistency. Section 17 re-expands it for empirical theory: every theoretical determination must agree with every other and with possible perception, so concordance exceeds noncontradiction by bringing theory into contact with experience."
   evidence:
     - "parts/011-math-02-10-symbolische-mathematik.md"
+    - "parts/018-science-01-17-subjekt-und-objekt.md"
 
 - term: "das Schöpferische"
   kind: concept
@@ -1201,9 +1202,10 @@
   preferred: "idealism"
   alternatives: []
   status: open
-  notes: "Weyl's classification of Brouwer's position: the reduction of all truth to what is given in intuition."
+  notes: "Weyl's classification of Brouwer's position: the reduction of all truth to what is given in intuition. Section 17 gives idealism a methodological role inside natural science: the objective world-picture may admit no difference that cannot in principle break open into possible perceptual difference."
   evidence:
     - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+    - "parts/018-science-01-17-subjekt-und-objekt.md"
 
 - term: "axiomatischer Formalismus"
   kind: concept
@@ -1374,10 +1376,11 @@
   preferred: "objectivity"
   alternatives: []
   status: open
-  notes: "Section 13 begins with objectivity as a norm of knowledge and makes it experience-dependent: an assertion earns objective significance only if omitted contingent factors can be freely varied without changing its truth. Mathematically, this becomes invariance under the relevant automorphism group. Section 14 applies the same pressure to congruence/similarity: Δ-equivalence is objective exactly when Δ is invariant under Γ."
+  notes: "Section 13 begins with objectivity as a norm of knowledge and makes it experience-dependent: an assertion earns objective significance only if omitted contingent factors can be freely varied without changing its truth. Mathematically, this becomes invariance under the relevant automorphism group. Section 14 applies the same pressure to congruence/similarity: Δ-equivalence is objective exactly when Δ is invariant under Γ. Section 17 adds that objectivity is necessarily relative to symbolic representation and coordinate choice; the invariant relation, not coordinate absoluteness, carries objective force."
   evidence:
     - "parts/014-math-03-13-relativitaetsproblem.md"
     - "parts/015-math-03-14-kongruenz-aehnlichkeit-links-rechts.md"
+    - "parts/018-science-01-17-subjekt-und-objekt.md"
 
 - term: "Zufallsfaktor"
   kind: concept
@@ -1455,20 +1458,22 @@
   preferred: "coordinate system"
   alternatives: []
   status: open
-  notes: "In section 13 the coordinate system is the necessary residue of objectification: it enables conceptual fixation of continuum-points but must itself be exhibited by an individual demonstrative act."
+  notes: "In section 13 the coordinate system is the necessary residue of objectification: it enables conceptual fixation of continuum-points but must itself be exhibited by an individual demonstrative act. Section 17 makes it the objective analogue of the I: the coordinate system is the condition under which the symbolic objective world appears, but invariant theory prevents any one system from becoming metaphysically absolute."
   evidence:
     - "parts/014-math-03-13-relativitaetsproblem.md"
+    - "parts/018-science-01-17-subjekt-und-objekt.md"
 
 - term: "symbolische Konstruktion"
   kind: concept
   preferred: "symbolic construction"
   alternatives: []
   status: open
-  notes: "Section 13 states that all knowledge, even when it begins from intuitive description, tends toward symbolic construction. Objectivity is satisfied by constructing a symbolic picture of the world and considering invariant relations in the symbol field."
+  notes: "Section 13 states that all knowledge, even when it begins from intuitive description, tends toward symbolic construction. Objectivity is satisfied by constructing a symbolic picture of the world and considering invariant relations in the symbol field. Section 17 shows the natural-scientific form: the objective world is constructed in symbols and then mapped back to possible givens of consciousness."
   evidence:
     - "parts/011-math-02-10-symbolische-mathematik.md"
     - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
     - "parts/014-math-03-13-relativitaetsproblem.md"
+    - "parts/018-science-01-17-subjekt-und-objekt.md"
 
 - term: "Ich-Vernichtung"
   kind: concept
@@ -1903,3 +1908,70 @@
   notes: "Weyl uses Nietzsche's phrase for how an objectively unique world-course would appear in a world closed both spatially and temporally; the context is causal/topological, not only existential."
   evidence:
     - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "Sinnesqualitäten"
+  kind: concept
+  preferred: "sensory qualities"
+  alternatives:
+    - "sense qualities"
+  status: open
+  notes: "Section 17 begins from the classical doctrine of the subjectivity of sensory qualities. Weyl keeps both grounds: philosophically, such qualities can be given only in consciousness; scientifically, they depend on physical circumstances and psychophysical organization."
+  evidence:
+    - "parts/018-science-01-17-subjekt-und-objekt.md"
+
+- term: "Bewußtseinsgegebenheiten"
+  kind: concept
+  preferred: "givens of consciousness"
+  alternatives:
+    - "data of consciousness"
+  status: open
+  notes: "The immediate subjective side to which objective science must reconnect. Section 17 distinguishes actual momentary givens from possible, remembered, or expected perceptions of an I."
+  evidence:
+    - "parts/018-science-01-17-subjekt-und-objekt.md"
+
+- term: "subjektiv-absolut / objektiv-relativ"
+  kind: distinction
+  preferred: "subjective-absolute / objective-relative"
+  alternatives: []
+  status: open
+  notes: "Section 17's central epistemological pair. Immediate lived givenness is absolute in being just this given; objective world-knowledge is relative because it is symbolically represented only through an arbitrarily introduced coordinate system."
+  evidence:
+    - "parts/018-science-01-17-subjekt-und-objekt.md"
+
+- term: "überflüssige Bestandteile"
+  kind: concept
+  preferred: "superfluous components"
+  alternatives:
+    - "surplus components"
+  status: open
+  notes: "Section 17's anti-surplus principle for physical theory: no theoretical component should remain if its difference from alternatives has no possible perceptual consequence. The Schwarzschild corrections and Bohr orbital period supply the test cases."
+  evidence:
+    - "parts/018-science-01-17-subjekt-und-objekt.md"
+
+- term: "Konszentialismus"
+  kind: concept
+  preferred: "conscientialism"
+  alternatives:
+    - "consciousness-immanent standpoint"
+  status: seed
+  notes: "Weyl's name for the standpoint on which the absolute subject remains epistemically distinguished. Section 17 says it cannot be refuted on purely cognitive grounds, but the recognition of the Thou is demanded absolutely rather than only by the abstract norm of objectivity."
+  evidence:
+    - "parts/018-science-01-17-subjekt-und-objekt.md"
+
+- term: "Licht-Ich"
+  kind: concept
+  preferred: "light-I"
+  alternatives: []
+  status: seed
+  notes: "Late section-17 term for the transparent sense-giving I of consciousness. Weyl contrasts it with the dark, erring individual human being thrown into a particular fate."
+  evidence:
+    - "parts/018-science-01-17-subjekt-und-objekt.md"
+
+- term: "Sinn und Sein"
+  kind: distinction
+  preferred: "sense and being"
+  alternatives: []
+  status: seed
+  notes: "Section 17's closing polarity. The light of consciousness grasps itself as split and stretched between subject and object, sense and being; the phrase marks the metaphysical limit of the section's epistemology."
+  evidence:
+    - "parts/018-science-01-17-subjekt-und-objekt.md"
