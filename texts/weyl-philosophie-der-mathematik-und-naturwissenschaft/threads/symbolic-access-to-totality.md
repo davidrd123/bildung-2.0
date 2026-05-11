@@ -2,9 +2,16 @@
 
 Handle: `thread:symbolic-access-to-totality`
 
-Status: tentative
+Status: promoted-open
 
 Home witness: `weyl:math-02`
+
+Whole-book witnesses:
+
+- `dossiers/invariance-geometry-objectivity.md`
+- `dossiers/measurement-theory-reality-contact.md`
+- `dossiers/diagrams-mediation-hierarchy.md`
+- `dossiers/life-heredity-evolution.md`
 
 ## Definition
 
@@ -17,6 +24,10 @@ This is not a general celebration of symbols. The thread is valid only where
 symbolic mediation is tied to constraint, construction, consistency, or some
 other discipline that prevents the symbol from becoming mystical possession or
 empty manipulation.
+
+After the full source-local campaign, the thread is no longer chapter-II-only.
+It remains open because cross-source reuse can still weaken it, but it is now
+promoted as a Weyl pattern.
 
 ## Grounding In Chapter II
 
@@ -56,6 +67,19 @@ Good candidates for future testing:
 These are candidates only. They do not become evidence for the thread until a
 source-local encounter makes the relation specific.
 
+## Whole-Book Extension
+
+Chapter III extends the thread from totality to objectivity by invariance.
+Natural science extends it to measurement, concept-formation, and
+whole-theory correction. The appendices extend it to mediated diagrams,
+quantum probability, heredity, inward understanding, and evolution.
+
+The stronger form is:
+
+> Symbolic access is legitimate only when disciplined by construction,
+> invariance, measurement, theory-level correction, morphology, or another
+> source-specific constraint.
+
 ## Rival Reading
 
 The rival reading is that this thread over-philosophizes a technical episode in
@@ -71,9 +95,8 @@ without becoming a loose metaphor.
 
 The thread weakens if:
 
-- later Weyl reduces symbolic mathematics to mere formal convenience
-- source-local physics work shifts the criterion from symbolic discipline to a
-  different account of theoretical formation
 - cross-project uses fail to preserve the distinction among objectification,
   intuition, and disciplined formal symbol
 - the thread starts explaining too much too easily
+- the word `symbolic` starts replacing the specific constraints Weyl requires:
+  invariance, measurement, morphology, and theory-level correction

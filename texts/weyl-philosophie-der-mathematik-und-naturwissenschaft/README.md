@@ -4,41 +4,66 @@ Hermann Weyl, *Philosophie der Mathematik und Naturwissenschaft*, 8. Auflage.
 
 ## What This Is
 
-This is a minimal promoted dossier, not a full translation project and not a
-critical edition.
+This is a promoted project dossier, not a critical edition and not a full
+reader-facing translation.
 
 The source-local campaign under
 `../../sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/`
-remains the authority for OCR cleanup, page-image checks, full working German,
-translation drafts, and glossary pressure. This `texts/` object promotes only
-the chapter-II result that has become reusable across the repo: Weyl's account
-of mathematics as disciplined access to the infinite through construction,
-intuition, and symbol.
+remains the authority for OCR cleanup, page-image checks, working German,
+translation drafts, glossary pressure, and section-level encounters. This
+`texts/` object promotes the structural claims now earned by the complete
+source-local campaign through parts `001-030`.
+
+## Promoted Claim
+
+Weyl's book is a theory of disciplined symbolic access to reality.
+
+It begins from the infinite and the continuum, passes through geometry and
+physical objectivity, and ends with a world-picture in which mathematics,
+quantum physics, chemical structure, heredity, organism, and evolution are all
+symbolic constructions constrained by invariance, measurement, morphology, and
+unresolved life-world pressure.
+
+Use-limit:
+
+Weyl does not give a completed philosophy of life or mind. He gives the
+disciplined shape of the unsolved problem: life, freedom, and inward
+understanding must be represented without being reduced to mechanism or
+promoted into unsupported vitalist agencies.
 
 ## Promoted Scope
 
 Promoted now:
 
-- chapter II, `Zahl und Kontinuum. Das Unendliche`
-- sections `5-11`
-- printed pages `47-90`
-- source-local parts `006-012`
+- full source-local encounter campaign, parts `001-030`
+- mathematics I-III as symbolic construction, infinite, continuum, invariance,
+  and geometry
+- natural science I-III as reality-contact, measurement, theory-formation,
+  matter, causality, chance, freedom, and world-picture
+- appendices A-F as the post-main-text test layer: Gödel/Gentzen,
+  combinatorics, quantum causality, chemical valence, physics/biology, and
+  evolution
 
-Held below promotion:
+Still not promoted:
 
-- the full book as a translation project
-- chapter I except as support for chapter II
-- the physics chapters until a source-local campaign has actually worked them
-- any stable cross-project claim about Weyl's relation to Cassirer, Peirce,
-  Lotman, biosemiotics, or mathematical structuralism
+- a publication translation
+- a modern technical account of quantum mechanics, genetics, or evolution
+- a settled metaphysics of life, freedom, or mind
+- broad comparisons to Cassirer, Peirce, Lotman, Hoffmeyer, or later
+  structuralism unless a separate source-local encounter earns them
 
 ## Structure
 
 ```text
 source/
-  anchors.yaml       # promoted chapter-II anchors and source-local pointers
+  anchors.yaml
 dossiers/
   chapter-ii-number-continuum-infinite.md
+  diagrams-mediation-hierarchy.md
+  invariance-geometry-objectivity.md
+  life-heredity-evolution.md
+  matter-causality-chance-freedom.md
+  measurement-theory-reality-contact.md
 threads/
   symbolic-access-to-totality.md
 journal.md
@@ -46,21 +71,24 @@ journal.md
 
 ## Working Rule
 
-Use this dossier when Weyl is needed as a stable project-side reference. Use the
-source-local files when the question depends on exact German, formula notation,
-page images, translation decisions, or unresolved glossary pressure.
+Use this promoted dossier when Weyl is needed as a stable project-side
+reference. Use the source-local files when the question depends on exact
+German, page images, formula notation, translation decisions, or unresolved
+glossary pressure.
 
-The promoted claim is deliberately narrow:
+The shortest reusable rule:
 
-> Mathematics makes the finite-infinite tension fruitful, but the theoretical
-> need for totality can be satisfied only in symbol, not by pretending the
-> transcendent has become directly visible.
+> Build the structure first. Only then ask what development, life, freedom, or
+> meaning it can carry.
 
-## Next Legitimate Moves
+## Source Authority
 
-- Continue source-local work into the physics chapters if Weyl is needed for
-  theoretical formation, natural science, or objectivity.
-- Use `thread:symbolic-access-to-totality` as a tentative bridge only when a
-  later source creates real demand.
-- Do not expand this into a full `texts/` translation environment unless more
-  of the book earns the same level of source-local preparation.
+Primary source-local authorities:
+
+- `sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/`
+- `sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/glossary.yaml`
+- `sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/synthesis/2026-05-11-whole-book-synthesis.md`
+- `sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/state-completion-audit.md`
+
+The promoted object should stay small. It is an index and synthesis surface,
+not the place to redo source-local translation work.

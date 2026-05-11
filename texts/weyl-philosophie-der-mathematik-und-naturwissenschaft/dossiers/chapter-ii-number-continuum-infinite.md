@@ -72,13 +72,13 @@ That matters for current repo pressure around:
 - scientific models as theoretical formations rather than passive mirrors
 - the relation between intuition, construction, and formal discipline
 
-## Chapter III Pressure
+## Later-Book Pressure
 
-The source-local chapter-III campaign strengthens rather than weakens this
-dossier. Geometry shows how symbolic construction becomes objective in a more
-specific way: through invariance under transformation groups, coordinate frames
-whose arbitrariness is controlled, and physical fields that connect formal
-structure back to matter.
+The completed source-local campaign strengthens rather than weakens this
+dossier. Geometry shows how symbolic construction becomes objective through
+invariance under transformation groups, coordinate frames whose arbitrariness
+is controlled, and physical fields that connect formal structure back to
+matter.
 
 The chapter-II claim should therefore be read with one added constraint:
 symbolic access to totality is not enough by itself. In geometry and physics,
@@ -86,6 +86,16 @@ the symbolic system must also define the transformations under which its claims
 remain invariant. Chapter III adds the bridge from symbolic discipline to
 objectivity by invariance and then to physics through the metric field and
 local-frame quantities `eᵢᵦ`.
+
+The natural-science chapters add a second constraint. Symbolic construction
+must be measurable, concept-generating, experiment-coupled, and correctable as
+a whole theory-system. It must return to possible givenness without pretending
+that objective theory is itself direct intuition.
+
+The appendices add a third constraint. Symbolic construction must survive
+theoretical deepening: post-Gödel mathematics, quantum probability, chemical
+valence, genetics, biology, and evolution all revise the early chapter-II
+claim without overturning it.
 
 ## Rival Reading
 
@@ -105,20 +115,21 @@ different stances toward the passage from the given to the transcendent.
 
 ## Weakening Evidence
 
-This dossier should be weakened or revised if later source-local work shows
+This dossier should be weakened or revised if future cross-project reuse shows
 that:
 
-- Weyl abandons the symbolic-discipline position in the physics chapters.
-- The physics chapters make consistency merely secondary and replace it with a
-  different criterion for theoretical systems.
 - Later passages show `Wissenschaft vom Unendlichen` to be rhetorical rather
   than structurally load-bearing.
 - Cross-project reuse turns the thread into a generic "symbols are important"
   claim rather than the stricter Weylian claim about totality, transcendence,
   and discipline.
+- The full-book dossier starts treating chapter II as sufficient by itself
+  rather than as the entry point into geometry, physics, biology, and the
+  appendices.
 
 ## Use Limits
 
-Do not use this dossier as evidence that Weyl has been fully ingested. It
-licenses chapter-II reuse only. Exact formula notation, the Dutch Brouwer
-quotation, and the full German remain source-local and page-image-bound.
+Do not use this dossier by itself as the whole Weyl claim. It remains the
+mathematical core, not the completed architecture. Exact formula notation, the
+Dutch Brouwer quotation, and the full German remain source-local and
+page-image-bound.

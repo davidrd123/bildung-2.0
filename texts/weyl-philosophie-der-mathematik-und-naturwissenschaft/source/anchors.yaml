@@ -1,6 +1,6 @@
-# Promoted anchor manifest for the minimal Weyl dossier.
-# Authority for German text, page images, translations, and full glossary
-# pressure remains in the source-local scaffold named below.
+# Promoted anchor manifest for the full Weyl dossier.
+# Authority for German text, page images, translations, and glossary pressure
+# remains in the source-local scaffold named below.
 # Paths are repo-root relative unless otherwise noted.
 
 project:
@@ -9,80 +9,145 @@ project:
   title: Philosophie der Mathematik und Naturwissenschaft
   author: Hermann Weyl
   edition: 8. Auflage
-  status: minimal_promoted_dossier
+  status: promoted_full_dossier
   promoted_on: 2026-05-08
+  upgraded_on: 2026-05-11
 
 authority:
   source_local_root: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft
   source_manifest: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/source/sections.yaml
-  cleaned_chapter_ii: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/source/cleaned/009-math-02-zahl-und-kontinuum.txt
   source_glossary: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/glossary.yaml
   source_journal: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/journal.md
-  source_synthesis: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/synthesis/2026-05-08-chapter-ii-campaign-synthesis.md
-  authority_note: Source-local files remain authoritative for exact text and translation decisions.
+  completion_audit: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/state-completion-audit.md
+  whole_book_synthesis: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/synthesis/2026-05-11-whole-book-synthesis.md
+  appendix_synthesis: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/synthesis/2026-05-11-appendices-a-f-synthesis.md
+  authority_note: Source-local files remain authoritative for exact text, page-image checks, and translation decisions.
 
 promoted_scope:
-  handle: "weyl:math-02"
-  title: "II. Zahl und Kontinuum. Das Unendliche"
-  kind: chapter
+  handle: "weyl:whole"
+  kind: full_source_local_campaign
   status: promoted_working_dossier
-  printed_pages: "47-90"
-  pdf_pages: "48-91"
-  source_cleaned_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/source/cleaned/009-math-02-zahl-und-kontinuum.txt
-  dossier: texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/dossiers/chapter-ii-number-continuum-infinite.md
+  encounter_parts: "001-030"
+  cleaned_files: "007-019"
+  claim: disciplined symbolic access to reality through construction, invariance, measurement, theory-level correction, morphology, and unresolved life-world pressure
+
+dossiers:
+  - handle: "weyl:dossier:infinite"
+    file: texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/dossiers/chapter-ii-number-continuum-infinite.md
+    role: mathematical core, infinite, continuum, and symbolic access
+  - handle: "weyl:dossier:invariance"
+    file: texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/dossiers/invariance-geometry-objectivity.md
+    role: geometry, invariance, and physical objectivity
+  - handle: "weyl:dossier:reality-contact"
+    file: texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/dossiers/measurement-theory-reality-contact.md
+    role: measurement, concept-formation, theory-formation, and experience
+  - handle: "weyl:dossier:world-picture"
+    file: texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/dossiers/matter-causality-chance-freedom.md
+    role: matter, causality, chance, freedom, and world-picture
+  - handle: "weyl:dossier:diagrams"
+    file: texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/dossiers/diagrams-mediation-hierarchy.md
+    role: diagrams, mediated structures, chemical valence, and hierarchy
+  - handle: "weyl:dossier:life"
+    file: texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/dossiers/life-heredity-evolution.md
+    role: heredity, organism, inward understanding, and evolution
+
+campaign_anchors:
+  - handle: "weyl:intro"
+    title: Einführung
+    parts: "001"
+    printed_pages: "15"
+    role: calibration of mathematics, nature, and philosophical scope
+  - handle: "weyl:math-01"
+    title: Mathematische Logik. Axiomatik
+    parts: "002-005"
+    printed_pages: "16-46"
+    role: relation, creative definition, proof, and axiomatics
+  - handle: "weyl:math-02"
+    title: Zahl und Kontinuum. Das Unendliche
+    parts: "006-012"
+    printed_pages: "47-90"
+    role: infinite, continuum, intuitionism, formalism, and symbolic totality
+  - handle: "weyl:math-03"
+    title: Geometrie
+    parts: "013-016"
+    printed_pages: "91-124"
+    role: geometry, invariance, transformation groups, and topology
+  - handle: "weyl:science-01"
+    title: Raum und Zeit. Die transzendente Außenwelt
+    parts: "017-019"
+    printed_pages: "125-176"
+    role: space-time, external world, subject/object, and intuitive space
+  - handle: "weyl:science-02"
+    title: Methodologie
+    parts: "020-022"
+    printed_pages: "177-209"
+    role: measurement, concept-formation, and theory-formation
+  - handle: "weyl:science-03"
+    title: Das Weltbild
+    parts: "023-024"
+    printed_pages: "210-278"
+    role: matter, causality, law, chance, freedom, and purposiveness
+  - handle: "weyl:appendices"
+    title: Appendices A-F
+    parts: "025-030"
+    printed_pages: "279-394"
+    role: post-main-text test layer for foundations, quantum theory, chemistry, biology, and evolution
 
 anchors:
   - handle: "weyl:math-02:5"
     label: "§5"
     title: "Rationale Zahlen. Das Komplexe"
     printed_pages: "47-51"
-    pdf_pages: "48-52"
     part_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/006-math-02-05-rationale-zahlen-das-komplexe.md
     role: ideal elements introduced by creative definition
   - handle: "weyl:math-02:6"
     label: "§6"
     title: "Die natürlichen Zahlen"
     printed_pages: "51-57"
-    pdf_pages: "52-58"
     part_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/007-math-02-06-die-natuerlichen-zahlen.md
     role: natural-number sequence and constructive continuation
   - handle: "weyl:math-02:7"
     label: "§7"
     title: "Das Irrationale und das Unendlichkleine"
     printed_pages: "57-65"
-    pdf_pages: "58-66"
     part_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md
     role: continuum as the hard case for objectification
   - handle: "weyl:math-02:8"
     label: "§8"
     title: "Die Mengenlehre"
     printed_pages: "66-71"
-    pdf_pages: "67-72"
     part_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/009-math-02-08-die-mengenlehre.md
     role: set-theoretic objectification of possible sequences, subsets, and properties
   - handle: "weyl:math-02:9"
     label: "§9"
     title: "Intuitive Mathematik"
     printed_pages: "71-76"
-    pdf_pages: "72-77"
     part_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/010-math-02-09-intuitive-mathematik.md
     role: Brouwerian construction, choice sequence, and continuum as part-whole
   - handle: "weyl:math-02:10"
     label: "§10"
     title: "Symbolische Mathematik"
     printed_pages: "76-85"
-    pdf_pages: "77-86"
     part_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/011-math-02-10-symbolische-mathematik.md
     role: Hilbertian formalism as consistency rescue rather than truth rescue
   - handle: "weyl:math-02:11"
     label: "§11"
     title: "Über das Wesen der mathematischen Erkenntnis"
     printed_pages: "85-90"
-    pdf_pages: "86-91"
     part_file: sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft/parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md
-    role: epistemological classification and chapter synthesis
+    role: epistemological classification and mathematics as science of the infinite
 
 promoted_claims:
+  - id: disciplined-symbolic-access
+    status: promoted
+    anchors:
+      - "weyl:math-02"
+      - "weyl:math-03"
+      - "weyl:science-01"
+      - "weyl:science-02"
+      - "weyl:science-03"
+      - "weyl:appendices"
+    summary: "Symbolic construction earns reality only through discipline: construction, invariance, measurement, theory-level correction, morphology, and source-specific limits."
   - id: science-of-the-infinite
     status: promoted
     anchors:
@@ -92,22 +157,23 @@ promoted_claims:
       - "weyl:math-02:10"
       - "weyl:math-02:11"
     summary: Mathematics is a science of the infinite because the finite-infinite tension is where construction, intuition, symbol, and reality meet.
-  - id: symbolic-access-to-totality
-    status: tentative_thread
-    thread: "thread:symbolic-access-to-totality"
+  - id: diagrams-need-levels
+    status: promoted
     anchors:
-      - "weyl:math-02:8"
-      - "weyl:math-02:9"
-      - "weyl:math-02:10"
-      - "weyl:math-02:11"
-    summary: Totality is a real theoretical need, but Weyl's chapter disciplines it through symbolic representation rather than direct intuitive possession.
+      - "weyl:appendices"
+    summary: Diagrams are valuable when their mediating level is explicit; a diagram becomes dangerous when it forgets the structure beneath it.
+  - id: evolution-as-capstone
+    status: promoted_open
+    anchors:
+      - "weyl:appendices"
+    summary: Evolution is not the foundation of explanation but the capstone reached after law, morphology, and inner constitution are known.
 
 threads:
   - handle: "thread:symbolic-access-to-totality"
-    status: tentative
+    status: promoted_open
     file: texts/weyl-philosophie-der-mathematik-und-naturwissenschaft/threads/symbolic-access-to-totality.md
     grounded_in:
-      - "weyl:math-02:8"
-      - "weyl:math-02:9"
-      - "weyl:math-02:10"
-      - "weyl:math-02:11"
+      - "weyl:math-02"
+      - "weyl:math-03"
+      - "weyl:science-02"
+      - "weyl:appendices"
