@@ -1413,3 +1413,553 @@ Next batch:
 - section 23 should complete natural-science part III and allow a synthesis of
   Weyl's world-picture around matter, field, substance, causality, chance, and
   freedom
+
+## 2026-05-11 - Part 024: Causality, Law, Chance, Freedom
+
+Translated section 23, `Kausalität (Gesetz, Zufall, Freiheit)`, completing
+natural-science part III, `Das Weltbild`.
+
+Scope:
+
+- section 23 begins at the bottom of printed page 239 / PDF page 240
+- it ends with its literature list on printed page 276 / PDF page 277
+- PDF pages 278-279 carry the appendix divider and a blank page
+
+Source corrections:
+
+- visually checked page images `page-0240.jpg` through `page-0279.jpg`
+- repaired damaged quotation marks in Kant, Hume, Newton, Helmholtz, Leibniz,
+  Laplace, Kepler, Schelling, Fichte, and the closing Cassirer/Husserl passage
+- corrected probability, statistics, time, and field notation including `D₁`,
+  `D₂`, `N'`, `N'/N`, `W(ε, N)`, `ε√N`, `t → ∞`, `t_G/t`, `vᵢ`,
+  `a₁v₁ + a₂v₂ + a₃v₃ = 0`, `k · log D`, `3,2983 · 10⁻²⁴ cal/°C`, `ψ`,
+  `t + Δt`, `t - Δt`, `S`, and `S'`
+- corrected French and bibliographic residue in Laplace, Poincaré, Rosenfeld,
+  Gonseth, Laplace's `Théorie analytique des probabilités`, Bergson,
+  Whitehead, Cohen, Eddington, and the final encyclopedia entry
+- normalized OCR scars including `Kausalstruktur`, `Liénard-Wiechertsche`,
+  `Lemaître`, `élan vital`, `Vitalkraft`, `Husserl`, `Das Erkenntnisproblem`,
+  `z. B.`, `a. a. O.`, and `umfassenderer historischer Studien`
+
+What the batch clarified:
+
+- causal law is not an empirical induction but a methodological norm: the
+  demand to understand everything
+- function-laws do not by themselves give causality, because they are
+  indifferent to the direction between determinant and determined
+- the causal cut between conditions and event is partly practical and
+  agent-indexed; experimental control and will are not incidental examples
+- relativity gives causality a factual physical form as causal structure:
+  light cones replace simultaneity slices and break Kant's third analogy of
+  simultaneous community
+- probability becomes an original concept beside strict law, not merely a
+  shorthand for ignorance
+- entropy explains time-direction only through probability judgments oriented
+  by the causal stance that treats the earlier as the given ground of the
+  later
+- freedom is not rescued by breaking natural laws; the open place lies where
+  being is open to sense in the I
+- biological purposiveness is neither solved by naming it nor dismissed as
+  projection; it is a problem-setting feature that causal biology must first
+  recognize and then explain
+- Weyl rejects both vitalism and crude reduction: biology is autonomous through
+  laws of specific complication while remaining continuous with scientific
+  method
+- the real boundary of natural science is the double position of the I as
+  natural individual and meaning-giving consciousness
+
+Translation decisions:
+
+- `Kausalität` is `causality`
+- `Funktionalgesetz` is `function-law`
+- `Kausalstruktur` is `causal structure`
+- `Zufall` is `chance`
+- `Wahrscheinlichkeit` is `probability`
+- `Wahrscheinlichkeitsurteil` is `probability judgment`
+- `Einsinnigkeit der Zeit` is `one-directionality of time`
+- `Schöpfung` is `creation`, with structural rather than theological force
+- `Freiheit` is `freedom`
+- `Zweckmäßigkeit` is `purposiveness`
+- `Ganzheit` is `wholeness`
+- `Gesetze spezifischer Komplikation` is `laws of specific complication`
+- `Doppelstellung des Ich` is `double position of the I`
+- `Gesicht` is provisionally `vision`, with the German preserved when quoting
+
+Part-III synthesis:
+
+- wrote `synthesis/2026-05-11-natural-science-iii-world-picture-synthesis.md`
+- synthesis decision: treat natural-science part III as source-local complete,
+  but wait on final promoted natural-science dossier until the appendices have
+  been encountered
+
+Next batch:
+
+- begin appendix A, `Struktur der Mathematik`, in
+  `014-appendix-a-struktur-der-mathematik.txt`
+- guiding question: what does the 1940s appendix layer revise or sharpen from
+  the main text?
+
+## 2026-05-11 - Part 025: Appendix A, The Structure of Mathematics
+
+Completed Appendix A, `Die Struktur der Mathematik`, as the first appendix
+encounter.
+
+Scope:
+
+- printed pages 279-302 / PDF page images `page-0280.jpg` through
+  `page-0303.jpg`
+- source file:
+  `source/cleaned/014-appendix-a-struktur-der-mathematik.txt`
+- encounter file:
+  `parts/025-appendix-a-struktur-der-mathematik.md`
+
+Source corrections:
+
+- visually checked the appendix range against page images, using temporary OCR
+  only as a comparison aid
+- repaired the §10 formalism update around the deleted operator `Z` and rule
+  `Z1; Z𝔟 → Z(σ𝔟)`
+- corrected quantifier/choice notation including `Πₓ`, `Σₓ`, `εₓ`, `Σᵧ`,
+  `εᵧ`, `D(y, s(z, x))`, and `ΣᵧD(y, s(γ,γ))`
+- restored Cantor diagonal sequence notation around `R^(μ)`,
+  `r₁^(μ) r₂^(μ)`, `Q = q₁ q₂ q₃ ...`, and the diagonal inequalities
+- normalized Gödel-numbering notation around `κᵢ`, `νᵢ`,
+  `Πᵢπᵢ^κᵢ`, `Πᵢπᵢ^νᵢ`, substitution functions, proof numbers, and
+  characteristic numbers
+- checked the Russell/Zermelo/Brouwer/Gödel close and bibliography residue
+
+What the batch clarified:
+
+- Appendix A is a post-Gödel correction to the main text, not a detached
+  technical supplement
+- Hilbert's proof-theoretic hope is no longer a live path to final certainty;
+  Gödel leaves mathematics with disciplined but revisable foundations
+- insight and deduction overlap without either containing the other
+- arithmetization makes the natural numbers both the constructive home ground
+  and the medium in which formal systems reveal incompleteness
+- Zermelo set theory is a powerful pragmatic symptom-cure, not a cure of the
+  foundational disease
+- Brouwer's deepest diagnosis remains decisive for Weyl: the open infinite has
+  been mistaken for a closed domain of things
+- Gödelian realism is a serious rival, but Weyl accepts realism only in the
+  cautious, physics-like sense of theoretical construction of the one real
+  world
+
+Translation decisions:
+
+- `Beweistheorie` is `proof theory`
+- `finitistisch` is `finitistic`
+- `Diagonalverfahren` is `diagonal procedure`
+- `Arithmetisierung` is `arithmetization`
+- `Charakteristik` is `characteristic number`
+- `Lügnerparadoxon` is `liar paradox`
+- `Auswahlaxiom` is `selection axiom` in context, with a note against simple
+  collapse into the modern axiom of choice
+- `Typenlehre` is `theory of types`
+- `Reduzibilitätsaxiom` is `axiom of reducibility`
+- `Sündenfall und Erbsünde der Mengentheorie` is `fall and original sin of set
+  theory`
+- `theoretische Konstruktion der einen realen Welt` is `theoretical
+  construction of the one real world`
+
+Next batch:
+
+- continue with appendix B, `Ars combinatoria`
+- decide whether it materially changes the symbolic-construction thread or
+  mainly supplies historical/Leibnizian background
+
+## 2026-05-11 - Part 026: Appendix B, Ars Combinatoria
+
+Completed Appendix B, `Ars Combinatoria`, as a source-local encounter.
+
+Scope:
+
+- printed pages 303-323 / PDF page images `page-0304.jpg` through
+  `page-0324.jpg`
+- source file:
+  `source/cleaned/015-appendix-b-ars-combinatoria.txt`
+- encounter file:
+  `parts/026-appendix-b-ars-combinatoria.md`
+
+Source corrections:
+
+- visually checked the appendix range against page images
+- normalized partition notation around `S₁`, `S₂`, `n₁`, `n₂`, `nₖ`, and
+  binomial expressions
+- normalized equivalence-class/effective-state notation including `Cᵢ`, `nᵢ`,
+  `n_C`, `n_G`, and `n_G*`
+- repaired genetics notation around `Ω₁`, `Ω₂`, `S′`, `S″`, `S*′`,
+  `γ(S′)`, syngamy, meiosis, and complementary gametes
+- normalized quantum occupation notation including `ν_α`, `n_α`, `hν_α`,
+  and `Σ_α n_α · hν_α`
+- corrected complex/chromosome notation including `K₁`, `K₂`, `K₀`, `K₀*`,
+  `K̄₀`, and `K̄₀*`
+- normalized statistical-thermodynamic notation including `Uᵢ`, `Nᵢ/N`,
+  `wᵢ`, `Zᵢ`, `Σᵢ`, `⟨Z⟩_α`, `wᵢₖ`, and `w = w⁰ · e^{-U/kT}`
+
+What the batch clarified:
+
+- Appendix B is the natural-science bridge from formal symbolic structure into
+  individuation, probability, genetics, quantum statistics, and thermodynamics
+- objectivity appears as invariance under arbitrary relabeling
+- probability depends on the individuation scheme that decides what counts as a
+  different case
+- genetics gives Weyl a domain where combinatorics is real but not final:
+  genotype/environment, gene/allele, syngamy/meiosis, and point/structure
+  mutation all become progressively sharpened by theory
+- photons and electrons force a non-classical account of individuality;
+  Weyl's striking conclusion is that physics confirms the Mutakallimun in a
+  precise sense
+- Bose-Einstein and Fermi-Dirac statistics become philosophical evidence about
+  identity, not just physical counting rules
+- the canonical distribution supplies the counting infrastructure behind the
+  earlier entropy/probability discussion and prepares Appendix C
+
+Translation decisions:
+
+- `Aggregat` is `aggregate`
+- `Komplex` is `complex`
+- `Individuation` is `individuation`
+- `Relativitätsprinzip` is `relativity principle`
+- `Invarianzpostulat` is `invariance postulate`
+- `monomisches Aggregat` is `monomic aggregate`
+- `Genotypus` is `genotype`
+- `Phänotypus` is `phenotype`
+- `Syngamie` is `syngamy`
+- `Meiosis` is `meiosis`
+- `Pauliverbot` is `Pauli exclusion principle`
+- `Positions-Effekt` is `position effect`
+- `Überkreuzen` is `crossing-over`
+- `kanonische Verteilung` is `canonical distribution`
+- `statistische Temperatur` is `statistical temperature`
+
+Next batch:
+
+- continue with appendix C, `Quantenphysik und Kausalität`
+- ask how quantum causality changes or sharpens section 23's account of law,
+  chance, and freedom
+
+## 2026-05-11 - Part 027: Appendix C, Quantum Physics and Causality
+
+Completed Appendix C, `Quantenphysik und Kausalität`, as a source-local
+encounter.
+
+Scope:
+
+- printed pages 324-340 / PDF page images `page-0325.jpg` through
+  `page-0341.jpg`
+- source file:
+  `source/cleaned/016-appendix-c-quantenphysik-und-kausalitaet.txt`
+- encounter file:
+  `parts/027-appendix-c-quantenphysik-und-kausalitaet.md`
+
+Source corrections:
+
+- visually checked the appendix range against page images
+- repaired photoelectric-effect notation around `ν`, `hν`, `ν = eV/h`, and
+  Planck's constant `h`
+- normalized polarization and Stern-Gerlach notation around `z⃗`, `s⃗`, `s₁`,
+  `s₂`, `mₓ`, `+μ`, and `—μ`
+- normalized classical sieve/grid notation including `MM = M`, `FF = F`,
+  `MF = FM = 0`, `E₁ ... Eᵣ`, `EᵢEₖ′`, and `αᵢ`
+- normalized vector-space, projection, probability, and noncommuting-grid
+  notation including `x⃗`, `Eᵢx⃗`, `pᵢ = |Eᵢx⃗|² / |x⃗|²`, `G`, and `G′`
+- repaired dynamical-law, Schrödinger, energy-operator, system-enlargement, and
+  product-space/tensor notation
+- preserved the printed `Elektronenschauer` sentence while noting its local
+  awkwardness in the encounter note
+
+What the batch clarified:
+
+- Appendix C is the explicit quantum correction to section 23, not a detached
+  technical appendix
+- Weyl relocates rather than abolishes causality: the wave-state evolves under
+  strict law, while the relation between wave-state and quantum-state is only
+  probabilistically determined
+- measurement is a principled intervention, so the section-17/section-20
+  subject/object problem receives a physical rather than merely epistemological
+  form
+- noncommuting grids give Weyl a precise reason why classical `and/or` logic
+  fails for incompatible quantum features
+- the Hilbert analogy returns inside physics: unobserved process is formalism
+  without intuitive interpretation; concrete measurement is the meaningful
+  point of contact
+- product spaces give Weyl a precise whole/part argument: the whole has more
+  possible wave-states than products of separately assignable part-states
+- the arrow of time remains thermodynamic-statistical; spontaneous emission,
+  unlike induced processes, is asymmetric toward the future
+
+Translation decisions:
+
+- `Kausalbestimmung` is `causal determination`
+- `Wellenzustand` is `wave-state`
+- `Quantenzustand` is `quantum state`
+- `Sieb` is `sieve`
+- `Gitter` is `grid`, with `sieve` retained when Weyl is using Eddington's
+  metaphor
+- `Observable` is `observable`
+- `vertauschbar` is `commuting`
+- `unverträglich` is `incompatible`
+- `Unbestimmtheitsprinzip` is `uncertainty principle`
+- `Quantenlogik` is `quantum logic`
+- `primäre Wahrscheinlichkeit` is `primary probability`
+- `Antisymmetrie` is `antisymmetry`
+- `Zerstrahlung` is preserved when naming Dirac's term and glossed as
+  annihilation with photon emission
+- `spontane Emission / erzwungene Emission` is `spontaneous emission / induced
+  emission`
+
+Next batch:
+
+- continue with appendix D, `Chemische Valenz`
+- decide whether Appendix D mainly extends the quantum-bonding line from
+  Appendix C or materially changes the biology/organism pressure for Appendix E
+
+## 2026-05-11 - Part 028: Appendix D, Chemical Valence and the Hierarchy of Structures
+
+Completed Appendix D, `Die chemische Valenz und die Hierarchie der Strukturen`,
+as a source-local encounter.
+
+Scope:
+
+- printed pages 341-353 / PDF page images `page-0342.jpg` through
+  `page-0354.jpg`
+- source file:
+  `source/cleaned/017-appendix-d-chemische-valenz.txt`
+- encounter file:
+  `parts/028-appendix-d-chemische-valenz.md`
+
+Source corrections:
+
+- visually checked the appendix range against page images
+- normalized spin/wave-function notation around `ψ(P)`, `ψ(P₁, ..., P_f)`,
+  `ψ(Pρ)`, `ψ_+(P)`, `ψ_−(P)`, and `φ(ρ₁, ..., ρ_f)`
+- repaired spin-variable algebra around `φ_g`, `φ_f`, `φ_{f−1}`, `φ_0`,
+  `2^f`, `x_+`, `x_-`, and the symmetric-function summation formula
+- normalized transformation and invariant notation around `x′_+`, `x′_-`,
+  `f_a`, `f_b`, `O_a`, `O_b`, `ν_0`, `Π_v`, `n_v`, and `Σ_v n_v(v + 1)`
+- repaired bracket-factor and two-atom valence formulas including
+  `[xy] = x_+y_- − x_-y_+`, `[xy]^d [xl]^{a−d} [yl]^{b−d}`, and `λ`
+- normalized benzene-resonance notation around `A`, `A′`, `B₁`, `B₂`, `B₃`,
+  `β₁`, `β₂`, `β₃`, and `√13`
+- corrected the hierarchy markers `α`, `β`, `γ`, the Sylvester footnote, the
+  Cusanus sentence, and final combinatorics/biology residue
+
+What the batch clarified:
+
+- Appendix D makes `Tieferlegung der Fundamente` a methodological rule:
+  chemical valence diagrams are useful structures, but their foundation has
+  been lowered into quantum mechanics
+- valence is not a primitive line-count; it is grounded in electron spin,
+  antisymmetry, and permutation-symmetry structure
+- invariant theory supplies the middle layer between quantum mechanics and
+  classical chemical diagrams
+- Kekulé diagrams survive as monomial invariant diagrams, not as literal final
+  pictures of molecular reality
+- benzene resonance shows the principle in a concrete case: the stable state is
+  a linear combination involving Kekulé and Dewar diagram terms
+- Weyl's hierarchy is `α` quantum mechanics, `β` binary invariant manifolds,
+  `γ` valence diagrams; history descends `γ → β → α`, while explanation rises
+  from the deeper layer
+- the appendix gives a project-relevant rule for diagrams: draw the provisional
+  symbol sharply, but do not forget the layer where it has validity
+- genetics is explicitly placed under the same caution; gene aggregates and
+  chromosomal linkages are provisional combinatorial schemata awaiting a deeper
+  physical mediation
+
+Translation decisions:
+
+- `chemische Valenz` is `chemical valence`
+- `Valenzstrich` is `valence line`
+- `Valenzdiagramm` is `valence diagram`
+- `Tieferlegung der Fundamente` is `deepening/lowering of the foundations`,
+  with the German preserved
+- `Hierarchie der Strukturen` is `hierarchy of structures`
+- `Elektronenspin` is `electron spin`
+- `Spinordarstellung` is `spinor representation`
+- `Klammerfaktor` is `bracket factor`
+- `monomische Invariante` is `monomial invariant`
+- `reiner Valenzzustand` is `pure valence state`
+- `Permutationsresonanz` is `permutation resonance`
+- `quantenmechanische Resonanz` is `quantum-mechanical resonance`
+- `Strukturchemie` is `structural chemistry`
+- `Genaggregate` is `gene aggregates`
+
+Next batch:
+
+- continue with Appendix E, `Physik und Biologie`
+- ask whether the biology appendix supplies the missing mediating structure
+  Weyl says would have to stand between genetic diagrams and quantum mechanics
+
+## 2026-05-11 - Part 029: Appendix E, Physics and Biology
+
+Completed Appendix E, `Physik und Biologie`, as a source-local encounter.
+
+Scope:
+
+- printed pages 354-367 / PDF page images `page-0355.jpg` through
+  `page-0368.jpg`
+- source file:
+  `source/cleaned/018-appendix-e-physik-und-biologie.txt`
+- encounter file:
+  `parts/029-appendix-e-physik-und-biologie.md`
+
+Source corrections:
+
+- visually checked the appendix range against page images
+- normalized Timofeeff-Ressowsky hyphenation in the Delbrück model note
+- repaired target-volume notation around `5 bis 10 Å³`
+- cleaned the nested Jordan quotation around the `Zentren` of life
+- normalized `d. h.` and source-status metadata
+- preserved the printed `Verdauungsorgane` in the Delbrück self-duplication
+  sentence after direct image check
+- preserved Bohr's awkward fatal-observation sentence after direct image check
+
+What the batch clarified:
+
+- Appendix E supplies the biology bridge promised by Appendix D but does not
+  pretend the mediation is complete
+- Weyl rejects a holist reversal of scientific method while keeping biological
+  wholeness as a real problem
+- the gene becomes the provisional last unit of life because of
+  self-duplication, and viruses sharpen the border between living and
+  nonliving matter
+- quantum physics matters biologically when small atomic groups exert
+  organism-scale control effects
+- induced mutation gives the central case: single ionization hits make quantum
+  events macroscopically hereditary
+- Delbrück's model is not final, but it fixes the direction: genes are complex
+  molecules and mutations are linked with quantum jumps
+- Schrödinger's aperiodic crystal gives Weyl the image of order from
+  small-scale order, not thermodynamic order from disorder
+- biological freedom is not solved by punching a hole in causality; vital,
+  psychic, and spiritual factors would need symbolic representation inside a
+  theory of reality
+- `Verstehen von innen her` is a legitimate guide to life-problems but cannot
+  replace objective constructive theory
+- constructive theory has the freedom of the `hohle Symbol`; inward
+  understanding is concrete and full, but less generative
+
+Translation decisions:
+
+- `Selbst-Verdoppelung` is `self-duplication`
+- `Nuklein-Protein` is `nuclein-protein`
+- `Akausalität` is `acausality`
+- `Steuereffekt` is `control effect`
+- `Einzeltreffer` is `single hit`
+- `Zielscheibe` is `target`
+- `Delbrücksches Modell` is `Delbrück model`
+- `rezessive Letale` is `recessive lethals`
+- `Miniaturkodex` is `miniature code`
+- `Entwicklungsplan` is `developmental plan`
+- `aperiodischer Kristall` is `aperiodic crystal`
+- `mikrophysikalische Freiheit` is `microphysical freedom`
+- `biologisches Unbestimmtheitsprinzip` is `biological uncertainty principle`
+- `Verstehen von innen her` is `understanding from within`
+- `hohles Symbol` is `empty symbol`
+
+Next batch:
+
+- continue with Appendix F, `Die physische Welt und die Welt des Lebens`
+- decide whether Appendix F closes Appendix E's biology bridge or moves into a
+  broader world/life synthesis
+
+## 2026-05-11 - Part 030: Appendix F, Physical World, Form, and Development
+
+Completed Appendix F, `Die Haupteigenschaften der physischen Welt; Gestalt und
+Entwicklung`, as a source-local encounter.
+
+Scope:
+
+- printed pages 368-391 for appendix text and literature, with blank/register
+  divider pages through printed page 394
+- PDF page images `page-0369.jpg` through `page-0395.jpg`
+- source file:
+  `source/cleaned/019-appendix-f-physische-welt.txt`
+- encounter file:
+  `parts/030-appendix-f-physische-welt.md`
+
+Source corrections:
+
+- visually checked the appendix range against page images
+- normalized Shaw epigraph and literature title as `Back to Methuselah`,
+  `Act. I.`
+- repaired gravitational scale notation around `ε ≈ 10⁻⁴¹`
+- repaired crystallography vector and subscript notation around `e⃗₁`,
+  `e⃗₂`, `e⃗₃`, `x₁e⃗₁ + x₂e⃗₂ + x₃e⃗₃`, `(x₁, x₂, x₃)`, and `U⁻¹`
+- removed page-break hyphenation residues around `Ansichten`, `einfache`,
+  `kontinuierliche`, `komplexer`, and `beschreiben`
+
+What the batch clarified:
+
+- Appendix F broadens Appendix E rather than merely closing it
+- evolution is not Weyl's foundation of explanation; it is the `Schlußstein`
+  reached after law, morphology, and inner constitution
+- classification and morphology remain legitimate scientific work because
+  they identify stable forms before causal decomposition is possible
+- `morphe` names the primary structures where science first finds order:
+  pronounced forms, regularities, sequences, and relative permanence
+- the physical-constant discussion leaves `e`, `α`, `ε`, and world-scale
+  numerical relations as open mysteries rather than solved constants
+- crystallography gives the formal model for hidden atomic structure behind
+  visible form: `G`, `g`, `L`, and `𝔊`
+- the discrete/continuous contrast becomes a general morphology problem:
+  fixed constitution versus variable environment
+- living form intensifies the same constitution/environment schema through
+  genetic constitution and organismic elasticity
+- Darwinism is corrected by genetics: recombination and mutation replace
+  continuous hereditary variation, while selection acts on genotypic systems
+- origin-of-life hypotheses remain valuable but speculative, whether through
+  Jordan's creative chance or Oparin's protogenes
+- teleological plan-pressure is kept visible but not promoted into explanation
+  of concrete biology
+
+Translation decisions:
+
+- `Evolution` is `evolution`, but keep Weyl's methodological claim that it is
+  `Schlußstein`, not foundation
+- `morphe` is preserved and glossed as form or primary structure
+- `absolute Naturkonstanten` is `absolute natural constants`
+- `Elementarladung` is `elementary charge`
+- `Ordnung / Beharrlichkeit` is `order / persistence`
+- `Kristallstruktur` is `crystal structure`
+- `diskret / kontinuierlich` is `discrete / continuous`
+- `Konstitution / Umgebung` is `constitution / environment`
+- `nisus formativus` is preserved
+- `Kosmogonie` is `cosmogony`
+- `Ontogenese / Phylogenese` is `ontogeny / phylogeny`
+- `partikuläre Erblichkeit` is `particulate inheritance`
+- `Polyploidie` is `polyploidy`
+- `Protogene` is `protogenes`
+- `schöpferische Zufälle` is `creative chances`
+- `Baupläne` is `plans` or `structural plans`
+
+Next batch:
+
+- write appendix synthesis across Appendices A-F
+- then write whole-book synthesis and promote only the claims earned by the
+  complete source-local campaign
+
+## 2026-05-11 - Appendix and Whole-Book Synthesis
+
+Closed the source-local ingestion campaign at the synthesis layer.
+
+New synthesis files:
+
+- `synthesis/2026-05-11-appendices-a-f-synthesis.md`
+- `synthesis/2026-05-11-whole-book-synthesis.md`
+
+Decision:
+
+- the appendices are Weyl's test layer, not weak supplementary material
+- the whole book now earns full promoted-dossier status in `texts/`
+- the promoted claim is disciplined symbolic access to reality through
+  construction, invariance, measurement, theory-level correction, morphology,
+  and explicit use-limits
+
+Promotion boundary:
+
+- source-local files remain authority for exact German, page images,
+  translations, glossary pressure, and section-level encounter details
+- the promoted object should remain an index and synthesis surface rather than
+  a replacement for the source-local campaign

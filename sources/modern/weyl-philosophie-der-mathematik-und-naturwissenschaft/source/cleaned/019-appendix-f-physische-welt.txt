@@ -4,7 +4,7 @@ Section ID: appendix-f-physische-welt
 Kind: appendix
 PDF pages: 369-395
 Printed pages: 368-394
-Status: OCR-derived cleaned draft; page images remain the authority.
+Status: visually corrected cleaned text; encounter complete in parts/030; page images remain the authority.
 
 [[pdf-page:0369 printed-page:368]]
 
@@ -19,7 +19,7 @@ to say you do not care. You do care. It is that care that will
 prompt your imagination; inflame your desires; make your will
 irresistible, and create out of nothing.
 
-The Serpent to Eve, in G. B. Shaw, Back to Methuselah, Act. 1.
+The Serpent to Eve, in G. B. Shaw, Back to Methuselah, Act. I.
 
 Farewell, farewell! but this I tell
 To thee, thou Wedding-Guest!
@@ -77,11 +77,11 @@ von den Tatsachen und Gesetzen bei weitem nicht, weder die
 ontogenetische Entwicklung noch die phylogenetische Evolution
 zu erklären. Ohne eine Grundlage wie das Newtonsche Gravitationsgesetz wären Hypothesen über den Ursprung der Planeten
 sinnlos. Nur auf Grund der spektroskopischen Sternuntersuchung
-und der Atomphysik, und erst nachdem wohlbegründete Ansich-
+und der Atomphysik, und erst nachdem wohlbegründete Ansichten
 
 [[pdf-page:0371 printed-page:370]]
 
-ten über die räumliche Ordnung des Sternuniversums aus der Bearbeitung von ausgedehntem Beobachtungsmaterial hergeleitet
+über die räumliche Ordnung des Sternuniversums aus der Bearbeitung von ausgedehntem Beobachtungsmaterial hergeleitet
 worden waren, konnten die Astronomen ein Bild zunächst von
 der inneren Konstitution und dann auch von der zeitlichen Entwicklung der Sterne zu zeichnen unternehmen. Die Kosmogonie
 ist immer noch ein ziemlich problematisches Unterfangen.
@@ -201,12 +201,12 @@ von einer weniger primitiven und universellen Natur als ihre Ladung zu sein. Die
 wie die Masse auf das Gravitationsfeld. In natürlichen Einheiten
 gemessen beträgt die Massenanziehung zweier Elektronen ε/r²,
 wo die reine Zahl ε einen Wert von ungefähr 10⁻⁴¹ hat. Dies ist
-noch schleierhafter als der Faktor α. Tatsächlich kann eine ein-
+noch schleierhafter als der Faktor α. Tatsächlich kann eine einfache
 
 [[pdf-page:0375 printed-page:374]]
 
-fache mathematische Theorie zu Zahlen wie 1/2 oder 8π führen,
-doch kaum zu einer dimensionslosen Zahl von der außergewöhnlichen Größenordnung 10⁴¹. Will man die Rotverschiebung der
+mathematische Theorie zu Zahlen wie 1/2 oder 8π führen,
+doch kaum zu einer dimensionslosen Zahl von der außergewöhnlichen Größenordnung 10⁻⁴¹. Will man die Rotverschiebung der
 Spektrallinien von Spiralnebeln mit dem kosmologischen Term in
 den Einsteinschen Gleichungen erklären, so gelangt man zu einem
 Weltradius von der Größenordnung 10²⁷ cm. In einer räumlich
@@ -290,11 +290,11 @@ atomare Gestalt, g die offenkundige makroskopische räumliche
 und physische Gestalt des Kristalls. Für g gibt es nur 32 verschiedene Möglichkeiten, während die möglichen G ein kontinuierliches Gewebe bilden.
 
 Es ist möglich, die durch die Gruppen G beschriebene atomare
-Symmetrie in eine rein diskontinuierliche und eine rein konti-
+Symmetrie in eine rein diskontinuierliche und eine rein kontinuierliche
 
 [[pdf-page:0378 printed-page:377]]
 
-nuierliche Komponente zu zerlegen. Da diese Dualität, diskret
+Komponente zu zerlegen. Da diese Dualität, diskret
 gegenüber kontinuierlich, von fundamentaler Bedeutung für alle
 morphologischen Untersuchungen und offensichtlich eng verknüpft ist mit der Unterscheidung zwischen „Natur“ und „Orientierung“, die wir auf Seite 117 zu charakterisieren versuchten, wie
 auch mit dem allgemeinen Gegensatz zwischen festem innerem
@@ -302,15 +302,15 @@ Aufbau und veränderlichen äußeren Bedingungen, so scheint es
 der Mühe wert, die gruppentheoretische Zergliederung der Kristallstruktur im einzelnen zu beschreiben.
 
 Die in G enthaltenen Translationen bilden eine Gruppe L, die aus
-drei unabhängigen Verschiebungen e1, e2, e3 erzeugt werden kann.
-Translationen sind Vektoren, und somit ist L das Parallelepiped-Vektorgitter, das aus allen Vektoren x1e1 + x2e2 + x3e3 mit ganzzahligen
-Koordinaten (x1, x2, x3) bezüglich der Basis e = (e1, e2, e3) besteht. Der
-Übergang von einer Gitterbasis e zu einer andern e* und der entgegengesetzte Übergang e* → e wird durch zwei reziproke lineare Substitutionen U, U⁻¹ der Variablen x1, x2, x3 mit ganzzahligen Koeffizienten
+drei unabhängigen Verschiebungen e⃗₁, e⃗₂, e⃗₃ erzeugt werden kann.
+Translationen sind Vektoren, und somit ist L das Parallelepiped-Vektorgitter, das aus allen Vektoren x₁e⃗₁ + x₂e⃗₂ + x₃e⃗₃ mit ganzzahligen
+Koordinaten (x₁, x₂, x₃) bezüglich der Basis e = (e⃗₁, e⃗₂, e⃗₃) besteht. Der
+Übergang von einer Gitterbasis e zu einer andern e* und der entgegengesetzte Übergang e* → e wird durch zwei reziproke lineare Substitutionen U, U⁻¹ der Variablen x₁, x₂, x₃ mit ganzzahligen Koeffizienten
 ausgeführt (unimodulare Substitutionen). Die Rotationsgruppe g läßt
 das Vektorgitter L invariant. Drückt man sie mit den „gitter-gemäßen“
 affinen Koordinaten aus, so erscheint sie als eine Gruppe g von homogenen linearen Substitutionen mit ganzzahligen Koeffizienten, und G
 erscheint als eine Gruppe 𝔊 von nichthomogenen linearen Substitutionen
-der Punktkoordinaten x1, x2, x3, die g im Vektorraum induziert, g =
+der Punktkoordinaten x₁, x₂, x₃, die g im Vektorraum induziert, g =
 {𝔊}. Angesichts der Willkür, die in der Wahl der Gitterbasis e liegt,
 müssen zwei auseinander durch eine unimodulare Transformation U
 entstehende Gruppen g als äquivalent betrachtet werden. In diesem
@@ -320,8 +320,8 @@ und, was die entscheidende Tatsache ist, auch nur eine endliche Anzahl,
 nämlich 230 Möglichkeiten für 𝔊. Aber etwas muß sich noch kontinuierlich verändern können! Tatsächlich haben wir, wie wir die Gitterstruktur des Kristalls hervorgehoben haben, den Blick für die metrische
 Struktur des Raumes verloren; das muß richtiggestellt werden. Die
 metrische Grundform des Raumes, d. h. das Längenquadrat eines
-beliebigen Vektors (x1, x2, x3) ist eine positiv definite quadratische
-Form seiner Koordinaten x1, x2, x3 in Bezug auf die Gitterbasis e,
+beliebigen Vektors (x₁, x₂, x₃) ist eine positiv definite quadratische
+Form seiner Koordinaten x₁, x₂, x₃ in Bezug auf die Gitterbasis e,
 eine Form, die bei allen Substitutionen der Gruppe g invariant bleibt.
 Jetzt bilden die gegenüber den Substitutionen von g invariant gelassenen
 positiven quadratischen Formen eine kontinuierliche Mannigfaltigkeit
@@ -492,11 +492,12 @@ Die eigentliche Frage betrifft die Phylogenese. Beim Versuch sie
 zu beantworten wollen wir zuerst eine vorher gemachte Bemerkung
 zu dem Effekt wiederholen, daß die Stabilität der Moleküle von
 der Temperatur und anderen Umgebungsbedingungen abhänge,
-und daß ein Molekül im allgemeinen um so labiler sei, je komple-
+und daß ein Molekül im allgemeinen um so labiler sei, je komplexer
+es ist.
 
 [[pdf-page:0384 printed-page:383]]
 
-xer es ist. Folglich überrascht es nicht, daß die für lebende Materie
+Folglich überrascht es nicht, daß die für lebende Materie
 charakteristischen Moleküle, insbesondere die Gene, mit einer
 bestimmten Epoche der Erdgeschichte verknüpft sind, und daß
 ihr Auftauchen eng mit der eigenen Evolution der Erde verbunden
@@ -719,15 +720,15 @@ Lebenskraft Wechselbeziehungen zwischen unabhängigen individuellen Atomvorgäng
 daß überall da, wo das Denken und die wirkende, auslösende Kraft
 des Willens besonders im Menschen auftauchen, jene Kraft zunehmend von einer rein geistigen Bilderwelt (Wissen, Ideen) gelenkt wird. Ist es denkbar, daß immaterielle Faktoren als Bilder,
 Ideen, „Baupläne“ auch in die Evolution der lebenden Welt als
-Ganzes eingehen? Einige Biologen bejahen diese Frage und be-
+Ganzes eingehen? Einige Biologen bejahen diese Frage und beschreiben
 
 [[pdf-page:0391 printed-page:390]]
 
-schreiben diese Faktoren und ihr Arbeiten eingehend. Henri
+diese Faktoren und ihr Arbeiten eingehend. Henri
 Bergson hat seine Philosophie der évolution créatrice entwickelt,
 und sie ist im wesentlichen dieselbe Lehre, die inmitten des ganzen
 Feuerwerks seines Witzes G. B. Shaw in seinem Schauspiel Back
-to Metuselah vorlegt. Das ewige Leben des reinen Denkens, befreit von der Fessel an die Materie, ist nach diesem „metabiologischen Pentateuch“ das letzte Ziel der Evolution. So spricht Lilith:
+to Methuselah vorlegt. Das ewige Leben des reinen Denkens, befreit von der Fessel an die Materie, ist nach diesem „metabiologischen Pentateuch“ das letzte Ziel der Evolution. So spricht Lilith:
 „Ich bin Lilith: Ich brachte Leben in den Strudel der Kraft und
 zwang meinen Feind, den Stoff, einer lebenden Seele zu gehorchen.
 Aber wie ich des Lebens Feind unterjochte, schuf ich des Lebens
@@ -782,7 +783,7 @@ A. I. Oparin, The Origin of Life. New York 1938.
 
 H. Bergson, L’évolution créatrice. Paris.
 
-G. B. Shaw, Back to Metuselah. S. auch C. E. M. Joad, J. D. Bernal,
+G. B. Shaw, Back to Methuselah. S. auch C. E. M. Joad, J. D. Bernal,
 W. R. Inge über Shaws Philosophie, Shaw den Wissenschaftler und
 Shaw als Theologen in: S. Winsten, G. B. S. 90, London 1946.
 

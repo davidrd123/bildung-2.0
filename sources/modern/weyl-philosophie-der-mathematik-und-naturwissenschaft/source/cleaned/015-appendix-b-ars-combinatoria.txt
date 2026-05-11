@@ -4,7 +4,8 @@ Section ID: appendix-b-ars-combinatoria
 Kind: appendix
 PDF pages: 304-324
 Printed pages: 303-323
-Status: visually corrected cleaned text; page images remain the authority.
+Status: visually corrected cleaned text; encounter complete in parts/026;
+page images remain the authority.
 
 [[pdf-page:0304 printed-page:303]]
 
@@ -87,29 +88,29 @@ Theorie der Kombinatorik von Aggregaten, und schwerlich gibt es
 einen andern Zweig des Wissens, in dem sich die Verwandtschaft
 von Idee und Mathematik in durchsichtigerer Form darbietet.
 Der einfachste kombinatorische Vorgang ist die Teilung
-einer Menge S von n Elementen in zwei komplementäre Teilmengen S1 + S2. Zum Zwecke der Identifizierung und Unterscheidung legen wir den Elementen willkürlich gewählte Unterscheidungsmerkmale p bei. Nur solche Beziehungen und Feststellungen haben objektive Bedeutung, die nicht durch irgend
+einer Menge S von n Elementen in zwei komplementäre Teilmengen S₁ + S₂. Zum Zwecke der Identifizierung und Unterscheidung legen wir den Elementen willkürlich gewählte Unterscheidungsmerkmale p bei. Nur solche Beziehungen und Feststellungen haben objektive Bedeutung, die nicht durch irgend
 einen Wechsel in der Wahl der Etiketten p beeinflußt werden:
 dies ist das Relativitätsprinzip. Seine abstrakte Formulierung
-enthüllt seine Trivialität. Eine „Individuen-“ Teilmenge S1 wird
-charakterisiert dadurch, daß sie für jedes Element mit dem Merkmal p angibt, ob es ein Glied von S1, p ∈ S1, oder von der komplementären Teilmenge S2 ist. Da die Konstruktion von S1 somit
-von der Entscheidung von n Alternativen (p ∈ S1 oder p ∈ S2
+enthüllt seine Trivialität. Eine „Individuen-“ Teilmenge S₁ wird
+charakterisiert dadurch, daß sie für jedes Element mit dem Merkmal p angibt, ob es ein Glied von S₁, p ∈ S₁, oder von der komplementären Teilmenge S₂ ist. Da die Konstruktion von S₁ somit
+von der Entscheidung von n Alternativen (p ∈ S₁ oder p ∈ S₂
 für jedes der n Elemente p) abhängt, gibt es 2ⁿ individuell verschiedene mögliche Teilmengen (einschließlich der leeren Nullmenge und der Gesamtmenge S). Diese Anzahl wird jedoch auf
-n + 1 reduziert, wenn die Elemente als nicht unterscheidbar betrachtet werden. Denn dann ist eine Teilmenge S1 vollständig
-charakterisiert durch die Zahl n1 ihrer Elemente, eine Zahl, die
+n + 1 reduziert, wenn die Elemente als nicht unterscheidbar betrachtet werden. Denn dann ist eine Teilmenge S₁ vollständig
+charakterisiert durch die Zahl n₁ ihrer Elemente, eine Zahl, die
 die n + 1 Werte 0, 1, ..., n anzunehmen vermag; und die Teilung
-S = S1 + S2 ist durch die Zerlegung n = n1 + n2 von n in eine
-Summe von zwei Gliedern charakterisiert (wobei n1, n2 die Anzahlen der Elemente in S1, S2 bez. sind¹)). Man fragt jetzt, wie
-viele individuell verschiedene Teilungen S = S1 + S2 zu derselben „sichtbaren“, durch die Zerlegung n = n1 + n2 charakterisierten Teilung führen. Die Antwort lautet n!/(n1!n2!). Folglich
+S = S₁ + S₂ ist durch die Zerlegung n = n₁ + n₂ von n in eine
+Summe von zwei Gliedern charakterisiert (wobei n₁, n₂ die Anzahlen der Elemente in S₁, S₂ bez. sind¹)). Man fragt jetzt, wie
+viele individuell verschiedene Teilungen S = S₁ + S₂ zu derselben „sichtbaren“, durch die Zerlegung n = n₁ + n₂ charakterisierten Teilung führen. Die Antwort lautet n!/(n₁!n₂!). Folglich
 
-¹) n1 und n2 werden als natürliche fortlaufende Zahlen 0, 1, 2, ... verstanden.
+¹) n₁ und n₂ werden als natürliche fortlaufende Zahlen 0, 1, 2, ... verstanden.
 
 [[pdf-page:0307 printed-page:306]]
 
 muß die Gesamtanzahl 2ⁿ aller individuellen Teilungen gleich
-der sich über die n + 1 verschiedenen Zerlegungen n = n1 + n2
+der sich über die n + 1 verschiedenen Zerlegungen n = n₁ + n₂
 erstreckenden Summe
 
-Σ n!/(n1!n2!)
+Σ n!/(n₁!n₂!)
 
 sein:
 
@@ -131,7 +132,7 @@ Natur, man sagt, sie gehörten derselben Klasse an oder seien im
 selben Zustand. Ein Aggregat S ist eine Menge von Elementen,
 deren jedes in einem bestimmten Zustand ist; somit wird der Ausdruck Aggregat in dem Sinne von „Menge von Elementen mit
 Äquivalenzrelation“ gebraucht. Nehmen wir an, für ein Element
-kämen k verschiedene Zustände C1, ..., Ck in Betracht. Ein bestimmter individueller Zustand des Aggregats S ist dann gegeben,
+kämen k verschiedene Zustände C₁, ..., Cₖ in Betracht. Ein bestimmter individueller Zustand des Aggregats S ist dann gegeben,
 wenn für jedes der n Merkmale p bekannt ist, zu welcher der
 k Klassen das Element mit Merkmal p gehört. Somit gibt es kⁿ
 
@@ -143,8 +144,8 @@ für die Äquivalenz benützen.
 
 mögliche individuelle Zustände von S. Sind jedoch keine künstlichen Unterschiede zwischen den Elementen durch ihre Etiketten
 p eingeführt und bloß die natürlichen Zustandsunterschiede
-benützt, dann ist das Aggregat vollständig charakterisiert dadurch, daß man jeder Klasse Ci (i = 1, ..., k) die Anzahl ni der
-zu Ci gehörenden Elemente von S beilegt. Diese Zahlen, deren
+benützt, dann ist das Aggregat vollständig charakterisiert dadurch, daß man jeder Klasse Cᵢ (i = 1, ..., k) die Anzahl nᵢ der
+zu Cᵢ gehörenden Elemente von S beilegt. Diese Zahlen, deren
 Summe gleich n ist, beschreiben das, was man zutreffend als den
 sichtbaren oder effektiven Zustand des Systems S nennen kann.
 Jeder individuelle Zustand des Systems ist mit einem effektiven
@@ -152,8 +153,8 @@ Zustand verbunden, und irgend zwei individuelle Zustände sind
 mit demselben effektiven Zustand dann und nur dann verbunden,
 wenn der eine in den andern durch eine Permutation der Etiketten übergeführt werden kann. Hier findet das Relativitätsprinzip Ausdruck im Invarianzpostulat in bezug auf die Gruppe
 aller Permutationen. Die Anzahl der verschiedenen effektiven
-Zustände ist gleich der der „geordneten“ Zerlegungen n = n1 +
-n2 + ... + nk von n in k Summanden ni; für diese Anzahl findet
+Zustände ist gleich der der „geordneten“ Zerlegungen n = n₁ +
+n₂ + ... + nₖ von n in k Summanden nᵢ; für diese Anzahl findet
 man leicht den Wert
 
 (n + 1) ... (n + k − 1) / 1 ... (k − 1) = (n + k − 1)! / (n! (k − 1)!). (2)
@@ -165,22 +166,22 @@ die Diskrepanz zwischen dem Wert 2ⁿ auf der linken und die Anzahl
 n + 1 der Summenglieder auf der rechten Seite erklärt.
 
 Wir haben gefunden, daß 2ⁿ die Anzahl der individuell verschiedenen möglichen Teilungen von S in zwei komplementäre
-Teilmengen S1, S2, oder die Anzahl der individuell verschiedenen
-Teilaggregate S1 ist. Da jedoch die Elemente nun nach ihrer „Art“
-unterscheidbar sind, ist ein effektives Teilaggregat dadurch festgelegt, daß jeder Klasse Ci die Zahl ni^(1) der Elemente beigeordnet
-wird, mit denen diese Klasse in S1 vertreten ist. Da ni^(1) die
-ni + 1 Werte 0, 1, ..., ni annehmen kann, gibt es
+Teilmengen S₁, S₂, oder die Anzahl der individuell verschiedenen
+Teilaggregate S₁ ist. Da jedoch die Elemente nun nach ihrer „Art“
+unterscheidbar sind, ist ein effektives Teilaggregat dadurch festgelegt, daß jeder Klasse Cᵢ die Zahl nᵢ^(1) der Elemente beigeordnet
+wird, mit denen diese Klasse in S₁ vertreten ist. Da nᵢ^(1) die
+nᵢ + 1 Werte 0, 1, ..., nᵢ annehmen kann, gibt es
 
-(n1 + 1) ... (nk + 1) (3)
+(n₁ + 1) ... (nₖ + 1) (3)
 
 [[pdf-page:0309 printed-page:308]]
 
-verschiedene mögliche effektive Teilungen S = S1 + S2. Die
+verschiedene mögliche effektive Teilungen S = S₁ + S₂. Die
 Zahl (3) ist daher notwendig kleiner oder gleich
 
-2ⁿ (n = n1 + ... + nk).
+2ⁿ (n = n₁ + ... + nₖ).
 
-Das Maximum 2ⁿ wird erreicht, wenn alle ni den Wert 0 oder 1
+Das Maximum 2ⁿ wird erreicht, wenn alle nᵢ den Wert 0 oder 1
 haben, d. h. wenn keine zwei Elemente von S je in derselben
 Klasse angetroffen werden. Ist das tatsächlich der Fall, so können
 die Elemente von S vollständig charakterisiert werden durch die
@@ -190,8 +191,8 @@ Unterscheidung durch Etiketten. In diesem Fall sprechen wir von
 einem monomischen Aggregat.
 
 Der zur Teilung eines Aggregats S in zwei komplementäre
-Teilaggregate S1, S2 inverse Prozeß ist die Vereinigung zweier
-gegebener (getrennter) Aggregate S1, S2 in ein ganzes S = S1 + S2.
+Teilaggregate S₁, S₂ inverse Prozeß ist die Vereinigung zweier
+gegebener (getrennter) Aggregate S₁, S₂ in ein ganzes S = S₁ + S₂.
 Die Kombinationstheorie von Aggregaten und von den zueinander inversen Operationen der Teilung und Vereinigung findet
 eine besonders wichtige Anwendung in der Genetik. Die Entwicklung von zwei Organismen kann je nach den „äußeren Umständen“ verschieden verlaufen, selbst wenn sie von derselben
 genetischen Konstitution sind (dasselbe Keimplasma haben oder
@@ -224,11 +225,11 @@ aufzulösen, so wie etwa die Chemie ein Molekül in ein Aggregat
 von Atomen auflöst. Und wie ein individuelles Atom in einem der
 verschiedenen Zustände sein kann (eines der verschiedenen Grundatome sein kann), die durch die chemischen Symbole H, He, Li,...
 angezeigt werden, so können die genetischen Punkte verschiedene
-diskrete Zustände annehmen, die man Allele nennt. Beim Befruchtungsakt (Syngamie) werden zwei Aggregate S1, S2, die
+diskrete Zustände annehmen, die man Allele nennt. Beim Befruchtungsakt (Syngamie) werden zwei Aggregate S₁, S₂, die
 „Gameten“ (Same und Ei) in eine „Zygote“ oder eine Keimzelle
-S = S1 + S2 vereinigt. Ein Gamet wird von einem Organismus
-erzeugt, S1 von Ω1, S2 von Ω2 (Ω2 ist nicht notwendig verschieden
-von Ω1, wenn es sich etwa um einen selbstbefruchtenden Organismus handelt). Alle Körperzellen des Organismus Ω, der sich aus
+S = S₁ + S₂ vereinigt. Ein Gamet wird von einem Organismus
+erzeugt, S₁ von Ω₁, S₂ von Ω₂ (Ω₂ ist nicht notwendig verschieden
+von Ω₁, wenn es sich etwa um einen selbstbefruchtenden Organismus handelt). Alle Körperzellen des Organismus Ω, der sich aus
 der Keimzelle S entwickelt, sind trotz ihrer funktionalen Verschiedenheit Bildungen aus ihrer Zygote S, soweit es ihre genetische
 Konstitution betrifft. Ein Teil der Körperzellen durchläuft in
 einem gewissen Stadium des Lebenszyklus den umgekehrten
@@ -272,19 +273,19 @@ Identifizierungsmerkmalen p eine Sache willkürlicher Wahl ist.
 [[pdf-page:0312 printed-page:311]]
 
 Doch ist dies eine Verknüpfung für alle Zeit, die sich, einmal festgelegt, nicht mehr ändern läßt. Wird andererseits in jedem
-Augenblick nur auf den sichtbaren Zustand geachtet, dann enthalten die Zahlen n1(t), ..., nk(t) in ihrer Abhängigkeit von t
+Augenblick nur auf den sichtbaren Zustand geachtet, dann enthalten die Zahlen n₁(t), ..., nₖ(t) in ihrer Abhängigkeit von t
 das vollständige Bild — was jedoch vom „individualistischen“
 Standpunkt aus unvollständig ist; denn jetzt wissen wir lediglich,
-wie viele Elemente, nämlich ni(t), zur Zeit t im Zustand Ci vorgefunden werden, doch kann über die Identität der n Individuen
+wie viele Elemente, nämlich nᵢ(t), zur Zeit t im Zustand Cᵢ vorgefunden werden, doch kann über die Identität der n Individuen
 in der Zeit nichts ausgesagt werden; weder ist bekannt, noch
 kann erforscht werden, ob ein Element, das sich jetzt etwa im
-Zustand C5 befindet, einen Augenblick vorher im Zustand C2
-oder C6 war. Die Welt wird sozusagen in jedem Augenblick von
+Zustand C₅ befindet, einen Augenblick vorher im Zustand C₂
+oder C₆ war. Die Welt wird sozusagen in jedem Augenblick von
 neuem geschaffen, keine Fessel der Identität verbindet die in
 diesem Augenblick gegenwärtigen Wesen mit denen, die im nächsten angetroffen werden. Dies ist eine philosophische Einstellung
 gegenüber der veränderlichen Welt, wie sie von den frühen
 Philosophen des Islam, den Mutakallimün, eingenommen wurde.
-Diese nicht-individualisierende Beschreibung ist selbst dann anwendbar, wenn die Gesamtanzahl n1(t) + ... + nk(t) = n(t)
+Diese nicht-individualisierende Beschreibung ist selbst dann anwendbar, wenn die Gesamtanzahl n₁(t) + ... + nₖ(t) = n(t)
 Elemente in der Zeit nicht konstant bleibt.
 
 Wird einmal wirklich die Identifizierung desselben Wesens zu
@@ -333,7 +334,7 @@ damit zur Gattung [C] gehört, wird mit den Worten ausgedrückt:
 
 Ich erwähne hier einige Bezeichnungen, die in der Genetik zu
 den grundlegenden Begriffen der Kombinationstheorie von Aggregaten gehören, und beschreibe die besonderen Umstände, die bei
-der Zerlegung „normalerweise“ auftreten. Ein individuelles Aggregat S ist bekannt, wenn für jeden seiner Punkte p die Klasse Cp
+der Zerlegung „normalerweise“ auftreten. Ein individuelles Aggregat S ist bekannt, wenn für jeden seiner Punkte p die Klasse Cₚ
 
 ¹) Dies ist die in der Zahlentheorie benutzte Terminologie; eine Gattung
 von quadratischen Formen ist weiter als eine Klasse. Die biologische Bestimmungslehre mit ihrer abgestuften Hierarchie im Königreich: Klasse,
@@ -342,7 +343,7 @@ Reihenfolge sprechen.
 
 [[pdf-page:0314 printed-page:313]]
 
-bekannt ist, zu der p gehört; p gehört dann auch zu der entsprechenden Gattung [Cp]. Zwei individuelle Aggregate S und
+bekannt ist, zu der p gehört; p gehört dann auch zu der entsprechenden Gattung [Cₚ]. Zwei individuelle Aggregate S und
 S* sind von derselben Konstitution, S ≈ S*, wenn die für die
 Punkte des ersten Aggregats benützten Etiketten p umkehrbar
 eindeutig auf die für die Punkte von S* benützten Etiketten p*
@@ -353,17 +354,17 @@ betrachten. Unter gegebenen äußeren Umständen bestimmt die
 Zygote S vollständig den Phänotypus, die sichtbare Entwicklung
 eines Organismus. Der Phänotypus ist notwendig derselbe für
 Zygoten derselben Konstitution. Ein effektives Aggregat S wird
-dadurch beschrieben, daß man jeder Klasse C die Anzahl nC der
-Punkte von S in C zuschreibt. Die Anzahl nG von Punkten in
-einer Gattung G ist dann gleich der Summe Σ nC über die Klassen
+dadurch beschrieben, daß man jeder Klasse C die Anzahl n_C der
+Punkte von S in C zuschreibt. Die Anzahl n_G von Punkten in
+einer Gattung G ist dann gleich der Summe Σ n_C über die Klassen
 C, für welche [C] = G ist. Individuelle Aggregate sind mit demselben effektiven Aggregat dann und nur dann verknüpft, wenn
 sie isomorph, d. h. von derselben Konstitution sind. Zwei individuelle Aggregate S und S* heißen von derselben Spezies σ,
 wenn homologe Punkte p und p* in S und S* hinsichtlich einer
 geeigneten eineindeutigen Abbildung p ↔ p* immer zur selben
 Gattung gehören¹). Dafür, daß dies eintritt, ist die Koinzidenz
-der Zahlen nG und nG* für alle möglichen Gattungen G die notwendige und hinreichende Bedingung; die Zahlen nG enthalten
+der Zahlen n_G und n_G* für alle möglichen Gattungen G die notwendige und hinreichende Bedingung; die Zahlen n_G enthalten
 deshalb eine vollständige Beschreibung der Spezies σ eines Aggregates. Ein Aggregat S wurde monomisch genannt, wenn verschiedene Punkte von S niemals zur selben Gattung gehören,
-d. h. wenn für jede Gattung G die Zahl nG gleich 0 oder 1 ist.
+d. h. wenn für jede Gattung G die Zahl n_G gleich 0 oder 1 ist.
 
 ¹) Dieser natürliche, doch rein kombinatorische Begriff bezieht sich auf
 die Bedeutung des in der Biologie geläufigen Wortes Spezies, doch ist er
@@ -380,13 +381,13 @@ haploid. Enthält S zwei Punkte verschiedener Klassen, doch
 gleicher Gattung, dann heißt S heterozygot (hybrid); enthält es
 zwei Punkte verschiedener Klassen, doch derselben Gattung G,
 so ist es heterozygot in Bezug auf G. Die Vereinigung zweier
-Aggregate S1, S2 in ein Ganzes S = S1 + S2 und der umgekehrte
-Prozeß der Teilung von S in S1, S2 kann ausgeglichen genannt
+Aggregate S₁, S₂ in ein Ganzes S = S₁ + S₂ und der umgekehrte
+Prozeß der Teilung von S in S₁, S₂ kann ausgeglichen genannt
 werden, falls die Teile derselben Spezies angehören. Das geschieht
 normalerweise in der Syngamie und Meiosis. Bei ausgeglichener
 Syngamie und Meiosis bleiben die Spezies durch die Generationenfolge hindurch konstant. Seien tatsächlich S, S* die beiden Gameten derselben Spezies σ, die sich zur Bildung der Zygote S + S*
 vereinigt haben; spalten sich die letzteren durch ausgeglichene
-Meiosis in S1 und S2, dann gehören S1, S2 notwendig denselben
+Meiosis in S₁ und S₂, dann gehören S₁, S₂ notwendig denselben
 Spezies σ an wie S, S*. Dies bleibt sogar dann bestehen, wenn
 Mutationen zugelassen werden, durch welche ein Punkt seine
 Klasse, doch nicht seine Gattung ändern kann (Punktmutationen).
@@ -421,16 +422,16 @@ Plancksche Wirkungsquantum ist (die Zahl wird jetzt gewöhnlich
 mit einem durchstrichenen h bezeichnet). Die Strahlung in einem
 Raum, dessen Wände vollkommene Spiegel sind („Hohlraum“),
 ist äquivalent einer Überlagerung von harmonischen Schwingungen, von denen jede durch einen Index α bezeichnet wird und eine
-bestimmte Frequenz να hat. Danach kann die Hohlraumstrahlung
-als Aggregat von linearen Oszillatoren mit jeweils bestimmten geeigneten Frequenzen να betrachtet werden. (Der statische Anteil
+bestimmte Frequenz ν_α hat. Danach kann die Hohlraumstrahlung
+als Aggregat von linearen Oszillatoren mit jeweils bestimmten geeigneten Frequenzen ν_α betrachtet werden. (Der statische Anteil
 des elektromagnetischen Feldes wird hier nicht berücksichtigt.)
 Nach der Quantenmechanik des individuellen Oszillators ordnet
-nun der vollständige Zustand unseres Strahlungsfeldes jedem Oszillator α ein ganzzahliges nα zu; in diesem Zustand hat der Oszillator α die Energie nα · hνα, und die Gesamtenergie ist die sich
-über alle Oszillatoren erstreckende Summe Σα nα · hνα. Dies drückt
-man in der Sprache der Photonen so aus, daß man sagt, es seien nα
-Photonen im Zustand α mit der Energie hνα vorhanden. In der
-Sprache der Oszillatoren bestimmt der Index α den einzelnen Oszillator und die ganze Zahl nα seinen Zustand, während in der
-Sprache der Photonen α den Zustand eines Photons und nα die
+nun der vollständige Zustand unseres Strahlungsfeldes jedem Oszillator α ein ganzzahliges n_α zu; in diesem Zustand hat der Oszillator α die Energie n_α · hν_α, und die Gesamtenergie ist die sich
+über alle Oszillatoren erstreckende Summe Σ_α n_α · hν_α. Dies drückt
+man in der Sprache der Photonen so aus, daß man sagt, es seien n_α
+Photonen im Zustand α mit der Energie hν_α vorhanden. In der
+Sprache der Oszillatoren bestimmt der Index α den einzelnen Oszillator und die ganze Zahl n_α seinen Zustand, während in der
+Sprache der Photonen α den Zustand eines Photons und n_α die
 Anzahl der Photonen in diesem Zustand bezeichnet. Nach der
 Übersetzung in die Photonensprache erscheint die Strahlung als
 Photonengas.
@@ -448,7 +449,7 @@ in einem stetigen „Phasenraum“. Da Photonen entstehen und vergehen, emittier
 Identität. Daher sind über das, was vorher der effektive Zustand
 eines Aggregats war, keine genauen Angaben möglich. Folglich
 ist der Zustand eines Photonengases dann bekannt, wenn für
-jeden möglichen Zustand α eines Photons die Anzahl nα der
+jeden möglichen Zustand α eines Photons die Anzahl n_α der
 Photonen in diesem Zustand gegeben ist (Bose-Einstein-Strahlungsstatistik).
 
 Während man nicht tief in die Natur des Lichts einzudringen
@@ -462,8 +463,8 @@ Wellenfeld dargestellt werden muß, dessen Gesetze ein Gegenstück zu Maxwells e
 (de Broglie, Schrödinger, Dirac). Ist dies einmal für das einzelne
 Elektron erfüllt, so gelten dieselben Betrachtungen, wie sie oben
 für die Hohlraumstrahlung angewandt wurden; ein Elektronengas
-wird dadurch beschrieben, daß man für jeden Zustand α die Anzahl nα der Elektronen angibt, die in diesem Zustand existieren und
-die entsprechende Energie hνα besitzen. Einem Gas von unzählbaren freien Elektronen stellen wir die Schale der wenigen Elektronen gegenüber, die an einen positiv geladenen Atomkern gebunden sind und zusammen mit diesem Kern ein Atom bilden.
+wird dadurch beschrieben, daß man für jeden Zustand α die Anzahl n_α der Elektronen angibt, die in diesem Zustand existieren und
+die entsprechende Energie hν_α besitzen. Einem Gas von unzählbaren freien Elektronen stellen wir die Schale der wenigen Elektronen gegenüber, die an einen positiv geladenen Atomkern gebunden sind und zusammen mit diesem Kern ein Atom bilden.
 Die Gedanken über diskrete Energiestufen und über die Photonen
 haben ihren glänzendsten Erfolg in ihrer Anwendung auf die letztere
 Situation erzielt; denn sie führen geradewegs zur Bohrschen Fre-
@@ -505,7 +506,7 @@ von derselben Konstitution (bzw. Spezies), wenn eine eineindeutige Beziehung p �
 bezüglich so aufgestellt werden kann, daß 1. zwei homologe Punkte
 immer ein- und derselben Klasse (bzw. Gattung) angehören, und
 2. p*, q* Nachbarn in K* dann und nur dann sind, wenn p und q
-Nachbarn in K sind. Komplexe derselben Konstitution (isomorphe Komplexe) sollen als nicht unterscheidbar gelten. Ein Komplex K besteht aus den beiden getrennten Teilen K1 + K2 unter der Voraussetzung, daß kein Punkt von K1 einem Punkt von K2 benachbart
+Nachbarn in K sind. Komplexe derselben Konstitution (isomorphe Komplexe) sollen als nicht unterscheidbar gelten. Ein Komplex K besteht aus den beiden getrennten Teilen K₁ + K₂ unter der Voraussetzung, daß kein Punkt von K₁ einem Punkt von K₂ benachbart
 ist; K ist zusammenhängend, wenn keine Zerlegung in zwei getrennte Teile möglich ist (außer der trivialen, bei welcher ein Teil
 leer und der andere ganz K ist). Jeder Komplex soll eindeutig in
 separate zusammenhängende Komponenten zerlegt werden können. Nach den gemeinsamen Erfahrungen der Genetik und der
@@ -543,14 +544,14 @@ ein quantitativer Aufschluß über die Wahrscheinlichkeiten γ entnommen werden 
 Prozeß der Überkreuzung erklärt. Angenommen, eine Zygote K + K*
 sei durch eine ausgeglichene Syngamie zweier Gameten K, K* derselben Spezies σ gebildet worden, die miteinander durch die isomorphe Abbildung p ↔ p* verknüpft sind. Sei a, b ein Paar benachbarter Punkte in K und a*, b* das homologe Paar in K*; dann
 sind a*, b* benachbart in K*, und die Punkte a, b liegen in einem
-Chromosom Kₒ von K und a*, b* in dem homologen Chromosom
-Kₒ* von K*. Das Überkreuzen besteht darin, daß die Verbindungen
+Chromosom K₀ von K und a*, b* in dem homologen Chromosom
+K₀* von K*. Das Überkreuzen besteht darin, daß die Verbindungen
 ab und a*b* abgebrochen und dafür die Verbindungen a mit b* und
-b mit a* hergestellt werden. Ist Kₒ ein Stammbaum, dann überführt
-dieser Prozeß das nicht verknüpfte Paar (Kₒ, Kₒ*) in ein Paar
-(K̄ₒ, K̄ₒ*) von Chromosomen, die isomorph zu Kₒ sind. Punkte,
-die vor der Überkreuzung in demselben Chromosom Kₒ waren,
-können jetzt getrennt werden so, daß eines zu K̄ₒ, das andere zu K̄ₒ*
+b mit a* hergestellt werden. Ist K₀ ein Stammbaum, dann überführt
+dieser Prozeß das nicht verknüpfte Paar (K₀, K₀*) in ein Paar
+(K̄₀, K̄₀*) von Chromosomen, die isomorph zu K₀ sind. Punkte,
+die vor der Überkreuzung in demselben Chromosom K₀ waren,
+können jetzt getrennt werden so, daß eines zu K̄₀, das andere zu K̄₀*
 gehört. Es werden Paare homologer Chromosomen in einem Zellkern festgestellt, die sich selbst in eine Stellung für eine derartige
 Überkreuzungsoperation schieben, bevor die Meiosis stattfindet;
 sie dehnen sich nebeneinander aus, jeder Punkt im einen Chromosom gegenüber dem homologen Punkt im andern (Synapse). Tritt
@@ -561,7 +562,7 @@ Punkte a, b eines Chromosoms ist um so lockerer, je mehr Möglichkeiten es gibt,
 [[pdf-page:0321 printed-page:320]]
 
 Die Komplexe können zwei Arten von Mutationen durchlaufen: außer den Punktmutationen, bei welchen die Glieder nicht
-beeinflußt werden, während die Punkte p ihre Klasse Cp ändern
+beeinflußt werden, während die Punkte p ihre Klasse Cₚ ändern
 (ohne ihre Gattung zu ändern), gibt es Strukturmutationen, die
 den Zustand der Punkte ungeändert lassen, aber die Glieder verändern¹). Die oben als Überkreuzen beschriebene Operation kann
 mit vier beliebigen ausgezeichneten Punkten a, b, a*, b* durchgeführt werden (und kann dann Überwerfen genannt werden). Ein
@@ -569,7 +570,7 @@ einfacher Bruch und dieser Überwerfungsprozeß scheinen die Rolle
 elementarer Operationen für Strukturmutationen zu spielen. Mutationen sind seltene Ereignisse im Gegensatz zum Überkreuzen, wozu durch die Synapse vor jeder Meiosis Gelegenheit gegeben ist.
 
 Die einfachsten zusammenhängenden Komplexe sind der Stab
-a1 — a2 — ... — ah (in welchem aufeinanderfolgende Punkte durch
+a₁ — a₂ — ... — aₕ (in welchem aufeinanderfolgende Punkte durch
 die Bindeglieder — zusammenhängen) und der Ring. Mit wenigen
 Ausnahmen scheinen die Chromosome Stäbe zu sein (T. H. Morgans Gesetz der linearen Anordnung). Geschieht das Überwerfen in
 einem Stab (nicht zwischen zwei Stäben), so kann daraus freilich
@@ -609,13 +610,13 @@ Quantenphysik werden klarer werden, wenn wir an dieser Stelle, in
 Klammern sozusagen, ein paar Worte über die Grundlagen der statistischen Thermodynamik sagen. Hier hat die Quantentheorie eine entscheidende Vereinfachung eingeführt. Tatsächlich kann in der Quantenphysik ein System Σ nicht mehr als eine diskrete Folge (vollständiger)
 Zustände mit bestimmten Energiestufen
 
-Ui (i = 0, 1, 2, ...)
+Uᵢ (i = 0, 1, 2, ...)
 
 annehmen. Wir wollen einmal in Anbetracht des Energieerhaltungsgesetzes eine große Anzahl N von Systemen Σ aufs Geratewohl über ihre
 möglichen Zustände i verteilen, doch so, daß die Gesamtenergie der N
 Systeme einen vorausbestimmten Wert N · A (A = Durchschnittsenergie
 des Einzelsystems) hat. Wir finden, daß die relativen Häufigkeiten
-Ni/N, durch welche die einzelnen Zustände i dargestellt sind, bei der
+Nᵢ/N, durch welche die einzelnen Zustände i dargestellt sind, bei der
 überwältigenden Mehrheit aller Verteilungen mit dem Grenzwert für
 
 ¹) Bezeichnen wir mit Ωαβ einen Organismus, der aus der Syngamie eines
@@ -630,16 +631,16 @@ Problem noch weit von einer befriedigenden Lösung entfernt.
 
 [[pdf-page:0323 printed-page:322]]
 
-N → ∞ proportional zu e^{-αUi} sind; hier bedeutet α eine Konstante, die
+N → ∞ proportional zu e^{-αUᵢ} sind; hier bedeutet α eine Konstante, die
 aus der gegebenen Durchschnittsenergie A zu bestimmen ist. Wir definieren deshalb die kanonische Verteilung des Parameters α dadurch, daß
-wir dem Zustand i die relative Wahrscheinlichkeit wi = e^{-αUi} zuschreiben. (Die relativen Wahrscheinlichkeiten brauchen nicht der
-Standardbedingung Σi wi = 1 zu genügen.) Jede vom Zustand i abhängige Quantität Zi hat dann den mittleren Wert
+wir dem Zustand i die relative Wahrscheinlichkeit wᵢ = e^{-αUᵢ} zuschreiben. (Die relativen Wahrscheinlichkeiten brauchen nicht der
+Standardbedingung Σᵢ wᵢ = 1 zu genügen.) Jede vom Zustand i abhängige Quantität Zᵢ hat dann den mittleren Wert
 
-⟨Z⟩α = Σi Zi · e^{-αUi} / Σi e^{-αUi},
+⟨Z⟩_α = Σᵢ Zᵢ · e^{-αUᵢ} / Σᵢ e^{-αUᵢ},
 
 und eben diesen Wert ordnen wir der Quantität im „thermischen Gleichgewicht“ zu. Der Parameter α ist mit der gegebenen mittleren Energie A
 durch die Gleichung ⟨U⟩α = A verknüpft. Die in der Natur vorkommenden Systeme können Zustände beliebig hoher Energiewerte annehmen, folglich muß α positiv sein, und die Normalverteilung, die jedem
-Zustand i dieselbe Wahrscheinlichkeit wi⁰ = 1 zuweist, kann nur angenähert erreicht werden, solange die Energie A endlich bleibt (nämlich
+Zustand i dieselbe Wahrscheinlichkeit wᵢ⁰ = 1 zuweist, kann nur angenähert erreicht werden, solange die Energie A endlich bleibt (nämlich
 für große Werte von A und entsprechend kleine Werte von α). Die
 reziproke Zahl α⁻¹ hat die Dimension der Energie und kann für den
 Augenblick die statistische Temperatur genannt werden.
@@ -647,19 +648,19 @@ Augenblick die statistische Temperatur genannt werden.
 Wegen des Energieerhaltungssatzes ist die kanonische Verteilung
 stationär in der Zeit. Die möglichen Zustände eines aus zwei Teilen
 Σ, Σ′ bestehenden Systems Σ″ werden durch die Paare (i, k) charakterisiert, die aus einem beliebigen Zustand i des Systems Σ und einem
-beliebigen Zustand k des Systems Σ′ gebildet werden. Wird mit Ui, Uk′
+beliebigen Zustand k des Systems Σ′ gebildet werden. Wird mit Uᵢ, Uₖ′
 die Energie von Σ im Zustand i und von Σ′ im Zustand k beziehungsweise
-bezeichnet, so ist die Energie von Σ″ im Zustand (i, k) gleich Ui + Uk′,
+bezeichnet, so ist die Energie von Σ″ im Zustand (i, k) gleich Uᵢ + Uₖ′,
 unter der Voraussetzung, daß keine Wechselwirkung zwischen den
 beiden Teilen stattfindet. Für die Wahrscheinlichkeit des Zustandes
 (i, k) im thermischen Gleichgewicht erhalten wir
 
-wik = e^{-α(Ui + Uk′)} = e^{-αUi} · e^{-αUk′} (= wi · wk′).
+wᵢₖ = e^{-α(Uᵢ + Uₖ′)} = e^{-αUᵢ} · e^{-αUₖ′} (= wᵢ · wₖ′).
 
 Dies bedeutet dreierlei: 1) aus dem thermischen Gleichgewicht des
 Ganzen folgt das thermische Gleichgewicht für die Teile; 2) das Gesetz
 der statistischen Unabhängigkeit gilt für die Kombination der Teile,
-wik = wi · wk′; 3) der Parameter α hat denselben Wert für beide Teile,
+wᵢₖ = wᵢ · wₖ′; 3) der Parameter α hat denselben Wert für beide Teile,
 womit auch der Wert für das Gesamtsystem übereinstimmt. Wegen
 dieses dritten Punktes teilt die statistische Temperatur mit der gewöhnlichen Temperatur (die eher ein Mehr- oder Weniger-Merkmal als ein
 

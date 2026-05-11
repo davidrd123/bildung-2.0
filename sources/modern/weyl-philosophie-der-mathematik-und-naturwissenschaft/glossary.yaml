@@ -336,12 +336,13 @@
   alternatives:
     - "freedom from contradiction"
   status: open
-  notes: "`Consistency` is idiomatic for axiom systems, but the literal pressure remains freedom from deriving both a formula and its negation. It matters because theory is bold construction rather than mere reproduction of the given. Section 10 makes consistency Hilbert's substitute target for truth in the old analysis. Section 11 folds this into the larger claim that formalism is symbolic presentation of the transcendent, not evident truth."
+  notes: "`Consistency` is idiomatic for axiom systems, but the literal pressure remains freedom from deriving both a formula and its negation. It matters because theory is bold construction rather than mere reproduction of the given. Section 10 makes consistency Hilbert's substitute target for truth in the old analysis. Section 11 folds this into the larger claim that formalism is symbolic presentation of the transcendent, not evident truth. Appendix A reopens the term after Gödel: consistency can no longer function as Hilbert's final security, and becomes closer to provisional scientific concordance."
   evidence:
     - "parts/005-math-01-04-axiomatische-methode.md"
     - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
     - "parts/011-math-02-10-symbolische-mathematik.md"
     - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+    - "parts/025-appendix-a-struktur-der-mathematik.md"
 
 - term: "Unabhängigkeit"
   kind: concept
@@ -855,9 +856,10 @@
   alternatives:
     - "type theory"
   status: seed
-  notes: "Russell's diagnosis of level-distinctions among properties. Weyl accepts the type-level pressure while rejecting the axiom of reducibility as a blind escape."
+  notes: "Russell's diagnosis of level-distinctions among properties. Weyl accepts the type-level pressure while rejecting the axiom of reducibility as a blind escape. Appendix A reviews type theory after Gödel and set-theoretic axiomatization as one way of blocking self-membership by stratifying objects, properties, and properties of properties."
   evidence:
     - "parts/009-math-02-08-die-mengenlehre.md"
+    - "parts/025-appendix-a-struktur-der-mathematik.md"
 
 - term: "axiom of reducibility"
   kind: concept
@@ -865,9 +867,10 @@
   alternatives:
     - "reducibility axiom"
   status: seed
-  notes: "Weyl leaves Russell's phrase in English and treats the postulate sharply: reason commits harakiri by accepting a claim that closes itself off from insight."
+  notes: "Weyl leaves Russell's phrase in English and treats the postulate sharply: reason commits harakiri by accepting a claim that closes itself off from insight. Appendix A names it Russell's immediate retreat from his own stratification insight."
   evidence:
     - "parts/009-math-02-08-die-mengenlehre.md"
+    - "parts/025-appendix-a-struktur-der-mathematik.md"
 
 - term: "circulus vitiosus"
   kind: concept
@@ -1816,9 +1819,10 @@
   preferred: "causal structure"
   alternatives: []
   status: seed
-  notes: "The modern correction to simultaneity: light cones, not horizontal simultaneity strata, separate active future from passive past."
+  notes: "The modern correction to simultaneity: light cones, not horizontal simultaneity strata, separate active future from passive past. Section 23 returns to this as a factual physical component of causality: relativity makes distant effects actually later than their causes and breaks Kant's third analogy of simultaneous community."
   evidence:
     - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+    - "parts/024-science-03-23-kausalitaet-gesetz-zufall-freiheit.md"
 
 - term: "Lichtkegel"
   kind: concept
@@ -2401,6 +2405,900 @@
   preferred: "complementarity"
   alternatives: []
   status: open
-  notes: "Bohr's name for the quantum situation in which light and electrons appear as wave or corpuscle depending on the observation arrangement. Section 22 treats it as replacing the old polarity of matter and force."
+  notes: "Bohr's name for the quantum situation in which features become tied to incompatible experimental arrangements. Section 22 treats it as replacing the old polarity of matter and force; Appendix C gives it formal pressure through noncommuting grids and Heisenberg uncertainty. Appendix E extends it cautiously toward the possible relation between constructive theory and inward understanding, without making that extension settled."
   evidence:
     - "parts/023-science-03-22-die-materie.md"
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+    - "parts/029-appendix-e-physik-und-biologie.md"
+
+- term: "Kausalität"
+  kind: concept
+  preferred: "causality"
+  alternatives: []
+  status: open
+  notes: "Section 23 splits causality into methodological norm, functional law, physical causal structure, experimental agency, probability, and the boundary problem of freedom. Appendix C sharpens this by preserving strict causal law for wave-state evolution while denying strict causal determination for measurement outcomes."
+  evidence:
+    - "parts/024-science-03-23-kausalitaet-gesetz-zufall-freiheit.md"
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+
+- term: "Funktionalgesetz"
+  kind: concept
+  preferred: "function-law"
+  alternatives:
+    - "functional law"
+  status: seed
+  notes: "Weyl uses the function-law as the natural-scientific replacement for naive cause, but stresses that functional dependence is indifferent to which term determines which."
+  evidence:
+    - "parts/024-science-03-23-kausalitaet-gesetz-zufall-freiheit.md"
+
+- term: "Zufall"
+  kind: concept
+  preferred: "chance"
+  alternatives:
+    - "randomness"
+  status: open
+  notes: "Section 23 treats chance through practical future-judgment, probability calculus, statistical physics, causal sensitivity, the ergodic program, and quantum probability. `Chance` keeps the life-world and physics pressures together."
+  evidence:
+    - "parts/024-science-03-23-kausalitaet-gesetz-zufall-freiheit.md"
+
+- term: "Wahrscheinlichkeit"
+  kind: concept
+  preferred: "probability"
+  alternatives: []
+  status: open
+  notes: "Probability begins as subjective expectation and calculation of chances, then becomes objective through Bernoulli, statistical physics, entropy, and quantum mechanics. Appendix C states the final pressure directly: primary probability is a fundamental property of nature, not observer ignorance."
+  evidence:
+    - "parts/024-science-03-23-kausalitaet-gesetz-zufall-freiheit.md"
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+
+- term: "Wahrscheinlichkeitsurteil"
+  kind: concept
+  preferred: "probability judgment"
+  alternatives:
+    - "probabilistic judgment"
+  status: seed
+  notes: "The site where the arrow of time enters: reversible elementary laws do not distinguish past and future, but probability judgments choose a direction under the causal orientation that the earlier is the given ground of the later."
+  evidence:
+    - "parts/024-science-03-23-kausalitaet-gesetz-zufall-freiheit.md"
+
+- term: "Einsinnigkeit der Zeit"
+  kind: concept
+  preferred: "one-directionality of time"
+  alternatives:
+    - "unidirectionality of time"
+    - "arrow of time"
+  status: open
+  notes: "Weyl's section title. Entropy explains it only after probability judgments impose a privileged direction; Appendix C confirms that the future direction of spontaneous emission is rooted in thermodynamic-statistical principles, not elementary laws."
+  evidence:
+    - "parts/024-science-03-23-kausalitaet-gesetz-zufall-freiheit.md"
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+
+- term: "Schöpfung"
+  kind: concept
+  preferred: "creation"
+  alternatives: []
+  status: open
+  notes: "In section 23 this is not a theological conclusion but a structural name for the improbable past required by forward-directed probability judgment. Keep the theological resonance visible without over-reading it."
+  evidence:
+    - "parts/024-science-03-23-kausalitaet-gesetz-zufall-freiheit.md"
+
+- term: "Freiheit"
+  kind: concept
+  preferred: "freedom"
+  alternatives: []
+  status: open
+  notes: "Freedom is not arbitrary law-breaking or merely internal natural causation. Weyl locates it where being is open to sense in the I, while denying that living beings simply violate exact physical laws. Appendix E adds that quantum mutation and few-photon perception open a door but do not suffice; vital, psychic, and spiritual factors would need symbolic representation inside a theory of reality."
+  evidence:
+    - "parts/024-science-03-23-kausalitaet-gesetz-zufall-freiheit.md"
+    - "parts/029-appendix-e-physik-und-biologie.md"
+
+- term: "Zweckmäßigkeit"
+  kind: concept
+  preferred: "purposiveness"
+  alternatives:
+    - "teleological fitness"
+    - "purposefulness"
+  status: open
+  notes: "A problem-setting category for organisms. Weyl rejects dismissing it as human projection but also refuses to treat it as a completed explanation; Darwinian and biological explanation must first recognize the purposive structures it tries to explain."
+  evidence:
+    - "parts/024-science-03-23-kausalitaet-gesetz-zufall-freiheit.md"
+
+- term: "Ganzheit"
+  kind: concept
+  preferred: "wholeness"
+  alternatives:
+    - "whole"
+  status: open
+  notes: "The biological and psychological replacement for older purposiveness in Schelling, Driesch, and holism. Weyl grants its problem-setting force while rejecting a principled block on theoretical-symbolic construction. Appendix E makes this explicit: living wholeness must be recognized phenomenologically, but biology still proceeds from physics and chemistry toward complex organization rather than from holism downward."
+  evidence:
+    - "parts/024-science-03-23-kausalitaet-gesetz-zufall-freiheit.md"
+    - "parts/029-appendix-e-physik-und-biologie.md"
+
+- term: "Gesetze spezifischer Komplikation"
+  kind: concept
+  preferred: "laws of specific complication"
+  alternatives: []
+  status: seed
+  notes: "Weyl's M. Hartmann-backed phrase for biological laws: biology is not applied physics or chemistry, but its autonomy is law-like and methodological rather than anti-scientific."
+  evidence:
+    - "parts/024-science-03-23-kausalitaet-gesetz-zufall-freiheit.md"
+
+- term: "Doppelstellung des Ich"
+  kind: concept
+  preferred: "double position of the I"
+  alternatives:
+    - "dual position of the I"
+  status: open
+  notes: "The real boundary in section 23. The I is both an existent individual performing real psychic acts and `Gesicht`, meaning-giving consciousness or vision open to reason."
+  evidence:
+    - "parts/024-science-03-23-kausalitaet-gesetz-zufall-freiheit.md"
+
+- term: "Beweistheorie"
+  kind: concept
+  preferred: "proof theory"
+  alternatives:
+    - "Hilbertian proof theory"
+  status: open
+  notes: "Hilbert's program for treating mathematics as a formal proof game whose consistency could be secured by finitistic metamathematics. Appendix A marks Gödel's theorems as the collapse of the hope that proof theory could settle the foundations once and for all."
+  evidence:
+    - "parts/025-appendix-a-struktur-der-mathematik.md"
+
+- term: "finitistisch"
+  kind: term
+  preferred: "finitistic"
+  alternatives:
+    - "finitary"
+  status: seed
+  notes: "The strict evidence level Hilbert wanted for consistency proofs. Weyl treats Gentzen's proof as ingenious but not finitistic in Hilbert's sense, because it relies on induction reaching into Cantor's second number class."
+  evidence:
+    - "parts/025-appendix-a-struktur-der-mathematik.md"
+
+- term: "Diagonalverfahren"
+  kind: concept
+  preferred: "diagonal procedure"
+  alternatives:
+    - "diagonal argument"
+    - "diagonal method"
+  status: open
+  notes: "The Cantorian construction that forms a new sequence by differing from each member of an alleged enumeration at the corresponding place. Appendix A follows its transformation through Richard's paradox into Gödel's controlled arithmetical self-reference."
+  evidence:
+    - "parts/025-appendix-a-struktur-der-mathematik.md"
+
+- term: "Arithmetisierung"
+  kind: concept
+  preferred: "arithmetization"
+  alternatives:
+    - "arithmetization of syntax"
+  status: open
+  notes: "Gödel's encoding of symbols, formulas, and deductions as natural numbers. Weyl draws the philosophical consequence that the natural numbers are wide enough to map any fully formalized theory."
+  evidence:
+    - "parts/025-appendix-a-struktur-der-mathematik.md"
+
+- term: "Charakteristik"
+  kind: concept
+  preferred: "characteristic number"
+  alternatives:
+    - "characteristic"
+  status: seed
+  notes: "The Gödel-numbering value assigned to a formula or proof tree by prime-power products. Preserve `characteristic number` to distinguish the technical code from ordinary character or property."
+  evidence:
+    - "parts/025-appendix-a-struktur-der-mathematik.md"
+
+- term: "Lügnerparadoxon"
+  kind: concept
+  preferred: "liar paradox"
+  alternatives:
+    - "liar"
+  status: seed
+  notes: "Appendix A uses the ancient liar tradition to explain the shape of Gödelian self-reference, while stressing that Gödel replaces demonstrative semantic looseness with definite arithmetical numbers and functions."
+  evidence:
+    - "parts/025-appendix-a-struktur-der-mathematik.md"
+
+- term: "Auswahlaxiom"
+  kind: concept
+  preferred: "selection axiom"
+  alternatives:
+    - "axiom of selection"
+    - "axiom of choice"
+  status: open
+  notes: "In Weyl's Zermelo discussion this names the subset-carving principle that selects from a given set by a well-defined property. Keep a caution against collapsing every occurrence into the modern Axiom of Choice without checking context."
+  evidence:
+    - "parts/025-appendix-a-struktur-der-mathematik.md"
+
+- term: "Sündenfall und Erbsünde der Mengentheorie"
+  kind: concept
+  preferred: "fall and original sin of set theory"
+  alternatives:
+    - "fall and hereditary sin of set theory"
+  status: open
+  notes: "Weyl's Brouwerian diagnosis of the root error: an open field of infinite possibilities has been treated as a closed domain of independently existing things."
+  evidence:
+    - "parts/025-appendix-a-struktur-der-mathematik.md"
+
+- term: "transzendentale Logik"
+  kind: concept
+  preferred: "transcendental logic"
+  alternatives: []
+  status: open
+  notes: "The non-formal logical practice by which pre-Hilbert axiomatic systems use `not`, `if`, `there exists`, and `all` with their meanings intact. Appendix A also names Gödel's confidence in transcendental logic as the point where Weyl remains uneasy."
+  evidence:
+    - "parts/025-appendix-a-struktur-der-mathematik.md"
+
+- term: "theoretische Konstruktion der einen realen Welt"
+  kind: concept
+  preferred: "theoretical construction of the one real world"
+  alternatives:
+    - "theoretical construction of a single real world"
+  status: open
+  notes: "Appendix A's final standard for realistic mathematics: mathematics should be pursued parallel to physics, as disciplined construction of reality with sober caution toward hypothetical extensions, not as possession of final formal certainty."
+  evidence:
+    - "parts/025-appendix-a-struktur-der-mathematik.md"
+
+- term: "Aggregat"
+  kind: concept
+  preferred: "aggregate"
+  alternatives: []
+  status: open
+  notes: "Appendix B's basic combinatorial object: a collection of elements, possibly with repeated instances of the same kind or state. It is the bridge from symbolic mathematics to genetics, quantum statistics, and thermodynamics."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+
+- term: "Komplex"
+  kind: concept
+  preferred: "complex"
+  alternatives:
+    - "structured aggregate"
+  status: open
+  notes: "An aggregate equipped with a neighborhood or linkage relation among points. In Appendix B this becomes Weyl's formal schema for chromosomes, position effect, linkage, and structural mutation."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+
+- term: "Individuation"
+  kind: concept
+  preferred: "individuation"
+  alternatives: []
+  status: open
+  notes: "The problem of when two elements are merely alike and when they are numerically identical. Appendix B connects Leibniz's principle, the identity of the I, probability counting, quantum particles, and genetics through this pressure."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+
+- term: "Relativitätsprinzip"
+  kind: concept
+  preferred: "relativity principle"
+  alternatives: []
+  status: open
+  notes: "In Appendix B this is the abstract demand that objective statements about aggregates must be invariant under arbitrary relabeling of elements. It extends Weyl's invariance theme from geometry and physics into combinatorics."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+
+- term: "Invarianzpostulat"
+  kind: concept
+  preferred: "invariance postulate"
+  alternatives: []
+  status: seed
+  notes: "The permutation-group expression of the relativity principle for aggregate states: states related by relabeling count as the same effective state."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+
+- term: "monomisches Aggregat"
+  kind: concept
+  preferred: "monomic aggregate"
+  alternatives: []
+  status: open
+  notes: "An aggregate in which no two elements fall into the same relevant class, so natural states themselves individuate the elements and artificial labels are unnecessary. Weyl applies this to the electron gas under the Pauli principle."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+
+- term: "Genotypus / Phänotypus"
+  kind: distinction
+  preferred: "genotype / phenotype"
+  alternatives:
+    - "genetic constitution / visible development"
+  status: open
+  notes: "Appendix B treats genotype/environment as a basic organizing duality for heredity. The phenotype is the visible development determined by genotype under given external conditions. Appendix F uses the same distinction to caution against reading embryological similarity too quickly as phylogenetic repetition."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "Syngamie / Meiosis"
+  kind: distinction
+  preferred: "syngamy / meiosis"
+  alternatives:
+    - "union / division"
+  status: seed
+  notes: "The paired genetic operations that map Weyl's aggregate combinatorics into heredity: syngamy unites gametes into a zygote, while meiosis divides a zygote into complementary gametes. Appendix F treats their combinatorial play as the modern genetic replacement for Darwin's continuous hereditary variation."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "Bose-Einstein-Strahlungsstatistik"
+  kind: concept
+  preferred: "Bose-Einstein radiation statistics"
+  alternatives:
+    - "Bose-Einstein statistics"
+  status: seed
+  notes: "The photon-gas case where particles have no identity and the effective state is given by occupation numbers for photon states."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+
+- term: "Fermi-Dirac-Statistik"
+  kind: concept
+  preferred: "Fermi-Dirac statistics"
+  alternatives: []
+  status: seed
+  notes: "The electron-gas case governed by the Pauli exclusion principle, where no two electrons occupy the same complete state and the aggregate becomes monomic."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+
+- term: "Pauliverbot"
+  kind: concept
+  preferred: "Pauli exclusion principle"
+  alternatives:
+    - "Pauli prohibition"
+  status: open
+  notes: "The principle that no two electrons are found in the same complete state. Appendix B treats it as decisive for the periodic system, chemical bonding, and the physics of individuation; Appendix C explains it through permanent antisymmetry; Appendix D follows it into chemical valence through spin and permutation symmetry."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+    - "parts/028-appendix-d-chemische-valenz.md"
+
+- term: "Positions-Effekt"
+  kind: concept
+  preferred: "position effect"
+  alternatives: []
+  status: seed
+  notes: "The biological sign that phenotype depends not only on the aggregate of genetic points but also on the structure of the point-complex."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+
+- term: "Überkreuzen"
+  kind: concept
+  preferred: "crossing-over"
+  alternatives:
+    - "crossover"
+  status: seed
+  notes: "Morgan's genetic linkage mechanism: homologous chromosomes exchange links, loosening the association between points in the same chromosome."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+
+- term: "Punktmutation / Strukturmutation"
+  kind: distinction
+  preferred: "point mutation / structure mutation"
+  alternatives: []
+  status: seed
+  notes: "Appendix B distinguishes mutations that change a point's class while preserving links from mutations that alter the linkage structure while preserving point states. Appendix E ties point and structural mutation to X-ray mutation experiments and the claim that single ionization hits can produce hereditary change. Appendix F makes mutation, including polyploid structure mutation, indispensable to evolution once recombination alone proves insufficient."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+    - "parts/029-appendix-e-physik-und-biologie.md"
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "kanonische Verteilung"
+  kind: concept
+  preferred: "canonical distribution"
+  alternatives: []
+  status: open
+  notes: "The statistical-thermodynamic distribution proportional to `e^{-U/kT}`. Appendix B uses quantum discreteness to make the counting basis of thermodynamic equilibrium transparent."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+
+- term: "statistische Temperatur"
+  kind: concept
+  preferred: "statistical temperature"
+  alternatives: []
+  status: seed
+  notes: "The reciprocal parameter `α⁻¹` in the canonical distribution, later identified with `kT` by comparison with an ideal gas."
+  evidence:
+    - "parts/026-appendix-b-ars-combinatoria.md"
+
+- term: "Kausalbestimmung"
+  kind: concept
+  preferred: "causal determination"
+  alternatives:
+    - "causal determination in the strict sense"
+  status: open
+  notes: "Appendix C's opening target: strict determination of elementary atomic events. Weyl does not abolish causal law wholesale; he denies that strict causal determination stands behind measurement outcomes in the old classical way."
+  evidence:
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+
+- term: "Wellenzustand / Quantenzustand"
+  kind: distinction
+  preferred: "wave-state / quantum state"
+  alternatives:
+    - "wave state / quantum state"
+  status: open
+  notes: "Appendix C's decisive causal split. The wave-state evolves under strict law, while measurement by a grid projects it into one of several quantum states with only probabilities fixed in advance. Appendix D applies wave-state structure to valence, spin, and molecular bonding."
+  evidence:
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+    - "parts/028-appendix-d-chemische-valenz.md"
+
+- term: "Sieb / Gitter"
+  kind: distinction
+  preferred: "sieve / grid"
+  alternatives:
+    - "sieve / lattice"
+  status: open
+  notes: "`Sieb` carries Eddington's measurement image; `Gitter` names the formal decomposition into classes or orthogonal subspaces. In Appendix C the two terms connect concrete experimental selection with mathematical projection."
+  evidence:
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+
+- term: "Observable"
+  kind: concept
+  preferred: "observable"
+  alternatives:
+    - "state quantity"
+  status: seed
+  notes: "A quantity defined by assigning numbers to the quantum states supplied by a grid. In the quantum case observables are meaningful only relative to the relevant grid and its compatibility with others."
+  evidence:
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+
+- term: "vertauschbar / nicht-kommutativ"
+  kind: distinction
+  preferred: "commuting / noncommutative"
+  alternatives:
+    - "interchangeable / noncommuting"
+  status: open
+  notes: "The formal condition for combining grids. If projection operations commute, features can be combined classically; if not, the corresponding features are incompatible and classical `and/or` logic fails."
+  evidence:
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+
+- term: "Unbestimmtheitsprinzip"
+  kind: concept
+  preferred: "uncertainty principle"
+  alternatives: []
+  status: seed
+  notes: "Heisenberg's precise form of complementarity for position and momentum. Weyl uses it to show that the incompatibility is not human ignorance but a structural feature of the physical situation."
+  evidence:
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+
+- term: "Quantenlogik"
+  kind: concept
+  preferred: "quantum logic"
+  alternatives: []
+  status: open
+  notes: "Weyl's name for the logic required when features belonging to incompatible grids cannot be meaningfully combined by classical `and` or `or`."
+  evidence:
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+
+- term: "primäre Wahrscheinlichkeit"
+  kind: concept
+  preferred: "primary probability"
+  alternatives:
+    - "primary probability of nature"
+  status: open
+  notes: "Appendix C's strongest probability claim: probability is a fundamental property of nature itself and is not reducible to an observer's knowledge or ignorance."
+  evidence:
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+
+- term: "Antisymmetrie des Wellenzustandes"
+  kind: concept
+  preferred: "antisymmetry of the wave-state"
+  alternatives:
+    - "wave-state antisymmetry"
+  status: seed
+  notes: "The formal source of the Pauli exclusion principle for electron pairs. Appendix C uses it for Pauli exclusion; Appendix D uses it with electron spin to derive the permutation-symmetry structure behind chemical valence."
+  evidence:
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+    - "parts/028-appendix-d-chemische-valenz.md"
+
+- term: "Zerstrahlung"
+  kind: concept
+  preferred: "annihilation with photon emission"
+  alternatives:
+    - "annihilation radiation"
+  status: open
+  notes: "Dirac's term for the mutual annihilation of a positive and negative electron with emission of a photon of corresponding energy. Preserve the German when naming the source term."
+  evidence:
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+
+- term: "spontane Emission / erzwungene Emission"
+  kind: distinction
+  preferred: "spontaneous emission / induced emission"
+  alternatives:
+    - "spontaneous emission / forced emission"
+  status: open
+  notes: "Appendix C's final time-direction example. Induced processes are symmetric with respect to past and future; spontaneous emission lacks a corresponding spontaneous absorption and so roots the future light-cone direction in thermodynamic probability."
+  evidence:
+    - "parts/027-appendix-c-quantenphysik-und-kausalitaet.md"
+
+- term: "chemische Valenz"
+  kind: concept
+  preferred: "chemical valence"
+  alternatives: []
+  status: open
+  notes: "Appendix D treats chemical valence not as a primitive chemical line-count but as a mediated structure grounded in electron spin, antisymmetry, permutation symmetry, and quantum-mechanical bonding."
+  evidence:
+    - "parts/028-appendix-d-chemische-valenz.md"
+
+- term: "Valenzstrich / Valenzdiagramm"
+  kind: distinction
+  preferred: "valence line / valence diagram"
+  alternatives:
+    - "valence stroke / valence diagram"
+  status: open
+  notes: "Kekulé's diagrammatic layer. Weyl treats valence lines as useful abbreviating symbols for deeper quantum-mechanical forces, valid as provisional diagrams but not literal final pictures."
+  evidence:
+    - "parts/028-appendix-d-chemische-valenz.md"
+
+- term: "Tieferlegung der Fundamente"
+  kind: concept
+  preferred: "deepening of the foundations"
+  alternatives:
+    - "lowering of the foundations"
+  status: open
+  notes: "Hilbert's phrase for replacing a surface structure by a deeper foundation. Appendix D uses chemical valence as the case: Kekulé diagrams are grounded in quantum mechanics through an intermediate invariant-theoretic layer."
+  evidence:
+    - "parts/028-appendix-d-chemische-valenz.md"
+
+- term: "Hierarchie der Strukturen"
+  kind: concept
+  preferred: "hierarchy of structures"
+  alternatives:
+    - "structural hierarchy"
+  status: open
+  notes: "Appendix D's alpha-beta-gamma hierarchy: quantum mechanics at `α`, binary invariant manifolds at `β`, and valence diagrams at `γ`. History descends from diagrams toward foundations; explanation rises from foundations to diagrams."
+  evidence:
+    - "parts/028-appendix-d-chemische-valenz.md"
+
+- term: "Elektronenspin"
+  kind: concept
+  preferred: "electron spin"
+  alternatives: []
+  status: seed
+  notes: "The two-valued spin variable `ρ` that cannot be ignored even when its dynamic influence is neglected, because antisymmetry applies to position-spin pairs `(Pρ)`."
+  evidence:
+    - "parts/028-appendix-d-chemische-valenz.md"
+
+- term: "Spinordarstellung"
+  kind: concept
+  preferred: "spinor representation"
+  alternatives: []
+  status: seed
+  notes: "Pauli's transformation law for the two components `ψ_+(P)` and `ψ_−(P)` under rotations, linked by Weyl back to the section-15 discussion."
+  evidence:
+    - "parts/028-appendix-d-chemische-valenz.md"
+
+- term: "Klammerfaktor"
+  kind: concept
+  preferred: "bracket factor"
+  alternatives: []
+  status: seed
+  notes: "The basic binary invariant `[xy] = x_+y_- − x_-y_+`. Products of bracket factors generate monomial invariants whose diagrams correspond to Kekulé valence diagrams."
+  evidence:
+    - "parts/028-appendix-d-chemische-valenz.md"
+
+- term: "monomische Invariante / reiner Valenzzustand"
+  kind: distinction
+  preferred: "monomial invariant / pure valence state"
+  alternatives:
+    - "monomic invariant / pure valence state"
+  status: open
+  notes: "The invariant-theory layer behind valence diagrams. A monomial invariant corresponds to a pure diagrammatic valence state, while actual stationary states may be linear combinations of these pure states."
+  evidence:
+    - "parts/028-appendix-d-chemische-valenz.md"
+
+- term: "Permutationsresonanz"
+  kind: concept
+  preferred: "permutation resonance"
+  alternatives: []
+  status: seed
+  notes: "The splitting of the atomic term `ν_0` into molecular term systems when interactions among atoms are reintroduced after the first approximation assigning electrons to nuclear neighborhoods."
+  evidence:
+    - "parts/028-appendix-d-chemische-valenz.md"
+
+- term: "quantenmechanische Resonanz"
+  kind: concept
+  preferred: "quantum-mechanical resonance"
+  alternatives:
+    - "resonance between quantum states"
+  status: open
+  notes: "The resonance among states of nearly equal energy levels. Weyl uses benzene to show how stable molecular states can be linear combinations of pure Kekulé and Dewar diagram terms."
+  evidence:
+    - "parts/028-appendix-d-chemische-valenz.md"
+
+- term: "Strukturchemie"
+  kind: concept
+  preferred: "structural chemistry"
+  alternatives: []
+  status: seed
+  notes: "The modern chemistry that keeps plausible valence schemata while minimizing the resonance corrections forced by quantum mechanics."
+  evidence:
+    - "parts/028-appendix-d-chemische-valenz.md"
+
+- term: "Genaggregate"
+  kind: concept
+  preferred: "gene aggregates"
+  alternatives:
+    - "genetic aggregates"
+  status: open
+  notes: "Appendix D explicitly compares genetic aggregates and chromosomal linkages to chemical valence diagrams: useful provisional combinatorial schemata of limited validity awaiting deeper mediation. Appendix E moves into that mediation by treating genes as complex nuclein-protein molecules and mutations as quantum-linked chemical changes. Appendix F uses zygotic gene aggregates as the case where evolution becomes a problem of rare functional combinations in an enormous molecular possibility-space."
+  evidence:
+    - "parts/028-appendix-d-chemische-valenz.md"
+    - "parts/029-appendix-e-physik-und-biologie.md"
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "Selbst-Verdoppelung"
+  kind: concept
+  preferred: "self-duplication"
+  alternatives:
+    - "self-reduplication"
+  status: open
+  notes: "The gene's decisive life-property in Appendix E: a model gene organizes available cell material into a copy of itself. Viruses matter because they show self-duplication and mutation inside living cells while otherwise resembling inert matter. Appendix F extends this backward through Oparin's speculative protogenes and free ancestral genes."
+  evidence:
+    - "parts/029-appendix-e-physik-und-biologie.md"
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "Virus"
+  kind: concept
+  preferred: "virus"
+  alternatives:
+    - "naked gene"
+  status: seed
+  notes: "The boundary case between organic and inorganic matter. Weyl treats viruses as crystal-like nuclein-protein bodies that behave inertly outside living cells but show self-duplication and mutation inside them. Appendix F uses the virus as an example of evolution that may be regressive rather than progressive."
+  evidence:
+    - "parts/029-appendix-e-physik-und-biologie.md"
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "Nuklein-Protein"
+  kind: concept
+  preferred: "nuclein-protein"
+  alternatives:
+    - "nucleoprotein"
+  status: seed
+  notes: "The historical chemical carrier term Weyl uses for genes and viruses. Preserve the historical spelling while noting its role: it lets genes and viruses be treated as complex molecular structures rather than nonphysical life-principles."
+  evidence:
+    - "parts/029-appendix-e-physik-und-biologie.md"
+
+- term: "Akausalität"
+  kind: concept
+  preferred: "acausality"
+  alternatives:
+    - "non-causal element"
+  status: open
+  notes: "The quantum loosening of strict causal determination where it can matter biologically. In Appendix E, mutation supplies the central biological case: an atomic-scale event can become a hereditary macroscopic difference."
+  evidence:
+    - "parts/029-appendix-e-physik-und-biologie.md"
+
+- term: "Steuereffekt"
+  kind: concept
+  preferred: "control effect"
+  alternatives:
+    - "steering effect"
+  status: seed
+  notes: "Weyl's name for the biological relevance of small atomic groups: quantum physics matters for life wherever a moderate number of atoms can steer organism-scale events."
+  evidence:
+    - "parts/029-appendix-e-physik-und-biologie.md"
+
+- term: "Einzeltreffer / Zielscheibe"
+  kind: distinction
+  preferred: "single hit / target"
+  alternatives:
+    - "single-hit behavior / target volume"
+  status: seed
+  notes: "The radiation-genetics evidence for physical gene structure. Mutation rates show effects of individual ionization hits on a critical target volume rather than the combined effect of many hits."
+  evidence:
+    - "parts/029-appendix-e-physik-und-biologie.md"
+
+- term: "Delbrücksches Modell"
+  kind: concept
+  preferred: "Delbrück model"
+  alternatives:
+    - "Delbrück's model"
+  status: open
+  notes: "The model of mutation as a rare quantum jump or chemical change in a complex gene molecule caused by ionization of bound electrons. Weyl treats the specific model as complicated by later findings but keeps its direction: genes are complex molecules and mutations are linked with quantum events."
+  evidence:
+    - "parts/029-appendix-e-physik-und-biologie.md"
+
+- term: "Miniaturkodex / Entwicklungsplan"
+  kind: distinction
+  preferred: "miniature code / developmental plan"
+  alternatives:
+    - "miniature codex / development plan"
+  status: open
+  notes: "Weyl's way to recast the preformation/epigenesis problem. The combinatorial space of gene molecules can carry a miniature code corresponding to a complex developmental plan, but the mechanism of translating that code remains a live problem."
+  evidence:
+    - "parts/029-appendix-e-physik-und-biologie.md"
+
+- term: "aperiodischer Kristall"
+  kind: concept
+  preferred: "aperiodic crystal"
+  alternatives: []
+  status: open
+  notes: "Schrödinger's image for the gene: stable like a crystal, but not periodically repetitive, because each atom has a specific noninterchangeable place and role. The term carries Weyl's order-from-small-scale-order pressure."
+  evidence:
+    - "parts/029-appendix-e-physik-und-biologie.md"
+
+- term: "mikrophysikalische Freiheit"
+  kind: concept
+  preferred: "microphysical freedom"
+  alternatives: []
+  status: open
+  notes: "Jordan's phrase for locating life's control centers in the zone no longer governed by macroscopic causal determination. Weyl records the pressure but does not accept it as a complete account of freedom."
+  evidence:
+    - "parts/029-appendix-e-physik-und-biologie.md"
+
+- term: "biologisches Unbestimmtheitsprinzip"
+  kind: concept
+  preferred: "biological uncertainty principle"
+  alternatives: []
+  status: open
+  notes: "Bohr's proposed biological extension of quantum uncertainty: physical investigation of living processes may have natural limits, analogous to measurement limits in atomic physics. Weyl keeps the content explicitly unsettled."
+  evidence:
+    - "parts/029-appendix-e-physik-und-biologie.md"
+
+- term: "Verstehen von innen her"
+  kind: concept
+  preferred: "understanding from within"
+  alternatives:
+    - "inward understanding"
+    - "interpretation from within"
+  status: open
+  notes: "The nonconstructive route to life through direct self-awareness and interpretive grasp of other living beings. Weyl accepts it as a guide to important biological problems but denies that it can provide their objective theoretical solution. Appendix F repeats the limit: we do not know transcendental creative agencies in the same way we know thoughts and impulses through inward interpretation."
+  evidence:
+    - "parts/029-appendix-e-physik-und-biologie.md"
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "hohles Symbol"
+  kind: concept
+  preferred: "empty symbol"
+  alternatives:
+    - "hollow symbol"
+  status: open
+  notes: "The freedom constructive theory has because its symbols are not already full concrete experience. Inward understanding lacks this freedom precisely because it is concrete and full."
+  evidence:
+    - "parts/029-appendix-e-physik-und-biologie.md"
+
+- term: "Evolution / Schlußstein"
+  kind: distinction
+  preferred: "evolution / capstone"
+  alternatives:
+    - "development / capstone"
+  status: open
+  notes: "Appendix F's methodological claim: evolution is not the foundation of natural explanation but the capstone reached only after morphology, law, and inner constitution have been established."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "morphe"
+  kind: concept
+  preferred: "morphe"
+  alternatives:
+    - "form"
+    - "primary form"
+  status: open
+  notes: "The title under which Weyl gathers the pronounced forms, regularities, temporal sequences, and relatively permanent structures first found by scientific ordering before full dynamic explanation."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "absolute Naturkonstanten"
+  kind: concept
+  preferred: "absolute natural constants"
+  alternatives: []
+  status: open
+  notes: "The constants whose status tests physical explanation. Appendix F treats `c` and `h` as reducible to unit choice within relativity and quantum theory, while `e`, `α`, and `ε` remain deeper numerical mysteries."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "Elementarladung"
+  kind: concept
+  preferred: "elementary charge"
+  alternatives: []
+  status: seed
+  notes: "The fixed charge `e` shared by charged elementary particles up to sign. For Weyl it cannot yet be explained like `c` or `h`; it remains a fundamental order fact."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "Ordnung / Beharrlichkeit"
+  kind: distinction
+  preferred: "order / persistence"
+  alternatives:
+    - "order / inertia"
+  status: open
+  notes: "Appendix F distinguishes fixed elementary-particle values from ordinary conservation by inertia. Elementary charge and mass require an ordering principle that fixes and restores determinate values, not mere persistence of arbitrary initial values."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "Kristallstruktur"
+  kind: concept
+  preferred: "crystal structure"
+  alternatives:
+    - "crystal symmetry"
+  status: open
+  notes: "The formal model for moving from visible morphology to hidden atomic structure. Weyl uses crystal groups, lattices, and space groups to show how classification can pass into dynamic explanation."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "diskret / kontinuierlich"
+  kind: distinction
+  preferred: "discrete / continuous"
+  alternatives: []
+  status: open
+  notes: "Appendix F generalizes the crystal case: fixed group structure is discrete, while the compatible metric remains continuous. Weyl links this to morphology, nature/orientation, and constitution/environment."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "Konstitution / Umgebung"
+  kind: distinction
+  preferred: "constitution / environment"
+  alternatives:
+    - "inner constitution / outer conditions"
+  status: open
+  notes: "The schema for physical, chemical, genetic, and organismic features. Visible traits result from inner stable constitution under variable environmental conditions."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "nisus formativus"
+  kind: concept
+  preferred: "nisus formativus"
+  alternatives:
+    - "formative striving"
+  status: open
+  notes: "Weyl's phrase for nature's extravagant production of living form. It is descriptive pressure, not a promoted explanatory agent."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "Kosmogonie"
+  kind: concept
+  preferred: "cosmogony"
+  alternatives: []
+  status: seed
+  notes: "The reconstruction of universe and stellar-system origins. Weyl treats Jeans and Lemaître as legitimate but provisional because cosmogony depends on prior physics of gravitation, atoms, and stellar constitution."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "Ontogenese / Phylogenese"
+  kind: distinction
+  preferred: "ontogeny / phylogeny"
+  alternatives: []
+  status: open
+  notes: "Appendix F distinguishes individual development from evolutionary history and rejects treating Haeckel's biogenetic law as secure. Embryology may suggest common ancestry, but does not directly prove phylogeny."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "partikuläre Erblichkeit"
+  kind: concept
+  preferred: "particulate inheritance"
+  alternatives: []
+  status: seed
+  notes: "The genetic replacement for blending inheritance. Because genes retain their nature through sexual reproduction, variation is not quickly homogenized away."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "Polyploidie"
+  kind: concept
+  preferred: "polyploidy"
+  alternatives:
+    - "whole chromosome-set duplication"
+  status: seed
+  notes: "A structural mutation in which the whole chromosome set is duplicated. Appendix F treats it as one important way new combinatorial species can arise."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "Protogene"
+  kind: concept
+  preferred: "protogenes"
+  alternatives:
+    - "first self-duplicating units"
+  status: seed
+  notes: "Oparin's speculative first self-duplicating units emerging from a prebiotic accumulation of organic molecules. Weyl treats the hypothesis as valuable but explicitly speculative."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "schöpferische Zufälle"
+  kind: concept
+  preferred: "creative chances"
+  alternatives:
+    - "creative accidents"
+  status: open
+  notes: "Jordan's origin-of-life pressure: life may begin as a special molecular event that happens once and starts an autocatalytic avalanche. Weyl records the possibility without treating it as established explanation."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"
+
+- term: "Baupläne"
+  kind: concept
+  preferred: "plans"
+  alternatives:
+    - "structural plans"
+    - "blueprints"
+  status: open
+  notes: "The speculative teleological pressure that images, ideas, or plans may enter evolution as immaterial factors. Appendix F keeps this visible but denies that such factors currently solve concrete biological problems."
+  evidence:
+    - "parts/030-appendix-f-physische-welt.md"

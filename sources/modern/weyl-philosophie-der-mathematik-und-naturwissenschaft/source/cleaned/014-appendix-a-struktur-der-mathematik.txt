@@ -4,7 +4,8 @@ Section ID: appendix-a-struktur-der-mathematik
 Kind: appendix
 PDF pages: 280-303
 Printed pages: 279-302
-Status: visually corrected cleaned text; page images remain the authority.
+Status: visually corrected cleaned text; encounter complete in parts/025;
+page images remain the authority.
 
 [[pdf-page:0280 printed-page:279]]
 
@@ -129,9 +130,9 @@ auf die Arithmetik beschränken wollen, lassen wir das Symbol ε
 und die transfinite mengentheoretische Regel (*) auf Seite 80
 fallen. Da unsere Variabeln dann nur für „beliebige natürliche
 Zahlen“ stehen werden (und nicht für Mengen solcher Zahlen
-und dergleichen), müssen der Operator Σ und die beiden dazugehörigen Regeln
+und dergleichen), müssen der Operator Z und die beiden dazugehörigen Regeln
 
-Σx; 𝔄(𝔟) → Σx𝔄(x)
+Z1;  Z𝔟 → Z(σ𝔟)
 
 ausgeschaltet werden. Die Folge der natürlichen Zahlen lassen wir
 mit 0 anstatt mit 1 anfangen, und das Symbol σ ersetzen wir durch
@@ -146,7 +147,7 @@ denen 𝔟 und 𝔠 irgendwelche formale Zahlen sein können)
 𝔟 · 0 = 0.  𝔟 · '𝔠 = (𝔟 · 𝔠) + 𝔟.
 Das Prinzip der mathematischen Induktion wird durch die Form
 
-Πx(𝔄(x) → 𝔄('x)) → (𝔄(0) → 𝔄(𝔟))
+Πₓ(𝔄(x) → 𝔄('x)) → (𝔄(0) → 𝔄(𝔟))
 
 eingeführt, in welcher 𝔄(x) irgend ein x-Prädikat (= eine fak-
 
@@ -156,7 +157,7 @@ tische Formel, die keine freie Variable außer möglicherweise x
 enthält) und 𝔟 irgend eine formale Zahl sein kann.
 Die Axiome
 
-𝔄(𝔟) → Σx𝔄(x),   Σx𝔄(x) → 𝔄(εx𝔄(x))      (2)
+𝔄(𝔟) → Σₓ𝔄(x),   Σₓ𝔄(x) → 𝔄(εₓ𝔄(x))      (2)
 
 stehen natürlich für jede beliebige Variable x, die in unserem
 Symbolismus vorkommt.
@@ -206,9 +207,9 @@ Die intuitiv definierte Funktion f(ν) muß unterschieden
 werden von der numerischen Formel x + x, die für den Augenblick kurz durch f(x) dargestellt sein möge. Ist μ der Wert von
 f(ν) für eine gegebene Zahl ν, dann ist die Formel f(ν) = μ
 deduzierbar in dem Formalismus; z. B. ist wegen f(2)=4 die
-Formel ''0 + ''0 = ''''0 deduzierbar. Um dies allgemein zu beweisen, muß man die Formel Πx('x + 'x) = ''(x + x), abgekürzt Πx(f('x) = ''f(x)), ableiten, die die Formel f('a) =
+Formel ''0 + ''0 = ''''0 deduzierbar. Um dies allgemein zu beweisen, muß man die Formel Πₓ('x + 'x) = ''(x + x), abgekürzt Πₓ(f('x) = ''f(x)), ableiten, die die Formel f('a) =
 ''f(a) nicht bloß für eine wirkliche, sondern für jede beliebige
-formale Zahl a liefert. Genau so ist das x-Prädikat 𝔉(x) ≡ Σy(x =
+formale Zahl a liefert. Genau so ist das x-Prädikat 𝔉(x) ≡ Σᵧ(x =
 (y + y)) formales Äquivalent zu der Eigenschaft 𝔉 des Geradeseins. Tatsächlich ist die Formel 𝔉(ν) deduzierbar, wenn 𝔉(ν) für
 eine gegebene Zahl ν (ν gerade) gilt; doch ist die Formel ¬𝔉(ν)
 deduzierbar, falls 𝔉̄(ν) (ν ungerade) gilt. Unser Formalismus muß
@@ -220,13 +221,13 @@ definierte Funktion ist.
 Nun sind wir in der Lage genauer zu beschreiben, worin Gödels
 erstes Theorem besteht. Er konstruiert induktiv eine definite Eigenschaft 𝔉 mit dem x-Prädikat F als formales Äquivalent so, daß
 keine wirkliche Zahl ν die Eigenschaft 𝔉 hat, solange die Formel
-¬ΣxF(x) (die die Feststellung „Keine Zahl hat die Eigenschaft“
+¬ΣₓF(x) (die die Feststellung „Keine Zahl hat die Eigenschaft“
 symbolisiert) nicht deduzierbar im Formalismus ist. Da 𝔉̄(ν) gilt,
-ist ¬F(ν) deduzierbar. Sei a die Abkürzung für εxF(x); beachtet
+ist ¬F(ν) deduzierbar. Sei a die Abkürzung für εₓF(x); beachtet
 
 [[pdf-page:0286 printed-page:285]]
 
-man, daß ΣxF(x) → F(a) oder ¬F(a) → ¬ΣxF(x) gilt, so stehen
+man, daß ΣₓF(x) → F(a) oder ¬F(a) → ¬ΣₓF(x) gilt, so stehen
 wir folgender Situation gegenüber: ¬F(ν) ist immer dann deduzierbar, wenn ν eine wirkliche Zahl, nämlich eine der Formen (3)
 ist; doch ist ¬F(a) nicht deduzierbar für eine gewisse explizit konstruierte Zahl a.
 
@@ -235,23 +236,23 @@ Form des „Diagonalverfahrens“ herein, mit welchem Cantor bewies, daß das Ko
 reelle Zahl im Intervall (0,1) durch einen dualen Bruch, d. h. durch
 eine unendliche Folge R von Nullen und Einsen:
 
-R = r1 r2 ... rν ...; (rν = 0 oder 1).
+R = r₁ r₂ ... rν ...; (rν = 0 oder 1).
 
 Die Annahme, alle derartigen „dualen Brüche“ könnten selbst in
 einer Folge R^(1), R^(2), ...,
 
-R^(μ), ... (μ = 1, 2, 3, ...)
+R^(μ) = r₁^(μ) r₂^(μ) ... (μ = 1, 2, 3, ...)
 
 angeordnet werden, führt zu einem Widerspruch. Schreibt man sie
 tatsächlich in dieser Ordnung untereinander und nimmt die in der
 Diagonalen stehenden Ziffern und ersetzt jede 0 durch eine 1, jede
-1 durch eine 0, so erhält man eine Folge Q = q1 q2 q3 ..., die sich von
-R^(1) in der ersten Stelle, q1 ≠ r1^(1), von R^(2) in der zweiten Stelle,
-q2 ≠ r2^(2), usw. unterscheidet, und die deshalb mit keinem der R^(μ)
+1 durch eine 0, so erhält man eine Folge Q = q₁ q₂ q₃ ..., die sich von
+R^(1) in der ersten Stelle, q₁ ≠ r₁^(1), von R^(2) in der zweiten Stelle,
+q₂ ≠ r₂^(2), usw. unterscheidet, und die deshalb mit keinem der R^(μ)
 in der Folge zusammenfällt. Dieser Widerspruch beweist die Unmöglichkeit des Abzählens aller dualen Brüche R.
 
 Deutet man 0 und 1 als die beiden Wahrheitswerte wahr und
-falsch, so wird eine Folge wie R = r1 r2 ... äquivalent dem Prädikat
+falsch, so wird eine Folge wie R = r₁ r₂ ... äquivalent dem Prädikat
 R(x), das für eine Zahl x = ν gilt, wenn rν = 0 ist, und das nicht
 gilt, wenn rν = 1 ist. Unsere gesamte Matrix rν^(μ) aus den Nullen
 und Einsen wird äquivalent einer binären Relation S(y, x), die
@@ -285,8 +286,8 @@ geordneten Registratur finden.
 In dieser Form kann das Paradoxon mathematisch nicht diskutiert werden, da es sich auf die Bedeutung von Sätzen der deutschen Sprache bezieht, was natürlich eine etwas unsichere Angelegenheit ist. Doch gibt es für eine Definition bessere Mittel als
 die Sprache. Ganz am Anfang dieses Buches haben wir in § 1 von
 der logischen Struktur der Urteile und Urteilsfunktionen gesprochen und gesehen, daß Eigenschaften von Zahlen durch fortgesetzte kombinierte Anwendung von wenigen Prinzipien des Aufbaus definiert werden, wie sie auf den Seiten 18—19 beschrieben
-sind. Später lernten wir, daß wir den Gebrauch der Zeichen Σx
-und Πx aufgeben müssen, wenn wir darauf bestehen, daß unsere
+sind. Später lernten wir, daß wir den Gebrauch der Zeichen Σₓ
+und Πₓ aufgeben müssen, wenn wir darauf bestehen, daß unsere
 Urteile eine anschaulich verifizierbare Bedeutung haben; dafür
 wird ein Definitionsprinzip durch Induktion hinzugefügt. Doch
 können wir in einem symbolischen Formalismus, in dem die Frage
@@ -294,7 +295,7 @@ können wir in einem symbolischen Formalismus, in dem die Frage
 [[pdf-page:0288 printed-page:287]]
 
 nach Bedeutung und Wahrheit nicht gestellt wird, sogar etwas
-einfügen wie Hilberts εx. Ob wir aber x-Prädikate durch einen
+einfügen wie Hilberts εₓ. Ob wir aber x-Prädikate durch einen
 systematisierten Prozeß rekursiver Definitionen (System Δ), oder
 durch einen Formalismus M beschreiben, es lassen sich doch immer
 die konstruierbaren x-Prädikate aufzählen (so daß auf dieses oder
@@ -317,9 +318,9 @@ Operatoren frei gehalten, die später unter Umständen eingeführt
 
 0, ~, →, &, ∨, =, ', +, ·        (Konstanten und Operatoren)
 1, 6, 11, 16, 21, 26, 31, 36, 41 (Zahlen der Form 5n + 1)
-x, y, z, u, ... (Variable)       Σx, Σy, Σz, Σu, ...
+x, y, z, u, ... (Variable)       Σₓ, Σᵧ, Σz, Σu, ...
 2, 7, 12, 17, ... (Zahlen 5n + 2)  3, 8, 13, 18, ... (5n + 3)
-Πx, Πy, Πz, Πu, ...              εx, εy, εz, εu, ...
+Πₓ, Πᵧ, Πz, Πu, ...              εₓ, εᵧ, εz, εu, ...
 
 4, 9, 14, 19, ... (5n + 4)       5, 10, 15, 20, ... (5n + 5)
 
@@ -342,11 +343,11 @@ zu i0 und i1; für einen bzw. für zwei Abkömmlinge.]
 Regel der nebenstehenden Figur fortgesetzt. Wie Platon deuten
 wir ein „Zahlzeichen“
 
-i = r1 ... rh    (r1 = 1; r2, ..., rh = 0 oder 1)
+i = r₁ ... rh    (r₁ = 1; r₂, ..., rh = 0 oder 1)
 als die dyadische Darstellung der Zahl
 
-i = r1 · 2^(h−1) + r2 · 2^(h−2) + ... + rh.
-So besteht die Beschreibung der Formel darin, für jede Stellenmarke i ihres Stammbaums die Bezeichnung κi des Symbols zu
+i = r₁ · 2^(h−1) + r₂ · 2^(h−2) + ... + rh.
+So besteht die Beschreibung der Formel darin, für jede Stellenmarke i ihres Stammbaums die Bezeichnung κᵢ des Symbols zu
 geben, das diese Stelle einnimmt.
 
 Nimmt man zum Beispiel die einfache Formel
@@ -373,10 +374,10 @@ Nun seien π1, π2, ... die Primzahlen in ihrer natürlichen Ordnung,
 π1 = 2, π2 = 3, π3 = 5, π4 = 7, ....
 
 (Nach Euklid ist die Folge unendlich.) Dem Formelstammbaum,
-in welchem die Stelle i mit der Symbolnumerierung κi versehen ist,
+in welchem die Stelle i mit der Symbolnumerierung κᵢ versehen ist,
 ordnen wir die Zahl (Charakteristik)
 
-ν = Πiπi^κi        (5)
+ν = Πᵢπᵢ^κᵢ        (5)
 
 zu; das Produkt erstreckt sich über die einzelnen Stellenmarken i
 des Stammbaums. Zum Beispiel ist die Charakteristik der Formel (4)
@@ -398,7 +399,7 @@ jede denkbare Formel mit einer Zahl ν charakterisiert, so können
 wir wiederum das Prinzip anwenden, worauf die Formation (5)
 der Charakteristik eines Symbolstammbaums fußt, und somit die
 charakteristische Zahl μ einer Deduktion P durch das Produkt
-Πiπi^νi bestimmen, wo νi die Nummer der Formel ist, die die mit i
+Πᵢπᵢ^νᵢ bestimmen, wo νᵢ die Nummer der Formel ist, die die mit i
 
 [[pdf-page:0291 printed-page:290]]
 
@@ -460,9 +461,9 @@ konstruierte s ist nicht zweckentsprechend aus dem einfachen
 Grunde, weil s(μ, ν) eine numerische und nicht etwa eine faktische
 Formel ist. Aber es ist klar, wie man weiterkommt: S(μ, ν) müßte
 für die Feststellung stehen, daß die Formel mit der Nummer s(μ, ν)
-wahr ist. Deutet man hier Wahrheit als Deduzierbarkeit, so gelangt man zu folgender Definition von S inunserem Formalismus:
+wahr ist. Deutet man hier Wahrheit als Deduzierbarkeit, so gelangt man zu folgender Definition von S in unserem Formalismus:
 
-S(z,x) ≡ ΣyD(y,s(z,x)).
+S(z, x) ≡ ΣᵧD(y, s(z, x)).
 
 Eine Aufgabe für die weitere Untersuchung ist, das Ausmaß abzugrenzen, bis zu dem Formeln wie (6) für dieses S deduzierbar
 sind.
@@ -470,11 +471,11 @@ sind.
 Nach diesen Zwischenbemerkungen nehmen wir unsere systematische Darlegung wieder auf. Bilden wir einmal das x-Prädikat
 ¬S(x,x), d. h.
 
-¬ΣyD(y,s(x,x)),
+¬ΣᵧD(y, s(x, x)),
 
 und berechnen seine Charakteristik γ (eine Zahl von phantastischer Größe!). Ersetzen wir in dieser Formel mit der Charakteristik γ das x durch die Zahl γ, so erhalten wir die Formel
 
-¬ΣyD(y,s(γ,γ))        (7)
+¬ΣᵧD(y, s(γ,γ))        (7)
 
 [[pdf-page:0293 printed-page:292]]
 
@@ -521,7 +522,7 @@ Pal., 11.235 zugeschrieben, ohne daß wir wissen mit welchem Recht.
 
 fähigt uns, ähnlich der Sprache die Wahrheit eines Satzes (hier
 einer Formel) durch einen Satz (eine Formel) festzustellen. Tatsächlich können wir für jede geschlossene Formel a die Form
-ΣyD(y, a) aufstellen. Überdies hängt das Lügnerparadoxon von
+ΣᵧD(y, a) aufstellen. Überdies hängt das Lügnerparadoxon von
 den Demonstrativwörtern „Dies“, „Ich“, „Jetzt“ ab, durch welche
 die Bedeutung des Satzes erlischt („cassatio“ in der Terminologie
 des Paulus Venetus). Hier wird dieser Antinomie-Charakter durch
@@ -538,7 +539,7 @@ folgende Beispiel der axiomatischen Regel (1)
 
 in zwei syllogistischen Schritten die Formel D(μ, s(γ, γ)). Aus ähnlichen
 Gründen ist ¬D(μ, s(γ, γ)) deduzierbar, wenn ϑ̄(μ, β) gilt. Wie früher
-angekündigt, zeigen wir zweierlei: 1) die Formel ¬ΣyF(y) ist nicht
+angekündigt, zeigen wir zweierlei: 1) die Formel ¬ΣᵧF(y) ist nicht
 deduzierbar; 2) wenn μ eine beliebige gegebene Zahl ist, dann gilt 𝔉̄(μ).
 Der Beweis hängt von einer Annahme und einer Tatsache ab: (A) der
 Formalismus ist widerspruchsfrei; (B) er ist umfassend genug, uns mit
@@ -550,10 +551,10 @@ Der Beweis für 1) ist indirekt. Angenommen wir hätten die Formel
 definite Zahl μ so, daß ϑ(μ, β) gilt. Deshalb sind D(μ, β) und D(μ,
 s(γ,γ)) deduzierbar. Doch gilt
 
-D(μ, s(γ,γ)) → ΣyD(y,s(γ,γ))
+D(μ, s(γ,γ)) → ΣᵧD(y, s(γ,γ))
 
-nach der allgemeinen axiomatischen Regel A(b) → ΣyA(y). Folglich
-haben wir die Formel ΣyD(y, s(γ, γ)) ebenso wie (7) deduziert, und das
+nach der allgemeinen axiomatischen Regel A(b) → ΣᵧA(y). Folglich
+haben wir die Formel ΣᵧD(y, s(γ, γ)) ebenso wie (7) deduziert, und das
 führt auf einen offensichtlichen Widerspruch.
 
 Ist μ eine beliebige Zahl, so gilt ϑ(μ, β) nicht. Gälte es nämlich, so
@@ -572,7 +573,7 @@ Die so definierte arithmetische Funktion neg hat ihr formales Gegenstück neg. D
 willkürliche formale Zahl enthaltende Formel Ω(b) ausgedrückt
 werden:
 
-ΣyD(y,b) → ¬ΣyD(y, neg b).
+ΣᵧD(y,b) → ¬ΣᵧD(y, neg b).
 
 Dann behaupten wir: Ist der Formalismus wirklich widerspruchsfrei,
 d. h. kann die Formel ¬(0 = 0) nicht deduziert werden, so können wir
@@ -580,7 +581,7 @@ ein definites Beispiel der Formel für die Widerspruchslosigkeit Ω(b) aufweisen
 
 Aus unserem Argument soll auch klar hervorgehen, welches dieses
 besondere Beispiel ist. Sei φ die Zahl des y-Prädikats D(y, s(γ, y)) und
-a eine Abkürzung für εyD(y,s(γ,y)). Dann wählen wir für b die
+a eine Abkürzung für εᵧD(y, s(γ,y)). Dann wählen wir für b die
 Formel t(φ, a). Hier sollen nun nicht die verschiedenen Schritte des
 Einwandes durchgegangen werden. Es läuft auf eine Beschreibung eines
 definiten Prozesses hinaus, durch welchen eine (hypothetische) Deduktion eines spezifischen Beispiels Ω(b) der Formel der Widerspruchsfreiheit in eine Deduktion von ¬(0 = 0), d. h. eines wirklichen Widerspruchs
@@ -591,7 +592,7 @@ Beweis der Widerspruchsfreiheit ein Formalismus geliefert werden
 kann, der umfassend genug ist, die klassische Mathematik zu umschließen, so gewinnen die vor Hilbert ohne solche ehrgeizigen
 Träume entwickelten axiomatischen Systeme erneutes Interesse.
 Hier wurden die logischen Termini „nicht“ ¬, „falls..., dann...“
-→, „es gibt“ Σx usw. noch in ihrer Bedeutung verstanden, und die
+→, „es gibt“ Σₓ usw. noch in ihrer Bedeutung verstanden, und die
 Deduktion geschah durch jene Art der transzendentalen Logik,
 auf die man sich gewöhnlich in Geometrie und Analysis verläßt,
 mit Einschluß des freien Gebrauchs von „es existiert“ und „alle“
