@@ -11,7 +11,7 @@ Scope:
 - source manifest checked:
   `source/sections.yaml`
 - current encounter range:
-  `parts/001` through `parts/021`
+  `parts/001` through `parts/022`
 
 ## Audit Summary
 
@@ -24,11 +24,10 @@ Completed source-local encounter coverage:
 - Mathematics part II, sections 5-11
 - Mathematics part III, sections 12-15
 - Natural science part I, sections 16-18
-- Natural science part II, sections 19-20
+- Natural science part II, sections 19-21
 
 Still pending:
 
-- Natural science part II, section 21
 - Natural science part III, sections 22-23
 - Appendices A-F
 - whole-book synthesis
@@ -37,14 +36,16 @@ Still pending:
 Current validation evidence:
 
 - `glossary.yaml` parses as YAML
-- source-local glossary currently has 215 entries
+- source-local glossary currently has 227 entries
 - chapter-III geometry work is committed in `e9ba973`
 - section-16 natural-science work is committed in `9273f21`
 - section-17 natural-science work is committed in `783a75c`
 - section-18 natural-science work and natural science part-I synthesis are
   committed in `063de1d`
 - section-19 methodology work is committed in `a8865bb`
-- section-20 methodology work is validated in this batch
+- section-20 methodology work is committed in `3cc2511`
+- section-21 methodology work and natural science part-II synthesis are
+  validated in this batch
 
 ## Prompt-To-Artifact Checklist
 
@@ -56,10 +57,10 @@ Current validation evidence:
 | List every cleaned file | See `Cleaned File Audit` below | Done |
 | List section/page-image ranges | See `Cleaned File Audit`; page images follow `source/page-images/jpg-200/page-%04d.jpg` | Done |
 | List translation/encounter status | See `Cleaned File Audit` and `Encounter Parts` | Done |
-| List glossary status | `glossary.yaml`, 215 parsed entries | Done |
+| List glossary status | `glossary.yaml`, 227 parsed entries | Done |
 | List synthesis status | See `Synthesis Status` | Done |
 | List promotion status | See `Promotion Status` | Done |
-| Complete Part II: Natural Science | Sections 16-20 done; sections 21-23 pending | Not done |
+| Complete Part II: Natural Science | Sections 16-21 done; sections 22-23 pending | Not done |
 | Complete Appendices A-F | Cleaned drafts exist, no encounter parts yet | Not done |
 | Whole-book synthesis | No whole-book synthesis file yet | Not done |
 | Promoted `texts/` completion | Minimal chapter-II promoted object exists; full object pending | Not done |
@@ -81,7 +82,7 @@ Current validation evidence:
 | `009-math-02-zahl-und-kontinuum.txt` | chapter II, sections 5-11, printed 47-90 | `page-0048.jpg`-`page-0091.jpg` | `parts/006`-`012` complete | glossary-backed | `2026-05-08-chapter-ii-campaign-synthesis.md` | promoted as chapter-II dossier |
 | `010-math-03-geometrie.txt` | chapter III, sections 12-15, printed 91-124 | `page-0092.jpg`-`page-0125.jpg` | `parts/013`-`016` complete | glossary-backed | `2026-05-08-chapter-iii-campaign-synthesis.md` | chapter-II dossier pressure note only |
 | `011-science-01-raum-und-zeit.txt` | natural science I, sections 16-18, printed 125-176 | `page-0126.jpg`-`page-0177.jpg` | sections 16-18 complete in `parts/017`-`019` | sections 16-18 glossary-backed | `2026-05-10-natural-science-i-raum-und-zeit-synthesis.md` | pressure note pending; not promoted as standalone |
-| `012-science-02-methodologie.txt` | natural science II, sections 19-21, printed 177-209 | `page-0178.jpg`-`page-0210.jpg` | sections 19-20 complete in `parts/020`-`021`; section 21 pending | sections 19-20 glossary-backed | pending after section 21 | not promoted |
+| `012-science-02-methodologie.txt` | natural science II, sections 19-21, printed 177-209 | `page-0178.jpg`-`page-0210.jpg` | sections 19-21 complete in `parts/020`-`022` | sections 19-21 glossary-backed | `2026-05-10-natural-science-ii-methodologie-synthesis.md` | pressure note pending; not promoted as standalone |
 | `013-science-03-das-weltbild.txt` | natural science III, sections 22-23, printed 210-278 | `page-0211.jpg`-`page-0279.jpg` | pending | pending | pending | not promoted |
 | `014-appendix-a-struktur-der-mathematik.txt` | appendix A, printed 279-302 | `page-0280.jpg`-`page-0303.jpg` | pending | pending | pending | not promoted |
 | `015-appendix-b-ars-combinatoria.txt` | appendix B, printed 303-323 | `page-0304.jpg`-`page-0324.jpg` | pending | pending | pending | not promoted |
@@ -117,10 +118,11 @@ Complete encounter parts:
 - `019-science-01-18-das-raumproblem.md`
 - `020-science-02-19-das-messen.md`
 - `021-science-02-20-die-begriffsbildung.md`
+- `022-science-02-21-theorienbildung.md`
 
 Pending next encounter:
 
-- section 21, `Theorienbildung`, in `012-science-02-methodologie.txt`
+- section 22 in `013-science-03-das-weltbild.txt`
 
 ## Synthesis Status
 
@@ -130,10 +132,10 @@ Complete source-local syntheses:
 - `synthesis/2026-05-08-chapter-ii-campaign-synthesis.md`
 - `synthesis/2026-05-08-chapter-iii-campaign-synthesis.md`
 - `synthesis/2026-05-10-natural-science-i-raum-und-zeit-synthesis.md`
+- `synthesis/2026-05-10-natural-science-ii-methodologie-synthesis.md`
 
 Pending syntheses:
 
-- natural science part II synthesis after section 21
 - natural science part III synthesis after sections 22-23
 - appendix synthesis after appendices A-F
 - whole-book synthesis
@@ -155,17 +157,20 @@ Promotion is intentionally partial:
 - sections 16-18 confirm the geometry-to-physics bridge, its subject/object
   payoff, and the constitution/limit of intuitive space but are not promoted
   as a standalone dossier yet
+- sections 19-21 add methodology pressure: measurement, concept-formation, and
+  theory-formation show symbolic construction as experiment-coupled and
+  corrigible as a whole
 - full promoted Weyl object remains pending until the natural-science and
   appendix campaigns are complete
 
 ## Next Required Work
 
-Continue Part II: Natural Science with section 21:
+Continue Part III of Natural Science with section 22:
 
-- visually inspect `page-0193.jpg` onward
-- correct section 21 German in `source/cleaned/012-science-02-methodologie.txt`
-- create the section-21 encounter part
+- visually inspect `page-0211.jpg` onward
+- correct section 22 German in `source/cleaned/013-science-03-das-weltbild.txt`
+- create the section-22 encounter part
 - update `journal.md` and `glossary.yaml`
 - validate YAML and diff whitespace
-- keep promoted-dossier changes as pressure notes until sections 19-23 clarify
-  Weyl's explicit methodology and world-picture
+- keep promoted-dossier changes as pressure notes until sections 22-23 clarify
+  Weyl's explicit world-picture, substance, and causality claims

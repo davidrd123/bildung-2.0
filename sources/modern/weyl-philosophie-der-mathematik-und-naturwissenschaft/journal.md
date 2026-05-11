@@ -1262,3 +1262,81 @@ Next batch:
 - section 21, `Theorienbildung`, begins on printed page 192 / PDF page 193
 - section 21 should complete the methodology arc from measurement through
   concept-formation to theory-formation before a part-II synthesis is written
+
+## 2026-05-10 - Part 022: Theory-Formation
+
+Translated section 21, `Theorienbildung`, completing natural-science part II,
+`Methodologie`.
+
+Scope:
+
+- section 21 begins on printed page 192 / PDF page 193, after `Die
+  Begriffsbildung`
+- it ends with the methodology literature list on printed page 209 / PDF page
+  210
+
+Source corrections:
+
+- visually checked page images `page-0193.jpg` through `page-0210.jpg`
+- repaired damaged quotes in Dilthey, Enriques, `Vieldeutigkeit der Wahrheit`,
+  `Ausflucht`, `einleuchtende`, Huyghens, Leibniz, Galilei, Newton, Mach,
+  Maxwell, Kant, and Nietzsche
+- corrected OCR and notation errors: `= ∞`, `Augenblick t`, `t → t + dt`,
+  `Opere XIII`, `§ 19`, `Traité de la Lumière`, `in die sich freilich`,
+  `da er`, `kreisförmigen`, `offen`, `Galilei leitet`, `Hamiltonschen
+  Gleichungen an`, `Lorentz gewann`, `konnte`, `Lichttheorie`, `Substanz`,
+  and the French literature titles
+- normalized source abbreviation spacing such as `z. B.`, `a. a. O.`, `S. 16`,
+  `S. 20`, and `S. 27`
+
+What the batch clarified:
+
+- natural science tests theory-systems, not isolated laws; the full nexus of
+  geometry, concepts, laws, and correction procedures is what meets experiment
+- symbolic construction is coupled to experience and experiment, not a license
+  for free formal invention
+- theory develops by coarse correctness yielding fine inaccuracy and
+  correction; Roemer's discovery of finite light speed is the paradigm
+- when fact and theory clash, no rule mechanically identifies the failure
+  point; Einstein's use of the equality of gravitational and inertial mass
+  marks the role of theoretical genius
+- Weyl replaces the sharp Kantian `a priori / a posteriori` opposition with a
+  scale of firmness inside the theory-system
+- simplicity is a seal of truth only when historically educated by widening
+  experience and mathematically prepared function-classes
+- sufficient reason, continuity, and analogy are powerful theory-guides but
+  must be disciplined by experience; Leibniz supplies both tools and warning
+- Maxwell's physical analogy gives the middle path between opaque mathematics
+  and dogmatic physical hypothesis
+- theory aims at prediction, but trust in induction cannot be justified
+  without circularity; Weyl names the underlying stance `Weltvertrauen` and
+  `Selbstvertrauen`
+- Kant's problem remains open as an infinite task, with substance and
+  causality named as the usable core for the next section
+
+Translation decisions:
+
+- `Theorienbildung` is `theory-formation`
+- `symbolische Konstruktion` remains `symbolic construction`
+- `Stufenskala der Festigkeit` is `scale of firmness`
+- `Einfachheit` is `simplicity`
+- `Vollkommenheit` is `perfection`
+- `Satz vom zureichenden Grunde` is `principle of sufficient reason`
+- `Kontinuitätsprinzip` is `continuity principle`
+- `Analogieprinzip` is `analogy principle`
+- `Scheinbilder` is `semblance-images`
+- `Weltvertrauen` and `Selbstvertrauen` are `world-trust` and `self-trust`
+
+Part-II synthesis:
+
+- wrote `synthesis/2026-05-10-natural-science-ii-methodologie-synthesis.md`
+- synthesis decision: do not finalize the promoted natural-science dossier yet;
+  section 22 still has to say what happens to substance and causality
+
+Next batch:
+
+- begin natural-science part III with section 22 in
+  `013-science-03-das-weltbild.txt`
+- guiding question: what physical world-picture results when substance and
+  causality are reworked under Weyl's method of symbolic, experiment-coupled,
+  theory-level construction?

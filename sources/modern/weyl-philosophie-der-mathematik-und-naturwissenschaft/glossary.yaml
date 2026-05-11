@@ -1114,10 +1114,11 @@
     - "theoretical shaping"
     - "theoretical configuration"
   status: open
-  notes: "The creative systematic construction required especially by physics, where only the system as a whole is confronted with experience. Section 11 generalizes this as the symbolic construction that can satisfy the theoretical need for totality without claiming direct intuitive possession of the transcendent."
+  notes: "The creative systematic construction required especially by physics, where only the system as a whole is confronted with experience. Section 11 generalizes this as the symbolic construction that can satisfy the theoretical need for totality without claiming direct intuitive possession of the transcendent. Section 21 gives the natural-science form: the full nexus of geometry, concepts, laws, and correction procedures is what meets experiment."
   evidence:
     - "parts/011-math-02-10-symbolische-mathematik.md"
     - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
+    - "parts/022-science-02-21-theorienbildung.md"
 
 - term: "Einstimmigkeit"
   kind: concept
@@ -1126,10 +1127,11 @@
     - "agreement"
     - "consistency"
   status: open
-  notes: "The one strictly formulable rational principle for theoretical formation. In mathematics, where the sensibly given is not yet touched, it reduces to consistency. Section 17 re-expands it for empirical theory: every theoretical determination must agree with every other and with possible perception, so concordance exceeds noncontradiction by bringing theory into contact with experience."
+  notes: "The one strictly formulable rational principle for theoretical formation. In mathematics, where the sensibly given is not yet touched, it reduces to consistency. Section 17 re-expands it for empirical theory: every theoretical determination must agree with every other and with possible perception, so concordance exceeds noncontradiction by bringing theory into contact with experience. Section 21 names concordance, including noncontradiction, as the first strict demand on every theory."
   evidence:
     - "parts/011-math-02-10-symbolische-mathematik.md"
     - "parts/018-science-01-17-subjekt-und-objekt.md"
+    - "parts/022-science-02-21-theorienbildung.md"
 
 - term: "das Schöpferische"
   kind: concept
@@ -1471,12 +1473,13 @@
   preferred: "symbolic construction"
   alternatives: []
   status: open
-  notes: "Section 13 states that all knowledge, even when it begins from intuitive description, tends toward symbolic construction. Objectivity is satisfied by constructing a symbolic picture of the world and considering invariant relations in the symbol field. Section 17 shows the natural-scientific form: the objective world is constructed in symbols and then mapped back to possible givens of consciousness."
+  notes: "Section 13 states that all knowledge, even when it begins from intuitive description, tends toward symbolic construction. Objectivity is satisfied by constructing a symbolic picture of the world and considering invariant relations in the symbol field. Section 17 shows the natural-scientific form: the objective world is constructed in symbols and then mapped back to possible givens of consciousness. Section 21 ties symbolic construction to experiment and theory-level correction rather than free formal invention."
   evidence:
     - "parts/011-math-02-10-symbolische-mathematik.md"
     - "parts/012-math-02-11-ueber-das-wesen-der-mathematischen-erkenntnis.md"
     - "parts/014-math-03-13-relativitaetsproblem.md"
     - "parts/018-science-01-17-subjekt-und-objekt.md"
+    - "parts/022-science-02-21-theorienbildung.md"
 
 - term: "Ich-Vernichtung"
   kind: concept
@@ -2221,3 +2224,118 @@
   notes: "Section 20's control against set-theoretic closure: the continuum is not a closed aggregate but an infinity-open field in which functional concepts generate their possible cases."
   evidence:
     - "parts/021-science-02-20-die-begriffsbildung.md"
+
+- term: "Theorienbildung"
+  kind: concept
+  preferred: "theory-formation"
+  alternatives:
+    - "formation of theories"
+  status: seed
+  notes: "Section 21 completes the methodology sequence by making the theory-system, not an isolated law, the unit of empirical accountability. Theory-formation binds measurement, concept-formation, geometry, and correction into one experiment-facing nexus."
+  evidence:
+    - "parts/022-science-02-21-theorienbildung.md"
+
+- term: "Hierarchie der Gesetze"
+  kind: concept
+  preferred: "hierarchy of laws"
+  alternatives: []
+  status: seed
+  notes: "Weyl's name for the different practical firmness of laws within a theory. Some laws rank as principles because of simplicity, instinctive evidentness, reach, and resilience under correction."
+  evidence:
+    - "parts/022-science-02-21-theorienbildung.md"
+
+- term: "Stufenskala der Festigkeit"
+  kind: concept
+  preferred: "scale of firmness"
+  alternatives:
+    - "graded scale of firmness"
+  status: seed
+  notes: "The methodological replacement for a sharp Kantian `a priori / a posteriori` split in natural science. Principles and empirical laws differ by degree of resilience rather than by an absolute boundary."
+  evidence:
+    - "parts/022-science-02-21-theorienbildung.md"
+
+- term: "Einfachheit"
+  kind: concept
+  preferred: "simplicity"
+  alternatives: []
+  status: open
+  notes: "Section 21 treats simplicity as `sigillum veri`, but not as surface economy or fewness alone. True inner simplicity is learned historically through widened experience and mathematically prepared function-classes."
+  evidence:
+    - "parts/022-science-02-21-theorienbildung.md"
+
+- term: "Vollkommenheit"
+  kind: concept
+  preferred: "perfection"
+  alternatives: []
+  status: seed
+  notes: "A former Aristotelian explanatory principle that Galilei and later physics transform into a heuristic faith in lawful dynamic harmony rather than a theory-component lodged in perfect shapes or fixed things."
+  evidence:
+    - "parts/022-science-02-21-theorienbildung.md"
+
+- term: "Satz vom zureichenden Grunde"
+  kind: concept
+  preferred: "principle of sufficient reason"
+  alternatives:
+    - "principle of reason"
+  status: open
+  notes: "A legitimate guide for theory-formation when used as a symmetry principle, but not an independent source of factual truths. Section 21 treats Leibniz as both source and warning."
+  evidence:
+    - "parts/022-science-02-21-theorienbildung.md"
+
+- term: "Kontinuitätsprinzip"
+  kind: concept
+  preferred: "continuity principle"
+  alternatives:
+    - "principle of continuity"
+  status: open
+  notes: "Leibniz's guide for theory: rest as a limiting case of motion, zero and straight angles as included cases, and special laws as limits of general laws. Weyl values it but keeps it under empirical discipline."
+  evidence:
+    - "parts/022-science-02-21-theorienbildung.md"
+
+- term: "Analogieprinzip"
+  kind: concept
+  preferred: "analogy principle"
+  alternatives:
+    - "principle of analogy"
+  status: seed
+  notes: "Newton's rule that like effects should, as far as possible, be assigned the same cause. Section 21 uses atom theory and Lorentz's electron theory to show analogy as an enabling but corrigible starting point."
+  evidence:
+    - "parts/022-science-02-21-theorienbildung.md"
+
+- term: "physikalische Analogie"
+  kind: concept
+  preferred: "physical analogy"
+  alternatives: []
+  status: seed
+  notes: "Maxwell's middle path between an opaque mathematical theory and a dogmatic physical hypothesis: partial similarity of laws across domains, useful for insight while guarded against literalizing the model."
+  evidence:
+    - "parts/022-science-02-21-theorienbildung.md"
+
+- term: "Scheinbilder"
+  kind: concept
+  preferred: "semblance-images"
+  alternatives:
+    - "inner images"
+    - "representational images"
+  status: seed
+  notes: "Hertz's term for the inner images or symbols of external objects whose thought-necessary consequences should image the nature-necessary consequences of the objects."
+  evidence:
+    - "parts/022-science-02-21-theorienbildung.md"
+
+- term: "Weltvertrauen"
+  kind: concept
+  preferred: "world-trust"
+  alternatives: []
+  status: open
+  notes: "Weyl's name for the basic stance underlying induction and prediction. It cannot be justified without circularity, but it is the natural ground posture of knowing life."
+  evidence:
+    - "parts/022-science-02-21-theorienbildung.md"
+
+- term: "Selbstvertrauen"
+  kind: concept
+  preferred: "self-trust"
+  alternatives: []
+  status: open
+  notes: "Paired with `Weltvertrauen` as the basic stance of spiritual life acting through thetic reason. It grounds the practical confidence in theory beyond formal justification."
+  evidence:
+    - "parts/022-science-02-21-theorienbildung.md"
