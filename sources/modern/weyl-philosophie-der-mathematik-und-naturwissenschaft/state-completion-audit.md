@@ -11,7 +11,7 @@ Scope:
 - source manifest checked:
   `source/sections.yaml`
 - current encounter range:
-  `parts/001` through `parts/020`
+  `parts/001` through `parts/021`
 
 ## Audit Summary
 
@@ -24,11 +24,11 @@ Completed source-local encounter coverage:
 - Mathematics part II, sections 5-11
 - Mathematics part III, sections 12-15
 - Natural science part I, sections 16-18
-- Natural science part II, section 19
+- Natural science part II, sections 19-20
 
 Still pending:
 
-- Natural science part II, sections 20-21
+- Natural science part II, section 21
 - Natural science part III, sections 22-23
 - Appendices A-F
 - whole-book synthesis
@@ -37,13 +37,14 @@ Still pending:
 Current validation evidence:
 
 - `glossary.yaml` parses as YAML
-- source-local glossary currently has 206 entries
+- source-local glossary currently has 215 entries
 - chapter-III geometry work is committed in `e9ba973`
 - section-16 natural-science work is committed in `9273f21`
 - section-17 natural-science work is committed in `783a75c`
 - section-18 natural-science work and natural science part-I synthesis are
   committed in `063de1d`
-- section-19 methodology work is validated in this batch
+- section-19 methodology work is committed in `a8865bb`
+- section-20 methodology work is validated in this batch
 
 ## Prompt-To-Artifact Checklist
 
@@ -55,10 +56,10 @@ Current validation evidence:
 | List every cleaned file | See `Cleaned File Audit` below | Done |
 | List section/page-image ranges | See `Cleaned File Audit`; page images follow `source/page-images/jpg-200/page-%04d.jpg` | Done |
 | List translation/encounter status | See `Cleaned File Audit` and `Encounter Parts` | Done |
-| List glossary status | `glossary.yaml`, 206 parsed entries | Done |
+| List glossary status | `glossary.yaml`, 215 parsed entries | Done |
 | List synthesis status | See `Synthesis Status` | Done |
 | List promotion status | See `Promotion Status` | Done |
-| Complete Part II: Natural Science | Sections 16-19 done; sections 20-23 pending | Not done |
+| Complete Part II: Natural Science | Sections 16-20 done; sections 21-23 pending | Not done |
 | Complete Appendices A-F | Cleaned drafts exist, no encounter parts yet | Not done |
 | Whole-book synthesis | No whole-book synthesis file yet | Not done |
 | Promoted `texts/` completion | Minimal chapter-II promoted object exists; full object pending | Not done |
@@ -80,7 +81,7 @@ Current validation evidence:
 | `009-math-02-zahl-und-kontinuum.txt` | chapter II, sections 5-11, printed 47-90 | `page-0048.jpg`-`page-0091.jpg` | `parts/006`-`012` complete | glossary-backed | `2026-05-08-chapter-ii-campaign-synthesis.md` | promoted as chapter-II dossier |
 | `010-math-03-geometrie.txt` | chapter III, sections 12-15, printed 91-124 | `page-0092.jpg`-`page-0125.jpg` | `parts/013`-`016` complete | glossary-backed | `2026-05-08-chapter-iii-campaign-synthesis.md` | chapter-II dossier pressure note only |
 | `011-science-01-raum-und-zeit.txt` | natural science I, sections 16-18, printed 125-176 | `page-0126.jpg`-`page-0177.jpg` | sections 16-18 complete in `parts/017`-`019` | sections 16-18 glossary-backed | `2026-05-10-natural-science-i-raum-und-zeit-synthesis.md` | pressure note pending; not promoted as standalone |
-| `012-science-02-methodologie.txt` | natural science II, sections 19-21, printed 177-209 | `page-0178.jpg`-`page-0210.jpg` | section 19 complete in `parts/020`; sections 20-21 pending | section 19 glossary-backed | pending after sections 20-21 | not promoted |
+| `012-science-02-methodologie.txt` | natural science II, sections 19-21, printed 177-209 | `page-0178.jpg`-`page-0210.jpg` | sections 19-20 complete in `parts/020`-`021`; section 21 pending | sections 19-20 glossary-backed | pending after section 21 | not promoted |
 | `013-science-03-das-weltbild.txt` | natural science III, sections 22-23, printed 210-278 | `page-0211.jpg`-`page-0279.jpg` | pending | pending | pending | not promoted |
 | `014-appendix-a-struktur-der-mathematik.txt` | appendix A, printed 279-302 | `page-0280.jpg`-`page-0303.jpg` | pending | pending | pending | not promoted |
 | `015-appendix-b-ars-combinatoria.txt` | appendix B, printed 303-323 | `page-0304.jpg`-`page-0324.jpg` | pending | pending | pending | not promoted |
@@ -115,10 +116,11 @@ Complete encounter parts:
 - `018-science-01-17-subjekt-und-objekt.md`
 - `019-science-01-18-das-raumproblem.md`
 - `020-science-02-19-das-messen.md`
+- `021-science-02-20-die-begriffsbildung.md`
 
 Pending next encounter:
 
-- section 20, `Die Begriffsbildung`, in `012-science-02-methodologie.txt`
+- section 21, `Theorienbildung`, in `012-science-02-methodologie.txt`
 
 ## Synthesis Status
 
@@ -131,7 +133,7 @@ Complete source-local syntheses:
 
 Pending syntheses:
 
-- natural science part II synthesis after sections 19-21
+- natural science part II synthesis after section 21
 - natural science part III synthesis after sections 22-23
 - appendix synthesis after appendices A-F
 - whole-book synthesis
@@ -158,11 +160,11 @@ Promotion is intentionally partial:
 
 ## Next Required Work
 
-Continue Part II: Natural Science with section 20:
+Continue Part II: Natural Science with section 21:
 
-- visually inspect `page-0185.jpg` onward
-- correct section 20 German in `source/cleaned/012-science-02-methodologie.txt`
-- create the section-20 encounter part
+- visually inspect `page-0193.jpg` onward
+- correct section 21 German in `source/cleaned/012-science-02-methodologie.txt`
+- create the section-21 encounter part
 - update `journal.md` and `glossary.yaml`
 - validate YAML and diff whitespace
 - keep promoted-dossier changes as pressure notes until sections 19-23 clarify

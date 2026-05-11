@@ -746,10 +746,11 @@
     - "limit idea"
     - "limiting idea"
   status: open
-  notes: "Husserl's real thing is a Kantian limit-idea because it can never be adequately given and unfolds an inner horizon through indefinitely continuing experience. Section 19 applies the pressure to measurement: absolute determinacy of a lived world-piece is a limit-idea, not a given."
+  notes: "Husserl's real thing is a Kantian limit-idea because it can never be adequately given and unfolds an inner horizon through indefinitely continuing experience. Section 19 applies the pressure to measurement: absolute determinacy of a lived world-piece is a limit-idea, not a given. Section 20 applies it to concept-formation: in a continuum the individual thing appears only on the horizon as a limit-idea, not as a completed last division."
   evidence:
     - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
     - "parts/020-science-02-19-das-messen.md"
+    - "parts/021-science-02-20-die-begriffsbildung.md"
 
 - term: "nicht-archimedische Größenlehre"
   kind: concept
@@ -2132,3 +2133,91 @@
   notes: "The ultimate target of measurement's reduction of sensory findings: a mark on one scale coinciding with a mark on another, or in astronomy the light-mediated covering of star and crosshair."
   evidence:
     - "parts/020-science-02-19-das-messen.md"
+
+- term: "Begriffsbildung"
+  kind: concept
+  preferred: "concept-formation"
+  alternatives:
+    - "formation of concepts"
+  status: seed
+  notes: "Section 20 makes concept-formation a law-bound and experiment-bound activity, not a mere naming or classifying procedure. The right physical concepts arise only through analysis of nature and remain tied to facts and laws."
+  evidence:
+    - "parts/021-science-02-20-die-begriffsbildung.md"
+
+- term: "Analysis der Natur"
+  kind: concept
+  preferred: "analysis of nature"
+  alternatives:
+    - "analysis of natural reality"
+  status: seed
+  notes: "Dilthey's formula for the Galilean turn: isolate simple recurring processes within the complexity of occurrence rather than designing a complete system of nature at once."
+  evidence:
+    - "parts/021-science-02-20-die-begriffsbildung.md"
+
+- term: "Zerlegung"
+  kind: concept
+  preferred: "decomposition"
+  alternatives:
+    - "analysis into elements"
+  status: open
+  notes: "Section 20 uses decomposition for the methodological cutting of reality into bodies, events, simple phenomena, hidden elements, and finally force/resultant structures. It must be paired with synthesis, because the principles recombining the elements also have to be uncovered."
+  evidence:
+    - "parts/021-science-02-20-die-begriffsbildung.md"
+
+- term: "hypothetische Elemente"
+  kind: concept
+  preferred: "hypothetical elements"
+  alternatives: []
+  status: seed
+  notes: "Atoms, forces, and the electromagnetic field are not directly picked out as intuitive parts. They are posited as hidden elements whose values are manifested through properties and experimental reactions."
+  evidence:
+    - "parts/021-science-02-20-die-begriffsbildung.md"
+
+- term: "Reaktion"
+  kind: concept
+  preferred: "reaction"
+  alternatives:
+    - "experimental reaction"
+  status: open
+  notes: "Section 20 uses `Reaktion` for the experimental bringing-together through which a system's hidden elements and quantitative values become manifest. It is broader than ordinary chemical reaction."
+  evidence:
+    - "parts/021-science-02-20-die-begriffsbildung.md"
+
+- term: "Impuls"
+  kind: concept
+  preferred: "momentum"
+  alternatives:
+    - "impulse"
+  status: seed
+  notes: "In section 20, `Impuls` is primary relative to mass in the Galilean concept. The translation uses `momentum` for the physical quantity while preserving the German term when the historical concept is being discussed."
+  evidence:
+    - "parts/021-science-02-20-die-begriffsbildung.md"
+
+- term: "Kraft"
+  kind: concept
+  preferred: "force"
+  alternatives: []
+  status: seed
+  notes: "Weyl rejects the merely formal definition of force as derivative of momentum with respect to time as its essence. Force becomes an independent potency linking bodies by inner state, position, and motion, and a source of new measurable marks of matter."
+  evidence:
+    - "parts/021-science-02-20-die-begriffsbildung.md"
+
+- term: "funktionale Begriffsbildung"
+  kind: concept
+  preferred: "functional concept-formation"
+  alternatives:
+    - "functional formation of concepts"
+  status: seed
+  notes: "Contrasted with Aristotelian abstraction by subtraction. Functional concept-formation makes continuously gradable moments variable and generates all possible objects in an open play-space rather than classifying only actual given objects."
+  evidence:
+    - "parts/021-science-02-20-die-begriffsbildung.md"
+
+- term: "Bestimmungsfeld"
+  kind: concept
+  preferred: "determination field"
+  alternatives:
+    - "field of determination"
+  status: open
+  notes: "Section 20's control against set-theoretic closure: the continuum is not a closed aggregate but an infinity-open field in which functional concepts generate their possible cases."
+  evidence:
+    - "parts/021-science-02-20-die-begriffsbildung.md"

@@ -1188,3 +1188,77 @@ Next batch:
 - keep section 20 connected to section 19: measurement gives symbolic access
   to things, and concept-formation should show how physical concepts become
   disciplined rather than merely named
+
+## 2026-05-10 - Part 021: Concept-Formation
+
+Translated section 20, `Die Begriffsbildung`, continuing natural-science
+part II, `Methodologie`.
+
+Scope:
+
+- section 20 begins on printed page 184 / PDF page 185, after `Das Messen`
+- it ends on printed page 191 / PDF page 192, before `21. Theorienbildung`
+
+Source corrections:
+
+- visually checked page images `page-0185.jpg` through `page-0192.jpg`
+- repaired broken quotes in `System der Natur`, Goethe's `den Meister zeigt`,
+  `durchstreicht`, `Natur und Kunst`, `natürlicherer`, Euler's quotation,
+  `Kraft = Ableitung des Impulses nach der Zeit`, Cassirer's book title,
+  `subtrahiert`, `Konnotationen`, `funktionalen Begriffsbildung`, Mach's
+  quotation, and `funktionaler`
+- corrected OCR and notation errors: `die rein`, `Poincaré`, `Aperçu`,
+  `Aristotelischen`, `Koeffizienten`, `k₁, k₂, ...`, `welche`, `§ 2`, and
+  the ellipse equation `ax² + 2bxy + cy² = 1`
+- restored the old vector notation in the momentum passage as `𝔍 = m𝔳` and
+  `d𝔍/dt`
+
+What the batch clarified:
+
+- concept-formation is the methodological counterpart to measurement:
+  measurement supplies symbolic access to quantitative determinations, while
+  concept-formation explains how the measurable traits and objects are won
+- the Galilean turn is not a ready-made system of nature but patient analysis:
+  isolate simple recurring elements within the complexity of occurrence, then
+  recover the synthetic principles by which they combine
+- hidden theoretical traits are justified by reactions: white light, mass,
+  field, force, and charge become knowable through law-bound experimental
+  behavior rather than through immediate sensory givenness
+- the Galilean mass concept is constructive in physical reality: real or
+  really possible experiments replace the purely intellectual manipulations of
+  mathematics
+- momentum is primary relative to mass in this account; mass is defined through
+  the law-bound momentum behavior of bodies in collision
+- Weyl refuses a merely formal reading of force as `d𝔍/dt`: the definition
+  captures the calculation, but the living-metaphysical image treats force as
+  a potency linking bodies and causing momentum-change
+- Goethe's `Aperçu` gives Weyl's positive account of discovery: the right
+  fundamental aspect, disciplined by detail research, yields the right
+  fundamental concepts
+- the Cassirer/Mach close reconnects methodology to the mathematical chapters:
+  modern mathematical-physical concepts are functional generators inside an
+  open play-space, not Aristotelian classes formed by subtracting traits from
+  actual objects
+- the continuum remains an infinity-open determination field; if it is treated
+  as a closed aggregate, functional concept-formation collapses back into the
+  old schema of characteristic marks
+
+Translation decisions:
+
+- `Begriffsbildung` is `concept-formation`
+- `Analysis der Natur` is `analysis of nature`
+- `Zerlegung` is `decomposition`
+- `Sosein` is `suchness`
+- `hypothetische Elemente` is `hypothetical elements`
+- `Reaktion` is `reaction` in the experimental sense
+- `Impuls` is `momentum` for the physical quantity, with the German pressure
+  kept visible where needed
+- `Kraft` is `force`
+- `funktionale Begriffsbildung` is `functional concept-formation`
+- `Bestimmungsfeld` is `determination field`
+
+Next batch:
+
+- section 21, `Theorienbildung`, begins on printed page 192 / PDF page 193
+- section 21 should complete the methodology arc from measurement through
+  concept-formation to theory-formation before a part-II synthesis is written
