@@ -1128,3 +1128,63 @@ Natural-science part-I synthesis:
   promoted chapter-II/chapter-III Weyl dossier: symbolic construction becomes
   objectivity only through invariance, physical coupling, and possible return
   to lived givenness
+
+## 2026-05-10 - Part 020: Measurement
+
+Translated section 19, `Das Messen`, the opening section of
+`II. Methodologie`.
+
+Scope:
+
+- section 19 begins on printed page 177 / PDF page 178 with the methodology
+  chapter
+- it ends on printed page 184 / PDF page 185, before `20. Die Begriffsbildung`
+
+Source corrections:
+
+- visually checked page images `page-0178.jpg` through `page-0185.jpg`
+- repaired broken quotes in `nudae quantitates`, `quantitativen`,
+  `ideales Gas`, Hume's `Fiktion`, Hjelmslev's Pythagorean formulation,
+  Maxwell's quotation, `ideell`, and `Zahlmarken`
+- corrected OCR/notation errors: `träge Masse`, `§ 2`, `§ 22 e`, `T`,
+  `dQ/T`, `m und n`, `α-Teilchen`, `√2:1`, and `Hjelmslev`
+- removed a false sentence break after `Netz`
+
+What the batch clarified:
+
+- measurement is not bare number-assignment; it needs equality, order,
+  addition, reproducible units, and in difficult cases implicit definitions
+  that include laws of nature
+- absolute temperature is the key example of an intensive magnitude whose
+  definition includes theory: the second law of thermodynamics and the
+  condition on `dQ/T`
+- indirect measurement outruns sensory distinguishability only through exact
+  theory and concordance among multiple indirect determinations
+- exact mathematics is not optional decoration; it is the scaffold that makes
+  approximative verification possible and progressively sharper
+- Weyl accepts Brouwerian intuitionism as tolerable for constructive science
+  but rejects Hume-Hjelmslev sensualism as fatal because it cannot support the
+  exact theory required by astronomy, atom physics, and constructive physics
+- numbers are not the only symbols; measurement belongs to the wider problem
+  of symbolic presentation relative to measurement-foundations
+- the endpoint of measurement is the reduction of sensory findings to
+  space-time coincidences, tying methodology back to sections 16-18
+
+Translation decisions:
+
+- `Messen` is `measurement`
+- `träge Masse` is `inertial mass`
+- `addierbare Größen` is `additive magnitudes`
+- `intensive Größen` is `intensive magnitudes`
+- `mechanische Ähnlichkeit` is `mechanical similarity`
+- `Grenzidee` remains `limit-idea`
+- `Meßfundamente` is `measurement-foundations`
+- `Zahlmarken` is `number-marks`
+- `raumzeitliche Koinzidenzen` is `space-time coincidences`
+
+Next batch:
+
+- section 20, `Die Begriffsbildung`, begins on printed page 184 / PDF page 185
+- keep section 20 connected to section 19: measurement gives symbolic access
+  to things, and concept-formation should show how physical concepts become
+  disciplined rather than merely named

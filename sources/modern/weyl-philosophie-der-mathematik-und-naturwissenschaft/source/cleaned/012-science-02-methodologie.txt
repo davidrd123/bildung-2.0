@@ -15,26 +15,26 @@ II. Methodologie
 Die im Gegensatz zur aristotelischen Philosophie in der Neuzeit sich durchsetzende Ansicht, daß ein Erkenntniszusammenhang in der wirklichen Welt nur gefunden werden kann, soweit
 qualitative Bestimmungen auf quantitative zurückgeführt werden,
 ist für die Naturwissenschaft von fundamentaler Wichtigkeit
-geworden. Wir finden sie bei Kepler: „„Ut oculus ad colores, auris
+geworden. Wir finden sie bei Kepler: „Ut oculus ad colores, auris
 ad sonos, ita mens hominis non ad quaevis sed ad quanta intelligenda
-condita est.“ Das Maß unserer Erkenntnis liegt in ihrer Annäherung an die „‚nudae quantitates“. Und Galilei spricht explizite als
+condita est.“ Das Maß unserer Erkenntnis liegt in ihrer Annäherung an die „nudae quantitates“. Und Galilei spricht explizite als
 seinen Grundsatz aus: „Alles messen, was meßbar ist, und versuchen meßbar zu machen, was es noch nicht ist.“ Eine glänzende
 Bewährung des zweiten Teils dieses Postulats ist seine Erfindung
-des Thermometers. — Worin besteht aber der Vorgang des Messens? Nehmen wir als Beispiel etwa die fräge Masse!
+des Thermometers. — Worin besteht aber der Vorgang des Messens? Nehmen wir als Beispiel etwa die träge Masse!
 
 Nach Galilei schreibt man zwei Körpern die gleiche träge
 Masse zu, wenn keiner den andern überrennt, falls man sie mit
 gleichen Geschwindigkeiten gegeneinander jagt (sie mögen beim
 Zusammenstoß aneinander kleben bleiben). Hier handelt es sich
 also um eine Definition durch Abstraktion. Die physikalisch definierte Massengleichheit ist, wie an der Erfahrung geprüft werden
-muß, eine Beziehung vom Charakter der Gleichheit ($ 2). Außerdem ist durch das Experiment festzustellen, daß sie von den Nebenumständen des definierenden Prozesses, nämlich der Geschwindigkeit des Zusammenstoßes unabhängig ist. Mit der Gleichheit,
+muß, eine Beziehung vom Charakter der Gleichheit (§ 2). Außerdem ist durch das Experiment festzustellen, daß sie von den Nebenumständen des definierenden Prozesses, nämlich der Geschwindigkeit des Zusammenstoßes unabhängig ist. Mit der Gleichheit,
 dieser ersten Erfordernis des Messens, ist meistens ohne weiteres
 die Beziehung des größer und kleiner gegeben: von den beiden
 Körpern hat derjenige die größere Masse, welcher den anderen
 bei gleicher Geschwindigkeit überrennt. Endlich aber muß ein
 Prozeß der Addition gegeben sein; er besteht im Falle der Massen
 einfach im Zusammenfügen der Körper. Unter Voraussetzung
-gewisser Axiome über diese Grundbegriffe, die z.B. Helmholtz
+gewisser Axiome über diese Grundbegriffe, die z. B. Helmholtz
 in seinem wiederholt zitierten Aufsatz „Zählen und Messen“
 
 [[pdf-page:0179 printed-page:178]]
@@ -54,7 +54,7 @@ Naturgesetzen auf, welche funktionale Abhängigkeiten zwischen
 addierbaren Größen statuieren. Dahin gehört z. B. der Brechungsindex n, dessen Bedeutung durch das Snelliussche Brechungsgesetz klargelegt wird: Sinus des Einfallswinkels gleich n-mal dem
 Sinus des Brechungswinkels (die in diesem Gesetz verbundenen
 addierbaren Größen sind die beiden Winkel). Helmholtz nennt
-solche Konstante „intensive“ Größen im Gegensatz zu den addierbaren, den „quantitativen‘‘ Größen; intensive Größen sind insbesondere alle Wertbestimmungen von Eigenschaften.
+solche Konstante „intensive“ Größen im Gegensatz zu den addierbaren, den „quantitativen“ Größen; intensive Größen sind insbesondere alle Wertbestimmungen von Eigenschaften.
 
 Ein gutes Beispiel ist die Temperaturmessung. Gleiche Temperatur
 haben solche Körper, welche im Zustande der Berührung aneinander
@@ -76,15 +76,15 @@ mend. Der objektive Temperaturbegriff entfernt sich also ziemlich weit
 von den Gegebenheiten des Wärmesinns. Die Temperaturskala ist von
 dem gewählten Normalkörper abhängig; jedoch verhalten sich wenigstens alle Gase annähernd gleich; ihr Verhalten kann mit geringen
 Fehlern durch ein einfaches Gesetz beschrieben werden, das man nun
-als charakteristisch für ein „ideales Gas‘ ansetzt. Aber erst dadurch,
+als charakteristisch für ein „ideales Gas“ ansetzt. Aber erst dadurch,
 daß aus diesem Gesetz des idealen Gases unter Zuhilfenahme eines
 allgemeinen Prinzips der sog. zweite Hauptsatz der Thermodynamik
 abgeleitet wurde, der für alle Körper gilt, wurde es möglich, die Skala
 des idealen Gasthermometers zu realisieren. Die absolute Temperatur
 ist danach, außer durch die Aussage, daß Körper gleicher Temperatur
-denselben Temperaturwert 7 haben, dadurch gekennzeichnet, daß für
+denselben Temperaturwert T haben, dadurch gekennzeichnet, daß für
 jeden unendlich langsam verlaufenden Kreisprozeß das Integral über
-dO/T null wird, wo dQ die in den einzelnen unendlich kleinen Schritten
+dQ/T null wird, wo dQ die in den einzelnen unendlich kleinen Schritten
 des Kreisprozesses zugeführte energetisch gemessene Wärmemenge,
 T jeweils die im betreffenden Augenblick herrschende Temperatur bedeutet (W. Thomson 1848). Die Wärmemenge ist eine addierbare, die
 Temperatur also im Helmholtzschen Sinne eine intensive Größe. Ihre
@@ -94,7 +94,7 @@ absoluten Nullpunkt der Temperatur (bei der üblichen Wahl der Maßeinheit liege
 
 Auf der Relativität der Größenbestimmungen in bezug auf eine
 willkürlich zu wählende Maßeinheit beruhen die Gesetze der „mechanischen Ähnlichkeit“, über die Galilei am zweiten Tag seiner Discorsi
-spricht. Sie erlauben z.B. an kleinen Modellen über die wirklichen
+spricht. Sie erlauben z. B. an kleinen Modellen über die wirklichen
 Geschehnisse Auskunft zu erhalten, wie man an einem kleinen Modell
 eines Dreiecks, dessen Winkel bekannt sind, die Seitenverhältnisse ablesen kann. Spielt bei einem Schwimm- oder Flug-Problem die Reibung
 des Mittels (Wasser oder Luft) eine Rolle, so muß man beim Übergang
@@ -111,7 +111,7 @@ Sie ist lediglich eine Konsequenz aus der metrischen Struktur der vierdimensiona
 bleibt für alles physikalische Messen nur noch eine Einheit, die willkürlich gewählt werden muß, etwa die Sekunde als Zeiteinheit. So weit
 kann man ohne Berücksichtigung der atomistischen Struktur der
 Materie gelangen. Über die Atomtheorie und die aus den Atomgesetzen
-zu gewinnenden absoluten Naturkonstanten s. $ 22 e (S. 234) und Anhang F.
+zu gewinnenden absoluten Naturkonstanten s. § 22 e (S. 234) und Anhang F.
 
 Zur Theorie des Messens gehört die Frage, wie es möglich ist,
 Größen viel genauer festzulegen, als ihre unmittelbare sinnliche
@@ -126,7 +126,7 @@ besitzen. Aber ebenso wie die auf indirektem Wege gewonnene
 Behauptung über die Zeitdauer der einzelnen Schwingung ist auch
 diese Voraussetzung für den Intuitionisten, der die Grenze der
 sinnlichen Genauigkeit respektiert und sie nicht ums Tausendfache überschreiten will, „sinnlos“. Dennoch kann man sie in gewisser Weise durch die Konstatierung bestätigen, daß die Zeitdauer von m aufeinander folgenden Schwingungen sich zu der von
-n Schwingungen (m und rn große ganze Zahlen) so verhält wie m:n,
+n Schwingungen (m und n große ganze Zahlen) so verhält wie m:n,
 natürlich innerhalb der Genauigkeitsgrenzen der direkten Beobachtung (die Prüfung wird an mehreren beliebig herausgegriffenen
 Schwingungsserien vollzogen). Allgemein steht es hier so: Durch
 die exakten Gesetze der zugrunde gelegten Theorie steht die zu
@@ -151,7 +151,7 @@ Konsequenzen geprüft werden und Einstimmigkeit ergeben.
 Die ganze indirekte Methodik der Experimentalphysik gehört hierher, von den einfachsten Hilfsmitteln angefangen, dem Nonius, den
 Spiegelreflexen zur Messung kleiner Ausschläge, den rotierenden Spiegeln, mit Hilfe deren man die tonerzeugenden Schwingungen leuchtender
 Körper auflöst, dem Mikroskop, bis zum Raffinement der modernen,
-der Atomforschung dienenden Versuchsanordnungen, die dazu vordringen, das einzelne Atom (oder «-Teilchen) isoliert durch seine Wirkung „sichtbar zu machen“. Eine interessante Übersicht und einen
+der Atomforschung dienenden Versuchsanordnungen, die dazu vordringen, das einzelne Atom (oder α-Teilchen) isoliert durch seine Wirkung „sichtbar zu machen“. Eine interessante Übersicht und einen
 Versuch zur Ordnung der verschiedenen dabei angewandten methodischen Prinzipien gibt Mach in dem Kapitel „Das physische Experiment
 und seine Leitmotive“ in „Erkenntnis und Irrtum“ (1905). Hier liegt ein
 Hauptbetätigungsfeld für die Erfindungskraft des Experimentalforschers.
@@ -172,29 +172,29 @@ dem Wesen des Kontinuums. Hume setzt im Treatise auseinander,
 daß die Verschärfung der Maßangaben auf einer gegenseitigen
 und fortlaufenden Berichtigung beruhe, „der Begriff der Berichtigung über das hinaus, was wir mit Instrumenten und künstlichen
 Mitteln erreichen können“, der absolut genaue Maßstab aber
-„eine bloße Fiktion‘ sei, „ebenso nutzlos als unverständlich“
+„eine bloße Fiktion“ sei, „ebenso nutzlos als unverständlich“
 (Teil II, Abschnitt 4). Dennoch versteht man in diesem Zusammenhange auch die Notwendigkeit und Zweckmäßigkeit einer
 exakten Mathematik: die exakte Theorie bildet das Gerüst für die
-approximativen Verifikationen. Legen wir z.B. die euklidische
+approximativen Verifikationen. Legen wir z. B. die euklidische
 Geometrie als Raumtheorie zugrunde, so sind wir mit dem Satz,
-daß die Diagonale zur Seite des Quadrats sich verhalte wie Y2:1,
+daß die Diagonale zur Seite des Quadrats sich verhalte wie √2:1,
 für alle Zukunft gerüstet, gegenüber allen weiteren Verschärfungen der direkten und indirekten Messungsmethoden; er führt uns
 zu immer neuen Voraussagen (approximativen Charakters) oder
 zu immer feineren Kriterien für die Meßkörper, welche den idealen Voraussetzungen der euklidischen Geometrie mit der jeweiligen Genauigkeit entsprechen sollen, die überhaupt der Längenmessung gegeben werden kann.
 
-Neuerdings ist der dänische Geometer Ajelmslev für eine reine
+Neuerdings ist der dänische Geometer Hjelmslev für eine reine
 Approximationsgeometrie eingetreten (Abhdlg. aus dem Mathem.
-Seminar d. Univ. Hamburg, Bd. 2, S. I), mit den gleichen Argumenten
+Seminar d. Univ. Hamburg, Bd. 2, S. 1), mit den gleichen Argumenten
 wie Hume, der u. a. bemerkte, daß die Gewißheit, „zwei gerade Linien
 könnten keine Strecke miteinander gemein haben, immer eine deutlich
 wahrnehmbare Neigung der beiden Linien gegeneinander voraussetze,
 daß dagegen, wenn der Winkel, den sie bilden, sehr klein ist, uns das
 Musterbild einer geraden Linie fehlt, das genau genug wäre, um uns
-die Wahrheit des Satzes mit Sicherheit erkennen zu lassen‘ (Treatise,
+die Wahrheit des Satzes mit Sicherheit erkennen zu lassen“ (Treatise,
 Teil III, Abschn. 1). Aber wenn Hjelmslev dann den Pythagoreischen
 Lehrsatz formuliert: „In einem rechtwinkeligen Dreieck lassen sich die
 Seiten so durch Zahlen fixieren, daß das Quadrat der Hypotenusenzahl
-der Summe der Quadrate der beiden Katheten gleich wird‘, so zeigt
+der Summe der Quadrate der beiden Katheten gleich wird“, so zeigt
 sich bereits hier der Gedanke, durch die für unverletzlich erklärte, zum
 exakten Gesetz erhobene Funktionalverknüpfung, die der gewöhnliche
 Pythagoreische Lehrsatz ausspricht, den Spielraum der Unsicherheit
@@ -219,7 +219,7 @@ Das Messen, wie wir es bisher betrachteten, beruhte darauf,
 daß in vielen Fällen physikalische Größen jene bestimmten Axiomen genügenden Begriffe der Gleichheit und der Addition darbieten, welche ihre Werte auf eine Zahlenskala projizieren. „Auf
 diese Art“, sagt Maxwell (Scient. Pap. Vol. 1, S. 156), „sind alle
 Anwendungen der Mathematik in der Wissenschaft auf Beziehungen zwischen den Gesetzen der physikalischen Größen zu denen
-der ganzen Zahlen gegründet.‘“ Wie wichtig die besprochene besondere Art der Einführung von Zahlsymbolen in die Naturwissenschaft auch sein mag, so darf ihr dennoch, wie es scheint,
+der ganzen Zahlen gegründet.“ Wie wichtig die besprochene besondere Art der Einführung von Zahlsymbolen in die Naturwissenschaft auch sein mag, so darf ihr dennoch, wie es scheint,
 keine prinzipiell ausgezeichnete Rolle zugeschrieben werden. Wenn
 man in einem Kontinuum die Grundlage für eine arithmetische
 Unterscheidung der einzelnen Stellen dadurch schafft, daß man
@@ -243,12 +243,12 @@ Ebene materiell durch eine ebene Metallplatte realisiert, so können
 wir zunächst nur im Bereich der Platte Örter festlegen durch Anbringung qualitativ unterschiedener, immer wieder erkennbarer
 materieller Marken auf der Platte. Wenn aber ein rechtwinkliges
 Achsenkreuz mitsamt einer Einheitsstrecke in sie eingeritzt ist, so
-können wir nicht nur (‚„ideell‘“ und auf Grund einer Theorie über
-das Verhalten starrer Maßstäbe) ein beliebig feinmaschiges Netz.
+können wir nicht nur („ideell“ und auf Grund einer Theorie über
+das Verhalten starrer Maßstäbe) ein beliebig feinmaschiges Netz
 wohlcharakterisierter Örter durch Koordinatenangaben über sie
 ausbreiten; sondern diese indirekte Methode gestattet uns sogar,
 die Grenzen der materiellen Basis zu überschreiten und solche
-„Zahlmarken‘ auch in die jenseits der materiellen Insel sich erstreckende leere Ebene hinauszusetzen. So benutzen wir die Erde
+„Zahlmarken“ auch in die jenseits der materiellen Insel sich erstreckende leere Ebene hinauszusetzen. So benutzen wir die Erde
 als Meßbasis für den astronomischen Raum. — Endlich zeigt sich
 im Messen das Bestreben, die unmittelbaren sinnlichen Feststellungen, die natürlich nie ausgeschaltet werden können, wenn irgend
 möglich auf die allersicherste und genaueste unter ihnen zurückzuführen, nämlich auf die Feststellung raumzeitlicher Koinzidenzen

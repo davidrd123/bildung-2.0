@@ -170,11 +170,12 @@
   alternatives:
     - "definition through abstraction"
   status: seed
-  notes: "A special case of creative definition: a new object domain arises by treating objects as distinct exactly when they fail an equivalence relation. Section 5 uses equality of fractions as another explicit case; section 6 notes that introducing cardinal number independently of order would require this route."
+  notes: "A special case of creative definition: a new object domain arises by treating objects as distinct exactly when they fail an equivalence relation. Section 5 uses equality of fractions as another explicit case; section 6 notes that introducing cardinal number independently of order would require this route. Section 19 uses inertial mass as a physical case: equality is defined by a collision procedure and then tested as a genuine equality relation."
   evidence:
     - "parts/003-math-01-02-aufbauende-definition.md"
     - "parts/006-math-02-05-rationale-zahlen-das-komplexe.md"
     - "parts/007-math-02-06-die-natuerlichen-zahlen.md"
+    - "parts/020-science-02-19-das-messen.md"
 
 - term: "Menge"
   kind: concept
@@ -745,9 +746,10 @@
     - "limit idea"
     - "limiting idea"
   status: open
-  notes: "Husserl's real thing is a Kantian limit-idea because it can never be adequately given and unfolds an inner horizon through indefinitely continuing experience."
+  notes: "Husserl's real thing is a Kantian limit-idea because it can never be adequately given and unfolds an inner horizon through indefinitely continuing experience. Section 19 applies the pressure to measurement: absolute determinacy of a lived world-piece is a limit-idea, not a given."
   evidence:
     - "parts/008-math-02-07-das-irrationale-und-das-unendlichkleine.md"
+    - "parts/020-science-02-19-das-messen.md"
 
 - term: "nicht-archimedische Größenlehre"
   kind: concept
@@ -2072,3 +2074,61 @@
   notes: "Weyl's postulate-like phrase for uniquely determined rotation-free infinitesimal parallel displacement from one point into the world. Kept awkward in English to preserve its technical pressure."
   evidence:
     - "parts/019-science-01-18-das-raumproblem.md"
+
+- term: "träge Masse"
+  kind: concept
+  preferred: "inertial mass"
+  alternatives: []
+  status: seed
+  notes: "Section 19's opening example for measurement: equal inertial mass is defined by a collision procedure, then tested for equality-character and independence from incidental conditions."
+  evidence:
+    - "parts/020-science-02-19-das-messen.md"
+
+- term: "addierbare Größen / intensive Größen"
+  kind: distinction
+  preferred: "additive magnitudes / intensive magnitudes"
+  alternatives:
+    - "addable magnitudes / intensive magnitudes"
+  status: open
+  notes: "Helmholtz's measurement distinction in section 19. Additive magnitudes admit equality, order, and addition directly; intensive magnitudes such as temperature require implicit law-involving definitions."
+  evidence:
+    - "parts/020-science-02-19-das-messen.md"
+
+- term: "mechanische Ähnlichkeit"
+  kind: concept
+  preferred: "mechanical similarity"
+  alternatives: []
+  status: seed
+  notes: "Galilean scale-model reasoning grounded in arbitrary unit choice. Section 19 uses it to show both the power and the limits of similarity once special relativity and absolute constants enter."
+  evidence:
+    - "parts/020-science-02-19-das-messen.md"
+
+- term: "Meßfundamente"
+  kind: concept
+  preferred: "measurement-foundations"
+  alternatives:
+    - "measurement bases"
+  status: seed
+  notes: "The assumed foundations relative to which measurement can give things conceptually and symbolically. Do not flatten this into instruments only; it includes theory, units, coordinates, and admissible coincidence procedures."
+  evidence:
+    - "parts/020-science-02-19-das-messen.md"
+
+- term: "Zahlmarken"
+  kind: concept
+  preferred: "number-marks"
+  alternatives:
+    - "numerical marks"
+  status: seed
+  notes: "Section 19's example for how coordinate measurement can extend beyond a material basis: engraved axes on a plate let one project numerical marks into the empty plane beyond the material island."
+  evidence:
+    - "parts/020-science-02-19-das-messen.md"
+
+- term: "raumzeitliche Koinzidenzen"
+  kind: concept
+  preferred: "space-time coincidences"
+  alternatives:
+    - "spatiotemporal coincidences"
+  status: open
+  notes: "The ultimate target of measurement's reduction of sensory findings: a mark on one scale coinciding with a mark on another, or in astronomy the light-mediated covering of star and crosshair."
+  evidence:
+    - "parts/020-science-02-19-das-messen.md"
