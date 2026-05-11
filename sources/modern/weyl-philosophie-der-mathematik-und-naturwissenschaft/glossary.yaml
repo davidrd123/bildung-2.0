@@ -1612,9 +1612,10 @@
   preferred: "Jacobian determinant"
   alternatives: []
   status: seed
-  notes: "The nonzero determinant of the coordinate differential matrix. Its sign gives the signature of the transformation and lets a sense/orientation be fixed over a region."
+  notes: "The nonzero determinant of the coordinate differential matrix. Its sign gives the signature of the transformation and lets a sense/orientation be fixed over a region. Section 16 adds the topological signature of coordinate transformations by this sign."
   evidence:
     - "parts/016-math-03-15-riemann-standpoint-topology.md"
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
 
 - term: "Maßfeld"
   kind: concept
@@ -1622,9 +1623,10 @@
   alternatives:
     - "measure field"
   status: open
-  notes: "Section 15 makes the Riemannian metric physical: its components gᵢₖ transform under coordinate changes, it acts on bodies/light/natural processes, and in Einstein's theory matter acts back on it."
+  notes: "Section 15 makes the Riemannian metric physical: its components gᵢₖ transform under coordinate changes, it acts on bodies/light/natural processes, and in Einstein's theory matter acts back on it. Section 16 identifies the metric field with the state of the ether/guiding field in reciprocal action with matter."
   evidence:
     - "parts/016-math-03-15-riemann-standpoint-topology.md"
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
 
 - term: "Nahewirkungsgesetze"
   kind: concept
@@ -1652,9 +1654,10 @@
   preferred: "general relativity"
   alternatives: []
   status: seed
-  notes: "Section 15 accepts the principle only after the metric field is incorporated among physical magnitudes that act on matter and receive reaction from matter."
+  notes: "Section 15 accepts the principle only after the metric field is incorporated among physical magnitudes that act on matter and receive reaction from matter. Section 16 recasts the world as a four-dimensional Riemannian space with indefinite metric form and a matter-coupled metric/guiding field."
   evidence:
     - "parts/016-math-03-15-riemann-standpoint-topology.md"
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
 
 - term: "örtliches kartesisches Bezugssystem"
   kind: concept
@@ -1672,9 +1675,10 @@
   alternatives:
     - "group of Euclidean rotations"
   status: open
-  notes: "The group of Euclidean rotations expressing the arbitrariness of the local Cartesian frame 𝔣(P). Weyl treats it as point-dependent in general relativity and as a possible abstract group with vector, tensor, and spinor representations."
+  notes: "The group of Euclidean rotations expressing the arbitrariness of the local Cartesian frame 𝔣(P). Weyl treats it as point-dependent in general relativity and as a possible abstract group with vector, tensor, and spinor representations. Section 16 says Δ₀ is replaced in space-time physics by the Lorentz group, with temporal and spatial signatures."
   evidence:
     - "parts/016-math-03-15-riemann-standpoint-topology.md"
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
 
 - term: "Darstellung"
   kind: concept
@@ -1726,3 +1730,176 @@
   notes: "Section 15's closing philosophical diagnosis of geometry: it stands between Ideas and sensible things, with morphology, topology, and idealizing geometry marking the ascent."
   evidence:
     - "parts/016-math-03-15-riemann-standpoint-topology.md"
+
+- term: "Raum-Zeit-Stelle"
+  kind: concept
+  preferred: "space-time position"
+  alternatives:
+    - "space-time place"
+  status: seed
+  notes: "Section 16 begins physics from possible space-time positions or `Weltpunkte`; only coincidence and immediate neighborhood are directly intuitively exhibitible before extra structure is imposed."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "Weltpunkt"
+  kind: concept
+  preferred: "world-point"
+  alternatives:
+    - "world point"
+  status: seed
+  notes: "The point of the four-dimensional space-time continuum. Weyl uses world-points to define fibers, strata, light cones, and the split between active future and passive past."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "Schichtung"
+  kind: concept
+  preferred: "stratification"
+  alternatives:
+    - "layering"
+  status: open
+  notes: "The old absolute-time structure: simultaneous world-points form three-dimensional strata transverse to same-place fibers. Section 16 replaces its naive simultaneity role with light-cone causal structure."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "Faserung"
+  kind: concept
+  preferred: "fibration"
+  alternatives:
+    - "fibering"
+  status: open
+  notes: "The old absolute-space structure: same-place world-points form one-dimensional fibers. Newton's absolute program fixes the world's fibration metaphysically, then tries to recover its actual course from effects."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "Maßstruktur"
+  kind: concept
+  preferred: "metric structure"
+  alternatives:
+    - "measure-structure"
+  status: open
+  notes: "In section 16, equality of time intervals and congruence of spatial figures become physically testable through clocks, rigid bodies, light signals, and force-free mass-points. This is the physical uptake of chapter III's geometry."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "Relativität der Bewegung"
+  kind: concept
+  preferred: "relativity of motion"
+  alternatives: []
+  status: seed
+  notes: "Weyl uses Aristotle, Descartes, Locke, Galileo, and Leibniz against absolute place. The Copernican system is then better because the laws simplify relative to the sun, not because absolute rest has been found."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "Trägheitsstruktur"
+  kind: concept
+  preferred: "inertial structure"
+  alternatives:
+    - "inertia-structure"
+  status: seed
+  notes: "Newton dynamically distinguishes inertial motion from acceleration but cannot single out rest. Weyl keeps objective inertial structure while rejecting absolute space and later identifies it with the mutable guiding field."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "Kausalstruktur"
+  kind: concept
+  preferred: "causal structure"
+  alternatives: []
+  status: seed
+  notes: "The modern correction to simultaneity: light cones, not horizontal simultaneity strata, separate active future from passive past."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "Lichtkegel"
+  kind: concept
+  preferred: "light cone"
+  alternatives: []
+  status: seed
+  notes: "The cone determined by a light signal from a world-point O. It replaces the old simultaneity plane as the causal divider between active future and passive past."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "aktive Zukunft"
+  kind: concept
+  preferred: "active future"
+  alternatives: []
+  status: seed
+  notes: "The region of world-points on which one's action at O can have influence. Its pairing with `passive Vergangenheit` prepares the next section's subject/object problem."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "passive Vergangenheit"
+  kind: concept
+  preferred: "passive past"
+  alternatives: []
+  status: seed
+  notes: "The region of events that may have influenced the subject at O, whether bodily lived through or received by report. It is not simply all geometrical past under the old simultaneity picture."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "Eigenzeit"
+  kind: concept
+  preferred: "proper time"
+  alternatives:
+    - "own-time"
+  status: seed
+  notes: "The time measured along a clock's worldline by a cyclic return to state Z under the causality principle. `Proper time` is the standard physical term; `own-time` would preserve the literal construction but is less useful here."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "Führungsfeld"
+  kind: concept
+  preferred: "guiding field"
+  alternatives:
+    - "guidance field"
+    - "directing field"
+  status: open
+  notes: "Weyl's preferred name for the unified inertial field whose changeability appears in gravitation. Do not reduce it to an ordinary force field; it replaces geometrical rigidity with a real field that acts on and is acted on by matter."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "Lorentzgruppe"
+  kind: concept
+  preferred: "Lorentz group"
+  alternatives: []
+  status: seed
+  notes: "The replacement for Δ₀ in space-time physics: homogeneous linear transformations preserving `−z₀² + z₁² + z₂² + z₃²`, with temporal and spatial signatures."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "Äther"
+  kind: concept
+  preferred: "ether"
+  alternatives:
+    - "aether"
+  status: open
+  notes: "Weyl retains `Äther` for the guiding/metric field as an independent power in reciprocal action with matter, not as a mechanical medium of older ether theories."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "kosmologischer Term"
+  kind: concept
+  preferred: "cosmological term"
+  alternatives: []
+  status: seed
+  notes: "Einstein's static universe Uₐ requires a cosmological term introducing a universal distance constant `a` of world-radius magnitude."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "geschlossener und offener Raum"
+  kind: concept
+  preferred: "closed and open space"
+  alternatives: []
+  status: seed
+  notes: "Section 16 insists this is a topological, not merely metric, distinction. Under dimension reduction, Uₐ has two separate rims while U∞ has one connected rim."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+
+- term: "ewige Wiederkunft"
+  kind: concept
+  preferred: "eternal recurrence"
+  alternatives:
+    - "eternal return"
+  status: seed
+  notes: "Weyl uses Nietzsche's phrase for how an objectively unique world-course would appear in a world closed both spatially and temporally; the context is causal/topological, not only existential."
+  evidence:
+    - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"

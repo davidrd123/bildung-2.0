@@ -912,3 +912,81 @@ Chapter-III status:
 - promoted chapter-II dossier lightly updated with chapter-III pressure:
   symbolic access now needs invariance structure and physical coupling, not
   consistency alone
+
+## 2026-05-08 - Part 017: Structure Of Space And Time In Their Physical Efficacy
+
+Committed the completed chapter-III source-local Weyl work first:
+
+- commit `e9ba973` / `Add Weyl chapter III geometry translations`
+- staged scope was restricted to
+  `sources/modern/weyl-philosophie-der-mathematik-und-naturwissenschaft`
+
+Translated section 16, `Struktur von Raum und Zeit in ihrer physischen
+Wirksamkeit`, including the section-local literature list.
+
+Scope correction:
+
+- section 16 begins on printed page 125 / PDF page 126
+- the section body ends on printed page 143 / PDF page 144
+- the literature list spills onto printed page 144 / PDF page 145 before
+  section 17 begins
+
+Source corrections:
+
+- repaired OCR spacing and words: `Was heißt das?`, `nach B reichenden`,
+  `t-Achse`, `E den`, `Wirkung kann`, `der relativen`, `davon, Gravitation`,
+  `unendlich oft`, and `unendlich viele`
+- corrected references: `Wissensch. Abhdlg. III, S. 379`, `S. 53`,
+  `Anhang B`, and `§ 23 C`
+- corrected notation: `𝔖`, `𝔖′`, `x₀/x₁/x₂/x₃`, `Δ₀`, `zᵢ′`,
+  `aᵢₖ`, `zₖ`, `a₀₀`, `P′`, `dxᵢ`, `gᵢₖ`, and `ds²`
+- corrected the Lorentz-group and metric formulas, including
+  `−z₀² + z₁² + z₂² + z₃²`,
+  `ds² = Σ_{i,k=0}^{3} gᵢₖ dxᵢ dxₖ`, and
+  `ds² = −dx₀² + dx₁² + dx₂² + dx₃²`
+- corrected cosmology notation: `Äther`, `Uₐ`, `U∞`, `10²⁷ cm`, and
+  `ausgeübte Gesamtkraft`
+
+What the batch clarified:
+
+- chapter III's geometry becomes physics by asking how space-time structure is
+  read from physical effects: rigid bodies, clocks, inertial motion, light, and
+  waves
+- Weyl rejects both Newtonian absolute space and Machian structure-elimination:
+  objective structure remains, but as physically operative and mutable
+- the old simultaneity stratum gives way to light-cone causal structure:
+  active future and passive past do not meet without an intervening region
+- clocks measure `Eigenzeit` along a worldline; rigid bodies and congruence are
+  empirical tests, not self-grounding geometry
+- the metric/inertial structure is no longer rigid geometry above physics; as
+  `Führungsfeld` or metric field, it acts on matter and is acted on by matter
+- the Lorentz group replaces the Euclidean rotation group `Δ₀` for space-time,
+  introducing temporal, spatial, and topological signatures
+- the cosmology close keeps metric and topology distinct: finite/unbounded,
+  closed/open, `Uₐ`/`U∞`, and temporal closure are not the same question
+
+Translation decisions:
+
+- `Raum-Zeit-Stellen` is `space-time positions`
+- `Weltpunkte` is `world-points`
+- `Schichtung` / `Faserung` is `stratification` / `fibration`
+- `Maßstruktur` is `metric structure`
+- `Trägheitsstruktur` is `inertial structure`
+- `Kausalstruktur` is `causal structure`
+- `Gleichortigkeit` is `same-place-ness`
+- `Eigenzeit` is `proper time`
+- `allgemeines Relativitätspostulat` is `general postulate of relativity`
+- `Führungsfeld` is `guiding field`
+- `Äther` is `ether`
+- `Säume` is `rims`
+- `ewige Wiederkunft` is `eternal recurrence`
+
+Next batch:
+
+- section 17, `Subjekt und Objekt`, starts on printed page 144 / PDF page 145
+  after the section-16 literature list
+- decision: wait until sections 17-18 before editing the promoted chapter-II
+  dossier; section 16 confirms the geometry-to-physics bridge, but section 17
+  explicitly supplies the subject/object payoff and section 18 returns to the
+  space problem
+- existing dirty promoted `texts/weyl...` files were not touched in this batch

@@ -284,7 +284,7 @@ Darstellung scheidet die durch einen Weltpunkt O laufende Hori-
 
 [[pdf-page:0134 printed-page:133]]
 
-zontalebene Zukunft und Vergangenheit von O aus. Washeißtdas?
+zontalebene Zukunft und Vergangenheit von O aus. Was heißt das?
 Schieße ich von O aus in allen Richtungen, mit allen möglichen
 Geschwindigkeiten Kugeln ab, so erreichen sie nur Weltpunkte,
 die später als O sind; in die Vergangenheit kann ich nicht schießen.
@@ -296,7 +296,7 @@ der Welt. Dies hat Leibniz erkannt, der in den ‚„Initia rerum Mathematicarum
 von zwei Elementen, die nicht zugleich sind, das eine den Grund
 des anderen einschließt, so wird jenes als vorangehend, dieses als
 folgend angesehen.“ Eine einfache Methode momentaner Zeitübertragung von einem Ort A zu einem andern B besteht darin,
-daß man einer von A nach Breichenden starren Stange in A einen
+daß man einer von A nach B reichenden starren Stange in A einen
 Ruck erteilt; der in B beobachtete Ruck ist gleichzeitig mit dem
 in A erzeugten.
 
@@ -304,12 +304,12 @@ Aber hinsichtlich der Kausalstruktur der Welt hat die moderne
 Entwicklung zu einer wesentlichen Korrektur geführt. In der graphischen Darstellung bilden diejenigen Weltpunkte, in welchen ein
 in O gegebenes und allseitig mit gleicher Geschwindigkeit c sich
 ausbreitendes Lichtsignal eintrifft, den Mantel eines geraden Kreiskegels mit Spitze in O, dessen Öffnungswinkel 90° beträgt, wenn
-wir auf der 1-Achse die eine Zeitsekunde darstellende Strecke ebenso
+wir auf der t-Achse die eine Zeitsekunde darstellende Strecke ebenso
 lang machen wie die Raumstrecke, welche in der Horizontalebene
-Eden vom Licht während einer Sekunde zurückgelegten Weg darstellt. Es hat sich zwingend ergeben (Einsteins spezielle Relativitätstheorie), daß nicht die durch O laufende Horizontalebene, sondern
+E den vom Licht während einer Sekunde zurückgelegten Weg darstellt. Es hat sich zwingend ergeben (Einsteins spezielle Relativitätstheorie), daß nicht die durch O laufende Horizontalebene, sondern
 dieser nach rückwärts zu verlängernde Mantel des „Lichtkegels“
 die Scheidung der Welt in Vergangenheit und Zukunft besorgt: keine
-Wirkung Kann sich mit größerer als Lichtgeschwindigkeit fortpflanzen (auch nicht der einer starren Stange zum Zweck der Zeitübertragung erteilte Ruck); die Geschwindigkeit jedes Körpers
+Wirkung kann sich mit größerer als Lichtgeschwindigkeit fortpflanzen (auch nicht der einer starren Stange zum Zweck der Zeitübertragung erteilte Ruck); die Geschwindigkeit jedes Körpers
 bleibt notwendig unterhalb c. Das ist eine unausweichliche Konsequenz des speziellen Relativitätsprinzips und der „Konstanz der
 Lichtgeschwindigkeit‘‘, worunter die Tatsache zu verstehen ist, daß
 der von O ausgehende Lichtkegel unabhängig ist von dem Zustand,
@@ -341,8 +341,8 @@ zyklische Zustandsfolge, die von Z zu Z führt, immer wiederholen, und
 jede dieser Perioden hat per definitionem die gleiche Zeitdauer. Was
 hierdurch gemessen wird, nennt man die Eigenzeit der Uhr, sie ist ohne
 weiteres brauchbar für alle Ereignisse, die längs der Weltlinie der Uhr
-sich zutragen. Helmholtz sagt (Zählen und Messen, Wissensch. Abhdig.
-II, S. 379): ‚Zeitmessung setzt voraus, daß physische Vorgänge gefunden seien, die, in unverändert gleicher Weise und unter gleichen
+sich zutragen. Helmholtz sagt (Zählen und Messen, Wissensch. Abhdlg.
+III, S. 379): ‚Zeitmessung setzt voraus, daß physische Vorgänge gefunden seien, die, in unverändert gleicher Weise und unter gleichen
 Bedingungen sich wiederholend, wenn sie in demselben Moment (richtiger wäre zu sagen: in unmittelbar benachbarten Raumzeitpunkten)
 
 [[pdf-page:0136 printed-page:135]]
@@ -358,7 +358,7 @@ und ablaufen können. Der unter geeigneten Vorsichtsmaßregeln am
 häufigsten zur Bestimmung physisch gleichwertiger Raumgrößen gebrauchte Prozeß ist die Übertragung starrer Körper, wie der Zirkel und
 Maßstäbe, von einem Ort zum anderen.“ Es ist eine Tatsache, daß, wenn
 ein und derselbe bestimmte physikalische Vorgang gleicherweise in den
-beiden Raumstücken S und S′ möglich ist, auch jeder in S sich abspielende Vorgang in ungeänderter Art innerhalb S′ ablaufen kann.
+beiden Raumstücken 𝔖 und 𝔖′ möglich ist, auch jeder in 𝔖 sich abspielende Vorgang in ungeänderter Art innerhalb 𝔖′ ablaufen kann.
 Ein Körper wird dadurch als starrer Körper erprobt, daß er sich immer
 wieder als unverändert in allen seinen Beschaffenheiten erweist, wenn er
 unter die gleichen Bedingungen zurückgebracht wird. Die auf diesen
@@ -375,7 +375,7 @@ die Maßstruktur der Welt bereits mit festgelegt ist, daß es zur Messung
 also der Uhren und starren Körper nicht mehr bedarf, sondern man mit
 Lichtsignalen und kräftefrei sich bewegenden Massenpunkten sein Auslangen findet.
 
-Habe ich ein dreidimensionales Kontinuum irgendwie auf Koordinaten x0, x1, x2 bezogen, so ist es dadurch auf den dreidimensionalen
+Habe ich ein dreidimensionales Kontinuum irgendwie auf Koordinaten x₀, x₁, x₂ bezogen, so ist es dadurch auf den dreidimensionalen
 Zahlenraum, das Kontinuum der Zahlentripel, abgebildet; den Zahlenraum will ich hier, um mich einer dem Leser mehr geläufigen Ausdrucksweise bedienen zu können, ersetzen durch den mit einem Cartesischen
 Koordinatensystem ausgestatteten Anschauungsraum. Man muß dann
 freilich, um das Verfahren auf die vierdimensionale Welt anzuwenden,
@@ -390,9 +390,9 @@ dann nicht wundern, daß auf einer orthographischen Projektion, welche
 die nördliche Halbkugel der Erde darstellt, dies keineswegs der Fall ist.
 Ebenso dient eine bestimmte Abbildung der Welt als Grundlage für die
 Verwendung der üblichen geometrisch-kinematischen Termini, wobei
-der x0-Achse die Bedeutung der Zeitachse zugeschrieben werde. (Von
+der x₀-Achse die Bedeutung der Zeitachse zugeschrieben werde. (Von
 einem Körper, dessen Weltlinie im Bilde als eine vertikale Gerade erscheint, d.h. als eine Linie, auf welcher von den vier Koordinaten
-x0, x1, x2, x3 nur x0 sich ändert, werden wir also z. B. sagen, daß er ruhe.)
+x₀, x₁, x₂, x₃ nur x₀ sich ändert, werden wir also z. B. sagen, daß er ruhe.)
 Objektive Bedeutung haben nur solche Beziehungen, welche unabhängig von der gewählten Abbildung bei beliebiger Deformation des
 Bildes bestehen bleiben; eine solche Beziehung ist z. B. das Sich-schneiden zweier Weltlinien. Soll eine spezielle Abbildung oder eine spezielle
 Klasse von Abbildungen gekennzeichnet werden, so muß dies physikalisch auf Grund der wirklichen Vorgänge und der Struktur geschehen:
@@ -436,7 +436,7 @@ kann man zur Not eine richtige Formulierung des Problems
 herauslesen, sie enthalten aber keinerlei Aufklärung.
 
 Übrigens hängt gemäß dem allgemeinen Relativitätspostulat
-der Begriff derrelativen Bewegung mehrerer Körper gegeneinander,
+der Begriff der relativen Bewegung mehrerer Körper gegeneinander,
 solange wir uns auf keine Weltstruktur stützen können, ebenso in
 der Luft wie der der absoluten Bewegung eines einzigen. Denn
 denkt man sich die vierdimensionale Welt als eine Plastelinmasse,
@@ -466,7 +466,7 @@ Ursache Widerstand zu leisten.“ Die Lösung ist demnach gegeben,
 sobald man sich entschließt, die Trägheitsstruktur als etwas Reales
 anzuerkennen, das Wirkungen auf die Materie nicht nur übt, sondern
 auch von ihr erleidet. Das ist der Schritt, den für die Maßstruktur
-des Raumes bereits Riemann tat; und in der Tat ist die Trägheitsmit der Maß-Struktur so eng verknüpft (legen doch die Maßverhältnisse des Raums die geraden Linien fest), daß man notwendig das Maßfeld als veränderungsfähig ansetzen muß, wenn
+des Raumes bereits Riemann tat; und in der Tat ist die Trägheits- mit der Maß-Struktur so eng verknüpft (legen doch die Maßverhältnisse des Raums die geraden Linien fest), daß man notwendig das Maßfeld als veränderungsfähig ansetzen muß, wenn
 man das Trägheitsfeld aus seiner geometrischen Starre erlöst.
 Einstein fand, unabhängig von Riemann, diesen Gedanken
 wieder und ergänzte ihn durch eine wichtige Erkenntnis, welche
@@ -478,7 +478,7 @@ Seite der Trägheit, nicht der Kraft gehört. In den Erscheinungen
 der Gravitation gibt sich also des Trägheits- oder, wie ich lieber sage,
 des Führungs-Feldes Veränderungsfähigkeit und Abhängigkeit von
 der Materie kund. Die Zerspaltung des einheitlichen Führungsfeldes in einen homogenen, dem Galileischen Gesetz genügenden
-Bestandteil und eine viel schwächere Abweichung davon,Gravitation genannt, die sich um die einzelnen Sterne herumlegt, ist
+Bestandteil und eine viel schwächere Abweichung davon, Gravitation genannt, die sich um die einzelnen Sterne herumlegt, ist
 nicht absolut, sondern nur relativ zu einem bestimmten Koordinatensystem möglich. Aus dieser Auffassung ergaben sich zwingend die an die Stelle des Newtonschen Attraktionsgesetzes tretenden Gesetze, nach denen die Materie auf das Trägheitsfeld
 einwirkt. Diese Folgerungen haben sich in der Erfahrung bestätigt.
 Das Führungsfeld wird durch die Materie (schwach) erregt, wie eine
@@ -490,7 +490,7 @@ durch die spezielle Relativitätstheorie geschilderten unerregten Zustand
 über, wenn alle Materie verschwindet, wie die Seefläche sich zur homogenen Ebene glättet, wenn die Schiffe im Hafen sind. Obwohl auch
 Einstein mit jenem Machschen Gedanken liebäugelt, ist es doch nach
 einer obigen Bemerkung ausgeschlossen, das Führungsfeld oder den
-„Ather“ als eine selbständige Macht aus dem Naturgeschehen auszuschalten; nicht die Sterne führen die Schwingungsebene des Foucaultschen Pendels, sondern das Zusammengehen beider, des Foucaultschen
+„Äther“ als eine selbständige Macht aus dem Naturgeschehen auszuschalten; nicht die Sterne führen die Schwingungsebene des Foucaultschen Pendels, sondern das Zusammengehen beider, des Foucaultschen
 Pendels und des Sternenkompasses, den die Richtungen der von den
 Sternen her eintreffenden Lichtstrahlen am irdischen Beobachtungsort
 bilden, beruht auf der gewaltigen Übermacht des Äthers in seiner
@@ -513,27 +513,27 @@ Zustandes Z → Z′, die Permutation. Man vergleiche dazu die oben
 wiedergegebenen Bemerkungen Leibnizens zur Relativität des Ortes
 (S. 127/128).
 
-Die Gruppe Δ0 der euklidischen Drehungen (s. § 15) im dreidimensionalen Raum ist nun durch die sogenannte Lorentzgruppe ersetzt
+Die Gruppe Δ₀ der euklidischen Drehungen (s. § 15) im dreidimensionalen Raum ist nun durch die sogenannte Lorentzgruppe ersetzt
 worden. Sie besteht aus allen homogenen linearen Transformationen
 
 [[pdf-page:0141 printed-page:140]]
 
 140 Raum und Zeit. Die transzendente Außenwelt
 
-z′i = Σ_k aik zk     (i, k = 0, 1, 2, 3),
+zᵢ′ = Σₖ aᵢₖ zₖ     (i, k = 0, 1, 2, 3),
 
-die die indefinite quadratische Form −z0² + z1² + z2² + z3² invariant
+die die indefinite quadratische Form −z₀² + z₁² + z₂² + z₃² invariant
 lassen. Für jede dieser Transformationen sind die absoluten Werte der
-Koeffizienten a = a00 und der Determinante d aus den 3 × 3 Koeffizienten aik (i, k = 1, 2, 3) größer oder gleich 1. Der Transformation
-erteilen wir die zeitliche Signatur + oder —, je nachdem a = 1 oder
+Koeffizienten a = a₀₀ und der Determinante d aus den 3 × 3 Koeffizienten aᵢₖ (i, k = 1, 2, 3) größer oder gleich 1. Der Transformation
+erteilen wir die zeitliche Signatur + oder —, je nachdem a ≥ 1 oder
 a ≤ −1 ist; ebenso bestimmt das Vorzeichen von d die räumliche
 Signatur. Die Lorentztransformationen mit zeitlicher Signatur + bilden
 eine Untergruppe mit Index 2 der gesamten Gruppe, ebenso die Transformationen mit der räumlichen Signatur +. Ihr gemeinsamer Teil ist
 in jeder von ihnen wiederum als Untergruppe mit Index 2 enthalten. Die
 Transformationen mit der zeitlichen Signatur — wechseln zwischen
-Vergangenheit und Zukunft, die mit der räumlichen Signatur — wechseln zwischen links und rechts. Die fundamentalsten Erfahrungen unseres Lebens scheinen dahin zu gehen, daß Δ0 auf die Lorentztransformationen mit der zeitlichen Signatur + (aber unter Einschluß derer mit
+Vergangenheit und Zukunft, die mit der räumlichen Signatur — wechseln zwischen links und rechts. Die fundamentalsten Erfahrungen unseres Lebens scheinen dahin zu gehen, daß Δ₀ auf die Lorentztransformationen mit der zeitlichen Signatur + (aber unter Einschluß derer mit
 der räumlichen Signatur —) beschränkt wird. Die Physik aber hat es für
-recht schwierig befunden, diese Frage zu entscheiden (s. §23C). Eine
+recht schwierig befunden, diese Frage zu entscheiden (s. § 23 C). Eine
 weitere Signatur, die topologische, wird der Koordinatentransformation
 angefügt, sie ist durch das Vorzeichen ihrer Jacobischen Determinante
 bestimmt.
@@ -542,12 +542,12 @@ Wir ziehen mit der „allgemeinen Relativitätstheorie‘‘ das Fazit
 der bisherigen historischen Entwicklung des Strukturproblems von
 Raum und Zeit folgendermaßen. Die Welt ist ein vierdimensionaler
 Riemannscher Raum, in welchem nach Festlegung einer Maßeinheit
-jedem von einem Punkte P mit den Koordinaten x0, x1, x2, x3
-ausstrahlenden Linienelemente, das nach dem unendlich benachbarten Punkte P’ = (xi + dxi) führt, eine Maßzahl
+jedem von einem Punkte P mit den Koordinaten x₀, x₁, x₂, x₃
+ausstrahlenden Linienelemente, das nach dem unendlich benachbarten Punkte P′ = (xᵢ + dxᵢ) führt, eine Maßzahl
 
-ds² = Σ_{i,k=0}^{3} gik dxi dxk     (gki = gik)
+ds² = Σ_{i,k=0}^{3} gᵢₖ dxᵢ dxₖ     (gₖᵢ = gᵢₖ)
 
-zukommt, die unabhängig ist vom benutzten willkürlichen Koordinatensystem. Die Koeffizienten gik hängen von den Koordinaten x0, x1, x2, x3 von P, aber nicht von den dxi ab. Die auf der
+zukommt, die unabhängig ist vom benutzten willkürlichen Koordinatensystem. Die Koeffizienten gᵢₖ hängen von den Koordinaten x₀, x₁, x₂, x₃ von P, aber nicht von den dxᵢ ab. Die auf der
 rechten Seite stehende metrische Fundamentalform ist aber nicht
 positiv-definit, sondern besitzt eine negative Dimension; d.h. sie
 läßt sich durch Einführung geeigneter Koordinaten im Punkte P
@@ -555,7 +555,7 @@ auf die nichts Unbestimmtes enthaltende Normalform
 
 [[pdf-page:0142 printed-page:141]]
 
-ds² = −dx0² + dx1² + dx2² + dx3²
+ds² = −dx₀² + dx₁² + dx₂² + dx₃²
 
 bringen. Nur zufolge dieses Umstandes scheidet der ‚„‚Lichtkegel
 in P“, auf welchem die von P ausgehenden Linienelemente liegen,
@@ -565,7 +565,7 @@ determiniert in einer leicht näher zu beschreibenden Weise das
 Verhalten der Uhren und Maßstäbe, sie legt den Verlauf der Lichtkegel in ihrer ganzen Ausdehnung fest und scheidet die Weltlinien
 der reinen Trägheitsbewegung (denen z. B. die Planeten folgen) aus
 der Gesamtheit aller möglichen Weltlinien aus. Ihre Koeffizienten,
-die stetigen Funktionen gik(x0, x1, x2, x3) beschreiben relativ zu
+die stetigen Funktionen gᵢₖ(x₀, x₁, x₂, x₃) beschreiben relativ zu
 dem gewählten Koordinatensystem das Maßfeld oder den „Zustand des Äthers‘“, der mit der Materie in Wechselwirkung steht.
 
 Bei der Frage nach der ganzen Ausdehnung der Welt muß man
@@ -577,13 +577,13 @@ führt zu Ungereimtheiten, wenn man annimmt, daß die Massen
 im großen gleichförmig durch das ganze Weltall verteilt sind und
 das Newtonsche Attraktionsgesetz gilt. Die entfernten Massen
 würden nämlich dann, obwohl die Gravitationskraft einer konstanten Masse mit dem reziproken Quadrat der Entfernung abnimmt, in der gesamten Gravitationswirkung derart überwiegen,
-daß die auf einen Stern ausgeübie Gesamikraft ganz unbestimmt
+daß die auf einen Stern ausgeübte Gesamtkraft ganz unbestimmt
 würde. Es ist aber auch möglich, daß der Raum endlich und dennoch unbegrenzt ist; wenn er nämlich in Analogie zu der geschlossenen zweidimensionalen Kugelfläche eine geschlossene dreidimensionale Mannigfaltigkeit wäre. Nach einer ansprechenden
 Deutung von A. Speiser (Klassische Stücke der Mathematik,1925,
 
 [[pdf-page:0143 printed-page:142]]
 
-S.53) hat Dante dadurch, daß er die vom Erdmittelpunkt, dem
+S. 53) hat Dante dadurch, daß er die vom Erdmittelpunkt, dem
 Sitze des Satanas, ausgehenden Radien nach einem Gegenpol, dem
 Quellpunkt der göttlichen Kraft, konvergieren läßt, des Aristoteles
 begrenzten Raum (der für das durch die Sinne wahrgenommene
@@ -592,33 +592,33 @@ Raum umgewandelt: des persönlichen Gottes Kraft muß von einem
 Zentrum ausstrahlen, kann nicht in räumlich-überräumlicher Ergossenheit die Weltkugel umfangen wie des Aristoteles „unbewegter erster Beweger“. (Vgl. Divina Commedia, Paradiso, vom
 28. Gesange ab.) In Zusammenhang mit seiner Gravitationstheorie
 und dem Versuch, in ihr das Machsche Prinzip zur Durchführung
-zu bringen, konstruiert Einstein ein statisches Universum U, mit
+zu bringen, konstruiert Einstein ein statisches Universum Uₐ mit
 einem geschlossenen dreidimensionalen Raum, in dem die Materie
 gleichmäßig verteilt ist; die Gesamtmasse aller Sterne determiniert
 das Volumen des Gesamtraumes. Er entbehrt natürlich, im Gegensatz zum Danteschen Raum, eines ausgezeichneten Poles und
 Gegenpoles, ist vielmehr ebenso homogen wie der euklidische.
-U, ergibt sich als mögliche Lösung der Gravitationsgesetze, vorausgesetzt, es wird in diese der sogenannte kosmologische Term
+Uₐ ergibt sich als mögliche Lösung der Gravitationsgesetze, vorausgesetzt, es wird in diese der sogenannte kosmologische Term
 einbezogen, der eine universelle Konstante a von der Dimension
 einer Entfernung (und der Größenordnung des „Weltradius‘“)
 einführt.
 
 Wenn man zwei seiner räumlichen Dimensionen streicht, kann
-man sich U, als vertikale Kreiszylinderfläche mit Radius a und
+man sich Uₐ als vertikale Kreiszylinderfläche mit Radius a und
 unendlicher Ausdehnung nach beiden Richtungen vorstellen. Dies
-zeigt, daß U, zwei getrennte „Säume‘‘ besitzt, einen in der unendlich fernen Vergangenheit und den andern in der unendlich
+zeigt, daß Uₐ zwei getrennte „Säume‘‘ besitzt, einen in der unendlich fernen Vergangenheit und den andern in der unendlich
 fernen Zukunft, und in diesem topologischen Sinne erstreckt sich
-U, von Ewigkeit zu Ewigkeit. Mit der gleichen Reduktion der
-Dimensionen ist die Karte des Universums U, nach der gemeinsamen Auffassung Euklid-Bruno, das heißt einer leeren Welt,
+Uₐ von Ewigkeit zu Ewigkeit. Mit der gleichen Reduktion der
+Dimensionen ist die Karte des Universums U∞ nach der gemeinsamen Auffassung Euklid-Bruno, das heißt einer leeren Welt,
 deren Maßstruktur von der speziellen Relativitätstheorie beschrieben wird, eine vertikale Ebene und besitzt daher nur einen
-zusammenhängenden Saum. Auf diesen topologischen Unterschied zwischen U, und U, (zwei Säume gegenüber einem)
+zusammenhängenden Saum. Auf diesen topologischen Unterschied zwischen Uₐ und U∞ (zwei Säume gegenüber einem)
 laufen letzten Endes die Begriffe geschlossener und offener Raum
 hinaus.
 
 [[pdf-page:0144 printed-page:143]]
 
-Die Maßverhältnisse sind nach der Einsteinschen Kosmologie derartig, daß der von einem Weltpunkt ausgehende Lichtkegel sich unendlichoft überschlägt; von einem Sterne müßte ein Beobachter danach
+Die Maßverhältnisse sind nach der Einsteinschen Kosmologie derartig, daß der von einem Weltpunkt ausgehende Lichtkegel sich unendlich oft überschlägt; von einem Sterne müßte ein Beobachter danach
 (wenn die Bilder nicht durch dünne trübende Medien im Weltenraum
-und durch Ablenkungen verwaschen werden). unendlichviele Bilder
+und durch Ablenkungen verwaschen werden) unendlich viele Bilder
 erblicken, die ihm den Stern in Zuständen zeigen, zwischen denen jedesmal die Zeit verflossen ist, die das Licht braucht, um rund um die Weltkugel zu laufen. Die Gegenwart wäre durchsetzt von den Gespenstern
 des Längstvergangenen. Doch ermöglichen nach de Sitter die Gravitationsgesetze auch eine massenleere, von Ewigkeit zu Ewigkeit sich
 erstreckende Welt, in welcher die Selbstüberdeckung des von einem
@@ -627,10 +627,10 @@ systematische Verschiebung der Spektrallinien der entferntesten Himmelsobjekte, 
 Sinne eines sich ausdehnenden Universums gedeutet worden, von dem
 de Sitters Konstruktion das einfachste Mittel liefert (Weyl, Friedmann,
 Lemaitre, H. P. Robertson u.a.). Für a erhält man so einen Wert von
-ungefähr 10?” cm. Übrigens folgt das Verhalten einer jeden Welt, die
+ungefähr 10²⁷ cm. Übrigens folgt das Verhalten einer jeden Welt, die
 gewissen natürlichen Homogenitätsbedingungen im Großen (ob sie leer
 ist oder Masse enthält) genügt, asymptotisch diesem Modell, wenn der
-Weltradius beim Expansionsprozeß wesentlich größer als a wird. (Vergleiche auch § 23C.) — Die Forderung, daß von jedem Weltpunkt O aus
+Weltradius beim Expansionsprozeß wesentlich größer als a wird. (Vergleiche auch § 23 C.) — Die Forderung, daß von jedem Weltpunkt O aus
 zwei (nicht nur in der nächsten Umgebung von O, sondern in ihrem
 ganzen Verlauf) getrennte Weltgebiete der aktiven Zukunft und der
 passiven Vergangenheit sich ergeben sollen, macht eine nicht nur räumlich, sondern auch zeitlich geschlossene Welt unmöglich; in ihr würde
