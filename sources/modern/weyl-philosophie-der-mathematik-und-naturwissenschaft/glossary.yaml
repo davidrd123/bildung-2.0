@@ -1883,9 +1883,10 @@
   alternatives:
     - "aether"
   status: open
-  notes: "Weyl retains `Äther` for the guiding/metric field as an independent power in reciprocal action with matter, not as a mechanical medium of older ether theories."
+  notes: "Weyl retains `Äther` for the guiding/metric field as an independent power in reciprocal action with matter, not as a mechanical medium of older ether theories. Section 22 reconstructs its history: substantial bearer of light/gravity, absolute space-medium of field states, abolished as substantial ether by special relativity, and then revived by general relativity as field/structural field."
   evidence:
     - "parts/017-science-01-16-struktur-raum-und-zeit-physische-wirksamkeit.md"
+    - "parts/023-science-03-22-die-materie.md"
 
 - term: "kosmologischer Term"
   kind: concept
@@ -2339,3 +2340,67 @@
   notes: "Paired with `Weltvertrauen` as the basic stance of spiritual life acting through thetic reason. It grounds the practical confidence in theory beyond formal justification."
   evidence:
     - "parts/022-science-02-21-theorienbildung.md"
+
+- term: "Materie"
+  kind: concept
+  preferred: "matter"
+  alternatives: []
+  status: open
+  notes: "Section 22 treats matter as the central test case for Weyl's world-picture. It is not a stable substrate concept but a historically transformed pressure point moving through substance, atom, force-center, field, ether, conservation law, and quantum complementarity."
+  evidence:
+    - "parts/023-science-03-22-die-materie.md"
+
+- term: "Substanzstelle"
+  kind: concept
+  preferred: "substance-place"
+  alternatives:
+    - "place of substance"
+  status: seed
+  notes: "The unit presupposed by the older substance theory of matter: the same place of substance should be reidentifiable throughout the history of a body-system. Weyl uses it to show why homogeneous substance requires atomistic individuation."
+  evidence:
+    - "parts/023-science-03-22-die-materie.md"
+
+- term: "Feldtheorie der Materie"
+  kind: concept
+  preferred: "field theory of matter"
+  alternatives: []
+  status: open
+  notes: "The program that interprets a material particle such as the electron as a high-energy knot or region of field rather than as a substantial core. Weyl keeps the program live but not settled."
+  evidence:
+    - "parts/023-science-03-22-die-materie.md"
+
+- term: "Erhaltungssätze"
+  kind: concept
+  preferred: "conservation laws"
+  alternatives: []
+  status: seed
+  notes: "The modern carrier of substance-pressure. Section 22 joins energy and momentum through relativity, derives the older energy principle from normalized effects, and then denies that conservation laws are metaphysically immune to revision."
+  evidence:
+    - "parts/023-science-03-22-die-materie.md"
+
+- term: "Massenfaktor"
+  kind: concept
+  preferred: "mass-factor"
+  alternatives: []
+  status: seed
+  notes: "The invariant positive length of the four-dimensional energy-momentum vector. Weyl stresses that it cannot serve as a substance-quantity because it does not obey the addition law over subregions."
+  evidence:
+    - "parts/023-science-03-22-die-materie.md"
+
+- term: "Atomistik"
+  kind: concept
+  preferred: "atomism"
+  alternatives: []
+  status: seed
+  notes: "The atomistic theory begins as speculative support for substance theory but gains empirical force through chemistry, the electron, quantum action, and spectral series. It also exposes the discreteness problem that pure substance theory cannot explain."
+  evidence:
+    - "parts/023-science-03-22-die-materie.md"
+
+- term: "Komplementarität"
+  kind: concept
+  preferred: "complementarity"
+  alternatives: []
+  status: open
+  notes: "Bohr's name for the quantum situation in which light and electrons appear as wave or corpuscle depending on the observation arrangement. Section 22 treats it as replacing the old polarity of matter and force."
+  evidence:
+    - "parts/023-science-03-22-die-materie.md"

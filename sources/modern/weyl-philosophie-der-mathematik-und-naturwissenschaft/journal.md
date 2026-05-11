@@ -1340,3 +1340,76 @@ Next batch:
 - guiding question: what physical world-picture results when substance and
   causality are reworked under Weyl's method of symbolic, experiment-coupled,
   theory-level construction?
+
+## 2026-05-10 - Part 023: Matter
+
+Translated section 22, `Die Materie`, opening natural-science part III,
+`Das Weltbild`.
+
+Scope:
+
+- section 22 begins on printed page 210 / PDF page 211
+- it ends with its literature list on printed page 239 / PDF page 240, before
+  `23. Kausalität`
+
+Source corrections:
+
+- visually checked page images `page-0211.jpg` through `page-0240.jpg`
+- repaired damaged quotation marks in Locke, Huyghens, Newton, Kant,
+  Leibniz, Plato's `Timaios`, Helmholtz, Schelling, Sommerfeld, and Bohr
+- restored Greek and French passages including Democritus' `μὴ ὄν` /
+  `παμπληθὲς ὄν`, Aristotle's `ὕλη`, `τὸ ὑποκείμενον`, `εἶδος`, Leibniz's
+  `ἐντελέχεια`, and `La substance est un être capable d’action`
+- corrected physical notation and formulas including `10⁻¹³ cm`, `ℰ = 0`,
+  `𝔍 = m𝔳`, `m = E/c²`, `gᵢₖ`, `m = m₀ / √(c² − v²)`,
+  `E = m₀c² / √(c² − v²)`, `𝔍 = m₀𝔳 / √(c² − v²)`, `A₁`, `A₂`, `hν`, `ν`,
+  and `∞`
+- separated Fig. 5 from the running text and repaired spacing/word damage in
+  `Koeffizient`, `Zu- oder Abnahme`, `Energiemittelpunktes`,
+  `kontinuierlichen`, `Hoffnung`, `Feldgesetze`, `absoluten`,
+  `Verallgemeinerungen`, and `A priori`
+
+What the batch clarified:
+
+- section 22 is Weyl's reconstruction of matter as a moving metaphysical and
+  physical pressure point, not a stable substrate
+- substance theory requires reidentifiable substance-places, but homogeneous
+  substance cannot individuate them without atomism and empty space
+- the atom begins as rigid geometrical substance, then becomes a center of
+  force, then a field-knot, then a boundary/channel in field law, and finally
+  an entity whose wave/corpuscle character depends on observation
+- field theory changes the ontology of space: space is not an empty container
+  over against things, and `ℰ = 0` is a field state, not absence of field
+- Weyl keeps pure field theory as a live program but refuses to treat it as
+  accomplished doctrine; the working position remains a matter-field dualism
+- conservation laws are the modern carrier of substance-pressure, but they are
+  not metaphysically invulnerable; even energy conservation remains open to
+  theoretical revision if phenomena force it
+- Leibniz becomes structurally important because he shifts substance-identity
+  from inert stuff to persistent law
+- quantum complementarity replaces the old matter/force or matter/ether
+  polarity with a relation among phenomenon, instrument, and mutually exclusive
+  descriptions
+
+Translation decisions:
+
+- `Materie` is `matter`
+- `Substanzstelle` is `substance-place`
+- `Solidität` is `solidity`
+- `Stoß` is `collision`
+- `Feldtheorie der Materie` is `field theory of matter`
+- `Äther` is `ether`
+- `Nahewirkungsgesetze` is `local-action laws`
+- `Energiemittelpunkt` is `energy-center`
+- `Erhaltungssätze` is `conservation laws`
+- `Massenfaktor` is `mass-factor`
+- `Atomistik` is `atomism`
+- `Komplementarität` is `complementarity`
+
+Next batch:
+
+- continue section 23, `Kausalität (Gesetz, Zufall, Freiheit)`, in
+  `013-science-03-das-weltbild.txt`
+- section 23 should complete natural-science part III and allow a synthesis of
+  Weyl's world-picture around matter, field, substance, causality, chance, and
+  freedom
