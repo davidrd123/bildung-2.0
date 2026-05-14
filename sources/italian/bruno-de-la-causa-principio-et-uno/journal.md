@@ -291,3 +291,22 @@ the universal intellect as internal artisan; soul/life in all things according
 to substance; matter having none so that it may have all; matter as fountain
 and womb of forms; all-in-all but not totally or in every mode; and Cusanus on
 coincident contraries.
+
+## 2026-05-09 - TTS Access Layer Scaffold
+
+Added `source/tts/` as an access layer for audiobook preparation, following
+the Peirce/Lotman pattern that keeps TTS exports outside the canonical
+translation apparatus.
+
+The first export contains 20 files generated from the `## Working Translation`
+bodies in `parts/`. The pass excludes `parts/000-liberliber-metadata-and-toc.md`
+because it is provenance apparatus rather than authored Bruno text, and excludes
+`parts/001-proemial-epistle-opening-calibration.md` because it is a duplicated
+partial calibration draft.
+
+Added `tools/export_bruno_de_la_causa_tts.py` so the layer can be regenerated
+after substantive corrections. Current cleanup is deliberately modest: add a
+compact heading, strip source-facing notes and Markdown emphasis, and convert
+dialogue labels into `[[speaker: Name]]` structural markers. Pronunciation
+normalization for Italian, Latin, and proper names remains a later
+audiobook-production step.

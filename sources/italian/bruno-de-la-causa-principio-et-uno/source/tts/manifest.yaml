@@ -1,0 +1,119 @@
+# TTS export manifest.
+# Access layer only; generated from source-local translation parts.
+---
+pass:
+  name: bruno-de-la-causa-tts
+  status: active
+  purpose: "Audio-ready derivatives of source-local English working translations"
+  source_parts: "../../parts"
+  generated_by: "tools/export_bruno_de_la_causa_tts.py"
+  cleanup_rule: "keep Working Translation only; add speakable heading; strip source apparatus and Markdown emphasis; convert dialogue labels to [[speaker: Name]] markers"
+  apparatus_boundary: "tts exports do not seed glossary, handles, threads, or encounter claims"
+exports:
+  - seq: "001"
+    source_part: "../../parts/001-title-and-proemial-epistle.md"
+    tts_file: "001-title-and-proemial-epistle.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "002"
+    source_part: "../../parts/002-argomenti.md"
+    tts_file: "002-argomenti.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "003"
+    source_part: "../../parts/003-ai-principi-de-l-universo.md"
+    tts_file: "003-ai-principi-de-l-universo.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "004a"
+    source_part: "../../parts/004a-dialogo-primo-opening-and-cena-defense.md"
+    tts_file: "004a-dialogo-primo-opening-and-cena-defense.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "004b"
+    source_part: "../../parts/004b-dialogo-primo-correction-and-university-satire.md"
+    tts_file: "004b-dialogo-primo-correction-and-university-satire.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "004c"
+    source_part: "../../parts/004c-dialogo-primo-pedants-and-interlocutors.md"
+    tts_file: "004c-dialogo-primo-pedants-and-interlocutors.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "005a"
+    source_part: "../../parts/005a-dialogo-secondo-cause-principle-and-universal-intellect.md"
+    tts_file: "005a-dialogo-secondo-cause-principle-and-universal-intellect.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "005b"
+    source_part: "../../parts/005b-dialogo-secondo-world-soul-and-life-in-all-things.md"
+    tts_file: "005b-dialogo-secondo-world-soul-and-life-in-all-things.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "005c"
+    source_part: "../../parts/005c-dialogo-secondo-form-substance-and-whole-in-each-part.md"
+    tts_file: "005c-dialogo-secondo-form-substance-and-whole-in-each-part.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "006a"
+    source_part: "../../parts/006a-dialogo-terzo-pedant-prelude.md"
+    tts_file: "006a-dialogo-terzo-pedant-prelude.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "006b"
+    source_part: "../../parts/006b-dialogo-terzo-matter-as-subject.md"
+    tts_file: "006b-dialogo-terzo-matter-as-subject.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "006c"
+    source_part: "../../parts/006c-dialogo-terzo-plural-methods-and-matter-as-potency.md"
+    tts_file: "006c-dialogo-terzo-plural-methods-and-matter-as-potency.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "006d"
+    source_part: "../../parts/006d-dialogo-terzo-absolute-act-potency-and-the-one.md"
+    tts_file: "006d-dialogo-terzo-absolute-act-potency-and-the-one.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "007a"
+    source_part: "../../parts/007a-dialogo-quarto-matter-female-and-appetite-prelude.md"
+    tts_file: "007a-dialogo-quarto-matter-female-and-appetite-prelude.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "007b"
+    source_part: "../../parts/007b-dialogo-quarto-one-matter-corporeal-incorporeal.md"
+    tts_file: "007b-dialogo-quarto-one-matter-corporeal-incorporeal.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "007c"
+    source_part: "../../parts/007c-dialogo-quarto-matter-contains-forms.md"
+    tts_file: "007c-dialogo-quarto-matter-contains-forms.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "007d"
+    source_part: "../../parts/007d-dialogo-quarto-appetite-of-matter.md"
+    tts_file: "007d-dialogo-quarto-appetite-of-matter.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "008a"
+    source_part: "../../parts/008a-dialogo-quinto-one-infinite-immobile.md"
+    tts_file: "008a-dialogo-quinto-one-infinite-immobile.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "008b"
+    source_part: "../../parts/008b-dialogo-quinto-summary-and-ascent-to-unity.md"
+    tts_file: "008b-dialogo-quinto-summary-and-ascent-to-unity.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+  - seq: "008c"
+    source_part: "../../parts/008c-dialogo-quinto-contraries-and-final-one.md"
+    tts_file: "008c-dialogo-quinto-contraries-and-final-one.md"
+    status: exported
+    note: "Working Translation body exported; apparatus stripped; dialogue labels converted to speaker markers"
+omitted:
+  - source_part: "../../parts/000-liberliber-metadata-and-toc.md"
+    status: metadata
+    note: "Liber Liber apparatus; not authored Bruno text"
+  - source_part: "../../parts/001-proemial-epistle-opening-calibration.md"
+    status: superseded
+    note: "partial calibration fragment duplicated by 001-title-and-proemial-epistle.md"
