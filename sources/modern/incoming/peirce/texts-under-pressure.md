@@ -8,11 +8,14 @@ reason: "April 10 Cassirer chat narrowed the actual Peirce pressure to a small p
 
 # Peirce texts under pressure
 
-Purpose: preserve the narrow Peirce prioritization that survived the April 10 Cassirer chat. This is not a Peirce campaign and not a framework import. It is a bounded source-candidate surface.
+Purpose: preserve the narrow Peirce prioritization that survived the April 10
+Cassirer chat. The Volume 1 pass is now a source-local campaign, not a
+promoted Peirce project or framework import.
 
 ## 2026-05-08 Status Note
 
-The Volume 1 scaffold now has one bounded encounter note:
+At the 2026-05-08 checkpoint, the Volume 1 scaffold temporarily held only the
+first bounded encounter note:
 
 - `sources/modern/peirce-essential-peirce-volume-1/encounters/01-illustrations-018-021-probability-induction-hypothesis.md`
 
@@ -20,6 +23,34 @@ That note extends the `Fixation` / `Ideas Clear` surface through the remaining
 `Illustrations of the Logic of Science` probability-induction arc, but it does
 not open a general Peirce campaign. The 1903 abduction extract remains the
 better next target if the live pressure is experiment design or abduction.
+
+This checkpoint is superseded by the 2026-05-09 source-local campaign status
+below.
+
+## 2026-05-09 Status Note
+
+The Volume 1 scaffold now has a completed source-local campaign through
+`034`, recorded under:
+
+- `sources/modern/peirce-essential-peirce-volume-1/encounters/`
+- `sources/modern/peirce-essential-peirce-volume-1/synthesis/campaign-audit.md`
+
+At this checkpoint, the weak `018-021` range had been image-grounded to page
+transcripts and assembled section files, while essays `022-034` still relied
+on cleaned text-layer witnesses. That source-status boundary is superseded by
+the 2026-05-10 note below.
+
+The campaign did not promote Peirce to `texts/`, did not create a glossary,
+and did not import Peircean vocabulary as repo architecture.
+
+## 2026-05-10 Status Note
+
+The current Volume 1 campaign range through `034` is now image-grounded:
+PDF pages `186-416` have page-level transcripts, and essays `018-034` have
+assembled image-grounded cleaned section files.
+
+This does not change the promotion decision. Peirce remains source-local, with
+no `texts/` promotion, no glossary, and no Peircean framework import.
 
 ## Inputs
 
@@ -83,9 +114,8 @@ Why:
 
 ## Not yet demanded
 
-The following are not currently justified as first moves:
+The following remain unjustified:
 
-- a general Peirce encounter campaign
 - manuscript recovery work
 - a broad `community of inquiry` project import
 - a sign-taxonomy reread before the doubt / belief and abduction questions have been tested in the published core
@@ -108,4 +138,5 @@ This note should become a live source encounter only if one of the following hap
 - the abduction question becomes a real bottleneck in experiment design or evaluation
 - the sign question becomes necessary for a specific local comparison, not just as attractive vocabulary
 
-Until then, this stays an `incoming` seed.
+Until then, this stays an `incoming` pressure note, with the Volume 1 campaign
+as a source-local reference surface rather than a promoted project.

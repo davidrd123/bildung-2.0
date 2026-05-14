@@ -3,32 +3,33 @@
 ## Scope
 
 - `018 The Doctrine of Chances`
-  - Source: `../source/cleaned/018-the-doctrine-of-chances-1878.txt`
+  - Source: `../source/image-grounded-cleaned/018-the-doctrine-of-chances-1878.txt`
   - Printed pages `142-154`
   - PDF pages `186-198`
 - `019 The Probability of Induction`
-  - Source: `../source/cleaned/019-the-probability-of-induction-1878.txt`
+  - Source: `../source/image-grounded-cleaned/019-the-probability-of-induction-1878.txt`
   - Printed pages `155-169`
   - PDF pages `199-213`
 - `020 The Order of Nature`
-  - Source: `../source/cleaned/020-the-order-of-nature-1878.txt`
+  - Source: `../source/image-grounded-cleaned/020-the-order-of-nature-1878.txt`
   - Printed pages `170-185`
   - PDF pages `214-229`
 - `021 Deduction, Induction, and Hypothesis`
-  - Source: `../source/cleaned/021-deduction-induction-and-hypothesis-1878.txt`
+  - Source: `../source/image-grounded-cleaned/021-deduction-induction-and-hypothesis-1878.txt`
   - Printed pages `186-199`
   - PDF pages `230-243`
 
 ## Source Status
 
-This encounter uses the cleaned text-layer files as a reading witness. Those
-files are generated from the PDF text layer and remain pending image-grounded
-proof. The image-grounded run currently reaches `017 How to Make Our Ideas
-Clear` (`source/image-grounded-cleaned/017-how-to-make-our-ideas-clear-1878.txt`)
-and stops before this arc.
+This encounter now uses the image-grounded cleaned files assembled from
+page-level transcripts for PDF pages `186-243`. The weak spot was reviewed by
+reconciling the existing cleaned text layer with rendered-page OCR from
+`/tmp/peirce_ep1_pages_300/`; opening pages and the damaged hypothesis-testing
+rule on PDF page `237` were checked directly against the page images.
 
-Use the PDF or rendered page images before quoting, correcting punctuation, or
-building a fine-grained Peirce apparatus from this encounter.
+The pass is suitable for bounded reading and source-local encounter work. Use
+the PDF or rendered page images before quoting, correcting mathematical
+notation, or building a fine-grained Peirce apparatus from this encounter.
 
 ## Why This Tranche
 
@@ -152,20 +153,20 @@ With `016` and `017`, the arc now reads as:
   rule, case, and result
 
 This is enough Peirce for the local questions about belief, clarity,
-probability, induction, order, and hypothesis. It does not yet license a
-Peircean rewrite of the repo architecture.
+probability, induction, order, and hypothesis. It does not license a Peircean
+rewrite of the repo architecture, but it now gives the rest of the source-local
+Volume 1 pass a firmer base.
 
 ## Decisions For Now
 
-- Stop the bounded continuation at `021`.
-- Do not continue linearly into the rest of Volume 1 by momentum.
+- Continue through `034` only as a source-local campaign, in bounded encounter
+  arcs rather than a single Peirce import.
 - Do not promote a Peirce glossary or frame layer from this encounter alone.
-- Treat the source surface as useful but still text-layer based until pages
-  `186-243` are image-grounded.
+- Keep the PDF as authority for quotation, formulas, and tables.
 
 ## Reassessment
 
-The next Peirce target depends on the live use:
+The next Peirce targets are constrained by the current campaign:
 
 - semiotics or logic notation pressure points toward `022` and `025`
 - metaphysics, categories, or evolutionary cosmology pressure points toward
@@ -173,6 +174,5 @@ The next Peirce target depends on the live use:
 - the abduction / experiment-design question still points toward the already
   curated 1903 Harvard pragmatism extract before more Volume 1 expansion
 
-Until one of those pressures is live, this encounter should remain a bounded
-surface rather than the start of a general Peirce campaign.
-
+That continuation remains source-local. Nothing here promotes Peirce into
+`texts/` or turns Peircean vocabulary into repo architecture.

@@ -163,6 +163,239 @@ Status vocabulary:
 | 184 | 140 | `184.txt` | image-transcribed | Running header omitted; knowability objection, remote considerations reply, and closing transition preserved. |
 | 185 | 141 | `185.txt` | image-transcribed | Running header omitted; final threshold-of-scientific-logic paragraph preserved. |
 
+| 186 | 142 | `186.txt` | image-reviewed | Start of "The Doctrine of Chances"; headnote checked against rendered page OCR/image witness and text-layer defects corrected. |
+| 187 | 143 | `187.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Chances". |
+| 188 | 144 | `188.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Chances". |
+| 189 | 145 | `189.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Chances". |
+| 190 | 146 | `190.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Chances". |
+| 191 | 147 | `191.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Chances". |
+| 192 | 148 | `192.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Chances". |
+| 193 | 149 | `193.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Chances". |
+| 194 | 150 | `194.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Chances". |
+| 195 | 151 | `195.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Chances". |
+| 196 | 152 | `196.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Chances". |
+| 197 | 153 | `197.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Chances". |
+| 198 | 154 | `198.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Chances". |
+| 199 | 155 | `199.txt` | image-reviewed | Start of "The Probability of Induction"; headnote checked against rendered page OCR/image witness and text-layer defects corrected. |
+| 200 | 156 | `200.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Probability of Induction". |
+| 201 | 157 | `201.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Probability of Induction". |
+| 202 | 158 | `202.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Probability of Induction". |
+| 203 | 159 | `203.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Probability of Induction". |
+| 204 | 160 | `204.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Probability of Induction". |
+| 205 | 161 | `205.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Probability of Induction". |
+| 206 | 162 | `206.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Probability of Induction". |
+| 207 | 163 | `207.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Probability of Induction". |
+| 208 | 164 | `208.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Probability of Induction". |
+| 209 | 165 | `209.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Probability of Induction". |
+| 210 | 166 | `210.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Probability of Induction". |
+| 211 | 167 | `211.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Probability of Induction". |
+| 212 | 168 | `212.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Probability of Induction". |
+| 213 | 169 | `213.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Probability of Induction". |
+| 214 | 170 | `214.txt` | image-reviewed | Start of "The Order of Nature"; headnote checked against rendered page OCR/image witness and text-layer defects corrected. |
+| 215 | 171 | `215.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 216 | 172 | `216.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 217 | 173 | `217.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 218 | 174 | `218.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 219 | 175 | `219.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 220 | 176 | `220.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 221 | 177 | `221.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 222 | 178 | `222.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 223 | 179 | `223.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 224 | 180 | `224.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 225 | 181 | `225.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 226 | 182 | `226.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 227 | 183 | `227.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 228 | 184 | `228.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 229 | 185 | `229.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Order of Nature". |
+| 230 | 186 | `230.txt` | image-reviewed | Start of "Deduction, Induction, and Hypothesis"; headnote checked against rendered page OCR/image witness and text-layer defects corrected. |
+| 231 | 187 | `231.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Deduction, Induction, and Hypothesis". |
+| 232 | 188 | `232.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Deduction, Induction, and Hypothesis". |
+| 233 | 189 | `233.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Deduction, Induction, and Hypothesis". |
+| 234 | 190 | `234.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Deduction, Induction, and Hypothesis". |
+| 235 | 191 | `235.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Deduction, Induction, and Hypothesis". |
+| 236 | 192 | `236.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Deduction, Induction, and Hypothesis". |
+| 237 | 193 | `237.txt` | image-reviewed | Damaged OCR rule on hypothesis testing corrected from direct page image; running header omitted. |
+| 238 | 194 | `238.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Deduction, Induction, and Hypothesis". |
+| 239 | 195 | `239.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Deduction, Induction, and Hypothesis". |
+| 240 | 196 | `240.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Deduction, Induction, and Hypothesis". |
+| 241 | 197 | `241.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Deduction, Induction, and Hypothesis". |
+| 242 | 198 | `242.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Deduction, Induction, and Hypothesis". |
+| 243 | 199 | `243.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Deduction, Induction, and Hypothesis". |
+
+| 244 | 200 | `244.txt` | image-reviewed | Start of "On the Algebra of Logic"; headnote checked against rendered page OCR/image witness and text-layer defects corrected where obvious. |
+| 245 | 201 | `245.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "On the Algebra of Logic". |
+| 246 | 202 | `246.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "On the Algebra of Logic". |
+| 247 | 203 | `247.txt` | image-reviewed | Notation-heavy page; copula symbols and negation marks checked against rendered image, but PDF remains authority for exact symbols. |
+| 248 | 204 | `248.txt` | image-reviewed | Notation-heavy page with displayed argument forms; transcript is readable witness, PDF remains authority for layout and exact symbols. |
+| 249 | 205 | `249.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "On the Algebra of Logic". |
+| 250 | 206 | `250.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "On the Algebra of Logic". |
+| 251 | 207 | `251.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "On the Algebra of Logic". |
+| 252 | 208 | `252.txt` | image-reviewed | Quadrant figure page; body reconciled, figure reference retained, PDF remains authority for diagram. |
+| 253 | 209 | `253.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "On the Algebra of Logic". |
+| 254 | 210 | `254.txt` | image-reviewed | Start of "Introductory Lecture on the Study of Logic"; headnote checked against rendered page OCR/image witness and text-layer defects corrected where obvious. |
+| 255 | 211 | `255.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Introductory Lecture on the Study of Logic". |
+| 256 | 212 | `256.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Introductory Lecture on the Study of Logic". |
+| 257 | 213 | `257.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Introductory Lecture on the Study of Logic". |
+| 258 | 214 | `258.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Introductory Lecture on the Study of Logic". |
+| 259 | 215 | `259.txt` | image-reviewed | Start of "Design and Chance"; headnote checked against rendered page OCR/image witness and text-layer defects corrected where obvious. |
+| 260 | 216 | `260.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Design and Chance". |
+| 261 | 217 | `261.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Design and Chance". |
+| 262 | 218 | `262.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Design and Chance". |
+| 263 | 219 | `263.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Design and Chance". |
+| 264 | 220 | `264.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Design and Chance". |
+| 265 | 221 | `265.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Design and Chance". |
+| 266 | 222 | `266.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Design and Chance". |
+| 267 | 223 | `267.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Design and Chance". |
+| 268 | 224 | `268.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Design and Chance". |
+| 269 | 225 | `269.txt` | image-reviewed | Start of notation essay; headnote checked against rendered image, visible JSTOR footer omitted from transcript. |
+| 270 | 226 | `270.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "On the Algebra of Logic: A Contribution to the Philosophy of Notation". |
+| 271 | 227 | `271.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "On the Algebra of Logic: A Contribution to the Philosophy of Notation". |
+| 272 | 228 | `272.txt` | image-reviewed | Formula/diagram discussion page; visible JSTOR footer omitted, PDF remains authority for exact algebraic notation. |
+| 273 | 229 | `273.txt` | image-reviewed | Start of "An American Plato"; headnote checked against rendered page OCR/image witness and text-layer defects corrected where obvious. |
+| 274 | 230 | `274.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "An American Plato". |
+| 275 | 231 | `275.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "An American Plato". |
+| 276 | 232 | `276.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "An American Plato". |
+| 277 | 233 | `277.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "An American Plato". |
+| 278 | 234 | `278.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "An American Plato". |
+| 279 | 235 | `279.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "An American Plato". |
+| 280 | 236 | `280.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "An American Plato". |
+| 281 | 237 | `281.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "An American Plato". |
+| 282 | 238 | `282.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "An American Plato". |
+| 283 | 239 | `283.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "An American Plato". |
+| 284 | 240 | `284.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "An American Plato". |
+| 285 | 241 | `285.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "An American Plato". |
+| 286 | 242 | `286.txt` | image-reviewed | Start of "One, Two, Three: Kantian Categories"; headnote checked against rendered page OCR/image witness and text-layer defects corrected where obvious. |
+| 287 | 243 | `287.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "One, Two, Three: Kantian Categories". |
+| 288 | 244 | `288.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "One, Two, Three: Kantian Categories". |
+| 289 | 245 | `289.txt` | image-reviewed | Start of "A Guess at the Riddle"; headnote checked against rendered page OCR/image witness and text-layer defects corrected where obvious. |
+| 290 | 246 | `290.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 291 | 247 | `291.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 292 | 248 | `292.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 293 | 249 | `293.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 294 | 250 | `294.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 295 | 251 | `295.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 296 | 252 | `296.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 297 | 253 | `297.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 298 | 254 | `298.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 299 | 255 | `299.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 300 | 256 | `300.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 301 | 257 | `301.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 302 | 258 | `302.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 303 | 259 | `303.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 304 | 260 | `304.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 305 | 261 | `305.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 306 | 262 | `306.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 307 | 263 | `307.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 308 | 264 | `308.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 309 | 265 | `309.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 310 | 266 | `310.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 311 | 267 | `311.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 312 | 268 | `312.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 313 | 269 | `313.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 314 | 270 | `314.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 315 | 271 | `315.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 316 | 272 | `316.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 317 | 273 | `317.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 318 | 274 | `318.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 319 | 275 | `319.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 320 | 276 | `320.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 321 | 277 | `321.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 322 | 278 | `322.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 323 | 279 | `323.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "A Guess at the Riddle". |
+| 324 | 280 | `324.txt` | image-reviewed | Start of "Trichotomic"; title and headnote checked against rendered image. |
+| 325 | 281 | `325.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Trichotomic". |
+| 326 | 282 | `326.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Trichotomic". |
+| 327 | 283 | `327.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Trichotomic". |
+| 328 | 284 | `328.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Trichotomic". |
+| 329 | 285 | `329.txt` | image-reviewed | Start of "The Architecture of Theories"; headnote checked against rendered page OCR/image witness and text-layer defects corrected where obvious. |
+| 330 | 286 | `330.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Architecture of Theories". |
+| 331 | 287 | `331.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Architecture of Theories". |
+| 332 | 288 | `332.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Architecture of Theories". |
+| 333 | 289 | `333.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Architecture of Theories". |
+| 334 | 290 | `334.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Architecture of Theories". |
+| 335 | 291 | `335.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Architecture of Theories". |
+| 336 | 292 | `336.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Architecture of Theories". |
+| 337 | 293 | `337.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Architecture of Theories". |
+| 338 | 294 | `338.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Architecture of Theories". |
+| 339 | 295 | `339.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Architecture of Theories". |
+| 340 | 296 | `340.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Architecture of Theories". |
+| 341 | 297 | `341.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Architecture of Theories". |
+| 342 | 298 | `342.txt` | image-reviewed | Start of "The Doctrine of Necessity Examined"; headnote checked against rendered page OCR/image witness and text-layer defects corrected where obvious. |
+| 343 | 299 | `343.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Necessity Examined". |
+| 344 | 300 | `344.txt` | image-reviewed | Monist/JSTOR scan page; visible JSTOR footer omitted from transcript. |
+| 345 | 301 | `345.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Necessity Examined". |
+| 346 | 302 | `346.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Necessity Examined". |
+| 347 | 303 | `347.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Necessity Examined". |
+| 348 | 304 | `348.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Necessity Examined". |
+| 349 | 305 | `349.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Necessity Examined". |
+| 350 | 306 | `350.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Necessity Examined". |
+| 351 | 307 | `351.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Necessity Examined". |
+| 352 | 308 | `352.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Necessity Examined". |
+| 353 | 309 | `353.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Necessity Examined". |
+| 354 | 310 | `354.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Necessity Examined". |
+| 355 | 311 | `355.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Doctrine of Necessity Examined". |
+| 356 | 312 | `356.txt` | image-reviewed | Start of "The Law of Mind"; headnote checked against rendered image and visible JSTOR footer omitted. |
+| 357 | 313 | `357.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 358 | 314 | `358.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 359 | 315 | `359.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 360 | 316 | `360.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 361 | 317 | `361.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 362 | 318 | `362.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 363 | 319 | `363.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 364 | 320 | `364.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 365 | 321 | `365.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 366 | 322 | `366.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 367 | 323 | `367.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 368 | 324 | `368.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 369 | 325 | `369.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 370 | 326 | `370.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 371 | 327 | `371.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 372 | 328 | `372.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 373 | 329 | `373.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 374 | 330 | `374.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 375 | 331 | `375.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 376 | 332 | `376.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 377 | 333 | `377.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "The Law of Mind". |
+| 378 | 334 | `378.txt` | image-reviewed | Start of "Man's Glassy Essence"; headnote checked against rendered page OCR/image witness and text-layer defects corrected where obvious. |
+| 379 | 335 | `379.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 380 | 336 | `380.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 381 | 337 | `381.txt` | image-reviewed | Virial-equation page checked directly against rendered image; formula witness normalized for readability, PDF remains authority for exact notation. |
+| 382 | 338 | `382.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 383 | 339 | `383.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 384 | 340 | `384.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 385 | 341 | `385.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 386 | 342 | `386.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 387 | 343 | `387.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 388 | 344 | `388.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 389 | 345 | `389.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 390 | 346 | `390.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 391 | 347 | `391.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 392 | 348 | `392.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 393 | 349 | `393.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 394 | 350 | `394.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 395 | 351 | `395.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Man's Glassy Essence". |
+| 396 | 352 | `396.txt` | image-reviewed | Start of "Evolutionary Love"; headnote checked against rendered image. |
+| 397 | 353 | `397.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 398 | 354 | `398.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 399 | 355 | `399.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 400 | 356 | `400.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 401 | 357 | `401.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 402 | 358 | `402.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 403 | 359 | `403.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 404 | 360 | `404.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 405 | 361 | `405.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 406 | 362 | `406.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 407 | 363 | `407.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 408 | 364 | `408.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 409 | 365 | `409.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 410 | 366 | `410.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 411 | 367 | `411.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 412 | 368 | `412.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 413 | 369 | `413.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 414 | 370 | `414.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 415 | 371 | `415.txt` | image-reviewed | Running header omitted; body reconciled from cleaned text layer against rendered-page OCR for "Evolutionary Love". |
+| 416 | 372 blank | `416.txt` | non-text/blank | Blank page between "Evolutionary Love" and notes; rendered image checked directly. |
+
 ## Batch Notes
 
 - Completed batch: PDF pages 045-054 / printed pages 1-10, `010-on-a-new-list-of-categories-1867`.
@@ -182,3 +415,39 @@ Status vocabulary:
 - Completed batch: PDF pages 168-185 / printed pages 124-141, `017-how-to-make-our-ideas-clear-1878`.
 - Assembled image-grounded cleaned section: `source/image-grounded-cleaned/017-how-to-make-our-ideas-clear-1878.txt`.
 - Existing `source/raw` and `source/cleaned` files are draft witnesses only for this workflow.
+- Completed batch: PDF pages 186-198 / printed pages 142-154, `018-the-doctrine-of-chances-1878`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/018-the-doctrine-of-chances-1878.txt`.
+- Completed batch: PDF pages 199-213 / printed pages 155-169, `019-the-probability-of-induction-1878`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/019-the-probability-of-induction-1878.txt`.
+- Completed batch: PDF pages 214-229 / printed pages 170-185, `020-the-order-of-nature-1878`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/020-the-order-of-nature-1878.txt`.
+- Completed batch: PDF pages 230-243 / printed pages 186-199, `021-deduction-induction-and-hypothesis-1878`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/021-deduction-induction-and-hypothesis-1878.txt`.
+- Image-review note for PDF pages 186-243: this pass reconciled the existing cleaned text layer with rendered-page OCR from `/tmp/peirce_ep1_pages_300/`, with direct image checks on opening pages and the damaged rule passage on PDF page 237. It is suitable for bounded reading and encounter work, but the PDF remains the authority for quotation, formulas, tables, and critical apparatus.
+- Completed batch: PDF pages 244-253 / printed pages 200-209, `022-from-on-the-algebra-of-logic-1880`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/022-from-on-the-algebra-of-logic-1880.txt`.
+- Completed batch: PDF pages 254-258 / printed pages 210-214, `023-introductory-lecture-on-the-study-of-logic-1882`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/023-introductory-lecture-on-the-study-of-logic-1882.txt`.
+- Completed batch: PDF pages 259-268 / printed pages 215-224, `024-design-and-chance-1883-84`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/024-design-and-chance-1883-84.txt`.
+- Completed batch: PDF pages 269-272 / printed pages 225-228, `025-from-on-the-algebra-of-logic-a-contribution-to-the-philosophy-of-notation-1885`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/025-from-on-the-algebra-of-logic-a-contribution-to-the-philosophy-of-notation-1885.txt`.
+- Completed batch: PDF pages 273-285 / printed pages 229-241, `026-an-american-plato-review-of-royces-religious-aspect-of-philosophy-1885`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/026-an-american-plato-review-of-royces-religious-aspect-of-philosophy-1885.txt`.
+- Completed batch: PDF pages 286-288 / printed pages 242-244, `027-one-two-three-kantian-categories-1886`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/027-one-two-three-kantian-categories-1886.txt`.
+- Completed batch: PDF pages 289-323 / printed pages 245-279, `028-a-guess-at-the-riddle-1887-88`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/028-a-guess-at-the-riddle-1887-88.txt`.
+- Completed batch: PDF pages 324-328 / printed pages 280-284, `029-trichotomie-1888`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/029-trichotomie-1888.txt`.
+- Completed batch: PDF pages 329-341 / printed pages 285-297, `030-the-architecture-of-theories-1891`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/030-the-architecture-of-theories-1891.txt`.
+- Completed batch: PDF pages 342-355 / printed pages 298-311, `031-the-doctrine-of-necessity-examined-1892`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/031-the-doctrine-of-necessity-examined-1892.txt`.
+- Completed batch: PDF pages 356-377 / printed pages 312-333, `032-the-law-of-mind-1892`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/032-the-law-of-mind-1892.txt`.
+- Completed batch: PDF pages 378-395 / printed pages 334-351, `033-mans-glassy-essence-1892`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/033-mans-glassy-essence-1892.txt`.
+- Completed batch: PDF pages 396-416 / printed pages 352-371 plus blank page 416, `034-evolutionary-love-1893`.
+- Assembled image-grounded cleaned section: `source/image-grounded-cleaned/034-evolutionary-love-1893.txt`.
+- Image-review note for PDF pages 244-416: this pass reconciled the existing cleaned text layer with rendered-page OCR from `/tmp/peirce_ep1_pages_300/`, removed visible JSTOR/footer acquisition text from the readable witnesses, and directly checked notation/formula/diagram pressure points on PDF pages 247, 248, 252, 269, 324, 381, and blank page 416. It is suitable for bounded reading and encounter work, but the PDF remains the authority for exact quotation, mathematical notation, tables, Greek, and critical apparatus.

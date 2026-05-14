@@ -11,9 +11,9 @@ bounded source contact and lightweight agent work.
 This exists so the volume can be touched directly in essay-scale pieces without
 loading the full PDF or relying on the larger Peirce intake dump.
 
-This is **not** a live Peirce campaign, **not** a critical edition, and **not**
-a license to import Peircean vocabulary into the project as if it had already
-been tested.
+This is **not** a promoted Peirce project, **not** a critical edition, and
+**not** a license to import Peircean vocabulary into the project as if it had
+already been tested.
 
 ## Status
 
@@ -23,6 +23,9 @@ been tested.
 - The higher-quality correction path is image-grounded: render pages to `/tmp`,
   read the images directly, and save corrected page transcripts under
   `source/page-transcripts/`.
+- The image-grounded section run now reaches `034 Evolutionary Love`; all
+  campaign essays `010-034` have page transcripts and assembled
+  image-grounded cleaned section files.
 - The full intake pile under `sources/modern/incoming/books/peirce/` remains the
   raw source shelf.
 - The curated extract shelf under `sources/modern/incoming/peirce/` remains the
@@ -30,7 +33,10 @@ been tested.
 - This directory is the tracked whole-volume scaffold for Volume 1 only.
 - `encounters/` and `journal.md` hold bounded source-local notes when a
   specific Peirce surface becomes useful. They do not promote this scaffold
-  into a live Peirce campaign.
+  into a `texts/` project.
+- `synthesis/campaign-audit.md` records the source-local completion audit and
+  image-grounding audit through `034`; the `texts/` promotion decision remains
+  negative.
 
 ## Source
 
@@ -94,16 +100,22 @@ source/
   image-grounded-cleaned/
     README.md
     010-on-a-new-list-of-categories-1867.txt
+    ...
+    034-evolutionary-love-1893.txt
   page-transcripts/
     README.md
     transcription-manifest.md
     045.txt
     046.txt
     ...
+    416.txt
   sections.yaml
 encounters/
   README.md
   01-illustrations-018-021-probability-induction-hypothesis.md
+  ...
+synthesis/
+  campaign-audit.md
 journal.md
 ```
 
