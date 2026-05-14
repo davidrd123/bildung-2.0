@@ -1,0 +1,329 @@
+# High-level outline for volume 2.
+# Page numbers are printed-page numbers from the book's own table of contents.
+# End pages are provisional until the opening and closing pages are verified
+# against the PDF and JP2 scans during active work.
+
+metadata:
+  work: "Das Erkenntnisproblem in der Philosophie und Wissenschaft der neueren Zeit"
+  volume: 2
+  author: "Ernst Cassirer"
+  edition: "third edition"
+  year: 1922
+  source_pdf: "source/pdf/daserkenntnispro02cassuoft.pdf"
+  source_page_images: "source/page-images/jp2/"
+  confidence: "partial-manual"
+  note: "Outline transcribed from the PDF text layer and lightly corrected from obvious OCR errors."
+
+front_matter:
+  - slug: "title-pages"
+    kind: "title"
+    title_de: "Title pages"
+    start_pdf_page: 1
+    end_pdf_page: 4
+    note: "PDF pages 1-4 include blank/title/library pages before the contents."
+  - slug: "inhalts-verzeichnis"
+    kind: "contents"
+    title_de: "Inhalts-Verzeichnis"
+    title_en: "Contents"
+    start_pdf_page: 5
+    end_pdf_page: 18
+    note: "OCR is noisy in the contents, especially in proper names; the main page numbers below are retained from the printed table."
+
+books:
+  - slug: "anfaenge-des-empirismus"
+    book_number_printed: "Viertes Buch"
+    title_de: "Die Anfänge des Empirismus"
+    title_en: "The Beginnings of Empiricism"
+    divider_pdf_page: 21
+    start_page_printed: 3
+    end_page_printed: 72
+    chapters:
+      - slug: "bacon"
+        title_de: "Bacon"
+        start_page_printed: 3
+        sections:
+          - slug: "kritik-des-verstandes"
+            title_de: "Die Kritik des Verstandes"
+            start_page_printed: 3
+            topics:
+              - "Natur und Begriff"
+              - "Die Verstandeskritik"
+              - "Die methodische Bedeutung des Experiments"
+              - "Erfahrung und Denken"
+          - slug: "formenlehre"
+            title_de: "Die Formenlehre"
+            start_page_printed: 11
+            topics:
+              - "Formbegriff und Gesetzesbegriff"
+              - "Der Charakter der Baconischen Induktion"
+              - "Ideen und Idole"
+              - "Die Ermittlung der Grundbegriffe"
+              - "Die philosophia prima"
+              - "Physik und Astronomie"
+              - "Der Begriff der Bewegung"
+      - slug: "gassendi"
+        title_de: "Gassendi"
+        start_page_printed: 29
+        sections:
+          - slug: "theorie-der-wahrnehmung"
+            title_de: "Die Theorie der Wahrnehmung"
+            start_page_printed: 29
+            topics:
+              - "Sinnlichkeit und Denken"
+              - "Die Erklärung der Sinnestäuschungen"
+          - slug: "raum-zeit-atomistik"
+            title_de: "Raum, Zeit, Atomistik"
+            start_page_printed: 36
+            topics:
+              - "Verhältnis des Raumbegriffs zum Körperbegriff"
+              - "Die Atomistik und das Problem der Bewegung"
+              - "Das Problem des Selbstbewußtseins"
+              - "Verhältnis zu Descartes und zur Scholastik"
+      - slug: "hobbes"
+        title_de: "Hobbes"
+        start_page_printed: 46
+        sections:
+          - slug: "definition-des-wissens"
+            title_de: "Die Definition des Wissens"
+            start_page_printed: 46
+            topics:
+              - "Die Methodenlehre"
+              - "Das Erkenntnisideal der Deduktion"
+              - "Denken und Rechnen"
+              - "Arithmetik und Analysis"
+          - slug: "begriff-und-wort"
+            title_de: "Begriff und Wort"
+            start_page_printed: 55
+            topics:
+              - "Das Problem der Definition"
+              - "Die Möglichkeit allgemeingültiger Erkenntnis"
+          - slug: "raum-zeit-materie-wahrnehmung"
+            title_de: "Raum, Zeit, Materie, Wahrnehmung"
+            start_page_printed: 61
+
+  - slug: "fortbildung-und-vollendung-des-rationalismus"
+    book_number_printed: "Fünftes Buch"
+    title_de: "Fortbildung und Vollendung des Rationalismus"
+    title_en: "Development and Completion of Rationalism"
+    start_page_printed: 73
+    end_page_printed: 226
+    chapters:
+      - slug: "spinoza"
+        title_de: "Spinoza"
+        start_page_printed: 73
+        sections:
+          - slug: "erkenntnislehre-des-kurzen-traktats"
+            title_de: "Die Erkenntnislehre des Kurzen Traktats"
+            start_page_printed: 73
+          - slug: "tractatus-de-intellectus-emendatione"
+            title_de: "Der Tractatus de intellectus emendatione"
+            start_page_printed: 84
+          - slug: "begriff-der-substanz-metaphysik"
+            title_de: "Der Begriff der Substanz. Die Metaphysik"
+            start_page_printed: 102
+      - slug: "leibniz"
+        title_de: "Leibniz"
+        start_page_printed: 126
+        sections:
+          - slug: "vernunftwahrheiten-und-tatsachenwahrheiten"
+            title_de: "Vernunftwahrheiten und Tatsachenwahrheiten"
+            start_page_printed: 131
+          - slug: "alphabet-der-gedanken"
+            title_de: "Das Alphabet der Gedanken"
+            start_page_printed: 141
+          - slug: "symbolbegriff"
+            title_de: "Der Symbolbegriff"
+            start_page_printed: 166
+          - slug: "absoluter-verstand"
+            title_de: "Das Postulat des absoluten Verstandes"
+            start_page_printed: 181
+      - slug: "tschirnhaus"
+        title_de: "Tschirnhaus"
+        start_page_printed: 191
+      - slug: "rationalismus-in-der-englischen-philosophie"
+        title_de: "Der Rationalismus in der englischen Philosophie"
+        start_page_printed: 202
+        sections:
+          - slug: "herbert-von-cherbury-und-kenelm-digby"
+            title_de: "Herbert von Cherbury und Kenelm Digby"
+            start_page_printed: 203
+          - slug: "schule-von-cambridge-cudworth-norris"
+            title_de: "Die Schule von Cambridge: Cudworth und John Norris"
+            start_page_printed: 215
+
+  - slug: "erkenntnisproblem-im-system-des-empirismus"
+    book_number_printed: "Sechstes Buch"
+    title_de: "Das Erkenntnisproblem im System des Empirismus"
+    title_en: "The Problem of Knowledge in the System of Empiricism"
+    start_page_printed: 227
+    end_page_printed: 395
+    chapters:
+      - slug: "locke"
+        title_de: "Locke"
+        start_page_printed: 227
+        sections:
+          - slug: "sensation-und-reflexion"
+            title_de: "Sensation und Reflexion"
+            start_page_printed: 232
+          - slug: "begriff-der-wahrheit"
+            title_de: "Der Begriff der Wahrheit"
+            start_page_printed: 253
+          - slug: "begriff-des-seins"
+            title_de: "Der Begriff des Seins"
+            start_page_printed: 263
+      - slug: "berkeley"
+        title_de: "Berkeley"
+        start_page_printed: 275
+        sections:
+          - slug: "theorie-der-wahrnehmung"
+            title_de: "Die Theorie der Wahrnehmung"
+            start_page_printed: 275
+          - slug: "begruendung-des-idealismus"
+            title_de: "Die Begründung des Idealismus"
+            start_page_printed: 284
+          - slug: "kritik-der-berkeleyschen-begriffstheorie"
+            title_de: "Kritik der Berkeleyschen Begriffstheorie"
+            start_page_printed: 297
+          - slug: "begriff-der-substanz"
+            title_de: "Der Begriff der Substanz"
+            start_page_printed: 310
+          - slug: "umgestaltung-der-berkeleyschen-erkenntnislehre"
+            title_de: "Die Umgestaltung der Berkeleyschen Erkenntnislehre"
+            start_page_printed: 315
+          - slug: "arthur-collier"
+            title_de: "Arthur Collier"
+            start_page_printed: 327
+      - slug: "hume"
+        title_de: "Hume"
+        start_page_printed: 335
+        sections:
+          - slug: "kritik-der-mathematischen-erkenntnis"
+            title_de: "Die Kritik der mathematischen Erkenntnis"
+            start_page_printed: 340
+          - slug: "kritik-des-kausalbegriffs"
+            title_de: "Die Kritik des Kausalbegriffs"
+            start_page_printed: 353
+          - slug: "begriff-der-existenz"
+            title_de: "Der Begriff der Existenz"
+            start_page_printed: 372
+          - slug: "schottische-schule-thomas-reid"
+            title_de: "Die schottische Schule: Thomas Reid"
+            start_page_printed: 387
+
+  - slug: "von-newton-zu-kant"
+    book_number_printed: "Siebentes Buch"
+    title_de: "Von Newton zu Kant. Wissenschaft und Philosophie im achtzehnten Jahrhundert"
+    title_en: "From Newton to Kant: Science and Philosophy in the Eighteenth Century"
+    start_page_printed: 396
+    end_page_printed: 584
+    chapters:
+      - slug: "problem-der-methode"
+        title_de: "Das Problem der Methode"
+        start_page_printed: 396
+        sections:
+          - slug: "aufgabe-der-induktion"
+            title_de: "Die Aufgabe der Induktion"
+            start_page_printed: 396
+            topics:
+              - "Joseph Glanvill"
+              - "Newtons Grundlegung der Induktion"
+              - "d'Alembert"
+          - slug: "vernunft-und-sprache"
+            title_de: "Vernunft und Sprache"
+            start_page_printed: 415
+          - slug: "begriff-der-kraft"
+            title_de: "Der Begriff der Kraft"
+            start_page_printed: 421
+          - slug: "problem-der-materie-die-chemie"
+            title_de: "Das Problem der Materie. Die Chemie"
+            start_page_printed: 428
+      - slug: "raum-und-zeit"
+        title_de: "Raum und Zeit"
+        start_page_printed: 442
+        sections:
+          - slug: "raum-und-zeit-in-metaphysik-und-theologie"
+            title_de: "Das Raum- und Zeitproblem in der Metaphysik und spekulativen Theologie"
+            start_page_printed: 442
+          - slug: "raum-und-zeit-in-der-naturwissenschaft"
+            title_de: "Das Raum- und Zeitproblem in der Naturwissenschaft"
+            start_page_printed: 463
+          - slug: "idealitaet-des-raumes-und-der-zeit"
+            title_de: "Die Idealität des Raumes und der Zeit"
+            start_page_printed: 485
+          - slug: "boscovich"
+            title_de: "Boscovich"
+            start_page_printed: 506
+      - slug: "ontologie-widerspruch-zureichender-grund"
+        title_de: "Die Ontologie. Der Satz des Widerspruchs und der Satz vom zureichenden Grunde"
+        start_page_printed: 521
+        sections:
+          - slug: "wahrheitsbegriff-bei-leibniz-und-wolff"
+            title_de: "Der Wahrheitsbegriff bei Leibniz und Wolff"
+            start_page_printed: 522
+          - slug: "satz-des-widerspruchs-und-zureichender-grund"
+            title_de: "Der Satz des Widerspruchs und der Satz vom zureichenden Grunde"
+            start_page_printed: 546
+      - slug: "problem-des-bewusstseins"
+        title_de: "Das Problem des Bewußtseins"
+        start_page_printed: 558
+        sections:
+          - slug: "fortbildung-und-kritik-von-lockes-psychologie"
+            title_de: "Fortbildung und Kritik von Lockes Psychologie"
+            start_page_printed: 558
+          - slug: "psychologisches-und-logisches-wahrheitskriterium"
+            title_de: "Das psychologische und das logische Wahrheitskriterium"
+            start_page_printed: 572
+
+  - slug: "kritische-philosophie"
+    book_number_printed: "Achtes Buch"
+    title_de: "Die kritische Philosophie"
+    title_en: "The Critical Philosophy"
+    start_page_printed: 585
+    end_page_printed: 762
+    chapters:
+      - slug: "entstehung-der-kritischen-philosophie"
+        title_de: "Die Entstehung der kritischen Philosophie"
+        start_page_printed: 585
+        sections:
+          - slug: "schriften-des-jahres-1763"
+            title_de: "Die Schriften des Jahres 1763"
+            start_page_printed: 586
+          - slug: "traeume-eines-geistersehers"
+            title_de: "Die Träume eines Geistersehers"
+            start_page_printed: 601
+          - slug: "von-den-traeumen-bis-zur-dissertation"
+            title_de: "Von den Träumen eines Geistersehers bis zur Dissertation"
+            start_page_printed: 611
+          - slug: "vorbereitung-und-abschluss-der-dissertation"
+            title_de: "Vorbereitung und Abschluß der Dissertation"
+            start_page_printed: 616
+          - slug: "fortschritt-zur-vernunftkritik"
+            title_de: "Der Fortschritt zur Vernunftkritik"
+            start_page_printed: 638
+      - slug: "vernunftkritik"
+        title_de: "Die Vernunftkritik"
+        start_page_printed: 648
+        sections:
+          - slug: "subjekt-objekt-gegensatz"
+            title_de: "Der metaphysische Gegensatz von Subjekt und Objekt"
+            start_page_printed: 648
+          - slug: "problem-der-objektivitaet"
+            title_de: "Das Problem der Objektivität. Analytisch und synthetisch"
+            start_page_printed: 664
+          - slug: "raum-und-zeit"
+            title_de: "Raum und Zeit"
+            start_page_printed: 683
+          - slug: "begriff-des-selbstbewusstseins"
+            title_de: "Der Begriff des Selbstbewußtseins"
+            start_page_printed: 706
+          - slug: "ding-an-sich"
+            title_de: "Das Ding an sich"
+            start_page_printed: 733
+
+back_matter:
+  - slug: "namen-und-sachregister"
+    kind: "index"
+    title_de: "Namen und Sachregister"
+    start_page_printed: 763
+    start_pdf_page_calculated: 783
+    note: "Index start from the table of contents; full endpoint has not been mapped yet."

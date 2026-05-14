@@ -1,0 +1,131 @@
+# Session ledger for Erkenntnisproblem Vol. 2.
+# Experimental handoff file for session re-entry.
+#
+# Keep scaffolding in English for fast cross-collaborator re-entry.
+# Keep German inline where the term itself carries conceptual load.
+# One record per session. Blocked sessions can still be recorded if they
+# sharpen the re-entry edge.
+
+standing_watchpoints:
+  - name: vol1_carry_forward_watchpoint
+    status: active
+    scope: "Local to `erkenntnisproblem-vol2`."
+    trigger:
+      - "A Vol. 2 tranche repeats a Vol. 1 pressure around method hardening into substance, power, guarantee, or thing."
+      - "A Vol. 2 tranche directly reuses a Vol. 1 figure or judgment, especially Bacon, Hobbes, Spinoza, Leibniz, Newton, or Kant."
+      - "A Vol. 2 tranche appears to license cross-volume synthesis before the local Vol. 2 arc is clear."
+    action:
+      - "Finish the tranche first."
+      - "Record the local Vol. 2 pressure in the journal or close-reading ledger."
+      - "Only then compare against Vol. 1's earned distillation."
+      - "Do not promote the comparison if it is only author or topic matching."
+
+sessions:
+  - date: 2026-05-13
+    collaborator: codex-gpt-5
+    session_outcome: preflight-scaffold
+    parts_touched: []
+
+    state_on_entry:
+      - "`texts/erkenntnisproblem-vol2/` existed with local JP2 scans only."
+      - "Vol. 1 was complete, with audit notes warning against opening Vol. 2 as an escape from unresolved Vol. 1 repair."
+      - "Current user intent was to pull in the PDF and run a preflight before beginning Vol. 2 translation."
+
+    what_shifted:
+      - "Local PDF copied into `source/pdf/` and ignored."
+      - "Vol. 2 scaffold opened with role-separated source, reading, journal, and review files."
+      - "Initial page alignment checked: PDF page 21 is the Book IV divider; PDF page 23 is printed page 3 and the Bacon opening; scans `_0021` through `_0026` confirm the opening sequence except for the blank `_0022`."
+      - "First-pass outline and page-map created from the PDF text layer and table of contents."
+      - "Vol. 1's 2026-05-13 lessons note was evaluated against the underlying Vol. 1 audit/context files rather than imported wholesale."
+      - "Vol. 2 glossary was reset to an empty truth surface; candidate terms are held as preflight watchpoints."
+      - "Raw and normalized calibration extracts were generated for PDF pages 21-26."
+      - "Revised Vol. 1 lessons and later user reflection were integrated as a light part-file discipline: post-translation opening finding paragraphs plus re-entry hooks for unresolved pressure."
+      - "Zeitmauer journal practice was evaluated as a method source: Vol. 2 should use the journal as a routing surface with structural centers, explicit routing decisions, negative apparatus decisions, and optional boundary predictions."
+
+    unresolved:
+      - "Need first real Bacon part to test the template and decide whether OCR correction from JP2 is needed beyond the PDF text layer."
+      - "Normalized text is usable but visibly noisy; active-tranche correction against PDF/JP2 remains required."
+      - "Need to test whether re-entry hooks stay helpful without becoming checklist residue."
+      - "Need to test whether structural-center and routing-decision journal habits stay useful without becoming a rigid template."
+      - "Need to confirm whether the name and subject index should remain outside translation scope or become a reference-only artifact."
+      - "Need to decide whether scripts should become shared across Vol. 1 and Vol. 2 after Vol. 2 proves its needs."
+
+    re_entry_instructions:
+      - "Read `reading/preflight-audit.md`, `source/page-map.yaml`, and the normalized calibration extract first."
+      - "Start translation from PDF page 23 / printed page 3 unless the next session is still setup-only."
+      - "Keep Vol. 1's earned carry-forward visible, but do not impose it as a schema on Bacon."
+      - "Use the light journal prompt from the README: what clarified, structural center, routing decision, re-entry hooks, decision for now; add `What to expect next` only at real boundaries."
+      - "Do not create `threads/`, handles, or second-pass memos for Vol. 2 until repeated local evidence earns them."
+
+    formation_notes: []
+
+  - date: 2026-05-13
+    collaborator: codex-gpt-5
+    session_outcome: first-translation-batch
+    parts_touched:
+      - "parts/001-bacon-opening-and-the-critique-of-understanding.md"
+
+    state_on_entry:
+      - "Vol. 2 scaffold and preflight were complete."
+      - "The first calibration extract covered PDF pages 21-26, with Bacon's opening on PDF pages 23-26."
+      - "User intent was to begin forward translation."
+
+    what_shifted:
+      - "Created the first Vol. 2 part file from printed pages 3-6."
+      - "Corrected the German against JP2 scans for the active tranche instead of trusting the PDF text layer."
+      - "Recorded the opening Bacon contrast in the journal and close-reading ledger."
+      - "Patched the first-pass review flags: `Geist/geistig` is now an explicit watchpoint, substantive Latin footnote quotations are translated, and the correctness-before-speed gate is recorded."
+      - "Verified Part 001's Latin footnote translations; corrected `theologus mente captus` from `theologian captive in mind` to `theologian out of his mind`."
+      - "Recorded that external/Opus review helped catch structural omissions but did not catch the Latin idiom; source-level verification remains separate from reviewer agreement."
+      - "Kept `source/glossary.yaml` empty; all new terms remain watchpoints."
+
+    unresolved:
+      - "The part ends mid-sentence at `Was er positiv leistet, ist`; the next tranche must complete Bacon's positive contribution."
+      - "Need to test whether `Experiment` becomes a glossary term after the Leonardo/Kepler versus Bacon contrast recurs."
+      - "Need to watch `Verstandeskritik` so it does not sound prematurely Kantian."
+      - "Need to watch `Geist/geistig`; first-pass renderings split between `mind` and `intellectual`."
+      - "The translated `Redargutio philosophiarum` tower/descent image may warrant a bounded Bacon source note if it recurs."
+      - "Open-ended forward progress should not be authorized until several tranches pass the correctness gate without substantive review corrections."
+      - "If sub-agents are used later, they should be treated as pressure readers or parallel checkers, not as a substitute for direct source verification."
+
+    re_entry_instructions:
+      - "Continue from PDF page 27 / printed page 7."
+      - "Read part 001, the 2026-05-13 journal entry, and the close-reading ledger entry before translating."
+      - "Before continuing, verify that the next part translates substantive source-language footnote quotations rather than silently compressing them."
+      - "Complete the open sentence before making any broader claim about Bacon's positive achievement."
+      - "Part 001 has passed the focused Latin-footnote verification gate for draft status."
+
+    formation_notes: []
+
+  - date: 2026-05-13
+    collaborator: codex-gpt-5
+    session_outcome: second-translation-batch
+    parts_touched:
+      - "parts/002-bacon-idols-experience-and-method.md"
+
+    state_on_entry:
+      - "Part 001 had passed the focused Latin-footnote verification gate."
+      - "Raw and normalized extracts already existed for PDF pages 27-30."
+      - "The active instruction was to continue under the correctness gate, not open-ended forward translation."
+
+    what_shifted:
+      - "Created Part 002 from printed pages 7-10, completing the first movement of `Die Kritik des Verstandes` up to the transition into `Die Formenlehre`."
+      - "Corrected the German against JP2/Tesseract checks where the PDF layer scrambled page 8."
+      - "Translated all substantive Latin footnotes in the draft-footnote layer."
+      - "Added a high-trust page-map range for the conclusion of `Die Kritik des Verstandes`."
+      - "Recorded the double sense of `Erfahrung` and the method/physics tension in the journal and close-reading ledger."
+      - "Ran the check-over before moving on: restored scan-confirmed `Verstande` where OCR suggested `Verstände`, and tightened footnote 6's `certa ratione` as `sure rational method`."
+
+    unresolved:
+      - "Part 002 ends mid-sentence at `Diese Folgerung aber steht`; Part 003 must complete the contrast with Bacon's physics/metaphysics."
+      - "`Erfahrung` and `Experiment` have repeated pressure and may warrant glossary entries after the forms-doctrine transition."
+      - "The mirror imagery has now recurred twice; create a bounded Bacon source note if it recurs again."
+      - "Open-ended forward progress still should not be authorized until at least one more tranche passes the correctness gate."
+
+    re_entry_instructions:
+      - "Continue from PDF page 31 / printed page 11, beginning by completing `Diese Folgerung aber steht...`."
+      - "Read parts 001-002, the latest journal entry, and the close-reading ledger entries before translating."
+      - "Watch whether Bacon's `Formenlehre` pulls method back toward metaphysical `Wesenheiten`."
+      - "Maintain the footnote rule: translate substantive source-language quotations."
+
+    formation_notes: []

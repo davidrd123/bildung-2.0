@@ -1,0 +1,147 @@
+# Trusted PDF-to-printed-page and PDF-to-JP2 anchors for volume 2.
+# Keep this conservative. The PDF has 856 pages, while the JP2 folder has 860
+# files and skips `_0857.jp2`, so scan alignment must be verified by anchors.
+
+source_pdf: "source/pdf/daserkenntnispro02cassuoft.pdf"
+source_page_images: "source/page-images/jp2/"
+
+counts:
+  pdf_pages: 856
+  jp2_files: 860
+  jp2_missing_sequence_numbers:
+    - "0857"
+  note: "The local scan set and PDF do not have the same simple count. Verified anchors show direct filename/PDF-page alignment at the Book IV opening, but later pages still need spot checks."
+
+calculated_offsets:
+  - slug: "main-arabic-pagination"
+    rule: "pdf_page = printed_page + 20"
+    applies_to: "main text and index, pending later spot checks"
+    verified_printed_pages: [3, 4, 5, 6]
+    verified_pdf_pages: [23, 24, 25, 26]
+    trust: "medium"
+    note: "The body opening verifies the offset. Treat chapter starts calculated from this rule as work aids until individually checked."
+
+ranges:
+  - slug: "inhalts-verzeichnis"
+    label: "Contents"
+    pdf_pages: [5, 18]
+    printed_pages: ["V", "XV"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0005.jp2"
+      - "daserkenntnispro02cassuoft_0018.jp2"
+    trust: "medium"
+    note: "PDF text layer is noisy but gives the full contents. Scan endpoints not yet visually checked."
+
+  - slug: "book-iv-divider"
+    label: "Book IV divider: Die Anfänge des Empirismus"
+    pdf_pages: [21, 21]
+    printed_pages: ["divider"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0021.jp2"
+    trust: "high"
+    note: "Tesseract on the JP2 confirms `Viertes Buch / Die Anfänge des Empirismus`."
+
+  - slug: "book-iv-blank"
+    label: "Blank verso after Book IV divider"
+    pdf_pages: [22, 22]
+    printed_pages: ["blank"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0022.jp2"
+    trust: "high"
+    note: "Tesseract returned no text, matching the expected blank page."
+
+  - slug: "bacon-opening"
+    label: "Opening of `Erstes Kapitel. Bacon.`"
+    pdf_pages: [23, 26]
+    printed_pages: ["3", "6"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0023.jp2"
+      - "daserkenntnispro02cassuoft_0024.jp2"
+      - "daserkenntnispro02cassuoft_0025.jp2"
+      - "daserkenntnispro02cassuoft_0026.jp2"
+    trust: "high"
+    note: "PDF page 23 and scan `_0023` both open Bacon on printed page 3; scans `_0024` through `_0026` confirm printed pages 4 through 6."
+
+  - slug: "bacon-verstandeskritik-conclusion"
+    label: "Conclusion of `I. Die Kritik des Verstandes` before `II. Die Formenlehre`"
+    pdf_pages: [27, 30]
+    printed_pages: ["7", "10"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0027.jp2"
+      - "daserkenntnispro02cassuoft_0028.jp2"
+      - "daserkenntnispro02cassuoft_0029.jp2"
+      - "daserkenntnispro02cassuoft_0030.jp2"
+    trust: "high"
+    note: "Scans confirm printed pages 7 through 10 and the continuation up to the break before `Die Formenlehre` on printed page 11."
+
+  - slug: "bacon-formenlehre-opening"
+    label: "Opening of `II. Die Formenlehre`"
+    pdf_pages: [31, 31]
+    printed_pages: ["11"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0031.jp2"
+    trust: "medium"
+    note: "Calculated from the verified main-body offset; verify before translating this tranche."
+
+  - slug: "gassendi-opening"
+    label: "Opening of `Zweites Kapitel. Gassendi`"
+    pdf_pages: [49, 49]
+    printed_pages: ["29"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0049.jp2"
+    trust: "medium"
+    note: "Calculated from the verified main-body offset. The contents OCR misreads the name as `Qassendi`."
+
+  - slug: "hobbes-opening"
+    label: "Opening of `Drittes Kapitel. Hobbes`"
+    pdf_pages: [66, 66]
+    printed_pages: ["46"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0066.jp2"
+    trust: "medium"
+    note: "Calculated from the verified main-body offset; verify before active work."
+
+  - slug: "book-v-start-spinoza"
+    label: "Book V / Spinoza opening"
+    pdf_pages: [93, 93]
+    printed_pages: ["73"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0093.jp2"
+    trust: "medium"
+    note: "Calculated from the verified main-body offset."
+
+  - slug: "book-vi-start-locke"
+    label: "Book VI / Locke opening"
+    pdf_pages: [247, 247]
+    printed_pages: ["227"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0247.jp2"
+    trust: "medium"
+    note: "Calculated from the verified main-body offset."
+
+  - slug: "book-vii-start-method"
+    label: "Book VII / `Das Problem der Methode` opening"
+    pdf_pages: [416, 416]
+    printed_pages: ["396"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0416.jp2"
+    trust: "medium"
+    note: "Calculated from the verified main-body offset."
+
+  - slug: "book-viii-start-critical-philosophy"
+    label: "Book VIII / critical philosophy opening"
+    pdf_pages: [605, 605]
+    printed_pages: ["585"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0605.jp2"
+    trust: "medium"
+    note: "Calculated from the verified main-body offset."
+
+  - slug: "index-start"
+    label: "Namen und Sachregister"
+    pdf_pages: [783, 783]
+    printed_pages: ["763"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0783.jp2"
+    trust: "medium"
+    note: "Calculated from the verified main-body offset."
