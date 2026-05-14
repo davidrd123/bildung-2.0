@@ -13,7 +13,7 @@
   alternatives:
     - "empirical experience"
   status: open
-  notes: "Parts 002-003 make this structurally double. Bacon's positive gain is methodically ordered experience rather than passive groping, but the forms doctrine then narrows experience toward a finite, exhaustible stock of observations."
+  notes: "Parts 002-003 make this structurally double. Bacon's positive gain is methodically ordered experience rather than passive groping, but the forms doctrine then narrows experience toward a finite, exhaustible stock of observations. Part 007 shifts the chapter frame: modern empiricism attaches to the `Erfahrungsbegriff der neueren Physik`, so `Erfahrung` now needs testing beyond the Bacon-local method problem. Part 011 turns experience from solution into ground-riddle: Gassendi wants experience to explain knowledge, but his model has to explain the transition from an absolute external object into an independent `Ich`."
 
 - term: "Experiment"
   handle: "term:experiment"
@@ -50,7 +50,7 @@
     - "idols and ideas"
     - "idola / ideas"
   status: open
-  notes: "Part 004 makes the contrast structural. Bacon wants `Idole` to be arbitrary products of the human mind and `Ideen` to be divine seals in things, but Cassirer argues that Bacon's own form-concepts become idols of the mind projected into the object."
+  notes: "Part 004 makes the contrast structural. Bacon wants `Idole` to be arbitrary products of the human mind and `Ideen` to be divine seals in things, but Cassirer argues that Bacon's own form-concepts become idols of the mind projected into the object. Do not confuse this Bacon entry with Gassendi's Epicurean `Idola seu Simulacra` in Part 007, where `idola` are material image-effluxes in a theory of perception."
 
 - term: "Bewegung"
   handle: "term:bewegung"
@@ -60,4 +60,45 @@
     - "movement"
     - "change of place"
   status: open
-  notes: "Part 006 makes motion the closing pressure of the Bacon chapter. Bacon wants physics to grasp things in their becoming rather than their static being, but he still treats motion as an inward qualitative appetite of bodies rather than as mathematically determinable `Ortsveränderung`. Keep open until Gassendi and Hobbes show whether this becomes a cross-chapter empiricism problem."
+  notes: "Part 006 makes motion the closing pressure of the Bacon chapter. Bacon wants physics to grasp things in their becoming rather than their static being, but he still treats motion as an inward qualitative appetite of bodies rather than as mathematically determinable `Ortsveränderung`. Part 007 confirms that `Bewegung` crosses into Gassendi, but as local motion and motion-state within perceptual mediation rather than as Bacon's inward appetite of bodies. Part 010 makes Gassendi's motion atomistic: continuity and different speeds are explained through indivisible motion moments and inserted pauses of rest. Keep open until Hobbes shows whether this becomes a cross-chapter empiricism problem."
+
+- term: "Sinn / Sinneswahrnehmung"
+  handle: "term:sinn-sinneswahrnehmung"
+  kind: concept-cluster
+  preferred: "sense / sense-perception"
+  alternatives:
+    - "sensory perception"
+    - "sensation"
+  status: open
+  notes: "Parts 007-008 make this Gassendi's foundation and criterion: sense is the basis of knowledge and sense-perception is unerring because it registers a real effect. Part 008 exposes the limit of this criterion: mathematical atomism requires concepts of scientific reason for which perception is the object to be satisfied, not the origin or principle of genuine knowledge. Part 009 sharpens the limit: pure space and pure time do not act on sensory organs, so the sensory criterion cannot by itself secure their objective validity. Part 011 adds that completed sensationalism would indirectly make consciousness the judge of nature, a move Gassendi does not reach."
+
+- term: "Raum / Zeit"
+  handle: "term:raum-zeit"
+  kind: concept-pair
+  preferred: "space / time"
+  alternatives:
+    - "pure space / pure time"
+    - "place / time"
+  status: open
+  notes: "Part 009 opens this as a decisive Gassendi pressure. Pure space and pure time are not bodies, properties, substances, or accidents, but Gassendi still treats them as true entities because they are unconditionally necessary for thinking motion and building mathematical physics. Their objective validity forces an expansion beyond the sensory criterion. Part 010 adds that Gassendi thinks space and time atomistically as composed of ultimate simple parts, which shapes his account of motion as passage to the next simple space-point in an indivisible time-moment."
+
+- term: "Atombegriff / Atomistik"
+  handle: "term:atombegriff-atomistik"
+  kind: concept-cluster
+  preferred: "atom concept / atomism"
+  alternatives:
+    - "atomistic theory"
+    - "atomistic explanation"
+  status: open
+  notes: "Parts 008-010 make atomism the first explicit test of Gassendi's sensory criterion. The atom concept springs from scientific reason against naive sensory intuition; its necessary correlate is empty space; and Gassendi's physics extends atomistic decomposition to body, space, time, and motion. Keep open while the chapter tests whether atomism is a physics result, an epistemological contradiction, or both."
+
+- term: "Selbstbewußtsein / Ich / innere Erfahrung"
+  handle: "term:selbstbewusstsein-ich-innere-erfahrung"
+  kind: concept-cluster
+  preferred: "self-consciousness / I / inner experience"
+  alternatives:
+    - "self-consciousness"
+    - "the I"
+    - "inner experience"
+  status: open
+  notes: "Part 011 makes this the Gassendi chapter close. Cassirer argues that the fact of self-consciousness is unintelligible if treated as a derivative result; it is the beginning and condition of objective knowledge. Gassendi must reject Descartes's `Ich` because no image of the self can arise in his image theory, so he measures inner experience by a fixed metaphysical standard."

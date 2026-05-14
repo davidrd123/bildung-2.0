@@ -127,6 +127,208 @@ sessions:
 
     formation_notes: []
 
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: sixth-translation-batch-and-bacon-chapter-close
+    parts_touched:
+      - "parts/006-bacon-physics-astronomy-and-motion.md"
+
+    state_on_entry:
+      - "Part 005 had passed check-over for controlled draft status."
+      - "Part 006 needed to begin on printed page 24 with `Deutlich tritt diese Stellung...` and likely close the Bacon chapter."
+      - "`Bewegung` was a likely term-pressure center, and the Bacon self-reversal pattern had enough pressure to test for a bounded note."
+
+    what_shifted:
+      - "Created Part 006 from PDF pages 44-48 / printed pages 24-28, closing the Bacon chapter before `Zweites Kapitel. Gassendi`."
+      - "Corrected German against PDF and scan/Tesseract surfaces; OCR residue removed around `Werden`, `Wechsel`, `Ortsveränderung`, `metaschematismi`, `behaupten`, `Rahm`, `verworfen`, `Strebungen`, and the Latin footnotes."
+      - "Translated substantive Latin footnotes on Bacon's artisan-at-work analogy, matter/schematismi/actus, and the measures-versus-true-differences passage."
+      - "Added `Bewegung` as an open glossary entry."
+      - "Created `reading/2026-05-14-bacon-self-reversal-pattern.md` as a bounded Bacon-chapter note."
+      - "Recorded the motion-as-appetite finding in the close-reading ledger and journal."
+      - "Ran the self-review gate: no word-level German correction was needed after comparison, but scan paragraphing corrected the draft by merging `Wer in dieser Fragestellung...` back into the astronomy paragraph."
+      - "Tested subagent review as a possible external pressure layer and rejected it as a default `/goal` requirement because it was too slow; the translating agent's own source-facing review remains mandatory, subagents become targeted escalation only."
+
+    unresolved:
+      - "Part 007 should begin on PDF page 49 / printed page 29 with `Zweites Kapitel. Gassendi`."
+      - "The Gassendi opening explicitly denies that Bacon is the real foundation of modern empiricism and shifts the origin to Gassendi and Hobbes."
+      - "Test whether `Bewegung`, `Erfahrung`, and `Experiment` become cross-chapter empiricism terms or need Bacon-local qualification."
+      - "Test whether Gassendi is read by internal self-reversal as Bacon was, or by a different comparative mode."
+      - "Watch whether Part 007's structural center takes a different shape from Bacon's repeated doublet/split pattern; do not force the Bacon rhythm onto Gassendi."
+      - "Future bounded reading notes should earn their own form; do not clone the Evidence / Local Finding / Boundary / Weakening Evidence shape by habit."
+      - "Draft the reusable `/goal` workflow with self-review mandatory and subagent review optional."
+
+    re_entry_instructions:
+      - "Part 006 has passed check-over for controlled draft status."
+      - "Continue from PDF page 49 / printed page 29, beginning with `Zweites Kapitel. Gassendi`."
+      - "Read `reading/2026-05-14-bacon-self-reversal-pattern.md` before carrying the Bacon pattern into Gassendi."
+      - "At the chapter boundary, use `What to expect next` as a falsifiable orientation, not as a settled thesis."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: seventh-translation-batch-and-gassendi-opening
+    parts_touched:
+      - "parts/007-gassendi-opening-and-perception.md"
+
+    state_on_entry:
+      - "The Bacon chapter had closed with Part 006 and a bounded self-reversal note."
+      - "The active `/goal` scope was the whole Gassendi chapter, with the translating agent's own review pass mandatory and subagents optional only for targeted escalation."
+      - "Part 007 needed to begin on PDF page 49 / printed page 29 with `Zweites Kapitel. Gassendi`."
+      - "Chapter-boundary watchpoints were `Erfahrung`, `Experiment`, `Bewegung`, and the risk of forcing Bacon's split-pattern structural center onto Gassendi."
+
+    what_shifted:
+      - "Created Part 007 from PDF pages 49-53 / printed pages 29-33 partial, ending before `Wenn somit Gassendi die Epikureische Lehre...`."
+      - "Corrected the German against PDF and scan/Tesseract surfaces, including OCR residue around `Analyse`, `philosophischen`, `sicht- und tastbaren`, `Bewegungszustand`, and the long Latin footnote."
+      - "Expanded the initial boundary from PDF pages 49-52 to include the top of PDF page 53, where the perception paragraph and its source note actually close."
+      - "Translated the substantive Latin footnote on Gassendi's interpretation of Epicurean images, sensible species, motion, and impressed marks."
+      - "Updated glossary notes for `Erfahrung`, `Bewegung`, and `Idole / Ideen` only as cross-boundary qualifications."
+      - "Recorded Gassendi's perception theory as mediated motion-sign in the journal and close-reading ledger."
+      - "Ran the self-review gate: the review restored the closing quotation mark after the `Idola seu Simulacra` citation and confirmed the active stop before the sensory-truth paragraph."
+
+    unresolved:
+      - "Part 008 should begin on printed page 33 / PDF page 53 with `Wenn somit Gassendi die Epikureische Lehre...`."
+      - "Watch whether `Sinn` becomes an epistemological criterion of truth rather than merely a psychological source of knowledge."
+      - "Watch whether `Wahrnehmung`, `Empfindung`, `Urteil`, or `Verstand` earns glossary treatment in the sensory truth and illusion passage."
+      - "Watch whether Gassendi's `eigene Tätigkeit` of mind becomes a pressure point against his sensualist derivation."
+      - "`Bewegung` has crossed the chapter boundary, but its Gassendi function is local motion and motion-state, not Bacon's appetitive motion; keep open."
+
+    re_entry_instructions:
+      - "Part 007 has passed check-over for controlled draft status."
+      - "Continue from `Wenn somit Gassendi die Epikureische Lehre in einzelnen Punkten umzugestalten sucht...` on PDF page 53 / printed page 33."
+      - "Read the Part 007 close-reading ledger entry before deciding whether `Sinn`, `Wahrnehmung`, or `Empfindung` belongs in the glossary."
+      - "Do not open a Gassendi `Idola` glossary entry unless the term recurs with structural pressure."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: eighth-translation-batch-and-gassendi-sense-truth
+    parts_touched:
+      - "parts/008-gassendi-sense-truth-judgment-and-atomism.md"
+
+    state_on_entry:
+      - "Part 007 had passed check-over for controlled draft status."
+      - "Part 008 needed to begin on printed page 33 / PDF page 53 with `Wenn somit Gassendi die Epikureische Lehre...`."
+      - "`Sinn`, `Sinneswahrnehmung`, `Wahrnehmung`, `Empfindung`, `Urteil`, `Verstand`, and `wissenschaftliche Vernunft` were active watchpoints."
+
+    what_shifted:
+      - "Created Part 008 from PDF pages 53-56 / printed pages 33-36 partial, ending before `Schärfer noch tritt dieser Widerstreit...`."
+      - "Corrected the German against PDF and scan/Tesseract surfaces; the main review correction restored the period after `beilegen` where the PDF text layer ran sentences together."
+      - "Translated the substantive Latin footnote from `Philosophiae Epicuri Syntagma` on why the senses cannot be refuted and why opinion/judgment alone can be true or false."
+      - "Added `Sinn / Sinneswahrnehmung` as an open glossary entry."
+      - "Recorded the sense-truth / judgment-error structure in the journal and close-reading ledger."
+      - "Confirmed the Part 009 boundary visually through scan/Tesseract: `Schärfer noch...` starts a new paragraph on printed page 36."
+
+    unresolved:
+      - "Part 009 should begin on printed page 36 / PDF page 56 with `Schärfer noch tritt dieser Widerstreit...`."
+      - "`Raum` and `Zeit` are likely to become the next term-pressure center."
+      - "`Atombegriff` may remain a transition pressure or become the organizing name for the space/time section."
+      - "`Urteil`, `Verstand`, `Vernunftgrund`, and `wissenschaftliche Vernunft` remain ledger watchpoints; do not promote them before seeing the next section."
+
+    re_entry_instructions:
+      - "Part 008 has passed check-over for controlled draft status."
+      - "Continue from `Schärfer noch tritt dieser Widerstreit an dem notwendigen Korrelat des Atombegriffs...` on PDF page 56 / printed page 36."
+      - "Read the new glossary entry for `Sinn / Sinneswahrnehmung` before translating further references to sensory truth, perception, or sensation."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: ninth-translation-batch-and-gassendi-space-time
+    parts_touched:
+      - "parts/009-gassendi-space-time-and-objective-validity.md"
+
+    state_on_entry:
+      - "Part 008 had passed check-over for controlled draft status."
+      - "Part 009 needed to begin on printed page 36 / PDF page 56 with `Schärfer noch tritt dieser Widerstreit...`."
+      - "`Sinn / Sinneswahrnehmung` was now an open glossary entry; `Raum`, `Zeit`, `objektive Gültigkeit`, and `reine Relationen` were active watchpoints."
+
+    what_shifted:
+      - "Created Part 009 from PDF pages 56-59 / printed pages 36-39 partial, ending before `Die spezielle Durchführung von Gassendis Physik...`."
+      - "Narrowed the initial pages 56-61 extract after scan/Tesseract review showed a clean paragraph boundary on printed page 39."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including OCR residue around `nichtsdestoweniger`, `Objektivität`, `Notwendigkeit`, `Accidentien`, `körperlich-dinglichen`, and `zuzusprechen, sondern ... zu`."
+      - "Translated footnotes carrying historical argument about Campanella, Riehl, Newton, Locke, and Gassendi, plus the substantive Latin footnotes on place/time as real beings beyond substance/accident."
+      - "Added `Raum / Zeit` as an open glossary entry and updated `Sinn / Sinneswahrnehmung` with the space/time limit."
+      - "Recorded the objective-validity pressure in the journal and close-reading ledger."
+
+    unresolved:
+      - "Part 010 should begin on printed page 39 / PDF page 59 with `Die spezielle Durchführung von Gassendis Physik...`."
+      - "`objektive Gültigkeit`, `reine Relationen`, `Notwendigkeit`, `Wirklichkeit`, and `Wesenheiten` remain ledger watchpoints."
+      - "Watch whether motion theory generalizes the same non-sensory-validity problem or becomes a narrower physics example."
+      - "A bounded Gassendi reading note may be earned after Part 010 if the physics/motion passage confirms the same pattern."
+
+    re_entry_instructions:
+      - "Part 009 has passed check-over for controlled draft status."
+      - "Continue from `Die spezielle Durchführung von Gassendis Physik bestätigt diesen Zusammenhang...` on PDF page 59 / printed page 39."
+      - "Read the `Raum / Zeit` glossary entry before translating the motion and atomistic space/time continuation."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: tenth-translation-batch-and-gassendi-physics-motion
+    parts_touched:
+      - "parts/010-gassendi-physics-motion-and-atomistic-explanation.md"
+
+    state_on_entry:
+      - "Part 009 had passed check-over for controlled draft status."
+      - "Part 010 needed to begin on printed page 39 / PDF page 59 with `Die spezielle Durchführung von Gassendis Physik...`."
+      - "`Raum / Zeit` was an open glossary entry; `Atombegriff`, `Bewegung`, `Stetigkeit`, `Ruhe`, and `begriffliche Kriterien` were active watchpoints."
+
+    what_shifted:
+      - "Created Part 010 from PDF pages 59-61 / printed pages 39-41 partial, ending before `Wenn indessen die Ausführung der Physik...`."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Erscheinung`, `Ruhepausen`, `Raum`, `Raumpunkt`, `verschiedene`, `in Wahrheit`, and punctuation around `deutlich, daß`."
+      - "Recorded the motion paragraph's finding: Gassendi's physics changes perceptual data by conceptual criteria in order to think them as a contradictionless whole."
+      - "Added `Atombegriff / Atomistik` as an open glossary entry and updated `Bewegung` and `Raum / Zeit`."
+      - "Confirmed the Part 011 boundary: scan `_0061` shows the dash ending the motion paragraph before the psychology/Descartes turn."
+
+    unresolved:
+      - "Part 011 should begin on printed page 41 / PDF page 61 with `Wenn indessen die Ausführung der Physik...` and should close the Gassendi chapter before Hobbes."
+      - "`eingeborene Begriffe`, `Geist`, `Empfindung`, `wissenschaftliches Sein`, `Selbstbewußtsein`, `Ich`, and `innere Erfahrung` are likely chapter-close watchpoints."
+      - "A bounded Gassendi reading note may be earned after Part 011 if the Descartes/psychology close confirms the pattern from Parts 008-010."
+
+    re_entry_instructions:
+      - "Part 010 has passed check-over for controlled draft status."
+      - "Continue from `Wenn indessen die Ausführung der Physik immer wieder über die Schranken von Gassendis Erkenntnislehre hinausgreift...` on PDF page 61 / printed page 41."
+      - "Read the glossary entries for `Sinn / Sinneswahrnehmung`, `Raum / Zeit`, `Atombegriff / Atomistik`, and `Bewegung` before closing the chapter."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: eleventh-translation-batch-and-gassendi-chapter-close
+    parts_touched:
+      - "parts/011-gassendi-psychology-self-consciousness-and-descartes.md"
+      - "reading/2026-05-14-gassendi-experience-as-ground-riddle.md"
+
+    state_on_entry:
+      - "Part 010 had passed check-over for controlled draft status."
+      - "Part 011 needed to begin on printed page 41 / PDF page 61 with `Wenn indessen die Ausführung der Physik...` and close the chapter before Hobbes."
+      - "`Sinn / Sinneswahrnehmung`, `Raum / Zeit`, `Atombegriff / Atomistik`, and `Bewegung` were open glossary entries."
+      - "`Selbstbewußtsein`, `Ich`, `innere Erfahrung`, `Geist`, and `eingeborene Begriffe` were chapter-close watchpoints."
+
+    what_shifted:
+      - "Created Part 011 from PDF pages 61-65 / printed pages 41-45, closing the Gassendi chapter."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `wissenschaftlichen Sein`, `anfänglichen`, `Gegenstandes`, `quidquam`, `incurrit`, `eindringt`, `Selbstbewußtsein`, `inneren Erfahrung`, and `der scholastischen Seelenlehre`."
+      - "Translated substantive Latin footnotes on the idea of the sun, image-incursion, and Gassendi's admitted difficulty explaining how the sensible arises from the insensible."
+      - "Added `Selbstbewußtsein / Ich / innere Erfahrung` as an open glossary entry and updated `Erfahrung` and `Sinn / Sinneswahrnehmung`."
+      - "Created `reading/2026-05-14-gassendi-experience-as-ground-riddle.md` as a bounded Gassendi chapter note."
+      - "Recorded the chapter-close finding in the journal and close-reading ledger: experience becomes the riddle rather than the solution."
+
+    unresolved:
+      - "The next chapter begins with `Drittes Kapitel. Hobbes.` on PDF page 66 / printed page 46."
+      - "At Hobbes, test whether the object-sensation-thought relation is reformulated mechanically, logically, politically, or some combination."
+      - "Do not generalize the bounded Gassendi note until Hobbes supplies contrast evidence."
+      - "Gassendi Parts 007-011 are self-reviewed controlled drafts; Part 011 has an added probe review. Fuller second-pass review of Parts 007-010 can still be done before commit/status elevation if desired."
+
+    re_entry_instructions:
+      - "Gassendi parts 007-011 have all passed self-review for controlled draft status; Part 011 additionally passed a post-burst probe review."
+      - "Before starting Hobbes, read the bounded Gassendi note plus the glossary entries added or updated during Parts 007-011."
+      - "For future `/goal` bursts, run a chapter-level calibration before treating the run as commit-ready."
+
+    formation_notes: []
+
   - date: 2026-05-13
     collaborator: codex-gpt-5
     session_outcome: first-translation-batch

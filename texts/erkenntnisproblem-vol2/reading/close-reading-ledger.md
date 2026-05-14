@@ -130,3 +130,99 @@ Routing:
 - Add `Bewegung` to the glossary as open.
 - Create a bounded Bacon reading note for the self-reversal pattern; do not yet generalize it to all of Vol. 2.
 - Use the Gassendi opening as the next test for whether motion becomes a cross-chapter empiricism problem or remains Bacon-local.
+
+### 2026-05-14 - Gassendi: Perception As Mediated Motion-Sign
+
+Passage: `parts/007-gassendi-opening-and-perception.md`, printed pages `29-33 partial`.
+
+Cassirer opens Gassendi by refusing the inherited story in which Bacon founds modern empiricism. The modern empiricist problem begins only when experience is tied to modern physics and exact research. Gassendi's role is not to deduce a system, but to take the new scientific material philosophically into possession by selecting usable older doctrines.
+
+Local pressure:
+
+- `Erfahrung` now shifts from Bacon's method problem to the `Erfahrungsbegriff der neueren Physik`. This is the first real test of whether the Bacon glossary entries need cross-chapter qualification.
+- `Bewegung` crosses the chapter boundary, but with a changed function: here it names local motion and the motion-state of medium and nerves within perception, not Bacon's inward appetites of bodies.
+- `Idola seu Simulacra` belongs to Gassendi's Epicurean perception theory. It must remain distinct from Bacon's `Idole / Ideen`, where idols name projections and errors of mind.
+- `Sinn` is named as the foundation of all knowledge, but Part 007 still treats this mainly as psychological derivation from sensory beginnings. Part 008 should show whether it becomes a criterion of truth.
+- The phrase `eigene Tätigkeit` prevents a flat sensationalist reading: even here the mind reconstructs the acting cause from a sign.
+
+Routing:
+
+- Update existing glossary notes for `Erfahrung`, `Bewegung`, and `Idole / Ideen`; do not add a new Gassendi glossary term yet.
+- Keep `Sinn`, `Wahrnehmung`, `Empfindung`, `Erfahrungserkenntnis`, and `eigene Tätigkeit` as watchpoints.
+- Use Part 008 to test whether Gassendi produces an epistemological center around sensory truth and judgment.
+
+### 2026-05-14 - Gassendi: Sense Is True, Judgment Errs
+
+Passage: `parts/008-gassendi-sense-truth-judgment-and-atomism.md`, printed pages `33-36 partial`.
+
+Gassendi's modified Epicurean perception theory keeps the epistemological consequence intact: sense-perception is unerring because it always reports a real influence. Illusion is not false sense but a judgment of the understanding that transfers the appearance under its particular conditions to the object `an sich`.
+
+Local pressure:
+
+- `Sinn / Sinneswahrnehmung` has now earned glossary status for the Gassendi chapter. It is the sole instance that gives knowledge of external objects and the threatened criterion without which skepticism would follow.
+- `Urteil des Verstandes` becomes the first explicit place where error enters. This is a watchpoint, not yet a glossary entry, because Part 008 uses it to locate error rather than to develop a theory of judgment.
+- `Vernunftgrund` is denied priority over perception in the Epicurean argument, but `wissenschaftliche Vernunft` immediately returns as the source of the atom concept. This is the tranche's deepest tension.
+- `Atombegriff` introduces the next section: atomism is needed by mathematical physics, but its validity is questionable under Gassendi's own sensory criterion.
+
+Routing:
+
+- Add `Sinn / Sinneswahrnehmung` to the glossary as open.
+- Keep `Urteil`, `Verstand`, `Vernunftgrund`, `wissenschaftliche Vernunft`, `Geltung`, `Atombegriff`, and `Anschauung` in the ledger until the space/time section shows what persists.
+- Use Part 009 to test whether the contradiction becomes specifically a space/time problem or remains a general atomism problem.
+
+### 2026-05-14 - Gassendi: Space And Time Force Objective Validity Beyond Sense
+
+Passage: `parts/009-gassendi-space-time-and-objective-validity.md`, printed pages `36-39 partial`.
+
+The space/time passage sharpens the contradiction in Gassendi's system. Pure space and pure time are indispensable for mathematical physics and must be thought with unconditional necessity, but they do not act on the organs of sense. If only the acting real can be known, Gassendi cannot secure the very concepts his physics requires.
+
+Local pressure:
+
+- `Raum / Zeit` earns an open glossary entry. Cassirer explicitly says this problem will accompany the history of modern philosophy from here on.
+- `Sinn / Sinneswahrnehmung` is now not just a Gassendi foundation but a criterion under strain: it cannot account for objective validity where no sensory efficacy occurs.
+- `objektive Gültigkeit` becomes a possible name for the broader issue, but it should wait. Part 009 introduces it as the demanded expansion of the plan, not yet as a repeated term.
+- `reine Relationen` names the alternative grounding toward which the argument points: knowledge of pure relations must be methodically separated from apprehension of sensory givens.
+
+Routing:
+
+- Add `Raum / Zeit` to the glossary and update `Sinn / Sinneswahrnehmung`.
+- Keep `objektive Gültigkeit`, `reine Relationen`, `Notwendigkeit`, `Wirklichkeit`, and `Wesenheiten` in the ledger.
+- Use Part 010 to test whether the motion/physics passage generalizes the same non-sensory-validity problem.
+
+### 2026-05-14 - Gassendi: Atomistic Motion Alters Perception By Concept
+
+Passage: `parts/010-gassendi-physics-motion-and-atomistic-explanation.md`, printed pages `39-41 partial`.
+
+Gassendi's special physics confirms that the space/time problem is not local. The theory does not accept the sensory appearance of continuous body or continuous motion as final; it decomposes them by rational criteria into discrete elements, indivisible time-moments, simple space-points, and mixtures of motion and rest.
+
+Local pressure:
+
+- `Atombegriff / Atomistik` earns an open glossary entry. It now spans the atom concept, empty space, atomistic space/time, and atomistic motion.
+- `Bewegung` diverges sharply from Bacon's motion. Bacon's motion was qualitative appetite; Gassendi's motion is atomistic passage through discrete points with inserted rest.
+- `Raum / Zeit` becomes more determinate: not only objectively valid pure forms for physics, but atomistically decomposed conditions of motion.
+- `begriffliche Kriterien` gives a compact local name to Cassirer's finding: Gassendi changes the data of perception in order to think them without contradiction.
+
+Routing:
+
+- Add `Atombegriff / Atomistik` to the glossary and update `Bewegung` and `Raum / Zeit`.
+- Keep `Stetigkeit`, `Ruhe`, `begriffliche Kriterien`, `rationale Grundannahmen`, and `widerspruchsloses Ganze` in the ledger.
+- Hold the bounded Gassendi synthesis note until the Descartes/psychology close shows whether the pattern extends beyond physics.
+
+### 2026-05-14 - Gassendi: Experience Becomes The Ground-Riddle
+
+Passage: `parts/011-gassendi-psychology-self-consciousness-and-descartes.md`, printed pages `41-45`.
+
+The chapter closes by moving the same contradiction from physics into psychology. Gassendi can say the scientific idea of the sun develops from sensory impression, but he cannot explain the mind's power to form and expand the data of sensation. His image theory makes experience depend on an object entering the `Ich`, while the functions required for experience already presuppose distinction, comparison, naming, and self-consciousness.
+
+Local pressure:
+
+- `Selbstbewußtsein / Ich / innere Erfahrung` earns an open glossary entry. Cassirer treats self-consciousness as the beginning and condition of objective knowledge, not a derivative result.
+- `Erfahrung` is now named as the real riddle, not the solution. It has to explain the passage from outside object to independent I.
+- `Sinn / Sinneswahrnehmung` is reframed through Berkeley: completed sensationalism would indirectly recognize consciousness as judge of natural reality, but Gassendi remains before this idealist turn.
+- The usual rationalist/empiricist label breaks down. Descartes, the "rationalist," represents unbiased analysis of consciousness; Gassendi measures inner experience by a metaphysical standard.
+
+Routing:
+
+- Add `Selbstbewußtsein / Ich / innere Erfahrung` to the glossary and update `Erfahrung` and `Sinn / Sinneswahrnehmung`.
+- Keep `Geist`, `eingeborene Begriffe`, `Urteil`, `Bewußtsein`, `Antizipationen des Geistes`, and `Bildertheorie` as ledger watchpoints.
+- Create a bounded Gassendi reading note now that the physics, space/time, motion, and psychology movements all converge.

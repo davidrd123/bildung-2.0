@@ -22,7 +22,7 @@ This is a discipline aid, not a completeness contract. Use it to notice whether 
 
 - Run a quality-zone check after each major chapter or after roughly 10 parts, whichever comes first.
 - Audit earlier parts after a vocabulary cluster stabilizes.
-- Treat external or sub-agent review as pressure-testing, not final verification; independently check source-language details before marking a tranche clean.
+- Treat the translating agent's own source-facing review as the mandatory second pass before moving forward. External or sub-agent review is optional pressure-testing for targeted risks, not final verification; independently check source-language details before marking a tranche clean.
 - Strengthen thin glossary entries so they say what the term does philosophically, not only which English options are available.
 - Check PDF/printed-page/scan alignment whenever page maps cross front matter, blank pages, or the index gap.
 - Consider a bounded second-pass memo after a closed chapter or book if accumulated hooks need resolution; do not create a standing memo layer by habit.
@@ -56,3 +56,12 @@ passed repeated correction. The minimum gate is:
 
 Speed is allowed only after the first few tranches pass this gate without
 substantive review corrections.
+
+For an open-ended `/goal` or other burst run, the translating agent's own
+source-facing review creates `controlled draft` status, not automatic parity
+with tranches that have also gone through separate iterative pressure. After a
+multi-tranche burst, run a chapter-level calibration before commit or status
+elevation: at minimum, spot-check claimed scan paragraph boundaries and review
+the load-bearing closing tranche against German, Latin/source-language notes,
+and routing decisions. Record whether the result is `self-reviewed`,
+`probe-reviewed`, or fully second-pass reviewed.
