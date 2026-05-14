@@ -75,13 +75,57 @@ ranges:
     note: "Scans confirm printed pages 7 through 10 and the continuation up to the break before `Die Formenlehre` on printed page 11."
 
   - slug: "bacon-formenlehre-opening"
-    label: "Opening of `II. Die Formenlehre`"
-    pdf_pages: [31, 31]
-    printed_pages: ["11"]
+    label: "Opening of `II. Die Formenlehre` through Harvey's Lord Chancellor judgment"
+    pdf_pages: [31, 37]
+    printed_pages: ["11", "17 partial"]
     scan_files:
       - "daserkenntnispro02cassuoft_0031.jp2"
-    trust: "medium"
-    note: "Calculated from the verified main-body offset; verify before translating this tranche."
+      - "daserkenntnispro02cassuoft_0032.jp2"
+      - "daserkenntnispro02cassuoft_0033.jp2"
+      - "daserkenntnispro02cassuoft_0034.jp2"
+      - "daserkenntnispro02cassuoft_0035.jp2"
+      - "daserkenntnispro02cassuoft_0036.jp2"
+      - "daserkenntnispro02cassuoft_0037.jp2"
+    trust: "high"
+    note: "Scans confirm printed pages 11 through 17. Part 003 stops after the Harvey/Lord Chancellor judgment; the final paragraph beginning `Wieder aber gilt es...` on printed page 17 is reserved for the next tranche."
+
+  - slug: "bacon-ideas-idols-ground-concepts"
+    label: "Bacon's ideas, idols, and the failure to ground physical concepts"
+    pdf_pages: [37, 41]
+    printed_pages: ["17 partial", "21"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0037.jp2"
+      - "daserkenntnispro02cassuoft_0038.jp2"
+      - "daserkenntnispro02cassuoft_0039.jp2"
+      - "daserkenntnispro02cassuoft_0040.jp2"
+      - "daserkenntnispro02cassuoft_0041.jp2"
+    trust: "high"
+    note: "Scans confirm the tranche from `Wieder aber gilt es...` on printed page 17 through the end of the ground-concepts paragraph on printed page 21. The following `philosophia prima` paragraph is reserved for Part 005."
+
+  - slug: "bacon-philosophia-prima"
+    label: "Bacon's `philosophia prima` and rhetorical generality"
+    pdf_pages: [41, 44]
+    printed_pages: ["21 partial", "24 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0041.jp2"
+      - "daserkenntnispro02cassuoft_0042.jp2"
+      - "daserkenntnispro02cassuoft_0043.jp2"
+      - "daserkenntnispro02cassuoft_0044.jp2"
+    trust: "high"
+    note: "Scans confirm the tranche from `Freilich kennt auch Bacon...` on printed page 21 through the summary paragraph ending before `Deutlich tritt diese Stellung...` on printed page 24. The footnote to the Bacon temple/image passage continues onto printed page 24."
+
+  - slug: "bacon-physics-astronomy-motion"
+    label: "Bacon's physics, astronomy, and concept of motion"
+    pdf_pages: [44, 48]
+    printed_pages: ["24 partial", "28"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0044.jp2"
+      - "daserkenntnispro02cassuoft_0045.jp2"
+      - "daserkenntnispro02cassuoft_0046.jp2"
+      - "daserkenntnispro02cassuoft_0047.jp2"
+      - "daserkenntnispro02cassuoft_0048.jp2"
+    trust: "high"
+    note: "Scans confirm the closing Bacon tranche from `Deutlich tritt diese Stellung...` on printed page 24 through the Atalanta comparison ending the chapter on printed page 28. Printed page 29 / PDF page 49 opens Gassendi."
 
   - slug: "gassendi-opening"
     label: "Opening of `Zweites Kapitel. Gassendi`"

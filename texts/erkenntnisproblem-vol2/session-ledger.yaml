@@ -59,6 +59,74 @@ sessions:
 
     formation_notes: []
 
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: fourth-translation-batch-and-check-over
+    parts_touched:
+      - "parts/004-bacon-ideas-idols-and-ground-concepts.md"
+
+    state_on_entry:
+      - "Part 003 had passed its check-over without source-level German correction."
+      - "Part 004 needed to begin on printed page 17 with `Wieder aber gilt es...`, not on printed page 18."
+      - "`Form`, `Induktion`, `Erfahrung`, and `Experiment` were open glossary entries; `Tatsache` was a watchpoint."
+
+    what_shifted:
+      - "Created Part 004 from PDF pages 37-41 / printed pages 17-21, ending before the `philosophia prima` paragraph."
+      - "Corrected German against PDF and scan/Tesseract surfaces for the active tranche."
+      - "Translated substantive Latin footnotes on Bacon's `differentia vera`, idols/ideas, abstraction/dissection, expanding the understanding, simple natures, and non-notional generalities."
+      - "Added `Idole / Ideen` as an open glossary entry and updated `Form` with the idolic-projection pressure."
+      - "Recorded the `idola fori` reversal in the journal and close-reading ledger."
+      - "Ran the check-over: no source-level German correction was needed; tightened English around `Sinn`, `wenn anders`, `Kräftewesen`, `natura naturans`, and Latin `Rari`."
+      - "Integrated follow-up review refinements: `Selbsttätigkeit` now renders as `self-activity`, the `Formbegriff` idol sentence keeps its emphatic force, and the `works` / `creatures` variation is marked as source-layer difference."
+
+    unresolved:
+      - "Part 005 should begin on printed page 21 with `Freilich kennt auch Bacon...`."
+      - "`Allgemeine / Besondere`, `Grundbegriffe`, and `idola fori` may need promotion depending on the `philosophia prima` passage."
+      - "`Selbsttätigkeit` is a forward watchpoint; do not let an early Bacon rendering silently groove the later Leibniz/Kant register."
+      - "`Tatsache` remains a ledger watchpoint, not a glossary entry."
+      - "Open-ended forward progress still should not be authorized until at least one more tranche passes the correctness gate."
+
+    re_entry_instructions:
+      - "Part 004 has passed check-over for controlled draft status."
+      - "Continue from PDF page 41 / printed page 21, beginning with `Freilich kennt auch Bacon...`."
+      - "Read the updated `Form` and `Idole / Ideen` glossary entries before translating the `philosophia prima` section."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: fifth-translation-batch-and-check-over
+    parts_touched:
+      - "parts/005-bacon-philosophia-prima-and-rhetorical-generality.md"
+
+    state_on_entry:
+      - "Part 004 had passed check-over for controlled draft status."
+      - "Part 005 needed to begin on printed page 21 with `Freilich kennt auch Bacon...`."
+      - "`Allgemeine / Besondere`, `Grundbegriffe`, `idola fori`, and `philosophia prima` were watchpoints; no new glossary entry had been authorized."
+
+    what_shifted:
+      - "Created Part 005 from PDF pages 41-44 / printed pages 21-24, ending before the physics-definition paragraph."
+      - "Corrected German against PDF and scan/Tesseract surfaces; the main source-level correction was PDF OCR `erkannt wei-rjt-n, Jiandeln` to scan-confirmed `erkannt werden, handeln`."
+      - "Translated substantive Latin footnotes on Bacon's `Philosophiae Primae` and temple/image-of-being passage."
+      - "Recorded the failure of Bacon's first philosophy as rhetorical generality in the journal and close-reading ledger."
+      - "Kept the glossary unchanged; Part 005 strengthens ledger watchpoints rather than forcing a new term entry."
+      - "Ran the check-over: no word-level German correction was needed; tightened English around `Ausführung`, `Geltung`, `tätiges Wesen`, `lustvoll berührt`, `Besonderung`, and Latin `condimus`."
+      - "Integrated follow-up paragraphing check: scan `_0043` shows `Und dennoch...` continues the Macaulay paragraph, while `So zeigt...` begins a real indented paragraph."
+      - "Restored Macaulay's original English phrase in the draft main text while noting Cassirer's German rendering in the draft-footnote layer."
+
+    unresolved:
+      - "Part 006 should begin on printed page 24 with `Deutlich tritt diese Stellung...`."
+      - "`Bewegung` is likely the next term-pressure center."
+      - "If Part 006 extends the self-reversal pattern, create a bounded reading note on Cassirer's critique of Bacon by Baconian standards."
+      - "The reusable `/goal` workflow can now be drafted before authorizing open-ended forward progress."
+
+    re_entry_instructions:
+      - "Part 005 has passed check-over for controlled draft status."
+      - "Continue from PDF page 44 / printed page 24, beginning with `Deutlich tritt diese Stellung bereits in seiner Begriffsbestimmung der Physik zutage`."
+      - "Read the Part 005 close-reading ledger entry before deciding whether `philosophia prima` needs anything beyond ledger status."
+
+    formation_notes: []
+
   - date: 2026-05-13
     collaborator: codex-gpt-5
     session_outcome: first-translation-batch
@@ -127,5 +195,39 @@ sessions:
       - "Read parts 001-002, the latest journal entry, and the close-reading ledger entries before translating."
       - "Watch whether Bacon's `Formenlehre` pulls method back toward metaphysical `Wesenheiten`."
       - "Maintain the footnote rule: translate substantive source-language quotations."
+
+    formation_notes: []
+
+  - date: 2026-05-13
+    collaborator: codex-gpt-5
+    session_outcome: third-translation-batch
+    parts_touched:
+      - "parts/003-bacon-forms-and-substantial-induction.md"
+
+    state_on_entry:
+      - "Part 002 had passed the focused check-over after restoring scan-confirmed `Verstande` and tightening `certa ratione`."
+      - "The active instruction was to continue with Part 003 under the correctness gate."
+      - "`Erfahrung` and `Experiment` were close to glossary threshold but intentionally waiting for the forms-doctrine transition."
+
+    what_shifted:
+      - "Created Part 003 from PDF pages 31-37 / printed pages 11-17, ending after Harvey's Lord Chancellor judgment."
+      - "Extended the tranche beyond the initial four-page plan because printed pages 14-16 ended mid-word or mid-sentence; the material earned a longer unit."
+      - "Corrected the German against PDF and scan/Tesseract surfaces for the active tranche."
+      - "Translated substantive Latin footnotes from `Novum Organon` II.5 and the `Distributio operis`."
+      - "Promoted `Erfahrung`, `Experiment`, `Form`, and `Induktion` to open glossary entries."
+      - "Recorded the Descartes/Bacon contrast as relation-concepts versus substantial qualities."
+      - "Check-over found no source-level German correction; it tightened footnote 3's simple-nature list and smoothed two overly literal English renderings."
+
+    unresolved:
+      - "Part 004 should begin on printed page 17 with `Wieder aber gilt es...`; do not skip to printed page 18."
+      - "`Tatsache` may become a glossary entry if the next tranche continues the claim that facts are theoretically determined."
+      - "`Geschichte der Phänomene` may need a Bacon/natural-history note if it keeps carrying methodological weight."
+      - "The self-reversal of `negative Instanz` may deserve a bounded reading note if Cassirer continues to turn Baconian language against Bacon."
+      - "Part 003 now counts as a checked draft pass, but not yet as enough evidence for open-ended forward translation."
+
+    re_entry_instructions:
+      - "Continue from printed page 17 / PDF page 37, beginning with `Wieder aber gilt es hier...`."
+      - "Read the new glossary entries before choosing renderings for `Form`, `Induktion`, `Erfahrung`, or `Experiment`."
+      - "Keep all new glossary entries open; do not stabilize them on one Bacon tranche."
 
     formation_notes: []

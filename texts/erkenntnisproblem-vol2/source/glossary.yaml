@@ -6,4 +6,58 @@
 # local Vol. 2 evidence earns a glossary entry. This keeps the glossary as a
 # truth surface rather than a prediction surface.
 
-[]
+- term: "Erfahrung"
+  handle: "term:erfahrung"
+  kind: concept
+  preferred: "experience"
+  alternatives:
+    - "empirical experience"
+  status: open
+  notes: "Parts 002-003 make this structurally double. Bacon's positive gain is methodically ordered experience rather than passive groping, but the forms doctrine then narrows experience toward a finite, exhaustible stock of observations."
+
+- term: "Experiment"
+  handle: "term:experiment"
+  kind: concept
+  preferred: "experiment"
+  alternatives:
+    - "experimental procedure"
+  status: open
+  notes: "Part 001 split experiment between lawful mediation and coercive interrogation; Part 002 made it the place where sense and understanding correct one another. Keep open while the forms doctrine shows how Bacon's method is pulled back toward substantial qualities."
+
+- term: "Form"
+  handle: "term:form"
+  kind: concept
+  preferred: "form"
+  alternatives:
+    - "essential form"
+  status: open
+  notes: "In the Bacon chapter, `Form` does not mean mathematical structure. Cassirer reads Baconian forms as self-subsisting qualities or simple natures, apparently called laws but still opposed to modern relation- and function-concepts. Part 004 sharpens this: the form-concept is also an idolic projection of logical commonality into the object."
+
+- term: "Induktion"
+  handle: "term:induktion"
+  kind: concept
+  preferred: "induction"
+  alternatives:
+    - "Baconian induction"
+  status: open
+  notes: "Part 003 distinguishes Baconian induction from modern empirical science: it seeks final essences by enumerating a finite field of things and abstracting common marks, rather than letting theory determine what counts as a fact."
+
+- term: "Idole / Ideen"
+  handle: "term:idole-ideen"
+  kind: concept-pair
+  preferred: "idols / ideas"
+  alternatives:
+    - "idols and ideas"
+    - "idola / ideas"
+  status: open
+  notes: "Part 004 makes the contrast structural. Bacon wants `Idole` to be arbitrary products of the human mind and `Ideen` to be divine seals in things, but Cassirer argues that Bacon's own form-concepts become idols of the mind projected into the object."
+
+- term: "Bewegung"
+  handle: "term:bewegung"
+  kind: concept
+  preferred: "motion"
+  alternatives:
+    - "movement"
+    - "change of place"
+  status: open
+  notes: "Part 006 makes motion the closing pressure of the Bacon chapter. Bacon wants physics to grasp things in their becoming rather than their static being, but he still treats motion as an inward qualitative appetite of bodies rather than as mathematically determinable `Ortsveränderung`. Keep open until Gassendi and Hobbes show whether this becomes a cross-chapter empiricism problem."
