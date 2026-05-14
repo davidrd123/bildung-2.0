@@ -28,29 +28,30 @@ python3 tools/retrieval/hybrid_search.py \
 
 Top anchors:
 
-- `texts/zeitmauer/threads/cassirer-pressure-on-zeitmauer.md` — "Symbolic anticipation as a middle category"
-- `texts/zeitmauer/journal.md` — "The three threads converge on a single problem"
-- `texts/zeitmauer/threads/mumford-bridge.md` — clock-time as a historical organization of experience
+- `sources/modern/hoffmeyer-biosemiotics/source/cleaned/017-from-animal-to-human.txt` — symbolic reference as an implicit associative path
+- `sources/modern/hoffmeyer-biosemiotics/source/cleaned/017-from-animal-to-human.txt` — Deacon on symbolic reference as a motive force in human brain evolution
+- `sources/modern/hoffmeyer-biosemiotics/source/cleaned/017-from-animal-to-human.txt` — discontinuity between expressive sound systems and meaning
 
 What they support:
 
-The repo already has a local category close to the bridge claim: symbolic
-anticipation. That is stronger than a vague "symbols matter" claim. It names a
-middle zone where technical, temporal, and linguistic forms organize the field
-before explicit judgment catches up.
+The current seed now finds a more biological/semiotic symbolic-reference surface
+before the earlier Cassirer-pressure surface. That is useful pressure: the bridge
+is not only about "symbols" as cultural mediation, but about the transition from
+signal/association to symbolic reference and the conditions under which a
+symbolic path can be reconstructed.
 
 What they do not support:
 
-They do not support a direct claim about model internals. The current seed
-corpus does not contain enough Cassirer primary-source surface or any
-mechanistic-interpretability experiment. At this stage, "symbolic mediation and
+They still do not support a direct claim about model internals. The query finds
+Hoffmeyer/Deacon-style symbolic-reference material, not evidence about SAE
+features, circuits, or model mechanisms. At this stage, "symbolic mediation and
 model internals" survives only as a research question.
 
 Survives contact?
 
 Yes, but only as a disciplined bridge hypothesis: look for model-internal
-structures that mediate access, anticipation, or frame formation. Do not say
-Cassirer explains internals.
+structures that mediate reference, association, anticipation, or frame formation.
+Do not say the semiotic source explains internals.
 
 ## Probe 2: Umwelt Against Worldless Symbol Manipulation
 
@@ -66,8 +67,8 @@ python3 tools/retrieval/hybrid_search.py \
 Top anchors:
 
 - `sources/german/uexkuell-theoretische-biologie/glossary.yaml` — `Umwelt`, `Merkwelt`, `Wirkwelt`
-- `sources/german/uexkuell-theoretische-biologie/encounters/05-welt-und-umwelt.md` — Umwelt as overlapping and partly contradictory worlds
 - `sources/german/uexkuell-theoretische-biologie/encounters/04-fuegung.md` — organism/world fit under prey, enemy, and act
+- `sources/german/uexkuell-theoretische-biologie/encounters/05-welt-und-umwelt.md` — Umwelt as overlapping and partly contradictory worlds
 
 What they support:
 
@@ -104,7 +105,7 @@ Top anchors:
 - `texts/zeitmauer/threads/cassirer-pressure-on-zeitmauer.md` — predecided-world thread correction
 - `texts/zeitmauer/threads/predecided-world.md` — plan, naming, experiment, and display pre-cutting the field
 - `sources/german/anders-antiquiertheit-des-menschen-band1/journal.md` — `Vorentscheidung` as devices recast from means into decisions already made over us
-- `sources/german/anders-antiquiertheit-des-menschen-band1/encounters/01-preface-and-introduction.md` — "not means but predecisions"
+- `sources/german/anders-antiquiertheit-des-menschen-band1/glossary.yaml` — apparatus predecision / macro-device world retrieval cue
 
 What they support:
 
@@ -168,10 +169,10 @@ python3 tools/retrieval/hybrid_search.py \
 
 Top anchors:
 
+- `sources/german/anders-antiquiertheit-des-menschen-band1/glossary.yaml` — `prometheisches Gefälle` and `Vorentscheidung` retrieval cues
 - `sources/german/uexkuell-theoretische-biologie/glossary.yaml` — `Wirkwelt`, `Fügung`, and source terms with open English pressure
 - `texts/zeitmauer/journal.md` — pressure terms that did not yet earn glossary entries
-- `sources/german/uexkuell-theoretische-biologie/encounters/02b-funktionskreis-undrafted.md` — `Gemüt` / `Psyche` pressure
-- `sources/german/uexkuell-theoretische-biologie/journal.md` — `Merk* / Funktionskreis / Planmäßigkeit` as a family-level reading unit
+- `sources/german/uexkuell-theoretische-biologie/glossary.yaml` — false-friend pressure around `Fügung` / `Planmäßigkeit`
 
 What they support:
 

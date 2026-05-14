@@ -32,12 +32,15 @@ The first corpus is deliberately small and pressure-led:
 | --- | --- | ---: |
 | `canonical-patterns` | `canonical-patterns` | 23 |
 | `zeitmauer-dossiers` | `canonical-texts` | 166 |
+| `zeitmauer-construal-parts` | `canonical-texts` | 31 |
 | `zeitmauer-handles` | `derived-indexes` | 52 |
 | `uexkuell-source-campaign` | `sources` | 94 |
+| `cassirer-relation-expression-source` | `sources` | 18 |
+| `hoffmeyer-image-schema-source` | `sources` | 74 |
 | `anders-source-campaign` | `sources` | 84 |
-| `living-method-notes` | `living-notes` | 104 |
+| `living-method-notes` | `living-notes` | 152 |
 
-Total: 523 chunks after expanding the eval seed.
+Total: 694 chunks after the bridge/construal seed expansion and corpus-repair notes.
 
 ## Initial Eval
 
@@ -82,7 +85,7 @@ derived structure must resolve back to canonical files.
 ## Expanded Eval Pass
 
 After the practical-path decision, `retrieval-eval-seed.md` was expanded from
-15 to 53 queries. The table now classifies each query by `Query class`,
+15 to 63 queries. The table now classifies each query by `Query class`,
 `Test focus`, expected anchors, and likely failure labels. The query set covers:
 
 - exact terms
@@ -91,6 +94,7 @@ After the practical-path decision, `retrieval-eval-seed.md` was expanded from
 - thread retrieval
 - synthesis questions
 - false-friend pressure
+- construal/image-schema probes
 
 Full top-5 outputs are generated locally under `var/retrieval/`:
 
@@ -103,28 +107,48 @@ Results:
 
 | Retriever | Scope | Top-5 anchor hits |
 | --- | --- | ---: |
-| BM25 | `living`, excluding `derived-indexes` | 51 / 53 |
-| OpenAI `text-embedding-3-small` | `living`, excluding `derived-indexes` | 48 / 53 |
-| Hybrid BM25 + OpenAI | `living`, excluding `derived-indexes` | 53 / 53 |
-| Hybrid BM25 + OpenAI | `living`, including `derived-indexes` | 51 / 53 |
+| BM25 | `living`, excluding `derived-indexes` | 63 / 63 |
+| OpenAI `text-embedding-3-small` | `living`, excluding `derived-indexes` | 56 / 63 |
+| Hybrid BM25 + OpenAI (`bm25=2`, `vector=1`) | `living`, excluding `derived-indexes` | 63 / 63 |
+| Hybrid BM25 + OpenAI (`bm25=2`, `vector=1`) | `living`, including `derived-indexes` | 62 / 63 |
 
 Actual misses:
 
 | Retriever | Miss | Failure labels |
 | --- | --- | --- |
-| BM25 | `prometheisches Gefälle` | `translation-bottleneck`, `chunking` |
-| BM25 | `what connects Uexküll and Anders to Jünger predecided world` | `query-too-abstract`, `omnibus-note-dominance` |
+| OpenAI dense | `animal's soul` | `translation-bottleneck`, `model-smoothing` |
 | OpenAI dense | `switch standpoints` | `model-smoothing`, `query-too-short` |
 | OpenAI dense | `world already structured before neutral description` | `query-too-abstract`, `model-smoothing` |
 | OpenAI dense | `where is empathy methodologically blocked?` | `model-smoothing`, `query-too-abstract` |
-| OpenAI dense | `Vorentscheidung` | `cross-language-miss`, `missing-glossary-cue` |
-| OpenAI dense | `what says the world is cut in advance by plan and naming?` | `query-too-abstract`, `missing-dossier` |
+| OpenAI dense | `constitutive fit rather than adaptation` | `false-friend`, `model-smoothing` |
+| OpenAI dense | `source-role taxonomy` | `living-note-noise`, `query-too-abstract` |
+| OpenAI dense | `Verhältniswörtchen ist reine Verknüpfung Da- Dort-sein` | `pure-logic-flattening`, `query-too-abstract` |
+| OpenAI dense | `Gewebe menschlicher An- Absichten Durchschuss weft-thread` | `decorative-metaphor`, `translation-bottleneck` |
 | Hybrid with derived indexes | `time-crisis` | `corpus-shape`, `derived-index-dominance` |
-| Hybrid with derived indexes | `Siderische Einteilungen` | `missing-unit`, `derived-index-dominance` |
 
 The important result is not that hybrid "wins" abstractly. The result is that
 the hybrid path works only when authority layers stay explicit. Including
 `derived-indexes` by default makes handle traces compete with dossiers and
-source anchors. Therefore `hybrid_search.py` now defaults to `--scope living`
-with derived indexes excluded, and exposes `--include-derived` only for queries
-where handle traces are explicitly desired.
+source anchors. The broader 63-query pass also showed that equal rank-fusion
+overweights dense semantic neighbors for some source-close queries, so
+`hybrid_search.py` now defaults to `--scope living`, excludes derived indexes,
+and uses a lexical-biased `bm25=2`, `vector=1` weighting. `--include-derived`
+remains available when handle traces are explicitly desired.
+
+## Failure-Led Corpus Repair
+
+The first expanded pass exposed three local repairs:
+
+- `prometheisches Gefälle` was not actually unretrievable; the eval expected
+  anchors were too narrow. The primary expected anchor is now Encounter 01, and
+  the Anders glossary carries a compact retrieval cue around product-world
+  asynchrony and the lag between making, imagining, feeling, conscience,
+  responsibility, and embodiment.
+- `Vorentscheidung` now has a stronger glossary cue around apparatus
+  predecision, macro-device world, and a world already decided before free
+  choice.
+- `texts/zeitmauer/threads/predecided-world.md` now carries retrieval aliases
+  for world cut in advance, apparatus predecision, subject-cut worlds, and the
+  Uexkuell/Anders/Juenger bridge.
+
+These are corpus-shape repairs, not a new metadata layer.

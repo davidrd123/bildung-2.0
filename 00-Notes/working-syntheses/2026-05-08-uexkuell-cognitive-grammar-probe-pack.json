@@ -1,0 +1,121 @@
+{
+  "title": "Uexküll Cognitive Grammar Probe Pack",
+  "status": "working probe pack",
+  "date": "2026-05-08",
+  "source_synthesis": "00-Notes/working-syntheses/2026-05-08-cognitive-grammar-as-translation-residue-diagnostic.md",
+  "scope": "First four Uexküll rows only: role circuit, planfulness outside the body, beetle-stone, and Merkzeichen/Merkmale.",
+  "runner_note": "Each prompt should be run without exposing the expected construal difference or failure labels to the model.",
+  "cases": [
+    {
+      "id": "uex-01-role-circuit",
+      "label": "Funktionskreis as role circuit",
+      "source_locus": "sources/german/uexkuell-theoretische-biologie/encounters/02-funktionskreis.md lines 31-56 and 73-104",
+      "source_excerpt": "Every animal is a subject which, thanks to its own peculiar structure, selects from the general effects of the outer world certain stimuli to which it responds in a determinate way. These responses in turn consist in determinate effects upon the outer world, and these in their turn influence the stimuli. In this way there arises a closed circuit, which one may call the animal's functional circle.\n\nViewed within the coherence of the whole functional circle, these stimuli form definite marks which, like sea-marks for a boatman, induce the animal to carry out a steering of its movements. The sum of these marks I designate as the Merkwelt.\n\nThe effects the animal exerts upon the outer world yield the third world, the Wirkwelt. But Wirkwelt and Merkwelt form a coherent whole, which I designate as the Umwelt.",
+      "expected_construal_difference": "The strong answer preserves reciprocal organism-world role formation: stimulus selection, steering, effects, feedback, Merkwelt, Wirkwelt, and Umwelt as a coherent circuit. A weak answer treats Umwelt as a neutral surrounding environment.",
+      "failure_labels": [
+        "environment-flattening",
+        "role-loss"
+      ],
+      "variants": [
+        {
+          "id": "uex-01-source",
+          "kind": "source-preserving",
+          "question": "Explain how `Funktionskreis`, `Merkwelt`, `Wirkwelt`, and `Umwelt` relate in this passage. Keep the source terms visible."
+        },
+        {
+          "id": "uex-01-smoothed",
+          "kind": "smoothed-English",
+          "question": "Explain the animal's environment in this passage."
+        },
+        {
+          "id": "uex-01-adversarial",
+          "kind": "adversarial-paraphrase",
+          "question": "Assess this paraphrase: the passage says an organism receives stimuli from its external surroundings and adapts its behavior to that environment."
+        }
+      ]
+    },
+    {
+      "id": "uex-02-foot-path",
+      "label": "Planfulness outside the body",
+      "source_locus": "sources/german/uexkuell-theoretische-biologie/encounters/02b-funktionskreis-undrafted.md lines 27-48 and 54-74",
+      "source_excerpt": "The biological treatment of the functional circles demands that we also consider the part of the circle that runs outside the body, in the Umwelt, under the viewpoint of planfulness. We are accustomed to treating the things lying outside the subject purely according to rules of causality. But in doing so we fail to do justice to the biological fabric, which extends through the entire circle.\n\nThe animals are now built into nature in such a way that the Umwelt too works as a planful part of the whole.\n\nOne can express this as follows: where there is a foot, there is also a path. Where there is a mouth, there is also food. Where there is a weapon, there is also an enemy.",
+      "expected_construal_difference": "The strong answer treats path, food, and enemy as co-articulated counterparts inside a planful functional circle. A weak answer makes the line a generic statement about organisms adapting to pre-given natural opportunities.",
+      "failure_labels": [
+        "adaptation-smoothing",
+        "environment-flattening"
+      ],
+      "variants": [
+        {
+          "id": "uex-02-source",
+          "kind": "source-preserving",
+          "question": "What does the line \"where there is a foot, there is also a path\" do in the functional-circle argument?"
+        },
+        {
+          "id": "uex-02-smoothed",
+          "kind": "smoothed-English",
+          "question": "Why do organisms find paths, food, and enemies in nature?"
+        },
+        {
+          "id": "uex-02-adversarial",
+          "kind": "adversarial-paraphrase",
+          "question": "Assess this paraphrase: the passage is saying organisms adapt to available resources and obstacles in their external environment."
+        }
+      ]
+    },
+    {
+      "id": "uex-03-beetle-stone",
+      "label": "Leading vs accompanying properties",
+      "source_locus": "sources/german/uexkuell-theoretische-biologie/encounters/02b-funktionskreis-undrafted.md lines 89-104 and 110-123",
+      "source_excerpt": "The stone a beetle climbs is only a beetle-path and does not belong to mineralogy. Its weight, its material properties, such as atomic weight or chemical valences, are of complete indifference to us. These are all accompanying properties, which we may disregard because only the leading properties of form and hardness concern us.\n\nWithin the body of the subject, physical and chemical causality plays a much larger role, because here the distinction between leading and accompanying properties, insofar as they concern matter, drops away, since all material properties are taken up into the fabric of the living being. For that reason one is sure, wherever one takes hold of an animal's chemistry or physical properties, always to hit upon a life-property; but only the insertion of the discovered properties into the functional circle crowns the physiological work.",
+      "expected_construal_difference": "The strong answer says the stone is reprofiled by the beetle's functional circle: mineral properties are backgrounded as accompanying, while form and hardness lead the path relation. A weak answer says mineralogy is false or irrelevant only because the beetle does not know chemistry.",
+      "failure_labels": [
+        "objectivist-reversion"
+      ],
+      "variants": [
+        {
+          "id": "uex-03-source",
+          "kind": "source-preserving",
+          "question": "Why does the stone \"not belong to mineralogy\" in this passage? Explain `leading` and `accompanying` properties."
+        },
+        {
+          "id": "uex-03-smoothed",
+          "kind": "smoothed-English",
+          "question": "What properties of the stone matter to the beetle?"
+        },
+        {
+          "id": "uex-03-adversarial",
+          "kind": "adversarial-paraphrase",
+          "question": "Assess this paraphrase: mineralogy is irrelevant here because the beetle is ignorant of the stone's physical and chemical properties."
+        }
+      ]
+    },
+    {
+      "id": "uex-04-merkzeichen",
+      "label": "Merkzeichen becoming Merkmale",
+      "source_locus": "sources/german/uexkuell-theoretische-biologie/encounters/03-merkzeichen-und-umwelten.md lines 93-107 and 113-130",
+      "source_excerpt": "By applying the method of threshold determination, and proceeding by the same principle, we arrive at the concept of the Merkzeichen. We divide the band of colors between two turning-points into many small adjacent segments, such that at least two neighboring segments, each taken on its own, cannot be distinguished by the eye. We then enlarge the individual segments until any two neighboring segments are just noticeably different from one another, or, as Weber's expression has it, are separated from one another by exactly one threshold. The number of individual segments then reproduces the number of Merkzeichen the band of colors possesses for us. Thus understood, the Merkzeichen means the just-noticeable change in the content of attention.\n\nIf, in place of sensation or subjective quality, one puts Merkzeichen, one can say: the Merkzeichen of our attention become the Merkmale of the world.\n\nAccordingly, the laws binding for the inner Merkzeichen must also hold for the outer Merkmale.",
+      "expected_construal_difference": "The strong answer preserves the Merk- chain: thresholded marks of attention are reprofiled as marks/features of the world, without collapsing into private subjectivism or generic signs/features. A weak answer severs the morphology and says subjective sensations simply create objective facts.",
+      "failure_labels": [
+        "morphology-loss",
+        "role-loss"
+      ],
+      "variants": [
+        {
+          "id": "uex-04-source",
+          "kind": "source-preserving",
+          "question": "Track `Merkzeichen` to `Merkmale` without translating the shared `Merk-` element away. What changes in the passage?"
+        },
+        {
+          "id": "uex-04-smoothed",
+          "kind": "smoothed-English",
+          "question": "Explain the claim that inner signs become external features of the world."
+        },
+        {
+          "id": "uex-04-adversarial",
+          "kind": "adversarial-paraphrase",
+          "question": "Assess this paraphrase: Uexküll means subjective sensations create objective facts in the world."
+        }
+      ]
+    }
+  ]
+}

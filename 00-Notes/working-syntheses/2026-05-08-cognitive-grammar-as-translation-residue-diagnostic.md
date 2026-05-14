@@ -227,3 +227,26 @@ terms. Zeitmauer shows that images like weaving, houses, clocks, stations, and
 walls can be structural rather than decorative. Hoffmeyer/Sheets-Johnstone keeps
 the image-schema lane honest by warning that "embodied" can itself become a
 cosmetic abstraction.
+
+## Follow-on Probe Run
+
+The first Uexküll-only smoke test is now recorded in:
+
+- `00-Notes/working-syntheses/2026-05-08-uexkuell-cognitive-grammar-probe-pack.json`
+- `00-Notes/working-syntheses/2026-05-08-uexkuell-cognitive-grammar-probe-results.md`
+
+Result: strong enough to justify a repeatable Uexküll benchmark, but not yet
+strong enough to move straight to mechanistic interpretability. The next version
+needs true A/B passage variants where source terms are retained in one excerpt
+and smoothed away in the other.
+
+The harder A/B run is recorded in:
+
+- `00-Notes/working-syntheses/2026-05-08-uexkuell-cognitive-grammar-ab-probe-pack.json`
+- `00-Notes/working-syntheses/2026-05-08-uexkuell-cognitive-grammar-ab-probe-results.md`
+
+Result: role-circuit and foot/path construals survive source-term removal, but
+the `Merkzeichen -> Merkmale` chain fails even with source terms visible because
+the model slides toward an inner-subjective / outer-objective schema. The next
+bounded step is a scoring rubric for the fragile Uexküll cases before moving
+the method to Zeitmauer.
