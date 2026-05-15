@@ -19,14 +19,24 @@ leaf_numbering:
     - jp2_leaf: 114
       printed_page: 102
       content: "Metaphysica body; running header METAPH. CAMPANELLÆ, two-column"
+    - jp2_leaf: 617
+      printed_page: 549
+      content: |
+        Pars II, Liber X, Caput I. Description of the four-worlds concentric-
+        circles diagram (Material / Mathematical / Mental / Archetypal) and
+        contemplative-ascent pedagogy through the four registers. Contains
+        the only `intrinsecatur & extrinsecatur` coordinate pair in the
+        volume - God's mode of relation to all things at the Mathematical
+        register. See encounter 002.
     - jp2_leaf: 906
       printed_page: 244
       content: |
-        Body of cognition chapter; intrinsecatio passage. Page top continues
-        previous discussion; italic banner between body and chapter heading
-        "CAP. II. ARTIC. I." gives the section's argument-summary. ABBYY
+        Pars III, Liber XVII, Caput II, Articulus I. Body of cognition
+        chapter; intrinsecatio passage. Page top continues previous
+        discussion; italic banner between body and chapter heading "CAP. II.
+        ARTIC. I." gives the section's argument-summary. ABBYY
         false-segmented the trailing "rem cognitam" of one body line as
-        right-margin blocks.
+        right-margin blocks. See encounter 001.
 
 anchors:
   - id: "erk-v2-part018-intrinsecatio"

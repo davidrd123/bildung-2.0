@@ -106,7 +106,7 @@ Cassirer's German paraphrase takes the noun and the verb at the climax (leaf 906
 
 ## Re-entry
 
-- Locate the leaf-617 passage in full (the four-register contemplative ascent: Material / Mathematical / Metaphysical / Archetypal) and translate it; this is the most direct point of contact between Campanella's `intrinsecatio` doctrine and the Christian Platonism that Spinoza secularizes.
+- Leaf 617 has been opened separately: see [[002-four-register-ascent-lib-x-cap-i]] for the contemplative ascent through Material / Mathematical / Metaphysical / Archetypal registers, where the dual `intrinsecatur & extrinsecatur` names God's relation to all things, structurally mirroring the mind's `intrinsecatio` in this encounter.
 - The leaf-23 passage on `gustus` deserves its own encounter: it is the foundational use of the verb and articulates the bodily phenomenology that funds the later cognitive doctrine.
 - The `Cognoscere est fieri rem cognitam` claim is Aristotelian in form (cf. *De Anima* III.4-5 on the intellect becoming its object) but Campanella radicalizes it from intellect to soul-as-such. Worth tracing through the leaf-438 epistemology passage.
 - Compare to Spinoza Part 018: what Spinoza preserves from this framework and what he drops. Cassirer's bridge runs through the formal endpoint alone; testing whether the developmental chain has any continuity into Spinoza is a separate question.
