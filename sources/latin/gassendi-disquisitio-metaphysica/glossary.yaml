@@ -18,7 +18,7 @@
   alternatives:
     - "concept"
   status: open
-  notes: "The sun passage denies that the idea is elicited `ex innata quadam notione`. Keep pressure on the relation between `notio`, `idea`, and Cassirer's `eingeborene Begriffe`."
+  notes: "The sun passage denies that the idea is elicited `ex innata quadam notione`. Keep pressure on the relation between `notio`, `idea`, and Cassirer's `eingeborene Begriffe`. Part 050 pairs `apprehensiones, seu notiones` as the corrigible presentations through which intellect judges rightly or wrongly and will follows apparent good."
 
 - term: "innatus / adventitius"
   handle: "term:gassendi-innatus-adventitius"
@@ -28,7 +28,7 @@
     - "innate / adventitious"
     - "inborn / coming from outside"
   status: open
-  notes: "The section title names `adventitia Idearum origine`; the sun passage denies an `innata quaedam notio`. Keep the pair visible because it is the explicit Cartesian pressure point."
+  notes: "The section title names `adventitia Idearum origine`; the sun passage denies an `innata quaedam notio`. Keep the pair visible because it is the explicit Cartesian pressure point. Part 039 returns to the pair directly: if later God-knowledge comes through hearing or teaching, the idea appears adventitious rather than divinely impressed. Part 060 gives the sharp reduction: what is innate is not stored ideas of things, but the faculty or power for knowing things once singulars are seen, heard, described, compared, and generalized."
 
 - term: "incurrere / incidentia"
   handle: "term:gassendi-incurrere"
@@ -50,7 +50,7 @@
     - "experience / reason"
     - "experience / reasoning"
   status: open
-  notes: "The sun passage makes experience prove and reason confirm while both remain anchored in sensory incursion. This pair is the local hinge for Cassirer's criticism that the active formation of the object remains unexplained."
+  notes: "The sun passage makes experience prove and reason confirm while both remain anchored in sensory incursion. This pair is the local hinge for Cassirer's criticism that the active formation of the object remains unexplained. Part 064 makes experience the criterion in the real state for whether an idea conforms to an extra-mental thing."
 
 - term: "mens"
   handle: "term:gassendi-mens"
@@ -69,7 +69,7 @@
     - "species / image / phantasy"
     - "sensible species / image / imagination"
   status: open
-  notes: "The surrounding passage says the mind returns to the `species` received through the eye, and Descartes replies that Gassendi restricts `idea` to images painted in `phantasia`. This cluster is the local source of Cassirer's `Bildertheorie` pressure."
+  notes: "The surrounding passage says the mind returns to the `species` received through the eye, and Descartes replies that Gassendi restricts `idea` to images painted in `phantasia`. This cluster is the local source of Cassirer's `Bildertheorie` pressure. Part 035 makes optical species central again: microscope, telescope, and near/far viewing show that a more distinct species or idea can also be larger because more parts are represented."
 
 - term: "consecutio / analogia"
   handle: "term:gassendi-consecutio-analogia"
@@ -99,6 +99,16 @@
   status: open
   notes: "Part 006 redirects the dictum `nihil est in effectu, quod non sit in caussa` toward material rather than efficient causality. The efficient cause is external and often different in kind from the effect; it contains the effect only insofar as it can sketch and complete it from definite matter."
 
+- term: "corpuscula / principia"
+  handle: "term:gassendi-corpuscula-principia"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "corpuscles / principles"
+    - "corpuscular principles"
+  status: open
+  notes: "Part 058 names the physical alternative to a thin account of material essence: explain the nature, power, property, and action of material things through magnitude, figure, motion, position, and a few other joined or added features of the corpuscles or principles from which each material thing is composed."
+
 - term: "formaliter / eminenter contineri"
   handle: "term:gassendi-formaliter-eminenter"
   kind: concept_pair
@@ -127,7 +137,7 @@
     - "public road"
     - "clear road"
   status: open
-  notes: "Part 012 names the public cosmological route through the universe as the `regia, plana, perspicua via` to knowledge of God's existence, power, wisdom, goodness, and other attributes. Keep this as Gassendi's positive counter-route to Descartes' private enclosed idea."
+  notes: "Part 012 names the public cosmological route through the universe as the `regia, plana, perspicua via` to knowledge of God's existence, power, wisdom, goodness, and other attributes. Keep this as Gassendi's positive counter-route to Descartes' private enclosed idea. Part 034 recasts the same route as a posteriori movement through effects, actions, properties, and perfections, like rivulets leading toward the shore of an immense ocean."
 
 - term: "relatio / non ens"
   handle: "term:gassendi-relatio-non-ens"
@@ -156,7 +166,7 @@
     - "impression / seal / figure"
     - "seal-and-wax impression"
   status: open
-  notes: "Part 007 develops a seal/wax model for idea-causality. If ideas do not flow in as painted species retaining formal reality, Gassendi says Descartes is left with impression: an idea as figure impressed in wax by a seal."
+  notes: "Part 007 develops a seal/wax model for idea-causality. If ideas do not flow in as painted species retaining formal reality, Gassendi says Descartes is left with impression: an idea as figure impressed in wax by a seal. Part 028 reopens impression through Descartes' artisan-mark analogy and asks for the mode of impression, the form of the mark, and how the mark is discerned. Part 035 turns the seal analogy against Descartes: a fully impressed seal would already yield a complete, distinct, explicit image; if later distinctness occurs, something was missing and can be added. Part 039 says a divine impression of one simple nature should be uniform across minds, as one seal yields the same figure in many waxes."
 
 - term: "idea sui / cognitio reflexa"
   handle: "term:gassendi-idea-sui-cognitio-reflexa"
@@ -214,7 +224,7 @@
   alternatives:
     - "idea of the infinite / incomprehensibility"
   status: open
-  notes: "Part 010 sharpens the dispute over whether a true idea of the infinite must comprehend the infinite. Gassendi says a finite grasp gives only a finite or partial idea; Descartes replies that incomprehensibility belongs to the formal notion of the infinite. Part 013 adds the cave/mountain analogy: `infinite` signifies the limit we have not found or penetrated, not a positive comprehension of the whole. Part 015 accepts Descartes' incomprehensibility premise but denies that a human idea can therefore represent the whole infinite."
+  notes: "Part 010 sharpens the dispute over whether a true idea of the infinite must comprehend the infinite. Gassendi says a finite grasp gives only a finite or partial idea; Descartes replies that incomprehensibility belongs to the formal notion of the infinite. Part 013 adds the cave/mountain analogy: `infinite` signifies the limit we have not found or penetrated, not a positive comprehension of the whole. Part 015 accepts Descartes' incomprehensibility premise but denies that a human idea can therefore represent the whole infinite. Part 031 turns Descartes' non-comprehending `touch` of divine perfections into renewed evidence that the mind has only partial and finite cognition, not a true idea of infinite being. Part 034 adds the ocean/drop scale: even divine attributes are known finitely, analogically, confusedly, obscurely, and in a riddle."
 
 - term: "comprehensio / repraesentatio"
   handle: "term:gassendi-comprehensio-repraesentatio"
@@ -223,7 +233,17 @@
   alternatives:
     - "comprehension / representation"
   status: open
-  notes: "Part 015 makes this the hinge of the reply to Descartes. Gassendi says Descartes shifts from comprehension on the side of the intellect to representation on the side of the idea, but the truth of the idea cannot be secured if what it represents is not comprehended."
+  notes: "Part 015 makes this the hinge of the reply to Descartes. Gassendi says Descartes shifts from comprehension on the side of the intellect to representation on the side of the idea, but the truth of the idea cannot be secured if what it represents is not comprehended. Part 031 sharpens the same hinge: what is only touched by thought is not comprehended as a whole and cannot ground the represented infinity or defectlessness of God."
+
+- term: "attingere cogitatione"
+  handle: "term:gassendi-attingere-cogitatione"
+  kind: method
+  preferred: "touch by thought"
+  alternatives:
+    - "reach by thought"
+    - "attain by thought"
+  status: open
+  notes: "Part 031 uses Descartes' concession that divine perfections are not comprehended but only touched by thought. Gassendi turns this into partial cognition: what is only touched is not known as a whole and therefore is not known as infinite."
 
 - term: "totum infinitum"
   handle: "term:gassendi-totum-infinitum"
@@ -232,7 +252,7 @@
   alternatives:
     - "the whole infinite"
   status: open
-  notes: "Part 015 treats `totum infinitum` as unstable in a human idea. To represent the whole is to leave nothing hidden; to leave nothing hidden is to comprehend; but Descartes says the comprehended cannot be infinite."
+  notes: "Part 015 treats `totum infinitum` as unstable in a human idea. To represent the whole is to leave nothing hidden; to leave nothing hidden is to comprehend; but Descartes says the comprehended cannot be infinite. Part 031 restates the problem from the side of enumeration: a finite number of partially known perfections cannot amount to the whole infinite. Part 036 says pronouncing a negative name is not thinking a whole positive infinite being; even the finite world with all its parts and properties exceeds any promised complete thought."
 
 - term: "infiniti mundi"
   handle: "term:gassendi-infiniti-mundi"
@@ -251,7 +271,17 @@
     - "defect / comparison"
     - "lack / comparison"
   status: open
-  notes: "Part 016 treats awareness of defect as a comparison operation, not as direct evidence of infinite perfection. Defects can be recognized by comparison with the universe as whole or with other finite persons and parts. Part 017 says Descartes' move from more-perfect to infinite skips intermediate finite degrees."
+  notes: "Part 016 treats awareness of defect as a comparison operation, not as direct evidence of infinite perfection. Defects can be recognized by comparison with the universe as whole or with other finite persons and parts. Part 017 says Descartes' move from more-perfect to infinite skips intermediate finite degrees. Part 032 returns defect as the premise for divine non-deception: fraud and deception imply defect, but defectlessness has not yet been demonstrated from the idea of God."
+
+- term: "fallacia / deceptio"
+  handle: "term:gassendi-fallacia-deceptio"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "fraud / deception"
+    - "deceit / deception"
+  status: open
+  notes: "Part 032 isolates Descartes' conclusion that God cannot be deceptive. Gassendi treats the conclusion as strategically stored for later use, because the defectlessness premise has not yet been demonstrated."
 
 - term: "actu in idea / actu in re"
   handle: "term:gassendi-actu-idea-re"
@@ -290,7 +320,7 @@
     - "diallelus / circle"
     - "Cartesian circle"
   status: open
-  notes: "Part 011 explicitly accuses Descartes' proof of circularity: clear and distinct perception is used to prove God, while God's existence and veracity are needed to guarantee clear and distinct perception. Part 014 catches the same structure inside the sub-assumption when clear and distinct perception is assumed before its truth has been secured. Part 017 restates a circle in objective-being terms: actual infinite being is proved from representation as actual, while representation as actual is grounded in actual existence."
+  notes: "Part 011 explicitly accuses Descartes' proof of circularity: clear and distinct perception is used to prove God, while God's existence and veracity are needed to guarantee clear and distinct perception. Part 014 catches the same structure inside the sub-assumption when clear and distinct perception is assumed before its truth has been secured. Part 017 restates a circle in objective-being terms: actual infinite being is proved from representation as actual, while representation as actual is grounded in actual existence. Part 041 gives the Meditation IV form: clear and distinct cognition is assumed as true to prove God, although its non-fallaciousness is to be secured only later by God as non-deceptive author. Part 054 restates the circle syllogistically and adds the criterion problem: even if genuine clarity is God-authored, apparent clarity still has to be distinguished from genuine clarity."
 
 - term: "paralogismus"
   handle: "term:gassendi-paralogismus"
@@ -299,7 +329,7 @@
   alternatives:
     - "fallacious inference"
   status: open
-  notes: "Part 014 names Descartes' infinite-substance inference a `paralogismus`. The error begins when the negative word `infinitum` is treated as positive comprehension and when the same inference is not allowed to the ancient philosophers' infinite universe, worlds, and principles."
+  notes: "Part 014 names Descartes' infinite-substance inference a `paralogismus`. The error begins when the negative word `infinitum` is treated as positive comprehension and when the same inference is not allowed to the ancient philosophers' infinite universe, worlds, and principles. Parts 021-022 extend the paralogism charge to the temporal conservation argument, where an obscure nature of time is made to carry a heterogeneous deduction."
 
 - term: "demonstratio / authoritas"
   handle: "term:gassendi-demonstratio-authoritas"
@@ -317,7 +347,36 @@
   alternatives:
     - "substance / accident"
   status: open
-  notes: "Dubitatio IV denies that substance has a proper idea. It is conceived through accidents, or after their manner, as something extended, figured, and colored."
+  notes: "Dubitatio IV denies that substance has a proper idea. It is conceived through accidents, or after their manner, as something extended, figured, and colored. Part 033 turns this into a general account of distinct ideas: inner essence or substance remains hidden, while accidents, properties, effects, and circumstances are what the mind distinctly represents."
+
+- term: "idea rei / accidentia"
+  handle: "term:gassendi-idea-rei-accidentia"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "idea of a thing / accidents"
+    - "thing idea / accidental representation"
+  status: open
+  notes: "Part 033 says ideas are of things only insofar as they are known. Since we distinctly know accidents, properties, effects, and circumstances rather than inner essence, a distinct idea represents accidents while essence is only confusedly suspected beneath them."
+
+- term: "idea / essentia"
+  handle: "term:gassendi-idea-essentia"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "idea / essence"
+    - "thing as known / thing in itself"
+  status: open
+  notes: "Part 034 makes this the direct charge against Descartes: he has not distinguished the idea from the essence, or a thing's being in itself from its being known by someone."
+
+- term: "idea mensura notitiae"
+  handle: "term:gassendi-idea-mensura-notitiae"
+  kind: principle
+  preferred: "idea as measure of knowledge"
+  alternatives:
+    - "idea measures knowledge, not the thing"
+  status: open
+  notes: "Part 035 states the rule directly: `idea mensura est non rei, sed notitiae, quae habetur de re`. This blocks the inference from what is in God or in the thing itself to what is already represented in the idea."
 
 - term: "supersubstantia"
   handle: "term:gassendi-supersubstantia"
@@ -363,7 +422,7 @@
   alternatives:
     - "notion of God"
   status: open
-  notes: "Part 005 distinguishes knowledge of God by revelation, by faith, and by natural light. This lets Gassendi preserve divine origin while denying innateness. Part 013 routes the idea of God through words, meanings, parents, teachers, priests, society, stars, and the ordered universe before it can be treated as an inner idea."
+  notes: "Part 005 distinguishes knowledge of God by revelation, by faith, and by natural light. This lets Gassendi preserve divine origin while denying innateness. Part 013 routes the idea of God through words, meanings, parents, teachers, priests, society, stars, and the ordered universe before it can be treated as an inner idea. Part 039 adds negative evidence from reports of people and nations without knowledge or suspicion of God, and treats later instruction as compatible with adventitious acquisition. Part 043 gives corporeal images a positive role: visible perfections can serve as occasions and steps for ascent toward divine perfections, even though taking such images literally would misrepresent God."
 
 - term: "modulus"
   handle: "term:gassendi-modulus"
@@ -384,7 +443,7 @@
     - "amplification"
     - "dilation"
   status: open
-  notes: "Recurring from the sun passage into Part 005. Enlargement of finite ideas or perfections yields greater dilation and usually greater confusion; it does not by itself add objective reality or prove innateness. Part 014 gives the positive operation more detail: created perfections are stripped of imperfections and finitude, then promoted toward infinity without the mind attaining true infinite magnitude, duration, knowledge, power, or happiness. Part 018 adds composite ideals such as Pandora, the perfect republic, and the perfect orator. Part 019 shows Descartes accepting amplification but treating the power to amplify beyond the human as evidence of divine making."
+  notes: "Recurring from the sun passage into Part 005. Enlargement of finite ideas or perfections yields greater dilation and usually greater confusion; it does not by itself add objective reality or prove innateness. Part 014 gives the positive operation more detail: created perfections are stripped of imperfections and finitude, then promoted toward infinity without the mind attaining true infinite magnitude, duration, knowledge, power, or happiness. Part 018 adds composite ideals such as Pandora, the perfect republic, and the perfect orator. Part 019 shows Descartes accepting amplification but treating the power to amplify beyond the human as evidence of divine making. Part 027 rejects the hidden principle that whatever the mind understands and conceives by amplification exists in reality. Part 029 gives Descartes' counter: the idea of God is not formed successively from amplified creaturely perfections but grasped all at once as infinite being incapable of amplification. Part 036 answers that this all-at-once claim either conflicts with divine impression or simply begs the disputed point."
 
 - term: "conservatio / creatio"
   handle: "term:gassendi-conservatio-creatio"
@@ -394,7 +453,7 @@
     - "conservation / creation"
     - "preservation / creation"
   status: open
-  notes: "Part 018 rejects Descartes' claim that conservation differs from creation only by reason. Gassendi separates a thing's first production from its later persistence and says not every persisting thing is newly created at each moment. Part 019 gives Descartes' counter: creatures need continuous first-cause influx to be conserved. Part 020 presses the unintelligibility of continued production: what is made must not be, but what is supposedly made continuously is found continuously to be."
+  notes: "Part 018 rejects Descartes' claim that conservation differs from creation only by reason. Gassendi separates a thing's first production from its later persistence and says not every persisting thing is newly created at each moment. Part 019 gives Descartes' counter: creatures need continuous first-cause influx to be conserved. Part 020 presses the unintelligibility of continued production: what is made must not be, but what is supposedly made continuously is found continuously to be. Part 023 challenges the claim that conservation uses the same force and action as new creation and rejects the move from Scholastic/supernatural doctrine to natural-light manifestness."
 
 - term: "causa secundum fieri / causa secundum esse"
   handle: "term:gassendi-causa-fieri-esse"
@@ -404,7 +463,7 @@
     - "cause according to becoming / cause according to being"
     - "cause in becoming / cause in being"
   status: open
-  notes: "Part 019 makes Descartes' Scholastic distinction explicit. Architect and father are causes `secundum fieri`; God is cause of creatures both `secundum fieri` and `secundum esse`, hence must continuously conserve them. Part 020 treats this as Scholastic renaming of Gassendi's prior two cause-effect types and asks for the missing demonstration that God is first creator before he can be assigned as conserving cause in being."
+  notes: "Part 019 makes Descartes' Scholastic distinction explicit. Architect and father are causes `secundum fieri`; God is cause of creatures both `secundum fieri` and `secundum esse`, hence must continuously conserve them. Part 020 treats this as Scholastic renaming of Gassendi's prior two cause-effect types and asks for the missing demonstration that God is first creator before he can be assigned as conserving cause in being. Part 025 reopens parents as producing causes and insists that Descartes has not shown why thinking parent-minds with the idea of God cannot satisfy the causal maxim."
 
 - term: "regressus in infinitum"
   handle: "term:gassendi-regressus-in-infinitum"
@@ -413,7 +472,7 @@
   alternatives:
     - "progression to infinity"
   status: open
-  notes: "Part 018 allows an infinite regress in generated causes such as parentage unless Descartes first proves that the world began. The regress is absurd only in subordinated causes where the lower cannot act without a present higher mover. Part 019 responds by classing the relevant causes as causes in being, not parent-like causes in becoming."
+  notes: "Part 018 allows an infinite regress in generated causes such as parentage unless Descartes first proves that the world began. The regress is absurd only in subordinated causes where the lower cannot act without a present higher mover. Part 019 responds by classing the relevant causes as causes in being, not parent-like causes in becoming. Part 026 clarifies Gassendi's reply: the disputed series is accidentally subordinated causes in becoming, where descendants can act after ancestors are gone, not essentially subordinated causes in being."
 
 - term: "nativa mentis vis"
   handle: "term:gassendi-nativa-mentis-vis"
@@ -422,7 +481,7 @@
   alternatives:
     - "mind's native power"
   status: open
-  notes: "Part 014 gives a compact formula for idea-formation: things perceived by sight or hearing are thought by the mind and by its native force compared, joined, and amplified. This is a positive Gassendi alternative to innate objective reality, though still dependent on received materials."
+  notes: "Part 014 gives a compact formula for idea-formation: things perceived by sight or hearing are thought by the mind and by its native force compared, joined, and amplified. This is a positive Gassendi alternative to innate objective reality, though still dependent on received materials. Part 060 applies the same structure to geometry: intellect composes, divides, subtracts, deduces, and otherwise handles ideas once drawn from singular things."
 
 - term: "idem numero / individuum"
   handle: "term:gassendi-idem-numero-individuum"
@@ -441,7 +500,7 @@
   alternatives:
     - "continuous influx"
   status: open
-  notes: "Part 019 uses Descartes' continuous first-cause influx for conservation. Part 020 clarifies that Gassendi does not deny sound metaphysical or theological claims about first-cause influx, only Descartes' inference from that doctrine."
+  notes: "Part 019 uses Descartes' continuous first-cause influx for conservation. Part 020 clarifies that Gassendi does not deny sound metaphysical or theological claims about first-cause influx, only Descartes' inference from that doctrine. Part 024 states the exact disputed thesis: whether things are preserved by continuous divine influx such that, when the influx is withdrawn, they cannot be preserved but cease to be."
 
 - term: "tempus / duratio"
   handle: "term:gassendi-tempus-duratio"
@@ -461,4 +520,385 @@
     - "moments of time"
     - "parts of time"
   status: open
-  notes: "Part 021 rejects the move from a thing's power to cease at any common moment to private separable moments belonging to that thing. Co-enduring things share one duration; their possible ceasing does not multiply time into internal time-parts."
+  notes: "Part 021 rejects the move from a thing's power to cease at any common moment to private separable moments belonging to that thing. Co-enduring things share one duration; their possible ceasing does not multiply time into internal time-parts. Part 022 says Descartes takes the power of ceasing at moments for the moments of time themselves and thereby confuses the enduring thing with duration."
+
+- term: "petitio principii"
+  handle: "term:gassendi-petitio-principii"
+  kind: problem
+  preferred: "begging the question"
+  alternatives:
+    - "assuming the principle"
+  status: open
+  notes: "Part 022 names a petitio principii in the time-conservation proof. To say the mind is created again or as if created assumes prior creation by God, God as creator, and God's existence, while the argument is supposed to prove those very claims. Part 061 applies the same charge to the essence/existence proof: listing existence among God's perfections in order to conclude that God exists assumes the contested conclusion as a principle. Part 064 locates the root paralogism in the transition from what belongs to a thing's nature in the idea to what belongs to the thing outside intellect. Part 065 compresses the charge: Descartes assumes existence in order to prove existence."
+
+- term: "status idealis / status realis"
+  handle: "term:gassendi-status-idealis-realis"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "ideal state / real state"
+    - "state in idea / state in reality"
+  status: open
+  notes: "Part 064 names the difference between remaining in the idea-state and going out into the real-state. In the ideal state, golden mountain and rational animal both carry true immutable predicates within their ideas; the difference appears only in the real state, where experience becomes the criterion. Part 065 applies the distinction to divine nature: existence in the idea of God is not existence in God in himself."
+
+- term: "syllogistica forma"
+  handle: "term:gassendi-syllogistica-forma"
+  kind: method
+  preferred: "syllogistic form"
+  alternatives:
+    - "syllogistic reconstruction"
+  status: open
+  notes: "Part 030 begins Gassendi's Instantia after Dubitatio X by recasting Descartes' closing meditation into syllogistic form. The method exposes whether Descartes has supplied a genuine inference or merely repeated the assertion to be proved. Part 031 uses the form to isolate the third argument from having the idea of God to God's existence, then tests the content of that idea."
+
+- term: "creatio ex nihilo / praejacens materia"
+  handle: "term:gassendi-creatio-ex-nihilo-praejacens-materia"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "creation from nothing / preexisting matter"
+    - "creation ex nihilo / preexistent matter"
+  status: open
+  notes: "Part 023 says Descartes has not proved that the first cause's action is creation from nothing rather than production from eternally preexisting matter or simple administration of an eternal world."
+
+- term: "lumen naturale / lumen supernaturale"
+  handle: "term:gassendi-lumen-naturale-supernaturale"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "natural light / supernatural light"
+  status: open
+  notes: "Part 023 attacks Descartes' claim that conservation's difference from creation by reason alone is manifest by natural light. Gassendi says Scholastics refer creation and conservation chiefly to supernatural light, while philosophers using natural light denied creation from nothing. Part 032 records a less directly contested natural-light premise, that fraud and deception depend on defect, but Gassendi denies that Descartes has the demonstrated defectlessness needed to use it."
+
+- term: "negatio concursus / actio positiva"
+  handle: "term:gassendi-negatio-concursus-actio-positiva"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "negation of concurrence / positive action"
+    - "withdrawal of concurrence / positive action"
+  status: open
+  notes: "Part 024 asks why it would count as an imperfection if God destroyed something not only by withdrawing concurrence but also by positive action. The bull example tests whether mediated divine concurrence in destruction differs from immediate divine positive action."
+
+- term: "parentes / mens parentum"
+  handle: "term:gassendi-parentes-mens-parentum"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "parents / minds of parents"
+    - "parental producing causes"
+  status: open
+  notes: "Part 025 returns to parents as obvious producing causes. Gassendi argues that if Descartes appeals to the mind as thinking and having the idea of God, the parents or their minds were also thinking things with the idea of God, unless Descartes denies their minds, thought, God-idea, or sufficient objective reality."
+
+- term: "nota artificis"
+  handle: "term:gassendi-nota-artificis"
+  kind: image_model
+  preferred: "artisan's mark"
+  alternatives:
+    - "mark of the artisan"
+    - "maker's mark"
+  status: open
+  notes: "Part 028 takes up Descartes' claim that the idea of God is like an artisan's mark impressed on the work. Gassendi presses the analogy for mechanism: what is the mark's form, how is it impressed, and how is it distinguished if it is not distinct from the work itself? Part 029 answers through Apelles: inimitable artistry can function as a maker's mark without being a separate mark-shape. Part 037 separates a workmanship-mark from an image-mark: a painting may reveal Apelles' skill without representing Apelles' person."
+
+- term: "imago / similitudo Dei"
+  handle: "term:gassendi-imago-similitudo-dei"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "image / likeness of God"
+  status: open
+  notes: "Part 028 distinguishes religious credibility from natural proof. Gassendi says divine likeness is credible by faith, but natural reason cannot infer likeness from creation unless God is made human-shaped; likeness follows from generation through communication of nature, not from created workmanship. Part 029 gives Descartes' reply: an image need imitate only in some respects, and imperfect human thinking can represent perfect divine thinking. Part 037 sharpens Gassendi's distinction: the disputed mark must be an image or likeness, not merely a sign of the maker's expertise. Part 038 grants image-of-God by faith but requires, for natural demonstration, enough conformity for God to be recognized through the image."
+
+- term: "prototypum / ectypum"
+  handle: "term:gassendi-prototypum-ectypum"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "prototype / copy"
+    - "prototype / image"
+  status: open
+  notes: "Part 038 introduces prototype/copy conformity to clarify image-likeness. An image need not share all inner perfections, but it must reciprocally conform enough for the prototype to be recognized and distinguished."
+
+- term: "essentiae rerum indivisibiles"
+  handle: "term:gassendi-essentiae-rerum-indivisibiles"
+  kind: concept
+  preferred: "indivisible essences"
+  alternatives:
+    - "essences of things are indivisible"
+  status: open
+  notes: "Part 029 introduces Descartes' reply that an idea represents a thing's essence, and if anything is added or subtracted it becomes the idea of another thing. Newly noticed divine perfections make the idea clearer, not larger. Part 033 answers that if essence and idea are indivisible, one known attribute would already contain the whole; if not, essence has a breadth of attributes and the idea admits additions. Part 034 rejects point-like indivisibility for divine essence and treats indivisibility instead as an inseparable nexus of essential attributes."
+
+- term: "essentia / existentia"
+  handle: "term:gassendi-essentia-existentia"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "essence / existence"
+  status: open
+  notes: "Part 056 challenges the Scholastic distinction when used to make essences eternal apart from God. If essence is the chief thing in things, then God's production of existence risks becoming only the addition of a garment; Gassendi instead presses essences back toward singular things and intellect's abstraction. Part 057 gives Descartes' reply: immutable essences are not existing things independent of God, but they are eternal because God willed and disposed them so. Part 059 answers by dilemma: if natures are unproduced, they are independent of God; if produced, they pass from non-being to being, become effects, terminate in existence, and cannot serve as non-existing eternal natures. Part 061 reopens the pair in the ontological proof: essence and existence can be separated in thought for God as for Plato or triangle, and pairing God's existence with the triangle's angle-property is an illicit comparison. Part 062 gives Descartes' answer: God is his own being, unlike triangle, so divine essence and existence cannot be thought apart in the same way."
+
+- term: "existentia / perfectio"
+  handle: "term:gassendi-existentia-perfectio"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "existence / perfection"
+    - "existence as condition of perfections"
+  status: open
+  notes: "Part 061 denies that existence is a perfection in God or in any other thing. Existence is that without which neither a thing nor its perfections are; if a thing lacks existence, it is not so much imperfect as nothing. Part 062 replies by distinguishing possible existence as a perfection in the idea of triangle from necessary existence as a perfection in the idea of God. Part 063 restates the objection under property-language: a property can be removed while a subject remains, but removed existence leaves nothing to call imperfect or deprived. Part 065 closes the attack by saying Descartes counts existence among perfections and then uses existence to prove existence."
+
+- term: "proprietas / attributum"
+  handle: "term:gassendi-proprietas-attributum"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "property / attribute"
+    - "physical property / logical attribute"
+  status: open
+  notes: "Part 063 distinguishes `proprietas` as physical and independent of intellectual operation from `attributum` as logical and dependent on the intellect that attributes or predicates. Every property can become an attribute, but not every attribute is a property; this lets Gassendi reject Descartes' broad property-language for existence."
+
+- term: "veritates mathematicae"
+  handle: "term:gassendi-veritates-mathematicae"
+  kind: concept
+  preferred: "mathematical truths"
+  alternatives:
+    - "geometrical truths"
+  status: open
+  notes: "Part 057 records Descartes' defense that mathematical truths and essences are not independent of God, but are immutable and eternal because God so willed and disposed them. Their nonconformity to atomist or Gassendist physical nature is only an extrinsic denomination unless one rejects geometry wholesale. Part 059 prepares Gassendi's answer by restating Descartes' argument as a syllogism: ideas of non-sensed figures with demonstrable properties are supposed to prove immutable, eternal, non-abstracted natures."
+
+- term: "universale / singulare"
+  handle: "term:gassendi-universale-singulare"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "universal / singular"
+    - "common nature / singular nature"
+  status: open
+  notes: "Part 056 says nothing in Plato is universal, only singular. Universal human nature is a common concept abstracted by intellect from similar singular natures such as Plato and Socrates; it cannot be explained as universal before singulars existed and before intellect abstracted. Part 059 makes the positive route explicit: universal natures depend on God through the singulars from which they are formed and through the God-authored intellect whose consideration makes them universal."
+
+- term: "possibilitas / actus"
+  handle: "term:gassendi-possibilitas-actus"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "possibility / act"
+    - "possible / actual"
+  status: open
+  notes: "Part 059 denies present reality or truth to uncreated, non-existing possibles. If a nature is produced, it passes from possibility to act and becomes an effect terminating in existence; if it remains merely possible, any reality or truth attributed to it must be understood as future, not presently possessed."
+
+- term: "idea trianguli"
+  handle: "term:gassendi-idea-trianguli"
+  kind: analogy
+  preferred: "idea of a triangle"
+  alternatives:
+    - "triangle analogy"
+  status: open
+  notes: "Part 029 uses the triangle analogy for Descartes' defense of innate idea-content: a shared idea can have properties not yet noticed by everyone, and noticing them does not increase the idea's essence. Part 036 blocks the analogy until Descartes can show that divine essence and all essential attributes are as explored and ready-to-hand as the three lines constituting a triangle. Part 039 rejects the analogy again because disagreement about God concerns basic nature, not merely unnoticed properties. Part 056 moves the triangle into abstraction: the mental or ideal triangle is a rule for judging material triangles, formed by intellect from seen material figures, not a real nature outside intellect from which material triangles borrow their properties. Part 057 gives Descartes' answer: a painted triangle is only an occasion for recognizing the prior idea of the true triangle, since sensed lines are never truly straight under scrutiny. Part 060 answers that the geometrical triangle comes through instruction, Euclid, study, or reasoning from sensed figures while abstracting from width and depth; the paper triangle does not contain the indivisible triangle as rough wood contains Mercury."
+
+- term: "facultas cognoscendarum rerum"
+  handle: "term:gassendi-facultas-cognoscendarum-rerum"
+  kind: concept
+  preferred: "faculty for knowing things"
+  alternatives:
+    - "cognitive power for things"
+    - "innate knowing faculty"
+  status: open
+  notes: "Part 060 reduces talk of innate ideas to an innate faculty or cognitive power for knowing things. Alleged innate ideas do no explanatory work unless attending to them yields cognition; real cognition begins with things outside intellect, seen or described singulars, and later generalization."
+
+- term: "subordinatio accidentaria / essentialis"
+  handle: "term:gassendi-subordinatio-accidentaria-essentialis"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "accidental subordination / essential subordination"
+    - "accidentally subordinated causes / essentially subordinated causes"
+  status: open
+  notes: "Part 026 uses the distinction to defend parentage against Descartes' regress reply. Essential subordination applies where the lower cannot act without the higher; accidental subordination applies to generative sequences such as father, grandfather, and descendants, where later causes can act after prior causes are gone."
+
+- term: "facultas judicandi"
+  handle: "term:gassendi-facultas-judicandi"
+  kind: concept
+  preferred: "faculty of judgment"
+  alternatives:
+    - "judging faculty"
+  status: open
+  notes: "Part 040 opens the Fourth Meditation exchange by asking why a God-created finite faculty of judgment had to be liable to error. Gassendi's alternative is not an infinite human faculty but a finite faculty that assents only where it clearly knows and withholds judgment otherwise. Part 044 sharpens the point: the issue is not why the faculty is not greater or infinite, but why it is errant, unequal, entangled, and uncertain in the few matters God wants humans to judge. Part 045 states the distinction as defect versus smallness: the question is why a finite faculty was not made perfect in its own kind."
+
+- term: "imperfectio positiva / negatio majoris perfectionis"
+  handle: "term:gassendi-imperfectio-positiva-negatio-majoris-perfectionis"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "positive imperfection / negation of greater perfection"
+    - "positive defect / lack of greater perfection"
+  status: open
+  notes: "Part 044 records Descartes' response that liability to error is not a positive imperfection but only, especially with respect to God, a negation of greater perfection in creatures. Gassendi's `Dubitatio II` presses the opposite side by treating error-liability as a real defect in the judging faculty considered in its own office, not mere smallness within the universe. Part 045 attacks the category shift directly: imperfection as imperfection is privative, but that does not make an erring power perfect qua erring; wickedness and error can be called privative in parallel."
+
+- term: "concursus Dei"
+  handle: "term:gassendi-concursus-dei"
+  kind: concept
+  preferred: "divine concurrence"
+  alternatives:
+    - "God's concurrence"
+    - "concurrence of God"
+  status: open
+  notes: "Part 044 records Descartes' distinction: God concurs with the act of erring insofar as every act depending on God is true and good, but not with the privation in which falsity and fault formally consist. Gassendi answers that God still concurs with the act without which the privation would not be, and authored the fallible power itself."
+
+- term: "voluntas / intellectus"
+  handle: "term:gassendi-voluntas-intellectus"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "will / intellect"
+    - "will / understanding"
+  status: open
+  notes: "Part 046 opens the will/intellect dispute over error. Gassendi temporarily accepts Descartes' vocabulary but denies that will or judgment extends beyond intellect: will judges nothing not first presented by intellect, and intellect may even range more widely through obscure apprehensions left unjudged. Descartes replies that will reaches into cases where we judge more than we understand. Part 047 withdraws the concession and restores the common cognitive/appetitive split: cognition belongs to intellect, appetite to will. Part 048 applies the distinction to Descartes' examples: if will means judging intellect, it cannot outrun simple apprehension; if it means appetite, it cannot will error as error. Part 049 roots will's flexibility in intellect's flexibility: appetite changes only when the apprehended good changes, just as judgment changes only when the apprehended truth changes. Part 050 answers Descartes' non-perseverance argument by assigning the corrective move to intellect again, now through a reflexive judgment that first notions should be examined."
+
+- term: "simplex apprehensio / judicium / ratiocinatio"
+  handle: "term:gassendi-simplex-apprehensio-judicium-ratiocinatio"
+  kind: concept_sequence
+  preferred: null
+  alternatives:
+    - "simple apprehension / judgment / reasoning"
+    - "apprehension / enunciation / ratiocination"
+  status: open
+  notes: "Part 047 gives Gassendi's three intellectual operations: simple apprehension without affirmation or negation; judgment or enunciation, affirming or denying; and reasoning or illative judgment, inferring one thing from another. This sequence lets him place judgment and reasoning under intellect rather than will."
+
+- term: "potentia caeca"
+  handle: "term:gassendi-potentia-caeca"
+  kind: image_model
+  preferred: "blind power"
+  alternatives:
+    - "blind faculty"
+    - "blind will"
+  status: open
+  notes: "Part 047 calls will a blind power: it tends toward nothing and flees nothing unless intellect carries the torch. The formula supports Gassendi's claim that willing, avoiding, commanding, and abstaining follow intellectual presentation and judgment."
+
+- term: "esse in re / intelligi esse in re"
+  handle: "term:gassendi-esse-in-re-intelligi-esse-in-re"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "being in the thing / being understood as in the thing"
+    - "to be in the thing / to be understood to be in the thing"
+  status: open
+  notes: "Part 048 distinguishes the truth-maker side of judgment from the cognition side. Whether something is or is not in the thing belongs to the truth or falsity of judgment; that it is understood as being in the thing belongs to making a judgment at all. False judgment is not understanding what is not understood, but understanding something as in the thing when it is not in the thing."
+
+- term: "falsitas / conformitas"
+  handle: "term:gassendi-falsitas-conformitas"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "falsity / conformity"
+    - "privation of conformity"
+  status: open
+  notes: "Part 051 locates falsity properly in intellect and especially in judgment as a lack or privation of conformity between judgment and thing. Outside intellect, things are transcendentally true as what they are; a thing is called false only by extrinsic denomination, as orichalcum is called false gold when intellect takes its yellow species for gold."
+
+- term: "indifferentia voluntatis"
+  handle: "term:gassendi-indifferentia-voluntatis"
+  kind: concept
+  preferred: "indifference of the will"
+  alternatives:
+    - "will's indifference"
+  status: open
+  notes: "Part 046 tests whether the will can determine itself where intellect supplies no stronger reason. Gassendi treats indifference as suspension until greater likelihood appears; mere knowledge that conjectures are conjectures can produce hesitation, not contrary assent. Descartes answers that indifference is known by inner experience, and that avoiding perseverance in error already shows will can move without intellectual determination. Part 049 accepts indifference in will but denies independent self-determination: will's indifference follows intellect's presentation of apparent goods and better-seeming goods."
+
+- term: "indifferentia / libertas / libentia"
+  handle: "term:gassendi-indifferentia-libertas-libentia"
+  kind: concept_cluster
+  preferred: null
+  alternatives:
+    - "indifference / freedom / willing gladness"
+    - "indifference / liberty / libentia"
+  status: open
+  notes: "Part 049 separates `indifferentia` from `libertas`: indifference is wider than freedom and can belong to a board, water, the sun, and intellect, while freedom belongs properly to will. The blessed will's necessary adherence to the supreme good is not coercion but fullest consent, which Gassendi says is better called `libentia` or supreme `libentia` than freedom in the indifferent sense."
+
+- term: "causae finales / causae efficientes"
+  handle: "term:gassendi-causae-finales-efficientes"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "final causes / efficient causes"
+    - "ends / efficient causes"
+  status: open
+  notes: "Part 040 contests Descartes' rejection of final causes in physics. Gassendi treats visible use, anatomical fittedness, and especially the valves of the heart as natural-light evidence for divine wisdom, providence, power, and existence. Descartes replies that whatever Gassendi adduces for final causes must be referred to efficient causes in physics, while conjecture about divine ends belongs, at most, to ethics. Part 042 turns this into a distinction: if final-cause praise is referred to the maker, Gassendi agrees; if final causes are dismissed from physics, the route to efficient cause is lost. Final order is the step by which the world's maker is recognized."
+
+- term: "idea nihili / idea negativa"
+  handle: "term:gassendi-idea-nihili-negativa"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "idea of nothing / negative idea"
+    - "idea of non-being / negative idea"
+  status: open
+  notes: "Part 040 introduces the pressure around Descartes' account of error through participation in nothingness. Gassendi says the idea of nothing and participation in non-being remain unexplained; Descartes answers that the idea is negative and signifies only that we are not the supreme being and lack many things. Part 041 sharpens the pressure: an idea without an object is an image of no thing, and participation in non-being seems to divide the self into something and nothing."
+
+- term: "clara et distincta notitia"
+  handle: "term:gassendi-clara-distincta-notitia"
+  kind: concept
+  preferred: "clear and distinct cognition"
+  alternatives:
+    - "clear and distinct knowledge"
+    - "clear and distinct perception"
+  status: open
+  notes: "Part 041 isolates the circular burden on clear and distinct cognition. Descartes has not yet proved that it is non-fallacious, because that proof depends on God as non-deceptive author; nevertheless he assumes it as true in order to prove God and God's authorship of the cognition itself. This gathers earlier circle-pressure from Parts 011, 014, and 017 under the Meditation IV vocabulary. Part 052 shifts the pressure from the truth of clear and distinct cognition to the method for recognizing when cognition is genuinely clear and distinct rather than only apparently so. Part 054 sharpens the counterfeit case: many think they have clear and distinct cognition and are deceived, so the name alone cannot serve as its own mark. Part 066 shifts the issue to memory and science: Descartes says remembered clear and distinct demonstrations require knowledge of a non-deceptive God, while Gassendi treats geometry as self-compelling."
+
+- term: "certitudo / scientia vera"
+  handle: "term:gassendi-certitudo-scientia-vera"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "certainty / true science"
+    - "certainty and truth of science"
+  status: open
+  notes: "Part 066 introduces Descartes' claim that no certainty or true science can be had without cognition of the true God. Gassendi answers that geometrical demonstrations compel assent by themselves and do not appear to borrow certainty from the theological proof."
+
+- term: "methodus discernendi"
+  handle: "term:gassendi-methodus-discernendi"
+  kind: method
+  preferred: "method of discernment"
+  alternatives:
+    - "art or method"
+    - "method for distinguishing clear perception"
+  status: open
+  notes: "Part 052 names the still-desired method: not the rule that one should attend to what is clearly and distinctly understood, but the art by which genuine clear and distinct understanding is distinguished from what merely seems clear and distinct. Part 053 presses Descartes to identify where and when this method was actually delivered, treating the Fourth Meditation formula as a possible epitome to be tested. Part 054 makes the method necessary even after granting God as author, because subjects can mistake merely apparent clarity for genuine clarity. Part 055 extends the demand to exhaustive survey and method rules: the needed method must show that nothing has been omitted and that each rule has been satisfied."
+
+- term: "regulae methodi"
+  handle: "term:gassendi-regulae-methodi"
+  kind: method
+  preferred: "rules of method"
+  alternatives:
+    - "four method rules"
+    - "rules from the Discourse on Method"
+  status: open
+  notes: "Part 055 tests Descartes' four rules: admit only clear and distinct cognition, divide difficulties, proceed from simpler and better known things to composites, and enumerate completely. Gassendi's objection is meta-methodological: none of the rules says how to recognize that clarity, division, ordering, or enumeration has been achieved sufficiently."
+
+- term: "usus / finis"
+  handle: "term:gassendi-usus-finis"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "use / end"
+    - "function / end"
+  status: open
+  notes: "Part 042 identifies `usus` and `finis` in the final-cause argument. To admire God from the use of parts is already to admire him as author of the end; the bridge analogy shows ordered use turning a structure into evidence of an artisan, intention, design, and power."
+
+- term: "causa prima / causa secunda"
+  handle: "term:gassendi-causa-prima-secunda"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "first cause / secondary cause"
+    - "universal cause / particular cause"
+    - "remote cause / proximate cause"
+  status: open
+  notes: "Part 042 distinguishes naming God as first and universal cause from identifying the secondary, particular, singular, and proximate natural cause. Gassendi says the former is pious and generic; the latter is the real labor of physics, and philosophers usually fall back to probability or silence when asked for it."
+
+- term: "imagines corporeae"
+  handle: "term:gassendi-imagines-corporeae"
+  kind: image_model
+  preferred: "corporeal images"
+  alternatives:
+    - "images of corporeal things"
+    - "bodily images"
+  status: open
+  notes: "Part 043 denies Descartes' claim that senses and corporeal images do not help at all in perceiving the ideas of God and mind. Corporeal images can mislead if taken literally as representations of God, but they also serve as occasions and quasi-steps by which the mind ascends from visible perfections to divine perfections."
