@@ -76,6 +76,20 @@ Sequential translation now begins at this direct anchor:
 - `sources/latin/gassendi-disquisitio-metaphysica/parts/064-idea-state-and-real-state-paralogism.md`
 - `sources/latin/gassendi-disquisitio-metaphysica/parts/065-assumption-divine-nature-and-existence-in-idea.md`
 - `sources/latin/gassendi-disquisitio-metaphysica/parts/066-certainty-truth-and-the-skeptics.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/067-skeptics-hypotheses-and-natural-certainty.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/068-intellection-imagination-and-degree.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/069-response-two-modes-and-true-idea-of-mind.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/070-chiliagon-name-and-distinct-perception.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/071-mind-alone-and-corporeal-accommodation.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/072-sense-appearance-and-judgment.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/073-prejudice-tower-and-external-truth.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/074-separability-mind-body-and-subtle-body.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/075-response-separability-and-subtle-body.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/076-paralogism-and-divine-power.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/077-gross-body-subtle-body-and-precision.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/078-formal-proof-and-divine-power.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/079-criterion-triangle-and-complete-things.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/080-complete-substances-and-inadequate-cognition.md`
 
 ## Related Vol. 2 Gassendi Material
 
@@ -115,6 +129,20 @@ Current use:
 - Part 064: the ideal-state/real-state distinction gives the epistemic form of the objection. Conceptual containment in an idea authorizes truth only inside the idea; experience in the real state must adjudicate conformity to extra-mental things.
 - Part 065: the minor-premise attack closes the ontological-proof section by denying that description of God's idea demonstrates God, and by separating existence in idea from existence in reality.
 - Part 066: the certainty section returns the circle pressure to mathematics. Gassendi resists making geometrical demonstration depend on prior knowledge of God, while Descartes answers through the skeptical doubt of demonstrations.
+- Part 067: Gassendi answers the skeptic appeal by separating appearances from hypotheses and making natural certainty depend on evidence, not on theological certainty.
+- Part 068: Meditation VI reopens Cassirer's image-theory pressure directly. Gassendi refuses a categorical separation between intellection and imagination and treats even immaterial ideas as corporeal or quasi-corporeal representations.
+- Part 069: Descartes gives the counter-pole. The chiliagon can be clearly understood without complete imaginative inspection; intellection and imagination are two modes of operation; and the true idea of mind contains thought alone rather than a corporeal image.
+- Part 070: Gassendi replies that Descartes' chiliagon clarity is clarity of name or definition unless distinct perception can grasp parts one by one. The image-theory pressure therefore becomes a criterion problem for clear and distinct cognition itself.
+- Part 071: Gassendi clarifies that corporeal or quasi-corporeal representation is an accommodation to finite weakness, not an adequate account of God, angel, or mind. This keeps Cassirer's image-theory pressure from being read as simple corporeal reduction.
+- Part 072: the Sixth Meditation sense section gives Cassirer's sensory-truth pressure a compact source witness. Gassendi separates passive appearance from judgment-error, while Descartes insists the disputed issue is truth of external things.
+- Part 073: Gassendi answers the prejudice charge by naming a probabilistic anti-prejudice method and by using corrected tower evidence against hyperbolic doubt. This gives Cassirer's empiricism problem a non-dogmatic sensory method rather than a flat appeal to sensation.
+- Part 074: Gassendi attacks the mind-body separability proof by distinguishing separate clear conception from real separability and by shifting the problem from gross body to the unproved exclusion of subtle body.
+- Part 075: Descartes' response gives the counterclaim: the proof covers every body, however subtle, and Gassendi is the one confusing intelligibility with real being.
+- Part 076: Gassendi answers that the confusion belongs to Descartes: separate concepts do not imply real separation, and a divine-power rule grounded in Descartes' own distinct perception is private assurance rather than public demonstration.
+- Part 077: Gassendi keeps the subtle-body alternative open by distinguishing precise consideration from exclusion: mind can be considered as thinking thing or substance without that proving incorporeality.
+- Part 078: Gassendi reconstructs the separability proof as private self-persuasion rather than public method, and splits divine power into absolute theology or ordinary natural concurrence, neither of which supplies the needed natural demonstration.
+- Part 079: Gassendi asks for a criterion of separability and frames the next problem: Descartes' complete-entity restriction may already assume what the mind-body proof must establish.
+- Part 080: Gassendi argues that the complete-substance restriction begs the question and that finite, inadequate cognition cannot rule out an indivisible nexus binding thought and extension.
 
 ## Boundary
 

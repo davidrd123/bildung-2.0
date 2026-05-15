@@ -1542,3 +1542,374 @@ Re-entry:
 
 - Continue with `INSTANTIA. Nihil heic addendum`.
 - Watch Gassendi answer the appeal to skeptics and distinguish apparent/life-useful things from obscure or ostentatious dogmatic claims.
+
+## 2026-05-15 - Skeptics, Hypotheses, And Natural Certainty
+
+Drafted `parts/067-skeptics-hypotheses-and-natural-certainty.md`, covering Gassendi's `Instantia` after Descartes' response to `Dubitatio III` in `In Meditationem V`, on standalone printed pages `258` partial through `261` partial.
+
+What this tranche clarified:
+
+- Gassendi denies that skeptics seriously doubted apparent things, life-useful things, or plain geometrical conclusions.
+- Skeptical attacks are directed against hidden, uncertain, ostentatious claims and dogmatic arrogance.
+- In astronomy, hypotheses may preserve and predict eclipses and planetary configurations without being genuine natural mechanisms.
+- In geometry, triangle and Pythagorean results count as apparent; skeptical pressure falls on hypothetical modes of demonstration such as indivisible points, lines, and surfaces.
+- Demonstration is treated as direction of attention: it shows where to look, like directing someone to a mark on a face.
+- Gassendi distinguishes what is better known in itself from what is better known to us, and gives priority to the knower-relative sense for natural certainty.
+- Divine nature has greater necessity in itself, but geometry can be clearer and more evident to us.
+- Natural certainty depends on evidence, so mathematical certainty does not depend on theological certainty.
+- The Diagoras case tests independence: loss of belief in God need not erase mathematical demonstration.
+- The `ego cogito; igitur exsisto` is treated as Descartes' foundation before God is known, so God cannot later ground that foundation without reversing the order of support.
+
+Glossary addition earned: `apparentia / hypothesis`; `certitudo / scientia vera` and `clara et distincta notitia` updated.
+
+Crosswalk pressure:
+
+- This part deepens the Cassirer certainty problem: Gassendi's empiricism does not reduce geometry to theology, but treats evident demonstration and experience-facing appearances as independent natural grounds of certainty.
+
+Re-entry:
+
+- Continue with `In Meditationem VI`.
+- Watch the next section reopen the intellect/imagination distinction and the existence of material things.
+
+## 2026-05-15 - Intellection, Imagination, And Degree
+
+Drafted `parts/068-intellection-imagination-and-degree.md`, opening `In Meditationem VI`, `Dubitatio I`, on standalone printed pages `261` partial through `263` partial.
+
+What this tranche clarified:
+
+- Gassendi notes but does not dwell on the claim that material things can exist as objects of pure mathematics; material things are objects of mixed mathematics, while pure mathematical objects such as point, line, and surface cannot exist in reality.
+- The main target is Descartes' distinction between intellection and imagination.
+- Gassendi treats intellection and imagination as actions of one and the same faculty, differing only according to more and less.
+- The triangle/chiliagon/myriagon case becomes a continuum: distinctness and exertion decline gradually as figures gain sides, while confusion and slackening increase.
+- No determinate figure marks where imagination stops and intellection alone remains.
+- Descartes' distinction appears to degrade intellection as negligent/confused and praise imagination as diligent/perspicuous.
+- If imagining and understanding are one power differing by degree, imagination cannot be excluded from mind's essence as a distinct power.
+- Mind cannot turn to itself or to an idea without also turning toward something corporeal or represented by a corporeal idea.
+- Ideas of God, angels, and the human soul/mind are still corporeal or quasi-corporeal borrowings from human form or subtle bodies such as air/aether.
+
+Glossary update earned: `intellectio / imaginatio`.
+
+Crosswalk pressure:
+
+- This passage reconnects Cassirer's image-theory pressure to the Sixth Meditation. Gassendi makes imagination and intellection continuous rather than categorically distinct, and routes even immaterial ideas through corporeal or quasi-corporeal representation.
+
+Re-entry:
+
+- Continue with Descartes' `RESPONSIO. De eo quod neges res materiales`.
+- Watch Descartes defend the intellection/imagination distinction as two genuinely different modes of operation, not merely more and less.
+
+## 2026-05-15 - Two Modes And The True Idea Of Mind
+
+Drafted `parts/069-response-two-modes-and-true-idea-of-mind.md`, covering Descartes' `Responsio` to `Dubitatio I` in `In Meditationem VI`, on standalone printed pages `263` partial through `264` partial.
+
+What this tranche clarified:
+
+- Descartes rejects Gassendi's claim that the chiliagon is understood only confusedly or by the force of the name.
+- The proof is demonstrability: many things can be demonstrated distinctly and clearly about the chiliagon.
+- Descartes separates all-at-once clear understanding from all-at-once imagination.
+- Intellection and imagination differ not by more and less, but as two plainly different modes of operation.
+- In intellection the mind uses itself alone; in imagination it contemplates corporeal form.
+- Geometrical figures are corporeal, but the ideas by which they are understood need not be corporeal when they do not fall under imagination.
+- The rebuke `o caro` answers Gassendi's earlier `o Mens` and sharpens the mind/flesh opposition.
+- The true idea of mind contains only thought and its non-corporeal attributes, not a corporeal or quasi-corporeal image.
+
+Glossary updates earned: `intellectio / imaginatio`; `mens`.
+
+Crosswalk pressure:
+
+- This passage supplies the Cartesian counter-pole to Gassendi's image-theory pressure. Descartes makes clear understanding independent of complete imagination and treats the true idea of mind as non-corporeal thought rather than image.
+
+Re-entry:
+
+- Continue with Gassendi's `INSTANTIA` beginning `De eo, quod circa res materialeis`.
+- Watch Gassendi test whether Descartes has clarified the figure itself, the name, or only demonstrable properties attached to the name.
+
+## 2026-05-15 - Chiliagon, Name, And Distinct Perception
+
+Drafted `parts/070-chiliagon-name-and-distinct-perception.md`, covering section I of Gassendi's `Instantia` after Descartes' response to `Dubitatio I` in `In Meditationem VI`, on standalone printed pages `264` partial through `266` partial.
+
+What this tranche clarified:
+
+- Gassendi treats Descartes' reply on material things as a deferral or referral rather than a solution to the pure/mixed mathematics difficulty.
+- The main response returns to the idea/image problem: if an idea is admitted to be an image, then the chiliagon idea must either represent the figure distinctly or fail to be an image.
+- If it distinctly represents the chiliagon's angles, it belongs to imagination; if it does not represent them, it is not an image in the strict sense.
+- Gassendi's own position is that the chiliagon idea is both image and representation, but confused.
+- Distinct perception is tested by part-by-part cognition: knowing or cognitively embracing the individual parts or all angles one by one.
+- A universal, lumped perception does not count as distinct unless Descartes supplies a definition and applies it successfully to the chiliagon.
+- The triangle-to-chiliagon progression remains unanswered: Descartes has not shown where imagination ceases and intellection alone remains.
+- If triangle clarity comes with imagination and chiliagon obscurity belongs to intellect alone, then imagination appears to carry the clearer cognition.
+- Descartes' clear understanding of the chiliagon is reduced to understanding what the name signifies, not clear grasp of the figure itself.
+- If this name-based clarity counts as clear understanding of the whole, then anything nameable could be called clearly understood without being imagined.
+
+Glossary updates earned: `idea`; `intellectio / imaginatio`; `clara et distincta notitia`.
+
+Crosswalk pressure:
+
+- This part sharpens Cassirer's image-theory pressure by forcing Descartes' chiliagon example back through the idea-as-image problem. Gassendi treats conceptual clarity without imaginative grasp as clarity of a name, not clarity of the object.
+
+Re-entry:
+
+- Continue with section `II. Dicis Mentem in intellectione uti se sola`.
+- Watch Gassendi attack the claim that the mind uses itself alone in intellection and turns to body only in imagination.
+
+## 2026-05-15 - Mind Alone And Corporeal Accommodation
+
+Drafted `parts/071-mind-alone-and-corporeal-accommodation.md`, covering section II of Gassendi's `Instantia` after Descartes' response to `Dubitatio I` in `In Meditationem VI`, on standalone printed pages `266` partial through `268` partial.
+
+What this tranche clarified:
+
+- Gassendi reconstructs Descartes' claim about intellection without imagination as a syllogism.
+- The missing proof is the key premise: that mind can turn to itself or to a non-corporeal idea without imagination intervening.
+- Gassendi keeps open that intellection and imagination may be one action under two names.
+- Clear and distinct intellection may track clear and distinct imagination; confused and obscure intellection may track imagination when it is otherwise.
+- Even universal, abstract, consequence-based cognition may involve some image or corporeal form.
+- Gassendi answers the `o caro` rebuke by qualifying, not retracting, his image theory.
+- He does not claim that God, angel, or mind are corporeal forms; he claims he can think them only under corporeal forms accommodated to finite weakness.
+- The represented nature exceeds the idea: it is ineffably and inconceivably purer, more beautiful, and more perfect than the form under which finite intellect thinks it.
+- Gassendi suspects Descartes may have the same experience but refuses to confess it for reputational reasons.
+
+Glossary updates earned: `mens`; `intellectio / imaginatio`; `idea`.
+
+Crosswalk pressure:
+
+- This passage is important for Cassirer's image-theory pressure because it shows Gassendi's view is not simple reduction of God or mind to body. Image remains the finite condition of thought, while the thing thought exceeds the image.
+
+Re-entry:
+
+- Continue with `Dubitatio Secunda. De Sensu non semper fallente`.
+- Watch the argument shift from imagination/intellection to whether the senses always deceive and how judgment handles sensory appearances.
+
+## 2026-05-15 - Sense, Appearance, And Judgment
+
+Drafted `parts/072-sense-appearance-and-judgment.md`, covering `Dubitatio Secunda` in `In Meditationem VI` and Descartes' short `Responsio`, on standalone printed pages `268` partial through `269` partial.
+
+What this tranche clarified:
+
+- Gassendi denies that sensory deception should be placed in passive sense itself.
+- Sense reports appearances as they appear from their causes; falsity belongs to judgment or mind when it fails to account for distance, conditions, or other causes.
+- The dispute is not whether deception happens, but whether it happens so universally that no sensory truth can ever be established.
+- Gassendi's examples preserve corrected sensory certainty: the nearby touched tower, intact bodily pain, actual waking, geometrical demonstration, and the stick drawn from water.
+- Appearances as appearances remain indubitable: things appear as they appear.
+- The Greek `to phainomenon` marks this appearance-as-appearance claim and needs checking if cited closely.
+- Descartes replies that Gassendi is relying on prejudice if he assumes no falsity where none has yet been detected.
+- Descartes grants that appearance-as-appearance returns to the Second Meditation path, but says the live question here is the truth of things outside us.
+
+Glossary additions/updates earned: `sensus / judicium`; `apparentia / hypothesis`; `fallacia / deceptio`.
+
+Crosswalk pressure:
+
+- This part gives a direct source witness for Cassirer's sensory-truth and judgment pressure. Gassendi protects appearances by moving error into judgment, while Descartes insists that the Sixth Meditation issue is external-object truth, not mere appearing.
+
+Re-entry:
+
+- Continue with Gassendi's `INSTANTIA` after `Dubitatio Secunda`.
+- Watch Gassendi answer Descartes' charge that he has retreated from external truth into mere appearance.
+
+## 2026-05-15 - Prejudice, Tower, And External Truth
+
+Drafted `parts/073-prejudice-tower-and-external-truth.md`, covering Gassendi's `Instantia` after `Dubitatio Secunda` in `In Meditationem VI`, on standalone printed pages `269` partial through `273` partial.
+
+What this tranche clarified:
+
+- Gassendi rejects Descartes' charge that he relies on prejudices by distinguishing friendly objection from personal doctrinal assertion.
+- He gives a compact methodological self-portrait: in natural matters he tries to shed prejudices without leaping from one into another.
+- He does not claim possession of truth itself; he follows what seems true or more truthlike and remains ready to abandon a probability for a stronger one.
+- Gassendi reconstructs Descartes' method as an exclusive route: only the Second Meditation withdrawal from sense removes prejudices and grounds knowledge of bodies and sense.
+- Gassendi denies saying that sensory falsity has never been detected; he asks why admitting that sense sometimes deceives should force the claim that it always deceives.
+- The tower case becomes corrected evidence: nearness, touch, measured faces, and counted angles remove the distance-based cause of error.
+- Dreaming, divine deception, and the malicious Genius are treated as unable to overturn manifest evidence in the tower case.
+- If Descartes reaches the same certainty only after immense labors, Gassendi claims the happier and more economical route.
+- Gassendi claims the appearance-as-appearance path as already his own, tied back to the first doubt on the Third Meditation and to skeptical method.
+- The close reverses Descartes' external-truth challenge: if Gassendi has brought nothing true about external things, what truer thing has Descartes brought?
+
+Glossary addition/update earned: `praejudicium / verisimilitudo`; `sensus / judicium`; `fallacia / deceptio`.
+
+Crosswalk pressure:
+
+- This part gives Cassirer's Gassendi chapter a methodological hinge: Gassendi is not simply dogmatic about sensation, but uses a probabilistic anti-prejudice method and corrected sensory evidence against Cartesian hyperbolic doubt.
+
+Re-entry:
+
+- Continue with `Dubitatio Tertia`, on the main demonstration for the mind's existence separately from body.
+- Watch the argument move from sensory truth to the clear-and-distinct separability argument for mind and body.
+
+## 2026-05-15 - Separability, Mind-Body, And Subtle Body
+
+Drafted `parts/074-separability-mind-body-and-subtle-body.md`, covering `Dubitatio Tertia` in `In Meditationem VI`, on standalone printed pages `273` partial through `275` partial.
+
+What this tranche clarified:
+
+- Gassendi identifies Descartes' main separability argument: what can be clearly and distinctly understood apart can be made apart by God and is therefore really distinct.
+- Gassendi says this proves the clear from the obscure unless God's existence and the scope of divine power are already established.
+- The triangle-property example blocks the inference from separate conception to real separation.
+- Gassendi identifies the hinge: Descartes' clear idea of himself as thinking/non-extended and of body as extended/non-thinking is supposed to prove real distinction and separability.
+- The word `body` is narrowed: if Descartes means the gross body of limbs, there is no real difficulty.
+- The real question is whether mind may itself be a subtle body diffused through, or seated within, the gross body.
+- Gassendi grants a liberal agent-intellect/separable-intellect framing rather than pressing the stricter soul-as-form position.
+- Even under that concession, Descartes has not proved pure incorporeality.
+- Meditation II asserted that mind is not wind, fire, vapor, or breath, but did not prove it; the present argument still proves at most that mind is not this gross body.
+
+Glossary updates earned: `mens`; `substantia incorporea / substantia corporea`; `clara et distincta notitia`.
+
+Crosswalk pressure:
+
+- This part ties Cassirer's psychology/self-consciousness pressure to the mind-body proof. Gassendi treats Descartes' separability inference as overreaching from conceptual distinction and keeps open the subtle-body alternative.
+
+Re-entry:
+
+- Continue with Descartes' `RESPONSIO. Non hic haereo`.
+- Watch Descartes answer the charge that he has confused what can be understood separately with what is really separate.
+
+## 2026-05-15 - Response, Separability, And Subtle Body
+
+Drafted `parts/075-response-separability-and-subtle-body.md`, covering Descartes' short `Responsio` to `Dubitatio Tertia` in `In Meditationem VI`, on standalone printed page `275` partial.
+
+What this tranche clarified:
+
+- Descartes denies that his proof concerned only the gross body of limbs.
+- The proof is claimed to cover any body, even one as subtle and thin as possible.
+- The Second Meditation is used as the place where mind was made intelligible as an existing substance without understanding any wind, fire, vapor, breath, or other body to exist.
+- Descartes says the Sixth Meditation has now demonstrated the real difference from every body.
+- Descartes reverses the charge: Gassendi is accused of confusing the question of what can be understood with the question of what really is.
+
+Glossary updates earned: `mens`; `substantia incorporea / substantia corporea`; `clara et distincta notitia`.
+
+Crosswalk pressure:
+
+- This part gives the Cartesian counter-pole to Part 074. Descartes treats the subtle-body objection as already covered by the proof and makes separate intelligibility bear the burden Gassendi denies it can bear.
+
+Re-entry:
+
+- Continue with Gassendi's `Instantia` beginning `Incipiendum heic ab extremis verbis`.
+- Watch Gassendi press the alleged paralogism between separate concepts and real separation.
+
+## 2026-05-15 - Paralogism And Divine Power
+
+Drafted `parts/076-paralogism-and-divine-power.md`, covering the opening of Gassendi's `Instantia` after Descartes' response to `Dubitatio Tertia` in `In Meditationem VI`, on standalone printed pages `275` partial through `277` partial.
+
+What this tranche clarified:
+
+- Gassendi reverses Descartes' accusation that he confuses what can be understood with what really is.
+- The alleged paralogism is the passage from separate concepts to real separation.
+- The triangle-property example returns as a countercase: separately conceived properties are not thereby separable from one another or from the triangle.
+- Gassendi says Descartes avoids the difficulty by treating repeated assertion as demonstration.
+- The divine-power principle is attacked as smuggled in at the start of Meditation VI so it can later operate as already demonstrated.
+- Gassendi denies that Descartes has shown either that God exists or, more locally, the scope of what God's power can make.
+- If Descartes' own distinct perception is the rule of divine possibility, the proof becomes private assurance rather than public demonstration.
+- The "Lesbian rule" image marks a flexible, adjustable criterion rather than a fixed demonstrative standard.
+
+Glossary updates earned: `paralogismus`; `demonstratio / authoritas`; `clara et distincta notitia`; `potentia Dei`.
+
+Crosswalk pressure:
+
+- This part ties the mind-body proof back to Cassirer's criterion problem. Gassendi treats Descartes' clear-and-distinct standard as a private rule unless it can be converted into a public demonstration of divine power and real separability.
+
+Re-entry:
+
+- Continue with `Ecce enim tu heic praesertim haeres`.
+- Watch Gassendi turn from the general paralogism and divine-power principle to textual evidence that Descartes was speaking of the gross body.
+
+## 2026-05-15 - Gross Body, Subtle Body, And Precision
+
+Drafted `parts/077-gross-body-subtle-body-and-precision.md`, continuing Gassendi's `Instantia` after Descartes' response to `Dubitatio Tertia` in `In Meditationem VI`, on standalone printed pages `277` partial through `281` partial.
+
+What this tranche clarified:
+
+- Gassendi argues that Descartes' own wording and later examples identify the body at issue as the gross body of limbs.
+- Sensation, pain, hunger, thirst, bodily need, and the sailor/ship contrast all point to the body in which the senses are, not to an unspecified subtle body.
+- The immortality problem itself usually asks whether soul survives separation from the gross body, even when soul is conceived as a subtle body.
+- If Descartes means a subtle body too, Gassendi asks which one: air, wind, spirit, breath, vapor, fire, or something similar.
+- The subtle-body alternative survives the proof unless Descartes shows mind is not that subtle thinking body.
+- Gassendi distinguishes precise consideration from exclusion: to consider something precisely as rational does not prove it is not animal.
+- Mind considered precisely as thinking thing, or even as substance existing through itself, leaves corporeal and incorporeal differences equally unattended.
+- The Second Meditation therefore provides at most a precision of mind as thinking thing or substance, not proof that mind is incorporeal.
+
+Glossary updates earned: `mens`; `substantia incorporea / substantia corporea`; `substantia / accidens`; `praecisio`.
+
+Crosswalk pressure:
+
+- This part sharpens Cassirer's self-consciousness and image-theory pressure by refusing to let the cogito's precision settle the ontological status of mind. Gassendi lets the mind be considered as thinking or as substance, but denies that the consideration excludes subtle corporeality.
+
+Re-entry:
+
+- Continue with `Pergis scilicet, Hic autem de eo ipso disputavi, & demonstravi`.
+- Watch Gassendi move from the Second Meditation precision argument into a formal reconstruction of the Sixth Meditation proof.
+
+## 2026-05-15 - Formal Proof And Divine Power
+
+Drafted `parts/078-formal-proof-and-divine-power.md`, continuing Gassendi's `Instantia` after `Dubitatio Tertia` in `In Meditationem VI`, on standalone printed pages `281` partial through `284` partial.
+
+What this tranche clarified:
+
+- Gassendi reconstructs Descartes' mind-body proof as a disturbed syllogism.
+- The causal propositions about what God can make are placed in a way that obscures the inferential order.
+- The Second Meditation claim that mind is a thinking thing is imported as if it already formed part of the demonstrative structure.
+- Descartes' self-addressed clarity may explain what persuades him, but it does not automatically demonstrate the matter to others.
+- Gassendi contrasts private persuasion and authorial authority with a public method that exposes principles simply.
+- The Sixth Meditation proof repeats the older move from distinct concepts to real distinction.
+- If divine power means absolute power, Descartes has shifted from natural demonstration to supernatural faith or theology.
+- If divine power means ordinary power, it adds nothing beyond the natural separability or inseparability of the things.
+
+Glossary updates earned: `potentia Dei`; `demonstratio / authoritas`; `clara et distincta notitia`.
+
+Crosswalk pressure:
+
+- This part sharpens Cassirer's method problem. Gassendi treats Descartes' separability proof as private self-persuasion unless its principles can compel others without borrowing authority from Descartes' own clarity.
+
+Re-entry:
+
+- Continue with `Veruntamen, ut concedatur licuisse tibi demonstraturo`.
+- Watch Gassendi ask what criterion distinguishes separables from inseparables if divine power is allowed into the proof.
+
+## 2026-05-15 - Criterion, Triangle, And Complete Things
+
+Drafted `parts/079-criterion-triangle-and-complete-things.md`, continuing Gassendi's `Instantia` after `Dubitatio Tertia` in `In Meditationem VI`, on standalone printed pages `284` partial through `286` partial.
+
+What this tranche clarified:
+
+- Gassendi grants, for argument, that either divine power may be used, then asks for the criterion separating separables from inseparables.
+- The criterion Descartes supplies is still clear and distinct understanding of one thing without another.
+- Gassendi returns to the triangle-property counterexample and notes that Descartes had not answered it directly.
+- Gassendi avoids the theological justice/mercy example in favor of geometrical examples so Descartes cannot complain that the discussion has left philosophy.
+- The available Cartesian reply distinguishes formal or modal distinction among incomplete entities from real distinction among complete entities.
+- Figure/motion and justice/mercy are treated as formal or incomplete cases.
+- The triangle-in-semicircle case is answered by saying its properties are not complete things or substances.
+- Gassendi grants the structure of the reply so the next part can test whether Descartes has assumed mind and body are already two complete things.
+
+Glossary updates earned: `distinctio formalis / distinctio realis`; `clara et distincta notitia`; `substantia / accidens`.
+
+Crosswalk pressure:
+
+- This part makes the criterion problem sharper: Descartes' separability test depends on identifying the items as complete things, but that may be the very point in dispute in the mind-body proof.
+
+Re-entry:
+
+- Continue with `Sed Imprimis`.
+- Watch Gassendi argue that Descartes begs the question by assuming the disputed mind/body pair are already two complete things.
+
+## 2026-05-15 - Complete Substances And Inadequate Cognition
+
+Drafted `parts/080-complete-substances-and-inadequate-cognition.md`, continuing Gassendi's `Instantia` after `Dubitatio Tertia` in `In Meditationem VI`, on standalone printed pages `286` partial through `289` partial.
+
+What this tranche clarified:
+
+- Gassendi says Descartes' complete-substance reply reveals the fallacy of the proof.
+- The dispute is not whether two already complete substances are really distinct; that is already conceded.
+- The dispute is whether thinking and extension are two properties of one substance or two complete substances.
+- By calling the items two things or complete substances, Descartes assumes what he must prove.
+- The move from `diversity` to real distinction imports the conclusion as the argument's middle term.
+- Gassendi attacks Descartes' adequate/inadequate cognition distinction as unable to secure real distinction.
+- Since adequate cognition contains all properties in the known thing, only God has adequate cognition, or we can know it only by revelation.
+- All human cognition abstracts and is therefore inadequate relative to the whole of what is in the thing.
+- Without exhaustive knowledge of both entities, Descartes cannot rule out an indivisible nexus that makes them inseparable.
+
+Glossary updates earned: `distinctio formalis / distinctio realis`; `cognitio adaequata / inadaequata`; `clara et distincta notitia`.
+
+Crosswalk pressure:
+
+- This part deepens Cassirer's criterion problem: the Cartesian mind-body proof needs a public criterion for complete substances and adequate separability, but Gassendi argues finite cognition cannot supply one without revelation or question-begging.
+
+Re-entry:
+
+- Continue with `Nunc, cum dicendum pluribus de Assumptione`.
+- Watch Gassendi apply the criterion critique directly to the assumption about thinking thing and extended thing.
