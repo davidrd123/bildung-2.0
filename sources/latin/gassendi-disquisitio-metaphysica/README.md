@@ -15,13 +15,20 @@ This now lives at two levels at once:
 1. **A Cassirer-anchored ground for `texts/erkenntnisproblem-vol2`** -- the original purpose. The `reading/erk-vol2-gassendi-crosswalk.md` records which parts overlap with Cassirer's Vol. 2 Gassendi chapter.
 2. **A test case for sustained primary-source Latin translation** in this project's apparatus. It is the first campaign in `sources/latin/` to grow this far, and the methodological lessons (encounter format vs. sequential parts, glossary-as-routing surface, witness-set discipline) feed back into other Latin campaigns -- currently the *Universalis Philosophia* and *Spinoza Opera* campaigns under `sources/latin/`.
 
-### Deferred decision: promotion to `texts/`
+### Substrate vs. engagement: why this stays in `sources/latin/`
 
-The current scale matches what `texts/` projects do -- 62 sequential parts, structured journal, substantive glossary, chapter-bounded scope. The right architectural move is eventually to promote this to `texts/gassendi-disquisitio-metaphysica/` and rename the parts so this is honestly described as the translation project it has become.
+The volume of work here (62 parts, substantial glossary, daily journal) might suggest the campaign should be promoted to `texts/gassendi-disquisitio-metaphysica/` alongside the Erk. Vol. 1 and Vol. 2 projects. But the project's `sources/` vs `texts/` distinction is not about volume; it is about kind of work.
 
-For now, the directory stays at `sources/latin/gassendi-disquisitio-metaphysica/` because **active translation work is ongoing** and moving a live directory would create cross-reference and working-tree race conditions. Promote when the work reaches a natural pause (Meditation V close was reached at Part 062; Meditation VI would be the next logical extension or stopping point).
+- **`sources/` builds navigable substrate** for primary-source reading: corrected text, glossary tracking, encounter notes, journal entries that record what each tranche translated and where the OCR was corrected. The substrate makes guided reading of a primary source possible. It does not yet *engage* with the source's argument as an argument.
+- **`texts/` does engagement-with-argument**: bounded reading notes that produce structural findings (e.g., "Hobbes's self-created principles harden into absolute powers"), close-reading ledger entries that track how a concept shifts across the work, journal entries that synthesize what the argument is doing rather than what the translation did.
 
-When the promotion happens, the following will need to update in lockstep:
+This campaign has done substantial substrate-building. It has not yet done the engagement layer. There are **zero bounded reading notes on Gassendi's argument**. The journal entries record translation process; the close-reading ledger work that distinguishes `texts/` projects in this repo (see `texts/erkenntnisproblem-vol2/reading/close-reading-ledger.md`) does not exist here.
+
+That is not a deficiency to be fixed prophylactically. It is the correct state for a campaign whose purpose is to make Gassendi's Latin available for **future** guided reading. Compare `sources/russian/lotman-vnutri-mislyashih-mirov/` -- a different substrate-only campaign that explicitly is *not* a full translation campaign and stays in `sources/` with light encounter apparatus.
+
+**Promotion to `texts/` is conditional on engagement, not on time.** If sustained guided reading of this substrate later produces bounded reading notes, a structural finding about Gassendi's argument, and a close-reading ledger, then promoting to `texts/` becomes the right move. Until then, the substrate may remain in `sources/latin/` indefinitely.
+
+When and if promotion happens, the lockstep changes will be:
 - The directory itself (`git mv` to `texts/gassendi-disquisitio-metaphysica/`).
 - `.gitignore` entries for `source/{pdf,page-images,local,abbyy}/` paths.
 - Cross-references in `sources/latin/spinoza-opera/`, `sources/latin/campanella-metaphysica/`, `sources/modern/ernst-campanella-book-and-body-of-nature/`, and `texts/erkenntnisproblem-vol2/`.
