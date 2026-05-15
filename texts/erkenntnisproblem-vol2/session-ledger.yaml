@@ -882,6 +882,104 @@ sessions:
 
     formation_notes: []
 
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: twenty-eighth-translation-batch-and-spinoza-attribute-order
+    parts_touched:
+      - "parts/028-spinoza-attribute-doctrine-and-order-identity.md"
+
+    state_on_entry:
+      - "Part 027 had identified Spinoza's two knowledge-ideals and left `Attribute` as a ledger pressure."
+      - "The next hook asked whether `Verfestigung und Verdinglichung` would make a Hobbes-Spinoza bounded comparison earned."
+      - "The active goal required a fresh same-agent second pass before moving forward."
+
+    what_shifted:
+      - "Created Part 028 from PDF pages 135-139 / printed pages 115 partial-119 partial, stopping before the infinite-attributes difficulty."
+      - "Added a high-trust page-map range for the attribute doctrine and order-identity tranche."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Religionsphilosophie`, `Betrachtung der Körperwelt`, `Verdinglichung`, `Attributenlehre`, `referiert`, `zurückgreift`, `Lehrgebäude`, `ausprägt`, `Funktionszusammenhang`, `Identität der Ordnung`, `Raumgestalten`, `Begriffsverhältnis`, `zwiefachen Kausalität`, `Teilansicht`, and `geometrischen Wissens`."
+      - "Confirmed that the de Vries/experience note on printed page 119 continues the attribute-order footnote and translated it in the draft-footnote layer."
+      - "Expanded `Substanz / Modi` to `Substanz / Modi / Attribute`."
+      - "Updated `Definition / Konstruktion`, `Ursache / Bedingung / Erzeugung`, `Intuition / Anschauung`, and `Erfahrung`."
+      - "Recorded the finding that analytic geometry supplies the model for order-identity across attributes."
+
+    unresolved:
+      - "Part 029 should begin on printed page 119 / PDF page 139 with `Läßt sich bis hierher das Motiv...`."
+      - "`Verfestigung / Verdinglichung`, `Funktionszusammenhang`, `Parallelismus`, `Ordnung und Verknüpfung`, `analytische Geometrie`, `subjektive / objektive Betrachtungsweise`, and `Teilansicht` remain ledger pressures."
+      - "Watch whether the infinite-attributes problem forces a separate `Attribute` entry or stays inside `Substanz / Modi / Attribute`."
+      - "Keep the Hobbes-Spinoza bounded comparison deferred until the chapter close."
+
+    re_entry_instructions:
+      - "Part 028 has passed a fresh same-agent second pass for controlled draft status."
+      - "Before continuing, read the Part 028 ledger entry and the updated `Substanz / Modi / Attribute` glossary entry."
+      - "Use Part 029 to test the de Vries/experience note against the infinite-attributes difficulty."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: twenty-ninth-translation-batch-and-spinoza-infinite-attributes
+    parts_touched:
+      - "parts/029-spinoza-infinite-attributes-and-skepsis.md"
+
+    state_on_entry:
+      - "Part 028 had expanded `Substanz / Modi` to `Substanz / Modi / Attribute` through analytic-geometrical order identity."
+      - "The next hook asked whether inaccessible infinite attributes would force a separate route."
+      - "The active goal required a fresh same-agent second pass before moving forward."
+
+    what_shifted:
+      - "Created Part 029 from PDF pages 139-141 / printed pages 119 partial-121 partial, stopping before the thought-attribute section."
+      - "Added a high-trust page-map range for the infinite-attributes and skepticism tranche."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Tschirnhaus`, `Skepsis`, `Zwiespalts`, `Kurzen Traktat`, `Seinsfülle`, `Wesensbestimmtheit in sich`, `Weltordnung`, `allbefassende Regel`, and `Ens realissimum`."
+      - "Confirmed the Tschirnhaus citation as `Epist. 65 u. 67` from scan `_0139`."
+      - "Updated `Substanz / Modi / Attribute`, `Erfahrung`, and `Intuition / Anschauung`."
+      - "Recorded the finding that the infinity of attributes is an early all-nature residue resisting the later order-concept."
+
+    unresolved:
+      - "Part 030 should begin on printed page 121 / PDF page 141 with `Die Stellung, die das Attribut des Denkens...`."
+      - "`Skepsis`, `Unendlichkeit der Attribute`, `Ens realissimum`, `Ding aller Dinge`, `Weltordnung`, `Seinsfülle`, `qualitative Vollkommenheit`, and `Tschirnhaus` remain ledger pressures."
+      - "Watch whether thought becomes a common exponent rather than one attribute among others."
+      - "Do not write a bounded Spinoza note until the chapter close decides the center."
+
+    re_entry_instructions:
+      - "Part 029 has passed a fresh same-agent second pass for controlled draft status."
+      - "Before continuing, read the Part 029 ledger entry and the updated `Substanz / Modi / Attribute` and `Erfahrung` glossary entries."
+      - "Use Part 030 to decide whether the bounded chapter note centers on Hobbes-Spinoza hardening, inaccessible attributes/skepticism, or geometry's anthropomorphism."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: thirtieth-translation-batch-and-spinoza-chapter-close
+    parts_touched:
+      - "parts/030-spinoza-thought-attribute-and-anthropomorphism.md"
+      - "reading/2026-05-14-spinoza-absolute-order-and-anthropomorphism.md"
+
+    state_on_entry:
+      - "Part 029 had shown that inaccessible infinite attributes bring absolute knowledge close to skepticism."
+      - "The next hook asked whether thought would become a common exponent rather than one attribute among others."
+      - "The active goal required a chapter-close calibration and only an earned bounded note."
+
+    what_shifted:
+      - "Created Part 030 from PDF pages 141-145 / printed pages 121 partial-125, closing the Spinoza chapter before Leibniz."
+      - "Added a high-trust page-map range for the thought-attribute and anthropomorphism tranche."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `bestehen: immer`, `Grundvoraussetzungen der reifen`, `ein weiterer Schritt`, `formale`, `ein Recht`, `Gesichtspunkt`, `Spiegelung`, `Bewußtsein`, `Subjekt`, `eine neue Dimension`, `Zusammenhang des Seins`, `Raumes`, and `absoluten Wirklichkeitserkenntnis`."
+      - "Translated the substantive Latin from `Ethics` I.10 scholium / epistle 27 in the draft-footnote layer."
+      - "Updated `Substanz / Modi / Attribute`, `Selbstbewußtsein / Ich / innere Erfahrung`, `Definition / Konstruktion`, and `Intuition / Anschauung`."
+      - "Created the bounded chapter note `reading/2026-05-14-spinoza-absolute-order-and-anthropomorphism.md`."
+      - "Recorded a Spinoza chapter calibration in the journal."
+
+    unresolved:
+      - "Leibniz should test whether a transformation of being and knowledge answers Spinoza's unresolved chapter close."
+      - "`Denken / Idee / Intellekt`, `idea corporis / idea mentis`, `idea ideae`, `Parallelismus`, `Anthropomorphismus`, `modi cogitandi`, `subjectum et adjunctum`, and `Geometrie` remain ledger pressures."
+      - "Do not promote the Spinoza bounded note to a cross-book thesis before Leibniz supplies contrast evidence."
+
+    re_entry_instructions:
+      - "Spinoza chapter Parts 017-030 have passed same-agent second-pass controlled draft status."
+      - "Before beginning Leibniz, read the Spinoza chapter calibration and `reading/2026-05-14-spinoza-absolute-order-and-anthropomorphism.md`."
+      - "Use the Leibniz opening to test whether Cassirer shifts from substance/order to logical principle/function."
+
+    formation_notes: []
+
   - date: 2026-05-13
     collaborator: codex-gpt-5
     session_outcome: first-translation-batch

@@ -88,7 +88,7 @@
   alternatives:
     - "objective reality / formal reality"
   status: open
-  notes: "Gassendi accepts the vocabulary provisionally but measures objective reality by what the intellect actually knows of the thing, not by the whole formal reality of the thing itself. Part 006 sharpens the demotion: objective reality is representation, likeness, symmetry, relation, or mode, and is almost nothing in comparison with the formal reality of the external cause."
+  notes: "Gassendi accepts the vocabulary provisionally but measures objective reality by what the intellect actually knows of the thing, not by the whole formal reality of the thing itself. Part 006 sharpens the demotion: objective reality is representation, likeness, symmetry, relation, or mode, and is almost nothing in comparison with the formal reality of the external cause. Part 012 turns the inseparability of objective and formal reality against Descartes: if an idea's formal reality depends only on thought, its objective reality cannot require an external cause without further explanation."
 
 - term: "causa efficiens / causa materialis"
   handle: "term:gassendi-causa-efficiens-materialis"
@@ -108,6 +108,131 @@
     - "formal / eminent containment"
   status: open
   notes: "Part 006 treats formal and eminent containment as no proof that an efficient cause gives part of its own being to the effect. The terms can mark likeness or superiority of form, but not transfer of substance."
+
+- term: "res / realitas / modalitas"
+  handle: "term:gassendi-res-realitas-modalitas"
+  kind: concept_cluster
+  preferred: null
+  alternatives:
+    - "thing / reality / modality"
+    - "thinghood / reality / modality"
+  status: open
+  notes: "Part 007 makes Descartes' `realitas objectiva` answer to `res`. If only substance is strictly `res`, an idea as a mode of an operation is better called modal than real; `modalitas` is the proper name Gassendi wants in place of objective reality. Part 012 intensifies the sequence: the idea is not a thing but a mode of a thing, a mode of a mode, and a part of a mode."
+
+- term: "via regia"
+  handle: "term:gassendi-via-regia"
+  kind: method
+  preferred: "royal road"
+  alternatives:
+    - "public road"
+    - "clear road"
+  status: open
+  notes: "Part 012 names the public cosmological route through the universe as the `regia, plana, perspicua via` to knowledge of God's existence, power, wisdom, goodness, and other attributes. Keep this as Gassendi's positive counter-route to Descartes' private enclosed idea."
+
+- term: "relatio / non ens"
+  handle: "term:gassendi-relatio-non-ens"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "relation / non-being"
+    - "mere relation / not a being"
+  status: open
+  notes: "Part 012 pushes objective reality beyond modal thinness into relation and non-being. The likeness or representation in wax or mind is not a thing in itself but a mere relation, and therefore `non ens`."
+
+- term: "repraesentativitas / repraesentabilitas"
+  handle: "term:gassendi-repraesentativitas-repraesentabilitas"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "representativeness / representability"
+  status: open
+  notes: "Part 007 translates Descartes' objective/formal reality distinction into image-language. The impressed figure has representativeness; the seal or cause has representability. Part 012 asks whether the cause's reality means its substance, its representability through an idea, or something else, showing that the causal comparison is not yet evident."
+
+- term: "impressio / sigillum / figura"
+  handle: "term:gassendi-impressio-sigillum-figura"
+  kind: image_model
+  preferred: null
+  alternatives:
+    - "impression / seal / figure"
+    - "seal-and-wax impression"
+  status: open
+  notes: "Part 007 develops a seal/wax model for idea-causality. If ideas do not flow in as painted species retaining formal reality, Gassendi says Descartes is left with impression: an idea as figure impressed in wax by a seal."
+
+- term: "idea sui / cognitio reflexa"
+  handle: "term:gassendi-idea-sui-cognitio-reflexa"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "self-idea / reflected cognition"
+    - "idea of oneself / reflective knowledge"
+  status: open
+  notes: "Part 008 denies direct self-idea on the species model. A faculty cannot send its own species into itself; self-knowledge would require a mirror-like return and so would be `cognitio reflexa`, not direct self-presence."
+
+- term: "substantia incorporea / substantia corporea"
+  handle: "term:gassendi-substantia-incorporea-corporea"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "incorporeal substance / corporeal substance"
+  status: open
+  notes: "Part 008 challenges the passage from an incorporeal self-idea to ideas of corporeal substance. A common notion such as being apt to exist presupposes prior understanding of both particulars."
+
+- term: "imago in phantasia / imago in mente"
+  handle: "term:gassendi-imago-phantasia-mente"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "image in phantasy / image in mind"
+    - "phantasy-image / mental image"
+  status: open
+  notes: "Part 009 says Descartes avoids the real issue by saying `idea` extends to everything thought rather than to images painted in the mind. For Gassendi, every object of thought still stands before the mind under some image, at least a mental one."
+
+- term: "agere in seipsum"
+  handle: "term:gassendi-agere-in-seipsum"
+  kind: problem
+  preferred: null
+  alternatives:
+    - "act on itself"
+    - "self-action"
+  status: open
+  notes: "Parts 008-009 deny that a faculty or body acts on itself strictly. Action and passion require distinct termini; the mirror and spinning-top examples are treated as part-to-part or agent-patient relations, not genuine self-action."
+
+- term: "idea infiniti / incomprehensibilitas"
+  handle: "term:gassendi-idea-infiniti-incomprehensibilitas"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "idea of the infinite / incomprehensibility"
+  status: open
+  notes: "Part 010 sharpens the dispute over whether a true idea of the infinite must comprehend the infinite. Gassendi says a finite grasp gives only a finite or partial idea; Descartes replies that incomprehensibility belongs to the formal notion of the infinite."
+
+- term: "infiniti mundi"
+  handle: "term:gassendi-infiniti-mundi"
+  kind: analogy
+  preferred: "infinite worlds"
+  alternatives:
+    - "infinitely many worlds"
+  status: open
+  notes: "Part 010 uses ancient ideas of infinite worlds, an infinite universe, and infinite principles as a reductive parallel to Descartes' idea of infinite substance. If amplification proves God, Gassendi argues, it would also prove infinite worlds."
+
+- term: "diallelus / circulus"
+  handle: "term:gassendi-diallelus-circulus"
+  kind: problem
+  preferred: null
+  alternatives:
+    - "diallelus / circle"
+    - "Cartesian circle"
+  status: open
+  notes: "Part 011 explicitly accuses Descartes' proof of circularity: clear and distinct perception is used to prove God, while God's existence and veracity are needed to guarantee clear and distinct perception."
+
+- term: "demonstratio / authoritas"
+  handle: "term:gassendi-demonstratio-authoritas"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "demonstration / authority"
+  status: open
+  notes: "Part 011 distinguishes public demonstration from private authority. A proof based on Descartes' report about his own idea may persuade by personal authority, but does not have the force of a general demonstration."
 
 - term: "substantia / accidens"
   handle: "term:gassendi-substantia-accidens"

@@ -16,6 +16,12 @@ Sequential translation now begins at this direct anchor:
 - `sources/latin/gassendi-disquisitio-metaphysica/parts/004-response-intellect-imagination-and-substance.md`
 - `sources/latin/gassendi-disquisitio-metaphysica/parts/005-first-humans-and-the-idea-of-god.md`
 - `sources/latin/gassendi-disquisitio-metaphysica/parts/006-cause-effect-and-objective-reality.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/007-reality-modality-and-impressed-ideas.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/008-self-idea-and-material-things.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/009-material-existence-and-self-action.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/010-god-infinite-substance-and-infinite-worlds.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/011-private-demonstration-and-cartesian-circle.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/012-major-proposition-and-royal-road.md`
 
 ## Related Vol. 2 Gassendi Material
 
@@ -27,7 +33,7 @@ Current use:
 - Part 008: sensory truth and judgment; not yet a direct *Disquisitio* anchor.
 - Part 009: space and time pressure; not yet a direct *Disquisitio* anchor.
 - Part 010: atomistic motion and conceptual alteration of perception; not yet a direct *Disquisitio* anchor.
-- Part 011: Descartes comparison and the sun idea; direct *Disquisitio* anchor located. The sequential continuation now also exposes Gassendi's pressure on objective reality and the causal proof of God.
+- Part 011: Descartes comparison and the sun idea; direct *Disquisitio* anchor located. The sequential continuation now also exposes Gassendi's pressure on objective reality, representational image-causality, mental images, reflected self-knowledge, self-action, infinite-world amplification, the causal proof of God, the Cartesian circle, and the public cosmological `via regia` opposed to Descartes' private enclosed idea.
 
 ## Boundary
 

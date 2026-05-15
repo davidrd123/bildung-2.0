@@ -554,3 +554,64 @@ Routing:
 - Update `Substanz / Modi`, `Ursache / Bedingung / Erzeugung`, `Definition / Konstruktion`, and `Intuition / Anschauung`.
 - Do not open standalone entries for `Einheit / Vielheit`, `Kraft`, `causa / ratio`, or `Deus sive natura` yet; the next tranche must test whether the personal-development and attribute-doctrine material makes any of them structural beyond this local diagnosis.
 - Use Part 028 to watch whether `Verfestigung und Verdinglichung` makes the Hobbes-Spinoza bounded comparison earned.
+
+## 2026-05-14 - Spinoza: Attribute Doctrine and Order Identity
+
+Passage: `parts/028-spinoza-attribute-doctrine-and-order-identity.md`, printed pages `115 partial-119 partial`.
+
+Part 028 makes the attribute doctrine central. Spinoza's personal development confirms the two-ideal structure from Part 027: religious-pantheistic speculation, a short naturalistic phase, and then Cartesian geometry as the final ideal that transforms the view of actuality.
+
+Local pressure:
+
+- `Substanz / Modi / Attribute` is now the proper Spinoza cluster. Attributes are not merely subjective standpoints; for Spinoza the intellect can only reproduce what is really present in things. But their positive motive is not a picture of how diversity enters substance. It is analytic-geometrical order identity.
+- `Definition / Konstruktion` gains the analytic-geometry model. Number/thinking and space/extension are distinct forms, but a gapless one-to-one correspondence lets one functional nexus appear as object-order and thought-order.
+- `Ursache / Bedingung / Erzeugung` becomes explicitly logical in Spinoza: cause conditions effect as premises condition a conclusion. A twofold causality would mean a twofold logic.
+- `Erfahrung` receives a Spinoza counter-pressure: experience is rejected as a ground for the attributes because essence and existence coincide there.
+- `Intuition / Anschauung` is split locally: lower-register `Anschauung der Wirklichkeit` is a view of actuality, while geometrical `Anschauung` and the final `anschauen` name direct apprehension of order.
+- `Verfestigung / Verdinglichung`, `Funktionszusammenhang`, `Parallelismus`, `Ordnung und Verknüpfung`, `analytische Geometrie`, `subjektive / objektive Betrachtungsweise`, and `Teilansicht` are active pressures.
+
+Routing:
+
+- Expand `Substanz / Modi` to `Substanz / Modi / Attribute`.
+- Update `Definition / Konstruktion`, `Ursache / Bedingung / Erzeugung`, `Intuition / Anschauung`, and `Erfahrung`.
+- Do not create a standalone `Attribute` or `Parallelismus` entry yet; Part 029 must test whether the infinite-attributes problem remains within the substance cluster or requires its own route.
+- Keep the Hobbes-Spinoza bounded comparison deferred until the chapter close, despite the strong `hardening and reification` evidence here.
+
+## 2026-05-14 - Spinoza: Infinite Attributes and Skepsis
+
+Passage: `parts/029-spinoza-infinite-attributes-and-skepsis.md`, printed pages `119 partial-121 partial`.
+
+Part 029 tests the Part 028 solution by introducing the infinity of inaccessible attributes. Cassirer says the system of absolute knowledge now borders hard on skepticism: if infinitely many attributes remain outside relation to our cognition, knowledge gives only a small excerpt of the All.
+
+Local pressure:
+
+- `Substanz / Modi / Attribute` now carries an internal fracture. Attributes are motivated by order-identity, but the infinity of attributes is inherited from the early all-nature doctrine of qualitative perfection and resists the later order-concept.
+- `Erfahrung` remains negative in Spinoza's attribute doctrine. Experience cannot ground the attributes, yet rational analysis seems unable to bridge to inaccessible attributes.
+- `Intuition / Anschauung` stays differentiated: `Grundanschauung` here names an early doctrinal view, not intuitive cognition.
+- `Skepsis`, `Unendlichkeit der Attribute`, `Ens realissimum`, `Ding aller Dinge`, `Weltordnung`, `Seinsfülle`, `qualitative Vollkommenheit`, and `Tschirnhaus` are active pressures.
+
+Routing:
+
+- Update `Substanz / Modi / Attribute`, `Erfahrung`, and `Intuition / Anschauung`.
+- Do not open a standalone `Attribute` entry yet; the next thought-attribute tranche should decide whether the problem belongs under the substance cluster or shifts to thought/self-consciousness.
+- Use Part 030 to test whether the chapter-close bounded note should center on Hobbes-Spinoza hardening, on inaccessible attributes and skepticism, or on the anthropomorphism of geometry.
+
+## 2026-05-14 - Spinoza: Thought Attribute and Anthropomorphism
+
+Passage: `parts/030-spinoza-thought-attribute-and-anthropomorphism.md`, printed pages `121 partial-125`.
+
+Part 030 closes the Spinoza chapter by making thought's status decisive. Thought is not merely one attribute beside others; it is the common exponent required for conceiving any unified actuality. But this privilege creates the final contradiction: the system that uses geometry to escape subjective relativity depends on space-intuition and logical inference, the two attributes given to human cognition.
+
+Local pressure:
+
+- `Substanz / Modi / Attribute` reaches its chapter-close form. Substance as lawful order depends on thought as the presupposition of manifoldness; the substance concept itself becomes inseparable from a necessary mode of thinking.
+- `Selbstbewußtsein / Ich / innere Erfahrung` reopens through `idea corporis`, `idea mentis`, and `idea ideae`: Spinoza demands the extraction of universal validity from bodily states but does not explain the force by which one idea becomes a knowing subject.
+- `Definition / Konstruktion` reaches a limit: geometry grounds objectivity, but making geometry the sole norm explains being from the two attributes given to us.
+- `Intuition / Anschauung` now includes the limit of `Anschauung des Raumes`; the chapter's geometry norm is both the route beyond subjective opinion and the source of unavoidable anthropomorphism.
+- `Denken / Idee / Intellekt`, `Parallelismus`, `Anthropomorphismus`, `modi cogitandi`, `subjectum et adjunctum`, and `Geometrie` are active pressures.
+
+Routing:
+
+- Update `Substanz / Modi / Attribute`, `Selbstbewußtsein / Ich / innere Erfahrung`, `Definition / Konstruktion`, and `Intuition / Anschauung`.
+- Write a bounded Spinoza chapter note centered on absolute order and the anthropomorphism of geometry.
+- Do not promote the Spinoza finding to a cross-book thesis until the Leibniz opening tests whether the demanded transformation of being and knowledge is supplied there.

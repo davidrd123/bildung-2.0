@@ -1119,3 +1119,134 @@ Verification result:
 - The review corrected OCR residue around `Zahleinheit`, `Einer`, `Einziger`, `entgegensetzen`, `Ganzes und Teil`, `Größe`, `Beschaffenheit`, `Einzeldinge`, `dynamischem`, `Kurzen Traktat`, `Wirksamkeit`, `operari`, `sequi`, `causa`, `ratio`, `zusammenhalten`, `Deus sive natura`, `Entstehung der exakten Wissenschaft`, `Weg`, `Naturerklärung`, `intellektuellen Liebe zu Gott`, and `Begriffsmomente`.
 - The footnotes are source and historiographical identifications rather than substantive quotations.
 - Fresh second pass checked the dynamic/mathematical contrast against Parts 017-018's Renaissance nature register, tightened the `Wirksamkeit` / `Kraft` handling, and kept `causa / ratio` and `operari / sequi` in the ledger rather than opening new entries.
+
+## 2026-05-14 - Spinoza, Attribute Doctrine, And Order Identity
+
+Created `parts/028-spinoza-attribute-doctrine-and-order-identity.md` from PDF pages `135-139` / printed pages `115 partial-119 partial`, beginning with `Auch der persönliche Entwicklungsgang Spinozas...` and stopping before `Läßt sich bis hierher das Motiv...`.
+
+What this tranche clarified:
+
+- Spinoza's personal development confirms the two-ideal structure named in Part 027: religious-pantheistic speculation, a brief naturalistic phase, and then Cartesian geometry as the definitive ideal that transforms his view of actuality.
+- The doctrine of attributes is where mathematical order hardens into metaphysics. Attributes cannot be merely subjective standpoints, but Spinoza still has to explain how real manifoldness belongs to an absolutely unitary primal being.
+- The positive clue is analytic geometry: the same functional nexus appears as an order of objects and as a necessary sequence in thought.
+
+Structural center:
+
+- The load-bearing movement is order-identity across attributes. What is connected differs and belongs to different attributes; the way of connection remains the same. The identity of order becomes the identity of substance.
+
+Routing decision:
+
+- Expand `Substanz / Modi` to `Substanz / Modi / Attribute`.
+- Update `Definition / Konstruktion`, `Ursache / Bedingung / Erzeugung`, `Intuition / Anschauung`, and `Erfahrung`.
+- Keep `Verfestigung / Verdinglichung`, `Funktionszusammenhang`, `Parallelismus`, `Ordnung und Verknüpfung`, `analytische Geometrie`, `subjektive / objektive Betrachtungsweise`, and `Teilansicht` in the close-reading ledger.
+- Do not open standalone `Attribute` or `Parallelismus` entries from this tranche alone.
+
+Re-entry hooks:
+
+- Part 029 should begin on printed page `119` / PDF page `139` with `Läßt sich bis hierher das Motiv...`.
+- Watch whether the infinite-attributes problem forces a separate `Attribute` entry or remains inside `Substanz / Modi / Attribute`.
+- Watch the de Vries/experience footnote: Spinoza rejects experience for attributes because essence and existence are not separated there. If the next part turns this into skepticism about inaccessible attributes, update `Erfahrung` and possibly `Sein / Dasein / Existenz`.
+- Do not write the Hobbes-Spinoza bounded note yet. The `Verfestigung und Verdinglichung` link is strong, but the chapter close should decide whether the pattern is chapter-level or section-local.
+
+Decision for now:
+
+- Part 028 passes the self-review gate for controlled draft status after a fresh same-agent second pass. Continue to Part 029 before opening `Attribute` as a standalone entry or writing the bounded comparison note.
+
+Verification result:
+
+- PDF pages `135-139` were checked against scan/Tesseract output on `_0135` through `_0139`. Scan `_0135` confirms the start and the paragraph break before `In der Verfestigung...`; scan `_0139` confirms the stop before `Läßt sich bis hierher...` and shows that the de Vries/experience note continues the attribute-order footnote.
+- The review corrected OCR residue around `Religionsphilosophie geht er`, `Betrachtung der Körperwelt`, `Religionsphilosophie`, `Verdinglichung`, `Attributenlehre`, `referiert`, `zurückgreift`, `Lehrgebäude`, `ausprägt`, `unmittelbar`, `Ein beliebiger`, `Funktionszusammenhang`, `Identität der Ordnung`, `Spinoza`, `Raumgestalten`, `logische Reduktion des Kausalbegriffs`, `Begriffsverhältnis`, `zwiefachen Kausalität`, `zwiefachen Logik`, `stellen sie nur`, `Teilansicht`, `zerfallen`, `Berufung`, and `geometrischen Wissens`.
+- The Wenzel quotation and the substantive Latin/de Vries source-language material were translated in the draft-footnote layer.
+- Fresh second pass checked the attribute argument against Parts 023-027, tightened `referiert` as "reports," and kept the Hobbes-Spinoza bounded comparison deferred until the infinite-attributes and thought-attribute material has been tested.
+
+## 2026-05-14 - Spinoza, Infinite Attributes, And Skepsis
+
+Created `parts/029-spinoza-infinite-attributes-and-skepsis.md` from PDF pages `139-141` / printed pages `119 partial-121 partial`, beginning with `Läßt sich bis hierher das Motiv...` and stopping before `Die Stellung, die das Attribut des Denkens...`.
+
+What this tranche clarified:
+
+- The infinite-attributes doctrine breaks the mediation that Part 028 had secured through order-identity. If infinitely many attributes remain forever inaccessible to the human mind, absolute knowledge yields only a small excerpt of the All.
+- Cassirer roots this difficulty developmentally: the infinity of attributes belongs to the early `Short Treatise` doctrine of all-sided qualitative perfection.
+- That early doctrine resists the later purification of being into lawful world-order, leaving Spinozism split between universal rule and a thing-like `Ens realissimum`.
+
+Structural center:
+
+- The load-bearing movement is from order-identity to skepticism pressure. The attribute doctrine can be motivated through analysis of knowledge, but the infinity of attributes reintroduces an inaccessible beyond inside the system of absolute knowledge.
+
+Routing decision:
+
+- Update `Substanz / Modi / Attribute`, `Erfahrung`, and `Intuition / Anschauung`.
+- Keep `Skepsis`, `Unendlichkeit der Attribute`, `Ens realissimum`, `Ding aller Dinge`, `Weltordnung`, `Seinsfülle`, `qualitative Vollkommenheit`, and `Tschirnhaus` in the close-reading ledger.
+- Do not open standalone `Attribute`, `Skepsis`, or `Sein / Dasein / Existenz` entries before the thought-attribute close.
+
+Re-entry hooks:
+
+- Part 030 should begin on printed page `121` / PDF page `141` with `Die Stellung, die das Attribut des Denkens...`.
+- Watch whether thought becomes a common exponent rather than one attribute among others; this may force a route through `Selbstbewußtsein / Ich / innere Erfahrung`.
+- Watch whether the chapter close turns the anthropomorphism of geometry into the bounded Spinoza note. The Hobbes-Spinoza comparison remains plausible, but the final issue may be broader.
+
+Decision for now:
+
+- Part 029 passes the self-review gate for controlled draft status after a fresh same-agent second pass. Continue to Part 030 before writing a bounded chapter note.
+
+Verification result:
+
+- PDF pages `139-141` were checked against scan/Tesseract output on `_0139` through `_0141`. Scan `_0139` confirms the start immediately after Part 028's stop and confirms `Epist. 65 u. 67` in the Tschirnhaus footnote. Scan `_0141` confirms the stop before `Die Stellung, die das Attribut des Denkens...`.
+- The review corrected OCR residue around `Attribute`, `Tschirnhaus`, `Beziehung`, `Skepsis`, `Zwiespalts`, `Kurzen Traktat`, `Zusammenhange`, `Seinsfülle`, `Wesensbestimmtheit in sich`, `Weltordnung`, `Antinomien, in die`, `allbefassende Regel`, and `Ens realissimum`.
+- The Sigwart quotation is translated in the main draft because Cassirer quotes it in German in the body. The two footnotes are source identifications.
+- Fresh second pass checked the infinite-attributes argument against Part 028's de Vries/experience footnote, tightened the translation around `beschränkten Ausschnitt des Alls`, and kept `Attribute` inside the expanded substance cluster rather than opening a standalone entry.
+
+## 2026-05-14 - Spinoza, Thought Attribute, And Anthropomorphism
+
+Created `parts/030-spinoza-thought-attribute-and-anthropomorphism.md` from PDF pages `141-145` / printed pages `121 partial-125`, beginning with `Die Stellung, die das Attribut des Denkens...` and closing the Spinoza chapter before `Zweites Kapitel. Leibniz.`
+
+What this tranche clarified:
+
+- Thought is not merely one attribute beside others. Any unified world, even one made of unknown attributes, must be conceived through thought.
+- Spinoza must introduce `idea mentis` and infinite reflection to explain thinking as activity conscious of itself, but this raises thought out of the coordinate attribute series.
+- Geometry escapes subjective relativity only by relying on space-intuition and logical inference, the two attributes given to human cognition. The chapter therefore closes with an unavoidable anthropomorphism.
+
+Structural center:
+
+- The load-bearing movement is thought becoming the common exponent of being. This solves the infinite-attributes problem only by making the absolute order depend on the conditions of knowledge.
+
+Routing decision:
+
+- Update `Substanz / Modi / Attribute`, `Selbstbewußtsein / Ich / innere Erfahrung`, `Definition / Konstruktion`, and `Intuition / Anschauung`.
+- Keep `Denken / Idee / Intellekt`, `idea corporis / idea mentis`, `idea ideae`, `Parallelismus`, `Anthropomorphismus`, `modi cogitandi`, `subjectum et adjunctum`, and `Geometrie` in the close-reading ledger.
+- Create a bounded chapter note: `reading/2026-05-14-spinoza-absolute-order-and-anthropomorphism.md`.
+
+Re-entry hooks:
+
+- Book V, chapter 1 is complete. The Leibniz opening should test Cassirer's final demand: whether a transformation of the concept of being and of the concept of knowledge is supplied by Leibniz's logical-principle focus.
+- Do not promote the Spinoza chapter finding to a cross-book thesis until Leibniz supplies contrast evidence.
+
+Decision for now:
+
+- Part 030 passes the self-review gate for controlled draft status after a fresh same-agent second pass. Spinoza chapter can receive a concise calibration before moving to Leibniz.
+
+Verification result:
+
+- PDF pages `141-145` were checked against scan/Tesseract output on `_0141` through `_0145`. Scan `_0141` confirms the start after Part 029's stop; scan `_0145` confirms the Spinoza chapter closes before the Leibniz chapter begins on PDF `_0146`.
+- The review corrected OCR residue around `allbefassende Regel`, `Ens realissimum`, `bestehen: immer`, `Grundvoraussetzungen der reifen`, `ein weiterer Schritt`, `formale`, `ein Recht`, `Gesichtspunkt`, `Spiegelung`, `Bewußtsein`, `Subjekt`, `eine neue Dimension`, `Zusammenhang des Seins`, `Raumes`, `Hier stehen wir`, and `absoluten Wirklichkeitserkenntnis`.
+- The substantive Latin in footnote 2 is translated in the draft-footnote layer. Main-text Latin phrases are preserved with English framing.
+- Fresh second pass checked the chapter close against Parts 028-029 and shifted the bounded-note center away from a simple Hobbes-Spinoza hardening comparison toward Spinoza's absolute order and the anthropomorphism of geometry.
+
+## 2026-05-14 - Spinoza Chapter Calibration
+
+Book V, chapter 1 is drafted through the close: Parts 017-030. The chapter moved in three visible stages:
+
+- Early Spinoza begins from immediate infinite being, pure passion, and Renaissance all-nature.
+- The `Tractatus` and the geometry/substance sections transform that beginning into self-active true idea, genetic definition, order, and substance as necessary connection.
+- The attribute close exposes the unresolved limit: absolute order depends on thought and geometry, yet these are the very humanly given conditions through which Spinoza tries to overcome anthropomorphism.
+
+Status:
+
+- Parts 017-030 are controlled drafts with same-agent second passes and scan/Tesseract verification.
+- `Substanz / Modi / Attribute` is the chapter's major glossary outcome; no standalone `Attribute`, `Skepsis`, `Parallelismus`, or `Denken / Idee / Intellekt` entry has been opened.
+- The bounded reading note is chapter-local and explicitly points to Leibniz as the next test.
+
+What to expect next:
+
+- Leibniz should test whether Cassirer treats logical principles as the transformation of being and knowledge that Spinoza's chapter demanded.
+- Watch whether Leibniz resolves Spinoza's geometry anthropomorphism by shifting from substance/order to function/principle, or whether Cassirer first routes through Descartes, Hobbes, and Spinoza as inherited materials.

@@ -442,6 +442,43 @@ ranges:
     trust: "high"
     note: "Part 027 begins on printed page 112 with `Zu den gleichen Grundbestimmungen...` and stops on printed page 115 before `Auch der persönliche Entwicklungsgang Spinozas...` begins the personal-development account."
 
+  - slug: "spinoza-attribute-doctrine-order-identity"
+    label: "Spinoza: attribute doctrine and order identity"
+    pdf_pages: [135, 139]
+    printed_pages: ["115 partial", "119 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0135.jp2"
+      - "daserkenntnispro02cassuoft_0136.jp2"
+      - "daserkenntnispro02cassuoft_0137.jp2"
+      - "daserkenntnispro02cassuoft_0138.jp2"
+      - "daserkenntnispro02cassuoft_0139.jp2"
+    trust: "high"
+    note: "Part 028 begins on printed page 115 with `Auch der persönliche Entwicklungsgang Spinozas...`, includes the continued attribute-order footnote on printed page 119, and stops before `Läßt sich bis hierher...` begins the infinite-attributes difficulty."
+
+  - slug: "spinoza-infinite-attributes-skepsis"
+    label: "Spinoza: infinite attributes and skepsis"
+    pdf_pages: [139, 141]
+    printed_pages: ["119 partial", "121 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0139.jp2"
+      - "daserkenntnispro02cassuoft_0140.jp2"
+      - "daserkenntnispro02cassuoft_0141.jp2"
+    trust: "high"
+    note: "Part 029 begins on printed page 119 with `Läßt sich bis hierher...`, continues through the infinite-attributes difficulty and `Ens realissimum` diagnosis, and stops before `Die Stellung, die das Attribut des Denkens...` begins the thought-attribute close."
+
+  - slug: "spinoza-thought-attribute-anthropomorphism"
+    label: "Spinoza: thought attribute and anthropomorphism"
+    pdf_pages: [141, 145]
+    printed_pages: ["121 partial", "125"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0141.jp2"
+      - "daserkenntnispro02cassuoft_0142.jp2"
+      - "daserkenntnispro02cassuoft_0143.jp2"
+      - "daserkenntnispro02cassuoft_0144.jp2"
+      - "daserkenntnispro02cassuoft_0145.jp2"
+    trust: "high"
+    note: "Part 030 begins on printed page 121 with `Die Stellung, die das Attribut des Denkens...` and closes the Spinoza chapter on printed page 125 before the Leibniz chapter begins on PDF page 146."
+
   - slug: "book-vi-start-locke"
     label: "Book VI / Locke opening"
     pdf_pages: [247, 247]

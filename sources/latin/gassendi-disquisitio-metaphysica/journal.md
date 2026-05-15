@@ -158,3 +158,120 @@ Re-entry:
 
 - Continue with `Instantia I`, where Gassendi turns from the causal axiom to the vocabulary of `realitas`, `res`, `modus`, and `modalitas`.
 - Watch whether objective reality remains a Cartesian term under protest rather than a stable Gassendi term.
+
+## 2026-05-15 - Reality, Modality, And Impressed Ideas
+
+Drafted `parts/007-reality-modality-and-impressed-ideas.md`, covering `Instantia I` on standalone printed pages `130` partial through `137` partial.
+
+What this tranche clarified:
+
+- Gassendi treats Descartes' `realitas objectiva` as a vocabulary problem before treating it as a proof. If `reale` derives from `res`, and an idea is only a mode of an operation, then the idea's representational side should be called `modalitas`, likeness, representation, or representative being rather than reality.
+- The proof of God is attacked again for abandoning the "royal road" of contemplating the universe. Descartes looks instead inside himself for a very thin effect: not world, sun, earth, human being, mind, substance, or even a whole mental operation, but only the objective side of a mental mode.
+- The seal/wax model becomes the strongest local reconstruction of idea-causality. The idea is like a figure impressed in wax; the cause is like the seal. What Descartes calls objective reality becomes representativeness; what he calls formal reality becomes representability.
+- Gassendi openly accepts comparison as a condition of human philosophy. The complaint is not that Descartes uses corporeal analogies, but that he uses them while refusing to acknowledge them.
+- The discussion of preexistence makes `in causa` highly unstable. Effects do not literally preexist in a cause or in matter; at most they can be said to be possible from the cause, from matter, in active power, or in the intellect of a cause as an idea for making.
+- The final syllogism concedes Descartes' structure only after translating it into Gassendi's representational language.
+
+Glossary additions earned: `res / realitas / modalitas`, `repraesentativitas / repraesentabilitas`, `impressio / sigillum / figura`.
+
+Re-entry:
+
+- Continue with Dubitatio VI on self-ideas, God, angels, and corporeal things.
+- Watch whether the seal/wax model should be joined to `species / imago / phantasia` or kept as a distinct impression model under Cartesian pressure.
+
+## 2026-05-15 - Self-Idea And Material Things
+
+Drafted `parts/008-self-idea-and-material-things.md`, covering `Dubitatio VI` and Descartes' response on standalone printed pages `137` partial through `140` partial.
+
+What this tranche clarified:
+
+- Gassendi applies the species model to the mind itself. Since a faculty is not outside itself, it cannot send its own species into itself and therefore cannot directly elicit an idea of itself.
+- The eye/mirror analogy introduces `cognitio reflexa`: the eye sees itself only when a mirror returns its species. Self-knowledge would need an analogous reflection rather than direct intellectual self-presence.
+- Gassendi challenges Descartes' inventory of ideas. Ideas of God, angels, animals, and unknown things still depend on revelation, hearing, sense, report, or prior contact.
+- He allows that ideas in the mind can be composed into further forms, but denies that this produces determinate ideas of corporeal things from the self considered as incorporeal.
+- The common notion `apta exsistere` cannot bridge incorporeal and corporeal substance unless both terms are already understood. Otherwise the blind could form ideas of light and color from darkness alone.
+- Descartes' reply repeats the fundamental dispute over `idea`: Gassendi restricts it to phantasy-images, Descartes extends it to everything thought.
+
+Glossary additions earned: `idea sui / cognitio reflexa`, `substantia incorporea / substantia corporea`.
+
+Re-entry:
+
+- Continue with the next `Instantia`, where Gassendi replies to Descartes' appeal to prejudged opinions, the scope of `idea`, and the top rotating on itself.
+
+## 2026-05-15 - Material Existence And Self-Action
+
+Drafted `parts/009-material-existence-and-self-action.md`, covering the `Instantia` after Dubitatio VI on standalone printed pages `140` partial through `144` partial.
+
+What this tranche clarified:
+
+- Gassendi refuses to make ordinary material existence into a proof problem. He contrasts the open obscurities of nature with the childishness of doubting that anything exists outside oneself.
+- Descartes' broad definition of idea as everything thought is treated as an evasion. Gassendi says every thought-object must still appear under some image, at least a mental image.
+- The distinction between images in phantasy and images in mind now matters. Gassendi claims he did not reduce all ideas to phantasy; the problem is that Descartes cannot explain mental images without some corporeal species.
+- `agere in seipsum` becomes a physics and logic issue. Action and passion require a terminus-from-which and a terminus-to-which; without distinct agent and patient there is no motion.
+- The spinning top does not prove self-action. Its circular motion comes from an impressed impulse and shape; parts impel parts successively rather than the whole acting on the whole.
+- Gassendi quotes Descartes back against him on corporeal ideas and argues that the later proof of bodies does not solve the difficulty while Descartes remains inside the affected abstraction that excludes bodies.
+- The closing syllogism again mocks the Cartesian method: affected ignorance plus self-persuasion cannot sort ideas reliably into innate, adventitious, and fictive classes.
+
+Glossary additions earned: `imago in phantasia / imago in mente`, `agere in seipsum`.
+
+Re-entry:
+
+- Begin Dubitatio VII on the main proof for God's existence and the parallel with infinitely many worlds.
+- Watch whether `affectata abstractio` should be promoted from a recurring phrase into a methodological thread.
+
+## 2026-05-15 - God, Infinite Substance, And Infinite Worlds
+
+Drafted `parts/010-god-infinite-substance-and-infinite-worlds.md`, covering `Dubitatio VII` and Descartes' response on standalone printed pages `144` partial through `147` partial.
+
+What this tranche clarified:
+
+- Gassendi accepts the conclusion that God exists but rejects Descartes' route to it.
+- The idea of God is again given a social genealogy: words and notions come from things, parents, teachers, doctors, and human society before the isolated mind can pretend to find them in itself.
+- The infinite substance argument is tested against ancient infinite worlds. If the mind can amplify finite substance into infinite substance, ancient philosophers could amplify this world and its principles into an infinite universe, infinite worlds, and infinite principles.
+- `Ampliatio` now has a cognitive pathology: the enlarged species is drawn from its site, loses distinction of parts, and becomes attenuated until it fades.
+- Gassendi's hair-portrait analogy says a tiny finite grasp cannot be a true idea of the infinite whole.
+- Descartes' response makes incomprehensibility part of the formal nature of the infinite and counters with the triangle analogy: a non-expert idea can still be an idea of the whole triangle.
+
+Glossary additions earned: `idea infiniti / incomprehensibilitas`, `infiniti mundi`.
+
+Re-entry:
+
+- Continue with the `Instantia`, where Gassendi attacks the proof as private, circular, and built on the false state of Cartesian abstraction.
+
+## 2026-05-15 - Private Demonstration And Cartesian Circle
+
+Drafted `parts/011-private-demonstration-and-cartesian-circle.md`, covering the opening of the `Instantia` after Dubitatio VII on standalone printed pages `147` partial through `149` partial.
+
+What this tranche clarified:
+
+- Gassendi restates Descartes' proof in syllogistic form before attacking it.
+- The first general objection is publicity: Descartes demonstrates only to himself, about himself, from his own reported fact. At most this carries authority, not public demonstration.
+- The second objection is the false state of abstraction. Descartes assumes he has no body, senses, prior images, or external world, but this is not a real state from which a proof can be built.
+- The third objection is circularity. Clear and distinct perception is used in Meditation III to prove God, while God's existence and veracity are needed to secure clear and distinct perception in Meditation IV.
+- Gassendi explicitly names the structure `diallelus`, or circle.
+
+Glossary additions earned: `diallelus / circulus`, `demonstratio / authoritas`.
+
+Re-entry:
+
+- Continue with the critique of the major proposition, especially the abandoned royal road through the universe and the obscurity of formal/objective reality.
+
+## 2026-05-15 - Major Proposition And Royal Road
+
+Drafted `parts/012-major-proposition-and-royal-road.md`, covering the critique of the major proposition on standalone printed pages `149` partial through `151` partial.
+
+What this tranche clarified:
+
+- The `via regia` charge is now explicit. Gassendi says Descartes abandoned the public road through the visible universe, whose order, variety, beauty, and constancy cry out their Author.
+- The proof's chosen effect is private and enclosed: an idea in Descartes' mind, obscure even to him and not showable to others like the stars or other parts of the universe.
+- Gassendi degrades this idea from thing to accidental thing, non-thing, mode of a thing, mode of a mode, and part of a mode.
+- Objective reality is pushed past modality into relation and non-being. The seal/wax model now says representation in the mind is only a relation, just as the seal-likeness in wax is a relation.
+- The inseparability of objective and formal reality is turned against Descartes. If the idea's formal reality depends only on thought, and objective reality cannot be separated from it, then the alleged external-cause hypothesis becomes superfluous unless Descartes is hiding the truth from himself.
+- The major premise is not evident because its core terms remain undefined: formality, actuality, cause-reality, representability, absoluteness, relativity, equality, and excess.
+
+Glossary additions earned: `via regia`, `relatio / non ens`; `realitas objectiva / realitas formalis`, `res / realitas / modalitas`, and `repraesentativitas / repraesentabilitas` updated.
+
+Re-entry:
+
+- Continue with the critique of the minor, or assumption, beginning on printed page `151`.
+- Watch whether `via regia` becomes Gassendi's positive alternative to Cartesian privacy rather than only an objection.
