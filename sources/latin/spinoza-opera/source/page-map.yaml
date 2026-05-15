@@ -1,0 +1,38 @@
+preferred_scan:
+  witness: "gentile-1915-ethica"
+  pdf: "source/pdf/spinoza-ethica-gentile-1915.pdf"
+  jp2_dir: "source/page-images/gentile-jp2/"
+  jp2_prefix: "EthicaSpinozaGentile"
+  pdf_pages: 404
+  jp2_files: 404
+  notes: "Preferred for Ethica passages because both PDF and JP2 page-images are available locally."
+
+cassirer_witness:
+  witness: "vanvloten-land-1882-vol1"
+  pdf: "source/pdf/spinoza-opera-vanvloten-land-1882-vol1.pdf"
+  pdf_pages: 650
+  notes: "What Cassirer cites in Erk. Vol. 2. No JP2 page-images locally yet."
+
+modern_witness:
+  witness: "gebhardt-1925-opera"
+  pdf: "source/pdf/spinoza-opera-gebhardt-1925.pdf"
+  pdf_pages: 319
+  notes: "Modern critical reference. Verify volume contents before citing."
+
+anchors:
+  - id: "erk-v2-part030-substance-attribute-definition"
+    status: "candidate"
+    cassirer_file: "texts/erkenntnisproblem-vol2/parts/030-spinoza-thought-attribute-and-anthropomorphism.md"
+    cassirer_footnote: "2"
+    cassirer_citation: "Ethik, P. I, Propos. 10, Schol. und Epist. 27"
+    source_section: "Ethica, Pars I, Propositio X, Scholium"
+    target_excerpt_starts: "Per substantiam intelligo id, quod in se est et per se concipitur"
+    notes: "First obvious encounter target. Cassirer quotes this passage in Part 030 footnote 2 to anchor the chapter-close claim that the attribute concept depends on the intellect's mode of attribution. The Latin is short and self-contained -- good first encounter scale, analogous to the Gassendi sun-idea passage (encounter 001 there)."
+
+  - id: "erk-v2-part017-immediate-revelation"
+    status: "candidate"
+    cassirer_file: "texts/erkenntnisproblem-vol2/parts/017-spinoza-short-treatise-intuition-and-passion.md"
+    cassirer_footnote: "1"
+    cassirer_citation: "Kurzer Traktat, Teil II, Kap. 22, § 1"
+    source_section: "Korte Verhandeling, Part II, chap. 22, § 1 (via Sigwart 1870 German)"
+    notes: "Different witness chain: Cassirer cites Sigwart's German translation of the Dutch Korte Verhandeling, not the Latin Opera. Van Vloten/Land Opera contains the KV in Dutch (later editorial reconstruction). A real encounter here would test Sigwart against Van Vloten's Dutch, not against the Latin -- different methodological move from Ethica encounters."

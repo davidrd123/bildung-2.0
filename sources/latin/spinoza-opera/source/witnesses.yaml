@@ -1,0 +1,43 @@
+witnesses:
+  - id: "gentile-1915-ethica"
+    role: "preferred_page_image_authority_ethica"
+    title: "Benedicti de Spinoza Ethica ordine geometrico demonstrata"
+    editor: "Giovanni Gentile"
+    edition: "Bari: Laterza, 1915 (Scrittori d'Italia)"
+    archive_id: "EthicaSpinozaGentile"
+    local_pdf_source: "/Users/daviddickinson/Downloads/EthicaSpinozaGentile.pdf"
+    local_jp2_source: "/Users/daviddickinson/Downloads/EthicaSpinozaGentile_jp2"
+    imported_pdf: "source/pdf/spinoza-ethica-gentile-1915.pdf"
+    imported_jp2_dir: "source/page-images/gentile-jp2/"
+    jp2_prefix: "EthicaSpinozaGentile"
+    pdf_pages: 404
+    jp2_files: 404
+    notes: "Italian critical edition of the Ethica only. Best visual witness because JP2 page-images are available alongside the PDF. Use for citation-grade extraction of the Latin text."
+
+  - id: "vanvloten-land-1882-vol1"
+    role: "cassirer_anchored_witness"
+    title: "Benedicti de Spinoza Opera quotquot reperta sunt, recognoverunt J. van Vloten et J. P. N. Land, vol. I"
+    editor: "Johannes van Vloten and Jan Pieter Nicolaas Land"
+    edition: "The Hague: Martinus Nijhoff, 1882 (vol. I of 2)"
+    archive_id: "benedictidespino0001jvan"
+    local_pdf_source: "/Users/daviddickinson/Downloads/benedictidespino0001jvan.pdf"
+    imported_pdf: "source/pdf/spinoza-opera-vanvloten-land-1882-vol1.pdf"
+    pdf_pages: 650
+    notes: "This is the edition Cassirer cites in `texts/erkenntnisproblem-vol2` (see Part 018 footnote 6). Use this when verifying which Latin Cassirer himself had on his desk in 1907. Volume II of this edition (Tractatus politicus, Epistolae, Compendium Grammatices) is not yet imported."
+
+  - id: "gebhardt-1925-opera"
+    role: "modern_critical_reference"
+    title: "Spinoza Opera, im Auftrag der Heidelberger Akademie der Wissenschaften"
+    editor: "Carl Gebhardt"
+    edition: "Heidelberg: Carl Winter, 1925 (4 vols., unveränderter Nachdruck)"
+    isbn13: "9783533022626"
+    local_pdf_source: "/Users/daviddickinson/Downloads/Spinoza, Opera_ im Auftrag der Heidelberger Akademie der -- Benedictus de Spinoza; Carl Gebhardt; Heidelberger Akademie -- Unveränd_ Nachdr_ d_ Ausg_ -- isbn13 9783533022626 -- a0fca77ad5472f6449feaeb52681bb36 -- Anna’s Archive.pdf"
+    imported_pdf: "source/pdf/spinoza-opera-gebhardt-1925.pdf"
+    pdf_pages: 319
+    notes: "Standard modern critical edition. The Ethica is in volume II. Cite passages by Gebhardt page number for scholarly cross-reference. This PDF appears to bundle a subset of the four volumes; verify which volume(s) before encounter work."
+
+git_policy:
+  ignored_binary_dirs:
+    - "source/pdf/"
+    - "source/page-images/"
+    - "source/local/"
