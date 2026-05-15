@@ -1267,7 +1267,7 @@ Created `parts/031-leibniz-opening-logical-principles-and-truth.md` from PDF pag
 
 What this tranche clarified:
 
-- Leibniz is introduced through the question of logical principles as an end in itself. Cassirer distinguishes him from Descartes's self-consciousness and Spinoza's ethical-religious God-start without treating him as an eclectic borrower.
+- Leibniz is introduced through the question of logical principles becoming, for the first time, an end in itself. Cassirer distinguishes him from Descartes's self-consciousness and Spinoza's ethical-religious God-start without treating him as an eclectic borrower.
 - The common rationalist ideal of pure deduction remains active across Descartes, Spinoza, Hobbes, Galileo, and Boyle, but Leibniz evaluates these doctrines by their `Forschungsweise`, the way they reach and ground their results.
 - The chapter preface shifts the fixed point from God or immediate possession of truth to the concept and definition of truth itself.
 
@@ -1296,4 +1296,201 @@ Verification result:
 - PDF pages `146-152` were checked against scan/Tesseract output on `_0146` through `_0152`. Scan `_0146` confirms the chapter start at `Zweites Kapitel. Leibniz.`; scan `_0152` confirms the stop before section `I.` and its opening sentence.
 - The review corrected OCR residue around `Verhältnis zu Gott`, `Spinoza`, `Hobbes`, `Experimentalphilosophie`, `Gotteslehre`, `wie wir sahen`, `Begriffsgestaltung`, `Specimen`, `in den Anfängen`, `allgemeine Charakteristik`, `sed est index sui`, `völlig distinkt`, `conceptus aptus`, `Aufweisung`, `Einzelwissenschaften`, `Meditationes de Cognitione, Veritate et Ideis`, `possit`, `ultimam`, `nunc quidem`, `Gerh.`, `Wahrheit`, and `in ipsa generali natura Veritatum`.
 - The substantive French and Latin quotations in footnotes 1 and 4 are translated in the draft-footnote layer. The abbreviation list is summarized because it is a reference surface rather than argumentative evidence.
-- Fresh second pass checked the preface against the Spinoza chapter close and kept the Spinoza bounded note chapter-local. Leibniz is now a live test of the Spinoza demand for a transformed concept of being and knowledge, not its immediate resolution.
+- Fresh second pass checked the preface against the Spinoza chapter close and kept the Spinoza bounded note chapter-local. Trailing review confirmed the close-reading ledger entry was already present, restored the anchor paragraph's `for the first time` emphasis, and tightened `angeblichen Axiome` from "alleged axioms" to "putative axioms." Leibniz is now a live test of the Spinoza demand for a transformed concept of being and knowledge, not its immediate resolution.
+
+## 2026-05-14 - Leibniz, Judgment, Induction, And Innate Ideas
+
+Created `parts/032-leibniz-judgment-induction-and-innate-ideas.md` from PDF pages `152-161` / printed pages `132 partial-141 partial`, beginning with section `I.` / `Wenn wir -- wie die Fragestellung Leibnizens es verlangt...` and stopping before section `II.` / `Die Forderung eines Gedankenalphabets...`.
+
+What this tranche clarified:
+
+- Leibniz's truth-concept becomes a theory of judgment: a valid judgment requires the predicate to be included in the subject, not merely encountered with it in observation.
+- Induction cannot ground itself. Moral certainty, probability, and inference from observed to unobserved cases already presuppose rational principles and a lawful order of occurrence.
+- The distinction between truths of reason and truths of fact is not a double truth. It is a difference in how far analysis can be completed: necessary truths reach an end; contingent truths can only be approached through progressive analysis.
+- Leibniz's doctrine of innate ideas becomes a theory of the mind's own conditions. Experience may occasion knowledge, but it cannot create content in the I that is not intelligible from the mind's own ground.
+- Logic receives a wider task: it must present the interweaving of rational concepts and principles through which objective cognition of particulars becomes possible.
+
+Structural center:
+
+- The load-bearing movement is from empirical induction to rational grounding. Experience remains the first route by which truths of fact become known to us, but the grounding of those truths belongs to the predicate-in-subject structure of judgment and to the a priori reasons analysis seeks.
+
+Routing decision:
+
+- Add `Wahrheit / Urteil` as an open glossary entry.
+- Update `Erfahrung`, `Definition / Konstruktion`, `Begriff / Wort / Zeichen`, `Intuition / Anschauung`, and `Selbstbewußtsein / Ich / innere Erfahrung`.
+- Keep `Scientia generalis`, `allgemeine Charakteristik`, `Logik / Kombinatorik`, `Bewußtsein`, `eingeborene Ideen`, `adminicula`, `totum discretum / totum distributivum`, `moralische Gewißheit`, `Vernunftwahrheiten / Tatsachenwahrheiten`, `apriorische Gründe`, and `symbolische / intuitive Erkenntnis` in the close-reading ledger rather than opening separate entries from section `I.` alone.
+
+Re-entry hooks:
+
+- Part 033 should begin on PDF page `161` / printed page `141` with section `II.` and `Die Forderung eines Gedankenalphabets...`.
+- Watch whether `Scientia generalis` and `allgemeine Charakteristik` earn separate glossary treatment, or whether they remain under `Begriff / Wort / Zeichen` plus `Wahrheit / Urteil`.
+- Watch whether section `II.` shifts the chapter from truth/judgment to alphabet/characteristic/function; this will decide how far the Spinoza geometry problem has become a Leibnizian logic of relations rather than a substance/order problem.
+
+Decision for now:
+
+- Part 032 passes the self-review gate for controlled draft status after a fresh same-agent second pass. The Leibniz chapter has now cleared the opening and section `I.`; a chapter-level goal can be considered after one more check on whether section `II.` introduces a new translation burden around characteristic/alphabet.
+
+Verification result:
+
+- PDF pages `152-161` were checked against scan/Tesseract output on `_0152` through `_0161`. Scan `_0152` confirms the start at section `I.` after Part 031's stop; scan `_0161` confirms the stop before section `II.` / `Die Forderung eines Gedankenalphabets...`.
+- The review corrected OCR residue around `Leibniz`, `I.`, `allgemeine`, `eingeschlossen`, `b` / `a und b`, `Verknüpfungen von`, `zu fordern`, `abstrakten`, `Zusammenfassung für`, `Namen`, `Deduktion, die rein`, `darin enthalten`, `wollen`, `Beobachtung dargeboten`, `Gewißheit`, `sich`, `bei ihnen`, `Abschn. III`, `empirisch, auf`, `Gesetzlichkeit alles`, `Reflexion`, `Weltbild`, `und seiner`, `Échantillon`, `Entendement de l'homme`, `irgendeine`, `Wissenschaft`, `intelligimus`, `zu erwerben`, `die Erkenntnis`, `sie ist`, and `Zusammengesetzte so weit`.
+- The substantive French Arnauld quotation in footnote 2 is translated in the draft-footnote layer. Main-text quotations from Leibniz's Nizolius preface, the `Échantillon`, and the `Scientia generalis` material are translated in the draft body rather than compressed into summaries.
+- Fresh read removed a duplicated Nizolius footnote marker after the first distributive-sense quotation; the scan/raw source places the marker after the second induction quotation. It also tightened `sachlich` from "factual" to "substantive" where Cassirer contrasts formal connection with content, punctuated the nested `Scientia generalis` quotation with single inner quotes so the translated quote structure remains readable, renamed the tranche metadata from "inborn ideas" to "innate ideas" to match the body policy for `eingeborene Ideen`, and added `Bewußtsein` as an active ledger/watchpoint under the self-consciousness cluster.
+
+## 2026-05-14 - Leibniz, Thought Alphabet, Number, And Combinatorics
+
+Created `parts/033-leibniz-thought-alphabet-number-and-combinatorics.md` from PDF pages `161-164` / printed pages `141 partial-144 partial`, beginning with section `II.` / `Die Forderung eines Gedankenalphabets...` and stopping before `Aber es ist nur ein allgemeiner programmatischer Entwurf...`.
+
+What this tranche clarified:
+
+- Section `II.` begins by making `Scientia generalis` a changing task, not a fixed youthful program. The thought alphabet opens Leibniz's philosophy, but Cassirer immediately says the task will be transformed by the contents drawn into it.
+- Number supplies the first secure analogue for adequate cognition. Every complex calculable concept is to be derived from unity, plurality, and sequence, while number appears as the formal model of knowledge.
+- The characteristic-number model translates judgment theory into calculation: subject and predicate must share a basic determination, as numbers share a common factor.
+- Combinatorics extends the model from concepts to being. If everything real or thinkable is composed of parts, then the art of combinations seems to offer the schema for all possible questions of actuality.
+- Early atomism appears as the natural-philosophical correlate of this logic: it is the sensible embodiment of a thought that still imagines all being as buildable from simple elements.
+
+Structural center:
+
+- The load-bearing movement is from truth-as-judgment to the first concrete schema of universal logic. Part 032 made predicate-in-subject inclusion the condition of valid judgment; Part 033 models that condition arithmetically and combinatorially before the next tranche tests its insufficiency.
+
+Routing decision:
+
+- Add `Scientia generalis / Charakteristik / Kombinatorik` as an open glossary entry.
+- Update `Wahrheit / Urteil`, `Definition / Konstruktion`, `Begriff / Wort / Zeichen`, and `Atombegriff / Atomistik`.
+- Keep `Funktion / Funktionsbegriff`, `Analysis der Lage`, `geometrische Charakteristik`, `Kontinuum / Stetigkeit`, `Infinitesimalkalkül`, and `Bewegung` in the close-reading ledger for the next parts of section `II.`.
+
+Re-entry hooks:
+
+- Part 034 should begin on PDF page `164` / printed page `144` with `Aber es ist nur ein allgemeiner programmatischer Entwurf...`.
+- Watch whether the function concept earns a separate glossary entry or remains a pressure inside `Definition / Konstruktion` and `Scientia generalis / Charakteristik / Kombinatorik`.
+- Watch whether `De Arte combinatoria` is treated as a merely youthful schema or as a necessary first form whose failure drives the transition to function, analysis of position, and the continuum problem.
+
+Decision for now:
+
+- Part 033 passes the same-agent self-review gate for controlled draft status. It is enough evidence that section `II.` has a distinct alphabet/characteristic burden; Part 034 should still be done before setting a whole-chapter goal, because it introduces the function turn directly.
+
+Verification result:
+
+- PDF pages `161-164` were checked against scan/Tesseract output on `_0161` through `_0164`. Scan `_0161` confirms the section `II.` start; scan `_0164` confirms the stop before the programmatic-insufficiency paragraph.
+- The review corrected OCR residue around `II.`, `Leibniz'`, `Gesamtentwicklung seiner`, `mit Couturat`, `Analysis`, `Leibniz`, `adaequaten`, `Grundverhältnis`, `Inhalt`, `Subjekt und Prädikat`, `Teilen`, `wird`, `man es nun`, `um in`, `wir`, `Gerh.`, `daliegen`, `Die Atomistik`, and `Begriffsbestimmung der Logik`.
+- Cassirer's substantive methodological footnote on Couturat, logic, the real sciences, and the new analysis is translated in the draft-footnote layer. The three Leibniz quotations are translated in the draft body because they carry the argument.
+- Fresh second pass checked the tranche against Parts 031-032 and the beginning of Part 034, and removed a false paragraph break after the common-factor sentence because the scan continues directly with `Und wie hier der Begriff...`. The wide `pdf-161-180` staging extract was removed so the source layer only keeps the exact `pdf-161-164` tranche files.
+
+## 2026-05-14 - Leibniz, Function, Geometric Characteristic, And Symbolic Cognition
+
+Created `parts/034-leibniz-function-geometric-characteristic-and-symbolic-cognition.md` from PDF pages `164-170` / printed pages `144 partial-150 partial`, beginning with `Aber es ist nur ein allgemeiner programmatischer Entwurf...` and stopping before `Der Übergang zu den Problemen der Natur...`.
+
+What this tranche clarified:
+
+- `De Arte combinatoria` is now explicitly treated as only a programmatic design. The early schema matters, but it cannot itself determine the path of solution.
+- The modern geometrical and analytical methods Leibniz learns in Paris fill the universal science with deeper content and push him beyond merely arithmetical consideration.
+- The function concept replaces the number concept as mathematics' proper ground and content. Number becomes the simplest case of relation in general.
+- Logic must expand beyond the Aristotelian ABC toward higher logical forms: there are as many conceptual calculi as there are kinds of deductive advance from concept to concept and truth to truth.
+- The geometrical characteristic and `Analysis der Lage` provide the test case. Analytic geometry still translates figures into an alien algebraic language; the analysis of position seeks a symbolic calculus that derives positional relations from their determining conditions.
+- The tranche closes by defining the high point of this movement as adequate symbolic cognition: signs reproduce relations that clear images and empirical imagination cannot reach.
+
+Structural center:
+
+- The load-bearing movement is from element-combination to relation-form. The universal science survives the insufficiency of `De Arte combinatoria` by shifting from simple elements and characteristic numbers to function, connection-form, and symbolic reconstruction.
+
+Routing decision:
+
+- Add `Funktion / Funktionsbegriff` as an open glossary entry.
+- Update `Scientia generalis / Charakteristik / Kombinatorik`, `Definition / Konstruktion`, `Begriff / Wort / Zeichen`, `Wahrheit / Urteil`, and `Intuition / Anschauung`.
+- Keep `Analysis der Lage / geometrische Charakteristik`, `Kalkül der Lage / calculus situs`, `adäquate symbolische Erkenntnis`, `Idee / Bild / Einbildungskraft`, `Kontinuum / Stetigkeit`, `Infinitesimalkalkül`, and `Bewegung` in the close-reading ledger until the next tranche tests their independence.
+
+Re-entry hooks:
+
+- Part 035 should begin on PDF page `170` / printed page `150` with `Der Übergang zu den Problemen der Natur...`.
+- Watch whether `Kontinuum / Stetigkeit` earns its own glossary entry or remains a pressure inside `Funktion / Funktionsbegriff` and `Definition / Konstruktion`.
+- Watch whether infinitesimal analysis makes function the bridge from geometry to nature, or whether Cassirer first stages a failure of discrete analysis before Leibniz's answer appears.
+
+Decision for now:
+
+- Part 034 passes the same-agent self-review gate for controlled draft status. The Leibniz chapter now has enough evidence to define a broader goal-run shape, but Part 035 is the natural next calibration point because it tests continuity and infinitesimal analysis.
+
+Verification result:
+
+- PDF pages `164-170` were checked against scan/Tesseract output on `_0164` through `_0170`. Scan `_0164` confirms the start after Part 033's em dash; scan `_0170` confirms the stop before the continuity/nature transition.
+- The review corrected OCR residue around `bezeichnet, der in`, `wenig`, `völlig`, `Abszissen- und Ordinatenwerte`, `Funktionsbegriff`, `Verknüpfung zu`, `Wahrheit`, `Relation überhaupt`, `rerum`, `Matheseos`, `Gerh.`, `glaube`, `die geometrische Charakteristik`, `analytische Geometrie`, `in ihren Voraussetzungen`, `Characteristica Geometrica`, `äußerlicher Unterschied`, `Universalwissenschaft sich stellt`, `Eigentümlichkeiten dieses Prozesses`, `abgeleitet`, `Prinzipienlehre`, `erkennen`, `z. B. Lastträger`, `regelmäßigen Zehneck`, `Funktionsgleichung`, and `Lageverhältnisse zu tun`.
+- The long Wagner quotation, the determining-conditions quotation, the `calculus situs` quotation, the `Nouveaux Essais` image/idea passage, and the final `De Analysi Situs` passage are translated in the draft body because all carry the argument.
+- Fresh second pass checked the function entry against the Part 028 `functional connection` warning. Here `Funktionsbegriff` is not a later-Cassirer import; Cassirer himself names it as the replacement for `Zahlbegriff`, so the glossary promotion is earned. The same pass corrected `Statiker` from "statistician" to "statics expert" in the `Nouveaux Essais` quotation.
+
+## 2026-05-14 - Leibniz, Continuity, Infinitesimal, And Ideal Grounds
+
+Created `parts/035-leibniz-continuity-infinitesimal-and-ideal-grounds.md` from PDF pages `170-176` / printed pages `150 partial-156 partial`, beginning with `Der Übergang zu den Problemen der Natur...` and stopping before `Die historische Frage nach der Ursprünglichkeit...`.
+
+What this tranche clarified:
+
+- The transition to nature cannot happen directly from geometrical characteristic. The discrete manifold still leaves space, time, and continuous change outside the earlier element-analysis.
+- The continuum problem forces Leibniz to distinguish limits from parts: points of space and moments of time are set within the finished totality, not components from which it is composed.
+- `Transcreatio` is Cassirer's staged false solution. It satisfies the formal demand for separable moments by turning motion into repeated annihilation and creation, but thereby makes natural explanation depend on a constant miracle.
+- The infinitesimal solution is logical rather than metaphysical. The simple and the infinitely small are conceptual requisites or ideal grounds, not tiny actual parts.
+- Differential and integral calculus give genetic definition its technical fulfillment: the rule of generation becomes the true element of the curve.
+
+Structural center:
+
+- The load-bearing movement is from metaphysical transcreation to logical infinitesimal. Cassirer shows Leibniz first taking the continuum crisis into a doctrine of divine re-creation, then finding the real solution in the function concept's power to preserve relation, validity, and law where intuitive magnitude disappears.
+
+Routing decision:
+
+- Add `Kontinuum / Stetigkeit / Infinitesimal` as an open glossary entry.
+- Update `Funktion / Funktionsbegriff`, `Definition / Konstruktion`, `Scientia generalis / Charakteristik / Kombinatorik`, `Raum / Zeit`, and `Bewegung`.
+- Keep `Analysis des Unendlichen`, `Transcreatio`, `ideale Gründe`, `Fiktion`, `Ganzes / Teil`, `Auflösung in Begriffe / Zerfällung in Teile`, and `Formenlehre` in the close-reading ledger rather than opening separate entries.
+
+Re-entry hooks:
+
+- Part 036 should begin on PDF page `176` / printed page `156` with `Die historische Frage nach der Ursprünglichkeit...`.
+- Watch whether the next tranche keeps `Kontinuum / Stetigkeit / Infinitesimal` as a mathematical-method entry or expands it into physical motion, force, and natural law.
+- Watch the Fardella quotation on the analysis of the infinite from the inner source of philosophy; it may justify a bounded Leibniz note on mathematical discovery as philosophy made technical.
+- Keep `Maschine / Mechanismus` visible as a possible nature-transition pressure only if the next tranche picks up the `Maschinen der Natur` line from Part 034.
+
+Decision for now:
+
+- Part 035 passes the same-agent self-review gate for controlled draft status. The Leibniz chapter now has enough calibration to define a broader chapter goal: Parts 031-035 have tested truth, judgment, characteristic, function, and continuum/infinitesimal. Part 036 remains the first goal-run stress test because it shifts toward historical priority and physical/natural-philosophical force.
+
+Verification result:
+
+- PDF pages `170-176` were checked against scan/Tesseract output on `_0170` through `_0176`. Scan `_0170` confirms the start after Part 034's final `De Analysi Situs` quotation; scan `_0176` confirms the stop before `Die historische Frage...`.
+- The review corrected OCR residue around `Universalwissenschaft vor`, `Punkt-Mannigfaltigkeit`, `Zusammensetzung des Kontinuums`, `Ganzen`, `Deus ex machina`, `Begreiflichkeit`, `Einzelwissenschaften`, `Die neue Analysis`, `rein qualitativer`, `zu tun`, `Formenlehre`, `Sinn und seiner Geltung`, `Maßverhältnisse`, `Richtungsänderung`, `Universalwissenschaft`, `Kalkül`, `Schärfe`, `Auflösung in Begriffe`, `Zerfällung in Teile`, `methodischen Fiktion`, and `idealen Gründen`.
+- The substantive Latin `transcreatio` quotation is translated in the draft-footnote layer; the Bourguet and Johann Bernoulli quotations are translated in the draft body.
+- Fresh second pass tightened the methodical-fiction sentence so the antecedent is explicit: everything behaves as if this fiction were unconditional truth. The raw/normalized source filenames were also aligned to the part slug (`ideal-grounds`) so the page-map, part handle, and working files match.
+
+## 2026-05-14 - Leibniz, Movement, Continuity, And Ideal Form
+
+Created `parts/036-leibniz-movement-continuity-and-ideal-form.md` from PDF pages `176-180` / printed pages `156 partial-160 partial`, beginning with `Die historische Frage nach der Ursprünglichkeit...` and stopping before `Jetzt erst ist uns der Weg zur Betrachtung des realen Geschehens...`.
+
+What this tranche clarified:
+
+- The priority question is reframed: Leibniz's originality does not lie in first encountering the infinitesimal, but in finding a unified conceptual foundation for scattered mathematical and mechanical beginnings.
+- The Fardella quotation confirms the Part 035 hook. Leibniz himself describes the analysis of the infinite as derived from the innermost source of philosophy and as mathematics rising beyond the merely imaginable.
+- Movement becomes an ideal rational form. It is not an empirical datum, but a pure basic concept through which thought constructs the composite from the simple.
+- The principle of continuity is the rule that lets thought include limiting cases despite the disappearance of sensible analogy: rest must be framed as a special case of movement, equality as a special case under the rule of the unequal.
+- Continuity is ideal but objective. Cassirer stresses that Leibniz does not prove it from the metaphysical essence of motion; he derives it from rational order, and because reality is rational through and through, the ideal law governs the real.
+
+Structural center:
+
+- The load-bearing movement is from historical priority to logical objectivity. The infinitesimal calculus matters because it reveals how a rational rule can include its own limit, and continuity matters because ideal order governs actuality without being read directly from sensible or metaphysical givens.
+
+Routing decision:
+
+- Update `Kontinuum / Stetigkeit / Infinitesimal`, `Bewegung`, `Definition / Konstruktion`, `Scientia generalis / Charakteristik / Kombinatorik`, and `Funktion / Funktionsbegriff`.
+- Keep `Kraft`, `Harmonie`, `mechanische Analogie`, `ewige Wahrheit`, `Fardella`, and `mathematical discovery as philosophy made technical` in the close-reading ledger.
+- Do not open a `Kraft` glossary entry yet; Part 037 begins the explicit force material and should decide whether force becomes a separate surface.
+
+Re-entry hooks:
+
+- Part 037 should begin on PDF page `180` / printed page `160` with `Jetzt erst ist uns der Weg zur Betrachtung des realen Geschehens...`.
+- Watch whether `Kraft` becomes the bridge from ideal continuity to physical dynamics.
+- Watch whether the analysis of real temporal occurrence makes `Wahrheit / Urteil` active again through predicate-in-subject inclusion over time.
+- Hold the Fardella/discovery note until the next tranche shows whether this is a repeated chapter pattern or only the historical framing of Part 036.
+
+Decision for now:
+
+- Part 036 passes the same-agent self-review gate for controlled draft status. The broader Leibniz goal run is operating with the intended discipline: one small formatting sweep, exact source extraction, scan boundary verification, source-language quotation handling, lean glossary routing, and a fresh second pass.
+
+Verification result:
+
+- PDF pages `176-180` were checked against scan/Tesseract output on `_0176` through `_0180`. Scan `_0176` confirms the start at `Die historische Frage...`; scan `_0180` confirms the stop before `Jetzt erst ist uns der Weg...`, where the next problem begins.
+- The review corrected OCR residue around `Durchführung der`, `Entdeckung in`, `intimo philosophiae fonte`, `imaginabilia`, `Historia et origo Calculi differentialis`, `Hannover 1846`, `Dissertatio`, `praesenti`, `novissimis deque usu`, `Grundbegriff, der`, `reine Formen`, `Anfänge`, `in der Anschauung`, `überbrücken`, `in einem letzten Terminus`, `increbuisset`, `Beweis`, `aus dem Wesen`, `Prinzipien`, `d. h.`, `etwas Ideales`, `Leibniz`, and the French accents in the Varignon quotation.
+- The substantive Latin Fardella quotation and French Varignon quotation are translated in the draft-footnote layer. The other substantive quoted material is translated in the draft body.

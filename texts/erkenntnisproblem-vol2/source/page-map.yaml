@@ -494,6 +494,94 @@ ranges:
     trust: "high"
     note: "Part 031 begins on printed page 126 with `Zweites Kapitel. Leibniz.` and stops on printed page 132 before section `I.` / `Wenn wir -- wie die Fragestellung Leibnizens...` begins the judgment analysis."
 
+  - slug: "leibniz-judgment-induction-innate-ideas"
+    label: "Leibniz: judgment, induction, and innate ideas"
+    pdf_pages: [152, 161]
+    printed_pages: ["132 partial", "141 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0152.jp2"
+      - "daserkenntnispro02cassuoft_0153.jp2"
+      - "daserkenntnispro02cassuoft_0154.jp2"
+      - "daserkenntnispro02cassuoft_0155.jp2"
+      - "daserkenntnispro02cassuoft_0156.jp2"
+      - "daserkenntnispro02cassuoft_0157.jp2"
+      - "daserkenntnispro02cassuoft_0158.jp2"
+      - "daserkenntnispro02cassuoft_0159.jp2"
+      - "daserkenntnispro02cassuoft_0160.jp2"
+      - "daserkenntnispro02cassuoft_0161.jp2"
+    trust: "high"
+    note: "Part 032 begins on printed page 132 with section `I.` / `Wenn wir -- wie die Fragestellung Leibnizens es verlangt...` and stops on printed page 141 before section `II.` / `Die Forderung eines Gedankenalphabets...` begins."
+
+  - slug: "leibniz-thought-alphabet-number-combinatorics"
+    label: "Leibniz: thought alphabet, number, and combinatorics"
+    pdf_pages: [161, 164]
+    printed_pages: ["141 partial", "144 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0161.jp2"
+      - "daserkenntnispro02cassuoft_0162.jp2"
+      - "daserkenntnispro02cassuoft_0163.jp2"
+      - "daserkenntnispro02cassuoft_0164.jp2"
+    trust: "high"
+    note: "Part 033 begins on printed page 141 with section `II.` / `Die Forderung eines Gedankenalphabets...` and stops on printed page 144 before `Aber es ist nur ein allgemeiner programmatischer Entwurf...` turns from the early combinatorial schema toward the later function concept."
+
+  - slug: "leibniz-function-geometric-characteristic-symbolic-cognition"
+    label: "Leibniz: function, geometric characteristic, and symbolic cognition"
+    pdf_pages: [164, 170]
+    printed_pages: ["144 partial", "150 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0164.jp2"
+      - "daserkenntnispro02cassuoft_0165.jp2"
+      - "daserkenntnispro02cassuoft_0166.jp2"
+      - "daserkenntnispro02cassuoft_0167.jp2"
+      - "daserkenntnispro02cassuoft_0168.jp2"
+      - "daserkenntnispro02cassuoft_0169.jp2"
+      - "daserkenntnispro02cassuoft_0170.jp2"
+    trust: "high"
+    note: "Part 034 begins on printed page 144 with `Aber es ist nur ein allgemeiner programmatischer Entwurf...`, covers the function-concept turn and geometrical characteristic, and stops on printed page 150 before `Der Übergang zu den Problemen der Natur...` opens the continuity/nature transition."
+
+  - slug: "leibniz-continuity-infinitesimal-ideal-grounds"
+    label: "Leibniz: continuity, infinitesimal, and ideal grounds"
+    pdf_pages: [170, 176]
+    printed_pages: ["150 partial", "156 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0170.jp2"
+      - "daserkenntnispro02cassuoft_0171.jp2"
+      - "daserkenntnispro02cassuoft_0172.jp2"
+      - "daserkenntnispro02cassuoft_0173.jp2"
+      - "daserkenntnispro02cassuoft_0174.jp2"
+      - "daserkenntnispro02cassuoft_0175.jp2"
+      - "daserkenntnispro02cassuoft_0176.jp2"
+    trust: "high"
+    note: "Part 035 begins on printed page 150 with `Der Übergang zu den Problemen der Natur...`, follows the continuum and infinitesimal-analysis solution through the Johann Bernoulli ideal-grounds quotation, and stops on printed page 156 before `Die historische Frage nach der Ursprünglichkeit...` opens the priority/history transition."
+
+  - slug: "leibniz-movement-continuity-ideal-form"
+    label: "Leibniz: movement, continuity, and ideal form"
+    pdf_pages: [176, 180]
+    printed_pages: ["156 partial", "160 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0176.jp2"
+      - "daserkenntnispro02cassuoft_0177.jp2"
+      - "daserkenntnispro02cassuoft_0178.jp2"
+      - "daserkenntnispro02cassuoft_0179.jp2"
+      - "daserkenntnispro02cassuoft_0180.jp2"
+    trust: "high"
+    note: "Part 036 begins on printed page 156 with `Die historische Frage nach der Ursprünglichkeit...`, follows the Fardella/history-priority material through movement as ideal form and the logical principle of continuity, and stops on printed page 160 before `Jetzt erst ist uns der Weg...` opens the analysis of real temporal occurrence."
+
+  - slug: "leibniz-temporal-occurrence-force-living-force"
+    label: "Leibniz: temporal occurrence, force, and living force"
+    pdf_pages: [180, 186]
+    printed_pages: ["160 partial", "166 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0180.jp2"
+      - "daserkenntnispro02cassuoft_0181.jp2"
+      - "daserkenntnispro02cassuoft_0182.jp2"
+      - "daserkenntnispro02cassuoft_0183.jp2"
+      - "daserkenntnispro02cassuoft_0184.jp2"
+      - "daserkenntnispro02cassuoft_0185.jp2"
+      - "daserkenntnispro02cassuoft_0186.jp2"
+    trust: "high"
+    note: "Part 037 begins on printed page 160 with `Jetzt erst ist uns der Weg zur Betrachtung des realen Geschehens...`, follows the analysis of temporal occurrence through derivative force, cause as rational account, work, and the conservation of living force, and stops on printed page 166 before section `III.`."
+
   - slug: "book-vi-start-locke"
     label: "Book VI / Locke opening"
     pdf_pages: [247, 247]

@@ -620,7 +620,7 @@ Routing:
 
 Passage: `parts/031-leibniz-opening-logical-principles-and-truth.md`, printed pages `126-132 partial`.
 
-Part 031 opens the Leibniz chapter by making logical principles the new center. Cassirer contrasts Descartes's self-consciousness and Spinoza's God-idea with Leibniz's question of the principles of knowledge as an end in itself.
+Part 031 opens the Leibniz chapter by making logical principles the new center. Cassirer contrasts Descartes's self-consciousness and Spinoza's God-idea with Leibniz's question of the principles of knowledge becoming, for the first time, an end in itself.
 
 Local pressure:
 
@@ -635,3 +635,113 @@ Routing:
 - Update `Definition / Konstruktion`, `Intuition / Anschauung`, `Substanz / Modi / Attribute`, and `Selbstbewußtsein / Ich / innere Erfahrung`.
 - Do not open a new `Wahrheit / Wahrheitsbegriff` entry from the preface alone; use Part 032's judgment analysis as the promotion test.
 - Use Part 032 to test whether Leibniz transforms Spinoza's geometry/being problem through truth and principle, or whether Cassirer first deepens the common rationalist definition doctrine.
+
+## 2026-05-14 - Leibniz: Judgment, Induction, and Innate Ideas
+
+Passage: `parts/032-leibniz-judgment-induction-and-innate-ideas.md`, printed pages `132 partial-141 partial`.
+
+Part 032 turns the Leibniz preface's concept of truth into judgment theory. Predicate-in-subject inclusion becomes the condition of valid judgment; empirical coexistence and induction are valid only insofar as they rest on rational grounds that can be analyzed.
+
+Local pressure:
+
+- `Wahrheit / Urteil` now earns a glossary entry. The section does not merely mention truth; it makes the subject-predicate relation the criterion for judgment validity and makes necessary and contingent truths differ by analyzability, not by belonging to two unrelated truth standards.
+- `Erfahrung` is requalified through induction. Experience supplies the first finding of truths of fact, but it cannot ground the necessity or even moral certainty of induction without rational principles.
+- `Definition / Konstruktion` remains active in the Nizolius contrast: the general concept is not an empirical aggregate but an ideal, distributive whole grasped through genetic construction.
+- `Begriff / Wort / Zeichen` picks up the `Scientia generalis` and characteristic pressure. Logic becomes more than formal arrangement; it must present the interweaving of rational concepts through lawful sign-connections.
+- `Selbstbewußtsein / Ich / innere Erfahrung` re-enters through innate conditions. No experience can create content in the I that cannot be made intelligible from the mind's own conditions.
+- `Bewußtsein` is now active inside the same cluster: the `Scientia generalis` presupposes the Leibnizian concept of consciousness and also first brings it to concrete fulfillment. Keep this under `Selbstbewußtsein / Ich / innere Erfahrung` for now rather than opening a standalone term.
+- `Intuition / Anschauung` shifts into the Leibnizian cognition ladder: symbolic cognition handles composites through signs, while intuitive cognition belongs properly to primitive distinct representations.
+- `Scientia generalis`, `allgemeine Charakteristik`, `Logik / Kombinatorik`, `eingeborene Ideen`, `adminicula`, `totum discretum / totum distributivum`, `moralische Gewißheit`, `Vernunftwahrheiten / Tatsachenwahrheiten`, `apriorische Gründe`, and `symbolische / intuitive Erkenntnis` are active pressures.
+
+Routing:
+
+- Add `Wahrheit / Urteil` as an open glossary entry.
+- Update `Erfahrung`, `Definition / Konstruktion`, `Begriff / Wort / Zeichen`, `Intuition / Anschauung`, and `Selbstbewußtsein / Ich / innere Erfahrung`.
+- Keep `Scientia generalis` and `allgemeine Charakteristik` ledger-only until section `II.` tests whether alphabet/characteristic becomes its own structural surface.
+
+## 2026-05-14 - Leibniz: Thought Alphabet, Number, And Combinatorics
+
+Passage: `parts/033-leibniz-thought-alphabet-number-and-combinatorics.md`, printed pages `141 partial-144 partial`.
+
+Part 033 opens section `II.` by giving Leibniz's `Scientia generalis` its first concrete model. The thought alphabet is first imagined arithmetically: complex concepts receive characteristic numbers, and true judgment becomes common-factor agreement between subject and predicate.
+
+Local pressure:
+
+- `Scientia generalis / Charakteristik / Kombinatorik` now earns a glossary entry. Section `I.` introduced the pressure; section `II.` makes alphabet, characteristic number, and combinatorics the structural surface.
+- `Wahrheit / Urteil` is translated into characteristic form: predicate-in-subject inclusion becomes agreement in a shared basic determination.
+- `Definition / Konstruktion` becomes element-construction: complex concepts are to be assigned to basic classes before compatibility can be calculated.
+- `Begriff / Wort / Zeichen` gains a concrete sign-model through characteristic numbers, without collapsing the whole entry into Leibniz alone.
+- `Atombegriff / Atomistik` receives Leibniz contrast evidence. Here atomism is not Gassendi's sensory physics but the natural-philosophical correlate of combinatorial logic.
+- `Funktion / Funktionsbegriff`, `Analysis der Lage`, `geometrische Charakteristik`, `Kontinuum / Stetigkeit`, `Infinitesimalkalkül`, and `Bewegung` are active next-section pressures because the following paragraph turns directly from `De Arte combinatoria` to the function concept.
+
+Routing:
+
+- Add `Scientia generalis / Charakteristik / Kombinatorik`.
+- Update `Wahrheit / Urteil`, `Definition / Konstruktion`, `Begriff / Wort / Zeichen`, and `Atombegriff / Atomistik`.
+- Do not open `Funktion / Funktionsbegriff` yet. Part 034 should decide whether function becomes a separate glossary surface or remains a transformation inside the characteristic/combinatorics cluster.
+
+## 2026-05-14 - Leibniz: Function, Geometric Characteristic, And Symbolic Cognition
+
+Passage: `parts/034-leibniz-function-geometric-characteristic-and-symbolic-cognition.md`, printed pages `144 partial-150 partial`.
+
+Part 034 answers the Part 033 hook by making the function concept explicit. `De Arte combinatoria` remains only a programmatic youth-schema; modern geometry and analysis give the universal science a deeper content by replacing element-combination with forms of connection.
+
+Local pressure:
+
+- `Funktion / Funktionsbegriff` now earns a glossary entry. Cassirer explicitly says the function concept takes the place of the number concept as mathematics' proper ground and content.
+- `Scientia generalis / Charakteristik / Kombinatorik` is transformed rather than discarded. The thought alphabet becomes a wider investigation of connection-forms, higher logical forms, and symbolic calculi.
+- `Definition / Konstruktion` shifts from assigning concepts to simple elements toward deriving the elements themselves through rule-governed thought-movement.
+- `Begriff / Wort / Zeichen` gains a new sign-layer: adequate symbolic cognition and abbreviated signs in the analysis of position, not merely characteristic numbers.
+- `Wahrheit / Urteil` becomes a problem of deductive advance from truth to truth under higher logical forms.
+- `Intuition / Anschauung` is reactivated negatively: analytic geometry still borrows elements from geometrical intuition, while the analysis of position aims to reconstruct them symbolically.
+- `Analysis der Lage / geometrische Charakteristik`, `Kalkül der Lage / calculus situs`, `adäquate symbolische Erkenntnis`, `Idee / Bild / Einbildungskraft`, `Kontinuum / Stetigkeit`, `Infinitesimalkalkül`, and `Bewegung` remain active pressures.
+
+Routing:
+
+- Add `Funktion / Funktionsbegriff`.
+- Update `Scientia generalis / Charakteristik / Kombinatorik`, `Definition / Konstruktion`, `Begriff / Wort / Zeichen`, `Wahrheit / Urteil`, and `Intuition / Anschauung`.
+- Do not open `Analysis der Lage / geometrische Charakteristik` or `Kontinuum / Stetigkeit` yet. Part 035 should test whether the continuity and infinitesimal-analysis material makes either pressure structurally independent.
+
+## 2026-05-14 - Leibniz: Continuity, Infinitesimal, And Ideal Grounds
+
+Passage: `parts/035-leibniz-continuity-infinitesimal-and-ideal-grounds.md`, printed pages `150 partial-156 partial`.
+
+Part 035 tests the function turn against the continuum. The analysis of position still works through a discrete manifold of points, but space, time, and continuous change cannot be assembled from final units. Leibniz's first answer, `transcreatio`, is a metaphysical detour; Cassirer's structural answer is the infinitesimal as conceptual requisite and ideal ground.
+
+Local pressure:
+
+- `Kontinuum / Stetigkeit / Infinitesimal` now earns a glossary entry. Continuity is not a composition of ultimate units; points and moments are limits within a finished totality.
+- `Funktion / Funktionsbegriff` is tested beyond geometry. A fixed law of coordination keeps its sense and validity even when the magnitudes that first displayed it vanish for intuition.
+- `Definition / Konstruktion` reaches a sharper Leibnizian form: the rule of generation becomes the true element, differential calculus secures conditions, and integral calculus constructs the content from those conditions.
+- `Scientia generalis / Charakteristik / Kombinatorik` is expanded from discrete element-combination toward analysis of the infinite. The old schema is not erased, but it is insufficient for the continuum.
+- `Raum / Zeit` receives explicit Leibniz contrast evidence: points of space and moments of time are limits, not parts or constitutive factors.
+- `Bewegung` re-enters through the rejected transcreation solution. Motion as repeated annihilation and recreation marks the failure of metaphysical repair before logical clarification.
+- `Analysis des Unendlichen`, `Transcreatio`, `ideale Gründe`, `Fiktion`, `Ganzes / Teil`, `Auflösung in Begriffe / Zerfällung in Teile`, `Formenlehre`, `Maßverhältnisse`, and `Größenbegriff` remain active pressures.
+
+Routing:
+
+- Add `Kontinuum / Stetigkeit / Infinitesimal`.
+- Update `Funktion / Funktionsbegriff`, `Definition / Konstruktion`, `Scientia generalis / Charakteristik / Kombinatorik`, `Raum / Zeit`, and `Bewegung`.
+- Keep `Transcreatio`, `ideale Gründe`, and `methodische Fiktion` ledger-only for now; they are the local vocabulary through which the continuum entry is earned, not yet separate structural surfaces.
+- Use Part 036 to test whether continuity/infinitesimal remains a mathematical-method entry or expands into the physical problems of motion, force, and natural law.
+
+## 2026-05-14 - Leibniz: Movement, Continuity, And Ideal Form
+
+Passage: `parts/036-leibniz-movement-continuity-and-ideal-form.md`, printed pages `156 partial-160 partial`.
+
+Part 036 answers the Fardella hook without yet opening force. Cassirer treats the historical priority question as subordinate to the philosophical source of Leibniz's calculus: the infinitesimal arises from the analysis of concepts, then movement becomes a pure rational form and continuity becomes a logical postulate with objective reach.
+
+Local pressure:
+
+- `Kontinuum / Stetigkeit / Infinitesimal` gains its next layer. Continuity is now explicitly a postulate for the establishment and connection of concepts; it is ideal, but not merely subjective.
+- `Bewegung` shifts from the rejected `transcreatio` problem into a pure rational basic concept. It is the principle thought uses to construct the composite from the simple, not an isolated empirical datum.
+- `Definition / Konstruktion` is named as the true source of the infinitesimal discovery: conditions of definition and deductive proof, not priority chronology, explain Leibniz's originality.
+- `Scientia generalis / Charakteristik / Kombinatorik` receives historical-method evidence: the new calculus is the analysis of the infinite as a technical execution of the analysis of concepts.
+- `Funktion / Funktionsbegriff` remains active through the limiting-case logic: the rational relation holds even when intuitive likeness or analogy disappears.
+- `Harmonie`, `Kraft`, `mechanische Analogie`, `ewige Wahrheit`, `Fardella`, `Newton / Fluxionsbegriff`, `Galilei / Kepler / Cavalieri / Fermat / Descartes`, and `mathematical discovery as philosophy made technical` are active pressures.
+
+Routing:
+
+- Update `Kontinuum / Stetigkeit / Infinitesimal`, `Bewegung`, `Definition / Konstruktion`, `Scientia generalis / Charakteristik / Kombinatorik`, and `Funktion / Funktionsbegriff`.
+- Do not open `Kraft` yet. The term is not the object of this tranche; the next section begins with the analysis of real temporal occurrence and quickly turns to the force concept.
+- Do not create the Fardella/discovery bounded note yet. The material confirms the hook, but one more tranche should decide whether it becomes a chapter-level pattern or stays as historical framing.
