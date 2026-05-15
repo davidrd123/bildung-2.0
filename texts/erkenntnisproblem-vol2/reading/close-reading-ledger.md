@@ -745,3 +745,27 @@ Routing:
 - Update `Kontinuum / Stetigkeit / Infinitesimal`, `Bewegung`, `Definition / Konstruktion`, `Scientia generalis / Charakteristik / Kombinatorik`, and `Funktion / Funktionsbegriff`.
 - Do not open `Kraft` yet. The term is not the object of this tranche; the next section begins with the analysis of real temporal occurrence and quickly turns to the force concept.
 - Do not create the Fardella/discovery bounded note yet. The material confirms the hook, but one more tranche should decide whether it becomes a chapter-level pattern or stays as historical framing.
+
+## 2026-05-14 - Leibniz: Temporal Occurrence, Force, And Living Force
+
+Passage: `parts/037-leibniz-temporal-occurrence-force-and-living-force.md`, printed pages `160 partial-166 partial`.
+
+Part 037 turns the ideal continuity problem into the analysis of real temporal occurrence. The question is no longer only how a limit belongs under a rational rule, but how genuinely new contents can arise in time without breaking the principle that the predicate is grounded in the subject.
+
+Local pressure:
+
+- `Kraft / Arbeit / lebendige Kraft` now earns a glossary entry. Force names the present state's directed tendency toward the following state, work gives heterogeneous processes a common measurable standpoint, and conservation of living force turns apparent new creation into transformation of one persistent content.
+- `Bewegung` remains necessary but insufficient. Motion by itself has no actual existence as an isolated whole; dynamics needs force to make temporal occurrence rationally intelligible.
+- `Kontinuum / Stetigkeit / Infinitesimal` now enters physics through the force concept: the present pre-involves the future, and continuous occurrence is secured by lawful transition rather than by metaphysical transcreation.
+- `Ursache / Bedingung / Erzeugung` receives the Leibniz dynamics formulation: causes are taken from rendering a reason, not from real influx.
+- `Erfahrung` is subordinated without being discarded. Principles can account for experience and determine cases without themselves being derived from mere experiment.
+- `Wahrheit / Urteil` returns under time: truths of fact must dissolve progressively into rational propositions, and becoming must be readable from the preceding state.
+- `Scientia generalis / Charakteristik / Kombinatorik` gets its natural-philosophical stress test in the idea of a higher characteristic that could read the following states from the present body's formula.
+- `mechanische Naturauffassung`, `Satz vom zureichenden Grunde`, `geistiges Sein`, `höhere Charakteristik`, `Erhaltung der Richtung`, and `Erhaltung / conservation` are active pressures.
+
+Routing:
+
+- Add `Kraft / Arbeit / lebendige Kraft`.
+- Update `Bewegung`, `Kontinuum / Stetigkeit / Infinitesimal`, `Ursache / Bedingung / Erzeugung`, `Erfahrung`, `Wahrheit / Urteil`, and `Scientia generalis / Charakteristik / Kombinatorik`.
+- Do not open a separate `mechanische Naturauffassung`, `Satz vom zureichenden Grunde`, or `Erhaltung` entry yet. Part 037 makes them function inside the force/living-force cluster.
+- Use Part 038 to test whether section `III.` moves from force/dynamics into image, symbol, and expression strongly enough to earn a new routing surface.
