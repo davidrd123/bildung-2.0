@@ -1,8 +1,12 @@
 # Campanella — Metaphysica (1638)
 
-This is a bounded Latin source campaign for Tommaso Campanella's *Universalis philosophiae seu Metaphysicarum rerum, iuxta propria dogmata, partes tres, libri III* (Paris, 1638, ed. Burellius).
+This is a bounded Latin source campaign for the work catalogued as Tommaso Campanella's *Universalis philosophiae seu Metaphysicarum rerum, iuxta propria dogmata, partes tres, libri 18* (Paris, 1638, ed. Burellius).
 
-It exists first to ground and transclude the Campanella material in `texts/erkenntnisproblem-vol2`, especially the Spinoza chapter (Part 018), where Cassirer cites Campanella's account of intuitive cognition as `intrinsecatio, per quam unum fit aliud` — the soul's becoming-one with its object. It is not yet a sequential translation campaign.
+It exists first to make Campanella's *Metaphysica* usable as a source-near reading substrate for `texts/erkenntnisproblem-vol2`, especially the Spinoza chapter (Part 018), where Cassirer cites Campanella's account of intuitive cognition as `intrinsecatio, per quam unum fit aliud` — the soul's becoming-one with its object.
+
+The operating model is closer to Gassendi than to a one-off encounter: transcribe the Latin accurately from the witness, normalize OCR damage transparently, translate in bounded slices, and keep enough apparatus that later chats can address the source directly. This does **not** by itself promote Campanella to `texts/`; it remains `sources/` substrate unless separate engagement work begins producing structural reading notes about Campanella's argument as such.
+
+The long horizon may become closer to the Lotman workflow: page-order transcription and translation of the text rather than only concept-driven slices. For now, the first slices are conceptual pilots around `intrinsecatio`; if page-order work begins, mark the transition explicitly and use smaller page units where the Latin or OCR requires slower verification. Numeric `NNN-*` part filenames are reserved for that literal page-order work.
 
 ## Source Decision
 
@@ -32,9 +36,9 @@ The tracked files in this folder should be maps, corrected extracts, translation
 - `source/page-map.yaml` records known page correspondences and Vol. 2 anchors.
 - `source/raw/` keeps raw ABBYY extraction outputs (per page, structured by block type).
 - `source/normalized/` keeps corrected working extracts; long-s repair is the dominant pass.
-- `encounters/` keeps source-grounding passages and translation notes. **These are the load-bearing artifacts of the campaign** — each contains verified Latin against the JP2, working translation, and observations.
-- `parts/` is reserved for longer sequential translation chunks if the campaign grows.
-- `reading/` keeps crosswalks back to `texts/erkenntnisproblem-vol2`.
+- `encounters/` keeps citation-grade or concept-anchor passages tied to Cassirer or to a specific crosswalk question. These are deep grounding files, not the only valid output form.
+- `parts/` keeps bounded transcription-and-translation slices when the task is making Campanella readable for chat-paced source work. Current non-sequential concept-chain work uses descriptive `pilot-*` filenames; numeric `NNN-*` filenames are reserved for literal page-order transcription/translation.
+- `reading/` keeps crosswalks back to `texts/erkenntnisproblem-vol2` and secondary triage notes, such as the Ernst chapter 10 map.
 - `scripts/` keeps local extraction helpers.
 
 ## Quickstart for New Agents
@@ -59,7 +63,7 @@ A fresh clone of the repo will not have the IA-package binaries (PDF, JP2s, ABBY
    python3 scripts/normalize_extract.py  source/raw/intrinsecatio-jp2-0906-abbyy.txt
    ```
 
-To find what work has been done and what is open, read in this order: this README → `journal.md` (chronological, most recent at top) → `source/page-map.yaml` (anchors with extract paths) → the `encounters/` directory. The journal lists open re-entry items in rough priority order; the encounters are the load-bearing artifacts.
+To find what work has been done and what is open, read in this order: this README → `journal.md` (chronological, most recent at top) → `source/page-map.yaml` (anchors with extract paths) → `parts/` and `encounters/`. The journal lists open re-entry items in rough priority order; `parts/` and `encounters/` are the load-bearing text artifacts.
 
 ## OCR Pipeline
 
@@ -76,4 +80,14 @@ The normalization pass applies long-s repair using the corpus-derived lexicon, w
 
 ## Current Priority
 
-The first anchor is Cassirer's Vol. 2 Part 018 (Spinoza, Renaissance background) citation of Campanella's account of intuitive cognition as `intrinsecatio, per quam unum fit aliud`. The corresponding Latin passage location is not yet identified — extracting and grepping the full ABBYY text is the next step.
+The first anchor is now located and opened as `encounters/001-intrinsecatio-cap-ii-art-i.md`: Cassirer's Vol. 2 Part 018 citation of `intrinsecatio, per quam unum fit aliud` corresponds to Pars III, Liber XVII, Caput II, Articulus I, printed page 244 / JP2 leaf 0906.
+
+Current pickup should follow the Gassendi distinction between substrate-building and engagement:
+
+- Build accurate Latin + working English substrate in `parts/` when the goal is making a passage or short run chat-addressable.
+- Use `encounters/` for citation-grade anchors that need a fuller local-context file.
+- Keep the distinction between concept-chain pilots and eventual literal page-order transcription visible.
+- Keep `journal.md`, `glossary.yaml`, and `source/page-map.yaml` in lockstep after each meaningful slice.
+- If continuing the intrinsecation/sapientia chain, the next source-contact priority is the leaf-438 `sapientia` / `mensura entis et veri` passage.
+- If following Ernst's self-knowledge/Cassirer/Descartes signal, the leaf-85/86 ninth-dubitation response is now opened; the next local continuation is leaf 86 lower half, `Responsio ad Decimam Dubitationem`.
+- If switching to page order, resume from the omitted leaf-23 right column or the lower half of leaf 28 and start numeric `NNN-*` files only at that point.

@@ -22,7 +22,7 @@
     - "to become-one-with"
     - "to enter intrinsically into"
   status: open
-  notes: "The verbal form has wider distribution than the noun (verb hits on leaves 23, 28, 210, 438, 617). At leaf 23 it describes how taste alone among the senses `intrinsecatur` into its object; at leaf 617 the active and passive coordinate (`intrinsecatur & extrinsecatur`) describes God's relation to all things. Watch whether the same verb does the same work across cognitive, physical, and theological registers, or whether the senses diverge."
+  notes: "The verbal form has wider distribution than the noun (verb hits on leaves 23, 28, 210, 438, 617). In the leaf-23 pilot slice, taste alone among the senses `intrinsecatur obiecto`; in the leaf-28 pilot slice, pepper becomes hot in the mouth because `rei natura nobis intrinsecatur`, though the entry is altered by saliva, tongue, flesh, air, and accidents. At leaf 617 the active and passive coordinate (`intrinsecatur & extrinsecatur`) describes God's relation to all things. Watch whether the same verb does the same work across cognitive, physical, and theological registers, or whether the senses diverge."
 
 - term: "intrinsecatur & extrinsecatur"
   handle: "term:campanella-intrinsecatur-extrinsecatur-pair"
@@ -64,7 +64,77 @@
     - "tasting"
     - "gustation"
   status: open
-  notes: "Bodily figure that funds the entire intrinsecation doctrine (leaf 23, not yet opened as its own encounter). Taste is the sense that intrinsecates its object rather than receiving images of it; therefore the bodily analogue of intuitive cognition. Encounter 001 quotes the leaf-906 polemic against Mahomet for taking the Scriptural eating-metaphor of paradise literally rather than as the figure for intuitive cognition. Keep open until the leaf-23 encounter is written."
+  notes: "Bodily figure that funds the entire intrinsecation doctrine. The leaf-23 pilot opens the passage where taste gives `sapientia` its name because it reaches intrinsic, hidden, and weak natures, and `solus hic sensus intrinsecatur obiecto`; but the same passage uses the variability of taste to deny that wisdom is given through sense even in part. Encounter 001 quotes the leaf-906 polemic against Mahomet for taking the Scriptural eating-metaphor of paradise literally rather than as the figure for intuitive cognition."
+
+- term: "sapere / sapientia / sapor"
+  handle: "term:campanella-sapere-sapientia-sapor"
+  kind: term_cluster
+  preferred: null
+  alternatives:
+    - "to taste / wisdom / flavor"
+    - "to know / wisdom / savor"
+  status: open
+  notes: "The leaf-23 pilot makes the etymological pressure explicit: `Sapientia enim dicitur a sapore, et gustu sapiente res prout sunt.` The cluster is double-edged. Taste seems to deserve the name of wisdom because it reaches intrinsic nature; yet taste's bodily variability shows why sensory wisdom fails. The leaf-28 pilot extends the cluster upward: we have no `saporem` of God and angels because they are known through effects, not proper images. Leaf 85 then separates `sapientia` from acquired `sapor`: `sapientia inest: sapor accedit... scientia non acquiritur, sed scibilia acquiruntur.` Keep English flexible at pressure points rather than flattening `sapere` into either only 'taste' or only 'know'."
+
+- term: "notitia superaddita / innata et abdita"
+  handle: "term:campanella-notitia-superaddita-abdita"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "superadded knowledge / innate and hidden knowledge"
+    - "added knowledge / hidden innate knowledge"
+  status: open
+  notes: "Leaf 85 distinguishes the soul's apparent self-forgetting as a feature of `notitia superaddita`, not of `notitia innata & abdita`. This is the primary Latin hinge behind Ernst's abdita/addita map and Cassirer's self-consciousness discussion: every being first knows itself, but ordinary object-knowledge habituates the soul away from noticing that hidden self-sense."
+
+- term: "scientia non acquiritur, sed scibilia acquiruntur"
+  handle: "term:campanella-scientia-non-acquiritur"
+  kind: thesis
+  preferred: null
+  alternatives:
+    - "knowledge is not acquired, but knowables are acquired"
+    - "science is not acquired; knowable things are acquired"
+  status: open
+  notes: "Leaf 85's strongest local formula for Campanella's occasional-cause model of knowing. Passion is not the active cause that produces science; it is the specifying occasion by which innate wisdom is directed toward objects. Keep the awkward `scibilia` visible, since Campanella is shifting acquisition from the power of knowing to the objects/specifications of knowing."
+
+- term: "Sapientia est primalitas"
+  handle: "term:campanella-sapientia-est-primalitas"
+  kind: thesis
+  preferred: null
+  alternatives:
+    - "Wisdom is a primality"
+    - "Wisdom is one of the primalities"
+  status: open
+  notes: "Leaf 85: `Sapientia est primalitas sicut potestas & voluntas.` This ties the self-knowledge answer to the triadic doctrine of power, wisdom, and will/love. Do not treat `sapientia` here as merely an epistemic virtue; it is being named as a basic determination of being. Leaf 86 continues with `Sapientia autem est sanitas orbis terrarum`, moving from the primality claim to wisdom's public and political effect."
+
+- term: "voluntas / amor"
+  handle: "term:campanella-voluntas-amor"
+  kind: lexical_question
+  preferred: null
+  alternatives:
+    - "will / love"
+  status: open
+  notes: "Leaf 85 names the third primality as `voluntas` in `Sapientia est primalitas sicut potestas & voluntas`; Ernst's account and Adami's Praefatio foreground the triad as power, wisdom, love (`potestas, sapientia, amor`). Track whether `voluntas` and `amor` are interchangeable in Campanella's primality doctrine or whether this passage marks a local epistemological inflection."
+
+- term: "alienatio"
+  handle: "term:campanella-alienatio"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "alienation"
+    - "becoming-other"
+  status: open
+  notes: "Cassirer's Vol. 1 Campanella section turns on `insanire et perdere proprium esse et acquirere alienum`. Leaf 85 accepts the premise that `scire sit pars alienationis`, but denies that this is madness unless alienation becomes total and judgment of self and other is lost. This is a crucial guard against reading Campanella's `fieri rem cognitam` as simple self-loss."
+
+- term: "imago / simulachrum"
+  handle: "term:campanella-imago-simulachrum"
+  kind: term_cluster
+  preferred: null
+  alternatives:
+    - "image / simulacrum"
+    - "representation"
+    - "altered image"
+  status: open
+  notes: "The leaf-28 pilot uses images and simulacra to generalize sensory mediation: celestial images reach us only `alteratissime`, fish see things in our air only through simulacra altered by air and water, and visible things may be images of truer things in the angelic world and in God. Connects back to encounter 001's contrast between eye-seeing through mediated species and soul-seeing through intrinsecation."
 
 - term: "Cognoscere enim est fieri rem cognitam"
   handle: "term:campanella-cognoscere-est-fieri"

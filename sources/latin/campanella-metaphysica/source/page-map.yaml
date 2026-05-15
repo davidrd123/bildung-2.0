@@ -16,6 +16,38 @@ leaf_numbering:
       content: "title page (M.DC.XXXVIII; Universalis Philosophiae...Partes Tres)"
     - jp2_leaf: 7
       content: "dedication to Claudio de Bullion"
+    - jp2_leaf: 23
+      content: |
+        Liber I, Caput I, Dubitatio III. Taste/sapientia argument:
+        `Sapientia enim dicitur a sapore...`; taste alone
+        `intrinsecatur obiecto`, but its variability blocks sensory
+        wisdom. Printed page number not yet securely read. See leaf-23
+        pilot slice.
+    - jp2_leaf: 28
+      content: |
+        Running page appears to be 16. Top continuation before Dubitatio VII:
+        tangible qualities are altered by flesh, air, and accidents; pepper
+        becomes hot in the mouth because `rei natura nobis intrinsecatur`,
+        yet even this entry is altered. Also extends mediation upward to God,
+        angels, stars, altered images, Paul, Plato, and Augustine. See leaf-28
+        pilot slice.
+    - jp2_leaf: 85
+      printed_page: 73
+      content: |
+        Liber I, Caput IX, Responsio ad nonam dubitationem. Self-knowledge,
+        `notitia` superadded vs. innate/hidden, pupil/stone-color example,
+        and `Sapientia est primalitas sicut potestas...`. Ernst cites
+        Metaphysica part I, p. 73a/b for the abdita/addita knowledge node.
+        Cassirer cites the same page as `P. I, Lib. I, Cap. IX, Art. IX`
+        (T. I, S. 73) in Vol. 1's divine-ideas section.
+    - jp2_leaf: 86
+      printed_page: 74
+      content: |
+        Top of page completes Liber I, Caput IX, Articulus IX, the response
+        to the ninth dubitation: wisdom is not formally affliction, the
+        sophistical fantasy is total knowledge of God's works, and wisdom is
+        `sanitas orbis terrarum`. Lower page begins the response to the tenth
+        dubitation on innate/illata science.
     - jp2_leaf: 114
       printed_page: 102
       content: "Metaphysica body; running header METAPH. CAMPANELLÆ, two-column"
@@ -39,6 +71,86 @@ leaf_numbering:
         right-margin blocks. See encounter 001.
 
 anchors:
+  - id: "campanella-pilot-gustus-intrinsecatio"
+    status: "opened"
+    purpose: "Gassendi-style source substrate for the leaf-23 taste argument that grounds the later intrinsecatio doctrine."
+    location:
+      jp2_leaf: 23
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0023.jp2"
+      printed_page: null
+      section: "Liber I, Caput I, Dubitatio III; Tertium argument on gustus"
+      raw_extract: "source/raw/leaf-0023-gustus-intrinsecatio-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0023-gustus-intrinsecatio-abbyy.normalized.txt"
+      part: "parts/pilot-gustus-sapientia-and-intrinsecatio.md"
+    latin_signal_phrase: "Sapientia enim dicitur a sapore... solus hic sensus intrinsecatur obiecto"
+    content_note: |
+      Taste gives `sapientia` its name because it reaches intrinsic,
+      hidden, and weak natures, but Campanella places the claim inside a
+      skeptical argument: taste varies by person, age, illness, temperament,
+      and animal nature, so wisdom is not given through sense even in part.
+    caveat: |
+      ABBYY and Tesseract agree on the key reading `obiectum illi totum`,
+      but the syntax is elliptical and wants direct high-resolution image
+      collation before being treated as settled.
+
+  - id: "campanella-pilot-pepper-heat-intrinsecatio"
+    status: "opened"
+    purpose: "Source substrate for the leaf-28 pepper/heat example where the thing's nature is intrinsecated into us but altered by organs and media."
+    location:
+      jp2_leaf: 28
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0028.jp2"
+      printed_page: null
+      section: "Continuation before Liber I, Caput I, Dubitatio VII"
+      raw_extract: "source/raw/leaf-0028-pepper-heat-intrinsecatio-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0028-pepper-heat-intrinsecatio-abbyy.normalized.txt"
+      part: "parts/pilot-pepper-heat-and-altered-intrinsecatio.md"
+    latin_signal_phrase: "rei natura nobis intrinsecatur"
+    content_note: |
+      Pepper is cold to touch but hot in the mouth because it is broken up
+      and the thing's nature is intrinsecated into us. Yet that same entry is
+      altered by saliva, tongue, flesh, intervening air, and accidents. The
+      passage therefore confirms intrinsecation as bodily real while denying
+      that sensory contact gives the thing as it is.
+    caveat: |
+      The star-image line `quasdam imaginarias [ef]fulsiones` remains
+      unsettled and needs page-image collation.
+
+  - id: "ernst-part-i-page-73-self-knowledge"
+    status: "opened"
+    purpose: "Ernst- and Cassirer-guided source substrate for self-knowledge, abdita/addita knowledge, and wisdom as primality."
+    secondary_guide: "reading/ernst-ch10-metaphysica-map.md"
+    cassirer_guide: "reading/cassirer-campanella-latin-citation-map.md"
+    location:
+      jp2_leaf: 85
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0085.jp2"
+      printed_page: 73
+      section: "Liber I, Caput IX, Responsio ad nonam dubitationem"
+      raw_extract: "source/raw/leaf-0085-self-knowledge-primality-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0085-self-knowledge-primality-abbyy.normalized.txt"
+      continuation_raw_extract: "source/raw/leaf-0086-self-knowledge-primality-continuation-abbyy.txt"
+      continuation_normalized_extract: "source/normalized/leaf-0086-self-knowledge-primality-continuation-abbyy.normalized.txt"
+      part: "parts/pilot-self-knowledge-abdita-and-primality.md"
+    latin_signal_phrases:
+      - "sapientiam formaliter non esse passionem"
+      - "notitia superaddita"
+      - "innata & abdita"
+      - "scientia non acquiritur, sed scibilia acquiruntur"
+      - "Sapientia est primalitas sicut potestas"
+      - "Sapientia autem est sanitas orbis terrarum"
+    content_note: |
+      Campanella accepts that knowing is a kind of alienation, but restricts
+      madness to total alienation where judgment is lost. Passion supplies
+      not the active cause of science but the specifying occasion through
+      which innate wisdom is directed toward knowables. The continuation
+      distinguishes wisdom from affliction and vanity: only the totalizing
+      sophistical desire to know all God's works is condemned; wisdom itself
+      is the health of the world.
+    caveat: |
+      Opened as a lower-leaf and next-leaf-continuation working pilot from
+      ABBYY extraction and normalization. Targeted crops corrected `in 2.
+      Parte`, `insanus`, `divina res`, and the leaf-86 continuation ending
+      at `vt in 3. Parte`; full page-image collation remains open.
+
   - id: "erk-v2-part018-intrinsecatio"
     status: "located"
     cassirer_file: "texts/erkenntnisproblem-vol2/parts/018-spinoza-intuition-renaissance-and-the-short-treatise.md"
@@ -102,6 +214,48 @@ anchors:
       printed_page: 102
     content_signal: "in hoc laudat Anaxagoram, qui præficit Mentem..."
     layout: "two-column with right-margin marginalia and running header"
+
+candidate_guides:
+  - id: "ernst-ch10-metaphysica-map"
+    source: "sources/modern/ernst-campanella-book-and-body-of-nature/source/raw/019-the-new-encyclopedia-of-knowledge.txt"
+    local_note: "reading/ernst-ch10-metaphysica-map.md"
+    status: "secondary-triage-guide"
+    use: |
+      Use Ernst's four-zone map to prioritize candidate source contact, not
+      as an authority for Campanella's structure. Primary Latin work remains
+      the deciding evidence.
+  - id: "cassirer-campanella-latin-citation-map"
+    source: "texts/erkenntnisproblem-vol1 and texts/erkenntnisproblem-vol2"
+    local_note: "reading/cassirer-campanella-latin-citation-map.md"
+    status: "primary-citation-ledger"
+    use: |
+      Use Cassirer's citations to find the Campanella pages behind the
+      Erkenntnisproblem claims. Damaged Cassirer OCR citations must be checked
+      against raw OCR and the Campanella witness before being regularized.
+
+unlocated_ernst_candidates:
+  - id: "ernst-part-ii-primalities-harmony"
+    cited_locations:
+      - "Metaphysica part II, p. 169b"
+      - "Metaphysica part II, p. 217"
+    topic: "primalities, harmony, providence, relative baseness"
+    status: "unlocated"
+  - id: "ernst-adami-praefatio"
+    cited_locations:
+      - "Ad philosophos Germaniae, Opera Latina I, pp. 17-18"
+    topic: "Campanella-near synopsis of primalities doctrine"
+    status: "separate-witness-needed"
+    handling_note: |
+      Treat as a sister witness/source target, not as evidence from the
+      1638 Metaphysica witness. If opened, create a bounded Opera Latina
+      preface extract and cross-reference it from this campaign.
+  - id: "ernst-part-iii-soul-cosmology-religion"
+    cited_locations:
+      - "Metaphysica part III, p. 32b"
+      - "Metaphysica part III, p. 152b"
+      - "Metaphysica part III, pp. 238-239"
+    topic: "cosmology, soul, religion, prophecy, divine radiance"
+    status: "unlocated"
 
 ocr_baseline:
   engine: "ABBYY FineReader Engine 11"

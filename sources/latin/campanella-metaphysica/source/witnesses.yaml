@@ -1,7 +1,8 @@
 witnesses:
   - id: "ia-1638-burellius"
     role: "sole_witness"
-    title: "Universalis philosophiae seu Metaphysicarum rerum, iuxta propria dogmata, partes tres, libri III"
+    title: "Universalis philosophiae seu Metaphysicarum rerum, iuxta propria dogmata, partes tres, libri 18"
+    title_basis: "normalized catalog/editorial form; not a literal OCR transcription"
     author: "Thomas Campanella (Stylensis, Ord. Praedicatorum)"
     imprint: "Parisiis, M.DC.XXXVIII (1638), cum privilegio regis"
     editor: "Burellius"
@@ -24,11 +25,22 @@ witnesses:
       ABBYY FineReader Engine 11 OCR pass, so they share the same long-s and
       marginalia-bleed errors.
 
-      Title-page confirmation from ABBYY charParams on leaf 0005:
+      Normalized title/citation form used for this campaign:
+      "Universalis philosophiae seu Metaphysicarum rerum, iuxta propria
+      dogmata, partes tres, libri 18."
+
+      ABBYY title-page extraction on leaf 0005 is not clean enough to carry
+      that normalized title as a literal witness quote. The local ABBYY extract
+      reads:
       "THOMÆ CAMPANELLÆ STYLENSIS ORD[INIS] PRÆD[ICATORUM] UNIVERSALIS
       PHILOSOPHIÆ; METAPHYSICARVM RERVM, IVXTA PROPRIA DOGMATA, PARTES TRES,
-      Libri III. ... DUCE DEO. SUORUM OPERUM TOMUS QUARTUS. M. DC. XXXVIII.
-      CUM PRIVILEGIO REGIS." Dedication on leaf 0007 to Claudio de Bullion,
+      Libri m. ... DUCE DEO. SV1&RVM QPERVM TOMVS Q.VARTVS ... M. DC.
+      XXXVIII. CUM PRIVILEGIO REGIS."
+
+      The hOCR flat text likewise gives the title line as `PARTES TRES, Libri
+      m.` and separately gives an approbation-text line resembling `libri
+      o61o`/`octo`; these are witness/OCR facts, not normalized bibliographic
+      title forms. Dedication on leaf 0007 is to Claudio de Bullion,
       Surintendant des Finances under Richelieu.
 
 git_policy:
