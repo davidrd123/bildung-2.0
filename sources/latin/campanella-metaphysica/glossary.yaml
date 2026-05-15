@@ -1,0 +1,118 @@
+# Working glossary for the Campanella Metaphysica (1638) source campaign.
+# Keep entries open until repeated passages earn firmer English.
+# Cross-references use "enc-N" for encounter file numbering.
+
+- term: "intrinsecatio"
+  handle: "term:campanella-intrinsecatio"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "intrinsecation"
+    - "inner becoming-one"
+    - "becoming-the-other"
+  status: open
+  notes: "Single substantive nominalization in the volume, at the Cassirer-anchor passage (leaf 906, enc-001). Defined there as `intelligere intuitivum est intrinsecatio, per quam unum fit aliud`. Cassirer renders as `inneres Einswerden`; that loses the directional asymmetry of `unum fit aliud` (one becomes another, not symmetric union). Keep open; the technical force of the noun depends on the verbal/adjectival uses developed elsewhere in the volume."
+
+- term: "intrinsecari"
+  handle: "term:campanella-intrinsecari"
+  kind: process
+  preferred: null
+  alternatives:
+    - "to be intrinsecated"
+    - "to become-one-with"
+    - "to enter intrinsically into"
+  status: open
+  notes: "The verbal form has wider distribution than the noun (verb hits on leaves 23, 28, 210, 438, 617). At leaf 23 it describes how taste alone among the senses `intrinsecatur` into its object; at leaf 617 the active and passive coordinate (`intrinsecatur & extrinsecatur`) describes God's relation to all things. Watch whether the same verb does the same work across cognitive, physical, and theological registers, or whether the senses diverge."
+
+- term: "intrinsecatur & extrinsecatur"
+  handle: "term:campanella-intrinsecatur-extrinsecatur-pair"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "intrinsecated and extrinsecated"
+    - "indwells and transcends"
+    - "is inside and outside"
+  status: open
+  notes: "Coordinate pair on leaf 617 (enc-002) describing God at the Mathematical register of the four-world ascent: `quomodo Deus unus intrinsecatur, & extrinsecatur omnibus`. The Christian-Platonist immanence/transcendence pair (Cusanus's coincidentia oppositorum, Aquinas's Deus est intus omnibus et extra omnia). The pair structurally mirrors the mind's intrinsecatio into God in beatitude (enc-001). Do not collapse into a single English verb; preserve both moments."
+
+- term: "intuitus animae / intuitus oculi"
+  handle: "term:campanella-intuitus-pair"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "the soul's intuition / the eye's intuition"
+    - "soul-seeing / eye-seeing"
+  status: open
+  notes: "The contrast that grounds enc-001's analysis. The eye's intuition sees `per species delatas a luce tincta rebus` (through species delivered by light tinted by things); the soul's intuition sees `per intrinsecationem rei in se, & sui in illam`. The eye is mediated by twice-borne qualities; the soul intrinsecates directly. The Latin/German bridge: Cassirer renders both as `Schauen`, which loses the technical contrast Campanella is making."
+
+- term: "fruitio"
+  handle: "term:campanella-fruitio"
+  kind: concept
+  preferred: "fruition"
+  alternatives:
+    - "enjoyment"
+    - "consummation"
+  status: open
+  notes: "Climax-term of the beatitude doctrine: in both enc-001 (leaf 906, `consummatur beatitudo`) and enc-002 (leaf 617, `glorificatur Mens nostra in huius intuitu, comprehensione, & fruitione per elevationem`), fruitio names what the cognitive ascent culminates in. Aristotelian-scholastic background: knowledge issues in fruition; without fruition cognition is incomplete."
+
+- term: "gustatio / gustus"
+  handle: "term:campanella-gustus"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "taste"
+    - "tasting"
+    - "gustation"
+  status: open
+  notes: "Bodily figure that funds the entire intrinsecation doctrine (leaf 23, not yet opened as its own encounter). Taste is the sense that intrinsecates its object rather than receiving images of it; therefore the bodily analogue of intuitive cognition. Encounter 001 quotes the leaf-906 polemic against Mahomet for taking the Scriptural eating-metaphor of paradise literally rather than as the figure for intuitive cognition. Keep open until the leaf-23 encounter is written."
+
+- term: "Cognoscere enim est fieri rem cognitam"
+  handle: "term:campanella-cognoscere-est-fieri"
+  kind: thesis
+  preferred: null
+  alternatives:
+    - "For to know is to become the thing known"
+    - "Cognition is the becoming-of-the-thing-known"
+  status: open
+  notes: "The general claim under the specific intrinsecatio doctrine in enc-001 — Cassirer's quotation isolates `intrinsecatio per quam unum fit aliud` and drops this sentence, which is the wider, more controversial proposition. Aristotelian in form (cf. De Anima III.4-5 on intellect becoming its object) but Campanella radicalizes from intellect to soul-as-such. The Spinoza connection Cassirer draws sits on this thesis whether or not he quotes it."
+
+- term: "ideare"
+  handle: "term:campanella-ideare"
+  kind: process
+  preferred: null
+  alternatives:
+    - "to ideate"
+    - "to form ideas"
+    - "to imagine actively"
+  status: open
+  notes: "Surfaces in enc-002's leaf-617 passage: `quomodo ideare imaginanti convenit verius omnia` (working translation: how ideating suits the imaginer more truly than [receiving species]). The grammar is dense and the rendering is provisional. The verb seems to mark active object-formation in the imaginer/mind, against passive species-reception. Flagged as a re-entry item in enc-002."
+
+- term: "Mundus situalis / materialis / Mathematicus / Mentalis / Archetypus"
+  handle: "term:campanella-four-worlds"
+  kind: schema
+  preferred: null
+  alternatives:
+    - "Situal / Material / Mathematical / Mental / Archetypal Worlds"
+  status: open
+  notes: "Campanella's cosmology of concentric worlds, set out via a diagram on or near leaf 617 (the diagram itself wasn't yet located on that leaf — see enc-002 re-entry). The minds ascend through the registers; intrinsecatur & extrinsecatur enters at the Mathematical level. Keep open until the diagram is located and the precise relationship between Situal and the other four is settled."
+
+# --- Cassirer-side terms (German -> Latin/Campanella anchors) -----------------
+
+- term: "innerliche Einswerden"
+  handle: "term:cassirer-german-einswerden"
+  kind: cross_language
+  preferred: null
+  alternatives:
+    - "inner becoming-one"
+  status: open
+  notes: "Cassirer's German rendering of Campanella's `intrinsecatio` in Vol. 2 Part 018. Reasonable as glide; loses the directional asymmetry of `unum fit aliud` (one becomes another, not mutual union). See enc-001 Latin-German lexical bridge."
+
+- term: "Schau der Seele"
+  handle: "term:cassirer-german-schau"
+  kind: cross_language
+  preferred: null
+  alternatives:
+    - "soul's vision"
+    - "soul's intuition"
+  status: open
+  notes: "Cassirer's translation of Campanella's `intuitus animae`. `Schau` ports the visual metaphor into German cleanly but elides the technical scholastic contrast `intuitus oculi` vs `intuitus animae` that Campanella's passage is doing work with. See enc-001."
