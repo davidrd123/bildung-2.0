@@ -177,6 +177,16 @@
   status: open
   notes: "Part 008 challenges the passage from an incorporeal self-idea to ideas of corporeal substance. A common notion such as being apt to exist presupposes prior understanding of both particulars."
 
+- term: "voces / significatus"
+  handle: "term:gassendi-voces-significatus"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "words / meanings"
+    - "words / significations"
+  status: open
+  notes: "Part 013 makes divine ideas socially and linguistically mediated. Before Descartes reasons from his idea of God, he has already received words and their meanings from others, through which notions or ideas were formed in the mind."
+
 - term: "imago in phantasia / imago in mente"
   handle: "term:gassendi-imago-phantasia-mente"
   kind: concept_pair
@@ -204,7 +214,25 @@
   alternatives:
     - "idea of the infinite / incomprehensibility"
   status: open
-  notes: "Part 010 sharpens the dispute over whether a true idea of the infinite must comprehend the infinite. Gassendi says a finite grasp gives only a finite or partial idea; Descartes replies that incomprehensibility belongs to the formal notion of the infinite."
+  notes: "Part 010 sharpens the dispute over whether a true idea of the infinite must comprehend the infinite. Gassendi says a finite grasp gives only a finite or partial idea; Descartes replies that incomprehensibility belongs to the formal notion of the infinite. Part 013 adds the cave/mountain analogy: `infinite` signifies the limit we have not found or penetrated, not a positive comprehension of the whole. Part 015 accepts Descartes' incomprehensibility premise but denies that a human idea can therefore represent the whole infinite."
+
+- term: "comprehensio / repraesentatio"
+  handle: "term:gassendi-comprehensio-repraesentatio"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "comprehension / representation"
+  status: open
+  notes: "Part 015 makes this the hinge of the reply to Descartes. Gassendi says Descartes shifts from comprehension on the side of the intellect to representation on the side of the idea, but the truth of the idea cannot be secured if what it represents is not comprehended."
+
+- term: "totum infinitum"
+  handle: "term:gassendi-totum-infinitum"
+  kind: problem
+  preferred: "whole infinite"
+  alternatives:
+    - "the whole infinite"
+  status: open
+  notes: "Part 015 treats `totum infinitum` as unstable in a human idea. To represent the whole is to leave nothing hidden; to leave nothing hidden is to comprehend; but Descartes says the comprehended cannot be infinite."
 
 - term: "infiniti mundi"
   handle: "term:gassendi-infiniti-mundi"
@@ -213,7 +241,46 @@
   alternatives:
     - "infinitely many worlds"
   status: open
-  notes: "Part 010 uses ancient ideas of infinite worlds, an infinite universe, and infinite principles as a reductive parallel to Descartes' idea of infinite substance. If amplification proves God, Gassendi argues, it would also prove infinite worlds."
+  notes: "Part 010 uses ancient ideas of infinite worlds, an infinite universe, and infinite principles as a reductive parallel to Descartes' idea of infinite substance. If amplification proves God, Gassendi argues, it would also prove infinite worlds. Part 014 restates the objection as a formal parody syllogism and says Descartes closed his eyes to its consequence. Part 016 uses the same case to distinguish what is actual in an idea from what is actual in reality."
+
+- term: "defectus / comparatio"
+  handle: "term:gassendi-defectus-comparatio"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "defect / comparison"
+    - "lack / comparison"
+  status: open
+  notes: "Part 016 treats awareness of defect as a comparison operation, not as direct evidence of infinite perfection. Defects can be recognized by comparison with the universe as whole or with other finite persons and parts. Part 017 says Descartes' move from more-perfect to infinite skips intermediate finite degrees."
+
+- term: "actu in idea / actu in re"
+  handle: "term:gassendi-actu-idea-re"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "actual in the idea / actual in the thing"
+    - "actual in idea / actual in reality"
+  status: open
+  notes: "Part 016 separates what is actual in an idea from what is actual in the represented thing. The architect's house and the philosophers' infinite worlds can be actual in thought without actually existing. Part 017 extends this against objective being: actual representation does not license actual existence unless the causal premise has already been proved."
+
+- term: "vera idea"
+  handle: "term:gassendi-vera-idea"
+  kind: concept
+  preferred: "true idea"
+  alternatives:
+    - "genuine idea"
+    - "adequate idea"
+  status: open
+  notes: "Part 017 splits `vera idea` into two senses: a genuine and adequate idea representing God as he is, and a limited representation of something true that may be affirmed according to our measure. Gassendi says Descartes answers in the weaker sense while the dispute concerns the stronger one."
+
+- term: "metabasis eis allo genos"
+  handle: "term:gassendi-metabasis"
+  kind: fallacy
+  preferred: "transition to another genus"
+  alternatives:
+    - "change to another genus"
+  status: open
+  notes: "Part 017 uses the Greek logical charge for Descartes' move from `more perfect than me` to `infinite being`. The term marks an illicit leap across intermediate finite degrees."
 
 - term: "diallelus / circulus"
   handle: "term:gassendi-diallelus-circulus"
@@ -223,7 +290,16 @@
     - "diallelus / circle"
     - "Cartesian circle"
   status: open
-  notes: "Part 011 explicitly accuses Descartes' proof of circularity: clear and distinct perception is used to prove God, while God's existence and veracity are needed to guarantee clear and distinct perception."
+  notes: "Part 011 explicitly accuses Descartes' proof of circularity: clear and distinct perception is used to prove God, while God's existence and veracity are needed to guarantee clear and distinct perception. Part 014 catches the same structure inside the sub-assumption when clear and distinct perception is assumed before its truth has been secured. Part 017 restates a circle in objective-being terms: actual infinite being is proved from representation as actual, while representation as actual is grounded in actual existence."
+
+- term: "paralogismus"
+  handle: "term:gassendi-paralogismus"
+  kind: problem
+  preferred: "paralogism"
+  alternatives:
+    - "fallacious inference"
+  status: open
+  notes: "Part 014 names Descartes' infinite-substance inference a `paralogismus`. The error begins when the negative word `infinitum` is treated as positive comprehension and when the same inference is not allowed to the ancient philosophers' infinite universe, worlds, and principles."
 
 - term: "demonstratio / authoritas"
   handle: "term:gassendi-demonstratio-authoritas"
@@ -243,6 +319,15 @@
   status: open
   notes: "Dubitatio IV denies that substance has a proper idea. It is conceived through accidents, or after their manner, as something extended, figured, and colored."
 
+- term: "supersubstantia"
+  handle: "term:gassendi-supersubstantia"
+  kind: concept
+  preferred: "super-substance"
+  alternatives:
+    - "beyond-substance"
+  status: open
+  notes: "Part 013 uses `supersubstantia` to mark the apophatic pressure on divine substance. God is not substance in the ordinary sense, does not stand under accidents, and exceeds whatever we understand by substance."
+
 - term: "infinitum"
   handle: "term:gassendi-infinitum"
   kind: concept
@@ -250,7 +335,7 @@
   alternatives:
     - "unbounded"
   status: open
-  notes: "In Part 003 Gassendi says the human intellect is not capable of conceiving infinity; `infinite` names a thing beyond grasp with a name not understood by a bounded intellect."
+  notes: "In Part 003 Gassendi says the human intellect is not capable of conceiving infinity; `infinite` names a thing beyond grasp with a name not understood by a bounded intellect. Part 013 makes the word negative and reflexive: after advancing as far as we can and failing to recognize an end, we return to ourselves and call the thing infinite. Part 014 says this negative word deceives Descartes when he treats it as positive amplitude."
 
 - term: "intellectio / imaginatio"
   handle: "term:gassendi-intellectio-imaginatio"
@@ -278,7 +363,7 @@
   alternatives:
     - "notion of God"
   status: open
-  notes: "Part 005 distinguishes knowledge of God by revelation, by faith, and by natural light. This lets Gassendi preserve divine origin while denying innateness."
+  notes: "Part 005 distinguishes knowledge of God by revelation, by faith, and by natural light. This lets Gassendi preserve divine origin while denying innateness. Part 013 routes the idea of God through words, meanings, parents, teachers, priests, society, stars, and the ordered universe before it can be treated as an inner idea."
 
 - term: "modulus"
   handle: "term:gassendi-modulus"
@@ -299,4 +384,42 @@
     - "amplification"
     - "dilation"
   status: open
-  notes: "Recurring from the sun passage into Part 005. Enlargement of finite ideas or perfections yields greater dilation and usually greater confusion; it does not by itself add objective reality or prove innateness."
+  notes: "Recurring from the sun passage into Part 005. Enlargement of finite ideas or perfections yields greater dilation and usually greater confusion; it does not by itself add objective reality or prove innateness. Part 014 gives the positive operation more detail: created perfections are stripped of imperfections and finitude, then promoted toward infinity without the mind attaining true infinite magnitude, duration, knowledge, power, or happiness. Part 018 adds composite ideals such as Pandora, the perfect republic, and the perfect orator. Part 019 shows Descartes accepting amplification but treating the power to amplify beyond the human as evidence of divine making."
+
+- term: "conservatio / creatio"
+  handle: "term:gassendi-conservatio-creatio"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "conservation / creation"
+    - "preservation / creation"
+  status: open
+  notes: "Part 018 rejects Descartes' claim that conservation differs from creation only by reason. Gassendi separates a thing's first production from its later persistence and says not every persisting thing is newly created at each moment. Part 019 gives Descartes' counter: creatures need continuous first-cause influx to be conserved."
+
+- term: "causa secundum fieri / causa secundum esse"
+  handle: "term:gassendi-causa-fieri-esse"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "cause according to becoming / cause according to being"
+    - "cause in becoming / cause in being"
+  status: open
+  notes: "Part 019 makes Descartes' Scholastic distinction explicit. Architect and father are causes `secundum fieri`; God is cause of creatures both `secundum fieri` and `secundum esse`, hence must continuously conserve them."
+
+- term: "regressus in infinitum"
+  handle: "term:gassendi-regressus-in-infinitum"
+  kind: problem
+  preferred: "infinite regress"
+  alternatives:
+    - "progression to infinity"
+  status: open
+  notes: "Part 018 allows an infinite regress in generated causes such as parentage unless Descartes first proves that the world began. The regress is absurd only in subordinated causes where the lower cannot act without a present higher mover. Part 019 responds by classing the relevant causes as causes in being, not parent-like causes in becoming."
+
+- term: "nativa mentis vis"
+  handle: "term:gassendi-nativa-mentis-vis"
+  kind: process
+  preferred: "native force of the mind"
+  alternatives:
+    - "mind's native power"
+  status: open
+  notes: "Part 014 gives a compact formula for idea-formation: things perceived by sight or hearing are thought by the mind and by its native force compared, joined, and amplified. This is a positive Gassendi alternative to innate objective reality, though still dependent on received materials."

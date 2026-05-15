@@ -275,3 +275,143 @@ Re-entry:
 
 - Continue with the critique of the minor, or assumption, beginning on printed page `151`.
 - Watch whether `via regia` becomes Gassendi's positive alternative to Cartesian privacy rather than only an objection.
+
+## 2026-05-15 - Minor Assumption And Divine Attributes
+
+Drafted `parts/013-minor-assumption-and-divine-attributes.md`, covering Gassendi's critique of the minor, or assumption, on standalone printed pages `151` partial through `153` partial.
+
+What this tranche clarified:
+
+- The social genealogy of the idea of God returns as a direct attack on Descartes' minor premise. Before the proof begins, Descartes has already received words and meanings from others.
+- `Substantia quaedam` becomes a concession. Gassendi treats `quandam` as the right word because divine substance is not clearly understood and may be more properly called `supersubstantia`.
+- Infinity and eternity are negative limit-terms. We say `infinite` or `eternal` after advancing as far as we can, failing to find an end, and then returning to ourselves.
+- The cave/mountain analogy gives the strongest local image for this: calling the mountain visually impenetrable names what the viewer cannot see, not what he has positively seen.
+- Independence, omniscience, omnipotence, and creatorhood are each denied as clear ideas because they would require grasping infinite duration, all divine knowledge, all possible effects, or creation itself.
+- Gassendi would admit `tanta` only in a weaker sense: a confused, obscure, very human idea of God, externally scaffolded by parents, teachers, priests, society, stars, and the order of the universe.
+
+Glossary additions earned: `voces / significatus`, `supersubstantia`; `notitia Dei`, `infinitum`, and `idea infiniti / incomprehensibilitas` updated.
+
+Re-entry:
+
+- Continue with `Ex his patet`, where Gassendi turns from the minor to the prosyllogism conclusion and the sub-assumption.
+- Watch whether `praelucere` supplies a positive model for external things lighting the mind without Cartesian innateness.
+
+## 2026-05-15 - Sub-Assumption, Paralogism, And Infinite Worlds
+
+Drafted `parts/014-sub-assumption-paralogism-and-infinite-worlds.md`, covering the prosyllogism conclusion and sub-assumption on standalone printed pages `153` partial through `156` partial.
+
+What this tranche clarified:
+
+- Gassendi concedes the weak form of the sub-assumption: in God there is infinitely more formal reality than anything objectively in the idea, whatever `realitas formalis` means.
+- The denied term is `in solo Deo`. Descartes still has to prove that the idea contains something not drawn from worldly things perceived, heard, thought, compared, joined, and amplified by the mind's native force.
+- `Nativa mentis vis` now gives a compact positive formula for Gassendi's account of idea-formation: the mind works on received materials by comparison, combination, and amplification.
+- `Paralogismus` is now explicit. Descartes mistakes the negative word `infinitum` for positive comprehension of infinite substance.
+- The infinite-worlds objection becomes a formal parody syllogism. The same structure would prove an infinite universe, infinite worlds, and infinite principles for the ancient philosophers.
+- Gassendi also uses Descartes' own allowance for materially false ideas against the proof. If false ideas require no positive external cause, the idea of infinite substance still needs a defense.
+- The Cartesian circle resurfaces: clear and distinct perception is assumed while the proof is still trying to establish the God whose veracity will secure it.
+
+Glossary additions earned: `paralogismus`, `nativa mentis vis`; `ampliatio`, `infiniti mundi`, `infinitum`, and `diallelus / circulus` updated.
+
+Re-entry:
+
+- Continue with `Atque ex his demum apparet`, where Gassendi measures the advertised force of the proof and returns to Descartes' reply about the idea of the infinite.
+- Watch how Gassendi handles representation of the whole infinite after accepting Descartes' claim that a true idea of the infinite must not comprehend it.
+
+## 2026-05-15 - Infinite Representation And Human Idea
+
+Drafted `parts/015-infinite-representation-and-human-idea.md`, covering the close of the `Instantia` after Dubitatio VII on standalone printed pages `156` partial through `158` partial.
+
+What this tranche clarified:
+
+- Gassendi accepts Descartes' premise that a true idea of the infinite must not comprehend the infinite, but he turns it against Descartes' claim that the human idea represents the whole infinite.
+- The key split is `comprehensio` versus `repraesentatio`: Descartes shifts from the intellect's act to the idea's content, but Gassendi insists that the truth of an idea cannot be known if what it represents is not comprehended.
+- `Totum infinitum` becomes a contradiction trigger. If the idea represents the whole infinite, then nothing of it is hidden; if nothing is hidden, it is comprehended; but Descartes says the comprehended cannot be infinite.
+- The sun/Eudoxus example returns to the original Cassirer anchor. Gassendi allows different true ideas of the sun when there is a common measure between viewpoints; he denies any such measure between a human idea of God and God's own idea of himself.
+- The triangle analogy fails because the triangle is not greater than the idea by which it is perceived, whereas infinite being is infinitely greater than the human idea by which it is perceived.
+
+Glossary additions earned: `comprehensio / repraesentatio`, `totum infinitum`; `idea infiniti / incomprehensibilitas` updated.
+
+Re-entry:
+
+- Begin `Dubitatio VIII` on the auxiliary proof from awareness of one's own defect.
+- Consider adding an explicit cross-reference from the sun/Eudoxus comparison back to the Cassirer sun-idea anchor if later parts continue to rely on graded true representation.
+
+## 2026-05-15 - Defect, Comparison, And Actuality
+
+Drafted `parts/016-defect-comparison-and-actuality.md`, covering `Dubitatio VIII` and Descartes' response on standalone printed pages `158` partial through `160` partial.
+
+What this tranche clarified:
+
+- Gassendi accepts awareness of defect but denies Descartes' infinite conclusion. Doubt, desire, and lack show that the self is not wholly perfect, not that it has an idea of infinite being.
+- Comparison is finite and worldly. The universe as whole can be more perfect than one of its parts, and other humans can disclose finite defects in health, strength, learning, moderation, and similar perfections.
+- The bread example blocks the shortcut from desire to higher being: bread is not more perfect than the person, but only better than the emptiness in the stomach.
+- `Actu in idea` is not `actu in re`. The architect's house and the ancient philosophers' infinite worlds can be actual in the idea without being actual in the represented thing.
+- Gassendi repeats that a true and genuine idea of God is impossible for a finite mind: even the hair-tip analogy is stronger for human beings than for God, because we at least know other humans for comparison.
+- Descartes' response narrows his rule: he infers actual existence from idea-content only when no other cause of the idea can be given except the actually existing represented thing.
+
+Glossary additions earned: `defectus / comparatio`, `actu in idea / actu in re`; `infiniti mundi` updated.
+
+Re-entry:
+
+- Continue with the `Instantia`, where Gassendi attacks Descartes' response as an equivocation over `vera idea`.
+- Watch whether `actu in idea / actu in re` becomes a standing alternative to the objective-reality proof.
+
+## 2026-05-15 - True Idea, Equivocation, And Infinite Leap
+
+Drafted `parts/017-true-idea-equivocation-and-infinite-leap.md`, covering the `Instantia` after Dubitatio VIII on standalone printed pages `161` through `164`.
+
+What this tranche clarified:
+
+- `Vera idea` splits into two senses: a genuine and adequate idea representing God as he is, or a limited true representation allowing some affirmation about God according to our measure.
+- Gassendi says the dispute is about the first sense, while Descartes answers in the second.
+- The inference from an idea of something more perfect to an idea of infinite being is named as a transition to another genus. More-perfect does not erase intermediate finite degrees.
+- The bread example is clarified as a local lack example, not a claim that bread is more perfect than a person.
+- `Actu in idea / actu in re` gets extended through the architect and infinite-worlds cases. Something can be actually represented without being actually existent.
+- The objective-being proof is recast as a circle: Descartes proves actual infinite being because it is represented as actual, and proves it is represented as actual because it actually exists.
+
+Glossary additions earned: `vera idea`, `metabasis eis allo genos`; `actu in idea / actu in re`, `defectus / comparatio`, and `diallelus / circulus` updated.
+
+Re-entry:
+
+- Continue with `Dubitatio IX`, on the next auxiliary proof from temporal dependence, conservation, creation, parents, and causal regress.
+- Watch whether `vera idea` should become the controlling term for the whole late Meditation III exchange.
+
+## 2026-05-15 - Conservation, Creation, And Causal Regress
+
+Drafted `parts/018-conservation-creation-and-causal-regress.md`, covering `Dubitatio IX` on standalone printed pages `165` through `167`.
+
+What this tranche clarified:
+
+- Gassendi separates producing and conserving causes. Existing now does not require being newly created at each moment.
+- The sunlight model is narrow. Some effects require continuous causal presence, but many generated or made things persist after the producing cause stops acting or is destroyed.
+- The parts of time do no production work. Their succession is external to the thing and no more reproduces a person than flowing water reproduces a rock.
+- Infinite regress is not simply absurd in generated causes. Gassendi allows a parent from a parent from a parent unless Descartes first proves that the world began.
+- The distinction between subordinated instrumental causes and ordered generative causes is explicit: stone/stick/hand and chain links require a first mover in a way parentage does not.
+- Divine perfections can be composed from multiple finite models, amplified, and stripped of imperfections. Pandora, the perfect republic, and the perfect orator become analogies for composite ideal totality.
+
+Glossary additions earned: `conservatio / creatio`, `regressus in infinitum`; `ampliatio` updated.
+
+Re-entry:
+
+- Continue with Descartes' `Responsio`, which should sharpen the contrast between causes `secundum fieri` and causes `secundum esse`.
+- Watch whether Gassendi accepts or rejects the Scholastic cause distinction as a vocabulary while disputing Descartes' inference.
+
+## 2026-05-15 - Response, Fieri/Esse, And Conservation
+
+Drafted `parts/019-response-fieri-esse-and-conservation.md`, covering Descartes' response to Dubitatio IX on standalone printed page `168`.
+
+What this tranche clarified:
+
+- Descartes explicitly distinguishes causes `secundum fieri` from causes `secundum esse`.
+- Architect and father explain coming-to-be only; God explains both coming-to-be and continued being.
+- Conservation requires continuous divine influx. Descartes treats creaturely independent persistence as wrongly attributing creator-level perfection to creatures.
+- The time argument is reframed from abstract succession to the duration of the enduring thing, whose individual moments can be separated.
+- Parent-regress is dismissed because it concerns causes in becoming, while Descartes says the proof concerns causes in being.
+- Descartes accepts the amplification of human perfections but treats the mind's ability to amplify beyond the human as evidence that we were made by God.
+
+Glossary additions earned: `causa secundum fieri / causa secundum esse`; `conservatio / creatio`, `regressus in infinitum`, and `ampliatio` updated.
+
+Re-entry:
+
+- Continue with Gassendi's `Instantia`, where he should contest the Scholastic cause vocabulary and the appeal to metaphysical consensus.
+- Watch whether `influxus` becomes a pressure term for continuous divine conservation.

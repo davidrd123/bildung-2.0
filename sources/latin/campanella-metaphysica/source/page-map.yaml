@@ -19,6 +19,14 @@ leaf_numbering:
     - jp2_leaf: 114
       printed_page: 102
       content: "Metaphysica body; running header METAPH. CAMPANELLÆ, two-column"
+    - jp2_leaf: 906
+      printed_page: 244
+      content: |
+        Body of cognition chapter; intrinsecatio passage. Page top continues
+        previous discussion; italic banner between body and chapter heading
+        "CAP. II. ARTIC. I." gives the section's argument-summary. ABBYY
+        false-segmented the trailing "rem cognitam" of one body line as
+        right-margin blocks.
 
 anchors:
   - id: "erk-v2-part018-intrinsecatio"
@@ -36,8 +44,11 @@ anchors:
     location:
       jp2_leaf: 906
       jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0906.jp2"
-      printed_page: "TBD (not detected as a separate block by ABBYY on this leaf)"
+      printed_page: 244
+      section: "Pars III, Liber XVII, Caput II, Articulus I (on the modality of beatitude)"
       raw_extract: "source/raw/intrinsecatio-jp2-0906-abbyy.txt"
+      normalized_extract: "source/normalized/intrinsecatio-jp2-0906-abbyy.normalized.txt"
+      encounter: "encounters/001-intrinsecatio-cap-ii-art-i.md"
     latin_summary_phrase: |
       "Ergo intelligere intuitivum est intrinsecatio, per quam unum fit aliud.
       Cognoscere enim est fieri rem cognitam."
@@ -48,6 +59,13 @@ anchors:
       potest tolerare: & per lucem rebus tinctam videt res..."
       [transcribed with long-s normalized; ligatures and hyphen-breaks
       reassembled; not yet against the page image]
+    latin_continuation: |
+      "Sic Anima, quoniam in hac vita non fit Deus, sed res, quae ipsum
+      defective repraesentant, non potest beari..."
+      [verified by direct inspection of the JP2 crop; this is the
+      theological payoff Cassirer does not quote: the soul in this life
+      intrinsecates only the defective representatives of God, not God
+      himself, so beatitude must await the future state.]
     cassirer_correspondence_note: |
       Cassirer's German paraphrase compresses Campanella's two sentences
       ("intelligere intuitivum est intrinsecatio" + "cognoscere est fieri
@@ -56,6 +74,14 @@ anchors:
       lines 81-87 of the raw extract is the more direct correspondent to
       Cassirer's gloss about "die Seele... in ihn und ihn in sich
       innerlich verwandelt".
+    abbyy_segmentation_caveat: |
+      ABBYY split the trailing "rem cognitam" of the body-line into two
+      narrow blocks at the right edge of the right column. Our extractor's
+      marginalia heuristic mis-tagged them as MARGINALIA. JP2 inspection
+      confirms they are part of the same body-line as "Cognoscere enim
+      est fieri" - not marginalia. This is a known ABBYY behavior on
+      tightly-set lines near the column edge; manual fixup is currently
+      required when the extractor mis-tags such fragments.
 
   - id: "page-102-pilot"
     status: "located"
