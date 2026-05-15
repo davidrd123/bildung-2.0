@@ -329,6 +329,559 @@ sessions:
 
     formation_notes: []
 
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: twelfth-translation-batch-and-hobbes-opening
+    parts_touched:
+      - "parts/012-hobbes-opening-definition-of-knowledge.md"
+
+    state_on_entry:
+      - "Gassendi Parts 007-011 were calibrated as self-reviewed controlled drafts; Part 011 was additionally probe-reviewed."
+      - "The next chapter needed to begin on printed page 46 / PDF page 66 with `Drittes Kapitel. Hobbes.`"
+      - "`Erfahrung` and `Bewegung` were open glossary entries, and the Hobbes opening was expected to test the Bacon/Gassendi chapter-boundary predictions."
+
+    what_shifted:
+      - "Created Part 012 from PDF pages 66-68 / printed pages 46-48 partial, stopping before `Es ist Hobbes' eigentümliche und originale Leistung...`."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including the scan OCR's `E` for the Roman `I.`, Sperrung in names and emphasis words, `§ 1-5`, `einfachen Naturen`, `konstruieren`, and `omnibus`."
+      - "Translated Hobbes's Latin definition of cause in the main draft."
+      - "Updated `Erfahrung` and `Bewegung` in the glossary."
+      - "Recorded `Ursache / Bedingung` as the strongest new ledger pressure, but did not promote it to the glossary until the next Hobbes tranche tests causal definition and generation more fully."
+
+    unresolved:
+      - "Part 013 should begin on printed page 48 / PDF page 68 with `Es ist Hobbes' eigentümliche und originale Leistung...`."
+      - "Watch whether `Ursache / Bedingung` earns glossary status through the next method-transfer movement."
+      - "Watch whether Hobbes's `Bewegung` becomes the bridge between physical mechanism and logical method, or whether the chapter center shifts to deduction, construction, and a priori knowledge."
+
+    re_entry_instructions:
+      - "Part 012 has passed self-review for controlled draft status."
+      - "Before continuing, read the Part 012 notes plus the updated `Erfahrung` and `Bewegung` glossary entries."
+      - "Continue one tranche at a time until Hobbes's chapter rhythm is clear; do not treat the Hobbes opening as authorization for a burst."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: thirteenth-translation-batch-and-hobbes-method
+    parts_touched:
+      - "parts/013-hobbes-method-deduction-and-construction.md"
+
+    state_on_entry:
+      - "Part 012 had passed self-review for controlled draft status."
+      - "Part 013 needed to begin on printed page 48 / PDF page 68 with `Es ist Hobbes' eigentümliche...` and test whether `Ursache / Bedingung` earned glossary status."
+      - "`Erfahrung`, `Bewegung`, and the ledger pressure `Ursache / Bedingung` were active Hobbes watchpoints."
+
+    what_shifted:
+      - "Created Part 013 from PDF pages 68-75 / printed pages 48-55 partial, closing section I before `II.`."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `überträgt`, `gewährleistet. Es gibt`, `vor uns entstehen`, `Ideen`, `Verknüpfung`, `intelligitur`, `festumschriebene`, `Beschaffenheiten`, `Das Erkenntnisideal`, `Deduktion`, `Übereinstimmung in der Grundverfassung`, `verständlich`, `Zeitdauer`, and `Frischeisen-Köhler`."
+      - "Translated substantive Latin footnotes on ideas/figures, construction/generation of geometrical figures, and the a priori/a posteriori status of physics."
+      - "Added `Ursache / Bedingung / Erzeugung` as an open glossary entry and updated `Bewegung`."
+      - "Recorded the section-I finding: Hobbes's method is constructive generation, but his logic is limited by lack of modern analysis and reduces connection to separation/composition/addition/subtraction."
+
+    unresolved:
+      - "Part 014 should begin on printed page 55 / PDF page 75 with `II.` and `Eine zweite nicht minder wichtige Schranke...`."
+      - "Watch whether `Rechnen`, `Begriff / Wort`, signs, convention, and sovereignty become chapter-structural or stay local."
+      - "`Deduktion`, `Körper`, `Mehr / Weniger`, `Analysis des Unendlichen`, and `conatus` remain ledger watchpoints."
+
+    re_entry_instructions:
+      - "Part 013 has passed self-review for controlled draft status."
+      - "Before continuing, read the new `Ursache / Bedingung / Erzeugung` glossary entry and the Part 013 hooks."
+      - "Continue from section `II.` on PDF page 75 / printed page 55."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: fourteenth-translation-batch-and-hobbes-concept-word
+    parts_touched:
+      - "parts/014-hobbes-concept-word-and-nominalist-rationalism.md"
+
+    state_on_entry:
+      - "Part 013 had passed self-review for controlled draft status."
+      - "Part 014 needed to begin on printed page 55 / PDF page 75 with section `II.` and `Eine zweite nicht minder wichtige Schranke...`."
+      - "`Rechnen`, `Begriff / Wort`, signs, convention, and sovereignty were active watchpoints after the method and construction section."
+
+    what_shifted:
+      - "Created Part 014 from PDF pages 75-81 / printed pages 55-61 partial, closing section II before `III.`."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Erzeugungen der Natur`, `Konstanz, die wir`, `Entschiedenheit und Deutlichkeit`, `Sprachgebrauch`, `offenen Widerspruch`, `Tönnies`, `demonstrationem`, `hominum`, `Grundsätze preisgeben`, `Gedächtnis wäre`, `Vorstellungen und Namen`, `konkreten`, `Zahlzeichen`, `zu unterwerfen`, `Weiterführung`, `proficiscuntur`, `Leviathan`, `Betrachtung der sinnlich einzelnen Gestalt`, `Seriei`, and `strictioris`."
+      - "Translated substantive Latin footnotes on demonstrative science, sense/memory versus science, and speech as the conversion of mental discourse into verbal discourse."
+      - "Translated the substantive Tönnies German quotation in the draft-footnote layer because it carries the argument."
+      - "Added `Begriff / Wort / Zeichen` as an open glossary entry and updated `Erfahrung` plus `Ursache / Bedingung / Erzeugung`."
+      - "Recorded the section-II finding: Hobbes's nominalism first threatens to dissolve truth into arbitrary convention, but Cassirer reads words and signs as vehicles of rational validity."
+
+    unresolved:
+      - "Part 015 should begin on printed page 61 / PDF page 81 with section `III.` and `Es ist ein originaler und fruchtbarer Gedanke...`."
+      - "Watch whether the destruction-of-the-world thought experiment carries the sign/name problem into nature philosophy or shifts back to space, body, imagination, and motion."
+      - "`Nominalismus / Rationalismus`, `Urteil`, `Namengebung`, `Zahlzeichen`, `Souveränität`, and `Tatsachen` remain ledger watchpoints."
+
+    re_entry_instructions:
+      - "Part 014 has passed self-review for controlled draft status."
+      - "Before continuing, read the new `Begriff / Wort / Zeichen` glossary entry and the Part 014 hooks."
+      - "Continue from section `III.` on PDF page 81 / printed page 61."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: fifteenth-translation-batch-and-hobbes-space-matter
+    parts_touched:
+      - "parts/015-hobbes-world-destruction-space-time-and-matter.md"
+
+    state_on_entry:
+      - "Part 014 had passed self-review for controlled draft status."
+      - "Part 015 needed to begin on printed page 61 / PDF page 81 with section `III.` and `Es ist ein originaler und fruchtbarer Gedanke...`."
+      - "`Begriff / Wort / Zeichen`, `Raum / Zeit`, `Bewegung`, and `Körper` were active watchpoints after the sign/name section."
+
+    what_shifted:
+      - "Created Part 015 from PDF pages 81-87 / printed pages 61-67 partial, stopping before the perception-theory turn."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `bestehen`, `steht`, `zu erkennen`, `Proposita`, `potest`, `beachten und`, `seu`, `alicujus`, `nec`, `sic`, `existentis`, `praeterquam`, `keine`, `begrenzte`, `Verhältnis zum erkennenden Subjekt`, `lediglich`, `Schlußfolgerung`, `coincidat`, `ut non sensibus`, `ratione tantum`, `genita, sed non res`, `Bewegungslehre`, `zusammen ausdehnt`, and the French accents in the Lyon quotation."
+      - "Translated substantive Latin footnotes on geometrical generation, space as phantasm, division as work of intellect, body as independent extension, and bodies versus accidents."
+      - "Translated Lyon's French critique of Hobbes's space/time/body distinction."
+      - "Updated `Raum / Zeit` and `Bewegung`; added `Körper / Materie / Substanz` as an open glossary entry."
+      - "Recorded the section-III opening finding: Hobbes's constructive negation of the world turns into metaphysical hardening once body is treated as absolute substance."
+
+    unresolved:
+      - "Part 016 should begin on printed page 67 / PDF page 87 with `Der Gegensatz, der hier bestehen bleibt...` and should close the Hobbes chapter before `Fünftes Buch`."
+      - "Watch whether perception reproduces the same hardening pattern by making a logically required matter into an absolute source behind phenomena."
+      - "`Sinnesempfindung`, `Phänomen`, `Gedächtnis`, `innere Erfahrung`, `Assoziation`, and the political/logical self-created-principles pattern remain final-chapter watchpoints."
+
+    re_entry_instructions:
+      - "Part 015 has passed self-review for controlled draft status."
+      - "Before continuing, read the new `Körper / Materie / Substanz` glossary entry and the Part 015 hooks."
+      - "Continue from `Der Gegensatz, der hier bestehen bleibt...` on PDF page 87 / printed page 67."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: sixteenth-translation-batch-and-hobbes-chapter-close
+    parts_touched:
+      - "parts/016-hobbes-perception-psychology-and-self-created-principles.md"
+
+    state_on_entry:
+      - "Part 015 had passed self-review for controlled draft status."
+      - "Part 016 needed to begin on printed page 67 / PDF page 87 with `Der Gegensatz, der hier bestehen bleibt...` and close the Hobbes chapter before `Fünftes Buch`."
+      - "`Körper / Materie / Substanz`, `Bewegung`, `Sinnesempfindung`, `Phänomen`, `Gedächtnis`, and `innere Erfahrung` were active final-chapter watchpoints."
+
+    what_shifted:
+      - "Created Part 016 from PDF pages 87-90 / printed pages 67-70, closing the Hobbes chapter."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Beziehungen auf`, `während der Körper`, `bedeuten soll`, `Sinnesempfindung`, `miteinander`, `innerhalb ihrer selbst`, `Phaenomenon`, `principia`, `dicendum est`, `investigationem`, `alio Phaenomeno`, `eam ipsam`, `contemplabimur`, `Eodem ipso`, `sensibilium`, `tamen`, `De Corpore`, `P. IV`, `Elements of law`, `Einwirkung des Dinges`, `Bd. I, S.`, `vgl.`, `gelten`, and `Bedingungen los`."
+      - "Translated the substantive Latin footnote on sensation as the principle of principles and translated/summarized Cassirer's `Elements of Law` note because it carries the chapter-close argument."
+      - "Updated `Körper / Materie / Substanz`, `Bewegung`, `Sinn / Sinneswahrnehmung`, `Begriff / Wort / Zeichen`, and `Erfahrung`."
+      - "Recorded the chapter-close finding: Hobbes's self-created principles detach from their conditions and return as absolute powers binding thought and action."
+
+    unresolved:
+      - "Create and verify the bounded Hobbes chapter-close reading note before moving to Book V / Spinoza."
+      - "Run chapter-level calibration for Parts 012-016 before treating the Hobbes chapter as more than self-reviewed controlled draft."
+      - "Spinoza should test whether the autonomy/substance problem is inherited from Hobbes or transformed by a different relation between rational order and absolute substance."
+
+    re_entry_instructions:
+      - "Part 016 has passed self-review for controlled draft status, but Hobbes chapter status still requires chapter-level calibration."
+      - "Before starting Book V, read the Hobbes bounded note and the updated glossary entries for `Begriff / Wort / Zeichen`, `Körper / Materie / Substanz`, `Raum / Zeit`, and `Bewegung`."
+      - "Continue from `Fünftes Buch. Fortbildung und Vollendung des Rationalismus` only after the Hobbes calibration is recorded."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: hobbes-chapter-calibration-before-spinoza
+    parts_touched:
+      - "parts/012-hobbes-opening-definition-of-knowledge.md"
+      - "parts/013-hobbes-method-deduction-and-construction.md"
+      - "parts/014-hobbes-concept-word-and-nominalist-rationalism.md"
+      - "parts/015-hobbes-world-destruction-space-time-and-matter.md"
+      - "parts/016-hobbes-perception-psychology-and-self-created-principles.md"
+      - "reading/2026-05-14-hobbes-self-created-principles.md"
+
+    state_on_entry:
+      - "Parts 012-016 had been drafted through the Hobbes chapter close as self-reviewed controlled drafts."
+      - "Trailing review of Parts 013-015 had confirmed the broad draft quality while adding two refinements: `dicto` should be assertion-content rather than speech-as-sound, and Part 015's Lyon quotation plus world-destruction thought experiment should be recorded as earned future hinges without overpromotion."
+      - "Part 016 had closed the chapter and routed the self-created-principles pattern to a bounded note."
+
+    what_shifted:
+      - "Created `reading/2026-05-14-hobbes-self-created-principles.md` as a bounded chapter note, local to Hobbes."
+      - "Recorded the chapter-level calibration in `journal.md`: section-bounded tranche scale held, source boundaries were checked, and the chapter remains controlled draft rather than automatically status-elevated."
+      - "Integrated the Part 014 `veritas in dicto` refinement into the part, glossary, journal, and close-reading ledger."
+      - "Integrated the Part 015 trailing review by recording Lyon's quotation as load-bearing evidence and the world-destruction thought experiment as a later Kant/transcendental comparison candidate, not a settled cross-volume thesis."
+      - "Integrated the Part 016 trailing review by recording the restored Greek `τὸ φαίνεσθαι` as a source-facing catch, keeping `Urphänomen` and `Selbstgesetzgebung der Vernunft` as ledger pressures, and noting that Book IV is now drafted through the Book V divider."
+      - "Tightened Part 016 wording after self-review around organs of sense, sensualist psychology, and `Einwirkung des Dinges` as influence rather than action."
+      - "Verified YAML validity, markdown fence balance, trailing whitespace absence, and `git diff --check` for the Vol. 2 surfaces."
+
+    unresolved:
+      - "Book V / Spinoza should test whether Hobbes's autonomy/substance problem is inherited, transformed, or refused."
+      - "`Substanz` must be watched carefully: Hobbes tied it to body/matter hardening, while Spinoza may immediately re-anchor it in a different register."
+      - "A later `Substanzbegriff und Funktionsbegriff` comparison is plausible but not yet licensed as a controlling frame."
+      - "The Hobbes chapter remains controlled draft. Commit/status elevation still requires user acceptance or later second-pass review."
+
+    re_entry_instructions:
+      - "Before starting Spinoza, read the Hobbes bounded note, the Hobbes chapter calibration journal entry, and the glossary entries for `Körper / Materie / Substanz`, `Begriff / Wort / Zeichen`, `Ursache / Bedingung / Erzeugung`, `Raum / Zeit`, and `Bewegung`."
+      - "Continue from `Fünftes Buch. Fortbildung und Vollendung des Rationalismus` / Spinoza."
+      - "Use the Spinoza opening as a test of the Hobbes pattern, not as confirmation that the pattern already generalizes."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: seventeenth-translation-batch-and-spinoza-opening
+    parts_touched:
+      - "parts/017-spinoza-short-treatise-intuition-and-passion.md"
+
+    state_on_entry:
+      - "Hobbes Parts 012-016 had closed Book IV with a bounded note on self-created principles hardening into absolute powers."
+      - "The Book V boundary needed verification: `_0091` divider, `_0092` blank, `_0093` Spinoza opening."
+      - "The active next-test was whether Spinoza inherits, transforms, or refuses Hobbes's autonomy/substance problem."
+
+    what_shifted:
+      - "Created Part 017 from PDF pages 93-96 / printed pages 73-76, stopping before the historical-perspective paragraph on printed page 77."
+      - "Verified the Book V divider/blank/opening sequence and added a high-trust page-map range for the Spinoza opening."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Wirklichkeit des unendlichen Seins`, `von`, `gut ist`, `Gottesbewußtsein das Grundfaktum`, `die Sache`, `etwas`, `Wirkungen, die`, `außen`, `Verwerfens`, `hinterlassen, wird`, `sinnlichen`, `substantiellen`, `sofern`, `macht`, `wahren Glauben`, `erschließen`, and `verfolgen`."
+      - "Translated the `Short Treatise` quotation in the main draft; the remaining footnotes are source identifications and cross-references."
+      - "Updated `Erfahrung`, `Bewegung`, `Körper / Materie / Substanz`, and `Selbstbewußtsein / Ich / innere Erfahrung` without opening a new Spinoza glossary entry."
+      - "Recorded the opening Spinoza finding: early Spinoza refuses Hobbesian self-creation by making knowledge pure passion under the immediately given actuality of infinite being."
+      - "Integrated trailing review by softening the opener's object-grasping language, explaining the `Glückseligkeit` title/quote split, and recording `anschaulich` as a Part 018 watchpoint."
+
+    unresolved:
+      - "Part 018 should begin on printed page 77 / PDF page 97 with `Für das Verständnis dieser Grundansicht...`."
+      - "`Intuition / Anschauung`, `reines Leiden`, `Gottesbewußtsein`, `Allnatur`, `wahrer Glaube`, `Wahrheit / Irrtum`, and `Selbsttätigkeit` remain ledger watchpoints."
+      - "Part 018 should test whether `anschaulich` can remain under the broad `Intuition / Anschauung` pressure or needs a sharper translation distinction."
+      - "Watch whether `Substanz` should split away from the Hobbes `Körper / Materie / Substanz` cluster when Spinoza's explicit substance section arrives."
+
+    re_entry_instructions:
+      - "Part 017 has passed self-review for controlled draft status."
+      - "Before continuing, read the Part 017 notes, the Spinoza close-reading ledger entry, and the updated `Körper / Materie / Substanz` glossary note."
+      - "Use Part 018 to test whether `Intuition / Anschauung` earns glossary status."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: eighteenth-translation-batch-and-spinoza-intuition-test
+    parts_touched:
+      - "parts/018-spinoza-intuition-renaissance-and-the-short-treatise.md"
+
+    state_on_entry:
+      - "Part 017 opened Book V / Spinoza and held `Intuition / Anschauung` as the active test pressure."
+      - "Trailing review had added `anschaulich` as a Part 018 watchpoint rather than forcing a Part 017 translation fix."
+      - "The question was whether to try Part 018 first before setting a Spinoza chapter-wide goal."
+
+    what_shifted:
+      - "Created Part 018 from PDF pages 97-104 / printed pages 77-84 partial, stopping before section `II. Der Tractatus de intellectus emendatione`."
+      - "Confirmed Part 018 is the rest of section I and the direct test tranche for `Intuition / Anschauung`."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including the damaged Campanella and page-boundary footnote material."
+      - "Translated the Campanella Latin quotation in the draft-footnote layer and translated/summarized the long Campanella apparatus note because it carries the argument."
+      - "Added `Intuition / Anschauung` as an open glossary entry."
+      - "Recorded the finding that early Spinozan intuition is mystical becoming-one with infinite being, not Cartesian mathematical insight into axioms."
+      - "Integrated trailing review by changing the Bruno comparison from shared `intuition` to shared `view` and by adding a lower-register `Anschauung` translation policy."
+
+    unresolved:
+      - "Part 019 should begin on printed page 84 / PDF page 104 with section `II. Der Tractatus de intellectus emendatione`."
+      - "`reines Leiden`, `Allnatur`, `Alleinheit / Allbeseelung`, `Naturbegriff`, `Selbsterhaltung`, and `Freiheit / Notwendigkeit` remain close-reading-ledger pressures."
+      - "Watch whether the next section transforms intuition from passive/mystical union into methodical possession of the true idea."
+      - "Do not split `Substanz` from `Körper / Materie / Substanz` before Spinoza's explicit substance section."
+
+    re_entry_instructions:
+      - "Part 018 has passed a fresh same-agent second pass for controlled draft status."
+      - "The Spinoza chapter-wide goal is now reasonable, but it should keep the same fresh second-pass-per-tranche requirement."
+      - "Use Part 019 to test whether the `Tractatus de intellectus emendatione` transforms mystical intuition into methodical self-illumination of the true idea."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: nineteenth-translation-batch-and-spinoza-tractatus-transition
+    parts_touched:
+      - "parts/019-spinoza-tractatus-true-idea-and-intellect.md"
+
+    state_on_entry:
+      - "Part 018 had closed the `Short Treatise` section and opened `Intuition / Anschauung` as the first major Spinoza glossary entry."
+      - "The active chapter-wide goal required section-bounded tranches with a fresh same-agent second pass before moving forward."
+      - "The next test was whether the `Tractatus de intellectus emendatione` transforms mystical intuition into methodical self-illumination of the true idea."
+
+    what_shifted:
+      - "Created Part 019 from PDF pages 104-108 / printed pages 84 partial-88 partial, beginning section II and stopping before `Aber freilich: nicht unser beschränktes...`."
+      - "Added a high-trust page-map range for the opening `Tractatus de intellectus emendatione` movement."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Tractatus`, `Daseinsgüter`, `mehr`, `wahre Idee`, `äußeres`, `Paragrapheneinteilung`, `Verbesserungen und Zusätzen`, `Gewahrwerden`, `Gegebenes ist, sondern`, `Anfang`, and `Reflexion`."
+      - "Translated the quoted German from the `Tractatus de intellectus emendatione` in the main draft and translated footnote 3 because it carries dating evidence."
+      - "Updated `Intuition / Anschauung` without opening a new glossary entry for `Idee / wahre Idee` or `Definition` yet."
+      - "Recorded the finding that the true idea supplies an immanent criterion of validity: the intellect, not things outside, becomes the first object of philosophical reflection."
+      - "Fresh second pass tightened `Scheingüter` and `Beschaffenheiten und Kräfte` in English and checked marker sequencing before routing."
+
+    unresolved:
+      - "Part 020 should begin on printed page 88 / PDF page 108 with `Aber freilich: nicht unser beschränktes...`."
+      - "`Idee / wahre Idee`, `Intellekt / Verstand`, `conceptus / perceptio`, `Definition`, and `Wahrheit / Gültigkeit` remain ledger pressures."
+      - "Watch whether the definition doctrine earns a new glossary entry or only modifies the existing `Intuition / Anschauung` pressure."
+      - "Watch whether `reines Leiden` returns in transformed form once metaphysics and substance enter."
+
+    re_entry_instructions:
+      - "Part 019 has passed a fresh same-agent second pass for controlled draft status."
+      - "Before continuing, read the Part 019 notes, the updated `Intuition / Anschauung` glossary entry, and the close-reading ledger's Part 019 routing."
+      - "Use Part 020 to test whether Spinoza replaces scholastic abstraction with genetic definition."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: twentieth-translation-batch-and-spinoza-definition-doctrine
+    parts_touched:
+      - "parts/020-spinoza-genetic-definition-and-causa-ratio.md"
+
+    state_on_entry:
+      - "Part 019 had transformed mystical intuition into methodical possession of the true idea but held new term promotion until the definition doctrine."
+      - "`Idee / wahre Idee`, `Definition`, `causa / ratio`, and `Realgrund / Erkenntnisgrund` were active ledger pressures."
+      - "The active goal required a fresh same-agent second pass before moving to the next tranche."
+
+    what_shifted:
+      - "Created Part 020 from PDF pages 108-111 / printed pages 88 partial-91 partial, beginning `Aber freilich...` and stopping after the `causa`/`ratio` equation."
+      - "Added a high-trust page-map range for the genetic-definition movement."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Begriffsbildung teilt`, `Produkt`, `innerer`, `bezeichnet`, `Akt der Konstruktion löst`, `Verknüpfung der`, `ab uno ente reali`, and `automatum spirituale`."
+      - "Translated substantive Latin footnotes from the `Tractatus de intellectus emendatione`; left the §§ 95-96 footnote as source identification."
+      - "Added `Definition / Konstruktion` as an open glossary entry and updated `Ursache / Bedingung / Erzeugung`, `Begriff / Wort / Zeichen`, and `Intuition / Anschauung`."
+      - "Recorded the finding that Spinozan genetic definition identifies real ground and ground of knowledge, `causa` and `ratio`."
+      - "Fresh second pass tightened several English renderings and confirmed that the new glossary entry was earned by the definition doctrine, not by term temptation alone."
+
+    unresolved:
+      - "Part 021 should begin on printed page 91 / PDF page 111 with `Die Vermittlung zwischen den beiden Gegengliedern...`."
+      - "`causa / ratio`, `Realgrund / Erkenntnisgrund`, `geistiger Automat`, `anschaulich möglich`, and `Idee / wahre Idee` remain close-reading pressures."
+      - "Watch whether Spinoza transforms Hobbesian construction into a metaphysical identity of thought-order and being-order."
+      - "Watch whether the next tranche forces a split or expansion of the Hobbes-derived `Ursache / Bedingung / Erzeugung` glossary entry."
+
+    re_entry_instructions:
+      - "Part 020 has passed a fresh same-agent second pass for controlled draft status."
+      - "Before continuing, read the new `Definition / Konstruktion` glossary entry and the Part 020 close-reading ledger entry."
+      - "Use Part 021 to test whether `causa / ratio` remains a local result or becomes the chapter's structural center."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: twenty-first-translation-batch-and-spinoza-fixed-eternal-things
+    parts_touched:
+      - "parts/021-spinoza-mathematics-and-fixed-eternal-things.md"
+
+    state_on_entry:
+      - "Part 020 had established genetic definition and the equation of `Realgrund / Erkenntnisgrund`, `causa / ratio`."
+      - "`Definition / Konstruktion` was newly opened, with Part 021 tasked to test how mathematics absorbs cause."
+      - "The active goal required continuing section-bounded tranches without dropping the fresh same-agent second pass."
+
+    what_shifted:
+      - "Created Part 021 from PDF pages 111-116 / printed pages 91 partial-96 partial, stopping at the centered break before the Descartes/Hobbes historical-motives movement."
+      - "Added a high-trust page-map range for the mathematics/fixed-eternal-things tranche."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Funktionsbegriff`, `metaphysische`, `Autorität der Sinne`, `Eigentümlichkeit des Verstandes`, `res non tam`, `quadam specie aeternitatis`, `Bewegungserscheinungen`, `wahrhafte`, `Grundelemente der Bewegung`, and `Bewegungsgesetze`."
+      - "Translated the substantive Latin quotation from `De intellectus emendatione` § 108 in the draft-footnote layer."
+      - "Added `feste und ewige Dinge` as an open glossary entry and updated `Definition / Konstruktion`, `Ursache / Bedingung / Erzeugung`, `Intuition / Anschauung`, and `Bewegung`."
+      - "Recorded the finding that Spinoza's mathematics becomes metaphysical cause rather than merely an order of knowledge."
+      - "Fresh second pass tightened the English and checked that the new glossary entry was earned by the explicit mediation doctrine."
+
+    unresolved:
+      - "Part 022 should begin on printed page 96 / PDF page 116 after the centered break with `Je schärfer der Gegensatz...`."
+      - "`Funktionsbegriff`, `causa / ratio`, `Realgrund / Erkenntnisgrund`, `Erkenntnisstufen`, `geistiger Automat`, and `sub specie aeternitatis` remain ledger pressures."
+      - "Watch whether Hobbes is explicitly named as the historical mediator of Spinoza's genetic definition doctrine."
+      - "Do not write a bounded Hobbes-Spinoza note until section III substance material supplies contrast evidence."
+
+    re_entry_instructions:
+      - "Part 021 has passed a fresh same-agent second pass for controlled draft status."
+      - "Before continuing, read the `feste und ewige Dinge` glossary entry and the Part 021 ledger entry."
+      - "Use Part 022 to test whether the Hobbes comparison explains the transition from method to substance."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: twenty-second-translation-batch-and-spinoza-section-ii-close
+    parts_touched:
+      - "parts/022-spinoza-descartes-hobbes-and-causa-sui.md"
+
+    state_on_entry:
+      - "Part 021 had opened `feste und ewige Dinge` and left Hobbes as the likely historical mediator to test."
+      - "Section II still needed closure before the substance/metaphysics section."
+      - "The active goal required same-agent second pass and apparatus routing before moving forward."
+
+    what_shifted:
+      - "Created Part 022 from PDF pages 116-122 / printed pages 96 partial-102 partial, closing section II before `III. Der Begriff der Substanz. — Die Metaphysik`."
+      - "Added a high-trust page-map range for the Descartes/Hobbes/causa-sui tranche."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including the long Ethics preface Latin, Hobbes/Wallis note, Bacon note, Hobbes universalia note, and causa-sui footnote."
+      - "Translated substantive Latin footnotes 2, 5, 7, and 9; translated/summarized footnote 6 because it carries the Bacon/Hobbes routing argument."
+      - "Updated `Definition / Konstruktion`, `feste und ewige Dinge`, `Ursache / Bedingung / Erzeugung`, `Begriff / Wort / Zeichen`, and `Körper / Materie / Substanz`."
+      - "Recorded the finding that Hobbes supplies Spinoza's positive genetic-definition method, but Spinoza pushes beyond Hobbes through `causa sui`."
+      - "Fresh second pass tightened the English and flagged the scan-confirmed `Ethik III` citation as likely citation issue in the draft-footnote layer."
+
+    unresolved:
+      - "Part 023 should begin on printed page 102 / PDF page 122 with `III. Der Begriff der Substanz. — Die Metaphysik`."
+      - "`causa sui`, `Geisteswissenschaften`, `Willensfreiheit`, `Anthropomorphismus`, `Phoronomie`, `Universalia`, and `Nominalismus` remain ledger pressures."
+      - "Watch whether `Körper / Materie / Substanz` splits into a Spinoza-specific substance/modes/attributes entry."
+      - "Do not write the bounded Hobbes-Spinoza note until the substance section tests the method/metaphysics opposition."
+
+    re_entry_instructions:
+      - "Part 022 has passed a fresh same-agent second pass for controlled draft status."
+      - "Before continuing, read the Part 022 ledger entry and the updated `Körper / Materie / Substanz` glossary entry."
+      - "Use Part 023 to test whether the section-II `causa sui` close becomes the key to substance and modes."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: twenty-third-translation-batch-and-spinoza-substance-section-opening
+    parts_touched:
+      - "parts/023-spinoza-substance-pantheism-and-geometrical-method.md"
+
+    state_on_entry:
+      - "Part 022 had closed section II by showing Hobbes as the historical mediator of Spinoza's genetic-definition method and `causa sui` as the limit Hobbes cannot cross."
+      - "`Körper / Materie / Substanz` was explicitly at a split point, with the next section tasked to test a Spinoza-specific substance/mode entry."
+      - "The active goal required section-bounded or argument-bounded tranches with a fresh same-agent second pass before moving forward."
+
+    what_shifted:
+      - "Created Part 023 from PDF pages 122-124 / printed pages 102 partial-104 partial, beginning section III and stopping before the `Theologisch-Politische Traktat` comparison."
+      - "Added a high-trust page-map range for the substance-section opening."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Aufgabe`, `Gegensatz`, `der Substanz`, `endlichen`, `bestimmter`, `causa sui`, `solam`, `S. hierzu`, `Mittel`, `Instrumente des Erkennens`, `geometrischen`, `Cogitata`, and `Cap.`."
+      - "Translated the Wenzel textual-variant footnote because it carries Cassirer's source-layer decision about `humana` versus `humanam`."
+      - "Added `Substanz / Modi` as a Spinoza-specific glossary entry and updated `Körper / Materie / Substanz` to mark the split."
+      - "Updated `Definition / Konstruktion`, `feste und ewige Dinge`, `Ursache / Bedingung / Erzeugung`, and `Intuition / Anschauung`."
+      - "Recorded the finding that geometry is constitutive for Spinoza's concept of being, not merely an external proof aid."
+      - "Fresh second pass tightened the English around `Fülle`, `vorzustellen`, `einzig und allein`, and the Wenzel note."
+
+    unresolved:
+      - "Part 024 should begin on printed page 104 / PDF page 124 with `Es ist interessant, die weiteren Spuren dieser Grundanschauung...`."
+      - "`Attribute`, `causa sui`, `All / Allnatur`, `Pantheismus`, `Imagination`, `Zweck / Zeit / Zahl / Maß`, and `geometrische Methode` remain ledger pressures."
+      - "Watch whether `Substanz / Modi` must expand to `Substanz / Modi / Attribute` once the attribute doctrine becomes explicit."
+      - "Do not write the bounded Hobbes-Spinoza note until the next substance-section comparison shows whether the geometry/substance pattern holds."
+
+    re_entry_instructions:
+      - "Part 023 has passed a fresh same-agent second pass for controlled draft status."
+      - "Before continuing, read the new `Substanz / Modi` glossary entry and the Part 023 close-reading ledger entry."
+      - "Use Part 024 to test whether the `Theologisch-Politische Traktat` comparison confirms geometry as a cross-register principle of objectivity or opens a new register."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: twenty-fourth-translation-batch-and-spinoza-deus-sive-natura
+    parts_touched:
+      - "parts/024-spinoza-deus-sive-natura-and-nature-order.md"
+
+    state_on_entry:
+      - "Part 023 had opened section III and split Spinoza's `Substanz / Modi` problem from the Hobbes `Körper / Materie / Substanz` entry."
+      - "The next test was whether the `Theologisch-Politische Traktat` comparison confirmed geometry/order as a cross-register principle or opened a separate scripture/politics register."
+      - "The active goal required a fresh same-agent second pass before moving forward."
+
+    what_shifted:
+      - "Created Part 024 from PDF pages 124-126 / printed pages 104 partial-106 partial, stopping before `Damit erst ist der spezifische Grundcharakter...`."
+      - "Added a high-trust page-map range for the `Deus sive natura` / nature-order tranche."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Grundanschauung`, `Theologisch-Politische Traktat`, `derjenigen`, `Zwecken und Absichten`, `Unter der Leitung Gottes`, `unabänderliche`, `Verkettung`, `Deus`, `legibus`, `naturae`, `atheismum`, and `gesetzliche Verknüpfung`."
+      - "Translated substantive Latin footnotes from the `Tractatus Theologico-Politicus` and `Ethics` I.33 demonstration."
+      - "Updated `Substanz / Modi`, `Definition / Konstruktion`, and `Ursache / Bedingung / Erzeugung`."
+      - "Recorded the finding that `Deus sive natura` is an order-identity rather than a thing-identity: nature is lawful connection, not sum or super-thing."
+      - "Fresh second pass tightened the syntax around `entgegenzustellen` and kept `Deus sive natura` as ledger pressure rather than a new glossary entry."
+
+    unresolved:
+      - "Part 025 should begin on printed page 106 / PDF page 126 with `Damit erst ist der spezifische Grundcharakter...`."
+      - "`Deus sive natura`, `Naturordnung`, `Wille Gottes`, `Theologisch-Politischer Traktat`, and `Atheismus` remain ledger pressures."
+      - "Watch whether the `Ethics` obscures the order-concept through inherited scholastic substance terminology."
+      - "Watch whether `Attribute` enters strongly enough to expand `Substanz / Modi`."
+
+    re_entry_instructions:
+      - "Part 024 has passed a fresh same-agent second pass for controlled draft status."
+      - "Before continuing, read the Part 024 ledger entry and the updated `Substanz / Modi` glossary entry."
+      - "Use Part 025 to test whether the next movement is substance-category history before attribute doctrine."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: twenty-fifth-translation-batch-and-spinoza-scholastic-substance
+    parts_touched:
+      - "parts/025-spinoza-scholastic-substance-and-abstract-existence.md"
+
+    state_on_entry:
+      - "Part 024 had clarified `Deus sive natura` as an order-identity rather than a thing-identity."
+      - "The next hook asked whether the `Ethics` obscures the order-concept through inherited scholastic substance terminology."
+      - "The active goal required a fresh same-agent second pass before moving forward."
+
+    what_shifted:
+      - "Created Part 025 from PDF pages 126-130 / printed pages 106 partial-110 partial, stopping before `Der Satz \"omnis determinatio est negatio\"...`."
+      - "Added a high-trust page-map range for the scholastic substance / abstract existence tranche."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Metaphysischen Gedanken`, `Wirklichkeitserkenntnis. Freilich`, `Prädikat`, `omnia`, restored Greek `οὐσία` and `συμβεβηκότα`, `und der Accidenzen`, `Simmel`, `übereinstimmen und`, `Behauptung`, `Nicht-Sein`, `Ontologie`, `verschieben`, and `notiones communes`."
+      - "Translated the substantive Trendelenburg quotation in the main draft and the `De intellectus emendatione` Latin quotation in the draft-footnote layer."
+      - "Updated `Substanz / Modi`, `Definition / Konstruktion`, and `Intuition / Anschauung`."
+      - "Recorded the finding that abstract existence is a false solution to the substance problem; Spinoza requires a particular affirmative essence."
+      - "Fresh second pass checked `Dasein` against Goethe's formula and tightened `Beweisverfahren`, `real angewandt`, and `inhaltliche Bedeutung`."
+
+    unresolved:
+      - "Part 026 should begin on printed page 110 / PDF page 130 with `Der Satz \"omnis determinatio est negatio\"...`."
+      - "`Sein / Dasein / Existenz`, `notiones communes`, `Imagination`, `essentia particularis affirmativa`, `A- oder B-Sein`, `Nicht-Sein`, and the Aristotle Greek remain ledger pressures."
+      - "Watch whether Part 026 resolves the particular/unlimited idea by shifting from individual being to the order of individual beings."
+      - "Do not open `Sein / Dasein / Existenz` or expand `Substanz / Modi` to attributes until the next tranche supplies evidence."
+
+    re_entry_instructions:
+      - "Part 025 has passed a fresh same-agent second pass for controlled draft status."
+      - "Before continuing, read the Part 025 ledger entry and the updated `Definition / Konstruktion` and `Intuition / Anschauung` glossary entries."
+      - "Use Part 026 to test whether `omnis determinatio est negatio` changes the substance-entry shape."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: twenty-sixth-translation-batch-and-spinoza-immanent-cause
+    parts_touched:
+      - "parts/026-spinoza-order-of-individuals-and-immanent-cause.md"
+
+    state_on_entry:
+      - "Part 025 had left open how a particular idea could nevertheless reject all limitation."
+      - "`Sein / Dasein / Existenz`, `omnis determinatio est negatio`, and `immanente Ursache` were ledger pressures."
+      - "The active goal required a fresh same-agent second pass before moving forward."
+
+    what_shifted:
+      - "Created Part 026 from PDF pages 130-132 / printed pages 110 partial-112 partial, stopping before the non-numerical unity movement."
+      - "Added a high-trust page-map range for the order-of-individual-beings / immanent-cause tranche."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Ordnung der Einzelwesen`, `verwirklicht. Die Regel`, `das`, `besondere Dinge`, `neuen Form`, `erblicken`, `intelligimus`, `Substantialität`, `transiente`, `immanente`, `inkommensurabel, aber`, `gegen den`, `ethisch-religiösen`, and `konkret und wirklich`."
+      - "Translated the short substantive Latin from `Ethics` V.24 in the draft-footnote layer."
+      - "Updated `Substanz / Modi`, `Definition / Konstruktion`, `feste und ewige Dinge`, and `Intuition / Anschauung`."
+      - "Recorded the finding that substance is immanent cause as the necessary mathematical connection of individual things."
+      - "Fresh second pass tightened `gedanklicher Bestand`, `einmalige Folge des Geschehens`, and `Sinnesempfindung`."
+
+    unresolved:
+      - "Part 027 should begin on printed page 112 / PDF page 132 with `Zu den gleichen Grundbestimmungen...`."
+      - "`immanente Ursache`, `transiente Ursache`, `Ordnung der Einzelwesen`, `logischer Kampf`, and `geometrische Gesetzlichkeit` remain ledger pressures."
+      - "Watch whether Spinoza's non-numerical unity and whole/part critique require a separate `Einheit / Vielheit` entry."
+      - "Watch whether the dynamic-force discussion reintroduces the `Short Treatise` / Renaissance nature view."
+
+    re_entry_instructions:
+      - "Part 026 has passed a fresh same-agent second pass for controlled draft status."
+      - "Before continuing, read the Part 026 ledger entry and the updated `Substanz / Modi` glossary entry."
+      - "Use Part 027 to decide whether `immanente Ursache` is still ledger-only or glossary-worthy after the dynamic-versus-mathematical contrast."
+
+    formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: twenty-seventh-translation-batch-and-spinoza-dynamic-force
+    parts_touched:
+      - "parts/027-spinoza-non-numerical-unity-and-dynamic-force.md"
+
+    state_on_entry:
+      - "Part 026 had identified substance as immanent cause and necessary mathematical connection."
+      - "The next hook asked whether non-numerical unity and whole/part critique continue the order-concept or require a separate `Einheit / Vielheit` entry."
+      - "The active goal required a fresh same-agent second pass before moving forward."
+
+    what_shifted:
+      - "Created Part 027 from PDF pages 132-135 / printed pages 112 partial-115 partial, stopping before the personal-development passage."
+      - "Added a high-trust page-map range for the non-numerical unity and dynamic-force tranche."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Zahleinheit`, `Einer`, `Einziger`, `entgegensetzen`, `Ganzes und Teil`, `Größe`, `Beschaffenheit`, `Einzeldinge`, `dynamischem`, `Kurzen Traktat`, `Wirksamkeit`, `operari`, `sequi`, `causa`, `ratio`, `zusammenhalten`, `Deus sive natura`, `Entstehung der exakten Wissenschaft`, `Weg`, `Naturerklärung`, and `intellektuellen Liebe zu Gott`."
+      - "Updated `Substanz / Modi`, `Ursache / Bedingung / Erzeugung`, `Definition / Konstruktion`, and `Intuition / Anschauung`."
+      - "Recorded the finding that dynamic force yields to mathematical order without being eliminated; mathematical law itself gains efficacy."
+      - "Fresh second pass checked the Renaissance nature register and kept `Kraft`, `causa / ratio`, and `operari / sequi` as ledger pressures."
+
+    unresolved:
+      - "Part 028 should begin on printed page 115 / PDF page 135 with `Auch der persönliche Entwicklungsgang Spinozas...`."
+      - "`Einheit / Vielheit`, `Ganzes / Teil`, `Kraft`, `operari / sequi`, `causa / ratio`, `Naturbegriff`, `intellektuelle Liebe zu Gott`, and `Deus sive natura` remain ledger pressures."
+      - "Watch whether the next `Verfestigung und Verdinglichung` paragraph makes the Hobbes-Spinoza bounded comparison earned."
+      - "Watch whether the attribute doctrine forces `Substanz / Modi` to expand."
+
+    re_entry_instructions:
+      - "Part 027 has passed a fresh same-agent second pass for controlled draft status."
+      - "Before continuing, read the Part 027 ledger entry and the updated `Substanz / Modi` and `Ursache / Bedingung / Erzeugung` glossary entries."
+      - "Use Part 028 to test whether a bounded Hobbes-Spinoza note and a `Substanz / Modi / Attribute` expansion are earned."
+
+    formation_notes: []
+
   - date: 2026-05-13
     collaborator: codex-gpt-5
     session_outcome: first-translation-batch
@@ -433,3 +986,33 @@ sessions:
       - "Keep all new glossary entries open; do not stabilize them on one Bacon tranche."
 
     formation_notes: []
+
+  - date: 2026-05-14
+    collaborator: claude-opus-4-7-1m
+    session_outcome: verification-and-threshold-passage
+    parts_touched: []
+
+    state_on_entry:
+      - "Vol. 2 scaffold complete; Parts 001-002 written and the Latin-footnote / Geist-watchpoint flags had been resolved through Codex's own self-check."
+      - "User intent shifted from preflight verification to chapter-level review and pedagogy alongside the forward work."
+      - "`texts/erkenntnisproblem-vol1/reading/2026-05-13-lessons-for-vol-2.md` had been drafted and revised after a thorough primary-source reading pass."
+
+    what_shifted:
+      - "Verified the Bacon chapter close (Parts 003-006); no substantive review corrections needed, only paragraphing audits and one Latin idiom catch."
+      - "Verified the Gassendi chapter close (Parts 007-011); structural-center pattern visibly broke from Bacon's doublet shape, confirming the apparatus is responsive to material rather than templated."
+      - "Confirmed the threshold-of-trust criterion the user had named (`several tranches pass the correctness gate without substantive review corrections`) was met at the Bacon close and reinforced at the Gassendi close."
+      - "Named the Hobbes opening as the next chapter-boundary test; the Part 011 journal entry already records a falsifiable prediction with multiple possible outcomes (logical, political, mechanical reformulation of the object-sensation-thought relation)."
+
+    unresolved:
+      - "The work pace has been intense (eleven parts in roughly 36 hours including overnight stretches); verification of artifacts cannot detect producer fatigue. Worth a periodic human check on whether the work feels right, not only whether it verifies."
+      - "The Plato `Theaetetus` reference at Part 011 (`wie in hölzernen Pferden`) is preserved in translation but uncommented; possibly worth a later annotation pass."
+      - "`Bewegung` carried forward from Bacon as a watchpoint but did not dominate Gassendi; needs the Hobbes opening to confirm whether it stays Bacon-local or becomes a cross-chapter empiricism problem."
+
+    re_entry_instructions:
+      - "Baconian verification register can ease; threshold has been met. Default to translating-agent self-review with subagent escalation for targeted issues, as the Bacon experiment resolved."
+      - "Continue from PDF page 66 / printed page 46 with `Drittes Kapitel. Hobbes.`"
+      - "At the Hobbes opening, treat the multi-possibility prediction as a falsifiable test; do not pre-load any specific outcome."
+      - "Do not carry the Gassendi bounded reading-note form forward as a template; Part 011's hooks already record this explicitly."
+
+    formation_notes:
+      - "This session also produced two non-vol2 artifacts: `00-Notes/working-syntheses/2026-05-14-german-morphology-notes-from-vol2-bacon-opening.md` (pedagogical reference for the morphemes encountered during forward translation review) and `00-Notes/working-syntheses/2026-05-14-meta-conversation-markers-erk-vol02-5-13a.md` (pointers to meta-conversation threads that calibrated working register but were not earned as standalone synthesis)."

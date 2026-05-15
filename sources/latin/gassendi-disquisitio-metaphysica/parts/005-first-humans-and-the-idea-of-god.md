@@ -1,0 +1,88 @@
+# Part 005: First Humans And The Idea Of God
+
+Status: working translation draft.
+
+Source: `../source/normalized/005-first-humans-idea-god-version2-jp2-0151-0156.txt`
+
+Source span: version2 JP2 images `0151-0156`; standalone printed pages `123 partial-128`.
+
+Source status: preferred KB / ProQuest page-image witness, corrected against the Google / IA OCR witness. The span closes Dubitatio IV and stops before Dubitatio V.
+
+## Opening Finding
+
+Gassendi gives the idea of God a history rather than an innate status. Revelation can explain the first divine knowledge, but then the idea is revealed, not innate. Natural light can also explain a pagan idea of God through the sun, stars, benefits, providence, political power, poetry, world-soul speculation, and lawgiving. The result is not atheism; it is an anti-innatist genealogy. Gassendi then folds the infinite back into the same rule: enlargement of finite perfections produces dilation and analogy, not a proper adequate idea.
+
+## Working Translation
+
+As for your saying that you would like me to have added where the first human beings, from whom we received the attributes concerning God, had the idea of God: I would like you to know that I did not add it, first, because I was persuaded, as I thought you too were persuaded, that the first knowledge of God was had from God himself revealing it, manifesting himself to the first human beings created by him, and that it was then propagated to all human beings and so down to you and me.
+
+When you anticipate this and say, "If from God revealing it, then God exists," you do indeed infer truly; but meanwhile you overturn precisely what you want to establish. For if the idea of God was received from God revealing it, whether he manifested himself by himself or through messengers, that proves indeed that God exists, but it also proves at the same time that the idea is not innate, as you contend, but had and infused by revelation.
+
+Next, because you were not dealing with knowledge of God insofar as it is had by faith or revelation, but insofar as it can be had by reason or natural light, I did not think I needed to add how those who philosophized about God without the light by which sacred religion illumines us thought the first human beings could arrive at knowledge of God, since I believed that so well-known a matter could not be unknown to you. And if I had done so, would you not have mocked me, as before, that I should have remembered that I am here addressing a mind so withdrawn from corporeal things that it does not even know whether any human beings ever existed before it, and therefore is not moved by their authority?
+
+But come then, since you are now of another mind, and lest you seem to have wanted something so far beyond my powers, I will compress into a few words what is treated at great length in the most common authors. I premise only this: even the knowledge that the rankest pagans had of God was by the grace of God himself, who in various ways and by various signs invites human beings to knowledge of himself. Hence they were inexcusable, because, recognizing God from his works, they did not glorify him as God but vanished into their own thoughts, foolishly thinking themselves made wise from themselves when they should have considered that this wisdom of theirs was God's gift.
+
+Now the authors report that when the first human beings saw the sun, moon, and other stars running ceaselessly, they called them `theoi`, gods, and above the rest the sun itself, whose course was especially conspicuous. Then, because they recognized the sun as supremely beneficent, they judged that it went around the earth so as to benefit all nations in order, and they again called it god from `para to thein`, because it both saw all things and provided for all.
+
+Then, because god was for them a benefactor, they attributed this name of god both to human beings and to other things from which they obtained some benefit. Thus not only human beings such as Ceres, Bacchus, and Hercules were called and counted among the gods, but also springs, rivers, and other things useful for life. Among human beings, princes especially were dignified with this name, since, because they could do more, they could also confer more benefits, as with Jove and others. Indeed, they judged them worthy, like the sun, to hold rule in heaven; hence they assigned them a seat in heaven.
+
+Flatterers then succeeded, and poets imitated them, filling heaven with divinities of this kind and meanwhile mixing everything with countless fables. And since all princes, even the worst, wanted to be counted among the gods, harmful gods were held to exist. Thus, when the kingdom of the gods had been multiplied, as it were, and their offices toward human beings were distributed, one was held as if king, the others as ministers or lesser gods; just as some conferred benefits, others exacted punishments.
+
+It was accordingly believed that the world was administered by the providence of the supreme god together with the lesser gods, especially once contemplation of the order by which all things performed their turns was added; and that neither eclipses nor comets nor thunderbolts nor monsters nor any prodigies nor anything at all occurred without their disposition and intervention.
+
+From this some began to philosophize and to regard the world after the manner of an animal, so that all the effects that were attributed to the nature of the gods were attributed to one soul, as it were, poured through the whole, with one chief part of it existing as principle, from which rule was dictated, and the rest existing as faculties through which everything was carried out.
+
+On this occasion lawmakers, when they saw that human beings were malicious and would abstain openly from wrongdoing through fear of punishments but would not abstain secretly from inflicting injuries, introduced the persuasion that the divine nature permeated all the most hidden things and also secretly observed crimes, which, if it did not punish them in this life, would at least punish them in the underworld by furies and punishments prepared there.
+
+But there is no need to pursue these things, nor to run through certain more special paths or modes of Aristotle, Democritus, and the rest. It is enough to have touched on these, especially since they are common, so that you may see that the first human beings could have had some idea of God even if they did not have an innate one, as you wish.
+
+Therefore it does not help you to ask, "If they had it from themselves, why can we not also have it from ourselves?" For you see that one can answer you that neither they had it from themselves, nor do we have it from ourselves; but both they could have it and we can have it by a like argument, that is, from inspection of the sun and the order of the universe, toward which God willed us to look when he ordered us to attend not to an inborn idea but to the host of the heavens, to the heavenly arc, and to the other works, from contemplation of which we may recognize and bless the one who created them.
+
+I add that once some knowledge of God has been had, his idea is cultivated by pious and wise men, who now change this, now that, add, subtract, as they recognize or are taught what is more fitting to the divine majesty. You should not boast that you obtained from yourself, rather than received from others, the idea you now have of God, representing God as supreme, eternal, infinite, omnipotent, and so on, as was also objected before.
+
+I add that although you say this, and perhaps are even persuaded that you have such an idea neither from hearing nor from inspection of celestial bodies or other external things, nevertheless that authority or persuasion of yours will not be the principle of the demonstration for which you have aroused such great hope, even if you think it established by this reasoning:
+
+If someone, having placed himself in a state of ignorance prepared by affected abstraction, says that he recognizes and is persuaded that he has an idea through which he understands some supreme God, eternal, infinite, omniscient, omnipotent, creator of all things that exist apart from him, without having received that idea either from hearing or from contemplation of external things, then his authority and persuasion is the genuine principle of a demonstration proving that there is an equal idea inborn in all human beings, and not received from hearing or from contemplation of external things.
+
+But I place myself in a state of ignorance prepared by affected abstraction, and I say that I recognize and am persuaded that I have an idea through which, and so on.
+
+Therefore my authority and persuasion is the genuine principle of a demonstration by which it is proved, and so on.
+
+As for what I said, that whoever speaks of something infinite attributes to a thing he does not grasp a name that he does not understand, you warn that one must distinguish an understanding conformed to the measure of our talent, such as each of us sufficiently experiences himself to have of the infinite, from an adequate concept of things, such as no one has not only of the infinite but perhaps not even of any other thing, however small. As this is said here, I not only agree that it is true but even kiss and greatly commend it.
+
+But when you say that I do not distinguish, see whether I, rather, do not distinguish in fact, while you are content to say it as though it were something splendid, yet do not hold the distinction in fact. For once the distinction is admitted, I find no understanding or adequate concept in human beings even of a thing however small, such as a mite, whose nature, generation, composition, vivification, motion, and other things of that kind seem to me to exceed all human cleverness and sharpness by impassable parasangs. Hence it was said most truly by a most learned doctor: the divine maker is so great in great things that he is not smaller in small things.
+
+So far am I from failing to distinguish the measure of understanding that I recognize nothing except measure. And since there is a measure even with respect to a mite, how much more, do you think, with respect to infinite being? I am led so far by this that, since there is no proportion between a mite and not only the whole world but infinite being, I judge that if the concept I form of a mite is a measure of understanding, then the concept of God or infinite being is not only not a measure, but not even the tiniest little shadow of the tiniest little measure.
+
+Whether you hold the measure similarly, or think that you hold it, your words sufficiently declare. You say that it is not true that the infinite is understood through negation of end or limitation. But just as the word infinite imports negation of end or limitation, so the thing to which it is attributed is understood to be of such diffusion that the greatest part of it is hidden from us, and it is conceived only to this extent: that its end is not where the end of our conception is. However much we conceive that the thing is not terminated where conception is terminated, what we conceive is still chaos, and to this we withdraw, saying that whatever it is, we cannot conceive it.
+
+You say, on the contrary, that every limitation contains negation of the infinite. But this is just as if, when someone said that the blind person is deprived of sight, you objected that it is not so, but on the contrary that the seeing person is deprived of blindness. It is permitted to you, of course, to explain a positive thing by a double negation. But those who explain a negative thing by negation do not seem to speak less plainly.
+
+As for my saying that the idea representing perfections received from finite things, enlarged by the mind, and attributed to God contains no more objective reality than the finite things themselves taken together have: you too admit that those perfections are enlarged by our intellect so that they may be attributed to God. But when you ask whether I think that things enlarged in this way are not for that reason greater than things not enlarged, is this not what I have often said? I noted especially that you seem to be deceived because you think there is more reality or substance in some dilated thing than in the same thing while contracted, as in a plate more than in an undilated sphere, or in a net more than in the cloth from whose threads it is woven, or in the enclosure of Byrsa's citadel more than in the whole hide.
+
+And again, I gave the reason why we make an idea more confused the more we enlarge it: as if, with empty space intercepted and a distraction of parts made, the parts, because they are not more numerous for that reason, do indeed have more dilation but do not therefore contain more reality, whatever that may be.
+
+You ask from where there could be a faculty of enlarging created perfections unless the idea of God, or of a greater being, is in us. But since I do not deny that the idea of God is in us, whether it comes from hearing or from contemplation, as has already been said, and since I admit that it is God's benefit that we have the faculty of enlarging created perfections, I nevertheless say that it is not necessary to recur to the idea of God as innate in order for such a faculty to perform this. It performs in the way that God made it such that it can enlarge the idea of a pygmy after the manner of the idea of a giant, of a stone after the manner of a mountain, of a lake after the manner of the sea, and so on. The native force of the intellect should not be held less than the force in the hand by which it draws out dough, in the mouth by which it expands glass by blowing, and likewise in the rest.
+
+You deny that God would be very small if he were not greater than he is understood by us. But ho! Where is the measure? "He is understood," you say, "as infinite, and nothing can be greater than the infinite." But again, ho! Where is the measure? You do indeed say "infinite," but you say a thing not understood. Some notion does seem to lie beneath this word; nevertheless it is nothing other than the negation of end in a being whose positive amplitude, since you do not grasp it, indeed not even a thousandth part of it, indeed not even a hundred thousand times a thousandth, indeed finally none of it, you are forced to admit that you wanted to understand a thing that cannot be understood, and that you can say nothing else about it except that it is infinite, that is, inestimably exceeding the finitude of your perception.
+
+You say that I confuse intellection with imagination, namely because when I asked what kind of essence of God it would be permissible to imagine, I should rather have asked what kind it would be permissible to understand. But there is no reason for me to add anything to what has been said before, or to quarrel over the word itself, which is quite proper, conforms to its etymology, and is very familiar. It was rather for you to say, when you understood God, what sort of thing you experienced as facing your intellection. Was it not something like a certain breeze diffused everywhere and without end, most thin, most pure, most simple, most luminous, to which it would belong to be most intelligent, most powerful, best, and so on? And if not in this way, or in human form, then certainly in some other form, since you had an idea of him otherwise than in a point, otherwise than without likeness or the nature of an image.
+
+Not that you would therefore judge God to be of this sort, but that you would not conceive him otherwise; and since you could not conceive him as he was in himself, you would meanwhile represent him to yourself as you could, so that he would become an object about which you might deny or assert something. I, at least, simply and in good faith declare what I experience and what I do not experience, and I am not ashamed of my ignorance. You, if it seems otherwise to you, go on acting as it seems best.
+
+## Notes
+
+- Gassendi's account of the idea of God is not secular reduction. He preserves revelation and grace, but those make the idea revealed, received, cultivated, or inferred, not innate.
+- The pagan genealogy makes the idea of God historical and layered: celestial motion, benefaction, political power, poetic flattery, providential order, world-soul speculation, and lawgiving all contribute.
+- Natural theology is routed through works and order, not through an inborn idea: sun, heavenly host, celestial arc, and created works.
+- Gassendi mocks the Cartesian appeal to the isolated subject's self-persuasion as a demonstration of innateness. Authority plus persuasion inside affected abstraction does not prove universal inborn content.
+- `modulus` becomes central. Gassendi accepts finite measures of understanding, but denies any adequate concept even of a mite, much less of infinite being.
+- `ampliatio` is again the anti-innatist mechanism. Enlarging finite perfections produces greater dilation and greater confusion, not more objective reality.
+- The close repeats the image challenge: if Descartes says he understands God, what is present to that understanding? If there is no point, extension, likeness, or image-nature, Gassendi wants the mode of presence stated.
+
+## Re-entry
+
+- Continue with Dubitatio V on the dictum that nothing is in the effect that is not in the cause.
+- Track whether `modulus` and `ampliatio` should become a joined thread: measure limits representation; enlargement exceeds measure and increases confusion.
+- Watch how Gassendi handles causality next, because it may connect back to objective reality and the idea of God.
+

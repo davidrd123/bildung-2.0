@@ -226,3 +226,331 @@ Routing:
 - Add `Selbstbewußtsein / Ich / innere Erfahrung` to the glossary and update `Erfahrung` and `Sinn / Sinneswahrnehmung`.
 - Keep `Geist`, `eingeborene Begriffe`, `Urteil`, `Bewußtsein`, `Antizipationen des Geistes`, and `Bildertheorie` as ledger watchpoints.
 - Create a bounded Gassendi reading note now that the physics, space/time, motion, and psychology movements all converge.
+
+### 2026-05-14 - Hobbes: Cause Becomes Constructible Condition
+
+Passage: `parts/012-hobbes-opening-definition-of-knowledge.md`, printed pages `46-48 partial`.
+
+The Hobbes chapter opens by explicitly comparing the `Erfahrungsbegriff` of Bacon, Gassendi, and Hobbes. Hobbes still takes over Bacon's formula that true knowledge is knowledge from causes, but Cassirer locates the decisive change in what `cause` now means: not an inner force or substantial form, but the complete set of conditions whose presence makes an effect necessary.
+
+Local pressure:
+
+- `Erfahrung` is now measured by the philosophical reception of exact physics. Hobbes's concept of experience is not Baconian accumulation and not Gassendi's sensory criterion; it is tied to the Galilean method of construction and necessity.
+- `Bewegung` becomes a pure mathematical relation rather than Baconian appetite or Gassendi's atomistic motion-state. This is the first Hobbes answer to the cross-chapter motion watchpoint.
+- `Ursache / Bedingung` is the strongest new pressure. The term is probably near glossary threshold, but it should wait until Part 013 shows whether causal definition and generation organize the wider method doctrine.
+- `Wesenheiten` and `Formalursachen` function as negative foils: Hobbes's analysis does not terminate in abstract essences or substantial forms.
+
+Routing:
+
+- Update `Erfahrung` and `Bewegung` in the glossary.
+- Keep `Ursache / Bedingung`, `Mechanismus`, `Wesenheiten`, and `Formalursachen` in the ledger until the next Hobbes tranche tests whether they remain chapter-structural.
+- Use Part 013 to test whether the center shifts from motion/cause to deduction, construction, and method.
+
+### 2026-05-14 - Hobbes: Method As Constructive Generation
+
+Passage: `parts/013-hobbes-method-deduction-and-construction.md`, printed pages `48-55 partial`.
+
+Hobbes's distinctiveness is now stated directly: he transfers the Galilean method from physics to the whole of knowledge. Knowledge is secured wherever a content can be generated from conditions fixed by thought. Geometry is the model because we create its figures; physics must imitate geometry analogically by deriving appearances from possible causes.
+
+Local pressure:
+
+- `Ursache / Bedingung / Erzeugung` earns glossary status. The Part 012 cause-as-condition finding now becomes a general method of generation and causal definition.
+- `Bewegung` becomes Hobbes's mediating concept between nature and thought. It is both the ground of real occurrence and a basic concept of the mind's own constructive procedure.
+- `Rechnen` is not mere arithmetic. It means ordered construction from fixed units, though Hobbes still reduces conceptual connection too much to addition and subtraction.
+- `Deduktion`, `Körper`, `Mehr / Weniger`, `Analysis des Unendlichen`, and `conatus` are all active but should remain ledger pressures until the word/sign section shows what persists.
+
+Routing:
+
+- Add `Ursache / Bedingung / Erzeugung` to the glossary and update `Bewegung`.
+- Keep `Deduktion`, `Rechnen`, `Körper`, `Mehr / Weniger`, `Analysis des Unendlichen`, and `conatus` in the ledger.
+- Use Part 014 to test whether the next structural center is concept/word/sign or political convention entering logic.
+
+### 2026-05-14 - Hobbes: Word As Vehicle Of Rational Validity
+
+Passage: `parts/014-hobbes-concept-word-and-nominalist-rationalism.md`, printed pages `55-61 partial`.
+
+The section first states the danger in maximal form: Hobbes seems to dissolve logic into grammar, truth into names, and necessary relations into conventions backed by a sovereign-like act of institution. Cassirer then re-reads the same nominalist pressure as a rationalist motive. The word is not merely a label for things; it fixes the mind's active judgment and lets a particular insight become a general rule.
+
+Local pressure:
+
+- `Begriff / Wort / Zeichen` earns glossary status. This is not a general language entry, but a Hobbes-method entry about how signs stabilize constructed thought.
+- `veritas in dicto` should be carried forward as a proposition-content watchpoint. `Dicto` is not merely spoken sound; it points to what is said or asserted. The draft now renders it as `truth consists in what is said, not in the thing`.
+- `Erfahrung` gains a sharper Hobbes contrast: sense and memory give knowledge of fact, while science is knowledge of consequences. This is why Hobbes cannot let knowledge remain direct imitation of empirical objects.
+- `Ursache / Bedingung / Erzeugung` is modified by `Willkür`: human construction and arbitrium secure demonstrative science only where they can be rebound to lawfulness, not where they remain arbitrary convention.
+- `Nominalismus / Rationalismus`, `Urteil`, `Namengebung`, `Zahlzeichen`, `Souveränität`, and `Tatsachen` remain active pressures but should not be opened as glossary entries yet.
+
+Routing:
+
+- Add `Begriff / Wort / Zeichen` to the glossary.
+- Update `Erfahrung` and `Ursache / Bedingung / Erzeugung`.
+- Use Part 015 to test whether the nature-philosophy section carries this sign/name construction forward into space, body, and imagination or shifts back toward `Bewegung` and mathematical objecthood.
+
+### 2026-05-14 - Hobbes: Constructive Negation And The Hardening Of Body
+
+Passage: `parts/015-hobbes-world-destruction-space-time-and-matter.md`, printed pages `61-67 partial`.
+
+Hobbes opens nature philosophy by negating the finished external world in thought. This is not a decorative thought experiment; it is the natural-philosophy version of the constructive method. Space, time, division, and body are all initially introduced through representation, counting, judgment, and rational postulation. The difficulty is that Hobbes then lets body and real motion become first and absolute, as if the constructive mediation had become unnecessary.
+
+Local pressure:
+
+- `Raum / Zeit` changes under Hobbes: space is the phantasm of an existing thing as external, time the phantasm of motion/order, and their parts are acts of intellectual division rather than ready-made pieces of things.
+- `Körper / Materie / Substanz` earns glossary status. Body is first a rational postulate, then hardens into absolute substance.
+- `Bewegung` becomes unstable again: it is supposed to mediate nature and thought, but Part 015 asks how motion can be absolute if its basic moments, space and time, are formations of mind.
+- The world-destruction thought experiment is a future cross-volume hinge, especially for the later Kant/transcendental material, but it should remain an annotation candidate rather than a settled synthesis until those later texts arrive.
+- Lyon's French quotation is load-bearing, not decorative: it explicitly names the latent idealist consequence that Hobbes's reconstructed universe has not detached itself from the reason that generated it.
+- `Phantasie / Phantasma`, `Ort / Größe`, `Merkzeichen`, `Naturbegriff`, and `Skepsis` are all active but remain ledger pressures.
+
+Routing:
+
+- Update `Raum / Zeit` and `Bewegung`.
+- Add `Körper / Materie / Substanz` to the glossary.
+- Use Part 016 to test whether perception reproduces the same pattern: a logically grounded condition hardening into metaphysical matter.
+
+### 2026-05-14 - Hobbes: Perception And Self-Created Principles
+
+Passage: `parts/016-hobbes-perception-psychology-and-self-created-principles.md`, printed pages `67-70`.
+
+The chapter close confirms the hardening pattern from Part 015. Sensation is first named the `Prinzip der Prinzipien`, because inquiry into phenomena must begin inside phenomena, with memory and inner experience as witnesses. But Hobbes then explains sensation by a more remote thing-like origin: external matter pressing on organs. The final paragraph generalizes the pattern across politics and theory: reason creates principles, then submits to them as absolute powers.
+
+Local pressure:
+
+- `Körper / Materie / Substanz` is confirmed as a chapter-level entry. Matter's independence begins as a logical requirement, then becomes an absolute source behind perception.
+- `Sinn / Sinneswahrnehmung` now has both a Gassendi and Hobbes chapter function. For Hobbes, sensation is the internal principle of inquiry but also the point where matter returns metaphysically.
+- `Bewegung` becomes the explanatory substrate of sensation: perception is reflexive organ-motion caused by external pressure.
+- `Begriff / Wort / Zeichen` gains a broader chapter-close shape: self-created principles and signs bind reason once they have been posited.
+- Hobbes's Greek `τὸ φαίνεσθαι` in the De Corpore footnote confirms that the pressure is not generic appearance but appearing itself as the most basic phenomenon. This belongs in the footnote/ledger layer for now, not in a new glossary entry.
+- `Urphänomen` carries future Goethe/Kant-adjacent resonance, but here it functions locally as the methodological first phenomenon of Hobbes's perception theory.
+- `Selbstgesetzgebung der Vernunft` is forward-compatible with the Kant chapters, but in this tranche it binds the political and theoretical autonomy problem inside Hobbes.
+- `Phänomen`, `Gedächtnis`, `innere Erfahrung`, `Assoziation`, `Urphänomen`, and `Selbstgesetzgebung der Vernunft` are important, but the chapter-close reading note is the right surface for them.
+
+Routing:
+
+- Update `Körper / Materie / Substanz`, `Bewegung`, `Sinn / Sinneswahrnehmung`, `Begriff / Wort / Zeichen`, and `Erfahrung`.
+- Do not open separate glossary entries for `Phänomen`, `Gedächtnis`, `innere Erfahrung`, or `Assoziation`.
+- Create a bounded Hobbes reading note on self-created principles hardening into absolute powers.
+
+### 2026-05-14 - Spinoza: Intuition And Pure Passion In The Short Treatise
+
+Passage: `parts/017-spinoza-short-treatise-intuition-and-passion.md`, printed pages `73-76`.
+
+The Spinoza chapter opens by testing the Hobbes boundary through an apparent rupture. In Hobbes, reason creates principles that harden into binding powers. In the early Spinoza of the `Short Treatise`, the direction reverses: infinite being is given from the beginning, and the object grasps the mind rather than being constructed by it.
+
+Local pressure:
+
+- `Intuition / Anschauung` is the dominant new pressure. Immediate intuition grounds mediated cognition and lets the universal be seen in the individual. Hold it in the ledger until Part 018 tests the coming contrast between Cartesian mathematical intuition and Spinoza's mystical intuition.
+- `anschaulich` needs local care. Part 017 renders `anschaulich offenbart` as intuitive self-revelation, but Part 018 should test whether `Intuition` and `Anschauung` need to remain more visibly distinct as Spinoza's register sharpens.
+- `reines Leiden` names the opening Spinoza position: understanding is not self-activity but passive reception of what the object affirms or denies in us. This is the direct inverse of the Hobbes chapter-close pattern.
+- `Gottesbewußtsein` displaces Cartesian `Selbstbewußtsein` as the basic fact. Update the existing self-consciousness entry rather than opening a new term yet.
+- `Erfahrung` drops to the level of hearsay and individual fact, below true belief and clear/distinct knowledge.
+- `Substanz` is immediately re-anchored away from Hobbes's body/matter problem toward infinite being and the substantial unity of the world-whole, but the explicit Spinoza substance section has not arrived yet.
+- `Allnatur`, `wahrer Glaube`, `Wahrheit / Irrtum`, and `Selbsttätigkeit` remain ledger pressures.
+
+Routing:
+
+- Update `Erfahrung`, `Bewegung`, `Körper / Materie / Substanz`, and `Selbstbewußtsein / Ich / innere Erfahrung` in the glossary.
+- Do not open `Intuition / Anschauung` or `reines Leiden` yet. Part 018 is the test tranche.
+- Use Part 018 to decide whether the Spinoza opening remains a Short-Treatise-local stage or begins Cassirer's larger account of rationalism's completion.
+
+### 2026-05-14 - Spinoza: Mathematical And Mystical Intuition
+
+Passage: `parts/018-spinoza-intuition-renaissance-and-the-short-treatise.md`, printed pages `77-84 partial`.
+
+Part 018 answers the Part 017 watchpoint. `Intuition / Anschauung` is now structurally active enough for glossary status: Cassirer explicitly distinguishes Descartes's mathematical intuition of geometrical and arithmetical axioms from early Spinoza's mystical intuition as becoming-one with infinite divine being.
+
+Local pressure:
+
+- `Intuition / Anschauung` has two early Spinoza registers. As `Intuition`, it names the concept Cassirer is tracking; as `Schau` / `Schauen`, it carries a visual and mystical Renaissance register through Campanella.
+- Lower-register `Anschauung` should remain available as `view` or `doctrine` where Cassirer names a shared position, as in Spinoza and Bruno sharing the view of the one infinite and perfect nature.
+- `reines Leiden` is confirmed as more than sensory passivity. It colors rational and intuitive knowledge in the `Short Treatise`, which is why Spinoza remains near Telesio/Campanella rather than Descartes at this stage.
+- `Naturbegriff` becomes a chapter-level test. Spinoza does not begin from Descartes's mathematical-mechanical concept of nature but from the speculative natural philosophy of all-unity and all-animation.
+- `Selbsterhaltung`, `Freiheit / Notwendigkeit`, and `Allnatur` are live pressures but should not become glossary entries yet; they are routed through the Renaissance/Campanella comparison and may change once the `Tractatus de intellectus emendatione` begins.
+
+Routing:
+
+- Add `Intuition / Anschauung` as an open glossary entry.
+- Do not split `Körper / Materie / Substanz` yet; the substance section has not arrived.
+- Use Part 019 to test whether Spinoza's epistemology shifts from passive mystical union to methodical self-illumination of the true idea.
+
+### 2026-05-14 - Spinoza: True Idea And Immanent Criterion
+
+Passage: `parts/019-spinoza-tractatus-true-idea-and-intellect.md`, printed pages `84 partial-88 partial`.
+
+Part 019 answers the Part 018 re-entry hook by making the `Tractatus de intellectus emendatione` the transformation point. The ethical end remains the same as in the `Short Treatise`, but the path no longer depends on immediate possession of infinite being. The true idea, once gained, illuminates itself, and the intellect rather than an external thing supplies the criterion of validity.
+
+Local pressure:
+
+- `Intuition / Anschauung` changes without disappearing. `Schauen Gottes` is now a vision to be acquired through methodical progress, while the closing `hingegebene Anschauung der Natur` names the passive orientation from which Spinoza has stepped away.
+- `Idee / wahre Idee` becomes the dominant new pressure. The true idea bears certainty within itself and makes deduction possible, but Part 020 should test whether this becomes a glossary entry through the coming definition doctrine rather than through this one transition alone.
+- `Intellekt / Verstand` is now the first object of philosophical reflection. Cassirer explicitly aligns Spinoza's corrected starting point with Descartes's `Regeln`, but without collapsing Spinoza into Cartesian method.
+- `conceptus / perceptio` marks the anti-image turn: idea is not a mute picture on a tablet but arises in affirmation and negation.
+- `reines Leiden` is reversed as an epistemic starting point, but not yet finished as a chapter problem; passivity may return once substance and metaphysics enter.
+
+Routing:
+
+- Update `Intuition / Anschauung` in the glossary.
+- Keep `Idee / wahre Idee`, `Intellekt / Verstand`, `conceptus / perceptio`, `Definition`, and `Wahrheit / Gültigkeit` in the ledger until Part 020 tests whether the definition doctrine consolidates them.
+- Use Part 020 to watch whether Spinoza replaces scholastic abstraction with genetic definition, and whether that creates a new glossary threshold for idea/definition/truth.
+
+### 2026-05-14 - Spinoza: Genetic Definition And Causa/Ratio
+
+Passage: `parts/020-spinoza-genetic-definition-and-causa-ratio.md`, printed pages `88 partial-91 partial`.
+
+Part 020 consolidates the Part 019 pressure around true idea into the doctrine of definition. The contrast is not empirical knowledge versus scholastic logic; Cassirer says both share the same failure when they proceed by comparing individual things and abstracting a generic universal. Spinoza's alternative is genetic definition: let the object arise in thought according to law, so that the particular is known as particular within the total order of nature.
+
+Local pressure:
+
+- `Definition / Konstruktion` earns glossary status. The circle example is now no longer just an illustration of true idea; it becomes the model for scientific definition as lawful generation.
+- `Ursache / Bedingung / Erzeugung` changes under Spinoza. Hobbes treated generation as the method of what thought can construct or institute; Spinoza turns generating conditions into the real grounds from which the thing's place in the One order of being is understood.
+- `Begriff / Wort / Zeichen` receives its Spinoza contrast. The concept is not a sign or name that stabilizes judgment, but the lawful generation of the object before the mind.
+- `causa / ratio` and `Realgrund / Erkenntnisgrund` are now explicit. Keep them in the ledger until Part 021 tests whether they remain the local result of the definition doctrine or become the chapter's larger structural claim.
+- `anschaulich möglich` belongs to the geometrical-construction register here: intuitive possibility means constructible/presentable in thought, not the mystical `Intuition` of the `Short Treatise`.
+- `geistiger Automat` names an important freedom/lawfulness pressure: the soul acts freely and lawfully according to rules within it, not by external compulsion.
+
+Routing:
+
+- Add `Definition / Konstruktion` as an open glossary entry.
+- Update `Ursache / Bedingung / Erzeugung`, `Begriff / Wort / Zeichen`, and `Intuition / Anschauung`.
+- Keep `causa / ratio`, `Realgrund / Erkenntnisgrund`, `geistiger Automat`, `anschaulich möglich`, and `Idee / wahre Idee` as close-reading pressures until the next mediation tranche tests their scope.
+
+### 2026-05-14 - Spinoza: Mathematics And The Fixed Eternal Things
+
+Passage: `parts/021-spinoza-mathematics-and-fixed-eternal-things.md`, printed pages `91 partial-96 partial`.
+
+Part 021 answers the Part 020 re-entry question by making the mediation itself explicit. Spinoza does not resolve the tension by reducing physical cause to mathematical function. Rather, mathematics itself takes cause into itself, so geometrical deduction becomes a metaphysical derivation of being.
+
+Local pressure:
+
+- `feste und ewige Dinge` earns glossary status. Cassirer treats the phrase as the mediating doctrine between the infinite primal being and mutable particulars, not as an already-settled equivalent of Baconian forms, attributes, or infinite modes.
+- `Definition / Konstruktion` gains metaphysical reach. Definition no longer only explains how figures arise in thought; through motion-laws and fixed-eternal structures it becomes the path from temporal particulars to timeless grounds.
+- `Ursache / Bedingung / Erzeugung` sharpens again: mathematics takes cause into itself, and cause now means the fixed-eternal ground from which individual things can be and be thought.
+- `Intuition / Anschauung` changes form. It is no longer mystical surrender to alien being; it becomes the mind's highest self-activity, in which its own essence becomes transparent and particulars are seen in the `light of the eternal`.
+- `Bewegung` becomes one of the concrete mediating structures: not empirical motion-events, but the common nature and laws of motion.
+- `Funktionsbegriff` is an important contrast term. Cassirer says Spinoza does not simply transform physical cause into mathematical function; this is a Spinoza/Descartes-Galileo distinction, not a general Cassirer thesis yet.
+
+Routing:
+
+- Add `feste und ewige Dinge` as an open glossary entry.
+- Update `Definition / Konstruktion`, `Ursache / Bedingung / Erzeugung`, `Intuition / Anschauung`, and `Bewegung`.
+- Keep `Funktionsbegriff`, `causa / ratio`, `Realgrund / Erkenntnisgrund`, `Erkenntnisstufen`, `geistiger Automat`, and `sub specie aeternitatis` in the ledger.
+- Use Part 022 to test whether Hobbes is the historical mediator of this genetic-definition doctrine and whether the comparison earns a bounded note later.
+
+### 2026-05-14 - Spinoza: Hobbesian Method And Causa Sui
+
+Passage: `parts/022-spinoza-descartes-hobbes-and-causa-sui.md`, printed pages `96 partial-102 partial`.
+
+Part 022 closes section II by answering the historical-motives question. Descartes gives Spinoza the centrality of mathematics, but the Cartesian freedom doctrine blocks complete geometrical method. Hobbes supplies the positive method Spinoza needs: genetic definition, rational derivation of nature and mind, and the a priori ground of physics.
+
+Local pressure:
+
+- `Definition / Konstruktion` now has its historical mediator. Cassirer explicitly says Spinoza's doctrine of genetic definition agrees with Hobbes's `De Corpore` down to the examples.
+- `feste und ewige Dinge` are linked to Hobbes's `Universalia`, not to Bacon's forms except through Hobbes's Galilean reinterpretation of Bacon's common natures.
+- `Ursache / Bedingung / Erzeugung` reaches a limit: Hobbes can know what is generated, but not the ungenerated and eternal; Spinoza closes that gap with `causa sui`.
+- `Begriff / Wort / Zeichen` gains a Spinoza/Hobbes nominalism contrast. Spinoza rejects the inference from thought-product to arbitrary convention because the true idea bears objective necessity within itself.
+- `Körper / Materie / Substanz` is now at a split point. Hobbes's rationalism remains bound to the natural and political body; Spinoza's next section begins substance, modes, and attributes.
+- `Geisteswissenschaften`, `Willensfreiheit`, `Anthropomorphismus`, `Phoronomie`, `Universalia`, `causa sui`, and `Nominalismus` are active, but the next substance section should decide whether any deserve glossary status.
+
+Routing:
+
+- Update `Definition / Konstruktion`, `feste und ewige Dinge`, `Ursache / Bedingung / Erzeugung`, `Begriff / Wort / Zeichen`, and `Körper / Materie / Substanz`.
+- Keep `causa sui` in the ledger rather than opening it separately before the substance section.
+- Use Part 023 to test whether `Körper / Materie / Substanz` splits into a Spinoza-specific substance/mode/attribute entry.
+
+### 2026-05-14 - Spinoza: Substance, Modes, And Geometrical Objectivity
+
+Passage: `parts/023-spinoza-substance-pantheism-and-geometrical-method.md`, printed pages `102 partial-104 partial`.
+
+Part 023 opens section III by staging the antinomies that appear when the `Ethics` is read apart from Spinoza's development. The relation between the One substance and finite things looks unstable: finite things are merely negations rooted in imagination, yet also necessary moments grounded in God's essence; the All is in every part, yet not exhausted by any part.
+
+Local pressure:
+
+- `Substanz / Modi` earns a Spinoza-specific entry. This is no longer Hobbes's body/matter/substance hardening problem; it is the question of how finite modes proceed from the unity of substance without reducing the infinite to their causal chain.
+- `Ursache / Bedingung / Erzeugung` reaches a metaphysical limit. Every mode leads causally only to another finite mode, so causal derivation alone cannot attach the finite series directly to infinite being.
+- `Definition / Konstruktion` and `geometrische Methode` become constitutive for being. Geometry is not an external proof instrument; it sets and grounds the concept of being itself.
+- `Intuition / Anschauung` gains a substance-section register: geometry raises the mind to the intuition of the absolute order of being, while finite negation blocks the intuition of divine nature.
+- `All / Allnatur` becomes more exact. The `All` raises the pantheism riddle of whole and parts; `Allnatur` in the `Tractatus` quotation names the unity with which the mind is to be linked.
+- `Attribute`, `causa sui`, `Pantheismus`, `Imagination`, and `Zweck / Zeit / Zahl / Maß` remain pressures. Do not open them from this first substance tranche alone.
+
+Routing:
+
+- Add `Substanz / Modi` to the glossary and update `Körper / Materie / Substanz` to mark the split.
+- Update `Definition / Konstruktion`, `feste und ewige Dinge`, `Ursache / Bedingung / Erzeugung`, and `Intuition / Anschauung`.
+- Use Part 024 to test whether the `Theologisch-Politische Traktat` comparison makes geometry a cross-register principle of objectivity or opens a new scripture/politics register.
+
+### 2026-05-14 - Spinoza: Deus Sive Natura As Nature-Order
+
+Passage: `parts/024-spinoza-deus-sive-natura-and-nature-order.md`, printed pages `104 partial-106 partial`.
+
+Part 024 confirms the Part 023 prediction. The `Theologico-Political Treatise` does not open a separate scripture/politics register here; Cassirer uses it to sharpen the same metaphysical-methodical point. God's decree, guidance, will, and action all mean the inviolable order of nature.
+
+Local pressure:
+
+- `Substanz / Modi` is clarified by order rather than thinghood. `Deus sive natura` is not God equals the sum of things; nature must be understood as lawful connection, not as an all-embracing thing-like whole.
+- `Definition / Konstruktion` becomes an objectivity rule: only what can be grounded in lawful order counts as objective, and the TPT comparison confirms this outside the strict `Ethics` presentation.
+- `Ursache / Bedingung / Erzeugung` is constrained by necessity: another possible form of occurrence would imply another God. No external intervention can be admitted without breaking the system's concept of divine being.
+- `Deus sive natura`, `Naturordnung`, `Wille Gottes`, `Leitung Gottes`, and `Atheismus` are active but should remain ledger pressures for now. The tranche confirms the order-concept, but does not yet require separate glossary entries.
+
+Routing:
+
+- Update `Substanz / Modi`, `Definition / Konstruktion`, and `Ursache / Bedingung / Erzeugung`.
+- Do not open a standalone `Deus sive natura` entry yet; the phrase is currently doing its work through the substance/mode and order/objectivity problem.
+- Use Part 025 to watch whether Cassirer now explains why the `Ethics` obscures this order-concept through inherited scholastic substance terminology.
+
+### 2026-05-14 - Spinoza: Scholastic Substance And Abstract Existence
+
+Passage: `parts/025-spinoza-scholastic-substance-and-abstract-existence.md`, printed pages `106 partial-110 partial`.
+
+Part 025 answers the Part 024 hook: the `Ethics` obscures the order-concept because Spinoza takes over the medieval substance concept and sets it at the head without critique. The scholastic element is not mathematical proof form, but the inherited category of substance itself.
+
+Local pressure:
+
+- `Substanz / Modi` gains its category-history problem. Substance/mode is treated as a self-certain instrument of absolute knowledge, yet Trendelenburg's critique shows that the substance concept is initially negative and presupposes the positive content it should define.
+- `Sein / Dasein / Existenz` becomes a major ledger pressure. Goethe's formula makes existence look like the positive content of substance, but Cassirer immediately shows why abstract existence cannot be Spinoza's specific meaning.
+- `Definition / Konstruktion` is restated negatively: a true definition cannot be a generic predicate like existence; it must proceed from a particular affirmative essence.
+- `Intuition / Anschauung` is sharpened against `Imagination`: imagination views the whole from the standpoint of a part, while intuitive cognition proceeds from the perfect intuition of the whole to the parts.
+- `notiones communes`, `essentia particularis affirmativa`, `A- oder B-Sein`, `Nicht-Sein`, and the restored Aristotle Greek `οὐσία` / `συμβεβηκότα` remain ledger pressures.
+
+Routing:
+
+- Update `Substanz / Modi`, `Definition / Konstruktion`, and `Intuition / Anschauung`.
+- Do not open `Sein / Dasein / Existenz` yet; Part 026 must show whether `omnis determinatio est negatio` makes this a sustained substance-section entry or a negative foil.
+- Use Part 026 to watch whether the solution shifts from the individual being to the order of individual beings.
+
+### 2026-05-14 - Spinoza: Order Of Individual Beings And Immanent Cause
+
+Passage: `parts/026-spinoza-order-of-individuals-and-immanent-cause.md`, printed pages `110 partial-112 partial`.
+
+Part 026 answers the `omnis determinatio` problem by shifting the object of adequate knowledge. It is not the individual being as such, but the order of individual beings. The particular things remain the material, but intuitive insight sees them in a new form of connection.
+
+Local pressure:
+
+- `Substanz / Modi` now has its positive content: substance is immanent cause as the necessary mathematical connection of individual things, not a separated thing behind them and not their mere sum.
+- `Definition / Konstruktion` becomes the mind's reproduction of rational structure: being is a rational configuration that the mind can imitate in its own creative activity through premises and conclusions.
+- `feste und ewige Dinge` is reframed as order-dependence rather than a separate class of structures. The route from changing particulars to stable knowledge is the once-for-all mathematical dependence among particular things.
+- `Intuition / Anschauung` keeps the same material but changes its form: intuitive insight is not flight from particulars to scholastic entities, but seeing particulars in necessary connection.
+- `immanente Ursache`, `transiente Ursache`, `Ordnung der Einzelwesen`, `logischer Kampf`, `geometrische Gesetzlichkeit`, and `allumfassende / ausschließende Geltung` are active ledger pressures.
+
+Routing:
+
+- Update `Substanz / Modi`, `Definition / Konstruktion`, `feste und ewige Dinge`, and `Intuition / Anschauung`.
+- Do not open `immanente Ursache` yet; Part 027 should test whether the dynamic-force contrast makes it recur strongly enough.
+- Use Part 027 to test whether non-numerical unity and whole/part critique continue this order-concept or require a separate `Einheit / Vielheit` entry.
+
+### 2026-05-14 - Spinoza: Non-Numerical Unity And Dynamic Force
+
+Passage: `parts/027-spinoza-non-numerical-unity-and-dynamic-force.md`, printed pages `112 partial-115 partial`.
+
+Part 027 continues the order-concept by refusing numerical unity and the whole/part relation as determinations of substance. Number, one/many, whole/part are imagination-concepts for comparing empirical things; they cannot determine the All.
+
+Local pressure:
+
+- `Substanz / Modi` gains a qualitative-unity layer. Substance is not one thing, not a whole made of parts, and not a separate dynamic force behind things. Its unity is order-like, but the force-image remains as a live motive.
+- `Ursache / Bedingung / Erzeugung` is sharpened by `causa / ratio`: mathematical laws are not mere conceptual expressions of real relations, but possess their own efficacy.
+- `Definition / Konstruktion` now has the `operari / sequi` contrast. Spinoza's mature tendency turns divine action into mathematical consequence, yet the earlier dynamic motive is not fully eliminated.
+- `Intuition / Anschauung` reconnects with the Renaissance register through `intellektuelle Liebe zu Gott`: the affective turn toward living nature passes onto the exact-scientific form of being.
+- `Einheit / Vielheit`, `Ganzes / Teil`, `Kraft`, `Naturbegriff`, `Deus sive natura`, and `intellektuelle Liebe zu Gott` are active, but remain ledger pressures.
+
+Routing:
+
+- Update `Substanz / Modi`, `Ursache / Bedingung / Erzeugung`, `Definition / Konstruktion`, and `Intuition / Anschauung`.
+- Do not open standalone entries for `Einheit / Vielheit`, `Kraft`, `causa / ratio`, or `Deus sive natura` yet; the next tranche must test whether the personal-development and attribute-doctrine material makes any of them structural beyond this local diagnosis.
+- Use Part 028 to watch whether `Verfestigung und Verdinglichung` makes the Hobbes-Spinoza bounded comparison earned.

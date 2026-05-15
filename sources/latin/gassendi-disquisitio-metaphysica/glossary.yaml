@@ -1,0 +1,177 @@
+# Working glossary for the Gassendi Disquisitio source campaign.
+# Keep entries open until repeated passages earn firmer English.
+
+- term: "idea"
+  handle: "term:gassendi-idea"
+  kind: concept
+  preferred: "idea"
+  alternatives:
+    - "image"
+    - "representation"
+  status: open
+  notes: "In the sun passage Gassendi contests Descartes' use of idea by tying even the vast astronomical idea back to a sensory idea enlarged by experience and reason. Watch whether `idea` remains image-bound or broadens under Cartesian pressure."
+
+- term: "notio"
+  handle: "term:gassendi-notio"
+  kind: concept
+  preferred: "notion"
+  alternatives:
+    - "concept"
+  status: open
+  notes: "The sun passage denies that the idea is elicited `ex innata quadam notione`. Keep pressure on the relation between `notio`, `idea`, and Cassirer's `eingeborene Begriffe`."
+
+- term: "innatus / adventitius"
+  handle: "term:gassendi-innatus-adventitius"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "innate / adventitious"
+    - "inborn / coming from outside"
+  status: open
+  notes: "The section title names `adventitia Idearum origine`; the sun passage denies an `innata quaedam notio`. Keep the pair visible because it is the explicit Cartesian pressure point."
+
+- term: "incurrere / incidentia"
+  handle: "term:gassendi-incurrere"
+  kind: process
+  preferred: null
+  alternatives:
+    - "run into"
+    - "enter"
+    - "occur through"
+    - "impinge"
+  status: open
+  notes: "Part 011 makes `incurrit` structurally important for Gassendi's image theory. The sun passage has the sensory idea `per sensum incurrit`; the Canon I passage cited by Cassirer uses `incursione` / `incidentia`. Do not settle this into one smooth English verb yet."
+
+- term: "experientia / ratio"
+  handle: "term:gassendi-experientia-ratio"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "experience / reason"
+    - "experience / reasoning"
+  status: open
+  notes: "The sun passage makes experience prove and reason confirm while both remain anchored in sensory incursion. This pair is the local hinge for Cassirer's criticism that the active formation of the object remains unexplained."
+
+- term: "mens"
+  handle: "term:gassendi-mens"
+  kind: concept
+  preferred: "mind"
+  alternatives:
+    - "understanding"
+  status: open
+  notes: "In the sun passage the idea is amplified `ipsa vi mentis`. This is exactly where Cassirer applies pressure: the mind's power is invoked but not grounded by Gassendi's sensory theory."
+
+- term: "species / imago / phantasia"
+  handle: "term:gassendi-species-imago-phantasia"
+  kind: concept_cluster
+  preferred: null
+  alternatives:
+    - "species / image / phantasy"
+    - "sensible species / image / imagination"
+  status: open
+  notes: "The surrounding passage says the mind returns to the `species` received through the eye, and Descartes replies that Gassendi restricts `idea` to images painted in `phantasia`. This cluster is the local source of Cassirer's `Bildertheorie` pressure."
+
+- term: "consecutio / analogia"
+  handle: "term:gassendi-consecutio-analogia"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "consequence / analogy"
+    - "inference / analogy"
+  status: open
+  notes: "Part 003 names the alternative to true idea/image. We can know the masked face, sea-bottom, distant tower, substance, and God through consequence or analogy, but not as a proper image."
+
+- term: "realitas objectiva / realitas formalis"
+  handle: "term:gassendi-realitas-objectiva-formalis"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "objective reality / formal reality"
+  status: open
+  notes: "Gassendi accepts the vocabulary provisionally but measures objective reality by what the intellect actually knows of the thing, not by the whole formal reality of the thing itself. Part 006 sharpens the demotion: objective reality is representation, likeness, symmetry, relation, or mode, and is almost nothing in comparison with the formal reality of the external cause."
+
+- term: "causa efficiens / causa materialis"
+  handle: "term:gassendi-causa-efficiens-materialis"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "efficient cause / material cause"
+  status: open
+  notes: "Part 006 redirects the dictum `nihil est in effectu, quod non sit in caussa` toward material rather than efficient causality. The efficient cause is external and often different in kind from the effect; it contains the effect only insofar as it can sketch and complete it from definite matter."
+
+- term: "formaliter / eminenter contineri"
+  handle: "term:gassendi-formaliter-eminenter"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "contained formally / eminently"
+    - "formal / eminent containment"
+  status: open
+  notes: "Part 006 treats formal and eminent containment as no proof that an efficient cause gives part of its own being to the effect. The terms can mark likeness or superiority of form, but not transfer of substance."
+
+- term: "substantia / accidens"
+  handle: "term:gassendi-substantia-accidens"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "substance / accident"
+  status: open
+  notes: "Dubitatio IV denies that substance has a proper idea. It is conceived through accidents, or after their manner, as something extended, figured, and colored."
+
+- term: "infinitum"
+  handle: "term:gassendi-infinitum"
+  kind: concept
+  preferred: "infinite"
+  alternatives:
+    - "unbounded"
+  status: open
+  notes: "In Part 003 Gassendi says the human intellect is not capable of conceiving infinity; `infinite` names a thing beyond grasp with a name not understood by a bounded intellect."
+
+- term: "intellectio / imaginatio"
+  handle: "term:gassendi-intellectio-imaginatio"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "intellection / imagination"
+    - "understanding / imagination"
+  status: open
+  notes: "Part 004 makes this the explicit dispute. Descartes says Gassendi confuses intellection with imagination; Gassendi demands a criterion and argues that if ideas in the intellect are images, intellect cannot understand bodies or substance without imagining."
+
+- term: "abstractio / deductio"
+  handle: "term:gassendi-abstractio-deductio"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "abstraction / deduction"
+  status: open
+  notes: "Part 004 allows that substance is conceived by intellect through abstraction and deduction from consequence, but denies that this yields a proper clear idea."
+
+- term: "notitia Dei"
+  handle: "term:gassendi-notitia-dei"
+  kind: concept
+  preferred: "knowledge of God"
+  alternatives:
+    - "notion of God"
+  status: open
+  notes: "Part 005 distinguishes knowledge of God by revelation, by faith, and by natural light. This lets Gassendi preserve divine origin while denying innateness."
+
+- term: "modulus"
+  handle: "term:gassendi-modulus"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "measure"
+    - "small measure"
+    - "limited measure"
+  status: open
+  notes: "Part 005 accepts Descartes' distinction between adequate concept and understanding proportioned to our measure, but Gassendi says he recognizes nothing except such measure, not even for a mite, much less for infinite being."
+
+- term: "ampliatio"
+  handle: "term:gassendi-ampliatio"
+  kind: process
+  preferred: "enlargement"
+  alternatives:
+    - "amplification"
+    - "dilation"
+  status: open
+  notes: "Recurring from the sun passage into Part 005. Enlargement of finite ideas or perfections yields greater dilation and usually greater confusion; it does not by itself add objective reality or prove innateness."

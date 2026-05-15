@@ -206,14 +206,241 @@ ranges:
     trust: "high"
     note: "Scan/Tesseract and PDF text confirm PDF page 66 / printed page 46 opens `Drittes Kapitel. Hobbes.` The scan OCR misreads the Roman `I.` section marker as `E`."
 
+  - slug: "hobbes-definition-of-knowledge"
+    label: "Hobbes opening and definition of knowledge"
+    pdf_pages: [66, 68]
+    printed_pages: ["46", "48 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0066.jp2"
+      - "daserkenntnispro02cassuoft_0067.jp2"
+      - "daserkenntnispro02cassuoft_0068.jp2"
+    trust: "high"
+    note: "Part 012 begins with `Drittes Kapitel. Hobbes.` and stops after the Galilean definition of cause, before `Es ist Hobbes' eigentümliche und originale Leistung...` starts the broader method-transfer paragraph on printed page 48."
+
+  - slug: "hobbes-method-deduction-construction"
+    label: "Hobbes on deduction, construction, and the limits of geometry"
+    pdf_pages: [68, 75]
+    printed_pages: ["48 partial", "55 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0068.jp2"
+      - "daserkenntnispro02cassuoft_0069.jp2"
+      - "daserkenntnispro02cassuoft_0070.jp2"
+      - "daserkenntnispro02cassuoft_0071.jp2"
+      - "daserkenntnispro02cassuoft_0072.jp2"
+      - "daserkenntnispro02cassuoft_0073.jp2"
+      - "daserkenntnispro02cassuoft_0074.jp2"
+      - "daserkenntnispro02cassuoft_0075.jp2"
+    trust: "high"
+    note: "Part 013 starts with `Es ist Hobbes' eigentümliche...` on printed page 48 and closes section I before `II.` begins on printed page 55."
+
+  - slug: "hobbes-concept-word-nominalism"
+    label: "Hobbes on concept, word, signs, and nominalist rationalism"
+    pdf_pages: [75, 81]
+    printed_pages: ["55 partial", "61 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0075.jp2"
+      - "daserkenntnispro02cassuoft_0076.jp2"
+      - "daserkenntnispro02cassuoft_0077.jp2"
+      - "daserkenntnispro02cassuoft_0078.jp2"
+      - "daserkenntnispro02cassuoft_0079.jp2"
+      - "daserkenntnispro02cassuoft_0080.jp2"
+      - "daserkenntnispro02cassuoft_0081.jp2"
+    trust: "high"
+    note: "Part 014 begins with section `II.` and `Eine zweite nicht minder wichtige Schranke...` on printed page 55 and stops before section `III.` / `Es ist ein originaler und fruchtbarer Gedanke...` on printed page 61."
+
+  - slug: "hobbes-world-destruction-space-time-matter"
+    label: "Hobbes on world-destruction, space-time, body, and matter"
+    pdf_pages: [81, 87]
+    printed_pages: ["61 partial", "67 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0081.jp2"
+      - "daserkenntnispro02cassuoft_0082.jp2"
+      - "daserkenntnispro02cassuoft_0083.jp2"
+      - "daserkenntnispro02cassuoft_0084.jp2"
+      - "daserkenntnispro02cassuoft_0085.jp2"
+      - "daserkenntnispro02cassuoft_0086.jp2"
+      - "daserkenntnispro02cassuoft_0087.jp2"
+    trust: "high"
+    note: "Part 015 begins with section `III.` / `Es ist ein originaler und fruchtbarer Gedanke...` on printed page 61 and stops before the perception-theory turn `Der Gegensatz, der hier bestehen bleibt...` on printed page 67."
+
+  - slug: "hobbes-perception-psychology-self-created-principles"
+    label: "Hobbes on perception, psychology, and self-created principles"
+    pdf_pages: [87, 90]
+    printed_pages: ["67 partial", "70"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0087.jp2"
+      - "daserkenntnispro02cassuoft_0088.jp2"
+      - "daserkenntnispro02cassuoft_0089.jp2"
+      - "daserkenntnispro02cassuoft_0090.jp2"
+    trust: "high"
+    note: "Part 016 begins with `Der Gegensatz, der hier bestehen bleibt...` on printed page 67 and closes the Hobbes chapter before `Fünftes Buch. Fortbildung und Vollendung des Rationalismus`."
+
+  - slug: "book-v-divider"
+    label: "Book V divider: Fortbildung und Vollendung des Rationalismus"
+    pdf_pages: [91, 91]
+    printed_pages: ["divider"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0091.jp2"
+    trust: "high"
+    note: "PDF/scan extract confirms `_0091` is the Book V divider immediately after the Hobbes chapter close."
+
+  - slug: "book-v-blank"
+    label: "Blank verso after Book V divider"
+    pdf_pages: [92, 92]
+    printed_pages: ["blank"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0092.jp2"
+    trust: "high"
+    note: "Tesseract on `_0092` returns no text, matching the expected blank verso after the Book V divider."
+
   - slug: "book-v-start-spinoza"
-    label: "Book V / Spinoza opening"
+    label: "Book V / Spinoza text opening"
     pdf_pages: [93, 93]
     printed_pages: ["73"]
     scan_files:
       - "daserkenntnispro02cassuoft_0093.jp2"
-    trust: "medium"
-    note: "Calculated from the verified main-body offset."
+    trust: "high"
+    note: "Scan/Tesseract confirms `_0093` begins `Erstes Kapitel. Spinoza.` / `Die Erkenntnislehre des Kurzen Traktats` on printed page 73."
+
+  - slug: "spinoza-short-treatise-opening"
+    label: "Spinoza opening: intuition and pure passion in the `Short Treatise`"
+    pdf_pages: [93, 96]
+    printed_pages: ["73", "76"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0093.jp2"
+      - "daserkenntnispro02cassuoft_0094.jp2"
+      - "daserkenntnispro02cassuoft_0095.jp2"
+      - "daserkenntnispro02cassuoft_0096.jp2"
+    trust: "high"
+    note: "Part 017 begins with the Spinoza chapter opening on printed page 73 and stops after the knowledge-levels paragraph on printed page 76, before `Für das Verständnis dieser Grundansicht...` starts the historical-perspective turn on printed page 77."
+
+  - slug: "spinoza-intuition-renaissance-short-treatise-close"
+    label: "Spinoza: intuition, Renaissance natural philosophy, and the close of the `Short Treatise` section"
+    pdf_pages: [97, 104]
+    printed_pages: ["77", "84 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0097.jp2"
+      - "daserkenntnispro02cassuoft_0098.jp2"
+      - "daserkenntnispro02cassuoft_0099.jp2"
+      - "daserkenntnispro02cassuoft_0100.jp2"
+      - "daserkenntnispro02cassuoft_0101.jp2"
+      - "daserkenntnispro02cassuoft_0102.jp2"
+      - "daserkenntnispro02cassuoft_0103.jp2"
+      - "daserkenntnispro02cassuoft_0104.jp2"
+    trust: "high"
+    note: "Part 018 begins with `Für das Verständnis dieser Grundansicht...` on printed page 77 and closes section I before `II. Der Tractatus de intellectus emendatione` begins on printed page 84."
+
+  - slug: "spinoza-tractatus-true-idea-intellect"
+    label: "Spinoza: `Tractatus`, true idea, and intellect"
+    pdf_pages: [104, 108]
+    printed_pages: ["84 partial", "88 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0104.jp2"
+      - "daserkenntnispro02cassuoft_0105.jp2"
+      - "daserkenntnispro02cassuoft_0106.jp2"
+      - "daserkenntnispro02cassuoft_0107.jp2"
+      - "daserkenntnispro02cassuoft_0108.jp2"
+    trust: "high"
+    note: "Part 019 begins with section `II. Der Tractatus de intellectus emendatione` on printed page 84 and stops on printed page 88 before `Aber freilich: nicht unser beschränktes...` begins the next definition/scholastic-logic movement."
+
+  - slug: "spinoza-genetic-definition-causa-ratio"
+    label: "Spinoza: genetic definition and the equation of `causa` and `ratio`"
+    pdf_pages: [108, 111]
+    printed_pages: ["88 partial", "91 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0108.jp2"
+      - "daserkenntnispro02cassuoft_0109.jp2"
+      - "daserkenntnispro02cassuoft_0110.jp2"
+      - "daserkenntnispro02cassuoft_0111.jp2"
+    trust: "high"
+    note: "Part 020 begins with `Aber freilich: nicht unser beschränktes...` on printed page 88 and stops after `Die Gleichsetzung von Realgrund und Erkenntnisgrund, von causa und ratio ist vollzogen.` on printed page 91; the following sentence begins the next mediation problem."
+
+  - slug: "spinoza-mathematics-fixed-eternal-things"
+    label: "Spinoza: mathematics and the fixed eternal things"
+    pdf_pages: [111, 116]
+    printed_pages: ["91 partial", "96 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0111.jp2"
+      - "daserkenntnispro02cassuoft_0112.jp2"
+      - "daserkenntnispro02cassuoft_0113.jp2"
+      - "daserkenntnispro02cassuoft_0114.jp2"
+      - "daserkenntnispro02cassuoft_0115.jp2"
+      - "daserkenntnispro02cassuoft_0116.jp2"
+    trust: "high"
+    note: "Part 021 begins with `Die Vermittlung zwischen den beiden Gegengliedern...` on printed page 91 and stops before the centered break on printed page 96, where `Je schärfer der Gegensatz...` begins the Descartes/Hobbes historical-motives movement."
+
+  - slug: "spinoza-descartes-hobbes-causa-sui"
+    label: "Spinoza: Descartes, Hobbes, and `causa sui`"
+    pdf_pages: [116, 122]
+    printed_pages: ["96 partial", "102 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0116.jp2"
+      - "daserkenntnispro02cassuoft_0117.jp2"
+      - "daserkenntnispro02cassuoft_0118.jp2"
+      - "daserkenntnispro02cassuoft_0119.jp2"
+      - "daserkenntnispro02cassuoft_0120.jp2"
+      - "daserkenntnispro02cassuoft_0121.jp2"
+      - "daserkenntnispro02cassuoft_0122.jp2"
+    trust: "high"
+    note: "Part 022 begins after the centered break on printed page 96 with `Je schärfer der Gegensatz...` and closes section II before `III. Der Begriff der Substanz. — Die Metaphysik` begins on printed page 102."
+
+  - slug: "spinoza-substance-pantheism-geometrical-method"
+    label: "Spinoza: substance, pantheism, and geometrical method"
+    pdf_pages: [122, 124]
+    printed_pages: ["102 partial", "104 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0122.jp2"
+      - "daserkenntnispro02cassuoft_0123.jp2"
+      - "daserkenntnispro02cassuoft_0124.jp2"
+    trust: "high"
+    note: "Part 023 begins with section `III. Der Begriff der Substanz. — Die Metaphysik` on printed page 102 and stops on printed page 104 before `Es ist interessant, die weiteren Spuren dieser Grundanschauung...` begins the Theologico-Political Treatise comparison."
+
+  - slug: "spinoza-deus-sive-natura-nature-order"
+    label: "Spinoza: `Deus sive natura` and nature as lawful order"
+    pdf_pages: [124, 126]
+    printed_pages: ["104 partial", "106 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0124.jp2"
+      - "daserkenntnispro02cassuoft_0125.jp2"
+      - "daserkenntnispro02cassuoft_0126.jp2"
+    trust: "high"
+    note: "Part 024 begins on printed page 104 with `Es ist interessant, die weiteren Spuren dieser Grundanschauung...` and stops on printed page 106 before `Damit erst ist der spezifische Grundcharakter...` begins the scholastic-substance critique."
+
+  - slug: "spinoza-scholastic-substance-abstract-existence"
+    label: "Spinoza: scholastic substance and abstract existence"
+    pdf_pages: [126, 130]
+    printed_pages: ["106 partial", "110 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0126.jp2"
+      - "daserkenntnispro02cassuoft_0127.jp2"
+      - "daserkenntnispro02cassuoft_0128.jp2"
+      - "daserkenntnispro02cassuoft_0129.jp2"
+      - "daserkenntnispro02cassuoft_0130.jp2"
+    trust: "high"
+    note: "Part 025 begins on printed page 106 with `Damit erst ist der spezifische Grundcharakter...` and stops on printed page 110 after the question of a particular idea that rejects all limitation, before `Der Satz \"omnis determinatio est negatio\"...`."
+
+  - slug: "spinoza-order-individuals-immanent-cause"
+    label: "Spinoza: order of individual beings and immanent cause"
+    pdf_pages: [130, 132]
+    printed_pages: ["110 partial", "112 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0130.jp2"
+      - "daserkenntnispro02cassuoft_0131.jp2"
+      - "daserkenntnispro02cassuoft_0132.jp2"
+    trust: "high"
+    note: "Part 026 begins on printed page 110 with `Der Satz \"omnis determinatio est negatio\"...` and stops on printed page 112 before `Zu den gleichen Grundbestimmungen...` begins the non-numerical unity movement."
+
+  - slug: "spinoza-non-numerical-unity-dynamic-force"
+    label: "Spinoza: non-numerical unity and dynamic force"
+    pdf_pages: [132, 135]
+    printed_pages: ["112 partial", "115 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0132.jp2"
+      - "daserkenntnispro02cassuoft_0133.jp2"
+      - "daserkenntnispro02cassuoft_0134.jp2"
+      - "daserkenntnispro02cassuoft_0135.jp2"
+    trust: "high"
+    note: "Part 027 begins on printed page 112 with `Zu den gleichen Grundbestimmungen...` and stops on printed page 115 before `Auch der persönliche Entwicklungsgang Spinozas...` begins the personal-development account."
 
   - slug: "book-vi-start-locke"
     label: "Book VI / Locke opening"

@@ -1,0 +1,30 @@
+witnesses:
+  - id: "kb-proquest-version2"
+    role: "preferred_page_image_authority"
+    title: "Petri Gassendi Disquisitio metaphysica seu dubitationes, et instantiae adversus Renati Cartesii metaphysicam, & responsa"
+    archive_id: "ned-kbn-all-00004327-001"
+    local_pdf_source: "/Users/daviddickinson/Downloads/Disquisitio metaphysica version2.pdf"
+    local_jp2_source: "/Users/daviddickinson/Downloads/Disquisitio metaphysica version2"
+    imported_pdf: "source/pdf/disquisitio-metaphysica-kb-version2.pdf"
+    imported_jp2_dir: "source/page-images/jp2/"
+    pdf_pages: 349
+    jp2_files: 349
+    notes: "Best visual witness. Embedded PDF text is mostly ProQuest boilerplate, so use JP2 OCR for text."
+
+  - id: "google-ia-ocr"
+    role: "ocr_witness"
+    title: "Petri Gassendi Disquisitio metaphysica. Seu dubitationes, et instantiae adversus Renati Cartesii Metaphysicam, & Responsa"
+    archive_id: "bub_gb_M5UziO9dSMQC"
+    local_pdf_source: "/Users/daviddickinson/Downloads/Disquisitio metaphysica.pdf"
+    local_jp2_source: "/Users/daviddickinson/Downloads/Disquisitio metaphysica"
+    imported_pdf: "source/pdf/disquisitio-metaphysica-google-ocr-witness.pdf"
+    imported_jp2_dir: "source/page-images/google-jp2/"
+    pdf_pages: 336
+    jp2_files: 336
+    notes: "Noisy but searchable OCR; useful for locating passages before checking the preferred scan."
+
+git_policy:
+  ignored_binary_dirs:
+    - "source/pdf/"
+    - "source/page-images/"
+

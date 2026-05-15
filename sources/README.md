@@ -43,6 +43,7 @@ When a source line grows beyond one-off encounters but has not yet earned a full
 | `german/nietzsche-briefe-iii-281.md` | German | Escolios epigraph | Nietzsche, *Briefe* III.281 |
 | `french/la-rochefoucauld-maximes.md` | French | Escolios §10, §25, §84, §96 | La Rochefoucauld, *Maximes* |
 | `latin/petrarch-epist-xix-7.md` | Latin | Escolios epigraph | Petrarch, *Epist. rer. famil.* XIX.7 |
+| `latin/gassendi-disquisitio-metaphysica/README.md` | Latin | Cassirer Vol. 2 Gassendi chapter grounding | Pierre Gassendi, *Disquisitio metaphysica* |
 | `french/valery-charmes.md` | French | Escolios epigraph | Valéry, *Charmes* |
 | `german/anders-antiquiertheit-des-menschen-band1/README.md` | German | Cross-domain synthesis thread; Anders bridge; apparatus-world line | Günther Anders, *Die Antiquiertheit des Menschen*, Band I |
 | `german/uexkuell-theoretische-biologie/README.md` | German | Cross-domain synthesis thread; organism/world coupling line | Jakob von Uexküll, *Theoretische Biologie* (2nd ed., 1928) |

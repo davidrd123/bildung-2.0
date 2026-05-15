@@ -1,0 +1,146 @@
+preferred_scan:
+  witness: "kb-proquest-version2"
+  pdf: "source/pdf/disquisitio-metaphysica-kb-version2.pdf"
+  jp2_dir: "source/page-images/jp2/"
+  jp2_prefix: "ned-kbn-all-00004327-001"
+  pdf_pages: 349
+  jp2_files: 349
+
+ocr_witness:
+  witness: "google-ia-ocr"
+  pdf: "source/pdf/disquisitio-metaphysica-google-ocr-witness.pdf"
+  jp2_dir: "source/page-images/google-jp2/"
+  jp2_prefix: "bub_gb_M5UziO9dSMQC"
+  pdf_pages: 336
+  jp2_files: 336
+
+anchors:
+  - id: "erk-v2-part011-sun-idea"
+    status: "located"
+    cassirer_file: "texts/erkenntnisproblem-vol2/parts/011-gassendi-psychology-self-consciousness-and-descartes.md"
+    cassirer_footnote: "1"
+    cassirer_citation: "Disquisitio Metaphysica seu Dubitationes et Instantiae adversus Ren. Cartesii Metaphysicam. In Meditat. III Dubitatio III. (Opera III, 294.)"
+    source_section: "In Meditationem III, Dubitatio III"
+    target_excerpt_starts: "Quod autem mente sola percipiamus vastam illam Ideam Solis"
+    preferred_scan_location:
+      jp2: "source/page-images/jp2/ned-kbn-all-00004327-001_0138.jp2"
+      jp2_index: 138
+      standalone_print_page: 110
+    ocr_witness_location:
+      pdf: "source/pdf/disquisitio-metaphysica-google-ocr-witness.pdf"
+      pdf_page: 126
+      standalone_print_page: 110
+    tracked_extracts:
+      raw:
+        - "source/raw/001b-sun-idea-version2-jp2-0137.txt"
+        - "source/raw/001-sun-idea-version2-jp2-0138.txt"
+        - "source/raw/001c-sun-idea-version2-jp2-0139.txt"
+        - "source/raw/001-sun-idea-google-pdf-126.txt"
+      normalized:
+        - "source/normalized/001-sun-idea-version2-jp2-0138.txt"
+        - "source/normalized/001-sun-idea-context-version2-jp2-0137-0139.txt"
+      encounter: "encounters/001-sun-idea-meditatio-iii-dubitatio-iii.md"
+      part: "parts/001-dubitatio-iii-adventitious-ideas-and-sun.md"
+      transkribus_test_jpegs:
+        - "source/local/transkribus-test-jpegs/gassendi-disquisitio-v2-0138-print-p110-sun-idea.jpg"
+        - "source/local/transkribus-test-jpegs/gassendi-disquisitio-v2-0139-print-p111-continuation.jpg"
+    ocr_baseline:
+      engine: "tesseract"
+      language: "script/Latin"
+      psm: 4
+      preserve_interword_spaces: true
+    witness_variants:
+      - locus: "diametro sua/suo"
+        preferred_scan: "diametro sua"
+        cassirer_quote: "diametro suo"
+        note: "Standalone scan differs from Cassirer's Opera-based quotation; keep both visible."
+    source_working_finding: "The section title and Descartes' reply show that Cassirer's use is exact: Gassendi treats the astronomical sun idea as one sensory idea enlarged by reason, while Descartes rejects the restriction of `idea` to phantasy-images."
+
+translation_parts:
+  - id: "disq-part-001"
+    status: "drafted"
+    file: "parts/001-dubitatio-iii-adventitious-ideas-and-sun.md"
+    source_extract: "source/normalized/001-sun-idea-context-version2-jp2-0137-0139.txt"
+    preferred_scan_images:
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0137.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0138.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0139.jp2"
+    standalone_print_pages: "109-111"
+  - id: "disq-part-002"
+    status: "drafted"
+    file: "parts/002-instantia-born-blind-and-idea-as-image.md"
+    source_extract: "source/normalized/002-instantia-born-blind-and-idea-image-version2-jp2-0139-0142.txt"
+    raw_extracts:
+      - "source/raw/002-instantia-version2-jp2-0140.txt"
+      - "source/raw/002-instantia-version2-jp2-0141.txt"
+      - "source/raw/002-instantia-version2-jp2-0142.txt"
+    preferred_scan_images:
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0139.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0140.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0141.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0142.jp2"
+    standalone_print_pages: "111-114"
+  - id: "disq-part-003"
+    status: "drafted"
+    file: "parts/003-analogical-knowledge-substance-and-god.md"
+    source_extract: "source/normalized/003-analogical-knowledge-substance-god-version2-jp2-0143-0145.txt"
+    raw_extracts:
+      - "source/raw/003-analogical-knowledge-version2-jp2-0143.txt"
+      - "source/raw/003-analogical-knowledge-version2-jp2-0144.txt"
+      - "source/raw/003-analogical-knowledge-version2-jp2-0145.txt"
+    preferred_scan_images:
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0143.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0144.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0145.jp2"
+    standalone_print_pages: "115-117"
+  - id: "disq-part-004"
+    status: "drafted"
+    file: "parts/004-response-intellect-imagination-and-substance.md"
+    source_extract: "source/normalized/004-response-intellect-imagination-substance-version2-jp2-0146-0151.txt"
+    raw_extracts:
+      - "source/raw/004-dubitatio-iv-response-version2-jp2-0146.txt"
+      - "source/raw/004-dubitatio-iv-response-version2-jp2-0147.txt"
+      - "source/raw/004-dubitatio-iv-response-version2-jp2-0148.txt"
+      - "source/raw/004-dubitatio-iv-response-version2-jp2-0149.txt"
+      - "source/raw/004-dubitatio-iv-response-version2-jp2-0150.txt"
+      - "source/raw/004-dubitatio-iv-response-version2-jp2-0151.txt"
+    preferred_scan_images:
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0146.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0147.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0148.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0149.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0150.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0151.jp2"
+    standalone_print_pages: "118-123 partial"
+  - id: "disq-part-005"
+    status: "drafted"
+    file: "parts/005-first-humans-and-the-idea-of-god.md"
+    source_extract: "source/normalized/005-first-humans-idea-god-version2-jp2-0151-0156.txt"
+    raw_extracts:
+      - "source/raw/005-first-humans-idea-god-version2-jp2-0152.txt"
+      - "source/raw/005-first-humans-idea-god-version2-jp2-0153.txt"
+      - "source/raw/005-first-humans-idea-god-version2-jp2-0154.txt"
+      - "source/raw/005-first-humans-idea-god-version2-jp2-0155.txt"
+      - "source/raw/005-first-humans-idea-god-version2-jp2-0156.txt"
+    preferred_scan_images:
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0151.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0152.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0153.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0154.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0155.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0156.jp2"
+    standalone_print_pages: "123 partial-128"
+  - id: "disq-part-006"
+    status: "drafted"
+    file: "parts/006-cause-effect-and-objective-reality.md"
+    source_extract: "source/normalized/006-dubitatio-v-cause-effect-objective-reality-version2-jp2-0156-0158.txt"
+    raw_extracts:
+      - "source/raw/005-first-humans-idea-god-version2-jp2-0156.txt"
+      - "source/raw/006-dubitatio-v-causality-version2-jp2-0157.txt"
+      - "source/raw/006-dubitatio-v-causality-version2-jp2-0158.txt"
+      - "source/raw/006-dubitatio-v-causality-google-pdf-144-149.txt"
+    preferred_scan_images:
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0156.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0157.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0158.jp2"
+    standalone_print_pages: "128 partial-130 partial"

@@ -13,6 +13,9 @@ sources/modern/incoming/local/
 sources/modern/*/source/full/
 sources/modern/*/source/ocr/
 sources/modern/*/source/page-images/
+sources/latin/*/source/local/
+sources/latin/*/source/pdf/
+sources/latin/*/source/page-images/
 sources/modern/hoffmeyer-biosemiotics/source/page-images/
 sources/modern/incoming/acquisition-list/
 sources/german/cassirer-substanzbegriff-und-funktionsbegriff/source/local/

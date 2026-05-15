@@ -13,7 +13,7 @@
   alternatives:
     - "empirical experience"
   status: open
-  notes: "Parts 002-003 make this structurally double. Bacon's positive gain is methodically ordered experience rather than passive groping, but the forms doctrine then narrows experience toward a finite, exhaustible stock of observations. Part 007 shifts the chapter frame: modern empiricism attaches to the `Erfahrungsbegriff der neueren Physik`, so `Erfahrung` now needs testing beyond the Bacon-local method problem. Part 011 turns experience from solution into ground-riddle: Gassendi wants experience to explain knowledge, but his model has to explain the transition from an absolute external object into an independent `Ich`."
+  notes: "Parts 002-003 make this structurally double. Bacon's positive gain is methodically ordered experience rather than passive groping, but the forms doctrine then narrows experience toward a finite, exhaustible stock of observations. Part 007 shifts the chapter frame: modern empiricism attaches to the `Erfahrungsbegriff der neueren Physik`, so `Erfahrung` now needs testing beyond the Bacon-local method problem. Part 011 turns experience from solution into ground-riddle: Gassendi wants experience to explain knowledge, but his model has to explain the transition from an absolute external object into an independent `Ich`. Part 012 explicitly compares Bacon's, Gassendi's, and Hobbes's `Erfahrungsbegriff`; in Hobbes the progress lies in the philosophical reception of exact physics, not in sense-certainty or the accumulation of observations. Part 014 sharpens the contrast: sense and memory yield knowledge of fact, while science is knowledge of consequences; Hobbes defines knowledge away from immediate empirical existence in order to preserve deductive and universal validity. Part 016 closes the Hobbes chapter by making `innere Erfahrung` and memory the only witnesses inside phantasms, then showing Hobbes pushed back toward matter as absolute source. Part 017 places `Erfahrung` low in Spinoza's `Short Treatise`: knowledge by hearsay / experience familiarizes us only with individual facts, below true belief and the clear and distinct intuition of the universal in the individual. Part 028 adds Spinoza's rejection of experience as a ground for the attributes: where essence and existence coincide, being follows from definition and must be won through rational analysis rather than empirical appeal."
 
 - term: "Experiment"
   handle: "term:experiment"
@@ -60,7 +60,50 @@
     - "movement"
     - "change of place"
   status: open
-  notes: "Part 006 makes motion the closing pressure of the Bacon chapter. Bacon wants physics to grasp things in their becoming rather than their static being, but he still treats motion as an inward qualitative appetite of bodies rather than as mathematically determinable `Ortsveränderung`. Part 007 confirms that `Bewegung` crosses into Gassendi, but as local motion and motion-state within perceptual mediation rather than as Bacon's inward appetite of bodies. Part 010 makes Gassendi's motion atomistic: continuity and different speeds are explained through indivisible motion moments and inserted pauses of rest. Keep open until Hobbes shows whether this becomes a cross-chapter empiricism problem."
+  notes: "Part 006 makes motion the closing pressure of the Bacon chapter. Bacon wants physics to grasp things in their becoming rather than their static being, but he still treats motion as an inward qualitative appetite of bodies rather than as mathematically determinable `Ortsveränderung`. Part 007 confirms that `Bewegung` crosses into Gassendi, but as local motion and motion-state within perceptual mediation rather than as Bacon's inward appetite of bodies. Part 010 makes Gassendi's motion atomistic: continuity and different speeds are explained through indivisible motion moments and inserted pauses of rest. Part 012 makes Hobbes the sharpest turn so far: motion is a pure mathematical relation that thought can construct and therefore fully comprehend. Part 013 makes motion the `Mittelbegriff` between natural reality and logical method: body is philosophy's subject because only body has exact more/less, and body must ultimately be traced back to motion. Part 015 destabilizes this bridge: time is a phantasm of motion and space/time are formations of mind, so it becomes obscure how motion can also be independent absolute being. Part 016 makes motion the explanatory substrate of sensation itself: sensory perception is the reflex of motions in bodily organs, but this pushes Hobbes beyond the internal standpoint of phantasms. Part 017 reopens motion in Spinoza's `Short Treatise` as part of all-nature's causal order: the soul cannot create new bodily motions, but can redirect existing motion. Part 021 makes the nature of motion one of the mediating fixed-eternal structures: individual motion-appearances are not gathered empirically but derived from the common, constant nature and laws of motion."
+
+- term: "Ursache / Bedingung / Erzeugung"
+  handle: "term:ursache-bedingung-erzeugung"
+  kind: concept-cluster
+  preferred: "cause / condition / generation"
+  alternatives:
+    - "causal definition"
+    - "generating condition"
+    - "construction"
+  status: open
+  notes: "Parts 012-013 earn this as a Hobbes-method entry. Part 012 changes cause from inner force or substantial form into the complete aggregate of conditions whose positing makes an effect necessary. Part 013 generalizes the point: to understand a content is to let it arise from its generating conditions; geometry is demonstrable because we generate its figures, and physics must imitate this method by deriving appearances from possible causes. Part 014 adds the `Willkür` pressure: demonstrative science is granted only where generation depends on human arbitrium, but Cassirer reads this as methodical freedom rather than mere caprice. Part 020 brings the cluster under Spinoza pressure: generating conditions are no longer primarily Hobbesian conditions of human construction but the real grounds from which the particular is deduced, closing in the equation of `Realgrund / Erkenntnisgrund`, `causa / ratio`. Part 021 sharpens this: mathematics does not dissolve physical cause into function; mathematics takes cause into itself, and deduction proceeds through fixed-eternal grounds rather than empirical causal sequences. Part 022 makes the Hobbes/Spinoza limit explicit: Hobbes can know what is generated, while Spinoza lets causal definition culminate in `causa sui`, where the ungenerated is understood through essence alone. Part 023 turns the limit into the substance/mode problem: every finite mode leads causally only to another finite mode of the same kind, so causal sequence alone cannot attach the chain of the finite directly to infinite being. Part 024 defines divine action as necessary natural order: no gap, intervention, or alternate course of occurrence can be admitted without positing another God. Part 027 makes `causa` and `ratio` interpenetrate: mathematical law is not merely an expression of real relations but has its own efficacy. Part 028 makes the logical reduction explicit: cause and effect become a pure conceptual relation in which the cause conditions the effect as premises condition a conclusion; a twofold causality would mean a twofold logic."
+
+- term: "Definition / Konstruktion"
+  handle: "term:definition-konstruktion"
+  kind: concept-cluster
+  preferred: "definition / construction"
+  alternatives:
+    - "genetic definition"
+    - "rule of construction"
+    - "constructive definition"
+  status: open
+  notes: "Parts 019-020 earn this as a Spinoza entry. Part 019 uses the sphere example to show that true cognition depends on the law by which an object is thought as arising. Part 020 names the doctrine explicitly: genuine scientific definition is genetic, not a description of marks or a scholastic generic abstraction. It lets the object arise before the mind in lawful sequence. Part 021 confirms the metaphysical reach of the doctrine: mathematics takes cause into itself, and the laws of motion become the route from changing particulars to fixed and eternal structures. Part 022 identifies Hobbes as the historical mediator of this method while also marking the limit Hobbes cannot cross: causal definition in Spinoza closes in `causa sui`, not merely in generated empirical objects. Part 023 makes geometry constitutive for substance metaphysics: the geometrical method is not an external proof aid, but the means by which Spinoza's concept of being is first set and grounded. Part 024 confirms this as an order-concept: objectivity means lawful connection, not the aggregation of individual things. Part 025 returns to the definition problem from the negative side: abstract existence is not a true definition, because Spinoza requires a particular affirmative essence rather than a common predicate smuggled in as positive content. Part 026 gives the positive answer as order: particular things are known in a rational structure that the mind can reproduce through premises and conclusions. Part 027 distinguishes mathematical `sequi` from dynamic `operari` without separating them completely; mathematical natural explanation itself becomes animated in Spinoza. Part 028 identifies analytic geometry as the model of construction across attributes: one functional nexus appears as order of objects and necessary sequence in thought, so methodical construction becomes substance doctrine. Distinguish this from the Hobbes construction entry: Hobbes emphasizes what thought can generate or institute; Spinoza makes genetic definition the route by which real order and necessary acts of thought coincide."
+
+- term: "feste und ewige Dinge"
+  handle: "term:feste-ewige-dinge"
+  kind: concept
+  preferred: "fixed and eternal things"
+  alternatives:
+    - "fixed and eternal structures"
+    - "stable and eternal things"
+  status: open
+  notes: "Part 021 earns this as the mediating doctrine inside Spinoza's `Tractatus de intellectus emendatione`. Cassirer reads the phrase neither as an immediately settled equivalent of Baconian forms nor as simply the later attributes or infinite modes, but as the route by which mutable particulars are derived from the laws and basic natures without following empirical sequences one by one. The concrete examples are the nature/laws of motion and the essence of understanding. Part 022 identifies Hobbes's `Universalia` as the closest historical-methodical parallel and limits the Bacon-forms comparison: Bacon matters polemically, while Hobbes's Galilean reinterpretation mediates the positive method. Part 023 tests the bridge into substance metaphysics by showing that the finite causal chain cannot itself reach infinite being; the fixed-eternal mediation now has to face the old pantheism riddle of the All and its parts. Part 026 rephrases the mediating answer as the order of individual beings: the material remains particular things, but they are grasped in a necessary mathematical dependence."
+
+- term: "Begriff / Wort / Zeichen"
+  handle: "term:begriff-wort-zeichen"
+  kind: concept-cluster
+  preferred: "concept / word / sign"
+  alternatives:
+    - "concept and word"
+    - "word and sign"
+    - "naming"
+  status: open
+  notes: "Part 014 earns this as the second major Hobbes-method entry. Hobbes's nominalism first threatens to dissolve truth into arbitrary names and practical conventions, but Cassirer reads the deeper motive as rationalist: the word fixes active judgment, lets number and calculation become repeatable, and carries a particular insight into universal validity. Part 014's `veritas in dicto` is best kept as truth in what is said / assertion-content, not merely spoken sound, because later proposition-structure questions may need `dictum` more precisely. Part 016 generalizes the pattern: self-created principles become binding powers in logic, politics, and nature. Parts 019-020 give the Spinoza contrast: idea is `conceptus` rather than `perceptio`, and definition is not naming or sign-fixing but lawful generation of the object in thought. Part 022 sharpens the nominalism split: Spinoza rejects the move from thought-product to arbitrary convention because the true idea directly guarantees objective necessity. Keep open so the Hobbes sign problem and Spinoza concept/definition problem do not collapse into one entry."
 
 - term: "Sinn / Sinneswahrnehmung"
   handle: "term:sinn-sinneswahrnehmung"
@@ -70,7 +113,7 @@
     - "sensory perception"
     - "sensation"
   status: open
-  notes: "Parts 007-008 make this Gassendi's foundation and criterion: sense is the basis of knowledge and sense-perception is unerring because it registers a real effect. Part 008 exposes the limit of this criterion: mathematical atomism requires concepts of scientific reason for which perception is the object to be satisfied, not the origin or principle of genuine knowledge. Part 009 sharpens the limit: pure space and pure time do not act on sensory organs, so the sensory criterion cannot by itself secure their objective validity. Part 011 adds that completed sensationalism would indirectly make consciousness the judge of nature, a move Gassendi does not reach."
+  notes: "Parts 007-008 make this Gassendi's foundation and criterion: sense is the basis of knowledge and sense-perception is unerring because it registers a real effect. Part 008 exposes the limit of this criterion: mathematical atomism requires concepts of scientific reason for which perception is the object to be satisfied, not the origin or principle of genuine knowledge. Part 009 sharpens the limit: pure space and pure time do not act on sensory organs, so the sensory criterion cannot by itself secure their objective validity. Part 011 adds that completed sensationalism would indirectly make consciousness the judge of nature, a move Gassendi does not reach. Part 016 reopens the sensory problem under Hobbes: sensation is the `principle of principles` because phenomena must be investigated from within memory and inner experience, yet Hobbes immediately explains sensation through material pressure and organ-motion."
 
 - term: "Raum / Zeit"
   handle: "term:raum-zeit"
@@ -80,7 +123,30 @@
     - "pure space / pure time"
     - "place / time"
   status: open
-  notes: "Part 009 opens this as a decisive Gassendi pressure. Pure space and pure time are not bodies, properties, substances, or accidents, but Gassendi still treats them as true entities because they are unconditionally necessary for thinking motion and building mathematical physics. Their objective validity forces an expansion beyond the sensory criterion. Part 010 adds that Gassendi thinks space and time atomistically as composed of ultimate simple parts, which shapes his account of motion as passage to the next simple space-point in an indivisible time-moment."
+  notes: "Part 009 opens this as a decisive Gassendi pressure. Pure space and pure time are not bodies, properties, substances, or accidents, but Gassendi still treats them as true entities because they are unconditionally necessary for thinking motion and building mathematical physics. Their objective validity forces an expansion beyond the sensory criterion. Part 010 adds that Gassendi thinks space and time atomistically as composed of ultimate simple parts, which shapes his account of motion as passage to the next simple space-point in an indivisible time-moment. Part 015 changes the frame under Hobbes: after the thought-destruction of the external world, space is the phantasm of an existing thing as external, time the phantasm of motion/order, and division/composition are acts of intellect rather than properties lodged in things. Keep open because Hobbes then lets real extension and body harden against this constructive origin."
+
+- term: "Körper / Materie / Substanz"
+  handle: "term:koerper-materie-substanz"
+  kind: concept-cluster
+  preferred: "body / matter / substance"
+  alternatives:
+    - "corporeal substance"
+    - "matter"
+    - "body"
+  status: open
+  notes: "Part 015 earns this as a Hobbes nature-philosophy entry. Body is first introduced as a rational postulate: a bounded part of extension taken as independent of our imagination, grasped by reason rather than sense. But once this has been rationally introduced, Hobbes treats body and real motion as first and absolute, letting the mediating construction recede. Part 016 confirms the hardening: matter's independence begins as a logical requirement of judgment, but Hobbes tries to free it from that condition and set it absolutely as the source behind sensation. Part 017 immediately puts `Substanz` under Spinoza pressure: substance is no longer Hobbesian body/matter but the substantial unity of the world-whole and the actuality of infinite being. Part 022 makes the split imminent: Hobbes remains tied to the natural and political `body`, while Spinoza's next section turns to substance, modes, and attributes. Part 023 performs the split: keep this entry for the Hobbes body/matter hardening problem, and track Spinoza's substance/mode antinomies in `Substanz / Modi`."
+
+- term: "Substanz / Modi / Attribute"
+  handle: "term:substanz-modi"
+  kind: concept-cluster
+  preferred: "substance / modes / attributes"
+  alternatives:
+    - "substance and modes"
+    - "substance / finite modes"
+    - "doctrine of attributes"
+    - "attributes"
+  status: open
+  notes: "Part 023 earns this as the Spinoza-specific split from the Hobbes `Körper / Materie / Substanz` entry. Cassirer opens section III by showing the antinomies that arise when the finished `Ethics` is read without its development: finite things are both negations rooted in imagination and necessary moments grounded in God, while each mode's causal origin leads only to another finite mode and never directly to infinite being. Part 024 sharpens the solution direction: `Deus sive natura` does not identify God with the sum of things or with a thing-like whole, but with the lawful connection of things and the unity/necessity of the rule of occurrence. Part 025 explains why the `Ethics` presentation obscures this: Spinoza takes over the scholastic opposition of substance and mode without criticizing the substance category itself, then has to supply a positive content different from Aristotle's. Part 026 gives the positive content: substance is immanent cause as the necessary mathematical connection of individual things, not a separated thing behind them and not their mere sum. Part 027 adds that substance is not numerically one and cannot be parsed through whole/part; its unity is qualitative and order-like, while a dynamic force-image remains as a residual motive. Part 028 expands the entry to attributes: the attributes cannot be merely subjective standpoints, because understanding only reproduces what is really present in things; but their positive motive is analytic-geometrical order identity, where the same rule of connection appears under different attributes."
 
 - term: "Atombegriff / Atomistik"
   handle: "term:atombegriff-atomistik"
@@ -101,4 +167,15 @@
     - "the I"
     - "inner experience"
   status: open
-  notes: "Part 011 makes this the Gassendi chapter close. Cassirer argues that the fact of self-consciousness is unintelligible if treated as a derivative result; it is the beginning and condition of objective knowledge. Gassendi must reject Descartes's `Ich` because no image of the self can arise in his image theory, so he measures inner experience by a fixed metaphysical standard."
+  notes: "Part 011 makes this the Gassendi chapter close. Cassirer argues that the fact of self-consciousness is unintelligible if treated as a derivative result; it is the beginning and condition of objective knowledge. Gassendi must reject Descartes's `Ich` because no image of the self can arise in his image theory, so he measures inner experience by a fixed metaphysical standard. Part 017 contrasts Descartes's `Selbstbewußtsein` with Spinoza's `Gottesbewußtsein`: the `Ich` is not the starting condition of certainty but is seized by the object/infinite being that effects knowledge in it."
+
+- term: "Intuition / Anschauung"
+  handle: "term:intuition-anschauung"
+  kind: concept-cluster
+  preferred: "intuition / intuitive seeing"
+  alternatives:
+    - "intuitive knowledge"
+    - "intuitive cognition"
+    - "beholding"
+  status: open
+  notes: "Parts 017-018 earn this as the first major Spinoza entry. Part 017 made immediate intuition the ground of mediated cognition and the highest level of knowledge, where the universal is seen in the individual. Part 018 makes the term structurally double: Cartesian `Intuition` is mathematical insight into geometrical and arithmetical axioms, while early Spinozan `Intuition` is mystical becoming-one with infinite being, the feeling and enjoyment of the thing itself. Part 019 transforms the visual/mystical register without erasing it: `Schauen Gottes` is no longer immediate possession but a vision to be acquired methodically through knowledge, and the closing `hingegebene Anschauung der Natur` marks the passive orientation now surpassed by reflection on knowledge's own procedures. Part 020 adds a geometrical-construction use of `anschaulich möglich`: intuitive possibility here means constructible/presentable in thought, not mystical union. Part 021 restates intuition as highest self-activity: the mind no longer gives itself over to alien being but becomes transparent to its own essence and views particulars in the `light of the eternal`. Part 023 gives `Anschauung` its metaphysical-methodical register: geometry raises the mind to the intuition of the absolute order of being, while finite things as mere negations block the intuition of divine nature. Part 025 contrasts imagination and intuitive cognition directly: imagination sees the whole from the standpoint of a part, while intuitive cognition proceeds from the perfect intuition of the whole to the parts. Part 026 keeps that material unchanged but shifts its form: intuitive insight sees the same particular things in a new form of connection. Part 027 ties the early intuition/Renaissance register to `intellektuelle Liebe zu Gott`, where the affective orientation toward living nature passes into the exact-scientific form of being. Part 028 distinguishes lower-register `Anschauung der Wirklichkeit` as view of actuality from geometrical intuition, then uses `anschauen` for the pure apprehension of the same rule of connection within each attribute. Keep `Schau` / `Schauen` visible as seeing or beholding where the Renaissance/Campanella register matters. Render lower-register `Anschauung` as view, doctrine, or contemplation when it names a shared position or passive orientation rather than the technical act of intuition; do not collapse the whole cluster into later Kantian `Anschauung`."

@@ -144,14 +144,19 @@ def main() -> None:
     parser = argparse.ArgumentParser()
     parser.add_argument("input", type=Path)
     parser.add_argument("-o", "--output", type=Path)
+    parser.add_argument(
+        "--title",
+        help="Override the markdown title. Default is derived from the input filename, which produces ugly results when the filename is a UUID.",
+    )
     args = parser.parse_args()
 
     input_path = args.input
     output_path = args.output or input_path.with_suffix(".md")
 
     turns, session_ids, first_timestamp, last_timestamp = collect_turns(input_path)
+    title = args.title or derive_title(input_path)
     markdown = render_markdown(
-        derive_title(input_path),
+        title,
         input_path,
         turns,
         session_ids,
