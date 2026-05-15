@@ -1260,3 +1260,40 @@ Decisions:
 - Changed Part 028's translation of `Funktionszusammenhang` from `functional nexus` to `functional connection`. This keeps Cassirer's function-language visible without pre-loading the later `Substanzbegriff und Funktionsbegriff` frame before primary contact has earned it.
 - Cold-read Parts 025 and 027 without the apparatus frame as a pace check. No substantive translation correction emerged. Part 025 still reads as a clean negative test of abstract `Dasein`; Part 027 still reads as the hinge from dynamic force to mathematical order, with the dynamic motive retained rather than erased.
 - Keep the `two-ideal structure` language as Cassirer's developmental reconstruction, not as a project template. The Leibniz opening should watch whether Cassirer repeats a similar early-phase / transition / mature-ideal arc; if he does, record it as a possible Cassirer historiographical habit rather than assuming it is purely thinker-local.
+
+## 2026-05-14 - Leibniz, Logical Principles, And The Concept Of Truth
+
+Created `parts/031-leibniz-opening-logical-principles-and-truth.md` from PDF pages `146-152` / printed pages `126-132 partial`, beginning with `Zweites Kapitel. Leibniz.` and stopping before section `I.` / `Wenn wir -- wie die Fragestellung Leibnizens...`.
+
+What this tranche clarified:
+
+- Leibniz is introduced through the question of logical principles as an end in itself. Cassirer distinguishes him from Descartes's self-consciousness and Spinoza's ethical-religious God-start without treating him as an eclectic borrower.
+- The common rationalist ideal of pure deduction remains active across Descartes, Spinoza, Hobbes, Galileo, and Boyle, but Leibniz evaluates these doctrines by their `Forschungsweise`, the way they reach and ground their results.
+- The chapter preface shifts the fixed point from God or immediate possession of truth to the concept and definition of truth itself.
+
+Structural center:
+
+- The load-bearing movement is from genetic construction to critical analysis of truth. Leibniz inherits the demand that concepts be shown through possibility, generation, and cause, but refuses to claim that human cognition can simply reduce all thought to God's absolute attributes or first irresoluble concepts.
+
+Routing decision:
+
+- Update `Definition / Konstruktion`, `Intuition / Anschauung`, `Substanz / Modi / Attribute`, and `Selbstbewußtsein / Ich / innere Erfahrung`.
+- Keep `Wahrheit / Wahrheitsbegriff`, `Analysis`, `allgemeine Charakteristik`, `reine Deduktion`, `Nominaldefinition`, `conceptus aptus / conceptus realis`, `Prinzipienlehre`, and `Gottesbegriff / Wahrheitsbegriff` in the close-reading ledger.
+- Do not open a new `Wahrheit / Wahrheitsbegriff` glossary entry from this preface alone. Part 032's judgment analysis should decide whether truth/judgment earns a glossary surface.
+
+Re-entry hooks:
+
+- Part 032 should begin on PDF page `152` / printed page `132` with section `I.` and `Wenn wir -- wie die Fragestellung Leibnizens es verlangt...`.
+- Watch whether `Wahrheit / Urteil / Subjekt-Prädikat` becomes the chapter's major new cluster.
+- Watch whether Leibniz answers Spinoza's geometry/being problem by shifting from substance/order to truth/principle, or whether the next section first deepens the shared rationalist definition doctrine.
+
+Decision for now:
+
+- Part 031 passes the self-review gate for controlled draft status after a fresh same-agent second pass. Continue one tranche into section `I.` before deciding whether the Leibniz chapter is ready for a broader goal run.
+
+Verification result:
+
+- PDF pages `146-152` were checked against scan/Tesseract output on `_0146` through `_0152`. Scan `_0146` confirms the chapter start at `Zweites Kapitel. Leibniz.`; scan `_0152` confirms the stop before section `I.` and its opening sentence.
+- The review corrected OCR residue around `Verhältnis zu Gott`, `Spinoza`, `Hobbes`, `Experimentalphilosophie`, `Gotteslehre`, `wie wir sahen`, `Begriffsgestaltung`, `Specimen`, `in den Anfängen`, `allgemeine Charakteristik`, `sed est index sui`, `völlig distinkt`, `conceptus aptus`, `Aufweisung`, `Einzelwissenschaften`, `Meditationes de Cognitione, Veritate et Ideis`, `possit`, `ultimam`, `nunc quidem`, `Gerh.`, `Wahrheit`, and `in ipsa generali natura Veritatum`.
+- The substantive French and Latin quotations in footnotes 1 and 4 are translated in the draft-footnote layer. The abbreviation list is summarized because it is a reference surface rather than argumentative evidence.
+- Fresh second pass checked the preface against the Spinoza chapter close and kept the Spinoza bounded note chapter-local. Leibniz is now a live test of the Spinoza demand for a transformed concept of being and knowledge, not its immediate resolution.

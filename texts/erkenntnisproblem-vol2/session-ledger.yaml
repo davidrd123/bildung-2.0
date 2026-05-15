@@ -1009,6 +1009,38 @@ sessions:
 
     formation_notes: []
 
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: thirty-first-translation-batch-and-leibniz-opening-truth-concept
+    parts_touched:
+      - "parts/031-leibniz-opening-logical-principles-and-truth.md"
+
+    state_on_entry:
+      - "Spinoza chapter Parts 017-030 were controlled drafts with a bounded chapter note and a trailing review integrated."
+      - "The active request was to begin the first part of the next chapter, with correctness-gate discipline intact."
+      - "Leibniz needed to test the Spinoza chapter's final demand for a transformation of being and knowledge."
+
+    what_shifted:
+      - "Created Part 031 from PDF pages 146-152 / printed pages 126-132 partial, beginning with `Zweites Kapitel. Leibniz.` and stopping before section `I.`."
+      - "Created the normalized exact extract and removed the wider staging extract for PDF pages 146-154."
+      - "Added a high-trust page-map range for the Leibniz opening."
+      - "Corrected German against PDF and scan/Tesseract surfaces, including `Verhältnis zu Gott`, `Spinoza`, `Hobbes`, `Gotteslehre`, `wie wir sahen`, `Begriffsgestaltung`, `Specimen`, `sed est index sui`, `conceptus aptus`, `Aufweisung`, `Einzelwissenschaften`, `possit`, `ultimam`, `nunc quidem`, `Gerh.`, and `in ipsa generali natura Veritatum`."
+      - "Translated the substantive French and Latin quotations in the draft-footnote layer and summarized the Leibniz edition abbreviation list."
+      - "Updated `Definition / Konstruktion`, `Intuition / Anschauung`, `Substanz / Modi / Attribute`, and `Selbstbewußtsein / Ich / innere Erfahrung`."
+      - "Recorded `Wahrheit / Wahrheitsbegriff`, `Analysis`, `allgemeine Charakteristik`, `reine Deduktion`, `Nominaldefinition`, `conceptus aptus / conceptus realis`, and `Prinzipienlehre` as ledger pressures rather than opening a new glossary entry."
+
+    unresolved:
+      - "Part 032 should begin on PDF page 152 / printed page 132 with section `I.` and the judgment analysis."
+      - "Watch whether `Wahrheit / Urteil / Subjekt-Prädikat` earns a new glossary entry in Part 032."
+      - "Watch whether Leibniz transforms Spinoza's geometry/being problem by shifting from substance/order to truth/principle, or first deepens the shared rationalist definition doctrine."
+
+    re_entry_instructions:
+      - "Part 031 has passed a fresh same-agent second pass for controlled draft status."
+      - "Before continuing, read Part 031's Notes and the updated `Definition / Konstruktion` and `Intuition / Anschauung` glossary entries."
+      - "Do not promote the Spinoza bounded note or open a `Wahrheit` glossary entry until the section `I.` judgment analysis supplies evidence."
+
+    formation_notes: []
+
   - date: 2026-05-13
     collaborator: codex-gpt-5
     session_outcome: first-translation-batch

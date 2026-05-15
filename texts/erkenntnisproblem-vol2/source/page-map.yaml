@@ -479,6 +479,21 @@ ranges:
     trust: "high"
     note: "Part 030 begins on printed page 121 with `Die Stellung, die das Attribut des Denkens...` and closes the Spinoza chapter on printed page 125 before the Leibniz chapter begins on PDF page 146."
 
+  - slug: "leibniz-opening-logical-principles-truth"
+    label: "Leibniz: logical principles and the concept of truth"
+    pdf_pages: [146, 152]
+    printed_pages: ["126", "132 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0146.jp2"
+      - "daserkenntnispro02cassuoft_0147.jp2"
+      - "daserkenntnispro02cassuoft_0148.jp2"
+      - "daserkenntnispro02cassuoft_0149.jp2"
+      - "daserkenntnispro02cassuoft_0150.jp2"
+      - "daserkenntnispro02cassuoft_0151.jp2"
+      - "daserkenntnispro02cassuoft_0152.jp2"
+    trust: "high"
+    note: "Part 031 begins on printed page 126 with `Zweites Kapitel. Leibniz.` and stops on printed page 132 before section `I.` / `Wenn wir -- wie die Fragestellung Leibnizens...` begins the judgment analysis."
+
   - slug: "book-vi-start-locke"
     label: "Book VI / Locke opening"
     pdf_pages: [247, 247]

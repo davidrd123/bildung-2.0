@@ -615,3 +615,23 @@ Routing:
 - Update `Substanz / Modi / Attribute`, `Selbstbewußtsein / Ich / innere Erfahrung`, `Definition / Konstruktion`, and `Intuition / Anschauung`.
 - Write a bounded Spinoza chapter note centered on absolute order and the anthropomorphism of geometry.
 - Do not promote the Spinoza finding to a cross-book thesis until the Leibniz opening tests whether the demanded transformation of being and knowledge is supplied there.
+
+## 2026-05-14 - Leibniz: Logical Principles and the Concept of Truth
+
+Passage: `parts/031-leibniz-opening-logical-principles-and-truth.md`, printed pages `126-132 partial`.
+
+Part 031 opens the Leibniz chapter by making logical principles the new center. Cassirer contrasts Descartes's self-consciousness and Spinoza's God-idea with Leibniz's question of the principles of knowledge as an end in itself.
+
+Local pressure:
+
+- `Definition / Konstruktion` now passes into Leibniz: real definition, causal definition, generation, and possibility remain central, but first concepts are no longer simply possessed. They require preparatory analysis and may initially be handled through nominal definitions.
+- `Intuition / Anschauung` changes register again. Leibniz calls the basic capacity of free concept-formation `Intuition`, and adequate definitions contain intuitive cognitions when possibility appears at once; yet Cassirer stresses that immediate intuition cannot simply supply the elements of deduction as a self-evident possession.
+- `Substanz / Modi / Attribute` receives contrast evidence rather than promotion. Leibniz still uses Spinozistic language of primitive concept, highest substance, God, and absolute attributes, but the chapter turns on the restriction that human cognition cannot decide whether it reaches those divine first determinations.
+- `Selbstbewußtsein / Ich / innere Erfahrung` is marked negatively: Leibniz's starting point is not the psychological fact of self-consciousness, but the definition and general nature of truth.
+- `Wahrheit / Wahrheitsbegriff`, `Analysis`, `allgemeine Charakteristik`, `reine Deduktion`, `Nominaldefinition`, `conceptus aptus / conceptus realis`, `Prinzipienlehre`, and `Gottesbegriff / Wahrheitsbegriff` are active pressures. The judgment section should decide whether `Wahrheit / Urteil` earns a glossary entry.
+
+Routing:
+
+- Update `Definition / Konstruktion`, `Intuition / Anschauung`, `Substanz / Modi / Attribute`, and `Selbstbewußtsein / Ich / innere Erfahrung`.
+- Do not open a new `Wahrheit / Wahrheitsbegriff` entry from the preface alone; use Part 032's judgment analysis as the promotion test.
+- Use Part 032 to test whether Leibniz transforms Spinoza's geometry/being problem through truth and principle, or whether Cassirer first deepens the common rationalist definition doctrine.
