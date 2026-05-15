@@ -85,8 +85,28 @@ The Germanization `innerliche Einswerden` for `intrinsecatio` is reasonably lite
 - ABBYY mis-segmented the trailing `rem cognitam.` of the body line as two narrow right-edge blocks; our extractor's marginalia heuristic mis-tagged them. JP2 inspection confirms they are body wraparound. See `source/page-map.yaml` for the caveat.
 - The ABBYY-derived lexicon does not contain `intrinsecatio`; the repair succeeded because the 8-char prefix `intrinse` matched the in-lexicon `intrinseca`. Without the longest-stem tiebreaker, the repair was over-corrected on `praeficit→praesicit`; the current algorithm preserves `praeficit` and repairs `intrinsecatio`.
 
+## Distribution of the Intrinsec Family Across the Volume
+
+A grep of the ABBYY OCR yields **115 hits across 92 leaves** of the family `intrinsec*` (115 once long-s and OCR-glyph noise are tolerated). The vast majority (91/115) are adjective/adverb forms — `intrinsecus`, `intrinseca`, `intrinsece`, `intrinseco`, `intrinsecum`, `intrinsecam` — used descriptively for intrinsic versus extrinsic properties. The verbal and nominal forms are scarce and conceptually loaded:
+
+| Leaf | Form | Pars / topic | What the term does there |
+|---|---|---|---|
+| 0023 | `intrinsecatur` | sense-theory chapter on taste (`gustus`) | "this sense alone is intrinsecated into the object, and the object entirely into it." Taste as the foundational figure for intrinsecation. |
+| 0028 | `intrinsecatur` | same, on pepper hot-in-the-mouth | "the nature of the thing is intrinsecated into us." Bodily transmission of the thing's nature, not its image. |
+| 0210 | `intrinsecato` | Physics, on elemental transformation | "with heat intrinsecated into [matter], earth is made." The verb crosses from cognition into physics: intrinsecation as physical infusion. |
+| 0438 | `intrinsecatur` (+ `intrinsecaretur`) | epistemology, on sapientia | "[the fool] is not intrinsecated into [the species]; and even if he were intrinsecated, he would not know that he cognizes by his own measure, not by the measure of being and truth." Wisdom requires intrinsecation; ordinary cognition fails it. |
+| 0617 | `intrinsecatur` (+ `extrinsecatur`) | Pars III on the contemplative ascent | "In the Mathematical [register], how the one God is intrinsecated and extrinsecated into all, and contains and preserves all without His division or passion." The divine version: God is inside and outside all things at once. |
+| 0906 | `intrinsecatio` (substantive) | Pars III, Lib. XVII, Cap. II, Art. I (beatitude) | "intuitive understanding is intrinsecation, through which one becomes another." The nominalized climax: the doctrine becomes a defined cognitive form. |
+
+The substantive noun `intrinsecatio` appears only once in the volume, on the Cassirer-quoted leaf 906; everywhere else Campanella uses verb or adjective. This is consistent with the noun being a technical coinage Campanella reaches for only when the doctrine has been built up through the earlier registers.
+
+**The arc**: bodily phenomenology of *gustatio* (the sense that becomes its object) → physical infusion of forms into matter → epistemological doctrine of wisdom → metaphysical structure of God's relation to creation (intrinsecation AND extrinsecation) → the nominalized cognitive form of beatitude. Each step generalizes the previous; the climax of the climbing series is the noun.
+
+Cassirer's German paraphrase takes the noun and the verb at the climax (leaf 906) and ignores the chain that gives them their force. The Spinoza connection sits on the form at the top; the connection to Plotinus / Cusanus / Aquinas (who all have versions of God-as-intus-et-extra) would sit at leaf 617's metaphysical register.
+
 ## Re-entry
 
-- Verify whether `intrinsecatio` is a Campanella coinage or whether he is taking the term from an earlier source (Albertus, Nicolaus of Cusa, Ficino are plausible). The substantive verb `intrinsecari` appears repeatedly in the volume (39 distinct hits on first scan).
-- The `Cognoscere est fieri rem cognitam` claim deserves separate tracing: it is Aristotelian in form (cf. *De Anima* III.4-5 on the intellect becoming its object) but Campanella radicalizes it from intellect to soul-as-such.
-- Compare to Spinoza Part 018: what Spinoza preserves from this framework and what he drops. Cassirer's bridge runs through the *form* (intuitive cognition); the question is whether Spinoza's *scientia intuitiva* preserves any of Campanella's ontological-becoming substance.
+- Locate the leaf-617 passage in full (the four-register contemplative ascent: Material / Mathematical / Metaphysical / Archetypal) and translate it; this is the most direct point of contact between Campanella's `intrinsecatio` doctrine and the Christian Platonism that Spinoza secularizes.
+- The leaf-23 passage on `gustus` deserves its own encounter: it is the foundational use of the verb and articulates the bodily phenomenology that funds the later cognitive doctrine.
+- The `Cognoscere est fieri rem cognitam` claim is Aristotelian in form (cf. *De Anima* III.4-5 on the intellect becoming its object) but Campanella radicalizes it from intellect to soul-as-such. Worth tracing through the leaf-438 epistemology passage.
+- Compare to Spinoza Part 018: what Spinoza preserves from this framework and what he drops. Cassirer's bridge runs through the formal endpoint alone; testing whether the developmental chain has any continuity into Spinoza is a separate question.

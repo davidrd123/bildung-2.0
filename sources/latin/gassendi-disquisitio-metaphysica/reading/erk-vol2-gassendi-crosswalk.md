@@ -29,6 +29,8 @@ Sequential translation now begins at this direct anchor:
 - `sources/latin/gassendi-disquisitio-metaphysica/parts/017-true-idea-equivocation-and-infinite-leap.md`
 - `sources/latin/gassendi-disquisitio-metaphysica/parts/018-conservation-creation-and-causal-regress.md`
 - `sources/latin/gassendi-disquisitio-metaphysica/parts/019-response-fieri-esse-and-conservation.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/020-instantia-ix-fieri-esse-and-sunlight.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/021-time-nature-and-duration.md`
 
 ## Related Vol. 2 Gassendi Material
 
@@ -40,7 +42,7 @@ Current use:
 - Part 008: sensory truth and judgment; not yet a direct *Disquisitio* anchor.
 - Part 009: space and time pressure; not yet a direct *Disquisitio* anchor.
 - Part 010: atomistic motion and conceptual alteration of perception; not yet a direct *Disquisitio* anchor.
-- Part 011: Descartes comparison and the sun idea; direct *Disquisitio* anchor located. The sequential continuation now also exposes Gassendi's pressure on objective reality, representational image-causality, mental images, reflected self-knowledge, self-action, infinite-world amplification, the causal proof of God, the Cartesian circle, the public cosmological `via regia` opposed to Descartes' private enclosed idea, the social-linguistic origin of divine attributes, the mind's native comparison/combination/amplification of received materials, the return of the sun example as graded true representation under a common measure, the finite comparison model for defect-awareness, equivocation over what counts as a true idea, resistance to turning temporal dependence into continuous recreation, and Descartes' `secundum fieri` / `secundum esse` reply.
+- Part 011: Descartes comparison and the sun idea; direct *Disquisitio* anchor located. The sequential continuation now also exposes Gassendi's pressure on objective reality, representational image-causality, mental images, reflected self-knowledge, self-action, infinite-world amplification, the causal proof of God, the Cartesian circle, the public cosmological `via regia` opposed to Descartes' private enclosed idea, the social-linguistic origin of divine attributes, the mind's native comparison/combination/amplification of received materials, the return of the sun example as graded true representation under a common measure, the finite comparison model for defect-awareness, equivocation over what counts as a true idea, resistance to turning temporal dependence into continuous recreation, Descartes' `secundum fieri` / `secundum esse` reply, Gassendi's demand that conservation arguments preserve numerical individuality rather than appeal to serial replacement like sunlight, and his attack on time/duration as too obscure to serve as a natural-light premise.
 
 ## Boundary
 

@@ -394,7 +394,7 @@
     - "conservation / creation"
     - "preservation / creation"
   status: open
-  notes: "Part 018 rejects Descartes' claim that conservation differs from creation only by reason. Gassendi separates a thing's first production from its later persistence and says not every persisting thing is newly created at each moment. Part 019 gives Descartes' counter: creatures need continuous first-cause influx to be conserved."
+  notes: "Part 018 rejects Descartes' claim that conservation differs from creation only by reason. Gassendi separates a thing's first production from its later persistence and says not every persisting thing is newly created at each moment. Part 019 gives Descartes' counter: creatures need continuous first-cause influx to be conserved. Part 020 presses the unintelligibility of continued production: what is made must not be, but what is supposedly made continuously is found continuously to be."
 
 - term: "causa secundum fieri / causa secundum esse"
   handle: "term:gassendi-causa-fieri-esse"
@@ -404,7 +404,7 @@
     - "cause according to becoming / cause according to being"
     - "cause in becoming / cause in being"
   status: open
-  notes: "Part 019 makes Descartes' Scholastic distinction explicit. Architect and father are causes `secundum fieri`; God is cause of creatures both `secundum fieri` and `secundum esse`, hence must continuously conserve them."
+  notes: "Part 019 makes Descartes' Scholastic distinction explicit. Architect and father are causes `secundum fieri`; God is cause of creatures both `secundum fieri` and `secundum esse`, hence must continuously conserve them. Part 020 treats this as Scholastic renaming of Gassendi's prior two cause-effect types and asks for the missing demonstration that God is first creator before he can be assigned as conserving cause in being."
 
 - term: "regressus in infinitum"
   handle: "term:gassendi-regressus-in-infinitum"
@@ -423,3 +423,42 @@
     - "mind's native power"
   status: open
   notes: "Part 014 gives a compact formula for idea-formation: things perceived by sight or hearing are thought by the mind and by its native force compared, joined, and amplified. This is a positive Gassendi alternative to innate objective reality, though still dependent on received materials."
+
+- term: "idem numero / individuum"
+  handle: "term:gassendi-idem-numero-individuum"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "numerically the same / individual"
+    - "same in number / individual"
+  status: open
+  notes: "Part 020 makes numerical identity the pressure against Descartes' sunlight analogy. The sun produces continually new light, like a river supplies new water; this does not explain conservation of one and the same individual thing, especially a partless mind."
+
+- term: "influxus"
+  handle: "term:gassendi-influxus"
+  kind: process
+  preferred: "influx"
+  alternatives:
+    - "continuous influx"
+  status: open
+  notes: "Part 019 uses Descartes' continuous first-cause influx for conservation. Part 020 clarifies that Gassendi does not deny sound metaphysical or theological claims about first-cause influx, only Descartes' inference from that doctrine."
+
+- term: "tempus / duratio"
+  handle: "term:gassendi-tempus-duratio"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "time / duration"
+    - "common duration"
+  status: open
+  notes: "Part 021 attacks Descartes' appeal to the nature of time as clear by natural light. Gassendi calls time obscure, gives only a tentative account of it as an invariant common flux or duration, and denies that motion's speed changes time itself."
+
+- term: "momenta temporis"
+  handle: "term:gassendi-momenta-temporis"
+  kind: problem
+  preferred: null
+  alternatives:
+    - "moments of time"
+    - "parts of time"
+  status: open
+  notes: "Part 021 rejects the move from a thing's power to cease at any common moment to private separable moments belonging to that thing. Co-enduring things share one duration; their possible ceasing does not multiply time into internal time-parts."

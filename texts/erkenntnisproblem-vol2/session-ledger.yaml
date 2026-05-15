@@ -980,6 +980,35 @@ sessions:
 
     formation_notes: []
 
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: spinoza-trailing-review-function-wording-and-pace-check
+    parts_touched:
+      - "parts/025-spinoza-scholastic-substance-and-abstract-existence.md"
+      - "parts/027-spinoza-non-numerical-unity-and-dynamic-force.md"
+      - "parts/028-spinoza-attribute-doctrine-and-order-identity.md"
+      - "reading/2026-05-14-spinoza-absolute-order-and-anthropomorphism.md"
+
+    state_on_entry:
+      - "Trailing review praised the Spinoza chapter but flagged `functional nexus` as potentially pre-loading later Cassirer vocabulary."
+      - "Trailing review also asked for a non-apparatus cold read of a mid-chapter part before opening Leibniz."
+
+    what_shifted:
+      - "Changed Part 028's English for `Funktionszusammenhang` from `functional nexus` to `functional connection` across the part, glossary, chapter note, ledger, and journal."
+      - "Recorded the translation rationale: preserve function-language without importing the later `Substanzbegriff und Funktionsbegriff` frame before primary contact earns it."
+      - "Cold-read Parts 025 and 027 without the apparatus frame; no substantive correction emerged."
+      - "Added a journal watchpoint that Leibniz should test whether Cassirer's early-phase / transition / mature-ideal arcs are thinker-local or part of his historiographical reconstruction habit."
+
+    unresolved:
+      - "Leibniz opening should still test the Spinoza chapter's final demand for a transformation of being and knowledge."
+      - "Watch whether Cassirer repeats a developmental two-ideal structure in Leibniz."
+
+    re_entry_instructions:
+      - "Before beginning Leibniz, use `functional connection` for Part 028's `Funktionszusammenhang` unless primary contact with later Cassirer earns a stronger function-term."
+      - "Do not promote the Spinoza chapter note into a cross-book thesis before the Leibniz opening supplies contrast evidence."
+
+    formation_notes: []
+
   - date: 2026-05-13
     collaborator: codex-gpt-5
     session_outcome: first-translation-batch

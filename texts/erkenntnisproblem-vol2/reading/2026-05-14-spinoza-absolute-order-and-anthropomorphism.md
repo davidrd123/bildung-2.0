@@ -13,7 +13,7 @@ The resulting problem is not solved inside Spinoza. Cassirer says its solution w
 - Parts 017-018: Early Spinoza begins with the mind seized by infinite being. The Renaissance all-nature and passivity register is real, but it is not the chapter's final form.
 - Parts 019-022: The `Tractatus de intellectus emendatione` shifts the center to the true idea, genetic definition, and `causa sui`. Spinoza takes Hobbes's constructive method beyond generated objects toward ungenerated being.
 - Parts 023-027: The substance problem is purified from thinghood. Substance is not the sum of things, not numerical unity, and not a whole of parts; it is immanent order and necessary connection.
-- Part 028: The attribute doctrine receives its positive motive from analytic geometry. One functional nexus appears as order of objects and as necessary sequence in thought.
+- Part 028: The attribute doctrine receives its positive motive from analytic geometry. One functional connection appears as order of objects and as necessary sequence in thought.
 - Part 029: The infinity of attributes reopens the fracture. Inaccessible attributes make absolute knowledge look like only a small excerpt of the All and bring the system close to skepticism.
 - Part 030: Thought cannot remain a merely coordinate attribute; it is the common exponent for any unified actuality. Geometry then becomes both the route beyond subjectivity and an unavoidable anthropomorphism.
 

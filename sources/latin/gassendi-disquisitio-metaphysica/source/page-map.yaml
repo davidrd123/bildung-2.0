@@ -344,3 +344,30 @@ translation_parts:
     preferred_scan_images:
       - "source/page-images/jp2/ned-kbn-all-00004327-001_0196.jp2"
     standalone_print_pages: "168"
+  - id: "disq-part-020"
+    status: "drafted"
+    file: "parts/020-instantia-ix-fieri-esse-and-sunlight.md"
+    source_extract: "source/normalized/020-instantia-ix-fieri-esse-and-sunlight-version2-jp2-0197-0198.txt"
+    raw_extracts:
+      - "source/raw/020-instantia-ix-fieri-esse-version2-jp2-0197.txt"
+      - "source/raw/020-instantia-ix-fieri-esse-version2-jp2-0198.txt"
+    preferred_scan_images:
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0197.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0198.jp2"
+    standalone_print_pages: "169-170 partial"
+  - id: "disq-part-021"
+    status: "drafted"
+    file: "parts/021-time-nature-and-duration.md"
+    source_extract: "source/normalized/021-instantia-ix-time-nature-and-duration-version2-jp2-0198-0201.txt"
+    raw_extracts:
+      - "source/raw/020-instantia-ix-fieri-esse-version2-jp2-0198.txt"
+      - "source/raw/020-instantia-ix-fieri-esse-version2-jp2-0199.txt"
+      - "source/raw/020-instantia-ix-fieri-esse-version2-jp2-0200.txt"
+      - "source/raw/021-instantia-ix-time-version2-jp2-0201.txt"
+      - "source/raw/020-instantia-ix-fieri-esse-google-pdf-187-191.txt"
+    preferred_scan_images:
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0198.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0199.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0200.jp2"
+      - "source/page-images/jp2/ned-kbn-all-00004327-001_0201.jp2"
+    standalone_print_pages: "170 partial-173 partial"

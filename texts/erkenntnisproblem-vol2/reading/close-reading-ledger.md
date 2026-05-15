@@ -564,7 +564,7 @@ Part 028 makes the attribute doctrine central. Spinoza's personal development co
 Local pressure:
 
 - `Substanz / Modi / Attribute` is now the proper Spinoza cluster. Attributes are not merely subjective standpoints; for Spinoza the intellect can only reproduce what is really present in things. But their positive motive is not a picture of how diversity enters substance. It is analytic-geometrical order identity.
-- `Definition / Konstruktion` gains the analytic-geometry model. Number/thinking and space/extension are distinct forms, but a gapless one-to-one correspondence lets one functional nexus appear as object-order and thought-order.
+- `Definition / Konstruktion` gains the analytic-geometry model. Number/thinking and space/extension are distinct forms, but a gapless one-to-one correspondence lets one functional connection appear as object-order and thought-order.
 - `Ursache / Bedingung / Erzeugung` becomes explicitly logical in Spinoza: cause conditions effect as premises condition a conclusion. A twofold causality would mean a twofold logic.
 - `Erfahrung` receives a Spinoza counter-pressure: experience is rejected as a ground for the attributes because essence and existence coincide there.
 - `Intuition / Anschauung` is split locally: lower-register `Anschauung der Wirklichkeit` is a view of actuality, while geometrical `Anschauung` and the final `anschauen` name direct apprehension of order.

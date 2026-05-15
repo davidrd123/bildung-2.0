@@ -1128,7 +1128,7 @@ What this tranche clarified:
 
 - Spinoza's personal development confirms the two-ideal structure named in Part 027: religious-pantheistic speculation, a brief naturalistic phase, and then Cartesian geometry as the definitive ideal that transforms his view of actuality.
 - The doctrine of attributes is where mathematical order hardens into metaphysics. Attributes cannot be merely subjective standpoints, but Spinoza still has to explain how real manifoldness belongs to an absolutely unitary primal being.
-- The positive clue is analytic geometry: the same functional nexus appears as an order of objects and as a necessary sequence in thought.
+- The positive clue is analytic geometry: the same functional connection appears as an order of objects and as a necessary sequence in thought.
 
 Structural center:
 
@@ -1250,3 +1250,13 @@ What to expect next:
 
 - Leibniz should test whether Cassirer treats logical principles as the transformation of being and knowledge that Spinoza's chapter demanded.
 - Watch whether Leibniz resolves Spinoza's geometry anthropomorphism by shifting from substance/order to function/principle, or whether Cassirer first routes through Descartes, Hobbes, and Spinoza as inherited materials.
+
+## 2026-05-14 - Spinoza Trailing Review: Function Wording and Pace Check
+
+Integrated the trailing review after the Spinoza chapter close.
+
+Decisions:
+
+- Changed Part 028's translation of `Funktionszusammenhang` from `functional nexus` to `functional connection`. This keeps Cassirer's function-language visible without pre-loading the later `Substanzbegriff und Funktionsbegriff` frame before primary contact has earned it.
+- Cold-read Parts 025 and 027 without the apparatus frame as a pace check. No substantive translation correction emerged. Part 025 still reads as a clean negative test of abstract `Dasein`; Part 027 still reads as the hinge from dynamic force to mathematical order, with the dynamic motive retained rather than erased.
+- Keep the `two-ideal structure` language as Cassirer's developmental reconstruction, not as a project template. The Leibniz opening should watch whether Cassirer repeats a similar early-phase / transition / mature-ideal arc; if he does, record it as a possible Cassirer historiographical habit rather than assuming it is purely thinker-local.

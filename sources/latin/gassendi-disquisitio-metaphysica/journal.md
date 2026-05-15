@@ -415,3 +415,45 @@ Re-entry:
 
 - Continue with Gassendi's `Instantia`, where he should contest the Scholastic cause vocabulary and the appeal to metaphysical consensus.
 - Watch whether `influxus` becomes a pressure term for continuous divine conservation.
+
+## 2026-05-15 - Instantia IX, Fieri/Esse, And Sunlight
+
+Drafted `parts/020-instantia-ix-fieri-esse-and-sunlight.md`, covering the opening of Gassendi's `Instantia` after Dubitatio IX on standalone printed pages `169` through `170` partial.
+
+What this tranche clarified:
+
+- Gassendi denies only Descartes' inference, not the conclusion that there is continuous first-cause influx or a sound metaphysical/theological doctrine of God.
+- Descartes' `secundum fieri` / `secundum esse` distinction is treated as Scholastic vocabulary borrowed from the twofold cause-effect account Gassendi had already introduced.
+- The cause-in-being assignment depends on a prior proof that created things have been created and that God is their creator or cause in becoming.
+- Continued production of one and the same individual thing is unintelligible: what is made must not be, whereas what is conserved is found continuously to be.
+- Preventing destruction is physically different from giving being, even if it may be called morally equivalent.
+- The sunlight analogy fails because sunlight in the air is not numerically one and the same light but serially new light, like water in a stream.
+- Numerical individuality now becomes the conservation pressure point, especially for the partless mind, which Descartes cannot plausibly treat as a serial replacement like sunlight.
+
+Glossary additions earned: `idem numero / individuum`, `influxus`; `conservatio / creatio` and `causa secundum fieri / causa secundum esse` updated.
+
+Re-entry:
+
+- Continue with `Pergis, hoc aperte demonstrari`, where Gassendi turns from sunlight to Descartes' appeal to the nature and parts of time.
+- Watch whether the time argument depends on equivocating between abstract time, duration of the enduring thing, and the thing's power to cease.
+
+## 2026-05-15 - Time, Nature, And Duration
+
+Drafted `parts/021-time-nature-and-duration.md`, covering the continuation of Gassendi's `Instantia` after Dubitatio IX on standalone printed pages `170` partial through `173` partial.
+
+What this tranche clarified:
+
+- Gassendi identifies the temporal premise as another harvest of paralogisms: Descartes treats the nature of time as clear, although nothing is more obscure.
+- Ancient disagreement functions as evidence of obscurity, not as a substitute authority. Descartes' isolated Mind cannot ground a demonstration by thrusting forward its own authority.
+- The Augustine time quote becomes a methodological warning: Gassendi can indicate what time is, but cannot explain it clearly enough to make it a proof-premise.
+- Gassendi's tentative account makes time or duration an invariant common flux. Motion, especially celestial motion, measures it but does not speed it up or slow it down.
+- The distinction between abstract time and concrete duration collapses for Gassendi. He recognizes one time common to co-enduring things, not a separate internal time peculiar to each thing.
+- Descartes begs the question when he says Gassendi does not deny separable moments of the enduring thing. Gassendi only grants that a thing can cease at common moments.
+- `Tempus edax rerum` is poetic, not physical. Time does not wear things away; physical causes destroy things at times.
+
+Glossary additions earned: `tempus / duratio`, `momenta temporis`.
+
+Re-entry:
+
+- Continue with `Sed jam formetur tua Demonstratio`, where Gassendi reconstructs the argument and begins testing the premise, deduction, and petitio principii.
+- Watch whether the next section makes `petitio principii` the dominant form of the time-conservation critique.
