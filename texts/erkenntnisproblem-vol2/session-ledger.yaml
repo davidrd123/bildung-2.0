@@ -1208,6 +1208,39 @@ sessions:
 
     formation_notes: []
 
+  - date: 2026-05-14
+    collaborator: codex-gpt-5
+    session_outcome: thirty-seventh-translation-batch-and-leibniz-force-living-force
+    parts_touched:
+      - "parts/037-leibniz-temporal-occurrence-force-and-living-force.md"
+
+    state_on_entry:
+      - "Part 036 had passed a fresh same-agent second pass and left `Kraft` as the immediate promotion test."
+      - "The active goal was to continue the Leibniz chapter through the close as controlled draft."
+      - "`Bewegung` and `Kontinuum / Stetigkeit / Infinitesimal` had just been updated with continuity as ideal rational law."
+
+    what_shifted:
+      - "Created Part 037 from PDF pages 180-186 / printed pages 160 partial-166 partial, beginning with `Jetzt erst ist uns der Weg zur Betrachtung des realen Geschehens...` and stopping before section `III.`."
+      - "Extracted exact raw and normalized source files for PDF pages 180-186 and checked the tranche against scan/Tesseract output on `_0180` through `_0186`."
+      - "Corrected German against scan/Tesseract surfaces, including `μετάβασις εἰς ἄλλο γένος`, `Zeitverlaufs`, `Leibnizischen`, `Charakteristische des zeitlichen Wandels`, `Bewußtsein als etwas`, `Sinneserfahrung ein zweites`, `Robert Boyle`, `Corporum`, `percipi`, `intelligibel`, `Erkenntniszusammenhang`, `status praesens`, `praeinvolvit`, `praesens gravidum est futuro`, `Specimen dynamicum`, `Clarke`, `reali influxu`, `a reddenda ratione`, `Erhaltung der lebendigen Kraft`, `Erscheinungen auch`, `so fiele`, `feste Größe`, `Zeitverlauf`, `Leibniz`, `seine Geltung`, and `Einzelwissenschaften`."
+      - "Translated the substantive Latin quotations on mechanical principles, derivative force, and cause as reason rather than influx in the draft-footnote layer."
+      - "Promoted `Kraft / Arbeit / lebendige Kraft` to an open glossary entry."
+      - "Updated `Bewegung`, `Kontinuum / Stetigkeit / Infinitesimal`, `Ursache / Bedingung / Erzeugung`, `Erfahrung`, `Wahrheit / Urteil`, and `Scientia generalis / Charakteristik / Kombinatorik`."
+      - "Kept `mechanische Naturauffassung`, `Satz vom zureichenden Grunde`, `geistiges Sein`, `höhere Charakteristik`, `Erhaltung der Richtung`, and `Erhaltung / conservation` as ledger pressures rather than separate glossary entries."
+
+    unresolved:
+      - "Part 038 should begin on PDF page 186 / printed page 166 with section `III.` and `Der Aufbau und der Stufengang der Erkenntnis...`."
+      - "Watch whether section `III.` shifts the chapter from force/dynamics into `Bild`, `Symbol`, `Ausdruck`, and cognition levels strongly enough to earn a new glossary entry."
+      - "Watch whether the force/living-force entry remains physical or begins to require a broader metaphysical or biological force note."
+      - "Do not create the Fardella/discovery note yet; Part 037 made force/dynamics the stronger chapter pattern."
+
+    re_entry_instructions:
+      - "Part 037 has passed a fresh same-agent second pass for controlled draft status."
+      - "Before continuing, read the new `Kraft / Arbeit / lebendige Kraft` glossary entry and the Part 037 close-reading ledger entry."
+      - "Continue with Part 038 as section `III.` / cognition-level material, not merely another force tranche."
+
+    formation_notes: []
+
   - date: 2026-05-13
     collaborator: codex-gpt-5
     session_outcome: first-translation-batch

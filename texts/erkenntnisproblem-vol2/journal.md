@@ -1494,3 +1494,42 @@ Verification result:
 - PDF pages `176-180` were checked against scan/Tesseract output on `_0176` through `_0180`. Scan `_0176` confirms the start at `Die historische Frage...`; scan `_0180` confirms the stop before `Jetzt erst ist uns der Weg...`, where the next problem begins.
 - The review corrected OCR residue around `Durchführung der`, `Entdeckung in`, `intimo philosophiae fonte`, `imaginabilia`, `Historia et origo Calculi differentialis`, `Hannover 1846`, `Dissertatio`, `praesenti`, `novissimis deque usu`, `Grundbegriff, der`, `reine Formen`, `Anfänge`, `in der Anschauung`, `überbrücken`, `in einem letzten Terminus`, `increbuisset`, `Beweis`, `aus dem Wesen`, `Prinzipien`, `d. h.`, `etwas Ideales`, `Leibniz`, and the French accents in the Varignon quotation.
 - The substantive Latin Fardella quotation and French Varignon quotation are translated in the draft-footnote layer. The other substantive quoted material is translated in the draft body.
+
+## 2026-05-14 - Leibniz, Temporal Occurrence, Force, And Living Force
+
+Created `parts/037-leibniz-temporal-occurrence-force-and-living-force.md` from PDF pages `180-186` / printed pages `160 partial-166 partial`, beginning with `Jetzt erst ist uns der Weg zur Betrachtung des realen Geschehens...` and stopping before section `III.`.
+
+What this tranche clarified:
+
+- The transition from ideal continuity to real occurrence immediately reopens the problem of time. If genuinely new contents arise in the sequence of moments, the predicate-in-subject doctrine is threatened by becoming.
+- Leibniz's mechanical nature-view is rooted in reason, not in materialist experience. Its principles account for experiences and make experimental cases determinable, but are not themselves products of mere experiment.
+- The force concept supplies the mediating form. Derivative force names the present state as tending toward the next and pre-involving it, so the future is not externally added to the present.
+- Cause is recast as rational accountability, not real influx. Causes are taken from the demand to render a reason.
+- Work and living force make heterogeneous phenomena comparable. Conservation of living force turns apparent new creation into transformation of one persistent magnitude, preserving continuity inside physical change.
+
+Structural center:
+
+- The load-bearing movement is from temporal occurrence to force as rational account. Cassirer shows Leibniz extending the same continuity discipline from mathematics into dynamics: the present must contain the rule of its transition, and force is the concept by which that rule becomes physically legible.
+
+Routing decision:
+
+- Add `Kraft / Arbeit / lebendige Kraft` as an open glossary entry.
+- Update `Bewegung`, `Kontinuum / Stetigkeit / Infinitesimal`, `Ursache / Bedingung / Erzeugung`, `Erfahrung`, `Wahrheit / Urteil`, and `Scientia generalis / Charakteristik / Kombinatorik`.
+- Keep `mechanische Naturauffassung`, `Satz vom zureichenden Grunde`, `geistiges Sein`, `höhere Charakteristik`, `Erhaltung der Richtung`, and `Erhaltung / conservation` in the close-reading ledger rather than opening separate glossary entries.
+
+Re-entry hooks:
+
+- Part 038 should begin on PDF page `186` / printed page `166` with section `III.` and `Der Aufbau und der Stufengang der Erkenntnis...`.
+- Watch whether the next section shifts from force and physical law to `Bild`, `Symbol`, `Ausdruck`, and cognition levels strongly enough to earn a new glossary surface.
+- Watch whether the force/living-force entry remains physical or begins to require a broader metaphysical or biological force note.
+- Do not create the Fardella/discovery note yet. Part 037 made force/dynamics the stronger chapter pattern; the discovery hook remains useful but not chapter-dominant so far.
+
+Decision for now:
+
+- Part 037 passes the same-agent self-review gate for controlled draft status. The broader Leibniz goal run remains on track: Part 036 tested continuity as ideal law, and Part 037 tested its physical/dynamical extension without forcing a premature bounded chapter note.
+
+Verification result:
+
+- PDF pages `180-186` were checked against scan/Tesseract output on `_0180` through `_0186`. Scan `_0180` confirms the start at `Jetzt erst...`; scan `_0186` confirms the stop before section `III.`.
+- The review corrected OCR residue around `μετάβασις εἰς ἄλλο γένος`, `Zeitverlaufs`, `Leibnizischen`, `Charakteristische des zeitlichen Wandels`, `Bewußtsein als etwas`, `Sinneserfahrung ein zweites`, `Robert Boyle`, `Corporum`, `percipi`, `intelligibel`, `Erkenntniszusammenhang`, `status praesens`, `praeinvolvit`, `praesens gravidum est futuro`, `Specimen dynamicum`, `Clarke`, `reali influxu`, `a reddenda ratione`, `seine relative Berechtigung`, `Erhaltung der lebendigen Kraft`, `Erscheinungen auch`, `so fiele`, `feste Größe`, `Zeitverlauf`, `Leibniz`, `seine Geltung`, and `Einzelwissenschaften`.
+- The substantive Latin quotations on mechanical principles, derivative force, and cause as reason rather than influx are translated in the draft-footnote layer. The Leibniz body quotations on truths of fact, higher characteristic, force, work, and conservation of living force are translated in the draft body because each carries the argument.
