@@ -1,0 +1,38 @@
+witnesses:
+  - id: "ia-1638-burellius"
+    role: "sole_witness"
+    title: "Universalis philosophiae seu Metaphysicarum rerum, iuxta propria dogmata, partes tres, libri III"
+    author: "Thomas Campanella (Stylensis, Ord. Praedicatorum)"
+    imprint: "Parisiis, M.DC.XXXVIII (1638), cum privilegio regis"
+    editor: "Burellius"
+    dedication: "Claudio de Bullion"
+    archive_id: "thomcampanellsty00camp"
+    local_pdf_source: "/Users/daviddickinson/Downloads/thomcampanellsty00camp.pdf"
+    local_jp2_source: "/Users/daviddickinson/Downloads/thomcampanellsty00camp_jp2"
+    local_abbyy_source: "/Users/daviddickinson/Downloads/thomcampanellsty00camp_abbyy.gz"
+    local_hocr_source: "/Users/daviddickinson/Downloads/thomcampanellsty00camp_hocr_searchtext.txt"
+    imported_pdf: "source/pdf/campanella-metaphysica-1638-ia.pdf"
+    imported_jp2_dir: "source/page-images/jp2/"
+    imported_abbyy_gz: "source/local/thomcampanellsty00camp_abbyy.gz"
+    imported_hocr_txt: "source/local/thomcampanellsty00camp_hocr_searchtext.txt"
+    jp2_prefix: "thomcampanellsty00camp"
+    jp2_files: 972
+    notes: |
+      Only one digital witness is currently in scope. The IA package ships three
+      derived artifacts of decreasing lossiness: ABBYY XML (preferred), hOCR flat
+      text (lossy), embedded-PDF text (lossiest). All three trace to the same
+      ABBYY FineReader Engine 11 OCR pass, so they share the same long-s and
+      marginalia-bleed errors.
+
+      Title-page confirmation from ABBYY charParams on leaf 0005:
+      "THOMÆ CAMPANELLÆ STYLENSIS ORD[INIS] PRÆD[ICATORUM] UNIVERSALIS
+      PHILOSOPHIÆ; METAPHYSICARVM RERVM, IVXTA PROPRIA DOGMATA, PARTES TRES,
+      Libri III. ... DUCE DEO. SUORUM OPERUM TOMUS QUARTUS. M. DC. XXXVIII.
+      CUM PRIVILEGIO REGIS." Dedication on leaf 0007 to Claudio de Bullion,
+      Surintendant des Finances under Richelieu.
+
+git_policy:
+  ignored_binary_dirs:
+    - "source/pdf/"
+    - "source/page-images/"
+    - "source/local/"

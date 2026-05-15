@@ -1,0 +1,75 @@
+witness:
+  id: "ia-1638-burellius"
+  jp2_prefix: "thomcampanellsty00camp"
+  jp2_dir: "source/page-images/jp2/"
+  jp2_files: 972
+  abbyy_xml_gz: "source/local/thomcampanellsty00camp_abbyy.gz"
+
+leaf_numbering:
+  note: |
+    IA JP2 indexing is 0-based on physical leaves (front cover, front matter,
+    title page, plates, body). Printed page numbering begins in the main body.
+    Map jp2 leaf ↔ printed page on a per-anchor basis; do not assume a fixed
+    offset across the volume.
+  known_alignments:
+    - jp2_leaf: 5
+      content: "title page (M.DC.XXXVIII; Universalis Philosophiae...Partes Tres)"
+    - jp2_leaf: 7
+      content: "dedication to Claudio de Bullion"
+    - jp2_leaf: 114
+      printed_page: 102
+      content: "Metaphysica body; running header METAPH. CAMPANELLÆ, two-column"
+
+anchors:
+  - id: "erk-v2-part018-intrinsecatio"
+    status: "located"
+    cassirer_file: "texts/erkenntnisproblem-vol2/parts/018-spinoza-intuition-renaissance-and-the-short-treatise.md"
+    cassirer_passage: |
+      "Die Schau der Seele - so beschreibt Campanellas Metaphysik den Akt der
+      hoechsten Erkenntnis - ist mit dem Schauen des Auges nicht einerlei: denn
+      waehrend das Auge die Dinge durch Bilder erkennt, die ihm von aussen
+      zugefuehrt werden, so erblickt die Seele ihren Gegenstand, indem sie sich
+      in ihn und ihn in sich innerlich verwandelt. Das intuitive Erkennen ist
+      somit das innerliche Einswerden, durch welches das eine zum andern wird
+      (intrinsecatio, per quam unum fit aliud)."
+    latin_signal_phrase: "intrinsecatio per quam unum fit aliud"
+    location:
+      jp2_leaf: 906
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0906.jp2"
+      printed_page: "TBD (not detected as a separate block by ABBYY on this leaf)"
+      raw_extract: "source/raw/intrinsecatio-jp2-0906-abbyy.txt"
+    latin_summary_phrase: |
+      "Ergo intelligere intuitivum est intrinsecatio, per quam unum fit aliud.
+      Cognoscere enim est fieri rem cognitam."
+    latin_substantive_passage: |
+      "Sed intuitus animae non est, sicuti intuitus oculi, qui videt res per
+      species delatas a luce tinctas rebus: sed videt per intrinsecationem
+      rei in se, & sui in illam, sicuti per essentiam videt lucem, quantam
+      potest tolerare: & per lucem rebus tinctam videt res..."
+      [transcribed with long-s normalized; ligatures and hyphen-breaks
+      reassembled; not yet against the page image]
+    cassirer_correspondence_note: |
+      Cassirer's German paraphrase compresses Campanella's two sentences
+      ("intelligere intuitivum est intrinsecatio" + "cognoscere est fieri
+      rem cognitam") into a single move and Germanizes the technical term
+      'intrinsecatio' as 'inneres Einswerden'. The substantive passage on
+      lines 81-87 of the raw extract is the more direct correspondent to
+      Cassirer's gloss about "die Seele... in ihn und ihn in sich
+      innerlich verwandelt".
+
+  - id: "page-102-pilot"
+    status: "located"
+    purpose: "extraction-pipeline test page; not yet anchored to a Cassirer reference"
+    location:
+      jp2_leaf: 114
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0114.jp2"
+      printed_page: 102
+    content_signal: "in hoc laudat Anaxagoram, qui præficit Mentem..."
+    layout: "two-column with right-margin marginalia and running header"
+
+ocr_baseline:
+  engine: "ABBYY FineReader Engine 11"
+  source: "Internet Archive package _abbyy.gz"
+  notes: |
+    Use the IA-shipped ABBYY XML as the structural OCR source. Tesseract is not
+    the baseline for this campaign; see README.md for rationale.
