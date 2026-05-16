@@ -8,6 +8,8 @@ Cassirer was not working from a loose paraphrase tradition. The Vol. 1 and Vol. 
 
 This is a stronger epistemic position than the campaign first assumed. The task is not merely to find where Cassirer got `intrinsecatio`; it is to recover the Latin chain Cassirer used when he made Campanella a hinge between Renaissance natural philosophy, Augustine, Descartes, and Spinoza.
 
+For the current Vol. 1 self-consciousness absorption pass, see `reading/cassirer-vol1-self-consciousness-crosswalk.md`. That note keeps leaf 85/86 as an opened Part I analogue and exact occasion/specification support; after leaf 402 was opened, the remaining non-promotion reason is artifact purpose rather than lack of direct Part II evidence.
+
 ## Confirmed Cassirer Loci In Local Files
 
 From `texts/erkenntnisproblem-vol1/source/normalized/64-naturphilosophie-campanella-alienation-pdf-272-275.txt`:
@@ -21,7 +23,7 @@ From `texts/erkenntnisproblem-vol1/source/normalized/64-naturphilosophie-campane
 - `Metaphysik P. II, Lib. VI, Cap. VIII, Art. V. (Teil II, S. 64.)`  
   `esse animae et cujuslibet cognoscentis est cognitio sui`.
 - `Metaphys. P. II, Lib. VI, Cap. VI, Art. 9 (Teil II, S. 36)`  
-  `Unaquaeque res intelligit se ipsam intellectione abdita per suam essentiam...`
+  `Unaquaeque res intelligit se ipsam intellectione abdita per suam essentiam...` Opened at JP2 leaf 402 in `parts/pilot-part-ii-intellectione-abdita-per-essentiam.md`.
 - `Metaphysik: Pars III, Lib. XVII, Cap. II, Art. I. (Teil III, S. 244 f.)`  
   Cited by Cassirer in Vol. 1 for cognition/love/deification context; this points to the same printed-page neighborhood as the Vol. 2 intrinsecation passage.
 
@@ -41,7 +43,7 @@ From `texts/erkenntnisproblem-vol2/parts/018-spinoza-intuition-renaissance-and-t
 - `Campanella, Universalis Philosophiae seu Metaphysicarum Rerum juxta propria dogmata Partes tres. Parisiis 1638, fol., Teil III, S. 244 f.`  
   Vol. 2 Spinoza bridge: `intrinsecatio, per quam unum fit aliud`; opened in encounter 001 at JP2 leaf 906.
 - `Campanella, Metaphysik, Teil II, S. 78`  
-  Essential love of God and participated divinity having `saporem`; unlocated in the Campanella witness.
+  Essential love of God and participated divinity having `saporem`; opened at JP2 leaf 444 / Part II printed page 78 in `parts/pilot-part-ii-essential-love-sapor.md`.
 - Long Vol. 2 note on Campanella/Spinoza parallels cites `Metaphysik II, S. 11 f.`, `II, S. 13`, `Metaphysik S. 2`, `Metaphys. II, S. 156 f.`, `Metaphys. II, 194 f.`, and `Metaphys. II, S. 164 f.`  
   These are strong candidates for a later Spinoza crosswalk, but should remain unlocated until opened.
 
@@ -51,7 +53,7 @@ From `texts/erkenntnisproblem-vol2/parts/018-spinoza-intuition-renaissance-and-t
 
 Cassirer's `Teil I/II/III` page references are per-part page references inside the 1638 folio. They do not automatically map to IA JP2 leaves by a fixed offset, and the printed page number can restart or be reused across parts.
 
-Do not merge Ernst's page references and Cassirer's part references just because the numbers resemble each other. Ernst's `Metaphysica part I, p. 73a/b` is now confirmed as JP2 leaf 85, `P. I, Lib. I, Cap. IX, Art. IX`. Cassirer's `P. II, Lib. VI, Cap. VI, Art. 9 (Teil II, S. 36)` is a related `abdita` self-knowledge locus, but it is not the same opened leaf unless the Latin proves it.
+Do not merge Ernst's page references and Cassirer's part references just because the numbers resemble each other. Ernst's `Metaphysica part I, p. 73a/b` is confirmed as JP2 leaf 85, `P. I, Lib. I, Cap. IX, Art. IX`. Cassirer's `P. II, Lib. VI, Cap. VI, Art. 9 (Teil II, S. 36)` is now confirmed separately as JP2 leaf 402, Part II printed page 36. The two leaves are related by the `abdita` self-knowledge doctrine, not by pagination identity.
 
 ### Leaf 906 Section Label Resolved
 
@@ -70,6 +72,7 @@ The Vol. 1 page 274 apparatus explicitly routes one self-knowledge note through 
 ## Queue Implication
 
 - Leaf 85 is now opened because it is both Ernst-guided and Cassirer-cited (`P. I, Lib. I, Cap. IX, Art. IX`, `Teil I, S. 73`).
-- The next Cassirer self-consciousness targets are the `Teil II` loci: p. 15, p. 36, p. 64, and the unlocated `P. II, Lib. VI, Cap. XI, Art. VIII`.
-- The next Spinoza/Campanella targets are the `Teil II` and `Teil III` pages in Vol. 2 footnotes: especially `Teil II, S. 78`, `Metaphysik II, S. 11 f.`, and `Metaphys. II, S. 156 f.`
+- One direct Cassirer self-consciousness target is now opened: `Teil II, S. 36` / JP2 leaf 402. Remaining `Teil II` self-consciousness targets are p. 15, p. 64, and the unlocated `P. II, Lib. VI, Cap. XI, Art. VIII`.
+- The Part 64 citation `P. II, Lib. VI, Cap. XI, Art. V. (T. II, S. 83.)` should be raw-checked before use; the opened page-map now places Cap. XI, Art. I on inferred Part II page 83, so the clean-looking Art. V/page-83 pairing may involve citation or OCR damage.
+- The next unopened Spinoza/Campanella targets are the remaining `Teil II` and `Teil III` pages in Vol. 2 footnotes: especially `Metaphysik II, S. 11 f.` and `Metaphys. II, S. 156 f.` The `Teil II, S. 78` sapor anchor is now opened at leaf 444.
 - The leaf-906 label is resolved: encounter 001's `Pars III, Lib. XVII, Cap. II, Art. I` agrees with the corrected Cassirer citation.

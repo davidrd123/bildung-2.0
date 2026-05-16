@@ -89,10 +89,12 @@ Textual: targeted page-image crops corrected major ABBYY failures on leaf 85 and
 
 Lexical: `specificationes in obiectis` should not be over-modernized. "Specifications in objects" keeps the technical awkwardness visible: objects determine the act's direction or form without causing wisdom itself.
 
+Lexical: `praesentiscentes` in `vitam sibi divinam exinde praesentiscentes` has an anticipatory/inchoative force stronger than the current working translation "already sense." Revisit if this slice is promoted to encounter-grade.
+
 Contextual: this slice is lower leaf 85 plus the top of leaf 86. The preceding response to the eighth dubitation and the following response to the tenth may change how strongly to emphasize the deification paragraph.
 
 ## Re-entry
 
 - Full-page collation remains open beyond the targeted crops, especially if this pilot becomes citation-grade.
-- Open leaf 86 lower half (`Responsio ad Decimam Dubitationem`) if following innate/illata science, dreams, ecstasy, and the soul's return to God.
-- Cross-map this slice to Cassirer's Vol. 1 Part 63 and Part 64 footnotes, where Cassirer cites this exact page among several primary Latin Campanella loci.
+- This file remains an encounter-candidate after the `reading/cassirer-vol1-self-consciousness-crosswalk.md` pass. The crosswalk shows that leaf 85 is an exact support for Cassirer's occasion/specification argument and a strong Part I analogue for self-consciousness.
+- The direct Part II `intellectione abdita per suam essentiam` target is now opened at `pilot-part-ii-intellectione-abdita-per-essentiam.md`. Do not promote this leaf-85/86 pilot by inertia; if citation-grade treatment is needed, the earned form is probably a composite self-consciousness encounter joining leaf 85 and leaf 402.

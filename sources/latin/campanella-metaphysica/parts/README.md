@@ -23,7 +23,9 @@ Use `parts/` for ordinary substrate slices. Use `encounters/` only when a passag
 
 ## Numbering Rule
 
-Reserve numeric `NNN-*` filenames for literal page-order transcription/translation. Non-sequential concept-chain work should use descriptive `pilot-*` filenames or move elsewhere before page-order work begins.
+Reserve numeric `NNN-*` filenames for literal page-order transcription/translation. Page-order does not mean stopping mechanically at a physical page edge: when a leaf break cuts a sentence, subsection, or local argument, the numeric part should follow the Latin far enough to complete that unit and record the crossover. Non-sequential concept-chain work should use descriptive `pilot-*` filenames or move elsewhere before page-order work begins.
+
+When page-order work starts in a non-contiguous region, use a local prefix that names the lane. The Part I trial keeps the global `001-*` name; the Part III reconnaissance uses `part-iii-NNN-*` so `part-iii-001` does not imply sequential continuation from the Part I trial.
 
 ## Pilot Graduation
 
@@ -31,6 +33,8 @@ Reserve numeric `NNN-*` filenames for literal page-order transcription/translati
 
 - to an `encounters/` file if it becomes a citation-grade anchor or concept dossier needing full page-image collation and stable reference
 - into numeric `NNN-*` page-order work if the campaign switches to literal sequential transcription and the surrounding pages are opened in order
+
+For concrete non-promotion decisions applying this rule, see `../reading/cassirer-vol1-self-consciousness-crosswalk.md` and `../reading/cassirer-vol2-part018-intrinsecation-crosswalk.md`: after direct anchors are opened, promotion still depends on whether the useful artifact is a standalone encounter or a composite dossier.
 
 ## Slice Progression
 
@@ -45,18 +49,40 @@ Before opening another pilot, run a quick absorption check: the prior pilot shou
 - `pilot-gustus-sapientia-and-intrinsecatio.md` — leaf 23, `Dubitatio III`, the taste argument where `sapientia` is etymologically tied to `sapor` and taste is said to `intrinsecatur obiecto`.
 - `pilot-pepper-heat-and-altered-intrinsecatio.md` — leaf 28, top continuation before `Dubitatio VII`, the pepper/heat example where `rei natura nobis intrinsecatur` while being altered by saliva, tongue, flesh, air, and accidents.
 - `pilot-self-knowledge-abdita-and-primality.md` — leaf 85 / printed page 73 through the top of leaf 86 / printed page 74, `Responsio ad nonam Dubitationem`, the self-knowledge passage where `notitia superaddita` is distinguished from innate and hidden knowledge, science is occasioned rather than acquired, and `Sapientia est primalitas sicut potestas & voluntas`; the continuation adds `Sapientia autem est sanitas orbis terrarum`.
+- `pilot-innate-illata-science-dream-and-ecstasy.md` — leaf 86 lower half through most of leaf 87, `Responsio ad Decimam Dubitationem`, the dependency slice where innate knowledge is contrasted with introduced knowledge/passions, religion is defined as return to origin, and dream, sickness, ecstasy, and waking evidence are sorted by domain.
+- `pilot-part-ii-intellectione-abdita-per-essentiam.md` — leaf 402 / Part II printed page 36, `Pars II, Liber VI, Caput VI, Articulus IX`, the direct Cassirer self-consciousness locus where every thing understands itself by hidden intellection through its essence, while external intellection is passive, alienating, and introduced/reflexive.
+- `pilot-part-ii-essential-love-sapor.md` — leaf 444 / Part II printed page 78, `Pars II, Liber VI, Caput X, Articulus IV`, the exact Cassirer Vol. 2 p. 78 anchor where love of God is essential and participated divinity has `saporem`.
+- `pilot-part-ii-potentia-sapientia-amor.md` — leaf 449 lower half through leaf 450 top, `Pars II, Liber VI, Caput XI, Articulus I`, the internally warranted Part II triad where all true beings are said to be essentiated by `Potentia, Sapientia, & Amor`, and primalities are distinguished from principles and causes.
+- `pilot-sapientia-mensura-entis-veri.md` — leaf 438, Part II, probably `Liber VI, Caput IX, Articulus V`, the internal `sapientia` / `intrinsecatur` continuation where even intrinsecation is limited by `mensura sui` rather than `mensura entis, & veri`, and added wisdom depends on inborn wisdom.
+
+## Page-Order Trial
+
+- `001-leaf-0023-art-iii-animal-odor-touch-weight.md` — first numeric page-order test. Resumes the omitted right column of leaf 23 under `ART. III`, then continues onto leaf 24 only far enough to complete the weight/tangible subsection before hearing begins.
+
+The trial's methodological finding is that numeric page-order work follows page sequence but takes its unit from the local argument. A hard page-edge stop would have cut the weight argument at `Idem docet Pondus`; the useful unit crosses into leaf 24 and stops before the new hearing section.
+
+## Part III Page-Order Run
+
+Part III has now been structurally surveyed in `../reading/part-iii-structural-survey.md`. The first long-run target is Liber XIV, `De Anima Humana`, because it directly opens soul, hidden self-knowledge, pansensism, human/animal comparison, magic, prophecy, and immortality.
+
+- `part-iii-001-leaf-0791-liber-xiv-cap-i-anima-se-quaerit.md` — leaf 791 through the top of leaf 792, Liber XIV Caput I Articulus I: the soul asks after itself, knows itself by `cognitione quadam secreta abditaque`, and is investigated through operations as a thin, hot, bright spirit dwelling in the body.
+- `part-iii-002-leaf-0792-liber-xiv-cap-ii-human-excellence.md` — leaf 792 middle through leaf 795 top, Liber XIV Caput II Articulus I: broad sensation in stones, plants, corpses, animals, and humans; human superiority argued from art, dominion, astronomy, magic, prophecy, infinite appetite, upright posture, and the hand.
+
+This run is a sequential reconnaissance lane, not a new concept-pilot chain. During a long run, hold new terms and structural observations in `../scratch/part-iii-run-notes.md` and batch uptake into glossary, page-map, and journal at the end of a tranche.
 
 ## Ordering Note
 
-The pilot slices follow the intrinsecation chain rather than literal page order. If the campaign shifts to page order, resume from the omitted leaf-23 right column or from the lower half of leaf 28 and keep the sequence explicit from there.
+The pilot slices follow the intrinsecation chain rather than literal page order. Numeric `001-*` now marks a small page-order trial from the omitted leaf-23 right column. Treat it as a live test of the Lotman-like horizon, not yet a declaration that all subsequent work must be sequential.
 
-The possible long horizon is a Lotman-like page-order transcription/translation. Because the Latin and OCR are harder than the Lotman material, page-order parts should be smaller, with source status and uncertainty kept close to the text.
+The Part III `part-iii-NNN-*` files are the first live test of a longer Lotman-like page-order reconnaissance. Because the Latin and OCR are harder than the Lotman material, page-order parts should remain smaller than a finished edition would want, with source status and uncertainty kept close to the text.
 
 The immediate next candidates are:
 
-- the right-column continuation on leaf 23 (`ART. III`) if we want the full skeptical sequence across animal taste, odor, touch, and weight
+- `part-iii-003-*` at leaf 795, `Liber XIV, Caput III`, on Platonic arguments for immortality, if continuing the Part III soul run
+- leaf 24 section `9`, hearing, if making a separate decision to normalize the numeric page-order workflow
 - leaf 28 lower half, the opening of `Dubitatio VII` on flux, Heraclitus, and why no thing is known twice as the same
-- leaf 86 lower half, `Responsio ad Decimam Dubitationem`, if following the Ernst/Cassirer/Descartes concept chain into innate/illata science, dreams, ecstasy, and the soul's return to God
-- leaf 438, the `sapientia` passage around `mensura entis et veri`
-- part II pp. 169b and 217, if broadening into Ernst's primalities/harmony zone
-- a crosswalk note back to `texts/erkenntnisproblem-vol2/parts/018-spinoza-intuition-renaissance-and-the-short-treatise.md`
+- leaf 87 lower half, `Responsio ad Undecimam Dubitationem`, if following the local self-knowledge chain into the deliria of philosophers
+- leaf 439, `ART. VI`, if following the newly opened leaf-438 Part II wisdom/primalities sequence into grades of primalities outside God
+- another direct Part II self-consciousness locus, such as `P. II, Lib. VI, Cap. III, Art. 5` or `Cap. VIII, Art. V`, only if the opened leaf-402 locus leaves a named question unresolved
+- part II pp. 169b and 217, if following the newly opened `Amor` triad onward into the great-influences/harmony material
+- continued hardening of the Vol. 2 crosswalk, if absorbing into Cassirer Part 018; the current audit keeps the crosswalk as the working artifact, with a composite Vol. 2 dossier deferred until additional listed Vol. 2 Campanella footnote loci are opened and need integration with the already opened leaves

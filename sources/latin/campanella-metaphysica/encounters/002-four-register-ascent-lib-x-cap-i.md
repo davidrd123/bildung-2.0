@@ -56,6 +56,6 @@ This is the Christian-Platonist double-movement Cassirer's Spinoza-prefiguration
 ## Re-entry
 
 - Locate the diagram itself (the concentric-circle figure referenced as "ut in figura ista vides"). It may be a fold-out or facing page; if so, this is one of the genuine *images* in the volume and deserves separate treatment.
-- The leaf-23 `gustus` passage remains the deepest unfilled-in slot: bodily phenomenology of intrinsecation that funds both the cognitive doctrine (encounter 001) and the metaphysical doctrine (this encounter). Without it, the chain still starts mid-air.
+- The leaf-23 `gustus` passage is now opened in `parts/pilot-gustus-sapientia-and-intrinsecatio.md`; use it as the bodily phenomenology base for both the cognitive doctrine (encounter 001) and the metaphysical doctrine (this encounter). Leaf 28's pepper passage adds the further warning that bodily intrinsecation is real but altered by organ and medium.
 - The `ideare imaginanti convenit verius omnia` line wants its own probe — is `ideare` Campanella's term, and does it carry the full weight of "the mind actively forms its object" that the working translation implies?
 - The Romans 11:36 citation (`ab ipso, per ipsum, ut in ipso`) is doing important framing work: Campanella positions the Archetypal grasp explicitly as the Pauline doxological structure. Worth checking whether the same citation surfaces elsewhere in the volume at related climaxes.

@@ -46,10 +46,10 @@ Through the air they are altered, and in the sense-organs they are altered and w
 
 Textual: `quasdam imaginarias [ef]fulsiones` is not settled. ABBYY and Tesseract agree on something like `fulsiones`, but the likely sense is an image, glimmer, or effulgence rather than a stable term.
 
-Lexical/contextual: `intrinsecatur nobis` may deserve a more directional English than "is intrinsecated into us," but keeping the neologism visible is useful until leaf 438 and leaf 906 can be compared.
+Lexical/contextual: `intrinsecatur nobis` may deserve a more directional English than "is intrinsecated into us." Leaf 438 is now available as the epistemological comparison point, while leaf 906 remains the nominalized climax.
 
 ## Re-entry
 
 - If continuing sequentially, open `Dubitatio VII` on flux and Heraclitus from the lower half of leaf 28.
-- If continuing the intrinsecation chain, move to leaf 438 for `sapientia`, `intrinsecatur`, `intrinsecaretur`, and `mensura entis et veri`.
+- Cross-read the now-opened leaf-438 pilot for `sapientia`, `intrinsecatur`, `intrinsecaretur`, and `mensura entis, & veri`.
 - Keep the leaf 23 right column available if the whole sensory-skeptical sequence needs to be filled in later.

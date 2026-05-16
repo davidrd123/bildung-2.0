@@ -22,7 +22,7 @@
     - "to become-one-with"
     - "to enter intrinsically into"
   status: open
-  notes: "The verbal form has wider distribution than the noun (verb hits on leaves 23, 28, 210, 438, 617). In the leaf-23 pilot slice, taste alone among the senses `intrinsecatur obiecto`; in the leaf-28 pilot slice, pepper becomes hot in the mouth because `rei natura nobis intrinsecatur`, though the entry is altered by saliva, tongue, flesh, air, and accidents. At leaf 617 the active and passive coordinate (`intrinsecatur & extrinsecatur`) describes God's relation to all things. Watch whether the same verb does the same work across cognitive, physical, and theological registers, or whether the senses diverge."
+  notes: "The verbal form has wider distribution than the noun (verb hits on leaves 23, 28, 210, 438, 617). In the leaf-23 pilot slice, taste alone among the senses `intrinsecatur obiecto`; in the leaf-28 pilot slice, pepper becomes hot in the mouth because `rei natura nobis intrinsecatur`, though the entry is altered by saliva, tongue, flesh, air, and accidents. Leaf 402 gives the metaphysical form behind the process without using the verb: `intelligere exteriora est pati ab illis, & fieri illa`; external knowing is becoming the intelligible, while essential self-intellection is not. Leaf 438 makes the verb epistemologically limiting: the knower senses diminished species and is not intrinsecated into things; even if intrinsecated, cognition would be by `mensura sui`, not `mensura entis, & veri`. At leaf 617 the active and passive coordinate (`intrinsecatur & extrinsecatur`) describes God's relation to all things. Watch whether the same verb does the same work across cognitive, physical, and theological registers, or whether the senses diverge."
 
 - term: "intrinsecatur & extrinsecatur"
   handle: "term:campanella-intrinsecatur-extrinsecatur-pair"
@@ -64,7 +64,7 @@
     - "tasting"
     - "gustation"
   status: open
-  notes: "Bodily figure that funds the entire intrinsecation doctrine. The leaf-23 pilot opens the passage where taste gives `sapientia` its name because it reaches intrinsic, hidden, and weak natures, and `solus hic sensus intrinsecatur obiecto`; but the same passage uses the variability of taste to deny that wisdom is given through sense even in part. Encounter 001 quotes the leaf-906 polemic against Mahomet for taking the Scriptural eating-metaphor of paradise literally rather than as the figure for intuitive cognition."
+  notes: "Bodily figure that funds the entire intrinsecation doctrine. The leaf-23 pilot opens the passage where taste gives `sapientia` its name because it reaches intrinsic, hidden, and weak natures, and `solus hic sensus intrinsecatur obiecto`; but the same passage uses the variability of taste to deny that wisdom is given through sense even in part. The first page-order slice, leaf 23 right column into leaf 24, extends the variability by animal kind and habituation: hen, ox, quail, poison-fed girl, and national usage make `gustus` a sense of `apparentia`, not `scientia`. Encounter 001 quotes the leaf-906 polemic against Mahomet for taking the Scriptural eating-metaphor of paradise literally rather than as the figure for intuitive cognition."
 
 - term: "sapere / sapientia / sapor"
   handle: "term:campanella-sapere-sapientia-sapor"
@@ -74,7 +74,37 @@
     - "to taste / wisdom / flavor"
     - "to know / wisdom / savor"
   status: open
-  notes: "The leaf-23 pilot makes the etymological pressure explicit: `Sapientia enim dicitur a sapore, et gustu sapiente res prout sunt.` The cluster is double-edged. Taste seems to deserve the name of wisdom because it reaches intrinsic nature; yet taste's bodily variability shows why sensory wisdom fails. The leaf-28 pilot extends the cluster upward: we have no `saporem` of God and angels because they are known through effects, not proper images. Leaf 85 then separates `sapientia` from acquired `sapor`: `sapientia inest: sapor accedit... scientia non acquiritur, sed scibilia acquiruntur.` Keep English flexible at pressure points rather than flattening `sapere` into either only 'taste' or only 'know'."
+  notes: "The leaf-23 pilot makes the etymological pressure explicit: `Sapientia enim dicitur a sapore, et gustu sapiente res prout sunt.` The cluster is double-edged. Taste seems to deserve the name of wisdom because it reaches intrinsic nature; yet taste's bodily variability shows why sensory wisdom fails. The leaf-28 pilot extends the cluster upward: we have no `saporem` of God and angels because they are known through effects, not proper images. Leaf 85 then separates `sapientia` from acquired `sapor`: `sapientia inest: sapor accedit... scientia non acquiritur, sed scibilia acquiruntur.` Leaf 438 rebinds the cluster to power and purity: `Affectio enim ex sapore nascitur, sapor ex posse`, while wisdom consists in the purity by which things are received as they are rather than altered by the knower's impurity. Leaf 444, Cassirer's exact Vol. 2 p. 78 support, gives the metaphysical-affective form: `Divinitas participata talem saporem habet`; participated divinity has a savor because finite being is a participation in divine entity. Keep English flexible at pressure points rather than flattening `sapere` into either only 'taste' or only 'know'."
+
+- term: "Affectio enim ex sapore nascitur, sapor ex posse"
+  handle: "term:campanella-affectio-sapor-posse"
+  kind: thesis
+  preferred: null
+  alternatives:
+    - "affection arises from savor; savor from power"
+    - "affect follows savor, savor follows power"
+  status: open
+  notes: "Leaf 438 compresses the `sapere / sapientia / sapor` chain into the Part II primality register: affection is born from savor, and savor from power. This ties the leaf-23 gustus argument and the leaf-85 acquired-sapor distinction back to `posse`/`Potentia`, but do not yet treat it as a closed causal ladder. Leaf 444 adds the exact Vol. 2 sapor anchor: `Divinitas participata talem saporem habet`, where savor marks the joy or felt evidence of participated divinity. Track whether later passages make `sapor ex posse` a stable bridge between embodied taste, wisdom's purity, participated divinity, and the triad of primalities."
+
+- term: "Divinitas participata talem saporem habet"
+  handle: "term:campanella-divinitas-participata-sapor"
+  kind: thesis
+  preferred: null
+  alternatives:
+    - "participated divinity has such a savor"
+    - "participated divinity has such a taste"
+  status: open
+  notes: "Leaf 444, Cassirer's exact Vol. 2 Part 018 p. 78 source. The sentence sits inside the argument that love of God is essential rather than accidental: we love ourselves because we love being, and our finite being is a participation in divine entity. `Sapor` here is not merely the sensory etymology of `sapientia`; it is the affective sign of participated divinity, the reason we rejoice to be what we are. Keep the thesis linked to leaf 23's gustus etymology, leaf 438's `sapor ex posse`, and leaf 906's gustatory model of beatific cognition."
+
+- term: "Amor abditus / sensus abditus"
+  handle: "term:campanella-amor-abditus-sensus-abditus"
+  kind: thesis_pair
+  preferred: null
+  alternatives:
+    - "hidden love / hidden sense"
+    - "hidden self-love / hidden self-sense"
+  status: open
+  notes: "Leaf 444 pairs `Amor abditus, quo se cuncta amant` with `sensus abditus, quo sese cuncta sapiunt`. This makes the p. 78 sapor anchor more than an affective add-on: hidden love of self and hidden self-sense support one another. Cross-read with leaf 402's `intellectione abdita per suam essentiam` before deciding whether Campanella treats hidden self-love, hidden self-sense, and hidden self-intellection as one doctrine in different registers or as adjacent analogues."
 
 - term: "notitia superaddita / innata et abdita"
   handle: "term:campanella-notitia-superaddita-abdita"
@@ -84,7 +114,98 @@
     - "superadded knowledge / innate and hidden knowledge"
     - "added knowledge / hidden innate knowledge"
   status: open
-  notes: "Leaf 85 distinguishes the soul's apparent self-forgetting as a feature of `notitia superaddita`, not of `notitia innata & abdita`. This is the primary Latin hinge behind Ernst's abdita/addita map and Cassirer's self-consciousness discussion: every being first knows itself, but ordinary object-knowledge habituates the soul away from noticing that hidden self-sense."
+  notes: "Leaf 85 distinguishes the soul's apparent self-forgetting as a feature of `notitia superaddita`, not of `notitia innata & abdita`. This is the primary Latin hinge behind Ernst's abdita/addita map and Cassirer's self-consciousness discussion: every being first knows itself, but ordinary object-knowledge habituates the soul away from noticing that hidden self-sense. Leaf 86-87 shifts the pair into `scientia innata / illata`, where innate knowledge remains but introduced passions interrupt its use. Leaf 402 opens Cassirer's direct Part II parallel: `Unaquaeque res intelligit se ipsam intellectione abdita per suam essentiam`, with essential self-intellection contrasted against introduced and reflexive intellection. Leaf 791 reopens the same chain in Part III anthropology: the human soul knows itself `cognitione quadam secreta abditaque`, but supervening objects mute and bury its self-notion."
+
+- term: "scientia innata / illata"
+  handle: "term:campanella-scientia-innata-illata"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "innate science / introduced science"
+    - "inborn knowledge / brought-in knowledge"
+  status: open
+  notes: "Leaf 86-87, `Responsio ad Decimam Dubitationem`: the soul does not lose innate knowledge of its origin, but `illatae passiones` interrupt the use of that knowledge. Render `illata` as 'introduced' for now to keep it distinct from leaf 85's `superaddita`; track whether Campanella uses these as synonyms or as different pressures. Leaf 402 gives the sharper contrast `primordiali innata, non autem illata & reflexa`, tying `illata` to reflexive/alien intellection rather than essential self-intellection. Leaf 438 adds the adjacent pair `sapientia additicia / indita`: added wisdom can be taught if inborn wisdom is present, but inborn wisdom is self-knowledge and its purity/perfection are not simply transferred."
+
+- term: "intellectio abdita / essentialis / reflexa"
+  handle: "term:campanella-intellectio-abdita-essentialis"
+  kind: concept_cluster
+  preferred: null
+  alternatives:
+    - "hidden / essential / reflexive intellection"
+    - "hidden self-intellection / reflexive object-intellection"
+  status: open
+  notes: "Leaf 402, Cassirer's direct Part II self-consciousness locus: `Unaquaeque res intelligit se ipsam intellectione abdita per suam essentiam`. Campanella distinguishes essential and original self-intellection from reflexive, introduced intellection of others. External intellection is accidental in creatures because it comes from outside and requires the intellect to understand itself as changed into the alien object; essential self-intellection is hidden because it is not object-like, but certain because it is the being of the knower itself. Leaf 791 gives the Part III anthropological consequence: the soul seeks itself in operations because its secret hidden cognition of itself has been suppressed by supervening objects, not because self-knowledge is absent. This remains the strongest opened Latin basis for Cassirer's Augustine-to-Descartes Campanella reading."
+
+- term: "sapientia additicia / indita"
+  handle: "term:campanella-sapientia-additicia-indita"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "added wisdom / inborn wisdom"
+    - "acquired wisdom / innate wisdom"
+  status: open
+  notes: "Leaf 438: `sapientia additicia non transfunditur, sed potius docetur, si adsit indita: indita vero, quae est sui notitia, transfunditur, sed non puritas, perfectioque eius.` This extends the leaf-85 `notitia superaddita / innata et abdita` and leaf-86 `scientia innata / illata` chain. Keep open whether `additicia`, `addita`, `adscita`, `superaddita`, and `illata` mark distinct pressures or overlapping local vocabulary."
+
+- term: "religio ... reversio ad suum principium"
+  handle: "term:campanella-religio-reversio"
+  kind: thesis
+  preferred: null
+  alternatives:
+    - "religion is return to one's principle"
+    - "religion as reversion to origin"
+  status: open
+  notes: "Leaf 86: `Hoc autem religio ostendit, quae est reversio ad suum principium.` Religion functions as the soul's return to its divine origin after corporeal passions interrupt the use of innate knowledge. Do not reduce this yet to either institutional religion or inward piety; the passage uses it as an epistemic and ontological return."
+
+- term: "sagacitas"
+  handle: "term:campanella-sagacitas"
+  kind: concept
+  preferred: null
+  alternatives:
+    - "sagacity"
+    - "keen perception"
+  status: open
+  notes: "Leaf 86-87 defines sagacity as `innatae notitiae scintilla`, a spark of innate knowledge, and distinguishes it from discursive reasoning: `discursus non attingit`. Leaf 438 returns to the term physiologically: the `sagacissimi` have a subtle but not excessively subtle spirit, suddenly understanding, fore-sensing, and divining much in effects from little in causes, though not retaining it in memory. Track whether `sagacitas` becomes a stable name for non-discursive access to hidden or divine things, or only a local bridge between innate knowledge, bodily spirit, and revelation."
+
+- term: "somnium / vigilia"
+  handle: "term:campanella-somnium-vigilia"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "dream / waking"
+    - "sleep / wakefulness"
+  status: open
+  notes: "Leaf 86-87 refuses both flattening moves: dreams can host revelation from God, angels, demons, or air-affection, but dreams are not to be trusted equally with waking about corporeal matters. The dream/waking distinction becomes a way to preserve ordinary evidence while allowing non-ordinary divine and hidden-affection testimony."
+
+- term: "sensus rerum"
+  handle: "term:campanella-sensus-rerum"
+  kind: doctrine
+  preferred: null
+  alternatives:
+    - "sense of things"
+    - "things' sensing"
+    - "pansensism"
+  status: open
+  notes: "Leaf 791 cites Part II and the separate `De sensu rerum` for the claim that all beings are furnished with sense, power, and appetite by metaphysical constitution. Leaf 792 then gives the first opened Part III application: stones, wood, water, mixed bodies, animal parts, corpses, plants, and animals sense in degrees, but not everything that senses is an animal or a soul. Keep the distinction between broad sensation and animation central; Campanella's pansensism is not a simple leveling of all beings into animals."
+
+- term: "spiritus tenuis, calidus, lucidus"
+  handle: "term:campanella-spiritus-tenuis-calidus-lucidus"
+  kind: concept_cluster
+  preferred: null
+  alternatives:
+    - "thin, hot, bright spirit"
+    - "subtle, hot, luminous spirit"
+  status: open
+  notes: "Liber XIV opens by asking whether the human soul, from its operations, seems to be a corporeal spirit: thin, hot, bright, mobile, sensitive, and eager for self-preservation. Leaf 791 uses this spirit-language against Aristoxenus, Galen, Alexander, and Aristotle: the soul is not harmony, temperament, act of temperament, or body-form, but a spirit dwelling in the body as inhabitant, sailor, or miller, and as an intrinsic conjoined acting cause. Leaf 792 adds that human superiority cannot rest merely on finer spirit or organs; unless the spirit is thin, bright, pure, and housed in well-formed cells, sensation is not retained or rightly reasoned from."
+
+- term: "apparentia / respectus / entitas"
+  handle: "term:campanella-apparentia-respectus-entitas"
+  kind: term_cluster
+  preferred: null
+  alternatives:
+    - "appearance / relation / entity"
+    - "appearance / respect / entity"
+  status: open
+  notes: "The first page-order slice (leaf 23 right column into leaf 24) turns sensory skepticism toward the status of sensible predicates. Taste is `non ... sensum scientiae, sed apparentiae`; smell, heat/cold, heavy/light, rare/dense, and hard/soft are treated as `apparentiae` or `respectus`, not stable `entitates`. Leaf 792 reopens the issue from the other side: if `entia` rather than `respectus` are the objects of the senses, then finer animal senses should be trusted within their domains. Do not identify this too quickly with Cassirer's modern relation/function concept; for now it marks Campanella's pressure on sensible qualities as relative to body, medium, animal kind, age, and standpoint."
 
 - term: "scientia non acquiritur, sed scibilia acquiruntur"
   handle: "term:campanella-scientia-non-acquiritur"
@@ -104,7 +225,37 @@
     - "Wisdom is a primality"
     - "Wisdom is one of the primalities"
   status: open
-  notes: "Leaf 85: `Sapientia est primalitas sicut potestas & voluntas.` This ties the self-knowledge answer to the triadic doctrine of power, wisdom, and will/love. Do not treat `sapientia` here as merely an epistemic virtue; it is being named as a basic determination of being. Leaf 86 continues with `Sapientia autem est sanitas orbis terrarum`, moving from the primality claim to wisdom's public and political effect."
+  notes: "Leaf 85: `Sapientia est primalitas sicut potestas & voluntas.` This ties the self-knowledge answer to the triadic doctrine of power, wisdom, and will/love. Do not treat `sapientia` here as merely an epistemic virtue; it is being named as a basic determination of being. Leaf 86 continues with `Sapientia autem est sanitas orbis terrarum`, moving from the primality claim to wisdom's public and political effect. Leaf 449 gives the Part II doctrinal triad as `Potentia, Sapientia, & Amor`, clarifying that wisdom is one primality within the constitutive triad."
+
+- term: "Potentia / Sapientia / Amor"
+  handle: "term:campanella-potentia-sapientia-amor"
+  kind: term_cluster
+  preferred: null
+  alternatives:
+    - "Power / Wisdom / Love"
+    - "Power / Knowledge / Love"
+  status: open
+  notes: "Leaf 449, Part II, Liber VI, Caput XI, Articulus I: `principium triplex est, Potentia, Sapientia, & Amor.` Campanella distinguishes the three as `primalitates` when they essentialize being, `principia` when they regard work, and causes when they go out toward causing. The passage also orders them: Wisdom arises from Power, Love from both, by `processione intrinseca, & essentiali`. Leaf 438 prepares this by describing outward virtue as `regula extensionum Primalitatum ad obiecta exteriora`, with common wisdom as law rooted in eternal law. Leaf 444 has the local phrase `Nos vero caduci, finitique Potentia, Sapientia, & Essentia`; this is witnessed and should not be corrected to `Amor`, but it may be a finite-being register rather than a variant of the primalities triad. Keep `Sapientia` flexible as wisdom/knowledge until more Part II usage settles the register."
+
+- term: "mensura entis et veri / mensura sui"
+  handle: "term:campanella-mensura-entis-veri"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "measure of being and truth / measure of oneself"
+    - "being-and-truth measure / self-measure"
+  status: open
+  notes: "Leaf 438: `nec intrinsecatur illis: at etsi intrinsecaretur, nosset se illa cogniturum non mensura entis, & veri, sed mensura sui.` This is a limiting formula for finite cognition, not a simple praise of intrinsecation. Even intrinsic contact with species would still be measured by the knower unless the knower's purity corresponds to the Idea and the whole order of being."
+
+- term: "primalitates / principia / causae"
+  handle: "term:campanella-primalitates-principia-causae"
+  kind: concept_triple
+  preferred: null
+  alternatives:
+    - "primalities / principles / causes"
+    - "essentializing primalities / operative principles / causal outputs"
+  status: open
+  notes: "Leaf 449-450: `ut essentiant ens, vocari debent primalitates; ut respiciunt ad opus, principia; & ut ad causandum exeunt, causas producunt.` Campanella marks a level distinction inside the same triad: constituting being, regarding work or operation, and going out toward causation. Track this carefully so English `principle` does not flatten all three levels."
 
 - term: "voluntas / amor"
   handle: "term:campanella-voluntas-amor"
@@ -113,7 +264,7 @@
   alternatives:
     - "will / love"
   status: open
-  notes: "Leaf 85 names the third primality as `voluntas` in `Sapientia est primalitas sicut potestas & voluntas`; Ernst's account and Adami's Praefatio foreground the triad as power, wisdom, love (`potestas, sapientia, amor`). Track whether `voluntas` and `amor` are interchangeable in Campanella's primality doctrine or whether this passage marks a local epistemological inflection."
+  notes: "Leaf 85 names the third primality as `voluntas` in `Sapientia est primalitas sicut potestas & voluntas`; Ernst's account and Adami's Praefatio foreground the triad as power, wisdom, love (`potestas, sapientia, amor`). Leaf 449 now confirms the Part II doctrinal triad as `Potentia, Sapientia, & Amor`, while also distinguishing primalities from outward-facing principles and causes. Track whether `voluntas` is a local epistemological/faculty register for the third primality or whether Campanella uses it interchangeably with `amor` elsewhere."
 
 - term: "alienatio"
   handle: "term:campanella-alienatio"
@@ -123,7 +274,7 @@
     - "alienation"
     - "becoming-other"
   status: open
-  notes: "Cassirer's Vol. 1 Campanella section turns on `insanire et perdere proprium esse et acquirere alienum`. Leaf 85 accepts the premise that `scire sit pars alienationis`, but denies that this is madness unless alienation becomes total and judgment of self and other is lost. This is a crucial guard against reading Campanella's `fieri rem cognitam` as simple self-loss."
+  notes: "Cassirer's Vol. 1 Campanella section turns on `insanire et perdere proprium esse et acquirere alienum`. Leaf 85 accepts the premise that `scire sit pars alienationis`, but denies that this is madness unless alienation becomes total and judgment of self and other is lost. Leaf 402 explains why the alienation problem recurs: beings with cognitive power always understand foreign objects and are `quasi a seipsis alienantur`, so they seem not to know themselves except reflexively. This is a crucial guard against reading Campanella's `fieri rem cognitam` as simple self-loss."
 
 - term: "imago / simulachrum"
   handle: "term:campanella-imago-simulachrum"
@@ -144,7 +295,7 @@
     - "For to know is to become the thing known"
     - "Cognition is the becoming-of-the-thing-known"
   status: open
-  notes: "The general claim under the specific intrinsecatio doctrine in enc-001 — Cassirer's quotation isolates `intrinsecatio per quam unum fit aliud` and drops this sentence, which is the wider, more controversial proposition. Aristotelian in form (cf. De Anima III.4-5 on intellect becoming its object) but Campanella radicalizes from intellect to soul-as-such. The Spinoza connection Cassirer draws sits on this thesis whether or not he quotes it."
+  notes: "The general claim under the specific intrinsecatio doctrine in enc-001 — Cassirer's quotation isolates `intrinsecatio per quam unum fit aliud` and drops this sentence, which is the wider, more controversial proposition. Aristotelian in form (cf. De Anima III.4-5 on intellect becoming its object) but Campanella radicalizes from intellect to soul-as-such. Leaf 402 gives the same formula in Part II: `intelligens enim fit ipsum intelligibile`, while also limiting it to external intellection; essential self-intellection does not become because it already is. The Spinoza connection Cassirer draws sits on this thesis whether or not he quotes it."
 
 - term: "ideare"
   handle: "term:campanella-ideare"

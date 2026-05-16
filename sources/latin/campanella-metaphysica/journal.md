@@ -1,5 +1,234 @@
 # Journal
 
+## 2026-05-16 — Part III Structural Survey And Liber XIV Page-Order Start
+
+Started the longer Part III reconnaissance as a sequential lane rather than another concept-pilot:
+
+- `reading/part-iii-structural-survey.md`
+- `scratch/part-iii-run-notes.md`
+- `parts/part-iii-001-leaf-0791-liber-xiv-cap-i-anima-se-quaerit.md`
+- `parts/part-iii-002-leaf-0792-liber-xiv-cap-ii-human-excellence.md`
+
+Structural survey result: Pars III begins at JP2 leaf 663. The verified book openings are Liber XI at leaf 663, Liber XII at 741, Liber XIII at 769, Liber XIV `De Anima Humana` at 791, Liber XV at 817, Liber XVI `De Religione, et Virtute, & Lege, & Propheta Legislatore` at 858, Liber XVII at 898, and Liber XVIII at 911. A sparse chapter/article-orientation section now records visible chapter movements and high-yield subzones, but the survey remains orienting rather than exhaustive; printed-page correspondences for Part III still need collation.
+
+Zone decision: start the deep run at Liber XIV, the human-soul book. It directly opens the most distinctively Campanellan questions the user wanted to see in Part III: hidden self-knowledge, `sensus rerum`, human/animal comparison, magic, prophecy, and immortality. To avoid confusing this non-contiguous Part III run with the earlier Part I page-order trial, the new files use a local `part-iii-NNN-*` sequence rather than global `002-*`.
+
+Working findings: Part III immediately reopens the Part I/II hidden self-knowledge chain. Leaf 791 says the soul knows itself `cognitione quadam secreta abditaque`, but supervening objects suppress its self-notion, so embodied inquiry proceeds through operations. Leaf 792 then prevents a simple human-exceptionalist reading: stones, wood, water, mixed bodies, body-parts, corpses, plants, and animals sense in degrees. Human superiority is not better external sense; animals often surpass humans in particular senses. Campanella instead argues from dominion, art, astronomy, magic, prophecy, infinite appetite, upright body, and the hand as instrument of a higher soul.
+
+Apparatus uptake: added Part III book-opening alignments and two new Part III page-order anchors to `source/page-map.yaml`; added the Part III run to `parts/README.md`; added glossary entries for `sensus rerum` and `spiritus tenuis, calidus, lucidus`; updated the hidden-knowledge and `apparentia / respectus / entitas` entries with leaf-791/792 evidence.
+
+Re-entry: continue `part-iii-003-*` at leaf 795, `Liber XIV, Caput III`, where Campanella examines Platonic arguments for the soul's immortality. This is still only the first tranche of the longer Part III run; the full long-run target remains Liber XIV end-to-end or a comparable contiguous run, with apparatus batched by tranche rather than per leaf.
+
+## 2026-05-15 — Review Cleanup: Absorption Framing And Vol. 2 Crosswalk Shape
+
+Cleaned up the Vol. 2 absorption artifacts after review. The important correction is methodological: "no new Latin opened" was too narrow as a session-level report. The final audit pass did not open Latin, but the surrounding Vol. 2 absorption arc did open leaf 444 as an exact anchor for Cassirer's Part II p. 78 `saporem` footnote. Record future work of this kind as mixed anchor-opening plus absorption unless the session genuinely only rewrites existing synthesis artifacts.
+
+Concrete cleanup:
+
+- corrected encounter 001's stale leaf-23 re-entry so it points to the opened pilot and numeric page-order trial rather than treating leaf 23 as an unopened gap
+- collapsed the redundant "What This Changes In Cassirer" section out of the Vol. 2 crosswalk; the file now relies on Opening Finding, Opened-Substrate Audit, Crosswalk, and Reading Decision
+- tightened the composite-dossier trigger: keep the crosswalk as the working artifact until additional listed Vol. 2 Campanella footnote loci are opened and have to be integrated with the opened leaves rather than cited as isolated support
+- added glossary thesis `Amor abditus / sensus abditus` for the hidden-love / hidden-self-sense pairing on leaf 444, linking the exact p. 78 sapor anchor to leaf 402's hidden self-intellection
+
+## 2026-05-15 — Vol. 2 Absorption Audit Against Opened Substrate
+
+Audited the Vol. 2 Part 018 Campanella interface against the opened substrate leaves named by the current goal:
+
+- leaf 23: `parts/pilot-gustus-sapientia-and-intrinsecatio.md`
+- leaf 28: `parts/pilot-pepper-heat-and-altered-intrinsecatio.md`
+- leaf 402: `parts/pilot-part-ii-intellectione-abdita-per-essentiam.md`
+- leaf 438: `parts/pilot-sapientia-mensura-entis-veri.md`
+- leaf 444: `parts/pilot-part-ii-essential-love-sapor.md`
+- leaf 617: `encounters/002-four-register-ascent-lib-x-cap-i.md`
+- leaf 906: `encounters/001-intrinsecatio-cap-ii-art-i.md`
+
+Audit result: encounter 001 remains the correct citation-grade anchor for Cassirer's `intrinsecatio, per quam unum fit aliud`, but its older phrasing needed tightening. The line `Cognoscere enim est fieri rem cognitam` should no longer be used as a flat rule for all cognition. Leaf 402 confirms it for exterior/object intellection and simultaneously blocks it for essential self-intellection, which does not become because the knower already is itself. Leaf 28 and leaf 438 also block any clean truth-access reading: intrinsic contact can be altered by organ/medium, and finite knowing remains `mensura sui`.
+
+Apparatus uptake: updated encounter 001 with an absorption-audit table for leaves 23, 28, 402, 438, 444, 617, and 906; revised the Vol. 2 crosswalk's opening finding from three constraints to four controls; added an opened-substrate audit table; and added an explicit artifact decision.
+
+Artifact decision: keep `reading/cassirer-vol2-part018-intrinsecation-crosswalk.md` as the working Vol. 2 absorption artifact for now. Do not create a separate composite Vol. 2 Campanella dossier yet. A dossier becomes warranted when additional Vol. 2 Campanella footnote loci are opened and have to be integrated with the opened leaves rather than cited as isolated support. The concrete pending test set is `Metaphysik II, S. 11 f.`, `II, S. 13`, `Metaphys. II, S. 156 f.`, `II, 194 f.`, and `II, S. 164 f.`
+
+Sharpened reading: Cassirer is right that Campanella gives a Renaissance source for cognition as becoming-one. He is too smooth when this becomes "all knowing is self-dissolution into object." The opened Latin forces register distinctions: gustatory contact, altered bodily entry, external object-intellection, hidden self-intellection, finite wisdom under `mensura sui`, divine immanence/extrinsecation, participated-divinity `saporem`, and beatific intrinsecation.
+
+Re-entry options, with warrants rather than ranking:
+
+- keep hardening the Vol. 2 crosswalk if revising `texts/erkenntnisproblem-vol2/parts/018...`
+- open the remaining Vol. 2 footnotes only when the crosswalk requires them, especially `Metaphysik II, S. 11 f.` or `Metaphys. II, S. 156 f.`
+- build a composite Vol. 2 Campanella dossier only after additional listed Vol. 2 footnote loci have been opened and need integration with the already opened leaves
+- keep page-order work separate from this absorption lane
+
+## 2026-05-15 — Vol. 2 Sapor Anchor Opened At Part II Page 78
+
+Opened Cassirer's exact Vol. 2 Part 018 p. 78 Campanella source:
+
+- `parts/pilot-part-ii-essential-love-sapor.md`
+- raw extract: `source/raw/leaf-0444-part-ii-essential-love-sapor-abbyy.txt`
+- normalized extract: `source/normalized/leaf-0444-part-ii-essential-love-sapor-abbyy.normalized.txt`
+- reading absorption: `reading/cassirer-vol2-part018-intrinsecation-crosswalk.md`
+
+Extraction details: leaf 444 normalized from 26.60% OOD to 19.68% OOD. Page-image check confirms printed page `78`, the target line `Divinitas participata talem saporem habet`, and the boundary before `ART. V.` Adjacent leaf 443 confirms the local section as `Pars II, Liber VI, Caput X, Articulus IV`.
+
+Working finding: Cassirer's quote is real and textually exact. Campanella argues that the love by which we love God is essential because self-love is love of being, and God is being simply. Participated divinity has `saporem` because each finite being is a participation in divine entity; this gives Cassirer's Vol. 2 Spinoza bridge a primary Latin anchor for the claim that affirming our own being implicitly affirms the all-encompassing reality on which it depends.
+
+Additional finding: the page joins hidden love and hidden sense: `Amor abditus, quo se cuncta amant` and `sensus abditus, quo sese cuncta sapiunt`. That links the Vol. 2 sapor anchor to leaf 402's hidden self-intellection as well as to the leaf-23/438 sapor chain.
+
+Apparatus uptake: added a page-map anchor for leaf 444; added glossary thesis `Divinitas participata talem saporem habet`; updated `sapere / sapientia / sapor`, `Affectio enim ex sapore nascitur, sapor ex posse`, and `Potentia / Sapientia / Amor`; later review cleanup added glossary thesis `Amor abditus / sensus abditus`. Updated the Cassirer Latin citation map and revised the Vol. 2 Part 018 crosswalk so the p. 78 row is no longer marked "partially supported, not yet exact."
+
+Promotion decision: keep leaf 444 as a pilot and exact Vol. 2 anchor for now, not a standalone encounter. The stronger encounter-grade form would likely be a composite Vol. 2 dossier joining leaf 906's `intrinsecatio`, leaf 438's `mensura sui` limit, leaf 402's external/essential intellection distinction, and leaf 444's essential-love/`saporem` passage.
+
+Re-entry options, with warrants rather than ranking:
+
+- build that composite Vol. 2 Campanella dossier if additional listed Vol. 2 footnote loci are opened and need integration with leaf 444 plus the already opened intrinsecation/self-intellection leaves
+- open `Metaphysik II, S. 11 f.` if following Cassirer's Vol. 2 determination/negation footnote
+- open `Metaphys. II, S. 156 f.` if following Cassirer's later Vol. 2 primalities/love comparison
+- return to literal page-order only as a separate workflow decision
+
+## 2026-05-15 — Direct Part II Self-Intellection Locus Opened And Vol. 2 Absorbed
+
+Opened the direct Cassirer Part II self-consciousness locus:
+
+- `parts/pilot-part-ii-intellectione-abdita-per-essentiam.md`
+- raw extract: `source/raw/leaf-0402-part-ii-self-intellection-abdita-abbyy.txt`
+- normalized extract: `source/normalized/leaf-0402-part-ii-self-intellection-abdita-abbyy.normalized.txt`
+- reading absorption: `reading/cassirer-vol2-part018-intrinsecation-crosswalk.md`
+
+Extraction details: leaf 402 normalized from 25.42% OOD to 15.35% OOD. Page-image check confirmed printed page 36, the `Ad postremam respondeo` opening, and the boundary before the italic response summary and `ART. X`. Neighboring leaves 401 and 403 confirm the Pars II / Liber VI / Caput VI sequence.
+
+Working finding: leaf 402 is the direct source behind Cassirer's `intellectione abdita per suam essentiam` citation. It confirms leaf 85's hidden self-knowledge doctrine, but with a sharper distinction: external intellection is passive and alienating (`intelligere exteriora est pati ab illis, & fieri illa`; `intelligens enim fit ipsum intelligibile`), while essential self-intellection is hidden, original, and not a becoming because the knower already is itself. Creaturely self-intellection represents divine cognition finitely and impedibly; divine intellection alone is infinite and causative.
+
+Apparatus uptake: added a page-map alignment and anchor for leaf 402; added glossary entry `intellectio abdita / essentialis / reflexa`; updated `intrinsecari`, `notitia superaddita / innata et abdita`, `scientia innata / illata`, `alienatio`, and `Cognoscere enim est fieri rem cognitam`; updated the Cassirer Latin citation map; and revised the Vol. 1 self-consciousness crosswalk to reflect that the `intellectione abdita` locus is now opened.
+
+Absorption finding for Vol. 2 Part 018: Cassirer's Campanella-Spinoza bridge is real but too smooth. The opened Latin supports `innerliches Einswerden` as a reading of the leaf-906 intrinsecation definition, and leaf 402 confirms that exterior knowing is becoming the intelligible. But leaf 402 also blocks a universal "all knowing is self-dissolution into object" reading because essential self-intellection is not passive becoming; leaf 438 blocks a triumphalist intrinsecation reading because finite cognition remains `mensura sui`; and leaf 906 remains a beatitude/gustation passage, not a free-standing epistemological formula.
+
+Promotion decision: do not promote leaf 85/86 to a standalone encounter now. The direct Part II evidence is opened at leaf 402, so the old reason for deferral has changed; the reason to keep leaf 85 as a pilot is now artifact-purpose, not lack of evidence. Leaf 85/86 remains the Part I analogue and exact occasion/specification support, while leaf 402 is the direct Part II hidden-self-intellection support. A future encounter-grade artifact should probably be a composite self-consciousness dossier joining both.
+
+Re-entry options, with warrants rather than ranking:
+
+- Cassirer's Part II p. 78 quote on essential love of God and participated divinity having `saporem`, if strengthening the Vol. 2 crosswalk with the next exact Campanella footnote
+- `P. II, Lib. VI, Cap. III, Art. 5`, if following the Vol. 1 Augustine-to-Descartes `cogito` precursor rather than the Vol. 2 Spinoza absorption
+- a composite self-consciousness encounter, if citation-grade treatment of leaf 85 plus leaf 402 is needed
+
+## 2026-05-15 — Longer-Arc Review Uptake And Absorption Bias
+
+Review uptake after the leaf-438, Vol. 1 crosswalk, and page-order trial work:
+
+- added explicit `caput_inferred` provenance for leaf 438 in `source/page-map.yaml`, matching the already-inferred printed-page status
+- revised `parts/README.md` so numeric page-order work follows the Latin's local argument boundaries across page breaks rather than stopping mechanically at page edges
+- cross-linked the general pilot-graduation rule with the concrete leaf-85/86 non-promotion decision in `reading/cassirer-vol1-self-consciousness-crosswalk.md`
+- added a thesis-level glossary entry for `Affectio enim ex sapore nascitur, sapor ex posse`
+
+Longer-arc assessment: the campaign is now rich enough that absorption should lead the next substantial move. A direct Part II self-consciousness locus, especially `P. II, Lib. VI, Cap. VI, Art. 9` on `intellectione abdita per suam essentiam`, remains the bounded opening that would test leaf 85/86's encounter-candidacy. The follow-on absorption should be a Cassirer Vol. 2 Part 018 crosswalk using leaf 438's `mensura sui` limit, encounter 001 at leaf 906, the Part II primalities triad at leaves 449-450, and the gustus/sapere/sapor chain. The numeric page-order continuation is still available, but should be treated as a separate workflow-normalization decision rather than bundled into this absorption arc.
+
+## 2026-05-15 — Page-Order Trial Started From Leaf 23 Right Column
+
+Opened the third longer-arc lane as an explicit numeric page-order trial:
+
+- `parts/001-leaf-0023-art-iii-animal-odor-touch-weight.md`
+- newly extracted raw continuation: `source/raw/leaf-0024-art-iii-sensory-skepticism-continuation-abbyy.txt`
+- newly normalized continuation: `source/normalized/leaf-0024-art-iii-sensory-skepticism-continuation-abbyy.normalized.txt`
+
+Extraction details: leaf 24 normalized from 25.53% OOD to 17.53% OOD. The part resumes the omitted right column of leaf 23 under `ART. III`, then continues only far enough into leaf 24 to complete the weight/tangible subsection before the hearing section marked `9`.
+
+Working finding: the page-order transition is viable, but physical-page boundaries alone are too crude. Leaf 23 ends mid-weight argument at `Idem docet Pondus`; a useful numeric part has to follow the local argument across the page break. Substantively, the skeptical sequence broadens the taste pilot into animal taste, smell, touch, and weight. Sensible qualities become `apparentiae` and `respectus`, not stable `entitates`.
+
+Apparatus uptake: added open glossary cluster `apparentia / respectus / entitas`; updated `gustatio / gustus` with the animal/habituation evidence; added a page-map anchor `campanella-page-001-art-iii-sensory-skepticism`; and changed `parts/README.md` so numeric `001-*` is named as a page-order trial, not a replacement for the concept-chain pilots.
+
+Re-entry options, with warrants rather than ranking:
+
+- continue numeric page-order with leaf 24 section `9`, hearing
+- follow the Cassirer Vol. 1 crosswalk into a direct Part II self-consciousness locus
+- return to leaf 439 `ART. VI` if following the leaf-438 Part II wisdom/primalities sequence
+- absorb leaf 438 into Cassirer Vol. 2 Part 018 if following intrinsecation toward Spinoza
+
+## 2026-05-15 — Cassirer Vol. 1 Self-Consciousness Crosswalk Absorbed
+
+Opened the second longer-arc lane as a reading crosswalk rather than another Latin slice:
+
+- `reading/cassirer-vol1-self-consciousness-crosswalk.md`
+
+Working finding: leaf 85/86 is more important after cross-mapping, but it should not yet be promoted to an encounter. It is an exact opened support for Cassirer's Vol. 1 Part 64 occasion/specification argument (`passio sciendi causa activa non est... occasio specificativa`; `scientia non acquiritur, sed scibilia acquiruntur`) and a strong Part I analogue for the self-consciousness problem. But Cassirer's direct self-consciousness loci are still unopened Part II citations: `P. II, Lib. VI, Cap. III, Art. 5` for the cogito precursor, `Cap. VIII, Art. V` for `esse animae... est cognitio sui`, and `Cap. VI, Art. 9` for `intellectione abdita per suam essentiam`.
+
+Method decision: keep `parts/pilot-self-knowledge-abdita-and-primality.md` as an encounter-candidate, not an encounter. Promotion would be earned by opening at least one direct Part II self-consciousness locus and cross-reading it against leaf 85.
+
+Pipeline caution: the citation `P. II, Lib. VI, Cap. XI, Art. V. (T. II, S. 83.)` in Cassirer's Part 64 source note should be raw-checked before use. The current page-map places `Cap. XI, Art. I` on inferred Part II page 83, so the clean Art. V/page-83 pairing may hide the same normalization/citation-damage failure mode already seen in files 64 and 65.
+
+Re-entry options, with warrants rather than ranking:
+
+- locate and open `P. II, Lib. VI, Cap. VI, Art. 9` if following the direct `intellectione abdita` self-consciousness chain
+- test page-order work from leaf 23 right column or leaf 28 lower half if shifting toward the Lotman-like horizon
+- return to leaf 439 `ART. VI` if following the leaf-438 Part II wisdom/primalities sequence
+- absorb leaf 438 into a Cassirer Vol. 2 Part 018 crosswalk if following intrinsecation toward Spinoza
+
+## 2026-05-15 — Leaf 438 Opened, Wisdom And The Measure Of Truth
+
+Opened the internally warranted `sapientia` / `intrinsecatur` continuation at leaf 438:
+
+- `parts/pilot-sapientia-mensura-entis-veri.md`
+- raw extract: `source/raw/leaf-0438-sapientia-mensura-entis-veri-abbyy.txt`
+- normalized extract: `source/normalized/leaf-0438-sapientia-mensura-entis-veri-abbyy.normalized.txt`
+
+Extraction details: leaf 438 normalized from 34.61% OOD to 21.71% OOD. The target is `ART. V`, beginning `Sapientiam non doceri...` and ending before leaf 439's `ART. VI`. The printed page is inferred as Part II page 72 from a damaged leaf-438 header plus leaf 439's header `73`; the chapter number is probably `Caput IX` but remains uncertain pending page-image collation.
+
+Working finding: leaf 438 makes wisdom neither simple teaching nor simple transfer. Added wisdom can be taught only if inborn wisdom is present; inborn wisdom is self-knowledge, but its purity and perfection are not automatically transmitted. The `mensura entis, & veri` phrase appears as a limit on finite cognition: even if the knower were intrinsecated into the received species, he would know them by the measure of himself, not by the measure of being and truth.
+
+Apparatus uptake: added glossary entries for `sapientia additicia / indita` and `mensura entis et veri / mensura sui`; updated `intrinsecari`, `sapere / sapientia / sapor`, `sagacitas`, and `Potentia / Sapientia / Amor` with leaf-438 evidence; added a leaf-438 page-map anchor with inferred-page provenance; and corrected the encounter-001 intrinsecation distribution row so leaf 438 is no longer described as a simple "wisdom requires intrinsecation" claim.
+
+Re-entry options, with warrants rather than ranking:
+
+- leaf 439 `ART. VI`, if following the newly opened Part II wisdom/primalities sequence into grades of primalities outside God
+- leaf 87 lower half, if returning to the self-knowledge/delirium chain
+- leaf 23 right column or leaf 28 lower half, if testing the transition into literal page-order work
+- Cassirer Vol. 2 Part 018 crosswalk, if absorbing the now-opened leaf 438 limitation back into the Spinoza/intrinsecation bridge
+
+## 2026-05-15 — Part II Triad Opened From Leaf-87 Warrant
+
+Opened the internally warranted Part II primalities target generated by leaf 87's `sed de hoc in 2. Parte erit sermo`:
+
+- `parts/pilot-part-ii-potentia-sapientia-amor.md`
+- raw extracts:
+  - `source/raw/leaf-0449-part-ii-tria-primalities-abbyy.txt`
+  - `source/raw/leaf-0450-part-ii-tria-primalities-continuation-abbyy.txt`
+- normalized extracts:
+  - `source/normalized/leaf-0449-part-ii-tria-primalities-abbyy.normalized.txt`
+  - `source/normalized/leaf-0450-part-ii-tria-primalities-continuation-abbyy.normalized.txt`
+
+Extraction details: leaf 449 normalized from 26.77% OOD to 19.10% OOD; leaf 450 normalized from 25.16% OOD to 15.80% OOD. The slice opens `Pars II, Liber VI, Caput XI, Articulus I`, beginning at `Reassumitur tractatio` on leaf 449 and ending before `ART. II` on leaf 450. Printed pages are inferred as 83-84 from damaged ABBYY headers and need page-image confirmation.
+
+Working finding: Part II gives the constitutive triad as `Potentia, Sapientia, & Amor`. This clarifies but does not close the leaf-85 `voluntas / amor` question: `amor` is the doctrinal third primality here, while `voluntas` may be a local or outward-facing faculty/principle register. The slice also distinguishes `primalitates` as essentializing being, `principia` as looking toward work, and causes as the outward causal level.
+
+Glossary uptake: added `Potentia / Sapientia / Amor`; updated `Sapientia est primalitas` and `voluntas / amor` with the leaf-449 evidence. The later Ernst harmony/providence pages, especially part II pp. 169b and 217, remain unopened; they are now a follow-on only if the campaign pursues `Amor` into `Harmonia`.
+
+Review uptake: added `primalitates / principia / causae` as its own open glossary entry; sharpened the `Iehovae ... coniux, & soror` translation risk by naming the genitive/dative case question; identified `Ego mater pulchrae dilectionis` as Sirach 24:18 in the older Vulgate enumeration; and changed the page-map entries for leaves 449-450 to `printed_page_inferred` fields so damaged ABBYY headers are not treated as verified printed pagination.
+
+## 2026-05-15 — Tenth Dubitation Opened, Innate/Illata Science
+
+Opened the next internally warranted dependency slice from the completed ninth-dubitation response:
+
+- `parts/pilot-innate-illata-science-dream-and-ecstasy.md`
+- raw extracts:
+  - `source/raw/leaf-0086-self-knowledge-primality-continuation-abbyy.txt`
+  - `source/raw/leaf-0087-tenth-dubitation-continuation-abbyy.txt`
+- normalized extracts:
+  - `source/normalized/leaf-0086-self-knowledge-primality-continuation-abbyy.normalized.txt`
+  - `source/normalized/leaf-0087-tenth-dubitation-continuation-abbyy.normalized.txt`
+
+Extraction details: leaf 87 normalized from 26.39% OOD to 16.67% OOD. The response runs from leaf 86 lower half into leaf 87 and ends before `Responsio ad Undecimam Dubitationem`; therefore the slice follows the natural response boundary rather than stopping at a leaf break.
+
+Working finding: the tenth-dubitation response turns the leaf-85 `notitia superaddita / innata & abdita` distinction into `scientia innata / illata`. The soul does not lose innate knowledge of its divine origin, but corporeal mass and introduced passions interrupt the use of that knowledge. Religion is defined as `reversio ad suum principium`, the return to one's own principle.
+
+The passage sorts non-ordinary cognition rather than simply validating or dismissing it. Waking and healthy perception have priority for corporeal/natural matters; dreams can still host revelation; the sick and weak may be better witnesses to hidden passions; divine matters are judged by miracles and transhumanation. The closing rule is Pauline: `spiritualis omnia iudicat`.
+
+Opus review flag folded in: the leaf-85/86 pilot now notes `praesentiscentes` as an anticipatory/inchoative translation risk and marks the file as encounter-candidate if it gets cross-mapped to Cassirer's Vol. 1 self-consciousness argument.
+
+Further review uptake: added open glossary entry `sagacitas` for `sagacitas enim est innatae notitiae scintilla`; verified against the leaf-86 page image that `CAP. IX. ART. V.` is a split heading line under the tenth-dubitation response, not a later article break at `Discrepantia opinionum`; and recorded leaf 87's `Primalitates suas ... sed de hoc in 2. Parte erit sermo` as an internal warrant for the Part II primalities zone. Lactantius on the Antipodes is noted only as a recurring-example candidate, not yet promoted.
+
+Re-entry options, with warrants rather than ranking:
+
+- `Responsio ad Undecimam Dubitationem` on leaf 87 lower half, if continuing the absorbed self-knowledge/delirium chain.
+- leaf 438, if following the internal `sapientia` / `mensura entis et veri` lexical chain.
+- part II primalities, if following the primary-text pointer from leaf 87 together with `Sapientia est primalitas` and the `voluntas / amor` question.
+- Cassirer Vol. 1 cross-map, if deciding whether the leaf-85/86 pilot should graduate to an encounter.
+
 ## 2026-05-15 — Non-Sequential Slice Progression Tightened
 
 Recorded a lighter slice-progression discipline in `parts/README.md` after the user's Opus review. The useful question is "what evidence warrants opening this slice?", but the answer should not harden into a fixed four-part taxonomy or ranked queue.
@@ -202,17 +431,17 @@ Three scripts under `scripts/`:
 
 ### Working finding
 
-The intrinsec family is volume-spanning (115 hits across 92 leaves). The substantive noun `intrinsecatio` is a single-occurrence nominalization at the Cassirer-anchor passage; verb and adjective forms develop the concept across a conceptual arc: gustatory phenomenology (leaf 23) → physical infusion of forms (leaf 210) → epistemological doctrine of sapientia (leaf 438) → God's immanence/transcendence (leaf 617) → cognitive form of beatitude (leaf 906). Cassirer's German paraphrase takes the climax phrase and abstracts it from this developmental chain, isolating the *form* (intuitive cognition as inner becoming-one) from the *substance* (the bodily figure of taste, the Christian-Platonist double-movement, the eschatological deferral).
+The intrinsec family is volume-spanning (115 hits across 92 leaves). The substantive noun `intrinsecatio` is a single-occurrence nominalization at the Cassirer-anchor passage; verb and adjective forms develop the concept across a conceptual arc: gustatory phenomenology (leaf 23) → physical infusion of forms (leaf 210) → epistemological doctrine of sapientia (leaf 438) → God's immanence/transcendence (leaf 617) → cognitive form of beatitude (leaf 906). The later 2026-05-15 absorption audit tightens this initial smooth arc: opened leaves 28, 402, and 438 add alteration, self-intellection, and finite-measure constraints. Cassirer's German paraphrase takes the climax phrase and abstracts it from this developmental chain, isolating the *form* (intuitive cognition as inner becoming-one) from the *substance* (the bodily figure of taste, the Christian-Platonist double-movement, the eschatological deferral).
 
 The Spinoza connection Cassirer draws sits on the formal endpoint alone. The deeper Bruno / Cusanus / Aquinas connection would sit at leaf 617's metaphysical register and at the gustatio foundation on leaf 23.
 
 ### Re-entry
 
-Three primary-contact targets remain, each grounded in passages already identified by the cross-volume grep:
+Initial primary-contact targets, later partly resolved by the 2026-05-15 substrate work:
 
-1. **Leaf 23 `gustus` passage** — the foundational use where intrinsecation enters as taste's mode of operation ("this sense alone is intrinsecated into the object"). Without this, the conceptual chain in encounters 001/002 starts mid-air.
-2. **Leaf 438 epistemology passage** — "[the fool] nesciret se illa cogniturum non mensura entis, & veri, sed mensura sui." Where intrinsecation becomes the criterion for *sapientia* against ordinary cognition. Connects directly to the `Cognoscere est fieri rem cognitam` claim from encounter 001.
-3. **Crosswalk back to Cassirer Vol. 2 Part 018** — read what Cassirer is *doing* in the German prose immediately around the Campanella citation and write `reading/erk-vol2-campanella-crosswalk.md` (matching the Gassendi pattern).
+1. **Leaf 23 `gustus` passage** — now opened in `parts/pilot-gustus-sapientia-and-intrinsecatio.md`; it supplies the bodily phenomenology base for encounters 001/002.
+2. **Leaf 438 epistemology passage** — now opened in `parts/pilot-sapientia-mensura-entis-veri.md`; the key finding is the `mensura sui` limit on finite intrinsecation.
+3. **Crosswalk back to Cassirer Vol. 2 Part 018** — now opened as `reading/cassirer-vol2-part018-intrinsecation-crosswalk.md`; the current decision is to keep hardening it as a working absorption artifact before creating a composite dossier.
 
 ### Smaller pipeline items still open
 

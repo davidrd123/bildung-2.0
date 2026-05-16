@@ -38,8 +38,9 @@ Local campaign contact:
 
 - `parts/pilot-self-knowledge-abdita-and-primality.md` opens the ninth-dubitation response from JP2 leaf 85 / printed page 73 through the top of leaf 86 / printed page 74.
 - The slice includes `notitia ... superaddita`, `innata & abdita`, the pupil/stone-color example, `Sapientia est primalitas sicut potestas...`, and the continuation's `Sapientia autem est sanitas orbis terrarum`.
+- `parts/pilot-innate-illata-science-dream-and-ecstasy.md` opens the immediate continuation: `Responsio ad Decimam Dubitationem`, on innate/illata science, dreams, ecstasy, and the soul's return to God.
 
-The immediate local continuation, if we stay in this lane, is leaf 86 lower half: `Responsio ad Decimam Dubitationem`, on innate/illata science, dreams, ecstasy, and the soul's return to God.
+The next local continuation, if we stay in this lane, is leaf 87 lower half: `Responsio ad Undecimam Dubitationem`, on the deliria of philosophers.
 
 ### C. Primalities And Harmony
 
@@ -53,7 +54,9 @@ Primary citations in Ernst:
 
 Current campaign contact:
 
-- Encounter 002 is in part II and gives a metaphysical ascent anchor, but the primalities/harmony zone itself is not yet opened.
+- `parts/pilot-part-ii-potentia-sapientia-amor.md` opens the internally warranted Part II triad at JP2 leaves 449-450: `Potentia, Sapientia, & Amor`, with Wisdom from Power and Love from both.
+- Encounter 002 is in part II and gives a metaphysical ascent anchor, but the later great-influences/harmony pages Ernst cites are not yet opened.
+- The leaf-86/87 tenth-dubitation pilot now gives an internal pointer toward this zone: `uti per Primalitates suas ad superiora`, with Campanella deferring the issue to `2. Parte`.
 - Adami's preface is a separate witness problem; it may deserve its own source scaffold rather than being folded into the *Metaphysica* parts stream.
 
 ### D. Abstract Substances, Soul, Cosmology
@@ -74,11 +77,11 @@ Current campaign contact:
 
 ## Queue Implication
 
-If continuing the self-knowledge concept chain, the next candidate is JP2 leaf 86 lower half: `Responsio ad Decimam Dubitationem`, because it follows directly from the opened ninth-dubitation response into innate/illata science.
+If continuing the self-knowledge concept chain, the next local candidate is JP2 leaf 87 lower half: `Responsio ad Undecimam Dubitationem`, because the tenth-dubitation response now ends just before it.
 
 If switching to page-order transcription/translation, do not jump to Ernst's page-73 citation. Start numeric `NNN-*` files at the next literal page-order point instead: the omitted leaf-23 right column or the lower half of leaf 28.
 
-If broadening beyond the knowledge/intrinsecation chain, the largest structural gap exposed by Ernst is part II primalities/harmony, especially part II pp. 169b and 217.
+If following the primalities question further, Part II pp. 169b and 217 remain later harmony/providence targets. The direct triad itself is now opened at leaves 449-450.
 
 ## Method Cautions
 

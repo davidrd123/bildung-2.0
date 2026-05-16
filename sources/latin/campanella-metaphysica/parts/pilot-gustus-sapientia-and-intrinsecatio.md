@@ -54,10 +54,10 @@ Likewise, what tastes sweet and pleasant to one person is unpleasant to another.
 
 - `sapientia`, `sapere`, and `sapor` are deliberately fused. English cannot keep the triple sense of wisdom, tasting, and savor without awkwardness, so the translation uses "taste/know" at the pressure points.
 - `solus hic sensus intrinsecatur obiecto` is the first major verbal foothold for the later noun `intrinsecatio`. At this stage the term is still phenomenological: taste has the object inside its operation, not merely in an image or surface.
-- Case note: `obiecto` is dative. The translation's "with the object" is provisional English, not a decision that the relation is mere accompaniment; revisit the case grammar when leaf 438 brings `intrinsecatur` and `intrinsecaretur` back under epistemological pressure.
+- Case note: `obiecto` is dative. The translation's "with the object" is provisional English, not a decision that the relation is mere accompaniment. Leaf 438 is now opened as the epistemological limit case: even if the knower were intrinsecated, finite cognition remains by `mensura sui`, not `mensura entis, & veri`.
 - The phrase `obiectum illi totum` is elliptical in the print/OCR. The translation supplies "[is present]" only to make the syntax readable; the Latin should remain open until checked against a high-resolution page crop.
 - The argument is double-edged. Taste is the sense that most nearly deserves the name of wisdom, but its variability is precisely what blocks sense from being wisdom.
-- The right column of leaf 23 continues under `ART. III` into animals, smell, touch, and weight. This part stops at the end of the left-column taste argument.
+- The right column of leaf 23 continues under `ART. III` into animals, smell, touch, and weight. That continuation is now opened as the first numeric page-order trial, `001-leaf-0023-art-iii-animal-odor-touch-weight.md`.
 - Encounter 001's beatitude passage depends on this logic: sight and touch do not nourish; only tasting/eating does. Leaf 23 explains why tasting can bear that cognitive metaphor and why sensory tasting still needs to be surpassed.
 
 ## Translation Risk
@@ -68,6 +68,6 @@ OCR/textual: `obiectum illi totum` and the physical account of `calor nativus cu
 
 ## Re-entry
 
-- Continue the right-column `ART. III` on animals, odor, touch, and weight if the next goal is to map the whole skeptical sensory sequence.
+- Cross-read the numeric `001-*` page-order trial for the right-column `ART. III` continuation on animals, odor, touch, and weight.
 - Open the leaf-28 pepper passage, where `intrinsecatur` describes the nature of the thing entering us through heat.
-- Then return to leaf 438, where intrinsecation becomes an epistemological condition for `sapientia` and `mensura entis et veri`.
+- Cross-read the now-opened leaf-438 pilot, where intrinsecation is tested against `sapientia` and `mensura entis, & veri`.
