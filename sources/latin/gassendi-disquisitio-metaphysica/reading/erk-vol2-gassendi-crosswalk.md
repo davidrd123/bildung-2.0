@@ -90,6 +90,16 @@ Sequential translation now begins at this direct anchor:
 - `sources/latin/gassendi-disquisitio-metaphysica/parts/078-formal-proof-and-divine-power.md`
 - `sources/latin/gassendi-disquisitio-metaphysica/parts/079-criterion-triangle-and-complete-things.md`
 - `sources/latin/gassendi-disquisitio-metaphysica/parts/080-complete-substances-and-inadequate-cognition.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/081-assumption-special-extension-and-concrete-subject.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/082-parity-proof-and-intellectual-separation.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/083-corporeal-species-and-unextended-mind.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/084-response-pure-intellection-and-corporeal-species.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/085-intelligible-species-and-separated-mind.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/086-aspectual-clarity-and-thinking-thing.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/087-shared-blindness-and-hidden-mind.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/088-nonextension-bucephalus-and-private-principle.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/089-mind-body-mixture-and-pain.md`
+- `sources/latin/gassendi-disquisitio-metaphysica/parts/090-response-union-and-nonimagined-parts.md`
 
 ## Related Vol. 2 Gassendi Material
 
@@ -143,6 +153,24 @@ Current use:
 - Part 078: Gassendi reconstructs the separability proof as private self-persuasion rather than public method, and splits divine power into absolute theology or ordinary natural concurrence, neither of which supplies the needed natural demonstration.
 - Part 079: Gassendi asks for a criterion of separability and frames the next problem: Descartes' complete-entity restriction may already assume what the mind-body proof must establish.
 - Part 080: Gassendi argues that the complete-substance restriction begs the question and that finite, inadequate cognition cannot rule out an indivisible nexus binding thought and extension.
+- Part 081: Gassendi applies the objection to Descartes' assumption by distinguishing generic abstraction from complete cognition of the concrete disputed subject, sharpening Cassirer's problem of concept-formation against real constitution.
+- Part 082: Gassendi converts the critique into a parity proof: the same conceptual-separation form can prove that mind is not incorporeal, so conceptual isolation cannot bear the weight of real constitution or real separation.
+- Part 083: Gassendi reopens the image/species problem by asking how an unextended mind could receive or use a corporeal species of body, and by denying that a negative self-description gives a positive clear idea of mind.
+- Part 084: Descartes gives the counter-pole to that image/species pressure by distinguishing pure intellection from imagination: no corporeal species is received in mind, though imagination applies mind to an extended bodily species.
+- Part 085: Gassendi answers by asking whether intellectual cognition of body still requires an incorporeal or intelligible species, and uses separated mind without brain to reopen the question of how extension, figure, and color can be present to intellect.
+- Part 086: Gassendi turns the blind-man/sun reply against `res cogitans`: knowing mind as thinking thing is treated as aspectual knowledge of an operation, not clear knowledge of mind's nature or substance.
+- Part 087: Gassendi denies that common human blindness about mind can become evidence that mind contains nothing beyond thought, using telescopic discovery and hidden-interior examples to separate lack of refutation from exhaustive knowledge.
+- Part 088: Gassendi treats Descartes' non-extension answer as a negative marker and then as a begged conclusion when used against whole-body union; he also reconstructs the clear-and-distinct self-idea as a private fixed principle rather than public demonstration.
+- Part 089: Gassendi shifts the union problem into pain, hunger, and thirst. Descartes' quasi-mixture and confused-mode vocabulary becomes, for Gassendi, a demand to explain how corporeal alteration can communicate with an incorporeal, unextended, indivisible mind.
+- Part 090: Descartes answers by refusing the comparison between mind-body union and body-body mixture, and by treating Gassendi's part-location pressure as an imagination-bound category mistake.
+- Part 091: Gassendi answers the counter-pole by making the methodological stakes explicit: doubts against conclusions are objections against reasons, `toto genere diversa` begs the mind-body question, and representative/objective presence through idea or species does not dissolve the problem of how a partless mind or idea can represent parts.
+- Part 092: Gassendi gives that species problem an optical model. Retinal image, brain species, and separated-mind species need not equal the object's size or part-count, but they must have some extension if they are to represent extension and parts.
+- Part 093: Gassendi marks the final Sixth Meditation heads as a `Praeteritio`: sensory reliability for bodily utility, dream/waking distinction by memory-continuity, divine non-deception, and human weakness are summarized rather than yet contested. Descartes answers by treating the passage as non-contradictory verbosity.
+- Part 094: Gassendi rejects that dismissal by distinguishing deliberate passing-over from failed contradiction. He reconstructs a waking/dreaming certainty argument that depends on the prior God/non-deception proof, then treats Descartes' prolixity charge as rhetoric aimed at reader judgment rather than substance.
+- Part 095: Gassendi's `Conclusio` is not a new Cassirer pressure point, but it records the social-method frame around the objections: judgment is fallible and taste-like, disagreement need not force assent, and friendship can survive severe methodological critique.
+- Part 096: Descartes' answer restores esteem for the "true Gassendi" while preserving his claim that the objections have not attacked his reasons or conclusions in any way difficult to answer. The direct Cassirer pressure remains pending until the final answer tests this claim.
+- Part 097: The final answer gives the campaign's closing methodological formula: Gassendi does not attack the truths of God or soul-immortality, but the demonstrative energy of Descartes' reasonings. This preserves Cassirer's contrast between accepted metaphysical conclusions and the form of justification claimed for them.
+- Part 098: `POSTREMA` is apparatus rather than argument. Its omitted page-95 passage may matter for the mind-attribute and sensation/thought lines, but it needs cleaner collation before being used as Cassirer pressure.
 
 ## Boundary
 

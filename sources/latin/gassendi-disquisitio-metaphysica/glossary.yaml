@@ -59,7 +59,7 @@
   alternatives:
     - "understanding"
   status: open
-  notes: "In the sun passage the idea is amplified `ipsa vi mentis`. This is exactly where Cassirer applies pressure: the mind's power is invoked but not grounded by Gassendi's sensory theory. Part 069 records Descartes' counterpressure: in the true idea of mind, only thought and its non-corporeal attributes are contained. Part 071 gives Gassendi's reply: mind may not be able to turn to itself or to a non-corporeal idea without imagination, and finite mind thinks divine or immaterial natures only under accommodated corporeal forms. Part 074 shifts the mind-body issue from gross-body separation to the unproved claim that mind is purely incorporeal rather than a subtle body. Part 075 gives Descartes' answer: mind can be understood as an existing substance even when no wind, fire, vapor, breath, or subtle body is understood to exist. Part 077 answers that mind considered precisely as thinking thing or substance still leaves open whether it is subtle body or incorporeal."
+  notes: "In the sun passage the idea is amplified `ipsa vi mentis`. This is exactly where Cassirer applies pressure: the mind's power is invoked but not grounded by Gassendi's sensory theory. Part 069 records Descartes' counterpressure: in the true idea of mind, only thought and its non-corporeal attributes are contained. Part 071 gives Gassendi's reply: mind may not be able to turn to itself or to a non-corporeal idea without imagination, and finite mind thinks divine or immaterial natures only under accommodated corporeal forms. Part 074 shifts the mind-body issue from gross-body separation to the unproved claim that mind is purely incorporeal rather than a subtle body. Part 075 gives Descartes' answer: mind can be understood as an existing substance even when no wind, fire, vapor, breath, or subtle body is understood to exist. Part 077 answers that mind considered precisely as thinking thing or substance still leaves open whether it is subtle body or incorporeal. Part 083 asks where mind is if it is unextended: diffused through the whole body, in the brain, or in a point, each option creating pressure on extension and embodiment. Part 084 gives Descartes' immediate answer: mind may be united to the whole body and move body without being extended or corporeal. Part 085 uses separated mind to test the answer: if mind without brain can still understand bodies, Gassendi asks where the species of body is present. Part 086 argues that knowing mind as `res cogitans` gives only the operation of thinking, not the nature or substance of mind. Part 087 concedes common knowledge of thinking, doubting, affirming, denying, imagining, willing, and sensing, while denying that this exhausts mind's hidden nature. Part 088 returns to non-extension as a negative marker and argues that whole-body union keeps the extension problem alive unless Descartes can say more than that extension is not of mind's `ratio`. Part 089 uses pain, hunger, and thirst to test whether an unextended, indivisible mind can be quasi-mixed with body or receive differentiated bodily affections. Part 091 makes the same pressure methodological: mind's alleged non-extension does not explain how it is present to many bodily parts or how an idea/species in mind represents extended parts."
 
 - term: "species / imago / phantasia"
   handle: "term:gassendi-species-imago-phantasia"
@@ -69,7 +69,7 @@
     - "species / image / phantasy"
     - "sensible species / image / imagination"
   status: open
-  notes: "The surrounding passage says the mind returns to the `species` received through the eye, and Descartes replies that Gassendi restricts `idea` to images painted in `phantasia`. This cluster is the local source of Cassirer's `Bildertheorie` pressure. Part 035 makes optical species central again: microscope, telescope, and near/far viewing show that a more distinct species or idea can also be larger because more parts are represented."
+  notes: "The surrounding passage says the mind returns to the `species` received through the eye, and Descartes replies that Gassendi restricts `idea` to images painted in `phantasia`. This cluster is the local source of Cassirer's `Bildertheorie` pressure. Part 035 makes optical species central again: microscope, telescope, and near/far viewing show that a more distinct species or idea can also be larger because more parts are represented. Part 083 makes the species problem explicit in Meditation VI: a corporeal species or idea representing an extended body seems itself to need parts, extension, figure, position, and variety, and so appears hard to receive in an unextended mind. Part 084 gives Descartes' reply: no corporeal species is received in mind; only imagination requires a bodily species to which mind applies itself. Part 085 answers that Descartes has not settled whether intellect knows body through an incorporeal species or no species, then argues from the paper example and separated mind that some species of extension, figure, and color must still be present to intellect. Part 091 answers Descartes' earth-magnitude reductio by distinguishing representative/objective presence from real containment, while preserving the pressure that a species representing parts cannot simply be partless. Part 092 supplies the optical model: retinal image, brain species, and separated-mind species need not have the object's size or part-count, but must have some extension if they represent extended parts."
 
 - term: "consecutio / analogia"
   handle: "term:gassendi-consecutio-analogia"
@@ -176,7 +176,16 @@
     - "self-idea / reflected cognition"
     - "idea of oneself / reflective knowledge"
   status: open
-  notes: "Part 008 denies direct self-idea on the species model. A faculty cannot send its own species into itself; self-knowledge would require a mirror-like return and so would be `cognitio reflexa`, not direct self-presence."
+  notes: "Part 008 denies direct self-idea on the species model. A faculty cannot send its own species into itself; self-knowledge would require a mirror-like return and so would be `cognitio reflexa`, not direct self-presence. Part 083 renews the pressure from the side of self-knowledge: knowing that one thinks reveals an operation, not the substance that operates, and saying that one is non-extended gives a negation rather than a positive idea. Part 086 gives the same pressure its blind-man form: to know mind only as thinking thing is like knowing the sun only as heating thing."
+
+- term: "res cogitans / res calefaciens"
+  handle: "term:gassendi-res-cogitans-calefaciens"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "thinking thing / heating thing"
+  status: open
+  notes: "Part 086 makes the pair structurally explicit. Gassendi treats `res cogitans` as an aspectual predicate parallel to the blind man's `res calefaciens`: each names an operation through which the thing is known, while the nature or substance covered by `res` remains obscure. Part 087 concedes that Gassendi knows mind under the same operations Descartes names, but denies that Descartes may infer there is nothing in mind beyond them."
 
 - term: "substantia incorporea / substantia corporea"
   handle: "term:gassendi-substantia-incorporea-corporea"
@@ -185,7 +194,27 @@
   alternatives:
     - "incorporeal substance / corporeal substance"
   status: open
-  notes: "Part 008 challenges the passage from an incorporeal self-idea to ideas of corporeal substance. A common notion such as being apt to exist presupposes prior understanding of both particulars. Part 074 repeats the challenge in Meditation VI: Descartes has shown at most distinction from the gross body, not that mind is not wind, fire, vapor, breath, or some subtle body. Part 075 records Descartes' denial: the proof concerns every body, however subtle, and the Sixth Meditation has demonstrated real difference from all body. Part 077 replies that precise consideration as substance abstracts from both corporeal and incorporeal differences, so incorporeality has not yet been proved."
+  notes: "Part 008 challenges the passage from an incorporeal self-idea to ideas of corporeal substance. A common notion such as being apt to exist presupposes prior understanding of both particulars. Part 074 repeats the challenge in Meditation VI: Descartes has shown at most distinction from the gross body, not that mind is not wind, fire, vapor, breath, or some subtle body. Part 075 records Descartes' denial: the proof concerns every body, however subtle, and the Sixth Meditation has demonstrated real difference from all body. Part 077 replies that precise consideration as substance abstracts from both corporeal and incorporeal differences, so incorporeality has not yet been proved. Part 081 narrows the proof to the disputed human case: the question is not thinking or extension in general, but whether human mind has a special extension as the same subtle body. Part 083 grants possible separation from the gross body for argument, but says that still leaves mind as a very subtle corporeal substance rather than proving incorporeality. Part 084 records Descartes' counter: using an extended body, being united to it, and moving it do not make mind extended or body. Part 085 introduces angels and separated mind as test cases: separated substances should understand bodies without brains, which reopens the species-location problem. Part 088 presses the contact and motion version: saying that mind need not be body even if it moves body still leaves unexplained how an incorporeal, unextended soul can touch, impel, and move body. Part 089 presses the affective version: pain appears to require part-distraction, continuity-break, alteration, and differentiated reception, all of which strain a plainly incorporeal and indivisible mind. Part 091 states the disputed alternative directly: the question is whether mind is a subtle body or wholly incorporeal, so `toto genere diversa` cannot be used as an answer without begging the point."
+
+- term: "unio / conjunctio / commixtio"
+  handle: "term:gassendi-unio-conjunctio-commixtio"
+  kind: concept_cluster
+  preferred: null
+  alternatives:
+    - "union / conjunction / commixture"
+    - "joining / quasi-mixture / confusion"
+  status: open
+  notes: "Part 089 makes this cluster explicit through Descartes' sailor-in-ship contrast. Gassendi accepts the reported phenomenon of close union and quasi-mixture as the point to be explained, then asks how conjunction, mixture, composition, or confusion can occur without parts and without some proportion between corporeal and incorporeal. Part 090 gives Descartes' answer: mind-body union and body-body mixture are `toto genere diversa`, so no comparison should be established between them. Part 091 answers that this is not a solution but the disputed question repeated; if the cases are wholly different, Descartes still owes an account of what quasi-mixture on the side of mind means."
+
+- term: "sensus doloris / fames / sitis"
+  handle: "term:gassendi-sensus-doloris-fames-sitis"
+  kind: concept_cluster
+  preferred: null
+  alternatives:
+    - "sense of pain / hunger / thirst"
+    - "pain, hunger, and thirst"
+  status: open
+  notes: "Part 089 treats pain, hunger, and thirst as Descartes' own evidence for mind-body union. Gassendi then turns pain into a structural test: pain seems to involve disruption of parts, break in continuity, alteration, and differentiated reception from bodily parts such as foot and arm."
 
 - term: "voces / significatus"
   handle: "term:gassendi-voces-significatus"
@@ -281,7 +310,7 @@
     - "fraud / deception"
     - "deceit / deception"
   status: open
-  notes: "Part 032 isolates Descartes' conclusion that God cannot be deceptive. Gassendi treats the conclusion as strategically stored for later use, because the defectlessness premise has not yet been demonstrated. Part 072 shifts sensory fallacy away from passive sense and into judgment or mind, while still allowing that deception sometimes occurs. Part 073 refuses the slide from sometimes deceived to always deceived, and treats dream, deceiving-God, and malicious-Genius arguments as insufficient against corrected sensory evidence."
+  notes: "Part 032 isolates Descartes' conclusion that God cannot be deceptive. Gassendi treats the conclusion as strategically stored for later use, because the defectlessness premise has not yet been demonstrated. Part 072 shifts sensory fallacy away from passive sense and into judgment or mind, while still allowing that deception sometimes occurs. Part 073 refuses the slide from sometimes deceived to always deceived, and treats dream, deceiving-God, and malicious-Genius arguments as insufficient against corrected sensory evidence. Part 093 summarizes Descartes' final use of divine non-deception to secure such matters and records Gassendi's passing approval before the following `Instantia` reopens the point. Part 094 reopens it by reconstructing waking certainty as depending only now on the prior proof that God exists and is not deceptive."
 
 - term: "sensus / judicium"
   handle: "term:gassendi-sensus-judicium"
@@ -291,7 +320,7 @@
     - "sense / judgment"
     - "sensation / judgment"
   status: open
-  notes: "Part 072 introduces the Sixth Meditation sensory-truth dispute by separating passive sense from judgment. Sense reports appearances as they appear from their causes; falsity belongs to judgment or mind when it fails to handle distance, conditions, or other causes circumspectly. Part 073 tests the distinction through corrected tower evidence: nearness, touch, measured faces, and counted angles can remove the cause of distant error."
+  notes: "Part 072 introduces the Sixth Meditation sensory-truth dispute by separating passive sense from judgment. Sense reports appearances as they appear from their causes; falsity belongs to judgment or mind when it fails to handle distance, conditions, or other causes circumspectly. Part 073 tests the distinction through corrected tower evidence: nearness, touch, measured faces, and counted angles can remove the cause of distant error. Part 093 summarizes the later Cartesian reassurance: in matters concerning bodily convenience, the senses indicate truth much more often than falsehood."
 
 - term: "praejudicium / verisimilitudo"
   handle: "term:gassendi-praejudicium-verisimilitudo"
@@ -349,7 +378,7 @@
   alternatives:
     - "fallacious inference"
   status: open
-  notes: "Part 014 names Descartes' infinite-substance inference a `paralogismus`. The error begins when the negative word `infinitum` is treated as positive comprehension and when the same inference is not allowed to the ancient philosophers' infinite universe, worlds, and principles. Parts 021-022 extend the paralogism charge to the temporal conservation argument, where an obscure nature of time is made to carry a heterogeneous deduction. Part 076 applies the charge to the mind-body proof: separate concepts do not by themselves entail real separation."
+  notes: "Part 014 names Descartes' infinite-substance inference a `paralogismus`. The error begins when the negative word `infinitum` is treated as positive comprehension and when the same inference is not allowed to the ancient philosophers' infinite universe, worlds, and principles. Parts 021-022 extend the paralogism charge to the temporal conservation argument, where an obscure nature of time is made to carry a heterogeneous deduction. Part 076 applies the charge to the mind-body proof: separate concepts do not by themselves entail real separation. Part 082 exposes the paralogism by parody: the same form can be used to prove that mind is not incorporeal."
 
 - term: "demonstratio / authoritas"
   handle: "term:gassendi-demonstratio-authoritas"
@@ -358,7 +387,7 @@
   alternatives:
     - "demonstration / authority"
   status: open
-  notes: "Part 011 distinguishes public demonstration from private authority. A proof based on Descartes' report about his own idea may persuade by personal authority, but does not have the force of a general demonstration. Part 076 repeats the structure for divine possibility: if Descartes' own distinct perception is the rule, the reasons may demonstrate something to Descartes but not to others. Part 078 makes the methodological standard explicit: legitimate method addresses another person by exposing principles simply, not by turning the author's self-persuasion into authority."
+  notes: "Part 011 distinguishes public demonstration from private authority. A proof based on Descartes' report about his own idea may persuade by personal authority, but does not have the force of a general demonstration. Part 076 repeats the structure for divine possibility: if Descartes' own distinct perception is the rule, the reasons may demonstrate something to Descartes but not to others. Part 078 makes the methodological standard explicit: legitimate method addresses another person by exposing principles simply, not by turning the author's self-persuasion into authority. Part 088 gives the mind-body version: Descartes' clear idea of himself as thinking and non-extended is recast as a private fixed principle that all mortals are then supposed to accept as a principle of demonstration. Part 091 makes the review rule explicit: doubts against conclusions remain objections against reasons, and answering by restating the question or one's authority is not satisfaction. Part 097 closes the campaign by separating truth of conclusions from demonstrative force: Gassendi says the dispute concerns the energy of the reasoning Descartes calls demonstration, not the truth of God or soul-immortality."
 
 - term: "substantia / accidens"
   handle: "term:gassendi-substantia-accidens"
@@ -377,7 +406,16 @@
     - "precise consideration"
     - "abstraction under one aspect"
   status: open
-  notes: "Part 077 makes `praecisio` the hinge of the subtle-body reply. To consider a human being precisely as rational does not prove he is not animal; likewise, to consider mind precisely as thinking thing or substance does not prove that it is not subtle body or that it is incorporeal."
+  notes: "Part 077 makes `praecisio` the hinge of the subtle-body reply. To consider a human being precisely as rational does not prove he is not animal; likewise, to consider mind precisely as thinking thing or substance does not prove that it is not subtle body or that it is incorporeal. Part 082 turns precision into a parity argument: mind can be precisely understood without corporeality or without incorporeality, so precision alone cannot establish either exclusion."
+
+- term: "punctum physicum / punctum mathematicum"
+  handle: "term:gassendi-punctum-physicum-mathematicum"
+  kind: concept_pair
+  preferred: null
+  alternatives:
+    - "physical point / mathematical point"
+  status: open
+  notes: "Part 083 uses the distinction to test whether an unextended mind could be located in a brain-point. A physical point remains extended and partite; a mathematical point exists only in imagination and cannot receive bodily nerves, spirits, directions, or contact. Part 088 repeats the location problem as an unresolved union question: whole body, whole brain, sensible brain part, physical point, or mathematical point. Part 089 makes the point-pressure affective: if mind is no larger than a point, or even more indivisible than a point, Gassendi asks how it can be joined to a whole body or altered by pain. Part 092 extends the pressure to representation: a species that represents parts and extension must be at least more extended than a mathematical point."
 
 - term: "distinctio formalis / distinctio realis"
   handle: "term:gassendi-distinctio-formalis-realis"
@@ -387,7 +425,7 @@
     - "formal distinction / real distinction"
     - "modal distinction / real distinction"
   status: open
-  notes: "Part 079 introduces Descartes' distinction between formal or modal distinction among incomplete entities and real distinction among complete entities. Gassendi stages this as the answer to his triangle-property counterexample and prepares to test whether the mind-body proof assumes the complete-entity status it must prove. Part 080 presses that charge directly: Descartes uses real distinction or complete-substance status as the middle term in a proof meant to establish it."
+  notes: "Part 079 introduces Descartes' distinction between formal or modal distinction among incomplete entities and real distinction among complete entities. Gassendi stages this as the answer to his triangle-property counterexample and prepares to test whether the mind-body proof assumes the complete-entity status it must prove. Part 080 presses that charge directly: Descartes uses real distinction or complete-substance status as the middle term in a proof meant to establish it. Part 081 applies the formal-distinction examples to same-subject cases: motion and figure in one rolling globe, divine justice and mercy in one God, and triangle properties in one triangle do not license a move to real distinction."
 
 - term: "cognitio adaequata / inadaequata"
   handle: "term:gassendi-cognitio-adaequata-inadaequata"
@@ -396,7 +434,7 @@
   alternatives:
     - "adequate cognition / inadequate cognition"
   status: open
-  notes: "Part 080 attacks Descartes' attempt to avoid requiring adequate cognition for real distinction. If adequate cognition contains all properties in the known thing, Gassendi says only God has it, or we know it only by revelation; all human cognition abstracts and remains inadequate."
+  notes: "Part 080 attacks Descartes' attempt to avoid requiring adequate cognition for real distinction. If adequate cognition contains all properties in the known thing, Gassendi says only God has it, or we know it only by revelation; all human cognition abstracts and remains inadequate. Part 081 puts the point to work locally: a complete or adequate notion of the disputed subtle body would have to include the thinking that may be in it, and a complete notion of mind would have to include the extension that may be in it. Part 087 returns to the same standard through instrument and access examples: lack of a witness, telescope, or doorkeeper does not prove that God placed nothing more in a thing than what we know."
 
 - term: "idea rei / accidentia"
   handle: "term:gassendi-idea-rei-accidentia"
@@ -453,7 +491,7 @@
     - "intellection / imagination"
     - "understanding / imagination"
   status: open
-  notes: "Part 004 makes this the explicit dispute. Descartes says Gassendi confuses intellection with imagination; Gassendi demands a criterion and argues that if ideas in the intellect are images, intellect cannot understand bodies or substance without imagining. Part 068 reopens the dispute in Meditation VI: Gassendi treats intellection and imagination as one cognitive power varying by degrees of distinctness, exertion, confusion, and slackening, and argues that even ideas of immaterial things are corporeal or quasi-corporeal. Part 069 gives Descartes' answer: the chiliagon can be clearly understood without being wholly imagined, because intellection and imagination are two modes of operation, not degrees of one operation. Part 070 answers by demanding a definition of distinct perception and by reducing clear chiliagon-understanding to clarity of the name unless the figure's parts can be grasped one by one. Part 071 attacks the unproved premise that mind can understand by turning to itself or to non-corporeal ideas without imagination intervening."
+  notes: "Part 004 makes this the explicit dispute. Descartes says Gassendi confuses intellection with imagination; Gassendi demands a criterion and argues that if ideas in the intellect are images, intellect cannot understand bodies or substance without imagining. Part 068 reopens the dispute in Meditation VI: Gassendi treats intellection and imagination as one cognitive power varying by degrees of distinctness, exertion, confusion, and slackening, and argues that even ideas of immaterial things are corporeal or quasi-corporeal. Part 069 gives Descartes' answer: the chiliagon can be clearly understood without being wholly imagined, because intellection and imagination are two modes of operation, not degrees of one operation. Part 070 answers by demanding a definition of distinct perception and by reducing clear chiliagon-understanding to clarity of the name unless the figure's parts can be grasped one by one. Part 071 attacks the unproved premise that mind can understand by turning to itself or to non-corporeal ideas without imagination intervening. Part 084 states the distinction in its species form: pure intellection needs no corporeal species, while imagination needs an extended bodily species to which mind applies itself. Part 085 says the criterion remains missing: when the same paper is both imagined and understood, Gassendi sees no supplied mark by which the species before intellect differs from the species before imagination. Part 090 uses the distinction defensively: Descartes says Gassendi's doubts arise from calling things that do not fall under imagination back before imagination's examination. Part 091 rejects that defense unless intellection yields clear knowledge of what mind is; if it only says there is something beyond what is imagined, the distinction gives words rather than satisfaction."
 
 - term: "abstractio / deductio"
   handle: "term:gassendi-abstractio-deductio"
@@ -462,7 +500,7 @@
   alternatives:
     - "abstraction / deduction"
   status: open
-  notes: "Part 004 allows that substance is conceived by intellect through abstraction and deduction from consequence, but denies that this yields a proper clear idea."
+  notes: "Part 004 allows that substance is conceived by intellect through abstraction and deduction from consequence, but denies that this yields a proper clear idea. Part 081 gives abstraction a concrete role in the mind-body proof: the general notion of body contains only what is common to bodies, while complete notions of special bodies include specific differences; Descartes therefore argues illicitly from abstracts to concretes."
 
 - term: "notitia Dei"
   handle: "term:gassendi-notitia-dei"
@@ -597,7 +635,7 @@
     - "ideal state / real state"
     - "state in idea / state in reality"
   status: open
-  notes: "Part 064 names the difference between remaining in the idea-state and going out into the real-state. In the ideal state, golden mountain and rational animal both carry true immutable predicates within their ideas; the difference appears only in the real state, where experience becomes the criterion. Part 065 applies the distinction to divine nature: existence in the idea of God is not existence in God in himself."
+  notes: "Part 064 names the difference between remaining in the idea-state and going out into the real-state. In the ideal state, golden mountain and rational animal both carry true immutable predicates within their ideas; the difference appears only in the real state, where experience becomes the criterion. Part 065 applies the distinction to divine nature: existence in the idea of God is not existence in God in himself. Part 082 redeploys the distinction against the mind-body proof: moving from what is cut off in thought to what is really separated repeats the illicit passage from ideal state to real state."
 
 - term: "syllogistica forma"
   handle: "term:gassendi-syllogistica-forma"
@@ -898,7 +936,7 @@
     - "clear and distinct knowledge"
     - "clear and distinct perception"
   status: open
-  notes: "Part 041 isolates the circular burden on clear and distinct cognition. Descartes has not yet proved that it is non-fallacious, because that proof depends on God as non-deceptive author; nevertheless he assumes it as true in order to prove God and God's authorship of the cognition itself. This gathers earlier circle-pressure from Parts 011, 014, and 017 under the Meditation IV vocabulary. Part 052 shifts the pressure from the truth of clear and distinct cognition to the method for recognizing when cognition is genuinely clear and distinct rather than only apparently so. Part 054 sharpens the counterfeit case: many think they have clear and distinct cognition and are deceived, so the name alone cannot serve as its own mark. Part 066 shifts the issue to memory and science: Descartes says remembered clear and distinct demonstrations require knowledge of a non-deceptive God, while Gassendi treats geometry as self-compelling. Part 067 reuses the `ego cogito; igitur exsisto` as a prior clear and distinct foundation on which Descartes built the God proof, not a certainty later grounded by it. Part 070 turns distinctness into a part-by-part criterion: a universal or lumped grasp of the chiliagon is not distinct unless Descartes can define distinct perception otherwise and apply it to the figure. Part 074 adds that separate clear and distinct conception does not by itself license real separability: triangle properties can be conceived apart without being separated in reality. Part 075 gives Descartes' countercharge that Gassendi confuses the question of what can be understood with the question of what really is. Part 076 presses the public-rule problem: if divine possibility is ruled by Descartes' own distinct perception, clear and distinct cognition is private assurance rather than demonstration for others. Part 078 recasts the proof as a syllogism whose force still depends on the move from distinct concepts to real distinction. Part 079 frames the next criterion problem: clear-and-distinct separability works only if the things are already complete entities rather than merely formally distinct properties. Part 080 adds that finite clear and distinct cognition cannot rule out an unknown indivisible nexus unless it becomes exhaustive or divinely revealed cognition."
+  notes: "Part 041 isolates the circular burden on clear and distinct cognition. Descartes has not yet proved that it is non-fallacious, because that proof depends on God as non-deceptive author; nevertheless he assumes it as true in order to prove God and God's authorship of the cognition itself. This gathers earlier circle-pressure from Parts 011, 014, and 017 under the Meditation IV vocabulary. Part 052 shifts the pressure from the truth of clear and distinct cognition to the method for recognizing when cognition is genuinely clear and distinct rather than only apparently so. Part 054 sharpens the counterfeit case: many think they have clear and distinct cognition and are deceived, so the name alone cannot serve as its own mark. Part 066 shifts the issue to memory and science: Descartes says remembered clear and distinct demonstrations require knowledge of a non-deceptive God, while Gassendi treats geometry as self-compelling. Part 067 reuses the `ego cogito; igitur exsisto` as a prior clear and distinct foundation on which Descartes built the God proof, not a certainty later grounded by it. Part 070 turns distinctness into a part-by-part criterion: a universal or lumped grasp of the chiliagon is not distinct unless Descartes can define distinct perception otherwise and apply it to the figure. Part 074 adds that separate clear and distinct conception does not by itself license real separability: triangle properties can be conceived apart without being separated in reality. Part 075 gives Descartes' countercharge that Gassendi confuses the question of what can be understood with the question of what really is. Part 076 presses the public-rule problem: if divine possibility is ruled by Descartes' own distinct perception, clear and distinct cognition is private assurance rather than demonstration for others. Part 078 recasts the proof as a syllogism whose force still depends on the move from distinct concepts to real distinction. Part 079 frames the next criterion problem: clear-and-distinct separability works only if the things are already complete entities rather than merely formally distinct properties. Part 080 adds that finite clear and distinct cognition cannot rule out an unknown indivisible nexus unless it becomes exhaustive or divinely revealed cognition. Part 081 adds the species-level objection: clear and distinct understanding of thought without extension and extension without thought is incomplete if the question concerns those features in the same disputed subject. Part 082 shows the separability rule is reversible: an opponent can use the same clear-and-distinct form to prove mind is not incorporeal. Part 083 says clear distinctness cannot be supplied by a negation: to know that mind is not extended is not yet to know positively what mind is. Part 084 records Descartes' reply that non-extension was not meant to define mind positively, and that aspectual clear cognition, as in the blind man's sun as heating, can still be legitimate. Part 086 rejects that aspectual move: clear cognition of a thing under one predicate, such as heating or thinking, need not be clear cognition of the thing's nature. Part 087 adds that absence of a superior human witness or instrument does not make aspectual cognition exhaustive. Part 088 reconstructs the separability proof as resting on Descartes' own clear and distinct idea treated as a fixed private principle, again pressing the gap between self-certainty and public demonstration. Part 091 says the imagination/intellection distinction would matter little if either route yielded clear and distinct cognition; the problem is that Descartes' intellection only points beyond imagination without clearly showing what mind is."
 
 - term: "certitudo / scientia vera"
   handle: "term:gassendi-certitudo-scientia-vera"
@@ -908,7 +946,7 @@
     - "certainty / true science"
     - "certainty and truth of science"
   status: open
-  notes: "Part 066 introduces Descartes' claim that no certainty or true science can be had without cognition of the true God. Gassendi answers that geometrical demonstrations compel assent by themselves and do not appear to borrow certainty from the theological proof. Part 067 states the stronger rule: natural certainty depends on evidence, so mathematical certainty does not depend on divine certainty."
+  notes: "Part 066 introduces Descartes' claim that no certainty or true science can be had without cognition of the true God. Gassendi answers that geometrical demonstrations compel assent by themselves and do not appear to borrow certainty from the theological proof. Part 067 states the stronger rule: natural certainty depends on evidence, so mathematical certainty does not depend on divine certainty. Part 094 gives the Sixth Meditation version: certainty that one is awake rather than dreaming appears to arrive only after the preceding chain has established that God exists and is not deceptive."
 
 - term: "apparentia / hypothesis"
   handle: "term:gassendi-apparentia-hypothesis"

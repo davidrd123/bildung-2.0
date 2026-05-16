@@ -1913,3 +1913,461 @@ Re-entry:
 
 - Continue with `Nunc, cum dicendum pluribus de Assumptione`.
 - Watch Gassendi apply the criterion critique directly to the assumption about thinking thing and extended thing.
+
+## 2026-05-15 - Assumption, Special Extension, And Concrete Subject
+
+Drafted `parts/081-assumption-special-extension-and-concrete-subject.md`, continuing Gassendi's application to the `Assumptio` after `Dubitatio Tertia` in `In Meditationem VI`, on standalone printed pages `289` partial through `293` partial.
+
+What this tranche clarified:
+
+- Gassendi moves from the complete-substance critique into the assumption itself.
+- The question is not thinking thing or extended thing in general, since God or an angel can be called thinking, and iron or stone extended.
+- The disputed case is the human mind, human thinking, and the special extension that may belong to the same subject.
+- Descartes cannot secure the species by appealing to the genus: if the subtle body defended as mind is disputed, the universal claim that no extended thing thinks is not conceded.
+- An induction through all bodies fails at the one body in dispute, since the opponent refuses to count the subtle body as non-thinking.
+- The general notion of body is only an abstraction from what all bodies share.
+- Complete notions of special bodies must include both common features and special differences, as animal body includes animation and sensation.
+- A complete notion of the disputed subtle body would have to include thought, and a complete notion of mind would have to include any extension that may belong to it.
+- Motion and figure in the same rolling globe, justice and mercy in the same God, and triangle properties in the same triangle are inseparable when understood with their concrete subject.
+- Gassendi names Descartes' error as arguing from abstracts to concretes, or shifting from same-subject examples to cross-subject examples like globe and arrow.
+
+Glossary updates earned: `substantia incorporea / substantia corporea`; `distinctio formalis / distinctio realis`; `cognitio adaequata / inadaequata`; `abstractio / deductio`; `clara et distincta notitia`.
+
+Crosswalk pressure:
+
+- This part sharpens Cassirer's concept-formation pressure. Gassendi distinguishes generic abstraction from the complete grasp of a concrete subject, and argues that Descartes' mind-body proof silently treats an abstracted predicate as if it settled the real constitution of the thing.
+
+Re-entry:
+
+- Continue with `Ex his jam licet intelligi`.
+- Watch Gassendi turn the application into a parity argument: the same form that proves incorporeal mind can be mirrored to prove that mind is not incorporeal.
+
+## 2026-05-15 - Parity Proof And Intellectual Separation
+
+Drafted `parts/082-parity-proof-and-intellectual-separation.md`, closing Gassendi's `Instantia` after `Dubitatio Tertia` in `In Meditationem VI`, on standalone printed pages `293` partial through `294` partial.
+
+What this tranche clarified:
+
+- Gassendi compresses the previous critique into a final test of the Sixth Meditation proof.
+- The repeated fault is the move from the ideal state to the real state.
+- What the mind cuts off in thought is not thereby shown to be separated in the thing itself.
+- Descartes' proof can be parodied: if mind as substance can be conceived without corporeality, mind as substance can also be conceived without incorporeality.
+- The same form yields opposite conclusions: mind is not corporeal and mind is not incorporeal.
+- Gassendi says both demonstrations deserve laughter because they share the same paralogism.
+- The thinking-thing formulation can also be mirrored by an extended-thing formulation.
+- The opponent is said to reason better insofar as he refuses the fallacious principle that intellectual separation induces real separation.
+- The section closes the third doubt before the new `Dubitatio IV` on corporeal species and incorporeal mind.
+
+Glossary updates earned: `paralogismus`; `praecisio`; `status idealis / status realis`; `clara et distincta notitia`.
+
+Crosswalk pressure:
+
+- This part gives Cassirer's method problem a concise anti-Cartesian form: conceptually isolating an aspect of mind does not establish the real constitution or real separability of mind.
+
+Re-entry:
+
+- Continue with `De specie rei corporeae`.
+- Treat the next unit as a new `Dubitatio IV` rather than as continuation of the third doubt.
+
+## 2026-05-15 - Corporeal Species And Unextended Mind
+
+Drafted `parts/083-corporeal-species-and-unextended-mind.md`, covering Gassendi's `Dubitatio IV` in `In Meditationem VI`, on standalone printed pages `294` partial through `298` partial.
+
+What this tranche clarified:
+
+- Gassendi begins the fourth doubt by separating the idea of body from the idea of self.
+- If Descartes is speaking only of the gross body, Gassendi does not deny that Descartes may have an idea of it; he denies that an unextended mind can receive or use such an idea.
+- A corporeal species or idea of body seems itself to require parts, extension, figure, position, and variety in order to represent corporeal parts, extension, figure, ordered places, and colors.
+- The self-idea is said to yield only the operation of thinking, not the substance that thinks.
+- Adding that mind is non-extended gives a negation rather than a positive and affirmative idea of what mind is.
+- The blind-man/sun analogy returns: knowing heat from the sun does not give a clear idea of the sun itself.
+- If mind is diffused through the whole body, Gassendi argues that it seems to have corresponding parts and extension.
+- If mind is in the brain or a small brain part, the part remains extended and the mind is coextended with it.
+- If mind is placed in a mathematical point, the fiction cannot handle nerves, bodily spirits, sensory direction, motor transmission, or contact.
+- The gross-body distinction is conceded only in a limited way; it does not prove that mind is incorporeal rather than a very subtle body separable from the gross body.
+- Gassendi closes by saying he does not doubt Descartes' intended conclusion, but distrusts the force of the demonstration.
+
+Glossary updates earned: `mens`; `species / imago / phantasia`; `idea sui / cognitio reflexa`; `substantia incorporea / substantia corporea`; `punctum physicum / punctum mathematicum`; `clara et distincta notitia`.
+
+Crosswalk pressure:
+
+- This part gives Cassirer's image-theory pressure one of its clearest Disquisitio forms: Gassendi asks how a representational species can make an extended body present to an unextended mind, and how a merely negative self-description can count as clear positive knowledge.
+
+Re-entry:
+
+- Continue with Descartes' `Respondeo nullam speciem corpoream in mente recipi`.
+- Watch Descartes distinguish pure intellection from corporeal species and answer the blind-man/sun comparison.
+
+## 2026-05-15 - Response, Pure Intellection And Corporeal Species
+
+Drafted `parts/084-response-pure-intellection-and-corporeal-species.md`, covering Descartes' `Responsio IV` in `In Meditationem VI`, on standalone printed pages `298` partial through `299` partial.
+
+What this tranche clarified:
+
+- Descartes refuses the premise that a corporeal species is received in mind.
+- Pure intellection of corporeal and incorporeal things is said to occur without any corporeal species.
+- Imagination does require a corporeal species, but as a true body to which mind applies itself, not as a species received in mind.
+- The blind-man/sun case is treated aspectually: the blind man can have a clear idea of the sun as heating without having it as illuminating.
+- Descartes denies that Gassendi has a superior positive idea of mind; at most, Descartes says all human cognition is dim-sighted here.
+- The claim that mind is not extended is presented as a denial of error, not as a positive definition of mind.
+- The Bucephalus/music analogy blocks the inference from using body, or producing sounds classifiable under music, to being body or music.
+- Mind's union with the whole body and power to move body are denied to entail extension or corporeality.
+
+Glossary updates earned: `mens`; `species / imago / phantasia`; `substantia incorporea / substantia corporea`; `intellectio / imaginatio`; `clara et distincta notitia`.
+
+Crosswalk pressure:
+
+- This part gives the Cartesian counter-pole to the image/species problem: Descartes can concede that imagination needs a bodily species while denying that pure understanding receives any such species in mind. That makes the next Gassendi rejoinder especially important for Cassirer's image-theory pressure.
+
+Re-entry:
+
+- Continue with Gassendi's `Mirum est profecto, quam caute respondeas`.
+- Watch Gassendi press the gap between "no corporeal species in mind" and the still-open question whether intellectual cognition of body requires an incorporeal or intelligible species.
+
+## 2026-05-15 - Intelligible Species And Separated Mind
+
+Drafted `parts/085-intelligible-species-and-separated-mind.md`, opening Gassendi's `Instantia` after `Responsio IV` in `In Meditationem VI`, on standalone printed pages `299` partial through `301` partial.
+
+What this tranche clarified:
+
+- Gassendi says Descartes answered cautiously by denying only a corporeal species in mind, not every species of body.
+- The missing issue is whether intellectual cognition of body uses an incorporeal or intelligible species, or no species at all.
+- Gassendi treats both options as hard for Descartes: no intelligible species makes intellection obscure, while an incorporeal species of body faces the representational difficulties already raised.
+- The paper example concretizes the point: the same length, width, square shape, and whiteness are both imagined and understood.
+- Since the criterion between intellection and imagination has not been supplied, Gassendi treats the species before intellect and imagination as either the same or very similar.
+- If Descartes locates the corporeal species only in the brain, then separated mind without brain can no longer imagine bodies.
+- Gassendi argues that separated mind must still be able to understand bodies, both because mind is naturally intelligent and because angels as separated substances should know bodies without brains.
+- If the species can be present to separated mind, it seems able to be present to embodied mind; the original extended/inextended species dilemma returns.
+
+Glossary updates earned: `mens`; `species / imago / phantasia`; `substantia incorporea / substantia corporea`; `intellectio / imaginatio`.
+
+Crosswalk pressure:
+
+- This part deepens Cassirer's image-theory problem by forcing Descartes' pure intellection answer back into a representational question: if intellect knows bodies, some species or idea of extension, figure, and color seems to be present to it, and the separated mind makes the brain-location answer unstable.
+
+Re-entry:
+
+- Continue with `II. Circa Ideam ipsius Mentis`.
+- Watch Gassendi challenge aspectual clear and distinct cognition through Descartes' own blind-man/sun reply.
+
+## 2026-05-15 - Aspectual Clarity And Thinking Thing
+
+Drafted `parts/086-aspectual-clarity-and-thinking-thing.md`, covering section II of Gassendi's `Instantia` after `Responsio IV` in `In Meditationem VI`, on standalone printed pages `301` partial through `303` partial.
+
+What this tranche clarified:
+
+- Gassendi treats Descartes' blind-man answer as revealing an aspectual model of clear and distinct cognition.
+- If the blind man has a clear idea of the sun as heating, then someone struck in the dark could claim clear cognition of the striker as a striking thing.
+- Such cognition names the mode under which the thing becomes known, not the thing's nature or substance.
+- Gassendi recasts `res cogitans` by analogy with `res calefaciens`: each identifies an operation, not the nature of the subject.
+- The disputed point is not whether mind thinks or the sun heats; those predicates are conceded.
+- The point is the nature obscurely and confusedly covered by the word `res`.
+- Saying the hidden substance is contained under `res` supplies no positive knowledge.
+- Descartes' answer that cognition of thinking thing extends more widely than cognition of heating thing is answered through the vessel analogy: the issue is fullness relative to the object, not capacity or range.
+
+Glossary updates earned: `mens`; `idea sui / cognitio reflexa`; `res cogitans / res calefaciens`; `clara et distincta notitia`.
+
+Crosswalk pressure:
+
+- This part gives Cassirer's self-consciousness problem a compact formula: Gassendi does not deny that mind is known as thinking, but denies that this aspectual clarity reaches the underlying nature or substance. The `res cogitans` formula is treated as "something or other that thinks."
+
+Re-entry:
+
+- Continue with `III. Deinde, inquis`.
+- Watch Gassendi address Descartes' claim that Gassendi knows nothing more about mind and is therefore the blind one.
+
+## 2026-05-15 - Shared Blindness And Hidden Mind
+
+Drafted `parts/087-shared-blindness-and-hidden-mind.md`, covering section III of Gassendi's `Instantia` after `Responsio IV` in `In Meditationem VI`, on standalone printed pages `303` partial through `304` partial.
+
+What this tranche clarified:
+
+- Gassendi accepts that he is blind about the nature of mind, but denies that this grants Descartes clear sight.
+- Descartes' argument is treated as a move from "no one can refute me" to "there is nothing more in the thing."
+- Gassendi uses a universal-blindness thought experiment: if all humans were blind, no one could infer that the sun contains only heat.
+- The telescope examples turn missing refutation into a historical limitation: before telescopes, Saturn's rings and Jupiter's attendants were not thereby absent.
+- The closed-palace example gives the same argument for hidden interiors.
+- Gassendi invokes Descartes' own concession that only divine revelation could show God placed nothing more in a thing than we know.
+- Common knowledge of mind as thinking, doubting, affirming, denying, imagining, willing, and sensing is conceded.
+- The stronger Cartesian claim that Gassendi does not even know that much is rejected.
+
+Glossary updates earned: `mens`; `cognitio adaequata / inadaequata`; `res cogitans / res calefaciens`; `clara et distincta notitia`.
+
+Crosswalk pressure:
+
+- This part strengthens Cassirer's criterion problem by separating shared human ignorance from Cartesian exhaustiveness. Gassendi treats the absence of a better human witness, instrument, or access point as no warrant for saying mind contains nothing beyond the known operation of thought.
+
+Re-entry:
+
+- Continue with section `IV. Eo deinde te recipis`.
+- Watch Gassendi return to non-extension, the Bucephalus comparison, and whole-body union.
+
+## 2026-05-15 - Nonextension, Bucephalus, And Private Principle
+
+Drafted `parts/088-nonextension-bucephalus-and-private-principle.md`, covering section IV of Gassendi's `Instantia` after `Responsio IV` in `In Meditationem VI`, on standalone printed pages `305` partial through `307` partial.
+
+What this tranche clarified:
+
+- Gassendi accepts Descartes' clarification only narrowly: non-extension may warn against an error, but it still does not positively explain what mind is.
+- The Bucephalus comparison is corrected from `Musica` to `Musca`; Gassendi says his intended comparison was a fly, not music.
+- Whole-body union keeps the extension problem alive: if body is extended through diffusion over places with corresponding parts, mind united to the whole body seems to face the same pressure.
+- Descartes' answer that extension is not of mind's `ratio` is treated as the disputed conclusion repeated as a solution.
+- Gassendi reconstructs Descartes' clear-and-distinct self-idea as a private fixed principle from which real distinction and separability are deduced.
+- The response about mind moving body is treated as bare assertion: saying mind need not be body even if it moves body does not explain contact, impulse, or motion.
+- The unresolved union questions return explicitly: whole body, whole brain, sensible brain part, physical point, or mathematical point.
+
+Glossary updates earned: `mens`; `substantia incorporea / substantia corporea`; `demonstratio / authoritas`; `punctum physicum / punctum mathematicum`; `clara et distincta notitia`.
+
+Crosswalk pressure:
+
+- This part gives Cassirer's concept-formation pressure another public-method form. Descartes' clear and distinct self-idea is not just challenged for content; it is challenged as a private principle that cannot by itself settle real constitution, body-mind union, or separability.
+
+Re-entry:
+
+- Continue with `Dubitatio V`, beginning `De Commixtione Mentis cum corpore`.
+- Watch how Gassendi shifts the same union pressure into pain, hunger, thirst, and the sailor-in-ship contrast.
+
+## 2026-05-15 - Mind-Body Mixture And Pain
+
+Drafted `parts/089-mind-body-mixture-and-pain.md`, covering Gassendi's `Dubitatio V` in `In Meditationem VI`, on standalone printed pages `307` partial through `308` partial.
+
+What this tranche clarified:
+
+- Gassendi takes up Descartes' sailor-in-ship contrast: mind is said not merely to be present to body, but most closely joined and quasi-mixed with it.
+- The Descartes passage gives Gassendi a new pressure vocabulary: conjunction, quasi-mixture, confusion, composition of one thing, and confused modes.
+- Gassendi asks how any of this can belong to a mind that is incorporeal, unextended, indivisible, and no larger than a point.
+- Mixture becomes a parts problem: there is no mixture without mixable parts on both sides.
+- The pumice example makes even stone/air composition easier than body/incorporeal-mind composition, because both stone and air are bodies.
+- Pain becomes the local test of union: pain seems to involve disruption of parts, a break in continuity, alteration, and a state contrary to nature.
+- Multiple pains from foot, arm, or other bodily parts appear to require differentiated receiving sites in mind, not a simple and unparted subject.
+
+Glossary updates earned: `mens`; `substantia incorporea / substantia corporea`; `unio / conjunctio / commixtio`; `sensus doloris / fames / sitis`; `punctum physicum / punctum mathematicum`.
+
+Crosswalk pressure:
+
+- This part gives Cassirer's mind-body pressure a bodily-affective form. Descartes' appeal to confused sensation is not just phenomenology; for Gassendi it demands an account of how corporeal alteration communicates with incorporeal mind.
+
+Re-entry:
+
+- Continue with Descartes' `Responsio`, beginning `Quae hic habes de unione mentis cum corpore`.
+- Watch Descartes reject the comparison between mind-body mixture and bodily mixture, and deny that parts must be imagined in mind because mind understands parts in body.
+
+## 2026-05-15 - Response, Union And Nonimagined Parts
+
+Drafted `parts/090-response-union-and-nonimagined-parts.md`, covering Descartes' `Responsio V` in `In Meditationem VI`, on standalone printed pages `308` partial through `309` partial.
+
+What this tranche clarified:
+
+- Descartes says Gassendi's union objections are like the preceding ones: doubts against conclusions rather than objections against reasons.
+- He locates the error in Gassendi's attempt to submit non-imaginable things to imagination's examination.
+- Mind-body mixture should not be compared with the mixture of two bodies, because the cases differ `toto genere`.
+- Parts are not to be imagined in mind just because mind understands parts in body.
+- The reductio is the earth-magnitude case: if whatever mind understands had to be in mind, mind would contain the earth's magnitude and be more extended than the earth.
+
+Glossary updates earned: `intellectio / imaginatio`; `unio / conjunctio / commixtio`.
+
+Crosswalk pressure:
+
+- This part gives the Cartesian counter-pole to Part 089: Descartes treats Gassendi's bodily-affective difficulties as imagination-bound category mistakes rather than as unanswered physical demands.
+
+Re-entry:
+
+- Continue with Gassendi's `Instantia`, beginning `Bene dicis ea, quae heic habeo`.
+- Watch Gassendi answer the "doubts, not objections" charge and the appeal to imagination's limits.
+
+## 2026-05-15 - Doubts, Objections, And Idea Containment
+
+Drafted `parts/091-doubts-objections-and-idea-containment.md`, covering the opening part of Gassendi's `Instantia` after `Responsio V` in `In Meditationem VI`, on standalone printed pages `309` partial through `313` partial.
+
+What this tranche clarified:
+
+- Gassendi rejects Descartes' procedural demotion of objections into mere doubts.
+- A doubt against a conclusion is already pressure on the reason, because a convincing reason would remove doubt about the conclusion.
+- The imagination/intellection distinction is treated as a verbal escape unless intellection gives clear knowledge of what mind is, not merely that something beyond imagination exists.
+- Descartes' `toto genere diversa` answer repeats the disputed question: whether mind is a subtle body or wholly incorporeal.
+- Gassendi reconstructs Descartes' union claim as a syllogism in which thinking plus non-extension is supposed to license close union, quasi-mixture, and confused pain/hunger/thirst modes.
+- The earth-magnitude reductio is answered by distinguishing representative, objective, intentional presence from real containment.
+- The part closes with the same unresolved species problem: how an idea can represent parts if it lacks parts itself.
+
+Glossary updates earned: `mens`; `species / imago / phantasia`; `substantia incorporea / substantia corporea`; `unio / conjunctio / commixtio`; `demonstratio / authoritas`; `intellectio / imaginatio`; `clara et distincta notitia`.
+
+Crosswalk pressure:
+
+- This part makes Cassirer's Descartes/Gassendi contrast methodological again. Gassendi is not merely adding empirical scruples; he is asking whether the Cartesian reason has publicly removed doubt, whether a distinction without positive content can count as clear knowledge, and whether representative object-content can explain the mind's relation to extended parts.
+
+Re-entry:
+
+- Continue with the optical-species addendum beginning `Et, ut hoc verbum adjiciam`.
+- Watch Gassendi move from the general species problem into retina, optic nerve, imagination, and separated mind.
+
+## 2026-05-15 - Optical Species And Representing Parts
+
+Drafted `parts/092-optical-species-and-representing-parts.md`, covering Gassendi's optical-species addendum in the `Instantia` after `Responsio V`, on standalone printed pages `313` partial through `314` partial.
+
+What this tranche clarified:
+
+- Gassendi gives the part-bearing species problem an optical model.
+- The retinal image of a tower occupies a portion of retina rather than a mathematical point.
+- Spectacles and telescopes help explain why the image-producing rays must be received beyond the point of convergence.
+- When the issue is transferred to brain and imagination, a species in a point still cannot count as an image of the tower because an image must have parts representative of the tower's parts.
+- Separated mind provides the hard case: even there, if mind understands a tower through a species, the species must have some extension if it represents extension and parts.
+- Gassendi does not demand a one-to-one part count. A small species can represent a vast object under angular proportion, but not by lacking parts altogether.
+
+Glossary updates earned: `species / imago / phantasia`; `punctum physicum / punctum mathematicum`.
+
+Crosswalk pressure:
+
+- This part gives Cassirer's image-theory pressure its most anatomical form in the current run. Gassendi is not simply saying thought is a picture; he is using optical representation to test whether any representation of extended parts can be wholly without extension.
+
+Re-entry:
+
+- Continue with the next `Dubitatio`, beginning `Caetera praetereo`.
+- Watch how Gassendi closes the Sixth Meditation by testing remaining claims about external things, dreams, divine non-deception, and the weakness of human life.
+
+## 2026-05-15 - Remaining Heads And Brief Response
+
+Drafted `parts/093-remaining-heads-and-brief-response.md`, covering Gassendi's `Praeteritio` on the remaining heads of the final Meditation and Descartes' brief `Responsio`, on standalone printed page `315` partial.
+
+What this tranche clarified:
+
+- Gassendi does not yet fully contest the final Sixth Meditation confirmations, but marks them as passed-over.
+- The summarized Cartesian path runs from body and bodily faculties to other bodies sending species into sense and self.
+- Pleasure and pain ground pursuit and flight.
+- Sensory reliability is framed by bodily utility: the senses more often indicate truth than falsehood in matters concerning bodily convenience.
+- Dreams are distinguished from waking by memory-continuity with the other actions of life.
+- Divine non-deception secures such matters in the summarized Cartesian conclusion.
+- Gassendi explicitly approves the final acknowledgment that human life is error-prone and natural weakness must be recognized.
+- Descartes' response is dismissive: nothing is contradicted, and prolixity should not be mistaken for a multitude of reasons.
+
+Glossary updates earned: `sensus / judicium`; `fallacia / deceptio`.
+
+Crosswalk pressure:
+
+- This part is mostly a hinge. It records the Cartesian closure around ordinary sensory trust and non-deception, but its real value will come in the following `Instantia`, where Gassendi answers Descartes' claim that no contradiction was made.
+
+Re-entry:
+
+- Continue with Gassendi's `Instantia`, beginning `Dii immortales`.
+- Watch him answer the no-contradiction charge and reopen the waking/dreaming certainty argument.
+
+## 2026-05-15 - Passed-Over Contradiction And Prolixity
+
+Drafted `parts/094-passed-over-contradiction-and-prolixity.md`, covering Gassendi's `Instantia` after Descartes' response to the `Praeteritio`, on standalone printed pages `315` partial through `317` partial.
+
+What this tranche clarified:
+
+- Gassendi says the prior non-contradiction was deliberate passing-over, not failure to object.
+- He still identifies the waking/dreaming certainty argument as contestable.
+- The reconstructed argument makes certainty of waking depend on knowing, after the preceding chain, that God exists and is not deceptive.
+- Fatigue and the presence of praiseworthy material explain why Gassendi chose not to press the remaining heads.
+- Descartes' response is treated as a rhetorical trap: attach the passed-over article to the other doubts, then use it to taunt Gassendi for not contradicting.
+- Gassendi rejects the prolixity charge in this specific place because he was not proposing reasons there, only offering praise.
+- The passage turns self-reflexive about reader judgment, praise, faith versus natural demonstration, style, and philosophical temperament.
+
+Glossary updates earned: `fallacia / deceptio`; `certitudo / scientia vera`.
+
+Crosswalk pressure:
+
+- This part connects the Sixth Meditation closure back to the earlier certainty problem. Gassendi's pressure is not only about sense or dreams, but about the order of certainty: waking certainty appears to depend on the completed God/non-deception proof rather than grounding the ordinary world immediately.
+
+Re-entry:
+
+- Continue with the closing `Conclusio`, beginning `Haec sunt, Vir eximie`.
+- Watch Gassendi's formal closure and Descartes' reply shift the tone from aggressive objection to preserved philosophical friendship.
+
+## 2026-05-15 - Conclusio And Friendship
+
+Drafted `parts/095-conclusio-and-friendship.md`, covering Gassendi's closing `Conclusio`, on standalone printed page `317` partial.
+
+What this tranche clarified:
+
+- Gassendi closes by lowering the authority of his own judgment rather than retracting the objections.
+- The taste analogy separates personal assent from a claim to superior access: liking a food or opinion does not prove one's palate or judgment more perfect.
+- Descartes is explicitly free to treat all of Gassendi's judgments as negligible.
+- Gassendi asks only that Descartes recognize his affection and veneration.
+- Any inconsiderate phrase is offered in advance for deletion.
+- Friendship is made the higher social frame around the polemical exchange.
+
+Glossary updates earned: none.
+
+Crosswalk pressure:
+
+- This part is not a new Cassirer pressure point. Its value is methodological: it shows the objection campaign closing with fallible judgment, non-coercive disagreement, and preserved friendship rather than with a claim to final authority.
+
+Re-entry:
+
+- Continue with Descartes' reply beginning `Aliena vero mens cum carne disseruit`.
+- Watch Descartes distinguish Gassendi's mind from his "flesh" while preserving esteem for Gassendi himself.
+
+## 2026-05-15 - Response, True Gassendi And Easy Answers
+
+Drafted `parts/096-response-true-gassendi-and-easy-answers.md`, covering Descartes' response to Gassendi's `Conclusio`, on standalone printed pages `317` partial through `318` partial.
+
+What this tranche clarified:
+
+- Descartes splits the polemical object from Gassendi's person: an alien mind argued with flesh, but the conclusion reveals the true Gassendi.
+- He praises Gassendi as an excellent philosopher and as a man of candor and integrity.
+- The philosophical sharpness is reframed as permissible `libertas Philosophica` in refuting objections.
+- Descartes says he was grateful for the objections.
+- The substantive verdict remains unchanged: in such a long and careful dissertation, no reason was offered against Descartes' reasons or conclusions that he could not easily answer.
+
+Glossary updates earned: none.
+
+Crosswalk pressure:
+
+- This part is a response-frame rather than a new pressure point. Its importance is that Descartes renews the claim that Gassendi has not really reached the reasons; the next unit will test that claim directly.
+
+Re-entry:
+
+- Continue with the final answer beginning `Ego, vir eximie, idem sum`.
+- Watch the speaker reject the mind/flesh split and distinguish truth of conclusions from force of demonstration.
+
+## 2026-05-15 - Final Answer, Mind, Flesh, And Demonstration
+
+Drafted `parts/097-final-answer-mind-flesh-and-demonstration.md`, covering the final answer after Descartes' response to the `Conclusio`, on standalone printed pages `318` partial through `319` partial.
+
+What this tranche clarified:
+
+- The mind/flesh split is rejected: the speaker remains one, not a double person divided into reasoning mind and mindless flesh.
+- The exchange is again narrowed to demonstrative force, not the truth of God or the immortality of souls.
+- Conclusions as true propositions are shared by Gassendi and all pious, right-thinking people.
+- Conclusions as deductions from Descartes' principles remain open to challenge through the force of the consequences that elicit them.
+- Readers must judge whether Gassendi really attacked Descartes' reasons and whether an easy answer is the same as an adequate answer.
+- Descartes' praise is accepted as benevolence, while Gassendi's roughness is framed as imitation of Descartes' own philosophical liberty.
+- The final tone preserves friendship but does not give up the methodological objection.
+
+Glossary updates earned: `demonstratio / authoritas`.
+
+Crosswalk pressure:
+
+- This part gives the source campaign a compact closing formula for Cassirer: the issue is not whether Gassendi accepts metaphysical truths, but whether Descartes' private and internal order of reasons has demonstrative energy sufficient to ground them.
+
+Re-entry:
+
+- Continue with `POSTREMA`.
+- Confirm whether it is a final editorial/postscript unit or opens another bounded exchange before drafting.
+
+## 2026-05-15 - Postrema, Errata And Omitted Passage
+
+Drafted `parts/098-postrema-errata-and-omitted-passage.md`, covering the final `POSTREMA` page of the preferred JP2 sequence.
+
+What this tranche clarified:
+
+- JP2 `0348` is the final image in the preferred sequence.
+- The page is correction apparatus, not a continuous objection-response passage.
+- Most of the page is a page-and-line errata list.
+- One omitted passage is keyed to page 95, `Dubitatio I`.
+- The omitted passage appears to distinguish different powers or acts of knowing different attributes, using the born-blind case to separate knowledge of hardness from knowledge of whiteness.
+- A later correction distinguishes bodily seeing/touching from the thought of seeing/touching, with dreams as the everyday witness.
+- The OCR is too noisy for reliable item-by-item collation; the raw OCR is preserved and the page is marked for future diplomatic cleanup.
+
+Glossary updates earned: none.
+
+Crosswalk pressure:
+
+- No direct Cassirer pressure is promoted. The omitted passage may matter for the mind-attribute and sensation/thought lines, but it needs cleaner collation and a back-reference to the page-95 passage before it should affect the apparatus.
+
+Re-entry:
+
+- The preferred JP2 sequence is now accounted for through its final image.
+- A future cleanup pass should collate `POSTREMA` from the image and decide whether the omitted passage requires a repair note in the earlier affected part.
