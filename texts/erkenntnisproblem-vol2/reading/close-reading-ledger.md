@@ -362,6 +362,7 @@ Local pressure:
 - `Intuition / Anschauung` has two early Spinoza registers. As `Intuition`, it names the concept Cassirer is tracking; as `Schau` / `Schauen`, it carries a visual and mystical Renaissance register through Campanella.
 - Lower-register `Anschauung` should remain available as `view` or `doctrine` where Cassirer names a shared position, as in Spinoza and Bruno sharing the view of the one infinite and perfect nature.
 - `reines Leiden` is confirmed as more than sensory passivity. It colors rational and intuitive knowledge in the `Short Treatise`, which is why Spinoza remains near Telesio/Campanella rather than Descartes at this stage.
+- Later Campanella source contact confirms Cassirer's two exact anchors but narrows their reuse. Leaf 906 supports `intrinsecatio, per quam unum fit aliud`; leaf 444 supports the p. 78 `saporem` quote. But leaves 23, 28, 402, 438, and 617 show that the bridge is register-bound: bodily taste, altered sensory entry, exterior/object intellection, hidden self-intellection, finite `mensura sui`, and divine immanence cannot be flattened into a single doctrine of all cognition as self-dissolution.
 - `Naturbegriff` becomes a chapter-level test. Spinoza does not begin from Descartes's mathematical-mechanical concept of nature but from the speculative natural philosophy of all-unity and all-animation.
 - `Selbsterhaltung`, `Freiheit / Notwendigkeit`, and `Allnatur` are live pressures but should not become glossary entries yet; they are routed through the Renaissance/Campanella comparison and may change once the `Tractatus de intellectus emendatione` begins.
 
@@ -769,3 +770,335 @@ Routing:
 - Update `Bewegung`, `Kontinuum / Stetigkeit / Infinitesimal`, `Ursache / Bedingung / Erzeugung`, `Erfahrung`, `Wahrheit / Urteil`, and `Scientia generalis / Charakteristik / Kombinatorik`.
 - Do not open a separate `mechanische Naturauffassung`, `Satz vom zureichenden Grunde`, or `Erhaltung` entry yet. Part 037 makes them function inside the force/living-force cluster.
 - Use Part 038 to test whether section `III.` moves from force/dynamics into image, symbol, and expression strongly enough to earn a new routing surface.
+
+## 2026-05-14 - Leibniz: Image, Symbol, And Eternal Truths
+
+Passage: `parts/038-leibniz-image-symbol-and-eternal-truths.md`, printed pages `166 partial-176 partial`.
+
+Part 038 opens section `III.` by making symbolic expression the next stage in Leibniz's rationalism. Cognition does not need to copy actuality; it needs to preserve lawful relations in a medium that can be operated on.
+
+Local pressure:
+
+- `Bild / Symbol / Ausdruck` now earns a glossary entry. Ideas, characters, differentials, work-magnitudes, and appearances all become valid through relation-preserving expression rather than likeness.
+- `Begriff / Wort / Zeichen` broadens beyond sign convention. Arbitrary signs are one case, but scientifically grounded signs work because their operations correspond to object-relations.
+- `Scientia generalis / Charakteristik / Kombinatorik` gains its semiotic justification: characters need not image concrete things but can sensibly present their intelligible truth-content.
+- `Kontinuum / Stetigkeit / Infinitesimal` re-enters through the measure problem. The differential and the angle of contingency show symbolic measure replacing homogeneous sensory measure.
+- `Kraft / Arbeit / lebendige Kraft` is reinterpreted as exact symbol. Work-magnitude translates qualitative physical processes into a common numerical language.
+- `Erfahrung` becomes confirmation and material, not ground. Experience confirms derived truths and facts are material for eternal truths' activity, but eternal truths do not take their evidence from facts.
+- `Wahrheit / Urteil` is now framed through eternal truths' double position: independent of facts for validity, yet governing the order and connection of appearances.
+- `Phänomen / Erscheinung`, `ewige Wahrheiten`, `Harmonie / Vollkommenheit`, `primäre / sekundäre Qualitäten`, `Abbildtheorie`, `Molyneux`, `Hertz`, and `Ähnlichkeit / Analogie` are active pressures.
+
+Routing:
+
+- Add `Bild / Symbol / Ausdruck`.
+- Update `Begriff / Wort / Zeichen`, `Scientia generalis / Charakteristik / Kombinatorik`, `Intuition / Anschauung`, `Kontinuum / Stetigkeit / Infinitesimal`, `Kraft / Arbeit / lebendige Kraft`, `Erfahrung`, and `Wahrheit / Urteil`.
+- Do not open `Phänomen / Erscheinung` yet. The next paragraph begins by saying skeptical objections to the reality of the appearance-world have been answered, so Part 039 should decide whether appearance becomes a separate glossary surface.
+- Do not write a bounded Leibniz note yet. The symbol pattern is now real, but it still needs the appearance/substance turn before it can be chapter-calibrated.
+
+## 2026-05-14 - Leibniz: Appearance, Truths Of Fact, And Individuality
+
+Passage: `parts/039-leibniz-appearance-truths-of-fact-and-individuality.md`, printed pages `176 partial-181 partial`.
+
+Part 039 answers the appearance hook directly. Skepticism is right against thing-like originals behind phenomena, but wrong against the appearance-world's logical truth; appearances are real insofar as they form a systematic unity under rational rules.
+
+Local pressure:
+
+- `Phänomen / Erscheinung` now earns a glossary entry. Its reality is logical truth and systematic connection, not metaphysical actuality outside every consciousness.
+- `Bild / Symbol / Ausdruck` is confirmed at the hypothesis level: scientific assumptions are not copies of actuality but symbolic ways of working up observation so unity appears in manifoldness.
+- `Wahrheit / Urteil` reaches the contingent-truth criterion. A true proposition need not make predicate and subject coincide in a finite proof; it needs a rule of progress by which their difference can fall below any assigned magnitude.
+- `Kontinuum / Stetigkeit / Infinitesimal` becomes the model for truth itself: the irrational and the individual fact are approached by limiting progression, not exhausted.
+- `Erfahrung` keeps a practical reality criterion: what matters for experience is the inner connection of appearances, not how much absolute reality one concedes behind them.
+- `Bewegung` re-enters through astronomical relativity. The Copernican system is true by intelligibility, not by being the exclusive image of an absolute corporeal order.
+- `Scientia generalis / Charakteristik / Kombinatorik` meets its logical boundary: the individual fact remains an unfinishable task even where the rule of progression is secure.
+- `Harmonie / Vollkommenheit`, `Tatsachenwahrheit`, `Einzelnes / Individualität`, `platonisches Streben`, `Copernikanisches System`, `Foucher`, and `Skepsis` are active pressures.
+
+Routing:
+
+- Add `Phänomen / Erscheinung`.
+- Update `Bild / Symbol / Ausdruck`, `Wahrheit / Urteil`, `Erfahrung`, `Bewegung`, `Kontinuum / Stetigkeit / Infinitesimal`, and `Scientia generalis / Charakteristik / Kombinatorik`.
+- Do not open `Harmonie / Vollkommenheit` or `Einzelnes / Individualität` yet. Section `IV.` should decide whether these become distinct glossary surfaces through monadology.
+- Keep the bounded Leibniz note deferred until section `IV.` tests whether symbolic expression and appearance-truth become a harmony/monadology pattern.
+
+## 2026-05-14 - Leibniz: Monadology, Harmony, And Chapter Close
+
+Passage: `parts/040-leibniz-monadology-harmony-and-chapter-close.md`, printed pages `181 partial-190`.
+
+Part 040 closes the Leibniz chapter by making the individual limit of logical analysis into the opening of monadology. The finite `Scientia generalis` cannot complete the analysis of the individual; Leibniz's system answers by construing each individual substance as a unique law of development and reality as the harmonic agreement of ideal standpoints.
+
+Local pressure:
+
+- `Substanz / Monade / primitive Kraft` now earns a Leibniz-specific glossary entry. The individual is the law of a concrete series, not a thing-like remainder outside analysis.
+- `Harmonie / Vollkommenheit` now earns a glossary entry. Harmony is not only body/soul agreement or monadic coordination, but the accord among mutually conditioning ways of considering being.
+- `Wahrheit / Urteil` reaches its divine-limit form: finite analysis cannot demonstrate all truths of fact, while divine infallible vision sees the completed connection.
+- `Scientia generalis / Charakteristik / Kombinatorik` finds its natural boundary in the inexhaustible individual, then reappears as the sign-character of concepts themselves.
+- `Funktion / Funktionsbegriff` becomes the hinge to the chapter close: the mathematical function concept expands into the harmony concept of ethics and metaphysics.
+- `Kraft / Arbeit / lebendige Kraft` splits into derivative and primitive force. Derivative force belongs to physical occurrence; primitive force names the rule of the whole developmental series.
+- `Bild / Symbol / Ausdruck` reaches its metaphysical scope: genuine actuality cannot be grasped at once but is approached through increasingly perfect symbols.
+- `Phänomen / Erscheinung` is grounded monadologically: appearances form one universe through constant order and correspondence among representing subjects, not through copy-likeness to one external object.
+- `Raum / Zeit` receives the Leibniz close: space, time, extension, and motion are grounded `modi considerandi`, not absolute realities.
+- `Einzelnes / Individualität` is active but absorbed into the monad/primitive-force entry for now.
+
+Routing:
+
+- Add `Substanz / Monade / primitive Kraft`.
+- Add `Harmonie / Vollkommenheit`.
+- Update `Wahrheit / Urteil`, `Scientia generalis / Charakteristik / Kombinatorik`, `Funktion / Funktionsbegriff`, `Kraft / Arbeit / lebendige Kraft`, `Bild / Symbol / Ausdruck`, `Phänomen / Erscheinung`, `Raum / Zeit`, `Intuition / Anschauung`, `Bewegung`, and `Begriff / Wort / Zeichen`.
+- Write the bounded Leibniz chapter note at `reading/2026-05-14-leibniz-function-symbol-and-harmony.md`.
+- Do not promote the Leibniz pattern to a cross-book Cassirer thesis. Tschirnhaus should test whether constructive method and symbolic cognition can stand without Leibnizian harmony-metaphysics.
+
+## 2026-05-15 - Tschirnhaus: Method Doctrine, Definition, And Experience
+
+Passage: `parts/041-tschirnhaus-method-doctrine-definition-and-experience.md`, printed pages `191-195 partial`.
+
+Part 041 opens the Tschirnhaus chapter by changing the post-Leibniz test from metaphysical harmony to methodical limitation. Tschirnhaus matters less as an original system-builder than as a mediator: Spinoza's promised theory of experiential knowledge, Hobbes/Spinoza genetic definition, Leibniz's Paris work, and Cartesian algebraic method are gathered into a narrower doctrine of experience for physics and the particular sciences.
+
+Local pressure:
+
+- `Erfahrung` becomes the explicit target of rational method: the highest goal is experience itself and its lawful structure.
+- `Experiment` returns as methodical regulator, not Baconian coercion or mere empiricist trial. Experiment helps select among concept-plans when sensible particularity becomes too complicated for pure deduction.
+- `Induktion` is no longer Bacon's finite enumeration. Tschirnhaus makes induction and deduction reciprocally necessary paths of grounding.
+- `Definition / Konstruktion` receives a Tschirnhaus layer: to comprehend a thing is to let it arise before the mind; every legitimate definition must include generation.
+- `Ursache / Bedingung / Erzeugung` becomes the route from an individual thing to its nearest cause and total conditions, but with a narrower physical-method aim than Leibniz's universal science.
+- `Scientia generalis / Charakteristik / Kombinatorik` receives contrast evidence: Tschirnhaus rejects Leibniz's universal extension of method and keeps algebra as the model for physics.
+- `Methodenlehre`, `Erfahrungswissen / Erfahrungslehre`, `apriorischer / aposteriorischer Weg`, `methodische Beobachtung`, `Lambert`, and `deutsche vorkantische Philosophie` are active pressures.
+
+Routing:
+
+- Update `Erfahrung`, `Experiment`, `Induktion`, `Ursache / Bedingung / Erzeugung`, `Definition / Konstruktion`, and `Scientia generalis / Charakteristik / Kombinatorik`.
+- Do not open a new Tschirnhaus glossary entry from the chapter opener. Part 042 should test whether the critique of the method's fulfillment makes `Realität`, `Entia Realia seu Physica`, `Gedankendinge`, or the three classes of the thinkable into a distinct surface.
+- Keep the Leibniz contrast bounded: Tschirnhaus narrows method away from harmony, but the next tranche has to decide whether that narrowing produces critical empiricism or a new metaphysical/psychological gap.
+
+## 2026-05-15 - Tschirnhaus: Reality, Inner Experience, And Physics
+
+Passage: `parts/042-tschirnhaus-reality-inner-experience-and-physics.md`, printed pages `195 partial-201`.
+
+Part 042 closes the Tschirnhaus chapter by answering the hook from Part 041. The narrowed method does not become a fulfilled critical empiricism; it exposes a gap. Scientific experience is named as rationalism's central modern problem, but the concept of reality remains ambiguous, and the harmony of reason and experience remains a postulate.
+
+Local pressure:
+
+- `Realität / Entia Realia / Gedankendinge` now earns a glossary entry. The chapter's critique turns on the three classes of the thinkable and on the real/physical thing falling outside logic.
+- `Erfahrung` becomes both central and unstable. Scientific experience is the problem, but deduction is grounded back in inner experience once the factual resists logical resolution.
+- `Definition / Konstruktion` reaches its Tschirnhaus limit: real things are supposed to have one generation and one cause, unlike mathematical things with multiple equivalent constructions, but this does not become a Leibnizian infinite method-task.
+- `Scientia generalis / Charakteristik / Kombinatorik` receives negative contrast evidence: Tschirnhaus lacks Leibniz's thought that truths of fact are material for infinite application of the general methods.
+- `Wahrheit / Urteil` is pressured by psychologism. Logical rules become laws of our comprehending, and truth would be relativized to the empirical constitution of the faculty of thought unless a metaphysical axiom of shared reason intervenes.
+- `Selbstbewußtsein / Ich / innere Erfahrung` re-enters as a foundation layer: four facts of self-observation ground Tschirnhaus's structure.
+- `Harmonie / Vollkommenheit` receives contrast evidence: Tschirnhaus's reason/experience harmony remains postulate rather than system.
+- `allgemeine Mitteilbarkeit`, `Intellekt / Einbildungskraft`, `Denkvermögen`, and `Physik` are active pressures but remain ledger-only.
+
+Routing:
+
+- Add `Realität / Entia Realia / Gedankendinge`.
+- Update `Erfahrung`, `Definition / Konstruktion`, `Ursache / Bedingung / Erzeugung`, `Scientia generalis / Charakteristik / Kombinatorik`, `Wahrheit / Urteil`, `Selbstbewußtsein / Ich / innere Erfahrung`, and `Harmonie / Vollkommenheit`.
+- Do not write a bounded Tschirnhaus reading note. The chapter finding is important but compact: a ledger entry and glossary update are the right scale.
+- Use the next chapter to test Cassirer's transition claim: the Hobbes-Spinoza-Leibniz-Tschirnhaus line is a closed development around definition and concept, while English rationalist currents form a more isolated but still consequential track.
+
+## 2026-05-15 - English Rationalism: Herbert Of Cherbury And Common Notions
+
+Passage: `parts/043-english-rationalism-herbert-common-notions.md`, printed pages `202-207 partial`.
+
+Part 043 opens the English-rationalism chapter by moving away from the closed Hobbes-Spinoza-Leibniz-Tschirnhaus line. English rationalism begins as a side current: its a priori problem is interwoven with religion and ethics before it becomes an explicitly epistemological doctrine.
+
+Local pressure:
+
+- `Wahrheit / Urteil` shifts from Leibnizian truth-analysis and Tschirnhaus's truth criterion to Herbert's demand for universal religious and moral truth. Truth has to hold beyond revelation, place, time, and sectarian doctrine.
+- `Erfahrung` receives the Herbert form of anticipation: `notitiae communes` are not experiences, but conditions without which nothing can be experienced.
+- `Begriff / Wort / Zeichen` gains a common-notion layer: objects, words, and signs awaken common notions but do not carry them into the mind.
+- `Selbstbewußtsein / Ich / innere Erfahrung` receives a faculty-pressure rather than an I-pressure. Truth must cite the testimony of some spiritual `Vermögen`; the mind is a closed book opened by objects rather than a blank tablet written by them.
+- `notitiae communes`, `natürlicher Instinkt`, `Einheitsreligion`, `Vermögen`, `Allnatur`, `katholische Kirche`, `Herbert`, `Platonismus`, and `κοιναὶ ἔννοιαι` are active pressures.
+
+Routing:
+
+- No new glossary entry yet. Herbert's vocabulary is strong, but Part 044 should test whether the chapter's center remains common notions / faculty psychology or shifts to Digby's thing/existence analysis.
+- Update `Wahrheit / Urteil`, `Erfahrung`, `Begriff / Wort / Zeichen`, and `Selbstbewußtsein / Ich / innere Erfahrung`.
+- Keep `notitiae communes / natürlicher Instinkt` ledger-only until Cudworth and Norris show whether it becomes a chapter-level English-rationalist surface.
+- Continue with Digby from `Ein zweites Moment des gedanklichen Fortschritts...` on PDF page `227` / printed page `207 partial`.
+
+## 2026-05-15 - English Rationalism: Digby, Existence, And Unity-Function
+
+Passage: `parts/044-english-rationalism-digby-existence-and-unity-function.md`, printed pages `207 partial-215 partial`.
+
+Part 044 complements Herbert's truth/common-notion opening with Digby's analysis of the thing. Cassirer treats Digby as a paradoxical mediator: his physics and metaphysics remain Aristotelian-scholastic, but his spiritualism yields a critical thesis about cognition as active unity-function rather than passive image-copy.
+
+Local pressure:
+
+- `Existenz / Sein / Ding` now earns a glossary entry. Existence is Digby's final irresolvable concept and the deepest means of thought; every object of knowledge must be grafted into the basic trunk of being before it can be apprehended.
+- `Wahrheit / Urteil` shifts from Herbert's universal truth to Digby's judgment theory. Truth as agreement is sharpened into the copula's function of binding separated determinations and making them one for knowledge.
+- `Realität / Entia Realia / Gedankendinge` receives contrast evidence: Digby does not classify real physical entities as Tschirnhaus did, but makes actuality intelligible through being, apprehension, and the mind's unity-function.
+- `Selbstbewußtsein / Ich / innere Erfahrung` receives a Digby layer without becoming Cartesian self-certainty: the knowing I is the place where the thing's essence is actively apprehended, and the soul's unity-function shapes manifold sensory content into unity.
+- `Bild / Symbol / Ausdruck` gets English-rationalist anti-copy evidence. Digby rejects species/images as inadequate not because symbolic expression replaces copy, as in Leibniz, but because cognition is intellectual light and spiritual doing.
+- `Begriff / Wort / Zeichen` is pulled under being: nothing can be expressed in speech or conceived in thought without the designation/notion of being.
+- `potentia comparativa`, `Einheitsfunktion der Seele / des Bewußtseins`, `Substantialität`, `Accidentien`, `Spezies`, `Apprehension`, `Grundstamm`, and `Ineinssetzen` are active pressures.
+
+Routing:
+
+- Add `Existenz / Sein / Ding`.
+- Update `Wahrheit / Urteil`, `Realität / Entia Realia / Gedankendinge`, `Selbstbewußtsein / Ich / innere Erfahrung`, `Bild / Symbol / Ausdruck`, and `Begriff / Wort / Zeichen`.
+- Do not open separate entries for `potentia comparativa`, `Einheitsfunktion`, `Substantialität`, `Spezies`, or `Ineinssetzen` yet. Part 044 uses them to build the Digby being/judgment surface.
+- Continue with section `II.` from PDF page `235` / printed page `215 partial`, where Cudworth/Norris should test whether the chapter shifts from Digby's thing/existence analysis to Platonism, intelligible being, or faculty psychology.
+
+## 2026-05-15 - English Rationalism: Cambridge Platonism And Eternal Truths
+
+Passage: `parts/045-english-rationalism-cambridge-platonism-and-eternal-truths.md`, printed pages `215 partial-224`.
+
+Part 045 closes Book V by taking the Digby/Cambridge line to its strongest rationalist formulation. Cudworth and Norris defend science against sensationalism by giving intelligible truths priority over sensory givenness; Locke will begin as the conscious reaction against that recurring rationalist thesis.
+
+Local pressure:
+
+- `intelligible Welt / ewige Wahrheiten` now earns a glossary entry. Cudworth's eternal essences and Norris's eternal relations/correlates make the being of intelligible truth the chapter-close surface.
+- `Wahrheit / Urteil` becomes the decisive handoff to Locke. Norris argues that truth as relation requires real correlates, that hypothetical judgments contain an absolute logical whole, and that sense cannot judge existence.
+- `Existenz / Sein / Ding` receives direct pressure from Norris's distinction between the being of the copula and concrete existence, then from his claim that perceiving a thing's existence would mean perceiving a judgment.
+- `Sinn / Sinneswahrnehmung` is placed in its rationalist counter-position: sense reports only subjective modification unless reason supplies a principle that supports and confirms existence-judgment.
+- `Realität / Entia Realia / Gedankendinge` gets a new form of instability: material-world reality is admitted but not demonstratively secured, while ideal/intelligible objects become the firmer possession.
+- `Bild / Symbol / Ausdruck` gains Cudworth contrast evidence: atheism/sensationalism is defined by treating knowledge as a later copy of already present material objects.
+- `Selbstbewußtsein / Ich / innere Erfahrung` is pressured by the Locke handoff: English rationalism still entangles epistemology with speculative soul/God doctrine, which Locke is said to separate.
+- `Platonismus`, `Cudworth`, `Norris`, `Malebranche`, `plastische Naturen`, `nunc stans`, `Copula`, `hypothetisches / kategorisches Sein`, and `Locke reaction` are active pressures.
+
+Routing:
+
+- Add `intelligible Welt / ewige Wahrheiten`.
+- Update `Wahrheit / Urteil`, `Existenz / Sein / Ding`, `Sinn / Sinneswahrnehmung`, `Realität / Entia Realia / Gedankendinge`, `Bild / Symbol / Ausdruck`, and `Selbstbewußtsein / Ich / innere Erfahrung`.
+- Do not open separate `Platonismus`, `Cudworth/Norris`, `nunc stans`, or `hypothetisches / kategorisches Sein` entries yet. The new intelligible-world entry is the right scale for the chapter close.
+- Use Locke to test whether the intelligible-world/eternal-truths entry remains the direct foil for the critique of innate principles, or whether Locke shifts the center to ideas, reflection, and limits of understanding.
+
+## 2026-05-15 - Locke: Critical Method And Innate Ideas
+
+Passage: `parts/046-locke-critical-method-and-innate-ideas.md`, printed pages `227-232 partial`.
+
+Part 046 opens Book VI by making Locke's achievement a separation rather than a discovery. The problem of knowledge had already been posed by Descartes and by English rationalism; Locke's distinct move is to detach the question of objective validity from metaphysical and natural-scientific theories of the soul, then to make genetic analysis the aid of logical analysis.
+
+Local pressure:
+
+- `intelligible Welt / ewige Wahrheiten` becomes the immediate foil but not the ruling Locke frame. Locke's critique of innate ideas attacks a fictive explanatory ground that blocks free testing, not merely a catalogue of rationalist doctrines.
+- `Erfahrung` shifts toward `reine Erfahrung`, but the shift is methodological rather than sensualist: direct experience and observation delimit the field after metaphysical hypotheses have been excluded.
+- `Sinn / Sinneswahrnehmung` is active but deferred. The section on sensation/reflection will decide whether sense becomes a new glossary surface or remains inside the existing sense/experience entries.
+- `Wahrheit / Urteil` is pressured by Locke's refusal to deny universal and necessary principles. The problem is acquisition and warranted possession, not the existence of validity as such.
+- `Begriff / Wort / Zeichen` receives a genetic-analysis layer: concepts must be resolved into their genesis before their content and meaning can be judged.
+- `Selbstbewußtsein / Ich / innere Erfahrung` shifts from speculative soul doctrine to psychological method: mental functions are examined without a theory of the soul's physical or metaphysical ground.
+- `angeborene Ideen / angeborene Wahrheiten`, `genetische Ableitung`, `psychologische Methode`, `Grenzbestimmung des Verstandes`, `historical plain method`, `Vernunftforschung`, and `Aufklärungsphilosophie` are active pressures.
+
+Routing:
+
+- No new glossary entry yet. Locke's opening sets the chapter's method, but section `I. Sensation und Reflexion` should determine whether the first new Locke surface is innate ideas, sensation/reflection, idea/representation, or limits of understanding.
+- Update `Erfahrung`, `Sinn / Sinneswahrnehmung`, `Wahrheit / Urteil`, `intelligible Welt / ewige Wahrheiten`, `Begriff / Wort / Zeichen`, and `Selbstbewußtsein / Ich / innere Erfahrung`.
+- Do not reduce Locke to flat empiricism. Cassirer explicitly says Locke does not deny universal and necessary principles; the question is how insight into acquisition conditions certainty.
+- Continue with section `I. Sensation und Reflexion` on PDF page `252` / printed page `232 partial`.
+
+## 2026-05-15 - Locke: Sensation, Reflection, And Simple Ideas
+
+Passage: `parts/047-locke-sensation-reflection-and-simple-ideas.md`, printed pages `232 partial-237 partial`.
+
+Part 047 begins the internal test of Locke's method. Cassirer presents sensation/reflection as Locke's two source-moments, then immediately shows why the pair is unstable: reflection is initially modeled as passive mirroring, so inner acts become fixed idea-contents rather than genuine functions.
+
+Local pressure:
+
+- `Sensation / Reflexion` now earns a glossary entry. It is the first Locke-specific surface because the section's problem is not sense alone but the ambiguous relation between sense-perception and self-perception.
+- `Erfahrung` is explicitly non-unitary: experience splits into two source-moments that cooperate in the appearance-world but differ in kind.
+- `Sinn / Sinneswahrnehmung` is not enough to define Locke. Cassirer says calling Locke's doctrine simply `Sensualismus` is one-sided because sensory and "spiritual" contents are both indispensable.
+- `Selbstbewußtsein / Ich / innere Erfahrung` receives a passive-reflection pressure: inner processes are known through mirroring and imprint rather than through active self-grounding.
+- `Bild / Symbol / Ausdruck` receives a Locke mirror/copy layer: reflection is an `Abbild`, `Nachahmung`, and `Abdruck` of inner acts, parallel to sensation as copy of outer things.
+- `Begriff / Wort / Zeichen` is pressured by the simple-idea model: mental functions and logical relations count only insofar as they can be expressed and fixed as individual representations.
+- `Idee / Vorstellung`, `einfache Ideen`, `mixed modes`, `Verbindung`, `seelische Tätigkeit`, `psychologischer Dogmatismus`, and `Verfestigung` are active pressures.
+
+Routing:
+
+- Add `Sensation / Reflexion`.
+- Update `Erfahrung`, `Sinn / Sinneswahrnehmung`, `Selbstbewußtsein / Ich / innere Erfahrung`, `Begriff / Wort / Zeichen`, and `Bild / Symbol / Ausdruck`.
+- Keep `Idee / Vorstellung`, `einfache Ideen`, `mixed modes`, `Verbindung`, and `seelische Tätigkeit` inside the new entry for now. The next tranche should test whether the infinity analysis forces a separate surface.
+- Continue from `Ueber diese Begriffsbestimmung der Reflexion ist Locke...` on PDF page `257` / printed page `237 partial`.
+
+## 2026-05-15 - Locke: Infinity, Reflection, And Necessary Function
+
+Passage: `parts/048-locke-infinity-reflection-and-necessary-function.md`, printed pages `237 partial-242 partial`.
+
+Part 048 supplies the first internal correction of Locke's source-pair. Cassirer does not abandon the sensation/reflection frame, but the infinity problem forces reflection to mean more than passive imprint: it must account for rule-governed continuation and logical necessity.
+
+Local pressure:
+
+- `Sensation / Reflexion` is transformed from within. Reflection first appeared as mirror and imprint; here it has to become necessary mental activity because the infinite cannot be grounded in observed contents.
+- `Wahrheit / Urteil` receives the decisive Locke pressure: the number series is not merely psychologically continuable, but logically required by the concept of number.
+- `Kontinuum / Stetigkeit / Infinitesimal` receives contrast evidence. Locke reaches the need to survey an unfinishable series conceptually, but through pressure on reflection rather than through Leibniz's function/infinitesimal apparatus.
+- `Raum / Zeit` re-enters as the first material for the infinity analysis: finite stretches can be experienced, while infinite advance cannot be warranted by sense-observation alone.
+- `Erfahrung` is restricted to finite pieces and immediate observation; the infinite exposes what experience cannot itself justify.
+- `Begriff / Wort / Zeichen` is pressured by `Idee`: the infinite cannot remain a blurred representational image if it is to have scientific content.
+- `Unendlichkeit`, `Zahl`, `potentielle / aktuelle Unendlichkeit`, `Vermögen`, `Dasein / Existenz`, and `wissenschaftliche Begriffe` are active pressures.
+
+Routing:
+
+- Do not open a separate `Unendlichkeit` glossary entry yet. Part 048 is structurally important, but the pressure is still functioning as the first transformation of `Sensation / Reflexion`.
+- Update `Sensation / Reflexion`, `Wahrheit / Urteil`, `Kontinuum / Stetigkeit / Infinitesimal`, `Raum / Zeit`, `Begriff / Wort / Zeichen`, and `Erfahrung`.
+- Keep `Zahl`, `Dasein / Existenz`, `Vermögen`, and `wissenschaftliche Begriffe` ledger-only until the space/time/force analyses decide whether the Locke chapter's surface shifts.
+- Continue from `Der gleiche Fortgang, der hier hervortritt...` on PDF page `262` / printed page `242 partial`.
+
+## 2026-05-16 - Locke: Space, Time, Number, And Objective Existence
+
+Passage: `parts/049-locke-space-time-number-and-objective-existence.md`, printed pages `242 partial-253 partial`.
+
+Part 049 closes section `I. Sensation und Reflexion`. Cassirer follows the pressure from infinity into space, time, number, and simple ideas: each concept forces Locke beyond passive sensation/reflection, but the section closes by showing that Locke then treats simple sensation as an immediate metaphysical warrant for external things.
+
+Local pressure:
+
+- `Raum / Zeit` becomes the central Locke pressure. Space first appears as sensory place and relation, then is reshaped by empirical physics into pure space distinct from body; time first appears as inner reflection, then becomes the standard by which sensation is measured.
+- `Sensation / Reflexion` is section-tested. Reflection now contains criterion/control and formative activity, but sensation receives a dogmatic guarantee through simple ideas' agreement with external originals.
+- `Erfahrung` is double again: experience forces the distinction between empty space and body, yet is also treated as immediate assurance of external things.
+- `Bewegung` pushes Locke beyond his early relational space doctrine. The motion-phenomenon is what pure space is needed to comprehend and "save."
+- `Körper / Materie / Substanz` and `Existenz / Sein / Ding` receive the section-close remainder: corporeally extended things, substances, and their real effects become the real ground behind sensation/reflection.
+- `Bild / Symbol / Ausdruck` is active negatively. Locke's secondary-quality critique does not abolish copy theory; it presupposes true cognition as copying or imaging absolute existence.
+- `Begriff / Wort / Zeichen` splits. Words can reify space by singling it out as a positive being, while Locke's alphabet-of-thoughts analogy shares rationalism's combinatorial schema but gives it material simple sensations as ground.
+- `Wahrheit / Urteil` is now the next section's natural test. Number already reveals logical functions under representational images, but Locke has not yet supplied an analyzed validity account.
+- `leerer Raum`, `Ort / Ausdehnung`, `Dauer`, `Zahl`, `Gedankenalphabet`, `einfache Ideen`, `sekundäre Qualitäten`, `Original`, `Realgrund`, `Subjekt / Objekt`, and `Kraft / Verursachung` remain active pressures.
+
+Routing:
+
+- No new glossary entry. Section `I` closes by intensifying existing Locke surfaces rather than earning a new one.
+- Update `Raum / Zeit`, `Sensation / Reflexion`, `Erfahrung`, `Bewegung`, `Körper / Materie / Substanz`, `Existenz / Sein / Ding`, `Bild / Symbol / Ausdruck`, `Begriff / Wort / Zeichen`, and `Wahrheit / Urteil`.
+- Keep the section-I finding controlled rather than promoted to a bounded reading note: Locke's genetic psychology discovers logical functions inside experience but lacks a critical account of their validity, leaving a metaphysical thing-remainder.
+- Continue with section `II. Der Begriff der Wahrheit` from PDF page `273` / printed page `253 partial`.
+
+## 2026-05-16 - Locke: Concept Of Truth, Intuition, And Experience
+
+Passage: `parts/050-locke-concept-of-truth-intuition-and-experience.md`, printed pages `253 partial-263 partial`.
+
+Part 050 closes section `II. Der Begriff der Wahrheit`. Cassirer turns from Locke's first two books to the fourth book of the `Essay`: the center shifts from psychological source-analysis to logical validity. Locke now needs universal relations among ideas and intuition as the foundation of certainty, but this leaves empirical nature in probability.
+
+Local pressure:
+
+- `Wahrheit / Urteil` becomes the section center. Truth is no longer secured by accumulated perceptions; mathematical judgment depends on relations among ideas that hold beyond the particular diagram.
+- `Intuition / Anschauung` receives a distinct Locke layer. Intuition is immediate perception of relations among ideas, not Spinozan union, Leibnizian symbolic ascent, or later Kantian form.
+- `Sensation / Reflexion` is ruptured rather than expanded. Once intuition grounds certainty, outer and inner experience can no longer exhaust cognition.
+- `Erfahrung` becomes explicitly limited. Experience remains fragment and patchwork in natural philosophy and does not even lie on the route to intuitive knowledge.
+- `Experiment` is downgraded under Locke: rational and regular experiments improve judgment and opinion, but not knowledge and certainty.
+- `Begriff / Wort / Zeichen` gets a truth-section split from Hobbes. Mathematical signs help memory but do not ground generality; necessary idea-relations carry the warrant.
+- `Bild / Symbol / Ausdruck` receives the sensory-image contrast. The mathematical object is not the individual image from which proof starts.
+- `Existenz / Sein / Ding` becomes a limit problem: all existence-knowledge is confined to present perception, leaving constant things unintelligible from sensation alone.
+- `Sinn / Sinneswahrnehmung` and `Körper / Materie / Substanz` are both restricted. Natural bodies and their inner structural relations cannot be known as strict science through sense or experiment.
+- `Intuition`, `Idee`, `Moral`, `Naturwissenschaft / natural philosophy`, `scientifical knowledge`, `philosophische Erfahrungstheorie`, `primäre Qualitäten`, `innere Erfahrung`, and `Grenzen der Erkenntnis` remain active pressures.
+
+Routing:
+
+- No new glossary entry. Section `II` makes `Wahrheit / Urteil` dominant, but that surface already exists and can absorb the Locke pressure for now.
+- Update `Wahrheit / Urteil`, `Intuition / Anschauung`, `Sensation / Reflexion`, `Erfahrung`, `Experiment`, `Begriff / Wort / Zeichen`, `Bild / Symbol / Ausdruck`, `Existenz / Sein / Ding`, `Sinn / Sinneswahrnehmung`, and `Körper / Materie / Substanz`.
+- Keep the candidate chapter finding provisional: Locke's empiricism is a logical critique of experience precisely where it despairs of making experience strict science.
+- Continue with section `III. Der Begriff des Seins` from PDF page `283` / printed page `263 partial`.
+
+## 2026-05-16 - Locke: Substance, Being, And Metaphysical Transcendence
+
+Passage: `parts/051-locke-substance-being-and-metaphysical-transcendence.md`, printed pages `263 partial-274`.
+
+Part 051 closes the Locke chapter. Cassirer turns the substance critique into the final test of Locke's method: substance is exposed as an empty bearer and an `idolon fori`, yet Locke still needs the unknown bearer as the condition of objecthood, appearance, and ideal scientific knowledge from causes.
+
+Local pressure:
+
+- `Existenz / Sein / Ding` becomes the chapter-close surface. Being appears first as substance-bearer, then as one of Locke's four relation-types among ideas, but the actual existence outside the mind cannot be justified through Locke's own logic.
+- `Körper / Materie / Substanz` completes the Locke arc. Substance fails when sought as a sensory or psychical image, but Locke still treats inner bodily natures as the ideal object of perfect knowledge.
+- `Sensation / Reflexion` is confirmed as insufficient. It cannot legitimate substance, the I, or actual existence beyond ideas, yet simple sensation is still treated as access to true being.
+- `Wahrheit / Urteil` receives the final distinction: objective validity among ideas is not the same problem as metaphysical transcendence of things, but Locke fuses them.
+- `Bild / Symbol / Ausdruck` receives the closing image-critique. Locke tries to image intellectual functions directly and therefore retains only `Vorstellungsreste`.
+- `Selbstbewußtsein / Ich / innere Erfahrung` is pressured by the I-side of substance: inner experience gives successive states, not the self to which they adhere.
+- `Substanz / Träger`, `idolon fori`, `Form / Materie`, `Urbild / Archetyp`, `einfache Empfindung`, `objektive Gewißheit der empirischen Erkenntnis`, and `metaphysische Transzendenz der Körperwelt` are active pressures.
+
+Routing:
+
+- No new glossary entry. The chapter close intensifies `Existenz / Sein / Ding`, `Körper / Materie / Substanz`, and `Wahrheit / Urteil` rather than opening a Locke-only substance surface.
+- Add the bounded chapter note `reading/2026-05-16-locke-experience-validity-and-transcendence.md`.
+- The Locke chapter finding is now earned but chapter-local: Locke's empiricism becomes a logical critique of experience where its psychological method uncovers objective norms it cannot ground.
+- Continue with Berkeley from PDF page `295` / printed page `275`. Berkeley should test whether removing the transcendent thing clarifies empirical objectivity or endangers it.

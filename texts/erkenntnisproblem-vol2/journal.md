@@ -1519,7 +1519,7 @@ Routing decision:
 
 Re-entry hooks:
 
-- Part 038 should begin on PDF page `186` / printed page `166` with section `III.` and `Der Aufbau und der Stufengang der Erkenntnis...`.
+- Part 038 should begin on PDF page `186` / printed page `166` with section `III.` and `Der Aufbau und der Stufengang der rationalen Erkenntnis...`.
 - Watch whether the next section shifts from force and physical law to `Bild`, `Symbol`, `Ausdruck`, and cognition levels strongly enough to earn a new glossary surface.
 - Watch whether the force/living-force entry remains physical or begins to require a broader metaphysical or biological force note.
 - Do not create the Fardella/discovery note yet. Part 037 made force/dynamics the stronger chapter pattern; the discovery hook remains useful but not chapter-dominant so far.
@@ -1533,3 +1533,664 @@ Verification result:
 - PDF pages `180-186` were checked against scan/Tesseract output on `_0180` through `_0186`. Scan `_0180` confirms the start at `Jetzt erst...`; scan `_0186` confirms the stop before section `III.`.
 - The review corrected OCR residue around `μετάβασις εἰς ἄλλο γένος`, `Zeitverlaufs`, `Leibnizischen`, `Charakteristische des zeitlichen Wandels`, `Bewußtsein als etwas`, `Sinneserfahrung ein zweites`, `Robert Boyle`, `Corporum`, `percipi`, `intelligibel`, `Erkenntniszusammenhang`, `status praesens`, `praeinvolvit`, `praesens gravidum est futuro`, `Specimen dynamicum`, `Clarke`, `reali influxu`, `a reddenda ratione`, `seine relative Berechtigung`, `Erhaltung der lebendigen Kraft`, `Erscheinungen auch`, `so fiele`, `feste Größe`, `Zeitverlauf`, `Leibniz`, `seine Geltung`, and `Einzelwissenschaften`.
 - The substantive Latin quotations on mechanical principles, derivative force, and cause as reason rather than influx are translated in the draft-footnote layer. The Leibniz body quotations on truths of fact, higher characteristic, force, work, and conservation of living force are translated in the draft body because each carries the argument.
+
+## 2026-05-14 - Leibniz, Image, Symbol, And Eternal Truths
+
+Created `parts/038-leibniz-image-symbol-and-eternal-truths.md` from PDF pages `186-196` / printed pages `166 partial-176 partial`, beginning with section `III.` / `Der Aufbau und der Stufengang der rationalen Erkenntnis...` and stopping before `Alle skeptischen Einwände gegen die Realität der Erscheinungswelt...`.
+
+What this tranche clarified:
+
+- Section `III.` shifts from force/dynamics to the form of rational cognition itself. Leibniz's truth-concept now appears as an ideal of symbolic expression.
+- Leibniz rejects the copy theory from the start: ideas do not need likeness to things, but must preserve relations in a regulated expression.
+- Perception is reinterpreted through sign-function. Sensation is mute by itself; it becomes cognition only by receiving an ideal meaning for which it serves as indication.
+- The general characteristic is defended against conventionalism. Its signs can be arbitrary in material, but their relation-content is independent and law-governed.
+- Infinitesimal measure and physical work both become symbolic translations. Heterogeneous magnitudes and qualitative processes are made knowable by a rule of correspondence, not by direct homogeneity.
+- The tranche closes by placing appearance under eternal truths. Eternal truths do not depend on facts for evidence, but the order of facts must point toward them.
+
+Structural center:
+
+- The load-bearing movement is from image to symbol to appearance under law. Cassirer shows the same relation-preserving form at work in ideas, characters, differentials, work-magnitudes, and eternal truths.
+
+Routing decision:
+
+- Add `Bild / Symbol / Ausdruck` as an open glossary entry.
+- Update `Begriff / Wort / Zeichen`, `Scientia generalis / Charakteristik / Kombinatorik`, `Intuition / Anschauung`, `Kontinuum / Stetigkeit / Infinitesimal`, `Kraft / Arbeit / lebendige Kraft`, `Erfahrung`, and `Wahrheit / Urteil`.
+- Keep `Phänomen / Erscheinung`, `ewige Wahrheiten`, `Harmonie / Vollkommenheit`, `primäre / sekundäre Qualitäten`, `Abbildtheorie`, `Molyneux`, `Hertz`, and `Ähnlichkeit / Analogie` in the close-reading ledger rather than opening separate entries.
+
+Re-entry hooks:
+
+- Part 039 should begin on PDF page `196` / printed page `176` with `Alle skeptischen Einwände gegen die Realität der Erscheinungswelt...`.
+- Watch whether `Phänomen / Erscheinung` earns a glossary entry now that the next paragraph directly takes up the reality of the appearance-world.
+- Watch whether `Harmonie / Vollkommenheit` becomes the bridge from symbolic cognition to substance/metaphysics.
+- Do not create the bounded Leibniz chapter note yet. The symbol pattern is now visible, but the next appearance/substance tranche should decide its chapter-level form.
+
+Decision for now:
+
+- Part 038 passes the same-agent self-review gate for controlled draft status. It earns one new glossary surface and keeps the more tempting appearance/metaphysics terms deferred to Part 039.
+
+Verification result:
+
+- PDF pages `186-196` were checked against scan/Tesseract output on `_0186`, `_0187`, `_0190`, `_0191`, `_0195`, and `_0196`. Scan `_0186` confirms the section `III.` start; scan `_0196` confirms the stop before `Alle skeptischen Einwände...`.
+- The review corrected OCR residue around `Ideals der Erkenntnis`, `Maschine`, `Konvention`, `Gegend`, `daß`, `Quid Sit Idea`, `formuliert`, `Molyneuxsche`, `Wahrnehmungskomplexen`, `vorliegt`, `hierzu`, `Mannigfaltigkeit zu`, `Wahrheitsgehalt zu`, `irgendeine`, `Ergebnis, zu`, `S. ob.`, `Kontingenzwinkels`, `Leibniz' Zeiten`, `πρῶτα`, `Mathematicarum metaphysica`, French accents in the `Nouveaux Essais` quotation, `vollkommen zu`, `Bewegungen, von`, `durchdringen, als indem`, `Unterschiede, die zwischen`, `enthüllt: so`, `Bedingungssätze, die`, `Mollat`, `von der Bewegung`, `darzustellen, als`, `verschaffen`, and `Réponse aux réflexions de Bayle`.
+- The substantive French quotation on expressive resemblance is translated in the draft-footnote layer. The Hertz footnote quotation is summarized/translated because Cassirer uses it as evidence for the modern afterlife of Leibniz's truth concept. The long Bayle-response quotation is translated in the body because it closes the tranche's argument.
+
+## 2026-05-14 - Leibniz, Appearance, Truths Of Fact, And Individuality
+
+Created `parts/039-leibniz-appearance-truths-of-fact-and-individuality.md` from PDF pages `196-201` / printed pages `176 partial-181 partial`, beginning with `Alle skeptischen Einwände gegen die Realität der Erscheinungswelt...` and stopping before section `IV.`.
+
+What this tranche clarified:
+
+- Skepticism is right against thing-like originals behind phenomena, but wrong against the reality of the appearance-world. Appearance is real as logical truth and systematic connection.
+- The astronomical example states the criterion sharply: Copernican truth is intelligibility, not exclusive correspondence to an absolute corporeal order.
+- The senses cannot decide what truth or being means. Demonstrative truths stand above skeptical doubt and decide the truth of sense-things.
+- The ideal and actual require functional correspondence, not material likeness. The actual is ordered as if ideal norms were full realities.
+- The Leibnizian truth of fact is completed only by preserving tension: facts harmonize with eternal truths but never wholly dissolve into them.
+- The individual becomes an unfinishable task for reason. Its analysis can proceed by a rule of progress without ever exhausting the individual.
+
+Structural center:
+
+- The load-bearing movement is from the reality criterion of appearances to the modified truth criterion for contingent fact. Leibniz answers skepticism by systematic connection, then prevents rationalism from erasing individuality by using the infinitesimal model of endless approximation.
+
+Routing decision:
+
+- Add `Phänomen / Erscheinung` as an open glossary entry.
+- Update `Bild / Symbol / Ausdruck`, `Wahrheit / Urteil`, `Erfahrung`, `Bewegung`, `Kontinuum / Stetigkeit / Infinitesimal`, and `Scientia generalis / Charakteristik / Kombinatorik`.
+- Keep `Harmonie / Vollkommenheit`, `Tatsachenwahrheit`, `Einzelnes / Individualität`, `platonisches Streben`, `Copernikanisches System`, `Foucher`, and `Skepsis` in the close-reading ledger rather than opening separate glossary entries.
+
+Re-entry hooks:
+
+- Part 040 should begin on PDF page `201` / printed page `181` with section `IV.` and `In der Einsicht, daß das Einzelne...`.
+- Watch whether `Einzelnes / Individualität` earns a glossary entry in section `IV.` or is immediately absorbed into `Substanz / Monade`.
+- Watch whether `Harmonie / Vollkommenheit` becomes a glossary entry through monadology and the system of viewpoints.
+- Keep the bounded Leibniz note deferred until section `IV.` decides whether the symbol/appearance pattern becomes a harmony/monadology pattern.
+
+Decision for now:
+
+- Part 039 passes the same-agent self-review gate for controlled draft status. It earns `Phänomen / Erscheinung` and leaves the monadology/harmony material for the next section.
+
+Verification result:
+
+- PDF pages `196-201` were checked against scan/Tesseract output on `_0196` and `_0201`. Scan `_0196` confirms the start at `Alle skeptischen Einwände...`; scan `_0201` confirms the stop before section `IV.`.
+- The review corrected OCR residue around `Das Kriterium der Wirklichkeit`, `erkenntnistheoretische`, `Ordnungen`, `logische Wahrheit`, French accents in the `Nouveaux Essais` quotation, `Verständlichkeit`, `Hält`, `Copernikanischen`, `eine`, `Phoranomus`, `Tentamen de motuum coelestium causis`, `Foucher`, `matière`, `démonstratives`, `exempte`, `Il n'est pas nécessaire`, `parfaitement semblable`, `exprime`, `l'Ellipse`, `certaine loi`, `harmonieren`, `andererseits in ihnen`, `Übereinstimmung der Grundstruktur`, `völlig`, `ins Unendliche auflösbar sind`, `Rational- und Irrationalzahlen`, `Unerschöpflichen`, `Mittelstellung`, and `Generales Inquisitiones de Analysi Notionum et Veritatum`.
+- The substantive French quotations from the `Nouveaux Essais` and the Foucher letter are translated in the draft-footnote layer. The long Latin quotation from `Generales Inquisitiones` is translated in the draft-footnote layer because it supplies the formal criterion for contingent truth.
+
+## 2026-05-14 - Leibniz, Monadology, Harmony, And Chapter Close
+
+Created `parts/040-leibniz-monadology-harmony-and-chapter-close.md` from PDF pages `201-210` / printed pages `181 partial-190`, beginning with section `IV.` / `In der Einsicht, daß das Einzelne...` and stopping before `Drittes Kapitel. Tschirnhaus.`
+
+What this tranche clarified:
+
+- The finite `Scientia generalis` reaches its natural limit in the individual. The individual contains an infinity of conceptual partial conditions that finite cognition can clarify only successively.
+- The metaphysical-rationalist pressure remains: divine intellect sees in one glance the completed resolution that finite analysis can only approach.
+- Leibniz's contrast with Spinoza is now explicit. Spinoza pushed individual empirical sequences aside as unnecessary for grasping fixed-eternal things; Leibniz treats this as evading the task empirical research sets.
+- The monadological turn comes through primitive force. The individual subject is not a resting aggregate of conditions but a self-active source whose changes are logically preformed by its own law.
+- The appearance-world is grounded through harmony among representing subjects, not through a shared copied object.
+- The chapter closes by expanding the mathematical function concept into the harmony concept of ethics and metaphysics.
+
+Structural center:
+
+- The load-bearing movement is from inexhaustible individuality to symbolic harmony. The chapter's earlier function, symbol, appearance, and force threads are gathered into a final account of harmony as the agreement among ideal ways of considering being.
+
+Routing decision:
+
+- Add `Substanz / Monade / primitive Kraft` as an open glossary entry.
+- Add `Harmonie / Vollkommenheit` as an open glossary entry.
+- Update `Wahrheit / Urteil`, `Scientia generalis / Charakteristik / Kombinatorik`, `Funktion / Funktionsbegriff`, `Kraft / Arbeit / lebendige Kraft`, `Bild / Symbol / Ausdruck`, `Phänomen / Erscheinung`, `Raum / Zeit`, `Intuition / Anschauung`, `Bewegung`, and `Begriff / Wort / Zeichen`.
+- Keep `Einzelnes / Individualität` absorbed into `Substanz / Monade / primitive Kraft` for now. The chapter makes individuality monadological rather than a separate glossary surface.
+
+Re-entry hooks:
+
+- The next translation part should begin on PDF page `211` / printed page `191` with `Drittes Kapitel. Tschirnhaus.`
+- Tschirnhaus should test whether constructive method and symbolic cognition can be sustained without Leibniz's harmony-metaphysics.
+- Do not use the Leibniz bounded note as a template for Tschirnhaus. Use it as a contrast test: what happens to method once harmony is no longer the obvious chapter close?
+
+Decision for now:
+
+- Part 040 passes the same-agent self-review gate for controlled draft status. The Leibniz chapter is complete as controlled draft, pending the chapter-level calibration audit below.
+
+Verification result:
+
+- PDF pages `201-210` were checked against scan/Tesseract output on `_0201`, `_0202`, `_0204`, `_0205`, `_0206`, `_0207`, `_0208`, `_0209`, and `_0210`. Scan `_0201` confirms the section `IV.` start; scan `_0210` confirms the chapter close before `Drittes Kapitel. Tschirnhaus.`
+- The review corrected OCR residue around `Mittelstellung`, `Analysi`, `Leibniz`, `begnügen, die`, `tamen`, `ut`, `veritatum`, `nicht genug`, `Zeitpunkt`, `zunächst`, `Entwicklungsreihen`, `Begriff der primitiven Kraft`, `Veränderungsreihen, die`, `Bilder`, `vernichte. Ist`, `Wissenschaften`, `darin,`, `Grundbegriff der Harmonie`, `keinen`, `fortgesetzten`, `dieser`, `Stufengang`, `Gesamtinhalt der Wirklichkeit`, `Vorbereitung für`, `ineinandergreifen`, `Verhältnisse`, `vérité`, `réalité`, `fundamentum habentes`, `unbedingtes Dasein`, `Kräfte`, `ausgerüstet, tritt`, `oberflächliche`, `Reich der Natur`, and `id est Deus`.
+- The substantive Latin `De libertate` quotation, the French Clarke quotation, and the Latin `modi considerandi` quotation are translated in the draft-footnote layer. The de Volder and `Harmonia universalis` quotations are translated in the draft body.
+
+## 2026-05-14 - Leibniz Chapter Calibration After Goal Run
+
+The Leibniz chapter goal ran from Part 036 through Part 040 after Parts 031-035 had already calibrated the opening, judgment, characteristic, function, and continuum material. The goal did not require loosening the controlled-draft tier: each tranche still used exact source extraction, scan/Tesseract boundary checks, corrected German, source-language quotation handling, glossary routing, and a same-agent second pass.
+
+Chapter-level finding:
+
+- Leibniz answers the Spinoza close not by removing mediation, but by making mediating forms the route to objectivity. Function replaces element-search, symbol replaces copy, force carries continuity into temporal occurrence, the individual remains an inexhaustible task, and harmony names the accord among the ideal standpoints through which being is interpreted.
+
+What changed during the goal:
+
+- The Fardella/discovery hook did not become a bounded note. It stayed important as evidence that the calculus arises from the inner source of Leibniz's philosophy, but the chapter's dominant pattern became function-symbol-harmony rather than mathematical discovery alone.
+- `Kraft / Arbeit / lebendige Kraft` became a glossary entry in Part 037, then split in Part 040 against `primitive Kraft`.
+- `Bild / Symbol / Ausdruck` and `Phänomen / Erscheinung` became distinct glossary entries in Parts 038-039 because the chapter made symbol and appearance into separate structural surfaces.
+- `Substanz / Monade / primitive Kraft` and `Harmonie / Vollkommenheit` were opened only at the chapter close, after section `IV.` made them more than anticipated metaphysical vocabulary.
+
+Decision for now:
+
+- The bounded Leibniz note at `reading/2026-05-14-leibniz-function-symbol-and-harmony.md` is earned and should remain chapter-local.
+- Do not promote a cross-book Cassirer thesis from Leibniz alone. The Tschirnhaus chapter is the next test: whether constructive method and symbolic cognition can stand without Leibnizian harmony.
+- The whole Leibniz chapter is controlled draft, not final translation. A later cold read can still target one mid-goal tranche and Part 040, but no known blocker remains before moving to Tschirnhaus.
+
+Trailing review note, 2026-05-15:
+
+- External review confirmed the chapter coverage: Parts `031-040` cover Leibniz from printed pages `126-190`, matching the chapter preface and sections `I-IV`.
+- Follow-up scan check confirms `daserkenntnispro02cassuoft_0211.jp2` opens `Drittes Kapitel. Tschirnhaus.` The prose claim that the Leibniz chapter runs through printed page `191` should be read as an off-by-one slip; Part 040 closes on printed page `190`.
+- Earlier concern about work-title backtick inconsistency in Parts `031-035` is retracted. The bare titles were in the faithful German Footnotes block; the English Draft Footnotes convention is consistent.
+- `ewige Wahrheiten` remains a watchpoint rather than a glossary entry. Parts `038-039` made it load-bearing, but the term should be tested against Locke and Hume before it gets its own surface.
+- Leibniz produced unusually dense glossary growth. Treat this as Leibniz-specific unless Tschirnhaus and the shorter following chapters earn comparable density through primary contact.
+
+## 2026-05-15 - Tschirnhaus, Method Doctrine, Definition, And Experience
+
+Created `parts/041-tschirnhaus-method-doctrine-definition-and-experience.md` from PDF pages `211-215` / printed pages `191-195 partial`, beginning with `Drittes Kapitel. Tschirnhaus.` and stopping before `Die Aufstellung der allgemeinen Forderung einer kritischen Erfahrungslehre...`.
+
+What this tranche clarified:
+
+- Tschirnhaus is introduced as mediator rather than originator. His importance lies in joining Spinoza's unfinished theory of experiential knowledge, Leibniz's Paris-era development of genetic definition, and Descartes' algebraic method into a narrower doctrine of experience for the particular sciences.
+- The Leibniz contrast is explicit from the start. Leibniz presses beyond algebra toward a universal science and a general "science of forms"; Tschirnhaus holds to a narrower physical-method target.
+- Definition remains genetic: to comprehend a thing is to let it arise before the mind, and every legitimate definition must include generation.
+- Experience becomes the aim and regulator of rational method. It determines the concept without replacing it, while experiment helps select among abstract concept-plans when sensible particularity becomes too complex for pure deduction.
+
+Structural center:
+
+- The load-bearing movement is from Leibnizian universal science to Tschirnhausian methodical limitation. The opening tests whether constructive rational method can survive without Leibniz's harmony-metaphysics by turning toward physics, experiment, and Erfahrungslehre.
+
+Routing decision:
+
+- No new glossary entry yet.
+- Update `Erfahrung`, `Experiment`, `Induktion`, `Ursache / Bedingung / Erzeugung`, `Definition / Konstruktion`, and `Scientia generalis / Charakteristik / Kombinatorik`.
+- Keep `Methodenlehre`, `Erfahrungswissen / Erfahrungslehre`, `apriorischer / aposteriorischer Weg`, `methodische Beobachtung`, `Lambert`, and `deutsche vorkantische Philosophie` in the close-reading ledger until the critique of fulfillment decides whether they become more than opening pressures.
+
+Re-entry hooks:
+
+- Part 042 should begin on PDF page `215` / printed page `195 partial` with `Die Aufstellung der allgemeinen Forderung einer kritischen Erfahrungslehre...`.
+- Watch whether `Realität`, `Entia Realia seu Physica`, `Gedankendinge`, or the three classes of the thinkable earn a glossary surface in the critique.
+- Test whether Tschirnhaus's narrowed method produces critical Erfahrungslehre or exposes a new metaphysical/psychological gap.
+
+Decision for now:
+
+- Part 041 passes the same-agent self-review gate for controlled draft status. It is enough to open the Tschirnhaus chapter, but not enough to set a whole-chapter goal until Part 042 tests the failure/fulfillment critique.
+
+Verification result:
+
+- PDF pages `211-215` were checked against scan/Tesseract output on `_0211`, `_0212`, `_0213`, `_0214`, `_0215`, and `_0216`. Scan `_0211` confirms the chapter opening; scan `_0215` confirms the stop boundary just before the critique paragraph; scan `_0216` confirms the critique begins after the stop.
+- The review corrected OCR residue around `Tschirnhaus`, `Methodenlehre`, `Theorie des Erfahrungswissens`, `prinzipiell`, `wollen. Auch`, `Verknüpfungen`, `Zahlenlehre`, `Standpunkt`, `Wörterbuch`, `Geometrie`, `Tschirnhaus'`, `geht`, `heißt`, `Einzeldinges`, `entstehen lassen`, `unfehlbare`, `abschätzen`, `fruchtbarste`, `aposteriorischen`, `Erfahrung determiniert`, `ausschließlich`, `Experiment`, `förderlich`, `Vernunft`, `Physices`, `considerandae`, `impossibile`, `praestare omnibus Empiricis`, and `impossibile`.
+- The PDF text-layer page header `Die Lehre von der Definition. 105` was checked against the scan and corrected as printed page `195`.
+- The Tschirnhaus quotations on Descartes' Mersenne letter and definition-as-generation are translated in the body. The substantive Latin `Medicina mentis` quotation in footnote 4 is translated in the draft-footnote layer.
+
+## 2026-05-15 - Tschirnhaus, Reality, Inner Experience, And Physics
+
+Created `parts/042-tschirnhaus-reality-inner-experience-and-physics.md` from PDF pages `215-221` / printed pages `195 partial-201`, beginning with `Die Aufstellung der allgemeinen Forderung einer kritischen Erfahrungslehre...` and stopping before `Viertes Kapitel. Der Rationalismus in der englischen Philosophie.`.
+
+What this tranche clarified:
+
+- Tschirnhaus's demand for a critical doctrine of experience is not identical with its fulfillment. The chapter close shows that scientific experience has become the central modern problem inside rationalism, but the method cannot fully mediate reason and experience.
+- The concept of reality remains ambiguous. The thinkable divides into sensory-intuitive contents, rational/mathematical constructions, and physical or real things; the third class is supposed to arise in one way and from one cause, but this makes empirico-physical being fall outside the circle of logic.
+- When factual content cannot be logically resolved, Tschirnhaus grounds deduction back in inner experience and the four facts of self-observation.
+- The truth criterion slides toward psychological compulsion. Tschirnhaus then restores objectivity by a metaphysical assertion of the common identity of reason rather than by a demonstrated logical bridge.
+- Physics receives an exceptional position: it is the sum of genuine cognition and the place where God's laws in things are disclosed, but this privilege is won by postulate rather than by completed method.
+
+Structural center:
+
+- The load-bearing movement is from methodical limitation to unresolved dualism. Tschirnhaus narrows the rationalist method toward experience and physics, but the narrowed method leaves reality outside logic, makes inner experience foundational again, and leaves harmony between reason and experience as postulate.
+
+Routing decision:
+
+- Add `Realität / Entia Realia / Gedankendinge` as an open glossary entry.
+- Update `Erfahrung`, `Definition / Konstruktion`, `Ursache / Bedingung / Erzeugung`, `Scientia generalis / Charakteristik / Kombinatorik`, `Wahrheit / Urteil`, `Selbstbewußtsein / Ich / innere Erfahrung`, and `Harmonie / Vollkommenheit`.
+- Keep `allgemeine Mitteilbarkeit`, `Intellekt / Einbildungskraft`, `Denkvermögen`, and `Physik` in the close-reading ledger rather than opening separate entries from the chapter close.
+- Do not write a bounded Tschirnhaus reading note. The chapter finding is compact and is carried sufficiently by this journal entry, the ledger entry, and the new glossary cluster.
+
+Re-entry hooks:
+
+- The next part should begin on PDF page `222` / printed page `202` with `Viertes Kapitel. Der Rationalismus in der englischen Philosophie.`
+- The next chapter should test Cassirer's transition claim: the Hobbes-Spinoza-Leibniz-Tschirnhaus line forms a closed development around definition and concept, while English rationalist currents remain relatively isolated but consequential.
+- Watch whether physics remains the privileged solution or whether the rationalist issue shifts toward religion, Platonism, and innate principles.
+- Do not promote Tschirnhaus's physics-exception into a cross-book thesis before the English rationalism chapter supplies contrast evidence.
+
+Decision for now:
+
+- Part 042 passes the same-agent self-review gate for controlled draft status. The Tschirnhaus chapter is complete as controlled draft. Its glossary growth stayed restrained after Leibniz, which supports the earlier judgment that Leibniz's dense entry-rate was chapter-specific rather than the new default.
+
+Verification result:
+
+- PDF pages `215-221` were checked against scan/Tesseract output on `_0215`, `_0216`, `_0217`, `_0218`, `_0219`, `_0220`, `_0221`, and `_0222`. Scan `_0215` confirms the start after Part 041's stop; scan `_0221` confirms the Tschirnhaus chapter close; scan `_0222` confirms the next chapter begins with `Viertes Kapitel. Der Rationalismus in der englischen Philosophie.`
+- The review corrected OCR residue around `Tschirnhaus`, `Realität`, `Vorstellungen`, `äußeren`, `äquivalent`, `Körper`, `seu Physica`, `Gedankendingen`, `Mitwirkung`, `Entia`, `tamen`, `praecedentium`, `nullatenus`, `objecta`, `existentia`, `Ausdehnung`, `Intellekts`, `Einbildungskraft`, `perzipiert`, `besitzen wir`, `Begreifens`, `allgemeingültige`, `bleibt`, `eigentliche Bereich des wirklichen`, `empirisch-physikalischen`, `fühlbarer`, `vollständige`, `selbst`, `inneren Erfahrung`, `Bewußtseins`, `lustvoll`, `möglich`, `Vorstellungsverbindung`, `nicht etwas Stummes`, `Nicht-Sein`, `unvollziehbar`, `Denkvermögens`, `gehorcht`, `erschlichen`, `wahren Vorstellung`, `allgemeingültig`, `allgemeine Mitteilbarkeit`, `Notwendigkeit nicht besteht`, `einzelnen Individuen`, `alle Fälle`, `begründen`, `durchgängigen Gleichartigkeit`, `Harmonie`, `Postulat`, `apriorischen`, `Inbegriff`, `Gegenstände`, `enthüllen`, `Wirksamkeiten Gottes`, and `modernen Aufgaben`.
+- The substantive Latin `Medicina mentis` quotation on `Entia Realia seu Physica` is translated in the draft-footnote layer. The Tschirnhaus body quotations on concept/idea and physics as divine works are translated in the draft body.
+
+## 2026-05-15 - English Rationalism, Herbert Of Cherbury, And Common Notions
+
+Created `parts/043-english-rationalism-herbert-common-notions.md` from PDF pages `222-227` / printed pages `202-207 partial`, beginning with `Viertes Kapitel. Der Rationalismus in der englischen Philosophie.` and stopping before `Ein zweites Moment des gedanklichen Fortschritts...`.
+
+What this tranche clarified:
+
+- Cassirer treats the Hobbes-Spinoza-Leibniz-Tschirnhaus line as a closed development around definition and concept, then opens a relatively isolated English side current.
+- English rationalism begins next to experiential science, but not from physics in Tschirnhaus's sense. Its first a priori pressure is ethical and religious: the demand for a universal ground of moral norms and a universal church of reason.
+- Herbert's `de Veritate` makes the concept of truth central. Revelation may add historical concreteness, but it cannot ground or contradict rational universal truth.
+- Common notions are grounded in a natural faculty or natural instinct. They are awakened by objects but not carried into the mind by objects.
+- Herbert's `notitiae communes` are "anticipations" of experience: not experiences themselves, but conditions without which nothing can be experienced.
+
+Structural center:
+
+- The load-bearing movement is from universal religion to a natural-faculty theory of common notions. The a priori no longer appears chiefly as genetic definition, symbolic construction, or physics; it appears as an inborn common possession of mind, held in natural instinct and opened by contact with objects.
+
+Routing decision:
+
+- No new glossary entry yet.
+- Update `Wahrheit / Urteil`, `Erfahrung`, `Begriff / Wort / Zeichen`, and `Selbstbewußtsein / Ich / innere Erfahrung`.
+- Keep `notitiae communes`, `natürlicher Instinkt`, `Einheitsreligion`, `Vermögen`, `Allnatur`, `katholische Kirche`, `Herbert`, `Platonismus`, and `κοιναὶ ἔννοιαι` in the close-reading ledger. Digby and the Cambridge school should decide whether this chapter earns a new common-notions, intelligible-being, Platonism, or faculty-psychology surface.
+
+Re-entry hooks:
+
+- Part 044 should begin on PDF page `227` / printed page `207 partial` with `Ein zweites Moment des gedanklichen Fortschritts...`, then move into Kenelm Digby.
+- Test whether Digby's thing/existence analysis earns a distinct `Ding / Existenz / Sein` surface or instead updates existing reality, substance, and truth entries.
+- Watch whether the chapter's center remains common notions and faculty psychology, or shifts toward intelligible being and Platonism in Cudworth and Norris.
+
+Decision for now:
+
+- Part 043 passes the same-agent self-review gate for controlled draft status. The chapter-opening absorption discipline held: Herbert's terms are strong, but the part updates existing truth, experience, sign, and faculty surfaces rather than opening a new glossary entry on first contact.
+
+Verification result:
+
+- PDF pages `222-227` were checked against scan/Tesseract output on `_0222`, `_0223`, `_0224`, `_0225`, `_0226`, `_0227`, and `_0228`. Scan `_0222` confirms the chapter opening; scan `_0227` confirms the stop before `Ein zweites Moment...`; scan `_0228` confirms the Digby material continues after the stop.
+- The review corrected OCR residue around `einer . völlig`, `Cartesischen`, `Materialisten`, `Platon`, `mannigfach`, `Hertling`, `katholische Kirche`, `Keine Religion`, `die gleichen`, `Naturmacht`, `wahrhafte Siegel`, `waltet`, `Erfahrung`, `notitiae communes`, `nichts zu erfahren vermögen`, `eindringen`, `Sache`, `confirmatio`, `Vermögen`, `Wahrscheinlichkeit`, `Mittelpunkt`, and the Greek `κοιναὶ ἔννοιαι`.
+- The substantive Latin footnotes on natural instinct and `notitiae communes` are translated in the draft-footnote layer. The body quote from Herbert on universal providence and the true catholic church is translated in the draft body.
+
+## 2026-05-15 - Gassendi To Hobbes Bridge Note
+
+Created `reading/2026-05-15-gassendi-to-hobbes-method-bridge.md` after the completed *Disquisitio metaphysica* source campaign.
+
+Bridge finding:
+
+- Gassendi exposes the problem that early empiricism must solve: experience cannot remain passive sensory reception because scientific objects require comparison, correction, abstraction, enlargement, naming, and relation.
+- Hobbes gives the next methodological answer by making knowledge constructive: cause becomes a condition-aggregate, geometry supplies the model of demonstrability, names stabilize judgment, and nature is reconstructed after the destruction-of-the-world fiction.
+- The answer is only partial. Hobbes's constructed principles then harden into absolute powers: body, matter, motion, sovereign convention, and external pressure.
+
+Routing decision:
+
+- Keep the bridge as a bounded reading note, not a glossary promotion or a new thread handle.
+- Use it as a re-entry surface for Gassendi's *Syntagma* / *Physica*, Hobbes source work, and the Spinoza/Leibniz genetic-definition and symbolic-cognition line.
+- Do not generalize it into a thesis about all empiricism or rationalism until the later Vol. 2 material is tested against it.
+
+## 2026-05-15 - English Rationalism, Digby, Existence, And The Unity-Function
+
+Created `parts/044-english-rationalism-digby-existence-and-unity-function.md` from PDF pages `227-235` / printed pages `207 partial-215 partial`, beginning with `Ein zweites Moment des gedanklichen Fortschritts...` and stopping before section `II.` / `Die Lehre Kenelm Digbys ist ein Beweis...`.
+
+What this tranche clarified:
+
+- Digby complements Herbert's truth/common-notion opening with an analysis of the thing and existence.
+- Cassirer reads Digby as a paradoxical mediator: still scholastic-Aristotelian in physics and metaphysics, but already forcing a critical turn by making the dogmatic premise of thing/intellect agreement into a theory of active apprehension.
+- The traditional species/image theory is rejected. Cognition is not a partial image of the thing, but the passage of the thing itself into the knowing I, even if the mode of that passage remains a mystery for Digby.
+- Existence becomes the final irresolvable concept and the deepest means of thought. Every possible content must be grafted into the basic trunk of being before it can become knowledge.
+- Relation, number, substantiality, and empirical judgment are all read back to a unity-function of the soul/consciousness. Judgment binds separated determinations through the copula `is` and makes them one for knowledge.
+
+Structural center:
+
+- The load-bearing movement is from scholastic agreement-theory to the mind's unity-function. Digby starts with truth as agreement between intellect and thing, sharpens it into a doctrine of the thing's presence in the knowing I, then turns existence and judgment into the formal means by which manifold content becomes knowable.
+
+Routing decision:
+
+- Add `Existenz / Sein / Ding` as an open glossary entry.
+- Update `Wahrheit / Urteil`, `Realität / Entia Realia / Gedankendinge`, `Selbstbewußtsein / Ich / innere Erfahrung`, `Bild / Symbol / Ausdruck`, and `Begriff / Wort / Zeichen`.
+- Keep `potentia comparativa`, `Einheitsfunktion der Seele / des Bewußtseins`, `Substantialität`, `Accidentien`, `Spezies`, `Apprehension`, `Grundstamm`, and `Ineinssetzen` in the close-reading ledger rather than opening separate entries from Digby alone.
+
+Re-entry hooks:
+
+- Part 045 should begin on PDF page `235` / printed page `215 partial` with section `II.` / `Die Lehre Kenelm Digbys ist ein Beweis...`.
+- Cudworth and Norris should decide whether the chapter's center shifts from Digby's being/judgment analysis toward Platonism, intelligible being, faculty psychology, or common notions.
+- Watch whether `Existenz / Sein / Ding` needs to merge with or split from `Realität / Entia Realia / Gedankendinge` once Locke tests thing, idea, and inner experience from the empiricist side.
+
+Decision for now:
+
+- Part 044 passes the same-agent self-review gate for controlled draft status. It opens one glossary entry, which is proportionate: Digby's section supplies a real new structural surface, while the other active terms serve that surface rather than demanding their own entries yet.
+
+Verification result:
+
+- PDF pages `227-235` were checked against scan/Tesseract output on `_0227`, `_0228`, `_0229`, `_0230`, `_0231`, `_0232`, `_0233`, `_0234`, and `_0235`. Scan `_0227` confirms the start at `Ein zweites Moment...`; scan `_0235` confirms the stop before section `II.`.
+- The review corrected OCR residue around `notitiae communes`, `Mittelpunkt`, `Digby`, `Spezies`, `repräsentieren`, `Wirklichen`, `natürlichstes`, `Notio enim existentiae`, `universalissima`, `Ex iis`, `diligenter`, `postulant`, `insitionem`, `negotiatio omnis intellectus`, `Intellekt und Sinnlichkeit`, `sinnlicher`, `Bewußtseins`, `wachsen`, `Accidentien`, `Weise der Betrachtung`, `propriisque`, `Caeterae`, `Geulincx`, `Cartesischer`, `Erfahrungswirklichkeit`, `cuilibet`, `cujuslibet`, `simplicem`, `compositione`, `applicatione`, and `illos`.
+- Substantive Latin footnotes 3-8 are translated in the draft-footnote layer. Bibliographic footnotes 1-2 remain source identifications.
+
+## 2026-05-15 - English Rationalism, Cambridge Platonism, And Eternal Truths
+
+Created `parts/045-english-rationalism-cambridge-platonism-and-eternal-truths.md` from PDF pages `235-244` / printed pages `215 partial-224`, beginning with section `II.` / `Die Lehre Kenelm Digbys ist ein Beweis...` and stopping before `Sechstes Buch. Das Erkenntnisproblem im System des Empirismus`.
+
+What this tranche clarified:
+
+- The English-rationalism chapter closes by turning from Digby's being/judgment analysis to Cambridge Platonism and Malebranche's English afterlife.
+- Cudworth uses Platonism to fight sensationalism and materialism: atheism's theoretical assumption is that things make knowledge rather than knowledge making things.
+- Mathematical knowledge supplies the methodical edge of the Platonist argument. It does not ascend from singulars to universals; it descends from universal definitions to singular application.
+- Norris sharpens the issue into the being of eternal truths. If truth is relation, then eternal truths require enduring correlates or intelligible essences; otherwise science hangs on nothing.
+- The objection that Norris confuses the being of the copula with concrete existence is named and answered: for Norris, the whole conditional judgment has absolute standing, and ideal truths require ideal objects.
+- The chapter closes with sense subordinated to judgment. Sense cannot judge the existence of objects; even apparent sensory evidence of the external world depends on rational principles.
+- Locke is introduced as the conscious reaction against this recurring rationalist view.
+
+Structural center:
+
+- The load-bearing movement is from intelligible world to Locke's starting problem. Cudworth gives Platonism a methodical formulation through mathematics and natural science; Norris converts eternal logical validity into categorical intelligible being; Locke will begin by separating the epistemological problem from speculative soul/God doctrine.
+
+Routing decision:
+
+- Add `intelligible Welt / ewige Wahrheiten` as an open glossary entry.
+- Update `Wahrheit / Urteil`, `Existenz / Sein / Ding`, `Sinn / Sinneswahrnehmung`, `Realität / Entia Realia / Gedankendinge`, `Bild / Symbol / Ausdruck`, and `Selbstbewußtsein / Ich / innere Erfahrung`.
+- Keep `Platonismus`, `Cudworth`, `Norris`, `Malebranche`, `plastische Naturen`, `nunc stans`, `Copula`, `hypothetisches / kategorisches Sein`, and `Locke reaction` in the close-reading ledger. The new intelligible-world entry is the right scale for the chapter close.
+
+Re-entry hooks:
+
+- Book V is closed. The next part should begin Book VI / Locke on PDF page `247` / printed page `227` with `Erstes Kapitel. Locke.`
+- Read Locke as reaction against the rationalist thesis made explicit here: sense does not judge, and what is truly in the understanding was never in the senses in the proper sense.
+- Test whether `intelligible Welt / ewige Wahrheiten` remains a chapter-local English-rationalist surface or becomes the direct foil for Locke's critique of innate principles, ideas, and the limits of understanding.
+- Watch whether Locke's separation of the problem of objective value from speculative theories of soul and God changes the journal/routing shape for Book VI; do not carry Cambridge's theological-metaphysical frame forward as the default.
+
+Decision for now:
+
+- Part 045 passes the same-agent self-review gate for controlled draft status. The English-rationalism chapter is complete as controlled draft. Its glossary growth stayed proportionate: Herbert opened none, Digby opened `Existenz / Sein / Ding`, and the Cambridge close opened `intelligible Welt / ewige Wahrheiten`.
+
+Verification result:
+
+- PDF pages `235-244` were checked against scan/Tesseract output on `_0235`, `_0236`, `_0237`, `_0238`, `_0239`, `_0240`, `_0241`, `_0242`, `_0243`, and `_0244`. Scan `_0235` confirms the section `II.` start; scan `_0244` confirms the chapter close; scan `_0245` confirms the Book VI title page; scan `_0247` confirms Locke begins after the stop.
+- The review corrected OCR residue around `Platonismus`, `Schule von Cambridge`, `Cudworth`, `philosophischem`, `Tummelplatz`, `intelligible Naturen`, `contrary`, `Descending apply them`, `is not`, `relations`, `Immutable Verities`, `Noemata and Ideas`, `Wahrheit der intellektuellen Welt`, `Hobbes`, `plastischen Naturen`, `John Norris`, `vollen Deutlichkeit`, `S. hierzu`, `Theory`, `Part II: London 1704`, `Aussagen`, `Correlates`, `Reverie`, `Copula`, `Suarez`, `Argument`, `vorhandenen`, `nunc stans`, `Form`, `Sinnlichkeit`, `That`, `ein kategorisches`, `having`, `conviction`, `existiert`, `die in uns und zu uns spricht`, `Wie Digby`, and `Lockes`.
+- Cudworth and Norris quotations are already English in Cassirer's apparatus. The draft footnotes preserve references and summarize the load-bearing quoted claims rather than retranslating English into English.
+
+## 2026-05-15 - Locke, Critical Method, And Innate Ideas
+
+Created `parts/046-locke-critical-method-and-innate-ideas.md` from PDF pages `247-252` / printed pages `227-232 partial`, beginning with `Erstes Kapitel. Locke.` and stopping before section `I. Sensation und Reflexion.`
+
+What this tranche clarified:
+
+- Locke's originality is not that he first discovers the problem of knowledge. Cassirer frames Descartes and the English rationalists as already having posed it.
+- Locke's decisive move is separation: the question of the objective value and limits of knowledge is detached from metaphysical and natural-scientific theories of the soul and its faculties.
+- The Cartesian method problem carries into Locke through the atmosphere created by the `Regeln`, Port-Royal, and Malebranche, whether or not Locke knew the `Regeln` directly.
+- Locke's psychological method is not physiology or metaphysics. It observes and analyzes psychic phenomena without deciding their physical or metaphysical primal ground.
+- The critique of innate ideas is not the essential result of Locke's philosophy. It is a clearing operation that removes a fictive explanatory ground and defines the field in which the question must move.
+- Cassirer blocks a flat empiricist reading: Locke does not deny universal and necessary principles; he denies that they are available as a finished innate possession.
+- Genetic derivation is the indispensable aid of logical analysis. Temporal genesis matters only as a passage toward analysis of the content of representations.
+
+Structural center:
+
+- The load-bearing movement is from rationalist foil to critical boundary-determination. Part 045 closed by making sense depend on judgment and eternal truths depend on intelligible being; Part 046 opens Locke by separating the knowledge problem from that theological-metaphysical frame while preserving the rational demand for principles and critical grounding.
+
+Routing decision:
+
+- No new glossary entry yet. The chapter opening names `angeborene Ideen`, `genetische Ableitung`, `psychologische Methode`, and `Grenzbestimmung des Verstandes`, but section `I. Sensation und Reflexion` should decide which of these becomes the first Locke-specific glossary surface.
+- Update `Erfahrung`, `Sinn / Sinneswahrnehmung`, `Wahrheit / Urteil`, `intelligible Welt / ewige Wahrheiten`, `Begriff / Wort / Zeichen`, and `Selbstbewußtsein / Ich / innere Erfahrung`.
+- Keep `angeborene Ideen / angeborene Wahrheiten`, `genetische Ableitung`, `psychologische Methode`, `Grenzbestimmung des Verstandes`, `historical plain method`, `Vernunftforschung`, and `Aufklärungsphilosophie` in the close-reading ledger.
+
+Re-entry hooks:
+
+- Part 047 should begin with section `I. Sensation und Reflexion` on PDF page `252` / printed page `232 partial`.
+- Test whether `Sensation / Reflexion` earns a new glossary entry immediately or first updates `Sinn / Sinneswahrnehmung`, `Selbstbewußtsein / Ich / innere Erfahrung`, and `Erfahrung`.
+- Track whether Locke's `reine Erfahrung` remains a methodological field for genetic-logical analysis or begins to narrow toward sense-data doctrine.
+- Preserve the Part 046 anti-simplification: Locke's empiricism is carried by a rational Enlightenment intention, not by rejection of universal validity.
+
+Decision for now:
+
+- Part 046 passes the same-agent self-review gate for controlled draft status. This is only the chapter opening, so no larger Locke chapter goal should be assumed until Part 047 tests the sensation/reflection burden.
+
+Verification result:
+
+- PDF pages `247-252` were checked against scan/Tesseract output on `_0247`, `_0248`, `_0249`, `_0250`, `_0251`, and `_0252`. Scan `_0247` confirms `Erstes Kapitel. Locke.`; scan `_0252` confirms the stop before section `I. Sensation und Reflexion.`
+- The review corrected OCR residue around `Burthogge`, `Seele`, `Gegenständen sie`, `Erkenntnis`, `Baillet`, `Recherche de la vérité`, `gekannt`, `Grenzbestimmung`, `daß alle`, `Hobbes`, `Malebranche`, `konnte. Sie`, `Vorstellungen zu haben`, `historical plain method`, `Essay`, `Angeborene`, `Evidenz`, `Fraser`, `self-evidence`, `something else`, `nobody`, `hierzu`, `wie weit`, and `ruhen`.
+- Footnotes were renumbered sequentially for the continuous part file. Locke's English phrase `in this historical plain method` is preserved in the draft; the English self-evidence quotation is summarized in the draft-footnote layer because the source quote is already in English.
+
+## 2026-05-15 - Locke, Sensation, Reflection, And Simple Ideas
+
+Created `parts/047-locke-sensation-reflection-and-simple-ideas.md` from PDF pages `252-257` / printed pages `232 partial-237 partial`, beginning with section `I. Sensation und Reflexion` and stopping before `Ueber diese Begriffsbestimmung der Reflexion ist Locke...`.
+
+What this tranche clarified:
+
+- Locke's source-pair is not self-explanatory. "All knowledge consists in sensation and reflection" is so indeterminate that empiricist, materialist, intellectualist, critical, and dogmatic readings can all claim it.
+- Cassirer therefore makes `Reflexion` the first problem of the section. In its original sense, reflection is an optical mirroring of inner processes, just as sensation is a copy of external things.
+- In this first schema, sensation and reflection stand on the same passive level: the mind receives and reproduces contents that confront it.
+- This blocks a simple sensualist reading because sense- and self-perception are equally independent and indispensable factors of knowledge.
+- The cost is an element-model of consciousness: psychic functions and logical relations count only insofar as they harden into fixed individual representations.
+- Locke's merit is that he follows the fact of knowledge closely enough that this original schema will be progressively criticized from within.
+- The first widening of `Reflexion` appears when it names connection, comparison, joining, and separating; but these activities still remain arbitrary operations without objective stock or support.
+
+Structural center:
+
+- The load-bearing movement is from dual source to passive element-schema. Sensation and reflection split experience into two moments, but both are initially treated as fixed contents. Cassirer neither flattens Locke into sensualism nor yet grants reflection genuine logical activity; he shows the starting schema that later scientific concepts will strain.
+
+Routing decision:
+
+- Add `Sensation / Reflexion` as an open glossary entry.
+- Update `Erfahrung`, `Sinn / Sinneswahrnehmung`, `Selbstbewußtsein / Ich / innere Erfahrung`, `Begriff / Wort / Zeichen`, and `Bild / Symbol / Ausdruck`.
+- Keep `Idee / Vorstellung`, `einfache Ideen`, `mixed modes`, `Verbindung`, `seelische Tätigkeit`, `psychologischer Dogmatismus`, and `Verfestigung` in the close-reading ledger for now rather than opening separate entries from the first section unit.
+
+Re-entry hooks:
+
+- Part 048 should begin on PDF page `257` / printed page `237 partial` with `Ueber diese Begriffsbestimmung der Reflexion ist Locke...`.
+- Test whether the infinity analysis turns `Reflexion` from passive mirror into necessary mental function.
+- Watch whether `Unendlichkeit / Zahl / Raum` earns a new surface or whether it should update `Sensation / Reflexion`, `Raum / Zeit`, `Begriff / Wort / Zeichen`, and `Wahrheit / Urteil`.
+- Track whether `Idee / Vorstellung` remains absorbed by `Sensation / Reflexion` or becomes its own Locke-specific problem.
+
+Decision for now:
+
+- Part 047 passes the same-agent self-review gate for controlled draft status. It justifies the first Locke-specific glossary entry, but the next tranche must decide whether the section's center shifts from the source-pair itself to infinity, space, and scientific concept-formation.
+
+Verification result:
+
+- PDF pages `252-257` were checked against scan/Tesseract output on `_0252`, `_0253`, `_0254`, `_0255`, `_0256`, and `_0257`. Scan `_0252` confirms the section start after the Part 046 close; scan `_0257` confirms the stop before the next paragraph beginning `Ueber diese Begriffsbestimmung der Reflexion...`.
+- The review corrected OCR residue around `unbefangen`, `lediglich seinen`, `besteht`, `schwierigen Terminus`, `daß`, `Locke`, `Hertling`, `ursprünglich für Locke`, `merkwürdige`, `wider`, `so wenig`, `bewirken`, `Begriff des Einfachen`, `Philosophie`, `ihrem`, `Tätigkeit`, `Verbindung`, `Vorstellungsgebilde`, `ungewisse`, and `Of discerning and other operations of the mind`.
+
+## 2026-05-15 - Part 018 Campanella Absorption Back-Ported
+
+Applied the Campanella source campaign's Vol. 2 Part 018 crosswalk back into `parts/018-spinoza-intuition-renaissance-and-the-short-treatise.md` without opening new Latin in this pass.
+
+What changed:
+
+- Footnote 6 now records that Cassirer's `intrinsecatio, per quam unum fit aliud` anchor is verified at Campanella leaf 906 / Pars III, Liber XVII, Caput II, Articulus I, while its local register is beatitude and gustation rather than a free-standing law of all cognition.
+- Footnote 7 now records that Cassirer's Part II p. 78 `saporem` quotation is verified at leaf 444 and adds the hidden-love / hidden-self-sense pairing (`Amor abditus`, `sensus abditus`) as source-context.
+- Footnote 8 now preserves Cassirer's power/love/wisdom exposition while noting that the opened Part II primalities locus gives the doctrinal order as `Potentia, Sapientia, & Amor`.
+- The part notes, close-reading ledger, and `Intuition / Anschauung` glossary entry now carry the source-contact qualification: Cassirer's Campanella bridge is right, but too smooth if reused as a claim that all Campanellan cognition is self-dissolution into the object.
+
+Routing decision:
+
+- Keep the translation of Cassirer's German paragraph faithful. The correction belongs in the footnote and notes layer, because the primary task here is not to rewrite Cassirer's claim but to mark what the opened Campanella Latin now lets us say about its reach.
+- Use `sources/latin/campanella-metaphysica/reading/cassirer-vol2-part018-intrinsecation-crosswalk.md` before opening additional Campanella Latin for this Spinoza passage.
+
+## 2026-05-15 - Part 018 Campanella Back-Port Review And Reading Note
+
+Reviewed the Part 018 back-port after the Campanella absorption edits. Checked:
+
+- `parts/018-spinoza-intuition-renaissance-and-the-short-treatise.md`
+- `reading/close-reading-ledger.md`
+- `source/glossary.yaml` entry `Intuition / Anschauung`
+- this journal's back-port entry
+
+Decision: a short Cassirer-side reading note is warranted after all, but only because the sidebar review surfaced a synthesis need that the local back-port did not carry: the argument-walk from bodily taste to beatific `intrinsecatio`, and especially the bridge between leaf 402's hidden self-intellection and leaf 444's hidden self-love / hidden self-sense.
+
+Created `reading/2026-05-15-campanella-part018-absorption-note.md`. Its job is not to replace the source-side crosswalk and not to open new Latin. It gives a compact Cassirer-side use-rule: keep Cassirer's historical bridge, qualify it as "right, but too smooth," and treat the `abditus` family as a re-entry point only if later Spinoza work requires the relation between self-activity, love of God, and intuitive cognition to be traced back through Campanella.
+
+## 2026-05-15 - Locke, Infinity, Reflection, And Necessary Function
+
+Created `parts/048-locke-infinity-reflection-and-necessary-function.md` from PDF pages `257-262` / printed pages `237 partial-242 partial`, beginning with `Ueber diese Begriffsbestimmung der Reflexion ist Locke...` and stopping before `Der gleiche Fortgang, der hier hervortritt...`.
+
+What this tranche clarified:
+
+- Part 048 answers the hook from Part 047. Locke's application of the sensation/reflection principle to scientific concepts forces a substantive transformation of the principle itself.
+- `Reflexion` cannot remain passive imprint if it must explain the infinite. The infinite is not an observed content and not a merely arbitrary continuation of representations.
+- Sensation and reflection now confront one another as factors with different logical character and validity-value.
+- Cassirer distinguishes psychological possibility from logical necessity. The number series does not mean merely that we can proceed from a number to a higher one; it means that this continuability is set and required by the concept of number.
+- Locke's own examples undermine his initial explanation. The sailor's lead that never reaches the seabed gives only negative evidence, not a justified concept of infinity.
+- The result is a forced widening of reflection: the infinite becomes a necessary activity of mind and fuses with the image of objective actuality even if Locke's original schema cannot justify that fusion.
+
+Structural center:
+
+- The load-bearing movement is from arbitrary connection to necessary function. Part 047 showed reflection widening from mirror to connection, but still as arbitrary operation; Part 048 shows scientific cognition requiring a rule and method by which an unfinishable series can be surveyed conceptually.
+
+Routing decision:
+
+- No new glossary entry yet. The infinity problem is central, but it is functioning as the first internal transformation of `Sensation / Reflexion`, not yet as a separate durable surface.
+- Update `Sensation / Reflexion`, `Wahrheit / Urteil`, `Kontinuum / Stetigkeit / Infinitesimal`, `Raum / Zeit`, `Begriff / Wort / Zeichen`, and `Erfahrung`.
+- Keep `Unendlichkeit`, `Zahl`, `potentielle / aktuelle Unendlichkeit`, `Vermögen`, `Dasein / Existenz`, and `wissenschaftliche Begriffe` in the close-reading ledger until the space/time/force analyses decide whether one of them needs promotion.
+
+Re-entry hooks:
+
+- Part 049 should begin on PDF page `262` / printed page `242 partial` with `Der gleiche Fortgang, der hier hervortritt...`.
+- The next tranche should test whether `Raum / Zeit` becomes the next Locke-specific pressure or remains an application of the same reflection/function problem.
+- Watch whether `Kraft`, `Dasein / Existenz`, and empirical physics begin to shift the chapter center away from infinity and toward the foundations of empirical physics.
+
+Decision for now:
+
+- Part 048 passes the same-agent self-review gate for controlled draft status. This is the calibration tranche needed before a larger Locke goal: it confirms that the chapter can proceed section-bounded, but the goal should still require self-review and chapter-level ratification before completion.
+
+Verification result:
+
+- PDF pages `257-262` were checked against scan/Tesseract output on `_0257`, `_0258`, `_0259`, `_0260`, `_0261`, and `_0262`; `_0263` was checked to confirm the next boundary. Scan `_0257` confirms the start after the Part 047 closing sentence and footnote; scan `_0262` confirms the stop before `Der gleiche Fortgang...`.
+- The review corrected OCR residue around `Erklärung der wissenschaftlichen Begriffe`, `Sinnen- und Selbstwahrnehmung`, `Die Naivität`, `Vorstellungsinhalt`, `noch größer`, `anzuspornen`, `Und`, `verbannen`, `zusprechen`, `ein allgemeines Urteil`, `Unabschließbarkeit begrifflich zu beherrschen`, `gedrängt`, `darbietet`, `verschwommen`, `notwendige Betätigung`, `Einzeldaten`, and `objektive Wirklichkeit`.
+
+## 2026-05-15 - Parts 019-030 Campanella Qualification Audit
+
+Audited the already translated Spinoza stretch after the Part 018 Campanella note, without opening new Campanella Latin and without translating new Cassirer text.
+
+Scope checked at apparatus level first:
+
+- Part notes / re-entry hooks for `parts/019` through `parts/030`
+- close-reading ledger entries from `Spinoza: True Idea And Immanent Criterion` through `Spinoza: Thought Attribute and Anthropomorphism`
+- glossary entries `Intuition / Anschauung`, `Substanz / Modi / Attribute`, and `Ursache / Bedingung / Erzeugung`
+- the ledger pressure around `intellektuelle Liebe zu Gott` in Part 027
+
+Decision: the Campanella qualification should remain localized to the Part 018 / Part 027 interface for now. No later translated part needs wording changes. The later apparatus already preserves the necessary development:
+
+- Part 019 reverses the `Short Treatise` posture from passive/mystical possession into methodical acquisition of the true idea.
+- Part 021 makes intuition the mind's highest self-activity rather than surrender to alien being.
+- Parts 023-030 move the problem into substance, order, attributes, thought, and the anthropomorphism of geometry, not into another Campanella source question.
+- Part 027 is the only later pressure point where the Campanella note matters directly: `intellektuelle Liebe zu Gott` names the residual Renaissance affective motive as it passes into mathematical order. The new `abditus` bridge is useful as a re-entry route if later work needs to trace self-activity, love of God, and intuitive cognition back through Campanella, but it does not currently require changing the Part 027 apparatus.
+
+So the current Cassirer-side rule holds: use the new `reading/2026-05-15-campanella-part018-absorption-note.md` as a compact synthesis layer, keep `Intuition / Anschauung` as the retrieval hook, and do not widen the Campanella qualification across Parts 019-030 unless a later Spinoza revision creates a concrete question that the existing note cannot answer.
+
+## 2026-05-16 - Locke, Space, Time, Number, And Objective Existence
+
+Created `parts/049-locke-space-time-number-and-objective-existence.md` from PDF pages `262-273` / printed pages `242 partial-253 partial`, beginning with `Der gleiche Fortgang, der hier hervortritt...` and closing section `I. Sensation und Reflexion` before section `II. Der Begriff der Wahrheit.`
+
+What this tranche clarified:
+
+- Part 049 carries Part 048's transformation of reflection across the remaining scientific concepts of section `I`.
+- Locke's early space doctrine tends toward a consistent empiricist and relational account: space is relation among bodies and becomes a reified illusion if detached from the things whose distances it names.
+- The `Essay` abandons that consistency under pressure from empirical physics. Motion requires pure space distinct from body if it is to be comprehended and "saved."
+- The time analysis makes reflection more than passive inner mirroring: reflection now supplies the criterion and control by which sensory changes are measured.
+- Number exposes the deepest pressure on the simple-idea schema: two and three are not representational images but logical functions that presuppose and distinguish one another conceptually.
+- Section `I` closes by naming Locke's limit. Simple ideas are treated as immediate warrants for external things, so sensation/reflection become mediators while substances and real effects remain the uncomprehended real ground of knowledge.
+
+Structural center:
+
+- The load-bearing movement is from scientific concept-pressure to metaphysical remainder. Space, time, and number all push Locke beyond passive sensation/reflection, but instead of producing a critical account of validity, section `I` leaves the reality of external things as a dogmatic guarantee attached to simple sensation.
+
+Routing decision:
+
+- No new glossary entry. The section close intensifies existing surfaces rather than creating a new one.
+- Update `Raum / Zeit`, `Sensation / Reflexion`, `Erfahrung`, `Bewegung`, `Körper / Materie / Substanz`, `Existenz / Sein / Ding`, `Bild / Symbol / Ausdruck`, `Begriff / Wort / Zeichen`, and `Wahrheit / Urteil`.
+- Keep `leerer Raum`, `Ort / Ausdehnung`, `Dauer`, `Zahl`, `Gedankenalphabet`, `einfache Ideen`, `sekundäre Qualitäten`, `Original`, `Realgrund`, `Subjekt / Objekt`, and `Kraft / Verursachung` in the close-reading ledger until sections `II` and `III` test whether any become durable Locke surfaces.
+
+Section-I ratification:
+
+- Parts 047-049 remain controlled draft. The section's provisional finding is stable enough to guide section `II`: Locke's genetic psychology repeatedly discovers logical function inside experience but lacks a critical validity account, so it falls back on the external thing as real ground.
+- Do not write a bounded Locke reading note yet. The truth section must decide whether Locke's concept of truth repairs, repeats, or deepens the section-I remainder.
+
+Re-entry hooks:
+
+- Part 050 should begin on PDF page `273` / printed page `253 partial` with section `II. Der Begriff der Wahrheit.`
+- Test whether `Wahrheit / Urteil` becomes the next Locke-specific surface, or whether section `II` remains an update to `Sensation / Reflexion`, `Begriff / Wort / Zeichen`, and `Existenz / Sein / Ding`.
+- Preserve the anti-simplification from section `I`: Locke is not flat sense-data empiricism; Cassirer is showing a method that discovers logical functions but cannot yet justify their objective validity.
+
+Decision for now:
+
+- Part 049 passes the same-agent self-review gate for controlled draft status. Because it closes section `I`, the next tranche should start section `II` with the section-I ratification explicitly in view.
+
+Verification result:
+
+- PDF pages `262-273` were checked against scan/Tesseract output on `_0262`, `_0263`, `_0264`, `_0265`, `_0266`, `_0267`, `_0268`, `_0269`, `_0270`, `_0271`, `_0272`, and `_0273`. Scan `_0262` confirms the start after Part 048's closing dash; scan `_0273` confirms the section-I close and the next boundary at `II. Der Begriff der Wahrheit.`
+- The review corrected OCR residue around `Locke`, `versch\Yommen`, `Verknüpfungen`, `Einzeldaten`, `objektiven Wirklichkeit`, `einfache`, `Er beginnt`, `Hobbes'`, `Space`, `Vernichtung`, `reinen Raumes`, `Gassendi`, `Newton`, `leeren Raumes`, `Unterscheidung`, `Wort`, `retten`, `Henry More`, `psychologischen Bestimmungen`, `succession`, `successive`, `und eine Forderung`, `Vorstellungsfunktionen in feste`, `Modi`, `Bewußtseinsinhalte`, `unbezweifelbaren`, `äußeren, dinglichen`, `product`, `in a natural way`, `sekundären Qualitäten`, and `Subjekt` / `Objekt`.
+
+## 2026-05-16 - Locke, Concept Of Truth, Intuition, And Experience
+
+Created `parts/050-locke-concept-of-truth-intuition-and-experience.md` from PDF pages `273-283` / printed pages `253 partial-263 partial`, beginning with section `II. Der Begriff der Wahrheit.` and stopping before section `III. Der Begriff des Seins.`
+
+What this tranche clarified:
+
+- Section `II` tests the section-I finding by shifting from the first two books of the `Essay` to the fourth book.
+- The starting point changes from psychological source-analysis to logical validity. Universal and universally valid relations now stand at the beginning.
+- Locke separates from Hobbes's nominalism at the decisive point: mathematical signs help memory, but they do not ground the generality of mathematical judgment.
+- The `Idee` now gains a logical nature. It is no longer a movable representational element, but a content that has a determinate place in a system of presuppositions and derivations.
+- `Intuition` becomes the foundation of certainty. Mathematics and morals have genuine knowledge because they concern necessary connections among ideas.
+- Natural science is excluded from strict science. It remains probable experience because the lawful bond among bodily properties cannot be deduced from the sensory facts.
+- Locke is therefore an empiricist from resignation in natural philosophy, not from Baconian confidence in experience as the mother of science.
+- The section closes by turning the critique back on Locke's own psychology: if outer and inner experience are merely momentary perceptions, neither can ground constant things, objective validity, or the whole of cognition.
+
+Structural center:
+
+- The load-bearing movement is from psychological source-analysis to logical critique of experience. Section `II` does not repair the section-I remainder; it sharpens it. Locke discovers a truth-standard higher than induction and experience, but that standard splits being and knowing apart again.
+
+Routing decision:
+
+- No new glossary entry. `Wahrheit / Urteil` becomes dominant, but the existing entry can absorb this Locke pressure for now.
+- Update `Wahrheit / Urteil`, `Intuition / Anschauung`, `Sensation / Reflexion`, `Erfahrung`, `Experiment`, `Begriff / Wort / Zeichen`, `Bild / Symbol / Ausdruck`, `Existenz / Sein / Ding`, `Sinn / Sinneswahrnehmung`, and `Körper / Materie / Substanz`.
+- Keep `Intuition`, `Idee`, `Moral`, `Naturwissenschaft / natural philosophy`, `scientifical knowledge`, `philosophische Erfahrungstheorie`, `primäre Qualitäten`, `innere Erfahrung`, and `Grenzen der Erkenntnis` in the close-reading ledger until section `III` tests them through being and substance.
+
+Section-II ratification:
+
+- Parts 047-050 remain controlled draft. Section `II` strengthens the candidate chapter finding: Locke's empiricism becomes a logical critique of experience precisely where it despairs of making experience strict science.
+- Do not promote this to a bounded Locke reading note yet. Section `III` must decide whether the being/substance critique repeats this rupture or transforms it.
+
+Re-entry hooks:
+
+- Part 051 should begin on PDF page `283` / printed page `263 partial` with section `III. Der Begriff des Seins.`
+- Test whether the concept of being supplies a distinct Locke surface around `Substanz / Ding / Träger`, or whether it remains absorbed by `Existenz / Sein / Ding`, `Körper / Materie / Substanz`, and `Sensation / Reflexion`.
+- Watch `primäre Qualitäten`, `Ich`, and `innere Erfahrung`: section `II` has already argued that both outer and inner experience fall into probability if stripped of thought functions.
+
+Decision for now:
+
+- Part 050 passes the same-agent self-review gate for controlled draft status. The next tranche begins the final Locke section and should carry the section-II ratification explicitly.
+
+Verification result:
+
+- PDF pages `273-283` were checked against scan/Tesseract output on `_0273`, `_0274`, `_0275`, `_0276`, `_0277`, `_0278`, `_0279`, `_0280`, `_0281`, `_0282`, and `_0283`. Scan `_0273` confirms the section-II start after Part 049's close; scan `_0283` confirms the stop before `III. Der Begriff des Seins.`
+- The review corrected OCR residue around `Subjekt`, `Objekt`, `Der Begriff der Wahrheit`, `ursprünglichen`, `Einzelfiguren`, `phänomenologische`, `mathematischen`, `nominalistischen`, `The cyphers`, `numerical`, `hervorwagen`, `richtet`, `Schwarz`, `völlig neuer`, `künftigen`, `Wissensobjekten`, `Strukturverhältnisse`, `Empirismus`, `zu verstehen`, `industry`, `scientifical`, `examination`, `capable`, `matters`, `getting and improving`, `getrennte Welten`, `Lockes`, `hierzu`, `Untersuchungen`, `zu einem`, and `Sprengung`.
+
+## 2026-05-16 - Locke, Substance, Being, And Metaphysical Transcendence
+
+Created `parts/051-locke-substance-being-and-metaphysical-transcendence.md` from PDF pages `283-294` / printed pages `263 partial-274`, beginning with section `III. Der Begriff des Seins.` and closing the Locke chapter before `Zweites Kapitel. Berkeley.`
+
+What this tranche clarified:
+
+- Section `III` confirms the candidate Locke finding from sections `I-II`.
+- Locke's critique of substance first looks like the successful self-dissolution of metaphysics: substance is an unknown bearer, a mere word, and an `idolon fori`.
+- The critique cannot silence the problem because Locke still needs the unknown bearer for objecthood, for the world of appearance, and for the scientific ideal of knowledge from causes.
+- The standpoint reverses: sensation and reflection initially judge substance as dark and unclear, but substance then becomes true being, inaccessible only because of defects in our faculties.
+- Cassirer locates the defect in Locke's question-form, not in the substance concept alone. Locke seeks substance as a separate sensory or psychical image rather than as a necessary function in the system of knowledge.
+- The closing reality analysis repeats the truth-section problem. Mathematical objects have their archetype in thought; sensory ideas require comparison with actual things, but Locke's own logic of ideas cannot perform that comparison.
+- The chapter closes by distinguishing two problems Locke fuses: the objective certainty of empirical cognition and the metaphysical transcendence of a corporeal world existing in itself.
+
+Structural center:
+
+- The load-bearing movement is from critique of substance to critique of the question-form. Locke's psychological analysis discovers that substance is not an isolated content, but because he lacks a functional account of its role in cognition, substance returns as thing-like transcendence.
+
+Routing decision:
+
+- No new glossary entry. Update `Existenz / Sein / Ding`, `Körper / Materie / Substanz`, `Sensation / Reflexion`, `Wahrheit / Urteil`, `Erfahrung`, `Bild / Symbol / Ausdruck`, `Begriff / Wort / Zeichen`, `Selbstbewußtsein / Ich / innere Erfahrung`, and `Intuition / Anschauung`.
+- Keep `Substanz / Träger`, `idolon fori`, `Form / Materie`, `Urbild / Archetyp`, `einfache Empfindung`, `objektive Gewißheit der empirischen Erkenntnis`, and `metaphysische Transzendenz der Körperwelt` in the close-reading ledger and bounded note rather than opening separate entries.
+- Add `reading/2026-05-16-locke-experience-validity-and-transcendence.md` as the bounded Locke chapter note.
+
+Chapter-close ratification:
+
+- Parts 046-051 remain controlled draft.
+- The chapter finding is now earned: Locke's empiricism becomes philosophically sharp where its psychological source-analysis uncovers logical functions, objective norms, and necessary relations it cannot ground; lacking a critical account of empirical objectivity, Locke displaces that objectivity into unknowable things and substances beyond cognition.
+- Keep this chapter-local until Berkeley tests it. Do not make it a Book VI thesis yet.
+
+Re-entry hooks:
+
+- Part 052 should begin on PDF page `295` / printed page `275` with `Zweites Kapitel. Berkeley.`
+- Berkeley should test the Locke close directly: does removing the unknowable corporeal thing clarify empirical objectivity, or does it also unsettle the logical foundations of experience?
+- Watch `Dingbegriff`, `Außenwelt`, `Wahrnehmung`, `Skepsis`, and `psychologischer Prozeß` as possible Berkeley surfaces.
+
+Decision for now:
+
+- Part 051 passes the same-agent self-review gate for controlled draft status. The Locke chapter is complete at controlled-draft tier, with a bounded chapter note and a Berkeley re-entry test.
+
+Verification result:
+
+- PDF pages `283-294` were checked against scan/Tesseract output on `_0283`, `_0284`, `_0285`, `_0286`, `_0287`, `_0288`, `_0289`, `_0290`, `_0291`, `_0292`, `_0293`, and `_0294`; `_0295` was checked to confirm the next chapter boundary at `Zweites Kapitel. Berkeley.`
+- The review corrected OCR residue around `Substanzbegriffs`, `Der Begriff des Seins`, `Selbstauflösung`, `Bewußtsein`, `endgültige`, `Realität`, `äußeren`, `Zuständlichkeiten`, `Aufeinanderfolge`, `sine re substante`, `idolon fori`, `bewahrt`, `unanalysierbaren`, `Träger`, `solidity`, `chief`, `empirisches`, `adäquates`, `geistigen Naturen`, `Substanzbegriff`, `oberflächlichen Vorstellungen`, `unserer subjektiven Fähigkeiten`, `Mangel der Lockeschen Fragestellung`, `zutage`, `Vorstellungsreste`, `einfache`, `Relation`, `Archetyp`, `their archetypes`, `ursprünglichen Definitionen`, `zusammenstimmen`, `Erkenntnismitteln`, `physikalische`, and `metaphysischen Transzendenz`.

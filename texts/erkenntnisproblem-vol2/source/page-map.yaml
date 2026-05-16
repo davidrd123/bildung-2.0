@@ -582,14 +582,252 @@ ranges:
     trust: "high"
     note: "Part 037 begins on printed page 160 with `Jetzt erst ist uns der Weg zur Betrachtung des realen Geschehens...`, follows the analysis of temporal occurrence through derivative force, cause as rational account, work, and the conservation of living force, and stops on printed page 166 before section `III.`."
 
+  - slug: "leibniz-image-symbol-eternal-truths"
+    label: "Leibniz: image, symbol, and eternal truths"
+    pdf_pages: [186, 196]
+    printed_pages: ["166 partial", "176 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0186.jp2"
+      - "daserkenntnispro02cassuoft_0187.jp2"
+      - "daserkenntnispro02cassuoft_0188.jp2"
+      - "daserkenntnispro02cassuoft_0189.jp2"
+      - "daserkenntnispro02cassuoft_0190.jp2"
+      - "daserkenntnispro02cassuoft_0191.jp2"
+      - "daserkenntnispro02cassuoft_0192.jp2"
+      - "daserkenntnispro02cassuoft_0193.jp2"
+      - "daserkenntnispro02cassuoft_0194.jp2"
+      - "daserkenntnispro02cassuoft_0195.jp2"
+      - "daserkenntnispro02cassuoft_0196.jp2"
+    trust: "high"
+    note: "Part 038 begins on printed page 166 with section `III.` / `Der Aufbau und der Stufengang der rationalen Erkenntnis...`, follows Leibniz's rejection of copy theory through symbolic expression, characteristic signs, infinitesimal measure, mechanics, and eternal truths, and stops on printed page 176 before `Alle skeptischen Einwände...` begins the appearance-reality problem."
+
+  - slug: "leibniz-appearance-truths-of-fact-individuality"
+    label: "Leibniz: appearance, truths of fact, and individuality"
+    pdf_pages: [196, 201]
+    printed_pages: ["176 partial", "181 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0196.jp2"
+      - "daserkenntnispro02cassuoft_0197.jp2"
+      - "daserkenntnispro02cassuoft_0198.jp2"
+      - "daserkenntnispro02cassuoft_0199.jp2"
+      - "daserkenntnispro02cassuoft_0200.jp2"
+      - "daserkenntnispro02cassuoft_0201.jp2"
+    trust: "high"
+    note: "Part 039 begins on printed page 176 with `Alle skeptischen Einwände...`, follows the reality criterion for appearances through the Copernican-system example, demonstrative truth over sense-truth, Foucher, truths of fact, and the inexhaustible individual, and stops on printed page 181 before section `IV.`."
+
+  - slug: "leibniz-monadology-harmony-chapter-close"
+    label: "Leibniz: monadology, harmony, and chapter close"
+    pdf_pages: [201, 210]
+    printed_pages: ["181 partial", "190"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0201.jp2"
+      - "daserkenntnispro02cassuoft_0202.jp2"
+      - "daserkenntnispro02cassuoft_0203.jp2"
+      - "daserkenntnispro02cassuoft_0204.jp2"
+      - "daserkenntnispro02cassuoft_0205.jp2"
+      - "daserkenntnispro02cassuoft_0206.jp2"
+      - "daserkenntnispro02cassuoft_0207.jp2"
+      - "daserkenntnispro02cassuoft_0208.jp2"
+      - "daserkenntnispro02cassuoft_0209.jp2"
+      - "daserkenntnispro02cassuoft_0210.jp2"
+    trust: "high"
+    note: "Part 040 begins on printed page 181 with section `IV.` / `In der Einsicht, daß das Einzelne...`, follows the individual limit of logical analysis into primitive force, monadology, symbolic stages of cognition, and harmony, and closes the Leibniz chapter on printed page 190 before `Drittes Kapitel. Tschirnhaus.`"
+
+  - slug: "tschirnhaus-opening"
+    label: "Opening of `Drittes Kapitel. Tschirnhaus`"
+    pdf_pages: [211, 211]
+    printed_pages: ["191"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0211.jp2"
+    trust: "high"
+    note: "Scan/Tesseract confirms PDF page 211 / printed page 191 opens `Drittes Kapitel. Tschirnhaus.` with `Das Bild der Gesamtentwicklung des Rationalismus...`."
+
+  - slug: "tschirnhaus-method-doctrine-definition-experience"
+    label: "Tschirnhaus: method doctrine, definition, and experience"
+    pdf_pages: [211, 215]
+    printed_pages: ["191", "195 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0211.jp2"
+      - "daserkenntnispro02cassuoft_0212.jp2"
+      - "daserkenntnispro02cassuoft_0213.jp2"
+      - "daserkenntnispro02cassuoft_0214.jp2"
+      - "daserkenntnispro02cassuoft_0215.jp2"
+    trust: "high"
+    note: "Part 041 begins with `Drittes Kapitel. Tschirnhaus.`, follows Tschirnhaus as mediator from Spinoza/Leibniz/Descartes into a doctrine of experience, definition, and experiment, and stops before `Die Aufstellung der allgemeinen Forderung einer kritischen Erfahrungslehre...` begins the critique of fulfillment on printed page 195."
+
+  - slug: "tschirnhaus-reality-inner-experience-physics"
+    label: "Tschirnhaus: reality, inner experience, and physics"
+    pdf_pages: [215, 221]
+    printed_pages: ["195 partial", "201"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0215.jp2"
+      - "daserkenntnispro02cassuoft_0216.jp2"
+      - "daserkenntnispro02cassuoft_0217.jp2"
+      - "daserkenntnispro02cassuoft_0218.jp2"
+      - "daserkenntnispro02cassuoft_0219.jp2"
+      - "daserkenntnispro02cassuoft_0220.jp2"
+      - "daserkenntnispro02cassuoft_0221.jp2"
+    trust: "high"
+    note: "Part 042 begins on printed page 195 with `Die Aufstellung der allgemeinen Forderung...`, follows Tschirnhaus's reality-classification and inner-experience criterion through the physics chapter close, and stops before `Viertes Kapitel. Der Rationalismus in der englischen Philosophie.` on PDF page 222 / printed page 202."
+
+  - slug: "english-rationalism-herbert-common-notions"
+    label: "English rationalism: Herbert of Cherbury and common notions"
+    pdf_pages: [222, 227]
+    printed_pages: ["202", "207 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0222.jp2"
+      - "daserkenntnispro02cassuoft_0223.jp2"
+      - "daserkenntnispro02cassuoft_0224.jp2"
+      - "daserkenntnispro02cassuoft_0225.jp2"
+      - "daserkenntnispro02cassuoft_0226.jp2"
+      - "daserkenntnispro02cassuoft_0227.jp2"
+    trust: "high"
+    note: "Part 043 begins with `Viertes Kapitel. Der Rationalismus in der englischen Philosophie.`, follows the chapter setup and Herbert von Cherbury's doctrine of universal truths, natural instinct, and `notitiae communes`, and stops on printed page 207 before `Ein zweites Moment des gedanklichen Fortschritts...` begins the Digby transition."
+
+  - slug: "english-rationalism-digby-existence-unity-function"
+    label: "English rationalism: Digby, existence, and the unity-function"
+    pdf_pages: [227, 235]
+    printed_pages: ["207 partial", "215 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0227.jp2"
+      - "daserkenntnispro02cassuoft_0228.jp2"
+      - "daserkenntnispro02cassuoft_0229.jp2"
+      - "daserkenntnispro02cassuoft_0230.jp2"
+      - "daserkenntnispro02cassuoft_0231.jp2"
+      - "daserkenntnispro02cassuoft_0232.jp2"
+      - "daserkenntnispro02cassuoft_0233.jp2"
+      - "daserkenntnispro02cassuoft_0234.jp2"
+      - "daserkenntnispro02cassuoft_0235.jp2"
+    trust: "high"
+    note: "Part 044 begins on printed page 207 with `Ein zweites Moment des gedanklichen Fortschritts...`, follows Digby's analysis of truth, existence, thing, relation, substantiality, and judgment as `Ineinssetzen`, and stops on printed page 215 before section `II.` / `Die Lehre Kenelm Digbys ist ein Beweis...` begins the Cambridge-school transition."
+
+  - slug: "english-rationalism-cambridge-platonism-eternal-truths"
+    label: "English rationalism: Cambridge Platonism and eternal truths"
+    pdf_pages: [235, 244]
+    printed_pages: ["215 partial", "224"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0235.jp2"
+      - "daserkenntnispro02cassuoft_0236.jp2"
+      - "daserkenntnispro02cassuoft_0237.jp2"
+      - "daserkenntnispro02cassuoft_0238.jp2"
+      - "daserkenntnispro02cassuoft_0239.jp2"
+      - "daserkenntnispro02cassuoft_0240.jp2"
+      - "daserkenntnispro02cassuoft_0241.jp2"
+      - "daserkenntnispro02cassuoft_0242.jp2"
+      - "daserkenntnispro02cassuoft_0243.jp2"
+      - "daserkenntnispro02cassuoft_0244.jp2"
+    trust: "high"
+    note: "Part 045 begins on printed page 215 with section `II.` / `Die Lehre Kenelm Digbys ist ein Beweis...`, follows Cudworth and Norris through Cambridge Platonism, intelligible being, eternal truths, and sense's dependence on judgment, and closes Book V on printed page 224 before `Sechstes Buch. Das Erkenntnisproblem im System des Empirismus`."
+
   - slug: "book-vi-start-locke"
     label: "Book VI / Locke opening"
     pdf_pages: [247, 247]
     printed_pages: ["227"]
     scan_files:
       - "daserkenntnispro02cassuoft_0247.jp2"
-    trust: "medium"
-    note: "Calculated from the verified main-body offset."
+    trust: "high"
+    note: "Verified during Part 046; scan `_0247` begins `Erstes Kapitel. Locke.`"
+
+  - slug: "locke-critical-method-innate-ideas"
+    label: "Locke: critical method and innate ideas"
+    pdf_pages: [247, 252]
+    printed_pages: ["227", "232 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0247.jp2"
+      - "daserkenntnispro02cassuoft_0248.jp2"
+      - "daserkenntnispro02cassuoft_0249.jp2"
+      - "daserkenntnispro02cassuoft_0250.jp2"
+      - "daserkenntnispro02cassuoft_0251.jp2"
+      - "daserkenntnispro02cassuoft_0252.jp2"
+    trust: "high"
+    note: "Part 046 begins Book VI with `Erstes Kapitel. Locke.`, follows Cassirer's chapter-opening account of Locke's critical boundary-determination, psychological method, and critique of innate ideas, and stops on printed page 232 before section `I. Sensation und Reflexion`."
+
+  - slug: "locke-sensation-reflection-simple-ideas"
+    label: "Locke: sensation, reflection, and simple ideas"
+    pdf_pages: [252, 257]
+    printed_pages: ["232 partial", "237 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0252.jp2"
+      - "daserkenntnispro02cassuoft_0253.jp2"
+      - "daserkenntnispro02cassuoft_0254.jp2"
+      - "daserkenntnispro02cassuoft_0255.jp2"
+      - "daserkenntnispro02cassuoft_0256.jp2"
+      - "daserkenntnispro02cassuoft_0257.jp2"
+    trust: "high"
+    note: "Part 047 begins with section `I. Sensation und Reflexion`, follows Locke's initial sensation/reflection schema, the passive mirror account of reflection, and the simple-idea/mixed-mode element model, and stops before the application paragraph `Ueber diese Begriffsbestimmung der Reflexion ist Locke...` on printed page 237."
+
+  - slug: "locke-infinity-reflection-necessary-function"
+    label: "Locke: infinity, reflection, and necessary function"
+    pdf_pages: [257, 262]
+    printed_pages: ["237 partial", "242 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0257.jp2"
+      - "daserkenntnispro02cassuoft_0258.jp2"
+      - "daserkenntnispro02cassuoft_0259.jp2"
+      - "daserkenntnispro02cassuoft_0260.jp2"
+      - "daserkenntnispro02cassuoft_0261.jp2"
+      - "daserkenntnispro02cassuoft_0262.jp2"
+    trust: "high"
+    note: "Part 048 begins with the application paragraph `Ueber diese Begriffsbestimmung der Reflexion ist Locke...`, follows the infinity analysis that forces reflection beyond passive imprint into necessary rule-governed mental activity, and stops before `Der gleiche Fortgang, der hier hervortritt...`, where Cassirer turns to space, time, number, and force as parallel scientific concepts."
+
+  - slug: "locke-space-time-number-objective-existence"
+    label: "Locke: space, time, number, and objective existence"
+    pdf_pages: [262, 273]
+    printed_pages: ["242 partial", "253 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0262.jp2"
+      - "daserkenntnispro02cassuoft_0263.jp2"
+      - "daserkenntnispro02cassuoft_0264.jp2"
+      - "daserkenntnispro02cassuoft_0265.jp2"
+      - "daserkenntnispro02cassuoft_0266.jp2"
+      - "daserkenntnispro02cassuoft_0267.jp2"
+      - "daserkenntnispro02cassuoft_0268.jp2"
+      - "daserkenntnispro02cassuoft_0269.jp2"
+      - "daserkenntnispro02cassuoft_0270.jp2"
+      - "daserkenntnispro02cassuoft_0271.jp2"
+      - "daserkenntnispro02cassuoft_0272.jp2"
+      - "daserkenntnispro02cassuoft_0273.jp2"
+    trust: "high"
+    note: "Part 049 begins with `Der gleiche Fortgang, der hier hervortritt...`, closes section `I. Sensation und Reflexion` by following the space, time, number, and simple-idea/objective-existence analyses, and stops before section `II. Der Begriff der Wahrheit.` on printed page 253."
+
+  - slug: "locke-concept-of-truth-intuition-experience"
+    label: "Locke: concept of truth, intuition, and experience"
+    pdf_pages: [273, 283]
+    printed_pages: ["253 partial", "263 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0273.jp2"
+      - "daserkenntnispro02cassuoft_0274.jp2"
+      - "daserkenntnispro02cassuoft_0275.jp2"
+      - "daserkenntnispro02cassuoft_0276.jp2"
+      - "daserkenntnispro02cassuoft_0277.jp2"
+      - "daserkenntnispro02cassuoft_0278.jp2"
+      - "daserkenntnispro02cassuoft_0279.jp2"
+      - "daserkenntnispro02cassuoft_0280.jp2"
+      - "daserkenntnispro02cassuoft_0281.jp2"
+      - "daserkenntnispro02cassuoft_0282.jp2"
+      - "daserkenntnispro02cassuoft_0283.jp2"
+    trust: "high"
+    note: "Part 050 begins with section `II. Der Begriff der Wahrheit.`, follows Locke's truth concept through intuition, mathematics/morals, experience, and the impossibility of natural science as strict science, and stops before section `III. Der Begriff des Seins.` on printed page 263."
+
+  - slug: "locke-substance-being-metaphysical-transcendence"
+    label: "Locke: substance, being, and metaphysical transcendence"
+    pdf_pages: [283, 294]
+    printed_pages: ["263 partial", "274"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0283.jp2"
+      - "daserkenntnispro02cassuoft_0284.jp2"
+      - "daserkenntnispro02cassuoft_0285.jp2"
+      - "daserkenntnispro02cassuoft_0286.jp2"
+      - "daserkenntnispro02cassuoft_0287.jp2"
+      - "daserkenntnispro02cassuoft_0288.jp2"
+      - "daserkenntnispro02cassuoft_0289.jp2"
+      - "daserkenntnispro02cassuoft_0290.jp2"
+      - "daserkenntnispro02cassuoft_0291.jp2"
+      - "daserkenntnispro02cassuoft_0292.jp2"
+      - "daserkenntnispro02cassuoft_0293.jp2"
+      - "daserkenntnispro02cassuoft_0294.jp2"
+    trust: "high"
+    note: "Part 051 begins with section `III. Der Begriff des Seins.`, closes Locke's chapter through the substance critique, archetype/reality problem, and metaphysical-transcendence diagnosis, and stops before `Zweites Kapitel. Berkeley.` on printed page 275."
 
   - slug: "book-vii-start-method"
     label: "Book VII / `Das Problem der Methode` opening"
