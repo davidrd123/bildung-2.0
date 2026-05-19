@@ -168,6 +168,15 @@ It records the PSF I Schriftenregister evidence, especially the distinction
 between singular *Verschiedenheit*, plural *Verschiedenheiten*, and Cassirer's
 named 1838 Buschmann-edited Kawi Bd. II witness.
 
+The Greek source-pressure note for Cassirer substrate is:
+
+- `greek-source-pressure-for-substrate.md`
+
+It records which Greek sources are actually pressured by the Cassirer surfaces
+now on disk: the Plato dialogue pack, Aristotle core shelf, Diels
+Presocratics/atomists, Greek mathematics, and targeted Plotinus/Epicurus/
+skepticism surfaces.
+
 ## How To Use This
 
 Use this scaffold for:
