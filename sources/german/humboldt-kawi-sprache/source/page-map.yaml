@@ -1,0 +1,117 @@
+source:
+  work_id: humboldt-kawi-sprache-band2
+  primary_witness: ia-1838-kawi-band2-google-ia
+  status: initial_book_level_map
+  pdf_pages: 609
+  image_pages:
+    format: tif
+    count: 609
+    directory: source/page-images/tif/berdiekawisprac01buscgoog_tif/
+    filename_prefix: berdiekawisprac01buscgoog_
+    sequence:
+      minimum: 1
+      maximum: 609
+      gaps: []
+  numbering_policy:
+    pdf_to_tif: "PDF page N corresponds to TIF image berdiekawisprac01buscgoog_NNNN.tif."
+    page_numbers_json: source/local/berdiekawisprac01buscgoog_page_numbers.json
+    note: "The page-number JSON detects many printed pages but misses some opening pages; manual alignments below supplement it."
+
+known_alignments:
+  - label: title-page
+    pdf_page: 8
+    tif_image: berdiekawisprac01buscgoog_0008.tif
+    note: "Title page: Zweiter Band."
+  - label: buschmann-vorwort-opening
+    pdf_page: 10
+    tif_image: berdiekawisprac01buscgoog_0010.tif
+    note: "Buschmann Vorwort opens."
+  - label: zweites-buch-title
+    pdf_page: 42
+    tif_image: berdiekawisprac01buscgoog_0042.tif
+    note: "Zweites Buch. Ueber die Kawi-Sprache."
+  - label: zweites-buch-running-text-opening
+    pdf_page: 44
+    tif_image: berdiekawisprac01buscgoog_0044.tif
+    printed_page: 1
+    note: "Kawi-Sprache section 1 begins."
+  - label: zweites-buch-close
+    pdf_page: 246
+    tif_image: berdiekawisprac01buscgoog_0246.tif
+    printed_page: 203
+    note: "End of section 23, Feststellung des Begriffs des Kawi."
+  - label: drittes-buch-title
+    pdf_page: 248
+    tif_image: berdiekawisprac01buscgoog_0248.tif
+    note: "Drittes Buch. Ueber den Malayischen Sprachstamm."
+  - label: drittes-buch-erster-abschnitt-opening
+    pdf_page: 250
+    tif_image: berdiekawisprac01buscgoog_0250.tif
+    printed_page: 207
+    note: "Erster Abschnitt: Stammverwandtschaft der Malayischen Sprachen."
+  - label: drittes-buch-zweiter-abschnitt-opening
+    pdf_page: 337
+    tif_image: berdiekawisprac01buscgoog_0337.tif
+    printed_page: 294
+    note: "Zweiter Abschnitt begins."
+  - label: drittes-buch-close
+    pdf_page: 485
+    tif_image: berdiekawisprac01buscgoog_0485.tif
+    printed_page: 424
+    note: "End of the Band II Drittes Buch material."
+  - label: beilage-schrift-opening
+    pdf_page: 486
+    tif_image: berdiekawisprac01buscgoog_0486.tif
+    printed_page: 1
+    note: "Beilage: Ueber den Zusammenhang der Schrift mit der Sprache."
+  - label: lettre-close
+    pdf_page: 582
+    tif_image: berdiekawisprac01buscgoog_0582.tif
+    printed_page: 97
+    note: "End of Lettre a Mr. Jacquet sur les alphabets de la Polynesie Asiatique."
+  - label: plates-opening
+    pdf_page: 583
+    tif_image: berdiekawisprac01buscgoog_0583.tif
+    note: "Javanisches Alphabet plates begin."
+
+ranges:
+  - id: front-matter-and-inhaltsuebersicht
+    label: Front matter, Vorwort, abbreviations, and Inhaltsuebersicht
+    pdf_pages: 1-41
+    tif_images: 0001-0041
+    raw_extract: source/raw/000-front-matter-and-inhaltsuebersicht-pdf-001-041.txt
+    status: raw_pdf_text_layer
+  - id: zweites-buch-kawi-sprache
+    label: Zweites Buch - Ueber die Kawi-Sprache
+    pdf_pages: 42-246
+    tif_images: 0042-0246
+    printed_pages: 1-203
+    raw_extract: source/raw/010-zweites-buch-ueber-die-kawi-sprache-pdf-042-246.txt
+    status: raw_pdf_text_layer
+  - id: drittes-buch-erster-abschnitt
+    label: Drittes Buch - Erster Abschnitt - Stammverwandtschaft der Malayischen Sprachen
+    pdf_pages: 248-336
+    tif_images: 0248-0336
+    printed_pages: 207-293
+    raw_extract: source/raw/020-drittes-buch-erster-abschnitt-stammverwandtschaft-pdf-248-336.txt
+    status: raw_pdf_text_layer
+  - id: drittes-buch-zweiter-abschnitt
+    label: Drittes Buch - Zweiter Abschnitt - westlicher Zweig
+    pdf_pages: 337-485
+    tif_images: 0337-0485
+    printed_pages: 294-424
+    raw_extract: source/raw/030-drittes-buch-zweiter-abschnitt-westlicher-zweig-pdf-337-485.txt
+    status: raw_pdf_text_layer
+  - id: beilagen-schrift-und-polynesische-alphabete
+    label: Beilagen - Schrift/Sprache and Polynesian alphabet letter
+    pdf_pages: 486-582
+    tif_images: 0486-0582
+    printed_pages: 1-97
+    raw_extract: source/raw/040-beilagen-schrift-und-polynesische-alphabete-pdf-486-582.txt
+    status: raw_pdf_text_layer
+  - id: javanisches-alphabet-tafeln
+    label: Javanisches Alphabet plates
+    pdf_pages: 583-609
+    tif_images: 0583-0609
+    raw_extract: source/raw/050-javanisches-alphabet-tafeln-pdf-583-609.txt
+    status: raw_pdf_text_layer_for_visual_plates

@@ -1,0 +1,83 @@
+work:
+  id: humboldt-kawi-sprache-band2
+  author: Wilhelm von Humboldt
+  editor: J. C. Eduard Buschmann
+  title: Ueber die Kawi-Sprache auf der Insel Java
+  volume: Zweiter Band
+  publication:
+    place: Berlin
+    printer: Druckerei der Koeniglichen Akademie der Wissenschaften
+    year: 1838
+  status: source_scaffold
+
+witnesses:
+  - id: ia-1838-kawi-band2-google-ia
+    role: primary_text_and_image_witness
+    status: landed
+    archive_identifier: berdiekawisprac01buscgoog
+    archive_url: https://archive.org/details/berdiekawisprac01buscgoog
+    local_sources:
+      text_pdf_source: /Users/daviddickinson/Downloads/berdiekawisprac01buscgoog_text.pdf
+      tif_zip_source: /Users/daviddickinson/Downloads/berdiekawisprac01buscgoog_tif.zip
+      hocr_source: /Users/daviddickinson/Downloads/berdiekawisprac01buscgoog_hocr.html
+      hocr_pageindex_source: /Users/daviddickinson/Downloads/berdiekawisprac01buscgoog_hocr_pageindex.json.gz
+      hocr_searchtext_source: /Users/daviddickinson/Downloads/berdiekawisprac01buscgoog_hocr_searchtext.txt.gz
+      page_numbers_source: /Users/daviddickinson/Downloads/berdiekawisprac01buscgoog_page_numbers.json
+    imported_local_files:
+      text_pdf: source/local/berdiekawisprac01buscgoog_text.pdf
+      hocr: source/local/berdiekawisprac01buscgoog_hocr.html
+      hocr_pageindex_gz: source/local/berdiekawisprac01buscgoog_hocr_pageindex.json.gz
+      hocr_pageindex: source/local/berdiekawisprac01buscgoog_hocr_pageindex.json
+      hocr_searchtext_gz: source/local/berdiekawisprac01buscgoog_hocr_searchtext.txt.gz
+      hocr_searchtext: source/local/berdiekawisprac01buscgoog_hocr_searchtext.txt
+      page_numbers: source/local/berdiekawisprac01buscgoog_page_numbers.json
+      tif_dir: source/page-images/tif/berdiekawisprac01buscgoog_tif/
+    pdf:
+      pages: 609
+      text_layer: true
+      metadata_title: "Ueber die Kawi-sprache auf der insel Java, nebst einer einleitung ueber die verschiedenheit des menschlichen sprachbaues und ihren einfluss auf die geistige entwickelung des menschengeschlechts"
+      metadata_creator: Internet Archive
+      metadata_producer: Internet Archive PDF 1.4.25; including mupdf and pymupdf/skimage
+      metadata_creation_date: 2024-08-08
+    page_images:
+      format: tif
+      count: 609
+      sequence:
+        minimum: 1
+        maximum: 609
+        gaps: []
+      filename_pattern: berdiekawisprac01buscgoog_0001.tif
+      note: No JP2 tar is available locally for this item; the TIF zip is the page-image witness.
+    raw_extracts:
+      - id: front-matter-and-inhaltsuebersicht
+        path: source/raw/000-front-matter-and-inhaltsuebersicht-pdf-001-041.txt
+        pdf_pages: 1-41
+      - id: zweites-buch-kawi-sprache
+        path: source/raw/010-zweites-buch-ueber-die-kawi-sprache-pdf-042-246.txt
+        pdf_pages: 42-246
+        printed_pages: 1-203
+      - id: drittes-buch-erster-abschnitt
+        path: source/raw/020-drittes-buch-erster-abschnitt-stammverwandtschaft-pdf-248-336.txt
+        pdf_pages: 248-336
+        printed_pages: 207-293
+      - id: drittes-buch-zweiter-abschnitt
+        path: source/raw/030-drittes-buch-zweiter-abschnitt-westlicher-zweig-pdf-337-485.txt
+        pdf_pages: 337-485
+        printed_pages: 294-424
+      - id: beilagen-schrift-und-polynesische-alphabete
+        path: source/raw/040-beilagen-schrift-und-polynesische-alphabete-pdf-486-582.txt
+        pdf_pages: 486-582
+        printed_pages: 1-97
+      - id: javanisches-alphabet-tafeln
+        path: source/raw/050-javanisches-alphabet-tafeln-pdf-583-609.txt
+        pdf_pages: 583-609
+    notes:
+      - The scan-only Google PDF was observed in Downloads but not imported; this shelf uses the IA text PDF plus TIF images.
+      - The text layer is useful for search and rough splitting but visibly noisy in tables, plates, and some multi-column regions.
+      - Treat the TIF images as the fallback authority for page-level verification.
+
+related_shelves:
+  - id: humboldt-verschiedenheit-sprachbau
+    path: sources/german/humboldt-verschiedenheit-sprachbau/
+    relation: distinct_later_pott_edition_of_singular_verschiedenheit
+    warning: Do not collapse this Kawi Band II witness into the Pott 1876 Verschiedenheit shelf.

@@ -1,0 +1,51 @@
+primary_witness: ia-1838-kawi-band2-google-ia
+status: initial_book_level_splits
+
+sections:
+  - id: front-matter-and-inhaltsuebersicht
+    label: Front matter, Vorwort, abbreviations, and Inhaltsuebersicht
+    pdf_pages: 1-41
+    tif_images: 0001-0041
+    raw_extract: source/raw/000-front-matter-and-inhaltsuebersicht-pdf-001-041.txt
+    status: raw_pdf_text_layer
+
+  - id: zweites-buch-kawi-sprache
+    label: Zweites Buch - Ueber die Kawi-Sprache
+    pdf_pages: 42-246
+    tif_images: 0042-0246
+    printed_pages: 1-203
+    raw_extract: source/raw/010-zweites-buch-ueber-die-kawi-sprache-pdf-042-246.txt
+    status: raw_pdf_text_layer
+    notes:
+      - Core Kawi material in this volume.
+
+  - id: drittes-buch-erster-abschnitt-stammverwandtschaft
+    label: Drittes Buch - Erster Abschnitt - Stammverwandtschaft der Malayischen Sprachen
+    pdf_pages: 248-336
+    tif_images: 0248-0336
+    printed_pages: 207-293
+    raw_extract: source/raw/020-drittes-buch-erster-abschnitt-stammverwandtschaft-pdf-248-336.txt
+    status: raw_pdf_text_layer
+
+  - id: drittes-buch-zweiter-abschnitt-westlicher-zweig
+    label: Drittes Buch - Zweiter Abschnitt - westlicher Zweig
+    pdf_pages: 337-485
+    tif_images: 0337-0485
+    printed_pages: 294-424
+    raw_extract: source/raw/030-drittes-buch-zweiter-abschnitt-westlicher-zweig-pdf-337-485.txt
+    status: raw_pdf_text_layer
+
+  - id: beilagen-schrift-und-polynesische-alphabete
+    label: Beilagen - Schrift/Sprache and Polynesian alphabet letter
+    pdf_pages: 486-582
+    tif_images: 0486-0582
+    printed_pages: 1-97
+    raw_extract: source/raw/040-beilagen-schrift-und-polynesische-alphabete-pdf-486-582.txt
+    status: raw_pdf_text_layer
+
+  - id: javanisches-alphabet-tafeln
+    label: Javanisches Alphabet plates
+    pdf_pages: 583-609
+    tif_images: 0583-0609
+    raw_extract: source/raw/050-javanisches-alphabet-tafeln-pdf-583-609.txt
+    status: raw_pdf_text_layer_for_visual_plates
