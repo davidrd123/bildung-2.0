@@ -21,11 +21,15 @@ Each part should normally include the following when the material warrants it; t
 
 Use `parts/` for ordinary substrate slices. Use `encounters/` only when a passage needs citation-grade treatment as a Campanella/Cassirer anchor or a concept dossier.
 
+For numeric page-order work, read `../review/sequential-run-standard.md` first. The key distinction is that `## English` means direct working translation, not argument summary. The first `part-iii-003` through `part-iii-027` tranche was quarantined for summary-style translation; `part-iii-003` through `part-iii-027` have now been redone and externally reviewed clean.
+
 ## Numbering Rule
 
 Reserve numeric `NNN-*` filenames for literal page-order transcription/translation. Page-order does not mean stopping mechanically at a physical page edge: when a leaf break cuts a sentence, subsection, or local argument, the numeric part should follow the Latin far enough to complete that unit and record the crossover. Non-sequential concept-chain work should use descriptive `pilot-*` filenames or move elsewhere before page-order work begins.
 
 When page-order work starts in a non-contiguous region, use a local prefix that names the lane. The Part I trial keeps the global `001-*` name; the Part III reconnaissance uses `part-iii-NNN-*` so `part-iii-001` does not imply sequential continuation from the Part I trial.
+
+When backfilling a gap after later leaves have already received `part-iii-NNN` numbers, use another explicit local prefix rather than making the numeric order lie. The Liber XV gap-closure lane therefore uses `part-iii-xv-NNN-*`.
 
 ## Pilot Graduation
 
@@ -67,6 +71,9 @@ Part III has now been structurally surveyed in `../reading/part-iii-structural-s
 
 - `part-iii-001-leaf-0791-liber-xiv-cap-i-anima-se-quaerit.md` — leaf 791 through the top of leaf 792, Liber XIV Caput I Articulus I: the soul asks after itself, knows itself by `cognitione quadam secreta abditaque`, and is investigated through operations as a thin, hot, bright spirit dwelling in the body.
 - `part-iii-002-leaf-0792-liber-xiv-cap-ii-human-excellence.md` — leaf 792 middle through leaf 795 top, Liber XIV Caput II Articulus I: broad sensation in stones, plants, corpses, animals, and humans; human superiority argued from art, dominion, astronomy, magic, prophecy, infinite appetite, upright posture, and the hand.
+- `part-iii-003` through `part-iii-020` — corrected review-clean sequence from leaf 795 through leaf 812, covering Caput III through the opening of Caput V Articulus V: Platonic and Peripatetic immortality arguments, the active/passive soul problem, animal parity objections, religion and prophecy, transmigration, robustness versus purity, spirit as the instrument of ordinary cognition, hidden knowledge, and the created-soul/preexistence question.
+- `part-iii-021` through `part-iii-027` — corrected review-clean sequence from leaf 813 through leaf 816, then non-contiguously leaf 858 through leaf 860: why souls enter bodies, natural union and divine creation, `sapientia intuitiva`, `vi secreta Deum sapit` as `Religionis initium et robur`, the close of Liber XIV, and the opening of Liber XVI on religion, grace, and freedom.
+- `part-iii-xv-001` through `part-iii-xv-008` — review-clean Liber XV gap-closure sequence from leaf 817 through leaf 824: conservation and governance, ends and defects, foreknowledge/providence/predestination/election/reprobation, the hierarchy of worlds, assisting/ministering angelology, angelic fall, Necessity/Fate/Harmony through the assisting orders, and the world-soul/celestial-governor scheme. This backfill narrows, but does not finish, the Liber XV gap.
 
 This run is a sequential reconnaissance lane, not a new concept-pilot chain. During a long run, hold new terms and structural observations in `../scratch/part-iii-run-notes.md` and batch uptake into glossary, page-map, and journal at the end of a tranche.
 
@@ -78,7 +85,8 @@ The Part III `part-iii-NNN-*` files are the first live test of a longer Lotman-l
 
 The immediate next candidates are:
 
-- `part-iii-003-*` at leaf 795, `Liber XIV, Caput III`, on Platonic arguments for immortality, if continuing the Part III soul run
+- continue the Liber XV gap closure with `part-iii-xv-009` at leaf 0825, since leaves 0825-0857 remain open between the review-clean Liber XV opening and the already reviewed Liber XVI opening
+- continue Liber XVI from leaf 861 only if deliberately leaving the rest of the Liber XV bridge aside for now
 - leaf 24 section `9`, hearing, if making a separate decision to normalize the numeric page-order workflow
 - leaf 28 lower half, the opening of `Dubitatio VII` on flux, Heraclitus, and why no thing is known twice as the same
 - leaf 87 lower half, `Responsio ad Undecimam Dubitationem`, if following the local self-knowledge chain into the deliria of philosophers

@@ -183,7 +183,7 @@ leaf_numbering:
       content: |
         Pars III, Liber XV opening. Structural-survey marker for conservation
         and governance of things after the human-soul book.
-      caveat: "Book opening verified from ABBYY extraction; range to leaf 857 is inferred from the next verified book opening."
+      caveat: "Book opening verified from ABBYY extraction; leaves 0817-0824 now have review-clean part anchors, while the remaining range to leaf 857 is inferred from the next verified book opening."
     - jp2_leaf: 858
       printed_page: null
       content: |
@@ -580,6 +580,706 @@ anchors:
       Working page-order transcription from ABBYY extraction and
       normalization, ending before Caput III on Platonic arguments for
       immortality. Several local readings remain bracketed in the part file.
+
+  - id: "campanella-part-iii-006-agent-intellect-refuted"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; preserves the anti-agent-intellect argument and the physical mediation of sense."
+    location:
+      jp2_leaf: 798
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0798.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput III, Articulus III"
+      raw_extract: "source/raw/leaf-0798-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0798-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-006-leaf-0798-agent-intellect-refuted.md"
+    latin_signal_phrases:
+      - "Sed nos lucem tingi vultibus rerum docuimus"
+      - "idcirco neque intellectus agens poni debet"
+      - "Cognosco hanc esse aleam"
+      - "Ratio ergo Aristotelis... nulla est"
+    content_note: |
+      The corrected part keeps the Peripatetic agent-intellect critique in
+      body order. Light, odor, sound, distance, weakness, mirror images, and
+      phantasmata explain what Aristotle's school assigns to an immaterial
+      agent intellect.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated."
+
+  - id: "campanella-part-iii-007-active-passive-soul"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; transitions from the agent-intellect critique into the active/passive soul problem."
+    location:
+      jp2_leaf: 799
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0799.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, end of Caput III and opening of Caput IV, Articulus I"
+      raw_extract: "source/raw/leaf-0799-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0799-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-007-leaf-0799-active-passive-soul.md"
+    latin_signal_phrases:
+      - "In anima, ut in omni ente finito"
+      - "ipsum sapere et amare in quantum ens"
+      - "dare alteri sapere, posse, amare"
+      - "utrum quo primo sapit homo, sit immortale"
+    content_note: |
+      Caput IV's title confirms that the Liber XIV immortality inquiry is
+      organized through the `sapere` family: the question is whether that by
+      which the human being first knows/tastes is immortal. The body then
+      distinguishes acting and suffering in the soul without accepting the
+      Aristotelian agent-intellect account.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated."
+
+  - id: "campanella-part-iii-008-human-soul-immortal-metaphysics"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; moves from soul-as-ens into the positive metaphysical proof of immortality."
+    location:
+      jp2_leaf: 800
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0800.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput IV, Articulus I and opening of Articulus II"
+      raw_extract: "source/raw/leaf-0800-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0800-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-008-leaf-0800-human-soul-immortal-metaphysics.md"
+    latin_signal_phrases:
+      - "Animae ergo est scire, et posse, et appetere"
+      - "num alia vita sit in nobis, quae a calido spiritu non dependeat"
+      - "sed sapiat immortalitatem"
+      - "CAP. IV. ART. II."
+    content_note: |
+      The corrected part preserves the transition from active/passive soul
+      to the question whether there is a life in us that does not depend on
+      the hot spirit but `sapiat immortalitatem`. Later review of leaf 804
+      confirms the Articulus II heading belongs inside Caput IV, not Caput V.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page and chapter heading not page-image collated."
+
+  - id: "campanella-part-iii-009-mind-without-subject-or-contrary"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; develops the proof from lack of subject, lack of contrary, active power, and infinite appetite."
+    location:
+      jp2_leaf: 801
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0801.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput IV, Articulus II"
+      raw_extract: "source/raw/leaf-0801-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0801-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-009-leaf-0801-mind-without-subject-or-contrary.md"
+    latin_signal_phrases:
+      - "Mens autem nobilior est spiritu et calore"
+      - "potestas activa mentis eius immortalitatem indicat"
+      - "intelligit in infinitum et appetit in infinitum"
+      - "anima intelligit ideas universales aeternas"
+    content_note: |
+      The corrected part restores the proof's full sequence: Ambrose and
+      canon law, extension beyond the body, judgment of contraries, Telesio,
+      martyrial active power, infinite appetite, and eternal ideas.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated."
+
+  - id: "campanella-part-iii-010-religion-and-future-life"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; argues from religion, testimony, moral order, and martyrial constancy to future life."
+    location:
+      jp2_leaf: 802
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0802.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput IV, Articulus II"
+      raw_extract: "source/raw/leaf-0802-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0802-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-010-leaf-0802-religion-and-future-life.md"
+    latin_signal_phrases:
+      - "ipsa philosophia universalis religio"
+      - "testimonio, quod triumphat de omnibus opinionibus"
+      - "Cur bonis mali, si Deus est"
+      - "constantia in asserenda religione"
+    content_note: |
+      The corrected part keeps the religious proof in order: non-vain
+      appetite for immortal goods, universal religion, testimony over
+      Aristotelian impossibility, philosophical witnesses, moral order,
+      insufficient posthumous fame, and martyrial constancy.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; leaf ends mid-sentence."
+
+  - id: "campanella-part-iii-011-god-of-living-and-shame"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; continues the religious proof through God-of-the-living, shame, annihilation, and mind's proper operation."
+    location:
+      jp2_leaf: 803
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0803.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput IV, Articulus II"
+      raw_extract: "source/raw/leaf-0803-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0803-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-011-leaf-0803-god-of-the-living-and-shame.md"
+    latin_signal_phrases:
+      - "Deus autem non est mortuorum Deus, sed vivorum"
+      - "Haec ratio semper agitavit animum meum"
+      - "Sapere enim est antequam esse calidum, tenue, et mobile"
+      - "Deus ergo prius illabitur menti"
+    content_note: |
+      The corrected part extends the religious proof and gives a new sapor
+      datum: `sapere` is prior to the hot, subtle, mobile spirit. This
+      confirms that the sapere family is not only a chapter-title frame but
+      active in Liber XIV's mid-level reasoning.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; several damaged readings remain bracketed."
+
+  - id: "campanella-part-iii-012-objections-from-animal-arts"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; opens Caput V's objections from animal arts, religion, prophecy, and rationality."
+    location:
+      jp2_leaf: 804
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0804.jp2"
+      printed_page: null
+      section: "Pars III, end of Liber XIV, Caput IV and opening of Caput V, Articulus I"
+      raw_extract: "source/raw/leaf-0804-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0804-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-012-leaf-0804-objections-from-animal-arts.md"
+    latin_signal_phrases:
+      - "Rationes difficiles contra praestantiam et immortalitatem mentis humanae"
+      - "Habent animalia religionem"
+      - "rationis participia esse omnia"
+      - "Differimus ergo per magis et minus tantum"
+    content_note: |
+      Caput V begins here, settling the previous Caput IV/Articulus II
+      ambiguity. The objections give the animal-parity case its strongest
+      form: animal arts, politics, religion, prophecy, syllogisms, Vesalius,
+      Solomon, and Pythagorean transmigration.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; leaf ends mid-word."
+
+  - id: "campanella-part-iii-013-objections-from-human-weakness"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; continues Caput V's objections from human weakness, mortality, instability, and bodily dependence."
+    location:
+      jp2_leaf: 805
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0805.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput V, Articulus I"
+      raw_extract: "source/raw/leaf-0805-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0805-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-013-leaf-0805-objections-from-human-weakness.md"
+    latin_signal_phrases:
+      - "istae primalitates sint unum"
+      - "Ego saepe cupio ante Deum preces attente proferre"
+      - "scientia est motus animae"
+      - "cur anima crescit sapientia et viribus"
+    content_note: |
+      The corrected part preserves objections eight through sixteen, turning
+      Campanella's own positive themes against immortality: primality unity,
+      animal speech, bodily death, distraction in prayer, forgetfulness,
+      appetite instability, astrology, and the soul's origin.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated."
+
+  - id: "campanella-part-iii-014-human-and-animal-difference"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; begins the response to animal-parity objections by distinguishing similarity, degree, instinct, and freedom."
+    location:
+      jp2_leaf: 806
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0806.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput V, Articulus I"
+      raw_extract: "source/raw/leaf-0806-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0806-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-014-leaf-0806-human-and-animal-difference.md"
+    latin_signal_phrases:
+      - "constituuntur Potestate, Sapientia, et Amore"
+      - "religione sola, nos vero etiam libertate"
+      - "discursum sensualem, non autem mentalem"
+      - "sunt signa in Schola Dei"
+    content_note: |
+      The corrected part grants animal cognition, speech, and arts, but
+      grades them as object-induced sensual discourse rather than inwardly
+      elicited free mental discourse. It also preserves the participatory
+      chain from stones through plants, beasts, humans, angels, and God.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated."
+
+  - id: "campanella-part-iii-015-animal-religion-and-prophecy"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; distinguishes animal signs and atmospheric prophecy from human religion and divine prophecy."
+    location:
+      jp2_leaf: 807
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0807.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput V, Articulus I"
+      raw_extract: "source/raw/leaf-0807-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0807-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-015-leaf-0807-animal-religion-and-prophecy.md"
+    latin_signal_phrases:
+      - "religionem autem inesse brutis proprie negandum"
+      - "prophetia animalium est ab aere"
+      - "Omnia sentiunt Creatorem secreto sensu"
+      - "per artem et cultum non nisi homines aliam sperant vitam"
+    content_note: |
+      The corrected part concedes social law, signs, atmospheric prophecy,
+      and secret sense of the Creator to animals, but denies religion ordered
+      by art and cult toward another life after death.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; leaf ends mid-word."
+
+  - id: "campanella-part-iii-016-transmigration-opened"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; opens Article II against transmigration while conceding beast-soul survival as aerial spirit."
+    location:
+      jp2_leaf: 808
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0808.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput V, Articulus II"
+      raw_extract: "source/raw/leaf-0808-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0808-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-016-leaf-0808-transmigration-opened.md"
+    latin_signal_phrases:
+      - "Transmigrationem animarum humanarum in corpora brutorum"
+      - "brutorum animam spiritum esse, qui in aerem abit"
+      - "inesse homini operationes divinas"
+      - "homini vero manum, qua exercet ingenium"
+    content_note: |
+      The corrected part opens the transmigration article by surveying
+      Pythagorean, Platonic, Pharisaic, Talmudic, Islamic, and other claims.
+      Campanella concedes that every soul lives after the body in some way
+      and that beast-soul survives as aerial spirit, but distinguishes human
+      divine operations, future-life commerce, prophecy, miracle, inspiration,
+      ecstasy, and the hand as instrument of ingenuity.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated."
+
+  - id: "campanella-part-iii-017-transmigration-refuted"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; refutes natural transmigration by following animal-soul arguments downward through insects, plants, stones, and metals."
+    location:
+      jp2_leaf: 809
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0809.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput V, Articulus II"
+      raw_extract: "source/raw/leaf-0809-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0809-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-017-leaf-0809-transmigration-refuted.md"
+    latin_signal_phrases:
+      - "poena et vindicta non est, nec prodest"
+      - "impossibilem animarum transmigrationem"
+      - "et in lapidibus insit sensus"
+      - "transmigratio haec naturalis non admittatur"
+    content_note: |
+      The corrected part rejects transmigration as natural doctrine. If
+      animal industry proves immortal soul, the argument spreads to gnats,
+      lice, worms, plants, stones, and metals. Campanella allows miraculous
+      divine insertion of souls into bodies, but not a natural migration rule.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; several damaged proper names remain bracketed."
+
+  - id: "campanella-part-iii-018-immortality-not-bodily-force"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; moves from the appendix on beasts into Article IV on robustness, purity, spirit, and hidden knowledge."
+    location:
+      jp2_leaf: 810
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0810.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput V, Appendix and Articulus IV"
+      raw_extract: "source/raw/leaf-0810-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0810-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-018-leaf-0810-immortality-not-bodily-force.md"
+    latin_signal_phrases:
+      - "constituitur ex primalitatibus non contractis"
+      - "non autem puritate"
+      - "quadraginta horis ego atrocissime tortus"
+      - "non novit se, nisi abdita notitia"
+    content_note: |
+      The corrected part keeps the appendix and Article IV opening together.
+      Animal or elemental powers can be stronger by contracted bodily force,
+      but human mind is purer through uncontracted primalities and free
+      choice. The fear-of-death argument adds that the soul knows itself only
+      through hidden knowledge when it returns from embodied self-forgetting.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; leaf ends mid-word."
+
+  - id: "campanella-part-iii-019-spirit-instrument-and-mental-passions"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; answers objections 9-15 by distinguishing mind, corporeal spirit, common science, and hidden knowledge."
+    location:
+      jp2_leaf: 811
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0811.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput V, Articulus IV"
+      raw_extract: "source/raw/leaf-0811-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0811-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-019-leaf-0811-spirit-instrument-and-mental-passions.md"
+    latin_signal_phrases:
+      - "Mens autem omnia cognoscit per spiritum cui insidit"
+      - "Scientia enim a spiritu fuit quasi videre per cribrum"
+      - "Remanet autem illa solum quae a superis defluit, et quae abdita est"
+      - "quo cum sapiebat"
+    content_note: |
+      The corrected part preserves the sequence of replies to objections
+      9-15. Mind acts in ordinary embodied cognition through corporeal spirit
+      and can be affected through spirit's passions. Common knowledge
+      acquired with spirit from corporeal objects can be lost; hidden or
+      supernal knowledge remains.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; leaf ends with a conjectural mid-word continuation."
+
+  - id: "campanella-part-iii-020-preexistence-and-created-souls"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; closes Article IV and opens Article V on preexistence and why souls enter bodies."
+    location:
+      jp2_leaf: 812
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0812.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput V, end of Articulus IV and opening of Articulus V"
+      raw_extract: "source/raw/leaf-0812-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0812-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-020-leaf-0812-preexistence-and-created-souls.md"
+    latin_signal_phrases:
+      - "post gustatam libertatem"
+      - "secreta notitia sui numquam destitui"
+      - "num animae fuerint ante corpora"
+      - "animas non fuisse ab aeterno"
+    content_note: |
+      The corrected part finishes the response on departed souls and
+      corporeal spirit, then opens Article V. Campanella treats preexistence
+      as a probabilistic rather than demonstrative question: souls are not
+      eternal, but natural reason cannot settle whether they were created
+      with angels or before bodies.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; leaf ends mid-word."
+
+  - id: "campanella-part-iii-021-why-souls-enter-bodies"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; continues Article V on why souls enter bodies and whether souls are generated with bodies."
+    location:
+      jp2_leaf: 813
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0813.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput V, Articulus V and opening of Caput VI, Articulus I"
+      raw_extract: "source/raw/leaf-0813-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0813-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-021-leaf-0813-why-souls-enter-bodies.md"
+    latin_signal_phrases:
+      - "Quomodo autem Deus purgat et lavat luto maculas mentium?"
+      - "animae a Deo creentur"
+      - "cur anima immortalis uniatur corpori"
+      - "semina viva sunt"
+    content_note: |
+      The corrected part closes the preexistence discussion and opens the
+      next set of objections: why an immortal soul would be united to body,
+      whether souls are created by God or propagated through living seeds,
+      and how generation relates to the soul's divine origin.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated."
+
+  - id: "campanella-part-iii-022-natural-union-and-divine-creation"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; gives the post-separation sapientia intuitiva passage and the sapor-to-religion bridge."
+    location:
+      jp2_leaf: 814
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0814.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput VI, Articulus II"
+      raw_extract: "source/raw/leaf-0814-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0814-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-022-leaf-0814-natural-union-and-divine-creation.md"
+    latin_signal_phrases:
+      - "sapientia intuitiva"
+      - "per obiecti tactum internum"
+      - "vi secreta Deum sapit"
+      - "Religionis initium et robur"
+    content_note: |
+      The corrected part is a central Part III sapor datum. The separated
+      soul's cognition is `sapientia intuitiva`, not window-vision, but
+      internal touch of the object or an idea flowing from higher beings.
+      The human mind, even when self-ignorant through added passions, knows
+      or tastes God by secret force; Campanella names this the beginning and
+      strength of Religion.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; `Danthes[?]` and several damaged title readings remain open."
+
+  - id: "campanella-part-iii-023-soul-not-from-angels-or-world-soul"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; denies that the human soul derives from angels, world-soul, or created intermediaries."
+    location:
+      jp2_leaf: 815
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0815.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, end of Caput VI and opening of Caput VII"
+      raw_extract: "source/raw/leaf-0815-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0815-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-023-leaf-0815-soul-not-from-angels-or-world-soul.md"
+    latin_signal_phrases:
+      - "Mens... non tamen nisi politicum"
+      - "anima Mundi non facit animam"
+      - "Religio immediate tendit in Deum"
+      - "Onotrias summa"
+    content_note: |
+      The corrected part rejects derivations of the human soul from angels,
+      demons, heroes, the world-soul, or other created intermediaries.
+      Religion tends immediately to God, and the soul's source is treated as
+      direct divine creation rather than emanation through lesser powers.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; `Onotrias` is preserved as a possible recurring divine-name problem."
+
+  - id: "campanella-part-iii-024-ways-of-living"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; closes the human-soul book with the soul's reasons for living in body and returning to God."
+    location:
+      jp2_leaf: 816
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0816.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput VII"
+      raw_extract: "source/raw/leaf-0816-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0816-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-024-leaf-0816-ways-of-living.md"
+    latin_signal_phrases:
+      - "anima velit in corpore vivere"
+      - "esse animam magis ubi amat quam ubi animat"
+      - "corpus mortem vivam"
+      - "reversio ad Deum"
+    content_note: |
+      The corrected part ends Liber XIV by distinguishing modes of living:
+      the soul may be more where it loves than where it animates, bodily life
+      can be a living death, and return to God is named as especially fitting
+      for human beings.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated. The next `part-iii-NNN` unit jumps to Liber XVI, but Liber XV leaves 0817-0824 are now opened in the `part-iii-xv` gap-closure lane; leaves 0825-0857 remain open."
+
+  - id: "campanella-part-iii-xv-001-conservation-and-governance"
+    status: "opened"
+    purpose: "Review-clean Liber XV gap-closure unit opening the book on conservation and governance."
+    location:
+      jp2_leaf: 817
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0817.jp2"
+      printed_page: null
+      section: "Pars III, Liber XV, Caput I, Articulus I"
+      raw_extract: "source/raw/leaf-0817-part-iii-liber-xv-governance-opening-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0817-part-iii-liber-xv-governance-opening-abbyy.normalized.txt"
+      part: "parts/part-iii-xv-001-leaf-0817-conservation-and-governance.md"
+    latin_signal_phrases:
+      - "De Conservatione et Gubernatione rerum"
+      - "omnia Entia sunt et conservantur a Deo"
+      - "instar radiorum solis in aere a sole"
+      - "posse seorsum Deo servari, non autem gubernari"
+    content_note: |
+      The gap-closure unit opens Liber XV by distinguishing conservation
+      from governance. God can conserve things separately, but governance
+      requires coexistence, ends, and the ordering of each creature within
+      the all-for-all structure of the world.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; leaf ends mid-word at `de gubern-`."
+
+  - id: "campanella-part-iii-xv-002-governor-ends-and-defects"
+    status: "opened"
+    purpose: "Review-clean Liber XV gap-closure unit on governance by ends, defects, chance, and providential order."
+    location:
+      jp2_leaf: 818
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0818.jp2"
+      printed_page: null
+      section: "Pars III, Liber XV, end of Caput I, Articulus I and opening of Articulus II"
+      raw_extract: "source/raw/leaf-0818-part-iii-liber-xv-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0818-part-iii-liber-xv-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-xv-002-leaf-0818-governor-ends-and-defects.md"
+    latin_signal_phrases:
+      - "omnis gubernator praefigit finem"
+      - "Gubernatum hominum esse vanum, si non habet deificationem pro fine"
+      - "stilla atramenti in hac pagina"
+      - "casui et fortunae... causarum defectus"
+    content_note: |
+      The unit turns governance into a question of ends, defects, and
+      secondary-causal chance under first-cause order. The self-referential
+      ink-drop example makes accidental damage on the printed page part of
+      the page's own argument about defects.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; several local OCR-damage markers remain visible in the part file."
+
+  - id: "campanella-part-iii-xv-003-defects-and-foreknowledge"
+    status: "opened"
+    purpose: "Review-clean Liber XV gap-closure unit on defects as occasions and the opening distinction of foreknowledge."
+    location:
+      jp2_leaf: 819
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0819.jp2"
+      printed_page: null
+      section: "Pars III, Liber XV, Caput I, Articulus II and common notes on foreknowledge, providence, predestination, election, reprobation, and governance"
+      raw_extract: "source/raw/leaf-0819-part-iii-liber-xv-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0819-part-iii-liber-xv-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-xv-003-leaf-0819-defects-and-foreknowledge.md"
+    latin_signal_phrases:
+      - "defectus... occasiones"
+      - "O felix culpa"
+      - "copulationem per hos defectus"
+      - "Praescire est antequam sint res videre"
+    content_note: |
+      The unit makes defects, accidents, physical evil, moral evil, and even
+      sin occasions by which higher and lower worlds are coupled. It also
+      opens the technical distinction in which foreknowledge is cognitive and
+      infallible without itself positing the entity or necessity of what is
+      foreknown.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; leaf ends mid-word."
+
+  - id: "campanella-part-iii-xv-004-providence-predestination-reprobation"
+    status: "opened"
+    purpose: "Review-clean Liber XV gap-closure unit on the technical ladder from foreknowledge to governance."
+    location:
+      jp2_leaf: 820
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0820.jp2"
+      printed_page: null
+      section: "Pars III, Liber XV, common notes on foreknowledge, providence, predestination, election, reprobation, and governance; opening of Articulus III"
+      raw_extract: "source/raw/leaf-0820-part-iii-liber-xv-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0820-part-iii-liber-xv-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-xv-004-leaf-0820-providence-predestination-reprobation.md"
+    latin_signal_phrases:
+      - "providentia addit supra praescientiam"
+      - "Praedestinatio autem est"
+      - "Reprobatio vero est"
+      - "res viliores esse gratia meliorum"
+    content_note: |
+      The unit differentiates foreknowledge, providence, predestination,
+      election, reprobation, and governance, then opens the argument that
+      inferior things exist for the sake of higher ones inside a hierarchy of
+      worlds.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; several conjectural OCR repairs remain bracketed."
+
+  - id: "campanella-part-iii-xv-005-world-hierarchy-and-angels"
+    status: "opened"
+    purpose: "Review-clean Liber XV gap-closure unit on cross-world coupling, tinctures of primalities, and assisting angels."
+    location:
+      jp2_leaf: 821
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0821.jp2"
+      printed_page: null
+      section: "Pars III, Liber XV, continuation of Articulus III and opening of Caput II, Articulus I"
+      raw_extract: "source/raw/leaf-0821-part-iii-liber-xv-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0821-part-iii-liber-xv-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-xv-005-leaf-0821-world-hierarchy-and-angels.md"
+    latin_signal_phrases:
+      - "tincturas veluti primalitatum propriarum"
+      - "per apprehensionem potestativi"
+      - "per cognoscitivi visionem"
+      - "volitivi desiderium"
+      - "Seraphim, Cherubim, et Throni"
+    content_note: |
+      The unit describes the coupling of the material, situational,
+      Mathematical, mental, and Archetypal worlds through symbolic entities
+      and something like tinctures of primalities. It then opens the
+      distinction between assisting and ministering angels.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; the `tincturae primalitatum` phrase is now tracked as open vocabulary."
+
+  - id: "campanella-part-iii-xv-006-assisting-angels-and-fall"
+    status: "opened"
+    purpose: "Review-clean Liber XV gap-closure unit on assisting angels, angelic cognition, and the possibility of fall."
+    location:
+      jp2_leaf: 822
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0822.jp2"
+      printed_page: null
+      section: "Pars III, Liber XV, Caput II, Articulus I"
+      raw_extract: "source/raw/leaf-0822-part-iii-liber-xv-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0822-part-iii-liber-xv-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-xv-006-leaf-0822-assisting-angels-and-fall.md"
+    latin_signal_phrases:
+      - "qui semel gustaverunt"
+      - "Plato in Phaedro"
+      - "opinionabiliter"
+      - "propinquiores sunt res omnes nihilo quam Enti summo Deo"
+    content_note: |
+      The unit treats the fall of angels through opinionable cognition rather
+      than ignorance in beatified intellects. It also states the metaphysical
+      disproportion sharply: even the highest angel is nearer to nothing than
+      to the supreme Being, God.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; several sentence-level conjectures remain marked in the part file."
+
+  - id: "campanella-part-iii-xv-007-necessity-fate-harmony-and-ministry"
+    status: "opened"
+    purpose: "Review-clean Liber XV gap-closure unit on Necessity, Fate, and Harmony as transmitted through angelic orders."
+    location:
+      jp2_leaf: 823
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0823.jp2"
+      printed_page: null
+      section: "Pars III, Liber XV, Caput II, Articulus II"
+      raw_extract: "source/raw/leaf-0823-part-iii-liber-xv-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0823-part-iii-liber-xv-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-xv-007-leaf-0823-necessity-fate-harmony-and-ministry.md"
+    latin_signal_phrases:
+      - "Necessitas, Fatum, et Harmonia"
+      - "per Thronos Necessitas"
+      - "per Cherubinos Fatum"
+      - "per Seraphinos Harmonia"
+      - "Belzebub... rex muscarum"
+    content_note: |
+      The unit links the Part II great-influences vocabulary to the assisting
+      angelic hierarchy: Necessity through Thrones, Fate through Cherubim, and
+      Harmony through Seraphim. It also opens the demonological ministry
+      sequence with Beelzebub as king of flies.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated. Treat the relation between this triad and `Potentia / Sapientia / Amor` as an open projection, not as settled."
+
+  - id: "campanella-part-iii-xv-008-world-soul-and-celestial-governors"
+    status: "opened"
+    purpose: "Review-clean Liber XV gap-closure unit on the world-soul as Domination and the celestial governors."
+    location:
+      jp2_leaf: 824
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0824.jp2"
+      printed_page: null
+      section: "Pars III, Liber XV, Caput II, Articulus III"
+      raw_extract: "source/raw/leaf-0824-part-iii-liber-xv-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0824-part-iii-liber-xv-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-xv-008-leaf-0824-world-soul-and-celestial-governors.md"
+    latin_signal_phrases:
+      - "Animam Mundi"
+      - "unum ex Dominationibus"
+      - "quatuor Medicei in Iovis systemate"
+      - "virtutes caelorum movebuntur"
+    content_note: |
+      The unit preserves the anima mundi but relocates it: the world-soul is
+      one of the Dominations, a vicarial governor under divine monarchy. The
+      page also incorporates the Medicean satellites into the celestial
+      hierarchy by assigning them their own Powers.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; `causationes[?]` and related OCR repairs remain open."
+
+  - id: "campanella-part-iii-025-mind-outside-homeland"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from the opening of Liber XVI on Religion, Virtue, Law, and the Prophet Legislator."
+    location:
+      jp2_leaf: 858
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0858.jp2"
+      printed_page: null
+      section: "Pars III, Liber XVI, Caput I, Articulus I"
+      raw_extract: "source/raw/leaf-0858-part-iii-liber-xvi-religion-opening-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0858-part-iii-liber-xvi-religion-opening-abbyy.normalized.txt"
+      part: "parts/part-iii-025-leaf-0858-mind-outside-its-homeland.md"
+    latin_signal_phrases:
+      - "extra propriam regionem"
+      - "extra patriam suam"
+      - "verecundia"
+      - "materiam reiciunt"
+    content_note: |
+      The corrected part opens Liber XVI non-contiguously after Liber XIV.
+      The mind appears as outside its homeland or proper region, ashamed,
+      weighed by matter, and oriented toward the discipline of religion,
+      virtue, law, and prophetic legislation.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated. Liber XV is now partially backfilled in the `part-iii-xv` lane: leaves 0817-0824 are review-clean, while leaves 0825-0857 remain open between this file and the previous `part-iii-NNN` unit."
+
+  - id: "campanella-part-iii-026-fall-law-and-divine-aid"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XVI; follows fall, law, and divine aid through the ordering of body, spirit, mind, and God."
+    location:
+      jp2_leaf: 859
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0859.jp2"
+      printed_page: null
+      section: "Pars III, Liber XVI, Caput I, Articuli I-II"
+      raw_extract: "source/raw/leaf-0859-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0859-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-026-leaf-0859-fall-law-and-divine-aid.md"
+    latin_signal_phrases:
+      - "corpus spiritui, spiritum menti, mentemque Deo"
+      - "peccatum Angelorum et Adae"
+      - "potestativum roborent"
+      - "Deo Legislatore"
+    content_note: |
+      The corrected part develops the need for divine law and aid after the
+      fall: body is to be ordered to spirit, spirit to mind, and mind to God.
+      Virtues strengthen the potestative register, and God appears as the
+      legislator whose law reorders fallen powers.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated. The Article II title is heavily damaged in OCR and needs later page-image collation."
+
+  - id: "campanella-part-iii-027-religion-grace-and-freedom"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XVI; connects religion, grace, tasted truths, archetypal goods, and freedom."
+    location:
+      jp2_leaf: 860
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0860.jp2"
+      printed_page: null
+      section: "Pars III, Liber XVI, Caput I, end of Articulus II and opening of Articulus III"
+      raw_extract: "source/raw/leaf-0860-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0860-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-027-leaf-0860-religion-grace-and-freedom.md"
+    latin_signal_phrases:
+      - "ut gustaremus... omnes veritates"
+      - "Mundi Archetypi bona gustantes"
+      - "gratia gratum faciens"
+      - "sapimus et amamus atque odimus"
+    content_note: |
+      The corrected part confirms the sapor-to-religion axis opened at leaf
+      814. Religion is given so that, adhering to God, we would taste all
+      truths; rapt souls taste the goods of the Archetypal World; and the
+      freedom discussion returns to the affective sequence of knowing/tasting,
+      loving, and hating.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated; `plantae` and `Animastica[?]` remain local translation risks."
 
   - id: "erk-v2-part018-intrinsecatio"
     status: "located"

@@ -73,8 +73,9 @@
   alternatives:
     - "to taste / wisdom / flavor"
     - "to know / wisdom / savor"
+    - "to know-taste / wisdom / savor"
   status: open
-  notes: "The leaf-23 pilot makes the etymological pressure explicit: `Sapientia enim dicitur a sapore, et gustu sapiente res prout sunt.` The cluster is double-edged. Taste seems to deserve the name of wisdom because it reaches intrinsic nature; yet taste's bodily variability shows why sensory wisdom fails. The leaf-28 pilot extends the cluster upward: we have no `saporem` of God and angels because they are known through effects, not proper images. Leaf 85 then separates `sapientia` from acquired `sapor`: `sapientia inest: sapor accedit... scientia non acquiritur, sed scibilia acquiruntur.` Leaf 438 rebinds the cluster to power and purity: `Affectio enim ex sapore nascitur, sapor ex posse`, while wisdom consists in the purity by which things are received as they are rather than altered by the knower's impurity. Leaf 444, Cassirer's exact Vol. 2 p. 78 support, gives the metaphysical-affective form: `Divinitas participata talem saporem habet`; participated divinity has a savor because finite being is a participation in divine entity. Keep English flexible at pressure points rather than flattening `sapere` into either only 'taste' or only 'know'."
+  notes: "The leaf-23 pilot makes the etymological pressure explicit: `Sapientia enim dicitur a sapore, et gustu sapiente res prout sunt.` The cluster is double-edged. Taste seems to deserve the name of wisdom because it reaches intrinsic nature; yet taste's bodily variability shows why sensory wisdom fails. The leaf-28 pilot extends the cluster upward: we have no `saporem` of God and angels because they are known through effects, not proper images. Leaf 85 then separates `sapientia` from acquired `sapor`: `sapientia inest: sapor accedit... scientia non acquiritur, sed scibilia acquiruntur.` Leaf 438 rebinds the cluster to power and purity: `Affectio enim ex sapore nascitur, sapor ex posse`, while wisdom consists in the purity by which things are received as they are rather than altered by the knower's impurity. Leaf 444, Cassirer's exact Vol. 2 p. 78 support, gives the metaphysical-affective form: `Divinitas participata talem saporem habet`; participated divinity has a savor because finite being is a participation in divine entity. Leaf 799 confirms the family inside Liber XIV's soul-book title: `ipsum sapere et amare in quantum ens... dare alteri sapere, posse, amare... utrum quo primo sapit homo, sit immortale`. Leaf 803 adds the priority claim `Sapere enim est antequam esse calidum, tenue, et mobile`, so doctrinal `sapere` precedes the hot, subtle, mobile spirit rather than being merely a function of it. Leaf 811 clarifies the embodied register: the soul loses common object-derived science when spirit departs, `quo cum sapiebat`, while hidden knowledge remains. Leaf 814 carries the register into religion: even while ignorant of itself through added passions, the human mind `vi secreta Deum sapit`, and this is `Religionis initium et robur`; the sun's heat enclosed in earth likewise `secreta vi semper sursum sapit et tendit`. Leaf 860 confirms the Liber XVI religion-axis: religion is given `ut gustaremus... omnes veritates`, rapt souls are `Mundi Archetypi bona gustantes`, and affective orientation is expressed as `sapimus et amamus atque odimus`. Translation convention: in doctrinal contexts, especially near `sapientia`, `sapor`, primalities, hidden self-sense, religion, or immortality, render `sapere` with an explicit doubled force such as 'know/taste' or 'know-taste' at least on first occurrence; reserve plain 'know' mainly for ordinary `cognoscere`, `scire`, or `intelligere` unless English readability requires a lighter second occurrence. Keep English flexible at pressure points rather than flattening `sapere` into either only 'taste' or only 'know'."
 
 - term: "Affectio enim ex sapore nascitur, sapor ex posse"
   handle: "term:campanella-affectio-sapor-posse"
@@ -96,6 +97,16 @@
   status: open
   notes: "Leaf 444, Cassirer's exact Vol. 2 Part 018 p. 78 source. The sentence sits inside the argument that love of God is essential rather than accidental: we love ourselves because we love being, and our finite being is a participation in divine entity. `Sapor` here is not merely the sensory etymology of `sapientia`; it is the affective sign of participated divinity, the reason we rejoice to be what we are. Keep the thesis linked to leaf 23's gustus etymology, leaf 438's `sapor ex posse`, and leaf 906's gustatory model of beatific cognition."
 
+- term: "vi secreta Deum sapit"
+  handle: "term:campanella-vi-secreta-deum-sapit"
+  kind: thesis
+  preferred: "by a secret force it knows/tastes God"
+  alternatives:
+    - "secretly tastes God"
+    - "by hidden force the mind knows/tastes God"
+  status: open
+  notes: "Leaf 814, inside Liber XIV's transition from soul and hidden cognition toward religion: the human mind, though ignorant of itself because of added passions, nevertheless `vi secreta Deum sapit et ad Deum contendit`; Campanella immediately adds `Et hoc est Religionis initium et robur`. The same paragraph compares the mind to solar heat enclosed in earth, which `secreta vi semper sursum sapit et tendit`. This gives the sapor family a religion-axis: religion begins as hidden tasting/orientation toward God, later confirmed at leaf 860 where religion is given `ut gustaremus... omnes veritates`."
+
 - term: "Amor abditus / sensus abditus"
   handle: "term:campanella-amor-abditus-sensus-abditus"
   kind: thesis_pair
@@ -114,7 +125,7 @@
     - "superadded knowledge / innate and hidden knowledge"
     - "added knowledge / hidden innate knowledge"
   status: open
-  notes: "Leaf 85 distinguishes the soul's apparent self-forgetting as a feature of `notitia superaddita`, not of `notitia innata & abdita`. This is the primary Latin hinge behind Ernst's abdita/addita map and Cassirer's self-consciousness discussion: every being first knows itself, but ordinary object-knowledge habituates the soul away from noticing that hidden self-sense. Leaf 86-87 shifts the pair into `scientia innata / illata`, where innate knowledge remains but introduced passions interrupt its use. Leaf 402 opens Cassirer's direct Part II parallel: `Unaquaeque res intelligit se ipsam intellectione abdita per suam essentiam`, with essential self-intellection contrasted against introduced and reflexive intellection. Leaf 791 reopens the same chain in Part III anthropology: the human soul knows itself `cognitione quadam secreta abditaque`, but supervening objects mute and bury its self-notion."
+  notes: "Leaf 85 distinguishes the soul's apparent self-forgetting as a feature of `notitia superaddita`, not of `notitia innata & abdita`. This is the primary Latin hinge behind Ernst's abdita/addita map and Cassirer's self-consciousness discussion: every being first knows itself, but ordinary object-knowledge habituates the soul away from noticing that hidden self-sense. Leaf 86-87 shifts the pair into `scientia innata / illata`, where innate knowledge remains but introduced passions interrupt its use. Leaf 402 opens Cassirer's direct Part II parallel: `Unaquaeque res intelligit se ipsam intellectione abdita per suam essentiam`, with essential self-intellection contrasted against introduced and reflexive intellection. Leaf 791 reopens the same chain in Part III anthropology: the human soul knows itself `cognitione quadam secreta abditaque`, but supervening objects mute and bury its self-notion. Leaves 810-812 sharpen the distinction inside Liber XIV: the embodied soul does not know itself except `abdita notitia`; common science acquired through corporeal objects can be lost when spirit departs; what remains is what flows from above and what is hidden; and during body-formation the soul is never deprived of `secreta notitia sui`."
 
 - term: "scientia innata / illata"
   handle: "term:campanella-scientia-innata-illata"
@@ -256,6 +267,16 @@
     - "essentializing primalities / operative principles / causal outputs"
   status: open
   notes: "Leaf 449-450: `ut essentiant ens, vocari debent primalitates; ut respiciunt ad opus, principia; & ut ad causandum exeunt, causas producunt.` Campanella marks a level distinction inside the same triad: constituting being, regarding work or operation, and going out toward causation. Track this carefully so English `principle` does not flatten all three levels."
+
+- term: "tincturae primalitatum"
+  handle: "term:campanella-tincturae-primalitatum"
+  kind: concept
+  preferred: "tinctures of the primalities"
+  alternatives:
+    - "stainings of the primalities"
+    - "colorings of the primalities"
+  status: open
+  notes: "Leaf 821, inside the review-clean Liber XV gap-closure lane: mind would not be united to the Mathematical and corporeal worlds unless it recognized in them `tincturas veluti primalitatum propriarum`. `Tinctura` is a dyeing or staining metaphor for cross-world participation, parallel to but distinct from `sapor` and `intrinsecatio`. Track whether it becomes a stable coupling term or only a local image inside the hierarchy of material, situational, Mathematical, mental, and Archetypal worlds."
 
 - term: "voluntas / amor"
   handle: "term:campanella-voluntas-amor"

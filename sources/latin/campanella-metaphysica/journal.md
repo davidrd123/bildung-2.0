@@ -1,5 +1,59 @@
 # Journal
 
+## 2026-05-18 — Liber XV 001-008 Review Uptake: Governance, Tincture, And World-Soul
+
+External review accepted `part-iii-xv-001` through `part-iii-xv-008` as content-clean: the normalized BODY blocks are represented in order, the English is direct paragraph-aligned translation, and the one paraphrase-signal hit lives only in an analytic Note. Promoted the eight files to review-clean status and registered leaves 0817-0824 in `source/page-map.yaml`.
+
+The uptake narrows the old Liber XV gap rather than closing it fully. The campaign now has review-clean coverage from the opening of Liber XV through leaf 824, but leaves 0825-0857 remain open before the already reviewed Liber XVI opening at leaf 858. Updated the page-map caveats and `parts/README.md` so the `part-iii-xv` lane is visible as a backfill rather than a false continuation of the `part-iii-NNN` sequence.
+
+Substantive uptake: leaf 821 adds `tincturas veluti primalitatum propriarum`, now tracked as an open glossary term for cross-world participation; leaf 823 maps Necessity, Fate, and Harmony through Thrones, Cherubim, and Seraphim, recorded as a possible but unproven angelological projection of the primalities; leaf 824 refines the Bruno comparison by preserving the `anima mundi` as one of the Dominations rather than eliminating it. Campanella's contrast with Bruno is therefore not "no world-soul" but a monarchically subordinated, vicarial world-soul under God-as-monarch.
+
+Re-entry: continue the Liber XV gap closure with `part-iii-xv-009` at leaf 0825. Do not jump to Liber XVI as if the bridge were now complete; the remaining leaves include the structural-survey high-yield zone on magic, celestial life, images, sacrifices, demons, and natural sympathy.
+
+## 2026-05-18 — Liber XV Gap Closure Started
+
+Started closing the non-contiguous gap between Liber XIV leaf 816 and Liber XVI leaf 858. Generated raw and normalized ABBYY extracts for the missing Liber XV span, leaves 0818-0857, using the existing `extract_abbyy_page.py` and `normalize_extract.py` pipeline. Leaf 0817 already had verified raw/normalized extracts from the structural survey.
+
+Created a separate gap-closure lane rather than continuing the misleading `part-iii-NNN` sequence, since `part-iii-025` through `part-iii-027` already belong to Liber XVI. New files are `part-iii-xv-001` through `part-iii-xv-008`, covering leaves 0817-0824: conservation/governance from the First Being, governance by ends and defects, the technical ladder from foreknowledge to governance, the hierarchy of material/situational/mathematical/mental/archetypal worlds, the distinction between assisting and ministering angels, angelic fall, Necessity/Fate/Harmony as transmitted through the assisting orders, and the world-soul/celestial-governor scheme.
+
+Resolved by later review uptake: external review accepted these eight files as content-clean, and the tranche is now absorbed into the page-map, glossary, README, and sapor note. This entry remains as the authorship and extraction record.
+
+## 2026-05-18 — Parts 021-027 Review Uptake: Religion Tastes God
+
+External review accepted the corrected `part-iii-021` through `part-iii-027` tranche as clean: the normalized BODY blocks are represented in order, the English is paragraph-aligned translation, and the `sapere` convention is applied where the doctrine pivots.
+
+The substantive uptake is leaf 814 and leaf 860. Leaf 814 gives post-separation cognition as `sapientia intuitiva`, not through the glass of a window but `per obiecti tactum internum aut per ideam a superis defluentem`; it then states that the human mind, despite self-ignorance from added passions, `vi secreta Deum sapit et ad Deum contendit`, and names this `Religionis initium et robur`. Leaf 860 confirms the Liber XVI religion-axis: religion is given `ut gustaremus... omnes veritates`, rapt souls are `Mundi Archetypi bona gustantes`, and affective orientation returns as `sapimus et amamus atque odimus`.
+
+Updated `reading/campanella-sapor-as-cognitive-form.md` with a religion-axis subsection, added glossary thesis `vi secreta Deum sapit`, expanded the `sapere / sapientia / sapor` entry with leaves 814 and 860, and registered review-clean leaves 0813-0816 and 0858-0860 in `source/page-map.yaml`.
+
+Campaign-level gap noted at the time: the accepted sequence then ran through the end of Liber XIV at leaf 816 and jumped to the opening of Liber XVI at leaf 858. Partially resolved by the later Liber XV uptake: leaves 817-824 are now review-clean in the `part-iii-xv` lane, while leaves 825-857 remain open and may bear on the soul/religion transition.
+
+## 2026-05-18 — Parts 016-020 Review Uptake: Hidden Knowledge And With-Spirit Sapere
+
+External review accepted the corrected `part-iii-016` through `part-iii-020` tranche as clean: normalized BODY coverage is complete, the English is paragraph-aligned translation, and the `sapere` convention is applied at the doctrinal pivots without being over-applied.
+
+The substantive uptake is the distinction between the with-spirit `sapere` register and the `abdita / secreta notitia` register. Leaf 810 says the embodied soul does not know itself except `abdita notitia`; leaf 811 says common object-derived science is lost when spirit departs, `quo cum sapiebat`, while only what flows from above and what is hidden remains; leaf 812 says the soul, even while forming the body and overwhelmed by passions, is never deprived of `secreta notitia sui`. Updated `reading/campanella-sapor-as-cognitive-form.md` and the glossary entries for `sapere / sapientia / sapor` and `notitia superaddita / innata et abdita` to capture the two-register distinction. Registered review-clean leaves 0808-0812 in `source/page-map.yaml`.
+
+Resolved by the next uptake: `part-iii-021` through `part-iii-027` were redone and externally reviewed clean. Leaf 0814 did become the expected uptake point for `sapientia intuitiva`, `vi secreta Deum sapit`, and `a superis defluentem`.
+
+## 2026-05-18 — Parts 011-015 Review Uptake: Sapere Before Spiritus
+
+External review accepted the corrected `part-iii-011` through `part-iii-015` tranche as clean: all normalized BODY blocks are represented, the English is paragraph-aligned translation, and the `sapere` convention is applied where the doctrine pivots rather than mechanically everywhere.
+
+The substantive uptake is leaf 803: `Sapere enim est antequam esse calidum, tenue, et mobile.` This extends the leaf-799 Liber XIV title confirmation. The soul-book does not only frame immortality through the `sapere` family; it also states that knowing/tasting is prior to the hot, subtle, mobile spirit. Updated `reading/campanella-sapor-as-cognitive-form.md` and the glossary entry `sapere / sapientia / sapor` with this evidence. Also patched `part-iii-008`'s inline heading from the ambiguous OCR-normalized `C. II. ART. II.` to `CAP. IV. ART. II.`, since the leaf-804 title confirms Caput V begins later. Follow-up audit registered review-clean leaves 0798-0807 in `source/page-map.yaml` with anchors for `part-iii-006` through `part-iii-015`.
+
+## 2026-05-16 — Parts 006-010 Review Uptake: Sapor Enters Liber XIV
+
+External review accepted the corrected `part-iii-006` through `part-iii-010` tranche as clean: the provisional warnings were removed legitimately, the normalized BODY blocks are represented in order, and the English is paragraph-level translation rather than argument summary.
+
+The substantive uptake is leaf 799. The Caput IV title explicitly frames the soul-book argument through `sapere`: `ipsum sapere et amare in quantum ens`, `dare alteri sapere, posse, amare`, and `utrum quo primo sapit homo, sit immortale`. This confirms that the `sapor` / `sapere` doctrine is not only a Part I gustus figure or a Part II primality passage; it is a structural axis of Liber XIV's immortality inquiry. Updated `reading/campanella-sapor-as-cognitive-form.md` and the glossary entry `sapere / sapientia / sapor` with a translator convention: use `know/taste` or `know-taste` at doctrinal pressure points, rather than flattening `sapere` into plain "know."
+
+## 2026-05-16 — Part III Sequential Tranche Quarantined For Translation Failure
+
+Quarantined the first long Part III sequential tranche, `parts/part-iii-003-*` through `parts/part-iii-027-*`. The failure is content-level, not structural: the files used sequential filenames and `## Latin` / `## English` headings, but many `## Latin` sections preserve selected cleaned excerpts rather than complete-enough body transcription, and many `## English` sections are argument summaries rather than paragraph-level translations.
+
+The raw and normalized extracts produced during the run remain useful. The failed layer is the part-file presentation: it made provisional reading summaries look like accepted page-order transcription/translation. Until redone against `review/sequential-run-standard.md`, the tranche should not be absorbed into glossary, page-map, crosswalks, or citation-grade argument. Files `part-iii-003` through `part-iii-027` have now been replaced and externally reviewed clean, but this entry remains as the quarantine record.
+
 ## 2026-05-16 — Part III Structural Survey And Liber XIV Page-Order Start
 
 Started the longer Part III reconnaissance as a sequential lane rather than another concept-pilot:
