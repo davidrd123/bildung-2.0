@@ -1,0 +1,28 @@
+# Humboldt - Sprache als Vermittlerin
+
+Work: Ankuendigung einer Schrift ueber die Vaskische Sprache und Nation
+Witness: ia-1904-gs-iii
+Source raw extract: ../raw/010-ankuendigung-vaskische-sprache-pdf-300-319.txt
+Range: PDF pages 308-309 / printed pages 296-297
+Status: working normalization for source-near comparison; not a diplomatic transcription
+
+Normalization notes:
+
+- Checked against the PDF text layer and rendered page images for PDF pages 308-309.
+- Repairs obvious OCR/extraction artifacts and line-break damage; preserves historical spelling where readable.
+- Body text only; Leitzmann's footnotes and apparatus are omitted in this working excerpt.
+- This is the passage Cassirer quotes through Steinthal in *Die Kantischen Elemente in Wilhelm von Humboldts Sprachphilosophie* and uses for the PSF I chapter I Humboldt opening.
+
+## [296] Zum Wesen der Sprache
+
+Zu dem eigentlichen Wesen der Sprache kommt man überdiess durch keine, auch noch so vollständige Zergliederung. Es gleicht einem Hauche, der das Ganze umgiebt, aber, zu fein, an dem einzelnen Element seine Form für das Auge verliert, wie der Nebel des Gebirgs nur aus der Ferne Gestalt hat, so wie man aber in ihn hineintritt, formlos umherstiebt. Man nähert sich diesem ihrem Wesen aber, je mehr verschiedene Sprachen man genauer betrachtet, dadurch in das allgemeine Geschäft der Sprachbildung der gesammten Menschheit eindringend; je mehr man jede einzelne - und dazu sind die Zergliederungen unentbehrliche Vorarbeiten - als den individuell bestimmten Ausdruck einer gewissen nationellen Charakterform zu erkennen bemüht ist. Wenn man diesen Weg richtig verfolgt, gelangt man indess freilich selbst über die Gränzen des blossen Sprachstudiums hinaus.
+
+Denn die Sprache ist überall Vermittlerin, erst zwischen der unendlichen und endlichen Natur, dann zwischen einem und dem andern Individuum; zugleich und durch denselben Act macht sie die Vereinigung möglich, und entsteht aus derselben: nie liegt ihr ganzes Wesen in einem Einzelnen, sondern muss immer zugleich aus dem andern errathen, oder erahndet werden; sie lässt sich aber auch nicht aus beiden erklären, sondern ist (wie überall dasjenige, bei dem wahre Vermittelung Statt findet) etwas Eignes, Unbegreifliches, eben nur durch die Idee der Vereinigung des, für uns und unsre Vorstellungsart, durchaus Geschiedenen Gegebenes, und nur innerhalb dieser Idee Befangenes.
+
+Ihre Betrachtung, die jedoch, um nicht chimärisch zu werden, von der ganz trocknen, sogar mechanischen Zergliederung des Körperlichen und Construirbaren in ihr anfangen muss, führt also bis in die letzten Tiefen der Menschheit. Man muss sich nur durchaus von der Idee losmachen, dass sie sich so von demjenigen, was sie bezeichnet, absondern lasse, wie z. B. der Name eines Menschen von seiner Person, und dass sie, gleich einem verabredeten Chiffre, ein Erzeugniss der Reflexion und der Uebereinkunft, oder überhaupt das Werk der Menschen (wie man den Begriff in der Erfahrung nimmt) oder gar des Einzelnen sey.
+
+## [297] Ich und Du
+
+Als ein wahres, unerklärliches Wunder bricht sie aus dem Munde einer Nation, und als ein nicht minder staunenswerthes, wenn gleich täglich unter uns wiederholtes, und mit Gleichgültigkeit übersehenes, aus dem Lallen jedes Kindes hervor, und ist (um jetzt nicht der überirdischen Verwandtschaft des Menschen zu gedenken) die leuchtendste Spur und der sicherste Beweis, dass der Mensch nicht eine an sich abgesonderte Individualität besitzt, dass Ich und Du nicht bloss sich wechselseitig fordernde, sondern, wenn man bis zu dem Puncte der Trennung zurückgehen könnte, wahrhaft identische Begriffe sind, und dass es in diesem Sinn Kreise der Individualität giebt, von dem schwachen, hülfsbedürftigen und hinfälligen Einzelnen hin bis zum uralten Stamme der Menschheit, weil sonst alles Verstehen bis in alle Ewigkeit hin unmöglich seyn würde.
+
+Es ist hier nicht der Ort, diese Sätze weiter auszuführen, ich glaubte sie aber andeuten zu müssen, weil, meiner Meynung nach, auf ihnen die richtige Ansicht des organischen Lebens des Menschengeschlechts in seinen Stämmen und Nationen, und mithin grösstentheils auch der Weltgeschichte beruht, und weil es wichtig war, den Gedanken zu verhüten, als wähnte ich, durch trockne und immer dürftige Zergliederung das wundervolle Wesen der Sprache selbst zu ergründen. Die erste Pflicht des Schriftstellers ist, Achtung für seinen Gegenstand auszudrücken.

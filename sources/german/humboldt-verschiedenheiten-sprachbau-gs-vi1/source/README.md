@@ -12,10 +12,11 @@ der Ortsadverbien mit dem Pronomen in einigen Sprachen*.
 - hOCR, page-index, search-text, and page-number sidecars are locating aids.
 - `source/full/` and `source/raw/` are OCR/PDF text surfaces. They are
   searchable and useful for substrate work, but remain uncorrected.
-- `source/normalized/` should contain only checked tranches that earned use in
-  an actual reading or cross-text move.
+- `source/normalized/` contains checked tranches that earned use in an actual
+  reading or cross-text move.
 
 ## Current Local Artifacts
 
 All files under `source/local/` and `source/page-images/` are gitignored.
-The tracked authority surface is the metadata plus `full/` and `raw/`.
+The tracked authority surface is the metadata plus `full/`, `raw/`, and the
+checked working tranches under `normalized/`.

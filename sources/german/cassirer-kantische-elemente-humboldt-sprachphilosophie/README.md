@@ -6,10 +6,9 @@ Hensel-Erlangen*. Greiz i. Vogtl.: Ohag, 1923, pp. 105-127.
 
 ## Status
 
-Source text landed at raw level from the ECW 16 Hamburger Ausgabe PDF. This is
-usable for bounded source-near orientation before a Kant/Humboldt synthesis,
-but it is not yet a normalized working text and it is not the original 1923
-Festschrift scan.
+Source text landed from the ECW 16 Hamburger Ausgabe PDF. It now has two
+working normalized tranches for bounded source-near orientation before a
+Kant/Humboldt synthesis, but it is not the original 1923 Festschrift scan.
 
 This shelf exists because PSF I cites the essay at p. 97 and the Humboldt
 source-use map identifies it as the direct Cassirer-Humboldt-Kant bridge.
@@ -30,6 +29,16 @@ Tracked raw extract:
   - PDF pages 112-140
   - ECW pages 105-133
   - original publication pagination in headers: pp. 105-127
+
+Tracked normalized tranches:
+
+- `source/normalized/010a-kant-synthesis-language-objectivity-pdf-128-131.txt`
+  - PDF pages 128-131 / ECW pages 121-124
+  - Cassirer's central Kantian objectivity/synthesis framing for Humboldt's
+    language philosophy.
+- `source/normalized/010b-ergon-energeia-critical-objectivity-pdf-139-140.txt`
+  - PDF pages 139-140 / ECW pages 132-133
+  - closing Ergon/Energeia formulation of the Kant-Humboldt relation.
 
 Structure helpers:
 
@@ -85,7 +94,7 @@ Expected first source paths:
 - `source/local/` for the PDF/scan/OCR sidecars; gitignored.
 - `source/raw/` for uncorrected extracted text.
 - `source/normalized/` only after checking against page images or a reliable
-  scan.
+  scan; current tranches are working normalizations, not diplomatic text.
 
 Do not treat later translations as substitutes for the 1923 German essay unless
 the task explicitly needs a translation witness.

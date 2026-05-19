@@ -66,7 +66,8 @@ sections:
         tif_images: 0250-0264
         printed_pages: 207-221
         raw_extract: source/raw/021-drittes-buch-stammverwandtschaft-method-opening-pdf-250-264.txt
-        status: raw_pdf_text_layer
+        normalized_extract: source/normalized/021a-stammverwandtschaft-method-opening-pdf-250-254.txt
+        status: raw_with_working_normalized_excerpt
       - id: wortvergleichung-method
         label: Word-comparison method and Buschmann apparatus
         pdf_pages: 270-283

@@ -1,0 +1,49 @@
+work:
+  id: humboldt-vaskische-sprache-ankuendigung
+  author: Wilhelm von Humboldt
+  title: "Ankuendigung einer Schrift ueber die Vaskische Sprache und Nation, nebst Angabe des Gesichtspunctes und Inhalts derselben"
+  printed_in: "Wilhelm von Humboldts Gesammelte Schriften, Band III"
+  publication:
+    place: Berlin
+    publisher: "B. Behr's Verlag"
+    year: 1904
+  status: source_scaffold
+
+witnesses:
+  - id: ia-1904-gs-iii
+    role: primary_text_witness
+    status: landed
+    archive_identifier: gesammelteschrif03humbuoft
+    archive_url: https://archive.org/details/gesammelteschrif03humbuoft
+    title: "Wilhelm von Humboldts Gesammelte Schriften, Band III"
+    creator: "Humboldt, Wilhelm, Freiherr von, 1767-1835"
+    date: "1903-36"
+    imported_local_files:
+      pdf: source/local/gesammelteschrif03humbuoft.pdf
+      djvu_text: source/local/gesammelteschrif03humbuoft_djvu.txt
+      page_numbers: source/local/gesammelteschrif03humbuoft_page_numbers.json
+      scandata_xml: source/local/gesammelteschrif03humbuoft_scandata.xml
+    pdf:
+      pages: 394
+      text_layer: true
+      file: source/local/gesammelteschrif03humbuoft.pdf
+    raw_extracts:
+      - id: ankuendigung-full
+        path: source/raw/010-ankuendigung-vaskische-sprache-pdf-300-319.txt
+        pdf_pages: 300-319
+        printed_pages: 288-299
+        status: raw_pdf_text_layer
+    normalized_extracts:
+      - id: sprache-vermittlerin
+        path: source/normalized/010a-sprache-vermittlerin-pdf-308-309.txt
+        pdf_pages: 308-309
+        printed_pages: 296-297
+        status: working_normalized_excerpt
+    notes:
+      - "The article is cited by Cassirer at PSF I p. 99."
+      - "Cassirer quotes the language-as-mediation passage in Kantische Elemente through Steinthal's Sprachphilosophische Werke."
+      - "The IA page-number JSON is noisy in this range; the rendered page images confirm printed pp. 296-297 for the normalized excerpt."
+
+git_policy:
+  ignored_binary_dirs:
+    - source/local/

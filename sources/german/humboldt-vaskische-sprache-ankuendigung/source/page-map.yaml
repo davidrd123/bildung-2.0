@@ -1,0 +1,54 @@
+source:
+  work_id: humboldt-vaskische-sprache-ankuendigung
+  primary_witness: ia-1904-gs-iii
+  status: focused_article_map
+  pdf_pages: 394
+  page_number_json: source/local/gesammelteschrif03humbuoft_page_numbers.json
+  numbering_policy:
+    pdf_page_to_leaf: "PDF page N corresponds to IA leaf N in the page-number JSON for this item."
+    printed_to_pdf_checked: "In the checked article range, printed page P corresponds to PDF page P+12."
+    note: "The IA page-number JSON is noisy around this article; use the checked anchors below before citing."
+
+known_alignments:
+  - label: article-opening
+    pdf_page: 300
+    printed_page: 288
+    content: "Article opens: Ankuendigung einer Schrift ueber die Vaskische Sprache und Nation."
+    raw_extract: source/raw/010-ankuendigung-vaskische-sprache-pdf-300-319.txt
+    trust: high
+  - label: sprache-vermittlerin-opening
+    pdf_page: 308
+    printed_page: 296
+    content: "Denn die Sprache ist ueberall Vermittlerin..."
+    raw_extract: source/raw/010-ankuendigung-vaskische-sprache-pdf-300-319.txt
+    normalized_extract: source/normalized/010a-sprache-vermittlerin-pdf-308-309.txt
+    trust: high
+  - label: ich-und-du-continuation
+    pdf_page: 309
+    printed_page: 297
+    content: "Ich und Du ... wahrhaft identische Begriffe"
+    raw_extract: source/raw/010-ankuendigung-vaskische-sprache-pdf-300-319.txt
+    normalized_extract: source/normalized/010a-sprache-vermittlerin-pdf-308-309.txt
+    trust: high
+  - label: next-work-opening
+    pdf_page: 320
+    printed_page: 300
+    content: "Essai sur les langues du nouveau Continent opens."
+    trust: high
+
+ranges:
+  - id: ankuendigung-full
+    pdf_pages: 300-319
+    printed_pages: 288-299
+    content: "Ankuendigung einer Schrift ueber die Vaskische Sprache und Nation."
+    raw_extract: source/raw/010-ankuendigung-vaskische-sprache-pdf-300-319.txt
+    status: raw_pdf_text_layer
+    trust: high
+  - id: sprache-vermittlerin
+    pdf_pages: 308-309
+    printed_pages: 296-297
+    content: "Language as mediation; Ich/Du passage."
+    raw_extract: source/raw/010-ankuendigung-vaskische-sprache-pdf-300-319.txt
+    normalized_extract: source/normalized/010a-sprache-vermittlerin-pdf-308-309.txt
+    status: working_normalized_excerpt
+    trust: high

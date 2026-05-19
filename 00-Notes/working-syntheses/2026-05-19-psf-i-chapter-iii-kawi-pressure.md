@@ -15,6 +15,11 @@ Cassirer-Humboldt-Kawi pressure point; it does not open a full Kawi campaign.
   `sources/german/humboldt-kawi-sprache/source/normalized/020a-raumverba-praepositionen-pdf-207-209.txt`.
 - Kawi Tagalog `sa` locus:
   `sources/german/humboldt-kawi-sprache/source/normalized/030a-tagalisch-sa-ortsbegriff-pdf-402-403.txt`.
+- Kawi Drittes Buch method opening:
+  `sources/german/humboldt-kawi-sprache/source/normalized/021a-stammverwandtschaft-method-opening-pdf-250-254.txt`.
+- Humboldt *Ortsadverbien* support:
+  `sources/german/humboldt-verschiedenheiten-sprachbau-gs-vi1/source/normalized/020a-pronomen-ichheit-pdf-315-319.txt` and
+  `sources/german/humboldt-verschiedenheiten-sprachbau-gs-vi1/source/normalized/020b-raum-pronominalbegriff-pdf-321-324.txt`.
 - PSF/Humboldt source-use map:
   `sources/german/cassirer-philosophie-der-symbolischen-formen/humboldt-in-psf-i-source-use.md`.
 
@@ -66,6 +71,14 @@ is not reducible to the lexicon. Even where Sanskrit supplies the learned
 concept-word, the receiving language gives the grammatical means by which that
 concept enters speech.
 
+The Drittes Buch method opening now extends that point from Kawi narrowly to
+comparative method generally. Humboldt's Stammverwandtschaft claim does not
+rest only on scattered word resemblance; he explicitly weights agreement of
+`Form` as the mark of language individuality. That matters for the Aarsleff
+line because the comparative-Austronesian material is not decorative backing
+for an already finished doctrine. It is the route by which Humboldt lets
+language-form become visible across a family.
+
 The first exact Cassirer-facing Kawi locus now confirms the stronger version of
 the space-verb point. Humboldt says the use of verbs as prepositions shows a
 finer linguistic sense than the use of substantives such as back or face,
@@ -94,6 +107,6 @@ clean grammatical categories assumed by later theory.
 If the next close reading stays inside chapter III, keep the pass narrow:
 
 - first exact locus now done: Kawi pp. 164 ff. / 341 on space-verbs;
-- next choice: Kawi pp. 79-81 on the noun/verb boundary and "actuale Sein";
-- source gap if deixis/person pressure dominates:
-  *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen*.
+- noun/verb boundary now has a normalized Kawi pp. 79-81 support surface;
+- if deixis/person pressure dominates, start from the two landed
+  *Ortsadverbien* normalizations before widening further.

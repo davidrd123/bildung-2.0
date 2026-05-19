@@ -19,8 +19,9 @@ Buschmann-edited 1838 Kawi volume.
 
 This is **not** yet a live Humboldt campaign. It is a source scaffold for
 substrate use: PDF/OCR/page-image witnesses, a page map, and rough raw splits
-at the volume's natural seams. Two smaller raw working tranches now mark the
-first Cassirer-facing Kawi surfaces: the opening of the Kawi book and the
+at the volume's natural seams. Targeted working tranches now mark the main
+Cassirer-facing Kawi surfaces: the Kawi opening, `actuale Sein`, the Drittes
+Buch Stammverwandtschaft method opening, Raumverba, Tagalog `sa`, and the
 section 23 close on the concept of Kawi.
 
 ## Why Here
@@ -100,6 +101,7 @@ Tracked normalized working excerpts:
 
 - `source/normalized/011a-kawi-language-opening-pdf-044.txt`
 - `source/normalized/012a-verbum-actuale-sein-pdf-122-124.txt`
+- `source/normalized/021a-stammverwandtschaft-method-opening-pdf-250-254.txt`
 - `source/normalized/023a-feststellung-des-begriffs-des-kawi-opening-pdf-231-237.txt`
 - `source/normalized/020a-raumverba-praepositionen-pdf-207-209.txt`
 - `source/normalized/030a-tagalisch-sa-ortsbegriff-pdf-402-403.txt`
@@ -115,7 +117,7 @@ source/
   page-images/tif/       # extracted TIF page-image witness; gitignored
   full/                  # whole OCR text extracted from text PDF
   raw/                   # rough split OCR by book / appendix
-  normalized/            # future checked tranches only
+  normalized/            # checked working tranches only
   witnesses.yaml
   page-map.yaml
   sections.yaml

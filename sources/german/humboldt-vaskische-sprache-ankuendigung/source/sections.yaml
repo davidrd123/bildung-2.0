@@ -1,0 +1,25 @@
+work: "Ankuendigung einer Schrift ueber die Vaskische Sprache und Nation"
+primary_witness: ia-1904-gs-iii
+status: focused_article_extract_with_targeted_normalization
+
+sections:
+  - id: ankuendigung-full
+    witness_id: ia-1904-gs-iii
+    label: "Ankuendigung einer Schrift ueber die Vaskische Sprache und Nation, nebst Angabe des Gesichtspunctes und Inhalts derselben"
+    pdf_pages: 300-319
+    printed_pages: 288-299
+    raw_extract: source/raw/010-ankuendigung-vaskische-sprache-pdf-300-319.txt
+    normalized_extract: null
+    status: raw_pdf_text_layer
+    targeted_extracts:
+      - id: sprache-vermittlerin
+        label: "Sprache ist ueberall Vermittlerin / Ich und Du"
+        pdf_pages: 308-309
+        printed_pages: 296-297
+        raw_extract: source/raw/010-ankuendigung-vaskische-sprache-pdf-300-319.txt
+        normalized_extract: source/normalized/010a-sprache-vermittlerin-pdf-308-309.txt
+        status: working_normalized_excerpt
+    notes:
+      - "Cited by Cassirer at PSF I p. 99."
+      - "The normalized excerpt is the passage Cassirer quotes through Steinthal in Kantische Elemente."
+      - "Article boundary checked against the table of contents and the following Essai opening."

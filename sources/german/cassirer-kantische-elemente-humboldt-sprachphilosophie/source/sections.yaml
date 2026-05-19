@@ -1,5 +1,5 @@
 primary_witness: ecw16-hamburger-ausgabe-2003
-status: raw_essay_extract
+status: raw_essay_extract_with_working_normalized_tranches
 
 sections:
   - id: kantische-elemente-humboldt-sprachphilosophie
@@ -9,8 +9,26 @@ sections:
     original_publication_pages: 105-127
     pdf_pages: 112-140
     raw_extract: source/raw/010-kantische-elemente-ecw16-pdf-112-140.txt
-    status: raw_pdf_text_layer
+    targeted_extracts:
+      - id: kant-synthesis-language-objectivity
+        label: "Kantian synthesis, language, and objectivity"
+        ecw_pages: 121-124
+        original_publication_pages: 118-121
+        pdf_pages: 128-131
+        raw_extract: source/raw/010-kantische-elemente-ecw16-pdf-112-140.txt
+        normalized_extract: source/normalized/010a-kant-synthesis-language-objectivity-pdf-128-131.txt
+        status: working_normalized_excerpt
+      - id: ergon-energeia-critical-objectivity
+        label: "Ergon/Energeia and critical objectivity"
+        ecw_pages: 132-133
+        original_publication_pages: 126-127
+        pdf_pages: 139-140
+        raw_extract: source/raw/010-kantische-elemente-ecw16-pdf-112-140.txt
+        normalized_extract: source/normalized/010b-ergon-energeia-critical-objectivity-pdf-139-140.txt
+        status: working_normalized_excerpt
+    status: raw_with_working_normalized_excerpts
     notes:
       - Extracted from the ECW 16 Hamburger Ausgabe PDF with pdftotext -layout.
       - The local PDF is stored under source/local and gitignored.
-      - Normalize only when a Kant/Humboldt synthesis or exact quotation requires it.
+      - Current normalized tranches cover the central Kantian objectivity/synthesis frame and the closing Ergon/Energeia conclusion.
+      - Normalize additional passages only when a Kant/Humboldt synthesis or exact quotation requires it.

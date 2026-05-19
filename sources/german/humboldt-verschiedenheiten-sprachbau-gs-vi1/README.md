@@ -79,8 +79,13 @@ printed pages 304-330. PDF page 341 opens Leitzmann's
 *Bemerkungen zur Entstehungsgeschichte der einzelnen Aufsaetze*, confirming the
 right boundary.
 
-The raw text is OCR/PDF-derived and uncorrected. Use page images and hOCR
-before quoting or normalizing.
+The raw text is OCR/PDF-derived and uncorrected. Two checked working
+normalizations now cover the main Cassirer-facing *Ortsadverbien* pressure:
+
+- `source/normalized/020a-pronomen-ichheit-pdf-315-319.txt`
+- `source/normalized/020b-raum-pronominalbegriff-pdf-321-324.txt`
+
+Use page images and hOCR before quoting outside those normalized ranges.
 
 ## Why Here
 
@@ -103,7 +108,7 @@ source/
   page-images/jp2/       # original JP2 page-image witness; gitignored
   full/                  # whole-volume PDF text extraction
   raw/                   # uncorrected bounded extracts
-  normalized/            # future checked tranches only
+  normalized/            # checked working tranches only
   witnesses.yaml
   page-map.yaml
   sections.yaml
@@ -118,6 +123,7 @@ scripts/
    plural *Verschiedenheiten*, and *Ortsadverbien*.
 2. Check raw extracts against JP2/hOCR before any quotation, translation, or
    synthesis.
-3. Pull smaller targeted tranches only when Cassirer's PSF I page pressure
-   demands them.
+3. Use the two *Ortsadverbien* normalizations for chapter III pronoun/deixis
+   pressure; pull further targeted tranches only when Cassirer's PSF I page
+   pressure demands them.
 4. Keep the singular/plural title distinction visible in downstream notes.

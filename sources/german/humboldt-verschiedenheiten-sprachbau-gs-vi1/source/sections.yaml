@@ -1,5 +1,5 @@
 primary_witness: ia-1907-gs-vi1
-status: initial_dualis_plural_and_ortsadverbien_extracts
+status: initial_dualis_plural_extracts_with_ortsadverbien_working_tranches
 
 sections:
   - id: ueber-den-dualis
@@ -35,9 +35,24 @@ sections:
     page_number_json_leaf_nums: "326-352"
     printed_pages: "304-330"
     raw_extract: source/raw/020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt
-    normalized_extract: null
-    status: raw_pdf_text_layer
+    targeted_extracts:
+      - id: pronomen-ichheit
+        label: "Pronomen, Ichheit, and entry into actual language"
+        pdf_pages: "315-319"
+        printed_pages: "305-309"
+        raw_extract: source/raw/020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt
+        normalized_extract: source/normalized/020a-pronomen-ichheit-pdf-315-319.txt
+        status: working_normalized_excerpt
+      - id: raum-pronominalbegriff
+        label: "Raum, Ortsadverbien, and pronominal deixis"
+        pdf_pages: "321-324"
+        printed_pages: "311-314"
+        raw_extract: source/raw/020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt
+        normalized_extract: source/normalized/020b-raum-pronominalbegriff-pdf-321-324.txt
+        status: working_normalized_excerpt
+    status: raw_with_working_normalized_excerpts
     notes:
       - "Cited by Cassirer at PSF I pp. 153, 164, 166, 213, 216, and 225."
       - "This is the highest-density remaining GS VI/1 Humboldt support text for PSF I chapter III deixis/pronoun pressure."
       - "PDF page 341 opens Leitzmann's Bemerkungen zur Entstehungsgeschichte, confirming the right boundary."
+      - "Working normalizations now cover the exact theoretical pronoun/Ichheit and Raum/pronominal-deixis zones most immediately pressed by Cassirer."

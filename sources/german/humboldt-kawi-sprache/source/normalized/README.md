@@ -19,6 +19,10 @@ Current working tranches:
 - `020a-raumverba-praepositionen-pdf-207-209.txt` - section 20 passage on
   movement verbs becoming prepositions, checked against the PDF text layer and
   TIF page OCR.
+- `021a-stammverwandtschaft-method-opening-pdf-250-254.txt` - Drittes Buch
+  opening method frame on Stammverwandtschaft, form, and the naming of the
+  Malayischer Sprachstamm, checked against the PDF text layer and rendered
+  page images.
 - `030a-tagalisch-sa-ortsbegriff-pdf-402-403.txt` - Tagalog `sa` passage where
   the place concept is verbalized, checked against the PDF text layer and TIF
   page OCR.

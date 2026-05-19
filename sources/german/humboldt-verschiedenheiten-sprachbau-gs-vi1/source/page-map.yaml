@@ -56,6 +56,16 @@ known_alignments:
     printed_page: "304"
     raw_extract: source/raw/020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt
     note: "Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen opens."
+  - label: ortsadverbien-pronomen-ichheit-tranche
+    pdf_pages: "315-319"
+    printed_pages: "305-309"
+    normalized_extract: source/normalized/020a-pronomen-ichheit-pdf-315-319.txt
+    note: "Working normalized tranche for pronoun/Ichheit and entry into actual language."
+  - label: ortsadverbien-raum-pronominalbegriff-tranche
+    pdf_pages: "321-324"
+    printed_pages: "311-314"
+    normalized_extract: source/normalized/020b-raum-pronominalbegriff-pdf-321-324.txt
+    note: "Working normalized tranche for Raum, Ortsadverbien, and pronominal deixis."
   - label: ortsadverbien-close
     pdf_page: 340
     page_number_json_leaf_num: 352
@@ -99,8 +109,19 @@ ranges:
     page_number_json_leaf_nums: "326-352"
     printed_pages: "304-330"
     raw_extract: source/raw/020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt
-    status: raw_pdf_text_layer
+    targeted_extracts:
+      - id: pronomen-ichheit
+        pdf_pages: "315-319"
+        printed_pages: "305-309"
+        normalized_extract: source/normalized/020a-pronomen-ichheit-pdf-315-319.txt
+        status: working_normalized_excerpt
+      - id: raum-pronominalbegriff
+        pdf_pages: "321-324"
+        printed_pages: "311-314"
+        normalized_extract: source/normalized/020b-raum-pronominalbegriff-pdf-321-324.txt
+        status: working_normalized_excerpt
+    status: raw_with_working_normalized_excerpts
     notes:
       - "Cassirer cites this GS VI/1 support text at PSF I pp. 153, 164, 166, 213, 216, and 225."
       - "Bounded against PDF page 341, where Leitzmann's Entstehungsgeschichte notes begin."
-      - "Raw extract is not normalized; check page images/hOCR before quotation."
+      - "Two working normalizations now cover the main Cassirer-facing pronoun/deixis loci; check page images/hOCR before quotation outside those ranges."

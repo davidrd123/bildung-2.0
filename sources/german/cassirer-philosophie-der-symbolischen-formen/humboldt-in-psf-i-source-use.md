@@ -76,20 +76,25 @@ Use this routing when moving from Cassirer citations to Humboldt source work:
 | *Ueber die Verschiedenheit des menschlichen Sprachbaues...* (singular) | `sources/german/humboldt-verschiedenheit-sprachbau/` | Landed with GS VII/1 as Cassirer's citation witness and Pott 1876 Band 2 as a comparison witness. Use `source/raw/008b-gs-vii-language-as-activity-and-objectivity-pdf-060-074.txt` for the current GS VII anchor range; use Pott's `source/raw/003-007-band2-sections-03-07-runup-pdf-028-059.txt` as raw context for the Section 8 run-up and `source/normalized/008a-ergon-energeia-pdf-061-062.txt` only with explicit witness labeling. |
 | *Ueber die Verschiedenheiten des menschlichen Sprachbaues* (plural) | `sources/german/humboldt-verschiedenheiten-sprachbau-gs-vi1/` | Landed as a clearly marked GS VI/1 witness. Do not fold into the singular shelf. |
 | *Ueber den Dualis* | `sources/german/humboldt-verschiedenheiten-sprachbau-gs-vi1/` | Landed as a GS VI/1 support text with raw extract `source/raw/005-ueber-den-dualis-pdf-014-040.txt`. |
-| *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen...* | `sources/german/humboldt-verschiedenheiten-sprachbau-gs-vi1/` | Landed as a GS VI/1 support text with raw extract `source/raw/020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt`. |
+| *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen...* | `sources/german/humboldt-verschiedenheiten-sprachbau-gs-vi1/` | Landed as a GS VI/1 support text with raw extract `source/raw/020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt` and two working normalizations: `source/normalized/020a-pronomen-ichheit-pdf-315-319.txt`, `source/normalized/020b-raum-pronominalbegriff-pdf-321-324.txt`. |
 | *Lettre à Monsieur Abel-Rémusat... langue Chinoise* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed as a GS V witness with raw extract `source/raw/010-lettre-a-abel-remusat-pdf-264-318.txt`. |
 | *Ueber den grammatischen Bau der Chinesischen Sprache* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed with the Abel-Rémusat letter as a GS V Chinese-grammar pair. Raw extract: `source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-334.txt`. |
 | *Grundzüge des allgemeinen Sprachtypus* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed from the same GS V witness. Raw extract: `source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt`. |
 | *Ueber das vergleichende Sprachstudium...* | `sources/german/humboldt-vergleichendes-sprachstudium-gs-iv/` | Landed as a GS IV support text with raw extract `source/raw/010-ueber-das-vergleichende-sprachstudium-pdf-011-044.txt`. |
 | Brief an F. A. Wolf, 16 June 1804 | `sources/german/humboldt-brief-an-wolf-1804/` | Landed from *Gesammelte Werke* V, pp. 264-267, with raw full-letter extract and a normalized `Sprachstudium` / vehicle excerpt at `source/normalized/010a-sprachstudium-vehikel-pdf-278-279.txt`. |
-| *Ankündigung einer Schrift über die Vaskische Sprache und Nation* | none yet | Minor support source; not a current pull priority. |
+| *Ankündigung einer Schrift über die Vaskische Sprache und Nation* | `sources/german/humboldt-vaskische-sprache-ankuendigung/` | Landed from GS III with a raw full-article extract and a normalized `Sprache ist ueberall Vermittlerin` / `Ich und Du` excerpt at `source/normalized/010a-sprache-vermittlerin-pdf-308-309.txt`. |
 
 Cassirer's own *Die Kantischen Elemente in Wilhelm von Humboldts
 Sprachphilosophie* is represented at
 `sources/german/cassirer-kantische-elemente-humboldt-sprachphilosophie/`,
 with an ECW 16 raw witness at
-`source/raw/010-kantische-elemente-ecw16-pdf-112-140.txt`. Treat it as a
-separate Cassirer-Humboldt-Kant source, not as a Humboldt-source gap.
+`source/raw/010-kantische-elemente-ecw16-pdf-112-140.txt` and two working
+normalizations at
+`source/normalized/010a-kant-synthesis-language-objectivity-pdf-128-131.txt`
+and
+`source/normalized/010b-ergon-energeia-critical-objectivity-pdf-139-140.txt`.
+Treat it as a separate Cassirer-Humboldt-Kant source, not as a Humboldt-source
+gap.
 
 ## Current Working Verdict
 
@@ -105,13 +110,15 @@ That passage can be pressed directly against Cratylus 388b-c
 without waiting for broader Humboldt intake.
 
 For fuller PSF I coverage, the last major multi-citation Humboldt support text
-has now landed: *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen in
-einigen Sprachen*. The Wolf letter has also landed as the small chapter I
-opening support source. *Ankuendigung einer Schrift ueber die Vaskische Sprache
-und Nation* remains a minor chapter I support target.
+has now landed and has two working tranches: *Ueber die Verwandtschaft der
+Ortsadverbien mit dem Pronomen in einigen Sprachen*. The normalized ranges
+cover the theoretical pronoun/Ichheit zone and the Raum/pronominal-deixis
+examples. The Wolf letter has also landed as the small chapter I opening
+support source. *Ankuendigung einer Schrift ueber die Vaskische Sprache und
+Nation* has now landed as the remaining minor chapter I support source.
 Cassirer's own *Die Kantischen Elemente in Wilhelm von Humboldts
-Sprachphilosophie* remains a separate Cassirer-Humboldt-Kant acquisition target,
-not a Humboldt-source gap.
+Sprachphilosophie* is now a separate landed Cassirer-Humboldt-Kant source
+surface, not a Humboldt-source gap.
 
 ## Singular vs. Plural Guardrail
 
@@ -227,7 +234,7 @@ Local check on 2026-05-19 against
 `source/vol1-die-sprache/040-kapitel-iii-sprache-in-der-phase-des-anschaulichen-ausdrucks.txt`:
 Kawi paths below are relative to `sources/german/humboldt-kawi-sprache/`.
 For compactness, `raw/010`, `raw/020`, `raw/021`, `raw/022`, `raw/024`,
-`raw/030`, `norm/012a`, `norm/020a`, and `norm/030a` name:
+`raw/030`, `norm/012a`, `norm/020a`, `norm/021a`, and `norm/030a` name:
 `source/raw/010-zweites-buch-ueber-die-kawi-sprache-pdf-042-246.txt`,
 `source/raw/020-drittes-buch-erster-abschnitt-stammverwandtschaft-pdf-248-336.txt`,
 `source/raw/021-drittes-buch-stammverwandtschaft-method-opening-pdf-250-264.txt`,
@@ -235,7 +242,8 @@ For compactness, `raw/010`, `raw/020`, `raw/021`, `raw/022`, `raw/024`,
 `source/raw/024-drittes-buch-pronomen-und-zahlwort-pdf-316-336.txt`,
 `source/raw/030-drittes-buch-zweiter-abschnitt-westlicher-zweig-pdf-337-485.txt`,
 `source/normalized/012a-verbum-actuale-sein-pdf-122-124.txt`,
-`source/normalized/020a-raumverba-praepositionen-pdf-207-209.txt`, and
+`source/normalized/020a-raumverba-praepositionen-pdf-207-209.txt`,
+`source/normalized/021a-stammverwandtschaft-method-opening-pdf-250-254.txt`, and
 `source/normalized/030a-tagalisch-sa-ortsbegriff-pdf-402-403.txt`.
 
 | PSF I chapter III locus | Cassirer theme | Kawi citation | Local Kawi route | Working result |
@@ -254,15 +262,16 @@ Kawi volume unless a separate source check shows the same material there.
 
 Result: the current Kawi shelf is sufficient for chapter III mapping at rough
 page level, and it now has normalized support for the Kawi opening, the opening
-movement of §23, the strongest exact PSF I chapter III space-verb locus, and
-the pp. 79-81 `actuale Sein` verb locus. The Drittes Buch first-section
-pressure now has targeted raw routes for the Stammverwandtschaft method frame,
-word-comparison apparatus, and pronoun/number-word comparison. The other PSF I
-chapter III citation loci in the table above remain raw unless otherwise noted.
+movement of §23, the strongest exact PSF I chapter III space-verb locus, the
+Drittes Buch Stammverwandtschaft method opening, and the pp. 79-81 `actuale
+Sein` verb locus. The Drittes Buch first-section pressure now also has targeted
+raw routes for the word-comparison apparatus and pronoun/number-word comparison.
+The other PSF I chapter III citation loci in the table above remain raw unless
+otherwise noted.
 The next normalization should be chosen from one of those concrete loci, not
 from a bulk Kawi pass. If chapter III deixis/person pressure becomes the next
-focus, the *Ortsadverbien* GS VI/1 raw extract is now available as the
-companion Humboldt support surface.
+focus, use the two *Ortsadverbien* GS VI/1 working normalizations as the
+companion Humboldt support surface before widening into the rest of the essay.
 
 ## Cassirer's 1923 Humboldt Essay
 
@@ -273,16 +282,19 @@ The PSF I Schriftenregister also lists Cassirer's own essay:
   Greiz i. Vogtl. 1923, pp. 105-127; cited at PSF I p. 97.
 
 This essay is the direct Cassirer-Humboldt-Kant node. It now has a local raw
-ECW 16 witness at
-`sources/german/cassirer-kantische-elemente-humboldt-sprachphilosophie/source/raw/010-kantische-elemente-ecw16-pdf-112-140.txt`.
+ECW 16 witness plus two working normalizations at
+`sources/german/cassirer-kantische-elemente-humboldt-sprachphilosophie/source/normalized/010a-kant-synthesis-language-objectivity-pdf-128-131.txt`
+and
+`sources/german/cassirer-kantische-elemente-humboldt-sprachphilosophie/source/normalized/010b-ergon-energeia-critical-objectivity-pdf-139-140.txt`.
 If a later task wants to move from current Humboldt work toward Kant,
 Erkenntnisproblem Vol. II, or PSF I chapter I, this essay is likely the
 efficient next source surface.
 
 Do not treat the essay's existence as already-earned synthesis. Treat the raw
-ECW 16 extract as an acquired orientation witness; normalize exact passages
-only when the Kant/Humboldt pressure actually starts. A scan of the 1923
-Festschrift original remains preferable for citation-critical collation.
+ECW 16 extract and the two normalized tranches as acquired orientation
+witnesses. Normalize additional exact passages only when the Kant/Humboldt
+pressure actually starts. A scan of the 1923 Festschrift original remains
+preferable for citation-critical collation.
 
 ## Next Honest Moves
 
@@ -292,11 +304,14 @@ Festschrift original remains preferable for citation-critical collation.
 2. For singular *Verschiedenheit* references, use the landed GS VII/1 witness
    first. If the Cratylus / Ergon-Energeia comparison deepens, normalize only
    exact passages from the landed Pott Sections 3-7 run-up.
-3. If pronoun/deixis pressure becomes active, start from the landed GS VI/1
-   *Ortsadverbien* raw extract and normalize exact passages only when needed.
+3. If pronoun/deixis pressure becomes active, start from the two landed GS VI/1
+   *Ortsadverbien* working normalizations; normalize additional passages only
+   if Cassirer's exact page pressure demands them.
 4. For the chapter I Humboldt opening, the Wolf letter is now available with a
-   normalized `Sprachstudium` excerpt; do not widen it into correspondence work
-   unless a later citation forces that.
-5. If Kant/Humboldt pressure strengthens, begin from the landed ECW 16 raw
-   extract of Cassirer's *Kantischen Elemente* essay and normalize only the
-   exact passages being used.
+   normalized `Sprachstudium` excerpt, and the Vaskische *Ankuendigung* is now
+   available with a normalized `Sprache ist ueberall Vermittlerin` excerpt. Do
+   not widen either into correspondence or Basque-source work unless a later
+   citation forces that.
+5. If Kant/Humboldt pressure strengthens, begin from the two landed
+   *Kantischen Elemente* working normalizations and normalize additional exact
+   passages only when they are being used.
