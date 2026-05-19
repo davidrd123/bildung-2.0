@@ -1233,3 +1233,29 @@ Routing:
 - No new glossary entry. The section is dense, but it transforms existing Berkeley surfaces rather than earning a separate one from first contact.
 - Keep `Zeichensprache Gottes` and `transszendentale Wissenschaft` in the ledger until Collier and Hume test whether sign-language or the logic of transcendence becomes the broader Book VI problem.
 - Part 056 closes Berkeley proper but not the Berkeley/Collier chapter sequence. Continue with Collier before writing the bounded chapter note.
+
+## 2026-05-19 - Berkeley/Collier: Absolute Matter And Antinomies
+
+Passage: `parts/057-berkeley-collier-absolute-matter-and-antinomies.md`, printed pages `327 partial-334`.
+
+Part 057 closes the Berkeley/Collier sequence. Cassirer reads Collier as a parallel metaphysical development of idealism: related to Berkeley in motive, independent in proof-form. Collier does not begin from divine sign-language, but from the logical burden carried by anyone who posits an object detached from every relation to cognition.
+
+Local pressure:
+
+- `Wahrnehmung / Perzeption / Suggestion` receives the Collier contrast: quasi-externality is accepted as a phenomenon of vision, but explained through the conditions and function of seeing, not through an object absolute against perception.
+- `Existenz / Sein / Ding` is sharpened by proof burden. What must remain wholly unknown has, for rational consideration, the same standing as what is not; absolute external matter is not merely unproved but conceptually self-abolishing.
+- `Körper / Materie / Substanz` takes the negative chapter-close form: matter, body, and extension exist only in dependence on mind, thought, or perception; absolute matter is an impossible thing.
+- `Raum / Zeit` is pressured by the space/God problem. Absolute space would be an infinite necessary being outside God, while making space an attribute of divine substance produces a pantheistic or doubled-infinity problem.
+- `Wahrheit / Urteil` is active through antinomy-proof. Contradictory conclusions about extension do not refute inference rules; they expose the false subject from which both sides argue.
+- `Sinn / Sinneswahrnehmung` is leveled: primary qualities have no stronger metaphysical status than secondary qualities because both are mediated by sensation.
+- `Phänomen / Erscheinung` remains unresolved positively. Collier says the antinomies of motion do not affect the sensible world, but Cassirer emphasizes that this promised solution was never carried out.
+- `Erfahrung` now has the chapter-close pressure that Hume should test: if experience is not grounded in absolute matter, and if Berkeley/Collier secure order through divine reason or antinomy, what explains regularity from experience itself?
+- `Bewegung` re-enters through Collier's unrealized promise: the antinomies of motion are said not to affect the sensible world, but no positive account is supplied.
+- `quasi externity`, `Beweislast`, `eadem est ratio non entis et non apparentis`, `opprobrium philosophorum`, `dreieckiges Viereck`, `absolute äußere Materie`, `Idol unserer Einbildungskraft`, `Raumproblem / Gottesproblem`, and `positive Erfüllung` are active pressures.
+
+Routing:
+
+- No new glossary entry. The Collier continuation is dense, but its terms belong as chapter-close pressures inside existing Berkeley/Locke/Leibniz surfaces and the bounded reading note.
+- Add `reading/2026-05-19-berkeley-collier-idealism-sign-and-antinomy.md` as the bounded Berkeley/Collier chapter note.
+- Update `Wahrnehmung / Perzeption / Suggestion`, `Existenz / Sein / Ding`, `Körper / Materie / Substanz`, `Raum / Zeit`, `Wahrheit / Urteil`, `Sinn / Sinneswahrnehmung`, `Phänomen / Erscheinung`, `Erfahrung`, and `Bewegung`.
+- Continue with Hume from PDF page `355` / printed page `335`. Hume should test whether association, uniformity, and causal expectation can supply the lawful connection that Berkeley grounds theologically and Collier defends negatively.

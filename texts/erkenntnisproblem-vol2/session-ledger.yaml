@@ -1997,3 +1997,36 @@ sessions:
       - "Keep the Part 056 caution: Berkeley's final revision reaches Plato and reason, but it does not yet become a critical account of mathematical-scientific experience."
 
     formation_notes: []
+
+  - date: 2026-05-19
+    collaborator: codex-gpt-5
+    session_outcome: berkeley-collier-absolute-matter-antinomies
+    parts_touched:
+      - "parts/057-berkeley-collier-absolute-matter-and-antinomies.md"
+      - "reading/2026-05-19-berkeley-collier-idealism-sign-and-antinomy.md"
+
+    state_on_entry:
+      - "Part 056 had closed Berkeley proper by showing the late turn from empirical association into divine sign-language, Platonic reason, and the Kant contrast."
+      - "The re-entry hook asked whether Collier would shift the chapter finding toward logical antinomies of transcendence, absolute external matter, and space."
+
+    what_shifted:
+      - "Created Part 057 from PDF pages 347-354 / printed pages 327 partial-334, covering the Collier continuation and stopping before `Drittes Kapitel. Hume.`"
+      - "Identified the structural center as a movement from quasi-external perception to antinomy of absolute matter."
+      - "Showed that Collier accepts the apparent externality of vision but explains it from the conditions of seeing rather than from an independent external object."
+      - "Recorded Collier's proof form: absolute external matter is not merely unproved but logically self-abolishing, like a triangular quadrilateral, once its contradictory consequences are displayed."
+      - "Opened no new glossary entry; updated `Wahrnehmung / Perzeption / Suggestion`, `Existenz / Sein / Ding`, `Körper / Materie / Substanz`, `Raum / Zeit`, `Wahrheit / Urteil`, `Sinn / Sinneswahrnehmung`, `Phänomen / Erscheinung`, `Erfahrung`, and `Bewegung`."
+      - "Added the bounded chapter note `reading/2026-05-19-berkeley-collier-idealism-sign-and-antinomy.md`."
+      - "Verified scans `_0347` through `_0354`; `_0355` confirms Hume opens next."
+
+    unresolved:
+      - "Part 058 should begin on PDF page 355 / printed page 335 with `Drittes Kapitel. Hume.`"
+      - "Hume should test whether experience can ground uniformity, association, and causal expectation after Berkeley's divine sign-language and Collier's antinomy proof are removed."
+      - "`Gleichförmigkeit des Naturlaufs`, `Zeichen`, `Assoziation`, `Natur`, `Wahrscheinlichkeit`, `Kausalität`, and `hypothetischer Grund` are next watchpoints."
+      - "Keep the Berkeley/Collier reading note chapter-local until Hume supplies contrast evidence."
+
+    re_entry_instructions:
+      - "Before starting Part 058, read the new Berkeley/Collier bounded note and the updated `Erfahrung`, `Wahrnehmung / Perzeption / Suggestion`, `Wahrheit / Urteil`, and `Existenz / Sein / Ding` glossary entries."
+      - "Continue from `Drittes Kapitel. Hume.` on PDF page 355 / printed page 335."
+      - "Do not assume Hume simply continues Berkeley. The opening should decide whether the center shifts from external-matter critique to the uniformity of nature and association."
+
+    formation_notes: []

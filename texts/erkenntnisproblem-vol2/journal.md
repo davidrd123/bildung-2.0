@@ -2387,3 +2387,49 @@ Verification result:
 
 - PDF pages `335-347` were checked against the PDF text layer and scan/Tesseract output on `_0335`, `_0336`, `_0337`, `_0338`, `_0339`, `_0340`, `_0341`, `_0342`, `_0343`, `_0344`, `_0345`, `_0346`, and `_0347`; `_0348` confirms the next tranche begins with Collier.
 - The review corrected OCR residue around `Religionsphilosophie`, `intelligibles`, `völliger`, `erwarten`, `metaphysische`, `Aperçu`, `Alciphron`, `Handelns`, `Hülfe`, `irgendwelcher`, `unentbehrlich`, `Siris`, `Platon`, `αἴτιον`, `ἀρχή`, `Theaetet`, `ἐν τῷ περὶ ἐκείνων συλλογισμῷ`, `Verstande`, `Reason was given us`, `spirituales`, `transszendental`, `Vernunfterwägung`, `verständlich`, `ursprünglichen`, `où l'on`, `Réflexions`, and `l'Anglois`.
+
+## 2026-05-19 - Berkeley, Collier, Absolute Matter, And Antinomies
+
+Created `parts/057-berkeley-collier-absolute-matter-and-antinomies.md` from PDF pages `347-354` / printed pages `327 partial-334`, beginning with the Collier continuation `Die metaphysische Entwicklung des Idealismus...` and stopping before `Drittes Kapitel. Hume.`
+
+What this tranche clarified:
+
+- Collier is not treated as a mere historical appendage to Berkeley. Cassirer uses him as a parallel development of metaphysical idealism: related to Berkeley in motive, but independent in proof-form.
+- The first move preserves the Berkeley perception problem while changing its proof. Collier accepts the apparent quasi-externality of visible objects, but explains it from the conditions and function of seeing rather than from an independent external object.
+- The central method is proof-burden plus antinomy. A thing detached from every relation to cognition must justify its warrant; if absolute external matter is nevertheless hypothesized, it generates contradictory consequences about extension and motion.
+- The antinomy does not destroy logic. It shows that the subject of the inference -- absolute external matter -- is logically nothing, like a triangular quadrilateral.
+- The theological form of the space problem completes the bridge: independent matter entails independent space, and absolute space either stands outside God as another necessary infinite being or collapses God and world into pantheistic all-unity.
+- Cassirer marks the limit sharply. Collier exposes contradictions in the common world-concept, but he does not show how those contradictions are positively resolved from the new idealist standpoint.
+
+Structural center:
+
+- The load-bearing movement is from quasi-external perception to antinomy of absolute matter. Berkeley had transformed experience into divine sign-language; Collier transforms the same anti-matter motive into a logical proof that absolute external being is self-abolishing.
+
+Routing decision:
+
+- No new glossary entry. The Collier continuation is compact and chapter-closing; its terms belong inside existing surfaces and the bounded Berkeley/Collier note rather than in new Collier-specific entries.
+- Update `Wahrnehmung / Perzeption / Suggestion`, `Existenz / Sein / Ding`, `Körper / Materie / Substanz`, `Raum / Zeit`, `Wahrheit / Urteil`, `Sinn / Sinneswahrnehmung`, `Phänomen / Erscheinung`, `Erfahrung`, and `Bewegung`.
+- Keep `quasi externity`, `Beweislast`, `eadem est ratio non entis et non apparentis`, `opprobrium philosophorum`, `dreieckiges Viereck`, `absolute äußere Materie`, `Idol unserer Einbildungskraft`, `Raumproblem / Gottesproblem`, and `positive Erfüllung` in the close-reading ledger.
+- Add `reading/2026-05-19-berkeley-collier-idealism-sign-and-antinomy.md` as the bounded chapter note.
+
+Chapter-close ratification:
+
+- Parts 052-057 remain controlled draft.
+- The Berkeley/Collier chapter finding is now earned but chapter-local: Berkeley and Collier dissolve Locke's transcendent matter, but the dissolution does not yet give a critical account of experience's lawful objectivity. Berkeley secures order through divine sign-language; Collier secures the negative proof through antinomy; neither supplies Kant's immanent grounding of possible experience.
+- Keep this chapter-local until Hume tests what regularity, causal expectation, and object-formation can claim when neither absolute matter nor divine sign-order is available as support.
+
+Re-entry hooks:
+
+- Part 058 should begin on PDF page `355` / printed page `335` with `Drittes Kapitel. Hume.`
+- Hume should test the Berkeley/Collier close directly: can experience itself ground the uniformity of nature and the connections by which impressions become objects?
+- Watch `Gleichförmigkeit des Naturlaufs`, `Zeichen`, `Assoziation`, `Natur`, `Wahrscheinlichkeit`, `Kausalität`, and `hypothetischer Grund` as Hume-opening pressures.
+- Do not convert the Berkeley/Collier note into a Book VI thesis before Hume supplies contrast evidence.
+
+Decision for now:
+
+- Part 057 passes the same-agent self-review gate for controlled draft status. The Berkeley/Collier chapter sequence is complete at controlled-draft tier with a bounded chapter note and a clear Hume re-entry test.
+
+Verification result:
+
+- PDF pages `347-354` were checked against the PDF text layer, layout extraction, and scan/Tesseract output on `_0347` through `_0354`; `_0355` confirms the next chapter boundary at `Drittes Kapitel. Hume.`
+- The review corrected OCR residue around `wiedergewonnen. So`, `ursprünglichen`, `sich`, `Grundanschauung von`, `Auffassung der`, `où l'on`, `joint`, `Réflexions`, `l'Anglois`, `Clavis universalis`, `after Truth. Being`, `Non Existence`, `Bayle`, `angefangen bis`, `wirklichen`, `Vorstellungen und`, `his will`, `dependance`, `Beweislast`, `Rechtsgrund`, `Rechtfertigung des`, `Antinomien des Unendlichen`, `endlich`, `Welt`, `dreieckigen`, `Schlußfolgerung im geringsten`, `gemeiner`, `Auffassung`, `Gottesproblem`, `verstehen, in welcher`, and `hierzu`.

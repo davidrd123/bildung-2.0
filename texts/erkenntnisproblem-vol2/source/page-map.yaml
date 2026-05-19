@@ -926,6 +926,22 @@ ranges:
     trust: "high"
     note: "Part 056 begins with section `V. Die Umgestaltung der Berkeleyschen Erkenntnislehre.`, follows Berkeley's final revision through divine sign-language, Alciphron/Siris, Plato, mathematics/physics, and the Kant contrast, and stops before the Collier continuation on printed page 327."
 
+  - slug: "berkeley-collier-absolute-matter-antinomies"
+    label: "Berkeley/Collier: absolute matter and antinomies"
+    pdf_pages: [347, 354]
+    printed_pages: ["327 partial", "334"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0347.jp2"
+      - "daserkenntnispro02cassuoft_0348.jp2"
+      - "daserkenntnispro02cassuoft_0349.jp2"
+      - "daserkenntnispro02cassuoft_0350.jp2"
+      - "daserkenntnispro02cassuoft_0351.jp2"
+      - "daserkenntnispro02cassuoft_0352.jp2"
+      - "daserkenntnispro02cassuoft_0353.jp2"
+      - "daserkenntnispro02cassuoft_0354.jp2"
+    trust: "high"
+    note: "Part 057 begins with the Collier continuation `Die metaphysische Entwicklung des Idealismus...`, follows Collier's quasi-externality argument, proof-burden method, antinomies of absolute matter and space, and Leibniz-Clarke bridge, and stops before `Drittes Kapitel. Hume.` on printed page 335."
+
   - slug: "book-vii-start-method"
     label: "Book VII / `Das Problem der Methode` opening"
     pdf_pages: [416, 416]

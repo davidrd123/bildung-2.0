@@ -188,3 +188,64 @@ Mitigation in the part:
 - Greek OCR garbage in the Plato/Theaetetus passage was restored as `αἴτιον`, `ἀρχή`, and `ἐν τῷ περὶ ἐκείνων συλλογισμῷ`.
 
 Verdict: **structural clean / content controlled with a global source-layer caveat**. No single Berkeley quotation in this part has yet received the clause-level external-source walk-through that Part 055's `Principles § 2` received. The part's internal mitigation is reader-awareness rather than full source reconstruction.
+
+### Reviewer-side complement to Part 056 self-probe
+
+The producer-side note above acknowledges the global caveat but has not done the clause-level walk-through. A reviewer-side pass:
+
+**Structural verification:**
+
+- Page-bridge stitching clean across all 12 page breaks (spot-checked PDF 335→336).
+- All 24 footnote callouts mapped.
+- Six marginal captions in Notes verified against raw OCR: `Vernunft und Erfahrung.` (p. 317, line 85), `Die Allgemeinheit der Zeichen.` (p. 319, line 167), `Verhältnis zu Platon.` (p. 321, line 249 — OCR `Piaton` i↔l confusion), `Mathematik und Metaphysik.` (p. 323, line 334), `Das "Transzendentale" bei Berkeley und Kant` (p. 325, line 418), `Der Doppelsinn des "Idealismus".` (p. 327, line 504).
+- Paraphrase signal grep clean.
+
+**Verbatim source-language preservation (8 of 24 footnotes):** fns 3, 5, 7, 12, 17, 18, 22 carry verbatim Berkeley English; fn 19 carries verbatim De motu Latin; fn 24 carries verbatim Kant Prolegomena German. Coverage is strong for the apparatus.
+
+**In-body grade-5 mitigation (3 sites):**
+
+- fn 11 anchor (Siris §297): body preserves `(abstract from sensible matters)` parenthetically inline.
+- fn 13 anchor (Siris §335): body preserves Greek `αἴτιον` and `ἀρχή` verbatim. Restoration from OCR garbage noted in Notes.
+- fn 16 anchor (Siris §305): body ends with verbatim Greek `ἐν τῷ περὶ ἐκείνων συλλογισμῷ`. Same restoration.
+
+**Clause-level audit, fn 9 anchor (Siris §294, the ascent passage) — sample of unmitigated risk:**
+
+Berkeley §294 (original English): "Sense at first besets and overbears the mind. The sensible appearances are all in all: our reasonings are employed about them: our desires terminate in them: we look no farther for realities or causes; till intellect begins to dawn, and casts a ray on this shadowy scene. We then perceive the true principle of unity, identity, and existence. Those things that before seemed to constitute the whole of being, upon taking an intellectual view of things, prove to be but fleeting phantoms."
+
+Four mild Cassirer-step diction shifts, all preserved into Draft:
+
+1. **`besets and overbears`** (Berkeley's military/siege register: surrounds and overwhelms) **→ `unterjochen und gefangen nehmen`** (Cassirer's political-imprisonment register: subjugates and takes captive). Different metaphor register; mild but real.
+2. **`shadowy scene`** (Berkeley's natural-light imagery) **→ `Schattenspiel`** → Draft "shadow-play" (Cassirer's theatrical/illusion imagery). Shifts the scene from a contrast of light/shadow to a performed illusion.
+3. **`fleeting phantoms`** (Berkeley's temporal motion: in flight) **→ `zerfließenden Phantomen`** → Draft "dissolving phantoms" (Cassirer's dissolutional register: melting away). Berkeley's temporal "fleeting" muted to spatial-textural "dissolving."
+4. **`upon taking an intellectual view`** → **`mit dem Auge des Intellekts betrachten`** (with the eye of the intellect). Cassirer adds figurative concreteness (an eye) where Berkeley's "view" left the metaphor implicit.
+
+None displace the ascent thesis, but the imagery register shifts at Cassirer-step. Comparable in magnitude to the Part 054 fn 6 (Analyst §4) findings — diction-level smoothing rather than structural reframing.
+
+**fn 4 anchor (Alciphron VII §11-12, signs and arithmetic):** Cassirer's body uses ellipsis `. . .` between two halves of the §11-12 selection. Grade-3 honest excerption — same form-honest move as Part 054 fn 6. Within the selected halves the conceptual claim is faithful (signs allow general operations via methodical handling).
+
+**fn 13 anchor (Siris §338 + §335, Plato passage):** Cassirer combines two non-contiguous Siris sections. The transition is form-honest: body marks the second Berkeley passage with quotation marks introduced by Cassirer's gloss `Denn in der Sprache Platons bedeutet die Idee...` Berkeley's Greek terms preserved verbatim. Grade 5 for the Greek; grade 3 for the §338+§335 combination via Cassirer's explicit gloss-transition.
+
+**fn 23 anchor (De motu §71-72) — highest-risk unmitigated site in the part:** long German body block-quote of Berkeley's Latin original. De motu was published in Latin, so the German body is already a Cassirer-step translation of Berkeley's Latin, and the Draft re-translates Cassirer's German back into English — three-link chain with no Latin preservation anywhere. The conceptual claim (physics/mechanics/first philosophy as three distinct sciences with different objects) is preserved, but Berkeley's Latin technical terms (`scientia transscendentalis`, `causae corporeae secundariae`, etc.) are lost at Cassirer-step. Not audited clause-by-clause this pass — would benefit from a clause-level pass against De motu §71-72 Latin.
+
+**fn 2 anchor (Siris §237) and fn 1 anchor (Dialogues II) and fn 13 anchor:** long body block-quotes with citation-only footnotes. The Notes Source-language section names these as risk sites. Not audited clause-by-clause this pass.
+
+**Source oddity (already in Notes):** body prints `Alciphron` as "1723", fn 4 correctly gives 1732. Producer chose to preserve Cassirer's typo in body and let the footnote show the correction rather than silently emending. Honest preservation; reader has both data points.
+
+**Updated mitigation grade tally across Part 056:**
+
+- 8 fns at grade 4 (verbatim source-language in footnote)
+- 3 anchors at grade 5 (in-body parenthetical/Greek preservation)
+- fn 4 at grade 3 (ellipsis-marked selection)
+- fn 13 at grade 3 (explicit gloss-transition between non-contiguous sections)
+- fns 1, 2, 9, 23 at grade 1/2 (citation-only, Cassirer rendering)
+
+Verdict refinement: **structural clean / content provisional with mild diction shifts at fn 9 (Siris §294) and unaudited risk at fn 23 (De motu §71-72)**. The producer-side global caveat is appropriate. Reviewer-side spot-check confirms diction-level smoothing pattern consistent with Parts 052-054; structural reframing of Part 053 fn 8 / Part 055 fn 1 magnitude does not appear in the sampled Part 056 passages. fn 23 remains the highest-value carry-forward audit site for clause-level work against Berkeley's De motu Latin.
+
+### Updated pattern after five Berkeley parts
+
+The chapter now shows:
+
+- **Strong verbatim apparatus** at the footnote layer across all five parts (Part 052: 4/9; Part 053: 8/21; Part 054: 6/17; Part 055: 4/7; Part 056: 8/24 footnotes carry verbatim source).
+- **Grade-5 in-body marking** now demonstrated four times: Part 055 fn 2 (`{some knowledge or notion}`); Part 056 fn 11 (`(abstract from sensible matters)`); Part 056 fn 13 (Greek `αἴτιον / ἀρχή`); Part 056 fn 16 (Greek phrase). The convention is reproducing, which is good.
+- **Grade-2 paraphrase-as-quotation** remains the residual gap: Part 053 fn 8 (Principles §5), Part 055 fn 1 (Principles §2). Both received post-hoc Notes flags. No grade-2 instance was identified in Part 056's audited passages — the Cassirer-step issues in fn 9 are diction-level (grade 1) rather than structural (grade 2).
+- **Multi-link Latin risk** at Part 056 fn 23 (De motu §71-72) is new in form: it's the first Berkeley body block-quote in the chapter where the original is Latin rather than English. Three-link chain (Latin → Cassirer German → Draft English) without any Latin preservation. Future De motu / Alciphron / Siris citations should be flagged for clause-level Latin checks.
