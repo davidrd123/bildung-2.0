@@ -17,6 +17,10 @@ sources/latin/*/source/local/
 sources/latin/*/source/pdf/
 sources/latin/*/source/page-images/
 sources/latin/*/source/abbyy/
+sources/multi/*/source/local/
+sources/multi/*/source/pdf/
+sources/multi/*/source/page-images/
+sources/multi/*/source/abbyy/
 sources/modern/hoffmeyer-biosemiotics/source/page-images/
 sources/modern/incoming/acquisition-list/
 sources/german/cassirer-substanzbegriff-und-funktionsbegriff/source/local/

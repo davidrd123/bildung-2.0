@@ -1,0 +1,160 @@
+status: bounded-working-map
+purpose: >
+  Map Campanella leaf pressure to the small set of Hermetic extracts that
+  currently carry the Trismegistus substrate. This file prevents the shelf from
+  widening into a general Hermetica project.
+campanella_tranche:
+  leaves:
+    - leaf: "0829"
+      file: sources/latin/campanella-metaphysica/parts/part-iii-xv-013-leaf-0829-mercury-trismegistus-on-governance.md
+      pressure_summary: >
+        Monotriad, Word, mind, fate, divine governance, Ascl. 4 anthropology,
+        Pantomorphon, 36 horoscopes/faces, and zodiacal form-sealing.
+    - leaf: "0830"
+      file: sources/latin/campanella-metaphysica/parts/part-iii-xv-014-leaf-0830-mercury-monotriad-and-statues.md
+      pressure_summary: >
+        Three Gods, religion, regeneration, demons/heroes, fabricated gods,
+        speaking statues, divine materials, and the Iamblichus/Proclus
+        comparison frame.
+extracts:
+  - id: asclepius-04-human-divine-governance
+    file: extracts/001-asclepius-04-human-divine-governance.md
+    status: working-extract
+    primary_source_cluster:
+      - Asclepius 4
+    source_surfaces:
+      renaissance: source/latin/plain/asclepius-1505-stephanus-aussagenlogik-wayback.txt
+      critical_private: source/local/critical/nock-festugiere-corpus-hermeticum-vol-2-asclepius-traite-xiii-xviii.txt
+    campanella_pressure:
+      - leaf: "0829"
+        phrases:
+          - "Respondet in Ascl. 4"
+          - "mundum bonum ... amavit"
+          - "qui mundum ... miraretur, et celebraret"
+          - "tegumento corporeo mundano texit eam tanquam domo"
+          - "terrestria, et corporea gubernare"
+    current_use: >
+      Grounds the placement of mind in a corporeal world and the human task of
+      contemplating, praising, inhabiting, and governing the sensible world.
+
+  - id: asclepius-statues-deorum-fictor
+    file: extracts/002-asclepius-statues-deorum-fictor.md
+    status: working-extract
+    primary_source_cluster:
+      - Asclepius 24
+      - Asclepius 37
+      - Asclepius 38
+      - Asclepius 39-40
+    source_surfaces:
+      renaissance: source/latin/plain/asclepius-1505-stephanus-aussagenlogik-wayback.txt
+      scott_first1k: source/greek/plain/tlg1286.tlg019.1st1K-lat1.txt
+      critical_private: source/local/critical/nock-festugiere-corpus-hermeticum-vol-2-asclepius-traite-xiii-xviii.txt
+    campanella_pressure:
+      - leaf: "0830"
+        phrases:
+          - "statuas loquentes, et responsa dantes"
+          - "animas daemonum, vel Angelorum"
+          - "imaginibus et statuis"
+          - "benefaciendi, et malefaciendi"
+          - "lapides et plantae et metalla, aromata, et harmonia"
+      - leaf: "0829"
+        phrases:
+          - "de Fato"
+          - "Fatum quod vocant Heimarmenen"
+    current_use: >
+      Explains why statue fabrication belongs to Campanella's governance
+      dossier: it is linked in Asclepius to divine materials, terrestrial gods,
+      divination, and fate/necessity/order.
+
+  - id: ficino-poimandres-nous-logos-anthropos
+    file: extracts/003-ficino-poimandres-nous-logos-anthropos.md
+    status: working-extract
+    primary_source_cluster:
+      - Corpus Hermeticum I / Ficino Pimander
+    source_surfaces:
+      renaissance: source/latin/plain/ficino-pimander-i-ix-1505-stephanus-aussagenlogik-wayback.txt
+      greek_scott_first1k: source/greek/plain/tlg1286.tlg001.1st1K-grc1.txt
+    campanella_pressure:
+      - leaf: "0829"
+        phrases:
+          - "in verbo Dei vita et Deus"
+          - "Deumque cum verbo suo"
+          - "tertiam mentem"
+          - "mundum sensibilem"
+          - "dispositio fatum"
+    current_use: >
+      Gives the Renaissance Latin vocabulary layer for Poimandres, divine mind,
+      Word, demiurgic mind, seven governors, fate, and the double human being.
+
+  - id: ficino-mens-fatum-regeneration
+    file: extracts/004-ficino-mens-fatum-regeneration.md
+    status: working-extract
+    primary_source_cluster:
+      - Corpus Hermeticum XII / Ficino Pimander
+      - Corpus Hermeticum XIII / Ficino Pimander
+    source_surfaces:
+      renaissance: source/latin/plain/ficino-pimander-x-xiv-1505-stephanus-aussagenlogik-wayback.txt
+      greek_scott_first1k:
+        - source/greek/plain/tlg1286.tlg012.1st1K-grc1.txt
+        - source/greek/plain/tlg1286.tlg013.1st1K-grc1.txt
+    campanella_pressure:
+      - leaf: "0829"
+        phrases:
+          - "Mentem autem de essentia Dei"
+          - "ut lumen Soli"
+          - "mentem sequentes vincunt Fatum"
+          - "fiunt similes Diis"
+      - leaf: "0830"
+        phrases:
+          - "nisi per regenerationem"
+          - "silentio et contemplatione divinorum"
+          - "duodecim ultricibus vitiis"
+          - "per decem virtutes"
+    current_use: >
+      Connects mind, fate-supergression, and regeneration as one Hermetic
+      governance argument rather than three separate topics.
+
+  - id: stobaean-decans-pantomorphos
+    file: extracts/005-stobaean-decans-pantomorphos.md
+    status: discovery-extract
+    primary_source_cluster:
+      - First1KGreek tlg1286.tlg020 / Stobaei Hermetica
+      - Asclepius decan/Pantomorphos control
+    source_surfaces:
+      stobaean_discovery: source/greek/plain/tlg1286.tlg020.1st1K-grc1.txt
+      asclepius_scott_control: source/greek/plain/tlg1286.tlg019.1st1K-lat1.txt
+      asclepius_renaissance: source/latin/plain/asclepius-1505-stephanus-aussagenlogik-wayback.txt
+    verification_status: >
+      Discovery only until Nock-Festugiere III-IV are checked for fragment
+      boundaries and numbering.
+    campanella_pressure:
+      - leaf: "0829"
+        phrases:
+          - "Deum Pantophormium"
+          - "omnes rerum species et formas sigillari"
+          - "36 horoscopios"
+          - "36 facies vocatas Egyptiis in Zodiaco"
+    current_use: >
+      Locates the immediate textual substrate for Pantomorphon/Omniformis, 36
+      decans/horoscopes, zodiacal faces, and form-diversification.
+reserve_edges:
+  augustine_civitate_dei_viii_23_26:
+    role: Christian counter-witness to the Asclepius statue fabrication passage.
+    status: mapped-not-extracted
+    reason_not_primary: >
+      Leaf 0830 is treating what Augustine refutes, but the immediate substrate
+      remains Asclepius. Extract Augustine only when the commentary needs the
+      Christian reception/refutation layer.
+  iamblichus_de_mysteriis:
+    role: Egyptian-Hermetic Neoplatonic comparison for mind, participation, and ritual action.
+    status: mapped-not-extracted
+    reason_not_primary: >
+      Leaf 0830 opens the Iamblichus/Proclus comparison after the Hermetic
+      report. It is engagement/comparison pressure, not the first substrate
+      extraction layer.
+  patrizi_1591:
+    role: Near-contemporary Renaissance Hermetic ordering witness.
+    status: map-only
+    reason_not_primary: >
+      Useful for reception frame, but pulling it now would widen beyond the
+      Campanella leaf pressure.

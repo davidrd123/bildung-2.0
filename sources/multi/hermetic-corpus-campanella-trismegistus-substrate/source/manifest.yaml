@@ -1,0 +1,300 @@
+title: Hermetic Corpus for Campanella Trismegistus Substrate
+status: live-bounded-substrate
+source_quality: >
+  Mixed shelf: First1KGreek TEI from Scott 1924, critical-reference records,
+  open HTML witnesses, public-domain OCR/PDF scan witnesses, and ignored local
+  acquisitions for private work.
+purpose: >
+  Supports Campanella Metaphysica Liber XV leaves 0829-0830, where Mercury
+  Trismegistus supplies the direct Hermetic substrate for divine governance,
+  fate, the World/Human triad, regeneration, decans, and statue fabrication.
+generated_plain_text:
+  first1k_tlg1286:
+    tool_from_shelf_root: ../../../greek/tools/tei_to_plain.py
+    input_dir: source/greek/tei
+    output_dir: source/greek/plain
+  latin_wayback_1505:
+    tool_from_shelf_root: tools/aussagenlogik_html_to_plain.py
+    input_dir: source/local/latin
+    output_dir: source/latin/plain
+acquisition_policy:
+  ignored_local_dirs:
+    - source/local/
+    - source/pdf/
+    - source/page-images/
+    - source/abbyy/
+  note: >
+    Local scans, PDFs, OCR, and copied web witnesses are for private source
+    work. Keep tracked files limited to manifest/readme-level source mapping
+    unless an explicitly open-license text surface is added later.
+tracked_search_surfaces:
+  first1k_tlg1286:
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_dir: https://github.com/OpenGreekAndLatin/First1KGreek/tree/master/data/tlg1286
+    edition_note: "Walter Scott, Hermetica, Oxford 1924; use for search, verify against Nock-Festugiere for citation."
+    local_tei_dir: source/greek/tei
+    local_plain_dir: source/greek/plain
+  ficino_asclepius_1505_wayback:
+    source_note: "Aussagenlogik transcriptions of the 1505 Stephanus Pimander/Asclepius volume, captured from Wayback."
+    local_html:
+      - source/local/latin/ficino-pimander-i-ix-aussagenlogik-1505-wayback.html
+      - source/local/latin/ficino-pimander-x-xiv-aussagenlogik-1505-wayback.html
+      - source/local/latin/asclepius-aussagenlogik-1505-wayback.html
+    local_plain:
+      - source/latin/plain/ficino-pimander-i-ix-1505-stephanus-aussagenlogik-wayback.txt
+      - source/latin/plain/ficino-pimander-x-xiv-1505-stephanus-aussagenlogik-wayback.txt
+      - source/latin/plain/asclepius-1505-stephanus-aussagenlogik-wayback.txt
+extracts:
+  pressure_map: extracts/pressure-map.yaml
+  files:
+    - extracts/001-asclepius-04-human-divine-governance.md
+    - extracts/002-asclepius-statues-deorum-fictor.md
+    - extracts/003-ficino-poimandres-nous-logos-anthropos.md
+    - extracts/004-ficino-mens-fatum-regeneration.md
+    - extracts/005-stobaean-decans-pantomorphos.md
+pressure_context:
+  campanella_source:
+    - sources/latin/campanella-metaphysica/parts/part-iii-xv-013-leaf-0829-mercury-trismegistus-on-governance.md
+    - sources/latin/campanella-metaphysica/parts/part-iii-xv-014-leaf-0830-mercury-monotriad-and-statues.md
+  pressure_summary:
+    - "Leaf 0829 explicitly cites Ascl. 4."
+    - "Leaf 0830 turns on the Asclepius statue-making passage."
+    - "Ficino's Pimander gives the Renaissance Latin surface for Poimandres, Nous, Logos, Anthropos, Fate, and regeneration."
+    - "Stobaean Hermetica/Kore Kosmou remain the decan and zodiacal reserve."
+local_acquisitions:
+  note: "These paths are intentionally ignored by git."
+  greek_html:
+    - source/local/greek/bibliotheca-augustana-ch-00.html
+    - source/local/greek/bibliotheca-augustana-ch-01.html
+    - source/local/greek/bibliotheca-augustana-ch-02.html
+    - source/local/greek/bibliotheca-augustana-ch-03.html
+    - source/local/greek/bibliotheca-augustana-ch-04.html
+    - source/local/greek/bibliotheca-augustana-ch-05.html
+    - source/local/greek/bibliotheca-augustana-ch-06.html
+    - source/local/greek/bibliotheca-augustana-ch-07.html
+    - source/local/greek/bibliotheca-augustana-ch-08.html
+    - source/local/greek/bibliotheca-augustana-ch-09.html
+    - source/local/greek/bibliotheca-augustana-ch-10.html
+    - source/local/greek/bibliotheca-augustana-ch-11.html
+    - source/local/greek/bibliotheca-augustana-ch-12.html
+  latin_html:
+    - source/local/latin/ficino-pimander-i-ix-aussagenlogik-1505-wayback.html
+    - source/local/latin/ficino-pimander-x-xiv-aussagenlogik-1505-wayback.html
+    - source/local/latin/asclepius-aussagenlogik-1505-wayback.html
+  greek_ocr:
+    - source/local/greek/scott-hermetica-vol-1-ocr.txt
+    - source/local/greek/stobaeus-anthologium-vol-1-2-wachsmuth-hense-ocr.txt
+    - source/local/greek/stobaeus-anthologium-vol-3-wachsmuth-hense-ocr.txt
+    - source/local/greek/stobaeus-anthologium-vol-4-wachsmuth-hense-ocr.txt
+  latin_ocr:
+    - source/local/latin/ficino-pimander-1481-ocr.txt
+    - source/local/latin/ficino-pimander-asclepius-stephanus-1505-ocr.txt
+  critical_ocr:
+    - source/local/critical/nock-festugiere-corpus-hermeticum-vol-2-asclepius-traite-xiii-xviii.txt
+  iiif_manifests:
+    - source/local/latin/patrizi-nova-de-universis-philosophia-1591-onb-iiif-manifest.json
+  pdf:
+    - source/pdf/ficino-pimander-1481.pdf
+    - source/pdf/ficino-pimander-asclepius-stephanus-1505.pdf
+    - source/pdf/nock-festugiere-corpus-hermeticum-vol-2-asclepius-traite-xiii-xviii.pdf
+    - source/pdf/poimandres-ch-i-nock-festugiere-matheson.pdf
+    - source/pdf/scott-hermetica-vol-1.pdf
+    - source/pdf/stobaeus-anthologium-vol-1-2-wachsmuth-hense.pdf
+    - source/pdf/stobaeus-anthologium-vol-3-wachsmuth-hense.pdf
+    - source/pdf/stobaeus-anthologium-vol-4-wachsmuth-hense.pdf
+known_gaps:
+  - >
+    Nock-Festugiere Bude volumes I-IV are the critical reference spine. Volume
+    II is present as an ignored local private PDF/text extraction; volumes I and
+    III-IV remain library/borrowing acquisitions if citation pressure reaches
+    beyond the current Asclepius/CH XIII-XVIII tranche.
+  - >
+    PerseusDL has no Hermetic corpus surface in the checked canonical Greek
+    tree. First1KGreek does have tlg1286, but it is Scott 1924 rather than
+    Nock-Festugiere.
+  - >
+    First1KGreek tlg019 is a Scott-based Latin Asclepius TEI witness despite
+    the work title "verba Graeca solum"; keep the 1505 Wayback transcription as
+    the Renaissance transmission surface and verify critical claims against
+    Nock-Festugiere volume II.
+  - >
+    Stobaeus OCR and First1KGreek tlg020 are discovery surfaces. Exact
+    fragment boundaries and numbering need Nock-Festugiere III-IV confirmation.
+sources:
+  - id: asclepius-latin-critical
+    cluster: direct-citation-and-statue-fabrication
+    title: Asclepius
+    language: Latin
+    pressure: >
+      Highest-pressure source. Leaf 0829 cites Ascl. 4 directly; leaf 0830
+      treats the statue-making/factitious-gods passage.
+    critical_reference:
+      label: "A.D. Nock and A.-J. Festugiere, Corpus Hermeticum, vol. II"
+      series: Collection des Universites de France
+      publisher: Les Belles Lettres
+      record_url: https://www.lesbelleslettres.com/livre/9782251001364/corpus-hermeticum-tome-ii-traites-xiii-xviii-asclepius
+    local_private_reference:
+      pdf: source/pdf/nock-festugiere-corpus-hermeticum-vol-2-asclepius-traite-xiii-xviii.pdf
+      text_extract: source/local/critical/nock-festugiere-corpus-hermeticum-vol-2-asclepius-traite-xiii-xviii.txt
+      note: "User-supplied local PDF; ignored by git and used for private citation checks."
+    open_surfaces:
+      - label: "Aussagenlogik transcription, archived Wayback copy of 1505 Stephanus volume"
+        url: https://web.archive.org/web/20070117122532/http://www.aussagenlogik.org/asclepius-mercurii-trismegisti-dialogus/
+        local: source/local/latin/asclepius-aussagenlogik-1505-wayback.html
+        local_plain: source/latin/plain/asclepius-1505-stephanus-aussagenlogik-wayback.txt
+      - label: "First1KGreek tlg1286.tlg019, Scott 1924 Latin Asclepius TEI"
+        url: https://github.com/OpenGreekAndLatin/First1KGreek/tree/master/data/tlg1286/tlg019
+        local_tei: source/greek/tei/tlg1286.tlg019.1st1K-lat1.xml
+        local_plain: source/greek/plain/tlg1286.tlg019.1st1K-lat1.txt
+        note: "Search surface only; not the Renaissance transmission witness and not the critical citation authority."
+      - label: "Augustine, De Civitate Dei VIII.23-26, Latin Library counter-witness"
+        url: https://www.thelatinlibrary.com/augustine/civ8.shtml
+      - label: "Augustine, De Civitate Dei VIII.23-26, Bibliotheca Augustana counter-witness"
+        url: https://www.hs-augsburg.de/~harsch/Chronologia/Lspost05/Augustinus/aug_cd08.html
+    archive_records:
+      - id: corpushermeticum0002herm
+        url: https://archive.org/details/corpushermeticum0002herm
+        metadata_url: https://archive.org/metadata/corpushermeticum0002herm
+        note: "Access-restricted Bude volume II record."
+
+  - id: ficino-pimander-1505
+    cluster: renaissance-transmission
+    title: "Mercurii Trismegisti liber de potestate et sapientia Dei / Pimander"
+    language: Latin
+    translator: Marsilio Ficino
+    pressure: >
+      Campanella's likely working access to Corpus Hermeticum I-XIV. The local
+      Wayback pulls give the Renaissance Latin surface for Poimandres, the
+      Crater/Monas tractate, regeneration, Fate, and the Nous/Logos material.
+    open_surfaces:
+      - label: "Aussagenlogik transcription, Pimander I-IX, archived Wayback copy"
+        url: https://web.archive.org/web/20070107064230/http://www.aussagenlogik.org/mercurii-trismegisti-liber-de-potestate-dei-i-ix/
+        local: source/local/latin/ficino-pimander-i-ix-aussagenlogik-1505-wayback.html
+        local_plain: source/latin/plain/ficino-pimander-i-ix-1505-stephanus-aussagenlogik-wayback.txt
+      - label: "Aussagenlogik transcription, Pimander X-XIV, archived Wayback copy"
+        url: https://web.archive.org/web/20070107064230/http://www.aussagenlogik.org/mercurii-trismegisti-liber-de-potestate-dei-x-xiv/
+        local: source/local/latin/ficino-pimander-x-xiv-aussagenlogik-1505-wayback.html
+        local_plain: source/latin/plain/ficino-pimander-x-xiv-1505-stephanus-aussagenlogik-wayback.txt
+    scan_witnesses:
+      - id: ita-bnc-mag-00000928-001
+        label: "1505 Stephanus volume containing Pimander and Asclepius"
+        url: https://archive.org/details/ita-bnc-mag-00000928-001
+        local_pdf: source/pdf/ficino-pimander-asclepius-stephanus-1505.pdf
+        local_ocr: source/local/latin/ficino-pimander-asclepius-stephanus-1505-ocr.txt
+      - id: bib_fict_4102599
+        label: "1481 Ficino Pimander witness"
+        url: https://archive.org/details/bib_fict_4102599
+        local_pdf: source/pdf/ficino-pimander-1481.pdf
+        local_ocr: source/local/latin/ficino-pimander-1481-ocr.txt
+
+  - id: corpus-hermeticum-greek-critical
+    cluster: greek-critical-spine
+    title: Corpus Hermeticum
+    language: Greek
+    pressure: >
+      Critical control for Poimandres, Nous, Logos, Anthropos, Fate, the
+      Crater/Monas tractate, and regeneration material behind leaf 0829.
+    critical_reference:
+      label: "A.D. Nock and A.-J. Festugiere, Corpus Hermeticum, vols. I-II"
+      series: Collection des Universites de France
+      publisher: Les Belles Lettres
+    open_surfaces:
+      - label: "First1KGreek tlg1286, Scott 1924 Hermetica TEI"
+        url: https://github.com/OpenGreekAndLatin/First1KGreek/tree/master/data/tlg1286
+        local_tei_pattern: source/greek/tei/tlg1286.tlg*.xml
+        local_plain_pattern: source/greek/plain/tlg1286.tlg*.txt
+        note: "Open search surface; verify citation-critical readings against Nock-Festugiere."
+      - label: "Bibliotheca Augustana, Greek CH I-XII, Nock/Festugiere text"
+        url: https://www.hs-augsburg.de/~harsch/graeca/Chronologia/S_post02/HermesTrismegistos/her_po00.html
+        local_pattern: source/local/greek/bibliotheca-augustana-ch-00.html through source/local/greek/bibliotheca-augustana-ch-12.html
+      - label: "Matheson Trust, Poimandres CH I with Greek PDF link"
+        url: https://www.themathesontrust.org/library/poimandres-corpus-hermeticum-i
+        local_pdf: source/pdf/poimandres-ch-i-nock-festugiere-matheson.pdf
+    scan_witnesses:
+      - id: ScottHermeticaVolOne
+        label: "Walter Scott, Hermetica vol. I, Oxford 1924"
+        url: https://archive.org/details/ScottHermeticaVolOne
+        local_pdf: source/pdf/scott-hermetica-vol-1.pdf
+        local_ocr: source/local/greek/scott-hermetica-vol-1-ocr.txt
+    archive_records:
+      - id: corpushermeticum0001herm
+        volume: I
+        url: https://archive.org/details/corpushermeticum0001herm
+        metadata_url: https://archive.org/metadata/corpushermeticum0001herm
+        note: "Access-restricted Bude record."
+      - id: corpushermeticum0002herm
+        volume: II
+        url: https://archive.org/details/corpushermeticum0002herm
+        metadata_url: https://archive.org/metadata/corpushermeticum0002herm
+        note: "Access-restricted Bude record; includes Latin Asclepius."
+
+  - id: stobaean-hermetica-wachsmuth-hense
+    cluster: decans-kore-kosmou-zodiacal-pressure
+    title: "Stobaeus, Anthologium"
+    language: Greek
+    editor: "Curtius Wachsmuth and Otto Hense"
+    pressure: >
+      Search surface for Hermetic fragments preserved by Stobaeus, including
+      the Kore Kosmou and decan/zodiacal material relevant to the pantomorphic
+      and 36-facies pressure.
+    critical_reference:
+      label: "A.D. Nock and A.-J. Festugiere, Corpus Hermeticum, vols. III-IV"
+      note: "Use for fragment numbering and exact boundaries."
+    open_surfaces:
+      - id: first1k-tlg1286-tlg020
+        label: "First1KGreek tlg1286.tlg020, Scott 1924 Stobaei Hermetica"
+        url: https://github.com/OpenGreekAndLatin/First1KGreek/tree/master/data/tlg1286/tlg020
+        local_tei: source/greek/tei/tlg1286.tlg020.1st1K-grc1.xml
+        local_plain: source/greek/plain/tlg1286.tlg020.1st1K-grc1.txt
+        note: "Fast Hermetic-fragment search surface; verify fragment numbering against Nock-Festugiere III-IV."
+      - id: joannisstobaeian01stovuoft
+        label: "Wachsmuth-Hense Stobaeus, vol. 1-2"
+        url: https://archive.org/details/joannisstobaeian01stovuoft
+        ocr: source/local/greek/stobaeus-anthologium-vol-1-2-wachsmuth-hense-ocr.txt
+        pdf: source/pdf/stobaeus-anthologium-vol-1-2-wachsmuth-hense.pdf
+      - id: joannisstobaeian03stovuoft
+        label: "Wachsmuth-Hense Stobaeus, vol. 3"
+        url: https://archive.org/details/joannisstobaeian03stovuoft
+        ocr: source/local/greek/stobaeus-anthologium-vol-3-wachsmuth-hense-ocr.txt
+        pdf: source/pdf/stobaeus-anthologium-vol-3-wachsmuth-hense.pdf
+      - id: joannisstobaeian04stovuoft
+        label: "Wachsmuth-Hense Stobaeus, vol. 4"
+        url: https://archive.org/details/joannisstobaeian04stovuoft
+        ocr: source/local/greek/stobaeus-anthologium-vol-4-wachsmuth-hense-ocr.txt
+        pdf: source/pdf/stobaeus-anthologium-vol-4-wachsmuth-hense.pdf
+
+  - id: patrizi-nova-de-universis-philosophia-1591
+    cluster: near-contemporary-reception-witness
+    title: Nova de universis philosophia
+    language: Latin
+    author: Francesco Patrizi
+    pressure: >
+      Near-contemporary Hermetic compilation and reception frame. Record as a
+      control witness for Renaissance Hermetic ordering, but do not let it
+      widen the shelf beyond Campanella's Trismegistus pressure.
+    open_surfaces:
+      - label: "Google Books scan, Bavarian State Library original"
+        url: https://books.google.com/books/about/Nova_de_universis_Philosophia.html?id=3-RPAAAAcAAJ
+      - label: "ONB IIIF manifest"
+        url: https://iiif.onb.ac.at/presentation/ABO/Z181417408/manifest
+        local_manifest: source/local/latin/patrizi-nova-de-universis-philosophia-1591-onb-iiif-manifest.json
+    note: >
+      The ONB record identifies the Ferrara 1591 printing and its Hermetic,
+      Zoroastrian, and related appendices. Local extraction is intentionally
+      deferred; the local IIIF manifest is just a stable page-map pointer.
+reserve_sources:
+  - id: cicero-de-fato
+    reason: "Latin fatum/Heimarmene vocabulary control."
+    url: https://www.thelatinlibrary.com/cicero/fato.shtml
+  - id: augustine-civitate-dei-viii-23-26
+    reason: "Christian counter-witness to the Asclepius statue-fabrication passage."
+    url: https://www.thelatinlibrary.com/augustine/civ8.shtml
+  - id: iamblichus-de-mysteriis
+    reason: "Egyptian-Hermetic Neoplatonic comparison for participation in divine mind."
+    url: https://archive.org/details/iamblichidemyste00iambuoft
+  - id: technical-astrology
+    reason: "Hold for later only if the decan or horoscope material requires calculation."
+    examples:
+      - Vettius Valens
+      - Firmicus Maternus
+      - Manilius
