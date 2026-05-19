@@ -3,8 +3,9 @@ volumes:
     title_de: Die Sprache
     source: source/full/vol1-die-sprache.txt
     authority_pdf: source/local/philosophie-der-symbolischen-formen-1-die-sprache.pdf
-    current_status: full-volume-searchable-substrate
-    search_surfaces: source/vol1-search-surfaces.yaml
+    current_status: direct-chapter-searchable-substrate
+    chapter_dir: source/vol1-die-sprache
+    search_surfaces: source/search-surfaces.yaml
     sections:
       - id: psf1-vorwort
         title_de: Vorwort
@@ -47,7 +48,10 @@ volumes:
     title_de: Das mythische Denken
     source: source/full/vol2-das-mythische-denken.txt
     authority_pdf: source/local/philosophie-der-symbolischen-formen-2-das-mythische-denken.pdf
-    current_status: held-reserve
+    current_status: direct-chapter-searchable-substrate
+    engagement_status: held-reserve
+    chapter_dir: source/vol2-das-mythische-denken
+    search_surfaces: source/search-surfaces.yaml
     sections:
       - id: psf2-vorwort
         title_de: Vorwort
@@ -93,7 +97,10 @@ volumes:
     title_de: Phänomenologie der Erkenntnis
     source: source/full/vol3-phaenomenologie-der-erkenntnis.txt
     authority_pdf: source/local/philosophie-der-symbolischen-formen-3-phaenomenologie-der-erkenntnis.pdf
-    current_status: second-reserve
+    current_status: direct-chapter-searchable-substrate
+    engagement_status: second-reserve
+    chapter_dir: source/vol3-phaenomenologie-der-erkenntnis
+    search_surfaces: source/search-surfaces.yaml
     sections:
       - id: psf3-vorrede
         title_de: Vorrede

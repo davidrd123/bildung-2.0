@@ -1,0 +1,442 @@
+status: direct-volume-chapter-substrate
+purpose: >
+  Make Cassirer's three localized Philosophie der symbolischen Formen volumes
+  searchable at full-volume and direct chapter-file resolution without
+  promoting the scaffold to a texts campaign.
+
+use_policy:
+  direct_chapter_files: "Search, browsing, and exploratory engagement surfaces; verify against the authority PDF or normalized tranches before quotation-grade claims."
+  normalized_files: "Working-level checked surfaces; still not a full critical edition."
+  full_text: "Broad search surface for terms and phrase discovery."
+
+volumes:
+  - id: psf-1
+    title_de: Die Sprache
+    status: direct-chapter-searchable-substrate
+    source: source/full/vol1-die-sprache.txt
+    chapter_dir: source/vol1-die-sprache
+    authority_pdf: source/local/philosophie-der-symbolischen-formen-1-die-sprache.pdf
+    priority_anchors:
+      - id: psf1-einleitung
+        reason: symbolic form, objectivation, functional unity, critique of culture
+      - id: psf1-k5
+        reason: relation-expression, sentence before word, copula, being-language
+    surfaces:
+      - id: psf1-full
+        title_de: Die Sprache
+        kind: full-volume
+        file: source/full/vol1-die-sprache.txt
+        status: rough_extracted_full_text
+        use: broad_search
+      - id: psf1-front
+        title_de: Front Matter and Inhaltsuebersicht
+        kind: front-matter
+        file: source/vol1-die-sprache/000-front-matter-and-inhaltsuebersicht.txt
+        status: rough_direct_chapter_file
+        source_line_range: [1, 128]
+        use: navigation
+      - id: psf1-vorwort
+        title_de: Vorwort
+        kind: prefatory
+        file: source/vol1-die-sprache/001-vorwort.txt
+        status: rough_direct_chapter_file
+        source_line_range: [129, 308]
+        printed_start: VII
+        use: search_and_orientation
+      - id: psf1-einleitung
+        title_de: Einleitung und Problemstellung
+        kind: chapter
+        file: source/vol1-die-sprache/010-einleitung-und-problemstellung.txt
+        status: rough_direct_chapter_file
+        source_line_range: [309, 2098]
+        printed_start: 1
+        use: search_and_guided_reading
+        normalized_children:
+          - source/normalized/0101-einleitung-i-begriff-und-systematik-1-7.txt
+          - source/normalized/0102-einleitung-i-begriff-und-systematik-8-16.txt
+      - id: psf1-k1
+        title_de: Das Sprachproblem in der Geschichte der Philosophie
+        kind: chapter
+        file: source/vol1-die-sprache/020-kapitel-i-sprachproblem-in-der-geschichte-der-philosophie.txt
+        status: rough_direct_chapter_file
+        source_line_range: [2099, 4735]
+        printed_start: 51
+        use: search_and_guided_reading
+        normalized_children:
+          - source/normalized/0115-kapitel-i-v-wilhelm-von-humboldt.txt
+      - id: psf1-k2
+        title_de: Die Sprache in der Phase des sinnlichen Ausdrucks
+        kind: chapter
+        file: source/vol1-die-sprache/030-kapitel-ii-sprache-in-der-phase-des-sinnlichen-ausdrucks.txt
+        status: rough_direct_chapter_file
+        source_line_range: [4736, 5655]
+        printed_start: 122
+        use: search_and_guided_reading
+      - id: psf1-k3
+        title_de: Die Sprache in der Phase des anschaulichen Ausdrucks
+        kind: chapter
+        file: source/vol1-die-sprache/040-kapitel-iii-sprache-in-der-phase-des-anschaulichen-ausdrucks.txt
+        status: rough_direct_chapter_file
+        source_line_range: [5656, 9599]
+        printed_start: 147
+        use: search_and_guided_reading
+      - id: psf1-k4
+        title_de: Die Sprache als Ausdruck des begrifflichen Denkens
+        kind: chapter
+        file: source/vol1-die-sprache/050-kapitel-iv-sprache-als-ausdruck-des-begrifflichen-denkens.txt
+        status: rough_direct_chapter_file
+        source_line_range: [9600, 10710]
+        printed_start: 249
+        use: search_and_guided_reading
+      - id: psf1-k5
+        title_de: Die Sprache und der Ausdruck der reinen Beziehungsformen
+        kind: chapter
+        file: source/vol1-die-sprache/060-kapitel-v-sprache-und-ausdruck-der-reinen-beziehungsformen.txt
+        status: rough_direct_chapter_file
+        source_line_range: [10711, 11507]
+        printed_start: 280
+        use: search_and_guided_reading
+        normalized_children:
+          - source/normalized/0151-kapitel-v-280-293-satz-und-beziehungsausdruck.txt
+          - source/normalized/0152-kapitel-v-293-295-kopula-und-praedikative-synthesis.txt
+          - source/normalized/0153-kapitel-v-295-300-seinsbegriff-und-sprachlicher-ausdruck.txt
+      - id: psf1-editorischer-bericht
+        title_de: Editorischer Bericht
+        kind: back-matter
+        file: source/vol1-die-sprache/900-editorischer-bericht.txt
+        status: rough_direct_chapter_file
+        source_line_range: [11508, 11671]
+        printed_start: 301
+        use: search_and_orientation
+      - id: psf1-abkuerzungen
+        title_de: Abkuerzungen
+        kind: back-matter
+        file: source/vol1-die-sprache/910-abkuerzungen.txt
+        status: rough_direct_chapter_file
+        source_line_range: [11672, 11736]
+        use: navigation
+      - id: psf1-schriftenregister
+        title_de: Schriftenregister
+        kind: index
+        file: source/vol1-die-sprache/920-schriftenregister.txt
+        status: rough_direct_chapter_file
+        source_line_range: [11737, 12677]
+        use: search_and_orientation
+      - id: psf1-personenregister
+        title_de: Personenregister
+        kind: index
+        file: source/vol1-die-sprache/930-personenregister.txt
+        status: rough_direct_chapter_file
+        source_line_range: [12678, null]
+        use: search_and_orientation
+
+  - id: psf-2
+    title_de: Das mythische Denken
+    status: direct-chapter-searchable-substrate
+    source: source/full/vol2-das-mythische-denken.txt
+    chapter_dir: source/vol2-das-mythische-denken
+    authority_pdf: source/local/philosophie-der-symbolischen-formen-2-das-mythische-denken.pdf
+    surfaces:
+      - id: psf2-full
+        title_de: Das mythische Denken
+        kind: full-volume
+        file: source/full/vol2-das-mythische-denken.txt
+        status: rough_extracted_full_text
+        use: broad_search
+      - id: psf2-front
+        title_de: Front Matter and Inhaltsuebersicht
+        kind: front-matter
+        file: source/vol2-das-mythische-denken/000-front-matter-and-inhaltsuebersicht.txt
+        status: rough_direct_chapter_file
+        source_line_range: [1, 158]
+        use: navigation
+      - id: psf2-vorwort
+        title_de: Vorwort
+        kind: prefatory
+        file: source/vol2-das-mythische-denken/001-vorwort.txt
+        status: rough_direct_chapter_file
+        source_line_range: [159, 439]
+        printed_start: IX
+        use: search_and_orientation
+      - id: psf2-einleitung
+        title_de: Einleitung. Das Problem einer Philosophie der Mythologie
+        kind: chapter
+        file: source/vol2-das-mythische-denken/010-einleitung-problem-einer-philosophie-der-mythologie.txt
+        status: rough_direct_chapter_file
+        source_line_range: [440, 1632]
+        printed_start: 1
+        use: search_and_guided_reading
+      - id: psf2-k1
+        title_de: Charakter und Grundrichtung des mythischen Gegenstandsbewusstseins
+        kind: chapter
+        file: source/vol2-das-mythische-denken/020-abschnitt-i-kapitel-i-mythisches-gegenstandsbewusstsein.txt
+        status: rough_direct_chapter_file
+        source_line_range: [1633, 3037]
+        printed_start: 35
+        use: search_and_guided_reading
+      - id: psf2-k2
+        title_de: Einzelkategorien des mythischen Denkens
+        kind: chapter
+        file: source/vol2-das-mythische-denken/030-abschnitt-i-kapitel-ii-einzelkategorien-des-mythischen-denkens.txt
+        status: rough_direct_chapter_file
+        source_line_range: [3038, 3490]
+        printed_start: 74
+        use: search_and_guided_reading
+      - id: psf2-k3
+        title_de: Der Grundgegensatz
+        kind: chapter
+        file: source/vol2-das-mythische-denken/040-abschnitt-ii-kapitel-i-grundgegensatz.txt
+        status: rough_direct_chapter_file
+        source_line_range: [3491, 3887]
+        printed_start: 87
+        use: search_and_guided_reading
+      - id: psf2-k4
+        title_de: Grundzüge einer Formenlehre des Mythos
+        kind: chapter
+        file: source/vol2-das-mythische-denken/050-abschnitt-ii-kapitel-ii-formenlehre-des-mythos.txt
+        status: rough_direct_chapter_file
+        source_line_range: [3888, 7051]
+        printed_start: 98
+        use: search_and_guided_reading
+      - id: psf2-k5
+        title_de: Das Ich und die Seele
+        kind: chapter
+        file: source/vol2-das-mythische-denken/060-abschnitt-iii-kapitel-i-ich-und-seele.txt
+        status: rough_direct_chapter_file
+        source_line_range: [7052, 7985]
+        printed_start: 181
+        use: search_and_guided_reading
+      - id: psf2-k6
+        title_de: Die Herausbildung des Selbstgefühls aus dem mythischen Einheits- und Lebensgefühl
+        kind: chapter
+        file: source/vol2-das-mythische-denken/070-abschnitt-iii-kapitel-ii-herausbildung-des-selbstgefuehls.txt
+        status: rough_direct_chapter_file
+        source_line_range: [7986, 9967]
+        printed_start: 205
+        use: search_and_guided_reading
+      - id: psf2-k7
+        title_de: Kultus und Opfer
+        kind: chapter
+        file: source/vol2-das-mythische-denken/080-abschnitt-iii-kapitel-iii-kultus-und-opfer.txt
+        status: rough_direct_chapter_file
+        source_line_range: [9968, 10579]
+        printed_start: 258
+        use: search_and_guided_reading
+      - id: psf2-abs4
+        title_de: Die Dialektik des mythischen Bewusstseins
+        kind: chapter
+        file: source/vol2-das-mythische-denken/090-abschnitt-iv-dialektik-des-mythischen-bewusstseins.txt
+        status: rough_direct_chapter_file
+        source_line_range: [10580, 11813]
+        printed_start: 275
+        use: search_and_guided_reading
+      - id: psf2-editorischer-bericht
+        title_de: Editorischer Bericht
+        kind: back-matter
+        file: source/vol2-das-mythische-denken/900-editorischer-bericht.txt
+        status: rough_direct_chapter_file
+        source_line_range: [11814, 11987]
+        use: search_and_orientation
+      - id: psf2-abkuerzungen
+        title_de: Abkuerzungen
+        kind: back-matter
+        file: source/vol2-das-mythische-denken/910-abkuerzungen.txt
+        status: rough_direct_chapter_file
+        source_line_range: [11988, 12064]
+        use: navigation
+      - id: psf2-schriftenregister
+        title_de: Schriftenregister
+        kind: index
+        file: source/vol2-das-mythische-denken/920-schriftenregister.txt
+        status: rough_direct_chapter_file
+        source_line_range: [12065, 13000]
+        use: search_and_orientation
+      - id: psf2-personenregister
+        title_de: Personenregister
+        kind: index
+        file: source/vol2-das-mythische-denken/930-personenregister.txt
+        status: rough_direct_chapter_file
+        source_line_range: [13001, null]
+        use: search_and_orientation
+
+  - id: psf-3
+    title_de: Phänomenologie der Erkenntnis
+    status: direct-chapter-searchable-substrate
+    source: source/full/vol3-phaenomenologie-der-erkenntnis.txt
+    chapter_dir: source/vol3-phaenomenologie-der-erkenntnis
+    authority_pdf: source/local/philosophie-der-symbolischen-formen-3-phaenomenologie-der-erkenntnis.pdf
+    surfaces:
+      - id: psf3-full
+        title_de: Phänomenologie der Erkenntnis
+        kind: full-volume
+        file: source/full/vol3-phaenomenologie-der-erkenntnis.txt
+        status: rough_extracted_full_text
+        use: broad_search
+      - id: psf3-front
+        title_de: Front Matter and Inhaltsuebersicht
+        kind: front-matter
+        file: source/vol3-phaenomenologie-der-erkenntnis/000-front-matter-and-inhaltsuebersicht.txt
+        status: rough_direct_chapter_file
+        source_line_range: [1, 213]
+        use: navigation
+      - id: psf3-vorrede
+        title_de: Vorrede
+        kind: prefatory
+        file: source/vol3-phaenomenologie-der-erkenntnis/001-vorrede.txt
+        status: rough_direct_chapter_file
+        source_line_range: [214, 361]
+        printed_start: VII
+        use: search_and_orientation
+      - id: psf3-einleitung
+        title_de: Einleitung
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/010-einleitung.txt
+        status: rough_direct_chapter_file
+        source_line_range: [362, 2039]
+        printed_start: 1
+        use: search_and_guided_reading
+      - id: psf3-k1
+        title_de: Subjektive und objektive Analyse
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/020-teil-i-kapitel-i-subjektive-und-objektive-analyse.txt
+        status: rough_direct_chapter_file
+        source_line_range: [2040, 2568]
+        printed_start: 49
+        use: search_and_guided_reading
+      - id: psf3-k2
+        title_de: Das Ausdrucksphänomen als Grundmoment des Wahrnehmungsbewusstseins
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/030-teil-i-kapitel-ii-ausdrucksphaenomen-als-grundmoment-des-wahrnehmungsbewusstseins.txt
+        status: rough_direct_chapter_file
+        source_line_range: [2569, 4027]
+        printed_start: 64
+        use: search_and_guided_reading
+      - id: psf3-k3
+        title_de: Die Ausdrucksfunktion und das Leib-Seelen-Problem
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/040-teil-i-kapitel-iii-ausdrucksfunktion-und-leib-seelen-problem.txt
+        status: rough_direct_chapter_file
+        source_line_range: [4028, 4511]
+        printed_start: 104
+        use: search_and_guided_reading
+      - id: psf3-k4
+        title_de: Der Begriff und das Problem der Repräsentation
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/050-teil-ii-kapitel-i-begriff-und-problem-der-repraesentation.txt
+        status: rough_direct_chapter_file
+        source_line_range: [4512, 4933]
+        printed_start: 119
+        use: search_and_guided_reading
+      - id: psf3-k5
+        title_de: Ding und Eigenschaft
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/060-teil-ii-kapitel-ii-ding-und-eigenschaft.txt
+        status: rough_direct_chapter_file
+        source_line_range: [4934, 5916]
+        printed_start: 131
+        use: search_and_guided_reading
+      - id: psf3-k6
+        title_de: Der Raum
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/070-teil-ii-kapitel-iii-raum.txt
+        status: rough_direct_chapter_file
+        source_line_range: [5917, 6775]
+        printed_start: 159
+        use: search_and_guided_reading
+      - id: psf3-k7
+        title_de: Die Zeitanschauung
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/080-teil-ii-kapitel-iv-zeitanschauung.txt
+        status: rough_direct_chapter_file
+        source_line_range: [6776, 8021]
+        printed_start: 183
+        use: search_and_guided_reading
+      - id: psf3-k8
+        title_de: Symbolische Prägnanz
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/090-teil-ii-kapitel-v-symbolische-praegnanz.txt
+        status: rough_direct_chapter_file
+        source_line_range: [8022, 8571]
+        printed_start: 218
+        use: search_and_guided_reading
+      - id: psf3-k9
+        title_de: Zur Pathologie des Symbolbewusstseins
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/100-teil-ii-kapitel-vi-pathologie-des-symbolbewusstseins.txt
+        status: rough_direct_chapter_file
+        source_line_range: [8572, 11826]
+        printed_start: 234
+        use: search_and_guided_reading
+      - id: psf3-k10
+        title_de: Zur Theorie des Begriffs
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/110-teil-iii-kapitel-i-theorie-des-begriffs.txt
+        status: rough_direct_chapter_file
+        source_line_range: [11827, 13277]
+        printed_start: 323
+        use: search_and_guided_reading
+      - id: psf3-k11
+        title_de: Begriff und Gegenstand
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/120-teil-iii-kapitel-ii-begriff-und-gegenstand.txt
+        status: rough_direct_chapter_file
+        source_line_range: [13278, 13809]
+        printed_start: 362
+        use: search_and_guided_reading
+      - id: psf3-k12
+        title_de: Sprache und Wissenschaft. Dingzeichen und Ordnungszeichen
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/130-teil-iii-kapitel-iii-sprache-und-wissenschaft.txt
+        status: rough_direct_chapter_file
+        source_line_range: [13810, 15036]
+        printed_start: 377
+        use: search_and_guided_reading
+      - id: psf3-k13
+        title_de: Der Gegenstand der Mathematik
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/140-teil-iii-kapitel-iv-gegenstand-der-mathematik.txt
+        status: rough_direct_chapter_file
+        source_line_range: [15037, 17144]
+        printed_start: 411
+        use: search_and_guided_reading
+      - id: psf3-k14
+        title_de: Die Grundlagen der naturwissenschaftlichen Erkenntnis
+        kind: chapter
+        file: source/vol3-phaenomenologie-der-erkenntnis/150-teil-iii-kapitel-v-grundlagen-der-naturwissenschaftlichen-erkenntnis.txt
+        status: rough_direct_chapter_file
+        source_line_range: [17145, 20382]
+        printed_start: 468
+        use: search_and_guided_reading
+      - id: psf3-editorischer-bericht
+        title_de: Editorischer Bericht
+        kind: back-matter
+        file: source/vol3-phaenomenologie-der-erkenntnis/900-editorischer-bericht.txt
+        status: rough_direct_chapter_file
+        source_line_range: [20383, 20542]
+        use: search_and_orientation
+      - id: psf3-abkuerzungen
+        title_de: Abkuerzungen
+        kind: back-matter
+        file: source/vol3-phaenomenologie-der-erkenntnis/910-abkuerzungen.txt
+        status: rough_direct_chapter_file
+        source_line_range: [20543, 20600]
+        use: navigation
+      - id: psf3-schriftenregister
+        title_de: Schriftenregister
+        kind: index
+        file: source/vol3-phaenomenologie-der-erkenntnis/920-schriftenregister.txt
+        status: rough_direct_chapter_file
+        source_line_range: [20601, 21626]
+        use: search_and_orientation
+      - id: psf3-personenregister
+        title_de: Personenregister
+        kind: index
+        file: source/vol3-phaenomenologie-der-erkenntnis/930-personenregister.txt
+        status: rough_direct_chapter_file
+        source_line_range: [21627, null]
+        use: search_and_orientation
+
+guardrails:
+  - "Direct PSF I-III chapter files are substrate and search surfaces, not a promoted symbolic-forms campaign."
+  - "Do not treat symbolic form as stable repo-wide vocabulary from search hits alone."
+  - "Use normalized tranches or the authority PDFs for quotation-grade claims."
