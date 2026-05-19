@@ -25,7 +25,8 @@ Record landed sidecars in `witnesses.yaml` before using them as evidence.
   requires them.
 
 The first promoted text surfaces are raw PDF text-layer extracts from Band II:
-Section 1, Section 8, and a targeted Ergon/Energeia tranche inside Section 8.
+Section 1, a page-aligned Sections 3-7 run-up, Section 8, and a targeted
+Ergon/Energeia tranche inside Section 8.
 
 ## Working Pattern
 

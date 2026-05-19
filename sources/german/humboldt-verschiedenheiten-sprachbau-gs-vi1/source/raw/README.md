@@ -9,3 +9,4 @@ Current raw extracts:
 
 - `005-ueber-den-dualis-pdf-014-040.txt`
 - `010-ueber-die-verschiedenheiten-pdf-121-313.txt`
+- `020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt`

@@ -2,7 +2,7 @@ witnesses:
   - id: ia-1907-gs-vi1
     role: primary_text_witness
     title: "Wilhelm von Humboldts Gesammelte Schriften. Band VI. Werke VI. Erste Haelfte"
-    target_work: "Ueber den Dualis; Ueber die Verschiedenheiten des menschlichen Sprachbaues"
+    target_work: "Ueber den Dualis; Ueber die Verschiedenheiten des menschlichen Sprachbaues; Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen in einigen Sprachen"
     author: "Wilhelm von Humboldt"
     editor: "Albert Leitzmann"
     imprint: "Berlin: B. Behr's Verlag, 1907"
@@ -41,9 +41,16 @@ witnesses:
         page_number_json_leaf_nums: "125-325"
         printed_pages: "111-303"
         status: raw_pdf_text_layer
+      - id: ueber-die-verwandtschaft-ortsadverbien-pronomen
+        path: source/raw/020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt
+        pdf_pages: "314-340"
+        page_number_json_leaf_nums: "326-352"
+        printed_pages: "304-330"
+        status: raw_pdf_text_layer
     notes:
       - "This GS VI/1 witness now carries the Dualis support text Cassirer cites in PSF I."
       - "This is the plural Verschiedenheiten essay cited by Cassirer, not the singular Verschiedenheit text."
+      - "The Ortsadverbien essay cited by Cassirer at PSF I pp. 153, 164, 166, 213, 216, and 225 is now extracted as a raw GS VI/1 support text."
       - "The original JP2 tar has landed locally and is extracted, but page-image alignment has not yet been visually checked beyond filename sequence inspection."
       - "PDF text extraction is usable for raw navigation but remains noisy and unnormalized."
 
@@ -56,7 +63,8 @@ witness_policy:
   distinction_policy:
     - "Treat Dualis as a GS VI/1 support text in the same witness."
     - "Do not fold this plural essay into the singular Verschiedenheit shelf."
-    - "Cite this shelf as GS VI/1 plural Verschiedenheiten when relating it to PSF I."
+    - "Treat Ortsadverbien as a separate GS VI/1 support text inside this witness, not as a Kawi or singular Verschiedenheit passage."
+    - "Cite the specific GS VI/1 text being used when relating this shelf to PSF I."
 
 git_policy:
   ignored_binary_dirs:

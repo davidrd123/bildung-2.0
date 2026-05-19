@@ -2,7 +2,8 @@
 
 This source layer holds local witnesses and extraction surfaces for Humboldt's
 GS VI/1 texts currently needed by the Cassirer PSF I Humboldt map: *Ueber den
-Dualis* and the plural *Verschiedenheiten* essay.
+Dualis*, the plural *Verschiedenheiten* essay, and *Ueber die Verwandtschaft
+der Ortsadverbien mit dem Pronomen in einigen Sprachen*.
 
 ## Witness Policy
 

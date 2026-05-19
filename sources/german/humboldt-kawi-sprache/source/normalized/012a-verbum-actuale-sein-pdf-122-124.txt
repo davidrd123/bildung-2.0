@@ -1,0 +1,38 @@
+# Humboldt - Kawi Verbum and Actuale Sein
+
+Work: Ueber die Kawi-Sprache auf der Insel Java, Band II
+Witness: ia-1838-kawi-band2-google-ia
+Source raw extract: ../raw/012-verbum-actuale-sein-pdf-122-124.txt
+Range: PDF pages 122-124 / TIF images 0122-0124 / printed pages 79-81
+Status: working normalization for source-near comparison; not a diplomatic transcription
+
+Normalization notes:
+
+- Checked against the PDF text layer, hOCR search text, and Tesseract OCR from TIF images 0122-0124.
+- Repairs obvious OCR artifacts and line-break damage; preserves historical spelling where readable.
+- Regularizes OCR long-s artifacts such as `dafs` and `gröfser` to `daß` and `größer`.
+- Body text only; the trailing page-81 paragraph beginning `Dasselbe Wort dient...` continues beyond the target locus and is omitted here.
+
+## [79] Verbum. §. 11
+
+Um das Kawi-Verbum von dem rechten Standpunkte aus zu betrachten, muß man von der Beschaffenheit des Verbums im Malajischen Sprachstamm überhaupt und in der Javanischen Sprache insbesondere ausgehn.
+
+## Bezeichnung des Verbums im Allgemeinen
+
+### Die Sprachen des Malajischen Stammes überhaupt.
+
+So wie das Nomen in diesen Sprachen der Declination ermangelt, ebenso fehlt, genau genommen, auch dem Verbum die Conjugation in ihnen. Partikeln und die persönlichen Pronomina deuten die Modi, Tempora und Personen an, bleiben in dieser Andeutung, bis auf äußerst wenige Ausnahmen, unverändert und unabgekürzt, verschmelzen daher nicht mit dem Grundwort, und fehlen endlich sehr häufig ganz. Vorzugsweise tragen das Malajische und Jav. diesen Charakter an sich. Im Tag. macht die Bezeichnung der Tempora durch Buchstabenveränderung und Reduplication hiervon eine Ausnahme. So steht der Ausdruck des Verbalbegriffs sehr oft allein, und in den meisten Fällen wenigstens nackt und abgesondert da.
+
+Wo nun dies der Fall ist, da ist auch die Bezeichnung des Verbums nothwendig unvollkommen. Denn das actuale Sein, welches in der grammatischen Vorstellung das Verbum charakterisirt, läßt sich nicht leicht an sich ausdrücken, sondern verkündigt sich nur dadurch, daß es ein Sein auf eine
+
+## [80]
+
+bestimmte Weise, in einer bestimmten Zeit und Person ist, und daß der Ausdruck dieser Beschaffenheiten unzertrennlich in das Grundwort verwebt ist, zum sichren Zeichen, daß dasselbe nur mit ihnen und gleichsam in sie versetzt gedacht werden soll. Wo daher das Verbum in Sprachen diese ächte grammatische Form besitzt, da läßt sich sein Begriff gar nicht ohne jene Beschaffenheiten anders, als in dem, sich schon dem Substantiv nähernden Infinitiv, auffassen. Seine Natur ist gerade diese Beweglichkeit, liegt in der Unmöglichkeit, anders, als in einen einzelnen Fall, fixirt zu werden.
+
+Es ist eine nothwendige Folge aus dem hier Gesagten, daß in den Malajischen Sprachen der Ausdruck durch das Verbum sehr oft nur vermittelst der Construction, und bisweilen auch nicht einmal durch diese, von dem Ausdruck durch das Nomen mit ausgelassenem Verbum sein unterschieden werden kann. So künftig sprechen Krishna kann ebenso gut so wird künftig Krishna's Sprechen sein, als so wird Krishna sprechen, heißen. Sogar die, dem Modus und Tempus nach, vollkommen und nach Art anderer Sprachen flectirten Formen des Tag. Verbums gelten, je nachdem sie das Pronomen oder der bestimmte Artikel begleitet, als flectirte Verbalformen (amo, amas u. d. m.), oder als Participia, oder Adjectiva. Sie selbst sind also gegen den Verbal- und Nominal-Ausdruck gleichgültig, und es kommt dabei bloß auf die Behandlung derselben in der verbindenden Rede an.
+
+Die geringe Schärfe, mit welcher das Verbum von dieser Seite in den Mal. Sprachen bezeichnet wird, ist vielleicht Ursach, daß der Ausdruck durch das Nomen, auch bestimmt grammatisch als solches angedeutet, dem Ausdruck durch das Verbum vorgezogen wird. In der That ist in den uns bekannten Mal. Hauptsprachen die directe Construction durch das Activum mit dem im Nominativ stehenden Subject und dem im Accusativ stehenden Object die seltnere, und man findet dieselbe auf mannigfaltige, und uns oft ganz unnatürlich erscheinende Weise in eine Construction durch das Nomen umgestellt, wie wenn im Tag. die einfache Redensart: du gabst mir das Buch, in die sonderbare: dein Gebungsort des Buches war ich, verändert wird. Das Verbum sein bleibt aber in diesen Redensarten immer ausgelassen; und dies ist vermuthlich der Grund, daß die wahre Natur dieser Formen, oder vielmehr Redensarten, von den Grammatikern verkannt, und dieselben als Passiva behandelt werden. Denn jeder der Mal. Haupt-
+
+## [81]
+
+sprachen wird eine Vorliebe für den Gebrauch des Passivums zugeschrieben, was nur insofern wahr ist, als man unter dem Passivum den eben bezeichneten Ausdruck durch eine Nominalform versteht. Denn das wahre Pass. läßt sich in einer Sprache, in welcher das Act. keine reine und ächt grammatische Form hat, gar nicht denken. Es fehlt selbst einigen der Sprachen, in welchen dies der Fall ist, und zeigt dadurch, daß sein Begriff schwerer zu fassen ist. In der That geschieht beim Pass. da, wo der Begriff rein genommen ist, nichts, als eine Umkehrung der Richtung des Act.; das actuale Sein ist in ihm, wie im Act., enthalten, wird aber durch die Passivform dergestalt umgeändert, daß der die Wirkung Erfahrende zum Subject wird. Gerade weil dieser Begriff dem Ausdruck, wo man das Sein vom Prädicate (dem Verbalbegriff) trennt und diesen in einer Nominalgestalt allein bringt, so sehr nahe liegt, werden beide in vielen Sprachen verwechselt, und der letztere wird oft vorgezogen, weil er der am leichtesten zu fassende ist. Denn im wahren Passivum muß die Verbalform mit dem Verbalbegriff ebenso unzertrennlich, wie im Act., verbunden bleiben, worin allerdings eine größere Schwierigkeit liegt. Wie aber sehr oft in Sprachen, auch da, wo sie die ächte Form verfehlen, dennoch ein Streben nach derselben sichtbar ist, so wird auch im Malajischen Sprachstamm dem Ausdruck durch das Nomen mit ausgelassenem Verbum sein bisweilen eine besondere Gestalt gegeben, welche sich wirklich dem Pass. einigermaßen nähert. Vorzüglich ist dies im Jav. der Fall, wo die Passivform wirklich in der Behandlung, wie ich unten (§. 13.) zeigen werde, als ein Pass. angesehen werden kann. In den übrigen Sprachen ist aber auch mehr, als irgend sonst, ein Umstellen des Verbalausdrucks in Nominalausdruck, und wieder ein Streben, von diesem zu jenem zurück überzugehen, vorhanden.

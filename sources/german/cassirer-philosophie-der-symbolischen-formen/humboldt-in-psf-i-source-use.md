@@ -73,10 +73,10 @@ Use this routing when moving from Cassirer citations to Humboldt source work:
 | Cassirer source object | Local route | Status |
 | --- | --- | --- |
 | *Über die Kawi-Sprache auf der Insel Java*, Bd. II, Buschmann ed., 1838 | `sources/german/humboldt-kawi-sprache/` | Landed. This is the direct shelf for Cassirer's named Kawi Bd. II citations. |
-| *Ueber die Verschiedenheit des menschlichen Sprachbaues...* (singular) | `sources/german/humboldt-verschiedenheit-sprachbau/` | Landed with GS VII/1 as Cassirer's citation witness and Pott 1876 Band 2 as a comparison witness. Use `source/raw/008b-gs-vii-language-as-activity-and-objectivity-pdf-060-074.txt` for the current GS VII anchor range; use Pott's `source/normalized/008a-ergon-energeia-pdf-061-062.txt` only with explicit witness labeling. |
+| *Ueber die Verschiedenheit des menschlichen Sprachbaues...* (singular) | `sources/german/humboldt-verschiedenheit-sprachbau/` | Landed with GS VII/1 as Cassirer's citation witness and Pott 1876 Band 2 as a comparison witness. Use `source/raw/008b-gs-vii-language-as-activity-and-objectivity-pdf-060-074.txt` for the current GS VII anchor range; use Pott's `source/raw/003-007-band2-sections-03-07-runup-pdf-028-059.txt` as raw context for the Section 8 run-up and `source/normalized/008a-ergon-energeia-pdf-061-062.txt` only with explicit witness labeling. |
 | *Ueber die Verschiedenheiten des menschlichen Sprachbaues* (plural) | `sources/german/humboldt-verschiedenheiten-sprachbau-gs-vi1/` | Landed as a clearly marked GS VI/1 witness. Do not fold into the singular shelf. |
 | *Ueber den Dualis* | `sources/german/humboldt-verschiedenheiten-sprachbau-gs-vi1/` | Landed as a GS VI/1 support text with raw extract `source/raw/005-ueber-den-dualis-pdf-014-040.txt`. |
-| *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen...* | none yet | Pull as GS VI/1 support if deixis/pronoun/adverb pressure becomes active. |
+| *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen...* | `sources/german/humboldt-verschiedenheiten-sprachbau-gs-vi1/` | Landed as a GS VI/1 support text with raw extract `source/raw/020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt`. |
 | *Lettre à Monsieur Abel-Rémusat... langue Chinoise* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed as a GS V witness with raw extract `source/raw/010-lettre-a-abel-remusat-pdf-264-318.txt`. |
 | *Ueber den grammatischen Bau der Chinesischen Sprache* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed with the Abel-Rémusat letter as a GS V Chinese-grammar pair. Raw extract: `source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-334.txt`. |
 | *Grundzüge des allgemeinen Sprachtypus* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed from the same GS V witness. Raw extract: `source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt`. |
@@ -97,17 +97,20 @@ For the Cratylus / Ergon-Energeia / Humboldt comparison, the current shelves
 are enough to begin source-near work. The load-bearing Humboldt passage is the
 targeted section 8 working tranche in
 `sources/german/humboldt-verschiedenheit-sprachbau/source/normalized/008a-ergon-energeia-pdf-061-062.txt`.
+The Pott Band 2 run-up through Sections 3-7 is also available as raw context at
+`sources/german/humboldt-verschiedenheit-sprachbau/source/raw/003-007-band2-sections-03-07-runup-pdf-028-059.txt`,
+but it is not normalized.
 That passage can be pressed directly against Cratylus 388b-c
 (`onoma` as teaching instrument) and 389-390 (the natural lawgiver frame),
 without waiting for broader Humboldt intake.
 
-For fuller PSF I coverage, the main unlanded Humboldt support still named by
-the Schriftenregister is *Ueber die Verwandtschaft der Ortsadverbien mit dem
-Pronomen in einigen Sprachen*, which carries repeated chapter III citation
-pressure. The Wolf letter and *Ankuendigung einer Schrift ueber die Vaskische
-Sprache und Nation* remain smaller chapter I support targets. Cassirer's own
-*Die Kantischen Elemente in Wilhelm von Humboldts Sprachphilosophie* remains a
-separate Cassirer-Humboldt-Kant acquisition target, not a Humboldt-source gap.
+For fuller PSF I coverage, the last major multi-citation Humboldt support text
+has now landed: *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen in
+einigen Sprachen*. The Wolf letter and *Ankuendigung einer Schrift ueber die
+Vaskische Sprache und Nation* remain smaller chapter I support targets.
+Cassirer's own *Die Kantischen Elemente in Wilhelm von Humboldts
+Sprachphilosophie* remains a separate Cassirer-Humboldt-Kant acquisition target,
+not a Humboldt-source gap.
 
 ## Singular vs. Plural Guardrail
 
@@ -133,6 +136,8 @@ Cassirer names:
   `source/raw/008b-gs-vii-language-as-activity-and-objectivity-pdf-060-074.txt`
 - crosswalk:
   `source/pott-gs-vii-crosswalk.md`
+- Pott run-up context:
+  `source/raw/003-007-band2-sections-03-07-runup-pdf-028-059.txt`
 
 The GS VII/1 main text begins at PDF page 15 / printed page 1, and checked
 anchors support `pdf_page = printed_page + 14`. The Ergon/Energeia passage
@@ -142,7 +147,8 @@ is GS VII/1 pp. 46-47 / PDF pp. 60-61; the related objectivity and
 Pott Band 2 transmits the checked passages, but at different page numbers: for
 example, GS VII/1 pp. 46-47 corresponds to Pott pp. 55-56, and GS VII/1 p. 55
 corresponds to Pott p. 66. Do not route Cassirer's GS VII page references
-through Pott pagination.
+through Pott pagination. The Pott Sections 3-7 run-up is useful as argument
+context for Section 8, not as Cassirer pagination evidence.
 
 ## Kawi Bd. II Guardrail
 
@@ -161,10 +167,15 @@ The current local Kawi shelf is:
   - `source/raw/010-zweites-buch-ueber-die-kawi-sprache-pdf-042-246.txt`
   - `source/raw/011-kawi-book-opening-pdf-042-047.txt`
   - `source/normalized/011a-kawi-language-opening-pdf-044.txt`
+  - `source/raw/012-verbum-actuale-sein-pdf-122-124.txt`
+  - `source/normalized/012a-verbum-actuale-sein-pdf-122-124.txt`
   - `source/raw/023-feststellung-des-begriffs-des-kawi-pdf-231-246.txt`
   - `source/normalized/023a-feststellung-des-begriffs-des-kawi-opening-pdf-231-237.txt`
   - `source/normalized/020a-raumverba-praepositionen-pdf-207-209.txt`
   - `source/raw/020-drittes-buch-erster-abschnitt-stammverwandtschaft-pdf-248-336.txt`
+  - `source/raw/021-drittes-buch-stammverwandtschaft-method-opening-pdf-250-264.txt`
+  - `source/raw/022-drittes-buch-wortvergleichung-method-pdf-270-283.txt`
+  - `source/raw/024-drittes-buch-pronomen-und-zahlwort-pdf-316-336.txt`
   - `source/raw/030-drittes-buch-zweiter-abschnitt-westlicher-zweig-pdf-337-485.txt`
   - `source/normalized/030a-tagalisch-sa-ortsbegriff-pdf-402-403.txt`
 
@@ -214,11 +225,15 @@ Working implication:
 Local check on 2026-05-19 against
 `source/vol1-die-sprache/040-kapitel-iii-sprache-in-der-phase-des-anschaulichen-ausdrucks.txt`:
 Kawi paths below are relative to `sources/german/humboldt-kawi-sprache/`.
-For compactness, `raw/010`, `raw/020`, `raw/030`, `norm/020a`, and
-`norm/030a` name:
+For compactness, `raw/010`, `raw/020`, `raw/021`, `raw/022`, `raw/024`,
+`raw/030`, `norm/012a`, `norm/020a`, and `norm/030a` name:
 `source/raw/010-zweites-buch-ueber-die-kawi-sprache-pdf-042-246.txt`,
 `source/raw/020-drittes-buch-erster-abschnitt-stammverwandtschaft-pdf-248-336.txt`,
+`source/raw/021-drittes-buch-stammverwandtschaft-method-opening-pdf-250-264.txt`,
+`source/raw/022-drittes-buch-wortvergleichung-method-pdf-270-283.txt`,
+`source/raw/024-drittes-buch-pronomen-und-zahlwort-pdf-316-336.txt`,
 `source/raw/030-drittes-buch-zweiter-abschnitt-westlicher-zweig-pdf-337-485.txt`,
+`source/normalized/012a-verbum-actuale-sein-pdf-122-124.txt`,
 `source/normalized/020a-raumverba-praepositionen-pdf-207-209.txt`, and
 `source/normalized/030a-tagalisch-sa-ortsbegriff-pdf-402-403.txt`.
 
@@ -227,9 +242,9 @@ For compactness, `raw/010`, `raw/020`, `raw/030`, `norm/020a`, and
 | lines 190-218 / PSF pp. 152-153 | Demonstratives and spatial near/far deixis | Kawi, p. 153 | `raw/010` | Kawi enters the chapter at the point where pointing becomes a spiritual/structuring act, not mere natural sound. |
 | lines 611-636 / PSF pp. 163-164 | Space-verbs and the shift from static spatial substance to action/relation | Kawi, pp. 164 ff., 341 | `norm/020a` and `norm/030a` | This is the strongest chapter III bridge to the Ergon/Energeia pressure: spatial relations become "fluid" when carried by verbs rather than substantives. |
 | lines 1011-1047 / PSF p. 174 | Time-expression and the limits of verb-centered temporality | Kawi, p. 286 | `raw/020` | Cassirer uses the Kawi volume to show that temporal relation may attach to nominal forms; time is not already identical with the modern finite verb. |
-| lines 1768-1777, 2108-2124, 2397-2405 / PSF pp. 193, 202, 209 | Numeratives, inclusive/exclusive plural, and verbal plurality | Kawi, pp. 269 ff., 317, 376 ff., 39 | `raw/020` and `raw/030` | Number remains qualitative, group-like, person-bound, or action-bound before it becomes homogeneous mathematical plurality. |
+| lines 1768-1777, 2108-2124, 2397-2405 / PSF pp. 193, 202, 209 | Numeratives, inclusive/exclusive plural, and verbal plurality | Kawi, pp. 269 ff., 317, 376 ff., 39 | `raw/024`, `raw/020`, and `raw/030` | Number remains qualitative, group-like, person-bound, or action-bound before it becomes homogeneous mathematical plurality. The pp. 269 ff. region now has a targeted raw route. |
 | lines 2768-2833 and 2908-2917 / PSF pp. 216, 220 | Passive, nominalized verbal forms, and causal verb formation | Kawi, pp. 80, 85, 143 | `raw/010` | The Malay/Tagalog material helps Cassirer avoid a simple active/passive binary; "voice" is mediated by nominal and relational forms. |
-| lines 3557-3584, 3861-3863, 3897-3933 / PSF pp. 239, 246, 248 | Blurred noun/verb boundary and Humboldt's "actuale Sein" of the verb | Kawi, pp. 81, 129 ff., 287; pp. 80, 350 f., 397; p. 79 f. | `raw/010`, `raw/020`, `raw/030` | Cassirer presses Kawi into the Ich/person chapter: the verb is not a self-sufficient thing but becomes actual only with person, time, and determinate case. |
+| lines 3557-3584, 3861-3863, 3897-3933 / PSF pp. 239, 246, 248 | Blurred noun/verb boundary and Humboldt's "actuale Sein" of the verb | Kawi, pp. 81, 129 ff., 287; pp. 80, 350 f., 397; p. 79 f. | `norm/012a`, `raw/020`, `raw/030` | Cassirer presses Kawi into the Ich/person chapter: the verb is not a self-sufficient thing but becomes actual only with person, time, and determinate case. The pp. 79-81 locus is now normalized. |
 
 Guardrail: the incorporation / Satzwort passage at lines 3748-3818 is
 Humboldt-heavy, but Cassirer cites the singular *Verschiedenheit*, pp. 144 f.,
@@ -238,12 +253,15 @@ Kawi volume unless a separate source check shows the same material there.
 
 Result: the current Kawi shelf is sufficient for chapter III mapping at rough
 page level, and it now has normalized support for the Kawi opening, the opening
-movement of §23, and the strongest exact PSF III space-verb locus. The other
-PSF III citation loci in the table above remain raw unless otherwise noted. The
-next normalization should be chosen from one of those concrete loci, not from a
-bulk Kawi pass. If chapter III deixis/person pressure becomes the next focus,
-the unlanded Humboldt source to pull is still *Ueber die Verwandtschaft der
-Ortsadverbien mit dem Pronomen*, not more Kawi intake.
+movement of §23, the strongest exact PSF I chapter III space-verb locus, and
+the pp. 79-81 `actuale Sein` verb locus. The Drittes Buch first-section
+pressure now has targeted raw routes for the Stammverwandtschaft method frame,
+word-comparison apparatus, and pronoun/number-word comparison. The other PSF I
+chapter III citation loci in the table above remain raw unless otherwise noted.
+The next normalization should be chosen from one of those concrete loci, not
+from a bulk Kawi pass. If chapter III deixis/person pressure becomes the next
+focus, the *Ortsadverbien* GS VI/1 raw extract is now available as the
+companion Humboldt support surface.
 
 ## Cassirer's 1923 Humboldt Essay
 
@@ -271,8 +289,10 @@ Festschrift original remains preferable for citation-critical collation.
    close-reading use requires it; otherwise keep the Kawi shelf at mapped raw
    page level.
 2. For singular *Verschiedenheit* references, use the landed GS VII/1 witness
-   first; normalize exact passages only when a concrete quotation or
-   close-reading use requires it.
-3. If Kant/Humboldt pressure strengthens, begin from the landed ECW 16 raw
+   first. If the Cratylus / Ergon-Energeia comparison deepens, normalize only
+   exact passages from the landed Pott Sections 3-7 run-up.
+3. If pronoun/deixis pressure becomes active, start from the landed GS VI/1
+   *Ortsadverbien* raw extract and normalize exact passages only when needed.
+4. If Kant/Humboldt pressure strengthens, begin from the landed ECW 16 raw
    extract of Cassirer's *Kantischen Elemente* essay and normalize only the
    exact passages being used.

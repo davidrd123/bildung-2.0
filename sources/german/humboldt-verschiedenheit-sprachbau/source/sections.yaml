@@ -1,6 +1,6 @@
 work: "Ueber die Verschiedenheit des menschlichen Sprachbaues und ihren Einfluss auf die geistige Entwickelung des Menschengeschlechts"
 primary_witness: "ia-1876-pott-band2"
-status: "raw_section_extracts_with_targeted_theoretical_tranche"
+status: "raw_section_extracts_with_runup_and_targeted_theoretical_tranche"
 
 sections:
   - id: "band2-section-01"
@@ -24,6 +24,45 @@ sections:
     raw_extract: null
     normalized_extract: null
     status: "mapped_start_only"
+  - id: "band2-sections-03-07-runup"
+    witness_id: "ia-1876-pott-band2"
+    label: "Sections 3-7: Run-up from general development to language"
+    pdf_pages: "28-59"
+    jp2_leaf_indexes: "0028-0059"
+    printed_pages: "22-53"
+    raw_extract: "source/raw/003-007-band2-sections-03-07-runup-pdf-028-059.txt"
+    normalized_extract: null
+    status: "raw_pdf_text_layer"
+    section_boundaries:
+      - section: 3
+        pdf_page: 28
+        jp2_leaf: "0028"
+        printed_page: "22"
+        note: "Starts mid-page after the tail of Section 2; PDF text renders the section sign noisily."
+      - section: 4
+        pdf_page: 33
+        jp2_leaf: "0033"
+        printed_page: "27"
+        note: "Starts mid-page after the close of Section 3."
+      - section: 5
+        pdf_page: 45
+        jp2_leaf: "0045"
+        printed_page: "39"
+        note: "Starts on the page headed Zusammenwirken der Individuen und Nationen."
+      - section: 6
+        pdf_page: 50
+        jp2_leaf: "0050"
+        printed_page: "44"
+        note: "Starts near the bottom of printed page 44."
+      - section: 7
+        pdf_page: 57
+        jp2_leaf: "0057"
+        printed_page: "51"
+        note: "Starts on the page headed Uebergang zur naeheren Betrachtung der Sprache."
+    notes:
+      - "Page-aligned extract includes the tail of Section 2 before the Section 3 opening on printed page 22."
+      - "The extract stops before Section 8, which begins at PDF/JP2 60 / printed page 54."
+      - "Use this as raw run-up context for the Section 8 Ergon/Energeia tranche, not as a quotation-ready text."
   - id: "band2-section-08"
     witness_id: "ia-1876-pott-band2"
     label: "Section 8: Form der Sprachen"

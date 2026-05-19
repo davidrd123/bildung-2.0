@@ -35,6 +35,13 @@ known_alignments:
     tif_image: berdiekawisprac01buscgoog_0044.tif
     printed_page: 1
     note: "Kawi-Sprache section 1 begins."
+  - label: verbum-actuale-sein
+    pdf_pages: 122-124
+    tif_images: berdiekawisprac01buscgoog_0122.tif-berdiekawisprac01buscgoog_0124.tif
+    printed_pages: "79-81"
+    raw_extract: source/raw/012-verbum-actuale-sein-pdf-122-124.txt
+    normalized_extract: source/normalized/012a-verbum-actuale-sein-pdf-122-124.txt
+    note: "Section 11 passage on Verbum, actuale Sein, and active/passive nominal-form pressure."
   - label: feststellung-des-begriffs-des-kawi-opening
     pdf_page: 231
     tif_image: berdiekawisprac01buscgoog_0231.tif
@@ -55,6 +62,24 @@ known_alignments:
     tif_image: berdiekawisprac01buscgoog_0250.tif
     printed_page: 207
     note: "Erster Abschnitt: Stammverwandtschaft der Malayischen Sprachen."
+  - label: drittes-buch-stammverwandtschaft-method-opening
+    pdf_pages: 250-264
+    tif_images: berdiekawisprac01buscgoog_0250.tif-berdiekawisprac01buscgoog_0264.tif
+    printed_pages: "207-221"
+    raw_extract: source/raw/021-drittes-buch-stammverwandtschaft-method-opening-pdf-250-264.txt
+    note: "Targeted raw tranche for the section opening and the method/form frame around Stammverwandtschaft."
+  - label: drittes-buch-wortvergleichung-method
+    pdf_pages: 270-283
+    tif_images: berdiekawisprac01buscgoog_0270.tif-berdiekawisprac01buscgoog_0283.tif
+    printed_pages: "227-240"
+    raw_extract: source/raw/022-drittes-buch-wortvergleichung-method-pdf-270-283.txt
+    note: "Targeted raw tranche for word-comparison method and Buschmann's comparative apparatus."
+  - label: drittes-buch-pronomen-und-zahlwort
+    pdf_pages: 316-336
+    tif_images: berdiekawisprac01buscgoog_0316.tif-berdiekawisprac01buscgoog_0336.tif
+    printed_pages: "257-274"
+    raw_extract: source/raw/024-drittes-buch-pronomen-und-zahlwort-pdf-316-336.txt
+    note: "Targeted raw tranche for pronoun agreement and number-word comparison in the first Drittes Buch section."
   - label: drittes-buch-zweiter-abschnitt-opening
     pdf_page: 337
     tif_image: berdiekawisprac01buscgoog_0337.tif
@@ -95,6 +120,7 @@ ranges:
     raw_extract: source/raw/010-zweites-buch-ueber-die-kawi-sprache-pdf-042-246.txt
     targeted_extracts:
       - source/raw/011-kawi-book-opening-pdf-042-047.txt
+      - source/raw/012-verbum-actuale-sein-pdf-122-124.txt
       - source/raw/023-feststellung-des-begriffs-des-kawi-pdf-231-246.txt
     status: raw_pdf_text_layer
   - id: drittes-buch-erster-abschnitt
@@ -103,6 +129,10 @@ ranges:
     tif_images: 0248-0336
     printed_pages: 207-293
     raw_extract: source/raw/020-drittes-buch-erster-abschnitt-stammverwandtschaft-pdf-248-336.txt
+    targeted_extracts:
+      - source/raw/021-drittes-buch-stammverwandtschaft-method-opening-pdf-250-264.txt
+      - source/raw/022-drittes-buch-wortvergleichung-method-pdf-270-283.txt
+      - source/raw/024-drittes-buch-pronomen-und-zahlwort-pdf-316-336.txt
     status: raw_pdf_text_layer
   - id: drittes-buch-zweiter-abschnitt
     label: Drittes Buch - Zweiter Abschnitt - westlicher Zweig

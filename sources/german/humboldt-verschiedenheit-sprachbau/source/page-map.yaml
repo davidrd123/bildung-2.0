@@ -8,7 +8,7 @@ source:
   page_images_jp2: "source/page-images/jp2/"
   pdf_pages: 436
   jp2_files: 438
-  status: "volume2_landed_raw_extracts_with_targeted_theoretical_tranche"
+  status: "volume2_landed_raw_extracts_with_runup_and_targeted_theoretical_tranche"
   coverage_note: "Band I contains title matter and A. F. Pott's introduction through printed page CCCCXXI; Humboldt's main Sprachbau text is not present as running body text in the checked range."
   volumes:
     - id: "ia-1876-pott-band1"
@@ -220,6 +220,41 @@ volume2:
       printed_page: "19"
       content: "Section 2 opening, Allgemeine Betrachtung des menschlichen Entwickelungsganges."
       trust: "high"
+    - id: "volume2-section-03-opening"
+      jp2_leaf: 28
+      pdf_page: 28
+      printed_page: "22"
+      content: "Section 3 opening after the tail of Section 2; PDF text layer renders the section sign noisily."
+      raw_extract: "source/raw/003-007-band2-sections-03-07-runup-pdf-028-059.txt"
+      trust: "high"
+    - id: "volume2-section-04-opening"
+      jp2_leaf: 33
+      pdf_page: 33
+      printed_page: "27"
+      content: "Section 4 opening after the close of Section 3."
+      raw_extract: "source/raw/003-007-band2-sections-03-07-runup-pdf-028-059.txt"
+      trust: "high"
+    - id: "volume2-section-05-opening"
+      jp2_leaf: 45
+      pdf_page: 45
+      printed_page: "39"
+      content: "Section 5 opening, Zusammenwirken der Individuen und Nationen."
+      raw_extract: "source/raw/003-007-band2-sections-03-07-runup-pdf-028-059.txt"
+      trust: "high"
+    - id: "volume2-section-06-opening"
+      jp2_leaf: 50
+      pdf_page: 50
+      printed_page: "44"
+      content: "Section 6 opening within Zusammenwirken der Individuen und Nationen."
+      raw_extract: "source/raw/003-007-band2-sections-03-07-runup-pdf-028-059.txt"
+      trust: "high"
+    - id: "volume2-section-07-opening"
+      jp2_leaf: 57
+      pdf_page: 57
+      printed_page: "51"
+      content: "Section 7 opening, Uebergang zur naeheren Betrachtung der Sprache."
+      raw_extract: "source/raw/003-007-band2-sections-03-07-runup-pdf-028-059.txt"
+      trust: "high"
     - id: "volume2-ergon-energeia"
       jp2_leaf: 62
       pdf_page: 62
@@ -260,6 +295,15 @@ volume2:
       raw_extract: "source/raw/001-band2-section-01-malayischer-stamm-pdf-007-024.txt"
       status: "raw_pdf_text_layer"
       trust: "high"
+    - id: "volume2-sections-03-07-runup"
+      jp2_leaf_indexes: "0028-0059"
+      pdf_pages: "28-59"
+      printed_pages: "22-53"
+      content: "Sections 3-7, the run-up from general human development to the nearer consideration of language."
+      raw_extract: "source/raw/003-007-band2-sections-03-07-runup-pdf-028-059.txt"
+      status: "raw_pdf_text_layer"
+      trust: "high"
+      note: "Page-aligned range begins with the tail of Section 2 because Section 3 opens mid-page on PDF/JP2 28 / printed page 22."
     - id: "volume2-section-08"
       jp2_leaf_indexes: "0060-0068"
       pdf_pages: "60-68"
@@ -352,6 +396,7 @@ notes:
   - "Band I should not be used as the primary Humboldt text witness until the companion volume is located and checked."
   - "Volume 2 original JP2 page images landed from /Users/daviddickinson/Downloads/berdieverschiede02humb_orig_jp2.tar."
   - "First raw Humboldt extract promoted from Volume 2 PDF pages 7-24; leave unnormalized until page-image/HOCR checks are made."
+  - "Sections 3-7 run-up raw extract promoted from Volume 2 PDF pages 28-59 / printed pages 22-53; Section 3 starts mid-page, so the raw page-aligned extract includes the tail of Section 2."
   - "Section 8 raw extract promoted from Volume 2 PDF pages 60-68 because it contains the Form der Sprachen and Ergon/Energeia passage."
   - "A smaller Ergon/Energeia raw tranche now covers Volume 2 PDF pages 61-62 / printed pages 55-56."
   - "GS VII/1 Google Books witness landed from ~/Downloads for Cassirer's singular Sprachbau citations; main text uses pdf_page = printed_page + 14."

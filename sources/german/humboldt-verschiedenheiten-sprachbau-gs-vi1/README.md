@@ -1,4 +1,4 @@
-# Humboldt - GS VI/1: *Dualis* and Plural *Verschiedenheiten*
+# Humboldt - GS VI/1: *Dualis*, Plural *Verschiedenheiten*, and *Ortsadverbien*
 
 Wilhelm von Humboldt, *Gesammelte Schriften*, Band VI, Erste Abteilung:
 *Werke VI*, Erste Haelfte, edited by Albert Leitzmann. Berlin: B. Behr's
@@ -11,6 +11,8 @@ Cassirer cites in PSF I, currently:
 
 - *Ueber den Dualis*
 - *Ueber die Verschiedenheiten des menschlichen Sprachbaues*
+- *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen in einigen
+  Sprachen*
 
 This shelf exists to keep the plural *Verschiedenheiten* essay separate from
 the singular *Ueber die Verschiedenheit des menschlichen Sprachbaues* shelf at
@@ -60,6 +62,7 @@ Tracked raw extracts:
 
 - `source/raw/005-ueber-den-dualis-pdf-014-040.txt`
 - `source/raw/010-ueber-die-verschiedenheiten-pdf-121-313.txt`
+- `source/raw/020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt`
 
 The Dualis raw extract covers PDF pages 14-40, corresponding to printed pages
 4-30. PDF page 41 opens the Sanskrit word-separation memoir, confirming the
@@ -70,6 +73,11 @@ The plural *Verschiedenheiten* raw extract covers PDF pages 121-313,
 corresponding to the plural essay opening through the page before *Ueber die
 Verwandtschaft der Ortsadverbien mit dem Pronomen in einigen Sprachen* begins.
 Printed pages are 111-303.
+
+The *Ortsadverbien* raw extract covers PDF pages 314-340, corresponding to
+printed pages 304-330. PDF page 341 opens Leitzmann's
+*Bemerkungen zur Entstehungsgeschichte der einzelnen Aufsaetze*, confirming the
+right boundary.
 
 The raw text is OCR/PDF-derived and uncorrected. Use page images and hOCR
 before quoting or normalizing.
@@ -83,6 +91,9 @@ before quoting or normalizing.
   pp. 168, 196 f., 206, and 213.
 - The shelf supports Cassirer's PSF I citations to the plural essay at PSF I
   pp. 100 f., 206, and 257.
+- The shelf supports Cassirer's PSF I citations to *Ueber die Verwandtschaft
+  der Ortsadverbien mit dem Pronomen in einigen Sprachen* at PSF I pp. 153,
+  164, 166, 213, 216, and 225.
 
 ## Structure
 
@@ -104,7 +115,7 @@ scripts/
 ## Next Honest Moves
 
 1. Use this shelf for the GS VI/1 texts Cassirer actually cites: Dualis,
-   plural *Verschiedenheiten*, and later possibly the Ortsadverbien essay.
+   plural *Verschiedenheiten*, and *Ortsadverbien*.
 2. Check raw extracts against JP2/hOCR before any quotation, translation, or
    synthesis.
 3. Pull smaller targeted tranches only when Cassirer's PSF I page pressure

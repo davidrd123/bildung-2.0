@@ -1,7 +1,7 @@
 source:
   work_id: humboldt-verschiedenheiten-sprachbau-gs-vi1
   primary_witness: ia-1907-gs-vi1
-  status: initial_plural_essay_map
+  status: initial_gs_vi1_psf_i_humboldt_support_map
   pdf_pages: 350
   image_pages:
     format: jp2
@@ -54,7 +54,18 @@ known_alignments:
     pdf_page: 314
     page_number_json_leaf_num: 326
     printed_page: "304"
+    raw_extract: source/raw/020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt
     note: "Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen opens."
+  - label: ortsadverbien-close
+    pdf_page: 340
+    page_number_json_leaf_num: 352
+    printed_page: "330"
+    raw_extract: source/raw/020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt
+    note: "Last page of the Ortsadverbien essay."
+  - label: entstehungsgeschichte-opening
+    pdf_page: 341
+    printed_page: null
+    note: "Leitzmann's Bemerkungen zur Entstehungsgeschichte der einzelnen Aufsaetze begins; confirms the Ortsadverbien right boundary."
 
 ranges:
   - id: full-volume
@@ -81,4 +92,15 @@ ranges:
     status: raw_pdf_text_layer
     notes:
       - "Bounded against PDF page 314, where the Ortsadverbien essay begins."
+      - "Raw extract is not normalized; check page images/hOCR before quotation."
+  - id: ueber-die-verwandtschaft-ortsadverbien-pronomen
+    label: "Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen in einigen Sprachen"
+    pdf_pages: "314-340"
+    page_number_json_leaf_nums: "326-352"
+    printed_pages: "304-330"
+    raw_extract: source/raw/020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt
+    status: raw_pdf_text_layer
+    notes:
+      - "Cassirer cites this GS VI/1 support text at PSF I pp. 153, 164, 166, 213, 216, and 225."
+      - "Bounded against PDF page 341, where Leitzmann's Entstehungsgeschichte notes begin."
       - "Raw extract is not normalized; check page images/hOCR before quotation."

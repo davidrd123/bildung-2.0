@@ -60,6 +60,18 @@ witnesses:
         path: source/raw/020-drittes-buch-erster-abschnitt-stammverwandtschaft-pdf-248-336.txt
         pdf_pages: 248-336
         printed_pages: 207-293
+      - id: drittes-buch-stammverwandtschaft-method-opening
+        path: source/raw/021-drittes-buch-stammverwandtschaft-method-opening-pdf-250-264.txt
+        pdf_pages: 250-264
+        printed_pages: 207-221
+      - id: drittes-buch-wortvergleichung-method
+        path: source/raw/022-drittes-buch-wortvergleichung-method-pdf-270-283.txt
+        pdf_pages: 270-283
+        printed_pages: 227-240
+      - id: drittes-buch-pronomen-und-zahlwort
+        path: source/raw/024-drittes-buch-pronomen-und-zahlwort-pdf-316-336.txt
+        pdf_pages: 316-336
+        printed_pages: 257-274
       - id: drittes-buch-zweiter-abschnitt
         path: source/raw/030-drittes-buch-zweiter-abschnitt-westlicher-zweig-pdf-337-485.txt
         pdf_pages: 337-485

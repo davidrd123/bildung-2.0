@@ -120,6 +120,17 @@ First raw extract promoted:
 - printed pages: `1-18`
 - status: raw, unnormalized
 
+Run-up raw extract promoted:
+
+- `source/raw/003-007-band2-sections-03-07-runup-pdf-028-059.txt`
+- witness: Volume 2 PDF text layer
+- PDF/JP2 leaves: `0028-0059`
+- printed pages: `22-53`
+- status: raw, unnormalized
+- note: page-aligned extract for Sections 3-7. Section 3 starts mid-page on
+  PDF/JP2 `0028` after the tail of Section 2; Section 8 begins immediately
+  after the extract at PDF/JP2 `0060`, printed page `54`.
+
 Second raw extract promoted for the core theoretical passage:
 
 - `source/raw/008-band2-section-08-form-der-sprachen-pdf-060-068.txt`
@@ -179,8 +190,9 @@ scripts/
    VII/1 citation witness and normalize only the exact passage needed.
 2. Keep Pott Band I as reception/apparatus material unless a bounded check
    proves a specific Humboldt-text use.
-3. Keep Pott Band 2 as a comparison witness; do not translate Pott page
-   numbers into GS VII page numbers without a fresh crosscheck.
+3. Keep Pott Band 2 as a comparison witness; its Sections 3-7 run-up is now
+   available as raw context, but do not translate Pott page numbers into GS VII
+   page numbers without a fresh crosscheck.
 4. Check the targeted `Ergon` / `Energeia` working tranche against page images
    before quotation-critical use.
 5. Extract or split more text only at pressure points earned by source-near

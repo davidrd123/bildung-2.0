@@ -90,11 +90,16 @@ Tracked raw splits:
 Tracked targeted raw tranches:
 
 - `source/raw/011-kawi-book-opening-pdf-042-047.txt`
+- `source/raw/012-verbum-actuale-sein-pdf-122-124.txt`
+- `source/raw/021-drittes-buch-stammverwandtschaft-method-opening-pdf-250-264.txt`
+- `source/raw/022-drittes-buch-wortvergleichung-method-pdf-270-283.txt`
 - `source/raw/023-feststellung-des-begriffs-des-kawi-pdf-231-246.txt`
+- `source/raw/024-drittes-buch-pronomen-und-zahlwort-pdf-316-336.txt`
 
 Tracked normalized working excerpts:
 
 - `source/normalized/011a-kawi-language-opening-pdf-044.txt`
+- `source/normalized/012a-verbum-actuale-sein-pdf-122-124.txt`
 - `source/normalized/023a-feststellung-des-begriffs-des-kawi-opening-pdf-231-237.txt`
 - `source/normalized/020a-raumverba-praepositionen-pdf-207-209.txt`
 - `source/normalized/030a-tagalisch-sa-ortsbegriff-pdf-402-403.txt`
@@ -123,8 +128,11 @@ scripts/
 
 1. Use this shelf as the Kawi Vol. II source, not the Pott
    *Verschiedenheit* shelf.
-2. Use the two targeted raw tranches as the first local Kawi working surfaces:
-   the Kawi opening and the `Feststellung des Begriffs des Kawi` close.
+2. Use the targeted raw and normalized tranches as local Kawi working
+   surfaces: the Kawi opening, the `actuale Sein` verb passage, the
+   Drittes Buch Stammverwandtschaft method and comparison passages, the
+   `Raumverba`/preposition passage, the `Feststellung des Begriffs des Kawi`
+   close, and the Tagalog `sa` place-concept passage.
 3. Check Cassirer PSF I references against this volume before writing
    stronger claims about exact page pressure.
 4. Normalize only the local tranche needed for a Cassirer/Humboldt move.

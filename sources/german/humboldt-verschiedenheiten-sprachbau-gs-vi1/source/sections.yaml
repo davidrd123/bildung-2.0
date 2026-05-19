@@ -1,5 +1,5 @@
 primary_witness: ia-1907-gs-vi1
-status: initial_dualis_and_plural_extracts
+status: initial_dualis_plural_and_ortsadverbien_extracts
 
 sections:
   - id: ueber-den-dualis
@@ -28,3 +28,16 @@ sections:
       - "This is the plural essay cited by Cassirer at PSF I pp. 100 f., 206, and 257."
       - "Do not collapse with the singular Verschiedenheit shelf."
       - "PDF page 314 begins the Ortsadverbien essay, confirming the right boundary."
+  - id: ueber-die-verwandtschaft-ortsadverbien-pronomen
+    witness_id: ia-1907-gs-vi1
+    label: "Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen in einigen Sprachen"
+    pdf_pages: "314-340"
+    page_number_json_leaf_nums: "326-352"
+    printed_pages: "304-330"
+    raw_extract: source/raw/020-ueber-die-verwandtschaft-ortsadverbien-pronomen-pdf-314-340.txt
+    normalized_extract: null
+    status: raw_pdf_text_layer
+    notes:
+      - "Cited by Cassirer at PSF I pp. 153, 164, 166, 213, 216, and 225."
+      - "This is the highest-density remaining GS VI/1 Humboldt support text for PSF I chapter III deixis/pronoun pressure."
+      - "PDF page 341 opens Leitzmann's Bemerkungen zur Entstehungsgeschichte, confirming the right boundary."

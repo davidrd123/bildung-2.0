@@ -24,6 +24,14 @@ sections:
         raw_extract: source/raw/011-kawi-book-opening-pdf-042-047.txt
         normalized_extract: source/normalized/011a-kawi-language-opening-pdf-044.txt
         status: raw_with_working_normalized_excerpt
+      - id: verbum-actuale-sein
+        label: Section 11 - Verbum and actuale Sein
+        pdf_pages: 122-124
+        tif_images: 0122-0124
+        printed_pages: 79-81
+        raw_extract: source/raw/012-verbum-actuale-sein-pdf-122-124.txt
+        normalized_extract: source/normalized/012a-verbum-actuale-sein-pdf-122-124.txt
+        status: raw_with_working_normalized_excerpt
       - id: raumverba-praepositionen
         label: Section 20 - movement verbs as prepositions
         pdf_pages: 207-209
@@ -51,6 +59,28 @@ sections:
     tif_images: 0248-0336
     printed_pages: 207-293
     raw_extract: source/raw/020-drittes-buch-erster-abschnitt-stammverwandtschaft-pdf-248-336.txt
+    targeted_extracts:
+      - id: stammverwandtschaft-method-opening
+        label: Section opening, Stammverwandtschaft, and method/form frame
+        pdf_pages: 250-264
+        tif_images: 0250-0264
+        printed_pages: 207-221
+        raw_extract: source/raw/021-drittes-buch-stammverwandtschaft-method-opening-pdf-250-264.txt
+        status: raw_pdf_text_layer
+      - id: wortvergleichung-method
+        label: Word-comparison method and Buschmann apparatus
+        pdf_pages: 270-283
+        tif_images: 0270-0283
+        printed_pages: 227-240
+        raw_extract: source/raw/022-drittes-buch-wortvergleichung-method-pdf-270-283.txt
+        status: raw_pdf_text_layer
+      - id: pronomen-und-zahlwort
+        label: Pronoun agreement and number-word comparison
+        pdf_pages: 316-336
+        tif_images: 0316-0336
+        printed_pages: 257-274
+        raw_extract: source/raw/024-drittes-buch-pronomen-und-zahlwort-pdf-316-336.txt
+        status: raw_pdf_text_layer
     status: raw_pdf_text_layer
 
   - id: drittes-buch-zweiter-abschnitt-westlicher-zweig

@@ -9,6 +9,10 @@ Current working tranches:
 
 - `011a-kawi-language-opening-pdf-044.txt` - opening page of the Kawi book,
   checked against the PDF text layer, HOCR search text, and TIF page OCR.
+- `012a-verbum-actuale-sein-pdf-122-124.txt` - section 11 passage on the
+  verb's `actuale Sein`, the weakness of bare verbal marking in Malajischen
+  languages, and the active/passive nominal-form issue, checked against the
+  PDF text layer, HOCR search text, and TIF page OCR.
 - `023a-feststellung-des-begriffs-des-kawi-opening-pdf-231-237.txt` - opening
   movement of §23, checked against the PDF text layer, HOCR search text, and
   TIF page OCR.
