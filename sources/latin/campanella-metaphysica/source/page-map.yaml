@@ -581,6 +581,81 @@ anchors:
       normalization, ending before Caput III on Platonic arguments for
       immortality. Several local readings remain bracketed in the part file.
 
+  - id: "campanella-part-iii-003-platonic-immortality"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; opens Caput III on Platonic arguments for the immortality of souls."
+    location:
+      jp2_leaf: 795
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0795.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput III, Articulus I"
+      raw_extract: "source/raw/leaf-0795-part-iii-anima-cap-iii-opening-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0795-part-iii-anima-cap-iii-opening-abbyy.normalized.txt"
+      part: "parts/part-iii-003-leaf-0795-cap-iii-platonic-immortality.md"
+    latin_signal_phrases:
+      - "Rationes Platonicae pro immortalitate animorum examinantur"
+      - "anima est numerus seipsum movens"
+      - "anima est antiquior corpore"
+      - "a se tergo independens"
+    content_note: |
+      The corrected specimen starts at the visible Caput III heading after
+      the top leaf blocks that close Caput II. It presents the Stoic
+      particle-of-God problem, Plato's self-moving-number and soul-before-body
+      arguments, and Campanella's first criticisms before continuing the
+      evaluation onto leaf 796.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated. The top two body blocks on leaf 0795 belong to the prior part; `a se tergo independens` remains marked as damaged in the part file."
+
+  - id: "campanella-part-iii-004-bernard-cicero-aristotle"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; finishes the Platonic article, opens Bernard/Cicero, and lays out the Aristotelian doxography."
+    location:
+      jp2_leaf: 796
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0796.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput III, Articuli II-III"
+      raw_extract: "source/raw/leaf-0796-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0796-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-004-leaf-0796-bernard-cicero-aristotle.md"
+    latin_signal_phrases:
+      - "Rationes Bernardi et Ciceronis"
+      - "Sententia Aristotelicorum varia"
+      - "Averroes, Avicenna, et Alexander"
+      - "intelligere autem est quoddam pati"
+      - "intellectus cognoscit quidditatem"
+    content_note: |
+      The corrected specimen preserves the transition from Platonic reasons
+      to Bernard and Cicero, then gives the Aristotelian machinery in full:
+      act/form, separated intellect, one intellect, active/passive potency,
+      organless operation, quiddity, universals, and vehement intelligibles.
+      This is the setup for Campanella's anti-agent-intellect reply on the
+      following leaf.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated. Marginalia `In Cant.` and `In Tusc.` are treated as citation loci, and a repeated title fragment is bracketed in the part file."
+
+  - id: "campanella-part-iii-005-sense-and-intellect-not-divided"
+    status: "opened"
+    purpose: "Review-clean Part III page-order unit from Liber XIV; gives Campanella's reply that sense and intellect are not divided powers."
+    location:
+      jp2_leaf: 797
+      jp2_file: "source/page-images/jp2/thomcampanellsty00camp_0797.jp2"
+      printed_page: null
+      section: "Pars III, Liber XIV, Caput III, Articulus III"
+      raw_extract: "source/raw/leaf-0797-part-iii-sequential-abbyy.txt"
+      normalized_extract: "source/normalized/leaf-0797-part-iii-sequential-abbyy.normalized.txt"
+      part: "parts/part-iii-005-leaf-0797-sense-and-intellect-not-divided.md"
+    latin_signal_phrases:
+      - "intellectum quem Aristoteles cognovit, non differre a sensu"
+      - "quae intelligimus sunt quae sentimus"
+      - "Sensus quoque quidditatem cognoscit"
+      - "Intelligere enim est intus legere"
+      - "non esse oculum, qui videt, neque linguam, quae gustat, sed spiritum"
+    content_note: |
+      The corrected specimen gives the full leaf-level reply instead of the
+      earlier digest. Campanella argues that the same sensing power handles
+      particulars and universals, that memory and reminiscence are forms of
+      sense, that reason senses the unknown in known things, and that
+      understanding is inward reading by the same soul that senses outwardly.
+    caveat: "Review-clean working transcription/translation from ABBYY extraction; printed page not yet collated. The damaged continuation opener and `iaculum rationis[?]` remain marked in the part file."
+
   - id: "campanella-part-iii-006-agent-intellect-refuted"
     status: "opened"
     purpose: "Review-clean Part III page-order unit from Liber XIV; preserves the anti-agent-intellect argument and the physical mediation of sense."
