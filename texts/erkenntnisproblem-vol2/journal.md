@@ -2194,3 +2194,196 @@ Verification result:
 
 - PDF pages `283-294` were checked against scan/Tesseract output on `_0283`, `_0284`, `_0285`, `_0286`, `_0287`, `_0288`, `_0289`, `_0290`, `_0291`, `_0292`, `_0293`, and `_0294`; `_0295` was checked to confirm the next chapter boundary at `Zweites Kapitel. Berkeley.`
 - The review corrected OCR residue around `Substanzbegriffs`, `Der Begriff des Seins`, `Selbstauflösung`, `Bewußtsein`, `endgültige`, `Realität`, `äußeren`, `Zuständlichkeiten`, `Aufeinanderfolge`, `sine re substante`, `idolon fori`, `bewahrt`, `unanalysierbaren`, `Träger`, `solidity`, `chief`, `empirisches`, `adäquates`, `geistigen Naturen`, `Substanzbegriff`, `oberflächlichen Vorstellungen`, `unserer subjektiven Fähigkeiten`, `Mangel der Lockeschen Fragestellung`, `zutage`, `Vorstellungsreste`, `einfache`, `Relation`, `Archetyp`, `their archetypes`, `ursprünglichen Definitionen`, `zusammenstimmen`, `Erkenntnismitteln`, `physikalische`, and `metaphysischen Transzendenz`.
+
+## 2026-05-16 - Berkeley, Perception, Vision, And Suggestion
+
+Created `parts/052-berkeley-perception-vision-and-suggestion.md` from PDF pages `295-304` / printed pages `275-284 partial`, beginning with `Zweites Kapitel. Berkeley.` and section `I. Die Theorie der Wahrnehmung`, and stopping before section `II. Die Begründung des Idealismus.`
+
+What this tranche clarified:
+
+- Berkeley opens as the direct test of the Locke chapter close.
+- Locke left the external world as a condition and origin of experience rather than a product of experience. Berkeley turns that leftover into the first problem of empirical psychology: the external object must be derived as a result of a necessary psychological process.
+- Sight supplies only light and color, not distance, external things, or spatial articulation. Space and distance belong to the finished representation-world, but they are not immediately perceived.
+- Berkeley first follows Descartes and Malebranche in treating sensations as signs rather than copies, but he rejects their unconscious geometry because it does not belong to consciousness itself.
+- The Molyneux case supplies the decisive test: visible and tangible contents have no inner similarity, so their relation is learned through experience, association, habit, and custom.
+- Berkeley's term `suggested` names the section's hinge. It supplements bare perception by explaining how one sensory field calls up another, but it does not yet supply a self-conscious logical function.
+
+Structural center:
+
+- The load-bearing movement is from given object to suggested object. Objectivity is not present in isolated sensation; it is produced when heterogeneous sensory fields are interpreted, judged, and habitually correlated.
+
+Routing decision:
+
+- No new glossary entry yet. `Wahrnehmung / Perzeption / Suggestion` is strongly active, but section `II` should decide whether it becomes Berkeley's durable surface or remains the vision-theory route into the critique of corporeal transcendence.
+- Update `Erfahrung`, `Sensation / Reflexion`, `Sinn / Sinneswahrnehmung`, `Raum / Zeit`, `Wahrheit / Urteil`, `Existenz / Sein / Ding`, `Bild / Symbol / Ausdruck`, and `Begriff / Wort / Zeichen`.
+- Keep `Wahrnehmung / Perzeption / Suggestion`, `Dingbegriff`, `Außenwelt`, `Urwahrnehmung`, `Assoziation`, `habit and custom`, `psychologische Methode`, `unbewußte Geometrie`, and `Naturtrieb des Bewußtseins` in the close-reading ledger.
+
+Re-entry hooks:
+
+- Part 053 should begin on PDF page `304` / printed page `284 partial` with section `II. Die Begründung des Idealismus.`
+- The next tranche should test whether Berkeley removes the residual privilege of touch and extends the theory of visual signs into full idealism.
+- Watch whether the chapter center stays with perception/suggestion or shifts toward the critique of corporeal transcendence and the grounding of empirical objectivity.
+- Do not turn the Locke chapter finding into a Book VI thesis yet. Berkeley has begun to dissolve Locke's transcendent thing, but the first solution routes objectivity through habit and suggestion rather than through a critical account of logical validity.
+
+Decision for now:
+
+- Part 052 passes the same-agent self-review gate for controlled draft status. It opens the Berkeley chapter cleanly and sets up section `II` as the test of whether suggestion remains local to vision or becomes the chapter's governing surface.
+
+Verification result:
+
+- PDF pages `295-304` were checked against scan/Tesseract output on `_0295`, `_0296`, `_0297`, `_0298`, `_0299`, `_0300`, `_0301`, `_0302`, `_0303`, and `_0304`; `_0305` was checked to confirm that section `II. Die Begründung des Idealismus` has already begun.
+- The review corrected OCR residue around `Bewußtsein`, `Einsicht`, `Außenwelt`, `schon`, `Wissens`, `Ideen`, `Natur`, `Außen`, `Innen`, `aneinanderreihen`, `Wahrnehmung`, `Prägnanz`, `nature`, `sight`, `wechselseitigen`, `Symbole`, `schematische`, `Befestigung`, `nicht`, `Einheit`, `unbewußten`, `psychologischen`, `angenommen`, `daher`, `Menschen`, `einzige`, `Eindrücken`, `Logik`, `Identität`, `Molyneux`, `Würfels`, `Gemeinschaft`, `Übung`, `suggested`, `imagination`, and `faculty`.
+
+## 2026-05-16 - Berkeley, Idealism, Existence, And Nature Law
+
+Created `parts/053-berkeley-idealism-existence-and-nature-law.md` from PDF pages `304-317` / printed pages `284 partial-297 partial`, beginning with section `II. Die Begründung des Idealismus.` and stopping before section `III. Kritik der Berkeleyschen Begriffstheorie.`
+
+What this tranche clarified:
+
+- Berkeley removes the residual privilege of touch that remained in the `New Theory of Vision`. Tangible extension can no longer stand as real extension outside consciousness.
+- The critique of abstract concepts becomes a bridge to the critique of one fatal abstraction: `Dasein` understood as thing-like existence outside consciousness.
+- `Esse = percipi` is not rendered as momentary sense-content. Its critical sense depends on `Perzeption` as present content plus associative relations, possible perceptions, and the empirical context represented through it.
+- Berkeley and Leibniz nearly coincide in defining appearance-reality by constancy and lawful order, but Cassirer marks the decisive method difference: Leibniz grounds order in rational rules, Berkeley in empirical association.
+- Nature law becomes the correlate of Berkeley's reality concept. Science describes coexistence and regular sequence of phenomena; forces, absolute causes, and absolute space/time are rejected as experience-unconfirmed additions.
+
+Structural center:
+
+- The load-bearing movement is from suggested object to law-governed appearance-reality. The same sign/suggestion structure that explained vision now explains empirical reality: present perceptions symbolize a regulated whole of possible experience, not absolute things outside mind.
+
+Routing decision:
+
+- Add `Wahrnehmung / Perzeption / Suggestion` as an open Berkeley glossary entry.
+- Update `Erfahrung`, `Sensation / Reflexion`, `Sinn / Sinneswahrnehmung`, `Raum / Zeit`, `Wahrheit / Urteil`, `Existenz / Sein / Ding`, `Bild / Symbol / Ausdruck`, `Phänomen / Erscheinung`, `Begriff / Wort / Zeichen`, `Körper / Materie / Substanz`, and `Bewegung`.
+- Keep `Naturgesetz`, `absolute Materie`, `primäre / sekundäre Qualitäten`, `Terminismus`, `Urwahrnehmungen`, `Natur der Dinge`, `esse = percipi`, `De motu`, and `immanente Kritik` in the close-reading ledger rather than opening separate entries.
+
+Re-entry hooks:
+
+- Part 054 should begin on PDF page `317` / printed page `297 partial` with section `III. Kritik der Berkeleyschen Begriffstheorie.`
+- Test whether Berkeley's next critique accepts the idealism section as internally coherent or finds the failure in Berkeley's concept theory, especially around perception, judgment, and the objective validity of law.
+- Watch whether `Naturgesetz` or `immanente Kritik` deserves a separate surface after the Newton/`De motu` material returns in Book VII, or whether it should remain under `Erfahrung`, `Phänomen / Erscheinung`, `Bewegung`, and `Raum / Zeit`.
+- Keep the Locke-Berkeley contrast provisional: Berkeley dissolves Locke's unknowable thing and preserves empirical objectivity as ordered phenomena, but he grounds the order in empirical association rather than rational necessity.
+
+Decision for now:
+
+- Part 053 passes the same-agent self-review gate for controlled draft status. Section `II` earns the Berkeley perception/suggestion glossary surface and sets up section `III` as the test of whether Berkeley's concept theory can sustain the idealism it grounds.
+
+Verification result:
+
+- PDF pages `304-317` were checked against scan/Tesseract output on `_0304`, `_0305`, `_0306`, `_0307`, `_0308`, `_0309`, `_0310`, `_0311`, `_0312`, `_0313`, `_0314`, `_0315`, `_0316`, and `_0317`; `_0318` was checked to confirm that section `III. Kritik der Berkeleyschen Begriffstheorie` continues after the stop.
+- The review corrected OCR residue around `New theory of vision`, `knowledge`, `Erscheinungen zu`, `Urwahrnehmungen`, `Kopie`, `Kraft`, `New theory`, `repräsentative Funktion`, `Perzeption`, `Baumbild` -> `Raumbild`, `kritisch berichtigten`, `wahren`, `gewöhnlichen`, `Fraser`, `Chimäre`, `deprived`, `full force`, `dienen`, `begrifflich`, `Hilfsgrößen`, `De motu`, `gelten`, and `Kritik der Berkeleyschen Begriffstheorie`.
+- Trailing content-fidelity audit flagged the body quotation anchored by Draft Footnote 8 as Cassirer's structural paraphrase of Berkeley `Principles` § 5 rather than a direct rendering. The part now records that caveat in Draft Footnote 8 and the Source-language note; the fuller audit remains in `review/audit-log.md`.
+
+## 2026-05-16 - Berkeley, Concept Theory, Relations, And Objectivity
+
+Created `parts/054-berkeley-concept-theory-relations-and-objectivity.md` from PDF pages `317-330` / printed pages `297 partial-310 partial`, beginning with section `III. Kritik der Berkeleyschen Begriffstheorie.` and stopping before section `IV. Der Begriff der Substanz.`
+
+What this tranche clarified:
+
+- Cassirer's critique remains immanent: Berkeley must be measured by his own method, not by assumptions about absolute matter that Berkeley rejects.
+- The Berkeley section-II result is now tested and limited. `Perzeption` plus association can explain how contents call one another up, but not how a concept gains formal sense.
+- Berkeley's attack on Lockean abstract images leaves the rationalist concept problem untouched. Conceptual generality requires a fixed standpoint, comparison, judgment, and ideal relations.
+- The mathematics test is decisive: Berkeley rejects infinitesimals, irrational magnitudes, and mathematical exactness because they lack immediate sensory images, thereby falling back into the psychological abstraction of the simple.
+- The empirical-object test repeats the same problem. Association yields revisable expectations, but not the timelessly valid order needed for a common world of phenomena.
+- The section closes by showing Berkeley's theological solution: nature's order is guaranteed by divine will and understanding, not by necessary rational principles immanent in experience.
+
+Structural center:
+
+- The load-bearing movement is from representation as associative standing-in to the missing objective-conceptual ground. Berkeley's sign/suggestion doctrine blocks copy-theory and transcendent matter, but association cannot supply concept-function, continuity, identity-setting, motion-law, or empirical necessity.
+
+Routing decision:
+
+- No new glossary entry. Section `III` bends existing surfaces rather than earning a separate term.
+- Update `Wahrnehmung / Perzeption / Suggestion`, `Begriff / Wort / Zeichen`, `Wahrheit / Urteil`, `Bild / Symbol / Ausdruck`, `Kontinuum / Stetigkeit / Infinitesimal`, `Raum / Zeit`, `Bewegung`, `Erfahrung`, `Phänomen / Erscheinung`, `Existenz / Sein / Ding`, and `Selbstbewußtsein / Ich / innere Erfahrung`.
+- Keep `Repräsentation`, `Assoziation`, `Relationsbegriffe`, `Identitätssetzung`, `objektiv-begrifflicher Grund`, `Gottesbegriff`, `Zeichensprache Gottes`, and `Vernunft als Korrelat des Seins` in the close-reading ledger.
+
+Re-entry hooks:
+
+- Part 055 should begin on PDF page `330` / printed page `310 partial` with section `IV. Der Begriff der Substanz.`
+- Test whether Berkeley answers the missing objective-conceptual ground by shifting from passive ideas to spirit, self, notion, relation, will, and causality.
+- Watch whether `Idee / Begriff / notion`, `Geist / Seele / Ich`, `Substanz`, `Wille / Kraft`, or `Kausalprinzip` earns a new surface, or whether they update existing `Begriff / Wort / Zeichen` and `Selbstbewußtsein / Ich / innere Erfahrung`.
+- Keep the Berkeley chapter finding provisional until section `V` shows whether the later sign/reason doctrine transforms the early sensualistic starting point.
+
+Decision for now:
+
+- Part 054 passes the same-agent self-review gate for controlled draft status. It answers the Part 053 test: Berkeley's idealism is internally coherent only up to the point where empirical association must do the work of logical concept-grounding.
+
+Verification result:
+
+- PDF pages `317-330` were checked against the PDF text layer and scan/Tesseract output on `_0317`, `_0318`, `_0319`, `_0320`, `_0321`, `_0322`, `_0323`, `_0324`, `_0325`, `_0326`, `_0327`, `_0328`, `_0329`, and `_0330`; `_0330` confirms that section `IV. Der Begriff der Substanz` begins after the stop.
+- The review corrected OCR residue around `Kritik der Berkeleyschen Begriffstheorie`, `begriffliche`, `repräsentieren`, `vertreten`, `Grundauffassung Berkeleys`, `Auftreten`, `Einzelinhalte`, `Umfang`, `Vergleichung`, `Wahrnehmung`, `Aufreihung`, `Erkenntnis`, `Principles`, `Repräsentationstheorie`, `Unendlich-Kleinen`, `Zuwüchsen`, `zerfließend`, `schließlich`, `Relationen`, `ganze Zahl`, `Pythagoreische`, `Erfahrungswissenschaft`, `meinen`, `Erscheinungswirklichkeit`, `fragwürdig`, `Identitätssetzung`, `Bewegungsphänomene`, `Wechsel`, `heightening`, and `Alciphron`.
+
+## 2026-05-16 - Berkeley, Substance, Spirit, And Causality
+
+Created `parts/055-berkeley-substance-spirit-and-causality.md` from PDF pages `330-335` / printed pages `310 partial-315 partial`, beginning with section `IV. Der Begriff der Substanz.` and stopping before section `V. Die Umgestaltung der Berkeleyschen Erkenntnislehre.`
+
+What this tranche clarified:
+
+- Berkeley's concept of God, needed for the close of his experience theory, creates a problem for the sensualistic beginning of that theory.
+- The passive `idea` schema cannot contain relations, self, or active spirit. The later Berkeley therefore distinguishes `idea` from `notion` and admits spirits and relations as objects of knowledge without making them sensory images.
+- The I is not secured by pure experience as a congeries of perceptions. Berkeley moves the proof from theoretical consciousness to practical consciousness: will and free spiritual activity become the primal phenomenon of the individual mind.
+- Berkeley's critique of cause applies to the application of causality inside empirical natural science, not to the causal principle as such. In metaphysics and speculative theology, judgment and inference of understanding grasp necessary connection.
+- Section `IV` closes by naming the system split: the concept theory with which the `Principles` begin and the spiritualist metaphysics with which they close now stand in irreconcilable tension unless Berkeley transforms his first principles.
+
+Structural center:
+
+- The load-bearing movement is from passive idea to active spirit. The gain is not a smooth correction: Berkeley recovers self, notion, will, causality, and divine substance by moving beyond the sensualistic idea-schema that carried the first sections.
+
+Routing decision:
+
+- No new glossary entry yet. Section `IV` creates strong pressure for `Idee / Begriff / notion` and `Geist / Seele / Ich`, but the closing paragraph explicitly hands the issue to section `V`.
+- Update `Wahrnehmung / Perzeption / Suggestion`, `Begriff / Wort / Zeichen`, `Selbstbewußtsein / Ich / innere Erfahrung`, `Sensation / Reflexion`, `Ursache / Bedingung / Erzeugung`, `Kraft / Arbeit / lebendige Kraft`, `Körper / Materie / Substanz`, `Existenz / Sein / Ding`, `Intuition / Anschauung`, `Wahrheit / Urteil`, and `Erfahrung`.
+- Keep `Idee / Begriff / notion`, `Geist / Seele / Ich`, `Wille`, `geistige Substanz`, `göttliche Substanz`, `Kausalprinzip`, `Verstandesschluß`, and `notwendige Verknüpfung` in the close-reading ledger.
+
+Re-entry hooks:
+
+- Part 056 should begin on PDF page `335` / printed page `315 partial` with section `V. Die Umgestaltung der Berkeleyschen Erkenntnislehre.`
+- Test whether Berkeley's final revision heals the split named in section `IV`, or whether it deepens the turn from empirical association into divine sign-language and speculative reason.
+- Watch whether `Idee / notion / Begriff` earns a Berkeley-specific glossary surface, or whether section `V` routes the chapter close through `Zeichensprache`, `Vernunft`, `Gottesbewußtsein`, and the transformed concept of experience.
+- Keep the Berkeley chapter finding provisional until section `V` supplies the attempted radical transformation of first principles.
+
+Decision for now:
+
+- Part 055 passes the same-agent self-review gate for controlled draft status. It decides not to open a new Berkeley spirit/notion glossary entry before the explicit transformation section tests whether that pressure stabilizes.
+
+Verification result:
+
+- PDF pages `330-335` were checked against the PDF text layer and scan/Tesseract output on `_0330`, `_0331`, `_0332`, `_0333`, `_0334`, and `_0335`; `_0335` confirms that section `V. Die Umgestaltung der Berkeleyschen Erkenntnislehre` begins after the stop.
+- The review corrected OCR residue around `weiteren`, `hervorruft`, `Principles`, `klaren`, `jeglicher`, `perfectly`, `immediately`, `intuitively`, `sinnlicher`, `Wahrheit`, `Commonplace`, `the mind`, `zu wahrhafter`, `Kausalprinzips`, `leitet`, `powerful`, `connection`, `Kausalprinzip`, and `hinwegtäuschen`.
+
+## 2026-05-16 - Berkeley, Transformation Of The Theory Of Knowledge
+
+Created `parts/056-berkeley-transformation-of-theory-of-knowledge.md` from PDF pages `335-347` / printed pages `315 partial-327 partial`, beginning with section `V. Die Umgestaltung der Berkeleyschen Erkenntnislehre.` and stopping before the Collier continuation.
+
+What this tranche clarified:
+
+- Berkeley's final revision is not a compromise between the early idea-schema and the spiritualist close. It rebuilds the meaning of experience: the sensible world is readable as a text because an infinite intelligence orders it through signs.
+- The `Alciphron` and `Siris` material turns signs from arbitrary names into the condition of objective experience. Scientific signs do not create ideal relations; they fix those relations for consciousness.
+- Berkeley's self-criticism is real and unusually explicit. Cassirer reads the movement from the `Commonplace Book` to `Siris` as a path from certainty in sense and distrust of pure intellect toward a Platonic doctrine of ideas as causes and principles.
+- The gain has a decisive limit. Berkeley raises logic and metaphysics above sense, but leaves mathematics and mathematical physics in a lower sphere. His "transcendental" science determines limits by appeal to a realm of immaterial beings, not by grounding the logical conditions of experience.
+- Cassirer's Kant comparison is therefore not incidental. Kant's charge against Berkeley is intelligible if Berkeley is read through `Siris`: Berkeley's idealism builds a higher being above experience, whereas Kant asks after the a priori lawfulness of experience itself.
+
+Structural center:
+
+- The load-bearing movement is from empirical association to intelligible symbolism, then to Platonic mind. Berkeley escapes Locke's passive idea-schema only by binding consciousness to divine reason; he does not recover the mathematical-logical route that would make the idealism critical.
+
+Routing decision:
+
+- No new glossary entry. Section `V` pressures `Zeichensprache Gottes`, `Vernunft`, `Platonismus`, `transszendentale Wissenschaft`, and `reine Logik`, but these should remain in the close-reading ledger until Collier and Hume decide whether they become stable surfaces.
+- Update `Wahrnehmung / Perzeption / Suggestion`, `Bild / Symbol / Ausdruck`, `Begriff / Wort / Zeichen`, `Erfahrung`, `Wahrheit / Urteil`, `Selbstbewußtsein / Ich / innere Erfahrung`, `Intuition / Anschauung`, `Sinn / Sinneswahrnehmung`, `Raum / Zeit`, `Körper / Materie / Substanz`, `Kraft / Arbeit / lebendige Kraft`, and `intelligible Welt / ewige Wahrheiten`.
+- Keep the Berkeley finding provisional. Part 056 closes Berkeley proper, but Cassirer immediately uses Collier as a related development of metaphysical idealism before turning to Hume.
+
+Re-entry hooks:
+
+- Part 057 should begin on PDF page `347` / printed page `327 partial` with `Die metaphysische Entwicklung des Idealismus...`, the Collier continuation.
+- Test whether Collier shifts the Berkeley finding from divine sign-language to the logical antinomies of transcendence and absolute external matter.
+- Watch `Außenwelt`, `absolute Materie`, `primäre / sekundäre Qualitäten`, `Raum`, `Antinomien des Unendlichen`, and the Leibniz-Clarke bridge.
+- Do not write the Berkeley/Collier chapter-close note until Collier has been translated and checked.
+
+Decision for now:
+
+- Part 056 passes the same-agent self-review gate for controlled draft status. It closes Berkeley proper but not the full chapter's idealism sequence, because Collier remains Cassirer's immediate contrast and extension.
+
+Verification result:
+
+- PDF pages `335-347` were checked against the PDF text layer and scan/Tesseract output on `_0335`, `_0336`, `_0337`, `_0338`, `_0339`, `_0340`, `_0341`, `_0342`, `_0343`, `_0344`, `_0345`, `_0346`, and `_0347`; `_0348` confirms the next tranche begins with Collier.
+- The review corrected OCR residue around `Religionsphilosophie`, `intelligibles`, `völliger`, `erwarten`, `metaphysische`, `Aperçu`, `Alciphron`, `Handelns`, `Hülfe`, `irgendwelcher`, `unentbehrlich`, `Siris`, `Platon`, `αἴτιον`, `ἀρχή`, `Theaetet`, `ἐν τῷ περὶ ἐκείνων συλλογισμῷ`, `Verstande`, `Reason was given us`, `spirituales`, `transszendental`, `Vernunfterwägung`, `verständlich`, `ursprünglichen`, `où l'on`, `Réflexions`, and `l'Anglois`.

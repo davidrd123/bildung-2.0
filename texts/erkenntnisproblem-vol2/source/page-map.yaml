@@ -829,6 +829,103 @@ ranges:
     trust: "high"
     note: "Part 051 begins with section `III. Der Begriff des Seins.`, closes Locke's chapter through the substance critique, archetype/reality problem, and metaphysical-transcendence diagnosis, and stops before `Zweites Kapitel. Berkeley.` on printed page 275."
 
+  - slug: "berkeley-perception-vision-suggestion"
+    label: "Berkeley: perception, vision, and suggestion"
+    pdf_pages: [295, 304]
+    printed_pages: ["275", "284 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0295.jp2"
+      - "daserkenntnispro02cassuoft_0296.jp2"
+      - "daserkenntnispro02cassuoft_0297.jp2"
+      - "daserkenntnispro02cassuoft_0298.jp2"
+      - "daserkenntnispro02cassuoft_0299.jp2"
+      - "daserkenntnispro02cassuoft_0300.jp2"
+      - "daserkenntnispro02cassuoft_0301.jp2"
+      - "daserkenntnispro02cassuoft_0302.jp2"
+      - "daserkenntnispro02cassuoft_0303.jp2"
+      - "daserkenntnispro02cassuoft_0304.jp2"
+    trust: "high"
+    note: "Part 052 begins with `Zweites Kapitel. Berkeley.` and section `I. Die Theorie der Wahrnehmung.`, follows Berkeley's vision theory from Locke's external-world remainder through distance, judgment, signs, the critique of unconscious geometry, Molyneux, habit, and suggestion, and stops before section `II. Die Begründung des Idealismus.` on printed page 284."
+
+  - slug: "berkeley-idealism-existence-nature-law"
+    label: "Berkeley: idealism, existence, and nature law"
+    pdf_pages: [304, 317]
+    printed_pages: ["284 partial", "297 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0304.jp2"
+      - "daserkenntnispro02cassuoft_0305.jp2"
+      - "daserkenntnispro02cassuoft_0306.jp2"
+      - "daserkenntnispro02cassuoft_0307.jp2"
+      - "daserkenntnispro02cassuoft_0308.jp2"
+      - "daserkenntnispro02cassuoft_0309.jp2"
+      - "daserkenntnispro02cassuoft_0310.jp2"
+      - "daserkenntnispro02cassuoft_0311.jp2"
+      - "daserkenntnispro02cassuoft_0312.jp2"
+      - "daserkenntnispro02cassuoft_0313.jp2"
+      - "daserkenntnispro02cassuoft_0314.jp2"
+      - "daserkenntnispro02cassuoft_0315.jp2"
+      - "daserkenntnispro02cassuoft_0316.jp2"
+      - "daserkenntnispro02cassuoft_0317.jp2"
+    trust: "high"
+    note: "Part 053 begins with section `II. Die Begründung des Idealismus.`, generalizes Berkeley's sign/suggestion theory into `esse = percipi`, follows the critique of abstract concepts, absolute matter, appearance-reality, nature law, and Newtonian absolute space/time, and stops before section `III. Kritik der Berkeleyschen Begriffstheorie.` on printed page 297."
+
+  - slug: "berkeley-concept-theory-relations-objectivity"
+    label: "Berkeley: concept theory, relations, and objectivity"
+    pdf_pages: [317, 330]
+    printed_pages: ["297 partial", "310 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0317.jp2"
+      - "daserkenntnispro02cassuoft_0318.jp2"
+      - "daserkenntnispro02cassuoft_0319.jp2"
+      - "daserkenntnispro02cassuoft_0320.jp2"
+      - "daserkenntnispro02cassuoft_0321.jp2"
+      - "daserkenntnispro02cassuoft_0322.jp2"
+      - "daserkenntnispro02cassuoft_0323.jp2"
+      - "daserkenntnispro02cassuoft_0324.jp2"
+      - "daserkenntnispro02cassuoft_0325.jp2"
+      - "daserkenntnispro02cassuoft_0326.jp2"
+      - "daserkenntnispro02cassuoft_0327.jp2"
+      - "daserkenntnispro02cassuoft_0328.jp2"
+      - "daserkenntnispro02cassuoft_0329.jp2"
+      - "daserkenntnispro02cassuoft_0330.jp2"
+    trust: "high"
+    note: "Part 054 begins with section `III. Kritik der Berkeleyschen Begriffstheorie.`, tests Berkeley's concept theory against rationalist concept-function, mathematics, continuity, empirical object-identity, motion, and the divine guarantee of objective order, and stops before section `IV. Der Begriff der Substanz.` on printed page 310."
+
+  - slug: "berkeley-substance-spirit-causality"
+    label: "Berkeley: substance, spirit, and causality"
+    pdf_pages: [330, 335]
+    printed_pages: ["310 partial", "315 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0330.jp2"
+      - "daserkenntnispro02cassuoft_0331.jp2"
+      - "daserkenntnispro02cassuoft_0332.jp2"
+      - "daserkenntnispro02cassuoft_0333.jp2"
+      - "daserkenntnispro02cassuoft_0334.jp2"
+      - "daserkenntnispro02cassuoft_0335.jp2"
+    trust: "high"
+    note: "Part 055 begins with section `IV. Der Begriff der Substanz.`, follows Berkeley's shift from passive ideas to active spirit, notion, will, and causality, and stops before section `V. Die Umgestaltung der Berkeleyschen Erkenntnislehre.` on printed page 315."
+
+  - slug: "berkeley-transformation-theory-knowledge"
+    label: "Berkeley: transformation of the theory of knowledge"
+    pdf_pages: [335, 347]
+    printed_pages: ["315 partial", "327 partial"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0335.jp2"
+      - "daserkenntnispro02cassuoft_0336.jp2"
+      - "daserkenntnispro02cassuoft_0337.jp2"
+      - "daserkenntnispro02cassuoft_0338.jp2"
+      - "daserkenntnispro02cassuoft_0339.jp2"
+      - "daserkenntnispro02cassuoft_0340.jp2"
+      - "daserkenntnispro02cassuoft_0341.jp2"
+      - "daserkenntnispro02cassuoft_0342.jp2"
+      - "daserkenntnispro02cassuoft_0343.jp2"
+      - "daserkenntnispro02cassuoft_0344.jp2"
+      - "daserkenntnispro02cassuoft_0345.jp2"
+      - "daserkenntnispro02cassuoft_0346.jp2"
+      - "daserkenntnispro02cassuoft_0347.jp2"
+    trust: "high"
+    note: "Part 056 begins with section `V. Die Umgestaltung der Berkeleyschen Erkenntnislehre.`, follows Berkeley's final revision through divine sign-language, Alciphron/Siris, Plato, mathematics/physics, and the Kant contrast, and stops before the Collier continuation on printed page 327."
+
   - slug: "book-vii-start-method"
     label: "Book VII / `Das Problem der Methode` opening"
     pdf_pages: [416, 416]

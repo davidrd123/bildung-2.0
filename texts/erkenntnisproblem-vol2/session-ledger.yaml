@@ -1842,3 +1842,158 @@ sessions:
       - "Use the Locke close as a test, not a template: Berkeley may solve the metaphysical-transcendence problem while creating a different problem for empirical objectivity."
 
     formation_notes: []
+
+  - date: 2026-05-16
+    collaborator: codex-gpt-5
+    session_outcome: berkeley-perception-vision-suggestion
+    parts_touched:
+      - "parts/052-berkeley-perception-vision-and-suggestion.md"
+
+    state_on_entry:
+      - "The Locke chapter had closed with a bounded note: Locke's empiricism discovers objective norms and logical functions but displaces empirical objectivity into unknowable corporeal things."
+      - "The re-entry hook asked whether Berkeley would clarify empirical objectivity by removing the unknowable thing, or destabilize the logical foundations of experience."
+
+    what_shifted:
+      - "Created Part 052 from PDF pages 295-304 / printed pages 275-284 partial, covering section `I. Die Theorie der Wahrnehmung`."
+      - "Identified the structural center as a movement from given object to suggested object: sight gives light and color, while distance, spatial order, and thinghood arise through interpretation, judgment, association, and habit."
+      - "Recorded Berkeley's critique of Cartesian/Malebranchean unconscious geometry: the explanatory ground for vision must belong to consciousness itself, not to lines and angles available only to an external observer."
+      - "Opened no new glossary entry; held `Wahrnehmung / Perzeption / Suggestion` as a ledger pressure until section `II` tests whether suggestion becomes the Berkeley chapter surface."
+      - "Updated `Erfahrung`, `Sensation / Reflexion`, `Sinn / Sinneswahrnehmung`, `Raum / Zeit`, `Wahrheit / Urteil`, `Existenz / Sein / Ding`, `Bild / Symbol / Ausdruck`, and `Begriff / Wort / Zeichen`."
+      - "Verified scans `_0295` through `_0304`; `_0305` confirms section `II. Die Begründung des Idealismus` begins next."
+
+    unresolved:
+      - "Part 053 should begin on PDF page 304 / printed page 284 partial with section `II. Die Begründung des Idealismus.`"
+      - "Section II should decide whether Berkeley extends the vision argument into a full idealism by removing the residual privilege of touch."
+      - "`Wahrnehmung / Perzeption / Suggestion`, `Dingbegriff`, `Außenwelt`, `Assoziation`, and `Naturtrieb des Bewußtseins` remain active watchpoints."
+      - "Do not promote the Locke-Berkeley contrast into a Book VI thesis until Berkeley's idealism section supplies the second data point."
+
+    re_entry_instructions:
+      - "Before starting Part 053, read Part 052's Notes and the updated `Existenz / Sein / Ding`, `Sensation / Reflexion`, `Bild / Symbol / Ausdruck`, and `Wahrheit / Urteil` glossary entries."
+      - "Continue from `II. Die Begründung des Idealismus` on PDF page 304 / printed page 284 partial."
+      - "Test whether `suggested` remains local to vision theory or becomes the Berkeley solution to Locke's metaphysical-transcendence problem."
+      - "Preserve the Part 052 caution: Berkeley's first move routes objectivity through habit and suggestion, not yet through a rational-logical account of validity."
+
+    formation_notes: []
+
+  - date: 2026-05-16
+    collaborator: codex-gpt-5
+    session_outcome: berkeley-idealism-existence-nature-law
+    parts_touched:
+      - "parts/053-berkeley-idealism-existence-and-nature-law.md"
+
+    state_on_entry:
+      - "Part 052 had opened Berkeley by making the external object a result of perception, judgment, habit, and suggestion rather than a presupposed thing outside experience."
+      - "The re-entry hook asked whether section II would extend the vision argument into full idealism and whether `Wahrnehmung / Perzeption / Suggestion` would earn a glossary surface."
+
+    what_shifted:
+      - "Created Part 053 from PDF pages 304-317 / printed pages 284 partial-297 partial, covering section `II. Die Begründung des Idealismus`."
+      - "Removed the residual privilege of touch: tangible extension cannot stand as real extension outside consciousness."
+      - "Identified the structural center as a movement from suggested object to law-governed appearance-reality."
+      - "Opened `Wahrnehmung / Perzeption / Suggestion` as an open Berkeley glossary entry because `Perzeption` now carries associative relations, possible perceptions, and empirical context inside the meaning of `esse = percipi`."
+      - "Updated `Erfahrung`, `Sensation / Reflexion`, `Sinn / Sinneswahrnehmung`, `Raum / Zeit`, `Wahrheit / Urteil`, `Existenz / Sein / Ding`, `Bild / Symbol / Ausdruck`, `Phänomen / Erscheinung`, `Begriff / Wort / Zeichen`, `Körper / Materie / Substanz`, and `Bewegung`."
+      - "Verified scans `_0304` through `_0317`; `_0318` confirms section `III. Kritik der Berkeleyschen Begriffstheorie` continues after the stop."
+
+    unresolved:
+      - "Part 054 should begin on PDF page 317 / printed page 297 partial with section `III. Kritik der Berkeleyschen Begriffstheorie.`"
+      - "Section III should test whether Berkeley's concept theory can sustain the idealism and nature-law account section II has grounded."
+      - "`Naturgesetz`, `esse = percipi`, `De motu`, and `immanente Kritik` remain active but unpromoted pressures."
+      - "Do not promote the Locke-Berkeley contrast into a Book VI thesis until the Berkeley chapter close supplies the third data point."
+
+    re_entry_instructions:
+      - "Before starting Part 054, read Part 053's Notes and the new `Wahrnehmung / Perzeption / Suggestion` glossary entry."
+      - "Continue from `III. Kritik der Berkeleyschen Begriffstheorie` on PDF page 317 / printed page 297 partial."
+      - "Test whether the critique of Berkeley's concept theory shifts the chapter center from perception/existence to judgment, concept, and objective validity."
+      - "Keep Berkeley's nature-law result local for now; Book VII will later decide whether `immanente Kritik` and the Newton polemic need a separate method surface."
+
+    formation_notes: []
+
+  - date: 2026-05-16
+    collaborator: codex-gpt-5
+    session_outcome: berkeley-concept-theory-relations-objectivity
+    parts_touched:
+      - "parts/054-berkeley-concept-theory-relations-and-objectivity.md"
+
+    state_on_entry:
+      - "Part 053 had generalized Berkeley's vision/sign theory into full idealism and opened `Wahrnehmung / Perzeption / Suggestion` as the Berkeley-specific perception surface."
+      - "The re-entry hook asked whether Berkeley's concept theory could sustain the idealism and nature-law account section II grounded."
+
+    what_shifted:
+      - "Created Part 054 from PDF pages 317-330 / printed pages 297 partial-310 partial, covering section `III. Kritik der Berkeleyschen Begriffstheorie`."
+      - "Confirmed Cassirer's immanent critique rule: Berkeley is not refuted by presupposing absolute matter, but by asking whether his method can explain experience's own constitution."
+      - "Identified the structural center as a movement from representation as associative standing-in to the missing objective-conceptual ground."
+      - "Opened no new glossary entry; updated `Wahrnehmung / Perzeption / Suggestion`, `Begriff / Wort / Zeichen`, `Wahrheit / Urteil`, `Bild / Symbol / Ausdruck`, `Kontinuum / Stetigkeit / Infinitesimal`, `Raum / Zeit`, `Bewegung`, `Erfahrung`, `Phänomen / Erscheinung`, `Existenz / Sein / Ding`, and `Selbstbewußtsein / Ich / innere Erfahrung`."
+      - "Verified scans `_0317` through `_0330`; `_0330` confirms section `IV. Der Begriff der Substanz` begins next."
+
+    unresolved:
+      - "Part 055 should begin on PDF page 330 / printed page 310 partial with section `IV. Der Begriff der Substanz.`"
+      - "Section IV should test whether Berkeley answers the missing objective-conceptual ground by shifting from passive ideas to spirit, self, notion, relation, will, and causality."
+      - "`Idee / Begriff / notion`, `Geist / Seele / Ich`, `Substanz`, `Wille / Kraft`, and `Kausalprinzip` are next watchpoints."
+      - "Do not promote the Berkeley chapter finding until section V tests whether signs/reason transform the early sensualist starting point."
+
+    re_entry_instructions:
+      - "Before starting Part 055, read Part 054's Notes and the updated `Wahrnehmung / Perzeption / Suggestion`, `Begriff / Wort / Zeichen`, `Wahrheit / Urteil`, and `Selbstbewußtsein / Ich / innere Erfahrung` entries."
+      - "Continue from `IV. Der Begriff der Substanz` on PDF page 330 / printed page 310 partial."
+      - "Track whether Berkeley's `idea` / `notion` distinction remains a local terminology fix or becomes the chapter's new structural surface."
+
+    formation_notes: []
+
+  - date: 2026-05-16
+    collaborator: codex-gpt-5
+    session_outcome: berkeley-substance-spirit-causality
+    parts_touched:
+      - "parts/055-berkeley-substance-spirit-and-causality.md"
+
+    state_on_entry:
+      - "Part 054 had tested Berkeley's concept theory and found that association/suggestion cannot ground concept-function, mathematics, identity-setting, motion-law, or common objectivity."
+      - "The re-entry hook asked whether Berkeley would answer that missing objective-conceptual ground by shifting from passive ideas to spirit, self, notion, relation, will, and causality."
+
+    what_shifted:
+      - "Created Part 055 from PDF pages 330-335 / printed pages 310 partial-315 partial, covering section `IV. Der Begriff der Substanz`."
+      - "Identified the structural center as a movement from passive idea to active spirit."
+      - "Held a new glossary entry despite strong pressure from `Idee / Begriff / notion` and `Geist / Seele / Ich`; section `V` should decide whether the late Berkeley revision stabilizes or transforms that pressure."
+      - "Updated `Wahrnehmung / Perzeption / Suggestion`, `Begriff / Wort / Zeichen`, `Selbstbewußtsein / Ich / innere Erfahrung`, `Sensation / Reflexion`, `Ursache / Bedingung / Erzeugung`, `Kraft / Arbeit / lebendige Kraft`, `Körper / Materie / Substanz`, `Existenz / Sein / Ding`, `Intuition / Anschauung`, `Wahrheit / Urteil`, and `Erfahrung`."
+      - "Verified scans `_0330` through `_0335`; `_0335` confirms section `V. Die Umgestaltung der Berkeleyschen Erkenntnislehre` begins next."
+
+    unresolved:
+      - "Part 056 should begin on PDF page 335 / printed page 315 partial with section `V. Die Umgestaltung der Berkeleyschen Erkenntnislehre.`"
+      - "Section `V` should test whether Berkeley's final revision heals the section-IV split or deepens the turn from empirical association into divine sign-language and speculative reason."
+      - "`Idee / notion / Begriff`, `Geist / Seele / Ich`, `Zeichensprache`, `Vernunft`, `Gottesbewußtsein`, and transformed experience are next watchpoints."
+      - "Do not write the Berkeley chapter-close finding until section `V` has been translated and checked."
+
+    re_entry_instructions:
+      - "Before starting Part 056, read Part 055's Notes and the updated `Begriff / Wort / Zeichen`, `Selbstbewußtsein / Ich / innere Erfahrung`, `Ursache / Bedingung / Erzeugung`, and `Wahrnehmung / Perzeption / Suggestion` entries."
+      - "Continue from `V. Die Umgestaltung der Berkeleyschen Erkenntnislehre` on PDF page 335 / printed page 315 partial."
+      - "Track whether `idea` / `notion` becomes a Berkeley glossary surface or is absorbed into a broader late-Berkeley sign/reason transformation."
+
+    formation_notes: []
+
+  - date: 2026-05-16
+    collaborator: codex-gpt-5
+    session_outcome: berkeley-transformation-theory-knowledge
+    parts_touched:
+      - "parts/056-berkeley-transformation-of-theory-of-knowledge.md"
+
+    state_on_entry:
+      - "Part 055 had shown Berkeley recovering spirit, notion, will, causality, and divine substance by moving beyond the passive idea-schema, but it left the system split between sensualistic beginning and spiritualist close."
+      - "The re-entry hook asked whether section `V` would heal the split or deepen the turn from empirical association into divine sign-language and speculative reason."
+
+    what_shifted:
+      - "Created Part 056 from PDF pages 335-347 / printed pages 315 partial-327 partial, covering section `V. Die Umgestaltung der Berkeleyschen Erkenntnislehre` and stopping before the Collier continuation."
+      - "Identified the structural center as a movement from empirical association to intelligible symbolism and then to Platonic mind."
+      - "Showed Berkeley's mature sign doctrine: signs are not arbitrary names or mere psychological associations, but the means by which objective experience can be read as a lawful text."
+      - "Recorded Cassirer's limit judgment: Berkeley raises logic and metaphysics above sense, but leaves mathematics and mathematical physics in a lower sphere and therefore does not reach Kant's critical grounding of experience."
+      - "Opened no new glossary entry; updated existing Berkeley, sign/symbol, experience, truth/judgment, self-consciousness, intuition, sense, space/time, substance, force, and intelligible-world surfaces."
+      - "Verified scans `_0335` through `_0347`; `_0348` confirms Collier begins next."
+
+    unresolved:
+      - "Part 057 should begin on PDF page 347 / printed page 327 partial with the Collier transition `Die metaphysische Entwicklung des Idealismus...`."
+      - "Collier should test whether the chapter finding shifts from Berkeley's divine sign-language to the logical antinomies of transcendence, absolute external matter, and space."
+      - "`Außenwelt`, `absolute Materie`, `primäre / sekundäre Qualitäten`, `Raum`, `Antinomien des Unendlichen`, and the Leibniz-Clarke bridge are next watchpoints."
+      - "Do not write the Berkeley/Collier chapter-close note until the Collier continuation has been translated and checked."
+
+    re_entry_instructions:
+      - "Before starting Part 057, read Part 056's Notes and the updated `Wahrnehmung / Perzeption / Suggestion`, `Bild / Symbol / Ausdruck`, `Begriff / Wort / Zeichen`, `Erfahrung`, and `Wahrheit / Urteil` entries."
+      - "Continue from the Collier paragraph on PDF page 347 / printed page 327 partial."
+      - "Keep the Part 056 caution: Berkeley's final revision reaches Plato and reason, but it does not yet become a critical account of mathematical-scientific experience."
+
+    formation_notes: []

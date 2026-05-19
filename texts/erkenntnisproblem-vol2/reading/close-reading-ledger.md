@@ -1102,3 +1102,134 @@ Routing:
 - Add the bounded chapter note `reading/2026-05-16-locke-experience-validity-and-transcendence.md`.
 - The Locke chapter finding is now earned but chapter-local: Locke's empiricism becomes a logical critique of experience where its psychological method uncovers objective norms it cannot ground.
 - Continue with Berkeley from PDF page `295` / printed page `275`. Berkeley should test whether removing the transcendent thing clarifies empirical objectivity or endangers it.
+
+## 2026-05-16 - Berkeley: Perception, Vision, And Suggestion
+
+Passage: `parts/052-berkeley-perception-vision-and-suggestion.md`, printed pages `275-284 partial`.
+
+Part 052 opens the Berkeley chapter by testing the Locke chapter close directly. Locke left empirical objectivity tied to an unknowable external thing; Berkeley starts by asking how the external object is constituted from perception in the first place.
+
+Local pressure:
+
+- `Existenz / Sein / Ding` receives immediate Berkeley pressure. The `Dingbegriff` is not an unanalysable presupposition but the first task of psychological derivation: external objects must be recognized as the result and end-member of a necessary process.
+- `Sinn / Sinneswahrnehmung` is sharpened through vision. Sight gives light and color, not distance, external things, or spatial order.
+- `Raum / Zeit` is active through distance and spatial articulation: distance is imperceptible in itself and yet perceived by sight, so spatial order has to be produced through coordination rather than found in visual content.
+- `Wahrheit / Urteil` becomes the formative layer inside perception. Location, size, distance, and objecthood are performances of judgment before they are ordinary perceived givens.
+- `Bild / Symbol / Ausdruck` receives a Berkeley sign/symbol layer. Visual impressions are not copies of tactile-spatial relations but signs through which those relations are represented.
+- `Sensation / Reflexion` is revised from the Locke side. Berkeley rejects the schematic division of sensation as outer existence and reflection as inner states; perception itself already requires judgment, interpretation, and habit.
+- `Erfahrung` becomes association-regulator rather than foundation: constant togetherness teaches the transition between visible and tangible fields, while `habit and custom` rather than deduction guide consciousness.
+- `Wahrnehmung / Perzeption / Suggestion`, `Dingbegriff`, `Außenwelt`, `Urwahrnehmungen`, `psychologische Methode`, `unbewußte Geometrie`, `Assoziation`, `habit and custom`, and `Naturtrieb des Bewußtseins` are active pressures.
+
+Routing:
+
+- No new glossary entry yet. `Wahrnehmung / Perzeption / Suggestion` is the obvious candidate, but section `II` must decide whether suggestion becomes Berkeley's durable surface or remains local to vision theory.
+- Update `Erfahrung`, `Sensation / Reflexion`, `Sinn / Sinneswahrnehmung`, `Raum / Zeit`, `Wahrheit / Urteil`, `Existenz / Sein / Ding`, `Bild / Symbol / Ausdruck`, and `Begriff / Wort / Zeichen`.
+- Carry the Locke chapter note forward as a test, not a template. Berkeley removes the unknowable thing from the starting point, but Part 052 also shows the cost: objectivity is now routed through suggestion and habit rather than through a rational-logical function.
+- Continue with section `II. Die Begründung des Idealismus` from PDF page `304` / printed page `284 partial`.
+
+## 2026-05-16 - Berkeley: Idealism, Existence, And Nature Law
+
+Passage: `parts/053-berkeley-idealism-existence-and-nature-law.md`, printed pages `284 partial-297 partial`.
+
+Part 053 generalizes the vision-theory result into Berkeley's idealism. Touch no longer retains the privilege of a direct witness to real extension; every sense-field is equally insufficient to ground an existence outside all correlation to consciousness. `Esse = percipi` becomes meaningful only when perception is understood in its critically corrected sense: a present content plus its associative relations, possible perceptions, and lawful empirical context.
+
+Local pressure:
+
+- `Wahrnehmung / Perzeption / Suggestion` now earns a glossary entry. Part 052 made suggestion local to vision; Part 053 makes critically corrected `Perzeption` the structure by which present contents represent possible empirical contexts.
+- `Existenz / Sein / Ding` becomes the section's polemical center. `Dasein` is the fatal abstraction: existence no longer means a thing-like being outside consciousness, but lawful constancy and possible perception within experience.
+- `Phänomen / Erscheinung` receives Berkeley contrast evidence against Leibniz. Both define reality through ordered appearances rather than corporeal originals, but Berkeley uses empirical association where Leibniz uses rational rules.
+- `Bild / Symbol / Ausdruck` becomes anti-copy idealism. Present perceptions are incomplete symbols of actuality, but what they symbolize is not absolute things outside mind; it is the regulated total context of experience.
+- `Erfahrung` supplies the Berkeley reality measure: constancy, recurrence, empirical rule, and lawful connection distinguish realities from chimeras without yielding logical necessity.
+- `Wahrheit / Urteil` is turned against things-in-themselves. Truth cannot mean agreement with absolute originals because comparison itself is an act within consciousness.
+- `Sinn / Sinneswahrnehmung` loses the residual touch privilege; tactile extension is no more independently real than color.
+- `Raum / Zeit` and `Bewegung` are pressured by Berkeley's Newton critique and `De motu`: absolute space/time and real forces are rejected as experience-unconfirmed additions to an otherwise lawful science of phenomena.
+- `Körper / Materie / Substanz` is active negatively: the idol of absolute matter dissolves together with the idol of absolute representation.
+- `Naturgesetz`, `absolute Materie`, `primäre / sekundäre Qualitäten`, `Terminismus`, `Urwahrnehmungen`, `Natur der Dinge`, `esse = percipi`, `De motu`, and `immanente Kritik` remain active pressures.
+
+Routing:
+
+- Add `Wahrnehmung / Perzeption / Suggestion` as an open Berkeley glossary entry.
+- Update `Erfahrung`, `Sensation / Reflexion`, `Sinn / Sinneswahrnehmung`, `Raum / Zeit`, `Wahrheit / Urteil`, `Existenz / Sein / Ding`, `Bild / Symbol / Ausdruck`, `Phänomen / Erscheinung`, `Begriff / Wort / Zeichen`, `Körper / Materie / Substanz`, and `Bewegung`.
+- Do not open `Naturgesetz` or `esse = percipi` separately yet. Section `III` should decide whether the concept-theory critique turns the nature-law and perception formula into independent surfaces, or whether they stay absorbed by the Berkeley perception/existence cluster.
+- Continue with section `III. Kritik der Berkeleyschen Begriffstheorie` from PDF page `317` / printed page `297 partial`.
+
+## 2026-05-16 - Berkeley: Concept Theory, Relations, And Objectivity
+
+Passage: `parts/054-berkeley-concept-theory-relations-and-objectivity.md`, printed pages `297 partial-310 partial`.
+
+Part 054 tests Berkeley by his own method. Cassirer does not refute Berkeley by presupposing absolute matter; he asks whether Berkeley's perception/suggestion apparatus can make experience itself transparent. It cannot: association explains how contents call one another up, but not how concepts, mathematical relations, empirical identity, motion-law, or common objectivity gain necessity.
+
+Local pressure:
+
+- `Wahrnehmung / Perzeption / Suggestion` is section-tested and limited. Suggestion can explain associative transition and possible perception, but not concept-function, mathematical continuity, empirical object-identity, or nature-law validity.
+- `Begriff / Wort / Zeichen` becomes the section center. Berkeley rejects abstract generic images, but the representative function of the concept cannot be reduced to associative awakening or naming economy.
+- `Wahrheit / Urteil` receives the decisive pressure: similarity must be noticed and judged as similarity, and comparison already presupposes a general standpoint.
+- `Bild / Symbol / Ausdruck` is active through `Repräsentation` and `Vertretung`: Berkeley's symbols can stand in for absent contents, but symbolic standing-in is not yet logical expression of relations.
+- `Kontinuum / Stetigkeit / Infinitesimal` receives Berkeley negative contrast. Berkeley reduces the line to perceptible point-atoms and rejects the infinitesimal because it lacks an immediate idea.
+- `Raum / Zeit` and `Bewegung` are reopened from the mathematics/physics side: dissolving absolute space and motion does not yet explain exact objectification of motion inside experience.
+- `Phänomen / Erscheinung` and `Erfahrung` become unstable. Berkeley's appearance-reality needs lawful constancy, but association supplies only relative and revisable connections.
+- `Existenz / Sein / Ding` shifts from thing-like abstraction to object-identity: Berkeley removes the transcendent object, but also weakens the empirical object's conceptual foundation.
+- `Selbstbewußtsein / Ich / innere Erfahrung` becomes the next pressure because the section closes by grounding objectivity in divine understanding of the same nature as mind.
+- `Repräsentation`, `Assoziation`, `Relationsbegriffe`, `Identitätssetzung`, `objektiv-begrifflicher Grund`, `Gottesbegriff`, `Zeichensprache Gottes`, and `Vernunft als Korrelat des Seins` remain active pressures.
+
+Routing:
+
+- No new glossary entry. Section `III` bends existing entries rather than earning a new surface.
+- Update `Wahrnehmung / Perzeption / Suggestion`, `Begriff / Wort / Zeichen`, `Wahrheit / Urteil`, `Bild / Symbol / Ausdruck`, `Kontinuum / Stetigkeit / Infinitesimal`, `Raum / Zeit`, `Bewegung`, `Erfahrung`, `Phänomen / Erscheinung`, `Existenz / Sein / Ding`, and `Selbstbewußtsein / Ich / innere Erfahrung`.
+- Keep the candidate Berkeley finding controlled: Berkeley solves Locke's unknowable thing problem, but at the cost of moving objective validity from logical ground into association and finally divine will.
+- Continue with section `IV. Der Begriff der Substanz` from PDF page `330` / printed page `310 partial`.
+
+## 2026-05-16 - Berkeley: Substance, Spirit, And Causality
+
+Passage: `parts/055-berkeley-substance-spirit-and-causality.md`, printed pages `310 partial-315 partial`.
+
+Part 055 follows the turn that section `III` made necessary. Berkeley's passive `idea` schema cannot account for relations, self, or causality, so section `IV` introduces a new object of knowledge: active spirit. The gain is real but destabilizing. Berkeley can recover `notion`, I, will, cause, and divine substance only by moving beyond the sensualistic beginning of the system.
+
+Local pressure:
+
+- `Wahrnehmung / Perzeption / Suggestion` is limited from the inside. Perception and suggestion account for passive idea-contents, but the perceiving active being is not itself an idea.
+- `Begriff / Wort / Zeichen` receives the Berkeley `idea` / `notion` correction. `Idea` cannot name all objects of knowledge; relations and spirits require `notion` and therefore force a new category of cognition.
+- `Selbstbewußtsein / Ich / innere Erfahrung` becomes the section center. The I is given in inner seeing and in will, not as a representational image or as a congeries of perceptions.
+- `Sensation / Reflexion` is revised from the Berkeley side: reflection is not discursive procedure or passive inner mirroring, but inward feeling / intuitive self-grasp.
+- `Ursache / Bedingung / Erzeugung` re-enters through the causal principle. Berkeley's critique of cause applies to empirical/natural-scientific use, not to metaphysical inference from phenomena to spiritual causes.
+- `Kraft / Arbeit / lebendige Kraft` receives Berkeley contrast evidence: force is expelled from natural science but reserved for the higher spiritual domain of efficacy and will.
+- `Körper / Materie / Substanz` is split by Berkeley's spiritual substance. Matter cannot be the cause deduced by reason, but spiritual and divine substance are retained as active ground.
+- `Existenz / Sein / Ding` shifts from empirical object-identity to the existence of spirits: the I and other spiritual beings are known by a different route than sensed things.
+- `Intuition / Anschauung` is active through inner `Schauen` and Berkeley's immediately/intuitively known self, distinct from mathematical intuition but still a non-discursive certainty.
+- `Wahrheit / Urteil` sharpens the sense/inference divide: suggestions are given by sense, while judgments and inferences belong to understanding and are required where necessary connection is claimed.
+- `Erfahrung` reaches its limit again: pure experience as judge cannot justify a simple identical substrate of consciousness, yet Berkeley needs such a substrate for his spiritualist close.
+- `Idee / Begriff / notion`, `Geist / Seele / Ich`, `Wille`, `geistige Substanz`, `göttliche Substanz`, `Kausalprinzip`, `Verstandesschluß`, and `notwendige Verknüpfung` remain active pressures.
+
+Routing:
+
+- No new glossary entry yet. Section `IV` creates the strongest pressure so far for a Berkeley `idea / notion / spirit` surface, but the section closes by explicitly pointing to Berkeley's final transformation of first principles.
+- Update `Wahrnehmung / Perzeption / Suggestion`, `Begriff / Wort / Zeichen`, `Selbstbewußtsein / Ich / innere Erfahrung`, `Sensation / Reflexion`, `Ursache / Bedingung / Erzeugung`, `Kraft / Arbeit / lebendige Kraft`, `Körper / Materie / Substanz`, `Existenz / Sein / Ding`, `Intuition / Anschauung`, `Wahrheit / Urteil`, and `Erfahrung`.
+- Continue with section `V. Die Umgestaltung der Berkeleyschen Erkenntnislehre` from PDF page `335` / printed page `315 partial`.
+- Section `V` should decide whether the late Berkeley revision earns a Berkeley-specific spirit/notion entry or transforms the chapter close through divine sign-language, reason, and the rebuilt concept of experience.
+
+## 2026-05-16 - Berkeley: Transformation Of The Theory Of Knowledge
+
+Passage: `parts/056-berkeley-transformation-of-theory-of-knowledge.md`, printed pages `315 partial-327 partial`.
+
+Part 056 follows Berkeley's final revision through `Alciphron` and `Siris`. The section answers the split opened in Part 055 by transforming the concept of experience itself: sensory contents are not merely associated; they are signs in a divine language whose lawful connection makes objective experience possible.
+
+Local pressure:
+
+- `Wahrnehmung / Perzeption / Suggestion` is transformed from empirical association into sign-reading. Perception can no longer be the objective prior of thought, because its meaning is to symbolically reproduce an original thought-connection.
+- `Bild / Symbol / Ausdruck` becomes the section's strongest existing surface. The sign does not copy an absent sensory image and does not merely stand as a name; it fixes objective ideal relations for consciousness.
+- `Begriff / Wort / Zeichen` receives Berkeley's mature nominalism without skepticism: science works immediately with signs, but the truth belongs to the lawful relations that thought connects with them.
+- `Erfahrung` is rebuilt theologically. Experience is a unified text only because an infinite intelligence orders the signs; without that intelligible ground, immediate sensations fall apart into isolated contents.
+- `Wahrheit / Urteil` receives the Kant contrast. Berkeley can raise truth above sense into pure reason, but he does not ground the criteria of empirical truth a priori inside experience itself.
+- `Selbstbewußtsein / Ich / innere Erfahrung` is displaced upward. Berkeley frees consciousness from absolute matter, but the final system binds consciousness to a higher divine being from which truth flows.
+- `Intuition / Anschauung` is active at a lower register: `Anschauung` appears as religious/metaphysical view and concrete-sensory contemplation, while the decisive rational turn goes through signs, intellect, and Plato rather than through mathematical intuition.
+- `Sinn / Sinneswahrnehmung` is downgraded by Berkeley's own self-criticism: the early `Commonplace Book` certainty in sense gives way to the view that sense alone never gives knowledge.
+- `Raum / Zeit` and `Körper / Materie / Substanz` are routed through the Kant footnote and Berkeley's anti-matter motive: Berkeley liberates consciousness from absolute matter but treats space as empirical, which for Kant leaves experience without criteria of truth.
+- `Kraft / Arbeit / lebendige Kraft` gets Berkeley contrast evidence: force is rejected as a physical explanatory ground but retained as a real active cause in the metaphysical realm.
+- `intelligible Welt / ewige Wahrheiten` receives a Berkeley-Platonic layer: ideas are now causes and principles, not inert objects of thought, and the pure concepts of being, good, equality, and similarity are defended against Locke.
+- `Zeichensprache Gottes`, `Vernunft`, `Platonismus`, `αἴτιον / ἀρχή`, `transszendentale Wissenschaft`, `Grenzbestimmung`, `Kant/Berkeley`, `Siris`, and `reine Logik` are active pressures.
+
+Routing:
+
+- No new glossary entry. The section is dense, but it transforms existing Berkeley surfaces rather than earning a separate one from first contact.
+- Keep `Zeichensprache Gottes` and `transszendentale Wissenschaft` in the ledger until Collier and Hume test whether sign-language or the logic of transcendence becomes the broader Book VI problem.
+- Part 056 closes Berkeley proper but not the Berkeley/Collier chapter sequence. Continue with Collier before writing the bounded chapter note.
