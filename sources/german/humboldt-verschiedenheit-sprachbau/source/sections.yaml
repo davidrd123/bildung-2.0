@@ -1,6 +1,6 @@
 work: "Ueber die Verschiedenheit des menschlichen Sprachbaues und ihren Einfluss auf die geistige Entwickelung des Menschengeschlechts"
 primary_witness: "ia-1876-pott-band2"
-status: "initial_raw_section_extract_started"
+status: "raw_section_extracts_with_targeted_theoretical_tranche"
 
 sections:
   - id: "band2-section-01"
@@ -31,8 +31,18 @@ sections:
     jp2_leaf_indexes: "0060-0068"
     printed_pages: "54-62"
     raw_extract: "source/raw/008-band2-section-08-form-der-sprachen-pdf-060-068.txt"
+    targeted_extracts:
+      - id: "ergon-energeia"
+        label: "Ergon/Energeia formulation"
+        pdf_pages: "61-62"
+        jp2_leaf_indexes: "0061-0062"
+        printed_pages: "55-56"
+        raw_extract: "source/raw/008a-ergon-energeia-pdf-061-062.txt"
+        normalized_extract: null
+        status: "raw_pdf_text_layer"
     normalized_extract: null
     status: "raw_pdf_text_layer"
     notes:
       - "Contains the Ergon/Energeia formulation."
       - "Raw extract preserves PDF text-layer OCR artifacts and line breaks."
+      - "Targeted extract is a navigation aid only; check JP2/HOCR before quotation or translation."

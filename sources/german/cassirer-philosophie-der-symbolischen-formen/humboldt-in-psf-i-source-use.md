@@ -73,7 +73,7 @@ Use this routing when moving from Cassirer citations to Humboldt source work:
 | Cassirer source object | Local route | Status |
 | --- | --- | --- |
 | *Über die Kawi-Sprache auf der Insel Java*, Bd. II, Buschmann ed., 1838 | `sources/german/humboldt-kawi-sprache/` | Landed. This is the direct shelf for Cassirer's named Kawi Bd. II citations. |
-| *Ueber die Verschiedenheit des menschlichen Sprachbaues...* (singular) | `sources/german/humboldt-verschiedenheit-sprachbau/` | Landed as a Pott 1876 witness. Useful local witness, but Cassirer's register cites the GS VII / 1907 form, so edition identity should stay visible. |
+| *Ueber die Verschiedenheit des menschlichen Sprachbaues...* (singular) | `sources/german/humboldt-verschiedenheit-sprachbau/` | Landed as a Pott 1876 witness, with a targeted raw Ergon/Energeia tranche at `source/raw/008a-ergon-energeia-pdf-061-062.txt`. Useful local witness, but Cassirer's register cites the GS VII / 1907 form, so edition identity should stay visible. |
 | *Ueber die Verschiedenheiten des menschlichen Sprachbaues* (plural) | none yet | Pull separately as GS VI/1 or make a clearly marked GS VI/1 witness. Do not fold into the singular shelf. |
 | *Ueber den Dualis* | none yet | Pull as GS VI/1 support if chapter III dual/plural/person pressure becomes active. |
 | *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen...* | none yet | Pull as GS VI/1 support if deixis/pronoun/adverb pressure becomes active. |

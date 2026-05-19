@@ -60,7 +60,7 @@ witnesses:
     imprint: "Berlin: S. Calvary & Co., 1876"
     volume: "Zweiter Band"
     coverage_status: "primary_humboldt_text_landed"
-    coverage_note: "Volume 2 begins Humboldt's running text at PDF page 7 / JP2 leaf 0007, printed page 1. The first mapped raw extract covers Section 1, printed pages 1-18."
+    coverage_note: "Volume 2 begins Humboldt's running text at PDF page 7 / JP2 leaf 0007, printed page 1. Mapped raw extracts cover Section 1, Section 8, and a targeted Ergon/Energeia tranche from Section 8."
     archive_id: "berdieverschiede02humb"
     archive_url: "https://archive.org/details/berdieverschiede02humb"
     commons_url: "https://commons.ptsem.edu/id/berdieverschiede02humb"
@@ -115,6 +115,12 @@ witnesses:
         pdf_pages: "60-68"
         jp2_leaf_indexes: "0060-0068"
         printed_pages: "54-62"
+        status: "raw_pdf_text_layer"
+      - id: "band2-section-08-ergon-energeia"
+        path: "source/raw/008a-ergon-energeia-pdf-061-062.txt"
+        pdf_pages: "61-62"
+        jp2_leaf_indexes: "0061-0062"
+        printed_pages: "55-56"
         status: "raw_pdf_text_layer"
     notes: |
       Volume 2 is the primary Humboldt text witness for the current source

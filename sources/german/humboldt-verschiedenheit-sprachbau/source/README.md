@@ -20,10 +20,12 @@ Record landed sidecars in `witnesses.yaml` before using them as evidence.
 - `full/` - whole-text extraction, once there is a chosen OCR or PDF text
   witness.
 - `raw/` - split browsing files, preserving edition seams as much as practical.
+  Smaller targeted raw files are navigation aids, not corrected copy.
 - `normalized/` - checked working tranches only where bounded source work
   requires them.
 
-No text extraction has been promoted here yet.
+The first promoted text surfaces are raw PDF text-layer extracts from Band II:
+Section 1, Section 8, and a targeted Ergon/Energeia tranche inside Section 8.
 
 ## Working Pattern
 

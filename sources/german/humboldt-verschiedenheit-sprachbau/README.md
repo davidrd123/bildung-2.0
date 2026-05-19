@@ -117,6 +117,16 @@ Second raw extract promoted for the core theoretical passage:
 - status: raw, unnormalized
 - note: contains the `Ergon` / `Energeia` formulation.
 
+Targeted raw tranche promoted for the familiar theoretical node:
+
+- `source/raw/008a-ergon-energeia-pdf-061-062.txt`
+- witness: Volume 2 PDF text layer
+- PDF/JP2 leaves: `0061-0062`
+- printed pages: `55-56`
+- status: raw, unnormalized
+- note: begins with the setup that language is something continually passing
+  away and includes the `Werk (Ergon)` / `Thaetigkeit (Energeia)` formulation.
+
 ## Structure
 
 ```text
@@ -147,10 +157,12 @@ After the initial mapping:
 2. Use Band I for Pott's introduction only unless a later check proves
    otherwise.
 3. Continue mapping Volume 2 sections before bulk splitting.
-4. Extract a whole text into `source/full/` only after choosing the best OCR
+4. Check the targeted `Ergon` / `Energeia` raw tranche against JP2/HOCR before
+   quotation, translation, or Chomsky comparison.
+5. Extract a whole text into `source/full/` only after choosing the best OCR
    witness.
-5. Split into `source/raw/` at the edition's natural seams.
-6. Normalize only the bounded tranches that are actually needed for source-near
+6. Split into `source/raw/` at the edition's natural seams.
+7. Normalize only the bounded tranches that are actually needed for source-near
    work.
 
 The original JP2s are visual witnesses, but they are full camera-frame images
