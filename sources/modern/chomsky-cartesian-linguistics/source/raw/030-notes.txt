@@ -1,0 +1,786 @@
+Notes
+
+
+INTRODUCTION TO THE THIRD EDITION
+
+
+1 Juan Huarte near the end of the sixteenth century (see Chomsky’s note 9) had remarked on linguistic creativity, but did not recognize its implications for the scientific study of mind in the way Descartes did.
+
+The creativity that Chomsky is concerned with in Cartesian Linguistics is not that found in the sciences, for two reasons. One is that Cartesian Linguistics focuses on creativity in use, and scientists at work generally try to regulate the ways they use technical terms. This difference is significant; I comment on it below.
+
+Second, Cartesian Linguistics’ creativity rests on concepts already available – typically innate. Scientific creativity involves the invention of new theories and, through them, new concepts. Chomsky’s own scientific work is an example. He virtually created linguistics in its modern form when he abandoned the ill-motivated project of descriptive taxonomy characteristic of much of linguistics when he began – a project where the ‘scientist’ is, as Vaugelas in Cartesian Linguistics claims, “simply a witness” who cannot justify his or her descriptive ‘tools’ – and initiated another project. That project consisted of constructing and improving what Chomsky now calls a “computational” science, a formal study of the biological ‘mechanisms’ by which languages are acquired and sentences put together.
+
+
+
+2 In a debate with Michel Foucault on Dutch television in 1970 (in transcript form in Elders 1974: 143) Chomsky describes his interest in the texts of historical figures such as Descartes and Newton in this way: “I approach classical rationalism not really as a historian of science or . . . philosophy, but from the rather different point of view of someone who has a certain range of scientific notions and is interested in seeing how at an earlier stage people may have been groping towards these notions, possibly without even realizing what they were groping towards. . . .. One might say that I’m looking at history not as an antiquarian . . . interested in finding out and giving a precisely accurate account of what the thinking of the 17th century was – I don’t mean to demean that activity, it’s just not mine – but rather from the point of view of . . . an art lover who wants to look at the 17th century to find in it things that are of particular value and that obtain part of their value . . . because of the perspective with which he approaches them.”
+
+
+
+3 Descartes presents an interesting case. For anyone who wants to pursue the issue, Part III of this introduction focuses on his contributions. One of the puzzles: among his many contributions, Descartes offered the rudiments of a computational theory of vision. It is not obvious why he did not take the (limited, of course) success of this theory as an indication that various other mental operations might be captured by another kind of computational theory. The Port-Royal grammarians who followed him attempted to construct such a theory for language, and for their time made considerable progress.
+
+
+
+4 Keep in mind here and throughout that the labels ‘rationalist’ and ‘empiricist’ are labels for specific views of the mind and of the best way to study the mind scientifically. Rationalists when they study the mind assume nativism and adopt internalism; empiricists are anti-nativist and assume that the study of mind cannot proceed apart from study of how the environment in which a mind is found ‘shapes’ and gives specific content to the mind.
+
+Historical and contemporary candidates for these labels can sometimes be difficult to place in one camp as opposed to another. While Hume, for example (usually classed as an empiricist), held that we get our higher-level concepts and language through a process of learning that amounts to some form of associative grouping stabilized over time by repetition of similar experiences or “impressions” (clearly a general-purpose learning mechanism), he also held that at least some of the operations of our mind seem to be performed automatically and in a remarkably rule-like manner by “secret springs and principles.” He noted, for example, that humans seem to be able to comprehend any novel action and still make what look to be rule-governed judgments about its permissibility. One way of reading the claim about secret springs and principles (and his refusal to try to say what they are) is to construe him as at heart a nativist (at least in certain domains), but one whose skepticism prevents him from undertaking a research project to figure out just what those internal springs and principles are. Jerry Fodor, on the other hand, is a self-declared rationalist, and is indeed like other rationalists a nativist. But he adopts a non-internalist view of mind and its study, as one would expect of someone who wants to think of the study of mind as the study of a representational (denoting, referring) system. Granted, he does not rely on a generalized learning procedure; but his RR credentials – so far as my labeling conventions go – are forfeit. Chomsky, though, is clearly in the RR camp: he is both nativist and rationalist, and – with language and its use – an opponent of the “representational theory of mind” that Fodor says is “the only game in town” if you want to be a cognitive scientist. Chomsky is also an even more vociferous opponent of empiricist “dogma” – of their anti-nativist and externalist view of the mind and their research strategy. Behaviorists – among them, many philosophers still (although they might shun the label) – are clearly in the empiricist camp. So too are many of the psychologists (and philosophers) who call themselves “connectionists.” Connectionism as it is practiced is primarily devoted to pressing the idea that with language and concepts (the complex ones, presumably) the mind gains its language-producing shape and its conceptual contents by the operations of a generalized learning procedure. Their claim that the mind is made up of “neural nets” is innocuous; it is their claim about the initial state of the net (undifferentiated, approximating Locke’s “blank slate”) and their view about how this net gets its “content” (by training, learning) that place them firmly in the empiricist camp. It should surprise no one that a lot of connectionist work is directed to trying to show that some rule or another that is part of a RR theory might be “learned” by a neural net shaped by a generalized learning procedure involving “training.”
+
+
+
+5 People (using what their minds provide) also put together clusters of sentences called “stories” or “tales” or “descriptions”, etc. – depending on the job the cluster is supposed to perform. These are not under consideration here. Stories clearly are not innate. Nor does one learn them. One has to have a language and construct sentences (complexes of concepts of sentential form) to be able to construct stories. The basic issue is how one acquires concepts and the combinatory principles involved in putting sentences together.
+
+
+
+6 The RR theorist has no qualms about naturalistically determinate causal relations in the world-head direction. Relations of this sort figure in an account of acquisition, not use.
+
+
+
+7 Chomsky emphasized this quotation from Strawson (1950: 336) in a talk outlining and defending an internalist approach to semantics (meaning) at Harvard on October 30, 2007.
+
+
+
+8 One can, of course, introduce a technical notion, proper noun, and stipulate that a proper noun denotes a single entity. Probably you will have to introduce a technical notion entity too. But you should not expect to convince an RR theorist aiming to construct a naturalistic theory of language and its meanings that s/he should take your technical terms seriously.
+
+
+
+9 Keep in mind that talks and papers by philosophers and others provide contexts to a large extent under the control of the author or speaker and, unsurprisingly, those writing or speaking tend to construct contexts that suit what they want to defend.
+
+
+
+10 Von Humboldt (discussed earlier in CL and again at its end) makes the same points – as did Descartes, Cudworth, and others in the RR tradition.
+
+
+
+11 Perhaps there is “hi?” But there is also “hey there,” “hello,” “greetings,” “welcome,” not to mention a current favorite among some, “dude.” And none of these or any of the other possibilities for greeting terms – or the few other cases where one can find some degree of regularity in use – will sustain anything like Lewis’s and Sellars’s claims about conventions and practices, not to mention their semantic efforts.
+
+
+
+12 Animal communication often displays something like relatively fixed uses of what their communication systems provide. But that fact – if it is so – has little or nothing to do with human use of natural languages, not to mention human language.
+
+
+
+13 Chomsky and Marr call their theories “representational,” but certainly in Chomsky’s case – and, I would argue, Marr’s too – this has nothing to do with the Fodorian notion of representation, which amounts to something like ‘re-presentation’. Granted, we use vision often to navigate and otherwise deal with our immediate environments. That is only an occasional and insignificant aspect of our use of language. Yet neither theory is ‘about’ the world; each concerns what goes on in the head.
+
+
+
+14 This needs qualification for science, as opposed to common sense. Science’s concepts seem to be inventions of human beings who construct theories. The point about ‘the world’ conforming to concepts remains, but in doing science, we hope that the concepts we construct with our theories offer a more objective (less anthropocentric) way to understand.
+
+
+
+15 This is obvious with philosophers who think that what is in the head is the product of history, acculturation, or the like (Foucault, for example). And it is obvious in Sellars, Putnam, and even Quine. In case it is not obvious with the more experimentally inclined connectionists, consider the following excerpts from an article by Morris et al. (2000) describing the aim of their effort to get ‘neural nets’ (computer models of what they take neural nets to be) to “learn language,” where languages are understood as communal forms of behavior, or “usage.” They explain that children “learn grammatical relations over time, and in the process accommodate to whatever language-specific behaviors . . . [their] target language exhibits.” Further: “From beginning to end this is a usage-based acquisition system. It starts with rote acquisition of verb-argument structures, and by finding commonalities, it slowly builds levels of abstraction. Through this bottom-up process, it accommodates to the target language.”
+
+
+
+16 Classifying Herder and Foucault among the empiricists will surprise some readers. Keep in mind that ‘empiricism’ as used here is a label for a research strategy concerning the human mind, one based on assumptions about the mind’s contents and how they got there. Clearly, both Herder and Foucault are anti-nativist and externalist in their views of language and how to study it. They are, then, empiricists, differing from others largely in a tendency to deny that natural science offers objective descriptions and explanations of world and at least some aspects of mind.
+
+
+
+17 I assume a distinction between common sense and science – or at the very least, the advanced mathematical sciences. The distinction goes back to Descartes, perhaps before. In his Discourse he contrasts the kind of study he is interested in (what we would now call natural science) and its methodology (which he helped clarify) to what one finds in “bon sens,” sometimes (and plausibly) translated as “common sense.” Chomsky adopts the distinction; it appears in much of his work. See his (1975a, 1988a, 1995a, 2000). Motivations for the distinction include the fact that children do not readily acquire scientific concepts and theories (although they may use sounds like “lepton”) nor do they – or any but those very familiar with the sciences – routinely display scientific creativity. It is relevant too that scientists and mathematicians try to regulate their uses of technical terms when communicating with others in the field. Their uses of technical terms are much closer to what the empiricist seems to believe is the case with common-sense concepts and their everyday use in natural languages.
+
+
+
+18 That is perhaps true for physics, but not for study of the mind. Quine’s “naturalized epistemology” holds that there are “causal” relations between sensory impingements and the beliefs and knowledge people develop about the world, where psychology is supposed to cash out these causal relations. But the story he tells about psychology in his naturalized epistemology material (Quine, 1969) seems to be little different from the view he develops of concepts, language, and world in his neglected 1974 The Roots of Reference. In that work, one finds standard empiricist claims about how psychological “causal” relations come to be established: with the exception of some “saliencies” found in sensory systems, causal relationships are under exogenous control. This is not ‘naturalizing’ the study of mind – it is not treating the mind as a natural object that grows according to a biophysical agenda and using the tools of naturalistic research to understand it. As for Sellars, his (1960, among others) simply assumes that the science of mind (psychology, I presume) is behaviorism, and he explicitly adopts an early version of the connectionists’ view of the brain and its ‘learning’. He does gesture in the direction of evolution for bee languages – a naïve version of evolution, at least. But he shows no inclination to extend what he says there to human language. That would have the effect of separating language from “reason,” which he takes to be ours by virtue of learning language. It would detach what he took to be the epistemic norms of reason from their ‘home’ in the linguistic community. Chomsky’s idea of studying language (including its meanings) apart from the use of language did not occur to him, or – obviously – to many other philosophers and cognitive scientists.
+
+
+
+19 The term is due to Elman, one of the more famous and productive connectionists.
+
+
+
+20 The preface Chomsky added to a 1967 reprint of his 1959 review of the behaviorist B. F. Skinner’s Verbal Behavior remains apropos. “I had intended this review not specifically as a criticism of Skinner’s speculations regarding language, but rather as a more general critique of behaviorist (I would now prefer to say ‘empiricist’) speculations as to the nature of higher mental processes. My reason for discussing Skinner’s book in such detail was that it was the most careful and thoroughgoing presentation of such speculation. . . Therefore, if the conclusions I attempted to substantiate in the review are correct, as I believe they are, then Skinner’s work can be regarded as, in effect, a reductio ad absurdum of behaviorist [and empiricist] assumptions. My personal view is that it is a definite merit, not a defect, of Skinner’s work that it can be used for this purpose, and it was for this reason that I tried to deal with it fairly exhaustively. I do not see how his proposals can be improved upon, aside from occasional details and oversights, with the framework of the general assumptions that he accepts. I do not, in other words, see any way in which his proposals can be substantially improved within the general framework of behaviorist or neobehaviorist, or, more generally, empiricist ideas that has dominated much of modern linguistics, psychology, and philosophy. The conclusion that I hoped to establish in the review, by discussing these speculations in their most explicit and detailed form, was that the general point of view is largely mythology, and that its widespread acceptance is not the result of empirical support, persuasive reasoning, or the absence of a plausible alternative.” (1959/1967: 142)
+
+
+
+21 The scare quotes are justified. The connectionists’ neural nets are computers made to simulate not what one actually finds in the case of actual neural nets – very complex forms of interconnected neurons that develop under genetic control to provide the organism with cognitive and other systems that are more or less the same across the human population. They are made to simulate Locke’s blank slate.
+
+
+
+22 ‘Generative’ can mean (and often does mean in CL, and certainly did for the Port-Royalists) ‘productive’, generally understood to require some recursive principles to allow for infinite competence, given human finite means. In more technical formal work, it means (or perhaps means also) ‘explicit’ or ‘formal’.
+
+
+
+23 Note that this measure of ‘better than’ explicitly relies on a technical sense of simplicity. Simplicity, as mentioned before, is another desideratum of science. The fate of the notion of simplicity in Chomsky’s work – its beginnings in the work of his teacher Nelson Goodman, its varieties in Chomsky’s work, and its extraordinarily important role in “minimalism” – is a fascinating study in itself, but unfortunately it is beyond the scope of this introduction.
+
+
+
+24 It is possible he dealt with such matters in the final volume of Le Monde. He destroyed that work when he heard of Galileo’s fate, however, so we will never know.
+
+
+
+25 Descartes held that animals are machines – that their actions are determined by external stimulus and inner state, and can be understood by using a deterministic contact mechanics (which includes a mechanical interpretation of neurophysiological function). We know he was wrong to think of them this way, but his test applies in any case.
+
+
+
+26 The test itself has obvious limitations. There are cases where, due to trauma or disease, people who demonstrated normal linguistic competence at one time become (perhaps temporarily) incapable of expressing language at all. An obvious if trivial example is a normal speaking person who has had a throat operation and cannot speak. There are other kinds of cases too, some of them extremely interesting from a scientist’s point of view because they reveal novel features of human language and mind. Still, Descartes’s test for mind is the best easily applied test anyone has come up with, and it takes no special skills or knowledge to apply. In only a slightly different form, Alan Turing reinvented Descartes’s test and suggested trying it out on programmable machines. He optimistically and incorrectly predicted that it would be possible to program a computer to pass it by the year 2000. Some of his other points are worthwhile, however, and his 1950 Mind paper “Computing Machinery and Intelligence” bears closer reading than it often receives. One of the more important of those insights, usually ignored, is that if a machine does pass the test, no fact of the matter has been determined; no scientific issue is resolved. The test offers no evidence in favor of a specific science of mind, and it does not show that the mind works the way the computer that passes the test does (any more than Big Blue’s win at chess shows that the human chess player’s mind works that way). All that is claimed to follow is that success might offer a reason to decide whether to say that a machine thinks – to decide whether to change one’s use of language and say that machines think (now often done anyway, without satisfying anything as strict as Turing’s test). For the naturalistic scientist of mind, this is about as interesting a question as whether excavators really do dig, or whether submarines swim. Usage – as linguistic creativity reveals – can vary, but with no consequence for (in this case) the naturalistic science of fish or the hydraulic systems of excavators.
+
+The significance of the test for Chomsky is quite different and more in line with another of Turing’s aims: “investigating the intellectual capacities of man.” The test (or rather, failure to pass it in the unrestricted case contemplated by Descartes) provides a reason to strongly suspect that some problems – here, constructing a science of the creative aspect of language use – are beyond the reach of human intelligence. And it underscores a basic assumption of RR research strategy: one should proceed on the assumption that there might well be limits to our science’s capacity to deal with human behavior – behavior that to all appearances seems to be free. The biolinguist expects limitations on human problem-solving capacities (both common-sense and scientific). We are, after all, natural biological organisms. See Chomsky 1988, ch. 5.
+
+Note that the significance of the test for Descartes, Cordemoy, and others in the seventeenth century was rather different; it was then clearly relevant to the principles of physical science as understood at the time and it suggested what seemed then to be a plausible hypothesis concerning how to deal with it: creativity must be due to a different principle, lodged in a non-bodily “substance.” Introducing mental substance to lodge a principle of creativity was for them then just doing what we would think of now as ‘normal science’. It was proposing a scientific solution to a scientific problem.
+
+Nothing came of Descartes’s proposed solution to the problem, obviously. Apparently, science still cannot deal with the matter, even though science – including the science of mind – has changed very considerably since Descartes’s time. Perhaps we should reintroduce a distinction Chomsky introduced (in Chomsky 1975a): if there is no known or even remotely plausible solution to a problem, in spite of many efforts to contend with it, it is not a problem but a mystery.
+
+
+
+27 The language faculty does not actually do anything, of course. People do things. But, having it, people can do things (produce apparently endless numbers of sentences) at will. This point is part of what Chomsky is after in insisting that his is a theory of linguistic competence, not performance.
+
+
+
+28 The attractions of a contact mechanics – its apparently obvious character, probably due to the common-sense observation that to move a chair, you must come into contact with it – continued to keep Newton in its grip. He even spoke of action without contact as “absurd,” and tried to save contact mechanics by introducing a “subtle aether,” making various odd-looking moves to justify this effort. Contact mechanics continues its grip. It is hard to find any explanation for why contemporary philosophers who exercise themselves over a mind–body problem apparently continue to assume that Descartes was right about “body.” See below.
+
+
+
+29 In recent talks and papers (Chomsky, forthcoming), Chomsky points out that philosophers tend now to focus on quite a different issue. This is an issue raised many years ago by Bertrand Russell with his example of a blind physicist who had a good understanding of the causal structure of the universe, but who could not experience blue: does a complete science of the universe leave out experience as it is undergone? Russell’s answer (or at least one of his answers) is, in essence, that physics aims towards an objective theory of the “causal skeleton of the world,” and – because it does, and introduces formal tools to succeed – it cannot deal with everything, only those matters that the tools of science can reach. Given this, it is hardly surprising that the predominantly anthropocentric aspects of the world of experience are outside of science’s reach (although see the second paragraph below). Science is limited by its aim and by the tools that allow for success in carrying out its task. (And everyday experience and the common-sense concepts we use to configure and understand it are hopeless as science too, of course; they too have their limitations.)
+
+Putting the issue in Russell’s way focuses matters in a way that improves, I think, on the way the discussion often goes in recent work – wondering whether science can deal with experiencing red, speculating about whether we can know “what it is like to be a bat” (weasel, octopus. . .), and the like. Russell focuses discussion not on differences between third-person and first-person understandings in various domains, but on human cognitive capacities and the tools that they provide. This focus on capacities and the tools available for exercising them not only makes it clear that there are substantial differences between what science and common sense provide, but it points to the fact that whatever we have, we have it as biological creatures. Any cognitive capacities we have are limited, and limited in specific, and different, ways. Common sense has an anthropocentric focus and is comfortable with linguistic creativity. It relies heavily on native conceptual tools and on the extraordinary combinatory power offered humans by a system that allows us to put together arbitrarily chosen concepts. Because both come ‘for free’, common sense allows for highly flexible use at an early age – flexibility that is exploited all the time, as we have seen. But common sense proves useless at providing genuinely objective – anthropocentric-free – descriptions and explanations. That is the task of science, a project that (as we have seen) is uncomfortable with ‘ordinary’ linguistic creativity and that succeeds where there is very considerable agreement on how to use the symbols characteristic of a particular science. Apparently, we have at least two ways of ‘cognizing’ the world and ourselves. Neither can do the other’s job. And both have the characters they do because each is biologically based – although this is less obvious in the case of science-formation (for arguments that it is biologically based, see Chomsky 1980/2005).
+
+It is instructive to look at one of the issues that philosophers discuss from this point of view. Consider the matter of qualia. A philosopher might claim that having an experience of red counts as an essentially mental occurrence, out of the reach of ‘physical’ science. But it is easy to see that its distinctively mental character proves elusive. The best existing attempts to say what ‘equipment’ one needs to have such an experience point in the direction of being a biological creature with certain kinds of biophysical equipment. There is little help for a distinct mental domain there. And if asked to describe an experience of red, one would be hard pressed using the terminology of natural languages (as opposed to philosophers’ shop talk terminology of ‘qualia’) to do more than say that you see something red over there – which attributes redness to something ‘over there’ and presumably outside the head, not to some mental event. Ironically, a computational theory of the vision faculty does a better job of making it clear that color (or more technically, a combination of hue, brightness, and saturation) lies in the mind/brain than does common sense or philosopherese. The irony becomes even more apparent when one is asked to describe the experience. Natural languages typically take colors to be properties of surfaces of objects ‘out there’, and color terms (‘red’, ‘yellow’, ‘green’, ‘blue’. . .) are very limited. If one wants a precise description of a color experience, the terminology of hue, brightness, and saturation (which would need to be supplemented to deal with some colors (such as brown and fluorescent colors) that involve other aspects of a theory of color) attributed to retinotopic visual expanses is much better: this clearly locates colors (and even positions) in the head, and offers as precise a specification of color as one is likely ever to need. ‘Mentalists’ about color qualia would do far better with the ‘third-person’ terminology of the sciences than the ‘first-person’ terminology of experience. As for ‘physicalists’, their view of the nature of body is typically Cartesian – as the text indicates. But that conception of body was abandoned by physicists centuries ago. So the points made here hardly indicate that physicalism ‘wins’.
+
+
+
+30 He observed that – given what his optics revealed about the eye, the retina, and light – properties of the signal, the retina, and of the eyeballs themselves can at best correlate with ‘what one sees’ – with colored, shaped visual fields, and the sensation of depth that partially constitutes these fields. These various “movements” of eyeball, etc., which act upon our “soul” clearly do not resemble the mental qualities sensed (“light, colour, position, distance [depth], size and shape”); rather, nature “ordains. . . [that the movements make the soul] have such sensations” (CSM I: 167). He could have done the same with sound: tympanic vibrations correlate with, for example, a heard brilliant high E. Or with touch, etc.
+
+
+
+31 In comments on a draft of this introduction, Chomsky pointed out to me that Descartes had made some visual poverty observations that invited maintaining that Euclidean geometry is innate to the mind. In effect, he not only made poverty observations, but he understood that they demanded an explanation by recourse to a theory/science of what the mind brings to experience. Chomsky remarks, “To my knowledge, [Descartes] is the first to have clearly stated the problem of poverty of stimulus, in his passage in the Dioptrics about how an infant on first seeing a figure will interpret it as a distorted triangle, not as a perfect instance of whatever crazy figure it is, which seems only a step away from postulating that something like Euclidean geometry is innate [to the human mind] and provides the framework for perception, on poverty of stimulus grounds.”
+
+
+
+32 See David Marr’s 1982 Vision for an early and still very impressive account. His view of color processing is by no means state-of-the-art, and a lot has gone on since the book’s appearance in the early 1980s in other areas of vision. But his view of how to proceed remains a paradigm.
+
+
+
+33 An I-language is something like a specific person’s idiolect. More carefully, it is a language that is individual, internal, and intensional. The first two terms – ‘individual’ and ‘internal’ – are self-explanatory. To say that an I-language is intensional is to say that it is specified “under intension” – in effect, you have to have a theory of language in order to say what it is. Or to put it another way, a language is an intensional function: take a list of lexical items and specify the combinatory principles/functions; together, these determine the possible sentences of a language. In practice, assuming that the combinatory principles of a person’s language faculty are in a known steady state, one can specify an I-language by listing a person’s lexical entries.
+
+
+
+34 Could he have had in mind not sensation of (say) a color or depth sort, but judgment thereof? That would, on his own grounds, involve more than what the visual (or for the blind, touch) system can provide. Against this is that he clearly holds that colors and sounds are mental and innate to the mind, and are distinct from the “movements” of sensory equipment.
+
+
+
+35 An early reference is found in reprinted form in his Towards a New Cold War (1982): 64. He sometimes calls intellectuals (responsible ones excepted) members of a secular priesthood. Where priests are supposed to mediate between a deity and the human beings who need to be told what they should and should not do and justify the authority of the deity, members of a secular priesthood mediate between a different kind of authority to explain and justify to the ignorant the considerably less-than-obvious principles of the “state religion.” In the US and other capital-dominated systems currently, the state religion is a form of neoliberal or neoconservative faith in “free markets,” “free trade,” and other supposed miracles of the marketplace that are thought to somehow justify massive economic and political inequalities. The eighty percent or so of the US population who lack a managerial position seem to need considerable guidance in this matter, for these “rabble” must be kept in line. Note that Chomsky includes among these intellectuals the personnel of major corporate-run media institutions – TV, newspapers, etc. The propaganda model of media performance that he and Edward Herman constructed to explain these intellectuals’ actions nicely predicts how they filter and skew what they write about, and how they present information. Their hypothesis is that while corporate-run media personnel may engage in internal dispute about whether they are not perhaps too liberal, they will never question the articles of the secular faith, and will frame the information they provide their audiences in ways that advances these articles. The hypothesis’s success at prediction (detailed by Chomsky and Herman, and Chomsky alone [in Chomsky 1988b]) shows that they must be near the mark.
+
+
+
+
+
+CARTESIAN LINGUISTICS
+
+
+1 M. Grammont, Revue des langues romanes 60 (1915), p. 439. Quoted in G. Harnois, “Les théories du langage en France de 1660 à 1821,” Études françaises 17 (1929). Harnois in essence agrees, holding that earlier linguistics hardly merits the name “science” and that he is engaged in a “history of linguistics before there was a linguistics.” Similar views have been widely voiced.
+
+
+
+2 By a “generative grammar” I mean a description of the tacit competence of the speaker-hearer that underlies his actual performance in production and perception (understanding) of speech. A generative grammar, ideally, specifies a pairing of phonetic and semantic representations over an infinite range; it thus constitutes a hypothesis as to how the speaker-hearer interprets utterances, abstracting away from many factors that interweave with tacit competence to determine actual performance. For recent discussion, see Katz and Postal, An Integrated Theory of Linguistic Descriptions (Cambridge: M.I.T. Press, 1964); Chomsky, Current Issues in Linguistic Theory (The Hague: Mouton, 1964); Aspects of the Theory of Syntax (Cambridge: M.I.T. Press, 1965). [Terminology related to “competence” includes “core grammar” (Chomsky, 1981). The distinction between competence and performance can be seen as a distinction between language and its use; it appears in Chomsky’s work in various forms. The literature is enormous. Restricting the list to a few of Chomsky’s representative works alone, see Chomsky 1975a, 1980, 1981, 1986, 1988a, 1995, and 2000. Among these, 1975a, 1980, 1988a, and 2000 are more accessible to general audiences than the others. For useful additional discussion, see Smith 1999.]
+
+
+
+3 Nor should it be assumed that the various contributors to what I will call “Cartesian linguistics” necessarily regarded themselves as constituting a single “tradition.” This is surely not true. With the construct “Cartesian linguistics,” I want to characterize a constellation of ideas and interests that appear in the tradition of “universal” or “philosophical grammar,” which develops from the Port-Royal Grammaire générale et raisonnée (1660); in the general linguistics that developed during the romantic period and its immediate aftermath; and in the rationalist philosophy of mind that in part forms a common background for the two. That universal grammar has Cartesian origins is a commonplace; Sainte-Beuve, for example, refers to the Port-Royal theory of grammar as “a branch of Cartesianism that Descartes himself had not developed” (Port-Royal, vol. III, 1860, p. 539). An association of the general linguistics of the romantic period to this complex is less immediately obvious, but I will try to show, nevertheless, that some of its central features (and, furthermore, those which seem to me to constitute its most valuable contribution) can be related to Cartesian antecedents.
+
+By discussing romantic theories of language and mind within this framework, I am forced to exclude other important and characteristic aspects of these theories; for example, the organicism that was (rightly or wrongly) taken to be a reaction against Cartesian mechanism. In general, it must be emphasized that my concern here is not with the transmission of certain ideas and doctrines, but with their content and, ultimately, their contemporary significance.
+
+A study of this sort could profitably be developed as part of a more general investigation of Cartesian linguistics as contrasted with a set of doctrines and assumptions that might be referred to as “empiricist linguistics” and illustrated by modern structural and taxonomic linguistics as well as by parallel developments in modern psychology and philosophy. I will not attempt to develop this distinction any more fully or clearly here, however.
+
+
+
+4 It should be borne in mind that we are dealing with a period that antedates the divergence of linguistics, philosophy, and psychology. The insistence of each of these disciplines on “emancipating itself ” from any contamination by the others is a peculiarly modern phenomenon. Again, current work in generative grammar returns to an earlier point of view, in this case, with respect to the place of linguistics among other studies.
+
+
+
+5 He leaves open, as beyond the limitations of human reason, the question whether the explanatory hypotheses that he proposes are the “correct” ones in any absolute sense, limiting himself to the claim that they are adequate, though obviously not uniquely so. Cf. Principles of Philosophy, pt. IV, art. CCIV.
+
+The context of this discussion of the limits of mechanical explanation must be kept clearly in mind. The issue is not the existence of mind, as a substance whose essence is thinking. To Descartes, this is obvious from introspection – more easily demonstrated, in fact, than the existence of body. What is at stake is the existence of other minds. This can be established only through indirect evidence of the sort that Descartes and his followers cite. These attempts to prove the existence of other minds were not too convincing to contemporary opinion. Pierre Bayle, for example, characterizes the presumed inability of the Cartesians to prove the existence of other minds “as perhaps the weakest side of Cartesianism” (art. “Rorarius,” in Bayle’s Dictionnaire historique et critique (1697); Historical and Critical Dictionary, trans. R. Popkin (Indianapolis: Bobbs-Merrill, 1965), p. 231).
+
+
+
+6 Discourse on the Method, pt. V. [In The Philosophical Writings of Descartes, trans. J. Cottingham, R. Stoothoff and D. Murdoch, 2 vols. (Cambridge: Cambridge University Press, 1984–5), abbreviated CSM I, CSM II.]
+
+In general I will use English translations where these and the original are readily available and will cite the original otherwise, if available to me. In citing original sources, I will occasionally regularize spelling and punctuation slightly.
+
+
+
+7 For some recent views and evidence on this question, see E. H. Lenneberg, “A Biological Perspective of Language,” in New Directions in the Study of Language, ed. E. H. Lenneberg (Cambridge: M.I.T. Press, 1964). [The literature is now massive. For a popular discussion of some issues, see Pinker 1995; Pinker and Chomsky do not, however, agree on the issue of the evolution of language. Jenkins 2000 has a clear and general but more technical discussion of some of Chomsky’s views on the topic. In a related vein, Chomsky often now refers to formal work on morphogenesis by Alan Turing and D’Arcy Thompson, and has suggested – speculatively at this stage – that perhaps language ‘evolved’ as a consequence of what happens to physical and biological processes when placed in a specific and complex form of organism. This is not evolution as popularly conceived, where it is supposed that evolution amounts to some kind of natural selection that yields reproductive advantages. This usual conception of evolution is generally assumed to require many millennia in order to produce a complex system; it also bears a remarkable resemblance to behaviorism, a fact noted by Skinner. It may not even be Darwinian; often, it assumes a Lamarckian cast.
+
+Recent linguistic work within the minimalist project (post-1990s) has opened up the possibility that language (specifically, competence, or what is now seen as a ‘narrow’ conception of language (FLN: the faculty of language, narrow) that focuses on the linguistic ‘core’ (also “narrow syntax”) is in fact very simple, amounting perhaps to nothing more than recursion or the operation Merge. This also makes the introduction of language at a single step a realistic possibility. Assuming that what happens with regard to the production of sounds or the interpretation of semantic ‘features’ is already in place, it would be enough if a single mutation took place in a single member of the species homo, where that mutation introduced Merge and was genetically transmissible. Having recursion allows for n-word sentences (more interestingly, n-concept meanings), offering extraordinary advantages to members of a group that had the relevant gene(s). The introduction of language at a single step also makes sense of the fact that sometime between 50 and 100 thousand years ago, humans began to develop art and religion (a form of explanation, after all), organize themselves into different forms of social system, observe the stars and seasons, develop agriculture, and so on. The great migration from Africa began about this time too. This all makes sense if it was during this period that language came to be introduced, a period that is very short in evolutionary time.]
+
+
+
+8 Obviously, the properties of being unbounded and being stimulus-free are independent. An automaton may have only two responses that are produced randomly. A tape recorder or a person whose knowledge of a language extends only to the ability to take dictation has an unbounded output that is not stimulus-free in the intended sense. Animal behavior is typically regarded by the Cartesians as unbounded, but not stimulus-free, and hence not “creative” in the sense of human speech. Cf., for example, Francois Bayle, The General System of the Cartesian Philosophy (1669) (English translation 1670, p. 63): “And because there may be an infinite variety in the impressions made by the objects upon the senses, there may also be an innumerable variety in the determination of the Spirits to flow into the Muscles, and by consequence, an infinite variety in the Motions of Animals; and that the more, because there is a greater variety of parts, and more contrivance and art in the structure.” The unboundedness of human speech, as an expression of limitless thought, is an entirely different matter, because of the freedom from stimulus control and the appropriateness to new situations.
+
+It is important to distinguish “appropriateness of behavior to situations” from “control of behavior by stimuli.” The latter is characteristic of automata; it is the former that is held to be beyond the bounds of mechanical explanation, in its full human variety.
+
+Modern studies of animal communication so far offer no counterevidence to the Cartesian assumption that human language is based on an entirely distinct principle. Each known animal communication system either consists of a fixed number of signals, each associated with a specific range of eliciting conditions or internal states, or a fixed number of “linguistic dimensions,” each associated with a nonlinguistic dimension in the sense that selection of a point along one indicates a corresponding point along the other. In neither case is there any significant similarity to human language. Human and animal communication fall together only at a level of generality that includes almost all other behavior as well. [Studies since 1966 continue to indicate that there is no counterevidence. Studies also show that unless humans are given at least a minimal amount of experience of the relevant kind (hearing or seeing language spoken or signed by others, for example) before a certain critical stage, they cannot acquire full linguistic competence. See, among others, the study of Genie in Curtiss 1976.
+
+I (the ed.) emphasize the special status of appropriateness in the creative aspect of language use in the new introduction to this third edition. Recursion can make sense of innovation or the unbounded characteristics of language, and – at a stretch – a randomizing element could deal with stimulus freedom. So a computer program might allow for both. But there is no obvious way to make sense of appropriateness while meeting the other two. It has proven impossible so far – and may always prove so – to meet all three conditions of being linguistically creative.]
+
+
+
+9 In general, then, “although machines can perform certain things as well as or perhaps better than any of us can do, they infallibly fall short in others, by the which means we may discover that they did not act from knowledge, but only from the disposition of their organs.” There are, then, two “very certain tests” by which we can determine whether a device is really human, the one provided by the creative aspect of language use, the other, by the diversity of human action. “It is virtually impossible” (in the Haldane-Ross translation, “morally impossible”) “that there should be sufficient diversity in any machine to allow it to act in all the events of life in the same way as our reason causes us to act.” In taking this position, Descartes expands on his conception of the “cognitive power” as a faculty which is not purely passive and which is properly called “native intelligence [ingenium]” when it “ forms new ideas in the corporeal imagination, or concentrates on those already formed,” acting in a way that is not completely under the control of sense or imagination or memory (Rules for the Direction of the Mind (1628); CSM I, 42). Still earlier, Descartes remarks that “the high degree of perfection displayed in some of their actions makes us suspect that animals do not have free will” (“Olympian Matters” c.1620; CSM I, 5).
+
+The idea that the “cognitive power” is properly called “mind” only when it is in some sense creative has earlier origins. One source that might well have been familiar to Descartes is Juan Huarte’s Examen de Ingenios (1575), which was widely translated and circulated (I quote from the English translation by Bellamy, 1698). Huarte understands the word Ingenio to have the root meaning “engender,” “generate” – he relates it to gigno, genero, ingenero (p. 2). Thus “one may discover two generative Powers in Man, one common with the Beasts and Plants, and the other Participating of Spiritual Substances, God and the Angels” (p. 3). “Wit [Ingenio] is a generative power . . . the Understanding is a Generative Faculty” (p. 3). As distinct from divine “Genius,” the human “rational soul” and “spiritual substances” do not have “sufficient Force and Power in their Generation to give real being to what they Ingender” but only “to produce an accident in the Memory,” “an Idea and Image of what we know and understand” that must be given concrete existence by work and art (pp. 4–5). Similarly the arts and sciences are “a sort of Images, and Figures, begotten by [men’s] Minds in their Memory, which represent to the Life the Posture and natural Composition of the Subject relating to the intended Science” (p. 6). One who learns some subject must “Engender within himself an entire and true Figure” that represents its principles and structure (p. 6). Truly active minds will be “such, that assisted by the subject only, [they will] without the help of any Body, produce a thousand Conceits they never heard spoke of ” (p. 7). The empiricist maxim, “That there is nothing in the Understanding, but what has past through the Sense,” attributed to Aristotle, applies only to “docile wits” that lack this capacity. Although the “perfect wit” is only an ideal case, “yet it must be granted, we have observ’d many Persons approach very near it, inventing and saying such things as they never heard from their Masters, nor any Mouth” (p. 16). There is even a third kind of wit “by means of which, some have without Art or Study spoke such subtle and surprizing things, and yet true, that were never before seen, heard, or writ, no nor ever so much as thought of ” and which may involve “a mixture of Madness” (p. 17); these three types of wit involve the memory, understanding, and imagination, respectively. In general, “all [man’s] Honour and Nobility, as Cicero observed, consists in his being favour’d with, and having an Eloquent Tongue: As Wit is the Ornament of a Man, so Eloquence is the Light and Beauty of Wit. In this alone he distinguishes himself from the Brutes, and approaches near to God, as being the greatest Glory which is possible to be obtained in Nature” (p. 22). The most severe “disability of wit,” under which men “differ not at all from Brute Beasts,” is the disability, which “very much resembles that of Eunuchs . . . unable for Generation,” that prevents the rational faculty from arriving at “the first Principles of all Arts implanted in the Scholar’s Mind, before he begin to learn, for which the Wit can give no other proofs of itself, than to receive them as things already known; and if he be not able to form an Idea of them in his Mind, we may strongly conclude him wholly incapable of the Sciences.” In this case, “neither the Lash of the Rod, nor his Cries, nor Method, nor Examples, nor Time, nor Experience, nor any thing in Nature can sufficiently Excite him to bring forth any thing” (pp. 27–28).
+
+See K. Gunderson, “Descartes, La Mettrie, Language and Machines,” Philosophy 39 (1964), pp. 193–222, for an interesting discussion of Descartes’s arguments as related to contemporary discussions of “intelligence” of automata. For general background on the development and critique of Descartes’s theory of the extent and limits of mechanical explanation, see Rosenfield, op. cit., and H. Kirkinen, “Les origines de la conception moderne de l’homme-machine,” Annales Academiae Scientiarum Fennicae, ser. B, vol. 22, Helsinki (1961).
+
+
+
+10 Translated (in part) in H. A. R. Torrey, The Philosophy of Descartes (New York: Holt, 1892), pp. 281–284. [The translation that appears here, and in all subsequent quotations from Descartes’s correspondence, is from The Philosophical Writings of Descartes, vol. III: The Correspondence, trans. J. Cottingham, R. Stoothoff, D. Murdoch and A. Kenny (Cambridge: Cambridge University Press, 1991) (abbreviated CSMK).]
+
+
+
+11 That is, by conditioning. When animals are taught “by art,” their actions are produced with reference to a passion, in the sense that this behavior is associated with the “stir of expectation of something to eat” or the “motions of their fear, their hope, or their joy” that constitute the original contingency for the teaching. Descartes is therefore pointing out that, just as in its normal use “verbal behavior” is free of identifiable external stimuli or internal physiological states, so it is evidently not developed in the individual by conditioning. He does not elaborate on this, regarding it perhaps as too obvious to merit discussion. It is noteworthy that modern behaviorist speculation about human learning denies these truisms. For some discussion, see Chomsky, “Review of Skinner, ‘Verbal Behavior,’” Language 35 (1935), pp. 26–58; Aspects of the Theory of Syntax, chap. I, §8; J. Katz, Philosophy of Language (New York: Harper & Row, 1966); J. Fodor, “Could Meaning be an ‘rm’’” Journal of Verbal Learning and Verbal Behavior 4 (1965), pp. 73–81. [For useful contemporary discussion of organisms’ modular learning and its explanation, see Gallistel 1990, 2002. Chomsky has in recent years referred approvingly to Gallistel’s work. For a fascinating study of linguistic modularity in a polyglot savant, see Smith and Tsimpli 1995.]
+
+
+
+12 The Descartes–More correspondence, in so far as it relates to animal automatism, is translated in full by L. C. Rosenfield (L. Cohen) in the Annals of Science 1 (1936) [and in CSMK].
+
+
+
+13 Descartes goes on to explain that he does not deny to animals life or sensation or even feeling, in so far as it depends only on the bodily organs.
+
+
+
+14 Discours physique de la parole (1666). Page references are to the second edition, 1677. There is an English translation, dated 1668. Rosenfield remarks that Cordemoy develops Descartes’s argument involving lack of true speech among animals so fully that after him “the point was given very little attention, as if subsequent authors considered this the last word on the subject” (From Beast-Machine to Man-Machine, p. 40).
+
+
+
+15 There is no problem, for Cordemoy (as for Descartes), in determining whether he himself possesses a soul, since it is evident to him, by introspection, “that certain thoughts always accompany in me most of the movements of my organs” (p. 3).
+
+
+
+16 La Mettrie, L’homme machine (1747). A critical edition with notes and background material is La Mettrie’s L’homme machine: A Study in the Origins of an Idea, ed. A. Vartanian (Princeton: Princeton University Press, 1960). [The translations given here are from La Mettrie 1996, but reference is also given to the translation in Man A Machine (La Salle, Ill.: Open Court, 1953) (abbreviated MaM), which contains the French text.]
+
+
+
+17 Père G. H. Bougeant, Amusement philosophique sur le langage des bestes (1739).
+
+
+
+18 This is not to deny that the method of explanation suggested by La Mettrie may be in principle correct. What concerns me here is not the adequacy of the proposed explanations of Descartes and others, but the observations on human language that elicited these attempts. [The prospect of being unable ever to scientifically explain the creative aspect of language use plays an important role in Chomsky’s post-1966 discussions, where it illustrates general claims about the (biological) limitations of human intelligence. See the editor’s introduction for discussion and references.]
+
+
+
+19 G. Ryle, The Concept of Mind (London: Hutchinson, 1949). See J. Fodor, “Is Psychology Possible?” chap. I of Psychological Explanation (New York: Random House, 1968), for a critique of the views of Ryle and others regarding psychological explanation.
+
+
+
+20 These are described in terms of “powers,” “propensities,” and “dispositions,” which are characterized only through scattered examples. These constitute a new “myth” as mysterious and poorly understood as Descartes’s “mental substance.”
+
+
+
+21 L. Bloomfield, Language (New York: Holt, 1933), p. 275. When a speaker produces speech forms that he has not heard, “we say that he utters them on the analogy of similar forms which he has heard.” For Bloomfield, human language differs from animal communication systems in no fundamental way, but only by its “great differentiation.” Otherwise, its function is similar. “Man utters many kinds of vocal noise and makes use of the variety: under certain types of stimuli he produces certain vocal sounds, and his fellows, hearing these same sounds, make the appropriate response” (p. 27). He holds that “language is a matter of training and habit” (p. 34) and that with careful statistical investigation “we should doubtless be able to foretell how many times any given utterance . . . would be spoken within a fixed number of days” (p. 37) (a conclusion that is certainly correct, since for almost all normal utterances the predicted number would be zero).
+
+
+
+22 C. F. Hockett, A Course in Modern Linguistics (New York: Macmillan, 1958), §36, p. 50. He remarks that “it has been said that whenever a person speaks, he is either mimicking or analogizing,” and he accepts this view, stating that “when we hear a fairly long and involved utterance which is evidently not a direct quotation, we can be reasonably certain that analogy is at work” (p. 425). Among modern linguists, Hockett is unusual in that he has at least noticed that a problem exists. In discussing innovation, Hockett seems to imply that novel expressions can be understood only through reference to context (p. 303). In fact, failure to consider the linguistic mechanisms that determine the meaning of the ordinary, generally quite novel sentences of everyday life is typical of modern linguistics.
+
+
+
+23 Modern discussions of the difference between human language and animal communication systems occasionally recapture some of the Cartesian insights. See, for example, L. Carmichael, “The Early Growth of Language Capacity in the Individual,” in New Directions in the Study of Language, ed. E. H. Lenneberg.
+
+
+
+24 J. G. Herder, Abhandlung über den Ursprung der Sprache (1772). This is now available in part, in Herder’s Sprachphilosophie, ed. E. Heintel (Hamburg: Felix Meiner Verlag, 1960), pp. 1–87. Page references are to this volume. [Translations from this work are by Susan-Judith Hoffmann; references remain as they were in the original edition. There is a modern translation of the work in Herder 1966.]
+
+
+
+25 This is true as well of the development of language in the individual. Study of the “origin of language” is essentially a study of the “essence of language,” in this period, and the growth of language in the individual and its growth in the nation are often taken to be parallel in their general characteristics. Cf. A. W. Schlegel, Die Kunstlehre (1801) (Stuttgart: W. Kohlhammer Verlag, 1963), p. 234: in the discovery of language by children, “that which takes place in the invention of language by the human race in general finds itself ever repeated, albeit in fainter traces”; in general, “in the acquisition of language, we find the same ability at work, which is present in the invention of language, in a higher degree” (p. 235). Under the influence of Humboldt, H. Steinthal goes even further and states, “There is no distinction between the primordial creation of language and its daily re-creation” (Grammatik, Logik und Psychologie. [Berlin, 1855], p. 232).
+
+
+
+26 Discourse on the Method, CSM I, 140.
+
+
+
+27 Descartes does not restrict language to purely intellectual function in a narrow sense. See, for example, Principles of Philosophy, pt. IV, art. 197 (CSM I, 284): For we see that spoken or written words excite all sorts of thoughts and emotions in our minds. With the same paper, pen and ink, if the tip of the pen is pushed across the paper in a certain way it will form letters which excite in the mind of the reader thoughts of battles, storms and violence, and emotions of indignation and sorrow; but if the movements of the pen are just slightly different they will produce quite different thoughts of tranquillity, peace and pleasure, and quite opposite emotions of love and joy.
+
+
+
+
+
+28 Treatise the Third: Concerning Happiness, a Dialogue (1741). In Harris’s Works, ed. the Earl of Malmesbury (London: F. Wingrove, 1801), vol. I, p. 94.
+
+
+
+29 In this discussion, Harris appears to be making the gratuitous assumption, typical of the modern variants of this doctrine, that, since man is capable of “infinite directions,” he is therefore completely plastic; that is, the assumption that innate factors govern his intellectual development only marginally, if at all. Obviously this further assumption has no connection to the observation regarding freedom from the control of instinct and drives and regarding the infinite range of potential skill and knowledge. With this independent assumption, Harris is, of course, very much outside of the framework of Cartesian thought.
+
+Elsewhere, Harris expresses himself in a manner which is susceptible to a rather different interpretation. In discussing the interplay between creative genius and rule (Philological Inquiries (1780) in Works, vol. II), he rejects the view “that Geniuses, tho’ prior to Systems, were prior also to Rules [e.g., the unities of time and place, in the theory of drama], because RULES from the beginning existed in their own Minds, and were a part of that immutable Truth, which is eternal and everywhere” (p. 409). Genius and rules are “so reciprocally connected, that ’tis GENIUS which discovers Rules [these being implicit in the mind]; and then RULES, which govern Genius.”
+
+
+
+30 One would not refer to an act as “creative” simply on the basis of its novelty and independence of identifiable drives or stimuli. Hence the term “creative aspect of language use” is not entirely appropriate, without qualification, as a designation for the property of ordinary language that concerned Descartes and Cordemoy.
+
+It is interesting, in this connection, to note that Galileo described the discovery of a means to communicate one’s “most secret thoughts to any other person . . . with no greater difficulty than the various collocations of twenty-four little characters upon a paper” as the greatest of all human inventions, comparable with the creations of a Michelangelo, a Raphael, or a Titian (Dialogue on the Great World Systems (1630) (Chicago: University of Chicago Press, 1953), pp. 116–117). I am indebted for this reference to E. H. Gombrich.
+
+Compare the reference in the Grammaire générale et raisonnée to “this marvelous invention of composing from 25 or 30 sounds an infinite variety of words, which although not having any resemblance in themselves to that which passes through our minds, nevertheless do not fail to reveal all of the secrets of the mind, and to make intelligible to others who cannot penetrate into the mind all that we conceive and all of the diverse movements of our souls.” (p. 27; PRG, 65–66). [Translations of passages in the Port-Royal Grammaire here, and subsequently, are from Arnauld and Lancelot 1975 (abbreviated PRG).]
+
+
+
+31 Cf. note 25. References are to pp. 233–234 of the edition cited there, which is vol. II of a collection of Kritische Schriften und Briefe. [Translations of Chomsky’s quotations from the works of A. W. Schlegel, and of one quotation from the work of F. Schlegel, are by Susan-Judith Hoffmann; references remain as they were in the original edition.]
+
+
+
+32 Briefe über Poesie, Silbenmass und Sprache (1795). In Sprache und Poetik, vol. I of Kritische Schriften und Briefe (Stuttgart: W. Kohlhammer Verlag, 1962), p. 152.
+
+
+
+33 “. . . the natural media of art are ways [Handlungen] for human beings to outwardly manifest what is inward.” (Die Kunstlehre, p. 230 – the only such means are “words, sounds, gestures”); therefore it is natural for Schlegel to conclude that language itself is a primordial art form and that it is, further, “from its inception onward the primordial substance of poetry” (p. 232).
+
+
+
+34 For Schlegel (Die Kunstlehre, p. 225), “‘Art’ is ‘a boundless thought’”; “its purpose, that is, the direction of its striving can surely be indicated in general terms, but what it can and ought to achieve over the course of time no concept of the understanding can grasp because it is infinite.” The passage that is paraphrased in the text then continues as follows: In poetry the expressive potentiality that is found in the arts is found to an even higher degree since other arts do after all have in light of their restricted media or means of representation [Darstellung] a determinate sphere of activity that could allow itself to be circumscribed to some degree. The medium of poetry is precisely the medium through which the human spirit awakens to itself at all, and through which it fastens on to its presentations [Vorstellungen] in arbitrary associations and expressions – that is, language. Poetry is therefore not even bound to objects, it rather makes its own object for itself; it is the most comprehensive of all the arts and is, as it were, the omnipresent universal spirit in them. That which, in the representations of the remaining arts raises us up out of everyday reality into a world of fantasy, is called their poetical element. Poetry therefore designates in this general sense artistic invention, the wondrous act whereby it enriches nature; as its name asserts, it is a true creation and bringing forth. Every outward material representation is preceded by an idea in the mind of the artist in which language always comes into play as the mediator of awareness; consequently one can say that they always emerge from the womb of poetry. Language is not a product of nature, rather it is an imprint [Abdruck] of the human mind which exhibits the emergence and connections of its presentations as well as the operating mechanism [of the human mind]. Thus in poetry what has already taken shape is given shape again, and its plasticity is just as limitless as spirit’s ability to turn back on itself in reflections of ever-increasing potentialities.
+
+
+
+
+
+35 For further discussion of the character, sources, and general development of romantic aesthetic theory, see M. H. Abrams, The Mirror and the Lamp (Oxford: Oxford University Press, 1953). There is some discussion of the philosophy of language of romanticism in the first volume of E. Cassirer, Philosophie der symbolischen Formen (1923), trans. The Philosophy of Symbolic Forms (New Haven: Yale University Press, 1953). See also E. Fiesel, Die Sprachphilosophie der deutschen Romantik (Tübingen: J. C. B. Mohr, 1927).
+
+
+
+36 In particular, in his Über die Verschiedenheit des Menschlichen Sprachbaues, published posthumously in 1836. A facsimile edition appeared in 1960 (F. Bonn: Dümmlers Verlag). Page references here are to this edition. Parts are translated into English in M. Cowan, Humanist without Portfolio (Detroit: Wayne State University Press, 1963). A full translation and commentary are in preparation by J. Viertel. Backgrounds of Humboldt’s linguistic theories are discussed in R. L. Brown, “Some Sources and Aspects of Wilhelm von Humboldt’s Conception of Linguistic Relativity,” unpublished University of Illinois doctoral dissertation (1964). [Most of the translations in this edition are by Susan-Judith Hoffmann, but some are P. L. Heath’s translations in Humboldt 1999.]
+
+Bloomfield refers to Humboldt’s treatise as “the first great book on general linguistics” (Language, p. 18). Considered against the background that we are surveying here, it seems to mark the terminal point of the development of Cartesian linguistics rather than the beginning of a new era of linguistic thought. See Chomsky, Current Issues in Linguistic Theory, for some discussion of Humboldtian general linguistics, its relation to the work of the following century, and its reemergence in contemporary studies of language and cognition.
+
+
+
+37 The German translations are Humboldt’s. These concepts of Humboldt’s do not seem to me to be entirely clear, and I will focus attention here on one aspect of them. That a single consistent interpretation of these notions is clearly determined by the text is not obvious. Despite this qualification, it seems safe to conclude that what will be outlined here is at least one of the central strands in Humboldt’s thought. I am indebted to J. Viertel for many observations and suggestions regarding the interpretation of the text.
+
+
+
+38 For Humboldt, to speak of a word in a language as “articulated” is to refer it to the system of underlying elements from which it is constructed, elements that could be used to form infinitely many other words according to definite intuitions and rules. It is in this sense that a word is an “articulated object,” grasped, in perception, by the exercise of the “human power of speech” rather than by some process analogous simply to “animal sensory capacity.” See p. 71: But now what articulation adds to the mere evocation of its meaning [Bedeutung]. . . [i.e., of the meaning of a perceived word] . . . is that it presents the word directly through its form as a part of an unbounded whole, a language. For even in single words, it is by means of this that we are given the possibility of constructing, from the elements of the language, a truly indefinite number of other words according to specific intuitions and rules, and thereby to establish among all words an affinity corresponding to the affinity of concepts.
+
+(Humboldt 1999: 57–58 (with modifications))
+
+
+
+
+
+He then clarifies his meaning further, pointing out that it is only the generative processes that are grasped by the mind, and that language cannot be regarded as a material that sits there, surveyable in its totality, or communicable little by little, but must be seen as something that eternally produces itself, where the laws of production are determined, but the scope and even to some extent the nature of the product remain totally unspecified.
+
+(Humboldt 1999: 58)
+
+
+
+
+
+Compare A. W. Schlegel’s definition of “articulation” (Kunstlehre, p. 239): The articulation (the articulated moments of discourse, as it were) consists in arbitrary deliberate movements of the organ and therefore corresponds to similar spiritual activities.
+
+
+
+
+
+He points out that articulated language is different in kind from animal cries or expressions of emotion – that it cannot be approached by a series of “crude imitations” but requires a new principle.
+
+See also note 30.
+
+
+
+39 See pp. 58–59: “The constant and uniform element in this mental labor of elevating articulated sound to an expression of thought, when viewed in its fullest possible comprehension and systematically presented constitutes the form of language” (Humboldt 1999: 50). It seems to me that Humboldt’s “form of language” is essentially what would in current terminology be called “the generative grammar” of a language, in the broadest sense in which this term has been used. See note 2 and p. 83 below.
+
+
+
+40 For example, the lingua franca of the Mediterranean coast; or, we may add, animal communication systems or “language games” of the sort referred to by Bougeant, Bloomfield, Wittgenstein, and many others and proposed by them as typical and paradigmatic – as the “primitive forms” of language.
+
+
+
+41 In identifying a particular state of a language as an object of description with “psychological reality,” we depart from Humboldt, who is extremely unclear about the relation of synchronic to diachronic description.
+
+
+
+42 In his Hermes, Harris perhaps comes closest to the Humboldtian conception of “form” in a citation from Ammonius, which relates motion to dance, timber to a door, and “the power of producing a vocal sound” (as the material basis for speech) to “that of explaining ourselves by Nouns, or Verbs” (as its form, which derives from man’s unique soul as the material basis derives from nature). Cf. Harris, Works, vol. I, p. 393, footnote.
+
+Elsewhere, in another connection, Harris discusses a conception of “form” that is much richer, however. In his Philosophical Arrangements (1775; Works, vol. II) he develops the notion of “form” as “animating principle”: “the animating form of a natural body is neither its organization, nor its figure, nor any other of these inferior forms, which make up the system of its visible qualities; but ’tis the power, which, not being that organization, nor that figure, nor those qualities, is yet able to produce, to preserve, and to employ them” (p. 59).
+
+
+
+43 Lectures on Dramatic Art and Literature (1808), translated by John Black, p. 340 of the second edition, (London: George Bell and Sons, 1892).
+
+
+
+44 “Lectures and Notes of 1818,” in T. Ashe (ed.), Lectures and Notes on Shakespeare and other English Poets (London: George Bell and Sons, 1893), p. 229. Some of Coleridge’s comments on the nature of mind foreshadow Humboldt’s observations on language in their emphasis on the diversity of creative potential within the bounds of finite rules. In the same lecture he denies that genius must be opposed to rule (again paraphrasing Schlegel – cf. also note 29) and argues that “no work of true genius dares want its appropriate [organic] form.” “As it must not, so genius cannot be lawless: for it is even this that constitutes its genius – the power of acting creatively under laws of its own origination.”
+
+Elsewhere, he states that “the mind does not resemble an Aeolian harp, nor even a barrel-organ turned by a stream of water, conceive as many tunes mechanized in it as you like, but rather as far as objects are concerned a violin or other instrument of few strings yet vast compass, played on by a musician of Genius” (quoted by R. Wellek, Kant in England (Princeton: Princeton University Press, 1931), p. 82). For much additional relevant material, see Abrams, The Mirror and the Lamp.
+
+
+
+45 It should be noted that this topic does not seem to have been raised in any explicit way in the Schlegel–Humboldt correspondence. See A. Leitzmann (ed.), Briefwechsel zwischen W. von Humboldt und. W. Schlegel (1908). This correspondence contains much discussion of “organic” and “mechanical” form but in a different connection, namely, with reference to the relation between inflection and agglutination as linguistic processes, a topic that is also developed at length in Humboldt’s Über die Verschiedenheit des menschlichen Sprachbaues.
+
+The question of how the form of language arises from and determines individual “creative” acts is a not uncommon one during this period. Cf., for example, Coleridge: “What a magnificent History of acts of individual minds, sanctioned by the collective Mind of the Country a Language is . . . a chaos grinding itself into compatibility.” Quoted in A. D. Snyder, Coleridge on Logic and Learning (New Haven: Yale University Press, 1929), p. 138.
+
+
+
+46 The significance and origins of this notion are described in R. Berthelot, Science et philosophie chez Goethe (Paris: F. Alcan, 1932), and R. Magnus, Goethe als Naturforscher (Leipzig: Barth, 1906), trans. H. Norden, Goethe as a Scientist (New York, 1949). As is well known, the concept of organic form develops in biology, as well as in philosophy and criticism, during the period that we are now reviewing. Compare, for example, Schlegel’s notion of organic form with Blumenbach’s concept of “Bildungstrieb” in biology, namely, the concept of a living, generative, formative principle internal to an organism that determines its ontogenesis and leads it from germ to adult (cf. Berthelot, p. 42; he states that this influenced Kant’s similar formulations in the Critique of Judgment). Berthelot characterizes Schelling’s Naturphilosophie as conceiving of nature “as a dynamic qualitative transformation producing new forms irreducible to previous ones, by the action of a spontaneous, internal, primitively unconscious activity” (p. 40). Many other references might be given to illustrate the parallel and interplay. These matters are discussed in various places, e.g., A. O. Lovejoy, The Great Chain of Being (New York: Harper & Row, 1936) and Abrams, The Mirror and the Lamp. For further background and many references, see E. Mendelsohn, “The Biological Sciences in the Nineteenth Century: Some Problems and Sources,” History of Science 3 (1964), pp. 39–59.
+
+
+
+47 Quoted in Magnus, Goethe als Naturforscher, p. 59. In The Great Chain of Being Lovejoy traces the idea of a logical “Urbild” to J. B. Robinet’s De la Nature (1761–1768). He quotes Robinet (p. 279) as defining the notion “prototype” as “an intellectual principle that changes only in so far as it realizes itself in matter”; this notion Robinet then elaborated with respect to all animate and even inanimate nature.
+
+
+
+48 The title of Humboldt’s major work should not lead one to assume that he would be sympathetic to the view that each language is a unique historical product that may, in principle, have any imaginable structure. This view, in one form or another, has been expressed by many post-Humboldtian linguists. To mention just the temporal extremes, it can be illustrated by W. D. Whitney’s critique of Humboldtian linguistics (“Steinthal and the Psychological Theory of Language,” North American Review, 1872; reprinted in Oriental and Linguistic Studies (New York: Scribner, Armstrong, 1874)). in which he concludes that “the infinite diversity of human speech ought alone to be a sufficient bar to the assertion that an understanding of the powers of the soul involves the explanation of speech” (Oriental and Linguistic Studies, p. 360) and that language is strictly a “historical product,” nothing other than “the sum of words and phrases by which any man expresses his thought” (p. 372); or M. Joos’s summary of what he calls the “Boasian” tradition of American linguistics as adopting the view “that languages could differ from each other without limit and in unpredictable ways” (M. Joos (ed.), Readings in Linguistics (Washington: American Council of Learned Societies, 1957), p. 96). Humboldt, in contrast, repeatedly expresses his opinion that, in their general structural features, languages are cast to the same mold. It seems to me that he is consistent in adopting the position that he expresses clearly in a letter to A. W. Schlegel (1822, cf. Leitzmann, Briefwechsel zwischen W von Humboldt und A. W. Schlegel, p. 54): “That all languages, in terms of grammar, look quite similar to each other is indisputable, if one investigates their inner workings profoundly, rather than superficially.” Furthermore, this is clearly the only view compatible with his Platonistic theory of language acquisition (cf. pp. 101–102 below).
+
+See Chomsky, Current Issues in Linguistic Theory, for some further discussion of the historical importance of Whitney’s influential but (in my opinion) utterly wrong-headed and superficial critique.
+
+
+
+49 As emphasized by H. Steinthal in his Gedächtnissrede auf Humboldt an seinem hundertjahrigen Geburtstage (Berlin, 1867).
+
+
+
+50 R. Rocker, Nationalism and Culture, trans. R. E. Chase (London: Freedom Press 1937). This judgment is based largely on Humboldt’s early essay Ideen zu einem Versuch die Grenzen der Wirksamkeit des Staats zu bestimmen (1792). Parts of this are translated in Cowan, Humanist without Portfolio, pp. 37–64.
+
+
+
+51 The political meaning of a “natural rights” doctrine such as Humboldt’s depends very much on the exact way in which it is phrased and the social context in which it appears, and an evaluation of these questions, in the present case, raises many problems. The terms in which Humboldt frames this doctrine suggest a comparison with Marx’s Economic and Philosophic Manuscripts (1844; trans. T. B. Bottomore, in Marx’s Concept of Man, ed. E. Fromm (New York: Ungar, 1961), with their description of the “alienation of labor when work is external to the worker, . . . not part of his nature . . . [so that] . . .he does not fulfill himself in his work but denies himself . . . [and is] . . . physically exhausted and mentally debased” (p. 98) and their definition of the “species-character” of human beings as “free, conscious activity” and “productive life” (p. 101), of which man is deprived by the alienated labor that “casts some of the workers back into a barbarous kind of work and turns others into machines” (p. 97), as well as with Marx’s well-known reference to a higher form of society in which “labor has become not only a means of life, but also the highest want in life” (Critique of the Gotha Program, 1875).
+
+Humboldt’s remarks might be compared with Rousseau’s critique of modern social institutions in the Discourse on the Origins and Foundations of Inequality among Men (1755; translated in The First and Second Discourses, ed. R. D. Masters (New York: St. Martin’s, 1964). Rousseau’s goal is “to set forth the origin and progress of inequality, the establishment and abuse of political societies, insofar as these things can be deduced from the nature of man by the light of reason alone, and independently of the sacred dogmas which give to sovereign authority the sanction of divine right” (p. 180). Along strictly Cartesian lines, he characterizes an animal as “only an ingenious machine to which nature has given senses in order to revitalize itself and guarantee itself, to a certain point, from all that tends to destroy or upset it.” “Every animal has ideas, since it has senses; it even combines its ideas up to a certain point, and in this regard man differs from a beast only in degree” (cf. note 13). What distinguishes man from beast in an absolute way is that man is a “free agent” and has “the consciousness of this freedom” (a further specific difference, perhaps reducible to man’s freedom, is his “faculty of self-perfection,” as an individual and a species). Although much in man’s nature can be attributed to properties of “the human machine,” still man’s behavior is uniquely beyond the bounds of physical explanation. “For physics explains in some way the mechanism of the senses and the formation of ideas; but in the power of willing, or rather of choosing, and in the sentiment of this power are found only spiritual acts about which the laws of mechanics explain nothing” (pp. 113f.).
+
+From this essentially Cartesian picture of human nature, Rousseau develops his theory and evaluation of modern society. Since freedom is “the most noble of man’s faculties,” one is “degrading one’s nature, putting oneself on the level of beasts enslaved by instinct” by renouncing freedom and subjecting oneself to the dictates of a “ferocious or insane master” (p. 167). The national state, modern social organization, and conventional law all originate in a kind of conspiracy by the rich and powerful to preserve and institutionalize power and property, a conspiracy that “gave new fetters to the weak and new forces to the rich, destroyed natural freedom for all time, established forever the law of property and inequality, changed a clever usurpation into an irrevocable right, and for the profit of a few ambitious men henceforth subjected the whole human race to work, servitude, and misery.” Finally, with the establishment of the national state, “the most decent men learned to consider it one of their duties to murder their fellow-men; at length men were seen to massacre each other by the thousands without knowing why” (pp. 160–161). In so far as society institutionalizes property rights, magistracy, and arbitrary power, it violates natural law (pp. 168ff.). It is contrary to natural right and against the law of nature that “a handful of men be glutted with superfluities while the starving multitude lacks necessities” (p. 181) or that “each man finds his profit in the misfortune of others” (p. 194); “and the jurists, who have gravely pronounced that the child of a slave would be born a slave, have decided in other terms that a man would not be born a man” (p. 168). Man has become mere “sociable man,” living “outside of himself” and “only in the opinion of others,” from whose judgment alone “he draws the sentiment of his existence” (p. 179). He can regain true humanity only by abolishing the status of rich and poor, powerful and weak, master and slave – by “new revolutions” that will “dissolve the government altogether or bring it closer to its legitimate institution” (p. 172); “the uprising that ends by strangling or dethroning a sultan is as lawful an act as those by which he disposed, the day before, of the lives and goods of his subjects” (p. 177). [Chomsky expands upon his discussion of Rousseau and Humboldt in “Language and Freedom” (originally published in 1970; an accessible reprint is found in Chomsky 1987).]
+
+
+
+52 N. S. Troubetzkoy, “La phonologie actuelle,” Psychologie de langage (Paris, 1933), p. 245.
+
+
+
+53 This notion seems to have developed in connection with the controversy over use of the vernacular to replace Latin. Cf. F. Brunot, Histoire de la langue française (Paris: Librairie Armand Colin, 1924), vol. IV, pp. 1104f., and G. Sahlin, César Chesneau du Marsais et son rôle dans l’évolution de la Grammaire générale (Paris: Presses-Universitaires, 1928), pp. 88–89, for some early references, including one to a 1669 source that goes so far in defense of the naturalness of French as to claim that “the Romans think in French before speaking in Latin.” Diderot is so convinced of the “naturalness” of French that he regards it as more suitable for science than for literature, the other European languages, “unnatural” in their word order, being more suited for literary expression (Lettre sur les sourds et muets, 1751). Englishmen tended to have a different view of the matter. Bentham, for example, held that “of all known languages, English is . . . that in which, in the highest degree, taken in the aggregate, the most important of the properties desirable in every language are to be found” (Works, ed. J. Bowring (New York: Russell and Russell, 1962), vol. VIII, p. 342). Huarte, writing in the late sixteenth century, took for granted “the Analogy and Correspondence between the Latin Tongue, and the Rational Soul”: “Latin words, and the manner of speaking this Tongue, are so Rational, and so agreeably strike the Ear, that the Rational Soul meeting with the Temperament necessary to invent a very eloquent Language, immediately stumbles on the Latin” (Examen de Ingenios, op. cit., p. 122).
+
+From the seventeenth century, there was much discussion of the possibility of inventing a “philosophical language” that would reflect “la vraie philosophie” and the principles of thought better than any actual human language. An interest in this problem is apparently at the roots of Leibniz’s interest in comparative grammar, which might reveal the “excellencies of language.” For discussion of these developments, see Couturat and Leau, Histoire de la langue universelle (Paris, 1903); Margaret M. C. Mclntosh, “The Phonetic and Linguistic Theory of the Royal Society School, from Wallis to Cooper,” unpublished B.Litt. thesis, Oxford University (1956); Cassirer, The Philosophy of Symbolic Forms.
+
+
+
+54 B. Lamy, De L’art de parler (1676). There are, however, stylistic reasons that may lead one to invert the “ordre naturel” in many languages; not, however, in French, which does not, he maintains, make use of such “figures de Grammaire,” since “it relishes cleanliness and simplicity; that is why it expresses things as much as it can in the simplest and most natural order” (p. 23). Cf. also pp. 26–27.
+
+
+
+55 J. Wilkins, An Essay towards a Real Character and a Philosophical Language (1668).
+
+
+
+56 The assumption of a “natural order,” however, has the advantage that it does not fly in the face of the facts quite so obviously as the belief that language can be described in terms of “habits” or “dispositions to respond” or that the syntactic structure of a language is some sort of list of patterns. It is, therefore, not excluded that the notion of “natural order” can be clarified and developed as a hypothesis of some significance regarding language structure.
+
+
+
+57 Leibniz, Nouveaux essais sur l’entendment humain, book III, chap. VII; trans. New Essays Concerning Human Understanding, ed. A. G. Langley (La Salle: Open Court, 1949). He goes on to maintain that “an exact analysis of the signification of words would show us better than anything else the workings of the understanding” (p. 368 of the 1949 edition). For further discussion of Leibniz’s concern with language, see H. Aarslef, “Leibniz on Locke on Language,” American Philosophical Quarterly 1 (1964), pp. 1–24.
+
+
+
+58 F. Schlegel, Geschichte der alten und neuen Literatur (1812); cited by Fiesel, Die Sprachphilosophie der deutschen Romantik, p. 8. See also A. W. Schlegel, “De l’étymologieen général,” in Oeuvres écrites en français, ed. E. Böcking (Leipzig, 1846), p. 133: “It was often said that grammar is logic at work; but there is more: it constitutes a profound analysis, a subtle metaphysics of thought.”
+
+
+
+59 Occasionally, from quite unexpected sources. For example, Proudhon’s scholarship application to the Besancon Academy, in 1837, announced his intention of developing a general grammar in which he hoped to “search for the psychology of new regions, the philosophy of new paths; study the nature and mechanism of the human mind with respect to the most striking and recognizable of its faculties, speech; determine, on the basis of the origin and working of language, the source and organization of human beliefs; apply, in one word, grammar to metaphysics and ethic, and achieve a thought over which profound geniuses fret. . . .” (Correspondance de P.-J. Proudhon, ed. J.-A. Langlois (Paris: Librairie Internationale, 1875), vol. I, p. 31).
+
+Cf. also J. S. Mill: “Grammar . . .is the beginning of the analysis of the thinking process. The principles and rules of grammar are the means by which the forms of language are made to correspond with the universal forms of thought. The distinctions between the various parts of speech, between the cases of nouns, the moods and tenses of verbs, the functions of particles, are distinctions in thought, not merely in words. . . The structure of every sentence is a lesson in logic” (Rectorial Address at St. Andrews, 1867, cited with characteristic modern disapproval by Jespersen, The Philosophy of Grammar (London: Allen and Unwin, 1924), p. 47).
+
+Another and rather different development of the view that language (in its deeper structure) mirrors thought can be found in the work of Frege, Russell, and the early Wittgenstein. This is well known, and I will not discuss it further here. [For a discussion of some aspects of Chomsky s view of Frege, see the second chapter of Chomsky 1996.]
+
+
+
+60 N. Beauzée, Grammaire générale, ou exposition raisonnée des éléments nécessaires du langage (1767). Page references here and below are to the revised and corrected edition of 1819.
+
+
+
+61 This of course leaves quite open the question of how creative thought is possible, and the discussion of this matter was no more satisfactory than any account that can be given today – that is, it is left as a complete mystery. Cordemoy, for example, attributes “new thoughts that come to us, without being able to find their cause in ourselves, or to attribute them to others” to “inspiration,” that is, to communication from disembodied spirits (op. cit., pp. 185–186). Many others of the period would agree that, in some way or other, “man possesses some analogy to the Divine attributes in his intellectual faculties” (Herbert of Cherbury, De Veritate (1624), p. 167; page references here and below are to the translation by M. H. Carré, University of Bristol Studies No. 6 (1937)). This invocation of the supernatural should be considered against the background of the revived neo-Platonism, with its interpretation of human creativity as an analogue of divine “emanation,” in aesthetic theory from the sixteenth century through romanticism. For discussion, see Lovejoy, The Great Chain of Being, and Abrams, The Mirror and the Lamp, and further references given there. [It is apparent from the examples that Chomsky is speaking here of causes or sources of creative thought. Later work (e.g., Chomsky 1972) seems to allow that one could give an account of how creative thought is possible: one could speak to the nature of the mind that would allow it. See the editor’s introduction and also McGilvray 2005.]
+
+
+
+62 Recall that for La Mettrie the soul is not a separate substance; rather, “since all the soul’s faculties depend so much on the specific organization of the brain and of the whole body, that they are clearly nothing but that very organization itself: the machine is perfectly explained!. . . Thus the soul is merely a vain term of which we have no idea and which a good mind should use only to refer to that part of us which thinks” (p. 26; MaM, p. 128). He admits forthrightly, regarding the “imaginative faculty” of the brain, that we know “as little about its nature as we do about its method of working” and that its products are “the wonderful and incomprehensible result of the organisation of the brain” (p. 15; MaM, p. 107). Later writers are much less diffident and describe the brain as secreting thought much as the liver secretes bile (Cabanis), and so on.
+
+
+
+63 The Cartesians characteristically assumed that mental processes are common to all normal humans and that languages may therefore differ in the manner of expression but not in the thoughts expressed. Cordemoy, for example, in discussing language learning (Discours, pp. 40ff.; cf. p. 101 below), describes the acquisition of a second language as merely a matter of assigning new linguistic expressions to the ideas that are already associated with expressions of the first language. It follows, then, that there should be no fundamental difficulty in translating from one language to another. This claim, of course, would be vigorously denied by the romantics, who think of language not just as a “mirror of the mind” but as a constitutive element in mental processes and as a reflection of cultural individuality (cf. Herder: “The best account of the history and the diverse characteristics of human understanding and sentiment would thus be a philosophical comparison of languages, for the understanding and character of a people are in every case stamped in their language.” Ideen zur Philosophie der Geschichte der Menschheit, 1784–1785, in Heintel, op. cit., p. 176).
+
+
+
+64 We return to some of its concrete proposals directly.
+
+
+
+65 Page references are to Works, vol. I (cf. note 28).
+
+
+
+66 It follows, then, that the interrogative and indicative (in which the response is made) are closely related. “So near indeed is this Affinity, that in these two Modes alone the Verb retains the same Form, nor are they otherwise distinguished, than either by the Addition or Absence of some small particle, or by some minute change in the collocation of the words, or sometimes only by a change in the Tone, or Accent” (p. 299). More precisely, in the case of a “simple interrogative” (i.e., a simple yes-or-no question), the response is (except for possible ellipsis) made in almost the same words as the interrogative; “indefinite interrogatives,” however, “may be answered by infinite affirmatives, and infinite negatives. For instance – Whose are these Verses? We may answer affirmatively – They are Virgil’s, They are Horace’s, They are Ovid’s, etc. – or negatively – They are not Virgil’s, They are not Horaces, They are not Ovid’s, and so one, either way, to infinity” (p. 300, footnote).
+
+
+
+67 Apart from its Cartesian origins, the Port-Royal theory of language, with its distinction between deep and surface structure, can be traced to scholastic and renaissance grammar; in particular, to the theory of ellipsis and “ideal types” that reached its fullest development in Sanctius’s Minerva (1587). For some discussion, see Sahlin, op. cit., chap. I and pp. 89f. [As noted earlier, quotations from the Port-Royal Grammar – Lancelot and Arnauld’s Grammaire générale et raisonnée – use the translation in Arnauld and Lancelot 1975 (which is occasionally modified). Page references are given to both the first French edition (1660) and to Arnauld and Lancelot 1975 (abbreviated PRG).]
+
+
+
+68 This transformation is not mentioned, but it is implicit in the examples that are given.
+
+
+
+69 Arnauld, La logique, ou l’art de penser (1662). Translated by J. Dickoff and P. James as The Art of Thinking: Port-Royal Logic (Indianapolis: Bobbs-Merrill, 1964). Page references are to this translation. [Also translated by J. V. Buroker in Arnauld and Nicole 1996 (abbreviated PRL), to which page references are also given.] For some recent discussion of the linguistic significance of this work, see H. E. Brekle, “Semiotik und linguistische Semantik in Port-Royal,” Indogermanische Forschungen 69 (1964), pp. 103–121.
+
+
+
+70 The notion “idea” in Cartesian thought is crucial but difficult. Several terms are used (e.g., “idea,” “notion”) apparently without a systematic distinction in sense, and the concept itself is not clearly characterized. In the Meditations, III, Descartes relates the term “idea” to “image,” stating that “some of my thoughts are as it were the images of things, and it is only in these cases that the term ‘idea’ [Latin: idea] is strictly appropriate” (CSM II, 25; of course, these “images” may be derived by imagination or reflection, rather than received through sense). In his reply to Hobbes’s Objection to this passage, Descartes clarifies his intentions (modifying his formulation in the process, so it appears) stating that “I am taking the word ‘idea’ to refer to whatever is immediately perceived by the mind. For example, when I want something, or am afraid of something, I simultaneously perceive that I want, or am afraid; and this is why I count volition and fear among my ideas” (CSM II, 127). The latter use of “idea” as, essentially, an object of thought, is the one that seems consistent with his general usage. For example, in the Discourse on the Method he speaks of “certain laws which God has so established in nature, and of which he has imprinted such notions in our minds” (CSM I, 131). Similarly, in the Principles of Philosophy (pt. I, art.13), no fundamental distinction is made between “the ideas of numbers and shapes” and “such common notions as: If you add equals to equals the results will be equal” (CSM I, 197). The latter usage of the term “idea,” as anything that can be “conceived” (not merely “imagined”), is the one carried over to the Port-Royal Logic. In this sense, concepts of varied types, even propositions are ideas. This usage is widespread. Lamy (op. cit., p. 7), who makes no pretense to originality, describes ideas as “the objects of our perceptions” and asserts that “besides these ideas, which are excited by things that touch our body, we find others deep in our nature, which do not come into our mind through the senses – for example, those which respresent primary truths like: You must return to someone what belongs to him; It is impossible for something to be and not to be at one and the same time, etc.” In general, the discussion of simple and complex propositions throughout the Port-Royal Grammar and Logic suggests this concept of “idea,” since propositions are described as formed by combining ideas, and complex ideas are described as based on underlying constituent propositions. In this sense, “idea” is a theoretical term of the theory of mental processes; the comprehension (i.e., intension or meaning) of an idea is the fundamental notion in semantic interpretation, and in so far as the deep structure of language is regarded as a direct reflection of mental processes, it is the fundamental notion in the analysis of thought.
+
+For further discussion see J. Veitch, The Method, Meditations, and Selections from the Principles of Descartes (Edinburgh: Blackwood and Sons, 1880), note II, pp. 276–285.
+
+
+
+71 In the French original, the cited sentence is: “La doctrine qui met le souverain bien dans la volupté du corps, laquelle a été enseignée par Epicure, est indigne d’un Philosophe.” The Dickoff-James translation, which I have followed elsewhere, translates this as: “The doctrine which identifies the sovereign good with the sensual pleasure of the body and which was taught by Epicurus is unworthy of a philosopher.” But in this translation the explicative relative “which was taught by Epicurus” would naturally be taken as a determinative clause conjoined with the first determinative clause “which identifies. . .” in which case the point of the example is lost. [In Arnauld and Nicole 1996, the sentence is translated: “The doctrine that places the highest good in bodily pleasure, which was taught by Epicurus, is unworthy of a philosopher” (90).]
+
+
+
+72 Notice, incidentally, that adjective–noun constructions in the surface structure may derive by grammatical transformations of the type proposed in the Port-Royal Grammar from either type of relative, as is evident from the examples given there and, more strikingly, in such ambiguous examples as Jespersen’s “The industrious Japanese will conquer in the long run” (Philosophy, p. 112).
+
+
+
+73 Notice that, in such cases, it is not true that each of the elementary abstract objects constituting the deep structure itself underlies a possible sentence; thus “je vous dis,” for example, is not a sentence in itself. In current terminology, it is not the case that each item generated by the underlying base (phrase structure) rules underlies a possible kernel sentence. Similarly, in all work in transformational generative grammar of the last ten years or more, it has been taken for granted that the phrase-structure rules can introduce “dummy symbols” that receive a representation in terms of morpheme strings only as a result of application of embedding rules of one sort or another (as, for example, in verb–complement constructions in English), and the elementary strings in which these dummy symbols appear will not underlie kernel sentences. Various related ideas that have been explored during this period are summarized and discussed in Chomsky, Aspects of the Theory of Syntax, chap. III. [See also the bracketed discussion and references for note 80.]
+
+
+
+74 A rather different analysis of these structures is presented by Beauzée, op. cit. He regards them as based on relative clauses with the antecedent transformationally deleted. Thus the sentences “L’état présent des Juifs prouve que notre religion est divine,” “Ich glaube dass ich liebe,” and “I think (that) I love,” derive, respectively, from “L’état présent des Juifs prouve une vérité qui est, notre religion est divine,” “Ich glaube ein Ding dass ist, ich liebe,” and “I think a thing that is, I love” (p. 405).
+
+
+
+75 For further discussion, see Chomsky, Aspects of the Theory of Syntax. It is worth mentioning that the theory of transformational generative grammar has in many respects moved toward a point of view like that implicit in the Port-Royal theory, as new evidence and insights have accumulated during the few years in which it has, once again, become an object of fairly intensive investigation.
+
+
+
+76 Some earlier notions are reviewed by Sahlin, César Chesneau, pp. 97f. The idea that a sentence can be regarded simply as a sequence of words or word categories, with no further structure, is frequently expressed (whether or not it is actually believed) by many later writers.
+
+
+
+77 Notice that this is referred to as the principal, not the unique role of verbs. They are also used “to indicate other movements of our minds, as in to desire, to ask, to command, etc.” (p. 90). These matters are taken up again in chap. XV, where the grammatical means by which these mental states and processes are realized in various languages are briefly discussed. See p. 79 above.
+
+
+
+78 The Grammar goes on to observe that it would be a mistake to assume, with certain earlier grammarians, that verbs necessarily express actions or passions or something that is taking place, and it offers as counterexamples such verbs as “existit,” “quiescit,” “friget,” “alget,” “tepet,” “calet,” “albet,” “viret,” “claret” (p. 94).
+
+
+
+79 As noted earlier (p. 117): “it is often necessary to transform such a sentence from the active to the passive voice in order to put the argument into its most natural form and to express explicitly that which is to be proved.”
+
+
+
+80 It is hardly just to attribute this insight to twentieth-century British philosophy, as its “central and fundamental discovery” (cf. Flew, Introduction to Logic and Language, First series (Oxford: Blackwell, 1952), p. 7; or Wittgenstein, Tractatus Logico-Philosophicus (1922), 4.0031, where it is attributed to Russell). Nor is the observation that “grammatical resemblances and dissimilarities may be logically misleading” (Flew, p. 8) quite as novel an insight as Flew suggests. See, for example, p. 91 below.
+
+The general assumption of Cartesian linguistics is that the surface organization of a sentence may not give a true and full representation of the grammatical relations that play a role in determining its semantic content, and, as we have noted, a theory of grammar is sketched in which actual sentences are derived from underlying “deep structures” in which these relations are grammatically represented. The extent to which “logical form” is actually represented by the syntactically defined deep structures, in the technical modern sense or the related sense suggested in Cartesian linguistics, is a further and in many respects open question. See J. Katz, The Philosophy of Language (New York: Harper & Row, 1966), for discussion.
+
+[Chomsky entertained the view that ‘semantic intepretation’ takes place at deep structure in his 1965 Aspects. He was to abandon this idea soon after in favor of increasingly refined versions of a view he had adopted earlier in his Logical Structure of Linguistic Theory (published as Chomsky 1975b) and in Syntactic Structures, that semantic interpretation takes place at an ‘output’ level of a derivation, where “conceptual–intentional” systems use the product of a derivation as a “tool” (Syntactic Structures) for whatever operations they perform. By the 1970s, that output level of a derivation came to be called “LF” (for “logical form”) or, later in the 1990s, SEM (for “semantic interface”). Deep structure – but not as the ‘place’ where semantic interpretation takes place – remained until the early 1990s as the place where basic “thematic assignments” are made, but it was abandoned as the “minimalist program” developed and more and more of what used to be thought of as irreducible linguistic structure came to be seen as ‘epiphenomena’ of primitive operations. Quite recently (2001), even LF is abandoned as a ‘level’ of a derivation, and SEM comes to indicate simply an “interface” with other mental/internal systems. For relevant – but quite often technical – reading, see Syntactic Structures and Chomsky 1975b, 1965,1975a and b, 1980,1986,1992,1995b, 2000, 2001, 2005, 2007.
+
+It is quite likely that Chomsky’s reading of the Cartesian linguists in the late 1950s and early 1960s influenced his decision to endorse – provisionally and temporarily – Katz and Postal’s suggestion that semantic interpetation takes place at deep structure, rather than at some ‘output’ level. For some comment on the influence of this reading from Chomsky, see his Current Issues in Linguistic Theory and Aspects of the Theory of Syntax, especially the latter.]
+
+
+
+81 Referred to, typically, as the “natural order.” See pp. 75–76 above.
+
+
+
+82 Many of Du Marsais’s published and unpublished works on language are printed posthumously in Logique et Principes de Grammaire (1769). Page references here are to this volume. The correlation between freedom of word order and inflection is noted by many other writers, e.g., Adam Smith in his Considerations concerning the First Formation of Languages.
+
+
+
+83 When Bloomfield (along with many others) criticizes premodern linguistics for obscuring the structural difference between languages “by forcing their descriptions into the scheme of Latin grammar” (Language, p. 8), he is presumably referring to such claims as this, which he regards as having been disproven. If so, then it must be observed that his book contains no evidence to support either the conclusion that philosophical grammar was wedded to a Latin model, or the conclusion that its actual hypothesis concerning the uniformity of underlying grammatical relations has been brought into question by modern work.
+
+In general, it should be noted that Bloomfield’s account of premodern linguistics is not reliable. His historical survey consists of a few haphazard remarks that, he asserts, summarize “what eighteenth century scholars knew about language.” These remarks are not always accurate (as, for example, his astonishing assertion that prior to the nineteenth century linguists “had not observed the sounds of speech, and confused them with the written symbols of the alphabet” or that the writers of general grammars regarded Latin as supreme in embodying the “universal canons of logic”); and, where accurate, they give little indication of the character of what was done in this period.
+
+The manner in which the sounds of speech were analyzed in this period deserves a separate discussion; it is quite arbitrary to exclude this topic from the present survey, as I have done. Most of the works discussed here, and many others, contain discussions of phonetics, and the Aristotelian dictum that “spoken words are the symbols of mental experience and written words are the symbols of spoken words” (De Interpretation, 1) is apparently accepted with no discussion. There are a few modern references to the phonetics of this period. For example, M Grammont comments on the phonetics in Cordemoy, op. cit., in the following terms: “. . .the articulations of a certain number of French phonemes are described with remarkable clarity and precision” (Traité de phonétique (Paris: Librairie Delagrave, 1933), 4th edn.(1950), p. 13n.; he goes on to observe that: “These are the descriptions that Molière reproduced word for word in Le Bourgeois gentilhomme, acte II, scène 6 (1670)”). [Chomsky developed his views of phonology and phonetics during the late 1950s and early 1960s with his colleague Morris Halle; see Chomsky and Halle 1968. Like his view of ‘meanings’ (LFs or semantic representations), Chomsky’s view of linguistic sounds is that they are “in the head.” See in this regard Chomsky 2000, which is a collection of his more recent works on language and mind.]
+
+
+
+84 Grammaire générale, pp. 340f. Bentham suggests a similar analysis (Works, p. 356).
+
+
+
+85 A distinction between the “ideas principally expressed” by a linguistic form and the “accessory ideas” associated with it is developed in the Port-Royal Logic, chaps. XIV, XV. His principal idea is what is stated by the “lexical definition,” which attempts to formulate in a precise way the “truth of usage.” But the lexical definition cannot “reflect the whole impression the defined word makes on the mind,” and “it often happens that a word excites in our minds, besides the principal idea which we regard as the proper meaning of the word, other ideas – ideas which we may call accessory ideas and to which though we receive their impression we do not explicitly attend” (p. 90). For example, the principal meaning of you lied is that you knew that the opposite of what you said is true. “But in addition to this principal meaning, these words convey an idea of contempt and outrage which suggest that the speaker would not hesitate to harm you – a suggestion which renders his words both offensive and injurious.” Similarly, Virgil’s line To die, is that such a wretched thing? (Usque adeone mori miserum est?) has the same principal meaning as It is not so very wretched to die (Non est usque adeo mori miserum), but the original “expresses not only the bare thought that death is not so bad a thing as one supposes but suggests as well the image of a man who challenges death and looks it fearless in the face” (pp. 91–92). Accessory ideas may be “permanently attached to words,” as in the cases just mentioned, or they may be attached only in a particular utterance, for example, by gesture or tone of voice (p. 90). The association may, in other words, be a matter either of langue or parole.
+
+The distinction is rather like that of cognitive and emotive meaning. Also relevant to contemporary issues is the example (p. 91) of how certain grammatical processes may change the accessory ideas expressed, without modification of principal meaning; thus, so it is claimed, to accuse someone of ignorance or deceit is different from calling him ignorant and deceitful, since the adjectival forms “express, in addition to the idea of particular shortcomings, an idea of contempt, whereas the nouns mean only the particular lack with no accompanying condemnation.”
+
+
+
+86 C. Buffier, Grammaire françoise sur un plan nouveau (1709), cited by Sahlin, César Chesneau, pp. 121–122, with typical modern disparagement based, once again, on the assumption that surface structure alone is a proper object of study. See J. Katz and P. Postal, An Integrated Theory of Linguistic Descriptions, §§4.2.3, 4.2.4, for development and justification of a very similar idea.
+
+
+
+87 “De la construction grammaticale,” Logique et Principes de Grammaire, p. 229.
+
+
+
+88 The Latin example suggests a variety of problems, however. For some remarks on the phenomenon of so-called “free word order,” within the present context, see Chomsky, Aspects of the Theory of Syntax, chap. II, §4.4. [The phenomenon of “case marking” in different languages has proven to be a particularly interesting issue for the linguist constructing a Universal Grammar. See Chomsky, 1986, 1995b, and references provided there.]
+
+
+
+89 It is not entirely clear from the context whether these conditions on transformations are regarded as matters of langue or parole, as conditions on a grammar or on the usage of a grammar; nor is it clear whether, within the framework that Du Marsais accepts, this question can be sensibly raised.
+
+The account of sentence interpretation given by Du Marsais can be profitably compared with that proposed by Katz, Fodor, and Postal in recent work. See Katz and Postal, op. cit., and references cited there. [See also the references in the bracketed addition to Chomsky’s note 80.]
+
+
+
+90 The examples that I give here are cited by Sahlin as indicative of the ridiculous character of Du Marsais’s theory, concerning which “it would be unjust to confront it with modern science so as to reveal the altogether obvious errors in it” (Sahlin, César Chesneau, p. 84).
+
+
+
+91 T. Reid, Essays on the Intellectual Powers of Man (1785). For some remarks and quotations, see Chomsky, Aspects of the Theory of Syntax, pp. 199–200.
+
+
+
+92 Except to the extent indicated by the final example, the analysis of indefinite articles. Such attempts to go beyond surface form are tolerated by modern linguistic theory and have been the subject of much methodological discussion during the 1940s, particularly in the United States.
+
+
+
+93 See Postal, Constituent Structure (The Hague: Mouton, 1964), for discussion of contemporary approaches to syntax that accept this limitation. Many modern methodological discussions actually imply, further, that linguistic investigation should be restricted to the surface structure of the given utterances of a fixed corpus; thus Sahlin reflects modern attitudes in criticizing Du Marsais (p. 36) for the “inexcusable fault on the part of a grammarian” of using invented examples instead of restricting himself to utterances actually observed in living speech, as though a rational alternative were conceivable.
+
+For further discussion of the problem of analyzing deep and surface structure see Chomsky, Syntactic Structures (The Hague: Mouton, 1957), Current Issues in Linguistic Theory, Aspects of the Theory of Syntax; Lees, Grammar of English Nominalizations (The Hague: Mouton, 1960); Postal, “Underlying and Superficial Linguistic Structures,” Harvard Educational Review 34 (1964); Katz and Postal, An Integrated Theory of Linguistic Descriptions; Katz, The Philosophy of Language, and many other publications.
+
+
+
+94 To mention just one example, consider Harnois’s introductory statement in his discussion of “philosophical grammar” (“Les théories,” p. 18; it should be emphasized that this discussion is unusual in that it at least pays attention to the actual doctrines that were held by philosophical grammarians, instead of attributing to them absurd beliefs that were completely counter to their actual work). He points out that participants in this work felt themselves to be contributing “a science which had already produced one fundamental work [viz., the Port-Royal Grammar], namely by enriching an existing tradition and adding to the numerous results already attained. This opinion may appear ridiculous to a modern linguist, but it was really held.”
+
+It should be mentioned that the modern disparagement of traditional linguistic theory develops, not only from the decision to restrict attention to surface structure, but also, quite often, from the uncritical acceptance of a “behaviorist” account of language use and acquisition, common in its essentials to several fields – an account that seems to me to be pure mythology. [Note too the quotation from the reprint of Chomsky’s review of B. F. Skinner’s Verbal Behavior in the editor’s introduction’s note 20.]
+
+
+
+95 Véritables principes de la grammaire (1729), quoted by Sahlin, César Chesnau, pp. 29–30. The dating of this is discussed by Sahlin in the Introduction, p. ix. Much earlier, Arnauld had pointed out that “one has not usually treated as matters of particular grammars what is common to every language” (1669, cited by Sainte-Beuve, Port-Royal, p. 538), and the distinction between general and particular grammar is implicit, though not expressed, in the Port-Royal Grammar. Wilkins also distinguishes between “natural” (that is, “philosophical,” “rational,” or “universal”) grammar, which deals with the “ground and rules as do necessarily belong to philosophy of letters and speech,” and “instituted” or “particular” grammar, which deals with the “rules which are particular to a given language” (Essay, p. 297).
+
+
+
+96 Beauzée, Grammaire générale, Preface, pp. v–vi.
+
+
+
+97 Quoted by Sahlin, César Chesneau, p. 21. Note that there is a difference in emphasis in the remarks of Beauzée and D’Alembert on the relation between particular facts and general principles. The two views, however, are not inconsistent.
+
+
+
+98 Cf. Sainte-Beuve, Port-Royal, pp. 538f.; Harnois, “Les théories,” p. 20.
+
+
+
+99 There is, to be sure, an implicit element of so-called “prescriptivism” in his choice of “cultivated usage” (that is, the usage of the best authors, but, particularly, “the usage of spoken language” in the Court) as the object of description.
+
+
+
+100 Note that a restriction of linguistic study to description without explanation does not entail a corresponding restriction to the investigation of surface structure. The latter is a further and independent limitation. [Compare the restriction to “pure description” to Wittgenstein’s Blue Book and Philosophical Investigations. It is interesting that Chomsky, like Wittgenstein, holds that it is very likely impossible to construct a science (serious theory) of language use – and for parallel reasons having to do with language’s creative use (although Wittgenstein did not use this terminology). Chomsky, of course, unlike Wittgenstein, holds that it is possible to construct a science of language (Universal Grammar). For some discussion, see the editor’s introduction and McGilvray 1999, 2005.]
+
+
+
+101 Vaugelas is by no means the first to insist on the primacy of usage. A century before, in one of the earliest French grammars, Meigret insists that “we must speak in the way that we do speak” and that one may not “make any law against the way French is usually pronounced” (quoted by Ch.-L. Livet, La grammaire française et les grammairiens du XVIe siècle).
+
+It is interesting to note that the reaction of the Cartesian linguists against pure descriptivism recapitulates the evolution of speculative grammar in the thirteenth century, as an attempt to provide rational explanation in place of a mere record of usage. Speculative grammar also distinguished universal from particular grammar; for example, Roger Bacon assumes that “with respect to its substance grammar is one and the same in all languages, although it does vary accidentally (Grammatica Graeca, ed. Charles, p. 278, cited in N. Kretzmann, “History of Semantics,” in Encyclopedia of Philosophy, ed. P Edwards (New York: Macmillan, 1967)).
+
+
+
+102 Quoted by Sahlin, César Chesneau, p. 26, from the article “Datif” in the Encyclopedia. Sahlin also gives (p. 45) a much earlier quote from the Véritables principes (see note 95): “Grammar does not come before languages. There is no language that has been based on grammar; the rules [observations] of grammarians must be based on usage, and are not laws that have preceded usage.” This quote is followed by the comment that Du Marsais did not adhere to this principle, but, though there is much to criticize in his work, I find little evidence to support this charge.
+
+
+
+103 This is, of course, consistent with Cartesian methodology, which insists on the necessity of observation and of crucial experiment for choice among competing explanations. See Discourse on the Method, part VI. The Cartesian origins of the concern for a “general (universal) grammar” [grammaire générale] (expressing what is a common human possession) and an “explanatory grammar” [grammaire raisonnée] (which will explain facts instead of merely listing them) are too obvious to require discussion. Similarly, it was the newly rediscovered Aristotelian concept of rational science that led to the speculative grammar of the thirteenth century. Cf. Kretzmann, op. cit.
+
+
+
+104 This discussion is due to Arnauld and appears in his correspondence a year before the publication of the Grammar. Cf. Sainte-Beuve, op. cit., pp. 536f.
+
+The Grammar is, incidentally, not entirely fair to Vaugelas in tacitly implying that he was unaware of counter-examples. In fact, Vaugelas himself mentions one of the cited counter-examples (namely, the vocative, for which he proposes an understood, deleted article). Furthermore, Vaugelas does in fact offer a tentative explanation, rather apologetically, to be sure, for the rule as he formulates it.
+
+
+
+105 For further discussion of the matter of explanation in linguistics, see Chomsky, Syntactic Structures; “Explanatory Models in Linguistics,” in Logic, Methodology and Philosophy of Science, ed. E. Nagel, P. Suppes, A. Tarski (Stanford: Stanford University Press, 1962); Current Issues in Linguistic Theory, and J. Katz, “Mentalism in Linguistics,” Language 40 (1964), pp. 124–137. [See also Chomsky 1975a, 1975b, 1980, 1981, 1986, 1988a, 1992, 1995b, 2000, 2005, 2007. In a sense, Chomsky’s most recent work has gone “beyond explanation” for – unlike the state of linguistics in 1966 – he can now plausibly hold that the issue of explanatory adequacy as he originally posed it in Aspects (in effect, solving “Plato’s problem”) has been sufficiently settled to move on to other matters. Now he focuses on other explanatory issues – matters of computational economy and biological embodiment, some of which bear on the evolution of language and on ‘accommodating’ language to biology. See the editor’s introduction. Incidentally, it is illuminating to compare Chomsky’s view on innateness with Humboldt’s.]
+
+One of the most striking features of American descriptivism in the 1940s was its insistence on justification in terms of precisely specified procedures of analysis. The emphasis on precision and on the necessity for justification of descriptive statements in some language-independent terms constitutes a major contribution. But the requirements that were placed on justification (namely, that it be “procedural,” in the sense of the methodological discussions of the 1940s) were so strong as to make the enterprise unfeasible, and some of the reactions to this stringency (in particular, the view that any clearly specified procedure of analysis is as good as any other) detracted substantially from its potential significance.
+
+
+
+106 Observe, however, that the discussion in the Port-Royal Grammar, if interpreted quite literally, does not identify the underlying structures with actual sentences. Cf. pp. 83–84 above, and note 73. It is thus quite close, in conception, to transformational generative grammar of the sort developed in the references of note 93, which has also been based on the assumption that the structures to which transformational rules apply are abstract underlying forms, not actual sentences. Notice, incidentally, that the theory of transformations as originally developed by Harris, outside of the framework of generative grammar, does regard transformations as relations among actual sentences and is, in fact, much closer to the conception of Du Marsais and others, in this respect (see Z. S. Harris, “Co-occurrence and Transformation in Linguistic Structure,” Language 33 (1957), pp. 283–340, and many other references). See Chomsky, Current Issues in Linguistic Theory, p. 62n., for some discussion bearing on this point.
+
+
+
+107 Humboldt’s picture was, however, a good bit more complex. Cf. pp. 69–73 above.
+
+
+
+108 Notice that, when described in these terms, linguistic universals need not be found in every language. Thus, for example, when a certain set of phonetic features is claimed to constitute a universal phonetics, it is not proposed that each of these features functions in every language, but rather that every language makes its particular choice from among this system of features. Cf. Beauzée, op. cit., p. ix: “the necessary elements of language. . . are in fact present in all languages, and their necessity is indispensable for the analytic and metaphysical exposition of thought. But I do not intend to speak of an individual necessity, which does not leave anyone free to reject any idiom; I mean to indicate only a specific necessity [une nécessité d’espèce], which sets the limits of the choices that one can make.” [This view of a mind’s ‘choice’ among phonetic features anticipates Chomsky’s later (early 1980s) principles and parameters approach to the ‘choices’ a child’s mind makes in acquiring a language. For discussion, see the editor’s introduction.]
+
+
+
+109 Translated by M. H. Carré (1937), University of Bristol Studies, No. 6.
+
+
+
+110 These developments are familiar except, perhaps, for seventeenth-century English Platonism. See A. O. Lovejoy, “Kant and the English Platonists,” in Essays Philosophical and Psychological in Honor of William James (New York: Longmans, Green, 1908), for some discussion of English Platonism, in particular, of its interest in the “ideas and categories which enter into every presentation of objects and make possible the unity and interconnectedness of rational experience.” Lovejoy’s account, in turn, is based heavily on G. Lyons, L’idéalisme en Angleterre au XVIIIe siècle (Paris, 1888). See also J. Passmore, Ralph Cudworth (Cambridge: Cambridge University Press, 1951); L. Gysi, Platonism and Cartesianism in the Philosophy of Ralph Cudworth (Bern: Herbert Lang, 1962). Some relevant quotes from Descartes, Leibniz, and others are given in Chomsky, Aspects of the Theory of Syntax, chap. 1, §8, where the relevance of this position to current issues is also briefly discussed. [Chomsky notes in CL’s conclusion (p. 107 below) that some figures have been omitted from his survey of ‘Cartesian linguists’, or have been inadequately discussed. He mentions Immanuel Kant in particular. It is perhaps significant that the Cambridge Platonists had more to say about the scientific issues of language acquisition that Chomsky discusses than Kant, who was primarily interested in epistemological issues and had little to say that could be seen as anticipating Chomsky’s ‘biologizing’ of language.]
+
+See also Chomsky, Explanatory Models in Linguistics, and Katz, Philosophy of Language, for discussion of an essentially rationalist approach to the problem of language acquisition and of the inadequacy of empiricist alternatives. In the same connection, see Lenneberg, “Biological Perspective,” and Biological Foundations of Language (New York: John Wiley, 1967), and §VI of The Structure of Language: Readings in the Philosophy of Language, ed. J. Fodor and J. Katz (Englewood Cliffs: Prentice-Hall, 1964). [See also Jenkins 1999 and several of the chapters of McGilvray 2005, plus references in both. Biolinguistics remains a burgeoning field of study. A particularly good starting point is Hauser, Chomsky, Fitch 2002; a very useful overview is found in Chomsky (2007 and forthcoming); some more technical discussion is in Chomsky 2005.]
+
+
+
+111 Leibniz, Discourse on Metaphysics. The quotations here are from the English translation in Leibniz: Discourse on Metaphysics and Correspondence with Arnauld, trans. G. Montgomery (La Salle: Open Court, 1902). With reference to Plato’s theory, Leibniz insists only that it be “purged of the error of pre-existence.” Similarly, Cudworth accepts the theory of reminiscence without the doctrine of preexistence that Plato suggests as an explanation for the facts he describes: “And this is the only true and allowable sense of that old assertion, that knowledge is reminiscence; not that it is the rememberance of something which the soul had some time before actually known in a pre-existent state, but because it is the mind’s comprehending of things by some inward anticipations of its own, something native and domestic to it, or something actively exerted from within itself” (Treatise concerning Eternal and Immutable Morality, p. 424; page references, here and below, are to the first American edition of works of Cudworth, vol. II, T. Birch, ed., 1838). [The quotation is found on p. 74 of Sarah Hutton’s recent edition of the Treatise (Cudworth 1996). References to this text have been added to Chomsky’s references below and in the text.]
+
+Leibniz’s view (Discourse on Metaphysics, §26) that “the mind at every moment expresses all its future thoughts and already thinks confusedly of all that of which it will ever think distinctly” might be regarded as suggesting the fundamental insight regarding language (and thought) that we discussed in §2.
+
+
+
+112 Cf. Beauzée, Grammaire générale, pp. xv–xvi. He defines “grammatical metaphysics” [la Métaphysique grammaticale] as being nothing but “the nature of language brought into the open, established in its own terms, and reduced to general notions”: The fine points that this metaphysics discovers in language. . .come from eternal reason, which unconsciously directs us. . . It would be vain to claim that those who speak the best are not aware of these delicate principles. How could they put them into practice so well unless they were somehow aware of them? I admit that they would perhaps not be ready to use all the rules in their reasoning, because they have not studied them systematically [l’ensemble et le système]; but in the end, since they apply these principles, they are conscious of them within themselves; they cannot escape from the imprints of this natural logic which, covertly but irresistibly, directs honest minds in all their operations. But general grammar is simply the rational exposition of the procedures of this natural logic.
+
+
+
+
+
+113 But cf. p. 97 above. The typical Cartesian view would apparently have been that, although these principles may function unconsciously, they can be brought to consciousness by introspection.
+
+
+
+114 But whatever trouble we take to teach them certain things, we often find that they know the names of a thousand others that we did not intend to show them; and, what is more surprising, we see that when they are two or three years old they are capable, through the mere force of their attention, to distinguish the name we give to a thing in all the constructions we use in speaking about it.
+
+(pp. 47–48)
+
+
+
+
+
+He also points out that children learn their native language more easily than an adult can learn a new language.
+
+It is interesting to compare these quite commonplace but perfectly correct observations with the picture of language learning that one generally finds among many modern writers, whose conclusions are, in fact, based not on observation but on a priori assumptions about what they believe must take place. Cf., e.g., the speculation on how all language “habits” are built up by training, instruction, conditioning, and reinforcement in Bloomfield, op. cit., pp. 29–31; Wittgenstein, Blue Book (Oxford: Blackwell, 1958), pp. 1, 12–13, 77; Skinner, Verbal Behavior (New York: Appleton-Century-Crofts, 1957); Quine, Word and Object (Cambridge and New York: M.I.T. Press and John Wiley, 1960); etc. [See also the editor’s introduction.]
+
+Occasionally, modern discussions invoke some process of “generalization” or “abstraction” that functions along with association and conditioning, but it must be emphasized that there is no known process of this sort that will begin to overcome the inadequacy of empiricist accounts of language acquisition. For discussion, see the references in note 110. In considering this problem, one must, in particular, bear in mind the criticism advanced by Cudworth (Treatise, p. 462; Cudworth 1996:114–116) against the attempt to show how general ideas might arise from sensory images (phantasms) by “abstraction” and thus require no postulation of innate mental structure. As he points out, the intellectus agens either “doth know what he is to do with these phantasms beforehand, what he is to make of them, and unto what shape to bring them,” in which case the question is begged, an “intelligible idea” being presupposed; or, if he has no such plan, “he must needs be a bungling workman,” that is, the act of “abstracting” can lead to any arbitrary and absurd result.
+
+In short, reference to “generalization” does not eliminate the necessity to provide a precise account of the basis on which acquisition of beliefs and knowledge proceeds. We may, if we like, refer to the processes involved in language acquisition as processes of generalization or abstraction. But we will then apparently be forced to conclude that “generalization” or “abstraction,” in this new sense, has no recognizable relation to what is called “generalization” or “abstraction” in any technical or well-defined usage of philosophy, psychology, or linguistics.
+
+
+
+115 Cf. Steinthal, Gedächtnissrede, p. 17. He holds that Humboldt’s fundamental insight was to see “how nothing external could ever find its way into the human being if it were not originally in them already and how all external influence is only a stimulus for the bursting forth of the inwardness. In the depth of this inwardness lies the unitary source of all genuine poetry and genuine philosophy, the source of all ideas and all great human creations, and from this source, language too flows.”
+
+Humboldt’s views on education, incidentally, illustrate the same concern for the creative role of the individual. In his early essay against state absolutism (see pp. 66f. above), he argues that “sound instruction undoubtedly consists of spreading out before the person to be instructed various solutions, and then preparing him to choose the most appropriate, or even better, to invent his own solution by simply arranging before him all the difficulties to be conquered.” This method of instruction is, he maintains, not available to the state, which is limited to coercive and authoritarian means. (Cf. Cowan, Humanist, p. 43.) Elsewhere he holds that “all educational development has its sole origin in the inner psychological constitution of human beings, and can only be stimulated, never produced by external institutions” (Cowan, p. 126). “Man’s understanding, like all his other energies, is cultivated only by each human being’s own activity, his own inventiveness, or his own utilization of the inventions of others” (Cowan, pp. 42–43). Cf. also Cowan, pp. 132ff.
+
+It is interesting to compare Harris’s observation in his Hermes that there is “nothing more absurd than the common notion of Instruction, as if Science were to be poured into the Mind like water into a cistern, that passively waits to receive all that comes. The growth of knowledge . . . [rather resembles] . . . the growth of Fruit; however external causes may in some degree cooperate, it is the internal vigour, and virtue of the tree, that must ripen the juices to their just maturity” (Works, p. 209). Here the ideal is apparently Socratic method; as Cudworth describes it (Treatise, p. 427; Cudworth 1996: 78), the belief that “knowledge was not to be poured into the soul like liquor, but rather to be invited and gently drawn forth from it; nor the mind so much to be filled therewith from without, like a vessel, as to be kindled and awaked.”
+
+
+
+116 On the relation between Cudworth and Descartes, see Passmore, op. cit.; Gysi, op. cit.; and, for more general background, S. P. Lamprecht, “The Role of Descartes in Seventeenth-century England,” Studies in the History of Ideas, vol. III (New York: Columbia University Press, 1935), pp. 181–242. Passmore concludes (Ralph Cudworth, p. 8) that, despite some divergence, “it is still not misleading to call Cudworth a Cartesian, so great was their agreement on so many vital issues.”
+
+
+
+117 Cf. Descartes, Meditation II, CSM, 21: we know what it is that we see not “from what the eye sees” but “from the scrutiny of the mind alone.” But then if I look out of the window and see men crossing the square . . . I normally say that I see the men themselves . . . Yet do I see any more than hats and coats which could conceal automatons? I judge that they are men. And so something which I thought I was seeing with my eyes is in fact grasped solely by the faculty of judgement which is in my mind.
+
+
+
+
+
+118 However, “the cogitations that we have of corporeal things [are] usually both noematical and phantasmatical together.” This accounts for the fact that geometricians will rely on diagrams and that “in speech, metaphors and allegories do so exceedingly please” (pp. 430, 468; Cudworth 1996: 81 (for quotations), 121 (for geometrician reference)).
+
+
+
+119 In a similar way, Cudworth arrives at the typical rationalist conclusion that our knowledge is organized as a kind of “deductive system” by which we arrive at “a descending comprehension of a thing from the universal ideas of the mind, and not an ascending perception of them from individuals by sense” (p. 467; Cudworth 1996:120, cf. 113–114).
+
+
+
+120 See Abrams, Mirror, for discussion of the importance of this theory of cognitive processes in romantic aesthetics, and of its origins in earlier thought, particularly, that of Plotinus, who “explicitly rejected the concept of sensations as ‘imprints’ or ‘seal-impressions’ made on a passive mind, and substituted the view of the mind as an act and a power which ‘gives a radiance out of its own store’ to the objects of sense” (p. 59). Parallels between Kant and seventeenth-century English philosophy are discussed by Lovejoy, Kant and the English Platonists.
+
+
+
+121 Quoted in A. D. Snyder, Coleridge on Logic and Learning (New Haven: Yale University Press, 1929), pp. 133–134.
+
+
+
+122 Quoted in Snyder, Coleridge, p. 116.
+
+
+
+123 See, for example, D. M. MacKay, “Mindlike Behavior in Artefacts,” British Journal for Philosophy of Science 2 (1951), pp. 105–121. J. S. Bruner, “On Perceptual Readiness,” Psychological Review 64 (1957), pp. 123–152, “Neural Mechanisms in Perception,” Psychological Review 64 (1957), pp. 340–358. For a review of many of the findings relating to central processes in perception, see H. L. Teuber, “Perception,” in the Handbook of Physiology, Neurophysiology, ed. J. Field, H. W. Magoun, V. E. Hall (Washington: American Physiological Society, 1960), vol. III, chap. LXV. [Scientific research on perception since 1966 continues this theme; the literature is now massive. Chomsky sometimes refers to Marr 1981.]
+
+
+
+124 For discussion and references in the areas of phonology and syntax respectively, see M. Halle and K. N. Stevens, “Speech Recognition: A Model and a Program for Research,” in Fodor and Katz (eds.), Structure of Language; and G. A. Miller and N. Chomsky, “Finitary Models of Language Users,” pt. II, in Handbook of Mathematical Psychology, ed. R. D. Luce, R. Bush, and E. Galanter (New York: John Wiley, 1963), vol. II.

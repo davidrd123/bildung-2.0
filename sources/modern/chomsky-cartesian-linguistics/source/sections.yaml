@@ -1,0 +1,116 @@
+book:
+  title: "Cartesian Linguistics: A Chapter in the History of Rationalist Thought"
+  author: "Noam Chomsky"
+  editor: "James McGilvray"
+  source_epub: "sources/modern/incoming/books/Cartesian Linguistics _ A Chapter in the History of -- Noam Chomsky & James McGilvray & Noam Chomsky -- 1966.epub"
+  extracted_full_text: "source/full/cartesian-linguistics.txt"
+  extraction_tool: "ebook-convert (calibre 9.7.0)"
+sections:
+  - seq: 0
+    slug: "front-matter-and-contents"
+    title: "Front matter and contents"
+    kind: "front-matter"
+    file: "raw/000-front-matter-and-contents.txt"
+    start_line: 1
+    end_line: 127
+    line_count: 127
+    printed_page_start: null
+  - seq: 10
+    slug: "introduction-to-the-third-edition"
+    title: "Introduction to the third edition"
+    kind: "introduction"
+    file: "raw/010-introduction-to-the-third-edition.txt"
+    start_line: 128
+    end_line: 437
+    line_count: 310
+    printed_page_start: "1"
+  - seq: 20
+    slug: "cartesian-linguistics-title-acknowledgments"
+    title: "Cartesian Linguistics: title, acknowledgments, and epigraph"
+    kind: "front-matter"
+    file: "raw/020-cartesian-linguistics-title-acknowledgments.txt"
+    start_line: 438
+    end_line: 465
+    line_count: 28
+    printed_page_start: "53"
+  - seq: 21
+    slug: "introduction"
+    title: "Introduction"
+    kind: "chapter"
+    file: "raw/021-introduction.txt"
+    start_line: 466
+    end_line: 480
+    line_count: 15
+    printed_page_start: "57"
+  - seq: 22
+    slug: "creative-aspect-of-language-use"
+    title: "Creative aspect of language use"
+    kind: "chapter"
+    file: "raw/022-creative-aspect-of-language-use.txt"
+    start_line: 481
+    end_line: 709
+    line_count: 229
+    printed_page_start: "59"
+  - seq: 23
+    slug: "deep-and-surface-structure"
+    title: "Deep and surface structure"
+    kind: "chapter"
+    file: "raw/023-deep-and-surface-structure.txt"
+    start_line: 710
+    end_line: 904
+    line_count: 195
+    printed_page_start: "78"
+  - seq: 24
+    slug: "description-and-explanation-in-linguistics"
+    title: "Description and explanation in linguistics"
+    kind: "chapter"
+    file: "raw/024-description-and-explanation-in-linguistics.txt"
+    start_line: 905
+    end_line: 961
+    line_count: 57
+    printed_page_start: "93"
+  - seq: 25
+    slug: "acquisition-and-use-of-language"
+    title: "Acquisition and use of language"
+    kind: "chapter"
+    file: "raw/025-acquisition-and-use-of-language.txt"
+    start_line: 962
+    end_line: 1080
+    line_count: 119
+    printed_page_start: "98"
+  - seq: 26
+    slug: "summary"
+    title: "Summary"
+    kind: "chapter"
+    file: "raw/026-summary.txt"
+    start_line: 1081
+    end_line: 1093
+    line_count: 13
+    printed_page_start: "108"
+  - seq: 30
+    slug: "notes"
+    title: "Notes"
+    kind: "back-matter"
+    file: "raw/030-notes.txt"
+    start_line: 1094
+    end_line: 1884
+    line_count: 791
+    printed_page_start: "109"
+  - seq: 31
+    slug: "bibliography"
+    title: "Bibliography"
+    kind: "back-matter"
+    file: "raw/031-bibliography.txt"
+    start_line: 1885
+    end_line: 2259
+    line_count: 375
+    printed_page_start: "147"
+  - seq: 32
+    slug: "index"
+    title: "Index"
+    kind: "back-matter"
+    file: "raw/032-index.txt"
+    start_line: 2260
+    end_line: 3098
+    line_count: 839
+    printed_page_start: "154"
