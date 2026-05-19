@@ -1,0 +1,42 @@
+status: cassirer-substrate
+source_quality: TEI XML from PerseusDL and OpenGreekAndLatin/First1KGreek
+purpose: >
+  Targeted source shelf for Plotinus, Epicurean transmission through Diogenes
+  Laertius, and Sextus/Pyrrhonian skepticism pressure in Cassirer.
+generated_plain_text:
+  tool: ../../tools/tei_to_plain.py
+  output_dir: source/plain
+sources:
+  - id: plotinus-enneads
+    author: Plotinus
+    title: Enneades
+    cts_urn: urn:cts:greekLit:tlg2000.tlg001.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg2000/tlg001/tlg2000.tlg001.1st1K-grc1.xml
+    local_tei: source/tei/plotinus-enneads.tlg2000.tlg001.1st1K-grc1.xml
+    local_plain: source/plain/plotinus-enneads.tlg2000.tlg001.1st1K-grc1.txt
+  - id: diogenes-laertius-vitae-philosophorum
+    author: Diogenes Laertius
+    title: Vitae philosophorum
+    cts_urn: urn:cts:greekLit:tlg0004.tlg001.perseus-grc2
+    source_repo: PerseusDL/canonical-greekLit
+    source_url: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0004/tlg001/tlg0004.tlg001.perseus-grc2.xml
+    local_tei: source/tei/diogenes-laertius-vitae-philosophorum.tlg0004.tlg001.perseus-grc2.xml
+    local_plain: source/plain/diogenes-laertius-vitae-philosophorum.tlg0004.tlg001.perseus-grc2.txt
+    note: Book X is the immediate Epicurus witness; other books aid doxographic lookup.
+  - id: sextus-pyrrhoniae-hypotyposes
+    author: Sextus Empiricus
+    title: Pyrrhoniae Hypotyposes
+    cts_urn: urn:cts:greekLit:tlg0544.tlg001.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0544/tlg001/tlg0544.tlg001.1st1K-grc1.xml
+    local_tei: source/tei/sextus-pyrrhoniae-hypotyposes.tlg0544.tlg001.1st1K-grc1.xml
+    local_plain: source/plain/sextus-pyrrhoniae-hypotyposes.tlg0544.tlg001.1st1K-grc1.txt
+  - id: sextus-adversus-mathematicos
+    author: Sextus Empiricus
+    title: Adversus Mathematicos
+    cts_urn: urn:cts:greekLit:tlg0544.tlg002.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0544/tlg002/tlg0544.tlg002.1st1K-grc1.xml
+    local_tei: source/tei/sextus-adversus-mathematicos.tlg0544.tlg002.1st1K-grc1.xml
+    local_plain: source/plain/sextus-adversus-mathematicos.tlg0544.tlg002.1st1K-grc1.txt

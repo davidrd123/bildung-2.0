@@ -1,0 +1,98 @@
+status: cassirer-substrate
+source_quality: mixed TEI XML and Internet Archive OCR
+purpose: >
+  Greek mathematical source shelf for Cassirer's construction, relation,
+  geometry, and mathematical-physics pressure.
+generated_plain_text:
+  tool: ../../tools/tei_to_plain.py
+  output_dir: source/plain
+sources:
+  - id: euclid-elementa
+    author: Euclid
+    title: Elementa
+    cts_urn: urn:cts:greekLit:tlg1799.tlg001.perseus-grc2
+    source_repo: PerseusDL/canonical-greekLit
+    source_url: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg1799/tlg001/tlg1799.tlg001.perseus-grc2.xml
+    local_tei: source/tei/euclid-elementa.tlg1799.tlg001.perseus-grc2.xml
+    local_plain: source/plain/euclid-elementa.tlg1799.tlg001.perseus-grc2.txt
+  - id: proclus-in-euclid-book-i
+    author: Proclus
+    title: In primum Euclidis Elementorum librum commentarii
+    source_type: Internet Archive DjVu OCR
+    edition_note: OCR search surface only; verify against scan for citation.
+    archive_identifier: proclidiadochiin00procuoft
+    source_url: https://archive.org/download/proclidiadochiin00procuoft/proclidiadochiin00procuoft_djvu.txt
+    scan_url: https://archive.org/details/proclidiadochiin00procuoft
+    local_ocr: source/ocr/proclus-in-euclid-book-i.proclidiadochiin00procuoft_djvu.txt
+  - id: archimedes-de-sphaera-et-cylindro
+    author: Archimedes
+    title: De sphaera et cylindro
+    cts_urn: urn:cts:greekLit:tlg0552.tlg001.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0552/tlg001/tlg0552.tlg001.1st1K-grc1.xml
+    local_tei: source/tei/archimedes-de-sphaera-et-cylindro.tlg0552.tlg001.1st1K-grc1.xml
+    local_plain: source/plain/archimedes-de-sphaera-et-cylindro.tlg0552.tlg001.1st1K-grc1.txt
+  - id: archimedes-dimensio-circuli
+    author: Archimedes
+    title: Dimensio circuli
+    cts_urn: urn:cts:greekLit:tlg0552.tlg002.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0552/tlg002/tlg0552.tlg002.1st1K-grc1.xml
+    local_tei: source/tei/archimedes-dimensio-circuli.tlg0552.tlg002.1st1K-grc1.xml
+    local_plain: source/plain/archimedes-dimensio-circuli.tlg0552.tlg002.1st1K-grc1.txt
+  - id: archimedes-de-lineis-spiralibus
+    author: Archimedes
+    title: De lineis spiralibus
+    cts_urn: urn:cts:greekLit:tlg0552.tlg004.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0552/tlg004/tlg0552.tlg004.1st1K-grc1.xml
+    local_tei: source/tei/archimedes-de-lineis-spiralibus.tlg0552.tlg004.1st1K-grc1.xml
+    local_plain: source/plain/archimedes-de-lineis-spiralibus.tlg0552.tlg004.1st1K-grc1.txt
+  - id: archimedes-de-planorum-aequilibriis
+    author: Archimedes
+    title: De planorum aequilibriis
+    cts_urn: urn:cts:greekLit:tlg0552.tlg005.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0552/tlg005/tlg0552.tlg005.1st1K-grc1.xml
+    local_tei: source/tei/archimedes-de-planorum-aequilibriis.tlg0552.tlg005.1st1K-grc1.xml
+    local_plain: source/plain/archimedes-de-planorum-aequilibriis.tlg0552.tlg005.1st1K-grc1.txt
+  - id: archimedes-arenarius
+    author: Archimedes
+    title: Arenarius
+    cts_urn: urn:cts:greekLit:tlg0552.tlg006.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0552/tlg006/tlg0552.tlg006.1st1K-grc1.xml
+    local_tei: source/tei/archimedes-arenarius.tlg0552.tlg006.1st1K-grc1.xml
+    local_plain: source/plain/archimedes-arenarius.tlg0552.tlg006.1st1K-grc1.txt
+  - id: archimedes-de-corporibus-fluitantibus
+    author: Archimedes
+    title: De corporibus fluitantibus
+    cts_urn: urn:cts:greekLit:tlg0552.tlg008.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0552/tlg008/tlg0552.tlg008.1st1K-grc1.xml
+    local_tei: source/tei/archimedes-de-corporibus-fluitantibus.tlg0552.tlg008.1st1K-grc1.xml
+    local_plain: source/plain/archimedes-de-corporibus-fluitantibus.tlg0552.tlg008.1st1K-grc1.txt
+  - id: archimedes-methodus
+    author: Archimedes
+    title: Ad Eratosthenem methodus
+    cts_urn: urn:cts:greekLit:tlg0552.tlg010.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0552/tlg010/tlg0552.tlg010.1st1K-grc1.xml
+    local_tei: source/tei/archimedes-methodus.tlg0552.tlg010.1st1K-grc1.xml
+    local_plain: source/plain/archimedes-methodus.tlg0552.tlg010.1st1K-grc1.txt
+  - id: apollonius-conica
+    author: Apollonius of Perga
+    title: Conica
+    cts_urn: urn:cts:greekLit:tlg0550.tlg001.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0550/tlg001/tlg0550.tlg001.1st1K-grc1.xml
+    local_tei: source/tei/apollonius-conica.tlg0550.tlg001.1st1K-grc1.xml
+    local_plain: source/plain/apollonius-conica.tlg0550.tlg001.1st1K-grc1.txt
+  - id: ptolemy-syntaxis-mathematica
+    author: Claudius Ptolemaeus
+    title: Syntaxis mathematica
+    cts_urn: urn:cts:greekLit:tlg0363.tlg001.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0363/tlg001/tlg0363.tlg001.1st1K-grc1.xml
+    local_tei: source/tei/ptolemy-syntaxis-mathematica.tlg0363.tlg001.1st1K-grc1.xml
+    local_plain: source/plain/ptolemy-syntaxis-mathematica.tlg0363.tlg001.1st1K-grc1.txt

@@ -1,0 +1,90 @@
+status: cassirer-substrate
+source_quality: TEI XML from PerseusDL and OpenGreekAndLatin/First1KGreek
+purpose: >
+  Bounded Aristotle shelf for Cassirer's categories, substance, logic,
+  demonstration, perception, soul, physics, and cosmology pressure.
+generated_plain_text:
+  tool: ../../tools/tei_to_plain.py
+  output_dir: source/plain
+sources:
+  - id: categories
+    author: Aristotle
+    title: Categoriae
+    cts_urn: urn:cts:greekLit:tlg0086.tlg006.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0086/tlg006/tlg0086.tlg006.1st1K-grc1.xml
+    local_tei: source/tei/categories.tlg0086.tlg006.1st1K-grc1.xml
+    local_plain: source/plain/categories.tlg0086.tlg006.1st1K-grc1.txt
+  - id: de-interpretatione
+    author: Aristotle
+    title: De interpretatione
+    cts_urn: urn:cts:greekLit:tlg0086.tlg017.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0086/tlg017/tlg0086.tlg017.1st1K-grc1.xml
+    local_tei: source/tei/de-interpretatione.tlg0086.tlg017.1st1K-grc1.xml
+    local_plain: source/plain/de-interpretatione.tlg0086.tlg017.1st1K-grc1.txt
+  - id: analytica-priora-posteriora
+    author: Aristotle
+    title: Analytica Priora et Posteriora
+    cts_urn: urn:cts:greekLit:tlg0086.tlg001.1st1K-grc2
+    source_repo: OpenGreekAndLatin/First1KGreek
+    edition_note: Ross 1964 TEI file contains both Prior and Posterior Analytics.
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0086/tlg001/tlg0086.tlg001.1st1K-grc2.xml
+    local_tei: source/tei/analytica-priora-posteriora.tlg0086.tlg001.1st1K-grc2.xml
+    local_plain: source/plain/analytica-priora-posteriora.tlg0086.tlg001.1st1K-grc2.txt
+  - id: metaphysics
+    author: Aristotle
+    title: Metaphysics
+    cts_urn: urn:cts:greekLit:tlg0086.tlg025.perseus-grc2
+    source_repo: PerseusDL/canonical-greekLit
+    source_url: https://raw.githubusercontent.com/PerseusDL/canonical-greekLit/master/data/tlg0086/tlg025/tlg0086.tlg025.perseus-grc2.xml
+    local_tei: source/tei/metaphysics.tlg0086.tlg025.perseus-grc2.xml
+    local_plain: source/plain/metaphysics.tlg0086.tlg025.perseus-grc2.txt
+  - id: de-anima
+    author: Aristotle
+    title: De anima
+    cts_urn: urn:cts:greekLit:tlg0086.tlg002.1st1K-grc2
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0086/tlg002/tlg0086.tlg002.1st1K-grc2.xml
+    local_tei: source/tei/de-anima.tlg0086.tlg002.1st1K-grc2.xml
+    local_plain: source/plain/de-anima.tlg0086.tlg002.1st1K-grc2.txt
+  - id: de-sensu
+    author: Aristotle
+    title: De sensu et sensibilibus
+    cts_urn: urn:cts:greekLit:tlg0086.tlg041.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0086/tlg041/tlg0086.tlg041.1st1K-grc1.xml
+    local_tei: source/tei/de-sensu.tlg0086.tlg041.1st1K-grc1.xml
+    local_plain: source/plain/de-sensu.tlg0086.tlg041.1st1K-grc1.txt
+  - id: physica
+    author: Aristotle
+    title: Physica
+    cts_urn: urn:cts:greekLit:tlg0086.tlg031.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0086/tlg031/tlg0086.tlg031.1st1K-grc1.xml
+    local_tei: source/tei/physica.tlg0086.tlg031.1st1K-grc1.xml
+    local_plain: source/plain/physica.tlg0086.tlg031.1st1K-grc1.txt
+  - id: de-caelo
+    author: Aristotle
+    title: De caelo
+    cts_urn: urn:cts:greekLit:tlg0086.tlg005.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0086/tlg005/tlg0086.tlg005.1st1K-grc1.xml
+    local_tei: source/tei/de-caelo.tlg0086.tlg005.1st1K-grc1.xml
+    local_plain: source/plain/de-caelo.tlg0086.tlg005.1st1K-grc1.txt
+  - id: topica
+    author: Aristotle
+    title: Topica
+    cts_urn: urn:cts:greekLit:tlg0086.tlg044.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0086/tlg044/tlg0086.tlg044.1st1K-grc1.xml
+    local_tei: source/tei/topica.tlg0086.tlg044.1st1K-grc1.xml
+    local_plain: source/plain/topica.tlg0086.tlg044.1st1K-grc1.txt
+  - id: sophistical-refutations
+    author: Aristotle
+    title: De sophisticis elenchis
+    cts_urn: urn:cts:greekLit:tlg0086.tlg040.1st1K-grc1
+    source_repo: OpenGreekAndLatin/First1KGreek
+    source_url: https://raw.githubusercontent.com/OpenGreekAndLatin/First1KGreek/master/data/tlg0086/tlg040/tlg0086.tlg040.1st1K-grc1.xml
+    local_tei: source/tei/sophistical-refutations.tlg0086.tlg040.1st1K-grc1.xml
+    local_plain: source/plain/sophistical-refutations.tlg0086.tlg040.1st1K-grc1.txt

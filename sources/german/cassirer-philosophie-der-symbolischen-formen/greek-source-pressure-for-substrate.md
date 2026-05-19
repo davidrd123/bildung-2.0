@@ -122,6 +122,15 @@ Working implication: Aristotle is a reference substrate for categories,
 substance, psychology, and proof. It should not be treated as a single
 engagement target until a local task forces a narrower tranche.
 
+Local substrate now exists at:
+
+- `../../../greek/aristotle-core-cassirer-substrate/README.md`
+
+It contains TEI XML and generated plain-text search surfaces for the bounded
+core shelf: `Categories`, `De interpretatione`, `Analytica Priora` /
+`Analytica Posteriora`, `Metaphysics`, `De anima`, `De sensu`, `Physics`,
+`De caelo`, `Topica`, and `Sophistical Refutations`.
+
 ### Diels Presocratics / Atomist Dossier
 
 The Presocratic pressure should be one dossier-style substrate organized by
@@ -168,6 +177,16 @@ Working implication: build this as a Diels-style fragment/search surface with
 author-level subdivisions. Democritus/Leucippus and Parmenides/Zeno should come
 first inside the dossier.
 
+Local substrate now exists at:
+
+- `../../../greek/presocratic-atomist-doxography-cassirer-substrate/README.md`
+
+This is deliberately an OCR/doxography shelf rather than a clean fragment TEI:
+Diels' `Fragmente der Vorsokratiker` and `Doxographi Graeci` are present as
+search surfaces, with a standing instruction to verify citation-sensitive
+passages against scans or a critical edition. Diogenes Laertius is available in
+the Neoplatonic/Epicurean/Skeptic pack as a practical doxographic witness.
+
 ## Second Priority
 
 ### Greek Mathematics
@@ -203,6 +222,15 @@ Working implication: start with Euclid. Add Proclus as a secondary ancient
 mathematical-philosophical witness. Archimedes is likely next when Galilei and
 modern mathematical physics become active again.
 
+Local substrate now exists at:
+
+- `../../../greek/greek-mathematics-cassirer-substrate/README.md`
+
+It contains TEI XML and generated plain-text search surfaces for Euclid's
+`Elements`, selected Archimedes, Apollonius' `Conica`, and Ptolemy's
+`Syntaxis mathematica`. Proclus on Euclid Book I is present as Internet Archive
+OCR, not TEI; use it for discovery and verify citations against the scan.
+
 ### Plotinus / Neoplatonism
 
 Plotinus is real but usually mediated through Renaissance figures rather than
@@ -220,6 +248,13 @@ Immediate evidence:
 
 Working implication: build excerpts first: the One, soul, matter, beauty, and
 imagination. Do not begin with a full Plotinus campaign.
+
+Local substrate now exists at:
+
+- `../../../greek/neoplatonic-epicurean-skeptic-cassirer-substrate/README.md`
+
+The pack contains the full `Enneads` as TEI plus a generated plain-text search
+surface. It remains a substrate shelf, not a Plotinus campaign.
 
 ### Epicurus / Sextus / Skepticism
 
@@ -245,14 +280,46 @@ Working implication: Epicurus deserves targeted substrate before Sextus.
 Sextus/Pyrrhonism should wait until the skepticism surfaces ask for direct
 source support.
 
+Local substrate now exists at:
+
+- `../../../greek/neoplatonic-epicurean-skeptic-cassirer-substrate/README.md`
+
+Diogenes Laertius' `Vitae philosophorum` is present as the practical Epicurus
+witness, especially Book X. Sextus' `Pyrrhoniae Hypotyposes` and `Adversus
+Mathematicos` are also present as TEI/plain search surfaces, but they remain
+watch surfaces until the skepticism material becomes more active.
+
+## Reserve And Negative Evidence
+
+### PSF II Mythic Greek Axis
+
+The current substrate order follows the philosophical-epistemological Cassirer:
+Plato, Aristotle, Presocratics, mathematics, Plotinus, Epicurus, and skepticism.
+PSF II creates a second possible Greek axis around Homer, Hesiod, tragedy,
+mystery religion, and Heraclitus as religious thinker. That axis is real, but
+it is not yet unpacked here because the present task was to fill the existing
+Cassirer-pressure scaffold rather than open the mythical-symbolic shelf.
+
+Working implication: when mythical-symbolic Cassirer becomes active, add a
+separate Greek mythic/tragic reserve rather than folding Homer, Hesiod, and
+tragedy into the philosophy-of-knowledge substrate.
+
+### Roads Not Yet Taken
+
+The apparatus pressure currently does not justify a Stoic pack, a medical
+Hippocratic/Galenic pack, or a broad doxographic tradition pack beyond Diels and
+Diogenes Laertius. That absence is evidence about Cassirer's Greek source-base:
+it is Plato-Aristotle-Presocratic-mathematical-Neoplatonic before it is Stoic,
+medical, rhetorical, or antiquarian.
+
 ## Current Substrate Order
 
 1. Plato dialogue pack
-2. Diels Presocratics / atomist dossier
-3. Aristotle core shelf
-4. Euclid and Greek mathematics, with Proclus/Archimedes nearby
-5. Plotinus excerpts
-6. Epicurus, then Sextus/Pyrrhonism as needed
+2. Aristotle core shelf
+3. Diels Presocratics / atomist dossier
+4. Euclid and Greek mathematics, with Proclus/Archimedes/Apollonius/Ptolemy nearby
+5. Plotinus / Neoplatonism
+6. Epicurus, then Sextus/Pyrrhonism as watch surfaces
 
 This order is practical, not canonical. It follows current Cassirer pressure in
 the repo rather than an abstract history-of-philosophy sequence.

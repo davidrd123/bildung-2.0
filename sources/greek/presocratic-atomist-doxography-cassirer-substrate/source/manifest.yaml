@@ -1,0 +1,39 @@
+status: cassirer-substrate
+source_quality: Internet Archive OCR; verify citation-sensitive passages
+purpose: >
+  Search surface for Cassirer's Presocratic and atomist pressure, especially
+  Parmenides/Zeno, Democritus/Leucippus, Heraclitus, Empedocles, Anaxagoras,
+  Xenophanes, and Pythagorean materials.
+sources:
+  - id: diels-fragmente-der-vorsokratiker-1912-v1
+    author: Hermann Diels
+    title: Die Fragmente der Vorsokratiker, griechisch und deutsch
+    volume: 1
+    date: 1912
+    source_type: Internet Archive DjVu OCR
+    edition_note: OCR search surface only; verify against scan or critical edition.
+    archive_identifier: diefragmentede01diel
+    source_url: https://archive.org/download/diefragmentede01diel/diefragmentede01diel_djvu.txt
+    scan_url: https://archive.org/details/diefragmentede01diel
+    local_ocr: source/ocr/diels-fragmente-der-vorsokratiker-1912-v1.diefragmentede01diel_djvu.txt
+  - id: diels-fragmente-der-vorsokratiker-1912-v2
+    author: Hermann Diels
+    title: Die Fragmente der Vorsokratiker, griechisch und deutsch
+    volume: 2
+    date: 1912
+    source_type: Internet Archive DjVu OCR
+    edition_note: OCR search surface only; verify against scan or critical edition.
+    archive_identifier: diefragmenteder02diel
+    source_url: https://archive.org/download/diefragmenteder02diel/diefragmenteder02diel_djvu.txt
+    scan_url: https://archive.org/details/diefragmenteder02diel
+    local_ocr: source/ocr/diels-fragmente-der-vorsokratiker-1912-v2.diefragmenteder02diel_djvu.txt
+  - id: diels-doxographi-graeci-1879
+    author: Hermann Diels
+    title: Doxographi Graeci
+    date: 1879
+    source_type: Internet Archive DjVu OCR
+    edition_note: OCR search surface only; verify against scan or critical edition.
+    archive_identifier: doxographigraec00dielgoog
+    source_url: https://archive.org/download/doxographigraec00dielgoog/doxographigraec00dielgoog_djvu.txt
+    scan_url: https://archive.org/details/doxographigraec00dielgoog
+    local_ocr: source/ocr/diels-doxographi-graeci-1879.doxographigraec00dielgoog_djvu.txt
