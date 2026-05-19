@@ -92,6 +92,13 @@ Tracked targeted raw tranches:
 - `source/raw/011-kawi-book-opening-pdf-042-047.txt`
 - `source/raw/023-feststellung-des-begriffs-des-kawi-pdf-231-246.txt`
 
+Tracked normalized working excerpts:
+
+- `source/normalized/011a-kawi-language-opening-pdf-044.txt`
+- `source/normalized/023a-feststellung-des-begriffs-des-kawi-opening-pdf-231-237.txt`
+- `source/normalized/020a-raumverba-praepositionen-pdf-207-209.txt`
+- `source/normalized/030a-tagalisch-sa-ortsbegriff-pdf-402-403.txt`
+
 The raw text is OCR-derived and uncorrected. Use page images and hOCR before
 promoting any passage.
 

@@ -1,0 +1,22 @@
+# Humboldt - Kawi Language Opening
+
+Work: Ueber die Kawi-Sprache auf der Insel Java, Band II
+Witness: ia-1838-kawi-band2-google-ia
+Source raw extract: ../raw/011-kawi-book-opening-pdf-042-047.txt
+Range: PDF page 44 / TIF image 0044 / printed page 1
+Status: working normalization for source-near comparison; not a diplomatic transcription
+
+Normalization notes:
+
+- Checked against the PDF text layer, IA HOCR search text, and TIF page OCR from `berdiekawisprac01buscgoog_0044.tif`.
+- Repairs obvious OCR artifacts and line-break damage; preserves historical spelling where readable.
+- Regularizes OCR long-s artifacts such as `dafs`, `blofs`, and `ausschliefslich` to `daß`, `bloß`, and `ausschließlich`.
+- Body text only; footnotes are omitted in this working excerpt.
+
+## [1] §. 1
+
+Die Kawi-Sprache ist das Eigenthum der, schon durch ihre Lage eng verbundenen Inseln Java, Madura und Bali. Ganz der Vergangenheit angehörend, bewahrt sie die Schätze einer untergegangenen, von Indischem Geiste durchdrungenen Litteratur. Die Beantwortung der Frage, ob sie zu irgend einer Zeit die Sprache dieser Inseln war, oder ob sie, als lebende Sprache einer anderen Gegend des Malayischen Völkerkreises, nach Java verpflanzt wurde? kann, so weit sie überhaupt möglich ist, nur das Endresultat der hier anzustellenden Untersuchungen sein.
+
+Auf Bali sind die Brahmanen fast allein im Besitze derselben, das Kawi ist dort ausschließlich heilige Sprache; Indische Bildung ist nie auf dies Eiland übergegangen. Auf Java ist es gerade umgekehrt. Daher geht noch heute das Streben der Mode dahin, einige Kenntniß des Kawi aufzufassen, obgleich wir gleich sehen werden, wie gering dieselbe in der That ist. Nach der gänzlichen Erlöschung des Indischen Cultus ist aber das Kawi bloß die Sprache der Sagen, der Dichtung, und im heutigen Zustande nur die des Theaters, wenn es Stoffe der frühesten Vorzeit behandelt, geblieben.
+
+Es führt also hier seinen Namen mit der That. Denn bekanntlich bezeichnet kawi, von der Wurzel ku, tönen, Sanskritisch einen Dichter, und in abgeleiteter Bedeutung einen weisen, unterrichteten Mann.

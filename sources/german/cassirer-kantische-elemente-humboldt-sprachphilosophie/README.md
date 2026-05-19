@@ -6,10 +6,35 @@ Hensel-Erlangen*. Greiz i. Vogtl.: Ohag, 1923, pp. 105-127.
 
 ## Status
 
-Acquisition target. No local full-text witness has been landed yet.
+Source text landed at raw level from the ECW 16 Hamburger Ausgabe PDF. This is
+usable for bounded source-near orientation before a Kant/Humboldt synthesis,
+but it is not yet a normalized working text and it is not the original 1923
+Festschrift scan.
 
 This shelf exists because PSF I cites the essay at p. 97 and the Humboldt
 source-use map identifies it as the direct Cassirer-Humboldt-Kant bridge.
+
+## Local Source
+
+Local authority copy, gitignored:
+
+- `source/local/ecw16-aufsaetze-und-kleine-schriften-1922-1926-compress.pdf`
+  - copied from `/Users/daviddickinson/Downloads/gesammelte-werke-hamburger-ausgabe-aufstze-und-kleine-schriften-1922-1926_compress.pdf`
+  - Felix Meiner / Hamburger Ausgabe, ECW 16, *Aufsaetze und kleine Schriften
+    1922-1926*
+
+Tracked raw extract:
+
+- `source/raw/010-kantische-elemente-ecw16-pdf-112-140.txt`
+  - extracted with `pdftotext -layout`
+  - PDF pages 112-140
+  - ECW pages 105-133
+  - original publication pagination in headers: pp. 105-127
+
+Structure helpers:
+
+- `source/witnesses.yaml`
+- `source/sections.yaml`
 
 ## Verified Bibliographic Anchors
 
@@ -46,13 +71,14 @@ Checked publicly:
 - Library/catalog records from CiNii, HEIDI, LIBRIS, and DNB.
 - Gated republication surfaces on De Gruyter/Yale and Cairn.
 
-Result: bibliographic identity is verified, but no usable full-text artifact
-has been located yet.
+Result: bibliographic identity is verified, and an ECW 16 PDF witness is now
+landed locally. A scan of the 1923 Festschrift original remains preferable for
+citation-critical work.
 
 ## Acquisition Rule
 
-If a PDF, scan, or OCR witness is obtained, land it here, not in the PSF shelf
-and not in a general Cassirer shelf.
+If a better PDF, scan, or OCR witness is obtained, land it here, not in the PSF
+shelf and not in a general Cassirer shelf.
 
 Expected first source paths:
 

@@ -1,0 +1,16 @@
+primary_witness: ecw16-hamburger-ausgabe-2003
+status: raw_essay_extract
+
+sections:
+  - id: kantische-elemente-humboldt-sprachphilosophie
+    label: "Die Kantischen Elemente in Wilhelm von Humboldts Sprachphilosophie"
+    publication_year: 1923
+    ecw_pages: 105-133
+    original_publication_pages: 105-127
+    pdf_pages: 112-140
+    raw_extract: source/raw/010-kantische-elemente-ecw16-pdf-112-140.txt
+    status: raw_pdf_text_layer
+    notes:
+      - Extracted from the ECW 16 Hamburger Ausgabe PDF with pdftotext -layout.
+      - The local PDF is stored under source/local and gitignored.
+      - Normalize only when a Kant/Humboldt synthesis or exact quotation requires it.

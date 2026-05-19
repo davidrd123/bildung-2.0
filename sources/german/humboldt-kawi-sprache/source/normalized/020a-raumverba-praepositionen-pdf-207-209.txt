@@ -1,0 +1,42 @@
+# Humboldt - Raumverba als Praepositionen
+
+Work: Ueber die Kawi-Sprache auf der Insel Java, Band II
+Witness: ia-1838-kawi-band2-google-ia
+Source raw extract: ../raw/010-zweites-buch-ueber-die-kawi-sprache-pdf-042-246.txt
+Range: PDF pages 207-209 / TIF images 0207-0209 / printed pages 164-166
+Status: working normalization for source-near comparison; not a diplomatic transcription
+
+Normalization notes:
+
+- Checked against the PDF text layer and TIF page OCR from images 0207-0209.
+- Repairs obvious OCR artifacts and line-break damage; preserves historical spelling where readable.
+- Regularizes OCR long-s artifacts such as `dafs` and `gröfsentheils` to `daß` and `größtentheils`.
+- Body text only; footnotes are omitted in this working excerpt.
+
+## [164] Präpositionen und Conjunctionen. §. 20
+
+Ich werde mich also auf einige allgemeine Bemerkungen über den Ursprung und die Bildung dieser Wörter beschränken.
+
+Man findet wohl in allen Sprachen sichtbare Beweise, daß die Präpositionen und Conjunctionen größtentheils von Wörtern selbstständiger Bedeutung herrühren. Im Jav. und auch im Kawi werden häufig Verba der Bewegung dazu gebraucht, die zum Theil sogar ohne allen Unterschied des Lautes bald die Verbalbedeutung, bald die der Präposition haben. So heißt dateng (Ger.) kommen, Ankunft, zu, an, nach, durch. Im B. Y. finde ich dagegen das Wort nicht als Präposition, wohl aber als Verbum (20, b.) und als Participium (33, a.); doch mag dies zufällig sein.
+
+In anderen Fällen verändert sich der Laut. So kommt maring (s. Anh. 124, b.) offenbar von mara, sich nähern, heranbewegen. Allein sowohl nach den Jav. Wortverzeichnissen, als im B. Y., heißt nur maring, mring und marang zu, nach, durch, und die Verbal- und Substantivbedeutung verbindet sich nur mit dem nicht in einen Nasenlaut endenden Worte; maring nrepati Bastina (19, b.), zum Fürsten von Astina; numalya maring paprangan (116, a.), kehrte zurück zum Schlachtfelde.
+
+Von teka, kommen und Ankunft, lautet im heutigen Jav. bei Ger. und Crawf. die Präposition tekan, im B. Y. tekeng und teking, zu, nach. Bei diesem Worte aber erscheint der Ursprung des Gebrauchs von Verben zu Präpositionen noch deutlicher.
+
+## [165]
+
+In dem Begriffe der Bewegung liegt natürlich schon zugleich der ihrer Richtung; und der grammatische Übergang läßt sich nur so denken, daß Anfangs die Bewegung allein, also gleichsam mit Auslassung der Präposition, aufgefaßt wurde, darauf beide Begriffe neben einander bestanden, endlich aber der der Richtung allein die Oberhand behielt, und ein anderes Verbum der Bewegung, wie im eben angeführten Beispiel, hinzugefügt werden mußte.
+
+Bei teka fällt dies im B. Y. vorzüglich in die Augen. Es steht mehrere Male mit suffigirtem ring, also mit einer andren Präposition, nach, zu, und hat daher bestimmt Verbalbedeutung. Auf gleiche Weise steht auch teka allein, und auch tekeng und teking sind manchmal so gebraucht, daß man zweifelhaft bleibt, ob man sie geradezu als Verba nehmen, oder, sie für Präpositionen ansehend, das Verbum bei ihnen ergänzen oder im Vorhergehenden suchen soll.
+
+Sedeng (s. Anh. 111, a.) wird im eigentlich Malajischen zugleich als Nomen und als Partikel gebraucht. In meinen Javanischen Hülfsmitteln kommt es in Verbal- und Nominalbedeutung, die Mitte halten, sowohl vom Ort, als metaphorisch, Mäßigung, vor, und außerdem führt Crawf. Voc. von ihm die Bed. Zeit (time, season) und während (while, whilst) an. Im Kawi-Gedichte dient es als diese Conjunction, und ich werde in der Syntax darauf zurückkommen.
+
+Ich möchte teking, maring für Verbindungen mit der Präpos. hing halten, obgleich die heutigen Jav. Wohllautsregeln den Vocal i, statt e, fordern. In meinen Hülfsmitteln finde ich nur maring und tekeng. Da aber marang gerade in derselben Art, wie maring, als Präpos. gebraucht wird, so wäre es möglich, daß ing eine selbstständige Endung ist.
+
+Die Anwendung von Verben zu Präpositionen verräth, wie es mir scheint, einen feineren Sprachsinn, als die von Substantiven, Rücken, Antlitz u. s. f., zu demselben Zweck. Das Verbum wird seiner Richtung im Raume nach genommen, und Raumbegriffe machen auch,
+
+## [166]
+
+wenn man es tiefer untersucht, den Hauptbestandtheil aller Präpositionen aus. In ganz zu grammatischen Wörtern gewordenen ist dieser Begriff rein und ohne allen materiellen Zusatz ausgedrückt, und diesem Ausdruck kommt die Beimischung einer Handlung, und zwar einer so allgemeinen, als die der Bewegung ist, am nächsten.
+
+Daß mit Präfixen versehene Verba diese in ihrem Gebrauch als Partikeln beibehielten, ist mir wenigstens nicht vorgekommen. Dagegen wird dumatenge, mit eingeschobenem um, ebensowohl, wie dateng, als Präpos. gebraucht (Ger. Gramm. S. 42.), und mithin das Wort auch im Gebrauch als Präpos. durchaus wie ein Verbum gedacht.

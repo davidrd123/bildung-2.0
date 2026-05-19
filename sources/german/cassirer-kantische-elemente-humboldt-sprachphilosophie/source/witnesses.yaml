@@ -1,0 +1,30 @@
+primary_witness: ecw16-hamburger-ausgabe-2003
+status: raw_text_layer_extract
+
+witnesses:
+  - id: ecw16-hamburger-ausgabe-2003
+    kind: modern_german_reprint_pdf
+    author: Ernst Cassirer
+    title: "Aufsaetze und kleine Schriften 1922-1926"
+    series: "Gesammelte Werke. Hamburger Ausgabe"
+    volume: "ECW 16"
+    editor: Birgit Recki
+    text_and_notes_editor: Julia Clemens
+    publisher: Felix Meiner Verlag
+    place: Hamburg
+    year: 2003
+    local_file: source/local/ecw16-aufsaetze-und-kleine-schriften-1922-1926-compress.pdf
+    status: local_pdf_gitignored
+    notes:
+      - Local PDF was supplied from Downloads on 2026-05-19.
+      - This is a later German reprint witness, not the original 1923 Festschrift scan.
+      - Use the 1923 Festschrift if it becomes available for citation-critical collation.
+
+original_publication:
+  title: "Die Kantischen Elemente in Wilhelm von Humboldts Sprachphilosophie"
+  container: "Festschrift fuer Paul Hensel-Erlangen"
+  editor: Julius Binder
+  place: "Greiz i. Vogtl."
+  publisher: Ohag
+  year: 1923
+  pages: "105-127"

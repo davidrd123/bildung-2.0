@@ -123,7 +123,8 @@ Targeted raw tranche promoted for the familiar theoretical node:
 - witness: Volume 2 PDF text layer
 - PDF/JP2 leaves: `0061-0062`
 - printed pages: `55-56`
-- status: raw, unnormalized
+- status: raw, with a working normalization at
+  `source/normalized/008a-ergon-energeia-pdf-061-062.txt`
 - note: begins with the setup that language is something continually passing
   away and includes the `Werk (Ergon)` / `Thaetigkeit (Energeia)` formulation.
 
@@ -157,8 +158,8 @@ After the initial mapping:
 2. Use Band I for Pott's introduction only unless a later check proves
    otherwise.
 3. Continue mapping Volume 2 sections before bulk splitting.
-4. Check the targeted `Ergon` / `Energeia` raw tranche against JP2/HOCR before
-   quotation, translation, or Chomsky comparison.
+4. Check the targeted `Ergon` / `Energeia` working tranche against JP2 page
+   images before quotation-critical use.
 5. Extract a whole text into `source/full/` only after choosing the best OCR
    witness.
 6. Split into `source/raw/` at the edition's natural seams.

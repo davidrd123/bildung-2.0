@@ -1,0 +1,32 @@
+# Humboldt - Ergon/Energeia Tranche
+
+Work: Ueber die Verschiedenheit des menschlichen Sprachbaues und ihren Einfluss auf die geistige Entwickelung des Menschengeschlechts
+Witness: ia-1876-pott-band2
+Source raw extract: ../raw/008a-ergon-energeia-pdf-061-062.txt
+Range: Volume 2 PDF pages 61-62 / JP2 leaves 0061-0062 / printed pages 55-56
+Status: working normalization for source-near comparison; not a diplomatic transcription
+
+Normalization notes:
+
+- Derived from the PDF text layer and checked against the IA HOCR search text for the Ergon/Energeia passage.
+- Repairs obvious OCR/extraction artifacts only: fused words, broken words, misread section signs, and the low-confidence OCR "Denr" -> "Denn".
+- Preserves historical spelling where it is semantically relevant or not merely an OCR error: Thätigkeit, articulirten, nothwendiger, abgränzend, todtes.
+- Use the JP2 page images before treating this as citation-critical transcription.
+
+## [55] §. 8. Form der Sprachen
+
+z. B. des Sanskritischen und Semitischen, befindet, so wird man dadurch doch noch wenig in dem Bemühen gefördert, den Charakter eines jeden von beiden in so einfache Umrisse zusammenzuziehen, dass dadurch eine fruchtbare Vergleichung derselben und die Bestimmung der ihnen, nach ihrem Verhältniss zur Geisteskraft der Nationen, gebührenden Stelle in dem allgemeinen Geschäfte der Spracherzeugung möglich wird.
+
+Dies erfordert noch ein eignes Aufsuchen der gemeinschaftlichen Quellen der einzelnen Eigenthümlichkeiten, das Zusammenziehen der zerstreuten Züge in das Bild eines organischen Ganzen. Erst dadurch gewinnt man eine Handhabe, an der man die Einzelnheiten festzuhalten vermag. Um daher verschiedene Sprachen in Bezug auf ihren charakteristischen Bau fruchtbar mit einander zu vergleichen, muss man der Form einer jeden derselben sorgfältig nachforschen, und sich auf diese Weise vergewissern, auf welche Art jede die hauptsächlichen Fragen löst, welche aller Spracherzeugung als Aufgaben vorliegen. Da aber dieser Ausdruck der Form in Sprachuntersuchungen in mehrfacher Beziehung gebraucht wird, so glaube ich ausführlicher entwickeln zu müssen, in welchem Sinne ich ihn hier genommen wünsche. Dies erscheint um so nothwendiger, als wir hier nicht von der Sprache überhaupt, sondern von den einzelnen verschiedener Völkerschaften reden, und es daher auch darauf ankommt, abgränzend zu bestimmen, was unter einer einzelnen Sprache, im Gegensatz auf der einen Seite des Sprachstammes, auf der andren des Dialektes, und was unter Einer da zu verstehen ist, wo die nämliche in ihrem Verlaufe wesentliche Veränderungen erfährt.
+
+Die Sprache, in ihrem wirklichen Wesen aufgefasst, ist etwas beständig und in jedem Augenblicke Vorübergehendes. Selbst ihre Erhaltung durch die Schrift ist immer nur eine unvollständige, mumienartige Aufbewahrung, die es doch erst wieder bedarf, dass man dabei den lebendigen Vortrag zu versinnlichen
+
+## [56]
+
+sucht. Sie selbst ist kein Werk (Ergon), sondern eine Thätigkeit (Energeia). Ihre wahre Definition kann daher nur eine genetische sein. Sie ist nämlich die sich ewig wiederholende Arbeit des Geistes, den articulirten Laut zum Ausdruck des Gedanken fähig zu machen. Unmittelbar und streng genommen, ist dies die Definition des jedesmaligen Sprechens; aber im wahren und wesentlichen Sinne kann man auch nur gleichsam die Totalität dieses Sprechens als die Sprache ansehen.
+
+Denn in dem zerstreuten Chaos von Wörtern und Regeln, welches wir wohl eine Sprache zu nennen pflegen, ist nur das durch jenes Sprechen hervorgebrachte Einzelne vorhanden, und dies niemals vollständig, auch erst einer neuen Arbeit bedürftig, um daraus die Art des lebendigen Sprechens zu erkennen und ein wahres Bild der lebendigen Sprache zu geben. Gerade das Höchste und Feinste lässt sich an jenen getrennten Elementen nicht erkennen, und kann nur, was um so mehr beweist, dass die eigentliche Sprache in dem Acte ihres wirklichen Hervorbringens liegt, in der verbundenen Rede wahrgenommen oder geahndet werden. Nur sie muss man sich überhaupt in allen Untersuchungen, welche in die lebendige Wesenheit der Sprache eindringen sollen, immer als das Wahre und Erste denken. Das Zerschlagen in Wörter und Regeln ist nur ein todtes Machwerk wissenschaftlicher Zergliederung.
+
+Die Sprachen als eine Arbeit des Geistes zu bezeichnen, ist schon darum ein vollkommen richtiger und adäquater Ausdruck, weil sich das Dasein des Geistes überhaupt nur in Thätigkeit und als solche denken lässt. Die zu ihrem Studium unentbehrliche Zergliederung ihres Baues nöthigt uns sogar, sie als ein Verfahren zu betrachten, das durch bestimmte Mittel zu bestimmten Zwecken vorschreitet, und sie insofern wirklich als Bildungen der Nationen anzusehen. Der hierbei möglichen Missdeutung ist schon oben*) ...
+
+*) §§. 21, 22, 49, 51-54 und weiter unten §. 22.

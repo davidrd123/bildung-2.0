@@ -38,11 +38,11 @@ sections:
         jp2_leaf_indexes: "0061-0062"
         printed_pages: "55-56"
         raw_extract: "source/raw/008a-ergon-energeia-pdf-061-062.txt"
-        normalized_extract: null
-        status: "raw_pdf_text_layer"
+        normalized_extract: "source/normalized/008a-ergon-energeia-pdf-061-062.txt"
+        status: "working_normalized_tranche"
     normalized_extract: null
     status: "raw_pdf_text_layer"
     notes:
       - "Contains the Ergon/Energeia formulation."
       - "Raw extract preserves PDF text-layer OCR artifacts and line breaks."
-      - "Targeted extract is a navigation aid only; check JP2/HOCR before quotation or translation."
+      - "Targeted extract now has a working normalization checked against PDF text layer and HOCR search text; use JP2 page images before citation-critical transcription."

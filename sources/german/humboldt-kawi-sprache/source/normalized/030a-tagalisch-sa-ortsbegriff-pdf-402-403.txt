@@ -1,0 +1,28 @@
+# Humboldt - Tagalisch sa und Ortsbegriff
+
+Work: Ueber die Kawi-Sprache auf der Insel Java, Band II
+Witness: ia-1838-kawi-band2-google-ia
+Source raw extract: ../raw/030-drittes-buch-zweiter-abschnitt-westlicher-zweig-pdf-337-485.txt
+Range: PDF pages 402-403 / TIF images 0402-0403 / printed pages 341-342
+Status: working normalization for source-near comparison; not a diplomatic transcription
+
+Normalization notes:
+
+- Checked against the PDF text layer and TIF page OCR from images 0402-0403.
+- Repairs obvious OCR artifacts and line-break damage; preserves historical spelling where readable.
+- Regularizes OCR long-s artifacts such as `aufser` and `dafs` to `außer` and `daß`.
+- Body text only; footnotes are omitted in this working excerpt.
+
+## [341]
+
+24. Im Tag. sind, außer dem, den Nominativ bezeichnenden Artikel ang, die Casus-Part. nur nang für den Gen., den Accus., wenn er die eigentlich durch das Verbum leidende Sache bezeichnet, und alle Fälle, wo die Präp. mit gebraucht werden kann, und sa für alle übrigen Beziehungen.
+
+Diese Partikeln würde man fälschlich für Präpositionen halten. Sa, auch, mit einem Ortssuff. verbunden, saan, deutet einen jedesmal bestimmten Ort an, bildet hiervon ein intransitives Verbum: sich an einem Orte befinden (s-u-ng-masa Pila si Juan, Johann wohnt in Pila), und heißt, mit transitiven Partikeln vor ein Subst. gesetzt: etwas an den durch dies Wort angedeuteten Ort legen oder stellen (mag-sa-arao nang damit, lege [an die] Sonne das Kleid).
+
+In der Redensart pasasa-buquir aco, ich werde aufs Saatfeld gehen, scheint zwar sa ganz den Sinn einer Präpos. zu haben. Allein es ist auch hier nur der Ortsbegriff, der in der Bewegung andeutenden Form zum Verbum gemacht wird. Dies sieht man auch daraus, daß, wenn in derselben Verbalform an der Stelle des Subst. ein Ortsadv.
+
+## [342]
+
+steht, sa, als dadurch unnöthig werdend, wegbleibt; pa-rito-ca, komm hierher, von dem hier zum Verbum gemachten Adv. dito, hier.
+
+Im Bis. Dialekt heißt sa amun, was nichts andres ist, als die Form der obliquen Casus des Plur. Pron. 1. Pers. mit vorangehendem sa: in unsrem Lande. Was also hier die Stelle des Casuszeichens vertritt, ist eher ein Substantiv zu nennen.

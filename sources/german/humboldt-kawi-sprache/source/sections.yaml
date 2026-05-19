@@ -22,14 +22,24 @@ sections:
         tif_images: 0042-0047
         printed_pages: 1-3
         raw_extract: source/raw/011-kawi-book-opening-pdf-042-047.txt
-        status: raw_pdf_text_layer
+        normalized_extract: source/normalized/011a-kawi-language-opening-pdf-044.txt
+        status: raw_with_working_normalized_excerpt
+      - id: raumverba-praepositionen
+        label: Section 20 - movement verbs as prepositions
+        pdf_pages: 207-209
+        tif_images: 0207-0209
+        printed_pages: 164-166
+        raw_extract: source/raw/010-zweites-buch-ueber-die-kawi-sprache-pdf-042-246.txt
+        normalized_extract: source/normalized/020a-raumverba-praepositionen-pdf-207-209.txt
+        status: working_normalized_excerpt
       - id: feststellung-des-begriffs-des-kawi
         label: Section 23 - Schlussfolgerungen / Feststellung des Begriffs des Kawi
         pdf_pages: 231-246
         tif_images: 0231-0246
         printed_pages: 188-203
         raw_extract: source/raw/023-feststellung-des-begriffs-des-kawi-pdf-231-246.txt
-        status: raw_pdf_text_layer
+        normalized_extract: source/normalized/023a-feststellung-des-begriffs-des-kawi-opening-pdf-231-237.txt
+        status: raw_with_working_normalized_excerpt
     status: raw_pdf_text_layer
     notes:
       - Core Kawi material in this volume.
@@ -49,6 +59,15 @@ sections:
     tif_images: 0337-0485
     printed_pages: 294-424
     raw_extract: source/raw/030-drittes-buch-zweiter-abschnitt-westlicher-zweig-pdf-337-485.txt
+    targeted_extracts:
+      - id: tagalisch-sa-ortsbegriff
+        label: Section 19 - Tagalisch sa, place concept, and verbalization
+        pdf_pages: 402-403
+        tif_images: 0402-0403
+        printed_pages: 341-342
+        raw_extract: source/raw/030-drittes-buch-zweiter-abschnitt-westlicher-zweig-pdf-337-485.txt
+        normalized_extract: source/normalized/030a-tagalisch-sa-ortsbegriff-pdf-402-403.txt
+        status: working_normalized_excerpt
     status: raw_pdf_text_layer
 
   - id: beilagen-schrift-und-polynesische-alphabete
