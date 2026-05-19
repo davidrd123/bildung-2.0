@@ -1,0 +1,70 @@
+witnesses:
+  - id: ia-1906-gs-v
+    role: primary_text_witness
+    title: "Wilhelm von Humboldts Gesammelte Schriften. Band V. Werke V"
+    target_work: "Lettre a Monsieur Abel-Remusat; Ueber den grammatischen Bau der Chinesischen Sprache; Grundzuege des allgemeinen Sprachtypus"
+    author: "Wilhelm von Humboldt"
+    editor: "Albert Leitzmann"
+    imprint: "Berlin: B. Behr's Verlag, 1906"
+    archive_id: gesammelteschrif05humbuoft
+    archive_url: "https://archive.org/details/gesammelteschrif05humbuoft"
+    local_pdf_source: "https://archive.org/download/gesammelteschrif05humbuoft/gesammelteschrif05humbuoft.pdf"
+    local_original_jp2_tar_source: "https://archive.org/download/gesammelteschrif05humbuoft/gesammelteschrif05humbuoft_orig_jp2.tar"
+    imported_pdf: source/local/gesammelteschrif05humbuoft.pdf
+    imported_original_jp2_tar: source/local/gesammelteschrif05humbuoft_orig_jp2.tar
+    imported_original_jp2_dir: source/page-images/jp2/gesammelteschrif05humbuoft_orig_jp2/
+    imported_djvu_text: source/local/gesammelteschrif05humbuoft_djvu.txt
+    imported_hocr_search_text: source/local/gesammelteschrif05humbuoft_hocr_searchtext.txt
+    imported_hocr_search_text_gz: source/local/gesammelteschrif05humbuoft_hocr_searchtext.txt.gz
+    imported_hocr_page_index: source/local/gesammelteschrif05humbuoft_hocr_pageindex.json
+    imported_hocr_page_index_gz: source/local/gesammelteschrif05humbuoft_hocr_pageindex.json.gz
+    imported_page_numbers_json: source/local/gesammelteschrif05humbuoft_page_numbers.json
+    imported_scandata_xml: source/local/gesammelteschrif05humbuoft_scandata.xml
+    imported_files_xml: source/local/gesammelteschrif05humbuoft_files.xml
+    imported_meta_xml: source/local/gesammelteschrif05humbuoft_meta.xml
+    pdf_pages: 496
+    jp2_files: 506
+    jp2_prefix: gesammelteschrif05humbuoft_orig_
+    jp2_sequence:
+      min_index: 0
+      max_index: 505
+      gaps: []
+    raw_extracts:
+      - id: lettre-a-abel-remusat
+        path: source/raw/010-lettre-a-abel-remusat-pdf-264-318.txt
+        pdf_pages: "264-318"
+        page_number_json_leaf_nums: "266-320"
+        printed_pages: "254-308"
+        status: raw_pdf_text_layer
+      - id: grammatischer-bau-der-chinesischen-sprache
+        path: source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-335.txt
+        pdf_pages: "319-335"
+        page_number_json_leaf_nums: "321-336"
+        printed_pages: "309-324"
+        status: raw_pdf_text_layer
+      - id: grundzuege-des-allgemeinen-sprachtypus
+        path: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt
+        pdf_pages: "374-485"
+        page_number_json_leaf_nums: "376-489"
+        printed_pages: "364-475"
+        status: raw_pdf_text_layer
+    notes:
+      - "This GS V witness is Cassirer's cited edition for the Chinese grammar pair and Grundzuege."
+      - "The original JP2 tar has landed locally and is extracted, but page-image alignment has not yet been visually checked beyond filename sequence inspection."
+      - "PDF text extraction is usable for raw navigation but remains noisy and unnormalized."
+      - "The Chinese-grammar extract includes the full final PDF page, which also begins the next volume item after the essay closes."
+
+witness_policy:
+  visual_authority: "Use original JP2 images as the visual witness before normalization."
+  ocr_priority:
+    - "Use the PDF text layer for rough raw extracts."
+    - "Use hOCR/search text and page-number JSON as locating aids."
+    - "Check page images before quotation or normalized transcription."
+  distinction_policy:
+    - "Do not fold this GS V shelf into the Kawi, singular Verschiedenheit, or plural Verschiedenheiten shelves."
+    - "Cite this shelf as GS V Chinese grammar / Grundzuege when relating it to PSF I."
+
+git_policy:
+  ignored_binary_dirs:
+    - source/local/
+    - source/page-images/

@@ -1,0 +1,40 @@
+primary_witness: ia-1906-gs-v
+status: initial_gs_v_chinese_grammar_extracts
+
+sections:
+  - id: lettre-a-abel-remusat
+    witness_id: ia-1906-gs-v
+    label: "Lettre a Monsieur Abel-Remusat, sur la nature des formes grammaticales en general, et sur le genie de la langue Chinoise en particulier"
+    pdf_pages: "264-318"
+    page_number_json_leaf_nums: "266-320"
+    printed_pages: "254-308"
+    raw_extract: source/raw/010-lettre-a-abel-remusat-pdf-264-318.txt
+    normalized_extract: null
+    status: raw_pdf_text_layer
+    notes:
+      - "French Chinese-grammar essay cited by Cassirer at PSF I p. 106."
+      - "Use with the German academy essay for the PSF I chapter I Chinese-language pressure."
+  - id: grammatischer-bau-der-chinesischen-sprache
+    witness_id: ia-1906-gs-v
+    label: "Ueber den grammatischen Bau der Chinesischen Sprache"
+    pdf_pages: "319-335"
+    page_number_json_leaf_nums: "321-336"
+    printed_pages: "309-324"
+    raw_extract: source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-335.txt
+    normalized_extract: null
+    status: raw_pdf_text_layer
+    notes:
+      - "German Chinese-grammar essay cited by Cassirer at PSF I p. 106."
+      - "The final PDF page also includes the next volume item after the essay closes."
+  - id: grundzuege-des-allgemeinen-sprachtypus
+    witness_id: ia-1906-gs-v
+    label: "Grundzuege des allgemeinen Sprachtypus"
+    pdf_pages: "374-485"
+    page_number_json_leaf_nums: "376-489"
+    printed_pages: "364-475"
+    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt
+    normalized_extract: null
+    status: raw_pdf_text_layer
+    notes:
+      - "Cited by Cassirer at PSF I p. 102 in the chapter I Humboldt/Kant/form cluster."
+      - "Extract includes the internal contents pages and stops before Leitzmann's Entstehungsgeschichte apparatus."
