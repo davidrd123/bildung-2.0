@@ -1,0 +1,61 @@
+work:
+  id: humboldt-brief-an-wolf-1804
+  author: Wilhelm von Humboldt
+  title: Brief an Friedrich August Wolf vom 16. Juni 1804
+  printed_in: "Wilhelm von Humboldt's gesammelte Werke, Band V"
+  publication:
+    place: Berlin
+    publisher: G. Reimer
+    year: 1846
+  status: source_scaffold
+
+witnesses:
+  - id: ia-1846-gesammelte-werke-band-v
+    role: primary_text_witness
+    status: landed
+    archive_identifier: 10604215bsb
+    archive_url: https://archive.org/details/10604215bsb
+    source_url: https://www.digitale-sammlungen.de/en/view/bsb10604215
+    title: "Wilhelm von Humboldt's gesammelte Werke. 5"
+    creator: "Humboldt, Wilhelm von"
+    date: 1846
+    imported_local_files:
+      text_pdf: source/local/10604215bsb_text.pdf
+      djvu_text: source/local/10604215bsb_djvu.txt
+      hocr_pageindex_gz: source/local/10604215bsb_hocr_pageindex.json.gz
+      hocr_pageindex: source/local/10604215bsb_hocr_pageindex.json
+      hocr_searchtext_gz: source/local/10604215bsb_hocr_searchtext.txt.gz
+      hocr_searchtext: source/local/10604215bsb_hocr_searchtext.txt
+      page_numbers: source/local/10604215bsb_page_numbers.json
+      meta_xml: source/local/10604215bsb_meta.xml
+    pdf:
+      pages: 445
+      text_layer: true
+      file: source/local/10604215bsb_text.pdf
+    not_landed:
+      image_container_pdf: 10604215bsb.pdf
+      processed_jp2_zip: 10604215bsb_jp2.zip
+    raw_extracts:
+      - id: wolf-letter-full
+        path: source/raw/010-brief-an-f-a-wolf-16-juni-1804-pdf-276-279.txt
+        pdf_pages: 276-279
+        printed_pages: 264-267
+        status: raw_pdf_text_layer
+      - id: wolf-letter-sprachstudium
+        path: source/raw/010a-sprachstudium-vehikel-pdf-278-279.txt
+        pdf_pages: 278-279
+        printed_pages: 266-267
+        status: raw_pdf_text_layer
+    normalized_extracts:
+      - id: wolf-letter-sprachstudium
+        path: source/normalized/010a-sprachstudium-vehikel-pdf-278-279.txt
+        pdf_pages: 278-279
+        printed_pages: 266-267
+        status: working_normalized_excerpt
+    notes:
+      - "The IA text layer misreads the date as 180%; a rendered page-image check confirms 1804."
+      - "The normalized excerpt is for Cassirer-facing source-near use, not a full diplomatic transcription."
+
+git_policy:
+  ignored_binary_dirs:
+    - source/local/

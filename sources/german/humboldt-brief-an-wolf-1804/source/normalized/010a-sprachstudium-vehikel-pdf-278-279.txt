@@ -1,0 +1,22 @@
+# Humboldt - Sprachstudium as Vehicle
+
+Work: Wilhelm von Humboldt's gesammelte Werke, Band V
+Witness: ia-1846-gesammelte-werke-band-v
+Source raw extract: ../raw/010a-sprachstudium-vehikel-pdf-278-279.txt
+Range: PDF pages 278-279 / printed pages 266-267
+Status: working normalization for source-near comparison; not a diplomatic transcription
+
+Normalization notes:
+
+- Derived from the IA text PDF and checked against the page image rendered from PDF page 276 for the letter date.
+- The PDF text layer renders the date as `180%`; the page image reads `1804`.
+- Repairs obvious OCR/extraction artifacts and line-break damage; preserves historical spelling where readable.
+- This is the passage cited by Cassirer in PSF I p. 98 and in the 1923 essay on Kantian elements in Humboldt's philosophy of language.
+
+## [264] LXV. Rom, den 16. Junius, 1804
+
+## [266-267] Sprachstudium
+
+Ich treibe seit einigen Monaten ein sehr genußreiches Studium, und schwärme in alten und neuern, meist Dichtern herum. Ich habe auch wieder ein Paar Pindarische Oden übersetzt, und bin noch nicht abgeneigt, wieder ganz ernstlich daran zu gehn. Nur ganz überarbeiten, was ich einmal gemacht habe, kann ich nicht. Ich glaube mit Wahrheit behaupten zu können, daß meine Arbeit den Vorzug hat, Pindars ächten Ton nicht verfehlt zu haben. Nur die schon gemachten Stücke, die mir hierin nicht Genüge leisten, werfe ich weg. In der metrischen Behandlung kam ich nach und nach zu einer befriedigenderen Gesetzmäßigkeit. Aber in dieser Rücksicht kann ich das Frühere nicht ändern. Meine Uebersetzung, wenn Sie je gedruckt erscheinen sollte, kann nur dazu dienen, bis eine eigentlich gute kommt, einen Begriff von Pindar zu geben. Denn mir fehlt das eigentlich Technische des Dichters zu sehr, und das läßt sich nicht einbringen. Auch behandle ich sie nicht als eine Arbeit, oder vielmehr ich behandle sie als eine unnütze Arbeit, und mache mich nur daran, wenn ich der Lust nicht widerstehen kann. Seit einigen Monaten ist sie groß in mir gewesen. Vielleicht schläft sie bald wieder ein und dann desto besser.
+
+Im Grunde ist alles was ich treibe, auch der Pindar, Sprachstudium. Ich glaube die Kunst entdeckt zu haben, die Sprache als ein Vehikel zu brauchen, um das Höchste und Tiefste, und die Mannigfaltigkeit der ganzen Welt zu durchfahren, und ich vertiefe mich immer mehr und mehr in dieser Ansicht. Aber genug von Dingen über die sich nur sprechen läßt, lieber Freund.

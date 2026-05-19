@@ -1,0 +1,47 @@
+source:
+  work_id: humboldt-brief-an-wolf-1804
+  primary_witness: ia-1846-gesammelte-werke-band-v
+  status: focused_letter_map
+  pdf_pages: 445
+  page_number_json: source/local/10604215bsb_page_numbers.json
+  numbering_policy:
+    pdf_page_to_leaf: "PDF page N corresponds to IA leaf N-1 in the page-number JSON."
+    printed_to_pdf_checked: "printed page P corresponds to PDF page P+12 in the checked pp. 264-267 range."
+    note: "The formula is checked only around the letter locus; do not generalize without fresh anchors."
+
+known_alignments:
+  - label: wolf-letter-opening
+    pdf_page: 276
+    leaf_num: 275
+    printed_page: 264
+    content: "Letter LXV opens: Rom, den 16. Junius, 1804."
+    raw_extract: source/raw/010-brief-an-f-a-wolf-16-juni-1804-pdf-276-279.txt
+    trust: high
+    note: "Date verified visually because the PDF text layer reads the final digit as %."
+  - label: sprachstudium-cassirer-locus
+    pdf_pages: 278-279
+    leaf_nums: 277-278
+    printed_pages: 266-267
+    content: "Humboldt's Sprachstudium / language-as-vehicle passage cited by Cassirer."
+    raw_extract: source/raw/010a-sprachstudium-vehikel-pdf-278-279.txt
+    normalized_extract: source/normalized/010a-sprachstudium-vehikel-pdf-278-279.txt
+    trust: high
+
+ranges:
+  - id: wolf-letter-full
+    pdf_pages: 276-279
+    leaf_nums: 275-278
+    printed_pages: 264-267
+    content: "Brief an Friedrich August Wolf vom 16. Juni 1804."
+    raw_extract: source/raw/010-brief-an-f-a-wolf-16-juni-1804-pdf-276-279.txt
+    status: raw_pdf_text_layer
+    trust: high
+  - id: wolf-letter-sprachstudium
+    pdf_pages: 278-279
+    leaf_nums: 277-278
+    printed_pages: 266-267
+    content: "Targeted Cassirer-facing Sprachstudium passage."
+    raw_extract: source/raw/010a-sprachstudium-vehikel-pdf-278-279.txt
+    normalized_extract: source/normalized/010a-sprachstudium-vehikel-pdf-278-279.txt
+    status: working_normalized_excerpt
+    trust: high

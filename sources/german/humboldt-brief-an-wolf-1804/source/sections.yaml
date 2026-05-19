@@ -1,0 +1,26 @@
+work: Brief an Friedrich August Wolf vom 16. Juni 1804
+primary_witness: ia-1846-gesammelte-werke-band-v
+status: focused_letter_extract_with_targeted_normalization
+
+sections:
+  - id: wolf-letter-full
+    witness_id: ia-1846-gesammelte-werke-band-v
+    label: "Brief an F. A. Wolf, 16 June 1804"
+    pdf_pages: 276-279
+    leaf_nums: 275-278
+    printed_pages: 264-267
+    raw_extract: source/raw/010-brief-an-f-a-wolf-16-juni-1804-pdf-276-279.txt
+    normalized_extract: null
+    status: raw_pdf_text_layer
+    targeted_extracts:
+      - id: sprachstudium-vehikel
+        label: "Language as Sprachstudium and vehicle"
+        pdf_pages: 278-279
+        leaf_nums: 277-278
+        printed_pages: 266-267
+        raw_extract: source/raw/010a-sprachstudium-vehikel-pdf-278-279.txt
+        normalized_extract: source/normalized/010a-sprachstudium-vehikel-pdf-278-279.txt
+        status: working_normalized_excerpt
+    notes:
+      - "Cassirer cites the letter at PSF I p. 98 and in the 1923 Kantische Elemente essay."
+      - "The IA text layer misreads the date as 180%; visual check confirms 1804."

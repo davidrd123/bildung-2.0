@@ -81,7 +81,7 @@ Use this routing when moving from Cassirer citations to Humboldt source work:
 | *Ueber den grammatischen Bau der Chinesischen Sprache* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed with the Abel-Rémusat letter as a GS V Chinese-grammar pair. Raw extract: `source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-334.txt`. |
 | *Grundzüge des allgemeinen Sprachtypus* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed from the same GS V witness. Raw extract: `source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt`. |
 | *Ueber das vergleichende Sprachstudium...* | `sources/german/humboldt-vergleichendes-sprachstudium-gs-iv/` | Landed as a GS IV support text with raw extract `source/raw/010-ueber-das-vergleichende-sprachstudium-pdf-011-044.txt`. |
-| Brief an F. A. Wolf, 16 June 1804 | none yet | Low-volume support source for the chapter I Humboldt opening. |
+| Brief an F. A. Wolf, 16 June 1804 | `sources/german/humboldt-brief-an-wolf-1804/` | Landed from *Gesammelte Werke* V, pp. 264-267, with raw full-letter extract and a normalized `Sprachstudium` / vehicle excerpt at `source/normalized/010a-sprachstudium-vehikel-pdf-278-279.txt`. |
 | *Ankündigung einer Schrift über die Vaskische Sprache und Nation* | none yet | Minor support source; not a current pull priority. |
 
 Cassirer's own *Die Kantischen Elemente in Wilhelm von Humboldts
@@ -106,8 +106,9 @@ without waiting for broader Humboldt intake.
 
 For fuller PSF I coverage, the last major multi-citation Humboldt support text
 has now landed: *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen in
-einigen Sprachen*. The Wolf letter and *Ankuendigung einer Schrift ueber die
-Vaskische Sprache und Nation* remain smaller chapter I support targets.
+einigen Sprachen*. The Wolf letter has also landed as the small chapter I
+opening support source. *Ankuendigung einer Schrift ueber die Vaskische Sprache
+und Nation* remains a minor chapter I support target.
 Cassirer's own *Die Kantischen Elemente in Wilhelm von Humboldts
 Sprachphilosophie* remains a separate Cassirer-Humboldt-Kant acquisition target,
 not a Humboldt-source gap.
@@ -293,6 +294,9 @@ Festschrift original remains preferable for citation-critical collation.
    exact passages from the landed Pott Sections 3-7 run-up.
 3. If pronoun/deixis pressure becomes active, start from the landed GS VI/1
    *Ortsadverbien* raw extract and normalize exact passages only when needed.
-4. If Kant/Humboldt pressure strengthens, begin from the landed ECW 16 raw
+4. For the chapter I Humboldt opening, the Wolf letter is now available with a
+   normalized `Sprachstudium` excerpt; do not widen it into correspondence work
+   unless a later citation forces that.
+5. If Kant/Humboldt pressure strengthens, begin from the landed ECW 16 raw
    extract of Cassirer's *Kantischen Elemente* essay and normalize only the
    exact passages being used.
