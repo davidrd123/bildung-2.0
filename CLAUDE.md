@@ -2,6 +2,7 @@
 
 For operator instructions (start order, authority, update discipline), see [AGENTS.md](AGENTS.md).
 For the Proteus/Hermes reasoning mode (opt-in persona), see [proteus-mode.md](proteus-mode.md).
+For chat-mode work upstream of the repo (candidate shapes, first-glance discipline), see [chat-mode.md](chat-mode.md).
 
 ## Methodological Guardrails
 
