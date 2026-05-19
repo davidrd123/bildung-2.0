@@ -1,4 +1,4 @@
-# Humboldt - *Ueber die Verschiedenheiten des menschlichen Sprachbaues* - GS VI/1
+# Humboldt - GS VI/1: *Dualis* and Plural *Verschiedenheiten*
 
 Wilhelm von Humboldt, *Gesammelte Schriften*, Band VI, Erste Abteilung:
 *Werke VI*, Erste Haelfte, edited by Albert Leitzmann. Berlin: B. Behr's
@@ -6,8 +6,11 @@ Verlag, 1907.
 
 ## What This Is
 
-A German source-language landing zone for the plural essay *Ueber die
-Verschiedenheiten des menschlichen Sprachbaues* in GS VI/1.
+A German source-language landing zone for GS VI/1 Humboldt materials that
+Cassirer cites in PSF I, currently:
+
+- *Ueber den Dualis*
+- *Ueber die Verschiedenheiten des menschlichen Sprachbaues*
 
 This shelf exists to keep the plural *Verschiedenheiten* essay separate from
 the singular *Ueber die Verschiedenheit des menschlichen Sprachbaues* shelf at
@@ -53,13 +56,20 @@ Tracked full text:
 
 - `source/full/gesammelte-schriften-vi1.txt`
 
-Tracked raw essay extract:
+Tracked raw extracts:
 
+- `source/raw/005-ueber-den-dualis-pdf-014-040.txt`
 - `source/raw/010-ueber-die-verschiedenheiten-pdf-121-313.txt`
 
-The raw extract covers PDF pages 121-313, corresponding to the plural essay
-opening through the page before *Ueber die Verwandtschaft der Ortsadverbien
-mit dem Pronomen in einigen Sprachen* begins. Printed pages are 111-303.
+The Dualis raw extract covers PDF pages 14-40, corresponding to printed pages
+4-30. PDF page 41 opens the Sanskrit word-separation memoir, confirming the
+right boundary. The IA page-number JSON is sparse at the beginning of the
+Dualis range, so this range is bounded by PDF/text inspection.
+
+The plural *Verschiedenheiten* raw extract covers PDF pages 121-313,
+corresponding to the plural essay opening through the page before *Ueber die
+Verwandtschaft der Ortsadverbien mit dem Pronomen in einigen Sprachen* begins.
+Printed pages are 111-303.
 
 The raw text is OCR/PDF-derived and uncorrected. Use page images and hOCR
 before quoting or normalizing.
@@ -69,6 +79,8 @@ before quoting or normalizing.
 - `sources/german/` is the right layer: this is a German primary source.
 - This is a GS VI/1 witness, not the 1876 Pott witness and not the 1838 Kawi
   witness.
+- The shelf supports Cassirer's PSF I citations to *Ueber den Dualis* at PSF I
+  pp. 168, 196 f., 206, and 213.
 - The shelf supports Cassirer's PSF I citations to the plural essay at PSF I
   pp. 100 f., 206, and 257.
 
@@ -91,10 +103,10 @@ scripts/
 
 ## Next Honest Moves
 
-1. Use this shelf only for the plural *Verschiedenheiten* essay and nearby
-   GS VI/1 support texts.
-2. Check the raw plural essay extract against JP2/hOCR before any quotation,
-   translation, or synthesis.
+1. Use this shelf for the GS VI/1 texts Cassirer actually cites: Dualis,
+   plural *Verschiedenheiten*, and later possibly the Ortsadverbien essay.
+2. Check raw extracts against JP2/hOCR before any quotation, translation, or
+   synthesis.
 3. Pull smaller targeted tranches only when Cassirer's PSF I page pressure
    demands them.
 4. Keep the singular/plural title distinction visible in downstream notes.

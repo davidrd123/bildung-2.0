@@ -1,7 +1,20 @@
 primary_witness: ia-1907-gs-vi1
-status: initial_plural_essay_extract
+status: initial_dualis_and_plural_extracts
 
 sections:
+  - id: ueber-den-dualis
+    witness_id: ia-1907-gs-vi1
+    label: "Ueber den Dualis"
+    pdf_pages: "14-40"
+    page_number_json_leaf_nums: "partial; IA page-number JSON begins useful numbering inside this range at leaf 33 / printed page 23"
+    printed_pages: "4-30"
+    raw_extract: source/raw/005-ueber-den-dualis-pdf-014-040.txt
+    normalized_extract: null
+    status: raw_pdf_text_layer
+    notes:
+      - "Cited by Cassirer at PSF I pp. 168, 196 f., 206, and 213."
+      - "PDF page 41 begins the Sanskrit word-separation memoire, confirming the right boundary."
+      - "Use this as a GS VI/1 support text, not as the plural Verschiedenheiten essay."
   - id: ueber-die-verschiedenheiten
     witness_id: ia-1907-gs-vi1
     label: "Ueber die Verschiedenheiten des menschlichen Sprachbaues"

@@ -27,7 +27,17 @@ known_alignments:
   - label: dualis-opening
     pdf_page: 14
     printed_page: "4"
-    note: "Ueber den Dualis opens; useful later support text in the same volume."
+    raw_extract: source/raw/005-ueber-den-dualis-pdf-014-040.txt
+    note: "Ueber den Dualis opens; IA page-number JSON is sparse before printed page 23."
+  - label: dualis-close
+    pdf_page: 40
+    printed_page: "30"
+    raw_extract: source/raw/005-ueber-den-dualis-pdf-014-040.txt
+    note: "Dualis general part closes; next PDF page opens the Sanskrit word-separation memoire."
+  - label: memoire-sanskrit-opening
+    pdf_page: 41
+    printed_page: "31"
+    note: "Memoire sur la Separation des mots dans les textes samscrits opens; not part of the Dualis extract."
   - label: plural-verschiedenheiten-opening
     pdf_page: 121
     page_number_json_leaf_num: 125
@@ -51,6 +61,17 @@ ranges:
     pdf_pages: "1-350"
     full_extract: source/full/gesammelte-schriften-vi1.txt
     status: raw_pdf_text_layer
+  - id: ueber-den-dualis
+    label: "Ueber den Dualis"
+    pdf_pages: "14-40"
+    page_number_json_leaf_nums: "partial; IA page-number JSON begins useful numbering inside this range at leaf 33 / printed page 23"
+    printed_pages: "4-30"
+    raw_extract: source/raw/005-ueber-den-dualis-pdf-014-040.txt
+    status: raw_pdf_text_layer
+    notes:
+      - "Cassirer cites this support text at PSF I pp. 168, 196 f., 206, and 213."
+      - "Bounded against PDF page 41, where the Sanskrit word-separation memoire begins."
+      - "Raw extract is not normalized; check page images/hOCR before quotation."
   - id: ueber-die-verschiedenheiten
     label: "Ueber die Verschiedenheiten des menschlichen Sprachbaues"
     pdf_pages: "121-313"

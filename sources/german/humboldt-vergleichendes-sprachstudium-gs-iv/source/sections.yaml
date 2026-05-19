@@ -1,0 +1,16 @@
+primary_witness: ia-1905-gs-iv
+status: initial_vergleichendes_sprachstudium_extract
+
+sections:
+  - id: ueber-das-vergleichende-sprachstudium
+    witness_id: ia-1905-gs-iv
+    label: "Ueber das vergleichende Sprachstudium in Beziehung auf die verschiedenen Epochen der Sprachentwicklung"
+    pdf_pages: "11-44"
+    page_number_json_leaf_nums: "partial; IA page-number JSON begins useful numbering inside this range at leaf 13 / printed page 2"
+    printed_pages: "1-34"
+    raw_extract: source/raw/010-ueber-das-vergleichende-sprachstudium-pdf-011-044.txt
+    normalized_extract: null
+    status: raw_pdf_text_layer
+    notes:
+      - "Cited by Cassirer at PSF I pp. 100 and 102."
+      - "PDF page 45 begins Ueber die Aufgabe des Geschichtschreibers, confirming the right boundary."

@@ -75,12 +75,12 @@ Use this routing when moving from Cassirer citations to Humboldt source work:
 | *Über die Kawi-Sprache auf der Insel Java*, Bd. II, Buschmann ed., 1838 | `sources/german/humboldt-kawi-sprache/` | Landed. This is the direct shelf for Cassirer's named Kawi Bd. II citations. |
 | *Ueber die Verschiedenheit des menschlichen Sprachbaues...* (singular) | `sources/german/humboldt-verschiedenheit-sprachbau/` | Landed as a Pott 1876 witness, with a targeted raw Ergon/Energeia tranche at `source/raw/008a-ergon-energeia-pdf-061-062.txt`. Useful local witness, but Cassirer's register cites the GS VII / 1907 form, so edition identity should stay visible. |
 | *Ueber die Verschiedenheiten des menschlichen Sprachbaues* (plural) | `sources/german/humboldt-verschiedenheiten-sprachbau-gs-vi1/` | Landed as a clearly marked GS VI/1 witness. Do not fold into the singular shelf. |
-| *Ueber den Dualis* | none yet | Pull as GS VI/1 support if chapter III dual/plural/person pressure becomes active. |
+| *Ueber den Dualis* | `sources/german/humboldt-verschiedenheiten-sprachbau-gs-vi1/` | Landed as a GS VI/1 support text with raw extract `source/raw/005-ueber-den-dualis-pdf-014-040.txt`. |
 | *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen...* | none yet | Pull as GS VI/1 support if deixis/pronoun/adverb pressure becomes active. |
 | *Lettre à Monsieur Abel-Rémusat... langue Chinoise* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed as a GS V witness with raw extract `source/raw/010-lettre-a-abel-remusat-pdf-264-318.txt`. |
 | *Ueber den grammatischen Bau der Chinesischen Sprache* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed with the Abel-Rémusat letter as a GS V Chinese-grammar pair. Raw extract: `source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-334.txt`. |
 | *Grundzüge des allgemeinen Sprachtypus* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed from the same GS V witness. Raw extract: `source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt`. |
-| *Ueber das vergleichende Sprachstudium...* | none yet | Pull after Kawi and singular/plural distinction are stabilized. |
+| *Ueber das vergleichende Sprachstudium...* | `sources/german/humboldt-vergleichendes-sprachstudium-gs-iv/` | Landed as a GS IV support text with raw extract `source/raw/010-ueber-das-vergleichende-sprachstudium-pdf-011-044.txt`. |
 | Brief an F. A. Wolf, 16 June 1804 | none yet | Low-volume support source for the chapter I Humboldt opening. |
 | *Ankündigung einer Schrift über die Vaskische Sprache und Nation* | none yet | Minor support source; not a current pull priority. |
 
@@ -88,6 +88,24 @@ Cassirer's own *Die Kantischen Elemente in Wilhelm von Humboldts
 Sprachphilosophie* is now represented as an acquisition target at
 `sources/german/cassirer-kantische-elemente-humboldt-sprachphilosophie/`.
 No full-text witness has landed there yet.
+
+## Current Working Verdict
+
+For the Cratylus / Ergon-Energeia / Humboldt comparison, the current shelves
+are enough to begin source-near work. The load-bearing Humboldt passage is the
+targeted section 8 raw tranche in
+`sources/german/humboldt-verschiedenheit-sprachbau/source/raw/008a-ergon-energeia-pdf-061-062.txt`.
+That passage can be pressed directly against Cratylus 388b-c
+(`onoma` as teaching instrument) and 389-390 (the natural lawgiver frame),
+without waiting for broader Humboldt intake.
+
+For fuller PSF I coverage, the main unlanded Humboldt support still named by
+the Schriftenregister is *Ueber die Verwandtschaft der Ortsadverbien mit dem
+Pronomen in einigen Sprachen*, which carries repeated chapter III citation
+pressure. The Wolf letter and *Ankuendigung einer Schrift ueber die Vaskische
+Sprache und Nation* remain smaller chapter I support targets. Cassirer's own
+*Die Kantischen Elemente in Wilhelm von Humboldts Sprachphilosophie* remains a
+separate Cassirer-Humboldt-Kant acquisition target, not a Humboldt-source gap.
 
 ## Singular vs. Plural Guardrail
 
@@ -186,7 +204,5 @@ not yet pulled as a source text.
    claim.
 2. Verify whether the current 1876 Pott Band 2 witness transmits any of the
    exact passages behind Cassirer's singular *Verschiedenheit* references.
-3. Pull *Ueber das vergleichende Sprachstudium* and *Ueber den Dualis* only
-   when PSF I pressure makes the short support texts necessary.
-4. If Kant/Humboldt pressure strengthens, locate Cassirer's *Kantischen
+3. If Kant/Humboldt pressure strengthens, locate Cassirer's *Kantischen
    Elemente* essay before widening to a general Cassirer-Humboldt synthesis.

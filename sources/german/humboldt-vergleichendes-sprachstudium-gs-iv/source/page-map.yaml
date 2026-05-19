@@ -1,0 +1,62 @@
+source:
+  work_id: humboldt-vergleichendes-sprachstudium-gs-iv
+  primary_witness: ia-1905-gs-iv
+  status: initial_vergleichendes_sprachstudium_map
+  pdf_pages: 456
+  image_pages:
+    format: jp2
+    count: 500
+    directory: source/page-images/jp2/gesammelteschrif04humbuoft_orig_jp2/
+    filename_prefix: gesammelteschrif04humbuoft_orig_
+    sequence:
+      minimum: 0
+      maximum: 499
+      gaps: []
+  numbering_policy:
+    page_numbers_json: source/local/gesammelteschrif04humbuoft_page_numbers.json
+    note: "The IA page-number JSON is imperfect at the opening of the target essay; PDF/text boundaries are authoritative for this raw split."
+
+known_alignments:
+  - label: volume-title
+    pdf_page: 1
+    note: "PDF opens with GS IV title matter."
+  - label: table-of-contents
+    pdf_page: 9
+    note: "Contents list the target essay first, followed by Ueber die Aufgabe des Geschichtschreibers."
+  - label: vergleichendes-sprachstudium-opening
+    pdf_page: 11
+    printed_page: "1"
+    raw_extract: source/raw/010-ueber-das-vergleichende-sprachstudium-pdf-011-044.txt
+    note: "Ueber das vergleichende Sprachstudium opens."
+  - label: vergleichendes-sprachstudium-json-anchor
+    pdf_page: 12
+    page_number_json_leaf_num: 13
+    printed_page: "2"
+    raw_extract: source/raw/010-ueber-das-vergleichende-sprachstudium-pdf-011-044.txt
+    note: "First useful IA page-number JSON anchor inside the target range."
+  - label: vergleichendes-sprachstudium-close
+    pdf_page: 44
+    printed_page: "34"
+    raw_extract: source/raw/010-ueber-das-vergleichende-sprachstudium-pdf-011-044.txt
+    note: "Last page of the target essay."
+  - label: geschichtschreiber-opening
+    pdf_page: 45
+    printed_page: "35"
+    note: "Ueber die Aufgabe des Geschichtschreibers opens; not part of the target extract."
+
+ranges:
+  - id: full-volume
+    pdf_pages: "1-456"
+    full_extract: source/full/gesammelte-schriften-iv.txt
+    status: raw_pdf_text_layer
+  - id: ueber-das-vergleichende-sprachstudium
+    label: "Ueber das vergleichende Sprachstudium in Beziehung auf die verschiedenen Epochen der Sprachentwicklung"
+    pdf_pages: "11-44"
+    page_number_json_leaf_nums: "partial; IA page-number JSON begins useful numbering inside this range at leaf 13 / printed page 2"
+    printed_pages: "1-34"
+    raw_extract: source/raw/010-ueber-das-vergleichende-sprachstudium-pdf-011-044.txt
+    status: raw_pdf_text_layer
+    notes:
+      - "Cassirer cites this support text at PSF I pp. 100 and 102."
+      - "Bounded against PDF page 45, where Ueber die Aufgabe des Geschichtschreibers begins."
+      - "Raw extract is not normalized; check page images/hOCR before quotation."

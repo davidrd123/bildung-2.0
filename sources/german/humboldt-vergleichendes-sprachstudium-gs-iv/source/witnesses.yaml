@@ -1,0 +1,58 @@
+witnesses:
+  - id: ia-1905-gs-iv
+    role: primary_text_witness
+    title: "Wilhelm von Humboldts Gesammelte Schriften. Band IV. Werke IV"
+    target_work: "Ueber das vergleichende Sprachstudium in Beziehung auf die verschiedenen Epochen der Sprachentwicklung"
+    author: "Wilhelm von Humboldt"
+    editor: "Albert Leitzmann"
+    imprint: "Berlin: B. Behr's Verlag, 1905"
+    archive_id: gesammelteschrif04humbuoft
+    archive_url: "https://archive.org/details/gesammelteschrif04humbuoft"
+    local_pdf_source: "https://archive.org/download/gesammelteschrif04humbuoft/gesammelteschrif04humbuoft.pdf"
+    local_original_jp2_tar_source: "https://archive.org/download/gesammelteschrif04humbuoft/gesammelteschrif04humbuoft_orig_jp2.tar"
+    imported_pdf: source/local/gesammelteschrif04humbuoft.pdf
+    imported_original_jp2_tar: source/local/gesammelteschrif04humbuoft_orig_jp2.tar
+    imported_original_jp2_dir: source/page-images/jp2/gesammelteschrif04humbuoft_orig_jp2/
+    imported_djvu_text: source/local/gesammelteschrif04humbuoft_djvu.txt
+    imported_hocr_search_text: source/local/gesammelteschrif04humbuoft_hocr_searchtext.txt
+    imported_hocr_search_text_gz: source/local/gesammelteschrif04humbuoft_hocr_searchtext.txt.gz
+    imported_hocr_page_index: source/local/gesammelteschrif04humbuoft_hocr_pageindex.json
+    imported_hocr_page_index_gz: source/local/gesammelteschrif04humbuoft_hocr_pageindex.json.gz
+    imported_page_numbers_json: source/local/gesammelteschrif04humbuoft_page_numbers.json
+    imported_scan_data: source/local/gesammelteschrif04humbuoft_scandata.xml
+    imported_files_xml: source/local/gesammelteschrif04humbuoft_files.xml
+    imported_meta_xml: source/local/gesammelteschrif04humbuoft_meta.xml
+    pdf_pages: 456
+    jp2_files: 500
+    jp2_prefix: gesammelteschrif04humbuoft_orig_
+    jp2_sequence:
+      min_index: 0
+      max_index: 499
+      gaps: []
+    raw_extracts:
+      - id: ueber-das-vergleichende-sprachstudium
+        path: source/raw/010-ueber-das-vergleichende-sprachstudium-pdf-011-044.txt
+        pdf_pages: "11-44"
+        page_number_json_leaf_nums: "partial; IA page-number JSON begins useful numbering inside this range at leaf 13 / printed page 2"
+        printed_pages: "1-34"
+        status: raw_pdf_text_layer
+    notes:
+      - "Cassirer cites this comparative-language address at PSF I pp. 100 and 102."
+      - "PDF page 45 begins Ueber die Aufgabe des Geschichtschreibers, confirming the right boundary."
+      - "IA metadata reports imagecount 460, but the original JP2 tar landed with 500 files, indices 0000-0499."
+      - "PDF text extraction is usable for raw navigation but remains noisy and unnormalized."
+
+witness_policy:
+  visual_authority: "Use original JP2 images as the visual witness before normalization."
+  ocr_priority:
+    - "Use the PDF text layer for rough raw extracts."
+    - "Use hOCR/search text and page-number JSON as locating aids."
+    - "Check page images before quotation or normalized transcription."
+  distinction_policy:
+    - "Keep this GS IV shelf distinct from GS V Grundzuege, GS VI/1 Dualis/plural Verschiedenheiten, Kawi, and singular Verschiedenheit shelves."
+    - "Cite this shelf as GS IV vergleichendes Sprachstudium when relating it to PSF I."
+
+git_policy:
+  ignored_binary_dirs:
+    - source/local/
+    - source/page-images/
