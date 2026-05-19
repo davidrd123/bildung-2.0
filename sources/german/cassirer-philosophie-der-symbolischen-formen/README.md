@@ -160,6 +160,14 @@ files were generated from the full text by:
 
 They are navigational and search surfaces, not verified working texts.
 
+The source-use note for Cassirer's Humboldt base is:
+
+- `humboldt-in-psf-i-source-use.md`
+
+It records the PSF I Schriftenregister evidence, especially the distinction
+between singular *Verschiedenheit*, plural *Verschiedenheiten*, and Cassirer's
+named 1838 Buschmann-edited Kawi Bd. II witness.
+
 ## How To Use This
 
 Use this scaffold for:
