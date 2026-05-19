@@ -116,8 +116,16 @@ def convert_file(input_path: Path, output_path: Path) -> None:
     out.append("")
     out.append(f"Source TEI: `{input_path.name}`")
 
-    for div in child_textpart_divs(text_root):
-        write_sections(div, out, [])
+    textparts = child_textpart_divs(text_root)
+    if textparts:
+        for div in textparts:
+            write_sections(div, out, [])
+    else:
+        text = element_text(text_root)
+        if text:
+            out.append("")
+            out.append("### Text")
+            out.append(text)
 
     output_path.write_text("\n".join(out).strip() + "\n", encoding="utf-8")
 

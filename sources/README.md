@@ -44,6 +44,7 @@ When a source line grows beyond one-off encounters but has not yet earned a full
 | `greek/presocratic-atomist-doxography-cassirer-substrate/README.md` | Greek | Cassirer Greek source-pressure substrate | Diels, *Fragmente der Vorsokratiker* and *Doxographi Graeci* OCR search surfaces |
 | `greek/greek-mathematics-cassirer-substrate/README.md` | Greek | Cassirer Greek source-pressure substrate | Euclid, Proclus, Archimedes, Apollonius, Ptolemy |
 | `greek/neoplatonic-epicurean-skeptic-cassirer-substrate/README.md` | Greek | Cassirer Greek source-pressure substrate | Plotinus, Diogenes Laertius, Sextus Empiricus |
+| `greek/mythic-greek-cassirer-snell-substrate/README.md` | Greek | Cassirer PSF II + Snell mythic Greek source-pressure substrate | Homer, Hesiod, Pindar, tragedy, Aristophanes, Callimachus |
 | `latin/extra-ecclesiam.md` | Latin | Escolios §26 | Cyprian / liturgical formula |
 | `german/nietzsche-briefe-iii-281.md` | German | Escolios epigraph | Nietzsche, *Briefe* III.281 |
 | `french/la-rochefoucauld-maximes.md` | French | Escolios §10, §25, §84, §96 | La Rochefoucauld, *Maximes* |

@@ -16,6 +16,10 @@ This is **not** yet a live modern encounter, **not** a normalized working text,
 and **not** a license to import Snell's frame into current text work as if it
 had already been tested.
 
+It does now have one live pressure bridge: alongside Cassirer PSF II, this
+scaffold activates the mythic Greek substrate shelf at
+`../../greek/mythic-greek-cassirer-snell-substrate/README.md`.
+
 ## Status
 
 - The source PDF has an OCR text layer from ABBYY, so the extraction is useful
@@ -24,8 +28,10 @@ had already been tested.
   forays, and web-chat access.
 - The PDF remains the authority whenever Greek, punctuation, page transitions,
   or exact quotation matter.
-- No journal, glossary, encounter dossier, or bounded pressure note has yet
-  been earned from this scaffold alone.
+- No journal, glossary, or full modern encounter dossier has yet been earned
+  from this scaffold alone.
+- The Homer/Hesiod/lyric/Pindar/tragedy/Aristophanes/Callimachus line is now
+  recorded as substrate pressure in the Greek shelf linked above.
 
 ## Why Here
 
@@ -98,6 +104,6 @@ source/
   range, or printed page start.
 - Treat this as a browsing scaffold, not as a quotation-grade critical text.
 
-If the book later earns real pressure, the next honest move would be a bounded
-encounter note or a checked working tranche for whichever chapter is actually
-being pressed.
+If the book later earns deeper pressure beyond this Greek substrate bridge, the
+next honest move would be a bounded encounter note or a checked working tranche
+for whichever chapter is actually being pressed.

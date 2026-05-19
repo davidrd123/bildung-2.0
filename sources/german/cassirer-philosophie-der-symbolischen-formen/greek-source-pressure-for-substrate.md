@@ -18,6 +18,7 @@ pressure clusters around a few recurring substrate objects:
 3. a Diels-style Presocratic and atomist dossier
 4. Greek mathematics, with Euclid first
 5. targeted Neoplatonic, Epicurean, and skeptical surfaces
+6. a parallel mythic-symbolic Greek axis pressured by PSF II and Snell
 
 These are substrate needs: searchable source surfaces that future readers and
 agents can inspect when Cassirer's arguments lean on them.
@@ -82,10 +83,45 @@ directly searchable.
 
 Local substrate now exists at:
 
-- `../../../greek/plato-dialogue-pack-cassirer-substrate/README.md`
+- `../../greek/plato-dialogue-pack-cassirer-substrate/README.md`
 
 It contains PerseusDL TEI XML and generated plain-text search surfaces for the
 dialogue pack listed above.
+
+### PSF II / Snell Mythic Greek Axis
+
+This axis is now active. It should be treated as a parallel mythic-symbolic
+branch, not as a subordinate appendix to the philosophy-of-knowledge Greek
+substrate.
+
+Immediate evidence:
+
+- PSF II Personenregister:
+  `source/vol2-das-mythische-denken/930-personenregister.txt`
+  gives direct pressure for Homer, Aeschylus, Sophocles, and Euripides.
+- PSF II Schriftenregister:
+  `source/vol2-das-mythische-denken/920-schriftenregister.txt`
+  cites the `Iliad`, `Odyssey`, and the Aeschylean / tragic surface through
+  Wilamowitz's `Griechische Tragoedien`.
+- Snell, `Die Entdeckung des Geistes`:
+  `../../modern/snell-die-entdeckung-des-geistes/source/raw/031-indices.txt`
+  pressures Homer, Hesiod, Archilochus, Sappho, Alkaios, Pindar, tragedy,
+  Aristophanes, and Callimachus, while the chapter sequence foregrounds Homer,
+  Olympian gods, Hesiod, lyric, Pindar, tragedy, Aristophanes, and Callimachus.
+
+Working implication: do not fold Homer, Hesiod, tragedy, comedy, and lyric into
+the Plato-Aristotle epistemological order. They form a separate substrate line
+for mythical-symbolic Cassirer and for Snell's Greek recovery frame.
+
+Local substrate now exists at:
+
+- `../../greek/mythic-greek-cassirer-snell-substrate/README.md`
+
+It contains TEI XML and generated plain-text search surfaces for Homeric epic
+and Homerica, the 33 Perseus Homeric Hymns witnesses, Hesiod, Pindar,
+Aeschylus, Sophocles, Euripides, Aristophanes, and available Callimachus
+witnesses. Early lyric fragments and mystery-religion primary materials remain
+gaps.
 
 ### Aristotle Core Shelf
 
@@ -124,7 +160,7 @@ engagement target until a local task forces a narrower tranche.
 
 Local substrate now exists at:
 
-- `../../../greek/aristotle-core-cassirer-substrate/README.md`
+- `../../greek/aristotle-core-cassirer-substrate/README.md`
 
 It contains TEI XML and generated plain-text search surfaces for the bounded
 core shelf: `Categories`, `De interpretatione`, `Analytica Priora` /
@@ -179,7 +215,7 @@ first inside the dossier.
 
 Local substrate now exists at:
 
-- `../../../greek/presocratic-atomist-doxography-cassirer-substrate/README.md`
+- `../../greek/presocratic-atomist-doxography-cassirer-substrate/README.md`
 
 This is deliberately an OCR/doxography shelf rather than a clean fragment TEI:
 Diels' `Fragmente der Vorsokratiker` and `Doxographi Graeci` are present as
@@ -224,7 +260,7 @@ modern mathematical physics become active again.
 
 Local substrate now exists at:
 
-- `../../../greek/greek-mathematics-cassirer-substrate/README.md`
+- `../../greek/greek-mathematics-cassirer-substrate/README.md`
 
 It contains TEI XML and generated plain-text search surfaces for Euclid's
 `Elements`, selected Archimedes, Apollonius' `Conica`, and Ptolemy's
@@ -251,7 +287,7 @@ imagination. Do not begin with a full Plotinus campaign.
 
 Local substrate now exists at:
 
-- `../../../greek/neoplatonic-epicurean-skeptic-cassirer-substrate/README.md`
+- `../../greek/neoplatonic-epicurean-skeptic-cassirer-substrate/README.md`
 
 The pack contains the full `Enneads` as TEI plus a generated plain-text search
 surface. It remains a substrate shelf, not a Plotinus campaign.
@@ -282,7 +318,7 @@ source support.
 
 Local substrate now exists at:
 
-- `../../../greek/neoplatonic-epicurean-skeptic-cassirer-substrate/README.md`
+- `../../greek/neoplatonic-epicurean-skeptic-cassirer-substrate/README.md`
 
 Diogenes Laertius' `Vitae philosophorum` is present as the practical Epicurus
 witness, especially Book X. Sextus' `Pyrrhoniae Hypotyposes` and `Adversus
@@ -291,35 +327,26 @@ watch surfaces until the skepticism material becomes more active.
 
 ## Reserve And Negative Evidence
 
-### PSF II Mythic Greek Axis
-
-The current substrate order follows the philosophical-epistemological Cassirer:
-Plato, Aristotle, Presocratics, mathematics, Plotinus, Epicurus, and skepticism.
-PSF II creates a second possible Greek axis around Homer, Hesiod, tragedy,
-mystery religion, and Heraclitus as religious thinker. That axis is real, but
-it is not yet unpacked here because the present task was to fill the existing
-Cassirer-pressure scaffold rather than open the mythical-symbolic shelf.
-
-Working implication: when mythical-symbolic Cassirer becomes active, add a
-separate Greek mythic/tragic reserve rather than folding Homer, Hesiod, and
-tragedy into the philosophy-of-knowledge substrate.
-
-### Roads Not Yet Taken
-
 The apparatus pressure currently does not justify a Stoic pack, a medical
 Hippocratic/Galenic pack, or a broad doxographic tradition pack beyond Diels and
 Diogenes Laertius. That absence is evidence about Cassirer's Greek source-base:
 it is Plato-Aristotle-Presocratic-mathematical-Neoplatonic before it is Stoic,
 medical, rhetorical, or antiquarian.
 
+The mythic-symbolic axis is no longer merely reserved, but it still has internal
+gaps. Early lyric fragments beyond Pindar, Greek mystery-religion primary
+surfaces, and fuller Hellenistic poetic coverage remain missing from the local
+substrate.
+
 ## Current Substrate Order
 
 1. Plato dialogue pack
-2. Aristotle core shelf
-3. Diels Presocratics / atomist dossier
-4. Euclid and Greek mathematics, with Proclus/Archimedes/Apollonius/Ptolemy nearby
-5. Plotinus / Neoplatonism
-6. Epicurus, then Sextus/Pyrrhonism as watch surfaces
+2. PSF II / Snell mythic Greek axis as a parallel branch
+3. Aristotle core shelf
+4. Diels Presocratics / atomist dossier
+5. Euclid and Greek mathematics, with Proclus/Archimedes/Apollonius/Ptolemy nearby
+6. Plotinus / Neoplatonism
+7. Epicurus, then Sextus/Pyrrhonism as watch surfaces
 
 This order is practical, not canonical. It follows current Cassirer pressure in
 the repo rather than an abstract history-of-philosophy sequence.
@@ -336,5 +363,7 @@ the repo rather than an abstract history-of-philosophy sequence.
 - Do not split the Presocratics too early. A Diels-style fragment substrate is
   more useful than isolated author folders until a specific author becomes
   engagement-active.
+- Do not fold the PSF II / Snell mythic axis into the epistemological Greek
+  shelf. It has its own source pressure and its own missing pieces.
 - Do not promote Greek sources to `texts/` campaigns just because Cassirer uses
   them. This note records substrate pressure only.
