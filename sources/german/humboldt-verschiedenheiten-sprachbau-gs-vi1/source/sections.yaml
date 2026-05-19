@@ -1,0 +1,17 @@
+primary_witness: ia-1907-gs-vi1
+status: initial_plural_essay_extract
+
+sections:
+  - id: ueber-die-verschiedenheiten
+    witness_id: ia-1907-gs-vi1
+    label: "Ueber die Verschiedenheiten des menschlichen Sprachbaues"
+    pdf_pages: "121-313"
+    page_number_json_leaf_nums: "125-325"
+    printed_pages: "111-303"
+    raw_extract: source/raw/010-ueber-die-verschiedenheiten-pdf-121-313.txt
+    normalized_extract: null
+    status: raw_pdf_text_layer
+    notes:
+      - "This is the plural essay cited by Cassirer at PSF I pp. 100 f., 206, and 257."
+      - "Do not collapse with the singular Verschiedenheit shelf."
+      - "PDF page 314 begins the Ortsadverbien essay, confirming the right boundary."

@@ -1,0 +1,100 @@
+# Humboldt - *Ueber die Verschiedenheiten des menschlichen Sprachbaues* - GS VI/1
+
+Wilhelm von Humboldt, *Gesammelte Schriften*, Band VI, Erste Abteilung:
+*Werke VI*, Erste Haelfte, edited by Albert Leitzmann. Berlin: B. Behr's
+Verlag, 1907.
+
+## What This Is
+
+A German source-language landing zone for the plural essay *Ueber die
+Verschiedenheiten des menschlichen Sprachbaues* in GS VI/1.
+
+This shelf exists to keep the plural *Verschiedenheiten* essay separate from
+the singular *Ueber die Verschiedenheit des menschlichen Sprachbaues* shelf at
+`sources/german/humboldt-verschiedenheit-sprachbau/`.
+
+Cassirer's PSF I Schriftenregister cites both titles. They should not be
+collapsed.
+
+## Source
+
+Primary local authority copy, gitignored:
+
+- `source/local/gesammelteschrif06humbuoft.pdf`
+
+Internet Archive item:
+
+- `gesammelteschrif06humbuoft`
+- `https://archive.org/details/gesammelteschrif06humbuoft`
+
+Local sidecars landed, gitignored:
+
+- `source/local/gesammelteschrif06humbuoft_djvu.txt`
+- `source/local/gesammelteschrif06humbuoft_hocr_pageindex.json`
+- `source/local/gesammelteschrif06humbuoft_hocr_pageindex.json.gz`
+- `source/local/gesammelteschrif06humbuoft_hocr_searchtext.txt`
+- `source/local/gesammelteschrif06humbuoft_hocr_searchtext.txt.gz`
+- `source/local/gesammelteschrif06humbuoft_page_numbers.json`
+- `source/local/gesammelteschrif06humbuoft_files.xml`
+- `source/local/gesammelteschrif06humbuoft_meta.xml`
+
+Page-image witness, gitignored:
+
+- `source/local/gesammelteschrif06humbuoft_orig_jp2.tar`
+- extracted to `source/page-images/jp2/gesammelteschrif06humbuoft_orig_jp2/`
+- 368 JP2 files
+- filename pattern `gesammelteschrif06humbuoft_orig_0000.jp2` through
+  `gesammelteschrif06humbuoft_orig_0367.jp2`
+- no detected gaps in the filename sequence
+
+## Current Splits
+
+Tracked full text:
+
+- `source/full/gesammelte-schriften-vi1.txt`
+
+Tracked raw essay extract:
+
+- `source/raw/010-ueber-die-verschiedenheiten-pdf-121-313.txt`
+
+The raw extract covers PDF pages 121-313, corresponding to the plural essay
+opening through the page before *Ueber die Verwandtschaft der Ortsadverbien
+mit dem Pronomen in einigen Sprachen* begins. Printed pages are 111-303.
+
+The raw text is OCR/PDF-derived and uncorrected. Use page images and hOCR
+before quoting or normalizing.
+
+## Why Here
+
+- `sources/german/` is the right layer: this is a German primary source.
+- This is a GS VI/1 witness, not the 1876 Pott witness and not the 1838 Kawi
+  witness.
+- The shelf supports Cassirer's PSF I citations to the plural essay at PSF I
+  pp. 100 f., 206, and 257.
+
+## Structure
+
+```text
+source/
+  local/                 # PDF and IA sidecars; gitignored
+  page-images/jp2/       # original JP2 page-image witness; gitignored
+  full/                  # whole-volume PDF text extraction
+  raw/                   # uncorrected bounded extracts
+  normalized/            # future checked tranches only
+  witnesses.yaml
+  page-map.yaml
+  sections.yaml
+scripts/
+  extract_pdf_page_range.py
+  inspect_jp2_sequence.py
+```
+
+## Next Honest Moves
+
+1. Use this shelf only for the plural *Verschiedenheiten* essay and nearby
+   GS VI/1 support texts.
+2. Check the raw plural essay extract against JP2/hOCR before any quotation,
+   translation, or synthesis.
+3. Pull smaller targeted tranches only when Cassirer's PSF I page pressure
+   demands them.
+4. Keep the singular/plural title distinction visible in downstream notes.

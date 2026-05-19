@@ -1,0 +1,56 @@
+witnesses:
+  - id: ia-1907-gs-vi1
+    role: primary_text_witness
+    title: "Wilhelm von Humboldts Gesammelte Schriften. Band VI. Werke VI. Erste Haelfte"
+    target_work: "Ueber die Verschiedenheiten des menschlichen Sprachbaues"
+    author: "Wilhelm von Humboldt"
+    editor: "Albert Leitzmann"
+    imprint: "Berlin: B. Behr's Verlag, 1907"
+    archive_id: gesammelteschrif06humbuoft
+    archive_url: "https://archive.org/details/gesammelteschrif06humbuoft"
+    local_pdf_source: "https://archive.org/download/gesammelteschrif06humbuoft/gesammelteschrif06humbuoft.pdf"
+    local_original_jp2_tar_source: "https://archive.org/download/gesammelteschrif06humbuoft/gesammelteschrif06humbuoft_orig_jp2.tar"
+    imported_pdf: source/local/gesammelteschrif06humbuoft.pdf
+    imported_original_jp2_tar: source/local/gesammelteschrif06humbuoft_orig_jp2.tar
+    imported_original_jp2_dir: source/page-images/jp2/gesammelteschrif06humbuoft_orig_jp2/
+    imported_djvu_text: source/local/gesammelteschrif06humbuoft_djvu.txt
+    imported_hocr_search_text: source/local/gesammelteschrif06humbuoft_hocr_searchtext.txt
+    imported_hocr_search_text_gz: source/local/gesammelteschrif06humbuoft_hocr_searchtext.txt.gz
+    imported_hocr_page_index: source/local/gesammelteschrif06humbuoft_hocr_pageindex.json
+    imported_hocr_page_index_gz: source/local/gesammelteschrif06humbuoft_hocr_pageindex.json.gz
+    imported_page_numbers_json: source/local/gesammelteschrif06humbuoft_page_numbers.json
+    imported_files_xml: source/local/gesammelteschrif06humbuoft_files.xml
+    imported_meta_xml: source/local/gesammelteschrif06humbuoft_meta.xml
+    pdf_pages: 350
+    jp2_files: 368
+    jp2_prefix: gesammelteschrif06humbuoft_orig_
+    jp2_sequence:
+      min_index: 0
+      max_index: 367
+      gaps: []
+    raw_extracts:
+      - id: ueber-die-verschiedenheiten
+        path: source/raw/010-ueber-die-verschiedenheiten-pdf-121-313.txt
+        pdf_pages: "121-313"
+        page_number_json_leaf_nums: "125-325"
+        printed_pages: "111-303"
+        status: raw_pdf_text_layer
+    notes:
+      - "This is the plural Verschiedenheiten essay cited by Cassirer, not the singular Verschiedenheit text."
+      - "The original JP2 tar has landed locally and is extracted, but page-image alignment has not yet been visually checked beyond filename sequence inspection."
+      - "PDF text extraction is usable for raw navigation but remains noisy and unnormalized."
+
+witness_policy:
+  visual_authority: "Use original JP2 images as the visual witness before normalization."
+  ocr_priority:
+    - "Use the PDF text layer for rough raw extracts."
+    - "Use hOCR/search text and page-number JSON as locating aids."
+    - "Check page images before quotation or normalized transcription."
+  distinction_policy:
+    - "Do not fold this plural essay into the singular Verschiedenheit shelf."
+    - "Cite this shelf as GS VI/1 plural Verschiedenheiten when relating it to PSF I."
+
+git_policy:
+  ignored_binary_dirs:
+    - source/local/
+    - source/page-images/

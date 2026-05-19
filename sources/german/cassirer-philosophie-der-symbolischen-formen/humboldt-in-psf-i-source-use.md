@@ -74,7 +74,7 @@ Use this routing when moving from Cassirer citations to Humboldt source work:
 | --- | --- | --- |
 | *Über die Kawi-Sprache auf der Insel Java*, Bd. II, Buschmann ed., 1838 | `sources/german/humboldt-kawi-sprache/` | Landed. This is the direct shelf for Cassirer's named Kawi Bd. II citations. |
 | *Ueber die Verschiedenheit des menschlichen Sprachbaues...* (singular) | `sources/german/humboldt-verschiedenheit-sprachbau/` | Landed as a Pott 1876 witness, with a targeted raw Ergon/Energeia tranche at `source/raw/008a-ergon-energeia-pdf-061-062.txt`. Useful local witness, but Cassirer's register cites the GS VII / 1907 form, so edition identity should stay visible. |
-| *Ueber die Verschiedenheiten des menschlichen Sprachbaues* (plural) | none yet | Pull separately as GS VI/1 or make a clearly marked GS VI/1 witness. Do not fold into the singular shelf. |
+| *Ueber die Verschiedenheiten des menschlichen Sprachbaues* (plural) | `sources/german/humboldt-verschiedenheiten-sprachbau-gs-vi1/` | Landed as a clearly marked GS VI/1 witness. Do not fold into the singular shelf. |
 | *Ueber den Dualis* | none yet | Pull as GS VI/1 support if chapter III dual/plural/person pressure becomes active. |
 | *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen...* | none yet | Pull as GS VI/1 support if deixis/pronoun/adverb pressure becomes active. |
 | *Lettre à Monsieur Abel-Rémusat... langue Chinoise* | none yet | Pull with the Chinese grammar pair when non-Indo-European form pressure becomes active. |
@@ -180,7 +180,5 @@ high-priority source target.
    `Feststellung des Begriffs des Kawi` close.
 2. Verify whether the current 1876 Pott Band 2 witness transmits any of the
    exact passages behind Cassirer's singular *Verschiedenheit* references.
-3. Pull the plural *Ueber die Verschiedenheiten des menschlichen Sprachbaues*
-   as a separate GS VI/1 surface before any broader Humboldt synthesis.
-4. If Kant/Humboldt pressure strengthens, locate Cassirer's *Kantischen
+3. If Kant/Humboldt pressure strengthens, locate Cassirer's *Kantischen
    Elemente* essay before widening to a general Cassirer-Humboldt synthesis.

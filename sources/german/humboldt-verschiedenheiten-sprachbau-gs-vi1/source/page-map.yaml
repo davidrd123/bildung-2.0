@@ -1,0 +1,63 @@
+source:
+  work_id: humboldt-verschiedenheiten-sprachbau-gs-vi1
+  primary_witness: ia-1907-gs-vi1
+  status: initial_plural_essay_map
+  pdf_pages: 350
+  image_pages:
+    format: jp2
+    count: 368
+    directory: source/page-images/jp2/gesammelteschrif06humbuoft_orig_jp2/
+    filename_prefix: gesammelteschrif06humbuoft_orig_
+    sequence:
+      minimum: 0
+      maximum: 367
+      gaps: []
+  numbering_policy:
+    page_numbers_json: source/local/gesammelteschrif06humbuoft_page_numbers.json
+    note: "PDF text extraction and page-number JSON agree on the printed-page range for the target essay, but JP2-to-PDF offset still needs visual anchoring before quotation work."
+
+known_alignments:
+  - label: volume-title
+    pdf_page: 1
+    note: "PDF opens with GS VI/1 title matter."
+  - label: first-running-text-page
+    pdf_page: 11
+    printed_page: "1"
+    note: "Kunstvereinsbericht opening."
+  - label: dualis-opening
+    pdf_page: 14
+    printed_page: "4"
+    note: "Ueber den Dualis opens; useful later support text in the same volume."
+  - label: plural-verschiedenheiten-opening
+    pdf_page: 121
+    page_number_json_leaf_num: 125
+    printed_page: "111"
+    raw_extract: source/raw/010-ueber-die-verschiedenheiten-pdf-121-313.txt
+    note: "Ueber die Verschiedenheiten des menschlichen Sprachbaues begins."
+  - label: plural-verschiedenheiten-close
+    pdf_page: 313
+    page_number_json_leaf_num: 325
+    printed_page: "303"
+    raw_extract: source/raw/010-ueber-die-verschiedenheiten-pdf-121-313.txt
+    note: "Last page of the plural essay."
+  - label: ortsadverbien-opening
+    pdf_page: 314
+    page_number_json_leaf_num: 326
+    printed_page: "304"
+    note: "Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen opens."
+
+ranges:
+  - id: full-volume
+    pdf_pages: "1-350"
+    full_extract: source/full/gesammelte-schriften-vi1.txt
+    status: raw_pdf_text_layer
+  - id: ueber-die-verschiedenheiten
+    label: "Ueber die Verschiedenheiten des menschlichen Sprachbaues"
+    pdf_pages: "121-313"
+    page_number_json_leaf_nums: "125-325"
+    printed_pages: "111-303"
+    raw_extract: source/raw/010-ueber-die-verschiedenheiten-pdf-121-313.txt
+    status: raw_pdf_text_layer
+    notes:
+      - "Bounded against PDF page 314, where the Ortsadverbien essay begins."
+      - "Raw extract is not normalized; check page images/hOCR before quotation."
