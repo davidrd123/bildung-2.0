@@ -2433,3 +2433,46 @@ Verification result:
 
 - PDF pages `347-354` were checked against the PDF text layer, layout extraction, and scan/Tesseract output on `_0347` through `_0354`; `_0355` confirms the next chapter boundary at `Drittes Kapitel. Hume.`
 - The review corrected OCR residue around `wiedergewonnen. So`, `ursprünglichen`, `sich`, `Grundanschauung von`, `Auffassung der`, `où l'on`, `joint`, `Réflexions`, `l'Anglois`, `Clavis universalis`, `after Truth. Being`, `Non Existence`, `Bayle`, `angefangen bis`, `wirklichen`, `Vorstellungen und`, `his will`, `dependance`, `Beweislast`, `Rechtsgrund`, `Rechtfertigung des`, `Antinomien des Unendlichen`, `endlich`, `Welt`, `dreieckigen`, `Schlußfolgerung im geringsten`, `gemeiner`, `Auffassung`, `Gottesproblem`, `verstehen, in welcher`, and `hierzu`.
+
+## 2026-05-19 - Hume, Experience, Uniformity, And Abstraction
+
+Created `parts/058-hume-experience-uniformity-and-abstraction.md` from PDF pages `355-359` / printed pages `335-339`, beginning with `Drittes Kapitel. Hume.` and stopping before section `I. Die Kritik der mathematischen Erkenntnis.`
+
+What this tranche clarified:
+
+- Hume opens by taking the Berkeley/Collier chapter close as a problem of connection. If impressions are to become objects, they must recur uniformly enough for experience to connect and read them.
+- Berkeley's sign-language supplies the immediate contrast. The world can be a readable text for Berkeley because divine intelligence guarantees the order of signs; Hume removes this guarantee and asks what experience can justify from within itself.
+- The same Berkeleyan facts now reverse direction. What drove Berkeley beyond sensation into intelligible sign-language binds Hume more strictly to sensation.
+- Hume is not presented as a passive registrar of facts. Cassirer stresses that Hume too applies a criterion: `reine Empfindung` becomes a methodical standard for ranking the relative truth of concepts.
+- The abstraction critique sharpens Berkeley. Berkeley rejects abstract generic images while retaining a `general idea`; Hume makes generality belong only to the word, not to a psychological property of the representation.
+
+Structural center:
+
+- The load-bearing movement is from sign-readability to impression-authentication. Hume accepts that empirical being is a work of connecting representations, but demands that each connection authenticate itself in an accompanying immediate impression.
+
+Routing decision:
+
+- No new glossary entry. This is a chapter opening and names multiple pressures without yet deciding the chapter's center.
+- Update `Erfahrung`, `Wahrnehmung / Perzeption / Suggestion`, `Begriff / Wort / Zeichen`, `Bild / Symbol / Ausdruck`, `Wahrheit / Urteil`, `Sinn / Sinneswahrnehmung`, `Sensation / Reflexion`, and `Phänomen / Erscheinung`.
+- Keep `Gleichförmigkeit des Naturlaufs`, `hypothetischer Grund`, `Kryptogramm der Natur`, `reine Empfindung`, `psychologischer Zwang`, `Abstraktion`, `allgemeine Vorstellungen`, `Name / Wort`, `general idea`, and `Tatsachen der Erkenntnis` in the close-reading ledger.
+
+Source-language decision:
+
+- The Hume opener begins the chapter's English-source problem. Cassirer quotes Berkeley and Hume through German, noting his use of Lipps for Hume. The Draft restores identifiable Berkeley `Principles` § 107 and Hume `Treatise` I.I.VII English-source wording in normalized spelling rather than re-translating Cassirer's German back into English.
+- This is recorded explicitly in the part Notes because it changes the Berkeley-chapter mitigation pattern from footnote-only source preservation into body-level restoration where the English source wording is certain.
+
+Re-entry hooks:
+
+- Part 059 should begin on PDF page `360` / printed page `340` with section `I. Die Kritik der mathematischen Erkenntnis.`
+- Test whether Hume's criterion of pure sensation can survive mathematics. The next section should decide whether mathematical cognition becomes the first case where Hume's empiricist criterion breaks against science.
+- Watch `Mathematik`, `Ideen`, `Eindrücke`, `Adäquatheit`, `Psychologie als Richterin`, and `Fundament aller menschlichen Erkenntnis`.
+- Do not open a Hume-specific uniformity or abstraction entry until section `I` shows whether the chapter center is mathematical critique, causal uniformity, nominalism, or the broader problem of objectivity under pure sensation.
+
+Decision for now:
+
+- Part 058 passes the same-agent self-review gate for controlled draft status. It opens Hume with a clear test of the Berkeley/Collier chapter note while holding new glossary promotion until the mathematics section supplies contrast evidence.
+
+Verification result:
+
+- PDF pages `355-359` were checked against the PDF text layer, layout extraction, and scan/Tesseract output on `_0355` through `_0359`; `_0360` confirms the next tranche begins with section `I. Die Kritik der mathematischen Erkenntnis.`
+- The review corrected OCR residue around `Einzelempfindungen ist`, `Vorstellungszusammenhang zu stiften`, `Zeichen`, `Gleichförmigkeit des Naturlaufs`, `notwendig`, `eben dies`, `Natur`, `Gesetzlichkeit, die`, `Humes`, `unaufheblich`, `abstehen, an denen`, `jeden`, `repräsentieren`, `wird`, `die ein`, `nachzuzeichnen, so`, `vorgezeichnet: es bleibt`, and `bestimmen, wie`.

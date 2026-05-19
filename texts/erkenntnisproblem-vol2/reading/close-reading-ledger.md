@@ -1259,3 +1259,28 @@ Routing:
 - Add `reading/2026-05-19-berkeley-collier-idealism-sign-and-antinomy.md` as the bounded Berkeley/Collier chapter note.
 - Update `Wahrnehmung / Perzeption / Suggestion`, `Existenz / Sein / Ding`, `Körper / Materie / Substanz`, `Raum / Zeit`, `Wahrheit / Urteil`, `Sinn / Sinneswahrnehmung`, `Phänomen / Erscheinung`, `Erfahrung`, and `Bewegung`.
 - Continue with Hume from PDF page `355` / printed page `335`. Hume should test whether association, uniformity, and causal expectation can supply the lawful connection that Berkeley grounds theologically and Collier defends negatively.
+
+## 2026-05-19 - Hume: Experience, Uniformity, And Abstraction
+
+Passage: `parts/058-hume-experience-uniformity-and-abstraction.md`, printed pages `335-339`.
+
+Part 058 opens Hume by making explicit what the Berkeley/Collier chapter left unresolved: experience requires lawful connection, but neither absolute matter nor divine sign-language can be assumed as its ground. Hume accepts that empirical being is a work of connecting perceptions, but he demands that the right of each connection be authenticated by an immediate impression.
+
+Local pressure:
+
+- `Erfahrung` becomes the direct problem. It is no longer secured by Berkeley's intelligible divine order or Collier's antinomy proof; it must answer from its own content how regularity and lawful connection are possible.
+- `Wahrnehmung / Perzeption / Suggestion` is radicalized. Hume keeps the Berkeley point that objects arise from the connection of perceptions, but he strips the connection of divine sign-guarantee and asks for an impression-basis.
+- `Begriff / Wort / Zeichen` becomes the abstraction pressure. Berkeley's sign still expressed a relation among ideas; Hume makes generality belong only to the word, not to a direct psychological property of the idea.
+- `Bild / Symbol / Ausdruck` is downgraded from Berkeleyan sign-language. The sign no longer anchors a divine text of nature; it becomes part of the nominalist mechanism through which particular ideas recall similar particulars.
+- `Wahrheit / Urteil` is active through Hume's criterion-setting. `Reine Empfindung` is not a logical criterion, but it still functions as a methodical standard for ranking concepts and their relative truth.
+- `Sinn / Sinneswahrnehmung` returns as the binding domain. The same facts that pushed Berkeley beyond mere sense now bind Hume within the field of sensory perception.
+- `Sensation / Reflexion` is pressured by Hume's demand that connection be vouched for by an accompanying impression rather than by a reflective or rational form.
+- `Phänomen / Erscheinung` loses the theological guarantee of appearance-order. Without a rule of recurrence, the cryptogram of nature would be unreadable.
+- `Gleichförmigkeit des Naturlaufs`, `hypothetischer Grund`, `Kryptogramm der Natur`, `reine Empfindung`, `psychologischer Zwang`, `Abstraktion`, `allgemeine Vorstellungen`, `Name / Wort`, `general idea`, and `Tatsachen der Erkenntnis` remain active pressures.
+
+Routing:
+
+- No new glossary entry. The Hume opener names the main pressures but does not yet decide whether the chapter center is uniformity, abstraction, mathematics, causality, or objectivity under pure sensation.
+- Update `Erfahrung`, `Wahrnehmung / Perzeption / Suggestion`, `Begriff / Wort / Zeichen`, `Bild / Symbol / Ausdruck`, `Wahrheit / Urteil`, `Sinn / Sinneswahrnehmung`, `Sensation / Reflexion`, and `Phänomen / Erscheinung`.
+- Continue with section `I. Die Kritik der mathematischen Erkenntnis` from PDF page `360` / printed page `340`.
+- Section `I` should test whether Hume's pure-sensation criterion can handle mathematics or whether mathematical cognition becomes the first site where the criterion fails against scientific form.

@@ -2030,3 +2030,33 @@ sessions:
       - "Do not assume Hume simply continues Berkeley. The opening should decide whether the center shifts from external-matter critique to the uniformity of nature and association."
 
     formation_notes: []
+
+  - date: 2026-05-19
+    collaborator: codex-gpt-5
+    session_outcome: hume-experience-uniformity-abstraction
+    parts_touched:
+      - "parts/058-hume-experience-uniformity-and-abstraction.md"
+
+    state_on_entry:
+      - "The Berkeley/Collier chapter note had closed the prior sequence by showing that Berkeley grounds experience through divine sign-language while Collier secures only a negative antinomy proof against absolute matter."
+      - "The re-entry hook asked whether Hume would shift the center from external-matter critique to uniformity, association, and experience's own lawful connection."
+
+    what_shifted:
+      - "Created Part 058 from PDF pages 355-359 / printed pages 335-339, opening `Drittes Kapitel. Hume.` and stopping before section `I. Die Kritik der mathematischen Erkenntnis.`"
+      - "Identified the structural center as a movement from sign-readability to impression-authentication."
+      - "Showed that Hume accepts the Berkeleyan construction of empirical being through connection, but demands that connection authenticate itself in an immediate impression."
+      - "Restored identifiable Berkeley `Principles` § 107 and Hume `Treatise` I.I.VII English-source wording in normalized spelling rather than re-translating Cassirer's German body quotations."
+      - "Opened no new glossary entry; updated `Erfahrung`, `Wahrnehmung / Perzeption / Suggestion`, `Begriff / Wort / Zeichen`, `Bild / Symbol / Ausdruck`, `Wahrheit / Urteil`, `Sinn / Sinneswahrnehmung`, `Sensation / Reflexion`, and `Phänomen / Erscheinung`."
+      - "Verified scans `_0355` through `_0359`; `_0360` confirms the mathematics section begins next."
+
+    unresolved:
+      - "Part 059 should begin on PDF page 360 / printed page 340 with section `I. Die Kritik der mathematischen Erkenntnis.`"
+      - "`Mathematik`, `Ideen`, `Eindrücke`, `Adäquatheit`, `Psychologie als Richterin`, and `Fundament aller menschlichen Erkenntnis` are next watchpoints."
+      - "Do not open a Hume-specific uniformity, abstraction, or pure-sensation entry until section `I` supplies contrast evidence."
+
+    re_entry_instructions:
+      - "Before starting Part 059, read Part 058's Notes plus the updated `Erfahrung`, `Begriff / Wort / Zeichen`, `Wahrheit / Urteil`, and `Wahrnehmung / Perzeption / Suggestion` entries."
+      - "Continue from section `I. Die Kritik der mathematischen Erkenntnis.` on PDF page 360 / printed page 340."
+      - "Test whether Hume's criterion of pure sensation can handle mathematics or whether mathematical cognition exposes the criterion's first major failure."
+
+    formation_notes: []

@@ -942,6 +942,19 @@ ranges:
     trust: "high"
     note: "Part 057 begins with the Collier continuation `Die metaphysische Entwicklung des Idealismus...`, follows Collier's quasi-externality argument, proof-burden method, antinomies of absolute matter and space, and Leibniz-Clarke bridge, and stops before `Drittes Kapitel. Hume.` on printed page 335."
 
+  - slug: "hume-experience-uniformity-abstraction"
+    label: "Hume: experience, uniformity, and abstraction"
+    pdf_pages: [355, 359]
+    printed_pages: ["335", "339"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0355.jp2"
+      - "daserkenntnispro02cassuoft_0356.jp2"
+      - "daserkenntnispro02cassuoft_0357.jp2"
+      - "daserkenntnispro02cassuoft_0358.jp2"
+      - "daserkenntnispro02cassuoft_0359.jp2"
+    trust: "high"
+    note: "Part 058 begins with `Drittes Kapitel. Hume.`, follows the chapter-opening transition from Berkeley's sign-language to Hume's uniformity problem and radicalized critique of abstraction, and stops before section `I. Die Kritik der mathematischen Erkenntnis.` on printed page 340."
+
   - slug: "book-vii-start-method"
     label: "Book VII / `Das Problem der Methode` opening"
     pdf_pages: [416, 416]
