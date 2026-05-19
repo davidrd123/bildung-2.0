@@ -8,9 +8,9 @@ errors, and odd line breaks until a bounded source use justifies correction.
 Current raw extracts:
 
 - `010-lettre-a-abel-remusat-pdf-264-318.txt`
-- `020-grammatischer-bau-der-chinesischen-sprache-pdf-319-335.txt`
-- `030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt`
+- `020-grammatischer-bau-der-chinesischen-sprache-pdf-319-334.txt`
+- `030-grundzuege-des-allgemeinen-sprachtypus-pdf-373-485.txt`
 
-Boundary note: the Chinese-grammar extract includes the full final PDF page
-for GS V printed p. 324. That page also begins the next Bhagavad-Gita item
-after Humboldt's essay closes.
+Boundary note: the *Grundzuege* extract begins on PDF page 373, which also
+contains the tail of the preceding American-languages fragment before the
+*Grundzuege* title.

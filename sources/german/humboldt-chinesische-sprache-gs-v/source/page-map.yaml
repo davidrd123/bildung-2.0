@@ -1,7 +1,7 @@
 source:
   work_id: humboldt-chinesische-sprache-gs-v
   primary_witness: ia-1906-gs-v
-  status: initial_gs_v_chinese_grammar_map
+  status: initial_chinese_language_map
   pdf_pages: 496
   image_pages:
     format: jp2
@@ -14,57 +14,57 @@ source:
       gaps: []
   numbering_policy:
     page_numbers_json: source/local/gesammelteschrif05humbuoft_page_numbers.json
-    note: "PDF text extraction and page-number JSON agree on the printed-page ranges, but JP2-to-PDF offset still needs visual anchoring before quotation work."
+    note: "The IA page-number JSON supplies printed-page/leaf alignment. PDF extraction page numbers differ from IA leaf numbers; both are recorded."
 
 known_alignments:
   - label: volume-title
     pdf_page: 1
     note: "PDF opens with GS V title matter."
+  - label: table-of-contents-humboldt-chinese-cluster
+    pdf_page: 13
+    note: "Contents list item 10, item 11, item 13, and item 14; OCR is noisy but page targets are usable."
   - label: lettre-a-abel-remusat-opening
     pdf_page: 264
     page_number_json_leaf_num: 266
     printed_page: "254"
     raw_extract: source/raw/010-lettre-a-abel-remusat-pdf-264-318.txt
-    note: "Lettre a Monsieur Abel-Remusat begins."
+    note: "Section 10 title page for the Abel-Remusat letter."
   - label: lettre-a-abel-remusat-close
     pdf_page: 318
     page_number_json_leaf_num: 320
     printed_page: "308"
     raw_extract: source/raw/010-lettre-a-abel-remusat-pdf-264-318.txt
-    note: "Last page of the Lettre."
-  - label: grammatischer-bau-opening
+    note: "Last page of the Abel-Remusat letter."
+  - label: grammatischer-bau-der-chinesischen-sprache-opening
     pdf_page: 319
     page_number_json_leaf_num: 321
     printed_page: "309"
-    raw_extract: source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-335.txt
-    note: "Ueber den grammatischen Bau der Chinesischen Sprache begins."
-  - label: grammatischer-bau-close
-    pdf_page: 335
+    raw_extract: source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-334.txt
+    note: "Section 11 opens immediately after the Abel-Remusat letter."
+  - label: grammatischer-bau-der-chinesischen-sprache-close
+    pdf_page: 334
     page_number_json_leaf_num: 336
     printed_page: "324"
-    raw_extract: source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-335.txt
-    note: "Final PDF page of the Chinese grammar essay; same page also begins the next item."
+    raw_extract: source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-334.txt
+    note: "Last page before the second Bhagavad-Gita essay opens."
   - label: grundzuege-opening
-    pdf_page: 374
+    pdf_page: 373
     page_number_json_leaf_num: 376
     printed_page: "364"
-    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt
-    note: "Grundzuege des allgemeinen Sprachtypus begins."
+    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-373-485.txt
+    note: "Grundzuege title occurs on a PDF page that begins with the tail of the preceding American-languages fragment."
   - label: grundzuege-close
     pdf_page: 485
     page_number_json_leaf_num: 489
     printed_page: "475"
-    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt
-    note: "Internal contents close for Grundzuege."
-  - label: entstehungsgeschichte-opening
-    pdf_page: 486
-    note: "Leitzmann's Bemerkungen zur Entstehungsgeschichte begin; not part of the current Grundzuege extract."
+    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-373-485.txt
+    note: "Last page of the Grundzuege contents overview; PDF page 486 begins Leitzmann's Entstehungsgeschichte notes."
 
 ranges:
   - id: full-volume
     pdf_pages: "1-496"
     full_extract: source/full/gesammelte-schriften-v.txt
-    status: raw_ocr_text_layer
+    status: raw_pdf_text_layer
   - id: lettre-a-abel-remusat
     label: "Lettre a Monsieur Abel-Remusat, sur la nature des formes grammaticales en general, et sur le genie de la langue Chinoise en particulier"
     pdf_pages: "264-318"
@@ -73,27 +73,26 @@ ranges:
     raw_extract: source/raw/010-lettre-a-abel-remusat-pdf-264-318.txt
     status: raw_pdf_text_layer
     notes:
-      - "Cassirer cites this work at PSF I p. 106."
+      - "Cassirer cites this French essay at PSF I p. 106."
       - "Raw extract is not normalized; check page images/hOCR before quotation."
   - id: grammatischer-bau-der-chinesischen-sprache
     label: "Ueber den grammatischen Bau der Chinesischen Sprache"
-    pdf_pages: "319-335"
+    pdf_pages: "319-334"
     page_number_json_leaf_nums: "321-336"
     printed_pages: "309-324"
-    raw_extract: source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-335.txt
+    raw_extract: source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-334.txt
     status: raw_pdf_text_layer
     notes:
-      - "Cassirer cites this work at PSF I p. 106."
-      - "The final PDF page also begins the following Bhagavad-Gita item after the essay closes."
+      - "Cassirer cites this German Chinese grammar essay at PSF I p. 106."
       - "Raw extract is not normalized; check page images/hOCR before quotation."
   - id: grundzuege-des-allgemeinen-sprachtypus
     label: "Grundzuege des allgemeinen Sprachtypus"
-    pdf_pages: "374-485"
+    pdf_pages: "373-485"
     page_number_json_leaf_nums: "376-489"
     printed_pages: "364-475"
-    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt
+    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-373-485.txt
     status: raw_pdf_text_layer
     notes:
-      - "Cassirer cites this work at PSF I p. 102."
-      - "Bounded against PDF page 486, where Leitzmann's Entstehungsgeschichte apparatus begins."
+      - "Cassirer cites this support text at PSF I p. 102."
+      - "PDF page 373 contains the tail of the preceding American-languages fragment before the Grundzuege title."
       - "Raw extract is not normalized; check page images/hOCR before quotation."

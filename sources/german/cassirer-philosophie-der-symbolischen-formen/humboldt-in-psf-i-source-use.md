@@ -78,8 +78,8 @@ Use this routing when moving from Cassirer citations to Humboldt source work:
 | *Ueber den Dualis* | none yet | Pull as GS VI/1 support if chapter III dual/plural/person pressure becomes active. |
 | *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen...* | none yet | Pull as GS VI/1 support if deixis/pronoun/adverb pressure becomes active. |
 | *Lettre à Monsieur Abel-Rémusat... langue Chinoise* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed as a GS V witness with raw extract `source/raw/010-lettre-a-abel-remusat-pdf-264-318.txt`. |
-| *Ueber den grammatischen Bau der Chinesischen Sprache* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed with the Abel-Rémusat letter as a GS V Chinese-grammar pair. Raw extract: `source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-335.txt`. |
-| *Grundzüge des allgemeinen Sprachtypus* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed from the same GS V witness. Raw extract: `source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt`. |
+| *Ueber den grammatischen Bau der Chinesischen Sprache* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed with the Abel-Rémusat letter as a GS V Chinese-grammar pair. Raw extract: `source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-334.txt`. |
+| *Grundzüge des allgemeinen Sprachtypus* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed from the same GS V witness. Raw extract: `source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-373-485.txt`. |
 | *Ueber das vergleichende Sprachstudium...* | none yet | Pull after Kawi and singular/plural distinction are stabilized. |
 | Brief an F. A. Wolf, 16 June 1804 | none yet | Low-volume support source for the chapter I Humboldt opening. |
 | *Ankündigung einer Schrift über die Vaskische Sprache und Nation* | none yet | Minor support source; not a current pull priority. |
@@ -181,10 +181,12 @@ not yet pulled as a source text.
 
 ## Next Honest Moves
 
-1. Check the two targeted Kawi raw tranches against the TIF page images before
-   any quotation, translation, or interpretive claim: the Kawi opening and the
-   `Feststellung des Begriffs des Kawi` close.
+1. Check the targeted Kawi and GS V Chinese-language raw tranches against their
+   page-image witnesses before any quotation, translation, or interpretive
+   claim.
 2. Verify whether the current 1876 Pott Band 2 witness transmits any of the
    exact passages behind Cassirer's singular *Verschiedenheit* references.
-3. If Kant/Humboldt pressure strengthens, locate Cassirer's *Kantischen
+3. Pull *Ueber das vergleichende Sprachstudium* and *Ueber den Dualis* only
+   when PSF I pressure makes the short support texts necessary.
+4. If Kant/Humboldt pressure strengthens, locate Cassirer's *Kantischen
    Elemente* essay before widening to a general Cassirer-Humboldt synthesis.

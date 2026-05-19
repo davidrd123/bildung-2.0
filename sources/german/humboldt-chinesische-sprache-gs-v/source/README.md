@@ -1,13 +1,14 @@
 # Source Notes
 
-This source layer holds local witnesses and extraction surfaces for Humboldt's
-GS V Chinese grammar pair and *Grundzuege des allgemeinen Sprachtypus*.
+This source layer holds local witnesses and extraction surfaces for the GS V
+Chinese-language Humboldt materials and *Grundzuege des allgemeinen
+Sprachtypus*.
 
 ## Witness Policy
 
 - `source/local/gesammelteschrif05humbuoft.pdf` is the working text PDF.
 - `source/page-images/jp2/` is the visual witness from the original JP2 tar.
-- hOCR, page-index, search-text, page-number, and scandata sidecars are
+- hOCR, page-index, search-text, scan-data, and page-number sidecars are
   locating aids.
 - `source/full/` and `source/raw/` are OCR/PDF text surfaces. They are
   searchable and useful for substrate work, but remain uncorrected.

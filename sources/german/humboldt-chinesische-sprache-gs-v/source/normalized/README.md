@@ -1,6 +1,7 @@
 # Normalized Extracts
 
-Checked working tranches belong here only after comparison with the text PDF,
-page images, and/or hOCR sidecars.
+This directory is reserved for checked, normalized tranches.
 
-No normalized tranches have been promoted yet.
+Do not normalize the whole GS V witness by default. Add a normalized file only
+when a concrete Cassirer/Humboldt source use requires a bounded passage and the
+raw text has been checked against the page-image witness.
