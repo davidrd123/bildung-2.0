@@ -1,0 +1,122 @@
+volume:
+  id: psf-1
+  title_de: Die Sprache
+  status: full-volume-searchable-substrate
+  source: source/full/vol1-die-sprache.txt
+  authority_pdf: source/local/philosophie-der-symbolischen-formen-1-die-sprache.pdf
+  purpose: >
+    Make PSF I searchable and navigable for guided reading and future
+    web/export layers without promoting the source scaffold to a texts campaign.
+
+use_policy:
+  rough_chapter_files: "Search and navigation surfaces; verify against PDF or normalized tranches before quotation-grade claims."
+  normalized_files: "Working-level checked surfaces; still not a full critical edition."
+  full_text: "Broad search surface for terms and phrase discovery."
+
+priority_anchors:
+  - id: psf1-einleitung
+    reason: symbolic form, objectivation, functional unity, critique of culture
+  - id: psf1-k5
+    reason: relation-expression, sentence before word, copula, being-language
+
+search_surfaces:
+  - id: psf1-full
+    title_de: Die Sprache
+    kind: full-volume
+    file: source/full/vol1-die-sprache.txt
+    status: rough_extracted_full_text
+    use: broad_search
+
+  - id: psf1-front
+    title_de: Front Matter and Inhaltsuebersicht
+    kind: front-matter
+    file: source/raw/000-front-matter-and-inhaltsuebersicht.txt
+    status: rough_chapter_split
+    source_line_range: [1, 136]
+    use: navigation
+
+  - id: psf1-vorwort
+    title_de: Vorwort
+    kind: prefatory
+    file: source/raw/001-vorwort.txt
+    status: rough_chapter_split
+    source_line_range: [137, 322]
+    printed_start: VII
+    use: search_and_orientation
+
+  - id: psf1-einleitung
+    title_de: Einleitung und Problemstellung
+    kind: chapter
+    file: source/raw/010-einleitung-und-problemstellung.txt
+    status: rough_chapter_split
+    source_line_range: [323, 2159]
+    printed_start: 1
+    use: search_and_guided_reading
+    normalized_children:
+      - source/normalized/0101-einleitung-i-begriff-und-systematik-1-7.txt
+      - source/normalized/0102-einleitung-i-begriff-und-systematik-8-16.txt
+
+  - id: psf1-k1
+    title_de: Das Sprachproblem in der Geschichte der Philosophie
+    kind: chapter
+    file: source/raw/011-kapitel-i-das-sprachproblem-in-der-geschichte-der-philosophie.txt
+    status: rough_chapter_split
+    source_line_range: [2160, 4870]
+    printed_start: 51
+    use: search_and_guided_reading
+    normalized_children:
+      - source/normalized/0115-kapitel-i-v-wilhelm-von-humboldt.txt
+
+  - id: psf1-k2
+    title_de: Die Sprache in der Phase des sinnlichen Ausdrucks
+    kind: chapter
+    file: source/raw/012-kapitel-ii-die-sprache-in-der-phase-des-sinnlichen-ausdrucks.txt
+    status: rough_chapter_split
+    source_line_range: [4871, 5815]
+    printed_start: 122
+    use: search_and_guided_reading
+
+  - id: psf1-k3
+    title_de: Die Sprache in der Phase des anschaulichen Ausdrucks
+    kind: chapter
+    file: source/raw/013-kapitel-iii-die-sprache-in-der-phase-des-anschaulichen-ausdrucks.txt
+    status: rough_chapter_split
+    source_line_range: [5816, 9861]
+    printed_start: 147
+    use: search_and_guided_reading
+
+  - id: psf1-k4
+    title_de: Die Sprache als Ausdruck des begrifflichen Denkens
+    kind: chapter
+    file: source/raw/014-kapitel-iv-die-sprache-als-ausdruck-des-begrifflichen-denkens.txt
+    status: rough_chapter_split
+    source_line_range: [9862, 11003]
+    printed_start: 249
+    use: search_and_guided_reading
+
+  - id: psf1-k5
+    title_de: Die Sprache und der Ausdruck der reinen Beziehungsformen
+    kind: chapter
+    file: source/raw/015-kapitel-v-die-sprache-und-der-ausdruck-der-reinen-beziehungsformen.txt
+    status: rough_chapter_split
+    source_line_range: [11004, 11822]
+    printed_start: 280
+    use: search_and_guided_reading
+    normalized_children:
+      - source/normalized/0151-kapitel-v-280-293-satz-und-beziehungsausdruck.txt
+      - source/normalized/0152-kapitel-v-293-295-kopula-und-praedikative-synthesis.txt
+      - source/normalized/0153-kapitel-v-295-300-seinsbegriff-und-sprachlicher-ausdruck.txt
+
+  - id: psf1-back
+    title_de: Editorischer Bericht und Back Matter
+    kind: back-matter
+    file: source/raw/030-editorischer-bericht-und-back-matter.txt
+    status: rough_chapter_split
+    source_line_range: [11823, null]
+    printed_start: 301
+    use: search_and_orientation
+
+guardrails:
+  - "Do not infer that PSF II or PSF III are active because PSF I is searchable."
+  - "Do not treat symbolic form as stable repo-wide vocabulary from search hits alone."
+  - "Use normalized tranches or the authority PDF for quotation-grade claims."

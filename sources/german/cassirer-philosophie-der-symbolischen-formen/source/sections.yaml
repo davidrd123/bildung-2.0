@@ -3,7 +3,8 @@ volumes:
     title_de: Die Sprache
     source: source/full/vol1-die-sprache.txt
     authority_pdf: source/local/philosophie-der-symbolischen-formen-1-die-sprache.pdf
-    current_status: first-probe
+    current_status: full-volume-searchable-substrate
+    search_surfaces: source/vol1-search-surfaces.yaml
     sections:
       - id: psf1-vorwort
         title_de: Vorwort

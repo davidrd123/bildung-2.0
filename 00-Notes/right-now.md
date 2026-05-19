@@ -1,6 +1,6 @@
 # Right Now
 
-Last updated: 2026-04-17
+Last updated: 2026-05-19
 
 ## Proven
 
@@ -30,7 +30,7 @@ Last updated: 2026-04-17
 - **Escolios I** remains in selective second-pass mode: 17 section files, minimal handle layer, load-bearing reread bias.
 - **Escolios II** has 51 section files on disk. The Spanish extraction has stabilized for honest batching.
 - **Exegesis** first pass complete at 75 passes. The second-pass atlas now has six knots, with `06-rendering-authorship-completion.md` functioning as a narrower post-capstone extension rather than a restart of the architecture.
-- **Sources**: Uexküll complete, Anders Band I complete, modern-source shelf active but demand-led. Dormant localized scaffolds now include `Récoltes`, Kant `KdU`, and `Substanzbegriff`; the last is source-near enough for one bounded probe, but still not a live source campaign.
+- **Sources**: Uexküll complete, Anders Band I complete, modern-source shelf active but demand-led. Dormant localized scaffolds now include `Récoltes`, Kant `KdU`, and `Substanzbegriff`; the last is source-near enough for one bounded probe, but still not a live source campaign. Cassirer PSF I now has a full-volume searchable substrate lane in `sources/german/cassirer-philosophie-der-symbolischen-formen/`, with the introduction and chapter V as priority anchors; this is source indexing for guided reading and web-facing search, not a promoted symbolic-forms campaign.
 
 ## Next
 

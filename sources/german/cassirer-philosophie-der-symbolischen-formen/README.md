@@ -14,17 +14,51 @@ on chat-level summaries about "symbolic forms."
 This is **not** yet a live Cassirer subproject and **not** a promoted symbolic-
 forms apparatus. It is a source-localization move only.
 
+## Substrate Status
+
+The May 2026 substrate/engagement distinction changes the practical threshold
+for this scaffold. Unpacking PSF I in `sources/` is now
+legitimate **substrate-building**, not a quiet promotion to `texts/`.
+
+The honest current target is a **full Volume I searchable substrate**:
+
+1. whole-volume search through `source/full/vol1-die-sprache.txt`
+2. chapter-scale search through the rough `source/raw/` splits
+3. verified normalized tranches where the existing pressure has already forced
+   closer work
+
+The introduction and chapter V remain the strongest already-active surfaces,
+but they are no longer the boundary of the substrate. The aim is that future
+readers, agents, and web-facing search/export layers can locate and engage any
+part of PSF I at will, while still seeing which surfaces are rough extraction
+and which have been checked more closely.
+
+What this licenses:
+
+- whole-Volume-I indexing inside `sources/german/`
+- web/search-facing metadata for the full text, chapter files, and normalized
+  priority surfaces
+- verified normalized tranches where later reading tasks need them
+- compact method notes that point future sessions back to the German
+
+What it still does not license:
+
+- promotion to `texts/cassirer-philosophie-der-symbolischen-formen/`
+- a stable PSF glossary
+- repo-wide import of `symbolic form` as controlling vocabulary
+- activation of PSF II or PSF III by symmetry
+
 ## Why Here
 
 - Not only in `sources/modern/incoming/` — because these are German primary
   texts and belong on the source-language side once the source is physically on
   disk.
 - Not yet `texts/cassirer-philosophie-der-symbolischen-formen/` — because no
-  glossary, journal, encounter dossiers, or thread apparatus have been earned
-  for them.
+  engagement layer has been earned for them. Substrate volume alone is not the
+  promotion test.
 - Not yet a full `texts/` campaign even though a bounded `raw/` and partial
-  `normalized/` layer now exist — because the present need is still localized
-  probing, not sustained close reading.
+  `normalized/` layer now exist — because the present need is chapter-scale
+  substrate for guided reading, not a sustained engagement project.
 
 Current pressure toward these texts is real but still bounded. The repo already
 holds:
@@ -47,7 +81,9 @@ Current probe order:
 
 1. `vol1-die-sprache.txt`
    - because the most clearly earned reserve pressure is the later
-     language / symbolic-forms bridge
+     language / symbolic-forms bridge; within Volume I, the current substrate
+     target is the whole volume, with the introduction and chapter V as the
+     already-active priority anchors
 2. `vol3-phaenomenologie-der-erkenntnis.txt`
    - because current repo pressure around anti-psychologism, representation,
      objectivation, and modern physics may eventually need direct contact here
@@ -107,6 +143,7 @@ source/
     014-kapitel-iv-die-sprache-als-ausdruck-des-begrifflichen-denkens.txt
     015-kapitel-v-die-sprache-und-der-ausdruck-der-reinen-beziehungsformen.txt
     030-editorischer-bericht-und-back-matter.txt
+  vol1-search-surfaces.yaml
   sections.yaml
 ```
 
@@ -115,6 +152,7 @@ source/
 Use this scaffold for:
 
 - bounded source checks against live repo pressure
+- full PSF I search and guided-reading substrate
 - direct German forays when chat pressure begins reaching for symbolic forms
 - testing whether a symbolic-forms claim is actually on the page or only in
   later reception / chat synthesis
@@ -126,6 +164,20 @@ Do **not** use this scaffold yet for:
 - importing `symbolic form` as controlling authority into current
   `Erkenntnisproblem`, `Zeitmauer`, Uexkuell, Anders, or Dick work
 - general claims about all three volumes based on one bounded check
+
+## Web/Search Use
+
+`source/vol1-search-surfaces.yaml` is the web-facing finding aid for PSF I.
+
+It distinguishes:
+
+- the whole-volume file, useful for broad search
+- rough chapter files, useful for navigation and exploratory engagement
+- normalized priority tranches, useful when a passage needs closer citation
+  discipline
+
+The rough chapter files are valid search surfaces. They are not yet verified
+working texts. A web layer should expose that distinction rather than hiding it.
 
 ## Why The Section Map Exists
 
@@ -141,15 +193,17 @@ without reopening the tables of contents each time.
 
 If pressure strengthens, the next honest move is:
 
-1. extend the verified Volume I tranche only if current work keeps pressing it
-2. leave Volumes II-III localized until they are actually needed
-3. only then decide whether a broader `normalized/` layer is warranted
+1. keep the whole PSF I substrate searchable
+2. extend verified normalization only where future engagement needs citation
+   discipline
+3. leave Volumes II-III localized until they are actually needed
+4. only then decide whether a broader normalized layer is warranted
 
 The current rough chapter files for Volume I were generated by:
 
 - `tools/split_cassirer_symbolic_forms_vol1.py`
 
-They are navigational surfaces only, not yet verified working texts.
+They are navigational and search surfaces, not yet verified working texts.
 
 ## Present Status
 
@@ -158,6 +212,11 @@ What has been earned:
 - the source substrate is on disk
 - the texts are localized in the repo
 - the first probe order is clear
+- the substrate approach now licenses a full PSF I searchable substrate in
+  `sources/`, with the introduction and chapter V as priority anchors rather
+  than hard limits
+- the web-facing search surface index is tracked at
+  `source/vol1-search-surfaces.yaml`
 - later agents now have an exact German surface to consult
 - Volume I now has rough chapter files suitable for bounded direct forays
 - a first bounded read of the introduction and chapter I confirms that Volume I
