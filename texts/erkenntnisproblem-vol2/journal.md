@@ -2505,6 +2505,7 @@ Source-language decision:
 - The Hume source-language pattern intensified. Several body quotations are Hume passages rendered through Cassirer's German, while several footnotes preserve Hume's English directly.
 - The Draft restores identifiable Hume English-source wording for the foundation-of-knowledge, geometry-standard, `roughly and with some liberty`, five-notes, colored-points, and `pure and intellectual view` passages.
 - Cassirer's exposition remains translated from German. The restoration is limited to clear quotation sites and noted in the part file, continuing the Hume-specific source-language discipline from Part 058.
+- Post-review apparatus tightening restored the substantive Hume English preserved in Cassirer's own footnotes 1, 4, 5, and 12 into the Draft Footnotes block. This makes the footnote layer match the body-layer grade-4 policy and leaves Hume's `pure and intellectual view` visible beside Cassirer's `reine intellektuelle Perzeptionen`.
 
 Re-entry hooks:
 
@@ -2520,4 +2521,4 @@ Decision for now:
 Verification result:
 
 - PDF pages `360-372` were checked against the PDF text layer, layout extraction, and scan/Tesseract output on `_0360` through `_0372`; `_0373` confirms section `II. Die Kritik des Kausalbegriffs.` begins after the stop.
-- The review corrected OCR residue around `Vorstellung, daß`, `überschreitet, das`, `Psychologie als Richterin`, `verlieren`, `Teil`, `Zusammentreffen eine`, `z. B.`, `wahrnehmbaren`, `unbekümmert um`, `begriffliche`, `seltsamer`, `sicht- oder tastbare Raumelemente`, `Lageverhältnis und`, `Bemerkungen die Anschauung`, `erhoben zu`, `einem`, `Einheiten`, Hume's `runs`, `nor`, and Hume's `appealing to`.
+- The review corrected OCR residue around `Vorstellung, daß`, `überschreitet, das`, `Psychologie als Richterin`, `verlieren`, `Teil`, `Zusammentreffen eine`, `z. B.`, `wahrnehmbaren`, `unbekümmert um`, `begriffliche`, `seltsamer`, `sicht- oder tastbare Raumelemente`, `Lageverhältnis und`, `Bemerkungen die Anschauung`, `erhoben zu`, `einem`, `Einheiten`, Hume's `runs`, and Hume's `nor`.

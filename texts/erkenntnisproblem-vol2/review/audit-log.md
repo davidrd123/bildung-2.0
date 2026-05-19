@@ -400,3 +400,115 @@ The Hume chapter introduces a new sub-pattern beneath grade 4: **double-mediatio
 ### Next step
 
 **Part 059** picks up at PDF 360 / printed 340 with section `I. Die Kritik der mathematischen Erkenntnis.` Per Part 058 re-entry hooks: this is where Hume's criterion of pure sensation meets mathematics — first test case for whether the impressionist criterion breaks against a non-empirical science. Watch `Mathematik`, `Ideen`, `Eindrücke`, `Adäquatheit`, `Psychologie als Richterin`, `Fundament aller menschlichen Erkenntnis`.
+
+## 2026-05-18 — Part 059 (Hume on mathematics) content-fidelity review
+
+**Scope audited:** `parts/059-hume-mathematics-space-time-and-number.md` against `source/normalized/059-...txt` and `source/raw/059-...txt`. PDF pages 360-372 / printed 340-352. Twelve footnotes; substantial Hume English-source apparatus. Three body block-quotes restored verbatim from Hume's Treatise: fn 3 (I.II.IV standard/perfection), fn 7 (I.II.III five-notes-on-flute), fn 10 (I.II.IV colored/tangible points). Six citation-anchor footnotes (fns 2, 6, 8, 9, 11) and four substantive English-source footnotes where Cassirer carries verbatim Hume in his own German apparatus (fns 1, 4, 5, 12).
+
+### Source-language fidelity gate — body block-quotes
+
+**fn 3 (Treatise I.II.IV — standard/perfection)** — verbatim restored:
+> As the ultimate standard of these figures is deriv'd from nothing but the senses and imagination, 'tis absurd to talk of any perfection beyond what these faculties can judge of; since the true perfection of any thing consists in its conformity to its standard.
+
+Cassirer/Lipps adds `unser` (our) and `geometrischen Gebilde` (geometrical formations) where Hume has "these figures" — minor expansion, neutralized by verbatim restoration. ✓ Grade-4.
+
+**fn 7 (Treatise I.II.III — five notes on flute)** — verbatim restored with ellipsis matching Cassirer's selection. Notable: Cassirer/Lipps inverts Hume's "Since it appears not as any primary distinct impression, [time] can plainly be nothing but..." into "Tritt somit die Zeit nicht als ein primärer und gesonderter Eindruck in die Erscheinung, so kann sie offenbar nichts anderes sein..." — Draft restores Hume's original syntax with `[S]ince` and `[time]` bracket-restorations marking the syntactic reversal. ✓ Grade-4 with bracket-clarification (sub-grade-5).
+
+**fn 10 (Treatise I.II.IV — colored/tangible points)** — verbatim restored. Notable: Cassirer/Lipps converts Hume's first-person rhetorical address ("I ask any one, if he sees a necessity...") into impersonal "Läßt sich irgendeine Notwendigkeit dafür einsehen" — Draft restores Hume's address form. ✓ Grade-4.
+
+**Grade-5 in-body parenthetical preservation already present in Cassirer's own text:** `(roughly and with some liberty)` and `(the manner or order, in which objects exist)`. Cassirer himself anticipated grade-5 marking at these two anchors. The Draft preserves both. This is the chapter's first case where Cassirer's own apparatus performs grade-5; the Draft inherits without re-marking.
+
+### Source-language fidelity gate — footnote-layer compression flag (largest issue)
+
+Cassirer's German footnotes 1, 4, 5, and 12 each carry **substantive verbatim Hume English passages** (some ~50 words, fn 5 ~150 words, fn 12 ~140 words). The Draft Footnotes block has compressed all four:
+
+- **fn 1:** Cassirer's footnote: full 40-word Hume passage ("Wherever ideas are adequate representations of objects, the relations, contradictions and agreements of the ideas are all applicable to the objects; and this we may in general observe to be the foundation of all human knowledge."). Draft Footnote 1: meta-comment only, no verbatim.
+- **fn 4:** Cassirer: 40-word Hume passage on right-line standard. Draft: short phrase quotation `"nothing but a certain general appearance"` + meta-comment.
+- **fn 5:** Cassirer: ~150-word Hume passage with internal ellipses on equality, imaginary standard, fiction of mind. Draft: two short phrase quotations + meta-summary.
+- **fn 12:** Cassirer: ~140-word Hume passage on "pure and intellectual view" / "asylum ignorantiae." Draft Footnote: no verbatim; just citation + meta-comment that "the Draft preserves Hume's English-source wording for the 'pure and intellectual view' passage." But the body still uses Cassirer's German rendering `reine intellektuelle Perzeptionen` → Draft `pure intellectual perceptions`, **not** Hume's `pure and intellectual view`. So Footnote 12 claims a preservation that doesn't actually appear in either body or footnote.
+
+This is a **partial regression from the chapter pattern**. In Parts 052-056 the producer brought Cassirer's verbatim source-language footnote quotations into the Draft Footnotes block (grade-4 apparatus). Here the producer's pattern has narrowed: body block-quotes get verbatim restoration in the body, but Cassirer's own footnote verbatim passages are summarized rather than reproduced. The Draft apparatus is leaner than Cassirer's.
+
+**Specific issue at fn 12:** Cassirer's "reine intellektuelle Perzeptionen" semantically shifts Hume's "pure and intellectual view" (faculty/mode of seeing) to "perceptions" (plural perceptual content). The Draft preserves Cassirer's shift in the body (`pure intellectual perceptions`) and claims to preserve Hume's wording in the Footnote — but neither location actually carries Hume's `view`. This is a **substantive Cassirer-step terminological shift** that the Draft apparatus claims to handle but does not.
+
+### Body density gate
+
+**Marginal captions** (raw OCR top-of-page): six captions confirmed — `Die Kritik der mathematischen Erkenntnis.` (341, doubles as section header), `Sinnliche und mathematische "Ideen".` (343), `Die "Fiktionen" der Mathematik.` (345), `Raum und Zeit.` (347), `Die mathematischen und die sinnlichen "Punkte".` (349), `Der Begriff der Zahl.` (351). All listed accurately in Notes; excluded from normalized body per convention.
+
+**Page-bridge stitching:** twelve page-breaks across PDF 360→372. All stitched cleanly. Several mid-word hyphen breaks (`seit-/samer`, `dem Hume sie ent-/lehnt`) handled correctly.
+
+**Paragraph segmentation:** ten German paragraphs. All breaks topically motivated (post-fn 3 quote → certainty-renunciation; post-fn 4 → Grundbegriffe analysis; post-fn 5 → consistency-judgment; post-`Unterbau des Systems` → subjective-necessity question; post-`hinausgehen` → spatial-relations analysis; post-fn 9 → mathematical-points analysis; post-fn 10 → critique of `Berührung`; post-`dulden dürfte` → number). Cannot independently verify each break without JP2 visual inspection; no obvious mis-segmentation.
+
+**OCR residue corrections:** Notes list ~20 corrections. Verified ~18 against raw OCR: `Vor-stellung,daß`, `über-schreitet,das`, `Psychologie ils → als Richterin`, `verHeren → verlieren`, `Zusammentreffeneine → Zusammentreffen eine`, `z.TB. → z. B.`, `wahrnehm-baren`, `un-bekümmertum`, `begriffUche → begriffliche`, `seit-/samer → seltsamer`, `sieht- → sicht-`, `Lage-/verhältnisund`, `Be-/merkungendieAnschauung`, `er-/hobenzu`, `einiem → einem`, `Einlleiten → Einheiten`, `nins → runs`, `nar → nor`. Two items not obviously locatable: `Teil` (probably routine de-hyphenation) and the `appearing → appealing` claim (raw OCR has `appealing` already, so either Cassirer's printed text had `appearing` typo and the correction was made against the print, or the correction wasn't needed; unverified without JP2).
+
+**Apparatus discrepancy:** Notes Translation note states "`Allgemeine Gesamterscheinung` is total appearance in the Draft body but held in the Notes as general total appearance." But the Draft body actually renders it as `general total appearance` (not `total appearance`). Minor apparatus inconsistency — the Translation note describes a choice that wasn't taken.
+
+### Compression / gloss-creep gate — clause-level checks
+
+**Paragraph 4 ("Führen wir dieses Kriterium..."), full clause-by-clause sample including fn 5 anchor:**
+
+All clauses tracked. Notable:
+- `allseitig durch` → `through on every side` ✓
+- `Anzahl... Menge` → `number... quantity` ✓
+- `kleinsten noch eben wahrnehmbaren Ausdehnungsgrößen` → `smallest still just perceptible magnitudes of extension` ✓
+- `Größenübereinstimmung` → `agreement in magnitude` ✓
+- `unausführbare Zerlegung` → `unperformable decomposition` ✓
+- `den vorstellenden Subjekten ... gleichartig zumute ist` → `we, as representing subjects, feel the same way` (affective `zumute` captured by `feel the same way`)
+- `imaginäres Gebilde` → `imaginary formation` ✓
+- `ebenso nutzlos wie unverständlich` → `as useless as they are incomprehensible` — note: Hume's actual phrase (in fn 5 quote, verbatim) is `useless as well as incomprehensible`; Cassirer renders as `ebenso ... wie`; Draft follows Cassirer's smoothing in body since this is not a block-quote. Acceptable grade-1 diction within non-quoted prose.
+
+No compression, no gloss-creep, no synthesis material.
+
+**Paragraph 7 ("Denn der Versuch, den Hume unternimmt..."), sampled around fns 8 and 9:**
+
+All clauses tracked. Notable:
+- `räumliches Beisammen` → `spatial being-together` (preserves the German nominalization)
+- `Gesichts- oder Tasteindrücke` → `impressions of sight or touch` ✓
+- `Lageverhältnis` → `relation of position` (preserves relational sense) ✓
+- `Anschauung des Raumes` → `intuition of space` (preserves Kantian register, appropriate) ✓
+- `ausnahmslose Entsprechung` → `exceptionless correspondence` ✓
+- `noch hinter ... zurück` → `falls back behind` ✓
+- `Kunde verschafft` → `informs us` ✓
+
+Tight throughout.
+
+### Paraphrase-signal grep
+
+Three grep hits, all false positives: Cassirer's `Standpunkt` translated as `standpoint`; Hume's `point of departure` (Cassirer's `Ansatzpunkt`) translated; one Notes-block hit at line 149 (Notes-block content is allowed). **Effectively CLEAN** for paraphrase signals inside the Draft body.
+
+### Verdict
+
+**structural clean / content clean at body level; content provisional at apparatus level with one substantive flag (Footnote-layer compression at fns 1, 4, 5, 12) and one terminological-shift flag (fn 12 `pure and intellectual view` → `pure intellectual perceptions` shift claimed-but-not-restored).**
+
+The body translation work is strong: three Hume block-quotes restored verbatim, two Cassirer-internal grade-5 parentheticals preserved, clause-level fidelity in sampled paragraphs, and clean OCR cleanup at high count. The weakness is at the apparatus layer: Cassirer carries substantive verbatim English Hume passages in his own German footnotes 1, 4, 5, 12 (the longest one ~150 words at fn 5), and the Draft Footnotes block has trimmed all four. A reader of the Draft sees less than a reader of Cassirer.
+
+Per-part verbatim coverage: 3 of 12 footnotes carry full verbatim Hume English in the Draft Footnotes block — markedly down from the Berkeley-chapter chapter average (P053 8/21, P054 6/17, P055 4/7, P056 8/24). The numerical regression matches the apparatus-level finding.
+
+### Updated taxonomy notes (post-Part 059)
+
+The Hume chapter introduces a **footnote-layer compression risk** distinct from the body-layer mitigation grades. When Cassirer carries verbatim source-language passages in his own German footnotes (rather than in body block-quotes), the producer has three options:
+
+1. **Reproduce verbatim** in Draft Footnotes block (apparatus parity with Cassirer — grade-4 equivalent at the footnote layer).
+2. **Selective verbatim** with key phrases preserved + meta-summary (grade-3 equivalent).
+3. **Meta-summary only** with citation (grade-2 equivalent).
+
+Part 059 mixes options 2 and 3 across its footnotes; Parts 052-056 generally used option 1. Worth a producer-side discipline note: the choice should be deliberate, not drift.
+
+### Carry-forwards raised by audit
+
+- **Resolved below: Part 059 fn 12 apparatus repair** (recommended): either restore Hume's verbatim "pure and intellectual view" passage in the Draft Footnote, or change the body rendering to `pure and intellectual view` to match Hume directly. The audited state had the Footnote claiming a preservation that did not appear anywhere.
+- **Resolved below: Part 059 fns 1, 4, 5 apparatus tightening** (optional): consider bringing Cassirer's verbatim English Hume passages from the German footnotes into the Draft Footnotes block for apparatus parity.
+- **Resolved below: Part 059 Notes Translation note inconsistency** (minor): the `Gesamterscheinung` note described a choice (`total appearance`) different from the actual body rendering (`general total appearance`).
+
+**Producer-side repair applied after audit:**
+
+- Draft Footnotes 1, 4, 5, and 12 now reproduce Cassirer's substantive verbatim Hume English apparatus rather than replacing it with meta-summary only.
+- Draft Footnote 12 now explicitly leaves Hume's `pure and intellectual view` visible beside Cassirer's body-level `reine intellektuelle Perzeptionen` / `pure intellectual perceptions`, resolving the claimed-but-not-present preservation.
+- The Part Notes translation line now describes the actual body choice for `allgemeine Gesamterscheinung` as `general total appearance`.
+- The Part Notes and journal verification lists no longer claim an OCR correction from `appearing` to `appealing`; the raw OCR already had `appealing`.
+- **Part 057 (Collier transition)** content-fidelity audit still pending.
+- Pre-existing carry-forwards (P053 fns 2/10, P056 fn 23 De motu Latin, Parts 046-051 unaudited) unchanged.
+
+### Next step
+
+**Part 060** picks up at PDF 373 / printed 353 with section `II. Die Kritik des Kausalbegriffs.` Per Part 059 re-entry hooks: this is where the chapter tests whether causality repeats the mathematics pattern — consciousness cannot stay inside immediate impressions because objectivity requires a relation/transition not given as a separate impression. Watch whether `Kausalität`, `Glaube / belief`, `Gewöhnung`, `Wahrscheinlichkeit`, `Assoziation`, `Einbildungskraft`, `reine Wahrnehmung` earn new surfaces or are absorbed by existing entries. The Hume causality section is the chapter's most-cited Hume material in subsequent philosophy; expect dense source-language apparatus and another stress test of the footnote-layer compression question raised here.
