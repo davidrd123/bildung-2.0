@@ -1284,3 +1284,30 @@ Routing:
 - Update `Erfahrung`, `Wahrnehmung / Perzeption / Suggestion`, `Begriff / Wort / Zeichen`, `Bild / Symbol / Ausdruck`, `Wahrheit / Urteil`, `Sinn / Sinneswahrnehmung`, `Sensation / Reflexion`, and `Phänomen / Erscheinung`.
 - Continue with section `I. Die Kritik der mathematischen Erkenntnis` from PDF page `360` / printed page `340`.
 - Section `I` should test whether Hume's pure-sensation criterion can handle mathematics or whether mathematical cognition becomes the first site where the criterion fails against scientific form.
+
+## 2026-05-19 - Hume: Mathematics, Space-Time, And Number
+
+Passage: `parts/059-hume-mathematics-space-time-and-number.md`, printed pages `340-352`.
+
+Part 059 follows section `I. Die Kritik der mathematischen Erkenntnis`. Cassirer lets Hume's pure-sensation criterion judge mathematics and then shows that the criterion cannot explain the very relations mathematics requires.
+
+Local pressure:
+
+- `Mathematik / Geometrie / Zahl` is earned as a new open surface. Geometry becomes the first science to reveal that Hume's criterion can deflate mathematical ideality but cannot explain mathematical form.
+- `Wahrheit / Urteil` is pressured by the distinction between exact validity and sensory criterion. Hume's later relations-of-ideas concession is treated as substantively invalid for the `Treatise` standpoint.
+- `Sinn / Sinneswahrnehmung` becomes judge and then fails as judge. Sense can supply a minimum, a general appearance, and colored/tangible points, but it cannot supply position, relation, or exact number.
+- `Sensation / Reflexion` is strained by Hume's anti-Lockean narrowing. Time cannot be a sixth impression, nor a reflection-impression, but the order of impressions still has content.
+- `Raum / Zeit` is reopened from the Hume side. Space and time are reduced to colored/tangible points and sequences, yet `the manner or order` in which impressions exist exceeds the sum of impressions.
+- `Kontinuum / Stetigkeit / Infinitesimal` receives Hume negative contrast. Hume rejects infinite divisibility through the sensory minimum, repeating the mereological point-composition problem Leibniz's infinitesimal/function apparatus had overcome.
+- `Begriff / Wort / Zeichen` receives the geometry-word pressure: pure geometrical objects dissolve into a mere word under Hume's psychological analysis, while number may require a single unified act of mind.
+- `Phänomen / Erscheinung` becomes Hume's geometry standard. Straightness and equality are measured by general appearance rather than by rational form.
+- `Existenz / Sein / Ding` is pressured by mathematical objects having neither true being in us nor outside us, standing on one level with scholastic substances.
+- `Intuition / Anschauung` is active negatively through Hume's polemic against `pure intellectual perceptions`; exact number threatens to reopen the intellectual-view route he rejects.
+- `reine Empfindung`, `Psychologie als Richterin`, `Fundament aller menschlichen Erkenntnis`, `sinnliches Minimum`, `allgemeine Gesamterscheinung`, `mathematische Abstrakta`, `the manner or order`, `Lage`, `Grundbeziehung / Grundfunktion`, `Zahlbegriff`, and `reine intellektuelle Perzeptionen` remain active pressures.
+
+Routing:
+
+- Open `Mathematik / Geometrie / Zahl`, status `open`, as a section-earned Hume entry.
+- Update `Erfahrung`, `Wahrheit / Urteil`, `Sinn / Sinneswahrnehmung`, `Sensation / Reflexion`, `Raum / Zeit`, `Kontinuum / Stetigkeit / Infinitesimal`, `Begriff / Wort / Zeichen`, `Phänomen / Erscheinung`, `Existenz / Sein / Ding`, and `Intuition / Anschauung`.
+- Continue with section `II. Die Kritik des Kausalbegriffs` from PDF page `373` / printed page `353`.
+- The causal section should decide whether the mathematics pattern generalizes: an empiricist reduction exposes connections that Hume cannot authenticate as separate impressions.

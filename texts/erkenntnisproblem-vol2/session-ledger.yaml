@@ -2060,3 +2060,34 @@ sessions:
       - "Test whether Hume's criterion of pure sensation can handle mathematics or whether mathematical cognition exposes the criterion's first major failure."
 
     formation_notes: []
+
+  - date: 2026-05-19
+    collaborator: codex-gpt-5
+    session_outcome: hume-mathematics-space-time-number
+    parts_touched:
+      - "parts/059-hume-mathematics-space-time-and-number.md"
+
+    state_on_entry:
+      - "Part 058 had opened Hume by making experience's lawful connection depend on an immediate-impression warrant rather than Berkeley's divine sign-language."
+      - "The re-entry hook asked whether Hume's criterion of pure sensation could survive mathematics or whether mathematical cognition would expose the criterion's first major failure."
+
+    what_shifted:
+      - "Created Part 059 from PDF pages 360-372 / printed pages 340-352, covering section `I. Die Kritik der mathematischen Erkenntnis`."
+      - "Identified the structural center as a movement from psychology as judge of mathematics to mathematics as exposure of psychology's insufficiency."
+      - "Showed Hume reducing geometry to sensory minimum and general appearance, but Cassirer then forces the problem of order, position, relation, and number back into the analysis."
+      - "Opened `Mathematik / Geometrie / Zahl` as an open glossary entry because this section makes mathematics the first explicit field where Hume's pure-sensation criterion breaks against scientific form."
+      - "Updated `Erfahrung`, `Wahrheit / Urteil`, `Sinn / Sinneswahrnehmung`, `Sensation / Reflexion`, `Raum / Zeit`, `Kontinuum / Stetigkeit / Infinitesimal`, `Begriff / Wort / Zeichen`, `Phänomen / Erscheinung`, `Existenz / Sein / Ding`, and `Intuition / Anschauung`."
+      - "Restored identifiable Hume English-source wording for the main quotation sites while keeping Cassirer's German exposition as the body authority."
+      - "Verified scans `_0360` through `_0372`; `_0373` confirms section `II. Die Kritik des Kausalbegriffs` begins next."
+
+    unresolved:
+      - "Part 060 should begin on PDF page 373 / printed page 353 with section `II. Die Kritik des Kausalbegriffs.`"
+      - "`Kausalität`, `Glaube / belief`, `Gewöhnung`, `Wahrscheinlichkeit`, `Assoziation`, `Einbildungskraft`, and `reine Wahrnehmung` are next watchpoints."
+      - "Keep the Hume chapter finding provisional until the causal section decides whether the mathematics pattern generalizes into the objectivity problem."
+
+    re_entry_instructions:
+      - "Before starting Part 060, read Part 059's Notes and the new `Mathematik / Geometrie / Zahl` glossary entry."
+      - "Continue from section `II. Die Kritik des Kausalbegriffs` on PDF page 373 / printed page 353."
+      - "Test whether causal connection repeats the same hidden-relation problem as space, time, and number, or whether Hume's habit/belief account changes the chapter center."
+
+    formation_notes: []

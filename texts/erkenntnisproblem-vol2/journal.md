@@ -2477,3 +2477,47 @@ Verification result:
 
 - PDF pages `355-359` were checked against the PDF text layer, layout extraction, and scan/Tesseract output on `_0355` through `_0359`; `_0360` confirms the next tranche begins with section `I. Die Kritik der mathematischen Erkenntnis.`
 - The review corrected OCR residue around `Einzelempfindungen ist`, `Vorstellungszusammenhang zu stiften`, `Zeichen`, `Gleichförmigkeit des Naturlaufs`, `notwendig`, `eben dies`, `Natur`, `Gesetzlichkeit, die`, `Humes`, `unaufheblich`, `abstehen, an denen`, `jeden`, `repräsentieren`, `wird`, `die ein`, `nachzuzeichnen, so`, `vorgezeichnet: es bleibt`, and `bestimmen, wie`.
+
+## 2026-05-19 - Hume, Mathematics, Space-Time, And Number
+
+Created `parts/059-hume-mathematics-space-time-and-number.md` from PDF pages `360-372` / printed pages `340-352`, covering section `I. Die Kritik der mathematischen Erkenntnis.` and stopping before section `II. Die Kritik des Kausalbegriffs.`
+
+What this tranche clarified:
+
+- Hume's criterion of `reine Empfindung` first receives its scientific stress test in mathematics. Mathematics initially seems safe because it concerns ideas rather than existing things, but Hume's own principle makes psychology the judge of mathematics.
+- Geometry becomes internally vulnerable once measured by the sensory minimum. Continuity, infinite divisibility, exact equality, and unconditional universality all disappear if geometry is treated as the science of our `Raumvorstellungen`.
+- Cassirer's point is not that Hume merely criticizes applied geometry. Hume's argument reaches the pure geometrical concepts themselves: lines, triangles, angles, and equality are not given in impressions and therefore become as transcendent as scholastic substances.
+- The space/time analysis sharpens the problem. Hume can deny empty space and time stripped of sensory content, but he cannot reduce order, position, distance, and succession to the mere sum of impressions.
+- The number analysis exposes the strongest limit. If number had to be assembled from separately perceived units, its exactness would collapse into the empirical act of counting; if it is grasped in a single act, Hume has reopened the `pure intellectual perceptions` he rejects.
+
+Structural center:
+
+- The load-bearing movement is from psychology as judge of mathematics to mathematics as exposure of psychology's insufficiency. Hume's pure-sensation criterion can deflate geometry, but it cannot explain the order, relation, function, and unified act that make space, time, and number intelligible.
+
+Routing decision:
+
+- Open `Mathematik / Geometrie / Zahl` as an open Hume-section glossary entry. The section makes mathematics the first explicit field where Hume's criterion breaks against scientific form, and the pressure cannot be held cleanly by `Raum / Zeit`, `Kontinuum / Stetigkeit / Infinitesimal`, or `Wahrheit / Urteil` alone.
+- Update `Erfahrung`, `Wahrheit / Urteil`, `Sinn / Sinneswahrnehmung`, `Sensation / Reflexion`, `Raum / Zeit`, `Kontinuum / Stetigkeit / Infinitesimal`, `Begriff / Wort / Zeichen`, `Phänomen / Erscheinung`, `Existenz / Sein / Ding`, and `Intuition / Anschauung`.
+- Keep `reine Empfindung`, `Psychologie als Richterin`, `Fundament aller menschlichen Erkenntnis`, `sinnliches Minimum`, `allgemeine Gesamterscheinung`, `mathematische Abstrakta`, `the manner or order`, `Lage`, `Grundbeziehung / Grundfunktion`, `Zahlbegriff`, and `reine intellektuelle Perzeptionen` in the close-reading ledger.
+
+Source-language decision:
+
+- The Hume source-language pattern intensified. Several body quotations are Hume passages rendered through Cassirer's German, while several footnotes preserve Hume's English directly.
+- The Draft restores identifiable Hume English-source wording for the foundation-of-knowledge, geometry-standard, `roughly and with some liberty`, five-notes, colored-points, and `pure and intellectual view` passages.
+- Cassirer's exposition remains translated from German. The restoration is limited to clear quotation sites and noted in the part file, continuing the Hume-specific source-language discipline from Part 058.
+
+Re-entry hooks:
+
+- Part 060 should begin on PDF page `373` / printed page `353` with section `II. Die Kritik des Kausalbegriffs.`
+- Test whether the causal section repeats the mathematics pattern: objectivity requires a relation or transition not given as a separate impression.
+- Watch whether `Kausalität`, `Glaube / belief`, `Gewöhnung`, `Wahrscheinlichkeit`, `Assoziation`, `Einbildungskraft`, and `reine Wahrnehmung` earn new surfaces or are absorbed by existing entries.
+- Keep the Hume chapter finding provisional. Mathematics has exposed the insufficiency of pure sensation, but causality should decide whether the chapter center is psychological habit, logical critique, or objectivity under immediate perception.
+
+Decision for now:
+
+- Part 059 passes the same-agent self-review gate for controlled draft status. It gives the first positive answer to Part 058's re-entry test: Hume's criterion of pure sensation cannot survive mathematics without covertly reintroducing relation, order, and intellectual act.
+
+Verification result:
+
+- PDF pages `360-372` were checked against the PDF text layer, layout extraction, and scan/Tesseract output on `_0360` through `_0372`; `_0373` confirms section `II. Die Kritik des Kausalbegriffs.` begins after the stop.
+- The review corrected OCR residue around `Vorstellung, daß`, `überschreitet, das`, `Psychologie als Richterin`, `verlieren`, `Teil`, `Zusammentreffen eine`, `z. B.`, `wahrnehmbaren`, `unbekümmert um`, `begriffliche`, `seltsamer`, `sicht- oder tastbare Raumelemente`, `Lageverhältnis und`, `Bemerkungen die Anschauung`, `erhoben zu`, `einem`, `Einheiten`, Hume's `runs`, `nor`, and Hume's `appealing to`.

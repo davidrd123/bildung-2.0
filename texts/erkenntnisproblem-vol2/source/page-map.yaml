@@ -955,6 +955,27 @@ ranges:
     trust: "high"
     note: "Part 058 begins with `Drittes Kapitel. Hume.`, follows the chapter-opening transition from Berkeley's sign-language to Hume's uniformity problem and radicalized critique of abstraction, and stops before section `I. Die Kritik der mathematischen Erkenntnis.` on printed page 340."
 
+  - slug: "hume-mathematics-space-time-number"
+    label: "Hume: mathematics, space-time, and number"
+    pdf_pages: [360, 372]
+    printed_pages: ["340", "352"]
+    scan_files:
+      - "daserkenntnispro02cassuoft_0360.jp2"
+      - "daserkenntnispro02cassuoft_0361.jp2"
+      - "daserkenntnispro02cassuoft_0362.jp2"
+      - "daserkenntnispro02cassuoft_0363.jp2"
+      - "daserkenntnispro02cassuoft_0364.jp2"
+      - "daserkenntnispro02cassuoft_0365.jp2"
+      - "daserkenntnispro02cassuoft_0366.jp2"
+      - "daserkenntnispro02cassuoft_0367.jp2"
+      - "daserkenntnispro02cassuoft_0368.jp2"
+      - "daserkenntnispro02cassuoft_0369.jp2"
+      - "daserkenntnispro02cassuoft_0370.jp2"
+      - "daserkenntnispro02cassuoft_0371.jp2"
+      - "daserkenntnispro02cassuoft_0372.jp2"
+    trust: "high"
+    note: "Part 059 begins with section `I. Die Kritik der mathematischen Erkenntnis.`, follows Hume's mathematics critique through geometry, equality, space/time, mathematical points, and number, and stops before section `II. Die Kritik des Kausalbegriffs.` on printed page 353."
+
   - slug: "book-vii-start-method"
     label: "Book VII / `Das Problem der Methode` opening"
     pdf_pages: [416, 416]
