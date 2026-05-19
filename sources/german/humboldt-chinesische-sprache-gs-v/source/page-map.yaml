@@ -48,16 +48,16 @@ known_alignments:
     raw_extract: source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-334.txt
     note: "Last page before the second Bhagavad-Gita essay opens."
   - label: grundzuege-opening
-    pdf_page: 373
+    pdf_page: 374
     page_number_json_leaf_num: 376
     printed_page: "364"
-    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-373-485.txt
-    note: "Grundzuege title occurs on a PDF page that begins with the tail of the preceding American-languages fragment."
+    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt
+    note: "Grundzuege title page."
   - label: grundzuege-close
     pdf_page: 485
     page_number_json_leaf_num: 489
     printed_page: "475"
-    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-373-485.txt
+    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt
     note: "Last page of the Grundzuege contents overview; PDF page 486 begins Leitzmann's Entstehungsgeschichte notes."
 
 ranges:
@@ -87,12 +87,12 @@ ranges:
       - "Raw extract is not normalized; check page images/hOCR before quotation."
   - id: grundzuege-des-allgemeinen-sprachtypus
     label: "Grundzuege des allgemeinen Sprachtypus"
-    pdf_pages: "373-485"
+    pdf_pages: "374-485"
     page_number_json_leaf_nums: "376-489"
     printed_pages: "364-475"
-    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-373-485.txt
+    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt
     status: raw_pdf_text_layer
     notes:
       - "Cassirer cites this support text at PSF I p. 102."
-      - "PDF page 373 contains the tail of the preceding American-languages fragment before the Grundzuege title."
+      - "PDF page 486 begins Leitzmann's Entstehungsgeschichte apparatus."
       - "Raw extract is not normalized; check page images/hOCR before quotation."

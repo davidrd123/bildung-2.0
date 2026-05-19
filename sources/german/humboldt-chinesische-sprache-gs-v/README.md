@@ -61,15 +61,10 @@ Tracked raw extracts:
 
 - `source/raw/010-lettre-a-abel-remusat-pdf-264-318.txt`
 - `source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-334.txt`
-- `source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-373-485.txt`
+- `source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt`
 
 The raw text is OCR/PDF-derived and uncorrected. Use page images and hOCR
 before quoting or normalizing.
-
-One boundary caveat: *Grundzuege* begins on the same PDF page as the tail of
-the preceding American-languages fragment. The raw extract starts at PDF page
-373 to preserve the title page; that first page therefore includes a small
-amount of preceding material before the *Grundzuege* title.
 
 ## Why Here
 

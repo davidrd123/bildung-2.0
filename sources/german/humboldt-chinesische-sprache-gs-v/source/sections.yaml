@@ -29,12 +29,12 @@ sections:
   - id: grundzuege-des-allgemeinen-sprachtypus
     witness_id: ia-1906-gs-v
     label: "Grundzuege des allgemeinen Sprachtypus"
-    pdf_pages: "373-485"
+    pdf_pages: "374-485"
     page_number_json_leaf_nums: "376-489"
     printed_pages: "364-475"
-    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-373-485.txt
+    raw_extract: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt
     normalized_extract: null
     status: raw_pdf_text_layer
     notes:
       - "Short theoretical support cited by Cassirer at PSF I p. 102."
-      - "PDF page 373 includes a small amount of preceding material before the Grundzuege title."
+      - "Extract includes the internal contents pages and stops before Leitzmann's Entstehungsgeschichte apparatus."

@@ -79,7 +79,7 @@ Use this routing when moving from Cassirer citations to Humboldt source work:
 | *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen...* | none yet | Pull as GS VI/1 support if deixis/pronoun/adverb pressure becomes active. |
 | *Lettre à Monsieur Abel-Rémusat... langue Chinoise* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed as a GS V witness with raw extract `source/raw/010-lettre-a-abel-remusat-pdf-264-318.txt`. |
 | *Ueber den grammatischen Bau der Chinesischen Sprache* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed with the Abel-Rémusat letter as a GS V Chinese-grammar pair. Raw extract: `source/raw/020-grammatischer-bau-der-chinesischen-sprache-pdf-319-334.txt`. |
-| *Grundzüge des allgemeinen Sprachtypus* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed from the same GS V witness. Raw extract: `source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-373-485.txt`. |
+| *Grundzüge des allgemeinen Sprachtypus* | `sources/german/humboldt-chinesische-sprache-gs-v/` | Landed from the same GS V witness. Raw extract: `source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt`. |
 | *Ueber das vergleichende Sprachstudium...* | none yet | Pull after Kawi and singular/plural distinction are stabilized. |
 | Brief an F. A. Wolf, 16 June 1804 | none yet | Low-volume support source for the chapter I Humboldt opening. |
 | *Ankündigung einer Schrift über die Vaskische Sprache und Nation* | none yet | Minor support source; not a current pull priority. |

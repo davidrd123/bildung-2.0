@@ -43,15 +43,15 @@ witnesses:
         printed_pages: "309-324"
         status: raw_pdf_text_layer
       - id: grundzuege-des-allgemeinen-sprachtypus
-        path: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-373-485.txt
-        pdf_pages: "373-485"
+        path: source/raw/030-grundzuege-des-allgemeinen-sprachtypus-pdf-374-485.txt
+        pdf_pages: "374-485"
         page_number_json_leaf_nums: "376-489"
         printed_pages: "364-475"
         status: raw_pdf_text_layer
     notes:
       - "Cassirer cites the Abel-Remusat letter and the German Chinese grammar essay at PSF I p. 106."
       - "Cassirer cites Grundzuege des allgemeinen Sprachtypus at PSF I p. 102."
-      - "The Grundzuege extract starts on a shared PDF page that also contains the tail of the preceding American-languages fragment."
+      - "The Grundzuege extract starts on the clean title page and stops before Leitzmann's Entstehungsgeschichte notes."
       - "The IA metadata reports imagecount 500, but the original JP2 tar landed with 506 files, indices 0000-0505."
       - "PDF text extraction is usable for raw navigation but remains noisy and unnormalized."
 
