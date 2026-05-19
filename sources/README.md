@@ -39,6 +39,7 @@ When a source line grows beyond one-off encounters but has not yet earned a full
 | File | Language | Triggered By | Source |
 |------|----------|-------------|--------|
 | `greek/diogenes-laertius-vii-165.md` | Greek | Escolios epigraph | Diogenes Laertius, *Lives* VII.165 |
+| `greek/plato-dialogue-pack-cassirer-substrate/README.md` | Greek | Cassirer Greek source-pressure substrate | Plato, bounded dialogue pack from PerseusDL TEI |
 | `latin/extra-ecclesiam.md` | Latin | Escolios §26 | Cyprian / liturgical formula |
 | `german/nietzsche-briefe-iii-281.md` | German | Escolios epigraph | Nietzsche, *Briefe* III.281 |
 | `french/la-rochefoucauld-maximes.md` | French | Escolios §10, §25, §84, §96 | La Rochefoucauld, *Maximes* |

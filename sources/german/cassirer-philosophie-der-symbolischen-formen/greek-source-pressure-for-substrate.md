@@ -80,6 +80,13 @@ Working implication: if a Plato substrate is built, do not start with a
 whole-Plato ambition. Start with this dialogue pack and keep each dialogue
 directly searchable.
 
+Local substrate now exists at:
+
+- `../../../greek/plato-dialogue-pack-cassirer-substrate/README.md`
+
+It contains PerseusDL TEI XML and generated plain-text search surfaces for the
+dialogue pack listed above.
+
 ### Aristotle Core Shelf
 
 Aristotle is broad and persistent rather than concentrated in one citation
