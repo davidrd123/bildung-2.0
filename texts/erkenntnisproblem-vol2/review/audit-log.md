@@ -249,3 +249,154 @@ The chapter now shows:
 - **Grade-5 in-body marking** now demonstrated four times: Part 055 fn 2 (`{some knowledge or notion}`); Part 056 fn 11 (`(abstract from sensible matters)`); Part 056 fn 13 (Greek `αἴτιον / ἀρχή`); Part 056 fn 16 (Greek phrase). The convention is reproducing, which is good.
 - **Grade-2 paraphrase-as-quotation** remains the residual gap: Part 053 fn 8 (Principles §5), Part 055 fn 1 (Principles §2). Both received post-hoc Notes flags. No grade-2 instance was identified in Part 056's audited passages — the Cassirer-step issues in fn 9 are diction-level (grade 1) rather than structural (grade 2).
 - **Multi-link Latin risk** at Part 056 fn 23 (De motu §71-72) is new in form: it's the first Berkeley body block-quote in the chapter where the original is Latin rather than English. Three-link chain (Latin → Cassirer German → Draft English) without any Latin preservation. Future De motu / Alciphron / Siris citations should be flagged for clause-level Latin checks.
+
+## 2026-05-18 — Session wrap (pre-compact handoff)
+
+### What was audited this session
+
+Five sequential Berkeley-chapter parts under the content-fidelity-review standard: **Parts 052, 053, 054, 055, 056**. Each got a clause-level pass on at least one Berkeley source-language quotation, raw-OCR verification of marginal captions, page-bridge stitching check, and paraphrase-signal grep. Audit findings persisted as per-part entries above.
+
+Codex ran producer-side self-probes on Parts 055 and 056 in parallel; reviewer-side complement sections were appended for each. Mitigation actions were taken inside several parts during the session (Part 052 Draft fn 7 + Source-language note flagging TVV §43 compression; Part 053 Draft fn 8 + Source-language note flagging Principles §5 paraphrase; Part 055 Draft fn 1 flagging §2 as Cassirer rendering).
+
+### What emerged as a pattern
+
+The chapter's source-language mitigation now has a stable five-grade taxonomy (table at the end of the Part 055 entry; refined at the end of Part 056). Strongest: **grade-5 in-body curly-brace/parenthetical preservation of source English or Greek** (demonstrated 4× across Parts 055-056). Weakest: **grade-2 paraphrase-as-quotation** (Part 053 fn 8, Part 055 fn 1) — present only twice and both received post-hoc Notes flags.
+
+The verbatim-English-in-footnote convention is doing most of the load-bearing work. Per-part verbatim coverage: P052 ~5/9; P053 8/21; P054 6/17; P055 4/7; P056 8/24. The gap is body block-quotes with citation-only footnotes, especially where Berkeley's original is Latin (P056 fn 23, De motu).
+
+### Open carry-forwards
+
+- **Pre-existing carry-forwards** (Parts 044-048 retrospective): Part 047 footnote-8 callout anchor missing at "ein dunkler Raum" / Kaleidoskop sentence; Part 048 paragraph-break mis-segmentation at PDF 259→260. Both diagnosed, neither fixed yet.
+- **Unaudited at content-fidelity standard**: Parts 046, 047, 048, 049, 050, 051. Earlier structural-only reviews still stand.
+- **Part 053 carry-forward audit sites**: fn 2 anchor (Principles §44), fn 10 anchor (Commonplace I, 65 — "trees in the garden"). Not audited clause-by-clause.
+- **Part 056 highest-value carry-forward**: fn 23 anchor (De motu §71-72) against Berkeley's Latin original. First Latin-source Berkeley quote in the chapter; three-link Latin → German → English chain with no Latin preservation. Worth a dedicated clause-level pass.
+- **Part 055 mitigation suggestion** (not actioned): apply grade-5 brace marking at Principles §2 body quote — `{spirit}` after `Bewußtsein`, `{willing}` after `begehrt`. Currently Draft Footnote 1 has a generic flag only.
+
+### Standing watchpoints
+
+- **Cassirer-on-English-sources multi-link risk** continues across the chapter; convention is "preserve verbatim English in German Footnotes block" but it leaves gaps for paraphrases-as-quotations (grade 2) and Latin-source body quotes.
+- **Producer-side discipline check** worth adding to the standard: for any body block-quote of a known source-language quotation, the producer should choose grade 3 (ellipsis selection), grade 4 (verbatim source in footnote + Notes flag), or grade 5 (in-body parenthetical marking) *before* commit. Post-hoc flags are repair, not first-pass discipline.
+
+### Next step
+
+**Part 057** picks up at PDF 347 / printed 327 partial with the Collier transition (`Die metaphysische Entwicklung des Idealismus...`). Per Part 056 re-entry hooks: treat Collier as contrast/prolongation tranche before writing the Berkeley chapter-close note. Watch whether Collier shifts the finding from divine sign-language to logical antinomies of transcendence (Außenwelt, absolute Materie, primäre/sekundäre Qualitäten, Raum, Antinomien des Unendlichen, Leibniz-Clarke bridge).
+
+### Durable artifacts (safe to compact context after this)
+
+- `texts/erkenntnisproblem-vol2/review/audit-log.md` — this file; all per-part findings, mitigation grade table, and session wrap
+- `texts/erkenntnisproblem-vol2/review/content-fidelity-review.md` — the reviewer-side standard
+- `texts/erkenntnisproblem-vol2/review-checklist.md` — producer-side checklist (pre-existing)
+- Per-part Draft Footnote and Source-language note flags inside Parts 052, 053, 055 (mitigation actions taken this session)
+
+## 2026-05-18 — Part 058 (Hume opener) content-fidelity review
+
+**Scope audited:** `parts/058-hume-experience-uniformity-and-abstraction.md` against `source/normalized/058-...txt` and `source/raw/058-...txt`. PDF pages 355-359 / printed 335-339. Two long body block-quotes (Berkeley `Principles` §107; Hume `Treatise` I.I.VII via Lipps's German translation). Five footnotes total: fn 1 citation-only (TVV §26); fn 2 English-source (Principles §107); fn 3 English-source double-mediated (Hume via Lipps); fn 4 citation-only (Meinong); fn 5 citation-only (Principles Intro §12).
+
+**User context:** Part 057 (Collier transition) has been drafted and committed, but it has not yet received the content-fidelity audit that had been projected in the prior session-wrap. Part 057 remains an open audit carry-forward before any Berkeley chapter-close synthesis.
+
+### Source-language fidelity gate — fn 2 (Berkeley Principles §107)
+
+**Berkeley English (original §107):**
+> Fourthly, By a diligent observation of the phenomena within our view, we may discover the general laws of nature, and from them deduce the other phenomena; I do not say demonstrate, for all deductions of that kind depend on a supposition that the Author of nature always operates uniformly, and in a constant observance of those rules we take for principles: which we cannot evidently know.
+
+**Cassirer German (body):**
+> Wir können durch sorgfältige Beobachtung der Phänomene, die in unseren Gesichtskreis fallen, zwar die allgemeinen Gesetze der Natur erkennen und aus ihnen die besonderen Erscheinungen ableiten, nicht aber sie als notwendig erweisen. Denn alle Deduktionen dieser Art sind abhängig von der Voraussetzung, daß der Urheber der Natur stets gleichmäßig handelt und die Regeln, die wir als Prinzipien zugrunde gelegt haben, beständig befolgt: eben dies aber können wir niemals mit Evidenz erkennen.
+
+**Draft English (Part 058 body):** verbatim Berkeley restoration with the leading "Fourthly," dropped (Cassirer also drops it).
+
+Cassirer-step moves identified:
+- "I do not say demonstrate" → "nicht aber sie als notwendig erweisen" (Cassirer expands Berkeley's terse `demonstrate` into the logical gloss `prove as necessary`). Without grade-4 restoration this would have been a grade-1 diction smoothing.
+- "which we cannot evidently know" → "eben dies aber können wir niemals mit Evidenz erkennen" (Cassirer inserts intensifier `niemals` + connective `eben dies aber`). Same: would have been minor gloss-creep had it been forward-translated.
+- "the other phenomena" → "die besonderen Erscheinungen" (slight semantic shift: `other` → `particular`).
+
+Draft mitigation grade: **4 (verbatim source-language restoration in body + Footnote 2 flag).** Footnote 2 text: "The Draft uses the English-source wording in normalized spelling where Cassirer quotes Berkeley through German." This is the correct flag. Verbatim restoration neutralizes all three Cassirer-step diction moves.
+
+### Source-language fidelity gate — fn 3 (Hume Treatise I.I.VII — double-mediated)
+
+This is the highest-risk site in the part because Cassirer's own footnote names the double mediation: `Ich benutze im Text vielfach die vortreffliche von Lipps herausgegebene Übersetzung`. Chain: **Hume English → Lipps German translation (1904) → Cassirer's adapted German body.**
+
+**Hume English (Treatise I.I.VII original):**
+> A great philosopher has disputed the receiv'd opinion in this particular, and has asserted, that all general ideas are nothing but particular ones, annex'd to a certain term, which gives them a more extensive signification, and makes them recall upon occasion other individuals, which are similar to them. As I look upon this to be one of the greatest and most valuable discoveries that has been made of late years in the republic of letters, I shall here endeavour to confirm it by some arguments, which I hope will put it beyond all doubt and controversy.
+
+**Cassirer/Lipps German (body):**
+> Ein großer Philosoph hat die herkömmliche Meinung in diesem Punkte bekämpft und behauptet, alle allgemeinen Vorstellungen seien nichts als individuelle Vorstellungen, verknüpft mit einem bestimmten Namen, der ihnen eine umfassendere Bedeutung gebe und bewirke, daß im gegebenen Falle andere ähnliche Einzelvorstellungen in die Erinnerung gerufen werden. Ich sehe in dieser Einsicht eine der größten und schätzenswertesten Entdeckungen, die in den letzten Jahren im Reiche der Wissenschaften gemacht worden sind. Ich will aber versuchen, sie noch durch einige Argumente zu bestätigen, die sie, wie ich hoffe, über jeden Zweifel und jede Anfehdung erheben sollen.
+
+**Draft English (Part 058 body):** verbatim Hume restoration in normalized spelling.
+
+Lipps-step / Cassirer-step moves identified (all neutralized by grade-4 restoration):
+- "term" → "Namen" (Lipps renders `term` as `name`)
+- "republic of letters" → "Reiche der Wissenschaften" (Lipps modernizes Hume's 18th-c. literary register to `realm of sciences`)
+- "controversy" → "Anfehdung" (Lipps uses archaic German `attack/feud`)
+- "other individuals" → "Einzelvorstellungen" (Lipps adds `Vorstellungen`, making Hume's nominalism slightly more representationalist)
+- Connective additions: "aber", "noch" (Lipps softening, not in Hume)
+
+Draft mitigation grade: **4 (verbatim source-language restoration in body + Footnote 3 flag).** The double-mediation makes verbatim restoration not just defensible but mandatory. Footnote 3 explicitly names the Lipps mediation.
+
+**Mitigation observation:** This is the strongest case in the chapter so far for **grade-5 in-body brace marking** (per Part 055 fn 2 precedent). Candidates: `{term}`, `{republic of letters}`, `{controversy}`, `{other individuals}`. Reader of body without footnote currently cannot tell that two German layers (Lipps + Cassirer) have been bypassed. Not actioned this pass.
+
+### Body density gate — paragraph segmentation and OCR cleanup
+
+**Marginal captions (confirmed in raw OCR, excluded from normalized body per project convention, named in Notes block):**
+- Raw OCR line 70: `Die "Oleichförmigkeü der Natur**. 337` → caption `Die "Gleichförmigkeit der Natur".` at top of printed page 337.
+- Raw OCR line 149: `Die Kritik der "abstrakten" Begriffe. 339` at top of printed page 339.
+
+Both correctly identified in the Notes "Marginal-caption note." The two captions confirm the two-arc structure of the opener (uniformity problem → nominalism radicalization).
+
+**Page-bridge stitching:** Five page boundaries (355→356, 356→357, 357→358, 358→359). Mid-sentence cross-page breaks at 355→356 ("Wäre / das Ganze..."), 356→357 ("Beweis ... in den / Erscheinungen..."), 357→358 ("über die Schätzung unseres Wissens / [n 22 fascicle mark] / entscheidet."), 358→359 ("Allgemeinen' in / einem abstrakten Vorstellungsbilde"). All stitched cleanly in body.
+
+**OCR residue corrections (verified against raw OCR):** "Einzelempfindungenistes" → "Einzelempfindungen ist"; "Vorstellungszusammenhangzustiften" → "Vorstellungszusammenhang zu stiften"; "desNaturlaufs" → "des Naturlaufs"; "notwendig" rejoined; "abstehen,andenen" → "abstehen, an denen"; "jedeii" → "jeden"; "wdrd" → "wird"; "nachzuzeichnen,so" → "nachzuzeichnen, so"; "vorgezeichnet:esbleibt" → "vorgezeichnet: es bleibt"; "bestimmen,wie" → "bestimmen, wie"; "Gesetzlichkeit, di€" → "Gesetzlichkeit, die"; emphasis-spaced `H u m e s` collapsed to `Humes`. Notes "Verification result" lists all of these accurately.
+
+**Paragraph segmentation:** Draft has 5 German paragraphs. Breaks fall at: end of Berkeley §107 quote → "So sehen wir..."; end of "gefügig macht" → "So führt..."; end of "Philosophie" → "Der Vergleich..."; end of "zuweisen können" → "Der Kampf gegen jegliche Form...". Raw OCR does not preserve printed indentation reliably, so I cannot independently verify each break against the print. Topic shifts at each break are coherent; no obvious mis-segmentation. **Not a clean confirmation** — would need JP2 visual inspection.
+
+### Compression / gloss-creep gate — clause-level checks
+
+**Paragraph 4 ("Der Vergleich zwischen Berkeley und Hume..."), eight sentences sampled:**
+
+All eight sentences tracked clause-for-clause with English correspondents. Specific clauses:
+- `festzubannen` → "bind us fast" — preserves spell-binding connotation ✓
+- `unaufheblich` → "uneliminable" — loses Hegelian `Aufhebung` resonance but defensible ✓
+- `zufällig und äußerlich mit ihm verbinden` → "happen to connect with it externally" — `zufällig` collapses into `happen to` (minor idiom reduction, no semantic loss)
+- `wieder zurückzutun` → "undo" — tight
+
+No silent omissions, no synthesis material.
+
+**Paragraph 5 ("Der Kampf gegen jegliche Form..."), sampled around the Hume quote:**
+
+One **minor gloss-creep flag** at the `hier... dort` construction:
+
+German: "wenn es sich hier darum handelt, zum Zweck der allgemeinen Verständigung die psychischen Erlebnisse nur in ihren groben und äußeren Umrissen nachzuzeichnen, so soll dort die konkrete Fülle des Bewußtseins ausgeschöpft werden."
+
+Draft: "where language is concerned with tracing psychic experiences only in their coarse and external outlines for the purpose of general communication, cognition is supposed to exhaust the concrete fullness of consciousness."
+
+The Draft makes explicit the subjects `language` and `cognition` that Cassirer leaves implicit (just `hier... dort`). The interpretation is correct (recoverable from the prior `Das Ziel der Erkenntnis steht zu dem Verfahren, das die Sprache notgedrungen einschlagen muß`), but the form is smoothed from German indexical construction to English explicit naming. Borderline gloss-creep; defensible idiomatization. Worth recording, not requiring redo.
+
+**Asymmetry observation:** The body renders `allgemeine Vorstellungen` as `general representations` (Cassirer's voice preserved) while the Hume quote restores `general ideas` (Hume's voice restored). This is the correct policy but the Notes Translation note does not flag the asymmetry. A reader without the Footnote may not realize the technical term Hume/Berkeley were debating is "general ideas," not "general representations." Minor apparatus tightening opportunity, not a content error.
+
+### Paraphrase-signal grep
+
+```
+rg -n -i "Cassirer (argues|reads|holds|says)|Hume\b.{0,30}(point|view|argument)|Berkeley\b.{0,30}(point|view|argument)|The argument is|What this means|The thrust|The key move" parts/058-...md
+```
+
+Result: **CLEAN.** No paraphrase signals inside the Draft block.
+
+### Verdict
+
+**structural clean / content clean with one minor gloss-creep flag (P5 `hier... dort` smoothing) and one apparatus-tightening note (P5 `general representations` vs. `general ideas` asymmetry not flagged in Notes).**
+
+Both block-quotes (fn 2 Berkeley, fn 3 Hume) handled at grade-4 mitigation correctly; the Hume case is the strongest argument in the chapter for promoting to grade-5 in-body brace marking given the double-mediation through Lipps. Per-part footnote verbatim coverage: 2 of 5 footnotes carry verbatim English source (the two block-quote anchors); the other three are citation-only references where verbatim apparatus is not required.
+
+### Updated mitigation taxonomy (post-Part 058)
+
+The Hume chapter introduces a new sub-pattern beneath grade 4: **double-mediation through a known translator** (Lipps in this case). When Cassirer himself names his German source, the verbatim restoration becomes mandatory rather than discretionary; the Cassirer-step risk multiplies through Lipps's smoothing as well as Cassirer's. Future Hume-chapter parts should treat any block-quote covered by the Lipps caveat as a grade-4-minimum site, with grade-5 brace marking strongly encouraged.
+
+### Open carry-forwards (after Part 058)
+
+- **Part 057 (Collier transition)** drafted and committed, but not yet audited at content-fidelity tier. PDF 347 / printed 327 partial; should be revisited before the Berkeley chapter-close synthesis.
+- **Part 058 fn 3 grade-5 candidates** (optional mitigation): `{term}`, `{republic of letters}`, `{controversy}` could be brace-marked in body to make the Lipps→Cassirer double-mediation in-body-visible.
+- **Part 058 Notes apparatus tightening** actioned post-review: the part Notes and journal now flag the deliberate `allgemeine Vorstellungen` (body) vs. `general ideas` (quote) asymmetry and record named translator mediation as a grade-4-minimum source-language site.
+- Pre-existing carry-forwards from prior session (Parts 044-051 unaudited at content-fidelity; Part 053 fns 2/10; Part 056 fn 23 De motu Latin) remain unchanged.
+
+### Next step
+
+**Part 059** picks up at PDF 360 / printed 340 with section `I. Die Kritik der mathematischen Erkenntnis.` Per Part 058 re-entry hooks: this is where Hume's criterion of pure sensation meets mathematics — first test case for whether the impressionist criterion breaks against a non-empirical science. Watch `Mathematik`, `Ideen`, `Eindrücke`, `Adäquatheit`, `Psychologie als Richterin`, `Fundament aller menschlichen Erkenntnis`.

@@ -2460,6 +2460,7 @@ Source-language decision:
 
 - The Hume opener begins the chapter's English-source problem. Cassirer quotes Berkeley and Hume through German, noting his use of Lipps for Hume. The Draft restores identifiable Berkeley `Principles` § 107 and Hume `Treatise` I.I.VII English-source wording in normalized spelling rather than re-translating Cassirer's German back into English.
 - This is recorded explicitly in the part Notes because it changes the Berkeley-chapter mitigation pattern from footnote-only source preservation into body-level restoration where the English source wording is certain.
+- Post-review tightening: Hume's `Treatise` quotation is double-mediated through Lipps's German translation, named by Cassirer. Future Hume parts should treat named translator mediation as a grade-4-minimum source-language site, with grade-5 brace marking considered when the mediation changes technical terms. Part 058 also now flags the deliberate asymmetry between Cassirer's `allgemeine Vorstellungen` / `general representations` and Hume's restored `general ideas`.
 
 Re-entry hooks:
 
