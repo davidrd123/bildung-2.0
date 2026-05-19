@@ -1,0 +1,155 @@
+witnesses:
+  - id: "ia-1876-pott-band1"
+    role: "current_primary_witness"
+    title: "Ueber die Verschiedenheit des menschlichen Sprachbaues und ihren Einfluss auf die geistige Entwickelung des Menschengeschlechts"
+    author: "Wilhelm von Humboldt"
+    editor: "A. F. Pott"
+    imprint: "Berlin: S. Calvary & Co., 1876"
+    volume: "Erster Band"
+    coverage_status: "apparatus_volume_only_pending_companion_volume"
+    coverage_note: "Initial mapping shows this Band I witness contains title matter and Pott's introduction, Wilhelm von Humboldt und die Sprachwissenschaft, through printed page CCCCXXI. Humboldt's main Sprachbau text was not found as running body text in this volume."
+    archive_id: "berdieverschiede01humb"
+    archive_url: "https://archive.org/details/berdieverschiede01humb"
+    local_pdf_source: "/Users/daviddickinson/Downloads/berdieverschiede01humb.pdf"
+    local_original_jp2_tar_source: "/Users/daviddickinson/Downloads/berdieverschiede01humb_orig_jp2.tar"
+    local_processed_jp2_zip_source: null
+    local_hocr_source: null
+    local_chocr_source: null
+    local_full_text_source: null
+    local_ocr_search_text_source: null
+    local_ocr_page_index_source: null
+    local_page_numbers_json_source: null
+    imported_pdf: "source/local/ueber-die-verschiedenheit-des-menschlichen-sprachbaues-band1-1876.pdf"
+    imported_original_jp2_dir: "source/page-images/jp2/"
+    imported_processed_jp2_dir: null
+    imported_hocr: null
+    imported_chocr: null
+    imported_full_text: null
+    imported_ocr_search_text: null
+    imported_ocr_page_index: null
+    imported_page_numbers_json: null
+    jp2_prefix: "berdieverschiede01humb_orig_"
+    pdf_pages: 436
+    jp2_files: 438
+    jp2_sequence:
+      min_index: 0
+      max_index: 437
+      gaps: []
+    jp2_image_geometry:
+      width_px: 6000
+      height_px: 4000
+      note: "Original JP2s are full landscape camera-frame images of the open book, not cropped page-only images."
+    notes: |
+      The IA download panel exposes PDF, FULL TEXT, HOCR, CHOCR, OCR SEARCH
+      TEXT, OCR PAGE INDEX, PAGE NUMBERS JSON, SINGLE PAGE ORIGINAL JP2 TAR,
+      and SINGLE PAGE PROCESSED JP2 ZIP. Prefer the original JP2 images as the
+      visual witness. Treat PDF/full/search text as locating aids until checked
+      against page images. Inspect HOCR/CHOCR page alignment before promoting
+      extracted text into source/raw. A first raw Tesseract pass over the full
+      original JP2 frame was not usable because the book page is rotated inside
+      a larger camera image; OCR needs IA sidecars or a cropped/rotated image
+      workflow.
+      Initial structural mapping shows PDF page N corresponds to JP2 leaf N
+      for PDF pages 1-436, with JP2 0000 and 0437 as archive frames outside
+      the PDF page sequence.
+  - id: "ia-1876-pott-band2"
+    role: "primary_humboldt_text_witness"
+    title: "Ueber die Verschiedenheit des menschlichen Sprachbaues und ihren Einfluss auf die geistige Entwickelung des Menschengeschlechts"
+    author: "Wilhelm von Humboldt"
+    editor: "A. F. Pott"
+    imprint: "Berlin: S. Calvary & Co., 1876"
+    volume: "Zweiter Band"
+    coverage_status: "primary_humboldt_text_landed"
+    coverage_note: "Volume 2 begins Humboldt's running text at PDF page 7 / JP2 leaf 0007, printed page 1. The first mapped raw extract covers Section 1, printed pages 1-18."
+    archive_id: "berdieverschiede02humb"
+    archive_url: "https://archive.org/details/berdieverschiede02humb"
+    commons_url: "https://commons.ptsem.edu/id/berdieverschiede02humb"
+    local_pdf_source: "/Users/daviddickinson/Downloads/berdieverschiede02humb.pdf"
+    local_original_jp2_tar_source: "/Users/daviddickinson/Downloads/berdieverschiede02humb_orig_jp2.tar"
+    local_processed_jp2_zip_source: null
+    local_hocr_source: "/Users/daviddickinson/Downloads/berdieverschiede02humb_hocr.html"
+    local_chocr_source: null
+    local_full_text_source: null
+    local_ocr_search_text_source: "/Users/daviddickinson/Downloads/berdieverschiede02humb_hocr_searchtext.txt.gz"
+    local_ocr_page_index_source: "/Users/daviddickinson/Downloads/berdieverschiede02humb_hocr_pageindex.json.gz"
+    local_page_numbers_json_source: "/Users/daviddickinson/Downloads/berdieverschiede02humb_page_numbers.json"
+    imported_pdf: "source/local/berdieverschiede02humb.pdf"
+    imported_original_jp2_dir: "source/page-images/jp2/"
+    imported_processed_jp2_dir: null
+    imported_hocr: "source/local/berdieverschiede02humb_hocr.html"
+    imported_chocr: null
+    imported_full_text: null
+    imported_ocr_search_text: "source/local/berdieverschiede02humb_hocr_searchtext.txt"
+    imported_ocr_search_text_gz: "source/local/berdieverschiede02humb_hocr_searchtext.txt.gz"
+    imported_ocr_page_index: "source/local/berdieverschiede02humb_hocr_pageindex.json"
+    imported_ocr_page_index_gz: "source/local/berdieverschiede02humb_hocr_pageindex.json.gz"
+    imported_page_numbers_json: "source/local/berdieverschiede02humb_page_numbers.json"
+    jp2_prefix: "berdieverschiede02humb_orig_"
+    pdf_pages: 556
+    jp2_files: 558
+    jp2_sequence:
+      min_index: 0
+      max_index: 557
+      gaps: []
+    jp2_image_geometry:
+      width_px: 6000
+      height_px: 4000
+      note: "Original JP2s are full landscape camera-frame images of the open book, not cropped page-only images."
+    page_number_index:
+      pages: 556
+      first_numbered_leaf: 8
+      first_numbered_page: "2"
+      inferred_first_text_leaf: 7
+      inferred_first_text_printed_page: "1"
+      last_numbered_leaf: 550
+      last_numbered_page: "544"
+    raw_extracts:
+      - id: "band2-section-01"
+        path: "source/raw/001-band2-section-01-malayischer-stamm-pdf-007-024.txt"
+        pdf_pages: "7-24"
+        jp2_leaf_indexes: "0007-0024"
+        printed_pages: "1-18"
+        status: "raw_pdf_text_layer"
+      - id: "band2-section-08"
+        path: "source/raw/008-band2-section-08-form-der-sprachen-pdf-060-068.txt"
+        pdf_pages: "60-68"
+        jp2_leaf_indexes: "0060-0068"
+        printed_pages: "54-62"
+        status: "raw_pdf_text_layer"
+    notes: |
+      Volume 2 is the primary Humboldt text witness for the current source
+      task. The PDF text layer is usable for raw extraction but remains noisy:
+      the section sign can appear as &, 8, S, or $, and old spelling/line
+      breaks remain unnormalized. Use JP2 images and HOCR/page-number sidecars
+      for alignment before normalization.
+
+companion_volume_candidates:
+  - id: "ia-1876-pott-band2"
+    status: "landed_as_witness"
+    archive_id: "berdieverschiede02humb"
+    archive_url: "https://archive.org/details/berdieverschiede02humb"
+    commons_url: "https://commons.ptsem.edu/id/berdieverschiede02humb"
+    volume: "v.2"
+    reported_pages: 558
+    reported_item_size: "1.1G"
+    note: "Internet Archive metadata identifies this as Volume 2 of the same 1876 S. Calvary & Co. edition. It is now represented above as witness ia-1876-pott-band2."
+
+witness_policy:
+  visual_authority: "Use original single-page JP2 images as the preferred visual witness once they land; keep the PDF as a secondary visual check."
+  ocr_priority:
+    - "Inspect HOCR/CHOCR first for page-level OCR and layout evidence."
+    - "Use FULL TEXT and OCR SEARCH TEXT for search and orientation only."
+    - "Use local Tesseract OCR on JP2 samples when IA OCR is missing, misaligned, or too noisy."
+  mapping_policy:
+    - "Count JP2 files and detect sequence gaps before deriving page offsets."
+    - "Anchor physical leaves to printed pages from visible page images."
+    - "Record calculated offsets as provisional until several anchors agree."
+  coverage_policy:
+    - "Do not promote Band I extracts as Humboldt primary text unless a bounded check proves the passage is Humboldt's own wording."
+    - "Use Band I for Pott's reception, apparatus, and edition framing."
+    - "Locate the companion volume before beginning Humboldt main-text extraction."
+
+git_policy:
+  ignored_binary_dirs:
+    - "source/local/"
+    - "source/page-images/"

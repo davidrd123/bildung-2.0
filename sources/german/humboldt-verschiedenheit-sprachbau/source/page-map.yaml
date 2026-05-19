@@ -1,0 +1,282 @@
+source:
+  work: "Ueber die Verschiedenheit des menschlichen Sprachbaues und ihren Einfluss auf die geistige Entwickelung des Menschengeschlechts"
+  author: "Wilhelm von Humboldt"
+  edition: "Berlin: S. Calvary & Co., 1876; edited with notes and introduction by A. F. Pott; Erster Band"
+  archive_identifier: "berdieverschiede01humb"
+  archive_url: "https://archive.org/details/berdieverschiede01humb"
+  local_pdf: "source/local/ueber-die-verschiedenheit-des-menschlichen-sprachbaues-band1-1876.pdf"
+  page_images_jp2: "source/page-images/jp2/"
+  pdf_pages: 436
+  jp2_files: 438
+  status: "volume2_landed_first_raw_extract_created"
+  coverage_note: "Band I contains title matter and A. F. Pott's introduction through printed page CCCCXXI; Humboldt's main Sprachbau text is not present as running body text in the checked range."
+  volumes:
+    - id: "ia-1876-pott-band1"
+      volume: "Erster Band"
+      role: "pott_apparatus"
+      pdf: "source/local/ueber-die-verschiedenheit-des-menschlichen-sprachbaues-band1-1876.pdf"
+      jp2_prefix: "berdieverschiede01humb_orig_"
+      pdf_pages: 436
+      jp2_files: 438
+    - id: "ia-1876-pott-band2"
+      volume: "Zweiter Band"
+      role: "primary_humboldt_text"
+      pdf: "source/local/berdieverschiede02humb.pdf"
+      jp2_prefix: "berdieverschiede02humb_orig_"
+      pdf_pages: 556
+      jp2_files: 558
+
+witness:
+  id: "ia-1876-pott-band1"
+  preferred_visual: "source/page-images/jp2/"
+  secondary_visual: "source/local/ueber-die-verschiedenheit-des-menschlichen-sprachbaues-band1-1876.pdf"
+  jp2_prefix: "berdieverschiede01humb_orig_"
+  jp2_sequence:
+    count: 438
+    min_index: 0
+    max_index: 437
+    gaps: []
+  ocr_sidecars:
+    hocr: null
+    chocr: null
+    full_text: null
+    ocr_search_text: null
+    ocr_page_index: null
+    page_numbers_json: null
+
+leaf_numbering:
+  note: "Initial visual checks show PDF page N corresponds to JP2 leaf N for PDF pages 1-436. JP2 leaf 0000 is an archive calibration frame before the PDF sequence; JP2 leaf 0437 is a terminal archive frame after the PDF sequence."
+  image_note: "Original JP2 files are 6000x4000 landscape camera-frame images. Raw OCR over the whole image is noisy; crop/rotate or use IA OCR sidecars before text promotion."
+  calculated_offsets:
+    - pdf_pages: "1-436"
+      jp2_leaf_indexes: "0001-0436"
+      formula: "jp2_leaf = pdf_page"
+      trust: "high"
+      evidence: "Verified visually at PDF/JP2 1, 8, 20, 431, and 436."
+    - jp2_leaf_indexes: "0000,0437"
+      pdf_pages: null
+      trust: "high"
+      evidence: "Archive calibration/terminal frames visible in JP2 montage and absent from PDF page sequence."
+  anchor_policy:
+    - "Confirm the title pages and Pott introduction before body-text extraction."
+    - "Record both scan leaf and printed page where both can be seen."
+    - "Mark any calculated offset with trust and caveats."
+
+known_alignments:
+  - id: "front-cover"
+    jp2_leaf: 1
+    pdf_page: 1
+    printed_page: null
+    content: "Front cover."
+    trust: "high"
+    note: "PDF page 1 visually matches JP2 leaf 0001."
+  - id: "pott-title-page"
+    jp2_leaf: 8
+    pdf_page: 8
+    printed_page: null
+    content: "Title page: Wilhelm von Humboldt und die Sprachwissenschaft, von A. F. Pott."
+    trust: "high"
+    note: "Verified visually against JP2 leaf 0008 and PDF text extract."
+  - id: "edition-title-page"
+    jp2_leaf: 9
+    pdf_page: 9
+    printed_page: null
+    content: "Edition title page for Ueber die Verschiedenheit des menschlichen Sprachbaues; includes Pott's introduction and notes."
+    trust: "high"
+    note: "Verified visually in JP2 front montage and PDF text extract."
+  - id: "pott-introduction-title"
+    jp2_leaf: 11
+    pdf_page: 11
+    printed_page: null
+    content: "Section title: Wilhelm von Humboldt und die Sprachwissenschaft, von A. F. Pott."
+    trust: "high"
+    note: "PDF text layer identifies this page as Pott's title page."
+  - id: "pott-introduction-opening"
+    jp2_leaf: 13
+    pdf_page: 13
+    printed_page: "I"
+    content: "Opening of Pott's introduction."
+    trust: "high"
+    note: "PDF text layer begins the roman-numbered introduction here."
+  - id: "pott-introduction-page-x"
+    jp2_leaf: 20
+    pdf_page: 20
+    printed_page: "X"
+    content: "Pott introduction page headed Wann, Wenn; Dann, Denn."
+    trust: "high"
+    note: "Verified visually against JP2 leaf 0020."
+  - id: "pott-introduction-close"
+    jp2_leaf: 431
+    pdf_page: 431
+    printed_page: "CCCCXXI"
+    content: "Close of Pott's introduction, headed Schluss."
+    trust: "high"
+    note: "PDF text layer and JP2 back montage agree this is the final text page."
+  - id: "back-cover"
+    jp2_leaf: 436
+    pdf_page: 436
+    printed_page: null
+    content: "Back cover."
+    trust: "high"
+    note: "PDF page 436 visually matches JP2 leaf 0436."
+
+ranges:
+  - id: "archive-extra-front"
+    jp2_leaf_indexes: "0000"
+    pdf_pages: null
+    printed_pages: null
+    content: "Archive calibration frame."
+    trust: "high"
+  - id: "front-matter"
+    jp2_leaf_indexes: "0001-0012"
+    pdf_pages: "1-12"
+    printed_pages: null
+    content: "Cover, blanks, Pott title page, edition title page, epigraph, and Pott introduction title page."
+    trust: "high"
+  - id: "pott-introduction"
+    jp2_leaf_indexes: "0013-0431"
+    pdf_pages: "13-431"
+    printed_pages: "I-CCCCXXI"
+    content: "A. F. Pott, Wilhelm von Humboldt und die Sprachwissenschaft."
+    trust: "high"
+    note: "This is apparatus/reception material, not Humboldt's main Sprachbau text."
+  - id: "end-matter"
+    jp2_leaf_indexes: "0432-0436"
+    pdf_pages: "432-436"
+    printed_pages: null
+    content: "Blank leaves, library slip, and back cover."
+    trust: "high"
+  - id: "archive-extra-back"
+    jp2_leaf_indexes: "0437"
+    pdf_pages: null
+    printed_pages: null
+    content: "Terminal archive barcode/calibration frame."
+    trust: "high"
+
+volume2:
+  witness_id: "ia-1876-pott-band2"
+  local_pdf: "source/local/berdieverschiede02humb.pdf"
+  page_images_jp2: "source/page-images/jp2/"
+  jp2_prefix: "berdieverschiede02humb_orig_"
+  pdf_pages: 556
+  jp2_files: 558
+  jp2_sequence:
+    count: 558
+    min_index: 0
+    max_index: 557
+    gaps: []
+  ocr_sidecars:
+    hocr: "source/local/berdieverschiede02humb_hocr.html"
+    chocr: null
+    full_text: null
+    ocr_search_text: "source/local/berdieverschiede02humb_hocr_searchtext.txt"
+    ocr_page_index: "source/local/berdieverschiede02humb_hocr_pageindex.json"
+    page_numbers_json: "source/local/berdieverschiede02humb_page_numbers.json"
+  leaf_numbering:
+    note: "Initial checks show PDF page N corresponds to JP2 leaf N for PDF pages 1-556. JP2 leaf 0000 is an archive calibration frame before the PDF sequence; JP2 leaf 0557 is a terminal archive frame after the PDF sequence."
+    page_number_json:
+      pages: 556
+      first_numbered_leaf: 8
+      first_numbered_page: "2"
+      inferred_first_text_leaf: 7
+      inferred_first_text_printed_page: "1"
+      last_numbered_leaf: 550
+      last_numbered_page: "544"
+    calculated_offsets:
+      - pdf_pages: "1-556"
+        jp2_leaf_indexes: "0001-0556"
+        formula: "jp2_leaf = pdf_page"
+        trust: "high"
+        evidence: "JP2 count is PDF pages plus two archive frames; title/text/end matter align with page-number JSON."
+      - printed_pages: "2-544"
+        pdf_pages: "8-550"
+        formula: "printed_page = pdf_page - 6"
+        trust: "high"
+        evidence: "Page-number JSON maps leaf 8 to printed page 2 and leaf 550 to printed page 544."
+  known_alignments:
+    - id: "volume2-title-page"
+      jp2_leaf: 5
+      pdf_page: 5
+      printed_page: null
+      content: "Edition title page, Zweiter Band."
+      trust: "high"
+    - id: "volume2-humboldt-text-opening"
+      jp2_leaf: 7
+      pdf_page: 7
+      printed_page: "1"
+      content: "Humboldt main text begins: Section 1, Die Voelkerschaften des Malayischen Stammes."
+      trust: "high"
+      note: "Printed page number is omitted on the opening page; inferred from page-number JSON and following printed page 2."
+    - id: "volume2-section-01-page-2"
+      jp2_leaf: 8
+      pdf_page: 8
+      printed_page: "2"
+      content: "Section 1 continuation, headed Wohnplaetze und Culturverhaeltnisse."
+      trust: "high"
+      note: "Page-number JSON maps leaf 8 to printed page 2."
+    - id: "volume2-section-02-opening"
+      jp2_leaf: 25
+      pdf_page: 25
+      printed_page: "19"
+      content: "Section 2 opening, Allgemeine Betrachtung des menschlichen Entwickelungsganges."
+      trust: "high"
+    - id: "volume2-last-numbered-page"
+      jp2_leaf: 550
+      pdf_page: 550
+      printed_page: "544"
+      content: "Final numbered text page, headed Veranda. Schluss."
+      trust: "high"
+  ranges:
+    - id: "volume2-archive-extra-front"
+      jp2_leaf_indexes: "0000"
+      pdf_pages: null
+      printed_pages: null
+      content: "Archive calibration frame."
+      trust: "high"
+    - id: "volume2-front-matter"
+      jp2_leaf_indexes: "0001-0006"
+      pdf_pages: "1-6"
+      printed_pages: null
+      content: "Cover, blanks, title page, and pre-text leaf."
+      trust: "high"
+    - id: "volume2-humboldt-main-text"
+      jp2_leaf_indexes: "0007-0550"
+      pdf_pages: "7-550"
+      printed_pages: "1-544"
+      content: "Humboldt running text and Pott notes."
+      trust: "high"
+    - id: "volume2-section-01"
+      jp2_leaf_indexes: "0007-0024"
+      pdf_pages: "7-24"
+      printed_pages: "1-18"
+      content: "Section 1, Malay peoples and the plan of the present writing."
+      raw_extract: "source/raw/001-band2-section-01-malayischer-stamm-pdf-007-024.txt"
+      status: "raw_pdf_text_layer"
+      trust: "high"
+    - id: "volume2-section-08"
+      jp2_leaf_indexes: "0060-0068"
+      pdf_pages: "60-68"
+      printed_pages: "54-62"
+      content: "Section 8, Form der Sprachen; includes the Ergon/Energeia passage."
+      raw_extract: "source/raw/008-band2-section-08-form-der-sprachen-pdf-060-068.txt"
+      status: "raw_pdf_text_layer"
+      trust: "high"
+    - id: "volume2-end-matter"
+      jp2_leaf_indexes: "0551-0556"
+      pdf_pages: "551-556"
+      printed_pages: null
+      content: "Blank leaves, library/date slip, and back cover."
+      trust: "high"
+    - id: "volume2-archive-extra-back"
+      jp2_leaf_indexes: "0557"
+      pdf_pages: null
+      printed_pages: null
+      content: "Terminal archive frame."
+      trust: "high"
+
+notes:
+  - "Original JP2 page images landed from /Users/daviddickinson/Downloads/berdieverschiede01humb_orig_jp2.tar."
+  - "Band I should not be used as the primary Humboldt text witness until the companion volume is located and checked."
+  - "Volume 2 original JP2 page images landed from /Users/daviddickinson/Downloads/berdieverschiede02humb_orig_jp2.tar."
+  - "First raw Humboldt extract promoted from Volume 2 PDF pages 7-24; leave unnormalized until page-image/HOCR checks are made."
+  - "Section 8 raw extract promoted from Volume 2 PDF pages 60-68 because it contains the Form der Sprachen and Ergon/Energeia passage."

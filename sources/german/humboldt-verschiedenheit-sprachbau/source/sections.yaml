@@ -1,0 +1,38 @@
+work: "Ueber die Verschiedenheit des menschlichen Sprachbaues und ihren Einfluss auf die geistige Entwickelung des Menschengeschlechts"
+primary_witness: "ia-1876-pott-band2"
+status: "initial_raw_section_extract_started"
+
+sections:
+  - id: "band2-section-01"
+    witness_id: "ia-1876-pott-band2"
+    label: "Section 1: Die Voelkerschaften des Malayischen Stammes"
+    pdf_pages: "7-24"
+    jp2_leaf_indexes: "0007-0024"
+    printed_pages: "1-18"
+    raw_extract: "source/raw/001-band2-section-01-malayischer-stamm-pdf-007-024.txt"
+    normalized_extract: null
+    status: "raw_pdf_text_layer"
+    notes:
+      - "Raw extract preserves PDF text-layer line breaks and OCR artifacts."
+      - "PDF text layer reads the section sign inconsistently; normalize only after checking page images/HOCR."
+  - id: "band2-section-02"
+    witness_id: "ia-1876-pott-band2"
+    label: "Section 2: Allgemeine Betrachtung des menschlichen Entwickelungsganges"
+    pdf_start: 25
+    jp2_leaf_start: "0025"
+    printed_page_start: "19"
+    raw_extract: null
+    normalized_extract: null
+    status: "mapped_start_only"
+  - id: "band2-section-08"
+    witness_id: "ia-1876-pott-band2"
+    label: "Section 8: Form der Sprachen"
+    pdf_pages: "60-68"
+    jp2_leaf_indexes: "0060-0068"
+    printed_pages: "54-62"
+    raw_extract: "source/raw/008-band2-section-08-form-der-sprachen-pdf-060-068.txt"
+    normalized_extract: null
+    status: "raw_pdf_text_layer"
+    notes:
+      - "Contains the Ergon/Energeia formulation."
+      - "Raw extract preserves PDF text-layer OCR artifacts and line breaks."
