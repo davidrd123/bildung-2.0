@@ -84,6 +84,11 @@ Use this routing when moving from Cassirer citations to Humboldt source work:
 | Brief an F. A. Wolf, 16 June 1804 | none yet | Low-volume support source for the chapter I Humboldt opening. |
 | *Ankündigung einer Schrift über die Vaskische Sprache und Nation* | none yet | Minor support source; not a current pull priority. |
 
+Cassirer's own *Die Kantischen Elemente in Wilhelm von Humboldts
+Sprachphilosophie* is now represented as an acquisition target at
+`sources/german/cassirer-kantische-elemente-humboldt-sprachphilosophie/`.
+No full-text witness has landed there yet.
+
 ## Singular vs. Plural Guardrail
 
 Keep these distinct:
@@ -171,7 +176,8 @@ move from current Humboldt work toward Kant, Erkenntnisproblem Vol. II, or
 PSF I chapter I, this essay is likely the efficient next source surface.
 
 Do not treat the essay's existence as already-earned synthesis. Treat it as a
-high-priority source target.
+high-priority source target. Current status: bibliographically verified, but
+not yet pulled as a source text.
 
 ## Next Honest Moves
 
