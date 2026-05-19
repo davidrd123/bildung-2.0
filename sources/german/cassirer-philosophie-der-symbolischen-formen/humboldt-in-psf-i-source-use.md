@@ -27,6 +27,19 @@ Primary local evidence:
 - PSF I Personenregister:
   `source/vol1-die-sprache/930-personenregister.txt`
 
+Verification pass:
+
+- The Humboldt Schriftenregister cluster was checked locally against
+  `source/vol1-die-sprache/920-schriftenregister.txt`, especially the Humboldt
+  entries around lines 324-363.
+- The Humboldt Personenregister entry was checked locally against
+  `source/vol1-die-sprache/930-personenregister.txt`, lines 3-9.
+- Chapter-split search confirms that the named Kawi references occur in the
+  chapter II/III surfaces, especially
+  `source/vol1-die-sprache/030-kapitel-ii-sprache-in-der-phase-des-sinnlichen-ausdrucks.txt`
+  and
+  `source/vol1-die-sprache/040-kapitel-iii-sprache-in-der-phase-des-anschaulichen-ausdrucks.txt`.
+
 The Personenregister gives Humboldt as a continuous interlocutor across PSF I:
 `VIII f., 23, 79, 86, 97-106, 117-119, 140-142, 146, 152 f., 163 f., 166-168,
 173 f., 193, 196 f., 202, 206, 209, 213, 216, 219 f., 222, 225 f., 228, 234,
@@ -53,6 +66,24 @@ From the PSF I Schriftenregister:
 | *Ueber die Verschiedenheiten des menschlichen Sprachbaues* (plural) | 100 f., 206, 257 | Distinct earlier essay in GS VI/1; do not collapse into the singular title. |
 | *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen in einigen Sprachen* | 153, 164, 166, 213, 216, 225 | Important for pronoun/deixis/adverbial relation surfaces in chapter III. |
 
+## Local Shelf Routing
+
+Use this routing when moving from Cassirer citations to Humboldt source work:
+
+| Cassirer source object | Local route | Status |
+| --- | --- | --- |
+| *Über die Kawi-Sprache auf der Insel Java*, Bd. II, Buschmann ed., 1838 | `sources/german/humboldt-kawi-sprache/` | Landed. This is the direct shelf for Cassirer's named Kawi Bd. II citations. |
+| *Ueber die Verschiedenheit des menschlichen Sprachbaues...* (singular) | `sources/german/humboldt-verschiedenheit-sprachbau/` | Landed as a Pott 1876 witness. Useful local witness, but Cassirer's register cites the GS VII / 1907 form, so edition identity should stay visible. |
+| *Ueber die Verschiedenheiten des menschlichen Sprachbaues* (plural) | none yet | Pull separately as GS VI/1 or make a clearly marked GS VI/1 witness. Do not fold into the singular shelf. |
+| *Ueber den Dualis* | none yet | Pull as GS VI/1 support if chapter III dual/plural/person pressure becomes active. |
+| *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen...* | none yet | Pull as GS VI/1 support if deixis/pronoun/adverb pressure becomes active. |
+| *Lettre à Monsieur Abel-Rémusat... langue Chinoise* | none yet | Pull with the Chinese grammar pair when non-Indo-European form pressure becomes active. |
+| *Ueber den grammatischen Bau der Chinesischen Sprache* | none yet | Pull with the Abel-Rémusat letter. |
+| *Grundzüge des allgemeinen Sprachtypus* | none yet | Pull after Kawi and singular/plural distinction are stabilized. |
+| *Ueber das vergleichende Sprachstudium...* | none yet | Pull after Kawi and singular/plural distinction are stabilized. |
+| Brief an F. A. Wolf, 16 June 1804 | none yet | Low-volume support source for the chapter I Humboldt opening. |
+| *Ankündigung einer Schrift über die Vaskische Sprache und Nation* | none yet | Minor support source; not a current pull priority. |
+
 ## Singular vs. Plural Guardrail
 
 Keep these distinct:
@@ -75,18 +106,33 @@ Cassirer's PSF I Schriftenregister names:
   Kawi-Sprache; Malayischer Sprachstamm im Allgemeinen und dessen westlicher
   Zweig*, edited by Johann Carl Eduard Buschmann, Berlin 1838.
 
-The current local Humboldt scaffold at
-`sources/german/humboldt-verschiedenheit-sprachbau/` is a different working
-witness: the 1876 Pott edition of *Ueber die Verschiedenheit des menschlichen
-Sprachbaues*, with Volume 2 now serving as the primary Humboldt running-text
-witness for that edition.
+The current local Kawi shelf is:
+
+- `sources/german/humboldt-kawi-sprache/`
+- witness id: `ia-1838-kawi-band2-google-ia`
+- tracked source surfaces:
+  - `source/full/kawi-sprache-band2.txt`
+  - `source/raw/010-zweites-buch-ueber-die-kawi-sprache-pdf-042-246.txt`
+  - `source/raw/011-kawi-book-opening-pdf-042-047.txt`
+  - `source/raw/023-feststellung-des-begriffs-des-kawi-pdf-231-246.txt`
+  - `source/raw/020-drittes-buch-erster-abschnitt-stammverwandtschaft-pdf-248-336.txt`
+  - `source/raw/030-drittes-buch-zweiter-abschnitt-westlicher-zweig-pdf-337-485.txt`
+
+The two smaller Kawi extracts are raw navigational tranches, not corrected
+normalizations. They are the first local work surfaces for the Kawi opening
+and the section 23 close where Humboldt explicitly fixes the concept of Kawi.
+
+The local Pott shelf at `sources/german/humboldt-verschiedenheit-sprachbau/`
+is a different working witness: the 1876 Pott edition of *Ueber die
+Verschiedenheit des menschlichen Sprachbaues*, with Volume 2 now serving as
+the primary Humboldt running-text witness for that edition.
 
 Do not collapse these witnesses. The 1876 Pott Band 2 material may overlap
 with, excerpt, reframe, or transmit material adjacent to the 1838 Kawi volume,
 but that relation still needs verification. Until checked, use:
 
 - `ia-1876-pott-band2` as the current local Humboldt *Verschiedenheit* witness
-- the 1838 Buschmann-edited Kawi Bd. II as Cassirer's named Kawi citation
+- `ia-1838-kawi-band2-google-ia` as Cassirer's named Kawi Bd. II citation
   witness
 
 ## PSF I Chapter Pressure
@@ -129,8 +175,12 @@ high-priority source target.
 
 ## Next Honest Moves
 
-1. Add a witness entry if the 1838 Buschmann-edited Kawi Bd. II is located.
+1. Check the two targeted Kawi raw tranches against the TIF page images before
+   any quotation, translation, or interpretive claim: the Kawi opening and the
+   `Feststellung des Begriffs des Kawi` close.
 2. Verify whether the current 1876 Pott Band 2 witness transmits any of the
-   exact passages behind Cassirer's Kawi Bd. II page references.
-3. If Kant/Humboldt pressure strengthens, locate Cassirer's *Kantischen
+   exact passages behind Cassirer's singular *Verschiedenheit* references.
+3. Pull the plural *Ueber die Verschiedenheiten des menschlichen Sprachbaues*
+   as a separate GS VI/1 surface before any broader Humboldt synthesis.
+4. If Kant/Humboldt pressure strengthens, locate Cassirer's *Kantischen
    Elemente* essay before widening to a general Cassirer-Humboldt synthesis.

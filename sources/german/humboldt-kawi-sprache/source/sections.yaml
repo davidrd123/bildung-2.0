@@ -1,5 +1,5 @@
 primary_witness: ia-1838-kawi-band2-google-ia
-status: initial_book_level_splits
+status: book_level_splits_with_targeted_kawi_tranches
 
 sections:
   - id: front-matter-and-inhaltsuebersicht
@@ -15,9 +15,25 @@ sections:
     tif_images: 0042-0246
     printed_pages: 1-203
     raw_extract: source/raw/010-zweites-buch-ueber-die-kawi-sprache-pdf-042-246.txt
+    targeted_extracts:
+      - id: kawi-book-opening
+        label: Kawi book opening and section 1 start
+        pdf_pages: 42-47
+        tif_images: 0042-0047
+        printed_pages: 1-3
+        raw_extract: source/raw/011-kawi-book-opening-pdf-042-047.txt
+        status: raw_pdf_text_layer
+      - id: feststellung-des-begriffs-des-kawi
+        label: Section 23 - Schlussfolgerungen / Feststellung des Begriffs des Kawi
+        pdf_pages: 231-246
+        tif_images: 0231-0246
+        printed_pages: 188-203
+        raw_extract: source/raw/023-feststellung-des-begriffs-des-kawi-pdf-231-246.txt
+        status: raw_pdf_text_layer
     status: raw_pdf_text_layer
     notes:
       - Core Kawi material in this volume.
+      - Targeted extracts are raw, not normalized; check against TIF page images before quoting or translating.
 
   - id: drittes-buch-erster-abschnitt-stammverwandtschaft
     label: Drittes Buch - Erster Abschnitt - Stammverwandtschaft der Malayischen Sprachen

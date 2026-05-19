@@ -19,7 +19,9 @@ Buschmann-edited 1838 Kawi volume.
 
 This is **not** yet a live Humboldt campaign. It is a source scaffold for
 substrate use: PDF/OCR/page-image witnesses, a page map, and rough raw splits
-at the volume's natural seams.
+at the volume's natural seams. Two smaller raw working tranches now mark the
+first Cassirer-facing Kawi surfaces: the opening of the Kawi book and the
+section 23 close on the concept of Kawi.
 
 ## Why Here
 
@@ -85,6 +87,11 @@ Tracked raw splits:
 - `source/raw/040-beilagen-schrift-und-polynesische-alphabete-pdf-486-582.txt`
 - `source/raw/050-javanisches-alphabet-tafeln-pdf-583-609.txt`
 
+Tracked targeted raw tranches:
+
+- `source/raw/011-kawi-book-opening-pdf-042-047.txt`
+- `source/raw/023-feststellung-des-begriffs-des-kawi-pdf-231-246.txt`
+
 The raw text is OCR-derived and uncorrected. Use page images and hOCR before
 promoting any passage.
 
@@ -109,8 +116,10 @@ scripts/
 
 1. Use this shelf as the Kawi Vol. II source, not the Pott
    *Verschiedenheit* shelf.
-2. Check Cassirer PSF I references against this volume before writing
+2. Use the two targeted raw tranches as the first local Kawi working surfaces:
+   the Kawi opening and the `Feststellung des Begriffs des Kawi` close.
+3. Check Cassirer PSF I references against this volume before writing
    stronger claims about exact page pressure.
-3. Normalize only the local tranche needed for a Cassirer/Humboldt move.
-4. If page-level philology matters, inspect the TIF or hOCR witness before
+4. Normalize only the local tranche needed for a Cassirer/Humboldt move.
+5. If page-level philology matters, inspect the TIF or hOCR witness before
    trusting the text-PDF extraction.

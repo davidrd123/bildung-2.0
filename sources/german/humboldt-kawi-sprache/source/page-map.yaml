@@ -1,7 +1,7 @@
 source:
   work_id: humboldt-kawi-sprache-band2
   primary_witness: ia-1838-kawi-band2-google-ia
-  status: initial_book_level_map
+  status: book_level_map_with_targeted_kawi_tranches
   pdf_pages: 609
   image_pages:
     format: tif
@@ -35,6 +35,12 @@ known_alignments:
     tif_image: berdiekawisprac01buscgoog_0044.tif
     printed_page: 1
     note: "Kawi-Sprache section 1 begins."
+  - label: feststellung-des-begriffs-des-kawi-opening
+    pdf_page: 231
+    tif_image: berdiekawisprac01buscgoog_0231.tif
+    printed_page: 188
+    raw_extract: source/raw/023-feststellung-des-begriffs-des-kawi-pdf-231-246.txt
+    note: "Section 23 begins: Schlussfolgerungen / Feststellung des Begriffs des Kawi."
   - label: zweites-buch-close
     pdf_page: 246
     tif_image: berdiekawisprac01buscgoog_0246.tif
@@ -87,6 +93,9 @@ ranges:
     tif_images: 0042-0246
     printed_pages: 1-203
     raw_extract: source/raw/010-zweites-buch-ueber-die-kawi-sprache-pdf-042-246.txt
+    targeted_extracts:
+      - source/raw/011-kawi-book-opening-pdf-042-047.txt
+      - source/raw/023-feststellung-des-begriffs-des-kawi-pdf-231-246.txt
     status: raw_pdf_text_layer
   - id: drittes-buch-erster-abschnitt
     label: Drittes Buch - Erster Abschnitt - Stammverwandtschaft der Malayischen Sprachen

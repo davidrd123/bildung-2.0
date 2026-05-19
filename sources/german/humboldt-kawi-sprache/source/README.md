@@ -12,7 +12,8 @@ Humboldt's *Kawi-Sprache*, Band II.
 - hOCR and page-number sidecars are locating aids. They are useful for
   alignment, but they do not by themselves make a passage normalized.
 - `source/full/` and `source/raw/` are OCR surfaces. They are searchable and
-  useful for substrate work, but remain uncorrected.
+  useful for substrate work, but remain uncorrected. Smaller targeted files in
+  `source/raw/` are navigational working tranches, not normalized passages.
 - `source/normalized/` should contain only checked tranches that earned use
   in an actual reading or cross-text move.
 
