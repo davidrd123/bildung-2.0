@@ -128,6 +128,39 @@ witnesses:
       the section sign can appear as &, 8, S, or $, and old spelling/line
       breaks remain unnormalized. Use JP2 images and HOCR/page-number sidecars
       for alignment before normalization.
+  - id: "googlebooks-gs-vii1-1907"
+    role: "cassirer_citation_witness"
+    title: "Ueber die Verschiedenheit des menschlichen Sprachbaues und ihren Einfluss auf die geistige Entwicklung des Menschengeschlechts"
+    author: "Wilhelm von Humboldt"
+    editor: "Albert Leitzmann"
+    imprint: "Berlin: B. Behr's Verlag, 1907"
+    volume: "Gesammelte Schriften, Abt. 1: Werke VII, Erste Haelfte"
+    coverage_status: "cassirer_cited_singular_witness_landed"
+    coverage_note: "Contains the GS VII/1 text Cassirer cites for the singular Sprachbau work. The main text begins at PDF page 15 / printed page 1; the appendix begins at PDF page 359 / printed page 345."
+    google_books_id: "w3QTAAAAYAAJ"
+    google_books_url: "https://books.google.com/books?id=w3QTAAAAYAAJ"
+    local_pdf_source: "/Users/daviddickinson/Downloads/Wilhelm_von_Humboldts_gesammelte_schrift.pdf"
+    imported_pdf: "source/local/gs-vii-erste-haelfte-google-books-w3QTAAAAYAAJ.pdf"
+    pdf_pages: 372
+    page_number_index:
+      first_text_pdf_page: 15
+      first_text_printed_page: "1"
+      ergon_energeia_pdf_page: 60
+      ergon_energeia_printed_page: "46"
+      appendix_pdf_page: 359
+      appendix_printed_page: "345"
+      formula_checked: "pdf_page = printed_page + 14"
+    raw_extracts:
+      - id: "gs-vii-activity-objectivity"
+        path: "source/raw/008b-gs-vii-language-as-activity-and-objectivity-pdf-060-074.txt"
+        pdf_pages: "60-74"
+        printed_pages: "46-60"
+        status: "raw_pdf_text_layer"
+    notes: |
+      This is the Akademie/Leitzmann GS VII/1 witness Cassirer cites for the
+      singular Sprachbau work. Use it as the citation witness for Cassirer page
+      references. The Pott 1876 Band 2 witness transmits overlapping text at
+      checked loci but with divergent pagination and edition apparatus.
 
 companion_volume_candidates:
   - id: "ia-1876-pott-band2"
@@ -141,7 +174,7 @@ companion_volume_candidates:
     note: "Internet Archive metadata identifies this as Volume 2 of the same 1876 S. Calvary & Co. edition. It is now represented above as witness ia-1876-pott-band2."
 
 witness_policy:
-  visual_authority: "Use original single-page JP2 images as the preferred visual witness once they land; keep the PDF as a secondary visual check."
+  visual_authority: "Use original single-page JP2 images as the preferred visual witness for IA Pott pages once they land; use the GS VII/1 Google Books PDF as the current citation witness for Cassirer's GS VII references."
   ocr_priority:
     - "Inspect HOCR/CHOCR first for page-level OCR and layout evidence."
     - "Use FULL TEXT and OCR SEARCH TEXT for search and orientation only."

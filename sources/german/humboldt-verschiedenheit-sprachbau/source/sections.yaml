@@ -46,3 +46,15 @@ sections:
       - "Contains the Ergon/Energeia formulation."
       - "Raw extract preserves PDF text-layer OCR artifacts and line breaks."
       - "Targeted extract now has a working normalization checked against PDF text layer and HOCR search text; use JP2 page images before citation-critical transcription."
+  - id: "gs-vii-cassirer-anchor-pages-46-60"
+    witness_id: "googlebooks-gs-vii1-1907"
+    label: "GS VII/1 Cassirer anchor pages: activity, objectivity, Weltansicht"
+    pdf_pages: "60-74"
+    printed_pages: "46-60"
+    raw_extract: "source/raw/008b-gs-vii-language-as-activity-and-objectivity-pdf-060-074.txt"
+    normalized_extract: null
+    status: "raw_pdf_text_layer"
+    notes:
+      - "Contains the GS VII/1 Ergon/Energeia passage cited by Cassirer through the singular Sprachbau witness."
+      - "Also covers subject/object/objectivity and Weltansicht passages on GS VII/1 pp. 55-60."
+      - "Pott Band 2 transmits overlapping text at different printed pages; do not use Pott page numbers as GS VII page numbers."

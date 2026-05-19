@@ -73,7 +73,7 @@ Use this routing when moving from Cassirer citations to Humboldt source work:
 | Cassirer source object | Local route | Status |
 | --- | --- | --- |
 | *Über die Kawi-Sprache auf der Insel Java*, Bd. II, Buschmann ed., 1838 | `sources/german/humboldt-kawi-sprache/` | Landed. This is the direct shelf for Cassirer's named Kawi Bd. II citations. |
-| *Ueber die Verschiedenheit des menschlichen Sprachbaues...* (singular) | `sources/german/humboldt-verschiedenheit-sprachbau/` | Landed as a Pott 1876 witness, with a targeted raw Ergon/Energeia tranche at `source/raw/008a-ergon-energeia-pdf-061-062.txt`. Useful local witness, but Cassirer's register cites the GS VII / 1907 form, so edition identity should stay visible. |
+| *Ueber die Verschiedenheit des menschlichen Sprachbaues...* (singular) | `sources/german/humboldt-verschiedenheit-sprachbau/` | Landed with GS VII/1 as Cassirer's citation witness and Pott 1876 Band 2 as a comparison witness. Use `source/raw/008b-gs-vii-language-as-activity-and-objectivity-pdf-060-074.txt` for the current GS VII anchor range; use Pott's `source/normalized/008a-ergon-energeia-pdf-061-062.txt` only with explicit witness labeling. |
 | *Ueber die Verschiedenheiten des menschlichen Sprachbaues* (plural) | `sources/german/humboldt-verschiedenheiten-sprachbau-gs-vi1/` | Landed as a clearly marked GS VI/1 witness. Do not fold into the singular shelf. |
 | *Ueber den Dualis* | `sources/german/humboldt-verschiedenheiten-sprachbau-gs-vi1/` | Landed as a GS VI/1 support text with raw extract `source/raw/005-ueber-den-dualis-pdf-014-040.txt`. |
 | *Ueber die Verwandtschaft der Ortsadverbien mit dem Pronomen...* | none yet | Pull as GS VI/1 support if deixis/pronoun/adverb pressure becomes active. |
@@ -85,9 +85,11 @@ Use this routing when moving from Cassirer citations to Humboldt source work:
 | *Ankündigung einer Schrift über die Vaskische Sprache und Nation* | none yet | Minor support source; not a current pull priority. |
 
 Cassirer's own *Die Kantischen Elemente in Wilhelm von Humboldts
-Sprachphilosophie* is now represented as an acquisition target at
-`sources/german/cassirer-kantische-elemente-humboldt-sprachphilosophie/`.
-No full-text witness has landed there yet.
+Sprachphilosophie* is represented at
+`sources/german/cassirer-kantische-elemente-humboldt-sprachphilosophie/`,
+with an ECW 16 raw witness at
+`source/raw/010-kantische-elemente-ecw16-pdf-112-140.txt`. Treat it as a
+separate Cassirer-Humboldt-Kant source, not as a Humboldt-source gap.
 
 ## Current Working Verdict
 
@@ -120,6 +122,27 @@ Keep these distinct:
 
 The title difference is small enough to disappear in chat summaries and search
 results, but Cassirer uses both as distinct textual objects.
+
+## Pott 1876 / GS VII Guardrail
+
+The singular *Verschiedenheit* shelf now has the GS VII/1 citation witness
+Cassirer names:
+
+- `sources/german/humboldt-verschiedenheit-sprachbau/source/local/gs-vii-erste-haelfte-google-books-w3QTAAAAYAAJ.pdf`
+- raw anchor extract:
+  `source/raw/008b-gs-vii-language-as-activity-and-objectivity-pdf-060-074.txt`
+- crosswalk:
+  `source/pott-gs-vii-crosswalk.md`
+
+The GS VII/1 main text begins at PDF page 15 / printed page 1, and checked
+anchors support `pdf_page = printed_page + 14`. The Ergon/Energeia passage
+is GS VII/1 pp. 46-47 / PDF pp. 60-61; the related objectivity and
+`Weltansicht` passages sit in the same extracted range through GS VII/1 p. 60.
+
+Pott Band 2 transmits the checked passages, but at different page numbers: for
+example, GS VII/1 pp. 46-47 corresponds to Pott pp. 55-56, and GS VII/1 p. 55
+corresponds to Pott p. 66. Do not route Cassirer's GS VII page references
+through Pott pagination.
 
 ## Kawi Bd. II Guardrail
 
@@ -247,8 +270,9 @@ Festschrift original remains preferable for citation-critical collation.
 1. Normalize only one chapter III Kawi locus when a concrete quotation or
    close-reading use requires it; otherwise keep the Kawi shelf at mapped raw
    page level.
-2. Verify whether the current 1876 Pott Band 2 witness transmits any of the
-   exact passages behind Cassirer's singular *Verschiedenheit* references.
+2. For singular *Verschiedenheit* references, use the landed GS VII/1 witness
+   first; normalize exact passages only when a concrete quotation or
+   close-reading use requires it.
 3. If Kant/Humboldt pressure strengthens, begin from the landed ECW 16 raw
    extract of Cassirer's *Kantischen Elemente* essay and normalize only the
    exact passages being used.

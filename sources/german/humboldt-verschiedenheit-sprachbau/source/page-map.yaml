@@ -283,6 +283,70 @@ volume2:
       content: "Terminal archive frame."
       trust: "high"
 
+gs_vii1:
+  witness_id: "googlebooks-gs-vii1-1907"
+  local_pdf: "source/local/gs-vii-erste-haelfte-google-books-w3QTAAAAYAAJ.pdf"
+  pdf_pages: 372
+  leaf_numbering:
+    note: "Google Books PDF includes 14 pre-text PDF pages before GS VII/1 printed page 1."
+    calculated_offsets:
+      - printed_pages: "1-344"
+        pdf_pages: "15-358"
+        formula: "pdf_page = printed_page + 14"
+        trust: "high"
+        evidence: "Checked printed pages 1, 46, 60, 105, 223, and 300."
+      - printed_pages: "345ff"
+        pdf_pages: "359ff"
+        formula: "pdf_page = printed_page + 14"
+        trust: "high"
+        evidence: "Checked appendix start at PDF page 359 / printed page 345."
+  known_alignments:
+    - id: "gs-vii-title"
+      pdf_page: 8
+      printed_page: null
+      content: "Series title page: Wilhelm von Humboldts Gesammelte Schriften, Band VII, Erste Abteilung."
+      trust: "high"
+    - id: "gs-vii-text-opening"
+      pdf_page: 15
+      printed_page: "1"
+      content: "Opening of Ueber die Verschiedenheit des menschlichen Sprachbaues."
+      trust: "high"
+    - id: "gs-vii-ergon-energeia"
+      pdf_page: 60
+      printed_page: "46"
+      content: "Language is not Werk/Ergon but Thaetigkeit/Energeia."
+      raw_extract: "source/raw/008b-gs-vii-language-as-activity-and-objectivity-pdf-060-074.txt"
+      trust: "high"
+    - id: "gs-vii-objectivity-worldview"
+      pdf_page: 69
+      printed_page: "55"
+      content: "Subjective activity forms an object in thinking; language is indispensable to this objectification."
+      raw_extract: "source/raw/008b-gs-vii-language-as-activity-and-objectivity-pdf-060-074.txt"
+      trust: "high"
+    - id: "gs-vii-worldview"
+      pdf_page: 74
+      printed_page: "60"
+      content: "Language mediates not the object itself but the image produced in the soul; Weltansicht passage."
+      raw_extract: "source/raw/008b-gs-vii-language-as-activity-and-objectivity-pdf-060-074.txt"
+      trust: "high"
+    - id: "gs-vii-appendix-opening"
+      pdf_page: 359
+      printed_page: "345"
+      content: "Anhang: Alexander von Humboldt's Vorwort to the Kawiwerk."
+      trust: "high"
+  pott_crosscheck:
+    note: "Pott pagination is not equivalent to GS VII/1 pagination and does not follow one stable offset, because the Pott edition has different apparatus and note density. Use GS VII/1 for Cassirer page references."
+    checked_loci:
+      - gs: "GS VII/1 p.1 / PDF 15"
+        pott: "Pott Band 2 p.1 / PDF 7"
+        result: "Same text opening."
+      - gs: "GS VII/1 pp.46-47 / PDF 60-61"
+        pott: "Pott Band 2 pp.55-56 / PDF 61-62"
+        result: "Same Ergon/Energeia passage."
+      - gs: "GS VII/1 p.55 / PDF 69"
+        pott: "Pott Band 2 p.66 / PDF 72"
+        result: "Same subjectivity/objectivity passage."
+
 notes:
   - "Original JP2 page images landed from /Users/daviddickinson/Downloads/berdieverschiede01humb_orig_jp2.tar."
   - "Band I should not be used as the primary Humboldt text witness until the companion volume is located and checked."
@@ -290,3 +354,4 @@ notes:
   - "First raw Humboldt extract promoted from Volume 2 PDF pages 7-24; leave unnormalized until page-image/HOCR checks are made."
   - "Section 8 raw extract promoted from Volume 2 PDF pages 60-68 because it contains the Form der Sprachen and Ergon/Energeia passage."
   - "A smaller Ergon/Energeia raw tranche now covers Volume 2 PDF pages 61-62 / printed pages 55-56."
+  - "GS VII/1 Google Books witness landed from ~/Downloads for Cassirer's singular Sprachbau citations; main text uses pdf_page = printed_page + 14."

@@ -11,3 +11,6 @@ it.
 Current targeted raw tranches:
 
 - `008a-ergon-energeia-pdf-061-062.txt`
+- `008b-gs-vii-language-as-activity-and-objectivity-pdf-060-074.txt` - GS
+  VII/1 printed pp. 46-60 / PDF pp. 60-74; raw PDF text layer for Cassirer's
+  singular Sprachbau citation witness.

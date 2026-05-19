@@ -8,8 +8,9 @@ Band. Berlin: S. Calvary & Co., 1876.
 
 ## What This Is
 
-A German source-language landing zone for the 1876 Pott edition of Humboldt's
-major Sprachbau text.
+A German source-language landing zone for Humboldt's major Sprachbau text.
+It now carries both the 1876 Pott comparison witness and the 1907 GS VII/1
+Akademie/Leitzmann citation witness Cassirer names in PSF I.
 
 This is **not** yet a live Humboldt encounter, **not** a checked working text,
 and **not** a promoted subproject. It exists so the PDF and incoming page
@@ -24,7 +25,7 @@ source work begin.
 - `sources/german/` is the right layer for a source-near Humboldt witness that
   can later support Cassirer, Chomsky, Lotman, and translation-method probes.
 
-## Source
+## Sources
 
 Local authority copy, gitignored:
 
@@ -65,9 +66,20 @@ Volume 2 local witnesses, gitignored:
 - filename prefix `berdieverschiede02humb_orig_`
 - zero-based sequence `0000` through `0557`, no detected gaps
 
-Important limit: this is **Band I**. Do not treat it as a complete Humboldt
-corpus or complete source surface until the companion volume situation is
-checked.
+Cassirer citation witness, gitignored:
+
+- `source/local/gs-vii-erste-haelfte-google-books-w3QTAAAAYAAJ.pdf`
+- original local intake:
+  `/Users/daviddickinson/Downloads/Wilhelm_von_Humboldts_gesammelte_schrift.pdf`
+- Google Books id: `w3QTAAAAYAAJ`
+- 372 PDF pages
+- GS VII/1 main text starts at PDF page `15` / printed page `1`
+- checked page formula for main text and appendix: `pdf_page = printed_page + 14`
+
+Important witness limit: Pott Band 2 and GS VII/1 transmit the same checked
+singular *Verschiedenheit* loci, but their page numbers diverge. Use GS VII/1
+for Cassirer's Schriftenregister page references; use Pott Band 2 as a
+comparison witness and for the already-normalized Ergon/Energeia tranche.
 
 ## Initial Structural Finding
 
@@ -128,6 +140,16 @@ Targeted raw tranche promoted for the familiar theoretical node:
 - note: begins with the setup that language is something continually passing
   away and includes the `Werk (Ergon)` / `Thaetigkeit (Energeia)` formulation.
 
+GS VII/1 raw Cassirer anchor extract:
+
+- `source/raw/008b-gs-vii-language-as-activity-and-objectivity-pdf-060-074.txt`
+- witness: GS VII/1 Google Books PDF text layer
+- PDF pages: `60-74`
+- printed pages: `46-60`
+- status: raw, unnormalized
+- note: covers the GS VII/1 Ergon/Energeia passage plus the subject/object,
+  objectivity, and `Weltansicht` passages in the same Cassirer-facing range.
+
 ## Structure
 
 ```text
@@ -142,6 +164,7 @@ source/
   normalized/            # future checked working tranches
   witnesses.yaml         # local witness inventory and source preference notes
   page-map.yaml          # placeholder for PDF leaf / printed-page mapping
+  pott-gs-vii-crosswalk.md
   sections.yaml          # bounded extraction map
   README.md              # local source-layer notes
 scripts/
@@ -152,18 +175,15 @@ scripts/
 
 ## Next Honest Moves
 
-After the initial mapping:
-
-1. Land the companion volume candidate `berdieverschiede02humb`.
-2. Use Band I for Pott's introduction only unless a later check proves
-   otherwise.
-3. Continue mapping Volume 2 sections before bulk splitting.
-4. Check the targeted `Ergon` / `Energeia` working tranche against JP2 page
-   images before quotation-critical use.
-5. Extract a whole text into `source/full/` only after choosing the best OCR
-   witness.
-6. Split into `source/raw/` at the edition's natural seams.
-7. Normalize only the bounded tranches that are actually needed for source-near
+1. For Cassirer-facing singular *Verschiedenheit* citations, start from the GS
+   VII/1 citation witness and normalize only the exact passage needed.
+2. Keep Pott Band I as reception/apparatus material unless a bounded check
+   proves a specific Humboldt-text use.
+3. Keep Pott Band 2 as a comparison witness; do not translate Pott page
+   numbers into GS VII page numbers without a fresh crosscheck.
+4. Check the targeted `Ergon` / `Energeia` working tranche against page images
+   before quotation-critical use.
+5. Extract or split more text only at pressure points earned by source-near
    work.
 
 The original JP2s are visual witnesses, but they are full camera-frame images
