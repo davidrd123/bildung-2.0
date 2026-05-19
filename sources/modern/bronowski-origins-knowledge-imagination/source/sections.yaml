@@ -1,0 +1,97 @@
+book:
+  title: "The Origins of Knowledge and Imagination"
+  author: "Jacob Bronowski"
+  source_epub: "sources/modern/incoming/books/The Origins of Knowledge and Imagination -- Jacob Bronowski.epub"
+  extracted_full_text: "source/full/origins-of-knowledge-and-imagination.txt"
+  extraction_tool: "ebook-convert (calibre 9.7.0)"
+sections:
+  - seq: 0
+    slug: "front-matter-and-contents"
+    title: "Front matter and contents"
+    kind: "front-matter"
+    file: "raw/000-front-matter-and-contents.txt"
+    start_line: 1
+    end_line: 78
+    line_count: 78
+    printed_page_start: null
+  - seq: 10
+    slug: "foreword"
+    title: "Foreword, by S. E. Luria"
+    kind: "foreword"
+    file: "raw/010-foreword.txt"
+    start_line: 79
+    end_line: 111
+    line_count: 33
+    printed_page_start: "ix"
+  - seq: 11
+    slug: "the-mind-as-an-instrument-for-understanding"
+    title: "1. The Mind as an Instrument for Understanding"
+    kind: "chapter"
+    file: "raw/011-the-mind-as-an-instrument-for-understanding.txt"
+    start_line: 112
+    end_line: 228
+    line_count: 117
+    printed_page_start: "1"
+  - seq: 12
+    slug: "the-evolution-and-power-of-symbolic-language"
+    title: "2. The Evolution and Power of Symbolic Language"
+    kind: "chapter"
+    file: "raw/012-the-evolution-and-power-of-symbolic-language.txt"
+    start_line: 229
+    end_line: 309
+    line_count: 81
+    printed_page_start: "20"
+  - seq: 13
+    slug: "knowledge-as-algorithm-and-as-metaphor"
+    title: "3. Knowledge as Algorithm and as Metaphor"
+    kind: "chapter"
+    file: "raw/013-knowledge-as-algorithm-and-as-metaphor.txt"
+    start_line: 310
+    end_line: 422
+    line_count: 113
+    printed_page_start: "41"
+  - seq: 14
+    slug: "the-laws-of-nature-and-the-nature-of-laws"
+    title: "4. The Laws of Nature and the Nature of Laws"
+    kind: "chapter"
+    file: "raw/014-the-laws-of-nature-and-the-nature-of-laws.txt"
+    start_line: 423
+    end_line: 529
+    line_count: 107
+    printed_page_start: "67"
+  - seq: 15
+    slug: "error-progress-and-the-concept-of-time"
+    title: "5. Error, Progress, and the Concept of Time"
+    kind: "chapter"
+    file: "raw/015-error-progress-and-the-concept-of-time.txt"
+    start_line: 530
+    end_line: 620
+    line_count: 91
+    printed_page_start: "86"
+  - seq: 16
+    slug: "law-and-individual-responsibility"
+    title: "6. Law and Individual Responsibility"
+    kind: "chapter"
+    file: "raw/016-law-and-individual-responsibility.txt"
+    start_line: 621
+    end_line: 707
+    line_count: 87
+    printed_page_start: "108"
+  - seq: 30
+    slug: "index"
+    title: "Index"
+    kind: "back-matter"
+    file: "raw/030-index.txt"
+    start_line: 708
+    end_line: 1474
+    line_count: 767
+    printed_page_start: null
+  - seq: 40
+    slug: "footnotes"
+    title: "Footnotes"
+    kind: "back-matter"
+    file: "raw/040-footnotes.txt"
+    start_line: 1475
+    end_line: 1580
+    line_count: 106
+    printed_page_start: null
