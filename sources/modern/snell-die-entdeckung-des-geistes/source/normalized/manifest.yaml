@@ -1,0 +1,339 @@
+status: machine-normalized-ocr-base
+source_quality: conservative automated cleanup from source/raw split files
+generated_by: tools/normalize_snell_ocr.py
+manual_pass_required: true
+notes:
+  - Removes page furniture, form feeds, wrapped-line breaks, and selected high-confidence OCR errors.
+  - Does not repair Greek quotations or citation-sensitive passages.
+  - Use source/raw and the PDF or scan witness for verification.
+files:
+  - raw_file: "raw/000-front-matter-and-contents.txt"
+    normalized_file: "normalized/000-front-matter-and-contents.txt"
+    raw_lines: 103
+    normalized_paragraphs: 16
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 1
+    repairs: {}
+  - raw_file: "raw/010-einfuehrung.txt"
+    normalized_file: "normalized/010-einfuehrung.txt"
+    raw_lines: 301
+    normalized_paragraphs: 7
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 0
+    repairs:
+      "Teü": 1
+  - raw_file: "raw/011-die-auffassung-des-menschen-bei-homer.txt"
+    normalized_file: "normalized/011-die-auffassung-des-menschen-bei-homer.txt"
+    raw_lines: 856
+    normalized_paragraphs: 21
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 25
+    repairs:
+      "BÜd": 1
+      "Häuptstück": 1
+      "Phüologe": 1
+      "Piaton": 1
+      "büd": 2
+      "einfaöh": 1
+      "funktioneile": 1
+      "hüft": 1
+      "phüosoph": 1
+      "weü": 1
+      "wül": 1
+  - raw_file: "raw/012-der-glaube-an-die-olympischen-goetter.txt"
+    normalized_file: "normalized/012-der-glaube-an-die-olympischen-goetter.txt"
+    raw_lines: 744
+    normalized_paragraphs: 17
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 2
+    repairs:
+      "Büd": 1
+      "Phü": 2
+      "Phüosoph": 1
+      "Piaton": 1
+      "schüdert": 1
+      "weü": 3
+      "wül": 1
+  - raw_file: "raw/013-die-welt-der-goetter-bei-hesiod.txt"
+    normalized_file: "normalized/013-die-welt-der-goetter-bei-hesiod.txt"
+    raw_lines: 555
+    normalized_paragraphs: 14
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 0
+    repairs:
+      "Teü": 1
+      "schüdert": 2
+      "weü": 2
+      "wül": 1
+  - raw_file: "raw/014-das-erwachen-der-persoenlichkeit-in-der-fruehgriechischen-lyrik.txt"
+    normalized_file: "normalized/014-das-erwachen-der-persoenlichkeit-in-der-fruehgriechischen-lyrik.txt"
+    raw_lines: 1384
+    normalized_paragraphs: 83
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 1
+    repairs:
+      "Archüochos": 8
+      "Büd": 1
+      "Dir Gefühl": 1
+      "Haupstadt": 1
+      "Hufe im Streit": 1
+      "Rndar": 1
+      "Schüd": 1
+      "Teü": 1
+      "beüegt": 1
+      "büd": 2
+      "hÜflos": 1
+      "hüflose": 2
+      "schÜdert": 1
+      "schüdert": 2
+      "unheü": 1
+      "weü": 2
+  - raw_file: "raw/015-pindars-hymnos-auf-zeus.txt"
+    normalized_file: "normalized/015-pindars-hymnos-auf-zeus.txt"
+    raw_lines: 669
+    normalized_paragraphs: 18
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 0
+    repairs:
+      "Büd": 1
+      "Thaies": 1
+      "büd": 1
+      "freÜich": 1
+      "schüdert": 1
+  - raw_file: "raw/016-mythos-und-wirklichkeit-in-der-griechischen-tragoedie.txt"
+    normalized_file: "normalized/016-mythos-und-wirklichkeit-in-der-griechischen-tragoedie.txt"
+    raw_lines: 784
+    normalized_paragraphs: 22
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 1
+    repairs:
+      "MÜieu": 1
+      "Phüosoph": 1
+      "Piaton": 1
+      "aufteÜen": 1
+      "büd": 2
+      "phüosoph": 1
+      "schüdert": 1
+      "weü": 1
+      "wül": 1
+  - raw_file: "raw/017-aristophanes-und-die-aesthetik.txt"
+    normalized_file: "normalized/017-aristophanes-und-die-aesthetik.txt"
+    raw_lines: 812
+    normalized_paragraphs: 21
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 2
+    repairs:
+      "Büd": 3
+      "Phü": 1
+      "Piaton": 9
+      "Teü": 1
+      "gut durchaus": 1
+      "phüosoph": 1
+      "weü": 1
+      "wül": 1
+      "zuteÜ": 1
+  - raw_file: "raw/018-menschliches-und-goettliches-wissen.txt"
+    normalized_file: "normalized/018-menschliches-und-goettliches-wissen.txt"
+    raw_lines: 581
+    normalized_paragraphs: 16
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 2
+    repairs:
+      "Piaton": 5
+      "Teü": 1
+      "Thaies": 3
+  - raw_file: "raw/019-zur-entstehung-des-geschichtlichen-bewusstseins.txt"
+    normalized_file: "normalized/019-zur-entstehung-des-geschichtlichen-bewusstseins.txt"
+    raw_lines: 566
+    normalized_paragraphs: 16
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 0
+    repairs:
+      "AchÜl": 1
+      "Teü": 1
+      "Unheü": 2
+      "büd": 2
+      "freüich": 1
+      "weü": 1
+      "wül": 1
+  - raw_file: "raw/020-mahnung-zur-tugend.txt"
+    normalized_file: "normalized/020-mahnung-zur-tugend.txt"
+    raw_lines: 1368
+    normalized_paragraphs: 30
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 2
+    repairs:
+      "Archüochos": 1
+      "BereitwÜligkeit": 1
+      "Büd": 1
+      "Phü": 2
+      "Piaton": 13
+      "Teü": 1
+      "Unheü": 1
+      "WÜlen": 1
+      "büd": 2
+      "gut übrigens": 1
+      "hüft": 1
+      "phüosoph": 1
+      "weÜ": 2
+      "weü": 4
+      "wül": 1
+  - raw_file: "raw/021-gleichnis-vergleich-metapher-analogie.txt"
+    normalized_file: "normalized/021-gleichnis-vergleich-metapher-analogie.txt"
+    raw_lines: 1355
+    normalized_paragraphs: 38
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 0
+    repairs:
+      "Archü.": 2
+      "Archüochos": 1
+      "BÜder": 2
+      "Büd": 3
+      "Hüflosigkeit": 1
+      "Phüosoph": 2
+      "Piaton": 9
+      "SchÜd": 1
+      "Teü": 1
+      "Thaies": 1
+      "Unheü": 1
+      "WeiterbÜdungen": 1
+      "büd": 1
+      "freüich": 1
+      "phü": 1
+      "phüosoph": 2
+      "schüdert": 1
+      "weü": 4
+  - raw_file: "raw/022-die-naturwissenschaftliche-begriffsbildung-im-griechischen.txt"
+    normalized_file: "normalized/022-die-naturwissenschaftliche-begriffsbildung-im-griechischen.txt"
+    raw_lines: 689
+    normalized_paragraphs: 17
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 1
+    repairs:
+      "Büd": 1
+      "Phüosoph": 2
+      "Piaton": 7
+      "Thaies": 2
+      "büd": 5
+      "phüosoph": 3
+      "stabÜ": 1
+      "weÜ": 1
+      "weü": 3
+  - raw_file: "raw/023-das-symbol-des-weges.txt"
+    normalized_file: "normalized/023-das-symbol-des-weges.txt"
+    raw_lines: 603
+    normalized_paragraphs: 16
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 0
+    repairs:
+      "BÜd": 1
+      "Büd": 2
+      "MiÜeus": 1
+      "Phü": 1
+      "Phüosoph": 2
+      "Piaton": 4
+      "Thaies": 3
+  - raw_file: "raw/024-die-entdeckung-der-menschlichkeit.txt"
+    normalized_file: "normalized/024-die-entdeckung-der-menschlichkeit.txt"
+    raw_lines: 641
+    normalized_paragraphs: 16
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 3
+    repairs:
+      "Büd": 5
+      "Müde npaör": 1
+      "Phüanthrop": 2
+      "Phüanthropie": 3
+      "Phüosoph": 3
+      "Piaton": 12
+      "Sökrates": 1
+      "Thaies": 2
+      "Umecht": 1
+      "Wohlwollen und Müde": 1
+      "büd": 4
+      "freüich": 2
+  - raw_file: "raw/025-ueber-das-spielerische-bei-kallimachos.txt"
+    normalized_file: "normalized/025-ueber-das-spielerische-bei-kallimachos.txt"
+    raw_lines: 625
+    normalized_paragraphs: 17
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 1
+    repairs:
+      "Büd": 2
+      "Phüosoph": 2
+      "Piaton": 6
+      "Schüd": 1
+      "Thaies": 1
+      "Zivüisation": 1
+      "büd": 3
+      "phü": 1
+      "schüdert": 1
+      "wül": 3
+  - raw_file: "raw/026-arkadien.txt"
+    normalized_file: "normalized/026-arkadien.txt"
+    raw_lines: 908
+    normalized_paragraphs: 22
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 2
+    repairs:
+      "Büd": 1
+      "Phüosoph": 1
+      "Piaton": 6
+      "Teü": 1
+      "Vergü": 17
+      "büd": 5
+      "gut es als Trost": 1
+      "weü": 4
+      "wül": 1
+  - raw_file: "raw/027-theorie-und-praxis.txt"
+    normalized_file: "normalized/027-theorie-und-praxis.txt"
+    raw_lines: 392
+    normalized_paragraphs: 11
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 0
+    repairs:
+      "Phü": 1
+      "Phüosoph": 3
+      "Piaton": 14
+      "Thaies": 1
+      "freüich": 2
+      "hüft": 1
+      "phü": 1
+      "wül": 1
+  - raw_file: "raw/028-nachwort-1974.txt"
+    normalized_file: "normalized/028-nachwort-1974.txt"
+    raw_lines: 452
+    normalized_paragraphs: 12
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 0
+    repairs:
+      "Büd": 2
+      "Phüosoph": 1
+      "Piaton": 3
+      "weü": 1
+      "wül": 1
+  - raw_file: "raw/030-anmerkungen.txt"
+    normalized_file: "normalized/030-anmerkungen.txt"
+    raw_lines: 1859
+    normalized_paragraphs: 65
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 25
+    repairs:
+      "Phü": 3
+      "Phüol": 8
+      "Phüosoph": 3
+      "Piaton": 15
+      "Teü": 1
+      "Vergü": 2
+      "büd": 1
+      "phüosoph": 1
+  - raw_file: "raw/031-indices.txt"
+    normalized_file: "normalized/031-indices.txt"
+    raw_lines: 686
+    normalized_paragraphs: 23
+    suspect_greek_lines: 0
+    suspect_ocr_lines: 5
+    repairs:
+      "Phü": 1
+      "Piaton": 3
+      "Thaies": 1
